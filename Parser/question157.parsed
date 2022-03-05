@@ -1,0 +1,14 @@
+1	Doğa	doğa	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT	_	_
+2	ile	ile	Postp	Postp	PCNom	10	MODIFIER	_	_
+3	insan	insan	Noun	Noun	A3sg|Pnon|Nom	10	CLASSIFIER	_	_
+4	_	ara	Noun	Noun	A3sg|P3sg|Loc	5	DERIV	_	_
+5	arasındaki	_	Adj	Adj	Rel	6	MODIFIER	_	_
+6	etkileşimi	etkileşim	Noun	Noun	A3sg|Pnon|Acc	7	OBJECT	_	_
+7	_	incele	Verb	Verb	Pos	8	DERIV	_	_
+8	inceleyen	_	Adj	APresPart	_	10	MODIFIER	_	_
+9	bilim	bilim	Noun	Noun	A3sg|Pnon|Nom	10	CLASSIFIER	_	_
+10	dalı	dal	Noun	Noun	A3sg|P3sg|Nom	11	SUBJECT	_	_
+11	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	12	DERIV	_	_
+12	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

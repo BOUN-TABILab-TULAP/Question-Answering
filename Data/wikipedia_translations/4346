@@ -1,0 +1,23 @@
+Genişletici grafiği
+Kombinatorik olarak, genişletici grafik güçlü bağlantı özelliklerine sahip bir seyrek grafiği, tepe, kenar veya aşağıda tarif edildiği gibi spektral genişleme kullanılarak ölçülmüştür. Genişletici inşaatları karmaşıklık teorisi, sağlam bilgisayar ağlarının tasarımı ve hata düzeltme kodları teorisine çeşitli uygulamalarla, saf ve uygulamalı matematik araştırma estiren var.
+Tanımlar.
+Sezgisel bir genişletici "çok büyük" değil, köşe her alt kümesi bir "büyük" sınır olan bir sonlu, yönsüz ufak matbaa makinası olduğunu. Aşağıda tanımlandığı gibi, "kenar genişleticiler", "tepe genişletici" ve "spektral genişleticiler": Bu anlayışların değişik formalisations genişleticiler farklı kavramlar ortaya çıkarmaktadır.
+Bağlı bileşenin sınır boş olduğu bir bağlantısız grafik, bir genişletici değil. Her bağlı grafik bir genişletici; Ancak, farklı bağlı grafikleri, farklı genleşme parametreleri var. tam grafik iyi genişleme özelliğine sahiptir, ancak mümkün olan en büyük derecesi vardır. Gayri resmi bir grafik düşük derecede ve yüksek genleşme parametreleri varsa iyi bir genişletici olduğunu.
+Kenar genişleme.
+"N" noktalar üzerinde bir grafik "G" nin "kenar genişletme" (aynı zamanda "isoperimetric sayısı" ya da Cheeger sabit) "H" ("G") gibi tanımlanmıştır
+Minimum çoğu "n" / 2 köşe ve ∂ ("S") tüm boş olmayan kümeler "S" üzerinde nerede "" S "" kenar sınır ", yani tam olarak bir bitiş noktası olan kenarların kümesidir S ".
+Vertex genişleme.
+Bir grafik "G" nin "tepe isoperimetric numarası" formula_2 (aynı zamanda "köşe genişletme" ya da "büyütme") gibi tanımlanmıştır
+formula_4 yani "S", "S" en az bir komşusu ile formula_5 içinde noktaların seti "dış sınır" olduğu. Bu tanımın bir varyantında "S" "tam olarak" tek komşusu ile "V" köşe seti yerine formula_4 ("unique komşu genişleme" olarak adlandırılır).
+Bir grafik "G" nin "tepe isoperimetric numarası" formula_7 olarak tanımlanır
+Nerede formula_9 yani "S", formula_5 en az bir komşusu ile "S" noktaların kümesi "iç sınır" dir.
+Spektral açılım.
+"G" iken "D"-Düzenli, genişleme lineer cebirsel tanım formula_11 sayısı bitişiklik matrisi "G" nin "A" = "A" ("G") olarak özdeğer dayalı mümkündür köşeler "i" ve "j" arasında kenarları. "A" simetrik olduğundan, spektral teoremi "A" "n" gerçek değerli özdeğerleri formula_12 sahip olduğunu ima eder. [- "D", "D"] Bütün bu özdeğerler olduğu bilinmektedir.
+"G" normal olduğu için formula_14 tekdüze dağılımı formula_13 her "i" = 1, ..., "n", "G" durağan dağılımıdır. Biz de "Au" = "du" var, ve "u", "d" "G" nin köşe derecesi Özdeğer λ1 = "d" ile "A", bir özvektördür. "G" nin "spektral boşluğu", "d" -λ2 olarak tanımlanmaktadır ve bu grafikte "G" spektral genişleme ölçer.
+"D" eğer ve "G" ikili yalnızca - O λ "n" = bilinmektedir. Pek çok örnekte lemma karıştırma genişletici, örneğin, bu λ1 ve λ2 değil, aynı zamanda λ1 ve mutlak değeri, ikinci en büyük özdeğer arasındaki boşluğun arasındaki boşluğun, sadece aşağıdaki ilişkili için gerekli olan:
+Nerede λ normalize ikinci büyük özdeğer mutlak değeridir.
+Genişletme yürüyüş örnekleme.
+Aralığında bir rassal değişken birçok bağımsız örnekleri örnekleme yaparken [-1, 1], yüksek olasılıkla bizim numunelerin ortalama rassal değişkenin beklentisi yakın, Chernoff bağlı devletler. nedeniyle ve lemma, örnekleme genişletici yürüyüş, bir genişletici grafiğinde bir yürüyüş numune bu da geçerlidir belirtiyor. Bir genişletici yürüyüş göre örnekleme bağımsız örnekleme çok daha az rastgele bit kullanır, çünkü bu, derandomization teorisinde özellikle yararlıdır.
+Kaynaklar.
+Ders Kitapları ve anketler
+Araştırma makaleleri

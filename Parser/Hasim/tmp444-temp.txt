@@ -1,0 +1,23 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İki iki+Num+Card İki+Noun+Prop+A3sg+Pnon+Nom
+Z z+Noun+A3sg+Pnon+Nom Z+Noun+Prop+A3sg+Pnon+Nom
+çizgisi çizgi+Noun+A3sg+P3sg+Nom çizgi+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+arasındaki ara+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+bölgede bölge+Noun+A3sg+Pnon+Loc
+bulunan bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart bulun+Verb+Pos^DB+Adj+PresPart
+kasılma kas+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom kas+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+birime bir+Num+Card^DB+Noun+Zero+A3sg+P1sg+Dat bir+Adj^DB+Noun+Zero+A3sg+P1sg+Dat birim+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

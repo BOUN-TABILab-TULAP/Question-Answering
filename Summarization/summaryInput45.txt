@@ -1,0 +1,218 @@
+Question: Volkanlardan çıkan akışkan maddelere ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cam elyafı</DOCTITLE>
+<TEXT>
+
+Cam elyafı (fiberglas), çok ince cam telciklerinden üretilen bir maddedir. 
+Yalıtım ile dokuma ürünlerinde yaygın olarak kullanılır. Ayrıca birçok plastik üründe güçlendirici olarak da kullanılır ve ortaya çıkan bileşik maddelere de (örneğin, GRP "camla güçlendirilmiş plastik") halk arasında "Cam elyafı" adı verilir. Cam elyafı genellikle polyester reçineleri veya vinil ester reçineler ile farklı yöntemlerle (el yatırması, SMC, BMC, RTM, Fitil sarma, Reçine İnfüzyon gibi) takviye edilerek geleneksel kompozit CTP parçalar elde edilmektedir.
+Eritilmiş haldeki camın küçük deliklerden akıtılıp katılaştırılması sonucu üretilir. Isıl iletim katsayıları düşük olduğundan yalıtım malzemesi olarak kullanılırlar. Ayrıca yüksek mukavemet değerleri nedeniyle diğer malzemelerle birleştirilerek kompozit malzeme üretiminde kullanılır.
+Bunun yanında mayın kasası yapımında bolca kullanılmaktadır. Bunda en önemli neden cam elyafından üretilen mayının metal tarama aygıtlarına yakalanmamasıdır.
+Bugün bildiğimiz cam elyafının geliştirilmesi 1930’lu yılların sonlarına doğru yapılabilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akışkan yatak</DOCTITLE>
+<TEXT>
+
+Akışkan yatak, belli boyutlardaki katı taneciklerin sıvı gibi davrandıkları duruma verilen isimdir. Bu durum, basınçlı bir gazın, ortamı oluşturan katı tanecikler arasından geçmesiyle oluşur. Bu durumda katılar sıvı karakteristiği göstermeye başlar. Ayrıca taneciklerin elemental yapısını değişmeden, yoğunlukları azalır. Bu olaya "yataklama" adı verilir. Akışkan yataklar kurutucu olarak, kirli suların temizlenmesinde filte olarak kullanılabilir. Bunun dışında, yataktaki taneciklerin kurutulmasında da kullanılır.
+Akışkan yataklarda kullanılan basınçlı gaz, oratama genelde bir "dağıtıcı" üzerinden verilir. Dağıtıcı üzerinde bulunan birçok açıklık, gazın ortama homojen olarak dağılmasını sağlar. Dağıtıcıdan çıkan gaz, yatak boyunca ilerleyerek, yerçekimine karışı taneciklere kuvvet uygular. Eğer tanecikler üzerindeki nem uzaklaştırılmak isteniyorsa, bu işlem belirli bir sıcaklıkta gerçekleştirilir. Yatağa verilen gazın hızı üzerim durumuna göre ayarlanabilir. Gaz hızının arttırılması sonucu, bir noktada, gazın taneciklere etki ettiği kuvvet ile yerçekimi kuvveti eşit hale gelir. Bu durumda tanecikler havada asılı kalırlar.
+Bazı durumlarda küçük tanecikler yatağın üst kısmından ilerleyerek ortamdan uzaklaşabilir. Bu durumda, filtrasyon ile kaçan tanecikler toplanabilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alerjik konjonktivit</DOCTITLE>
+<TEXT>
+
+Alerjik konjonktivit aslında bir grup hastalığı tanımlayan genel bir terimdir. Temelde tip I aşırı duyarlılık reaksiyonu ile birlikte görülmekte birlikte, süreğen -kronik- tiplerinde hücresel bağışık yanıt da -tip IV reaksiyon- rol oynamaktadır.
+Alerjik konjonktivit.
+Mevsimsel.
+En sık rastlanan alerjik göz hastalığıdır, genellikle çocuklukta başlar, aile öyküsü vardır, astım gibi benzer alerjik şikayetler bulunabilir. Yatkın bireylerin, konjonktivasına temas eden havadaki allerjen maddeler, konjonktivada, tip I alerji reaksiyonu oluşturur. Konjonktivada yer alan bazofil ve mast hücrelerinin IgE antikorları için reseptörleri vardır. Hücre içerisindeki salgısal taneciklerden, histamin proteoglikan (heparin), proteazlar (triptaz), gibi etken maddeler de salgılanır. Bu etken maddeler, damar duvar geçirgenliğinde artış, akciğer bronşlarında daralma, yangı hücrelerinin ortama çekilmesi gibi etkilere sahiptir. Konjonktivada bu açığa çıkan maddelere bağlı olarak; gözlerde kaşınma, kızarma ve sulanma görülür. Göz kapakları hafif şişmiş olabilir, kornea çoğunlukla salimdir ve kişinin görmesi etkilenmemiştir. Aynı zamanda, burun akıntısı, hapşırma, burunda tıkanıklık ve kaşıntı gibi, alerjik rinit bulguları da olabilir.
+Tedavisinde, soğuk kompresler, etkenden kaçınması, antihistaminik ilaçlar, nonsteroidal anti inflamatuar (NSAİ) ilaçlar, kortikosteroidli damlalar kullanılabilir.
+"Not: Kortikosteroidli damlaların ciddi yan etkileri bulunur."
+Pereniyal (Sürekli).
+Pereniyal, kelime anlamı olarak yıl boyunca süren demektir. Pereniyal alerjik konjonktivit, aslında mevsimsel alerjik konjonktivitin türevidir, belirtileri ve bulguları bir miktar daha hafif olmakla birlikte mevsimsel alerjik konjonktivitte olduğu gibidir. Bu hastalıkta mast hücreleri sürekli aktiftir ve etken maddeleri sürekli bir şekilde salgılarlar. Zaman zaman alevlenmeler ve, eşlik eden alerjik rinit bulguları da olabilir. Bu hastalıktan genellikle, mevsimsel özellik göstermeyen allerjenler sorumludur, bunlar, akarlar, mantarlar, ev tozu, kuş tüyleri gibi daha çok organik kökenli moleküllerdir. Tedavisi, mevsimsel alerjik konjonktivitte olduğu gibidir, ilaçların sürekli kullanılması gerekebilir.
+Akut anaflaksi.
+Allerjene maruz kalma ile ani olarak ağır kapak ödemi, konjonktivada kızarıklık, ve ödem gelişebilir. Allerjen etken olarak topikal ilaçlar, polenler, mantarlar ve böcek ısırmaları sayılabilir. Aynı zamanda alerjinin diğer belirtileri olan rinit ve ürtiker de görülebilir. İleri olgularda anaflaksi bulguları (anjioödem, bronkospazm ve hipotansiyon) bulunabilir. Tedavisinde soğuk kompresler, sistemik ve topikal antihistaminikler, damar büzücü (vazokonstriktör) ilaçlar genellikle yeterli olur. Ağır olgular ölüm riski içerir, anaflakside olduğu gibi tedavi edilmelidir.
+Dev papiller konjonktivit.
+Bu tip, konjonktivada ve korneada daha şiddetli bir tutulum yapar. Dev papiller alerjik konjonktivit oluşumunda Tip I aşırı duyarlılık yanı sıra hücresel bağışıklık da sorumludur. 
+Vernal konjonktivit.
+Vernal konjonktivit, tipik olarak çocukluk çağlarında, 10 yaş öncesinde başlar ve 20’li ve 30’lu yaşlarda sıklığı azalır. Ergenlikten önce erkeklerde kızlara göre 2-3 kat daha fazla görülür ancak 20 yaşından sonra cinsiyetler arasında bu görülme sıklığı farkı ortadan kalkar. Limbal ve palpebral olmak üzere iki formu vardır. Palpebral formda, özellikle üst göz kapak konjonktivasında, limbal formda ise kornea ve sklera bileşke bölgesindeki konjonktivada tutulum vardır. Erken evrelerde küçük ve sayıca az olan papillalar, zamanla sayıca ve hacim açısından artış gösterirler, ve konjonktivada kaldırım taşı manzarasında dev papillalara dönüşürler. Konjonktiva ödemli ve kalınlaşmış olarak izlenir. 
+Her iki formda da ağır olgularda kornea tutulumu olabilir. Bir önceki konuda sözü geçen genel tedavi önlemleri bu hastalık için de geçerlidir. Tedavinin temel bileşeni mast hücre membran stabilazörü ilaçlardır. İlaçların yıl boyunca kullanılması gerekebilir. Ağır olgularda kısa süreli kortikosteroidli damlalar kullanılabilir. 
+Atopik keratokonjonktivit.
+Genellikle ailesel veya kişisel olarak, atopik dermatit, astım, alerjik rinit, ürtiker veya besin alerjisi gibi atopik hastalığı olan kişilerde görülür. Atopik keratokonjonktivit olan hastalarda en sık rastlanan atopik hastalıklar, astım ve atopik dermatitdir. Atopik dermatiti olanların yaklaşık %25’inde atopik keratokonjonktivit vardır. Çocuklukta başlayabilse de vernal konjonktivitden farklı olarak daha geç olarak 20’li yaşlar civarında başlar. Göz kapakları sıklıkla tutulmuştur, göz kapaklarının cildi kızarık ve pul pul olmuştur. Konjonktiva tutulumu genellikle alt kapaktadır, papillalar vardır ancak bunlar vernalde olduğu kadar belirgin değildir, daha çok skatrizan -yara yeri iyileşme dokusu- bir görünüm vardır. Kornea tutulumu vardır. Tedavisi vernal olduğu gibidir, kirpik diplerinin temizliği ve hijyeni önemlidir. Cilt tutulumu için sistemik ilaç tedavisi gerekebilir.
+Etkene bağlı dev papiller konjonktivit.
+Kontakt lenslere, göz küresine uygulanmış bazı protez veya eksplantlara veya göz ve çevre dokularında kullanılan dikiş malzemesine bağlı olarak gelişir. Oluşmasında mekanik irritasyonunun önemli bir yeri vardır. Tedavisinde yol açan etkenin ortadan kaldırılması ve antialerjik ilaçların kullanılması gerekebilir.?
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akmazlık</DOCTITLE>
+<TEXT>
+
+Viskozite ya da akmazlık, akışkanlığa karşı direnç. Viskozite, bir akışkanın, yüzey gerilimi altında deforme olmaya karşı gösterdiği direncin ölçüsüdür. Akışkanın akmaya karşı gösterdiği iç direnç olarak da tanımlanabilir. Viskozitesi yüksek olan sıvılar ağdalı olarak tanımlanırlar.
+Süper akışkanlar hariç tüm gerçek akışkanlar yüzey gerilimine karşı direnç gösterirler. Öte yandan, yüzey gerilimine hiç direnç göstermeyen bir akışkan "ideal akışkan" olarak adlandırılır.
+Newton kuramı.
+Genellikle herhangi bir akış esnasında akışkanın tabakaları farklı hızlarda hareket ederler ve akışkanın akmazlığı, uygulanan kuvvete karşı direnç gösteren tabakalar arasındaki yüzey gerilimlerinden dolayı ortaya çıkar. 
+Isaac Newton'un öne sürdüğü üzere, laminer ve paralel bir akışta, tabakalar arasındaki yüzey gerilimi (τ) bu tabakalara dik yöndeki hız gradyeni (∂"u"/∂"y") ile orantılıdır.
+Buradaki μ sabiti, "akmazlık değişmezi", "akmazlık", veya "durağan akmazlık" olarak bilinir. Su ve gazların çoğu Newton yasasına uyarlar ve Newtonyen akışkanlar olarak adlandırılırlar. Newtonyen olmayan akışkanlarda ise, yüzey gerilimi ile hız gradyeni arasındaki basit lineer (doğrusal) ilişki çok daha karmaşık bir hal alır.
+Pek çok durumda akmazlık kuvvetlerin eylemsizlik kuvvetlerine olan oranı ile ilgilenilir. Atalet kuvvetlerinin akışkanın yoğunluğu (ρ) ile karakterize edildiği bilindiğinden bu oran kinematik akmazlık olarak adlandırılır ve gösterimi:
+şeklindedir.
+Viskozite genellikle farklı viskozimetrelerle ve 25 °C'de ölçülür. Bazı akışkanların viskozitesi, geniş bir yüzey gerilimi aralığında sabittir. Viskozitesi sabit olmayan akışkanlar Newtoyen olmayan akışkanlar olarak adlandırılır.
+Birimler.
+Akmazlık (dinamik akmazlık): formula_3.
+Dinamik akmazlığın SI birimi (Yunan sembol: formula_3) pascal-saniye (Pa·s) olup 1 kg·m−1·s−1 ye eşdeğerdir. 
+Dinamik akmazlığın cgs birimi, Jean Louis Marie Poiseuille adına ithafen "poise" (P) dır. Genellikle yüzde birlik miktarı olan "centipoise" (cP) kullanılır. Örneğin suyun akmazlığı 20 °C'de 1.0020 cP dir.
+Kinematik akmazlık: formula_5.
+Kinematik akmazlığın (Yunan sembol: formula_6) SI birimi (m2·s−1) dir. Kinematik akmazlığın cgs birimi George Gabriel Stokes'un adına ithafen "stokes" olup S veya St şeklinde kısaltılır. Bazen "centistokes" (cS veya cSt) şeklinde de kullanılabilir. 
+Kinematik ve dinamik akmazlık arasındaki dönüşüm ise formula_7 şeklinde verilir ve eğer formula_8 = 1 St ise 
+Gazlar.
+Gazların viskozitesi, akış tabakaları arasında momentum taşınımını sağlayan moleküler difüzyondan kaynaklanır. Gazların kinetik teorisi, gazların viskozitesinin (teorinin uygulandığı rejim içinde geçerli olmak üzere) doğru olarak tahminine yardımcı olur:
+Sıvılar.
+Sıvılarda, moleküller arasındaki ilave kuvvetler önemli hale gelir. Bu durumda yüzey gerilimine ilaveler olacaktır ki olgu bugün dahi tartışmalıdır. Dolayısıyla, sıvılarda:
+Sıvıların dinamik viskozitesi, gazların dinamik viskozitesinden birkaç on kat daha büyüktür.
+Havanın akmazlığı.
+Havanın viskozitesi sıcaklığa bağımlı olup 15.0 °C'de 1.78 × 10-5 kg/m.s dir.
+Suyun akmazlığı.
+Suyun viskozitesi 8.90 × 10-4 Pa•s veya 8.90 × 10-3 dyne-sec/cm2 dir (25 °C'de).
+Değişik türdeki malzemelerin akmazlığı.
+Dinamik viskozitenin sıcaklıkla değişimini hesaplamak amacıyla Sutherland formülü (Crane, 1988) kullanılabilir:
+formula_9 
+burada:
+0 < T < 555K arasındaki sıcaklıklar için geçerlidir. 
+Bazı gazlar için Sutherland sabiti ve referans sıcaklığı değerleri:
+Bazı Newtonyen akışkanların dinamik viskozite değerleri aşağıda verilmektedir. 
+Gazlar (0 °C'de):
+Sıvılar (25 °C'de):
+a Kaynak: CRC Handbook of Chemistry and Physics, 73. basım, 1992-1993.
+Daha detaylı bir tabloya buradan ulaşılabilir.
+Akışkanlık.
+Viskozitenin tersi "akışkanlık" tır ve genellikle φ (= 1/μ) veya F (= 1/η) ile gösterilir. Birimi poise'ın tersi olup (cm·s·g-1), "rhe" olarak okunur. Mühendislik uygulamalarında nadiren kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süperkritik akışkan</DOCTITLE>
+<TEXT>
+
+Süperkritik akışkan, belirgin sıvı ve gaz fazının olmadığı kritik noktanın üzerinde basınç ve sıcaklığa sahip madde. Katıların içinde gaz gibi dağılabilir ve maddeleri sıvı gibi çözebilir. Ayrıca süperkritik akışkanın kritik noktasına yakın durumlarda, sıcaklık ve basınçtaki küçük değişimler, yoğunlukta büyük değişimlere sebep olabilir bu da süperkritik akışkanın birçok özelliğinin üzerinde ince ayar yapılabilmesini sağlar.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akışkan</DOCTITLE>
+<TEXT>
+
+Akışkan, sıvıları, gazları, plazmaları ve bazı durumlarda plastik katıları (eriyik) kapsayan, maddenin hallerinin bir altkümesidir. 
+Akışkanlar, kayma gerilmesi altında sürekli biçim değiştirir (akar). Akışkanlar, akma kabiliyetinin bir sonucu olarak bulundukları kapların şeklini alır.
+Bu özellikler, tipik olarak durağan denge halinde kayma gerilmesine dayanamamanın bir sonucudur. Bir katıda, gerinme, zorlanmanın fonksiyonu iken, bir akışkanda, gerinme zorlanma oranının fonksiyonudur. Yani katı cisim kayma gerilmesine mağruz kaldığında şekil değişimine uğrar ve bu şekil değişimi katının elastik şekil değişimi ile sınırlıdır. Akışkan ise kayma gerilmesine uğradığı sürece şekil değişimine (yani akmaya) devam eder. 
+Bu davranışın sonucu, akışkanın durum karakteristiğinde basıncın rolünün önemini gösteren Pascal yasası’dır.
+Akışkanlar özelliklerine göre ikiye ayrılabilir:
+Akışkanların davranışı, Navier–Stokes denklemlerini içeren, bir grup kısmî diferansiyel denklemler ile tanımlanır.
+Akışkanlar, gazlar ve sıvılar içerisinde de sınıflandırılmışlardır. Sıvılar serbest yüzey formundadır (yani, yüzey bulunduğu kap tarafından şekillendirilmemiştir), gazlar ise değildir, tüm hacmi kaplar.
+Katılar ve akışkanlar arasındaki fark, bazen çok açık değildir. Fark maddenin viskozitesinin saptanması ile oluşur; örneğin, silikon plastik farklı zamanlarda hem katı, hem de akışkan olarak tanımlanabilir.
+Akışkanların özelliklerini inceleyen çalışmalar, akışkanlar mekaniği olarak adlandırılır. Akışkanlar mekaniği de akışkanın hareket haline bağlı olarak, akışkanlar dinamiği ve akışkanlar statiği olarak alt bölümlere ayrılır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akışkan (spiritüalizm)</DOCTITLE>
+<TEXT>
+
+Bu sayfa, Vikipedi'nin gereğince silinmeye aday görülmüştür.
+Lütfen fikirlerinizi sayfasında belirtiniz.
+Sayfa üzerinde değişiklik yapabilirsiniz, fakat lütfen tartışma devam ederken sayfanın içini boşaltmayın veya bu uyarıyı kaldırmayın. Birleştirme ve isim değiştirme konularında daha fazla bilgi için sayfasını okuyunuz.
+Akışkan (fluid, fluide) Metapsişik terminolojide katı, sıvı ve gaz hallerindeki maddelere oranla yoğunlukları daha az, vibrasyonel hız düzeyleri daha yüksek, akıcı bir özelliğe sahip oldukları kabul edilen maddelere verilen addır. 
+Bu maddelerin içeriği, esîr gibi, laboratuvar koşullarında henüz tam anlamıyla anlaşılamamış durumdadır. Isı, ışık, manyetizm ve elektrik olaylarını bazı fizikçiler etkileyen ve etkilenen maddeler arasında aracılık yaptıkları varsayılan, sıkıştırılamaz ve tartılamaz oldukları ileri sürülen, akışkan adı verilen bu etkenlerle açıklamaya çalışmışlardır.
+Okültizm’de Akışkan.
+Akışkanlar konusundaki ilk fikirler okültistlerden gelmiştir. Okültizme göre aslında evrende boşluk diye bir şey yoktur ve akışkanlar vasıtasıyla insan gök cisimlerinden gelen birtakım etkiler altında bulunmaktadır. Akışkanlar kendilerine uygun yüksek titreşimlerden etkilenme özelliğine sahiptirler. İnsanın kimilerince astral beden,kimilerince duble adı verilen manyetik bedeninin akışkanlardan oluştuğu kabul edilir.
+Akışkan Türleri.
+İnsanla ilgili olan akışkanlar, gördükleri fonksiyona bağlı olarak, “ısı akışkanı”, “manyetik akışkan”, “sinirsel akışkan” ve “yaşamsal akışkan” gibi farklı adlar almışlardır. Ruhçuluğa göre, bu akışkanlar, ruhun etkisi altında birbirlerine dönüşebilirler. Ruhçular, yaşamsal akışkanın ya doğrudan ya da sinirsel akışkan üzerine etkide bulunarak perispri ile fiziksel beden arasındaki ilişkileri sağladığı görüşündedirler. Akışkanın eski Türkçe’deki karşılığı seyyaledir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Canlısal manyetizma</DOCTITLE>
+<TEXT>
+
+Canlısal manyetizma ya da kısaca manyetizma, insanları etkilediğine inanılan görünmez ve gizemli bir kuvvet. Manyetizma çalışmaları, insandan yayıldığına inanılan bir takım titreşimler ve akışkanların diğer canlılar üzerinde fizyolojik ve psikolojik etkileri olduğu inancı çevresinde kurulmuştur. 
+Tarihçe.
+Manyetizma kimilerine göre eski çağlarda inisiyelerce bilinmekte ve uygulanmaktaydı. Orta Çağ Avrupa’sında manyetizmacıların büyücülerle birlikte yakılmasından sonra manyetizma Avrupa’da tümüyle unutulmuş ve Batı’nın gündemine uzun bir aradan sonra, Mesmer’le tekrar gelmiştir. Manyetizma kavramını ilk kullanan kişi Alman doktor Franz Anton Mesmer’dir (1734-1815). Fakat somnambülizm denilen uyku halini manyetik süreçle ilk oluşturan kişi Armand Marie Jacques de Chastenet’dir (Marki Puységur,1751-1825). Sonraları fizikçi Joseph Philippe François Deleuze (1753-1835), Jules Denis, (baron du Potet, 1796-1881) ve Jean de la Fontaine manyetizmayı sistemli hale getirmiş ve sonunda Hector Durville ilk manyetizma ekolünü Paris’te kurmuştur.
+Bilimsel incelemeye konu oluşu.
+Mesmer’in çalışmaları 18.yüzyılın bilim otoritelerince aşağılanmış ve reddedilmişse de, günümüzde manyetizma çeşitli adlar altında çeşitli alanlarda uygulanmaktadır ve bilimsel kimliğini değişik adlar altında kazanmaya başlamış bulunmaktadır. Manyetizmacıların 18.yy.’da varlığını ileri sürdükleri manyetik akışkanların fotoğrafları günümüzde kirlian fotoğrafçılığı denilen çeşitli tekniklerle çekilebilmektedir. Bu fotoğrafçılık tekniği bir Rus mühendis olan Semyon Kirlian tarafından geliştirilmiştir. Sosyalist ülkelerin Batıya açılmasından önceki dönemde, sözkonusu manyetik güç sosyalist ülkelerde biyoenerji adı altında incelenmekteydi. Psikotronik enerji de denilen biyoenerji üzerine çalışmalar özellikle Sovyetler Birliği’nde ve Çekoslovakya’da önem kazanmıştı. Manyetizma alanında incelemelerde bulunan diğer araştırmacılar sözkonusu güçle, canlılardan çıkan bu yayılmayla ve akışkanlarla ilgili olarak şu farklı terimleri kullanmışlardır: Evrensel yaşam gücü, od, manyetik güç, manyetik akışkan, sinirsel akışkan, organik radyasyon.
+Uygulanma.
+Günümüzde, canlısal manyetizma adının artık pek telaffuz edilmemesine karşın, hipnoza gerek duyan tüm alanlarda kullanılmasının yanı sıra, manyetizma, hipnozun gerekmediği alanlarda da, özellikle tedaviye yönelik uygulamalarda yaygın biçimde kullanılmaktadır. Manyetik şifacılık farklı ülkelerde farklı adlarla ve farklı tekniklerle uygulanmaktadır. (Bazı Doğu bloğu ülkelerinde biyoenerji tedavisi,Uzakdoğu’da reiki, seiki-jutsu teknikleri, ABD’nde terapötik dokunma tekniği vs.) Manyetizmacılara göre, manyetik şifacılık gücü, değişik oranlarda da olsa aslında her insanda vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kita Oluşumu (Epirojemez) (EBA)</DOCTITLE>
+<TEXT>
+
+Yer kabuğunda meydana gelen geniş alanlı alçalma ve yükselmeler epirojenez olarak ifade edilir. Yer kabuğunu oluşturan levhalar manto üzerinde dengeli bir biçimde dururlar. Buna izostatik denge denir. Ancak bu denge, yer kabuğu üzerinde meydana gelen çeşitli olaylar sonucunda bozulabilir.
+Karalar üzerinde meydana gelen buzullaşma sonucunda kara kütlesinin ağırlığı artar ve kara kütlesi çöker. Deniz suları karaya doğru ilerler. Buna transgresyon ( deniz ilerlemesi) denir. Aşınma ve buzulların erimesi sonucu karalar hafiflemekte ve yükselmektedir. Bunun sonucunda da regresyon (deniz gerilemesi) ortaya çıkar.
+Epirojenik hareketlere örnek olarak İskandinav Yarımadası ve Kanada verilebilir. Buzul Çağında buralarda 1-2 km kalınlığında bir buzul örtüsü vardı. Sonradan buzullar eriyince karaların üzerindeki yük azaldı ve tekrar yükselmeye başladı. Yükselme, günümüzde de yavaş yavaş devam etmektedir.
+VOLKANİZMA
+Etna Yanardağı’nın ani püskürmesi harika bir manzara olabilir, ancak çevreye büyük zarar vermektedir. Bununla birlikte insanlar, tarih boyu sadece İtalya'da değil, Havvaii’de, İzlanda’da, ABD'de, Meksika'da yani Dünya’nın birçok yerinde volkanlarla iç içe yaşamışlardır.
+Volkanik faaliyetler, meydana geldikleri yere göre adlar alırlar.
+a. Derinlerde meydana gelen magmatik faaliyetler
+Magma yerin zayıf olan dirençsiz noktalarındaki tektonik kırılma alanlarından yüzeye fışkırır. Ancak Volkan	bu olay her zaman	yaşanmayabilir. Yer kabuğunun tabakaları arasına kadar sokulan magma yüzeye çıkmadan çeşitli derinliklerde katılaşarak batolit, dayk, lakolit, sili gibi değişik şekiller oluşturur. Bu şekiller, dış kuvvetlerin üstteki tabakaları aşındırması sonucu yüzeye çıkar.
+b. Yüzeyde meydana gelen magmatik fcicdiyetler
+Yerin içinde bulunan magmanın çatlaklardan yeryüzüne çıkması ile volkanik püskürme meydana gelir. Yeryüzüne çıkan magmaya lav denir. Lavlar'volkan dağının yamaçlarından aşağı doğru akar.
+Kül ve gaz bulutları gökyüzünü kaplar.
+Volkanik faaliyetler deniz altında da devam eder. Üst üste biriken volkanik materyal zamanla deniz yüzeyine çıkarak bir ada hâlini alabilir.
+Volkanlar, etkinliklerine göre aktif ve değişik türde malzemeler çıkarırlar.
+Volkanlardan çıkan malzemelerden, boyutları 1 cm’den küçük olanlara volkan külü, 1 cm’den büyük olanlara lapilli, daha büyük olanlara ise volkan bombası adı verilir.
+Lapilli
+Yanardağın tepe kesimindeki baca çukurluğuna krater denir.
+Volkanın tepe kısmının çökmesi ya da patlayarak parçalanmasıyla oluşan çukurluğa kaldera denir.
+sönmüş volkanlar olarak ikiye ayrılır. Aktif volkanlar katı, sıvı ve gaz gibi
+Volkanik arazilerde yer altında biriken gazların büyük bir basınçla patlama şeklinde yüzeye çıktığı yerlerde oluşan çukurluklara maar adı verilir.
+Volkan küllerinin çimentolaşmasıyla, hafif yumuşak, çok gözenekli volkanik taşlar tüf tabakalarını oluşturur.
+Lavlar aktığı yerlerde çeşitli zararlara sebep olur.
+Volkan Şekilleri
+Yerkürenin derinliklerinde bulunan magma, yer kabuğundaki kırık ve çatlaklardan yüzeye sokulur ya da yeryüzüne çıkarak o alanı şekillendirir. Volkanların püskürttüğü malzemeler ve çıkan lavların akış özelliklerine bağlı olarak çeşitli volkan şekilleri ortaya çıkmıştır
+Kül (Piroklastik) Volkanlar
+Volkanizma sırasında yeryüzüne püskürtülen volkan külü volkan kumu, lapilli, volkan bombası gibi çeşitli boyuttaki, katı maddelerin volkan bacasının çevresine üst üste yığılmaları ile oluşmuş koni biçimli volkanlardır.
+Kalkan Volkanlar
+Akıcı lavların bir bacadan çıkarak birikmesi sonucunda oluşan, geniş alanlı ve kubbem-si bir görünüşe sahip volkanlardır. Güneydoğu Anadolu’daki Karacadağ bu şekilde oluşmuştur.
+Tabakalı Volkanlar
+Magmadan değişik dönemlerde yükselen, fazla akıcı olmayan farklı karakterdeki malzemenin birikmesi ile oluşur. Türkiye’nin en yüksek dağı olan Ağrı Dağı bu şekilde oluşmuştur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yayla</DOCTITLE>
+<TEXT>
+
+Yayla (plâto), yüksek yerlerdeki derin akarsu vadileriyle yarılmış yüksekte kalan düz arazi şeklidir. Yükseklikleri beş yüz metreden birkaç bin metreye kadar çıkabilir. Örneğin Türkiye'deki Erzurum-Kars yaylasının yüksekliği 2000 metre civarında (1800 m) olmasına rağmen Orta Asya'da bulunan Pamir Yaylasının yüksekliği 4000 m civarındadır. 
+Dünyada en geniş ve yüksek plato Tibet Platosu'dur. Dünyanın çatısı (roof of the world) olarak isimlendirilir. Tibet Platosu 2,5 milyon km karelik bir alanı kapsar (Fransa veya Teksas'ın dört kat büyüklüğündedir) ve deniz seviyesinden ortalama yüksekliği yaklaşık 16.400 ayak (feet) (5.000 mt) dir. Yükseklikleri 26.248 ayak(feet) (8.000 mt) den daha fazla olan 14 dağ ve yükseklikleri 22.967 ayak (feet) (7.000 mt) dan daha fazla olan yüzlerce dağ içermektedir. Yarlung Zangbo nehri plato içinde karşıdan karşıya akmakta ve Dünya'da en derin kanyon olan "Yarlung Zangbo Grand Canyon" unu kesmektedir. Plato jeolijik aktifitelerini günümüzde hala sürdürmekte ve her yıl ortalama olarak 0,04 inç (0,1 santimetre) yükseklik kazanmaktadır.
+Yaylayı parçalayarak bir ağ gibi saran akarsu vadileri arasında kalan düz veya az eğimli yayla parçaları, vadilerin derinleşerek ve yayılarak genişlemesiyle daralır ve yayla dağlık-tepelik bir şekil alır.
+Yaylaların meydana gelişleri değişik şekillerde olur. Bazı yaylalar, volkanlardan püsküren lavların meydana getirdiği tabakaların akarsular tarafından yarılmasıyla ortaya çıkar. Bu tip yaylalara Kuzey Amerika'da rastlanır. Diğer bir şekil ise aşınma neticesinde deniz seviyesine kadar alçalan düzlüklerin jeolojik hareketlerle tekrar yükselerek akarsular tarafından yarılmasıdır. Bazıları ise dağlar arasında meydana gelmiş olan geniş yatay düzlüklerin yine akarsu vadilerince yarılarak parçalanmasıyla ortaya çıkar.
+Yayla, coğrafik bir yüzey şekli olması yanında Türkiye'de değişik manalarda da kullanılır. Yazın hayvan otlatmak için çıkılan dağlık ve ormanlık bölgelerdeki yüksek, düz, otluk yerlere yayla dendiği gibi; dinlenme, tatil yapma gayesiyle çıkılan yüksek yerlere, hatta şehir gibi yerleşim yerlerindeki yüksek kısımlarda bulunan mahallelere bile yayla adı verilir. Şehir ve köylere göre daha serin ve yağışlı olan bu tip yaylalar hayvancılığın gelişmesinde büyük fayda sağladığı gibi, bu yerlerde yaşayan ahaliye ekonomik destek de sağlar. Memleketimizde sayılamayacak kadar çok olan bu yaylaların dinlenme, turizm gayesiyle kullanılan ve mahalle niteliğinde olanları turizm tatil köyleri haline gelmekte hatta geçici yerleşim yeri olmaktan çıkıp daimi yerleşim yerleri olmaktadır.
+Türkiye'nin hemen hemen bütün bölgelerinde yaylalara rastlamak mümkündür; Giresun-Akçalı köyü Tarsus-Namrun, Ardahan-Bülbülen, Posof-Urama Yaylası, İskenderun-Soğukoluk ve Belen, Kemaliye-Sarıçiçek ve Munzur, Artvin-Kafkasör-Kutul Yaylası, Ordu-Çambaşı, Kaş-Gömbe, Mersin-Fındıklıpınar, Kadirli-Maksutoğlu, Cardak, Gürlevik Muğla-Karabağ, Giresun-Kümbet, Gümüşhane-Kadırga, Konya-Yalıhüyük-Gölcük Yaylası, meşhur yaylalardan bazılarıdır.
+
+</TEXT>
+</DOC>
+

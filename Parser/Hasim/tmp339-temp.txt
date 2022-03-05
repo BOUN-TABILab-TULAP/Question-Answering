@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Karakter karakter+Noun+A3sg+Pnon+Nom
+bakımından bakım+Noun+A3sg+P3sg+Abl bakım+Noun+A3sg+P2sg+Abl
+heterozigot heterozigot+Noun+Prop+A3sg+Pnon+Nom
+olan ol+Verb+Pos^DB+Adj+PresPart
+bireylere birey+Noun+A3pl+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

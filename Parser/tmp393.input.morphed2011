@@ -1,0 +1,47 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Yumuşakçaların	yumuşak+Adj^DB+Adj+AsIf^DB+Noun+Zero+A3pl+P2sg+Nom
+Yumuşakçaların	yumuşak+Adj^DB+Adj+AsIf^DB+Noun+Zero+A3pl+Pnon+Gen
+Yumuşakçaların	yumuşakçalar+Noun+A3pl+Pnon+Gen
+Yumuşakçaların	yumuşakçalar+Noun+A3pl+P2sg+Nom
+
+plazmasında	plazma	+Noun+A3sg+P3sg+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+mavi	mavi	+Adj
+
+renkli	renk	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+solunum	sol	+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A1sg
+solunum	sol	+Noun+A3sg+Pnon+Gen^DB+Verb+Zero+Pres+A1sg
+solunum	solunum	+Noun+A3sg+Pnon+Nom
+
+pigmenti	pigment	+Noun+A3sg+P3sg+Nom
+pigmenti	pigment	+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

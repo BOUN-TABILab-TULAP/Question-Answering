@@ -1,0 +1,30 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çocuklarda çocuk+Noun+A3pl+Pnon+Loc
+görülen gör+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+D d+Noun+A3sg+Pnon+Nom
+vitamini vitamin+Noun+A3sg+Pnon+Acc vitamin+Noun+A3sg+P3sg+Nom
+eksikliğinde eksik+Adj^DB+Noun+Ness+A3sg+P2sg+Loc eksik+Adj^DB+Noun+Ness+A3sg+P3sg+Loc eksik+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Loc eksik+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Loc
+kemiklerde kemik+Noun+A3pl+Pnon+Loc
+yumuşama yumuşa+Verb+Neg+Imp+A2sg yumuşa+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+ve ve+Conj
+eğilme eğ+Verb^DB+Verb+Pass+Neg+Imp+A2sg eğ+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+meydana meydan+Noun+A3sg+Pnon+Dat
+gelmesi gel+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+sonuçlanan sonuç+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
+kemik kemik+Adj kemik+Noun+A3sg+Pnon+Nom
+hastalığına hasta+Adj^DB+Noun+Ness+A3sg+P2sg+Dat hasta+Adj^DB+Noun+Ness+A3sg+P3sg+Dat hastalık+Noun+A3sg+P3sg+Dat hastalık+Noun+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

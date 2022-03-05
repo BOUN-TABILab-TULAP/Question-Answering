@@ -1,0 +1,10 @@
+1	Süper	süper	Noun	Noun	A3sg|Pnon|Nom	8	SUBJECT	_	_
+2	dişi	dişi	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	sendromuna	sendrom	Noun	Noun	A3sg|P3sg|Dat	8	DATIVE.ADJUNCT	_	_
+4	sahip	sahip	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	bireylerin	birey	Noun	Noun	A3pl|Pnon|Gen	6	POSSESSOR	_	_
+6	genotipi	genotip	Noun	Noun	A3sg|P3sg|Nom	8	OBJECT	_	_
+7	_	nasıl	Adj	Adj	_	8	DERIV	_	_
+8	nasıldır	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

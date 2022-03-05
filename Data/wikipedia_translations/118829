@@ -1,0 +1,25 @@
+Alel frekansı
+Alel frekansı, ya da gen frekansı, düşünülen tüm alel kopya arasında belirli bir alel oranı (bir gen varyantı) 'dir. Resmi olarak, belirli bir alel ile temsil edilen bir popülasyon gen havuzu içinde belirli bir lokusta tüm allel yüzdesi olarak tanımlanabilir.
+Diğer bir deyişle, bir popülasyondaki genetik yeri (lokus) tüm allellerin kopya sayısına bölünmesi belirli bir alelin kopya sayısıdır. Genellikle yüzde olarak ifade edilir. Popülasyon genetiği olarak, allel frekansları birey, nüfus ve tür düzeyinde genetik çeşitlilik miktarını tasvir etmek için kullanılır. Aynı zamanda, belirli bir tiptedir, bir genin her alel göre oranıdır.
+Given the following: 
+Daha sonra alel frekansı fraksiyon ya da belirli bir alel tarafından işgal edilmesidir lokusunun tüm oluşumları yüzdesi ve alellerin bir frekans "a / (n * K)" dir.
+Örneğin, bir alel sıklığı beş kromozom biri o alel taşıyacak, daha sonra nüfus üyeleri arasında, belirli bir nüfusta% 20 ise. Beş üzerinden dört geninin diğer varyantı (ler) tarafından işgal edilecektir.
+Diploid genler için bu alel neredeyse "iki beş" olabilir taşıyan "bireyler" (% 36) fraksiyonu unutmayın. Bunun nedeni alel rasgele dağıtır, sonra binom teoremi uygulanır olmasıdır: Nüfusun% 32 alleli için heterozigot olacak (yani her somatik hücre bu alel tek bir kopyasını başka bir kopyasını taşıyan) ve 4 (% alelinin iki kopyasına taşıyan) homozigot olacaktır. Birlikte, bu diploid bireylerin% 36,% 20 arasında bir frekansa sahip olan bir alel taşıması beklenir anlamına gelir. Ancak, alleller sadece seçim olmaması gibi bazı varsayımlar altında rastgele dağıtmak. Bu koşullar uyguladığınızda, bir nüfus Hardy-Weinberg dengesinde olduğu söyleniyor.
+Belirli bir genin tüm alel frekansları genellikle "alel frekans dağılımı histogramı", ya da "alel frekans spektrumunda" olarak bir araya grafikle. Populasyon genetiği evrimi, dağıtım değişiklikler ve allel-başka bir deyişle frekansları yol açabilecek farklı "kuvvetler" çalışmaları. Seçimi yanında, bu kuvvetler genetik sürüklenme, mutasyon ve göç bulunmaktadır.
+Genotip frekansları gelen alel frekanslarının hesaplanması.
+gerçek frekans hesaplamaları otozomal genler için türlerin ploidleşmede bağlıdır.
+Monoploids.
+Bir alel frekansı "a" alel ve nüfus veya numune büyüklüğü kopya sayısının bölüm olduğunu.
+Diploitler.
+FORMULA_1, formula_2, üç genotip frekansları daha sonra iki allel, A-alel ve-alel frekansı "q" frekans "p" ile bir lokusta formula_3 ve allellerini sayarak elde edilirse. Her bir homozigot AA yalnızca A-allel oluşur ve her bir heterozigot Aa alellerinin yarısı da A-alelleri, çünkü, toplam frekans nüfus A-alellerin, "p" olarak hesaplanır için
+Benzer şekilde, a-allel sıklığının "q" verilir
+Sadece iki alelin frekansı mevcuttur, çünkü bu, "p" ve "q" toplamı 1 olması beklenir. Aslında yaptıkları:
+ve bu biz almak:
+Ikiden fazla farklı alelik biçimi vardır, her alel için frekans sadece göründüğü tüm heterozigotlar için homozigot ve frekansı artı frekanslarda yarı toplamıdır.
+Ters rastgele çiftleşme Hardy-Weinberg koşulları geçerlidir gerektirir oysa allel sıklığı her zaman, genotip frekansı hesaplanabilir. Bu "üç" genotip frekansları ve "iki" alel frekansları nedeni kısmen. Bu 3-2 azaltmak için daha kolaydır.
+Bir örnek popülasyon.
+On kişilik bir nüfusa ve iki olası alellerin, "A" ve "a" ile verilen bir odağı düşünün. Aşağıdaki gibi bireylerin genotipleri olduğunu varsayalım:
+Daha sonra alel "A" ve alelin alel frekansları "a":
+Bir odağı rastgele seçilmiş yani eğer "A" aleli olacak% 70 şans, ve "a" alel olacak% 30 şans var.
+Alel frekans dinamiği.
+alel gen frekanslarının dinamikleri gibi göç, mutasyon, sürüklenme, nüfus büyüklüğü, çiftleşme ve diğerleri gibi birçok faktörden etkilenir. Hardy-Weinberg yasası diploitler genleri için bir denge açıklanmaktadır. Popülasyon genetiği altında ayrıntılara bakın.

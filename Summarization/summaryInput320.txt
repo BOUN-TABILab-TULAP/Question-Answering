@@ -1,0 +1,294 @@
+Question: Dalgalardan faydalanılarak elektrik nasıl üretilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fiziksel katman</DOCTITLE>
+<TEXT>
+
+Fiziksel katman, donanım katmanı veya 1. katman, verinin kablo üzerinde alacağı fiziksel yapıyı tanımlar. Bu katman verinin nasıl elektrik, ışık veya radyo sinyallerine çevrileceğini ve aktarılacağını tanımlar. Gönderen tarafta fiziksel katman bir ve sıfırları elektrik sinyallerine çevirip kabloya yerleştirirken, alıcı tarafta fiziksel katman kablodan okuduğu bu sinyalleri tekrar bir ve sıfır haline getirir.
+Fiziksel katman veri bitlerinin karşı tarafa, kullanılan medya (kablo, fiber optik, radyo sinyalleri) üzerinden nasıl gönderileceğini tanımlar. İki taraf da aynı kurallar üzerinde anlaşmamışsa veri iletimi mümkün değildir. Örneğin bir taraf sayısal 1 manasına gelen elektrik sinyalini +5 volt ve 2 milisaniye süren bir elektrik sinyali olarak yolluyor, ama alıcı +7 volt ve 5 milisaniyelik bir sinyali kabloda gördüğünde bunu 1 olarak anlıyorsa veri iletimi gerçekleşmez.
+Fiziksel katman bu tip çözülmesi gereken problemleri tanımlamıştır. Üreticiler (örneğin ağ kartı üreticileri) bu problemleri göz önüne alarak aynı değerleri kullanan ağ kartları üretirler. Böylece farklı üreticilerin ağ kartları birbirleriyle sorunsuz çalışır.
+Bu katman için veri bit katarı olarak adlandırılır. Hat üzerinden aktarılacak 0 ve 1'lerin fiziksel olarak ne ifade edileceği bu katmanın görevidir. Bu katmanda çalışan donanımlar: fiber optik kablolar, radyo sinyal gönderici alıcılar, konnektörler ve tüm anahtarlardır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eddie Van Halen</DOCTITLE>
+<TEXT>
+
+Eddie Van Halen (d. 26 Ocak 1955 - Amsterdam) Hollandalı müzisyen,gitar virtiözü. Gerçek adı Edward Lodewijk Van Halen'dır. Van Halen adlı grubunun en önemli üyesidir.
+Hayatı.
+Halen, ailesiyle birlikte 1962 yılında Hollanda'dan Pasadena Kaliforniya'ya taşınmışlardır. Önceleri piyano dersleri almış ancak piyanonun başında oturmanın çok sıkıcı olduğunu düşünerek bateri çalmaya başlamıştır. Ağabeyi "Alex Van Halen" ise gitar dersleri almaya başlamıştır. 
+Ancak Eddie Van Halen daha sonra esas yeteneğinin gitar olduğuna karar vermiş ve abisiyle enstrümanlarını değiştirmişlerdir. Yaklaşık 12 yaşlarında gitar çalmaya başlayan Eddie günde 8-9 saat pratik yaparak kendini geliştirdi. 14 yaşına geldiğinde Eric Clapton'un "Cream" grubunda attığı soloları notası notasına çalabilir duruma gelmişti. 1974 yılında Van Halen grubunun temellerini abisiyle birlikte "Mamut" adlı grupla attı. 1982 yılında yayımlanan ve dünyanın en çok satan albümü olarak bilinen Michael Jackson'ın ünlü Thriller'ında çalışan Halen, albümdeki en bilinen şarkılardan Beat It'in gitar sololarını çalmasıyla tanındı.Tapping tekniğini dünyaya duyuran gitaristtir.Eddie,dünyanın sayılı solo gitaristlerindendir.Yazdığı Eruption şarkısıyla büyük bir ses getirmiştir.Shred tekniğinin öncülerindendir. 
+1990'ların sonlarında ağız ve dil kanserine yakalandı. Doktorlar günde 12 ile 14 saat ağzında metal pena tutmasının bu hastalıklara sebep olduğunu söylediler. Çeşitli tedavi metotlarıyla dil kanserinden kurtulmuş ancak hala ağız kanseriyle mücadele etmektedir. Her şeye rağmen de sigara içmeye devam etmektedir. Sağlık nedenleriyle ruhsal yapısı da bozulmuş ve bunun sonucu olarak çevresi tarafından geçimsiz biri olarak tanımlanmaya başlamıştır. Bu durum eşiyle boşanmasına sebep olmuştur. Eddie Van Halen'in oğlu da yeni albümlerde Van Halen la birlikte çalacaktır.
+Erken yaşam ve kariyer.
+Hollanda doğumlu Edward Lodewijk van Halen klarnetçi, saksofoncu ve piyanist babası Jan van Halen anne ve Eugenia bir oğludur. Eugenia van Halen Endonezya kökenli idi. Edward göbek adı besteci Ludwig van Beethoven elde edildi belirtilmeli. (Lodewijk Ludwig Hollanda versiyonu.) Edward besteci Wolfgang Amadeus Mozart sonra oğlu Wolfgang Van Halen adlandırarak bu adlandırma geleneği devam etti. Edward Nijmegen doğdu. Yedi yaşındayken Şubat 1962, yılında, Edward Pasadena yerleştikten, Amerika Birleşik Devletleri ailesiyle birlikte taşındı, California belirtilmeli.
+Van Halen bir çocuk olarak piyano çalmayı öğrendi. Ağabeyi Alex de piyano çaldı. Ancak, piyano zorlu veya ona ilginç olduğu ispat etmedi - o zamanlar bir röportajda, "dedi Alex gitar çalmaya başladı ederken, Sonuç belirtilmeli" piyano önünde oturmak istiyor That's sıkıcı?. "Eddie bir davul seti aldım ve uygulamaya başladı. O günden sonra saat gün için pratik olacaktır. Eddie şarkısı "Wipe Out" olarak Surfaris 'drum solo Alex'in performansını dinledikten sonra, kardeşi yeteneğini geçildi olduğunu ve geçiş ve nasıl elektrik gitar çalmayı öğrenmeye başlamak karar rahatsız büyüdü.
+Diye belirtti Gitarını sarılı ve pratik, unplugged sık sık evde dolaşmak söyledi belirtilmeli. O kadar kilitli kapı ile saat odasında otururdu ki belirtilmeli iddia eden bir genç, gitar pratik.
+Diskografi.
+Aşağıda Eddie Van Halen'in grubu Van Halen'in yayımladığı albümler yer almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>MDF</DOCTITLE>
+<TEXT>
+
+MDF (İngilizce: "Medium Density Fiberboard") yapay olarak sonradan mühendislik çalışmasıyla üretilmiş bir kompozit ahşap malzemedir. İngilizcesinden birebir çevirisi ""orta yoğunluktaki lifli levha"" olur. 
+MDF Nedir?
+MDF; Termomekanik olarak odun veya diğer lignoselüozik hammaddelerden elde edilen liflerin, sentetik yapıştırıcı ilavesiyle belirli bir rutubet derecesine kadar kurutulduktan sonra oluşturulan levha taslağının sıcaklık ve basınç altında preslenmesiyle elde edilen bir üründür.
+MDF'nin her noktasında liflerin eşit dağılması ve çok yoğun bulunuşu levhanın her iki yüzünün olduğu kadar, kenarlarının da makinayla herhangi bir kırılma olmaksızın ya da malzeme parçacıkları arasında boşluklar ortaya çıkmaksızın işlenmesine imkan sağlamaktadır. MDF bu sayede masa tablaları, kapı panelleri, kenarları pahalı veya profil yüzeyli çekmece alınları gibi parçaların üretilmesinde başarıyla kullanılabilmektedir. Son derece düzgün ve homojen bir yüzeye sahip olan MDF gerek boyamada, gerekse dekoratif folyo ,PVC veya ahşap kaplamada çok iyi bir taban oluşturur.
+MDF Nasıl Üretilir?
+MDF üretimi için, sert ve yumuşak ağaçlardan elde edilen yongalar buhara tabi tutulup defibratörden geçirilerek ağaç liflerine dönüştürülür. Sonra bu lifler kurutularak tutkal, parafin ve
+sertleştirici gibi birleştirici maddeler eklenir. Birleştirici maddeleri karıştırılan lifler, daha sonra serme işlemine tabi tutulur. Bundan sonra yapılan ön presleme işlemi sırasında lif tabakaları yaklaşık yarı kalınlığa inecek biçimde sıkıştırılır, kenarları traş edilip düzeltilir ve ebatlandırılır.
+Bunu izleyen sıcak presleme aşamasında ise yüksek sıcaklık ve büyük basınç altındaki lifler ve birleştirici maddeler tam kaynaşıp setleşerek istenilen kalınlıkta levhalar haline gelirler.
+Üretimin son aşaması sıcak presten çıkan levhaların soğutulması ve zımparalanarak kusursuz bir yüzey kazandırılması işlemidir. Üstün nitelikli lif levha MDF artık her çeşit üretimde kullanılmaya hazırdır. 
+Düzgün kalınlığı, makina ile işlenmeye elverişli olması ve sağlamlığı, MDF'nin çekmece yanları, ayna çerçeveleri ve pervazlar gibi uygulamalar icin masif ahşaba alternatif olarak kullanılabilmesine olanak sağlar. 
+MDF'nin hammadesi olarak değişik ağaç türleri kullanılabilmektedir.
+MDF üretimi Türkiye'de yoğun olarak yapılmaktadır. 2,5-30 mm arasında kalınlıklarda üretilen bu ürünler ham olarak ve yüzeyi emprenye edilmiş melamin kağıtla kaplanarak MDF - LAM ürünü olarak mobilya sektöründe kullanılmaktadır. MDF - LAM olarak mobilya sektöründe ağırlık olarak mutfak dolaplarının gövdesi, banyo ve diğer dolaplarda, hazır gövde olarak geniş bir yelpazede kullanılmaktadır.
+MDF ham olarak ağırlıklı olarak membran kapak ve lake mobilya ürünlerinde, beton kalıbı olarak ve diğer mobilya üretiminde kullanılmaktadır.
+MDF'nin özellikleri
+MDF aslında sert lif levha ile yonga levhanın üstün özelliklerinin kombine edildiği bir levha ürünüdür. Fiziksel ve mekaniksel özellikleri ile masif ağaç malzemeye alternatif olarak kullanılmaya imkan sağlar.
+Yüzey yoğunluğunun yüksek ve az pürüzlü olmasıyla, levha yüzeylerine her çeşit lake, boya ve vernik gibi sıvı yüzey işlemleri uygulanabilmektedir.
+MDF levhalarının yüzeyleri her türlü laminat, reçine emdirilmiş kağıt, folyo ve ahşap kaplama ile kaplanabilir.
+MDF'nin kenarları son derece düzgün ve sıkı olup, masif çıta yapıştırılmadan lambazıvana açılabilmekte ve her türlü profil verilebilmektedir.
+MDF'nin bir diğer üstün yanı ise eğilme direnci, elastikiyet modülü, vida ve çivi tutma gücünün yüksek olmasıdır. 
+MDF Ölçüleri
+2440x2100 ve 2440x2800 mm standart ebatta ve
+2,5/3/4/6/8/10/12/14/16/18/22/25/30 mm kalınlıklarında.
+Ayrıca özel siparişler için 2100 mm'den başlayıp 2440 mm'ye kadar istenilen ende ve 900 mm - 2100mm ve 2800 - 4250 mm boy aralıklarında istenilen ebatta ebatlama yapılabilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektriksel alan</DOCTITLE>
+<TEXT>
+
+Elektriksel alan, kıvıl alan, elektrik alan veya elektrik alanı, elektriksel yükü veya manyetik alanı çevreleyen uzayın bir özelliği olup, içerisinde bulunan yüklü nesnelere elektriksel güç aracılığı ile etki eder. Kavram fiziğe Michael Faraday tarafından kazandırılmıştır.
+Elektrik alan SI birimi Newton/Coulomb ya da Volt/metre olan bir vektör alanıdır. SI temel birimleri cinsinden kg·m·s−3·A−1 olarak ifade edilir. Alanın belli bir noktadaki büyüklüğü o noktaya konacak 1 Coulomb'luk bir test yüküne ne kadar kuvvet uygulayacağıyla belirlenir, alanın yönü kuvvetin yönüdür. Elektrik alan, yoğunluğunun büyüklüğü alan büyüklüğünün karesiyle doğru orantılı elektriksel enerjiye sahiptir. Elektrik alanın yükle ilişkisi yerçekimi ivmesinin kütleyle ilişkisinin ve kuvvet yoğunluğunun hacimle ilişkisi gibidir.
+Zamana göre değişen bir elektrik alan (mesela hareketli bir yüklü parçacık nedeniyle) yerel manyetik alana sebep olur. Bu, elektrik ve manyetik alanların birbirinden bağımsız olmadığını gösterir; bir gözlemcinin yalnızca elektrik alan olarak gözlemlediğini başka bir referansa göre başka bir gözlemci bir elektrik ve manyetik alan karışımı olarak gözlemleyebilir. Bu nedenle elektrik ve manyetik alanlardan ayrı ayrı bahsetmek yerine bu ikisi “elektromanyetizma” ya da “elektromanyetik alan” olarak, birlikte incelenir. Kuantum mekaniğinde elektromanyetik alandaki değişmeler foton olarak adlandırılır ve fotonun enerjisi kuantize olmuştur.
+Tanım.
+Elektrik alan alan içinde belli bir noktada sabit duran noktasal yüke uygulanan, yük başına düşen kuvvet olarak tanımlanır:
+F parçacık tarafından hissedilen elektriksel kuvvet,
+"q" parçacığın yükü,
+E parçacığın konumundaki elektrik alan.
+Literal olarak alındığında bu denklem elektrik alanı yalnızca alanda durağan yükler olduğunda tanımlar. Dahası, alandaki yükler elektrik alanı değiştireceğinden, herhangi bir "q" yükünün varlığındaki elektrik alan o yük olmadığında olandan daha farklı olacaktır. Fakat, verili bir yük dağılımından kaynaklanan elektrik alan bu alanı hissedecek hiçbir parçacık olmasa dahi tanımlıdır. Bu tanımlılık alana varsayımsal olarak yerleştirilen test yükü ile sağlanır. Bu sayede elektrik alan test yükü sıfıra yaklaşırken yükün hissedeceği kuvvet ile tanımlanır:
+Bu ifade elektrik alanın yalnızca kaynak yük dağılımına bağlı olmasını sağlar.
+Tanımdan anlaşılabilceği üzere elektrik alanın yönü pozitif yüklü parçacığın hissedeceği kuvvetin yönüyle aynı, negatif yüklü parçacığın hissedeceği kuvvetin yönünün zıttıdır. Aynı yükler birbirini çekip zıt yükler birbirini iteceğinden (aşağıda formülü verilmiştir), pozitif yüklerin etrafındaki alanların dışarıyı gösterdiğini ve negatif yüklerin etrafındaki alanların içeriye doğru yöneldiğini söyleyebiliriz.
+Coulomb yasasına dayanarak, uzayda tek bir noktasal yük tarafından üretilen elektrik alanı yazabiliriz:
+ E=1/4pi...
+"q" elektrik alanı üreten parçacığın yükü,
+"r" elektrik alanı hesapladığımız nokta ile "q" yükü arasındaki uzaklık,
+r "q" yükünden elektrik alanın hesaplandığı noktayı gösteren birim vektör,
+epsilon yalıtkanlık sabiti.
+Birden fazla noktasal yükün ürettiği elektrik alan yüklerin teker teker ürettiği elektrik alanların süperpozisyonudur:
+Alternatif olarak, Gauss yasası uzayda sürekli bir yük yoğunluğu dağılımının ürettiği elektrik alanı hesaplamamızı sağlar.
+"ρ" pozisyona bağlı olarak yük yoğunluğunu verir.
+Coulomb yasası esasen elektrik yük dağılımı ile bu dağılımdan kaynaklanan elektrik alan arasındaki ilişkiyi gösteren Gauss yasasının özel bir halidir. Gauss yasası elektromanyetik teoriyi oluşturan dört Maxwell denklemlerinden biridir.
+Elektrik alan çizgileri.
+Elektrik alanını zihinde daha kolay canlandırmak için elektrik alan çizgileri kullanılır. Elektrik alan çizgilerinin özellikleri şunlardır:
+Sabit alanlar.
+Her noktada aynı değere sahip olan elektrik alana sabit elektrik alan denir.İki paralalel iletken levhaya potansiyel fark uygulanarak yaklaşık olarak elde edilebilir.Yaklaşık olmasanın sebebi elektrik alanın köşelerde düzenli halinden uzaklaşmasıdır.Bu etkenleri ihmal edersek eşitlik
+formula_5 halini alır.
+Bu eşitlik sadece elektrik alanın büyüklüğünü vermektedir.Elektrik alanın yönü ise pozitif yüklü levhada negatif yüklü levhaya doğrudur.
+Sabit alanda yüklü parçacığın hareketi.
+m kütleli, q yüklü bir cismi E elektrik alanına koyarsak, bu cisme formula_6 kadarlık bir net kuvvet etki eder, dolayısıyla cisim ivmeli hareket yapar.(Newton'ın hareket yasaları) Yani cismin ivmesi
+Zamana bağlı alanlar.
+Elektrik alan durağan bir yük tarafından üretilebileceği gibi değişen manyetik alanın sonucu olarak da oluşurlar. Sonuç olarak,
+"phi" skaler elektrik potansiyeli,
+"A" manyetik vektör potansiyeli.
+Aynı zamanda formula_9 vektörü manyetik debi yoğunluğunu verir. Elektrik alan denkleminin curl'ünü alırsak,
+Bu denklem Maxwell denklemlerinden biridir, Faraday-Lenz yasası olarak bilinir.
+Elektrostatik durağan yükleri çevreleyen elektrik alanların bilimiyken manyetik alanın değişmesiyle oluşan elektrik alanlar elektrodinamik ve elektromanyetik konusudur.
+Elektrostatik özellikler.
+Yukarıdaki denklemlerde görüldüğü gibi elektrik alan pozisyona bağlıdır. Noktasal bir yük tarafından üretilen elektrik alan parçacığa olan uzaklığın karesiyle azalır.
+Elektrik alan süperpozisyon prensibine uyar. Eğer birden fazla noktasal kaynak varsa herhangi bir noktadaki toplam elektrik alan bu noktasal kaynakların o noktada tek başına ürettiği elektrik alanların vektörel toplamıdır.
+Bu kural sonsuz sayıda küçük yük elementi için genişletilirse toplam formülü integrale dönüşür:
+"ρ" pozisyona bağlı olarak yük yoğunluğunu yani birim hacme düşen yük miktarını verir.
+Bir noktadaki elektrik alan o noktadaki elektriksel potansiyelin negatif gradyanına eşittir:
+"φ" verilen noktada elektriksel potansiyeli gösteren skaler alandır.
+Eğer birden fazla yük dağılımını böyle bir elektriksel potansiyel üretiyorsa (örneğin bir katıda) elektrik alan gradyanı da tanımlanabilir.
+Doğrusal materyallerin yalıtkanlık sabiti epsilon olmak üzere, dielektrik alan aşağıdaki formül ile verilir:
+Elektriksel potansiyel enerji.
+Elektrik alan enerji depolar. Bir elektrik alanın enerji yoğunluğu aşağıdaki gibidir.
+epsilon alanın içerisinde bulunduğu yerin yalıtkanlık sabiti, E elektrik alan vektörüdür. Böylece, verili bir "V" hacminde depolanan toplam enerji d"V" diferansiyel hacim elementi olmak üzere
+olarak verilir.
+Elektrostatik ve kütle çekimi arasındaki paralellikler
+Elektrik yükleri arasındaki ilişkiyi gösteren Coulomb yasası
+Newton'ın evrensel kütleçekim yasası ile benzerdir:
+Bu, elektrik alanla yer çekimi alanı arasında benzerlikler olduğunu gösterir. Bu benzerlikler:
+Elektrostatik ve kütleçekim kuvvetleri arasındaki farklar:
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Polarizör</DOCTITLE>
+<TEXT>
+
+'"Polarizör" tanımlanmamış ya da karışık polarizasyona sahip elektromanyetik dalgalardan oluşan bir ışın demetini iyi-tanımlanmış bir polarizasyona sokan bir alettir. Genel polarizör tipleri doğrusal polarizörler ve dairesel polarizörlerdir. Polarizörler birçok optik teknikle ve aletle, polarize filtreler ise fotoğrafçılık uygulamalarında ve sıvı kristal ekran teknolojisinde kullanılmaktadır.
+Doğrusal polarizörler.
+Doğrusal polarizörler iki genel kategoriye ayrılabilir: istenmeyen polarizasyon durumu cihaz tarafından emilen emici polarizörler ve polarize olmayan ışın demetini iki zıt polarizasyon durumuna ayıran ışın demeti-ayırıcı polarizörler.
+Emici polarizörler.
+Kavramsal olarak en basit doğrusal polarizör, gelen ışına dik şekilde yerleştirilmiş bir dizi ince paralel metal tellerden oluşan "tel-ızgara polarizörü"dür. Tellere paralel elektrik alan bileşenleri bulunan elektromanyetik dalgalar elektronların teller boyunca hareketine neden olur. Elektronlar serbestçe hareket edebildiğinden, polarizör ışığı yansıtan bir metal yüzeye benzer şekilde davranır; enerjinin bir kısmı tellerdeki Joule ısınması nedeniyle kaybolur ve geri kalan dalga gelen dalga boyunca geri yansır.
+Tellere dik şekilde elektrik alana sahip dalgalar için ise, elektronlar her bir telin genişliğinden daha uzağa gidemezler; bu yüzden, gelen dalga ızgara boyunca hareket edebilir. Tellere paralel olan elektrik alan bileşenleri emildiğinden ya da yansıdığından, iletilen dalga sadece tellere dik bir elektrik alana sahip olur ve bu yüzden doğrusal polarizedir. Polarizasyon yönünün tellere "dik" olduğunu göz önünde bulundurun; dalgaların aralıklardan "kayıp geçtiği" olgusu yanlıştır. 
+Pratik kullanımda, teller arasındaki aralık radyasyonun dalgaboyundan daha az olmalıdır ve teller bu uzaklığın ufak bir parçası kadar olmalıdır. Buradan çıkan sonuç, tel-ızgara polarizörlerinin mikrodalgalar ve uzak- ve orta-kızılötesi ışık için kullanıldığıdır. İleri düzey litografik teknikleri kullanarak görünen ışığın polarizasyonu çok kısa aralıklara sahip metal ızgaralar ile yapılabilir. Polarizasyon derecesi dalgaboyuna ve geliş açısına az miktarda dayandığından , projeksiyon gibi geniş bant uygulamalarında kullanılmaktadır.
+Problem, tellerdeki elektronların bütün yönlerde yeniden yayılacağını öneren bir simetriye sahip olduğunda, neden yansıyan ışının var olup da iletilen ışının var olmadığını düşünmek ilginçtir. Basit bir ifadeyler, iletlien ışın "var"dır; ancak, devam eden ışınla tam olarak zıt-fazdadır, bu yüzden birbirlerini "iptal ederler". Bu durum, sırayla, gelen dalganın tellerdeki elektronları "ilerlettiği" ve böylece "tükettiği" fikriyle çelişkiye düşüyor görünmektedir. Aslında, eğer hiç bir ısınma olmadığını varsayarsak, böylece elektronları hareket ettirmek için hiç bir enerji kullanılmadığını söyleyebiliriz — daha iyi bir düşünce tekniği elektronları etkileşim sonucu oluşan dalgalara "binmiş" şekilde hayal etmek olabilir.
+Belirli kristaller, kristal optiği tarafından tarif edilen etkiler nedeniyle, belirli yönlerde polarize olmuş ışığın öncelikli emilmeysiyle oluşan "ikirenklilik" gösterirler. Bu yüzden doğrusal polarizör olarak kullanılabilirler. Bu tipteki en bilinen kristal turmalindir. Ancak, bu kristal dikroik etki yüksek şekilde dalgaboyuna bağlı olduğundan ve kristal renkli gözüktüğünden polarizör olarak çok sık kullanılmaz. Herapathite de ayrıca dikroiktir ve çok renkli değildir, ancak büyük kristaller içinde yetiştirmek zordur.
+Polaroid polarize filtre orijinal biçiminde birçok mikroskobik herapathite kristallerinin bir düzenlemesidir. Daha sonraki "H-levha" formu ise tel-ızgara polarizöre daha benzerdir. İyot katkılı polivinil alkol (PVA) plastikten yapılmıştır. Üretim sırasında levhanın esnetilmesiyle PVA zincirlerinin belirli bir yönde dizilmeleri sağlanır.. İyot katkı maddesindeki elektronlar, zincirlere paralel polarize olmuş ışığın levha tarafından emildiğine emin olunmasını sağlamak üzere zincirler boyunca hareket edebilirler; zincirlere dik şekilde polarize olan ışık geçmektedir. Polaroidin dayanıklılığı ve pratikliği, onu kullanılan en yaygın polarizör haline getirmektedir, örneğin güneş gözlükleri, fotoğraf filtresi ve sıvı kristal ekranlar. Ayrıca diğer polarizörlere gçre daha ucuzdur.
+Emici polarizörün modern bir tipi ince (≤0.5 mm) cam plakalar içine gömülü uzatılmış gümüş nanopartikülleri ile yapılmaktadır. Bu polarizörler daha dayanıklıdır ve ışığı plastik Polaroid filmden daha iyi bir şekilde, 100,000:1 gibi yüksek polarizasyon oranlarında ve %1.5 gibi düşük seviyede doğru-olarize ışık emilme seviyelerinde, polarize edebilirler. Böyle cam polarizörler en iyi kısa dalgaboylarındaki kızılötesiışık için uygulanır ve genel olarak optik fiber komünikasyonlarda kullanılır.
+Işın-dağıtıcı polarizörler.
+Işın-dağıtıcı polarizörler gelen ışını doğrusal polarizasyonları farklı iki ayrı ışına ayırır. İdeal bir polarize eden ışın-dağıtıcı için bu iki ışın tamamen polarize olmuş birbirine dik polarizasyonlar olabilir. Ancak, birçok yaygın ışın-dağıtıcı polarizörlerin iki çıkış ışınlarından sadece biri tamamen polarizedir. Diğeri polarizasyon durumlarının bir karışımı halindedir.
+Emici polarizörlerin aksine, ışın dağıtıcı polarizörler reddedilen polarizasyon durumunun enerjisini emme ve yaymak gereksimi duymazlar ve böylece, laser ışığı gibi yüksek yoğunluktaki ışınlar için daha uygun hale gelirler. Her iki polarizasyon bileşeninin analiz edilmesi ya da birlikte kullanılması gereken durumlarda gerçek polarize ışın-dağıtıcılar da ayrıca kullanışlıdır.
+Yansımayla polarizasyon.
+Işık iki transparan materyal arasındaki arayüzden belli bir açıda yansırsa, geliş düzlemindeki ve buna dik polarize olan ışıkların yansıma katsayıları farklıdır. Düzlem üzerindeki polarize ışık "p"-polarize, buna dik olan ise "s"-polarize olarak adlandırılır. Brewster açısı olarak bilinen özel bir açıda yüzeyden hiç "p"-polarize ışık yansımaz, yani, bütün yansıyan ışık elektrik alanı geliş düzlemine dik olan "s"-polarize olmalıdır.
+Basit bir doğrusal polarizör bir cam yığınını Brewster açısında eğerek yapılabilir. Bir kısım "S"-polarize ışık her bir plakanın her bir yüzeyinden yansıtılır. Havadaki görünür ışık ve tipik cam için Brewster açısı yaklaşık 57°dir ve ışın içinde bulunan yaklaşık %16'lık "s"-polarize ışık hem havadan cama hem de camdan havaya geçişlerde yansır. Işının bu şekilde ortalama bir polarizasyonu bile birçok tabaka gerektirir. 10 levhalık bir yığın için (20 yansıma), "s"-polarize ışığın yaklaşık %3ü (= (1-0.16)20) geçmektedir. Yansıyan ışın, tamamen polarize halde olmasına rağmen, yayılmaktadır ve pek kullanışlı olmayabilir.
+Daha kullanışlı bir polarize ışın levha yığınını gelen ışına daha dik bir açıya yerleştirerek elde edilebilir. Buna karşın, Brewster açısından daha büyük geliş açıları kullanmak "iletilen" ışının daha yüksek dereceden polarizasyonuna neden olur. 80°den daha dik geliş açıları için iletilen ışın, yoğunluğu çok az olmasına rağmen dört levha kadar az bir sayıyla %100e ulaşabilir. 
+Çift kırınımlı polarizörler.
+Diğer doğrusal polarizörler kuartz ve kalsit gibi kristallerin çift kırınım özelliklerinden yararlanır. Bu kristallerde, yüzeylerine gelen polarize olmamış ışın demeti kırınımla iki ışına ayrılır. Bu ışınlardan biri için, "o"-ışını, Snell yasası geçerli iken diğeri için, "e"-ışını, geçerli değildir. Genel olarak, iki ışın farklı polarizasyon durumlarında olacaklardır. Ancak belirli kristal eksenlerine göreli yayılım doğrultuları dışında doğrusal polarizasyon durumlarında olmayacaklardır. İki ışın ayrıca kristal farklı kırınım indislerine sahip olacaklardır.
+Nikol prizma, ayrıldıktan sonra Kanada balsamı ile birleştirilmiş kalsit kristallerinden oluşan çift kırınımlı polarizörlerin ilk örneklerindendir. Kristal öyle şekilde kesilmiştir ki "o"- ve "e"-ışınları dik doğrusal polarize durumdadırlar. 
+Polarizörlerle ilgili diğer başlıklar
+Ayrıca bakınız
+Notlar ve referanslar.
+Kaynaklar
+Polarizör
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kategori 7 kablo</DOCTITLE>
+<TEXT>
+
+Kategori 7 kablo veya Cat 7 kablo, gigabyte hızında veri taşıyan bir UTP kablo türüdür. ISO / IEC 11801 standardı ile ilk defa 2002 yılında üretilen kategori 7(sınıf F) kablo Cat 6 ve Cat 6a'ya göre daha fazla bant genişliği ve daha yüksek veri akışı sağlar. Cat 7 kablonun parazitlerden etkilenmemesi için koruma kılıfı diğer kablo kategorilerine göre daha kalın ve fazladır, bu nedenle Cat 7 kablo sert ve kesit olarak diğer bütün UTP kablolardan daha kalındır.
+Genel özellikler.
+Cat 7 kablo 10 gigabit veri transfer hızına ve 600-900 mhz arası bant genişliğine sahiptir. Cat 7 kabloda her kablo çifti metal folyo ile kaplanmıştır. Plastik muhafazadan önce de koaksiyel kablo tarzı sarma ile bütün perler örtülmüş bu sayede minumum veri hız kaybı sağlanmıştır. Cat 7 kendisinden önceki UTP kablo türlerine göre elektromanyetik dalgalardan en az etkilenen kablodur. Kablo çiftlerinin üzerindeki metalik yapı aynı zamanda kabloyu topraklamaktadır, Bu sayede kablo fazla elektrik yüklerinden korunmaktadır. Cat 7 kablonun belirlenen standartlardaki performansını gösterebilmesi için metal zırhlı RJ45 jack ile kullanılması gereklidir. Metal zırhlı RJ 45 konnektör Cat 7 kabloyu bilgisayar ethernet kartından ethernet priz ve switch'e kadar kesintiye uğramadan topraklamış olur.
+Teknik özellikler.
+Cat 7 4 çift telden oluşur. İletkenler kendi yalıtkanının dışında polyester bant ve alüminyum folyo ile kaplanmış, kalaylı bakır saç örgü ile örtülmüş ve kılıflanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrik-elektronik mühendisliği</DOCTITLE>
+<TEXT>
+
+Dünyada elektrik mühendisliği; elektrik, elektronikle ilgili tüm mühendislik dallarının genel adıdır. Yurtdışında elektrik mühendisliği olarak geçen bölüm, Türkiye'de isim karışıklığı yüzünden Elektrik-Elektronik mühendisliği olarak geçer.
+Türkiye'deki bu bölümlerle alakalı isim karışıklıkları.
+Türkiye'de isim karışıklığı yüzünden Elektrik-Elektronik mühendisliği olarak geçen bölüm yurtdışında Elektrik mühendisliği olarak geçen bölümdür. Örneğin ABD'de biyomedikal üzerine mühendislik eğitimi almak isteyen kişi Elektrik mühendisliğine gider, üst sınıfta mevcut alt dal opsiyonlarından birini seçerek biyomedikal gibi, o alanda uzmanlaşır. Türkiye'de biyomedikal üzerine mühendislik eğitimi almak isteyen kişi Elektrik-Elektronik mühendisliği üzerine okur, üst sınıfta mevcut alt dal opsiyonlarından birini seçerek biyomedikal gibi, o alanda uzmanlaşır. Türkiye'de alt dallar branş olarak da açılmaktadır, istediği dal ayrı branş olarak varsa direkt o bölüme de gidebilir ama iş alanı ve yetkileri kısıtlanmış olur.
+Gelişmiş ülkelerde elektrik mühendisliği bölümü ilk açıldığı zaman elektrik iletimi, elektrik makinaları gibi belirli konuları içeriyordu. İleriki yıllarda teknoloji gelişimi ile ders sayısını sürekli olarak yeni çıkan dallar üzerine arttırdılar ve öğrencileri ilgili dalda uzmanlaşması için üst sınıfta seçtiği alana göre, alan dersleri alması olarak eğitim sistemi kurulmuştur. Örneğin çağın gerisinde kalmamak için ABD'de elektrik mühendisliğinde kuantum fiziği dersi dahi vardır.
+Türkiye'de elektrik mühendisliği bölümü açıldığı zamanki dönemde çağı takip edemeyen bir ülkeydi. Teknolojik alandaki yeni gelişmeleri üniversiteler ders programlarına ekleyemiyordu. Türkiye'de bu yüzden elektrik mühendisliği sadece yüksek alternatif akım üzerine yoğunlaşma ile kaldı. Üniversiteler düşük akım, elektronik devreler üzerine bölüm açmak istedi adına elektronik mühendisliği koydu. Sonradan bazı üniversiteler çağı takip etmek amacıyla ders programında tüm yeni gelişmeleri içeren elektrik mühendisliği açmak için isim karışıklığı olmasın diye elektrik-elektronik mühendisliği olarak adlandırdırlar. Bu isim ve bölümler Türkiye'ye has bir durumdur, gelişmiş ülkelerde sadece elektrik mühendisliği olarak tek bölüm vardır. Örneğin ABD'de elektronik mühendisliği diye ayrı bölüm yoktur, elektronik üzerine eğitim almak için elektrik mühendisliği bölümüne gidilir.
+Türkiye'de teknolojide çağı takip etmek için karışıklık olmaması için üniversitelerde Elektrik-Elektronik Mühendisliği bölümü olarak adlandırılmıştır. Elektrik, elektronik, bilgisayar üzerine eğitim verilir. Öğrencilerin üst sınıflarda, üniversitelerde yer alan dallardan istediği opsiyon tercihini yaparak ilgili alanlarda uzmanlaşmaları sağlanmaktadır. Genel olarak elektrik içeren tüm alanları kapsar, çok geniş bir çalışma alanı vardır. Diplomada seçilen opsiyon yazmaz, kişinin tüm alanlarda yetkisi vardır. Mezunlara Türkçe ve İngilizce olarak iki diploma verilir, Türkçe diplomada elektrik-elektronik mühendisi yazar, İngilizce diplomada elektrik mühendisi yazar. Bazı üniversitelerde sadece tek diploma verilir, diplomada elektrik mühendisi yazar. Örneğin Hacettepe üniversitesi elektrik-elektronik mühendisinin diplomasında elektrik mühendisi yazar.
+Türkiye'de alt dalların ayrı bölüm olarak açılması.
+Türkiye'de alt dalların branş olarak açıldığı bölümler de vardır; elektronik mühendisliği, elektronik ve haberleşme mühendisliği, elektrik mühendisliği gibi. Bu bölümler alt daldır, Türkiye'de alt dallar ayrı bölüm olarak açıldığı için yetkileri kısıtlanır, bundan dolayı iş alanları kısıtlanmış olur. Örneğin Türkiye'deki elektrik mühendisi yapay zeka üzerine bir alanda işe giremez. Yetkisi yoktur ya da elektronik mühendisi iç tesisat projesinde yetkisi olmaz gibi. Elektronik, haberleşme gibi alanların Türkiye'de iş alanları çok daha kısıtlıdır. Alt dalları elektronik mühendisliği, elektronik ve haberleşme mühendisliği bölümleri gibi Türkiye'de ayrı branş olarak okumak isteyen kişilerin, Türkiye'de rahat iş bulmaları için bu bölümlerde çok iddialı olması gerekmektedir. İyi bir konumda çalışmak için yurtdışı düşünülmelidir.
+Elektrik mühendisliği ile ilgili bölümlerde üniversitelerin gelişen teknoloji ile laboratuvar malzeme ve araçlarını sürekli olarak zamana göre yenilemeleri gerekmektedir. Maalesef çok çok az üniversite buna dikkat etmektedir.
+Bu mühendisliklerin çalışma alanları.
+Türkiye'de bu alandaki mühendisliklerde yeni mezunlar başlayacağı iş alanı için hiç bilgi sahibi olmasa bile başlangıçta 2011 yılı için en az 1400-1900 TL gibi bir ücret istemeleri gerekir. Bilgi sahibi konular ve yabancı dil bilgisi varsa biraz daha ücret arttırımı yapılabilir. Yeni mezunlar çok bilgili olsa da ilk başta çok yüksek maaş verilmez.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yayılma sabiti</DOCTITLE>
+<TEXT>
+
+Bir elektromanyetik dalganın yayılma sabiti , verilen yönde yayılan dalganın genliğindeki değişimin bir ölçüsüdür. Ölçülen nicelik bir elektrik devresindeki gerilim veya akım olabileceği gibi elektrik alan veya akı yoğunluğu gibi bir alan vektörü de olabilir. Yayılma sabiti metre başına değişimin bir ölçüsü olmasının yanı sıra boyutsuz bir niceliktir.
+Yayılma sabiti genellikle e tabanına göre logaritmik olarak ifade edilir. Ölçülen nicelik, örneğin gerilim, sinüzodial bir fazör cinsinden ifade edilir. Sinüzoidin fazının dalganın yol aldığı mesafe ile değişiklik göstermesi yayılma sabitinin sanal kısmı faz değişikliğine denk gelen bir karmaşık sayı olmasına neden olur.
+__TOC__
+Çeşitli adlandırmalar.
+Yayılma sabiti , "ω" ile sürekli değiştiğinden aslında yanlış bir adlandırmadır. En genel olarak bu isim kullanılmasına karşın çeşitli yazarlar aynı nicelik için farklı isimler kullanırlar. Bunlara örnek olarak iletim katsayısı, iletim fonksiyonu, yayılma parametresi, yayılma katsayısı ve iletim sabiti gösterilebilir. Sonuncusu iletim hattı teorisinde kullanılır. Bu hattın fiziksel özelliklerine karşılık gelen R,L,C ve G gibi fiziksel katsayılar yardımıyla diğer özellikler telegraf denkleminden çekilelebilir. Burada dikkat edilmesi gereken, en azından iletim hattı alanında iletim katsayısının farklı bir anlama sahip olmasıdır. Burdaki anlamı geçme katsayısına eşdeğerdir.
+Tanım.
+Yayılma sabiti, γ, verilen dalganın "x" uzaklığındaki genliğinin kaynağındaki genliğine oranı olarak verilir,
+Yayılma sabiti karmaşık bir sayıya karşılık geldiğinden:
+burada
+Buradaki β Euler formülünden görülen faza karşılık gelir;
+Genliğe değil sadece θ değişkenine bağlıdır çünkü;
+Logaritmik baz olarak e kullanıldığında sanal faz sabiti, iβ, bir matematiksel operasyonla işlem yapabilmek için soğurma katsayısı α ya doğrudan eklenebilir. Radyan cinsinden ölçülen açılar için baz olarak e alındığında soğurma katsayısı için baz olarak e alınır.
+Bakır için yayılma sabiti (veya başka bir iletken için) birincil hatlar için kullanılan ilişki yardımıyla hesaplanabilir;
+burada;
+Soğurma katsayısı.
+İletişimde soğurma katsayısı terimi, soğurma parametresi veya katsayı, kaynaktan uzaklaşan bir elektromanyetik dalganın soğurulmasına karşılık gelir. Fiziksel olarak ölçülebilen kısım bu katsayının reel bileşenine karşılık gelir (neper /metre). Bir neper yaklaşık olarak 8.7dBdir. Soğurma sabiti genliklerin oranı cinsinden tanımlanabilir; 
+Birim uzunluk başına düşen yayılma sabiti akımın veya gerilimin genliğinin gönderildiği kaynaktaki genliğine doğal logaritmik oranı olarak tanımlanabilir.
+Bakır hatlar.
+Bakır hatlar için soğurma sabiti (veya başka bir iletkenden yapılmış bir hat için) yukarda gösterilen birincil hat katsayıları cinsinden hesaplanabilir. İdeal durumda, bir yalıtkan içindeki bir G iletkeniyle karşılaşan bir hat için soğurma sabiti;
+öte yandan gerçek bir hattın bu durumla karşılaşması oldukça olasılık dışı olmakla beraber kaybın frekansa bağımlılığını oluşturan bazı "sabitler" vardır. Bu kayıpların başlıca 2 temel bileşeni vardır, metal kaybı ve dielektrik kaybı.
+İletim hatlarının çoğunun kaybı ağırlıklı olarak metal kaybından kaynaklanır, ki bu da metallerin sonlu iletkenliğinden ve deri kalınlığından kaynaklanan bir frekans bağımlılığını getirir. Deri kalınlığı iletken boyunca R nin frekansa bağlı olarak değişmesine sebep olur;
+Dielektrikteki kayıplar malzemenin dalga boyu ile ters orantılı olan tanjant kaybına (formula_11) bağlıdır.
+Optik fiber.
+Bir optik fiber içerisindeki belirli bir yayılma modu için soğurma sabiti, eksensel yayılma sabitinin gerçel kısmıdır.
+Faz sabiti.
+Genel olarak Elektromanyetik teoride faz sabiti veya faz değişim sabiti, düzlemsel bir dalganın yayılma sabitinin sanal kısmına karşılık gelir. Dalganın izlediği yol boyunca birim metredeki faz değişikliğine karşılık gelir ve dalga sayısının reel bileşenine karşılık gelir. β ile gösterilir ve birimi rad/m dir.
+Dalga sayısının (açısal) tanımından;
+Bir iletim hattı için telegraf denklemlerinin Heaviside şartı bize dalga iletiminin zaman bölgesinde bozulmaması için dalga sayısının frekans ile doğru orantılı olması gerektiğini söyler. Bu şart kaybın olmadığı ideal durumu da kapsar. Bu durumun altında yatan neden, genelde bir sinyalin çeşitli dalga byouna sahip dalgalardan oluştuğu göz önüne alınırsa anlaşılabilir. Dolayısıyla dalga cephesinin bozulmaması için tüm bu dalgalar aynı hızda (grup hızı) hareket etmelidir.Faz hızı;
+dolayısıyla β ω ile doğru orantılıdır. Dolayısıyla telegraf denklemlerinden bozulmama şartı;
+Tabii ki gerçekte bu hatların bu şartı sadece belirli bir frekans aralığında sağlaması beklenebilir.
+Filtreler.
+Yayılma sabiti terimi veya yayılma fonksiyonu filtreler veya sinyal işleme gibi başka çeşitli kavramlara uygulanabilir. Bu durumlarda soğurma sabiti ve faz sabitleri neber ve radian cinsinden ifade edilir. Bazı yazarlar metre başına yapılan ölçümler ("sabit" teriminin kullanıldığı yerler) ve bölüm başına yapılan ölçümler ("fonksiyon" teriminin kullanıldığı yerler) için bir ayrım gözetirler.
+Yayılma sabiti filtre tasarımında topoloji konusunda oldukça kullanışlı bir kavramdır. Kademeli topolojide yayılma sabiti, soğurma sabiti ve faz sabiti doğrudan birbirlerine eklenerek toplam yayılma sabiti bulunabilir.
+Kademeli ağlar.
+Her ağdaki giriş ve çıkış voltajlarının birbirlerine oranı,
+formula_16
+formula_17
+formula_18
+formula_19 terimleri bağımsız skala terimleridir ve kullanım amaçları makale içerisinde açıklanmıştır.
+Toplam voltaj oranı,
+formula_20
+Böylece "n" kademeli bölümler için toplam yayılma sabiti,
+formula_21
+Ayrıca bakınız.
+Deri kalınlığı kavramı elektromanyetik dalgaların soğrulmasının anlaşılmasında büyük önem taşır. Diğer kavramlar ve birbirleri arasındaki ilişkileri için: Opaklığın matematiksel tanımları.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrik enerjisi</DOCTITLE>
+<TEXT>
+
+Elektrik enerjisi, elektriksel potansiyel enerjiden yeniden türetilen enerjidir. Bir elektrik devresi tarafından çekilen ve tüketilen enerjiyi açıklar. (örneğin elektriksel güçten elde edilir). Bu enerji, devrede üretilen elektrik akımı ve elektrik potansiyeli kombinasyonu tarafından elde edilir. Bu noktadaki elektriksel potansiyel enerji, başka bir enerji türüne dönüştürülür. Böylece tüm elektriksel enerji, kullanılmadan önceki potansiyel enerjidir. Potansiyel enerjiden elde edilen elektrik enerjisi daima başka bir enerji türü olarak açıklanabilir (ısı, ışık, hareket, vb.).
+Elektrik üretimi.
+Elektrik üretimi, diğer enerji biçimlerindeki elektrik enerjisinin üretilmesi işlemidir.
+Elektrik uygulamaları için, elektriğin ilk üretilme işlemidir. Diğer işlemler, elektrik güç endüstrisi tarafından gerçekleştirilen, elektrik iletimi, dağıtımı ve hidroelektrik santral vasıtasıyla elektrik gücünün depolanması yöntemleridir.
+Elektrik, çoğunlukla bir elektrik santralinde elektrik üreteci (generatör) tarafından üretilir.
+Elektrik enerjisi ölçü birimi olarak, çoğunlukla kilovatsaat (kWh) kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektriksel yük</DOCTITLE>
+<TEXT>
+
+Elektriksel yük, atomaltı parçacıkların sahip olduğu ve onun elektromanyetik alan ile olan etkileşimini tayin eden, temel bir özelliktir. Doğadaki dört temel kuvvetten biri olan elektromanyetik kuvvetin kaynağı elektrik yüküdür. Elektrik yüklü bir parçacık hem kendi etrafında bir elektrik alanı oluşturur, hem de başka parçacıkların oluşturduğu elektrik alanından etkilenir.
+Elektriksel yüklerin varlığı eski Yunan zamanından beri biliniyordu, ancak ayrıntılı deneysel araştırmalar 1600 yıllarında Gilbert tarafından yapılmaya başlandı. Elektriksel yük hakkında bilinen genel deneysel gerçekler aşağıdaki gibi özetlenebilir:
+Birimler.
+Elektrik yükünün SI'daki birimi coulomb'dur. C ile gösterilir. Fen ve mühendislik hesaplarında coulomb kullanılır ancak atomaltı parçacıklarla çalışan bilim insanları coulombdan çok küçük olan
+temel elektrik yükünü, yani bir elektonun yükü, kullanırlar.
+Elektron yükü "e" ile gösterilir.
+Temel elektrik yükü.
+Doğadaki temel elektrik yükü, yani mümkün olan en küçük elektrik yük bir elektron üzerindeki yük olarak tarif edilmiştir.(-1.60217653 x 10-19 C) Gerçi günümüzde kuark adı verilen parçacıkların 1/3 "e (elektron yükü)" veya 2/3 gibi daha da düşük bir elektrik yüküne sahip olduğu saptanmıştır. Ama kuarklar hep üçlü gruplar oluşturduğu için, en küçük temel yük görüşü değişmemiştir. Bununla birlikte, en küçük elektrik yük mühendislik ve fizikte karşılaşılan problemlerin çözümü için çok küçük ve elverişsiz bir birim olduğundan, MKS ölçü sisteminde coulomb birimi kullanılmağa devam edilmektedir.
+Elektronların elektriksel yükü negatiftir. Aynı mutlak değere sahip protonun elektrik yükü ise pozitiftir. Normal koşullarda yük taşıyıcı elektrondur. Bir cismin elektrik yükü açısından pozitif olması o cismin elektronlarından bir bölümünü kaybettiği, negatif oluşu ise o cismin dışardan başka elektronlar kazandığı şeklinde yorumlanır. Bir coulomb 6.241 512•1018 elektronun elektrik yüküne denk olduğu için, coulomb cinsinden elektron elektrik yükü;
+"'
+Elektron yük kütle oranı.
+Coulomb yasası ile Isaac Newton'un (1643-1727) evrensel çekim (gravitasyon) yasalarının formülasyonu çok benzer.
+İlk yasada kuvvetin elektrik yük ile, ikinci yasada ise kütle ile orantılı olduğu görülmektedir. Elketron için yük/kütle oranı hesaplanırsa;
+Bu, elektromanyetik kuvvetin, kütleçekim kuvvetinden çok daha güçlü olduğunu gösterir. Kütleçekim kuvvetinin etkisinin hissedilmesi için Dünya, Güneş gibi çok büyük kütlelere ihtiyaç varken, elektromanyetik kuvvet elektron gibi çok küçük bir parçacıkta bile kendini hissettirir.
+Fiziki boyut olarak elektrik yükü.
+Fizikte kullanılan çok sayıda büyüklük bazı temel büyüklüklerden üretilmiştir. (Kütle, uzunluk, zaman gibi) Bu gibi temel büyüklüklere boyut da denilebilir. Elektrik yük de boyut olmaya adaydır. Ne var ki, boyutların çok büyük duyarlıkla ölçülebilmeleri gerekmektedir. Oysa, elektrik yükünü duyarlı ölçü yapabilecek kadar miktarda toparlamak çok zordur. Çünkü aynı işaretli yükler birbirini ittiğinden, deney ortamında çok düşük derişimli yükten fazlası bir araya getirilemez. Bu sebepten, uluslar arası birimleri saptamakla görevlendirilen "Comité international des poids et mesures (CIPM)" adlı komite 1954 yılında temel büyüklük olarak elektrik yükü değil, elektrik yük ile yakın ilgili bir başka büyüklüğü, yani elektrik akım şiddetini almıştır. Elektrik akımı birim zamanda iletkenden geçen elektrik yüküdür. Birimi amperdir. Akım şiddetinin kısaltması I, amper birimini kısaltması A dır. Buna göre t zamanında iletkenden geçen akım;
+Daha genel haliyle;
+
+</TEXT>
+</DOC>
+

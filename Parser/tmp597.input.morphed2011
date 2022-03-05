@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Besin	besi	+Noun+A3sg+P2sg+Nom
+Besin	besin	+Noun+A3sg+Pnon+Nom
+Besin	Besin	+Noun+Prop+A3sg+Pnon+Nom
+
+ağı	ağ+Noun+A3sg+P3sg+Nom
+ağı	ağ+Noun+A3sg+Pnon+Acc
+ağı	ağı+Noun+A3sg+Pnon+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+besin	besi	+Noun+A3sg+P2sg+Nom
+besin	besin	+Noun+A3sg+Pnon+Nom
+
+zinciri	zincir	+Noun+A3sg+Pnon+Acc
+zinciri	zincir	+Noun+A3sg+P3sg+Nom
+
+arasındaki	ara	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+farklılık	fark	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+Pnon+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

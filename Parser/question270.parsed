@@ -1,0 +1,12 @@
+1	Termik	termik	Adj	Adj	_	2	MODIFIER	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	dinamik	dinamik	Adj	Adj	_	4	MODIFIER	_	_
+4	basınç	basınç	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	merkezleri	merkez	Noun	Noun	A3pl|P3sg|Nom	6	OBJECT	_	_
+6	_	ara	Noun	Noun	A3sg|P3sg|Loc	7	DERIV	_	_
+7	arasındaki	_	Adj	Adj	Rel	8	MODIFIER	_	_
+8	farklar	fark	Noun	Noun	A3pl|Pnon|Nom	10	SUBJECT	_	_
+9	_	ne	Pron	QuesP	A3pl|Pnon|Nom	10	DERIV	_	_
+10	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

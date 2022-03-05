@@ -1,0 +1,92 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Yeryüzünde kendine özgü bir iklimi, bitki örtüsü ve hayvan topluluğu bulunduran bölgelere ne ad verilir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(2356, {label: "yeryüzü",nodeclass: "type-TK"});
+ g.addNode(2357, {label: "Yeryüzündeki",nodeclass: "type-TK"});
+ g.addNode(2358, {label: "etkin",nodeclass: "type-TK"});
+ g.addNode(2359, {label: "volkanların",nodeclass: "type-TK"});
+ g.addNode(2360, {label: "kaçı",nodeclass: "type-TK"});
+ g.addNode(2361, {label: "Büyük",nodeclass: "type-TK"});
+ g.addNode(2362, {label: "Okyanus",nodeclass: "type-TK"});
+ g.addNode(2363, {label: "çevre",nodeclass: "type-TK"});
+ g.addNode(2364, {label: "çevresindedir",nodeclass: "type-TK"});
+ g.addNode(2365, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,2356,2357,{label: "TÜREME"});
+ g.addEdge(null,2357,2359,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,2358,2359,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,2359,2360,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,2360,2364,{label: "ÖZNE"});
+ g.addEdge(null,2361,2362,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,2362,2364,{label: "ÖZNE"});
+ g.addEdge(null,2363,2364,{label: "TÜREME"});
+ g.addEdge(null,2364,2365,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

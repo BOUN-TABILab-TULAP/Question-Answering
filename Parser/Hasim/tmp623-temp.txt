@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çiçekli çiçek+Noun+A3sg+Pnon+Nom^DB+Adj+With Çiçek+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With Çiçekli+Noun+Prop+A3sg+Pnon+Nom
+bitkilerde bitki+Noun+A3pl+Pnon+Loc
+tozlaşma toz+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom toz+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+nasıl nasıl+Adverb nasıl+Adj
+gerçekleşmektedir gerçek+Adj^DB+Verb+Become+Pos+Prog2+A3sg+Cop gerçek+Adj^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Prog2+A3sg+Cop gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

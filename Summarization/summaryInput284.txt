@@ -1,0 +1,267 @@
+Question: Kalıcı kar sınırı neden ekvatordan kutuplara gidildikçe deniz seviyesine yaklaşır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayali Rehberler: Paralel Ve Meridyenler (EBA)</DOCTITLE>
+<TEXT>
+
+Nasıl ki şehirdeki bir evi bulabilmek için mahalle, cadde, sokak ve ev numarası gibi unsurlara ihtiyaç varsa Yerküre üzerindeki herhangi bir yeri bulabilmek için de hayalî çizgilere (koordinat sistemine) ihtiyaç vardır. Bu nedenle Yerküre’yi enine ve boyuna kestiği varsayılan paralel ve meridyenler tespit edilmiştir.
+Paraleller
+Ekvatordan kutuplara doğru birer derecelik açı aralıklarıyla çizildiği varsayılan çemberlere paralel, yer küre üzerindeki herhangi bir noktadan ekvator düzleminin merkezine doğru çizilen doğru ile ekvator düzlemi arasındaki açıya ise enlem denir.
+Paralellerin Özellikleri:
+- En büyük paralel dairesi Ekvator’dur.
+- Ekvator’ dan Kutuplara gidildikçe çapları ve çevreleri kısalır; enlem dereceleri büyür.
+- Ardışık iki paralel arası uzaklık 111 km’dir.	
+- 90° paralelleri birer nokta halindedir.	
+- Bazı paralellerin özel isimleri vardır.	
+- Paraleller 90 tane Kuzey ve 90 tane Güney Yarım Küre'de olmak üzere toplam 180 tanedir.
+Enlemin Etkileri:
+Enlem; iklimi, güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tanm faaliyetlerinin sınınnı, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını vb. özellikleri etkiler.
+Meridyenler
+Kutup noktalarını birleştiren ve paralelleri dik kestiği varsayılan yarım çemberlere meridyen , herhangi bir meridyen düzlemi Başlangıç Meridyeni düzlemi arasındaki açıya ise boylam denir.
+Meridyenlerin Özellikleri:
+- Başlangıç meridyeni, Londra’nın Greenwich kasabasından geçer.
+- Bütün meridyenlerin uzunlukları eşittir.
+- Aralarındaki mesafe yalnızca Ekvator’da 111 km olup kutuplara gidildikçe azalır.
+- Meridyenlerin uzaklıkları aynı paralel üzerinde birbirine eşittir.
+- Aralarında 4 dakikalık zaman farkı vardır.
+- 180’i Batı, 180’i Doğu Yarım Küre’de olmak üzere toplam 360 meridyen vardır.
+- Aynı meridyen üzerinde tüm noktaların yerel saatleri aynıdır.
+Aynı boylam üzerindeki noktalarda;
+Yerel saat, saat dilimleri, Başlangıç Meridyeni ile aralarındaki zaman farkı, güneşin en tepe noktasına geldiği an, ekinoks tarihlerinde Güneş’in doğuş ve batış saatleri aynıdır.
+Ancak Başlangıç Meridyeni ile olan mesafe ile ekinoks tarihleri dışında güneşin doğuş ve batış saatleri farklıdır.
+Her Noktada Ayrı Bir Saat: Yerel Saat
+Güneş, herhangi bir yerde tam tepe noktaya geldiğinde saat 12.00 olarak kabul edilir. Buna göre hesaplanan saate yerel saat denir. O hâlde her noktanın kendine has bir saati vardır.
+Yerel Saat Hesaplamaları
+Meridyenlerden faydalanarak yerel saat hesaplamaları yapılabilir.
+Ulusal (Ortak) Saat
+Ülkeler kendi sınırları içinde ticaret, ulaşım, haberleşme gibi hizmetlerin yürütülmesinde karışıklık çıkmaması için ülke içinden geçen bir meridyenin yerel saatini ortak saat olarak seçerler. Örneğin Türkiye, ortak saat için 30° doğu meridyenini esas alır.
+Doğu - batı doğrultusundaki uzunluğu fazla olmayan Türkiye’de bir tek ulusal saat kullanılır. Doğu-batı doğrultusundaki uzunluğu fazla olan ülkeler birden fazla ulusal saat kullanır.
+30° doğu boylamında gün içinde Güneş tam tepe noktaya geldiğinde yerel saat 12.00 dir. 45° doğu boylamında ise yerel saat 13.00 tür. Kış döneminde Türkiye 30° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat geri alınır. Yaz döneminde ise Türkiye 45° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat ileri alınır.
+İlk defa Birinci Dünya Savaşı sırasında Almanlar gün ışığından daha fazla yararlanmak amacıyla ileri saat uygulamasını başlattılar. Almanya’yı örnek alan diğer ülkeler de benzer uygulamalara gittiler. Türkiye’de de, 1978 yılında bu uygulamaya geçildi.
+Uluslararası Saat Dilimleri
+İletişim hizmetlerinin gelişmesi ile beraber uluslararası ilişkilerin sağlıklı yürütülebilmesi için uluslararası saat dilimleri belirlenmiştir. Bunun için başlangıç meridyeninin 7°30‘ batısı ve 7°30‘ doğusu 0. saat dilimi olarak kabul edilmiştir. 7° 30' doğu meridyeninden 15'er meridyen doğuya doğru gidildikçe bir sonraki ortak saat dilimine geçilmiş olur. Yani 7° 30’ doğu meridyeni ile 22° 30' doğu meridyenleri arası 1. saat dilimini oluştururken, 22° 30' doğu ile 37° 30' doğu meridyenleri arası 2. saat dilimini oluşturur. Bu şekilde her 15 meridyen bir saat dilimi kabul edilip sürekli doğuya doğru devam edildiğinde 22° 30' batı ile 7° 30' batı meridyenleri arasında 23. saat dilimine ulaşılmış olur. 0. saat dilimi, 24. saat dilimidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Enlem-sıcaklık ilişkisi</DOCTITLE>
+<TEXT>
+
+Enlem-sıcaklık ilişkisi, enlem ile sıcaklık dağılışı arasındaki sıkı ilişkiyi ifade eden kavram. Ekvatordan uzaklaşıldıkça Dünya'nın geoit şeklinin bir sonucu olarak; güneş ışınlarının yere düşme açısı küçülür, yani ışınlar yere daha eğik açıyla gelirler. Eğik gelen güneş ışınlarının ısıtma gücü dik gelen ışınlara nispeten daha düşüktür. Çünkü;
+Bu ısıtma gücünün azalmasıyla birlikte ekvatordan kutuplara doğru sıcaklık azalışN1 gösterir. Enlem-sıcaklık ilişkisi Dünya üzerindeki sıcaklığın dağılışında en önemli etkenlerden biridir. Buna bağlı olarak;
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mutlak nem</DOCTITLE>
+<TEXT>
+
+Mutlak nem, havanın hacim birimi (m³) başına içerdiği su buharının gram cinsinden kütlesine denir. En basit ifade tarzı olmasına rağmen bağıl neme nazaran daha az kullanılır.
+Hacmin esas alındığı bu değerlendirmede havanın içerdiği su buharı miktarı sıcaklığa bağlıdır. Zira çevresinden hacim olarak soyutlandıktan sonra basınç değişikliklerine maruz kalsa da o hacme giren havanın miktarı değişmeyeceğinden içerisinde tutabileceği su buharı miktarı sadece sıcaklıktan etkilenecektir.
+Burada, 1 m³ havanın belirli bir sıcaklık derecesinde tutabileceği en yüksek su buharı miktarı "doygunluk nemi" olarak ta tanımlanabilir. Mutlak nem buharlaşma olanaklarına bağlıdır. Özellikle yüksek sıcaklıkta ve buharlaşmaya elverişli yüzeylerde fazla olur. Bu nedenle ekvatordan kutuplara, kıyılardan iç kısımlara ve yükseklere doğru azalır. Yazın kıştan, gündüzleri de gecelerden fazladır. Mutlak nem higrometre adı verilen aletle ölçülür. Coğrafya bölümünde kullanılan kelimedir. Nem İnsanları rahatsız edebilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kalp pili</DOCTITLE>
+<TEXT>
+
+Kalp pili, kalbin yeterli elektriksel uyarıyı oluşturamaması ve/veya tüm kalp dokusuna yeterli şekilde ulaştıramaması durumunda yeterli elektriksel uyarıyı oluşturmak için kullanılan cihazlara verilen isimdir.
+Mekanizması ve kullanımı.
+Kalp kendi ürettiği elektriksel uyarılarla çalışan bir organdır. Normal bir kalpte elektriksel uyarılar sağ atriumda (sağ kulakçık) bulunan Sinoatriyal nod adı verilen bir bölgeden başlatılarak ileti sistemi aracılığı ile tüm kalp kası hücrelerine iletilmekte ve kalbin belirli hız sınırları içersinde ritmik kasılması sağlanmaktadır.
+Kalpteki bu elektriksel uyarıların üretiminde ve/veya iletiminde meydana gelecek herangi bir bozulma normal kalp kasılmalarını engelleyerek hastalıklara - aritmilere neden olmaktadır. 
+Meydana gelen hastalıklar sonucu kalp vücudun ihtiyacı olan kanı yeterli miktarda pompalayamaz ve bayılma, baş dönmesi, yorguluk, sersemlik hali, çarpıntı gibi şikayetler oluşur. 
+Kalbin yeterli elektriksel uyarıyı oluşturamaması ve/veya tüm kalp dokusuna yeterli şekilde ulaştıramamsı durumunda yeterli elektriksel uyarıyı oluşturmak için kullanılan cihazlara "Kalp pili" denilmektedir. Kalp Pilleri geçici ve kalıcı piller olarak ikiye ayrılmaktadırlar. "Geçici kalp pilleri" acil şartlarda kullanılmak için dizayn edilmişken "Kalıcı kalp pilleri" sürekli kullanım için tasarlanmışlardır. 
+Kalp Pilleri elektriksel uyarı üretici bir jeneratör ve üretilen bu elektriksel uyarıyı kalp dokusuna iletilmesini sağlayan elektrot telden oluşmaktadırlar. Kalıcı Kalp Pillerinın uyarıyı üreten jeneratörleri günümüzde 12,5-15,5 gr ağırlığında olup Lityum içerikli bataryalar taşımaktadır. Bu bataryalar vücutta sağ veya sol göğüs duvarı içine, karın içine konulabilmektedir. Jeneratörde üretilen eletriksel uyarıyı kalp dokusuna taşıyan elektrot telin bir ucu jeneratöre bağlı olup diğer ucuda kan damarları içinden geçirilerek kalbin atriyumu veya ventrikülü içine yerleştirilmektedir. Takılan Kalıcı Kalp Pilinin çalışma hızı hastanın ihtiyacına göre dışarıdan ayarlanabilmektedir. Hastanın hastalığına, pilin özellikleri ve çevresel faktörlere bağlı değişmekle birlikte pillerin ortalama ömrü 5-10 yıl arasında değişmektedir, jeneratör içindeki elektronik sistem sayesinde belli aralıklarla yapılan pil kontrolleri sırasında cihaz ortalama ne kadar ömrünün kaldığını göstermekte ve bu şekilde zamanında jeneratör değişimi yapılmaktadır. Günümüzde yılda yaklaşık olarak 6.000.000 hastaya kalıcı kalp pili takılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Epilasyon</DOCTITLE>
+<TEXT>
+
+Epilasyon; vücuttaki istenmeyen tüylerin kalıcı ya da uzun süreli uzaklaştılmasını sağlayan yöntemlerin genel adıdır. Geçici epilasyon yöntemlerinden farkı bu yöntemlerin kalıcı ya da en azından uzun süreli sonuçlar sağlamasıdır. Kalıcı epilasyonun temel mekanizması kılı üreten kök hücrelerinin tahrip edilmesidir. Kıl kökünün tahrip olma miktarı epilasyonun başarısını belirler.
+Geçici yöntemlere depilasyon yöntemleri adıda verilir. 
+Geçici yöntemler ya da depilasyon yöntemleri;
+dir.
+Epilasyon yöntemleri ya da kalıcı yöntemler ise 3 tanedir.
+İğneli Epilasyon.
+Kıl köklerini kıl kalınlığından daha ince bir iğne ile elektrik enerjisi kullanılarak tahrip edilmesidir.
+Fotoepilasyon.
+Yoğunlaştırılmış ışık kaynakları ile yapılan epilasyon yöntemidir.
+Lazer Epilasyon.
+Lazer enerjisi kullanılarak kıl köklerinin tahrip edilmesi esasına dayanan yöntemdir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Surtsey</DOCTITLE>
+<TEXT>
+
+Surtsey (IPA: 'sør̥tsɛi), İzlanda'nın güney kıyıları yakınında bulunan volkanik bir ada. Adı, İzlandaca ""Surtur'ün adası"" anlamına gelir. 63.30° Kuzey, 20.62° Batı koordinatlarında bulunan ada, İzlanda'nın en güneydeki ve en genç toprak parçasıdır.
+Ada, 130 metre derinlikte okyanus tabanından başlayarak 14 Kasım 1963 tarihinde yüzeye ulaşan bir volkanik hareketlenme sonucunda oluşmuştur. Hareketliliğin yüzeye yansımasından birkaç gün kadar önce başladığı tahmin edilmektedir. Ada, püskürmenin durduğu 5 Haziran 1967 tarihinde, 2,7 km²'lik yüzölçümü en geniş durumuna ulaşmıştır. O günden bu yana bölgede sık sık görülen dalga ve rüzgâr erozyonu nedeniyle adacığın boyutları hızla küçülmektedir. 2002 itibarıyla adanın yüzölçümünün sadece 1,4 km²'dir.
+Yeni oluşan ada, hareketlenmenin yaşandığı süre boyunca yanardağ araştırmacıları tarafından ilgiyle izlendi. Yanardağın sönmesinin ardından ada, botanikçiler ile biyoloji araştırmacılarının yoğun ilgisiyle karşı karşıya kaldı. Bütünüyle çorak ve boş olan adada sıfırdan başlayarak yavaş yavaş oluşmaya başlayan doğal yaşamın gelişmesi, bilim adamlarınca izlendi.
+Surtsey'i oluşturan denizaltı yarıkları, Vestmannaeyjar (Vestmann Adaları) denizaltı volkan sisteminin parçalarıdır. Deniz tabanında bulunan bu büyük çatlaklar Orta Atlantik Yükselimi (İng. "") olarak adlandırılır. Vestmannaeyjar'ın oluşturduğu bir başka büyük volkan patlaması ise 1973 yılında Heimaey Adası'ndaki Eldfell'dir. Surtsey'in oluşmasında etkili olan püskürme, bu volkanik zincir boyunca Jólnir Adası ve adlandırılmamış birçok küçük tepeciğin yanı sıra daha küçük çapta birçok başka adacık daha oluşturmuş, ancak bunların pek çoğu kısa süre içinde aşınarak küçülmüş ve su altında kalmışlardır.
+Hareketlenme öncesi ilk belirtiler.
+14 Kasım 1963 tarihinde saat 07:15'de (UTC+0), İzlanda'nın güney kıyılarında, Vestmannaeyjar takımadalarının yakınındaki "Ísleifur II" adlı trol gemisinin aşçısı, teknelerinin güneybatısında havaya yükselmekte olan siyah dumanları gördü. İlk önce ne olduğu anlaşılamayan nesneleri yakından görmek için yönünü değiştiren geminin kaptanı, bunun yanmakta olan bir diğer balıkçı teknesi olabileceğini düşündü, ancak bölgeye vardıklarında patlamaya hazır volkanın küllerinden yükselen dumanlar ile karşılaştılar.
+Hareketlenme hiç beklenmedik bir anda gelmesine karşın püskürmesinin oldukça yakın olduğuna ilişkin pek çok ipucu vermiştir. Olayın bir hafta öncesinde başkent Reykjavík'de bir araştırmacı küçük yer sarsıntıları kaydetmiş, ancak merkez üslerini saptayamamıştır. Püskürmenin başlamasından iki gün önce bir denizaltı araştırma gemisi, denizsuyu sıcaklığının olağandan daha yüksek olduğunu belirtmiş, aynı zamanda ana kıyıdan 80 kilometre uzaklıkta bulunan bir ada köyü olan Vík'de yaşayanlar, havada hidrojen sülfür kokusu duyumsadıklarını bildirmişlerdir.
+Hareketlenmenin su yüzeyine yansıdığı yerde okyanusun derinliği 130 metre kadardır. Bu derinlikte suyun basıncı, püskürme biçiminde ortaya çıkabilecek bir hareketlenmeye olanak vermeyeceğinden ilk hareketlenmenin su yüzeyinde 14 Kasım'dan birkaç gün öncesinde başladığı düşünülmektedir. Yanardağ, tabandan başlayarak deniz yüzeyine kadar yavaş yavaş yükselerek konik bir biçim oluşturmuş ve yükseltinin su yüzeyine çıktığı andan sonra da suyun püskürme ve patlamaları durdurması olanaksız hâle gelmiştir.
+Olayın ilk günleri.
+14 Kasım 1963 gününde yüzeyde başlayan ilk hareketlenmenin yaşandığı gün, sabah saat 11:00'e kadar püskürmenin oluşturduğu sıcak kül ve dumanlar birkaç kilometre yüksekliğe ulaştı. İlk önce kuzeydoğu - güneybatı doğrultusunda üç ayrı noktadan yüzeye çıkmaya başlayan püskürmeler, akşama doğru birleşerek tek bir yarıkta toplandı. Bir sonraki hafta içinde patlama ve püskürmeler sürekli bir hâl aldı ve birkaç günde bütünüyle cüruftan oluşmuş olan ada, 500 metre genişliğe ve 45 metre yüksekliğe ulaştı. Ortaya çıkan yeni adaya İzlandalılarca İskandinav Mitolojisi'nde ateş devi olan Surtur'den ilham alarak "Surtur'ün Adası" anlamına gelen "Surtsey" adı verildi. Patlamalar sürerken tek bir noktada yoğunlaşarak yüzeye çıkmakta olan lavlar, adaya daha yuvarlak bir biçim vermeye başladılar. 24 Kasım'da adanın boyutları 900×655 metrekareyi bulmuştu. Durmadan akmayı sürdüren sıcak lavlar ile deniz suyunun karşılaşmasından kaynaklanan şiddetli patlamaların oluşturduğu gevşek volkanik arazi, içinde bulunulan kış aylarında Atlas Okyanusu'nda yaşanan fırtına ve büyük dalgalar nedeniyle hızla aşınarak küçüldü.
+Adada volkanik hareketlilik hâlâ sürmekteyken 6 Aralık 1963 günü "Paris Match" adlı dergiyi temsilen adaya üç Fransız gazeteci ayak bastı. Büyük patlamalar yaşanabilir kaygısı ile adadan 15 dakika içinde ayrılan gazeteciler, mizahî bir biçimde adada Fransa egemenliğini ilan ettiler, ancak İzlanda Hükûmeti hemen yanıt vererek adanın kendi karasuları sınırları içinde kaldığını belirterek adanın kendisine ait olduğunu duyurdu. Yine bir volkanik hareketlenme sonucu oluşan Sicilya yakınlarındaki Ferdinandea, üzerinde Fransa da dahil birçok devletin hak iddia ettiği bir başka ada olmuştur.
+İlerleyen günlerdeki hareketlilikler.
+Yeraltından gelen lavların doğrudan deniz suyu ile birleşmesinden kaynaklanan ve şiddetli patlamalar biçiminde oluşan püskürmeler taş ve kaya parçalarını bir kilometre uzaklığa kadar fırlatmış, kül bulutları atmosferde 10 kilometre yüksekliğe ulaşmıştır. Yeraltından çıkan ve henüz katılaşmamış olan malzemelerin dalgalarca hızla taşınmış olması taze magmanın miktarını azaltmış ve adada bunlardan çıkan büyük kül ve duman bulutları volkanik hareketlenmenin sonuna dek sık sık görülmüştür.
+1964 başlarında süregelen püskürmelerden dolayı adanın boyutları iyiden iyiye büyümüştü ve artık deniz suları, lavların yeryüzüne çıktığı noktaya ulaşamıyordu; bu nedenle deniz suyu ile lavların buluşmasında ortaya çıkan şiddetli patlamalar büyük ölçüde azaldı. Bunların yerine akan lavlar ve diğer püskürükler, adanın oluşumunda etkili olmaya başladı. Gevşek volkanik arazinin üzerini büyük ölçüde kaplayan, kraterin etrafı başta olmak üzere adanın büyük bir bölümünde aşınmaya dayanıklı sert bir tabaka oluşunca adanın rüzgâr ya da dalgalar nedeniyle küçülmesini azaldı. Hız kesmeden süren püskürmeler, 1965 yılında sona erdi. Volkanizma hareketlerinin bütünüyle durduğu anda adanın toplam yüzölçümü 2½ kilometrekareye ulaşmıştı.
+28 Aralık 1963 günü Surtsey'in 2½ kilometre kuzeydoğusunda, denizaltında başlayarak 100 metre yüksekliğinde bir tepe oluşturan bir başka volkanik hareketlenme başladı. Yeni yeni oluşmaya başlayan bu tepeciğe de "Surtla" adı verildi ama bu tepecik, hiçbir zaman yüzeye erişemedi. Surtla'daki hareketlilik 6 Ocak 1964 günü bitti. Hep deniz altında kalmış olan ada, denizin aşındırma gücü ile günden güne küçülmeye başladı.
+Yanardağın sönmesi.
+1965 yılında Surtsey'deki hareketlenmeler azaldı ancak aynı yılın Mayıs ayında adanın 600 metre kuzeyinde başka bir yarıkta yeni bir hareketlilik başladı. Deniz tabanından bir tepecik oluşturmaya başlayarak yükselmeyi sürdüren bu yarık 28 Mayıs günü yüzeye çıktı. Bu adaya da "Syrtlingur" adı verildi. Buradaki püskürmeler 1965 Ekim başlarına dek sürdü. Tüm hareketlenme durduğunda bu adanın boyutları 150 metrekareye ulaşmıştı ancak püskürmelerin durduğu günden sonra erozyon nedeni ile bu ada da hızla küçülerek 24 Ekim günü su altında kaldı.
+Çok geçmeden Aralık 1965'de Surtsey'in yaklaşık 900 metre güneybatısında bir başka hareketlenme başladı ve yeni bir ada oluştu. Jólnir olarak adlandırılan bu ada, sonraki sekiz ay içerisinde 70 metre yüksekliği ve 300 metrekare yüzölçümüne ulaştı. "Syrtlingur" örneğinde olduğu gibi bu ada da hareketliliğin sona erdiği 8 Ağustos 1966 gününden sonra hızla aşınarak küçüldü ve Ekim 1966'da tümüyle su altında kaldı.
+19 Ağustos 1966 günü Surtsey üzerindeki püskürmeler yeniden başladı ve aşınarak küçülmesi bir kez daha büyük ölçüde azaldı. Ancak bu hareketlenme kısa süre içinde yavaşlayıp 5 Haziran 1967 tarihinde tümüyle durdu. Yanardağ, o günden bu yana sönüktür. Püskürmelerin başladığı günden itibaren 3½ yıl boyunca yanardağın çıkarttığı malzemelerin toplamı 1 kilometreküpütür. Yanardağ söndüğünde adanın en yüksek noktası, deniz seviyesinden tam 174 metre yükseklikteydi.
+Püskürmelerin durması ile birlikte dalga ve rüzgâr erozyonu adanın boyutlarında büyük azalmalara neden oldu. Güneydoğu bölümünde oldukça geniş bir alan tümüyle aşınarak yok olurken kuzeyde "Norðurtangi" (Kuzey noktası) adı verilen bir kum tepeciği oluştu. Erozyon nedeni ile taşınan madde miktarının yaklaşık 0,024 km³ olduğu sanılmaktadır.
+Ada üzerindeki doğal yaşam.
+Biyoloji ve doğa araştırmaları için oldukça elverişli bir ortam olan Surtsey, pek çok bilim adamının ilgisini çekti. Volkanik hareketlilik sürmekteyken 1965 yılında doğal koruma alanı ilan edildi. Dışarıdan gelen kurucu ögeler ile doğal yaşamın başlaması gözlemlenerek kayıt altına alındı. Bugün sadece birkaç bilim adamının Surtsey'e girme izni vardır. Başka kişiler için adayı yakından görmenin tek yolu bir hava taşıdı kullanmaktır. Elli yıl içinde adayı ziyaret izni alanların sayısı yüz cıvarındadır.
+Bitki oluşumları.
+Bütünüyle boş bir volkanik arazi olan Surtsey'de ilk yaşam belirtileri 1965 yılının başlarında yosun ve likenlerin görülmesi ile başlamıştır. Bugün bu yosun ve likenler adanın büyük bir bölümünü kaplamış durumdadır. Adanın oluşmasını izleyen 20 yıl içinde yirmi bitki türü saptanmış, ancak bunların sadece onu adanın verimi düşük, kumlu toprağında kalıcı olabilmiştir.
+Adayı yavaş yavaş kuşların yuva edinmeye başlamasıyla toprak koşullarında iyileşme gözlenmiş ve daha gelişmiş bitki türleri adada yaşamaya başlamıştır. 1998 yılında adada dört metreye kadar büyüyebilen çay yapraklı söğüt ("") adlı ilk çalı türü bitki bulunmuştur. Toplamda Surtsey üzerinde bulunan bitki türlerinin sayısı altmışı bulmuş, bunlardan yaklaşık otuzu adanın ekosisteminde kalıcı olabilmiştir. Adaya her yıl ortalama 2-5 yeni tür giriş yapmaktadır.
+Kuşlar.
+Adaya kuşların gelişi, bitki örtüsünün var oluşuyla alakalıdır ve bitki örtüsünün daha da genişlemesine olanak sağlamıştır. Kuşlar bitkileri yuvalarını hazırlamada kullandıkları gibi tohumların da taşınmasına yardımcı olmuş, dışkıları adanın verimsiz toprağına gübre olmuştur. Kuşların adaya ilk uğrayışları, oluşumundan üç yıl sonra görülmüştür. İlk gelen kuşlar, fulmar ve dalıcı martılar olmuştur. Bugün ise ada üzerinde tam sekiz tür kalıcı olarak bulunmaktadır.
+Oluşumundan sadece birkaç hafta sonra adanın kıyılarına kısa süreliğine uğramalarına karşın, ilk kalıcı dalıcı martı grubu 1986 yılında görüldü. Bu dalıcı martı kolonisi, adada bulunan diğer türler ile karşılaştırıldığında sayılarının bolluğu nedeniyle Surtsey'in bitki örtüsünün gelişim ve biçimlenmesine çok daha büyük katkılar sağlamıştır. 2004 yılında adada kuluçkaya yatan ilk bayağı deniz papağanı türü bulundu. Bu deniz papağanları takımadaların kalan bölümlerinde de oldukça yaygındır.
+Pek çok kuş türüne yuva olmasının yanında Surtsey, İzlanda ile İngiltere adaları arasında yer değiştiren göçmen kuşlar için de bir durak yeri olmuştur. Bugüne dek adanın kıyılarında görülen diğer kuş türleri kuğular, kaz ve kargalardır. İngiltere'deki adalardan İzlanda'ya doğru yola çıkan kuşların rotasına göre biraz daha doğuda kalan ada, bitki örtüsü hızla geliştiği için giderek daha yaygın bir duraklama noktası olmaktadır.
+Bölgedeki deniz canlıları.
+Adanın oluşumunun hemen sonrasında bölgede foklar görüldü. Volkanik hareketliliğin tümüyle durduğu zamanlardan sonra çevrede görülen foklar adanın kıyılarında, özellikle de kuzeydeki kum tepeciğinin yakınlarında güneşlenmeye başladılar. 1983 yılında ilk kez fokların adada yavruladığı gözlemlendi. 70 bireyden oluşan bir fok balığı grubu, adayı yavrulama noktaları hâline getirmişti. Gri foklar bayağı foklardan sayıca daha fazla olmasına karşın bugün her iki türü de ada ekosistemine kalıcı olarak yerleşmişlerdir. Adadaki fokların varlığı, genelde Vestmannaeyjar takımadaları dolaylarında görülen katil balinaların ilgisini çekmektedir. Bu nedenle son yıllarda adanın çevresinde bu balinalara sık sık rastlanmaktadır.
+Ada çevresindeki denizaltı yaşamında da birçok deniz bitkisi bulunmuştur. Denizkestanesi, denizminaresi ve denizyıldızı en çok görülen canlılardır. Birçok kayaç, algler ile kaplıdır ve yosunlar volkanın deniz yüzeyinden deniz tabanına kadar olan eğimli bölümlerini sarmıştır. Yosunların en yoğun yetiştiği bölümler, denizin 10-20 metre derinliğindeki yerleridir.
+Başka türler.
+Böcekler, Surtsey'e oluşmasının hemen ardından varmışlardır. Adada ilk böcek 1964 yılında bulunmuştur. Adaya ilk uğrayan türler, rüzgârın sürüklediği ya da bilinçli olarak buraya gelen uçan böcekler olmuştur. Adaya Avrupa ana karasından da böceklerin geldiği sanılmaktadır. Yürüyen böcekler de adaya deniz yoluyla yüzerek gelen tahta parçalarıyla ulaşmıştır. 1974 yılında ada kıyılarına, adadaki araştırmacıların inceleme amacıyla yarısını aldığı büyük bir ot öbeği vurmuştur. Yapılan incelemeler sonucunda bu yığın içinde çoğunluğu kene ve yaykuyruklular olan toplam 663 kara omurgasızı bulunmuş, geri kalan bölümde bulunan canlıların birçoğu adada tutunabilmiştir.
+Surtsey'de böcek yaşamının yerleşmesiyle kuşların başlıca besin kaynaklarından biri oluşturmuştur. Ölen kuşların bedenleri etçil böcekler için besin kaynağı olurken, toprak için de gübre olmuş ve bitki örtüsünün gelişimine katkıda bulunarak otçul böceklerin de dengeli biçimde çoğalmasına elverişli ortam sağlamıştır.
+Ada topraklarında artık daha gelişmiş canlı oluşumlarına rastlanmaktadır. Adadaki ilk solucan, 1993 yılında incelenmek üzere alınmış bir toprak örneği içinde tesadüfen bulunmuştur. Heimaey Adası'ndan gelen bir kuşun gagasından düştüğü sanılan solucanın yanı sıra adada 1998 yılında İzlanda'daki türlerle benzerlik gösteren bir de sümüklü böcek görülmüştür. Bunlarla birlikte adada yerleşmiş olan birçok örümcek ve kın kanatlı türü vardır.
+Surtsey'in geleceği.
+Püskürmelerin durmasının sonrasında araştırmacılar, adanın boyutlarında oluşacak değişmeleri gözlemleyebilmek için bir işaretleme sistemi oluşturdular. Belirli yerlere konulan sabit noktalardan oluşan bu sistem, daha sonra yanardağdaki hareketliliğin durduğu zamandan başlayarak dağın dikey olarak hızla toprak yitirdiğini ortaya çıkardı. Verilere göre 20 yıl içinde dağın yüksekliğinin bir metre kadar alçaldı. Başlangıçtaki aşınma yılda 20 cm olarak ölçülmüşse de bu sayı 1990'lı yıllara gelindiğinde yıllık 1–2 cm'ye kadar gerilemiştir. Bunun birkaç nedeni vardır: yerin derinliklerinden gelen gevşek malzemenin zamanla sıkılaşıp iyice oturması; adanın altında, deniz tabanındaki tortuların sıkışması ve adanın ağırlığından dolayı litosferin aşağı doğru eğilmesi. 
+Vestmannaeyjar takımadasında gerçekleşen volkanik hareketliliklerin ortak özelliği, her bir yarıkta sadece bir püskürme olmasıdır. Bu da ortaya çıkan adaların gelecekte yeni patlamalarla daha da genişlemesini sağlamaz. Bu nedenle oluşan adalar, daha ilk aşamada bile okyanusun güçlü dalgalarıyla hızla aşınmaya başlar ve püskürmelerin durduğu zamana dek sahip olduğu toprağın yarısına yakınını yitirir. Surtsey de ölçümlere göre her yıl 10.000 metrekare toprağını yitirmektedir.
+Adanın gidişatına bakıldığında yakın gelecekte yok olmayacağı anlaşılabilir. İlk dönemlerde hızla güçlü dalga ve rüzgârlarla aşınarak ortadan kaybolan bölümler, adanın gevşek bölümleridir. Bugün adayı oluşturan toprak oldukça sertleşmiştir ve ada, aşınmaya karşı büyük direnç gösteren taşlaşmış lavlar ile kaplanmıştır. Bununla birlikte çeşitli kimyasal tepkimeler sonucunda yeraltından gelen püskürükler, aşınmaya karşı koyabilen sert yapılar oluşturmuştur. Patlamadan sonra Surtsey, %70 tefradan meydana gelmekteyken yanarağ faaliyetlerinin bitmesinden iki sene sonra malzemenin sıkılaşması, araştırmalara göre krater ve çevresi bölgelerde uzun süre devam eden 55 C üzerindeki sıcaklıktan dolayı olmuş, bu şartlarda tefra palagonite dönüşmüştür. Araştırmacılar, uzun vadede bu bölgeler dışında adanın erozyonla tekrar yok olacağını sanmaktadırlar. Bu tepkime süreci, Surtsey üzerinde yeraltındaki ısı yüksekliğinden dolayı olağandan biraz daha hızlı gelişmiştir.
+Adanın boyutlarının giderek ufaldığı kesinken, bütünüyle kaybolmasının büyük olasılıkla birkaç yüzyıl alacağı görüşü de mevcuttur. Bu süreç boyunca adanın, Vestmannaeyjar takımadasının Surtsey'den yüzyıllar hatta binyıllar önce oluşan diğer üyelerinin geçtiği evrelerden geçeceği düşünülmektedir. 2001 yılında İzlanda Hükûmeti adanın UNESCO'nun Dünya Kültür Mirası listesine girmesi için öneri vermiştir.
+Dünya Miras Listesi İzlanda Komitesi, 2007 yılında Surtsey adasının UNESCO Dünya Miras Listesine girebilmesi için tekrar resmi başvuruda bulunmuştur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jüpiter'in atmosferi</DOCTITLE>
+<TEXT>
+
+Jüpiter'in kalın ve karmaşık bir atmosfer tabakası bulunmaktadır. Bu atmosferi oluşturan gazların bileşim açısından Güneş Sistemi'nin kökenini oluşturan Güneş Bulutsusu'nun varsayılan yapısına yakın olduğu, ve aynı şekilde güneş sisteminin ilkel bulutsudan en az farklılaşmış gezegeni olduğu tahmin edilen Jüpiter'in iç yapısını da kabaca yansıttığı düşünülür. Atmosferin iki temel bileşeni moleküler hidrojen (H2) ve helyum (He)'dur. Bu gazların moleküler dağılımı %88 - %12 civarındadır. Bunları %0.1 oranla su buharı (H2O) ve metan (CH4) ve %0.02 oranla amonyak (NH3) izler. Azot, hidrojen, karbon, oksijen, kükürt, fosfor ve diğer elementleri içeren çeşitli bileşiklere milyonda bir düzeyini geçmeyen oranlarda rastlanmıştır.
+Aslında gaz devlerinin belirli bir yüzeyi olduğu söylenemez, gezegenden atmosfer olarak adlandırılabilecek en dış gaz tabakasına doğru kesintisiz, yumuşak bir geçiş sözkonusudur. Atmosferin değişik katmanları arasında da çok keskin sınırlar bulunmaz. Atmosferin incelerek gezegenlerarası ortamdan ayırdedilemez hale geldiği üst sınırı gibi, basınç ve ısının çok yükseldiği, ideal gaz ortamından uzaklaşılarak gezegenin moleküler hidrojen tabakasındaki sıvı yapıya doğru geçildiği alt sınırı da belirsizdir.
+Troposfer.
+Yer atmosferinde olduğu gibi, yoğun konvektif atmosfer akımlarının ve meteorolojik olayların yer aldığı ve atmosfer kütlesinin büyük kısmını barındıran en alt katman troposfer olarak adlandırılır. Tropopoz adı verilen ve 100 K civarındaki sıcaklığıyla atmosferin en soğuk kısmını oluşturan yüzey, troposfer tabakasını atmosferin daha üst katmanlarından ayırır. Basıncın 0,1 bar (Yer atmosferinde deniz seviyesindeki basıncın onda biri) civarında olduğu bu düzey '0' derinlik olarak alınır. Troposferin en üst bölgelerindeki en yüksek bulutlar amonyak buzundan oluşmuştur ve tropopozun yaklaşık 10 km. altında, sıcaklığın 130 K , basıncın 0,7 bar olduğu düzeyde yer alır. Yeryüzünden bakıldığında Jüpiter yüzeyinde izlenebilen en dış oluşumlar bu bulutlardır. 
+Troposferin derinliklerine doğru inildiğinde, basınç ve sıcaklığın artmasına paralel olarak çeşitli kimyasal bileşiklerin yoğuşmasına bağlı çok sayıda bulut tabakası ile karşılaşılır. 25-35 km. derinlikte, sıcaklığın 200-225 K arasında olduğu alanda amonyum sülfid buzu, 40-70 km. arasında ise katı halde sudan oluşmuş bulutlar yer alır. Bu tabakanın hemen altında su içinde erimiş amonyak damlacıklarından oluşan sıvı nitelikte bir bulut tabakası bulunur. Bunu 100 km. nin altında amonyum halid'lerin, daha derinlerde ise potasyum sülfid, rubidyum sülfid, sodyum oksitin yoğuşmasından meydana gelen bulutlar izler. Sıcaklık ve basıncın devasa boyutlara vardığı 1000 km. altında çeşitli silikat bileşikleri 'kaya bulutları'nı oluşturur. 2500-2700 K sıcaklık ve onbinlerce bar basınçla demir ve diğer ağır metal bileşiklerin yoğuştuğu aralık olan 1400-1700 km. derinlik aşıldığında, tüm bileşenlerin eriyik halinde bulunduğu berrak bir sıvı ortam görünümü ağır basar. 2000 km. derinlikte sıcaklık 3000 K, basınç 50.000 bar, 4000 km. de ise sıcaklık 5000 K, basınç 300.000 bar kadardır. 20.000 km. derinliğe gelindiğinde sıcaklık 10.000 K, basınç 3 milyon bar düzeyine ulaşır. Bu koşullar hidrojenin Van der Vaals tarafından tanımlanan metalik yapıyı aldığı alanı belirler. Atmosferin alt sınırı olarak hangi değerin kabul edileceği bilimsel gerekliliklerden çok, kişisel tercihlere bağlı görünmektedir.
+Atmosfer akımları.
+Jüpiter'i kaplayan bulutların renk açısından büyük farklılıklar gösteren ve ekvatora paralel biçimde dizilmiş çok sayıda kuşaklar oluşturduğu gözlenir. Koyu renkli 'kuşaklar' ile açık renkli 'bölgeler'in sırayla birbirini izlediği, iki komşu alanda egemen olan hava akımlarının birbirine zıt yönde ilerlediği, ve hızı zaman zaman 600 km./saat düzeyine ulaşan rüzgarların, kuşak ve bölgelerin sınırlarında büyük türbülanslara neden olduğu görülür. Bu alanlarda değişik boyut ve renklerde ve değişen sürelerle dairesel yapılar izlenir. Büyük Kırmızı Leke bunların en iyi bilineni ve en azından Jüpiter'in teleskoplarla izlenebildiği üçyüz yılı aşkın sürede varlığını sürdürerek en uzun ömürlü olanıdır. Büyük Kırmızı Leke'nin ve kuşakların renkleri ve kontrastları zaman içerisinde önemli değişiklikler gösterebilmektedir. Ekvatordan kutuplara doğru atmosfer hareketliliği giderek azalır ve kutuplara yakın enlemlerde kuşak yapısı tümüyle kaybolarak yerini daha türdeş bir bulutluluğa bırakır.
+Bu hareketliliğin nedeninin Jüpiter tarafından üretilen büyük miktardaki ısı enerjisi olduğu düşünülür. Atmosferin derinliklerinde, gezegen içinden aldığı ısı ile genleşerek yükselmeye başlayan gazlar, yüzeye doğru yaklaştıkca soğur ve yoğuşma derecelerine göre sıra ile sıvı hale dönüşerek değişik yükseltilerdeki bulutları ve yağışları oluştururlar. Bu yolla tropopoza ulaştığında 'kuru' ve soğuk hale gelen gazlar ağırlaşarak yeniden alçalırlar. Dönüş yolunda ısınma ile birlikte değişik düzeylerdeki yoğuşmuş bileşikleri yeniden içine alarak zenginleşirler. Bu döngü binlerce kilometre uzunluğunda dikey bir yolculuğu gerektirir ve tipik olarak yıllar sürebilir. Jupiter'in ağırlık merkezinden uzaklaşarak yükselen gaz kütleleri sahip oldukları açısal momentumu koruyarak gezegenin dönüş hızının gerisinde kalırken, alçalan kütleler hızlanırlar. Coriolis etkisi adı verilen bu durum art arda gelen kuşaklarda sıra ile doğu-batı ve batı-doğu yönünde zıt akımların oluşmasına yol açar. Yükselen sıcak gaz kütlelerinin oluşturduğu antisiklon 'bölge'lerinde bulutların yüksekliği, alçalan soğuk ve kuru gazlardan oluşan siklon 'kuşak'larına göre çok daha fazladır. Nemli bölgeler gezegenin yüksek yansıtıcılığa sahip açık renkli alanlarını oluşturur. Kuru gazlar ise atmosferin çok daha derinlerine kadar inen bir görüş alanına izin verir ve koyu renkli kuşakları meydana getirir. 15o Kuzey ve 15o Güney enlemleri arasını kaplayan Ekvator Kuşakları'ndaki 380 km./saat hızında batı-doğu yönünde sürekli hava akıntısı, Jüpiter'in ekvatorda kutuplara oranla daha hızlı döndüğü izlenimi verir ve bu nedenle gezegen için 9 saat 50 dakika 30 saniye süren Sistem I ve 9 saat 55 dakika 41 saniye süren Sistem II olmak üzere iki ayrı dönüş süresi tanımlanmıştır. Radyo dalgalarının ölçümü ile belirlenen Sistem III ise gezegenin manyetik iç yapılarının dönüş hızını gösterir ve hemen hemen Sistem II ile yani kutuplardaki atmosferin dönüş hızı ile eşdeğerdir.
+Kutupların yakınında bölge ve kuşakların görülmemesi, Coriolis kuvvetlerinin bu enlemlerde önemini yitirmesi ile ilişkilidir. Yükselen ve alçalan gaz sütunlarının bu bölgelerde de varlığı, benek ya da halkalar şeklinde gözlenen farklı renklere sahip atmosfer yapıları ile doğrulanmaktadır. Ayrıca ekvator ve kutuplar arasında hemen hemen hiç sıcaklık farkı gözlenmemesi, atmosfer içindeki ısı aktarımının tüm enlemlerde etkin bir biçimde sürdürüldüğünü düşündürmektedir.
+Çok yeni veriler, koyu renkli kuşaklarda da yükselen gaz hücrelerinin oluşturduğu küçük açık renkli alanların bulunduğunu ve net gaz hareketinin yükselme yönünde olabileceğini düşündürmektedir. Bu çelişkili bulgular henüz tam olarak aydınlatılabilmiş değildir. 
+Stratosfer.
+Tropopoz düzeyinin üzerinde hem dikey, hem de yatay hava akımlarının çok az olduğu, yoğunlaşma ve bulutların bulunmadığı stratosfer tabakası yer alır. Bu katmanda fotokimyasal etkinlik ön plandadır ve atmosfer bileşimini ve özelliklerini etkileyen en önemli mekanizmadır. Güneş‘ten kaynaklanan morötesi ışınımların etkisi altında gerçekleşen bu tepkimelerin sonucunda bazı kimyasal bileşikler parçalanarak eksilirken, bazı yeni bileşiklerin oluşması ve atmosferin daha alt tabakalarına 'yağması' ile Jüpiter‘in kimyasal bileşimi yavaş ama sürekli biçimde değişmektedir. Soğurulan güneş ışınlarının bıraktığı enerji nedeniyle stratosferde sıcaklık troposferdekinden daha fazladır ve yükselti ile birlikte artmaya devam eder. En yüksek sıcaklığın olduğu düzey stratosferi mezosferden ayıran 'stratopoz'u belirler. 
+Mezosfer.
+Tropopoz düzeyinden yaklaşık 150 km. yükseklikte başlayan mezosfer, 300 km. yüksekliğe dek devam eder. Burada daha da seyrelmiş olan atmosferde, stratosferdekine benzer fotokimyasal etkinlik devam eder. Sıcaklık bu katman boyunca 180K civarında sabittir. 
+Termosfer.
+Mezosferin üst sınırını belirleyen türbopoz düzeyinin üzerinde Güneş kaynaklı morötesi ve X ışınlarının etkisi ile 750K sıcaklığa ulaşan termosfer tabakası bulunur. Bu katmanın üst kısımları yüksek enerjili ışınların etkisi ile iyonize duruma geçmiş atomlar ve serbest elektronlardan zengindir, bu nedenle iyonosfer olarak da adlandırılır. 
+Egzosfer.
+Jüpiter atmosferinin en üst tabakalarında, yavaşca yerini güneş rüzgarı ve gezegenlerarası ortama bırakan çok seyrelmiş hidrojen atomlarını içeren geniş bir alan bulunur. Bu alanın ısı dengeleri incelendiğinde, gezegenin kütleçekim gücünün dış kaynaklı ışınımların etkilerine açık farkla baskın çıktığı ve Venüs, Yer, ve Mars gibi küçük gezegenlerin aksine Jüpiter atmosferinden hafif gazların kaçışının olanaklı olmadığı görülür. Bu nedenle Güneş sistemi'nde bugün varolan koşullar devam ettiği sürece Jüpiter ve sisteminin yapısının korunacağı sonucuna varılabilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Radyasyon</DOCTITLE>
+<TEXT>
+
+Radyasyon veya Işınım, elektromanyetik dalgalar veya parçacıklar biçimindeki enerji yayımı ya da aktarımıdır. "Radyoaktif maddelerin alfa, beta, gama gibi ışınları yayması"na veya "Uzayda yayılan herhangi bir elektromanyetik ışını meydana getiren unsurların tamamı"na da "radyasyon" denir. Bir maddenin atom çekirdeğindeki nötronların sayısı, proton sayısına göre oldukça fazla ise; bu tür maddeler kararsız bir yapı göstermekte ve çekirdeğindeki nötronlar alfa, beta, gama gibi çeşitli ışınlar yaymak suretiyle parçalanmaktadırlar. Çevresine bu şekilde ışın saçarak parçalanan maddelere "radyoaktif madde" ("ışınımsal madde") denir.
+Tarih.
+Batıya göre 1896'da Fransız fizikçi Henri Becquerel ilk olarak uranyum tuzunun görünmez ışınlar yaydığını fark etmiştir. İki sene sonra Marie Curie ve eşi Pierre Curie uranyum ile deney yaparken benzer ışınlara rastlamışlardır. Bu deneyde polonyum ve radyum oluştuğunu görmüşlerdir ve bu iki elementi ilk keşfedenler olmuşlardır. Polonyum ve özellikle radyum'un daha fazla ışın yaydıklarını gözlemişlerdir.
+Alfa ışınları.
+Bir atom çekirdeğinin parçalanmasından meydana çıkan helyum çekirdeklerine (2 proton, 2 nötron) alfa parçacıkları denir. Alfa ışınları bu parçacıkların yayılmasından oluşur.
+Bir radyum-226, 88 proton ve 138 nötrona sahiptir. Bu durumda nötron sayısı, proton sayısına göre daha fazla olduğu için, atomun çekirdek yapısı sağlam değildir. Bu yüzden radyum, çekirdeğinden bir helyum çekirdeği ayırarak parçalanır ve radyumdan, 86 proton ve 136 nötrona sahib olan yeni element radon oluşur. Radyum çekirdeğinden ayrılan 2 protonlu helyumdan alfa ışınları oluşur:
+Beta ışınları.
+Beta ışınları da alfa ışınaları gibi bir atom çekirdeğin parçalanmasından oluşur. Bu parçalanmada çekirdekten 2 proton değil, bir elektron veya bir pozitron ayrılır. Bu elektron, çekirdeğin içindeki bir nötronun bir protona dönüşmesinden oluşur ve asla atomun kendi elektronu değildir. Çekirdeğin içindeki bir protonun bir nötrona dönüşmesinde bir pozitron oluşur. Bu çekirdekte oluşan elektronlara beta- parçacıkları denir, pozitronlara ise beta+ parçacıkları. Bu parçacıklardan beta- veya beta+ ışınları oluşur.
+Beta- ışınları oluşması için çekirdeğin içinde bir nötron, bir proton ve bir elektrona dönüşür:
+Bir 55 protonlu sezyum atomundan beta- parçalanmasında 56 protonlu baryum oluşur:
+Beta+ parçalanmasında çekirdekten bir elektron değil, bir pozitron ayrılır. Bu pozitron bir protonun bir nötröna dönüşmesinden oluşur:
+Bu durumda atomun proton sayısı bir eksilir. Örneğin 11 protonlu sodyum çekirdeğinden bir positron ayırarak 10 protonlu neona dönüşür:
+Gama ışınları.
+Gama ışınlarının dalga boyu ışığın dalga boyundan daha kısa olmasına rağmen ışık gibi fotonlardan oluşur ve ışık hızıyla yayılır.
+Atom çekirdeğinden bir alfa veya bir beta parçacığı ayrıldıktan sonra çekirdekte fazladan enerji oluşur.
+Gama ışınları, atomun fazladan sahip olduğu enerjiyi çekirdeğinden ayırmasından oluşur. Yüksek enerji seviyesine sahip olan atom çekirdeğinin yapısı kararsız olur. Kararlı bir yapıya sahip olmak için çekirdekten enerji ayrılır. Gama ışınları çekidekten ayrılan elektromanyetik enerjidir.</br> 
+Enerji seviyesi yüksek olan baryum atomu kararsız yapılıdır ve bu enerjiyi gama ışınları şeklinde çekirdeğinden ayırır:
+Gama parçacıklarının enerjisi kütlesiyle eşit değer de olduğu için Einstein'ın E=mc² formülüyle enerji miktarına göre gama parçacıklarının kütlesi hesaplanabilir:
+Bu formül ile hesaplanmış olan gama parçacıklarının kütlesi bir elektron kütlesi ile aynıdır.
+Gama ışınları bilinen röntgen ışınlarının aynısıdır. Tek farkı çekirdeğin enerjisinden oluşmasıdır.
+Zararsız radyasyon.
+Alfa, Beta ve Gama ışınları elektromanyetik spektrumun en üstünde yer alır, insan sağlığına zararı tartışılmaz ve bir sonraki başlıkta incelenmiştir. Bunun hemen altındaki X ışınlarının da insan sağlığına zararlı olduğu bilinir. X ışınlarının altındaki UV (Morötesi) bölgesi de, cilt kanserleri başta olmak üzere birçok zarar verir. Ozon tabakasındaki deliklerden kaynaklanan; güneşin kanser yapıcı etkisi budur.
+UV bandının hemen altında görünür ışık bölgesi vardır. Direkt olarak göze (retinaya) ve çok yüksek şiddette uygulanmadığı sürece bir zararı bilinmemektedir, Tam aksine çevremizi görebilmek için görünür ışığa ihtiyacımız vardır. Görünür ışığın "Zararsız ışınım" sınıfına girdiği söylenebilir.
+Görünür ışığın altında, "ısınmamızı" sağlayan IR ("Infra Red"-Kızılötesi) bandı vardır. IR bandında radyasyon yapan kaynaklara örnek olarak mangal, kömür sobası, kalorifer peteği, Elektrikli IR ısıtıcılar verilebilir. IR bandı da ikiye ayrılır. Üst IR bölgesindeki kızıl ışık veren elektrikli IR ısıtıcılar Mangal, Alt IR bölgesindekiler ise Kalorifer peteği ve ışık vermeyen elektrikli ısıtıcılar gibi kaynaklardır. IR bandındaki ışınımın da zararsız olduğu kabul edilir.
+IR bölgesinin altında mikrodalga ve radyo dalgaları bulunur. Bu banttaki elektromanyetik radyasyon kaynaklarına Cep telefonu, Baz istasyonlar, Mikrodalga ısıtıcılar örnek verilebilir. Bu kaynakların yakın ve yüksek güçte olması, IR gibi vücutta ısınmaya sebep olur. Ancak bu ısınma deriye değil, vücudun derinliklerine işleyebildiğinden hem hissedilmesi zordur, hem de bu aşırı ısınma insana zararlı olabilir. Tam kesin olmamakla birlikte, bu tür ısınmanın kanserojen etkilerinin olabileceğini düşünen bilim çevreleri vardır. Ancak gücün çok yüksek, mesafenin de çok yakın olması durumunda IR'de olduğu gibi yanma (pişme) belirtileri derhal görülür.
+Radyasyonun zararları.
+X ışınları, ultraviyole ışınlar, görülebilen ışınlar, kızıl ötesi ışınlar, mikro dalgalar, radyo dalgaları ve manyetik alanlar, elektromanyetik tayfın parçalarıdır. Elektromanyetik parçaları, frekans ve dalga boyları ile tanımlanır.Alfa, beta, gama, X ışınları ile kozmik ışınlar ve nötronlar çok yüksek frekanslarda olduğundan, elektromanyetik parçacıklar kimyasal bağları kırabilecek enerjiye sahiptir. Bu bağların kırılması sonucu iyonlaşma olur. 
+İyonlaşabilen elektromanyetik ışınımları, hücrenin genetik materyali olan DNA'yı parçalayabilecek kadar enerji taşımaktadır. DNA'nın zarar görmesi ise hücreleri öldürmektedir. Bunun sonucunda doku zarar görür. DNA'da çok az bir zedelenme, kansere yol açabilecek kalıcı değişikliklere sebep olur. 
+Çevre sorunları sınır tanımaksızın artmakta ve çeşitli kirleticiler kilometrelerce uzaklara taşınarak etki gösterebilmektedir. Örneğin; Çernobil kazası nedeni ile yayılan radyoaktif atıkların, toprak ürünlerinde yol açtığı kirlilik bilinmektedir. Çernobil reaktöründe oluşan kazada, doğrudan etki sonucu 30'dan fazla insan hayatını kaybetmiş, yüzlerce kişi yaralanmış, sakatlanmış ve hastalanmıştır. Binlerce insan ise belirtileri sonradan çıkacak olan genetik etkilerle, nesilden nesile geçebilecek kalıcı izler taşımaktadır. Çernobil'deki kaza sebebiyle atmosfere karışan ışınımsal maddelerin, atmosferik devinimlerle: uzaklara taşınmasıyla, düştükleri yerlerde radyasyona neden olmuştur.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yağmur ormanı</DOCTITLE>
+<TEXT>
+
+Yağmur ormanları, yıllık en az 1750-2000 mm yağışa dayalı, yüksek yağış miktarı ile karakterize ormanlardır.
+Ekvator'dan itibaren kutuplara doğru 23°kuzey 27° güney enlemleri arasında yer alan tropikal yağmur ormanları, bütün seneyi kapsayan daimi sıcaklık ve nemlilik ile, devamlı surette büyüyen geniş yapraklı ağaçlar karakterize eder. Ağaçlar bütün sene yapraklarını bir taraftan dökerlerken, diğer taraftan yenilerini sürdükleri için, "daimi yeşil ormanlar" da denilir.
+Yağmur ormanları; ilk görünüşte çok kesif bir bitki örtüsüne sahip olup, liyan ve epifit bitkiler bakımından son derece zengindir. Bu gür flora içinden güneş ışınlarının toprağa ulaşması çoğu yerde mümkün değildir. Bitki örtüsü yoğunluğundan dolayı ağaçların üst kısımlarına düşen güneş ışığının yalnızca % l'i ormanın alt kısımlarına ulaşabilir. Ormanların daha gevşek olduğu yerlerde ise orman altı ancak öğle vakti biraz aydınlanabilir. Ormanların içleri çok yerde zifiri karanlık ve muazzam bir sessizlik içindedir.
+Hakiki yağmur ormanlarında birbirinden farklı üç kat göze çarpar. En üst kat pek devamlı değildir. Bu katı teşkil eden ağaçlar 40-50 m. yüksekliğinde olup, gövdeleri çok geniştir. Bu ağaçlar muazzam taçları ile ayrılırlar. Bu katı 25-35 m yüksekliğinde, fakat devamlılık gösteren bir orta kat takip eder. Asıl hacmin 2/3'ünü oluşturur. Buradaki ağaçlar birbirlerine girift bir şekilde karışmış haldedir. Ağaçlara uzaktan bakıldığı vakit kenetlenmiş tek bir satıh halinde görünür. Bu sıklık içinde ağaçların gövdelerini görmeye imkân yoktur. Üçüncü ve en alt kat, daha ufak ağaçlarla yüksek çalılardan meydana gelmiştir. Daha öncede bahsettiğimiz gibi birinci ve ikinci kat ağaçların çok sık yapraklan nedeni ile ışık zemine kafi derecede nüfuz edemez. Ağaçların gövdeleri hayli geniş olup umumiyetle 80 cm çapında olsalar da 23 metre çapında olan ağaçlar da bulunur.
+Tropikal yağmur ormanlarını iklimi bütün sene devam eden yüksek ve muntazam bir sıcaklık, yine bütün yıla dağılmış bol bir yağış ve buna ilâveten de, pek kısa süren kurakça bir devre takip eder. Tropikal yağmur ormanlarındaki en sıcak ay ile en soğuk ay arasındaki sıcaklık farkı 2,5 ile 3°'yi pek geçmez. Tropikal yağmur ormanlarını iklim tipinin en karakteristik özelliği ise mevsimlerin arasında yağış rejimleri bakımından bir farkın olmamasıdır. Güneşin ışıldadığı ve ormanların bu ışık huzmeleri altında kaldığı, kuşlar ile diğer canlıların dallardan dallara atladıkları bir sırada aniden güneşin bir bulut tarafından örtüldüğü ve ormanın gölgelendiği görülür. Güneş ışınlarının kesilmesiyle kuşların sustuğu, böceklerin seslerini kestikleri duyulur. Kısa süren bu sessizliği şiddetlibir yağmur sesi bozar. Yağmur ağaçların dalları ve yapraklan üzerinde damla olarak düşer, damlalar sızıntılar halinde aşağılara doğru akar, alttaki dalların ve yaprakların üzerine bu sızıntılar bir çağlayan gibi dökülür; yaprak ile ince dal gibi parçalan kırar ve yere sürükler. Yağmurun başlamasından pek kısa bir zaman sonra arazi üzerinde taşkın sulardan meydana gelmiş dereler teşekkül eder; toprak su istilasına uğramış olur
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Glokom</DOCTITLE>
+<TEXT>
+
+Glokom, göziçi sıvısının iyi boşalmaması yüzünden göz tansiyonunun artması. 
+Halk arasında "göz tansiyonu" ve "karasu" adlarıyla bilinen glokom, milyonlarca insanı etkileyen yaygın bir
+göz hastalığıdır. 
+Tedavi edilmezse görme kaybına neden olabilir. Glokomda, göz içindeki sıvı basıncı, görme yeteneği için gerekli olan göz sinirine zarar verecek düzeyde yüksektir. Glokom tüm dünyada en sık kalıcı görme kaybı nedenidir. Kırk yaşın üzerinde yaklaşık olarak her 40 kişiden 1'inde görülür ve hastalığın ortaya çıktığı 20 kişiden 1'inde her iki gözde kalıcı görme kaybına, yani total körlüğe neden olur. Bu hastalık iki türlü gerçekleşir: kalıcı glokom ve süreksiz glokom. Kalıcı glokom ömür boyu devam eder ama süreksiz glokom yorgun anlarda belirmeye başlar.
+Belirtiler.
+Normalde göz içi oluşumların beslenmesi için göz içerisinde sürekli olarak bir sıvı mevcuttur. Bu göz içi sıvı, aynı zamanda sürekli olarak bazı kanallarla göz dışına atılır. Glokom, göziçi sıvısını dışarı boşaltan bu kanallarda yapısal olarak tıkanıklık oluşması veya sonradan bazı hastalıklar nedeniyle ortaya çıkar. Göziçi sıvısının yeterli boşalamamasına bağlı olarak göz içinde basınç yükselir ve yükselen göziçi basıncı da görmeyi sağlayan göz siniri hücrelerinin beslenmesini engeller. Göz siniri hücreleri yükselen göziçi basıncı nedeniyle hasar görerek yavaş yavaş öldükçe çevreden merkeze doğru görme kaybı ortaya çıkar. Hücrelerin tümü öldüğü zaman kalıcı total görme kaybı oluşur.
+Kimler glokoma eğilimlidir?
+Glokom dünyada milyonlarca kişide görülen ve her insanda ortaya çıkabilecek bir hastalıktır.
+Bununla birlikte bazı faktörler hastalığın ortaya çıkma riskini arttırabilir. Toplumda 40 yaş
+üzerinde %2 ,60 yaş üzerinde %10 oranında görülür. Glokom herkeste ve her yaşta görülebilir. Ancak 40 yaşın üzerinde olanlar, ailesinde glokom bulunan kişiler, şeker hastalığı, hipertansiyonu, yüksek miyopisi ve damar hastalığı bulunanlar glokomun daha sık görüldüğü grupta yer alırlar. Özellikle glokom hastalığının ailesel geçişinin önemli olduğu ve ailesinde göz tansiyonu bulunan kişilerin bu hastalığın görülmesi açısından normale göre 8 kat daha fazla risk altında olduğu göz önünde tutulmalıdır. Ünlü piyanist Ray Charles ve ünlü Hollandalı futbolcu Edgar Davids de glokom hastasıdır. Edgar Davids maçlarda iyi görebilmek için her zaman özel gözlüğünü takmaktadır.
+Glokom riskini artıran faktörler.
+- İlerleyen yaş, ailede glokom öyküsü (genetik yatkınlık)
+- Sigara, şeker hastalığı,migren
+- Miyopi, yüksek düşük kan basıncı.
+- Uzun süreli kortizon tedavisi,göz yaralanmaları.
+Bu özelliklere sahip kişilerin glokom yönünden göz muayenelerini yaptırmaları uygun olur.
+Teşhis.
+Hastalık herhangi bir belirti vermediğinden ve oluşan görme kaybı geri döndürülemediğinden glokomda erken tanı çok önemlidir. Hastalık ne kadar erken tespit edilirse, görme kaybı da o derece az olacaktır. Glokom tanısında konunun uzmanı göz hekimi tarafından yapılan detaylı bir göz muayenesi çok önemlidir. Bu muayenede görme keskinliğinin belirlenmesinin ve rutin göz kontrollerinin yanı sıra göziçi basıncının yani göz tansiyonunun ölçümü, göziçi sıvısının dışa boşaldığı kanalların yeraldığı bölgenin kontrolü ve göz sinirinin durumunun değerlendirilmesi büyük önem taşır. Gerektiği takdirde bilgisayarlı görme alanı ve göz siniri analiz yöntemleri tanıda önemli rol oynar. Göz tansiyonu 21 mmhg'ya kadar normal kabul edilir ve bunun üzerindeki değerler yüksek göz tansiyonu olarak değerlendirilir. Buna karşın göz tansiyonu tek kriter değildir ve göz tansiyonu normal ölçülen ve göz siniri hassas olan kişilerde de glokom hastalığı görülebilir. Göz tansiyonunun normalden yüksek olduğu veya normal olduğu halde göz sinirinin hasar gördüğünden şüphelenilen olgularda bilgisayarlı görme alanı ve göz siniri analiz tetkikleri göz sinirinin hasarının varlığının ve derecesinin belirlenmesinde, zaman içindeki değişimin saptanmasında önemlidir.
+Tedavi.
+Glokom hastalığının tanısı konulduktan sonra bugün için tedavide amaç göz tansiyonunu düşürerek göz sinirinin hasarını durdurmak ve görme kaybının ilerlemesini engellemektir. Bu amaçla uygulanabilecek yöntemler ilaç tedavisi, laser tedavisi ve cerrahi tedavi olarak üçe ayrılabilir. Bugün için genelde tanı sonrası ilk seçilen yöntemin ilaç tedavisi olmasına, ilaç tedavisine yeterli derecede yanıt vermeyen hastalarda laser tedavisinin ya da cerrahi tedavi yöntemlerinin uygulanmasına karşın, özellikle geç dönemde tanı konulan ya da sürekli ilaç kullanımının uygun olmadığı olgularda doğrudan laser girişimleri ya da cerrahi yöntemler de kullanılabilir. Glokomda ilaç tedavisinde son yıllarda önemli gelişmeler sağlanmış, etkili yeni ilaçlar tedavinin başarısını büyük ölçüde artırmıştır. İlaç tedavisinde önemli olan hastanın ilaçları sürekli olarak düzenli kullanmasıdır. İlaç kullandırılmayan veya ilaç tedavisine yanıt vermeyen olgularda kullanılan cerrahi yöntemler de son yıllarda giderek artan oranda başarılı olmakta, sürekli ilaç kullanım zorunluluğunu da ortadan kaldırarak etkili tedavi sağlayabilmektedir.
+Glokom hastalığına karşı geliştirilen yeni bir ilacın “yan etki” olarak kirpikleri uzattığı saptandı. Miami Üniversitesi’nde yapılan bir deneyde de söz konusu ilaç bir jelle karıştırıldı. Araştırmaya katılanlardan bir gruba ilacın etken maddesinin bulunduğu jel verilirken, diğer gruba bu maddenin bulunmadığı bir jel verildi. Deneklerden jeli her iki göze de düzenli olarak uygulamaları istendi.
+İlacın bulunduğu jeli tatbik edenlerin kirpikleri 6 haftada 2 milimetre uzadı. Bu kişilerin kirpiklerinin, içinde ilacın bulunmadığı jel sürenlerinkinden iki kat hızlı uzadığı tespit edildi.Ancak ilacın kirpikleri nasıl uzattığı henüz bilinmiyor
+
+</TEXT>
+</DOC>
+

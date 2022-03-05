@@ -1,0 +1,322 @@
+Question: Sinir hücresinde bulunan, dendritlerden daha uzun olan uzantılara ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sinir dokusu</DOCTITLE>
+<TEXT>
+
+Sinir dokusu, sinir sisteminin ana bileşenidir - beyin, omurilik ve sinirler - vücut işlevlerinin ayarlar ve kontrol eder. Uyartıları (impuls) ileten sinir hücrelerinden (nöron) ve sinir uyartılarının yayılmasına yardımcı olan ve nöronlara besin taşıyan nöroglialardan oluşmuştur.
+Sinir dokusu, karakteristikleri aksonlar tarafından belirlenen çok çeşitli sinir hücrelerinden yapılmıştır.
+Sinir sisteminin işlevleri, duyu girişi sağlama, taşıma, kasların ve bezelerin kontrolü, homeostaz ve zihinsel etkinlikler.
+Tüm canlı hücreler uyarılara tepki verir. Sinir dokusu, uyarılarak tepki verdiği ve uyartıları vücuttaki çeşitli organlara ilettiği ölçüde özelleştirilir. Beyin ve omurilikteki sinir dokusu kemiksi yapıdadır. Düz ve çevresel sinirleri vücuda yayar. Sinir dokusu nöronlar olarak adlandırılan sinir hücresinden oluşur. Nöronlar kolayca uyarılır ve uyartıları çok hızlı iletir. Bir "sinir", bağ doku ile birbirine bağlanan birçok hücre lifinden oluşur. Bağ dokunun kılıfı "epinöryum" sinir ile çevrilmiştir. Bu kılıfın iç yüzeyi, sinir liflerinin etrafını çevreleyen "perinöryum" ile kaplıdır. Çeşitli büyüklükteki kan damarları, epinöryumda görülebilir. Endonöryum, bağ dokunun ince bir tabakasını oluşturur ve özel sinir lifleriyle çevrilmiştir.
+"Hücre gövdesi" bir hücre membranı ile kaplıdır ve merkezinde çekirdek bulunur. Nissl gövdesi, hücre gövdesindeki sitoplazmada bulunur. Hücre gövdesindeki nörofilametler dendritlerden aksonlara uzanır. Akson, miyelin kılıf ile çevrilmiştir. Miyelin kılıf dış yüzeyi, nörolemma veya Schwann hücre kılıfı olarak adlandırılan hücresel bir tabaka ile örtülüdür. Schwann hücreleri arasındaki boşluğa Ranvier boğumu denir.
+Nöronal bağlantı.
+Sinir hücrelerinin (nöron) birbirleriyle veya nöron olmayan hücrelerle yaptıkları bağlara sinaps denir. Sinapslar bir aksonun dallarının ucunda veya başka bir nöronun dendritlerinde bulunur ve birbileriyle yakındırlar, fakat doğrudan bağlı değillerdir. Boşluktan karşıya bilgi iletilmesini sağlayan kimyasallara nörotransmitterler denir.
+Nöronların sınıflandırılması.
+Nöronlar hem yapılarına (veya uzantılarına) hem de işlevlerine göre sınıflandırılırlar.
+Yapısal sınıflandırılan nöronlar, hücre gövdesindeki uzantılarının işlem sayısına uygun olarak gruplandırılırlar. Üç büyük nöron grupları şu şekilde sınıflandırılır: Multipolar, bipolar ve unipolar nöronlar.
+Kanser.
+Sinir dokusundaki tümörler şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akson</DOCTITLE>
+<TEXT>
+
+Akson (Yunanca, axis), bir sinir lifi olarak ta bilinir, bir sinir hücresinin (nöronun) ince, uzun bir çıkıntısıdır. Sinir hücresinin gövdesindeki elektriksel uyarıları uzağa iletir. Aksonun işlevi bilgiyi farklı sinir hücrelerine, kaslara, bezelere iletmektir. Dokunmak ve sıcaklık algılama işlemlerini gerçekleştiren Pseudounipolar nöronlar gibi bazı duyu nöronlarında, elektriksel uyarılar, aksonun çeperinden hücrenin gövdesine doğru, oradan da aynı aksonun başka dalları vasıtasıyla omuriliğe gönderilir. Akson uyumsuzluğu, kalıtsal ve edinsel nörolojik hastalıklara neden olabilir. Bu hastalıklar hem merkezi hem de çevresel sinir sistemlerindeki nöronları etkileyebilir.
+Akson, nöronun hücre gövdesinden çıkan iki protoplazma çıkıntısından uzun biridir ve diğerinden daha uzundur. Diğer çıkıntı dendrittir ve aksondan daha kısadır. Aksonlar, şekilleri (dendritler daha çok koniksel yapıya sahipken, aksonlar genellikle sabit bir yarıçapa sahiptir), uzunluk (dendritler hücre gövdesinin küçük bir bölümünde sıkışmışken, aksonlar daha uzun olabilir) ve işlev (dendritler genellikle sinyalleri alırken, aksonlar onları iletir) gibi bazı özelliğinden dolayı dendritlerden daha seçkindirler. Tüm bu özellikleren bazı istisnaları da vardır.
+Bazı tür nöronlarda akson yoktur ve dendritlerindeki sinyalleri kendileri iletir. Bir aksondan daha fazla nöron olmazsa bile, böcekler gibi bazı omurgasızlarda akson bazen birbirlerinden bağımsız işleyen birkaç bölgeden oluşur. Çoğu aksonlar dallanır, bazı durumlarda da aşırı dallanır.
+Aksonlar, (çoğunlukla diğer nöronlar, bazen de kas ve bezeler gibi) diğer hücrelerle bağlantı sağlar. Bu bağlantı noktalarına sinaps denir. Bir sinapsta akson zarı, hedef hücre zarını ile yan yanadır. Özel moleküler yapıları elektriksel ve elektrokimyasal sinyalleri boşluğun karşısına iletmeyi sağlar. 
+Anatomi.
+Aksonlar sinir sisteminin birincil iletim hatlarıdır. Bazı aksonlar bir metreden daha uzun olabilirken, bazıları bir milimetreden daha kısadır. İnsan vücudundaki en uzun aksonlar, omurilikten ayakların baş parmağına kadar uzanan siyatik sinirde bulunur. Aksonların çapı değişir. En özel aksonlar mikroskopik (yaklaşık 1 mikron) çapa sahiptirler. Memelilerdeki en büyük akson 20 mikrondan daha büyük çapa ulaşabilir. Sinyalleri çok hızlı iletmesi ile özelleşen Kalamar aksonu yaklaşık 1 milimetre çapındadır. Bu da küçük bir kalem ucu kadardır. Merkezi sinir sistemindeki aksonlar, birçok dala sahip karmaşık ağaçlar gibi görülür. Karşılaştırmada beyinciğin granül hücre aksonu basit bir T şekli ile özelleşmiştir.
+Merkezi ve çevresel sinir sistemlerindeki, sinir hücresinin aksonunu çevreleyen, tabaka biçimindeki yalıtkan malzemeye miyelin denir. Miyelin nöroglianın bir çıkıntısıdır. Schwann hücreleri, çevresel sinir sistemindeki nöronları oluşturur. Miyelinli sinir lifleri boyunca miyelin kılıftaki boşluklar (Ranvier boğumları) her bir boşluktan sonra ortaya çıkar. Miyelin kılıfın oluşmasına miyelinleşme veya miyelinizasyon denir. Miyelinleşme, elektriksel tepkinin daha hızlı yayılmasını sağlar. Miyelin tabakanın ortadan kalkması (demiyelinizasyon) Multipl skleroz hastalığına neden olur.
+bir omurgalıdaki beyin eğer açılır ve ince kesitlere dilimlenirse, her bir kesitteki bazı parçalar koyu olurken, diğer parçalar daha açık renkli olur. Koyu parçalar gri madde olarak ve açık renkli parçalar da beyaz madde olarak bilinir. Beyaz madde rengini aksonların oradan yoğun olarak geçmesinden dolayı alır. Serebral korteks, yüzeyinde gri madde bulunan bir mürekkep tabakaya sahiptir. Bu tabakanın altında da çok miktarda beyaz madde vardır. Bunun anlamı, yüzeydeki tabakanın büyük bir kısmı, nöron hücre gövdeleri ile doldurulurken, alt tabakanın büyük bir kısmı da miyelinli aksonlarla doldurulur.
+Başlangıç segmenti.
+Akson başlangıç segmenti — aksonun doğrudan hücre gövdesine bağlanan segmentidir — özelleşmiş karmaşık proteinlerden oluşur.. Miyelinlidir ve yaklaşık 25 µm uzunluğuna sahiptir ve aksiyon potansiyel başlatma işlevlerini gerçekleştirir. Kalınlık bir tarafa bırakılırsa, hücre gövdesine (soma) bağlanan aksonun miyelinli parçasındaki başlangıç segmentinde çok miktarda sodyum ve potasyum kanalları vardır. Aksonun başlangıç segmentindeki sodyum kanallarının anma gerilim yoğunluğu, akson tepeciği hariç, geri kalan aksonlarınkinden veya bitişik hücre gövdesindekinden daha fazladır. 
+Hasar.
+Önem derecesine göre bir sinirdeki hasar nöropraksi, aksonotmezis veya nörotemezis ile açıklanır.
+Sınıflandırma.
+İnsan çevresel sinir sistemindeki sinirleri oluşturan aksonlar, fiziksel ve sinyal iletim özelliklerine göre sınıflandırılabilirler.
+Motor.
+Alt motor nöronlarda iki tür lif vardır:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Böcek</DOCTITLE>
+<TEXT>
+
+Böcekler, eklem bacaklılar (Arthropoda) şubesinin sınıfı ve tür ve takson bakımından en kalabalık hayvan grubudur. 1 milyondan fazla olan tür sayılarıyla dünyadaki en fazla türe sahip canlılardır. Dünyanın hemen hemen her yerinde bulunurlar ve bazen çok yoğun popülasyonlarda görülebilirler.. Her yıl birkaç bin tür buna eklenmektedir. Toplam tür sayısının 2.000.000 olduğu kabul edilmektedir. Tür, cins, familya gibi taksonomik kategoriler bakımından 6-10 milyon sayıya ulaşırlar ve Dünyadaki hayvanların %90 kadarını oluştururlar.
+Türce en zengin böcek familyası cepkenli böcekgiller (Staphylinidae) familyasıdır. 2010 verilerine göre 56.768 türle canlılar ("bitki ve hayvanlar") arasında en çok tür barındıran familyadır. İkinci en büyük böcek grubu hortumlu böcekgiller (Curculionidae) familyasıdır.
+İnsanlar tarafından evcilleştirilen bal arısı ve ipek böceği gibi türleri bulunduğu gibi, bazı türleri de dünyanın çeşitli yerlerinde özellikle de Meksika'da doğrudan besin olarak da kullanılırlar.
+Adlandırma.
+Böcek adının Türkçede Insecta üyeleri için yoğun olarak kullanılması türlerinin çokluğu yüzündendir. Türkçenin tarihi gelişimi içinde böcek adı, Insecta dışındaki eklem bacaklıları da kapsayacak kadar geniştir. Bu kullanımı halk dilinde hâlâ görmemiz mümkündür. Insecta dışındaki eklem bacaklıları hatta diğer omurgasızları terim dışı olarak "böcek" adıyla anmak o kadar da yanlış sayılmamalı. Bu, adlandırmalarda kendini belli eder: kabuklulardan tespih böceği, örümceğimsilerden uyuz böceği, karından bacaklılardan sümüklü böcek gibi.
+Takımın Latince bilim adı Insecta kelimesi Yunanca ἔντομον ["éntomon"] «parçalar halinde doğramak» kelimesinin 1600'lü yıllarda Latinceye "insectum" biçimindeki çevrilmesinden gelir. Yunanca kelime bugün böcek bilimi ya da böcekbilim de denilen entomoloji adında kalmıştır.
+Genel tanımlama.
+Kural olarak karasal hayvanlar olmakla beraber, derin denizlerin dibi dışında tüm biyotoplara uyum yapmış birçok türe sahiptir. Kutuplardan okyanuslara kadar hemen her ekosistemde ayakta kalmayı başarabilmiş canlılardır. Canlılar aleminin belki de en kalabalık sınıfıdır. Bu sınıfta 32 takım yer almaktadır. 
+Dış iskelet bulunur. Büyüme esnasında dış iskeletin neden olduğu kısıtlama, deri değişimi ile telafi edilir. Vücutlarında sadece çizgili kas bulunur,bu yüzden çok hızlı hareket ederler. Solunum trake sistemiyledir. Açık dolaşım sistemi görülür. Vücutta dolaşan solunum sıvısı "hemolenf" adını alır ve çoğunlukla renksiz, bazen de soluk yeşil-sarı renktedir. Vücutları bez bakımından zengindir. Çekici veya itici koku, mum, zehir, ipek, yağ, tükürük, antikoagülan madde gibi birçok maddeyi salgılamak üzere özelleşmiş çok sayıda bez taşırlar. Duyu organları ve sinir sistemleri iyi gelişmiştir. Birçok grupta, özel görevleri olan duyu organlarına rastlanır (yeri geldikçe açıklanacaktır). Avlanmak veya avcılarından korunmak için son derece başarılı uyumlar kazanmışlardır. Renklenmeleri büyük çeşitlilik gösterir. Bazılarında ışık çıkarma özelliği görülür. 
+Kural olarak yumurta ile çoğalırlar ve gelişmelerinde çoğunlukla bir metamorfoz görülür. 
+Bazı gruplarda koloni hâlinde sosyal yaşam örnekleri görülür. Yaşam ve beslenme şekillerine göre, ağız parçaları, anten ve bacak yapıları farklılık gösterir.
+Morfoloji ve Fizyoloji.
+[[Dosya:Insect anatomy diagram.svg|thumb|300px|Böcek anatomisi ♀ 
+A – Baş ("Caput")
+B – Göğüs ("Thorax")
+C – Karın ("Abdomen")
+Vücut örtüsü.
+Vücut örtüsü ("integument"): Embriyonik olarak iki tabakaya ayrılır. Üstte ektoderm kökenli epidermis ve "kaide zarı"; altta peritondan meydana gelmiş, hücreli ince bağdoku yapısında ve kasların üzerine yığılmış olarak duran "kutis" bulıunur. Vücut örtüsü dıştan içe doğru şu katmanlara ayrılır:
+Baş bölgesi.
+Baş ("caput"): Embriyonik olarak kaç segmentten yapıldığı tartışmalıdır. Başta bulunan segmentlerin her biri ayrı bir üye taşımadığından, ayrıca segmental gangliyonlardan bazıları da birbiriyle kaynaştığından dolayı, köken olarak segment sayısı kesin olarak söylenemiyor. 5 (en fazla 6) segmentten oluştuğu varsayılmaktadır: 
+1. "preantennar" : Embriyonik evrede görülür.
+2. "antennar" : Duyargalar bu segmentteki gangliyona bağlıdır.
+3. "intercalar" ; 4. "mandibular" ; 5. "maksillar" : Baştaki iç organları içine alan sert bir kapsül şeklinde birbiriyle kaynaşmıştır. Bağlantı yerlerine stur denir. Sturlar arasındaki alanlar alın ("frons"), tepe ("vertex") ve yanaktır ("genae"). 
+6. "labial" 
+Duyargalar ("antennae") : Kamçı şeklinde bulunan duyargalar içtençenelilerdeki gibi gerçek segmentli değildir. 3 bölümden oluşur. Kaide ("scapus"), ara bileziği ("pedicellus") ve kamçı ("flagellum"). Böceklere özgü duyu organı olan Johnston organı, "pedicellus" bölümünde bulunur.
+Gözler: Optik sistemlerine göre 2 çeşit göz tanımlanır:
+renk görme: Böcekler 300-650 nm lik dalga boylarındaki ışınları algılarlar. Örnek olarak, Bal arısı ("Apis mellifera") bu bant aralığında sarı, mavi-yeşil, mavi ve morötesi ışınları algılamalarına karşın, kelebeklerin aksine, kırmızıyı algılayamazlar. Ancak kırmızı çiçeklere, bu çiçekler mor ışınları yansıttığı zaman giderler. Güneş ışınlarındaki morötesi ışınları absorbe eden beyaz çiçekleri, morötesi ışının komplementeri olan mavimsi-yeşil; vişneçürüğü çiçekleri ise mavi olarak görürler. Bazı böceklerin (örn. "Carausius morosus" ve bazı kın kantlılar) renk görme yeteneği yoktur.
+Ağız parçaları : Gerçek ağız üyeleri üst dudak ("labrum"), üst çene ("mandibul"), alt çene ("maxilla") ve alt dudak ("labium")tan oluşur. 
+Konumuna göre: 
+İşlev bakımından: 
+Boyun ("cervix"): Başa derimsi bir zarla yapışmıştır. Başla göğüs arasında sınırları belirsiz zarımsı bölgedir. Boynun ön kısmı başın son segmentine, arka kısmı ise göğsün ilk segmentine aittir.
+Göğüs bölgesi.
+Göğüs ("thorax"): Baş ile karın arasında bulunur. Yapıları birbirinden farklı olan üç segmentten oluşur: 1. " prothorax"; 2. "mesothorax"; 3. "metathorax". Son iki segmente birlikte "pterothorax" denir ve kanatlar buraya bağlanır. Yönlerine göre 1. "sternum" (göğsün karın tarafı); 2. "pleurum/pleura" (göğsün yan tarafları); 3. "tergum/tergi" (göğsün sırt kısmı) adlarını alır.
+Bacaklar ("arthropodium"): Her göğüs segmentinde bir çift olmak üzere toplam 3 çift bacak bulunur. Köken olarak, vücut yan duvarlarının segmentsiz uzantılarından meydana gelmiştir. Daha doğrusu halkalı solucanların (Annelida) parapodiumlarından türemiş, yere daha iyi dayanabilmek için zamanla karın tarafına doğru kaymışlardır ( 
+Resim:Acridae hind leg.jpg| sıçrayıcı bacak ("çekirge")
+Resim:Plumpollen0060.jpg| toplayıcı bacak ("işçi arı")
+Resim:Praying mantis india.jpg| yakalayıcı bacak ("peygamberdevesi")
+Resim:Leg of Gryllotalpa.jpg|kazıcı bacak ("danaburnu")
+</gallery>
+Kanatlar: Hayvanlar âleminde kanatlar ilk önce böceklerde çıkmıştır ve bunlar uçabilen tek omurgasız grubudur. Kuşlar ve yarasalardaki gibi ön üyelerin değişmesiyle oluşmamıştır. Pterothorax'ta bulunurlar. Kas ve segment taşımadıklarından üye olarak kabul edilmezler. 
+Boyuna (kaideden uca uzanan) damarların hepsi trake taşır. Bu trakeler bacaklara giden trakelerden türemiştir. Enine damarlar kanadın sağlamlaşması için oluşmuştur ve hiçbir zaman trake taşımazlar. 
+Kelebeklerde kanatlar pullarla kaplanırken, hamam böcekleri ve çekirgelerde ön kanatlar ("tegmina") derimsi olarak kitinleşmiştir. Kın kanatlılarda ön (üst) kanatlar ("elitra") kuvvetlice kitinleşip koruma görevi üstlenmişlerdir. Sineklerde arka kanatlar, Stepsiptera'da ise ön kanatlar denge organına (halter) dönüşerek uçma işlevini yitirmiştir. 
+İkincil olarak sonradan kanat yitimi, özellikle mağara böceklerinde ve bit gibi parazitlerde (kullanma gereği duymadıkları için), yüksek dağlarda yaşayanlarda (rüzgâra kapılıp sürüklenmemek için) ve saklanarak yaşayanlarda (engellere takılıp yırtılmaması için) görülür. 
+Uçulmadığı zamanlarda kanatlar kulağakaçan, çekirge, hamam böceği, peygamberdevesi, kın kanatlılar gibi gruplarda katlanmış olarak dururken, pul kanatlılar, kız böcekleri, zar kanatlılar ve çift kanatlılar gibi gruplarda katlanmayıp açıkta dururlar.
+Karın bölgesi.
+Karın ("abdomen"): Sindirim borusunun büyük bir kısmını, kalbi ve eşey bezlerini içine alır. Ön kısmıyla göğüse bağlanır ve arkaya doğru genellikle gittikçe azalır. 11 segment ve sölom kesesi ve gangliyonu olmadığı için segment olarak kabul edilmeyen bir telsondan oluşmuştur. Karın segmentlerinde göğüste görülen gerçek üyeler ve kanatlar yoktur. Segmentleri üç ana grupta değerlendirilir:
+Solunum sistemi.
+Böceklerde temel solunum biçimi trake sistemidir. Altı bacaklılar (Hexapoda) ile çok bacaklılar (Myriapoda) alt şubeleri trakeliler (Tracheata) adı altında bir üst grupta toplanırlar. Çünkü her iki grupta da integümentin içeriye çökmesiyle trake sistemi oluşmuştur. Böceklerde trake sistemi her organa ulaşacak şekilde dallara ayrılmıştır. Dolaşım sisteminin solunuma katkısı pek azdır.
+Özellikle iyi uçan böceklerin trake sisteminde ilave gelişmeler (trake kollarında çoğalma ve dallanma) görülür. En çok görülen şekli ana trake kollarının genişlemesiyle meydana gelen "trake keseleri" ya da "hava keseleri" denen oluşumdur. bu kesecikler, mayıs böceğinde ("Melolontha") olduğu gibi, fazla sayıda fakat küçük olabilir. Diğer taraftan bal arısında ("Apis mellifera") olduğu gibi birçok küçük hava kesesinin kaynaşmasıyla az sayıda fakat büyük yapıda hava keseleri ortaya çıkar. Hava keselerinin hepsi havanın depo edilmesi için kullanılır. Keselerden çıkan ince dallar ve borular dokulara kadar uzanır. Ayrıca bu keseler miksosölü sıkıştırmak suretiyle dolaşımı hızlandırır ve dokulara besin ulaşımının daha etkin olmasını sağlar. Trake duvarlarından kan sıvısına sızan oksijen kısmen erimiş durumda bu sıvıda taşınabilir.
+Sindirim sistemi.
+Sindirim organları.
+[[Dosya:Malpighian_tube.svg|thumb|250px|right|Stilize edilmiş Malpighi tüpü (çekirge tipi)
+orta bağırsak ("Midgut")
+son bağırsak ("Hindgut")
+göden ("Rectum")
+sağ Malpighi tüpü ("Malpighian tubule")]]
+Ön bağırsak: Başta bulunan ağız açıklığı ile başlar. Ektodermal stomodeumdan meydana gelmiştir. Epiteli ektoderm epiteli gibi kutikula ("intima") içerir.
+Orta bağırsak ("mesenteron"): Endodermden meydana geldiği için ön bağırsakta olduğu gibi kitinle astarlanmamıştır. Genellikle önde göğüs içine kadar uzanmaz. 
+Son bağırsak: Ön bağırsak gibi ektodermal kökenli olduğundan kitinle astarlanmıştır. Kuvvetli yapıda iç tarafta boyuna kaslar, dış tarafta da halka kaslar bulunur.
+Sindirim ve Beslenme.
+Böcekler öncelikli olarak bitki yiyicisidirler. Bununla birlikte canlı hayvanlarla beslenenlerden tek tür besine özelleşmiş (örn. balmumu güvesi) beslenenlere kadar her çeşit beslenme tarzına rastlanır. Kural olarak etle beslenenlerde bağırsak en kısa, bitkiyle beslenenlerde uzun ve dışkı yiyicilerde ise en uzundur.
+Besinleri genel olarak üç ana grupta toplanır: Protein, karbonhidrat ve yağ. Bu besinleri parçalamak için enzimler (amilaz, maltaz, invertaz, laktaz, proteaz, karbohidraz, peptidaz, lipaz, selülaz) salgılanır. Bazı yırtıcı (Adephaga, Planipennia) ve leşçil ("Panorpa") böceklerde dış sindirim görülür. Sindirim, çoğunlukla orta bağırsakta olur, fakat termitlerde arka bağırsaktadır. Ön bağırsakta emilme (daha çok hamam böceklerinde yağ emilir) pek azdır. Orta bağırsak emilmenin esas merkezidir.
+Boşaltım sistemi.
+Böceklerde boşaltım sistemi Malpighi tüpleri denen özel yapılardan oluşur. Dışkının şekli bazı türlerde (odun güvelerinde ve odun yiyen diğer bazı böceklerde) karakteristik olup tanıma anahtarlarında kullanılırlar.
+Sinir ve Endokrin sistemleri.
+Sinir sistemi.
+Böceklerin sinir sistemi, boyuna ve enine bağlantılarla birbiriyle ilişkide olan, çok defa çift gangliyonlardan oluşmuş bir "merkezi sinir sitemi" ile, bu merkezlerden çıkarak tepkime organlarına uzanan "periferik sinirler"den ve çeşitli şekillerdeki "duyu organları"ndan meydana gelmiştir.
+Sinir sisteminin yapı taşları olan sinir hücresi ("nöron") farklı bölümlerden oluşur. Hücre gövdesi ("perikaryon"), omurgalı hayvanların nöronlarından farklı olarak, birçok "glia" hücresinden meydana gelmiş birkaç tabakalı bir kılıfla örtülmüştür. Omurgalı hayvanlar için çok karakteristik olan Nissl tanecikleri (İng. "Nissl body") böceklerde pek az ya da tipik olmayan durumlarda belirgindir ve bunların perikaryon içerisindeki dağılımı da aşağı yukarı tekdüzedir. Endoplazmik retikulum, Golgi aygıtı, yaşlılık pigmentleri ve serbest ribozomlar, yalnız perikaryonda bulunmasına karşın, granüller ve mitokondriler düzenli olarak hücre uzantılarının içerisine de göç ederler. Sinir uzantıları, akson ve dendritlerden oluşur. Akson ve dendritler her iki yönde de iletim yeteneğine sahiptir. Bu iki yönlü iletimi engeleyip tek yönlü iletilmesini sağlayan yapıya sinaps denir. Merkezi sinir sisteminin sinir düğümleri gangliyonlardır. Sinir sisteminin dağılımı ("tipografisi") gangliyonlar tarafından olur. Gangliyonlar üç ana gruba ayrılır: 1. Yutak (ya da özofagus) üstü gangliyon ("cerebral ganglion"), üç bölümden oluşur: "protocerebrum, deutocerebrum, tritocerebrum". 2. Yutak (ya da özofagus) üstü gangliyon, mandibular, maksillar ve labiyal gangliyon biçiminde üçe ayrılır. 3. Vücut gangliyon zinciri, göğüs gangliyonları ve abdominal gangliyonlar diye ikiye ayrılır. 
+Sinir sistemi çoğu kez endokrin sistemiyle birlik oluşturur
+Endokrin sistemi.
+Çok hücrelilerin hepsinde hormon sistemi filogenetik olarak sinir sisteminden gelişmiştir. Bu yüzden bütün hormonal olayların denetim mekanizması yüksek organizasyonlu hayvanlarda sinir merkezlerindedir. Böceklerde bu denetim mekanizması nörosekretorik hücrelerdir.
+Nörosekretorik hücreler: Böceklerde hormon sisteminin en üst düzenleyici merkezidirler. Ektoderm hücrelerinin yeteneğini saklayan nöronlar salgı meydana getirirler. Salgı, granüller ya da sıvı halinde oluşur, hücre gövdesinde ve aksonlarda biriktirilir ve sinir uyarımıyla en azında aksonlar aracılığıya iletilir ve salgılanır. Daha sonra tekrar meydana getirilir. Bu böyle döngü olarak devam eder. Sinir salgıları her zaman hemolenfe verildiği için hormon olarak kabul edilir ve nörohormon adını alırlar. Hormon ya da salgı, hücre gövdesinden, tepki yapacağı organa, bir aksonla gönderilir ve orada hemolenfe verilir.
+Nörohemal organlar: Uzun zamandan beri "corpora cardiaca" 'nın böceklerin tek nörohemal organı olduğu kabul ediliyordu. Bu organ, birçok böcekte aortun açık ön kısmında bulunur; ya birbirinden ayrı çift hâlindedir ya mediyan kısımda kaynaşarak tek bir vücut olmuştur ya da hiposerebral gangliyon ile kaynaşmıştır. Diğer bir nörohemal organ Rhodnius prolixus adlı böceğin abdomen sinirinde tespit edilmiştir. Son zamanlarda yapılan birçok araştırmada yeni nörohemal organlar bulunmuştur.
+Böceklerde nörohormonlarla işlevleri düzenlenmeyen birçok hormon bezi (endokrin bezi) bulunur: protoraks bezleri, ventral ( ya da sevikal) bezler, perikardiyal bez.
+Böcek hormonları içinde en dikkate değer olarak, larva evresini geçirmesinde etkili olan gençlik hormonu ("juvenil hormon") ile deri değiştirmesini sağlayan deri değiştirme hormonu ("metamorfoz hormonu, ekdizon hormonu") sayılabilir.
+Yaşam döngüsü.
+Üreme.
+Eş bulma ve kur: Dişi, erkek tarafından aktif olarak aranır. Bu aramada en etkin faktör feromonlardır. Sesle bulma, çekirge ve ağustos böceklerinde yaygındır. Kur, birçok böcekte duyargalarla dokunmayla yapılır. Pul kanatlılarda ve günlük sineklerde özel kur dansı vardır.
+Çiftleşme: Kural olarak, penisin dişi organına sokulmasıyla meydana gelir. Hemiptera'da olduğu gibi sperma ya doğrudan doğruya reseptakuluım içerisine boşaltılır ya da birçoğunda olduğu gibi vajina veya "bursa kopulatriks" içerisine boşaltılır ve spermalar daha sonra kendileri reseptakulum içerisine girerler. Birçoğunda spermalar spermatofor içerisinde iletilir. Spermatofor, erkeğin yardımcı bezleri tarafından salgılanan sert bir kabukla örtülü, içerisinde spermaların bulunduğu bir kese ya da pakettir. Bu paket ya penis tarafından "bursa kopulatriks" içerisine itilir (kelebeklerde ve bazı kın kanatlılarda) ya da dişinin eşey açıklığına yapıştırılır (çekirgelerin birçoğunda). Kız böceklerinde erkeklerin ikinci abdomen segmentinde yardımcı kavuşma organları oluşmuştur. Çiftleşmede her iki eşeyde de görülen yardımcı çiftleşme organları birbirine sıkıca uyacak şekildedir. Bu organlarda meydana gelecek bir değişiklik, çiftleşmeyi başarısız kılar. Bu sebeple böceklerde tür tanımlanmasında en çok bakılan ve taksonomik özellik açısından en çok güvenilen organlar bu yardımcı çiftleşme organlarıdır. Çiftleşmenin yeri, zamanı ve süresi değişkenlik gösterir.
+Yumurtlama: Böceklerin bir kısmının yavrularını canlı olarak doğurdukları ("vivipar"), bir kısmının larva ("larvipar") ya da pup ("pupipar") halinde çıkardıkları bir yana bırakılırsa, çoğu tek tek ya da paket halinde ("kokon") yumurta döker.
+Gelişim.
+Yumurtadan çıkış: Koryonun parçalanmasında en sık görüleni yarılma çizgisi boyunca kabuktaki incelmedir. Patlama çizgisinin oluşmadığı durumlarda larva, yumurta dişi ("oviruptor") denen kuvvetlice sklerotize olmuş çıkıntılar yardımıyla dışarı çıkar.
+Yumurtadan ya ergine benzeyen (hemimetabol) nimf ya da hiç benzemeyen (holometabol) larva bir yavru çıkar. Çoğunlukla her ikisine de yani nimf'e de larva denir. Yumurtadan çıkan larva postembriyonik olarak gelişmeye devam eder. Büyüme, deri değiştirme ile olur. Son deri değiştirildikten sonra tamamen gelişmiş ergin (imago) meydana gelir. Gelişme evrelerine göre "larva, pronimf, nimf, prepup, pup" diye çeşitlere ayrılırlar. Deri değiştirme erginlikte de sürebilir (Apterygota ve Ephemeroptera).
+Yarı başkalaşım ("hemimetabol başkalaşım"): Larva evresi ergine benzer. Gerçek pup evresi yoktur.
+Tam başkalaşım ("holometabol başkalaşım"): Larva evresi ergine hiç benzemez. Gerçek pup evresi vardır.
+Larva tipleri:
+"Pup (krizalit, koza):" Larva evresi ile ergin evre arasında hareketsiz ve besin alınmayan evredir.
+Başkalaşım sonrası gelişme:
+Olgunlaşma:
+Ergin evresi kısa olan ve bu evrede çoğunlukla beslenmeyen Ephemeroptera, Plecoptera, bazı Homoptera ile Lepidoptera türlerinde eşey bezleri, puptayken işleve hazır hâle gelmektedir ve kısa olan ömürlerini cinsel olgunlukla geçirmezler. Bir başka deyişle erginliğe ilk adımlarını attıklarında, cinsel açından olgunlaşmışlardır. Diğer böceklerde ise erginlik sonrası eşey bezlerinin bir olgunluk süreci vardır.
+Yaşlılık devresi:
+Erginlerde yaşam süresince sadece dış organlar (pul, kıl vs.) değil, aynı zamanda iç organlar da aşınır. Metabolizmanın etkinliğini kaybetmesinden dolayı atık maddelerin son türevlerinden olan pigmentlerin gittikçe çoğaldığı görülür. Birçok organ buna bağlı olarak işlevlerini büyük ölçüde yitirir. Yaşlanan böceklerde uçuş isteği azalır ve uyarılabilme yeteneği büyük ölçüde düşer. Gangliyon hücrelerinde, sitoplazma dejenerasyonu, kromatin yığılmaları ve hücre bağlantılarında gevşemeler olur. Atık maddeler atılmayıp vücutta birikir. Ölüm, beynin ölmesiyle değil, hücre metabolizmasının durmasıyla ortaya çıkar.
+Renklenme.
+Böceklere esas rengi veren deridir. Oluşumuna göre 2 gruba ayrılır:
+Renklenme ve desen oluşumu: Vücut üzerinde, çoğunluk türlere özgü, çeşitli desenler bulunur. bunların şekli genellikle kalıtsal olmasına karşın, büyüklükleri ve koyulukları, çevre koşulları ve iç koşullarla denetlenebilir. kalıtsal renkler hemen her zaman simetrik olarak ortaya çıkar. Modifikasyon renklerde bu simetri bazen görülmeyebilir. Beslenmenin, sıcaklığın, eşey hormonlarının, parazitlerin renk oluşumu üzerindeki etkisi çok fazladır.
+Uçma.
+Uçabilen tek omurgasız hayvan grubu böceklerdir. Göğsün ("thorax") ikinci ("mesothorax") ve üçüncü ("metathorax") segmentlerinde yer alan "pterothorax" kaslarının büyük bir kısmı uçma işlevini yüklenmiştir. Epipleural kasın antigonistik etkisiyle keza subalar kasın katkısıyla büyük kanatlar katlanma yerlerinden açılarak uçmaya hazırlık yapılır. Uçma, göğüs kaslarının doğrudan doğruya ya da dolaylı etkisiyle gerçekleştirilir. 
+Kız böceklerinde (Odonata) iki tip kasın birleşik hareketini görmek olasıdır. Kural olarak ilkel böceklerde ya yatay (Odonata) ya da temel olarak dikey (Ephemeroptera) uçuş sözkonusudur. Kanatlar kural olarak yukarıdan aşağıya doğru çırpılır. Kanatların aşağıya doğru çırpılmasında arka kanadın arka kenarı zayıf damarlı olduğu için yukarıya doğru, yukarıya doğru çırpıldığında ise aşağı doğru bükülür.Birinci durumda havaya dayanma yüzeyi büyürken, ikinci durumda dayanma yüzeyi küçülür ve dolayısıyla hayvan, toplam değer bakımından yukarıya doğru iten bir güç kazanır. Böceklerin birçoğunda yatay ve dikey uçma yetenekleri birleştirilerek her yöne uçma niteliği kazanılmıştır. Bu yetenek, kanatları kulaç atar gibi döndürmek için gelişen kaslar aracılığıyla olur. Ayrıca manevra yeteneğini artırmak ve uçuş etkinliğini yükseltmek için kanadın kaidesine yakın anal sahada ve jugumda (bazen vannusda) büyük ölçüde küçülmeler görülür.
+İlkel kanatlı böceklerde her kanat çifti kendi başına bağımsız olarak çırpılır; fakat senkronize edilir ("yani her iki kanat çifti de aynı zamanda çırpılır"). Yalnız kız böceklerinde kanat çiftlerinin çırpılması alternatiftir ("yani biri diğerinden sonra çırpılır"). Bu şekilde kanat çırpan kız böceklerinin uçuş hızı çok yüksektir. Bir ön kanadını bir arka kanadını çırpan kız böceklerinde vücudun takla atmasını önleyebilmek için özellikle karında uzama görülür.
+Diptera (sinekler) takımı, böcekler içinde en iyi ve en hızlı uçan böceklerdir.
+İnsan besini olarak tüketimi.
+Böcekler büyük bir protein kaynağı olup yağ ve diğer besin öğelerince zengindir. İnsan gıdası olarak 500 kadar böcek türünün yenildiği bilinmektedir. Bunların %40'ı Meksikalılar tarafından tüketilmektedir. Henüz dünyada yaygınlaşmayıp ulusal mutfak tadları olarak kalan, böcek yeme alışkanlığı görülebilen yerlerden bazıları:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miyelin</DOCTITLE>
+<TEXT>
+
+Miyelin, tabaka biçiminde yalıtkan bir malzemedir. Miyelinli, etrafı Schwann hücreleri tarafından sarılmış olan aksonları tanımlamak için kullanılan bir terimdir. Miyelin kılıf genellikle bir sinir hücresinin (nöronun) aksonunu çevreler. Sinir sisteminin düzgün çalışması için olmazsa olmazlardandır. Nöroglianın bir çıkıntısıdır. Miyelin kılıfın oluşması miyelinizasyon veya miyelinleşme olarak adlandırılır. İnsanda miyelinin oluşması her ne kadar fetus (cenin] gelişiminin 14. haftasında başlasa bile, doğum esnasında beyinde küçük miyelinler vardır. Bebeklik döneminde, miyelinleşme hızlı olur ve ergenlik dönemine kadar devam eder.
+Schwann hücreleri, çevresel sinir hücreleri için miyelin sağlar. Miyelin, çevresel sinir sisteminde Schwann hücreleri tarafından oluşturulurken, merkezi sinir sisteminde oligodentroglialar (veya oligodentrositler) tarafından oluşturulur.
+Miyelin kılıf.
+Miyelin kılıf, sinir hücresinde (nöronda) bulunur. Nöronun çevresini bir yağ tabakası şeklinde sarar.
+Beyaz renktedir. İmpulsların (uyarıların) daha hızlı bir şekilde iletilmesini sağlar. Duyu sinirleri miyelin kılıf bulundururlar. Aksonun üzerinde yalıtkan bir madde olarak bulunurlar.
+Miyelin kılıf, merkezi ve çevresel sinir sistemlerindeki sinir hücrelerinde uyartıların hızını artıran, uyartı eşiğini düşüren, bunları sinir hücresinin çapıyla doğru orantıyla yapan, lipit ve proteinden oluşan bir dokudur.
+Miyelinin bileşikleri.
+Miyelin, farklı hücre türleri ve çeşitli kimyasal bileşikler ve yapılan tarafından oluşturulur. Fakat aynı yalıtkanlık işlevini gerçekleştirir. Miyelinli aksonlar beyaz görülür. Bu yüzden beynin "beyaz madde"sidir. Yağ, aksonların elektrik yüklü atom ve moleküllerinin yalıtılmasına yardım eder. Bu yük iyonları, tüm sinir sistemi etrafındaki sıvılarda bulunur. Bir mikroskop altında sosisler gibi görülür. Miyelin, bir çocuğun hızlı gelişiminin bir parçasıdır. Buna bebeğin birinci yıldaki emeklemesi ve yürümesi de dahildir. 
+Miyelinin yaklaşık %40'ı sudur. Kuru kütlesinin yaklaşık %70-85'i yağ, %15-30'u proteindir. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aksiyon potansiyel</DOCTITLE>
+<TEXT>
+
+Elektrofizyolojide, aksiyon potansiyel, bir hücrenin elektriksel zar potansiyelinin kısa bir süre içinde aniden yükselmesi ve azalmasıdır. Aksiyon potansiyeli, zar potansiyeli olarak adlandırılan hayvan hücrelerinde birkaç türde meydana gelir. Bunlar, sinir hücreleri (nöron), kas hücreleri (veya kas lifleri) ve endokrin hücreler ve bazı bitki hücreleridir. Sinir hücrelerinde, hücreler arasındaki iletişimde başrol oynar. Diğer tür hücrelerde ana işlevi hücreler arası süreçleri etkinleştirmektir. Örneğin kas hücrelerinde bir aksiyon potansiyel, kasılmaya yol açan olaylar zincirinin ilk halkasıdır. Pankreastaki beta hücrelerinde, insülinin salınmasını sağlar. Sinir hücrelerindeki aksiyon potansiyeli ("sinir uyartıları" olarak ta bilinir) ve aksiyon potansiyelinin geçici sıklığı "çivi treni" (İngilizce "spike train") olarak adlandırılan bir sinir hücresi tarafından oluşturulur . Aksiyon potansiyelini yayan sinir hücresine "ateş" (İngilizce "fire") denir.
+Hayvan hücrelerinde iki tür birincil aksiyon potansiyeli vardır. Bir tür gerilim kapılı sodyum kanallar tarafından, diğeri de gerilim kapılı kalsiyum kanalları tarafından açığa çıkartılır. Sodyum tabanlı aksiyon potansiyelleri genellikle bir milisaniyeden daha az sürerken, kalsiyum tabanlı aksiyon potansiyelleri 100 milisaniye veya daha uzun sürebilir. 
+Önsöz.
+İşlev.
+Hayvanlar, bitkiler ve mantarlardaki hemen hemen tüm hücreler, piller gibi işlev görür. Duyusal olarak, hücrenin içi ve dışı arasında bir gerilim farkı oluşturur. İç kısım pilin negatif kutbu olur. Bir hücredeki gerilim genellikle milivolt (mV) olarak ölçülür. Bir hayvan hücresinde normal gerilim 70 mV'tur. Çünkü hücreler çok küçüktür. Bu büyüklükteki gerilim, hücre zarı içinde çok güçlü elektrik kuvvet oluşturur.
+Büyük hücrelerde, potansiyel zamanla çok az değişir. Bazı tür hücreler elektriksel olarak etkindir ve gerilim dalgalanır. Bunların bazılarında gerilim ara sıra, çok hızlı yükselip alçalarak dalgalanır. Böylece tekbiçimli form oluşur. Bu yükselip alçalma çevrimleri aksiyon potansiyeli olarak bilinir. Aksiyon potansiyellerinin süreleri farklılık gösterir. Bu yüzden bunlar analog sinyaldir. Hayvanların beyin hücrelerinde tam yükselme ve alçalma çevrimi bir saniyenin binde birinden daha az bir zamanda olur. Diğer tür hücrelerde bu çevrim birkaç saniye olabilir. 
+Nörotransmisyon.
+Bir sinir hücresinin anatomisi.
+Bitki hücreleri, kas hücreleri, kalpteki özel hücreler gibi bazı hücre türlerinde aksiyon potansiyeli oluşur. Bununla birlikte ana tetikleyici hücre sinir hücresidir ve aksiyon potansiyeli için en basit mekanizmaya sahiptir.
+Sinir hücreleri elektriksel olarak ikazlanmaya müsait hücrelerdir. Genellikle bir veya daha çok dendrit, tek bir hücre gövdesi (soma), bir akson ve bir veya daha fazla akson ucu ikazlanabilir. İki tür kimyasal sinapstan biri dendrit, diğeri akson ucudur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitokondri</DOCTITLE>
+<TEXT>
+
+[[Dosya:biological cell.svg|thumb|350px|Tipik bir hayvan hücresinin yapı taşlarını (Organellerini) gösteren çizimi. : 
+(1) Çekirdekçik 
+(2) Çekirdek 
+(3) Ribozomlar (küçük noktalar) 
+(4) Vezikül 
+(5) Granüllü endoplazmik retikulum (ER) 
+(6) Golgi aygıtı 
+(7) Hücre iskeleti 
+(8) Granülsüz endoplazmik retikulum 
+(9) Mitokondriler 
+(10) Koful 
+(11) Sitoplazma 
+(12) Lizozom 
+(13) Sentrozom içindeki Sentriyoller]]
+Mitokondri, hücre organelerinden biridir. Yunanca "mitos" ("iplik") ve "khondrion" ("tane") sözcüklerinden türetilmiştir.Boyları 0,2-5 mikron arasında değişir. Şekilleri ise ovalden çubuğa kadar değişkenlik göstermektedir. Bazı hücreler tek bir büyük mitokondri içerebilse de çoğunlukla büyük sayılarda bulunurlar. Sayıları hücrenin enerji ihtiyacına göre değişir. Özellikle kas ve sinir hücreleri gibi enerji ihtiyacı fazla olan hücrelerde çok sayıda mitokondri bulunur.Bir karaciğer hücresinde sayıları 2500 civarına ulaşabilir. 
+Mitokondride 4 kısım vardır. Bunlar dış zar,iç zar,zarlararası (periferal) bölge ve matriks dir. Dış zar iç zara göre daha kalındır ve porin denilen taşıyıcı proteinler bulundururlar. Mitokondri içerisine girecek maddeler porinlerle alınırlar. İç zar dış zara göre daha seçici geçirgen yapıdadır. Dış ve iç zar arasındaki bölgeye periferal bölge adı verilir. İç zar mitokondri matriksine doğru girintiler yaparak krista denilen yapıları oluşturur. Kristalar kese,boru,tüpçük,zigzag gibi çeşitli şekillerde olabilirler.Kristaların mitokondri eksenine uzanma biçimleri genelde enine olmakla birlikte,boyuna ve çapraz olarak da olabilir. İç zar üzerinde solunumda görev alan ETS proteinleri bulunur. Bu sebeple enerji ihtiyacı fazla olan hücrelerin mitokondrilerindeki krista sayısı daha fazladır. İç zar üzerinde elementer partikül ( Racker partikülü) denilen yapılar vardır. Bu yapıların iç zarla bağlantılı olan bir sap bölgesi ve buna bağlı baş bölgesi vardır.Baş bölgesinde ATP sentezi gerçekleştiğinden bu bölgeye ATPozom ismi verilmektedir.
+Kemiozmotik Hipoteze göre mitokondriler, uzun zaman önce, büyük hücrelere geçebilen tek canlı organizmalardı. Fakat hücre içindekilere göre enerjiyi daha verimli ayrıştırabildiklerinden dolayı içine geçtikleri hücrelere çok fayda sağladılar ve zamanla hücrelerin kalıcı birer parçası haline dönüştüler. Buna rağmen, kendi genetik bilgilerini taşır ve içinde bulundukları hücrelerden bağımsız bir şekilde bölünürler. 
+Mitokondriler kalıtımsal olarak yavruya annesinden geçer, babadan gelen spermlerin bu konuda yavruya hiçbir katkısı yoktur. 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre bölünmesi</DOCTITLE>
+<TEXT>
+
+Hücre bölünmesi, tek hücreli canlıların çoğalması, çok hücreli canlıların büyümesi, erkek ve dişi eşey hücrelerinin meydana gelmesi için gerekli biyolojik olaydır. Bir hücrenin bölünebilmesi için belirli bir büyüklüğe ulaşması ve nükleik asitlere sahip olması gerekmektedir. Canlılar dünyasında,
+olmak üzere üç farklı tip bölünme vardır. Tek hücreli canlılarda bölünme genellikle amitoz, çok hücrelilerde ise mitoz ve mayoz ile görülür.
+Amitoz.
+Genellikle tek hücrelilerde görülen bu bölünmeyle o türe ait birey sayısı artar. Amitoz bölünme yapan hücrelerin önce çekirdeği uzar, çekirdeğin uzamasıyla çekirdekçik de uzayıp boğumlanarak ikiye ayrılır. Bunu sitoplazma bölünmesi takip ederek, bir hücreden iki yeni yavru oluşacak şekilde bölünme gerçekleşir. Amitozda çekirdek zarı kaybolmaz, kromozomlar belirmez, sentriyoller ve iğ iplikleri oluşmaz. 
+Tek hücreliler dışında bazı özel hallerde yüksek yapılı organizma hücrelerinde de amitoz görülebilir. Bu durumda çoğu kez hücreler ölüme mahkum olur, çünkü tekrar mitoz bölünme yapamazlar. Amitoz bölünme bu organizmalarda bazen açlık nedeniyle dejenere olan hücrelerde, bazı yaşlı kıkırdak hücrelerinde, ayrıca hızla çoğalan kuş embriyosunun blastoderm hücrelerinde görülebilir. Gametlerde genellikle amitoz bölünme görülmez.
+Mitoz.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar çoğu soma hücresinde (ör sinir hücrelerinde bölünme yoktur) ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir.Yavru hücrelerin 23 tanesi anneden 23 tanesi babadan gelir.Bu kromozomların 44 tanesi vücut özelliklerini diğer ikisi cinsiyeti gösterir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.Ökaryot bir hücrede çoğalma(üreme),mitoz hücre bölünmesi ile sağlanır
+Mayoz.
+Eşeyli olarak çoğalan canlılarda zigotu oluşturacak gamet hücrelerinin yapılması (gametogenez) mayoz ile gerçekleşir.Üreme ana hücrelerinde kromozom sayısının yarıya inmesi olayı "mayoz" ile gerçekleşir.Sonuçta oluşan hücrelere üreme hücresi (gamet) denir. Mayoz bölünme I. ve II. mayoz bölünme şeklinde olup, bunların her biri aslında birbirini izleyen iki bölünmeden ibarettir. I.mayoz bölünme diploid kromozomlu ana hücreden kromozom sayıları yarı yarıya, yani haploid duruma inmiş (redüksiyon) iki yavru hücre meydana gelir. Fakat I. mayoz sonunda henüz kromozomdaki kromatidler tam olarak ayrılmamıştır. II. mayozda kromozomlar tam olarak uzunlamasına bölünür ve kromatidler ayrılarak yavru hücreler gider, böylece bölünme tamamlanmış olur. Mayoz bölünmedeki "interfaz" evresi (G1,S,G2) I.mayozun başında geçer, II. mayozda tekrarlanmaz. I. mayoz; "profaz I", "metafaz I", "anafaz I", "telofaz I" evrelerinden sonra sitoplazma bölünmesi (sitokinez)gerçekleşir; II. mayoz; "profaz II", "metafaz II", "anafaz II", "telofaz II" evrelerinden oluşur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Golgi aygıtı</DOCTITLE>
+<TEXT>
+
+Golgi aygıtı (ayrıca Golgi cisimciği veya Golgi kompleksi) çoğu ökaryotik hücrede bulunan bir organeldir. 1897'de, "Golgi aygıtı" isminin kaynağı olan, İtalyan tabip Camillo Golgi tarafından keşfedilmiştir.
+Proteinler sentezlendikten hedef noktalarına gitmeden önce golgi tarafından işlenir ve paketlenir; bu özellikle sekresyon için işlenen proteinlerde önemidir. Golgi aygıtı hücresel endomembran sisteminin bir bölümünü oluşturur.
+Keşfi.
+Oldukça büyük boyutundan dolayı, golgi aygıtı keşfedilip ayrıntılarıyla incelenen ilk organellerden biridir. Bu aygıt ilk defa 1897 yılında İtalyan tabip Camillo Golgi tarafından sinir sistemi üzerinde yapılan bir inceleme sonucu keşfedilmiştir. Bu organeli kendi mikroskobunda ilk keşfinde yapıyı "apparato reticolare interno" (Türkçe: "dahili ağsı aygıt") olarak adlandırdı. Bu yapının adı, keşfinden 1 yıl sonra Camillo Golgi'nin soyadıyla yeniden adlandırıldı. Ancak bazıları ilk başlarda keşiften şüphe duydu, bu yapının aslında sadece Golgi'nin gözlem tekniğinden kaynaklanan bir optik yanılsama olduğu iddia edildi. 20. yüzyılda modern mikroskopların gelişmesiyle keşif doğrulandı.
+Yapısı.
+Hem bitkisel hem hayvansal hücrelerde bulunan golgi, sisterna olarak bilinen kıvrımlı zar kümelerinden oluşur. Özellikle bitki hücrelerinde bulunan diktozom adlı (Yunanca, "dictyon": ağ + "soma": cisim) özgün bir küme bulunur. Bir memeli hücresinde genellikle 40'tan 100'e kadar küme gözlenir. Bir kümede genellikle dört veya sekiz sisterna bulunur.; ancak bazı protistalarda sisternaların altmışa kadar çıktığı gözlenmiştir. Her sisterna, onu boydan boya geçen kargo proteinlerine yardım eden veya onlara yardım eden özel golgi enzimlerini içeren yassı, etrafı zarlarla çevrili disklerden oluşur.
+Sisterna kümesinin dört işlevsel bölgesi vardır: cis golgi ağı, medial golgi, endo golgi ve trans golgi ağı. Endoplazmik retikulumden veziküler tübüler küme aracılığıyla gelen veziküller, ağ örgüsüyle kaynaşır ve daha sonra paketlenip hedef noktalara gönderildikleri trans golgi ağı boyunca işlenir. Her bölge, bulundukları yere göre içerikleri seçici olarak modifiye eden farklı enzimler içerir. Sisternalar aynı zamanda kendi onarımları için gereken yapısal proteinler taşır.
+İşlevleri.
+Hücreler büyük miktarlarda değişik makromolekül sentezler. Golgi aygıtı bu makromoleküllerin hücre sekresyonu (Ekzositoz) veya hücre içi kullanım için paketlenmesinde, türlerine göre ayrılmasında ve modifiye edilmesinde bütünleyici bir göreve sahiptir. Golgi aygıtı öncelikli olarak granüllü endoplazmik retikulumdan gelen proteinleri modifiye eder ve aynı zamanda lipitlerin hücre içinde taşınmasını ve lizozomun oluşumunda görev alır. Bu bakımdan postaneye benzetilebilir; daha sonradan hücrenin çeşitli yerlerine yollayacağı materyalleri paketler ve etiketler.
+Sisternada bulunan enzimler karbonhidrat (Glikozilasyon) veya fosfat (Fosforilasyon) ilavesi ile proteinleri modifiye edebilir. Bunu yapabilmek için sitozolden nükleotid şekerler gibi materyalleri içe aktarır. Bu modifikasyonlar aynı zamanda proteinin son varış noktasını belirleyecek olan sinyal sekansını oluşturabilir. Örneğin golgi aygıtı, lizozomlara gidecek olan proteinleri mannoz-6-fosfat ile etiketler
+Mitoz esnasında golgi aygıtı.
+Hayvan hücrelerinde, mitozun başlangıcından sonra ayrışır ve kaybolur. Mitozun telofaz evresi esnasında tekrar ortaya çıkar; ancak bunun nasıl olduğu konusunda hala kesin bir kanıya varılamamıştır.
+Yanıltıcı bir şekilde, bitkilerin veya mayaların hücrelerindeki golgi aygıtlarının hücre döngüsü boyunca bozulmadan durduğu gözlenmiştir. Bu farklılığın nedeni bilinmemekle birlikte kısmen golgi proteinlerinin farkından kaynaklandığı düşünülmektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz</DOCTITLE>
+<TEXT>
+
+Mitoz ya da mitosis,ana hücre'nin bölünerek iki yeni hücre oluşturmasına denir.
+Genellikle ardından sitoplazma ve hücre zarının bölünmesi olan, sitokinez gelir. Bunun sonucu olarak, organelleri ve diğer hücre elemanları eş olan iki kardeş hücre oluşur. Mitoz ve sitokinez hücre döngüsünde M harfiyle gösterilen mitozu tanımlar. Mitoz yalnızca ökaryotik hücrelerde görülür. Çokhücrelilerde somatik hücrelerin oluşumu mitozla olurken, eşey hücrelerinin oluşumu mayoz denilen bölünme çeşidiyle olur. Çekirdeği olmayan prokaryotlarda hücreler, "fission" denilen bölünme yöntemiyle bölünürler.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar tüm soma hücrelerinde ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.
+Hücre döngüsü ile mitoz arasındaki ilişki.
+Mitoz, hücre döngüsünün bir parçasıdır. Hücre döngüsü oldukça uzun olan interfaz evresi ile kısa bir bölünme evresinden oluşur. Mitotik evre (M) evresi çekirdek bölünmesi ve sitoplazma bölünmesinden meydana gelir.
+İnterfaz.
+"mitoz bölünme"
+Mitoz evresi hücre döngüsünün görece çok kısa bir parçasıdır. Döngünün büyük kısmını oluşturan evre, hücrenin kendisini bölünmeye hazırladığı interfaz evresidir.
+İnterfaz G1, S ve G2 olmak üzere üç evreye ayrılır. G1 evresinde ATP sentezi, organel sayısı ve protein sentezi artar. S evresinde DNA eşlenmesi tamamlanır. G2 evresinde hücre, bölünme hazırlığını tamamlar.
+Hızlı çoğalan bir insan hücresinde hücre döngüsü 24 saatte tamamlanırken embriyo hücresinde 30 dakikadan az, maya hücresinde 90 dakika, bakteri hücresinde 20 dakika gibi kısa sürede tamamlabilir.
+Mitoz evreleri.
+Profaz.
+İnterfazda eşlenmiş durumdaki kromatinler kısalıp kalınlaşarak kromozoma dönüşürler. Çekirdek zarı, çekirdekçik ve organeller eriyerek tamamen kaybolur. Kromozomlar ekvatoral bölgeye hareket etmeye başlarlar.
+Metafaz.
+Kardeş kromotitler ekvatoral düzlemde bir çember gibi, bazen de karışık olarak ekvatoral düzlem üzerinde dizilirler ve sentrozomlar interfazda oluşturmuş olduğu iğ ipliklerini kromozomlara doğru göndermeye başlar. Hücrenin ortasında hafif boğumlanma olur. İğ iplikleri kardeş kromatitlere tutunur. Kromozomların en net görüldüğü safhadır.
+Anafaz.
+Kromozomlardaki sentromerlerin aynı anda ikiye bölünmesiyle kardeş kromatitler tam olarak birbirinden ayrılır. Kardeş kromatitler sentromerleriyle iğ ipliklerine tutunarak zıt kutuplara doğru harekete geçer. Anafaz evresi kardeş kromatitlerin zıt kutuplara ulaşmasıyla tamamlanır...
+Telofaz.
+Profaz evresinde eriyen çekirdek zarı, çekirdekçik ve organeller yeniden oluşmaya başlar.Kutuplara çekilen kromatitler çekirdek zarının içine girerler.Kısaca bu evrede Profazda olan her şeyin tam tersi olur.Bu evreden sonra sitoplazma bölünmesi gerçekleşir.
+Sitoplazma bölünmesi.
+Çekirdek bölünmesi gerçekleştikten sonra hayvan hücreleri ortadan boğumlanarak, bitki ve diğer çeperli ökaryotik hücreler ise orta lamel (ara lamel) ile bölünerek iki yeni hücre oluşturur.
+Hayvan hücresindeki sitoplazma bölünmesi: Hücrenin ekvator bölgesinde dıştan içe doğru meydana gelen bir boğumlanma ile başlar. Bu boğumlanma sitoplazmayı ikiye ayırıncaya kadar devam eder. Yeni hücreler eşit veya eşit olmayan büyüklüktedir. Fakat genetik materyal bakımından her iki hücre de aynı genetik yapıya sahip, kromozom sayıları eşittir.
+Bitki hücresindeki sitoplazma bölünmesi: Bitki hücresinde hücre çeperi bulunduğundan boğumlanma görülmez. Hücrenin ortasında orta lamel (ara lamel) denilen ara plak oluşumu başlar. Orta lamel hücrenin çeperine ulaşıncaya kadar büyür ve
+kalınlaşır. Böylece sitoplazma içindeki yapılar hemen hemen eşit olacak şekilde ikiye ayrılır. Zamanla orta lamel iki yavru hücrenin faaliyeti sonunda normal hücre çeperi halini alır. Sitoplazmanın da bölünmesiyle aynı genetik bilgiye sahip iki yavru hücre oluşur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sentrozom</DOCTITLE>
+<TEXT>
+
+[[Dosya:biological cell.svg|thumb|350px|Tipik bir hayvan hücresinin yapı taşlarını (Organellerini) gösteren çizimi. : 
+(1) Çekirdekçik 
+(2) Çekirdek 
+(3) Ribozomlar (küçük noktalar) 
+(4) Vezikül 
+(5) Granüllü endoplazmik retikulum (ER) 
+(6) Golgi aygıtı 
+(7) Hücre iskeleti 
+(8) Granülsüz endoplazmik retikulum 
+(9) Mitokondriler 
+(10) Koful 
+(11) Sitoplazma 
+(12) Lizozom 
+(13) Sentrozom içindeki Sentriyoller]]
+Sentrozom, yosun ve eğrelti otu gibi ilkel bitki hücrelerinde ve sinir hücreleri hariç tüm hayvan hücrelerinde çekirdeğe yakın bir yerde bulunur. İlkel bitki hücrelerinde ve mantar hücrelerinde bulunur. Ancak yüksek yapılı bitki hücreleri ve yumurta gibi hücrelerde bulunmaz.
+Sentrozom, birbirine dik iki silindirik cisme sahiptir. Her sentriyol, birbirine paralel üç küçük tüpten oluşmuş, dokuz iplik içerir. Bu iplikler protein yapısında olup arası matriks ile doludur. Sentrozom organeli zarsız bir organeldir. [Mikrotübül]ler silindirik biçimde dizilirler.
+İğ iplikleri oluşturulması, bölünme sırasında kromozomların ayrılması ve kutuplara taşınmasında görevlidir. Hayvan hücresinde bulunur.Sentriol adı verilen çubuklardan meydana gelmiştir. Yani görevi kısaca hücre bölünmesi sırasında zıt kutuplara ayrılarak aralarında iğ iplikleri oluşturmaktır.
+
+</TEXT>
+</DOC>
+

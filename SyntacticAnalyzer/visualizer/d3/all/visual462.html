@@ -1,0 +1,92 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Dünya'da iç su ulaşım ağı en gelişmiş ülke hangisidir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(5233, {label: "Hindistanda",nodeclass: "type-TK"});
+ g.addNode(5234, {label: "yaşa",nodeclass: "type-TK"});
+ g.addNode(5235, {label: "_",nodeclass: "type-TK"});
+ g.addNode(5236, {label: "yaşayanların",nodeclass: "type-TK"});
+ g.addNode(5237, {label: "yüz",nodeclass: "type-TK"});
+ g.addNode(5238, {label: "yüzde",nodeclass: "type-TK"});
+ g.addNode(5239, {label: "kaçı",nodeclass: "type-TK"});
+ g.addNode(5240, {label: "tarımla",nodeclass: "type-TK"});
+ g.addNode(5241, {label: "uğraşır",nodeclass: "type-TK"});
+ g.addNode(5242, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,5233,5236,{label: "NESNE"});
+ g.addEdge(null,5234,5235,{label: "TÜREME"});
+ g.addEdge(null,5235,5236,{label: "TÜREME"});
+ g.addEdge(null,5236,5241,{label: "ÖZNE"});
+ g.addEdge(null,5237,5238,{label: "TÜREME"});
+ g.addEdge(null,5238,5241,{label: "DE HALİ"});
+ g.addEdge(null,5239,5241,{label: "ÖZNE"});
+ g.addEdge(null,5240,5241,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,5241,5242,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

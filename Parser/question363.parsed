@@ -1,0 +1,14 @@
+1	Birim	birim	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT	_	_
+2	_	al	Verb	Verb	Pos	3	DERIV	_	_
+3	alan	_	Adj	APresPart	_	4	MODIFIER	_	_
+4	ya	ya	Conj	Conj	_	12	COORDINATION	_	_
+5	da	da	Conj	Conj	_	4	INTENSIFIER	_	_
+6	_	hacim	Noun	Noun	A3sg|Pnon|Loc	7	DERIV	_	_
+7	hacimdeki	_	Adj	Adj	Rel	8	MODIFIER	_	_
+8	birey	birey	Noun	Noun	A3sg|Pnon|Nom	9	CLASSIFIER	_	_
+9	sayısına	sayı	Noun	Noun	A3sg|P3sg|Dat	12	DATIVE.ADJUNCT	_	_
+10	ne	ne	Adv	Adv	_	12	MODIFIER	_	_
+11	_	de	Verb	Verb	_	12	DERIV	_	_
+12	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

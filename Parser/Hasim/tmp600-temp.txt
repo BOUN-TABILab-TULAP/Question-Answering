@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyada dünya+Noun+A3sg+Pnon+Loc
+bulunan bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart bulun+Verb+Pos^DB+Adj+PresPart
+ekosistem ekosistem+Noun+A3sg+Pnon+Nom
+çeşitleri çeşit+Noun+A3pl+Pnon+Acc çeşit+Noun+A3pl+P3sg+Nom çeşit+Noun+A3pl+P3pl+Nom çeşit+Noun+A3sg+P3pl+Nom çeşitle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

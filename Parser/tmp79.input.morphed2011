@@ -1,0 +1,66 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bir	bir	+Adverb
+Bir	bir	+Det
+Bir	bir	+Num+Card
+Bir	bir	+Adj
+Bir	Bir	+Noun+Prop+A3sg+Pnon+Nom
+
+yörede	yöre+Noun+A3sg+Pnon+Loc
+
+turizmin	turizm	+Noun+A3sg+Pnon+Gen
+turizmin	turizm	+Noun+A3sg+P2sg+Nom
+
+etkinliğinin	etkin	+Adj^DB+Noun+Ness+A3sg+P2sg+Gen
+etkinliğinin	etkin	+Adj^DB+Noun+Ness+A3sg+P3sg+Gen
+
+fazla	faz	+Noun+A3sg+Pnon+Ins
+fazla	fazla	+Adverb
+fazla	fazla	+Adj
+fazla	fazla	+Postp+PCAbl
+
+olması	ol	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+o	o	+Det
+o	o	+Noun+A3sg+Pnon+Nom
+o	o	+Pron+Demons+A3sg+Pnon+Nom
+o	o	+Pron+Pers+A3sg+Pnon+Nom
+
+yörenin	yöre+Noun+A3sg+Pnon+Gen
+yörenin	yöre+Noun+A3sg+P2sg+Gen
+
+ticari	ticari	+Adj
+
+gelişimini	gelişim+Noun+A3sg+P2sg+Acc
+gelişimini	gelişim+Noun+A3sg+P3sg+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+etkiler	etki	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+etkiler	etki	+Noun+A3pl+Pnon+Nom
+etkiler	etkile	+Verb+Pos+Aor+A3sg
+etkiler	etkile	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

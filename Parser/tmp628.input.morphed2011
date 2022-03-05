@@ -1,0 +1,34 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kalıtımda	kalıt+Noun+A3sg+P1sg+Loc
+Kalıtımda	kalıtım+Noun+A3sg+Pnon+Loc
+
+eksik	eksik	+Adj
+eksik	eksik	+Noun+A3sg+Pnon+Nom
+
+baskınlık	baskın+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnsan insan+Noun+A3sg+Pnon+Nom İnsan+Noun+Prop+A3sg+Pnon+Nom
+dişi diş+Noun+A3sg+P3sg+Nom diş+Noun+A3sg+Pnon+Acc dişi+Noun+A3sg+Pnon+Nom dişi+Adj
+üreme üre+Noun+A3sg+P1sg+Dat üre+Verb+Neg+Imp+A2sg üre+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ürem+Noun+A3sg+Pnon+Dat
+sistemindeki sistem+Noun+A3sg+P2sg+Loc^DB+Adj+Rel sistem+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+rahmin rahim+Noun+A3sg+P2sg+Nom rahim+Noun+A3sg+Pnon+Gen
+görevi görev+Noun+A3sg+Pnon+Acc görev+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

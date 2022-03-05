@@ -1,0 +1,215 @@
+Question: Dünyanın güneş etrafındaki yörüngesinin elips biçiminde olmasının etkileri nelerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Newton'un evrensel kütle çekim yasası</DOCTITLE>
+<TEXT>
+
+Newton'un evrensel çekim kanunu (klâsik mekaniğin bir parçasıdır) aşağıdaki gibi ifade edilir;
+Her bir noktasal kütle diğer noktasal kütleyi, ikisini birleştiren bir çizgi doğrultusundaki bir kuvvet ile çeker.Bu kuvvet bu iki kütlenin çarpımıyla doğru orantılı, aralarındaki mesafenin karesi ile ters orantılıdır:
+Burada:
+SI birimlerinde, "F" Newton (N), "m"1 ve "m"2 kilogram(kg), "r" Metre (m) dir, ve "G" sabiti yaklaşık olarak 6.68×10-11 N m2 kg-2’a eşittir.
+"G" ilk kez İngiliz bilim adamı Henry Cavendish tarafından, "Philosophiae Naturalis Principia Mathematica"nın basımından 111 ve Newton’un ölümünden 71 yıl sonra ölçülmüştür; bu yüzden Newton’un hesaplamalarının hiçbirinde “G” sabiti kullanılmamış, bunun yerine bir kuvvete bağıl başka bir kuvvet hesaplamıştır.
+Newton’un çekim kanunu Coulomb Kanunu’na benzer. Newton’un kanunu iki kütle arasındaki çekim kuvvetini hesaplamak için kullanılırken, benzer şekilde, Coulomb Kanunu yüklü iki iletkenin arasındaki elektriksel kuvvetin büyüklüğünü hesaplamak için kullanılır. Coulomb kanununun denkleminde Newton’un denklemindeki kütlelerin yerine yüklerin çarpımını içerir. Böylece Coulomb kanununa göre elektriksel kuvvet yüklerin çarpımının aralarındaki mesafeye bölünmüyle doğru orantılıdır.
+Yerçekimi ivmesi.
+"a"1’e birinci kütleye etkiyen yerçekimi ivmesi diyelim. Newton’un ikinci kanununa göre "F" = "m"1 "a"1, "a"1 = "F" / "m"1’dır."F"i önceki denklemden yerine koyarsak:
+Aynı şekilde "a"2’de buna benzerdir.
+SI birimlerinde, yerçekimi ivmesi (veya genel olarak ivme), metrenin saniyenin karesine oranıdır (m/s2 or m s-2). SI olmayan birimlerde ise birimi Galileo (Gal), g-kuvveti (İng. ""), ayak bölü saniyenin karesidir.
+Bir kütleyi Dünya'ya çeken kuvvet, aynı zamanda Dünya'yı da kütleye doğru çeker. Bunların ivmeleri ise aşağıdaki gibi hesaplanır:
+Eğer "m"1 "m"2’ye göre göz ardı edilebilirse, küçük kütleler yaklaşık olarak aynı ivmeye sahip olur. Bununla beraber "m"1 epeyce büyükse birleşik ivme göz önüne alınmalıdır.
+Eğer "r" bir objenin yörüngesi boyunca oransal olarak çok az değişirse – bir objenin Dünya'nın yüzeyine yakın bir yerde düşmesi gibi – yerçekimi ivmesi sabite oldukça yakın olur. Büyük bir kitle boyunca, “r”deki değişiklikler, ve yer çekimi kuvvetindeki ardı ardına değişiklikler gözle görülür bir gel-git kuvveti oluşturabilir. Örneğin, Dünya'nın yakın ve uzak yüzleri ile Ay arasındaki mesafe farkı 6.350 km dir. 385.000 km ortalama mesafeye göre küçük bir fark olsa da bu, Ay'ın Dünya'nın okyanusları üzerinde bir çekim kuvveti oluşturmasını ve böylece gelgit oluşumuna sebep olur.
+Uzaysal Boyutu Olan Kütleler.
+Eğer ilgilenilen kütlelerin uzaysal boyutu varsa (teorik olarak noktasal olmaktan ziyade) o zaman aralarındaki çekim kuvveti, bu kütleleri oluşturan kavramsal noktaların katkılarının toplanmasıyla hesaplanır. Limitte bileşen nokta kütleler sonsuz derecede küçüldükçe, kuvvetin (aşağıda vektör formu görülüyor) iki fiziksel kütlenin boyutlarına oranlarının integrali gerekir.
+Bu yolla kütlesi küresel olarak simetrik dağılmış kütle, haricî kütlelere tüm objelerin kütleleri merkezindeki bir nokta etrafında toplanmış gibi aynı çekim etkisini uygular.. (Bu, genellikle küresel simetrik olmayan kütleler için geçerli değildir.)
+Küresel simetrik dağılımlı bir malzemenin içindeki kütlelerin çekimsel kuvvetini bulmak için Newton’un kabuk teoremi (İng. ")" kullanılabilir. Bu teorem, bize kütle dağılımının farklı parçalarının kütle dağılım merkezinden r0 kadar uzaktaki bir parçayı nasıl etkilediklerini açıklar:
+Örneğin, bir sonuç olarak, eşit dağılan bir kalınlık ve yoğunluğa sahip olan bir kabuk boyunca net çekim kuvveti sıfırdır.
+Vektör formu.
+Newton’un evrensel çekim kanunu, hem çekim kuvvetinin büyüklüğünü hem de doğrultusunu gösteren bir vektör olarak yazılabilir. Bu formülde kalın yazılar vektörleri göstermektedir:
+Burada
+Eşitliğin vektörel formunun, F nin artık vektörel bir değer olması ve sağ tarafın uygun birim vektörle çarpılmış olması haricinde, daha önceden verilen skaler formla aynı olduğu görülebilir. Ayrıca buradan şu da görülebilir: F12 = - F21.
+Çekim Alanı.
+Çekim alanı uzayda verilen herhangi bir noktadaki objeye, birim kütle başına uygulanan çekim kuvvetini tanımlayan vektör alanıdır.Aslında bu o noktadaki çekim ivmesine eşittir.
+Eğer birden fazla obje varsa(dünya ve ay arasındaki bir roket gibi) kullanışlı hale gelen bir genelleştirmedir.İki obje için(örneğin obje 2 bşr roket ve obje 1 de dünya olsun) basitçe formula_11 yerine formula_12 ve formula_13 yerine formula_14 yazabiliriz ve çekim alanınıformula_15 aşağıdaki gibi tanımlayabiliriz:
+Böylece:
+Bu formül alana sebep olan objelerden bağımsızdır.Bu alan ivme birimlerine sahiptir ve bu da SI birimlerinde m/s2’dir.
+Çekim alanları aynı zamanda korunumlu alanlardır, yani, bir pozisyondan öbürüne çekim tarafından yapılan iş yoldan bağımsızdır.Bunun sonucunda potansiyel aşağıdaki gibi potansiyel "V"(r) alanı oluşur:
+Eğer "m"1 noktasal bir kuvvetse veya homojen dağılmış bir kütle ise, kürenin dışındaki kuvvet alanı g(r) izotropiktir(yönden bağımsızdır), örneğin,sadece kürenin merkezinden olan "r" mesafesine bağlıdır.Bu durumda;
+Newton’un Teorisi’nin Problemleri.
+Newton'un tanımı birçok pratik amaç için yeterli şekilde doğrudur ve bu yüzden geniş şekilde kullanılır.Boyutsuz değerler φ/c2 ve "(v/c)"’nin ikisi de küçük olduğunda kullanılabilir, burada φ çekimsel potansiyel, "v" incelenen objelerin hızı ve "c" ışık hızıdır.Örnek olarak, Newtonien çekim Dünya/Güneş sisteminin doğru bir tanımını sağlar, çünkü;
+burada "r"orbit dünyanın güneş etrafındaki yörüngesinin yarıçapıdır.
+Boyutsuz değişkenlerden biri büyük olduğu durumlarda, sistemi tanımlamak için genel görelilik kullanılmalıdır.Genel görelilik, küçük potansiyel ve düşük hız sınırlarında Newton'un çekime dönüşür bu yüzden, Newton’un çekim kanunu için sıklıkla genel göreliliğin düşük çekim limiti denir.
+Gözlemle Uyuşmazlıklar.
+Çekimsel ve ataletsel kütlelerin tüm kütleler için aynı olmasıyla ilgili gözlenen gerçek, Newton’un sisteminde açıklanamamaktadır.Genel görelilik bunu bir varsayım olarak alır.
+Newton'un Şüpheleri.
+Newton kendi anıtsal çalışmasında çekim kanununu formüle edebiliyorken, kendi eşitliklerinin öne sürdüğü uzaktan etkileşim(action at a distance) kavramı yüzünden kendini derin şekilde rahatsız hissediyordu.Kendi sözleriyle “ bu gücün sebebini hiçbir zaman tespit edememişti”.Tüm diğer durumlarda, kütleler üzerine etkiyen çeşitli kuvvetlerin sebebini açıklamak için hareket olgusunu kullanmıştır, fakat, çekimle ilgili durumda, çekim kuvvetini üreten hareketi deneysel olarak tanımlayamamıştı.Dahası, yer üzerindeki bu kuvvetin sebebine gelince bir hipotez önermeyi dahi reddediyordu.
+“Filozoflar şimdiye kadar çekim kuvvetinin kaynağı için boşuna doğa araştırmasına girişmişlerdir” diye pişman olmuştur, çünkü “birçok sebepten dolayı”, doğa olgusunun temeli olan, “şimdiye kadar bilinmeyen sebepler”in varlığına ikna olmuştur.Bu temel olgular hala araştırılmaktadır ve hipotezler çok olsa da tanımlayıcı yanıt henüz bulunamamıştır.Newton’un 1713 tarihli ve “Principia”nın ikinci baskısı olan “General Scholium”unda:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yörünge eğikliği</DOCTITLE>
+<TEXT>
+
+Gökbilimde, bir yörüngenin eğikliği, o yörüngenin içinde bulunduğu düzlemin referans olarak alınan bir düzlemle yaptığı açıya verilen addır ve derece cinsinden ifade edilir.
+Referans düzlemi olarak genellikle etrafında dolanılan 'merkezi cisim'in ekvator düzlemi alınır. Örneğin Satürn'in uydusu Phoebe'nin yörünge eğikliği, Phoebe'nin yörünge düzlemi ile Satürn'ün ekvator düzlemi arasındaki açıya eşittir. 90 derecenin üzerindeki eğiklikler 'dolanan cisim'in 'ters yönde hareketli bir yörünge'ye sahip olduğu, yani yörüngesi boyunca 'merkezi cisim'in kendi etrafında döndüğü yönün aksi istikamette ilerlediği anlamına gelir. "Phoebe'nin yörünge eğikliği 174,8 derecedir" dendiğinde, bu Phoebe'nin Satürn'ün ekvator düzlemine (180-174,8) 5,2 derece açı yapan bir düzlemde ve Satürn'ün dönüş yönünün tersine doğru hareket ettiği anlaşılır.
+Güneş Sistemi'ndeki gezegenlerin ve doğrudan Güneş'in uydusu olan gökcisimlerinin Güneş çevresindeki yörüngelerinin eğiklikleri hesaplanırken bu kurala uyulmaz, merkezi cisim olan Güneş'in ekvator düzlemi yerine Yer'in Güneş etrafındaki yörüngesinin düzlemi olan tutulum düzlemi referans olarak alınır. Bu, söz konusu cisimlerin hareketlerini daha kolay değerlendirebilmek için yapılmış bir seçimdir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünyanın Yeni Yedi Harikası</DOCTITLE>
+<TEXT>
+
+Dünyanın Yeni Yedi Harikası, İsviçre'de bir organizasyon tarafından cep telefonu ve internet aracılığıyla yapılan bir oylama sonucunda, Dünyanın Yedi Harikası'na alternatif olarak seçilmiş ve 7 Temmuz 2007 tarihinde açıklanmıştır. UNESCO ise bu seçimi, oy kullananların şahsi görüşlerini yansıttığı gerekçesiyle desteklemediğini ve klâsik Dünyanın Yedi Harikası listesinin korunmaya ve benimsenmeye devam edileceğini açıklamıştır.
+İsviçre merkezli New7Wonders Vakfı'nın, dünyanın yeni 7 harikasını belirlemek için başlattığı yarışmaya aralarında Ayasofya'nın da bulunduğu 21 finalist eser katıldı. Dünyanın dört bir yanından yaklaşık 100 milyon kişi cep telefonu ve Yeni Yedi Harika [http://www.New7Wonders.com] adlı internet sitesinde 6 yıl boyunca oy kullanarak dünyanın yeni 7 harikasını seçti. Cep telefonu ve internet oylarıyla belirlenen dünyanın yeni 7 harikası, Portekiz'in başkenti Lizbon'da ilan edildi. Dünyanın Yeni 7 Harikası; Ürdün'deki Petra Antik Kenti, Çin Seddi, Brezilya'daki Kurtarıcı İsa Heykeli, Peru'daki Machu Picchu Antik Kenti, Meksika'daki Chichen Itza Piramidi, İtalya'nın Roma kentindeki Kolezyum ve Hindistan'daki Tac Mahal anıtmezarı şeklinde sıralandı.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Londra</DOCTITLE>
+<TEXT>
+
+Londra (; telaffuz: , ), İngiltere'nin ve Birleşik Krallık'ların başkentidir. 0 derece meridyeninin geçtiği Greenwich Londra yakınlarındadır.
+Londra dünyanın en önemli iş ve finans merkezlerinden biridir. Yaklaşık 8 milyonluk nüfusuyla AB'nin 2. kalabalık kentidir. Bağlı yerleşim birimleri ile birlikte (Greater London) nüfusu 12-15 milyondur. Km²'ye 4.573 kişi düşmektedir. Avrupa'da en fazla beyaz ırk harici insanın yaşadığı şehirdir. 300'den fazla farklı dil konuşulmaktadır.
+Uluslararası turizmin kesişme noktasıdır. Dünyanın en kalabalık hava trafiği Londra hava trafiğidir. 5 uluslararası havaalanı bulunmaktadır. Bunların en büyüğü Heathrow'dur. Heathrow dünyanın en fazla uluslararası yolcu taşıyan havaalanıdır . 
+En önemli turistik mekanları, Parlamento Binası,Tower Bridge, Tower of London (Londra Kulesi), Buckingham Sarayı, Trafalgar Meydanı ve Londra gözü (İngilizce: London eye)'dür (Londra Dönmedolabı). Londra Büyük Şehri, Londra Şehri (City of London) , Westminister Şehri ve 31 metropoliten-Londra-bölgesinden oluşur. 
+Yeşili bol olan bir şehirdir. Londra'da 143 adet kayıtlı park ve bahçe vardır. Thames Nehri şehri ikiye böler.
+Tarihi.
+Londra yaklaşık 2 bin yıl önce Romalılar tarafından kurulmuştur. M.Ö. 43 yılında Roma İmparatorluğu'nun Britanya'yı işgali sonrasında Londonium ismi ile kurulmuştur. İsmin kökeni ile ilgili kesin bilgiler olmamakla beraber, anlamının "akan nehir" olabileceği düşünülmektedir.
+Londra dünyanın eski kentlerinden birisidir. Turizm bakımından ise tarihi eserler büyük müzelerde sergilenmektedir. Kültürleri gerçekten bin yıl önceden dünyaya yayılmaya başlamıştır. Londra'ya dünyanın her tarafından gelenler vardır. Bu da Londra' nın tarihi bir şehir olmasının sonucudur.
+Londra Metrosu.
+Londra metrosu, dünyanın en eski metrosudur. 1863 yılında Metropolitan Railway ismiyle açılmıştır. Londra metrosunun yapılma amacı o zamanlar at arabalarından oluşan trafiğin yoğunluğunu azaltma amacıydı. Yapılan ilk hatlarda da bilinen en gelişmiş teknoloji olarak buharlı trenler kullanılmıştır. Şehrin belli yerlerinde hala kömür dumanını atma amacıyla açılan havalandırmalar mevcuttur. 
+Burası açıldıktan sonra İstanbul'da Tünel, Madrid ve New York'ta da benzer metrolar yapıldı. Londra metrosuna Underground(yeraltı) denilmektedir. İstasyon levhalarında ki şekil nedeniyle de Londra metrosuna argoda Tube denilmektedir. Toplamda 274 istasyon bulunmaktadır. Metroda sigara içmek önceleri serbestti ama şuan çıkan yasadan dolayı kesinlikle yasaktır.
+Etnik Yapı.
+Londra, etnik olarak dünyanın en kozmopolit şehirlerinden biri. Londra'da yaklaşık 300 farklı dil konuşulmaktadır.
+"Londra'daki azınlıkların en büyük yoğunlukta bulunduğu mahalleler."Kaynak: The GuardianÇözüm:
+Uluslararası ilişkiler.
+Kardeş kentler.
+Londra'nın 12 tane kardeş şehri vardır.
+Kardeşlik anlaşması.
+Londra 12 tane şehirle kardeşlik anlaşması yapmıştır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yükselen Dünyanın Savaşları</DOCTITLE>
+<TEXT>
+
+Yükselen Dünyanın Savaşları serisi, fantezi yazarı Licia Troisi’nin Tiran ve Genç Kız serisinden bağımsızdır fakat hikâye bu üçlemenin etrafına kurulmuştur. Yükselen Dünyanın Savaşları, Nihal ve Sennar’ın macerasından kırk yıl sonrasını konu alır.
+Yükselen Dünyanın Savaşları Üçlemesi Hakkında.
+Yükselen Dünyanın Savaşları serisinin ilk kitabı olan La setta degli assassini, İtalya’da, Nisan 2006’da karton kapaklı olarak yayınlandı. Serinin devam kitapları; Le due guerriere ve Un nuovo regno’dur. 
+Serinin ilk kitabı "Suikastçiler Mezhebi" Ağustos 2011’de, Türkiye’de Doğan Egmont Yayıncılık tarafından yayınlanacak.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Afrika faunası</DOCTITLE>
+<TEXT>
+
+Afrika direyi, Afrika kıtasının genel anlamda çeşitlilik gösteren iklimi nedeniyle oldukça çeşitlidir. Bu geniş tür yelpazesi kaynağını, hem dünyanın en kurak çöllerini, hem de dünyanın en sulak alanlarından olan yağmur ormanlarını; hem dünyanın en yüksek ekosistemlerinden bazılarını, hem de dünyanın en geniş düzlüklerini içinde barındıran büyük Afrika kıtasından almaktadır.
+Böcekler.
+Afrika kıtasında şu ana kadar yaklaşık 100.000 böcek türü tanımlanabilmiştir. Sadece Kızböceği takımından 875 tür barındıran kıta ayrıca 1000 kadar termit türüne de ev sahipliği yapar.
+Balıklar.
+Afrika, tatlısu balığı açısından dünyanın en zengin kıtasıdır. Victoria gibi büyük göller, muazzam bir çeşitliliğe sahiptir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yer'in ekseni</DOCTITLE>
+<TEXT>
+
+Yer’in ekseni veya axis mundi, dinlerde ve mitolojilerde yer ile cennet ve cehennem gibi ya da Tanrı/tanrıların ikamet ettiği yer arasındaki ilişkinin sağlandığına inanılan yer. Daha yüksek ve daha alçak alemler arasındaki seyahatler ve iletişim bu nokta üzerinden sağlanır. Aşağı alemlerdekiler bu noktadan daha yukarı çıkarak yukarı alemdekilerle iletişim kurarlar, yukarı alemlerde olanlar ise aşağıda alemlere ve heryere bu yer üzerinden lütuflarını yayarlar. Bu nokta yerin Antik Yunan'da dünyanın başlangıç noktası sayılan omphalos (yerin göbeği) ile benzer bir işlev görür.
+Yerin merkezine ilişkin Axis mundi imajı (belki de beslenmeyi sağlayan göbek bağına benzer şekilde) genellikle dişil betimlenir. Bu bir doğal obje (dağ, ağaç, asma, sürgün, duman veya ateş gibi) ya da insanlar tarafından üretilmiş birşey (kule, merdiven, mayıs direği, haç, çan kulesi ya da minare, ip, totem direği, sütun) olabilir. Göğe yakınlığı bazen dini(pagoda, tapınak tepesi, minare, kilise) bazen seküler(obelisk, deniz feneri, roket, gökdelen) anlamlar taşıyabilir ve dinsel veya seküler bağlamlarda görülür. Axis mundi sembolizmi şaman pratiklerinden, animist inanç sistemlerine, büyük dünya dinlerinden teknolojik gelişmenin ürettiği "urban center"lara kadar birçok alanda görülebilir. Mircea Eliade'nin dediği gibi "Kozmogoni, tüm inşalarda örnek alınan oluşumdur. İnşa edilen her yeni şehir, her yeni ev, dünyanın yaradılışını bir anlamda bir daha tekrarlar. Aslında her şehir ve her konut "evrenin merkezinde" bulunmaktadır.
+Mircea Eliade'ye göre merkez simgeciliği ve kozmolojik imaları üç ana unsur etrafında toplanırlar:
+Yerin merkezi olarak dağlar.
+Hint inanışlarına göre Meru Dağı, dünyanın ortasında bulunmakta ve üzerinde kutup yıldızı parlamaktadır. Filistin'de bulunan Tabor dağının adı, "göbek", "omphalos" anlamına gelen tabbur'dan gelmektedir.Gerizim dağı da dünyanın göbeği olarak bilinir. Hıristiyanlara göre Gogoda tepesi dünyanın merkezinde bulunmaktadır, hem dağın zirvesi hem de Adem'in gömüldüğü yer burasıdır.
+Tapınakların ve şehirlerin kozmik bir dağ ile özdeşleştirilmesine de sık sık rastlanır. Kral Gudea döneminden kalma bir silindir mühürde "(Kralın) inşa ettirdiği (Tanrının) odası, kozmik dağ gibidir" yazmaktadır. Doğudaki her şehir dünyanın merkezinde bulunmaktadır. Mezopotamya ziguratları da kozmik dağlar sayılmıştır. Güney Asya'daki Borobudur tapınağı ve Angkor Vat kozmik dağlara benzer biçimde inşa edilmiş tapınaklardan en bilinenleridir.
+Yerin merkezi olarak ağaç.
+Hayat ağacı ile ilgili mitlerde ve efsanelerde evrenin merkezinde bulunan ve göğü, yeri ve cehennemi birbirine bağlayan bir Hayat ağacı düşüncesi sık sık karşımıza çıkar. Bu mitsel yapının İskandinavya ve Orta Asya inançlarında, özellikle de Altay ve Cermen halklarında özel bir değeri vardır. Ancak kökenin Mezopotamya olduğu sanılmaktadır. Genelde ağaç, dünyanın merkezinde bir dağın zirvesinde bulunur. Şaman göğe çıkarken, mistik yolculuğu sırasında dokuz ya da yedi basamaklı bir ağaca tırmanır. Genelde bu yolculuğu yedi basamaklı kutsal bir direk üzerinde gerçekleştirir; bu direğin dünyanın merkezinde olduğu varsazılır.Kutsal direk ve ağaç, evrenin merkezinde bulunan ve dünyayı taşıyan kozmik direkle örtüşen simgelerdir. Altaylılar tanrıların atlarını bu direğe bağladığına; takımyıldızların bu direğin etrafında oluştuğuna inanır. Aynı kavrama İskandinavya'da da rastlanır. Odin atını Yggdrasil'e (kelime anlamı Odin'in atıdır) bağlar.
+Saksonların benzer kozmik direğinin adı ise Irminsul'dur.
+Hintlilerde de evrenin ortasında bulunan Hayat Ağacı ya da bir direk tarafından temsil edilen kozmik bir eksen vardır.
+Çin mitolojisinde mucize ağaç evrenin merkezinde yükselir ve devletin merkezi de burdadır. Dokuz Gök, Dokuz Pınar'la bu noktada birleşir. Bu ağaca Dikili Ağaç (Kien-Mou) denilir ve öğle vaktinde onun yanında dimdik duranların gölgesi olmadığı söylenir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kıyamet</DOCTITLE>
+<TEXT>
+
+Kıyamet; din ve inanışlarda “Dünyanın sonu” inancı, kıyametin kopacağı ve bunun zamanıyla ilgili inanç. Ayrıca Zerdüştlük, İslam ve Hıristiyanlık gibi bazı dinlerde ölülerin diriltilerek mahşer (toplanma yeri) de toplanacağına (haşir), hayattayken yapılan iyilik ve kötülükler hakkında hesap ve hüküm verileceğine (hesap günü), iyilerin cennete, kötülerin ise cezalarını çekmek üzere cehenneme gideceğine inanılır.
+Diğer inançlarda kıyamet.
+Kitab-ı Mukaddes’ten dünyanın ve insanlığın yaşı çıkarılabilmiştir.
+Bayezid Bistamî, Miftahu’l-Cifr adlı eserinde, Sabiler ve semavi dinlerin mensuplarının Adem’den kıyamete kadar dünyanın ve insanlığın ömrü 7000 yıl kabul ettiklerini ifade etmektedir. Yahudilere göre Adem ve Havva’nın dünyaya geliş tarihi M.Ö. 3761′dir. Kıyametin tarihi 7000-3761 = 3239; ve 3239 – 2013 = 1226 yıl sonra kıyamet beklenmelidir.
+İslam inancında.
+Kıyamet inancı İslam inancının (Akide) bir parçası ve inancın temel prensiplerinden biridir. Kıyamet Günündeki imtihanlar ve kargaşalar Kur'an ve Hadislerde tasvir edilmiş, Gazali, Ibn Kesir, Ibn Mace, Buhari gibi din bilginlerinin kitaplarında ele alınmıştır. 
+Kur'an'da.
+Kur'ana göre her insan yaptıklarından ötürü kıyamet günü yargılanacaktır. (Kur'an 74:38)
+Ey insanlar! Rabbinizden korkun! Çünkü kıyamet vaktinin depremi müthiş bir şeydir! (Hacc: 1)
+...Kıyamet vakti de gelecektir; bunda şüphe yoktur. Ve Allah kabirlerdeki kimseleri diriltip kaldıracaktır. (Hac; 7)
+İnkâr edenler, kendilerine o saat ansızın gelinceye kadar hep şüphe içindedirler. (Hac; 55)
+...O saat (kıyamet), mutlaka gelecektir. Şimdilik onlara güzel muamele et. (Hicr; 85)
+...Kıyametin kopması ise, göz açıp kapama gibi veya daha az bir zamandan ibarettir. (Nahl; 77)
+Onlar üstelik kıyameti de yalan saydılar. Biz ise, kıyameti inkâr edenler için alevli bir ateş hazırladık. (Furkan,11)
+Bilakis kıyamet onlara vaat edilen asıl saattir ve o saat daha belâlı ve daha acıdır. (Kamer, 46)
+"...İyi bilin ki, kıyamet saati (zamanı) hakkında tartışanlar derin bir sapıklık içindedirler” (42:18)
+Kıyamet günü için Kur'anda Saat (6:31, 42:17), Hesap Günü (15:35, 26:82, 38:16, 40:27), Hüküm (Ceza) Günü (74:46), Karar (Ayrım) Günü (44:40) Toplanma Günü (42:7) ve Sur'a üflendiği gün (6:73, 20:101, 23:101, 74:9-10) ifadeleri de geçmektedir.
+Kıyamet alametleri.
+Bazı hadis kaynaklarında mesih, mehdi, deccal gibi kıyamet kopmadan önce gerçekleşmesi beklenen olaylar anlatılır ve bunlar kıyamet alametleri olarak değerlendirilir. Ancak bunların tamamen uydurma ve düzmece olduğunu belirten ilahiyatçılar da bulunmaktadır. Kıyamet alametleri konusunda diğer bir yaklaşım da Ortadoğu bölgesinde benzerleri tarih boyunca onlarca kez olmuş olan olayların güncel olanlarını arka arkaya sayıp insanların zihninde yakın zamanda bir mehdi ve kıyamet beklentisi yaratılmasıdır.
+Bilimsel öngörüler.
+Evrenin geleceği ve yok olması ile ilgili birkaç teori bulunmaktadır. Bu teorilere göre evren genişlemesini sürdürecek ve soğuyacak, veya tekrar kendi üzerinde büzüşecek veya bir yırtılma ile evrenin varlığı son bulacaktır. Bu teoriler evrenin tesbit edilen yaşından daha erken bir kıyamet takvimi öngörmemektedir. 
+Kıyametle ilgili kehanetler.
+Hadislere göre Dünyanın ömrü ve kıyamet.
+Hadisler Muhammed'in ölümünden birkaç asır sonra kayda alınan islamın sözlü kültür ürünleridirler. Bu sözlerin Muhammed'e ait olmaları konusu tartışmalıdır. 
+Bazı hadislere göre Dünyanın (muhtemelen insanlığın) toplam ömrü 7 bin yıldır (dipnot) ve Muhammed’in zamanına kadar bunun 5.600 yılı geçmiştir:
+Enes b. Malik 'den, O dedi ki Resulullah buyurdu: "Dünyanın ömrü, ahiret günlerinde yedi gündür. Allah-u Teala buyurdu ki: Rabbin katında bir gün sizin saydıklarınızdan bin yıl gibidir. Kim bir din kardeşinin Allah yolunda bir ihtiyacını görürse, Allah Teala onun için gündüzlerini oruçla, gecelerini de ibadetle geçirmişcesine şu dünyanın yedi bin yıllık ömrü müddetince sevap yazar."
+Dakkak b. Zeyd-ü Cüheni 'den rivayet ettiler. 
+Ben gördüğüm bir rüyayı Resulüllah'a anlattım. Bu rüyada Peygamber yedi basamaklı bir minberin en üst basamağında idi: O buyurdu ki, Yedi basamaklı gördüğün minber şu dünyanın ömrü olan yedi bin senedir. Ben de O 'nun son bininde olacağım. 
+Ahmet İbni Hanbel ilel'inde nakletti. 
+Dünyadan beş bin altı yüz yıl geçmiştir.
+Bu ümmetin ömrü bin (1000) seneyi geçecek fakat bin beşyüz (1500) seneyi aşmayacaktır.
+"Benim ümmetimin ömrü 1500 seneyi pek geçmeyecek." 
+Dipnot.
+İslami kaynaklarda ilk insanlar olarak Adem ve Havva'nın cennette yaratılışı ve Dünyaya gönderilişi anlatılır. Ancak insanlığın ömrü ve Dünyanın ömrü hakkında bir ayrım yapılmaz. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Skidmore, Owings and Merrill</DOCTITLE>
+<TEXT>
+
+Skidmore, Owings and Merrill veya kısa adıyla SOM ABD’nin Illinois eyaletinin Şikago şehrinde 1936 yılında Louis Skidmore ve Nathaniel A. Owings tarafından kurulmuş bir mimarlık ve mühendislik firmasıdır. 1939 yılında John O. Merrill firmaya ortak olarak katılmıştır.
+Kurulduğu yer dışındaki ilk ofisini 1937 yılında New York City şehrinde açmıştır. Günümüzde dünyanın en büyük mimarlık firmalarından birisi olan SOM, özellikle oldukça pahalı ticari binalar üzerine uzmanlaşmıştır.
+Skidmore, Owings and Merill dünyada Uluslararası Stil’e uygun cam kutuların (İngilizcesi: glass box) inşa edilmesine öncülük eden firmadır. Ayrıca dünyanın en yüksek binalarının birçoğunu da tasarlamışlardır. Bunlar arasında John Hancock Merkezi (1969 yılında inşaatı tamamlandığında dünyanın en yüksek ikinci binasıydı), Willis Kulesi (1973 yılında tamamlandığında dünyanın en yüksek binası ünvanını yirmi yıl korudu) ve Burç Halife (2011 yılı itibariyle dünyanın en yüksek binasıdır) yer almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Edinburgh Üniversitesi</DOCTITLE>
+<TEXT>
+
+Edinburgh Üniversitesi İskoçya'nın başkenti, Edinburgh'da bulunan bir üniversitedir. 14 Nisan 1582 tarihinde Kral VI. James tarafından yasalaştırılan Edinburgh Üniversitesi 1583 yılında kurulmuştur. Edinburgh Üniversitesi dünyanın en saygın üniversiteleri arasında yer almaktadır. 2010 yılında uluslararası üniversiteler arasında dünyanın en iyi 9. üniversitesi seçilmiştir. 18 Nobel Ödülü, 1 Abel Ödülü ve Olimpiyatlarda birçok altın madalya çıkaran Edinburgh Üniversitesi, Harvard, Oxford ve Cambridge gibi dünyaca ünlü ve prestijli üniversiteler arasında yer almaktadır. 2011-2012 eğitim yılında araştırma ve diğer faaliyetlerden elde ettiği £700 milyonluk gelir ve £1.58 milyarlık aktifleri ile Birleşik Krallık'ın ve dünyanın en varlıklı üniversiteleri arasındadır.
+Üniversitenin kurulduğu zamanda (1583) Avrupa'daki bütün üniversiteler Papalık Makamı'nın emriyle kurulur ve desteklenirken, Edinburgh Üniversitesi'nin Kral VI. James'in emriyle kurulması ve yerel belediye tarafından finanse edilmesi, onu dünyanın ilk sivil üniversitesi yapar. Diğer "eskiden kalma" ("Ancient") İskoç üniversiteleri (St. Andrews, Aberdeen ve Glasgow) ile beraber ayrı yasal statüye ve haklara sahiptir. Örneğin üniversite 3 başlı bir yönetime sahiptir. Rektörü öğrenciler seçer, Britanya kraliyet ailesi şansölyeyi belirler, akademik senato ise başkanı ve şansölye yardımcısını atar. Edinburgh Üniversitesi'nin günümüzdeki şansölyesi Prenses Anne, görevini 2011'de babası Edinburgh Dükü Prens Philip'in 47 yıl süren şansölyeliğinden ayrılmasından sonra almıştır.
+Edinburgh Üniversitesi geleneklerine bağlı olmasının yanında, günümüzde yapay zekâ, nörobilim ve bilişsel bilimler gibi birçok alanda da ilklere imza atmaktadır. 1887 yılında üniversitenin o zamanki öğrencilerinden Arthur Conan Doyle, "The Student" gazetesini çıkarmaya başlar ve bu gazete İngiltere'nin ilk öğrenci gazetesi olur. Aynı zamanda okulun öğrenci birliğine (EUSA) ait, 1889 yılında inşa edilen "Teviot Row House" binası, dünyanın bu amaçla kurulan ilk binası olma özelliğini taşır. Avrupa'daki ilk yapay zekâ araştırma merkezi Edinburgh Üniversitesi'nde kurulmuştur. Dünyanın ilk klonlanmış memeli hayvanı Koyun Dolly de Edinburgh Üniversitesi'ne bağlı Roslin Enstitüsü'nde klonlanmıştır.
+Mezunları arasında Charles Darwin, David Hume, Alexander Graham Bell gibi isimler bulunan Edinburgh Üniversitesi'nde, Adam Smith, Max Born, Peter Higgs de ders vermiştir.
+
+</TEXT>
+</DOC>
+

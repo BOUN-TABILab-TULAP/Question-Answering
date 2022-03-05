@@ -1,0 +1,15 @@
+1	Doğal	doğal	Adj	Adj	_	_	_	_	_
+2	gaz	gaz	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	neden	neden	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	petrole	petrol	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+5	göre	göre	Postp	Postp	PCDat	_	_	_	_
+6	daha	daha	Adv	Adv	_	_	_	_	_
+7	çok	çok	Det	Det	_	_	_	_	_
+8	tercih	tercih	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	_	et	Verb	Verb	_	_	_	_	_
+10	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+11	edilen	_	Adj	APresPart	_	_	_	_	_
+12	bir	bir	Det	Det	_	_	_	_	_
+13	_	yakıt	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+14	yakıttır	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+15	.	.	Punc	Punc	_	_	_	_	_

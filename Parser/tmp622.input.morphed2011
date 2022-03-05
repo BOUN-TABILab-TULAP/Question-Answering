@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Vejetatif	Vejetatif	+Noun+Prop+A3sg+Pnon+Nom
+
+çekirdeğin	çekirdek+Noun+A3sg+P2sg+Nom
+çekirdeğin	çekirdek+Noun+A3sg+Pnon+Gen
+
+polen	polen	+Noun+A3sg+Pnon+Nom
+
+oluşumuna	oluşum+Noun+A3sg+P3sg+Dat
+oluşumuna	oluşum+Noun+A3sg+P2sg+Dat
+
+etkisi	etki	+Noun+A3sg+P3sg+Nom
+etkisi	etki	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

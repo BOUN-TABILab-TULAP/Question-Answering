@@ -1,0 +1,12 @@
+1	Bitkiler	bitki	Noun	Noun	A3pl|Pnon|Nom	10	SUBJECT	_	_
+2	_	büyü	Verb	Verb	Pos	3	DERIV	_	_
+3	büyüdükçe	_	Adv	Adv	AsLongAs	10	MODIFIER	_	_
+4	kök	kök	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	siteminde	sitem	Noun	Noun	A3sg|P3sg|Loc	10	LOCATIVE.ADJUNCT	_	_
+6	ne	ne	Adj	Adj	_	7	OBJECT	_	_
+7	gibi	gibi	Postp	Postp	PCNom	10	MODIFIER	_	_
+8	_	değişik	Adj	Adj	_	9	DERIV	_	_
+9	değişiklikler	_	Noun	Noun	Ness|A3pl|Pnon|Nom	10	OBJECT	_	_
+10	olur	ol	Verb	Verb	Pos|Aor|A3sg	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

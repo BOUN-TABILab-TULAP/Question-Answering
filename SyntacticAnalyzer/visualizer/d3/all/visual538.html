@@ -1,0 +1,88 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Babülmendep Kanalı hangi ülkelerin kıyıları arasındadır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(5912, {label: "İlk",nodeclass: "type-TK"});
+ g.addNode(5913, {label: "kara",nodeclass: "type-TK"});
+ g.addNode(5914, {label: "yolu",nodeclass: "type-TK"});
+ g.addNode(5915, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(5916, {label: "zaman",nodeclass: "type-TK"});
+ g.addNode(5917, {label: "yap",nodeclass: "type-TK"});
+ g.addNode(5918, {label: "yapılmıştır",nodeclass: "type-TK"});
+ g.addNode(5919, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,5912,5913,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,5913,5914,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,5914,5918,{label: "ÖZNE"});
+ g.addEdge(null,5915,5916,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,5916,5918,{label: "ÖZNE"});
+ g.addEdge(null,5917,5918,{label: "TÜREME"});
+ g.addEdge(null,5918,5919,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

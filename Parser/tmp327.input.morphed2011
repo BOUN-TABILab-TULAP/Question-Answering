@@ -1,0 +1,65 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bitkilerin	bitki	+Noun+A3pl+Pnon+Gen
+Bitkilerin	bitki	+Noun+A3pl+P2sg+Nom
+
+büyüme	büyü+Verb+Neg+Imp+A2sg
+büyüme	büyü+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+büyüme	büyü+Noun+A3sg+P1sg+Dat
+
+bölgelerinde	bölge+Noun+A3pl+P3sg+Loc
+bölgelerinde	bölge+Noun+A3pl+P2sg+Loc
+bölgelerinde	bölge+Noun+A3pl+P3pl+Loc
+bölgelerinde	bölge+Noun+A3sg+P3pl+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+ve	ve	+Conj
+
+sürekli	sürek+Noun+A3sg+Pnon+Nom^DB+Adj+With
+sürekli	sürekli+Adverb
+
+bölünebilme	böl+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+yeteneğine	yetenek	+Noun+A3sg+P2sg+Dat
+yeteneğine	yetenek	+Noun+A3sg+P3sg+Dat
+
+sahip	sahip	+Noun+A3sg+Pnon+Nom
+
+hücrelerden	hücre+Noun+A3pl+Pnon+Abl
+
+oluşan	oluş+Verb+Pos^DB+Adj+PresPart
+
+bitkisel	bitki	+Noun+A3sg+Pnon+Nom^DB+Adj+Related
+bitkisel	bitkisel	+Adj
+
+doku	dok	+Noun+A3sg+P3sg+Nom
+doku	dok	+Noun+A3sg+Pnon+Acc
+doku	doku	+Noun+A3sg+Pnon+Nom
+doku	doku	+Verb+Pos+Imp+A2sg
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

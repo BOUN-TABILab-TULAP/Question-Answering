@@ -1,0 +1,28 @@
+Akifer testi
+Bir akifer testi (ya da bir pompalama testi) gözlem kuyularında (geri çekilme) sabit pompalama yoluyla akifer "uyarıcı" ve Akiferin "yanıtını" gözlemleyerek bir akifer değerlendirmek için yapılır. Akifer test hidrojeolojistler aquifers, akitardlar ve akış sistemi sınırları sistemini karakterize etmek kullanmak yaygın bir araçtır.
+Bir slug testi anlık değişim (artış veya azalış) yapılan tipik akifer test bir varyasyonu ve efektler aynı kuyuda görülmektedir. Bu genellikle çevresinde de hemen akifer özelliklerinin hızlı bir tahmin (yerine gün dakika) almak için jeoteknik ve mühendislik ayarlarında kullanılır.
+Akifer testleri genellikle o idealize model parametreleri gerçek dünya akiferdeki için geçerli olduğunu varsayarak, gerçek dünyada gözlenen verileri eşleştirmek için akifer akımı (en temel Theis çözümü olmak üzere) bir analitik modeli kullanılarak yorumlanır. Daha karmaşık durumlarda, sayısal model bir akifer test sonuçlarını analiz etmek için kullanılıyor olabilir, ama karmaşıklığı ekleme daha iyi sonuçlar (parsimoni bakınız) garanti vermez.
+Akifer testleri Akifer özellikleri eski niceliği ise iyi kuyunun davranışı öncelikle ikinci endişe olmasıyla test farklıdır. Akifer testleri de sık sık bir veya daha fazla izleme kuyuları veya piyezometre ("nokta" gözlem kuyuları) kullanır. Bir izleme de sadece pompalanan değil (ama akifer hidrolik kafa izlemek için kullanılır) bir durumdur. Tipik izleme ve pompalama kuyu aynı akiferler boyunca taranmaktadır.
+Genel özellikleri.
+En yaygın olarak akifer testi dikkatli izleme kuyularda, su düzeylerinin ölçümü sırasında, sabit bir hızda ve en az bir gün için bir kuyudan su pompalanarak yapılır. Su kuyusu azaldığı beslemeleri akiferde pompalama iyi basınç pompalanır zaman. Iyi bir gözlem (hidrolik kafa değişikliği) drawdown olarak basınç bu düşüş gösterecektir. Düşüş pompalama devam ettiği sürenin uzunluğu ile kuyu pompalama ve geri çekilme artar radyal mesafe ile azalır.
+En akifer testleri ile değerlendirilir akifer özellikleri şunlardır:
+Bazı durumlarda, değerlendirildi akiferinin tipine bağlı olarak ek akifer özellikleri, aşağıdakileri içerir:
+Analiz yöntemleri.
+Yeraltısuyu akış denklemine uygun bir model ya da çözüm gözlenen verilere uyacak şekilde seçilmelidir. Modelleri birçok farklı seçenek de dahil olmak üzere önemli görülen hangi faktörlerin bağlı vardır:
+Neredeyse tüm akifer testi çözüm yöntemleri Theis çözeltisi dayanmaktadır; en basitleştirici varsayımlar üzerine inşa edilmiştir. Diğer yöntemler Theis çözümü üzerine inşa edilmiştir varsayımlardan birini veya birkaçını, rahatlayın ve bu nedenle daha esnek (ve daha karmaşık) sonuç almak.
+Geçici Theis çözüm.
+Theis denklemi sonsuz, homojen akifer bir nokta kaynağına iki boyutlu radyal akış için Charles Vernon Theis (CI Lubin matematiksel yardımıyla) ısı transfer literatürden, 1935 yılında (US Geological Survey için çalışan), tarafından oluşturuldu . Bu sadece bir
+"s" çekilme (testin başından beri bir noktada hidrolik baş değişim) olduğu, "u" boyutsuz bir zaman parametresi "Q" zaman bölünmesiyle kuyu (hacim deşarj (pompalama) oranı, bir veya m³ / s), "T" ve "S" geçirgenlik ve sırasıyla kuyusu (m² / s ve birimsiz) etrafında akifer storativity olan "r" mesafedir noktaya iyi pompalama nerede çekilme pompalama "W (u)" (üstel integral, E1, non-hidrojeoloji literatürde denir) "Eh işlevi" dir (saniye) başladı ve o zamandan beri (m) "t" zaman gözlenmiştir. kuyu fonksiyonu sonsuz dizi yaklaşılır
+Genellikle bu denklem bir akifer testi sırasında toplanan geri çekilme verilerinden iyi pompalama yakın ortalama "T" ve "S" değerleri bulmak için kullanılır. Bu sonuç ("s") de, "r" olarak ölçülür, "t" ve "Q", çünkü ters modelleme basit şeklidir gözlenir ve "T" ve "S" değerleri olan en iyi gözlenen veri ve analitik çözümün arasında en uygun bulunana kadar yeniden ölçülmüş veri denklemi içine konur.
+Theis çözüm aşağıdaki varsayımlara dayanmaktadır:
+Bu varsayımlar nadiren olsa da, tüm derecesine bağlı olarak, bir araya oldukları ihlal etmek (örneğin, akifer sınırları pompalama testi ile test edilecektir akiferin parçası ötesine iseniz)
+çözelti hala yararlı olabilir.
+Kararlı hal Thiem çözüm.
+Bir pompalama iyi sık denir Thiem çözümü kararlı durum radyal akış, yaklaşık silindirik kabuk kontrol hacimlerine Darcy hukukunun uygulanması (yani, bunun dışında daha küçük bir yarıçap silindir kesimi büyük bir yarıçaplı bir silindir) hakkında gelen iyi pompalama; yaygın olarak yazılır:
+Bu ifade "h0" arka plan hidrolik kafa, "h-H0" iyi pompalama, "Q" dan radyal mesafe "r" de çekilme değildir deşarj oranı olduğunu (orijinde) de pompalama, " T "geçirgenlik ve" R h0 "" etki yarıçapı, ya da baş hala hangi mesafedir. " Bu koşullar doğada "gerçekten meydana hiçbir zaman", ancak genellikle gerçek koşullara bir yaklaşım olarak kullanılabilir (için kararlı hal akışı hiçbir yakın sınırları iyi pompalama); Çözelti bir mesafe "R" de hiç pompalama çevreleyen (akifer tam temas örneğin, bir göl veya nehir) dairesel sabit kafa sınır olduğunu varsayarsak elde edilir.
+Hata kaynakları.
+Hem akifer ve kuyu testleri kritik öneme sahip verilerin doğru kaydıdır. Sadece su seviyeleri ve ölçüm zamanı gerekir dikkatle kayıtlı olması, ama pompalama oranları periyodik olarak kontrol ve kayıt altına alınmalıdır. Veriler analiz edildiğinde en az 2 oranının% pompalama bir kayıt dışı değişim yanıltıcı olabilir.
+Ek okuma.
+US Geological Survey pompa testi yorumlama bazı çok yararlı ücretsiz referansları vardır:
+Akifer testi yorumlama Bazı ticari basılı referanslar:
+Daha kitap başlıkları akifer testi analizi bazı malzeme veya bu test yöntemleri arkasındaki teori ihtiva çoğu hidrojeoloji, eşyanın "ileri okuma" bölümünde bulabilirsiniz.

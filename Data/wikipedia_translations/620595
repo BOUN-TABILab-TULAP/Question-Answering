@@ -1,0 +1,67 @@
+Azot lazer
+Bir azot, lazer bir elektrik deşarjı ile pompalanan kazanımı ortamı olarak, moleküler nitrojen kullanılarak ultraviyole aralığında (tipik olarak 337.1 nm), bir gaz lazeridir.
+% 3 e kadar bir verimle, azot lazerleri literatürde bildirilmiştir da azot lazeri duvar fişi verimliliği, tipik olarak% 0.1 ya da daha düşüktür. duvar fişi verimliliği aşağıdaki üç verimliliği ürünüdür:
+Orta kazanın.
+kazanç ortamı gaz fazında azot molekülleri olduğunu. azot lazer üç seviyeli lazer. Daha tipik dört düzey lazerler aksine, azot üst lazer seviyesi, doğrudan pompanın üzerinde hiçbir hız limitleri heybetli, pompalanır. Pompalama normalde doğrudan elektron etkisi ile sağlanır; elektronlar yeterli enerjiye sahip olmalıdır, ya da üst lazer seviyesini heyecanlandırmak için başarısız olur. Tipik haliyle rapor optimum değerleri 80 nitrojen gazı • cm basıncı Torr başına eV, 100 e kadar bir aralık içindedir.
+Orada düşük basınçlarda lazer ömür boyu bir 40 ns üst sınır ve ömür boyu basınç arttıkça kısalır. süresi 1 atmosferde, sadece 1-2 ns. Genel olarak
+güçlü çizgiler ultraviole 337.1 nm dalga boyunda bulunmaktadır. Diğer hatlar 357,6 nm, ayrıca ultraviyole rapor edilmiştir. Bu bilgiler, bugüne kadar en yaygın gereğidir molekül azot ikinci pozitif sistemi anlamına gelmektedir. Atom-atom mesafesi, elektronik geçiş ile değişmez, çünkü iki azot atomu yok titreşim ilgilenmektedir. rotasyon fotonun açısal momentum, ayrıca birden fazla dönme durumları oda sıcaklığında doldurulur teslim değiştirmek gerekiyor. Uzak-kırmızı ve birinci pozitif sistemi için, kızılötesi ve moleküler azot pozitif (1+) iyonu görünür bir mavi lazer çizgi hatları vardır.
+metastabl alt düzey ömrü az 20 ns genellikle böylece 40 us, lazer kendini sonlandırır vardır. Kendi kendine sonlandırma Bu tür bazen "alt düzey darboğaz" olarak adlandırılır. Bu, pek çok diğer lazerlere görüldüğü gibi başparmak sadece bir kural şudur:
+tek bozunma adım boşluğunun duvarları ihtiyacı vardır ve bu lazer genellikle sürekli modda çalışır gibi helyum-neon lazer aynı zamanda bir darboğaz vardır.
+10'dan az ns üst düzey ömür ile çok sayıda organik boyalar sürekli modda kullanılmıştır.
+230 ms'den bir üst düzey yaşam süresi vardır, ama aynı zamanda 100 ps bakliyat destekler.
+Tekrarlama oranı sağlanmaktadır yeterli sağlanan birkaç kHz gibi yüksek gaz akışını ve yapının soğutma uzanabilir. Soğuk azot sıcak azot göre daha iyi bir ortam olduğunu ve bu nedenle bir parçası gibi görünüyor saniyede birkaç darbe daha fazlasına tekrarlama oranı arttıkça darbe enerji ve güç düşüşü. Lazer kanalında kalan iyonlar içeren konular, görünüşe de vardır.
+% 78 nitrojen, hava, lazer kullanılabilir, fakat% 0.5 den fazla oksijen zehirleri edilebilir.
+Optik.
+Azot lazerler, bir rezonatör boşluğu içinde çalışabilir
+ama nedeniyle 2 her 20 mm tipik kazanç daha sık çalışır
+Tek başına superluminescence yayınlanan A.B.D.
+çıkış karşı ucundan yayılan şekilde bir ucunda bir ayna koymak için ortak olmasına rağmen.
+10 mm genişliğinde kazanç hacmi difraksiyonu için kazanç ortamı boyunca 30 m, duyulmamış bir süre sonra devreye giriyor. Böylece bu lazer bir içbükey mercek veya refocusing lens ihtiyacı yoktur ve ışın kalitesi kazanç ortamı boyunca geliştirir. pompalanan hacim yüksekliği 0.3 m sonra zaten refocusing lensi ihtiyacı, 1 mm kadar küçük olabilir. Basit bir çözelti, ikinci dereceden bir pompa profili elde edilmektedir, böylece, büyük bir yarıçap ile yuvarlatılmış elektrotlar kullanmaktır.
+Elektrik.
+Kazanç ortamı genellikle transvers elektrik deşarjı ile pompalanır. Basınç (ya da üzerinde) 1013 mbar basınç altında (atmosferik basınç), yapılandırma atmosfer basıncında gaz bir çay lazer transvers elektrik deşarjı olarak adlandırılır, bu da 30 mbar kadar basınçlar kullanılmaktadır olduğu zaman.
+Hızlı akıntı mikroskopik açıklaması.
+Güçlü bir dış elektrik alanına Bu elektron elektrik alan çizgileri yönünde bir elektron çığ oluşturur. Bir tampon gaz molekülünün elektron ve elastik saçılma Difüzyon alanına dik çığ yayılır. Inelastik saçılma uzakta yeni çığlar santimetre oluşturmak fotonlar oluşturur. Bir süre sonra, çığ bölgesindeki elektrik yükü Coulomb Kanunu, aşağıdaki harici elektrik alanı kadar büyük bir elektrik alanı oluşturur, böylece büyük bir hale gelir. Artan saha mukavemetine sahip bölgelerde çığ etkisi arttırılır. Bu flamalar denilen deşarjları gibi elektrik ark yol açar. Bir soygaz (en 0.9) ve azot bir karışımı çarparak elektron üzerinde elektronların elastik saçılması geliştirmek ve
+Böylece çığ ve flamalar genişletmektedir.
+Eklatörler flamalar desteklemek için gaz moleküllerinin yüksek bir yoğunluğa ve ilk bir elektron düşük yoğunluklu kullanın. Elektronlar yavaş yavaş yükselen gerilimi ile uzaklaştırılır.
+Yüksek yoğunluklu gaz analizi alanı, bu yüzden daha kısa yay daha düşük indüktans ile birlikte kullanılabilir ve elektrotlar arasındaki kapasitesi artar artar. Geniş bir flama daha düşük indüktans sahiptir.
+Gaz lazerleri, gaz moleküllerinin, düşük yoğunluk ve flamalar önlemek için başlangıç ​​elektronlarının, bir yüksek yoğunluklu kullanımı. Şişelerden azot kullanıldığı için elektronlar, oksijen tarafından kaldırılmaz preionisation eklenir. Geniş çığlar daha fazla azot moleküllerini harekete yapabilirsiniz.
+İkinci bir saçılma elektron emisyon olasılığı artar, böylece elastik olmayan dağılımı, bir molekül ısınır. Bu bir yay yol açar. Tipik ark azot, lazerle çizme "sonra" ortaya çıkar. flama ücretten çoğu hala arkı beslemek için kullanılabilir hem elektrotlar dokunur, böylece zaman kıvılcım boşluğu flama, sadece görüntü ücretten yoluyla elektrotlar tahliye, ek ücret dağıtım plakaları üzerinde saklanır. Böylece kıvılcım boşluğu ark lazerle çizme "önce" başlar.
+Darbeli çığ deşarjları için şartlar Levatter ve Lin tarafından açıklanmıştır.
+Elektrodinamik.
+elektronik bir kıvılcım boşluğu, bir kapasitör ve azot sayesinde deşarj oluşan bir devredir. İlk kıvılcım boşluğu ve kondansatör ücret uygulanır. kıvılcım boşluğu sonra kendisini boşaltır ve gerilim azot uygulanır.
+Bir seçenek yapım şekli, bir Blumlein jeneratör olarak bağlı iki kondansatör kullanır. Bu bir tabak ortak yeryüzü yani iki kapasitörler, diğerleri her kıvılcım boşluğu elektrotlar bağlanır, bağlanır. Bu kapasitörler genellikle baskılı devre kartının tek kat ya da bakır folyo ve ince dielektrik benzer yığından inşa edilir. kapasitörler bir indüktör, basit bir hava aralıklı bobin üzerinden bağlantılıdır. Bir kondansatör de buna karşısında küçük bir kıvılcım boşluğu vardır. HT uygulandığı zaman, iki kondansatör etkili bir indüktör ile bağlantılı, yavaş yavaş şarj edilmiştir. Kıvılcım boşluğu onun tetikleme gerilimi ulaştığında, deşarj ve hızlı bir şekilde sıfıra o kondansatörün gerilimini azaltır. Deşarj hızlı olduğu gibi, indüktör açık devre gibi davranır ve böylece (iki kapasitörler arasında) enine kıvılcım boşluğu üzerindeki gerilim farkı lazer ateş, ana kıvılcım boşluğu deşarjları kadar hızla yükselir.
+Her iki devrenin hızı iki adımda artar.
+İlk olarak, tüm bileşenlerin endüktans kısaltılması ve iletkenler genişleterek ve düz dikdörtgen devreyi sıkma azaltılır. toplam endüktans bileşenleri toplamıdır:
+yoğun akıntı yakın osiloskop çarpıtmak bildirilmiştir.
+Bu simetrik alt kıvılcım aralığı topraklı silindir içine lazer yapı ile azaltılabilir, en az lazer
+kapasitör 1 sol ve sağ, ve kondansatör 2 sol ve sağ kapasitör 1 üzerine yığılmış.
+Bu endüktans azaltma avantajına sahiptir.
+Ve bu lazer kanal artık kıvılcım için kontrol edilemez bir dezavantaja sahiptir.
+İkincisi, iletim hattı teorisi ve dalga teorisi bir dalga uyarma elde etmek için uygulanır.
+Ölçülen azot lazer darbeleri İkinci adım önemsiz böylece uzun.
+Bu analizden, bu aşağıdaki gibidir:
+Kıvılcım aralığı.
+PASCHEN yasası kıvılcım boşluğu uzunluğu basıncına ters orantılı olduğunu belirtir.
+Kıvılcım çap oranı sabit bir uzunluğu için, endüktans uzunluğu ile orantılıdır
+(: Dipol anten kaynağı [http://www.consultrsr.com/resources/eis/induct5.htm] ile karşılaştırın).
+Böylece kıvılcım boşluğu elektrotlar yapıştırılarak veya dielektrik boşluk halkası üzerinde kaynaklıdır.
+Basınç nedeniyle tehlikesini azaltmak için, ses seviyesi en aza indirilir.
+Boşluk, genellikle bir S-şekilli bir şekilde daha kalın olarak dışarı doğru alır, düşük basınç alanı halka dışında kıvılcım önlemek için.
+Kıvılcım boşluğu ve seyahat dalga teorisine dayanan lazer kanalı arasındaki bağlantı:
+arıza gerilimi, SF6 için, helyum düşük azot orta ve yüksek
+Hiçbir şey olsa kıvılcım kalınlığı varyasyonları hakkında söylenir.
+8E10A / s kıvılcım boşluğu ile mümkündür
+Bu güzel 1E-8s ve 1E3A azot lazerler meydana gelen tipik akımlarının tipik yükselişi süreleri eşleşir.
+Kıvılcım boşlukları bir çağlayan bir yay içine onun geçiş için bekleyin ve daha sonra bu yay büyük boşluğa uzatmak için, daha küçük aralıkta bir flama başlatmak için zayıf bir tetik darbe kullanmanıza olanak sağlar. Hala kaskad ilk kıvılcım boşluğu ile başlamak için ücretsiz bir elektron ihtiyacı, bu nedenle titreşim oldukça yüksektir.
+Preionisation.
+Çığ çoğunlukla alan çizgileri boyunca hızlı bir akıntı homojenize. Tüm çığlar yanal de üst üste böylece son lazer darbesi beri kısa bir süre (<10 ms) yeterince iyonları üzerinde bırakılır. Alçak basınç (<100 kPa) ile maksimum yük taşıyıcı yoğunluğu düşüktür ve kıvılcım çığ elektromanyetik tahrik geçiş engellenir.
+Diğer durumlarda
+UV radyasyonu bir akıntı dik yavaş yavaş bir akıntı homojenleştirir. Bunlar önümüzdeki birbirlerinden 1 cm iki doğrusal deşarjların koyarak dengeye getirilir. birinci deşarj küçük bir boşluk boyunca ve erken başlar. Nedeniyle ilk elektronlar flamalar düşük sayıda tipik olarak 1 mm aralıklı görülmektedir. İlk deşarjı için elektrotlar bu akıntı sınırlayan bir dielektrik tarafından karşılanmaktadır. Bu nedenle gerilim çığ ikinci boşluğu başlayabilirsiniz kadar daha da artması mümkün. Bunlar üst üste ve her molekülü heyecanlandırmak o kadar çoktur.
+Yaklaşık 11 ns UV nesil, iyonizasyon ve elektron yakalama azot lazer darbe süresi olarak benzer bir hız rejimi vardır
+ve böylece hızlı elektrikli uygulanmalıdır.
+Elektron etkisi ile uyarma.
+Üst lazer seviyesi fazla 11 eV ile elektronlar tarafından verimli heyecanlı, en iyi enerji 15 eV. flamalar elektron sıcaklığı sadece 0.7 eV ulaşır. Daha yüksek iyonlaşma enerjisi ve titreşim zorlamalara eksikliği nedeniyle helyum 2.2 eV sıcaklığını arttırır. Yüksek gerilimler sıcaklığını arttırmak. Yüksek gerilimler kısa darbeler anlamına gelir.
+Tipik cihazlar.
+Bir azot lazer gaz basıncı birkaç bar kadar birkaç mbar arasında değişmektedir. Ayrıca, hava, saf azot ya da azot ve helyum karışımı daha önemli ölçüde daha az çıkış enerji sağlar. mJ μJ nabız enerjisi aralıkları (bir buji boşluğu kullanan bir ticari versiyonu 300 microJ sağlar) ve en fazla 3 MW kW aralığında bir tepe güç elde edilebilir. 6-8 ns FWHM pulsewidths tipik da darbe zamansal genişliği, birkaç yüz piko (azot tipik olarak 1 atmosfer, kısmi basınç) ve azaltılmış basınç altında, yaklaşık 30 nanosaniye maksimum (Torr tipik olarak bazı onlarca) arasındadır.
+Amatör yapı.
+enine deşarj azot lazer uzun basit inşaat ve basit gaz işleme nedeniyle, amatör ev yapımı için popüler bir seçim olmuştur. İlk lazer ev inşaat makaleleri biri olarak, 1974 yılında "Scientific American" tarafından tanımlanmıştır.

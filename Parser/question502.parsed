@@ -1,0 +1,8 @@
+1	Vücut	vücut	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	içi	iç	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT	_	_
+3	dengeye	denge	Noun	Noun	A3sg|Pnon|Dat	6	DATIVE.ADJUNCT	_	_
+4	ne	ne	Adv	Adv	_	6	MODIFIER	_	_
+5	_	de	Verb	Verb	_	6	DERIV	_	_
+6	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

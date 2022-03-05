@@ -1,0 +1,120 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Bir noktanın Ekvator'a olan uzaklığının açı cinsinden değerine ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(6376, {label: "yeryüzü",nodeclass: "type-TK"});
+ g.addNode(6377, {label: "Yeryüzündeki",nodeclass: "type-TK"});
+ g.addNode(6378, {label: "ayrıntıları",nodeclass: "type-TK"});
+ g.addNode(6379, {label: "en",nodeclass: "type-TK"});
+ g.addNode(6380, {label: "az",nodeclass: "type-TK"});
+ g.addNode(6381, {label: "hata",nodeclass: "type-TK"});
+ g.addNode(6382, {label: "ile",nodeclass: "type-TK"});
+ g.addNode(6383, {label: "bir",nodeclass: "type-TK"});
+ g.addNode(6384, {label: "düzlem",nodeclass: "type-TK"});
+ g.addNode(6385, {label: "üzerinde",nodeclass: "type-TK"});
+ g.addNode(6386, {label: "göster",nodeclass: "type-TK"});
+ g.addNode(6387, {label: "_",nodeclass: "type-TK"});
+ g.addNode(6388, {label: "gösterebilmek",nodeclass: "type-TK"});
+ g.addNode(6389, {label: "için",nodeclass: "type-TK"});
+ g.addNode(6390, {label: "geliş",nodeclass: "type-TK"});
+ g.addNode(6391, {label: "_",nodeclass: "type-TK"});
+ g.addNode(6392, {label: "_",nodeclass: "type-TK"});
+ g.addNode(6393, {label: "geliştirilen",nodeclass: "type-TK"});
+ g.addNode(6394, {label: "metotlara",nodeclass: "type-TK"});
+ g.addNode(6395, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(6396, {label: "ad",nodeclass: "type-TK"});
+ g.addNode(6397, {label: "ver",nodeclass: "type-TK"});
+ g.addNode(6398, {label: "verilir",nodeclass: "type-TK"});
+ g.addNode(6399, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,6376,6377,{label: "TÜREME"});
+ g.addEdge(null,6377,6378,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6378,6388,{label: "NESNE"});
+ g.addEdge(null,6379,6380,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6380,6381,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6381,6382,{label: "NESNE"});
+ g.addEdge(null,6382,6385,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6383,6384,{label: "BELİRTEÇ"});
+ g.addEdge(null,6384,6385,{label: "NESNE"});
+ g.addEdge(null,6385,6388,{label: "DE HALİ"});
+ g.addEdge(null,6386,6387,{label: "TÜREME"});
+ g.addEdge(null,6387,6388,{label: "TÜREME"});
+ g.addEdge(null,6388,6389,{label: "NESNE"});
+ g.addEdge(null,6389,6392,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6390,6391,{label: "TÜREME"});
+ g.addEdge(null,6391,6392,{label: "TÜREME"});
+ g.addEdge(null,6392,6393,{label: "TÜREME"});
+ g.addEdge(null,6393,6394,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6394,6398,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,6395,6396,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6396,6398,{label: "ÖZNE"});
+ g.addEdge(null,6397,6398,{label: "TÜREME"});
+ g.addEdge(null,6398,6399,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

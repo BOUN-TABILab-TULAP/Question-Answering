@@ -1,0 +1,44 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Yutak	yutak	+Noun+A3sg+Pnon+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+mide	mide	+Noun+A3sg+Pnon+Nom
+
+arasında	ara	+Noun+A3sg+P3sg+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+sindirim	sindirim	+Noun+A3sg+Pnon+Nom
+
+organı	organ	+Noun+A3sg+P3sg+Nom
+organı	organ	+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

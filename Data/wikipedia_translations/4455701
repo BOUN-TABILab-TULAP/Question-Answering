@@ -1,0 +1,18 @@
+ULE - Ultra Düşük Enerji
+ULE - Ultra Düşük Enerji kablosuz sensör ve aktüatör ağlar oluşturmak için kullanılan bir kablosuz iletişim standardı vardır. ULE tabanlı cihazlar birincil uygulama alanları ev otomasyonu, ev güvenlik, iklim kontrolü vardır. ULE DECT teknolojisi (böylece genellikle DECT ULE olarak anılır) ortaya çıkarlar. Mayıs 2013 yılında ETSI ULE standardının şartname (Teknik Özellikler TS 102 939-01) yayınladı.
+Temel ULE kablosuz ağ, bir "yıldız ağ topolojisi" kullanır; yani ağı kontrol eden, "taban" olarak adlandırılan, bir ana cihaz var; Kapı kilitleri, duman dedektörleri, hareket dedektörleri, uzaktan - "temel" kablosuz genellikle vb sensörler, uzaktan kumanda, aktüatörler, akıllı sayaçlar, düğüm cihazlarının bazı örnekleri olarak adanmış fonksiyonları ile cihazlar vardır "düğümler", bağlı olduğu kontroller, gaz ve elektrik sayaçları, bebek monitörleri, yaşlı bakımı, vb
+ULE eşzamanlı veri ve ses iletişimi sağlar; Bu sensörler olayı gösteren sınırlı değil, aynı zamanda ses arabirimi etkinleştirme demektir. Buna iyi bir örnek acil durumlarda sadece bir acil durum gösteriyor, ancak aynı zamanda düzenli telsiz telefon gibi bir uzaktan bulunan bekçi veya hizmet istasyonu ile iletişim kuramıyor taşıyan kişinin sağlayan yaşlı bakımı için bir kolye cihazı, ancak tüm Bir düğmeye basit bir basın.
+ULE teknolojisi Bern, İsviçre'de bulunan ULE Alliance, kâr amacı gütmeyen bir kuruluş tarafından teşvik edilmektedir.
+DECT dan ULE Evrim.
+Donanımlar ULE kablosuz duyarga ağları gereklerine uyarlamak için ETSI Teknik Grup DECT DECT taşıma katmanı düzeyinde yapılmıştır:
+Benzer şekilde DECT için, ULE istikrar açısından benzeri Zigbee, Z-Wave, Bluetooth gibi teknolojiler, ve diğerleri outmatching, özel bir radyo frekansı kullanır.
+ULE uygulamalar.
+ULE tabanlı kablosuz ağların İlköğretim uygulama alanları ev otomasyonu, ev güvenlik ve iklim kontrolü içindir. Bu uygulama alanlarının her biri özel cihazların çeşitli temsil etmektedir. Dünya çapında dağıtılan Birçok ev ağ geçitleri, DECT ve DECT baz işlevselliği uygulama entegre. Bu ağ geçitleri genellikle yazılım yükseltilebilir. Zaten DECT işlevselliğe sahip bir ev ağ geçidi ULE yazılım güncellemesi ile etkin olabilir.
+Teknik özellikler.
+ULE bir "yıldız topoloji" ağ kullanır - baz kablosuz düğümler çok sayıda bağlanabilir. Binalarda 50 metreden ve açık havada 300 metreye kadar: ULE iletişim aralığı, kısa menzilli kablosuz iletişim teknolojileri alanında uzun arasındadır. Bu aralık yeterli değil birkaç durumlarda, tekrarlayıcı aralığını genişletmek için kullanılabilir. Benzer DECT için, ULE da (örneğin ofis ve büyük binalar gibi) genişletilmiş alanları kapsayacak şekilde birbiriyle bağlantılı birçok üsleri ile, daha karmaşık ağ mimarisi kullanabilirsiniz.
+ULE radyo özellikleri.
+Frekans:
+DECT fiziksel katman kullanır:
+ULE Protokol Stack.
+ULE Ulaşım ve Fiziksel katmanlar tanımlanmış ve ETSI tarafından standardize edilmiştir. Taşıma katmanı kablosuz algılayıcı ağlar daha iyi uyum gereksinimleri (yukarıya bakınız) için geliştirilmiştir ise ULE fiziksel katman, fiziksel katman DECT aynıdır.
+ULE İttifak geliştirilen ve HAN-FUN uygulama katmanı protokolü (Ev Alan Ağı fonksiyonel protokolü) tanımlanmıştır. HAN FUN protokol cihazların profillerini tanımlar ve ULE tabanlı cihazların uygulama düzeyi birlikte çalışabilirlik için gereksinimleri belirler. (Kasım 2013 yılında yayımlanan) HAN EĞLENCE ilk sürümü üzerinde iki düzine farklı cihazların profillerini tanımlamaktadır.

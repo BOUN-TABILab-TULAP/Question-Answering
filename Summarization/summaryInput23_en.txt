@@ -1,0 +1,2845 @@
+Question: 3
+Answer: dumm ans
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Onkoloji Hastalıkların Uluslararası Sınıflandırması</DOCTITLE>
+<TEXT>
+
+Onkoloji (ICD-O) Hastalıkların Uluslararası Sınıflandırması tümör hastalıklarının Hastalıkların Uluslararası İstatistiki Sınıflaması ve İlgili Sağlık Sorunlarının bir etki alanına özgü uzantısıdır. Bu sınıflandırma yaygın kanser kayıtları tarafından kullanılır.
+Bu üçüncü revizyon (ICD-O-3) şu anda. ICD-10 morfolojisi kodlarının bir listesini içerir. Onlar yayınlandığı tarihte geçerli olan ICD-O ikinci baskı (ICD-O-2) kaynaklanıyor.
+Eksen.
+Topografya ve morfolojisi: Sınıflandırma iki ekseni vardır.
+Morfoloji.
+Morfolojisi ekseni tümör şekil ve yapı içindir.
+Bu eksen Tıp Sistematik İsimlendirme ("SNOMED") morfoloji ICD-O sınıflandırma kabul etmiştir, çünkü belirli bir öneme sahiptir. SNOMED Sürekli değişen olmuştur ve SNOMED birkaç farklı versiyonları kullanılmaktadır. Buna göre, SNOMED için ICD-O kodları eşleme kişiler gerçekten doğru olup olmadığını maçlar dikkatli değerlendirilmesini gerektirir.
+Topoğrafya.
+Topografya eksen vücutta tümör sitesinin içindir. Bu ICD-10 C bölümü ile standardize edilmiştir
+ICD-O-2 ve ICD-O-3 arasındaki topografyası ekseninde herhangi bir değişiklik olmamıştır.
+ICD-10 kodları # listesi (C00-C97) örnekler Malign Tümörleri bakın.
+Morfoloji Kodları (ICD-O-3).
+839-842 Adneksial Ve Cilt apendiks Tümörleri.
+M8390 / 0 Cilt uzantısı adenom (C44._)
+M8390 / 3 Cilt uzantısı karsinom (C44._)
+M8391 / 0 Foliküler fibrom (C44._)
+M8392 / 0 Syringofibroadenoma (C44._)
+M8400 / 0 Ter bezi adenom (C44._)
+M8400 / 1 Ter bezi tümörü, BBT (C44._)
+M8400 / 3 Ter bezi adenokarsinomu (C44._)
+M8401 / 0 Apokrin adenom
+M8401 / 3 Apokrin adenokarsinomu
+M8402 / 0 Nodüler hidradenoma (C44._)
+M8402 / 3 Nodüler hidradenoma, malign (C44._)
+M8403 / 0 Ekrin Spiradenoma (C44._)
+M8403 / 3 Malign ekrin Spiradenoma (C44._)
+M8404 / 0 Hidrokistom (C44._)
+M8405 / 0 Papiller hidradenoma
+M8406 / 0 Papiller syringadenoma (C44._)
+M8407 / 0 siringoma, BBT (C44._)
+M8407 / 3 Sklerozan ter kanalı karsinomu (C44._)
+M8408 / 0 Ekrin papiller adenom (C44._)
+M8408 / 1 Agresif dijital papiller adenom (C44._)
+M8408 / 3 Ekrin papiller adenokarsinom (C44._)
+M8409 / 0 Ekrin poroma (C44._)
+M8410 / 0 sebase adnoma (C44._)
+M8410 / 3 sebase adenokarsinomu (C44._)
+M8413 / 3 Ekrin adenokarsinomu (C44._)
+M8420 / 0 Ceruminous adenom (C44.2)
+M8420 / 3 Ceruminous adenocarcinioma (C44.2)
+843 Mukoepidermoid Tümörleri.
+M8430 / 1 Mukoepidermoid tümörü
+M8430 / 3 Mukoepidermoid karsinom
+844-849 Kistik, Müsinöz Ve Seröz Tümörler.
+M8440 / 3 sistadenokarsinoma, NOS
+M8441 / 0 Seröz kistadenom, NOS
+M8441 / 3 Seröz kistadenokarsinom, NOS (C56.9)
+M8442 / 1 Seröz kistadenom, sınırda malignite (C56.9)
+M8443 / 0 Berrak hücreli kistadenom (C56.9)
+Sınır malignite M8444 / 1 berrak hücreli tümör, kistik (C56.9)
+M8450 / 0 Papiller kistadenom, NOS (C56.9)
+M8450 / 3 Papiller kistadenokarsinom, NOS (C56.9)
+M8451 / 1 Papiller kistadenom, sınırda malignite (C56.9)
+M8452 / 1 Katı sahte papiller tümörü (C25._)
+M8452 / 3 Katı pseudopapiller karsinom (C25._)
+M8453 / 0 İntraduktal papiller müsinöz-adenom (C25._)
+Orta displazi ile M8453 / 1 İntraduktal papiller müsinöz tümör-(C25._)
+M8453 / 2 İntraduktal papiller müsinöz karsinom-non-invaziv (C25._)
+Invazif M8453 / 3 İntraduktal papiller müsinöz karsinom-(C25._)
+Atriyo-ventriküler düğüm M8454 / 0 Kistik tümör (C38.0)
+M8460 / 0 Papiller seröz kistadenom, NOS (C56.9)
+M8460 / 3 Papiller seröz kistadenokarsinom (C56.9)
+M8461 / 0 Seröz yüzey papilloma (C56.9)
+M8461 / 3 Seröz yüzey papiller karsinom (C56.9)
+Sınır malignite M8462 / 1 seröz papiller kistik tümör (C56.9)
+Sınır malignite M8463 / 1 Seröz papiller yüzey tümörü (C56.9)
+M8470 / 0 Müsinöz kistadenom, NOS (C56.9)
+orta displazi ile m8470 / 1 müsinöz kistik tümör (C25._)
+M8470 / 2 Müsinöz kistadenokarsinom, non-invaziv (C25._)
+M8470 / 3 müsinöz kistadenokarsinom / NOS (C56.9)
+M8471 / 0 Papiller müsinöz kistadenom, NOS (C56.9)
+M8471 / 3 papiller müsinöz kistadenokarsinom (C56.9)
+M8472 / 1 Müsinöz borderline malignite kistik tümör (C56.9)
+M8473 / 1 Papiller müsinöz kistadenom, sınırda malignite (C56.9)
+M8480 / 0 Müsinöz adenom
+M8480 / 3 Müsinöz adenokarsinom
+M8481 / 3 adenokarsinom Müsin üreten
+M8482 / 3 Müsinöz adenokarsinom, endoservikal tip
+M8490 / 3 Signet yüzük hücreli karsinom
+M8490 / 6 Metastatik taşlı yüzük hücreli karsinom
+850-854 Duktal, Lobüler Ve Neoplaziler.
+M8500 / 2 İntraduktal karsinom, Noninfiltratif, NOS
+M8500 / 3 İnfiltratif kanalı karsinomu, NOS (C50._)
+M8501 / 2 Comedocarcinoma, Noninfiltratif (C50._)
+M8501 / 3 Comedocarcinoma, NOS (C50._)
+M8502 / 3 meme sekretuar karsinom (C50._)
+M8503 / 0 İntraduktal papillom
+M8503 / 2 Noninfiltratif intraduktal papiller adenokarsinom (C50._)
+Işgali ile M8503 / 3 İntraduktal papiller adenokarsinom (C50._)
+M8504 / 0 İntrakistik papiller adenom
+M8504 / 2 Noninfiltratif intrakistik karsinom
+M8504 / 3 İntrakistik karsinom, NOS
+M8505 / 0 intraduktal papillomatozun NOS
+Meme başının M8506 / 0 Adenom (C50._)
+M8507 / 2 intraduktal mikropapiller karsinom (C50._)
+M8508 / 3 Kistik hipersekretuar karsinom (C50._)
+M8510 / 3 medüller karsinom, NOS
+Lenfoid stroma ile M8512 / 3 medüller karsinom
+M8513 / 3 Atipik medüller karsinom (C50._)
+M8514 / 3 Kanal karsinom, desmoplastik tip
+M8520 / 2 İn situ lobüler karsinom, BBT (C50._)
+M8520 / 3 lobüler karsinom, BBT (C50._)
+M8521 / 3 kanalsal karsinomu İnfiltre (C50._)
+M8522 / 2 İntraduktal karsinom ve in situ lobüler karsinom (C50._)
+Kanal ve lobüler karsinom İnfiltre M8522 / 3 (C50._)
+Karsinom diğer türleri ile karışık M8523 / 3 İnfiltratif kanalı (C50._)
+Karsinom diğer türleri ile karışık M8524 / 3 İnfiltratif lobüler (C50._)
+M8525 / 3 polimorf düşük dereceli adenokarsinom
+M8530 / 3 İnflamatuar karsinom (C50._)
+M8540 / 3 Paget hastalığı, meme (C50._)
+M8541 / 3 Paget hastalığı ve meme infiltre kanalı karsinomu (C50._)
+M8542 / 3 Paget hastalığı "(kemiğin paget hastalığı hariç)", disi
+M8543 / 3 Paget hastalığı ve meme intraduktal karsinom (C50._)
+8550 Asiner hücreli neoplazmlar.
+M8550 / 0 Asiner hücreli adenom
+M8550 / 1 Asiner hücre tümörü
+M8550 / 3 Asiner hücreli karsinom
+M8551 / 3 Asiner hücre kistadenokarsinom
+856-857 Kompleks epitel tümörleri.
+M8560 / 0 Karma skuamöz hücreli ve bez papillom
+M8560 / 3 Adenoskuamöz karsinom
+M8562 / 3 Epitel-myoepitelyal karsinom
+Skuamöz metaplazi ile M8570 / 3 Adenokarsinom
+Kıkırdaklı ve osseus metaplazi ile M8571 / 3 Adenokarsinom
+Iğsi hücreli metaplazi ile M8572 / 3 Adenokarsinom
+Apokrin metaplazi ile M8573 / 3 Adenokarsinom
+Nöroendokrin farklılaşma ile M8574 / 3 Adenokarsinom
+M8575 / 3 metaplastik karsinomu, NOS
+M8576 / 3 hepatoid adenokarsinom
+858 Timik Epitel Tümörleri.
+M8581 / 3 Timoma, A tipi, malign (C37.9)
+M8582 / 1 Timoma yazın AB, NOS (C37.9)
+M8582 / 3 timoma, tip AB, malign (C37.9)
+M8583 / 1 Timoma, tip B1, NOS (C37.9)
+M8583 / 3 Timoma, tip B1, malign (C37.9)
+M8584 / 1 Timoma, tip B2, NOS (C37.9)
+M8584 / 3 Timoma, tip B2, malign (C37.9)
+M8585 / 1 Timoma yazın B3, NOS (C37.9)
+m8585 / 3 Timoma tipi B3, malign (C37.9)
+M8586 / 3 Timik karsinoma, NOS (C37.9)
+M8587 / 0 Ektopik hamartamatöz timoma
+Timus-benzeri eleman ile M8588 / 3 mili epitelyal tümör
+Timus gibi eleman gösteren M8589 / 3 Karsinomu
+859-867 İhtisas gonadal tümörleri.
+M8591 / 1 Seks kord stromal tümör gonadal, eksik farklılaşmış
+M8592 / 1 Seks kord stromal tümör gonadal, karışık formlar
+Küçük seks kord elemanları ile M8593 / 1 Stromal tümör
+M8600 / 3 Tekoma, malign
+Luteinize M8601 / 0 Tekoma,
+M8602 / 0 Sclerosisng stromal tümör
+M8610 / 0 Luteoma, NOS
+) Granuloza hücreli tümör, NOS
+M8620 / 3 Granuloza hücreli tümör, malign
+M8621 / 1 Granulosa hücre theca hücre tümörü
+M8622 / 1 Granuloza hücre tümörü, jüvenil
+Halka şeklinde tübüller ile M8623 / 1 Seks kord tümörü
+M8630 / 1 Androblastoma / Arrhenoblastoma benign
+M8632 / 1 Gynandroblastoma
+M8633 / 1 Sertoli-Leydig hücreli tümör, ağ gibi
+Heterolog unsurlarla M8634 / 1 Sertoli-Leydig hücreli tümör, ara farklılaşma,
+M8634 / 3 Sertoli-Leydig hücreli tümör, kötü heterolog elemanları ile, farklılaştırılmış
+M8640 / 1 Sertoli tümör, NOS
+M8640 / 3 Sertoli hücreli karsinom (C62._)
+Lipit depolama M8641 / 0 Sertoli hücre tümörü
+Sertoli hücre tümörü kalsifiye M8642 / 1 büyük hücreli
+M8650 / 0 Leydig hücreli tümör, bening (C62._)
+M8650 / 3 Leydig hücreli tümör, malign
+M8660 / 0 Hilus hücre tümörü (C56.9)
+Yumurtalık (C56.9) ve M8670 / 0 Lipid hücreli tümör
+M8670 / 3 Steroid hücreli tümör, malign
+M8641 / 0 Adrenal rest tümör
+868-871 Paragangliomalar ve Glomus tümörler.
+M8680 / 0 Paraganglioma benign
+M8680 / 3 paragangliyom, malign
+M8681 / 1 Sempatik paraganglioma
+M8682 / 1 Parasempatik paraganglioma
+M8683 / 0 gangliyositik paragangliyom (C17.0)
+M8690 / 1 Glomus jugulare tümörü, NOS (C75.5)
+M8691 / 1 Aort cisim tümörü (C75.5)
+M8692 / 1 Karotis cisim tümörü / paraganglioma (C75.4)
+M8693 / 1 Ekstra-adrenal paraganglioma, NOS
+M8693 / 3 Ekstra-adrenal paraganglioma, malign
+M8700 / 3 Feokromositoma, malign (C74.1)
+M8710 / 3 Glomangiosarcoma
+M8711 / 3 Glomus tümörü, Malign
+M8712 / 0 Glomangioma
+M8713 / 0 Glomangiomyoma
+872-879 Nevi Ve Melanomlar.
+In situ M8720 / 2 Melanom
+M8722 / 0 Balon hücreli nevus
+M8722 / 3 Balon hücre melanom
+M8723 / 0 Halo nevüs
+M8723 / 3 Malign melanom, gerileyen
+M8725 / 0 Neuronevus
+M8726 / 0 magnoselüler nevüs (C69.4)
+M8727 / 0 displastik nevüs
+M8728 / 0 Dağınık melanositozis
+M8728 / 1 Meningial melanositoma (C70.9)
+M8728 / 3 Meningial melanomatosis (C70.9)
+M8730 / 0 pigmentsiz nevüs
+M8740 / 0 Junctional nevus, NOS
+Junctional nevüs olarak M8740 / 3 Malign melanom
+M8741 / 2 Prekanseröz melanosis, NOS
+Prekanseröz melanozis içinde M8741 / 3 Malign melanom
+M8746 / 3 mukozal lentiginöz melanom
+M8750 / 0 İntradermal nevüs
+M8760 / 0 bileşik nevüs
+M8761 / 0 Küçük konjenital nevüs
+M8761 / 1 Dev pigmentli nevüs, NOS
+Dev pigmentli nevüs / konjenital melanositik nevüs olarak M8761 / 3 Malign melanom
+Konjenital nevüs olarak M78762 / 1 Proliferatif dermal lezyon
+M8770 / 0 Epiteloid ve iğsi hücreli nevüs
+M8770 / 3 Karma epitelioid ve iğsi hücreli melanom
+M8771 / 0 Epitelioid hücreli nevus
+M8771 / 3 Epitelioid hücre melanom
+M8772 / 0 iğsi hücreli nevus, NOS
+M8772 / 3 Mil hücre melanom, NOS
+M8773 / 3 Mil hücre melanom, A tipi
+M8774 / 3 Mil hücre melanom, B tipi
+M8780 / 0 Mavi nevüs, NOS
+M8780 / 3 mavi nevüs, malign
+M8790 / 0 Hücresel mavi nevus
+880 Yumuşak doku tümörleri Ve Sarkomlar, NOS.
+M8800 / 0 Yumuşak doku tümörü, selim
+M8800 / 9 sarkomatozisler, NOS
+M8801 / 3 Mil hücre sarkomu
+M8802 / 3 Dev hücreli sarkomu (kemik dışında M9250 / 3)
+M8803 / 3 Küçük hücreli sarkomu
+M8804 / 3 Epitelioid sarkomu
+M8805 / 3 ayrım yapılmamış sarkomu
+881-883 fibromlu tümörleri.
+M8810 / 1 Hücresel fibrom (C56.9)
+M8811 / 0 Fibromyxoma
+m8811 / 3 Fibromyxosarcoma
+M8812 / 0 Periosteal fibrom (C40._, C41._)
+M8813 / 0 Fasiyal fibroma
+M8813 / 3 Fasiyal fibrosarcoma
+M8814 / 3 İnfantil fibrosarkom
+M8815 / 0 soliter fibröz tümörü
+M8815 / 3 soliter fibröz tümörü, malign
+M8820 / 0 Elastofibroma
+M8821 / 1 Agresif fibromatosis
+M8822 / 1 Abdominal fibromatosis
+M8823 / 0 Desmoplastik fibrom
+M8824 / 0 Myofibroma
+M8824 / 1 Miyofibromatozis
+M8825 / 0 Myofibroblastoma
+M8825 / 1 myofibroblastik tümör, nos
+M8826 / 0 Anjiomyofibroblastoma
+M8827 / 1 Myobfibroblastic tümör, peribronşial (C34._)
+M8830 / 0 Benign fibröz histiositom
+M8830 / 1 Atipik fibröz histiositom
+M8830 / 3 MFH'nin
+M8831 / 0 Histiyositom, NOS
+M8832 / 0 Dermatofibrom, BBT (C44._)
+M8832 / 3 Dermatofibrosarkoma, BBT (C44._)
+M8833 / 3 pigmente dermatofibrosarkoma protuberans
+M8834 / 1 Dev hücreli fibroblastom
+M8835 / 1 Pleksiform osteokondrom tümörü
+M8836 / 1 anjiomatoid fibröz histiositom
+884 miksomatöz tümörleri.
+M8840 / 3 miksosarkoma
+M8841 / 1 Anjiyomiksoma
+M8842 / 0 ossifaying tümör fibromiksoid
+885-888 lipomatöz tümörleri.
+M8850 / 1 Atipik lipom
+M8851 / 0 fibrolipom
+M8851 / 3 Liposarkom, iyi diferansiye
+M8852 / 0 Fibromyxolipoma
+M8852 / 3 Miksoid liposarkomdur
+M8853 / 3 Yuvarlak hücre liposarkoma
+M8854 / 0 Pleomorfik lipom
+M8854 / 3 pleomorfik liposarkom
+M8855 / 3 Karışık liposarkomdur
+M8856 / 0 İntramüsküler lipom
+M8857 / 0 Mil hücre lipom
+M8857 / 3 Fibroblastik liposarkomdur
+M8858 / 3 Dediferansiye liposarkomdur
+M8860 / 0 Anjiyomiyolipom
+M8861 / 0 Anjiyolipom, NOS
+M8862 / 0 Kondroid lipom
+M8870 / 0 Adrenal myelolipom
+M8880 / 0 Hibernoma
+M8881 / 0 Lipoblastomatosis
+889-892 miyom tümörleri.
+M8890 / 1 leiomiyomatozis, NOS
+M8891 / 0 Epitelioid leyomiyom
+M8891 / 3 Epitelioid leiomyosarkom
+M8892 / 0 Hücresel leyomiyom
+M8893 / 0 Tuhaf leyomiyom
+M8894 / 0 Angiomyoma
+M8894 / 3 Angiomyosarcoma
+M8896 / 3 Miksoid leiomyosarkom
+Belirsiz malign potansiyeli M8897 / 1 Düz kas tümörü
+M8898 / 1 metastaz leiomyom
+M8901 / 3 Pleomorfik rabdomiyosarkoma, erişkin tipi
+M8902 / 3 Karışık tip rabdomiyosarkom
+M8903 / 0 Fetal rabdomiyom
+M8904 / 0 Yetişkin rabdomiyom
+M8905 / 0 Genital rabdomiyom
+M8910 / 3 Embriyonel rabdomiyosarkom, NOS
+M8912 / 3 Mil hücre rabdomiyosarkom
+M8920 / 3 Alveoler rabdomyosarkom
+Ganglionik farklılaşma ile M8921 / 3 Rabdomyosarkom
+893-899 Karmaşık Karışık Ve Stromal Tümörler.
+M8930 / 0 Endometrial stromal nodül
+M8930 / 3 Endometriyal stromal sarkom, NOS
+M8931 / 3 Endometriyal stromal sarkom, düşük dereceli
+M8932 / 0 adenomyom
+M8933 / 3 adenosarkom
+M8934 / 3 Carcinofibroma
+M8935 / 0 stromal tümör, iyi huylu
+M9835 / 1 stromal tümör, NOS
+M8935 / 3 stromal sarkomu, NOS
+M8936 / 0 Gastrointestinal stromal tümör, iyi huylu
+M8936 / 1 Gastrointestinal stromal tümör, NOS
+M8936 / 3 Gastrointestinal stromal sarkom
+M8940 / 3 Karma tümör, habis, NOS
+Pleomorfik adenom olarak M8941 / 3 Karsinomu
+M8950 / 3 Müllerian mikst tümör
+M8951 / 3 Mezodermal karışık tümör
+M8959 / 0 Benign kistik nefroma
+M8959 / 1 Kistik kısmen farklılaşmış nefroblastom
+M8959 / 3 Malign kistik nefroma
+M8960 / 1 mezoblastik nefroma
+M8963 / 3 habis tümör rabdoid
+Böbreğin M8964 / 3 Berrak hücreli sarkoma
+M8965 / 0 Nefrojen adenofibroma
+M8966 / 0 renomedüller interstisyel hücre tümörü
+Böbrek tümörü ossifiye M8967 / 0
+M8970 / 3 Hepatoblastom
+M8971 / 3 pankreatoblastom
+M8972 / 3 Pulmoner blastom
+M8973 / 3 plöropulmoner blastom
+M8974 / 1 Sialoblastoma
+M8980 / 3 Karsinosarkom, NOS
+M8981 / 3 Karsinosarkom, embriyonal
+M8982 / 0 miyoepitelyoma
+M8982 / 3 Malign miyoepitelyoma
+M8983 / 0 Adenomiyoepiteliyoma
+M8990 / 0 Mesencymoma benign
+M8990 / 1 Mesenchymoma, NOS
+M8990 / 3 Mesenchymoma, malign
+M8991 / 3 Embriyonel sarkomu
+9000-9030) Fibroepitelyal Tümörleri.
+M9000 / 1 Brenner tümörü, sınırda malignite
+M9000 / 3 Brenner tümörü, malign
+M9010 / 0 Fibroadenom, NOS
+M9011 / 0 Intrakanaliküler fibroadenom
+M9012 / 0 Pericanalicular fibroadenom
+M9013 / 0 Adenofibroma, NOS
+M9014 / 0 Seröz adenofibroma, NOS
+Sınır malignite M9014 / 1 Seröz adenofibroma
+M9014 / 3 Seröz adenocarcinofibroma
+M9015 / 0 Müsinöz adenofibroma, NOS
+Sınır malignite M9015 / 1 müsinöz adenofibroma
+M9015 / 3 müsinöz adenocarcinofibroma
+M9016 / 0 Gian fibroadenom
+M9020 / 0 Phyllodes tümörü, selim
+M9020 / 1 Phyllodes tümörü, sınırda
+M9020 / 3 Phyllodes tümörü, malign
+M9030 / 0 Çocuk fibroadenom
+904 Sinovyal-gibi Tümörleri.
+M9040 / 0 sinovyoma benign
+M9041 / 3 Sinovyal sarkom, iğ hücreli
+M9042 / 3 Sinovyal sarkom, epiteloid hücre
+M9043 / 3 Sinovyal sarkom, bifazik
+M9044 / 3 Berrak hücreli sarkomu, (/ 3 kiney M9864 hariç) NOS
+905 Mezotelyal Tümörleri.
+M9051 / 0 Lifli mezotelyoma, iyi huylu
+M9051 / 3 Lifli mezotelyoma, malign veya NOS
+M9052 / 0 Epitelioid mezotelyoma, iyi huylu
+M9052 / 3 Epitelioid mezotelyoma, malign veya NOS
+M9053 / 3 Mezotelyoma, bifazik malign veya NOS
+M9054 / 0 Adenomatoid tümörler, NOS
+M9055 / 0 Multikistik mezotelyoma, iyi huylu
+M9055 / 1 kistik mezotelyoma, NOS
+906-909 Germ hücre Tümörleri.
+M9061 / 3 seminoma, NOS
+M9062 / 3 seminoma, anaplastik
+M9063 / 3 Spermatositik seminomu
+M9064 / 2 İntratübüler malign germ hücreleri
+M9065 / 3 Germ hücreli tümör, Nonseminomatöz
+M9072 / 3 Polyembryoma
+M9073 / 1 gonadoblastom
+M9080 / 1 Teratoma, NOS
+M9081 / 3 Teratokarsinom
+M9082 / 3 malign teratom, farklılaşmamış
+M9083 / 3 Malign teratom, ara
+Malign transformasyon ile M9084 / 3 Teratom
+M9085 / 3 mikst germ hücreli tümör
+M9090 / 0 Struma ovarii, NOS
+M9090 / 3 Struma ovarii, malign
+M9091 / 1 strumal karsinoid
+910 Trofoblastik tümörleri.
+M9100 / 0 Hydatidifrom köstebek, NOS
+M9100 / 1 İnvaziv hidatidiform mol
+Diğer germ hücre elemanları ile birlikte M9101 / 3 Koryokarsinom
+M9102 / 3 Malign teratom, trofoblastik
+M9103 / 0 parsiyel molar
+M9104 / 1 Plasental site trofoblastik tümör
+M9105 / 3 trofoblastik tümör, epiteloid
+911 Mesonephromas.
+M9110 / 0 Mesonephroma benign
+M9110 / 1 mezonefrik tümörü, NOS
+M9110 / 3 Mesonephroma, malign
+912-916 Kan damarı tümörler.
+M9121 / 0 Kavernöz hemanjiom
+M9122 / 0 Venöz hemanjiom
+M9123 / 0 salkım şeklinde hemanjiom
+M9124 / 3 Kupffer hücre sarkomu
+M9125 / 0 Epitelioid hemanjiom
+M9130 / 3 hemanjioendotelyoma, malign
+M9131 / 0 Kılcal hemanjiom
+M9132 / 0 İntramüsküler hemanjiom
+M9133 / 1 Epiteloid hemanjioendotelioma, NOS
+M9133 / 3 Epiteloid hemanjioendotelioma, malign
+M9135 / 1 Endovasküler papiller angioendothelioma
+M9136 / 1 Mil hücre hemangioendotelioma
+M9141 / 0 Angiokeratoma
+M9142 / 0 Verrüköz keratotik hemanjiom
+M9150 / 0 Hemanjioperisitom benign
+M9150 / 1 Hemanjioperisitom, NOS
+M9150 / 3 Hemanjioperisitom, malign
+M9160 / 0 anjiyofibrom, NOS
+M9161 / 0 Edinilen püsküllü hemanjiom
+M9161 / 1 Hemangioblastom
+917 Lenfatik damar tümörleri.
+M9170 / 3 lenfanjiyosarkoma
+M9171 / 0 Kılcal lenfanjiyoma
+M9172 / 0 Kavernöz lenfanjiom
+M9174 / 0 lenfanjiyomiyom
+M9174 / 1 Lenfanjiyomiyomatozis
+M9175 / 0 Hemolymphangioma
+918-924 Kemik Ve kondromatöz tümörleri.
+M9181 / 3 Kondroblastik osteosarkom
+M9182 / 3 Fibroblastik osteosarkom
+M9183 / 3 Telangeictatic osteosarkom
+Kemiğin Paget hastalığında M9184 / 3 Osteosarkom
+M9185 / 3 Küçük hücreli osteosarkom
+M9186 / 3 Orta osteosarkom
+M9187 / 3 İntraosseöz iyi diferansiye osteosarkom
+M9191 / 0 Osteoid osteom, NOS
+M9192 / 3 parosteal osteosarkom
+M9193 / 3 Periosteal osteosarkom
+M9194 / 3 Yüksek dereceli yüzey osteosarkom
+M9195 / 3 intrakortikal osteosarkom
+M9200 / 0 Osteoblastmoa, NOS
+M9200 / 1 Agresif osetoblastoma
+M9210 / 1 osteokondromatozis, NOS
+M9220 / 1 Condromatosis, NOS
+M9221 / 0 Juxtacortical kondroma
+M9221 / 3 Juxtacortical kondrosarkom
+M9230 / 0 Kondroblastom, NOS
+M9230 / 3 Kondroblastom, malign
+M9231 / 3 Miksoid kondrosarkom
+M9240 / 3 Mezenkimal kondrosarkom
+M9241 / 0 Kondromiksoid fibroma
+M9242 / 3 Temizle hücre kondrosarkom
+M9243 / 3 Dediferansiye kondrosarkom
+925 Dev hücreli tümörler.
+M9250 / 1 kemik dev hücreli tümör, NOS
+Kemiğin M9250 / 3 Dev hücreli tümör, malign
+Yumuşak parça M9251 / 1 Dev hücreli tümör, NOS
+Yumuşak parça M9251 / 3 Malign dev hücreli tümör
+M9252 / 0 tenosinovyal dev hücreli tümör
+M9252 / 3 Malign tenosinovyal dev hücreli tumoe
+926 Çeşitli kemik tümörleri (C40._, C41._).
+Uzun kemiklerin M9261 / 3 adamantinom
+M9262 / 0 ossifaying fibrom
+927-934 Odontojen tümörler C41._).
+M9270 / 0 Odontojen tümörü, selim
+M9270 / 1 Odontojen tümörü, NOS
+M9270 / 3 Odontojen tümörü, malign
+M9271 / 0 ameloblastik fibrodentinoma
+M9272 / 0 sementoma, NOS
+M9274 / 0 cementifying fibroma
+M9275 / 0 Gigantiform sementoma
+M9280 / 0 Odontoma, NOS
+M9281 / 0 Bileşik odontoma
+M9282 / 0 Kompleks odontoma
+M9290 / 0 ameloblastik fibro-odontoma
+M9290 / 3 ameloblastik odontosarcoma
+M9300 / 0 Adenomatoid odontojenik tümör
+M9301 / 0 Kalsifiye odontojenik kist
+M9302 / 0 Odontojen hayalet hücre tümörü
+M9310 / 3 Ameloblastom, malign
+M9311 / 0 Odontoameloblastoma
+M9312 / 0 Yassı odontojenik tümör
+M9320 / 0 Odontojen miksoma
+M9321 / 0 Orta odontojenik fibroma
+M9322 / 0 Periferik odontojenik fibroma
+M9330 / 0 ameloblastik fibrom
+M9330 / 3 ameloblastik fibrosarkomadır
+M9340 / 0 Kalsifiye epitelyal odontojenik tümör
+M9341 / 1 berrak hücreli odontojenik tümördür
+M9342 / 3 Odontojen karsinosarkom
+935-937 Diğer tümörler.
+M9351 / 1 Kraniyofarenjiyom, Adamantinomatöz
+M9352 / 1 Kraniyofarenjiyom, papiller
+M9360 / 1 pinealoma
+M9361 / 1 pineositoma
+M9362 / 3 pineoblastoma
+M9363 / 0 melanotik nöroektodermal tümör
+M9364 / 3 Çevresel nöroektodermal tümör
+Periferik primitif nöroektodermal tümör, NOS (PPNET)
+M9365 / 3 Askin Tümör
+M9370 / 3 Kordoma, NOS
+M9371 / 3 Kondroid kordoma
+M9372 / 3 Dediferansiye chorcoma
+M9373 / 0 Parachordoma
+938-948 Gliomalar.
+M9380 / 3 Glioma, malign
+M9381 / 3 Gliomatozis serebri
+M9383 / 1 Subepyndymoma
+M9384 / 1 subependimal dev hücreli astrositom
+M9390 / 0 Koroid pleksus papilloma, NOS
+M9390 / 1 Atipik koroid pleksus papilloma
+M9390 / 3 Koroid pleksus karsinomu
+M9322 / 3 Ependimoma, anaplastik
+M9393 / 3 Papiller ependimoma
+M9394 / 1 Miksopapiller ependimoma
+M9401 / 3 Astrositom, anaplastik
+M9410 / 3 protoplazmik astrositom
+M9411 / 3 Gemistocytic astrositom
+M9412 / 1 Desmoplastik infantil astrositom veya ganglioglioma
+M9413 / 0 Disembriyoplastik nöroepitelyal tümör
+M9420 / 3 fibriler astrositom
+M9421 / 1 Pilositik astrositom
+M9423 / 3 Polar spongioblastoma
+M9424 / 3 pleomorfik xanthoastrocytoma
+M9430 / 3 Astroblastom
+M9440 / 3 Glioblastoma, NOS
+M9441 / 3 Dev hücreli glioblastoma
+M9442 / 1 gliofibroma
+M9442 / 3 gliyosarkom
+M9444 / 1 kordoid glioma
+M9451 / 3 Oligodendroglioma, anaplastik
+M9460 / 3 Oligodendroblastoma
+M9470 / 3 Medullablastoma, NOS
+M9471 / 3 Desmoplastik nodüler medülloblastom
+M9472 / 3 medullomyoblastomadır
+M9473 / 3 İlkel nöroektodermal tümör, NOS
+M9474 / 3 büyük hücreli medulloblastomdur
+M9480 / 3 Serebellar sarkomu, NOS
+949-952 Neuroepitheliomatous tümörleri.
+M9490 / 0 Ganglionöroma nadir
+M9490 / 3 ganglionöroblastom
+M9491 / 0 Ganglioneuromatosis
+M9492 / 0 gangliositoma
+M9493 / 0 beyincik Displastik gangliositoma (Lhermitte-Duclos)
+M9501 / 0 Medulloepithelioma benign
+M9501 / 3 Medulloepithelioma, NOS
+M9502 / 0 Teratoid medulloepithelioma, iyi huylu
+M9502 / 3 Teratoid medulloepithelioma
+M9503 / 3 Neuroepithelioma, NOS
+M9504 / 3 Spongioneuroblastoma
+M9505 / 1 Ganglioglioma, NOS
+M9505 / 3 Ganglioglioma, anaplastik
+M9506 / 1 Santral nörositoma
+M9507 / 0 Pacinian tümör
+M9508 / 3 Atipik teratoid / rabdoid tümör
+M9510 / 0 Retinocytoma
+M9511 / 3 Retinoblastom, farklılaştırılmış
+M9512 / 3 Retinoblastom, farklılaşmamış
+M9513 / 3 Retinoblastom, yaygın
+M9514 / 1 Retinoblastoma, kendiliğinden geriledi
+M9520 / 3 Olfaktor nörojenik tümör
+M9521 / 3 Koku nörositoma
+M9522 / 3 Koku nöroblastom
+M9523 / 3 Koku neuroepithelioma
+953 Meningiomlar.
+M9530 / 0 Meningioma, NOS
+M9530 / 1 Meningiomatosis, NOS
+M9530 / 3 Meningioma, malign
+M9531 / 0 meningotelyal meningioma
+M9532 / 0 Fibröz meningioma
+M9533 / 0 psammomatöz meningioma
+M9534 / 0 Anjiomatöz meningioma
+M9537 / 0 Geçici meningioma
+M9538 / 1 Temizle hücre menenjiomu
+M9538 / 3 Papiller meningioma
+M9539 / 1 Atipik meningiom
+M9539 / 3 Meningial sarkomatozisler
+954-957 Sinir kılıfı tümörleri.
+M9540 / 3 Malign periferik sinir kılıfı tümörü
+M9541 / 0 melanotik nörofibroma
+M9550 / 0 Pleksiform nörofibroma
+M9560 / 0 Neurilemoma, NOS
+M9560 / 1 Neurinomatosis
+Rabdomiyoblastik farklılaşma ile M9561 / 3 Malign periferik sinir kılıfı tümörü
+M9562 / 0 Neurothekeoma
+M9570 / 0 Nöroma, NOS
+M9571 / 0 Perineurioma, NOS
+M9571 / 3 Perineurioma, malign
+958 granüler hücreli tümörler ve Alveoler yumuşak kısım sarkomu.
+M9580 / 0 Granüler hücreli tümör / miyoblastom, NOS
+M9580 / 3 Granüler hücreli tümör / miyoblastom, malign
+M9581 / 3 Alveoler yumuşak kısım sarkomu
+Sellar bölge M9582 / 0 Granüler hücreli tümör (C75.1)
+959 Malign lenfoma, NOS, Ya yaygın.
+M9596 / 3 Kompozit Hodgkin ve non-Hodgkin lenfoma
+965-966 Hodgkin Lenfoma.
+M9654 / 3 Hodgkin lenfoma, lenfosit tükenmesi, yaygın fibrozis
+M9655 / 3 Hodgkin lenfoma, lenfosit tükenmesi, retiküler
+M9661 / 3 Hodgkin granülom
+M9662 / 3 Hodgkin sarkomu
+M9664 / 3 Hodgkin lenfoma, nodüler skleroz, hücresel faz
+M9665 / 3 Hodgkin lenfoma, nodüler skleroz, grade 1
+M9667 / 3 Hodgkin lenfoma, nodüler skleroz, sınıf 2
+967-969 Olgun B-hücresi Lenfomalar.
+M9675 / 3 Malign lenfoma, karma küçük ve büyük hücreli, yaygın "(ayrıca M9690 / 3'e bakın)"
+M9684 / 3 Malign lenfoma, büyük B hücreli, dağınık, immünoblastik, NOS
+M9691 / 3 Foliküler lenfoma, sınıf 2
+970-971 Olgun T ve NK hücre Lenfomalar.
+M9709 / 3 Kutanöz T hücreli lenfoma, BBT (C44._)
+973 Plazma hücreli tümörler.
+M9733 / 3 Plazma hücreli lösemi (C42.1)
+Histiositlerin ve Aksesuar Lenfoid Hücreleri 975 Tümörleri.
+M9750 / 3 Malign histiositozis
+M9752 / 1 Langerhans hücreli histiyositoz, unifokal
+M9753 / 1 Langerhans hücreli histiyositoz, multifokal
+M9754 / 3 Langerhans hücreli histiyositoz, yaygın
+976 immunoproliferatif hastalıklar.
+M9760 / 3 immunoproliferatif hastalığı, NOS
+M9762 / 3 Ağır zincir hastalığı, NOS
+M9764 / 3 immunoproliferatif ince bağırsak hastalığı (C17._)
+Önemi belirsiz M9765 / 1 monoklonal gamopati
+() Anjiosentrik immunoproliferatif lezyon
+M9767 / 1 Anjioimmünoblastik lenfadenopati
+M9768 / 1 T-gamma lenfoproliferatif hastalık
+M9769 / 1 Immunoglobulin biriktirme hastalığı
+(982-983) Lenfoid lösemiler (C42.1).
+M9832 / 3 prolenfositik lösemi, NOS
+984-993 myeloid lösemiler (C42.1).
+(9850-9859) Lenfosarcoma hücre lösemisi
+(9860-9869) Myeloid (Granulositik) Lösemiler
+FAB-M3 (tüm türevlerini içerir)
+) Akut miyelomonositik lösemi
+Tedavi ile ilişkili akut miyeloid lösemi, alkilleyici ajan / epipodofilotoksi ilgili
+) Akut) myelofibrozis (C42.1 ile panmyelosis
+994 Diğer Lösemiler (C42.1).
+M9945 / 3 Kronik miyelomonositik lösemi, NOS
+997 Diğer Hematolojik Hastalıklar.
+M9775 / 1 Myeloproliferatif hastalığı, NOS
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>ESPN Oyun sezon-by-sezon programları</DOCTITLE>
+<TEXT>
+
+Aşağıdaki out-of-market spor paketinde, ESPN Oyun için yıllık hafta-by haftalık yayın programları bir listesidir.
+1992.
+Bu ESPN Oyun ilk yılıydı (sadece 1992 için "Seçenek Oynat" denir ve ABC tarafından dağıtılan ve Pay-Per-View SET). ABC havalandırma Sadece oyun paketinin ilk birkaç yıl için teklif edildi.
+2. Hafta (1992/09/05)
+03:30 ET
+Hafta 3 (1992/09/12)
+03:30 ET
+4. Hafta (1992/09/19)
+ÖĞLE ET
+Hafta 5 (1992/09/26)
+03:30 ET
+6. Hafta (1992/10/03)
+03:30 ET
+7. Hafta (1992/10/10)
+03:30 ET
+Hafta 8 (1992/10/17) (Editörün notu: Bu sanatçısını TÜM oyunlar başına ödeme görünümü sunulan olsaydı teyit değildir; başlangıçta ABC ve Showtime üç maçta (tipik 03:30 ET kadar teklif Blok). 06:30 ET California / USC oyunu west coast ABC izleyiciler sadece oldu. Oyun daha sonra yıllarda, ABC tüm batı kıyısında yalnızca teklifleri Oyun alındı).
+ÖĞLE ET
+03:30 ET
+06:30 ET: Kaliforniya @ USC
+9. Hafta (1992/10/24)
+03:30 ET
+10. Hafta (1992/10/31)
+03:30 ET
+Hafta 11 (1992/11/07)
+03:30 ET
+12. Hafta (1992/11/14)
+03:30 ET
+Hafta 13 (1992/11/21)
+03:30 ET
+1993.
+Paket bu sezon için "Bilet" adını aldı; o da katılımı ESPN ilk yıl.
+2. Hafta (1993/09/04)
+03:30 ET
+Hafta 3 (1993/09/11)
+03:30 ET
+4. Hafta (1993/09/18)
+03:30 ET
+Hafta 5 (1993/09/25)
+03:30 ET
+6. Hafta (1993/10/02)
+ÖĞLE ET
+07:00 ET: USC @ Arizona
+7. Hafta (1993/10/09)
+03:30 ET
+Hafta 8 (1993/10/16)
+ÖĞLE ET
+03:30 ET
+9. Hafta (1993/10/23)
+03:30 ET
+10. Hafta (1993/10/30)
+ÖĞLE ET
+03:30 ET
+Hafta 11 (1993/11/06)
+03:30 ET
+12. Hafta (1993/11/13)
+03:30 ET
+Hafta 13 (1993/11/20)
+03:30 ET
+14. Hafta
+11/26, 11:00 ET
+11/27, ÖĞLE ET
+1994.
+Paketi "ESPN ABC Koleji Futbol Pay-Per-View." Adını almıştır
+2. Hafta (1994/09/03)
+03:30 ET
+08:00 ET
+Hafta 3 (1994/09/10)
+03:30 ET
+4. Hafta (1994/09/17)
+03:30 ET
+Hafta 5 (1994/09/24)
+03:30 ET
+6. Hafta (1994/10/01)
+03:30 ET
+7. Hafta (1994/10/08)
+ÖĞLE ET
+03:30 ET
+Hafta 8 (1994/10/15)
+ÖĞLE ET
+07:00 ET: USC @ Stanford
+9. Hafta (1994/10/22)
+03:30 ET
+10. Hafta (1994/10/29)
+03:30 ET
+Hafta 11 (1994/11/05)
+03:30 ET
+12. Hafta (1994/11/12)
+03:30 ET
+Hafta 13 (1994/11/19)
+03:30 ET
+14. Hafta
+11/25, 11:00 ET
+11/25, 06:00 ET: Arizona State @ Arizona
+1995.
+2. Hafta (1995/09/02)
+03:30 ET
+08:00 ET
+Hafta 3 (1995/09/09)
+ÖĞLE ET
+07:00 ET: UCLA @ BYU
+4. Hafta (1995/09/16)
+03:30 ET
+Hafta 5 (1995/09/23)
+03:30 ET
+6. Hafta (1995/09/30)
+ÖĞLE ET
+Hafta 8 (1995/10/14)
+ÖĞLE ET
+03:30 ET
+07:00 ET: Arizona @ UCLA
+9. Hafta (1995/10/21)
+03:30 ET
+10. Hafta (1995/10/28)
+03:30 ET
+Hafta 11 (1995/11/04)
+03:30 ET
+12. Hafta (1995/11/11)
+03:30 ET
+Hafta 13 (1995/11/18)
+ÖĞLE ET
+03:30 ET
+14. Hafta
+11/24, 11:00 ET
+11/24, 06:00 ET: Arizona @ Arizona State
+11/25, ÖĞLE ET
+1996.
+Paketi "ESPN Oyun." Adını almıştır
+2. Hafta (1996/08/31)
+03:30 ET
+Hafta 3 (1996/09/07)
+ÖĞLE ET
+03:30 ET
+07:00 ET: Utah @ Stanford
+4. Hafta (1996/09/14)
+03:30 ET
+Hafta 5 (1996/09/21)
+ÖĞLE ET: Notre Dame @ Texas
+03:30 ET
+07:00 ET: Oregon @ Washington State
+6. Hafta (1996/09/28)
+03:30 ET
+7. Hafta (1996/10/05)
+03:30 ET
+Hafta 8 (1996/10/12)
+03:30 ET
+9. Hafta (1996/10/19)
+03:30 ET
+10. Hafta (1996/10/26)
+03:30 ET
+Hafta 11 (1996/11/02)
+ÖĞLE ET
+03:30 ET
+07:00 ET: San Diego State @ San Jose State
+12. Hafta (1996/11/09)
+03:30 ET
+Hafta 13 (1996/11/16)
+03:30 ET
+14. Hafta (1996/11/23)
+03:30 ET
+1997.
+2. Hafta (1997/08/30)
+03:30 ET
+Hafta 3 (1997/09/06)
+03:30 ET
+4. Hafta (1997/09/13)
+03:30 ET
+Hafta 5 (1997/09/20)
+03:30 ET
+6. Hafta (1997/09/27)
+ÖĞLE ET
+07:00 ET: USC @ Kaliforniya
+7. Hafta (1997/10/04)
+03:30 ET
+Hafta 8 (1997/10/11)
+03:30 ET
+9. Hafta (1997/10/18)
+03:30 ET
+10. Hafta (1997/10/25)
+03:30 ET
+Hafta 11 (1997/11/01)
+03:30 ET
+12. Hafta (1997/11/08)
+03:30 ET
+Hafta 13 (1997/11/15)
+03:30 ET
+14. Hafta (1997/11/22)
+03:30 ET
+Hafta 15 (1997/11/29)
+01:00 ET
+1998.
+1. Hafta (1998/09/05) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+03:30 ET
+2. Hafta (1998/09/12)
+03:30 ET
+Hafta 3 (1998/09/19)
+03:30 ET
+4. Hafta (1998/09/26)
+ÖĞLE ET
+03:30 ET
+07:00 ET: Washington State @ Kaliforniya
+Hafta 5 (1998/10/03)
+ÖĞLE ET: 7. Penn State 1. Ohio State @
+03:30 ET
+07:00 ET: Arizona State 21. USC @
+6. Hafta (1998/10/10)
+03:30 ET
+7. Hafta (1998/10/17)
+03:30 ET
+Hafta 8 (1998/10/24)
+03:30 ET
+9. Hafta (1998/10/31) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+03:30 ET
+10. Hafta (1998/11/07)
+ÖĞLE ET: 9. Penn State @ Michigan
+03:30 ET
+07:00 ET: Fresno State @ San Diego State
+Hafta 11 (1998/11/14)
+03:30 ET
+12. Hafta (1998/11/21)
+03:30 ET
+Hafta 13 (1998/11/28)
+01:00 ET
+1999.
+1. Hafta (1998/09/05) "AP Anket Hafta 9 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+2. Hafta (1999/09/11)
+03:30 ET
+08:00 ET
+Hafta 3 (1999/09/18)
+03:30 ET
+4. Hafta (1999/09/25)
+03:30 ET
+Hafta 5 (1999/10/02)
+03:30 ET
+6. Hafta (1999/10/09)
+ÖĞLE ET
+03:30 ET
+07:00 ET: California 24. BYU @
+7. Hafta (1999/10/16)
+ÖĞLE ET: 18. Ohio State 2. Penn State @
+03:30 ET
+07:00 ET: Arizona State @ Washington
+Hafta 8 (1999/10/23)
+03:30 ET
+9. Hafta (1999/10/30) "BCS Puan Durumu Hafta 12 nezaket yoluyla Sıralamalar"
+03:30 ET
+10. Hafta (1999/11/06)
+03:30 ET
+Hafta 11 (1999/11/13)
+ÖĞLE ET: 12. Michigan 7. Penn State @
+03:30 ET
+07:00 ET: USC @ Washington State
+12. Hafta (1999/11/20)
+03:30 ET
+Hafta 13 (1999/11/27)
+01:00 ET
+2000.
+1. Hafta (2000/09/02) "AP Anket Hafta 9 nezaket yoluyla Sıralamalar"
+03:30 ET
+2. Hafta (2000/09/09)
+03:30 ET
+08:00 ET
+Hafta 3 (2000/09/16)
+03:30 ET
+4. Hafta (2000/09/23)
+ÖĞLE ET: Penn State 14. Ohio State @
+03:30 ET
+07:00 ET: Air Force @ Utah
+Hafta 5 (2000/09/30)
+ÖĞLE ET
+03:30 ET
+07:00 ET: Air Force @ UNLV
+6. Hafta (2000/10/07)
+ÖĞLE ET
+03:30 ET
+07:00 ET: San Diego State @ Wyoming
+7. Hafta (2000/10/14)
+03:30 ET
+Hafta 8 (2000/10/21)
+03:30 ET
+9. Hafta (2000/10/28) "BCS Puan Durumu Hafta 12 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: 1. Nebraska 2. Oklahoma @
+03:30 ET
+07:00 ET: UCLA @ Arizona
+10. Hafta (2000/11/04)
+03:30 ET
+Hafta 11 (2000/11/11)
+01:00 ET
+07:00 ET: UCLA @ # 6 Washington
+12. Hafta (2000/11/18)
+03:30 ET
+2001.
+1. Hafta (2001/09/02) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+03:30 ET
+08:00 ET
+Hafta 3 (2001/09/22)
+ÖĞLE ET
+07:00 ET: San Diego State @ Colorado State
+4. Hafta (2001/09/29)
+ÖĞLE ET
+03:30 ET
+07:00 ET: 20. BYU @ UNLV
+Hafta 5 (2001/10/06)
+03:30 ET
+6. Hafta (2001/10/13)
+ÖĞLE ET: 2. Miami (FL) 14. Florida State @
+03:30 ET
+07:00 ET: San Diego State @ UNLV
+7. Hafta (2001/10/20)
+03:30 ET
+Hafta 8 (2001/10/27) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: 1. Oklahoma 2. Nebraska @
+03:30 ET
+07:00 ET: 13. Oregon State @ Washington
+9. Hafta (2001/11/03)
+03:30 ET
+10. Hafta (2001/11/10)
+ÖĞLE ET
+03:30 ET
+07:00 ET: 11. Stanford @ Arizona
+Hafta 11 (2001/11/17)
+03:30 ET
+12. Hafta (2001/11/24)
+08:00 ET
+Hafta 13 (2001/12/01)
+04:30 ET
+2002.
+1. Hafta (2002/08/31) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+03:30 ET
+Hafta 3 (2002/09/14)
+03:30 ET
+08:00 ET
+4. Hafta (2002/09/21)
+03:30 ET
+Hafta 5 (2002/09/28)
+03:30 ET
+6. Hafta (2002/10/05)
+03:30 ET
+7. Hafta (2002/10/12)
+03:30 ET
+Hafta 8 (2002/10/19)
+03:30 ET
+9. Hafta (2002/10/26) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+03:30 ET
+10. Hafta (2002/11/02)
+03:30 ET
+Hafta 11 (2002/11/09)
+ÖĞLE ET
+03:30 ET
+07:00 ET: 9. USC @ Stanford
+12. Hafta (2002/11/16)
+03:30 ET
+Hafta 13 (2002/11/23)
+03:30 ET
+14. Hafta (2002/11/30)
+01:00 ET
+08:00 ET
+2003.
+1. Hafta (2003/08/30) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Ole Miss @ Vanderbilt (Jefferson Pilot)
+03:30 ET
+04:30 ET: Hofstra @ Marshall (ESPN +)
+06:00 ET: San Jose State @ Florida (Sunshine Ağ PPV)
+07:00 ET: Güney Karolina @ Louisiana-Lafayette (CSS)
+08:00 ET
+2. Hafta (2003/09/06)
+ÖĞLE ET
+12:30 ET: 15. Virginia @ South Carolina (Jefferson Pilot)
+03:30 ET
+08:00 ET
+Hafta 3 (2003/09/13)
+ÖĞLE ET
+12:30 ET: Auburn @ Vanderbilt (Jefferson Pilot)
+02:00 ET: Minnesota @ Ohio (ESPN +)
+03:30 ET: Rutgers @ Ordusu (ESPN +)
+06:00 ET: Florida A & M 17. @ Florida (Sunshine Ağ PPV)
+08:00 ET
+4. Hafta (2003/09/20)
+ÖĞLE ET
+02:00 ET: Wyoming @ Air Force (SportsWest)
+03:30 ET
+06:30 ET: BYU @ Stanford (SportsWest)
+07:00 ET
+10:00 ET: Louisiana Tech @ Fresno State (SportsWest)
+Hafta 5 (2003/09/27)
+ÖĞLE ET
+12:30 ET: 25. Florida @ Kentucky (Jefferson Pilot)
+03:00 ET: Air Force @ BYU (ESPN +)
+03:30 ET
+04:00 ET: Western Kentucky @ Auburn (CSS / Auburn PPV)
+06:00 ET: Marshall @ Troy State (ESPN +)
+06:30 ET: Colorado State @ Utah (KJZZ)
+07:00 ET
+6. Hafta (2003/10/04)
+ÖĞLE ET
+12:30 ET: Ole Miss 24. @ Florida (Jefferson Pilot)
+03:00 ET
+03:30 ET
+07:00 ET
+07:30 ET: Ohio @ # 17 Northern Illinois (ESPN +)
+08:00 ET: SMU @ UTEP (Time Warner Cable El Paso)
+10:00 ET
+7. Hafta (2003/10/11)
+ÖĞLE ET
+12:30 ET
+02:00 ET: UNLV @ Air Force (ESPN +)
+03:30 ET
+07:00 ET: North Texas @ Idaho (ESPN +)
+08:00 ET: Boise State @ Tulsa (SportsWest)
+Hafta 8 (2003/10/18)
+ÖĞLE ET
+12:30 ET
+03:00 ET
+03:30 ET
+06:00 ET: BYU @ Wyoming (SportsWest)
+07:00 ET
+08:00 ET: Memphis @ Houston (WLMT)
+09:00 ET: San Diego State (SportsWest) @ New Mexico
+9. Hafta (2003/10/25) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Mississippi State @ Kentucky (Jefferson Pilot)
+03:00 ET: New Mexico @ Utah (ESPN +)
+03:30 ET
+07:00 ET
+08:00 ET: # Houston @ 15 TCU (ESPN +)
+10:00 ET: San Diego State @ Wyoming (SportsWest)
+10. Hafta (2003/11/01)
+ÖĞLE ET
+12:30 ET: South Carolina @ Ole Miss (Jefferson Pilot)
+01:00 ET: Central Florida @ Batı Virjinya (Sunshine Ağı)
+03:00 ET: Colorado State @ Wyoming (ESPN +)
+03:30 ET
+04:00 ET: Duke 15. Tennessee (CSS) @
+04:30 ET: Akron @ Marshall (ESPN +)
+06:00 ET: Arkansas State @ New Mexico State (ESPN +)
+07:00 ET: 8. Washington State @ # 4 USC (ABC)
+08:00 ET
+Hafta 11 (2003/11/08)
+ÖĞLE ET
+12:30 ET: Alabama @ Mississippi State (Jefferson Pilot)
+01:00 ET: Vanderbilt @ # 17 Florida (Sunshine Ağ PPV)
+03:00 ET
+04:00 ET: Tulane @ UAB (CSS)
+05:00 ET: San Jose State @ UTEP (SportsWest)
+07:00 ET: UCLA @ # 15 Washington State (ABC)
+08:00 ET: Troy State @ Middle Tennessee (ESPN +)
+12. Hafta (2003/11/15)
+ÖĞLE ET
+12:30 ET
+03:00 ET
+03:30 ET
+06:30 ET: Wyoming @ Utah (KJZZ)
+07:00 ET: Idaho @ Louisiana-Monroe (ESPN +)
+Hafta 13 (2003/11/22)
+ÖĞLE ET
+12:30 ET: Kentucky @ 6. Gürcistan (Jefferson Pilot)
+01:00 ET: Vanderbilt @ 7. Tennessee (CSS)
+03:00 ET: 24. Utah @ BYU (ESPN +)
+03:30 ET
+07:00 ET
+09:00 ET: Air Force @ San Diego State (SportsWest)
+14. Hafta (2003/11/29)
+12:30 ET: 8. Tennessee @ Kentucky (Jefferson Pilot)
+01:00 ET
+02:00 ET: Wyoming @ UNLV (SportsWest)
+03:00 ET: Nevada @ # 19 Boise State (SportsWest)
+03:30 ET: Montana State @ Kuzey Iowa (NCAA Productions)
+08:00 ET
+Hafta 15 (2003/12/06) "Division 1-AA Playoff"
+ÖĞLE ET: Western Illinois @ Colgate
+02:00 ET: Kuzey Iowa @ Delaware
+03:30 ET: Western Kentucky @ Wofford
+07:00 ET: Florida Atlantic @ Northern Arizona
+2004.
+1. Hafta (2004/09/04) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: South Carolina @ Vanderbilt (Jefferson Pilot)
+03:30 ET
+04:30 ET: Troy @ Marshall (ESPN +)
+07:00 ET: Utah State @ Alabama (ACN Spor / CSS)
+GECE YARISI ET: Florida Atlantic @ Hawaii (KFVE)
+2. Hafta (2004/09/11)
+ÖĞLE ET
+12:30 ET: # 18 Auburn @ Mississippi State (Jefferson Pilot)
+01:00 ET: Eastern Michigan 11. @ Florida (Sunshine Ağ PPV)
+03:30 ET
+06:00 ET: Syracuse @ Buffalo (ESPN +)
+07:00 ET: Louisiana Tech @ Louisiana-Lafayette (ESPN +)
+08:00 ET
+Hafta 3 (2004/09/18)
+ÖĞLE ET
+12:30 ET: Vanderbilt @ Ole Miss (Jefferson Pilot)
+01:00 ET: Marshall 3. Gürcistan (ESPN +) @
+02:00 ET: Ohio Miami (Ohio) @ (ESPN +)
+03:00 ET: Florida Atlantic @ Middle Tennessee (ESPN +)
+03:30 ET
+07:00 ET: Western Carolina @ Alabama (ACN Spor / CSS)
+08:00 ET: Rice @ Hawaii (SportsWest)
+09:00 ET: 23. Boise State @ UTEP (SportsWest)
+4. Hafta (2004/09/25)
+ÖĞLE ET
+12:30 ET: Mississippi State 13. @ LSU (Jefferson Pilot)
+01:30 ET: 24. Louisville @ North Carolina (41 58 / Fox Büyük)
+03:00 ET
+03:30 ET
+07:00 ET
+09:00 ET: San Diego State @ Nevada (SportsWest)
+10:00 ET: UNLV @ Utah State (SportsWest)
+Hafta 5 (2004/10/02)
+ÖĞLE ET
+01:00 ET: TCU @ Ordusu (Ordu Television)
+03:00 ET: East Carolina @ # 22 Louisville (ESPN +)
+03:30 ET
+07:00 ET
+08:00 ET: SMU @ 23. Boise State (SportsWest)
+10:00 ET: BYU @ Colorado State (SportsWest)
+6. Hafta (2004/10/09)
+ÖĞLE ET
+12:30 ET: Alabama @ Kentucky (Jefferson Pilot)
+01:00 ET: Ole Miss @ # 25 South Carolina (CSS)
+03:30 ET
+06:30 ET: New Mexico @ Hava Kuvvetleri (SportsWest)
+08:00 ET: Rutgers @ Vanderbilt (WUXP)
+10:00 ET: Fresno State @ UTEP (Time Warner Cable)
+7. Hafta (2004/10/16)
+ÖĞLE ET
+12:30 ET: Vanderbilt @ 12. Gürcistan (Jefferson Pilot)
+03:00 ET: New Mexico @ UNLV (ESPN +)
+03:30 ET
+06:00 ET: Louisiana Tech @ SMU (ESPN +)
+07:00 ET
+08:00 ET: 21. Boise State @ Tulsa (KBCI)
+09:00 ET: Hawaii @ UTEP (ESPN +)
+10:00 ET
+Hafta 8 (2004/10/23) "BCS Puan Durumu Hafta 13 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: 22. Florida @ Mississippi State (Jefferson Pilot)
+03:00 ET
+03:30 ET
+06:30 ET: San Diego State @ New Mexico (SportsWest)
+07:00 ET
+08:00 ET: Troy 19. @ LSU (TigerVision)
+GECE YARISI ET: San Jose State @ Hawaii (KFVE)
+9. Hafta (2004/10/30)
+ÖĞLE ET
+12:30 ET: 12. Tennessee @ South Carolina (Jefferson Pilot)
+03:00 ET
+03:30 ET
+05:00 ET: San Jose State @ UTEP (Time Warner Cable El Paso)
+07:00 ET
+08:00 ET: Vanderbilt 20. LSU (TigerVision) @
+09:00 ET: 6. Utah, San Diego State (KJZZ) @
+10. Hafta (2004/11/06)
+ÖĞLE ET
+12:30 ET
+03:00 ET: San Diego State @ BYU (ESPN +)
+03:30 ET
+07:00 ET: UNLV @ Wyoming (SportsWest)
+09:00 ET: San Jose State @ Nevada (SportsWest)
+GECE YARISI ET: Louisiana Tech @ Hawaii (KFVE)
+Hafta 11 (2004/11/13)
+ÖĞLE ET
+12:30 ET: Ole Miss @ Arkansas (Jefferson Pilot)
+03:00 ET: San Diego State @ Air Force (ESPN +)
+03:30 ET
+06:00 ET: SMU @ Nevada (SportsWest)
+07:00 ET
+08:00 ET: Tulsa @ Louisiana Tech (SportsWest)
+12. Hafta (2004/11/20)
+ÖĞLE ET
+12:30 ET: 17. Tennessee @ Vanderbilt (Jefferson Pilot)
+01:00 ET
+03:00 ET
+03:30 ET: South Florida @ Cincinnati (Konferans ABD TV)
+04:30 ET: Western Michigan @ Marshall (ESPN +)
+05:00 ET: 10. Louisville @ Houston (Fox 41)
+06:00 ET: Miami (Ohio) Akron @ (Comcast Spor Ohio)
+07:00 ET: Washington State @ Washington (ABC)
+08:00 ET: Ole Miss 16. LSU (TigerVision) @
+09:00 ET: Fresno State @ Nevada (SportsWest)
+10:00 ET: San Diego State @ UNLV (SportsWest)
+GECE YARISI ET: Idaho @ Hawaii (KFVE)
+Hafta 13 (2004/11/27)
+12:30 ET: Kentucky @ # 15 Tennessee (Jefferson Pilot)
+01:00 ET
+05:00 ET: Fresno State @ San Jose State (SportsWest)
+GECE YARISI ET: Kuzeybatı Hawaii (KFVE) @
+14. Hafta (2004/12/04) "Division 1-AA Playoff"
+ÖĞLE ET: William & Mary @ Delaware
+03:30 ET: James Madison @ Furman
+07:00 ET: Eastern Washington Sam Houston State @
+03:30 ET: 9. Louisville @ Tulane (ESPN +)
+2005.
+1. Hafta (2005/09/03) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: UAB @ # 3 Tennessee (Jefferson Pilot)
+03:30 ET
+06:00 ET: Wyoming @ # 10 Florida (Sun Sports PPV)
+08:00 ET
+2. Hafta (2005/09/10)
+ÖĞLE ET
+12:30 ET: Mississippi State @ Auburn (Jefferson Pilot)
+03:00 ET: BYU @ Eastern Illinois (SportsWest)
+03:30 ET
+06:00 ET: Louisiana Tech @ # 10 Florida (Sun Sports PPV)
+08:00 ET
+10:00 ET: Idaho @ UNLV (Idaho TV)
+Hafta 3 (2005/09/17)
+ÖĞLE ET
+12:30 ET: Ole Miss @ Vanderbilt (Jefferson Pilot)
+01:00 ET: Louisiana-Monroe @ 7. Gürcistan (CSS)
+02:30 ET: Auburn @ Ball State (Kumral PPV / CSS)
+03:30 ET
+07:00 ET: UCF @ South Florida (FSN Florida)
+08:00 ET: Rutgers @ Buffalo (ESPN +)
+08:30 ET: Florida Atlantic @ Minnesota (Big Ten Productions)
+4. Hafta (2005/09/24)
+ÖĞLE ET
+12:30 ET: Arkansas @ # 20 Alabama (Jefferson Pilot)
+03:00 ET: TCU @ BYU (ESPN +)
+03:30 ET
+07:00 ET
+08:00 ET
+Hafta 5 (2005/10/01)
+ÖĞLE ET
+12:30 ET: Ole Miss @ 10. Tennessee (Jefferson Pilot)
+02:30 ET: 4. LSU @ Mississippi State (TigerVision)
+03:00 ET: Wyoming @ UNLV (SportsWest)
+03:30 ET
+07:00 ET
+10:00 ET: BYU San Diego State @ (SportsWest)
+GECE YARISI ET: Hawaii @ Boise State (KTVB)
+6. Hafta (2005/10/08)
+ÖĞLE ET
+12:30 ET: Mississippi State 13. @ Florida (Jefferson Pilot)
+03:00 ET: San Diego State @ UNLV (ESPN +)
+03:30 ET
+04:30 ET: North Carolina 23. Louisville (whas) @
+06:30 ET: Colorado State @ Utah (KJZZ)
+07:00 ET: Louisiana Tech @ Hawaii (ESPN +)
+08:00 ET
+7. Hafta (2005/10/15)
+ÖĞLE ET
+03:00 ET: New Mexico @ Wyoming (ESPN +)
+03:30 ET
+07:00 ET: San Diego State @ Utah (ABC)
+08:00 ET: San Jose State @ Boise State (KTVB)
+10:00 ET: BYU @ Colorado State (SportsWest)
+Hafta 8 (2005/10/22) "BCS Puan Durumu Hafta 13 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Arkansas @ 4. Gürcistan (Jefferson Pilot)
+03:00 ET
+03:30 ET
+06:00 ET: San Jose State @ Hawaii (Comcast SportsNet)
+07:00 ET
+10:00 ET: San Diego State (SportsWest) @ New Mexico
+9. Hafta (2005/10/29)
+ÖĞLE ET
+12:30 ET: Ole Miss @ # 22 Auburn (Jefferson Pilot)
+03:00 ET
+03:30 ET
+07:00 ET: Hawaii @ Fresno State (ABC)
+08:00 ET
+10. Hafta (2005/11/05)
+ÖĞLE ET
+12:30 ET: South Carolina @ Arkansas (Jefferson Pilot)
+03:00 ET
+03:30 ET
+07:00 ET: Colorado State 18. @ TCU (Oyun Online)
+08:00 ET: North Texas @ Louisiana-Lafayette (ESPN +)
+09:00 ET: San Jose State @ # 24 Fresno State (SportsWest)
+Hafta 11 (2005/11/12)
+ÖĞLE ET
+12:30 ET: 13. Florida @ South Carolina (Jefferson Pilot)
+03:00 ET
+03:30 ET
+05:00 ET: Louisiana Tech @ Idaho (SportsWest)
+06:00 ET: BYU @ Wyoming (SportsWest)
+06:30 ET: Utah @ New Mexico (KJZZ)
+07:00 ET: Arizona State 15. UCLA (ABC) @
+08:00 ET: Florida International @ Louisiana-Lafayette (CSS)
+GECE YARISI ET: Utah State @ Hawaii (KFVE)
+12. Hafta (2005/11/19)
+ÖĞLE ET
+12:30 ET
+01:00 ET: 7. Ohio State 15. Michigan (ABC) @
+03:00 ET
+06:00 ET: New Mexico State @ San Jose State (SportsWest)
+07:00 ET
+07:30 ET: 5. LSU @ Ole Miss (ESPN2)
+08:00 ET: San Diego State @ Wyoming (SportsWest)
+Hafta 13 (2005/11/26)
+12:30 ET: Tennessee @ Kentucky (Jefferson Pilot)
+02:00 ET: Boise State @ Louisiana Tech (SportsWest)
+03:30 ET
+07:00 ET: Middle Tennessee @ Troy (ESPN +)
+08:00 ET
+14. Hafta (2005/12/03) "Division 1-AA Playoff"
+ÖĞLE ET: Kuzey Iowa @ New Hampshire
+03:30 ET: Southern Illinois @ Appalachian State
+07:00 ET: Furman @ Richmond
+03:30 ET: North Alabama @ Northwest Missouri State (ESPNU) (Bölüm II Yarı Finali)
+2006.
+1. Hafta (2006/09/02) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Idaho @ Michigan State (Big Ten Productions)
+12:30 ET: Western Kentucky @ # 15 Gürcistan (Lincoln Financial Spor)
+03:30 ET
+06:00 ET
+07:00 ET
+08:00 ET: Louisiana-Lafayette 8. LSU (TigerVision) @
+2. Hafta (2006/09/09)
+ÖĞLE ET
+12:30 ET: 4. Auburn @ Mississippi State (Lincoln Financial Spor)
+03:30 ET
+06:00 ET
+07:00 ET: Air Force 11. @ Tennessee (VideoSeat PPV)
+08:00 ET: New Mexico State @ New Mexico (KRQE)
+Hafta 3 (2006/09/16)
+ÖĞLE ET
+12:30 ET: Arkansas @ Vanderbilt (Lincoln Financial Spor)
+01:00 ET: UAB 10. Gürcistan (CSS) @
+03:30 ET
+04:00 ET: Idaho State @ Idaho (Idaho TV)
+06:00 ET: Ole Miss @ Kentucky (CSS)
+07:00 ET
+4. Hafta (2006/09/23)
+ÖĞLE ET
+12:30 ET: Colorado @ 9. Gürcistan (Lincoln Financial Spor)
+03:00 ET: Howard @ Rutgers (ESPN +)
+03:30 ET
+05:00 ET: Marshall @ # 15 Tennessee (VideoSeat PPV / CSS)
+07:00 ET: Florida Atlantic @ South Carolina (CSS)
+08:00 ET
+Hafta 5 (2006/09/30)
+ÖĞLE ET
+12:30 ET: Mississippi State @ 9. LSU (Lincoln Financial Spor)
+01:00 ET: Akron @ Kent Eyalet (MAC Television)
+03:00 ET: Idaho @ Utah State (Idaho TV)
+03:30 ET
+07:00 ET: Middle Tennessee @ North Texas (ESPN +)
+10:00 ET: Colorado State @ Fresno State (Bulldog Sports Network)
+6. Hafta (2006/10/07)
+ÖĞLE ET
+03:00 ET: San Diego State @ UNLV (ESPN +)
+03:30 ET: Bowling Green @ # 1 Ohio State (ESPN +)
+07:00 ET
+08:00 ET
+GECE YARISI ET: Nevada @ Hawaii (Wolfpack TV)
+7. Hafta (2006/10/14)
+ÖĞLE ET
+12:30 ET: Vanderbilt @ 16. Gürcistan (Lincoln Financial Spor)
+02:00 ET: Northern Illinois @ Western Michigan (MAC Television)
+03:30 ET
+04:00 ET: Troy @ Louisiana-Monroe (ESPN +)
+05:00 ET: Fresno State @ Hawaii (Bulldog Sports Network)
+07:00 ET: Florida International @ Miami (FL) (CSS)
+08:00 ET
+Hafta 8 (2006/10/21) "BCS Puan Durumu Hafta 13 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Ole Miss @ # 13 Arkansas (Lincoln Financial Spor)
+03:00 ET
+03:30 ET
+05:00 ET: 15. Boise State @ Idaho (KTVB)
+07:00 ET
+08:00 ET: New Mexico State @ Hawaii (KFVE)
+9. Hafta (2006/10/28)
+ÖĞLE ET
+12:30 ET: 5. Auburn @ Ole Miss (Lincoln Financial Spor)
+03:00 ET: Florida International @ Alabama (ACN Spor)
+03:30 ET
+04:00 ET: New Mexico State @ Nevada (Wolfpack TV)
+07:00 ET
+GECE YARISI ET: Idaho @ Hawaii (KFVE)
+10. Hafta (2006/11/04)
+ÖĞLE ET
+12:30 ET
+03:00 ET: Hawaii @ Utah State (ESPN +)
+04:00 ET: Troy @ Louisiana-Lafayette (ESPN +)
+05:00 ET: Nevada @ Idaho (Wolfpack TV)
+08:00 ET
+Hafta 11 (2006/11/11)
+ÖĞLE ET
+12:30 ET: Gürcistan @ # 6 Auburn (Lincoln Financial Spor)
+03:30 ET
+06:00 ET: 14. Boise State @ San Jose State (KTVB)
+07:00 ET: Florida International @ Louisiana-Lafayette (ESPN +)
+08:00 ET
+12. Hafta (2006/11/18)
+ÖĞLE ET
+12:30 ET
+03:00 ET
+03:30 ET: Arizona @ Oregon (ESPN + / Oregon Sports Network)
+07:00 ET: Arkansas State @ Troy (ESPN +)
+08:00 ET: Ole Miss 11. LSU (TigerVision) @
+Hafta 13 (2006/11/25)
+ÖĞLE ET
+12:30 ET: Kentucky @ # 20 Tennessee (Lincoln Financial Spor)
+03:00 ET: New Mexico State @ Utah State (Aggie Vision)
+07:00 ET: Florida International @ Florida Atlantik (ESPN +)
+GECE YARISI ET: Purdue @ Hawaii (KFVE)
+14. Hafta (2006/12/02) "Division 1-AA Playoff"
+ÖĞLE ET: New Hampshire @ Massachusetts
+03:30 ET: Southern Illinois @ Montana
+07:00 ET: Illinois State @ Youngstown Eyalet
+2007.
+1. Hafta (2007/09/01) "AP Anket Hafta 10 nezaket yoluyla Rankings"
+12:30 ET: Western Kentucky 6. Florida (Lincoln Financial Spor) @
+03:30 ET
+06:00 ET: Doğu Kentucky @ Kentucky (Big Blue TV)
+07:00 ET
+2. Hafta (2007/09/08)
+ÖĞLE ET: Duke @ Virginia (Lincoln Financial Spor)
+12:30 ET: Alabama @ Vanderbilt (Lincoln Financial Spor)
+01:00 ET: Louisiana-Monroe 25. @ Clemson (CSS)
+06:00 ET
+07:00 ET
+Hafta 3 (2007/09/15)
+ÖĞLE ET
+12:30 ET: Mississippi State @ Auburn (Lincoln Financial Spor)
+01:00 ET
+03:30 ET: Norfolk State 13. @ Rutgers (ESPN +)
+07:00 ET
+08:00 ET
+09:00 ET: Nicholls State @ Nevada (ESPN +)
+4. Hafta (2007/09/22)
+ÖĞLE ET
+12:30 ET: 3. Florida @ Ole Miss (Lincoln Financial Spor)
+03:00 ET: Wyoming @ Ohio (Ohio Sports Network)
+05:00 ET: Northern Illinois @ Idaho (Git Vandallar TV)
+07:00 ET
+07:30 ET: Marshall @ Cincinnati (ESPN +)
+08:00 ET
+Hafta 5 (2007/09/29)
+ÖĞLE ET
+12:30 ET: Mississippi State @ # 16 South Carolina (Lincoln Financial Spor)
+01:00 ET: Florida Atlantic 14. @ Kentucky (Big Blue TV)
+03:00 ET: Syracuse @ Miami (Ohio) (Ohio Haber Ağı)
+03:30 ET
+05:00 ET: # Idaho @ 19 Havai (KFVE)
+08:00 ET: Arkansas-Pine Bluff @ New Mexico State (Aggie Vision)
+6. Hafta (2007/10/06)
+ÖĞLE ET
+12:30 ET: Vanderbilt @ Auburn (Lincoln Financial Spor)
+03:00 ET
+03:30 ET
+04:00 ET
+07:00 ET: North Texas @ Louisiana-Lafayette (ESPN +)
+08:00 ET
+7. Hafta (2007/10/13)
+ÖĞLE ET
+12:30 ET: Alabama @ Ole Miss (Lincoln Financial Spor)
+02:30 ET: 25. Tennessee @ Mississippi State (VideoSeat PPV)
+03:00 ET: Bowling Green @ Miami (Ohio) (MAC Productions)
+03:30 ET
+05:00 ET: Fresno State @ Idaho (Bulldog Sports Network)
+07:00 ET
+Hafta 8 (2007/10/20)
+ÖĞLE ET
+12:30 ET
+03:30 ET
+05:00 ET
+07:00 ET
+08:00 ET: New Mexico State @ Idaho (Aggie Vision)
+9. Hafta (2007/10/27)
+ÖĞLE ET
+12:30 ET: Mississippi State 14. @ Kentucky (Lincoln Financial Spor)
+03:00 ET: Louisiana Tech @ Utah State (ESPN +)
+03:30 ET
+04:00 ET: Idaho @ Nevada (Git Vandallar TV)
+06:00 ET
+07:00 ET: Troy @ Arkansas State (ESPN +)
+10. Hafta (2007/11/03) "BCS Puan Durumu Hafta 13 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Vanderbilt @ # 20 Florida (Lincoln Financial Spor)
+03:00 ET
+03:30 ET
+08:00 ET
+Hafta 11 (11/10/2007)
+ÖĞLE ET
+12:30 ET
+02:00 ET: 25. Kentucky @ Vanderbilt (Big Blue TV)
+03:00 ET: 20. Boise State @ Utah State (KTVB)
+03:30 ET
+04:00 ET: New Mexico State @ San Jose State (Aggie Vision)
+08:00 ET
+12. Hafta (2007/11/17)
+11/15, 07:00 ET: North Texas @ Arkansas State (ESPN +)
+ÖĞLE ET
+12:30 ET: 23. Kentucky @ 9. Gürcistan (Lincoln Financial Spor)
+02:00 ET
+02:30 ET: Montana @ Montana State
+03:30 ET
+Hafta 13 (2007/11/24)
+11/23, 12:30 ET: Ole Miss @ Mississippi State (Lincoln Financial Spor)
+ÖĞLE ET
+02:00 ET: Miami (Ohio) Ohio @ (Ohio Sports Network)
+03:30 ET
+04:00 ET: San Jose State @ Nevada (krae)
+07:00 ET: Florida Atlantic @ Florida International (ESPN +)
+14. Hafta (2007/12/01) "FCS Playoff"
+ÖĞLE ET: Appalachian State @ Eastern Washington
+02:00 ET: Delaware @ Northern Iowa
+03:30 ET: Massachusetts @ Southern Illinois
+07:00 ET: Richmond @ Wofford
+2008.
+1. Hafta (2008/08/30) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+28/08, 07:30 ET
+12:30 ET
+03:30 ET: Villanova @ 8. Batı Virjinya (ESPN +)
+07:00 ET: Louisiana-Monroe 10. @ Auburn (CSS)
+07:30 ET: Tennessee-Martin @ # 19 South Florida (ESPN +)
+08:00 ET
+2. Hafta (2008/09/06)
+ÖĞLE ET: Georgia Tech @ Boston College (Raycom Spor)
+12:30 ET: Güney Bayan @ 9. Auburn (Raycom Spor)
+03:30 ET
+06:00 ET
+07:00 ET
+GECE YARISI ET: Weber State @ Hawaii (KFVE)
+Hafta 3 (2008/09/13)
+ÖĞLE ET
+12:30 ET: UAB @ Tennessee (Raycom Spor)
+03:30 ET
+07:00 ET
+08:00 ET
+4. Hafta (2008/09/20)
+ÖĞLE ET: Mississippi State @ Georgia Tech (Raycom Spor)
+12:30 ET: 9. Alabama @ Arkansas (Raycom Spor)
+03:00 ET: Indiana State @ Northern Illinois (CSN Chicago)
+03:30 ET
+04:00 ET: Idaho @ Utah State (Rakım)
+07:00 ET
+Hafta 5 (2008/09/27)
+ÖĞLE ET
+12:30 ET: Ole Miss @ # 4 Florida (Raycom Spor)
+03:30 ET
+07:00 ET
+08:00 ET
+GECE YARISI ET: San Jose State @ Hawaii (KFVE)
+6. Hafta (2008/10/04)
+ÖĞLE ET
+12:30 ET: 12. Florida @ Arkansas (Raycom Spor)
+03:30 ET
+07:00 ET
+08:00 ET
+10:00 ET
+7. Hafta (2008/10/11)
+ÖĞLE ET
+12:30 ET: South Carolina @ Kentucky (Raycom Spor)
+02:30 ET
+03:30 ET
+04:00 ET
+05:00 ET: Arkansas 20. Auburn @
+07:00 ET: Louisiana-Monroe @ Arkansas State (ESPN +)
+10:00 ET: Idaho @ Fresno State
+Hafta 8 (2008/10/18) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: 22. Vanderbilt 10. @ Gürcistan (Raycom Spor)
+03:30 ET
+04:00 ET: Toledo @ Northern Illinois (CSN Chicago)
+07:00 ET
+08:00 ET: San Jose State @ New Mexico State (Aggie Vision)
+9. Hafta (2008/10/25)
+ÖĞLE ET
+12:30 ET: Kentucky 10. Florida (Raycom Spor) @
+03:00 ET: Fresno State @ Utah State (Bulldog Sports Network)
+03:30 ET
+04:00 ET: Bowling Green @ Northern Illinois (CSN Chicago)
+05:00 ET: New Mexico State @ Idaho (Rakım)
+07:00 ET
+GECE YARISI ET: Hawaii @ Nevada (KAME)
+10. Hafta (2008/11/01)
+ÖĞLE ET
+12:30 ET: Auburn @ Ole Miss (Raycom Spor)
+02:00 ET: # 18 Tulsa @ Arkansas
+02:30 ET
+03:30 ET
+04:30 ET: North Texas @ Western Kentucky (ESPN +)
+07:00 ET: 11. Boise State @ New Mexico State (Aggie Vision)
+08:00 ET: Tulane 19. @ LSU (TigerVision)
+Hafta 11 (2008/11/08)
+ÖĞLE ET
+12:30 ET: 13. Gürcistan @ Kentucky (Raycom Spor)
+01:00 ET
+02:00 ET: Utah State 10. Boise State @
+03:30 ET
+04:00 ET: New Mexico State @ Hawaii (Aggie Vision)
+07:00 ET: Louisiana-Lafayette @ UTEP (ESPN +)
+08:00 ET
+12. Hafta (2008/11/15)
+ÖĞLE ET
+12:30 ET: 10. Gürcistan @ Auburn (Raycom Spor)
+01:00 ET: Middle Tennessee @ Western Kentucky (CSS)
+02:00 ET: Toledo @ Western Michigan
+03:30 ET
+05:00 ET
+08:00 ET
+Hafta 13 (2008/11/22)
+ÖĞLE ET
+12:30 ET: Tennessee @ Vanderbilt (Raycom Spor)
+01:30 ET: The Citadel @ # 4 Florida (Sun Sports)
+03:00 ET: Florida Atlantic @ Arkansas State (ESPN +)
+03:30 ET
+04:00 ET: Louisiana Tech @ New Mexico State (ESPN +)
+07:00 ET: Troy @ Louisiana-Lafayette (ESPN +)
+11:00 ET: Idaho @ Hawaii (Git Vandallar TV)
+14. Hafta (2008/11/29)
+11/28, 12:30 ET: Mississippi State @ Ole Miss (Raycom Spor)
+11/28, 02:00 ET: Kent State @ Buffalo
+ÖĞLE ET
+02:30 ET: Nevada @ Louisiana Tech (ESPN +)
+03:00 ET: New Mexico State @ Utah State (Aggie Vision)
+11:00 ET: Washington State @ Hawaii (KFVE / Oceanic PPV)
+Hafta 15 (2008/12/06) "FCS Playoff"
+ÖĞLE ET: Appalachian State @ Richmond
+02:00 ET: Weber State @ Montana
+03:30 ET: Villanova @ James Madison
+07:00 ET: New Hampshire @ Kuzey Iowa
+2009.
+1. Hafta (2009/09/05) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+03:30 ET
+07:00 ET
+07:30 ET
+08:00 ET: New Mexico State @ Idaho (Aggie Vision)
+2. Hafta (2009/09/12)
+ÖĞLE ET
+03:30 ET: Howard @ Rutgers (Büyük Doğu Ağı)
+07:00 ET
+07:30 ET
+08:00 ET: Miami (Ohio) 12. Boise State @
+Hafta 3 (2009/09/19)
+ÖĞLE ET
+03:30 ET
+05:00 ET: Florida International @ Rutgers (Büyük Doğu Ağı)
+07:00 ET
+07:30 ET: Güneydoğu Louisiana @ 5. Ole Miss (CSS)
+08:00 ET: New Mexico State @ UTEP (Aggie Vision)
+4. Hafta (2009/09/26)
+ÖĞLE ET
+03:30 ET
+04:30 ET: Arkansas State @ Troy (CSS)
+07:00 ET
+Hafta 5 (2009/10/03)
+ÖĞLE ET
+03:30 ET
+07:30 ET: 25. Georgia Tech @ Mississippi State (SEC Ağı)
+08:00 ET
+6. Hafta (10/10/2009)
+ÖĞLE ET
+12:30 ET: Kentucky @ # 25 South Carolina (SEC Ağı)
+03:30 ET
+07:00 ET: North Texas @ Louisiana-Lafayette (CSS)
+08:00 ET
+11:00 ET: Fresno State @ Hawaii (Bulldog Sports Network)
+7. Hafta (2009/10/17)
+ÖĞLE ET
+03:30 ET
+05:00 ET: Hawaii @ Idaho (ESPN +)
+07:00 ET: UAB @ Ole Miss (SEC Ağı)
+08:00 ET: Florida Atlantic @ North Texas (CSS)
+Hafta 8 (2009/10/24) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+03:00 ET: Louisiana Tech @ Utah State (ESPN +)
+03:30 ET
+04:00 ET: Idaho @ Nevada (Git Vandallar TV)
+07:00 ET: Louisiana-Monroe @ Kentucky (SEC Ağı)
+08:00 ET
+11:00 ET: 4. Boise State @ Hawaii (KFVE / Oceanic PPV)
+9. Hafta (2009/10/31)
+ÖĞLE ET
+03:00 ET: San Jose State 7. Boise State (KTVB) @
+03:30 ET
+05:00 ET: Louisiana Tech @ Idaho (ESPN +)
+07:00 ET: Mississippi State @ Kentucky (SEC Ağı)
+07:30 ET: 11. Georgia Tech @ Vanderbilt (CSS)
+08:00 ET: Tulane @ 9. LSU (TigerVision)
+10. Hafta (2009/11/07)
+ÖĞLE ET
+01:00 ET
+01:30 ET
+03:30 ET
+04:30 ET: Florida International @ Middle Tennessee (BBSP)
+07:30 ET: Northern Arizona @ Ole Miss (SEC Ağı)
+08:00 ET
+Hafta 11 (2009/11/14)
+ÖĞLE ET
+12:30 ET: Kutsal Haç @ Lafayette (WCTR)
+03:30 ET
+04:00 ET
+07:30 ET: Troy @ Arkansas (CSS)
+08:00 ET
+10:00 ET: New Mexico State @ Hawaii (KFVE / Oceanic PPV)
+12. Hafta (2009/11/21)
+ÖĞLE ET
+12:30 ET
+04:00 ET: Florida Atlantic @ Troy (CSS)
+04:30 ET: Arkansas State @ Middle Tennessee (BBSP)
+08:00 ET
+Hafta 13 (2009/11/28)
+ÖĞLE ET
+03:30 ET
+04:30 ET: Middle Tennessee @ Louisiana-Monroe (CSS)
+05:00 ET: Utah State @ Idaho (ESPN +)
+08:00 ET: New Mexico State @ San Jose State (Aggie Vision)
+14. Hafta (2009/12/05) "FCS Playoff"
+ÖĞLE ET: William & Mary @ Southern Illinois
+01:00 ET: Stephen F. Austin @ Montana
+03:30 ET: New Hampshire @ Villanova
+07:00 ET: Appalachian State @ Richmond
+02:00 ET: San Jose State @ Louisiana Tech (ESPN +)
+03:00 ET: New Mexico State @ 6. Boise State (KTVB)
+07:00 ET: Florida Atlantic @ Florida International (CSS)
+2010.
+1. Hafta (2010/09/04) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Louisiana-Lafayette @ 23. Gürcistan (SEC Ağı)
+03:30 ET
+06:00 ET: Tennessee-Martin @ Tennessee (VideoSeat PPV)
+07:00 ET
+07:30 ET: Vanderbilt @ Northwestern (CSS)
+2. Hafta (2010/09/11)
+ÖĞLE ET
+02:00 ET: Eastern Michigan @ Miami (Ohio) (SportsTime Ohio)
+03:30 ET
+07:00 ET: 14. Arkansas @ Louisiana-Monroe (SEC Ağı)
+07:30 ET: Western Kentucky @ Kentucky (CSS)
+08:00 ET
+Hafta 3 (2010/09/18)
+ÖĞLE ET
+03:30 ET
+07:00 ET
+08:00 ET
+4. Hafta (2010/09/25)
+ÖĞLE ET
+03:30 ET
+06:00 ET: Lafayette @ Princeton
+07:00 ET
+07:30 ET: Fresno State @ Ole Miss (CSS)
+11:30 ET: Charleston Southern @ Hawaii (KFVE / Oceanic PPV)
+Hafta 5 (2010/10/02)
+ÖĞLE ET
+02:00 ET: Idaho @ Western Michigan (WAC Sports Network)
+03:30 ET
+07:00 ET: Florida Atlantic @ South Florida (Bright House Sports Network)
+07:30 ET: Louisiana-Lafayette @ North Texas (CSS / CST)
+08:00 ET
+6. Hafta (2010/10/09)
+ÖĞLE ET
+12:30 ET: Lafayette @ Columbia
+03:30 ET
+04:00 ET: Utah State @ Louisiana Tech (ESPN +)
+07:00 ET: Eastern Illinois @ Eastern Kentucky (Wazoo Spor)
+'' 08:00 ET "
+10:00 ET: Fresno State @ Hawaii (KFVE / Oceanic PPV)
+7. Hafta (2010/10/16)
+ÖĞLE ET
+04:00 ET: Idaho @ Louisiana Tech (ESPN +)
+07:00 ET
+07:30 ET: Florida International @ North Texas (CSS / CST)
+08:00 ET: 3. Boise State @ San Jose State (WAC Sports Network)
+GECE YARISI ET: # 19 Nevada @ Hawaii (KFVE / Oceanic PPV)
+Hafta 8 (2010/10/23) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+01:00 ET
+03:30 ET
+04:00 ET: Central Michigan @ Northern Illinois (CSN Chicago)
+04:30 ET: Louisiana-Monroe @ Middle Tennessee (MTSU Medya Yapımcılığı)
+05:00 ET: Hawaii @ Utah State (ESPN +)
+07:00 ET
+07:30 ET: Gürcistan @ Kentucky (CSS)
+08:00 ET: Fresno State @ San Jose State
+9. Hafta (2010/10/30)
+ÖĞLE ET
+01:00 ET: Lafayette @ Bucknell
+03:00 ET: Murray State @ Eastern Kentucky (Wazoo Spor)
+03:30 ET
+04:00 ET
+07:00 ET: Vanderbilt @ # 19 Arkansas (SEC Ağı)
+08:00 ET
+11:30 ET: Idaho @ Hawaii (KFVE / Oceanic PPV)
+10. Hafta (2010/11/06)
+ÖĞLE ET
+12:30 ET
+01:00 ET
+03:30 ET
+04:00 ET: Fresno State @ Louisiana Tech (ESPN +)
+05:00 ET: 23. Nevada @ Idaho (WAC Sports Network)
+07:00 ET: Jacksonville Devlet @ Eastern Kentucky (Wazoo Spor)
+07:30 ET: Louisiana-Monroe @ Florida International (CSS / CST)
+08:00 ET
+Hafta 11 (2010/11/13)
+ÖĞLE ET
+03:30 ET
+04:00 ET: Southeast Missouri State @ Jacksonville Devlet (WJXS)
+06:00 ET: Louisiana Tech @ New Mexico State (Aggie Vision)
+07:00 ET
+08:00 ET
+12. Hafta (2010/11/20)
+ÖĞLE ET
+12:30 ET: Appalachian State @ Florida (Sun Sports PPV)
+02:00 ET: Eastern Michigan @ Buffalo (SportsTime Ohio)
+04:00 ET: Middle Tennessee @ Western Kentucky (CSS / CST)
+07:00 ET: Jacksonville Devlet @ Tennessee Tech (Wazoo Spor)
+07:30 ET
+08:00 ET
+10:30 ET: San Jose State @ Hawaii (KFVE / Oceanic PPV)
+Hafta 13 (2010/11/27)
+ÖĞLE ET
+03:00 ET: New Mexico State @ Hawaii (Aggie Vision)
+03:30 ET: Arkansas State @ Florida International (CSS / CST)
+07:30 ET: Vanderbilt @ Wake Forest (CSS)
+08:00 ET
+10:00 ET: Idaho @ Fresno State
+14. Hafta (2010/12/04) "FCS Playoff"
+ÖĞLE ET
+01:00 ET: New Hampshire @ Bethune-Cookman
+01:30 ET: Georgia Southern @ William & Mary
+02:00 ET: North Dakota State @ Montana State
+03:30 ET: Villanova @ Stephen F. Austin
+04:00 ET: Southeast Missouri State @ Eastern Washington
+03:00 ET: Utah State 11. Boise State @
+10:30 ET: Hawaii @ UNLV
+2011.
+1. Hafta (2011/09/03) "AP Anket Hafta 7 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Kent State 2. Alabama (SEC Ağı) @
+12:30 ET: Appalachian State @ # 13 Virginia Tech (ACC Ağı)
+03:30 ET: James Madison @ North Carolina (FS Güney)
+06:00 ET: Montana @ Tennessee (VideoSeat PPV)
+07:00 ET
+07:30 ET: Elon @ Vanderbilt (CSS)
+08:00 ET: New Mexico State @ Ohio (Aggie Vision)
+2. Hafta (2011/09/10)
+ÖĞLE ET: 16. Mississippi State @ Auburn (SEC Ağı)
+12:30 ET: Rutgers @ North Carolina (ACC Ağı)
+01:00 ET: Norfolk State @ 19. Batı Virjinya (Büyük Doğu Ağı)
+03:30 ET: North Carolina State @ Wake Forest (FS Güney)
+04:30 ET: Syracuse @ Rhode Island (SNY)
+05:00 ET: Idaho @ Kuzey Dakota (SWX)
+06:00 ET
+07:00 ET
+07:30 ET: Connecticut @ Vanderbilt (CSS)
+08:00 ET: Northwestern Devlet @ # 2 LSU (TigerVision)
+Hafta 3 (2011/09/17)
+ÖĞLE ET
+12:30 ET
+01:00 ET: Coastal Carolina @ Gürcistan
+03:30 ET
+04:00 ET
+07:00 ET
+07:30 ET
+08:00 ET: New Mexico State @ UTEP (Aggie Vision)
+4. Hafta (2011/09/24)
+ÖĞLE ET
+12:30 ET
+03:30 ET
+04:00 ET: Northwestern Devlet @ Nicholls State (Southland Konferansı TV Network)
+04:30 ET: Middle Tennessee @ Troy (Sun Belt Ağı)
+05:00 ET: Fresno State @ Idaho (WAC Sports Network)
+06:00 ET: Connecticut @ Buffalo (Büyük Doğu Ağı)
+07:00 ET
+08:00 ET
+GECE YARISI ET: UC Davis @ Hawaii (KFVE / Oceanic PPV)
+Hafta 5 (2011/10/01)
+ÖĞLE ET
+12:30 ET
+03:30 ET
+04:00 ET: Arkansas State @ Western Kentucky (Sun Belt Ağı)
+07:00 ET
+6. Hafta (2011/10/08)
+ÖĞLE ET
+12:30 ET: 23. Florida State @ Wake Forest (ACC Ağı)
+01:00 ET: Ordu Miami (Ohio) @ (Ohio Haber Ağı)
+02:00 ET: Bowling Green @ Western Michigan (SportsTime Ohio)
+03:00 ET: Boston College 8. Clemson (FS Güney) @
+03:30 ET
+04:00 ET: Özgürlük @ Gardner-Webb
+07:00 ET: UNLV @ Nevada
+07:30 ET: Florida Atlantic @ North Texas (Sun Belt Ağı)
+08:00 ET: Wyoming @ Utah State (KCSG)
+7. Hafta (2011/10/15)
+ÖĞLE ET
+12:30 ET: Kuzey Carolina @ Miami (FL) (ACC Ağı)
+03:00 ET
+03:30 ET
+05:00 ET: Louisiana-Lafayette @ North Texas (COX4)
+06:00 ET: Yale @ Lafayette (SSN-TV)
+07:00 ET
+08:00 ET: New Mexico State @ Idaho (Aggie Vision)
+Hafta 8 (10/22/2011) "BCS Puan Durumu Hafta 12 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Duke @ Wake Forest (ACC Ağı)
+03:00 ET
+03:30 ET
+04:00 ET
+07:00 ET: Toledo @ Miami (Ohio) (BCSN)
+08:00 ET
+GECE YARISI ET: New Mexico State @ Hawaii (KFVE / Oceanic PPV)
+9. Hafta (2011/10/29)
+ÖĞLE ET
+12:30 ET: 12. Virginia Tech @ Duke (ACC Ağı)
+03:00 ET: Boston College @ Maryland (FS Güney)
+03:30 ET
+04:00 ET: Mcneese Devlet @ Stephen F. Austin (Southland Konferansı TV Network)
+05:00 ET: Hawaii @ Idaho (ESPN +)
+07:00 ET: Mississippi State @ Kentucky (FS Güney)
+07:30 ET: Louisiana-Lafayette @ Middle Tennessee (Sun Belt Ağı)
+08:00 ET
+10. Hafta (2011/11/05)
+ÖĞLE ET
+12:30 ET
+03:00 ET: Duke @ Miami (FL) (FS Güney)
+03:30 ET
+04:00 ET
+06:00 ET: Lafayette @ Colgate (SSN)
+07:00 ET: Middle Tennessee @ Tennessee (FS Güney)
+07:30 ET: Mississippi State @ Tennessee-Martin (CSS)
+GECE YARISI ET: Utah State @ Hawaii (KFVE / Oceanic PPV)
+Hafta 11 (11.12.2011)
+ÖĞLE ET
+12:30 ET: North Carolina State @ Boston College (ACC Ağı)
+03:00 ET
+03:30 ET
+06:30 ET: Lamar @ Nicholls State (WHNO)
+07:30 ET: Louisiana Tech @ Ole Miss (CSS)
+08:00 ET: Fresno State @ New Mexico State (WAC Sports Network)
+12. Hafta (2011/11/19)
+ÖĞLE ET
+12:30 ET: Georgia Tech @ Duke (ACC Ağı)
+01:00 ET
+02:00 ET: Georgia Southern 3. Alabama (Crimson Tide Spor Network) @
+03:00 ET: Maryland @ Wake Forest (FS Güney)
+03:30 ET
+05:00 ET: Utah State @ Idaho (ESPN +)
+07:00 ET: Western Kentucky @ North Texas (Sun Belt Ağı)
+08:00 ET
+11:00 ET: Fresno State @ Hawaii (WAC Sports Network)
+Hafta 13 (2011/11/26)
+ÖĞLE ET
+12:30 ET
+02:00 ET: Nevada @ Utah State (WAC Sports Network)
+03:30 ET: Duke @ North Carolina (FS Güney)
+04:00 ET: New Mexico State @ Louisiana Tech (ESPN +)
+11:00 ET: Tulane @ Hawaii (KFVE / Oceanic PPV)
+14. Hafta (2011/12/03) "FCS Playoff"
+03:30 ET: Utah State @ New Mexico State (Aggie Vision)
+04:00 ET: Idaho @ Nevada (WAC Sports Network)
+04:30 ET: Troy @ Arkansas State (Sun Belt Ağı)
+2012.
+1. Hafta (2012/09/01) "AP Anket Hafta 8 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Buffalo @ 6. Gürcistan (SEC Ağı)
+12:30 ET: Elon @ North Carolina (ACC Ağı)
+03:00 ET: Virginia @ Richmond (FSN)
+07:00 ET
+2. Hafta (2012/09/08)
+ÖĞLE ET
+12:30 ET: Ball State 12. @ Clemson (ACC Ağı)
+01:00 ET: Illinois State @ Eastern Michigan (CSN Chicago)
+03:00 ET: North Carolina Wake Forest @ (FSN)
+03:30 ET
+04:00 ET: Georgia State @ Tennessee (VideoSeat PPV)
+05:30 ET: Montana @ Appalachian State
+07:00 ET
+07:30 ET: Kent State @ Kentucky (CSS)
+Hafta 3 (2012/09/15)
+ÖĞLE ET: Louisiana-Monroe @ Auburn (SEC Ağı)
+12:30 ET
+03:00 ET: Furman @ # 11 Clemson (FSN)
+03:30 ET: Liberty @ Montana (Flames Spor)
+04:00 ET: Stony Brook @ Syracuse (Time Warner New York)
+07:00 ET
+07:30 ET: Florida Atlantic @ 7. Gürcistan (CSS)
+08:00 ET: Idaho 3. LSU (TigerVision) @
+4. Hafta (2012/09/22)
+ÖĞLE ET
+12:30 ET: Ordu @ Wake Forest (ACC Ağı)
+03:00 ET: Georgia Tech @ Miami (FL) (FSN)
+04:00 ET: Sam Houston State @ Merkez Arkansas (Southland Konferansı TV)
+04:30 ET: South Florida @ Ball State (Büyük Doğu Ağı)
+05:00 ET: Florida Atlantic 1. Alabama (Crimson Tide Spor Network) @
+07:00 ET
+07:30 ET: Akron @ Tennessee (CSS)
+08:00 ET: Langston @ Lamar (KBTV)
+Hafta 5 (2012/09/29)
+ÖĞLE ET
+12:30 ET: Duke @ Wake Forest (ACC Ağı)
+03:30 ET
+04:00 ET: Güneydoğu Louisiana @ Lamar (Southland Konferansı TV)
+07:00 ET: Missouri State @ South Dakota State (Mediacom)
+08:00 ET
+6. Hafta (2012/10/06)
+ÖĞLE ET
+12:30 ET: Virginia Tech @ North Carolina (ACC Ağı)
+03:00 ET: Duke @ Virginia (FSN)
+03:30 ET
+04:00 ET: Stephen F. Austin @ Sam Houston State (Southland Konferansı TV)
+05:00 ET
+07:00 ET
+7. Hafta (2012/10/13)
+ÖĞLE ET
+12:30 ET: Duke @ Virginia Tech (ACC Ağı)
+02:00 ET: Liberty @ Presbiteryen (Flames Spor)
+03:00 ET: Virginia @ Maryland (FSN)
+03:30 ET
+04:00 ET: Utah State @ San Jose State (ESPN +)
+05:30 ET: Boston College @ # 12 Florida Eyalet (ESPN2)
+07:00 ET
+08:00 ET: Florida Atlantic @ Louisiana-Monroe (Sun Belt Ağı)
+Hafta 8 (2012/10/20) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Virginia @ Wake Forest (ACC Ağı)
+01:00 ET: Florida International @ Troy (Sun Belt Ağı)
+03:00 ET
+03:30 ET
+04:00 ET: Nicholls State @ Stephen F. Austin (Southland Konferansı TV)
+07:00 ET
+08:00 ET
+9. Hafta (2012/10/27)
+ÖĞLE ET
+12:30 ET: North Carolina Eyalet @ North Carolina (ACC Ağı)
+03:00 ET
+03:30 ET
+04:00 ET: Sam Houston State @ Lamar (Southland Konferansı TV)
+07:00 ET: Massachusetts @ Vanderbilt (FS Güney)
+08:00 ET
+10. Hafta (2012/11/03)
+ÖĞLE ET
+12:30 ET
+03:30 ET
+04:00 ET
+05:00 ET: San Jose State @ Idaho (KTRV)
+08:00 ET: Northwestern Devlet @ Merkez Arkansas (Southland Konferansı TV)
+Hafta 11 (2012/11/10)
+ÖĞLE ET
+12:30 ET: Georgia Tech @ North Carolina (ACC Ağı)
+01:00 ET
+03:00 ET: North Carolina State @ Wake Forest (FSN)
+03:30 ET
+04:00 ET: Sam Houston State @ Northwestern Devlet (Southland Konferansı TV)
+12. Hafta (2012/11/17)
+ÖĞLE ET
+12:30 ET: Virginia Tech @ Boston College (ACC Ağı)
+01:00 ET
+01:30 ET: Georgia Southern 5. Gürcistan (WSB) @
+02:00 ET: Alabama A & M @ Auburn
+03:00 ET: Güney Florida @ Miami (FL) (FSN)
+03:30 ET: Sam Houston State @ 8. Texas A & M (FS Southwest)
+04:00 ET: Northwestern Devlet @ Stephen F. Austin (Southland Konferansı TV)
+07:30 ET: Samford @ Kentucky (CSS)
+Hafta 13 (2012/11/24)
+ÖĞLE ET
+12:30 ET: Miami (FL) Duke @ (ACC Ağı)
+01:00 ET: North Texas @ Western Kentucky (Sun Belt Ağı)
+03:00 ET
+05:00 ET: Güney Alabama @ Louisiana-Lafayette (RCN / Cox4)
+14. Hafta (2012/12/01) "FCS Playoff"
+02:00 ET
+04:00 ET
+06:00 ET: Wagner @ Eastern Washington
+07:00 ET: Stony Brook @ Montana State
+03:00 ET: Middle Tennessee @ Arkansas State (ESPN3)
+03:30 ET
+2013.
+1. Hafta (2013/08/31) "AP Anket Hafta 9 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Toledo @ 10. Florida (SEC TV)
+12:30 ET
+04:00 ET: Arkansas @ Louisiana-Lafayette (Fox Sports Güney)
+06:00 ET
+07:00 ET: Murray State @ Missouri (Fox Sports Midwest)
+09:00 ET: Appalachian State @ Montana (Maks Medya)
+2. Hafta (2013/09/07)
+ÖĞLE ET
+12:30 ET
+03:30 ET: Alcorn State @ Mississippi State (CSS)
+07:00 ET
+07:30 ET
+Hafta 3 (2013/09/14)
+ÖĞLE ET: Güney Mississippi @ Arkansas (SEC TV)
+12:30 ET
+07:00 ET: Morgan State @ Liberty (Flames Spor)
+07:30 ET: Princeton @ Mansfield
+08:00 ET: New Mexico State @ UTEP (Aggie Vision)
+4. Hafta (2013/09/21)
+ÖĞLE ET
+12:30 ET
+03:30 ET: Delaware Eyalet @ North Dakota State (Kuzey Dakota NBC Ağı)
+06:00 ET: Pennsylvania @ Lafayette (SSN)
+07:00 ET: Montana State @ Stephen F. Austin (KCEB)
+07:30 ET
+08:00 ET
+Hafta 5 (2013/09/28)
+ÖĞLE ET: Güney Alabama @ Tennessee (SEC TV)
+12:30 ET
+07:00 ET
+07:30 ET
+08:00 ET: San Diego State @ New Mexico State (Aggie Vision)
+6. Hafta (2013/10/05)
+ÖĞLE ET
+12:30 ET: North Carolina @ Virginia Tech (ACC Ağı)
+01:00 ET: Güney Alabama @ Troy (Sun Belt Ağı)
+03:30 ET
+04:00 ET: Mcneese Devlet @ Merkez Arkansas (SLC TV)
+07:00 ET: Texas State @ Louisiana-Lafayette (RCN / Cox4)
+07:30 ET
+7. Hafta (2013/10/12)
+ÖĞLE ET
+12:30 ET: Navy @ Duke (ACC Ağı)
+02:00 ET
+03:30 ET
+04:00 ET
+07:00 ET: Illinois State @ Youngstown Devlet (CSN Chicago)
+07:30 ET: Bowling Green @ Mississippi State (Fox Sports Güney)
+Hafta 8 (2013/10/19)
+ÖĞLE ET
+12:30 ET ": Syracuse @ Georgia Tech (ACC Ağı)
+01:00 ET: Harvard @ Lafayette (SSN)
+02:00 ET: Indiana State @ Illinois State (Mediacom)
+03:00 ET: North Dakota State @ Southern Illinois (Kuzey Dakota NBC Ağı)
+03:30 ET
+04:00 ET
+07:00 ET
+08:00 ET: New Mexico State @ Pirinç (Aggie Vision)
+9. Hafta (2013/10/26) "BCS Puan Durumu Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET
+12:30 ET: Georgia Tech @ Virginia (ACC Ağı)
+03:00 ET: North Dakota State @ Indiana Eyalet (Kuzey Dakota NBC Ağı)
+03:30 ET
+04:00 ET: Stephen F. Austin @ Merkez Arkansas (SLC TV)
+07:00 ET: Furman @ 13. LSU (TigerVision)
+07:30 ET
+08:00 ET: Abilene Christian @ New Mexico State (AggieVision)
+10. Hafta (2013/11/02)
+ÖĞLE ET
+12:30 ET
+01:00 ET: Western Kentucky @ Georgia State (Sun Belt Ağı)
+03:30 ET
+04:00 ET: Sam Houston State @ Stephen F. Austin (SLC TV)
+07:00 ET: Eastern Michigan @ Toledo (BCSN)
+07:30 ET: Alabama State @ Kentucky (CSS)
+Hafta 11 (2013/11/09)
+ÖĞLE ET
+12:30 ET
+03:30 ET
+04:00 ET: Lamar @ Northwestern Devlet (SLC TV)
+12. Hafta (2013/11/16)
+ÖĞLE ET
+12:30 ET
+03:00 ET: Murray State @ Tennessee State (OVC Sayısal Ağı)
+03:30 ET: Brevard Koleji @ Liberty (Flames Spor)
+04:00 ET: Sam Houston State @ Güneydoğu Louisiana (SLC TV)
+07:30 ET: Texas State @ Arkansas State (Sun Belt Ağı)
+Hafta 13 (2013/11/23)
+ÖĞLE ET
+01:00 ET: Coastal Carolina @ # 11 South Carolina (Gamecock IMG Sports Marketing)
+02:00 ET
+03:30 ET: Boston College @ Maryland (FSN)
+04:00 ET: Sam Houston State @ Merkez Arkansas (SLC TV)
+07:00 ET
+14. Hafta (2013/11/30) "FCS Playoff"
+ÖĞLE ET: Lafayette @ New Hampshire
+01:00 ET
+03:00 ET: Southern Utah @ Sam Houston State
+08:00 ET
+ÖĞLE ET: Vanderbilt @ Wake Forest (SEC TV)
+12:30 ET: Maryland @ North Carolina State (ACC Ağı)
+03:30 ET: Syracuse @ Boston College (FSN)
+07:00 ET: Louisiana-Monroe @ Louisiana-Lafayette (Sun Belt Ağı)
+Hafta 15 (2013/12/07) "FCS Playoff"
+01:00 ET: Fordham @ Baltimore
+02:00 ET
+03:30 ET: Kuzey Dakota State @ Furman
+04:00 ET: South Dakota State @ Eastern Washington
+07:00 ET: Jacksonville Devlet @ Mcneese Devlet
+08:00 ET: Sam Houston State @ Güneydoğu Louisiana
+2014.
+1. Hafta (2014/08/30) "AP Anket Hafta 10 nezaket yoluyla Rankings"
+12:30 ET
+2. Hafta (2014/09/06)
+ÖĞLE ET: UConn @ Stony Brook (SNY)
+12:30 ET: South Carolina State 23. @ Clemson (ACC Ağı)
+02:00 ET: UAB @ Mississippi State (Fox Sports Güney)
+04:00 ET: Norfolk Devlet @ Liberty (LFSN)
+06:00 ET: Lafayette @ Sacred Heart (PLN Video)
+07:00 ET: Southeast Missouri State @ Kansas (Jayhawk TV)
+07:30 ET: The Citadel @ # 1 Florida Eyalet (FSN)
+Hafta 3 (2014/09/13)
+ÖĞLE ET
+12:30 ET: 21. Louisville @ Virginia (ACC Ağı)
+01:00 ET: Eastern Illinois @ Illinois State (CSN Chicago)
+03:30 ET
+06:00 ET: Slippery Rock @ East Stroudsburg
+07:00 ET
+4. Hafta (2014/09/20)
+ÖĞLE ET
+03:30 ET
+04:00 ET: Incarnate Word @ Abilene Christian (SLC TV)
+07:00 ET: Bryant @ Liberty (LFSN)
+Hafta 5 (2014/09/27)
+12:30 ET
+02:00 ET: Gannon @ Clarion
+03:00 ET: Özgürlük @ Indiana State (LFSN)
+04:00 ET: Nicholls State @ Merkez Arkansas (SLC TV)
+07:00 ET: Central Michigan @ Toledo (BCSN)
+07:30 ET: Memphis @ 10. Ole Miss (Fox Sports Güney)
+6. Hafta (2014/10/04)
+12:30 ET: Virginia Tech @ North Carolina (ACC Ağı)
+01:00 ET: Clarion @ Mercyhurst
+03:00 ET: Northwestern Devlet @ Güneydoğu Louisiana (SLC TV)
+03:30 ET
+04:00 ET: North Dakota State @ Western Illinois (NBC Kuzey Dakota)
+07:00 ET
+07:30 ET: Virginia @ Pittsburgh (FSN)
+08:00 ET: Georgia Southern @ New Mexico State (Aggie Vision)
+7. Hafta (2014/10/11)
+ÖĞLE ET: Cincinnati @ Miami (FL) (FSN)
+12:30 ET: Duke @ # 22 Georgia Tech (ACC Ağı)
+01:00 ET: Duquesne @ Central Connecticut State (NEC Front Row Video)
+02:00 ET
+03:00 ET: Illinois State @ Indiana Eyalet (CSN Chicago)
+03:30 ET: Boston College @ North Carolina State (FSN)
+04:00 ET
+06:00 ET
+07:00 ET
+07:30 ET: Charleston Southern @ Vanderbilt (Fox Sports Güney)
+Hafta 8 (2014/10/18)
+ÖĞLE ET: Syracuse @ Wake Forest (FSN)
+12:30 ET: Virginia @ Duke (ACC Ağı)
+01:00 ET
+02:00 ET: Western Michigan @ Bowling Green (BCSN)
+03:00 ET: South Dakota @ Missouri State (MVFC TV)
+03:30 ET
+04:00 ET
+07:00 ET
+08:00 ET: Doğu Kentucky @ Tennessee Tech
+9. Hafta (2014/10/25)
+12:30 ET: North Carolina @ Virginia (ACC Ağı)
+01:00 ET
+01:30 ET: Samford @ Furman (WMYA)
+02:00 ET: Toledo @ Massachusetts (BCSN)
+03:30 ET: Boston College @ Wake Forest (FSN)
+04:00 ET: Güneydoğu Louisiana @ Stephen F. Austin (SLC TV)
+07:00 ET
+08:00 ET: Nicholls State @ Houston Baptist
+10. Hafta (2014/11/01) "Kolej Futbolu Playoff Top 25 Hafta 14 nezaket yoluyla Sıralamalar"
+ÖĞLE ET: Central Connecticut State @ Bryant (NEC Front Row Video)
+12:30 ET
+01:00 ET: Lafayette @ Bucknell
+02:00 ET: Özgürlük @ Presbyterian
+03:00 ET: Syracuse @ North Carolina State (FSN)
+03:30 ET
+04:00 ET:
+07:00 ET: Houston Baptist @ Lamar
+08:00 ET
+Hafta 11 (2014/11/08)
+ÖĞLE ET: Wagner @ Robert Morris
+12:30 ET
+01:00 ET
+04:00 ET
+08:00 ET: New Mexico State @ Louisiana-Lafayette (Aggie Vision)
+12. Hafta (2014/11/15)
+ÖĞLE ET
+12:30 ET: Pittsburgh @ North Carolina (ACC Ağı)
+02:00 ET: Indiana State @ Youngstown Eyalet
+03:00 ET
+03:30 ET: Charleston Southern @ Liberty (LFSN)
+04:00 ET: Mcneese Devlet @ Güneydoğu Louisiana (SLC TV)
+Hafta 13 (2014/11/22)
+ÖĞLE ET
+12:30 ET: Virginia Tech @ Wake Forest (ACC Ağı)
+01:00 ET: Özgürlük @ Coastal Carolina
+02:00 ET
+03:30 ET
+04:00 ET
+05:00 ET: Missouri State @ Kuzey Iowa (PSN)
+14. Hafta (2014/11/29) "FCS Playoff"
+ÖĞLE ET: Sacred Heart @ Fordham
+01:00 ET
+02:00 ET: Güneydoğu Louisiana @ Sam Houston State
+04:00 ET
+08:00 ET: Stephen F. Austin @ Northern Iowa
+12:30 ET
+Hafta 15 (2014/12/06) "FCS Playoff"
+01:00 ET
+02:00 ET
+03:30 ET: South Dakota State @ North Dakota State
+04:30 ET
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Comox (seçim bölgesi)</DOCTITLE>
+<TEXT>
+
+Comox British Columbia, Kanada eyaletinde bir il seçim bölgesi oldu. Onun birleştirme Konfederasyonu üzerine o ilin temsil ilk oniki gezmeleri biriydi ve tek üyesi seçmen oldu. Kuruluşundan at Yukon sınırında gergin, bu kez büyük sürme çekirdek, şimdi Comox Valley adlandırılır.
+Siyasi coğrafya.
+Sözde bu sürme Central Coast çoğu yanı sıra kuzey Vancouver Island tüm dahil, ancak bölgenin nüfusunun büyük çoğunluğu ilçesinde birçok First Nations birinden olduğu gibi pratiklik çok az uygun seçmen vardı.
+Seçim tarihi.
+"Not: Her seçimde kazananlar kalın" dedi.
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 24 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! align = "right" | n / a
+! = "right" align | -.-%
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 7 | 1 byelection nedeniyle 23 Aralık Yürütme Konseyi (kabine) randevu üzerine J. Ash'in istifası çağrıldı, 1872 Bu byelection Executive randevu onaylamak için düzenlenen bir dizi biriydi Eski parlamenter kongre oldu Konseyi. Bu byelection müzekkere alkışlarla doluydu gibi, hiçbir yoklama gün gerekli ve koltuk iki hafta içinde doluydu. Belirtilen tarih writs dönüş Baş Seçim Görevlisi tarafından alındığı tarihtir.
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 46 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 52 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 83 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! align = = 7 "doğru" colspan | 2 yoklama bir gün önce çekildi.
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 128 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 108 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 368 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 459 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 7 | 3 British Columbia 1900-1902 Daha sonra 14 Premier
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 188 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 7 | 4 3. McPhee bir Muhafazakar Parti destekçisi olarak kampanya Mounce karşı bir Liberal aday oldu. Nanaimo Herald göre hem anti-Martin fakat Vancouver İl ve Victoria Times Hükümeti hem listelenir.
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 678 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 664 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 983 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 1049 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 812 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 4124 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! = "right" align |
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 2869 | = "right" align
+! 100.00% | = "right" align
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 4413 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 34 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 5211 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 80 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 6899 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 166 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 7523 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 161 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 12,834 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 435 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 13,756 | = "right" align
+! 100.00% | = "right" align
+! 12,308 | = "right" align
+!% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 446 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+! 77,94% | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 9 | 5 (Tercihli oy pusulası: 1 ve sadece gösterilen üç 3 sayımları)
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 13,561 | = "right" align
+! 100.00% | = "right" align
+! 12,479 | = "right" align
+!% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 717 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+! 77,94% | = "right" align
+! = "right" align |
+! = "right" align |
+! = "right" colspan = 9 hizalamak | 6Preferential oy pusulası: Sadece gösterilen 1. ve dört 4 sayımları)
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 11.810 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 11.810 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 183 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 15,791 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 248 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 15,570 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 150 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 11,033 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 104 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 17,344 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 194 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 21,985 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 135 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 26,148 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 454 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 22,061 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 315 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 29,452 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 258 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+! Toplam geçerli oy | = "right" colspan = 3 hizalama
+! 30,953 | = "right" align
+! 100.00% | = "right" align
+! = "right" align |
+! align = "right" colspan = 3 | Toplam oy pusulalarını reddedildi
+! 276 | = "right" align
+! = "right" align |
+! = "right" align |
+! align = "right" colspan = 3 | Katılım
+!% | = "right" align
+! = "right" align |
+! = "right" align |
+Kaynak.
+Tarihsel getirileri M.Ö. Seçimler
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

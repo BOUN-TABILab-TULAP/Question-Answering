@@ -1,0 +1,158 @@
+Question: Mayozun hangi evresinde kutuplara çekilmiş olan kromozomların etrafında çekirdek zarı oluşur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mayoz bölünme</DOCTITLE>
+<TEXT>
+
+Mayoz Bölünme bir diploit ökaryotik hücrenin bölünerek genelde gamet olarak adlandırılan haploit hücrelere bölündüğü hücresel bir süreçtir. Gamet hücresinde kromozom sayısının azalmasıyla sonuçlanan "mayoz", Yunanca'da "Daha da küçültmek" anlamına gelen Meioun kelimesinden gelmektedir.
+Mitoz bölünme ile alakası yoktur.
+Mayoz Bölünme eşeyli üreme için gereklidir ve bu yüzden eşeyli üreyen tek hücreli organizmalar da dâhil tüm ökaryot hücrelerde görülür. Özellikle Bdelloid rotiferlerin içinde bulunduğu birkaç ökaryot mayoz yeteneklerini kaybedip partenogenezle ürerler. Mayoz eşeysiz mitotik bölünmeyle üreyen arkealarda ya da prokaryotlarda meydana gelmez
+Mayoz sırasında kromozom içinde paketlenmiş olan uzun DNA segmentlerinden oluşan diploit üreme hücresinin genomu DNA replikasyonundan sonra iki bölünme geçirerek gamet olarak adlandırılan haploit hücreleri oluştururlar. Her gamet kromozomların bir setini ya da orijinal hücrenin genetik içeriğinin yarısını içerir. Oluşan bu haploit hücreler diğer cinsin haploit hücreleriyle ya da döllenme sırasında yeni bir hücre olan zigotu oluşturmak için birleşebilirler. Bu yüzden mayozun bölünme mekanizması döllenme sırasında birleşen iki genom ile eşteş bir olaydır çünkü her ebeveynden gelen kromozomlar mayoz sırasında genetik rekombinasyona uğrarlar. Dolayısıyla her gamet ve sonuç olarak her zigot kendi DNA'sında kendine özgü bir "İz/Tasarım" taşıyacaktır. Diğer bir değişle, mayoz ve eşeyli üreme genetik varyasyonu oluşturur.
+Mayoz, kromozomların yeniden dağılımını gerçekleştirmek için mitoz sırasında gerçekleşen aynı biyokimyasal mekanizmaları kullanır. Mayoza özgü birçok özellik bulunmaktadır. Bunlardan en önemlisi homolog kromozomlar arasında meydana gelen eşleşme ve genetik rekombinasyondur.
+Mayozda da mitozda olduğu gibi profaz, metafaz, anafaz ve telofaz olarak adlandırılan dört evre vardır. Bu evreler arada interfaz olmaksızın peş peşe iki kez gerçekleşir ve sonuçta genetik özellikler bakımından 2 çeşit dört yavru hücre meydana gelir. Mayoz bölünme ile mitoz bölünme arasındaki en büyük farka profazda rastlanır.
+Mayoz bölünme iki aşamada gerçekleşir. Bu aşamalar, Mayoz-1 ve Mayoz-2 olarak adlandırılır.
+Profaz I
+DNA ipliklerinin kısalıp kalınlaşmaya başlaması ile başlar. Bu evre sınırları kesin olmayan 5 evreye ayrılıp incelenir. Bu evreler;
+Leptoten: Kromozomların mikroskopla seçilebildikleri andan itibaren başlar. İki eş kromatit birbirine sarılı halde bulunur. Ayrıca kromatinler üzerinde kromomer denilen ve koyu boyanan bölgeler fark edilir.
+Zigoten: Biri anneden diğeri babadan gelen ve birbirlerine benzeyen homolog kromozomlar yan yana gelerek eşleşmeye başlarlar Bu eşleşme bir uçtan diğer uca doğru devam eder. Bu evrede her biri iki kromatit taşıyan iki kromozomun yan yana durmasıyla sanki canlı n sayıda kromozom taşıyormuş gibi görülür. Görülen bu yapıya tetrat denir.
+Pakiten: Homolog kromozomların eşleşmesi tamamlanır ancak kromozomlar kısalmaya devam eder. Ayrıca bu evrede mitozdan farklı olarak tetratlar arasında genetik madde alışverişi olur. Buna krossing-over denir. Bu olay homolog kromozomların birbiri üzerine çakışan (kiyazma "chiasma") kısmında gerçekleşir.
+Diploten: Kromozomların sentromerleri ayrılmamıştır. Dört kromatit için iki sentromer vardır. Tetrat'taki homolog kromozomlar birbirinden ayrılmaya başlar. Ancak kiyazma bölgelerinde ayrılma olmaz ve kiyazmalar uca doğru kaymaya başlar.
+Diakinez:Kromozomlar son halini alır. Çekirdekçik kaybolur. Çekirdek zarı parçalanır.
+Metafaz I.
+Homolog kromozomlar ekvatoral plak üzerinde karşılıklı dizilir.
+Her kromozom sentromeri ile iğ ipliklerine tutunur.
+Anafaz I.
+Homolog kromozomlar birbirinden ayrılarak zıt kutuplara ilerler.
+Telofaz I.
+Hücrenin iki kutbunda bulunan kromozomlar uzayıp incelmeye başlar. Etraflarında çekirdek zarı oluşur. Sitoplazmanın boğumlanmasıyla da haploid sayıda kromozoma sahip iki yavru hücre oluşur.
+Hayvansal hücrelerde: Çekirdek bölünmesi tamamlandıktan sonra sitoplazma ortadan boğumlanarak ikiye bölünür ve iki ayrı hücre oluşmuş olur.
+Bitkisel hücrelerde: Oluşmuş olan iki çekirdekli hücrenin ortasında bir orta lamel (ara lamel) oluşur ve hücre duvarına kadar ulaşır. Dolayısıyla birbirine bitişik iki hücre oluşur.
+Hücrenin iki kutbunda bulunan kromozomlar uzayıp incelmeye başlar. Etraflarında çekirdek zarı oluşur. Sitoplazmanın boğumlanmasıyla da haploid sayıda kromozoma sahip iki yavru hücre oluşur.
+Buraya kadar geçen olaylar mayoz-I olarak adlandırılır. Bundan sonra mitozdakinin aksine arada interfaz evresi olmaksızın profaz-II'nin başlamasıyla mayoz-II başlar. Mayoz-II mitoz bölünmenin hemen hemen aynısıdır. Hücrelerdeki haploid kromozom sayısı korunarak profaz-II, metafaz-II, anafaz-II ve telofaz-II gerçekleşerek mayoz bölünmenin sonunda n kromozom sayısına sahip 4 yavru hücre meydana gelir.
+Mayoz 2.
+Profaz II.
+Birinci bölünmenin telofazı ile ikinci bölünme arasında bir dinlenme devresi olmadan çekirdek zarı parçalanır. Birinci iğ iplikçiklerinin doğrultusuna dik yeni iğ iplikçikleri oluşur.
+Metafaz II.
+Her yavru hücrenin haploid (n) kromozomu ekvatoral düzlem üzerinde dizilir.
+Anafaz II.
+Mayoz bölünmenin 2. bölümü olan Mayoz 2'nin 3. evresidir. Ara evre olarak da adlandırılır. Bu evre mitozdaki anafaz evresine benzer. Ancak, mitozdaki anafazda kardeş kromatitler düzenli bulunurken bu evrede düzensiz bulunurlar. Bu da Mayoz bölünmede genetik çeşitliliği sağlar.
+Telofaz II.
+Kromozomların helezonları açılır, dolayısıyla görünmez olurlar. Çekirdek zarları oluşur sitoplazma bölünür. Böylece bir hücreden 4 tane haploid hücre meydana gelir.
+'Sitoplazma bölünmesi'
+Hayvansal hücrelerde: Çekirdek bölünmesi tamamlandıktan sonra sitoplazma ortadan boğumlanarak ikiye bölünür ve iki ayrı hücre oluşmuş olur.
+Bitkisel hücrelerde: Oluşmuş olan iki çekirdekli hücrenin ortasında bir orta lamel (ara lamel) oluşur ve hücre duvarına kadar ulaşır. Dolayısıyla birbirine bitişik iki hücre oluşur.
+Mayoz bölünme sonucunda n kromozomlu 4 hücre (gamet)oluşur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Profaz I  (EBA)</DOCTITLE>
+<TEXT>
+
+İnterfazdan hemen sonra hücrenin kromozomları kısalarak yoğunlaşmaya başlar. 
+Kendini interfaz evresinde eşlemiş olan iki kromatitli homolog kromozomlar yan yana gelerek dört kromatitden oluşmuş tetrat adı verilen yapıyı oluşturur (Resim 1.40). 
+Tetratların kardeş olmayan kromatitleri birbiri üstüne çap- Sentrozom razlamasına kıvrılır ve X-biçiminde kiyazma denilen noktalardan birbirine dokunur (Resim 1.41). 
+Kiyazma bölgelerinde homolog kromozomlar arasında parça alışverişi gerçekleşir. Bu olaya cross-over adı verilir. 
+Cross-over, mayoz sonunda oluşacak yavru hücrelerin genetik çeşitliliğini ve dolayısıyla eşeyli üreyen canlı türlerinin yavrularındaki genetik çeşitliliği sağlayan önemli olaylardan biridir. 
+Cross-over olayı ve tetrat oluşumu mayoza özgüdür. Mayoz geçiren hücredeki tetrat sayısı, haploit kromozom sayısı kadardır. 
+Bu evrede mitozdaki gibi çekirdek zarı erimeye başlar ve eğer varsa sentrozom zıt kutuplara giderek iki sentrozom arasında iğ iplikleri oluşur.Yaşam içinde canlılar her zaman ortama uyum sağlarlar. Evrimsel adaptasyonu ise popülasyondaki genetik çeşitlilik sağlar. 
+Genetik çeşitliliğinin artmasında ve türlerin varlığını sürdürebilmesinde cross-over çok önemlidir. Rast gele gerçekleşen cross-over olayının meydana geldiği profaz I, bu nedenle mayozun en önemli aşamasıdır. Mayoz sonucunda çok çeşitli gen kombinasyonları ortaya çıkar (Resim 1.42). 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ayrilmama Olayi  (EBA)</DOCTITLE>
+<TEXT>
+
+Daha önceki konularda mayozun anafaz I evresinde homolog kromozomların iğ ipliklerine tutunarak hücrenin karşı kutuplarına çekildiğini; benzer şekilde anafaz II evresinde kardeş kromatitlerin birbirinden ayrılarak hücrenin farklı kutuplarına gittiğini öğrenmiştik. 
+Normalde düzgün işleyen bu süreçte bazen aksaklıklar olur. 
+İki homolog kromozom ya da iki kardeş kromatit birbirinden ayrılmayarak hücrenin aynı kutbuna gidebilir. Bu duruma ayrılmama olayı adı verilir. 
+Sonuçta bir gamet, mayoz sonucunda iki homolog kromozomun ikisini de alırken, diğer gamet bu kromozomdan hiçbirisini almaz (Resim 2.26). 
+Gametlerdeki bu fazla ya da eksik kromozomlar, gonozomlar ya da otozomlar olabilir. 
+Eğer fazla kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa, oluşan zigotun kromozom sayısı normalden fazla; eğer eksik kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa oluşan zigot, normalden daha az sayıda kromozoma sahip olur. Böyle bir zigot gelişecek olursa, meydana gelen birey eksik sayıda ya da daha fazla sayıda kromozoma sahip olur (Resim 2.27).Ayrılmama olayı sonucunda fazla ya da eksik kromozoma sahip olan zigotların bazıları gelişimini tamamlayamaz. İnsanın 13., 18. ve 21. kromozom çiftlerinde ayrılmama olayı meydana gelecek olursa, fazladan kromozoma sahip olan zigot gelişimini sürdürerek yeni bir birey meydana gelebilmektedir. 
+Fazladan 13. kromozoma sahip olan bireylerde Patau (Patu) sendromu; fazladan 18. kromozoma sahip olan bireylerde Edwards (Edvırds) sendromu ve fazladan 21. kromozoma sahip bireylerde Down sendromu meydana gelir. Bu durumlardan en sık rastlananı Down sendromu (mongolizm) dir. Down sendromuna sahip bireyler 47 kromozomludur (Resim 2.28). Bu bireyler gözlerinin çekik olması ve yuvarlak yüz hatlarıyla Moğol ırkına benzerlik gösterir. Genellikle doğuştan gelen kalp bozukluklarına ve zeka geriliğine sahiptirler; dilleri büyüktür; hastalıklara karşı dirençleri azdır. 
+Down sendromlu erkek bireylerin hemen hemen hepsi ve dişilerin yarısı, eşeysel olarak gelişmemiş olup kısırdırlar. Bu bireyler, 30-35 yaşlarına kadar yaşayabilirler. Down sendromunun nedeninin tam olarak kesinlik kazanmamasına karşın annenin yaşı ya da aldığı hormon tedavisiyle ilgili olduğu düşünülmektedir. 
+Ayrılmama olayı eşey kromozomlarında da meydana gelebilir ve buna bağlı olarak anormallikler ortaya çıkar. Ayrılmama olayı nedeniyle bireyler ilave X ya da Y kromozomuna sahip olabilirler (Tablo 2.1). 
+Bazı bireylerde ise eşey kromozomlarından bir tanesi eksik olabilir (Resim 2.29). Gonozomlarda ilave kromozomların yarattığı durumların çoğu genetik dengeyi, otozomların yaptığından daha az bozar. Bunun nedeni, insandaki Y kromozomunun çok az sayıda gen taşıması ve vücut hücrelerindeki X kromozomlarının bir tanesi dışındaki kopyalarının zaten etkisiz kılınıyor olması olabilir. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre bölünmesi</DOCTITLE>
+<TEXT>
+
+Hücre bölünmesi, tek hücreli canlıların çoğalması, çok hücreli canlıların büyümesi, erkek ve dişi eşey hücrelerinin meydana gelmesi için gerekli biyolojik olaydır. Bir hücrenin bölünebilmesi için belirli bir büyüklüğe ulaşması ve nükleik asitlere sahip olması gerekmektedir. Canlılar dünyasında,
+olmak üzere üç farklı tip bölünme vardır. Tek hücreli canlılarda bölünme genellikle amitoz, çok hücrelilerde ise mitoz ve mayoz ile görülür.
+Amitoz.
+Genellikle tek hücrelilerde görülen bu bölünmeyle o türe ait birey sayısı artar. Amitoz bölünme yapan hücrelerin önce çekirdeği uzar, çekirdeğin uzamasıyla çekirdekçik de uzayıp boğumlanarak ikiye ayrılır. Bunu sitoplazma bölünmesi takip ederek, bir hücreden iki yeni yavru oluşacak şekilde bölünme gerçekleşir. Amitozda çekirdek zarı kaybolmaz, kromozomlar belirmez, sentriyoller ve iğ iplikleri oluşmaz. 
+Tek hücreliler dışında bazı özel hallerde yüksek yapılı organizma hücrelerinde de amitoz görülebilir. Bu durumda çoğu kez hücreler ölüme mahkum olur, çünkü tekrar mitoz bölünme yapamazlar. Amitoz bölünme bu organizmalarda bazen açlık nedeniyle dejenere olan hücrelerde, bazı yaşlı kıkırdak hücrelerinde, ayrıca hızla çoğalan kuş embriyosunun blastoderm hücrelerinde görülebilir. Gametlerde genellikle amitoz bölünme görülmez.
+Mitoz.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar çoğu soma hücresinde (ör sinir hücrelerinde bölünme yoktur) ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir.Yavru hücrelerin 23 tanesi anneden 23 tanesi babadan gelir.Bu kromozomların 44 tanesi vücut özelliklerini diğer ikisi cinsiyeti gösterir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.Ökaryot bir hücrede çoğalma(üreme),mitoz hücre bölünmesi ile sağlanır
+Mayoz.
+Eşeyli olarak çoğalan canlılarda zigotu oluşturacak gamet hücrelerinin yapılması (gametogenez) mayoz ile gerçekleşir.Üreme ana hücrelerinde kromozom sayısının yarıya inmesi olayı "mayoz" ile gerçekleşir.Sonuçta oluşan hücrelere üreme hücresi (gamet) denir. Mayoz bölünme I. ve II. mayoz bölünme şeklinde olup, bunların her biri aslında birbirini izleyen iki bölünmeden ibarettir. I.mayoz bölünme diploid kromozomlu ana hücreden kromozom sayıları yarı yarıya, yani haploid duruma inmiş (redüksiyon) iki yavru hücre meydana gelir. Fakat I. mayoz sonunda henüz kromozomdaki kromatidler tam olarak ayrılmamıştır. II. mayozda kromozomlar tam olarak uzunlamasına bölünür ve kromatidler ayrılarak yavru hücreler gider, böylece bölünme tamamlanmış olur. Mayoz bölünmedeki "interfaz" evresi (G1,S,G2) I.mayozun başında geçer, II. mayozda tekrarlanmaz. I. mayoz; "profaz I", "metafaz I", "anafaz I", "telofaz I" evrelerinden sonra sitoplazma bölünmesi (sitokinez)gerçekleşir; II. mayoz; "profaz II", "metafaz II", "anafaz II", "telofaz II" evrelerinden oluşur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İnterfaz  (EBA)</DOCTITLE>
+<TEXT>
+
+İnterfaz, üreme ana hücrelerinin büyüdüğü, bölünmeye hazırlık evresidir. Hücreler, interfaz evresinde, bölünme için gerekli olan proteinleri sentezler, DNA‘nın eşlenmesi ve organellerin çoğaltılması ile hücre bölünmeye hazır hale gelir. Mayozun interfaz evresinin sonunda bütün kromozomlar iki kromatitlidir. Bu kromozomlar homolog kromozomlardır. İnterfazdan sonra mayoz, mayoz I ve mayoz II olarak iki bölümde meydana gelir. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,25 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çiçeğin çiçek+Noun+A3sg+P2sg+Nom çiçek+Noun+A3sg+Pnon+Gen
+dişi diş+Noun+A3sg+P3sg+Nom diş+Noun+A3sg+Pnon+Acc dişi+Noun+A3sg+Pnon+Nom dişi+Adj
+organında organ+Noun+A3sg+P3sg+Loc organ+Noun+A3sg+P2sg+Loc
+bulunan bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart bulun+Verb+Pos^DB+Adj+PresPart
+yumurtalığın yumurta+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Nom yumurta+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Gen yumurtalık+Noun+A3sg+P2sg+Nom yumurtalık+Noun+A3sg+Pnon+Gen
+tepeciğe tepe+Noun+A3sg+Pnon+Nom^DB+Noun+Dim+A3sg+Pnon+Dat tepecik+Noun+A3sg+Pnon+Dat
+kadar kadar+Noun+A3sg+Pnon+Nom kadar+Postp+PCNom kadar+Postp+PCGen kadar+Postp+PCDat
+uzanan uza+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart uzan+Verb+Pos^DB+Adj+PresPart
+boyun boy+Noun+A3sg+Pnon+Gen boy+Noun+A3sg+P2sg+Nom boyun+Noun+A3sg+Pnon+Nom
+kısmına kısım+Noun+A3sg+P3sg+Dat kısım+Noun+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

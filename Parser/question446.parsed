@@ -1,0 +1,19 @@
+1	Aktin	Aktin	Noun	Prop	A3sg|Pnon|Nom	2	SUBJECT	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	miyozin	miyozin	Noun	Prop	A3sg|Pnon|Nom	17	SUBJECT	_	_
+4	_	iplik	Noun	Noun	A3sg|Pnon|Nom	5	DERIV	_	_
+5	iplikçiklerin	_	Noun	Noun	A3pl|Pnon|Gen	6	SUBJECT	_	_
+6	_	bulun	Verb	Verb	Pos	7	DERIV	_	_
+7	bulunduğu	_	Adj	APastPart	P3sg	13	MODIFIER	_	_
+8	koyu	koyu	Adj	Adj	_	9	MODIFIER	_	_
+9	_	renk	Noun	Noun	A3sg|Pnon|Nom	10	DERIV	_	_
+10	renkli	_	Adj	Adj	With	13	MODIFIER	_	_
+11	_	görün	Verb	Verb	Pos	12	DERIV	_	_
+12	görünen	_	Adj	APresPart	_	13	MODIFIER	_	_
+13	banda	ban	Noun	Noun	A3sg|Pnon|Loc	17	LOCATIVE.ADJUNCT	_	_
+14	ne	ne	Adj	Adj	_	15	MODIFIER	_	_
+15	ad	ad	Noun	Noun	A3sg|Pnon|Nom	17	SUBJECT	_	_
+16	_	ver	Verb	Verb	_	17	DERIV	_	_
+17	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	18	SENTENCE	_	_
+18	.	.	Punc	Punc	_	0	ROOT	_	_
+

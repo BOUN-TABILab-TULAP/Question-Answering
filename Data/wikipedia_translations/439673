@@ -1,0 +1,31 @@
+Choropleth haritası
+(Yunanca χώρο ("alan / bölge") + πλήθος ("çokluk") 'den) Bir choropleth haritası alanları gibi, harita üzerinde görüntülenen istatistik değişkenin ölçülmesi orantılı olarak gölgeli veya desenli edildiği tematik harita nüfus yoğunluğu ya da kişi başına düşen gelir.
+choropleth haritası ölçüm coğrafyada farklılık ya da bir bölgede değişkenlik düzeyini gösterir nasıl görselleştirmek için kolay bir yol sağlar.
+Choropleth harita özel bir türü, bir prizma harita, harita üzerinde belirli bir bölgenin yüksekliği o bölge için istatistiksel değişkenin değerine orantılı olduğu üç boyutlu bir harita.
+Genel Bakış.
+bilinen en eski choropleth haritası Baron Pierre Charles Dupin tarafından 1826 yılında kuruldu. Dönem "choroplethe haritası" "Nüfus Haritalama Sorunları" coğrafyacı John Kirtland Wright tarafından 1938 yılında tanıtıldı.
+Choropleth haritalar önceden tanımlanan bölgelerde (örneğin, ilçeler) üzerinde toplanan istatistiki verilere dayanan, bölge sınırları veri desenleri ile tanımlandığı alan sınıf ve isarithmic haritalar, aksine. Bu nedenle, tanımlanan bölgeler seçim bölgelere bölünür bir seçim haritasındaki gibi choropleths tercih edilir, bir tartışma için önemlidir.
+Gerçek dünya desenleri tartışılan bölgelere uygun olmayabilir durumlarda, bu tür ekolojik yanlışlara ve değiştirilebilir alansal birimi sorunu (MAUP) gibi konuların önemli yanlış yorumlara yol açabilir, ve diğer teknikler tercih edilir. Choropleth haritalar sıklıkla nedeniyle choropleth verilerin bolluk ve Coğrafi Bilgi Sistemleri kullanılarak tasarım kolaylığı uygunsuz uygulamalarda kullanılır.
+dasymetric tekniği birçok durumda bir uzlaşma yaklaşımı olarak düşünülebilir. Mekansal geniş veya mekansal yoğun: Geniş konuşan choropleths iki tip veri temsil etmektedir.
+Choropleths bir başka yaygın hata normalleştirilmiş değerler yoğunluklarının bir harita üretmek yerine büyüklüğünü temsil ham veri değerleri kullanılmasıdır. Gözün doğal ılımlı büyüklükte büyük poligon körüklemeyecek veren ve yüksek büyüklükleri ile küçük çokgen önemini en aza indirerek, aynı renk alanlar üzerinde entegre çünkü bu sorunludur. Sağdaki haritalarda çember özelliklerini karşılaştırın.
+Sınıflandırma.
+Eşit aralıklarla,
+, kantilleri
+geometrik ilerlemeler,
+standart sapma,
+Jenks doğal sonları optimizasyonu
+Baş / Kuyruk yapmak
+Renk ilerlemesi.
+Nicel veri haritalama zaman belirli bir renk ilerleme verileri düzgün tasvir için kullanılmalıdır. Cartographers tarafından kullanılan renk ilerlemeler birkaç farklı türleri vardır. Robinson ve arkadaşları ayrıntılı olarak tarif aşağıda verilmiştir. (1995)
+Tek renk ilerlemeler nispeten aynı renk tonu çok hafif ya da beyaz gölge seçilen rengin koyu gölge kaybolur. Bu büyüklük eşleştirmek için kullanılan yaygın bir yöntemdir. En karanlık tonu veri kümesinde en fazla sayıda ve en az sayısını temsil hafif gölge temsil eder.
+Iki değişken iki üst baskı tek renk ölçekleri kullanılarak gösterilebilir. genellikle kullanılan tonlar kırmızıdan ilk veri seti için beyaz ve saniye beyaz mavi, onlar sonra değişen renkler üretmek için üst baskı vardır. Haritaları Bu tip birbirlerine göre değerlerin büyüklüğünü göstermektedir.
+Bi-polar ilerlemeler normal olarak eşleştirilmiş değişkenin ortalama ya da oda sıcaklığı gibi diğer önemli bir değer olarak, negatiften pozitife ya da bazı ya da merkezi eğilim her iki tarafında değer bir değişiklik göstermek için iki karşıt tonlar ile birlikte kullanılır. Ortada beyaz örneğin (sıcak için) koyu kırmızı sıcaklıkları haritalama koyu maviden (soğuk için) tipik bir ilerleme için. Bir uçta (yaşam beklentisi bu haritada olduğu gibi) diğerinden daha iyi kabul edilebilir zaman o kırmızı tonları ile yoksul bir alternatif ve yeşil ile iyi bir alternatif göstermek için yaygındır.
+Tamamlayıcı renk tonu ilerlemeler iki kutuplu ilerlemesi bir türüdür. Bu tamamlayıcı renklerin herhangi biri ile yapılabilir ve orta temsil eden gri gölge içine koyu uç nokta tonlar her birinden kaybolacak. Bir örnek mavi ve iki uç noktaları olarak sarı kullanıyor olurdu.
+Karma renk ilerlemeler iki uç nokta tonları bir araya karıştırmak için ilgili tonları kullanın. Renk ilerlemesi Bu tip genellikle yükseklik değişiklikleri göstermek için kullanılır. Kahverengi turuncu yoluyla sarı örneğin.
+Kısmi spektral renk ilerlemeler veri iki farklı setleri karışımlarını eşlemek için kullanılır. Renk ilerlemesi Bu tip iki komşu rakibin tonlar karıştırmak ve karıştırma veri sınıfları büyüklüğünü gösterecektir.
+Tam spektral ilerleme kırmızı ile mavi tonları gelen içerir. Bu rölyef haritaları ve modern bir hava haritalarda yaygındır. Belirli renk çağrışımları harita kullanıcı karıştırmayın çünkü ilerlemesi Bu tip başka koşullar altında tavsiye edilmez.
+Değer ilerleme haritaları monokrom bulunmaktadır. Herhangi bir renk kullanılabilir olsa da, prototip siyahtan büyüklüğünü temsil gri tonları müdahale ile beyazdır. Robinson'a göre, "vd." (1995). Bu haritayı kitleye bir büyüklük mesajı canlandıracak için en iyi yoldur. Açıkça kullanıcı ve baskı üretmek kolay anlaşılabilir.
+Kullanılabilirlik.
+Bu yöntemlerden herhangi birini kullanırken iki önemli ilke vardır: Birincisi koyu renkler renk varyasyonları milyonlarca varken insan gözünün kolayca ayırt edebilirsiniz kaç renk sınırlı olduğunu büyüklük ve ikinci yüksek olarak algılanan olmasıdır. Genellikle 5-7 renk kategorileri tavsiye edilir. Haritada kullanıcının kolayca tonu ima büyüklüğünü belirlemek ve efsane ile eşleşecek gerekir.
+Dikkat edilecek diğer noktalar renk körlüğü ve çeşitli üreme tekniklerini içerir. Örneğin, yukarıdaki bölümde tarif edilen kırmızı-yeşil bi-polar ilerlemesi dichromats için sorunlara neden olabilir. Bununla ilgili bir sorun olduğunu, öncelikle siyah beyaz cihaz ile yeniden takdirde tehlikeye olabilir doygunluk veya yoğunluğu yetersiz varyasyon tonu güveniyor renk ölçekleri; Bir harita siyah ve beyaz okunaklı ise, o zaman bir renk prospektif kullanıcının algısı ilgisizdir.
+Renk ölçüde haritacı ve dinleyiciler ama ne etkili ne de harita kullanıcıya hitap olan bir harita neden olabilir zayıf renk seçimi arasındaki iletişimi artırabilir; Bazen basit iyidir.

@@ -1,0 +1,10 @@
+1	Transgresyon	Transgresyon	Noun	Prop	A3sg|Pnon|Nom	2	SUBJECT	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	regresyon	regresyon	Noun	Noun	A3sg|Pnon|Nom	8	SUBJECT	_	_
+4	hangi	hangi	Adj	Adj	_	5	MODIFIER	_	_
+5	hareketler	hareket	Noun	Noun	A3pl|Pnon|Nom	6	CLASSIFIER	_	_
+6	dahilinde	dahil	Noun	Noun	A3sg|P3sg|Loc	8	LOCATIVE.ADJUNCT	_	_
+7	_	incele	Verb	Verb	_	8	DERIV	_	_
+8	incelenir	_	Verb	Verb	Pass|Pos|Aor|A3sg	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

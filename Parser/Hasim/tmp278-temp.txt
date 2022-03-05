@@ -1,0 +1,15 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Orojenez Orojenez+Noun+Prop+A3sg+Pnon+Nom
+nasıl nasıl+Adverb nasıl+Adj
+gerçekleşir gerçek+Adj^DB+Verb+Become+Pos+Aor+A3sg gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+AorPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Aor+A3sg gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

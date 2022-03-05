@@ -1,0 +1,27 @@
+Kodlama Blok Kesme
+Blok Kesme Kodlama, ya da BTC, gri tonlar görüntüler için kayıplı görüntü sıkıştırma tekniği türüdür. Bu bloklar halinde orijinal görüntüler böler ve daha sonra aynı ortalama ve standart sapma korurken, her blokta gri düzeyleri sayısını azaltmak için bir quantiser kullanır. BTC sıkıştırma yöntemi ilk Renk Hücre Sıkıştırma denilen çok benzer bir yaklaşım kullanarak DXTC önce uzun renklendirmek için adapte edilmiş olsa da, popüler donanım DXTC tekniğinin erken atasıdır. BTC ayrıca video sıkıştırma adapte edilmiştir
+BTC ilk Purdue Üniversitesi'nde Robert Mitshell tarafından önerilmişti. BTC başka varyasyonu Mutlak Moment Blok Kesme Kodlama veya yerine standart sapması birinci mutlak moment kullanarak ortalama birlikte korunduğu AMBTC vardır. AMBTC BTC daha hesaplama basittir. AMBTC Maximo Lema ve Robert Mitchell tarafından önerilmişti.
+8-bitlik bir tamsayı değerleri iletim ya da depolama esnasında kullanılan varsayarak 1: 4x4 piksel alt blok kullanılarak 4 kişilik bir sıkıştırma oranı verir. Daha büyük bloklar daha sıkıştırma (daha fazla piksel yayılmış "a" ve "b", değerleri) ancak kalite nedeniyle de algoritmanın doğası blok boyutu artması ile azalır izin verir.
+BTC algoritması Mars Pathfinder adlı gezici görüntüleri sıkıştırmak için kullanılmıştır.
+Sıkıştırma işlemi.
+A 256x256 piksel görüntü, genellikle 4x4 piksel bloklar ayrılmıştır. Ortalama ve Standart Sapma hesaplanır her blok için, bu değerler bloktan bloğa değiştirin. Bu iki değer yeniden ya da yeni bir blok başka bir deyişle BTC sıkıştırılmış görüntünün blokları aynı ortalama ve orijinal görüntünün standart sapma olacak, olacak hangi değerleri tanımlar. Blokta iki seviyeli niceleme biz sıkıştırma kazanç nerede aşağıdaki şekilde gerçekleştirilir ise:
+FORMULA_1
+Nerede piksel orijinal blok elemanları ve formula_3 sıkıştırılmış blok elemanları formula_2 are. Yani bu şekilde açıklanabilir: Bir piksel değeri, bu değer "1" atanmış ortalama büyükse, aksi takdirde "0". Ortalamaya eşit değerler "1" veya algoritma uygulayan kişinin veya kuruluşun tercihine bağlı olarak "0" ya sahip olabilir.
+Bu 16 bit blok saklanabilir veya ortalama ve standart sapma değerleri ile birlikte iletilir. İmar ortalama ve standart sapma korumak iki değer "a" ve "b", ile yapılır.
+şöyle "a" ve "b" değerleri hesaplanır:
+formula_4
+formula_5
+Formula_6 standart sapma olduğunda, m blok ve q piksellerin sayısı ortalamasından daha büyük piksel sayısı (formula_7) olduğu
+Bir görüntüyü yeniden oluşturmak, ya da yaklaşım oluşturmak için, 0 tahsis elemanları 1 atanmış "a" değerine ve elemanları ile ikame edilmektedir, "b" değeri ile değiştirilir.
+formula_8
+Bu algoritma kodlayıcı dekoder daha yapılacak çok fazla iş var ki asimetrik olduğunu göstermektedir. Kodlayıcı ayrıca ortalama, standart sapma ve kullanımı iki değerlerini hesaplamak için gerekli ise dekoder sadece tahmini değeri ile 1'ler ve 0'lar yerini almaktadır olmasıdır.
+Örnek.
+Encoder.
+Bu durumda, bir görüntüden dağ testi görüntü 4x4 blok atın:
+formula_9
+Bu rakamlar tüm oldukça benzer olarak çalışmak için oldukça sıkıcı görünen bir görüntü herhangi küçük bir blok gibi, bu kayıplı sıkıştırma ve nasıl görüntüler için bu kadar iyi çalışabilir doğasıdır. Şimdi ortalama ve standart sapma olan bu verilerin, iki değerlerini hesaplamak gerekir. Ortalama 241,875 ile hesaplanabilir, bu başka bir açıklama istemeniz gerekir, basit bir hesaplama olduğunu. standart sapma kolayca 4,36 olarak hesaplanmıştır. Bu Kimden "a" ve "b" değerleri, önceki denklemler kullanılarak hesaplanabilir. Onlar sırasıyla 236,935 ve 245,718 olarak çıkıyor. kodlama tarafında yapılması gereken son hesaplama her piksel tek bir bit olarak aktarılır, böylece 1 ler ve 0 's iletmek için matris ayarlamaktır.
+formula_10
+Decoder.
+Şimdi dekoder tarafında yapmamız gereken tüm 1 ve 0 piksel "a" ve "b", değerleri yeniden atamak olduğunu. Bu bize şu bloğu verecektir:
+formula_11
+Görüldüğü gibi (resim kayan nokta sayıları saklamak için tanımlı değil çünkü), blok "a" ve tamsayılar olarak "b" İki değerleri ile yeniden inşa edilmiştir. Teori ile çalışırken, bu ortalama ve yeniden bloğun standart sapmasını hesaplamak için iyi bir noktadır. Bunlar orijinal ortalama ve standart sapma eşit olmalıdır. Daha önce encoder tamsayılar için her şeyi quantised olarak, aksi takdirde çok niceleme hatası dahil olacak, tamsayılar kullanmayı unutmayın.

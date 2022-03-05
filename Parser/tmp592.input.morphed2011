@@ -1,0 +1,44 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kalıtımda	kalıt+Noun+A3sg+P1sg+Loc
+Kalıtımda	kalıtım+Noun+A3sg+Pnon+Loc
+
+ayrılma	ayır+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+ayrılma	ayır+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+
+kuralı	kur	+Verb+Pos^DB+Adverb+SinceDoingSo
+kuralı	kura	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+kuralı	kural	+Noun+A3sg+P3sg+Nom
+kuralı	kural	+Noun+A3sg+Pnon+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+ortaya	orta	+Noun+A3sg+Pnon+Dat
+ortaya	ortay	+Noun+A3sg+Pnon+Dat
+
+çıkmıştır	çık+Verb+Pos+Narr+A3sg+Cop
+çıkmıştır	çık+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

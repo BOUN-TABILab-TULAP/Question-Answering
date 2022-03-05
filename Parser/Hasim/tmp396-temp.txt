@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Farklı fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+türlerin tür+Noun+A3pl+Pnon+Gen tür+Noun+A3pl+P2sg+Nom
+bireyleri birey+Noun+A3pl+Pnon+Acc birey+Noun+A3pl+P3sg+Nom birey+Noun+A3pl+P3pl+Nom birey+Noun+A3sg+P3pl+Nom
+arasındaki ara+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+rekabete rekabet+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

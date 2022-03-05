@@ -1,0 +1,191 @@
+Question: Difüzyon nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pasif Taşıma  (EBA)</DOCTITLE>
+<TEXT>
+
+Moleküllerin hücre zarından enerji harcamadan, yoğunluk farkından dolayı hücre zarındaki yağ tabakasından veya protein kanallarından doğrudan geçmesi pasif taşımadır. 
+a. Difüzyon 
+Moleküllerin çok yoğun ortamdan az yoğun ortama doğru yayılmaları ya da geçişmeleri olayına difüzyon denir. Difüzyon, günlük yaşantımızda sabah kahvaltısında çayımıza karıştırdığımız şekerin çözünmesi, meyve sularına karıştırılan karbondioksit ile elde edilen gazlı içecekler gibi sürekli olarak karşılaştığımız bir olaydır. Difüzyon çok yoğun ortamdan az yoğun ortama moleküler denge sağlanıncaya kadar devam eder. Bir maddenin difüzyon hızı zardaki protein kanalının sayısı, molekülün büyüklüğü, sıcaklık, difüzyon yüzeyinin genişliği, molekülün yapısal özellikleri vb. durumlardan etkilenir. Suda çözünmeyen ve yağda erimeyen maddelerin (glikoz, galaktoz vb.) hücre zarından geçişleri zarın yapısında bulunan özel proteinlerle gerçekleşir (Resim 81). Bu yapılara taşıyıcı protein denir. Difüzyon sırasında enerji harcanmaz, enzim kullanılmaz, canlılık şart değildir (Etkinlik 24). 
+b. Osmoz 
+Su moleküllerinin, seçici geçirgen bir zardan, su miktarının çok olduğu ortamdan, su miktarının az olduğu ortama geçerek yayılmasıdır (Resim 82). 
+Hücre içindeki suyun hücre zarına yaptığı basınca turgor basıncı denir (Resim 83). Ortamda çözünmüş maddelerin zara yaptığı basınç ise emme kuvveti olarak adlandırılır. Emme kuvveti ve turgor basıncı birlikte ozmotik basıncı meydana getirir. Su molekülleri ozmotik basıncın fazla olduğu yere doğru hareket eder. Bitki hücrelerinde görülen turgor olayı kofullar tarafından düzenlenir. Yayılma hava basıncından veya turgor basıncından etkilenebilir. 
+Bir hücre kendisinden daha yoğun (hipertonik) bir ortama konulursa hücre su kaybederek büzülür (Resim 84). Bu olaya plazmoliz denir. Günlük hayatımızda tuzlanan derinin su kaybederek büzülmesi, balıkların tuzlanarak kurutulması ve salatanın tuzlandıktan sonra sulanması olayları birer plazmoliz örneğidir. 
+Ozmotik basınç arttıkça emme kuvveti de artar. Ozmotik basınç, birim hacimde çözünmüş madde miktarı ile doğru orantılıdır. Örneğin ozmotik basınç plazmoliz olmuş hücrede fazla, turgor olmuş hücrede azdır. Ortamda monosakkarit sayısının artması ozmotik basıncı daha çok artırır. 
+Bir hücre kendisinden daha az yoğun bir ortama (hipotonik ortam) konursa su alarak şişer. Bu olaya da deplazmoliz denir (Resim 85). Bitki hücrelerinde deplazmoliz devam ederse hücre şişer ve turgor durumuna geçer. Hayvan hücrelerinde deplazmoliz devam ederse hücre patlar. Buna hemoliz denir. 
+Bir hücre denge ortamına (izotonik ortama) konursa hiçbir değişikliğe uğramaz. Bu durumda ozmotik basınç turgor basıncına eşittir. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Graham difüzyon yasası</DOCTITLE>
+<TEXT>
+
+Graham difüzyon yasası, İskoç fiziksel kimyacı Thomas Graham tarafından bulunan gazların difüzyon hareketini açıklayan yasadır.
+Bu yasaya göre, gazların difüze olma (dağılma) hızı mol kütlelerinin karekökü ile ters oratılıdır:
+Aynı sıcaklık ve basınçta iki farklı gazın difüzyon hızları karşılaştırıldığında mol kütlesi küçük olan, büyük olana göre daha hızlı yayılır. Gazların öz kütleleri mol kütleleriyle doğru orantılı olduğundan Graham difüzyon yasası aşağıdaki şekilde yazılabilir:
+Örneğin H2 gazının mol kütlesi 2'dir, O2 gazının 32'dir. Buna göre:
+Bu sonuç hidrojen gazının oksijene göre 4 kat faha hızlı yayıldığını gösterir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Difüzyon</DOCTITLE>
+<TEXT>
+
+Difüzyon, Geçişme veya Yayılma olarak da bilinir, maddelerin çok yoğun ortamdan az yoğun ortama göçü. Fiziksel kimyada ise moleküllerin kinetik enerjilerine bağlı olarak rastgele hareketlerine denir.
+Difüzyon, maddenin bütün hallerinde farklı hızda ve özellikte görülür.
+Difüzyon, hayvan ve bitkilerde gerçekleşen birçok doğal olayda büyük önem taşır. Kandaki alyuvarlar saf suya konulacak olursa, su hücre çeperinden alyuvarın içine dolarak hücrenin şişmesine ve patlamasına yol açar. Bitkilerin köklerinin suyu emmesi ve böbreklerde idrar oluşumu da geçişme olayı sayesinde gerçekleşir. Bitki hücrelerinin şişliği, hücre zarının iki yanındaki basınç farkı yüzündendir: Yoğunluğu yüksek olan hücrenin içine dolan su, şişmesine neden olur. 
+Difüzyon olayından, ciddi böbrek hastalıklarında kullanılan diyaliz makinesinde yaygın biçimde yararlanılır.
+Difüzyonun temel düşüncelerinden birini oluşturan rastgele hareket etme ilk olarak kendi adını verdiği Brown Hareketi olarak ileri sürülmüştür. Onun bu rastgele hareketi için en iyi örnek, bir futbol sahasına doldurulan coşkulu insanların üzerlerine gönderilen bir topu elleriyle havaya doğru atmalarıdır. Topun yapacağı hareket tamamen rastgele ve çeşitli yönlerde olacaktır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Difüzyon sabitinin ölçülmesi</DOCTITLE>
+<TEXT>
+
+Difüzyon sabitinin ölçülmesi için yaygın olarak kullanılan iki yöntem vardır.
+1. Serbest sınır yöntemiyle difüzyon katsayılarının ölçülmesi (Free Boundary Methods).
+Bu metot uzaklığa bağlı konsantrasyon değişiminin ölçülerek dc/dx hız eğiminin hesaplanması ilkesine dayanır. 
+Konsantrasyon değişimleri, incelenen sıvıya göre UV spektrometresi, kolon kromatografisi ya da elektroforez gibi uygun bir yöntemle izlenir.
+Homojen dağılım yapan bir sıvı için x uzaklığına göre konsantrasyon değişimi normal dağılış gösterir. Bununla ilgili olarak gerekli bağıntı:
+Burada Co, başlangıç konsantrasyonunu göstermektedir. 
+Varyansın hesaplanmasında kullanılan matematiksel ifadelerden yararlanılarak 2Dt = σ2 kabulü yapılabilir. Varyansın hesaplanması için σ2 = 1/n ∑(x-x’)2 bağıntısı kullanılır ve bir önceki kabulden yararlanarak yukarıdaki eşitlikte yerine koyulur. Böylece difüzyon sabiti hesaplanabilir.
+2. Gözenekli tıkaç yöntemi (Porous plug method).
+Bu yöntem 1. Fick Kanununun(en) uygulaması şeklindedir. 
+Burada,
+A gözeneklerin kesit alanı,
+l gözeneklerin uzunluğudur.
+Buna göre difüzyon sabiti D sadece c1 ve c2 konsantrasyonlarına bağlı olarak ölçülebilir. Ölçülmesi gereken değer sadece dm/dt zamana göre kütle değişimidir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Difüzyon basıncı</DOCTITLE>
+<TEXT>
+
+Sıcaklık sabit kaldıkça bir gazın basıncı, konsantrasyonu ile yani o gazın birim hacimdeki molekül sayısı ile doğru orantılıdır. Öyleyse karışık gazlardan oluşan bir sistemde gaz moleküllerinin difüzyonu her gazın kısmi basıncına bağlıdır ki buna difüzyon basıncı denir. İki bölge arasındaki difüzyon basıncı farkı her ne kadar büyükse difüzyon o kadar süratlidir. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anizotropik difüzyon</DOCTITLE>
+<TEXT>
+
+Anizotropik difüzyon, Görüntü ve sinyal işleme alanında, sinyal düzenlileştirme, uyarlamalı gürültü azaltma, sınır sezme gibi uygulamalarda başarıyla kullanılan bir konsepttir. 1990 yılında Perona ve Malik tarafından yayınlanan makalede önerilmiştir.
+Kısmi türevli diferansiyel denklemler teorisinin, görüntü işleme alanındaki tipik bir uygulamasıdır. Görüntüler difüzyon denklemine başlangıç koşulu olarak verilirler ve Isı denklemi iteratif olarak çözülerek bir çıkış görüntüsü üretilir. Bu görüntü amaca göre pek çok uygulamada kullanılabilir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Organik güneş pili</DOCTITLE>
+<TEXT>
+
+Organik güneş hücresi güneşten gelen ışığı aktif polimer tabakası ile absorbe eden ve doğrudan elektrik enerjisine çeviren bir cihazdır.İnorganik güneş hücrelerinden farklı olarak geniş yüzeylere kaplanabilmesi, düşük maliyetli olması ve kolay üretilebilmesinin yanı sıra organik kimyasındaki gelişmelere paralel olarak daha farklı özellikler kazandırılabilinir olması bu teknolojinin cazibelerindendir. 
+Aktif polimer tabakası güneşten gelen ışığı absorbe edip elektron ve hol(boşluk) çiftleri(exciton) oluşturur. Yükler ayrıştıktan sonra elektronlar bir elekroda (katot), holler ise diğer elektroda (anot) doğru yol alırlar. Bu şekilde akım ve voltaj üretilir.
+Bütünleşik Organik Güneş Hücresi.
+Su ana kadar en yüksek güç çevrim verimini poli(3-hexylthiophene) (P3HT) yarı-iletken polimeri ve bir karbon-60 türevi olan [6,6]-phenyl-C61-butyric acid methyl
+ester (PCBM)’nin homojen karısım halinde yüzeye kaplandıgı yöntemin sagladıgı görülmüstür. Bu karışımda P3HT boşluk iletici (p-tipi), PCBM elektron iletici (n-tipi) olmak üzere, ilk paragrafda belirtildiği gibi, yük iletimini apolar bir şekilde sağlamaktadır (Şekil 1). Araştırmalara göre, P3HT/PCBM kütlesel oranının 1/1 olmasının diğer oranlara göre, daha dengeli yük transferi sağladığı uçuş zamanı (Time-of-Flight) testleriiyle belirlenmiştir. Literatürde bu tip aktif katman yapısına sahip güneş hücrelerine "bulk heterojunction" adı verilmektedir ve P3HT:PCBM ikilisi dışında P3HT: tri-metalik nitrat endohedral (Lu3N@C80) , poli(cyclopentadithiophene-benzothiadiazole) (PCPDTBT):PCBM gibi farklı polimer-carbon türevleri üzerinde çalışmalar sürmektedir (Şekil 2). P3HT:PCBM tipi güneş hücreleri esnek yüzeylerde üretilebilinir ve oldukça hafiftir. Rulodan-ruloya üretim sistemleriyle ucuza mal edilebilir. Taşınabilir elektronik cihazları hareket halindeyken bile sarj edecek enerjiyi sağlayabilir. Bu tip organik güneş hücresini incelersek esnek ve saydam ITO kaplı PET yüzey üzerine sırasıyla boşluk-taşıyıcı katman olarak bilinen PEDOT: PSS, aktif karışım P3HT:PCBM ve son olarak aluminyum kaplandığını ve bu şekilde güneş hücresinin üretiminin gerçekleştiğini görebiliriz. Güneş’ten gelen fotonlar sırasıyla PET, ITO ve PEDOT:PSS katmanlarından geçerek P3HT:PCBM filmine ulaşırlar, ve burada sahip oldukları enerjiyi elektron-boşluk çiftleri olan exitonları olusturmak için kullanırlar. Elektron-boşluk çiftleri birbirinden ITO ve aluminyum elektrodlarının is fonksiyonu seviyeleri arasındaki farkın sebep oldugu elektrik alan etkisiyle ayrılır. Elektronlar aluminyum, delikler ise ITO elektroduna taşınır. Bu sayede devrede akımın oluşması sağlanır ve foton enerjisinin elektrik enerjisine dönüşümü tamamlanır. 
+P3HT:PCBM (bulk) güneş hücrelerinin diğer organik güneş hücrelerden daha yüksek verime sahip olmasının en büyük nedeni; p-tipi polimerin içinde (P3HT), n-tipi carbon nano parçacıkların (PCBM) homojen bir şekilde dağılmış olmaları sayesinde p-n arayüz alanının artmış olmasıdır. Bu sayede etkin yük ayrışım oranı artmakta, dolayısıyla hücrenin verimi artmaktadır. Organik güneş hücrelerinde verimi arttırmak için böyle bir yapıya ihtiyaç duyulmasının nedeni, yüklerin difusyon kapasitelerinin polimerlerde çok düşük olmasıdır. Bu nedenle, organik güneş hücreleri klasik yapılarda üretildikleri zaman (bkz. inorganik güneş hücreleri) parçacıklar arayüze ulaşamadan elektriksel yüklerini kaybetmektedirler (rekombinasyon). Ancak P3HT:PCBM (bulk) yapsında arayüz alanının büyük olması nedeniyle parçacıklar elektriksel yüklerini kaybetmeden ayrışırlar ve güvenli bir şekilde iletilmeleri gereken elektrotlara iletilirler., 
+Bir enerji dönüşüm cihazında verimlilik çok önemlidir. Her şeyden önce uyarım (eksitasyon) oluşturmakta kullanılan fotonları aktif tabakanın mümkün olduğu kadar soğurması gerekmektedir. Aktif tabakanın kalınlığı yük taşıyıcı hareketliliğiyle(Mobilite) ters orantılıdır. Birçok polimerin aktif tabaka kalınlığı kısıtlanmışsa da tipik olarak birkaç yüz nanometre mertebesinde olabilir. Dolayısıyla güneş spektrumluyla aktif katmanın soğurma spektrumu arasındaki uyum ve 100–200 nm lik ince filmlerdeki solar radyasyon soğurmasının maksimize edilmesi önemli bir konudur. Bu açıdan düşündüğümüzde 2 eV un üstündeki bant aralıklı polimerler sadece görünür bölgedeki yeşil bölgeyi soğururlar. Örneğin, gelen günes ışığının sadece küçük bir kısmının P3HT:PCBM filmi tarafından soğurulması sorununu halletmek için yaklaşık 100 nm kalınlıgındaki filmin kalınlığı artırılmıştır. Bu yol soğurulan foton miktarının artmasını sağlamış, fakat hücrenin seri direncini de arttırmıştır bu yüzden pek de cazip bir çözüm değildir. Bu konuda en etkili çözüm yöntemi, aktif polimerin moleküler yapısını daha düzenli hale getirmektir. Çünkü, düzenli moleküler yapıya sahip malzemelerin ışığı soğurma kapasitesi artar. Polimerlerin moleküler yapısı, katı veya sıvı halde iken yapılan ısıl işlemler sayesinde daha düzenli hale getirilebilinir. 
+Mikroyapı Optimizasyon Teknikleri.
+Bütünleşik güneş hücrelerinden daha yüksek verim elde edebilmek için aktif katmanda bulunan p-n arayüz alanının arttırılması gerektiği belirtilmiştir. Arayüz alanı arttırımı ancak aktif katman mikroyapısının kontrollü bir şekilde düzenlenmesi ile mümkündür. Literatürde, rapor edilen optimizasyon teknikleri; Katılaştırma sonrası ısıl işlemi, çözüzücü buharıyla yapılan ısıl işlem ve organik madde ilavesi olarak sınıflandırılabilinir. Bu bölümde, bahsi geçen prosesler sonucunda elde edilen mikroyapılar ve bunların hücre performansı üzerindeki etkileri anlatılacaktır.
+Katı Hal Isıl İşlemi.
+P3HT:PCBM ikilisinin bütünleşik (GP)ler hakkında yapılan çalışmalarda sıkça kullanılmasının başlıca sebebi, katı hal ısıl işleminin aktif katman mikroyapısı üzerinde çok etkili ve pozitif sonuçlar vermiş olmasıdır. Yapılan ilk çalışmalar ısıl işlem parametrelerini optimize etmek yönündeydi. Bu çalışmalarda aktif katman, 75-230 °C derece arası sıcaklıklara, 10 ile 40 dakika arasında değişen sürelerde maruz bırakıldı. Sonuçta en verimli sonucun 110-150 °C sıcaklık aralığında 10-20 dakika zaman zarfında uygulanan ısıl işlemlerden elde edildiği belirlendi., .
+Konu hakkında yapılan önemli çalışmalardan birinde, İndium tin oksitin üzerine 25 nm'lik polyethylenedioxythiophene/polystyrenesulphonate (PEDOT/PSS) katmanı ve 220 nm'lik (1/1) kütle oranına sahip P3HT:PCBM aktif katman spin kaplama yönetemiyle kaplanmıştır(Şekil 3). Ardından bu yapı 110 °C sıcaklıkta 10 dakika boyunca ısıl işleme tabi tutulmuştur. Isıl işlem sonrasında, işlem uygulanmamış hücrelerle karşılaştırmalı olarak yapılan testlerin sonuçları ise şöyledir;
+Elde edilen dolum faktörü üretilegelmiş güneş hücreleri içerisinde rapor edilen en yüksek değerlerden biridir. Uygulanan ısıl işlemin ,yük kilitleyici iç yapı defolarını ve mikro çatlakları yok ettiği için DF'yi yükseltmekle kalmayıp, malzemenin paralel(shunt) direncinide arttırdığı(180-640 MΩ) düşünülmektedir.DF'yi arttıran bir başka faktörde aktif katman yüzeyinin ısıl işlem nedeniyle daha pürüzsüz bir hal alması ve böylece kontak direncinin düşmesidir. Bunun yanı sıra, aktif katmanın, (450-600nm) dalgaboyundaki ışığı %95 soğurabilmesi için, kalınlığının 240 nm olması gerektiği teorik olarak hesaplanmıştır.. Aktif katmanın bu kalınlıklarda defosuz ve düzgün bir moleküler yapıyla üretilebilmesi, bu sayede düşük bir seri dirence sahip olması ısıl işlemle mümkün kılınmıştır.
+Birbaşka araştırmadada, ısıl işlemin P3HT:PCBM iç yapısını nasıl değiştirdiği aktarılan elektron mikroskopu (TEM) ve elektron kırınım spektografisi (EDS) kullanılarak incelenmiştir. İnceleme sonucunda, ısıl işlem sayesinde hem P3HT hemde PCBM'in moleküler düzenlerinin arttığı belirtilmiştir. Buna ek olarak, ipliksi P3HT yapısının uzadığı ve PCBM'in küresel biçimde çekirdeklendiği bu sayede p-n arayüz alanının arttığı gözlemlenmiştir (Şekil 4). İç yapıdaki bu gelişmelerin artan hücre veriminde büyük pay sahip olduğu kabul gören bir teoridir.
+Çözücü Tavlaması (Solvent Annealing).
+Aktif katman çözeltisi spin kaplama esnasında hızlı soğumuya maruz kalırsa P3HT moleküllerinin ağ yapısı ve şekli bozulur. Oluşan bu düzensizlik P3HT moleküllerinin daha düzenli hale gelmelerine neden olabilecek bir itici güce sebebiyet verir. Eğer katılaşma periyodu uzatılabilirse, P3HT moleküler yapısı bu itici güç sayesinde spontane olarak kendini düzenler. Bu işlem sonucunda moleküler yapısı düzenlenen P3HT polimerinin ışığı soğurma kapasitesi ve mobilitesi artarken seri direnci düşer ki bütün bunlar hücre verimini arttıran faktörlerdir., ,
+Konu ile ilgili yapılan bir araştırmada, farklı aktif katman katılaştırma sürelerinde elde edilen hücre performansları karşılaştırılımştır. Buna göre katılaştırma süresi 20 saniyeden, 20 dakikaya çıkarılındığında;
+Araştırmacılar, 2,4 Ωcm2 gibi düşük bir aktif katman seri direncinin, çözücü tavlaması uygulanmamış bir hücrede ancak 48-50nm kalınlığındaki bir aktif katmanda görülebileceğini belirtmişlerdir.. Bu örnek, katılaştırma öncesi ısıl işlemin, aktif katman mikroypısını düzenleyerek mobiliteyi arttırdığının kanıtıdır.
+Ayrıca, artan moleküler düzenin quantum veriminide olumlu etkilediği belirtilmiştir. Araştırmacılar, hızlı katılaştırılan aktif katmanların 350 nm dalga boyunda en fazla yüzde 19 quantum verimi ile çalıştığını ancak aynı hücre çözücü tavlamasına tabi tutulduğu zaman 500nm dalga boyunda yüzde 63 quantum verimi ile çalştığını rapor etmişlerdir.
+Son zamanlarda konu ilgili yapılan çalışmalara göre, çözücü tavlaması uygulanmış hücrelere üretim aşamasının ardından ısıl işlem uygulanırsa çok daha iyi hücre performansları elde etmek mümkün. Çünkü, bu ısıl işlem aktif katmanın mikroyapısını düzeltmekle kalmayıp katot-yarı iletken arayüzünüde düzenlemekte ve bu sayede kontak direncinide düşürerek çok daha yüksek hücre verimi sağlamaktadır.
+Organik Madde İlavesi.
+Aktif katman mikroyapısı hiçbir ısıl işlem ya da tavlamaya gerek duyulmadan çözeltiye eklenecek organik maddeler sayesindede düzenlenebilinir. Bu işlem özellikle mikroyapı ısıl işlemle düzenlenemediği veya karıştırılan p ve n tipi maddeler birbiri içerisinde yeteri kadar çözünmediği zaman etkilidir. Eklenen maddeler genelde, aktif katman ince film şeklinde kaplanırken, çözelti içerisinde topaklayıcı olarak görev alarak daha düzenli ve fazla p-n arayüzü oluşmasını sağlarlar (Şekil 5). Örneğin, PCPDTBT:PC70BM ikilisi ile oluşturulan çözeltiye, kütlesel olarak %2-3 (1,8)-octanedithiol ilave edilerek hazırlanan aktif katmanın, hücre verimini yüzde 2,8'den 5,5'e çıkardığı rapor edilmiştir.
+Ayrıca, katı polimerik maddelerde çözeltilerin içinde çekirdekleyici ve kristal yapı düzenleyici olarak etkili olarak kullanılabilirler. Örneğin, P3HT:PCBM çözeltisine, kütlesel olarak %1,5-3 thienothiophene-pentathiophene monomerlerinin oluşturduğu, ko-polimerler ilave edilerek hazırlanan aktif katmanın moleküler düzeninin arttığı ve bu katmanla oluşturulan hücrenin daha yüksek performans gösterdiği rapor edilmiştir.
+Birleşik (Tandem) Organik Güneş Hücresi.
+Hücre verimini arttırmanın bir başka yoluda ışığı soğurma karakteri farklı iki farklı aktif katmanın seri bağlanmasıyla elde edilen hücre yapısıdır. Bu yapıda farklı dalga boylarındaki ışığın soğurulması ve hücre veriminin artması sağlanır. Bu tip hücrelere birleşik (tandem) güneş hücresi adı verilir. Literatürde, inorganik aktif katmanın üzerine organik katman kaplanmasıyla oluşturulan hibrit tandem hücreler mevcuttur. Ancak tamamen organik bir tandem güneş hücresi üretildiğinde, en yüksek hücre performansını farklı bant boşluğuna sahip iki değişik bütünleşik aktif katmanın seri olarak bağlanmasıyla elde edilen hücrelerin verdiği görülmüştür. 
+Konuyla ilgili yapılan bir araştırmada, PEDOT:PSS kaplı saydam anot (ITO)'nun üzerine 110nm kalınlığında PCPDTBT:PCBM aktif katman spin kaplama yöntemiyle kaplanmıştır. Bu yapının üzerine, elektron ve boşluk transferini kolaylaştrmak ve aktif katman yapılarının bozulmadan dengeli bir şekilde bağlanması için sol-gel yöntemiyle TiO katmanı kaplanmıştır. Ardından, arayüz kalitesini arttırarak yük transferini kolaylaştıran PEDOT:PSS katmanı tekrar kaplanmış ve bunun üzerine 220 nm kalınlığında P3HT:PCBM aktif katmanı kaplanmıştır. Son olarak katotla aktif katman arasındaki yük transferini kolaylaştırmak için tekrar TiO kaplanmış ve katot bu yapının üzerine kaplanarak devre tamamlanmıştır. (şekil 6 Genelde, tandem güneş hücrelerinde yüksek bant aralığına sahip ince aktif katman saydam anotun üzerine kaplanır ardından düşük bant aralığına sahip daha kalın bir aktif katman yapının üzerine eklenirdi. Ancak bu çalışmada düşük bant aralıklı ince PCPDTBT:PCBM'in üzerine yüksek bant aralıklı kalın P3HT:PCBM eklenerek tam tersi yapılmıştır. Bunun nedeni, 130nm'den kalın PCPDTBT:PCBM aktif katmanının mikroyapı optimizasyonu çok zor olduğu için DF'sinin yani hücre veriminin düşmesidir. Bununla birlikte, 200nm'den kalın P3HT:PCBM katmanı çok daha yüksek hücre verimi göstermektedir. Tüm bu faktörler araştırmacıların klasik yapıya göre hücreleri ters bağlamalarına neden olmuştur. Bahsedilen hücre yapısından elde edilen performans değerleri;
+Bir organik güneş hücresi için yüksek sayılabilecek bu sonuçların arkasındaki neden hücrelerin ışık soğurma eğrisi incelendiği zaman açıkça anlaşılabilmektedir. Görüldüğü gibi, P3HT ve PCPDTBT'in ışık soğurma karakterleri birbirini destekler niteliktedir, PCDPDTBT kızılötesine yakın(700-850nm) ve ultra viole bölgesinde ışığı soğururken P3HT görünür ışık bölgesinde yüksek bir verimle soğurmaktadır (şekil 7). Bu nedenle, bu iki aktif katmanla oluşturulan tandem hücreler, birbirlerinin eksiklerini tamamladıkları için, çok geniş bir spektrumda ışık soğurma kapasitesine sahiptir (Şekil 8). Artan ışık soğurma spekturumu, pl verimini arttıran en önemli faktördür.
+Organik güneş hücrelerinde(fotovoltaik) Düşük Bant Aralığına Sahip Polimerler Kullanılması.
+Bir başka yaklaşımda, küçük bant boşluğuna sahip malzemeler kullanarak daha düşük frekanslara sahip olan fotonlarında eksitasyon mekanizmasına katkıda bulunmasını sağlamaktır. Bu yüzden güneş spektrumuyla daha fazla çakışma sağlayabilen düşük bant aralığına sahip polimerler kullanan organik güneş hücreleri son yıllarda dikkatleri üstüne toplamıştır. Şekil 1’de Organik fotovoltaiklerde yaygın olarak kullanılan P3HT, MEH-PPV ile düşük bant aralıklı polimerin emme tayfı kıyaslanmıştır. Genel olarak düşük bant aralığına dayalı güneş hücreleri uzun dalga boylu fotonların yutulmasında düşük foto voltaj verilir. Çeşitli bant aralıklarda bir grup değişik polyfluorne kopolimerler sentezlenmişlerdir ve bu kopolimerlerin bazılarına dayalı güneş hücreleri 1 V luk etkileyici bir foto voltaj sergilemişlerdir.
+620nm den daha uzun dalga boylarını absorbe edebilen yani bant aralığı 2 ev tan daha düşük olan polimerler düşük bant aralığına sahip polimerlerdir. Polimer güneş hücreleri, iki elektrot arasındaki aktif bir tabaka yerleştirerek yapılır. Aktif tabaka genellikle, elektron vericisi ve elektron alıcısını bünyesinde barındıran kopolimerden oluşur. Kopolimerler fused ring adı verilen bir sistemle sentezlenir. Kopolimerlerin düşük bant aralığına sahip olmasının 3 nedeni vardır. Birincisi elektron verici ve alıcı birim arasındaki geliştirilmiş çift bağ sistemidir. Diğeri ise kopolimerin bant aralığının verici birimin HOMO’su alıcı birimin ise LUMO’su tarafından belirlenmesidir(şekil 3). Verici ve alıcı birimlerin bant aralığı eklentilerle değiştirilebilir. Örneğin verici birime thiophene ve pyrrole eklenerek HOMO seviyesi yükseltilir, elektron alıcı gruba ise thiadiazole ve pyrazine eklenerek LUMO seviyesi düşürülür. Sonuncusu ise zincir içi yük transferi elektron ilgisiyledir. Verici birimin elektron ilgisinin alıcı birime göre düşük olduğu görülmüştür bu da yüklerin ayrışmasını sağlar. Bunlara ek olarak π-konjugasyonunun uzunluğu arttıkça bant aralığını azaltır.
+Önemli Parametreler.
+Kısa Devre Akımı (ISC), hücre üzerine uygulanan gerilim Va=0 V iken ölçülen akım, kısa devre akımıdır(Isc). Soğurulan fotonlardan kaynaklanan akım olan aydınlık akımına eşittir.
+Kısa devre akımı, cihazın morfolojisine, yük taşıyıcıların ömrüne ve mobilitelerine önemli ölçüde bağlıdır. Bant aralığının düşürülmesi photon emilimini artırdığı için en yüksek teorik kısa devre akımını artırır.
+Açık Devre Gerilimi (VOC), güneş hücrelerinde mümkün olan en yüksek gerilim değeridir. Elektrotlar birbiriyle bağlanmadığı durumda düzenekten akım geçmez ve soğurulan fotonlardan oluşan taşıyıcılar ( elektron ve holler) güneş hücresi içerisinde bir gerilim farkı oluştururlar. Bu gerilim farkı açık devre voltajını oluşturur. Örneğin,güneş hücresindeki basit bir p-n birleşmesinde ışığın etkisiyle meydana gelen taşıyıcıların birikimi, p-n birleşmesinin(p-n junction) n tarafında elektron artışına ve p tarafında hol artışına sebep olur. Bu yük ayrılması birleşme bölgesinde bir elektrik alan oluşturur ve bu alan birleşmenin önceden oluşan boşalma bölgesindeki elektrik alanla zıt yönde olduğu için net elektrik alan azalır. Boşalma bölgesindeki elektrik alan, ileri eğilimli(forward bias) difüzyon akımının geçişini engellediğinden, bu azalma difüzyon akımını artırır ve yeni bir denge durumu oluşur. Açık devre düzeneklerde,ışıkla oluşan akım ileri eğilimli difüzyon akımıyla dengeleninceye kadar N-P birleşmesinin ileri eğilimi devam eder. Bu iki akımın dengeye ulaşılması için gereken gerilim güneş hücresinin açık devre gerilimini oluşturur. 
+Dolum Faktörü (FF), fotovoltaik hücredeki en yüksek güç çıktısının teorik güç çıktısına oranı olarak tanımlanır. Theorik güç çıktısı açık devre geriliminin kısa devre akımıyla çarpımından hesaplanır. Güneş hücresinin performansı ölçümlerinde kullanılan önemli bir parametredir. 
+Güç Dönüşüm Verimi (η), fotovoltaik hücrelere gelen güneş ışığı enerjisinin ne kadarının elektrik enerjisine dönüştüğünü gösteren bir parametredir. Güç çıktısının güç girdisine oranıyla bulunur.
+Kuantum Verimi (QE), güneş hücresi tarafından biriktiren taşıyıcı sayısının, güneş hücresine gelen belirli enerjideki fotonların sayısına oranını gösterir. Belirli dalga boylarındaki fotonların hepsinin güneş hücresinde absorbe edilmesi ve oluşan bütün yük taşıyıcılarının hücre içerisinde biriktirilmesi kuantum veriminin 100% ya da 1 olduğunu belirtir. Güneş hücresinin kuantum verimliliği harici ve dahili kuantum verimliliği olmak üzere iki şekilde ifade edilir. Harici kuantum verimliliği gelen fotonların yansımalardan ve iletiminden kaynaklanan kayıpları içerir. Dahili kuantum verimliliği yalnızca absorbe edilmiş olan fotonların yansıma ve iletim kayıplarını içerir.
+Çalışma Prensibi.
+Organik güneş hücreleri belirli süreçlerden geçerek elektrik akımının oluşmasını sağlar. Temel süreçler aşağıda belirtilmiştir.
+Güneş ışığının yüzeyde tutulması.
+Güneş hücrelerindeki esas amaç gelen ışığın olabildiğince yüksek miktarlarda absorbe edilip elektrik enerjisine çevrimi olduğundan inorganik ve organik güneş hücrelerinde genellikle yansımayı engelleyici bir tabaka güneş hücresinin üzerine kaplanır. Bu kaplamalar özel kalınlıklarda seçilmiş ince bir dielektrik malzeme tabakasından oluşur. Burada amaç, bu dielektik katmandan yansıyan dalgaların yarı iletken yüzeyden yansıyan dalgalarla faz dışı kalarak tahrip edilmesi ve gelen ışığın yansımasının engellenmesidir. Gelen ışığın dalga boyunun 1/4 üne tekamül eden dalga boyunu sağlayacak bir dielektrik malzeme seçilerek bu kaplamanın kalınlığı belirlenir. 
+Fotonun emilimi ve eksiton oluşumu.
+Fotovoltaik bir hücrenin yarattığı elektrik akımı, o hücredeki yaratılmış yüklerin sayısı ve bu yüklerin elektrotlarda birikimiyle orantılı olarak değişir. Elektrotlarda biriken yük sayısı,güneş hücresinde absorbe edilen fotonun oranına, elektron hol çiftlerinin coulomb etkisiyle bağlanarak oluşturduğu eksitonun ayrılma oranına, ve ayrılmış serbest yüklerin elektrotlara ulaşarak elektrik akımını oluşturma oranına göre değişir.
+Organik güneş hücresi içerisinde verimli bir şekilde foton birikmesi için fotoaktif organik tabakanın emilim spektrumu güneş yayılım spektrumuyla eşleşmeli ve bu tabakanın gelen ışığı yüksek miktarlarda absorbe edecek kalınlığa sahip olması gerekir. Genellikle organik malzemelerin optic emilim katsayısı, kristal ve amorf yapıdaki silikonun optik emilim katsayısına göre çok daha yüksektir. Örneğin, MDMO-PPV ve P3HT gibi conjuge polimerlerin optik katsayısı, spektrumun görülebilir bölgesinde olup, 1×10-5cm-1 düzeyini aşmaktadır. Bu değere göre, 100 nanometre kalınlıktaki bir organik polimer tabakası kullanılarak güneşten gelen fotonların yoğunluğunu, orijinal yoğunluğunun % 36 ına indirmek mümkündür. Organik malzemenin yarattığı etki, kristal silikonun ışık yoğunluğunu indirgemesiyle karşılaştırıldığında, aynı ölçüde bir ışık yoğunluğu azalımı için silikon tabakanın kalınlığının organik tabakaya kıyasla 100 kez daha büyük olması gerekir. 
+Eksiton difüzyonu ve yüklerin ayrılması.
+Teorik olarak bir güneş hücresinin verimli olması için ışığın emilimi sonrasında oluşan bütün eksitonların, serbest yük taşıyıcılarının oluşumunu sağlaması gerekir. Gerçekte eksiton taşınımı sırasında ışımalı rekombinasyon(hareketli yük taşıyıcıların birleşerek elenmesi ve ışıma yapması) ya da ışıldama gibi bozunma işlemleri olur. Bu işlemler eksitonun ömrünü azaltmakla beraber difüzyon uzunluğunu da kısaltır.Bir eksitonun ömrü, ışımalı ve ışımasız bütün bozunma hızlarının tersi alınarak bulunmaktadır. Eğer bu hesaplanan ömür süresi içerisinde eksitonların çoğu fotoaktif arayüze ulaşabilirlerse verimli bir güneş hücresi elde edilebilir. Moleküler malzemelerde eksiton ömrü birkaç nano saniye olduğu için, difüzyon uzunluğu da yaklaşık 10 nanometreye kadar olmaktadır ve arayüzden difüzyon uzaklığı bu uzunluk içerisinde olan eksitonlar yüklerin ayrılmasını sağlayabilir.
+Organik güneş hücrelerinin çoğunda yük ayrılması, ışıkla uyarılmış elektronların aktarımıyla gerçekleşir. Güneş hücresinde absorbe edilen fotonların sağladığı enerji sayesinde, bir elektron elektron verici(donor) malzemeden elektron alıcı(acceptor) malzemeye aktarılır. Elektron verici malzemenin afinitesinin elektron alıcı malzemenin afinitesinden düşük olmasından kaynaklanan farkdan ötürü, eksitonların ayrılması için itici bir kuvvet oluşur. Bu kuvvetin etkisiyle eksiton, verici alıcı arayüzünde bozunur ve ayrılmış yükler yaratır. Verimli bir şekilde bu yüklerin yaratılması için emilen fotonların enerjisinin, ışımasız bozunmalarla kaybedilmeden yük ayrılmasını yaratması ve bu ayrılan yüklerin( elektron ve holler)denge durumunda olup elektrotlara ilerlemesi gereklidir. 
+Yüklerin taşınması.
+Eksitonların ayrılması her zaman serbest yük taşıyıcıların oluşmasıyla sonuçlanmaz çünkü ayrılmış eksitonlardan önemli miktarı, arayüzdeki kulombik bir çekimden ötürü bağlı halde kalabilir. Örneğin, conjuge polimer-fullerene harmanlarında( blends) verici alıcı arayüzündeki bağlı elektron hol çiftlerinin ayrışma verimliliğinin, ışıl akımı( fotocurrent ) etkileyen baskın bir faktör olduğu gösterilmiştir. Kulomb yarıçapı yüklerin sıçrama uzaklığından yüksekse, pozitif ve negative taşıyıcılar birbirlerinin kolumbik çekiminden kurtulamaz ve sonucunda rekombine olup serbest hareketli yük taşıyıcıları oluşturamazlar. Bundan ötürü, yük taşıyıcılarının hareketliliği ve kulomb yarıçapı, kulombik olarak bağlanmış yük çiftlerinin ayrışma (dissociation) verimliliğini etkileyen en önemli iki parametredir. Hareketliliği ve dielektrik sabiti yüksek olan mazemeler ya da verici alıcı arayüzünde elektrik alan oluşturan dipollerin varlığı, hareketli taşıyıcıların oluşmasındaki verimliliği artırır. 
+Yüklerin elektrotlarda birikmesi.
+Serbest yük taşıyıcılarının elektrotlarda biriktirilmesi, genellikle hücrenin bir yanındaki saydam ve iletken oksit tabakaları olan indiyum kalay oksit (ITO) ya da kalay oksit (SnO2)tarafından ve diğer yanındaki metal kontak tarafından gerçekleşir. Elektrotlar ve moleküler tabakalar arasında ohmik temas olmasına dikkat edilir ve güneş hücresinin performansını artırmak için özel kontak tabakaları pratikte geliştirilir. Saydam iletken tabakanın olduğu taraftaki PEDOT:PSS ve metal kontaktaki LiF tabakaları buna örnek gösterilebilir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kılcal damar</DOCTITLE>
+<TEXT>
+
+Kılcal damar veya kapiler vücuttaki en küçük kan damarlarına verilen isimdir. Büyüklükleri yaklaşık 5-10 μm'dir. atardamarlar ile toplardamarları birleştiren kılcal damarlar, dokularla etkileşimi en yoğun olan kan damarlarıdır. Kılcal damar duvarları tek bir hücre tabakasından (endotel) oluşur. Bu tabaka öyle incedir ki oksijen, su ve lipitler gibi moleküller difüzyon ile bu tabakadan geçip dokulara girebilirler. Karbondioksit ve üre gibi zararlı ve atık maddeler de difüzyon ile kılcal damar içindeki kana dağılırlar. Belirli bazı sitokinlerin salınımıyla kılcal damarların geçirgenliği (permeabilite) daha da arttırılabilir. 
+Ortalama bir insan vücudundaki kılcal damarların toplam uzunluğu yaklaşık 40.000 km'dir. Atar damarlarla toplar damarları birbirine bağlayan, tek sıralı epitel dokudan oluşmuş ince damarlardır. Kan ile doku hücreleri arasındaki madde alışverişini sağlarlar ve kan akışı yavaştır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Monosakkarit</DOCTITLE>
+<TEXT>
+
+Monosakkaritler, su ile daha küçük birimlere parçalanamadıklarından "basit şekerler", "tek şekerler", "monozlar" olarak da bilinirler.Bu sekerler karbonhidratların en küçük yapı birimidir. Çoğu Cn(H2O)n formülüne uyar. Bazı monosakkaritler tatlıdır. Zincir veya halkalı yapıya sahip olup, genellikle 3-6 arasında karbon (C) atomu taşırlar. Moleküllerindeki karbon sayılarının Latincelerinin sonuna "-oz" eki getirilerek gruplandırılırlar. Üç karbonlu olanlar "trioz", dört karbonlular "tetroz", beş karbonlular "pentoz", altı karbonlular "heksoz" adını alırlar. Pentozlardan riboz (C5H10O5) ve deoksiriboz (C5H10O4) nükleik asitlerin yapısına girer. Hücre zarından difüzyon ile kolay geçerler.
+Besin kaynağı bakımından önemli olan monosakkaritler heksozlardır. Bunlardan glikoz (üzüm şekeri), fruktoz (meyve şekeri, levüloz) ve galaktoz (süt şekeri) en önemlileridir. Sindirilmeden kana karışırlar. Hepsinin kapalı formülleri C6H12O6 şeklinde olup birbirlerinin izomeridirler.
+İçerdikleri C sayısına göre monosakkaritler:
+6 C'li monosakkaritlerin difüzyon hızları şöyledir. Galaktoz > Glikoz > Fruktoz. Bunun yanında Glikozun ayracı Fehling veya Benedik çözeltisidir. Ayraç glikozla birleşince kırmızı olur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Isıl işlem</DOCTITLE>
+<TEXT>
+
+Isıl işlem (İng: heat treatment) metallerin mekanik özelliklerini (sertlik, mukavemet vb.) geliştirmek amaçlı uygulanan işlemlerin genel adıdır. Metalurjik bir işlem türüdür.
+Genel anlamda, metalleri belirli bir sıcaklıkta tavlayarak yapılarını istenilen faza getirmek suretiyle yapılır. Daha sonra metal ani olarak soğutulur ve bu sayede granüller (grain) oda sıcaklığında termodinamik açıdan denge fazı (phase) olmayan bir faza hapsolmuş olur. Bu faz genellikle malzemenin daha üstün mekanik özellikler gösterdiği bir fazdır.
+Isıl işlemin teorisi pek bilinmese de sanayi devrinden çok önceleri pratiği biliniyor ve uygulanıyordu. Örnek vermek gerekirse, demircilerin kılıçları sağlamlaştırmak için dövdükten sonra suya batırarak ani soğutması basit bir ısıl işlemdir. Benzer uygulamalar; keskinliğin, sertliğin, aşınmaya karşı direncin gerektiği diğer bazı metal eşyalarda da olmuştur.
+Karbonizasyon adı verilen bir teknik ise sanayi devriminden sonra bulunmuş ve günümüzde sıkça kullanılmaktadır. Metallerin yüzey özelliklerini artırmakta kullanılan bir ısıl işlem tekniğidir. Bu teknikte, metal karbon açısından zengin bir ortamda karbon elementlerinin metalin yüzeyinden difüzyon yardımıyla geçebileceği bir sıcaklıkta tutulur (bekletilir). İşlem süresi istenilen efektif sertlik derinliğine göre değişir. Difüzyon işleminin doğası gereği yüzeyden derine doğru karbon konsantrasyonu parabolik olarak azalır. Burada, efektif sertlik derinliği arzu edilen minimum sertlik değerinin sağlandığı yüzey derinliğidir.
+Karbon açısından zengin bir ısıtma ortamı sağlamak için atmosfer kontrollü fırınlarda ortama karbon zengini gazlar verilir, daha eski bir teknoloji ise metali karbon içeren ergimiş haldeki sanayi tuzlarının içinde sertleştirmektir.
+Malzemenin sertliğinin artması ile aşınma dayanımı da artar ama aynı zamanda malzeme daha kırılgan olur ve dayanıklılığı azalır. Yani ısıl işlem bazı mekanik özellikleri iyileştirirken bazılarını da kötüleştirir. Bu anlamda kullanım alanı için en uygun noktayı bulmak esastır. Isıl işlem sırasında; sıcaklık, zaman ve atmosferin eş zamanlı kontrolü ile en uygun şartların oluşması sağlanarak istenilen nitelikteki malzeme üretilir.
+
+</TEXT>
+</DOC>
+

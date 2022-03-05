@@ -1,0 +1,57 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Greenpeace	Greenpeace	+Noun+Prop+A3sg+Pnon+Nom
+
+çevre	çevre+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+ekosistemi	ekosistem	+Noun+A3sg+Pnon+Acc
+ekosistemi	ekosistem	+Noun+A3sg+P3sg+Nom
+
+koruma	kor	+Noun+A3sg+P1sg+Dat
+koruma	koru	+Verb+Neg+Imp+A2sg
+koruma	koru	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+koruma	koru	+Noun+A3sg+P1sg+Dat
+koruma	koruma	+Noun+A3sg+Pnon+Nom
+
+bilincini	bilinç+Noun+A3sg+P2sg+Acc
+bilincini	bilinç+Noun+A3sg+P3sg+Acc
+
+artırmak	art	+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+adına	ad	+Noun+A3sg+P3sg+Dat
+adına	ad	+Noun+A3sg+P2sg+Dat
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+eylemlerde	eylem	+Noun+A3pl+Pnon+Loc
+
+bulunmaktadır	bul	+Verb^DB+Verb+Pass+Pos+Prog2+A3sg+Cop
+bulunmaktadır	bul	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+bulunmaktadır	bulun	+Verb+Pos+Prog2+A3sg+Cop
+bulunmaktadır	bulun	+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

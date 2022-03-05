@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Rihter Rihter+Noun+Prop+A3sg+Pnon+Nom
+ölçeği ölçek+Noun+A3sg+P3sg+Nom ölçek+Noun+A3sg+Pnon+Acc
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+amaçla amaç+Noun+A3sg+Pnon+Ins amaçla+Verb+Pos+Imp+A2sg
+kullanılır kullan+Verb^DB+Verb+Pass+Pos+Aor+A3sg kullan+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

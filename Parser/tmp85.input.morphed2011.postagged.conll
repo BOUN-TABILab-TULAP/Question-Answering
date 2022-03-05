@@ -1,0 +1,14 @@
+1	Miladi	miladi	Adj	Adj	_	_	_	_	_
+2	takvimin	takvim	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+3	başlangıcı	başlangıç	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+4	_	ol	Verb	Verb	Pos	_	_	_	_
+5	olan	_	Adj	APresPart	_	_	_	_	_
+6	0	0	Num	Card	_	_	_	_	_
+7	yılında	yıl	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+8	tahmini	tahmini	Adj	Adj	_	_	_	_	_
+9	dünya	dünya	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+10	nüfusu	nüfus	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+11	ne	ne	Adj	Adj	_	_	_	_	_
+12	_	kadar	Postp	Postp	PCDat	_	_	_	_
+13	kadardır	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

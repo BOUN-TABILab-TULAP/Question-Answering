@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kloroplastlar kloroplast+Noun+A3pl+Pnon+Nom kloroplast+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+birkinin birkinin+Noun+Prop+A3sg+Pnon+Nom
+neresinde nere+Pron+Ques+A3sg+P3sg+Loc
+bulunurlar bul+Verb^DB+Verb+Pass+Pos+Aor+A3pl bul+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl bul+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom bulun+Verb+Pos+Aor+A3pl bulun+Verb+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl bulun+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

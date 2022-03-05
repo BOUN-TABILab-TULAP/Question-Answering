@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Dünyanın	dünya+Noun+A3sg+Pnon+Gen
+Dünyanın	dünya+Noun+A3sg+P2sg+Gen
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+uzun	uz	+Noun+A3sg+P2sg+Nom
+uzun	uz	+Noun+A3sg+Pnon+Gen
+uzun	uzun	+Adj
+
+demir	demir	+Adj
+demir	demir	+Noun+A3sg+Pnon+Nom
+
+yolu	yol	+Noun+A3sg+P3sg+Nom
+yolu	yol	+Noun+A3sg+Pnon+Acc
+
+hattının	hat	+Noun+A3sg+P3sg+Gen
+hattının	hat	+Noun+A3sg+P2sg+Gen
+
+adı	ad	+Noun+A3sg+P3sg+Nom
+adı	ad	+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,26 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyanın dünya+Noun+A3sg+Pnon+Gen dünya+Noun+A3sg+P2sg+Gen
+kendi kendi+Pron+Reflex+A3sg+P3sg+Nom
+ekseni eksen+Noun+A3sg+Pnon+Acc eksen+Noun+A3sg+P3sg+Nom
+etrafındaki etraf+Noun+A3sg+P3sg+Loc^DB+Adj+Rel etraf+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+hareket hareket+Noun+A3sg+Pnon+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+dinamik dinamik+Noun+A3sg+Pnon+Nom dinamik+Adj
+basınç basınç+Noun+A3sg+Pnon+Nom
+merkezleri merkez+Noun+A3pl+Pnon+Acc merkez+Noun+A3pl+P3sg+Nom merkez+Noun+A3pl+P3pl+Nom merkez+Noun+A3sg+P3pl+Nom merkezle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+arasında ara+Noun+A3sg+P3sg+Loc
+nasıl nasıl+Adverb nasıl+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+ilişki ilişki+Noun+A3sg+Pnon+Nom
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

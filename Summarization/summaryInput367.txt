@@ -1,0 +1,200 @@
+Question: Çiçeklerde polenlerin oluştuğu kısım nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çiçek</DOCTITLE>
+<TEXT>
+
+Çiçek bitkilerde üremeyi sağlayan organları taşıyan yapı. Bir çiçek, 4 kısımdan oluşur.
+çiçek
+Üreme organlarını dıştan sararak onları dış etkilerden korur. Doğrudan üremeye katılmadığı için 'verimsiz kısım' olarak da adlandırılır.
+Dikotil bitkilerde çiçek örtüsü 2 kısımdan oluşur:
+Çanak yapraklar (sepal) ve taç yapraklar (petal).
+Çanak yapraklar (sepal).
+Çiçeğin yeşil veya kahverengi tonlarında olan minik yapraklardır. Bu yapraklar, çiçek tomurcuk halindeyken onu dış etkenlerden korur. Ancak çiçeğin eşi uyumsuz ise çanak yaprak diye bir şey yoktur.
+Taç yapraklar (petal).
+Çiçeğin en gösterişli kısmıdır. Üreme organlarının dışında bulunur. Gösterişli yapısı ve renkleriyle birçok canlıyı cezbederek tozlaşmada önemli bir role sahiptir. İçindeki kromoplast organeli ise yeşil hariç diğer renkleri salgılar. Bu da tozlaşmada önemli rol oynar.
+Monokotil bitkilerde çiçek örtüsü 'tepal' adı verilen bir kısımdan oluşur.
+Taç yapraklar gösterişli, güzel kokan ve renkli olduklarından böcekleri kendilerine çeker ve bu olay sonucunda 
+arılar veya böcekler polen depo etmiş olurlar.
+Üreme organları.
+Üreme işlevini yerine getirerek neslin devamlılığını sağlar. Bu nedenle 'verimli kısım' olarak da adlandırılır.
+Erkek üreme organı.
+Filament (sapçık) ve anter (başçık) olmak üzere 2 kısımdan oluşur. Filament, anterin çiçeğe tutmasını; anter ise, polen oluşumunu sağlar.
+Dişi üreme organı.
+Ovaryum (yumurtalık), stilus (boyuncuk) ve stigma (tepecik) olmak üzere üç kısımdan oluşur. Ovaryum, dişi üreme organının en alt kısmında bulunur ve tohum taslaklarını taşır. Stilus,dişi üreme organının ortasında bulunur ve stigmada çimlenen polenlerin ovaryuma ulaşmasını sağlar. Stigma ise, tozlaşma ile gelen polenlerin dişi organa tutunmasını ve çimlenmesini sağlar.
+Çiçek Gövdesi.
+"Pedisel" olarak da adlandırılan bu kısım, çiçeği taşır. Saplı çiçeklere 'pedisellat çiçek', sapsız çiçeklere de 'sessil çiçek' adı verilir.
+Tozlaşma.
+Bitkide çiçeğin görevi tozlaşma yoluyla bitkinin çoğalmasını sağlamaktır. 
+Bir çiçeğin erkek organından serbest kalan polenlerin diğer çiçeğin
+dişi organının tepeciğine ulaşması ve burada yeni bitki tohumlarının oluşması olayıdır. 
+Tozlaşma olayında etkili faktörler şunlardır:
+-Polenlerin taşınması rüzgarla sağlanır. Kullanışlı ve sık görülen bir tozlaşma çeşidi değildir.
+-Polenlerin arılar, sinekler ve benzer böcekler tarafından taşınması. Yaygın olan tozlaşma şeklidir. Çiçeğin güzel kokusu, güzel ve parlak görünümü ve salgıladığı şekerli maddeler böceklerin dikkatini çeker. Çiçeğin üzerine gelen böceklerin ayaklarına yapışan polenler böceğin diğer çiçeklere konmasıyla oralara taşınmış olurlar.
+-Kendi kendine tozlaşma: Aynı çiçeğin erkek organındaki polenlerin dişi organına ulaşması sonucu meydana gelen tozlaşma şeklidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dişi organ</DOCTITLE>
+<TEXT>
+
+Dişi organ, Ginekeum olarak da bilinir, Angiosperm çiçeğinin en iç dairesini meydana getiren pistillerin toplamı. Bir pistil ovaryum, stilus (dişicik borusu) ve stigma olmak üzere 3 kısımdan oluşmaktadır.
+Angiospermlerde pistiller karpellerden meydana gelmiştir. Tohum taslakları gymnospermlerdeki gibi açıkta olmayıp karpeller tarafından sarılmıştır.
+Pistillerin stigması polenleri tutacak şekilde papiller yapıdadır, bazen parçalı da olur. Stilus stigma ile ovaryum arasında yer alır. Silindir şeklinde uzun kısımdır, bu kısım bazen eksik, bazen dallanmış da olabilir. Stilus genellikle ovaryumun tepesinden çıkar, bazen de 
+tabanında çıkar (Ballıbabagillerde olduğu gibi), bu taktirde ginobazik adını alır.
+Ovaryum pistilin şişkin olan ve içinde tohum taslaklarının (ovül) bulunduğu kısımdır. Ovaryum karpellerden meydana gelmiştir. Ovaryumu meydana getiren karpeller tek olabildiği gibi, çok sayıda da olabilirler. Ovaryum tek karpelden meydana geldiğinde bu karpelin iki kenarı birbiri ile birleşmiştir. Birden fazla karpelden meydana gelmişse, karpellerin kenarları birbiri ile birleşerek tek pistil oluşturmuşlardır.
+Bir çiçekte ginekeum meydana getiren karpeller serbest veya bileşik olabilir, karpeller serbestse her karpel bir pistil meydana getirir, bileşikse hepsi birlikte bir pistil meydana getirir.
+Ovaryum ile ilgili terimler.
+Karpeller serbestse apokarp ovaryum, bileşikse sinkarp ovaryum olarak adlandırılırlar.
+Ovaryum genellikle sapsızdır, doğrudan doğruya çiçek tablasına (resaptakulum) tutunur. Bazı bitki çiçeklerinde kısa veya uzun bir sapa sahiptir, bu sapa ginofor adı verilir. Bu sapın tepesinde ginekeumla birlikte androkeumda mevcutsa androginofor adını alır. Ovaryumun içinde tohum taslakları yer alır, bunlar karpellerin kenarlarına plasenta adı verilen noktalara bağlanmışlardır. Tohum taslaklarının ovaryum içindeki dağılış tarzına plasentalanma adı verilir. Tohum taslakları, döllenmeden sonra tohumu meydana getiren
+yapılardır. Bunlar funikulus adı verilen bir sapla plasentaya bağlanırlar. Tohum taslağı (ovül), embriyo kesesi ve onu saran nusellus ve nusellusun dışında yer alan 1 veya 2 integumentten oluşur.
+Kapalı Tohumlu Bitkilerde Çift Döllenme.
+Tohum taslakları içinde yer alan embriyo kesesi başlangıçta tek hücreden ibarettir, gymnospermlerdeki makrospora karşılıktır. Embriyo kesesi ana hücresinin (makrospor anahücresi) mayoz bölünmesi ile meydana gelmiştir. Dolayısıyla haploittir. Art arda 3 mitoz bölünme ile 8 nukleus meydana gelir, bunlardan 3’ü mikropil tarafında kalır, 3’ü
+karşı kutupta, kutuplardan gelen 2 nukleus da ortada birleşir ve embriyo kesesi sekonder nukleusunu meydana getirir. Mikropil tarafındaki nukleuslardan ortadaki yumurta nukleusu, diğerleri de sinergit hücrelerinin nukleusunu oluştururlar. Karşı kutuptakilerde antipot
+hücreleridir. Bu şekilde embriyo kesesi döllenmeye hazırdır.
+Pistilin stigması üzerine çeşitli vasıtlarla gelen polenlerin çimlenmesi ve gelişmesi ile oluşan sperma nukleusları döllenmeyi sağlar. Stigma yüzeyinde şeker, protein ve büyüme maddelerinin bir kısmından oluşan salgılar oluşur. Polenler stigma yüzeyine geldiği zaman, bu salgı maddeleri polenlerin çimlenmesini teşvik eder. Polen tanesinin dış zarı şişer ve porlardan polenin vejetatif hücresi dışarı çıkarak stilusdan aşağıya doğru polen tüpünü meydana getirir. Polen tüpü stilusu
+katederek ovaryumdaki ovüllere kadar ulaşır. Genellikle ovüllerin mikropilinden uzanarak nusellusu geçer ve embriyo kesesine ulaşır. Polen tüpü embriyo kesesine ulaştığında embriyo kesesi içine 2 sperma nukleusunu bırakır. Sperma hücrelerinden biri yumurta hücresi ile 
+birleşir zigot meydana gelir, ikinci sperma nukleusu embriyo kesesi sekonder nukleusu ile birleşir ve besidoku (endosperm) meydana gelir.
+Stigma üzerinde çimlenen ve polen tüpünü meydana getiren polenler, önce tek nukleusludurlar, polen tüpü stilusu katederek tohum 
+taslağının mikropilinden içeriye girip embriyo kesesine ulaştığında 2 sperma nukleusuna sahiptir. Polen tüpü embriyo kesesinin sinergitlerinin bulunduğu kısma ulaşır ve içindeki sperma nukleuslarını buradan embriyo kesesine bırakır. Bundan sonra angiospermlerin önemli
+karakteristiği olan çift döllenme vukua gelir. Sperma nukleuslarının biri ile yumurta hücresinin birleşmesi ile meydana gelen zigot embriyoya gelişirken, ikinci sperma nukleusu ile embriyo kesesi sekonder nukleusunun birleşmesinde besidoku (endosperm) meydana gelmiş olur. 
+Ovülleri saran integumentler de tohum kabuğuna dönüşerek tohum gelişmesi tamamlanmış olur. Bu gelişmeye paralel olarak da ovaryumu meydana getiren karpellerde farklılaşarak meyveyi oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tozlaşma</DOCTITLE>
+<TEXT>
+
+Tozlaşma, bitkilerin erkek organında üretilen polenlerin çeşitli nedenlerle dişi organın tepecik bölümüne taşınması olayına denir. Böylece tepeciğe yapışan polenler, dişicik borusundan yumurtalığa inerek döllenme meydana gelir. Döllenmiş yumurtaya zigot denir. Zigot gelişerek embriyoyu oluşturur. Bu polenlerin dişicik borusuna taşınması rüzgâr, su ve böcekler yoluyla olabilir.
+İlkbaharda çevremizdeki hava rüzgârla uçuşan çiçek tozlarıyla dolar. Çiçek ­tozları bitkilerin erkek üreme hücrelerini taşıyan mikroskobik taneciklerdir. Bu tane­ciklerden biri bir çiçeğin yapışkan tepeciğine konduğu zaman, içindeki erkek üreme hücresi çiçekteki dişi üreme hücresiyle birleşir. Bu birleşmeye döllenme denir ve döllenmenin sonucunda bitkinin çoğalmasını sağlayan tohumlar oluşur.
+Tozlaşma, çiçektozlarının erkekorgandan dişi organa taşınma sürecidir. Bu süreç aynı çiçeğin erkek ve dişiorganları arasında ger­çekleşirse "kendine tozlaşma", iki ayrı çiçeğin arasında gerçekleşirse "çapraz tozlaşma" de­nir. Ama, çapraz tozlaşmada yalnız aynı türden bitkilerin birbirini dölleyebileceği unu­tulmamalıdır. Tüm "üstün" yapılı bitkiler, yani çiçekler, otlar, çalılar, iğneyapraklı ve genişyapraklı ağaçlar tozlaşma sürecinden yararlanan canlı­lardır. Evrimsel açıdan daha alt basamaklarda yer alan, yosunlar ve eğreltiotları gibi basit bitkilerin üreme yöntemleri ise farklıdır.
+Rüzgârla Tozlaşma.
+Çiçektozları genellikle çapı 0,05 milimetreyi geçmeyen, gözle görülemeyecek kadar ufak taneciklerdir. Bu nedenle bazı bitkiler çiçek­tozlarının kendi türünden başka bitkilere aktarılmasında rüzgârlardan yararlanır. İlk bakışta bu size işi şansa bırakmak gibi gelebi­lir, ama bitkiler o kadar çok çiçektozu üretir­ler ki, bunların bir bölümü mutlaka amacına ulaşır. Örneğin, bir tek köknar kozalağının rüzgârlara saldığı çiçektozu taneciğinin sayısı birkaç milyondur. Rüzgârla tozlaşan bitkilerin çiçekleri genel­likle küçüktür ve öbürleri gibi pek dikkat çekici değildir. Örneğin, söğüt gibi bazı ağaç­ların çiçekleri rüzgârda sallanan sarkık başak­lar (tırtıl) halindedir. Buğdaygillerin çiçek ba­şakları ise havada uçuşan çiçektozlarını yaka­layabilmek için ince püsküller oluşturmuştur.
+Hayvanlarla Tozlaşma.
+Pek çok bitki çiçektozlarının aktarılmasında hayvanları kullanır. Tozlaşmada rol oynayan hayvanların başında arılar gelir. Çiçekten çiçeğe dolaşarak balözü arayan arılar bir çiçeğin erkekorganlarından kanat ve ayakları­na bulaşan çiçektozlarını, daha sonra konduk­ları başka bir çiçeğin dişiorganının tepeciğine bırakırlar. Eğer bir bitkinin çiçektozları başka türden bir bitkinin tepeciğine konarsa döllen­me gerçekleşmez; ama aynı türden bir bitki­nin tepeciği üstüne konarsa, her çiçektozu taneciği dişiorganın boyuncuğundan yumurta­lığa doğru ince bir kılcal boru uzatır. Bu borucukların yardımıyla yumurtalığa ulaşan erkek üreme hücreleri buradaki dişi üreme hücreleriyle birleşir, yani onları döller. Pek çok bitki balözü taşıdığının bir göster­gesi olan, göz alıcı renklere bürünmüş, keskin ve hoş kokulu çiçekleriyle hayvanları kendine çeker. Böylece çiçeğe gelen hayvan balözüyle ödüllendirileceğini bilir. Ayrıca, bitkisel şe­kerlerden ötürü yapışkan ve tatlı olan çiçek­tozları da çekiciliği artırır. Bazı bitki türleri ise balözü sunmadığı halde, öbür çiçekli bitkileri taklit ederek hayvanları renkleriyle kandırabilir. Bazı orkideler bu aldatmacayı daha da ileri götürerek çiçeklerini böceklere benzetir. Ör­neğin, Ophrys cinsinden orkideler toprakarısının dişisine benzeyen çiçeklerinden ötürü erkek toprakarılarının akınına uğrar. Erkek organ bu yanılgıyla dişi taklidi çiçekle çiftleşme­ye çalışırken orkidenin erkekorganlarından kopan çiçektozları böceğin başına yapışır. Daha sonra başka bir orkideye gittiğinde çiçektozlarını o çiçeğin tepeciğine bulaştırır. Bazen de bitkiler, böcekleri kendine çeke­bilmek için güzel renkli ve hoş kokulu çiçekle­rin tersine, kötü kokulu çiçekler üretir. Örne­ğin, Rafflesia cinsinden bazı türlerin çiçekleri, kokmuş eti andıran çok kötü bir koku yayar. Ne var ki, insanlar için dayanılmaz olan bu koku, yumurtalarını bırakabileceği bir hayvan leşi arayan sinekleri çiçeğe çekerek tozlaşma­da çok önemli bir rol oynar. Kahkahaçiçeği ve petunya gibi, çiçekleri huniye benzeyen bazı bitkilerde balözü çiçeklerin dibinde, yani ulaşılması oldukça zor bir yerde bulunur. Bu tip çiçeklerden ancak kelebekler gibi uzun, borumsu dilleri bulunan böcekler balözü alabilir ve böylelikle tozlaş­maya yardımcı olabilir. Kuşlar ve yarasalar da tozlaşmada görev alan hayvanlardandır. Örneğin mineağacı ve çingülü çiçeklerinden beslenen kolibriler ga­galarına ve başlarına bulaşan çiçektozlarını bir çiçekten ötekine aktarırlar. Karanlık bas­tığında yuvalarından çıkarak yiyecek aramaya koyulan yarasalar ise gece açan çiçeklerin çevresinde uçuşarak balözü yalarlar ve bu arada yüzlerine bulaşan çiçek tozlarını öbür çiçeklere taşırlar. Bazı su bitkilerinin çiçek­tozları ise akarsularla taşınır. Tohumların yayılma yolları kısaca böyledir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Endomitoz</DOCTITLE>
+<TEXT>
+
+Bazı hücrelerde çekirdek bölünmesinden sonra sitoplazma bölünmesi gerçekleşmez. Çok çekirdekli hücrelerin oluşturduğu bu bölünmeye endomitoz bölünme denir. Çoğu hayvanların çizgili kas hücrelerinin çok çekirdekli olmasının nedeni kas hücrelerinin zarlarını erimesidir; yani endomitozdan dolayı çok hücreli değildirler. Ancak paramesyumda çift çekirdekli olması, polenlerin
+yine aynı şekilde vejetatif çekirdek ve generatif çekirdek olmak üzere iki çekirdeğe sahip olmaları sebebi endomitozdur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aeropalinoloji</DOCTITLE>
+<TEXT>
+
+Aeropalinoloji, havada sıklıkla rastlanan polen ve sporların ait olduğu cinsleri araştırır. Polen toplama sayma ve örnekleme teknikleri gibi işlemlerle uğraşır. Çalışılan istasyonun alerjen bitki ve mantar cinsleri tespit edilir. Meteorolojik kaynaklarıda kullanarak polenlerin ve sporların havadaki miktarının mevsimsel değişimi hakkında bilgi verir. Aeropalinolojinin temel amacı polen takvimleri oluşturmaktır. Polen ve sporların yanında havada bulunabilen alerjenik etkiye sahip birçok mantar cinsini (airborne fungi) ve özellikle iç ortamlarda bulunan akarları da (mikroskobik böcek türü) inceler.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sümük</DOCTITLE>
+<TEXT>
+
+Sümük, burun boşluklarından ve bronşlardan gelen yapışkan sıvı.
+Sümüğün içinde epitelyum hücreleri, mikroplar, tozlar ve su bulunur. Suyun az veya çok oluşuna göre sümük akıcı veya iplik gibi uzayıcı bir yapı gösterir. Kuruyunca az çok kalın ve yapışkan bir kabuk halini alır. Burun içinin nemli kalmasını ve burna kaçabilecek yabancı maddelerin özellikle tozların ve polenlerin tutulmasını sağlar. Sümük sürekli üretilir ve çoğu kısmı da yutulur. Sümük bakteriyel veya viral enfeksiyon sırasında sarıdan yeşile değişen bir renk alır. Viral enfeksiyonlarda iki ya da üç gün koyu olmayan ve berrak bir sümük oluşur. Üç günden sonra yeşillenmeye başlar. Bu aralıkta tedavi gereksizdir. Sadece semptomlar giderilebilir. Sümüğün ağızdan gelen tipine balgam denir.Balgam sümüğün boğazda çoğalmasından ya da ciğerden gelen bir sümük türüdür.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Palinoloji</DOCTITLE>
+<TEXT>
+
+Botanik biliminin bir alt dalı olan palinoloji, polen sporlarını araştıran bilim dalının adıdır. Palinoloji terimi ilk kez Hyde ve Williams tarafından 1944'de kullanılmıştır. Etimolojik olarak, Hyde ve Williams "palinoloji"yi, Yunanca "paluno" (serpmek) ve "pale" (toz) kelimelerinden türetmiştir. 
+Özellikle son yıllarda yapılan önemli araştırmalar ve bulgularla palinoloji çok gelişmiştir. Birçok altdalının (adli palinoloji, polen fizyolojisi, polen morfolojisi vb.) çıkmasının yanı sıra, palinoloji tıbbi araştırmalar açısından da fazla ilerleme kaydetmiştir. Tıbbi açıdan kaydedilen gelişmenin en büyük nedeni polenlerin alerjik reaksiyonlar oluşturup neden olduğu hastalıklar (astım vs.) üzerine yapılan yeni araştırmalardır. Aynı zamanda, pollenleri yiyecek olarak toplayan hayvanlar (bal arısı vb.) üzerinde yapılan araştırmalarda palinolojinin gelişmesinde ve yeni palinoloji alt dallarının oluşmasında büyük bir role sahiptir. Bunların dışında, palinoloji aynı zamanda fosilleşmiş polenleri de incelediğinden, jeoloji ile yakından ilgili yeni palinoloji alt dalları oluşmuştur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Robert Brown</DOCTITLE>
+<TEXT>
+
+Robert Brown (21 Aralık 1773 - 10 Nisan 1858), 19. yüzyılın ilk yarısında Avustralya'dan birçok örnek toplamış öncü İskoç botanisttir.
+Brown Montrose, İskoçya'da doğdu. Thomas Dick'le sınıf arkadaşı olduğu Edinburgh Üniversitesi'nde tıp eğitimi aldı. 1795'te cerrah olarak orduya katıldı. Aralık 1800'de, Avustralya kıyılarının haritasını çıkartmak için yola çıkan, Matthew Flinders komutasındaki The Investigator'da doğabilimci olarak çalışmaya başladı. The Investigator şu anda Batı Avustralya'da yer alan King George Boğazı'na 1801'de vardı. Brown üç buçuk yıl boyunca Avustralya'da detaylı bir botanik araştırması yürüttü ve 2000'i daha önce hiç kataloglanmamış 3400 türe ait örnekler topladı. Fakat koleksiyonun önemli bir kısmını Porpoise gemisi İngiltere yolunda batınca kaybetti.
+Brown 1805 Mayıs'ına kadar Avustralya'da kaldı. Daha sonra topladığı malzeme üzerinde çalışmak için İngiltere'ye döndü. Sayısız tür hakkında yazılar yazdı. Sadece Batı Avustralya'da 1200 tür hakkında yazmıştır. 1810'da Avustralya florasının kataloglandığı ilk sistemli çalışma olan "Prodromus Florae Novae Hollandiae"'yi yayınladı. Aynı sene Sir Joseph Banks'in kütüphanecisi olarak Jonas C. Dryander'in yerine geçti ve Banks 1820'de öldüğünde kütüphanesinin ve kurutulmuş bitki koleksiyonunun yeni sahibi oldu.
+1827'de sudaki polen tanelerini, küf sporlarını ve equisetumları mikroskop altında incelerken sudaki partiküllerin yönü ve hızı değişen sürekli bir hareket içinde olduklarını gözlemledi. Daha sonra aynı hareketi toz zerreleriyle de gözlemleyerek, bu hareket polenlerin canlı olmasıyla ilgisi olmadığını keşfetti. Her ne kadar bu hareketi açıklamak için bir teori geliştirmemiş olsa da, bu harekete bugün onun onuruna Brown hareketi denmektedir. 1828 tarihli bir makalesinde hücre çekirdeğine ismini verdi. Çekirdeği daha önce Hollandalı mikroskop uzmanı Leeuwenhoek gözlemişti fakat her bitki hücresinde olduğunu farkeden ve ona bugüne kadar kulladığımız ismi veren Brown olmuştur.
+Son yıllarda Brown'ın mikroskoplarının bu küçüklükte bir olayı göstermek için yetersiz olduğu söylendi. Brown'ın bu keşfi gerçekleştirdiği Scientific American sayı 265 s 20 (1991)'de yayınlanan "Did Robert Brown observe Brownian Motion: probably not" isimli bir makalede reddedildi. Kısa süre sonra İngiliz mikroskop operatörü Brian J. Ford, Chicago'daki Inter Micro 1991 için hızlıca hazırladığı bir videoda deneyi tekrarladı. Brown'ı doğrulayan video görüntüleri "The Microscope" dergisi sayı 39 s 161-171 (1991)'de yayınlandı.
+British Museum'ın Doğa tarihi departmanı 1837'de üç kısma ayrıldığında, Robert Brown botanik departmanının ilk yöneticisi oldu ve 10 Haziran 1858'de Londra Soho meydanında yaşamını yitirene kadar bu görevde kaldı. Ölümünden sonra yerine John Joseph Bennett geçti.
+Brown'ın adı Avustralya bitki türlerinden biri olan "Brunonia"'ya ve birçok "Eucalyptus brownii" gibi birçok bitkiye verilerek ölümsüzleştirildi.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kriminalistik</DOCTITLE>
+<TEXT>
+
+Kriminalistik (Latince "crimen" = suç) kelimesinden türetilmiştir. Bilimsel polis metotları, suçluların bilimsel yöntemler kullanılarak tespit edilmesini ve suç olaylarının aydınlatılmasını içerir. Kriminalistik kriminolojinin bulgularından faydalanır ancak nitelik ve maksat açısından bu iki dal birbirinden ayrılır. 
+Kriminalistik bir bilim değil bir tekniktir ve fizik, biyoloji ve kimya bu tekniğin temelini teşkil eder. Kriminalistiğin kendi değişmez kanunları yoktur. Uygulanacak kurallar ve teknolojideki gelişmeler kriminal incelemelerde büyük değişiklikler meydana getirir. 
+Kriminalistik alanı suçlunun ortaya çıkarılmasını hedeflediği kadar, masumun hatalı yere suçlanmasını önlemeyi de hedefler. Kişinin suçlu olduğunun ispatı yöntemi tarih boyunca birçok değişiklik göstermiştir. İlk zamanlar ispat şeklinin en kolay yolu olan itiraf kullanılmış ancak bu yöntem insanlık için büyük bir utanç olan işkence uygulanmasını da beraberinde getirmiştir. Zamanla bu yöntemin ve kişilerin tanıklıkları ile sonuca gitmenin sayısız olumsuz sonuçları insanları yoruma bağlı olmaksızın gerçeği ortaya çıkartacak bazı teknikler bulmaya itmiştir. 19.yy.'ın sonlarına doğru bilim alanında ve teknolojideki gelişmeler suçla mücadelede yeni ufuklar açmıştır. Bu değişiklik kriminal bir olayın çözümünün laboratuvarlarda olabileceği düşüncesini doğurmuştur.
+Günümüzde polisin laboratuvardan yoksun olarak çalışamayacağı gelişen olaylardan açıkça anlaşılmaktadır. Kriminalistik, olayla ilgili maddi delillerin bulunması ve bu delillerin ilgili kişilerle karşılaştırılması yolu ile olayın çözümlenmesini sağlarken, gelişmiş teknikler uygulayan laboratuvarlar ve konularında uzman bilirkişilerden faydalanır. Maddi delilleri incelemenin temel prensibi çok basittir. Bir kişi olay yerinden bir şey alır veya orada kendisinden bir şey bırakır. Bu nedenle olay yerini inceleyen uzmanlar hangi maddi delilin ne şekilde olayı aydınlatacağı, nelerin delil özelliği olabileceği ve bu delillerin laboratuvarlara hangi koşullarda ulaştırılacağı konusunda fikir sahibi olmalıdır. 
+Suçluların kendini sürekli olarak geliştirdikleri günümüzde suçla mücadele yöntemlerinin de sürekli yeniliklere açık olması gerekmektedir. Bertillon'un Antropometrisi ile başlayan bu süreç bugün birçok bilim dalının bir araya gelmesi ile çok farklı bir boyut kazanmıştır. Artık tıp doktorları, biyologlar, odontologlar, entomologlar, toksikologlar, kimyacılar, bilgisayar programcıları, fizikçiler ve hatta meteoroloji uzmanları gibi çok farklı dallarda çalışan kişiler suçların çözümlenmesi, suçluların yakalanması ve masumların serbest kalması için polis birimleri ile omuz omuza çalışmakta ve adalete hizmet vermektedir. 
+Bir olayda elde edilen mermi çekirdeklerinin, daha önceki olaylarda kullanıldığı saptanan silahlarla atılan mermi çekirdekleri ve bilgisayar ortamında tutulan arşivlerle kıyaslanması, herhangi bir belgenin sahte olup olmadığının veya belge üzerine sonradan bir ekleme yapılıp yapılmadığının tespiti, olay yerinde bulunan iz miktardaki biyolojik materyalden DNA analiz yöntemleri ile kişinin kimlik tayininin yapılması, vücut sıvılarında bulunan iz miktardaki toksik maddenin varlığının ortaya çıkarılması, cesette bulunan böcek larva türleri ve polenlerin incelenmesiyle olayın geçtiği yerin ve ölüm zamanının tayin edilmesi, belli tarihte belli bir bölgedeki meteoroloji kayıtları göz önüne alınarak, bu bölgede olayın geçtiği ortamın gün ışığı, rüzgar, nem gibi açık hava şartlarını tespit edilmesine kadar son derece detaylı incelemeler yapılabilmektedir. Bu incelemelerin sonuçları, her biri konusunda uzman bilirkişilerce mahkemede açıklanıp olayın çözümlenmesine önemli katkıda bulunulur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ütükyurdu, Zara</DOCTITLE>
+<TEXT>
+
+Ütükyurdu, Sivas ilinin Zara ilçesine bağlı bir köydür.
+Tarihçe.
+KONUM
+Ütükyurdu Köyü Sivasın Zara İlçesinin 23 km kuzeydoğusunda yer almaktadır.Konumu itibariyle Doğu Anadolu, Karadeniz ve İç Anadolu iklimlerinin etkilerine rastlamak mümkündür.Bu nedenden dolayı düzenli bir iklimi yoktur.Bunun sonucu olarak kimi yıllar yoğun yağışların kimi yıllar ise kuraklığın etkisi görülmektedir.Köye bağlı Kabalaklı ve Sabrigil Mezraları bulunmaktadır.Köyle Kabalaklı'nın arası 3 kmdir, köyle Sabrigil Mezrasıyla 5 kmdir. Çevresinde Avşar, Söğütlü, Çorak, Holoz(Şafaklı), köyleri ve Haramı yer almaktadır.Köyün ortasından Kızılırmağın kollarından Habeş Çayı geçmektedir.Bu akarsu köyün doğal görünümüne çok büyük katkı sağlar.Irmak boyunca söğüt ve kavak ağaçlarını görmek mümkündür.Ayrıca dik olmayan vadiler ise ırmak boyunca çayırlık ve bostanlarla kaplanmıştır.Yaz aylarında aylarında yaylalara çıkılır.Bu yaylalar şöyledir; Kösedağı, Evelikli, Döllek, Velo, Haramı Kalası.Yeşilırmak'ın kaynağı Kösedağdır.Bu ırmak kilometrelerce uzayarak Karadeniz'e Bafra Deltasın'da dökülür.Kaynağındaki suları içilmeyecek kadar soğuktur.Kösedağlarının eteklerinden ve de genişleyerek yoluna devam eder.
+GEÇİM KAYNAKLARI
+TARIM:Arazisinde alçı taşının yoğun olmasından dolayı toprağı tarıma pek elverişli değildir.Fakat buna rağmen ekim-biçim yapılmaktadır.En çok tahıl ürünleri üretilmektedir.Arpa ve buğday bu ekilen ürünlerin başında gelmektedir.Arazinin engebeli olmasından dolayı bu ekim türünden büyük kazanç sağlanamaz.Tahıl ekiminin yapıldığı düz arazilerin domuz ayı gibi yabani hayvanların istilasına uğradığından çok büyük emekler harcanmaktadır.Ayrıca mevsim kararsızlığı yüzünden (aşırı yağış veya kuraklık ) de ekilen hububat olumsuz yönde etkilenmektedir.Bağ ve bostanlarda yapılan köy halkının genel olarak ticaret için değil de kendileri için sebze ve meyve yetiştirildiği görülmektedir.Bağ ve bostanlarda yetiştirilen ürünleri şöyle sıralayabiliriz; fasulye, marul, turp, havuç, kabak, yeşil soğan, patates... Doğal bitkilerden madımak ve kuşburnu da köy halkı için önemli gelir kaynaklarını başında gelir.
+HAYVANCILIK:Köydeki asıl geçim kaynağı küçük ve büyükbaş hayvancılıktır.Yazın çalışılarak elde edilen saman kışın kullanılarak süt ve süt ürünleri (peynir, çökelek, süt, yoğurt, yağ, kaymak) elde edilmektedir.Bu köyün ana geçim kaynağını oluşturmaktadır.
+ARICILIK:arıcılık da son yıllarda köyde yaygınlaşmış bir geçim kaynağıdır.Kaynağını bu bölgenin doğal bitki örtüsünden alan Sivas balı üretilmektedir.Binbir çeşit çiçekde bulunan polenlerin birleşimiyle peteklerde oluşan ülkemizde Hakiki Sivas Balı olarak ün yapmıştır.Arıcılık Ütükyudu Köyünde ne doğal şekliyle yapılmaktadar.
+NÜFUS:Kış aylarında çok tenha olan köy yaz aylarında adeta bir şenlik havasına bürünür.Yazın büyük şehirlerde oturan Ütükyurdlular sıla turizmine geldiklerinde köyün nüfusu artar.Bu sılaya bağlı gösteren önemli bir göstergedir.Kış ayları başladığında ise yazın en üst dizeye çıkan nüfus aniden azalır ve köyde sayılı hanenin kapısı açıktır.Kış mevsiminin başlamasıyla köyü soğuklarla birlikte bir sükut boğar.
+NÜFUS
+Kış aylarında çok tenha olan köy yaz aylarında adeta bir şenlik havasına bürünür.Yazın büyük şehirlerde oturan Ütükyurdlular sıla turizmine geldiklerinde köyün nüfusu artar.Bu sılaya bağlı gösteren önemli bir göstergedir.Kış ayları başladığında ise yazın en üst dizeye çıkan nüfus aniden azalır ve köyde sayılı hanenin kapısı açıktır.Kış mevsiminin başlamasıyla köyü soğuklarla birlikte bir sükut boğar.Kış aylarında 20 hane yaz aylarında ise 70 hane bulunmaktadır.
+SÜLALELER VE KULLANDIKLARI SOYADLARI
+Çelibogil:Çelik/Gökçel/Göksel/Polat/Gök
+Deliömergil:DORUK/Duman/Doğanay/Güler/İlhan
+Karaüzeyirgil:Kaygusuz/Şimşek/Toprak/Yıldırım/Duran
+Çavuşgil:Ay/Acar/Alar/Bedir
+Kazımgil:Macit
+Debelekgil:Akbulut
+Danacıgil:Gökkuş Gökduman Bulut Akan
+Ayrıca;Demir/Esma/Koç/Ayan/Alkan soy isimleri de
+===Kültür
+Coğrafya.
+Sivas iline 90 km, Zara ilçesine 20 km uzaklıktadır.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ancak kullanılamamasının yanı sıra taşımalı eğitimden yararlanılmaktadır. Köyün hem içme suyu şebekesi hem kanalizasyon şebekesi vardır. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı vardır ancak sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.Camimiz mevcuttur
+
+</TEXT>
+</DOC>
+

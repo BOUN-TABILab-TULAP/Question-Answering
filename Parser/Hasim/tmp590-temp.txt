@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Göbek göbek+Noun+A3sg+Pnon+Nom Göbek+Noun+Prop+A3sg+Pnon+Nom
+kordonu kordon+Noun+A3sg+P3sg+Nom kordon+Noun+A3sg+Pnon+Acc
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+işe iş+Noun+A3sg+Pnon+Dat işe+Verb+Pos+Imp+A2sg
+yarar yar+Verb+Pos+Aor+A3sg yar+Verb+Pos^DB+Adj+AorPart yara+Verb+Pos+Aor+A3sg yara+Verb+Pos^DB+Adj+AorPart yarar+Noun+A3sg+Pnon+Nom yarar+Adj
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

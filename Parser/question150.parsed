@@ -1,0 +1,8 @@
+1	Debi	debi	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+2	ne	ne	Adv	Adv	_	3	MODIFIER	_	_
+3	cinsinden	cins	Noun	Noun	A3sg|P3sg|Abl	6	ABLATIVE.ADJUNCT	_	_
+4	ifade	ifade	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+5	_	et	Verb	Verb	_	6	DERIV	_	_
+6	edilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

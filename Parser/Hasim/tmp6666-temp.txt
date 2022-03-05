@@ -1,0 +1,28 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Belirli Belir+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With belirli+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+bitkiden bitki+Noun+A3sg+Pnon+Abl
+aynı aynı+Adj
+kalıtsal kalıt+Noun+A3sg+Pnon+Nom^DB+Adj+Related kalıtsal+Adj
+yapıda yapı+Noun+A3sg+Pnon+Loc
+ikinci ikinci+Num+Ord
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+bitki bitki+Noun+A3sg+Pnon+Nom
+elde el+Noun+A3sg+Pnon+Loc elde+Noun+A3sg+Pnon+Nom
+etmek et+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+için iç+Noun+A3sg+P2sg+Nom iç+Noun+A3sg+Pnon+Gen iç+Verb+Pos+Imp+A2pl için+Postp+PCGen için+Postp+PCNom
+nasıl nasıl+Adverb nasıl+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+yol yol+Noun+A3sg+Pnon+Nom yol+Verb+Pos+Imp+A2sg
+izlenebilir izle+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg izle+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

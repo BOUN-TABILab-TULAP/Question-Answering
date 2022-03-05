@@ -1,0 +1,11 @@
+1	A	a	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	vitamini	vitamin	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+3	_	eksik	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	eksikliğinde	_	Noun	Noun	Ness|A3sg|P2sg|Loc	_	_	_	_
+5	ortaya	orta	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+6	_	çık	Verb	Verb	Pos	_	_	_	_
+7	çıkabilecek	_	Verb	Verb	Able|Fut|A3sg	_	_	_	_
+8	hastalıklar	hastalık	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+9	_	ne	Pron	QuesP	A3pl|Pnon|Nom	_	_	_	_
+10	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

@@ -1,0 +1,99 @@
+Adyabatik süreç
+Bir adyabatik süreç bir sistem ve çevresi arasındaki ısı transferi ya da madde olmadan gerçekleşir biridir. Termodinamik bir anahtar kavramı, adyabatik süreç termodinamiğin birinci yasasını yorumlamak için kullanılan teorisi için titiz bir kavramsal temeli sağlar.
+Bazı pratik ve teorik amaçlar için, bazı kimyasal ve fiziksel işlemler pek ısı olarak enerji transferi için zaman var, yani onlar uygun bir "adyabatik yaklaşım" olarak tarif edilebilir ve böylece hızla meydana gelir. Bu tür işlemler genellikle takip ya da adyabatik olmayan süreçler öncesinde.
+adyabatik alev sıcaklığı uygun bir yaklaşım sağlayan bir idealleştirme olduğunu. Bu çevreye ısı kaybı olmadan bir alev elde edilecek sıcaklıktır.
+Açıklama.
+Içine ya da bir sistem S = 0 üzerinden ısı transferini içermeyen bir işlem olup, adiyabatik süreç olarak adlandırılır ve böyle bir sistem adyabatik izole olduğu söylenir. Termodinamik standı noktasından bir sistem analiz ederken bir adyabatik süreç ya da tecrit varsayım sık sık yapılır. Örneğin, bir dizel motor, bir silindir içindeki gaz sıkıştırma sıkıştırma işleminin bir zaman ölçeğinde, sistemin enerji küçük bir ısı olarak transfer edilebilir, böylece hızlı bir şekilde bu oluştuğu varsayılmıştır. Silindirler yalıtımlı ve oldukça iletken değildir olsa bile, bu süreç adyabatik olarak idealize edilir.
+adyabatik izolasyon varsayım yararlı bir tanesidir ve olası sistemin davranışının hesaplama yapmak için sık sık bir sistem hakkında diğer varsayımlar ile birleştirilir. Bu tür varsayımlar idealizasyonlar vardır. Gerçek makinelerin davranışları bu idealleştirmeler sapma, ancak bu "mükemmel" davranış varsayımı gerçek dünya nasıl çalıştığı hakkında yararlı bir ilk tahminidir.
+Adyabatik varsayımın çeşitli uygulamalar.
+Doğal adyabatik süreç (izantropik değil) geri döndürülemez. iş olarak enerji adyabatik transferi iki çeşit olarak hayal edilebilir. Işin bir tür sistemi içinde sürtünme veya viskoz yayılımın olmadan ve bu genellikle (alışıldığı tarafından belirtilen) basınç-hacim çalışmasıdır. Bu doğada sadece yaklaşık oluşur.
+işin diğer aşırı tür enerji sadece sistem içinde sürtünme veya viskoz yayılımın yoluyla iş olarak ilave edildiği için izokorik çalışma () 'dir. Sert duvarlı bir adyabatik izole sistemin viskoz akışkanın enerji aktarır bir karıştırıcı sıvının sıcaklığının bir artışa neden olur, ama bu iş kurtarılabilir değildir. Bu nedenle, ifadesi "izokorik iş", geri dönülmez işi tanımlamak için kullanılır. termodinamiğin ikinci yasası çalışması olarak enerji transferi doğal bir süreç, daima ibaret olduğunu gözlemler izokorik çalışma ve sık sık hem iş bu aşırı tür en azından. Sürtünme veya viskozite içerildiklerinden bu, adiyabatik veya her doğal bir süreç, ile, geri döndürülemez.
+Adyabatik ısıtma ve soğutma.
+gazın sıcaklık yükselmesi, bir gaz sonuçlarının geçirmez basınç oluşmasına. Buna karşılık, ücretsiz genişleme ideal gaz için bir izotermal sürecidir.
+Bir gaz basıncı çevresi tarafından üzerinde yapılan çalışmalar artan zaman Adyabatik ısıtma oluşur, örneğin, gazın sıkıştırılması bir piston bir silindirin içinde adiyabatik ihtiva etmiştir. Bu onu ateşlemek için yeterli yakıt buharı sıcaklığını yükseltmek için kendi sıkıştırma inme sırasında hızlı ısı dağılımı eksikliği güveniyor Dizel motorlarında pratik uygulama bulur.
+Bir hava kütlesi bir katabatik rüzgârda, örneğin, iner veya fön ya da chinook rüzgar bir dağ üzerinde yokuş aşağı akan zaman Adyabatik ısıtma Dünya'nın atmosferi oluşur. Hava parsel parsel artış üzerine, basınç iner zaman. Nedeniyle basıncın bu artışa, parsel hacim azalır ve iş olarak sıcaklık artar ve böylece iç enerji, artan hava parsel üzerinde yapılır. hava parsel dolayısıyla adyabatik izole olarak kabul edilir, enerjiyi ısı olarak dağıtmak edemiyor ve sıcaklığı makul artacak.
+Bir adyabatik izole sistemde basınç böylece çevresi üzerinde çalışma yapmak için neden bu genişletmek için izin azaldığı zaman Adyabatik soğutma oluşur. Hava parsel üzerinde uygulanan basınç düştüğünde, parsel hava genişletmek için izin verilir; hacmi arttıkça, sıcaklık olarak iç enerji azalır düşer. Adyabatik soğutma orografik kaldırma ve Lee dalgalar ile Dünya'nın atmosferinde oluşur ve bu pileus veya merceksi bulutlar oluşturabilir.
+Adyabatik soğutma bir sıvı dahil etmek zorunda değildir. Çok düşük sıcaklıklar (binde ve mutlak sıfırın üzerinde bir dereceye, hatta milyonda) ulaşmak için kullanılan bir teknik, bir manyetik malzeme manyetik alanda değişiklik adiyabatik soğutmayı sağlamak için kullanılan adiyabatik demanyetizasyon vardır. Ayrıca, (ilk sırasına) genişleyen bir evren içeriği bir adyabatik soğutma sıvısı olarak tarif edilebilir. "(- Evrenin ısı ölümü bakınız)"
+Yükselen magma ayrıca kimberlitten gibi büyük derinliklerinden hızla yükselmeye magmanın durumunda özellikle önemli patlama öncesi adyabatik soğutma, uğrar.
+Bu tür sıcaklık değişiklikleri ideal gaz yasa veya atmosfer işlemler için hidrostatik denklem kullanılarak belirlenebilir.
+Uygulamada, herhangi bir süreç gerçekten adyabatik olduğunu. Birçok süreçler adyabatik varsayımı kullanılarak yaklaştırılır ve böylece ilgi süreci ve bir sistem sınır boyunca ısı dağılımı oranı zaman ölçeklerinde büyük bir fark güveniyor ve. Hiçbir mükemmel izolatörleri var gibi bazı ısı kaybı, her zaman vardır.
+İdeal gaz (tersinir süreç).
+tersinir geçiren ideal bir gaz için matematiksel denklem (yani, hiçbir entropi nesil) adyabatik süreç
+"P" baskı olduğu, "V" hacmi ve
+sabit basınç için özgül ısı olma formula_3,
+formula_4 sabit hacim için özgül ısı olmak formula_5 adyabatik endeks ve formula_6 serbestlik derecesi sayısı (atomlu gaz ve eşdoğrusal moleküller için tek atomlu gaz, 5 3 örneğin karbondioksit) 'dir.
+Bir tek atomlu ideal gaz, formula_7 için, ve bir Diatomik gaz formula_8 (örneğin azot ve oksijen, hava ana bileşenleri gibi). Yukarıdaki formül klasik ideal gazlar ve Bose-Einstein veya Fermi gazları için geçerlidir unutmayın.
+Tersinir adyabatik süreçler için, o da doğrudur
+burada "T" mutlak bir sıcaklıktır.
+Bu aynı zamanda şu şekilde yazılabilir
+Adyabatik sıkıştırma örneği.
+Şimdi bir benzinli motorda sıkıştırma inme Sıkıştırma-adyabatik ortak bir örneğe bakalım. Biz birkaç basitleştirilmesi varsayımlar yapar: silindirin sıkıştırılmamış ses içindeki gaz neredeyse saf azot (beş serbestlik derecesi ve böylece formula_12 = 7/5 ile böylece iki atomlu gaz) olduğunu, 1000 cm3 (bir litre) olduğunu, ve motorun sıkıştırma oranı 10 olduğunu: 1 (piston aşağıdan yukarıya doğru gittiğinde yani sıkıştırılmamış gaz 1000 cm3 hacmi, 100 cm3 aşağı sıkıştırmak olacaktır). sıkıştırılmamış gaz yaklaşık oda sıcaklığı ve basıncı (~ 27 ° C ya da 300 K bir sıcak oda sıcaklığı ve 1 bar ~ 100 kPa veya yaklaşık 14.7 PSI, ya da tipik deniz seviyesinin atmosfer basıncında) 'dir.
+formula_13
+bu nedenle bu deney için bizim adyabatik sabit yaklaşık 1,58 milyar olduğunu.
+Gaz şimdi 100 cm3 hacme sıkıştırılır (biz bu ısı girmek veya gaz bırakabilirsiniz yeterince hızlı olur üstlenecek). Yeni hacim 100 cm3, ancak bu deney için sabit hala 1,58 milyar geçerli:
+formula_14
+yani P çözme:
+formula_15
+yaklaşık 362 PSI veya 24.5 atm ya. Bu basınç artışı, basit bir 10 daha fazla olduğunu unutmayın: işaret eder 1 sıkıştırma oranı; Gaz sadece sıkıştırılmış değil, gaz sıkıştırmak için yapılan çalışmaları da gaz ısıtmalı ve sıcak gaz hacmi değişmemiş olsa bile daha büyük bir baskı olacak çünkü bu.
+Biz ideal gaz yasasını kullanarak, hem de motor silindir içinde sıkıştırılmış gaz sıcaklık çözebilir.
+Bizim deneysel sabittir yani bu başlangıç ​​koşulları, basınç, 1000 cm3 hacmi 100.000 PA, ve sıcaklık 300 K gibidir:
+formula_16
+O 751 K ya da 477 ° C ya da 892 ° F bir son sıcaklığı, yanı üzerinde bir çok yakıt ateşleme noktası. Yüksek sıkıştırma motor yakıtları, özel olarak (sıcaklık ve basınç, bu koşullar altında çalıştırıldığında, motor vurma neden olan) kendi kendine ateşlenmesine formüle gerektirir, ya da aşırı besleme ve inter soğutucu aynı basınçta daha düşük bir sıcaklık sağlamak için bu yüzden Bu olur avantajlı olabilir. Enjekte edilen yakıt anında ateşleme sağlayan çok yüksek bir gaz sıcaklığı temin etmek amacıyla, 1 veya daha fazla, tipik olarak: bir dizel motor 20 arasında bir sıkıştırma oranına sahip, daha da zor koşullar altında çalışmaktadır.
+Bir gazın adyabatik ücretsiz genişleme.
+İdeal bir gazın adiyabatik serbest genişlemesi, gaz yalıtılmış bir kap içinde yer alan ve daha sonra vakum içinde yayılmasına izin verilir. Gaz karşı genişletmek için hiçbir dış baskı olduğundan, ya da sistem üzerinde yapılan çalışmalar sıfırdır. Bu süreç, herhangi bir ısı transferi veya iş içermeyen bu yana, Termodinamiğin Birinci Kanunu, sonra sistemin net iç enerji değişimi sıfır olduğunu ima eder. Iç enerji, sadece bu durumda sıcaklığına bağlıdır, çünkü ideal gaz için sıcaklık sabit kalır. Sabit sıcaklıkta, entropi hacmine orantılı olduğu için, entropi nedenle bu işlem, geri çevrilemez, bu durumda artar.
+Adyabatik ısıtma ve soğutma için sürekli bir formül türetilmesi.
+adiyabatik süreç tanımı sistemine ısı transferi sıfır, formula_17 olmasıdır. Ardından, termodinamiğin birinci yasasına göre,
+burada "dU" sistemi ve "δW" iç enerjisindeki değişim çalışma yapılır ise
+"Tarafından" sistemi. Hiçbir ısı "δQ" çevreden temin ediliyor çünkü herhangi bir iş ("δW") yapılan, iç enerji "U" pahasına yapılmalıdır. Sistem "tarafından" yapılan basınç-hacim çalışması "δW" olarak tanımlanır
+Bununla birlikte, "P", bir adiyabatik işlemi sırasında sabit kalır etmez, ancak
+yerine "V" ile birlikte değişir.
+Bu bilmek istediğiniz nasıl "dP" değerleri ve
+"DV" adyabatik süreç ilerledikçe birbirlerine ilgilidir.
+İdeal gaz için iç enerji verilir
+formula_21 ikiye bölünmesiyle elde serbestlik derecesi sayısı olduğu, "R" evrensel gaz sabiti ve "n" sistemi (sabit) 'de mol sayıdır.
+Denklem (3) ve ideal gaz yasasının kullanılması, formula_22, verimi Farklılaşan
+Denklem (4) sık sık formula_24 olarak ifade edilir
+formula_25 çünkü.
+Hemen yerine denklem (2) ve (4) denkleme (1) elde edilmesi için
+çarpanlara ayırmak: formula_27:
+ve "PV" ile her iki tarafı bölmek:
+V ve formula_31 den P formula_30 sol ve sağ tarafını entegre ve sırasıyla tarafları değiştirdikten sonra,
+Formula_34, ısı kapasitesi oranı ile her iki tarafı ve yedek formula_33 Exponentiate
+ve elde etmek için eksi işareti ortadan
+Bu nedenle,
+ve
+Ayrık formül türetilmesi.
+1 durumunda eyalete 2 ölçülen bir sistemin, iç enerjisindeki değişim, eşittir
+Aynı zamanda, bu işlem ile ilgili bir sonucu olarak basınç-hacim değişiklikleri ile yapılan çalışmalar, eşittir
+Biz adyabatik olmasını süreci gerektirdiğinden, şu denklemi doğru olması gerekir
+Bir önceki türetme yoluyla,
+(4) verir yeniden düzenleme
+(2) oluşur içine bu ikame
+Entegre,
+Formula_46 ikame,
+Yeniden düzenleme,
+İdeal gaz yasasını kullanarak ve (genellikle pratik durumlarda olduğu gibi) sabit bir molar miktarda varsayarak,
+Sürekli formülle,
+Ya da,
+Formula_52 önceki ifadeye ikame,
+Bu ifade ikame edilerek ve (1) (3) oluşur
+Basitleştirme,
+Basitleştirme,
+Basitleştirme,
+Grafik adiabats.
+Bir adyabatlar PV diyagram üzerinde sabit entropi bir eğridir. P-V diyagramındaki adiabats özellikleri şunlardır:
+Aşağıdaki şemada adiabats ve izotermleri bir süperpozisyon bir PV diyagramı ise:
+izotermleri kırmızı eğriler ve adiabats siyah eğriler vardır.
+adiabats izantropik bulunmaktadır.
+Cilt Yatay eksen ve basınç dikey eksendir.
+Etimoloji.
+Dönem "adyabatik", kelimenin tam anlamıyla 'geçirilecek değil' anlamına gelir. Bu "(" διὰ- "(" üzerinden ") ve" βαῖνειν "kaynaklanan sırayla," geçirilecek mümkün "Antik Yunan privative" α "(" değil ") +" διαβατός "oluşturulmaktadır ") bu şekilde" gel, git, ἀδιάβατος "yürüyün. Maxwell ve Partington göre, dönem Rankine tarafından tanıtıldı.
+etimolojik kökenli ısı olarak ve duvar boyunca maddenin transferi enerji transferi bir imkansızlığı için karşılık gelir.
+Kelimesinin adyabatik farklı kullanımları.
+Bu Bu makale makroskobik termodinamik açısından yazılır ve kelime adyabatik Rankine tarafından tanıtıldı termodinamiğin geleneksel bir şekilde bu yazıda, kullanılır. Bu gazın adyabatik izole edilmez bile, bir gaz sıkıştırma hızlı ise, örneğin, daha sonra ısı transferi gerçekleşmesi için biraz zaman var, bu makalede işaret edilmektedir. Bu anlamda, bir gazın hızlı bir sıkıştırma gaz adyabatik izole olmasa bile olsa genellikle çok İzantropik dan bazen yaklaşık veya gevşek adyabatik olduğu söyleniyor olduğunu.
+Kuantum mekaniği ve kuantum mekaniği, istatistiksel, ancak çok farklı bir anlamda kez klasik termodinamik anlamda neredeyse zıt görünebilir az birinde sözcük adyabatik kullanın. Kuantum teorisinde, kelime adyabatik belki İzantropik yakın, ya da belki de yarı-statik yakınındaki bir şey anlamına gelebilir, ancak kelimenin kullanımı iki disiplin arasındaki çok farklıdır.
+Basınç çalışma tedirgemeli unsuru yavaş yavaş neredeyse sonsuz yapılırsa kuantum teorisi bir taraftan, (yani yarı-statik ya da hemen hemen geri dönüşümlü olarak söylemektir), bu adyabatik yapılmış söyleniyor. Fikir hiçbir kuantum sıçrama tetiklenir ve böylece Özfonksiyonların şekilleri, yavaş ve sürekli değişim olduğunu ve değişim neredeyse tersine çevrilebilir. İşgal numaraları değişmeden iken, yine de, özdurumlarını öncesi ve sonrası-sıkıştırma karşılık gelen bire-bir enerji düzeylerinde değişiklik var. Böylece iş tedirgemeli eleman ısı transferi olmadan ve sistem içinde rastgele değişim giriş olmadan yapılmıştır. Örneğin, Max Born Aslında, genellikle yapmamız gereken hangi ile 'adyabatik' durum "yazıyor: harici kuvvet (ya da birbirlerine sistemin parçalarının reaksiyonu) çok yavaş hareket nerede sınırlayıcı davayı yani. Bu durumda, çok yüksek bir yaklaşıklıkla
+diğer bir deyişle, orada geçiş için bir olasılık, ve sistem pertürbasyon kesildikten sonra, ilk durumda. Bu klasik olduğu gibi yavaş pertürbasyon, bu nedenle geri dönüşümlüdür. "
+Basınç çalışma tedirgemeli unsuru hızla yapılırsa kuantum teorisi Öte yandan, rastgele özdurumların işgal numaralarını değiştirir yanı sıra şekilleri değişiyor. Bu teoride, böyle hızlı bir değişim 'adyabatik' olmamak söyleniyor ve aykırı kelime 'diabatic' bile uygulanır. Bir o bu karşı karşıya olsaydı, belki de Clausius, onun gün kullanılan artık eskimiş bir dilde, "iç işleri" yapılır ve 'transfer olsa ısı oluşturulan' olduğunu söyledi olurdu tahmin olabilir.
+Klasik termodinamiğin, sistem adyabatik izole çünkü böyle hızlı bir değişim hala adyabatik olarak adlandırılan olacağını ve ısı gibi enerji hiçbir transfer yok. viskozite nedeniyle değişimin güçlü tersinmezlik, bu klasik kullanım çarpacak etmez.
+Bu nedenle bir gaz kütlesi için, makroskopik termodinamik ifadesi bu nedenle sıkıştırma bazen gevşek ya da yaklaşık olarak sistem adyabatik izole edilmemiş olsa bile, yeterince hızlı ise adyabatik olduğu söylenir kullanılır. Fakat kuantum istatistik teorik olarak, bir kompresyon sistem süresinin klasik termodinamik anlamda adiyabatik izole bile yeterince hızlı ise adyabatik olduğu için söz konusu edilmektedir. Sadece yukarıda belirtildiği gibi sözler, iki disiplinde farklı kullanılır.

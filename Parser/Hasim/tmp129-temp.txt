@@ -1,0 +1,25 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ekvatordan ekvator+Noun+A3sg+Pnon+Abl
+kutuplara kutup+Noun+A3pl+Pnon+Dat
+doğru doğru+Noun+A3sg+Pnon+Nom doğru+Adj doğru+Postp+PCDat
+gidildikçe git+Verb^DB+Verb+Pass+Pos^DB+Adverb+AsLongAs
+bitki bitki+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+hayvanların hayvan+Noun+A3pl+Pnon+Gen hayvan+Noun+A3pl+P2sg+Nom
+tür tür+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+sayıca sayı+Noun+A3sg+Pnon+Equ
+azalmasının azal+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+nedenleri neden+Noun+A3pl+Pnon+Acc neden+Noun+A3pl+P3sg+Nom neden+Noun+A3pl+P3pl+Nom neden+Noun+A3sg+P3pl+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

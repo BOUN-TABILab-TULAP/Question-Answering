@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yapay yapay+Adj
+döllenmenin dölle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen dölle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+hayvan hayvan+Noun+A3sg+Pnon+Nom hayvan+Adj
+ıslahındaki ıslah+Noun+A3sg+P3sg+Loc^DB+Adj+Rel ıslah+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+önemi önem+Noun+A3sg+Pnon+Acc önem+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

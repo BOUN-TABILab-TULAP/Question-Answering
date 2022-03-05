@@ -1,0 +1,8 @@
+1	Matbaa	matbaa	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+2	ne	ne	Adj	Adj	_	3	MODIFIER	_	_
+3	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	6	MODIFIER	_	_
+4	icat	icat	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+5	_	et	Verb	Verb	_	6	DERIV	_	_
+6	edildi	_	Verb	Verb	Pass|Pos|Past|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

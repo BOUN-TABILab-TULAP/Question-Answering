@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyada dünya+Noun+A3sg+Pnon+Loc
+ilk ilk+Adverb ilk+Adj
+telgraf telgraf+Noun+A3sg+Pnon+Nom
+hattı hat+Noun+A3sg+P3sg+Nom hat+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg hat+Noun+A3sg+Pnon+Acc
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+zaman zaman+Noun+A3sg+Pnon+Nom
+kurulmuştur kur+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop kur+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

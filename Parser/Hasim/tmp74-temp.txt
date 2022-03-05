@@ -1,0 +1,28 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnsanlar insan+Noun+A3pl+Pnon+Nom insan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+tarafından taraf+Noun+A3sg+P3sg+Abl taraf+Noun+A3sg+P2sg+Abl
+kaynaklanan kaynakla+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+etkiler etki+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl etki+Noun+A3pl+Pnon+Nom etkile+Verb+Pos+Aor+A3sg etkile+Verb+Pos^DB+Adj+AorPart
+sonucunda sonuç+Noun+A3sg+P3sg+Loc sonuç+Noun+A3sg+P2sg+Loc
+istenmeyen iste+Verb^DB+Verb+Pass+Neg^DB+Adj+PresPart
+zararlı zarar+Noun+A3sg+Pnon+Nom^DB+Adj+With
+maddelerin madde+Noun+A3pl+Pnon+Gen madde+Noun+A3pl+P2sg+Nom
+suyun su+Noun+A3sg+P2sg+Nom su+Noun+A3sg+Pnon+Gen
+niteliğini nitelik+Noun+A3sg+P2sg+Acc nitelik+Noun+A3sg+P3sg+Acc
+bozacak boz+Verb+Pos+Fut+A3sg boz+Verb+Pos^DB+Adj+FutPart+Pnon
+kadar kadar+Noun+A3sg+Pnon+Nom kadar+Postp+PCNom kadar+Postp+PCGen kadar+Postp+PCDat
+yükselmesi yüksel+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+olayına olay+Noun+A3sg+P3sg+Dat olay+Noun+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

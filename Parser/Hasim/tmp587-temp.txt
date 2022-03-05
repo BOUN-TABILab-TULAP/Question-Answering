@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Erkeklerde erkek+Noun+A3pl+Pnon+Loc
+üreme üre+Noun+A3sg+P1sg+Dat üre+Verb+Neg+Imp+A2sg üre+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ürem+Noun+A3sg+Pnon+Dat
+sistemi sistem+Noun+A3sg+Pnon+Acc sistem+Noun+A3sg+P3sg+Nom
+nelerden ne+Pron+Ques+A3pl+Pnon+Abl
+oluşur oluş+Verb+Pos+Aor+A3sg oluş+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

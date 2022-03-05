@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Fiyord Fiyord+Noun+Prop+A3sg+Pnon+Nom
+kıyı kıyı+Noun+A3sg+Pnon+Nom
+tipine tip+Noun+A3sg+P2sg+Dat tip+Noun+A3sg+P3sg+Dat tipi+Noun+A3sg+P2sg+Dat
+yüksek yük+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A1pl yüksek+Adj
+enlemlerde enlem+Noun+A3pl+Pnon+Loc
+rastlanmasının rastla+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+sebebi sebep+Noun+A3sg+P3sg+Nom sebep+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

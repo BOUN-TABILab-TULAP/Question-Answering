@@ -1,0 +1,14 @@
+1	Ayın	ay	Noun	Noun	A3sg|Pnon|Gen	3	POSSESSOR	_	_
+2	dünya	dünya	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	_	üzer	Noun	Noun	A3sg|P3sg|Loc	4	DERIV	_	_
+4	üzerindeki	_	Adj	Adj	Rel	5	MODIFIER	_	_
+5	çekim	çekim	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	gücü	güç	Noun	Noun	A3sg|P3sg|Nom	12	SUBJECT	_	_
+7	neden	neden	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT	_	_
+8	_	güneş	Noun	Noun	A3sg|Pnon|Gen	9	DERIV	_	_
+9	güneşinkinden	_	Pron	Pron	A3sg|Pnon|Abl	12	MODIFIER	_	_
+10	daha	daha	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT	_	_
+11	_	fazla	Postp	Postp	PCAbl	12	DERIV	_	_
+12	fazladır	_	Verb	Zero	Pres|A3sg|Cop	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

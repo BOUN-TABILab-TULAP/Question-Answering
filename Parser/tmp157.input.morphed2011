@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Doğa	doğ+Verb+Pos+Opt+A3sg
+Doğa	doğa+Noun+A3sg+Pnon+Nom
+Doğa	Doğa+Noun+Prop+A3sg+Pnon+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+insan	insan	+Noun+A3sg+Pnon+Nom
+
+arasındaki	ara	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+etkileşimi	etkileşim+Noun+A3sg+Pnon+Acc
+etkileşimi	etkileşim+Noun+A3sg+P3sg+Nom
+
+inceleyen	incele	+Verb+Pos^DB+Adj+PresPart
+
+bilim	bilim	+Noun+A3sg+Pnon+Nom
+
+dalı	dal	+Noun+A3sg+P3sg+Nom
+dalı	dal	+Noun+A3sg+Pnon+Acc
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

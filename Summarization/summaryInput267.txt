@@ -1,0 +1,212 @@
+Question:  Akarsu üzerinde hidroelektrik santral kurulurken nelere dikkat edilmelidir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrik santrali</DOCTITLE>
+<TEXT>
+
+Elektrik santralı, elektrik üretecek bir fabrikayı meydana getiren tesislerin tümü.
+Bir elektrik santralı, jeotermik, hidrolik, nükleer, termik, rüzgâr ve gelgit enerjileri gibi değişik doğal enerjiler kullanan motorların çalıştırdığı alternatörlerle elektrik üretir. Hangi türde olursa olsun, her elektrik santralı, bir enerji kaynağı, bir motor, bir alternatör ve bir transformatör merkezinden oluşur. Transformatör, alternatörün ürettiği akımın gerilimini, ulusal veya uluslararası genel bağlantı şebekesinin füderlerini beslemek üzere uygun bir değere yükseltir. Elektrik santral tipinin seçimi, kilowatt/saatin maliyetini belirleyen ilk yatırıma, işletme ve bakım masraflarına bağlıdır.
+Termik santralın kuruluş masrafları, aynı güçteki hidroelektrik santrala oranla iki veya üç kat daha düşüktür. Buna karşılık, hidroelektrik santralın işletme masrafı çok azdır, termik santralda ise, daima pahalı yakıt kullanıldığından işletme masrafı çok yüksektir. Hidroelektrik santralda amortismanın yüksek olmasına rağmen kilowatt/saat, termik kilowatt/saate oranla daha ucuza malolur. Bugün, nükleer termik santralın ilk kuruluş masrafı, yaklaşık olarak hidroelektrik santral için yapılacak yatırıma eşittir. Hidroelektrik santralın işletme masrafları ihmal edilebilirse de bir nükleer santralın bakım ve işletme masrafları, neredeyse kuruluş masrafı daha düşük olan bir termik santral kadar yüksektir. Nükleer santralları, bugünden inşa etmek gerekiyorsa, bunun nedeni, verdikleri enerji fiyatının ucuz oluşu veya yakın bir gelecekte ucuzlama ihtimali değildir. Bu girişim, yirmi yıl sonra, hidroelektrik santral kurulabilecek yerlerin biteceği, zamanla tükenen kömür, petrol ve doğal gaz gibi klasik yakıt üretimini yeterince çoğaltmanın mümkün olamayacağı düşüncesine dayanır.
+Elektrik santral türleri.
+Hava jeneratörlü santral.
+Hava jeneratörlü santral, rüzgâr enerjisinden yararlanılarak elektrik üretilen elektrik santralı türüdür. Bugün için, rüzgârla üretilen elektrik enerjisi, maliyet fiyatı yüksek olan sınıfa girer ve ancak kentten uzak olan çiftçiler, bağımsız radyoelektrik istasyonları, deniz fenerleri vb. yerlerde kullanılır. Gerçekten büyük hava jeneratörlü santrallar için rüzgâr, ancak belirli bir hızdan sonra elverişlidir. Elde edilebilen enerji, yaklaşık olarak rüzgâr hızının küpüyle orantılıdır. Saniyede 6 m, yani saatte 21,6 Km'den daha düşük hızlarda rüzgâr enerjisi çok zaman yetersiz kalır. Özel ihtiyaçlar için, akümülatörlerle düzenlilik verilen küçük hava jeneratörleriyle elektrik üretme tekniği nispeten isteneni verir. Fakat, 10 Kw'ı geçen makinelerin üretimini elverişli şekilde düzenleme çaresi henüz bulunamamıştır.
+Jeotermik Santral.
+Jeotermik santral, yeraltı kaynaklarının sahip olduğu ısı enerjisinden yararlanılarak elektrik üretilen elektrik santralı türüdür. Jeotermik santral, doğrudan doğruya, yeraltı kaynaklı termik enerjiye baş vurur. Yer çekirdeği, pratik bakımdan tükenmez bir enerji kaynağıdır. Bunula birlikte kullanılması güçtür. Bu enerji, yanardağların püskürmesinde en belirgin şekilde ortaya çıkar, fakat kullanılması için yapılan her girişim başarısızlıkla sonuçlanmıştır. Buna karşılık, sönmek üzere olan yanardağ bölgelerinde kayalarda arta kalan ısıdan faydalanılabilir. Bu ısı, debisi az olan sıcak yeraltı sularında ortaya çıkar.
+Toscana (İtalya) bölgesinde Larderello tesisleri dünyada tektir ve sıcaklığı 200 °C olan yeraltı buharlarından yararlanır. Birkaç yüz bin kilowatt üreten turbo-alternatörler, doğal buharı ısı değiştiricisi olmaksızın doğrudan doğruya alır. Buharın yoğunlaşmasıyla oluşan suya kimyasal işlemler uygulanarak borik asit elde edilir.
+kaynak yer altı olarak kabul edilir.Isı ve sıcaklık yer altı kabuğundan gelir.
+Güneş jeneratörlü santral.
+Güneş enerjisi, güneşin çekirdeğinde yer alan füzyon süreci ile açığa çıkan ısıma enerjisidir, güneşteki hidrojen gazının helyuma dönüşmesi şeklindeki füzyon sürecinden kaynaklanır. . Dünya atmosferinin dışında güneş enerjisinin şiddeti, aşağı yukarı sabit ve 1370 W/m² değerindedir, ancak yeryüzünde 0-1100 W/m2 değerleri arasında değişim gösterir Bu enerjinin dünyaya gelen küçük bir bölümü dahi, insanlığın mevcut enerji tüketiminden kat kat fazladır. Güneş enerjisinden yararlanma konusundaki çalışmalar özellikle 1970'lerden sonra hız kazanmış, güneş enerjisi sistemleri teknolojik olarak ilerleme ve maliyet bakımından düşme göstermiş, güneş enerjisi çevresel olarak temiz bir enerji kaynağı olarak kendini kabul ettirmiştir.
+Hidroelektrik santral.
+Hidroelektrik santral, yüksek bir noktadan düşen hareket halindeki suyun kinetik enerjisinden yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Hidroelektrik santral, düşen su kütlesinin kinetik enerjisinden yararlanılarak bir türbin çalıştırılır. Elektrik enerjisi isteği kış aylarında maksimumudur. Bu devrede, nehirlerde su çekildiğinden hidroelektrik enerji üretimi en düşük seviyeye iner. Enerji isteğinin yüksek, üretimin az olması yüzünden yaz mevsiminde elde edilecek enerji büyük önem taşır. Diğer yandan enerjisinin değeri, geceleri gündüze, pazar günleri iş gününe oranla daha düşüktür. Hidroelektrik bir tesisin değeri, yalnız üretilen enerji miktarına değil, bu enerjinin kalitesine, yani zaman içindeki dağılımına da bağlıdır. Hidroelektrik santralın kurulacağı yerin seçimini tabiat belirler ve bazen bu yer kullanma merkezlerinden çok uzakta olabilir. Böylece enerji nakli yüzünden maliyet fiyatı bakımından büyük yük altına girilir ve genellikle tüm hallerde kuruluş masrafları, termik santrallere oranla daha yüksektir. Buna karşılık, hidroelektrik santralın yakıt tüketimi yoktur, işletme ve bakım masrafları, termik santralden çok azdır. Hidroelektrik bir tesisin, işletme ekonomisi kuruluş masraflarını karşılarsa elverişli şartlara sahip olduğu düşünülür.
+Akarsu santralı.
+Akarsu santralı, akarsulardan yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Akarsu santralının pratikte hiç bir enerji yedeği yoktur. Nehirlerin yükselme zamanında, santrallar maksimum güçlerini verir. Kuraklık zamanında, üretilen güç debi ile azalır ve bazı derelerde sıfıra kadar iner. Bu tür santrallar, Rhône ve Rhin üzerine yapılmıştır. Rhône üzerindeki Donzére santralı, nehrin ortalama debisine yakın olan saniyede 1.500 m3'lük bir debiyi kullanacak şekilde donatılmıştır. Rhône, suları çekildiği zaman dahi normal olarak saniyede 400 m3'lük bir debi verir. Bu yüzden santralın gücü, yılda ortalama 4'te 1 oranında değişir. Rhin'de ortalama debi saniyede 1.100 m3 ve sular çekildiği zaman saniyede 300 m3 olduğundan santralın gücündeki değişme oranı neredeyse aynıdır.
+Göl santralı.
+Göl santralı, göllerden yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Göl santralları, nehir debisinin belirli bir kısmını yedek olarak tutan alavere havuzu tarafından beslenir. Bu tesislerin kurulmasına elverişli yerler azdır. Ayrıca, göl santrallarının çoğunda yıl içinde gelen fazla su miktarının ancak bir kısmı depo edilebilmektedir.
+Setli santral.
+Yıllık fazla su miktarının % 5'ini depo edebilen göl santrallarıdır. Fakat, bu stok nehrin en az birkaç saatlik ortalama debisine karşılık düşer. Bu stokun mevsimlik enerji akta katkısı çok azdır. Fakat, günlük puant zamanlarının atlatılmasında büyük önem taşır. 
+Akarsu santrallerinde hidrolik türbinlerin su debisi yüksektir, buna karşılık suyun düştüğü yükseklik ve hızı azdır. Göl santralleri, basınçlı borularla beslenen dik veya dogucan kaçak su borusu veya galerisi ve bir transformatör merkezi. Bazı hidroelektrik santralleri yer altındadır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hidroelektrik santrali</DOCTITLE>
+<TEXT>
+
+Hidroelektrik santrali, barajda biriken su Yerçekimi Potansiyel Enerjisi içermektedir. Su, belli bir yükseklikten düşerken, enerjinin dönüşümü prensibine göre Yerçekimi Potansiyel Enerjisi önce kinetik enerji (mekanik enerji) ye daha sonra da Türbin çarkına bağlı generatör motorunun dönmesi vasıtasıyla Potansiyel elektrik Enerjisi ne dönüşür. Fizik ten hatırlıyalım, 1 kg lık bir kütle, 1 m yükseklikten düştüğünde ;
+W (kg m²/sn²=N-m=joule)= m(kg)*g( m/sn²)*h(m)= 9.8 N-m lik iş yapılmış olur. 
+Net düşüsü 100 m olan bir barajda 1 ton suyun yaptığı iş;
+W= 1000*9.8*100= 980 000 N-m=980 000 joule(j) dür.
+"Su düşüşü veya hidrolik düşüş"
+Birbiri ile irtibatı bulunan iki su seviyesi arasındaki kot farkına denir. Bir Hidroelektrik Santralda düşü ise üst su seviyesi ile çıkış su seviyesi arasındaki yükseklik farkıdır. Cebri borular ve diğer yerlerdeki kayıplar göz önüne alınmazsa bu mesafeye net hidrolik düşü diyebiliriz.
+Yukarıdaki örneği devam ettirirsek; 1 kWh= 3.600.000 j olduğundan, 1 ton suyun yaptığı iş ;
+980 000/3 600 000= 0.27 kWh olacaktır.
+Tersten okursak;
+1 kWh enerji için, 3.600.000/980.000=3,67 m³ su harcamak gerekir.
+1 kWh enerji için harcanan su miktarına Özgül Su Sarfiyatı denir. Net düşü ile ilgilidir. Baraj su seviyesi düştükçe Özgül Su Sarfiyatı yükselir. Yani aynı enerji için daha çok su harcanır.
+Özgül Su Sarfiyatının hesabı 
+İş= m*g*h = Q*1000*9.8*h/3600000 (kWh) olduğuna göre;
+formula_1
+formula_2 olur.
+Hidroelektrik santralinin gücü.
+Yukarıdaki örnekte anlatılan işi 1 sn içinde yaptıran 980 000 N-m/sn lik güç tür. 1 N-m/sn = 1 watt olduğundan, eşdeğeri 980 kW'lık güçtür.
+Yapılan işin, yükseklik (net düşü) ve türbin çarkından geçen suyun kütlesi ile, kütlenin de suyun debisi(Q m³/sn) ile doğru orantılı, ayrıca Güç=iş/zaman olduğu bilindiğine göre, sürtünme kayıplarını da göz önünde tutarak formüle edersek; formula_3
+formula_4
+formula_5
+formula_6
+formula_7
+olarak bulunur.
+Hidroelektrik santral çeşitleri 
+Hidroelektrik santrallar, kaynağına göre, "rezervuarlı" ve "kanal tipi" olarak tesis edilebilirler.
+Hidroelektrik santrallerinin ana bölümleri.
+Bir hidroelektrik santral binlerce parçadan meydana gelir. Ana bölümleri şunlardır:
+1. Su tutma yapısı.
+Rezervuarlı santrallarda baraj, kanal tipi santrallerde tünel ya da açık kanal, nehir tipi santrallerde ise regülatör şeklinde olabilir.
+2. Su alma yapısı.
+İletim hattına suyun giriş yaptığı yapıdır. Izgaralar, kapak ve kapak açma-kapama mekanizmalarından oluşur. Rezervuarlı santrallarda su girişi, yüzen cisimlerin borulara girmemesi için baraj gövdesinin orta kotlarında yapılırlar.
+3. İletim kanalı.
+Hidroelektrik tesisin işletmede öngörülen debideki suyu iletmesinde kullanılır. Trapez, duvarlı, kapalı duvarlı, tünel, veya doğrudan cebri borularla iletilebillir. Kanal sonu yükleme odasına bağlanır. Kanal boyunca sanat yapıları mevcuttur.
+4. Cebri (basınçlı) borular.
+İletim hattı ile santral arasında , ölçüleri debi ve düşü ye göre hesaplanan kalın etli büyük çaplı çelik ya da CTP (Cam elyaf Takviyeli Plastik) borulardır. Santralın jeolojik yapısına göre gömülü oldukları gibi, görünür olanlarıda vardır. Türbin çarkını çeviren suyun geçişine olanak sağlar. İletim hattı bulunan HES lerde genellikle İletim Hattı ile Cebri boru arasında regülatörün yaptığı su dengelemesi gibi görev alan Yükleme Havuzu yapısı bulunur. İletim hattından gelen ve burada bulunan su iletim hattında oluşabilecek su seviyesi düşüklüğü durumunda cebri boruda basınç eksikliği oluşmasını engellemek amacıyla dengeleme işlevini yerine getirir.
+5. Salyangoz.
+Cebri boru sonuna monte edilen, salyangoz biçimindeki basınçlı su haznesi, suyun çarka çevresel olarak ve her bir noktadan eşit debide girmesini sağlar. Çevresel olarak sabit kanatçıkları suya yön verir, açılıp-kapanabilir kanatçıkları ise çarka verilen suyun debisini ayarlar. Çoğu santralda, cebri boru ile salyangoz birleşme noktasında kelebek ya da küresel tabir edilen, hidrolik basınç ile çalışan, cebri boru çapına uygun vanalar bulunur. Bazı santrallarda bu vana tesis edilmeyebilir.
+6. Türbin.
+Türbin çarkı, türbin şaftı, türbin kapağı, hız regülatör sistemi, basınçlı yağ sistemi, türbin yatağı, soğutma sistemi, kumanda panosu ve yardımcı teçhizattan oluşur. Türbin şaftı, suyun kanatlarına çarparak döndürdüğü türbin çarkı ile generatör rotoru arasında akuple olup generatör rotorunun dönmesini sağlar.
+7. Jeneratör.
+Generatör rotoru, statoru, yatağı, ikaz(uyartım), soğutma sistemi, koruma sistemi, kumanda ve işletim sistemi, doğru akım sistemi, kesici ve ayırıcılar ile yardımcı organlardan oluşur. Rotor, çok güçlü tesis edilmiş yatak üzerinde sabit hızla döner. Dönüş sayısı, frekans ve kutup sayısı ile doğru orantılıdır. Devir sayısı, frekans ve kutup sayıısı arasındaki bağlantı aşağıdaki gibidir; 
+d/d=f*60/(kutup sayısı)*2 
+Enerji stator sargılarından alınır.
+8. Transformatörler.
+Gerilimi yükseltme ya da alçaltma işlevini üstlenmişlerdir. Tek fazlı, üç fazlı olabilirler. Her üniteye bir transformatör olabileceği gibi birden fazla üniteye bir transformatör de olabilir. Ana gövde, soğutma sistemi, yangın sistemi, koruma sistemi bölümlerinden oluşur.
+9. Şalt alanı.
+Transformatörlerden çıkan yüksek gerilim enerjinin iletim hatlarına bağlantı noktasıdır. Kesiciler, ayırıcılar, topraklama sistemi, koruma sistemi, basınç sistemi, ölçü sistemi, iletim hatları üzerinden haberleşme sistemi kısımları vardır.
+10. Diğer teçhizat.
+Ana teçhizatlardan ayrı olarak; ısıtma havalandırma sistemleri, aydınlatma sistemleri, doğru akım acil enerji, alternatif akım acil enerji (dizel generatör) sistemleri, sızıntı toplama havuzları, besleme pompaları, drenaj boşaltma pompaları, haberleşme sistemleri, kompresör ve tanklar gibi basıçlı hava sistemleri, yangın koruma ve söndürme sistemleri, bakım, onarım ve küçük imalat atölyeleri, montaj demontaj sahaları, vinçler, krenler gibi taşıma, kaldırma sistemleri, arıtma sistemleri, ilk yardım bölümü, batardo kapakları,labaratuarlar vb bölümlerdir.
+Hidrolik Santrallar su değirmeni çalıştırma ilkesine dayandığından Türbin Çarkına çarpan su türbin şaftını döndürerek Mekanik enerji üretir. Türbin şaftı direk veya bir dişli sistemi ile jeneratör Rotoruna bağlıdır. Jeneratör Rotoru üzerinde bulunan sargıların dışarıdan bir Doğru akım Güç Kaynağı ile uyartılması sonucu rotor çevresinde bir Manyetik alan doğar. Dönen rotorun etrafında oluşan manyetik alanın Stator sargılarının üzerinde İndüklenmesi ile stator sargılarında gerilim oluşarak elektrik enerjisi elde edilir.
+Hidrolik santrallerinin artıları, eksileri.
+Bir barajın yapımı ve öncesinde; uzun süreli yağış, su, jeolojik çalışmalar yapılması, su altında kalan arazi için ödenen istimlâk bedelleri, baraj yapım maliyetinin yüksek olması ilk yatırım maliyetinin çok fazla çıkmasına neden olur ki bu bir dezavantajdır. Ayrıca vahşi hayata ve doğal kaynaklara zararları, bölgesel kültürler ve tarihi yerlerin yok edilmesi (Zeugma, fırtına vadisi vs.), su kalitesine etki sorunu dezavantajlardan bazılarıdır. Su kaynağı bakımından zengin fakat yüksek debili akarsu bakımından fakir olan Türkiye'de 
+maliyeti düşük ve çevreye zararı daha az olan Kanal Tipi Santralleri kurmak zordur. Küçük bir kasabaya yetecek kadar enerji üreten bir tesis için bile pek çok ağaç kesip yol açmak zorunda kalınması doğaya geri dönüşü olmayan zararlar vermektedir.
+Dezavantajlarına karşın; ilk yatırım yapıldıktan sonra, enerji üretiminin ana kaynağı su olduğundan üretim maliyeti çok ucuz olmaktadır. Yakıtlı santralleri gibi hava ve çevre kirliliği yaratmazlar. Türbinler hakkında daha detaylı bilgi için teklif hazırlama mühendislerine başvurulabilir. 
+Ayrıca barajların, elektrik üretiminin yanı sıra;
+Hidrolik santralleri ile termik santrallerin karşılaştırılması.
+Hidrolik Santralların yıllık üretimleri, kaynağa gelen su miktarıyla doğru orantılı olduğundan ve bir yıl boyunca gelen su insanoğlunun elinde olmayıp tam kapasite çalıştırmaya yetmeyebileceğinden, genel olarak puant santralı olarak çalıştırılırlar. Devreye alınış ve çıkarışları çok kolay ve hızlı olduğundan su rejimine bağlı olarak günün, enerji gereksiniminin çok olduğu- "ki buna puant saati denir" - saatlerinde çalıştırılarak, enerjiye az gereksinim olduğu zamanlarda devre dışı bırakılırlar. Bir Hidrolik Santral ünitesi tam kapasite ile çalıştırılmayabilir. Örneğin 100 MW güçteki bir ünite bir saat tam kapasite çalıştığında 100 000 kWh enerji üretebilir. Tam kapasite çalışma türbin kanatlarının önündeki su giriş kapakçıkları tam açıktır ve saniyede geçen su miktarı en üst düzeydedir. Ancak, sistemden çekilen enerji, kullanıcıların devreye girme, çıkmalarına göre an be an değişir. Sisteme anlık olarak istenilen enerjinin verilmesini üretim ünitesindeki regülasyon sistemi sağlar. Regülasyon sistemi, türbin kanatlarının önündeki su giriş kapakçıklarına otomatik olarak hükmederek daha az su girişine paralel olarak daha az üretim yapar. Bu olaya sistemde frekans tutma denir. Tüm elektrikli alıcıların sağlıklı ve verimli çalışabilmesi için frekansın, alıcılarda imalat sırasında belirlenen frekansa - Türkiye ve Avrupa ülkelerinde 50 Hz -uygun olması gerekir.
+Termik santrallerin devreye alınış ve çıkarışları çok kolay ve hızlı değildirler. Buna karşın yakıtlarını istenilen miktarda elde etmek insanoğlunun elindedir. Devreye alınış ve çıkarışları sırasında çok verim kaybına uğrarlar. Kızgın buharın, enerji üretimine hazır hale gelmesi için kazanların uzun süre yakılması gerekir. Bütün bu nedenlerden ötürü [termik santraller arıza, revizyon, bakım vs. durumlar dışında 24 saat sürekli çalıştırılmak üzere plan ve dizayn edilmişlerdir.
+Stator sargılarında elde edilen orta gerilim elektrik enerjisidir. Orta gerilim enerjinin şehirlere taşınması için çok büyük kesitli iletkenler gerektiği, bunun da olanaksız olması nedeniyle oluşan gerilim Transformatörler vasıtasıyla Yüksek gerilim e çıkarılır ve elektrik iletim hatları ile şehirlere taşınır. Yüksek gerilim enerji kullanıma sunulamıyacağına göre, bu kez de yerleşim yerlerindeki Transformatörler vasıtasıyla kademeli olarak Alçak gerilim e düşürülerek kullanıma sunulur.
+Elektrik enerjisi depo edilemez ama su depo ederek elektrik dolaylı olarak depo edilebilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ataköy Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Ataköy Barajı, Tokat'ta, Yeşilırmak üzerinde, hidroelektrik enerji üretimi amacı ile 1975-1977 yılları arasında inşa edilmiş bir barajdır.
+Toprak gövde dolgu tipi olan barajın gövde hacmi 600.000 m³, akarsu yatağından yüksekliği 26,00 m, normal su kotunda göl hacmi 2,80 hm3, normal su kotunda göl alanı 0,50 km²'dir.
+Türkiye'de bir ilk olarak Ataköy Barajı nın sağladığı su ile 2 adet Hidroelektrik santral çalıştırılmaktadır. Bunlardan biri kendi adıyla anilan 5 MW güç kapasiteli Ataköy HES (hidroelektrik santralı) yılda 8 GWh elektrik enerjisi üretmekte, diğeri ise 5.000 m lik bir tünel ile suyun vadi atlatıldığı, Niksar da kurulu 90 MW güçteki Köklüce Barajı ve Hidroelektrik Santrali'dir. Bu santral, 400 m net düşü ile Türkiye'nin en verimli santrallarından olup yılda 400 GWh civarında elektrik enerjisi üretmektedır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sarıyar Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Sarıyar Barajı (Hasan Polatkan Barajı) Nallıhan (ilçe)'nin sarıyar köyünde olup, Sakarya Nehri üzerinde 1951-1956 yılları arasında inşa edilmiş hidroelektrik enerji üretimi amaçlı bir barajdır. Beton ağırlık tipi olan barajın gövde hacmi 568.000 m³, akarsu yatağından yüksekliği 90 m'dir. Normal su kotunda göl hacmi 1.900 hm³, normal su kotunda göl 83,83 km²'dir. 4 alternetör ile çalışan santral 160 MW gücündeki hidro-elektrik santralinden ise yılda 378 GWh saat elektrik enerjisi elde edilir. Türkiye'nin ilk büyük HES (hidroelektrik santralı) barajıdır. türkiye'deki tek santral atölyesi'ne sahiptir. Türkiye baraj gölü sıralamasında 6'cı sırayı yer almaktadır.
+Koordinatları | 40°02′N, 31°25′E
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kapasite faktörü</DOCTITLE>
+<TEXT>
+
+Elektrik santralinin net kapasite faktörü (KF), santralin belli bir periyotta ürettiği toplam enerjinin tam kapasitede üretebileceği enerjiye bölümüdür. Kapasite faktörü kullanılan yakıt türüne ve santralin tasarımına bağlı olarak aşırı derecede değişir. Kapasite faktörü, uygunluk faktörü veya verimlilik ile karıştırılmamalıdır.
+Temel hesaplamalar.
+Ana yük güç santrali.
+1000 MW'lık kapasiteli bir ana yük güç santrali 1 ayda (30 günde) 648.000 megawatt-saat üretmiş olsun. Eğer santral tam kapasitede çalışmış olsaydı aynı zaman periyodunda, 1000 MW X 30 gün X 24 saat/gün = 720.000 megawatt-saat üretecekti. İşte kapasite faktörü gerçek üretilen enerjinin mümkün olan maksimum güce (nominal güç) bölümüdür. Bu örnekte kapasite faktörü, 0.9 (%90)'dur, şöyle ki:
+formula_1
+Rüzgâr tarlası.
+Burton Wold Rüzgâr Tarlası, her birinin kurulu gücü 2 MW olan toplam 20 MW kurulu kapasiteye sahip on adet Enercon E70-E4 tip rüzgâr türbininden oluşur. 2008'de rüzgâr tarlası 43.416 megawatt-saat elektrik üretti. Bu rüzgâr tarlası için kapasite faktörü 2008'de %25'den düşüktü:
+formula_2
+Hidroelektrik santrali.
+2010 itibariyle Çin'deki Üç Vadi Santrali (Three Gorges Dam) dünyada en büyük kurulu kapasiteye sahip santraldir. 2009'da tam kapasite ile çalışmadı. Herbiri 700MW'lık olan 26 generatörden ve 50'şer MW'lık 2 iç ihtiyaç generatöründen oluşur. Böylece toplam kurulu kapasitesi 18.300 MW'tır. 2009'da toplam üretimi 79,47 TWh idi. Bu da kapasite faktörünün %50'nin altında olduğunu gösteriyor, şöyle ki:
+formula_3
+Kapasite faktörünü düşüren sebepler.
+Bir santralin tam kapasitede çalışamamasının birkaç sebebi vardır. İlk sebep parçaların arızasından veya işlevini kaybetmesinden dolayı meydana gelen hizmet veya işlemdir. Bu, kapasitenin büyük oranda düşmesine neden olur. Ana yük santrallerinin birim enerji başına daha az maliyeti vardır. Çünkü maksimum verimlilik için tasarlanmışlardır ve daima yüksek çıkış (enerji) verirler. Katı madde yakan jeotermal santraller, nükleer santraller, kömür santralleri ve biyoenerji santralleri hemen hemen daima ana yük santralleri olarak çalışır. 
+Bir santralin kapasite faktörünün %100 olmamasının ikinci sebebi, elektriğin gerekli olmadığı durumlarda çıkışın azaltılabilmesidir. Böylece elektrik ihtiyacı olmadığı durumlarda üretime ara verilebilir. 
+Üçüncü sebep de saniyedeki değişimdir. Hidroelektrik santrallere daha fazla generatör eklenerek kurulu kapasitesiteleri arttırabilir. Yakıt kaynağı (örn;su) harcanmamış olur.
+Yük takip güç santralleri.
+Yük takip güç santrallerinde (orta düzey güç santralleri olarak ta adlandırılır) de kapasite faktörü, verimlilik ve elektrik birim maliyeti terimleri çok önemlidir. Bu santraller, maliyet ve talebin en yüksek olduğu anda kendi elektriğinin çoğunu gün içinde üretirler. Yine de geceleyin ve orta düzey santrallerin sistemden çıktıklarında veya çıkış güçlerini azalttıklarında talep ve elektrik maliyeti çok düşer. 
+Kapasite faktörü ve yenilenebilir enerji.
+Güneş enerjisi, rüzgâr gücü ve hidroelektrik gibi birkaç kaynaktan yenilenebilir enerji sağlandığında, kullanışsız kapasite ile ilgili üçüncü bir sebep vardır. Santral elektrik üretebilir, fakat yakıtı (rüzgâr, güneş ışığı veya su) kullanılamayabilir. Hidroelektrik santralinin üretimi, su akışındaki değişimden dolayı, su seviyesini çok yüksekte tutmakla veya çok düşürmekle etkilenebilir. Bununla beraber, güneş, rüzgâr ve hidroelektrik santraller yüksek uygunluk faktörlerine sahiptir. Bu yüzden yakıt kullanıldığında, daima elektrik üretmeleri gerekir.
+Hidroelektrik santraller "sevkedilebilirliğinden" dolayı faydalı (kullanılabilir) su bulunduğunda, yük takibi için de kullanışlıdırlar. Çünkü hidroelektrik santral durağan durumdan, tam güce sadece birkaç dakika içinde alınabilir.
+Rüzgâr tarlaları, rüzgârın doğal davranışından dolayı çok aralıklıdır. Fakat bir rüzgâr tarlası geniş yer kaplayan, yüzlerce rüzgâr türbininden meydana gelebileceğinden dolayı, türbinlerin zararlarına karşı tam meyillidir. Büyük rüzgâr tarlasındaki birkaç rüzgâr türbini planlı veya plansız bakım için durdurulabilir ve geri kalan türbinler rüzgârdan enerji üretmeye devam edebilirler. 
+Güneş enerjisi, dünyanın günlük dönüşünden ve bulutların güneş ışınlarını kapamasından dolayı, değişkendir. Ana yük ihtiyaçlarını karşılamak için, ısı enerjisi depolama sistemi kullanılabilir ve güneş panellerinin sayısını arttırılabilir.
+Jeotermal, birçok diğer güç kaynaklarından daha büyük kapasite faktörüne sahiptir ve jeotermal kaynaklar haftanın her günü 24 saat kullanılabilir. Jeotermal güç, nükleer pile benzetilebilir. Çekirdekteki veya toprağın içindeki çürük radyoaktif elementlerden ısı üretilir.
+Ayrıca bakın.
+Elektrik mühendisliği
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Oymapınar Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Oymapınar Barajı, Antalya'da, Manavgat Nehri üzerinde, elektrik enerjisi üretimi amacı ile 1977-1984 yılları arasında inşa edilmiş bir barajdır.
+Beton kemer tipi olan barajın gövde hacmi 575.000 m3, akarsu yatağından yüksekliği 185,00 m, normal su kotunda göl hacmi 300,00 hm3, normal su kotunda göl alanı 4,70 km2'dir. Bir mühendislik harikası olan baraj 540 MW güç kapasiteli HES (hidroelektrik santral) ile yılda 1620 GWh elektrik enerjisi üretimi sağlamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tercan Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Tercan Barajı, Erzincan'da Tuzla Çayı üzerinde, sulama ve elektrik enerjisi üretimi amacıyla 1969-1988 yılları arasında inşa edilmiş bir barajdır.
+Toprak gövde dolgu tipi olan barajın gövde hacmi 3.100.000 m³, akarsu yatağından yüksekliği 65,00 m, normal su kotunda göl hacmi 178,00 hm³, normal su kotunda göl alanı 8,85 km²'dir. Baraj 29.725 hektarlık bir alana sulama hizmeti vermekte, 15 MW güç kapasiteli HES (hidroelektrik santral) yılda 51 GWh elektrik enerjisi üretimi sağlamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Demirköprü Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Demirköprü Barajı, Manisa'da, Gediz Nehri üzerinde, sulama, taşkın kontrolü ve enerji üretimi amacıyla 1954 - 1960 yılları arasında inşa edilmiş bir barajdır. Toprak gövde dolgu tipi olan barajın gövde hacmi 4.300.000 m³, akarsu yatağından yüksekliği 74,00 m'dir. Normal su kotunda göl hacmi 1.320,00 hm³, normal su kotunda göl alanı 47,66 km²'dir. 69 MW güç kapasitesindeki HES (hidroelektrik santral) yılda 193 GWh elektrik enerjisi üretimi sağlamakta, baraj 99.220 hektarlık bir alana sulama hizmeti vermektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Zernek Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Zernek Barajı, Van'ın Gürpınar ilçesinde Hoşap Çayı üzerinde, sulama ve elektrik enerjisi üretimi amacıyla 1980-1988 yılları arasında inşa edilmiş bir barajdır.
+Toprak velkkkkoo kaya gövde dolgu tipi olan barajın gövde hacmi 2.100.000 m3, akarsu yatağından yüksekliği 80,00 m, normal su kotunda göl hacmi 104,00 hm3, normal su kotunda göl alanı 5,16 km2'dir. Baraj 11.300 hektarlık bir alana sulama hizmeti vermekte, 5 MW güç kapasiteli HES (hidroelektrik santral) yılda 13 GWh elektrik enerjisi üretimi sağlamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karacaören-1 Barajı ve Hidroelektrik Santrali</DOCTITLE>
+<TEXT>
+
+Karacaören-1 Barajı, Isparta ve Burdur'da Aksu Çayı üzerinde, sulama, taşkın kontrolü ve elektrik enerjisi üretimi amacıyla 1977-1990 yılları arasında inşa edilmiş bir barajdır.
+Toprak gövde dolgu tipi olan barajın gövde hacmi 4.000.000 m3, akarsu yatağından yüksekliği 93,00 m, normal su kotunda göl hacmi 1.234,00 hm3, normal su kotunda göl alanı 45,50 km2'dir. Baraj 9.537 hektarlık bir alana sulama hizmeti vermekte, 32 MW güç kapasiteli HES (hidroelektrik santral) yılda 142 GWh elektrik enerjisi üretimi sağlamaktadır.
+
+</TEXT>
+</DOC>
+

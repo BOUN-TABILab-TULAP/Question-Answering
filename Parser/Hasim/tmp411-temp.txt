@@ -1,0 +1,23 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İdrar idrar+Noun+A3sg+Pnon+Nom
+kesesinin kes+Verb+Pos^DB+Noun+FeelLike+A3sg+P2sg+Gen kes+Verb+Pos^DB+Noun+FeelLike+A3sg+Pnon+Gen kese+Noun+A3sg+P3sg+Gen
+dolması dol+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom dolma+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike dolma+Noun+A3sg+P3sg+Nom
+durumunda durum+Noun+A3sg+P3sg+Loc durum+Noun+A3sg+P2sg+Loc
+idrarın idrar+Noun+A3sg+P2sg+Nom idrar+Noun+A3sg+Pnon+Gen
+dışarı dışarı+Adj dışarı+Postp+PCAbl dışarı+Noun+A3sg+Pnon+Dat dışarı+Noun+A3sg+Pnon+Nom
+atılması at+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+hangi hangi+Adj
+üreter üreter+Noun+Prop+A3sg+Pnon+Nom
+sistemiyle sistem+Noun+A3sg+P3sg+Ins
+gerçekleşir gerçek+Adj^DB+Verb+Become+Pos+Aor+A3sg gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+AorPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Aor+A3sg gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

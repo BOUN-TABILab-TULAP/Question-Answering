@@ -1,0 +1,181 @@
+Question: Osmotik basıncın artmasının sebebi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Osmotik basınç</DOCTITLE>
+<TEXT>
+
+Belirli bir yoğunluğu olan her çözeltinin saf suyla etkileşmesi halinde, ilişkiye geçtiği saf suyu emebilmesi için aktif olan bir değeri vardır. Bu değere o çözeltinin "osmotik değeri" denir. Osmoz olayları sırasında bizzat iş gören osmotik değere "osmotik basınç" denir.Daha basit bir tanımlama ile osmotik basınç; hücrenin sahip olduğu sitoplazma yoğunluğundan kaynaklanan emme kuvvetidir. 
+Osmotik basınç, belirli bir hacim çözücü içinde çözünmüş madde moleküllerinin sayısıyla yani konsantrasyonuyla doğru orantılıdır.
+Osmotik basınç, yoğunluk farkı nedeniyle oluşan bir çekim kuvvetidir ve osmotik basınç çözünmüş madde yoğunluğu ile doğru orantılıdır. Bir hücrenin madde yoğunluğu fazla ise osmotik basıncı da fazladır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gliserofosforilkolin</DOCTITLE>
+<TEXT>
+
+Gliserofosforilkolin (ingilizce "glycerophosphorylcholine" 'in kısaltması GPC olarak da bilinir) Fosfatidilkolin'in sn-1 ve sn-2 konumunda fosfolipaz enzimleri tarafından hidrolizi ile meydan gelir. Sitoplazmada kolin depolamaya yarar. 
+Gliserofosforilkolin böbrek meduller hücrelerindeki dört ana osmolitten biridir (diğerleri miyoinositol, sorbitol ve serbest amino asitlerdir), ortamdaki osmotik basınca bağlı olarak hücre içindeki osmotik basıncın dengelenmesinde kullanılır. Hücredışı çözünenlerin konstrasyonundaki değişime bağlı olarak GPC'nin sentez veya yıkım hızı düzenlenerek onun hücre içi konsantrasyonu ayarlanır. Gliserofosforilkolin, beyindeki aktif osmolitlerden de biridir 
+Gliserofosforilkolin, Fosfodiesteraz 6 tarafından hidrolizlenebilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Stoma</DOCTITLE>
+<TEXT>
+
+Stoma, açılıp kapanma özellikleri ile bitkideki terlemeyi ve gaz değişimini kontrol eden canlı yapılardır. Terimin tekili stoma, epidermislerinde karşılıkla olarak bulunur.
+Stomalar, epidermisin farklılaşması ile oluşur. Anatomik olarak iç yüzeyindeki zar kalın, dış yüzeyindeki zar ise incedir. Bu incelik kalınlık, stomalara açılıp kapanma özelliği kazanmıştır.
+Stoma hücrelerinin yapısında diğer epidermis hücrelerinden farklı olarak kloroplast bulunur. Su içi bitkilerinde stoma yoktur. Kara bitkilerinde stomalar, yaprağın alt yüzeyinde, nilüfer gibi bitkilerde yaprağın üst yüzeyinde bulunurlar. Bitkinin yaşadığı yerin kuraklık derecesi arttıkça stoma sayısı azalır.
+Stomaların açılıp kapanması.
+Stomaların açılıp kapanması fiziksel prensiplere göre açıklanır.Açılıp kapanma,osmotik basınç ve turgor basıncı değişikliklerinden kaynaklanır.Şöyleki;bitki fotosentez sonucu glikoz oluşturur.Bu durum,hücrenin osmotik basıncını yükseltir.Böylece komşu hücrelerden stomalara su geçişi olur.stomanın turgor basıncı artar.Bunun sonucunda ince olan dış çeper şişer ve sonuçta stoma açılmış olur.
+Bir başka açılma nedeni ise CO2 yoğunluğu ile alakalıdır.CO2 asidik özellik gösterir.Azalması ile ph yükselir.Bu durum nişastayı glikoza çeviren enzimlerin aktif hale geçmesine neden olur.Sonuçta üstte oluşan durumlar tekrarlanır.
+'Belli bir seviyeye kadar' sıcaklık ve rüzgarın artışı stomanın açılmasına, terlemenin artmasına sebep olur. Ancak; sıcaklık ve rüzgarın aşırı artışı stomanın kapanmasına neden olur. 
+Havanın nemi fazla ise; terleme yavaşlar, stomalar kapanmaya yatkındır. Kuru, nemi az havalarda ise stoma sonuna kadar açıktır, terleme çok fazladır. Öyle ki; havanın çok nemli olduğu, neme doyduğu yerlerde stoma açılamaz, terleme mümkün olmaz. Bu durumlarda hidatotlar devreye girerek damlama(gutasyon) ile fazla suyu atarlar.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kimyasal element</DOCTITLE>
+<TEXT>
+
+Element, aynı cins atomlardan oluşan ve kimyasal yollarla kendinden daha basit ve farklı maddelere ayrılamayan saf maddelere verilen isim.
+Kimyasal elementler aynı atom numarasına sahipdirler. Atom numarası atomdaki proton sayısını (cekirdek yükünü) gösteren sayıdır. Bir elementin böylece tüm atomlarında aynı sayıda proton bulunur. Proton sayıları aynı, nötron sayısı (kütle numaraları (= proton sayısı + nötron sayısı)) farklı atomlara izotop denir.
+Toplam 118 adet element bulunmuştur. Bunların 94 tanesi Dünya üzerinde doğal olarak bulunmaktadır. 80 adet element sabit izotopa sahiptir. Bu elementler, atom numarası 43 ve 61 (teknetyum ve prometyum) dışında atom numarası 1'den 82'ye kadar olan atomlardır. Atom numarası 83 ve daha fazlası olan atomlar (bizmut ve fazlası) kesinlikle sabit değildirler ve radyoaktif özellikler barındırırlar. Atom numarası 83'ten 94'e kadar olanlar sabit değillerdir.
+İnsan vücudunda elementler.
+Bir element insan vücudunda yüzde miligram mertebesinde bulunursa bu elemente makroelement (majörelement, plastik element) denir. Diğerlerine nazaran daha az oranda (yüzde mikrogram mertebesinde) bulunanlara ise izelement (oligoelement, minörelement, katalitik element) adı verilir. Minörelementler genellikle enzim, hormon gibi vücutta önemli fonksiyonu olan maddelere bağlı olarak görev yaparlar.
+İyon halinde bulunanlar.
+Na+, K+, Ca2+, Mg2+, Cl-, HCO3-, PO43-, HPO42- gibi iyonlar halinde bulunurlar. Elektrolit dengeyi sağlarlar. Ayrıca vücutta su dengesinin ve osmotik basıncın ayarlanması iyon halindeki elementlerle sağlanır.
+Kompleks Halinde Bulunanlar.
+Hemoglobinde, miyoglobinde demir (Fe) bulunur, çeşitli enzimlerin yapısında da metal iyonları bulunmaktadır. Bunların haricinde silisyum (Si), alüminyum (Al), kalay (Sn) ve arsenik (As) de az miktarda bulunabilir. Kurşun (Pb) ve kadmiyum (Cd) da yiyecek kapları ve kirli hava ile vücuda girebilir.
+</TD>
+</TR>
+<TR>
+<TD ALIGN="center" COLSPAN="2">
+</TABLE>
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hiponatremi</DOCTITLE>
+<TEXT>
+
+Hiponatremi bir elektrolit dengesizliği (kandaki tuz dengesizliği) olup, Sodyum'un (Latince'de Natrium) plazmadaki konsantrasyonunun 135 mEq/L'den daha az olmasıdır. Yetişkinlerde meydana gelen hiponatreminin ana sebebi, böbreklerden su emilimini sağlayan hormon olarak da bilinen Antidiüretik Hormon (ADH)'ın fazla olması veya etkisinin sonucudur.
+Hiponatremi, sıvı fazlaığı veya sodyum azlığı (örneğin kusma ve diyare sebebiyle),veya su alımının atılımından daha fazla oranda olmasıdır. (polidipsi gibi). Hiponatremi sebebi olarak sodyum kaybına ilişkin,gerek olmayan durumlarda bile hiponatremiye doğru ilerleyen kayıpları da kaydetmek önemlidir. Bu hususta,sodyum kaybı sonucunda hiponatremi meydana gelmesi, kaybın bir sonucu olarak, yetersiz sodyum alımı anlamına gelmez. Daha doğrusu, sodyum kaybı hipovolemi ye sebep olur. ADH geri emilim uyarısının sonucu, kan sulanmış ve hiponatremi gözlenmiş olur.
+Ayrıca birde Psödohiponatremi görülebilir. Ayrıca başka materiyaller serum ve çözünmüş sodyum miktarını yükselebilir (örneğin hiperglisemi) 
+Hiponatremi teşhisi çoğunlula klinik muayene, kan ve idrar testi sonuçlarına bağlıdır. Tedavi sebebe göre (örneğin Addison Hastalığı'nda kortikosteroid tedavisi), veya su alımının kıstılanmasıyla, diüretik kullanımıyla yapılır. Sıvı elektrolit dengesinin düzenlenmesi, kontrollü olarak yapılmalıdır. Aksi taktirde kalp yetmezliği, irreservibl beyin lezyonları gelişebilir.
+Semptomlar.
+Hastalar düşük oranda kronik su zehirlenmesi ile asemptomatiktir, fakat belli başlı semptomlarda vardır.
+Çeşitli akut veya kronik hiponatremii plazmadan beyin hücrelerine doğru osmotik basıncın azalmasına sebep olur. Genel semptomlar, mide bulantısı, kusma, baş ağrısı ve huzursuzluktur. Hiponatremi refleksleri azaltır. Çarpıntı, stupor veya koma meydana getirebilir. Bulantıdan bu yana ADH salınımı için uyarı, suyun fazla tutulması pozitif geri beslemeyi yaratır ve hiponatremi belirtileri görülmeye başlar.
+Geribesleme göngüsü bazı hiponatremisi olan bireylerin semptomlarıda görüldüğü gibi çeşitli nedenlerle su alınmaması yüzünden de olabilir. Eğer bu insanlar fazla miktarda sodyum yönünden az su tüketirlerse, hiponatremik durum kötüleşir.
+Sebepleri.
+Anormal plazma sodyum seviyesi en iyi bir insanın plazma ozmolaritesiyle ve ekstrasellüler sıvı değeriyle birlikte gözlemlenir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Albümin</DOCTITLE>
+<TEXT>
+
+Kısaca albümin diye de bilinen serum albümini, insan ve diğer memeli hayvanların kan plazmasında bulunan en yaygın proteindir. Kanda bulunan proteinlerin %60'ını oluşturur. Ayrıca, doku sıvılarında, özellikle kas ve deride, az miktarda göz yaşı, ter, mide suları ve safrada da bulunur. Vücuttaki toplam albüminin %30-40'ı kandadır. Yağ asitleri ve çeşitli başka maddeleri kanda taşımasının yanı sıra en önemli işlevi, kan ile doku sıvıları arasında suyun dengelenmesini sağlamaktır.
+Keşfinin tarihçesi.
+Albümin, Latince "albus" (beyaz) sözcüğünden gelen, gene Latince, "albumen" (yumurta beyazı) sözcüğünden türemiştir. Proteinlerin ilk tanımlandığı dönemlerde, suda çözünür ve sıcakta pıhtılaşan proteinler sınıfına bu ad verilmiştir. Serumda bulunan en yaygın protein de bu özellikleri taşıdığından ona "serum albümini" adı verilmiştir. Gene bu özellikte olan yumurtadaki ovalbümin, sütteki laktalbümin gibi proteinler de benzer şekilde adlandırılmışlardır, ancak bunların serum albümini ile başka bir ortaklıkları yoktur.
+Albüminin ilk tanımlayıcı özelliği, ısıtıldığı zaman pıhtılaşması olmuştur. Fransız doktoru Antoine Fourcroy, 1800'de kimyasal testler yaparak hayvan dokularının üç ana bileşiğinin albümin, fibrin ve jelatin olduğunu yayımladı. 19. yüzyılın başlarında vücut sıvıları ve albümin üzerine araştırma yapan çeşitli araştırmacılar arasında İngiliz doktoru John Bostock, Fransız Louis-Jacques Thenard, İngiliz Alexander Marcet ve İsveçli J.J. Berzelius bulunur. Berzelius geliştirdiği hassas yöntemlerle serumdaki albümin miktarını ölçmüş (1812), "Protein" sözcüğünü ilk tanımlayan Gerit Jan Mülder ise 1839'da serum albüminin element birleşimini yayımlamıştır. 
+1765'te Domenico Cotugno idrarın normalde ısıtıldığında berrak kalmasına karşın, ödemli bir hastanın idrarını ısıttığında pıhtılaştığına dair gözlemini yayımlamıştır. Bunu izleyen yıllarda başka araştırmacılar da bu olguyu inclemiş, nihayet Richard Bright 1827'de idrar pıhtılaşması, ödem ve böbrek bozukluğunun (glomerülonefrit) birbirleriyle ilişkili olduğunu ilan etmiştir. Blight, idrar testini şöyle anlatır: ""albüminin varlığını anlamanın en kolay yolu, bir kaşığa ufak bir miktar idrar doldurup bunu bir mum ateşinde ısıtmaktır. Eğer albümin varsa, sıvı kaynama noktasına varmadan şeffaflığını kaybeder, bazen kaşığın ucunda sütümsü bir görünüm belirir, bu sonra kaşığın ortasına doğru genişleyip orada beyaz bir çökelek olarak kesilir."" 
+Albümin'in amino asit dizini 1976'da çözülmüş, 1992'de üç boyutlu yapısının kalp şeklinde olduğu bulunmuştur.
+İşlevleri.
+Büyük proteinler kılcal damarlardan geçemedikleri için kandaki sıvıların sızma eğilimini dengelerler. Bu yüzden albümin, kılcal damarlardan dokulara su ve suda çözünür maddelerin geçmesine neden olan kolloid osmotik basınç, veya onkotik basıncı düzenleyen başlıca proteindir. Onkotik basıncın %70'i albümin tarafından karşılanır, bu yüzden albümin damarların içiyle dışındaki dokular arasındaki sıvının dengelenmesinde gereklidir. Kan protein seviyelerinin düşmesi halinde, örneğin idrara protein geçme (proteinüri) veya kötü beslenmeden dolayı, dokularda su birikmesi, yani ödem oluşur.
+Albüminin en ilginç özelliği taşıyabildiği maddelerin çeşitliliğidir (aşağıdaki şekillere bakınız). Albümin, suda çözünürlükleri düşük olan yağ asitlerinin kandaki başlıca taşıyıcısıdır. Bunun yanı sıra, oksijen serbest radikallerine bağlanarak bunları kontrol altına alır, ayrıca bilirubin (hem molekülünün yıkımı sırasında ortaya çıkar) gibi suda çözünmeyen bazı toksik metabolizma ürünlerine bağlanarak onları zararsız kılar. Albümin, bir kısmı yüksek konsantrasyonda zehirli olabilecek olan çeşitli metal iyonlarına da bağlanabilir. Pek çok fizyolojik süreçte yer alan nitrik oksitin (NO) kandaki başlıca taşıyısı da gene albümindir. Bu maddelere bağlanması sayesinde albümin hem bu maddelerin kandaki konsantrasyonlarını düşük ve zararsız düzeylerde tutar, hem de onların ihtiyaç duyuldukları yerlere ulaşmalarını sağlar.
+Albüminde uzun yağ asidi moleküllerinin (oleik, linoleik, linolenik, arasidonik, palmitik ve miristik asit gibi) bağlanabildiği, ikisi sıkı, dördü gevşek olmak üzere altı bağlanma yeri vardır (yukarıdaki şekle bakınız). Bu yağ asitleri albümin tarafından hücrelere taşınıp oralarda kullanılırlar.
+Yağ asitlerinin bağlandıkları yerlerden farklı olarak ayrıca küçük organik iyonların bağlanabildiği de iki yer vardır. Bunlardan biri küçük aromatik karboksilik asitleri tercih eder, öbürü negatif yük içeren çok halkalı bilesikleri tercih eder. Bu yerlerde tiroid hormonu ve diğer steroid hormonlar ve bilirubin taşınabilir. Tedavi amaçla vücuda alınan çoğu ilaç da bir ölçüde buralarda albümine bağlanırlar. Piridoksal (vitamin B6) da albümin tarafından taşınır. 
+Albümin, yukarida belirtilen bileşikler dışında çeşitli ağır metal iyonlarına da bağlanarak onların kandaki konsantrasyonunu kontrol eder. Albümin proteininde iki metal iyonu bağlanma yeri vardır ve bunlara çinko, bakır, kadmiyum, cıva, altın, gümüş ve nikel dahil olmak üzere çeşitli iyonlar bağlanabilir. Kalsiyum ve magnezyum da albümine bağlandığından albümin bu iki iyonun kandaki konsantrasyonlarına etki edebilir.
+Albüminin bir diğer özelliği de kan pH'sini kısmen tamponlayabilmesidir.
+Tıbbî kullanımı.
+Kan plazması hayat kurtarıcı bir tedavi aracı olmasına rağmen elde edilmesi zor ve çabuk bozulan bir üründür. Plazmanın yararlı özelliklerine sahip olan, ve ondan daha kullanışlı plazma bölümleri bulmak için yapılan araştırmaların sonucunda, 1940'lı yıllarda Edwin J. Cohn albüminin kan plazmasından saflaştırılma yöntemini icat etmiştir. Albümin belli durumlarda kan plazmasının yerini alabilen mükemmel bir madde olduğu görülmüştür. Başlıca kullanımı travma, ameliyat, kan kaybı ve yanık tedavisinde kan hacminin arttırılması veya sabit tutulması içindir. Hastada kötü beslenme, susuzluk, kronik enfeksiyon, karaciğer veya böbrek bozuklukları durumunda da kullanılır. Ayrıca aşıların bozulmasını engellemek için de albümin kullanılır. Cohn'un saflaştırma yönteminin keşfi ikinci Dünya Savaşına rastlamasından dolayı Amerikan devleti ilaç şirketlerinden bu yöntemi hızla ticarîleştirmelerini istemiştir. Günümüzde dünya çapında yılda 500 ton albümin üretilir.
+Klinik testler.
+Albüminin, suda çözünürlüğü düşük olan organik iyonlara bağlanma özelliğinden yararlanılarak geliştirilmiş bir laboratuvar testinde, onun Bromkresol mor ("Bromcresol purple", BCP) gibi bir boyaya bağlanmasına bakılır. Albümin, düşük pH'de bu boyaya bağlandığı zaman boyanın rengi çok daha belirginleşir. Kanda albümin eksikliği veya fazlalığı bulunduğunda bu durum serum protein elektroforez yöntemi ile ayrıntılı bir şekilde değerlendirilmelidir.
+İdrarda albüminin varlığı için çeşitli testler vardır. Bunlarda ya albümine özgül monoklonal antikorlar veya Yüksek Basınçlı Sıvı Kromatografisi kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İzotonik çözelti</DOCTITLE>
+<TEXT>
+
+İzotonik çözeltiler, osmotik basıncı eşit olan çözeltilerdir.
+İzotoniğin kelime anlamı eşyoğundur. Farklı iki ortamda çözünmüş madde miktarının ya da derişimin aynı olduğu durumlarda, bir ortam diğerine göre izotoniktir denir. Bu tür çözeltiler ameliyatlarda kullanılır. Çünkü bir hayvansal hücre, izotonik bir çözelti içine konduğunda plazmoliz veya deplazmolize uğramaz. Özellikle hücrenin (ya da organın) su dengesi bozulmamış olur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Serum fizyolojik</DOCTITLE>
+<TEXT>
+
+Serum fizyolojik (SF), tıp biliminde kullanılan bir serum türüdür. 
+Halk dilinde tuzlu su olarak bilinen serum fizyolojik, %0.9 NaCl izotonik olarak açıklanan eriyiktir. Osmotik olarak eşit olduğu için "fizyolojik" adını taşır. Pediatri grubunda burun damlası şeklinde kullanılmasında bir miktar antimikrobiyal etkisi olduğundan tercih nedenidir.
+Kullanım alanları.
+Bebeklerin burun temizliği, diyabet koması, meme protezi, kan ve plazma hacminin ani düşmesiyle ortaya çıkan şok durum gibi yerlerde kullanılan serum fizyolojik, soğuk algınlığı, nezle, gözyaşı olmaması mukoza kurumaları gibi benzeri hastalıklardada kullanılır.Ayrıca diş hekimliğinde vital pulpa tedavilerinde pulpa yarasının temizlenmesi için kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kolloid</DOCTITLE>
+<TEXT>
+
+Kolloid, bir homojen görünümlü heterojen karışımdır. 1861'de İskoçyalı bilimci Thomas Graham, değişik maddelerin parşömen zarından geçişlerini incelemiş ve bunlardan bazılarının hızlı, bazılarının yavaş hareket ettiklerini gözlemlemiştir. Örneğin albümin, jelatin, arap zamkı gibi maddeler yavaş hareket ederken, şeker, potasyum hidroksit, sodyum klorür gibi maddelerin zardan çok hızlı geçtiklerini tespit etmiştir. Buna göre Graham, çözünmüş maddeleri zardan geçişlerine göre kristaloidler ve kolloidler olarak ikiye ayırmıştır. Kolloidler, büyük moleküllü oldukları için zardan geçememiştir. Sonunda nişasta, jelatin gibi maddeler zamk ile aynı özellikleri gösterdiği için Yunanca'da zamk anlamına gelen kola kelimesinden türeyen kolloid sözcüğü ile adlandırılmıştır. Ancak bilimsel gelişmeler sonucunda Graham'ın kolloid olarak nitelendirdiği protein gibi maddeleri kristallendirmek ve kristaloid olarak nitelendirdiği kükürdün kolloidal çözeltisini hazırlamak mümkün olmuştur ve bu nedenle Graham'ın bu sınıflandırması önemini yitirmiştir.
+Yeni tanıma göre; bir maddenin kendisi için çözücü olmayan bir ortamda 10-5-10-7 cm boyutlarında dağılmasıyla oluşan çözeltiye kolloidal çözelti denir. Örneğin kükürdün, kilin, sabunun suda dağılmasıyla kolloidal çözelti oluşur. Yine, süt, kan serumu ve zamkın sudaki çözeltileri ve çeşitli polimer maddelerin kendilerine uygun çözücülerdeki çözeltileri kolloidal çözeltilerdir.
+Yapısı.
+Kolloidal çözeltiler, dağılma fazı ve dağılan faz olmak üzere iki fazdan oluşur. Dağılma fazı homojen bir ortamdır. Bu ortam katı, sıvı veya gaz halde olabilir. Dağılan fazı oluşturan tanecikler ise çok sayıda atom veya atom gruplarından oluşmuş olup bu tanecikler ışık mikroskobunda görülmez, ancak elektron mikroskobunda görülebilir. Kolloidal çözeltileri diğer çözeltilerden ayıran başlıca özellik bu taneciklerin büyüklüğüdür. Taneciklerin büyüklüğü 10-5 cm'den büyük ise çözelti, süspansiyon adını alır. Taneciklerin büyüklüğü 10-7 cm'den küçük ise çözelti, gerçek çözeltidir.
+Kolloidal sistemler dağılma ve dağılan fazın katı, sıvı ve gaz halde olmasına göre 8 tipte incelenebilir:
+Kolloidal sistem katılaştığında jel adını alır.
+Optik özellikleri.
+1857'de Faraday, altının kolloidal çözeltisini hazırlamayı başarmış ve bu çözeltinin optik özelliklerini incelemiştir. Bir altın solü kuvvetli bir ışık ile aydınlatıldığında sole yandan bakılırsa beyaz bir yol halinde bir ışık demei görülür. Faraday, bu olayı, altın tanecikleri üzerinde ışığın saçılması olarak açıklamıştır. Aynı olayı inceleyen Tyndall 1860'ta saçılan ışığın polarize olduğunu bulmuştur. Daha sonra ultra mikroskobun bulunmasıyla taneciklerin boyutunu saptamak mümkün olmuştur. Kolloidal taneciklerin boyutunu saptamak için mikroskop yönteminden başka ultra santrifüj, osmotik basınç, türbidite, viskozite gibi yöntemlerden de yararlanılır. Bütün bu uygulamaların sonunda kolloidal taneciklerin atom ve moleküllerden büyük tanecikler olduğu anlaşılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Svante Arrhenius</DOCTITLE>
+<TEXT>
+
+Svante August Arrhenius, (d. 19 Şubat 1859, Uppsala - ö. 2 Ekim 1927, Stokholm), İsveçli kimyacı ve fiziksel kimya biliminin kurucularından. 
+Hayatı.
+1859 yılında İsveç'in Upsala kentinde çiftçi ailesinde doğmuştur. Çocuk yaşlarından matematiğe ilgi göstermiş, daha sonra okulda biyoloji ve kimya dalları için de yeteneğini sergiledi. 1876 yılında Upsala Üniverstesi′sine dahil olmuş, iki yıldan sonra orayı doğal bilimler lisans diploması ile mezun oldu. 1881 yılından itibaren Stokholm′deki İsveç Kraliyet Bilimler Akademisi'nde, Erik Edlund′un rehberliği ile elektriğin özelliklerini öğrenmek için araştırmalar yapmıştır
+Faaliyeti.
+Bu dönemlerde elektriğin özellikleri tamamen açık değildi. Alimlere kuru tuzların ve suyun temiz halde değil, sadece karışımlar şeklinde elektrik geçirdiği biliniyordu. Arrenius çeşitli sıvıların elektrik iletkenliklerini yoklamak kararına gelmiştir. Onun kanaatine göre, bazı maddelerin molekülleri sıvıda çözülmüş olurken iki veya daha çok parçacıklara parçalanır. Bu parçacıkları Arrenius iyon adlandırmıştır. Her bir molekül neytal yüklense de, onun parçacıkları pozitif veya negatif yüklü olur. Örneğin, suda çözülmüş olmuş çorba tuzunun molekülleri pozitif yüklü sodyum ve negatif yüklü klor bölümlerine parçalanır. Bu yüklü atomlar yalnızca sıvıda çözülmüş olan zaman elektrik iletkenliğini sağlarlar. Elektrik enerjisini kendi sırasında ters yüklenmiş parçacıkları harekete geçiriyor.
+Arrhenius'un açıklamasına göre tuzlar, çözelti oluşturduklarında, yüklü parçacıklara parçalanıyorlardı. Yıllar önce Faraday bunlara iyon adını vermişti. Faraday, iyonların elektroliz prosesi sonucu ortaya çıkacaklarını düşünmesine rağmen, Arrhenius, elektrik akımı olmadan da tuz çözeltilerinin iyon içerebileceğini öneriyordu. Bu nedenle, çözeltilerdeki kimyasal reaksiyonların, iyonlar arasındaki reaksiyonlar olduğunu ileri sürüyordu. Bu teori, zayıf elektrolitler için bugün hala geçerlidir, fakat kuvvetli elektrolitlerin davranışlarını da bu teori kapsamına almak için Peter J. W. Debye ve Erich Hückel'in teoride bazı değişiklikler yapması gerekmiştir.
+Bu araştırmaların sonucunda Arrenius 1884 yılında doktora tezi savunmuştur. Fakat bir takım bilim insanları onun araştırmalarına şüphe ettiklerinden Arreniusa düşük dereceli doktor adı verilmiştir. Bu sertifika ile onun üniversitede ders demek yetkisi yoktu. Fakat Arrenius bundan sarsılmadan araştırmalarını çap ettirerek, Avrupa′nın bir takım ünlü alimlerine göndermiştir. Ünlü Almanyalı kimyacı Wilhelm Ostwald onun araştırmaları ile ilgilenerek, Upsalaya gelmiş ve Arreniusi Riga Politeknik Enstitüsü'ne davet etmiştir.
+Alim sonraları İsveç Kraliyet Bilimler Akademisi'nden stipendiya alarak, Avrupa'ya bilimsel seyahate yollanmağı üstün tutmuştur. O, Riga, Vürtbursq′da, Qras′da ve Amsterdam'da olmuş, burada yaşanan bilimsel başarılarla tanışarak, çalışmalarda yer almıştır. Bu dönemi onun bilimsel yaratıcılığının zirvesi olarak düşünülebilir. Öyle ki, Arrenius 1887 yılında daha sonra kendi adıyla elektrolit dissosaiya (elektrolitlerin sıvıda çözülmüş olan veya erime halinde iyonlara parçalanması) teorisini hazırlamış, elektrolitlerin sıvı halde Vant-Hoff ve Raul kanunları ile olan uyğunsuzluqlarını anlatmış, ayrıca tuzların hidrolizi teorisini işlemiştir .
+Ayrıca birkaç önemli keşfetmiştir. Bunların arasında tepkilerin hızının sıcaklıktan bağımlılığının bulunmasının özel bir yer tutmaktadır.
+Arrenius 1891 cilde Stokholm'e dönerek, üniversitede fizik üzere leksiya demeye başlamış, dört yıldan sonra profesör, iki yıl sonra ise rektör belirlenmiştir. Bütün bu dönem boyunca, o araştırmaların ara vermeyerek, kendi adı ile adlanmıştır elektrolit dissosasiya teorisini işlemiştir. Alim ayrıca, osmotik basınç (içten dışa olan baskı) hakkında da araştırmalar yapmıştır. Bu konuda tanınmış kimyacı Jacobus Henricus van 't Hoff′un teorisine dayanan Arrenius bu teoriyi derinleştirmiştir.
+Şöhret kazanması.
+Arreniusun araştırmaları kendi döneminin bir takım tanınmış bilim insanları, aynı zamanda ünlü kimyacı Dimitri Mendeleyev tarafından eleştirilmiştir. Ona göre, çözüm olunana ve evet çözen maddeler arasındaki kimyasal meseleleri dikkate almadan sırf fiziksel kurallar temelinde teori çalışmak olmazdı. Arreniusun ve Mendeleyevin fikirleri sonradan asitlerin proton teorisinde birleştirilmişti.
+Noble Ödülü.
+1903 yılında Svante Arrenius "hazırladığı elektrolit dissosasiya teorisinin kimya bilimine önemli hizmet gösterdiğine göre" kimya Nobel ödülüne layık görülmüştü. İsveç Bilimler Akademisi adına konuşan akademik Terneblad onun araştırmalarının elektrokimyanın temelini koyduğunu belirtmiş, ayrıca Arreniusa ilk Nobel kimya laueratı Vant-Hoff′un teorisini bitirdiyine göre teşekkür etmiştir.
+Svante Arrenius fiziğin birçok alanında araştırmalar yapmış, güneş radyasyonunun atmosfere etkisini, biosfer′deki ısı değişikliklerinin nedenini, volkan aktifleşmelerini öğrenmiş, ayrıca immmun kimyası bilimi ile ilgili araştırmalar yapmıştır.
+O, 1925 yılında Stokholm Üniversitesi'nden gitmiş ve Fizik-Kimya Nobel Enstitüsü Direktör edinmişti. Arrenius burada ömrünün sonuna kadar çalışmıştır.
+Alim bir takım ödüllerle, Amerikan Kimya Derneği'nin Hibbs, Londra Kraliyet Cemiyeti'nin Devi, Britanya Kimya Cemiyeti'nin Faraday madalyaları ile taltif edilmiş, bir takım bilimsel toplum ve üniversitelerin onursal üyesi seçilmiştir.
+Ölümü.
+1927 yılında Stokholm′de öldü
+
+</TEXT>
+</DOC>
+

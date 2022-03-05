@@ -1,0 +1,189 @@
+Question: Genotipi bilinmeyen baskın fenotipli birey arasında yapılan çaprazlama olayına ne denir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2.1.1 Mendel’İn Çalişmalari Ve İlkeleri  (EBA)</DOCTITLE>
+<TEXT>
+
+Gregor Mendel, rahiplik yaptığı manastırın bahçesinde bezelyeler ile yaptığı çalışmalarını 12 yıl kadar sürdürmüştür. 
+Mendel’in bezelyeleri seçme nedenlerinden birincisi, çok çeşit içermesiydi. Örneğin bezelyelerin bir çeşidi; buruşuk tohumluyken başka bir çeşidi yuvarlak tohumludur; ve bir çeşidi mor renkli çiçeklere sahipken diğer çeşidi beyaz çiçeklere sahiptir. 
+Bireyler arasında çeşitlilik gösteren kalıtılabilir özelliklere karakter; karakterin her bir farklı tipine özellik adı verilir. Örneğin çiçek rengi bir karakterdir; ancak çiçeğin beyaz, kırmızı ya da mor renkte olması bir özelliktir. Mendel, bezelyelerle çalışırken seçtiği her bir karakterin iki zıt özelliğini incelemiştir. 
+Mendel’in bezelyelerle çalışılmasındaki başka bir neden ise bezelyelerin kısa zamanda çok fazla sayıda tohum üretebilmesiydi. Dolayısıyla çok sayıda yavru elde edilebiliyordu. Böylece baskın ve çekinik fenotipe sahip bireylerin sayısal oranları daha doğru bulunabiliyordu. 
+Bezelyelerin çiçekleri kendi kendini dölleyebilme özelliğine sahip olması çaprazlamaların yapılmasında bazı kolaylıklar sağlamıştır. Mendel çalışırken, istediği özelliklerden birine sahip bir çiçeğin erkek organlarını kesmiş ve kendi kendisini döllemesini engellemiştir (Resim 2.5). Çaprazlamayı düşündüğü başka bir bireyden aldığı polenlerle bunun yumurtasının döllenmesini sağlayarak sadece istenilen özellikleri çaprazlamış olmaktadır. Mendel bezelyelerde yedi farklı karakter üzerinde çalışmış, bu karakterlerin birbirine zıt iki özelliğini (Resim 2.6) göz önüne alarak çaprazlama yapmıştır. 
+Birbirine zıt özelliğe sahip iki arı döl (Parental=P) çaprazlandığında, ortaya çıkan birinci kuşak (F1) dölünün bireylerinin hepsinin ebeveynlerden birine benzediğini görmüştür. Ancak elde edilen F1 dölü, kendi arasında çaprazlandığında elde edilen ikinci kuşak (F2) dölünün bireyleri içinde diğer ataya benzeyen bireylerin de ortaya çıktığını görmüştür (Resim 2.7). 
+Mendel, F2 dölünde ortaya çıkan diğer ataya ait özelliğe çekinik (resesif), F1 dölünde ortaya çıkan özelliğe baskın (dominant) özellik adını vermiştir. 
+Bir karaktere ait baskın ve çekinik özelliklerin kalıtımından sorumlu faktör, iki harf ile sembolize edilir. 
+Mendel’in faktör olarak ifade ettiği, kalıtsal bilgiyi taşıyan birimlere günümüzde gen adı verilmektedir. 
+Genlerin farklı şekillerine alel denir ve bunlar, özelliklerin kalıtımından sorumludur. 
+Örneğin bezelye bitkisinin çiçek rengi karakterinden sorumlu olan gen, iki alele sahiptir. Bu alellerden birisi, mor çiçek oluşumundan; diğeri ise beyaz çiçek oluşumundan sorumludur. Genellikle bu alellerden birisi baskın, diğeri çekiniktir. 
+Baskın alel, diğer alelin olup olmamasına bağlı olmaksızın etkisini gösterirken, çekinik alel, baskın alel bulunmadığında etkisini gösterebilir (Resim 2.8). Baskın alel büyük harfle (B), çekinik alel küçük harfle (b) gösterilir. Eğer özelliği kontrol eden bir çift alelin her ikisi de aynı alel ise, birey homozigot (BB, bb); biri diğerinden farklıysa (Bb şeklinde), birey heterozigot (melez=hibrit) olarak tanımlanır. 
+Özelliğin ortaya çıkmasından sorumlu aleller, o özellik bakımından organizmanın genotipini belirler. 
+Bir organizmanın kalıtsal özelliğinin dışarıdan görülen ya da ortaya çıkarılabilen şekline fenotip adı verilir. 
+Bezelyede çiçek rengi bakımından bb genotipine sahip bir bitkinin beyaz çiçekli olması onun fenotipidir. 
+Kendileri çaprazlandığında birçok kuşak boyunca hep aynı fenotipe sahip yavrular üreten organizmalara arı döl adı verilir. Arı döllerin genotipi, ilgili özellik bakımından homozigottur. İki farklı arı dölün çaprazlanmasıyla elde edilen döllere heterozigot (hibrit=melez) adı verilir. Bu çaprazlama olayına ise hibritleşme (melezleme) denir. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gen</DOCTITLE>
+<TEXT>
+
+Gen, bir kalıtım birimi. Bir kromozomun belirli bir kısmını oluşturan nükleotid dizisidir. Popüler ve gayrıresmi kullanımda gen sözcüğü, "ebeveynden çocuklarına geçen belirli bir karakteristiği taşıyan biyolojik birim" anlamında kullanılır. Kromozomun kesitleri olan genler birbirinden çok farklı işlevlerde ve büyüklüklerde (uzunluklarda) olabilirler. Genlerin büyüklükleri ve işlevleri her zaman doğru orantılı değildir.
+Gen, genom dizisinde yeri tanımlanabilen, transkripsiyonu yapılan, düzenleyici ve/veya fonksiyonel bölgeleri olan bir bölgedir. Gen regülasyonu ve transkripsiyonunun karmaşıklıklarını içeren, yeni ve öz bir tanıma göre gen, "aynı sınıftan (protein veya RNA) işlevsel ürünler şifreleyen, potansiyel olarak birbiriyle örtüşen, genom dizilerinin birleşimidir".
+Gen, kalıtımın temel fiziksel ve işlevsel birimidir. Her gen, protein veya RNA molekülü gibi özel bir işlev taşıyan kromozomların belli bir noktasındaki nükleotid dizilerinden oluşur.
+Klasik genetikte, aynı biyolojik işlevleri yöneltip yöneltmemelerine ve karşılıklı rekombinasyon yapıp yapmamalarına göre alel ve alel olmayan genler vardır. Alel genler, aynı özellik üzerinde etkili olan genlerdir.
+Klasik genetikte gen bir alt birim olarak kullanılır. Mutasyon ve kombinasyonların genlerde oluştuğu kabul edilir.
+Kalıtım olayı, doğrudan kromozomların mitoz ve mayoz bölünmeler ve döllenme deki davranışlarına bağlıdır. Her bir kromozomda sayısız kalıtım birimleri, genler bulunur.
+Bir karakter kalıtımı ancak birbirlerine zıt iki durum olduğu zaman incelenebilir. Mendel'in çalışmalarında bezelyelerde ele aldığı şekil morfolojisinde düzgün ve buruşuk tohum özellikleri gibidir. Canlı birey böyle zıt durumlardan sadece birini gösterebilir. Bu nedenle "alel genler"den söz edilir. Homolog kromozomların aynı lokusunda yer alan, iki veya bazen daha fazla sayıda alternatif karakterlerin genlerine "alel genler" denir. Düzgün ve buruşuk tohum morfolojislerini belirleyen genler gibi.
+Genlerin simgelerle gösterilmesi.
+Genler, fenotipte baskın olarak gösterdikleri özelliklerinin isimlerinin genellikle kelimenin baş harfi ile simgelenir. Örneğin, farelerde siyah renk baskın olduğu için farelerdeki kalıtımda siyah renk "S" harfi ile, kahverengi çekinik olduğu için "s" harfi ile simgelenir. Baskın olan genler genelde yabanıl genlerdir. Çekinik genler ise, baskın genin mutantı olarak kabul edilir. Diploid canlılarda bir özellik üzerinde etkili olan, yani alel olan iki gen olduğundan her zaman genotip iki harfle yazılır. Örneğin saf siyah SS, saf kahverengi ss, melez Ss olarak gösterilir. Son zamanlarda homozigot çekinik fenotip özelliğin küçük baş harfi, mutasyona uğramış geni göstermek için kullanılmaktadır. Bununla beraber, "s+", "+s" ya da "+" gibi simgeler de baskın geni göstermek için kullanılır.
+Bir çaprazlamada bireylerin eşeylerini dikkate almak gerekiyorsa, önce dişinin genotipi, arkasına dişi işareti (♀), daha sonra çaprazlamanın simgesi olan "X" işareti ve onun sağ yanına erkeğin genotipi ve sonra işareti yazılır. Örneğin, SS (s+s+)♀ X ss (ss). Erkek ve dişi işartei olmadığı zaman sağdaki simge dişiye, soldaki simge erkeğe ait kabul edilir. Geri çaprazlama yapılırken, ataların eşeyleri gen çifti açısından yer değiştirir. Örneğin SS ♀ X ss yerine, ss ♀ X SS gibi.
+Gametlerde alel çiftler birbirinden ayrıldığı için ve haploid organizmalarda genler tek bir harfle gösterilir. Örneğin; S ve s gibi.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alel</DOCTITLE>
+<TEXT>
+
+Alel veya alelmorf, belirli bir özelliği belirleyen bir genin değişik (alternatif) hallerinden her biri. Gen ve alel sözcüklerinin her ikisi de, belirli bir özelliğin kalıtsal faktörünü ifade eder. Alel sözcüğü, özellikle bir kromozomun bir lokusundaki iki ya da daha fazla seçenekli gen çeşidini anlatmak için kullanılır. Örneğin bir bezelyenin yuvarlak veya kırışık taneli olmasını belirleyen gen, yuvarlaklık aleli ve kırışıklık alelinden meydana gelir.
+Kromozomlarda bulunan genler, "alel" denilen genlerden oluşmuş çiftler halinde bulunurlar. Her homolog kromozomda her karakter için genin işgal ettiği belli bir yer vardır. Buna lokus denir. Homolog (eş) kromozomların aynı lokuslarında yer alan, iki veya bazen daha çok sayıda alternatif karakterin genleri "alel gen"ler olarak bulunurlar. 
+Genlerde aynı karakteristik özelliği kodlayan fakat farklı kodlar taşıdığı için farklı özelliklerin ortaya çıkmasını sağlayan genlerden her biri "alel"dir. 
+Örneğin göz rengini belirleyen genin ela rengi ortaya çıkaran versiyonu ile kahverengi rengi ortaya çıkaran versiyonundan her biri "alel"dir. A kan grubu aleli ve B kan grubu alelini taşıyan bir birey "AB" kan grubuna sahip olur.
+Eğer atalardan biri zıt özelliklerin birine, diğeri öbürüne sahipse, buna "Alelmorfik özellikler" denir.
+Göz rengi örneğinde olduğu gibi, ela ve kahverengi renk, gözdeki alelmorfik bir renk özelliğidir. Her hücrede göz rengini denetleyen bir çift gen bulunur. 
+Gen çiftlerini benzer aleler şeklinde taşıyan bireylerde "homozigot genotip", gen çiftlerini farklı aleler şeklinde taşıyan bireylerde ise, "heterozigot genotip" bulunur. Buna göre, "AA" ve "aa" genotipi sırayla, homozigot baskın ve homozigot çekinik; "Aa" genotipi ise heterozigottur. Herhangi bir özelliği oluşturan bir çift alelin bir üyesi söz konusu olduğu zaman, yalnızca homozigot genotipte fenotipik olarak kendini gösterilebilen alellere ""çekinik (resesif) alel"" denir. Diğer yandan heterozigot genotipte kendini gösteren alellere de ""baskın (dominant) alel"" adı verilir. Baskın ve çekinik alelleri göstermek için genellikle büyük ve küçük harfler kullanılır. İki benzer aleli taşıyanlar (AA veya gg), ""homozigot""; farklı aleli taşıyanlar, (Aa) ""heterozigot"" olarak isimlendirilir. 
+Örneğin;
+"AA" homozigot baskın, "aa" homozigot çekinik ve "Aa" heterozigotdur.
+Bütün genlerin tek tek toplamı ve bütün kromozom seti o canlının "genomu" şeklinde tarif edilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekivalentlik</DOCTITLE>
+<TEXT>
+
+Ekivalentlik, genetik olarak aynı karaktere etki eden fakat birbirinden farklı özellik taşıyan iki genin canlının genotipinde birbirine dominantlık gösteremeyip ebeveynlerinden farklı yeni bir genotip oluşturmasıdır. Ekivalentlik aynı zamanda eş baskınlık ya da eksik baskınlık olarak da bilinir.
+Birbirlerine eş baskın iki gen bir gamet oluşturduklarında gametlerin genotipleri ile fenotipleri birbirinin aynıdır. Bunun sebebi eş baskın iki genin oluşturacağı yeni karakterin ebeveynlerinden farklı olmasıdır. Bu durumda ekivalentlik görülen bir canlının genotipi ile fenotipi birbirinin aynı olmak durumundadır.
+İnsanda Ekivalentlik.
+İnsanlarda eş baskınlığa örnek olarak A ve B kan grupları verilebilir. Bu kan gruplarının genleri birbirlerine dominantlık sağlayamadıklarından eş baskın genlerdir. Örneğin ebeveynlerinin kan grubu A ve B olduğu halde kendi kan grubu AB olan bir birey, ebeveynlerinin birinden A kan grubu genini almışken, diğerinden B kan grubu genini almıştır. Bu durum kan grubu genlerinin ekivalent özelliğinin bir sonucudur.
+Bitkide Ekivalentlik.
+Akşamsefası isimli çiçeğin üç rengi vardır. Kırmızı ve beyaz çiçeğin tozlaşması sonucu pembe çiçek meydana gelir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kontrol Çaprazlaması  (EBA)</DOCTITLE>
+<TEXT>
+
+Bezelye bitkisinde, mor çiçek renginden sorumlu alelin baskın (A); beyaz çiçek renginden sorumlu alelin çekinik (a) olduğu bilindiğinden beyaz çiçekli bitkilerin genotipinin aa olduğunu kolaylıkla söyleyebiliriz. Ancak mor çiçekli bitkilerin genotipi homozigot (AA) ya da heterozigot (Aa) şeklinde olabilir. Bu fenotipe sahip bireylerin genotipinin homozigot mu (AA) yoksa heterozigot mu (Aa) olduğunu belirlemek için mor çiçekli bir bitki ile çekinik fenotipe sahip olan beyaz çiçekli (aa) bir bitki çaprazlanır. Elde edilen yavruların fenotipine göre, mor çiçekli ebeveyn bitkinin genotipini belirlemek mümkündür. Bu tür çaprazlamalarda aşağıdaki iki sonuç elde edilir: 
+1) Eğer atasal bitki baskın homozigot ise AA x aa çaprazlaması yapılmıştır. Elde edilen yavruların tümü Aa genotipinde olacak ve mor çiçekli olacaktır. 
+2) Eğer atasal bitki heterozigot ise bu durumda Aa x aa çaprazlaması yapılmıştır. Elde edilen yavruların yarısı mor çiçekli yarısı beyaz çiçekli olacaktır. Bu çaprazlamada, beyaz çiçekli bitkilerin meydana gelmiş olması, beyaz çiçekli bitkilerdeki çekinik alelin bir tanesinin mor çiçekli bitkiden geldiğini ve mor çiçekli atasal bitkinin heterozigot genotipe (Aa) sahip olduğunu gösterir. 
+Genotipi bilinmeyen bir organizmanın genotipini belirlemek amacıyla, çekinik homozigot bir bireyle çaprazlanmasına kontrol çaprazlaması ya da test çaprazlaması adı verilir (Resim 2.16). 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Monohibrit Çaprazlama  (EBA)</DOCTITLE>
+<TEXT>
+
+Mendel, iki monohibrit ebeveyni kullanarak yaptığı monohibrit çaprazlamalardan elde ettiği F1 ve F2 döllerinin tümünü sayarak fenotiplerini belirlemiştir (Resim 2.13). 
+Bu sayısal verileri kullanarak, döllerde ortaya çıkan genotip ve fenotip oranlarını hesaplamıştır. 
+Mendel bu oranların ortaya çıkmasını, alellerin birbirinden ayrılıp farklı gametlere gitmesine bağlamıştır. 
+Çalışmaları sırasında Mendel: Bir karakter bakımından zıt fenotiplere sahip iki arı dölün çaprazlamasından elde edilen F1 döllerinin tamamın baskın olduğunu, F2 döllerinin ise yaklaşık 3/4’ünün baskın, 1/4’ünün ise çekinik fenotipe sahip olduğunu görmüştür. 
+Bu oranların sebebi, ebeveynlerde bu karakterden sorumlu iki alelin gamet oluşumu sırasında ayrılıp farklı gametlere gitmesi ve döllenme olayının gametler arasında eşit şansla gerçekleşmesidir. 
+Böylece, çekinik fenotip, F1 dölünde gözlenmeyip, F2 kuşağındaki yavru döller arasında 1/4 oranında ortaya çıkmaktadır. 
+Bu oranların bulunması daha sonra yapılan genetik çalışmalarda da faydalı olmuştır. Başka özelliklerin başka canlılarda monohibrit çaprazlaması aynı oranları verecektir.F2 döllerinde hangi genetik kombinasyonların ortaya çıkabileceğini görmenin kolay bir yolu, genetikçi R.C.Punnett (R.C. Punet) tarafından ortaya konmuş olan Punnett karesi yönteminin kullanılmasıdır. 
+Bu yöntemde monohibrit, dihibrit, trihibrit çaprazlamaların sonuçları kolaylıkla görülebilir. 
+Punnett karesinde yatay düzleme erkek bireyin oluşturduğu gametlerdeki aleller, dikey düzleme dişi bireyin oluşturabileceği gametlerdeki aleller yazılır. Gametlerin kesiştiği kutucuklarda, iki alel bir araya getirilerek yavrunun genotipi belirlenir. 
+Böylece çaprazlamada gametlerin oluşturabileceği tüm genotipler ortaya çıkarılır. Bu genotiplere göre de yavruların fenotipleri saptanır. Elde edilen genotip ve fenotiplere göre hem fenotiplerin hem de genotiplerin oranları belirlenir (Resim 2.14). 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hh antijen sistemi</DOCTITLE>
+<TEXT>
+
+hh antijen sistemi ya da Bombay fenotipi, genetikte, nadir olarak bulunan bir kan grubu sistemini tanımlamak için kullanılır.
+Bu kan grubun fenotipi ilk kez Hindistan'ın Mumbai'da olarak bilinen Bombay bölgesinde Dr. Y.M. Bhende tarafından bulunmuştur.
+Özellikleri.
+H antijeninin sentezlenmesini sağlayan gen lokusu, ABO kan sistemi genlerinin lokusundan farklı olarak bulunur. Çekinik olan h geni başat olan H allelinden çok daha az sıklıkta bulunur ve çok nadir olarak "hh" şeklinde homozigot olarak bulunabilir. Bu durumda H antijeni üretilmez ve kan grubu oluşmaz. H antijeninin olmadığı bu kan grubu Anti-A veAnti-B serumları ile test edildiğinde 0 grubu gibi gözükür. 
+A ve B antijenleri, H antijeni ya da maddesi denilen, ortak öncü bir molekülden oluşmaktadır. 0 grubu kanda, H antijeni herhangi bir değişklik geçirmez, bu yüzden de kan hücresi yüzeyinde bir antijen olarak görülmez ve fenotip 0 olarak görülür. H antijeninin (H maddesi) ifade edilememesi durumu, Bombay fenotipi (hh genotipi) olarak görülür. 
+Genetik yapılarında çekinik olarak bulunan "h" alellerinin bir araya gelmesiyle ortaya çıkan durumda, H antijen öncüsü sentezlenemez, bu yüzden de A ya da B grubu enzimleri bulunsa bile antijen üretimi de gerçekleşemez. Sonuç olarak kan grubu fenotipte "0" olarak görülür ancak bu kişinin genotipi AB'dir.
+Bu fenotipli kişiler, allelerinde A ve B kan grubu genlerini taşıdıkları halde, alyuvarlarında H antijeninden yapılan A ya da B antijenini sentezleyemezler. Alınan kan, hastanın kendi kanında asla bulunamayacak olan, immün bir reaksiyona sebep olan bir antijen içerir.
+Sonuçta, Bombay fenotipli insanlar AB0 kan grubu sisteminden herhangi birine (Rh faktörü birbirine uydukça) kan bağışlabilirler, fakat A, B ve H antijenlerinden herhangi birini herzaman içeren AB0 kan grubu sistemlerindeki hiç kimseden kan alamaz, sadece diğer Bombay fenotipli insanlardan kan alabilirler.
+İleri hastane testleri olmayan AB0 kan grupları genel testleri, Bobmay fenotipli insanların kan grubunu "0" olarak gösterir.
+Genetikte.
+Testlerde Bombay fenotipi "0" olarak görülen hastalar, H geninin iki çekinik allelini kalıtırlar (kan grupları (fenotipleri) "0", genotipleri "hh"dır) ve A ve B antijenlerinin öncüsü H karbonhidratı (maddesi) fukozu sentezleyemezler. 
+Bu yüzden, öncüsü H antijeni bulunmadığından A ya da B antijeninin sentezlenememesi, A ya da B enzimlerinin olup olmamasını düzeltemez. Bu tayine rağmen, 0 negatif diğer grupların bir alt grubu değildir. Bobmay fenotipi ilk kez bulunduğunda, A ve B antijenlerini içermemesi nedeniyle 0 grubuna ait olabileceği düşünülmüştür. Fakat deneyler, Bombay fenotipinin 0 kan grublu insanlardan güvenli kan alamaması nedeniyle H antijenlerinin eksikliği durumunu açıklamış, 0 grubuna ait olmadığını da göstermiştir.
+Bu fenotipin ortaya çıkması için ebeveynlerin her ikisinde de çekinik haldeki "h" alleli bulunmalıdır. Bu genleri taşıyan iki kişinin ve genlerinin biraraya gelmesi oldukça küçük bir olasılıktır, bu yüzden bu fenotip oldukça az görülür.
+Transfüzyon uygunluğu.
+Bombay fenotipli kan grubu sahipleri sadece diğer Bombay fenotipli kan grubu sahiplerinden kan alabilirler. Bu durum, oldukça ender olarak görülür, bu gruba ihtiyacı olan kişi kan bankalarında bu grubun stoğunu bulamaz. Bu gibi durumlar için, kana ihtiyaçları olabilir düşüncesiyle, kendi kanlarını kan bankalarına bağışlayıp orada saklamaları önerilir, ancak bu herhangi bir ani yaralanma durumunda herzaman geçerli olmayabilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fenotip</DOCTITLE>
+<TEXT>
+
+Fenotip ya da Dışyapı, genetik (genotip) ve çevresel etkenlerin yarattığı özelliklerin canlının dış görünüşündeki yansıması. Fenotip çoğunlukla genler tarafından belirlenir ancak bazı koşullarda diğer etkenler, fenotipin genotipe yüzde yüz uymasını engelleyebilir. Bu duruma "hipomorfizm" denir. 
+Fenotip, zaman içinde değişebilir. Birden çok genle kontrol edilen özelliklerin fenotipleri de karmaşıklık gösterir. Genlerin durumuna göre çeşitlilik gösteren fenotip sınıflarına "pleitropik" fenotipler denir.
+Örneğin kıvırcık saçlı anne ile düz saçlı baba çiftleşirse doğacak çocuklar 1.Kuşak olur.Kıvırcık saç,düz saça baskın olduğundan kıvırcık saçlı birey "AA" ve düz saçlı birey "aa" olur.Mendel'in de yaptığı gibi bireyler arasında çaprazlama yapılır.AA ve aa olan bireylerin harfleri çaprazlanır.
+A ile a,A ile a,a ile A ve a ile A genleri ortaya çıkar.Fakat baskın gen harfi(büyük harf) başa ya-zıldığından tüm bireyler %100 melez döl;fakat kıvırık saçlı doğar.Çünkü çekinik gen,baskın genin yanında özelliğini gösteremez.2.Kuşağın bireyleri ise şöyledir:
+Aa,Aa,Aa ve Aa 1.Kuşak üyeleriydi.Bir Aa diğer bir Aa ile çiftleşirse: Aa,Aa bireyleri çaprazlanır ve 2.Kuşak bireyleri AA,Aa,Aa ve aa olur.Yani 2.Kuşak bireylerinin %25'i arıdöl ve kıvırcık,%50'si melez ve kıvırcık,%25'iyse düz saçlı doğar.Yani fenotip olarak 2.kuşağın bireylerinin %75'i kıvırcık saçlı ve %25'i düz saçlı doğar. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cezmi Baskın</DOCTITLE>
+<TEXT>
+
+Cezmi Baskın (d. 11 Mart 1949, İstanbul), Türk oyuncu, yönetmen. 
+Oyunculuk.
+İlk yılları.
+Cezmi Baskın, tiyatroya Bakırköy Halk Evi'nde amatör olarak başladı. Daha sonra aynı tiyatroda stajyer oyuncu olarak çalıştı. İstanbul İktisadi ve Ticari İlimler Akademisi'nde tahsilini tamamlayan Cezmi Baskın, Ayla Algan ve Beklan Algan'ın eğitmenliğini üstlendiği LCC Language and Culture Center'da tiyatro eğitimi aldı. Bir süre Grup Oyuncuları'nda çalışan sanatçı, Ankara Sanat Tiyatrosu ve Devlet Tiyatroları'nda da çalıştı. Ankara Sanat Tiyatrosu'nda zorunlu şehir değiştirmeler ve askerlik süresi hariç uzun yıllar hizmet verdi. Bu tiyatronun genç oyuncular yetiştirme çabalarına eğitmen olarak katıldı. 
+AST yılları.
+İzmir Devlet Tiyatrosu'nda iki sezon oynadı fakat daha sonra tekrar Ankara Sanat Tiyatrosu'na geri döndü. TRT'de dramalarda oynadı, az da olsa dublaj çalışmaları yaptı. Sinema filmleri, TV dizileri ve tiyatroyu yan yana yürütmeye çalışan Baskın, Ankara Sanat Tiyatrosu ve Gökkuşağı Oyuncuları'nda çok sayıda oyun yönetti ve gençlik oyunları sahneledi.
+Yurt dışı çalışmaları.
+Yurt dışında gözlem ve inceleme gezileri yaptı. Oradaki Türk ve yabancılara eğitmen olarak deneyimlerini aktarmaya çalıştı. Yurt dışında Türklerin yaptığı oyunlarda oynadı. Avusturya'da Afro - Asiatische Institut'da workshop çalışmaları yapan Cezmi Baskın, kendi projelerini de Avrupa'nın çeşitli kentlerinde uyguladı ve oynadı. Robert Schneider'in "Pislik" isimli oyunu ile İsviçre, Avusturya ve Almanya'ya turne düzenledi.
+Günümüz.
+Bugüne kadar hiçbir reklam filminde rol almayan Cezmi Baskın, ÇASOD (Çağdaş Sinema Oyuncuları Derneği) ve FIA (Uluslararası Aktörler Federasyonu) üyesidir.
+Nazım Hikmet Kültür Merkezi'nin geleneksel Nazım Günleri'nde, Yılmaz Onay tarafından, okuma tiyatrosu olarak sahnelenen Nazım Hikmet oyunlarında, 2004 yılından bu yana gönüllü olarak rol almaktadır.
+Özel yaşamı.
+Kalabalıktan uzak, sakin ve özel ortam olarak değerlendirdiği Bozcaada'da evi olan Cezmi Baskın oyunculuktan arda kalan zamanlarda İstanbul'dan kaçıp, özenle uğraştığı üzüm bağlarıyla ilgilenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Maslow teorisi</DOCTITLE>
+<TEXT>
+
+Maslow teorisi veya ihtiyaçlar hiyerarşisi teorisi, ABD'li psikolog Abraham Maslow tarafından 1943 yılında yayınlanmış bir çalışmada ortaya atılmış ve sonrasında geliştirilmiş bir insan psikolojisi teorisidir.
+Maslow teorisi, insanların belirli kategorilerdeki ihtiyaçlarını karşılamalarıyla, kendi içlerinde bir hiyerarşi oluşturan daha 'üst ihtiyaçlar'ı tatmin etme arayışına girdiklerini ve bireyin kişilik gelişiminin, o an için baskın olan ihtiyaç kategorisinin niteliği tarafından belirlendiğini sözkonusu etmektedir. Maslow'un kişilik kategorileri kendi aralarında bir dizilim oluştururlar ve her ihtiyaç kategorisine bir kişilik gelişme düzeyi karşılık gelir. Birey, bir kategorideki ihtiyaçları tam olarak gideremeden bir üst düzeydeki ihtiyaç kategorisine, dolayısıyla kişilik gelişme düzeyine geçemez.
+Maslow, gereksinimleri şu şekilde kategorize etmektedir. 
+Maslow'a göre birey için o an baskın olan gereksinimler hangi kategoriye ait gereksinimler ise, diğer deyişle günlük etkinlikleri ağırlıklı olarak hangi gereksinimleri doyurmaya yöneliyorsa, kişilik gelişmişlik düzeyi de onun istencinden ya da seçiminden bağımsız olarak bu gereksinim kategorisine karşılık gelen düzeyde bulunacaktır.
+Belirli bir kategorideki gereksinimler tam olarak karşılanmadan kişi bir üst düzeydeki kategorinin gereksinimlerini algılamaz, böyle gereksinimleri yoktur. Örnek olarak günlük olarak karnını doyurabilen fakat güvenlik içinde bulunmayan, kendini sürekli olarak olası bir tehdit altında algılayan bir insanın, dünya görüşünü geliştirmek için kitap okumak gibi bir gereksinimi yoktur.
+Belirli bir gereksinim kategorisindeki gereksinimlerin karşılanması durumunda kişi, bir üst kategorideki gereksinimleri karşılamaya yönelecektir. Bu durum kişilik gelişme düzeyini de bir üst düzeye sürükleyecektir.
+Maslow'a göre psikologların yapması gereken,bireyin kendini gerçekleştirme(self-actualization 'kendini gerçekleştirme') aşamasına gelmesinin önündeki engelleri ortadan kaldırmasına yardım etmektir.
+
+</TEXT>
+</DOC>
+

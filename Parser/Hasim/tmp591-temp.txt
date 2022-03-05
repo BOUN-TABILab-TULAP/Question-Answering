@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Baskın baskı+Noun+A3sg+P2sg+Nom baskın+Noun+A3sg+Pnon+Nom Baskın+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+çekinik çekinik+Adj
+genler gen+Noun+A3pl+Pnon+Nom gen+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+genotipe genotip+Noun+A3sg+Pnon+Dat
+nasıl nasıl+Adverb nasıl+Adj
+etki etki+Verb+Pos+Imp+A2sg etki+Noun+A3sg+Pnon+Nom
+eder et+Verb+Pos+Aor+A3sg et+Verb+Pos^DB+Adj+AorPart eder+Noun+A3sg+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,48 @@
+Bessel düzeltmesi
+Istatistiklerinde, Friedrich Bessel adını Bessel düzeltme, "n" kullanımı - 1 yerine "n" örnek varyansı için formül ve "n" bir numunede gözlem sayısıdır standart sapma, örnek. Bu nüfus varyans tahmin önyargı düzeltir ve bazı (hepsi değil) nüfus standart sapma tahmininde yanlılık, ama çoğu ortalama bu tahminlerinde hata karesi artırır.
+Nüfus bilinmeyen demek bir örnekten nüfus varyans ve standart sapma tahmininde Yani, örnek varyansı onların ortalama-yani, bir çarpımsal faktör 1 kullanarak örnek değerlerinin kareleri alınmış sapmalarının "demek" olarak tahmin edilmektedir / "n" nüfus varyans yanlı tahmincisi oluşudur ve ortalama numune için hafife. (Eşdeğer, 1 / ("n" kullanılarak - 1) yerine estimator formülü 1 / "n") bu düzeltir - "n" / (1 "n") tarafından bu şekilde hesaplanan standart numune varyans çarpımı ve nüfus varyans tarafsız tahmincisi verir. Bazı terminoloji, faktör "n" / In ("n" - 1) kendisi Bessel düzeltmesi denir.
+Bir (nüfus demek, çünkü bilinmeyen, artıklar değil, hatalar) artıklar vektörü serbestlik derecesi olarak sezgisel Bessel düzeltme anlayabiliyorum:
+nerede formula_2 örnek ortalamasıdır. Onlar 0'a Özetle olarak, 1 bağımsız artıklar - Varken "n" bağımsız örneklem, sadece "n" vardır.
+Uyarılar.
+Üç uyarılar Bessel düzeltme konusunda akılda olmalıdır: birincisi, bu standart bir tarafsız tahmincisi verim vermiyor "sapma;" ikincisi, düzeltilmiş tahmincisi genellikle düzeltilmemiş tahmincisi daha kötü (yüksek) ortalama karesel hata (MSE) sahiptir ve minimum MSE vardır asla: Farklı bir ölçek faktörü her zaman MSE en aza indirmek için seçilebilir; Nüfus bilinmeyen (ve örnek ortalaması olarak tahmin edilen) demek iken üçüncüsü sadece gereklidir.
+İlk ince nokta: (Bessel düzeltme kullanarak) örnek varyansı nüfus varyans tarafsız tahminidir ise, onun karekök, örnek standart sapma, nüfus standart sapma bir "önyargılı" tahmindir; karekök içbükey bir fonksiyon olduğundan, önyargı Jensen eşitsizliğinin tarafından, aşağı değildir. Örneğin normal gibi belirli dağıtımları için düzeltme faktörleri olmasına rağmen nüfus standart sapmanın tarafsız bir tahmincisi için genel bir formül yoktur; Ayrıntılar için standart sapma tarafsız tahmini bakın. Normal dağılım için kesin düzeltme faktörü için bir yaklaşım "n" kullanılarak verilir - formüldeki 1.5: yanlılık quadratically bozunur (yerine doğrusal daha düzeltilmemiş formu ve Bessel düzeltilmiş formda olduğu gibi).
+İkincisi, yansız tahmin yanlı tahmin edicilerin ile karşılaştırıldığında MSE en aza indirmek değil, ve genellikle düzeltilmemiş tahmincisi daha kötü MSE (bu aşırı basıklık göre değişir) sahiptir. MSE, farklı bir faktör kullanılarak minimize edilebilir. Ortalama karesel hata tartışıldığı gibi optimum bir değer, aşırı basıklık bağlıdır: Varyans; Normal bir dağılım için, bu "n" + 1 bölünerek optimize edilir (yerine "N" - 1 ya da "n").
+Üçüncüsü nüfus bilinmemektedir ifade ederken, Bessel düzeltme sadece gerekli olduğu ve bir örnek popülasyon ortalaması tahmin etmek anlamına kullanarak, belirli bir örnek kümesi "hem" nüfus demek "ve" nüfus değişimini tahmin edilmektedir. 1 serbestlik derecesi (- bu durumda, "n", "n" noktalarından oluşan bir örneklemde serbestlik derecesi ve ortalama ve varyans eşzamanlı tahmin var serbestlik bir derece ortalama numune gider ve geri kalan "n" anlamına "artıklar") numune varyans gidin. (- Sapmaları artıkları değil, "hataları" değil ortalama tahmini varlık değildir çünkü) ve Bessel düzeltme değil nüfus ortalaması bilindiği Ancak, daha sonra nüfus örneklerin sapmaları, "n" özgürlük dereceleri var demek Uygulanabilir.
+Önyargı kaynağı.
+Tüm nüfusun ortalama 2050 olduğunu varsayalım, ama istatistikçi olduğunu bilmiyor ve nüfus rastgele seçilmiş bu küçük örnekleme dayanarak bunu tahmin etmelidir:
+Bir örnek ortalamasını hesaplamak olabilir:
+Bu 2050 Şimdi nüfus değişimini tahmin sorunuyla karşı karşıya olan gözlenemeyen nüfus ortalamasına, gözlemlenebilir bir tahmin olarak hizmet edebilir. Biz nüfus ortalama aşağıdaki gibi devam olabilir, 2050 olduğunu bilseydi o 2050 sapmaların karelerinin ortalaması ise:
+Ama nüfus ortalamasının bizim tahmini örnek ortalama, 2052 değil, 2050 nedenle elimizden geleni yapın:
+Bu büyük ölçüde daha küçük bir tahminidir. Şimdi soru ortaya çıkıyor: numunesi kullanılarak bu şekilde ortaya çıkan nüfus varyans tahmini "her zaman" Biz nüfus demek kullanılırsa ne olsun daha küçük demek oluyor? Cevap "evet" örnek ortalama nüfus ortalaması ile aynı olması umulur durumlar dışında olduğunu.
+Biz nüfus demek gelen kare mesafeler toplamını arayan, ancak görüleceği gibi, kare mesafeler o toplamını minimize sayı olan, ortalama örnekten kareleri farkların toplamını hesaplamak sona edilir. Numune nüfus aynı ortalama sahip olur sürece, bu tahmin her zaman nüfus değişimini hafife olacaktır.
+Biz cebir, basit bir kimlik kullanmak neden bu olur görmek için:
+Örnekten sapma temsil ortalama numune bir birey sapma temsil formula_8 ve formula_9 ile ortalama nüfus demek. Biz sadece iki bileşen içine ortalama (bilinmeyen) nüfus gerçek sapmayı ayrışan ettik unutmayın: numuneye sapma, biz hesaplayabiliriz hangi ve nüfus ek sapma hangi biz değil, demek istiyorum. Şimdi nüfus ortalamadan sapmaların kareler bu kimlik geçerlidir:
+Şimdi tüm beş gözlemlere bu uygulamak ve belirli kalıpları gözlemleyin:
+Örnek ortalamasının sapmaların toplamı sıfır olmalıdır, çünkü orta sütunda girişler toplamı sıfır olmalıdır. Orta sütun yok oldu, biz o gözlemlemek
+Bu nedenle:
+Bu "örnek" anlamına gelen sapmaların karelerinin toplamı bu kareler ortalaması bulunduğunda nüfus varyans tarafsız bir tahmin vermek için çok küçük olmasının nedeni budur.
+Terminoloji.
+Bu düzeltme "n" kullanılarak, dönem "örnek varyasyon" ve "örnek standart sapma" sıkça düzeltilmiş tahmin edicileri (tarafsız örnek varyasyonu, daha az önyargılı numune standart sapma) anlamında kullanılır böylece yaygın - 1. Ancak dikkat gereklidir: Bazı hesap makineleri ve yazılım paketlerinin her ikisi veya sadece daha sıradışı formülasyon sağlayabilir. Bu makalede, aşağıdaki semboller ve tanımları kullanır:
+standart sapmalar daha sonra ilgili varyans karekök olacaktır. Karekök önyargı tanıttı yana, terminoloji "düzeltilmiş" "düzeltilmemiş" ve standart sapma tahmin için tercih edilir:
+Formula.
+Örnek ortalaması ile verilir
+önyargılı örnek varyansı sonra yazılır:
+ve tarafsız örnek varyansı yazılır:
+Doğruluğu Kanıtı - 1 Alternatif.
+Bir arka plan aslında, biz standart sapma ve beklenti doğrusallık tanımından aşağıdaki kimlik formula_16 kullanın.
+Çok yararlı bir gözlem formula_18 bağımsız gruplar olduğunda herhangi bir dağıtım için, Varyans formula_17 yarısı beklenen değerine eşittir olmasıdır. Beklentisi bu gözlemi (onlar bağımsız olmasından izler) o formula_19 kullanacak yanı sıra lineerliğini kanıtlamak için:
+Şimdi gözlem kanıtlanmış, bu örnek nüfus formula_21 iki numune beklenen karesi farkı orijinal dağılımdan iki numune formula_22 kez beklenen karesi farkı eşit olduğunu göstermek için yeterlidir. Bunu görmek için, biz yolu ile formula_23 ve formula_24 almak zaman, "u, v" tamsayılar 1 "n" bağımsız ve eşit seçilen o zaman bir kısmını formula_25 not biz "u v =" ve bu nedenle kare örneklenmiş olacak Fark orijinal dağılımının sıfır bağımsızdır. Zaman formula_26 kalan, formula_27 değeri orijinal dağılımından iki ilgisiz numuneler arasında beklenen karesi farktır. Bu nedenle, formula_28 numune beklenen karesi farkı bölünmesi ya da eşdeğer formula_29 ile çarparak orijinal beklenen karesi farkın tarafsız bir tahminini verir.
+Doğruluk kanıtı - 2 Alternatif.
+Varyans için bir kimlik Geri Dönüşüm,
+yani
+ve tanımı gereği,
+2 Varyans bir dağılımdan rasgele örnek vardır "σ" "xn", · · ·, "x" 1 beri, 2 "x", unutmayın, bu izler her "i" = 1, 2,. . . "N":
+ve ayrıca
+Bu Bienaymé formül doğan, ilintisiz değişkenlerin varyans bir özelliğidir. Gerekli sonuç daha sonra bu iki formüller ikame edilmesiyle elde edilir:
+Doğruluğu Kanıtı - 3 Alternatif.
+önyargılı tahmincisi ve gerçek varyans arasında beklenen tutarsızlık
+Yani, önyargılı kestiricinin beklenen değer olacaktır
+Yani, bir tarafsız tahmincisi tarafından verilmelidir
+Sezgi.
+"Μ" - "x" ile "μ" - önyargılı tahmincisi olarak, numune kullanılarak yerine gerçek ortalamanın, her "x" i hafife anlamına. Biz bir toplamı varyansı (ilintisiz değişkenler için) Varyansların toplamı olduğunu biliyoruz. "Μ" - Peki, önyargılı tahmincisi ve gerçek varyans arasındaki tutarsızlığı bulmak için, sadece "x" varyansını bulmak gerekiyor.
+Bu "σ" 2 / "n" olan numunenin sadece varyans demek olduğunu. Yani, biz önyargılı tahmincisi "σ" 2 / "n" ile 2 "σ" hafife bekliyoruz ve bu yüzden önyargılı tahmincisi = - tarafsız tahmincisi = × (1 1 / "n") ("n" - 1) / n tarafsız tahmincisi ×.

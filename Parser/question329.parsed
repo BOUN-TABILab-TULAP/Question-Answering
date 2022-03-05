@@ -1,0 +1,25 @@
+1	Yaprak	yaprak	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	gövde	gövde	Noun	Noun	A3sg|Pnon|Nom	23	SUBJECT	_	_
+4	epidermis	epidermis	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	hücrelerinin	hücre	Noun	Noun	A3pl|P3sg|Gen	8	SUBJECT	_	_
+6	_	fark	Noun	Noun	A3sg|Pnon|Nom	7	DERIV	_	_
+7	_	_	Adj	Adj	With	8	DERIV	_	_
+8	_	_	Verb	Verb	Become|Pos	9	DERIV	_	_
+9	farklılaşmasıyla	_	Noun	NInf	A3sg|P3sg|Ins	11	MODIFIER	_	_
+10	_	oluş	Verb	Verb	Pos	11	DERIV	_	_
+11	oluşan	_	Adj	APresPart	_	12	MODIFIER	_	_
+12	bitkinin	bitki	Noun	Noun	A3sg|Pnon|Gen	15	SUBJECT	_	_
+13	çevreyle	çevre	Noun	Noun	A3sg|Pnon|Ins	15	MODIFIER	_	_
+14	gaz	gaz	Noun	Noun	A3sg|Pnon|Nom	15	OBJECT	_	_
+15	_	al	Verb	Verb	Pos	16	DERIV	_	_
+16	alış	_	Noun	NInf	A3sg|Pnon|Nom	17	OBJECT	_	_
+17	_	ver	Verb	Verb	Pos	18	DERIV	_	_
+18	verişini	_	Noun	NInf	A3sg|P3sg|Acc	19	OBJECT	_	_
+19	_	sağla	Verb	Verb	Pos	20	DERIV	_	_
+20	sağlayan	_	Adj	APresPart	_	21	MODIFIER	_	_
+21	hücre	hücre	Noun	Noun	A3sg|Pnon|Nom	23	SUBJECT	_	_
+22	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	23	DERIV	_	_
+23	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	24	SENTENCE	_	_
+24	.	.	Punc	Punc	_	0	ROOT	_	_
+

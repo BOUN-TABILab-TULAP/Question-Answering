@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Püskürük	püskürük+Adj
+
+kayaçların	kayaç+Noun+A3pl+Pnon+Gen
+kayaçların	kayaç+Noun+A3pl+P2sg+Nom
+
+oluşumu	ol	+Verb+Pos^DB+Noun+Inf3+A3sg+P1sg+Acc
+oluşumu	oluşum+Noun+A3sg+P3sg+Nom
+oluşumu	oluşum+Noun+A3sg+Pnon+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+açıklanır	açıkla+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+açıklanır	açıkla+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

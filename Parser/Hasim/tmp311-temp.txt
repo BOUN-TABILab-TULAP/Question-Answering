@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bitki bitki+Noun+A3sg+Pnon+Nom
+örtüsü örtü+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike örtü+Noun+A3sg+P3sg+Nom
+ve ve+Conj
+orman orman+Noun+A3sg+Pnon+Nom
+yangınlarının yangın+Noun+A3pl+P3sg+Gen yangın+Noun+A3pl+P2sg+Gen yangın+Noun+A3pl+P3pl+Gen yangın+Noun+A3sg+P3pl+Gen
+nasıl nasıl+Adverb nasıl+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+ilişkisi ilişki+Noun+A3sg+P3sg+Nom ilişki+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

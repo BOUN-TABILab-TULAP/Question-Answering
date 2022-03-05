@@ -1,0 +1,10 @@
+1	Çift	çift	Adj	Adj	_	2	MODIFIER	_	_
+2	_	çenek	Noun	Noun	A3sg|Pnon|Nom	3	DERIV	_	_
+3	çenekli	_	Adj	Adj	With	4	MODIFIER	_	_
+4	bitkilerin	bitki	Noun	Noun	A3pl|Pnon|Gen	8	SUBJECT	_	_
+5	damar	damar	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	yapısı	yapı	Noun	Noun	A3sg|P3sg|Nom	8	OBJECT	_	_
+7	_	nasıl	Adj	Adj	_	8	DERIV	_	_
+8	nasıldır	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

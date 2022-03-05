@@ -1,0 +1,14 @@
+1	Ekvatordan	ekvator	Noun	Noun	A3sg|Pnon|Abl	_	_	_	_
+2	kutuplara	kutup	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+3	doğru	doğru	Adj	Adj	_	_	_	_	_
+4	_	git	Verb	Verb	_	_	_	_	_
+5	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+6	gidildikçe	_	Adv	Adv	AsLongAs	_	_	_	_
+7	güneş	güneş	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+8	ışınlarının	ışın	Noun	Noun	A3pl|P3sg|Gen	_	_	_	_
+9	_	düş	Verb	Verb	Pos	_	_	_	_
+10	düşme	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+11	açısı	açı	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+12	neden	neden	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+13	küçülmektedir	küçül	Verb	Verb	Pos|Prog2|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

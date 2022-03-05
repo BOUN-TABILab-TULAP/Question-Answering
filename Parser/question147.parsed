@@ -1,0 +1,8 @@
+1	Sismoloji	sismoloji	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+2	neyle	ne	Pron	QuesP	A3sg|Pnon|Ins	3	OBJECT	_	_
+3	ilgili	ilgili	Noun	Noun	A3sg|Pnon|Nom	5	MODIFIER	_	_
+4	_	araştır	Verb	Verb	Pos	5	DERIV	_	_
+5	araştırmaları	_	Noun	NInf	A3pl|P3sg|Nom	6	OBJECT	_	_
+6	yapar	yap	Verb	Verb	Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

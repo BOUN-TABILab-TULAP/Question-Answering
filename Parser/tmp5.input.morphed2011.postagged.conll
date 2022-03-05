@@ -1,0 +1,10 @@
+1	23	23	Num	Card	_	_	_	_	_
+2	Eylül	eylül	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	Kuzey	kuzey	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	yarım	yarım	Num	Card	_	_	_	_	_
+5	kürede	küre	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+6	hangi	hangi	Adj	Adj	_	_	_	_	_
+7	mevsimin	mevsim	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+8	_	başlangıç	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+9	başlangıcıdır	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+10	.	.	Punc	Punc	_	_	_	_	_

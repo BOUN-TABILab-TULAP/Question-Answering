@@ -1,0 +1,108 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Ulaşımda sınırlayıcı etki yapan en önemli faktör nedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(3333, {label: "Eski",nodeclass: "type-TK"});
+ g.addNode(3334, {label: "çağlarda",nodeclass: "type-TK"});
+ g.addNode(3335, {label: "tarımın",nodeclass: "type-TK"});
+ g.addNode(3336, {label: "yaygın",nodeclass: "type-TK"});
+ g.addNode(3337, {label: "_",nodeclass: "type-TK"});
+ g.addNode(3338, {label: "yaygınlaşması",nodeclass: "type-TK"});
+ g.addNode(3339, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(3340, {label: "tarımda",nodeclass: "type-TK"});
+ g.addNode(3341, {label: "hayvanların",nodeclass: "type-TK"});
+ g.addNode(3342, {label: "kullan",nodeclass: "type-TK"});
+ g.addNode(3343, {label: "_",nodeclass: "type-TK"});
+ g.addNode(3344, {label: "kullanılmaya",nodeclass: "type-TK"});
+ g.addNode(3345, {label: "başla",nodeclass: "type-TK"});
+ g.addNode(3346, {label: "başlaması",nodeclass: "type-TK"});
+ g.addNode(3347, {label: "neye",nodeclass: "type-TK"});
+ g.addNode(3348, {label: "sebebiyet",nodeclass: "type-TK"});
+ g.addNode(3349, {label: "vermiştir",nodeclass: "type-TK"});
+ g.addNode(3350, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,3333,3334,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,3334,3349,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,3335,3338,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,3336,3337,{label: "TÜREME"});
+ g.addEdge(null,3337,3338,{label: "TÜREME"});
+ g.addEdge(null,3338,3339,{label: "NESNE"});
+ g.addEdge(null,3339,3344,{label: "BAĞLANTI"});
+ g.addEdge(null,3340,3343,{label: "DE HALİ"});
+ g.addEdge(null,3341,3343,{label: "ÖZNE"});
+ g.addEdge(null,3342,3343,{label: "TÜREME"});
+ g.addEdge(null,3343,3344,{label: "TÜREME"});
+ g.addEdge(null,3344,3346,{label: "NESNE"});
+ g.addEdge(null,3345,3346,{label: "TÜREME"});
+ g.addEdge(null,3346,3349,{label: "NESNE"});
+ g.addEdge(null,3347,3349,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,3348,3349,{label: "NESNE"});
+ g.addEdge(null,3349,3350,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

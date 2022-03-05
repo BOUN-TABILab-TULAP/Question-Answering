@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Antik antik+Adj
+çağın çağ+Verb+Pos+Imp+A2pl çağ+Noun+A3sg+P2sg+Nom çağ+Noun+A3sg+Pnon+Gen çak+Verb+Pos+Imp+A2pl
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+ünlü ün+Noun+A3sg+Pnon+Nom^DB+Adj+With ünlü+Noun+A3sg+Pnon+Nom
+deniz deniz+Noun+A3sg+Pnon+Nom
+feneri fener+Noun+A3sg+Pnon+Acc fener+Noun+A3sg+P3sg+Nom
+hangisidir hangi+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

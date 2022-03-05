@@ -1,0 +1,47 @@
+Uçuş seviyesi
+Bir uçuş seviyesi (FL) belirli barometrik basınç ise, ayak yüzlerce nominal yükseklik olarak ifade edilmiştir. Basınç nedenle 1.013,25 hPa (29.92 inHg) bir Uluslararası Standart deniz seviyesi basıncı verisini varsayarak ve hesaplanacaktır mutlaka uçağın gerçek yükseklikte ya deniz seviyesinden veya zemin seviyesinden aynı değildir.
+Arkaplan.
+Tarihsel olarak, yüksekliği esas olarak kalibre edilmiş bir barometre bir basınç Altimetreyi kullanılarak ölçülmüştür. Barometrik formülü aşağıdaki Rakım arttıkça azalır ve çevreleyen basınç hesaplar ve gelen ve karşılık gelen yükseklik gösteren bir altimetre ölçüleri hava basıncı.
+Deniz seviyesinden yüksekliğini görüntülemek için, bir pilot zamanla ve farklı bölgelerdeki basıncın hesap doğal varyasyon dikkate almak, deniz seviyesinde yerel hava basıncına göre altimetreyi yeniden kalibre gerekir. Bu yapılmazsa onların altimetreler bunlar oldukça farklı yüksekliklerde olduğunu göstermek için görünür olsa da, iki uçak aynı irtifada uçan olabilir.
+Uçuş seviyeleri deniz seviyesinde standart hava basıncına bağlı yüksekliklerde tanımlayarak bu sorunu çözmek. Uçuş seviyeleri üzerinde çalışan tüm uçaklar ne olursa olsun, gerçek deniz seviyesi basıncı bu ayara kalibre.
+Tanımı.
+Bu nedenle, her zaman Bu nedenle, 0 ya da 5 ile ilgili belirgin bir yükseklik biten 500 ft katları olan Flight seviyeleri, örneğin, 100 ile ayrılır, bu, nominal yüksekliği feet ("basınç yüksekliği") bir sayı, tarafından tarif edilmektedir 32.000 fit "uçuş seviyesi 320" olarak adlandırılır. Nedeniyle onların aynı yükseklik, (örneğin zemin seviyesine kıyasla,) onların "gerçek" Denizden olmak üzere iki uçağın arasındaki çarpışmaları önlemek için önemli değil; onlar çarpışır olabilir belirler yüksekliklerde farktır. Bu fark, her zanaat hava basıncı tespit edilebilir ve zeminde yerel hava basıncı bilgisi gerektirmez.
+Uçuş düzeyleri genellikle "xxx" 100 feet biriminde basınç yükseklik gösteren üç basamaklı sayıya bir tek olan "FLxxx," yazılı olarak belirlenmiştir. Radyo iletişimine yılında FL 290 çoğu yargı, "uçuş seviyesi iki dokuz sıfır" olarak telaffuz edilecektir. Bazı eyaletlerde, 00 ile biten düzeyleri "yüz" olarak okunur: fl200 "uçuş seviyesi iki yüz" olarak telaffuz edilir. ifade "uçuş düzeyi" açıkça bu standart basınç irtifa ifade ettiğini yapar.
+Geçiş irtifa.
+Standart bir basınç ayarı kullanımı birbirinden uçak ayrılmasını kolaylaştırdığı da, yerden uçağın asıl yükseklik sağlamaz. Düşük rakımlarda yere bir nesneye bir uçak göreceli gerçek yüksekliği bilinen gerekiyor. Bunu başarmak için ayarı basınç QNH veya "altimetre ayarı" olarak adlandırılan ve hava trafik kontrolü ve yerel METAR veren istasyon dahil olmak üzere çeşitli kaynaklardan gelen edinilebilir.
+Geçiş yükseklik (TA) irtifa kullanımından hangi uçaklar değişikliği de uçuş seviyelerinin kullanımına deniz seviyesinden yükseklik olduğunu. Veya TA altında çalışırken, uçak altimetreler genellikle deniz seviyesinden yükseklik göstermek için ayarlanır. TA Üstü, uçak altimetre basınç ayarı normalde uçuş seviyesi olarak ifade edilecektir 1013 hectopascals (milibar) ya da civa ve uçak irtifa 29.92 inç standart basınç ayarına ayarlanır.
+Amerika Birleşik Devletleri ve Kanada'da, geçiş irtifa 18.000 ft. Avrupa'da, geçiş yükseklik değişir ve düşük 3,000 olarak ft olabilir. Eurocontrol alanı içinde geçiş irtifa standardize etmek tartışmalar vardır.
+25 Kasım 2004 tarihinde Yeni Zelanda Sivil Havacılık Otoritesi 13.000 feet 11.000 feet Yeni Zelanda'nın geçiş irtifa kaldırdı ve FL150 FL130 için geçiş seviyesi değişti.
+Geçiş seviyesi geçiş yükseklikte üstünde düşük uçuş seviyesidir. Sağdaki masa geçiş rakım ve QNH göre geçiş seviyesini gösterir. Geçiş seviyesinin altına inen zaman pilot bölge ya da havaalanı için QNH altimetreyi ayarlayarak uçağın irtifa başvurmak için başlar. , Tanımı gereği, geçiş seviyesi olduğunu geçiş yükseklikte üstünde az 500 ft unutmayın. Uçak normalde bu geçiş irtifada (QNH üzerine) uçan diğer trafik ayrımı garanti etmez gibi geçiş seviyesinde uçmak için atanmamış; en kullanışlı uçuş seviyesi geçiş seviyesi artı 500 ft.
+Geçiş tabakası geçiş irtifası ve geçiş seviyesi arasındaki hava sahası olduğunu.
+Bazı ülkelerde, örneğin, Norveç, geçiş seviyesi geçiş rakıma az 1000 ft tamponu (QNH bağlı olarak) da dahil olmak üzere belirlenir. Bu nedenle, hava hem geçiş düzeyi ve geçiş yüksekliği arasındaki olabilir ve de dikey olarak en az 1000 ft ile ayrılabilir. Bu alanlarda geçiş tabakası QNH bağlı olarak 1.000 ft ile 1500 ft arasında belirli bir dikey uzaklık olacaktır.
+Kuadrantal kuralı.
+Bu kural ve bir hava trafik kontrol ünitesi tarafından verilen talimatlara uygun olarak uçan, ya da uymak eğer bu kural gereği başka bir seviyede uçakla olabilir böyle uçakların dışında kontrollü hava sahasını dışındaki İngiltere'de IFR uçuşlar için geçerlidir Rota en-desen tutarak ya da havaalanına ilişkin tebliğ prosedürleri tutan bildirmiştir. Kural zaman düz uçuşta IFR altında faaliyet yalnızca uçağı etkiler ve "3000 ft yukarıda ortalama deniz seviyesinden veya hangisi daha yüksekse, uygun geçiş yükseklikte, yukarıdaki" zaman ("FL195 altındaki" 1013,2 hPa datumunda yukarıdaki 19.500 ft İngiltere, "ya da" Böyle uçaklar İngiltere üzerinde uçan değilse uçağın uçan olduğu üzerinde alana ilişkin yetkili makam tarafından yayınlanan sistemine göre ayarlanmış altimetre ile.)
+Kural VFR altında çalışan uçuş üzerine olmayan bağlayıcıdır.
+İngiltere kuadrantal Kural uymakla iki uçuşlar arasında minimum dikey ayırma 500 ft ("Bu jeopotansiyel ayak birimlerinde unutmayın"). aşağıdaki gibi seviye, uçağın manyetik parçaya göre belirlenir uçakla:
+Semisirküler / hemisferik kuralı.
+"(Bu sürümleri kontrollü hava sahasında içinde ve genel olarak dünyanın geri kalanında İngiltere'de IFR için geçerlidir)"
+"(Aynı zamanda hemisferik kural olarak da bilinir) yarım daire kural" İngiltere içinde kontrollü hava sahasında olmak üzere, dünyadaki tüm, biraz farklı versiyonda geçerlidir.
+Standart kural Doğu / Batı parça bölünmüş tanımlar:
+Azaltılmış Dikey Ayırma Minima kullanımda değilse FL 290 ve üstü, 4.000 ft aralıklarla aynı yönde uçağı ayırmak için kullanılır ve sadece tek bir uçuş seviyeleri (FL 290 altında yerine 2.000 ft aralıklarla) yönüne bağlı olarak, atanır Uçuş:
+Büyük hava yolları kuzey / güney (; İtalya, örneğin Yeni Zelanda Portekiz) odaklı Ülkeler Kuzey / Güney ziyade Doğu / Batı parça bölünmüş tanımlayan yarım daire kuralları vardır.
+İtalya ve Portekiz'de, örneğin, güneye trafiği tek uçuş düzeylerini kullanır; Yeni Zelanda'da, güneye trafik uçuş seviyeleri bile kullanır.
+Avrupa'da yaygın olarak aşağıdaki tabloda başı olarak ICAO ayırma seviyeleri kullanılır:
+İndirimli dikey ayırma minimum.
+Azaltılmış Dikey Ayırma Miniması (RVSM) 1.000 ft FL 290 üzerinde dikey ayırma azaltır. Bu uçaklar güvenli, daha optimum güzergah uçmak yakıt tasarrufu elde etmek ve yeni uçuş seviyeleri ekleyerek hava sahası kapasitesini artırmak için izin verir. Birkaç istisnalar ile RVSM standartlarını karşılayacak şekilde belgelenmiş olan uçak, RVSM hava sahasında uçmak için izin verilir. Bu 20 Ocak 2002 tarihinde Mart 2001'de İngiltere'de girmiştir, Avrupa hava sahasına girer. Amerika Birleşik Devletleri, Kanada ve Meksika 20 Ocak 2005 tarihinde FL 290 ile FL 410 arasında RVSM için geçiş ve Afrika 25 Eylül 2008 tarihinde.
+FL 410 ve üstü 4.000 ft aralıklarla uçuş yönüne bağlı, aynı yönde uçağı ayırmak için yeniden ve sadece tek Uçuş Seviyeleri atanır:
+Metrik uçuş seviyeleri.
+Çin, Moğolistan, Rusya ve birçok BDT ülkeleri yıllardır metre belirtilen uçuş seviyelerini kullandık. Rusya ve bazı BDT ülkeleri geçiş yükseklikte üstünde ayak kullanmaya başladı ve 17 Kasım 2011 tarihinde aynı anda RVSM tanıtıldı rağmen bu alanları giren uçaklar, normalde bu ayarlamak için hafif bir tırmanış ya da iniş yapmak.
+Moğolistan, Kuzey Kore, Kırgızistan, Kazakistan, Tacikistan ve Özbekistan ve Türkmenistan.
+Aşağıdaki Uçuş seviyeleri (ayak FL210 için ve yukarıda kullanılan) Türkmenistan Moğolistan, Kuzey Kore, Kırgızistan, Kazakistan, Tacikistan ve Özbekistan ile 6000 m veya altına uygulanır. Uçuş seviyeleri ör okunur "Uçuş seviyesi 7.500 metre":
+ve her 2.000 metre sonra.
+ve her 2.000 metre sonra.
+Çin Halk Cumhuriyeti.
+Aşağıdaki Uçuş seviyeleri Hong Kong dahil değil, Çin Halk Cumhuriyeti, uygulanır. Ayaklarda uçuş düzeylerini ayırt etmek, uçuş seviyeleri "uçuş seviyesi" olmadan okunur, örneğin "Bir 2600 metre" veya 12,600m için "幺 两 六" veya "幺 万 两千 六 百米" Chinese.
+RVSM, uçuş seviyesi temizledi Aşağıdaki tablo metrik onboard aviyonikleri okuma ve ATC arasındaki farkları olacak göre 1600 UTC 21 Kasım 2007 feet uçak sinek Çin'deki uygulamak ancak farklılıklar fazla 30 metre olmayacak.
+ve her 1.200 metre sonra.
+ve her 1.200 metre sonra.
+Rusya Federasyonu uçuş seviyeleri.
+Eylül 2011 tarihinde 5, Rusya Federasyonu hükümeti, ülkenin hava sahasını kullanım kurallarına değişikliklere ilişkin bir kararname yayınladı №743. Yeni kurallar batıda kullanılan benzer bir uçuş seviyesi sistemi tanıtan, 17 Kasım 2011 tarihinde yürürlüğe girmiştir. RVSM de bu tarihten itibaren yürürlüğe girmiştir.
+Aşağıdaki tabloda IFR uçuşlar için geçerlidir:
+Yeni sistem girmek veya Rus hava sahasını terk etmek için tırmanıyor ve inişlerde gerçekleştirmek için ihtiyacı ortadan kaldıracaktır.

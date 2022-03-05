@@ -1,0 +1,152 @@
+Question: Harita anahtarı(lejant) ne gibi kolaylıklar sağlar
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haritalarla Yolculuk (EBA)</DOCTITLE>
+<TEXT>
+
+Haritayı Oluşturan Unsurlar
+Bir çizimin harita olabilmesi için birtakım özelliklere sahip olması gerekir. Bu özellikleri birlikte öğrenelim.
+Ölçek
+Karadeniz’i bir A4 kâğıdı üzerinde nasıl gösterebilirsiniz? Karadeniz’i gerçek büyüklüğüyle göstermeniz mümkün olabilir mi? Aynı büyüklükte kâğıdı bulmanız mümkün olmadığı için Karadeniz’in şeklini küçültmeniz gerekir. İşte bu küçültme oranına ölçek adı verilir. Ölçek, kesir ve çizgi ölçek olarak ikiye ayrılır.
+Kesir ölçek küçültmenin, 1: 5.000, 1: 200.000 gibi kesirlerle ifade edildiği ölçek türüdür.
+Çizgi ölçek, haritanın küçültme oranının bir çizgi üzerinde gösterilmesidir.
+Ölçek Değiştikçe Haritalarda Meler Değişir?
+Ölçek küçüldükçe haritalarda da ayrıntının azaldığı görülmektedir.
+Haritalarda kullanımı kolaylaştırmak amacıyla yön oku kullanılır.
+Haritalarda dağılışı gösterilen olayların tamamının yazı ile ifade edilmesi oldukça güçtür. Bu amaçla haritadaki bilgiler bazı sembollerle gösterilir. Sembollerin yer aldığı bu bölüme harita anahtarı (lejant) adı verilir.
+HARİTALARDA UZUNLUK VE ALAN HESAPLAMALARI
+Ölçeklerden yararlanarak uzunluk, alan ve eğim hesaplamaları yapılır.
+a. Uzunluk Hesaplamaları
+Haritalardan yararlanarak uzunluk hesaplamaları yapılabilir. Bunu aşağıdaki işlemi yaparak görelim.
+Soru: A-B kentleri arasındaki uzunluk 1:200.000 ölçekli bir haritada 6 cm olarak gösterilmiştir. Bu iki kent arasındaki gerçek uzaklık kaç km’dir?
+Çözüm: A-B kentleri arasındaki uzaklık, ölçeğin paydasında görüldüğü gibi 200.000 defa küçültüldüğüne göre gerçek uzaklığı bulmak için A-B kentleri arasındaki harita uzunluğunu ölçeğin paydası ile çarparız.
+Gerçek Uzaklık (GU)= Harita Uzunluğu x Ölçeğin Paydası
+GU= 6 cm x 200.000 cm
+GU= 1.200.000 cm (Soruda, GU hangi birim olarak istenmişse ölçeğin paydası o birime çevrilir. Örneğin yukarıdaki soruda GU km olarak istendiği için ölçeğin paydasından 5 sıfır atılarak sonuç km olarak elde edilir.)
+GU= 1.200.000 cm değil GU= 12 km
+b. Alan Hesaplamaları
+Şekilde kare biçimindeki bir alan 1: 200.000 oranında küçültülerek gösterilmiştir. Bu alanın gerçekte ne kadar olduğunu bulmak için haritadaki alanı, ölçeğin paydasının karesi ile çarparız.
+Gerçek Alan = Harita Alanı x Ölçeğin Paydasının Karesi GA = 16 x (200.000)2 GA = 16x40.000.000.000
+GA = 640.000.000.000 değil (Soruda birim alan km2 olarak istendiği için cm2 olarak elde edilen sonuçtan 10 sıfır atılarak sonuç km2ye çevrilir.)
+GA = 64 km2
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cetvel</DOCTITLE>
+<TEXT>
+
+Cetvel, Türk Dil Kurumu'nun tanımına göre; doğru çizgileri çizmeye yarayan, dereceli veya derecesiz, tahtadan, plastikten, madenden yapılmış araç, çizgilik ve liste, çizelge anlamlarına gelmektedir.
+Cetvelin birçok çeşidi bulunur. Ancak, genel olarak ilk akla gelen kullanımıyla; bir metreden az olan uzunluktaki ölçümler için kullanılan, 30 - 50 santimetre uzunluğunda, tahta, metal, genellikle de plastik ölçü aletleridir.
+Cetveller, teknik çizim, geometri, terzilik, inşaat, pratik uygulamalar, mimari vb. gibi birçok alanda çok büyük kolaylıklar sağlar. Özel ve ayrıntılı ölçümler yapan mikrometre gibi, karşılaştırmalı ölçüm yapan kumpas gibi, şekiller çizmeye yarayan şablon gibi ve hesaplamalar yapmaya yarayan kızaklı cetvel gibi özel çeşitleri de bulunur.
+Ayrıca çeşitli hesaplamaları tablolaştırmakta kullanılan çizim uygulamaları, cetvel olarak adlandırılır: Borsa cetveli, çarpım cetveli, hazirun cetveli, hesap cetveli gibi.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sürekli sarı basın kartı</DOCTITLE>
+<TEXT>
+
+Sürekli sarı basın kartı, Türkiye'de Basın Kartları Yönetmeliği hükümleri gereğince, gazeteciliğe başladıktan sonra, mezun olduğu okula göre 1-3 yıl sonra alınan sarı basın kartını, aralıksız olarak 20 yıl fiilen gazetecilik yaparak taşıyan gazetecilere, bu tarihten sonra fiilen gazetecilik yapmasalar bile ömür boyu taşıma hakkı veren karttır. Bu kartın daha önceki ismi, "basın şeref kartı" idi.
+Basın kartının niteliği ve sağladığı kolaylıklar.
+"Başbakanlık Basın Yayın ve Enformasyon Genel Müdürlüğü" 'nce yürütülen Basın Kartı Yönetmeliği hükümlerine göre Sarı basın kartı veya Sürekli sarı basın kartı taşıyan gazetecilere sağlanılan kolaylıklar şunlardır:
+"...Madde 46 Basın kartı hamilleri, 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hizmet</DOCTITLE>
+<TEXT>
+
+Hizmet, ekonomide fiziksel özelliğe sahip malın tersine, elle tutulamayan ve saklanması mümkün olmayan, insan ihtiyaçlarının giderilmesine yönelik olarak üretilen veya organize edilen, turizm, haberleşme, danışmanlık gibi faaliyetlerdir. Üretilen çıktının mülkiyetinin olmaması hizmeti üründen ayrılan temel özelliktir. 
+Kaynakların, yetkinliklerin ve mevcut tercübenin belli bir oranda kullanılması ve yönetilmesi yoluyla tüketicilere çeşitli yararlar sağlayan hizmet sağlayıcılar, ham madde ve yarı mamul stoklama, taşıma, ürünün korunması gibi imalat sektörüne özgü gereklilik ve kısıtlamalara da tabi değildir. Diğer yandan bu kolaylıklar rakipler için de geçerlidir ve şirketlerin uzmanlıklarına olan yatırımları istikrarlı bir pazarlama desteğine ve gelişime ihtiyaç duyar.
+Bir ekonomideki hizmet sağlayıcıların tümü o ekonomide hizmet sektörünü oluşturur. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sanayi Teşvik Kanunu</DOCTITLE>
+<TEXT>
+
+Sanayi Teşvik Kanunu, sanayi yatırımı yapacak işletmelere muafiyet, imtiyaz ve teşvik sağlamayı amaçlayan yasadır. Bu yasa 15 yıl süreyle yürürlükte kalmıştır. Teşvik-i Sanayi Kanunu'nun çıkarılması Mustafa Kemal ATATÜRK'ün sanayi alanında yapmış olduğu bir yeniliktir.
+28 Mayıs 1927'de " Teşvik-i Sanayi Kanunu" çıkarılarak özel teşebbüse yatırım yapmada pek çok kolaylıklar sağlanmıştır.
+Yasanın çıktığı dönemde özel girişimcilerin elinde yeterli sermaye bulunmadığı gibi mali ve teknik bilgi yetersizliği ve uluslararası mali işlerde deneyimsizlik yasadan yeterince yararlanılamamasına neden olmuştur. Yasanın istenen sonucu vermemesi üzerine devletçilik ilkesinin yürürlük alanı genişletilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mahrem</DOCTITLE>
+<TEXT>
+
+Mahrem, İslâm'da evlenilmesi haram olan (nikâh düşmeyen) kişi. Mahrem sözcüğü Arapça "haram" (yasaklanmış) kökünden gelir. Mahrem olmayan kimselere (evlenilebilen kimselere) "nâmahrem" denir. Nâmahrem sözcüğü Türkçede "yabancı, el" anlamında da kullanılır.
+İslâm'da mahremiyet durumu ikiye ayrılır: sürekli mahremlik ve geçici mahremlik. Mahrem kavramı gündelik kullanımda daha çok birinci grubu kastetmek için kullanılır. Kadınların mahremlerin yanında örtünmeleri ile ilgili -başlarını ve kollarını açabilmek gibi- çeşitli kolaylıklar mevcuttur.
+Sürekli mahremiyet.
+Evlenilmesine hiçbir zaman müsaade edilmeyen kimseler şunlardır:
+Geçici mahremiyet.
+Geçici mahrem olan kimseler ile mahremliklerine neden olan durum ortadan kalktığında evlenilebilir. Bu kimseler şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Parentezom</DOCTITLE>
+<TEXT>
+
+Parentezom bazitli mantar hücrelerinde bulunan bir organeldir. Şekli paranteze benzediği için böyle adlandırılmıştır. Tam olarak ne görev yaptığı konusunda yeterince bilgi yoktur. Ancak görünüşündeki çeşitliliklerin türleri ayırt etmede önemli kolaylıklar sağlayacağı düşünülmektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çamaşır makinesi</DOCTITLE>
+<TEXT>
+
+Çamaşır makinesi 1908'de Alva John Fisher tarafından icat edildi. Makinenin içine yatay olarak yerleştirilmiş metal tambura kirli çamaşırlar konuluyordu. Tambur, elektrik yardımıyla döndürülüyor ve hareket sırasında çamaşırlar sürekli suyla temas ederek temizlenmiş oluyordu. İlk kurutuculu çamaşır makinesi ise 1924'te üretildi.1937 yılında Bendix Corporation adlı şirket ilk tam otomatik çamaşır makinesini üretti. 1940′lı yıllardan itibaren tam otomatik makineler ev hanımlarının hizmetine girmeye başladı. 1950'li yıllarda yavaş yavaş dünyaya yayılıyordu. 1962'lere doğru gelişme yaşanıyordu halka yavaş yavaş kolaylıklar sağlanıyordu
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>BASIC</DOCTITLE>
+<TEXT>
+
+BASIC (İngilizce: Beginner's All-Purpose Symbolic Instruction Code Türkçe: "Yeni başlayanların her işe yarayan simgesel öğretim kodu") 1964'te John George Kemeny ve Thomas Eugene Kurtz tarafından New Hampshire, ABD'de icat edilmiş, günümüzde de çeşitli türevleri kullanılmakta olan yüksek düzey bir programlama dili. Farklı türevleri birçok işletim sisteminin parçası olarak sunulmuştur.
+BASIC öğrenmesi ve yazılımları kolay olan bir dildir. Genelde amatörce ve hobi uğraşıları için kullanılmıştır. Microsoft daha sonra Kişisel bilgisayarlar için "Quick Basic" derleyicisi piyasaya sürmüştür. Bununla yazılan BASIC metinlerini makine koduna çevirilebilmiş böylece sürat kazanmıştır. Bugün halen geniş bir kullanım alanına sahip olan Visual Basic dili var olup bununla hatta Windows'un belirli bölümleri yazılmıştır. Her Microsoft Office paketinde bir BASIC türevi var olup makro programlamada büyük kolaylıklar getirmektedir.
+Basic programlama dili algoritma'ya çok yakın bir yapıya sahiptir. Bu yüzden öğrenilmesi ve uygulanması kolaydır.
+Değişken isimleri ve kuralları.
+Değişken isimleri aşağıdaki kurallara uyan her şey olabilirler:
+Değişkenlerin belirtilmesi.
+Bir değişken "Dim "degisken_ismi" as "tür"" seklinde tanımlanır.
+Görüldüğü gibi VB'de de değişkenler arası virgül ile ayrılıp birden çok aynı türde değişken aynı anda tanımlanabilir.
+Örnek program.
+Merhaba Dünya çıktısı
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Neve Şalom Sinagogu Vakfı</DOCTITLE>
+<TEXT>
+
+Neve Şalom Sinagogu Vakfı, Türkiye'de faaliyet gösteren 161 cemaat vakfından biridir. Merkezi Beyoğlu ilçesinin Karaköy semtinde bulunmaktadır. Vakfa bağlı 5 sinagog, 6 mezarlık vardır. Vakfın yönetimindeki sinagoglar şunlardır:
+Vakıf, İstanbul'daki önemli 6 Musevi mezarlığının, bakım, onarım ve düzenlemelerinin yapmaktadır. Vakfın yönetimindeki mezarlıklar ise şunlardır:
+Vakfın bünyesinde Barınyurt adı verilen bir yardım kuruluşu da vardır. Bu kuruluş aracılığıyla Musevi cemaati içinde yoksul ve kimsesiz olanlara maddi yardım ve gerekliyse barınacak yer sağlanmaktadır. Vakıf, Musevi cemaatine cenaze, düğün, sünnet, bar mitsva, bat mitsva, mikve ve vijiola hizmetleri için üyelerine kolaylıklar sunmaktadır.
+
+</TEXT>
+</DOC>
+

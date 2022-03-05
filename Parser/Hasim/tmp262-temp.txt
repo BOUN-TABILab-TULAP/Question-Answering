@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Harita harita+Noun+A3sg+Pnon+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+kroki kroki+Noun+A3sg+Pnon+Nom
+arasında ara+Noun+A3sg+P3sg+Loc
+nasıl nasıl+Adverb nasıl+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+fark fark+Noun+A3sg+Pnon+Nom
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

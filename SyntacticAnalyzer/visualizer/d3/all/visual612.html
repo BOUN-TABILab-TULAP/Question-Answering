@@ -1,0 +1,124 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Türkiye hidroelektrik üretim potansiyeli açısından dünya sıralamasında kaçıncıdır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(6760, {label: "Çoğu",nodeclass: "type-TK"});
+ g.addNode(6761, {label: "türk",nodeclass: "type-TK"});
+ g.addNode(6762, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(6763, {label: "olan",nodeclass: "type-TK"});
+ g.addNode(6764, {label: "kavimlerin",nodeclass: "type-TK"});
+ g.addNode(6765, {label: "Orta",nodeclass: "type-TK"});
+ g.addNode(6766, {label: "Asyadan",nodeclass: "type-TK"});
+ g.addNode(6767, {label: "ayır",nodeclass: "type-TK"});
+ g.addNode(6768, {label: "_",nodeclass: "type-TK"});
+ g.addNode(6769, {label: "ayrılıp",nodeclass: "type-TK"});
+ g.addNode(6770, {label: "batıya",nodeclass: "type-TK"});
+ g.addNode(6771, {label: "doğru",nodeclass: "type-TK"});
+ g.addNode(6772, {label: "kal",nodeclass: "type-TK"});
+ g.addNode(6773, {label: "kalıcı",nodeclass: "type-TK"});
+ g.addNode(6774, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(6775, {label: "olarak",nodeclass: "type-TK"});
+ g.addNode(6776, {label: "hareket",nodeclass: "type-TK"});
+ g.addNode(6777, {label: "et",nodeclass: "type-TK"});
+ g.addNode(6778, {label: "etmeleri",nodeclass: "type-TK"});
+ g.addNode(6779, {label: "olayına",nodeclass: "type-TK"});
+ g.addNode(6780, {label: "tarihte",nodeclass: "type-TK"});
+ g.addNode(6781, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(6782, {label: "ad",nodeclass: "type-TK"});
+ g.addNode(6783, {label: "ver",nodeclass: "type-TK"});
+ g.addNode(6784, {label: "verilir",nodeclass: "type-TK"});
+ g.addNode(6785, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,6760,6761,{label: "BELİRTEÇ"});
+ g.addEdge(null,6761,6762,{label: "NESNE"});
+ g.addEdge(null,6762,6763,{label: "TÜREME"});
+ g.addEdge(null,6763,6764,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6764,6772,{label: "ÖZNE"});
+ g.addEdge(null,6765,6766,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,6766,6769,{label: "NESNE"});
+ g.addEdge(null,6767,6768,{label: "TÜREME"});
+ g.addEdge(null,6768,6769,{label: "TÜREME"});
+ g.addEdge(null,6769,6772,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6770,6772,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,6771,6772,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6772,6773,{label: "TÜREME"});
+ g.addEdge(null,6773,6774,{label: "NESNE"});
+ g.addEdge(null,6774,6775,{label: "TÜREME"});
+ g.addEdge(null,6775,6777,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6776,6777,{label: "NESNE"});
+ g.addEdge(null,6777,6778,{label: "TÜREME"});
+ g.addEdge(null,6778,6779,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,6779,6784,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,6780,6784,{label: "DE HALİ"});
+ g.addEdge(null,6781,6782,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6782,6784,{label: "ÖZNE"});
+ g.addEdge(null,6783,6784,{label: "TÜREME"});
+ g.addEdge(null,6784,6785,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

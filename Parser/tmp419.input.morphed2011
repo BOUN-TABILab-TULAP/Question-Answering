@@ -1,0 +1,55 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Hangi	hangi	+Adj
+
+solunumu	solunum	+Noun+A3sg+P3sg+Nom
+solunumu	solunum	+Noun+A3sg+Pnon+Acc
+
+yapan	yap	+Verb+Pos^DB+Adj+PresPart
+
+organizmaların	organizma	+Noun+A3pl+Pnon+Gen
+organizmaların	organizma	+Noun+A3pl+P2sg+Nom
+
+kanında	kan	+Noun+A3sg+P3sg+Loc
+kanında	kan	+Noun+A3sg+P2sg+Loc
+kanında	kanı+Noun+A3sg+P2sg+Loc
+
+solunum	sol	+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A1sg
+solunum	sol	+Noun+A3sg+Pnon+Gen^DB+Verb+Zero+Pres+A1sg
+solunum	solunum	+Noun+A3sg+Pnon+Nom
+
+gazları	gaz	+Noun+A3pl+Pnon+Acc
+gazları	gaz	+Noun+A3pl+P3sg+Nom
+gazları	gaz	+Noun+A3pl+P3pl+Nom
+gazları	gaz	+Noun+A3sg+P3pl+Nom
+gazları	gazla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+taşınmaz	taşı+Verb^DB+Verb+Pass+Neg+Aor+A3sg
+taşınmaz	taşı+Verb^DB+Verb+Pass+Neg^DB+Adj+AorPart
+taşınmaz	taşın+Verb+Neg+Aor+A3sg
+taşınmaz	taşın+Verb+Neg^DB+Adj+AorPart
+taşınmaz	taşınmaz+Noun+A3sg+Pnon+Nom
+taşınmaz	taşınmaz+Adj
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

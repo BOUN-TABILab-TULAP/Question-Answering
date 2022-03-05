@@ -1,0 +1,7 @@
+1	Hindistan	Hindistan	Noun	Prop	A3sg|Pnon|Nom	5	SUBJECT	_	_
+2	hangi	hangi	Adj	Adj	_	3	MODIFIER	_	_
+3	sistemle	sistem	Noun	Noun	A3sg|Pnon|Ins	5	INSTRUMENTAL.ADJUNCT	_	_
+4	_	yönet	Verb	Verb	_	5	DERIV	_	_
+5	yönetilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	6	SENTENCE	_	_
+6	.	.	Punc	Punc	_	0	ROOT	_	_
+

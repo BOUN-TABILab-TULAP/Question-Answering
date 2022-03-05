@@ -1,0 +1,213 @@
+Question: Hiposantr depremin nerede oluşturduğu kısımdır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Amblem</DOCTITLE>
+<TEXT>
+
+Amblem (Fransızca: emblème) (imlek, belirtke), bir fikri veya bir kurumu temsil eden görsel simgedir.
+Simge ile neredeyse eş anlamlı olarak kullanılsa da, daha kesin kurallarla belirlenmiş ve neyi temsil ettiği kesin olarak bilinir. 20. yüzyılın sonlarından itibaren Türkçe'de görülen İngilizceleşme eğilimiyle, "logo" sözcüğü de amblem yerine sıklıkla kullanılır oldu.Logotype ile karıştırılmamalıdır ve aslında amblem ve logo ayrı- farklı şeylerdir , karıştırılmamalıdır.
+Amblemler 3;e ayrılır 
+1-harflerden oluşan amblemler
+2-biçimleriyle firma hakkında bilgi veren amblemler
+3-harf ve resimsel biçimlerin kullanıldığı amblemler.
+Logo.
+"Logotype," logodaki yazılı kısımdır. Yani firma ismini okuduğumuz kısımdır.
+Tam Türkçe karşılığı yoktur. Çoğu logoda, logotype ve logo aynı görseli oluşturur. Örneğin Coca-cola’nın meşhur yazı tipi (font) aynı zamanda Coca-cola logosudur. Harflerin birbirine olan oranları ve uyumlulukların görsel olması için uğraşılır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>WAV</DOCTITLE>
+<TEXT>
+
+WAV (Waveform Audio File Format), IBM ve Microsoft'un küçük ses kayıtlarını herhangi bir bilgisayarda çalmak için geliştirdiği, sıkıştırma içermeyen bir ses dosyası biçimidir. İngilizce'de "dalga" anlamına gelen "Wave" kelimesinin ilk üç harfinin alınmasıyla oluşturulmuştur.
+Yaygın olan dosya biçimleri arasında en basitlerinden biridir. Windows 3.1'den bu yana Windows ortamında ses dosyalarının ana biçimi olarak kullanılmaktadır. WAV (.wav) uzantısıyla tanımlanır. Öncelikle kişisel bilgisayarlarda kullanılmasına rağmen, internetteki küçük müzik dosyaları için de yaygın olarak kullanılmaya başlanmıştır. Apple ve Macintosh tarafından da geçerli ve kullanılabilir bir biçim olarak kabul edilmektedir.
+Yapısı çok basittir. MP3 ve diğer sıkıştırılmış dosya biçimlerinin aksine WAV'lar sadece sayısallaştırılmış seslerdir. Basittirler, sıkıştırma uygulamamasının etkisiyle sesin kalitesini düşürmezler, ancak çok yer kaplarlar.
+WAV üç kısmdan oluşur. Bunlardan birincisi dosyayı WAV olarak adlandıran kısımdır. İkinci kısım değişkenlerin nitelendirildiği kısımdır. (örn: örnekleme frekansı). Uçüncü kısımdaysa asıl bilgi yani müzik parçası depolanır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gitar</DOCTITLE>
+<TEXT>
+
+Gitar, parmakla veya pena ile çalınan, esasen sekiz şekline benzeyen, yan kısımları oval, sap üzerinde ses perdeleri olan, telli bir çalgı türü. Gitarlar genelde altı tellidir ve farklı çeşitlerdeki ağaç türlerinden yapılabilirler. Gitar neredeyse her türlü müzik türünde kullanılan bir müzik aletidir.
+Gitar türleri.
+Klasik gitar.
+Klasik gitar, tüm gitar türlerinin atası olarak tanımlanabilir. Gitarın gövdesinin ortasında "ses deliği" denilen yuvarlak bir boşluk bulunur. Gitarın telleri titreştiğinde gövdenin içinde bulunan hava titreşir ve tek çıkış noktası olan bu yuvarlak boşluktan dışarı ses olarak geri çıkar. Klasik gitarda; kalın 3 tel, ipek üzerine sarılmış çelik, ince 3 tel ise naylondur. Genellikle parmak ile çalınır. Klasik gitarda sağ elin görevi daha fazladır. Sağ eli kullanarak gitarda çok farklı ritim ve harmonikler oluşturulabilir.
+Genelde klasik ve flamenko tarzı müziklerde kullanılır.
+Akustik gitar.
+Görünüş itibariyle klasik gitarı andıran akustik gitarın gövdesi, klasik gitardan biraz daha şişman ve basıktır. Daha dar bir sapa ve çelikten yapılmış tellere sahip olması, akustik gitarın klasik gitarla arasındaki en büyük farktır. Tellerin çelikten olması, akustik gitarın klasik gitardan daha basınçlı gergin bir sapa sahip olmasını ve sesinin klasik gitardan daha sert ve temiz çıkmasını sağlar. Genellikle akustik gitarların en kalın 4 teli sarımlı çelik, diğer 2 teli ise sarımsız çeliktir. Akustik gitarlar genellikle penayla çalınır. Rock, Blues, ve Caz müzik türlerinde çok kullanılan bir gitar türüdür.
+Elektro gitar.
+Elektro gitar çok basit bir tanımla tellerin titreşimini gövdesinde bulunan manyetikler sayesinde elektrik akımına çeviren ve bir amfi yardımıyla akımı yüksek seviyede sese dönüştürebilen gitar türüdür. Diğer gitarlarla elektro gitarların kısımları aynıdır. Ek olarak elektro gitar için birkaç bölüm daha eklenebilir. Bunlar: Tremolo kolu, manyetikler, ses ve ton ayarı, switch...
+Bas gitar.
+Çalışma prensibi elektro gitara benzer. Fakat sesi normal gitarlardan 1 oktav kalındır. Portede bas gitar için "Fa" anahtarı kullanılır. Değişik çeşitlerde bas gitarlarda bulunmaktadır: genelde 4 telli, 12 telli, 6 telli, 7 telli, 5 telli, perdesiz, kafasız.
+Perdesiz gitar.
+Ara sesleri verebilmek için yapılmıştır. Normal gitara çok benzese de oldukça farklı bir ses rengine sahiptir. Perdesiz gitarı 1976 yılında Erkan Oğur, Türk müziği seslerine olan ihtiyacı için üretmiştir. Daha sonraları perdesiz elektrik gitar, 8 telli perdesiz gitar, çift saplı elektrik ve klasik perdesiz/perdeli gibi farklı modelleri üretilmiştir.
+Lap steel gitar.
+Hawaii yöresine ait bir gitardır. Gitar 6, 7 ve 9 telli olarak kullanılmaktadır. Gitar çalınırken genellikle kucaktadır. Diğer gitarlardan farklı olarak, fretlere basılarak değil, gitaristin sol eline takdığı bir metal yardımıyla tellere dokunularak çalınır.
+7 telli gitar.
+7 telli gitar; Klasik gitarda bulunan 6 ana telin (yukarıdan aşağı; mi, la, re, sol, si, mi) haricinde bir kalın veya ince tel daha eklenmesiyle oluşan bir gitar çeşididir.
+12 telli gitar.
+12 telli gitarlarda genellikle çelik teller kullanılır. Folk, blues ve rock and roll tarzlarında kullanılır.
+Weissenborn gitar.
+Weissenborn ya da diğer deyişle H. Weissenborn bir tür lap slide gitardır ve Los Angeles'da 1920'ler ve 1930'larda Hermann Weissenborn tarafından üretilmiştir. 
+Yaklaşık olarak 5000'den daha az sayıda orijinal enstrüman üretilmiştir ve kaç tanesinin halen sağlam kaldığı bilinmemektedir. Marka şu anda reprodüksiyon ürünleri için kullanılmaktadır.
+Jazz gitar.
+Göbekli, boş veya yarı dolu gövdeli ve genellikle caz müzikte kullanılan geniş gövdeli gitar türü. 
+Gitarın kısımları.
+Sap.
+Gitarın klavyesinin de bulunduğu kısımdır. Bu klavyede perdeler bulunur. Klasik gitardan hem kalınlık hem de genişlik açısından daha ince olan elektro gitar klavyesi ise genelde 18 ile 24 arasında perde sayısına sahiptir. Genellikle sapın içinden "truss rod" adı verilen bir metal ayar çubuğu geçer. Zamanla eğilebilen bu sap, bir vida yardımı ile eski haline geri getirilebilir. Akort burguları en uçta bulunur ve genellikle metal bir aksama sahiptir.
+Köprü.
+Gitarda telleri gövdeye bağlayan kısımdır. Zamanla değişim geçirmiş olmakla beraber, değişik çeşitleri de mevcuttur. Köprü, sabit ya da oynar olabilir. Oynar köprülü gitarlarda köprü bir kol (tremolo kolu) yardımı ile ileri geri hareket ettirilebilir. Bu ileri veya geri harekette köprüye bağlı olan teller gerilir ya da gevşer. Tellerin gerilip gevşemesi telden çıkan sesi etkileyeceğinden gitardan farklı notalar elde edilebilir. Köprüler genelde metalden yapılır. Köprünün baz ayarlarına dikkat edilmelidir, tellerden birinin kopması halinde elektro gitar geri dönüşü olmayan hasar görebilir.
+Eşik.
+Gitarın sapında, telleri akort burgularına gitmeden önce sonlandıran kısımdır. Genelde ucuz gitarlarda plastikten oluşur. Ayrıca kemikten veya farklı malzemelerden yapılanlar da mevcuttur.
+Manyetik.
+Elektro gitarda veya manyetik takılmış klasik ya da akustik gitarda teldeki titreşimlerin algılandığı kısımdır. Manyetik alanda telin titreşiminin içerideki bir sargıda akım oluşturması prensibi ile çalışır. Çift halinde (Humbucker) ya da tek (Single) olabilir. Bazı manyetikler amplifikatöre çıkış sağlamadan sinyali yükseltebilirler.
+Pasif Manyetikler.
+Ses titreşimlerini elektrik sinyaline herhangi bir elektronik değişime uğratmadan dönüşmesini sağlayan manyetik türüdür. En sık kullanılan manyetik türü olup, sesin tınısı (frekans cevabı) sadece manyetiğin bazı fiziksel özelliklerine (yüksekliğine, mıknatısına, sargısına) bağlıdır. 
+Aktif Manyetiker.
+Bu manyetikler ses titreşimlerini bazı elektronik devreler ile bozulmaya uğratan manyetiklerdir. Sinyali, içerisindeki güç kaynağını (genelde bu bir pildir) kullanarak pre-amp ile güçlendiren, aktif filtrelerle ve gömülü equalizerlar ile sinyalin özgününden farklı olarak enstrumandan çıkmasını sağlayan manyetiklerdir.
+Çalışma prensibine göre 3 tip manyetik vardır:
+Tremolo kolu.
+Tremolo kolu, gitarın eşik bölümünün bitiminde bulunur. Bu kolu öne veya arkaya gevşeterek tellerden farklı ses çıkartılması sağlanır. Klavye yönüne doğru geveşetilerek kalın, eşik yönüne gevşetilerek daha ince seslerle efekt elde edilebilir.
+Akort.
+6 telli bir gitarın standant akort dizisi:
+İnceden kalına doğru E(ince mi) B(Si) G(Sol) D(Re) A(La) ve E(Kalın Mi) dir.
+Aşağıda gitarda "standart tuner" için üstteki sayılar perde numarası olmak üzere nota değerleri verilmiştir.
+Lower tunings (kalınlaştırma).
+Tellerin EADGBE akort dizisinden aynı derecede gevşetilmesiyle oluşan akort dizileri:
+Bütün teller standart diziden yarım perde gevşetilir. Kullanan müzisyenler: Guns N' Roses, Van Halen, Jimi Hendrix, Stevie Ray Vaughan ve Alice in Chains
+Bütün teller bir tam perde gevşetilir. Kullanan müzisyenler: Death, Dream Theater ve Kreator. Nirvana'nın Come As You Are şarkısında duyulabilir.
+Teller 1 ve yarım adım gevşetilir. Kullanan müzisyenler: Behemoth
+Teller 2 adım gevşetilir. Kullanan müzisyenler: Queens of the Stone Age, Dethklok, In Flames, Kyuss
+Teller 2 adım ve 1 yarım adım gevşetilir. Kullanan müzisyenler: Entombed, Dismember Five Finger Death Punch Amon Amarth
+Teller 3 adım gevşetilir. Kullanan müzisyenler: Dream Theater
+Teller 3 adım ve 1 yarım adım gevşetilir.
+Teller 4 adım gevşetilir.
+Teller 4 adım ve 1 yarım adım gevşetilir.
+Teller 5 adım gevşetilir.
+Teller 5 adım ve 1 yarım adım gevşetilir.
+Teller 6 adım (bir oktav) gevşetilir. Bir bas gitar ile aynı oktavdır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Johannes Brahms</DOCTITLE>
+<TEXT>
+
+Johannes Brahms, (7 Mayıs 1833, Hamburg - 3 Nisan 1897, Viyana), Alman besteci, piyanist ve orkestra şefi, 19. yüzyılın ikinci yarısının en önemli Alman romantik akım bestecilerindendir.
+Gençlik yılları.
+17 Mayıs 1833 de Hamburg'da doğan Brahms (Aşağı Sakson - Kuzey Alman) genişçe bir ailenin çocuğuydu. Babası el işçiliğiyle para kazanıyordu, ayrıca Hamburg'taki birkaç dans lokalinde korno ve kontrabas çalarak küçük gruplarla sahne alıyordu. Brahms piyano dersleri alarak müziğe yedi yaşında başladı. Besteciliğe olan yeteneğini genç yaşlarda göstermeye başladı, 1849'da yazdığı "Sevilen Valsler üzerine Fantezi" adlı yapıtı Piyanoçalarlar için çalınması hiç de kolay olmayan bir yapıttır. 
+Brahms genç birisi olarak kendine özgü bir anlatım biçimi geliştirmişti; erken dönem yapıtlarını takma ad ile (G. W. Marcks, Karl Würth) yayınlatıyordu ve bunlara kendine göre yüksek opus numaraları veriyordu. Başlarda yalnızca piyano yapıtları veren Brahms orkestranın olanakları ve sınırları konusunda kendine henüz güvenmiyordu. Daha sonraki yıllarda da orkestra yazısı konusunda yakın çevresinin desteğine başvurmuştur.
+1853 yılında, Reményi adı altında icra eden Macar kemancı Eduard Hoffman (1828-98) Brahms'ı Hannover'de oturan dönemin büyük kemancısı Joseph Joachim ile tanıştırmıştır. Joachim'den çok etkilenen Brahms "Onun çalışında yoğun bir ateş, öyle ki, her şeyi kaderine bırakan bir enerji, ritmdeki kesinlik, sanatçıyı gösterircesine ve onun yapıtlarında (bestelerinde) daha şimdiden büyük bir anlatım gücü görüyorum, yaşıtlarıyla karşılaştırılamayacak bir biçimde..." diye söz eder.
+Joachim'in Brahms'a önerisi, kendisini Weimar'da Saray Müzik Direktörü olan Franz Liszt' e tanıtması olmuştu. Liszt'in Brahms'a sözü ise Breitkopf & Härtel Yayınevi'ne yazdığı bir mektupta kendisinden söz etmesi olmuştu. Brahms bu durumdan pek bir beklenti çıkaramamış ve Joachim'e bir mektup yazarak kendisini sanat yaşamına sokmasını istemişti. Bunun üstüne Joachim Brahms'ı Düsseldorf'ta oturan besteci Robert Schumann' la tanışmasını önermişti.
+Yeni Yollar.
+25 Ekim 1853 yılında Robert Schumann tarafından "Leipzig"'te kurulan 'Müzik için Yeni Dergi' nin (Neuen Zeitschrift für Musik) "Yeni Yollar" başlığı altında ilk yazısını Schumann yazmış ve Brahms için şunları belirtmiştir:
+' "(...) ve o geldi işte, bu seçkin ve kahraman nöbeti tutabilecek yeni bir kan. Hamburg'lu Johannes Brahms, oranın karanlık sessizliğinde yaratılmış ama sanatın bu zor uzlaşısında kendisine fazlasıyla ve coşkuyla ilgilenmiş bir öğretmenden biçimlenmiş, kısa bir süre önce saygıdeğer yakınım olan bir usta tarafından bana sözü edilen Brahms. Bütün bu belirtileri üzerinde taşıyan o: O seçkin birisi. (...)" '
+Schumann, Müzik Yayınevi Breitkopf & Härtel'in de Brahms'ı kabul etmesini dileyerek, yayınevinin Brahms'ın birkaç çalışmasını yayınlamsını istedi. Onun kişisel olarak bu konuya yüklenmesi yirmi yaşındaki Brahms'ı Almanya'da sanki bir gecede ünlü birisi yapmıştı. Müzikle ilgilenen bir sürü kişi ondan bir şeyler dinlemek, yapıtlarını görmek, bu yeteneği daha çok tanımak istiyordu. Bu durum Brahms'ı ürkütmüştü. Schumann'a yazdığı mektuplarında korkularını dile getirmiş, kamu ölçütlerine göre yetersiz kalabileceğini belirtmişti. Kendini aşırı eleştirerek bunalıma girip birkaç çalışmasını yakıp yok etmişti.
+Brahms'ın Müziği.
+Brahms'ın yapıtları bütün Avrupa müzik geleneğini kapsar. Yalnızca Beethoven'la kalmayıp Johann Sebastian Bach, Georg Friedrich Händel ve Giovanni Pierluigi da Palestrina'nın da Brahms müziğinde etkisi vardır.
+Müzik tarihsel çalışmaların sonucunda Brahms müziğini üç döneme ayırabiliriz: Birinci dönem „Ein Deutsches Requiem“ e kadar olan kısımdır. İkincisi; ikinci piyano konçertosuna kadar olan kısımdır. Üçüncüsü ise 3.Senfoni ile başlar. İlk dönem için romantik temel üzerine oturmuş denilebilir. İkinci dönem güçlü bir klasik vurgusudur. Üçüncü dönem için ise romantik ve klasik temelin kendi içinde erimesi diyebiliriz.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dişi organ</DOCTITLE>
+<TEXT>
+
+Dişi organ, Ginekeum olarak da bilinir, Angiosperm çiçeğinin en iç dairesini meydana getiren pistillerin toplamı. Bir pistil ovaryum, stilus (dişicik borusu) ve stigma olmak üzere 3 kısımdan oluşmaktadır.
+Angiospermlerde pistiller karpellerden meydana gelmiştir. Tohum taslakları gymnospermlerdeki gibi açıkta olmayıp karpeller tarafından sarılmıştır.
+Pistillerin stigması polenleri tutacak şekilde papiller yapıdadır, bazen parçalı da olur. Stilus stigma ile ovaryum arasında yer alır. Silindir şeklinde uzun kısımdır, bu kısım bazen eksik, bazen dallanmış da olabilir. Stilus genellikle ovaryumun tepesinden çıkar, bazen de 
+tabanında çıkar (Ballıbabagillerde olduğu gibi), bu taktirde ginobazik adını alır.
+Ovaryum pistilin şişkin olan ve içinde tohum taslaklarının (ovül) bulunduğu kısımdır. Ovaryum karpellerden meydana gelmiştir. Ovaryumu meydana getiren karpeller tek olabildiği gibi, çok sayıda da olabilirler. Ovaryum tek karpelden meydana geldiğinde bu karpelin iki kenarı birbiri ile birleşmiştir. Birden fazla karpelden meydana gelmişse, karpellerin kenarları birbiri ile birleşerek tek pistil oluşturmuşlardır.
+Bir çiçekte ginekeum meydana getiren karpeller serbest veya bileşik olabilir, karpeller serbestse her karpel bir pistil meydana getirir, bileşikse hepsi birlikte bir pistil meydana getirir.
+Ovaryum ile ilgili terimler.
+Karpeller serbestse apokarp ovaryum, bileşikse sinkarp ovaryum olarak adlandırılırlar.
+Ovaryum genellikle sapsızdır, doğrudan doğruya çiçek tablasına (resaptakulum) tutunur. Bazı bitki çiçeklerinde kısa veya uzun bir sapa sahiptir, bu sapa ginofor adı verilir. Bu sapın tepesinde ginekeumla birlikte androkeumda mevcutsa androginofor adını alır. Ovaryumun içinde tohum taslakları yer alır, bunlar karpellerin kenarlarına plasenta adı verilen noktalara bağlanmışlardır. Tohum taslaklarının ovaryum içindeki dağılış tarzına plasentalanma adı verilir. Tohum taslakları, döllenmeden sonra tohumu meydana getiren
+yapılardır. Bunlar funikulus adı verilen bir sapla plasentaya bağlanırlar. Tohum taslağı (ovül), embriyo kesesi ve onu saran nusellus ve nusellusun dışında yer alan 1 veya 2 integumentten oluşur.
+Kapalı Tohumlu Bitkilerde Çift Döllenme.
+Tohum taslakları içinde yer alan embriyo kesesi başlangıçta tek hücreden ibarettir, gymnospermlerdeki makrospora karşılıktır. Embriyo kesesi ana hücresinin (makrospor anahücresi) mayoz bölünmesi ile meydana gelmiştir. Dolayısıyla haploittir. Art arda 3 mitoz bölünme ile 8 nukleus meydana gelir, bunlardan 3’ü mikropil tarafında kalır, 3’ü
+karşı kutupta, kutuplardan gelen 2 nukleus da ortada birleşir ve embriyo kesesi sekonder nukleusunu meydana getirir. Mikropil tarafındaki nukleuslardan ortadaki yumurta nukleusu, diğerleri de sinergit hücrelerinin nukleusunu oluştururlar. Karşı kutuptakilerde antipot
+hücreleridir. Bu şekilde embriyo kesesi döllenmeye hazırdır.
+Pistilin stigması üzerine çeşitli vasıtlarla gelen polenlerin çimlenmesi ve gelişmesi ile oluşan sperma nukleusları döllenmeyi sağlar. Stigma yüzeyinde şeker, protein ve büyüme maddelerinin bir kısmından oluşan salgılar oluşur. Polenler stigma yüzeyine geldiği zaman, bu salgı maddeleri polenlerin çimlenmesini teşvik eder. Polen tanesinin dış zarı şişer ve porlardan polenin vejetatif hücresi dışarı çıkarak stilusdan aşağıya doğru polen tüpünü meydana getirir. Polen tüpü stilusu
+katederek ovaryumdaki ovüllere kadar ulaşır. Genellikle ovüllerin mikropilinden uzanarak nusellusu geçer ve embriyo kesesine ulaşır. Polen tüpü embriyo kesesine ulaştığında embriyo kesesi içine 2 sperma nukleusunu bırakır. Sperma hücrelerinden biri yumurta hücresi ile 
+birleşir zigot meydana gelir, ikinci sperma nukleusu embriyo kesesi sekonder nukleusu ile birleşir ve besidoku (endosperm) meydana gelir.
+Stigma üzerinde çimlenen ve polen tüpünü meydana getiren polenler, önce tek nukleusludurlar, polen tüpü stilusu katederek tohum 
+taslağının mikropilinden içeriye girip embriyo kesesine ulaştığında 2 sperma nukleusuna sahiptir. Polen tüpü embriyo kesesinin sinergitlerinin bulunduğu kısma ulaşır ve içindeki sperma nukleuslarını buradan embriyo kesesine bırakır. Bundan sonra angiospermlerin önemli
+karakteristiği olan çift döllenme vukua gelir. Sperma nukleuslarının biri ile yumurta hücresinin birleşmesi ile meydana gelen zigot embriyoya gelişirken, ikinci sperma nukleusu ile embriyo kesesi sekonder nukleusunun birleşmesinde besidoku (endosperm) meydana gelmiş olur. 
+Ovülleri saran integumentler de tohum kabuğuna dönüşerek tohum gelişmesi tamamlanmış olur. Bu gelişmeye paralel olarak da ovaryumu meydana getiren karpellerde farklılaşarak meyveyi oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerküre</DOCTITLE>
+<TEXT>
+
+Yerküre, Dünya gezegenidir ve genelde yapısı ile ilgili konularda kullanılır. Yerbilim (jeoloji) çalışmaları ile yapısı anlaşılmaya çalışılan Yerküre’ye ait bilgilerin çoğu, sismik dalgaların incelenmesi sayesinde elde ediliyor. Depremler sonucu oluşan doğal oluşan veya bilim adamlarının oluşturduğu yapay sismik dalgaların, farklı yapılardaki katmanlarda farklı davrandıkları biliniyor. Yerküre içinde hareket eden bu dalgaların davranışlarının incelenmesi sonucunda Yerküre’nin iç yapısı anlaşılabiliyor. 
+Yerküre'nin merkezinde katı haldeki nikel ve demirden oluşan iç çekirdek bulunuyor. Bu çekirdeği çevreleyen dış çekirdek ise, içindeki kükürt ve oksijen nedeniyle ergime noktası düştüğü için sıvı halde bulunan nikel ve demirden oluşuyor. 4.5 milyar yıldır soğumasına karşın hala çok sıcak olan çekirdek, Yerküre'nin manyetik alanının oluşmasındaki etken. Daha sonra gelen ve Alt Manto ve Üst Manto diye ikiye ayrılan Manto ise, kısmen ya da tümüyle eriyik durumdaki kayaçlardan oluşan magmayı içeriyor. Demir, magnezyum, silikon ve oksijence zengin mineralleri içeren Manto’dan sonra, bu katmanların en incesi olan ve okyanuslar ile kıtaları barındıran Yerkabuğu bulunuyor. Oksijen ve silikonca zengin Yerkabuğu’nda, okyanus tabanlarını oluşturan bazalt, en çok bulunan kayaç. Kıtalardan oluşan kabuk kısmı ise bazalt ile daha az yoğun olan granit, kumtaşı, kireç taşı gibi kayaçları barındırıyor.
+Yer'in içi, diğer gezegenler gibi, kimyasal olarak tabakalardan oluşur. Yer'in silikattan oluşmuş bir kabuğu, yüksek viskoziteli bir mantosu, akışkan bir dış çekirdeği ve katı halde bir iç çekirdeği vardır.
+Yer'in kütlesi ve hacmi günümüzde oldukça duyarlı olarak bilinmektedir. Buna dayanarak yoğunluğunun 5,51 g/cm3 olduğu hesaplanabilir. Yerkürenin derinliklerinde yüksek basıncın yol açtığı sıkışma hesaba katıldığında, bu değerin sıkışmamış halde 4 g/cm3 civarında bir yoğunluğa denk gelebileceği tahmin edilir. Sismik veriler, ses dalgalarının yerküre derinliklerinde iletilme hızlarına dayanarak, kürenin değişik noktalarındaki madde yoğunluklarının birbirine oranlarını belirlemeye yardımcı olmuştur. Bu bilgilerin birleştirilmesi sonucunda Yer'in iç yapısına ilişkin güvenilir bir model ortaya konabilmiştir. Yer katmanlarının hangi kimyasal bileşenlerden oluştuğu ve fiziksel özellikleri, doğrudan gözlemlere dayanmayan, ancak, sismik verilere dayanan yoğunluk ölçümleri, elementlerin evrende dağılım oranları, gök taşlarından elde edilen veriler, yer kabuğu ve nadiren manto kaynaklı örneklerin analizi, ve olası bileşiklerin fiziksel özelliklerine ait laboratuar verilerinin bir bütün halinde göz önünde tutulması ile varılan yaklaşık bir tahmine göre belirlenebilmektedir.
+Çekirdek.
+Sismik dalgaların izlenmesi, yer yüzeyinden 2900 km derinlikte ani bir yoğunluk artışına işaret eder. Bu, 3470 km yarıçapında bir metal çekirdeğin varlığı ile açıklanmaktadır. Daha da derinde, 1250 km yarıçapında ve 'iç çekirdek' olarak adlandırılan daha yoğun bir tabaka bulunur. S dalgalarının çekirdek-manto sınırında kesintiye uğraması, en azından dış çekirdeğin, bu tür dalgaların ilerleyemeyeceği sıvı bir yapıya sahip olduğunu düşündürmektedir. Yer'in manyetik alanı da bu düşünceyi destekler özelliktedir. İç çekirdeğin ise katı yapıda olduğu sanılmaktadır. Modeller, iç çekirdeğin sıcaklığının 5100 °C, basıncının ise merkezde 4 milyon atmosfer civarında olduğu varsayımına dayanır. İç çekirdeğin büyük ölçüde demir ve nikelden oluştuğu, bu bileşenlerin, yüksek basıncın ergime sıcaklığını yükseltmesi nedeniyle katı halde bulunacağı ve yoğunluğun 13,6 g/cm³ civarında olacağı tahmin edilmektedir. Dış çekirdek ise, demir ve nikele ek olarak oksijen ve kükürt içerir. Bu ek bileşenler, bu katmanın yoğunluğunu düşürürken (en dışta 10 g/cm³, en içte 12,3 g/cm³) aynı zamanda metallerin ergime sıcaklığını düşürerek, iç çekirdeğe göre daha düşük basınç ve sıcaklık altında sıvı bir ortam yaratılmasına neden olurlar.
+Manto.
+Manto, yerkabuğu ile çekirdek arasında kalan kısımdır. Yer kabuğunun en ince olduğu okyanus tabanlarında 5 km, en kalın olduğu büyük dağ sıralarının altında ise 70 km derinlikte başlar ve 2900 km. derinliğe kadar devam eder. Yer kürenin toplam hacminin %82'den fazlasını, kütlesinin ise %67'sini oluşturur. Çekirdekte bulunan demir, nikel, oksijen ve kükürte ek olarak magnezyum, alüminyum ve silisyum içerir, ve büyük kısmı, bu elementlerin çeşitli şekillerde kombinasyonlarından oluşmuş kayaç yapıda bileşiklerden oluşur. Yer kabuğundan farklı olarak bu minerallerin demir ve magnezyum içeriği, silisyum ve alüminyum içeriğine oranla çok daha fazladır. Manto katmanının yoğunluğu, yüzeyden derine doğru artarak 3,3 g/cm³'ten 6 g/cm³'e kadar değişir ve ortalama 4,5 g/cm³ kadardır. Sıcaklığı, çekirdek ile komşu alanlarda 4000 °C kadar yüksek, yer yüzeyine en yakın olduğu okyanus tabanlarında ise 100 °C kadar düşük olabilir. Ancak, manto tabakasının tüm derinliği boyunca genel olarak katı halde bulunduğu sanılmaktadır. Mantonun yer kabuğuna komşu çok ince bir kısmı dışında plastik özellikler gösteren bu katı, belli bir akışkanlık derecesi ile, yavaş bir konveksiyon hareketi gösterir, bu yolla yerkürenin derinliklerindeki sıcak materyel yavaşça yüzeye doğru çıkarak ısının yüzeye aktarılmasını sağlar. Yer kabuğunun hareketlerinin ve sonuçta levha tektoniği etkinliğinin sürdürülmesini sağlayan güç, bu akımlardan kaynaklanır. Mantonun akışkanlığı, beklenenin tersine, sıcaklıkların daha yüksek olduğu derin tabakalarda yüzeye göre daha azdır. Bunun nedeni derinlerdeki yüksek basınç altında mineral bileşikliklerin ergime sıcaklıklarının ortam sıcaklığına oranla çok yüksekte kalmasıdır. 700-2900 km derinlikler arasında kalan 'alt manto' bu durumdadır. 700 kilometrenin üzerinde kalan 'üst manto' ise, sismik dalgaları belirgin derecede yavaş iletmesinden anlaşıldığı gibi, daha akışkan yapıdadır ve bu nedenle "astenosfer" -zayıf küre, güçsüz küre- olarak adlandırılır. Bu bölgedeki 1000 - 1300 °C arasındaki sıcaklıklar, kayaç bileşiklerinin ergime sıcaklığına çok yakındır ve üst manto materyeli sıvı hale geçme sınırına çok daha yakın bulunur. Günümüzde, astenosfer tabakasının en fazla 400 km derine kadar indiği, 400-700 km arasının ise 'geçiş bölgesi' olarak adlandırılması gerektiği kanısı yaygınlaşmaktadır. Mantonun, kalınlığı okyanus tabanlarında birkaç kilometre ile kıta tabanlarında 70 kilometre arasında değişen en dış tabakası düşük sıcaklığı nedeniyle sert ve kırılgan bir katı yapısındadır ve yer kabuğu ile bütünleşmiş biçimde "litosfer"=taş küreyi oluşturur. Manto içerisinde yerel sıcaklığın o bölgedeki bileşenlerin ergime sıcaklığından daha yüksek olduğu sınırlı alanlar, magma olarak adlandırılan sıvı ortamı içerirler ve volkanik etkinliklerden sorumlu tutulurlar.
+Yer kabuğu.
+Yer kürenin en dış katmanıdır. Yer kürenin toplam hacminin % 2'den azını, kütlesinin ise yüzde 4'ünü oluşturur. Daha derin tabakalara oranla düşük yoğunlukta ve katı yapıdadır. Manto katmanının en dış bölümü ile birlikte taş küreyi oluşturarak, derindeki nisbeten akışkan astenosfer tabakası üzerinde yüzercesine hareket eder. Yer kabuğunun okyanus tabanlarında kalan kısmı oldukça ince (5-10 km), kıtalardaki kısmı ise daha kalındır (30-70 km). Yer kabuğu yoğunluğunun okyanus tabanlarında daha yüksek (3,2 g/cm³, kıtalarda ise daha düşük (2,7 - 3 g/cm³) olduğu bilinmektedir. Bu farklılıklar nedeniyle, 'okyanus kabuğu' (ya da 'okyanusal kabuk') ve 'kıta kabuğu' ('kıtasal kabuk') şeklinde iki ayrı tanım yerleşmiştir.
+Bakın:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Horst</DOCTITLE>
+<TEXT>
+
+Horst, merdiven biçimli fay serisindeki iki tektonik çukur arasında veya bir tektonik çukurun iki yanında yükselen kısımdır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kulis</DOCTITLE>
+<TEXT>
+
+Tiyatro sahnesinin arkasında bulunan, oyuncuların hazırlıklarını yaptıkları ve sahneye çıkış için bekledikleri bir kısımdır.Bazı tiyatro sahnelerinde 2 adet bulunur.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gnomon</DOCTITLE>
+<TEXT>
+
+Güneş saati kadranı ya da gnomon, güneş saatinde gölgeyi tabana aktaran kısımdır. Grekçede "gösterge" anlamına gelmektedir. Matematik ve ilgili bilim dallarında kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mütekarip</DOCTITLE>
+<TEXT>
+
+Mütekarip, Yusuf Has Hacip tarafından yazılan Kutadgu Bilig eserin sonuna eklenmiş olan parçalardan gençliğine acıyıp ihtiyarlığından bahseden 44 beyitlik bir kısımdır.
+Mütekarip, fa'ülün fa'ülün fa'ülün fa'ül vezniyle yazılmıştır.
+
+</TEXT>
+</DOC>
+

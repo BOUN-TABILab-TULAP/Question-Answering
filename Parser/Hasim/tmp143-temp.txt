@@ -1,0 +1,23 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dayk Dayk+Noun+Prop+A3sg+Pnon+Nom
+batolit batolit+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+sill sill+Noun+Prop+A3sg+Pnon+Nom
+gibi gibi+Postp+PCGen gibi+Postp+PCNom
+şekiller şekil+Noun+A3pl+Pnon+Nom şekil+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+magmanın magma+Noun+A3sg+Pnon+Gen magma+Noun+A3sg+P2sg+Gen
+nerede nere+Pron+Ques+A3sg+Pnon+Loc
+katılaşarak katı+Adj^DB+Verb+Become+Pos^DB+Adverb+ByDoingSo
+oluşturduğu oluş+Verb^DB+Verb+Caus+Pos^DB+Adj+PastPart+P3sg oluş+Verb^DB+Verb+Caus+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+şekillerdir şekil+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

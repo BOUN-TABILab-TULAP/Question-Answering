@@ -1,0 +1,10 @@
+1	NAFTA	Nafta	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	anlaşmasının	anlaşma	Noun	Noun	A3sg|P3sg|Gen	4	SUBJECT	_	_
+3	_	imzala	Verb	Verb	_	4	DERIV	_	_
+4	_	_	Verb	Verb	Pass|Pos	5	DERIV	_	_
+5	imzalanmasının	_	Noun	NInf	A3sg|P3sg|Gen	6	POSSESSOR	_	_
+6	amacı	amaç	Noun	Noun	A3sg|P3sg|Nom	7	SUBJECT	_	_
+7	_	ne	Pron	QuesP	A3sg|Pnon|Nom	8	DERIV	_	_
+8	nedir	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

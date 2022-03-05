@@ -1,0 +1,55 @@
+Kıyı okyanus dinamiği uygulamaları radar
+Kıyı okyanus dinamiği uygulamaları radar (CODAR) Boulder, Colorado NOAA Dalga Yayılımı Laboratuvarı'nda 1973 ve 1983 yılları arasında geliştirilen taşınabilir, toprak tabanlı, Yüksek Frekans (HF) radar bir türünü açıklar. CODAR ölçmek ve kıyı sularında yüzeye yakın okyanus akıntıları eşleştirmek için izin veren bir non-invaziv bir sistemdir. Bu taşınabilir ve neredeyse gerçek zamanlı olarak sahada çıkış okyanus akımı haritalar sunuyor. Dahası, CODAR kullanarak bu dalgaların yükseklikleri ölçmek mümkündür ve yerel rüzgar yönü dolaylı tahmin sağlar.
+Ekipman.
+CODAR çapraz döngüler oluşan kompakt bir anten sistemi ve alınması için bir kamçı ve radyo palslarının iletmek için bir kamçı kullanmaktadır.
+Sistem araçla taşınan ve modern enstrümantasyon için 1050 Watt minimum kapasite önerilir (taşınabilir güç kaynağından ameliyat olma yeteneğine sahip olduğunu edilebilir.
+CODAR hemen hemen tüm hava koşullarında çalışabilir (o bir sıcaklık tolere edilebilir, 0 ° F (-18 ° C) 90 ° F (32 ° C) ve hatta yüksek oranda anten sistemi rıza CODAR dağıtım nispeten küçük boyutları Sinyal hızla karadan zayıflatılmış gibi kalabalık ve kayalık kıyı alanları. Ancak, anten mümkün olduğunca yüzey sularına yakın olarak monte edilmelidir.
+Modern ekipmanların Çalışma Frekans Aralığı 3 ila 50 MHz gider ve o kadar iki hafta süre gözetimsiz operasyon için programlanabilir.
+Ana ekipman korunaklı bir ortamda yakın-by muhafaza ve bilgilerin saklandığı sistemi donanımı içerir elektronik segmentte için kablolu edilir. Bir mini bilgisayar radar kontrolleri ve sinyalleri işler ve operatör taşınabilir klavye terminal üzerinden sistem ile iletişim kurabilir.
+Ham spektral verileri gerçek zamanlı çıkışlarını elde etmek için on-line işlenebilir ve son veri ürünleri basılı çiziciye bir grafik terminal üzerinde görüntülenen veya çıktısı alınabilir. Aksi takdirde, daha sonraki bir tarihte off-line işlem gerçekleştirilebilir.
+Uygulamalar.
+Yüzey akıntıları Ölçüm CODAR kullanılarak elde edilen birincil sonucudur.
+Aralıklar elde etti ve çözünürlük çevresel koşullar ve anten yerleştirme ile değişir. Ancak genel olarak, onların uzun menzilli modunda modern CODAR 3-12 km çözünürlüğe sahip deniz 100-200 km'ye dışarı ölçebilirsiniz. Frekansını artırarak, 200-500 m gibi ince çözünürlükler elde edilebilir, ancak gözlem aralığı (15-20 km) kısaltılır.
+Ancak, gerçek aralık antenlerin yakınında radyo etkileşimler, yüksek okyanus devletler ve zemin koşulları ile sınırlı olabilir. Kuru ve kayalık zemin sinyal gücünü azaltır oysa Islak ve nemli kumlu topraklarda, toprak dalga yayılımı geliştirmek.
+Tek bir CODAR sistemi toplam yüzey akımı vektörleri olup olmadığının tespiti için, doğru ya da uzağa böylece radar seyahat yüzey akımının sadece bileşeni ölçebilen, en az iki sistem dizilişi gereklidir.
+CODAR sitelerinin bir dizi bölge kapsama elde etmek için kullanılabilir.
+Birden fazla radar yapılandırmada, iki radar sistemleri arasındaki aralık uzun menzilli açık okyanus modu için yaklaşık 15 ile 40 km ve için 8 ila 20 km "yüksek frekansta, daha yüksek çözünürlük, daha kısa menzil" modunu olmalıdır.
+Tipik haliyle, CODAR veriler deniz yankı gürültüsünün azaltılması için bir saat boyunca ortalaması alınır. Bu nedenle, mevcut haritalar her saat üretilebilir. Bu süre, yaklaşık 20 dakika için düşürülebilir, fakat veri bu kadar kısa bir süre içinde gürültülü olabilir.
+CODAR adlı ölçümleri askeri ve sivil amaçlar için ilginçtir. Ana uygulamalar gerçek zamanlı ve larva nüfus bağlantı değerlendirmesinde örnek kıyı mühendisliği ve kamu güvenliği projelerinin, seyir deniz yolu planlanması, okyanus kirliliği azaltma, arama ve kurtarma operasyonları, petrol sızıntısı azaltılması için vardır.
+Ayrıca, CODAR kullanılarak elde edilen veriler, küresel kaynak izleme ve hava tahmin modellerinin girdi olarak kullanılan ve gelgit ve fırtına-dalga ölçümleri için özellikle yararlı vardır.
+Ayrıca, ölçümlerden dalga enerjisinin yayılma yönü ve kıyı ve açık deniz yapılarının tasarımı ve operasyonda çok sayıda pratik uygulamalar için önemli verilerdir en enerjik dalgalar, dönemi elde edilebilir.
+Nasıl çalışır? (Işleyişi arkasındaki Teori).
+Bu bantta elektromanyetik dalgalar okyanus yüzeyinde rüzgar odaklı yerçekimi dalgaları ile orantılı olarak dalga boylarına sahiptir CODAR, HF bandında (3-30 MHz) dalgaların gökyüzü iletimini kullanarak çalışır.
+Müşteri zorunluluk olarak göre, tek veya çok-frekanslı modunda kullanılabilir.
+Okyanus yüksek frekanslı sinyal okyanus yüzeyine ulaşan pürüzlü bir yüzeye sahip olduğu gibi, olay enerjisinin bir kısmı geri kaynağına doğru dağınık ve alıcı yansıyan sinyal ölçer.
+Bu ince filmlerden (ya da yansıtma) enerji kaynağı tek frekanslı için şekil ve deniz yüzeyinin hareket, olsa bile, alıcıda bir enerji spektrumu üretir.
+Çeşitli iletim frekansları için spektral getiri Yorumlama yüzey akımları ölçmek için, özellikle okyanus hakkında bilgi çıkarma ve anahtarıdır.
+Bragg Saçılma Kanunu'nun bir sonucu olarak; güçlü Alınan dönüş, fiziksel dalga boyu tam bir buçuk sürece iletilen radar dalga gibidir okyanus doğru veya uzak radar doğrudan kaynağından seyahat dalgalar ve geliyor.
+Dönüş sinyali işlenir ve spektral analiz, farklı frekanslarda iki baskın zirveleri kabul edilebilir deniz eko Doppler spektrum sağlar.
+Uzakta onların bilinen frekansları bu zirvelerin Deplasmanlı "echo Doppler kayması" olarak adlandırılan ve bir yüzey akımının radyal hızı değerlendirmek için izin verir. Yani; hit yüzeyi ve radar arasındaki hat boyunca dağılım hızı. Aslında, hızın bu bileşeni büyüklüğü sinyal kayması derecesi ile orantılıdır.
+Bu nedenle, CODAR ilgi deniz yüzeyinin sektöründe dalga hızının radyal bileşeninin bir tahmin sağlamak için (sektör ve yönlü açıya radar mesafe ile birlikte) Doppler kaynaklı frekans değişimi ölçer.
+Yüzey akıntıları ölçülmesi.
+Akımları ölçmek için, CODAR ekipmanları, üç bileşeni hesaplar:
+Akımların radyal hız hesaplanması.
+CODAR anten gönderilen sinyalin bilinen bir frekansı vardır ve ışık hızında hareket eder. Bu nedenle, sinyal dalga boyu (ışık / frekans dalga boyu = hız) olarak bilinir.
+Bragg Kanunu istismar CODAR rezonans sadece verilen dalga boyu için oluşacağını verilen dağınık HF sinyali maksimize:
+"Λ_s = λ_t / (2 * cos (φ))"
+burada "λ_s" Yüzey okyanus dalgası dalga boyu "λ_t" iletilen sinyal ve "φ" dalga boyu sinyali ve okyanus yüzeyi arasındaki geliş açısı olduğu
+CODAR antenler genellikle deniz seviyesinde yerleştirilir gibi, insidans teta açısı sıfır olarak kabul edilebilir. Bu nedenle, denklem azaltır:
+"Λ_s = λ_t / 2"
+Bu yayılan sinyal iletilen sinyalin bir buçuk, faz içinde olacak tekrar antene serpilir sinyale eşit bir dalga boyuna sahip dalgalar çarptığında anlamına gelir. Bu nedenle, bu dalgalar CODAR sistem tarafından ölçülür "güçlü" ve böylece kolayca tanımlanabilir dağınık bir sinyal üretecektir.
+Dolayısıyla, mevcut hız dalgalarının Doppler Shift belirlenerek ekstre edilir.
+Onlar yansıtan dalgalar hareket olmadığını varsayalım Ancak, yukarıdaki denklemler, basitleştirilmiş bir model oluşturmaktadır. Bu durum, hareket, tabii yanlış arasında olup, saçılan sinyal (ve bu nedenle dalga boyu) frekansı, iletilen sinyalin aynı değildir. Aslında, "dalgalar uzaklaşan dönüş frekansını azaltmak ise alıcı doğru hareket dalgalar, dönüş sıklığını artırmak".
+Sonra başka bir Doppler kayması ("mesafe kadar taşınmış") ölçülerek, gözlemlenen ve bu radyal hız belirlemek mümkündür Doppler formülü ile yüzey akımı bileşeni "ν_s":
+"Mesafe kadar taşınmış = ν_s / λ_s"
+Mesafenin hesaplanması hedef.
+hedef aralık iletilen sinyalin tek dönüş sinyali süresi çıkarılarak elde edilen zaman gecikmesi, başlayarak hesaplanır.
+Açısal yönde hesaplanması hedef.
+CODAR bir "yön bulma sistemi" dir. sinyali iki dairesel antenler ve monopol tarafından alınır. Monopol gelen sinyalin yönü değişmez aldığı sinyali Oysa, (90 ° açıyla yerleştirilmiş) iki döngü antenler tarafından alınan sinyal yönü ile değişir yok. Bu bilgi sinyalinin yönünü belirlemek için bir yazılım izin verir.
+Akımların radyal hız hesaplanır sonra, uzaktan hedef, ve açısal yönü, akım vektörünü tespit etmek ve mevcut vektör haritaları inşa etmek mümkündür hedef. Aslında iki CODAR sitelerinden vektör verileri olarak üst üste geldiği alanı için, bu akım hız ve yönünü hesaplamak mümkündür ve
+1979 yılında yapılan yüzey Drifters ve hata analizi ile karşılaştırmalar CODAR önlemleri en az 10 cm / s doğrulukla akımları yüzey olduğunu göstermektedir.
+2010 yılında, çağdaş CODAR ekipmanları perakendeciler normal ortam durumda bir tipik doğruluk toplam akım hızının <7 cm / s ve gelgit bileşenin 1-2 cm, garanti.
+Ancak, sistemin doğruluğu, sinyal-gürültü oranları, geometri ve işaret hataları gibi birçok faktöre bağlıdır.
+Sınırlamalar.
+Belirli uygulamaları izin vermez sisteme içkin bazı sınırlamalar vardır. Burada ana pratik sınırlamalar sunulmuştur:
+Belirli bir bakış açısı için, daha önce ele alındığı gibi, tek bir CODAR istasyonu akışının sadece bileşen doğru seyahat ya uzaklıkta konumundan tespit etmesine imkân verir. İki veya daha fazla sitelerden Radyal akımlar vektör yüzey akımı tahminleri elde etmek için kombine edilmelidir. İki CODAR istasyonları sözde "taban sorunu" seçeneğini kullanarak Dahası, ölçüm etkileyebilir. Araçlar hem hız aynı bileşenini ölçmek oluşur. Düzgün akım vektörünü Bu sorunun oluşmaması ve gidermek için, genellikle iki radyal 30 ° ve 150 ° dahil bir açı olmalıdır.

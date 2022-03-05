@@ -1,0 +1,33 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Sürdürülebilirlik	sür+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+AorPart^DB+Noun+Ness+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+demektir	de	+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

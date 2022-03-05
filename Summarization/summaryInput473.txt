@@ -1,0 +1,170 @@
+Question: Canlılarda ilk sınıflandırmayı kim yapmıştır?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Canlı</DOCTITLE>
+<TEXT>
+
+Canlı ya da Organizma; biyoloji ve ekolojide, fonksiyonlarını yaşama mümkün olduğunca uyum sağlayarak sürdüren basit yapılı moleküllerin veya karmaşık organlar sistemlerinin bir araya gelmesiyle oluşan varlıklar için kullanılan bir kavramdır.
+Canlılar; çevreye uyum sağlama ve üreme, kalıtım gibi ortak özelliklere sahip doğal varlıklar grubunun ve "yaşam"ın temel öğeleridir.
+Kökenbilim.
+Canlı sözcüğü Farsça'dan Türkçe'ye geçmiş olan "can" sözcüğünden türemiştir. "Can" yaşama, yaşam anlamındadır. Buna sahip olanlar ise canlıdır, yani "yaşayan"dır. Organizma ise araç/alet anlamındaki Yunanca "ὄργανον (organon)" sözcüğünden gelir.
+Canlıların sınıflandırılması.
+Evrende birçok canlı vardır ve bilim insanlarının bunların her birini tek tek incelemesi mümkün değildir. Bu yüzden, canlılar sınıflara ayrılırlar. Canlıların belirli özellikleri göz önüne alınarak yapılan gruplandırmaya sınıflandırma veya biyosistematik denir. Sınıflandırmayı inceleyen bilim dalına sistematik (taksonomi) denir.
+Canlılar temel olarak 6 grupta sınıflandırılır.
+Canlıların ortak özellikleri.
+Bütün canlılarda bu özelliklerin hepsi görülmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sınıflandırmanın Tarihi  (EBA)</DOCTITLE>
+<TEXT>
+
+Elbise dolabınızdaki elbiseleri bir düzen ve tertip içerisinde yerleştirmeniz gerekse ne yaparsınız? Muhtemelen önce yazlıkları farklı kışlıkları farklı yerlerde tutarsınız. Sonra bu kıyafetleri de kendi aralarında pantolonlar, çoraplar, gömlekler ve benzeri şekillerde ayırırsınız. Bu düzenli yapı, aradığınız şeyi bulmanıza yardım etmenin yanında yeni aldığınız bir kıyafeti nereye koymanız gerektiğini de söylemektedir. 
+Bilim insanları da dünyada yaşayan canlıları sınıflandırma çabası içerisindedirler. Bu çaba muhtemelen insanlık tarihinin başlangıcına dayanır. Ancak bilinen ve kabul gören ilk sınıflandırmayı Yunan filozof Aristoteles (Resim 112) yaklaşık 2400 yıl önce (MÖ 384-322) yapmıştır. Aristo, yaptığı sınıflandırmada canlıları iki ana grup altında toplamıştır. Bitkiler ve hayvanlar olarak ayırdığı canlıları daha sonra alt gruplara bölerek bildiği tüm organizmaların sınıflandırmasını tamamlamıştır. 
+Bitkileri, yapı ve büyüklüklerine göre otlar, çalılar ve ağaçlar olarak ayırırken hayvanları ise suda yaşayanlar, karada yaşayanlar ve havada yaşayanlar şeklinde sınıflandırmıştır. Yine bu dönemde gözlem yoluyla elde edilen bilgi birikimine ve tecrübeye dayanarak yapılan bir başka sınıflandırmaya göre de canlılar; yararlılar ve zararlılar, gerekliler ve gereksizler olarak sınıflandırılmıştır. 
+Aristo bu sınıflandırmayı yaparken canlıların sahip oldukları bazı fiziksel yapıları dikkate almıştır. O günün şartları düşünüldüğünde, canlıların gözle görülebilir bu fiziksel yapılarına (kol, bacak, kanat, ağaç dalları vb.) göre yapılan sınıflandırmalar çok da yanlış olarak görülmemelidir. 
+Biyologlar canlıların dış görünüşlerine, görev benzerliklerine ve yaşadıkları yere göre yapılan sınıflandırmaya yapay (suni=ampirik) sınıflandırma demektedirler. 
+Yüzyıllar boyu Aristo’nun sınıflandırma sisteminin kullanılmasına rağmen, ilerleyen zamanlarda yeni canlı türlerinin bulunması ve biyoloji alanındaki gelişmeler ile bu sistem kullanışlılığını kaybetmiştir. Rönesans döneminde artan coğrafi keşiflerle birlikte, insanlar başta yeni bitki türleri olmak üzere yeni canlı türleri ile tanışmaya başlamıştır. Bilim insanları, farklı coğrafi bölgelere seyahat eden ticaret gemilerinden her gittikleri yerlerden farklı bitki ve hayvan örnekleri getirmelerini istemişlerdir. Elde edilen zengin hayvan ve bitki örneklerinin sınıflandırılmasında Aristo’nun sınıflandırma sisteminin yetersiz kalması ile birlikte, canlıları sınıflandırmada yeni yaklaşımlara ihtiyaç duyulmuştur. Bilim insanları da araştırmalardan elde edilen bulgular arttıkça sınıflandırma ile ilgili modellerini de yenilemişlerdir. 
+17. yüzyılda John Ray (1627-1705) bitkileri araştırmış ve tohum yapılarına göre bitkileri sınıflandırmıştır. John Ray 1686 yılında yazdığı “Bitkiler Tarihi” adlı kitabında tür kavramına yer vermiştir. 
+18. yüzyılda İsveçli botanikçi Carolus Linnaeus’un (Line) (1707-1778) oluşturduğu sınıflandırma, günümüzde de kullanılan modern sınıflandırmanın temelini oluşturmuştur. Linnaeus o dönemde yeni bulunan canlı türlerini de tanımlamak için yeni bir sınıflandırma yapmıştır. Linnaeus, canlıları morfolojik ve yapısal özelliklerine göre gruplandırmıştır. Bitkiler konusunda başarılı bir bilim insanı olan Linnaeus, bitkileri incelerken onların da cinsiyetleri olduğunu fark etmiştir. Bitkilerin erkek organ ve dişi organ sayılarının bitkiden bitkiye değişiklik gösterdiğini fark eden ilk bilim insanı Linnaeus olmuştur (Resim 116, Resim 117). Sınıflandırmasını bu yönde geliştiren Linnaeus gruplama yaparken John Ray’in geliştirdiği “tür” kavramını kullanmıştır. Bu kavramı bilim dünyasına kazandıran Ray, Linnaeus’un çalışmalarına ilham veren kişi olarak tanımlanabilir. 
+Morfoloji, canlıların yapı ve biçimini inceleyen ve fiziksel özelliklerini araştıran bilim dalıdır. Morfoloji, canlıların organları gibi iç bölümlerinin biçimlerini incelediği gibi canlıların renk, şekil, doku, yapı gibi diğer özelliklerini de inceler. 
+Canlıları sınıflandırmaya başlayan Linnaeus, başlangıç olarak Aristo’nun yaptığı gibi canlıları hayvanlar ve bitkiler olarak iki âlemde toplamıştır. Çalışmaları sırasında, Aristo’nun sunduğu âlem ve Ray’in sunduğu tür grupları Linnaeus’un yapacağı sınıflandırma için yetersiz kalmıştır. Canlıları sınıflandırırken hiyerarşik bir yapı kurması gerektiğini düşünüp ara kademeler oluşturan Linnaeus, âlemleri benzer sınıflara, sınıfları benzer takımlara, takımları benzer cinslere ve cinsleri de benzer türlere ayırmıştır. Bilim dünyasına kattığı bu fikirlerinin yanında Linnaeus’un canlı türlerine verilen isimlerle ilgili oluşturduğu sistem belki de en önemli katkısı olarak karşımıza çıkmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jean-Jacques Rousseau</DOCTITLE>
+<TEXT>
+
+Jean-Jacques Rousseau (28 Haziran 1712 Cenevre, Cenevre Cumhuriyeti ve Kantonu - 2 Temmuz 1778 Ermenonville, Fransa), Cenevreli filozof ve yazar. Siyasi fikirleri, Fransız Devrimini etkilemiştir. Düşünceleri özellikle, Devrim'den sonra kurulan yeni devletin kalkınmasında, toplumun sosyal yapısında ve eğitim sisteminde etkili olmuştur. 
+Hayatı.
+Jean-Jacques, 28 Haziran 1712 günü, günümüzde İsviçre sınırları içerisinde bulunan Cenevre kentinde doğmuştur. 4 Temmuz 1712'de vaftiz edilmiştir. Rousseau'nun annesi Suzanne, doğumdan dokuz gün sonra, doğum sonrası enfeksiyon kaptığı için hayatını kaybetmiştir. Rousseau, daha sonraları bu olayı "ilk talihsizliği" olarak nitelendirecektir. Bir saatçinin oğludur. Babası Isaac, Topkapı Sarayı'nda saat tamirciliği yapmıştır. 9-10 yaşlarına kadar babası Isaac ve teyzesi ile kalmıştır. Rousseau on yaşında iken babası Isaac, şehirdeki bir toprak sahibi ile kavga etmişti. Bu tartışmanın ardından babası, Rousseau'yu kardeşine emanet edip Nyon'a taşınmıştır. Isaac, Nyon'a giderken yanında Rousseau'nun teyzesini de götürmüştür. Isaac o günden sonra bir daha asla Rousseau'yu ziyaret etmemiştir. Daha sonradan Isaac'in, Rousseau'nun teyzesi ile evlendiği açığa çıkar. Babası tarafından terk edilen Rousseau, amcası ile bir süre kaldıktan sonra evden kaçarak Cenevre'yi terk eder. 1728-1738 yılları arasında, sekreterlik, müzik hocalığı ve tercümanlık yaparak, Fransa ve İtalya'da dolaşmıştır. Fransa'da yazıları yasaklanınca daha sonra aralarının açılacağı dostu David Hume'un daveti üzerine İngiltere'ye gider. Kalvenist olarak vaftiz olan Rousseau, Torino'da iken Katolikliğe geçer, daha sonra tekrar Kalvenist olur.
+2 Temmuz 1778 tarihinde, 66 yaşında iken sabah yürüyüşü sırasında düşer ve kan kaybından dolayı hayatını kaybeder.
+Edebî Yönü.
+Jean – Jacques Rousseau’nun yapıtlarındaki karmaşıklık onun; doğal hukuk kuramcısı, doğal hakları yadsıyan biri, aydınlanmacı, aydınlanma ilkelerini yerle bir eden biri, demokrasinin inançlı savunucusu, demokrasiyi ayaklar altına alan biri, burjuva liberal devriminin hazırlayıcısı, öte yandan böyle bir devrimin olumsuzluklarını çok önceden gösteren, hatta reformculuğu bile benimseyen biriymiş gibi birbiriyle çelişen ve çatışan çok karşıt düşüncelerle yorumlanmasına sebep olmuştur. Bu sebeple Rousseau anlaşılması güç bir düşünür olmuştur. Kendisini hep halktan birisi olarak görmüş, halktan kişiler arasında daha rahat etmiştir. Romantizmden etkilenmiş ve etkileri görülmüştür.
+Rousseau, doğru bir siyasal toplumun temellerini ortaya koyabilmek için olguların bir yana bırakılması gerektiğini belirtir. Çünkü ona göre salt olgulardan hareket edildiğinde, çıkarlar, yararlar ön plana yerleştirilmekte ve böylece adalet, hukuk ayaklar altına alınmaktadır. Rousseau, güçlünün haklı kabul edildiği, siyasal toplumun kökenine olguları yerleştiren, olgusal verileri ve kuramları eleştirmektedir. Yurttaşı, ortak benliği, halkı, devleti yaratan bir “toplum sözleşmesi”ni ve bu sözleşmeye toplumdaki her bireyin dahil olması gerektiğini savunur. Halk olmanın temelinde egemenliğin var olması gerektiğini düşünür. Yasaların olmadığı bir yerde devletten söz edilemeyeceğini savunmuştur. Yasaların, halkın tümü için geçerli olması gerektiğini düşünmektedir.
+Halk sayısı arttıkça, yönetici sayısının azalması gerektiğini savunan Rousseau, “demokrasi, aristokrasi, monarşi” şeklindeki sınıflandırmayı benimsemiştir. Rousseau’ya göre demokrasi biçimindeki hükümette yönetici, halkın tamamı ya da büyük bir kısmıdır. Aristokrasi biçimiyse küçük bir azınlığın yönetimidir. Monarşik hükümette ise yönetme yetkisi tek bir kişidedir. 
+Rousseau’ya göre yurttaşlar olmadan erdem, erdem olmadan özgürlük, özgürlük olmadan devlet olamaz. Rousseau; devletin iktidara değil, halka ait olduğunu savunmuş ve ulus-devlet anlayışını benimsemiştir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2007 İspanya Bisiklet Turu</DOCTITLE>
+<TEXT>
+
+2007 İspanya Bisiklet Turu, 1-23 Eylül 2007 tarihlerinde yapılan 62'nci İspanya Bisiklet Turu'dur. İlk defa onyıllık dönemlerde yarış İspanya'nın Galiçya bölgesinde Vigo'dan Óscar Pereiro'ya düz bir etapla start aldı. Yarış Denis Menchov tarafından kazanıldı. Denis ayrıca dağlar ve birleştirilmiş sınıflandırmayı kazandı, ayrıca puan mücadelesinde ikinciliği elde etti.
+Etaplar.
+Etap 1 - 1 Eylül, 2007: Vigo > Vigo, 145 km.
+Açıklama:DNS(Did Not Start):Start almadı. DNF(Did Not Finished):Etabı bitirmedi.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Oymak (taksonomi)</DOCTITLE>
+<TEXT>
+
+Oymak, familya ile cins arasında yer alan taksonomik grup. Aralarında büyük taksonomik farklar olan veya birçok türün birbirleriyle kesin çizgilerle ayrılmadığı durumlarda sınıflandırmayı kolaylaştırmak için kullanılır. Bazen yeterli olmadığı durumlarda alt oymak terimide kullanılır. Diğer taksonomik gruplarda olduğu gibi büyük harflerle başlar ve tek kelimeden oluşur ama italik yazılmaz.
+Örneğin köpekgiller (Canidae) familyası Vulpini ve Canini olmak üzere iki oymağa ayrılır. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Web dizini</DOCTITLE>
+<TEXT>
+
+Web dizini, web sitelerine bağlantı kurmayı ve siteleri sınıflandırmayı esas alır.
+Web dizini bir arama alt yapısı değildir ve aranan anahtar sözcüklerine dayanan listeleri görüntülemez. Dizinler kategori ve alt kategoriler ile web sitelerini listeler. Çoğunlukla web dizinleri, site sahiplerine sitelerini doğrudan önermeye müsaade eder ve düzenleyiciler tarafından gözden geçirildikten sonra uygun kategoride listelenmesini sağlayan yapılardır.
+En çok bilinen genel amaçlı web dizinlerine örnek olarak Açık Dizin Projesi (ODP) verilebilir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Familya</DOCTITLE>
+<TEXT>
+
+Familya, ortak özellikleri aynı olan yakın cinslerin topluluğu. Familya isimleri kendisine dahil olan bir cins adından yola çıkarılarak, sonuna bitkilerde -ceae hayvanlarda -dae ilave edilerek belirlenir. Türkçe isimlendirme türkçe cins adı ve "gil" eki birleştirilerek oluşturulur. Örneğin "Pinus" cinsine çam adı verilir, Pina-ceae ve çam+giller gibi. Bazen bu kuralın dışına çıkıldığı da görülür. Familya isimleri tek kelimedir ve hiçbir zaman "italik" yazılmaz. 
+Sınıflandırmayı kolaylaştırmak amacıyla bazen üst familya ve alt familya gibi taksonomik basamaklar tercih edilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Louis Agassiz</DOCTITLE>
+<TEXT>
+
+Jean Louis Rodolphe Agassiz (28 Mayıs 1807 - 14 Aralık 1873), İsviçre doğumlu ABD'li zoolog, glasiyolog ve jeolog, ABD'nin dünya çapında tanınmış bilim adamlarından. Eğitimci Elizabeth Cabot Cary Agassiz'in eşi.
+Gençliği ve eğitimi.
+Louis Agassiz İsviçre'nin Fribourg kantonu Motier’de (Vully) doğdu. İlk eğitimini evde aldıktan sonra Bienne’de dört yıl orta öğretime devam etti ve temel eğitimini Lozan’da tamamladı. Tıp mesleğini seçen Agassiz sırasıyla Zürih, Heidelberg ve Münih üniversitelerinde doğa tarihi üzerine bilgisini arttırdı ve özellikle botanik üzerine çalıştı. 1829 yılında Erlangen’de felsefe doktoru, 1830 yılında Münih’te tıp doktoru derecelerini kazandı. Paris’e taşındıktan sonra Alexander von Humboldt ve Georges Cuvier’nin yardımlarıyla jeoloji ve zooloji kariyerine başladı. Daha önce pek ilgilenmediği balıkbilim (ihtiyoloji), sonraları hayatının en büyük meşgalesi oldu. Günümüzde en çok bu konudaki çalışmaları ile tanınır. 
+İlk çalışmaları.
+Johann Baptist von Spix ve Carl Friedrich Philipp von Martius, 1819 - 1820 yıllarında Brezilya’ya yaptıkları bilimsel yolculuğun ardından Avrupa’ya dönüşlerinde birçok doğal nesnenin yanı sıra, özellikle Amazon Nehri’nden toplanmış Brezilya’nın tatlı su balıklarının önemli bir koleksiyonunu da getirmişlerdi. 1826 yılında ölen Spix, bu balıkların geçmişi hakkında fazla çalışma fırsatı bulamamıştı ve Martius, bunu gerçekleştirmek için okuldan yeni mezun olmasına rağmen Agassiz’i seçmişti. Agassiz yoğun çalışma hayatı boyunca karakteri hâline gelecek büyük bir çalışma şevkiyle işe girişti ve 1829 yılında Brezilya balıklarını tanımlamayı bitirerek çalışmasını yayımladı. Bunu Neuchâtel Gölü’ndeki balıkların geçmişi üzerine yaptığı araştırma izledi. Araştırma planlarını büyüten Agassiz 1830 yılında "Orta Avrupa Tatlısu Balıklarının Tarihçesi" 'nin tanıtımını yayımladı. Eserin birinci bölümü ancak 1839 yılında yayımlandı ve eser 1842’de tamamlandı.
+1832 yılında Neuchâtel Üniversitesi’ne doğa tarihi üzerine öğretim görevlisi olarak atandı. Kısa sürede, burada bulunan fosil balıklar ilgisini çekti. Glarus’un arduvaz ve Monte Bolca’nın kireçtaşı yataklarındaki zengin fosil kaynakları biliniyordu ancak bunlar üzerine çok az bilimsel çalışma yapılmıştı. Agassiz, daha 1829 yılında kendisine dünya çapında ün kazandıracak olan eserinin temelini atacak ilk çalışmalarını planlamıştı. Beş ciltlik "Recherches sur les poissons fossiles" ("Fosil Balıklar Üzerine İnceleme"), 1833’ten 1843’e kadar aralıklarla yayımlandı. Kitap, çoğu Joseph Dinkel tarafından yapılan harikulade resimlerle bezenmiştir. Agassiz bu çalışma için malzeme toplamak üzere Avrupa’nın başlıca müzelerini dolaşırken Paris’te Cuvier ile karşılaşmış ve çalışması için hem teşvik hem de yardım almıştır.
+Agassiz paleontolojik çalışmalarının sonucunda yeni bir ihtiyolojik sınıflandırma gerektiğini ortaya koydu. Fosillerde balıkların yumuşak dokularına nadiren rastlanıyordu. Genel olarak dişler, balık pulları ve yüzgeçler bulunuyordu ve çok az örnekte iyi korunmuş kemiklerle karşılaşılıyordu. Dolayısıyla balıkları pullarına ve diğer derimsi uzantılarına göre dört gruba ayıran bir sınıflandırmayı kabul etti: Ganoidler, Plakoidler, Sikloidler ve Stenoidler. Agassiz konuyu bilimsel temele oturtmak için ne kadar çalıştıysa da bu sınıflandırma daha sonra yapılan araştırmalarla değiştirildi.
+Agassiz’in tanımlama çalışmaları, maddi yardım almadığı takdirde kaynaklarının yetmeyeceği bir noktada tıkandı. Bu sırada ‘’Bilimin İlerlemesi için Britanya Derneği’’ ve Ellesmere Earl’ü Francis Egerton yardımına yetişti ve destek oldu. Çalışma için yapılan 1.290 orijinal resim Francis Egerton tarafından satın alınarak Londra Jeoloji Derneği’ne sunuldu. Fosil ihtiyolojisi üzerine çalışmaları nedeniyle 1836 yılında bu dernek tarafından Agassiz’e Wollaston madalyası verilmiştir. 1838 yılında da Kraliyet Derneği’ne yabancı üye olarak seçildi. Bu sıralarda omurgasız hayvanlar ile ilgilenmeye başlamıştı. 1837 yılında, hem yaşayan hem de fosil derisi dikenliler hakkındaki eserinin girişini yayımladı. Bu eserin ilk kısmı 1838 yılında çıktı. 1839-1840 yıllarında İsviçre’nin fosil derisidikenlileri üzerine iki dörtlük cilt yayımladı. 1840-1845 yıllarında da "Etudes critiques sur les mollusques fossiles" ("Fosil Yumuşakçalar üzerine Eleştirel Çalışmalar") adlı eserini yayımladı.
+İngiltere’ye 1834 yılındaki ilk yolculuğundan önce Hugh Miller ve diğer jeologların uğraşları sonucu İskoçya’nın kuzeydoğusunda bulunan Old Red Sandstone'da dikkate değer balık fosilleri gün ışığına çıkarıldı. Burada, "Pterichthys", "Coccosteus" ve diğer türlerin garip biçimleri jeologlar tarafından ilk defa ortaya çıkarılmıştı. Bu fosillerle yoğun olarak ilgilenen Agassiz, 1844-1845 yıllarında "Monographie des poissons fossiles du Vieux Gres Rouge, ou Systeme Devonien (Old Red Sandstone) des Iles Britanniques et de Russie" ("Old Red Sandstone’un ya da Britanya Adaları ile Rusya’nın Devon Sistemi’ndeki Fossil Balıklar üzerine Çalışma ") adlı eserini yayımladı.
+Neuchâtel’deki kariyerinin ilk yıllarında Agassiz bilimsel bir bölümü yönetebilme konusunda da ün yapmıştır. Çabaları sonucunda Neuchâtel Üniversitesi bilimsel araştırmada önde gelen kurumlardan biri hâline gelmiştir.
+Buzul Çağı önerisi.
+Dünya’nın geçmişte bir Buzul Çağı yaşadığını öne süren ilk bilim adamı Agassiz olmuştur. (1837) .
+Daha önce de Saussure, Venetz, Jean de Charpentier ve diğerleri, Alp buzulları üzerine özel çalışmalar yayımlamış ve hatta Charpentier, Jura dağlarının zirvesinde ve eteklerinde dağılmış bulunan alp kayaçlarından oluşan eratik blokların buzullarla taşındığı sonucuna bile varmıştı. Bu durum Agassiz’in dikkatini çekmiş, Charpentier ile birlikte Alplere birçok araştırma gezisi yapmakla kalmayarak, Aar buzullarından birinde bir dağ kulübesine yerleşerek buzun yapısını ve hareketlerini incelemişti. Bu araştırmalar sonucunda 1840 yılında iki ciltlik "Etudes sur les glaciers" ("Buzullar üzerine Çalışma") adlı eserini yayımladı. Bu çalışmasında buzulların ve buzultaşların hareketlerini, geçtikleri yerdeki kayaları oyma ve yuvarlama etkilerini ve Alp dağlarında karşılaşılan yarıkları ve hörgüçkayaları tartışmaya açmıştır. Charpentier’nin, bazı Alp buzullarının Aar ve Rhône nehirlerinin geçtiği geniş düzlüklere ve vadilere geçmişte yayılmış olduğu yönündeki düşüncesini kabul etmekle kalmamış, daha da öteye giderek görece yakın geçmişte İsviçre’nin başka bir Grönland olduğu sonucuna varmıştır. Bahsedilen alanlarda birkaç buzulun uzantısının varlığı yerine Alplerin yüksek rakımlarından başlayan ve kuzeybatı İsviçre’nin tamamını kaplayarak Jura’ların güney eteklerine kadar varan tek bir buz tabakasının varlığını ortaya koymuştur. Sözü edilen buz tabakası, Jura’ların eteklerinden bazı zirvelere kadar çıkmaktadır. Bu eserin yayımlanması tüm dünyada buzul fenomeninin araştırılmasına yeni bir hız kazandırmıştır.
+Buzul hareketleriyle ilgili fenomenlere böylelikle iyice aşina olan Agassiz, William Buckland ile birlikte 1840 yılında bir keşif gezisine çıktı. İskoçya’nın dağlarını gezdiler ve değişik yörelerde eski buzul hareketinin kanıtlarını buldular. Bu keşif Londra Jeoloji Derneği ile yapılan çeşitli yazışmalarla bildirilmiştir. İngiltere, Galler ve İrlanda’nın dağlık bölgelerinde de buzul hareketinin kalıntılarından oluşan yerler olduğu hesaba katıldıktan sonra Agassiz, ""şu anda Grönland’da olanlara benzeyen büyük buz tabakalarının bir zamanlar, katmanlardan oluşmayan çakıl taşı bulunan tüm ülkeleri kapladığını ve bu çakıl taşlarının ilerleyen buzul tabakasının üzerinden geçtiği katmanları ezerek öğütmesiyle oluştuğunu"" belirtmiştir.
+Amerika Birleşik Devletleri’ne yerleşmesi.
+1842-1846 yılları arasında büyük ve zahmetli bir araştırma sonucu zoolojide tür ve gruplar için kullanılan tüm isimleri, kaynaklarıyla birlikte sınıflandırılmış bir liste hâlinde topladığı "Nomenclator Zoologicus" adlı eserini yayımladı. Prusya kralının tahsis ettiği para ile hem Amerika Birleşik Devletleri’nin doğa tarihini ve jeolojisini araştırmak hem de Massachusetts eyaletinin Boston şehrinde bulunan Lowell Enstitüsü’nde J.A. Lowell’dan aldığı davetle zooloji dersleri vermek için 1846 sonbaharında Atlantik’in öte yakasına geçti. Gördüğü finansal ve bilimsel avantajlar neticesinde yaşamının sonuna kadar kalacağı Amerika Birleşik Devletleri’ne yerleşmeye karar verdi. 1847 yılında Harvard Üniversitesi’nde zooloji ve jeoloji profesörlüğüne getirildi. 1859 yılında burada kurduğu Karşılaştırmalı Zooloji Müzesi’nin müdürlüğünü öldüğü güne kadar sürdürdü. Harvard’da bulunduğu süre içinde son Buz Çağı’nın Kuzey Amerika üzerindeki etkisini araştıran ilk isimlerden olmuştur. 
+Agassiz Harvard’da ders verirken aynı zamanda konuk öğretim üyesi olarak Cornell Üniversitesi’nde de ders vermiştir. 1852 yılında Charlestown, Massachusetts’te karşılaştırmalı anatomi üzerine tıp profesörlüğünü kabul etti ancak iki yıl sonra bu görevi bıraktı. Bu dönemden sonra bilimsel çalışmaları azalmış olsa da onlarca yıl boyunca uzmanı olduğu iki branşta, aralarında David Starr Jordan, Joel Asaph Allen, Joseph Le Conte, Nathaniel Shaler, Alpheus Packard ve oğlu Alexander Agassiz’in de bulunduğu birçok değerli bilimadamı yetiştirmiştir. Paleontolojist Charles Doolittle Walcott üzerinde de büyük etkisi olmuştur. Kuzey Amerika bilim çevresindeki bu etki sonucu birçok türe ve Amerika topraklarındaki değişik coğrafi oluşumlara adı verilmiştir. Winnipeg Gölü ve Kızıl Nehir’in Pleistocene dönemdeki öncülü Agassiz Gölü bunlardan birisidir.
+Agassiz o dönemde, bilim çevreleri dışında da dünyanın en çok tanınan bilim adamlarından olmuştur. Longfellow 1857’de çok sevdiği Agassiz’in onuruna "The fiftieth birthday of Agassiz" ("Agassiz’in ellinci doğum yıldönümü") ‘nü yazmıştır. On cilt olarak planladığı "Natural History of the United States" ("Amerika Birleşik Devletleri’nin Doğa Tarihi") adlı eserinin dört cildini 1857-1862 yılları arasında yayımladı. "Bibliographia Zoologiae et Geologiae" adı altında makale kataloğu da 1848 ile 1854 yılları arasında dört cilt olarak yayımlanmıştır.
+1860’larda sağlığının bozulması nedeniyle hem rahatlamak hem de Brezilya balıkları üzerinde yaptığı çalışmalarına kaldığı yerden devam etmek için saha çalışmalarına dönmeye karar verdi. 1865 Nisan’ında Brezilya’ya gitti. 1866 Ağustos’unda döndükten sonra bu gezisini 1868 yılında yayımladığı "A Journey in Brazil" ("Brezilya’da bir Yolculuk") adlı eserinde anlattı. 1871 yılında çıktığı ikinci bir yolculukta Kuzey Amerika’nın güneyinde, hem Atlantik hem de Pasifik kıyılarını dolaştı.
+Mirası.
+1863 yılında Agassiz'in kızı Ida, Boston Senfoni Orkestrası’nın kurucusu Henry Lee Higginson ile evlendi.
+Yaşamanın son yıllarında zooloji biliminin canlı hayvanların arasında öğrenilebileceği bir okul kurmakla uğraştı. 1873'te John Anderson isimli hayırsever Massachusetts’teki Buzzards Koyu’nda bulunan Penikese Adası’nı Agassiz’e verdi ve özellikle deniz zoolojisi olmak üzere doğa bilimleriyle ilgili uygulamalı bir okul projesinde kullanılmak üzere 50.000 ABD Doları bağışladı. Agassiz’in ölümünden hemen sonra kapanan John Anderson okulu hemen yanında bulunan Deniz Biyoloji Laboratuvarı’nın öncüsü sayılmaktadır.
+Agassiz günümüzde buzul çağları üzerine olan çalışması ve Charles Darwin’in evrim teorisine karşı çıkan önde gelen son zoologlardan biri olarak tanınmaktadır. 1873 yılında Massachusetts eyaletinin Cambridge şehrinde öldü ve Mount Auburn Mezarlığı’na gömüldü. Mezartaşı, eski Hotel des Neuchâtelois’nın yakınlarında Aar buzulu üzerindeki kulübesinin yakınlarındaki buzultaştan getirilen bir kaya parçasıdır, mezarını gölgeleyen çam ağaçları da İsviçre’deki eski evinden gönderilmiştir.
+Harvard Üniversitesi’nin kuzeyindeki Cambridge ilkokuluna Agassiz adı verilmiş ve etrafındaki mahalle de zamanla "Agassiz" olarak bilinir olmuştur. Ancak okulun adı 21 Mayıs 2002’de değiştirilerek, 1889 ile 1922 yılları arasında okul müdürlüğü yapmış olan Afrika kökenli Amerikalı Maria L. Baldwin’in adı verilmiştir. Mahallenin adı Agassiz olarak kalmıştır.
+Kuzey Amerika’nın Göller Bölgesi’nde bulunan eski bir buzul gölüne Agassiz Gölü adı verilmiştir.
+"Apistogramma agassizi" (Agassiz cüce sihlidi), "Isocapnia agassizi" (Agassiz kar sineği), ve "Gopherus agassizii" (Çöl kaplumbağası) gibi çeşitli hayvan türlerine adı verilmiştir.
+Mars gezegenindeki bir kratere ve Ay üzerindeki bir burna da adı verilmiştir.
+Irksal sınıflandırma tasarısı.
+1851 yılında yazdığı " Essay on Classification" ("Sınıflandırma üzerine Deneme") adlı eserinde Agassiz, tüm hayvan, bitki ve insan ırklarının sınıflandırılabileceğine inandığını söyleyerek iklimsel bölgelere ayrılmış bir dizi insan ırkı tanımlaması yaptı.
+Bu ırklar şöyleydi: Batı Amerikan ılıman (Kayalık Dağlar'ın batısındaki yerli halklar); Doğu Amerikan Ilıman (Kayalık Dağlar'ın doğusu); Tropik Asyalı (Himalayalar'ın güneyi); Ilıman Asyalı (Urallar'ın doğusu ve Himalayalar'ın kuzeyi); Güney Amerikan Ilıman (Güney Amerika); Yeni Hollanda (Avustralya); Arktik (Alaska ve Arktik Kanada); Ümit Burnu (Güney Afrika); ve Tropik Amerikan (Orta Amerika ve Batı Hint Adaları).
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yabani nergis</DOCTITLE>
+<TEXT>
+
+Yabani nergis ("Narcissus pseudonarcissus"), nergisgiller (Amaryllidaceae) familyasından sürekli çiçek açan süs bitkisi olarak yetiştirilen, sarı çiçekli bir nergis türü.
+Yabani nergisin merkezden çıkan bir sapın ucunda yer alan soluk sarı çiçekleri vardır. Gövde tabanından yükselen yapraklar dar, uzun mızraksı yapıda grimsi-yeşildir.
+Anavatanı Avrupa'nın batısında İspanya ve Portekiz ile doğusunda Almanya ile kuzeyindeki İngiltere ve Galler'dir. Genelde bahçelerde yetiştirilir. Yabani türleri ormanlık, otlaklık ve kayalık alanlarda görülür. Sayıları, ormanlık alanların yok edilmesi, bahçelerde yetiştirmek için soğanların sökülmesi ve bunun yanında tarım alanlarının genişlemesiyle birlikte 19'uncu yüzyıldan beri giderek azalmıştır.
+Yabani nergisin birçok alt türü bulunur ancak tam sayısı uzmanlara göre değişir. Kültivarların sayısı sınıflandırmayı zorlaştırır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkili adlandırma</DOCTITLE>
+<TEXT>
+
+İkili adlandırma ya da binomial nomenklatür, tür adlarının iki kelimeden oluşacak biçimde gösterilmesi sistemi. Carl Linne'nin (1707-1778) bitki ve hayvanların isimlendirilmesi için ikili adlandırma (binomial nomenklatür) yani, 2 sözcükten oluşan (Cins adı+Epitet adı=Tür adı) bir sistem geliştirmiştir. Bu sistem bugün bazı değişikliklere uğramış ise de, prensipler hala binomial nomenklatür kuralları çerçevesinde halen geçerliliğini korumaktadır.
+Tarihçe.
+1707-1778 yılları arasında yaşamış İsveçli bilim adamı Carl Linnaeus, tabii sınıflandırmayı Systema Naturae adlı eserinde en iyi ifade etmiştir. Bu eserin 1. baskısında (1753) bitkiler ilk defa ikili isimlendirme sistemine göre binominal sistematiğinin bilimsel olarak başlangıcını oluşturur.
+Kurallar.
+Sistematikte her canlının bilimsel bir ismi vardır. Bunlar latince veya latinceleştirilmiş kelimelerdir. Bilimsel bir ismin en az iki harflik bir kelimeden oluşması gerekir. Bilimsel isimler tek (uninominal), iki (binominal) veya üç (trinominal) kelimeden oluşur. Şube/bölüm, sınıf, takım, familya ve cins isimleri uninominal olmak zorundadır. Tür isimleri binominal, alt tür isimleri ise trinominal olarak yazılır. Uninominal isimler daima büyük harfle başlar. Binominal isimde birinci kelime cins adı, ikinci ise tür (epitet) adıdır. Cinsin ismi daima büyük, türün ismi ise daima küçük harfle başlar. Bir tür ismi, daima önce cins ismi belirtilerek yazılır, hiçbir zaman tek kelime olarak yazılmaz. 
+
+</TEXT>
+</DOC>
+

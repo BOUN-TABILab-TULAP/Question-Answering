@@ -1,0 +1,14 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Damlama damla+Noun+A3sg+P1sg+Dat damla+Verb+Neg+Imp+A2sg damla+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

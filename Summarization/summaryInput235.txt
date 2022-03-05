@@ -1,0 +1,211 @@
+Question: Ekinoks nasıl meydana gelir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miladî takvim</DOCTITLE>
+<TEXT>
+
+Miladi takvim ya da Gregoryen takvim, Jülyen takviminin yerine Papa XIII. Gregory tarafından yaptırılan takvim. Milad'ı tarih başlangıcı ve Dünya'nın Güneş etrafındaki dönüş süresi olan 365 gün 6 saatlik zamanı "1 yıl" olarak kabul eder.
+Dünyada en yaygın olarak kullanılan takvim olan miladî takvim, senede 10.8 saniye hata oranıyla en güvenilir ve hassas takvimdir.
+Tarihçe.
+4 Ekim 1582'de kabul edilmiştir. Değişik tarihlerde önce Avrupa'da daha sonra diğer ülkelerde yayılmıştır.
+Gregoryen takvim oluşturulurken Jülyen takvimine 10 gün ilave edilmiştir; 5 Ekim Cuma günü, 15 Ekim Cuma olarak kabul edilmiştir. 1752'de kabul eden ülkeler ise 11 gün ilave etmek durumunda kalmışlardır.
+Türkiye.
+Osmanlı İmparatorluğu döneminde, önce Hicrî takvim, sonra da 1 Mart'ı yılbaşı kabul eden Mali takvim kullanılmıştı. Cumhuriyet'in ilanından sonra, Malî 26 Kânun-ı evvel 1341'de (26 Aralık 1925) kabul edilen "Takvimde Tarih Mebdeinin Değiştirilmesi Hakkında Kanun" ve "Günün 24 Saate Taksimi Hakkında Kanun" adlı iki ayrı yasayla 1 Ocak 1926'dan başlayarak Gregoryen takvim benimsendi.
+Yılbaşını 1 Ocak olarak alan bu takvimin yanı sıra günü 12 saatlik gündüz ve 12 saat gece dilimlerine ayıran saat sistemi yerine 24 saatlik bir gün kabul edildi.
+Güvenilirliği.
+Gregoryen takvim, günümüze kadar kullanılan takvimler içinde en az hatalı olanıdır. Günümüzde bir ekinoks yılı 365.242375365 gündür (365 gün 5 saat 49 dakika 12 saniye). Gregoryen takvimde ortalama bir yıl 365.2425 gündür ve gerçek ekinoks yılı uzunluğuna oldukça yakındır. 
+Senede "ortalama" 0.000125 günlük bu ufak hata, 10.8 saniyeye tekabül eder. Takvim hesaplamasında 1 günlük hatanın ortaya çıkması için yaklaşık 8000 yıl geçmesi gerekir. Bununla birlikte 8000 yıl içerisinde bir ekinoks yılının uzunluğu da sabit kalmayacaktır ve hangi uzunlukta olacağı tam olarak bilinemez. Bu nedenlerle Gregoryen takvim yeterli hassasiyette bir takvimdir ve yeniden düzenlenmesi çok uzun bir süreliğine gereksizdir.
+Yılbaşı.
+Daha önce 25 Mart olan yılın ilk günü, 1 Ocak olarak kabul edildi. Şubat ayının 28 gün olması durumu devam ettirildi.
+Artık yıl.
+Artık yıllar, Şubat ayının 28 yerine 29 gün çektiği yıllardır. Bu uygulama, Dünyanın Güneş çevresindeki bir turu 365 gün değil, yaklaşık olarak 365 gün ve altı saat sürmesi nedeniyle her sene sonunda artan 6 saatlik süreleri bir tam güne çevirmek için oluşturulmuştur.
+Gregoryen takvimde sonu -00 ile "bitmeyen" ve 4'e kalansız "bölünebilen" tüm yıllar artık yıldır. Sonu -00 ile biten yıllar, yani yüzüncü yıllar ise eğer 400'e bölünebiliyorlarsa artık yıl olabilirler. Örneğin 1900 yılı artık yıl değilken 2000 yılı artık yıldır.
+Artık yıllar, her dört senede bir tekrar ettiği için, en son artık yıl olan 2012'den itibaren 2016, 2020, 2024... şeklinde 2100 yılına kadar devam edecek; 2100 yılı 400'e kalansız bölünemeyeceği için artık yıl olmayacaktır.
+Düzenlemenin nedeni.
+Bu düzenlemenin nedeni Mart ekinoksunu, 21 Mart tarihine mümkün olduğunca yakın denk getirmektir. Böylece Paskalya bayramı 21 Mart tarihinde veya hemen sonrasında kutlanabilecekti.
+Jülyen-Gregoryen çevrimi.
+Jülyen takvimini Gregoryen takvime çevirmek için günümüzde 13 gün ilave etmek gerekir. 2100 yılından sonra bu fark 14 güne çıkacaktır. Bu durum bazı Ortodoks Kiliselerinin Noel kutlama tarihlerini 7 Ocak yerine 8 Ocak olarak değiştirecektir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekinoks</DOCTITLE>
+<TEXT>
+
+Ekinoks ya da gün tün eşitliği, güneş ışınlarının ekvatora dik vurması sonucunda aydınlanma çemberinin kutuplardan geçtiği an. Gündüz ile gecenin eşit olması durumudur. Yılda iki kez tekrarlanır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aydınlanma çemberi</DOCTITLE>
+<TEXT>
+
+Aydınlanma çemberi, dünyanın karanlık yarısı ile aydınlık yarısını birbirinden ayıran çember şeklindeki hat. 
+Dünyanın kendi ekseni etrafındaki dönüşü ve güneş etrafındaki yörüngesindeki seyahati esnasında bir yarısı güneş ışıklarıyla aydınlanırken, diğer yarısı karanlıkta kalır. Dünyanın dönüşü ve ilerleyişi nedeniyle aydınlanma çemberi de sürekli ilerlemektedir. Aydınlanma çemberi gece ile gündüz arasındaki sınırı oluşturur.
+Ekinoks.
+Dünyanın ekseni, yörüngesi ile açı yaptığı için aydınlanma ekseni sürekli olarak kutuplardan geçmez. Bunun sonucu olarak yıl içerisinde güneş her zaman aynı noktadan doğup aynı noktadan batmaz. Her yıl yaklaşık olarak 21 Mart ve 23 Eylül tarihlerinde güneş ışıkları ekvatora tam dik gelir ve aydınlanma çemberi kutuplardan geçer. Gece ve gündüzün birbirine eşit olduğu bu duruma "ekinoks" veya "gün tün eşitliği" denir.
+23 Eylül Durumu
+Kuzey ve Güney yarım küre
+Güneş ışınları öğle vakti Ekvator’a 90°lik Açı ile düşer .
+Gölge boyu Ekvator’da sıfırdır .
+Güneş ışınları bu tarihten itibaren Güney Yarım Küre’ye dik düşmeye başlar .
+Bu tarihten itibaren Kuzey Yarım Küre’de geceler, gündüzlerden uzun olmaya başlar. Güney Yarım Küre’de ise tam tersi olur .
+Bu tarih Kuzey Yarım Küre’de Sonbahar, Güney Yarım Küre’de İlkbahar başlangıcıdır .
+Aydınlanma çemberi kutup noktalarına teğet geçer. Bu tarihte Güneş her iki kutup noktasında da görülür .
+Dünya’da gece ve gündüz birbirine eşit olur .
+Bu tarih Kuzey Kutup Noktası’nda 6 aylık gecenin, Güney Kutup Noktası’nda ise 6 aylık gündüzün başlangıcıdır.
+21 Mart Durumu
+Kuzey ve Güney Yarım Küre ,
+Güneş ışınları öğle vakti Ekvator’a 90° lik açı ile düşer .
+Gölge boyu Ekvator’da sıfırdır .
+Güneş ışınları bu tarihten itibaren Kuzey Yarım Küre’ye dik düşmeye başlar.
+Bu tarihten itibaren Güney Yarım Küre’de geceler, gündüzlerden uzun olmaya başlar. Kuzey Yarım Küre’de ise tam tersi olur.
+Bu tarih Güney Yarım Küre’de Sonbahar, Kuzey Yarım Küre’de İlkbahar başlangıcıdır.
+Aydınlanma çemberi kutup noktalarına teğet geçer. Bu tarihte Güneş her iki kutup noktasında da görülür.
+Dünya’da gece ve gündüz süreleri birbirine eşit olur.
+Bu tarih Güney Kutup Noktası’nda 6 aylık gecenin, Kuzey Kutup Noktası’nda ise 6 aylık gündüzün başlangıcıdır.
+Aydınlanma çemberi ayrıca 21 Haziran ve 21 Aralık tarihlerinde kutup dairelerine teğet geçer.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekran yanması</DOCTITLE>
+<TEXT>
+
+Ekran yanması, resim yanması ya da halk arasında bilinen adıyla hayalet resim, elektronik bir ekran üzerinde meydana gelen kalıcı renk değişikliği ya da resim lekesidir.
+Ekran yanması nasıl meydana gelir.
+Fosfor tabanlı elektronik bir ekran üzerinde resim yazı ya da herhangi bir şekil uzun süre değişmeden kalırsa renk fosforları olması gerekenden fazla ısınırlar. Bu ısınma ekran üzerinde o uzun süreli yanmayı sağlayan resmin ya da şeklin lekesini bırakır. 
+Ekran yanması nasıl önlenir.
+Ekran yanmaları tüplü televizyonlar dahil CRT,LCD, Led ve Plazma ekranların önemli sorunlarından biridir. Bu sorunun çözülmesi amacıyla TV üreticileri uzun zamandan beri çalışmaktadırlar. Panasonic firması 2011 yılında devreye soktuğu neoplazma TV'lerle bu sorunu önemli ölçüde çözmüştür. Neoplazma TV'lerde sabit görüntü üzerindeki pikseller ışık şiddetini düşürüp yükselterek renk fosforlarının aşırı ısınmasını durdurmakta bu sayede yanma oluşumunu engellemektedirler.
+Bunun dışında TV şirketleri TV üreticilerinin önerisiyle hareketli logo kullanımına başlamışlardır. Hareketli logoların ekran yanmalarını önemli ölçüde azaltması beklenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayali Rehberler: Paralel Ve Meridyenler (EBA)</DOCTITLE>
+<TEXT>
+
+Nasıl ki şehirdeki bir evi bulabilmek için mahalle, cadde, sokak ve ev numarası gibi unsurlara ihtiyaç varsa Yerküre üzerindeki herhangi bir yeri bulabilmek için de hayalî çizgilere (koordinat sistemine) ihtiyaç vardır. Bu nedenle Yerküre’yi enine ve boyuna kestiği varsayılan paralel ve meridyenler tespit edilmiştir.
+Paraleller
+Ekvatordan kutuplara doğru birer derecelik açı aralıklarıyla çizildiği varsayılan çemberlere paralel, yer küre üzerindeki herhangi bir noktadan ekvator düzleminin merkezine doğru çizilen doğru ile ekvator düzlemi arasındaki açıya ise enlem denir.
+Paralellerin Özellikleri:
+- En büyük paralel dairesi Ekvator’dur.
+- Ekvator’ dan Kutuplara gidildikçe çapları ve çevreleri kısalır; enlem dereceleri büyür.
+- Ardışık iki paralel arası uzaklık 111 km’dir.	
+- 90° paralelleri birer nokta halindedir.	
+- Bazı paralellerin özel isimleri vardır.	
+- Paraleller 90 tane Kuzey ve 90 tane Güney Yarım Küre'de olmak üzere toplam 180 tanedir.
+Enlemin Etkileri:
+Enlem; iklimi, güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tanm faaliyetlerinin sınınnı, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını vb. özellikleri etkiler.
+Meridyenler
+Kutup noktalarını birleştiren ve paralelleri dik kestiği varsayılan yarım çemberlere meridyen , herhangi bir meridyen düzlemi Başlangıç Meridyeni düzlemi arasındaki açıya ise boylam denir.
+Meridyenlerin Özellikleri:
+- Başlangıç meridyeni, Londra’nın Greenwich kasabasından geçer.
+- Bütün meridyenlerin uzunlukları eşittir.
+- Aralarındaki mesafe yalnızca Ekvator’da 111 km olup kutuplara gidildikçe azalır.
+- Meridyenlerin uzaklıkları aynı paralel üzerinde birbirine eşittir.
+- Aralarında 4 dakikalık zaman farkı vardır.
+- 180’i Batı, 180’i Doğu Yarım Küre’de olmak üzere toplam 360 meridyen vardır.
+- Aynı meridyen üzerinde tüm noktaların yerel saatleri aynıdır.
+Aynı boylam üzerindeki noktalarda;
+Yerel saat, saat dilimleri, Başlangıç Meridyeni ile aralarındaki zaman farkı, güneşin en tepe noktasına geldiği an, ekinoks tarihlerinde Güneş’in doğuş ve batış saatleri aynıdır.
+Ancak Başlangıç Meridyeni ile olan mesafe ile ekinoks tarihleri dışında güneşin doğuş ve batış saatleri farklıdır.
+Her Noktada Ayrı Bir Saat: Yerel Saat
+Güneş, herhangi bir yerde tam tepe noktaya geldiğinde saat 12.00 olarak kabul edilir. Buna göre hesaplanan saate yerel saat denir. O hâlde her noktanın kendine has bir saati vardır.
+Yerel Saat Hesaplamaları
+Meridyenlerden faydalanarak yerel saat hesaplamaları yapılabilir.
+Ulusal (Ortak) Saat
+Ülkeler kendi sınırları içinde ticaret, ulaşım, haberleşme gibi hizmetlerin yürütülmesinde karışıklık çıkmaması için ülke içinden geçen bir meridyenin yerel saatini ortak saat olarak seçerler. Örneğin Türkiye, ortak saat için 30° doğu meridyenini esas alır.
+Doğu - batı doğrultusundaki uzunluğu fazla olmayan Türkiye’de bir tek ulusal saat kullanılır. Doğu-batı doğrultusundaki uzunluğu fazla olan ülkeler birden fazla ulusal saat kullanır.
+30° doğu boylamında gün içinde Güneş tam tepe noktaya geldiğinde yerel saat 12.00 dir. 45° doğu boylamında ise yerel saat 13.00 tür. Kış döneminde Türkiye 30° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat geri alınır. Yaz döneminde ise Türkiye 45° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat ileri alınır.
+İlk defa Birinci Dünya Savaşı sırasında Almanlar gün ışığından daha fazla yararlanmak amacıyla ileri saat uygulamasını başlattılar. Almanya’yı örnek alan diğer ülkeler de benzer uygulamalara gittiler. Türkiye’de de, 1978 yılında bu uygulamaya geçildi.
+Uluslararası Saat Dilimleri
+İletişim hizmetlerinin gelişmesi ile beraber uluslararası ilişkilerin sağlıklı yürütülebilmesi için uluslararası saat dilimleri belirlenmiştir. Bunun için başlangıç meridyeninin 7°30‘ batısı ve 7°30‘ doğusu 0. saat dilimi olarak kabul edilmiştir. 7° 30' doğu meridyeninden 15'er meridyen doğuya doğru gidildikçe bir sonraki ortak saat dilimine geçilmiş olur. Yani 7° 30’ doğu meridyeni ile 22° 30' doğu meridyenleri arası 1. saat dilimini oluştururken, 22° 30' doğu ile 37° 30' doğu meridyenleri arası 2. saat dilimini oluşturur. Bu şekilde her 15 meridyen bir saat dilimi kabul edilip sürekli doğuya doğru devam edildiğinde 22° 30' batı ile 7° 30' batı meridyenleri arasında 23. saat dilimine ulaşılmış olur. 0. saat dilimi, 24. saat dilimidir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nutasyon</DOCTITLE>
+<TEXT>
+
+Nutasyon (Üğrüm)
+Fizik.
+Katı bir cismin kendi çevresi etrafında dönerken ekseninin yaptığı presesyon üstüne binen dalgalanmalardır. Presesyon hareketi yapan bir cismin genelde açısal hızına veya buna etki eden zorlayıcı kuvvete gelişen herhangi bir değişme nutasyona sebep olur. Dönme hızının artması ve dönme frekansı artar, buda nutasyon hareketinin boyutunu küçültür.
+Astronomi.
+Ekinoks noktalarındaki duruma Ay çekiminin karışması ile yerin dönme ekseninin çizdiği nutasyon konisi üzerinde oluşan kıvrılmalardır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya Günü</DOCTITLE>
+<TEXT>
+
+22 Nisan Dünya Günü, ilk olarak San Francisco’da 1969 yılında düzenlenen Ulusal UNESCO Dünya Konferansında John McConnell tarafından dünyamızın yaşamı ve güzelliğini kutlayarak karşı karşıya kaldığı çevresel tehditlere dikkat çekmek amacıyla bir özel gün düzenlenmesi fikri ile ortaya çıkmıştır.
+John McConnell, Dünya Günü kutlamaları için tarih olarak ekinoks (gece ve gündüzün eşit olduğu) zamanı yani 21 Mart'ı önermiştir. Daha sonra ise çevre sorunlarına büyük bir kamuoyu ile tepki gösteren ilk hareket, Wisconsin Senatörü Gaylord Nelson’un desteği ile ve Denis Hayes'in organizatörlüğünde 22 Nisan 1970 günü ilk Dünya Günü kutlamaları olarak tarihe geçmiştir. Bu kutlamalara yaklaşık 20 milyon kişi katılmış, birçok konferans ve sempozyum düzenlenerek, çevre sorunlarına dikkat çekilerek ABD’nin ilk 'Temiz Hava Yasası' ve 'Temiz Su Yasaları' hazırlanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İskenderiyeli Menelaus</DOCTITLE>
+<TEXT>
+
+İskenderiyeli Menelaus (d. 70 – ö. 140), Yunan matematikçi ve gökbilimci. 
+Yaşamı ve çalışmaları.
+Yaşamı hakkında çok az bilgi bulunan Menelaus'un İskenderiye'de geçirdiği çocukluk yıllarının ardından Roma'ya taşındığı sanılmaktadır. İskenderiyeli Pappus ve Proclus tarafından "İskenderiyeli Menelaus" adıyla anılan matematikçinin Roma'dayken Lucius'la yaptığı bir görüşme Plutarkhos tarafından kaydedilmiştir. 
+Batlamyus (2. yüzyıl), "Almagest" (VII.3) adlı yapıtında Menelaus'un 98 yılının ocak ayında iki gökbilimsel gözlem yaptığını belirtmiştir. Bunlar birkaç gece arayla gerçekleşen Spica ve Beta Scorpii okültasyonlarıdır. Batlamyus bu gözlemlerden ekinoks döngülerini doğrulamada yararlanmıştır. 
+"Sphaerica"'nın Arapça çevirisi Menelaus'un günümüze kalan tek yapıtıdır. Üç kitaptan oluşan bu çalışma, kürenin geometrisi ve gökbilimsel hesaplamalarda kullanımını konu almaktadır. Kitap, küresel üçgen kavramına giriş yapmakta ve Menelaus teoreminin kanıtına yer vermektedir. Bu çalışma 16. yüzyılda gökbilimci ve matematikçi Francesco Maurolico tarafından Yunancaya çevrilmiştir.
+Menelaus krateri, adını bu gökbilimciden almıştır.
+Bibliyografya.
+Menelaus tarafından yazılan kitapların bir bölümü şöyledir:
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Druid</DOCTITLE>
+<TEXT>
+
+Druid, Kelt çoktanrıcılığında genellikle Alplerin kuzeyinde ve Britanya Adaları'nda var olan antik Kelt topluluklarındaki rahip sınıfı. Druid uygulamaları Yunanların "Keltoi" ve "Galatai" Romalıların "Gaul" dedikleri tüm yerli kabilelerin kültürünün bir parçasıydı. Druidler rahiplik, şifacılık, alimlik ve büyü gibi görevleri kendilerinde biraraya getirmişlerdi
+Etimoloji.
+Druid kelimesinin kökeni muhtemelen Keltler tarafından uygulanan ağaç büyüsüne kadar geri gitmektedir. "Deru" kelimesi "sağlam, katı, sabit olmak" anlamına gelir. Kelime ağaçlar için kullanılır hale gelmiştir. Batı dillerindeki tree, truce, true/truth, troth/betroth, duress, endure, drupe gibi kelimelerin kökeni de "Deru" sözcüğüne kadar geri gitmektedir.
+"Weid" ise "görmek" kelimesi ve onun uzantısı olan "bilgelik" ve "bilgi" anlamlarına gelir. İngilizce'deki twit, guide, guise, wit, vision gibi kelimelerin kökeni Weid sözcüğüne uzanır.
+Druidler güneş, ay, yıldızlar gibi tabiatın unsurlarını kutsal kabul eden ve meşe, dağların zirveleri, nehirler hatta bazı bitkilere saygı gösterirlerdi. Ateş bazı uluhiyetlerin bir sembolü addedilirdi ve güneş ve temizlenme ile ilişkiliydi.
+Druid takvimi ay, güneş ve bitkisel döngülerle işlerdi. Arkeolojik kalıntılar her yıl iki ekinoks ve gün dönümünün kutlandığını göstermektedir. Bu festivaller Güneşin konumu ile yapılmaktaydı.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İskenderiyeli Theon</DOCTITLE>
+<TEXT>
+
+Theon (Antik Yunanca: Θέων) İskenderiye, Mısır’da yaşamış Yunan bilgin ve matematikçidir. Öklid’in elementleri ve Klaudyos Batlamyus ‘un el çizelgeleri ile ilgili çeşitli yorumlar yazdığı gibi üzerlerinde eklemeler ve düzeltmeler de yapmıştır. Ayrıca matematik üzerine ün kazanmış olan Hypatia ’nın da babasıdır.
+Yaşamı.
+Biyografi geleneği, Theon’u Mouseion’dan 
+biri olarak tanımlar; aslında hem İskenderiye kütüphanesi hem de Mouseion bir yüzyıl önce imparator Aurelian’ın Palmira İmparatorluğu kraliçesi Zenobia ile olan mücadelesi sırasında yok edilmiştir. Bazı bilginler ise Hristiyan Roma İmparatoru 1. Theodosius’un emriyle piskopos Theophilus tarafından kapatıldığını düşünmektedirler. Sokrates Scholasticus tarafından cinayet sebebi "halkı şiddete teşvik eden politik kıskançlık" olarak gösterilen Hypathia’nın babasıdır.
+Çalışmaları.
+Theon’un en uzun ömürlü çalışması M.S 364 civarı basılan ve 19.yüzyılda resmileşen Öklid’in Elementleri’ne olan eklemesi denilebilir. Bu çalışmasının hacmine, büyüklüğüne karşın çalışmanın, Theon’un Helenistik öncelleri tarafından önemli çalışmalar üzerine yapılmış yorumları içerdiği söylenebilir. Bunlar Öklid üzerine “konferansları”(Synousiai), Batlamyus’un el çizelgelerini ve Almages’i
+ve teknik şair Aratus üzerine yorumları içerir.
+El çizelgeleri üzerine yorumlarından bir tanesinde Theon, belirli antik astrologların ekinoksların devinimlerinde sonsuz harekette durağanlık olmasından ziyade, her 640 yılda bir bunun yerine ters yönelme olduğunu ve son tersliğin M.Ö 158 de olduğuna inandıklarını belirtir.
+Theon bu teoriyi tanımlar ancak desteklemez. Bu düşünce 9.yüzyılda, Thabit ibn Qurra’ya ekinoks deviniminin salınımı üzerine (yanlış olarak) devinim oranından etkilendiğine inandığı bir varyasyonu açıklamak için ortaya bir teori çıkarmasına ilham vermiştir. 
+
+</TEXT>
+</DOC>
+

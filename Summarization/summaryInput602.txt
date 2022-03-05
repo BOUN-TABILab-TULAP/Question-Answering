@@ -1,0 +1,194 @@
+Question: AIDS hastalığının bulaşma yöntemleri nelerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya AIDS Günü</DOCTITLE>
+<TEXT>
+
+Dünya AIDS Günü her yıl 1 Aralık tarihi olarak kabul edilmiştir. Bu gün HIV' in yayılması ve AIDS hastalığının artışına karşın bilincin yükseltilmesi amacına adanmıştır. Böyle bir günün varoluşunun diğer bir amacı ise bu hastalıktan yaşamını yitirenleri anmak ve onları onurlandırmaktır. Hükümetler ve sağlık yetkilileri bu günde çeşitli forumlar ve konuşmalar düzenlerler. 1995 yılından bu yana ABD Dünya AIDS Gününü resmi olarak tanımıştır. Diğer ülke hükümetleri de benzer tutumlar alarak, aynı konuda açıklamalar yapmıştır.
+AIDS hastalığı nedeniyle 1981 yılından 2007' ye kadar olan periyotluk dönemde 25 milyon insan hayatını kaybetmiştir. 2007 yılı istatistiklerine göre 33 milyon HIV Pozitif kişi dünyada yaşamaktadır. Bu rakamlar doğrultusunda AIDS, dünyanın en yaygın yıkıcı hastalıklarından biridir. Bu hastalığa sahip olan ve taşıyanların arasında çocuklar da vardır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alt ünite aşı</DOCTITLE>
+<TEXT>
+
+Alt ünite (veya subunit) aşılar, son yıllarda araştırma ve geliştirme çalışmalarına hız verilmiş umut vadeden aşı tiplerindendir. 
+Geleneksel tip aşılarda enfeksiyona neden olan patojen (virüs veya bakteri) bütün haliyle, ya canlı ama düşük dozda ya da öldürülmüş (inaktive edilmiş) olarak aşının içinde bulunmaktadır. Dolayısıyla, patojenin vücut içinde aktivite göstermesi mümkündür. Bu yüzden de, bu tip aşıların yan etkileri fazla olmakta, hatta aşılanan kimsenin düşük ihtimalle de olsa aşısı yapılan patojenle enfeksiyonu mümkün olmaktadır.
+Alt ünite aşılarda ise, patojenin genomunun veya proteomunun, vücudun söz konusu patojene bağışıklık geliştirmesini sağlayacak parçalarının aşı olarak kullanılması söz konusudur. Başka deyişle, patojen (virüs veya bakteri) bütün haliyle değil seçilmiş bazı kısımları ile alt ünite aşıda bulunmaktadır. Bu sayede üretilen aşı, geleneksel aşı tiplerinin yan etkilerini ve risklerini taşımamaktadır.
+Son yıllarda, birçok hastalığa karşı alt ünite aşı geliştirilmesi çalışmaları devam etmekle birlikte bu çalışmaların en önemlilerinden biri AIDS için olandır. AIDS hastalığının dünya genelinde gittikçe yaygınlaşmasına rağmen, hali hazırda geleneksel tip bir aşısı mevcut olmadığından bu çalışmalar daha da önem kazanmaktadır. Alt ünite AIDS aşılarında genellikle AIDS virüsünün (HIV) kapsülünde yerleşik bulunan Gp120 proteininden yararlanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Endemik (tıp)</DOCTITLE>
+<TEXT>
+
+Endemik terimi, eski Yunanca'da en: içinde + demos: insanlar, sözcüklerinin birleşiminden türetilmiştir. Bir sıfat olan endemik belirli bir nüfus içinde her zaman var olan bir hastalığı tanımlamak için kullanılan terimdir. Endemi ve andemik olarak da anılır. Epidemiyolojik bir terim olarak, şayet bulaşıcı bir hastalık dışarıdan her hangi bir etki olmadan belli bir populasyonda varlığını sürdürebiliyorsa, bu hastalığın populasyonda endemik olduğu söylenir. Örneğin İngiltere'de, suçiçeği hastalığı endemik olmasına rağmen (populasyonda sabit oranda), sıtma endemik değildir. Her yıl, İngiltere'de dışarıdan bulaşan birkaç sıtma vakası görülmesine karşın, populasyon içinde kalıcı bir şekilde aktarımı mümkün değildir. Çünkü bu hastalığı insandan insana taşıyabilecek Anopheles cinsi sivrisinekler mevcut değildir.
+Bulaşıcı bir hastalığın endemik olması için o hastalıktan etkilenen her bir insanın hastalığı ortalama olarak bir kişiye bulaştırması gereklidir. Hastalığa karşı hassas bir populasyon için, bu hastalığın temel reprodüksiyon sayısının (R0) 1'e eşit olması gereklidir. Hastalığa karşı bağışıklık kazanmış bireyleri de içeren bir populasyon için, temel reproduksiyon sayısının hastalığa karşı hassas bireylerin oranıyla (S) çarpımı 1'e eşit olmalıdır. 
+Hastalığın endemik sabit halde olması için:
+Bu şekilde hastalık populasyondan silinmediği gibi etkilenen insanların oranı da geometrik şekilde artmaz ve bu hastalığın endemik olduğu söylenir. Epidemi(salgın) olarak başlayan bir hastalık, ya belli bir süre sonra etkisini tamamiyle yitirir (İleriki tarihlerde tekrar tekrar ortaya çıkma ihtimali mevcuttur.) ya da endemik hale gelir. Sonucun nasıl olacağı hastalığın ölümcüllüğü ve bulaşma yolları gibi çesitli etmenlere bağlıdır. 
+AIDS hastalığının Afrika'da endemik olduğu ifadesi daha çok sözün gelişiyle kullanılmaktadır ve AIDS'in bu bölgede bulunduğu ima edilmektedir. Afrika'daki AIDS vakalarının halen daha artması nedeniyle, bu hastalığın endemik değil ancak epidemik olduğunu söylenebilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rudolf Nureyev</DOCTITLE>
+<TEXT>
+
+Rudolf Hamit oğlu Nuriyev (Tatarca: Rudolf Xämät ulı Nuriev, Rusça: Рудольф Хаметович Нуриев, 17 Mart 1938 - 6 Ocak 1993), SSCB'li balet (1961'de iltica etti ve 1982'de Avusturya vatandaşı oldu). 
+Uzun sıçramaları ve hızlı dönüşleri Vaclav Nijinski'nin efsaneleşmiş gösterilerine benzetilmiş, SSCB'den ayrılmasından sonra Margot Fonteyn'in gözde partneri ve büyüklü küçüklü birçok bale topluluğunun konuk sanatçısı olarak ünlenmiştir. Tatar asıllıdır.
+Bale çalışmalarına 11 yaşında başladı. 17 yaşında girdiği "Leningrad Koreografi Okulu"nda çok başarılı bir öğrenci oldu. "Komsomol"a (Genç Komünistler Birliği) girmeyi reddetti. 1958'deki mezuniyetinden sonra Leningrad Kirov Balesi'nde solocu oldu ve bu balenin gezici topluluğunda başrollere çıktı. Haziran 1961'de "Kirov Balesi" ile birlikte Paris'e gittiğinde Fransa'dan sığınma hakkı istedi. SSCB'yi terk ettikten sonra, ilk kez ABD'de seyirci karşısına çıktı. Aynı yıl sürekli konuk sanatçı olarak Londra'da "İngiliz Kraliyet Balesi"'ne katıldı.
+Nureyev "Giselle" 'deki Albrecht, "Marguerite and Armand" 'daki Armand ve "Kuğu Gölü" ndeki Prens Siegfried gibi rollerle Margot Fonteyn'e eşlik etti. Koreograf olarak erkek dansçıyı öne çıkaran bir "Kuğu Gölü" düzenlemesi yaptı. 1977'de "Londra Festival Balesi"nin sahnelediği Prokofiev'in "Romeo ve Juliette" 'inin ve 1978'de "Paris Opera Balesi"nin sahnelediği "Manfred" in koreografisini yaptı. 1980'de "Berlin Balesi" için "Fındıkkıran" ı sahneye koydu. Ertesi yıl La Scala'da sahnelediği "Kuğu Gölü" düzenlemesinde Lady Capulet rolünü Dame Margot Fonteyn üstlendi.
+Yeteneklerini modern repertuvarlarda da gösteren Nureyev, "Martha Graham"ın, "Murray Louis"in ve "Paul Taylor"ın yapıtlarında dans etti. 1975'te Martha Graham'ın onun için yarattığı "Lucifer" (iblis) rolünde, 1978'de de Murray Louis'in onun için yaptığı koreografiyle ABD'de ilk kez sahnelenen "Canarsie Venus ve Vivace " 'de sahneye çıktı.
+Nureyev 1973'te "Robert Helpmann"la birlikte "Don Quijote"den (Don Kişot) uyarlanan bir bale filmini yönetti. 1977'de "Valentino" filmiyle sinemada ilk oyunculuk denemesini yaptı.
+1982'de Avusturya uyruğuna geçen Nureyev, 1983-89 arasında Paris Opera Balesi'nin dans yönetmenliğini yaptı. Kasım 1989'da, Batı'ya sığındığından beri ilk kez SSCB'de, Kirov Balesi'yle dans etti. Nureyev yıllarca mücadele ettiği AIDS hastalığının yol açtığı kalp yetmezliği sonucu Paris'te öldü. Ölümünden birkaç ay önce kendisine Legion d'honneur nişanı verildi.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Virülans</DOCTITLE>
+<TEXT>
+
+Virülans, bir mikrobun patojenliği, yani onun hastalığa neden olma yeteneğidir. Patojenlik terimi mutlak anlamda hastalığa neden olma yeteneği için kullanılır, virülans ise bir patojenin ne derecede hastalık yapabileceğini ifade etmek için kullanılır. Virülansın sıfat hali virülandır (Latince "virulentus", "zehir dolu" ). Ekolojik bir bakış açısıyla virülans, bir parazitin neden olduğu, konak organizmadaki evrimsel uyum azalmasıdır.
+Virülan bakteriler.
+Bakterilerin hastalığa yol açma yeteneğini belirleyen faktörler, enfeksiyon yapan bakteri sayısı, vücuda giriş yolu, konak organizmanın savunma mekanizmalarının etkisi ve virülans denen, bakterinin kendine has özelliklerdir. Bazen konak organizmanın savunma mekanizmaları enfeksiyonu engellerken konak dokulara da zarar verebildiği için, konak aracılıklı patogenez de önemli olabilir.
+Hastalık mekanizmaları.
+Patojen organizmalar çeşitli mekanizmalarla hastalığa yol açabilirler.
+Virülan virüsler.
+Viral virülans faktörleri enfeksiyona neden olurlar ve meydana gelen viral hastalığın ciddiliğini belirlerler. Çoğu Virüs konak hücrelerde spesifik olarak bağlandıkları reseptör proteinlere gerek duyar. Tipik olarak bu konak proteinleri endositoz yoluyla hücre içine alınırlar ve onlara bağlı olan virüsler de böylece hücre içine girer. AIDS hastalığının etmeni HIV gibi virülan virüslerin konak savunma sistemlerinden kaçınmak için mekanizmaları vardır. HIV, Yardımcı T-lenfosit hücrelerini enfekte ederek konağın adaptif bağışıklık sistemini zayıflatır ve sonunda konakta immün yetmezlik oluşmasını sağlar. Ölüm genelde bağışıklık sisteminin AIDS virüsü tarafından bozulmasınin bir sonucu olarak oluşan fırsatçı enfeksiyonlardan dolayı olur. Bazı viral virülan faktörleri ise, ateş gibi, konağın savunma amaçlı enflamasyon tepkileri sırasında çoğalma yeteneğini verir. Çoğu virüs konak içinde uzun bir dönem bir zarara neden olmadan varlıklarını sürdürebilir. Aşırı virülan virüslermutasyon ve doğal seleksiyon sonucu konak içindeki viral popülasyon içinde evrimleşirler.
+Nörovirülan terimi, sinir sitemini istila edip orada hastalığa neden olan, kuduz ve herpes simpleks gibi virüslere değinmek için kullanılır.
+Virülansın evrimi.
+Patojen topluluk konak içine girdikten sonra evrimleşir. Patojenlerin nasıl evrimleştiği hakkında üç model vardır. Bu modeller virüs veya bakterinin konak içinde nasıl ürediği veya konak içinde yayıldığını ve hatta konağı öldürdüğünü açıklar. Bu üç hipotez "tesadüfi evrim hipotezi", konak için evrim ve denge hipotezi olarak adlandırılır.
+Denge hipothezi.
+Bazı biyologlar (Ewald, 1994) patojenlerin virülansının sürekli azalması gerektiğini öne sürmüşlerdir, çünkü konağa verilen zarar, en sonunda onun için yaşayan patojene de zarar verecektir. Konak ölürse patojen de ölecektir. Dolayısıyla daha az virülan patojenlerin uzun vadede daha başarılı olması gerekecektir. Bu mekanizma her zaman geçerli değildir; konağının ölümünü hızlandıran patojenler eğer bunun sonucunda başka konak organizmalara bulaşma olasılıklarını artırabilirlerse, patojenler daha yaygınlaşabilirler. Dolayısıyla patojenlerin evrimi sırasında virülansın yarar ve zararları arasında bir denge oluşur. Doğrudan bulaşan hastalıklarda daha az öldürücü olan patojenlerin sıklığının daha yüksek olduğu, buna karşın taşıyıcı (vektör) aracılığıyla yayılan hastalıklarda böyle bir ilişki olmadığı bulunmuştur. 
+Kısa vadeli evrim hipotezi.
+Kısa vadeli evrim görüşüne göre evrimsel uyumu artıran özellikler toplulukta daha yüksek bir sıklığa ulaşmalıdır. Bu özellikler arasında daha uzun ömürlü olmak, daha çok sayıda çoğalmak, antikorlara karşı dayanıklı olmak veya patojenin normalde nüfuz etmediği vücut bölgelerine yayılabilmek sayılabilir. Birkaç kuşak sonra bu yararlı mutasyonlar yüksek bir sıklığa ulaşırlar. Ancak, bu mutasyonları taşıyan patojenler taşımayanlara kıyasla daha avantajlı bir durumda olsalar da, konak organizma için çok zararlı olabilirler. Patojen konak organizmaya zarar verme noktasına ulaşınca patojenin üremesini durdurması veya daha fazla büyümemesi onun çıkarına olması gerekir, çünkü bakteri veya virüs için besin kaynağı konak organizmadır. Ne var ki, doğal seleksiyon akıl ile kontrol edilen bir süreç değildir, patojenler büyüme veya çoğalmalarını durdurmazlar, konağı ölüme sürükleseler dahi. 
+Tesadüfî evrim hipotezi.
+Bir hastalığın ne derece virülan olduğunu belirleyen faktörler, patojenin konak içindeki virülansıyla ilişkisiz olarak etki eden baskılar sonucu evrimleşmiştir. Bu görüşe göre virülans, konak organizmanın patojene karşı yetersiz, uygunsuz veya aşırı tepki göstermesinin bir sonucudur. Örneğin E. coli bakterisin idrar yolu enfeksiyonuna neden olan adhezin molekülleri aslında bu bakterinin bağırsağı daha iyi kolonize etmesini sağladığı için evrimleşmiştir. Aynı molekelün idrar yolu enfeksiyonuna neden olması bakteriye evrimsel bir avantaj sağlamaz ve bu virülans mekanizması tesadüfî bir evrim sonucudur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ters transkiptaz</DOCTITLE>
+<TEXT>
+
+Biyokimyada bir ters transkriptaz veya RNA'ya bağımlı DNA polimeraz, tek iplikli bir RNA molekülü okuyup (transkripsiyonunu yapıp) tek iplikli DNA üreten bir DNA polimeraz enzimidir. Bu enzim, ayrıca, RNA tek iplikli cDNA şeklinde okunduktan sonra çift iplikli DNA oluşmasında da görev alır. Normal transkripsiyon DNA'dan RNA sentezidir; dolayısıyla ters transkripsiyon bu sürecin "tersidir".
+Ters transkripsiyon, birbirlerinden bağımsız olarak, University of Wisconsin–Madison'dan Howard Temin ve MIT'den David Baltimore tarafından 1970'te keşfedildi. Bu keşiflerinden dolayı bu iki araştırmacı ve Renato Dulbecco 1975 Nobel Fizyoloji veya Tıp Ödülü'nü paylaştılar.
+İyi bilinen ters transkriptazlara aşağıdakiler dahildir:
+Virüslerdeki fonksiyonu.
+Ters transkripsiyonlu virüslerde bu enzim ikileşme (replikasyon) sürecinde kullanılır. Ters transkripsiyonlu RNA virüslerinde (örneğin retrovirüs) bu enzim RNA genomlarının DNA'ya dönüştürülmesinde kullanılır, bu DNA sonra konak organizmanın genomu ile bütünleşir ve onunla beraber ikilenir. DNA virüsleri, hepadnavirüsler gibi, ters transkripsiyonu DNA ipliklerinin üretimi ve birleştirilmesinde RNA'yı bir kalıp olarak kullanır. AIDS hastalığının virüsü HIV, bu enzimi kullanarak insanları enfekte eder. Ters transkriptaz olmazsa viral genom konak hücrenin içine dahil olamaz, bu da onun çoğalamaması demektir. 
+Ters transkripsiyon süreci.
+Ters transkripsiyon bir RNA kalıptan tek zincirli bir DNA sentezlenmesidir, buna RNA yönlendirmeli DNA sentezi ("RNA-directed DNA syntesis")) de denir. Çoğu ters transkriptaz enziminde bu etkinliğe ek olarak DNA yönlendirmeli DNA sentez yeteneği de olur. Retrovirüslerdeki ters transkriptazlarda ayrıca bir RNaz H etkinliği vardır, bu bir DNA-RNA hibritindeki RNA zincirinin sindirilmesidir.
+DNA'ya bağımlı DNA polimeraz etkinliği olmayan, ters transkriptazlı virüslerde iki iplikli DNA'nın oluşturulması konak hücre tarafından kodlanan DNA polymerase δ tarafından mümkün olur. Bu enzim, viral DNA-RNA kompleksindeki RNA'yı bir primere benzetip iki iplikli bir DNA sentezler, bu süreç sırasında yeni sentezlenen DNA orijinal RNA kalıbı yerinden çıkarır. 
+Ters transkripsiyon çok hataya eğilimlidir ve bu süreç zarfında mutasyonlar meydana gelebilir. Bu mutasyonlar antiviral ilaç direncine neden olabilir. 
+Telomeraz.
+Telomerazlar kromozomların ucuna kısa DNA parçaları ekleyerek (omurgalılarda ""TTAGGG" dizileri) kromozomların her ikileşmesini takiben meydana gelen kısalmayı düzeltirler. Telomeraz enzimleri kendi yapıları içinde bir RNA kalıp molekül taşırlar. Bu RNA kalıp 3'-CAAUCCCAAUC-5' dizisine sahiptir. Telomeraz kromozomun ucuna bağlanıp bu RNA kalıbı kromozomun ucundaki en son TTAGGG ile hizalar, sonra kalıp ile komplementer bir DNA zinciri sentezler. Bu işlemin tekrar tekrar yapılması ile kromozom uzar.
+Sınıf VI virüslerdeki süreç.
+Sınıf VI virüsler retrovirüs olarak adlandırılırlar, bunlar DNA araürünlü RNA ters transkriptaz virüslerdir. Genomları pozitif anlamlı, 5' başlıklı ve 3' poliadenile kuyruklu iki adet tek iplikli RNA molekülünden oluşur. Retrovirüslere örnek olarak İnsan Bağışıklık Yetmezlik Virüsü (HIV olarak adlandırılır) ve İnsan T-Limfotropik Virüs (HTLV) gösterilebilir. Ters transkripsiyon sitozolda gerçekleşir. Retroviral ters trankriptazların çalışma mekanizması telomerazlardn çok daha karmaşıktır. Çift iplikli DNA'nın oluşumu aşağıdaki adımlarla olur (sağdaki şekle bakınız): 
+İki iplikli DNA'nın oluşması "iplik aktarımı" ile olur, bu süreçte RNA'ya-bağımlı DNA sentezinin ürünü olan kısa DNA, genomun öbür ucundaki kalıp bölgelere taşınır, bu bölgelere sonradan ulaşan ters transkriptaz kendi DNA'ya-bağımlı DNA polimeraz aktivitesi için bunları işlemler. 
+Retroviral RNA'da primerin bağlandığı yere primer bağlanma yeri (PBY) denir. PBY'nin 5' yönündeki bölge U5 olarak adlandırılır, PBY'nin 3' tarafındaki kısmı ise lider olarak adlandırılır. tRNA çift ipliklikçikli kısmından 14 ila 22 nükleotit kadar açılarak PBY'de viral RNA ile hibritleşir. PBY'nin viral RNA'nın 5' ucunda yer alması diğer virüslere göre sıradışıdır çünkü ters transkriptaz DNA'yı sentezlerken, primerin 3' ucundan başlayarak, 5'-3' doğrultusunda ilerler ve viral genomun sadece ufak bir kısmını kopyalamış olur. Dolayısıyla, primer ve ters transkriptaz, RNA'nın 3' ucuna taşınmalıdır. Bu yer değiştirmenin gerçekleşmesi için, çeşitli enzimler (DNA polimeraz, RNaz H gibi) ve yukarıda belirtilen çok adımlı bir süreç gerekir.
+HIV ters transkriptazının ayrıca bir ribonükleaz aktivitesi vardır, bu aktivite cDNA sentezi sırasında kalıp olarak kullanılmış olan viral RNA'yı yıkıma uğratır, bir de DNA'ya bağımlı DNA polimeraz etkinliği vardır, bunun sayesinde viral RNA'nın ters transkripsiyonu ile elde edilen anlamlı cDNA ipliğini "antianlamlı" DNA olarak kopyalayarak çift iplikli bir viral DNA (vDNA) araürünü oluşturur.
+Ökaryotlarda.
+Ökaryotik genomlarda retrotranspozon olarak adlandırılan, kendini ikileyen bölgeler vardır. Bunlar bir ters transkriptaz kullanarak, bir RNA araürün aracılığıyla kendilerini genomun bir yerinden başka bir yerine taşırlar. Hem hayvan hem de bitki genomlarından çok sayıda bulunurlar. Çoğu ökaryotta (insan da dahil) bulunan bir diğer ters transkriptaz telomerazdır, bu enzim kendi RNA kalıbını taşımaktadır; telomerazın RNA'sı, DNA ikileşmesi için kalıp olarak kullanılır..
+Prokaryotlarda.
+Bazı bakterilerde Retron msr RNA olarak adlandırılan, ters transkriptaz kodlayan ayrık diziler bulunur, bunlar çok kopyalı tek iplikli DNA (İngilizce "multicopy single-stranded DNA", msDNA) sentezi için kullanılırlar. DNA sentezinin başlaması için bir primer gerekir. Bakterilerde bu primer ikileşme sırasında sentezlenir.
+Yapı.
+Ters transkriptaz enziminde RNA'ya bağımlı DNA polimeraz ve DNA'ya bağımlı DNA polimeraz bölgeleri, bunlar birlikte çalışarak transkripsiyon yaparlar. Transkripsiyon işlevine ek olarak, retrovirüslerin ters transkriptazlarında RNaz H protein ailesine ait bir bölge de bulunur, bu da onların ikileşmesi için hayatî önem taşır.
+İkileşme sadakatı.
+Bir retrovirüsün hayat döngüsü sırasında üç farklı ikileşme (replikasyon) sistemi vardır. Birincisi, ters transkriptaz viral RNA'dan başlayarak, peşpeşe iki DNA ipliği sentezleyerek viral DNA'yı oluşturur. İkinci replikasyon sürecinde konak DNA polimeraz entegre olmuş viral DNA'yı ikiler. Son olarak, RNA polimeraz II, proviral DNA'yı RNA olarak yazar (transkripsiyonunu yapar), bu RNA da viryonların içinde paketlenir. Bu ikileşme adımlarının herbirinde mutasyonlar meydana gelebilir.
+Ters transkriptaz, RNA'yı DNA olarak yazarken yüksek bir hata oranı gösterir çünkü, DNA polimerazdan farklı olarak, bu enzimin prova okuma yeteneği yoktur. Hata oranı örneğin AMV ters transkriptazının için 1/17.000 baz, M-MLV ters transkriptazı için de 1/30.000 bazdır.
+Uygulamalar.
+Antiviral ilaçlar.
+HIV ters transkriptaz kullanarak genetik malzemesini kopyaladığı ve yeni virüsler ürettiği için, bu süreci bozacak ve böylece büyümesini engelleyecek spesifik ilaçlar tasarlanmıştır. Toplu olarak bu ilaçlar ters transkriptaz inhibitörleri olarak adlandırılır. Bunların arasında nükleosit veya nükleotit analogları olan zidovudine (tescilli marka adı Retrovir), lamivudine (Epivir) ve tenofovir (Viread) ve nükleosit olmayan inhibitörler, nevirapine (Viramune) gibi, sayılabilir.
+Moleküler biyoloji.
+Ters transkriptaz moleküler biyoloji laboratuvarlarında yaygın kullanılan bir enzimdir, özellikle ters trasnkriptaz polimeraz zincir tepkimesi (İng. "reverse transcription polymerase chain reaction" veya RT-PCR) diye adlandırılan ve polimeraz zincir tepkimesinin RNA'ya uygulandığı bir yöntemde kullanılır. Klasik polimeraz zincir tepkimesi (İng. "polymerase chain reaction" veya PCR) sadece DNA zincirlerine uygulanır ama, ters transkriptaz aracılığıyla RNA'dan DNA sentezlenirse PCR kullanımına uyarlanmış olur. Ters transkriptaz ayrıca mRNA'dan cDNA kitaplıkları üretilmesine olanak verir. Ters transkriptazın ticarî üretimi moleküler biyolojide yeni bilgi üretimine büyük katkıda bulumuştur, çünkü, bu enzim (başka enzimlerle birlikte) araştırmacıların RNA dizilerinin DNA olarak klonlanıp dizilemesini ve karakterize edilmelerini mümkün kılmıştır.
+Tarih.
+Ters transkripsiyon fikri ilk önerildiğinde şüpheyle karşılanmıştı ama 1970'te Howard Temin ve David Baltimore birbirlerinden bağımsız olarak ters transkripsiyon için gerekli enzimi keşfedip onu ters transkriptaz olarak adlandırınca genetik bilginin bu yönde de akabileceği sonunda kabul gördü.
+Kaynakça.
+Ters transkriptaz
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ryan White</DOCTITLE>
+<TEXT>
+
+Ryan Wayne White (6 Aralık 1971; Kokomo, Indiana - 8 Nisan 1990; Indianapolis, Indiana), HIV/AIDS enfeksiyonu taşıdığı için okuduğu liseden çıkarılmasına karşı verdiği mücadeleyle Amerika Birleşik Devletleri'nde ulusal simge haline gelen ABD'li gençtir. Hemofili hastası olduğu için kan nakli tedavisi sırasında HIV virüsü ile enfekte olduğu iddia edildi. Aralık 1984'te teşhis konuldu ve sadece 6 ay yaşayabileceği öngörüldü. Doktorlar, diğer öğrenciler için risk taşımadığını ve White'ın okula dönebileceğini belirtseler de Kokomo'daki birçok veli ve öğretmen okula dönmesine karşı çıktı. AIDS araştırmalarında ve toplumun AIDS'i tanımasında önemli katkıları olan White, okul sistemine karşı yasal savaş verdi. Elton John, Michael Jackson ve Phil Donahue gibi birçok ünlü ile beraber medyanın karşısına çıktı, doktorlarının öngördüğünün aksine beş yıldan fazla yaşadı ve lise mezuniyetine bir ay kala, Nisan 1990'da öldü. 
+İlk AIDS vakalarının gey erkeklerde görülmesi sebebiyle, White'tan önce bu hastalığın gey toplulukları ile doğrudan bağlantılı olduğu görüşü oldukça yaygındı. White ile beraber bu algı değişimi, diğer HIV ile yaşayan Magic Johnson, Ray brothers ve Kimberly Bergalis gibi ünlüleri de daha fazla AIDS araştırmaları yapılması ve toplumun bilinçlendirilmesi için çalışmaya sevk etti. White'ın ölümünden kısa bir süre sonra ABD Kongresi, Ryan White CARE Yasası'nı çıkarttı. İki defa onaylanan bu yasa, ABD'de AIDS ile yaşayan bireylerin en büyük destekçisi oldu.
+Çocukluğu ve hastalığı.
+Ryan White, Jeanne Elaine Hale ile Hubert Wayne White'ın çocukları olarak ABD'nin Indiana eyaletinin Kokomo şehrinde doğdu. Henüz üç günlük iken, doktorlar kendisine küçük bir yaralanma esnasında bile kanın durmamasına yol açan X kromozoma bağlı kalıtsal kan hastalığı olarak adlandırılan ağır bir hemofili A teşhisi koydu. Tedavisi için vücuduna haftalık faktör VIII enjekte edilmesi gerekiyordu. Uygulanan bu yöntem yüzünden AİDS hastalığının o dönemde yaygınlaştığı düşünülmektedir.
+Çocukluğunda oldukça sağlıklı olsa da Aralık 1984'te şiddetli zatürre hastalığına yakalandı. Bu hastalığın tedavisi aşamasında kendisine AIDS teşhisi konuldu. Tıp dünyası o dönem AIDS hakkında çok az bilgiye sahipti. Bilim insanları o yıl HTVL-III adını verdikleri bir virüs buldular ve bu virüs AIDS'e neden olan HIV'di. White'a faktör VIII tedavisi sırasında HTVL-III enfeksiyonu bulaştığı düşünülmekteyse de bu iddia kesinlik kazanmamıştır. Doktorlar bu virüse karşı nasıl bir test yapacaklarını bilmiyorlardı, aynı zamanda donörler virüsün kanla bulaştığını düşünmemekteydiler. 1979 - 1984 yılları arasında hemofili hastalarının %90'ından fazlasına HIV bulaştırıldığı düşünülmektedir. Yapılan sayım sonrasında White'ın T hücre sayısı 25 (bu sayı sağlıklı insanlarda yaklaşık 500-1200 arasıdır) olarak belirlendi ve kendisine AİDS teşhis konuldu. Doktorlar, White'ın sadece altı ay yaşayacağını öngördüler.
+Teşhisten sonra White okula geri dönemeyecek kadar hastaydı ancak 1985 başlarında kendisini daha iyi hissetmeye başladı. Okul görevlileri White'ın annesine onu okula göndermemesi gerektiğini söylediler. White, 30 Haziran 1985'te tekrar okula dönmek istediğini bildirdi; ancak Batı Okul Kurumu yöneticisi James O. Smith bu teklifini reddetti. Bu olayın ardından White ve ailesi, yaklaşık sekiz ay boyunca hukuk mücadelesi verdi.
+Okullarla savaşı.
+Russiaville'deki birçok ebeveyn White'ın kampüse girişini engellemek için direndi. 117 ebeveyn (ki okulda toplam 360 öğrenci vardı) ve 50 öğretmen White'ın okuldan uzaklaştırılması için dilekçe yazdı. AIDS hakkındaki bilgisizlik yüzünden başta müdür ve yönetim kurulu, diğer öğrencilerin HIV/AIDS olmaması için dilekçeleri uygun gördüler. White'ın ailesi bu yasağı kaldırmak için dava açtı. White ilk önce Indianapolis'te bulunan ABD Bölge Mahkemesi'ne dava açtı. Mahkeme davayı, Temyiz İdari'de çözülünceye kadar reddetti. 25 Kasım'da Indiana Eğitim Müdürlüğü, Indiana Sağlık Kurulu'nun verdiği kararı uyguladı ve White'ın geri okula dönmesine izin verdi.
+1980'lerde HIV'in hangi yollarla bulaştığı tam olarak anlaşılamamıştı. Bilim insanları virüsün kan ile bulaştığını biliyorlardı ancak küçük bir temas ile bulaşması yeterli değildi. 1983'e gelince Amerika Tıp Derneği, "AİDS'in Ev halkının Yakınlığı ile Bulaşabileceği Öngörüsü" düşüncesiyle virüsün kolaylıkla yayıldığını düşünüyorlardı. AIDS ile yaşayan çocuk vakası nadir görülmekteydi, White'ın okuldan uzaklaştırıldığı sırada ABD Hastalık Kontrol Merkezi raporuna göre ABD'de 148 adet AIDS ile yaşayan çocuk bulunmaktaydı. Kokomo'da aileler White'ın okulda bulunmasını kabul edilemez bir risk taşıdığına inanıyorlardı. Şubat 1986'da White'ın okula dönmesine izin verilen bir gün için, okulda bulunan 360 öğrencinin 151'i okula girmemişti. White gazete dağıtıcısı olarak çalıştı, virüsünün gazete yoluyla bulaşabileceğini düşünen birçok kişi aboneliklerini iptal etti.
+Indiana bölgesi sağlık komiseri, Dr. Woodrow Myers ve ABD Hastalık Kontrol Merkezi'ne göre San Francisco'da bulunan AIDS vakalarının büyük çoğunluğunda görüldüğü üzere White'ın durumu diğer öğrenciler için risk taşımayacağını duyurdu fakat okul yönetim kurulu ve aileler bu bildiriyi dikkate almadılar. Şubat 1986'da "New England Journal of Medicine" 101 kişi üzerinde yaptıkları araştırmayı açıkladılar. Bu insanlar birbirleriyle cinsel temas olmayacak şekilde üç ay boyunca kapalı bir ortamda yaşadılar. Kişiler diş fırçaları, traş makineleri, giysileri, tarakları ortak kullandılar, hatta bu insanlar aynı yatakta uyuyup, sarıldılar ve öpüştüler. Deneyin sonucunda enfeksiyonun bulaşma riski "imkânsıza yakın" olduğu çıktı.
+White, nisan ayında tekrar okula kabul edildiğinde, bazı aileler çocuklarını okuldan alıp başka okullara nakil ettirdiler. White, ciddi tehditler alıyordu. White'ın annesi; "Sokakta insanlar Ryan'a sık sık "Biz senin eşcinsel olduğunu biliyoruz" diye bağırıyorlardı" dedi. White'ı parasal ve editoryal olarak destekleyen "Kokomo Tribune" gazetesinin editörleri, hem eşcinsellikle suçladılar hem de onu kendi amaçları için ölümle tehdit ettiler. Diğerleri ise çelişkili durumlar üzerinde duruyorlardı, Ryan mutlaka eşcinsel ilişki içerisinde AIDS oldu ya da ufak bir temas ile bulaştığı görüşüne sahiptiler.
+White, 1986-87 eğitim yılı içerisinde Western Middle School'da sekizinci sınıfa başladı fakat burada çok mutsuz ve yalnızdı. Okul yemek yemesi için tek kullanımlık malzeme ve duş alması için ayrılmış banyo tedarik etti. Tehdit almaya devam ediyordu. White'ın odasına silahlı saldırı olduktan sonra ailesi Kokomo'dan ayrılma kararını aldı. Okul yılı bittikten sonra ailesi Cicero'ya taşındı ve orada Hamilton Heights Lisesine kayıt yaptırdı. 31 Ağutos 1987'de, AIDS konusunda eğitimli okul müdürü Tony Cook, okul amiri Bob G. Carnal ve az sayıda öğrenci White'ı karşılayıp elini sıktılar.
+Ulusal sözcü.
+White'ın sendromu gazete ve televizyonlarda dalga dalga yayılması onun "ulusal çocuk" olmasını sağladı. 1985-1987 yılları arasında ABD medyasında AIDS hakkında haber sayısı iki katına çıktı. Orta okuldan ayrılan White'ın sendromu ve yaşadığı sıkıntılar ulusal gazete ve televizyonlarda sık sık gündeme gelmeye başlandı. White sendrom için bağış toplamaya ve eğitim kampanyaları düzenlemeye başladı ve bu faaliyetleri onun AIDS'in simgesi olmasını sağladı. White, AIDS ile yaşayan çocuklar için çok sayıda yardım kampanyasına katıldı. Birçok ünlü White ile birlikte medyanın karşısına çıktı. AIDS ile yaşayan dışlanmış insanların sosyalleşmesine geri kalan hayatı boyunca yardımcı oldu. Şarkıcı John Cougar Mellencamp, Elton John ve Michael Jackson, aktör Matt Frewer, dalgıç Greg Louganis, Devlet Başkanı Ronald Reagan ve eşi Nancy Reagan, Baş Hekim Dr. C. Everett Koop, Indiana Üniversitesi basketbol koçu Bobby Knight ve basketbol oyuncusu Kareem Abdul-Jabbar gibi isimler White ile arkadaş oldular. White da birçok AIDS ile yaşayan çocuk ile arkadaş oldu.
+Hayatının geri kalanında Phil Donahue talk showunda sıklıkla görünmeye başladı. Sonradan popüler olan "Patron Kim?" programının sunucusu Alyssa Milano ile tanıştı. Kendisi White'a arkadaşlık bileziği verip öptü. Elton John, Jeanne White'a 16.500 $ borç verdi. Bu parayı geri almayarak White'ın kız kardeşinin okul masrafları için kullanılmasını istedi. Michael Jackson lisedeki White'a kırmızı Mustang convertible hediye etti.
+1988'de Başkan Reagan'ın AIDS Komisyonu'ndan önce White ile konuşma yaptı. White okula ilk dönme girişimlerinde karşılaştığı ayrımcı politikaları anlattı her nasılsa Cicero'nun kasabasında çok güzel karşılanmıştı. White, Kokomo ve Cicero'da AIDS eğitiminin önemini farklı tecrübelerle yaşadığını vurguladı.
+1989'da, ABC televizyonu "The Ryan White Story" adlı televizyon filmini yayınladı. Ryan rolünde AIDS'li arkadaşı Lukas Haas, Jeanne rolünde Judith Light ve kız kardeşi Andrea rolünde Nikki Cox vardı ve White'ın filmde kısa bir cameo görütüsü vardı. Filmde yer alan diğer isimler ise Sarah Jessica Parker sempatik hemşire rolünde, George Dzundza doktor rolünde ve okul yönetimine karşı White'ı yasal yolla savunan George C. Scott ise avukat rolündeydi. Nielsen tahminlerine göre filmi 15 milyon izleyici izledi. Kokomo'nun bazı sakinleri filmi haksız yere tüm şehri genellediğini dile getirdiler. Film yayınlandıktan sonra Kokomo Belediye başkanı Robert F. Sargent'in odasına ülke genelinden gelen şikayet mektupları yağdı.
+1990'ların başında White'ın sağlığı hızla bozuluyordu. Son kez halkın huzuruna çıktığında, Kaliforniya'da eski başkan Ronald Reagan ve First Lady Nancy Reagan ona ev sahipliği yaptı. Sağlığı giderek bozulmasına rağmen White, Reagan'a üniversiteye girmek istediğini söyledi.
+Ölümü.
+29 Mart 1990'da lise mezuniyetinden birkaç ay önce White, solunum yolları enfeksiyonundan ötürü Indianapolis'de Riley Çocuk Hastanesi'ne yatırıldı. Durumu iyice kötüleşmeye başlamıştı. Hastanede Elton John kendisini ziyaret etti. White'ın iyi olması için binlerce hayranı hastaneyi telefonla aradı. White 8 Nisan 1990'da öldü. 
+Indianapolis Meridian Caddesinde bulunan İkinci Presbiteryen Kilisesinde yapılan cenaze törenine 1500'ün üzerinde kişi katıldı. White'ın tabutunu taşıyanlar arasında Elton John, Amerikan futbolu oyuncuları Howie Long ve Phil Donahue gibi isimler vardı. Elton John "Skyline Pigeon" isimli şarkıyı Hamilton Heights Lisesi korosunun eşliğiyle seslendirdi. Cenazede Michael Jackson ve First Lady Barbara Bush yer aldı. Cenaze günü eski başkan Ronald Reagan White hakkında "The Washington Post" gazetesine demeç verdi. Regan'ın demecinde "AIDS hakkında White'ın verdiği mücadele muhteşemdi. Herkesin AIDS'e bakış açısını değiştirdi. 
+White, annesinin evinin de bulunduğu Cicero'ya gömüldü. Ölümünün ardından mezarı dört kez tahrip edildi. Geçen zaman içinde mezarı sevenleri tarafından anıt haline geldi.
+Miras.
+White, 1980'ler ve 1990'ların başlarında AIDS'le ilgili ulusal alanda tanınmış birkaç kişiden biriydi. O, halkın AIDS'e bakışını değiştirmeye yardım etti. White Rock Hudson ile birlikte AIDS'in halktan olan ilk yüzlerinden biriydi. Sonrasında Ray brothers, Magic Johnson, The Brady Bunch'ın Robert Reed'i, Kimberly Bergalis, Elizabeth Glaser ve Freddie Mercury gibi diğer halk figürleri eklendi. White HIV/AIDS'in önemli bir salgın olduğuna ve toplumun bunu fark etmesini arttırmaya çalıştı. 
+Sayısız hayır kurumu White'ın ölümü etrafında birleşti. Indiana Üniversitesi Dans Maratonu, Riley Çocuk Hastanesine 1991'de yardım toplamaya başladı ve 1991-2008 yılları arası Riley'deki çocuklar için 5 milyon$ yardım toplandı. Toplanan paralarla Ryan White Enfeksiyon Hastalıkları Kliniği kurulmasına yardımcı olundu. White'ın kişisel doktoru Dr. Martin Kleiman Indianapolis'de bulunan Indiana Tıp Okulu'nda AIDS dalında Ryan White profesörü ünvanını aldı. 1993'te bir röportajda eşcinsel hakları savunucusu ve AIDS aktivisti Lary Kramer, "Bence küçük Ryan White, bu hastalığının yüzünün değişebileceği ihtimaliydi ve herkesten daha hareketliydi. Annesi Jeanne White'ın mutluluğunun devam etmesini istiyordu. Jeanne inanılmaz hareketli bir varlıktı, dünya kadar konuşurdu." dedi.
+1992'de, White'ın annesi, kar amacı gütmeyen Ulusal Ryan White Vakfını kurdu. Vakıf, HIV/AIDS ile ilgili konularda farkındalığın artması için çalıştı. Ryan White gibi hemofili hastalarına ve hastalığı taşıyan aile bireylerine odaklandı. 1990'larda aktif görev yaptı, 1997'de bir yılda 300.000$ bağış yapıldı. 1997-2000 yıllarında her nasılsa AIDS bağışları ülke genelinde %21 azaldı ve "Ryan White Vakfı"nın bağış miktarı 100.000$'a düştü. 2000'de annesi Vakfı kapattı. Annesi AIDS aktivitizmin sözcüsü haline geldi ve oğluna adadığı ryanwhite.com sitesi aracılığıyla konuşup etkinlikler düzenledi. White'ın lisesi, Hamilton Heights, Ryan White Burs Fonu ile "AIDS Walk" öğrenci-devlet işbirliğine sponsor oldu. 
+White'ın ölümü Elton John'a ilham verdi. Elton John AIDS vakfını kurdu. White popüler şarkıları için ilham kaynağı oldu. Elton John, "The One" albümünde yer alan The Last Song şarkısının gelirini Riley Hastanesinde bulunan "Ryan White Fonu"na bağışlamıştır. Michael Jackson, "Dangerous" albümünde "Gone Too Soon" şarkısını White'a adadı. 1980'lerin pop yıldızı Tiffany ise "New Inside" albümünde yer alan "Here in My Heart" şarkısını White'a adadı. Kasım 2007'de Anne Frank ve Ruby Bridges, White temalı "Çocukların gücü: Fark yarat" sergisi Indianapolis Çocuk Müzesinde açtı.
+Ryan White ve AIDS'in toplumsal fark edilişi.
+1980'lerin başlarında, AIDS Gay bağlantılı bağışıklık yetmezliği olarak biliniyordu, çünkü sendrom ilk olarak eşcinsel topluluğun yaygın olarak yaşadığı New York City ve San Francisco'da tespit edildi. ABD'de AIDS salgının başladığı sıralarda, sendromla ilgili eşcinsel sorunu düşüncesi vardı ve politik makamlar bu durumu ciddiye almıyorlardı. White'ın teşhisi gösterdi ki, AIDS eşcinsellere ait problem değildir. AIDS araştırmalarını kendisi savundu, White hiçbir zaman eşcinsel iddialarını kabul etmedi, ki her şeye rağmen o eşcinsel değildi. 
+White bazıları tarafından AIDS salgının masum kurbanı olarak görüldü. White ve ailesi masum kurban sözünü şiddetle reddetti çünkü bu söz AIDS ile yaşayan eşcinseller için kullanılan bir ayrımcılıktı. White'ın annesi "New York Times"a şunları söyledi, "Ryan daima şunu söylerdi 'Ne olursa olsun ben hep AIDS ile yaşayan her kimse gibiyim.' ve O hiç bir zaman eşcinsel toplumun yaşadığı hayatı yaşamadı. New York'ta insanlar en son tedavi yolları hakkında bilgileri olmadan önce Indiana'da biz bunları biliyorduk. Bugün anneleri duyarım onlar gey toplumuyla hiçbir şekilde çalışmak istemez. Güzel, eğer sizin çocuğunuz hayata dönerse, siz kalbinizde ve fikirlerinizde daha iyi olan değişime başlamışsınızdır."
+Ryan White CARE Yasası.
+ABD Kongresi, White'ın ölümünden dört ay sonra Ryan White Ayrıntılı Acil AIDS Araştırmaları (İngilizcesi: The Ryan White Comprehensive AIDS Resources Emergency, kısaca CARE) yasasını onun onuruna yasalaştırdı. Bu yasa ABD'de HIV/AIDS'le yaşayan insanları en geniş kapsamda destekleyen programdı. Ryan White CARE Yasası olarak adlandırılan bu yasa düşük gelirli, sigortasız ve alt-sigortalı olan AIDS'li insanlar ve onların ailelerini destekleme programıdır.
+Ryan White programının temel amacı, tedavi masraflarını ödeyemeyen hastalara kaynak sağlamaktır. 1996, 2000 ve 2006 yıllarında yasa tekrar yenilendi, içerik bugünkü halini aldı. Program çeşitli seviyelerde yılda 500.000 civarında hastaya yardım etmektedir. 2004 yılında program 2.567 organizasyona mali destekte bulundu. Ryan White programı bölge ve eyaletlerdeki sağlık kuruluşlarını desteklemekte, teknik asistan veya sağlık desteği sağlamaktadır.
+Ryan White CARE Yasası 30 Ekim 2009 yılında süresi dolması nedeniyle genişletilerek tekrar yayımlanmıştır. 2009 yılında Başkan Barack Obama HIV taşıyan bireylerin göç ve seyahat etme yasaklarını kaldırma planını açıkladı ve Ryan White CARE Yasası'nın yenilenmiş halini imzaladı. Obama 22 yıldır yasak olan bu durum için "Gerçeklerden ziyade korkudan kaynaklanmaktadır." açıklamasını yaptı.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,262 @@
+Question: Yapay döllenmenin hayvan ıslahındaki önemi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yapay seçilim</DOCTITLE>
+<TEXT>
+
+Yapay seçilim, insanların bilinçli ve amaçlı olarak bir organizmanın belli özelliklerini seçmesi ve kontrollü olarak yetiştirmesi sürecini anlatan tanım. Bu terim, Charles Darwin tarafından belirli özelliklere sahip canlıların farklılaşarak çoğalmalarının gelişmiş hayatta kalma veya üreme yeteneklerine dayandığı doğal seçilime karşılık olarak kullanılmıştır. İnsan eliyle hangi hayvan ya da bitkinin üretileceğine karar verildiği yapay seçilimin aksine, doğal seçilimde ne tür varyasyonların ve genlerin gelecek nesillere aktarılacağını çevre veya doğa şartları belirler. 
+Yapay seçilimin bilinçli kullanımı, yeni ilaçların keşfinde ve geliştirilmesinde olduğu gibi, deneysel biyolojide çok yaygın hale gelmiştir. 
+Yapay seçilim bilinçsiz bir şekilde meydana gelebilir; yabani bitkilerin ilk insanlar tarafından evcilleştirilmesi ve tarıma uygun hale getirilmesinin büyük ölçüde bilinçsiz bir süreç olduğu düşünülmektedir. 
+Tarihçe.
+Yapay seçilim yöntemleri Romalılar tarafından biliniyor ve uygulanıyordu. 2000 yıl öncesine ait dönemden kalma bilimsel eserler, farklı amaçlar için hayvanların nasıl seçileceğine dair öğüt ve bilgiler vermenin yanı sıra bu antik eserler, Kartacalı Mago gibi kendisinden daha önceki bilimsel kaynak ve mercilerden alıntı da yapmaktadır. Yapay seçilim fikri, daha sonra İranlı İslam bilgini El-Birûni tarafından 11. yüzyılda ifade edilmiştir. "Hindistan" adlı eserinde bu fikri dikkate alıp çeşitli örnekler vermiştir. 
+Charles Darwin, ileri sürdüğü doğal seçilimin daha geniş ve kapsamlı bir süreç olduğunu göstermek için bu yeni terimi kullanmıştır. Darwin, arzu edilen özelliklere sahip canlı bireylerin insanlar tarafından kontrollü ve bilinçli olarak yetiştirildiğini, arzu edilen özelliklere sahip olmayan bireylerin ise üremekten alıkonulduğu ve bu şekilde hayvancılık ve bitki ıslahındaki yöntemlerle birçok evcil hayvan ve bitkinin, kendilerine özgü bir takım özel özelliklere sahip olduğunun farkına varmıştır.
+Darwin bu terimi, 1859'deki "Türlerin Kökeni" isimli eserinin ilk baskısında, iki defa, Bölüm IV'de ("Doğal Seçilim; ya da En Uygun Olanın Yaşaması") ile Bölüm VI'de ("Teorinin Güçlükleri") kullanmıştır.
+Doğal seçilimle karşılaştırma.
+Doğal seçilim ile yapay seçilimin altında yatan genetik süreçler arasında gerçek bir fark olmayıp yapay seçilim kavramı, Charles Darwin tarafından daha geniş bir doğal seçilim sürecinin bir göstergesi olarak kullanılmıştır. Bu seçilim süreci, insanların tercihleri veya etkinlikleri belirli bir popülasyonun veya türün evrimini büyük ölçüde etkilediğinde "yapay" olarak adlandırılır. Gerçekten de, birçok evrimsel biyolog, evcilleştirmeyi, insan kontrolü altındaki canlılarda görülen adaptif değişikliklerin ve insan eliyle yapılan doğal seçilimin bir türü olarak bakarlar. 
+Ancak, çevrenin değiştirilmesi ile bilinçsiz olarak oluşan yapay seçilim ile laboratuvarda DNA dizilerinin bilinçli olarak değiştirilmesi ile yapılan yapay seçilim arasında ayrım yapmak yararlı olabilir. Laboratuvarlar yapılan genetik manipülasyonlar ile doğada oluşan genetik değişimler arasında ancak çok az ortak yönler vardır. 
+Laboratuvarda kullanımı.
+Seçilim hakkındaki bilgilerin planlı kullanımı, deneysel biyolojide özellikle mikrobiyoloji ve genetik alanında yaygın hale gelmiştir. Genetik mühendisliğinde her yerde yaygın olarak kullanılan bir laboratuvar tekniği sayesinde genler, transfeksiyon adı verilen bir yöntemle, genellikle plazmid denilen küçük daire biçimindeki DNA moleküleri üzerinde yer alan ve bakterilerden oluşan hücre kültürü içindeki hücrelere aktarılırlar. İlgili olunan gen, plazmid üzerinde raportör gen tarafından ya da antibiyotik direnci, yüksek tuz konsantrasyonlarında yaşayabilme gibi belirli bir özelliği kodlayan "seçilebilir belirteç" tarafından eşlik edilir. Hücreler daha sonra normal hücreler için ölümcül olan ama çalışan ve plazmid üzerindeki geni ifade eden hücreler için konuksever olan bir ortamda kültive edilerek yetiştirilirler. Bu şekilde raportör genin ifadesi, bir sinyal gibi işlemekte ve hücre içinde ilgili olunan gene karşılık gelmektedir. 
+Yeni ilaçların geliştirmesinde kullanılan başka bir teknik, belirli organik bileşiklerle birleşmede yüksek eğilim gösterilmesi istenilen aptamer veya nükleik asit parçalarının geliştirmesinde kullanılır ve bunun için 'in vitro seçilimi' denilen yinelemeli bir seçici sürecinden yararlanır. 
+Evrimsel fizyoloji, davranış genetiği ve canlılar biyolojisinin diğer alanlarındaki çalışmalar da, her ne kadar gelişmiş omurgalı canlılarda nesillerin ikiye katlanma süreçleri uzun sürse veya ıslah etmede daha fazla zorluklar olsa da, yapay seçilimden faydalanırlar.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Zootekni</DOCTITLE>
+<TEXT>
+
+Zootekni Programın Amacı 
+Zootekni programının amacı, ürünlerinden yararlanılan hayvanların üretimi, ekonomik verimlerinin geliştirilmesi, bakımları, beslenmeleri ve değerlendirilmeleri konusunda çalışacak insangücünü yetiştirmek ve araştırma yapmaktır. Zootekni Bölümü Hayvan Yetiştirme ve Islahi, Yemler ve Hayvan Besleme ile Biyometri ve Genetik Anabilim Dallarına sahiptir.
+Programda okutulan belli başlı dersler.
+Zootekni programında temel bilim dersleri olarak; Botanik, Zooloji, Fizik, Kimya ve Matematik, Temel Mühendislik ve Genel Ziraat Mühendisliği olarak; Genetik, Meteoroloji, Organik Kimya, Genel Ekonomi, Teknik Resim, İstatistik, Tarım Ekonomisi, Genel Mikrobiyoloji, Genel Tarla Bitkileri, Ölçme Bilgisi, Hayvan Yetiştirme İlkeleri, Tarımsal Yapılar ve Sulama, Hayvan Ekolojisi, Genel Bahçe Bitkileri, Tarım Tarihi ve Deontolojisi, Tarımsal Kıymet Takdiri, Tarım Alet ve Makinaları, Toprak Bilgisi, Bitki Koruma, bölüm dersleri olarak; Hayvancılık Organizasyonları, Hayvan Hastalıkları ve Sağlık Koruma, Hayvan Besleme Biyokimyası, Hayvan Anatomi ve Fizyolojisi, Yemler Bilgisi ve Teknolojisi, Hayvancılıkta Bilgisayar Uygulamaları, Üreme Biyolojisi ve Yapay Tohumlama,
+Hayvan Besleme Fizyolojisi ve Metabolizması, Araştırma ve Deneme Metotları, Hayvan Refahı, Kürk Hayvanları Yetiştirme, Hayvancılıkta Biyoteknoloji, Büyükbaş Hayvan Yetiştirme, Ruminant Hayvan Besleme, Kanatlı Hayvan Yetiştirme, Su Ürünleri Yetiştirme İlkeleri, Atçılık, Organik Hayvancılık, Rasyon Hazırlama Teknikleri, Hayvan Islahı, Kanatlı Hayvan Besleme, Arı Yetiştiriciliği, 
+Küçükbaş Hayvan Yetiştirme, Hayvancılıkta Proje Hazırlama ve Değerlendirme ve Alternatif Kanatlı Hayvan Yetiştirme gibi dersler teorik ve uygulamalı olarak okutulmaktadır.
+Gereken nitelikler.
+Ziraat mühendisliğinin zootekni alanında çalışmak isteyenlerin normalin üzerinde bir genel akademik yeteneğe sahip, temel bilimlere, özellikle zoolojiye ve kimyaya ilgili ve bu alanda başarılı, inceleme ve araştırma merakı olan kimseler olmaları beklenir.
+Mezunların kazandıkları unvan ve yaptıkları ışler.
+Zootekni programını bitirenlere "Ziraat Mühendisi" unvanı verilir. Zootekni alanında yetişen ziraat mühendisi, ürünlerinden yararlanılan hayvanların verimliliklerinin artırılması yönünde araştırmalar yapar, ayrıca hayvanların verimliliklerinin artırılması için nasıl barındırılmaları ve beslenmeleri gerektiği konusunda üreticileri aydınlatır. 
+Çalışma alanları.
+Zootekni Bölümü dört yıllık eğitimlerini başarı ile tamamlayan öğrenciler Zooteknist Ziraat Mühendisi unvanı ile mezun olurlar. Mezunlar, Tarım ve Köyişleri Bakanlığı’na bağlı kurumlarda, Tarımsal Araştırma Kurumlarında, Tarımsal Kooperatiflerde, Ziraat Bankası ve Belediyeler yanı sıra tarımsal üretim, ithalat ve ihracat işleri ile uğraşan özel kuruluşlarda çalışma imkânına sahiptir. Ayrıca mezunlar tavukçuluk, süt ve besi sığırcılığı işletmelerinde, yem fabrikalarında, özel yem analiz laboratuvarlarında, yem katkı maddeleri pazarlayan yerli ve yabancı özel firmalarda çalışabilmektedir. Diğer yandan zooteknistler özel çiftlik kurarak kendi çiftliklerini de başarı ile yönetmektedirler. Bu sahada akademik ilerleme sağlamak isteyen mezunlar değişik üniversitelerin ilgili bölümlerinde lisans üstü eğitime yönelmekte ve başarılı olanlar akademik kadrolara da geçebilmektedir.
+Zootekni Bölümü Bulunan Üniversiteler.
+Adnan Menderes Üniversitesi (aydın)Ziraat Fakültesi, Akdeniz Üniversitesi (antalya)Ziraat Fakültesi, Ankara Üniversitesi Ziraat Fakültesi, Atatürk Üniversitesi (erzurum)Ziraat Fakültesi, Bingöl Üniversitesi Ziraat Fakültesi, Çanakkale Onsekiz Mart Üniversitesi Ziraat Fakültesi Çukurova Üniversitesi (adana)Ziraat Fakültesi, Dicle Üniversitesi (diyarbakır)Ziraat Fakültesi, Ege Üniversitesi (izmir)Ziraat Fakültesi, Gaziosmanpaşa Üniversitesi (tokat)Ziraat Fakültesi, Harran Üniversitesi (şanlıurfa)Ziraat Fakültesi, Kahramanmaraş Sütçü imam Üniversitesi Ziraat Fakültesi, Mustafa Kemal Üniversitesi (hatay) Ziraat Fakültesi, Namık Kemal Üniversitesi (tekirdağ)Ziraat Fakültesi, Ondokuz Mayıs Üniversitesi (samsun)Ziraat Fakültesi, Selçuk Üniversitesi (konya)Ziraat Fakültesi, Süleyman Demirel Üniversitesi ısparta)Ziraat Fakültesi, Uludağ Üniversitesi (Bursa) Ziraat Fakültesi, Ahi Evran Üniversitesi Ziraat Fakültesi( Kırşehir )
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgalı Hayvanlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Sayıları böcekler grubundan çok az olmasına rağmen yaklaşık 48000 üyesi olan omurgalılar, sıra dışı yaşam şartlarına böcekler gibi iyi uyum sağlayan bir diğer gruptur. Omurgaya sahip olan bu hayvanlar bu özellikleriyle omurgasız hayvanlardan ayrılır. 
+Omurga, vücudun sırt kısmında bulunan, omurlardan oluşmuş, kemik veya kıkırdak yapıdadır. Görevi ise içindeki sinir şeritlerini korumaktır. Dış iskelete sahip olan omurgasızların aksine, omurgalıların sahip oldukları iç iskelet canlı dokulardan meydana gelir ve canlı ile birlikte büyür. 
+Omurgalı hayvanlarda kapalı dolaşım sistemi vardır. Sindirim sistemleri gelişmiş ve görevlerine göre özelleşmiş organ ve yapılardan oluşmaktadır. Vücudun sıvı dengesinin sağlanması amacıyla özelleşmiş boşaltım organı olarak bir çift böbreğe sahiptirler. 
+Omurgalılar; balıklar, iki yaşamlılar, sürüngenler, kuşlar ve memeliler olarak beş grupta incelenir. 
+a. Balıklar 
+Bu omurgalı grubunun hepsi sularda yaşar. Dünya üzerinde büyük bir yayılma göstermişlerdir. Okyanuslarda, denizlerde, tatlı sularda, insanların ulaşamayacağı kadar derin sularda ve karanlık sularda yaşayabilen türleri mevcuttur. 
+Balıkların büyük bir çoğunluğunun sulardaki hareketleri sahip oldukları yüzgeçler sayesinde oldukça hızlıdır. 
+Etçil, otçul ve hem etçil hem otçul olarak beslenen üyeleri vardır. Ekonomik anlamda en çok değerlendirilen canlı gruplarındandırlar. Akvaryumlarda beslenerek süs amaçlı kullanılmalarının yanında, yüksek besin ve vitamin değerlerine sahiptirler. Balıklar kıkırdaklı balıklar ve kemikli balıklar olarak iki grup altında incelenir. 
+Kıkırdaklı balıklar 
+İskeletleri kıkırdak yapıda olan balık grubuna kıkırdaklı balıklar denir. Kıkırdaklı balıkların pullarının bulunmasının yanında, bu balıklar hareketli çeneye sahiptir ve dişleri bir mine tabakasıyla kaplıdır. Büyük bir çoğunluğu tuzlu sularda yaşar. Eşeyli üreme gösteren bu canlı grubunda iç döllenme görülür. 
+Bunun yanında gaz alışverişini solungaçlarıyla gerçekleştirirler. Çoğunluğu yırtıcı olmasına karşın planktonlarla beslenen türleri de bulunmaktadır. Köpek balıkları, vatozlar ve tırpanalar (Raja batis-Raya batis) bu hayvan grubundadır (Resim 173). 
+Kemikli balıklar 
+Bu grubun iskeletleri belli yerlerde kemikleşme gösterdiğinden kemikli balık olarak adlandırılmıştır. Çeneleri çok iyi gelişmiş olan bu balıkların güçlü dişleri vardır. Derileri mukus salgılamaya yarayan çok sayıda salgı bezi içerir. Gaz alışverişini kemik yapılı solungaç yayları üzerinde bulunan solungaçlarla yaparlar. Bu balıkların bazılarında yüzme keseleri varken çok az sayıda üyesinin akciğerleri vardır. Yüzme keseleri sayesinde su içindeki konumlarını ayarlayabilirler. 
+Kemikli balıklar çoğunlukla ayrı eşeylidir. Kemikli balıkların çoğunluğu etçildir fakat otçul ve hem etçil hem otçul olan türleri de mevcuttur. Hamsi (Engraulis encrasicolus-Engraulis enkrazikolus), levrek (Dicentrarchus labrax-Disentrarkhus labraks), çipura (Sparus aurata-Sparus avrata) vb. balıklar kemikli balıklardandır. 
+b. İki Yaşamlılar 
+Bu hayvan grubu iribaş döneminde suda yetişkin döneminde ise karada yaşadığı için iki yaşamlılar olarak adlandırılmıştır. Hem suda hem de karada yaşadıklarından çoğunlukla su kenarlarında yaşamlarını geçirirler. Derileri çok sayıda salgı bezleri içerir, bu sebeple derileri her zaman nemli ve yumuşaktır (Resim 174). Yüzmeye ve yürümeye yarayan iki çift üyeye sahiptirler. Kurbağalar ve semenderler bu grubun üyeleridir. 
+Gaz alışverişlerini akciğer, solungaç, deri ve ağız boşluğu astarıyla yaparlar. Bazıları bu solunum tiplerinden birini yaparken bazıları hepsini birden gerçekleştirebilir. Üremeleri eşeyli olarak gerçekleşir. Yumurta ve spermlerini suya bırakırlar; çoğunda dış döllenme görüldüğünden döllenme ve gelişme su içinde gerçekleşir. 
+c. Sürüngenler 
+Günümüzde yaklaşık 6000 kadar türü bulunan sürüngenler sürünerek hareket eder. Sürüngenlerin iskeletleri çok iyi bir şekilde kemikleşmiştir. İç iskelete sahip olmalarının yanında, keratinleşmiş pullardan meydana gelen dış iskeletlere de sahiptirler. Derilerinin sert ve keratinli bir yapıda olması bu hayvanların su kaybını önler ve bu nedenle çok sıcak iklimlerde de yaşamlarını sürdürebilirler. Vücut sıcaklıkları çevreye bağlı olarak değiştiği için çok soğuk iklimlerde yaşayamazlar. Sürüngenlerin büyük bir kısmı akciğer solunumu yapar. Eşeyli üreme gerçekleştiren bu canlı gruplarından bir kısmı, iç döllenmeden sonra yumurtalarını genelde suya yakın bölgelere bırakır (Resim 175). 
+Timsahlar, yılanlar, kaplumbağalar ve kertenkeleler günümüzde yaşamlarını sürdüren sürüngenlerdir. 
+Geçtiğimiz yüzyıl başta olmak üzere sürüngen türlerinin çoğu avlanarak derilerinden çanta ve benzeri eşyalar yapılmıştır. Bu durum bazı sürüngen türlerini yok olma tehlikesiyle karşı karşıya bırakmıştır. 
+ç. Kuşlar 
+Büyük bir çoğunluğunun uçma yeteneğine sahip olduğu omurgalı hayvan grubudur. Kemiklerinin hafif ve içlerinde hava boşluklarının olması ve vücutlarının kuşlara özel olan tüylerle kaplı olması sayesinde vücutları uçmaya uygundur. Kuşların vücudundaki tüyler (hav tüyü) ısı yalıtımı sağlarken, kanatlarında bulunan nispeten daha büyük tüyler (telek tüyler) uçmalarına yardımcı olur. Uçma özellikleri sayesinde başka canlı türlerinin yaşayamadığı yüksekliklere çıkabilirler. 
+Kuşlar uçarken çok fazla enerji kullanır. Bu sebeple yüksek metabolizma hızına sahiptirler. Akciğer solunumu yapan kuşlar, enerji elde etmek için fazla miktarda oksijene ihtiyaç duyar. Akciğerlerinin bağlı olduğu ve kemiklerin iç kısımlarına kadar ulaşabilen hava keseleri uçmaya yardımcı olmanın yanında, 
+ihtiyaç duyulan oksijeni elde etmeye de yardımcı olur. 
+Kuşların çok gelişmiş olan ses çıkarma, duyma ve görme yetenekleri vardır. Özellikle görme yeteneklerinin gelişmiş olması, uçarken yerde olan avlarını görmelerini sağlar. 
+Kuşlarda üreme eşeyli olarak gerçekleşir. İç döllenmenin görüldüğü bu hayvanlar sert kabuğa sahip yumurtalar oluşturur. Dışarı bıraktıkları yumurtaların gelişimini tamamlaması için kuluçkaya yatarlar. Yavrularına özel bakım sağlarlar. 
+Kuşlar hem etçil hem otçul canlılardır. Bitkilerin tohum ve yaprakları ile beslenebilirken, toprak solucanı başta olmak üzere birçok hayvansal besinle de yaşamlarını sürdürürler. Yüksek enerjiye ihtiyaç duyan kuşlar sık sık beslenmek zorundadır (Resim 176). 
+Tavuk, kaz, hindi ve ördek gibi kümes hayvanları da kuşlar grubunda yer alır. Kümes hayvanlarının yumurtaları ve etleri bizler için önemli besin kaynaklarıdır. 
+d. Memeliler 
+Bu hayvan grubu yavrularını süt salgılayan meme bezlerinden besledikleri için memeli adını almıştır. Vücutlarının tamamının veya belli bir kısmının kıllarla kaplı olması bu canlı grubunun karakteristik özelliğidir. Karada ve suda yaşayabilen türleri bulunmaktadır. Bu türlerden denizde yaşayan balina gibi örnekler dışında diğerlerinde dört üye bulunmaktadır. Bu üyelerinin her birinde beş veya daha az sayıda parmak bulunur. 
+İskeletleri iyi bir şekilde kemikleşmiştir. Kafataslarına bağlı biri hareketli diğeri sabit alt ve üst çeneye sahiptirler. Çoğunluğunun dişleri sert ve güçlü olan bu canlı grubu etçil, otçul ve hem etçil hem otçul olarak beslenir. 
+Memeliler yalnızca akciğer solunumu yapar. Akciğerlerini ve kalbini karın boşluğundan ayıran diyafram adında kaslara sahip olan tek canlı grubudur. Vücut sıcaklıkları sabittir ve çevre koşullarına göre değişiklik göstermez. 
+Memelilerin hepsinde eşeyli üreme görülmesine karşın oluşan yavruların gelişimleri farklılık gösterebilmektedir. Bu grubun çoğunluğunu, yavru gelişiminin anne vücudunun içinde gerçekleştiği plasentalı memeliler oluşturur (Resim 177). Bunun yanında yumurtlayarak çoğalan memeli türleri de bulunmaktadır (Resim 178). Bir diğer özel durum olarak, kanguru gibi keseli memeliler yavrularını gelişimlerinin erken döneminde doğurarak gelişimlerini vücutlarında bulunan keselerde tamamlamalarını sağlar (Resim 179). 
+Memeli hayvanlar temel besin kaynaklarımızın önemli bir kısmını bize sunar. Etlerinden faydalandığımız memeli hayvanların sütleri ve bu sütlerden oluşturulan süt ürünleri çoğunlukla kullandığımız besin kaynaklarıdır. Aynı zamanda memeli hayvan derileri çanta, ayakkabı ve kürk gibi ihtiyaç duyduğumuz eşyaların üretiminde kullanılır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayvan Hakları Evrensel Beyannamesi</DOCTITLE>
+<TEXT>
+
+Hayvan hakları bildirgesi (ya da İngilizce adıyla Universal Declaration on Animal Welfare), hayvanların da insanlar gibi birer canlı olduğunu, onlarında hakları olduğunu belirten bir bildirgedir. Bu bildirge onlara zulüm etmeyi önlemek ve onların refah standartları geliştirmek için önerilen bir hükümetler arası anlaşmadır. Beraber yaşadığımız ve aynı dünyayı paylaştığımız hayvanların tıbbi ve kozmetik deneylerde kullanılması, derileri için vahşice öldürülmeleri, eğlence amaçlı avlanılmaları veya bizi eğlendirmek amaçlı kötü muamele ile eğitilmeleri, hayvancılık sektörüne hayvan yetiştiren firmaların uygunsuz alanlarda besilicik yapması gibi ihlaller hayvan hakları tarafından denetlemektedir.
+Tarih.
+Hayvan Hakları Evrensel Beyannamesi 15 Ekim 1978 tarihinde Paris'teki UNESCO Merkezinde törenle ilan edilmiştir. Bu metin, 1989 yılında Hayvan Hakları Federasyonu tarafından tekrar düzenlenerek 1990 yılında UNESCO Genel Direktörü'ne sunulmuş ve aynı yıl halka açıklanmıştır.
+Maddeler.
+Hayvan hakları evrensel bildirgesi 14 maddeden oluşmaktadır: 
+1. Bütün hayvanlar yaşam önünde eşit doğarlar ve aynı var olma hakkına sahiptirler.
+2. Bütün hayvanlar saygı görme hakkına sahiptir. Bir hayvan türü olan insan , öbür hayvanları yok edemez. Bu hakkı çiğneyerek onları sömüremez. Bilgilerini hayvanların hizmetine sunmakla görevlidir. Bütün hayvanların insanca gözetilme, bakılma, ve korunma hakları vardır.
+3. Hiçbir hayvana kötü davranılamaz, acımasız ve zalimce eylem yapılamaz. Bir hayvanın öldürülmesi zorunlu olursa, bu bir anda, acı çektirmeden ve korkutmadan yapılmalıdır.
+4. Yabani türden olan bütün hayvanlar, kendi özel doğal çevrelerinde karada, havada ve suda yaşama ve üretme hakkına sahiptir. Eğitim amaçlı olsa bile özgürlükten yoksun kılmanın her çeşidi bu hakka aykırıdır.
+5. Geleneksel olarak insanların çevresinde yaşayan bir türden olan bütün hayvanlar uyumlu bir biçimde türüne özgü yaşam koşulları ve özgürlük içinde yaşama ve üreme hakkına sahiptir.
+6. İnsanların yanlarına aldıkları bütün hayvanlar doğal ömür uzunluklarına uygun sürece yaşama hakkına sahiptir. Bir hayvanı terk etmek acımasız ve aşağılık bir davranıştır.
+7. Bütün çalışan hayvanlar iş süresi ve yoğunluğunun sınırlandırılması ve güçlerini artırıcı bir beslenme ve dinlenme hakkına sahiptir.
+8. Hayvanlara fiziki ya da psikolojik bir acı çektiren deneyler yapmak hayvan haklarına aykırıdır. Tıbbi, bilimsel, ticari ve başkaca biçimlerdeki her türlü deneyler için de durum böyledir.
+9. Hayvan beslenmek için yetiştirilmişse de bakılmalı, barındırılmalı, taşınmalı, ölümü de acı çektirmeden ve korkutmadan olmalıdır.
+10. Hayvanlardan insanların eğlencesi olsun diye yararlanılamaz, hayvanların seyrettirilmesi ve hayvanlardan yararlanılan gösteriler hayvan onuruna aykırıdır.
+11. Zorunluluk olmaksızın bir hayvanın öldürülmesi yaşama karşı suçtur.
+12. Çok sayıda yabani hayvanın öldürülmesi demek olan her davranış bir soykırım, yani bir suçtur.
+13. Hayvan ölümüne de saygı göstermek gerekir. Hayvanın öldürüldüğü şiddet sahneleri sinema ve televizyonda yasaklanmalıdır.
+14. Hayvanları koruma ve savunma kuralları, hükümet düzeyinde temsil olunmalıdır. Hayvan hakları da insan hakları gibi yasayla korunmalıdır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye'de veteriner sağlık teknisyenliği</DOCTITLE>
+<TEXT>
+
+Veteriner Sağlık Teknisyeni kimdir ?
+İlköğretimin 8. sınıf bitiminde Türkiye genelinde yapılan sınav ile öğrenci kabül eden Tarım Meslek Liselerine bağlı Veteriner Sağlık alanından 4 yıllık temel veteriner tıp eğitimini almış, Hayvan sağlığı alanında teşhis ve tedavide Veteriner Hekimi asiste eden, hayvan ıslahı alanında çalışmalar yapan. Klinik hizmetlerinde Veteriner Hekime yardımcı olan, koruyucu hekimlik uygulamalarını yerine getiren, kendi alanında yetiştiriciyi hayvan sağlığı konusunda bilgilendiren ve gerekli uygulamaları yerine getiren, yapmış olduğu çalışmalarla ilgili kayıt tutan Mesleki kanun tüzük yönetmelik talimat mesleki literatür ve gelişmeleri takip eden ve mesleki yazışmaları yapma bilgi ve becerisine sahip nitelikli personeldir.
+Eğitim.
+Tarım Meslek Liselerine bağlı Veteriner Sağlık bölümünde 4 yıl boyunca Anatomi, Mikrobiyoloji, Fizyoloji, Histoloji, Parazitoloji, Zootekni, Besin Hijyeni ve Kontrolü, İç Hastalıkları, Farmakoloji, Salgın Hastalıklar, Dış Hastalıkları, Suni Tohumlama, Doğum Bilgisi, Genel ve Lokal Anesteziyoloji, Klinik Muayene Uygulamaları, Enjeksiyon Bilgisi, Hayvan Besleme ve Beslenme Hastalıkları, , Özel Fizik, Biyokimya, Gıda Kontrolu, , Gıda Teknolojisi, Laboratuar Teknikleri, , Hijyen ve Sterilizasyon, Operasyon Bilgisi ve değişik kültür dersleri alırlar.
+Veteriner Sağlık Meslek Liseleri.
+Türkiye'de 4 adet Veteriner Sağlık Meslek Lisesi mevcuttur. Samsun, İstanbul, Konya ve Van'da bu okullardan vardır.. Isparta ve Nizip'teki okullar kapatılmıştır. Veteriner Sağlık Meslek Liseleri daha önceleri Tarım ve Köyişleri Bakanlığına bağlıydı, 2005 yılında M.E.B'e bağlanmıştır.Okulun adı değiştirilip Tarım Meslek Lisesi olmasına rağmen halen günümüzde Veteriner Sağlık Meslek Lisesi olarak anılmaktadır.
+Çalışma Alanları.
+Bu okullardan mezun olanlar çoğunlukla Gıda Tarım ve Hayvancılık Bakanlığına bağlı Tarım il ve ilçe müdürlükleri, İl kontrol laboratuarları, Hayvancılık Araştırma Enstitüleri, Veteriner Kontrol ve Araştırma Enstitüleri, Belediyeler, Damızlık yetiştirici (Sığır, Koyun ve keçi) birlikleri, Süt üretici Birlikleri, Hayvan ve hayvan ürünleri yarışmalarında görevli olarak, Arıcılık, At yetiştiriciliği, Özel Veteriner Klinikleri (poliklinik, Pet-klinikleri), Hayvan Hastaneleri, Büyük ve küçükbaş hayvan çiftlikleri, Hayvancılık işletmeleri, kamuya ait üretim çiftlikleri, Gıda üretim tesisleri, Yem sanayii, Deney hayvanlarının üretim yerleri ve deney yapacak olan laboratuarlar, hayvanat bahçeleri, hayvan barınakları, veteriner ilaç, aşı, serum, araç ve gereç üretimini yapan ve bunların tanıtımını pazarlamasını yapan firmalar ile yetki ve sorumlulukları içine giren diğer kuruluşlar çalışma alanlarıdır. KPSS sınavına girmek suretiyle kamuda görev alırlar. Özel sektörde yetki ve sorumlulukları çerçevesinde görev alabilirler. Veteriner Hekim, Veteriner Sağlık Teknikeri, Hayvan Sağlık Teknikerleri ile birlikte çalışırlar. Hayvancılık ünitelerinde çalışırlar. Ayrıca kendi özel Hayvan Sağlık Kabinlerini de açabilirler. Hayvan Sağlığı Memuru, Veteriner Teknisyeni ve Suni Tohumlama Teknisyeni olarak da anılırlar.
+Mesleğin Geleceği ve Durumu.
+Hayvan hastalıkları ile mücadele edecek, koruyucu önlemler alacak, salgın hastalıklarla mücadele edecek, önemli hastalıkların eradikasyonu ile yerli hayvanların ıslah edilerek verim düzeylerinin arttırılmasına yönelik çalışmalarda görev alacak meslek elemanlarına olan ihtiyaç artarak devam etmektedir. İnsanlığın gıda ve giyecek ihtiyacı varolduğu sürece, hayvancılıkta varolmaya devam edecektir. Verim artışı ve ürün çeşidinin çoğalması ile ekonomik olarak üreticisine katkı sağlayacağından iyi bir planlama ile tarımsal sanayide varolacaktır. Bu da üretici ile birlikte sektörde çalışan veterinerlik, kimyasal sanayi, üretim ve pazarlama işinde çalışacak elemanlarına olan ihtiyacı arttıracaktır. Kalkınmakta olan Türkiye için stratejik bir alandır.
+Mesleki hastalık riskleri.
+Zoonoz hastalıklar (bruselloz, şarbon, kuduz, tavuk vebası (kuş gribi), deli dana hastalığı (BSE) gibi), bit, pire kene gibi parazitlere maruz kalma ve bu parazitlerin taşıdığı hastalıklara yakalanma (Kırım Kongo Kanamalı Ateşi gibi) Yapılan koruyucu aşılamalardan hastalık etkeninin bulaşması (bazı aşıların vücuda teması yoluyla) Hayvanların saldırısına maruz kalma, (ısırılma-tekme- boynuz darbesi-tırmalanma gibi), Uyuz, Mantar, Lumbago Bel ağrısı, Kist oluşumu, Romatizmal Hastalıklar, Solunum Yolu Enfeksiyonları, yılan ısırmaları..
+Eğitim ve kariyer imkanları.
+Veteriner sağlık teknisyenleri, Üniversitelerin Sağlık Programları Bölümlerinde olan, Laborant ve Veteriner Sağlık Ön Lisans Programlarına, Hayvan Yetiştiriciliği ve Sağlığı Meslek Yüksek Okullarına, Veteriner Sağlık Teknikerliği Ön Lisans Programlarına sınavlı/sınavsız girebilmektedirler. Sınavsız girdiği meslek yüksek okullarından dikey geçiş sınavı ile Veteriner Fakültelerine girebilmektedirler. Gerek kamu kurum ve kuruluşlarında, gerekse özel sektörde görev alarak yetki ve sorumluluklarını yürütürler.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güzel ile Hayvan (film)</DOCTITLE>
+<TEXT>
+
+Güzel ile Hayvan. 1946 Fransa yapımı romantik fantezi filmidir. Özgün adı La Belle et La Bête olan film Anglosakson ülkelerinde Beauty and the Beast olarak adlandırılır. Türkiye'de zaman zaman Güzel ve Çirkin adı ile gösterime sunulduğu da olmuştur. Fransız romancı Jeanne-Marie Le Prince de Beaumont'un 1756'da yazmış olduğu çok bilinen ünlü masalından yola çıkarak Jean Cocteau'nun senaryosunu yazdığı ve yönettiği filmin başrollerinde Jean Marais ve Josette Day oynamışlardır. Cocteau'nün gedikli oyuncusu Marais bu filmde üç rolü birden oynuyor.
+Bu film yönetmenin 1930'da yönettiği Bir Şairin Kanı'ndan (Le Sang d'un Poète) sonraki ikinci sinema filmidir. Filmin büyüleyici siyah beyaz görüntülerini Henri Alekan çekmiş, müziğini ise Georges Auric yapmıştır. Sinema eleştirmeni Roger Ebert'e göre Le Sang d'un Poète bir şair tarafından çekilmiş bir sanat filmiydi, oysa "La Belle et La Bête" bir sanatçı tarafından yapılmış şiirsel bir filmdir.
+Şair yönetmen Cocteau'nün en iyi filmlerinden biri, belki de başyapıtı olan bu film sinemadaki diğer "Güzel ile Hayvan" uyarlamaları arasında uyarlandığı esere en sadık olanıdır. Oyuncuların olağanüstü performanslarının yanı sıra metaforlar ve Freudyen imgelerle dolu filmin şiirsel anlatım tarzı, makyaj, kostüm ve özel efektlerin mükemmelliği ve inandırıcılığı filmi unutulmaz yapan etmenler arasındadır.
+İlk gösterimi Eylül 1946'da Cannes Film Festivali'nde yapılan film aynı yıl yine Fransa'da "Louis Delluc" ödülünü almıştı.
+Özet.
+İflasın eşiğindeki tüccar (Marcel André) bir oğlu ve üç kızı ile bir köyde yaşamaktadır.Kızlardan kendini beğenmiş,bencil ve şirret olan Felicie ve Adelaide,üçüncü kız Belle (Josette Day) üzerinde tahakküm kurmuş ve onu adeta bir hizmetçi gibi kullanmaktadırlar.Bir gün ormanda yolunu kaybeden tüccar karşısına çıkan garip bir şatoya girer.Kızı Belle için bir gül kopardığı esnada şatonun sahibi çıkagelir.Şatonun sahibi sihirli güçlere sahip yarı hayvan yarı insan bir yaratıktır.Tüccar'a kızlarından birisini kendisine vermediği takdirde onu öldüreceğini söyler.Kızlarından Belle babasını kurtarabilmek için kendini feda eder ve şatoya gider.Burada yaratığı tanıdıkça,onun göründüğü kadar vahşi ve acımasız olmadığını keşfeder.
+Filmin analizi.
+Hep önce şair sonra yönetmen olduğunu söyleyen Cocteau, şiirde sözcüklerle yaptığı şeyi sinemada görüntülerle oynayarak yapıyordu. Cocteau bir zamanlar şöyle söylemişti: ""Tarih sonunda yalanlara dönüşen gerçeklerden oluşur, efsane (mit) ise sonunda gerçeğe dönüşen yalanlardan ibarettir."" Mitlere çok benzeyen peri masalları da görünüşte masum çocuk hikâyeleri gibi gözükse de içlerinde gizliden gizliye bir alt metin bir bilgelik barındırırlar, bağnazlar tarafından yüzyıllardır yasaklanmaya çalışılan Dünyanın gerçek tarihini şiirsel bir efsane şeklinde muhafaza ederler. Cocteau peri masallarının bu gizli gücünün farkındaydı. Cocteau, 18. yy'da yazılmış peri masalı "La Belle et La Bête" nin de sembollerle ve metaforlarla dolu bir mit olduğunu hemen anladı, bu hiç de basit bir çocuk hikâyesi değildi.
+İlk metaforları filmde "Hayvan" 'ın yaşadığı büyülü şatoda görürüz. Bu ücra ve kasvetli şatonun görkemli salonları loş ve ıssızdır. Adeta şeytani bir mekandır, mumlar koridorlarda duvara monte edilmiş insan kolu şeklinde şamdanlar tarafından tutulmaktadırlar, şömine ateşi kendi kendine parlar söner, heykeller hareket eder, aynaların içinden geçilebilir vb. Ev sahibi de bir hayvan görünümünde olmasına rağmen giyim kuşamı ve davranışlarıyla bir aristokrat gibi hareket eder. Özellikle karşısındaki kadına davranışında bu asil tavrı daha da belirginleşir. Bütün bu özellikleriyle şeytanı simgeler. "Güzel" ise İsa'nın bir metaforudur. Kişisel güç ve servet peşinde koştukları için Katolikliği ve Protestanlığı temsil eden kızkardeşlerinin aksine saf ve sadık (babasına) kalabilmiştir. Cocteau filmlerinde ayna ötekini, zıtlığı, karşı tarafı temsil eder ve 'diğer' dünyaya, yeraltı dünyasına geçiş kapısı olarak kullanılır. Bu filmde ise büyülü ayna kişinin gerçek mizacını temsil etmektedir. "Güzel" aynaya baktığında ölmekte olan babasını görür, kendisini de aynada "Hayvan" ın görüntüsü şeklinde görür. Ayna kırılınca "Hayvan" zayıf düşer ve ölür.
+Freudyen imgelere gelince, Elektra kompleksiyle ilgili olarak "Pamuk Prenses", "Uyuyan Güzel", "Sinderella" vb gibi birçok peri masalında olduğu gibi "Güzel ile Hayvan" hikâyesinde de anne figürü ortada yoktur. Ana karakter ("Güzel") kendisine düşkün, hoşgörülü bir babayla yaşamaktadır, olmayan annenin rolünü üstlenmiştir, evi çekip çeviren ve babaya bakan odur. Hem babasının evinde hem de "Hayvan"ın şatosunda yumuşak başlı, itaatkar ve sabırlıdır. Başlangıçta "Hayvan"ın evlenme teklifini şiddetle reddeden "Güzel"in aslında için için, çirkin bile olsa güçlü, koruyucu bir erkek figürüne ihtiyacı olduğunu ve ondan etkilendiği ve gitgide ona tutulduğu kolayca anlaşılır. Bir analiste göre "Hayvan"ı ilk gördüğünde ona çirkin gelmesinin sebebi henüz babasına bağlı (Elektra kompleksi) olduğu için dünyevi ilişkilere hazır olmamasıdır. Ensest tabusuna sadık kalarak "Hayvan" ile cinsel ilişkiyi reddeder, ama ileriki zamanlarda Elektra kompleksinden kurtulacak ve "Hayvan"ı yakışıklı bir prens olarak görecektir.
+Filmin müziği.
+Filmin özgün müziğini Georges Auric bestelemişti. Ancak 1995 'te besteci Philip Glass bu film için, filmle tam senkronize bir opera bestelemişti . Sunum şu şekilde olacaktı; Orkestra ve opera sanatçıları eseri yorumlarlarken arkalarındaki beyaz perdeye ses kuşağı kaldırılmış olan filmin projeksiyonu yapılacaktı. Piyasada mevcut olan aynı isimli Opera CD'sini de filmi izlerken aynı teknikle evlerde izlemek mümkündü (Ancak opera 2 CD'den oluştuğu için filmi bir ara duraklatmak gerekiyordu). Film ABD'de ikinci kez Criterion Collection tarafından DVD'ye basıldığında bu opera da ikinci bir ses kuşağı olarak DVD'ye eklenmiştir, yani istendiğinde filmi seyrederken ses kuşağını kapatıp filmle senkron olan opera'yı dinlemek de mümkün olmaktadır.
+Philip Glass, Jean Cocteau'nün iki filmi için daha benzer çalışmalardan yapacaktır. Bu filmler Orphée (1950) ve Les Enfants terribles'dir (1950).
+Diğer "Güzel ile Hayvan" filmleri.
+Not:Yukarıdaki listede animasyon filmleri hariç tutulmuştur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayvancılık</DOCTITLE>
+<TEXT>
+
+Hayvansal üretim yaygın adıyla hayvancılık; ürünleri ve güçleri ile insanlara yararlı evcil hayvanların bakımı, beslenmesi, üretimi ve yetiştirilmesini kapsayan tarım kolu.
+Hayvansal üretim, hayvansal üretime yönelik temel bilimler, hayvan yetiştirme, hayvan besleme, hayvan ıslahı, hayvancılıkta mekanizasyon, ekonomi ve istatistik, biyoteknoloji, hayvansal ürünler ve işleme teknolojisi, pazarlama gibi konuları kapsar.
+Hayvansal üretimin, tarımı yapılan hayvan sınıfına göre 5 ana üretim kolu vardır:
+Büyükbaş hayvancılık.
+Büyükbaş hayvancılık; sığırcılık, mandacılık, at, eşek ve katır yetiştiriciliğini kapsayan hayvancılık dalı.
+Süt ve besi sığırcılığı çeşitli ürünleri ile gerek insan beslenmesi ve sağlığı gerekse çeşitli endüstrilerini temin etmesiyle ülke ekonomilerinde önemli rol alır.
+Mandacılık, eski önemini kaybetmektedir ve hayvan sayısı giderek azalmaktadır.
+İş gücünden yararlanılan at, eşek, katırın, motorlu araçların gelişimiyle önemi ve hayvan sayıları azalmıştır.
+Küçükbaş hayvancılığı.
+Küçükbaş hayvancılığı; koyunculuk, keçicilik, tavşan ve kürk hayvanı yetiştiriciliğini kapsayan hayvancılık dalıdır.
+Su ürünleri yetiştiriciliği.
+Su ürünleri yetiştiriciliği; avcılık faaliyetinden ayrı olarak, tatlı ve tuzlu suların ayrılmış bir bölümünde veya oluşturulan gölet ve havuzlarında, balık ve diğer deniz hayvanlarının yetiştiriciliğini kapsayan hayvancılık dalı.
+Tatlı su hayvancılığında sazan ve alabalık başta gelmektedir.
+Kümes hayvancılığı.
+Kümes hayvancılığı; tavukçuluk, hindicilik, kaz ve ördek yetiştiriciliği, bıldırcın yetiştiriciliği, deve kuşu yetiştiriciliği gibi kanatlı hayvanların yetiştiriciliğini kapsayan hayvancılık dalı.
+Süs kuşu yetiştiriciliği, bir tarım faaliyeti sayılmadığı için bu grupta yer almaz.
+Kümes hayvancılığı, hayvancılık sektörünün en gelişmiş ve teknolojiye en açık olanıdır. Aynı zamanda hayvansal protein açığının kapatılmasında dünyanın elindeki en büyük kozudur. Üretiminin kolay ve hızlı olmasının yanında maliyetinin de düşük olması başlıca üstünlüklerindendir.
+Kümes hayvancılığı içinde tavukçuluk; üretim miktarı ve potansiyeliyle başta gelmektedir.
+Kümes hayvancılığı elde edilen ürüne göre iki ana gruba ayrılır:
+Etçi kümes hayvancılığı.
+Kanatlı hayvanlardan et üretmek amacı ile yapılan faaliyetlerin bütününe verilen ad.
+Kanatlı eti üreticiliği, günümüzde büyük bir sektör olmuştur. Özellikle 1990 yıllarda, artan tüketimle beraber hızlı bir gelişim göstermiştir.Bu gelişim sektörde çalışan şirketlerin entegreleşmeleriyle sonuçlanmıştır. Entegre şirketler, bünyelerinde damızlık, kuluçka,yem üretim,kesimhane ve pazarlama ünitelerini barındırırlar. Bu durumlarıyla oldukça büyük organizasyonu oluştururlar. Entegre şirketlerde sadece kümesler entegre bünyesinde değildir. Etlik kümes sahipleriyle, entegreler arasında fason üretim anlaşmalarıyla çalışma yapılır.Kümes sahipleri, genellikle küçük veya orta ölçekli çiftçilerdir.
+İpek böcekçiliği.
+İpek böcekçiliği; ipek böceğinden ipek ipliği üretmek amacı ile yapılan yetiştiriciliğe verilen ad.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayvan hakları</DOCTITLE>
+<TEXT>
+
+Hayvan hakları, hayvanların insancıl muamele görmelerini sağlayan haklar. Özellikle hayvanların tibbi ve kozmetik deneylerde kullanılması, derisi için öldürülmesi, eğlence için avlanması ve hayvancılık sektöründe uygunsuz alanlarda yetiştirilmesi, hayvan hakkı ihlalleri olarak tanımlanmaktadır.
+Hayvan Hakları Evrensel Beyannamesi.
+Hayvan Hakları Evrensel Beyannamesi, 15 Ekim 1978 tarihinde Paris'teki Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) Merkezi'nde düzenlenen bir tören ile ilan edildi. Bu metin, 1989 yılında Hayvan Hakları Birliği tarafından tekrar düzenlenerek 1990 yılında UNESCO Genel Direktörü'ne sunulmuş ve aynı yıl halka açıklanmıştır.
+Türkiye'de hayvan hakları.
+Türkiye'de hayvan hakları 2004 yılında yasa ile koruma altına alınmıştır. Hayvanların, doğanın onlara tanıdığı yaşama haklarını korumak için gerekli hükümler yasal güvenceye alınmış ve bu hükümleri ihlal edenlere çeşitli cezalar verilmesi öngörülmüştür.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Veganizm</DOCTITLE>
+<TEXT>
+
+Veganlık ya da veganizm, hayvansal gıdaları, giyecekleri ve diğer tüm yan ürünleri kullanmayı reddetme. Bu akımın takipçilerine vegan denir. 1944'te Londra'da hala işlek halde olan Vegan Society'yi oluşturan yedi vejetaryen tarafından türetilmiş bir beslenme kültürüdür.
+Bazen "sıkı vejetaryenlik" diye de adlandırılan veganlık, en basit tanımıyla, hayvansal herhangi bir ürünü tüketmeyi reddetmektir. Çoğu vegan, hayvanlardan türetilen, dolayısıyla üretilmesi için hayvanların kullanıldığı yiyecek ürünlerini tüketmediği gibi, yapımında deri, kemik, jelatin, yün vb. hayvansal maddelerin kullanıldığı yiyecek dışı maddeleri de kullanmaz. Kozmetik ürünleri de bunlara dahildir.
+Vegan sözcüğü ayrıca bu öğretiye bağlı kimselerin tüketebileceği ürünler için de kullanılır. Örneğin "Pilaki vegandır" denilebilir.
+Öğretiye sıkı sıkıya bağlı kimi veganlar, fotoğraf filmi jelatin içerdiğinden, analog fotoğraf çekmeyi, şeker kamışından üretilen şeker, işlenirken hayvan kemiklerinden türetilen bir tür filtreden geçirildiği için, şeker kullanmayı reddedebilirler.
+Veganlığın sınırları çok kesin ve net bir şekilde çizilmemiştir. Ama vegan olmak için minimum koşulun, üretilmesi için hayvanların herhangi bir şekilde acı çektiği bütün ürünlerin reddi olduğu söylenebilir. Mesela inek sütü vegan değilken, bir annenin kendi isteğiyle çocuğuna verdiği süt vegandır.
+Veganlığın benimsenme sebepleri.
+Etik nedenler.
+Hayvanların yiyecek elde etmek amacıyla yetiştirilmesi, mutlu olabilecekleri bir ortam yerine, daracık, kalabalık bir ortamda bütün hayatlarını geçirmeye zorlanmaları, veganların hayvan ürünlerini tüketmeyi reddetmelerinin temel sebeplerinden biridir. Fabrika veya depo benzeri ortamlarda tutulan bu hayvanlar verim amacıyla her türlü işkence ve eziyete (örneğin tavukların gagalarının kesilmesi, ineklerin makinalarla zorla gebe bırakılması vb.) maruz kalmaktadırlar.
+Sağlıkla ilgili nedenler.
+Et ve süt ürünleri, içerdikleri yüksek kolestrol nedeniyle kalp sağlığı açısından zararlı olabilmektedirler. Ayrıca pek çok modern hastalık (deli dana, kuş gribi, vb.) hayvan ürünlerinden bulaşmaktadır. Oysa vegan beslenme düzeni kalp sağlığı için faydalı olduğu gibi yüksek oranda vitamin ve anti-oksidant içerdiğinden bağışıklık sistemini de güçlendirir. Dünyanın en fazla etle beslenen ülkelerinden biri olan ABD'de sıklıkla araştırmalara konu olan lif alımı yetersizliği de vegan beslenme ile çözülmektedir. Ancak vegan beslenme düzeninde yeterli protein, B vitamini (özellikle B 12), ve kalsiyum alınmasına dikkat gösterilmelidir.
+Çevresel nedenler.
+"Endişeli Bilimciler Birliği" tarafından yapılan bir çalışma, Dünya çapında kirliliğin otomotiv sanayinden sonra ikinci büyük nedeninin et endüstrisi olduğu sonucuna vardı. Özellikle dünya çapında her yıl milyarlarca büyükbaş hayvan tüketildiği düşünülürse, sadece dışkı probleminin bile nasıl bir çevresel sorun olduğu ortaya hemen anlaşılabilir.
+Ayrıca hayvan ürünleri, bitkisel ürünlerden düşük verime sahiptir. Et için yetiştirilen bir dananın hayatı boyunca tükettiği mısır miktarı o danadan kesildiğinde çıkan etin doyuracağından çok daha fazla (12 kat kadar) insanı doyurabilir. Yani veganlar, çok sayıda insanın bitkisel ürünleri tercih etmesiyle dünyadaki açlık sorununun da anında çözeceğini düşünmektedirler.
+Felsefi temelleri.
+Klasik batı felsefesinin hayvanları otomatlar olarak gören baskın öğretisi Aristo'ya kadar dayanır. Modern çağlarda da tek tek neredeyse bütün filozoflar benzer görüşleri tekrarlamışlardır. Bunların içinde Descartes özellikle "hayvanların acı çekme yetisinden yoksun olduğunu" öne sürmesiyle dikkat çeker. Büyük dinler de aynı şekilde hayvanların Tanrı tarafından 'biz yiyelim diye' yaratılmış canlılar olduğunu öne sürmektedir. Büyük dinlere göre, hayvanlar seçim yapmazlar, bu yüzden cennet cehennem onlar için değildir. Eski Hint öğretilerinin bu genel yaklaşıma tek büyük istisnayı oluşturduğunu söyleyebiliriz.
+Postmodern dönemde, özellikle Jacques Derrida yazdığı makalelerle hayvan sorunsalını derinlemesine irdeleyen filozoflardandır. Ayrıca Peter Singer'ın "Animal Liberation" ("Hayvan Özgürleşmesi") adlı kitabı bu konudaki temel felsefi sorunları genel okuyucunun anlayabileceği bir dilde açıklamıştır. Bu kitap batıda özellikle radikal hayvan hakları hareketlerinin el kitabı olarak görülür.
+Peter Singer, toplumumuzun bilinçaltında var olan insan şovenizmini (bkz. türcülük) ortaya koymaya çalışır. Tüm hayvanların (dolayısıyla insanın da) eşit saygı gördüğü bir toplumu ahlaki olarak savunur. Bu felsefi yaklaşımın kaçınılmaz pratik sonucu (yamyamlığı vs. reddettiğimizi varsayarsak) "vegan"lıktır.
+Kendilerine "Rahatsız Veganlar" diyen İzmir kaynaklı bir grup hayvan hakları aktivisti Kasım 2013'te yayınladıkları manifesto ile hayvan hakları hareketini tıpkı feministlerin zamanında yaptığı gibi ikinci dalgaya evrilmeye çağırdı. Buna sebep olarak da veganlığın bir tüketim biçimi olarak öne çıkarken hayvan özgürlüğünün konuşulmuyor olması gösterildi. Rahatsızlar, vegan beslenme pratikte sürerken politikanın insanların neyi tüketip/tüketmeyeceğinden çıkıp hayvanları sömüren endüstriye karşı doğrudan eylemlere kayması gerektiğini belirtti. 
+Kaynakça.
+<br clear="all">
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayvan Kurtuluş Cephesi</DOCTITLE>
+<TEXT>
+
+ALF (Animal Liberation Front - "Hayvan Kurtuluş Cephesi"), 1976´da radikal hayvan hakları eylemcisi Ronnie Lee´nin kurduğu aktivist gruptur.
+Tarihsel Dönem.
+Hayvan hakları hareketi 1960´larda Avrupa ve ABD'nin birçok yerinde kendi şiarlarıyla bağımsız bir güç olarak ortaya çıktı. Genel kitlesel hareketlerin içinden 'kadın talepleri ve dili' ekseninde özerkleşen feministlerin duruşlarına benzer bir yönelim, hayvan hakları aktivistlerini de yeni, makro alanların içine hapsolmayan özgün bir eyleyiş doğrultusunda etkiledi. Bu uğurda hayvan hakları ekseni, başlı başına bir politika yapma zemini olarak işlev kazanmaya başladı. İngiltere'de kurumlaşmış bir geleneğe dayanan avcılığı engellemek için çalışmalar yapan aktivistler, yasal çalışmalarının uğradığı baskı ve saldırılar karşısında yasalarla kısıtlanmayan eylemleri 1970'lerde benimsedi.
+Çeşitli sabotaj grupları, hayvanları sömüren sektörlere ve mallarına yönelik eylemlere o yıllarda giriştiler. "Band of Mercy" adlı av sabotaj grubu, kundaklama alanında etkili işler yapmaya girdi ve bu süreç iki üyelerinin 1974'te tutuklanmasına kadar vardı. 
+Kuruluşu.
+Hapisten daha da motive olmuş biçimde çıkan Ronnie Lee, 1976 yılında Hayvan Kurtuluş Cephesi (ALF- "Animal Liberation Front") adını verdiği militan eylemci bir örgütü kurarak devlete meydan okuyordu. ALF, hayvanları deney laboratuarlarından kurtarmak, kötü muameleye maruz kaldıkları yerlerden kaçırarak doğal ihtiyaçlarını karşılayabilecekleri yerlere yerleştirmek gibi eylemleriyle bir anda radikal hayvan hakları aktivistleri arasında müthiş bir çekicilik kazandı. ABD'de ilk ALF hücresi 1982 yılında kuruldu ve aynı yıl Howard Üniversitesi'ne düzenledikleri baskınla deneylerde sakat bıraktırılmış yirmi dört kediyi özgürlüğüne kavuşturdu.
+Günümüzde ALF.
+ALF, merkezsiz ve hiyerarşik organlara sahip olmayan özerk örgütlenme modeliyle, kendi ilkelerine uyan her eylem grubunun ALF adıyla eylem düzenlemesine uygun yapısıyla yirmiyi aşkın ülkede faaliyet sürdürmekte. Doğrudan eylemi benimseyen otonom eylemci grupların özgürlükçü ilkeleri ALF'e, geleneksel sınıfsal muhalefet odaklarından soğumuş gençler için müthiş bir çekicilik kazandırıyor. Modernizmin büyük anlatıları ekseninde şekillenen pozitivist anti-kapitalist odakların yaşamın ve doğanın çeşitliliğine yönelik politika üretemeyişi, böylesi duyarlılıkların ALF benzeri parçaya - salt hayvan hakları gibi- yoğunlaşan hareketlerin kanalına akması sonucunu yaratıyor.
+Dış bağlantılar.
+Kaynak: Birgün Gazetesi (Kaynak gösterilerek alıntı yapmaya izin verilmiştir).
+
+</TEXT>
+</DOC>
+

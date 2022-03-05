@@ -1,0 +1,6 @@
+1	Orojenez	Orojenez	Noun	Prop	A3sg|Pnon|Nom	4	SUBJECT	_	_
+2	nasıl	nasıl	Adv	Adv	_	4	MODIFIER	_	_
+3	_	gerçek	Adj	Adj	_	4	DERIV	_	_
+4	gerçekleşir	_	Verb	Verb	Become|Pos|Aor|A3sg	5	SENTENCE	_	_
+5	.	.	Punc	Punc	_	0	ROOT	_	_
+

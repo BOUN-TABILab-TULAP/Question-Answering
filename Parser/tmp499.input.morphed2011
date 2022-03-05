@@ -1,0 +1,86 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Suç	suç+Noun+A3sg+Pnon+Nom
+
+teşkil	teşkil+Noun+A3sg+Pnon+Nom
+
+eden	e	+Noun+A3sg+Pnon+Abl
+eden	et	+Verb+Pos^DB+Adj+PresPart
+
+adli	adli	+Adj
+
+olayları	olay	+Noun+A3pl+Pnon+Acc
+olayları	olay	+Noun+A3pl+P3sg+Nom
+olayları	olay	+Noun+A3pl+P3pl+Nom
+olayları	olay	+Noun+A3sg+P3pl+Nom
+
+aydınlığa	aydın+Adj^DB+Noun+Ness+A3sg+Pnon+Dat
+
+kavuşturmak	kavuş+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+için	iç+Noun+A3sg+P2sg+Nom
+için	iç+Noun+A3sg+Pnon+Gen
+için	iç+Verb+Pos+Imp+A2pl
+için	için+Postp+PCGen
+için	için+Postp+PCNom
+
+saç	saç+Noun+A3sg+Pnon+Nom
+saç	saç+Verb+Pos+Imp+A2sg
+
+kıl	kıl+Noun+A3sg+Pnon+Nom
+kıl	kıl+Adj
+kıl	kıl+Verb+Pos+Imp+A2sg
+
+tırnak	tırnak+Noun+A3sg+Pnon+Nom
+
+deri	de	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+deri	deri	+Adj
+deri	deri	+Noun+A3sg+Pnon+Nom
+
+kemik	kemik	+Adj
+kemik	kemik	+Noun+A3sg+Pnon+Nom
+
+gibi	gibi	+Postp+PCGen
+gibi	gibi	+Postp+PCNom
+
+biyolojik	biyoloji	+Noun+A3sg+Pnon+Nom^DB+Adj+Related
+
+delilleri	delil	+Noun+A3pl+Pnon+Acc
+delilleri	delil	+Noun+A3pl+P3sg+Nom
+delilleri	delil	+Noun+A3pl+P3pl+Nom
+delilleri	delil	+Noun+A3sg+P3pl+Nom
+
+analiz	analiz	+Noun+A3sg+Pnon+Nom
+
+eden	e	+Noun+A3sg+Pnon+Abl
+eden	et	+Verb+Pos^DB+Adj+PresPart
+
+bilim	bilim	+Noun+A3sg+Pnon+Nom
+
+dalı	dal	+Noun+A3sg+P3sg+Nom
+dalı	dal	+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

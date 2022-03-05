@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Progesteron Progesteron+Noun+Prop+A3sg+Pnon+Nom
+hormonunun hormon+Noun+A3sg+P3sg+Gen hormon+Noun+A3sg+P2sg+Gen
+görevi görev+Noun+A3sg+Pnon+Acc görev+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

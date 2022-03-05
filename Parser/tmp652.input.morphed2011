@@ -1,0 +1,46 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ormanların	orman	+Noun+A3pl+Pnon+Gen
+Ormanların	orman	+Noun+A3pl+P2sg+Nom
+
+tahrip	tahrip	+Noun+A3sg+Pnon+Nom
+
+edilmesi	et	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+sonucu	sonuç+Noun+A3sg+P3sg+Nom
+sonucu	sonuç+Noun+A3sg+Pnon+Acc
+
+oluşan	oluş+Verb+Pos^DB+Adj+PresPart
+
+bozkırlara	bozkır+Noun+A3pl+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

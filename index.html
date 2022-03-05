@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<link rel="shortcut icon" href="/repository/xmlui/themes/UFALHome/images/favicon.ico" />
+<meta name="Generator" content="DSpace 5.11-SNAPSHOT" />
+<link href="/repository/xmlui/themes/UFAL/lib/lindat/public/css/lindat.css" rel="stylesheet" />
+<link href="/repository/xmlui/themes/UFAL/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/repository/xmlui/themes/UFAL/lib/bootstrap/css/font-awesome.min.css" rel="stylesheet" />
+<link href="/repository/xmlui/themes/UFAL/lib/bootstrap/css/ufal-theme.css" rel="stylesheet" />
+<link href="/repository/xmlui/themes/UFAL/lib/bootstrap/css/repository.css" rel="stylesheet" />
+<link type="application/rss+xml" rel="alternate" href="/repository/xmlui/feed/rss_1.0/site" />
+<link type="application/rss+xml" rel="alternate" href="/repository/xmlui/feed/rss_2.0/site" />
+<link type="application/atom+xml" rel="alternate" href="/repository/xmlui/feed/atom_1.0/site" />
+<link type="application/opensearchdescription+xml" rel="search" href="http://172.17.0.1:8080/repository/xmlui/open-search/description.xml" title="TABILAB-DIP" />
+<script type="text/javascript">
+				
+				// Clear default text of emty text areas on focus
+				function tFocus(element) {
+					if (element.value == ' '){
+						element.value='';
+					}
+				}
+				
+				// Clear default text of emty text areas on submit
+				function tSubmit(form) {
+					var defaultedElements = document.getElementsByTagName("textarea");
+					for (var i=0; i != defaultedElements.length; i++){
+						if (defaultedElements[i].value == ' '){
+							defaultedElements[i].value='';
+						}
+					}
+				}
+				
+				// Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+				function disableEnterKey(e) {
+					var key;
+					if(window.event)
+						key = window.event.keyCode; //Internet Explorer
+					else
+						key = e.which; //Firefox and Netscape
+		
+					if(key == 13) //if "Enter" pressed, then disable!
+						return false;
+					else
+						return true;
+				}
+		
+				function FnArray() {
+					this.funcs = new Array;
+				}
+		
+				FnArray.prototype.add = function(f) {
+					if( typeof f!= "function" ) {
+						f = new Function(f);
+					}
+					this.funcs[this.funcs.length] = f;
+				};
+		
+				FnArray.prototype.execute = function() {
+					for( var i=0; i<this.funcs.length; i++ ){
+						this.funcs[i]();
+					}
+				};
+		
+				var runAfterJSImports = new FnArray();
+			</script>
+<title xmlns:i18n="http://apache.org/cocoon/i18n/2.1">TABILAB Repository Home</title>
+<link xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" rel="stylesheet" type="text/css" href="https://lvh.me/aai/discojuice/discojuice.css" />
+</head><!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+                <!--[if IE 7 ]>    <body id="lindat-repository" class="ie7"> <![endif]-->
+                <!--[if IE 8 ]>    <body id="lindat-repository" class="ie8"> <![endif]-->
+                <!--[if IE 9 ]>    <body id="lindat-repository" class="ie9"> <![endif]-->
+                <!--[if (gt IE 9)|!(IE)]><!--><body id="lindat-repository"><!--<![endif]-->
+<nav class="lindat-header lindat-common" role="navigation" data-version="2.1.6" data-build="d739d5b6c774ff932f2ed24524462e75f4fb552a">
+  <button type="button" class="lindat-menu-btn" onclick="document.querySelector('.lindat-menu').classList.toggle('lindat-open')">
+    <span class="lindat-menu-icon">
+      <span class="lindat-icon-bar"> </span>
+      <span class="lindat-icon-bar"> </span>
+      <span class="lindat-icon-bar"> </span>
+    </span>
+  </button>
+  <ul class="lindat-menu">
+    <li class="tabilab-menu-name-item">
+      <a href="http://www.tabilab.cmpe.boun.edu.tr">
+<span>TABILAB</span>
+</a>
+    </li>
+    <li class="tabilab-home-item">
+      <a href="/">
+<span>Home</span>
+</a>
+    </li>
+    <!-- <li class="lindat-repository-item">
+      <a href="/repository/xmlui/?locale-attribute=cs"><span>Repository</span></a>
+    </li> -->
+    <li class="lindat-demo-item">
+      <a href="/demo">
+<span>Demo</span>
+</a>
+    </li>
+    <li class="lindat-about-item">
+      <a href="/repository/xmlui/page/about?locale-attribute=en">
+<span>About</span>
+</a>
+    </li>
+  </ul>
+</nav>
+<nav class="navbar-fixed-top">
+<div class="container-fluid">
+<ul class="nav navbar-nav navbar-right">
+<li>
+<div style="opacity: 1 !important;" id="userbox">
+<div style="margin: 5px 15px 5px 5px; padding: 5px 10px 5px 10px; font-size: 16px;" class="label label-important">
+<a class="signon" style="color: #FFF;" href="/repository/xmlui/login">
+<i class="fa fa-sign-in fa-lg"> </i>Login</a>
+</div>
+</div>
+</li>
+</ul>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="nav navbar-nav navbar-left">
+<li />
+</ul>
+</div>
+</nav>
+<div class="container-fluid">
+<div class="container">
+<div style="margin-top: 5px; " class="visible-xs text-center">
+<button style="border-radius: 30px; width: 100%;" class="btn btn-default btn-sm" type="button" id="showhidemenu">
+<i class="fa fa-align-justify"> </i>Show/Hide Menu</button>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" style="margin-bottom: 0px;" class="row jumbotron">
+<form method="post" class="form-search" action="/repository/xmlui/discover">
+<div class="row">
+<div class="input-group input-group-lg col-md-6 col-md-offset-3">
+<span class="input-group-addon">
+<i style="color: #12295D;" class="fa fa-search fa-lg"> </i>
+</span>
+<input type="text" class="form-control" name="query" />
+<span class="input-group-btn">
+<input xmlns:i18n="http://apache.org/cocoon/i18n/2.1" value="Search" type="submit" name="submit" class="btn btn-large btn-repository" />
+</span>
+</div>
+</div>
+<div class="container-fluid text-center">
+<ul class="list-inline">
+<li class="no-padding">
+<strong>
+<a class="btn btn-link btn-small no-padding" href="/repository/xmlui/discover?advance">Advanced Search</a>
+</strong>
+</li>
+</ul>
+</div>
+</form>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="row text-center" id="facet-box">
+<div class="col-md-offset-2 col-md-3 text-left">
+<ul class="nav nav-list">
+<li style="margin: 10px;">
+<strong>Author</strong>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="sublist">
+<li>
+<a href="/repository/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=G%C3%BCng%C3%B6r%2C+Tunga">
+<span>
+<strong class="truncate">Güngör, Tunga (5)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=%C3%96zg%C3%BCr%2C+Arzucan">
+<span>
+<strong class="truncate">Özgür, Arzucan (3)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=K%C3%B6ksal%2C+Abdullatif">
+<span>
+<strong class="truncate">Köksal, Abdullatif (2)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=Sara%C3%A7lar%2C+Murat">
+<span>
+<strong class="truncate">Saraçlar, Murat (2)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=author&amp;filter_relational_operator=equals&amp;filter=Ayd%C4%B1n%2C+Cem+R%C4%B1fk%C4%B1">
+<span>
+<strong class="truncate">Aydın, Cem Rıfkı (1)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/search-filter?field=author">
+<span>
+<strong class="truncate">... View More</strong>
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="col-md-3 text-left">
+<ul class="nav nav-list">
+<li style="margin: 10px;">
+<strong>Subject</strong>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="sublist">
+<li>
+<a href="/repository/xmlui/discover?filtertype=subject&amp;filter_relational_operator=equals&amp;filter=Sentiment+Analyzer">
+<span>
+<strong class="truncate">Sentiment Analyzer (2)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=subject&amp;filter_relational_operator=equals&amp;filter=dependency">
+<span>
+<strong class="truncate">dependency (1)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=subject&amp;filter_relational_operator=equals&amp;filter=extraction">
+<span>
+<strong class="truncate">extraction (1)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=subject&amp;filter_relational_operator=equals&amp;filter=Morphological+Analyser">
+<span>
+<strong class="truncate">Morphological Analyser (1)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/discover?filtertype=subject&amp;filter_relational_operator=equals&amp;filter=Morphological+Disambiguator">
+<span>
+<strong class="truncate">Morphological Disambiguator (1)</strong>
+</span>
+</a>
+</li>
+<li>
+<a href="/repository/xmlui/search-filter?field=subject">
+<span>
+<strong class="truncate">... View More</strong>
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="row contents">
+<div class="sidebar col-sm-3 col-xs-12 hidden-xs" id="options-menu">
+<ul class="nav nav-list">
+<li class="always-open">
+<a onclick="return false;" style="cursor: default;" href="#">
+<i class="fa fa-bullseye  fa-lg"> </i>
+<span class="menu-text">Browse</span>
+<b xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="arrow fa fa-caret-down"> </b>
+</a>
+<ul class="submenu">
+<li class="">
+<a class="dropdown-toggle" href="#">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-angle-right"> </i>All of the Repository</span>
+<b xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="arrow fa fa-caret-down"> </b>
+</a>
+<ul class="submenu">
+<li>
+<a href="/repository/xmlui/browse?type=dateissued" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Issue Date</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=author" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Authors</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=title" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Titles</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=subject" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Subjects</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=publisher" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Publisher</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=language" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Language</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=type" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Type</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/browse?type=rights" class="">
+<i class="fa fa-angle-right"> </i>
+<span class="menu-text">Rights Label</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="always-open">
+<a onclick="return false;" style="cursor: default;" href="#">
+<i class="fa fa-user fa-lg"> </i>
+<span class="menu-text">My Account</span>
+<b xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="arrow fa fa-caret-down"> </b>
+</a>
+<ul class="submenu">
+<li>
+<a href="/repository/xmlui/login" class="signon">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-angle-right"> </i>Login</span>
+</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="always-open">
+<a onclick="return false;" style="cursor: default;" href="#">
+<i class="fa fa-info-circle fa-lg"> </i>
+<span class="menu-text">General Information</span>
+<b xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:confman="org.dspace.core.ConfigurationManager" class="arrow fa fa-caret-down"> </b>
+</a>
+<ul class="submenu">
+<li>
+<a href="/repository/xmlui/page/deposit" class="">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-angle-right"> </i>Deposit</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/page/cite" class="">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-quote-right fa-lg"> </i>Cite</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/page/item-lifecycle" class="">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-angle-right"> </i>Submission Lifecycle</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/page/faq" class="">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-question fa-lg"> </i>FAQ</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="/repository/xmlui/page/about" class="">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-exclamation-circle fa-lg"> </i>About</span>
+</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<a href="mailto:tabilab.dip@gmail.com" class="helpdesk">
+<i class="fa fa-caret-right"> </i>
+<span class="menu-text">
+<i class="fa fa-envelope fa-lg"> </i>Help Desk</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="sidebar col-sm-3 placeholder col-xs-12 hidden-xs"> </div>
+<div class="col-sm-9" id="main-contents">
+<div id="recent-submissions" class="well well-lg">
+<h3 class="recent-submissions-head">What's New</h3>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="item-box">
+<div class="item-type"> toolService </div>
+<div class="item-branding label">
+<a href="/repository/xmlui/discover?filtertype=branding&amp;filter_relational_operator=equals&amp;filter=Community">Community</a>
+</div>
+<img onerror="this.src='/repository/xmlui/themes/UFAL/images/mime/application-x-zerosize.png'" alt="toolService" class="artifact-icon pull-right" src="themes/UFALHome/lib/images/toolService.png" />
+<div class="artifact-title">
+<a href="/repository/xmlui/handle/99999/11">Dependency Parser</a>
+</div>
+<div class="artifact-info">
+<div class="author-head">Author(s):</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="author">
+<span>
+<a href="/repository/xmlui/browse?value=Özateş, Şaziye Betül&amp;type=author">Özateş, Şaziye Betül</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Güngör, Tunga&amp;type=author">Güngör, Tunga</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Özgür, Arzucan&amp;type=author">Özgür, Arzucan</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Öztürk, Balkız&amp;type=author">Öztürk, Balkız</a>
+</span>
+</div> </div>
+<div class="artifact-abstract-head">Description:</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="artifact-abstract">Dependency parsing is the process of parsing a sentence with respect to a dependency grammar for a language. Given a sentence, the dependency parser extracts the binary dependency relations between the words in the sentence. ...</div>
+<div style="margin-bottom: 20px;" class="label label-info">
+<i class="fa fa-paperclip"> </i>This item contains no files.</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="item-box">
+<div class="item-type"> toolService </div>
+<div class="item-branding label">
+<a href="/repository/xmlui/discover?filtertype=branding&amp;filter_relational_operator=equals&amp;filter=Community">Community</a>
+</div>
+<img onerror="this.src='/repository/xmlui/themes/UFAL/images/mime/application-x-zerosize.png'" alt="toolService" class="artifact-icon pull-right" src="themes/UFALHome/lib/images/toolService.png" />
+<div class="artifact-title">
+<a href="/repository/xmlui/handle/99999/10">Verbal MWE Identifier</a>
+</div>
+<div class="artifact-info">
+<div class="author-head">Author(s):</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="author">
+<span>
+<a href="/repository/xmlui/browse?value=Yirmibeşoğlu, Zeynep&amp;type=author">Yirmibeşoğlu, Zeynep</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Güngör, Tunga&amp;type=author">Güngör, Tunga</a>
+</span>
+</div> </div>
+<div class="artifact-abstract-head">Description:</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="artifact-abstract">A multiword expression (MWE) is a phrase that is formed of more than one token. The meaning of a MWE can only be loosely predicted or can not be predicted at all from the meanings of the words it comprises of. Verbal MWE ...</div>
+<div style="margin-bottom: 20px;" class="label label-info">
+<i class="fa fa-paperclip"> </i>This item contains no files.</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="item-box">
+<div class="item-type"> toolService </div>
+<div class="item-branding label">
+<a href="/repository/xmlui/discover?filtertype=branding&amp;filter_relational_operator=equals&amp;filter=Community">Community</a>
+</div>
+<img onerror="this.src='/repository/xmlui/themes/UFAL/images/mime/application-x-zerosize.png'" alt="toolService" class="artifact-icon pull-right" src="themes/UFALHome/lib/images/toolService.png" />
+<div class="artifact-title">
+<a href="/repository/xmlui/handle/99999/9">Sentiment Analyzer</a>
+</div>
+<div class="artifact-info">
+<div class="author-head">Author(s):</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="author">
+<span>
+<a href="/repository/xmlui/browse?value=Aydın, Cem Rıfkı&amp;type=author">Aydın, Cem Rıfkı</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Güngör, Tunga&amp;type=author">Güngör, Tunga</a>
+</span>; <span>
+<a href="/repository/xmlui/browse?value=Erkan, Ali&amp;type=author">Erkan, Ali</a>
+</span>
+</div> </div>
+<div class="artifact-abstract-head">Description:</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="artifact-abstract">Sentiment analysis is the process of determining the sentiment (positive, negative) of a text. Given a text formed of one or more sentences, the sentiment analyzer outputs one of the two sentiments for the entire text.</div>
+<div style="margin-bottom: 20px;" class="label label-info">
+<i class="fa fa-paperclip"> </i>This item contains no files.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:psu="cz.cuni.mff.ufal.utils.PageStructureUtil" id="repository_path" class="hidden" href="/repository/xmlui"> </a>
+<div class="lindat-common lindat-footer" data-build="d739d5b6c774ff932f2ed24524462e75f4fb552a" data-version="2.1.6">
+  <div class="lindat-footer-main">
+    <div class="lindat-footer-content lindat-container">
+      <div class="lindat-footer-left">
+        <a class="boun-logo" href="http://www.boun.edu.tr" title="Bogazici University"> </a>
+      </div>
+      <div class="lindat-footer-text">
+        <div class="lindat-footer-text1">
+          <h1>Bogazici University</h1>
+  <ul>
+<li>
+<a href="http://www.boun.edu.tr">Bogazici University</a>
+</li>
+    <li>
+<a href="http://www.cmpe.boun.edu.tr">Computer Engineering Department</a>
+</li>
+    <li>
+<a href="http://www.tabilab.cmpe.boun.edu.tr">TABILAB</a>
+</li>
+    </ul>
+        </div>
+        <div class="lindat-footer-text2">
+          <h1>Repository</h1>
+  <ul>
+<li>
+<a href="http://nlp.cmpe.boun.edu.tr">Main</a>
+</li>
+    <li>
+<a href="mailto:tabilab.dip@gmail.com">Contact</a>
+</li>
+    <li>
+<a href="/repository/xmlui/page/faq">FAQ</a>
+</li>
+    <li>
+<a href="/repository/xmlui/page/about">About</a>
+</li>
+    </ul>
+        </div>
+        <div class="lindat-footer-text3">
+          <h1>Contact</h1>
+  <ul>
+<li>Department of Computer Engineering, Boğaziçi University</li>
+    <li>34342 Bebek, Istanbul, Turkey</li>
+    <li>Phone: +90 212 359 45 23/24</li>
+    <li>
+<a href="mailto:tabilab.dip@gmail.com">Email: tabilab.dip@gmail.com</a>
+</li>
+    </ul>
+        </div>
+      </div>
+      <!--<div class="lindat-footer-right">
+      </div>-->
+    </div>
+  </div>
+  <div class="lindat-copyright">
+    <p>
+      <strong>
+<span>Copyright (c) 2020 TABILAB, Bogazici University. All rights reserved.</span>
+<br />Based on <a href="https://github.com/ufal/clarin-dspace/">CLARIN DSpace</a>.
+      </strong>
+    </p>
+    <p />
+  </div>
+  <!-- TRACKING CODE -->
+  
+  <script type="text/javascript">
+    //
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    // main LINDAT/CLARIAH-CZ tracker
+    ga('create', 'UA-27008245-2', 'cuni.cz');
+    ga('send', 'pageview');
+    //
+  </script>
+
+  <!-- Piwik LINDAT/CLARIAH-CZ tracker -->
+  <script type="text/javascript">
+    //
+    var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.mff.cuni.cz"]);
+    _paq.push(["setDomains", ["*.mff.cuni.cz"]]);
+    _paq.push(['setCustomVariable', 1, "source", "common-theme", "page"]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u='//lindat.mff.cuni.cz/piwik/';
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 2]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    //
+  </script>
+  <noscript>
+<p>
+<img alt="" src="//lindat.mff.cuni.cz/piwik/piwik.php?idsite=2" style="border:0;" />
+</p>
+</noscript>
+  <!-- End Piwik Code -->
+  
+  <!-- End TRACKING CODE -->
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"> </script>
+<script src="/repository/xmlui/themes/UFAL/lib/js/jquery-ui.js" type="text/javascript"> </script>
+<script src="/repository/xmlui/themes/UFAL/lib/js/jquery.i18n.js" type="text/javascript"> </script>
+<script type="text/javascript" src="/repository/xmlui/themes/UFAL/lib/js/messages/messages.js"> </script>
+<script src="https://lvh.me/aai/discojuice/discojuice-2.1.en.min.js" type="text/javascript"> </script>
+<script src="https://lvh.me/aai/aai.js" type="text/javascript"> </script>
+<script type="text/javascript">!window.jQuery && document.write('<script type="text/javascript" src="/repository/xmlui/static/js/jquery-1.7.min.js"> <\/script>')</script>
+<script type="text/javascript" src="/repository/xmlui/themes/UFAL/lib/bootstrap/js/bootstrap.min.js"> </script>
+<script type="text/javascript" src="/repository/xmlui/themes/UFAL/lib/bootstrap/js/ufal.min.js"> </script>
+<script type="text/javascript" src="/repository/xmlui/themes/UFALHome/../UFAL/lib/js/aai_config.js">
+				 
+			</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"> </script><!--[if lt IE 7 ]>
+<script type="text/javascript" src="/repository/xmlui/themes/UFALHome/lib/js/DD_belatedPNG_0.0.8a.js?v=1">
+			 
+		</script>
+<script type="text/javascript">DD_belatedPNG.fix('#ds-header-logo');DD_belatedPNG.fix('#ds-footer-logo');$.each($('img[src$=png]'), function() {DD_belatedPNG.fixPng(this);});</script><![endif]-->
+<script type="text/javascript">
+			runAfterJSImports.execute();
+		</script>
+<script>				
+			jQuery.each(jQuery("#facet-box .truncate"), function(index, item) {
+				splitIndex = item.textContent.lastIndexOf("(");
+				if(splitIndex != -1) {
+					text = item.textContent.substr(0, splitIndex);
+					count = item.textContent.substr(splitIndex);
+					if(text.length > 25)
+						text = text.substr(0, 20) + " ...";
+					item.textContent = text + count;
+				}
+			});
+		</script>
+<a class="hidden" href="/repository/xmlui/htmlmap"> </a></body></html>

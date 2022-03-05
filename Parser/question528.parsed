@@ -1,0 +1,9 @@
+1	Dünya	dünya	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT	_	_
+2	su	su	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	günü	gün	Noun	Noun	A3sg|P3sg|Nom	7	MODIFIER	_	_
+4	ne	ne	Adj	Adj	_	5	MODIFIER	_	_
+5	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT	_	_
+6	_	kutla	Verb	Verb	_	7	DERIV	_	_
+7	kutlanır	_	Verb	Verb	Pass|Pos|Aor|A3sg	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

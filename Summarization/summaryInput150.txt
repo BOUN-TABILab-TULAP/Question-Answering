@@ -1,0 +1,230 @@
+Question: Debi ne cinsinden ifade edilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Debi</DOCTITLE>
+<TEXT>
+
+Debi, bir akışkanın aktığı izleğin herhangi bir kesitinden birim zamanda geçen akışkan hacmidir. 
+Bir akarsuyun aktardığı su miktarını, bir boru sisteminin çeşitli noktalarında aktarılan akışkan miktarını belirlerken vb. yerlerde kullanılır. Hidrolojide, hidrolikte, akışkanlar mekaniğinde sıkça başvurulan bir kavramdır. Boyutu formula_1, genellikle kullanılan metrik birimi formula_2 ve yaygın göstergesi Q harfidir.
+Genelde kullanılan tanımı.
+Debi (veya Hacimsel debi), hacimsel akış hızı olarak tanımlanabilir.
+Formülü.
+Burada;
+"formula_4": Debi, formula_5 biriminde.
+"formula_6": Akışkanın Hızı, formula_7 biriminde.
+"formula_8": Kesitsel (Enkesit) vektörel alan, formula_9 biriminde.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bant genişliği</DOCTITLE>
+<TEXT>
+
+Bant genişliği, bir iletim ortamının ya da haberleşme kanalının kapasitesini ifade etmek için kullanılır. Başka bir deyişle bir kanal üzerinde taşınabilecek en fazla frekansa sahip sinyal, kanalın band genişliğidir. Bant genişliği ne kadar büyükse, belli bir süre içinde aktarılabilecek verinin hacmi de o kadar büyük olur. 
+Bilgisayar bilimlerinde; bant genişliği veya dijital bant genişliği kullanılan veya kullanılabilen veri iletişim kaynaklarındaki veri oranının bit/saniye cinsinden ölçülmesine 
+denir.
+Haberleşme kanalının kapasitesi, analog sinyal kullanılıyorsa Hertz(Hz), sayısal sinyal kullanılıyorsa bps (bit per second) ile ifade edilir.
+Ayrıca veri aktarımı, dijital haberleşme ve kablosuz haberleşme, elektronik vs. kitaplarında bant genişliği anolog sinyalin hertz cinsinden ölçümüne de denir. Bazı bilgisayar ağı uzmanları karışıklıkları önlemek için bit/saniye deki veri genişliği yerine bitrate, kanal 
+kapasitesi,debi gibi daha yüzeysel terimler seçerler.
+Bant genişliği temelde salt teknik bir konu değildir; iletişim altyapısının niteliğini belirler, dolayısıyla politik ve ekonomik önem de taşır. İnternetin yaygınlaşmasıyla küçük çaplı devletlerin yayıncıların problemlerinden bir tanesi haline gelmektedir. 
+İnternette bant genişliği.
+İnternetin en büyük sorunlarından biridir. Özellikle büyük siteler büyük bant genişliği kullanırlar. Bu bant genişliğini verimli kullanabilmek ve belli trafik türlerine öncelik verebilmek için geliştirilmiş teknolojiler mevcuttur (QuOS).
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektriksel alan</DOCTITLE>
+<TEXT>
+
+Elektriksel alan, kıvıl alan, elektrik alan veya elektrik alanı, elektriksel yükü veya manyetik alanı çevreleyen uzayın bir özelliği olup, içerisinde bulunan yüklü nesnelere elektriksel güç aracılığı ile etki eder. Kavram fiziğe Michael Faraday tarafından kazandırılmıştır.
+Elektrik alan SI birimi Newton/Coulomb ya da Volt/metre olan bir vektör alanıdır. SI temel birimleri cinsinden kg·m·s−3·A−1 olarak ifade edilir. Alanın belli bir noktadaki büyüklüğü o noktaya konacak 1 Coulomb'luk bir test yüküne ne kadar kuvvet uygulayacağıyla belirlenir, alanın yönü kuvvetin yönüdür. Elektrik alan, yoğunluğunun büyüklüğü alan büyüklüğünün karesiyle doğru orantılı elektriksel enerjiye sahiptir. Elektrik alanın yükle ilişkisi yerçekimi ivmesinin kütleyle ilişkisinin ve kuvvet yoğunluğunun hacimle ilişkisi gibidir.
+Zamana göre değişen bir elektrik alan (mesela hareketli bir yüklü parçacık nedeniyle) yerel manyetik alana sebep olur. Bu, elektrik ve manyetik alanların birbirinden bağımsız olmadığını gösterir; bir gözlemcinin yalnızca elektrik alan olarak gözlemlediğini başka bir referansa göre başka bir gözlemci bir elektrik ve manyetik alan karışımı olarak gözlemleyebilir. Bu nedenle elektrik ve manyetik alanlardan ayrı ayrı bahsetmek yerine bu ikisi “elektromanyetizma” ya da “elektromanyetik alan” olarak, birlikte incelenir. Kuantum mekaniğinde elektromanyetik alandaki değişmeler foton olarak adlandırılır ve fotonun enerjisi kuantize olmuştur.
+Tanım.
+Elektrik alan alan içinde belli bir noktada sabit duran noktasal yüke uygulanan, yük başına düşen kuvvet olarak tanımlanır:
+F parçacık tarafından hissedilen elektriksel kuvvet,
+"q" parçacığın yükü,
+E parçacığın konumundaki elektrik alan.
+Literal olarak alındığında bu denklem elektrik alanı yalnızca alanda durağan yükler olduğunda tanımlar. Dahası, alandaki yükler elektrik alanı değiştireceğinden, herhangi bir "q" yükünün varlığındaki elektrik alan o yük olmadığında olandan daha farklı olacaktır. Fakat, verili bir yük dağılımından kaynaklanan elektrik alan bu alanı hissedecek hiçbir parçacık olmasa dahi tanımlıdır. Bu tanımlılık alana varsayımsal olarak yerleştirilen test yükü ile sağlanır. Bu sayede elektrik alan test yükü sıfıra yaklaşırken yükün hissedeceği kuvvet ile tanımlanır:
+Bu ifade elektrik alanın yalnızca kaynak yük dağılımına bağlı olmasını sağlar.
+Tanımdan anlaşılabilceği üzere elektrik alanın yönü pozitif yüklü parçacığın hissedeceği kuvvetin yönüyle aynı, negatif yüklü parçacığın hissedeceği kuvvetin yönünün zıttıdır. Aynı yükler birbirini çekip zıt yükler birbirini iteceğinden (aşağıda formülü verilmiştir), pozitif yüklerin etrafındaki alanların dışarıyı gösterdiğini ve negatif yüklerin etrafındaki alanların içeriye doğru yöneldiğini söyleyebiliriz.
+Coulomb yasasına dayanarak, uzayda tek bir noktasal yük tarafından üretilen elektrik alanı yazabiliriz:
+ E=1/4pi...
+"q" elektrik alanı üreten parçacığın yükü,
+"r" elektrik alanı hesapladığımız nokta ile "q" yükü arasındaki uzaklık,
+r "q" yükünden elektrik alanın hesaplandığı noktayı gösteren birim vektör,
+epsilon yalıtkanlık sabiti.
+Birden fazla noktasal yükün ürettiği elektrik alan yüklerin teker teker ürettiği elektrik alanların süperpozisyonudur:
+Alternatif olarak, Gauss yasası uzayda sürekli bir yük yoğunluğu dağılımının ürettiği elektrik alanı hesaplamamızı sağlar.
+"ρ" pozisyona bağlı olarak yük yoğunluğunu verir.
+Coulomb yasası esasen elektrik yük dağılımı ile bu dağılımdan kaynaklanan elektrik alan arasındaki ilişkiyi gösteren Gauss yasasının özel bir halidir. Gauss yasası elektromanyetik teoriyi oluşturan dört Maxwell denklemlerinden biridir.
+Elektrik alan çizgileri.
+Elektrik alanını zihinde daha kolay canlandırmak için elektrik alan çizgileri kullanılır. Elektrik alan çizgilerinin özellikleri şunlardır:
+Sabit alanlar.
+Her noktada aynı değere sahip olan elektrik alana sabit elektrik alan denir.İki paralalel iletken levhaya potansiyel fark uygulanarak yaklaşık olarak elde edilebilir.Yaklaşık olmasanın sebebi elektrik alanın köşelerde düzenli halinden uzaklaşmasıdır.Bu etkenleri ihmal edersek eşitlik
+formula_5 halini alır.
+Bu eşitlik sadece elektrik alanın büyüklüğünü vermektedir.Elektrik alanın yönü ise pozitif yüklü levhada negatif yüklü levhaya doğrudur.
+Sabit alanda yüklü parçacığın hareketi.
+m kütleli, q yüklü bir cismi E elektrik alanına koyarsak, bu cisme formula_6 kadarlık bir net kuvvet etki eder, dolayısıyla cisim ivmeli hareket yapar.(Newton'ın hareket yasaları) Yani cismin ivmesi
+Zamana bağlı alanlar.
+Elektrik alan durağan bir yük tarafından üretilebileceği gibi değişen manyetik alanın sonucu olarak da oluşurlar. Sonuç olarak,
+"phi" skaler elektrik potansiyeli,
+"A" manyetik vektör potansiyeli.
+Aynı zamanda formula_9 vektörü manyetik debi yoğunluğunu verir. Elektrik alan denkleminin curl'ünü alırsak,
+Bu denklem Maxwell denklemlerinden biridir, Faraday-Lenz yasası olarak bilinir.
+Elektrostatik durağan yükleri çevreleyen elektrik alanların bilimiyken manyetik alanın değişmesiyle oluşan elektrik alanlar elektrodinamik ve elektromanyetik konusudur.
+Elektrostatik özellikler.
+Yukarıdaki denklemlerde görüldüğü gibi elektrik alan pozisyona bağlıdır. Noktasal bir yük tarafından üretilen elektrik alan parçacığa olan uzaklığın karesiyle azalır.
+Elektrik alan süperpozisyon prensibine uyar. Eğer birden fazla noktasal kaynak varsa herhangi bir noktadaki toplam elektrik alan bu noktasal kaynakların o noktada tek başına ürettiği elektrik alanların vektörel toplamıdır.
+Bu kural sonsuz sayıda küçük yük elementi için genişletilirse toplam formülü integrale dönüşür:
+"ρ" pozisyona bağlı olarak yük yoğunluğunu yani birim hacme düşen yük miktarını verir.
+Bir noktadaki elektrik alan o noktadaki elektriksel potansiyelin negatif gradyanına eşittir:
+"φ" verilen noktada elektriksel potansiyeli gösteren skaler alandır.
+Eğer birden fazla yük dağılımını böyle bir elektriksel potansiyel üretiyorsa (örneğin bir katıda) elektrik alan gradyanı da tanımlanabilir.
+Doğrusal materyallerin yalıtkanlık sabiti epsilon olmak üzere, dielektrik alan aşağıdaki formül ile verilir:
+Elektriksel potansiyel enerji.
+Elektrik alan enerji depolar. Bir elektrik alanın enerji yoğunluğu aşağıdaki gibidir.
+epsilon alanın içerisinde bulunduğu yerin yalıtkanlık sabiti, E elektrik alan vektörüdür. Böylece, verili bir "V" hacminde depolanan toplam enerji d"V" diferansiyel hacim elementi olmak üzere
+olarak verilir.
+Elektrostatik ve kütle çekimi arasındaki paralellikler
+Elektrik yükleri arasındaki ilişkiyi gösteren Coulomb yasası
+Newton'ın evrensel kütleçekim yasası ile benzerdir:
+Bu, elektrik alanla yer çekimi alanı arasında benzerlikler olduğunu gösterir. Bu benzerlikler:
+Elektrostatik ve kütleçekim kuvvetleri arasındaki farklar:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrik santrali</DOCTITLE>
+<TEXT>
+
+Elektrik santralı, elektrik üretecek bir fabrikayı meydana getiren tesislerin tümü.
+Bir elektrik santralı, jeotermik, hidrolik, nükleer, termik, rüzgâr ve gelgit enerjileri gibi değişik doğal enerjiler kullanan motorların çalıştırdığı alternatörlerle elektrik üretir. Hangi türde olursa olsun, her elektrik santralı, bir enerji kaynağı, bir motor, bir alternatör ve bir transformatör merkezinden oluşur. Transformatör, alternatörün ürettiği akımın gerilimini, ulusal veya uluslararası genel bağlantı şebekesinin füderlerini beslemek üzere uygun bir değere yükseltir. Elektrik santral tipinin seçimi, kilowatt/saatin maliyetini belirleyen ilk yatırıma, işletme ve bakım masraflarına bağlıdır.
+Termik santralın kuruluş masrafları, aynı güçteki hidroelektrik santrala oranla iki veya üç kat daha düşüktür. Buna karşılık, hidroelektrik santralın işletme masrafı çok azdır, termik santralda ise, daima pahalı yakıt kullanıldığından işletme masrafı çok yüksektir. Hidroelektrik santralda amortismanın yüksek olmasına rağmen kilowatt/saat, termik kilowatt/saate oranla daha ucuza malolur. Bugün, nükleer termik santralın ilk kuruluş masrafı, yaklaşık olarak hidroelektrik santral için yapılacak yatırıma eşittir. Hidroelektrik santralın işletme masrafları ihmal edilebilirse de bir nükleer santralın bakım ve işletme masrafları, neredeyse kuruluş masrafı daha düşük olan bir termik santral kadar yüksektir. Nükleer santralları, bugünden inşa etmek gerekiyorsa, bunun nedeni, verdikleri enerji fiyatının ucuz oluşu veya yakın bir gelecekte ucuzlama ihtimali değildir. Bu girişim, yirmi yıl sonra, hidroelektrik santral kurulabilecek yerlerin biteceği, zamanla tükenen kömür, petrol ve doğal gaz gibi klasik yakıt üretimini yeterince çoğaltmanın mümkün olamayacağı düşüncesine dayanır.
+Elektrik santral türleri.
+Hava jeneratörlü santral.
+Hava jeneratörlü santral, rüzgâr enerjisinden yararlanılarak elektrik üretilen elektrik santralı türüdür. Bugün için, rüzgârla üretilen elektrik enerjisi, maliyet fiyatı yüksek olan sınıfa girer ve ancak kentten uzak olan çiftçiler, bağımsız radyoelektrik istasyonları, deniz fenerleri vb. yerlerde kullanılır. Gerçekten büyük hava jeneratörlü santrallar için rüzgâr, ancak belirli bir hızdan sonra elverişlidir. Elde edilebilen enerji, yaklaşık olarak rüzgâr hızının küpüyle orantılıdır. Saniyede 6 m, yani saatte 21,6 Km'den daha düşük hızlarda rüzgâr enerjisi çok zaman yetersiz kalır. Özel ihtiyaçlar için, akümülatörlerle düzenlilik verilen küçük hava jeneratörleriyle elektrik üretme tekniği nispeten isteneni verir. Fakat, 10 Kw'ı geçen makinelerin üretimini elverişli şekilde düzenleme çaresi henüz bulunamamıştır.
+Jeotermik Santral.
+Jeotermik santral, yeraltı kaynaklarının sahip olduğu ısı enerjisinden yararlanılarak elektrik üretilen elektrik santralı türüdür. Jeotermik santral, doğrudan doğruya, yeraltı kaynaklı termik enerjiye baş vurur. Yer çekirdeği, pratik bakımdan tükenmez bir enerji kaynağıdır. Bunula birlikte kullanılması güçtür. Bu enerji, yanardağların püskürmesinde en belirgin şekilde ortaya çıkar, fakat kullanılması için yapılan her girişim başarısızlıkla sonuçlanmıştır. Buna karşılık, sönmek üzere olan yanardağ bölgelerinde kayalarda arta kalan ısıdan faydalanılabilir. Bu ısı, debisi az olan sıcak yeraltı sularında ortaya çıkar.
+Toscana (İtalya) bölgesinde Larderello tesisleri dünyada tektir ve sıcaklığı 200 °C olan yeraltı buharlarından yararlanır. Birkaç yüz bin kilowatt üreten turbo-alternatörler, doğal buharı ısı değiştiricisi olmaksızın doğrudan doğruya alır. Buharın yoğunlaşmasıyla oluşan suya kimyasal işlemler uygulanarak borik asit elde edilir.
+kaynak yer altı olarak kabul edilir.Isı ve sıcaklık yer altı kabuğundan gelir.
+Güneş jeneratörlü santral.
+Güneş enerjisi, güneşin çekirdeğinde yer alan füzyon süreci ile açığa çıkan ısıma enerjisidir, güneşteki hidrojen gazının helyuma dönüşmesi şeklindeki füzyon sürecinden kaynaklanır. . Dünya atmosferinin dışında güneş enerjisinin şiddeti, aşağı yukarı sabit ve 1370 W/m² değerindedir, ancak yeryüzünde 0-1100 W/m2 değerleri arasında değişim gösterir Bu enerjinin dünyaya gelen küçük bir bölümü dahi, insanlığın mevcut enerji tüketiminden kat kat fazladır. Güneş enerjisinden yararlanma konusundaki çalışmalar özellikle 1970'lerden sonra hız kazanmış, güneş enerjisi sistemleri teknolojik olarak ilerleme ve maliyet bakımından düşme göstermiş, güneş enerjisi çevresel olarak temiz bir enerji kaynağı olarak kendini kabul ettirmiştir.
+Hidroelektrik santral.
+Hidroelektrik santral, yüksek bir noktadan düşen hareket halindeki suyun kinetik enerjisinden yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Hidroelektrik santral, düşen su kütlesinin kinetik enerjisinden yararlanılarak bir türbin çalıştırılır. Elektrik enerjisi isteği kış aylarında maksimumudur. Bu devrede, nehirlerde su çekildiğinden hidroelektrik enerji üretimi en düşük seviyeye iner. Enerji isteğinin yüksek, üretimin az olması yüzünden yaz mevsiminde elde edilecek enerji büyük önem taşır. Diğer yandan enerjisinin değeri, geceleri gündüze, pazar günleri iş gününe oranla daha düşüktür. Hidroelektrik bir tesisin değeri, yalnız üretilen enerji miktarına değil, bu enerjinin kalitesine, yani zaman içindeki dağılımına da bağlıdır. Hidroelektrik santralın kurulacağı yerin seçimini tabiat belirler ve bazen bu yer kullanma merkezlerinden çok uzakta olabilir. Böylece enerji nakli yüzünden maliyet fiyatı bakımından büyük yük altına girilir ve genellikle tüm hallerde kuruluş masrafları, termik santrallere oranla daha yüksektir. Buna karşılık, hidroelektrik santralın yakıt tüketimi yoktur, işletme ve bakım masrafları, termik santralden çok azdır. Hidroelektrik bir tesisin, işletme ekonomisi kuruluş masraflarını karşılarsa elverişli şartlara sahip olduğu düşünülür.
+Akarsu santralı.
+Akarsu santralı, akarsulardan yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Akarsu santralının pratikte hiç bir enerji yedeği yoktur. Nehirlerin yükselme zamanında, santrallar maksimum güçlerini verir. Kuraklık zamanında, üretilen güç debi ile azalır ve bazı derelerde sıfıra kadar iner. Bu tür santrallar, Rhône ve Rhin üzerine yapılmıştır. Rhône üzerindeki Donzére santralı, nehrin ortalama debisine yakın olan saniyede 1.500 m3'lük bir debiyi kullanacak şekilde donatılmıştır. Rhône, suları çekildiği zaman dahi normal olarak saniyede 400 m3'lük bir debi verir. Bu yüzden santralın gücü, yılda ortalama 4'te 1 oranında değişir. Rhin'de ortalama debi saniyede 1.100 m3 ve sular çekildiği zaman saniyede 300 m3 olduğundan santralın gücündeki değişme oranı neredeyse aynıdır.
+Göl santralı.
+Göl santralı, göllerden yararlanılarak elektrik enerjisinin üretildiği elektrik santralı türüdür. Göl santralları, nehir debisinin belirli bir kısmını yedek olarak tutan alavere havuzu tarafından beslenir. Bu tesislerin kurulmasına elverişli yerler azdır. Ayrıca, göl santrallarının çoğunda yıl içinde gelen fazla su miktarının ancak bir kısmı depo edilebilmektedir.
+Setli santral.
+Yıllık fazla su miktarının % 5'ini depo edebilen göl santrallarıdır. Fakat, bu stok nehrin en az birkaç saatlik ortalama debisine karşılık düşer. Bu stokun mevsimlik enerji akta katkısı çok azdır. Fakat, günlük puant zamanlarının atlatılmasında büyük önem taşır. 
+Akarsu santrallerinde hidrolik türbinlerin su debisi yüksektir, buna karşılık suyun düştüğü yükseklik ve hızı azdır. Göl santralleri, basınçlı borularla beslenen dik veya dogucan kaçak su borusu veya galerisi ve bir transformatör merkezi. Bazı hidroelektrik santralleri yer altındadır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İşim Nehri</DOCTITLE>
+<TEXT>
+
+İşim Nehri Rusya ve Kazakistan içinden akan nehirdir. İrtiş Nehri'nin koludur.
+Coğrafi konumu.
+İşim Nehri’nin toplam uzunluğu 2450 km, Kazakistan topraklarında ise 1400 km’dir. Havzanın alanı 177.000 km2, Kazakistan topraklarında ise 113.000 km2.
+Nehrin başlangıcından sonuna kadarki inişi 513 m, ortalama eğim 21 cm/km. Nehir yatağı büküntülü ve onun genişliği 40 ile 200 metre arasında değişir. Dibi daha çok kumludur. Derinliği sığlıkta 0,1-0,3 m, derin yerlerde (плёс) 8–10 m’ye kadardır. Ortalama vadi genişliği 4–22 km’dir. Çok sayıda göllerle alüvyon ovası büyüktür. 
+Bahar döneminde (Nisan-Mayıs) stokun %93,3, yaz-güz döneminde (Haziran-Ekim) %5,8'i, kış döneminde (Kasım-Mart) %2.9’u oluşmaktadır. Maksimum aylık ortalama debi 356 m³/s'dir. (Mayıs su taşması).
+İşim nehri yıllık stokunun %80’ini veren kardan beslenir. Petropavlovsk şehrinde ölçenen ortalama uzun zamanlık (100 yıl gözlenen) debi 76 m³/sn, Astana şehrinde ise sadece 5,7 m³/sn'dir.
+Hidroloji.
+Nehrin ortalama yıllık stoku 2.5 km³. Donma Kasım ayının ikinci yarısında başlar ve beş ay sürer. İklimin kuru olması ve nehri besleyen yeraltı suların yüksek oranda tuzlu olmasından dolayı İşim suları yüksek mineralleşmeye sahiptir. İşim’in miniralleşmesi sezona göre değişir ve alçak su seviyesi döneminde 500-800 g/lt olarak Petropavlovsk şehrinde ve 2 g/lt olarak Astana şehrinde ölçülmüştür.
+İşim nehri havzasının yüzeyi için özgü inme güneyden kuzeye doğru olup hidrografi için doğal olan su ayırım hattından nehir yatağına doğru yüzey kotları inmektedir.
+Meskûn yerleri ve nüfusu.
+İşim nehri havzası Karagandı, Akmola, Kuzey Kazakistan Eyaletleri topraklarında akmaktadır. Doğrudan doğruya İşim boyunda Astana şehri (510 bin kişi) ve Petropavlovsk şehri (193 bin kişi) yerleşmektedir. İşim nehri havzasında 1 milyona yakın insan yaşamaktadır.
+Kolları.
+Koluton, Jabay, Akkanburluk. Nehir boyunda Vyaçeslavskoe ve Sergeyev barajları bulunur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hungryalism</DOCTITLE>
+<TEXT>
+
+Hungry Nesil ( Hungryalism ), Kalküta, Hindistan'da 1960'larda Shakti Chattopadhyay, Malay Roy Choudhury, Debi Ray ve Samir Roychoudhury tarafından başlatılan Bengali dilinden bir edebiyat akımıdır. Bengali dilindeki ilk şiir hareketi ve etkileri ile Fransa'da sürrealizm ve Amerika'da Beat akımı ile karşılaştırılabilir.
+Yukarıda sözü geçen isimlerin yanı sıra, Utpalkumar Basu, Binoy Majumdar, Sandipan Chattopadhyay, Basudeb Dasgupta, Subimal Basak, Falguni Roy, Tridib Mitra, Anil Karanjai, Karunanidhan Mukhopadhyay, Alo Mitra, Sobo Acharya, Pradip Choudhuri, Subhas Ghose, Arunesh Ghosh hareketin önde gelen yazarları ve sanatçıları arsinda yer aldı.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Venturimetre</DOCTITLE>
+<TEXT>
+
+Venturi metre, akışkanların debisini ölçmekte kullanılan, iki ucu açık, kesiti ortasına doğru her iki ucundan da daralan ve ince bir tüp şeklinde olan bir ölçü aletidir. Adını İtalyan fizikçi Giovanni Battista Venturi'den alır.
+Tüpün incelerek boğaz oluşturan en dar kesitli kısmında akışkan hızı en büyük değerini alırken akışkan basıncı düşer ve tüpün geniş kesitli kısmı ile dar kesitli kısmı arasında bir basınç farkı oluşur. Bu basınç farkı venturimetrenin giriş ve çıkışına bağlanmış "Kapalı manometre" yardımıyla ölçülür. Bu ölçüm sonucu elde edilen basınç değerleri yardımıyla tüp içinden geçen akışkanın debisi tespit edilir.
+Kütlesel veya hacimsel debi hesaplanırken "Bernolli denklemi" ve "Süreklilik Denklemi" nden yararlanılır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kanlıdere</DOCTITLE>
+<TEXT>
+
+Kanlıdere veya Kanlı Dere (Yunanca:Pedios, Pediaeus), Kıbrıs'ta bir dere. 90 ile 100 kilometre arasında bir uzunluğu olan dere, Kıbrıs'ın en uzun deresidir. Sadece yağışlı dönemlerde akar. Günümüzde ise pek az akmaktadır. Başkent Lefkoşa'nın da içinden akmaktadır. Yatak genişliği 5 ile 20 metre arasında değişmektedir. Üzerinde iki tane baraj bulunmaktadır. Kıyısındaki 18 kilometrelik bölüm ise yaya yürüyüş veya bisiklet yolu yapılmıştır. Debisi büyük değişkenlikler göstermektedir. Normal yağış alındığı yıllarda debi 2 ile 5 milyon metreküp/yıl olurken yağışların normalin üstünde olduğu yıllarda bu miktar 7-8 milyon metreküp/yıl seviyesine kadar çıkabilmektedir. 1960-70'li yıllarda Kıbrıs Cumhuriyeti Su Dairesi Lefkoşa'daki debisini yıllık yaklaşık 1.5 milyon metreküp olarak belirtimştir.
+Tarihçe.
+Dere, 1.5-2 milyon yıl önce, adanın yükselmesi sonucu oluşmaya başlamıştır. Dere Lefkoşa'nın kuzey-kuzeydoğusunda sonlanmaktayken son 50 ile 10 bin yıllık dönemde kuzeydoğuya yönelmiştir. Bir iddiaya göre 1567 yılında Venedikliler tarafından yatağı değiştirilerek Lefkoşa'nın dışına çıkarılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Garonne Nehri</DOCTITLE>
+<TEXT>
+
+Garonne Nehri, (İspanyolca ve Occitan: "Garona") kuzey İspanya ve güneybatı Fransa'da bulunan önemli bir akarsu.
+Kuzey İspanya'da Pireneler'den doğar ve Bordeaux yakınlarındaGironde Nehri birleşip Gironde halıcını yaratıp Atlas Okyanusu'nda Biskay Körfezi;ne dökülür. Uzunluğu 647 km ve ortalama debisi 631 m³/s 'dir.
+Kuzey İspanya'da Pireneler'deki Garonne Nehri kaynağı tartışmalı bir konu olup coğrafyacılar üç değişik kaynak vermektedirler: "Plan de Beret"'de "Uelh deth Garona" ( (), "Ratera-Saboredo" buzul sirki () veya "Pic Aneto" zirvesine yakın "Salterillo-Barrancs vadisi" (). Bunlar arasında "Plan de Beret" kaynağından çıkış, Garonne Nehri icin en uzun mesafe ve en yüksek debi sağlamaktadır ve bu nedenle çok kere resmi olarak kaynak kabul edilmektedir.
+Kaynaktan sonra Garonne Nehri Fransa'ya girip kuzeye doğru Aran Vadisi'nden akışa başlar. Toulouse ve Agen kentleri yakınlarından geçerek Bordeaux'ya doğru yönelir. Bordeaux yakınlarında Gironde Nehri ile birleşip buyuk bir Gironde Halici yaparlar ve Atlas Okyanus'una dökülür. Garrone Nehri guzergahında üç önemli akarsu bu nehre katılır: Arıège, Tarn ve Lot. Bordeaux'yu hemen geçtikten sonra Gironde halıcinde Dordogne Nehri'de haliçe katılır. Garonne Nehri'nin diğer kolları Save ve Gers'dirler.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Macarlar, Balıkesir</DOCTITLE>
+<TEXT>
+
+Macarlar Köyü, Balıkesir ilinin merkez ilçesine bağlı bir köydür.
+Tarihçe.
+Macarlar köyününün eski adı Naldöken olup daha sonra Kırcalık olmuştur. Kurtuluş savaşında bir Macar askerinin bakımı köye verildiğin den dolayı Macarlar olarak değişmiştir. Köy Balıkesir'in batısında Savaştepe ve Soma yolu üzerinde olup Balıkesir İzmir karayolu üzerinde bulunan Pamukçu ve Cinge beldeleri üzerinden de köye ulaşım sağlanabilmektedir. Balıkesir ile yaklaşık olarak 15 km mesafededir.
+inançları gereği köyde cemevi bulunmaktadır. 
+yılda bir kez yol sürülür. Köydeki tüm olumsuzluk ve yoksulluğa rağmen okur yazar oranı yüksektir!! 29,03,2009 yerel seçimlerinden sonra köy muhtarlığına TAHİR ASLAN geçmiştir. Köyün siyasi Görüşü CHP'dir (V
+Coğrafya ve İklim.
+YERYÜZÜ ŞEKİLLERİ 
+a ) DAĞLARI
+Köyün sahip olduğu büyük bir dağı bulunmamaktadır. Ancak çevreden yüksek olduğu için Karadağ mevkisine KARADAĞ DENİLMEKTEDİR.
+b ) OVALARI 
+1- Karadağ mevkisinin kuzeyinde bulunan Kazıklı Ovası
+2- Tulumcu Ovası
+3- Kömürcü Ovası
+4-Kanlıgeçik Ovaları vardır.
+c ) AKARSULARI
+Köyün kuzey dogusundan gecerek ovaarı sulayarak Susurluk çayı ile birleşerek Marmara denizine dökülür. köyün içinden geçen küçük bir deresi vardır. bu dere ve çay sulamada büyük önem taşımaktadır. sularının debi ve rejimi düzgün olmayıp özellikle kış aylarında debisi artmaktadır.
+ÇAY VE DERELERDE BULUNAN BALIK TÜRLERİ 
+FAKAT YUKARIDA SAYILAN BALIK TÜRLERİNİN BİR ÇOGU GEÇMİŞDE BOL MİKTARDA BULUNURKEN GÜNÜMÜZDE ÇOK AZ SAYIDA RASLANMAKTADIR. ÜZÜMLÜ ÇAYINDA SU KUNDUZUNA ŞU ZAMANDA HİÇ RASTLANMAMIŞTIR.
+Köyün iklimi, bozulmuş Akdeniz iklimi etki alanı içerisindedir.
+Mevsimlere göre ortalama olarak ısı ve yağışlar aşagıdaki çizelgede verilmiştir.
+
+</TEXT>
+</DOC>
+

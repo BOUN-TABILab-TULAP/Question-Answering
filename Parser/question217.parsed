@@ -1,0 +1,9 @@
+1	Ekonomik	ekonomik	Adj	Adj	_	2	MODIFIER	_	_
+2	faaliyetlerin	faaliyet	Noun	Noun	A3pl|Pnon|Gen	4	POSSESSOR	_	_
+3	son	son	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	zincirini	zincir	Noun	Noun	A3sg|P3sg|Acc	7	OBJECT	_	_
+5	ne	ne	Adv	Adv	_	7	MODIFIER	_	_
+6	_	oluş	Verb	Verb	_	7	DERIV	_	_
+7	oluşturur	_	Verb	Verb	Caus|Pos|Aor|A3sg	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

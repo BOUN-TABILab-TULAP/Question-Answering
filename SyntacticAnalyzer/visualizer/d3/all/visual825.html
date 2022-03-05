@@ -1,0 +1,98 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Doğu anadolu bölgesinin en kalabalık nüfusa sahip olan ili hangisidir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(9126, {label: "Türkiyenin",nodeclass: "type-TK"});
+ g.addNode(9127, {label: "en",nodeclass: "type-TK"});
+ g.addNode(9128, {label: "doğu",nodeclass: "type-TK"});
+ g.addNode(9129, {label: "ile",nodeclass: "type-TK"});
+ g.addNode(9130, {label: "en",nodeclass: "type-TK"});
+ g.addNode(9131, {label: "batı",nodeclass: "type-TK"});
+ g.addNode(9132, {label: "ucu",nodeclass: "type-TK"});
+ g.addNode(9133, {label: "arasınaki",nodeclass: "type-TK"});
+ g.addNode(9134, {label: "zaman",nodeclass: "type-TK"});
+ g.addNode(9135, {label: "farkı",nodeclass: "type-TK"});
+ g.addNode(9136, {label: "kaç",nodeclass: "type-TK"});
+ g.addNode(9137, {label: "kaçtır",nodeclass: "type-TK"});
+ g.addNode(9138, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,9126,9137,{label: "VOCATIVE"});
+ g.addEdge(null,9127,9128,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9128,9129,{label: "NESNE"});
+ g.addEdge(null,9129,9132,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9130,9132,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9131,9132,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,9132,9137,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9133,9137,{label: "ÖZNE"});
+ g.addEdge(null,9134,9135,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,9135,9137,{label: "NESNE"});
+ g.addEdge(null,9136,9137,{label: "TÜREME"});
+ g.addEdge(null,9137,9138,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

@@ -1,0 +1,52 @@
+Üretim süresi
+Nüfus biyolojisi ve demografi olarak, üretim süresi nüfus soy iki ardışık kuşaklar arasındaki ortalama süre yansıtan bir miktar olduğunu. Ancak, orada nesil zaman tek tanımı ve çeşitli miktarları her daha uygun bir özel kullanım içindir. Insan popülasyonlarında, üretim süresi tipik olarak 20 ila 30 yıl arasında değişmektedir. Tarihçiler bazen zaman kaba tahminler elde etmek için yıllardır içine dönüştürerek nesiller tarafından, tarih olayları için kullanabilirsiniz.
+Epidemiyoloji, terim farklı bir anlamı vardır ve zaman ifade eder
+Bir ana bilgisayar tarafından enfeksiyon alınması ve bu ana maksimum enfeksiyon arasındadır.
+Tanımlar ve ilgili formüller.
+nesil zaman mevcut tanımları ikiye düşmek
+kategoriler: Bir yenilenme zamanı olarak nesil zaman tedavi olanlar
+Nüfus ve bir nesilden sonraki bireyler arasındaki mesafe odaklanmak olanlar. Aşağıda en sık kullanılan üç tanımlar şunlardır:
+net üreme gücü FORMULA_1 olduğunu
+döl sayısı bir birey sırasında üretmesi bekleniyor onun
+ömür (1 net üreme gücü nüfusu olduğu anlamına gelir onun
+demografik denge). Bu tanım olarak döl süresi öngörülüyor
+Nüfusun yenilenme zamanı. Kullanılan çok basit tanımı haklı
+bir yana mikrobiyoloji (veya katlama zamanı "nüfus iki katına zaman alır")
+Bakteri büyümesinin üslü fazda olduğu düşünülebilir
+ölüm oranı çok düşüktür ve bunun sonucu olarak bir bakteri ile ikame edilmesi beklenmektedir
+Bir sonraki nesil iki bakteri (anne hücresi ve kızı hücre).
+Nüfus dinamik bir büyüme oranı ile üstel ise
+formula_2 (i.e.formula_3,
+formula_4 anda nüfusun büyüklüğü burada
+formula_5), daha sonra üretim bu zaman ölçüsüdür
+tarafından verilen:
+Gerçekten de, formula_7 şekilde formula_8 örneğin, formula_9 olup.
+Bu tanım, bir ölçüsüdür
+nesillere ziyade nüfusun yenilenme zamanı arasındaki mesafe.
+Birçok demografik modelleri kadın-merkezli (yani olduklarından sadece almak
+dikkate kadın), bu tanım genellikle anne-kızı olarak ifade edilir
+mesafe ("kendi kızlarının doğumda annelerin ortalama yaşı"). Bununla birlikte,
+o at babaların bir baba-oğul mesafeyi (ortalama yaş tanımlamak da mümkündür
+oğulları yaş) ya da değil hiç hesaba seks almak
+tanım. Yaş yapılandırılmış nüfus modellerinde, bir ifade verilir
+by:
+nerede formula_2 büyüme oranı
+nüfus formula_12 hayatta kalma işlevi
+(Olasılık bağımsız bir formula_13 yaşı hayatta kalmasını) ve
+analık fonksiyonunu (veya doğum işlevini formula_14 veya
+yaşa özel doğurganlık). Matris nüfus modellerinde, daha basit olduğunu
+ve genel formül:
+formula_16 ayrık-zamanlı büyüme oranı olduğu
+Nüfus, formula_17 onun doğurganlık olduğunu
+matris, onun üreme değeri formula_18 (satır vektörü)
+ve istikrarlı sahne dağılımı (kolon-vektörü) formula_19;
+formula_20 olan
+formula_21 esneklikleri
+gübreleri için.
+Bu tanım bir öncekine çok benzer ancak nüfus gerekmez
+istikrarlı yaş dağılımı olmak. Ayrıca, farklı için hesaplanabilir
+Kusaklara ve böylelikle üretim süresi hakkında daha fazla bilgi sağlamak
+Nüfus. Bu önlem ile elde edilir:
+Gerçekten de, pay yaş toplamıdır hangi grupta üyesi
+üretir ve payda, ortalama FORMULA_1 olduğunu
+döl sayısı, üretir.

@@ -1,0 +1,28 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir+Adverb bir+Det bir+Num+Card bir+Adj Bir+Noun+Prop+A3sg+Pnon+Nom
+bölgedeki bölge+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+nem nem+Noun+A3sg+Pnon+Nom
+miktarının miktar+Noun+A3sg+P3sg+Gen miktar+Noun+A3sg+P2sg+Gen
+geçici geç+Verb+Pos^DB+Noun+Agt+A3sg+Pnon+Nom geç+Verb+Pos^DB+Adj+Agt geçici+Adj
+dengesizliğinden denge+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Ness+A3sg+P2sg+Abl denge+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Ness+A3sg+P3sg+Abl
+kaynaklanan kaynakla+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+ve ve+Conj
+su su+Noun+A3sg+Pnon+Nom
+kıtlığı kıt+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom kıt+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+olarak ol+Verb+Pos^DB+Adverb+ByDoingSo
+bilinen bil+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+iklim iklim+Noun+A3sg+Pnon+Nom
+olayına olay+Noun+A3sg+P3sg+Dat olay+Noun+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

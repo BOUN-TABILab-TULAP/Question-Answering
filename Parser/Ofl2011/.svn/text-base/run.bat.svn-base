@@ -1,0 +1,7 @@
+echo %1lookup.exe %1tfeaturesulx.fst < %2 > %3
+echo working
+cd
+%1lookup.exe %1tfeaturesulx.fst < %2 >%3
+
+
+

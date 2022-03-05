@@ -1,0 +1,11 @@
+Protein protein+Noun+A3sg+Pnon+Nom
+sentezinde sentez+Noun+A3sg+P3sg+Loc
+oluşan oluş+Verb+Pos^DB+Adj+PresPart
+amino amino+Adj
+asitleri asit+Noun+A3pl+Pnon+Acc
+ribozomlara ribozom+Noun+A3pl+Pnon+Dat
+taşıyan taşı+Verb+Pos^DB+Adj+PresPart
+RNA RNA+Noun+Prop+A3sg+Pnon+Nom
+çeşidi çeşit+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc

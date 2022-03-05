@@ -1,0 +1,38 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Japonya	Japonya	+Noun+Prop+A3sg+Pnon+Nom
+
+hangi	hangi	+Adj
+
+iklimin	iklim	+Noun+A3sg+Pnon+Gen
+iklimin	iklim	+Noun+A3sg+P2sg+Nom
+
+etkisi	etki	+Noun+A3sg+P3sg+Nom
+etkisi	etki	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+altındadır	alt	+Noun+A3sg+P3sg+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+altındadır	alt	+Noun+A3sg+P2sg+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+altındadır	altın+Noun+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

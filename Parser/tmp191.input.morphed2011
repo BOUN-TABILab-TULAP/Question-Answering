@@ -1,0 +1,46 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Dünyada	dünya+Noun+A3sg+Pnon+Loc
+
+turistlik	turist	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+açıdan	açı+Noun+A3sg+Pnon+Abl
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+fazla	faz	+Noun+A3sg+Pnon+Ins
+fazla	fazla	+Adverb
+fazla	fazla	+Adj
+fazla	fazla	+Postp+PCAbl
+
+ziyaret	ziyaret	+Noun+A3sg+Pnon+Nom
+
+edilen	et	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+ülke	ülke+Noun+A3sg+Pnon+Nom
+
+neresidir	nere	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

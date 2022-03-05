@@ -1,0 +1,165 @@
+Question: Yumuşakçaların plazmasında bulunan mavi renkli solunum pigmenti nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgalılar</DOCTITLE>
+<TEXT>
+
+Omurgalılar (), hayvanlar aleminin şubesine ait bir alt şubedir. 
+Ortak özellikleri.
+Omurgalıların en karakteristik özelliği, birbirini takip eden omurlardan yapılmış bir omurgaya sahip olmalarıdır. Omurga sütunu çok kuvvetli bir destek, fakat aynı zamanda eğilebilir bir yapıdadır. Aşağı omurgalılarda, omurga kıkırdak halinde olmasına rağmen, yüksek yapılı omurgalılara doğru kemikleşmeye başlar.
+Birçok omurgalıda omurgaya iki çift ön ve arka üyelerde tutunur. Vücut bilateral (iki yanlı bakışımlı) simetriktir. Baş, gövde ve kuyruk olmak üzere üç kısma ayrılmıştır. Sölom yani vücut boşluğu yalnız gövde bölgesinde bulunur. Sindirim kanalı bel kemiğinin karın (ventral) tarafındadır. Dolaşım sistemi kapalıdır. Yürek en az iki, en çok dört boşluk ihtiva eder. Kanın alyuvarlarında hemoglobin denilen solunum pigmenti vardır. Hemoglobin, kana kırmızı rengi verir. Boşaltım organları çifttir. Boşaltım ve üreme organı açıklıkları, tek veya ayrı ayrı olarak bulunur.
+İki çift ekstremiteleri vardır. Bunlar balıklarda bulunan göğüs ve karın yüzgeçleri, karada yaşayanlarda ise ön ve arka bacaklardır. Suda yaşayanlar solungaç, havadakiler akciğer solunumu yapar. Kafatası içinde muhafaza edilen karmaşık yapılı bir beyinleri vardır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dolaşım sistemi</DOCTITLE>
+<TEXT>
+
+Dolaşım sistemi (veya kardiyovasküler sistem) maddelerin vücuttaki dolaşımını sağlayan organ sistemidir.
+Dolaşım sisteminin olmaması.
+Dolaşım sistemine sahip olmayan canlılara örnek olarak yassı solucan (Platyhelminthes filumu) verilebilir. Bu canlının vücut boşluğunda herhangi bir kaplayıcı tabaka veya sıvı bulunmamaktadır. Sindirim sistemine açılan bir ağıza sahiptirler.
+Açık dolaşım sistemi.
+Bu tip dolaşım sistemi yumuşakçalar ve eklembacaklılar gibi omurgasızların büyük bir kısmında görülür. Bu canlılarda hemosöl olarak adlandırılan vücut boşluklarında dolaşım sıvısı organları doğrudan sarar (yıkar) ve kan (dolaşım sıvısı) ile interstisyel sıvı (doku sıvısı) arasında ayrışma yoktur. Bu birleşik sıvıya "hemolenf" denir. Hayvan hareket ederken oluşan kas hareketleri hemolenf hareketini sağlar fakat sıvı akışını bir bölümden diğerine yönlendirilmesi kısıtlıdır. Kalp gevşediğinde kan açık gözenekler (por) aracılığıyla kalbe döner.
+Hemolenf vücudun içini (hemosöl) tamamen kapsar ve tüm hücreleri sarar. Hemolenf su, inorganik tuzlar ve organik bileşiklerden oluşur. Birincil oksijen taşıyıcı molekül ise hemosiyanindir. Kılcal kan damarları bulunmaz. 
+Ayrıca, hemosit olarak adlandırılan hücreler vardır ki bunlar hemolenfte bağımsız bir şekilde gezer ve antropod bağışıklık sisteminde rol alırlar. Kanın damarlardan geçerek vücut boşluğuna aktıktan sonra toplanarak kalbe dönmesidir. Açık dolaşım derisi dikenlilerde (deniz kestanesi,deniz yıldızı vb.), eklem bacaklılarda (örümcek, arı, sinek vb.) ve yumuşakçalarda (deniz anası, istiridye, midye vb.) görülür.
+Kapalı dolaşım sistemi.
+Kapalı dolaşım sisteminin ana yapıları kalp, kan ve kan damarlarıdır.
+Tüm omurgalıların ve halkalı solucanlar (Annelida filumu) ile kafadanbacaklıların (Cephalopoda sınıfı) dolaşım sistemleri "kapalı"dır; yani kan, kan damarlarından oluşan sistemden çıkmaz - bu damarlar sisteminin içinde dolaşır. Kan damarları arter (atardamar), kılcal damar (kapiler) ve venlerden (toplardamar) oluşur. Arterler oksijenlenmiş kanı dokulara taşırken, venler oksijenlenmemiş kanı geri kalbe taşır . Kan arterlerden venlere kılcal damarlar yoluyla geçer ki kılcal damarlar en ince ve en çok sayıdaki kan damarlarıdır . Kan damarları genişleyerek (vazodilasyon) veya daralarak (vazokonstriksiyon) kanın gerekli bölgelere yönlendirilmesini sağlayabilir. Örneğin, yoğun egzersiz sırasında kan bağırsaklardan, o anda yoğun bir şekilde besin ve oksijene ihtiyaç duyan iskelet kaslarına yönlendirilebilir.
+Memelilerin dolaşım sistemlerinde kan bir tam dolaşımda kalpten iki kez geçer. "Pulmoner dolaşım" yani "küçük dolaşım", kanı kalp ile akciğer arasında taşır; "sistemik dolaşım" yani "büyük dolaşım" da kanı kalp ile vücudun diğer bölümleri arasında taşır.
+Balıkların dolaşım sistemlerinde ise kan bir tam dolaşımda kalpten bir kez geçer. Kan kalpten solungaçlara pompalanır ve sonra doğrudan vücudun kalanına akar. Kan solungaçları terk ettikten sonra basıncı büyük oranda düşer; bu nedenle, memelerin dolaşım sistemine oranla, hayatî organlara kan akışı hem daha yavaş hem de daha az basınçlıdır. Bu tip bir dolaşım sistemi memelilere uygun değildir, zira bu kadar düşük basınçta böbrekler etkili biçimde çalışamaz.Kısacası kanın kalp ve damarlar sistemiyle çalışmasıdır.Kapalı dolaşım ilk kez toprak solucanında görülmüştür.Omurgalıların tamamında kapalı dolaşım vardır.Balıklarda kalp 2 odacıklıdır vücutlarında kirli kan dolaşır.Kurbağada kalp 3 odacıklıdır vücutlarında kirli kan dolaşır.Sürüngenlerde kalp 3 odacıklıdır ve kalp karıncığında yarım perde vardır.Timsahlarda perde tamdır, kirli ve temiz kan panizza adı verilen bir kanalda karışır.
+Omurgasız canlılarda dolaşım sistemi.
+Daha ilkel canlılardaki dolaşımın tipik örneği, süngerlerdeki ve sölenterelerdeki dolaşımdır. Bu canlıların içinde yaşadıkları su, beden çeperindeki deliklerden orta boşluğa doğru çekilir. Suyun akışı kirpikçiklerin düzenli hareketleriyle sürdürülür ve suyun "boşaltım deliği" (osculum) adı verilen delikten yukarı doğru dolaşımı sağlanır. Bu tür dolaşım, beden hücrelerinin içinde yüzdükleri sıvının oksijen ve besin maddelerinin tükenmeyeceği bir biçimde yeniden dolmasını sağlar.
+Daha yüksek derecede gelişmiş canlılarda, sözgelimi yosun hayvanlarında, iplikkurtlarında ve tekerlekli-kurtlarda, sıvılar ilkel orta boşluk (psödosölom) içinde, genellikle beden hareketleriyle hareket ettirilir. Bazı ilkel yumuşakçalarda, orta boşluk, gerçek kalbin bir ön taslağı sayılabilecek kalp zarı boşluğu olarak işlev görür. Bu boşluk kanallar aracılığıyla üreme bezlerine ve böbreklere bağlıdır.
+Eklembacaklıların çoğunda, tulumlularda ve birçok yumuşakçada, hemolenfi (ilkel kan), edimsel damarların ve özelleşmiş bir dolaşım organı olan hemosölün içine pompalayan, gelişmiş bir kalp vardır. Bu canlılarda hemolenf, doku boşluklarına geçip, sonra genişlemiş boşlukların (sinüsler) içinden kalbe döner.
+Bu tür gelişmenin son aşaması, derisidikenliler, sülükler, solucanlar, çokkıllılar ve yumuşakçalarda görülen kapalı dolaşım sistemidir. Kapalı dolaşım sistemlerinde, taşınma ortamı, omurgasızlardakİ hemolenf gibi, tam bir kapalı devre oluşturan özelleşmiş damarlarla sınırlıdır.
+Omurgasızların kalpleri, sağımsal hareketlerle iş gören basit damarlardan, kasılıcı kasları bulunan, kendi boşlukları içinde basınç yaratan gerçek kalplere kadar değişir. Omurgasızların bile, dolaşım sistemleri üstünde önemli ölçüde bir denetimleri vardır; bu sistemlerdeki basınç ve sıvı akışı ölçümleri, harekete, çevre ısısına, vb. etkilere oldukça büyük bir uyum olduğunu ortaya koymaktadır.
+Omurgalılarda dolaşım sistemi.
+Omurgalılar kapalı bir dolaşım sistemleri bulunmasıyla ayırt edilirler; bu sistemlerin en gelişmiş olanı,insanın temsil ettiği yüksek derecede gelişmiş primatlardadır. Omurgalılardaki kapalı sistemler, öbekten öbeğe önemli ölçüde değişir; bazıları, tek bir sistem halinde birleşmiş solunum organlarıyla ve genel beden dokularıyla bir düzenlenmiştir. Daha ileri omurgalılarda, kan kalpten çift geçiş yapar; birinci geçişte kanı solunum organlarına (solungaçlara ya da akciğerlere), ikincisinde de bedenin öbür dokularına taşır. Omurgalıların çoğunluğunda, klorokruorinler (demirli porfirinle bileşmiş bir pigment), hemoeritrinler (demirli,ama porfirinle bileşmiş olmayan pigment) ya da hemosiyanin (bakırlı bir solunum pigmenti) içeren dolaşım sıvıları bulunur. Bütün bu pigmentler, dolaşımdaki sıvının oksijen taşıma yeteneğini artırır. Çok ender istisnalar bir yana, omurgalılarda kan, son derece etkili bir oksijen taşıma aracısı olan ve bir proteine (globin) bağlı bir demir-porfirinden(heme) oluşan hemoglobin içerir.Bazı omurgasızlarda da hemoglobin bulunmakla birlikte,bu hemoglobin genellikle dolaşım ya da sölom sıvısında çözünmüş durumdadır. Yüksek derecede gelişmiş omurgasızlarda (derisi-dikenliler ve daha yüksek omurgasızlar) hemoglobin, özel kan hücreleri içinde bulunur. Omurgalılarınsa tümünde, bu tür hücreler içinde hemoglobin vardır.
+Balıklarda solungaç bulunduğu halde dolaşım bu genel yapıya uyar.
+Yuvarlakağızlılarda ve kelebeklerde kalp, kanı solungaçlara iter; sonra, sırt aortu aracılığıyla bedenin geri kalan bölümlerine dağıtır. Bu ilkel hayvanlarda bile başlıca kan damarları üstünde nispeten ilerlemiş bir denetim vardır ve kalp verimi, egzersizin getirdiği gereksinmelere göre ayarlanır.Bazı ilkel omurgalılarda (keskisolungaçlılar ve yuvarlakağızlılar) kalbin içinde, yeniden dolmasına yardım eden bir negatif basınç oluşur. Kemikli balıklarda bu tür bir doluş desteği buiunmaz. Bazı yuvarlakağızlılarda, sıvıyı yarı açık boşluklara (sinüsler) hareket ettirmeye yardımcı ikincil kalpler bulunur.
+İkiyaşayışlılarda ve sürüngenlerde, kalp üç odacıklıdır ama akış düzeni, kalbin iki ayrı pompa gibi etkili işlev görmesine olanak sağlar.
+İnsanda dolaşım sistemi.
+İnsan kalbi, yaşamı boyunca çalışır ancak ölünce durur. Kalp atışının 2 ya da 4 dakikadan uzun süre durması, kalıcı beyin yıkımına yol açar. Kalbin kendi kasına kan sağlaması da sürekli çalışmasına bağlıdır; birkaç dakikadan uzun süre kan kesilirse, kalp kası çok fazla zarar görüp, bir daha çalışmayacak biçimde durur. İnsanda dolaşım sistemi, iki büyük dolaşım, akciğer dolaşımı (küçük dolaşım) ve büyük (sistemik) dolaşım, biçiminde örgütlenmiştir. Her dolaşımın kendi pompası vardır. Her iki pompa, tek bir organ halinde bütünleşmiştir. Beden dokularından dönen kan, superior vena kava ve inferior vena kava ile kalbin sağ yanının üstodacığı olan sağ kulakçığa (sağ atrium) dökülür. Bu odacığın kasları kasılınca, kanı kalbin sağ yanının büyük pompa odacığı olan sağ karıncığa (sağ ventrikül) geçmeye zorlar ki bu da kasılınca, kanı akciğer atardamarına gönderir, kan buradan akciğerdeki damarlara taşınır. Bu akciğer damarları içinde kan, havadan çok ince zarlarla ayrılmış bir durumdadır. Burada basit yayınma aracılığıyla oksijen kana girer, karbondioksitse kandan geçer ve ayrılır. Ardından bu temizlenmiş ve tazelenmiş kan, sol kulakçığa (sol atrium) geçer. Sol kulakçıktan kan, sol karıncığa (sol ventrikül) geçer. Sol karıncığın kas çeperi çok güçlüdür ve kasıldığı zaman kanı oldukça büyük bir basınçla, aort adı verilen büyük atardamar aracılığıyla, büyük dolaşıma iter. Sol karıncığın kasılma güçleri tarafından aort içinde oluşturulan basınç, kanı bedenin bütün dokularına, gereksinimlerini karşılayacak miktarda götürmeye yetecek büyüklüktedir.
+Aortun, kanı bedenin değişik bölümlerine taşıyan birçok kolu vardır. Bu kolların da tümü daha küçük kollara ayrılır; bu daha küçük kollar da, sonunda milyonlarca küçük kan damarı ortaya çıkacak biçiminde kollara ayrılmayı sürdürür. Dolaşımın en küçük atardamarlarına atardamarcık adı verilir.
+Dolaşım sistemi içindeki kan akışı.
+Genel olarak kanın akışı,sıvıların akış yasalarını izler. Temel yasa,aşağıdaki denklemle gösterilir:
+Kalp-damar fizyolojisinde, akış değeri olarak genellikle kalp verimi alınır; basınç, ortalama atardamar basıncıdır; dirençse, küçük kan damarının içindeki,özellikle de atardamarcıklar içindeki akış dirençtir. Daha ayrıntılı bir biçimde, ağdalı sıvıların esnek olmayan borular içinden akışına uygulanan denklem, Poiseuille denklemi diye adlandırılır. Bu denklemle kan akışı, kabaca tanımlanabilir. Bununla birlikte, söz konusu denklem, akışkanın Newton tanımına uyan gerçek bir akışkan olduğunu kabul eder; oysa kan böyle bir akışkan değildir; denklem aynı zamanda boruların katı olduğunu varsayar; oysa kan damarlarının çeperleri katı değildir; ayrıca denklem akışkanın ağdalılığının değişmez olduğunu kabul eder; oysa kanın ağdalılığı değişmez değildir. Gene de, kan akışının denetimi konusunda yaklaşık da olsa bilgi edinmek bakımından, Poiseuiile denklemi yararlıdır.
+Kanın büyük ve orta büyüklükteki akışı,nabızla yansır. Nabız kılcaldamarların atardamar uçlarında söner ve zor farkedilecek bir duruma gelir.Fizyologlar, kan damarları içindeki akışı ve basınç vurusunun iletimini tanımlayan ayrıntılı kuramlar geliştirmişlerdir ve dirençli öğelerin, özellikle de atardamarcıkların etkisi çok iyi anlaşılmıştır.
+Kan dolaşımının denetimi.
+Basınç-akış ilişkisi, kan dolaşımı denetiminin temelini oluşturur. Dolaşımın bütün denetimi, kalp kası ya da atardamarcık düz kası tarafından sağlanır. Kalp verimi,öncelikle kalp hızıyla, atardamar basıncı kalp verimiyle ve çevresel dirençle, yerel doku ağları içinden kanın akışıyla, atardamar kasılması ya da gevşemesiyle denetlenir.
+Kalp kası ve dolaşım sisteminin düz kasları,beynin soğaniliğinde bulunan kalp damar merkezlerinden çıkan sinirler tarafından denetlenir.
+Tarihçe.
+M.Ö. 4. yüzyılda, kalbin kapakçıkları Hippokrat okuluna bağlı bir hekim tarafından keşfedilmiştir. Fakat, kapakçıkların görevi o dönemlerde anlaşılamamıştır. Ölümden sonra, kan venlerde (toplardamar) toplandığından, arterler (atardamar) boş görünür. Bu nedenle antik anatomistler bu damarların hava ile dolu olduğunu düşünmüş ve bu damarların hava dağıtma görevine sahip olduğu kanısına varmışlardı.
+Herofilus venler ile arterleri ayırsa da, nabzın doğrudan arterlerin bir özelliği olduğu düşünmüştür. Erasistratus yaşam sırasında kesildiklerinde arterlerin kanadığını gözlemlemiştir. Buradan da arterlerden kaçan (çıkan) havanın yerini kanın, venler ile arterler arasındaki küçük damarlar aracılığıyla, doldurduğunu düşünmüştür. Böylece kan akışını ters olarak düşünse de, ilk kez kılcal damar fikrini ortaya atmıştır.
+M.S. 2. yüzyılda Yunan hekim Galen kan damarlarının kan taşıdığını bilmekteydi ve venöz (koyu kırmızı) ve arteriyel (açık kırmızı ve daha duru) kanı tanımlamış, görevlerinin farklı ve ayrı olduğunu belirtmişti. Büyüme ve enerji, karaciğerde kilüsten oluştuğuna inandığı venöz kanın özellikleriyken, arteriyel kan kalpten gelmekteydi ve hava içerdiği için canlılık vermekteydi. Kan oluştuğu (yaratıldığı/üretildiği) yerlerden vücudun tüm bölümlerine akar ve buralarda tüketilirdi. Kalbe veya karaciğere giden kanın geri dönüşü yoktu. Kalp kanı pompalamadığı gibi, kalbin hareketi diyastol sırasında kanı emmekteydi ve kan arterlerin (kendi) nabızları sayesinde hareket etmekteydi. Ayrıca, Galen arteriyel kanın, venöz kanın sol karıncıktan sağa 'gözenekler' yardımıyla geçmesi ve havanın da akciğerlerden pulmoner arter yoluyla kalbin sol tarafına geçmesi sonucu oluştuğunu düşünmekteydi. Arteriyel kan oluştuğu sırada 'isli' (duman rengi) buharların oluştuğunu ve bunların yine pulmoner arter yardımıyla, dışarı verilmesi için, akciğerlere geçtiğini de düşünmüştür.
+İbn Nefis, 1242'de, insan vücudundaki kan dolaşımını doğru biçimde tanımlayan ilk kişidir. Anatomik bilgisi doğrultusunda el-Nefis pulmoner dolaşım konusunda şöyle bir çıkarımda bulunmuştur:
+Bunun dışında kalbin ihtiyaç duyduğu oksijen ve besinleri koroner arterler yoluyla aldığı yönünde bir önerme de ortaya atmıştır.
+1552'de ise Michael Servetus aynı tanımı yaptı ve Realdo Colombo da bunu kanıtladı. Yine de tüm bu sonuçlar genel olarak yaygın biçimde kabul edilmemişti.
+Sonunda, Hieronymus Fabricius'un öğrencilerinden biri olan William Haryvey bazı deneylerden sonra 1628'de insan dolaşım sistemini keşfettiğini duyurdu ve bu konuda etkili bir kitap (Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus) yayımladı. Bu çalışma zamanla tıp dünyasına doğru anlayışı kabul ettirdi. Harvey arterler ile venleri bağlayan kılcal damar sistemini tanımlayamamıştı; bunlar daha sonra Marcello Malpighi tarafından tanımlanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fibrinojen</DOCTITLE>
+<TEXT>
+
+Fibrinojen suda erir, kanın pıhtılaşmasında görev alır. Kan plazmasının yaklaşık %5'i fibrinojendir. Isıtıldığında pıhtılaşır. Karaciğerde sentez edilen, kan plazmasında bulunan ve pıhtılaşma olayında önemli rol oynayan kan proteinidir. Fibrinojen, kan pıhtılaşmasında meydana gelen “fibrin” in öncü maddesidir. Pıhtılaşma gerçekleşirken, fibrinojen trombin maddesi etkisiyle ve iyonize kalsiyumla fibrine dönüşerek pıhtıyı oluşturur.
+Fibrinojen sadece kan plazmasında değil, aynı zamanda çeşitli vücut sıvılarında (lenf sıvısı, iltihabi sıvı birikintileri vb.) da bulunur. Plazmadaki fibrinojen miktarı yaklaşık olarak 5 gr/litre’dir. Çeşitli karaciğer rahatsızlıklarında sentezlenme olaylarının bozulmasıyla kandaki fibrinojen miktarı azalır. Gebelik, eklem romatizması ve iltihabi durumlarındada kanda fibrinojen miktarı artar. Doğumdan veya sonradan olan bazı rahatsızlıklarda fibrinojenin görev yapamaması söz konusu olabilir.
+Böyle durumlarda insan plazmasında yoğunlaştırılmış fibronojenin hasta şahısa verilmesiyle eksiklik belirtileri ortadan kaldırılır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Beta-lizin</DOCTITLE>
+<TEXT>
+
+Beta-lizin, (kan) plazmasında ve gözyaşında bulunan, bazı bakterileri yok edebilen bir madde.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yumuşakçalar</DOCTITLE>
+<TEXT>
+
+Yumuşakçalar ("Mollusca") hayvanlar aleminin geniş bir şubesi.
+Yumuşakçaların Genel Özellikleri.
+Şizosöl tipte gerçek bir sölom boşluğu görülür.
+Dolaşım sisteminde, Aort ve diğer kan damarları, sinüsler, 3 odacıklı bir kalp ve solunum pigmentleri (Hemoglobin) taşıyan kan mevcuttur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Denizkabuğu</DOCTITLE>
+<TEXT>
+
+Deniz kabukları, deniz salyangozu, midye, istiridye, denizdişi gibi kabuklu yumuşakçaların deniz kıyılarına vuran kabukları. İçinde yaşayan canlının kabuğu terk etmesi sonucu kıyıya vurdukları kabul edilmektedir. Yerli halklarca süs malzemesi olarak kullanıldığı gibi koleksiyon yapanlar tarafından da toplanırlar.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Deniz salyangozu</DOCTITLE>
+<TEXT>
+
+Deniz salyangozu, tuzlusuda yaşayan karından bacaklılardan yumuşakçaların ortak adı. Bu ad tatlısularda ve karada yaşayan salyangozların dışında denizde yaşayan ve kabukları olanları kapsar; denizde yaşasalar bile kabukları olmadığı için deniz sümüküböceği, deniztavşanı, Nudibranchia gibi gruplar bu adlandırmaya dahil değildir.
+Denizkulağı gibi birçok türü insan besini olarak tüketilir. Kabukları süs olarak değerlendirildiği gibi denizkabuğu koleksiyoncuları tarafından da aranan kabuklardır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kaliforniya davarbaşı</DOCTITLE>
+<TEXT>
+
+Kaliforniya davarbaşı ("Semicossyphus pulcher"), Doğu Pasifik Okyanusu'na ait bir balık türü. Monterey Körfezi ile Kortez denizi arası doğal yaşam alanlarıdır.
+Boyları 91 cm'ye, kiloları 16 kg.a kadar ulaşabilir. Erkekleri beyaz bir çene ile birlikte siyah bir baş ve kırmızı ağırlıklı bir gövdeye sahiptir. Dişileri ise pembe renktedir. Genç nesil genellikle parlak kırmızı bir görünüme sahiptir. 
+Genellikle yengeçlerin, ıstakozların, yumuşakçaların, deniz kestanelerinin bulunduğu Kelp ormanlarını, kayalık resifleri tercih ederler. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yahni</DOCTITLE>
+<TEXT>
+
+Yahni, sebze (çoğunlukla; biber, domates, patates, fasulye), et, baharat veya deniz ürünlerinin, et suyu veya kemik suyu ya da sos ile pişirilmesiyle yapılan ana yemektir. Kökeni ilkel boyların çeşitli yiyecekleri birlikte kaynatarak yaptığı basit yemeklere dayanan yahniler Amazonlarda yaşayan kişilerce kaplumbağaların, kabuklarının içindeki bağırsak ve çeşitli sebzelerle kaynatılmasıyla yapılmıştır. Pek çok kültürün büyük yumuşakçaların kabuklarını kullanarak da yaptığı yahnilerin en erken arkeolojik kanıtları 7.000 - 8.000 yıl öncesine dayanmaktadır. 
+Bazı yöresel yahni çeşitleri şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çin şapkası (hayvan)</DOCTITLE>
+<TEXT>
+
+Çin şapkası, kabuğu koni biçiminde, dalgalı kıyılarda yaşayan ve su yosunuyla beslenen bir yumuşakça türü.
+Taksonomi.
+"Patella caerulea"
+Kabuk.
+Kabuğu, tek parçadan oluşan ve koni şeklinde yapısı olan bir çeşit salyangoz kabuğu biçimindedir. Adını kabuğundan alır. Kabuk, kıvrımlı ve bir alt bir üst birçok üçgen halinde katlanmıştır.
+Cinsiyet.
+Bu türdeki yumuşakçaların hepsi ilk doğduklarında erkektir. Dişiler daha sonra cinsiyet değiştirir (erkeklikten dişiliğe geçiş yaparlar).
+Habitat.
+Bu yumuşakçalar dalgalı kıyılarda, kayalara tutunarak yaşarlar. Bu da onlara yosun bulmakta avantaj kazandırır.
+Besleniş.
+Aşağıda beslendiği yosun türleri verilmiştir:
+
+</TEXT>
+</DOC>
+

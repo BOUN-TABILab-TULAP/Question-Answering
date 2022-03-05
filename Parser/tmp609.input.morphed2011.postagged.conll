@@ -1,0 +1,11 @@
+1	Bitkiler	bitki	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+2	_	büyü	Verb	Verb	Pos	_	_	_	_
+3	büyüdükçe	_	Adv	Adv	AsLongAs	_	_	_	_
+4	kök	kök	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	siteminde	sitem	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+6	ne	ne	Adj	Adj	_	_	_	_	_
+7	gibi	gibi	Postp	Postp	PCNom	_	_	_	_
+8	_	değişik	Adj	Adj	_	_	_	_	_
+9	değişiklikler	_	Noun	Noun	Ness|A3pl|Pnon|Nom	_	_	_	_
+10	olur	ol	Verb	Verb	Pos|Aor|A3sg	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

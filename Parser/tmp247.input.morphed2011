@@ -1,0 +1,47 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Mevsimlerin	mevsim	+Noun+A3pl+Pnon+Gen
+Mevsimlerin	mevsim	+Noun+A3pl+P2sg+Nom
+
+oluşması	oluş+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+dünyanın	dünya+Noun+A3sg+Pnon+Gen
+dünyanın	dünya+Noun+A3sg+P2sg+Gen
+
+ekliptiğe	ekliptiğe	+Noun+Prop+A3sg+Pnon+Nom
+
+eğik	eğik+Adj
+
+olması	ol	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+bağlantılıdır	bağlantı+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

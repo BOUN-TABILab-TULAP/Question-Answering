@@ -1,0 +1,31 @@
+Cedilla
+A cedilla ( ; from Spanish), also known as cedilha (from Portuguese) or cédille (from French), is a hook or tail ( ) added under certain letters as a diacritical mark to modify their pronunciation. In Catalan, Portuguese and in French, it is used only under the "c", and the entire letter is called respectively "c trencada" (i.e. "broken C"), "c cedilhado" and "c cédille".
+Origin.
+The tail originated in Spain as the bottom half of a miniature cursive z. The word “cedilla” is the diminutive of the Old Spanish name for this letter, "ceda" (zeta). Modern Spanish or modern Galician, however, no longer use this diacritic, although it is still current in Portuguese, Catalan, Occitan, and French, which gives English the alternative spellings of "cedille", from French “"cédille"”, and the Portuguese form "cedilha". An obsolete spelling of "cedilla" is "cerilla". The earliest use in English cited by the "Oxford English Dictionary" is a 1599 Spanish-English dictionary and grammar. Chambers’ "Cyclopædia" is cited for the printer-trade variant "ceceril" in use in 1738. The main use in English is not universal and applies to loan words from French and Portuguese such as “façade”, “limaçon” and “cachaça” (often typed “facade”, “limacon” and “cachaca” because of lack of "ç" keys on Anglophone keyboards).
+Encodings.
+In Unicode, the symbol is .
+Many precomposed characters are defined too, like:
+C.
+The most frequent character with cedilla is "ç" ("c" with cedilla, as in "façade"). It was first used for the sound of the voiceless alveolar affricate in old Spanish and stems from the Visigothic form of the letter "z" (), whose upper loop was lengthened and reinterpreted as a "c", whereas its lower loop became the diminished appendage, the cedilla.
+It represents the "soft" sound , the voiceless alveolar sibilant, where a "c" would normally represent the "hard" sound (before "a", "o", "u", or at the end of a word) in English and in certain Romance languages such as Catalan, Galician, French, Ligurian, Occitan, and Portuguese. In Occitan, Friulian and Catalan "ç" can also be found at the beginning of a word ("Çubran", "ço") or at the end ("braç").
+It represents the voiceless postalveolar affricate (as in English "church") in Albanian, Azerbaijani, Friulian, Kurdish, Tatar, Turkish (as in "çiçek", "çam", "çekirdek", "Çorum"), and Turkmen. It is also sometimes used this way in Manx, to distinguish it from the velar fricative.
+In the International Phonetic Alphabet, represents the voiceless palatal fricative.
+S.
+The character "ş" represents the voiceless postalveolar fricative (as in "show") in several languages. It sounds the same as the Slavic Š. It is used in several languages, including many belonging to the Turkic languages, and included as a separate letter in their alphabets:
+Latvian.
+Comparatively, some consider the diacritics on the Latvian consonants "ģ", "ķ", "ļ", "ņ", and formerly "ŗ" to be cedillas. Although their Adobe glyph names are commas, their names in the Unicode Standard are "g", "k", "l", "n", and "r" with a cedilla. The letters were introduced to the Unicode standard before 1992, and their names cannot be altered. The uppercase equivalent "Ģ" sometimes has a regular cedilla.
+Marshallese.
+Four letters in Marshallese have cedillas: "", "", "" and "". In standard printed text they are "always" cedillas, and their omission or the substitution of comma below and dot below diacritics are nonstandard.
+, many font rendering engines do not display "any" of these properly, for two reasons:
+Because of these font display issues, it is not uncommon to find nonstandard "ad hoc" substitutes for these letters. The online version of the Marshallese-English Dictionary (the only complete Marshallese dictionary in existence) displays the letters with dot below diacritics, all of which do exist as precombined glyphs in Unicode: "", "", "" and "". The first three exist in the International Alphabet of Sanskrit Transliteration, and "" exists in the Vietnamese alphabet, and both of these systems are supported by the most recent versions of common fonts like Arial, Courier New, Tahoma and Times New Roman. This sidesteps most of the Marshallese text display issues associated with the cedilla, but is still inappropriate for polished standard text.
+Other diacritics.
+Languages such as Romanian add a comma (virgula) to some letters, such as "ș", which looks like a cedilla, but is more precisely a diacritical comma. This is particularly confusing with letters which can take either diacritic: for example, the consonant is written as "ş" in Turkish but in Romanian, and Romanian writers will sometimes use the former instead of the latter because of insufficient font or character-set support.
+The Polish letters "ą" and "ę" and Lithuanian letters "ą", "ę", "į", and "ų" are not made with the cedilla either, but with the unrelated ogonek diacritic.
+French.
+In 1868, Ambroise Firmin-Didot suggested in his book "Observations sur l'orthographe, ou ortografie, française" (Observations on French Spelling) that French phonetics could be better regularized by adding a cedilla beneath the letter "t" in some words. For example, the suffix "-tion" this letter is usually not pronounced as (or close to) in either French or English, but respectively as and . It has to be distinctly learned that in words such as French "diplomatie" (but not "diplomatique") and English "action" it is pronounced and , respectively (but not in "active" in either language). A similar effect occurs with other prefixes or within words also in French and English, such as "partial" where "t" is pronounced and respectively. Firmin-Didot surmised that a new character could be added to French orthography. A similar letter, the t-comma, does exist in Romanian, but it has a comma accent, not a cedilla one.
+Romanian.
+The Unicode character for Ţ (T with cedilla) and Ş (S with cedilla) were wrongly implemented in Windows for the Romanian language.
+In Windows 7, Microsoft corrected this error, replacing T-cedilla with T-comma (Ț) and S-cedilla with S-comma (Ș).
+Gagauz.
+Gagauz language uses Ţ (T with cedilla) and Ş (S with cedilla).
+Ţ (T with cedilla) only exists in the Gagauz language.

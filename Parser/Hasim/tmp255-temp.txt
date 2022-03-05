@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Hızlı hız+Noun+A3sg+Pnon+Nom^DB+Adj+With Hız+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With Hızlı+Noun+Prop+A3sg+Pnon+Nom
+nüfus nüfus+Noun+A3sg+Pnon+Nom
+artışının art+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Gen art+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Gen
+nasıl nasıl+Adverb nasıl+Adj
+sonuçları sonuç+Noun+A3pl+Pnon+Acc sonuç+Noun+A3pl+P3sg+Nom sonuç+Noun+A3pl+P3pl+Nom sonuç+Noun+A3sg+P3pl+Nom
+olabilir ol+Verb+Pos^DB+Verb+Able+Aor+A3sg ol+Verb+Pos^DB+Verb+Able^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

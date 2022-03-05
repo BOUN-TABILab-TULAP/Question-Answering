@@ -1,0 +1,62 @@
+Değişken hızlı rüzgar türbini
+Rüzgar türbinlerinin orijinal modeller hız türbinleri sabitlenmiş; yani rotor hızı tüm rüzgar hızları için sabit oldu. Bir rüzgar türbini için uç-hız oranı, aşağıdaki formül ile verilir:
+FORMULA_1
+formula_2 (saniye başına radyan cinsinden) rotor hızı olduğu, formula_3 bir pervane kanadının uzunluğu ve formula_4 rüzgar hızıdır. Bu bir sabit hızlı rüzgar türbini için, uç-hız oranı değeri sadece rüzgar hızı varyasyonları ile değiştirilir, söylemektir. Tip-hız oranı ve etkinlik arasındaki ilişkiyi gösteren bir formula_5-formula_6 grafik, değini, bu formula_6 yalnızca bir değer, en yüksek verimliliği ile sonuçlandığı görülmektedir. Bu sabit hızlı rüzgar türbini rüzgar hızlarında bir dizi genelinde en yüksek verimlilikle çalışan değil, olduğunu. Bu değişken hızlı rüzgar türbinlerinin geliştirilmesi için bir motivasyon oldu.
+Arkaplan.
+Elektrik üretilen tüm rüzgar türbinleri 1939 öncesinde değişken hız vardı.
+Tüm şebekeye bağlı rüzgâr türbinleri, 1939 yılında ilk olandan 1970'lerde değişken hızlı şebekeye bağlı rüzgar türbinlerinin geliştirilmesi kadar, sabit hızlı edildi rüzgar türbinleri.
+2003 yılı itibariyle, neredeyse tüm şebekeye bağlı rüzgâr türbinleri tam sabit hız (senkron jeneratörler) veya sabit hızla (indüksiyon jeneratörleri) bir kaç oranında içinde faaliyet.
+Cp-λ eğrileri.
+Aşağıda, tipik bir rüzgar türbini için formula_8 eğrisinin bir gösterimidir.
+Maksimum verimlilik sadece bir ipucu-hız oranı oluşur. Uç-hız oranı yukarıda belirtilen ifade ile verildiğinden, değişken hızlı rüzgar türbinleri tüm rüzgar hızlarında (ideal) üzerinden maksimum verimlilikte çalışabilir.
+Tork Rotor hız diyagramları.
+Bir rüzgar türbini için, hasat gücü aşağıdaki formül ile verilir:
+formula_9
+formula_10 gücü burada, formula_11 rüzgar hızı formula_4, hava yoğunluğu, bıçağın uzunluğu formula_3 olduğu ve formula_5 güç katsayısı rüzgar türbini içindir. Güç katsayısı rüzgar türbini tarafından yakalanır nasıl rüzgarda mevcut iktidarın çok bir temsilidir.
+bıçaklar üzerinde tork formula_15, rotor hızı, formula_16 ayıklanır gücü oranı ile elde edilir:
+formula_17
+rotor hızı ucu hız oranı, formula_6 aracılığıyla, rüzgar hızı, formula_4 ilişkili olabilir:
+FORMULA_1
+Böylece tork ve güç için şu ifadeleri alabilirsiniz:
+formula_21
+ve
+formula_22
+Yukarıdaki denklemde, biz bir rüzgar türbini için tork rotor hızı diyagramı oluşturabilirsiniz. Bu, birden eğriler oluşur: sabit güç (yeşil eğri) için tork ve rotor hızı arasındaki ilişkiyi araziler sürekli güç eğrisi; tork ve sürekli rüzgar hızları için rotor hızı arasındaki ilişki (gri eğriler kesikli) arsa sabit rüzgar hızı eğrileri; ve sürekli verimlilik eğrileri, hangi arsa sabit verimlilik için tork ve rotor hızı arasındaki ilişkiyi, formula_5. Bu diyagram aşağıda sunulmuştur:
+Notlar.
+Yeşil eğri: güç Arsa = nominal güç formula_24 formula_25
+Gri eğri: Rüzgar hızı, formula_4, sabit formula_24 formula_28 tutulur
+Mavi eğri: Sabit formula_5 formula_24 formula_31
+Bıçak kuvvetler.
+"Daha fazla bilgi için, Blade Eleman Momentum Teorisi bakın"
+Aşağıdaki şekil düşünün:
+(Şeklin sol) bir bıçak tarafından görüldüğü gibi bu, görünen rüzgar hızı tasviridir. görünen rüzgar hızı havanın serbest akım hızı ve rotor hızı hem etkilenir. Bu rakam, biz açı formula_32 ve zahiri rüzgar hızı formula_33 hem rotor hızı, formula_2 fonksiyonları olduğunu görebilirsiniz. Uzantısı olarak, kaldırma ve sürükleme kuvvetleri de formula_2 fonksiyonları olacaktır. Bu, bıçağın hareket eksenel ve teğetsel kuvvetler, rotor hızı ile farklılık gösterir. eksenel yönde kuvvet aşağıdaki formül ile verilir:
+Değişken hızlı rüzgar türbinleri için Çalışma stratejileri.
+Stall düzenlenir.
+Daha önce bahsedildiği gibi, bir rüzgar türbini ideal anma gücü maksimum verimlilikle faaliyet gösterecek. Nominal güç vurulduktan sonra, güç sınırlıdır. Bu iki nedenden dolayı ise: aktarma organları ekipman değerlendirmesi, örneğin jeneratör gibi; ve ikinci bıçaklar üzerindeki yükü azaltmak için. Bir rüzgar türbini için bir çalışma stratejisi böylece alt puan güç bileşeni bölünmüş ve bir puan güç bileşeni olabilir.
+Aşağıda gücü puan.
+Aşağıda rüzgar türbini ideal formula_36 şekilde çalışacaktır, güç puan. Aşağıdaki gibi bir Tork-rotor hızı diyagram, bu görünür:
+nerede siyah çizgi bir değişken hız durak ayarlı rüzgar türbini için çalışma stratejisinin ilk bölümünü temsil eder. İdeal olarak, biz nominal güç isabet kadar maksimum verim eğrisi üzerinde kalmak isterim. Ancak, rotor hızı arttıkça, gürültü düzeyi artmaktadır. Bunu engellemek için, rotor hızı belli bir değerin üzerinde artış izin verilmez. Bu, aşağıdaki şekilde tasvir edilir:
+Güç Anma ve üzeri.
+Rüzgar hızı puan rüzgar hızı denilen belirli bir seviyeye ulaşmıştır sonra türbin yüksek rüzgar hızlarında iktidarda herhangi daha büyük seviyelerde üretmek mümkün olmamalıdır. Bir durak düzenlenmiş değişken hızlı rüzgar türbini hiçbir yunuslama mekanizması vardır. Ancak, rotor hızı değişkendir. rotor hızı ya uygun bir şekilde tasarlanmış denetleyici tarafından artırılabilir veya azaltılabilir. Bıçak kuvvetleri bölümünde gösterilen şekle referansla, bu belirgin rüzgar hızı ve dönme düzlemi arasındaki açı, rotor hızına bağlı olduğu açıktır. Bu açı, sapma açısını olarak adlandırılır.
+Bir profilin kaldırma ve çekme eş efficients hücum açısı ile ilgilidir. Özellikle hücum yüksek açılarla, bir kanat tezgahları için. Yani, sürükle ölçüde artar. kaldırma ve sürükleme kuvvetleri bir rüzgar türbininin güç üretimini etkiler. Bu hava bıçağı ile etkileşen olarak bir pervane kanadının üzerine etki eden kuvvetlerin bir analiz (alttaki bağlantı) görülebilir. Böylece, güç sınırlayıcı neden olabilir durak kanat profiline zorlayarak.
+Bu yüzden hücum açısı rüzgar türbininin güç üretimini sınırlamak için artmış gerekiyorsa, rotor hızı azaltılmalıdır tespit edilebilir. Yine, bu kanat kuvvetleri bölümünde şekilden görülebilir. Aynı zamanda tork rotor hızı diyagramı dikkate görülebilir. Yukarıdaki tork rotor hızı şemasına istinaden, yüksek rüzgar hızlarında rotor hızını azaltarak, türbin ve böylece bazı güç çıkışına sınırlama getiren durak bölgesini girer.
+Pitch düzenlenir.
+Pitch yönetmelik rüzgar türbini kanatlarının aktif üzerindeki hava saldırısı açısını değiştirmek için izin verir. Güç çıkışı çok daha fazla kontrol sağlayan bu bir durak düzenlenmiş rüzgar türbini tercih edilir.
+Aşağıda gücü puan.
+Durak düzenlenmiş değişken hızlı rüzgar türbini Özdeş, ilk işletme stratejisi formula_37 eğrisi üzerinde işletmektir. Ancak, bu tür gürültü düzeyleri kısıtlamaları nedeniyle, bu alt nominal rüzgar hızlarında tam kapsamlı mümkün değildir. Puan rüzgar hızı Aşağıda, aşağıdaki işletim stratejisi kullanılmaktadır:
+Yukarıdaki gücü puan.
+Puan rüzgar hızı şeyden yunuslama mekanizması kullanılır. Bu sayede tork üzerinde kontrol, hücum açısı üzerinde kontrol iyi bir seviyede verir. adım açısı, formula_38, sıfır olduğunda önceki tork rotor hız diyagramları tüm araziler bulunmaktadır. Üç boyutlu bir çizim adım açısındaki değişimleri içeren üretilebilir.
+Sonuçta, 2B arsa, puan rüzgar hızı üstünde, türbin aşağıdaki diyagramda 'x' işareti noktada çalışacaktır.
+Vites kutuları.
+Değişken bir hız ya da imalatçının isteklerine bağlı olarak, bir dişli kutusu sahip olabilir veya olmayabilir. Şanzımanlar olmadan Rüzgar türbinleri doğrudan tahrikli rüzgar türbini denir. Bir vites kutusu bir avantajı, jeneratör genellikle stator içinde yüksek hızda dönen bir rotor için tasarlanmış olmasıdır. Direct drive rüzgar türbinleri bu özelliği göstermezler. Bir vites kutusu bir dezavantajı güvenilirliği ve başarısızlık oranları olduğunu.
+Bir vites kutusu olmayan bir rüzgar türbininin bir örneği Enercon E82 olduğunu.
+Jeneratörler.
+Değişken hızlı rüzgar türbinleri için, jeneratörler iki türlerinden biri kullanılabilir: Bir DFIG (Çifte beslenen indüksiyon jeneratör) ya da FRC (tam puan dönüştürücü).
+Bir DFIG jeneratör iletim sisteminden reaktif güç çeker; Bu bir arıza durumunda bir iletim sisteminin kırılganlığını artırabilir. Bir DFIG yapılandırma yara rotor olarak jeneratörü gerektirir; sincap kafesli rotorlar bir yapılandırma için kullanılamaz.
+Tam puan dönüştürücü ya bir endüksiyon jeneratörü veya bir sürekli mıknatıs jeneratör olabilir. DFIG aksine, FRC jeneratörü bir sincap kafesli rotor istihdam edebilir; Bunun bir örneği, sanayi beygir olarak adlandırılır Siemens SWT 3.6-107 vardır. Sürekli mıknatıslı jeneratör örneği Siemens SWT-2,3-113 olduğunu. Bir daimi mıknatıs jeneratörünün bir dezavantajı dahil edilmesi gereken malzeme maliyetidir.
+Izgara Bağlantıları.
+Bir sabit mıknatıslı senkron jeneratör ile bir değişken hızlı rüzgar türbini düşünün. jeneratör, AC elektrik üretir. Rüzgar türbini tarafından üretilen AC voltajın frekans jeneratörü içindeki rotorun hızının bir fonksiyonudur:
+formula_39
+formula_40 rotor hızı olduğu, formula_10 jeneratör kutup sayısı ve formula_42 çıkış geriliminin frekansıdır. O rüzgar hızı değişir, rotor hızı değişir ve böylece Gerilim sıklığı değişir olduğunu. Bu elektrik bir şekilde doğrudan bir iletim sistemine bağlı olamaz. Bunun yerine, frekans sabit olacak şekilde düzeltilmesi gerekir. Bunun için güç dönüştürücüler iletim sistemi rüzgar türbininin de-kavrama hangi sonuçları, istihdam edilmektedir. Daha fazla rüzgar türbinleri bir ulusal elektrik sistemine dahil olarak, atalet azalmıştır. Bu iletim sisteminin frekansı daha güçlü tek bir üretim biriminin kaybından etkilenen olduğu anlamına gelir.
+Güç dönüştürücüler.
+Daha önce de belirttiğimiz gibi, bir değişken hızlı rüzgar türbini tarafından üretilen voltaj olmayan ızgara uyumludur. Bu olduğunda, bu türbin güç iletim şebekesini temin etmek amacıyla, sinyal iletim sistemi frekans elektrik voltajının frekansı yel türbini tarafından oluşturulan sağlayan bir güç dönüştürücü, aracılığıyla geçmiş olması gerekir iletim sistemine aktarılır. Güç dönüştürücüler ilk DC sinyali dönüştürmek ve sonra bir AC sinyali DC sinyali dönüştürmek. Kullanılan teknikler genişlik modülasyonu darbe dahil

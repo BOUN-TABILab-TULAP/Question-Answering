@@ -1,0 +1,14 @@
+1	Kromozomlar	kromozom	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+2	_	üzer	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+3	üzerindeki	_	Adj	Adj	Rel	_	_	_	_
+4	genlerde	gen	Noun	Noun	A3pl|Pnon|Loc	_	_	_	_
+5	meydana	meydan	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+6	_	gel	Verb	Verb	Pos	_	_	_	_
+7	gelen	_	Adj	APresPart	_	_	_	_	_
+8	_	değiş	Verb	Verb	Pos	_	_	_	_
+9	değişmelere	_	Noun	NInf	A3pl|Pnon|Dat	_	_	_	_
+10	ne	ne	Adj	Adj	_	_	_	_	_
+11	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+12	_	ver	Verb	Verb	_	_	_	_	_
+13	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

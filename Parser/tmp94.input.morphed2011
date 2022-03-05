@@ -1,0 +1,33 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Amerika	Amerika	+Noun+Prop+A3sg+Pnon+Nom
+
+kıtasını	kıta+Noun+A3sg+P3sg+Acc
+
+kim	kim	+Pron+Ques+A3sg+Pnon+Nom
+
+keşfetmiştir	keşfet+Verb+Pos+Narr+A3sg+Cop
+keşfetmiştir	keşfet+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

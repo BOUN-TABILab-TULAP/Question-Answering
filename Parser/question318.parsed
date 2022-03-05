@@ -1,0 +1,10 @@
+1	_	sür	Verb	Verb	_	2	DERIV	_	_
+2	_	_	Verb	Verb	Caus	3	DERIV	_	_
+3	_	_	Verb	Verb	Pass|Pos	4	DERIV	_	_
+4	Sürdürülebilir	_	Verb	Verb	Able|Aor|A3sg	8	MODIFIER	_	_
+5	tarım	tarım	Noun	Noun	A3sg|Pnon|Nom	8	SUBJECT	_	_
+6	nasıl	nasıl	Adv	Adv	_	8	MODIFIER	_	_
+7	_	yap	Verb	Verb	_	8	DERIV	_	_
+8	yapılır	_	Verb	Verb	Pass|Pos|Aor|A3sg	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

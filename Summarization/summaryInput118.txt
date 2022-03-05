@@ -1,0 +1,333 @@
+Question: Türkiye’de çay üretimi hangi bölgede olur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye'de OT/VT çözümleri</DOCTITLE>
+<TEXT>
+
+Türkiyenin ilk OTVT firması olan Teta Elektronik A.Ş., 1982 yılında Ankarada ilk barkod okuyucu terminalini üretti. Türkiyede Barkod kullanılan ilk uygulama, Teta A.Ş. nin Türkiye Atom Enerjisi Kurumuna kurduğu kartlı geçiş kontrol sistemi oldu. Firma,1982 yılında ve 1988 yıllarında Türkiyede ilk kez manyetik kart okuyucu ve proximity kart okuyucuları da üretti. Üretim ve stok takibine yönelik endüstride ilk kullanılan OTVT sistemi ise, 1984 yılında, Teta A.Ş tarafından Arçelik fabrikasına kuruldu. Bu uygulamada 100den fazla makineden toplanan veriler IBM PC nin ilk versiyonu olan, 8 bitlik data hattına sahip olan 8088 islemciye sahip bilgisayarında toplandı.
+Türkiye Odalar Birliği, 1988 yılında Türkiyede satılan ürünlerin üzerine basılacak barkodların tekniği, yapısı ve kullanımı yönünde düzenlemeleri hazırlayarak marketlerde OTVT uygulamasının fiilen kullanılmasını sağladı. Bu dönemde faaliyette bulunan Porcan, Barkod, Teta gibi OTVT firmaları Türkiye genelinde firmalara danışmanlık yaparak teknolojinin kullanımı ve yaygınlaşması için sürece katkıda bulundular.
+Temaslı Akıllıkart teknolojisi,ilk kez 1990 lı yılların başlarında kamuya ait Testaş A.Ş. tarafından üretildi ve takograflarda kullanılmaya başlandı. Temaslı akıllıkartklar 2000 yılından sonra Alfagaz tarafından üretilen gaz sayaçlarında kullanıldı.
+1990 sonrasında Barkod teknolojisi bazı alanlarda RFID teknolojisine yerini bırakmaya başlamıştır. Radyo frekanslı tanıma teknolojisi anlamına gelen RFID, barkoda göre daha pahalı ancak daha kullanışlı ve pratik olduğundan özellikle geçiş kontrol ve elektronik ödeme sistemlerinde vazgeçilmez hale geldi. 1995 yılında Teta, MIFARE terminalini üreterek Türkiyede ilk RFID elektronik ödeme sistemini uyguladı. Sonraki yıllarda Mifare, toplu ulaşımda ve kartlı geçiş uygulamaları için yaygın olarak kullanılmaya başlandı. 2004 yılından sonra çipleri ucuzlayan Mifare iyice gelişen mifare teknolojisi pek çok yeni üretici mifare teknolojisi ile üretim yapmaya başladı. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fanatik (film, 1996)</DOCTITLE>
+<TEXT>
+
+The Fan 1996 yapımlı bir psikolojik gerilim filmi. Yönetmenliğini Tony Scott'ın üstlendiği filmin başrolünde Akademi Ödüllü oyuncu "Robert De Niro" ve ünlü aktör/dövüş sanatçısı "Wesley Snipes" rol almaktadır. Peter Abrahams'ın aynı isimli kitabından uyarlanarak yola çıkılmış ve çekilmiştir. Gil Renard (De Niro) başına gelenleri konu alan beyzbol içerikli film 1996'da iyi bir çıkış yapmıştır.
+Konusu.
+Gil Renard (Robert De Niro) için hayat kötüye gitmektedir,sorunlu davranışları yüzünden eski karısı oğlunu ondan uzaklaştırmaya başlar. Gergin bir bıçak satıcısı olan Gil ayrıca bir fanatikdir. Ama her kesin sadece bir takımı tuttuğu için gitdiği bir maçdan daha büyük bir fanatik. Beyzbolu çok sevmekte olan Gilin açılış günü yaklaşmaktadır. Sabırsızlıkla beklemektedir bu günü,çünkü San Francisco Giants takımını tutsada kendisi büyük bir Bobby Rayburn (Wesley Snipes) hayranıdır ve Bobby Giantslara 40 milyon dolarla transfer olmuşdur.Bobby veya kısaca Bobun geldiğindeyse bir sorunla karşılaşır,hep 11 numara olan Bobbye bu sefer 33 numara verirler çünkü 11 numara artık giyinilmektedir.Bobby bu olaya çok sinirlenir,bu arada Bobbynin bir oğlu vardır:Sean. Oğlunu çok sevmekte olan Bobby yeni oyunda başarıslığa uğrayınca bunun numaradan olduğunu düşünür.Gil ise olayları anlamamışdır,ama hala Bobbyi bir kahraman olarak görmektedir.Bobby ve diğer giantsların takıldığı restorana gelir,tesadüfen olayları dinler.Bobby ve Juan Primonun (Benicio del Toro; 11 numara giyen) kavgasının neden çıktığı anlar,sebep 11 numarayı geri almak isteyen Bobbydir.Bunun bir saçmalık olduğunu düşünsede,Gil,yine de 11 numara alması için Bobbye yardım etmeye karar verir.Bobun sahilin yanındaki evinide sürekli gözetler.
+Gil artık işten atılmak üzeredir,oğlunuda görmemeye başlayan Gil gittikçe depresyon kaynaklı çılgınığa başlar.Artık odaklandığı tek şey fanatiği olduğu Bobby Bob Rayburnun beyzbolda bir numara yapmak. Artık iştende atılır. Gidip Juan ile konuşan ve kavga çıkartan Gil tesadüfen onu öldürür. Ertesi gün Bobby kendisini kötü hiss etsede bir süre sonra mükemmel oynamaya başlar.Buna çok sevinen Gil ise bir gün Seanin boğulduğunu görür ve onu kurtarır.Bobbyle kısa bir zaman geçiren Gil,ona Juan Primonun ölümünden sevinip sevinmediğini sorar.Bobby ise : "Hayatım boyunca hep birinci olmak istedim ama artık bu konuda düşüncelerimi bıraktım,bu yüzden başarılıyım ve Juanın ölümünede üzüldüm". Bu sözler Gili çılgına çevirir,ve hem köpeği Bradleyi hem de Seani kaçırır.Ve karşılık olarak Bobby'e oldukça garip bir istek söyler.
+Yaş Sınırı.
+Yetişkin gözetimi altında 13 yaşından küçükler izleyebilirler. Film şiddet, aşırı küfürler ve çok kısa cinsellik içermektedir. Fakat aşırı küfürler tv versiyonunda sansürlendiğinden dolayı yetişkinlerle birlikte film izlenebilir. 
+Eleştirmenler ve yorumlar.
+Eleştirmenlerden bazıları filmde Tony Scott'ın kötü bir yönetmenlik yaptığını ve De Niro üzerinde yoğunlaştığı söylemiştir. Fakat USA Today'den Sean Patrick filmi "Unutulmaz" olarak değerlendirmişti. Prisma-online filmdeki müziklerin başarılı olduğunu söyledi ve WBAI Radio'dan Paul Wunder filmi "Birinci sınıf gerilim" diye tanımladı. Film Rotten Tomatoes'de 38% almıştır.
+Türkiyede Fanatik.
+Fanatik filmi Türkiyede VCD formatında piyasaya sürülmüşdür. Filmin DVD versiyonu Türkiyede bulunmamaktadir, Vcd versiyonunda ise bazı ses kaymaları mevcuttur. Bunun haricinde CNBC-e kanalında film orijinal dil ve türkçe altyazı olarak yayınlanmışdır. Bunun dışında bazı tv kanallarında türkçe dublajlı olarak çıkmışdır. Sinemalarda ise film 20 Aralık, 1996 yılında Türkiyede olmuştur.
+Gışe.
+Film 55 milyon dolarlık bütçeye sahipdi, ABDde girdiği ilk 2,016 sinemalarda $6,271,406 kadar bir parayı ilk haftasında getirdi. ABDde toplam $18,573,791 , Japonyada ¥136,152,700, İspanyada ESP 227,186,594 kadar para getirmişdir.
+Çekim.
+Tarihleri.
+Film 24 Ekim 1995de çekimleri başlamışdır, filmin stüdyoya gönderilip tamamlanması 23 Şubat 1996 yılında olmuşdur.
+Yerleri.
+Anaheim, Kalifornia, ABD 
+Anaheim Angel Stadyumu - 2000 Gene Autry Way, Anaheim, Kalifornia, ABD
+Candlestick Park - 602 Jamestown Ave., San Francisco, Kalifornia, ABD
+Coors Field - 2001 Blake Street, Denver, Colorado, ABD
+Denver, Colorado, ABD
+Dodger Stadium - 1000 Elysian Park Avenue, Chavez Ravine, Elysian Parkı, Los Angeles, Kalifornia, ABD 
+San Francisco, Kalifornia, ABD
+Ayrıca bakınız.
+"The Fan", kitap.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haydarlı, Dinar</DOCTITLE>
+<TEXT>
+
+Haydarlı, Afyonkarahisar'ın Dinar ilçesine bağlı bir beldedir. 
+Haydarlı Beldesi Türkiyede devlet hastanesi olan iki beldeden birisidir.Burada bulunan yatılı bölge okulu da tesis ve fiziki özellikler açısından Türkiyede ilk 10 arasındadır. Haydarlı Kasabası Dinar- Çay yolunda 35. km de bulunan ve Çölovası diye anılan bölgedeki 7 kasaba ve 9 köyden biridir. geçim kaynağı: patates, pancar, afyon, anason ve hayvancılıktır. Belçika, Almanya ve fransada yaklaşık 6-7000 haydarlılı vatandaş yaşamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Müşteri İlişkileri Yönetimi</DOCTITLE>
+<TEXT>
+
+Müşteri ilişkileri yönetimi (CRM).
+Müşteri ilişkileri yönetimi programları işletmeler için model oluşturmaktadır. İşletmelerin mevcut müşterilerini korumaları, gelecekte müşteri sadakati oluşturmaları açısından müşteri beğenilerine uygun şekilde hareket edebilecekleri yazılımlar ile müşteri bilgilerini kayıt altında tutarak işletme davranışlarını geliştirmeye müşteri ilişkileri yönetimi denilir. Satış programı, Pazarlama programı, Müşteri servisleri programı ve teknik destek programı kısımları müşteri ilişkilerinin temel yapısını oluşturur.
+1.1.Satış gücü otomasyonu.
+Satış gücü otomasyonu (SFA) satış süreçlerini hızlandırarak satış hedeflerini gerçekleştirmeyi sağlamak amacıyla yönetilen bilgi sistemidir.Satış ekibi daha değerli bilgi ile güçlendirilerek satış etkilerinin güçlendirilmesi hedeflenir. Hızlı ve doğru bilgi ile satış ekibi satış kotalarını yakalayıp geçmesi sağlanır.
+Müşteri ve Potansiyel müşteri iletişim ve pazarlama süreçlerinin tamamı kayıt edilerek pazarlama gücü etkili bir şekilde yönetilir. Satış sürecinin her aşamasında kayıt tutularak satış bilimsel bir çalışma olarak tamamlanır. Satış gücü otomasyonları hedef müşteriler, fırsatlar, olasılıklar,satış tahminleri, satış değerlendirme ve satış süreçleri otomasyonları içerir.
+1.2.Pazarlama.
+CRM üzerinden yapılan pazarlama süreçleri ve pazarlama sonuçlarını değerlendirme üzerine oluşturulur. Çok noktadan farklı kanallarla yapılan satış pazarlama faaliyetlerinin tüm süreçleri kayıt altına alınarak pazalamanın aktif olarak tamamlanması sağlanır. Kampanyalar, İndirimler, Kuponlar, Kart sistemleri gibi müşteri ilgisini çekmeye yönelik yapılan CRM taraflı pazalama faaliyetleri Kanallardaki faaliyetler;
+CRM Kanal Faaliyetleri
+Adrese mektup, bülten, broşür olarak yapılmakta.
+Haberlerde Web sitesi ve mesleki web sitesi haber sitesileri, Yazılı ve görsel basın olarak haber niteliğinde.
+Telefon ve sms ile bildirilerek, Mail üyelikleri ve mail haber sistemleri ile.
+Sosyal medya Facebook, Twitter, Google+, Linkedin üzerinden tanıtımlarda.
+Video tanıtım olarak Youtube, Vimeo ve dailiy motion üzerinden.
+saha çalışması ve sıcak temas olarak pazarlama faaliyetleri yapılmaktadır.
+1.3.Müşteri servisleri ve destek.
+Ürün geliştirmesi, Müşteri ihtiyaçları, Müşteri istekleri, Temel gereksinimler, Ürün ya da hizmetin giderdiği temel sorun ve sorunlar, Kullanım özellikleri konularında müşterilerin ve firmaların bir ekosistem kurmaları gerekmektedir. Ürün ve hizmetler kendilerini iyileştirmek ve geliştirmek zorundadır. Geliştirme ve destek süreçlerinde müşteri servis ve destek sistemi ne kadar iyi yürürse ürün başarısı aynı oranda yükselir ve ürün ömründe artma olur. Satış ve karlılık servis destek süreçlerine birebir bağlıdır. 
+Müşteri ortamları ile üretim ortamlarının yakınlaştırılması ( Kullanım Ortamı ) Ürün ya da hizmet müşteri tarafından kullanılan, tüketilen ortama en uygun şekilde hazırlanıp tüketim ortamındaki araçlara ve ihtiyaçlara göre yapılandırılması gereklidir. CRM geliştirme ortamı ile saha ortamı arasındaki farklılıkları en aza indirmeyi sağlayacak ihtiyacı en az bilgi ve destek ile kullanılmayı sağlayan üretim ve hizmete yaklaşmayı sağlamak amacıyla süreçleri kayıt altına alır.
+Dilek, İstek, Şikayetler
+Müşteriler tarafından iletilen dilek, istek ve şikayetler CRM süreçleri açısından büyük önem oluşturur. Müşteri kendi istediklerini üretim ve işletme açısından tam olarak ifade edemeyebilir. Bu süreçlerin kayıt edilerek konu tam olarak anlaşılması sorun giderilmesi ürün ve pazarlama sürecinin başarısını sağlar.
+1.4. Toplantılar Gündem
+CRM Programında, Muhasebe, Pazarlama, Finans, Ar-ge ve diğer departmanların takvimleri bulunmaktadır. Müşteri etkinlikleri, Pazar faaliyetleri, Sosyal aktivite etkinlik takvimleri ile müşteriler ile etkin ve düzenli bir gündem oluşturmak amacıyla etkileşimde bulunmak gereklidir.
+CRM da Süreçler çok önemlidir. Çok sık yapılan görüşmeler toplantılar ile gelişi güzel yapılan toplantılar çok zararlı ve başarısız toplantılardır. Düzenli ve periyodik yapılan toplantılar ve bilgilendirmeler ise başarılı sonuçlar almayı sağlar. 
+Rahatsız edici her türde ileti müşteriler tarafından olumsuz karşılanır. SMS ile reklam dolandırıcıların ve sahte pazarlama firmalarının yaptığı bir aktivite olduğunda müşteri istemedikçe gündem oluşturulmamaması gereklidir. e-mail kampanyaları ve mail listeleri birçok ülkede suç kabul edilmektedir, Müşteri CRM programınıza üye dahi olsa sadece üye olduğu konuda e-mail gönderilmeli süreçler düzenli tutulmalı, üye olmayan bir müşteriye e-mail göndermek yasal suçtur.
+Rahatsızlık olduğu düşünülen her noktada yeniden iletişim kurabilmek için bir sonraki iletişim takvimine kadar müşteri rahat bırakılmalı ve yeterli zaman tanınmalıdır.
+pazarlamanın amacı bilgilendirme ve hatırlatmadır, satın alıma ve ihtiyacın varlığına son kullanıcı karar vermeli.
+1.5. Sosyal medya
+Sosyal medya etkinlikleri sosyal medya sağlayan firmanın kısıtları ile sınırlıdır, Sosyal medya kurallarını öğrenip o medyanın kurallarına göre hareket etmek en uygun davranıştır. Sosyal medya TV ya da Radyo davranışlarından çok farklı davranmaz. Reklam ve iletişim sağladığı amacıyla ücret talep eder.
+Facebook, Google+, Linkedin ücretli kısımları sizi hedef müşterilerinize ulaştırmakta çok başarılı değildirler. 
+Geri kalınma durumlarında işletmeler açısından olumsuz durum oluşturmaktadır. İşletme ve kurumlar sosyal yapılandırmalarını tamamlayıp olması gereken kadar yapmalıdırlar. 
+Sosyal medya programlama, reklam etkinlikleri ise işletme satış faaliyetlerine direk etki sağlayacak göstergeleri veriyorsa küçük denemelerle sonuçları incelenmeli daha sonra bütçeleri oluşturulması daha doğru bir yaklaşım olur.
+1.6. Üyelikler
+Global olarak gelişmeye başlayan dünyada yeni akımlar yeni üyelikler oluşmaktadır. Devletin ve kanunların oluşturduğu kanuni zorunlu üyeliklerin Pazarlama ve Satış faaliyetlerinde Müşteri ilişkilerinde yetersiz kaldığı durumlarda işletmeler ve kuruluşlar yeni etkinlik ve üyeliklere ihtiyaç duymaktadırlar.
+Yeşil ve Çevreci görünmek; İşletmeler yeşil ve çevre dostu görünmek amacıyla çevre dostu ürünleri ürettiklerini gösterebilmek amacıyla çevre programlarına üye olmaktadırlar.
+Yardımsever ve insancıl; Yardımsever ve insani değerlere önem verebildiklerini göstermek amacıyla işletmeler çeşitli firma ve organizasyonlara destek sağlamaktadırlar.
+Spor faaliyetleri; Firmalar aktif izleyici kitlesi olan popüler olan sporlara yatırım yaparak müşteri memnuniyeti oluşturmayı sağlamak için spor faaliyetlerine üye ya da kurucu desteği olmaktadır. 
+Sıradışı heyecan verici aktiviteler; İnsanların ilgisini çekecek dolaylı ürün satışını sağlayacak aktivitelere üye olarak ürün ve hizmetlerinde artış sağlamaktadırlar.
+CRM programları mevcut diğer tüm üyelik sistemlerindeki gelişmelere cevap verebilecek şekilde yapılandırılmaktadır.
+Teknolojilere ve gelişen mobil araçlara göre CRM programları kolaylıklar sunarken sorunları beraberinde getirir. 
+CRM programını kullanacak ekibin mevcut sisteme donanımsal olarak ne kadar uygun olduğu incelenerek görülmeli, CRM programı işletmenizin çalışanlarının mevcut donanımları ile uyumsuzluk durumlarında kullanım sorunları oluşur.
+Yazılımsal sorunlar, CRM programları mevcut sistemlerinizle uyumluluk oranı ile doğru orantılı kullanılır. Yatırım maliyetleri sistem karışıklıkları sisteme özel cihaz ve yapılandırmalar Muhasebe, Finans, İnsan kaynakları ve diğer sistemlerinizin CRM ile uyumsuz çalışması durumunda başarı beklenemez.
+Yazılımsal iletişim veri etkileşimleri hangi yazılım için neden ve ne kadar yatırım yapıldığına başlangıç aşamasında oluşturacağı oryantasyon süreçlerine dikkat etmek gereklidir.
+Dünyada ve Türkiyede CRM pazarı ve etkileri,
+Dünyada CRM 2003 yılı Gartner raporuna göre 1 Milyar dolarlık bir pazar oluşturmaktaydı.İşletmeler açısından önemi giderek artan CRM başlangıçta firmaların çok azının ilgisini belli oranda çekmekteydi. Değişen pazar ve bilginin değerli olması sürekli yenilenmesi CRM ürünlerinin gelişmesine ve işletmelerin CRM kullanımına daha ilgi ile bakmasına sebep oldu 2008 yılında CRM pazarı 10 Milyar dolara yükseldir.
+Market Liderleri.
+Dünyada pazar liderleri arasında SAP AG, Oracle, Salesforce, Microsoft, Amdocs bulunmaktadır.
+Türkiyede CRM.
+Türkiyede CRM pazarı gelişmektedir. İşletmeler CRM programlarına ve teknolojilerine sıcak bakmaktadırlar. İşletmeler kendi ihtiyaçlarına en uygun CRM programlarını araştırmaktadırlar.
+Türkiyede Müşteri ilişkileri yönetimi programları üreten firmalardan bazıları aşağıdaki gibidir.
+Ortam İlgi alanları;
+Müşteri ve Üreticiler Mobil ve Bulut bilişim teknolojileri üzerinde yoğun bir ilgi oluşturmaktadırlar. SAAS, Yazılımın servis olarak sağlanması üzerine müşteri taraflı ve üretici taraflı ilgi artmaktadır.
+Intranet ve lokal kullanım alanları ilgi alanları olarak devam etmektedir, bilgi güvenliğine önem veren firmalar bulunmaktadır. Şirket bilgilerinin dışarı çıkmasını istemeyen firmalar ve kuruluşlar açısından tercih edilen bir yöntemdir.
+Donanımsal ilgi alanları;
+CRM kullanım özellikleri masaüstü bilgisayarlardan ultrabook, dokunmatik bilgisayar, tablet ve mobil cihazlara doğru geçiş olmaktadır.
+Yazılımsal ilgi alanları;
+Yazılımların daha farklı platformlarda çalışmasını desteklemek amacıyla Silverlight, HTML5 gibi yazılımsal ortamlar tercih edilmektedir. Özellikle HTML5 desteği olması ürünlerde mobil ve daha çok cihazda kullanmak isteyen kuruluşlar için etkilidir.
+Winform, WPF Form uygulamalarda CRM da dikkat çekici bir şekilde talep görmektedir.
+Mobil Teknolojiler ve CRM de önemi, Mobil teknolojiler yetenekleri erişim yöntemlerindeki farklılıkları ile dikkat çekmektedirler. Büyüyen bir pazarı olan mobil erişimi beraberinde birçok çözümü getirmektedir. Tabletlerde Mobil özelliklerinin tamamını sağlayabilmek için ara ürünler çıkarmaktadır.
+Tabletler ve Tablet teknolojisi, Tabletlere özel olarak hazırlanmış CRM sistemleri müşteri ilgisini çekmektedir. Kullanım açısından dokunmatik özellikleri ve tablet yapısını desteklemesi beklenmektedir.
+Sensörler ve Yeni nesil CRM teknolojileri, Sensörler GPS, Pusula, Işık ölçer ile etkili CRM programları müşteriler tarafından ilgi çekici teknolojilerden çok ihtiyaç ve endüstriyel çözümler üreten teknolojiler olmaktadır.
+Büyük Göstericiler
+Dev ekran tv ler, Sunum cihazları, Wall Displays , HUD displays gibi cihazlar CRM programlarının etkili kullanımı için gündemde olan teknolojilerdir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çay (içecek)</DOCTITLE>
+<TEXT>
+
+Çay, işlenmiş yapraklarının kaynatılmasıyla veya haşlanmasıyla elde edilen bir içecek türüdür. Çay çalısının bilimsel ismi " Camellia sinensis"tir. Çay, çalının yapraklarının fermantasyonu, ısıtılması, kurutulması ve bazen diğer meyve veya bitkilerle karıştırılması sonucu hazırlanır. Türkiye'de çay, sadece Gürcistan sınırından başlayan ve Fatsa'ya kadar uzanan alan içerisinde yetiştirilebilmektedir. 
+Türkiye'de yaygın olarak çay, Doğu Karadeniz bölgesinden toplanan çay yapraklarından yapılan kırmızı renkteki içecek için kullanılır. 
+Çayları birçok kritere göre sınıflara ayırmak münkün olmakla beraber; üç temel çay çeşidi vardır. Bunlar, siyah çay, yeşil çay ve beyaz çaydır. Bunların dışında, yetiştiği bahçe, yaprak boyutu, işleme yöntemi, fermantasyon yöntemlerine göre de sınıflara ayırmak mümkündür. "Bitki çayı" terimi meyve ve bitkilerin işlenmesi ile elde edilen içecekleri kapsar. Kuşburnu gibi bitki çaylarında gerçekte çay yaprakları yoktur. Bazı bitkilerin aromaları çaylara eklenerek meyve ve bitki aromalı çaylar elde edilmektedir.
+Çay; tein, kafein, teofilin ve antioksidanlar için doğal bir kaynaktır. İçinde bulunan mineraller nedeniyle kemik ve diş sağlığına faydalıdır. Ancak neredeyse hiç karbonhidrat, protein ve yağ içermez, Şeker ya da diğer katkılarla tatlandırılır.
+Dünyada en önde gelen çay üretici ülkeleri şunlardır: 
+Hindistan, Sri Lanka, Çin, Türkiye, Kenya, Endonezya, Malawi ve Vietnam.
+Kelime Kökeni Hakkında.
+Çay kelimesinin kökeni, anavatanı Çin'e dayanır. Mandarin lehçesindeki "ç'a" ve Amoy lehçesindeki "t'e" çayın iki farklı söyleniş şeklidir. 
+Batı dünyasında çayın ismi iki formu da kullanır. Mandarin formu ilk defa 1559'de Portekizli tüccarlar tarafından kullanılmıştır. Bu tüccarlar sayesinde Mandarin lehçesindeki "ç'a" Rusçaya (çai), Farsçaya (ça), Arapçaya (şay) ve Türkçeye girmiştir. Avrupa'da daha sonraları Hollandalı tüccarlar tarafından Amoy lehçesi yaygınlaştırılmıştır. Bu sayede çay Batı dillerinde Amoy lehçesindeki 't'e" kelimesinden türeyip, İngilizce'ye (tea), Fransızca'ya (the), İspanyolca'ya (te), Almanca'ya (tee) yerleşmiştir. 
+Doğu dillerinde ise Mandarin formu daha yaygındır, Hintçe (çay) ve Japonca (cha) bu formu kullanılır. Diğer bir kaynaga göre, çayın ilk yudumlanışı çok eskilere, M.Ö. 2737 yılına, Çin İmparatorluğu'na kadar dayanır.
+Efsaneye göre Çin’in ilk imparatorlarından Shen Yung , çay bitkisinin tesadüfen sıcak suya düşmesine şahit olur.
+İmparator, işte bu keşifle birlikte çayın büyüsüne kapılır ve yine efsaneye göre yedi yıl boyunca o bölgede kalarak sürekli çay içer.
+Tarihçe.
+Çayın Avrupa’da ilk söz edilişi ise binlerce yıl sonra, 1559 yılında gerçekleşir. 1606 yılı ise çayın Avrupa’yla tanıştığı yıl olarak tarihe geçer. 1635 yılından sonra, Hollanda ve Fransa, Avrupa’da çay tüketimine öncülük eden ülkeler olurlar.
+İlk demlik örneklerinin Çin’den Avrupa’ya ulaşması ise 1650’li yıllarda gerçekleşir.
+Çayın Amerika’ya ulaştıran ise Peter Stuyvesant’tır. Bugün New York olarak anılan New Amsterdam ’a yerleşen Hollandalı koloniler, Amerika’nın ilk çay tiryakileri olarak tarihe geçerler. Çaya bilimsel adının yani Camelia sinensis ’in verilişi ise 1753 yılına rastlar. 1800’lü yıllarda, Avrupa ve Amerika’da yavaş yavaş çay endüstrisi boy göstermeye başlar.
+Thomas Lipton’un ilk dükkânı da 1871 yılında, İngiltere / Glasgow ’da hizmete girer. 1890 yılına gelindiğinde Thomas Lipton, Seylan ’da ilk çay tarlasını satın alır. Hindistan’dan getirilen çay tohumları 1903 yılından itibaren Kenya ’da yeşermeye başlar.
+Amerika’da, sıcak havalarda çay satmakta zorlanan Richard Blechynden , çayı soğuk halde sunmayı akıl eder. Amerika kökenli Ice Tea kavramı da işte bu tesadüfle doğar. Poşet çayın keşfi ise 1908 yılında gerçekleşir.
+Üst sınıflara hitap eden pahalı bir içecek olmaktan uzaklaşarak gitgide herkes tarafından tüketilen bir içecek haline gelen çay, çeşitli yeniliklerle birlikte gelişmeye devam eder.
+Günümüzde ise, bir yıl içinde dünyada tüketilen Lipton sıcak çaylarıyla tam 3 bin 660 adet olimpik yüzme havuzu doldurmak mümkün. Dünyada en çok çay tüketen ülkeler arasında Türkiye’nin de yer aldığının da unutmadan altını çizelim. 1900’lü yıllara kadar çayı tanımayan ve tam bir ’kahve tiryakisi’ olan ülkemizde bugün çay, sudan sonra en sık tüketilen içecek haline gelmiş durumdadır. Türkiyede en çok çay üretilen il Rize'dir
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye'de korsan yazılım</DOCTITLE>
+<TEXT>
+
+Türkiye'de korsan, başlangıçta bilişim alanında faaliyet gösteren genç ama yasalardan bağımsız ve uzak olanların eliyle başlatılmıştır. Bilgisayar kullanımı ve sahibi olma durumu kamu ve özel sektör şirketlerinden tabana doğru hızla yayılmaya başladığı 1995 yılı ve sonrasında da yasa dışı ticari bir faaliyet alanı haline gelmiştir. Uluslararası anlaşmalarda ve ikili anlaşmalarda onayı ve katkısı olan devletin ilgili kolluk örgütleri, yargı birimleri ve kaçakçılık ile ilgili birimleri hem vergi kayıplarını önlemek hem de kullanımda adaleti ve üreticinin haklarını güvence altına alabilmek amacıyla çalışmalara da 2000'den itibaren etkin biçimde başlamıştır.
+Türkiyede özelde başta büyük yerleşimlerde korsan satışı üzerine uzmanlaşmış ve bunu bir ticari faaliyet olarak yürüten kişiler vardır. İstanbul'da yoğun olarak Kadıköy, Beşiktaş, Aksaray, Tahtakale gibi yerler öncelikli olmak üzere tümüyle bilişim faaliyetlerine dönük işletmelerin yanında ve yakınında yan sanayi durumuna gelmişlerdir. Ankara'da Kızılay çevresinde özelde Maltepe Pazarı'nda 200'ü aşkın tezgah ile Karanfil sokak ile Yüksel caddesi üzerinde faaliyette bulunan kişiler vardır. Maltepe Pazarı'ndaki dükkânlarda, her ne kadar son yıllarda yapılan uygulamalarla korsan CD ve DVD tezgahları kaldırılsa da bu uygulama sadece sembolik olarak kalmıştır. Tezgah sahipleri halen satışlarını yapmaktadır, tek fark satışların açıkta değil tezgahaltı tabir edilen gizli şekilde yapılmasıdır. İstenilen yazılım, müzik, oyun vb. CD veya DVD'si, korsan satıcıların gizli küçük depolarından anında getirttilirmektedir.
+Diğer ülkelerde ve kültürlerde de olduğu gibi bu süreç sadece yazılım alanında değildir. Oyun, sinema, televizyon gibi etkileşimli ortama geçirilebilen her türlü kültür tüketim ürününüde kapsar haldedir. Yazılımın bunlardan farkı tüketim ürünü olmayıp varlığıyla katma değer yaratabilir olmasıdır.
+Korsan yazılımın olumlu etkileri.
+Türkiye'de 1995 yılı ve izleyen süreçte öne çıkan olumlu konularda korsan kapsamında göze çarpmaktadır. Yazılımların kolay ve ucuz olarak hemen her yerde bulunabilir olması iki açıdan olumlu olmuştur. Bilgisayara alışkanlık ve yazılımların öğrenilme kolaylığı.
+1990'lı yıllarda özelde grafik yazılımlarını kullanabilme yeteneğine sahip yetkin insanları bulmak o denli zordu ki bulunabilenlerinde ücretleri bile oldukça yüksekti. Korsan yazılımın bu anlamda iç piyasa girdi maliyetlerinin düşmesinde olumlu katkısı olmuştur. 1995 sonrası büyük kentlerde yasal durumun belirsizliği altında ortaya çıkan korsan yazılım satışı öncelikle dar gelirli ailelerin çocuklarına bilgisayar alımında yan katkılar sağlamıştır. Bilgisayar edinme ve yazılım bulmadaki kolaylık her genç insanın ilgi alanına göre kendini deneme yanılma yoluyla yetiştiribelmisini ve ilgi alanında derinlik kazanılmasını sağlamıştır. Bu birikim ve yetkinlik kısa sürede yazılım kullanımına gereksinim duyan büyük ve küçük ölçekli işletmelerin ara eleman ihtiyaçlarının hızla ve daha ucuza karşılanabilmesini sağlamıştır.
+Olumsuz etkileri.
+Özelde yerli yazılım üreten kişi ve şirketlerin katma değer üretip bunları yeni yazılımlar üretmeye akatarabilmesinin ilk günden bu yana yazılım alanında istihdam edileceği varsayılan bilgisayar mühendislerinin beyin göçü olarak iç pazarda yer ve iş alanı bulamamsı nedeniyle beyin göçü olarak diğer ülkelere gidişlerine neden olunmuştur. Halen 6000'i aşkın sayıda bilgisayar mühendisine sahip bir ülke için bu etki çevresi ve kaybedilen katma değer açısından da önemlidir.
+Süreç.
+Yapılan yasal takip ve süreçlerin sonucunda Türkiyede dört değişik yol ve yöntem yasadışı olarak tespit edilmiştir. 
+Korsan çeşitleri şu ana başlıklar altında değerlendirilmektedir: 
+Bu süreçlerin birleştiği aşamada iç piyasa dağıtım kanallarının oluşması ve ürün olarak kullanım talepkarı olan alıcı aşamasında genelde eğitimsiz ama yaşadıkları kentte sosyolojik olarak tutunma çabası ve varolma mücadelesi vererek kente entegre olmaya çalışan bir satıcılar kuşağı oluşmuştur. Bu kuşaktan gelenlerin içerisinden süreci iyi değerlendirip bir üst yasal aşamaya geçebilen yeni sektör sermaye grupları da vardır.
+Satıcılar bakımında da ortaya önemli bulgular çıkmaktadır. Ankara ve İstanbul genelinde yapılan çalışmalarda korsan satışıyla ilgili olarak çalışanların köken kentleri önemlidir. Ankara'da bulunanlar Kars ve Ağrı kökenliyken, İstanbulda anadolu yakasında Malatya, Diyarbakır ve Ağrı kökenliler, Tahtakale bölgesinde ise Kayseri kökenli olanların bu işleri akrabalık ve aynı köylülük bağlamlarının dayanışmasıyla yaptığı tespit edilmiştir.
+Türk korsanmania kültürü.
+Korsan erişim kolaylığı sağladığı biçimiyle de birçok tüketicisinde bağımlılık yaratmıştır. Kolay bulunabilirlik açısından tüketici analizleri sonucu da:
+Burada da görüleceği üzere birinci grupta yer alan türk tüketicisi için konu bir saplantılı bağımlılık haline dönüşmüştür. Bunlarda "korsan bağımlılığı" olma durumu olarak psikolojik tedaviler açısından da ele almak kaçınılmaz gözükmektedir.
+Türk korsan yazılım tüketicisi; satıcıların aksine ekonomik ve eğitim düzeyleri bakımından da da ülke ve yaşadıkları kent ortalamalarının çok üzerindedirler. BSA'nın yaptığı araştırmalara göre Türkiye'de korsan yazılım kullanma düzeyi %64'ler civarındadır.
+Kentlere göre oranlar.
+Kentlere göre yazılım özelinde korsan kullanım türleri ve kültürleri de değişiklikler göstermektedir. İstanbul'da endüstriyel yazılımlar (CAD, CAM, CAE, CFA, CNC...) öne çıkarken Ankara'da ise daha çok müteahhitlik üzerine olan (hakediş, çelik konstrüksiyon, mimarlık, inşaat...) yabancı ve yerli yazılımlar ile muhasebe üzerine olanlar öne çıkmaktadır.
+Sosyolojik ve ekonomik açıdan da bu konu önemlidir. Yazılım kullanımında korsan tercihleri açısından Ankara kullanıcısının devletle iş yaptığını, İstanbul kullanıcısının ise kendi adına işletme sahibi olduğu anlaşılmaktadır. Bu bilgiler bağlamında ülkenin hemen her yerinden kendi adına işletme sahibi olanlarında İstanbul'u korsan yazılım için tercih ettiğini söylemek mümkündür.
+Yasal durum.
+Ana hatlarıyla konu kapsamında kaçakçılık, telif hakları ve ceza kanunu kapsamında yer alan bireysel ve veya örgütlü suçlar ile ilgili hükümler uygulanabilmektedir. 
+BSA gibi ticari hak sahibi mağdurların adına hareket eden yapılar ile ABD kökenli film endüstrisinin haklarını koruma amaçlı faaliyet gösteren...
+MÜYAP, müzik endüstrisi adına üyelerinin haklarının korunmasında çaba harcamaktadır...
+BSA bağlamında son yıllarda BSA'nın verilerinin dayanakları sorgulanarak Türk kullanıcısına açıktan hakaret ettiği de ileri sürülmeye başlanmış ve bu durumun BSA'nın patronları olan Microsoft'a yaranma girişimi adına etik duyarlılık gösteremediği de ileri sürülerek protesto edilmeye başlanmıştır. Bu konuda en açık ve sert açıklamayı da Prof. Ethem Derman yapmıştır.
+Türkiyede yasal süreç yasa koyucunun gerek telif hakları gerekse ceza kanunları çerçevesinde ilgili kazanç kayıplarına uğrayan kesimlerinde görüşleri dikkate alınarak düzenlemeler yapılmıştır. İlk başlarda şikayete bağlı olarak kolluk örgütü devreye girmekteyken artık tüm kolluk örgütü mensupları resen korsan gördükleri ve buldukları her alan ve her yerde yetki kullanımına ve adli süreci başlatabilme yetkisi ile donatılmıştır. Türkiyede diğer batı ülkeleri yasalarından farklı olarak pornografi konusunda da ağır cezalar olması nedeniyle uygulama da batı hukuk ve ceza normlarından daha farklı ve ağır yaptırımları da bünyesinde barındırmaktadır. 
+Yasal süreçte günümüze kadar en çok uygulama yapılan alanlar satıcılar noktasında yoğunlaşırken ortaya yeni yeni bu yasadışı sektörün kendi iç ürün tedarik zinciride açığa çıkarılmaya başlanmış ve onlar üzerindende çalışmalar yapılarak birçok toptancı hakkında da adli süreçler başlatılmıştır. En son 2006 yılı başında İstanbul'da bir cd/dvd yasal ve Kültür Bakanlığından izinli replikasyon üretim tesisinin yasadışı üretim yaptığı tespit edilmiş ve sahibi cezaevine konulmuştur. 
+İstanbul, Kadıköy ilçe sınırları içerisinde yer alan ve "Salı Pazarı" olarak halk arasında bilinen yerde pazar günleri kurulan pazar da sırf korsan cd satışları yüzünden yapılan girişimler ve baskılar sonucu belediyece kapatılmak zorunda kalınmıştır.
+İnternet erişiminin engellemesi.
+Korsan paylaşımı yapan site ve yazılımların gün geçtikçe artması ve ciddi boyutlarda maddi kayıp getirmesi, ülke hükümetlerinin ve yargı kurumlarının bu konuda yaptırımlarına neden olmuştur. Ülkemizde de son yıllarda ticari kayba uğradığını belirten şirketler davalar açmakta ve mahkeme kararları çıkarmaktadır. Bu mahkeme kararları sonucunda, Türk Telekom korsan paylaşım yapan internet sitelerine Türkiye içerisinden erişimi engellemektedir. Mahkeme kararları ve Turk Telekom'un karar uygulamaları her ne kadar ticari kayba uğradığını belirten şirketleri sevindirse de, internetin ve haberleşmenin özgürlüğünü kısıtladığı için eleştirilmektedir. Bazı çevreler yapılan uygulamayı internete sansür uygulaması olarak değerlendirmektedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Renault 21</DOCTITLE>
+<TEXT>
+
+Fransız üretici Renault tarafından 1986 yılında piyasaya sürülen Renault 21 orta sınıf bir otomobildir. Büyük aile aracı kategorisindedir. (Bkz. Otomobil segmentleri )
+Aracın Sedan , Station Wagon ve Hatchback olmak üzere 3 değişik karoseri
+tipi bulunmaktadır.
+Renault 21, Renault'un X48 isimli projesidir.X harfinin yerine Sedan versiyonlar L48 , Station Wagon versiyonlar K48, Hatchback versiyonlar ise B48 olarak projede isimlendirilmiştir.
+Station Wagon versiyonu Nevada , İngiltere 'de Savanna adıyla anılmaktadır.
+Renault 21 'in ayrıca Quadra isimli bir modelide vardır.Bu araç dört tekerlekten çekişlidir.
+Baccara ise Renault 21 serisinin en lüks versiyonudur.Renault 21'in Quadra,Turbo ve Baccara versiyonları diğer modellerden ayrı olarak çift farlıdır.
+Renault 21, 1988 'de kapsamlı bir revizyondan geçirilerek,büyük ölçüde değişikliğe uğramıştır.
+Renault 21, Eagle Medallion adıyla, AMC tarafından Kuzey Amerika pazarına sunulmuştur.
+Otomobilin üretimi 1996 yılında sonlanarak,yerini Renault Laguna 'ya bırakmıştır.
+Versiyonlar.
+Quadra
+Nevada
+Baccara
+Manager
+Optima
+Concorde
+HB (Symphonie)
+Türkiye'de Renault 21 Modelleri.
+Renault 21 Avrupada,1986,yılında piyasaya çıkmış,ve 89 Yılında makyajlanmıştır.Büyük aile aracı olarak üretilmiş.Ve Turbo'suz Modelleri 1990 yılında Oyak tarafından Türkiyede Montajlanmıştır.
+Renault 21 'in üretimine, Bursa 'da kurulu bulunan Oyak-Renault tesislerinde 1990 'da başlandı.Türkiye'de satışa sunulan tümü Sedan karoserli 3 benzin motorlu versiyonu 1.7 litrelik karbüratör lü GTS , 1.7 litrelik karbüratör lü Manager ve 2.0 litrelik enjeksiyon lu Concorde 'dur.
+Hatchback ve Nevada modelleri Türkiyede üretilmedi. Bir dönem Ordunun makam aracı olarak Yurtdışından Hatchback 1.7 karbüratörlü modelleri getirtildi ve kullanıldı. Hatchback modelleri Symphonie adı altında GTS, GTX ve GTE olarak 3 ayrı modeldir. 
+1993 'te Sedan GTS versiyonu yerini 1.6 litrelik motorla donatılmış olan Optima 'ya bıraktı.Yine aynı yıl enjeksiyonlu Manager 2000 piyasaya sürüldü. Manager 2000 2.0 Enjeksiyonludur.
+Concorde bu modellerin en lüks en dolu aracıdır. Optima ise En baz model aracıdır.
+Piyasanın darlığı ve ilginin ekonomik olan küçük araçlar pazarına kayması, 21'lerin arıza çıkarmayışı (Concorde)'lar,sebebiyle 1996 'te üretimine son verildi.Yerini Laguna'ya bırakmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pelitçik, Çamlıdere</DOCTITLE>
+<TEXT>
+
+Pelitçik, Ankara ilinin Çamlıdere ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adı bölgede sıklıkla görülen meşe agaçlarının pelit denilen meyvesinden gelmektedir.
+Çamlıdere İç Anadolu Bölgesinin kuzeyinde yer alan, Doğudan Kızılcahamam ilçesi, Batıdan Benli ve Kavaklı Dağları, Kuzeyden Gerede ilçesi, Güneyden Güdül ile Beypazarı ilçeleri ile çevrilidir.Yüzölçümü 650 kilometrekaredir. İlçenin deniz seviyesinden yüksekliği 1175 metredir.
+İklimi Batı Karadeniz ve İç Anadolu Bölgelerinin arasında bulunduğundan her iki bölgenin de iklimi tesiri altındadır. Yazlan kurak ve serin, kışlan kar ve yağmur yağışlı geçer.(Karasal iklim) 
+İlçe arazisinin % 66 sı çam ve meşe ormanları ile kaplı olup, orman alanı 42.500 Hektardır. İlçede tabii göl ve akarsu bulunmamaktadır.
+Bayındır, Buğralar, Yahşihan, Doğancı, Doymuş, Yoncatepe, Tatlak, Bökeler, Elvanlar, İnceöz, Akkaya, Yediören, Gümele köyleri ile Peçenek Beldesi arasındaki vadiye Ankara'nın içme suyu ihtiyacını karşılamak amacıyla Çamlıdere Bayındır Barajı inşa edilmiş, söz konusu baraj Ankara'nın % 70 nin içme suyunu temin etmektedir. 
+Çamlıdere İlçesi Pelitçik Köyü mevkiinde 3 hektarlık bir alanda Dünyada sayısı çok az olan ve Türkiye’de bugüne kadar bilinmeyen taşlaşmış Çam,Meşe ve Ardıç ağaçlarından oluşan 23 Milyon yıl öncesine ait olduğu anlaşılan zengin fosilleşmiş-silisleşmiş bir fosil ormanı tespit edilmiştir. Söz konusu fosil ormanın jeolojik yönden Orman Florası örneklerinin nadir ve bol miktarda bulunması nedeniyle Dünyadaki diğer örnekleri gibi koruma altına alınarak açık hava müzesi ve jeoloji parkı haline getirilmesi halinde, Jeoloji Bilimleri öğrencilerine uygulamalı eğitim sağlayacağı gibi Ülkemizin ve yöremizin tanıtılmasında ve ekonomik yönden kalkınmasında önemli ölçüde katkı sağlayacağı değerlendirilmektedir
+Haber : Kamil Özer
+Tarih : 07.03.2009
+Kültür.
+YEMEK KÜLTÜRÜ
+Tarhana çorbası,sütlü çorba (sütün içine pirinç katılarak yapılır),yayla çorbası,paça çorbası,işkembe çorbası.
+Pilav,etli pilav,nohut, kurufasulye,patates yemeği,taze fasulye,piyaz,sebze yemekleri..
+Hamur çeşitleri.(El yapımı makarna,etli,etsiz,ekşili v.b)
+Kelle, kokoreç, bamya, kapama, kaburga dolması, muhlama
+Höşmerim,baklava,helva,kabak tatlıları,sıkmaç,muhallebix El yapımı pişmaniye
+Ebe gözlemesi,dolama çörek,ebe çöreği,kabartlama çöreği,bannak,külçe,söbe,yufka ekmek,bazlama,sodalı çörek,cızlak,gaygana,kedibatmaz
+Hoşaf, kuşburnu şerbeti,ahlat hoşafı...
+Lahana(kelem), yaprak ve mancar sarmaları..
+Ispanak,mancar,mantar vb kavurmaları,cincile(yaylada yetişen ufak mantar türü)kavurması,kara mantar, akkayışgan, göbek mantarı,ayıca,kanlıca
+Coğrafya.
+Ankara iline 90 km, Çamlıdere ilçesine 10 km uzaklıktadır.
+--Taşlaşmış fosil ormanları—Çamlıdere İlçesi Pelitçik Köyü mevkiinde 3 hektarlık bir alanda Dünyada sayısı çok az olan ve Türkiyede bugüne kadar bilinmeyen taşlaşmış
+Çamlıdere İlçesi Pelitçik Köyü mevkiinde 3 hektarlık bir alanda Dünyada sayısı çok az olan ve Türkiyede bugüne kadar bilinmeyen taşlaşmış Çam,Meşe ve Ardıç ağaçlarından oluşan 23 Milyon yıl öncesine ait olduğu anlaşılan zengin fosilleşmiş-silisleşmiş bir fosil ormanı tespit edilmiştir.
+Söz konusu fosil ormanın jeolojik yönden Orman Florası örneklerinin nadir ve bol miktarda bulunması nedeniyle Dünyadaki diğer örnekleri gibi koruma altına alınarak açık hava müzesi ve jeoloji parkı haline getirilmesi halinde, Jeoloji Bilimleri öğrencilerine uygulamalı eğitim sağlayacağı gibi Ülkemizin ve yöremizin tanıtılmasında ve ekonomik yönden kalkınmasında önemli ölçüde katkı sağlayacağı değerlendirilmektedir
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Nüfus.
+Hane Sayısı: 140
+Geçici Nüfus Sayısı: 450
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Köydeki Tesisler.
+KÖY ODASI:2
+İLKÖĞRETİM OKULU: 1
+BİRLİK-DERNEK-KOOPERATİF: 1
+İBADETHANE: 1
+Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi vardır.
+PTT şubesi ve PTT acentesi yoktur.
+Sağlık ocağı ve sağlık evi yoktur.
+Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Wildcats (film)</DOCTITLE>
+<TEXT>
+
+Wildcats 1986 yapımlı başrolünü Goldie Hawn'un oynadığı spor içerikli güldürü filmi.Film,ayrıca Wesley Snipes ve Woody Harrelsonunda ilk uzun metraj filmleridir.Daha sonra White Men Can't Jump ve Money Train filmlerindede bir araya geldiler.
+Konusu.
+Molly (Goldie Hawn) genelde erkek mesleği olarak bilinen bir işi yapmaktadır,bir kolejde çalışmaktadır ve burada amerikan futbolu antrenörlüğü yapmaktadır.Bütün takımın zorlukları ,işin bazı insanlar tarafından erkek işi gibi görülmesi en sonda Mollynin işten atılmasını sağlar,fakat şimdi Molly daha büyük bir takımda koçluk yapmaktadır fakat şimdi işi dahada zordur,çünkü alıştığı öğrenciler artık yoktur artık karşısında oldukça yetişkin adamlar vardır.
+Yaş Sınırı.
+Yetişkin gözetimi altında her yaş grubuna uygun görülmektedir.
+Türkiyede.
+Wildcats filmi Türkiyede piyasalara sürülmemişdir fakat sadece televizyonlarda gösterilmişdir.TVdeki ismi:Vahşi Kediler
+Kritik.
+Roger Ebert "Chicago Sun Times" 14. Şubat 1986 tarihinde bu filmden bahs etmişdir.
+Ödüller.
+Adaylık: Dram veya Komedi uzun metraj filminde en iyi genç aktris-Young Artist Award-Robyn Lively
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çveneburi</DOCTITLE>
+<TEXT>
+
+Çveneburi (Gürcüce: ჩვენებური), kökleri Acara bölgesine dayanan ve Türkiye’nin çeşitli yerlerine göç eden Müslüman Gürcülerin kendilerine verdiği ad. Gürcüce’de “bizden olan”, “bizim gibi olan” anlamına gelir. Müslüman Gürcülerin bu adlandırmayı, kendilerini Hıristiyan Gürcülerden, Müslüman Türklerden ve yerleşik Müslüman Gürcülerden ayırmak için kullandığı sanılır. Çveneburiler, Sünni İslam’ın Hanefi mezhebindendir.
+Türkiye'nin 59. ve 60. Dönem Hükümeti Başbakanı Recep Tayyip Erdoğan da Batum'dan Rize'ye göç etmiş müslüman gürcü asıllı aileden gelmektedir.
+Tarih.
+Çveneburiler, üç farklı dönemde Türkiye’ye göç ettiler. İlk göç dalgası, 1828-1829 Osmanlı-Rus Savaşı’nda Osmanlı egemenliği altındaki Gürcistan topraklarının Çarlık Rusya’sının eline geçmesinden sonra gerçekleşti. Asıl büyük göç dalgası ise, 1877-1878 Osmanlı-Rus Savaşı’nın (93 Harbi) ardından başladı. Rusya ve Osmanlı Devleti arasındaki göç anlaşmasıyla başlayan ve bu anlaşmanın yenilenmesiyle süren göç döneminde, Müslüman Gürcüler Artvin, Acara, Ardahan, Samsthe, Aşağı Guria bölgelerinden Osmanlı topraklarına göç ettiler. Göç ettikleri bölgelerin büyük bölümü neredeyse nüfussuz kaldı. "Mahaceret" veya "Muhaciroba" (მუჰაჯირობა) olarak da bilinen bu göç sırasında, bugünkü Kobuleti’den göç edenler kendilerini Çürüksulu ("Çuruksulebi"), Batum’dan göç edenler Batumlu ("Batumeli"), Yukarı Acara ve Aşağı Acara sancaklarından göç edenler Acaralı ("Acareli"), Macaheli’den göç edenler Macahelli ("Macahleli") olarak adlandırdılar. Ancak ortak adlandırma terimi Çveneburi olmuştur. 93 Harbi göçleri giderek azalıp yıllara yayıldı. 1921’de, Demokratik Gürcistan Cumhuriyeti’nin yıkılıp yerine Gürcistan Sovyet Sosyalist Cumhuriyeti’nin kurulmasından ve Türkiye ile Gürcistan arasında yeni bir sınırın çizilmesinden sonra ise üçüncü göç dalgası gerçekleşti. Bu son göçte, Yukarı Acara’da Türk dilli Müslüman nüfus da göç etti.
+Dağılım ve nüfus.
+Türkiye’nin özellikle kuzey kuşağına yerleştiler. Karadeniz kıyısı boyunda, bugünkü Rize,Giresun, Ordu, Samsun, Sinop, Amasya ve Tokat illeri bu yerlerin başında gelir. En çok nüfusu ise Ünye, Ordu, Terme ve Çarşamba yöresi almıştır. Daha batıda Bolu, Marmara Bölgesi’nde Düzce, Sakarya, Kocaeli, Bursa ve Balıkesir illeri Çveneburi nüfusunu alan yerlerdir.
+Gürcülerin yerleşik olarak yaşadığı Artvin ili dışındaki bölgelerde Çveneburi nüfusunun 1 milyon kadar olduğu tahmin edilir. Artvin yöresinde Gürcü dilli nüfusun 50.000 civarında olduğu tahmin edilmektedir. Türkiye'deki Gürcü kökenlilerin nüfusu hakkında kesin bir veri olmayıp, eski nüfus sayımlarında Gürcüce bilme esasına dayalı olarak nüfusları yaklaşık 60.000'dir. Bugün Gürcü kökenlilerin nüfusunun 1 milyonu aşmadığı tahmin edilmektedir. 
+Aşağıdaki listede Türkiye'deki Gürcü köyleri ve mahalleleri alfabetik sıraya göre sıralanmıştır.
+Dil.
+Türkiye'de Gürcülerin çoğunluğu, Gürcüce'nin başlıca diyalektlerinden Acara diyalektini konuşmaktadır. Ancak Muhacir Gürcülerin göç ettikleri bölgelere göre veya aynı bölge içerisinde farklı kelime veya telaffuzlara rastlamak mümkündür.
+Grup kimliği.
+Türkiye'deki göçmen Gürcüler kendilerini geldikleri bölgelere göre "Acareli" (Acaralı), "Çürüksulu" (bugünkü Kobuleti'den gelenler), "Batumeli" (Batumlu), "Maçaheli" (Macahelli) gibi adlarla adlandırırlar.
+Özellikle Muhacir Gürcüler, göç ettikleri bölgede kendi aralarındaki bir iç tanımlama olarak Çveneburi (Gürcüce: Bizden, bize özgü) deyimini kullanırlar.
+Müslüman Gürcüler, 16. yüzyıldan başlayarak Osmanlı egemenliğindeki topraklarda din değiştirdiler ve Hıristiyan Gürcülerden ayrıştılar. “Gürcü” anlamına gelen Kartveli (ქართველი), onlar için Hıristiyan Gürcüleri ifade eden bir terim haline geldi. Müslüman Gürcüler kendilerini "Gurci" (გურჯი) olarak fade etmeyi yeğlediler. Bugün de Çveneburiler için temel motif İslam’dır ve dinsel niteleme önemlidir. Bu sürecin böyle gelişmesinde, Gürcistan’ın Sovyetler Birliği içinde kalmasının da etkili olduğu sanılır.
+Göç ettikleri yerlerde de diğer Sünni Müslüman gruplarla zamanla kaynaştılar. Ünye gibi bazı bölgelerde Çveneburi kızları, Türkler tarafından güzel ve çalışkan olarak görüldüler. Bu kızların evlerine gelin olarak getirilmesi önemli sayıldı. Özellikle göç sonrası süreçte Çveneburiler büyük ölçüde asimile oldular. Türkiye’de Çveneburilerin Türk kökenliler gibi devlet kademelerinde görev almaları desteklenmiştir. Öte yandan tarih yazarları Mehmet Fahrettin Kırzıoğlu ve Yunus Zeyrek, Çveneburileri, Gürcü kökenli olmadığını ileri sürerek “Acar”, geldikleri toprakları da “Acaristan” olarak adlandırdılar. Son yıllarda Türkiye’deki Çveneburiler arasında Kartveli teriminin kullanılması başka bir tepkiyi de beraberinde getirdi. Çveneburilerin Hıristiyan Gürcüler gibi Kartveli olarak adlandırılması, bazı çevrelerce yeni üretilen bir terimle, "Kartvelist” bir girişim olarak nitelendi.
+Dergiler.
+İsveçin başkenti Stockholm da Şalva Tevzadze tarafından 1977 yılında kurulup yayımlanan ilk Gürcü kültür dergisi de "Çveneburi" adını taşır. "Gürcüstan" (1968) adlı kitabın yazarı Ahmet Özkan (Melaşvili) tarafından Türkiyede dağıtımı yapılan derginin son sayısı 1979 yılında Ahmet Özkan Melaşvili tarafından Türkiyede yayımlandı. Ahmet Özkan’ın 1980’de öldürülmesi üzerine derginin yayımı durdu. "Çveneburi", 1993’ten başlayarak yeniden çıktı.
+Çveneburilerin yayımladığı dergilerden biri de " Pirosmani (dergi) "’dir [http://www.pirosmani.com.tr/]. İki dilde, Türkçe ve Gürcüce yayımlanan dergi, 2007 yılının başlarından bu yana yayımlanmaktadır.
+
+</TEXT>
+</DOC>
+

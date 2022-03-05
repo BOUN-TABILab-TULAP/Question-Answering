@@ -1,0 +1,89 @@
+N-küre
+[[Resim: Hipersilindir coord.PNG | right | thumb | Bir stereografik izdüşüm bir düzleme bir küre yüzeyinin proje olabilir gibi, aynı zamanda 3-uzaya 3 kürenin yüzeyini yansıtabilirsiniz. Bu görüntü, üç 3-uzaya yansıtılan yön koordinat gösterir:
+paralellikler (kırmızı), meridyenler (mavi) ve hypermeridians (yeşil).
+Stereografik projeksiyon konformal özelliği nedeniyle,
+eğrileri 4D gibi (sarı nokta olarak) dik birbirlerini kesişir.
+Eğrilerin Tüm çevreler şunlardır: eğriler olduğu kesiştiği <0,0,0,1> sonsuz yarıçapı (= düz çizgi)]] var.
+Matematikte, "n" a "n" boyutlu uzayın sıradan kürenin genelleme -sphere olduğunu. Herhangi bir doğal sayı "n", bir "n" -sphere yarıçapı "r" merkezi bir noktadan mesafe "r" altındadır ("n" + 1) boyutlu Öklid uzayında noktaların kümesi olarak tanımlanmaktadır, yarıçapı "r" herhangi bir pozitif reel sayı nerede olabilir. Bu durumda, başlangıç ​​noktasında merkezlenmiş -sphere, "n" ile tanımlanır:
+Bu Öklid bir "n" boyutlu takım manifoldu ("n" + 1) ile uzay olduğunu.
+Özellikle:
+Boyut küreler "n"> 2 3-küreler bazen glomes olarak bilinen bazen, hiperküreler denir. Kalkış merkezli, "n" -sphere birim yarıçapı birimi "n" -sphere, belirtilen "S", "n" olarak adlandırılır. birimi "n" sık sık "" "n" -sphere olarak -sphere anılır.
+Bir "n" -sphere yüzey veya ("n" + 1) boyutlu topun sınır ve bir "n" boyutlu takım manifoldu olduğunu. "N" ≥ 2 için "n" -spheres sürekli pozitif eğrilik basit bağlantılı "n" boyutlu takım manifoldlar vardır. "N" -spheres birçok topolojik açıklamaları kabul: örneğin, sınırını belirleyerek, birlikte iki "n" boyutlu takım Öklid boşluk yapıştırılarak yapılabilir, bir "n" bir nokta ile -cube, ya da (endüktif olarak) -sphere - Bir (1 "n") süspansiyonunun oluşturulması ile.
+Açıklama.
+Herhangi bir doğal sayı "n", bir "n" -sphere radius "r" için bazı sabit nokta c noktaların kümesi ("n" + 1) mesafe "r" altındadır boyutlu takım Öklid uzayı olarak tanımlanır , "r" herhangi bir pozitif reel sayı ve nerede nerede c ("n" + 1) boyutlu uzayda herhangi bir nokta olabilir. Özellikle:
+Öklid ("n" + 1) ile uzay koordinatları.
+("n" + 1) ile uzay noktaların kümesi: n "-sphere, (" S "(" x "1, 2, ...," x "," n "bir tanımlama +1" x ")" "n") aşağıdaki denklem ile temsil edilir:
+burada "c" bir merkez noktasıdır ve "r" yarıçapı.
+-sphere yukarıdaki "n" ("n" + 1) boyutlu Öklid alanda bulunan bir "n" -manifold bir örneğidir. Bir "N" -sphere yarıçapı "r" birim formu ω ile verilir
+* Hodge yıldız operatörü nerede; Sonuç olarak, formula_4 gibi durum "r" = 1. tartışma ve bu formülün ispatı için bakınız
+"N" -Ball.
+tarafından kapalı alan, bir "n" bir -sphere denir ("n" + 1) -Ball. Bir ("n" + 1) "n" -sphere içerir ve "n" -sphere içermiyorsa eğer açıksa kapatılır -Ball.
+Özellikle:
+Topolojik açıklama.
+Topolojik bir "n" -sphere "n" boyutlu takım Öklid uzayının bir nokta kompaktifikasyonunun olarak inşa edilebilir. Kısaca, "n", -sphere "n" boyutlu takım Öklid alanı artı her yöne sonsuz temsil eden tek bir nokta formula_5 olarak tanımlanabilir.
+Tek bir nokta, bir "n" -sphere kaldırılır Özellikle, bu formula_6 homeomorphic olur. Bu stereografik projeksiyon temelini oluşturur.
+Hacim ve yüzey alanı.
+formula_7 ve formula_8 yarıçapı formula_9 arasında -sphere sırasıyla "n" -Ball ve "n" nin "n" boyutlu takım hacimleridir.
+sabitler formula_10 ve (birim top ve küre için) formula_11 nüks ile ilişkilidir:
+yüzeyler ve hacimleri de kapalı olarak verilebilir:
+nerede formula_15 gama fonksiyonudur. Bu denklemlerin Türevler bu bölümde verilmiştir.
+Genel olarak, hacimleri, "n", "n" boyutlu takım Öklid uzayında -Ball, ve "n" boyutlu takım Öklid, "R" yarıçapının, orantılıdır ("n" + 1) 'de -sphere yarıçapı, "R", "n" inci güç. Biz, "n" -sphere, yarıçap formula_9 her iki yüzeyi için, "n" -Ball ve formula_17 hacmi için formula_16 mal.
+Örnekler.
+0 top tek bir noktadan oluşur. 0 boyutlu Hausdorff ölçüsü, yani bir dizi puan sayısı
+Ünite 1-top, So uzunluğu 2. aralık formula_20 olduğunu
+0-küre iki uç noktaları, formula_22 oluşur. Yani
+Ünite 1-küre Öklid düzleminde birim çember ve bu çevre (1 boyutlu ölçü) vardır
+Ünite 1-küre ile kapalı bölge 2-top, ya da birim disk, ve bu alanda (2 boyutlu ölçü) vardır
+Benzer şekilde, ünite 2-küresinin 3-boyutlu Öklid uzayında, yüzey alanı (2 boyutlu ölçü) olarak verilir
+ve kapalı hacim tarafından verilen birim 3-top hacmini (3 boyutlu ölçü), bir
+Nüks.
+"Yüzey alanı", ya da ("n" + 1) ve yarıçap formula_9 arasında -Ball topun hacmi ile ilgili olan bir sınırda, "n" -sphere düzgün, "n" boyutlu takım hacim, diferansiyel denklem
+veya eşdeğeri, eş bir birlik olarak birimi "n" -Ball temsil ("n" - 1) "kabukları" -sphere,
+Bu yüzden,
+Biz de üniteyi temsil edebilecek ("n" + 2) tori bir birlik olarak -sphere, bir "n" -sphere ile bir daire (1-küre) her bir ürün. , Böylece formula_34 ve formula_35 formula_32 ve formula_33 olsun. Daha sonra,
+Formula_37 için, denklem
+formula_38
+Tüm "n" için de geçerlidir.
+Bu nüks bizim türetme tamamlar:
+Kapalı formlar.
+Rekürrensi birleştirerek, biz o formula_41 görüyoruz. Yani bu "k" konulu indüksiyon yoluyla göstermek için basit,
+Nerede formula_44 tarafından garip tamsayılar için tanımlanan çift çarpınımını belirtir.
+, Genel, hacim olarak "n" boyutlu takım Öklid, ünitenin alanı "n" -Ball tarafından verilir
+nerede formula_15 formula_47 tatmin gama fonksiyonudur.
+, Formula_49 tarafından formula_10 çarparak formula_9 göre farklılaşan ve daha sonra formula_51 ayarlayarak, biz kapalı bir form olsun
+Diğer ilişkiler.
+şemada tasvir edildiği gibi nüks, yüzey alanı için bir "ters-yön" tekrarlama ilişkisi elde birleştirilebilir:
+Dizin değişen n için n - 2 sonra nüks ilişkileri verir:
+burada S0 = 2, V1 = 2, S1 = 2 ve V2 =.
+formula_10 için yineleme ilişkisi de 2 boyutlu kutupsal koordinatlar ile entegrasyon yoluyla ispat edilebilir:
+Küresel koordinatlar.
+Biz benzer bir "n" boyutlu takım Öklid uzayında bir koordinat sistemi tanımlayabilir
+olan küresel koordinatları, formula_58 ve "n" bir koordinat radyal oluşur ki 3-boyutlu Öklid uzayında tanımlı sistemi, koordinat - formula_59 1 açısal koordinatları nerede formula_60 formula_61 radyan üzerinde aralıkları (ya da üzerinde [0, 360) derece) ve Diğer açılar formula_62 üzerinde radyan (ya da 180 derece üzerinde) değişir. Kartezyen koordinatlar formula_63 iseniz, o zaman biz formula_65 itibaren formula_64 hesaplamak olabilir:
+Aşağıda açıklanan özel durumlar hariç, ters dönüşüm benzersiz:
+Bazı formula_69 için formula_68 ancak formula_70 tüm ise n'in sıfır, sonra formula_71 olduğunda formula_72 ve formula_73 radyan (180 derece) formula_74.
+Dönüşümü ters benzersiz değil bazı özel durumlar vardır; formula_77 tüm sıfırdır zaman herhangi formula_69 için formula_75 belirsiz olacaktır; sıfır olduğu seçilebilir formula_75 bu durumda.
+Küresel hacim elemanı.
+Radyan açısal tedbirleri dile getiren hacim elemanı "n" boyutlu takım Öklid uzayı dönüşüm Jacobian bulunamadı olacaktır:
+ve -Ball entegre ederek elde edilebilir "n" hacmi için yukarıdaki denklem:
+2-kürenin alanı elemanı genelleştirerek ("n" -1) -sphere hacmi elemanı, verilir
+açısal koordinatlar üzerinde dik temeli doğal seçim ultraspherical polinomların bir ürünüdür,
+"j" için = 1, 2, ..., "n" - 2 ve "e" "isφ" "j"
+1 uyum içinde küresel harmonikler ile - açısı "j" = "n" için.
+Stereografik izdüşüm.
+Üç boyutlu olarak yerleştirilmiş iki boyutlu küre stereografik çıkıntı tarafından iki boyutlu bir düzlem üzerine eşlenebilir gibi, bir "n" -sphere "n" boyutlu takım versiyonu ile, bir "n" boyutlu takım altdüzlemle üzerine eşlenebilir stereografik projeksiyon. Örneğin, formula_84 uçakta nokta formula_83. Diğer bir deyişle,
+Aynı şekilde, bir "n" stereografik projeksiyon dik formula_89 ekseni olarak formula_87 boyutlu hiperdüzlem formula_88 için eşler 1 yarıçaplı formula_86 -sphere
+Rastgele noktaları oluşturuluyor.
+Düzgün ("n" - 1) rastgele -sphere.
+("N" - 1) üzerinde düzgün yayılı rastgele noktaları oluşturmak için -sphere ("yani", "n" -Ball yüzey), aşağıdaki algoritmayı verir.
+Normal ayrılışlarınki, bir "n" boyutlu takım vektör oluşturmak, formula_91 (bu N (0, 1), aslında, varyans seçimi rasgele olmasına rağmen kullanmak yeterlidir).
+Şimdi bu noktada, formula_92 yorum "yarıçapı" hesaplamak
+Vektör formula_93 eşit birimi "n" -Ball yüzeyi üzerine dağıtılır.
+Örnekler.
+Örneğin, "n" = 2 normal dağılım exp - (- "X" 22) Başka bir eksen exp üzerinde genişletilmiş ("x" 12) - "x" 12- "x" 22 çarpma sonrasında formu exp (alır ) ya da exp (- "r" 2) ve bu yüzden sadece
+kökeni olan uzaklığa bağlıdır.
+Alternatifler.
+Bir hiperkürenin üzerine rastgele bir biçimdeki dağılımını oluşturmak için başka bir yolu, homojen bir dağılım yapmaktır
+Birim Hyperball içeren bir hiperküp üzerinde, Hyperball dışında sonra yüzeye kökenli dışa kalan iç noktaları proje bu noktaları dahil değildir. Bu homojen bir dağılım verecektir, ancak dış noktaları kaldırmak için gereklidir. Çok hızlı boyut ile hiperküp azalmalar Hyperball göreceli hacmi olarak, bu yordam yalnızca boyutların oldukça küçük sayılar için yüksek bir olasılıkla başarılı olur.
+Wendel teoremi oluşturulan bütün noktaların hiperkürenin aynı yarısında yalan olasılığını verir.
+Düzgün, "n" -Ball rastgele.
+Yüzeyinden seçilen bir nokta ile "n" bir "n" -Ball içinde rastgele eşit bir noktaya elde etmek için sadece çapındaki ihtiyacı rastgele eşit -Ball. "U" aralığında rasgele eşit oluşturulmuş bir sayı ise [0, 1] ve x ", tekdüze tüm birimin üzerine dağıtılır" n "sonra -Ball u1 / nx yüzeyinden rastgele eşit seçilen bir nokta n "-Ball.

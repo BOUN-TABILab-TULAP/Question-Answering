@@ -1,0 +1,26 @@
+1	Ana	ana	Noun	Noun	A3sg|Pnon|Nom	24	SUBJECT	_	_
+2	kökün	kök	Noun	Noun	A3sg|Pnon|Gen	24	POSSESSOR	_	_
+3	_	kalın	Adj	Adj	_	4	DERIV	_	_
+4	_	_	Verb	Verb	Become|Pos	5	DERIV	_	_
+5	kalınlaşarak	_	Adv	Adv	ByDoingSo	6	MODIFIER	_	_
+6	ve	ve	Conj	Conj	_	11	COORDINATION	_	_
+7	toprağın	toprak	Noun	Noun	A3sg|Pnon|Gen	8	POSSESSOR	_	_
+8	içine	iç	Noun	Noun	A3sg|P3sg|Dat	10	DATIVE.ADJUNCT	_	_
+9	doğru	doğru	Adj	Adj	_	10	MODIFIER	_	_
+10	_	uza	Verb	Verb	Pos	11	DERIV	_	_
+11	uzayarak	_	Adv	Adv	ByDoingSo	24	MODIFIER	_	_
+12	iyi	iyi	Adj	Adj	_	13	MODIFIER	_	_
+13	_	geliş	Verb	Verb	Pos	14	DERIV	_	_
+14	geliştiği	_	Adj	APastPart	P3sg	16	MODIFIER	_	_
+15	yan	yan	Noun	Noun	A3sg|Pnon|Nom	16	CLASSIFIER	_	_
+16	köklerin	kök	Noun	Noun	A3pl|Pnon|Gen	17	OBJECT	_	_
+17	ise	ise	Conj	Conj	_	22	MODIFIER	_	_
+18	az	az	Adj	Adj	_	19	MODIFIER	_	_
+19	_	geliş	Verb	Verb	Pos	20	DERIV	_	_
+20	geliştiği	_	Adj	APastPart	P3sg	22	MODIFIER	_	_
+21	kök	kök	Noun	Noun	A3sg|Pnon|Nom	22	CLASSIFIER	_	_
+22	çeşidi	çeşit	Noun	Noun	A3sg|P3sg|Nom	24	SUBJECT	_	_
+23	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	24	DERIV	_	_
+24	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	25	SENTENCE	_	_
+25	.	.	Punc	Punc	_	0	ROOT	_	_
+

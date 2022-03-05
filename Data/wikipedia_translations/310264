@@ -1,0 +1,291 @@
+CTIA ve GTIA
+Renk Televizyon Arayüz Adaptörü (CTIA) ve onun halefi Grafik Televizyon Arayüz Adaptörü (GTIA) bilgisayar Atari 8-bit ailesi ve Atari 5200 konsolunda kullanılan özel çipler vardır. Bu sistemlerde, bir CTIA veya GTIA çip video görüntü üretmek için Antic ile birlikte çalışır. CTIA / GTIA oyuncu / füze grafik (sprite) olarak bilinen bindirme nesneleri Playfield rengini sağlar ve ekliyor ise ANTIC Playfield grafikleri (metin ve bitmap) üretir. Jay Miner yönetimi altında, CTIA / GTIA cips Steve Smith teknik desteği ile George McLeod tarafından tasarlanmıştır.
+"Renkli Televizyon Arayüz Adaptörü" ve "Grafik Televizyon Arayüz Adaptörü" Atari saha servis kılavuzunda belirtildiği gibi fiş adlarıdır. Çeşitli yayınlar bazen alternatif yazım "Adapter" ya da "Graphics" seçeneğini kullanarak, ya da "CTIA" "C" Colleen / Candy ve "GTIA" in "G" George için duruyor iddia, farklı cips atadı.
+Tarihi.
+2600 ve TIA.
+Atari ilk ekran sürücüsü çipi, Televizyon Arayüz Adaptörü inşa ancak evrensel Atari 2600 konsolunda bir parçası olarak, TIA olarak anılacaktır etmişti. TIA ekran mantıksal nesneleri iki temel setten oluşan, "oyuncu" ve hareketli nesnelerin temsil "füze", ve eylem gerçekleşti hangi statik arka plan görüntüsü temsil "Playfield". bellekte çip kullanılan veriler bir televizyon ekranı üretmek için bir dijital-analog çevirici ve RF modülatörü vasıtasıyla gerçek zamanlı olarak dönüştürülmüş dijital sinyalleri üretmek için kaydeder.
+playfield çizmek için alışılmış bir şekilde çerçeve tampon her bir bellek konumu ekranında bir veya daha fazla yeri temsil ettiği bir çerçeve arabelleği, düzenlenen bir bit eşlem kullanmaktır. Normalde 160x192 piksel bir çözünürlüğü olan 2600 durumunda, bir çerçeve tampon belleği en azından 160x192 / 8 = 3840 bit olması gerekir. RAM çok pahalı olduğu yerde bir dönemde inşa edilmiş, TIA bu çözüm göze alamazdı.
+Bunun yerine, sistem ekran boyunca gergin veya kopyalanan olabilir ya da etkin bir şekilde 40-bit görüntü ne yapmak için ekranın sağ yarısında yansıtılmış bir tek 20-bit bellek kayıt kullanılan bir görüntüleme sistemi uygulanmaktadır. Her yer 128 olası renk paletinden, dört renk birinde görüntülenen olabilir. TIA ayrıca oyuncuların "olarak bilinen bir tek 2-bit nesne" top "ve iki adet 1-bit" Bunlar bilinen iki adet 8-bit genişliğinde nesnelerin oluşuyordu. "Birkaç diğer görüntüleme nesneleri, oyuncular" ve "füze ​​dahil "Füzeler". Bu nesnelerin diğer tüm kayıtlar ayarları aracılığıyla keyfi yatay yerlere taşınmış olabilir.
+TIA sistemine anahtarı ve 2600 en düşük fiyat, sistem ekran tek bir satır, kayıtlar tutulan bütün bunlar çizmek sadece yeterli bellek hayata oldu. Televizyon ekranın sağ tarafında ulaştığında veri tam bir bütün ekranı çizmek için, TIA periyodik bir kesme denir. Kullanıcı kodu doğru ekranda sonraki satıra yansıtmak için Playfield ve oyuncu / füzeler için kayıtlar güncelleyerek kesme cevap olacaktır. Bu teknik, ROM kartuş üzerindeki programın kodu "ışınının yarış" olarak bilinen bir teknik ekran çizgi-by-line çekti.
+CTIA.
+Atari başlangıçta Başlangıçta bu yeni tasarımı sadece güncellenmiş 2600 benzeri bir oyun konsolu oldu şirket 1979 yeni tasarım gerekir demek, 1976 yılında tasarlanmış zaman 2600 üç yıllık kısa pazar ömürleri olacağını tahmin ve inşa edildi Benzer bir temel tasarım etrafında, sadece güncellendi. CTIA olacak ne çalışma 1977 yılında başladı ve iki çözünürlük ve iki renk sayısı ile bir sistem sunmayı amaçladık. Ayrıca, Playfield renk sayısını değiştirerek, 320 piksele kadar çok daha yüksek çözünürlük yatay desteklenebilir. Oyuncular ve füzeler de dört 8 bit oyuncu ve dört 2-bit füzeleri, aynı zamanda ek modeller beşinci oyuncuyu üretmek için dört füze birleştirmek için izin dahil olmak üzere, güncelleştirildi.
+Tasarım başlamasından kısa bir süre sonra, ev bilgisayarı devrim karşılık 1977 ikinci yarısında ciddi olarak başladı, Atari yeni makinenin iki sürümünü yayınlamaya karar verdim, bir oyun konsolu gibi düşük-uç modeli ve bir high-end sürümü olarak Bir ev bilgisayarı. Her iki görevinde, daha karmaşık bir Playfield özellikle bilgisayar rolü karakter grafik destek gerekli olacaktır. CTIA Tasarımı bu noktada oldukça ileri olduğunu, bu yüzden onun yerine bir yeniden bir akıllı çözüm etkili bir ışın yarış işlemini otomatik olur, ikinci bir çip ekleyerek sağlandı. Bunun yerine kendi kesme zamanlaması dayalı CTIA adlı kayıtları güncellemek, kullanıcının programlama, yeni ANTIC bir framebuffer'ın veri okuma ve anında CTIA ki beslenme, bu angarya ele olacaktır.
+Bu değişikliklerin bir sonucu olarak, yeni çipler ölçüde geliştirilmiş numarası ve TIA üzerinde grafik modları seçimini sağlamak. Yerine çözünürlük 20 veya 40 bit tek bir Playfield modu, programcı sağlayan, altı metin modları ve çeşitli çözünürlüklerde ve renk derinlikleri ile sekiz grafik modları görüntüleyebilir CTIA / ANTIC çifti çözünürlük, renk ve hafıza kullanımı arasında bir denge seçim bunların görüntü için.
+GTIA vs CTIA.
+CTIA çipin özgün tasarım normal grafik modları üç ek renk yorumlarını dahil. Bu özellik 16 renk, iki renk saat genişliğinde piksel piksel başına 4 bit olarak bir buçuk renk saat geniş piksel piksel başına 1 bit, 2 renk sunan Antic yüksek çözünürlüklü grafik modları alternatif ifadeler içerir. Bu özellik bilgisayarların Kasım 1979 ilk önce hazırdı, ama Atari zaten grafik modları eksik yaklaşık 100.000 CTIA cips toplu sipariş vardı geliştirme döngüsünde çok gecikti. Zaten üretilen cips atmak isteyen değil, şirket ABD pazarına Atari 400 ve 800 modellerinin ilk sürümde bunları kullanmaya karar verdi. 3 ekstra renk modu eksik CTIA donanımlı bilgisayarlar, bu noktadan itibaren Ekim-Kasım 1981 yılına kadar sevk edildi, tüm yeni Atari birimleri yeni renk yorumlama modları desteklenen şimdi GTIA adı verilen yeni çip, donatıldı.
+Orijinal Atari 800/400 işletim sistemi hazır olduğunu bir kez GTIA ile CTIA kolay değiştirilmesi için izin başından gelen GTIA alternatif renk yorumlama modları desteklenir. Atari ücretsiz bilgisayar garanti kapsamında olup olmadığını ücretten CTIA donanımlı bilgisayarlarda GTIA çip yüklemek istiyorsunuz servis merkezleri yetkili; Aksi takdirde yedek 62,52 $ mal olacak.
+GTIA ayrıca tüm sonraki Atari XL ve XE bilgisayarlar ve Atari 5200 konsolları monte edilmiştir.
+Özellikler.
+Aşağıdaki liste CTIA / GTIA en doğal donanım özellikleri sık sık kayıt değişikliklerini sürüş CPU hizmet kesme veya ekran çekirdekleri ile elde edilen sonuçlardan dahil değil, donanım kendisi amaçlanan işlevlerini anlamı anlatılmaktadır.
+CTIA / GTIA aşağıdaki özelliklere sahip bir televizyon ara yüz cihazıdır:
+Sürümleri.
+"Tarafından parça numarası"
+Atari, Inc Atari bilgisayar ve 5200 konsolları üretim maliyetlerini azaltmak için bir entegre devre ANTIC ve GTIA yongaları fonksiyonları birleştiren amaçlanmıştır. İki tür prototip devreler, ancak bunların hiçbiri üretime girdi, geliştirilen ediliyordu.
+Saklayıcılar.
+$ D0xxhex sayfası ve Atari 5200 konsola Atari 8-bit bilgisayarların harita CTIA / GTIA $ C0xxhex sayfaya eşler.
+CTIA / GTIA oyuncu / Füze grafikleri, Playfield renkleri, joystick tetikler ve konsol anahtarları kontrol 54 Okuma / Yazma kayıtları sağlar. Birçok CTIA / GTIA kayıt adresleri Yaz kayıt vs oku gibi farklı işlevleri yerine ikili amaçları vardır. Bu nedenle, herhangi bir kod önceden yazılı değerini almak için bekliyor Donanım kayıtları okumalısınız.
+Bu sorun kayıtlar yazılı son değeri saklamak için yerlerde düzenli RAM uygulanan İşletim Sistemi Gölge kayıtlarına göre birçok yazma kayıtlarından için çözülmüştür. İşletim Sistemi Gölge kaydolur Dikey Blank sırasında donanım kayıtlarından RAM kopyalanır. Bu nedenle gölge kayıtları karşılık gelen var donanım kayıtlarına herhangi bir yazma sonraki Dikey Blank sırasında kaydeder Gölge değeri ile yazılır.
+Bazı yaz defterleri gelen Gölge kayıtları yok. Onlar güvenle değer dikey boş sırasında üzerine olmadan bir uygulama tarafından yazılmış olabilir. Uygulama kaydının son durumunu öğrenmek için gerekiyorsa o zaman bunun ne yazdı hatırlamak uygulamanın sorumluluğundadır.
+Tutarsız sonuçlar döndürebilir ekran döngüsünde bilinmeyen bir aşamada donanım doğrudan değerini okurken burada da bazı oku ana kadar kayıtlarından Sistem Gölge İşletim kaydeder.
+Bireysel kayıt listeleri aşağıdaki efsane geçerlidir aşağıda:
+Oyuncu / Füze Yatay Koordinatlar.
+Bu kayıt Oyuncu / Füze nesnelerin sol kenarı renk saatler yatay konumunu (GRAF * bayt desen yüksek bit) belirtin. Koordinatlar her zaman ekran donanımın renk saat motoru DEĞİL sadece mevcut Playfield görüntü modu dayanmaktadır. Bu da oyuncu / Füze nesneler geçerli Playfield modu ötesinde overscan alanlara taşındı anlamına gelir.
+Füze nesneleri ise biraz desenleri her Füze bağımsız yerleştirilmiş olabilir Görüntülenen piksel (GRAFM) için aynı bayt paylaşan unutmayın. "Beşinci Oyuncu" seçeneği etkinleştirildiğinde COLPF3 değerini görüntüleyen ilişkili Oyuncu nesnesinin rengini görüntülenmesini biri "Oyuncu" Füze içine dört Füzeler anahtarı çevirerek (ÖNCEKİ / GPRIOR kayıt bakınız). Ekranda yeni "Oyuncunun" pozisyonu tek tek her Füze konumunu belirterek ayarlanması gerekir.
+Oyuncu / Füze piksel sadece GTIA piksel motoru görünen kısımları içinde işlenir. Oyuncu / Füze nesneleri yatay veya dikey boş boş sırasında işlenmez. Bununla birlikte, bir amacı kısmen yatay boş içinde olabilir. Yatay boşluğun dışında kalan nesnelerin piksel ekran görülür kısmında bulunan o ve hala çarpışmalar kayıt olabilirsiniz. Görünür renk saatlerin yatay pozisyon aralığı $ DDhex / 221dec dolar 22hex / 34dec olduğunu.
+Görünür ekran alanı yatay pozisyonlarda (sol) 0 ve bir oyuncu / Füze nesnesini kaldırmak için (sağ) $ DEhex / 222dec (veya daha fazla) hiçbir piksel oyuncu / Füze nesnenin büyüklüğü ne olursa olsun render ve böylece hiçbir kasıtsız olan sigorta olacaktır çarpışmalar bayraklı olabilir.
+HPOSP0 $ D000 yaz.
+Oyuncu 0 Yatay Pozisyonu
+HPOSP1 $ D001 yaz.
+Oyuncu 1 Yatay Pozisyonu
+HPOSP2 $ D002 yaz.
+Oyuncu 2 Yatay Pozisyonu
+HPOSP3 $ D003 yaz.
+Oyuncu 3 Yatay Pozisyonu
+HPOSM0 $ D004 yaz.
+Füze 0 Yatay Pozisyonu
+HPOSM1 $ D005 yaz.
+Füze 1 Yatay Pozisyonu
+HPOSM2 $ D006 yaz.
+Füze 2 Yatay Pozisyonu
+HPOSM3 $ D007 yaz.
+Füze 3 Yatay Pozisyonu
+Aşağıda renk saat olası Playfield boyutları sağ ve sol kenarlardan koordinatları vardır, kullanışlı hizalayarak oyuncu / Füze Playfield bileşenlerine nesneleri:
+Oyuncu / Füze Boyut Kontrolü.
+Üç boyutta seçilebilir: Normal, çift ve Quad genişliği. sol kenarı (Yatay Koordinatları bakınız) sabit ve boyut ayarı her durumda sağa doğru Player'ı veya Füzesi genişler.
+Quad boyutunda tek oyuncu / Füze piksel bir Antic Mod 2 metin karakter olarak aynı genişlikte olduğunu unutmayın. Quad ile karışık oyuncu / Füze öncelik seçimi Oyuncu Füze grafik Mod satır başına birden fazla metin renklerini oluşturmak için kullanılabilir genişliği.
+Her oyuncu kendi boyut kontrol kaydını vardır:
+SIZEP0 $ D008 yaz.
+Oyuncu 0 Büyüklüğü
+SIZEP1 $ D009 yaz.
+Oyuncu 1 boyutu
+SIZEP2 $ D00A yaz.
+Oyuncu 2 boyutu
+SIZEP3 $ D00B yaz.
+Oyuncu 3 Boyut
+Oyuncu boyutu kontrolleri:
+Değerler:
+SizeM $ D00C yaz.
+Tüm Füze boyutları tek register tarafından kontrol edilir, ancak her Füze diğerlerinden bağımsız büyüklükte olabilir. "Beşinci Oyuncu" seçeneği etkinleştirildiğinde hala tek tek her Füze boyutunu belirterek ayarlanır tek "Oyuncu" genişliğinde içine dört Füzeler dönüm (ÖNCEKİ / GPRIOR kayıt bakınız).
+Değerler:
+Oyuncu / Füze Grafik Desenleri.
+Her oyuncu nesnesi, kendi 8-bit deseni kaydı vardır. Füze nesneleri her Füze başına 2 bit ile tek kayıt paylaşıyoruz. Bir değer ayarlandıktan sonra her tarama satırda görüntülenecek devam edecektir. CPU veya ANTİK DMA tarafından başka hiçbir müdahale değerlerini güncellemek için birlikte sonuç dikey şerit desenleri overscan alanlar da dahil olmak üzere ekranın yüksekliğidir. Bu çalışma modu bilgisayarda bir CPU veya DMA ücretli tabi değildir. Bu alternatif renkli sınırları ve ekran bölgelerini ayıran dikey çizgiler görüntülemek için yararlıdır.
+GRAFP0 $ D00D yaz.
+Oyuncu 0 grafik motif
+GRAFP1 $ D00E yaz.
+Oyuncu 1 için grafik desen
+GRAFP2 $ D00F yaz.
+Oyuncu 2 grafik desen
+GRAFP3 $ D010 yaz.
+Oyuncu 3 için grafik desen
+Her oyuncu genişliğinde 8 bit (piksel). Biraz set edildiğinde, bir pikselin Player ilişkili renk kayıt atanan renkte görüntülenir. Biraz ayarlı değil nerede Oyuncu nesne Oyuncular gösteren şeffaf, Füze, Playfield piksel veya arka plan rengi.
+GRAFM $ D011 yaz.
+Tüm füzeler için Grafik desen
+Her Füze genişliğinde 2 bit (piksel). Biraz set edildiğinde, bir pikselin Füze ilişkili Player'ın renk kayıt atanan renkte görüntülenir. Beşinci Oyuncu etkin olduğunda Füzeler Tüm ekran COLPF3 piksel (ÖNCEKİ / GPRIOR bakınız). Biraz ayarlı değil Nerede Füze nesne Oyuncular gösteren şeffaf, Füze, Playfield piksel veya arka plan rengi.
+Füze Değerler:
+Oyuncu / Füze çarpışmalar.
+CTIA / GTIA Player Füze ve Playfield piksel kesiştiği zaman çarpışmalar otomatik algılama sağlayan 60 bit vardır. Tek bir bit belirli bir renk kayıt bir pikseli kesişti olan oyuncu / Füze nesnesinin bir sıfır olmayan piksel gösterir. Arka plan rengi kayıt / değer kullanılarak işlenen pikseller için kayıtlı herhangi bir çarpışma yoktur. Bu sistem sınırlayıcı kutunun veya görüntü bitmap maskeleme pahalı işlemci değerlendirme yapılmadan anında, piksel mükemmel örtüşme karşılaştırma sağlar.
+Bir objenin gerçek renk değeri olarak kabul edilmez. Oyuncu, Füze, Playfield ve arka plan rengi sicilleri nesnelerin etkin bir "görünmez" hale hepsi aynı değeri ise, nesnelerin kesişmeleri hala çarpışmalar kaydedecektir. Bu gizli veya gizli nesneleri ve duvarları yapmak için kullanışlıdır.
+Obscured kavşaklar da çarpışmalar kaydedecektir. Bir oyuncu nesnesi öncelik Playfield renk kayıt arkasında başka Oyuncu nesne önceliği Playfield daha yüksek (ön) ise ve ön plan Oyuncu piksel karanlık hem Playfield ve Playfield arkasında Oyuncu nesnesi, Playfield ve her ikisi arasındaki sonra çarpışma Arka plan ve ön plan Oyuncu nesneleri ön ve arka plan Oyuncu nesneler arasında çarpışma ile birlikte kaydeder.
+Füze çarpışma için bir füze olduğuna dikkat edin.
+Oyuncu / Füze nesne piksel ekran görünür bölümleri içinde ortaya çıktığında oyuncu / Füze çarpışmalar sadece oluşabilir. Oyuncu / Füze nesneleri yatay veya dikey boş boş sırasında işlenmez. Görünür renk saatlerin aralığı 34-221 olan ve gözle görülür tarama hatları işlenmez bu koordinatların dışında hattı üzerinden hattı 8'den 247. oyuncu / Füze verileri değişir ve çarpışmalar kayıt olmaz. Bir nesne kısmen yatay boş içinde olabilir. Yatay boşluğun dışında kalan nesnelerin piksel ekran görünür kısmı içinde ve hala çarpışmalar kayıt olabilirsiniz.
+Görünür ekran alanı yatay pozisyonlarda (sol) 0 ve bir oyuncu / Füze nesnesini kaldırmak için (sağ) hiçbir piksel oyuncu / Füze nesnenin büyüklüğü ne olursa olsun işlenen ve sigortalamak olacak 222 (veya daha fazla) hiçbir kasıtsız çarpışmalar olabilir bayraklı.
+Son olarak, oyuncu, Füze ve Playfield nesneler çarpışma algılama gerçek zamanlı görüntü pikselleri birleşti ve ekran için çıkış olarak bir çarpışma kaydederek, olduğunu. Nesne hiçbir çarpışma gösterecektir CTIA / GTIA tarafından verilen edilmeden önce bir nesnenin çarpışma bit denetleniyor.
+HITCLR kaydına yazarak temizlenir kadar bir kez ayarlandıktan sonra çarpışmalar yürürlükte kalır. Etkili çarpışma tepkisi rutinleri sonraki çerçeve başlamadan önce çarpışmalar ve net çarpışmalar tepki hedefleyen nesneler gösterildikten sonra veya bir çerçevenin sonunda veya Dikey Boş sırasında meydana gelmelidir.
+Çarpışmalar, sadece bir tek bit olduğundan, çarpışmalar çok açıktır ki katkı maddesi değildir. Ne olursa olsun piksel arasında bir çarpışma, bir çerçeve içinde meydana kaç kez ve farklı yerlerde bir çarpışma oldu belirtmek için sadece 1 bit vardır. Bir dizi çarpışma bit her konum için tepki nasıl karar sonra çarpışma yerleri belirlemek için ilgili nesneleri incelemek ve bir program bildirir.
+HITCLR ve çarpışma algılama gerçek zamanlı olduğundan, Görüntü Listesi kesmeler, her bölümün sonunda her bir bölüm ayrı çarpışma değerlendirme başında kullanılan HITCLR ile bölüme ekranı bölebilirsiniz.
+"Beşinci Oyuncu" seçeneği etkinleştirildiğinde tek değişiklik COLPF3 değerini görüntüleyen ilişkili Oyuncu nesnesinin rengini göstermesini Füze 0 ile 3 anahtarı (ÖNCEKİ / GPRIOR kayıt bakınız). Yeni "Oyuncu yönettiği" çarpışmalar hala bireysel füzeler için rapor edilmektedir.
+Playfield Çarpışmalar için oyuncu / Füze.
+Her bit oyuncu / Füze nesnenin piksel Belirtilen Playfield renk nesnenin bir pikseli kesişti olduğunu gösterir. Arka plan rengi kayıtlı herhangi bir çarpışma yoktur.
+Obscured kavşaklar da çarpışmalar kaydedecektir. Bir oyuncu / Füze nesne öncelik Playfield renk kayıt ve başka oyuncu / Füze nesne öncelik arkasında ise Playfield daha yüksek (ön) ve ön oyuncu / Füze piksel karanlık Playfield ve Playfield arkasında oyuncu / Füze nesne, hem Daha sonra Playfield hem arka plan ve ön plan Player arasında çarpışma / Füze nesneleri kaydeder.
+Yüksek çözünürlüklü, 1/2 renk saat piksel modları (ANTIC Modları 2, 3, ve F) farklı muamele edilir. COLPF2 olarak işlenen "arka plan" bir çarpışma kayıt yok. Yüksek çözünürlüklü piksel çiftleri gruplanmış (piksel 0 ve 1, 2 ve 3 piksel, vb) ve her iki piksel 1 ise çarpışma Player veya Füze piksel karşı tespit ve Playfield renk COLPF2 ile bir çarpışma olarak işaretlenir.
+GTIA modları 9 ve 11 Playfield çarpışmalar işlemek yoktur. GTIA modunda 10 Playfield çarpışmalar Playfield piksel COLPF3 aracılığıyla COLPF0 kullandığınız yere kayıt edecek
+M0PF $ D000 Oku.
+Playfield çarpışmalar Füze 0
+M1PF $ D001 Oku.
+Playfield çarpışmalar Füze 1
+M2PF $ D002 Oku.
+Playfield çarpışmalar Füze 2
+M3PF $ D003 Oku.
+Playfield çarpışmalar Füze 3
+P0PF $ D004 Oku.
+Playfield çarpışmalar Oyuncu 0
+P1PF $ D005 Oku.
+Playfield çarpışmalar Oyuncu 1
+P2PF $ D006 Oku.
+Playfield çarpışmalar Oyuncu 2
+P3PF $ D007 Oku.
+Playfield çarpışmalar oyuncu 3
+Oyuncu Çarpışmalar Füze.
+Füze Oyuncular ve playfields ile çarpışır. Füze çarpışma için bir füze yoktur.
+M0PL $ D008 Oku.
+Oyuncu çarpışmalar Füze 0
+M1PL $ D009 Oku.
+Oyuncu çarpışmalar Füze 1
+M2PL $ D00A Oku.
+Oyuncu çarpışmalar Füze 2
+M3PL $ D00B Oku.
+Oyuncu çarpışmalar Füze 3
+Oyuncu Çarpışmalar oyuncu.
+İki oyuncu arasında bir çarpışma, her iki Oyuncuların çarpışma kayıtlarında çarpışma bitini ayarlar. Oyuncu 0 Oyuncu 0 ve 1 çarpışır, Oyuncu 1 için Oyuncu 0ın çarpışma bit ayarlanır Player ve Oyuncu 1'in çarpışma bit ayarlandığında.
+Onun biraz zaman 0 yani bir oyuncu, kendisi ile çarpışır olamaz.
+P0PL $ D00C Oku.
+Oyuncu çarpışmalar Oyuncu 0
+P1PL $ D00D Oku.
+Oyuncu çarpışmalar Oyuncu 1
+P2PL $ D00E Oku.
+Oyuncu çarpışmalar Oyuncu 2
+P3PL $ D00F Oku.
+Oyuncu çarpışmalar Oyuncu 3
+Oyuncu / Füze ve Playfield Renk ve Işık.
+Tüm oyuncu / Füze nesnelerin piksel ve varsayılan CTIA / GTIA renk yorumlama modu kullanımı yönlendirme tüm Playfield piksel rengini belirtmek için. Indirection piksel verilerinin değerleri doğrudan rengini belirtmek, ancak renk için bilgi başka bir kaynağa işaret anlamına gelir. CTIA / GTIA renkler için kullanılan değerleri ayarlamak donanım kayıtlar içerir ve piksellerin bilgiler bu kayıtlar başvurun. Atari üzerinde palet, toplam 128 renkler için 16 renk 8 parlaklık seviyeleri olduğunu. Renk yönlendirme esnekliği bir program programın ekranın amacını sığdırmak için ekranın renklerini terzi sağlar.
+Tüm donanım renk kaydolur gölge kayıtları karşılık var.
+COLPM0 $ D012 yaz.
+GÖLGE: PCOLOR0 $ 02C0
+Renk / Player ve Füze 0 parlaklık.
+GTIA 9 renk modu etkinleştirildiğinde (ÖNCEKİ / GPRIOR değeri 80 $) Bu kayıt yerine COLBK daha sınır ve arka plan (Playfield piksel değeri 0) kullanılır.
+COLPM1 $ D013 yaz.
+GÖLGE: PCOLOR1 $ 02C1
+Renk / Player ve Füze 1 parlaklığı.
+COLPM2 $ D014 yaz.
+GÖLGE: PCOLOR2 $ 02C2
+Renk / Player ve Füze 2 parlaklığı.
+COLPM3 $ D015 yaz.
+GÖLGE: PCOLOR3 $ 02C3
+Renk / Player ve Füze 3 parlaklığı.
+COLPF0 $ D016 yaz.
+GÖLGE: COLOR0 $ 02C4
+Playfield 0 Renk / parlaklık.
+COLPF1 $ D017 yaz.
+GÖLGE: COLOR1 $ 02C5
+Playfield 1 Renk / parlaklık.
+Bu kayıt ANTIC metin modları 2 ve 3 set piksel (değer 1) için kullanılır ve harita modu F. Yalnızca parlaklık kısmı kullanılır ve COLPF2 renk değeri ile oluşan bit maskesidir edilir. Diğer Karakter ve Harita modlarında bu kayıt, bir piksel için beklenen renk ve parlaklık sağlar.
+COLPF2 $ D018 yaz.
+GÖLGE: COLOR2 $ 02C6
+Playfield 2 Renk / parlaklık.
+Bu kayıt piksel değeri 0 kullanılır ise Playfield ANTIC metin modları 2 ve 3'ün arka plan rengini ve harita modu F., için kullanılır. Diğer Karakter ve Harita modlarında bu kayıt, bir piksel için beklenen renk ve parlaklık sağlar.
+COLPF3 $ D019 yaz.
+GÖLGE: COLOR3 $ 02C7
+Playfield 3 Renk / parlaklık
+COLPF3 kullanılabilir çeşitli özel durumlar ise:
+COLBK $ D01A yaz.
+GÖLGE: COLOR4 $ 02C8
+Playfield arka plan rengi / parlaklık.
+başka hiçbir piksel tüm overscan ekran alanı üzerinden meydana geldiği arka plan rengi görüntülenir. Aşağıdaki istisnalar arka plan oluşabilir:
+Renk kaydettirir 'Bit:
+Renk kaydının yüksek Nybble 16 renk renk ($ F0 için 00 $, 10 $, 20 $ ...) birini belirtir.
+kaydının düşük Nybble 16 parlaklık değerleri ($ 0F 00 $, 01 $, 02 $ ...) birini belirtir.
+Normal renk yorumlama modunda düşük bit anlamlı değildir ve sadece 8 ışıklılık değerleri ($ 00, $ 02, $ 04, $ 06, $ 08, $ 0A $ 0C, $ 0E) mevcuttur, bu nedenle tam renk paleti 128 renk değerleri olduğunu.
+GTIA renk yorumlama modu 4 $ (parlaklık okunur modda) içinde parlaklık değerlerinin tam 16 bit 256 renk paleti sağlayan Playfield piksel için kullanılabilir. Bu modda görüntülenen herhangi oyuncu / Füze nesneleri hala 128 renk paleti kullanır yönlendirme ile boyanmaktadır.
+Normal renk yorumlama modunda piksel değerleri genellikle renk kayıtlarından COLPF2 sırasıyla COLBK, COLPF0, COLPF1, işaret $ 0 $ 3 arasında değişmektedir. renkli metin modları da karakter değerlerinin belli aralıklar için COLPF3 kullanmak için seçenekler içerir. Daha fazla bilgi için Antic grafik modları bakın.
+Oyuncu / Füze grafik desenler grafik desenler bit görüntülenen renk ayarlanır ekran için etkinleştirildiğinde nesnelere atanan kayıtlarından geliyor.
+Renk üretimi ve ekran için istisnalar vardır:
+ANTİK Karakter Modu başına Renk kaydettirir 'Kullanımı:
+ANTİK Harita Modu başına Renk kaydettirir 'Kullanımı:
+GTIA Modları (ANTİK F) başına Renk kaydettirir 'Kullanımı:
+Özel GTIA modları (16 gölgeler / 16 renk) yürürlükte olan renkler modifiye edilebilir olsa oyuncu / Füze renkleri, her zaman tüm modlarda oyuncu / Füze nesneler için kullanılabilir.
+Çeşitli oyuncu / Füze ve GTIA Kontrolleri.
+ÖNCEKİ $ D01B yaz.
+GÖLGE: GPRIOR $ 026F
+Bu kayıt birkaç CTIA / GTIA renk yönetimi özellikleri kontrol: GTIA Playfield renk yorumlama modu, Çok Renkli Oyuncu nesneleri, Beşinci Player ve oyuncu / Füze / Playfield önceliği.
+GTIA Playfield Renkli Yorumlama <br>
+CTIA ANTIC Playfield veri akışı için tek varsayılan renk yorumlama modu içerir. Bu aksi belirtilmedikçe antik ve CTIA / GTIA tartışma çoğunda kabul temel işlevi olduğunu. GTIA Playfield veriler için üç alternatif renk yorumların modları içerir. Bu modlar GTIA tarafından böylece pikseller çıkış daima iki renk saatler geniş, antik bitişik renk saatler eşleştirerek çalışır. Bu modlar herhangi ANTIC Playfield Modu, bu GTIA renk işleme seçenekleri ile olası tam renk paletini sadece 1/2 renk saat piksel (ANTIC modları 2, 3, F.) Bu dayanan ANTIC Modu gerçekleştirilmektedir görüntülerken meşgul olmasına rağmen GTIA seçenek genellikle Mod F ekran ile birlikte kullanılır. özel GTIA renk işleme modları da ekranı veya çeşitli şekillerde oyuncu / Füze grafik davranışını değiştirebilir.
+Renk yorumlama kontrolü tüm ekranı etkileyen GTIA küresel bir fonksiyonudur. GTIA tek ekranda çeşitli GTIA renk yorumlama modları ve çoğu ANTIC playfields için gerekli varsayılan CTIA modu karıştırma doğal yeteneğine sahip değildir. Renk yorumlama modlarını Karıştırma ekran (Görüntülü listesi Kesme tarafından, genellikle) oluşturulur olarak ÖNCE kayıt yazılım yazma gerektirir.
+ÖNCEKİ bit 7 ve 6 renk yorumlama modu belirterek dört değer sağlar:
+16 Shades <br>
+Bu mod arka plan rengini belirtmek için COLBK kayıt kullanır. Aksine yönlendirme kullanmak yerine, piksel değerleri doğrudan Işıklılık temsil etmektedir. Bu mod dört parlaklık bitleri Atari renk paletine kullanılmasına olanak tanır ve böylece 256 renk görüntüleme yeteneğine sahiptir.
+(Beşinci oyuncu seçeneği olmadan) oyuncu / Füze grafik düzgün bu modda ekran, Playfield ile ancak çarpışma algılama devre dışı bırakılır. Playfield önceliği alt her zaman açıktır. Füze nesneleri üst üste nerede Füzeler sonra beşinci oyuncu olarak hareket etmek açık olduğunda Playfield Füze piksel parlaklık Playfield piksellerin Parlaklık değeri ile birleşir.
+9 Renk <br>
+Diğer iki özel GTIA modları farklı olarak, bu mod tamamen renkli yönlendirme ile tahrik edilir. Dokuz renkli defterleri 0 8'e kadar kalan 7 piksel değerleri bir önceki renk kayıtları tekrar piksel değerleri için ekranda çalışmak.
+piksel tek renk olduğunda saat (yarım GTIA modu piksel) çıktı gecikmelidir. Bu izinlerin ilginç efektler ofset. Örneğin, bu mod ve farklı bir GTIA modu arasında spinlerinin sayfa belirgin yüksek çözünürlük ve renk daha fazla sayıda olan bir ekran üretiyor.
+Bu oldukça COLBK daha renkli sınır ve arka plan için COLPM0 kayıt kullanır (Playfield 0 değeri piksel) Bu mod benzersizdir.
+Düzgün aynı renk kayıt, COLPM0 kullanmak beri oyuncu / Füze 0, arka plan piksel ayırt olmadığı hariç oyuncu / Füze grafik ekran. Onlar oyuncu / Füze nesneleri ve böylece Oyuncular / Füzeler görüntüsünü etkileyebilir sanki oyuncu / Füze renkleri kullanarak Playfield piksel öncelik ayarları tarafından değiştirilir. (Daha sonra oyuncu / Füze / Playfield öncelikleri hakkında tartışma bakınız).
+Oyuncu / Füze onları kaplaması nesneleri zaman oyuncu / Füze renkleri kullanarak Playfield piksel çarpışmalarını tetiklemez. Ancak, Playfield renklerini örtüşen oyuncu / Füze grafik beklenen çarpışma tetikleyecek COLPF3 için COLPF0.
+16 Renk <br>
+Bu mod COLBK tüm Playfield piksellerin parlaklığını belirtmek için kayıt kullandığı parlaklık değeri en önemsiz bit görülmez, bu yüzden sadece standart / CTIA 8 parlaklık değerleri vardır ($ Fhex / 15dec. Aracılığıyla 1dec / değerler $ 1 Heks) (0 $, $ 2, $ 4, $ 6 $ 8 $ A $ C $ E). Ayrıca, arka plan kendisi COLBK kaydında belirlenen tek renk bileşeni kullanır. arka plan aydınlatma değerini Parlaklık modu yönlendirme devre dışı ve piksel değerleri doğrudan bir rengi temsil eden bir gibi 0'a zorlanır.
+Arka plan renk bileşeni de Playfield piksel ile birleştirir unutmayın. Arka plan siyah dışındaki renkler modunda görüntülenen renklerin toplam sayısını azaltmak.
+(Beşinci oyuncu seçeneği olmadan) oyuncu / Füze grafik düzgün bu modda ekran, Playfield ile ancak çarpışma algılama devre dışı bırakılır. Playfield önceliği alt her zaman açıktır. Füze nesneleri üst üste nerede Füzeler sonra beşinci oyuncu olarak hareket etmek açık olduğunda Playfield Füze piksel Playfield piksellerin renk değerini miras.
+Çok Renkli Oyuncu <br>
+ÖNCEKİ bit 5, değer $ 20hex / 32dec Çok Renkli Oyuncu nesneleri sağlar. İki oyuncu / Füze nesneleri piksel üst üste Nerede üçüncü bir renk belirir. Bu bir bit VEYA iki renkli piksel çıkışına yeni bir renk gerçekleştiren CTIA / GTIA sonuçlanan oyuncu / Füze nesneler çiftleri arasındaki öncelikli işleme ortadan kaldırarak uygulanmaktadır.
+Örnek: renk değeri $ 98hex / 152dec (mavi) ile bir oyuncu pixel $ DEhex / 228dec piksel renk sonuçlanan renk değerine sahip bir oyuncu piksel $ 46hex / 70dec (kırmızı) çakışıyor (sarı / yeşil ışık).
+Oyuncular / yetenekli Çok Renkli çıktı Füze çiftleri:
+Beşinci Oyuncu <br>
+ÖNCEKİ bit 4, değer $ 10hex / 16dec beşinci oyuncu haline Füzeler sağlar. Hiçbir fonksiyonel bir değişiklik Füzelerin renk işleme başka Füze oluşur. Normalde ilişkili Player'ın renk kullanarak Füzeler ekran. Beşinci Oyuncu etkinken tüm Füzeler Playfield 3 (COLPF3) rengini gösterir. Yatay pozisyon, boyut, dikey gecikme ve oyuncu / Füze çarpışmalar hepsi aynı şekilde çalışmaya devam eder. Oyuncu Beşinci Player'ın öncelikli piksel kavşakları nesneleri COLPF3, ancak Beşinci Oyuncu piksel her Playfield renkleri üzerinde önceliğe sahiptir.
+renk işleme değişikliği de GTIA alternatif renk modlarında füzeler 'ekran için bazı istisnalar neden olur:
+Beşinci Player (aşağıda Öncelikli tartışma bakın.) (1000 bit) Öncelik değeri 8 $ için bir istisna getirmektedir
+Öncelik <br>
+ÖNCEKİ bit 3-0 oyuncu / Füze piksel nesneleri ve Playfield piksel kesiştiği görüntülenen hangi piksel değeri belirleyen dört oyuncu / Füze ve Playfield öncelikli değerlerini sağlamaktadır. Dört değerleri aşağıda Öncelikli grafikte listelenen belirli seçenekleri sunar. "PM" Beşinci Player olmadan, normal oyuncu / Füze uygulama anlamına gelir. Bu etkin olduğunda öncelik nerede meydana geldiğini Beşinci Player "P5" gösterilir.
+grafik default (CTIA) renk yorumlama modunu kullanarak ANTIC Playfield Karakter ve Harita modları için doğrudur. GTIA renk yorumlama modları ve yüksek çözünürlüklü dayalı ANTIC modları, 1/2 renk saat piksel farklı davranır (daha sonra not).
+Birden bitler ayarlanmış ise bir çelişki olduğu, daha sonra CTIA / GTIA siyah piksel Not siyah, gerçek siyah değil, sadece arka plan rengini, COLBK anlamına çıktılar.
+Beşinci Oyuncu COLPF3 değeri ile gösterilir, ancak, öncelikli her Playfield renk üzerindedir. Bu Öncelikli değeri (1000 Bit) 8 $ bir istisna oluşturur. Bu mod Playfield 0 ve 1 Oyuncular daha yüksek önceliğe sahip ve Oyuncular Playfield 2 ve Playfield 0 veya 1 piksel görüntülenen sonuç Playfield piksel herhangi Oyuncu piksel kesiştiği 3. daha yüksek önceliğe sahip. Beşinci oyuncu da aynı yerde kesişiyor Ancak, değeri Playfield 3 en yüksek önceliğe sahiptir sanki görünmesine neden Playfield üzerinde gösterilir. Playfield 0 veya 1 piksel bu kesişme kaldırılırsa o zaman Beşinci Oyuncu piksel geçersiz kılmak için hiçbir Playfield pikseli vardır ve bu yüzden de oyuncu piksel gerisinde.
+Öncelikli bit tüm 0 olduğunda, farklı bir etki meydana gelir-Player ve Playfield piksel mantıksal Çok Renkli Player özelliği benzer bir şekilde bir araya oluşan bit maskesidir edilir. Bu durumda oyuncular, 0 ve 1 piksel Playfield 2 ve 3 piksel karıştırıp Playfield 0 ve 1 piksel ve oyuncular 2 ve 3 piksel karıştırabilirsiniz. Çok Renkli Oynatıcı seçeneği sonuçlanan birleştirilmiş Oyuncuların renk kullanıldığında Ayrıca, aynı zamanda daha fazla renk üreten Playfield ile karıştırabilirsiniz. Olanaklarını birleştirerek tüm renk göz önüne alındığında, CTIA / GTIA donanım can tarama hat başına 23 renk çıktı. İlk renk olarak arka plan rengiyle başlayarak, geriye kalan 22 renkler ve renk birleştirir mümkündür:
+Öncelik bit tüm 0 olduğunda yukarıda tarif edildiği gibi, karşılık gelen renkler Füze Oyuncular aynı şekilde işlev görür. Beşinci Oyuncu etkin olduğunda (renk, 22 üzerinden 19) Yukarıdaki tabloda COLPF3 için gösterildiği gibi, Füze piksel aynı renk birleştirme neden olur.
+Öncelik Ve Yüksek Çözünürlüklü Modları <br>
+Öncelikli sonucu Bunlar öncelikli taşıma farklılıklar geleneksel olan bu modlarda üretilen renk metin veya grafik için kullanılabilir yüksek çözünürlüklü, 1/2 renk saat piksel-ANTIC modları 2, 3, ve F. kullanarak Karakter ve Harita modları için farklı "monochrome" olarak düşündüm.
+Bu ANTIC modlarında COLPF2 Playfield bir "arka plan" olarak çıktı ve COLBK Playfield etrafında sınır olarak verilir. Grafik veya motif piksel arka (genellikle COLPF2) renk bileşeni ile karışık COLPF1 sadece parlaklık bileşeni kullanarak çıkış vardır.
+Oyuncular / Füzeler, Beşinci Player ve yukarıdaki öncelik grafiğe göre COLPF2 çalışmaları arasında öncelikli ilişki. Bu nedenle, yüksek öncelikleri ile oyuncu / Füze "arka plan" rengi olarak COLPF2 yerini alacak. istisna glif ya da grafik piksel için kullanılan COLPF1 olduğunu. COLPF1 her zaman en yüksek önceliğe sahiptir ve oyuncular veya füzeler tarafından gizlenmiş edilemez. Oyuncular / Füzeler ve Beşinci Oyuncu COLPF2, glif üzerinde önceliğe sahiptir Nerede / grafik piksel yüksek öncelik renk renk bileşenini (Player veya Füze) ve COLPF1 parlaklığı bileşenini kullanın. Oyuncu / Füze öncelikli çatışmalar "arka plan" için de geçerlidir siyah neden nerede COLPF1 pikseller için bu davranış da tutarlı olduğunu unutmayın. Sonuç olarak, renk değeri CTIA / GTIA nihayet "arka plan" color "renk tonları" COLPF1 ön glif / grafik piksel için kullanır.
+VDELAY $ D01C yaz.
+Dikey Gecikme P / M Grafik
+Bu kayıt Çift Hat oyuncu / Füze çözünürlüğü Antic en DMACTL kayıttaki etkin olduğunda tek satırlı hareketini sağlamak için kullanılır. Bu GRAF * bile tarama çizgileri üzerinde kaydeder için, ANTİK DMA güncelleştirmeleri maskeleme bir tarama satır aşağı kaydırmak için grafik desen yol açarak çalışır.
+Tek Hat çözünürlük her tarama hattı ve VDELAY maskeleri bile tarama hatlarda güncellemeler üzerinde ANTIC DMA güncelleştirmeleri gerektirdiğinden, daha sonra bu biraz Çift hat Tek satır oyuncu / Füze çözünürlüğü azaltır.
+GRACTL $ D01D yaz.
+Grafik Kontrol
+GRACTL ANTIC adlı oyuncu / Füze DMA veri CTIA / GTIA en makbuz kontrol eder ve Joystick tetik girişi modunu değiştirir.
+Oyuncu / Füze DMA veri Makbuz CTIA / GTIA verileri almak için yapılandırılmış olması gerekir. Bu oyuncu veri ve Füze veri göndermek için bu direkt Antic kayıt Antic en DMACTL bit bir çift maç GRACTL bit bir çift ile yapılır. GRACTL en Bit 0 Füze veri transferi sağlayan DMACTL en Bit 2 tekabül eder. GRACTL en Bit 1 Oyuncu veri transferi sağlayan DMACTL en Bit 3 tekabül eder. Bu bitler DMA aracılığıyla antik gelen oyuncu / Füze verileri almak için GTIA için ayarlanmış olması gerekir. Oyuncu / Füze grafik işlemci tarafından doğrudan işletilmektedir zaman sonra bu bit kapalı olmalıdır.
+joystick tetik defterleri gerçek zamanlı preslenmiş / değil preslenmiş devlet bildirmektedir. Bir programın giriş yoklama anlık joystick düğmesine basılmasını yakalamak için yeterli sık olmayabilir, o zaman tetikleyiciler kapalı / preslenmiş halde kilit konumuna ayarlanmış ve düğme bile yayımlandıktan sonra o durumda kalır edilebilir. Ayar GRACTL Bit 2 Tüm tetikler kilitlemeyi sağlar. Biraz Takas mandallanmamış, gerçek zamanlı davranış tetikler döndürür.
+HITCLR $ D01E yaz.
+Temizle Çarpışmalar
+Bu kayıt için herhangi bir yazma tüm oyuncu / Füze çarpışma algılama bitleri temizler.
+Diğer CTIA / GTIA İşlevleri.
+Joystick Tetikleyicileri.
+TRIG0 $ D010 Oku.
+GÖLGE: STRIG0 0.284 $
+Joystick 0 tetik
+TRIG1 $ D011 Oku.
+GÖLGE: STRIG1 0.285 $
+Joystick 1 tetik.
+TRIG2 $ D012 Oku.
+GÖLGE: STRIG2 0.286 $
+Joystick 2 tetik.
+TRIG3 $ D013 Oku.
+GÖLGE: STRIG3 0.287 $
+Joystick 3 tetik
+Bit 7 1'den hep 0. Bit 0 raporları joystick tetiğin devlet vardır. Değer 1 Tetiğe basıldığında olmadığını gösterir. Değer 0 Tetiğe basıldığında gösterir.
+tetik defterleri gerçek zamanlı olarak basılması rapor. düğmesine basıldığında durum düğmesi anında açık bırakıldığında zaman.
+Tetikleyiciler basılı halde, yani kilit mandalı için yapılandırılmış ve özellikle de temizlenir kadar bu şekilde devam edilebilir. GRACTL Bit 2 tüm tetikleyiciler için mandal davranışı sağlar. GRACTL Biti tüm gerçek zamanlı davranış tetikler 2 döner silinmesi.
+PAL $ D014 Oku.
+PAL bayraklar.
+Bu kayıt sistemi için ekran standardını bildirir. Bit 3-0 1 olarak ayarlandığında (değer $ fhex / 15dec) sistemi NTSC çalışıyor. Bitler sıfır olduğunda sistemi PAL modunda çalışıyor.
+CONSPK $ D01F yaz.
+Konsol Hoparlör
+Bit3 Atari 800/400 iç hoparlörü kontrol eder. Daha sonra modellerde Konsol hoparlör çıkarılır ve ses monitör bağlantı ve RF adaptöre çıkış düzenli POKEY ses sinyalleri ile karıştırılır. Atari OS çıkışına klavye tıklayın ve çan / zil sesi konsol hoparlör kullanır.
+İşletim Sistemi Dikey Blank rutini sırasında hoparlör bitini ayarlar. Defalarca Dikey Boş sıfırlar olarak değer 60 Hz uğultu sesi üretecek bit 0 yazma. Faydalı sesleri etkin bir ses tonlarını korumak için CPU zamanı gerektiren bir kanala olsa, beşinci ses kanalı ekleyerek 6502 kodu kullanılarak oluşturulabilir.
+CONSOL $ D01F Oku.
+Konsol Anahtarları
+Biraz Seç ve Opsiyon, özel konsol tuşlarının her birinin durumunu bildirmek Başlat atanır. Bit değeri 0 bir tuşa basıldığında belirtir ve 1 tuşuna basıldığında olmadığını gösterir. Anahtar / Bit değerler:
+Oyuncu / Füze Grafik (sprite) Çalışma.
+Bir donanım "sprite" Sistem CTIA / GTIA tarafından işlenir. Böyle bir yer "oyuncu" ve onun silah, "füzeler" olarak hızlı hareket eden nesneler için ekran belleğini işlemek ihtiyacını azaltmak üzere tasarlanmıştır beri sprite sistemi için resmi ATARI ismi, "oyuncu / Füze Grafik" dir Oyunu 'em up vur.
+Bir oyuncu 8 piksel genişliğinde ve 256 TV satır boyunda aslında bir glif ve iki renk vardır: Arka plan (transparent) (glif içinde codice_1) ve önplanı (codice_2). Bir Füze nesnesi benzer, ancak sadece 2 piksel genişliğinde. CTIA / GTIA altındaki Playfield pikselli "ön planda" oyuncu / Füze nesnelerin piksel karıştırır ve değişiklik olmaksızın arka plan rengi "arkasında" bir piksel (yani, ana ekran) görüntüler. Tüm oyuncu / Füze nesnelerin Normal piksel genişliği tek renk saat. Bir kayıt değeri 1'e, 2 Player veya Füze piksellerin genişliğini ayarlamak veya geniş 4 renk saatler olabilir.
+CTIA / GTIA tarafından oyuncu / Füze uygulaması TIA en benzer. Bir oyuncu otomatik olarak her bir tarama hattı için veya desen kayıttaki değiştirilinceye kadar tekrarlar belirli bir yatay konumda bir 8-bit değeri veya kalıptır. Füze 2-bit genişliğinde ve dört 2-bit genişliğinde değerleri 8-bit genişliğinde desen kayıt işgal böylece, tek desen kayıt paylaşabilir, ancak her füze bağımsız yatay konumunu ve boyutunu vardır. Oyuncu / Füze nesneleri ekran sınırına dahil ekranın yüksekliğini genişletmek. Bu CTIA / GTIA tarafından oyuncu / Füze grafik varsayılan uygulama ekranında aşağı şerit olduğunu olduğunu. Görünüşte sınırlı bu yöntem veriyor olsa da oyuncu / Füze grafik alternatif renkli dikey sınırları veya ayırıcılar bir ekranda ve olarak kullanılmak üzere öncelikli değerleri Playfield piksel arkasında oyuncu / Füze piksel koymak için ayarlandığında bir ekrana ek renkler eklemek için kullanılabilir . Tüm Oyuncular ve Füze maksimum genişliği ayarlanır ve tüm normal genişliği Playfield anlatabileceğiniz yan yana yerleştirilmiş.
+CTIA / GTIA oyuncu / Füze rengi kontrol çeşitli seçenekler destekler. ÖNCEKİ / GPRIOR register değeri iki renkli ekran seçenekleri-her Füze (0 ila 3) ilişkili Oyuncu nesnesinin rengini (0-3) ifade veya tüm Füzeler COLPF3 / color3 kayıt rengini göstermek arasında dört Füze geçiş yapabilirsiniz. Füzeler benzer renkli zaman onlar beşinci oyuncu olarak tedavi edilebilir, ancak ekranda doğru yerleştirme hala dört Füze Yatay Konum yazmaçlarda değerleri saklamak gerekir. / ÖNCEKİ GPRIOR de mevcuttur nesnelerin sayısını azaltarak pahasına çok renkli Oyuncu nesneler sağlayan üçüncü bir renk oluşturmak için iki Oyuncular örtüşen piksel neden olan bir özellik kontrol eder. Son olarak, ÖNCE / GPRIOR Playfield piksel vs oyuncu / Füze piksel ("öncelikli" olarak adlandırılır) katman ön / arka planı değiştirmek için kullanılabilir, ve tahmin edilebileceği görüntülenen renkleri etkileyen öncelikli çatışmalar oluşturabilirsiniz.
+dikey değişir da oyuncu / Füze grafik sistemi yerleşik bir görüntü / deseni ile bir sprite geleneksel fikir. ANTİK çip ekranı oluşturulur otomatik olarak CTIA / GTIA yeni piksel kalıplarını beslemek için DMA gerçekleştirmek için bir özellik içerir. Bu, her bir tarama hattı ya da bir ya da iki tarama hat boyunda oyuncu / Füze piksel ile sonuçlanan her bir çizgi taraması için de yapılabilir. Bu şekilde oyuncu / Füze nesne ekranın yüksekliği ile, bir yazı, 8 bit / piksel genişliğinde son derece uzun boylu bir karakter düşünülebilir.
+Oyuncu / Füze yatay nesneleri CTIA / GTIA bir kayıt değiştirme gibi basit hareketli (Atari BASIC, tek bir POKE deyimi yatay bir oyuncu ya da füze taşır). Ya da tüm oyuncu / Füze bitmap (128 veya 256 bayt) çevirerek dikey Player veya Füze bitmap yeni bir konuma glif tanımını hareket ya blokta elde bir nesneyi taşıma. tüm bitmap kötü durumda rotasyon sprite tam 128 veya 256 byte uzunluğunda olduğu 6502 8080 bulunan bir blok hareket talimat yoksun olsa da, hala 6502 makine dili oldukça hızlı, indeksleme kolayca yerleştirilebilir 6502. Atari BASIC bir bayt çapında kayıt TEMEL PEEK (kullanarak yüksek hızlı bir bellek hareket komutu ve hareketli bellek yoksun) lar ve POKE (ler) acı yavaş. Oyuncu / Füze grafik kullanarak Atari TEMEL programları yüksek hızlı bellek hamle gerçekleştirmek için başka seçenekler var. Bir yöntem bellek hamle yapmak için USR () fonksiyonu ile kısa bir makine dili yordamını çağırıyor. Başka bir seçenek oyuncu / Füze bellek haritası olarak büyük bir dize kullanarak ve makine dili hızında bellek hareketinin neden dize kopya komutları gerçekleştiriyor.
+Atari donanım diğer grafik özellikleri ile oyuncu / Füze grafik dikkatli kullanılması grafik programlama, özellikle oyunlar, önemli ölçüde daha basit yapabilirsiniz.
+GTIA Donanımlar.
+GTIA çip CTIA ile geriye dönük uyumludur ve 14 "normal" ANTİK Playfield grafik modları için 3 renk yorumlarını ekler. özel programlama teknikleri kullanılmadığı sürece CTIA çip normal renk yorumlama Harita modlarında 4 renk veya Metin modları (artı oyuncu / Füze grafikleri için 4 renk) 5 renk maksimum, scanline başına sınırlıdır. GTIA üç yeni renk yorumlar 56 grafik modları (dört olası renk yorumların ile çarpılır 14 ANTIC modları) teorik toplam sağlamak. Ancak, yüksek çözünürlüklü dayalı sadece grafik modları, 1/2 renk saat piksel (yani, Antik metin modları 2, 3, ve grafik modu F) tamamen bu 3 yeni renk yorumların renk paletleri ifade yeteneğine sahiptirler. üç ek renk yorumlar 16 renk değerlerinden biri bir pikseli oluşturmak için iki renk saatler (dört bit) bilgileri kullanın. Bu yatay 16 renk ve 80 piksel, piksel başına 2 renk modu satır başına 320 piksel yatay bir tarama hattından bir mod F ekranı değiştirir. ek renk yorumlar aşağıdaki verir:
+Bu modların, Atari TEMEL Grafik 9, özellikle dikkat çekicidir. Onların düşük çözünürlükte olmasına rağmen zaman çok etkileyici gri ölçekli dijital fotoğraf görüntülemek için Atari sağlar. Ayrıca, diğer grafik modlarında tek bir renk tonu yerine 8 tondan 16 tonu mevcut izin vererek, bu Atari Ne yazık ki, bu özellik sadece bu modda kullanılmak üzere sınırlandırılmıştır 256 kadar 128 görüntüleyebilir farklı renk miktarını artırır hangi nedeniyle düşük çözünürlük yaygın olarak kullanılan değildi.
+Antic 2 ve 3 Metin modları GTIA en alternatif renk yorumların kullanırken modu F grafik aynı renk aralıklarını görüntüleme yeteneğine sahiptir. Piksel azaltılması da geçerlidir ve geniş 2 piksel genişliğinde içine 8 piksel, 2 renk metin döner olduğundan Ancak, 16 renk blokları bu modlar asıl metin için uygun değildir ve bu nedenle bu grafik modları demolar dışında popüler değil. Metin modları ile GTIA renk yorumlama özelliğinin etkin kullanımı piksel gibi karakterler tedavi bir özenle inşa karakter kümesi gerektirir. Bu yöntem genellikle sadece 2K kullanmak yerine RAM 8K işgal edecek bir belirgin GTIA "yüksek çözünürlüklü" grafik modu görüntülemeye izin (ekran RAM ve ekran listesi için karakter seti için 1K ve 1K).
+GTIA ayrıca grafik "yarım renk saat" tarafından yanlış hizalanmış olması nedeniyle CTIA bir hata düzeltildi. düzeltmenin yan etkisi yüksek çözünürlüklü siyah beyaz modlarında renk eserler dayanıyordu programların farklı renk çifti göstermek olacağını idi.
+Kendi makine TEMEL komuta codice_3 yürüterek CTIA veya GTIA ile donatılmış olup olmadığını Atari sahipleri belirleyebilir. Ekran yürütülmesinden sonra kararıncaya, makine yeni GTIA yongası ile donatılmıştır. Mavi kalırsa, makine yerine CTIA çip bulunuyor.
+Bugs.
+Doğu Avrupa pazarı için yapılan son Atari XE bilgisayarlar Çin'de inşa edildi. Değilse tüm Birçok adamcağız PAL GTIA çip var. luma Grafik 9'da değerler ve yüksek çizgiler gibi görünen, fay altındadır. Çip değiştirme sorunu giderir. Ayrıca, bazı dış devre ile hatalı GTIA cips düzeltmek için girişimlerde bulunulmuştur.
+Sınırlamalar.
+yazılım tarafından atlatılabilir bazıları donanım / özellik kısıtlamaları özeti aşağıdaki (görüntüleme listesi keser veya görüntüleme çekirdekler.):
+Ekran jeneratör yatay aralık $ $ DDhex / 221dec için 22hex / 34dec içindeki pikselleri çıktılar. (188 renk saatler genişliğinde). Bu aralığın dışında oyuncu / Füze piksel oluşturulmaz ve böylece çarpışmalar kayıt yok.
+Dört Oyuncu genişliğinde 8 bit nesneleri ve dört Füze tarama hat başına 2 bit genişliğinde nesneleri.
+Bir oyuncu / Füze bit 1, 2, ya da geniş 4 renk saatler olabilir.
+Ek GTIA renk yorumlama modları ANTIC Playfield grafik her türlü etkin olabilir iken, renk yeteneği tam kapsamlı sadece yüksek çözünürlüklü dayalı ANTIC modlarda mevcut, 1/2 renk saat piksel (yani, ANTIC metin modları 2, 3, ve grafik modu F).
+Renk paleti normal renk yorumlama modu için 128 renk (16 renk tonları 8), ve GTIA 8 $ ve $ C (TEMEL GRAFİK modu 10 ve 11) modları.
+Renk paleti GTIA renk yorumlama modu için 256 renk (16 renk tonu 16) 4 $ (TEMEL GRAFİK modu 9) 'dir.
+9 renk defterleri mevcut dört Playfield piksel Oyuncular / Füzeler, dört içindir, ve bir kayıt (COLPF3) Playfield ve Beşinci Oyuncu seçeneği ile paylaştı.
+Oyuncu / Füze ve Playfield renkleri birleştirme Öncelikli seçeneği ile kombine Çok Renkli Oyuncu seçenekleri tarama hat başına 23 renk üretir.
+GTIA piksel renk yorumlama modunda 8 $ ($ F $ 0) 16 değerlerine sahip iken (TEMEL GRAFİK modu 10) renk kayıt başına sadece 9 piksel değerleri-birini kullanabilirsiniz.

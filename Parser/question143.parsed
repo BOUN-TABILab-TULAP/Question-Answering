@@ -1,0 +1,18 @@
+1	Dayk	Dayk	Noun	Prop	A3sg|Pnon|Nom	16	SUBJECT	_	_
+2	batolit	batolit	Noun	Prop	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	ve	ve	Conj	Conj	_	4	COORDINATION	_	_
+4	sill	sill	Noun	Prop	A3sg|Pnon|Nom	5	OBJECT	_	_
+5	gibi	gibi	Postp	Postp	PCNom	16	MODIFIER	_	_
+6	şekiller	şekil	Noun	Noun	A3pl|Pnon|Nom	16	SUBJECT	_	_
+7	magmanın	magma	Noun	Noun	A3sg|Pnon|Gen	13	SUBJECT	_	_
+8	nerede	nere	Pron	QuesP	A3sg|Pnon|Loc	13	LOCATIVE.ADJUNCT	_	_
+9	_	katı	Adj	Adj	_	10	DERIV	_	_
+10	_	_	Verb	Verb	Become|Pos	11	DERIV	_	_
+11	katılaşarak	_	Adv	Adv	ByDoingSo	13	MODIFIER	_	_
+12	_	oluş	Verb	Verb	_	13	DERIV	_	_
+13	_	_	Verb	Verb	Caus|Pos	14	DERIV	_	_
+14	oluşturduğu	_	Adj	APastPart	P3sg	16	MODIFIER	_	_
+15	_	şekil	Noun	Noun	A3sg|Pnon|Nom	16	DERIV	_	_
+16	şekillerdir	_	Verb	Zero	Pres|A3pl|Cop	17	SENTENCE	_	_
+17	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,11 @@
+1	Depremler	deprem	Noun	Noun	A3pl|Pnon|Nom	2	SUBJECT	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	tsunami	tsunami	Noun	Noun	A3sg|Pnon|Nom	4	OBJECT	_	_
+4	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	9	LOCATIVE.ADJUNCT	_	_
+5	nasıl	nasıl	Adj	Adj	_	7	MODIFIER	_	_
+6	bir	bir	Det	Det	_	7	DETERMINER	_	_
+7	ilişki	ilişki	Noun	Noun	A3sg|Pnon|Nom	9	OBJECT	_	_
+8	_	var	Verb	Verb	_	9	DERIV	_	_
+9	vardır	_	Verb	Verb	Caus|Pos|Imp|A2sg	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

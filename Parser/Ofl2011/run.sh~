@@ -1,0 +1,5 @@
+#!/bin/bash
+
+dir=.
+
+./lookup ./tfeaturesulx.fst < $1 > $2

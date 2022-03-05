@@ -1,0 +1,414 @@
+Pentagram haritası
+Matematikte, pentagram haritası yansıtmalı düzlemde çokgen modülü uzay ayrık dinamik bir sistemdir. pentagram haritası, belirli bir poligonu alır çokgenin kısa köşegenlerinin kesişim bulur ve bu kavşakları yeni bir çokgen oluşturur.
+Richard Schwartz 1992 yılında kağıt genel poligon için pentagram haritası tanıtıldı
+öyle görünüyor olsa da bu özel durum, hangi
+Harita sadece geri Alfred Clebsch bir 1871 kağıt ve Theodore Motzkin bir 1945 kağıda gider beşgen için tanımlanır.
+pentagram harita Desargues Teoremi ve Poncelet en porism altında yatan yapıların ruhu içinde benzer. Bu ilgilendiren Branko Grünbaum bir varsayım altında yatan gerekçe ve inşaat yankıları
+Bir poligonun köşegeni.
+Haritanın tanımı.
+Temel yapı.
+Pentagram haritası altında P görüntü çokgen P köşeler FORMULA_1 tarafından verildiğini varsayalım
+Şekilde gösterildiği gibi formula_2 köşe çokgen S. İşte köşegenlerinin kesişme formula_3 olduğunu
+formula_4 ve formula_5, vb.
+Temel düzeyde bir düzlemde konveks çokgen üzerinde tanımlı bir operasyon olarak pentagram haritası düşünebilirsiniz. Daha itibaren
+bakış sofistike nokta,
+beş köşeli haritası alanda bu Resim fazla yansıtmalı düzlemde bulunan bir çokgen için tanımlandığı gibidir
+köşeler yeterince genel bir konumda bulunmaktadır.
+pentagram haritası projektif dönüşümler ile değiştirilirse ve böylece bir eşleme neden olur
+çokgen projektif denklik sınıflarının modülleri alanı.
+Etiketleme sözleşmeler.
+Harita formula_6 anlamda biraz sorunlu olduğunu
+P-köşeler endeksleri endeksleri ise doğal olarak garip tamsayılar
+Q-köşeler bile doğal olarak
+tamsayılardır. Etiketleme daha geleneksel bir yaklaşım etiket olacaktır
+Aynı parite tamsayılar tarafından P ve Q köşeler. Biri bu düzenleyebilirsiniz
+Ya ekleme veya Q-köşe endeksleri her birinden 1 çıkarılarak.
+Ya seçim eşit kanonik olduğunu. Bir daha geleneksel bir seçim
+, ardışık tamsayılar tarafından P ve Q köşeleri etiket olurdu ama
+Yine bu labellings hizalamak nasıl 2 doğal seçenek vardır:
+Ya formula_7 formula_8 sadece saat yönünde olduğunu
+ya da sadece saat yönünün tersine. Konuyla ilgili en gazetelerde, bazı seçim
+Daha sonra kağıt ve başında bir kez ve için tüm yapılır
+formüller bu seçim ayarlanmıştır.
+Köşelerini etiketlemek için mükemmel doğal bir yolu yoktur
+ardışık tamsayılar tarafından pentagram haritasının ikinci yineleme. Için
+Bu nedenle, pentagram haritanın ikinci yineleme daha
+Doğal olarak etiketlenmiş çokgen üzerinde tanımlı bir yineleme olarak kabul.
+Şekle bakınız.
+Twisted çokgenler.
+pentagram haritası da büyük alan üzerine tanımlanır
+bükülmüş çokgenler.
+Bir bükülmüş gon-N bi-sonsuz dizisi
+Projektif dönüşüm modülünün N-periyodik projektif düzlemde noktalar
+Yani bazı yansıtmalı dönüşüm M taşır, bir
+formula_8 Tüm k formula_10 etmek.
+Harita M bükülmüş N-gon ve monodromy denir.
+M kimliği olduğunda, bunun bir N-gon yorumlanabilir bükümlü
+Sıradan bir olan köşeler listelenmiştir N-gon olarak
+defalarca dışarı. Böylece, bükülmüş N-gon bir genelleme olduğunu
+sıradan bir N-gon.
+İki bükülmüş N-gons bir projektif dönüşüm eğer eşdeğerdir
+diğer bir taşır. miyarları alanı
+bükülmüş N-gons denklik sınıflarının kümesi
+bükülmüş N-gons. bükülmüş N-genler uzay içerir
+bir alt çeşitli sıradan N-genler uzay
+ko-boyut 8.
+İlköğretim özellikler.
+Beşgen ve altıgen Eylem.
+pentagram harita beşgen bir modülü uzay kimliktir.
+Bu her zaman taşıyan bir projektif dönüşüm olduğunu söylemektir
+pentagram haritası altında görüntü beşgen.
+Harita formula_11 etiketli mekan kimliği
+altıgenler.
+İşte T pentagram haritası, ikinci yineleme olan
+Yukarıda tarif edildiği gibi, etiketli altıgen doğal olarak hareket eder. Bu
+altıgenler formula_12 söylemek ve
+eşdeğerliğini formula_13 olan bir etiket koruyucu
+yansıtmalı dönüşüm. Daha kesin,
+olan formula_14 ve formula_15 altıgenler
+formula_14 etiketli Yansıtmalı eşdeğer
+altıgen 3 ile etiket kaydırarak formula_12 elde.
+Şekle bakınız.
+Bu gerçeği de bilinmektedir ki tamamen mümkün görünüyor
+19. yüzyılda.
+beşgen ve altıgen üzerine pentagram haritası eylem ruhu benzer
+Böyle Pascal teoremi olarak Projektif geometri klasik yapılandırma teoremleri,
+Desargues teoremi ve diğerleri.
+Üstel daralma.
+pentagram haritasının yinelenir bir noktaya katlanarak hızlı herhangi dışbükey çokgen küçültmek.
+Bu çapına demek ki
+dışbükey çokgenin inci yineleme daha az
+formula_18
+sabitleri formula_19 ve
+formula_20 şekilde formula_21
+Yani, her bir nokta formula_22, sadece söz konusu kısıtlamalar karşılayan,
+indeksleri (ölçeğe kadar) bir üçgen. Bir formula_22 olduğu söylenebilir
+üçgenler ölçek denklik sınıflarının modülü alanı için koordine eder.
+Eğer mümkün olan tüm dörtgensel endeksi istiyorsanız, ya yukarı, seni ölçek ya da değil
+bazı ek parametreler gerekir. Bu yüksek boyutlu yol açacak
+moduli alanı. pentagram haritayla ilgili moduli alanı
+çokgen projektif denklik sınıflarının modülleri alanıdır. Her nokta
+Bu alanda ki iki poligon dışında bir çokgen karşılık
+birbirinden farklı görünümler aynı kabul edilir. Pentagram yana
+harita yukarıda belirtildiği gibi, bir indükler yansıtmalı geometrisine adapte
+Bu özel moduli alanı haritalama. Yani herhangi bir nokta göz önüne alındığında, bir
+moduli uzayda, sen karşılık gelen pentagram haritayı uygulayabilirsiniz
+çokgen ve almak ne yeni gelin bakın.
+pentagram haritası modüllerine ne yaptığını düşünüyor nedeni
+Uzay haritanın daha belirgin özelliklerini vermesidir. Sadece izlemek,
+geometrik, bireysel çokgen ne olur, bir dışbükey çokgen, daha sonra tekrarlanan uygulama bir noktaya çokgen küçülür söylüyorlar.
+Daha net şeyler görmek için, küçülen aile dilate olabilir
+çokgenler, böylece hepsi, diyelim ki, aynı alana sahiptir. Bunu yaparsanız,
+sonra genellikle size çokgen ailesi uzun olur göreceksiniz ve
+İnce. Şimdi en boy oranını değiştirebilirsiniz
+böylece henüz bu çokgen daha iyi bir görünüm elde etmek için. Bunu yaparsanız
+mümkün olduğunca sistematik olarak işlem, size sadece olduğunu bulmak
+moduli uzayda nokta ne olur bakarak. girişimleri
+En anlayışlı olası yolu kurşun Resmi yakınlaştırmak için
+moduli alanı tanıtımına.
+Pentagram haritası moduli alanı nasıl davrandığını açıklamak için, bir torus hakkında birkaç söz söylemek gerekir.
+Kabaca torus tanımlamak için bir yolu bir idealize halka yüzey olduğunu söylemektir.
+Başka bir yolu asteroitler video oyunu için oyun alanı olmasıdır.
+Oysa torus açıklamak için başka bir yol, bu şal ile bilgisayar ekranı olduğunu söylemek soldan sağa hem de
+ve up-to-aşağı.
+Torus bir manifold olarak matematik bilinen klasik bir örneğidir.
+Bu, biraz her noktada sıradan Öklid uzay gibi görünen bir alandır ama
+nasılsa farklı bir arada bağladım. Bir küre, bir manifold bir başka örneğidir.
+Dünya'nın düz olmadığını anlamaya insanlar bu kadar uzun sürmesinin nedeni budur; üzerinde
+Küçük ölçekler kolayca bir uçaktan bir küre ayırt edemez. Böylece, bu, birlikte
+Torus gibi manifoldlar. Yüksek boyutlu tori de vardır.
+Odanızın, özgürce gidebilirsiniz içinde asteroitler oynayan düşünebiliriz
+duvarlar ve tavan / taban, karşı tarafta dışarı haşhaş.
+Bire bir nasıl bakar pentagram haritası, ile deneyler yapabilir
+Bu haritalama çokgen modülü uzay davranır. Bir nokta ile başlar
+ve sadece harita ve üzerinde uygulanmaktadır olarak kendisine ne izleri
+Yine. Bir şaşırtıcı bir şey görür: Bu noktalar dizilmeyecektir görünüyor
+Çok boyutlu tori. Bu görünmez Tori doldurmak
+biraz yol gibi modülü uzay kadar
+Bir soğanın katmanları soğan kendisi veya nasıl doldurmak
+Bir destede bireysel kartları güverte doldurmak. Teknik beyanı
+Tori moduli alan bir yapraklanma yapmak olmasıdır.
+Tori moduli alanı yarısını boyuta sahiptir. Örneğin,
+formula_24-genler arasında modülü uzay formula_25 boyutlu ve bir
+Bu durumda tori boyutlu formula_26 bulunmaktadır.
+Tori moduli alanı görünmez alt kümeleri vardır. Bunlar
+Sadece bir pentagram haritası yapar ve bir noktaya saatler ne zaman ortaya
+Tori birini dolduruyor, yuvarlak ve yuvarlak taşıyın.
+Dinamik sistemler bu değişmez olduğu zaman Kabaca, konuşma
+Tori, onlar integrallenebilir sistemler denir.
+Bu makalede sonuçların çoğu, gerek
+O, pentagram haritasını integrallenebilir sistem olduğunu kurulması ile yapmak
+Bu Tori gerçekten var.
+tartışılan monodromy değişmezler,
+Aşağıda, Tori için denklemler haline. Poisson aparatı, aşağıda tartışılan
+çeşit yerel geometri kodlar daha sofistike bir matematik gadget
+Tori evi. Ne güzel, çeşitli nesneler tam birbirine uygun ve olduğunu
+Birlikte bu torus hareketi gerçekten var olduğuna bir kanıtı kadar ekleyin.
+Moduli alanı koordinatları.
+Çapraz oranı.
+Tüm yapılar altında yatan alan "F" olduğunda, afin hattı sadece "F" bir kopyasıdır. ilgin hattı yansıtmalı hattının bir alt kümesidir. Yansıtmalı doğrultusunda noktalarının herhangi bir sonlu liste ilgin taşındı olabilir
+Uygun bir projektif dönüşümü ile çizgi.
+Ilgin hat birinde formula_27 dört puan göz önüne alındığında
+(ters) çapraz oranını tanımlar
+Çoğu yazar çapraz oran olarak 1 / X düşünün ve bu X ters çapraz oran denir nedeni budur. ters çapraz oran yansıtmalı dönüşümler altında değişmeyen ve böylece yansıtmalı doğrultusunda puan için mantıklı. Bununla birlikte,
+Yukarıdaki formül sadece ilgin hattında puan için mantıklı.
+Aşağıda biraz daha genel set-up, çapraz oran mantıklı
+yansıtmalı uzayda herhangi bir dört doğrudaş noktaları Biri sadece tanımlar
+daha sonra uygun bir yansıtmalı dönüştürme ile yansıtmalı çizgiyle noktaları içeren ve hat üzerinde bir formül kullanmaktadır.
+Sonuç tanımlanmasında yapılan seçimler bağımsızdır.
+ters çapraz oran moduli alanı üzerinde koordinat sistemi tanımlamak için kullanılır
+Sıradan ve bükülmüş hem çokgen, bir.
+köşe koordinatları.
+Köşe değişmezler bükülmüş çokgen alanı temel koordinatları.
+P çokgen olduğunu varsayalım. P bir bayrak p P bir köşe ve L P. bitişik çizgi çifti (p L) olan
+P Her köşe 2 bayrakları katılır ve aynı şekilde P her kenarı 2 bayrakları yer almaktadır.
+Şekilde görüldüğü gibi P bayrakları, P yönelimine göre sıralanır.
+Bu şekilde, bir bayrak kalın ok ile temsil edilmektedir. Böylece, ilgili 2N bayraklar vardır
+bir N-gon.
+P bayraklarla bir "N" köşeli, olsun formula_29
+Her bayrak F, biz puan ters çapraz oranı şekilde gösterilen formula_30 ilişkilendirmek
+sola.
+Bu şekilde, tek bir iştirakçi numaraları, bir N-gon formula_31. Iki N-gons ise
+Bir yansıtmalı dönüşümü ile ilgili, aynı koordinatları olsun. Bazen
+yerine kullanılan formula_32 değişkenler
+formula_33
+Köşe değişmezler bükülmüş çokgen modülü uzay mantıklı.
+Biri bükülmüş çokgenin köşe değişmezleri, tek elde tanımlar zaman
+numaralarının 2N periyodik iki sonsuz sekansı. Bir dönem alarak
+bu dizi bükülmüş tanımlayan bir nokta ile N-gon
+formula_34 F yatan alan adıdır.
+Tersine, işaret (ölçü teorisi anlamında) hemen hemen herhangi bir
+formula_34 biri bükülmüş olan N-gon oluşturabiliriz
+Köşe değişmezler bu liste. Her zaman yol açmayacaktır Böyle bir liste
+Sıradan bir poligon; Ek 8 denklem var olan
+sıradan bir N-gon yol için liste yerine getirmelidir.
+(Ab) koordine eder.
+Bükülmüş çokgen modülü alanı için koordinat ikinci dizi var,
+Sergei Tabachnikov Valentin Ovsienko tarafından geliştirilmiştir.
+Bir vektörleri formula_36 bir sırayla tarafından projektif düzlemde bir çokgen açıklanır
+formula_37 vektörlerin her ardışık üçlü şekilde
+Birim hacme sahip bir parallelopiped uzanıyor. Bu yol açar
+ilişki
+koordinatları formula_39
+bükülmüş bir modülü alanı koordinatları olarak hizmet
+Sürece N, N-gons 3 ile bölünebilir değildir.
+(Ab) bükülmüş çokgenler arasındaki yakın benzerlik ortaya çıkarmak koordinatları
+ve 3. dereceden lineer adi diferansiyel denklemlerin çözümleri, normalize
+Birim Wronskian olması.
+Pentagram haritası için formül.
+Bir birational haritalama gibi.
+İşte pentagram haritası için bir formüldür, ifade
+köşe koordinatları.
+denklemler daha incelikle bir saniye dikkate alındığında çalışmak
+, pentagram haritanın sayesinde yineleme
+kanonik etiketleme şeması yukarıda tartışılan. İkinci yineleme
+pentagram harita kompozisyon formula_40 olduğunu.
+haritalar formula_41 ve formula_42 birational eşleştirmeleri vardır
+2 seviyesinde, ve eylemi şu var.
+nerede
+Bu koordinatlarda, pentagram haritası formula_34 bir birational haritalama
+Izgara uyumluluk ilişkileri gibi.
+pentagram haritası için formül uygun yorumlanması olarak vardır
+üçgen ızgara kenarlarında labelings için belli bir uyumluluk kuralı,
+Şekilde gösterildiği gibi. Bir çokgenin bu yorumunda, köşe değişmezler
+P etiketi sonra yatay olmayan yatay olmayan tek bir satır kenarları ve
+sonraki satır kenarları köşe değişmezleri ile etiketli
+formula_50,
+formula_51,
+formula_52,
+ve benzeri. Uyumluluk kuralları
+Bu kurallar tüm yapılandırmalar için tutmak içindir
+şekilde gösterilen olanlar uyumlu.
+Bir başka deyişle, ilişkilerde katılan rakamlar olabilir
+olası tüm pozisyonlarda ve yönlerde.
+Yatay kenarlarında etiketler sade
+tanıtılan yardımcı değişkenler formüller kolaylaştırmak için.
+Yatay olmayan kenarlarının tek sıra halinde temin edildiğinde,
+Kalan satırlar benzersiz belirlenir
+uyumluluk kuralları.
+Değişmeyen yapılar.
+Köşe ürünlerini koordinat.
+Bu, köşe koordinatları açısından, pentagram harita için formül doğrudan izler
+İki miktarlarda bu
+pentagram haritası altında değişmezdir.
+Bu gözlem, yakın Joseph Zaks 1991 kağıt ile ilgilidir
+"N" = 2 "k" bile, fonksiyonlar olduğunda
+aynı şekilde formüle doğrudan, görülür, değişmez olmak
+fonksiyonlar. Tüm bu ürünler söndürmeden
+değişmeyen göre Casimir değişmezleri olmak
+Poisson braket aşağıda tartışılan. Aynı zamanda,
+Hangi formula_57 ve formula_58 işlevleri
+monodromy değişmezleri basit örnekleri aşağıda tanımlanmıştır.
+fonksiyonun düzeyi setleri
+f sınırlı zaman kompakt olan formula_59
+Gerçek konveks çokgen modülleri alanı.
+Dolayısıyla, her yörünge
+Bu alan üzerinde hareket eden pentagram haritası kompakt bir kapatma vardır.
+Ses formu.
+pentagram harita, bir modülü uzay X hareket edildiğinde
+dışbükey çokgenler, bir değişmeyen ses formu vardır.
+Daha önce de belirtildiği gibi, aynı zamanda, işlevi formula_60 var
+Kompakt seviye Bu iki özellik ile birleşerek X üzerinde setleri
+Poincaré nüks teoremi ima ki eylem
+X pentagram haritası tekrarlayan: hemen her denklik sınıfı yörünge
+dışbükey çokgen P döner sonsuz sık P. her mahalle
+Bu, projektif dönüşümler modulo, söylemek tipik bir tanesidir
+tek dolaşır olarak tekrar tekrar neredeyse aynı şekle, görür
+pentagram haritası.
+(Bu bir projektif düşündüğünü hatırlamak önemlidir
+konveks çokgen denklik sınıfları. Aslında bu pentagram haritası
+gözle görülür küçülür bir dışbükey çokgen ilgisizdir.)
+Bu tekrarlama sonucu olduğunu belirtmekte yarar var
+Aşağıda tartışılan tam integrallenebilme sonuçları sınıflandırılır.
+Monodromy değişmezleri.
+Sözde monodromy değişmezleri pentagram haritası altında değişmezdir moduli alanı üzerinde fonksiyonları bir koleksiyon bulunmaktadır.
+Monodromy değişmezleri tanımlayan yönelik bir bakış açısıyla,
+Bir blok ya tek tamsayı olduğunu söylemek
+ya da örneğin 1 ve 567 için ardışık tamsayılar, bir üçlü ile başlar, eğer bir blok garip olduğunu söyle
+bir tek tamsayı. Onlar aralarında en az 3 tamsayılar varsa iki blok iyi ayrılmış olduğunu söylüyorlar.
+Örneğin, 123 ve iyi ayrılmış değil 567 ama 123 ve 789 için de ayrılır. Demek ki bir
+garip kabul dizisi de ayrı garip bloklar halinde parçalanır tamsayılar sonlu dizisidir.
+Sette 1 bu dizileri çekerken, ..., 2 "N", kuyu ayrılık kavramı içinde ifade edilmektedir
+döngüsel anlamda. Bu durumda, 1 ve 2 N-1 de ayrılmaz.
+Her garip kabul dizisi köşe değişmezler bir monomial doğurur. Bu, en iyi açıklanmaktadır
+örnek
+işareti parite ile belirlenir
+dizisindeki tek basamaklı blok sayısı.
+monodromy değişmeyen formula_57 tüm toplamı olarak tanımlanmaktadır
+k bloktan oluşan tek bir kabul edilebilir dizilerinden gelen monomials.
+monodromy değişmez formula_58 aynı şekilde tanımlanır,
+Hatta tanımı tek yerine birlikte.
+"N" tuhaf olduğunda, "k" izin verilen değerler 1, 2, ..., ("n" - 1) / 2. "N" da olduğu zaman, k izin verilen değerler, 1, 2, ..., "n" / 2. Ne zaman "k" = "n" / 2, biri yukarıda tartışılan ürün değişmezleri kurtarır. Her iki durumda da, değişmezler
+formula_65 ve formula_66 sayılır
+monodromy değişmezleri olarak, yukarıdaki yapı tarafından üretilen olmadığı halde.
+monodromy değişmezler bükülmüş çokgen alanı tanımlanmıştır ve
+Kapalı çokgen uzayında değişmezleri vermek kısıtlamak. Onlar sahip
+Aşağıdaki geometrik yorumu. bükülmüş bir monodromy M
+poligon köşe koordinatları belli bir rasyonel bir işlevdir.
+monodromy değişmezler esas iz homojen parçalarıdır
+"M" nin.
+(Ab) 'koordinatlar cinsinden monodromy değişmezler bir tanımı bulunmaktadır. Bu koordinatlarda, değişmezler 4-diyagonal matris gibi bazı belirleyicileri ortaya çıkmaktadır.
+P (örneğin bir daire gibi) bir konik bölümünde tüm köşeleri vardır her birine sahiptir
+Tüm k formula_67.
+Poisson braket.
+Bir Poisson dirsek Leibniz Kimlik ve Jacobi kimliğini karşılayan fonksiyonlar uzayında bir anti-simetrik doğrusal operatör formula_68 olduğunu.
+Bir 2010 çalışmada,
+Valentin Ovsienko Richard Schwartz ve Sergey Tabachnikov bükülmüş çokgen alan bir Poisson dirsek üretti
+hangi pentagram haritası altında değişmez. Ayrıca monodromy değişmezler Buna göre gidip gösterdi
+braket. Bu demek ki
+Tüm endeksler için.
+İşte değişkenler açısından değişmez Poisson parantezi bir açıklamasıdır.
+Var (ab) koordinatlarında açısından açıklama aynı zamanda, ancak daha fazla
+karmaşık.
+İşte değişmeyen desteğinin alternatif bir açıklamasıdır.
+Moduli alan herhangi bir fonksiyon formula_77 göz önüne alındığında, biz sözde var
+Hamilton vektör alanı
+Tekrarlanan endeksler üzerinde bir toplamıdır nerede anlaşılmaktadır.
+Sonra
+İlk ifade vektörü alan formula_81 yönünde formula_80 yönsel türevidir.
+Pratik açıdan bakıldığında, monodromy Poisson-gidip değişmezleri gerçeği anlamına
+İlgili Hamilton vektör alanları akımlarını gidip tanımlıyorsunuz.
+Komple tümlenebilirlik.
+Arnold-Liouville tümlenebilirlik.
+monodromy değişmezleri ve değişmez dirsek kurmak için bir araya
+Uzay pentagram haritası Arnold-Liouville integrallenebilme
+bükülmüş "N" -gons evi.
+Durum garip N açıklamak için daha kolaydır.
+Bu durumda, iki ürün
+(Bu bağlamda) anlamına köşebenti Casimir değişmezler, olduğu
+tüm fonksiyonlar için f.
+Bir Casimir düzey kümesi uzayda tüm noktaların kümesi sahip olduğu
+formula_85 ve formula_86 hem belirli bir değer.
+Her Casimir düzey kümesi, yani bir iso-monodromy yapraklanma sahip bir
+Kalan monodromy fonksiyonlarının ortak seviye kümeler halinde ayrışma.
+Jenerik kalan monodromy değişmezler ilişkili Hamilton vektör alanları
+iso-monodromy yapraklanma teğet dağıtımını kapsar. Gerçek şu ki
+monodromy Invariants Poisson gidip o bu vektör alanları demektir
+akışlarını gidip tanımlar. Bunlar da akışlar çizelgeleri yerel koordinat tanımlamak
+Geçiş haritaları olacak şekilde her iso-monodromy düzeyinde
+Öklid çevirileri. Bu Hamilton vektör alanları vermek olduğunu
+iso-monodromy seviyeleri düz Öklid yapısı, onları zorlayarak
+Onlar düzgün ve kompakt manifoldlar zaman düz tori olmak.
+Bu hemen hemen her düzey kümesi için olur.
+Görünürde her şey pentagram değişmez olduğu,
+Bir iso-monodromy yaprağı ile sınırlı pentagram haritası,
+çeviri olmalı. Bu hareket, bir tür olarak da bilinir
+yarı-periyodik hareket.
+Bu Arnold-Liouville tümlenebilirlik açıklıyor.
+Symplectic geometri, Poisson bakış açısından kaynaktan
+aparatı, her Casimir bir symplectic formuna yol açar
+düzeyi ayarlayın.
+Algebro geometrik tümlenebilirlik.
+Bir 2011 ön baskı olarak,
+Fedor Soloviev pentagram haritası ile Lax temsil sahip olduğunu gösterdi
+spektral parametre ve cebirsel geometrik tümlenebilirlik kanıtladı. Bu demektir ki,
+(bükülmüş ya da sıradan ya) çokgen alanı açısından parametrelenmişse
+İşaretli noktaları ve a ile spektral eğri
+bölen. Spektral eğri monodromy değişmezler ile tespit edilir ve
+bölen spektral eğrisinin bir simit-Jacobi çeşitli üzerindeki bir noktaya tekabül eder.
+cebirsel geometrik yöntemler garanti pentagram haritası sergiler olduğunu
+Bir torus üzerinde yarı-periyodik hareket (hem bükülmüş ve sıradan vaka) ve
+Onlar izin biri, yani (Riemann teta fonksiyonları kullanarak açık çözümler formüller oluşturmak için
+zaman açık fonksiyonları gibi çokgen belirleyen değişkenleri).
+Soloviev ayrıca Krichever-Phong dan değişmez Poisson dirsek elde
+evrensel formülü.
+Diğer konulara bağlantılar.
+Oktahedral nüks.
+oktahedral nüks tanımlanan dinamik bir sistemdir
+alan oktahedral fayans köşe. Her octahedron var
+6 kesişme noktaları ve bu köşeler şekilde etiketlenir
+İşte
+formula_88 ve formula_89 etiketlerdir
+bir antipodal köşeler. Ortak kongre olduğunu
+formula_90 her zaman merkezi bir yatay düzlem üzerinde durmalıdır
+ve a_1, üst ve alt köşeler b_1 vardır.
+oktahedral nüks yakından CL Dodgson en ilgilidir
+belirleyicileri hesaplanması için yoğunlaştırma yöntemi.
+Tipik bir tane etiketler döşeme iki yatay tabakalar ve
+sonra etiketleri dinamik yayılmasına izin temel kural kullanır.
+Max Glick yinelenir formülleri bulmak için küme cebiri formalizmini kullanılan
+işaret matrisleri alternatif açısından pentagram haritasının. Bu formüller
+David P. Robbins ve Harold Rumsey tarafından bulunan formüllere ruhu içinde benzer
+oktahedral nüks dolaşır.
+Alternatif olarak, aşağıdaki inşaat oktahedral nüks ilgilidir
+doğrudan pentagram haritaya.
+Formula_91 oktahedral döşeme olalım. Let
+doğrusal projeksiyon olacak formula_92
+yapılandırmasına formula_93 her octahedron eşler hangi
+İlk resimde gösterilen 6 puan.
+Formula_91 uyarlanmış etiketleme olduğunu söylemek
+Bir etiketleme, böylece herhangi bir noktanın (sonsuz) ters görüntüdeki tüm noktalar
+formula_95 aynı sayısal etiket olsun.
+Bir uyarlanmış etiketleme uygulanan oktahedral nüks
+formula_96 bir nüks aynıdır
+hangi oktahedral nüks için aynı kural
+uyuşan noktalarının her konfigürasyonuna uygulandığı
+İlk resimde yapılandırma. Çağrı bu
+düzlemsel oktahedral nüks.
+Uyar formula_96 bir etiketleme Verilen
+düzlemsel oktahedral nüks, biri kenarları bir etiketleme oluşturabilirsiniz
+kuralı uygulayarak formula_96
+Her kenarına. Bu kural sağda rakam ifade eder
+ve her yapılandırmada için geçerli olacak olduğu
+gösterilen iki uyumlu olduğunu.
+Bu etiketleme yapılır, kenar etiketleme
+G pentagram haritası için ilişkilerini karşılar.
+Boussinesq denklemi.
+dışbükey çokgenin sürekli sınır düzleminde bir Oluşturucu dışbükey eğri olduğunu. Zaman parametresi uygun seçildiğinde, pentagram haritanın sürekli sınırı klasik Boussinesq denklemidir. Bu denklem, bir klasik örnektir
+integre edilebilir kısmi diferansiyel denklem.
+Burada Boussinesq denklemi geometrik bir eylem açıklamasıdır.
+Bir lokal konveks eğri formula_100 göz önüne alındığında, gerçek sayılar, x ve t, biz akor düşünün
+formula_101 bağlayan formula_102 için. Tüm bu akorları örtmek yeni eğridir
+formula_103. T Son derece küçük olduğunda, eğri formula_103 Boussinesq denklemi altında orijinal eğri formula_105 zaman t evrimi için iyi bir modeldir. Bu geometrik açıklama oldukça yapar
+bariz B-denklem pentagram haritasının sürekli sınırı olduğunu söyledi.
+Aynı zamanda, beş köşeli değişmeyen aparatı Boussinesq denklem ile ilişkili iyi bilinen bir değişmeyen Poisson desteğin bir ayrıklaştırma olup.
+Son zamanlarda, yüksek boyutlu pentagram haritasının genellemeler ve bağlantıları bazı işler olmuştur
+Boussinesq tipi kısmi diferansiyel denklemler için
+Projektif doğal evrimi.
+pentagram haritası ve Boussinesq denklemi örnekleridir
+projektif doğal geometrik evrim denklemleri. Böyle denklemler ortaya
+Böyle projektif geometri ve bilgisayar vizyonu olarak matematik farklı alanlarda,.
+Küme cebiri.
+Bir yazıda 2010
+Max Glick bir özel durum olarak pentagram haritası belirlendi
+Küme cebir.

@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çöküntü	çöküntü+Noun+A3sg+Pnon+Nom
+
+depremleri	deprem	+Noun+A3pl+Pnon+Acc
+depremleri	deprem	+Noun+A3pl+P3sg+Nom
+depremleri	deprem	+Noun+A3pl+P3pl+Nom
+depremleri	deprem	+Noun+A3sg+P3pl+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+meydana	meydan	+Noun+A3sg+Pnon+Dat
+
+gelmektedir	gel	+Verb+Pos+Prog2+A3sg+Cop
+gelmektedir	gel	+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

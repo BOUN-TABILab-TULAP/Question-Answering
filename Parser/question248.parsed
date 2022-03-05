@@ -1,0 +1,8 @@
+1	Güneş	güneş	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+2	_	sabit	Adj	Adj	_	3	DERIV	_	_
+3	sabiti	_	Noun	Zero	A3sg|P3sg|Nom	6	SUBJECT	_	_
+4	nasıl	nasıl	Adv	Adv	_	6	MODIFIER	_	_
+5	_	belirle	Verb	Verb	_	6	DERIV	_	_
+6	belirlenir	_	Verb	Verb	Pass|Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,242 @@
+Question: Aydınlanma çemberi yıl boyunca neden kutup noktalarıyla kutup daireleri arasında yer değiştirir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aydınlanma çemberi</DOCTITLE>
+<TEXT>
+
+Aydınlanma çemberi, dünyanın karanlık yarısı ile aydınlık yarısını birbirinden ayıran çember şeklindeki hat. 
+Dünyanın kendi ekseni etrafındaki dönüşü ve güneş etrafındaki yörüngesindeki seyahati esnasında bir yarısı güneş ışıklarıyla aydınlanırken, diğer yarısı karanlıkta kalır. Dünyanın dönüşü ve ilerleyişi nedeniyle aydınlanma çemberi de sürekli ilerlemektedir. Aydınlanma çemberi gece ile gündüz arasındaki sınırı oluşturur.
+Ekinoks.
+Dünyanın ekseni, yörüngesi ile açı yaptığı için aydınlanma ekseni sürekli olarak kutuplardan geçmez. Bunun sonucu olarak yıl içerisinde güneş her zaman aynı noktadan doğup aynı noktadan batmaz. Her yıl yaklaşık olarak 21 Mart ve 23 Eylül tarihlerinde güneş ışıkları ekvatora tam dik gelir ve aydınlanma çemberi kutuplardan geçer. Gece ve gündüzün birbirine eşit olduğu bu duruma "ekinoks" veya "gün tün eşitliği" denir.
+23 Eylül Durumu
+Kuzey ve Güney yarım küre
+Güneş ışınları öğle vakti Ekvator’a 90°lik Açı ile düşer .
+Gölge boyu Ekvator’da sıfırdır .
+Güneş ışınları bu tarihten itibaren Güney Yarım Küre’ye dik düşmeye başlar .
+Bu tarihten itibaren Kuzey Yarım Küre’de geceler, gündüzlerden uzun olmaya başlar. Güney Yarım Küre’de ise tam tersi olur .
+Bu tarih Kuzey Yarım Küre’de Sonbahar, Güney Yarım Küre’de İlkbahar başlangıcıdır .
+Aydınlanma çemberi kutup noktalarına teğet geçer. Bu tarihte Güneş her iki kutup noktasında da görülür .
+Dünya’da gece ve gündüz birbirine eşit olur .
+Bu tarih Kuzey Kutup Noktası’nda 6 aylık gecenin, Güney Kutup Noktası’nda ise 6 aylık gündüzün başlangıcıdır.
+21 Mart Durumu
+Kuzey ve Güney Yarım Küre ,
+Güneş ışınları öğle vakti Ekvator’a 90° lik açı ile düşer .
+Gölge boyu Ekvator’da sıfırdır .
+Güneş ışınları bu tarihten itibaren Kuzey Yarım Küre’ye dik düşmeye başlar.
+Bu tarihten itibaren Güney Yarım Küre’de geceler, gündüzlerden uzun olmaya başlar. Kuzey Yarım Küre’de ise tam tersi olur.
+Bu tarih Güney Yarım Küre’de Sonbahar, Kuzey Yarım Küre’de İlkbahar başlangıcıdır.
+Aydınlanma çemberi kutup noktalarına teğet geçer. Bu tarihte Güneş her iki kutup noktasında da görülür.
+Dünya’da gece ve gündüz süreleri birbirine eşit olur.
+Bu tarih Güney Kutup Noktası’nda 6 aylık gecenin, Kuzey Kutup Noktası’nda ise 6 aylık gündüzün başlangıcıdır.
+Aydınlanma çemberi ayrıca 21 Haziran ve 21 Aralık tarihlerinde kutup dairelerine teğet geçer.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerküre’Nin Hareketleri (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Günlük Hareket
+Dünya, kendi ekseni çevresinde batıdan doğuya doğru dönüşünü 24 saatte tamamlar. Buna “1 gün”, harekete ise “günlük hareket” denir. Dünyanın ekseni etrafındaki dönüşüne bağlı olarak;
+•	Gece-gündüz birbirini izler
+•	Gün içerisinde güneş ışınlarının geliş açısı değişir.
+•	Cisimlerin gölge boyları ve yönü günün saatine göre değişir.
+•	Günlük sıcaklık farkları meydana gelir, bunun sonucunda meltem rüzgârları ve mekanik (fiziksel) çözülme meydana gelir.
+•	Yerel saat farkları oluşur, doğu ve batı yönleri oluşur.
+•	Her iki yarım kürede 30° ve 60° enlemlerinde dinamik basınç alanları oluşur.
+•	Sürekli rüzgarlar (Alize, Batı, Kutup) ile okyanus akıntılarının yönlerinde sapmalar oluşur.
+2.	Yıllık Hareket
+Dünya, Güneş çevresindeki dönüşünü elips biçiminde olan yörüngeyi takip ederek 365 gün 6 saatte tamamlar. Buna “1 yıl ”, harekete ise “yıllık hareket” denir. Dünya’nın güneş çevresinde elips şeklindeki yörüngeyi takip ederek dönmesine bağlı olarak;
+•	Dünya’ nın yörüngedeki hızı değişir.
+•	Şubat ayı iki gün kısa sürer.
+•	Yarım kürelerde mevsim süreleri farklı olur.
+•	Eylül ekinoksu iki gün gecikerek 23 Eylül’de gerçekleşir.
+•	Dünya, Güneş’e yaklaşıp uzaklaşır.
+Dünya, Güneş çevresinde elips biçiminde bir yörüngede hareket eder. Bu yörüngenin oluşturduğu düzleme yörünge düzlemi (ekliptik) denir.
+Buna göre yer ekseni yörünge düzlemi arasında 66° 33’lık bir açı bulunur. Bu durum nedeniyle ekvator düzlemi yörünge düzlemi arasında da 23° 27’lık bir açı oluşur. Bu açı “eksen eğikliği” olarak ifade edilir.
+Eksen eğikliği ve yıllık harekete bağlı olarak;
+•	Güneş ışınlarının bir noktaya geliş açısı yıl içinde değişir.
+•	Güneşin doğuş ve batış saatleri ile gece-gündüz süreleri yıl içinde değişir.
+•	Aydınlanma çizgisi kutup daireleri ve noktaları arasında yer değiştirir.
+•	Mevsimler arasında basınç farkları ve buna bağlı olarak muson rüzgârları oluşur.
+•	Aynı anda farklı yanm kürelerde farklı mevsimler görülür.
+•	Matematik iklim kuşakları oluşur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yön</DOCTITLE>
+<TEXT>
+
+Coğrafi yönler, dünya üzerindeki yer ve varlıkların konumunu tanımlamakta kullanılan, dünyanın kutupları baz alınarak oluşturulmuş terimlerdir.
+Ana yönler.
+Başlıca dört coğrafi yön vardır: kuzey, güney, doğu ve batı. Bunlara "ana yönler" denir. Bir kişi yüzünü kuzeye dönerse arkası güney, sağ tarafı doğu ve sol tarafı batıdır.
+Ara yönler.
+Ana yönler arasında kalan yönleri tanımlamak için ara yönler oluşturulmuştur.Daha hassas bir tanım gerektiğinde ara yönlerin ana yönlere yakınlığına bağlı olarak ikincil ara yönler de kullanılabilir.bu ara yönler ise güney batı-kuzey batı-güney doğu ve kuzey batıdır.
+Yön tayini.
+Pusula ve uydu navigasyonu gibi araçlarla yönler hassas bir şekilde tespit edilebilir. Bunların olmadığı durumlarda yönler şu basit yöntemlerle bulunabilir:
+Yön tahmininde kullanılan en basit yöntem güneşin doğuş ve batış istikametleridir. Güneşin doğduğu istikamet doğu, battığı istikamet batıdır. Bu yöntem en hassas sonucu ekinokslarda verir.; zira ekinokslarda güneş ışıklarının ekvatora dik gelir ve aydınlanma çemberi kutuplardan geçer.
+Kutup yıldızı kuzeyi gösterir. 
+Yosunlar, ağırlıklı olarak, ağaç ve taşların kuzeye bakan yüzünde oluşurlar.
+Tepe şeklindeki karınca yuvalarının girişi (ağzı) güneye bakar.
+İbadethaneler.
+Çok eski çağlardan beri belirli standartlara uyularak inşa edilen ibadethaneler yön tayininde kullanılagelmişlerdir.
+Camilerde mihrap Kıble tarafındadır; yani yüzünü mihraba dönen (örneğin namaz kılan) bir kişinin yüzü Mekke'ye bakar. Bu yöntemle yön tayini içinde bulunulan ülke ve bölgeye göre değişiklik gösterir ve hassas değildir. Örneğin Türkiye'de kıble yaklaşık güneydoğuda iken Avusturalya'da kuzeybatıdadır.
+Kiliseler genellikle batı-doğu istikametinde uzunlamasına (ekvatora paralel) inşa edilirler. Pek çok kilisede kilise çanı binanın batı ucundadır. Hıristiyan mezarları da batı-doğu istikametine paralel hazırlanırlar.
+Sinagoglarda içinde Tevrat tomarlarının bulunduğu bölme veya dolap (Ehal) genellikle Kudüs tarafındadır. Bu yöntemle yön tayini de içinde bulunulan ülke ve bölgeye göre değişiklik gösterir ve hassas değildir. Örneğin Ankara'daki birine göre Kudüs yaklaşık olarak güneyde iken, Kahire'deki birinin doğusundadır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ansiklopedistler</DOCTITLE>
+<TEXT>
+
+Ansiklopedistler, 1731-1777 yılları arasında Fransa'da aydınlanma yıllarında Encyclopedie'yi çıkaran aydınlar. 17 ciltlik ansiklopedi, zamanın bütün bilgilerini toplar. Ansiklopedistler, bir gün dünya uygarlığı topyekun yok olsa ve insanlık herşeyi yeniden inşa etse, bu ansiklopediye başvuracaklardır diye düşünerek bunu yayımlamışlardır.
+Ansiklopedistlerin başında 990 madde yazan Diderot vardır. D'Alembert, Rousseau, Buffon, Daubenton, Marmontel, d'Holbach, Bordeu, de Jaucourt, Turgot, Quesnay, Haller, Condillac, Montesquieu, Necker, Grimm ansiklopediye yazan düşünür, sanatçı ve bilimcilerdir.
+18. yüzyılda ansiklopedistler burjuva devrimleri sırasında ortaya çıktılar. Otoriterciliğe karşı çıktılar. Newton ve Locke'u baştacı ettiler. Bilimcilik, akılcılık, deneycilik şiarları oldu. Hümanist, seküler, din dışı, modern bir yazma yöntemi uyguladılar. Mısır, Siyam, Çin gezilerinde bu insanların dindar olmayışlarına karşı erdemli olduklarını gördüler. Bütün insanlarda sağduyu düzeyinde saf bir iman olduğunu keşfettiler. Doğal din dedikleri buydu. 
+Ayrıca bakınız.
+Vakıf (roman)
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alsas</DOCTITLE>
+<TEXT>
+
+Alsas ya da Alzas (Fransızca: "Alsace" [];Almanca: "Elsass" ya da "Elsaß"), Fransa'nın 26 bölgesinden biridir. Yukarı Ren nehri'nin batı kıyılarında Fransa'nın doğu sınırında bulunan Alsace bölgesi Almanya ve İsviçre ile komşudur.
+Alsace Kutsal Roma İmparatorluğu'nun bir parçasıydı ve hâlen Yukarı Almanca lehçesiyle konuşanların yerleşik olduğu bir bölgedir. 17. yüzyılda Alsace Fransa buyruğu altına girmiş ve eyaletlerinden biri olmuştur. Merkezi aynı zamanda en büyük şehri de olan Strazburg'tur. Alsace genellikle Lorraine ile birlikte anılır çünkü bu iki bölge (Alsas-Loren olarak) 9. yüzyılda Şarlman'ın halefleri arasında yapılan paylaşma sonrasında tarih boyunca anlaşmazlıklara neden olmuştur.
+Kültür.
+Alsace bayrağı.
+Tarihi Alsace bayrağı iki yatay banttan oluşur: yukarıda kırmızı ve aşağıda beyaz. 19. yy.da yayılmıştır. Kaynağı Alsace kent ve soylu armalarında en çok kırmızı ve beyaz rengin kullanılmasıdır. 1871-1918 döneminde özellikle Prusya merkezîyetçilerine karşı bir tutum olarak bayrağın Alsace'ın sembolü olması kabul görmüştür. 25 Haziran 1912 Alsace-Lorraine parlamentosu bu bayrağı ulusal sembol olarak kabul eder. Günümüzde bu bayrağın karşısına tarihî geçmişi olmayan ve yakın geçmişte üretilen yeni bölge bayrağı konulmuştur. Alsace bayrağı Alzas lehçesinde ""Rot un Wiss"" (kırmızı ve beyaz) olarak adlandırılır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Balık kartalı</DOCTITLE>
+<TEXT>
+
+Balık kartalı ("Pandion haliaetus"), monotipik balık kartalıgiller (Pandionidae) familyasından balıkla beslenen yırtıcı bir kuş türü. İri, uzun kanatlı, suya dalarak avlanan bir avcıdır.
+Osprey sözcüğü, Latince "Kemik Kıran" anlamındaki ossifragus'dan gelir. Pandion, mitolojideki Athena'dan, haliaetus Yunanca "Deniz" ve "Balık" sözcüklerinden ("Hals" ve "aetus") gelir.
+Özellikleri.
+Suya dalabilen tek yırtıcı kuştur. Beyaz gövdesiyle ve özgün uçuşuyla hemen tanınır. Alttan kanat örtüleri ve gövdesi beyaz, el bileği lekesi koyu renklidir. Kanatları uzundur, el bileğinden aşağı kıvrık tutulur, önden bir martı gibi m şekli oluşturur. 
+Balık kartalı iyi bir balık avcısıdır. Dalarak pençesiyle balık yakalaması görülmeye değerdir. Sıklıkla asılı kalarak, bazen süzülerek avlanır. Genellikle tamammen suyun içine girer. Su derinliğinden yaklaşık 1 metre derine dalabilirler. Yakaladığı balığın kafasını öne doğru tutar. Hemen hemen sadece balıkla beslenir. Diyetinde kurbağa, yılan gibi yiyecekler olabilir. Her zaman suya yakında bulunur, sadece göç sırasında uzaklaşır. Üreyen bireyler avlanma sırasında yuvadan 14 km uzaklaşabilir. Üremeyen bireyler 10 km alanda beslenebilirler. Yuvaları genelde deniz kenarına yakındır, sıklıkla da kuru ağaç tepelerindedir. Bazen yerde, sığlık bir adacıkta yuva yapabilirler.
+Ötüşü ince ve yumuşak bir 'pip-pip-pip'dir.
+Tüyleri.
+Normalde koyu renkli olan tüylerinin tamamı beyaz olduğu bireyler rapor edilmiştir. Fransa ve Kuzey Amerika'da melanist bireyler de gözlemlenmiştir. 
+Yaz ve kış boyunca tüy değiştirir, göç sırasında bunu durdururlar. Yırtıcılarda tipik olarak tüy değişimleri her yıl tüm primerlerde olur. Sekonderler genellikle iki yılda bir yenilirler. Yeniler ve sonraki sekonderlerin boyları aynıdır. Yaşlı kuşlarda tüy değişimi asimetrik ve rastgeledir. Gençlerde tüy değişimi kışın 5-7 aylık olduklarında başlar.
+Uçuş.
+Oldukça esnek kanatlarıyla, düzenli, sığ ve yavaş kanat vurarak güçlü bir uçuşu vardır. Süzülerek yükselirken ve kayarak uçarken kanatlarını martı gibi bükük tutar. Vücut düzeyinin altnıda tuttuğu kanatlarını el bileğinden öne kaldırır, kanat uçlarını sivri şekilde aşağı ve geriye doğru tutar. Süzülerek yükselirken bazen kanatlarını düz tutar. Suyun üzerinde avlanırken sıklıkla havada asılı kalır.
+Yaşam şekli.
+Bir martı gibi uçar, avlanırken sıkça havada asılı kalır, suya tamamen dalan tek yırtıcı kuştur. Çoğu kez elektrik direklerine ve ölü ağaçlara tüner. Tüm Dünya'da yayılmıştır ve suyun yakınındaki (göller, nehirler, deniz kıyıları)nda bulunurlar. Başlıca üreme noktaları Avrupa'dır. Az sayıda lokal olarak İskoçya, Orta Avrupa, Portekiz'in güneybatı noktalarıdır. Kanarya adalarında üreme kolonileri vardır.
+Yaşama alanı.
+Kışın büyük ve tatlı acı göller, lagünler ve deniz kıyısında bulunur. 
+1960 larda balık kartalı popülasyonu DDT kullanımı sonrasında azalmıştır.DDT kullanımı yumurtadaki kalsiyum içeriğini ve kabuk kalınlığını azaltmıştır ve kolayca kırılmasına neden olmuştur.DDT kullanımının kısıtlanmasıyla yeniden popülerliği artmıştır. Yapay yuvaların kullanılması üreme başarısını %45.9’dan %62.9’a çıkarmıştır.
+Yumurta, kuluçka, tüylenme.
+Göl ve nehirlerin çevresindeki ormanlık ve turbalık arazide ve kayalık adalarda ürer, ağaç tepelerinde ya da zeminde yuva yapar. Balık kartalları genellikle tek eşlidir. Bazen bir erkek iki dişi olabilir. Bir erkek, iki yuva görülür. Göçmen bBalık kartallarının çoğu Nisan-Mayıs ayları başında 2-4 yumurta yaparlar (Kur dönemi mart sonu, Nisan başı). Kuluçka süreleri 5-6 haftadır.
+Erkek yavru ve dişinin beslenmesini sağlar. Her gün 60-100 gr lık 3-1 balık getirir. Ortalama 1.1,1.3 civciv tüylenmelerini tamamlar. Tüylenme süresi yaklaşık 2 aydır(48-59 gün). 7-17 ayda bağımsız hale gelirler. Yerleşik balık kartalları kışın kuluçkaya yatar.
+Avcıları.
+Timsahların çamur yığınlarında geceleyen balık kartallarını yedikleri bildirilmiştir. Erişken bir balık kartalını sadece baykuşlar (sıklıkla "Bubo virginanus") düzenli olarak öldürebilir. Rakunlar ("Procyon lotor") ve yılanlar, balık kartalı yumurtası ve civcivlerini yiyebilirler.
+Yaşam süresi.
+Tüylenen 100 kuştan 37'si 4 yıl sonunda canlı kalmayı başarır. Bu sayı 8 yıl sonra 17'ye, 12 yıl sonrada 6-8'e iner. Kaydedilen en fazla yaşam süresi erkekte 25 yıl, dişide 23 yıldır.
+Dış bağlantılar.
+Balık Kartalı
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklim Kuşaklari (EBA)</DOCTITLE>
+<TEXT>
+
+Matematik İklim Kuşakları
+Yandaki şekle dikkatle bakınız. 23° 27' ve 66° 33' enlemlerini birbiriyle topladığımızda 90° ye tamamlanır. Yani eksen eğikliğinin derecesine bağlı olarak dönenceler ve kutup daireleri ortaya çıkmıştır.
+Ekvator ile dönenceler arasındaki alana tropikal kuşak, dönenceler ile kutup daireleri arasındaki alana orta kuşak, kutup daireleri ile kutup noktaları arasındaki alana da kutup kuşağı denir.
+Sıcaklık kuşakları
+Matematik iklim kuşakları dışında bir de sıcaklık kuşakları vardır.
+Sıcaklık kuşaklarının oluşumundaki başlıca etkenler; Yerküre’nin şekli, kara ve denizlerin dağılışı, sıcak ve soğuk su akıntıları ve genel hava dolaşımıdır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Birleşmiş Milletler Güvenlik Konseyi</DOCTITLE>
+<TEXT>
+
+Birleşmiş Milletler Güvenlik Konseyi (BMGK), Birleşmiş Milletler'in, üye ülkeler arasında güvenlik ve barışı korumakla yükümlü, en güçlü organı. Birleşmiş Milletler'in diğer organları sadece tavsiye kararı alabilirken, Birleşmiş Milletler Güvenlik Konseyi'nin kararları, tüm üye ülkeler açısından bağlayıcılık taşımaktadır. Bu bağlayıcılık, üye ülkelerin tamamına yakını tarafından imzalanmış olan Birleşmiş Milletler Tüzüğü'nde açık bir şekilde belirtilmiştir. Daimi üyelerin veto hakları, BM'nin bu kurumunu tam anlamıyla demokratik bir kurum olmaktan çıkarmaktadır.
+Üyeler.
+Birleşmiş Milletler Güvenlik Konseyi, 15 üye ülkeye sahiptir. Bu ülkelerden beş tanesi daimi üye, on tanesi ise seçilmiş üyelerdir. Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyeleri, aynı zamanda Birleşmiş Milletler'in kurucu üyeleri olan Rusya ve Çin Halk Cumhuriyeti, SSCB ve Çin Cumhuriyeti'nin halefleri olarak, konsey tarafından tanınmışlardır. Birleşmiş Milletler Güvenlik Konseyi'nde, kararları veto etme hakkı bulunan daimi üyeler Amerika Birleşik Devletleri, İngiltere, Fransa, Çin ve Rusya ile on geçici üye ülke bulunur. Dönüşümlü 10 üye ülke her iki yılda bir Birleşmiş Milletler Genel Kurulu'nda yapılan seçimlerle belirlenir. Konsey Başkanlığı ise ayda bir üye ülkeler arasında el değiştirir.
+Birleşmiş Milletler'in üyeleri, örgütün hızlı ve etkili hareket etmesini sağlamak için, uluslararası barış ve güvenliğin korunmasında başlıca sorumluluğu Güvenlik Konseyi'ne bırakırlar ve bu sorumluluk gereğince görevlerini yerine getirirken Güvenlik Konseyi'nin kendi adlarına hareket ettiğini kabul ederler.
+Güvenlik Konseyi, bu görevleri yerine getirirken Birleşmiş Milletler'in Amaç ve İlkeleri'ne uygun hareket eder. Bu görevleri yerine getirebilmesi için Güvenlik Konseyi'ne verilmiş belirli yetkiler VI-VIII. ve XII. bölümlerde gösterilmiştir.
+İşleyiş.
+Birleşmiş Milletler Güvenlik Konseyi Kararları, üye ülkeler tarafından verilen bir önergenin, 15 üye ülkeden dokuzu tarafından kabul edilmesi ve Birleşmiş Milletler Güvenlik Konseyi Daimi Üyesi ülkelerden birinden ret oyu almamış olması şartıyla alınır.
+Dünya Barışına Katkısı - Karşıt Görüşler.
+Veto yetkisine sahip beş daimi ülke olan Amerika Birleşik Devletleri, Rusya Federasyonu, Çin Halk Cumhuriyeti, Fransa ve İngiltere aynı zamanda dünyanın en çok silah üreten ve pazarlayan ülkeleridir.. Sadece Çin, Almanya'dan sonra altıncı durumdadır. Dünya silah ticaretinin baş aktörlerinden oluşan Güvenlik Konseyi Ülkeleri'nin dünya barışına kalıcı katkıda bulunacak kararlar verebileceğine bazı çevreler şüpheyle bakmaktadır.
+Kore Savaşı (1950) ve Körfez Savaşı kararları, Birleşmiş Milletler Güvenlik Konseyi tarafından onaylanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Işıktan hızlı hareket</DOCTITLE>
+<TEXT>
+
+astronomide, ışıktan hızlı hareket bazı radyo galaksilerin, , kuasarların ve yakın zamanda bazı galaktik kaynaklarda denilen mikrokuasarlarda görülen görünüşte ışıktan daha hızlı hareket olduğudur Bu kaynakların hepsi yüksek hızlarda kütlesinin fırlamasından sorumlu bir kara delik içerdiği düşünülmektedir.
+Önce 1970'lerin başına bakıldığında, süperluminal hareket kozmolojik mesafelere sahip kuasarların karşı kanıtın bir parçası olarak alındı​​. Birkaç astrofizikçi hala bu görüş lehine iddialı olmasına rağmen, çoğu ışık hızından daha büyük görünür hızların optik illüzyonlar ve özel görelilik teorisi ile bağdaşmayan hiçbir fizik dahil olduğuna inanıyor
+Açıklama.
+çünkü bu fenomen Jetleri ışık hızına çok yakın "ve" gözlemciye karşı çok küçük bir açıyla seyrederke ortaya çıkar.
+yüksek hızda kendi yolunun her noktada jetleri ışık yayar Çünkü, yaydıkları ışık jetin kendisinden çok daha hızlı gözlemciyi daha yaklaşık değildir. Daha açık olmak gerekirse, jet aslında yaydığı ışık "takip" ve aralarındaki mesafe zamanla artar. Bu ışık onun arasındaki mesafe yüzlerce ışıkyılı değil seyahat yüzlerce yıl boyunca yayılmasına neden olur, ışık, bu nedenle hafif seyahat daha hızlı yanılsamasını veren çok daha küçük bir süre (on ya da yirmi yıl) gözlemciye ulaşır.
+Bu açıklama , belirli bir durumda görülen süperluminal hareket derecesini açıklamak için gözlemcinin görme çizgisinin jet ile yeterince dar bir açı yapmasına bağlıdır.
+Bazı aykırı kanıtlar.
+1983'ten erken gibi, Jodrell Bank Gözlemevi'nde düzenlenen "süperluminal atölyede" de, yedi zaman bilinen süperluminal jetlere atıfta bulunarak
+Superluminal hareket genellikle karşıt iki jetler ,biri uzaklaşıyor ve biri Dünya'ya doğru yaklaşıyor görülür.Doppler kayması nın gözlemci iki kaynaklardan gözlenmesi halinde,hız "ve" mesafe diğer gözlemlerden bağımsız tespit edilebilir.
+Schilizzi ... ölçekli dış jetleri gösteren ark-ikinci çözünürlükte haritaları sundu ... bu ...Bilinen süperluminal kaynaklarından biri ama tüm dış çift yapıyı (3C 273) ortaya koymuştur. Bir sıkıntı dış yapısının ortalama yansıtılan boyutu normal radyo-kaynak nüfustan daha küçük olmasıdır. [2
+Sinyal hızı.
+Diğer bir deyişle jetler besbelli değil bizim görme çizgimize yakın, ortalama, . (Onların uzunluğu belirgin olsaydı onlar çok daha kısa görünürdü)
+Bu model, sinyal hızı "c" dalgasının tarafından taşınan bilgiler ve pozisyon değişikliğinin dalga cepheleri belirgin oranı hakkındaki bilgiler arasında bir fark tanımlar. Eğer bir gözlemci bakış alanında hareket eden bir dalga kılavuzunda (cam tüp) bir ışık darbesi tasavvur ederseniz, darbeyi sadece "c" rehberliği aracılığıyla taşıyabilirsiniz
+Bu darbe de o gözlemciye yönelik ise c, bu dalgadan bilgi alacaksınız.Dalga kılavuzu sinyal konumu ile ilgili bilgiler ile aynı yönde hareket durumunda, yanal darbe emisyonları, değiştikçe gözlemciye geçirilir. O bir eğri yüzey üzerinde bir gölge kenarında gibi, hesaplanan zaman görünüşte c daha hızlı hareket temsili olarak pozisyon değişim oranını görebilirsiniz. Bu darbe, farklı bilgiler içeren,farklı bir sinyalle ve SR'nin 2ci önermesi kesilmez. "c" kesinlikle tüm yerel alanlarda korunur.Bu darbe de gözlemciye yönelik ise "c"de o dalga bilgileri alacaksınız,Dalga kılavuzu darbe konumu ile ilgili bilgiler ile aynı yönde hareket durumunda, yanal darbe emisyonları, değiştikçe gözlemciye geçirilir.O,görünüşe göre "c" den daha hızlı hesaplandığında hareketi gösteren kadar pozisyonun değişim oranını görebilirsiniz kavisli bir yüzey üzerinde bir gölge kenarına benzeri yer alır..
+göreli açıklamanın türetilmesi.
+Bir göreli jet bir aktif yıldızlararası çekirdek merkezinden çıkıyor,bir v hızıyla AB boyunca taşınıyor olsun.O noktasından jeti gözlemliyoruz. formula_1 zamanda bir ışık ışını, A noktasından jeti terk ve başka bir ışın B noktasından formula_2 anda terkediyor.O'daki gözlemci anında ışınları alır sırasıyla formula_3 ve formula_4dır. Açı formula_5 iki mesafeler işaretli kadar küçüktür formula_6 eşit kabul edilebilir.
+Birlikte belirgin enine hız CB, formula_17
+Eğer formula_25 (örneğin, jetin hızının ışık hızına yakın olduğunda) ise formula_26 olmasına rağmen bu formula_27. Ve tabii ki formula_28 CB boyunca belirgin enine hız anlamında, gökyüzünde ölçebileceğimiz tek hız, vakumda ışık hızı daha büyüktür,diğer bir deyişle, hareket süperlüminal görünüşte.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Krosover</DOCTITLE>
+<TEXT>
+
+Crosover veya krossing over, mayoz bölünmenin profaz I evresinde görülen, çift halde bulunan kromozomların yaptığı parça değişimine verilen addır. Bunun sonucunda genetik rekombinasyon meydana gelir, yani farklı kromozomlarda bulunan genlerin alelleri birbiriyle yer değiştirir.
+Krosover, genelde sinapsis denen bir süreç zarfında olur. Sinapsis, özellikle pakiten evresinde sinaptonemal kompleksin oluşumundan önce başlar ve profaz I'in sonuna kadar tamamlanmaz. Krosover genellikle, eşleşmiş kromozomların eşleşme bölgelerinin kırılıp sonra tekrar diğer kromozomla birleşmesi sonucu meydana gelir. Bu genleri içeren parça değişiminin sonucu genler iki kromozom arasında yer değiştirir, buna genetik rekombinasyon denir. Bu süreç sırasında birbirine benzer iki DNA parçası aynı noktadan kırılır, bunların her biri karşı zincirin öbür parçasıyla birleşerek kırıklarını onarırlar.
+Tarih.
+Belçikalı Frans Alfons Janssens bölünen hücrelerin kromozomlarında "kiyazma" diye adlandırdığı yapılar gözlemlemiştir. Kiyazma, krosoverin içinde yer gerçekleştiği fiziksel yapıdır. Thomas Hunt Morgan, kendi Drosophila deney sonuçlarını açıklamakta Janssens'in gözleminin önemini hemen kavramış, ilk defa krosover mekanizmasını teorik olarak tarif etmiştir. Krosoverin fiziksel temellerini ise Harriet Creighton ve Barbara McClintock 1931'de göstermiştir.
+Morgan bu sürece İngilizce 'karşıya geçme' anlamında "cross-over" adını vemiştir, bu 'krosover' veya 'krossing over' olarak Türkçeleşmiştir.
+Kimyası.
+Mayozik rekombinasyon, Spo11 proteinin DNA çift zincirini kırmasıyla başlar. Bir ya da daha fazla eksonükleaz, kırılmış çift zincirin 5' uçlarını sindirerek, DNA'da 3' uçlu uzantılar olmasını sağlar. Mayoza özgül rekombinaz Dmc1 ve genel rekombinaz Rad51 tek zincirli DNA'nın üstünü kaplayıp filamentler oluştururlar. 
+Rekombinaz enzimleri DNA'nın tek zincirli ucunun karşı taraftaki kromatitin arasına girmesini (istila etmesini) katalizler. İstilacı DNA'nın 3' ucu DNA sentezini başlatır ve tamamlaycı iplikçiğin kenara iter. Kenara itilen tamamlayıcı iplikçik baştaki iki zincirli kırığın öbür tarafındaki tek iplikçikli DNA ile eşleşir. Ortaya çıkan yapıya "karşılıklı iplikçik değiş tokuşu" denir (İng. "cross-strand exchange") ve "Holliday kavşağı" olarak isimlendirilir. Birbirine temas eden ve yakında krosover yapacak iki kromatitin temas noktasına "kiyazma" denir. Holliday kavşağı, her iki tarafından rekombinazlarla çekilen dörtlü bir yapıdır.
+Krosoverin sonucu.
+Krosover sırasında homolog kromozomların biri anneden diğeri babadan gelmiştir. Bu şekilde iki farklı bireyin kromozomlarındaki genetik bilgi birbirine karışarak yeni kombinasyonlar oluşturur. Bu parça değişimi olmasa, canlının kromozomundaki genetik bilgi mutasyonlar haricinde değişmezdi. 
+Çoğu ökaryot, hücrelerinde genlerinin iki kopyasını taşır ve bunların her birine allel denir. Her ebeveyn yavrusuna birer allel aktarır. Metafaz sırasında dizilen kromatit çiftlerinin her birinden birer tane alınması sonucunda, bir gamet, bütün kromozomlardaki allelerin haploit bir bileşimini ebeveyn hücreden . Rekombinasyon olmazsa, aynı kromozom üzerinde bulunan tüm alleler beraber aktarılır. Mayotik rekombinasyon, kardeş kromatitler üzerinde bir gene ait iki farklı allelin değişimi sonucunda alellerin daha serbestçe karışmasını sağlar.
+Rekombinasyon olması halinde, bir yavrudaki allel dağılımının bir diğerindeki ile aynı olma olasılığı aynıdır. Buna Mendel genetiğinde "bağımsız tertiplenme" kanunu denir. Farklı kromozomlarda bulunan genlerin allellerinin dağılması ile, aynı kromozomda olan ve aralarında her zaman rekombinasyon olan genlerin allellerinin dağılması aynı davranışı gösterir. Ancak bu kanunun bir istisnası vardır.
+Bir kromozom üzerinde iki gen arasında bir rekombinasyon olma olasılığı her gen çifti için aynı değildir. İki gen birbirine çok yakın ise bir rekombinasyon olayının bu ikisini birbirinden ayırma olasılığı, iki genin birbirinden uzakta olma durumuna kıyasla daha düşüktür. "Genetik mesafe", rekombinasyon sıklığının yeterince çok sayıda soy ağacına bakılarak elde edilen ortalama değeridir. Genetik bağlantı (İng. "genetic linkage"), aynı kromozomdaki genlerin konumlarından dolayı beraber kalıt olma eğilimini betimler. Bağlantı dengesizliği (İng. "Linkage disequilibrium") bazı gen veya gen belirteci (İng. "gene markers") kombinasyonlarının aralarındaki mesafeye göre olması gerekenden daha sız veya daha ender olma durumlarıyla ilgilidir. Belli bir hastalığa nedeni olan gen aranırken bu kavramdan yararlanılır. Bunun için, bir DNA dizisinin belli bir hastalıkla beraber rastlanmasına bakılır; eğer ikisi arasında yüksek bir korelasyon bulunursa aranan genin bu DNA dizisinin yakınında olduğunda hüküm verilir.
+Problem.
+Krosover genelde eşleşen kromozomların benzeşen (homolog) bölgeleri arasında gerçekleşse de DNA dizi benzerlikleri yüzünden bazen yanlış noktalarda hizalanma olabilir. Bu durumda "dengesiz rekombinasyon" meydana gelir. Normal rekombinasyona kıyasla dengesiz rekombinasyon oldukça ender olur, ama dengesiz rekombinasyonlar içeren bir gametten bir zigot oluşursa, ciddi sorunlar meydana gelebilir. Bunun sonucunda bir kromozomdaki genlerin düplikasyonu ve bir diğerindekilerin delesyonu, veya bir kromozom parçasının başka bir kromozoma translokasyonu veya evrilmesi (inversiyonu) olabilir.
+
+</TEXT>
+</DOC>
+

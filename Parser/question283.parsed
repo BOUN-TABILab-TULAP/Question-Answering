@@ -1,0 +1,6 @@
+1	Birikinti	birikinti	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	yelpazesi	yelpaze	Noun	Noun	A3sg|P3sg|Nom	4	SUBJECT	_	_
+3	nasıl	nasıl	Adj	Adj	_	4	MODIFIER	_	_
+4	oluşur	oluş	Verb	Verb	Pos|Aor|A3sg	5	SENTENCE	_	_
+5	.	.	Punc	Punc	_	0	ROOT	_	_
+

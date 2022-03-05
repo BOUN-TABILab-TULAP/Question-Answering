@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kaç	Kaç+Noun+Prop+A3sg+Pnon+Nom
+Kaç	kaç+Verb+Pos+Imp+A2sg
+Kaç	kaç+Adj
+
+amino	amino	+Adj
+
+asit	asit	+Noun+A3sg+Pnon+Nom
+
+insan	insan	+Noun+A3sg+Pnon+Nom
+
+vücudunda	vücut+Noun+A3sg+P3sg+Loc
+vücudunda	vücut+Noun+A3sg+P2sg+Loc
+
+sentezlenemez	sentezle	+Verb^DB+Verb+Pass^DB+Verb+Able+Neg+Aor+A3sg
+sentezlenemez	sentezle	+Verb^DB+Verb+Pass^DB+Verb+Able+Neg^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

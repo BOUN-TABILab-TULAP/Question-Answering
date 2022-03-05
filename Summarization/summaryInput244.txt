@@ -1,0 +1,309 @@
+Question: Bir bölgedeki sıcaklık ortalaması ile o bölgenin turizm gelirleri arasındaki ilişki nasıl açıklanabilir?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karşılıklılık (fotoğrafçılık)</DOCTITLE>
+<TEXT>
+
+Enstantane ve diyafram değerleri arasındaki karşılıklı ilişki. Gerek diyafram gerekse de enstantane stop birimleriyle ölçülürler. Bu iki değişken arasındaki karşılıklı ilişki sonucu, değişkenlerden birindeki bir stopluk artış diğer değişkende bir stopluk azalmaya neden olacak ve bunun sonucunda değişiklik öncesindeki pozlandırma ile yine aynı pozlandırma elde edilecektir.
+Örneğin : 1/125 enstantane ve 8 diyafram eşlemesi ile 1/250 enstantane ve 5,6 diyafram eşlemesi aynı pozlama sonucunu verir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Laplace denklemi</DOCTITLE>
+<TEXT>
+
+Matematikte Laplace denklemi, özellikleri ilk defa Pierre-Simon Laplace tarafından çalışılmış bir kısmi diferansiyel denklemdir. Laplace denkleminin çözümleri, elektromanyetizma, astronomi ve akışkanlar dinamiği gibi birçok bilim alanında önemlidir çünkü çözümler bilhassa elektrik ve yerçekim potansiyeli ile akışkan potansiyelinin davranışını açıklar. Laplace denkleminin çözümlerinin genel teorisi aynı zamanda potansiyel teorisi olarak da bilinmektedir.
+Tanım.
+Üç boyutta, problem "x", "y" ve "z" gibi üç gerçel değişkene sahip, iki kere türevlenebilir, gerçel değerli ve
+denklemini sağlayan bir formula_2 fonksiyonu bulmaktır.
+Çoğunlukla bu denklem
+denklemi olarak veya div'in diverjansı ve grad'ın ise gradyanı temsil ettiği
+denklemi olarak veya Δ'nın Laplace operatörü olduğu
+denklemi olarak yazılır.
+Laplace denkleminin çözümlerine aynı zamanda harmonik fonksiyonlar da denmektedir.
+Denklemin sağ tarafı eğer belli bir "f"("x", "y", "z") fonksiyonu şeklinde verilirse, yani denklem
+olarak ifade edilirse, o zaman denkleme "Poisson denklemi" adı verilir.
+Laplace ve Poisson denklemleri eliptik kısmi diferansiyel denklemlerin en basit örnekleridir. Kısmi diferansiyel operatörü olan ve herhangi bir boyutta tanımlanabilen formula_7'ye veya formula_8'ya Laplace operatörü veya kısaca Laplasyen denmektedir.
+Sınır koşulları.
+Laplace denklemi için Dirichlet problemi bir "D" bölgesi üzerinde tanımlı ve verilmiş başka bir fonksiyona "D" 'nin sınırı üzerinde eşit olan bir formula_9 fonksiyonu bulmaktan ibarettir. Laplace operatörü ısı denkleminde yer aldığı için, problemin bir diğer yorumu da şöyledir: Bölgenin sınırındaki sıcaklık sabit tutulur ve bölgenin iç tarafındaki sıcaklık artık değişmeyecek şekilde beklenilir. İç bölgedeki sıcaklık dağılımı artık ilişkin Dirichlet probleminin çözümü tarafından verilecektir.
+Laplace denklemi için Neumann sınır koşulları "D"'nin sınırında formula_9 fonsiyonunu belirtmez ancak bu fonksiyonun normal türevini belirtir. Fiziksel olarak bu durum, yalnız formula_11'nin sınırında etkisi bilinen bir vektör alanı için olan bir potansiyelin inşasına (oluşturulmasına) denk gelmektedir.
+Laplace denkleminin çözümlerine harmonik fonksiyonlar denilmektedir ve bu fonksiyonların hepsi denklemin sağlandığı bölge içinde analitiktir. Eğer iki fonksiyon Laplace denkleminin (veya herhangi doğrusal homojen diferansiyel denklemin) çözümüyse, toplamları (veya herhangi doğrusal kombinasyonları) da ayrıca bir çözümdür. Süperpozisyon ilkesi de denilen bu özellik özellikle karmaşık problemlerin basit çözümlerin toplanılması yoluyla yapılan çözümlerinde çok yararlıdır.
+İki boyutta Laplace denklemi.
+İki değişkenli Laplace denklemi
+formuna sahiptir.
+Analitik fonksiyonlar.
+Karmaşık analitik bir fonksiyonun gerçel ve sanal kısmının her ikisi de Laplace denklemini sağlar. Eğer "z"="x"+"iy" ise ve 
+ise, o zaman "f"("z") 'nin analitik olması için gerekli koşul aşağıdaki Cauchy-Riemann denklemlerinin sağlanmasıdır:
+Takip eden ifade ise
+olacaktır. Bu yüzden "u" Laplace denklemini sağlar. Benzer bir hesaplama yine "v" 'nin de Laplace denklemini sağladığını gösterir.
+Aksine diğer taraftan bir harmonik fonksiyon verilirse, bu fonksiyon analitik bir formula_16 fonksiyonunun gerçel kısmı olur (en azından yerel olarak). Eğer
+olarak alınırsa ve
+şartı konulursa, o zaman Cauchy-Riemann denklemleri sağlanacaktır.
+Bu ilişki ψ'yi belirlemese de artışlarını belirler:
+φ için Laplace denklemi ψ'nin integrallenebilme koşulunun sağlandığını gösterir:
+ve bu yüzden ψ bir çizgi integrali yoluyla tanımlanabilir. İntegrallenebilme koşulu ve Stoke teoremi iki noktayı birleştiren çizgi integralinin değerinin takip edilen yoldan bağımsız olduğunu gösterir. Laplace denkleminin sonucunda çıkan çözüm çiftine "eşlenik harmonik fonksiyonlar" adı verilir. Bu inşa sadece yerel olarak veya takip edilen yolun bir tekilliği çevrelememesi koşuluyla geçerlidir. Örneğin, "r" ve θ kutupsal koordinatlar olursa ve
+ise, o zaman karşılık gelen analitik fonksiyon
+fonksiyonudur. Bununla birlikte, θ açısı orijini çevrelemeyen bir bölge içinde tek (bir) değerlidir.
+Laplace denklemi ve analitik fonksiyonlar arasındaki yakın ilişki Laplace denkleminin çözümünün her mertebeden türevi olduğunu gösterir ve bu çözüm en azından bir tekilliği çevrelemeyen bir çember içinde kuvvet serilerine genişletilebilir. Bu durum, daha az düzenliliğe sahip ısı denklemi çözümleriyle tezat bir haldedir.
+Kuvvet serileri ve Fourier serileri arasında sıkı bir ilişki vardır. Bir "f" fonksiyonu "R" yarıçaplı bir çember içinde kuvvet serisine genişletilirse, bu gerçel ve sanal kısımları
+şeklinde olan uygun katsayıların olduğu
+ifadesi anlamına gelir. Bu yüzden,
+olur ki bu da "f" 'nin Fourier seridir.
+Akışkan akımı.
+"u" ve "v" nicelikleri durağan sıkıştırılamaz, dönmez bir akımın iki boyutta yatay ve dikey bileşenleri olsun. Akımın sıkıştırılamaz olmasının koşulu,
+olmasıdır ve akımın dönmez olmasının şartı da
+olmasıdır. Bir ψ fonksiyonunun diferansiyeli
+olarak tanımlanırsa, o zaman sıkıştırılamama şartı bu diferansiyel için integrallenebilme koşulu olur: Sonuçtaki fonksiyona akış fonksiyonu adı verilir çünkü bu fonksiyon akım çizgileri boyunca sabittir. ψ'nin birinci türevi
+ile verilir ve sıkıştırılamama şartı ψ 'nin Laplace denklemini sağladığını gösterir. ψ 'ye eşlenik olan harmonik φ fonksiyonuna hız potansiyeli denilir. Cauchy-Riemann denklemleri
+ifadesini verir.
+Bu yüzden her analitik fonksiyon düzlemde durağan sıkıştırılamaz, dönmez bir akışkan akıma karşılık gelir. Gerçel kısım hız potansiyeli olurken sanal kısım akış fonksiyonu olur.
+Elektrostatik.
+Maxwell denklemleri'ne göre, iki uzay boyutunda yer alan ve zamandan bağımsız olan bir elektrik alanı ("u","v"),
+ifadesini ve ρ'nun yük yoğunluğu olduğu
+ifadesini sağlar.
+Birinci Maxwell denklemi
+diferansiyeli için integrallenebilme koşuludur. Böylece elektrik potansiyeli olan φ
+ifadesini sağlayacak şekilde inşa edilebilir.
+İkinci Maxwell denklemi o zaman Poisson denklemi olarak ifade edilen
+denklemini verir.
+İki boyutta kullanılana benzer olarak, Laplace denklemi elektrostatik ve akışkan akımının üç boyutlu problemlerinde de kullanılabilir.
+Üç boyutta Laplace denklemi.
+Temel çözüm.
+Laplace denkleminin temel çözümü, Dirac delta fonksiyonu formula_36'nın formula_37 noktasında toplanmış bir birim kaynağı gösterdiği
+denklemini sağlar. Hiçbir fonksiyon bu özelliğe sahip değildir ancak yine de bu, integralleri uzay üzerinde birlik olan ve desteği (fonksiyonun sıfır olmadığı bölge) bir noktaya küçülen bir fonksiyonlar limiti olarak düşünülebilir. Temel çözümün tanımı bu yüzden, "u" 'nun Laplasyeninin kaynak noktasını çevreleyen herhengi bir hacim üzerinde integrali alındığında, o zaman 
+olduğunu gösterir.
+Laplace denklemi koordinatların rotasyonuyla değişmez kalır ve bu yüzden bir temel çözümün, sadece (kaynak noktasından uzaklığı gösteren) "r" 'ye bağımlı olan çözümler arasından elde edilebileceği beklenir. Hacim kaynak noktası etrafında "a" yarıçaplı bir top olarak düşünülürse, o zaman Gauss diverjans teoremi
+ifadesini verir. O zaman takip eden ifade ise, kaynak noktası etrafında "r" yarıçaplı bir küre üzerindeki
+ifadesidir ve bu yüzden
+olur. Benzer bir hesap ise iki boyutta
+olduğunu gösterir.
+Green fonksiyonu.
+Bir Green fonksiyonu da bir "V" hacminin "S" sınırındaki uygun şartı sağlayan temel bir çözümdür. Örneğin, formula_44 ,
+ifadelerini sağlayabilir.
+Eğer "u", "V" üzerinde Poisson denkleminin herhangi bir çözümüyse
+olur ve "u", "S" üzerinde "g" sınır değerlerini alır. O zaman aşağıdaki eşitlikleri veren (diverjans teoreminin bir sonucu olan) Green özdeşliğine başvurulabilir:
+"un" ve "Gn" gösterimleri "S" üzerindeki normal türevleri ifade etmektedir. "u" ve "G" 'nin sağladığı şartlar bağlamında, bu sonuç
+haline gelir.
+Bu yüzden, Green fonksiyonu "f" ve "g" 'nin formula_50 noktalarındaki etkisini açıklar. "a" yarıçaplı kürenin içi düşünüldüğünde ise, Green fonksiyonu yansıtma yoluyla elde edilebilir (Sommerfeld, 1949): Kürenin merkezinden ρ kadar uzaklıkta olan "P" kaynak noktası,
+uzaklıkta bulunan bir "N" noktasına yarıçapsal doğru boyunca yansıtılır.
+Unutulmaması gereken nokta "P" küre içindeyse, "N" 'nin küre dışında olması gerektiğidir. O zaman Green fonksiyonu "R" 'nin "P" kaynak noktasına uzaklığı ve "T" 'nin yansıtılmış "N" noktasına olan uzaklığı gösterdiği
+ifadesi tarafından verilir. Green fonksiyonu için olan bu ifadenin bir sonucu ise Poisson integral formülüdür. ρ, θ, ve φ, "P" kaynak noktası için küresel koordinatlar olsun. Burada θ dikey eksenle olan açıyı göstermektedir. (Amerikan matematik gösterimine uymaz ancak standard Avrupa ve fiziksel uygulamalarına uyum gösteren bir gösterimdir) O zaman, küre içindeki Laplace denkleminin çözümü
+olarak alınırsa
+tarafından verilir.
+Bu formülün basit bir sonucu ise şudur: "u" harmonikse, o zaman "u" 'nun kürenin merkezindeki değerleri, "u" 'nun küre üzerindeki değerlerinin ortalama değerleridir. Bu ortalama değer özelliği ise ivedilikle sabit olmayan bir fonksiyonun maksimum değerini kürenin içinde alamayacağı sonucunu verir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Işık akısı</DOCTITLE>
+<TEXT>
+
+Işık akısı bir fiziksel niceliktir ve insan gözünün algıladığı ışık gücünün miktarını ifade eder. Bu tariften de anlaşıldığı gibi, ışık akısı hem ışınım yapan kaynağın gücüne hem de insan gözünün özelliğine bağlıdır. SI birimi MKS sisteminde lumen dir.(lm kısaltmasıyla gösterilir.)
+Dalgaboyu ve frekans.
+Işınım dalgaboyu veya frekans ile tarif edilebilir.İkisi arasındaki ilişki
+Burada λ dalga boyu, f frekans ve c de ışık hızıdır.
+Işık hızı boşlukta 299 792 458 m/s dir. MKS sisteminde dalgaboyu birimi metre (m) , frekans birimi ise Hertz (Hz) dir. (Yukardaki ilişkide frekans GHz cinsinden verilirse, dalgaboyu da nm cinsinden hesaplanabilir.)
+Işınım ve dalgaboyu.
+Işınım yapan kaynaklar sıcaklığa bağlı olarak elektromanyetik spektrumun her noktasında ışınım yapabilirler. Işınım tek bir dalgaboyunda değil, çok geniş bir bant içersindedir. Fakat sıcaklığa bağlı olarak ışınımın maksimum olduğu bir dalgaboyu vardır. İdeal karacisim için bu dalga boyu Alman fizikçi Wilhelm Wien (1864-1928) tarafından hesaplanmıştır.
+Burada λ ışınımın maksimum olduğu dalgaboyu, T ise mutlak sıcaklıktır. (T sıcaklığı kelvin cinsinden) b sabitinin değeri yaklaşık olarak 2.897769 10-3 dir
+Yukardaki ilişkiden görüldüğü gibi, sıcaklık arttıkça maksimum dalgaboyu da kısalır.Yandaki şekilde sıcaklık arttıkça maksimum noktanın daha kısa dalgaboyuna (daha yüksek frekansa) doğru
+kaydığı görülmektedir.
+İnsan gözü.
+İnsan gözü 380-740 nm (nanometre) arasndaki dalgaboylarına duyarlıdır. Bu bandın uç noktalarında duyarlılık düşüktür. Maksimum duyarlıklığın olduğu dalgaboyu (aydınlık ortamda) 555 nm tedir. ( Ya da frekans birimleriyle verilecek olursa 540 THz) Bu dalgaboyu yeşil renk bölgesindedir. Güneş ışığının spektral açılımı incelenecek olursa, Güneş ışığının da insan gözünün duyarlılığının yüksek olduğu bir bölgede yoğunlaştığı görülür.
+Işınım kaynakları ve ışık akısı.
+Mutlak sıfır derecenin üstündeki bütün cisimler ışınım kaynağı iseler de gözün duyarlık bölgesi sınırlı olduğundan bu ışınımların büyük bölümünü ışık olarak değerlendiremeyiz.Bu sebepten ışınım gücü ile gözün algıladığı ışınım gücünü birbirinden ayırt etmek gerekir. Işık akısı sadece gözün algıladığı ışınım için geliştirilmiş bir niceliktir.
+Tek bir dalgaboyunda yani 555 nm de 1 wattlık ışınım yapan ideal bir ışınım kaynağı 683.002 lm ışık aksı yayar. (Hiçbir ışık kaynağı tek frekansta ışınım yapmaz, ama lazer tekniği ile çok dar bantlı ışınım yapılabilmektedir.) Ama aynı kaynak farklı bir dalgaboyunda ışınım yaparsa, ışınım gücü aynı olduğu halde ışık akısı daha az olur. Hele 380 nm den daha kısa veya 740 nm den daha uzun dalgaboylarında yapılan ışınımda ışık akısı sıfıra iner.
+Çeşitli ışık kaynakları.
+Yıldızların ürettikleri ışık akısı renklerine bağlıdır. Kırmızı yıldızlar her W lık güç için 30 lm civarında ışık aksı üretirken, çok daha verimli olan Güneş gibi yıldızlar her W lık güç içim 80 lm ışık akısı üretebilirler.
+İnsan yapısı aydınlatma araçlarından akkor flamanlı lambalar her W başına 10-20 lm üretirken, floresan lambalar genellikle her W başına 50 -100 lm arasında bir ışık üretebilirler.
+Sodyum buharlı lambalar W başına 100 lm i geçen ışık akısı üretebilirler. Henüz gelişme aşamasında olan LED li lambalarda ise ışık akı verimliliğinin daha da iyi olması beklenmektedir.
+Işık şiddeti ve ışık akısı.
+Bir ışık kaynağının toplam ışık akısını ölçmek için o kaynağı bir küre içine alıp küre duvarından geçen akı toplamını bulmak gerekir. Kürenin yüzey alanı 4лr2 olduğundan yüzey alanının 4л ye bölümü r2 genişliğinde bir alanı gösterir. Bu alanı oluşturan katı açıya da steradyan denilir. Bir steradyandan geçen ışık akısı da ışık şiddetidir.(Kısaltması cd) Işık şiddetinin birimi candela veya Türkçe okunuşuyla kandela dır. (cd kısaltmasıyla gösterilir. )Candela uluslar arası SI birimler arasında temel birimlerden biridir. (diğerleri metre, kilogram, saniye, ampere, Kelvin ve mol)
+Düzgün (alanın her noktasına eşit dağılımlı) ışınım için,
+Burada I ile ışık şiddeti, Φ ile toplam ışık akısı ve A ile de steradyan cinsinden alan gösterilirmiştir.
+Her yöne eşit ışınım yapan bir kaynak için,
+Ama şayet kaynak noktasal değilse bu takdirde aydınlık şiddeti kaynağın geometrisine göre hesaplanır. Mesela yarım küre içinde ışınım yapan bir kaynakta
+Aydınlanma ve ışık akısı.
+Aydınlanma (ışık akısı yoğunluğu) kaynakla değil, aydınlanan yüzeyle ilgili bir niceliktir ve birim alan üzerine dik olarak düşen ışık akısı anlamına gelmektedir. Birimi lüks’tür. (lx kısaltmasıyla gösterilir.)
+Burada S ışığın aydınlattığı alandır; Şayet bu alan ışık geliş yönüne dik değil ise
+Burada θ ışığın geldiği yön ile alan arasındaki açıdır.
+Noktasal kaynakta ve r yarıçaplı bir küre yüzeyinde alan 4•л•r2 olduğundan;
+Işık şiddetiyle aydınlanma arasındaki ilişki ise;
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kovalent yarıçapı</DOCTITLE>
+<TEXT>
+
+Atomun büyüklüğünün bir ölçüsü olan kovalent yarıçap, iki atomun dalga fonksiyonlarının üst üste binerek kovalent bağ oluşturdukları uzunluk olarak ifade edilir. Atomun çeşidi ve elektronegatifliğine göre değişen kovalent yarıçapın uzunluğu pikometre (pm) veya ångström (Å) cinsinden ölcülür, 1 Å = 100 pm.
+Genel bir ifadeyle, iki atom arasındaki kovalent bağın uzunluğu, kovalent yarıçapların toplamı olarak verilir, "R"(AB) = "r"(A) + "r"(B). Kovalent yarıçaplar ve kovalent bağ arasındaki bu ilişki kesin olmayıp, atomun büyüklüğü oluşturduğu kimyasal bağlara göre değişiklik gösterdigi için, farklılıklar gösterebilir. 
+Linus Pauling, bir homonükleer A-A bağı için "r"(A) kovalent yarıçap uzunluğunu, bağ uzunluğunun yarısı olarak hesaplamıstır.
+Bununla beraber, atomun yaptığı bağ sayısına bağlı olarak farklı kovalent yarıçap uzunlukları hesaplanabilir. r1 ,r2 ve r3 olarak verilen bu yarıçaplar sırasıyla tekli, ikili ve üçlü bağlar oluşturan atomun kovalent yarıçap uzunluklarıdır. Bu yarıçaplar arasındaki ilişki, örneğin Karbon gibi çoklu bağlar oluşturan elementler için 
+"r"1 > "r"2 > "r"3 şeklindedir. Ancak, sadece zayıf çoklu bağ oluşturan elementler bu kuralı takip etmeyebilir. Özellikle geçiş metallerinde (d ve f), "r"(A) kovalent yarıçap uzunluğu, koordinasyon sayısına, yani atoma komşu en yakın atomların sayısına bağlıdır. Aynı şekilde, tetrahedral kovalent yarıçapın ayarlanması için iç uyumlu alanlar teorisi kullanıldı.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekonomi tarihi</DOCTITLE>
+<TEXT>
+
+Ekonomi tarihi veya iktisat tarihi, geçmişte yaşanan ekonomik olguların nasıl geliştiği konusunda çalışan bilim dalı. Ekonomi tarihinin analizi; tarihsel durumlara ekonomik teorilerin uygulanması, tarihsel yöntemler ve istatistiksel yöntemlerin bir kombinasyonu kullanılarak ele alınır. Bu başlık, sosyal tarihin örtüşen bazı alanları (demografik tarih gibi) ve işletme tarihi konularını içerir. Ekonomi tarihinin kantitatif incelenmesine, cliometri de denmektedir.
+Ekonomi ve ekonomi tarihi arasındaki ilişki.
+Yale Üniversitesi'nden ekonomist Irving Fisher'ın, ekonomi ve ekonomi tarihi arasındaki ilişki 1933 tarihli ""Debt-Deflation Theory of Great Depressions"" çalışmasında ele alınmış ve bu çalışmasında 1873 yılındaki ekonomik panik ele alınıp deflasyon ve diğer durumların, ekonomik buhranlardan nasıl etkileneceğini çalışmıştır. ABD'li ekonomi tarihçisi Charles P. Kindleberger 1990 tarihli "Historical Economics: Art or Science?". adlı kitabında grçmişteki ekonomik olayların nasıl ele alınması gerektiği konusunu ele almıştır.
+Tarihsel ekonomi yaklaşımlarından biri de cliometri'dir. Bu terimin anlamı, ekonomi tarihinin incelenmesinde ekonomik teori ve ekonometri tekniklerinin sistematik kullanımıdır. Terim ilk kez 1960'da Jonathan R.T. Hughes ve Stanley Reiter tarafından kullanılmış ve Yunan mitolojisindeki ilham perilerinden biri Clio'dan esinlenilmiştir. Cliometristler kendi yaklaşımlarının gereklilik arz ettiğini, çünkü sağlam ekonomi teorilerini formulayonunda tarihsel olayların incelenmesinin hayati olduğunu savunurlar. Cliometri, karşıolgusal tarihin ("counterfactual history") bir tipidir.
+Nobel Ödülü kazanan ekonomi tarihçileri.
+Milton Friedman, 1976 yılında ""tüketim analizi, para tarihi ve teorisi alanlarındaki başarısı için ve istikrar politikasının karmaşıklığını gösterdiği için"" Nobel Ekonomi Ödülü'ne layık görülmüştür. Robert Fogel ve Douglass North 1993 yılındaki Nobel Ödülü'nü ""ekonomik ve kurumsal değişmeleri açıklamak için ekonomik teori ve kantitatif yöntemler uygulayarak ekonomi tarihi konusundaki araştırmaları yeniledikleri için"" kazanmıştır. Akademik kariyerine London School of Economics okulunda ekonomi tarihi konusunda okutmanlık yaparak başlayan Merton Miller, 1990 yılında Harry Markowitz ve William Sharpe ile birlikte Nobel Ödülü kazanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Manyetik akı</DOCTITLE>
+<TEXT>
+
+Φ harfiyle gösterilen Manyetik akı, toplam manyetizmanın ölçüsüdür ve bu yönüyle elektrik yükün manyetik karşılığıdır. Manyetik akı yoğunluğu ise B harfiyle gösterilir ve birim kesit alandan geçen manyetik akı miktarının ölçüsüdür. 
+Birimler.
+Manyetik akı birimi weber 'dir. (Wb) Bu durumda manyetik akı yoğunluğu ise weber/ metre2 dir. (Wb/m2) Ancak uluslar arası SI birimlerde tesla birimi de kullanılır. (T). Buna göre 1 T = 1 Wb/m2.
+Manyetik akı ve akı yoğunluğu arasındaki ilişki.
+Mıknatıs içinde manyetik akı yönü mıknatısın güney kutbundan kuzey kutbuna doğrudsur. Mıknatıs dışında ise ise akı yönü kuzey kutuptan güney kutbuna doğrudur. Bu sebepten manyetik akı mıknatıs içinde ve dışındaki yol boyunca kapalı bir devre oluşturur. Manyetik akı ve manyetik akı yoğunluğu arasındaki ilişki:
+Burada S ile manyetik akı çizgilerinin geçtiği yüzey alanı gösterilmiştir. Integral işaretindeki S ise integralin yüzey integral olduğunu göstermektedir. Bu genel formüldür. Şayet manyetik akı yoğunluğu sabit ve yüzey alanı da düz ise formül basitleşir.
+Burada A toplam yüzey alanı ve θ de akı yönü ile yüzey normal vektörü (yani yüzey ile arasında 900 olan vektör) arasındaki açıdır.Şayet yüzey manyetik akı çizgilerine dik ise formül daha da basitleşir:
+Manyetik akı için Gauss yasasının.
+Maxwell yasalaroından biri olan Manyetik akı için Gauss yasası kapalı bir yüzeyden geçen toplam manyetik akının 0 olduğunu söyler. 
+Bir mıknatısın bir kutbunun çevresinde bir kapalı yüzey oluşturıulduğu varsayılırsa mıknastısın içinden ve dışından geçen manyetik akı ters işaretli, fakat eşit miktardadır. Bu sebepten toplam 0 dır. Aynı şekilde şayet kapalı alan her iki kutbu kapsıyorsa akı çizgileri bir kutuptan diğer kutba gittikleri için yüzey alanını geçen net bir akı yoktur.
+Faraday yasası.
+Maxwell'ın Faraday yasası adını da alan bir diğer yasası kapalı olmayan (yani kendi üzerine kapanmamış olan) yüzey ile ilgilidir.
+Burada E elektrik alanı, formula_6 iletken uzunluğu ve v de bu iletkenin hareket süratidir. formula_7 ise elektromotor kuvvetdir. Yasa manyetik akı değişikliğinin bir elektromator kuvvet (gerilim) meydana getirdiğini göstermektedir.Bu elektrik jeneratörlerinin çalışma ilkesidir.
+Akı ve alan isimlendirmesi hakkında bir irdeleme.
+Kimi fizik kitaplarında manyetik akı yoğunluğu manyetik alan olarak tanımlanır. Oysa manyetik alan şiddetinin geleneksel (ve elektrik mühendisliğinde kullanılan) tanımı farklıdır. Manyetik alan şiddeti H simgesiyle gösterilir ve birimi de amper/m dir. Her iki nicelik arasında şu ilişki vardır. 
+Burada formula_9 manyetik geçirgenliktir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Işık şiddeti</DOCTITLE>
+<TEXT>
+
+Işık şiddeti bir ışık kaynağından birim katıaçı içerisinde yayılan ışık akısının bir ölçüsüdür. Işık akısı dendiği zaman, kaynaktan yayılan toplam akı, ışık şiddeti dendiği zaman ise bir steradyanlık katı açı içerisindeki akı kastedilir. MKS sistemi içerisinde ışık akısının birimi lumen , ışık şiddetinin birimi ise candela, ya da Türkçe söylenişi ile kandela ‘dır. (lumen lm ile kandela cd ile gösterilir.)
+Dalgaboyu ve frekans.
+Işınım dalgaboyu veya frekans ile tarif edilebilir.İkisi arasındaki ilişki 
+Burada λ dalga boyu, f frekans ve c de ışık hızıdır.
+Işık hızı boşlukta 299 792 458 m/s dir. MKS sisteminde dalgaboyu birimi metre (m) , frekans birimi ise Hertz (Hz) dir. (Yukardaki ilişkide frekans GHz cinsinden verilirse, dalgaboyu da nm cinsinden hesaplanabilir.)
+Işınım ve dalgaboyu.
+Işınım yapan kaynaklar sıcaklığa bağlı olarak elektromanyetik spektrumun her noktasında ışınım yapabilirler. Işınım tek bir dalgaboyunda değil, çok geniş bir bant içerisindedir. Fakat sıcaklığa bağlı olarak ışınımın maksimum olduğu bir dalgaboyu vardır. İdeal karacisim için bu dalga boyu Alman fizikçi Wilhelm Wien (1928-1964) tarafından hesaplanmıştır.
+Burada λ ışınımın maksimum olduğu dalgaboyu, T ise mutlak sıcaklıktır. b sabitinin değeri yaklaşık olarak 2.897769 10−3 dir
+İnsan gözü.
+İnsan gözü 380-740 nm (nanometre) arasndaki dalgaboylarına duyarlıdır. Bu bandın üç noktalarında duyarlılık düşüktür. Maksimum duyarlıklık (aydınlık ortamda) 555 nm dalga boyundaki (ya da frekans birimleriyle verilecek olursa 540 THz deki) yeşil renktir. Yani sadece bu frekansta ışınım yapacak (monokromatik) bir ışık kaynağının ışık verimi maksimumdur. Güneş ışığının spektral açılımı incelenecek olursa, Güneş ışığının da insan gözünün duyarlılığının yüksek olduğu bir bölgede yoğunlaştığı görülür.
+Işınım kaynakları ve ışık şiddeti.
+Işık akısı kaynağın ışınım gücüne ve göz duyarlılığına bağlıdır. (Genellikle her iki parametre de dalgaboyuna göre bir eğri oluşturduğundan, bu eğriler duyarlık sınırları içinde entegre edilmelidirler.) Bu şekilde bulunan ışık akısının steradyan cinsinden bir katı açı içine düşen miktarı ışık şiddetini gösterir.
+Bu denklemde I ile ışık şiddeti, Φ ile toplam ışık akısı ve A ile de steradyan cinsinden alan gösterilirmiştir.
+Şayet Düzgün ışık dağılımı olan noktasal bir kaynak söz konusuysa, ışık akısı ışık şiddetinin 4•л katıdır. Ancak yapay ışık kaynakları hemen hemen daima belli bir yönü diğer yönlerden daha çok aydınlattığı için (abajur, projektör vb.) bu iki büyüklük arasındaki ilişki için sistemin geometrisinden yararlanılır.
+Bir noktasal kaynağın oluşturduğu kürenin tam yarısı karartılırsa, toplam ışık akısı yarıya düşer. Fakat kapatılımayan bölgede ışık şiddeti değişmez. Bir başka değişle, bu durumda, ışık akısı ışık şiddetinin 2•л misli olur. Aynı şekilde karartılan bölge arttıkça ışık akısı ile ışık şiddeti arasındaki oran da düşer.
+Temel birim olarak ışık şiddeti.
+Işık şiddeti optik ve fotometri nicelikleri arasında temel nicelik olarak alınmıştır. Uluslar arası komisyon "Commission internationale de l'éclairage" candela birimin yedi temel SI biriminden biri ilan etmiştir. (diğerleri metre, kilogram, saniye, ampere, Kelvin ve mol) 
+Aydınlanma ve ışık şiddeti.
+Aydınlanma kaynakla değil, aydınlanan yüzeyle ilgili bir niceliktir ve birim alan üzerine dik olarak düşen ışık akısı anlamına gelmektedir. Birimi lüks’tür. (lx kısaltmasıyla gösterilir.) 
+Işık şiddeti ile aydınlanma şiddeti arasında şu ilişki vardır.
+Burada E ile aydınlanma şiddeti, I ile de ışık şiddeti ve r ile de aradaki (metre cinsinden) mesafe gösterilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yahvist</DOCTITLE>
+<TEXT>
+
+Yahvist (veya Yehovist, Jehovist, Yahwist, Jahwist) ya da kısaca J, Belgesel hipotez (DH)'e göre Tora'yı oluşturan dört ana kaynaktan biridir. Kaynakların en eskisi olup Tekvinin yarısına yakınını, Çıkış'ın ilk yarısını ve Sayıların bazı kısımlarını oluşturur. J'de Tanrı insansı olarak anlatılıp ismi "Yahweh" (Yehova)'dir; Yehuda Krallığı'na ve bu krallıktaki insanların tarihine özel bir ilgi duymaktadır. J'nin ~M.Ö. 950'de derlendiğine ve ~M.Ö. 400'de Tora ile birleştirildiğine inanılır.
+Ön bilgi.
+Tekvin'in Yahvist yazarı ilk olarak 1753'te Fransız doktor Jean Astruc (1684–1766) tarafından tanımlanıp, kitabı "Conjectures sur les mémoires originaux dont il paraît que Moïse s'est servi pour composer le livre de la Genèse" ("Görünüşe göre Tekvin Kitabının oluşturulmasında kullanılan Musa'nın orijinal hatıralarının varsayımları")'de anlatılmıştır. "Jahwist" (J) ismi Alman uzmanların kullandığı terminolojiden kaynaklanmaktadır.
+Julius Wellhausen (1844–1918) Yahvist kaynağı belgesel hipotez ile birleştirdi böylece yüksek eleştirinin temelini hazırladı.
+Yahvist metnin doğası.
+Kaynakta Tanrı'nın ismi YHWH olarak geçmektedir, bu isim "Yehova"nın eski söyleniş şeklidir. Kitab-ı Mukaddes tercümelerinde bu isim için "RAB" kullanılır. Yhwh de kullanılan "w" sesi bugünkü modern İbranice'de kullanılmamaktadır.
+Yahvist metin, Yehova'nın insanı kilden yaratıp hayat nefesi üflemesiyle başlayıp Musa'yı "kendi elleriyle" kile gömmesiyle biter. J'de Yehova, insansı bir figürdür, Cennet Bahçesinde (Eden) akşam melteminde yürüyüşten hoşlanır, Adem ve Havva'ya hayvan postundan giysiler yapar, Abram'ın kendisine sunduğu yemeklerin tadını çıkarır, insanlarla yüz yüze konuşur (bkz Çıkış 24:10-11), savaşta Yeşu'nun yanında yer alır, Musa'yı kendi elleriyle gömer. Sodom ve Gomora hikayesinde de görüldüğü gibi kendisiyle pazarlık yapılabilir. Çıkış kitabında İsrailoğullarına öfkeli olan Tanrı'nın Musa soyundan gelenler hariç halkı yok edeceğini söylemesine rağmen bu fikirden caydığı görülür (Çıkış 32:14).
+J'de, Yehuda'nın geleneklerine ve komşuları Edom ile olan ilişkilerine özel bir ilgi vardır. J, İsrail'e karşı Yehuda'yı destekler. J, aynı zamanda, Kudüs merkezli Harun soyundan gelen rahipleri de desteklemektedir.
+Meryem Ezgisi olarak da bilinen Deniz Ezgisi'nde Yehova şavaşçı olarak gösterilir (Çıkış 15:3). Yehova her zaman cennetteki iyi huylu Tanrı olmayıp tehlikeli de olabilmektedir; örneğin, yeni peygamber seçilen Musa'yı öldürmeye kalkışmış, keyfi olarak Musa'nın Kenan topraklarına girmesini engellemiş, Babil'de insanların dillerini değiştirmiştir.
+Tekrarlayan temalar.
+Michael D. Coogan, "Introduction to the Old Testament" (Eski Ahit'e Giriş) kitabında Yahvist geleneğin tekrar eden üç temasından bahseder. Bu temalar insanın toprakla olan ilişkisi, insanla Tanrı'nın ayrılışı ve insanoğlunun gittikçe yozlaşmasıdır.
+İnsan ile toprak arasındaki ilişki.
+J kaynağının kendisine has özelliği insan ile toprak arasındaki ilişkidir. Bu motif ilk Tekvin 2:4b - 3:24'te görülür; "ilk insan "adam"dır çünkü topraktan çıkarılmıştır." İbranice'de Yer/Dünya/Toprak "adama"dır, dolayısıyla insan toprağın türevidir. Başlangıçta insan toprak ile uyum içinde yaşar. İnsanın cennet bahçesinde kurallara uyamamasıyla bu ilişki bozuldu. Tekvin 3:19'da, toprağın insan için lanetlendiğini, yemek bulmak için toprağın işlenmesi gerektiğini anlatır. Tekvin 3:19'da aktarıldığı üzere insanın toprakla uyumu insanın ölümünden sonra gerçekleşecektir. Bu motif Habil ve Kabil hikayesinde de işlenmiştir. Cinayetten sonra Kabil toprağın laneti altına girdi. Görünüşe göre insanla toprak arasındaki ilişki Nuh'tan sonra düzelmiştir. Kendisi için "toprak adamı" olarak bahsedilen Nuh ile toprağın laneti hafiflemiştir. Sonuç olarak J kaynağında insanın yozlaşmasıyla toprak arasındaki ilişki yer alır.
+Kutsal olanla insanın ayrılışı.
+J kaynağında sıkça tekrarlanan temalardan biri de insan ile kutsal dünya arasındaki sınırlardır. Örneğin Tekvin 3:22'de anlatıldığına göre, yasak meyvenin yenmesiyle erkek ve kadın tanrı gibi oldular ve Cennet Bahçesi'nden kovuldular, böylece hayat ağacına erişimleri engellendi ve tam anlamıyla ilahi ve ölümsüz olamadılar. Bu tema, Tanrı'nın oğullarıyla insan kadınlar arasındaki cinsel ilişkiyi anlatan Tekvin 6:1-4'te de aktarılır. Yehova bunun kurallara aykırı olduğunu belirtip bu ilişkilerden doğanların yaşam sürelerini sınırlamıştır. Son olarak bu tema Tekvin 11:1-9'da Babil Kulesi hikayesiyle görülür; insanın istediği herhangi birşeyi yapabilme yeteneğini gören Tanrı onların ilahi vasıfa ulaşmalarını engellemek için iletişimlerini kesmek amacıyla dillerini değiştirdi.
+İnsanın kademeli yozlaşması.
+Yahvist geleneğin üçüncü teması insanın artan yozlaşmasıdır. Havva'nın Tanrı'nın kurallarına uymaması, Habil ve Kabil hikayesindeki kardeş katli gibi olayların sonunda tufan gerçekleşti (Tekvin 6:5-6). "Rab", insanoğlunun artan günahkarlığını görünce onları yarattığına pişman oldu ve kalbine sıkıntı çöktü. Bu antroposentrizm iması Yahvist kaynakla bağdaştırılır.
+J'deki soy ağaçları.
+Her ne kadar Tekvin'deki çoğu soyağacı P ile bağdaştırılsa da bazıları J kaynağından gelmektedir. Tekvin 4 ve 10'da Adem'den Enoş'a kadar olan soyağacı "parçalı" olarak sunulmuştur; yani, belli başlı karakterlere ulaşmak için bazı nesiller atlanarak gösterilmiştir.
+Elohist ile karşılaştırma.
+Yahvist kaynak muhtemelen Adem ve Havva hikayesiyle başlar; Tanrı'nın önce ışığı yaratmasıyla başlayan Yaratılış hikayesi P'nin çalışması olduğu düşünülür, muhtemelen P bu bilgiyi sözlü geleneklerden elde etmiştir. J'deki yaratılış hikayesi bugün kaybolmuştur ve belki de hiçbir zaman öğrenilemeyecektir. Harold Bloom'a göre, Tora'da bir deniz canavarı olan Leviathan'ın yok edilişi J kaynağına aittir çünkü dış güçlerin üstesinden gelme Yhwh'ın bir özelliğidir.
+J, genel insan durumuyla ilgili hikayeler anlatır; kimisi Adem ve Havva, Habil ve Kabil gibi geniş çaplı hikayeler olup kimisi Ham'ın laneti ve Babil Kulesi gibi küçük çaplıdır. Ayrıca Nuh Tufanı'nı ve kısa kesildiği için zor anlaşılan Nefilim hikayesini içinde barındırır.
+Yahvist kaynağı, kuzeydeki İsrail Krallığı'nın yok olmasıyla bölgenin önemli merkezi haline gelen güneydeki Yehuda Krallığı'yla ilgili hikayeler anlatması ön plana çıkmaktadır ve bu hikayeler kuzeyle ilgilenen Elohist kaynakta yer almamaktadır. Örneğin, Edom kavminin atası olan Esav'ın, onun kardeşi Yakup'a olan kızgınlığını, sonra barışmasını anlatan hikayeler ve Edom'un krallarının isimleri bulunur. 
+Elohist'in aksine Yahvist kaynak, Edom'da olduğu gibi, isimlerini ataları Lut'tan alan düzlüklerdeki şehirlerle de ilgilenmektedir. Sodom ve Gomora, Yahvist kaynaktan doğan bir hikaye olup Tanrı insansıdır ve kendisiyle pazarlık yapıldığı görülür. Yine bu düzlüklerde yaşayan ve Lut ile kızı arasındaki ensest ilişkiden doğan Moav ve Ammon uluslarının karalanması Yahvist kaynağa aittir.
+J, aynı zamanda güneydeki kavimlerin politik durumlarıyla ilgili öyküler sunar, buna en uygun örnek Dina'ya yapılan tecavüz hikayesidir; bu hikaye Şehem'in sahiplerini ve Şimon ile Levi kabilelerinin neden toprak sahibi olamadıklarını anlatır. Yahvist kaynak ayrıca, ilk doğan olmasına rağmen Reuben kabilesinin topraklarının neden az olduğunu anlatmaya çalışır. Akademisyenler tarafından Reuben ile Bila arasındaki ensest ilişki redaktör tarafından kesildiğine inanılır ve bugün Tora'da bunula ilgili sadece bir cümle bulunur.
+Yahvist, güney kabilelerine ilgi duymasına rağmen her zaman onlar hakkında olumlu şeyler söylemedi. Yehuda'nın çocukları bir şekilde karalanmıştır. Er, sebepsiz bir şekilde kötü gösterilmektedir; Onan'ın yengesiyle evlenmediğini, Şelah'ın çocuksuz olduğunu, Farez ile Zara'nın fahişelik ve ensestliğin ürünü olduğunu anlatmaktadır. Yahvist, kuzey kahramanı olan Yusuf'u aşağılayıp Potifar'ın karısı tarafından tecavüze uğradığını anlatıp rüya tabircisi olduğuyla ilgili hikayeleri es geçmektedir. Musa'nın gençliğinde katil olduğunu bildirir.
+Elohist kaynağa kıyasla Yahvist kaynak daha uzun bir zaman dilimini kapsar. Kenan topraklarına girmeden önce 12 Casus hikayesini sunar. Kuzeydekilerle ilgili bir hikaye olmasına rağmen Yahvist kaynak, Kenan topraklarına giderken Şeria Nehri'nin doğusundan gidip önce oradaki şehirlerin fethedildiğini anlatır. Ruhbani kaynağın kendine bir has dili olduğundan bu kolaylıkla ayırt edilebilirken Yahvist ve Elohist hikayeleri ayırt etmek bazen güç olabilmektedir, dolayısıyla biraz evvel anlatılan Elohist kaynağa bağlı da olabilir. Genelde Kenan topraklarının orta ve kuzey kesimiyle Elohist kaynak, güney kesimiyle de Yahvist kaynak ilgilenmektedir fakat güneydeki ayaklanmanın bastırılması hikayesi redaktör tarafından kesintiye uğramıştır.
+Yahvist'in dini öyküleri de Elohist'e kıyasla farklılıklar gösterir - sünnet olayı Yahvist kaynakta yer alırken ilginç bir şekilde Elohist kaynakta yer almamaktadır; örneğin İsmail'in sünnet oluşunun anlatılışı Yahvist kökenlidir. Konaklama yerinde Sippora hikayesi de Yahvist kökenlidir fakat bugünkü Tora'da redaktör tarafından fazlaca kesintiye uğradığı için akademik olarak ne anlatılmak istendiği anlaşılamamaktadır.
+Genelde Yahvist, Elohist gibi doğaüstü bir dünya sunmamaktadır; örneğin, Musa'nın doğaüstü güçleri yoktu ve On Bela sürecinde Firavun Musa'ya yalvardıkça, belaları durdurması için Musa da Tanrı'ya yalvarıyordu. Buna rağmen, gerek Adem ve Havva hikayesindeki yılan gerekse de Balaam hikayesindeki eşek gibi konuşan hayvanlar Elohist'te değil Yahvist'te yer almaktadır.
+Yahvist metnin kökeni.
+J'nin, Yehuda ve onunla ilgili kabilelerin (Levi, Şimon, Reuben) çeşitli hikayeleri ve geleneklerinin biraraya getirilmesiyle oluştuğuna inanılmaktadır. J'de ayrıca, Yahuda'nın yaşadığı düzlüklerde komşuları olan ve aynı kökenden geldikleri Edom (Esav aracılığıyla akraba), Moav ve Ammon (Lut aracılığıyla akraba) gelenekleri de mevcuttur. 
+Bazı bağımsız kaynak metinleri de J'de yer alır:
+J'nin Harun rahipleri tarafından türetildiği düşünülmektedir. J'de Musa'nın önemi indirgenmiş (Şilo rahipleri büyük ihtimalle Harun'dan ziyade Musa'nın soyundan, dolayısıyla "Muşit"ler de Musa'nın soyundan gelmiştir), Harun dininin kemeri ve tapınağı kontrol eden semboller desteklenmiştir. J, Şilo rahipliğiyle bağdaştırılan "Buluşma Çadırı"ndan veya Nehuştan'dan hiç bahsetmemektedir.
+J ayrıca David handenlığının üzerinde durmaktadır, soyağacını Yesse oradan Yehuda'nın en büyük oğlu Farez'e dolayısıyla Yakup, İshak, Avraham, Şem ve Nuh'a dayandırır.
+Alternatif görüşler.
+Richard Elliot Friedman'a göre J kaynağında güçlü tematik bir devamlılık söz konusu olup Yeşu, Samuel ve oradan Süleyman'ın kort tarihine kadar uzanır; Edom Yehuda'dan M.Ö. 815'te koptuktan sonra fakat İsrail M.Ö. 722'de yıkılmadan evvel muhtemelen bir kadın tarafından derlenmiştir. Dediğine göre J, "Yehova cenneti ve yeri yarattığı gün" cümlesiyle başlar ve yukarıda da belirtildiği gibi Yaratılış hikayesi P tarafından eklenmiştir.
+Israel Finkelstein'a göre ise, David ve Şlomo zamanında gerçekleştiği anlatılan toplumsal olaylar ancak kuzeydeki İsrail Krallığı yıkılıp göçler sebebiyle güneydeki krallığın nüfusu %500 arttığı zaman ile uyumlu olduğundan, J kaynağı İsrail Krallığı'nın yıkılışından sonra derlenmiştir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Charles yasası</DOCTITLE>
+<TEXT>
+
+Charles yasası, gaz yasalarından biridir. Bu yasaya göre, sabit basınçta, herhangi bir miktardaki ideal gazın hacminin azalıp çoğalması, aynı oranda sıcaklığının da azalıp çoğalmasını etkiler.
+Yasa, ilk defa, Joseph Louis Gay-Lussac tarafından 1802'de yayımlanmıştır. Ancak bu yayımda, 1787'de yazılıp yayımlanmayan Jacques Charles'ın bir yapıtına referansta bulunmuştur. Bu nedenle de, yasa, Charles'ın adıyla anılmaktadır. Gazların arasındaki ilişki, 1702'de Guillaume Amontons tarafından da keşfedilmişti.
+Yasanın formülü:
+Bir gaz, sabit basınçta ısıtılırken, "k" sabitini elde etmek için hacim artmalıdır. Aynı şekilde gaz, sabit basınçta soğutulurken, hacim azalmalıdır. Sabitin tam değeri, yasanın kullanılabilmesi için gerekli değildir.
+Kısacası, sıcaklık artarsa basınç azalır.
+Charles yasası, aynı zamanda Charles ve Gay-Lussac yasası olarak da bilinir, çünkü Charles, Gay-Lussac'ın Gay-Lussac yasasını bularak elde ettiği sonuçlarını kullanarak yasayı bulmuştur. Ancak yakın zamanlarda, Gay-Lussac'ın kendi yasasına adı verildiğinden, Charles yasası kullanımı artmıştır.
+Charles yasası, Boyle yasası ve Gay-Lussac yasası, birlikte toplam gaz yasası'nı ortaya çıkarırlar. Bu yasaya bir de Avogadro yasası'nın eklenmesi, ideal gaz yasasını ortaya çıkarır.
+and
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çalışma psikolojisi</DOCTITLE>
+<TEXT>
+
+Çalışma psikolojisi, eskiden sanayi kuruluşlarında, günümüzde ise çok çeşitli kuruluşlarda uygulanan psikoloji bilim dalıdır. Çalışan kişilerin ruh halleri ile ilgilenir.
+Almanya’da çalışma ve iş psikolojisi, Polonya’da psikoteknik ve Fransa’da çalışma psikolojisi olarak isimlendirilen bu bilim dalı, uygulamalarının artık yalnızca sanayi kuruluşlarında değil, çok çeşitli kuruluşlarda yapılması nedeniyle bu ismi almıştır.
+Tarihsel gelişim.
+Çalışma psikolojisinin yakın tarihte ortaya çıktığı düşünülmektedir, ancak bazı Avrupa ülkelerinde bu alanda 1920’den önce yapılmış bazı çalışmalar vardır. Örneğin L.O Patrizi Modena, İtalya’da 1889’da bir çalışma psikolojisi laboratuarı kurmuştur. 1908 Lahy Fransa’da demiryolu mühendisleri için iş tasarımı ve seçme konuları incelemiştir. İngiltere’de 1918’de Sanayi Yorgunluk Araştırma Kulübü oluşturulmuştur. 1919’da Almanya ve İsviçre’de seçme testleri programları uygulanmaya başlanmıştır. 1920’de Polonya’nın Krakow kentinde Psikoteknik Enstitüsü kurulmuştur. (Baysal, 1993:41-42)
+Çalışma Psikolojisi yazını incelendiğinde aslında 2 temel yapı üzerine inşa edildiği görülür. Bunlardan ilki bireyin işine uyumlaştırılması (fitting the man to the job ‘FMJ’) diğeri ise işin bireye uyarlanması (fitting the job to the man ‘FJM’) dır.
+Bireyin işe uyarlanması; personel seçimi, eğitimi ve mesleki yardım (uyum) aşamalarını içerirken; işin bireye uyarlanması ise, görevlerin tasarımı, alet ve edavatların bireye göre düzenlenmesi ve çalışma koşullarının bireyin fiziksel ve psikolojik yapısına göre şekillendirmesi süreçlerini içermektedir.
+Çalışma psikolojisi bilim dalı sadece bireyin işe uyumu ve işin bireye uyumlaştırılması sürecini ifade etmez. Diğer yandan birey ve işi arasındaki ilişkiye yönelik “beşeri ilişkiler yaklaşımı” da çalışma psikolojisi bilim dalının önemli yapı taşlarındandır. Hatta bu konudaki önemli gösterge Hawthorne Araştırmalarının çalışma psikolojisi bilim dalında önemli bir kilometre taşı olarak görülmesi gösterilebilir. Beşeri ilişkiler yaklaşımı ile örgüt, birey ve grup kavramları arasındaki ilişki telaffuz edilmek istenmektedir. Dolayısıyla çalışma psikolojisi bilim dalının değer verdiği önemli başlıklar, örgüt, birey ve örgütte oluşan gruplardır. Bu üçlü arasındaki ilişki ağı çalışma psikolojisi terminolojisinin önemli bir kısmını teşkil eder. (Arnold, Cooper. Robertson, 2004)
+Kavramsal açıklama.
+Çalışma Psikolojisi bilim dalına ilişkin net bir tanımlama yapılamamaktadır. Bu sıkıntının temelinde kavramın ülkeden ülkeye ve yazardan yazara farklı yaklaşımla ele alınması yatmaktadır. Çalışma Psikolojisi kavramı daha çok Almanya’da kullanımı yaygın olan İş Psikolojisi (Arbeitpsychologie) kavramına eş anlamlı bir kavramdır. İş Psikolojisi dalının iş ve çalışan arasında sınırlı kalması kavramın içeriğini daraltmaktadır. Bu nedenle çalışma psikolojisi kavramının “İş Psikolojisi” kavramının kapsamını genişlettiği düşünülebilir. (Tınar, 1996:24) Örgüt Psikolojisi ise, örgütte geliştirilen stratejik yaklaşımlar çerçevesinde örgüt ve birey uyumuna odaklanır.
+Çalışma Psikolojisi, “çağdaş gelişmelerin gereği olarak sistem yaklaşımı içinde, işletmede çalışan bireyi, onlardan oluşan grup ve örgütü bir bütün olarak ele alır ve inceler”. (Sabuncuoğlu, 1984:3) Bu tanımda görüldüğü üzere “çalışma psikolojisi”, örgütte yer alan birey ve grupları bir bütün olarak ele alır. O halde “örgüt psikolojisi” ile “çalışma psikolojisi” arasındaki ayrışma, bilim dallarının bakış açılarına dayanmaktadır. : “Çalışma psikolojisi” bireyi odak noktası olarak alırken; “örgüt psikolojisi” örgütü odak noktası olarak alır. Bu bağlamda “çalışma psikolojisi” bilim dalı, bireyin çalışma yaşamına ilişkin koşullarının iyileştirilmesi, çalışma yaşamına ilişkin sorunlarının giderilmesini ve bireyin çalışma yaşamı kalitesinin arttırılması sağlamayı hedefleyen bir disiplindir.
+Genel olarak bir tanıma gidilmek gerekirse, “Çalışma Psikolojisi; çalışma yaşamında psişik sorunlara yol açan alanları inceleyen, sorunların nedenleri ve çok yönlü etkileri ile çözüm yollarını araştıran, çalışma yaşamı ve çalışan insan arasında sağlıklı ve verimli bir uyum sağlamayı amaçlayan, bu yönde bilgi üretimi için çaba gösteren bir bilim dalı olarak tanımlanabilir”. (Tınar, 1996:26)
+Günümüzde çalışma hayatında, çalışanların ilgi, yetenek ve işlerinden beklentileri ya da amaçları ile örgüt amaçları arasında uyumun sağlanması ideal bir istihdam ya da yöneltme ilkesi olarak kabul edilebilir. Bu uyum esasının gerçekleştirilmesi çalışma psikolojisinin başlıca hedefi olmaktadır. (Silah, 2005:24)
+
+</TEXT>
+</DOC>
+

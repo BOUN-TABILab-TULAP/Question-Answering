@@ -1,0 +1,122 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Akım rejimleri yıl içinde birden çok kez değişen akarsulara ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(6875, {label: "Çoğunlukla",nodeclass: "type-TK"});
+ g.addNode(6876, {label: "bilim",nodeclass: "type-TK"});
+ g.addNode(6877, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(6878, {label: "tekniğin",nodeclass: "type-TK"});
+ g.addNode(6879, {label: "geliş",nodeclass: "type-TK"});
+ g.addNode(6880, {label: "gelişmesine",nodeclass: "type-TK"});
+ g.addNode(6881, {label: "katkıda",nodeclass: "type-TK"});
+ g.addNode(6882, {label: "bulun",nodeclass: "type-TK"});
+ g.addNode(6883, {label: "bulunabilecek",nodeclass: "type-TK"});
+ g.addNode(6884, {label: "nitelik",nodeclass: "type-TK"});
+ g.addNode(6885, {label: "nitelikli",nodeclass: "type-TK"});
+ g.addNode(6886, {label: "elemanların",nodeclass: "type-TK"});
+ g.addNode(6887, {label: "başka",nodeclass: "type-TK"});
+ g.addNode(6888, {label: "ülkelere",nodeclass: "type-TK"});
+ g.addNode(6889, {label: "çalış",nodeclass: "type-TK"});
+ g.addNode(6890, {label: "çalışmak",nodeclass: "type-TK"});
+ g.addNode(6891, {label: "amaç",nodeclass: "type-TK"});
+ g.addNode(6892, {label: "amaçlı",nodeclass: "type-TK"});
+ g.addNode(6893, {label: "göç",nodeclass: "type-TK"});
+ g.addNode(6894, {label: "et",nodeclass: "type-TK"});
+ g.addNode(6895, {label: "etmelerine",nodeclass: "type-TK"});
+ g.addNode(6896, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(6897, {label: "de",nodeclass: "type-TK"});
+ g.addNode(6898, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(6899, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,6875,6877,{label: "INSTRUMENTAL.ADJUNCT"});
+ g.addEdge(null,6876,6877,{label: "NESNE"});
+ g.addEdge(null,6877,6883,{label: "BAĞLANTI"});
+ g.addEdge(null,6878,6880,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,6879,6880,{label: "TÜREME"});
+ g.addEdge(null,6880,6883,{label: "NESNE"});
+ g.addEdge(null,6881,6883,{label: "DE HALİ"});
+ g.addEdge(null,6882,6883,{label: "TÜREME"});
+ g.addEdge(null,6883,6898,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6884,6885,{label: "TÜREME"});
+ g.addEdge(null,6885,6886,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6886,6898,{label: "ÖZNE"});
+ g.addEdge(null,6887,6888,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6888,6890,{label: "NESNE"});
+ g.addEdge(null,6889,6890,{label: "TÜREME"});
+ g.addEdge(null,6890,6898,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6891,6892,{label: "TÜREME"});
+ g.addEdge(null,6892,6893,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6893,6894,{label: "NESNE"});
+ g.addEdge(null,6894,6895,{label: "TÜREME"});
+ g.addEdge(null,6895,6898,{label: "ÖZNE"});
+ g.addEdge(null,6896,6898,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6897,6898,{label: "TÜREME"});
+ g.addEdge(null,6898,6899,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Termik	termik	+Adj
+
+basınç	basınç+Noun+A3sg+Pnon+Nom
+
+alanları	al	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+P3pl+Nom
+alanları	al	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Acc
+alanları	al	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+P3sg+Nom
+alanları	al	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+P3pl+Nom
+alanları	alan	+Noun+A3pl+Pnon+Acc
+alanları	alan	+Noun+A3pl+P3sg+Nom
+alanları	alan	+Noun+A3pl+P3pl+Nom
+alanları	alan	+Noun+A3sg+P3pl+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+oluşur	oluş+Verb+Pos+Aor+A3sg
+oluşur	oluş+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

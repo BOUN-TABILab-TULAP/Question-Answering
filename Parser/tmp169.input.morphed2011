@@ -1,0 +1,45 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+ABD	Abd	+Noun+Prop+A3sg+Pnon+Nom
+
+ikinci	ikinci	+Num+Ord
+
+dünya	dünya+Noun+A3sg+Pnon+Nom
+
+savaşında	savaş+Noun+A3sg+P3sg+Loc
+savaşında	savaş+Noun+A3sg+P2sg+Loc
+
+hangi	hangi	+Adj
+
+şehirlere	şehir+Noun+A3pl+Pnon+Dat
+
+atom	atom	+Noun+A3sg+Pnon+Nom
+
+bombası	bomba	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+bombası	bomba	+Noun+A3sg+P3sg+Nom
+
+atmıştır	at	+Verb+Pos+Narr+A3sg+Cop
+atmıştır	at	+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

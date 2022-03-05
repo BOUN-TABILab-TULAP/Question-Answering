@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir+Adverb bir+Det bir+Num+Card bir+Adj Bir+Noun+Prop+A3sg+Pnon+Nom
+maddenin madde+Noun+A3sg+Pnon+Gen madde+Noun+A3sg+P2sg+Gen
+hücre hücre+Noun+A3sg+Pnon+Nom
+zarından zar+Noun+A3sg+P3sg+Abl zar+Noun+A3sg+P2sg+Abl
+enerji enerji+Noun+A3sg+Pnon+Nom
+harcayarak harca+Verb+Pos^DB+Adverb+ByDoingSo
+geçmesine geç+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Dat geçme+Adj^DB+Noun+Zero+A3sg+P3sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,646 @@
+Onkoloji Hastalıkların Uluslararası Sınıflandırması
+Onkoloji (ICD-O) Hastalıkların Uluslararası Sınıflandırması tümör hastalıklarının Hastalıkların Uluslararası İstatistiki Sınıflaması ve İlgili Sağlık Sorunlarının bir etki alanına özgü uzantısıdır. Bu sınıflandırma yaygın kanser kayıtları tarafından kullanılır.
+Bu üçüncü revizyon (ICD-O-3) şu anda. ICD-10 morfolojisi kodlarının bir listesini içerir. Onlar yayınlandığı tarihte geçerli olan ICD-O ikinci baskı (ICD-O-2) kaynaklanıyor.
+Eksen.
+Topografya ve morfolojisi: Sınıflandırma iki ekseni vardır.
+Morfoloji.
+Morfolojisi ekseni tümör şekil ve yapı içindir.
+Bu eksen Tıp Sistematik İsimlendirme ("SNOMED") morfoloji ICD-O sınıflandırma kabul etmiştir, çünkü belirli bir öneme sahiptir. SNOMED Sürekli değişen olmuştur ve SNOMED birkaç farklı versiyonları kullanılmaktadır. Buna göre, SNOMED için ICD-O kodları eşleme kişiler gerçekten doğru olup olmadığını maçlar dikkatli değerlendirilmesini gerektirir.
+Topoğrafya.
+Topografya eksen vücutta tümör sitesinin içindir. Bu ICD-10 C bölümü ile standardize edilmiştir
+ICD-O-2 ve ICD-O-3 arasındaki topografyası ekseninde herhangi bir değişiklik olmamıştır.
+ICD-10 kodları # listesi (C00-C97) örnekler Malign Tümörleri bakın.
+Morfoloji Kodları (ICD-O-3).
+839-842 Adneksial Ve Cilt apendiks Tümörleri.
+M8390 / 0 Cilt uzantısı adenom (C44._)
+M8390 / 3 Cilt uzantısı karsinom (C44._)
+M8391 / 0 Foliküler fibrom (C44._)
+M8392 / 0 Syringofibroadenoma (C44._)
+M8400 / 0 Ter bezi adenom (C44._)
+M8400 / 1 Ter bezi tümörü, BBT (C44._)
+M8400 / 3 Ter bezi adenokarsinomu (C44._)
+M8401 / 0 Apokrin adenom
+M8401 / 3 Apokrin adenokarsinomu
+M8402 / 0 Nodüler hidradenoma (C44._)
+M8402 / 3 Nodüler hidradenoma, malign (C44._)
+M8403 / 0 Ekrin Spiradenoma (C44._)
+M8403 / 3 Malign ekrin Spiradenoma (C44._)
+M8404 / 0 Hidrokistom (C44._)
+M8405 / 0 Papiller hidradenoma
+M8406 / 0 Papiller syringadenoma (C44._)
+M8407 / 0 siringoma, BBT (C44._)
+M8407 / 3 Sklerozan ter kanalı karsinomu (C44._)
+M8408 / 0 Ekrin papiller adenom (C44._)
+M8408 / 1 Agresif dijital papiller adenom (C44._)
+M8408 / 3 Ekrin papiller adenokarsinom (C44._)
+M8409 / 0 Ekrin poroma (C44._)
+M8410 / 0 sebase adnoma (C44._)
+M8410 / 3 sebase adenokarsinomu (C44._)
+M8413 / 3 Ekrin adenokarsinomu (C44._)
+M8420 / 0 Ceruminous adenom (C44.2)
+M8420 / 3 Ceruminous adenocarcinioma (C44.2)
+843 Mukoepidermoid Tümörleri.
+M8430 / 1 Mukoepidermoid tümörü
+M8430 / 3 Mukoepidermoid karsinom
+844-849 Kistik, Müsinöz Ve Seröz Tümörler.
+M8440 / 3 sistadenokarsinoma, NOS
+M8441 / 0 Seröz kistadenom, NOS
+M8441 / 3 Seröz kistadenokarsinom, NOS (C56.9)
+M8442 / 1 Seröz kistadenom, sınırda malignite (C56.9)
+M8443 / 0 Berrak hücreli kistadenom (C56.9)
+Sınır malignite M8444 / 1 berrak hücreli tümör, kistik (C56.9)
+M8450 / 0 Papiller kistadenom, NOS (C56.9)
+M8450 / 3 Papiller kistadenokarsinom, NOS (C56.9)
+M8451 / 1 Papiller kistadenom, sınırda malignite (C56.9)
+M8452 / 1 Katı sahte papiller tümörü (C25._)
+M8452 / 3 Katı pseudopapiller karsinom (C25._)
+M8453 / 0 İntraduktal papiller müsinöz-adenom (C25._)
+Orta displazi ile M8453 / 1 İntraduktal papiller müsinöz tümör-(C25._)
+M8453 / 2 İntraduktal papiller müsinöz karsinom-non-invaziv (C25._)
+Invazif M8453 / 3 İntraduktal papiller müsinöz karsinom-(C25._)
+Atriyo-ventriküler düğüm M8454 / 0 Kistik tümör (C38.0)
+M8460 / 0 Papiller seröz kistadenom, NOS (C56.9)
+M8460 / 3 Papiller seröz kistadenokarsinom (C56.9)
+M8461 / 0 Seröz yüzey papilloma (C56.9)
+M8461 / 3 Seröz yüzey papiller karsinom (C56.9)
+Sınır malignite M8462 / 1 seröz papiller kistik tümör (C56.9)
+Sınır malignite M8463 / 1 Seröz papiller yüzey tümörü (C56.9)
+M8470 / 0 Müsinöz kistadenom, NOS (C56.9)
+orta displazi ile m8470 / 1 müsinöz kistik tümör (C25._)
+M8470 / 2 Müsinöz kistadenokarsinom, non-invaziv (C25._)
+M8470 / 3 müsinöz kistadenokarsinom / NOS (C56.9)
+M8471 / 0 Papiller müsinöz kistadenom, NOS (C56.9)
+M8471 / 3 papiller müsinöz kistadenokarsinom (C56.9)
+M8472 / 1 Müsinöz borderline malignite kistik tümör (C56.9)
+M8473 / 1 Papiller müsinöz kistadenom, sınırda malignite (C56.9)
+M8480 / 0 Müsinöz adenom
+M8480 / 3 Müsinöz adenokarsinom
+M8481 / 3 adenokarsinom Müsin üreten
+M8482 / 3 Müsinöz adenokarsinom, endoservikal tip
+M8490 / 3 Signet yüzük hücreli karsinom
+M8490 / 6 Metastatik taşlı yüzük hücreli karsinom
+850-854 Duktal, Lobüler Ve Neoplaziler.
+M8500 / 2 İntraduktal karsinom, Noninfiltratif, NOS
+M8500 / 3 İnfiltratif kanalı karsinomu, NOS (C50._)
+M8501 / 2 Comedocarcinoma, Noninfiltratif (C50._)
+M8501 / 3 Comedocarcinoma, NOS (C50._)
+M8502 / 3 meme sekretuar karsinom (C50._)
+M8503 / 0 İntraduktal papillom
+M8503 / 2 Noninfiltratif intraduktal papiller adenokarsinom (C50._)
+Işgali ile M8503 / 3 İntraduktal papiller adenokarsinom (C50._)
+M8504 / 0 İntrakistik papiller adenom
+M8504 / 2 Noninfiltratif intrakistik karsinom
+M8504 / 3 İntrakistik karsinom, NOS
+M8505 / 0 intraduktal papillomatozun NOS
+Meme başının M8506 / 0 Adenom (C50._)
+M8507 / 2 intraduktal mikropapiller karsinom (C50._)
+M8508 / 3 Kistik hipersekretuar karsinom (C50._)
+M8510 / 3 medüller karsinom, NOS
+Lenfoid stroma ile M8512 / 3 medüller karsinom
+M8513 / 3 Atipik medüller karsinom (C50._)
+M8514 / 3 Kanal karsinom, desmoplastik tip
+M8520 / 2 İn situ lobüler karsinom, BBT (C50._)
+M8520 / 3 lobüler karsinom, BBT (C50._)
+M8521 / 3 kanalsal karsinomu İnfiltre (C50._)
+M8522 / 2 İntraduktal karsinom ve in situ lobüler karsinom (C50._)
+Kanal ve lobüler karsinom İnfiltre M8522 / 3 (C50._)
+Karsinom diğer türleri ile karışık M8523 / 3 İnfiltratif kanalı (C50._)
+Karsinom diğer türleri ile karışık M8524 / 3 İnfiltratif lobüler (C50._)
+M8525 / 3 polimorf düşük dereceli adenokarsinom
+M8530 / 3 İnflamatuar karsinom (C50._)
+M8540 / 3 Paget hastalığı, meme (C50._)
+M8541 / 3 Paget hastalığı ve meme infiltre kanalı karsinomu (C50._)
+M8542 / 3 Paget hastalığı "(kemiğin paget hastalığı hariç)", disi
+M8543 / 3 Paget hastalığı ve meme intraduktal karsinom (C50._)
+8550 Asiner hücreli neoplazmlar.
+M8550 / 0 Asiner hücreli adenom
+M8550 / 1 Asiner hücre tümörü
+M8550 / 3 Asiner hücreli karsinom
+M8551 / 3 Asiner hücre kistadenokarsinom
+856-857 Kompleks epitel tümörleri.
+M8560 / 0 Karma skuamöz hücreli ve bez papillom
+M8560 / 3 Adenoskuamöz karsinom
+M8562 / 3 Epitel-myoepitelyal karsinom
+Skuamöz metaplazi ile M8570 / 3 Adenokarsinom
+Kıkırdaklı ve osseus metaplazi ile M8571 / 3 Adenokarsinom
+Iğsi hücreli metaplazi ile M8572 / 3 Adenokarsinom
+Apokrin metaplazi ile M8573 / 3 Adenokarsinom
+Nöroendokrin farklılaşma ile M8574 / 3 Adenokarsinom
+M8575 / 3 metaplastik karsinomu, NOS
+M8576 / 3 hepatoid adenokarsinom
+858 Timik Epitel Tümörleri.
+M8581 / 3 Timoma, A tipi, malign (C37.9)
+M8582 / 1 Timoma yazın AB, NOS (C37.9)
+M8582 / 3 timoma, tip AB, malign (C37.9)
+M8583 / 1 Timoma, tip B1, NOS (C37.9)
+M8583 / 3 Timoma, tip B1, malign (C37.9)
+M8584 / 1 Timoma, tip B2, NOS (C37.9)
+M8584 / 3 Timoma, tip B2, malign (C37.9)
+M8585 / 1 Timoma yazın B3, NOS (C37.9)
+m8585 / 3 Timoma tipi B3, malign (C37.9)
+M8586 / 3 Timik karsinoma, NOS (C37.9)
+M8587 / 0 Ektopik hamartamatöz timoma
+Timus-benzeri eleman ile M8588 / 3 mili epitelyal tümör
+Timus gibi eleman gösteren M8589 / 3 Karsinomu
+859-867 İhtisas gonadal tümörleri.
+M8591 / 1 Seks kord stromal tümör gonadal, eksik farklılaşmış
+M8592 / 1 Seks kord stromal tümör gonadal, karışık formlar
+Küçük seks kord elemanları ile M8593 / 1 Stromal tümör
+M8600 / 3 Tekoma, malign
+Luteinize M8601 / 0 Tekoma,
+M8602 / 0 Sclerosisng stromal tümör
+M8610 / 0 Luteoma, NOS
+) Granuloza hücreli tümör, NOS
+M8620 / 3 Granuloza hücreli tümör, malign
+M8621 / 1 Granulosa hücre theca hücre tümörü
+M8622 / 1 Granuloza hücre tümörü, jüvenil
+Halka şeklinde tübüller ile M8623 / 1 Seks kord tümörü
+M8630 / 1 Androblastoma / Arrhenoblastoma benign
+M8632 / 1 Gynandroblastoma
+M8633 / 1 Sertoli-Leydig hücreli tümör, ağ gibi
+Heterolog unsurlarla M8634 / 1 Sertoli-Leydig hücreli tümör, ara farklılaşma,
+M8634 / 3 Sertoli-Leydig hücreli tümör, kötü heterolog elemanları ile, farklılaştırılmış
+M8640 / 1 Sertoli tümör, NOS
+M8640 / 3 Sertoli hücreli karsinom (C62._)
+Lipit depolama M8641 / 0 Sertoli hücre tümörü
+Sertoli hücre tümörü kalsifiye M8642 / 1 büyük hücreli
+M8650 / 0 Leydig hücreli tümör, bening (C62._)
+M8650 / 3 Leydig hücreli tümör, malign
+M8660 / 0 Hilus hücre tümörü (C56.9)
+Yumurtalık (C56.9) ve M8670 / 0 Lipid hücreli tümör
+M8670 / 3 Steroid hücreli tümör, malign
+M8641 / 0 Adrenal rest tümör
+868-871 Paragangliomalar ve Glomus tümörler.
+M8680 / 0 Paraganglioma benign
+M8680 / 3 paragangliyom, malign
+M8681 / 1 Sempatik paraganglioma
+M8682 / 1 Parasempatik paraganglioma
+M8683 / 0 gangliyositik paragangliyom (C17.0)
+M8690 / 1 Glomus jugulare tümörü, NOS (C75.5)
+M8691 / 1 Aort cisim tümörü (C75.5)
+M8692 / 1 Karotis cisim tümörü / paraganglioma (C75.4)
+M8693 / 1 Ekstra-adrenal paraganglioma, NOS
+M8693 / 3 Ekstra-adrenal paraganglioma, malign
+M8700 / 3 Feokromositoma, malign (C74.1)
+M8710 / 3 Glomangiosarcoma
+M8711 / 3 Glomus tümörü, Malign
+M8712 / 0 Glomangioma
+M8713 / 0 Glomangiomyoma
+872-879 Nevi Ve Melanomlar.
+In situ M8720 / 2 Melanom
+M8722 / 0 Balon hücreli nevus
+M8722 / 3 Balon hücre melanom
+M8723 / 0 Halo nevüs
+M8723 / 3 Malign melanom, gerileyen
+M8725 / 0 Neuronevus
+M8726 / 0 magnoselüler nevüs (C69.4)
+M8727 / 0 displastik nevüs
+M8728 / 0 Dağınık melanositozis
+M8728 / 1 Meningial melanositoma (C70.9)
+M8728 / 3 Meningial melanomatosis (C70.9)
+M8730 / 0 pigmentsiz nevüs
+M8740 / 0 Junctional nevus, NOS
+Junctional nevüs olarak M8740 / 3 Malign melanom
+M8741 / 2 Prekanseröz melanosis, NOS
+Prekanseröz melanozis içinde M8741 / 3 Malign melanom
+M8746 / 3 mukozal lentiginöz melanom
+M8750 / 0 İntradermal nevüs
+M8760 / 0 bileşik nevüs
+M8761 / 0 Küçük konjenital nevüs
+M8761 / 1 Dev pigmentli nevüs, NOS
+Dev pigmentli nevüs / konjenital melanositik nevüs olarak M8761 / 3 Malign melanom
+Konjenital nevüs olarak M78762 / 1 Proliferatif dermal lezyon
+M8770 / 0 Epiteloid ve iğsi hücreli nevüs
+M8770 / 3 Karma epitelioid ve iğsi hücreli melanom
+M8771 / 0 Epitelioid hücreli nevus
+M8771 / 3 Epitelioid hücre melanom
+M8772 / 0 iğsi hücreli nevus, NOS
+M8772 / 3 Mil hücre melanom, NOS
+M8773 / 3 Mil hücre melanom, A tipi
+M8774 / 3 Mil hücre melanom, B tipi
+M8780 / 0 Mavi nevüs, NOS
+M8780 / 3 mavi nevüs, malign
+M8790 / 0 Hücresel mavi nevus
+880 Yumuşak doku tümörleri Ve Sarkomlar, NOS.
+M8800 / 0 Yumuşak doku tümörü, selim
+M8800 / 9 sarkomatozisler, NOS
+M8801 / 3 Mil hücre sarkomu
+M8802 / 3 Dev hücreli sarkomu (kemik dışında M9250 / 3)
+M8803 / 3 Küçük hücreli sarkomu
+M8804 / 3 Epitelioid sarkomu
+M8805 / 3 ayrım yapılmamış sarkomu
+881-883 fibromlu tümörleri.
+M8810 / 1 Hücresel fibrom (C56.9)
+M8811 / 0 Fibromyxoma
+m8811 / 3 Fibromyxosarcoma
+M8812 / 0 Periosteal fibrom (C40._, C41._)
+M8813 / 0 Fasiyal fibroma
+M8813 / 3 Fasiyal fibrosarcoma
+M8814 / 3 İnfantil fibrosarkom
+M8815 / 0 soliter fibröz tümörü
+M8815 / 3 soliter fibröz tümörü, malign
+M8820 / 0 Elastofibroma
+M8821 / 1 Agresif fibromatosis
+M8822 / 1 Abdominal fibromatosis
+M8823 / 0 Desmoplastik fibrom
+M8824 / 0 Myofibroma
+M8824 / 1 Miyofibromatozis
+M8825 / 0 Myofibroblastoma
+M8825 / 1 myofibroblastik tümör, nos
+M8826 / 0 Anjiomyofibroblastoma
+M8827 / 1 Myobfibroblastic tümör, peribronşial (C34._)
+M8830 / 0 Benign fibröz histiositom
+M8830 / 1 Atipik fibröz histiositom
+M8830 / 3 MFH'nin
+M8831 / 0 Histiyositom, NOS
+M8832 / 0 Dermatofibrom, BBT (C44._)
+M8832 / 3 Dermatofibrosarkoma, BBT (C44._)
+M8833 / 3 pigmente dermatofibrosarkoma protuberans
+M8834 / 1 Dev hücreli fibroblastom
+M8835 / 1 Pleksiform osteokondrom tümörü
+M8836 / 1 anjiomatoid fibröz histiositom
+884 miksomatöz tümörleri.
+M8840 / 3 miksosarkoma
+M8841 / 1 Anjiyomiksoma
+M8842 / 0 ossifaying tümör fibromiksoid
+885-888 lipomatöz tümörleri.
+M8850 / 1 Atipik lipom
+M8851 / 0 fibrolipom
+M8851 / 3 Liposarkom, iyi diferansiye
+M8852 / 0 Fibromyxolipoma
+M8852 / 3 Miksoid liposarkomdur
+M8853 / 3 Yuvarlak hücre liposarkoma
+M8854 / 0 Pleomorfik lipom
+M8854 / 3 pleomorfik liposarkom
+M8855 / 3 Karışık liposarkomdur
+M8856 / 0 İntramüsküler lipom
+M8857 / 0 Mil hücre lipom
+M8857 / 3 Fibroblastik liposarkomdur
+M8858 / 3 Dediferansiye liposarkomdur
+M8860 / 0 Anjiyomiyolipom
+M8861 / 0 Anjiyolipom, NOS
+M8862 / 0 Kondroid lipom
+M8870 / 0 Adrenal myelolipom
+M8880 / 0 Hibernoma
+M8881 / 0 Lipoblastomatosis
+889-892 miyom tümörleri.
+M8890 / 1 leiomiyomatozis, NOS
+M8891 / 0 Epitelioid leyomiyom
+M8891 / 3 Epitelioid leiomyosarkom
+M8892 / 0 Hücresel leyomiyom
+M8893 / 0 Tuhaf leyomiyom
+M8894 / 0 Angiomyoma
+M8894 / 3 Angiomyosarcoma
+M8896 / 3 Miksoid leiomyosarkom
+Belirsiz malign potansiyeli M8897 / 1 Düz kas tümörü
+M8898 / 1 metastaz leiomyom
+M8901 / 3 Pleomorfik rabdomiyosarkoma, erişkin tipi
+M8902 / 3 Karışık tip rabdomiyosarkom
+M8903 / 0 Fetal rabdomiyom
+M8904 / 0 Yetişkin rabdomiyom
+M8905 / 0 Genital rabdomiyom
+M8910 / 3 Embriyonel rabdomiyosarkom, NOS
+M8912 / 3 Mil hücre rabdomiyosarkom
+M8920 / 3 Alveoler rabdomyosarkom
+Ganglionik farklılaşma ile M8921 / 3 Rabdomyosarkom
+893-899 Karmaşık Karışık Ve Stromal Tümörler.
+M8930 / 0 Endometrial stromal nodül
+M8930 / 3 Endometriyal stromal sarkom, NOS
+M8931 / 3 Endometriyal stromal sarkom, düşük dereceli
+M8932 / 0 adenomyom
+M8933 / 3 adenosarkom
+M8934 / 3 Carcinofibroma
+M8935 / 0 stromal tümör, iyi huylu
+M9835 / 1 stromal tümör, NOS
+M8935 / 3 stromal sarkomu, NOS
+M8936 / 0 Gastrointestinal stromal tümör, iyi huylu
+M8936 / 1 Gastrointestinal stromal tümör, NOS
+M8936 / 3 Gastrointestinal stromal sarkom
+M8940 / 3 Karma tümör, habis, NOS
+Pleomorfik adenom olarak M8941 / 3 Karsinomu
+M8950 / 3 Müllerian mikst tümör
+M8951 / 3 Mezodermal karışık tümör
+M8959 / 0 Benign kistik nefroma
+M8959 / 1 Kistik kısmen farklılaşmış nefroblastom
+M8959 / 3 Malign kistik nefroma
+M8960 / 1 mezoblastik nefroma
+M8963 / 3 habis tümör rabdoid
+Böbreğin M8964 / 3 Berrak hücreli sarkoma
+M8965 / 0 Nefrojen adenofibroma
+M8966 / 0 renomedüller interstisyel hücre tümörü
+Böbrek tümörü ossifiye M8967 / 0
+M8970 / 3 Hepatoblastom
+M8971 / 3 pankreatoblastom
+M8972 / 3 Pulmoner blastom
+M8973 / 3 plöropulmoner blastom
+M8974 / 1 Sialoblastoma
+M8980 / 3 Karsinosarkom, NOS
+M8981 / 3 Karsinosarkom, embriyonal
+M8982 / 0 miyoepitelyoma
+M8982 / 3 Malign miyoepitelyoma
+M8983 / 0 Adenomiyoepiteliyoma
+M8990 / 0 Mesencymoma benign
+M8990 / 1 Mesenchymoma, NOS
+M8990 / 3 Mesenchymoma, malign
+M8991 / 3 Embriyonel sarkomu
+9000-9030) Fibroepitelyal Tümörleri.
+M9000 / 1 Brenner tümörü, sınırda malignite
+M9000 / 3 Brenner tümörü, malign
+M9010 / 0 Fibroadenom, NOS
+M9011 / 0 Intrakanaliküler fibroadenom
+M9012 / 0 Pericanalicular fibroadenom
+M9013 / 0 Adenofibroma, NOS
+M9014 / 0 Seröz adenofibroma, NOS
+Sınır malignite M9014 / 1 Seröz adenofibroma
+M9014 / 3 Seröz adenocarcinofibroma
+M9015 / 0 Müsinöz adenofibroma, NOS
+Sınır malignite M9015 / 1 müsinöz adenofibroma
+M9015 / 3 müsinöz adenocarcinofibroma
+M9016 / 0 Gian fibroadenom
+M9020 / 0 Phyllodes tümörü, selim
+M9020 / 1 Phyllodes tümörü, sınırda
+M9020 / 3 Phyllodes tümörü, malign
+M9030 / 0 Çocuk fibroadenom
+904 Sinovyal-gibi Tümörleri.
+M9040 / 0 sinovyoma benign
+M9041 / 3 Sinovyal sarkom, iğ hücreli
+M9042 / 3 Sinovyal sarkom, epiteloid hücre
+M9043 / 3 Sinovyal sarkom, bifazik
+M9044 / 3 Berrak hücreli sarkomu, (/ 3 kiney M9864 hariç) NOS
+905 Mezotelyal Tümörleri.
+M9051 / 0 Lifli mezotelyoma, iyi huylu
+M9051 / 3 Lifli mezotelyoma, malign veya NOS
+M9052 / 0 Epitelioid mezotelyoma, iyi huylu
+M9052 / 3 Epitelioid mezotelyoma, malign veya NOS
+M9053 / 3 Mezotelyoma, bifazik malign veya NOS
+M9054 / 0 Adenomatoid tümörler, NOS
+M9055 / 0 Multikistik mezotelyoma, iyi huylu
+M9055 / 1 kistik mezotelyoma, NOS
+906-909 Germ hücre Tümörleri.
+M9061 / 3 seminoma, NOS
+M9062 / 3 seminoma, anaplastik
+M9063 / 3 Spermatositik seminomu
+M9064 / 2 İntratübüler malign germ hücreleri
+M9065 / 3 Germ hücreli tümör, Nonseminomatöz
+M9072 / 3 Polyembryoma
+M9073 / 1 gonadoblastom
+M9080 / 1 Teratoma, NOS
+M9081 / 3 Teratokarsinom
+M9082 / 3 malign teratom, farklılaşmamış
+M9083 / 3 Malign teratom, ara
+Malign transformasyon ile M9084 / 3 Teratom
+M9085 / 3 mikst germ hücreli tümör
+M9090 / 0 Struma ovarii, NOS
+M9090 / 3 Struma ovarii, malign
+M9091 / 1 strumal karsinoid
+910 Trofoblastik tümörleri.
+M9100 / 0 Hydatidifrom köstebek, NOS
+M9100 / 1 İnvaziv hidatidiform mol
+Diğer germ hücre elemanları ile birlikte M9101 / 3 Koryokarsinom
+M9102 / 3 Malign teratom, trofoblastik
+M9103 / 0 parsiyel molar
+M9104 / 1 Plasental site trofoblastik tümör
+M9105 / 3 trofoblastik tümör, epiteloid
+911 Mesonephromas.
+M9110 / 0 Mesonephroma benign
+M9110 / 1 mezonefrik tümörü, NOS
+M9110 / 3 Mesonephroma, malign
+912-916 Kan damarı tümörler.
+M9121 / 0 Kavernöz hemanjiom
+M9122 / 0 Venöz hemanjiom
+M9123 / 0 salkım şeklinde hemanjiom
+M9124 / 3 Kupffer hücre sarkomu
+M9125 / 0 Epitelioid hemanjiom
+M9130 / 3 hemanjioendotelyoma, malign
+M9131 / 0 Kılcal hemanjiom
+M9132 / 0 İntramüsküler hemanjiom
+M9133 / 1 Epiteloid hemanjioendotelioma, NOS
+M9133 / 3 Epiteloid hemanjioendotelioma, malign
+M9135 / 1 Endovasküler papiller angioendothelioma
+M9136 / 1 Mil hücre hemangioendotelioma
+M9141 / 0 Angiokeratoma
+M9142 / 0 Verrüköz keratotik hemanjiom
+M9150 / 0 Hemanjioperisitom benign
+M9150 / 1 Hemanjioperisitom, NOS
+M9150 / 3 Hemanjioperisitom, malign
+M9160 / 0 anjiyofibrom, NOS
+M9161 / 0 Edinilen püsküllü hemanjiom
+M9161 / 1 Hemangioblastom
+917 Lenfatik damar tümörleri.
+M9170 / 3 lenfanjiyosarkoma
+M9171 / 0 Kılcal lenfanjiyoma
+M9172 / 0 Kavernöz lenfanjiom
+M9174 / 0 lenfanjiyomiyom
+M9174 / 1 Lenfanjiyomiyomatozis
+M9175 / 0 Hemolymphangioma
+918-924 Kemik Ve kondromatöz tümörleri.
+M9181 / 3 Kondroblastik osteosarkom
+M9182 / 3 Fibroblastik osteosarkom
+M9183 / 3 Telangeictatic osteosarkom
+Kemiğin Paget hastalığında M9184 / 3 Osteosarkom
+M9185 / 3 Küçük hücreli osteosarkom
+M9186 / 3 Orta osteosarkom
+M9187 / 3 İntraosseöz iyi diferansiye osteosarkom
+M9191 / 0 Osteoid osteom, NOS
+M9192 / 3 parosteal osteosarkom
+M9193 / 3 Periosteal osteosarkom
+M9194 / 3 Yüksek dereceli yüzey osteosarkom
+M9195 / 3 intrakortikal osteosarkom
+M9200 / 0 Osteoblastmoa, NOS
+M9200 / 1 Agresif osetoblastoma
+M9210 / 1 osteokondromatozis, NOS
+M9220 / 1 Condromatosis, NOS
+M9221 / 0 Juxtacortical kondroma
+M9221 / 3 Juxtacortical kondrosarkom
+M9230 / 0 Kondroblastom, NOS
+M9230 / 3 Kondroblastom, malign
+M9231 / 3 Miksoid kondrosarkom
+M9240 / 3 Mezenkimal kondrosarkom
+M9241 / 0 Kondromiksoid fibroma
+M9242 / 3 Temizle hücre kondrosarkom
+M9243 / 3 Dediferansiye kondrosarkom
+925 Dev hücreli tümörler.
+M9250 / 1 kemik dev hücreli tümör, NOS
+Kemiğin M9250 / 3 Dev hücreli tümör, malign
+Yumuşak parça M9251 / 1 Dev hücreli tümör, NOS
+Yumuşak parça M9251 / 3 Malign dev hücreli tümör
+M9252 / 0 tenosinovyal dev hücreli tümör
+M9252 / 3 Malign tenosinovyal dev hücreli tumoe
+926 Çeşitli kemik tümörleri (C40._, C41._).
+Uzun kemiklerin M9261 / 3 adamantinom
+M9262 / 0 ossifaying fibrom
+927-934 Odontojen tümörler C41._).
+M9270 / 0 Odontojen tümörü, selim
+M9270 / 1 Odontojen tümörü, NOS
+M9270 / 3 Odontojen tümörü, malign
+M9271 / 0 ameloblastik fibrodentinoma
+M9272 / 0 sementoma, NOS
+M9274 / 0 cementifying fibroma
+M9275 / 0 Gigantiform sementoma
+M9280 / 0 Odontoma, NOS
+M9281 / 0 Bileşik odontoma
+M9282 / 0 Kompleks odontoma
+M9290 / 0 ameloblastik fibro-odontoma
+M9290 / 3 ameloblastik odontosarcoma
+M9300 / 0 Adenomatoid odontojenik tümör
+M9301 / 0 Kalsifiye odontojenik kist
+M9302 / 0 Odontojen hayalet hücre tümörü
+M9310 / 3 Ameloblastom, malign
+M9311 / 0 Odontoameloblastoma
+M9312 / 0 Yassı odontojenik tümör
+M9320 / 0 Odontojen miksoma
+M9321 / 0 Orta odontojenik fibroma
+M9322 / 0 Periferik odontojenik fibroma
+M9330 / 0 ameloblastik fibrom
+M9330 / 3 ameloblastik fibrosarkomadır
+M9340 / 0 Kalsifiye epitelyal odontojenik tümör
+M9341 / 1 berrak hücreli odontojenik tümördür
+M9342 / 3 Odontojen karsinosarkom
+935-937 Diğer tümörler.
+M9351 / 1 Kraniyofarenjiyom, Adamantinomatöz
+M9352 / 1 Kraniyofarenjiyom, papiller
+M9360 / 1 pinealoma
+M9361 / 1 pineositoma
+M9362 / 3 pineoblastoma
+M9363 / 0 melanotik nöroektodermal tümör
+M9364 / 3 Çevresel nöroektodermal tümör
+Periferik primitif nöroektodermal tümör, NOS (PPNET)
+M9365 / 3 Askin Tümör
+M9370 / 3 Kordoma, NOS
+M9371 / 3 Kondroid kordoma
+M9372 / 3 Dediferansiye chorcoma
+M9373 / 0 Parachordoma
+938-948 Gliomalar.
+M9380 / 3 Glioma, malign
+M9381 / 3 Gliomatozis serebri
+M9383 / 1 Subepyndymoma
+M9384 / 1 subependimal dev hücreli astrositom
+M9390 / 0 Koroid pleksus papilloma, NOS
+M9390 / 1 Atipik koroid pleksus papilloma
+M9390 / 3 Koroid pleksus karsinomu
+M9322 / 3 Ependimoma, anaplastik
+M9393 / 3 Papiller ependimoma
+M9394 / 1 Miksopapiller ependimoma
+M9401 / 3 Astrositom, anaplastik
+M9410 / 3 protoplazmik astrositom
+M9411 / 3 Gemistocytic astrositom
+M9412 / 1 Desmoplastik infantil astrositom veya ganglioglioma
+M9413 / 0 Disembriyoplastik nöroepitelyal tümör
+M9420 / 3 fibriler astrositom
+M9421 / 1 Pilositik astrositom
+M9423 / 3 Polar spongioblastoma
+M9424 / 3 pleomorfik xanthoastrocytoma
+M9430 / 3 Astroblastom
+M9440 / 3 Glioblastoma, NOS
+M9441 / 3 Dev hücreli glioblastoma
+M9442 / 1 gliofibroma
+M9442 / 3 gliyosarkom
+M9444 / 1 kordoid glioma
+M9451 / 3 Oligodendroglioma, anaplastik
+M9460 / 3 Oligodendroblastoma
+M9470 / 3 Medullablastoma, NOS
+M9471 / 3 Desmoplastik nodüler medülloblastom
+M9472 / 3 medullomyoblastomadır
+M9473 / 3 İlkel nöroektodermal tümör, NOS
+M9474 / 3 büyük hücreli medulloblastomdur
+M9480 / 3 Serebellar sarkomu, NOS
+949-952 Neuroepitheliomatous tümörleri.
+M9490 / 0 Ganglionöroma nadir
+M9490 / 3 ganglionöroblastom
+M9491 / 0 Ganglioneuromatosis
+M9492 / 0 gangliositoma
+M9493 / 0 beyincik Displastik gangliositoma (Lhermitte-Duclos)
+M9501 / 0 Medulloepithelioma benign
+M9501 / 3 Medulloepithelioma, NOS
+M9502 / 0 Teratoid medulloepithelioma, iyi huylu
+M9502 / 3 Teratoid medulloepithelioma
+M9503 / 3 Neuroepithelioma, NOS
+M9504 / 3 Spongioneuroblastoma
+M9505 / 1 Ganglioglioma, NOS
+M9505 / 3 Ganglioglioma, anaplastik
+M9506 / 1 Santral nörositoma
+M9507 / 0 Pacinian tümör
+M9508 / 3 Atipik teratoid / rabdoid tümör
+M9510 / 0 Retinocytoma
+M9511 / 3 Retinoblastom, farklılaştırılmış
+M9512 / 3 Retinoblastom, farklılaşmamış
+M9513 / 3 Retinoblastom, yaygın
+M9514 / 1 Retinoblastoma, kendiliğinden geriledi
+M9520 / 3 Olfaktor nörojenik tümör
+M9521 / 3 Koku nörositoma
+M9522 / 3 Koku nöroblastom
+M9523 / 3 Koku neuroepithelioma
+953 Meningiomlar.
+M9530 / 0 Meningioma, NOS
+M9530 / 1 Meningiomatosis, NOS
+M9530 / 3 Meningioma, malign
+M9531 / 0 meningotelyal meningioma
+M9532 / 0 Fibröz meningioma
+M9533 / 0 psammomatöz meningioma
+M9534 / 0 Anjiomatöz meningioma
+M9537 / 0 Geçici meningioma
+M9538 / 1 Temizle hücre menenjiomu
+M9538 / 3 Papiller meningioma
+M9539 / 1 Atipik meningiom
+M9539 / 3 Meningial sarkomatozisler
+954-957 Sinir kılıfı tümörleri.
+M9540 / 3 Malign periferik sinir kılıfı tümörü
+M9541 / 0 melanotik nörofibroma
+M9550 / 0 Pleksiform nörofibroma
+M9560 / 0 Neurilemoma, NOS
+M9560 / 1 Neurinomatosis
+Rabdomiyoblastik farklılaşma ile M9561 / 3 Malign periferik sinir kılıfı tümörü
+M9562 / 0 Neurothekeoma
+M9570 / 0 Nöroma, NOS
+M9571 / 0 Perineurioma, NOS
+M9571 / 3 Perineurioma, malign
+958 granüler hücreli tümörler ve Alveoler yumuşak kısım sarkomu.
+M9580 / 0 Granüler hücreli tümör / miyoblastom, NOS
+M9580 / 3 Granüler hücreli tümör / miyoblastom, malign
+M9581 / 3 Alveoler yumuşak kısım sarkomu
+Sellar bölge M9582 / 0 Granüler hücreli tümör (C75.1)
+959 Malign lenfoma, NOS, Ya yaygın.
+M9596 / 3 Kompozit Hodgkin ve non-Hodgkin lenfoma
+965-966 Hodgkin Lenfoma.
+M9654 / 3 Hodgkin lenfoma, lenfosit tükenmesi, yaygın fibrozis
+M9655 / 3 Hodgkin lenfoma, lenfosit tükenmesi, retiküler
+M9661 / 3 Hodgkin granülom
+M9662 / 3 Hodgkin sarkomu
+M9664 / 3 Hodgkin lenfoma, nodüler skleroz, hücresel faz
+M9665 / 3 Hodgkin lenfoma, nodüler skleroz, grade 1
+M9667 / 3 Hodgkin lenfoma, nodüler skleroz, sınıf 2
+967-969 Olgun B-hücresi Lenfomalar.
+M9675 / 3 Malign lenfoma, karma küçük ve büyük hücreli, yaygın "(ayrıca M9690 / 3'e bakın)"
+M9684 / 3 Malign lenfoma, büyük B hücreli, dağınık, immünoblastik, NOS
+M9691 / 3 Foliküler lenfoma, sınıf 2
+970-971 Olgun T ve NK hücre Lenfomalar.
+M9709 / 3 Kutanöz T hücreli lenfoma, BBT (C44._)
+973 Plazma hücreli tümörler.
+M9733 / 3 Plazma hücreli lösemi (C42.1)
+Histiositlerin ve Aksesuar Lenfoid Hücreleri 975 Tümörleri.
+M9750 / 3 Malign histiositozis
+M9752 / 1 Langerhans hücreli histiyositoz, unifokal
+M9753 / 1 Langerhans hücreli histiyositoz, multifokal
+M9754 / 3 Langerhans hücreli histiyositoz, yaygın
+976 immunoproliferatif hastalıklar.
+M9760 / 3 immunoproliferatif hastalığı, NOS
+M9762 / 3 Ağır zincir hastalığı, NOS
+M9764 / 3 immunoproliferatif ince bağırsak hastalığı (C17._)
+Önemi belirsiz M9765 / 1 monoklonal gamopati
+() Anjiosentrik immunoproliferatif lezyon
+M9767 / 1 Anjioimmünoblastik lenfadenopati
+M9768 / 1 T-gamma lenfoproliferatif hastalık
+M9769 / 1 Immunoglobulin biriktirme hastalığı
+(982-983) Lenfoid lösemiler (C42.1).
+M9832 / 3 prolenfositik lösemi, NOS
+984-993 myeloid lösemiler (C42.1).
+(9850-9859) Lenfosarcoma hücre lösemisi
+(9860-9869) Myeloid (Granulositik) Lösemiler
+FAB-M3 (tüm türevlerini içerir)
+) Akut miyelomonositik lösemi
+Tedavi ile ilişkili akut miyeloid lösemi, alkilleyici ajan / epipodofilotoksi ilgili
+) Akut) myelofibrozis (C42.1 ile panmyelosis
+994 Diğer Lösemiler (C42.1).
+M9945 / 3 Kronik miyelomonositik lösemi, NOS
+997 Diğer Hematolojik Hastalıklar.
+M9775 / 1 Myeloproliferatif hastalığı, NOS

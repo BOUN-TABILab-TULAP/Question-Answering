@@ -1,0 +1,70 @@
+Tahmin aralığı
+Istatistiksel çıkarsama, özellikle öngörü çıkarsama olarak, bir tahmin aralığı zaten gözlenmiştir ne verilen gelecekteki gözlemler, belirli bir olasılıkla, düşecek olan bir aradan, bir tahmindir. Tahmin aralıkları genellikle regresyon analizinde kullanılmıştır.
+Tahmin aralıkları frequentist istatistikler ve Bayes istatistik hem de kullanılır: bir tahmin aralığı bir gözlemlenemeyen nüfus parametresine bir frequentist güven aralığı veya Bayes güvenilir aralık ayı gelecekteki gözlem aynı ilişki taşımaktadır: tahmin aralıkları bireysel gelecek noktalarının dağılımını tahmin, oysa güven aralıkları ve parametrelerin güvenilir aralıklar gerçek nüfus ortalama veya gözlenen olamaz diğer ilgi miktarı tahminlerinin dağılımı tahmin. Tahmin aralıkları da tahminleri mevcuttur. Bu aykırı dizi var tahminlerin tahmin aralıklarını tahmin etmek güçtür.
+Giriş.
+Örneğin, bir altta yatan dağılımı normal dağılım ve {"X" 1, ..., "X", "n"}, sonra güven aralıkları ve güvenilir aralıklar kullanılabilir örnek kümesi vardır parametrik varsayım yaparsa tahmin aralıkları "+1 n", "X" bir sonraki numune değişkenin değerini tahmin etmek için kullanılabilir iken nüfus, altta yatan nüfusun "μ" ve nüfus standart sapması "σ" demek tahmin etmek.
+Seçenek olarak ise, Bayes açısından, bir önceden haber verme aralığı yerine bunun bir dağılım parametre için daha değişken kendisi için güvenilir bir aralık olarak tanımlanabilir.
+tahmin aralıkları kavramı tek bir gelecekte örnek değeri hakkında sonuç çıkarma sınırlı olması gerekmez, ancak daha karmaşık durumlarda uzatılabilir. Örneğin, analizler genellikle bir yıl içinde en büyük akış yıllık değerlerine dayalı nehir sel bağlamında, önümüzdeki 50 yıl içinde yaşanacak muhtemel en büyük sel hakkında çıkarımlar yapma ilgi olabilir.
+Tahmin aralıkları sadece geçmiş ve gelecek gözlemler yerine gözlemlenemeyen nüfus parametreleri ile ilgili olduklarından, Bruno de Finetti tarafından gözlenebilirlerin odaklanmak aşağıdaki gibi Seymour Geisser gibi bazı istatistikçiler tarafından güven aralıkları daha iyi bir yöntem olarak savunulmaktadır edilmektedir.
+Normal dağılım.
+Olan parametreleri bilinmeyen bir normal dağılım, bir örnek göz önüne alındığında, frequentist anlamda tahmin aralıkları vermek mümkündür, yani bu tür tekrarlanan deneyler bu numune istatistiklerine dayanan bir aralık ["a", "b"], "X", "n" aralığında +1 düşüşler zaman istenilen yüzdesi; kimse bu "öngörü güven aralıkları" çağırabilir.
+Frequentist tahmin aralıkları genel bir tekniktir bulmak ve gözlenebilirlerin çok önemli bir miktar hesaplamak için "X" 1, ..., "X", "n", "X", "n" +1 - gözlenebilirlerin ve parametrelerin bir fonksiyonu anlamı kimin olasılık dağılımı parametrelere bağlı değildir - gelecek gözlem "X" bir olasılık vermek için ters olabilir "n" +1 gözlenen değerler açısından hesaplanan bazı aralıklarla düşen bugüne kadar, böyle çok önemli bir miktar FORMULA_1 Sadece gözlenebilirlerin bağlı bir yan istatistik denir. önemli miktarlarda inşa olağan yöntem bu ölçek dışarı iptal yüzden, bu konum dışarı iptal böylece, yere bağlı iki değişkenin farkını almak, sonra da ölçeğe bağlıdır iki değişkenin oranını almaktır.
+en tanıdık önemli miktarda bu yöntemle elde edilebilir ve devamında kullanılan Student t-istatistik vardır.
+Bilinen ortalama, bilinen varyans.
+Normal dağılım "N" bir gelecek gözlem "X" için bir tahmin aralığı ["l", "u"] (μ, σ2) bilinen ortalaması ve varyansı ile kolayca hesaplanabilir
+Bundan dolayı
+veya
+"z" için standart normal dağılımda persantil ile:
+veya eşdeğer;
+tahmin aralığı geleneksel olarak yazılır:
+Örneğin, 1 5 ortalama ("μ") ile normal dağılım ve standart sapma ("σ") için% 95 tahmin aralığını hesaplamak için, sonra z yaklaşık nedenle 2. tahminin alt sınırı (· 2 1) 3 = ve üst sınır, yaklaşık 5 + olduğu (· 1: 2) = 7, bu şekilde, yaklaşık 3-7 arasında bir önceden haber verme aralığı veren - aralığı yaklaşık 5'tir.
+Parametrelerin tahmini.
+Örneğin, bir örnek kullanabilirsiniz "μ" ve örnek varyans "s" 2 olarak için tahmini olarak formula_8 demek - bilinmeyen parametreler ile bir dağılım için, tahmin doğrudan bir yaklaşım parametrelerini tahmin ve daha sonra ilgili quantile işlevini kullanmak için "σ" için tahmini 2. "S" 2 Burada iki doğal seçenek vardır unutmayın - by bölerken formula_9 bölerek, tarafsız bir tahminidir verimleri "n" en çok olabilirlik tahmin edicisi verir, ve ya kullanılmış olabilir. Bir daha sonra bir tahmin aralığı vermek formula_10 bu tahmini parametrelerle kantil işlevini kullanır.
+Bu yaklaşım kullanılabilir, ancak ortaya çıkan aralık tekrarlanan örnekleme yorumunu olmaz - bir öngörü güven aralığı değil.
+Devamı için, örnek ortalamasını kullanın:
+ve (tarafsız) örnek varyansı:
+Bilinmeyen ortalama, bilinen varyans.
+Bilinmeyen ortalama "μ" ama bilinen varyans 1 ile normal dağılım göz önüne alındığında, örnek gelecekteki gözlem formula_16 dağılımı bu farkı alarak "μ" iptal ve normal dağılım verir formula_17 ederken dağıtım formula_15 sahip formula_14 gözlemlerin formula_8 ortalama Varyans böylece formula_18
+Formula_16 için Çözme biri daha önce olduğu gibi aralıklarla hesaplayabiliriz hangi tahmin dağıtım formula_21 verir. Bu kimse bu hesaplama tekrarlanan uygulamalarda, daha sonra 100 "p"% bir kantil dizi kullanıyorsa, gelecekteki gözlem formula_16 zaman tahmin aralığı 100 "p"% düşecek anlamda bir öngörü güven aralığıdır.
+Bu varyans formula_24 kullanır dolayısıyla daha geniş aralıklarla verimleri, bu tahmin dağılımı tahmini ortalama formula_8 ve bilinen varyans 1 kullanmaktan daha muhafazakâr olduğuna dikkat edin. İstenilen güven aralığı özelliği tutmak için gereklidir.
+Bilinen ortalama, bilinmeyen varyans.
+Tersine, bilinen ortalama 0 ancak bilinmeyen varyans formula_25 ile normal dağılım göz önüne alındığında,
+Numune varyans ölçeğine kadar, sahip formula_14 gözlemler, bir formula_28 dağıtım formula_26; daha kesin:
+gelecekteki gözlem formula_16 dağılımı formula_31 sahipken
+Gelecekteki gözlem oranı ve standart sapma özgürlük "n" -1 derece "σ" verimli bir Student t-dağılımını iptal numune alınması:
+Formula_16 için Çözme biri daha önce olduğu gibi aralıklarla hesaplayabiliriz hangi tahmin dağıtım formula_34 verir.
+Dolayısıyla daha geniş aralıklarla verir, bunun yerine normal dağılımın t-dağılımını kullanır gibi bu tahmin dağılımı, bir tahmini standart sapma formula_35 ile normal dağılım ve bilinen ortalama 0 kullanmaktan daha muhafazakâr olduğuna dikkat edin. İstenilen güven aralığı özelliği tutmak için gereklidir.
+Bilinmeyen ortalama, bilinmeyen varyans.
+"Μ" ve "σ" 2 bilinmeyen verimleri aşağıdaki yan istatistik hem bir normal dağılım formula_36 için yukarıdaki birleştiren:
+Örnek ortalaması ve normal dağılımın örnek varyansı bağımsız istatistikler, çünkü bu basit bir kombinasyon mümkündür; Bu normal dağılım için, sadece doğru ve aslında normal dağılım karakterize etmektedir.
+Formula_16 için Çözme tahmin dağılımını verir
+belirli bir zaman aralığı düşen formula_16 olasılığı o zaman:
+burada "Ta" 100 ((1 + "p") / 2) "n" ile Student t-dağılımının inci yüzde ise - 1 serbestlik derecesi. Bu nedenle sayılar
+formula_16 için 100, "p"% tahmin aralığının bitiş noktaları vardır.
+Parametrik olmayan yöntemler.
+Bir nüfus üzerinde herhangi varsayımlar olmadan tahmin aralıkları hesaplayabiliriz; resmen, bu bir parametrik olmayan bir yöntemdir.
+Rastgele iki gözlemleri "X" 1 ve değerler kabul edildiği bir nüfustan "X" 2 sürekli bir olasılık dağılımı için bir örnek çizer tane varsayalım
+3. toplama ihtimali ve bir alırsa o zaman 7 Böylece, ne olursa olsun 3 veya 7. toplama özellikle olasılık, daha sonra 3 7 toplama aynıdır ve - cevap yatan nüfusun "ne olursa olsun", tam% 50 tek bir örnek "X" 1, daha sonra zamanın% 50 sonraki numune "X" için% 50 tahmin aralığı olarak ("X" 1 + ∞) verir, hangi büyük olacaktır 2. Benzer şekilde, zamanın% 50 o yani "X" 2, başka% 50 tahmin aralığı verimleri olan küçük olacaktır (-∞ "X", 1). Sürekli dağılım varsayımının değerleri tam olarak eşit olabileceği possibililty önler unutmayın; Bu konularda zorlaştıracaktır.
+Biri bir örnek {"X" 1, ..., "X", "n"} Bir sonraki gözlem o zaman olasılık "X", "n" +1 büyük olacak varsa Benzer şekilde, 1 / ("n" dir + 1), tüm gözlemler maksimum olma şansı eşittir çünkü. Aynı şekilde, "X", "n ihtimali" 1 küçük olacak 1 / ("n" + 1). Diğer ("n" - 1) / ("n" + 1) zaman, bir "X" "n X" 1 "+1 numunenin {örnek maksimum ve minimum örnek arasında düşer" ... "X", "n"}. ["M", "M"] olarak / ("n" + 1) tahmin aralığı - Böylece, "M" ve "m" ile numune maksimum ve minimum belirten bu bir (1 "n") verir.
+Örneğin, "n" 19, ardından ["m", "M"] Bir 18/20 =% 90 tahmini aralığını verir = -% 90 zaman, 20. gözlem şimdiye kadar gördüğüm en küçük ve en büyük gözlem arasında düşer. Benzer şekilde, "n" = 39% 95 tahmini aralığı ve "n" = 199% 99 tahmini aralığını verir verir.
+(- Numuneler arasında 1 segment ve 2 aralıkları her iki uçta da sonsuza gidiyor "n"), ve belirterek biri "n" + 1 bölüme satır bölen bir çizgi üzerinde "n" örnekleri çizerek bu görselleştirmek "X", "n" + 1 bölümlerinde "+1 Bunlardan herhangi iniş eşit şansı var". (Bölümler ardışık değilse, veya set) Böylece bir de bu bölümlerden herhangi bir "k" almak ve "K" / ("n" + 1) tahmini aralığını verebilir. Örneğin, "X" 3 mevcut 2 gözlemler arasında ineceğim o zaman olasılık "n" = 2, 1/3 ise.
+Bu gelecekteki gözlem aralığında düşecek olasılığını verirken, bir segmentte o düşecek nerede herhangi tahmin vermez dikkat edin - bu gözlenen değer aralığı dışında düşerse özellikle, bu kadar dışında olabilir aralık. Daha fazla tartışma için aşırı değer teorisini bakın. Resmen, bu sadece bir nüfustan örnekleme değil geçerlidir, ancak rasgele değişkenlerin herhangi değişebilir dizisi, mutlaka bağımsız ya da aynı dağıtılan değil.
+Diğer aralıklarla Kontrast.
+Güven aralıkları ile karşılaştırın.
+Gözlenen "örnek" istatistik formula_44 ve örnek formula_45 ortalama ve standart sapma vardır - tahmini güven aralığı için formül unutmayın "sözünü" gözlemlenemeyen parametreleri "μ" ve ortalama nüfus "σ" ve standart sapma yapılır kullanılan ve ne tahmin edilmektedir "gelecek" örnekleri sonucudur.
+Aksine nüfus parametrelerinin kestiricisini örnek istatistikleri kullanılarak ve bu tahminlere güven aralıkları uygulamak yerine, tek "kendisi" bir istatistik olarak "bir sonraki numune" formula_16 düşünüyor ve onun örnekleme dağılımı hesaplar.
+Parametre güven aralıkları, bir nüfus parametreleri tahmin; biri (tahmini) "nüfus" dağıtım kullanarak, bu tahmini nüfusu bir beraberlik olarak bir sonraki numune, tek modeller "bir sonraki numune" tahmininde olarak yorumlamak isterse. Buna karşılık, akıllı güven aralıkları, yaklaşık bir varsayım olsa da, doğrudan doğruya kullanılmaz (a istatistik) "n" ya da böyle bir nüfustan "n" +1 örnekleri ve nüfus dağılımının "örnekleme" dağıtım kullanır onun (parametreleri değerleri olmasa da) örnekleme dağılımının hesaplanması kullanılan formu.
+Uygulamalar.
+Kan testleri kan testi, normal olup olmadığını hakkında bir fikir vermek için Tahmin aralıkları yaygın olarak referans aralıkları olarak referans aralıkları, tanımları olarak kullanılmıştır. Bu amaçla en sık kullanılan öngörü aralığı% 95 tahmin aralığı ve buna dayalı bir referans aralığı "standart referans aralığı" denebilir.
+Regresyon analizi.
+Tahmin aralıkları ortak bir uygulama regresyon analizi etmektir.
+Veri düz bir çizgi regresyon ile modellenmiştir ediliyor varsayalım:
+formula_48 tepki değişken olduğu, formula_49 açıklayıcı değişken, "εi" rastgele hata terimini olduğunu ve formula_50 ve formula_51 parametrelerdir.
+Böyle basit bir lineer regresyon itibaren parametreleri için tahminler formula_52 ve formula_53 göz önüne alındığında, belirli bir açıklayıcı değer "xd" için öngörülen tepki değer "yd" dir
+(Regresyon çizgisinin üzerindeki nokta), gerçek cevap olacağını ise
+nokta tahmini formula_56 formula_57 "yd" beklenen değerin tahmini ortalama tepki denir ve olduğunu
+Bir tahmin aralığı yerine tek düşmek "yd" beklediğini hangi bir aralık veriyor; Bu gerçek parametreleri "α" ve "β" (birlikte hata teriminin "εi" ile) bilinir ise gerekli değildir, ama eğer biri sonra bir kesişim için tahminlerin standart hata kullanabilirsiniz, bir örnekten tahmin edilmektedir ve eğim (formula_58 ve formula_59) yanı sıra bir ilişki, bir tahmin aralığını hesaplamak için.
+Regresyon, Faraway (. 2002, s 39) gözlenen tepki-etkileyen veya yukarıdaki genişleme faktörleri karekökü içinde birlik dönemi esas dahil tahminleri için ortalama tepki vs tahminleri için aralıkları arasında bir ayrım yapar; Ayrıntılı bilgi için bkz.
+Bayes istatistiği.
+Seymour Geisser, akıllı çıkarımın bir savunucusu, Bayes istatistiği öngörü uygulamaları verir.
+Bayes istatistikler, bir güvenilir bir aralığı olarak, rasgele değişkenin arka olasılığından (Bayesian) tahmin aralıkları hesaplayabiliriz. Teorik çalışmada, güvenilir aralıklarla sık sık gelecek olayların tahmininde hesaplanan, ancak parametrelerin çıkarım için değil - değişkenin kendisi sonuçlar için bir parametre, yani güvenilir aralıklarla. Ancak, uygulamalar henüz uyulması gereken durumlarda olası uç değerler ile ilgili özellikle nerede, bu tür değerler için güvenilir aralıklar pratik önemi olabilir.

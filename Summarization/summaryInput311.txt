@@ -1,0 +1,357 @@
+Question: Bitki örtüsü ve orman yangınlarının nasıl bir ilişkisi vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Matris diyagramı</DOCTITLE>
+<TEXT>
+
+Matris diyagramı iki veya daha fazla değişken arasındaki ilişkiyi analiz etmede kullanılan bir planlama ve yönetim aracıdır. Bu ilişkilerin bir çoğu bağımlı ve bağımsız değişkenler arasında olup matris diyagramı aracılığı ile sebep-sonuç veya ne, nasıl ilişkisi şeklinde tanımlanır. Matris diyagramları gerekli sayıda satır ve sütunun birleşmesinden oluşur. Bu satır ve sütunların sayısı incelenen sorunlar veya konular ile bunlar üzerinde etkili faktör sayısına göre değişkenlik gösterir. Satır ve sütunların kesişim noktasındaki sembol elde edilen veriler arasındaki ilişkinin varlığını ve güçlülüğünü gösterir. Matris diyagramının en güzel avantajlarından , korelasyonları sistematik olarak analiz etmeye olanak sağlamasıdır. Bir diğeri ise, her çift değişken arasındaki ilişkinin derecesini grafiksel olarak göstermesidir. Matris diyagramı, 7MP olarak da bilinen yedi yönetim aracından birisidir. Diğer yönetim araçları, Proses karar diyagramı (PDPC), İlgi diyagramı, Önceliklendirme Matrisleri, Ağaç diyagramı, ok diyagramı, İlişki diyagramıdır.
+Matris Diyagramı Çeşitleri.
+Matris diyagramının şekli karşılaştırması yapılacak grup sayısına veya başlıklara bağlıdır. Matrisin boyutu, çoklu gruplar adı altında iki gruplu matrislere kıyasla basit iki boyutlu sistem için kurulan matris boyutuna göre farklılık gösterir. Bu bağlamda, 6 farklı matris çeşidi vardır. 
+1) L-Tipi Matris: iki grubun elemanlarının birbiriyle ilişkilendirildiği en basit yapıdaki matris tipidir. 
+2) T-Tipi Matris: üç grup elemanından birinin diğer ikisiyle olan ilişkilerinin incelendiği matris tipidir. Örneğin incelenen A, B,C gruplarından A’nin B ve C ile olan ilişkisi incelenirken B ve C birbirinden bağımsız iki gruptur.
+3) Y-Tipi Matris: üç grup elemanının ikili ilişkilerinin incelendiği matris tipidir. 
+4) C-Tipi Matris: Üç grup elemanlarının aynı anda, üçlü olarak ilişkilendirildiği matris tipidir. 
+5) X-Tipi Matris: Dört grup elemanlarını birbiriyle ilişkilendirir. Her grup diğer gruplardan sadece ikisi ile ilişkilendirilir. 
+6) Çatı Tipi Matris: Bir grubun kendi elemanlarını kendileriyle ilişkilendirir. Genellikle L tipi ya da T tipi matrislerle oluşturulurlar. 
+Matris Diyagramı Nasıl Hazırlanır.
+Matris diyagramı oluşumunda ‘incelenecek iki veya daha fazla grup birbiriyle nasıl ilişkilidir’ sorusu,
+- Gruplar arası ilişkiyi sağlar ve bu ilişkinin gücünü belirler.
+- Spesifik bir konuya odaklanır, plan yapar, öncelik belirler, karar verir ve yönetir.
+Matris diyagramının hazırlanmasındaki aşamalar;
+Adım 1: Matrisin amacının ve incelenmek istenen ilişkilerin belirlenmesi 
+Adım 2: Kıyaslanacak grup veya başlıkların tanımlanması
+Adım 3: Uygulanacak uygun matris tipinin ve sembollerinin belirlenmesi
+Adım 4: Matrisin tamamlanması. 
+Matris diyagramlarının genel kullanım amacı mühendislik özelliklerinden kalite gerekliliklerinin yerine getirilmesi ve akabinde üretim gerekliliklerini sağlamasıdır. 
+Matris Diyagramının Amaçları.
+- Sistem ürünlerin geliştirilmesi ve iyileştirilmesi amacıyla kavram oluşturmak
+- Ürün malzemelerinde kalitenin yaygınlaştırılmasını sağlamak
+- Çeşitli fonksiyonların sertifikalandırılmış kalite adımlarını, kalite güvence sistemini oluşturabilmek ve güçlendirebilmek amacıyla birbirine bağlantılı hale getirmek 
+- Kalite güvence sisteminin işlemesini güçlendirmek ve geliştirmek
+- Üretim aşamalarındaki uygunsuzlukları meydana çıkarmak
+- Ürünlerin pazara sunulmasında, ürün-pazar arası ilişkiyi belirleyerek yeni stratejiler geliştirmek 
+Matris Diyagramına Örnek.
+Matris diyagramları ilişkileri incelenmek istenen her grup için herhangi bir alan ayrımı yapılmaksızın uygulanabilir.
+- Ürün-müşteri gerekliliklerinde kullanılabilir. 
+- Kişilerin sosyal hayatında uygulanabilir. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya’Nin İklim Zenginliği (EBA)</DOCTITLE>
+<TEXT>
+
+Yeryüzünde sıcaklık, basınç, nem ve yağışın dağılışında farklılıklar vardır. Buna bağlı olarak farklı iklim tipleri görülür.
+Ekvatoral İklim
+Ekvator çevresinde 0°-10° enlemleri arasmda görülür. Ekvatoral iklim, Amazon ve Kongo Havzalarının büyük bir kesiminde, Gine Körfezi kıyılarına yakın bölgelerde, Endonezya ve Malezya'nın büyük bir bölümünde etkilidir.
+Yıllık sıcaklık ortalaması 25 °C’un üstündedir. Yıllık ve günlük sıcaklık farkı en az olan iklimdir. Yağış rejimi düzenlidir. Yağışlar konveksiyonel kökenlidir. Yıllık yağış miktarı 2000 mm’nin üstündedir. Bitki örtüsü bütün yıl yeşil kalan sık ve uzun boylu ağaçlardan oluşan yağmur ormanlarıdır.
+Savarı (Subtropikal) İklimi
+Savan iklimi Sudan, Çad, Nijerya, Mali, Moritanya, Brezilya, Venezuela, Kolombiya, Peru ve Bolivya gibi ülkelerde etkilidir.
+Sıcaklık ortalaması 20 °C’un üzerindedir. Güneş ışınlarının daha dik geldiği sıcak dönemi yağışlı, yılın geri kalanı kuraktır. Yıllık yağış miktarı 1000-1200 mm arasındadır. Bitki örtüsü yüksek boylu ot topluluklarından oluşan savandır.
+Muson İklimi
+Güney Hindistan, Güney Çin, Güneydoğu Asya, Japonya ve Mançurya’da görülür. Bu bölgeler, muson rüzgârlarının etkisi altındadır.
+Yıllık ortalama sıcaklık 15-20°C’tur. Alçak enlemlerde sıcaklık yüksektir. Kuzeye doğru kışlar daha sert geçer. Muson rüzgârlarının esme yönüne paralel olarak yazlar yağışlı, kışlar kuraktır. Yıllık yağış miktarı 1500 - 2000 mm civarındadır. Kıyı bölgeleri ile dağların denize bakan yamaçlarında yağış miktarı artar. Örneğin Hindistan'ın kuzeydoğusunda yer alan Çerapunçi 12.000 mm yağış ile Dünya’nın en fazla yağış alan yeridir. Kıyı kesimlerinde kışın yaprağını döken ormanlar, kuzeye doğru ise savanlar görülür.
+Akdeniz İklimi
+Akdeniz'e kıyısı olan ülkeler, Avustralya'nın güneybatısı, Güney Afrika Cumhuriyeti'nde Kap Bölgesi, Şili'nin orta kesimleri ve Kuzey Amerika'da Kaliforniya çevresinde etkilidir.
+Yıllık sıcaklık ortalaması 15-20 °C'tur. Yıllık yağış miktarı yükseltiye göre değişir. Ortalama 600 - 1000 mm arasındadır. Yaz ayları kurak, kış ayları yağışlıdır. Karakteristik bitki örtüsü kızılçamlar ve bunların tahrip edilmesiyle ortaya çıkan makilerdir.
+Okyanusal İklim
+Genellikle 30°- 60° enlemleri arasında kıtaların batı kıyılarında görülür. Okyanusal iklim Batı Avrupa, Batı Kanada ve Güney Alaska kıyılarında, Güney Şili, Avustralya'nın kuzeydoğusu ve Yeni Zelanda'da etkili olmaktadır.
+Ortalama sıcaklık, 15 °C'tur. Yıllık sıcaklık farkı 10°C'u geçmez. Her mevsim yağışlıdır. Yıllık yağış miktarı 1500 mm civarındadır. Bitki örtüsü kışın yaprağını döken, yayvan yapraklı ormanlardır.
+Step iklimi
+Ilıman ve sıcak kuşaklarda karalann iç kısımlarında görülür. Orta Avrupa'da, Asya'nın iç kısımları ve Kuzey Amerika'nın orta kısımlarında etkilidir. Yıllık sıcak farkı 15-30 °C’tur. Yıllık yağış miktarı 300 - 500 mm’dir.
+Yağışların büyük bölümü ilkbaharda düşer, yazlar kurak geçer. Kışın kar yağışları görülür. Doğal bitki örtüsü bozkırdır.
+Karasal İklim
+Genel olarak 30°-65° enlemleri arasında, karaların deniz etkisinden uzak iç kısımlarında görülmektedir. Karasal iklim; Sibirya, Kanada ve Doğu Avrupa'da geniş bir yayılış alanına sahiptir. En belirgin özelliği yıllık ve günlük sıcaklık farkının fazla olmasıdır.
+Yıllık sıcaklık ortalaması 0 C°-10 °C’tur. Kışlar çok soğuk geçer ve uzun sürer. Yazlar ise kısa ve sıcaktır. Yıllık yağış miktarı 500-600 mm civarındadır. Kış yağışları daha çok kar şeklindedir. Doğal bitki örtüsü iğne yapraklı ormanlardır. Yağışın azaldığı yerlerde bozkırlar görülür.
+Çöl İklimi
+Dönenceler civarında, kıta içlerinde etrafı dağlarla çevrili alanlarda görülür. Afrika'da Büyük Sahra, Orta Doğu'da Necef, Asya'da Gobi, Taklamakan, Avustralya'da Gobon ve Gibson, Güney Afrika'da Kalahari ve Namib, Güney Amerika'da Patagonya, Atacama ve Peru başlıca çöl alanlarıdır.
+Yıllık ortalama sıcaklık 40°C civarındadır. Yıllık ve günlük sıcaklık farkları fazladır. Konveksiyonel kökenli sağanak yağışlar görülür. Yıllık yağış miktarı genellikle 100 mm’den azdır. Çölde bitkiler cılız ve seyrektir. Doğal bitki örtüsü bazı kurakçıl otlar ve kaktüstür.
+Kutup İklimi
+Kuzey Kutbu çevresinde Grönland Adası’nın iç kısımlarında ve Antarktika'da etkilidir.
+Sıcaklık ortalaması bütün yıl boyunca 0 °C'un altındadır. Yağışlar son derece az ve her zaman kar şeklindedir. Ortalama yıllık yağış 200 mm civarındadır. Toprak buzlarla kaplı olduğu için bitki örtüsü yoktur.
+Tundra İklimi
+Kutup daireleri çevresindeki kara içlerinde tundra iklimi etkilidir. İskandinavya Yarımadası'yla Kana-da'nın kuzeyinde, Sibirya'nın kuzey kesimlerinde ve Grönland Adası’nın kıyı kesimle-rinde de görülür.
+En sıcak ay ortalaması 10 °C'u geçmez. Kışın sıcaklık -30, -40 °C'a kadar iner. Yıllık yağış miktarı 200 -250 mm civarındadır. Bitki örtüsü, yosun, ot ve cılız çalılıklardır.
+KUTUP İKLİMİ
+Kutup bölgelerinde görülür. Sıcaklık ortalaması yıl boyunca 0 °C'un altındadır. Ortalama yağış 200 mm civarındadır. Bitki örtüsüne rastlanmaz.
+Sıcaklığın çok düşük olduğu bir iklim tipidir. Yağışlar ortalama 200 - 250 mm kadardır. En fazla yağış yaz aylarında görülür. Tabii bitki örtüsü çalı, yosun ve yazın yeşeren kurakçıl ortlardan oluşan tundralardır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Manisa</DOCTITLE>
+<TEXT>
+
+Manisa, Türkiye'nin Ege Bölgesi'nde bir şehir ve Manisa ilinin merkezidir. "Şehzadeler Şehri" olarak da bilinir. Şifalı Mesir Macunu ve Sultaniye Üzümü ile tanınır. Antik çağda "Magnesia", Roma İmparatorluğu döneminde tam ismiyle "Magnesia ad Sipylum" olarak anılmıştır. Dünya dillerindeki mıknatıs ve magnezyum kelimelerinin kökeni Manisa'nın ismidir.
+İzmir'e yakınlığının da sağladığı avantajlarla hızla gelişen bir merkezdir. Türkiye'nin en gelişmiş ve en büyük organize sanayi bölgelerinden birisine sahiptir. Manisa ili üzümü, kavunu, mesir macunu ile ünlüdür. Vestel grubu, Indesit, Bosch, Schneider, ECA, Eczacıbaşı, Ülker gibi birçok marka ve firma, üretim üssü olarak Manisa'yı tercih etmektedir. Bölgenin İzmir'den sonra ikinci büyük sanayi ve ticaret merkezidir. Kent merkezi olarak Türkiye'nin en yoğun göç alan şehirlerinden birisidir. 6 Aralık 2012'de Resmi Gazete'de yayımlanan 6360 No'lu kanun ile Manisa Büyükşehir Belediyesi'ne dönüştürülmüştür.
+İl ve İklim.
+Ege bölgesinin batı kesiminde geniş bir alanı kaplayan Manisa ilinde, batı kesimlerinde ve Gediz Nehri havzası boyunca karasal nitelikli Ege-Akdeniz iklimi hakim olmakla, özellikle doğu ve dağlık bölgelerinde İç Anadolu'nun karasal ikliminin etkileri de görülür. İlin batısından doğusuna gidildikçe, toprak, iklim ve topografya gibi çevre koşulları aşamalı olarak değişmeye başlar. Bu değişime bağlı olarak, bitki örtüsü de değişir. Bitki örtüsü batıdan doğuya doğru sırayla, ova bitkileri, makiler, ormanlar ve alpin bitkilerinden oluşur. Ancak bunların aşamaları birbirlerini düzenli bir biçimde izlemez. Dağlarda egemen bitki örtüsü ormanlar ve makilerdir. 
+İl'de ortalama sıcaklık 16.8 °C'dir. En sıcak aylar, ortalama sıcaklığın 30 °C'nin üzerine çıktığı Haziran, Temmuz ve Ağustos aylarıdır. Yıllık sıcaklık ortalaması kışın (Ocak Ayı) 6 °C'nin altına düşmez. Yılda ortalama 25 gün don(lu) geçer. Yılda ortalama 107.5 gün sıcaklık 30 °C'nin üzerindedir. Ortalama olarak yılın 91 günü yağışlı geçmektedir. Yıllık ortalama yağış miktarı m² ye 750.3 kg'dır. En fazla yağış Aralık, Ocak ve Şubat aylarında görülür. Genel bitki örtüsü makidir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Erozyon</DOCTITLE>
+<TEXT>
+
+Erozyon, diğer adıyla aşınım, yer kabuğunu oluşturan kayaçların, başta akarsular olmak üzere türlü dış etkenlerle yıpratılıp yerinden koparılarak eritilmesi veya bir yerden başka bir yere taşınması olayıdır. 
+Tarımda kullanılan alanların %70'i özelliklerini kaybederek dünya genelinde toplam kara üzerinde %30 civarında çölleşmeye sebep olmuştur. Dünyada erozyon sebebiyle çölleşme tehlikesi bulunan 110 ülke bulunmaktadır. Bu çerçevede Birleşmiş Milletler Çevre Programı tarafından yapılan hesaplamalarla, dünyada çölleşme ve erozyonun önüne geçebilmek için yılda 42 milyar dolar harcanması gerektiği bulunmuştur. 
+Türkiye topraklarının ise, %90'ı su erozyonu, %1'i de rüzgâr erozyonuna maruz kalmaktadır. Tarım topraklarında bu oran su erozyonu için %75 civarındadır. Türkiye'deki erozyon sonucunda yılda 500 milyon ton verimli toprak kaybedilmektedir. 
+Doğal şartlarda gerçekleştiğinde kaybedilen verimli topraklar, doğal döngü çerçevesinde telafi edilebilmektedir... Erozyon bilinçsizlik ve insan etkisiyle telafi edilemez boyutlara ulaşabilmektedir. Erozyonun etkisi sebebiyle kaybedilen verimli topraklar tarımsal üretim kapasitesinin düşmesine sebep olmaktadır. Erozyonun oluşması doğal faktörler ile gerçekleşmekte ancak erozyonun telafi edilemez zararlara sebep olması, insanların bu faktörleri hızlandırmasıyla gerçekleşmektedir.
+Erozyon çeşitlerinden olan su erozyonu en etkili erozyondur. Bu erozyonda yağmur damlalarının aşındırmasının yanında yüzey akışa geçen sularında önemli bir etkisi bulunmaktadır. Diğer bir erozyon çeşidi olan rüzgar erozyonu ise rüzgarın etkisiyle gerçekleşen aşınım ve taşınım olayıdır. 
+Erozyonun verimli toprakların kaybına yol açmasının yanında peri bacalarının oluşumuna yol açması, doğal bir güzelliğin meydana gelerek turizm bölgeleri oluşturmasına ve bir tezat oluşturmasına neden olmaktadır. Uzun yıllar sonunda özel erozyon çeşitlerinden olan korunmuş sütun erozyonu bu oluşumlara sebep vermektedir.
+Nedenleri.
+Erozyon oluşumunun nedenleri bazı doğal unsurlardır. Diğer bir söylemle erozyon tabiatın kuruluşundan bu güne kadar gerçekleşen ve tabii bir olaydır. Doğal yolla gerçekleşen bu erozyon tabiat tarafından toprak oluşumu ile dengelenebilmektedir. Ancak doğal yolla gerçekleşen erozyon insanların etkisiyle tabiatın karşılayamayacağı oranda artabilmektedir. Bu şekildeki erozyona "hızlandırılmış erozyon" denilir. Erozyonun tanımından da anlaşılacağı gibi erozyonun en önemli nedeni, toprağın aşınıp taşınmasına etki edebilecek faktörlerin etkisinin arttırılmasıdır. Bitki örtüsü yönünden zayıf toprakların taşınımı oldukça kolaydır. Rüzgâr,yüzey akışa geçmiş yağış ve sulama suları, yerçekiminin eğim ile birleşerek toprağı taşıyabilmesi bitki örtüsünün varlığı ile yakından ilgilidir. Bitki örtüsü topraktaki eğime rağmen toprak parçalarının önünde set oluşturarak taşınımını engelleyebilir. Rüzgârın ve yağmur damlalarının etkisini azaltarak aşınımı ve taşınımı yavaşlatabilir. Erozyonun en önemli sebeplerinden bir taneside bilgisizliktir. Özellikle tarım yapılan arazilerde, bilinçli olunmadan erozyonun artması sağlanmaktadır. Tarımsal arazilerde anızların yakılması kısa vadeli ürün artışına sebep olur. Bunun sonucunda yeterli bilgi sahibi olmayan çiftçi anızları yakarak toprak yapısı ve toprakta yaşayan canlılara zarar vererek dolaylı yollarla erozyona sebep olabileceği gibi. Eğim yönünde tarlasını sürerek toprağın yerçekimi, su veya rüzgarın etkisiyle taşınımına sebep olabilir. Orman yangınlarıda doğal bitki örtüsü ve yaşayan organizmaların yok olması ile erozyonun artışına sebep olmaktadır. Özellikle dağlık alanlardaki ormanların yanarak yok olması erozyonu daha fazla etkiler. Erozyon yağışın dışında mevcut akarsu, dere veya göller ilede gerçekleşebilir. Örneğin akarsular, suyun aşındırma gücü sayesinde toprağı aşındırarak bir başka yere taşıyabilirler. Yoğun yağışlar sonrasında taşkınların olması ile de toprak taşınabilir. Suyun aşındırma gücü oldukça fazladır. Örnek olarak deniz tabanındaki taşların büyük bir kısmı yuvarlak şekillidir. Bunun sebebi taşların yeterince sert olmaması değil, suyun aşındırma gücünün oldukça yüksek olmasıdır. Toprağın bünyesi de erozyonun başlıca nedeni olabilmektedir. Kumsallarda rahatlıkla görebildiğimiz kum bünyeli topraklar erozyona dayanıksızlıkları nedeniyle erozyona neden olabilirler.
+Toprak oluşumu ve erozyona etkileri.
+Erozyonun gerçekleşmesinde toprak özelliklerinin de önemli bir etkisi vardır. Toprak oluşumuna etki eden faktörler, toprak özelliklerini de etkileyerek, erozyon gerçekleşme olasılığını artırır. Toprak oluşumunun erozyona etkileri 5 farklı şekilde olur.
+Zaman, Toprak oluşumunda etkili olan faktörlerden birtanesi zamandır. Her bir toprağın oluşması için aynı miktarda zamana ihtiyaç duyulmaz. Bazı topraklar daha uzun zamanda oluşurken bazıları için daha kısa zaman yeterli olur. Örnek olarak yumuşak ana materyalden daha kısa sürede toprak oluşur. Erozyona uğrayan topraklarda toprak derinliği azaldıkça oluşum hızı artar. Böyle topraklardan toprağın derinliğinin artması, aşınım hızı ve oluşum hızı arasındaki dengeye bağlıdır. Buna göre;
+Topografya ve drenaj, İklim etkisi dışında topografya ve drenajın da önemli etkisi bulunmaktadır.
+Topraktaki eğim, yükselti v.b. tüm faktörler, gerek yağışların, gerekse yer çekiminin etkisiyle o bölgenin topraklarının taşınımı üzerinde etkili faktörlerdir. Bu taşınım toprağın alt katmanlarının aşınması ve toprak oluşumunu etkileyeceği gibi toprağın derinliği ve erozyona uğramasını da doğrudan etkileyecektir. Tüm bu etmenler topografya ve drenajın erozyona etkisini göstermektedir.
+Canlılar, Doğada toprağın oluşumu, aşınımı ve erozyona etkisi olan önemli faktörlerden birtaneside canlılardır. Mikro ve makro organizmalar toprak oluşumunda, salgıları veya hareketleri ile toprak oluşumunu hızlandırırlar. Toprak oluşumunun hızlanması ile toprak derinliği artar. Bu çerçevede toprak oluşumu ve erozyona dolaylı olarak etkisi bulunan canlıların varlıkları erozyon ile mücadelede önemli bir yer tutar. Örnek olarak tarımda anızların yakılarak yokedilmesi, toprakta yaşayan mikroorganizmaların ölmesine neden olarak toprak oluşumuna engel olur. Aynı zamanda bu canlıların sayılarının azalması ile topraktaki bitki besin elementlerinin bitkilerce kullanılabilir forma dönüştürülmesininde imkânı kalmaz. Sonuç olarak bitkiler besin maddelerinden yararlanamayarak ölürler. Toprakların çoraklaşarak erozyonun önü açılır.
+Ana mataryal, Toprağın oluştuğu bölgedeki ana materyal, toprağın çeşidini ve erozyona dayanımını etkileyen bir diğer önemli faktördür..
+Diğer bir değişle ana materyal, oluşacak olan toprağın özelliklerini oldukça önemli bir şekilde etkiler. Örneğin yumuşak kalkerlerden rendzina topraklar, sert kalkerlerden ise terra rosa toprakları oluşur. Rendzina topraklar erozyona karşı daha duyarlı, terra-rosa topraklar ise daha dirençlidir.
+Çeşitleri.
+Su erozyonu.
+En yoğun görülen erozyon çeşididir. 
+Suyun toprağı aşındırıp taşıma şekli açısından bakıldığında ise;
+olarak 5'e ayrılabilir.
+Damla erozyonu, Damla erozyonu, yağış esnasında damlanın düştüğü sırada toprağı aşındırması ve mevcut enerjisi ile toprağı sıçratarak taşıması sonucu oluşan erozyondur. Bu sıçramalar 60 cm yukarıya 100 – 150 cm uzağa kadar olabilmektedir. Bu erozyon çeşidi en ciddi aşınım ve taşınım yaratan erozyondur. Toprakların bitki örtüsü ile kaplı olması bu erozyonu önlemenin en önemli etmenlerindendir.
+Damla erozyonuna etki eden unsurlar ise aşağıdaki gibidir.
+Eğer yüzeyde birikmiş su tabakası varsa sıçrama açısı küçülür ve yaklaşık 85 - 90 derece civarında bir açı oluşur. Bu erozyon çeşidi yağmurun ilk başladığı sırada etkili olan bir erozyon olmasına karşın akan suya oranla daha etkilidir. Damlanın çapı da verdiği zarar ile doğru orantılıdır. Bir örnek ile anlatmak gerekirse 2 mm çapındaki bir yağmur damlası limit hızda yere çarptığında yaklaşık olarak 40 g ağırlığındaki bir toprağı 1 cm kadar havalandırabilir.. 
+Bu erozyonda yağışın etkisi ile toprak sıkıştırılarak yüzeyde geçirimsiz olan bir tabaka oluşumunada neden olur. 
+Yüzey akış erozyonu, İnfiltre olmayan suyun, yüzey akışa geçerek toprak yüzeyinde bulunan tanecikler ve parçalanmış agregatlar ile karışıp yaratmış olduğu erozyon çeşididir.
+Yüzey akış erozyonu her zaman gözlemlenemez özellikle toprak renginin koyu olması gözlemlemeyi oldukça zorlaştırır.
+Oluk erozyonu, 
+Yüzey akışın devam etmesi ile aşınım artar ve belirli bir aşamadan sonra oluklar oluşur.
+Oluşan oluklar aracılığı ile erozyon hızlanarak devam eder. Bu şekildeki erozyona "Oluk erozyonu" denilmektedir.
+Yarıntı erozyonu (Gully), Oluk erozyonunun ilerleyen aşamasından sonra artık oluklar daha geniş ve derin bir hal almaya başlarlar. Oluklara göre daha büyük olarak yarıntılar oluşur ve bu erozyona yarıntı erozyonu denir..
+Yarıntı erozyonu şekillerine göre 3 şekilde incelenir.
+Akarsu yataklarının yarattığı erozyon, Akarsular aktıkları yatakları derinlemesine ve genişlemesine aşındırırlar bu şekildeki erozyona "Akarsu Yataklarının Yarattığı Erozyon" denir.
+Aşındırma akarsuyun debisine göre değişir. Bu tip erozyonda materyalin taşınımı üç şekilde gerçekleşir. 
+Rüzgâr erozyonu.
+Rüzgâr erozyonu sonucu verimli toprakların kaybı, buharlaşmanın hızlanmasıyla toprak emliliğinin azalması, bitki büyümesinin yavaşlaması, ulaşımın aksaması ve verimin düşmesi olumsuzluklarını ortaya çıkarmaktadır. Taşınan kum ve verimsiz toprak, üretken tarım topraklarını kaplayarak, tarım yapılamaz hale getirmektedir. Rüzgâr erozyonu en şiddetli olarak; bitki örtüsünün fakir, iklimin kurak olduğu İç ve Doğu Anadolu'da görülür. Rüzgâr erozyonu bitki örtüsünün fazla olmadığı yerlerde çok etkilidir. Rüzgâr erozyonu üç farklı şekilde meydana gelmektedir. Bunlar,
+Hava akımı ile uçma, Hava akımının etkisiyle çapları 0,1 mm den daha küçük olan toprak parçaları yüzeyden yükselerek rüzgarın etkisiyle harekete geçerler. Bu şekilde yüzeyden yükselen toprak parçaları bulundukları yerlerden daha farklı bölgelere kadar uçarak toprağın taşınımına sebep olurlar. Bu yolla taşınan toprak parçaları yüzlerce kilometre taşınabilirler. Bu şekilde taşınımın önüne geçilebilmesindeki en önemli faktör bitki örtüsüdür. Bitki örtüsü rüzgarın etkisini azaltacağı gibi toprak parçalarının çarparak uzaklaşmasınıda engeller..
+Yüzeyde sürüklenme, Rüzgârın etkisi ile harekete geçmiş ancak boyutları sebebiyle yüzeyden fazla yükselemeyen toprak parçacıkları yüzeyde sürüklenerek taşınırlar. Bu şekilde taşınan toprakların çapları 0,5 mm ile 1mm arasındadır. Sıçrama ile taşınan toprakların çarpması bu toprak parçalarının hızlarını arttırmasına neden olur. Aynı zamanda çarpışan parçaların çapları küçülerek taşınımları kolaylaşır. 
+Sıçrama,Toprağın bazı parçaları rüzgar etkisi ile yükselip rüzgâr doğrultusunda yükselmeye başlar. Bu toprak parçaları hava akımıyla uçan parçalar kadar küçük değilse belirli bir yükseklikten sonra rüzgarın da etkisini yitirmesi ile yere doğru düşerler. Bu şekilde sürekli sıçramalar ile toprak taşınımı olması durumunda buna sıçrama ile taşıma denilir. Bu tipteki rüzgar erozyonuna maruz kalan toprak çapları 0,1 mm ile 0,5 mm arasındadır.
+Özel erozyon çeşitleri.
+Su, rüzgar ve benzeri aşındırıcı etmenlerin etkisinin yanı sıra özel koşullarda gerçekleşen erozyonlardır.
+Bu erozyonların gerçekleşebilmesi için birden fazla koşulun mevcut olması beklenir.
+Bu aşınım sonrasında üst kısımdaki sıkışmış toprağın durumunu korumasına karşılık toprağın altında tüneli andıran boşluk oluşur. Bu şekilde oluşmuş erozyonlara tünel erozyonu adı verilir.
+Bu erozyon tipinde rüzgarın etkisi önemlidir. Rüzgâr etkisi ile tepelerde aşınım gerçekleşir. Bu aşınım sonucunda sivrilmiş tepeler meydana gelir. Tepelerin sivri görünümde olmasının temel sebebi tepeyi oluşturan kayaçtır. 
+Erozyona etki eden faktörler.
+Erozyona etki eden faktörleri 5 grup altında toplayabiliriz. 
+Bunlar,İklim, Topografya, Toprak Özellikleri, Bitki Örtüsü ve İnsan Faktörü dür. İnsan faktörü dışındaki diğer dört faktör doğal erozyon faktörleri olarak tanımlanır. 
+İklim.
+Yağış, rüzgâr ve sıcaklık olarak etki eder.. 
+Yağışın kinetik enerjisi aşındırmada en önemli etkendir. Yağışın şekli yağmur, kar ve dolu olarak farklı etkiler yapar. Bunlar içindeki en önemli etkisi olan yağmurdur. İklimin erozyona etkisi 4 şekilde incelenebilir. Bunlar;
+tır.
+Yağış yoğunluğu, Yağışlarda yoğunluk erozyona önemli ölçüde etkilidir.
+Bu bağlamda yağış yoğunluğu birim zamanda düşen yağış miktarıdır. Yağış yoğunluğu arttıkça toprağa düşen su miktarı artar ve toprağın infiltrasyon hızı daha çabuk azalır. Toprakların infiltrasyon değerleri, toprağın işlenmiş veya işlenmemiş olmasına göre değişir. İşlenmiş topraklarda doğal bitki örtüsü yok edilmiş olduğu için toprağın infiltrasyon gücü daha çabuk aşılır. Eğer toprak yüzeyi korunmuşsa infiltrasyon uzun sürer. Yağış yoğunluğunun etkisinin anlaşılması bir başka örenkede anlatılabilir. Örneğin bir süngere suyun yavaşça boşaltılması durumunda sünger suyu kolaylıkla emebilecektir. Böylelikle su dışarı sızamayacaktır. Ancak aynı miktarda suyun süngerin üzerine birden dökülmesi halinde suyun bir kızmı sünger tarafından emilemeyecek ve akışa geçecektir. Toprağın suyu içine geçirme kabiliyeti süngere göre deha yavaş olduğu hesap edilecek olursa yağış yoğunluğunun erozyona etkisi daha net anlaşılabilecektir.
+Yağış süresi ve dağılımı, Yağışın yoğunluğu kadar süresi ve dağılımıda erozyon için önemli bir etkendir.
+Aynı yoğunlukta yağan iki yağıştan uzun süreli olan daha fala erozyon oluşumuna sebep olur. Yağışın dağılımıda erozyon açısından önem taşır. Yağış dağılımı bir yağış içinde olabildiği gibi mevsimlik ve yıllık dağılımlar şeklinde de erozyonu etkiler. Bir yağış içerisinde dört faklı yağış dağılımı olabilir. Bunlar Tüm yağış boyunca aynı yoğunlukta devam eden yağışlar (Düzgün yağış dağılımı), şiddetli başlayıp şiddetini kaybeden yağışlar(ileri yağış dağılımı), düşük şiddette başlayıp şiddetini arttıran ve sonra tekrar şiddeti düşen yağışlar (Orta yağış dağılımı), düşük şiddetle başlayıp şiddetini sonuna kadar arttıran yağışlar (Gecikmiş yağış dağılımı)dır. Bunlardan en etkili olanı İleri yağış dağılımıdır. Bir yıl içerisindeki yağış dağılımı ise, 
+olarak üçe ayrılır.
+Rüzgârın etkisi, Yağmur damlalarının toprak yüzeyine düşme hızı ve çarpma açısını etkiler. Rüzgârlı havalarda meydana gelen yüzey akışlar üzerinde de etkisi vardır. Örneğin havza çıkışına ters yönde esen rüzgar, yüzey akışın daha geç terk etmesini sağlar. Tüm bunlar sonucunda aşınımı ve taşınımı arttırarak erozyonu etkiler. Rüzgârın su erozyonuna etkisi kadar tek başınada erozyona etkisi vardır.
+Sıcaklık, Bitki örtüsünün ayrışma ve parçalanması olaylarına etki eder.
+Sıcaklığın yüksek olduğu yerlerde organik maddeler hızla parçalanır. Buna bağlı olarak agregatlaşma azalır. Bitki örtüsü seyrelir. Bunlar erozyonu arttıran faktörlerdir. Sıcaklık yağış olmayan bölgelerde ise kuraklığa ve dolayısıyla rüzgar erozyonunun etkilerini arttırmasına neden olur. Bu yüzden sıcaklık diğer faktörler ile etkileşim halinde bulunan bir etmendir.
+Topografya.
+Topografya erozyon üzerinde etkili olan faktörlerden birtanesidir. Topografya su erozyonunu 6 şekilde etkiler. Bunlar;
+dir.
+Eğim dikliği, yüzey akış sularının hızının artmasına sebep olarak aşınımı arttırır. Yüzey akışının akışının miktarının fazla olması aşınan toprak miktarınıda arttırır. 
+Eğim uzunluğu, genel olarak eğim uzunluğu arttıkça aşınma ve taşınan toprak miktarıda artar. fakat bazı durumlarda yağış yoğunluğu ve toprak geçirgenliğine bağlı olarak farklılıklar görülebilir. Düşük yoğunluklu yağışlarda ve geçirgenliği fazla olan topraklarda eğim uzunluğunun artması erozyonun azalmasına neden olabilir.
+Mikro-relief (Pürüzlülük), toprak yüzeyinin pürüzlü olması, su depolamasına neden olarak erozyon etkisini azaltır
+Eğim şekli, yeryüzünde dört farklı şekilde eğim şekli vardır bunlar düz,dış bükey,iç bükey ve dalgalı eğim şekilleridir. Bu yüzey şekillerinden en fazla erozyona etki edeni ise dış bükey şekilleridir. 
+Havza büyüklüğü ve şekli, benzer iki özellikli iki havzaden büyük olanında daha fazla erozyon ortaya çıkar. Havza büyüklüğünün yanında havza şeklide erozyon açısından önemlidir. Büyüklükleri aynı fakat şekilleri, havza çıkış yerleri farklı olan iki havzadan birisinde yüzey akış suları daha kolay terkedebilecekken diğerinde terk edemeyebilir. Daha geç terkedenin erozyon etkisi daha az olur.
+Yöney, arazinin yönü dolaylı olarak sıcaklığı etkiler. Kuzey yarım kürede kuzeye bakan yamaçlarda bitki örtüsü daha yoğun, organik madde birikimi daha fazladır. Toprağın nem düzeyi yüksektir. Güney yamaçlarda ise Güneş ışınları daha dik geldiği için bunun tersi bir durum otaya çıkar.
+Toprak özellikleri.
+Toprak özellikleri fizikse özellikler ve kimyasal özellikleri olarak ikiye ayrılır.
+Fiziksel özelliklerin etkisi
+Kimyasal özelliklerin etkisi
+Bitki örtüsü.
+Organik maddede olduğu gibi toprak yüzeyindeki bitkide yağmur damlalarının çarpma etkisini azaltır. Toprak yüzeyindeki kaymak tabakasının oluşumunu engeller. Toprak içine daha çok su infiltre olur. Yüzeydeki bitki örtüsünün çeşidi de toprak aşınımı üzerine etki eder. Toprakları en fazla koruyan bitki örtüsünden en az koruyana doğru aşağıdaki gibi sıralanabilir;
+Bu sıralamada çapa bitkilerinin toprağı en az koruduğu görülmektedir. Bu nedenle eğimli arazilerde çapa bitkisi tarımı yapılırken toprak ve su korunumu önlemlerine çok dikkat edilmesi gerekmektedir.
+İnsan faktörü.
+İnsan faktörü erozyonu etkileyen en önemli faktörlerdendir. Çünkü insan faktörü, sadece erozyona sebep olmakla kalmayıp diğer etkili faktörlerinde değişmesine neden olarak dengenin bozularak erozyonun artmasına neden olabilir. İnsan faktörü,
+gibi çeşitli nedenlerle erozyona etki etmektedir.
+Erozyonu yavaşlatıcı önlemler.
+Erozyonun miktarını azaltıp kabul edilebilir sınırlara çekebilmek, alınacak önlemlere bağlı olarak gerçekleştirilebilir. Bunun için erozyonun cinsine göre önlemler alınmalıdır.
+Meyilli arazilerde teraslama.
+Erozyonun yavaşlatılması kapsamında meyilli arazilerde teras yapımı da önemli bir önlemdir. Kanal terasları, sırt terasları ve seki terasları olmak üzere üçe ayrılan teraslar, suların beraberinde toprak parçalarını götrümesini engellemektedir. Kanal terasları %4' ekadar eğim olan alanlarda başarı ile uygulanabilirken sırt terasları %2 dolayındaki alanlarda uygulanıldığında başarıya ulaşmıştır. Sırt terasları ile kanal terasları arasındaki en önemli fark ise, sırt teraslarında su kaynklarının az olduğu bölgelerde toprak korunumunun yanı sıra su korunumunu da gerçekleştirebilmesidir. Seki terasları ise meyil olarak %12'den fazla meyilli topraklarda kullanılmaktadır. Bu teras tipi, yapılacak tarımsal faliyetlerde mekanizasyon kullanımına elverişli değildir. Terasların işlevlerini sürdürebilmeleri için yoğun yağışlar sonucu hasar göremeleri engellenmelidir. Bu nedenle teraslamadan sonra bu alanları çimlendirmek terasların yapılaını koruyabilmeleri açısından önemlidir. Eğer teraslama yapılmış bölgede tarımsal bir faaliyet yapılıyorsa sürümler ya tahtavari yapılmalı ya da düz sürümde teras sırtlarına parelel sürüm tercih edilmelidir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Munzur Vadisi Millî Parkı</DOCTITLE>
+<TEXT>
+
+Munzur Vadisi Millî Parkı, Tunceli-Ovacık arasında uzanan Munzur Vadisi'nde, 42.000 Hektarlık bir alan 1971 yılında Milli Park olarak ilan edilmiştir. Bu bölgenin milli park olarak ilan edilmesinde etken olan veriler, başta akarsu kaynakları ve gözeler olmak üzere zengin doğal veriler, endemik bitki türleri ve yöreye özgü hayvan türleri ile zenginleşen bitki örtüsü ve yaban hayvan varlığıdır.
+Munzur Çayı üzerinde yapımına başlanan ve planlanan 8 adet baraj, Milli Park için büyük bir tehlike oluşturuyorlar.
+Arazi Yapısı.
+Türkiye'nin en büyük milli parklarından biri olan " Munzur Vadisi Milli Parkı", Tunceli kent merkezine 8 km uzaklıkta başlayıp, vadi boyunca Munzur Dağlarına kadar uzanmaktadır. Kuzeyde 3300 metreye kadar yükselen Munzur Dağları, Mercan ve Munzur Suyu vadileri tarafından parçalanmıştır.
+Milli parkın kuzeyinde, Munzur Dağlarının üzerinde 2000-3000 metrelik zirvelerde yer alan krater gölleri, Ovacık düzlüğünde kaynayan gözeler ve kanyonlar ile vadi boyunca dökülen şelaleler parkın doğal değerlerini zenginleştirmektedir. Milli parkın her köşesinden eşsiz doğal görünüm ve tüm yabanıl yaşam kolaylıkla izlenebilmektedir. Bu özellikleriyle Munzur Vadisi, gerek rekreasyonel etkinlikler, gerekse doğa araştırmaları için turizme yönelik çok önemli potansiyel taşımaktadır.
+Bitki Örtüsü.
+Bitki örtüsü bakımından çok zengin olan Munzur Vadisi Milli Parkı florasında, 1518 çeşitli bitki kayıtlı olup, bunlardan 43 çeşidi Munzur Dağlarına, 227 çeşidi Türkiye'ye endemik türlerden oluşmaktadır. Munzur Dağlarından başka hiçbir yerde bulunmayan endemik bitkiler arasında Çan Çiçeği, Erzincan Kirazı, Bindebirdelik Otu, Munzur Kekliği, Munzur Düğün Çiçeği, Dağ Çayı, Munzur Dağı Oltu Otu ve Menekşe sayılabilir.
+Ovacık ilçesiyle Munzur gözelerinden 1.5 km. aşağıda Munzur Suyunun iki yanında bölgenin karakteristik ağacı olan huş meşceresi bulunmaktadır. Ülkemizde ender bulunan ağaç türlerinden olan huş, bu bölgede su kenarında güzel gövde yapmakta ve bölgenin florasına önemli bir katkı sağlamaktadır.
+Milli Parkta hâkim ağaç türü meşe ve çeşitli türleridir. Tepeler ve yamaçlarda kayalık olmayan yerler meşe ormanları ile kaplıdır. Vadi tabanında ve su boylarında karışık olarak karaağaç, akağaç, kızılağaç, dişbudak, çınar, asma, huş, ceviz, yabani fındık, kavak, söğüt ve çalı türlerinden oluşan zengin bir bitki örtüsü bulunmaktadır. Alt flora, meşelerin koru niteliğinde olduğu yerlerde zengin durumdadır. Dağların sarp ve dik yamaçları tamamen çıplaktır.
+Direy.
+Munzur Suyu ve Mercan Deresinde yaygın ve yoğun olarak bulunan yöreye özgü nadir alabalık türleri ile çengel boynuzlu dağ keçisi, yaban keçisi, kurt, boz ayı, kızıl tilki, yabani tavşan, kaya yediuyuru ve porsuk gibi memeliler yaşar. Kızıl geyik bulunma ihtimali de vardır. Urkeklik, kaya kartalı gibi kuş türleri de mevcuttur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Şor Türkleri Milli Parkı</DOCTITLE>
+<TEXT>
+
+Şor Türkleri Milli Parkı (Rusça:Шорский национальный парк) 1990 yılında organize edilmiştir. Sovyet bakanlığı 27 Aralık 1989 yılı. № 386 sayılı «Kemerova bölgesi Şor Milli Parkı oluşturma günü». ile hazırlanmıştır.
+Şor Milli Parkı Kemerova bölgesi güneyindeki bölge Taştagolilçesindedir. Kuzeyden güneye 110 km, doğudan batıya 90 km yüzölçümü vardır. Taştagolda milli parkın yönetim organı vardır.
+posta adresi: 652990, Kemerova oblast, Taştagol şehri, Sadovaya caddesi No: 8.
+Bölge ile ilgili açıklamalar.
+Tabiat Alanı: dağlık tayga
+Relyef: Milli Park arazi son derece dağ sisteminin nehir vadileri ile disseke karmaşık vardır. 500–800 m ortalama yüksekliği, en yüksek zirvelerinden 1,600-1,800 m ulaşmak.
+İklim: klim Asya kıtasının merkezine yakın parkın bulgu nedeniyle, kıta ve şiddetlidir. Çevreleyen yüksek sırtlar Dağ Shoria batı Salair sırtı güneyden - Altay dağ sistemi ve doğu sırtları Kuznetsk Alatau ve Batı Sayan , benzersiz bir iklim rejimi oluşturmak. Ocak ayı ortalama sıcaklığı -20-22 derece. Temmuz C, - 17-18 derece. Ortalama sıcaklık yüksekliği ile Dağlarda C. düşen edilir. 1,500-1,800 mm kadar rüzgar yamaçlarında dağlarda 900 mm yıllık ortalama yağış. Kar Ekim ayından Nisan ayına kadar, altı aydan fazla sürer. Kar örtüsü derinliği orta depresyonlarda, 200–250 cm ulaşır - güney ve güney-batı yönü hakim rüzgarlar fazla 400 cm..
+Su: Mras-Su adındaki akarus ana akarsudur. Yeraltı, dağ ve yağmur sularından beslenir. 
+toprak yapısı: baskın toprak tipleri daha az bir ölçüde, podzolik toprağa, çim-podzolik ve. Bunun üst kısmında - SOD-podzolik topraklar alt Tayganın bölgesinin bir parçası olarak ve podzolik esas olarak ortaya çıkar. Tüm bu topraklarda onlara odunsu bitki büyümesi için oldukça elverişli..
+Biyolojik Türlülük.
+Bulunan türlerin sayısı:
+Flora ve bitki örtüsü:
+Sibirya ormanlarının eşsiz ve zengin bitki örtüsü burada çok açık farkedilir. Sibirya Kandığı, kendine özgü türler vardır. iyah tayga hakim parkın bitki örtüsü. Orman tipleri dağ topluluklar tarafından temsil edilmektedir. Sedir ve köknar ağacı ile topluluk hakim. Çok daha az yaygındır ladin, çam, beyaz huş , kavak . Orta yaşlı ve olgunlaşan tarlaları en önemli oran yaş yapısı. Olgun stand oranı sadece ormanlık arazi beşte biri kadardır. Shirokotravnye krupnotravnye ve orman toplulukların en yaygın türleri. Daha az önemli çalılar kuş kiraz ve kül ile yosun ve otsu çalı-orman tipleri oranı, ve bir bayan-eğrelti otu, eğrelti, bir savaşçı kuzey, hezaren çiçeği yüksek kupyr orman orman katta. Ormanların diğer payı ihmal edilebilir düzeydedir. Orta Shoria ormanlarında güney Sibirya dağların eşsiz ve zengin bitki örtüsü kalır. .
+Fauna : Teriofauna Milli Parkı birçok türleri: tavşan , sincap , samur , vizon , su samuru , Wolverine , tilki , kurt , vaşak , geyik . Bu türlerin yanı sıra Sibirya gelincik, sincap, su sıçanı, misk faresi , Hamster , stoat , gelincik , bozkır kokarca, porsuk , bozayı , yaban ren geyiği , misk geyik , karaca , alageyik. Avifauna temsilcileri arasında, pek çok avlanan şunlardır: ortak yeşilbaş , shoveler, kılkuyruk , boz ördek, çıkrıkçın, Teal, Kırmızı- parkta kuşların nadir türler arasında vb olan kara leylek , altın kartal , Alaca doğan , balıkkartalı . Nehirlerde vardır grayling , goldilocks , alabalık .
+Turizm ve rekreasyon.
+Şoryada yazın at ile dağ yürüyüşleri, zirvelere tırmanma ve mağaralarda gezme çam ormanlarının tabii kokuları ile dinlenme insan sağlığı için oldukça faydalıdır. Dağlı Şoryada turistik araçlar ile gezi ve yürüyüş parkurları mevcuttur.
+Milli Parkta turistik rotalar:
+Spor heveslileri kayak için — Mustag dağı tercih ederler, «Dağlı Şorya'nın incisi» — KulTayga dağı ve Tazgol adlı etnografik müze ve göller akarsular, şelaleler Mras-Su vb. önemli çekim merkezleridir
+Tabii ve kültürel miras.
+Şor Milli parkı bölgesinde 25 anıt içinde en sık konuğun geldiği 6 yerler şöyledir:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ilıman okyanusal iklim</DOCTITLE>
+<TEXT>
+
+Batı rüzgârlarının etkisiyle ılıman kuşak karalarının batı ve çok daha seyrek olarak doğu kıyılarında görülür. Avrupa'nın batısı ve kuzeybatısı, Kanada’nın batısı, Şili'nin güneybatısı, Güney Afrika'nın güneydoğusu, Avustralya’nın güneydoğusu ve Yeni Zelanda başlıca görüldüğü yerlerdir. Türkiye’de ise Karadeniz kıyılarında ve Kuzey Anadolu Dağları'nın Karadeniz’e bakan yamaçlarında görülür. 
+Yazlar serin, kışlar ılık ve her mevsim yağışlıdır. Her mevsim yağışın olması bulutluluğun fazla olmasına o da güneşlenmenin az olmasına sebep olur.
+Her mevsim nemlilik fazla olduğundan günlük, yıllık sıcaklık farklarının en az olduğu iklimdir. Yıllık yağış miktarı 600-1500 mm civarındadır. Yükseltinin arttığı yerlerde yağış miktarı da artmaktadır. Yağış oluşumu rüzgârların daha çok denizden gelmesinden dolayı yamaç yağışı şeklindedir.
+Doğal bitki örtüsü ormandır. Bitki örtüsü alçak kesimlerde kışın yaprağını döken yayvan yapraklı ormanlardır. Yükselti arttıkça bitki örtüsü değişir ve karma yapraklı ormanlara rastlanır. Daha yukarılarda ise iğne yapraklı ormanlar ve Alpin çayırlar görülür.
+En sıcak ay ortalaması 24-25 °C, en soğuk ay ortalaması 5-6 °C dir. Yıllık ortamla sıcaklık 10-15 °C dir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güneysu, Rize</DOCTITLE>
+<TEXT>
+
+Güneysu Rize ilinin bir ilçesi.
+Tarihçe.
+Potamya Osmanlı yazılı kaynaklarında ilk olarak 1486 tarihli Trabzon tapu tahrir defterlerinde görünen, Trabzon imparatorluğu döneminde kurulmuş önemsiz bir Rum köyü olduğu düşünülmektedir. 1530 tarihli defterlerde 3 mahalle ve 2 köyde oluşan Potamya karyesinde 228 Hıristiyan Rum, 28 yeni Müslüman (olmuş Rum), 26 baştine yaşamakta ve 13 değirmen olduğu kayıtlıydı. 1924 yılında yerleşimdeki medreseler kapatılınca tepkiyle karşılanmış, 1925 yılında "Şapka İsyanı" oalrak bilinen tarihi olay Potamya'da yaşanmıştır. Güneysu, Rize iline bağlı bir bucak merkezi iken 1987 yılında ilçe olmuştur. Güneysu İlçesi’nin eski adı ve halk arasında da yaygın olarak kullanılan ismi Potomya'dır. Çünkü Karadeniz bölgesinde kaynağını dağların kuzeyinden alan birçok kısa mesafeli,gür akışlı akarsulardan olan Taşlıdere Havzası'nın iki önemli kolu olan Salarha Deresi ve Potomya deresi arasında kaldığından bu ismi almıştır. Yani iki akarsu ortasında yer aldığından Potamya denilmiş ve zamanla halk dilinde Potomya'ya dönüşmüştür. Potamya "dereli" anlamına gelmektedir..
+Coğrafya.
+Güneysu İlçe sınırları yaklaşık olarak batıda 40 34 doğu boylamından, doğuda 40 44doğu boylamından, güneyde 40 50 kuzey enleminden ve kuzeyde 41 02 kuzey enleminden geçmektedir. Güneysu, Rize il merkezinin güneydoğusunda Taşlıdere'nin Karadeniz'le birleştiği noktadan güneye doğru gidildikçe dokuzuncu kilometrede yer alan ve 107 km2 alana sahip Rize'nin iç kesim ilçelerinden biridir. Şehir merkezinin, kıyıya uzaklığı 14 km. olup şehir merkezi rakımı 152 metredir. Doğudan Çayeli, kuzeyden Rize merkeze bağlı topraklar batıdan Rize merkeze ve İkizdere toprakları ve güneyden İkizdere toprakları ve Kaçkar Dağları ile çevrilidir. Kuzey sınırları Karadeniz kıyısından 9 km içeriden başlayıp şehir merkezinin 14.km'de olduğu halde rakımı 152 km'de olması akarsu kenarında kurulmasının bir sonucudur. Oysa şehir merkezi bile tepelerle çevrili olup, buralarda kurulan yakın köylerde bile (iki üç km mesafede) rakım bu değerin birkaç katına çıkabilmektedir.
+İlçe çok engebeli bir rölyefe sahip olup, ilçe sınırları dahilinde yükseltisi 150 m. ile 2000 m. civarında değişen tepelik alanlar mevcuttur. Bu tepeler yapı, rölyef ve teşekkülat bakımından bir birine benzer özellikler göstermekte olup vadilerle birbirinden ayrılmışlardır. Bu vadilerde büyüklü küçüklü çok sayıda akarsu mevcut olup bunlar daha sonra Taşlı dere havzasının en önemli kolu olan Güneysu ( Potamya ) deresini meydana getirmektedir. Arazinin çoğu dağlık olup cüzi bir kısmını yaylalar meydana getirmektedir. Denize komşu olmadığı için de Rize genelinde payı %1 olan ovalarından bile tam olarak payını alamamıştır. Bu dağlık arazi ise tamamen bitki örtüsü ile kaplı olup, açık alan görmek mümkün değildir.Bu bitki örtüsü vadilerin derin ve keskin görünümünü yumuşatıp göze hoş bir karakter kazanmasına yardımcı olmaktadır.
+İklim.
+Bölgenin iklim özelliğinden kaynaklanan sürekli yağışlar aşınmayı arttırarak erozyon tehlikesini sürekli gündemde tutmaktadır. Ayrıca bu yağışlar rölyefteki engebe ve toprakta ki namüsait yapı ve doku ile birleşince ilçenin her köşesine can ve mal kaybına müsebbip olan sürpriz sel ve heyelanlarla karşılaşmak mümkün olmaktadır. Nitekim 12 Kasım 2001 ve 23 Temmuz 2002 felaketleri bunun sadece acı iki örneğidir.
+Bitki Örtüsü.
+Yörenin bitki örtüsü özelliğine baktığımızda sınırları dışından (kıyıdan) başlayan Kolşik Flora’nın hakimiyetini müşahade etmekteyiz. Ancak belli bir yükseltiden sonra iğne yapraklı ağaçlar hakim duruma geçmekte ve Kaçkarların kuzey sınırlarında sıralanan belli sayı ve büyüklükteki yaylalarda alpin çayırlardan söz etmemiz mümkündür.
+Nüfus.
+Güneysu’nun nüfus yoğunluğu Türkiye ortalamasının üzerinde olup kadın nüfusu erkek nüfusundan daha fazladır. Ayrıca sürekli dışa göç 1990’da 19516 olan Güneysu nüfusunu 2000 yılında 17320’ye geriletmiştir. Dolayısıyla nüfus artış hızı %-11,25’dir. Kırsal nüfus yoğunluğu şehir nüfusundan çok fazladır.Bunun sebebi merkeze yakın köylerin oluşu dolayısıyla insanların köyden merkeze gündüzün gelip gitmesidir.Ayrıca kır nüfusunun şehir nüfusundan fazla olmasının diğer bir sebebi ilçe sınırları içinde 22 köy olup belediye sınırları içinde 6 mahallenin oluşudur.Yeni kırsal yerleşme sayılarının şehirdeki yerleşmenin 5 katından fazla oluşudur. Güneysu nüfusunu etnik köken bakımından başta Türkler,Laz kökenli Türkleşmiş aileler ve kısmende Gürcüler oluşturmaktadır.
+Ekonomi.
+Güneysu halkının temel geçim kaynağını tarım ve tarıma dayalı sanayi teşkil etmektedir.Bu konuda özellikle çay tarımının hakimiyetinden söz etmek mümkündür. Son yıllarda çaya alternatif olarak kivi de yetiştirilmeye başlanmıştır.
+Sebzecilik her ailenin kendi ihtiyacını karşılamaya yönelik olup küçük tarlalarda yapılmaktadır.Ayrıca traktör gibi tarım sanayii araçlarını kullanmaya müsait bir alan olmadığından bütün ekim,biçim işleri çapa vb. el aletleri ile yapılmakta olup insan gücüne dayanmaktadır. Nadiren hayvan gücünden istifade edilir. Hayvancılık faaliyetleri daha çok kırsal alanda olup büyük baş hayvan yetiştiriciliği ön plandadır. Bunun yanında yüksek kesimlerde kıl keçisi ağırlıklı küçükbaş hayvancılık da yapılmaktadır.
+Sanayi faaliyetleri olarak çay sanayii gerek üretim gerek istihdam açısından birinci durumdadır. İlçede 2 tane Çaykur’a, 35 tane özel sektöre ait olan çeşitli üretim kapasitesine sahip 37 fabrika mevcut olup, ilçede yetişen çayın işlenmesinin yanı sıra komşu ilçelerden de alınan yaş çayı işleyen bu fabrikalar, ilçenin özel sektör çay sanayii bakımından diğer ilçelerden daha iyi olduğunu göstermektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yeryüzünde Bitki Örtüsünün Dağilişini Etkileyen Faktörler (EBA)</DOCTITLE>
+<TEXT>
+
+Yer yüzünde bitkilerin dağılışında farklılıklar görülmektedir. (Haritax) Bu dağılış üzerinde yer şekilleri, iklim, toprak özellikleri ve beşeri faktörler etkili olmaktadır.
+YER ŞEKİLLERİNİN ETKİSİ
+*	Bitki tür ve toplulukları üzerinde yeryüzü şekillerinden dağ sıraları, bunların uzanışı, bakı, eğim ve yükselti etkilidir.
+*	Yükseltinin değişimine bağlı olarak bitki örtüsü de değişmektedir.
+*	Nemli rüzgârlara karşı olan yamaçlar fazla yağış alır.
+*	Eğime bağlı olarak yamaçlardaki bitki örtüsü diğer alanlara oranla daha gür ve çeşitlidir.
+İKLİMİN ETKİSİ
+*	Yağışlı bölgelerde gür bitki toplulukları görülürken kurak bölgelerde bitki örtüsü seyrekleşir.
+*	Çöllerde ise çok kurakçıl ve seyrek bazı otlara ve çalılara rastlanır.
+*	Bitkilerin gelişebilmesi için yağışın yanında belli bir sıcaklığa da ihtiyaç vardır. Soğuk kutup bölgelerine ve dağların yüksek kesimelerine doğru gidildikçe bitkiler cılızlaşır ve nihayet ortadan kalkar. Oysa sıcak ve orta kuşakta yağışın yeterli olduğu yerlerde bitki örtüsü büyük bir gelişme gösterir.
+TOPRAK FAKTÖRÜ
+*	Bitkinin kökleriyle tutunduğu ve beslendiği yer topraktır.
+*	Bitkiler besinlerini topraktaki sudan alır.
+*	Toprak dokusu (sık veya gevşek oluşu) ve toprak yapısı (kalkerli, killi, kumlu oluşu) bitki hayatı bakımından önemlidir
+BEŞERÎ FAKTÖRLER
+Tarih boyunca insanlar savaşlar,tarım alanları, açma,yakacak,ihtiyacı,orman yangınları,hayvan otlatma,orman alanlarını imar ve iskâna açma, yol yapımı, sanayileşme gibi nedenlerle bitki örtüsünü tahrip etmişlerdir:
+Ekvatoral Yağmur Ormanları		
+Ekvatoral iklim bölgesinin doğal bitki örtüsüdür. Çok sık oldukları için balta girmemiş ormanlar olarak da adlandırılır. Bu ormanların görüldüğü yerler her mevsim yağışlı olup yıllık yağış miktarı 2000 mm'nin üzerindedir. Bitkiler, yıl boyunca yeşil kalır. Bitki türleri bakımından çok zengin olan ormanda ağaçların boyu 50-60 metreyi bulmaktadır.	Amazon Havzası, Afrika’da Senegal’den Gine Körfezi’ne kadar olan saha ile Kongo Havzası, Güneydoğu Asya adaları
+Muson Ormanları
+Muson iklim bölgesinde görülür. Bu ormanların görüldüğü yerlerde yıllık yağış miktarı 2000 mm civarındadır. Yağışların % 85'i yazın görüldüğünden yaz aylarında yeşillenen bu ormanlar, kışın yapraklarını döken ağaçlardan oluşur. Çok sık ve gür oluşları bakımından ekvatoral yağmur ormanlarına benzerlik gösterir. Buna karşılık türce fakir olmalarıyla onlardan ayrılır. Muson ormanlarının tipik ağacı teak	
+Orta Kuşağın Karışık Ormanları		
+Orta kuşağın okyanusal iklim bölgelerinde görülen bu ormanlar, geniş yapraklı ve iğne yapraklı ağaçlardan meydana gelir. Bu ormanların görüldüğü yerler her mevsim yağışlı olup yıllık yağış miktarı 1000 mm'nin üzerindedir. Bu ormanları oluşturan ağaçlar türce çok zengin olmadıkları gibi boyları da ekvatoral yağmur veya muson orman ağaçları kadar fazla değildir.	
+Tayga Ormanları
+Sert karasal iklimin nemli alanlarında (60 enlemi çevresinde) görülen bu ormanlar, sıcaklığın düşük olmasından dolayı iğne yapraklı ağaçlardan oluşur. Bu ormanların görüldüğü yerlere en fazla yağış yazın, en az yağış kışın düşmektedir. Yıllık yağış miktarı 500 mm civarındadır.	
+Maki
+Bodur ağaçlardan ve çalılardan (yabani zeytin, defne, kocayemiş, mersin, keçiboynuzu, zakkum, süpürge çalısı, kermes meşesi) oluşan makiler Akdeniz ikliminin bitki örtüsüdür. Daima yeşil yapraklı olan makiler kuraklığa dayanıklı oldukları hâlde soğuğa karşı fazla dayanıklı değildir.	
+Savan
+Tropikal iklim bölgelerinde görülen uzun boylu ot topluluklarıdır. Geniş alan kaplayan savanlar içerisinde kurakçıl nitelikte tek tek ağaçlara veya ağaç kümelerine de rastlanır. Savanların görüldüğü yerlerde yazlar yağışlı, kışlar kurak geçmektedir. Ortalama yıllık yağış miktarı 1500 mm civarındadır. Yaz yağışlarına bağlı olarak yeşeren bu otlar, kış mevsiminin kurak geçmesinden dolayı sararır.	
+Bozkır (Step)
+Orta kuşağın yarı kurak iklim bölgelerinde görülen seyrek ve cılız ot topluluklarıdır. Steplerin görüldüğü yerlerde yıllık yağış miktarı 250-400 mm arasındadır. İlkbahar yağışlarına bağlı olarak yeşeren bu otlar yaz kuraklığından dolayı sararır. Step bölgesinin esas bitkisini; kökleri derine inmiş kurakçıl otlar oluşturmaktadır. Bunların başlıcaları yavşan otu, üzerlik otu, geven, yumak, çoban yastığı, kekik, adaçayı ve sığır kuyruğudur.	
+Çayır
+Orta kuşak karasal ikliminin yarı nemli sahalarında veya yüksek dağlarda görülen ve yaz boyu yeşil kalan, bozkırlardan daha gür ot topluluklarıdır. Yazların serin ve yağışlı geçmesi, çayırların yeşil kalmasını sağlamaktadır. Orman üst sınırından sonra yetişen çayırlara, dağ çayırları (alpin çayırları) da denilmektedir.	
+Tundra
+Tundra iklim bölgesinde görülen soğuğa dayanıklı otsu bitki topluluklarıdır. Bunlar kısa ve serin geçen yaz döneminde yeşerirler. Tundra alanlarında yıllık yağış miktarı 200-250 mm dolayındadır. Sıcaklık yetersiz olduğundan ağaçlara rastlanmamaktadır.	
+Çöl Bitkileri
+Geniş kum örtüleri veya kayalıklardan oluşan bu bölgelerde yıllık yağış miktarı 200 mm'nin altındadır. Çok seyrek olarak dağılmış bulunan kurakçıl otlar, çalılar ve kaktüsler en yaygın bitki türleridir. Ayrıca yer yer hurma ve palmiye ağaçlarından oluşan vahalar da yer almaktadır.	
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yeşiltepe, Samsun</DOCTITLE>
+<TEXT>
+
+Yeşiltepe, Samsun ilinin Merkez ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nereden geldiği ve geçmişi hakkında bilgi yoktur.Ama köyün adındanda anlaşılacağı üzere yüksek ve yemyeşil olmasından dolayı bu adı aldığı sanılmaktadır.
+Kültür.
+Köy halkı Giresun ve Samsun illerinin gelenek, göreneklerini devam ettirmektedir.
+Coğrafya.
+Samsuna uzaklığı 45 km dir.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir. Her mevsim yağışlıdır.
+• Doğu Karadeniz Bölümünde en fazla yağış sonbaharda, en az yağış ilkbaharda düşer. Yıllık yağış miktarı 2000–2500 mm’dir.
+• Batı Karadeniz Bölümünde en fazla yağış sonbaharda, en az yağış ilkbaharda düşer. Yıllık yağış miktarı 1000–1500 mm’dir.
+• Orta Karadeniz Bölümünde ise en fazla yağış kışın, en az yağış yazın düşer. Yıllık yağış miktarı 1000–1200 mm’dir.
+• Karadeniz ikliminin görüldüğü alanlarda kar yağışlı günlerin ortalaması 18 gündür.
+• Yıllık ortalama sıcaklık 13-15 °C’dir.
+• Ocak ayı ortalama sıcaklığı 6-7 °C’dir.
+• Temmuz ayı ortalama sıcaklığı 21-23 °C’dir.
+• Yıllık sıcaklık farkı 13-15 °C’dir.
+• Doğal bitki örtüsü ormandır. Bitki örtüsü alçak kesimlerde kışın yaprağını döken yayvan yapraklı ormanlardır. Yükselti arttıkça bitki örtüsü değişir ve karma yapraklı ormanlara rastlanır. Daha yukarılarda ise iğne yapraklı ormanlar ve Alpin çayırlar görülür.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Fındık üretimi bunların başında gelir. Mısır, patates, fasulye gibi diğer tarım ürünleri bunu takip eder.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır. Köyün içme suyu şebekesi vardır, kanalizasyon şebekesi yoktur. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+

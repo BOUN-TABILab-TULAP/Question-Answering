@@ -1,0 +1,56 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bir	bir	+Adverb
+Bir	bir	+Det
+Bir	bir	+Num+Card
+Bir	bir	+Adj
+Bir	Bir	+Noun+Prop+A3sg+Pnon+Nom
+
+bölgedeki	bölge+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+gelir	gel	+Verb+Pos+Aor+A3sg
+gelir	gel	+Verb+Pos^DB+Adj+AorPart
+gelir	gelir	+Noun+A3sg+Pnon+Nom
+
+düzeyi	düzey+Noun+A3sg+Pnon+Acc
+düzeyi	düzey+Noun+A3sg+P3sg+Nom
+
+oradaki	ora	+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+ekonomik	ekonomik	+Adj
+
+faaliyetleri	faaliyet	+Noun+A3pl+Pnon+Acc
+faaliyetleri	faaliyet	+Noun+A3pl+P3sg+Nom
+faaliyetleri	faaliyet	+Noun+A3pl+P3pl+Nom
+faaliyetleri	faaliyet	+Noun+A3sg+P3pl+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+etkiler	etki	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+etkiler	etki	+Noun+A3pl+Pnon+Nom
+etkiler	etkile	+Verb+Pos+Aor+A3sg
+etkiler	etkile	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

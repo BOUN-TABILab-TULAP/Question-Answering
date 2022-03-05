@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Atmosferdeki	atmosfer	+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+nem	nem	+Noun+A3sg+Pnon+Nom
+
+sıcaklığı	sıcak+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
+sıcaklığı	sıcak+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+etkiler	etki	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+etkiler	etki	+Noun+A3pl+Pnon+Nom
+etkiler	etkile	+Verb+Pos+Aor+A3sg
+etkiler	etkile	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

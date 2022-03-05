@@ -1,0 +1,255 @@
+Question: Granitik kabuğun bileşiminde en çok hangi elementler bulunur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerkabuğu</DOCTITLE>
+<TEXT>
+
+Yer kabuğu, taş küre veya litosfer, Yerküre'nin en dış kısmında bulunan yapıdır.
+Karalarda daha kalın (35–40 km), Tibet Platosunda ise 70 km, deniz ve okyanus tabanlarında ise daha ince (8–12 km) olan yer kabuğunun ortalama kalınlığı 33 km kadardır. Kimyasal bileşimi ve yoğunluğu birbirinden farklı iki kısımdan meydana gelir. Bunlardan biri granit bileşimindeki kayaçlardan oluşan granitik yer kabuğu; diğeri ise bazalt bileşimindeki kayaçlardan oluşan bazaltik yer kabuğudur.
+Granitik yer kabuğunda silisyum ve alüminyum elementleri hakimdir. Bu nedenle daha hafiftir; yoğunluğu 2,7-2,8 g/cm3 arasında bulunur. Yer kabuğunun üst kısmını teşkil eder. Bazaltik yer kabuğunda ise silisyum ve magnezyumlu unsurlar hakimdir. Dolayısıyla granitik kabuktan daha ağırdır; yoğunluğu 3-3,5 g/cm3 arasında değişir. Granitik yer kabuğunun altında ve okyanus tabanlarında yer alır. Bu nedenle bazaltik yer kabuğuna "okyanussal kabuk" adı da verilir.
+Bu iki kısım bütün kıtaların altında bulunmaktadır. Buna karşılık okyanusların altında durum farklıdır. Burada bazaltik kabuk birkaç kilometre kalınlıkta ince bir tabaka halinde uzanır. Buna karşılık granitik kabuk ya hiç yoktur (örneğin Büyük Okyanus) ya da çok incedir (Atlas ve Hint Okyanusları).
+Kabuk ile manto arasındaki sınıra Mohorovicic Süreksizliği (Moho) denilir. Bu kesimde yoğunluğa bağlı olarak sismik P dalgalarının hızı litosferde 7,2 km/s iken, mantonun üst kısmında 8,1 km/s'ye çıkar.
+Yüzey şekilleri - Yer kabuğu etkinlikleri.
+Yerküre'nin iç ısı kaynağı ve mantonun konveksiyon hareketleri, yer kabuğunun günümüzdeki fiziksel özellikleri (kalınlık, bileşim, esneklik ve kırılganlık), atmosfer ve gezegenin su kütlesi uygun bir birleşim ve karşılıklı etkileşme ile, Yer'in Güneş Sistemi içinde benzerine rastlanmayan bir jeolojik etkinliğe sahip olmasını sağlar. Birlikte evrimleşme ile ortaya çıkmış ve yaşamın yeryüzünde varlığını sürdürebilmesi için vazgeçilmez olan bu sistem, gezegen tarihi boyunca belli sınırlar içinde sabit kalabilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kıtasal çarpışma</DOCTITLE>
+<TEXT>
+
+Kıtasal çarpışma Dünya'nın yakınsak sınırlarında meydana gelen bir levha tektoniğidir. Kıtasal çarpışma yitim zonu üzerinde olan bir olaydır , bu çarpışma süreci boyunca yitim bölgesi yok edilir , Ve bu sayede dağlar oluşur, iki kıta biraraya gelir. Kıtasal çarpışma sadece; bu gezegende bilinen farklı kabukların , okyanus ve kıta arasında , nasıl davrandığını gösteren ilginç bir örnektir.
+Kıtasal çarpışma anlık bir olay değildir. Çarpışmanın durması onlarca , hatta milyonlarca yıl sürebilir. Hindistan ve Asya arasındaki çarpışma yaklaşık 50 milyon yıldır devam etmektedir, ve azaldığına dair hiçbir belirti göstermemiştir. Doğu Afrika orojenizi oluşturmak için doğu ve batı Gondwana arasındaki çarpışma (610 MA)başından (510 MA)sonuna kadar yaklaşık 100 milyon yıl sürmüştür. Pangea oluşturmak için nispeten kısa aralıklarla meydana gelen Gondwana ve Lauraisa arasındaki çarpışma 50 milyon yıl kadar uzun sürmüştür.
+yitim zonu: çarpışma noktası.
+Yitim zonu süreci iki kıtanın (farklı kıtasal kabuğun parçaları) okyanus yolu üzerinden ayrılması ile başlar (ve okyanus kabuğu), birbirine yaklaşır, okyanus kabuğu yavaş yavaş bir yitim zonu olarak tüketilir. Yitim zonu, kıtaların bir kenarı boyunca uzanır ve altına doğru dalarken, gerisinde kalan belirli bir alanda da volkanik dağ zincirlerini yükselterek çalışır. Örneğin; bugün Güney Amerika’daki And Dağları gibi. Yitim, tüm litosfer boyunca etkili olur ve yapısı litosferin yoğunluğu tarafından kontrol edilmektedir. Okyanus kabuğu, ince (6 km kalınlığında) ve yoğun (yaklaşık 3.3 g/cm3) bir bazalt, gabro ve peridotit paketinden oluşur. 
+Sonuç olarak, çoğu okyanus kabuğu okyanusal bir hendekte kolayca yiter. Buna karşılık , kıta kabuğu kalın (~45 km)ve daha yüzücüdür, çoğunlukla granitik bileşimli kayaçlardan oluşur (ortalama yoğunluğu yaklaşık 2.5 g/cm3). Kıtasal kabuk daha zor dalar ancak fakat ultra-yüksek basınç (UHP) metamorfizmasının da kanıtladığı gibi 90–150 km'den daha fazla derinliklere dalabilir. Normal bir dalma okyanus var olduğu sürece devam eder ancak batışı plaka tarafından taşınan kıtanın açmaya girerken yitim sistemi kesintiye uğrar. Bunun nedeni kıtasal litosferin daha kalın ve altındaki astenosferik mantodan daha düşük yoğunluğa sahip olmasından ileri gelir. Üst plaka üzerindeki volkanik yay yavaş yavaş aktivitesini kaybeder. Devam eden levha hareketi, önceki aşamada derin bir okyanusal hendek olan bölgenin yükselerek dağ kuşağı oluşumuna neden olur. Çarpışma bölgeleri genellikle ofiyolitler olarak bilinen, önceden mevcut okyanusal kabuk ve manto kaya parçaları ile işaretlenmiştir.
+kıtasal kabuğun derin yitimi.
+Kıtasal kabuğun derin plaka üzerinde çarpışması esnasında kıtasal kabuğun batışı,plaka parçası olarak dalma elde edilir ancak yitim zonu batmaz kabuk olarak tanımlanır. Bilinmeyen oranda dalan kıtasal kabuk ultra-yüksek basınçlı metamorfik koezit ve elmas artı veya eksi olağandışı ihtiva eden silikon zengin lal ve potasyum taşıyan piroksenlerdir. Bu minarellerin varlığı kıta kabuğunun en az 90–140 km derinliğini gösterir. UHP kayaç örneği doğu-orta Çin'in Dabie-Sulu kemer bölgesinde , Batı Alpler, Hindistan ve Himalaya , Kazakistan ve Kockhetav masifi , Avrupa bohem masifi , Norveç ve Mali gnays bölgesinde olduğu bilinmektedir. En çok UHP kayaçları dilimli bir yaprak veya naplardan ve ince levhalardan oluşur, gerçeği kalın göstermektedir. Kıtasal kabuk yollarında hacimsel ve baskın olarak daha derin dalma görülür.
+fosil çarpışma bölgeleri.
+Kıta çarpışmaları Süperkıta döngüsünün önemli bir parçası olan ve geçmişte birçok kez meydana gelen bir olaydır. Arktik bölgeler çarpışma sırasında derin olarak aşınmış ,bu aşınma sonucunda bölgede yoğun deformasyon ve metamorfizma etkisi görülür.Bölgede çarpışma öncesinde farklı jeolojik geçmişleri olan kıta kabuklarının görülmesi bunun bir kanıtıdır.Jeologlar tarafından eski çarpışma bölgelerine ise genellikle "Sütür bölgeleri" denir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tafoni</DOCTITLE>
+<TEXT>
+
+Tafoni,Kaya yüzeyinde oyuk biçimindeki bir aşınma şeklidir. Tafoniye “bal peteği erozyonu” da denilmektedir.
+Etimoloji.
+"Tafoni" kelimesinin kökeni belirsizdir. Tafoni Yunancada mezar anlamına gelen “taphos” kelimesinden gelir. Tafoni ile ilgili bilinen en eski yayın 1882 yılında ortaya çıkmıştır.
+Oluşumu.
+Kıyı bölgelerinde ve kurak alanlarda tuzlu malzemenin ayrışmasına ve ayrıca mikroorganizmaların aşındırmasına veya ufalanmaya yol açan günlük sıcaklık değişmelerine bağlı olarak meydana gelir.
+Tafoni dünyanın her bölgesinde, genellikle gruplar halinde her türlü ortamda bulunabilirler; ancak deniz bölgelerinde, gelgit alanları ile yarı kurak ve kurak çöllerde çok miktarda bulunmaktadır. Ayrıca granitik kayaçlarda da görülür.
+Tafoninin küçük versiyonlarına “Alveol” denir. Alveollerin oluşumlarının tuz ayrışması sonucu olduğu öne sürülmüştür. Bunlar Hindistan'ın Thar Çölü, Jodhpur-Ajmer bölümünde bulunur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerçekirdek</DOCTITLE>
+<TEXT>
+
+Yerçekirdek dünyanın en iç kısmını oluşturur. En kalın geosferdir.
+Mantodan Wiechert - Gutenberg kesintisiyle ayrılır. 2.890 kilometre derinlikten dünyanın merkezine (6.370 km) kadar uzanır; yani 3.480 kilometre kalınlıktadır. Yoğunluğu dış sınırında 10, dünyanın merkezi kısmında ise 13 kadardır. Esas olarak demir ve nikelden oluştuğu sanılmaktadır. Çekirdek, eski literatürde "Nife" terimiyle açıklanan kısma karşılık gelir. Deprem dalgalarının yayılışına bakılarak yapılan araştırmalar, çekirdeğin iki kısımdan meydana geldiğini göstermektedir:
+Çekirdek, dış çekirdek ve iç çekirdek olmak üzere iki kısma ayrılır. Dış çekirdek. 2890-5000 kilometre arasında yer alır (kalınlığı 2110 km). Burada yoğunluk 5.5'den 10'a kadar çıkar ve P dalga hızı ise 13.6 km/sn'den 8.1 km/sn'ye düşer. Enine deprem dalgaları (S dalgaları) bu kısma sokulmadıklarından, dış çekirdeğin sıvı olduğu sonucuna varılmıştır. İç çekirdek ise 5000-6370 kilometreler arasında, yani dünyamızın tam merkezinde yer alır ve katıdır. Kalınlığı 1370 kilometredir. Dış ve iç çekirdek arasındaki yoğunluk 12.3, sıcaklık ise 4300 °C'yi bulur. Dış ve iç çekirdek arasındaki en önemli fark, dış çekirdekte demir/nikel karışımı magma ergimiş hâlde, iç kısımda ise çok yüksek basınç etkisiyle kristal hâlinde olmasıdır, iç çekirdekte yoğunluk 13.6, sıcaklık ise 4500 °C'yi aşar (6300 °C).
+Yukarıda da görüldüğü gibi, yerkürenin yoğunluğu yeryüzünden mantoya doğru artmaktadır. Granitik yerkabuğunda 2.7 - 2.8 g/cm³ civarında olan yoğunluk merkezde 13 g/cm³'ü bulmaktadır.
+Yoğunluk artışı sürekli ve tedrici değildir; belirli derinliklerde ani yoğunluk artışları görülür. Bu derinliklerden biri "Mohorovicic kesintisi" veya kısaca "Moho kesintisi" olarak adlandıran ve yerkabuğu ile manto arasındaki sınıra tekabül eden derinliktir. Mantodan çekirdeğe geçişte de bu şekilde bir ani yoğunluk artışı görülür. Mantonun alt zonunda 6 g/cm³'e yakın olan yoğunluk çekirdeğin üst sınırında birden 10 g/cm³'e çıkar. Ani yoğunluk artışının görüldüğü bu sınıra da "Wiechert-Gutenberg kesintisi" denir.
+Yerkürenin merkezine doğru gidildikçe, yoğunluk değerleri gibi, sıcaklık ve basınç değerleri de artar. Ancak sıcaklığın ve basıncın birim mesafedeki artış değerleri, yani gradyanlan sabit değildir. Yerküreyle ilgili bu kısa bilgiden sonra şimdi yerkabuğu hareketlerine geçebiliriz. Yerkabuğu hareketleri daha önce de belirtildiği gibi iç kuvvetlere bağlı olarak meydana gelirler. Aşağıda bu hareketlerden epirojenik hareketler, orojenik hareketler, faylanmalar ve depremler ayrı ayrı ele alınıp inceleneceklerdir. Levha hareketleri ise, orojenik hareamkketlere veya orojeneze yol açmaları nedeniyle orojenik hareketler içinde gözden geçirileceklerdir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kum</DOCTITLE>
+<TEXT>
+
+Kum; silisli kütlelerin, kayaların, doğal etkenlerle parçalanarak ufalanmasından ya da kayaların parçalanmasıyla oluşan, genellikle kuvars esaslı granüler malzemedir.
+Çapı 0.06 - 2 mm arasındadır. Daha küçük parçacığı olan, mil ise, 0.0625 mm ile 0.004 mm arasındadır.
+Kum, kuru veya doygun halde kohezyonsuzdur, ancak rutubetli halde belirgin bir kohezyonu vardır.
+kum kile göre büyük ebattadır, bu yüzden kile göre daha çok yüzey işgal eder. kum toprak yapısında çatı vazifesi görür. hava ve suyun dolaşımını kolaylaştırır
+Kum ince bölünmüş kayaç ve mineral parçacıklardan oluşmuş doğal bir taneli malzemye denir. Jeologlar tarafından kullanıldığı gibi, kum parçacıkları 0.0625mm (ya da 1 / 16 mm veya 62.5 mikrometre) 2 milimetreye kadar çap aralığında. Bu aralığın büyüklüğü bir birey parçacık bir kum tanesi denir. Amerika Birleşik Devletleri'nde, kum sık büyüklüğüne göre beş alt kategoriye ayrılır: -, ince kum çok ince kum (⅛ mm çapında 1 / 16) (⅛ mm - ¼ mm), orta kum (¼ mm - ½ mm) , kum (½ mm - 1 mm) kaba ve çok kaba kum (1 mm - 2 mm). Bu ölçülerin Krumbein phi ölçekli dayalı olduğu mm büyüklükte Φ =-log tabanı 2 boyutu. Bu ölçekte, kum Φ değeri tam sayı de alt kategoriler arasında bölünmeler ile, 4 -1 arasında değişir.
+Bileşenleri.
+kum kompozisyon yerel kaya kaynakları ve şartlarına bağlı olarak çok değişkendir. tropikal ve subtropikal kıyı ayarlarında bulunan parlak beyaz kum ve kireçtaşı aşınmış vardır.. Arkoz bir kum veya kumtaşı önemli feldispat içeriği, ayrışma ve erozyon (genellikle yakınlardaki) granitik kaya kütlesi ile elde edilir. Bazı kum manyetit, klorit, glokonit veya alçı içerir. Kumları manyetit zengin olarak volkanik bazalt ve obsidiyen elde kumları olan, siyah renkli, koyu vardır. yüksek olivin içeren bazalt (lav) türetilen kumları gibi Klorit-glokonit taşıyan kumları, genellikle yeşil renkli vardır. Birçok kumları, özellikle de derin bir sarı renk veren kum kuvars kristallerinin içinde demir safsızlıkları var, Güney Avrupa'da yaygın olarak bulundu. bazı alanlarda Kum mevduat granatların ve bazı küçük taşlar gibi diğer dirençli mineraller içerir.
+Ortamlar.
+Kum, rüzgar ve su ile taşınır. Nebraska, ABD Platte Nehri gibi Kum yataklı nehir, kumlu yatak var. büyük malzeme genellikle rüzgarda hareketsiz çünkü Dunes, diğer taraftan, kum ve çöl ortamlarında belirgin coğrafi özelliğidir.
+Bireysel tanelerinin çalışma kökeni ve tahıl taşımacılığı tür olarak çok tarihsel bilgileri açığa çıkartabilir. Son zamanlarda granit veya gnays kuvars kristallerinde yıpranmış olan kuvars kumu açısal olacaktır. su veya rüzgar tarafından uzun mesafeler taşınması Kum tahıl yüzeyinde karakteristik aşınma desenleri ile, yuvarlanır. Çöl kumu genellikle yuvarlanır. Bir hobi olarak kum toplamak İnsanlar arenophiles olarak bilinir. kumlu ortamlarda gelişirler
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ortorombik</DOCTITLE>
+<TEXT>
+
+Ortorombik Kristal Sistemi.
+Ortorombik kristal sistemi kristal kafes yapılarından birisidir.
+Bu sistemde a, b ve c eksenleri farklı boylarda, bunlar arasındaki açılar da 90o'e eşittir
+a≠b≠c ve α=β=γ=90° olmalıdır.
+Bravais Motifleri.
+Ortorombik sisteminin Basit, Taban merkezli, İç merkezli ve Yüzey merkezli olmak üzere 4 adet Bravais motifi vardır.
+Kristal Sınıfı.
+Ortorombik Sistemin, 59 adet kristal sınıfı vardır.
+Ortorombik Kristal Yapısına Sahip Bazı Mineraller.
+Krizoberil.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Genellikle levhamsı kristalli
+İkizlenme: {130} yüzeyinde yaygın kontakt ve interpenetrasyon ikizleri
+Sertlik: 8.5 - 9
+Özgül Ağırlık: 3.65 - 3.80
+Dilinim: {110} zayıf
+Renk ve Şeffaflık: Sarımsı yeşilin değişik tonları, sarı, gri, kahverengi, mavi-yeşil, zümrüt yeşili; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı parlaklıkta
+Ayırıcı Özellikleri: Rengi, sertliği ve kristal şekli
+Bulunuşu: Granitik kayalarda, pegmatitlerde ve mikaşistlerde oluşur. Ayrıca, dolomitik mermerlerde ve alüvyonlarda da rastlanılabilir.
+Aragonit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: İkizlenme göstermeyen türleri nadir, iğnemsi, bazen levha şekillidir. Güçlü ikizlenme gösteren türleri iğnemsi, prizmatik, lifsi, pizolitik, sarkıt ve sütun şekillidir.
+İkizlenme: Çok yaygın pseudo-hegzagonal şekilli ikizleri, özellikle {110} yüzeyinde altılı prizmalar halinde gözlenir.
+Sertlik: 3.5-4
+Özgül Ağırlık: 2.947
+Dilinim: {010} belirgin
+Renk ve Şeffaflık: Renksiz, beyaz, sarımsı, gri, yeşil, mavimsi yeşil,mavi, kırmızı, kahverengi; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı, reçine parlaklığı
+Ayırıcı Özellikleri: HCl'de çözünebilirlik, CaCO3'ın polimorfu olan kalsitten kristal formu ve özgül ağırlığının fazla olması nedeniyle ayrılabilir.
+Bulunuşu: Kalsit kadar yaygın değildir. Yüzeye yakın kesimlerde oluşan düşük sıcaklıklı yataklardan itibaren jips bantları ile birlikte oluşur. Maden yataklarının oksidasyon zonlarında malahit ve smitsonit gibi ikincil minerallerle birlikte; değişik metamorfik ve sedimanter kayalarda oluşabilir.
+Markazit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Çoğunlukla levhamsı kristalli, masif, ışınsal lifler şeklinde
+İkizlenme: { 101} yüzeyinde olağan
+Sertlik: 6 - 6.5
+Özgül Ağırlık: 4.87 - 4.92
+Dilinim: { 101} yüzeyinde belirsiz
+Renk ve Şeffaflık: Soluk bronz sarısı, opak
+Çizgi Rengi: Grimsi siyah
+Parlaklık: Metalik
+Ayırıcı Özellikleri Pirite çok benzer ancak, yoğunluğu daha düşük ve rengi daha soluktur.
+Bulunuşu, Markazit: 450 oC'den düşük sıcaklıklarda, çinko-kurşun içeren hidrotermal damarlarda oluşur. Tebeşir ve kireçtaşı gibi sedimanter çökellerde de oluşabilir.
+Talk.
+Kristal Sistemi: Monoklinik
+Kristal Biçimi: Kristalleri çoğunlukla ince levhamsı; masif, ince taneli kompakt
+Sertlik: 1
+Özgül Ağırlık: 2.58 - 2.83
+Dilinim: { 001} mükemmel
+Renk ve Şeffaflık: Beyaz, gri, donuk yeşil, gümüş beyazı; Yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: İnci pırıltılı
+Ayırıcı Özellikleri: Yumuşaklığı, sabunsu olması, rengi
+Bulunuşu: Olivin, piroksen ve amfibol gurubu minerallerin alterasyonu ile ikincil olarak meydana gelir. Magnezyumlu kayaların düşük-orta mertebeli metamorfizmasıyla birincil olarak oluşur ve genellikle tremolitle beraber bulunur.
+Götit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Genellikle masif, böbreğimsi, lifsi, ışınsal dokuda ve nadir bulunan bir mineraldir. 
+Sertlik: 5 - 5.5
+Özgül Ağırlık: 3.3 - 4.3
+Dilinim: {010} mükemmel
+Renk ve Şeffaflık: Kristal olanlar siyahımsı kahverengi, masif olan türleri kırmızımsı-sarımsı kahverengi; opak
+Çizgi Rengi: Turuncu-kahverengimsi sarı
+Bulunuşu: Yaygın olarak bulunan bir mineraldir. Demir içeren pirit, manyetit, kalkopirit ve sideritin alterasyonu ile oluşur.
+Kükürt.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Çubuksu veya bipramidal kristalleri nadir, kristal yüzeyleri düzensiz gelitim gösterir
+İkizlenme: {011}, {101} ve {110} yüzeylerinde nadir.
+Sertlik: 1.5 - 2.5
+Özgül Ağırlık: 2.07 - 2.1
+Renk ve Şeffaflık: Parlak sarı, sarımsı, kahverengimsi sarımsı gri. Kırmızımsı, yeşilimsi; Şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Reçinemsi
+Ayırıcı Özellikleri: Renk, düşük sertlik, düşük erime noktası, suda ve derişik hidroklorik asitte çözünmesi.
+Bulunuşu: Volkanik süreçlerde ve hidrotermal yataklarda, jips içeren sedimentar kayaçlarda, tuz domlarında ve cevher yataklarında ikincil olarak bulunur.
+Sölestin.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Levhamsı veya prizmatik kristalli, bazen lifsi veya tanesel
+Sertlik: 3 - 3.5
+Özgül Ağırlık: 3.97
+Dilinim: {001} mükemmel
+Renk ve Şeffaflık: Renksiz-mavimsi beyaz, beyaz, mavi, bazen kırmızımsı; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı
+Ayırıcı Özellikleri: Yüksek özgül ağırlığı, dilinimi, rengi 
+Bulunuşu: Yaygın olarak sedimanter kayalarda özellikle dolomitlerde boşlukların çeperlerinde, anhidrit ile birlikte evaporit çökellerde, hidrotermal damarlarda, nadiren bazik magmatik kayalarda olusur. Barit, jips, halit, anhidrit, kalsit, dolomit ve fluorit ile birlikte bulunur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çinko</DOCTITLE>
+<TEXT>
+
+Çinko (Lat. "Zinkum", İng. "Zinc", Alm. "Zink"), mavimsi açık gri renkte, kırılgan bir metal. Elementlerin periyodik tablosunda geçiş elementleri grubunda yer alır. Düşük kaynama sıcaklığı dikkat çekicidir. Bu değer özellikle pirometalurjik metal üretiminde çok belirleyici bir etmendir. Dökülmüş halde sert ve kırılgandır. 120 °C'de şekillendirilebilir. Elektrokimyasal potansiyel dizisinde demirden daha negatif değerdedir. Böylece çinko anot olarak katodik korozyon korumada önemli bir kullanım bulur. Galvanizleme bu tür uygulamalardan biridir.
+Bulunuşu.
+Çinko, yerkabuğunda en çok bulunan elementler arasında 23. sıradadır. En çok kullanılan cevheri sfalerit (ZnS) olup %40-50 çinko ve yaklaşık %10 demir içerir. Çinkonun ayrıştırıldığı diğer mineraller smitsonit (çinko karbonat), hemimorfit (çinko silikat) ve franklinit ((Fe,Mn,Zn)(Fe,Mn)2O4) dir.
+Genel.
+Çinko, bileşiklerinde +2 değerlikli olarak bulunur. Oluşturduğu bileşiklerde genelde iyonik bağ yapar. Amonyak, amin, siyanür ve halojen iyonları ile kompleks bileşikler meydana getirir. Mineral asitlerinde H2 çıkışıyla çözünür. Ancak nitrik asitte NOx çıkışı olur. Dolayısıyla çinko, özellikle toz halde çok etkili bir ingirdeyicidir. Normal sıcaklıkta havada bırakılan metalin yüzeyinde koruyucu bir tabaka oluştuğundan bu sıcaklıkta halojenlere bile dayanıklıdır. HCl gazı çinkoyu çok çabuk korozyona uğratır. Toz çinkonun reaksiyona girme kabiliyeti oldukça fazla ise de yanıcı değildir. Yüksek sıcaklıkta oksijen, klor ve kükürt gibi elementlerle şiddetle reaksiyona girer. Civa ile sert bir amalgam meydana getirir. Klorür ve sülfat tuzları suda yüksek miktarda çözünür. Buna karşılık çinko oksit, silikat, fosfat ve organik kompleksleri ya suda hiç çözünmezler ya da çok az çözünürler. Bileşikleri arasında çinko oksitin teknik ve ekonomik değeri vardır. Organik bileşikleri arasında çinko sabunu en önemli kullanıma sahiptir.
+Etimolojisi ve tarihçesi.
+Çinko, antik çağlardan beri bilinen ancak üretimi ve kullanılması tam anlaşılamadığından diğer metallerle karıştırılan bir elementtir. Metalin ilk tarifi, Strabos'un yazdığı Mysia adlı eserin Andriera adlı bölümünde "Sahte gümüş" (False silver, Yunanca: Pseudargyros) olarak yapılmıştır.
+Bilinen en eski çinko parçası Dakya medeniyetine ait Transilvanya'daki Dortaş harabelerinde bulunan ve %87.52 Zn + %11.41 Pb + %1.07 Fe içeren bir idoldür. MÖ 500 yıllarına ait Comeros harabelerinde çinkodan yapılmış iki bileziğe ve 79'da yıkılan Pompei harabelerinde ise çinkoyla kaplanmış bir musluğa rastlanmıştır.
+MÖ 200 yıllarında pirinç, özellikle Roma'lılar tarafından iyi bilinen bir alaşımdı. Yapım tekniği ZnO içerikli hammaddenin redüksiyonu, çinko buharlarının metal bakır üzerinde kondanse edilmesi ve ergitme kademelerinden oluşuyordu. Özellikle simyacılar pirinç yapımını çok iyi biliyorlardı ve amaçları bu alaşımı bakıra, bakırı da altına dönüştürmekti.
+Avrupa'da ilk kez Basilius Valentinius metalik çinkoyu tariflemeden "Zinck" terimini kullandı. "Zinck" isminin bir metal olduğu ve bu metalin fiziksel özellikleri Paracelsus (1490-1541) tarafından yazıldı. "Doğunun Plinius'u" (Romalı tabiatçı ve yazar Goius Plinius Secundus'a (23-79) benzetme) olarak tanınan Kazwiui (ölümü 630) Çinlilerin çinkodan sikke ve aynalar ürettiklerini söyler. Hintliler 1000-1300 yılları arasında çinkoyu ticari boyutta üretmişlerdir. Mewar eyaletinin racalarından olan Ranu Laksh Singh'in Zawar madenlerini işlettiği (1382) bilinmektedir. Ancak bu cevher çıkarma ve izabe işlemleri feodal savaşlar nedeniyle ara sıra durmuş ve en sonunda Moğollarla yapılan Maratha savaşlarından sonra 1830'dan 1940 yılına kadar tamamen kapanmıştır.
+17. ve 18. yüzyılda önemli miktarlarda külçe çinko doğudan Portekiz gemileri ile getiriliyor ve Hollandalılar tarafından dağıtılıyordu. Ürün; "Spelter", "Hint kalayı", "Caloaem" ve "Tutaney" gibi değişik isimler altında pazarlandı. 1745 yılında, doğudan gelen ve İsveç açıklarında batan bir gemiden çıkarılan külçeler %98.99 Zn, %0.765 Fe ve %0.245 Sb içeriyordu.
+Üretim yöntemleri, gelişimi.
+1730 yılında çinko izabe bilgisi Çin'den İngiltere'ye geldi ve 1739'da aşağıya doğru distilasyon tekniği ile ilgili ilk patent alındı. 1740-1743 yıllarında Bristol'de üretime başlandı. Üretim yılda 200 ton civarında idi. Proseste, cevher + odun kömürü karışımı sızdırmaz kil potalarda işleniyordu. Potanın dibi bir boru ile aşağıdaki toplama kabına bağlıydı. Gazdan yoğuşan olan metal bu kaba damlıyordu. 1758'de alınan bir patentten sonra sülfürlü cevherlerden izabik çinko üretimine başlandı.
+1798'de Silezya - Wessola'da demir yüksek fırınında elde edilen çinkolu artıklar (Zincky Crust = Skafold) odun ısıtmalı bir cam fırınında İngiliz yöntemi ile işlendi. Yine 18. yüzyılın sonlarına doğru kurulan Corinthia çinko izabe fırınında ilk dikey retort uygulamasına başlandı. 19. yüzyılın başlarında geliştirilen "Belçika prosesi" reverber fırınında izabe ve potada yoğuşmayı kapsıyordu. 1836'da Stolberg'te Belçika ve Silezya fırınlarının kombinasyonu olan "Renisch" fırını yapıldı. Fırın dikey retortlar, tek kondansatör ve dışarıdan ısıtma ile çalışıyordu.
+Sheffield'da 1805 yılında 100-150 °C'ye tavlanan çinkonun saç haline geleceği keşfedildi. İlk sac haddesi 1812'de Belçika-Liege'de, ilk çinko levha ise 1857'de Philadelphia'da yapıldı. Endüstriyel üretime 1866 yılında La Salle-Illinois'de Matthiessen ve Hegeler tarafından başlandı.
+ABD'de ilk üretim 1835 yılında Arsenal-Washington DC'dedir. Amerikan hükümeti bu tesiste Belçika'lı uzmanlarca eleman yetiştirilmesini ve çinko metal ve alaşımlarının standartlaşmasını sağlamıştır. İlk ticari üretim ise Belçika prosesine göre 1850'de New Jersey'de başlamıştır. Bununla beraber 1856'da Friedensville-Pennsylvania'da Silezya prosesi ve 1860'da La Salle-Illinois'deki Belçika prosesi ile yapılan üretimler de önemli boyutlardaydı. 1850-1860 yıllarında kondensasyonun fırın üstünde pik plakalar üzerinde yapılmasını kapsayan Wetherill-American prosesi geliştirildi. 1860-1880 arasında Avrupa'da sekonder hava ısıtmalı ve gaz yakmalı fırınlar yapıldı ve ilk ısı değiştiriciler kullanıldı. Dikey mufla fırınlarındaki ilk uygulamalar 1878'de Fransa'da ve A.B.D.'de gerçekleştirildi.
+Yatay retort işlemi ise ilk kez 1872'de, ABD'de La Salle-Illinois'de denendi. Gaz ısıtmalı bir tünel fırında toplam 408 retort bulunuyordu. 1880'lerde sülfürlü cevherleri kavurmak ve H2SO4 üretimi için mekanik karıştırmalı muflalı fırın (Hegeler) geliştirildi. 1881'de asidik ZnSO4 çözeltisinden katodik çinko üretimi denendi ve başarısız oldu. Kavurma-Liç-Elektroliz'le çinko üretimini amaçlayan ilk tesis 1914'den sonra gerçekleştirildi. 1895'te çinko izabesinde ilk defa doğal gaz kullanıldı. 20. yüzyılın başlangıcında flotasyon devreye girdi ve 1920'lerde sfalerit'in (ZnS) selektif flotasyonu gerçekleştirildi. I. Dünya Savaşı çok sayıda fabrika kurulmasını teşvik etti. 1917'de sinterleyici kavurma uygulaması çinko üretimini arttırdı. 1920'den itibaren Japonya, İtalya ve Fransa'da küçük; Norveç'te Odda'da, Kanada Manitoba'da (Flin Flon) ve Almanya'da Magdeburg'ta büyük kapasiteli elektrolitik çinko tesisleri kuruldu. Dikey retort + sürekli distilasyon işlemi 1925'den sonra Almanya ve İngiltere'de uygulandı. Ancak en başarılısı A.B.D.'deki New Jersey prosesi idi.
+II. Dünya Savaşı'ndan sonra çinko izabesinde en büyük gelişmeler kavurmada akışkan yatak ve üretimde ISP (Imperial Smelting Process 1950-1960) uygulamalarının başlamasıydı. 1960-1980 yılları arasında ise nötr liç artıklarının değerlendirilmesi konusundaki çalışmalar tamamlandı.
+Günümüzün en büyük çinko cevher üreticileri Avustralya, Kanada, Çin, Peru ve ABD'dir. Avrupalı üreticiler arasında ise; Belçika'da Vieille Montagne, İrlanda'da Tara ve İsveç'te Zinkgruvan sayılabilir. Çinko metali ekstraktif metalurji yöntemleri ile elde edilir. Çinko sülfür minerali, flotasyon tekniği kullanılarak zenginleştirilir ve ardından pirometalurjik yöntemlerle kavurma işlemi uygulanarak çinko sülfürün, çinko okside kavrulması sağlanır. Çinko oksit daha sonra sülfürik asitte liç edilir ve elde edilen çözelti çinko tozu ile arındırılır. Nihayet çinko metali, bu temiz çözeltiden elektroliz yoluyla katot levhalar halinde kazanılır. Çinko katotlar ya doğrudan dökümhaneye gönderilerek ingotlar halinde dökülür ya da alüminyum ile alaşımlandırılır.
+Bir diğer çinko üretim prosesi de pirometalurjik bir proses olan flaş ergitme yöntemidir, ancak bu yöntemle elde edilen çinko oksit, hidrometalurjik alternatifine göre daha düşük safiyette çinko üretimine yol açar.
+Kullanım alanları.
+Çinko, dünyada yıllık kullanım miktarı açısından fe demir, alüminyum, ve bakırdan sonra gelir. Çinko:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Patlamış mısır</DOCTITLE>
+<TEXT>
+
+Patlamış mısır, cin mısır ("Zea mays everta") tanelerinin ısı etkisiyle patlayarak şişmesi sonucu elde edilen ve çerez olarak yenen bir yiyecektir.
+Besin değeri.
+Mısır, buğdaygiller ailesinden gelir. Mısırın vatanının Orta ve Güney Amerika'da olduğu 
+tahmin ediliyor. Meksika'da bir mağarada 5000 yıllık mısır ve mısır koçanları bulunmuştur. Zevkle tükettiğimiz ve birçok alanda kullandığımız mısır bitkisi yağ bakımından zengindir. Ayrıca bileşiminde bol miktarda karbonhidrat bulunmasından dolayı enerji verici bir besindir ve de bileşiminde su, mineral, protein, yağ gibi temel besinleri de bulundurur.
+Hazırlanması.
+Mısır taneleri ısıtıldıklarında bileşiminde bulunan su biraz sonra buharlaşmaya başlar, buharlaşan su genleştikten sonra mısır taneleri birbirine sığmaz olur. Bir süre sonra sıcaklığın artmasıyla ve su buharının zorlamasıylada kabuk yarılır. Su buharı da dışarı çıkmaya başlar ve su buharıyla birlikte mısır tanesinin bileşiminde bulunan nişasta, protein gibi diğer besin maddeleri de dışarıya çıkar. Besin maddelerinin dışarı çıkması ile nişasta ve protein beyazlaşmaya başlar. Beyazlaştığı süreyi tamamlatınca patlamış mısır haline döner.
+Kültürel önemi.
+Mısır evlerde ateş üzerinde ve yağ içinde patlatılır. Ticari amaçla patlamış üretmek için ise özel mısır patlatma cihazları kullanılır. İlk mısır patlatma cihazı ABD'nin Şikago kentinde 1885 yılında Charles Cretors tarafından icat edilmiştir. 1912 yılından beri patlamış mısır ABD'de sinema ve spor salonlarının vazgeçilmez çerezi haline gelmiştir.
+Tarihi.
+Patlamış mısır binlerce yıl önce Amerika'nın yerlileri tarafından bulunmuştur. O zamanda patlamış mısırın patlama sesinin 'kötü tanrının çekirdekten çıkıp kaçması' şeklinde yorumlanmaktaydı.
+Büyük Buhran döneminde (1929'da ABD'de başlayan ve 1930'lar boyunca dünyanın büyük bir bölümünde etkili olan ekonomik kriz.) patlamış mısırın poşeti 5-10 cent arasında satılmaktaydı ve böylelikle de popülerleşmekteydi. Diğer ticaret alanları kötüye giderken patlamış mısır sektörü işleri kötüye giden, kıvranan çifçilerin gelir kaynağı haline geldi.
+II. Dünya Savaşında, şeker bonbon yapımında kullanılan rezerve şekerin azalması patlamış mısırın 3 kat daha fazla tüketilmesine neden oldu. Amerika Birleşik Devletleri'nde en az 6 bölge (hepsi ABD içerisinde) 'Dünya'nın patlamış mısır sermayesi' olarak görülüyor : Valparaiso, Indiana; Van Buren, Indiana; Marion, Ohio; Ridgway, Illinois; Schaller, Iowa; ve Kuzey Loup, Nebraska. Amerika Birleşik Tarım Bakanlığı'na göre (USDA) : Özel, sadece patlamış mısır için darı yani mısır taneciği üretiminin çoğu Nebraska, Indiana ve genişletilen alanda Texas'da yapılıyor .
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Siyenit</DOCTITLE>
+<TEXT>
+
+Siyenit, yeşil ve pembe renklerde renkli iç püskürük bir taştır.
+Adını Mısır'daki Asvan şehrinden almıştır. Siyenit dağılınca kil oluşur. Bileşiminde bol miktarda alkali feldispat bulunan bir granittir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alfa-laktalbumin</DOCTITLE>
+<TEXT>
+
+Alfa-laktalbumin yenidoğan bir bebeğin fizyolojik ve besinsel gereksinimlerine uygun dengeli amino asit dağılımı ile büyüyen bebekler için ideal, bir protein kaynağıdır. Alfa-laktalbumin'in bileşiminde yer alan triptofan, yenidoğanda beyin gelişimi gerekli seratonin ve melatoninin öncüsüdür.
+
+</TEXT>
+</DOC>
+

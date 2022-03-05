@@ -1,0 +1,12 @@
+1	_	fark	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	Farklı	_	Adj	Adj	With	_	_	_	_
+3	türlerin	tür	Noun	Noun	A3pl|Pnon|Gen	_	_	_	_
+4	bireyleri	birey	Noun	Noun	A3pl|P3pl|Nom	_	_	_	_
+5	_	ara	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+6	arasındaki	_	Adj	Adj	Rel	_	_	_	_
+7	rekabete	rekabet	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+8	ne	ne	Adj	Adj	_	_	_	_	_
+9	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+10	_	ver	Verb	Verb	_	_	_	_	_
+11	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+12	.	.	Punc	Punc	_	_	_	_	_

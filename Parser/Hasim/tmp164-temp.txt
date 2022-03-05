@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Artemis Artemis+Noun+Prop+A3sg+Pnon+Nom
+Tapınağı tapınak+Noun+A3sg+Pnon+Acc tapınak+Noun+A3sg+P3sg+Nom
+nerede nere+Pron+Ques+A3sg+Pnon+Loc
+kurulmuştur kur+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop kur+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

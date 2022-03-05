@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çiçeklerde çiçek+Noun+A3pl+Pnon+Loc
+polenlerin polen+Noun+A3pl+Pnon+Gen polen+Noun+A3pl+P2sg+Nom polenle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Nom
+oluştuğu oluş+Verb+Pos^DB+Adj+PastPart+P3sg oluş+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+kısım kısım+Noun+A3sg+Pnon+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

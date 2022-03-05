@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Milet Amfi Tiyatrosu hangi ildedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(8234, {label: "Toprak",nodeclass: "type-TK"});
+ g.addNode(8235, {label: "çeşitlerinden",nodeclass: "type-TK"});
+ g.addNode(8236, {label: "hangisinin",nodeclass: "type-TK"});
+ g.addNode(8237, {label: "tarımsal",nodeclass: "type-TK"});
+ g.addNode(8238, {label: "verim",nodeclass: "type-TK"});
+ g.addNode(8239, {label: "_",nodeclass: "type-TK"});
+ g.addNode(8240, {label: "verimliliği",nodeclass: "type-TK"});
+ g.addNode(8241, {label: "en",nodeclass: "type-TK"});
+ g.addNode(8242, {label: "fazla",nodeclass: "type-TK"});
+ g.addNode(8243, {label: "fazladır",nodeclass: "type-TK"});
+ g.addNode(8244, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,8234,8235,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,8235,8243,{label: "DEN HALİ"});
+ g.addEdge(null,8236,8240,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,8237,8240,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8238,8239,{label: "TÜREME"});
+ g.addEdge(null,8239,8240,{label: "TÜREME"});
+ g.addEdge(null,8240,8243,{label: "ÖZNE"});
+ g.addEdge(null,8241,8242,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8242,8243,{label: "TÜREME"});
+ g.addEdge(null,8243,8244,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

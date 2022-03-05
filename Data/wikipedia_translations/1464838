@@ -1,0 +1,19 @@
+Döviz tarih sözleşmeler
+Döviz tarih kongre bir para opsiyonları döviz piyasasında ticaret ve ne zaman iki parti seçeneği yerleşmek para alışverişinde bulunacaklar arasındaki zaman dilimini göstermektedir. gün sayısı opsiyon sözleşmeleri döviz çifti ve altta yatan para bankacılık saatleri bağlıdır. kongre ödemeleri her ticaret için yapılacaktır zaman karşı tarafın anlamaya yardımcı olur.
+Kongre için belirli bir döviz çifti işlem yaparken dikkate dört temel tarihleri ​​vardır:
+Bu tarihler aşağıdaki zaman çizelgesi üzerinde özetlenebilir:
+Spot tarihleri ​​hesaplanıyor.
+Spot tarih her zaman ufuk tarih (T) hesaplanır. İki olası durum vardır:
+Ayrıca, spot tarihi ancak döviz esnaf bu gün (örneğin GBP / JPY 4 Temmuz tarihinde) yerleşmek, herhangi bir döviz çifti için bir ABD tatile düşemez ama döviz klasmandaki kabul edilir.
+Vade Hesaplama ve dağıtım tarihleri.
+Ermesinden zamanı genellikle ya "gecede" olarak ya da günler, haftalar, aylar ya da yıllar bir dizi bakımından alıntı. Genel olarak, son kullanma tarihi 1 Ocak dışında bir tatil, ya da her iki para, olsa bile, herhangi bir hafta içi olabilir. Ilgili döneme göre farklı gelenekler vardır.
+Gecede.
+Gecede esnaf için, son kullanma tarihi ufuk tarihinden sonra önümüzdeki hafta gün gün ve teslim tarihi nokta ufuk tarihinden itibaren hesaplanır aynı şekilde son kullanma tarihinden itibaren hesaplanır. Bu noktada tarihten önce bir son kullanma tarihi neden olacaktır.
+Gün ve haftalar.
+V gün sona ermeden bir zaman bir ticaret için, son kullanma tarihi, bir gündüz v öncesinde (bu tarih bir hafta içi ileri alınır, bu durumda bir hafta sonu 1 Ocak, olmadığı sürece) ufuk tarihi gün olduğunu zamanla ticaret x hafta sona ermeden, son kullanma tarihi 7x gün kala (aynı koşullarda yukarıdaki gibi) ile ufuk tarih günüdür. Teslim tarihi daha sonra nokta tarihi ufuk tarihinden itibaren hesaplanır aynı şekilde son kullanma tarihinden itibaren hesaplanır.
+Ay.
+Y ay sona ermeden zaman bir ticaret için, son kullanma tarihi, ilk nokta tarihini hesaplamak, daha sonra teslim tarihi spot tarihten itibaren ileriye y ay taşıyarak bulunur. Teslim tarihi olmayan bir iş günü veya bir tatil olan ABD ise kabul edilebilir bir teslim tarihi bulunana kadar, ileriye taşımak. Son olarak, bir "ters nokta" operasyonu ile son kullanma tarihini hesaplamak; Örneğin, teslim tarihi olan nokta olacağını için son kullanma tarihi bulmak. Teslim tarihinden itibaren son kullanma tarihini bulmak zaman açık bir iş günü ve uygulanabilir olmayan USD / non-CAD (1 Ocak dahil değil), bir hafta içi, dışı USD / TRY olmayan, non-USD / non olmalıdır -PHP olmayan USD / non-RUB olmayan USD / olmayan KZT ve non-USD / olmayan PKR para. Döviz çiftinin bir bacak olmayan bir teslim para ise, son kullanma tarihi o para bir iş günü olmalıdır.
+Yıl.
+Z yıllar sona ermeden zaman bir ticaret için, son kullanma tarihi, ilk nokta tarihini hesaplamak, daha sonra teslim tarihi spot tarihten itibaren ileriye doğru z yıllar taşıyarak bulunur. Teslim tarihi olmayan bir iş günü veya bir tatil olan ABD ise kabul edilebilir bir teslim tarihi bulunana kadar, ileriye taşımak. Son olarak, bir "ters nokta" operasyonu ile son kullanma tarihini hesaplamak; Örneğin, teslim tarihi olan nokta olacağını için son kullanma tarihi bulmak. Teslim tarihinden itibaren son kullanma tarihini bulmak zaman açık bir iş günü ve uygulanabilir olmayan USD / non-CAD (1 Ocak dahil değil), bir hafta içi, dışı USD / TRY olmayan, non-USD / non olmalıdır -PHP olmayan USD / non-RUB olmayan USD / olmayan KZT ve non-USD / olmayan PKR para. Döviz çiftinin bir bacak olmayan bir teslim para ise, son kullanma tarihi o para bir iş günü olmalıdır.
+Özel durumlar.
+Orada ayın sonuna etrafında gerçekleşecek esnaf kapsayan iki özel durumlardır ve biz ay katları gelenek vardır. Ermesinden zaman x aydır ise bir noktadan ileriye x ay yalan "hedef ay" tanımlar; Örneğin, Şubat ayında ve sona ermesinden zaman üç ayda ise, hedef ay Mayıs olduğunu.

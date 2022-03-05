@@ -1,0 +1,110 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Türkiye en çok beyin göçü veren ülkeler arasında kaçıcı sıradadır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(6664, {label: "Bir",nodeclass: "type-TK"});
+ g.addNode(6665, {label: "ülke",nodeclass: "type-TK"});
+ g.addNode(6666, {label: "içinde",nodeclass: "type-TK"});
+ g.addNode(6667, {label: "bölge",nodeclass: "type-TK"});
+ g.addNode(6668, {label: "şehir",nodeclass: "type-TK"});
+ g.addNode(6669, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(6670, {label: "köy",nodeclass: "type-TK"});
+ g.addNode(6671, {label: "gibi",nodeclass: "type-TK"});
+ g.addNode(6672, {label: "bir",nodeclass: "type-TK"});
+ g.addNode(6673, {label: "yerden",nodeclass: "type-TK"});
+ g.addNode(6674, {label: "diğer",nodeclass: "type-TK"});
+ g.addNode(6675, {label: "diğerine",nodeclass: "type-TK"});
+ g.addNode(6676, {label: "yönelik",nodeclass: "type-TK"});
+ g.addNode(6677, {label: "nüfus",nodeclass: "type-TK"});
+ g.addNode(6678, {label: "hareketlerine",nodeclass: "type-TK"});
+ g.addNode(6679, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(6680, {label: "de",nodeclass: "type-TK"});
+ g.addNode(6681, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(6682, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,6664,6665,{label: "BELİRTEÇ"});
+ g.addEdge(null,6665,6666,{label: "NESNE"});
+ g.addEdge(null,6666,6681,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6667,6681,{label: "ÖZNE"});
+ g.addEdge(null,6668,6669,{label: "NESNE"});
+ g.addEdge(null,6669,6670,{label: "BAĞLANTI"});
+ g.addEdge(null,6670,6671,{label: "NESNE"});
+ g.addEdge(null,6671,6673,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6672,6673,{label: "BELİRTEÇ"});
+ g.addEdge(null,6673,6676,{label: "DEN HALİ"});
+ g.addEdge(null,6674,6675,{label: "TÜREME"});
+ g.addEdge(null,6675,6676,{label: "NESNE"});
+ g.addEdge(null,6676,6681,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6677,6678,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,6678,6681,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,6679,6681,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6680,6681,{label: "TÜREME"});
+ g.addEdge(null,6681,6682,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

@@ -1,0 +1,23 @@
+1	İnsanlar	insan	Noun	Noun	A3pl|Pnon|Nom	21	SUBJECT	_	_
+2	toprağı	toprak	Noun	Noun	A3sg|Pnon|Acc	3	OBJECT	_	_
+3	_	işle	Verb	Verb	Pos	4	DERIV	_	_
+4	işlemeyi	_	Noun	NInf	A3sg|Pnon|Acc	9	OBJECT	_	_
+5	taşları	taş	Noun	Noun	A3pl|Pnon|Acc	9	OBJECT	_	_
+6	_	çeşit	Noun	Noun	A3sg|Pnon|Nom	7	DERIV	_	_
+7	çeşitli	_	Adj	Adj	With	8	MODIFIER	_	_
+8	amaçlarla	amaç	Noun	Noun	A3pl|Pnon|Ins	9	INSTRUMENTAL.ADJUNCT	_	_
+9	_	kullan	Verb	Verb	Pos	10	DERIV	_	_
+10	kullanmayı	_	Noun	NInf	A3sg|Pnon|Acc	11	OBJECT	_	_
+11	ve	ve	Conj	Conj	_	14	COORDINATION	_	_
+12	yer	yer	Noun	Noun	A3sg|Pnon|Nom	13	CLASSIFIER	_	_
+13	altı	alt	Noun	Noun	A3sg|P3sg|Nom	14	CLASSIFIER	_	_
+14	kaynaklarını	kaynak	Noun	Noun	A3pl|P3sg|Acc	16	OBJECT	_	_
+15	_	işle	Verb	Verb	_	16	DERIV	_	_
+16	_	_	Verb	Verb	Caus|Pos	17	DERIV	_	_
+17	işletmeyi	_	Noun	NInf	A3sg|Pnon|Acc	21	OBJECT	_	_
+18	yeryüzünün	yeryüzü	Noun	Noun	A3sg|Pnon|Gen	20	POSSESSOR	_	_
+19	hangi	hangi	Adj	Adj	_	20	MODIFIER	_	_
+20	katmanında	katman	Noun	Noun	A3sg|P3sg|Loc	21	LOCATIVE.ADJUNCT	_	_
+21	yaparlar	yap	Verb	Verb	Pos|Aor|A3pl	22	SENTENCE	_	_
+22	.	.	Punc	Punc	_	0	ROOT	_	_
+

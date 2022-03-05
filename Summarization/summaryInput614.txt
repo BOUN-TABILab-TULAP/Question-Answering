@@ -1,0 +1,222 @@
+Question: Kavak, ceviz gibi ağaçlarda su ve minerallerin kökten yapraklara kadar taşınması hangi yollarla gerçekleşir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mineral</DOCTITLE>
+<TEXT>
+
+Mineral doğal şekilde oluşan, homojen, belirli kimyasal bileşime sahip inorganik kristalleşmiş katı bir maddedir. Buna göre minerallerin özelliklerini şöyle sıralayabiliriz:
+Mineralojinin konusu doğal şekilde oluşan maddeleri ihtiva ettiği için bu bakımdan sınırlandırılmıştır. Teknolojinin ilerlemesiyle laboratuvarlarda sentetik olarak elde edilen kimyasal bileşikler mineral sayılmazlar. Bu yapay bileşikler halindeki katı maddelere doğada tabii halde rastlanmaz. Dolayısıyla da doğal şartlarda oluşturulamazlar. Bu tür katı maddelere "yapay mineraller" adı verilebilir. Bu tür yapay mineraller de, tabii minerallerde olduğu gibi benzer kristal iç yapılarına sahiptir.
+Minerallerin doğada veya deneysel olarak yapılan incelemelerde de gözlendiği gibi, oluşum şartları bunların belirli fizikokimyasal şartlarda (belirli sıcaklık ve basınç altında ve ortamın kimyasal durumu gibi) oluşurlar. Buradan mineralojinin bir amacının da minerallerin oluşturduğu yerkabuğunun kimyasal ve fiziksel yapısının öğrenilmesi, yerkabuğunun tarihinin bilinmesi ve yeraltı kaynaklarından yararlanılması olduğunu anlıyoruz.
+Mineraller belirli bir kimyasal bileşime sahiptirler. O halde her mineral bir kimyasal formül ile ifade edilir. Minerallerin kimyasal formülleri genellikle sabittir. Ancak belirli sınırlar içinde belirli kaidelerle değişebilir. Çok ender olarak saf elementler (altın, gümüş, bakır vs) şeklinde oluşan mineraller, yerkabuğunda meydana gelen doğal fizikokimyasal olayların ürünleridir.
+Minerallerin bir diğer özelliği de inorganik oluşudur. Yerkabuğunda bulunan petrol, kömür, fosil ve reçine gibi maddeler mineralojinin kapsamına girmez. Ancak nadir de olsa kehribar gibi organik mineraller de vardır.
+Minerallerin katı olmaları düzenli bir atomsal iç yapıya sahip olduklarını gösterir. Mineral kristallerinin dış yapıları incelendiğinde düzgün geometrik dış şekilli oldukları görülür. Yine aynı şekilde iç yapılarının da düzgün olduğu görülür. Minerallerin "cıva" gibi sıvı olan tipleri de vardır.
+Mineraller homojen bir yapıya sahiptirler. Alınan bir mineral örneğinin her tarafı aynı mineralden ibaret olmalıdır. Ancak her mineralde az veya çok yabancı mineral varlığı bulunmaktadır. Yabancı madde oranının çokluğu, mineralin özelliklerini değiştirir. Esasta; gözle görülebilen boyutta homojen olması basit tanımlama için yeterlidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Toprağin Hikâyesi (EBA)</DOCTITLE>
+<TEXT>
+
+Toprak, yer kabuğunu oluşturan kayaçların ufalanması ile oluşmuş içinde çeşitli mineraller, canlı organizmalar, organik maddeler, hava ve su bulunan bir örtüdür. Yer kabuğunu oluşturan kayaçlar, atmosfer ve dış kuvvetlerin etkisiyle zamanla parçalanır, dağılır ve ufalanır.
+Fiziksel (Mekanik) Ayrışma
+Soğuk ve kurak bölgelerde daha etkilidir.
+Kimyasal Çözünme
+Nemli-sıcak bölgelerde daha etkilidir.
+Fiziksel Ayrışma
+Kayaçların çatlaması, parçalanması ve ufalanması şeklinde olan fiziksel ayrışma, soğuk ve kurak iklim bölgelerinde etkilidir. Sıcaklık farklarından dolayı genleşme ve büzülme hareketlerine maruz kalan kayaçlar, bir süre sonra çatlar. Donma olaylarının görüldüğü alanlarda ise kayaçlardaki çatlaklara yerleşip donan suyun hacmi genişler ve çevresine basınç yapar. Bu basınç çatlakların büyümesine ve kayaçların parçalanmasına neden olur. Fiziksel parçalanmada bitkilerin de rolü vardır. Kayaçlardaki çatlaklara yerleşen bitkiler, kökleri vasıtasıyla çatlağın genişlemesine yol açar. Fiziksel parçalanma sonucunda kayacı oluşturan minerallerin kimyasal özelliklerinde önemli bir değişiklik olmaz.
+Kimyasal Çözünme
+Kimyasal çözünme kayaçların bileşimindeki minerallerin çözünme şeklinde olmaktadır. Nemli, sıcak iklim bölgelerinde daha etkili olan kimyasal çözünmede su, en önemli etmendir. Çünkü su, minerallerin kimyasal yapısını değiştirir. Suda çözünmüş karbondioksit, suyun asitlik derecesini artırdığından özellikle kalkerli kayaçların çözünmesine neden olur. Kimyasal çözünme sonucunda kayacı oluşturan minerallerin kimyasal özelliklerinde de değişme meydana gelmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Granit</DOCTITLE>
+<TEXT>
+
+Granit, sert, kristal yapılı minerallerden meydana gelen taneli görünüşlü magmatik derinlik kültesi. Plüton içindeki taneler çoğunlukla gözle görülebilir büyüklüktedir. Esas mineralleri feldspatın ortoklas cinsi ile az miktarda plajioklas ve kuvarstır. Ayrıca mika, hornblend, piroksen ve ikinci gruba giren turmalin, apatit, zirkon, grena, manyetit gibi mineraller de bulunabilir.
+Granitlerin renkleri, genellikle açık olmakla birlikte, içindeki feldspatların ve diğer minerallerin cins ve miktarına göre gri, pembe,turucu olabilir.
+Granitler, yeryüzünde çok yaygın olarak bulunurlar. Çeşitli yer kabuğu modellerinde görünür. Yeryüzünün temelini teşekkül ettirdiği kabul edilmektedir. Doğada dayk, silis ve batolitler halinde bulunabilir.
+Yollarda parke ve bordür taşı, yapılarda yapı taşı olarak çok eskiden beri bol miktarda kullanılmaktadır. Aşınmaya, basınca, darbeye karşı dayanıklı, güzel renkli ve iyi cila kabul eder. Atmosfer tesirlerine ve ayrışmaya karşı direnci yüksektir. Günümüzde daha çok parke ve bordür taşı ve bazı büyük yapılarda kaplama taşı olarak kullanılmaktadır.
+Granit, yeriçinde 400 santigrat derece civarında bir ısıya sahip olup, soğuması birkaç bin yıl gibi çok uzun bir zamanı kapsar. Bu ısı aynı zamanda jeotermal suların da kaynağıdır. Yeriçine süzülen suların, granitlerin çatlakları arasındaki hareketi, hem granitin yüksek ısısı ile su sıcaklığını arttırır hem de çözünebilir haldeki mineraller suyun bünyesine dahil olur. Jeotermal suların oluşumu bu şekilde gerçekleşir. 
+Bileşimi ve bulunuşu.
+Granitlerde kuvars, genellikle hacmen % 20'nin üzerindedir. Derinlik külteleri arasında hacmen % 40'tan fazla kuvars ihtiva eden türe rastlanmaz. Kuvars ve ağır silikatlar bakımından zengin olan kayaçlar gabro sınıfına girer. Esas bileşeni olan feldspat plajioklas ve ortoklas (alkali feldspat) halinde olması mümkündür. Birinin diğerine oranı genellikle ikiden azdır. Granitlerde bulunan ikinci ana mineraller muskovit, biyotit, amfibol, piroksen veya nadiren fayalit (demirli olivin) olarak sıralanabilir. Genellikle bunlardan iki veya üçü bir arada bulunur.Çeşitli sınıflamalarda koyu renkli minerallerin oranı farklı olmakla birlikte hacmen % 20'den fazla koyu renkli mineral ihtiva eden taşlara genellikle granit adı verilmemektedir.
+Oluşum teorileri.
+Başlıca iki zıt görüş vardır; 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Magma</DOCTITLE>
+<TEXT>
+
+Magma, herhangi bir köken bölgedeki kayaçların basınç düşmesi, sıcaklık yükselmesi, H2O ilavesi gibi etkenler altında bir kısmının ergimesi sonucu oluşan silikat hamuru durumundaki eriyiklerdir.
+Magma, içeriğindeki SiO2 oranına göre 4 gruba ayrılabilir.
+SiO2 oranı 
+Magmanın katılaşmasıyla magmatik kayaçlar oluşur. Üç tür magmatik kayaç vardır. Bunlar derinlik, yarı derinlik ve yüzey kayaçlarıdır. Magmanın sıcaklığı yaklaşık 2000 derecedir.
+Eğer magma derinlerde soğursa iri kristaller oluşur. Derinlerde magma ile ortam arasındaki ısı farkı azdır. Çünkü derinlere inildikçe yerin ısısı artar. (jeotermal gradyan -1km'de 33 °C) Magma ile ortam arasında ısı farkı az olduğu için iri kristaller oluşur. Derinlik kayaçları tamamen iri kristallerden oluşur. Ve kristaller yaklaşık eş boyutludur.
+Magma yarı derinlikte soğursa hem iri hem de küçük kristaller oluşur. Yarı derinlik kayaçları,başka bir deyişle damar kayaçları tamamen kristalli ve kristaller iki farklı tane boyutundadır.
+Magma yüzeyde soğursa tamamen kristalli bir kayaç oluşmaz. Bunun nedeni yüzeyde magma ile ortam arasındaki ısı farkı fazla olması ve buna bağlı olarak magmanın hızlı soğumasıdır.
+Magmanın katılaşması.
+Kristalleşen mineraller yüksek sıcaklıkta ve uçucu bileşen bakımından fakir bir magmadan itibaren oluşurlar. Bu minerallere pirojenetik mineraller denir.
+Pirojenetik minerallerin kristalleşip ayrılmasıyla magma uçucu bileşenler bakımından oldukça zenginleşir ve böylece bünyesinde hidroksil bulunan hidrojenetik mineraller ayrılır. Magmanın katılaşması sıcaklık ve uçucu bileşen miktarına bağlı olarak 4 evreye ayrılır.
+Ortomagmatik Evre.
+Bu evrede ilk kristalleşmelerle pirojenetik mineraller ayrılır. (1200 - 900 °C) Daha sonra hidrojenetik mineraller ayrılır. (900 - 700 °C) 
+Pegmatitik Evre.
+Sıcaklık 800-600 °C arasındadır. Buhar basıncı cok yüksek. Esas kristllenmeden sonra mağmanın büyük bir kısmı kristllenmiş ve geriye uçucu birleşen bakımından zengin bir artık çözelti kalmıstır. Bu artık çözeltiler son derce akıcı ve hareketlidir. bunlar yan kayaç ve boşluklarına girerek pegmatitleri oluşturur. Çok büyük ekonomik değere sahip Turmalin, topaz, beril,gibi kristallerle Sn,U,Th gibi elementler içeren maden yataklarını oluşturlar.
+Pnömatolitik Evre.
+Magmanın katılaşması süreçlerinde gaz basıncının en yüksek olduğu ve sıcaklığın 500 - 400 °C arasında olduğu evredir.
+Hidrotermal Evre.
+Magmanın katılaşmasında son evredir. Sıcaklık 400 °C den düşüktür. Gaz basıncı ise oldukça azalır. Bu evrede çözeltiler çevre kayaçlardaki çatlak ve boşluklara girer, buralarda yeni mineraller oluşturur veya kayaçtaki bazı minerallerin mineralojik bileşimlerini değiştirir. Altın, Gümüş, Bakır gibi ekonomik değere sahip maden yatakları bu evrede oluşur. Hidrotermal evreden sonra sadece sadece su kalır. Magmanın katılaşması sona ermiştir.
+Magmatik farklılaşma.
+Magma oluştuğu andan itibaren tamamen katılaşana kadar birtakım aşamalardan geçer. Her aşamada ilk oluştuğu durumdan farklılaşır. Buna magmatik farklılaşma denir. Magmatik farklılaşma dört alt süreci kapsar.
+Likuasyon.
+Magmanın farklı özellik gösteren kısmi sıvılara ayrılma sürecidir. (Sıvı halde karışmazlık)
+Fraksiyonel Kristalleşme.
+Kristalleşen minerallerin eriyiği terk etmesi. Bu nedenle eriyiğin kimyasal bileşimi devamlı olarak değişir. Magmatik farklılaşma süreçleri içersinde en önemlisidir.
+Kristalleşen minerallerin eriyik ile temasının kesilmesi halinde fraksiyonel kristalleşmeden söz edilebilir. Minerallerin magma ile temasının kesilmemesi halinde minerallerin bileşimi eriyik ile reaksiyona girmeleri halinde devamlı olarak değişecektir.
+Mineral ile eriyik arasında iki reaksiyon şekli gelişir. Bunlar kesikli ve kesiksiz reaksiyon serileridir.
+İlk kristalleşen mineral olivin olacaktır. Ve belli bir sıcaklık derecesine kadar oluşmaya devam edecektir. Ve eriyik SiO2 bakımından oldukça zenginleşecektir. Daha sonra olivin eriyik ile reaksiyona girerek piroksen mineraline dönüşecektir.
+Mg2SiO4 + SiO2 → 2MgSiO3
+Bir mineralin eriyik ile reaksiyona girerek başka bir minerale dönüştüğü bu reaksiyon serisine kesikli reaksiyon serisi adı verilir.
+Kesiksiz reaksiyon serisinde ise katı çözelti serisi teşkil eden bir mineralin kimyasal bileşimi devamlı olarak değişir.
+Burada ortoklaz, biyotit ile plajiyoklas'ın reaksiyonu sonucu oluşmamaktadır.
+Gazlarla Taşınma.
+Uçucu bileşenlerin magma odasının bir kısmından kaçarak başka bir kısmında birikmesi, bu esnada bazı elementleri beraberinde taşıması ve böylece magma odasında farklı bileşime sahip kısımların ortaya çıkmasıdır.
+Termogravitasyonel Difüzyon.
+Magma odasındaki magma uzun süre beklerse ve katılaşmazsa eriyiğin her tarafında bileşim aynı olmaz. Ağır olan elementler aşağı çöker, hafif olanlar ise yukarı çıkar. Ve böylece magma odasında farklı bileşime sahip kısımlar ortaya çıkar.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mohs sertlik skalası</DOCTITLE>
+<TEXT>
+
+Mohs sertlik skalası (Mohs sertlik cetveli), Minerallerin sertliği Avusturyalı mineralog Friedrich Mohs tarafından 1812 de ortaya konulan ve Mohs sertlik dizisi adı verilen bir ölçek yardımıyla nisbi olarak ölçülür. Mohs sertlik skalasına göre bir mineralin sertliğini bulmak için, sertliği bilinen mineral veya minerallerle, sertliği saptanacak olan mineral birbirine sürtülür ve sertliği bilinmeyen mineralin hangi minerali çizdiği ve hangisiyle çizildiği belirlenir. Sonuçta bu işleme göre mineralin sertliği bulunmuş olur. Örneğin, Apatit'i çizip kuvars ile çizilen bir mineralin Mohs skalasına göre sertliği 6 dır. Diğer bir yöntem Mohs skalasında bilinen değerleri olan bir seri madde ile çizme deneyi şekilindedir. Örneğin bir madde flüoriti ile çizilmez apatit'le çizilirse ama , Mohs sertlik derecesi 4 ile 5 arasındadır.
+Kırılgan olan mineraller diğer minerallere sürtülünce kırılıp, ufalandıkları için oldukları sertlik derecesinden daha düşük değerlerde gibi görünebilirler.
+Çok yumuşak (sertliği az olan) mineraller sürtülme esnasında tozlarını sert mineral üzerinde bırakabileceğinden, sanki sert minerali çizmiş gibi bir görüntü verebilmektedir.
+Sertliğe ilk kez bilimsel yaklaşımda bulunan Mohs'un ardından 19. yüzyılın sonlarına doğru Rockwell kullanımı çok daha kolay ve ucuz bir sistem geliştirmiştir. Günümüzde halen daha geniş alanlarda kullanılan bu sisteme ek olarak Brinell ve Vickers sertlik ölçme testleri de vardır.
+Sertlik.
+Minerallerin çizilmeye karşı gösterdikleri direnç "sertlik" olarak bilinmektedir. Dolayısıyla sertlik mineralin "çizilebilirlik özelliği" olarak da adlandırılabilir. Minerallerin sertliği doğrudan kristal yapıları ve atomlar arasındaki bağ kuvvetleri ile ilintilidir. Bağ kuvvetleri arttıkça minerallerin sertliği de artmaktadır. Sertlik bağıl bir kavram olup, sertlik derecesinin saptanması sertliği bilinen bir mineral veya çakı, iğne vb malzemelerle deneme yoluyla yapılır. Bunun için en yaygın olarak kullanılan skala (çizelge) Mohs'un geliştirdiği çizelgedir. Mohs sertlik dizisinde 10 mineralin sertliği en yumuşak olandan en sert olana doğru sıralanmıştır. Bu çizelgeye göre en yumuşak olandan sert olana doğru yapılan sıralama şöyledir; 
+Mohs Skalası.
+Mineralin sertliği diğer bir mineralin çizmesi ile tanınır.
+Mohs sertlik skalası saf bir sırasal bir ölçek örneğidir; yani Mohs sertlik numarası sadece bir sıralama sayısı olup her bir sertlik derecesi arasındaki oranlar eşit değildir. Örneğin Mohs sertlik derecesi (9) olan korendon, Mohs sertlik derecesi (8) olan topaz'dan mutlak olarak 32 defa daha serttir; diğer taraftan Mohs sertlik derecesi (10) olan elmas, (9) Mohs dereceli korendon'dan mutlak olarak 4 misli serttir. Yukaridaki tablo sklerometre ile ölçülen mutlak sertlik değerlerini de vermektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mineraller  (EBA)</DOCTITLE>
+<TEXT>
+
+Hastaneye gidip kan tahlili yaptırmışsınızdır. Bu tetkiklerde sodyum, potasyum, kalsiyum, demir vb. elementlerin vücuttaki değerlerinin kontrol edildiğine dikkat etmişsinizdir. Bu maddeler minerallerdir. Mineraller, vücudun sağlıklı yapısının korunması için gerekli olan, canlıların yapılarında sentezleyemediği ve dışarıdan almak zorunda olduğu inorganik maddelerdir. 
+Mineraller organizmanın yapısında az miktarda bulunur ve canlılık için gereklidir. Kalsiyum, fosfor, iyot, demir, sodyum, klor, potasyum, magnezyum ve flor gibi mineraller hücre ve hücreler arasında bulunmaktadır. Mineraller organizmada, organik bileşiklerin yapısında ya da mineral tuzları şeklinde bulunabilir. Canlıların doku ve organlarında gerçekleştirilen birçok metabolik faaliyette görev alırlar. Mineraller özellikle kemiklerin ve dişlerin yapısında, metabolik reaksiyonların gerçekleştirilmesi ve devam ettirilmesinde hayati önem taşır. 
+Dişinizde veya ağzınızda meydana gelen kanama ile kanın tadını algıladığınız oldu mu? Dilinizde hissettiğiniz hafif metalik bir tat hayati sıvımızda bulunan demir elementinden ileri gelmektedir. Aynı şekilde kokusu da metalik bir kokuya sahiptir. Kanda, hemoglobinin yapısında bulunan demir mineralinin eksikliğinde kansızlık yani anemi görülür. Yine tırnaklarda çökme ve bitkilerin yapraklarında sararmalar görülür (Resim 37). Minerallerle ilgili bu örnekleri artırmak mümkündür. Çinko, bakır, selenyum ve kükürt gibi minerallerin insan vücudu için önemini de siz araştırabilirsiniz. 
+Çok eskiden insanlar odun ve diğer bitki atıklarını önce yakarlar sonrasında kül hâline gelen atıkları, yıkama ve kurutma işleminden sonra bahçelerindeki sebze ve meyve ağaçlarının diplerine dökerlerdi (Resim 38). Çünkü yanma sonrasında kalan kül içerisinde potasyum karbonat bol miktarda bulunur. İnsanlar, o yıllarda kimyasal gübreler olmadığından sebze ve meyvelerin daha iyi yetişmesi için geride kalan külü bahçelerinde kullanırlardı. Potasyum bitkiler için önemli olduğu gibi aynı zamanda insanların sinir ve kaslarının çalışmasında da oldukça önemlidir. 
+İnsanların mineralleri düzenli alması gereklidir. Minerallerin vücudun ihtiyacı oranında alınmaması durumunda mineral eksikliği ortaya çıkar. Farklı nedenlerden dolayı vücuttan fazla miktarda dışarı atılması durumunda ise mineral kaybı görülür. O hâlde minerallerin beslenmeyle yeterli ölçüde alınması önemli olduğu gibi vücutta belli değerlerde tutulması da önemlidir. İshal, terleme, bazı ilaçlar, alkol ve sigara kullanımı gibi olaylar mineral kayıplarına neden olabilir. Gebelik dönemindeki bir kadının mineral ihtiyacı yüksektir. Ayrıca sizin gibi büyüme döneminde olan bireylerin mineral ihtiyacı, yetişkin bireylere göre daha fazladır. O hâlde hem büyüme ve gelişmenizin daha iyi olabilmesi için hem de vücudunuzun sağlıklı yapısının devamlılığı için mineralleri yeterli ölçülerde almanız önemlidir (Etkinlik -11). 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Flotasyon</DOCTITLE>
+<TEXT>
+
+Flotasyon veya yüzdürme yöntemi, üretilecek cevherin su sevme (hidrofilik) ve su sevmeme (hidrofobik) özelliklerini kullanarak sıvı içerisinde kabarcık oluşturarak suda yüzmesi veya batması ile diğer malzemelerden ayrılmasını sağlayan bir zenginleştirme yöntemidir. 
+Genelde sülfürlü cevherlerin ayrıştırılmasında kullanılır. Dünyada flotasyon özellikle bakır, kurşun ve çinko cevherlerinin zenginleştirme yöntemlerinden biridir. Örnek: porfirik bakır cevherlerinde (hem oksitli hem sülfürlü) flotasyon ile sülfürlü ve oksitli olarak ayırmak mümkündür.
+Yüzdürme işlemi sadece suyla yapılamadığından flotasyon için malzeme içine reaktifler eklenir. Bunlar sırası ile pH ayarlayıcı, bastırıcı, canlandırıcı, toplayıcı (kollektör), köpürtücüdür. Bu zenginleştirme yöntemi gravite ile yapılamayan zenginleştirme için uygulanır. Madencilik sektöründe önemli bir zenginleştirme yöntemidir.
+Flotasyon ile zenginleştirmede verimli bir proses için, tane iriliğinin en fazla 45 mesh olması gerekmektedir. Flotasyonun uygulanabilmesi için aşağıdaki şartların aynı anda oluşması gerekmektedir:
+Hidrofob ve Hidrofil.
+Hidrofob ve hidrofil tanımları, flotasyon için en önemli özelliklerdir. Flotasyonda kolay yüzen taneciklere "hidrofob" (su sevmeyen) denir. Eğer mineral taneciği hidrofob değilse ve yine de yüzdürülmek isteniyorsa, yüzey kimyasının reaktiflerle değiştirilmesi gerekir. Bu taneciklerinin yüzmesinin sebebi; yüzey kimyasının doğal özelliği sayesinde, hava kabarcıklarına kolayca tutunması ve yüzeye çıkmasıdır. Bu da, tanecik ile kabarcık arasındaki adhezyon kuvvetinden kaynaklanır. "Hidrofil" özellikteki minerallerde ise, hava ile tanecik arasında adhezyon kuvveti çok düşük olduğundan veya hiç olmadığından, tanecik kabarcığa tutunamamakta ve sonuç olarak batmaktadır.
+Flotasyon Reaktifleri.
+Toplayıcılar (Kollektörler).
+Kollektörlerin esas görevi, minerali hidrofob yapmaktır. İki grupta toplanabilirler:
+Temel olarak; anyon aktif grubu sülfür flotasyonunda, katyon aktif grubu ise oksit flotasyonunda kullanılır.
+Ksantat (Xanthates).
+Ksantatlar genelde sülfürlü minerallerin flotasyonunda kullanılır. Ksantatlar asidik ortamda hidrolize olurlar ve bu nedenle alkali ortamda etkili olurlar. Ticari isimlerinden bazıları: KEX, NaEX, NaIPX, KAX.
+Ditiofosfatlar (Dithiophosphates).
+Ksantatların kullanıldığı cevher tiplerinde tercih edilir. Bu toplayıcı ksantatlarla beraber kullanılırsa, flotasyon veriminde artış sağlanabilir. Ksantatların aksine, asidik ortamda kullanılabilirler. Sıvı halde satılırlar.
+Yağ Asitleri.
+Endüstriyel hammaddelerin (metalik olmayan) flotasyonunda tercih edilir.
+Düzenleyiciler.
+pH Düzenleyiciler.
+Flotasyonun ortamının pH'ını değiştirmek amacıyla kullanılırlar. Minerallerin yüzdürülüp batırılmasında pH önemli bir değişken olduğundan, flotasyon işlemi boyunca kontrol edilmeli ve düzenlenmelidir. pH'ı düşürmek için genelde sülfürik asit, yükseltmede ise sodyum hidroksit tercih edilir.
+Aktifleştiriciler.
+Bazı durumlarda, kollektörler mineral taneciklerinin yüzeyini değiştirmek için yeterli olmaz. Bu gibi durumlarda, mineral kazanım verimini arttırmak için aktifleştiriciler kullanılır.
+Bastırıcılar (Pasifleştiricler).
+Bu tür reaktifler, belli minerallerin yüzey kimyasını değiştirmek için kullanılır. En önemli pasifleştiricilerden biri siyanürdür.
+Canlandırıcılar.
+Belirli bir süre için pasifleştirilmiş mineralleri yeniden kazanmada kullanılır. Aktifleştiricilere göre daha zayıftır.
+Köpürtücüler.
+Flotasyonda temel olan köpük, sadece su ile elde edilememektedir. Köpük için köpürtücülerin kullanılması şarttır. Esas görevleri yüzey gerilimini azaltmaktır. Bu şekilde, oluşan kabarcıklar bozulmadan, istenilen tanecikleri yukarı taşıyacak ve birikecektir. En önemli köpürtücülerden birisi çam yağıdır.
+Kolon Flotasyonu.
+Flotasyon teknolojisindeki en önemli gelişme, şüphesiz ki kolon flotasyonudur. Bu kolonların verimliliği, klasik flotasyondan hücresine göre çok daha yüksektir ve bu sebeple, endüstride kullanım alanı bulmuştur. Kolonlar temel olarak iki bölümden oluşmaktadırlar. Kabarcıklar üretilip kolonun altından beslenir. Malzeme ise, genelde kolonun yüksekliğinin 2/3'nden kolona beslenir. Malzeme ile taneciklerin karşılaştığı bölge, toplama bölgesidir. Kolonun altından gelen kabarcıklar orta bir bölgede bu taneciklerle buluşurlar. Bu noktada yüzey kimyası uygun olan tanecikler, kabarcıklarla yüzeye taşınırken, kabarcıklara tutunamayan tanecikler, kolonun altına çöker. İkinci bölge ise; kolonun üstünde, köpüğün biriktiği köpük bölgesidir. Köpük bölgesi sürekli olarak, ters akımlı olarak yıkanır. Bu şekilde, köpüklerle ile beraber yükselmiş gang mineralleri yıkanarak uzaklaştırılır.
+Flotasyon kolonlarını, klasik flotasyon hücrelerinden ayıran en önemli özellikler: 
+Avantajları ise şu şekildedir:
+Dezavantajları:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Boksit</DOCTITLE>
+<TEXT>
+
+Yapısı.
+Genellikle oolitik, masif, toprağımsı ve kil gibi bulunur. Diyasporit, alümin, demir ve manganez hidroksitleri ve hidrarjirit gibi minerallerin karışımından oluşmuştur.
+Kristal sistemi.
+Bir karışım minerali olup amorf yapıdadır.
+Bulunuş şekli.
+Genellikle oolitik, masif, toprağımsı ve kil gibi bulunur. Diyasporit, alümin, demir ve manganez hidroksitleri ve hidrarjirit gibi minerallerin karışımından oluşmuştur.
+Rengi ve çizgi rengi.
+Beyaz, gri ve muhtelif sarı renklerde olabilir. Çizgi rengi de muhtelif renklerdedir.
+Bulunduğu yer.
+Tropikal iklimlerde lateritleşme sonucu oluşur.
+"Laterit"leşme: İçinde Demir (Fe) ve Alüminyum (Al) silikat minerallerinin bulunduğu yerlerde bol yağış ve ısı altında silisin eriyip uzaklaşması sonucunda demir ve alüminyum`un hidroksit halinde kalması).
+Kullanım yeri.
+Alüminyum elde edilmesinde kullanılır.
+Özellikle Gine Kamsar'da büyük miktarda rezerv bulunmaktadır. Bu parselde yük taşıyan gemilere de bu sebeple Kamsarmax denmektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Silikat</DOCTITLE>
+<TEXT>
+
+Silikat, mineral grupları arasında en geniş gruptur. 
+Tüm minerallerin %30'unu, yerkabuğunda var olan minerallerin %90'ını meydana getirmektedirler. Dolayısıyla, yerkabuğunda en bol bulunan 2 element silisyum ve Oksijendir. Bunların birleşmesiyle SiO2 oluşur. SiO4 tetrahedron yapıdadır ve kovalent bağlıdır.
+Magnezyum iyonundan 4 elektron alarak fosferiti (Mg2SiO4) oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Işıldama</DOCTITLE>
+<TEXT>
+
+Işıldama veya Lüminesans, bazı maddelerin, ısısı değişmeksizin elektromanyetik ışınım yaymasıdır Işıldama olarak da bilinir.
+Başka elektromanyetik ışınım kaynaklarından temel farkı, kaynağın ısısında bir değişme olmamasıdır. Bu yönüyle ışıldama, Kara cisim ışımasından farklıdır, "soğuk ışık" olarak da adlandırılır. Işıldama, herhangi bir cismin dış bir kaynaktan herhangi bir şekilde aldığı enerjinin bir kısmını elektromanyetik ışınım olarak salmasıdır.
+Işıldama, neon ve fluoresans lambaları, televizyon, yıldırım, kutup ışıması, ateşböcekleri gibi bazı canlılardaki organik bileşikler, bazı sentetik boyalarda görülür.
+Işıldamaya yol açan enerji kaynakları, elektron akışı, elektrik ya da manyetik alan, morötesi ışınım, alfa parçacıkları salınımı şeklindedir. Bu yolla uyarılmış atomlar, kararlı hallerine dönerken dışarıya ısı ya da elektromanyetik ışınım -ya da her ikisi birden- yoluyla enerji verirler. Atomdaki bu uyarılma en dıştaki elektron kabuğunda oluşur. Belirtilen şekilde uyarılan atomun en dış elektron kabuğundaki elektron valans ya da değerlilik elektronu, bir üst enerji düzeyine yükselir. Ancak bu enerji düzeyi kararsız olduğundan tekrar eski enerji düzeyine düşecektir. Bu, elektronun aldığı enerjiyi geri vermesidir ve bir foton salınımı olarak gerçekleşir.
+Herhangi bir atom tarafından yayınlanan ışımanın frekansı, elektronun çekirdek çevresindeki dönüş frekansına bağlıdır. Farklı atomların dış elektron kabuğu farklı olduğu için salınan ışınımın frekansı da değişik olacaktır. Elektron çekirdeğe yakınsa dönüş frekansı artacaktır. Bunun sonucunda da yayınlanan ışımanın frekansı yüksek olacaktır.
+Işıldama özelliği minerallerin değişik koşulları altında aktivatör denilen yabancı maddelerin etkileri sonucunda gelişmektedir. Işıldamanın tetikleyici enerji kaynağına göre sınıflandırılması aşağıdaki gibidir: 
+Işıldama ile görünür ışık yayılması (fotolüminesans) olayının gerçekleşme süresine (elektronun temel enerji düzeyine geri dönmesi için geçen süre) sınıflandırılması ise aşağıdaki gibidir :
+
+</TEXT>
+</DOC>
+

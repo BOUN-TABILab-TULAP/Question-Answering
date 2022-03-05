@@ -1,0 +1,181 @@
+Question: Bir kültürün doğduğu yere ne denir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya Kültüründe Türk İzleri (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya kültürlerinin coğrafi yaklaşımlarla incelenmesini kültürel coğrafya gerçekleştirir. Yanda da görüldüğü gibi kültürel coğrafya ülkelerin ve bölgelerin alışkanlık ve geleneklerinin, yeme içme, giyim kuşam, müzik, mimari, din ve dil gibi özelliklerinin incelenmesini içine alır. Yeryüzüyle ilişkisi bağlamında toplumsal yaşamın her yönü hatta insanla ilgili olarak beşerî coğrafyanın tüm konuları, bir bakıma kültürel coğrafya konusu olarak da kabul edilebilir.
+İnsanların ortak yaşam tarzı diye kısaca tanımlayabileceğimiz kültür; söz konusu grup ya da topluma has, onların yaşam tarzı hâline gelen değerler bütünüdür. İnsanların hepsi bir kültürün içinde doğmuşlar ve büyüyüp olgunlaştıkça bu kültürü öğrenmişlerdir.
+Kültür dinamiktir. Her nesil miras olarak devraldığı kültürü değiştirir ve geliştirir. Bir kültürün doğduğu yere o kültürün “kaynak alanı” yani “kültür ocağı” denir. Bir kültürü oluşturan unsurlar bu ocaktan çıkıp yayılmış ve başkaları tarafından da benimsenmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kültür</DOCTITLE>
+<TEXT>
+
+Kültür farklı anlamları olan bir terimdir.
+İnsana ilişkin bir kavram olarak kültür, tarih içerisinde yaratılan bir anlam ve önem sistemidir. Bir grup insanın bireysel ve toplu yaşamlarını anlamada, düzenlemede ve yapılandırmada kullandıkları inançlar ve adetler sistemidir.
+Türk Dil Kurumu sözlüğüne göre ise, kültür (ekin, eski dilde hars) kavramının tanımı şu şekildedir: 
+Sosyolojik olarak, kültür bizi saran, insanlardan öğrendiğimiz toplumsal mirastır. Kültürün oluşmasında ikili bir süreç vardır; birinci süreçte insan pasif ve alıcı konumdadır. Belli bir coğrafi çevrede yaşıyor, beslenme ve barınma ihtiyaçlarını orada gideriyordur. Doğayla kurulan bu öncül ilişki, yani ihtiyaçları doğrultusunda edindiği bilgi, dili, davranışları ve maddi üretim ve tüketim aletleri kültürün yaratılmasında birinci aşama olarak karşımıza çıkar. İkinci aşamada ise insan alıcı konumdan çıkar ve üretmeye başlar; yani yaşadığı çevreye etkin ve aktif bir güç olarak katılır. Bu süreç ilk aletlerin yaratılmasıyla sınırlı olarak başlayıp Neolitik Çağ’la birlikte hız kazanmıştır. Kültür birikimle birlikte ivmesi artan bir toplumsal yapı bileşenidir. Giderek her nesil miras aldığı kültüre maddi ve manevi bir katkı yapar ve onu kendinden sonrakilere miras bırakır. 
+Bireyler için ise yargılama, zevk ve eleştirme yeteneklerinin öğrenme ve tecrübeler yoluyla geliştirilmiş olan biçimine o kişinin kültürü denir. Bireyin edindiği bilgileri anlatmak için de kültür sözcüğü kullanılır.
+Etimolojisi.
+Kültür sözcüğü Latince "cultura"dan gelir. "Cultura", inşa etmek, işlemek, süslemek, bakmak anlamlarına gelen Colere'den türetilmiştir. Örneğin Romalılar 'mera işlenmesine' agri cultura demişlerdir.
+Türkçe'nin batı dilleri etkisine girmesinden önce (Cumhuriyet döneminde de) kullanılan "hars" sözcüğü ise Arapçadır ve "tarla sürmek" anlamına gelir.
+Her iki kelimenin de tarımla ilgili olmasından kaynaklanıyor olsa gerek, 20. yüzyıl'da Türk Dil Kurumu tarafından uygun görülen "ekin" sözcüğü, bu yabancı kökenli kelimelere alternatif olarak önerilmiştir.
+Kültürler kavramı.
+Kültürler, kültür kavramına ilişkin olarak bir sıfat halini ifade etmektedir. Tek başına kullanıldığında kültür, aşağı yukarı insan yaşamının tümünü ifade eder. Kültürler kavramı ise, kültürün oluşum yönüne atıfta bulunmaktadır. İş kültürü, uyuşturucu kültürü, siyasi, ve kültür terimleri yaşamın ilgi alanlarını, kavramlaştırma, sınırlama, yapılanma ve düzenlenme biçimleri de dahil denetleyen inanç ve adetler için kullanılır. Eşcinsel, gençlik, kitle ve çalışan sınıf kültürü gibi terimler bu grupların toplum içindeki yerlerini ve iç ve dış ilişkilerini yürütme biçimlerini ifade eder. Mesleki branşlaşma ve uzmanlık alanlarına, herhangi bir sektöre yönelik bir atıfla kültür kavramı da yerleşik kullanım halindedir.
+Kültürel süreçler.
+Kültürel süreçler, kültür gibi sosyal antropolojinin kavramsal araç ve gereçleridir. Kültürel süreçler oluşum biçimine göre beş tanedir.
+Kültürleme.
+Kültürleme "(enculturation)", ya da edilgen biçimiyle "kültürlenme", bireylerin içinde yaşadıkları kültürün gerekliliklerini öğrendikleri, davranış normları ve değer yargılarını edindikleri süreçtir. Bu süreçte bireyi biçimlendiren, sınırlandıran ya da yönlendiren etkiler ebeveynler, diğer yetişkinler ve yaşıtlardan oluşur. Kültürleme başarılı olursa dilde, değer yargılarında ve kültür ritüellerinde yeterlikle sonuçlanır.
+Kültürleşmenin toplumsallaşma ile ilişkisi vardır. Kimi akademik alanlarda toplumsallaşma, bireyin kasıtlı biçimlendirilmesi anlamına gelir. Kimi alanlardaysa toplumsallaşma sözcüğü hem kasıtlı hem resmi olmayan kültürlenmeyi kapsar.
+Kültürleşme.
+İki ya da daha fazla kültürün etkileşimleri sonucu benzeşme yönünde değişmeye uğramalarıdır. Kültürel süreçlere örnekler şöyle sıralanabilir:
+Kültürel asimilasyon.
+Kültürel asimilasyon, ikincil grubun, ana dilini ve kültürünü dominant kültür grubunun baskısıyla yitirmesi sürecidir. Örnek olarak;
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkonoklazm</DOCTITLE>
+<TEXT>
+
+İkonoklazm, bir kültürün kendi dini ikona ve diğer sembollerine ya da anıtlarına dini ya da politik güdülerle planlı saldırısıdır. Sıklıkla iç politik ya da dini değişimlerin ana parçasıdır. Genellikle İspanyolların Amerika fethinde yaptıkları gibi bir kültürün diğer bir kültürün resimlerini yok etmesinden ayrılır. Bu terim, bir hükümdarın ölmesi ya da iktidardan düşmesinden sonra özellikle onun resimlerinin yok edilmesini kapsamaz. ("Damnatio Memoriae"), örneğin Antik Mısır'da Akhenaten.
+İkonoklazma dahil olan ya da destekleyen insanlara "iconoclast" ("Putkırıcı") denir. Tersine, resimlere saygı duyanlara "iconolater" denir, Bizans yazılarında bu insanlar "iconodule", ya da "iconophiles" olarak adlandırılmışlardır.
+İkonoklazm, farklı dinlere mensup insanlar tarafından gerçekleştirilmiştir, fakat genellikle aynı dinin hizipleri arasında mezhepsel çekişmelerin sonucu olarak ortaya çıkmıştır. 8.ve 9.yüzyıllar boyunca yaşanan iki Bizans ikonoklazma hareketi, resim kullanılmasının ana başlık olduğu bir tartışma ile istisna gösterir. Hristiyanlıkta, ikonoklazmın en büyük sebebi On Emirin yorumundan çıkan "kazınmış resimlere" tapılmasının yasaklanmasıdır.
+Bizans İkonoklazmı.
+Bizans dönemindeki diğer doktrinsel konularda olduğu gibi, ikonoklazm üzerindeki ihtilaf hiçbir suretle din adamları ya da din bilimden gelen argümanlarla sınırlandırılmamıştır. İslam ile devam eden kültürel ihtilaf, İslam'dan gelen askeri tehdit, ikonoklazm üzerindeki ihtilafın taraflarının davranışlarına muhtemelen tahammüle neden olmuştur. İkonoklazm, imparatorluğun doğusunda özellikle Müslümanlar tarafından ele geçirilen vilayetlerden gelen muhacirler başta olmak üzere çok destek bulmuştur. Dönemin başlangıcındaki iconoclastların ordudaki güçleri, dönem sonunda ordudaki güçlü ikonoklast duygulardan yoksun Balkan güçlerinin büyüyen etkisi, başlangıç ve bitişte ikonoklazm için emperyal desteği etkileyen önemli faktörler olduğu genel kabül görür. İkonaklast harekete giden yıllarda, resimlerin kullanılması muhtemelen artmıştır. Bir önemli değişiklik 695 yılında geldi, II. Justinian, altın paralara İsa'nın tüm yüzünü gösteren bir resmini koydu. Bunun ikonoklast fikirlere etkisi bilinmememktedir ancak bu değişim Halife Abdülmelik'in Bizans paralarını benimseyen politikaları kalıcı olarak terk ederek yalnızca İslami paraları kullanmasına neden olmuştur. 726 yılından önce, Patrik Germanus, iki ikonoklast kardinale yazdığı mektupta şöyle der: "şimdi, bütün kasabalar ve halk yığınları, bu konu üzerinde büyük bir ajitasyon içindeler." Fakat tartışmanın gelişimi hakkında çok az delil günümüzde mevcuttur.
+İlk İkonoklazm dönemi: 730-787.
+726-730 yılları arasında bir zaman, Bizans İmparatoru III. Leo ikonoklazm hareketi başlattı. Bu konuda en belirgin eylem, Ayasofya tarafından imparatorluk sarayının girişi olan Chalke Kapısı'nın üstünde duran "Christ Chalkites" () ismiyle anılan İsa peygamber ikonasının kaldırılması ve yerine bir haç konulması emridir. Bu emri yerine getirenlerin bir kısmı, Dinsel ikonaların yüceltilmesini destekleyen ikonodülistlerce öldürülmüşlerdir. Papa Aziz III. Gregory, 730 yılında sinod meclisini toplamış, resmi olarak ikonoklazmı din dışı olarak mahkûm etmiş ve takipçilerini aforoz etmiştir. Papalık mektubu İstanbul'a, ulakların Bizans'a bağlı Sicilya'da engellenip, tutuklanması nedeniyle hiç bir zaman ulaşamadı.
+İkinci İznik Konsili 787.
+780 yılında, VI. Konstantin İstanbul'da taç giydi, fakat annesi taht naibi imparatoriçe İrene tarafından yönetildiği için etkisizdi. İkonoklazm ile ilgili konuların tüm adreslerce ve tek seferde kabul göreceği bir Ekümenik konsil'e ihtiyaç duyulduğuna karar verdi ve bu isteğini Roma'da bulunan Papa I. Hadrian'a (772-795) iletti. Papa aynı fikirde olduğunu ilan etti ve 1 Ağustos 786 tarihinde imparator ve imparatoriçenin katılımı ile bir toplantı çağrısı yaptı. Başlangıçta toplantı, V. Konstantin anısına saygı duyan ikonoklast askerlerin şiddeti nedeniyle kesintiye uğradı. Bu olay, konsilin güvenilir bir ordunun herhangi bir kesintiye karşı güvenliği sağlamasına kadar ertelenmesine neden oldu. Konsil, İznik'te 24 Eylül 787 tarihinde yeniden toplandı. Bu konsil tarihe İkinci İznik Konsili olarak geçmiştir. Toplantılarda aşağıdaki karar alınmıştır:
+“codice_1”
+Bizans İkonoklazmı Sonuçları.
+İkonoklazm hakkında en geniş bilgiler ikonalara saygı gösteren yazılarda kalmıştır. İkonoklazm tartışmalarını anlamak isteyen bir kişi bazı temel noktaları bilmelidir:
+İkonoklazmın en önemli dini muhalifleri Müslüman egemenliğinde yaşayan ve Şam'da bulunan halifeye danışmanlık yapan, böylece Bizans İmparatorunun intikamından kurtulabilen keşiş Mansur (Şamlı John) ve İstanbul'da bulunan Stoudios manastırı baş rahibi Theodore'dur.
+John, bu soruna, sorunun yartıcısından dolayı saygı duymadığını açıklamıştır. Fakat, ayrıca "Kutsal enerji ve Allah'ın inayetinin dolmuş olmamdaki kurtuşun bana gelmesinden dolayı soruna saygı duyuyorum" demiştir. Ayrıca İncil'de kullanılan mürekkebinde resimler, Haç'ın tahtası ve İsa'nın et ve kanını gibi sonraki kategoriye dahil olduğunu eklemiştir.
+İkonoklazma, "iconodule" cevap:
+İslamda İkonoklazm.
+İslam Tarihi içerisinde, Kutsal Kabe'de bulunan putların kaldırılması, bütün inanç sahipleri tarafından sembolik ve tarihi bir öneme sahip olduğu düşünülür.
+Müslümalar tarafından işlenen ilk ikonoklazm 630 yılında Mekke'de bulunan Kabe'de yerleşik Arap mitolojisine ait putların yok edilmesidir. Bu hareket, Müslüman bakışı ile, Cahiliye Dönemine son verilmesidir. Genellikle, Müslüman toplumlar yaşayan canlıları (hayvanlar ve insanlar) cami ya da medrese gibi kutsal alanlarda betimlemekten sakınırlar. Resimsel temsiliyete bu muhalefet Kuran tabanlı değildir, daha ziyade hadislerin taşıdığı çeşitli geleneklerden kaynaklanır.
+Aşağıda verilecek olayların, İkonoklazm tanımında bir kültürün diğer bir kültürün resimlerini yok etmesinin dahil edilmemesi nedeniyle, ikonaklastik olup olmadıkları tartışmalıdır.
+Reform İkonoklazmı.
+Bazı Protestan reformcular, özellikle Andreas Karlstadt, Huldrych Zwingli ve John Calvin, On Emirin putları ve Tanrı'nın yontulmuş imajının üretimini yasaklanmasından etkilenerek dini resimlerin kaldırılmasını teşvik etmişlerdir. Sonuçta heykellere ve imajlara onaylanmamış ikonoklast şiddet eylemleri kadar kendinden gelişen bireysel ataklar ile zarar verilmiştir. Fakat, birçok durumda, Avrupa'da çok yeni reform edilmiş şehirlerinin sivil yetkililerinin emirleri ile imajlar kaldırılmıştır.
+Önemli ikonoklast şiddet eylemleri 1523 yılında Zürih'te, 1530 yılında Kopenhag'ta, 1534 yılında Münster'de, 1535 yılında Cenevre'de, 1537 yılında Augsburg'ta, 1559 yılında İskoçya'da ve 1562 yılında Saintes and La Rochelle'ta yaşanmıştır. 1566 yılının yaz aylarında günümüz Belçika, Hollanda ve kuzey Fransa'sını kapsayan bölgelerini, büyük bir Protestan ikonoklast dalga vurmuştur. Bu olaya, ""Beeldenstorm"" denilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karaz Kültürü</DOCTITLE>
+<TEXT>
+
+Karaz Kültürü, Geç Kalkolitik Çağ ve Tunç Çağı boyunca Doğu Anadolu, Transkafkasya, Azerbaycan ve Kuzeybatı İran'ı içine alan bir yayılma gösteren kültürdür. Sovyet arkeoloj Boris Kuftin'in çalışmalarında ortaya konulmuştur. Kuftin, 1940 yılında bu kültürü ilk olarak tanımlamış ve Kura-Aras Kültürü olarak adlandırmıştır. Karaz Kültürü'nün yayılma alanı kuzeyde Kuzey Karadeniz Dağları - Transkafkasya hattına, doğuda İran'daki Urmiye Gölü'ne, batıda Divriği - Kangal, Malatya - Elazığ hattına, güneyde ise Kahramanmaraş - Amik Ovası Filistin hattına uzanmaktadır. Günümüzün siyasi yapılanışına göre ifade edilecek olursa, Karaz Kültürü'nün yayılma alanı Gürcistan, Ermenistan, Azerbaycan, Doğu Anadolu ve Kuzeybatı İran'dır.
+Adlandırma ve köken.
+Farlı arkeologların, farklı bölgederdeki araştırma ve kazılarından ulaştıkları yargılara bağlı olarak Kültür'ün kökeni konusunda, dolayısıyla adlandırmada farklı görüşler vardır. Örneğin Kura Nehri ile Aras Nehri arasındak kalan alanda kurganlarla temsil edilen bu kültüre Kuftin Kura-Aras Kültürü adını vermiştir. Diğer yandan kökeninin Gürcistan olduğu yönünde görüşler ileri sürülmüştür.
+İlk olarak Erzurum yakınlarındaki Karaz Höyük çanak çömlek buluntularıyla tanımlanmış olan bu kültür, kültürlerin, ilk tespit edildikleri yer adıyla anılması şeklindeki geleneğe bağlı olarak Karaz Kültürü olarak tanımlanmaktadır. Türk arkeologlarına göre Kültür'ün en eski yerleşmeleri Doğu Anadolu'da, Erzurum ve çevresidir. Bu bölgede Karaz Höyük, Pulur Höyük, Güzelova Höyük ve Sos Höyük ve Büyüktepe Höyük, ilk Karaz yerleşmeleridir. 
+Türk arkeoloji yazınında baskın biçimde Karaz Kültürü olarak tanımlanan bu kültür farklı adlandırmalara da konu olur. Bu adlandırmalar, Erken Transkafkasya Kültürü, Yanık Kültürü, Hirbet Kerak Kültürü ve Doğu Anadolu'nun Bakır Çağı', Bet Yerah, Trans Kafkasya'nın Eneolitik Kültürü Özellikle kazılarda ortaya çıkarılan bazı buluntular da durumu tartışmalı hale getirmektedir. Örneğin Arslantepe Höyüğü VIA tabakasındaki büyük kent yerleşimini yıkarak yerleşen ve VIB tabakasını kuran halkın Doğu Anadolu -Transkafkasya kökenli bir halk olduğu ileri sürülmektedir. Yeniden bir köy görünümüne dönen yerleşimin bu tabakası "koyu yüzlü açkılı mal" buluntuları vermektedir. Kentte ortaya çıkan bu çanak çömlek geleneğinin kenti yıkıp yerleşen toplulukla bölgeye geldiği ileri sürülmektedir. Diğer yandan Tepecik / Makaraz Höyük Kalkolitik Çağ'ın sonuna tarihlenen tabakasında hem Karaz malı, hem Uruk malı, hem de İç Anadolu çanak çömleği buluntuları vermesi, Karaz Kültürü'nün bu bölgede doğduğu yönünde bir argüman olarak görülmektedir. Bütün bunlara karşın, bu kültürün kendine özgü ve son derece belirgin çanak çömlek türünün ele geçtiği en eski kazı Karaz Höyük kazılarıdır. Bu noktadan hareketle Türk bilim çevreleri, Karaz Kültürü adlandırmasında karar kılmıştır. Diğer yandan diğer adlandırmalar bu kültürün tüm niteliklerini ortaya koymaktan uzaktır. Fakat Erzurum çevresinde yapılan kazılarda ulaşılan buluntular bu kültürün en kuvvetli örneklerini vermektedir.
+Diğer yandan belirli bir bölgedeki kültürün izlenen gelişme çizgisinde, belirli bir dönemde ortaya çıkan farklı kültür ögeleri dikkat çekici olmalıdır. Örneğin Suriye ve Filistin'de Erken Tunç Çağı III süresince yerel bir gelişim vermeyen ve yerel kültürel geleneğe dayanmayan, buna karşın gelişmiş biçimde ortaya çıkan Karaz Kültürü buluntuları, daha eski haliyle Doğu Anadolu'da ve Trans Kafkasya'da görülmektedir. Örneğin Kurt Bittel Hama tabakalanması ile ilgili çalışmasında "Bu tabakanın daha sonraki yığıntılarında … Hirbert Kerak diye adlandırdığımız cinsten bol çanak çömleğe rastlanır. Onlar burada hiç yoktan apansızın çıkagelmişlerdir ve yerli bir gelişimin malı olmadıkları besbellidir." diye yazmaktadır.
+Karaz Kültürü'nün etnik kökeninin Hurri olduğu ve gerek kronolojik, gerekse de coğrafi olarak Yakındoğu prehistoryasının en büyük kültürlerinden biri olduğu kabul edilir.
+Karaz Kültürü'nün ayırt edici, tanımlayıcı iki özelliği çanak çömleği ve mimarisidir. Kuzeydoğu Anadolu'da Geç Kalkolitik Çağ ve Erken Tunç Çağı'nın başlarında görülen bu kültür çevre bölgelere daha geç çağlarda yayılmıştır. Örneğin Kuzey Suriye ve Filistin'e erken Tunç Çağı – Orta Tunç Çağı geçiş evresinde ulaşmıştır. Doğu Anadolu'dan yayılma esas olarak iki ana güzergah üzerinden olmuştur. Bir güzergah, Kuzey Mezopotamya'ya Umriye Gölü civarı üzerinden, daha kapsamlı olan güzergah ise Kuzey Suriye ve Filistin'e ise Elazığ - Malatya hattından olmuştu.. Karaz Kültürü, kendine özgü çanak çömlek buluntularından tespit edilmektedir. Bu Karaz çanak çömleği Doğu Anadolu'da Geç Kalkolitik Çağ'da görülmeye başlanmıştır ama, tam gelişkin şeklini Erken Tunç Çağı'nda almıştır. Bir yandan da erken Tunç Çağı ile Karaz Kültürü özdeşleşmiştir.
+Çanak çömlek.
+Cağdaşı olan yerleşmelerde çömlekçi çarkı biliniyor ve kullanılıyor olmasına karşın Karaz çanak çömleği el yapımı olarak üretilmeye devam edilmiştir. Karaz çanak çömleği tak renkli (monokrom), astarlı ve açkılıdır. Süslemeler çizgilerden oluşur. Bu çizgiler genellikle spiral, paralel ya da kesişen çizgilerdir. Yiv, oluk ve kabartma teknikleriyle uygulanmış olurlar. Karaz seramiği çoğu kez ""koyu yüzlü açkılı mal"" tanımlamasıyla ifade edilir. Bu tanımlamayla bir yandan yüzey renginin koyu renk ya da kirli görünümde olduğu, diğer yandan da açkılı olmaları ifade edilmektedir. Açkı, Karaz çanak çömleğinin yayıldığı yer yerde görülen ortak özelliğidir hem de diğer çanak çömlekten ayırt ediği niteliğidir.
+Mimari.
+Kazılarda çok net bir mimari ortaya çıkarılamadıysa da Karaz mimari geleneğinin ana hatlarını belirlemek mümkün olmuştur. Taş temel üzerine kerpiç duvarlarla, dik köşeli, bir ya da iki odalı inşa edilen bu yapılar yanında muhtemelen dini ritüellerde kullanılan ocaklar ortaya çıkarılmıştır. Kültürün yayıldığı diğer bölgelerde açığa çıkarılan dairesel planlı yapılar ise Hurri geleneksel mimarisini ifade etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kimberly Goss</DOCTITLE>
+<TEXT>
+
+Kimberly Goss (d. 15 Şubat 1978, Los Angeles, Kaliforniya) vokalist ve Finlandiyalı müzik grubu Sinegry'nin kurucu üyesi.
+Hayatı.
+Çocukluğu.
+Kimberly,Los Angeles'ta Koreli bir babanın ve Amerikan-Alman caz şarkısıcı bir annenin kızı olan dünyaya geldi.Küçüklüğünde,annesi Japonya'daki şarkı söyleme işini kabul etti veTokyo yakınlarındaki Kawasaki'de bir yıl yaşadılar.1980'de Los Angeles'a geri göndüler ve nihayetinde annesinin doğduğu yere,Şikago'ya yerleştiler.Aynı zamanda Şikago Kimberly'nin çocukluğunun çoğu burada geçmiştir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pannonhalma</DOCTITLE>
+<TEXT>
+
+Pannonhalma (Osmanlı döneminde: Samartin, Slovakça:Rábsky Svätý Martin, Almanca:Martinsberg) Macaristan'ın batısında, Győr-Moson-Sopron ili' nde bulunan bir kasabadır. 
+Tarih.
+Prens Géza (Grand Prince of the Hungarians) 996 tarihinde Tours piskoposu Aziz Martin (Saint Martin)' in doğduğu yere yakın bir Benedikten manastırı inşa eder. Papalık tarafından da desteklenen manastır zaman içerisinde gelişerek zenginleşir.1220 li yıllarda inşa edilen Samartin birçok kez onarım görür. Yanıkkale (Győr) ve Papa (Pápa) kaleleri arasında bulunan Samartin, Yanık fethinden sonra stratejik nedenlerle 1594 yılında Sadrazam Koca Sinan Paşa tarafından fethedildi ve 4 yıl Osmanlı denetiminde kalmıştır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nevevi</DOCTITLE>
+<TEXT>
+
+Nevevi. Ebu Zekaeriyya Muhyiddin Yahya (1233-1277). Hicri yedinci asrın Hadis bilginlerinden ve ünlü islam hukukçularındandır. 1233 (h. 631) yılında Şam'ın güneyinde Neva kasabasında doğdu. Doğduğu yere nispetle Nevalı anlamına gelen, Nevevi olarak tanılır. İlim tahsiline Kuranı Kerim ile başlayan Nevevi, Hadis, İslam Hukuku, Ahlak, Dil ve Edebiyat alanlarında eserler vermiştir. Özellikle İslam Hukuku ve Hadis alanlarında zamanın ender şahsiyetlerinden olmuştur. Günümüzün özel Hadis fakültesi diyebileceğimiz, Şam'daki Eşrefiye Darül-Hadisi'nin hocalığını yapmıştır. Kırkdört yıllık hayatında, kırkın üzerinde eser veren Nevevi, özel yaşantısıyla da örnek şahsiyetlerden olmuştur. Bunların tümü önemli eserler olmakla birlikte Rizayüs Salihin, Kırk Hadis ve Sahihi Müslim Şerhi oldukça meşhur olmuş ve Nevevi'nin ismiyle özdeşleşmiş eserlerdir. İmam Nevevi'nin yaşadığı dönemde İslam Dünyası büyük bir sıkıntı ve çalkantı içerisinde bulunuyordu. Bir taraftan Haçlı Seferleri diğer taraftan Moğol istilası yüzünden İslam coğrafyası büyük bir sıkıntı yaşamakta idi.Yaşadığı çağın insanlarını aydınlatma ve doğru yola iletme hususunda önemli gayretleri olan İmam Nevevi, 1277 (h. 676) yılında, kırkdört yaşında bu dünyadan ayrılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karl-Adolf Hollidt</DOCTITLE>
+<TEXT>
+
+Karl-Adolf Hollidt (d. 28 Nisan 1891; Speyer - ö. 22 Mayıs 1985; Siegen, Nordrhein-Westfalen), Almanya'nın subayı ve Nazi Almanyası döneminde Generaloberst. 
+Babası yerel bir ortaokulda öğretmendi. Memleketi Speyer'de eğitim gördü. 1909 yılında okulu bitirdikten sonra 1910 yılında bir piyade alayına (No.117) yazılarak Teğmen olarak atandı.
+Birinci Dünya Savaşı sırasında, Hollidt Batı Cephesi'nde görev aldı. 1915 yılında Üsteğmen oldu ve Yüzbaşı rütbesine 1918 yılında ulaştı. Savaş boyunca iki madalya aldı: 9 Eylül 1914 tarihinde Demir Haç 2. Sınıf ve 18 Ekim 1916 tarihinde kendisine Demir Haç 1. Sınıf madalyası verildi.
+Çeşitli madalyalardan sonra, 1 Şubat 1930'da Binbaşı rütbesine ve 1 Şubat 1933 tarihinde Yarbay rütbesine ulaştı. Dessau'da 12. Piyade Alayında tabur komutanı olarak görev yaptı. Hollidt, 1935 yılında Albay olarak ve Königsberg'de 1. Kolorduda bir Baş-of-Personel olarak görev yaptı. 1 Nisan 1938 tarihinde Tümgeneral olarak atanmasından sonra, Hollidt Siegen'de bir piyade komutanı olarak görev aldı. Ayrıca Piyade Alayı No 57, 116 ve 136'ya komuta etti.
+II. Dünya Savaşı'nın başında, Hollidt 52. Piyade Tümen Komutanı olarak görev yaptı. Korgeneral Hollidt (1 Nisan 1940'da terfi etti) Yunanistan'da 50. Piyade Tümen komutanı olarak Ekim 1940'dan itibaren görev aldı. Genel der Infanterie (Piyade Generali) rütbesine terfi etti. 1944 yılında 6. Ordu'nun başına geçti.
+Kızıl Ordunun saldırılarından Satürn, Skachok ve Zvezda operasyonları ile Üçüncü Harkov Muharebesi dönemlerinde komuta ettiği Armeeabteilung Hollidt (Gruppe Hollidt, Angriffsgruppe Hollidt ve Alarmgruppe Hollidt olarak da bilinir) ile tanınır. 
+1945 yılında, Hollidt ABD güçleri tarafından ele geçirildi. Nürnberg'de yargılandıktan sonra, savaş esirlerinin yasadışı çalıştırılması ve sivillerin sürülmesi ve köleleştirilmesi suçlaması ile mahkum edildi. 5 yıl hapis cezasına çarptırıldı.
+Karl-Adolf Holl, Siegen'de 1985 yılında öldü ve Speyer'de doğduğu yere defnedildi.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nehir</DOCTITLE>
+<TEXT>
+
+Nehir ya da ırmak, genellikle denizlere, göllere ya da bir başka büyük akarsuya dökülen, özellikle genişliği ve taşıdığı su miktarı bakımından büyük akarsulara verilen genel isimdir. Bazı durumlarda ise bir başka suya ulaşmadan yer altında kaybolduğu ya da tamamen kuruduğu da görülmektedir. Büyük akarsular nehir ya da ırmak olarak adlandırılırken daha küçükleri ise çay ve dere olarak adlandırılırlar.
+Nehir, su döngüsünün önemli bir öğesidir. Nehirlerdeki suyun temel kaynağı yağışlardır. Yağmur ya da kar yağışı ile yer yüzüne inen su yüzey akıntıları, yer altı suları biçiminde nehirleri beslerken buzullar gibi doğal kaynakların erimesiyle oluşan suları da bu kaynaklara ekleyebiliriz. Nehirlerin doğduğu yere kaynak, denize döküldüğü yere ağız denir. Büyük ırmaklara katılan görece küçük ırmaklar genellikle "kol" diye adlandırılır. 
+Bir çay ile nehir arasındaki fark açık ve net olarak tanımlanamamıştır. Çay dereden büyük ama ırmaktan küçük akarsu olarak tanımlansa da bu büyüklük kavramı görecelik göstermektedir. Bazen bu ayrım akarsunun üzerinde yapılan aktivitilere (taşımacılık, suyun ekonomik değeri, çevresel faktörler) göre belirlenebilir. 
+Nehirlerdeki sukayıpları nehir yatağından veya derindeki akiferden meydana gelen su sısıntıları ve kısmen de buharlaşma neticesinde olur. Nehirlerdeki toplam su miktarı dünyadaki toplam su miktarının sadece küçük bir parçasını oluşturmaktadır;
+Nehirler, kaynaklarından başlamak üzere yer çekiminin etkisiyle yokuş aşağı yönde akarak bu akışlarını bir deniz ya da göle ulaşıncaya kadar sürdürürler. Ancak kurak alanlarda nehirlerin sularının tamamını buharlaşma yoluyla kaybettiği durumlarda mevcuttur.Bazı durumlarda ise bir nehrin belli yerde yer altına girerek bazı kayaç türlerinin içinden yer altı suyu oluşturacak biçimde yoluna devam ettiği de olmaktadır. Yine bazı nehirler insan eliyle yaratılmış edüstriyel bölgelerde aşırı yoğun olarak kullanılmakta ve bu da nehrin sularının doğal akıntısına devam edemeden tükenmesine neden olabilmektedir. Dünya üzerimndeki suyun %97'si okyanuslarda bulunurken içilebilir su miktarının üçte biri ise kara buzullarında bulunmaktadır, ve geri kalanının neredeyse tamamı yer altı kaynaklarındadır. Göller içilebilir suyun sadece %0,5'lik bir kısmı içerirken nehir kanallarında bulunan suyun oranı ise bunun yarısı olan %0,025'tir ve bu da dünyadaki toplam su reservinin dört binde birine denk gelmektedir. 
+Topoğrafyası.
+Bir nehrin suları genellikle yatak dediğimiz doğal bir kanal içinde akar. Bazı büyük nehirler, özellikle ovalar gibi düz alanlarda akarken belli dönemlerde ya da sürekli olarak nehrin her iki kıyısından taşacak biçimde sel benzeri biçimde de akarlar. Nehrin başladığı yani kaynağının olduğu kısım yukarı nehir olarak adlandırılırken nehrin akış yönü doğrultusu ise aşağı nehir olarak adlandırılır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Camarón de la Isla</DOCTITLE>
+<TEXT>
+
+El Camarón de la Isla (gerçek adı: José Monje Cruz, d. 5 Aralık 1950 San Fernando, İspanya - ö. 2 Temmuz 1992, Baldonado, İspanya), İspanyol flamenko şarkıcısı 
+"Camaron" (karides) sahne ve sanat hayatında kullandığı adıdır. Bu adı ona amcası Jose, sarışın ve açık tenli olması dolayısıyla takmıştır.
+Altı yaşında hanlarda, otobüs duraklarında, meyhanelerde para için Rancapino ile şarkı söylemeye başladı. On altı yaşındayken, Festival del Cante Jonto'da ilk ödülünü aldı. Daha sonra Miguel de los Reyes ile birlikte Madrid'e yerleşti ve 1968'den itibaren Tablao Torres Bermejas'de on iki yıl boyunca sanatçılık yaptı. Burada 1969 - 1977 yılları arasında birlikte 10 albüme imza attığı dünyaca ünlü flamenko gitaristi Paco de Lucia ile tanıştı. Bu süre boyunca ikili yoğun bir şekilde konser ve turlar düzenledi. 1977 yılından sonra Paco'nun solo konser ve sanatsal faaliyetlere yönelmesi ile, Camaron, Paco'nun öğrencilerinden Tomatito ile çalışmalarına sürdürdü.
+1976 yılında 25 yaşındayken, 16 yaşındaki La Línea de la Concepción'lu çingene kökenli "La Chispa" (kıvılcım) lâkaplı Dolores Montoya ile evlendi. Çiftin dört çocuğu oldu.
+Çoğu otorite tarafından, modern zamanların en popüler ve güçlü cantorü olarak gösterilir. Birçok gelenekçi flamenkocu tarafından eleştirilse de şarkılarında elektronik bas gitar kullanarak Nuevo Flamenco (Yeni Flamenko) olarak tanımlanan flamenko tarzını yarattı.
+1992 yılında, akciğer kanserinden hayata veda etti. Cenaze törenine yüz binin üzerinde katılım olmuştur. 
+Oldukça yanık, feryat eden, acısını dinleyene hissettiren, arap nağmeleri ve gırtlak oyunlarını yoğun şekilde kullanan, büyük bir sestir. 
+2005 yılında yönetmen Jaime Chávarri tarafından, sanatçının hayatını konu alan "Camaron" adlı film çekilmiş ve İspanya'da gösterime girmiştir. Filmde Camaron'u ünlü İspanyol aktör Óscar Jaenada , La Chispa'yı ise yine ünlü İspanyol televizyon sanatçısı Verónica Sánchez canlandırmıştır. Filmin senaryosu Camaronun gerçek hayatına uygun olarak, dul eşinden alınan bilgilerle yazılmıştır.
+2006 yılında, İsaki Lacuesta tarafından yönetilen "La Leyenda Del Tiempo" (Zamanın Efsanesi) adlı film de bir Japon kadının Camaron ile aynı şekilde şarkı söyleyebilmek için Camaron'un doğduğu yere gelişini anlatır.
+
+</TEXT>
+</DOC>
+

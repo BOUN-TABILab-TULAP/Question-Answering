@@ -1,0 +1,157 @@
+Question: Azot döngüsü nasıl gerçekleşir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Azot döngüsü</DOCTITLE>
+<TEXT>
+
+Yaşamın başlangıcından beri, atmosfer ve okyanuslar azot içerir. Azot canlılar için önemli bir maddedir. Canlılar yaşamlarını sürdürebilmek için oksijen ve karbondioksite ihtiyaç duydukları gibi, büyüyebilmek için de azota (N2) ihtiyaç duyarlar. Çünkü proteinlerin ve DNA’nın önemli bir bileşenidir. Azot, canlı vücudunda özellikle nükleik asitlerin, proteinlerin ve vitaminlerin yapısında %15 oranında bulunmaktadır. Gaz halindeki azot (N2), atmosferin %78'ini oluşturur. Üçlü kovalent bağı, bu iki azot atomunu sıkıca bir arada tutar. Azot Döngüsü, daha çok biyosferin ince bir tabakasında gerçekleşir. Azot bileşikleri bu ince kabuk içinde birbirine dönüşür. Bu işlemlere azot döngüsü denir. Azot döngüsü yaşamın sürekliliğini sağlayan bir doğa olayıdır. Bu döngüde azot bileşikleri sürekli olarak topraktan canlılara ve sonra tekrar toprağa geri dönerler. Ancak bir miktar azot atmosfere gider ve tekrar geri alınır. Canlılar havadaki bu azotu, ihtiyaçları olmasına rağmen doğada bulunduğu gibi bünyelerine alamazlar. Bu gazın bir şekilde canlıların
+kullanabileceği hale dönüştürülmesi ve canlılar tarafından tüketilip bitirilmemesi için bir döngü şeklinde atmosfere geri dönmesi gerekmektedir. Bu zorunluluğu ise mikroskobik bakteriler ve baklagiller karşılamaktadır.
+Azot çok az organizma tarafından gaz haliyle alınarak kullanılabilindiğinden. 
+Ekosistemlerdeki canlıların kullanabilmesi için öncelikle atmosferik azot gazının inorganik 
+formda fikse edilmesi gerekmektedir. Azot gazının çeşitli şekillerde bağlanarak kullanılabilir 
+bileşikler haline dönüşmesi olayına fiksasyon denir. Fiksasyon sonucu elde edilen inorganik form genellikle amonyak ve nitrattır. Dünyadaki azot fiksasyonu, bazı canlılar tarafından (Rhizobium, Azotobacter, Oscillatoria, Anabeana) biyolojik süreçlerle gerçekleşebildiği gibi, fizikokimyasal (şimşek, yıldırım gibi etkenlerle azotun nitrata dönüşümü) ve endüstriyel süreçlerle (sentetik nitratlı gübre üretimi) de gerçekleşmektedir. Yapılan hesaplamalara göre yıllık azot fiksasyonunun en önemli miktarını biyolojik fiksasyon oluşturmaktadır. Gübre üretimi ile yapılan sunni fiksasyon, biyolojik fiksasyonun yaklaşık yarısı; şimşek, yıldırım ve yanardağ hareketleri gibi fizikokimyasal yolla oluşan fiksasyon ise yaklaşık 1/8'i kadardır.
+Biyolojik fiksasyon yapan Rhizobium cinsi bakteriler, bazı baklagillerin kökünde simbiyotik olarak yaşamaktadır. Sucul ekosistemlerdeki biyolojik azot fiksasyonunun çok önemli bir kısmı Anabeana ve Oscillatoria cinsi mavi-yeşil algler tarafından gerçekleştirilmektedir. Toprakta ise Azotobacter ve Clostridium cinsi bakteriler önemli derecede biyolojik fiksasyonu gerçekleştiren canlılardır (Kormondy, 1984). 
+Fiksasyona uğramış olan azotun, diğer canlılar tarafından kullanıla­bilmesi için öncelikle 
+bitkiler tarafından alınarak özümlenmesi (organik bünyeye katılması) zorunludur. Her ne 
+şekilde olursa olsun, fiksasyona uğrayarak toprağa ve suya karışan nitrat formundaki 
+inorganik azot (NO3), suda erimek suretiyle bitkiler tarafından alınabilir. Bitkiler tarafından 
+emilen nitrat, protein ve nükleik asit gibi biyomoleküllerin üretiminde kullanılır. Böylece 
+azot, abiyotik çevreden biyotik unsurlara geçmiş olur. Bitkilerden beslenme yoluyla tüm 
+canlılara ulaştırılır. Azot, bitkiler ve hayvanlar atık ürettiklerinde ya da öldüklerinde, 
+ayrışma tekrar toprağa döner. Toprakta bulunan denitrifikasyon bakterileri de nitrit ya da 
+nitratı tekrar azot gazına dönüştürür. Böylece azot tekrar atmosfere karışır. 
+Bakteriler azot bağlama işlemi için nitrojenaz enzimi kullanırlar. Bu enzim, iki proteinden 
+oluşur. Bu proteinler iki atom arasındaki bağları kırmak ve 1 molekül N2'den 2 molekül 
+amonyak elde etmek için 1-2 saniyede 8 kez ayrılıp birleşirler.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>D.	Madde Döngüleri (EBA)</DOCTITLE>
+<TEXT>
+
+Güneş, ekosistemlere enerji sağlar, ancak yaşam için ihtiyaç duyulan su ve diğer kimyasal maddelerin kaynağı dünyamızdır. Bundan dolayı yaşamın sürdürülebilmesi bu maddelerin atmosfer, hidrosfer, litosfer ve biyosfer arasında bir döngü oluşturacak şekilde dolaşımına bağlıdır. Madde döngülerinin biyolojik, kimyasal ve jeolojik etkileri vardır. Ancak insanların olumsuz etkileri sonucunda döngülerin bozulması, canlı öğelerin yaşamını tehlikeye sokar.
+Ekosistemlerde yaşam, enerji akışı ve madde döngüleriyle devamlılık kazanır. Bir ekosistemin doğal dengesini koruyabilmesi ve varlığını sürdürebilmesi için madde ve enerji döngüsü ile tüketilen maddelerin yeniden üretim için ekosisteme geri dönmesi şarttır.
+Madde döngüsü, inorganik maddelerin, sürekli olarak cansız ortamdan alınıp canlı unsurlar arasında aktarıldıktan sonra cansız ortama tekrar verilmesi şeklinde çalışır.
+Ekosistemlerde madde varlığı sınırlıdır ve yerine konmadığı takdirde tükenmeye mahkûmdur. Madde döngüsünün enerji akışından farkı, ekosistemin içinde sürekli devir yapmasıdır.
+1.	Karbon Döngüsü
+Karbon atomları, canlı dokularını meydana getiren birleşikleri oluşturması nedeniyle tüm yaşamın temel taşıdır.
+Aşağıdaki şemada görüldüğü gibi canlıların temel yapısını oluşturan karbon; atmosferde karbondioksit (C02), suda karbondioksit ve bikarbonat hâlinde bulunur. Karalarda ise karbon, kömür, doğal gaz, petrol, kireç taşı içerisinde yer alır.
+DOĞADA KARBONÜN DÖRT BÜYÜK KAYNAĞI - Kara (Litosfer), Atmosfer, Su (Hidrosfer), Canlılar (Biyosfer)
+Karbonun büyük bir kısmı karbondioksit şeklinde bulunur. Karbondioksitten çıkan karbon, fotosentez için çok önemlidir. Karbondioksit günlük ve mevsimlik sıcaklıkların aşırı yükselmesi ve düşmesine engel olur.
+Denizler ile atmosfer arasındaki karbon alışverişi çok yavaştır. Bu daha çok deniz yüzeyinin ilk 100 metresinde meydana gelir. Karalardan erozyon yolu ile taşınan organik ve inorganik maddeler vasıtasıyla da denizlere karbon gelir. Karalardan erozyon yolu ile gelen ve kabuklu deniz hayvanlarından oluşan organik karbon, karbonat ve bikarbonatlarla birlikte deniz tabanlarındaki tortullarda birikir. Bu karbonat belki binlerce yıl döngüye katılmaz. Bu nedenle okyanuslar ve denizler karbonun depolandığı yerlerdir. Denizler atmosfere oranla 50 kat fazla karbon içerdiklerinden, karbon akışını düzenleyen en önemli kaynaklardandır.
+Karbon döngüsü atmofer, litosfer, biyosfer ve hidrosfer arasında gerçekleşir. Döngü bozulmadığı sürece karbon oranında önemli değişiklikler meydana gelmez. Aşağıdaki şekilde karbon döngüsü gösterilmiştir (Şekil 7).
+Şekil 7: Karbon döngüsü
+Karbondioksit Tüketimi:
+Kara ve deniz bitkileri tarafından fotosentezde kullanılır.
+Deniz hayvanlarının kabuk oluşumunda kullanılır.
+Deniz hayvanlarının ve bitkilerinin ölümü ile dibe çöker ve karbonatlı kayaçlar hâlinde depo edilmesi ile tüketilir.
+Ölen canlıların bünyesindeki karbon zamanla basıncın etkisiyle petrol ve kömür gibi fosil yakıtlara dönüşür.
+Karbondioksitin Açığa Çıkması:
+Canlıların solunumları ile doğaya döner.
+Ölen canlıların çürümesi ve orman yangınları sonucu doğaya döner.
+Karbonatlı kayaçların, fiziksel ve kimyasal yollarla ayrışması sonucunda havaya yayılır.
+Suyun hava ile temas yaptığı yüzeyde karbon alışverişi gerçekleşir. Burada COz akışı, su yüzeyinden atmosfere ve atmosferden suya doğru iki yönde gerçekleşir.
+Atmosferdeki C02 miktarı bellidir. Tüketilen miktarda C02 sürekli olarak atmosfere dönmemiş olsaydı fotosentez giderek azalacak ve neticede bitkilerin organik madde üretmelerine imkân kalmayacaktı. Bunun sonucunda besin zinciri yaklaşık 35 yıl gibi kısa bir süre sonunda duracak ve yeryüzünde hayat sona erecekti.
+2.	Oksijen Döngüsü
+Canlıların aldıkları besinleri enerjiye dönüştürebilmeleri için oksijen gereklidir. Atmosfer % 21 oranında oksijen içerir. Sularda da oksijen çözünmüş olarak bulunmaktadır. Oksijen atmosferde, atomik oksijen (O), moleküler oksijen (Os) ve ozon (Os) olmak üzere üç şekilde bulunur. Moleküler oksijen solunum için gereklidir. Moleküler oksijen litosferdeki en yaygın elementtir. Çok reaktif bir gaz olduğu için hidrojen, sülfür, karbon, fosfor gibi birçok elementle birleşir. Ozon, biyosferi ultraviyole ışınlarının zararından korur.
+Atmosfere oksijen sağlayan en önemli kaynaklardan biri klorofilli canlıların fotosentez süreci sırasında meydana getirdiği oksijendir. Diğer bir oksijen kaynağı da, yerden belli bir yükseklikteki atmosferde bulunan sudur. Bu suyun fotolizi (suyun ışık yardımıyla oksijen ve hidrojene ayrışması) ile oksijen açığa çıkmaktadır (Şekil 8).
+Oksijen, solunum sırasında; kömür, gaz, petrol gibi maddelerin yanmasında ve organik maddelerin oksidasyonunda (besin maddelerinin yakılmasında) tüketilir.
+Atmosferin içerdiği oksijen miktarında bugüne kadar ölçülebilir bir değişiklik olmamıştır. Buna göre tüketilene eşit miktarda oksijen atmosfere iade edildiği, bu suretle oksijen döngüsünün denk kapandığı söylenebilir.
+3. Azot (Nitrojen) Döngüsü
+Canlılar için önemli bir madde olan azot, protein ve DNA’ nın bileşenlerindendir. Azot, topraktaki verimi büyük ölçüde etkiler.
+Azotun esas kaynağı atmosferdir. Atmofer % 78 oranında azot (N2) içerir. Fakat atmosferde serbest bulunan azot organizmalar tarafından doğrudan kullanılmaz. Azotun bitkiler tarafından kullanılabilmesi için bazı süreçlerden geçerek nitrit ve nitratlara dönüştürülmesi yani bağlanması gereklidir. Aşağıdaki şekilde azot döngüsü gösterilmiştir (Şekil 9).
+Doğada Azotun Dolaşımı
+Atmosferde yıldırım ve volkanik faaliyetler sırasında ortaya çıkan elektrik deşarjları sonucunda azot, oksijen ile birleşerek nitrit ve nitratlara dönüşür. Nitratlar, yağışlarla toprağa girerek bitkiler tarafından kullanılır.
+Azotun bağlanması topraktaki bazı bakteriler tarafından gerçekleştirilir. Bu bakteriler ölmüş canlıların yapılarındaki organik maddeleri parçalayarak bunları nitrata çevirir.
+Toprakta ve bazı bitkilerin köklerinde bulunan azot bağlayıcı bakteriler sayesinde bitkiler nitratları alır ve yapılarına katar.
+Azot, besin zinciri ile bitkilerden otçullara otçullardan da etçillere geçer.
+Ölen bitki ve hayvanlar, ayrıştırıcılar tarafından parçalanır. Mikroorganizmalar azotu nitrit ve nitrata dönüştürür ve böylece azot döngüye katılmış olur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Azot Döngüsü  (EBA)</DOCTITLE>
+<TEXT>
+
+Atmosferde %78 oranında azot gazı bulunur. Toprakta, göllerde ve denizlerdeki çökeltilerde de bir miktar bileşikler halinde azot bulunur. 
+Havadaki serbest azotun ekosistemlerde kullanılabilecek şekle dönüştürülmesi, azot gazının tespit edilmesiyle başlar (Resim 3.28). Azot gazı, doğadaki bazı bakteriler tarafından tespit edilerek toprağa verilmektedir. 
+Şimşekler sayesinde de azot tespiti gerçekleşebilmektedir. 
+Azotun tespit edilme sürecinde azot gazı, amonyağa (NH3) ya da amonyum iyonuna (NH4 + ) dönüştürülür. Baklagillerin köklerinde yaşayan Rhizobium (Rizobiyum) gibi bakteriler, havanın serbest azotunu bağlayarak bitkilere vererir (Resim 3.29). 
+Canlıların kalıntıları ve ölmüş organizmalar toprağa karıştıklarında bakteriler tarafından parçalanır. Bazı bakteriler, bu parçalanma sürecinde ortaya çıkan amonyak ve amonyum iyonlarını nitrifikasyon denen olayla nitrite (NO2 - ) ve daha sonrada nitrata (NO3 - ) dönüştürür. 
+Bitkiler, nitratı ve amonyum iyonlarını kullanarak azotlu organik bileşikleri sentezleyebilir. 
+Bitkiler üzerinden beslenen hayvanlar, bu azotlu bileşikleri bünyelerine alabilirler. 
+Topraktaki bazı bakteriler ise nitratı (NO3 - ) serbest azota dönüştürür. Azot gazı böylece tekrar atmosfere verilir. Bu bakterilere denitrifikasyon bakterileri denir. 
+Doğal yollar dışında ticari olarak üretilen çok miktarda azotlu gübre, toprağa verilmektedir (Resim 3.30). İnsan faaliyetleri sonucunda da bir miktar azot oksit, reaktif azot gazı olarak atmosfere verilmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

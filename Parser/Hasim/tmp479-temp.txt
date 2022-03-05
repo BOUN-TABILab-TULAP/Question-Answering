@@ -1,0 +1,29 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Suda su+Noun+A3sg+Pnon+Loc Suda+Noun+Prop+A3sg+Pnon+Nom
+bulunan bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart bulun+Verb+Pos^DB+Adj+PresPart
+aktif aktif+Adj
+hareket hareket+Noun+A3sg+Pnon+Nom
+yeteneği yetenek+Noun+A3sg+P3sg+Nom yetenek+Noun+A3sg+Pnon+Acc
+olmayan ol+Verb+Neg^DB+Adj+PresPart
+akıntı akıntı+Noun+A3sg+Pnon+Nom
+yönüne yön+Noun+A3sg+P3sg+Dat yön+Noun+A3sg+P2sg+Dat
+bağımlı bağımlı+Adj
+olarak ol+Verb+Pos^DB+Adverb+ByDoingSo
+hareket hareket+Noun+A3sg+Pnon+Nom
+eden e+Noun+A3sg+Pnon+Abl et+Verb+Pos^DB+Adj+PresPart
+canlılarar canlılarar+Noun+Prop+A3sg+Pnon+Nom
+verilen ver+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+genel genel+Adj
+isim is+Noun+A3sg+P1sg+Nom is+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg isim+Noun+A3sg+Pnon+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

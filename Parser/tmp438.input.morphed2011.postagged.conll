@@ -1,0 +1,17 @@
+1	Sert	sert	Adj	Adj	_	_	_	_	_
+2	kemik	kemik	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	dokuda	doku	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+4	_	bulun	Verb	Verb	Pos	_	_	_	_
+5	bulunan	_	Adj	APresPart	_	_	_	_	_
+6	Havers	Havers	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+7	kanallarını	kanal	Noun	Noun	A3pl|P3sg|Acc	_	_	_	_
+8	birbirine	birbiri	Pron	Pron	A3sg|P3sg|Dat	_	_	_	_
+9	_	bağla	Verb	Verb	Pos	_	_	_	_
+10	bağlayan	_	Adj	APresPart	_	_	_	_	_
+11	yan	yan	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+12	kanallara	kanal	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+13	ne	ne	Adj	Adj	_	_	_	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+15	_	ver	Verb	Verb	_	_	_	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

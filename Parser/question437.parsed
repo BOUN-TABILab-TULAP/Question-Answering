@@ -1,0 +1,16 @@
+1	Kronik	kronik	Noun	Noun	A3sg|Pnon|Nom	14	SUBJECT	_	_
+2	böbrek	böbrek	Noun	Noun	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	_	yet	Verb	Verb	Pos	4	DERIV	_	_
+4	yetmezliği	_	Noun	Noun	NotState|A3sg|Pnon|Acc	14	SUBJECT	_	_
+5	hastalarında	hasta	Noun	Noun	A3pl|P3sg|Loc	9	LOCATIVE.ADJUNCT	_	_
+6	hangi	hangi	Adj	Adj	_	7	MODIFIER	_	_
+7	hormonun	hormon	Noun	Noun	A3sg|Pnon|Gen	8	POSSESSOR	_	_
+8	üretiminin	üretim	Noun	Noun	A3sg|P3sg|Gen	9	SUBJECT	_	_
+9	_	azal	Verb	Verb	Pos	10	DERIV	_	_
+10	azalması	_	Noun	NInf	A3sg|P3sg|Nom	11	CLASSIFIER	_	_
+11	sonucu	sonuç	Noun	Noun	A3sg|P3sg|Nom	14	MODIFIER	_	_
+12	anemi	anemi	Noun	Noun	A3sg|Pnon|Nom	14	SUBJECT	_	_
+13	_	gör	Verb	Verb	_	14	DERIV	_	_
+14	görülür	_	Verb	Verb	Pass|Pos|Aor|A3sg	15	SENTENCE	_	_
+15	.	.	Punc	Punc	_	0	ROOT	_	_
+

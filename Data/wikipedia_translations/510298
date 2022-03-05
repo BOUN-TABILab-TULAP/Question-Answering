@@ -1,0 +1,67 @@
+Hidrolik iletkenlik
+Sembolik FORMULA_1 olarak temsil hidrolik iletkenlik, sıvı (genellikle su) gözenek boşluk veya kırıklar boyunca hareket kolaylığını açıklar vasküler bitkiler, toprak ve kayaların bir özelliği vardır. Bu malzemenin geçirgenliğine ve doymuşluk derecesine bağlıdır, ve sıvının yoğunluğu ve viskozitesine. Hidrolik iletkenlik Doymuş, "Ksat", doymuş medya aracılığıyla su hareketini açıklar.
+Farklı topraklar için hidrolik iletkenlik tipik aralıkları Geotechdata.info veritabanında bulunabilir.
+Belirleme yöntemleri.
+Hidrolik iletkenlik belirleme iki geniş kategorisi vardır:
+Deneysel yaklaşım genel olarak sınıflandırılır:
+küçük ölçekli saha testleri daha bölünmüştür:
+Ampirik yaklaşımla tahmini.
+Tane boyutu tahmini.
+Allen Hazen tane boyutu analizleri hidrolik iletkenlik yaklaştırmak için deneysel bir formül elde:
+nerede
+Pedotransfer işlevi.
+Bir pedotransfer fonksiyonu (PTF) ancak Hidrojeolojide kullanımını arttırarak vardır, toprak bilimleri öncelikle kullanılan özel bir ampirik tahmin yöntemidir. Birçok farklı PTF yöntemleri bu tür hidrolik iletkenlik, verilen birkaç ölçülen toprak özellikleri, bu tür toprak partikül büyüklüğü gibi ve kütle yoğunluğu olarak toprak özellikleri, belirlemek için tüm girişim, ancak vardır.
+Deneysel yaklaşımla belirlenmesi.
+Sabit kafa yöntem ve düşen kafa şekli: Bir toprağın hidrolik iletkenliğini belirlemek için çalıştırmak olabilir, nispeten basit ve ucuz laboratuar testleri vardır.
+Laboratuar Yöntemleri.
+Sabit kafa yöntemi.
+sabit kafa yöntemi genellikle granüler toprak kullanılır. Bu prosedür, toprak numunesi boyunca akan su miktarı (hacim) bir süre boyunca ölçülür ise, su, bir kararlı durum kafası koşulu altında toprakta hareket etmesine olanak sağlar. Adette bilerek su formula_5, numune, enine kesit alanı, numune formula_7, su formula_5 miktarı için gerekli süre formula_8 boşaltılacak uzunluğunu formula_6, ve baş formula_10 ölçülen hidrolik iletkenliği hesaplanabilir:
+burada formula_12 akış hızıdır. Darcy Kanunu kullanarak:
+ve hidrolik eğim formula_14 olarak ifade:
+nerede formula_10 mesafesi formula_6, verimleri üzerinde hidrolik kafa farkı:
+FORMULA_1 için çözülünce aşağıdaki elde edilir:
+Falling-kafa yöntemi.
+düşen kafa yöntemi, ilk kurulum sürekli baş yöntemleri tamamen farklıdır; Ancak düşen merkez yönteminin avantajı hem ince taneli ve iri taneli topraklar için kullanılabilir olmasıdır. Toprak örneği ilk olarak bir özel kafa koşulları altında doyurulur. Su daha sonra sabit bir basınç kafası bakımı olmadan toprak boyunca akmasına izin verilir.
+In-situ (alan) yöntemleri.
+Augerhole yöntemi.
+Alan hidrolik iletkenliğinin ölçülmesi için, in-situ yöntemler de vardır. <br>
+Su tablası sığ olduğu zaman, augerhole yöntem olup, bir bilgi test, su tablasının altında hidrolik iletkenliğinin saptanması için de kullanılabilir. <br>
+yöntem Hollanda'da (1934) tarafından geliştirilen ve Hooghoudt Van Bavel en Kirkham (1948) tarafından ABD'de piyasaya sürüldü.
+yöntem aşağıdaki adımları kullanır:
+burada K iletkenliği (m / gün) t anında, Ht = H, toprak (cm) su tablasının delik göreceli olarak su seviyesi olarak, H = derinliği, Ho, t = 0 zamanında, H hidrolik yatay = doymuş = t Ho olarak H ilk ölçüm yana (saniye olarak) = ve F deliğin geometrisine bağlı olarak bir etkendir:
+burada: silindirik delik (cm) = yarıçap formula_22 formula_23 formula_23 = (Ho + Ht) halinde bulunan toprak (cm) su tablasının delik nispetle su seviyesi ortalama derinliği, / 2, ve D toprak (cm) su tabloya delik nisbetle alt derinliğidir.
+Resim 100 ha bir alanda augerhole metodu ile ölçülen K-değerlerinin geniş bir varyasyonunu göstermektedir. yüksek ve en düşük değerleri arasındaki oran kümülatif frekans dağılımı lognormal ve CumFreq programı ile yapıldı 25'tir.
+İlgili büyüklükler.
+İletimlilik.
+geçirgenlik bir kuyu pompalama için, yatay olarak iletilebilir ne kadar su için bir ölçüdür.
+Akifer formula_29 toprak tabakadan oluşabilir. bir "doymuş" kalınlık formula_32 ve yatay hidrolik iletkenlik formula_33 ile formula_31 toprak tabakası yatay akışı formula_30 için geçirgenlik ise:
+Geçirgenlik yatay hidrolik iletkenliği formula_33 ve kalınlık formula_32 ile doğru orantılıdır. M m / gün formula_33 ve formula_32 ifade, geçirgenlik formula_30 m2 / gün birimlerinde bulunur.
+akiferin toplam geçirgenlik formula_40 ise:
+Akifer "görünür" yatay hidrolik iletkenlik formula_44 ise:
+Nerede formula_46, akiferin toplam kalınlığı, formula_43 ile formula_47 olduğunu.
+Bir akiferin geçirgenlik pompalama testlerinden tespit edilebilir.
+"Su tablasının Etkisi"
+Bir toprak tabakası su tablasının üzerinde olduğunda, doymuş değildir ve geçirgenliği katkıda bulunmaz. Toprak tabakası tamamen su tablasının altında olduğunda, onun doygun kalınlık toprak tabakasının kendisinin kalınlığına karşılık gelir. Su tablası, bir toprak tabakası içinde olduğunda, doymuş kalınlığı kat tabanına su tablasının mesafeye karşılık gelir. Su tablası dinamik davranabilir gibi geçirgenlik buna göre değişebilir, böylece bu kalınlık, zaman yerden bir yere veya zaman değişebilir.
+Su tablası önemli geçirgenliği olan bir toprak tabakası içinde olan bir serbest akifer, su pompalarken, geçirgenlik azaltır sayede su tablası aşağı çekilebilir ve kuyuya su akışı azalır.
+Direnç.
+Kvi bir "doymuş" kalınlık formula_32 ve dikey hidrolik iletkenlik formula_31 toprak tabakasının dikey akış (Ri) ile "direniş":
+M m / gün ve formula_32 olarak Kvi ifade, direnç (Rı) gün olarak ifade edilir.
+akiferin toplam direnç (Rt) 'dir:
+Σ tüm katmanları üzerindeki toplamını ifade eder burada: formula_54 = 1, 2, 3, dönüştürülmektedir. . .formula_55
+Akifer "görünür" dikey hidrolik iletkenlik (KvA) 'dir:
+Dt akiferinin toplam kalınlığı burada: Dt = Σ formula_32, formula_14 = 1, 2, 3,. . .formula_55
+dirençli bir tabaka dizisi, düşük yatay geçirgenliği olan tabakalar dik bir doğrultuda esas olarak su iletimi ise yatay bir akış yatay yüksek geçirgenliğe sahip tabakaların esas olarak bulunur, böylece, yatay geçirgenliği değişen oluşur akiferlerdeki bir rol oynar.
+Anizotropi.
+Formula_31 toprak tabakasının yatay ve dikey hidrolik iletkenlik (Khi ve Kvi) önemli farklılıklar olduğunda, tabaka hidrolik iletkenlik açısından anizotropik olduğu söyleniyor.
+"Görünür" yatay ve dikey hidrolik iletkenlik (KHA ve KvA) önemli farklılıklar olduğunda, akifer hidrolik iletkenlik açısından anizotropik olduğu söyleniyor.
+Akifer adı "yarı-kapalı" nispeten küçük bir yatay hidrolik iletkenliği olan doymuş bir tabaka (yarı geçirimli katman ya da Akitard) birinci tabakadaki yeraltı suyu akışı, nispeten yüksek bir yatay hidrolik iletkenliği olan bir tabaka üzerinde bulunur, böylece zaman esas olarak, dikey ve ikinci tabakanın esas olarak yatay bir.
+Su tablosunu kontrol etmek amacı ile bir akiferdeki drene akışını hesaplanırken, anizotropi, aksi takdirde sonuç hatalı olabilir, dikkate alınması gerekmektedir.
+Bağıl özellikleri.
+Çünkü yüksek gözeneklilik ve geçirgenlik, kum ve çakıl akiferler kil veya unfractured granit aquifers daha yüksek hidrolik iletkenlik var. Kum veya çakıl akiferler böylece kil veya unfractured kaya akiferlere karşılaştırıldığında, çünkü yüksek geçirgenliği (ör iyi pompalama kullanarak) su çıkarmak için daha kolay olurdu.
+; Hidrolik iletkenlik zaman (örneğin, m / s, ft / gün ve (gal / gün) / ft²) başına uzunluğu boyutları ile birimleri var geçirgenlik sonra zaman başına karesi uzunluktaki boyutları ile birimleri vardır. Aşağıdaki tabloda, "K" değerleri için (muhtemelen büyüklük birçok emir gösteren) bazı tipik aralıkları verir.
+Hidrolik iletkenlik ("K") biridir değerleri doğada bulunduğu gibi en karmaşık ve Hidrojeolojide akifer özelliklerinin önemli:
+Doğal malzemeler için değerlerin aralıkları.
+Doymuş hidrolik iletkenlik ("K") olarak Tablo doğada bulunan değerler
+20 ° C ve 1 atm de su için viskozite ve özgül ağırlık standart değerler kullanılarak - değerleri tipik bir taze yer altı koşulları içindir.
+Içsel geçirgenlik değerleri için aynı kaynaktan elde Benzer tabloya bakın.
+Kaynak: 1972 Bear modifiye

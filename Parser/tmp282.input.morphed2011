@@ -1,0 +1,45 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çağlayan	çağla+Verb+Pos^DB+Adj+PresPart
+Çağlayan	çağlayan+Noun+A3sg+Pnon+Nom
+Çağlayan	Çağlayan+Noun+Prop+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+çavlan	çav+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+çavlan	çavlan+Noun+A3sg+Pnon+Nom
+çavlan	çavlan+Verb+Pos+Imp+A2sg
+
+arasında	ara	+Noun+A3sg+P3sg+Loc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+farklar	fark	+Noun+A3pl+Pnon+Nom
+farklar	fark	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+vardır	var	+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+vardır	var	+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

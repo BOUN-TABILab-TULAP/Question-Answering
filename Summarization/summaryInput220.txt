@@ -1,0 +1,229 @@
+Question: Paraleller hangi doğrultuda uzanır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Enlem</DOCTITLE>
+<TEXT>
+
+Enlem, Ekvator'un kuzeyindeki veya güneyindeki herhangi bir noktanın Ekvator'a olan açısal mesafesi. Enlemler, kuzey ve güney enlemleri olmak üzere ikiye ayrılırlar; derece, dakika ve saniye cinsinden ifade edilirler. Dünya üzerindeki aynı enleme sahip noktaların birleşmesi ile oluşan varsayımsal çemberlere ise paralel denir.
+Paralleller arası mesafe.
+Paraleller arasındaki mesafelerin hesaplanması işleminde şu yol takip edilir:
+Aralarında uzaklığı sorulan noktalar arasındaki enlem farkı bulunur. İstenilen merkezlerin her ikisi de aynı yarım kürede ise, numarası büyük paralelden küçük paralel çıkarılır. Farklı yarım küredeler ise paraleller toplanır. 
+Bulunan paralel farkı sabit uzaklık olan 111 ile çarpılır. 
+Etkileri.
+Enlem; iklimi güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranlarını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tarım faaliyetlerinin sınırını, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını, vs. etkiler.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayali Rehberler: Paralel Ve Meridyenler (EBA)</DOCTITLE>
+<TEXT>
+
+Nasıl ki şehirdeki bir evi bulabilmek için mahalle, cadde, sokak ve ev numarası gibi unsurlara ihtiyaç varsa Yerküre üzerindeki herhangi bir yeri bulabilmek için de hayalî çizgilere (koordinat sistemine) ihtiyaç vardır. Bu nedenle Yerküre’yi enine ve boyuna kestiği varsayılan paralel ve meridyenler tespit edilmiştir.
+Paraleller
+Ekvatordan kutuplara doğru birer derecelik açı aralıklarıyla çizildiği varsayılan çemberlere paralel, yer küre üzerindeki herhangi bir noktadan ekvator düzleminin merkezine doğru çizilen doğru ile ekvator düzlemi arasındaki açıya ise enlem denir.
+Paralellerin Özellikleri:
+- En büyük paralel dairesi Ekvator’dur.
+- Ekvator’ dan Kutuplara gidildikçe çapları ve çevreleri kısalır; enlem dereceleri büyür.
+- Ardışık iki paralel arası uzaklık 111 km’dir.	
+- 90° paralelleri birer nokta halindedir.	
+- Bazı paralellerin özel isimleri vardır.	
+- Paraleller 90 tane Kuzey ve 90 tane Güney Yarım Küre'de olmak üzere toplam 180 tanedir.
+Enlemin Etkileri:
+Enlem; iklimi, güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tanm faaliyetlerinin sınınnı, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını vb. özellikleri etkiler.
+Meridyenler
+Kutup noktalarını birleştiren ve paralelleri dik kestiği varsayılan yarım çemberlere meridyen , herhangi bir meridyen düzlemi Başlangıç Meridyeni düzlemi arasındaki açıya ise boylam denir.
+Meridyenlerin Özellikleri:
+- Başlangıç meridyeni, Londra’nın Greenwich kasabasından geçer.
+- Bütün meridyenlerin uzunlukları eşittir.
+- Aralarındaki mesafe yalnızca Ekvator’da 111 km olup kutuplara gidildikçe azalır.
+- Meridyenlerin uzaklıkları aynı paralel üzerinde birbirine eşittir.
+- Aralarında 4 dakikalık zaman farkı vardır.
+- 180’i Batı, 180’i Doğu Yarım Küre’de olmak üzere toplam 360 meridyen vardır.
+- Aynı meridyen üzerinde tüm noktaların yerel saatleri aynıdır.
+Aynı boylam üzerindeki noktalarda;
+Yerel saat, saat dilimleri, Başlangıç Meridyeni ile aralarındaki zaman farkı, güneşin en tepe noktasına geldiği an, ekinoks tarihlerinde Güneş’in doğuş ve batış saatleri aynıdır.
+Ancak Başlangıç Meridyeni ile olan mesafe ile ekinoks tarihleri dışında güneşin doğuş ve batış saatleri farklıdır.
+Her Noktada Ayrı Bir Saat: Yerel Saat
+Güneş, herhangi bir yerde tam tepe noktaya geldiğinde saat 12.00 olarak kabul edilir. Buna göre hesaplanan saate yerel saat denir. O hâlde her noktanın kendine has bir saati vardır.
+Yerel Saat Hesaplamaları
+Meridyenlerden faydalanarak yerel saat hesaplamaları yapılabilir.
+Ulusal (Ortak) Saat
+Ülkeler kendi sınırları içinde ticaret, ulaşım, haberleşme gibi hizmetlerin yürütülmesinde karışıklık çıkmaması için ülke içinden geçen bir meridyenin yerel saatini ortak saat olarak seçerler. Örneğin Türkiye, ortak saat için 30° doğu meridyenini esas alır.
+Doğu - batı doğrultusundaki uzunluğu fazla olmayan Türkiye’de bir tek ulusal saat kullanılır. Doğu-batı doğrultusundaki uzunluğu fazla olan ülkeler birden fazla ulusal saat kullanır.
+30° doğu boylamında gün içinde Güneş tam tepe noktaya geldiğinde yerel saat 12.00 dir. 45° doğu boylamında ise yerel saat 13.00 tür. Kış döneminde Türkiye 30° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat geri alınır. Yaz döneminde ise Türkiye 45° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat ileri alınır.
+İlk defa Birinci Dünya Savaşı sırasında Almanlar gün ışığından daha fazla yararlanmak amacıyla ileri saat uygulamasını başlattılar. Almanya’yı örnek alan diğer ülkeler de benzer uygulamalara gittiler. Türkiye’de de, 1978 yılında bu uygulamaya geçildi.
+Uluslararası Saat Dilimleri
+İletişim hizmetlerinin gelişmesi ile beraber uluslararası ilişkilerin sağlıklı yürütülebilmesi için uluslararası saat dilimleri belirlenmiştir. Bunun için başlangıç meridyeninin 7°30‘ batısı ve 7°30‘ doğusu 0. saat dilimi olarak kabul edilmiştir. 7° 30' doğu meridyeninden 15'er meridyen doğuya doğru gidildikçe bir sonraki ortak saat dilimine geçilmiş olur. Yani 7° 30’ doğu meridyeni ile 22° 30' doğu meridyenleri arası 1. saat dilimini oluştururken, 22° 30' doğu ile 37° 30' doğu meridyenleri arası 2. saat dilimini oluşturur. Bu şekilde her 15 meridyen bir saat dilimi kabul edilip sürekli doğuya doğru devam edildiğinde 22° 30' batı ile 7° 30' batı meridyenleri arasında 23. saat dilimine ulaşılmış olur. 0. saat dilimi, 24. saat dilimidir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Robinson projeksiyonu</DOCTITLE>
+<TEXT>
+
+Robinson projeksiyonu, ABD'deki Wisconsin Üniversitesi coğrafya bölümünden Arthur H. Robinson tarafından 1963 yılında dünya haritaları için yeni bir projeksiyon olarak geliştirilmiş olup 1974 yılında yayımlanmıştır.
+Robinson projeksiyonu, ne alan ne açı ne de uzunluk koruyan silindirik bir projeksiyondur. Ancak her üç deformasyon da minimum düzeydedir. Paraleller paralel doğrular şeklinde izdüşürülür. Meridyenler ise bunları kesen eğriler biçiminde gösterilir. Dünya haritalarında deformasyonlar açısından oldukça uygun bir gösterim sağladığından "doğru görünüşlü" (orthophanic) olarak nitelendirilir. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Boylam</DOCTITLE>
+<TEXT>
+
+Boylam, başlangıç meridyeninin doğusundaki veya batısındaki herhangi bir noktanın açısal mesafesi. Boylamlar, doğu ve batı boylamları olmak üzere ikiye ayrılırlar; derece, dakika ve saniye cinsinden ifade edilirler. Dünya üzerindeki aynı boylama sahip noktaların birleşmesi ile oluşan yarım daire şeklindeki varsayımsal yaylara ise meridyen denir. Meridyenler bir kutuptan diğerine uzanırlar ve Dünya'yı portakal dilimi gibi dilimlere ayırırlar.
+Meridyenler, Ekvator'a dik açı yapacak şekilde yerküreyi 360 eşit parçaya bölen ve uçları kutuplarda birleşen, yay şeklindeki varsayımsal çizgilerdir. Her meridyen, bir büyük çemberin yarısıdır ve tüm meridyenler aynı uzunluktadır. Zaman zaman meridyen kavramı herhangi bir boylamdan ve kutuplardan geçen "tam" çember anlamında kullanılır. Karışıklıkları önlemek açısından bu yazıda meridyen sözcüğü her zaman yarım çember anlamında kullanılacaktır.
+Başlangıç meridyeni ve antimeridyen.
+İngiltere'nin Greenwich gözlemevinden geçen meridyen, başlangıç meridyeni kabul edilir ve 0 derece olarak gösterilir. Doğusunda kalan yerlere doğu yarımküre, batısında kalan yerlere batı yarımküre denir. Başlangıç meridyeninin 179 doğusunda, 179 batısında ve tam karşısında (180. meridyen) olmak üzere toplam 360 meridyen yayı vardır. 0 (Greenwich) ve 180 derece meridyenleri karşı karşıyadır ve birbirini daireye tamamlar. Bu nedenle 180. meridyene "antimeridyen" de denir.
+Mesafe ölçümü.
+Meridyenler "üzerindeki" (iki paralel arasındaki) her 1 dakikalık açı 1 deniz miline (1852 m) eşittir. 
+Herhangi bir harita üzerinde iki nokta arasındaki mesafe ölçülürken, harita projeksiyonlardan kaynaklanan hataları minimum düzeye indirmek için, iki nokta arasındaki doğrunun uzunluğu, ortasından geçen bir meridyen üzerindeki açılar ile kıyaslanır. Örneğin iki nokta arasındaki mesafe bir pergel ile ölçülüp doğru üzerindeki bir meridyenle (mümkünse tam ortadaki) kıyaslandığında 10 dakikalık açıya denk geliyorsa, o iki nokta arasındaki gerçek mesafe yaklaşık olarak 10 deniz milidir.
+Paraleller üzerindeki dakika aralıkları -ekvator haricinde- meridyenler ile aynı olmadığından mesafe hesaplaması için kullanılmaz.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Teknik resim</DOCTITLE>
+<TEXT>
+
+Teknik resim, bir şeyin nasıl çalıştığını veya üretildiğini anlamak üzere yapılan çizim. Mühendisler arasındaki iletişimi en kolay ve en doğru şekilde sağlaması açısından büyük öneme sahip teknik bir alfabedir. Temelde doğrular ve eğrilerin çeşitli şekillerde bir araya gelmesiyle oluşan teknik resim, yapılması istenen konstrüksiyon ve tasarımın kâğıt üzerinde tanımlanması sanatıdır.
+Teknik resim, tasarımdan üretime, pazarlamadan kullanıma kadar bir ürünün başından geçen her aşamada ilgili kişilere yol gösterir. Teknik resim, ürünün malzemesini, nasıl imal edileceğini, boyutlarını, toleranslarını, yüzey kalitesini, sertlik değerlerini, ısıl işlemini vb. tüm imalat yöntemlerini daha sonrasında ürünün montajını, taşınmasını ve hatta kullanımını belirli kurallar ve standartlar çerçevesinde anlatır.
+Daha önceleri çeşitli takımların (cıvata, somun ve sembol şablonları,aydınger kağıdı,iletki(minkale),gönyeler,kurşun kalemler, silgiler, resim kâğıtları, çini mürekkebi, resim masası, resim tahtası,cetvel, daire şablonu,pistole'ler(yay cetvelleri), yazı şablonları, rapido takımı, T cetveli (85 veya 100 cm), pergel takımı vs.) yardımıyla el ile çizilen teknik resimler, gelişen teknolojiye ayak uydurmuş ve günümüzde büyük bir oranda bilgisayarlarda CAD (Computer-Aided Design) programları yardımıyla çizilmektedir.
+CAD (Bilgisayarlı Tasarım).
+Solid Edge 2D Drafting ücretsizdir.Yani çizim masasından kalkıp bilgisayara geçmek istiyorsanız hemen indirin-kurun-çizin.Solid Edge 2D Teknik resim programı parametrik yapıya sahiptir.kullanımı son derece kolaydır.
+En yaygın çizim programı AutoCAD'dir. Ancak katı modelleme (3 boyutlu çizim) kabiliyetleri gelişmiş değildir. Bu tür çizimler için Sketchup, CATIA,UGNX ,Solidworks, Autodesk Inventor Solid Edge ve PRO/ENGINEER gibi programlar kullanılır.Gümümüzde kullandığımız birçok araç ve alet bu programlarla tasarlanmaktadır.
+AutoCAD ile sayılan diğer programlar arasındaki fark, 3 boyutlu çizim kabiliyetlerindeki gelişmişlikten çok parametrik(ölçülerin ve çizimlerin geri dönüşümlü değiştirilebilinirliği) olup olmamalarından kaynaklanmaktadır. AutoCAD bir parametrik çizim programı değildir.
+CAM (Bilgisayarlı Üretim).
+Bu tip çizim ya da modelleme programları sayesinde günümüz teknolojik koşulları çerçevesinde CNC tezgahlarda üretim yapılmaktadır. Bu tür uygulamalar için CAM (Computer Aided Manufacturing) programları kullanılmaktadır.
+Teknik Resimde Kullanılan Araçlar.
+T cetveli.
+T cetveli, teknik resimde kullanılan, boyu 75 ile 100 cm arasında olan bir mühendislik cetvelidir.
+Günümüzde T cetvelininde yerini Paralel'ler almıştır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Coğrafya</DOCTITLE>
+<TEXT>
+
+Coğrafya, insanlar ve yer (mekân) ile bunlar arasındaki ilişkiyi inceleyen bir bilim dalıdır Yer ve insanlar arasındaki ilişkiler coğrafyanın konusunu oluşturur. Coğrafya sözcüğü Yunanca "gaia" (yer) ve "gráphein" (yazmak, betimlemek) sözcüklerinden türemiştir. Türkçesi Yerçizim sözcüğüdür. 
+Gress ve Leinhart (1994), coğrafyayı 4 özellikle karakterize edilen bir disiplin olarak tanımlamaktadırlar. 
+Bu dört özellik birbiri ile çok çeşitli yollardan etkileşim içindedir. Bunlardan ilk üçü coğrafyanın dayanak ilkeleridir. Sonuncusu ise coğrafî araştırmalar sonucu elde edilen bilgilerin söylenişidir.
+Coğrafyanın bu değişik yönleri arasındaki etkileşim, onu tanımlama amaçlı olarak kesin çizgilerle bölünmesini zorlaştırır. Coğrafi beceriler, yerler , fizikî, beşerî ve çevre coğrafyası biçiminde bir bölümleme, bunlardan bir veya iki alanın coğrafya eğitiminin çeşitli basamaklarında yer alması; öğrencinin çeşitli alanlar arasındaki ilişkiyi anlamasının engellenmesi şeklinde bir sonuç doğurabilir.
+Coğrafya, bazı yeteneklerin gelişimini ve kavramların anlaşılmasını içerir. Bu kavram ve yetenekler ise fizikî çevre (ortam), beşerî çevre ve bunlar arasındaki ilişki ile ilgilidir.
+Coğrafi bilgi.
+Coğrafi Bilgi, bir coğrafi varlık hakkındaki bilgidir. Yersel bilgi türüdür. Bu bağlamda Yer mekânsal bilgi olarak da adlandırılır. Coğrafi Bilgi, birbirleriyle bağlantılı üç ayrı bilgiden oluşur:
+Araştırma dalları.
+Fiziki coğrafya ve Beşeri coğrafyadır. Fiziki coğrafya yeryüzünün fiziksel özellikleri (yer, su, hava ve canlılar) ile ilgilenirken beşeri coğrafya bu fiziksel özelliklere göre şekillenmiş insan yaşayışı, ekonomisi gibi toplumsal konularla ilgilenmektedir.
+Coğrafi olaylar.
+Deprem, Sel, Lav, Fay hattı, Çığ, Toprak kayması, Tsunami, Yanardağ, Kaynaç, Erozyon, Yanardağ set gölü, Magma, Magmatik kayaçlar, Tortul kayaçlar
+Yerleşim birimleri.
+Mahalle, Köy, Kasaba, Belde, Bucak, Semt, İlçe, İl, Ülke
+İnsanoğlu tarafından yapılan coğrafya değişiklikleri.
+Tepe, Set, Baraj, Bent gölü, Kurutulmuş arazi, Sulama, Tarla, Çayır, Tünel, Bent, Köprü, Su kemeri, Yol,Tünel, Tarım
+Siyasi.
+Koridor, Anklav, Eksklav, Göç
+Geçmiş.
+Diğer bütün bilimler gibi coğrafya'da gereklilik sebebiyle ortaya çıkmıştır. Eski çağlarda Mısır uygarlığında verimli toprakların nerede olduğu ve nasıl kullanılacağı gibi konular ayrıca her yıl gerçekleşen sellerin sonuçlarını bulmak ve zararlarını en aza indirmek için coğrafyayı kullanmışlardır. Dönemin göçebe toplulukları ise su kaynaklarını, yerleşecekleri yerleri ve yolları bulabilmek için kolay haritalar yapmışlardır.
+Eski Yunanlılar ise verimli alanların kıtlığından dolayı denizcilikle ilgilenmiş ve bu alanda coğrafyayı geliştirmişlerdir. Miletoslu Hekataios'un İÖ 500'de yazdığı kitabın ilk coğrafya yapıtı olduğu varsayılır.Ayrıca Klaudios Ptolemaios'un "Geographike hyphege-sis" kitabında harita yapım yöntemlerinden bahsetmiş ve bu alanda coğrafyaya büyük katkıda bulunmuştur. Eratosthenes, Surlu Marinus ve Ptolemaios da bugün kullandığımız paraleller ve meridyenlerden oluşan düzenin gelişmesine katkıda bulunmuşlardır.
+Karakteristik olarak yayılmacı olan Roma İmparatorluğu döneminde coğrafya daha çok askeri amaçlar için kullanıldı ve geliştirildi. Coğrafi şartların savaş üzerindeki etkileri bağlamında yer ve hava incelemelerinde bulundular ayrıca haritacılıkta askeri alanda geliştirildi.
+İslam dünyasında ise İbn Havkal'ın 10. yüzyılda yazdığı "el-Mesalik ve'l-Memalik" (Yollar ve Ülkeler), 9. yüzyılda Belhî'nin yazdığı "Suverü-l-Ekâlim" (İklim Türleri), 10. yüzyılda El-Mesûdî'nin yazdığı "el-Müru-çü'z-Zeheb" (Altın Çayırlar) ve 14. yüzyılda İbn Battuta'nın yazdığı "Tuhfetü'n-Nuzzarfi Garaibi'l-Emsar" adlı yapıtlar öne çıkmaktadır. Ayrıca İslam dünyası tarafından geliştirilen 360 dereceli düzen haritacılıkta hâlâ kullanılmaktadır.
+Pusulanın Avrupa'ya geçmesi sonucunda uzak diyarlara yolculuklar başladı ve yeryüzü hakkında daha geniş bilgiler edinildi. Kristof Kolomb, Vasco da Gama, Amerigo Vespucci, Cabot ve Macellan keşifleriyle haritalar zenginleşti.Anversli Abraham Ortelius 1570'te ilk yeryüzü atlasını yaptı.
+1700'lü yıllardan sonra coğrafya yöntem ve biçim olarak daha bilimselleşti. Teleskop ve kronometrenin (süreölçer) bulunuşuyla coğrafi bilgilerin güvenilirliği ve hesapların kolaylığı sağlandı.
+1800'lü yıllarda ise coğrafya doğabilimci Alexander von Humboldt Alman bilim adamı ile tarihçi Carl Ritter tarafından akademide ders olarak verilmeye başlandı. Humboldt'un "Cosmos" (Evren), Ritter'in "de Die Erdkunde" (Coğrafya) adlı yapıtlarında coğrafya bilgisini düzenli biçimde düzenlemeye çalışarak modern coğrafyanın dayanaklarını attılar.
+A. von Humboldt fiziki coğrafyanın C. Ritter ise beşeri coğrafyanın kurucusu olarak kabul edilir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vietnam Savaşı</DOCTITLE>
+<TEXT>
+
+Vietnam Savaşı ya da İkinci Çinhindi Savaşı, Doğu Bloğu ülkeleri olan Kuzey Vietnam, Çin Halk Cumhuriyeti ve Sovyetler Birliği ile ABD destekçisi olan anti-komünist Güney Vietnam ve başta ABD arasında yaşanan savaştır. Kore Savaşı'ndan sonra Soğuk Savaş'ın ikinci sıcak çatışması olmuştur. ABD birlikleri 1963 yılından 1973 yılına kadar savaşa dahil olmuş ve 60.000 kadar askeri ölmüştür. 
+Viet Minh'in Kuruluşu.
+Çinhindi; İngiliz ve Fransız sömürgesiydi. III. Napolyon döneminde Fransızlar Annam, Kamboç, Koşen ve öteki bazı bölgeleri ellerine geçirmişler ve bu arada Hindistan ve Birmanya yoluyla Çinhindi'ne giren İngilizlerle Mekong'da çatışmışlar ve sonunda bu akarsuyu sınır yapmışlardır. 
+II. Dünya Savaşı'nda Çinhindi, Japonya'nın eline geçti. Bu devlet, 1945 yılında yenileceğini anlayınca buradaki milliyetçi duyguları körüklemiş ve bölge halkını silahlandırmıştır. Çinhindi'nde üç bağımsız devletin (Vietnam, Laos ve Kamboçya) kurulduğunu ilan ederek Vietnam'ı İmparator Bao Dai'nin yönetimine bırakmıştır. 
+1945 yılında Fransız Çinhindi'ne gelen ilk birlikler İngiltere'ninkilerdi. Bunlar Saygon'a geldiklerinde durumu karışık buldular. Çünkü, milliyetçi gruplar savaş sonu düzensizliğinden yararlanarak denetim kurmak için çaba gösterirken,1946 yılının sonuna gelindiğinde "Hür Fransa"ya bağlı birlikler de bölgedeki Fransızların hayatını korumak için mücadeleye başlamışlardı.
+Truman ve Vietnam.
+Truman domino teorisi uyarınca Vietnam'da komünist bir iktidarın çevre bölgelere sıçrayacağını düşünerek bunu engellemek istemiştir. Truman'ın başkan olduğu dönemde, Fransızlar Vietnam'da hakim durumdaydı ve Ho Chi Minh liderliğindeki komünistlere karşı savaş vermekteydiler. ABD ise Fransa'ya cephane yardımında bulunuyordu.
+Eisenhower ve Vietnam.
+Dwight Eisenhower döneminde Fransızlar Vietnam'dan çekilmişti ve Vietnam'da Komünistler ve milliyetçiler arasında iç savaş vardı. ABD de Fransa Vietnam'dan çekilince, Birleşmiş Milletler'le beraber, 17. paraleller sınır olmak üzere Kuzey ve Güney olarak ikiye ayrılmasını sağlamıştır. O dönemde Eisenhower'ın politikası barışçıl yollarla çözüldü. Eisenhower, başkanlığı döneminde her zaman barışçıl bir politika yürütmüştür; öte yandan Vietkong (komünist gerillalar) Güneye saldırınca bölgeye asker göndermiş ancak bu askerler sadece Güney askerlerini eğitmek amacıyla orada bulunmuş, herhangi bir mücadeleye girmemişlerdir. John F. Kennedy döneminde asker sayısı 16 bini aşmış ancak yine mücadaleye girmemişlerdir. Başkan Lyndon Baines Johnson ve Richard Milhous Nixon döneminde mücadeleye girmiştir.
+SEATO'nun Kurulması.
+Dünyadaki birçok yerde, II. Dünya Savaşı sonrasında ortaya çıkan alt-bölgesel örgütlerin büyük bir çoğunluğu ise, sıkı iki kutuplu sistemde batı blok lideri ABD’nin, doğu blok lideri SSCB’yi çevreleme politikası doğrultusunda oluşturulmuşlardır. 1949 NATO, 1954 Balkan İttifakı, 1955 Bağdat Paktı örgütleri ile müttefiklerden bir hat oluşturma yolundaki stratejinin Uzakdoğu ayağını da, 1954 yılında kurulan Güneydoğu Asya Antlaşması Teşkilatı (SEATO) oluşturmuştur.
+Tırmanma.
+Vietnam'ın 20. yüzyıl tarihinin otuz senesinde savaş hüküm sürdü. Komünistlerin Fransız koloni kuvvetlerine karşı 1945'te başlattıkları mücadele, Saygon ve ülkenin tamamının kontrolünün 1975'te ellerine geçmesine dek sona ermedi. Kuzeyde mevzilenmiş komünist güçler, komünist lider Ho Şi Minh liderliğinde 1954 yılında Fransızları bozguna uğrattılar. Ülke, yapılan anlaşmalarla komünist kuzey ve Amerikan yanlısı güney olmak üzere ikiye bölündü, arada askerden arındırılmış bir bölge vardı. Kalıcı bir çözüm için ülke çapında seçim sözü verildi ama bu asla gerçekleşmedi. Beş yıl içinde komünistler, güneyde gerilla savaşı başlattılar.
+1964 Brinks Hotel bombalı saldırısı sonrası ABD başkanına bombalama seçeneği sunulsa da başkan bunu reddetti, fakat 1965 yılında Kuzey Vietnam devriye botlarının Tonkin Körfezi'nde seyretmekte olan Amerikan savaş gemisi 'Maddox'a ateş açmış olmaları gerekçe gösterilerek Amerika da Kuzey'i bombalamaya başladı. Bu saldırı hikâyesi sadece Kuzey'i bombalamak gibi bir avantaj sağlamakla kalmadı, ABD Kongresi'nin, Başkan'a yeni yetkiler veren 'Tonkin Körfezi Kararnamesi'ni onaylamasını da sağladı. Buna göre, Amerikan başkanı saldırganları püskürtecek ve yayılmasını engelleyecek her türlü yetkiyle donatılmış bulunuyordu. Amerika'nın Vietnam Savaşındaki komploları bundan ibaret değildi. Kasım 1963'te Güney Vietnam devlet başkanı Diem askeri bir darbe sırasında öldürüldü. Bu cinayetin ABD istihbarat örgütü CIA tarafından işlendiği sonra kanıtlandı. 
+Komünistlerle savaşmak üzere bölgeye yüz binlerce Amerikan askeri gönderildi. Bu, nihayetinde pahalı ve başarısız olacak, sivil huzursuzluğa ve uluslararası şaşkınlığa yol açacak bir süreçti. Amerika Birleşik Devletleri bilhassa domino teorisine dayanarak komünizmin yayılacağı yönündeki Soğuk Savaş kaygısıyla hareket etmişti.
+Vietnam savaşı çok çetin geçtiği kadar iki tarafın da birbirine acımadığı bir savaş olarak akıllara kazınmıştır. Vietkonglar akla gelebilecek her türlü işkenceyi ele geçirdikleri Amerikan askerlerine yapmaktan geri kalmamış, keza Amerikan askerleri de yakaladıkları Vietkonglar'ı diri diri helikopterle alçaktan (ölümleri geç ve can çekişerek olsun diye) atmışlardır. Toplu halde yapılan işkenceler, insanları canlı canlı yakmalar, biyolojik saldırılar, napalm bombaları, köy baskınları, toplu cinayetler ve yağmalar sıradan hale gelmiştir.
+ABD'den 19.000 km uzakta cereyan eden savaş, televizyon sayesinde Amerikalıların oturma odalarına taşınmıştır. Savaş görüntüleri olarak ölen, yaralanan, acı çeken asker görüntüleri, savaş sırasında mağdur olan sivil halkın durumu, özetle kan ve gözyaşı, insanları savaştan soğutmuş ve böylece ABD kamuoyunun savaşa olan desteği her geçen gün azalmıştır. Zaten, 1960'lardan itibaren Vietnam Savaşı yaygın halk muhalefetini ortaya çıkartmış ve Amerikalı gençler arasında haksız bir savaşa karşı bir duruş ortaya çıkmıştı. 1970’lere gelindiğinde ise nüfusun %60'ı savaş karşıtı olmuştur.
+Ülkenin dağlık orta bölgelerinde bir kasaba olan Buon Ma Thuot'nın ele geçirilişiyle savaşın kaderi değişmiş ve Kuzey Vietnam güçleri iyice güçlenmiş ve moral kazanmış, ve nihayet iki ay sonra 30 Nisan 1975 tarihinde Güney'in başkenti olan, o zamanki adıyla Saygon'a girmiştir.
+'Vietnam Savaşı' uzun ve kanlı bir savaş oldu. Hanoi hükümeti, 21 yıl süren çatışmalarda Kuzey ve Güney'de toplam dört milyon sivil ile bir milyondan fazla komünist savaşçının hayatını kaybettiğini söylüyor.
+ABD'nin verilerine göre ise , 220 ile 320 bin Güney Vietnamlı asker ile 60 bin Amerikan askeri öldü ya da kayboldu.
+Saygon artık bugünün Vietnam'ının kurucusu ve o savaşın kahramanı ve lideri Ho Şi Min'in adını taşıyor.
+Sonuçları.
+Vietnam 1,5 milyon yurttaşını ve zehirlenerek kullanılamaz hale gelen topraklarının üçte birini yitirmesine rağmen savaştan galip çıktı. Amerikalılar ise bölgede 58 bin ölü bırakırken, savaş sonrası Vietnam'dan ülkelerine dönen askerlerin önemli bir kısmı da intihar ederek yaşamlarına düşman kurşunlarıyla değil de kendi elleri ile son verdiler. Amerika ayrıca savaş boyunca, yarısına yakınının Vietnam uçaksavarları tarafından düşürüldüğü 2196 hava aracını da yitirdi. Vietnam Savaşının başlangıcında Çin-Sovyet ilişkilerinin düzeleceği varsayılıyordu. Fakat algı farklılıkları ilişkilerin daha da bozulmasına sebep olmuştur. Sovyet-Çin farklılıklarının derinleşmesi, çok kutupluluğu güçlendirerek yumuşama sürecinin hızlanmasına sebep olmuştur. Böylece, ABD'nin Vietnam'ı bölme planı suya düşerken, Kuzey Vietnam ve Güney Vietnam 1975 yılında birleştiler.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dişli döşemeler</DOCTITLE>
+<TEXT>
+
+Dişli döşemeler; sık kirişlerden oluşan döşeme sistemidir. Bir doğrultu da veya her iki doğrultuda yük taşıyan modellemeleri mevcuttur.
+Tek doğrultuda çalışan dişli döşemeler.
+Dişlerin boyutlandırmasına başlamadan önce kalıp planının çizilmesi önemlidir. Bu hesaplarda alınacak değerler hakkında bir önfikir kazanılmasına yardımcı olur. Dişleri taşıyan kirişler, dişlerdeki kirişçiklerden yatay yük ve deprem etkisi altında daha çok zorlanırlar. Bu nedenle dişlerin bağlandığı kirişlerin, dişlerden daha büyük boyutlarda seçilmesi daha uygun olur.
+Dişli döşemelerde, dişleri; döşemede uzun kenara paralel olacak şekilde yerleştirilmesi daha uygun olur. Ancak dişli döşemenin devamında da döşeme, balkon vb. bir yapı kısmı var ise, burulmaya göre en uygun yerleşim biçimi seçilmelidir.
+Çift doğrultuda çalışan dişli döşemeler.
+Diğer adı kaset döşeme olan bu döşemelerin açıklıkların ve yatay yüklerin büyük olması durumunda kullanılması uygundur. Dişlerin yükleri paylaşma durumu; paralel oldukları kenarların uzunluklarına bağlıdır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Allahuekber Dağları</DOCTITLE>
+<TEXT>
+
+Allahuekber Dağları, Türkiye'nin Doğu Anadolu Bölgesi'nin Erzurum-Kars Bölümü'nde, Sarıkamış ve Kars'ın kuzeyinde uzanan dağ sırası. 2004 yılında, Erzurum ve Kars illeri sınırları içinde bulunan, Sarıkamış Ormanları ile Allahüekber Dağlarını kapsayan alan Sarıkamış Allahüekber Dağları Milli Park'ı olarak belirlendi.
+Kars Çayı havzasını Kura Nehri havzasından ayırır. En yüksek doruğu Allahuekber Tepesidir (3.120 m). Kuzeydoğu Anadolu kıvrım sisteminin bir uzantısı olan Allahuekber Dağları güneybatı-kuzeydoğu doğrultulu çeşitli çöküntüler arasında aynı doğrultuda düzenli bir dağ sırası oluşturur. 
+Doğal yapı.
+Temelinde İkinci Zamandan (yaklaşık 225-65 milyon yıl önce) kalma yeşil kayaçlar bulunur. Çevresinde Oligosen Bölümde (y. 38-26 milyon yıl önce) meydana gelmiş tuzlu, jipsli tortul kütleler yer alır. Bunların üzerinde ise birçok yerde geniş bazalt platoları oluşturan bazalt lavlar uzanır. Bu plato yüzeyi kütlenin batısında Bardız Çayı tarafından 500 m kadar yarılmıştır. Kütle ayrıca kuzeyde Oltu Çayının kolları, güneyde ise Kars Çayının kollarıyla derin biçimde yarılmıştır. Bu yarılmalar sonucunda jeolojik yapıya göre "U" ve "V" biçiminde derin vadiler oluşmuştur. Vadilerin yamaçlarında sarp diklikler halinde yükselen bazalt kornişleri gözülür. İklimin sert karasal özelliğinden kaynaklanan günlük aşırı ısı farkı, kuvvetli mekanik parçalanmalara yol açar. Bu nedenle, yamaçlar boyunca eğime bağlı olarak dökülen kaya bloklarına ve taş akıntılarına rastlanır. Düz bazalt platoları üzerinde geniş alanlara yayılmış büyüklü küçüklü bazalt parçalar, oldukça ilginç bir görünüm yaratır.
+Allahuekber Dağlarının aşağı yamaçlarında genellikle step türlerinden oluşan otsu bir bitki örtüsü göze çarpar. Bunlar arasında, tuzlu ve jipsli kayaların oluşturduğu topraklarda yer yer tuzcul bitkilere de rastlanır. 2.000-2.700 m arasındaki yükseltilerde bazalt lavları üzerinde gelişmiş sarı çam ormanları dikkati çeker. Ama bu ormanlar büyük ölçüde tahribata uğramış ve seyrelmiştir. 2.700 m'nin üzerinde ise gene bazalt lavları üzerinde yayılan ve ilkbahar ile yaz başında çok renkli çiçekleriyle son derece güzel bir görünüm oluşturan Alp tipi çayır kuşağı bulunur. Kuzeydeki yüksek kesimlerde Alp tipi çayır alanı içinde yer alan 39 yayla vardır. Hayvancılık açısından büyük önem taşıyan bu yaylalarda Hazirandan Eylüle değin mandıracılık yapılır. 
+Sarıkamış Harekâtı.
+"Ana madde: Sarıkamış Harekâtı"
+I. Dünya Savaşı sırasında Sarıkamış Harekâtı'nda Allahuekber Dağlarını aşmaya çalışan Türk kolorduları, şiddetli kar yağışı ve tipi nedeniyle büyük kayıplar vermiştir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Orta Doğu</DOCTITLE>
+<TEXT>
+
+Orta Doğu ya da Ortadoğu, Asya, Avrupa ve Afrika'nın birbirlerine en çok yaklaştıkları yerleri kapsayan ve birbirine komşu ülkelerin oluşturduğu bölge. Akdeniz'den Pakistan'a kadar uzanır ve Arap Yarımadası'nı kapsar. Orta doğu kavramı Avrupa merkeziyetçi yaklaşıma dayanır ve Britanyalıların 19. yüzyıla kullanmaya başladıkları bir kavramdır. Bu tanımlamada İngiltere ve Avrupa ülkeleri merkez kabul edilmiş; doğu, Uzak Doğu, Yakın Doğu, Orta Doğu gibi kavramlar buna göre tayin edilmiştir .
+Bu tanıma göre Orta Doğu ülkeleri Suriye, Irak, Katar, Kıbrıs, Ürdün, İsrail, Lübnan, İran, Filistin, Suudi Arabistan, Birleşik Arap Emirlikleri, Umman, Kuveyt, Bahreyn, Yemen, Mısır, Afganistan, Pakistan, Tunus, Cezayir, Libya, Sudan, Fas'tır.
+Ortadoğu kavramının öncülü Fransızların, Osmanlı Devleti‟nin toprakları için kullandığı “Yakın Doğu” tabiridir. 20. yüzyılın başlarına kadar sık sık kullanılmıştır. İngiltere‟nin 19. yüzyıldan itibaren Hindistan ve Çin‟in zenginliklerine yayılması da “Uzak Doğu” kavramının kullanılmasına neden olmuştur. Bu iki kavram batılı devletler için yeni bir bölgesel tanımlama ihtiyacını ortaya çıkarmıştır. Bu doğrultuda İngilizler, Yakın Doğu terimine karşılık, Osmanlı Devleti toprakları içerisinde kalan ve Uzak Doğu‟ya geçişte önemli bir atlama taşı olan bölge için “Ortadoğu” terimini kullanmaya başlamıştır. 
+Ortadoğu, Doğu ile Batıyı, Akdeniz ile Hint Okyanusu‟nu, Rusya ile sıcak denizleri birbirine bağlayan, aynı zamanda Doğu ile Batı arasındaki bütün ticarî ve kültürel bağlantıların yapıldığı bir bölgedir. Yeryüzünün en önemli kara ve suyollarını kumanda etmesinin kendisine kazandırdığı eşsiz jeopolitik değer, Ortadoğu‟yu tarihin ilk dönemlerinden bu yana dünya egemenliği peşinde koşan güçlerin birincil hedefi haline getirmiştir.“Kara altın” olarak tanımlanan petrolün 20. yüzyılın ilk yarısından itibaren değer kazanmasıyla Ortadoğu‟nun, dolayısıyla buradan geçen kara ve deniz yollarının stratejik önemi dünyanın hiçbir yeriyle kıyaslanamayacak derecede artmıştır.
+Yakın Doğu ve Orta Doğu kavramlarının karşılaştırılması.
+Orta Doğu, batılı devletler tarafından bazen Yakın Doğu olarak adlandırılır. Oysa ki Yakın Doğu, Orta Doğuyla beraber Balkanları da kapsamaktadır. 
+Bu adlandırmadaki değişiklik, Osmanlı İmparatorluğunun yıkılmasıyla başlamıştır. Osmanlı İmparatorluğu döneminde Balkanların Osmanlı egemenliği altında olması ve farklı bir kültür motifini barındırması nedeniyle, Balkanlar ve Doğu Akdeniz sahilleri "Yakın Doğu", mezapotamya dahil olmak üzere mezopotamya ile Hindistan arasındaki bölge "Orta doğu" olarak adlandırılmaktaydı.
+Balkanlar'da özgür devletlerin ortaya çıkması "ötekiler" kavramını ortadan kaldırmış ve Yakın Doğu kavramının yaygın olarak kullanılmamasına yol açmıştır. Yakın doğu kavramının kullanılmamaya başlanmasıyla Orta Doğu kavramı, Hindistan arasındaki bölge için kullanılmaya başlanmıştır.
+
+</TEXT>
+</DOC>
+

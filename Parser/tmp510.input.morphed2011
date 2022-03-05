@@ -1,0 +1,57 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ortamda	orta	+Noun+A3sg+P1sg+Loc
+Ortamda	ortam	+Noun+A3sg+Pnon+Loc
+
+çözünmüş	çöz+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Narr+A3sg
+çözünmüş	çöz+Noun+A3sg+Pnon+Gen^DB+Verb+Zero+Narr+A3sg
+çözünmüş	çözün+Verb+Pos+Narr+A3sg
+çözünmüş	çözün+Verb+Pos^DB+Adj+NarrPart
+
+maddelerin	madde	+Noun+A3pl+Pnon+Gen
+maddelerin	madde	+Noun+A3pl+P2sg+Nom
+
+hücre	hücre+Noun+A3sg+Pnon+Nom
+
+zarına	zar	+Noun+A3sg+P3sg+Dat
+zarına	zar	+Noun+A3sg+P2sg+Dat
+
+yaptığı	yap	+Verb+Pos^DB+Adj+PastPart+P3sg
+yaptığı	yap	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+basınca	bas	+Noun+A3sg+P3sg+Equ
+basınca	bas	+Noun+A3sg+P2sg+Equ
+basınca	bas	+Verb+Pos^DB+Adverb+When
+basınca	basın+Noun+A3sg+Pnon+Equ
+basınca	basınç+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

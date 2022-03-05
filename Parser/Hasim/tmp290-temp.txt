@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Meskenlerde mesken+Noun+A3pl+Pnon+Loc
+kullanılan kullan+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+malzeme malzeme+Noun+A3sg+Pnon+Nom
+seçiminde seçim+Noun+A3sg+P2sg+Loc seçim+Noun+A3sg+P3sg+Loc
+neler ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl ne+Pron+Ques+A3pl+Pnon+Nom
+etkili etki+Noun+A3sg+Pnon+Nom^DB+Adj+With
+olmaktadır ol+Verb+Pos+Prog2+A3sg+Cop ol+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

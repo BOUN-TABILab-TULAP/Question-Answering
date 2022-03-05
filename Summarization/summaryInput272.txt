@@ -1,0 +1,289 @@
+Question: Termik basınç alanları nasıl oluşur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rüzgâr</DOCTITLE>
+<TEXT>
+
+Rüzgâr, atmosferdeki havanın Dünya yüzeyine yakın, doğal, çoğunlukla yatay hareketleridir. 
+Hava hareketlerinin temel sürücüsü, atmosfer basıncının bölgeler arasında farklı değerlerde bulunmasıdır. Rüzgâr, alçak basınçla yüksek basınç bölgesi arasında yer değiştiren hava akımıdır, daima yüksek basınç alanından alçak basınç alanına doğru hareket eder. İki bölge arasındaki basınç farkı ne kadar büyük olursa, hava akım hızı o kadar fazla olur. Rüzgâr sahip olduğu hıza göre esinti, fırtına gibi isimler alır.
+Rüzgârın yönü rüzgâr gülü, hızı ise anemometre ile ölçülür. Anemometre, rüzgârın bir pervaneyi döndürme hızından yararlanarak rüzgâr hızını gösteren basit ölçü aletidir. Yükseklerdeki rüzgârlar, balonlar yardımı ile ölçülmektedir. Yükselme hızı bilinen balonlar belli yüksekliğe gelince rüzgâr hızı ile yol almaya başlar. Balonun hareketi gözlenir, Trigonometrik hesaplarla balonun birim zamanda kat ettiği yol hesaplanır ve buradan da rüzgârın hızı bulunur. Daha hassas ölçümler için balon ya radarla takip edilir veya balona bir telsiz vericisi monte edilir.
+Okyanuslardaki akımların ve dalgaların meydana gelmesinde büyük rolü olan rüzgârlar, kara şekillerinin değişmesine de neden olur. Özellikle çöllerde kumulların şekli devamlı değişir. Rüzgârların bitki sporlarını taşıyarak çiçeklerin döllenmesini sağlaması bitki neslinin devamı açısından çok önemlidir. Yeldeğirmeni ve yelkenli gemilerde gücünden yararlanılan rüzgâr orman yangınlarında olumsuz etki yaparak yangının büyümesine neden olur.
+Nedenleri.
+Yüksek basınç alanından, alçak basınç alanına akarken: 
+rüzgârın yönü ve türbülansın varlığı veya yokluğu gibi niteliklerini değiştirir.
+Rüzgâr, alçak (siklon) ve yüksek (antisiklon) alanlarda farklı özellikler taşır.
+Siklon içerisinde;
+etki eder. 
+Antisiklon içerisinde;
+Bütün bunların etkisi sonucunda rüzgâr eşbasınç çizgilerine dik olarak yoluna devam eder. Bu hatların çizilmesiyle meteoroloji haritaları elde edilir. Yüzey sürtünmeleri ve Coriolis kuvveti rüzgârın eşbasınç çizgilerine dik yönünü saptırabilir. Denizlerde bu sapma açısı 20°, karalarda ise 30° ile 45° arasında olabilir.
+Atmosferin alt tabakalarında meydana gelen rüzgârlarda, yerin ısı ve mekanik özelliklerinden dolayı türbülans oluşur. Türbülans yapmadan basınç alanları arasında dolaşan rüzgârlara, meyilli rüzgârlar denir. Eğer karadan denize doğru hafif meyilli eserse logaritmik olarak alçalan bir spiral hat çizerek ilerler. Düz bir hat yerine spiral çizilmesine yol açan kuvvet yine Coriolis kuvvetidir. Kuzey yarımkürede bu spiralin dönüşü saat ibresi yönünde, güney yarımkürede saat ibresinin tersi yönündedir. Atmosferin üst tabakalarında rüzgâr hızı saatte 400 km'ye kadar çıkabilir.
+Cinsleri.
+Bölgelere ve meydana geliş nedenlerine göre isimler alır.
+Atmosferin genel devridaimine bağlı olarak meydana gelen devamlı rüzgârlar;
+Yaz ve kış atmosfer basıncında ters yönde değişiklik olması ve bölgede basınç alanları arasında büyük fark olmasından meydana gelen rüzgârlara ise muson rüzgârları denir. Yazın karaya, kışın denize doğru eser. Kış musonu soğuk ve kuru, yaz musonu oldukça nemlidir.
+Rüzgârlar bulundukları bölgeye göre de özellikler taşırlar: 
+Türkiye'de Rüzgâr adları.
+Rüzgârlar estikleri yönlere göre isim alırlar. Kuzeyden esene "yıldız", güneyden esene "kıble", doğudan esene "gündoğusu", batıdan esene "günbatısı", kuzeydoğudan esene "poyraz", kuzeybatıdan esene "karayel", güneydoğudan esene "keşişleme", güneybatıdan esene ise "lodos" denir.
+Türkiye'de Marmara, Trakya, Akdeniz, Karadeniz kıyılarında genellikle kuzey ve kuzeydoğuda "poyraz" rüzgârları hâkimdir. Bu rüzgârlar bahar aylarında bol miktarda yağış getirir. İç bölgelerde kuzey ve güneyden gelen rüzgârlar hâkimdir. Güneybatıdan esen "lodos" sıcak ve bunaltıcıdır. Ege'de esen meltem rüzgârına "imbat" denir.
+yıldız, kıble vs adlar istanbul merkez alınarak konulmuş adlardır.Uluslararası literatürde yönlere göre isimlendirilir. (kuzey, kuzeydoğu, batı vs gibi) Antalya'da "Lodos" denizden karaya eser, Sinop'ta karadan denize... Lodos yön belirtir ve Güney Batı dan esen Rüzgârı tanımlar. Yani onun karadan denize mi, denizden karaya mı estiği, karanın nerede denizin nerede olduğuna bağlıdır.
+Rüzgâr.
+Yaşadığımız atmosfer, oksijen başta olmak üzere çeşitli gazlardan oluşmuştur. Gazlar hava moleküllerini meydana getirirler. Basıç değişimlerine göre bu hava molekülleri, durağan halden harekete geçerler. Bir bakıma rüzgâr, havanın yeryüzüne paralel gibi görülen ama aslında böyle olmayan bir hava harekettir. Hava, daima yüksek basınç merkezinden alçak basınç merkezine doğru hareket eder. Bu basınç farkı sonucunda rüzgâr doğar. Basınç farkının oluşma sebebeplerinin başında ısınan havanın yükselmesi gibi bilinmesi gereken faktörler vardır. Bu basınç alanları kendiliğinden oluşamazlar. Sıcaklık birinci etkendir. 
+Günlük rüzgârlar.
+Genel hava basıncının etkisiz, durgun olduğu zamanlarda gece ve gündüz arası sıcaklık farklarının yaptığı basınç farklarından oluşan rüzgârlardır. Gündüzleri karalar, denizlerden daha çabuk ısınırlar. Dolayısıyla deniz üzerinde yüksek, kara üzerinde de bir alçak basınç alanı oluşur. Bunun sonucunda denizden karaya doğru bir rüzgâr başlar. Bu rüzgâra deniz meltemi denir. Bu rüzgâr hızı, sıcaklık arttıkça artarak ve öğlen saatlerinde en fazla hızına ulaşır. hava karardığında ve güneş battığında ise tüm bunların tam tersi yaşanır. Kara daha çabuk soğuduğu için bu seferde karadan denize bir rüzgâr esmeye başlar. Buna da kara meltemi denir.
+Yerel rüzgârlar.
+Bölgelerde genelde esen hakim rüzgârlardır. Dolayısıyla bölgesel isimlerle söylenirler. Bu rüzgârlar atmosferde gezen gezici alçak ve yüksek basınç merkezlerinin yaptığı rüzgârlardır. 
+Rüzgâr yönleri.
+Türkiye'de rüzgârlar yönlere göre yandaki tablodaki gibi isimlendirilirler. Kuzeyli olan rüzgârlar (yıldız,poyraz,karayel) özellikle kış aylarında havayı soğutucu etki yaparlar. Güneyli rüzgârlarsa ısıtıcı etki yaparlar.
+Aralık ayı sonu, Ocak ve Şubat aylarınca oldukça şiddetli lodos rüzgârları görülür. İstanbul'a denizden gelen bu rüzgâr denizi kabartarak, deniz ulaşımına ve denizcilere olumsuz etki yapar. Lodos Ege ve Akdenizde de kış aylarında şiddetli eser. Yaz aylarında ise genelde kuzeyli rüzgârlar hakimdir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerküre’Nin Hareketleri (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Günlük Hareket
+Dünya, kendi ekseni çevresinde batıdan doğuya doğru dönüşünü 24 saatte tamamlar. Buna “1 gün”, harekete ise “günlük hareket” denir. Dünyanın ekseni etrafındaki dönüşüne bağlı olarak;
+•	Gece-gündüz birbirini izler
+•	Gün içerisinde güneş ışınlarının geliş açısı değişir.
+•	Cisimlerin gölge boyları ve yönü günün saatine göre değişir.
+•	Günlük sıcaklık farkları meydana gelir, bunun sonucunda meltem rüzgârları ve mekanik (fiziksel) çözülme meydana gelir.
+•	Yerel saat farkları oluşur, doğu ve batı yönleri oluşur.
+•	Her iki yarım kürede 30° ve 60° enlemlerinde dinamik basınç alanları oluşur.
+•	Sürekli rüzgarlar (Alize, Batı, Kutup) ile okyanus akıntılarının yönlerinde sapmalar oluşur.
+2.	Yıllık Hareket
+Dünya, Güneş çevresindeki dönüşünü elips biçiminde olan yörüngeyi takip ederek 365 gün 6 saatte tamamlar. Buna “1 yıl ”, harekete ise “yıllık hareket” denir. Dünya’nın güneş çevresinde elips şeklindeki yörüngeyi takip ederek dönmesine bağlı olarak;
+•	Dünya’ nın yörüngedeki hızı değişir.
+•	Şubat ayı iki gün kısa sürer.
+•	Yarım kürelerde mevsim süreleri farklı olur.
+•	Eylül ekinoksu iki gün gecikerek 23 Eylül’de gerçekleşir.
+•	Dünya, Güneş’e yaklaşıp uzaklaşır.
+Dünya, Güneş çevresinde elips biçiminde bir yörüngede hareket eder. Bu yörüngenin oluşturduğu düzleme yörünge düzlemi (ekliptik) denir.
+Buna göre yer ekseni yörünge düzlemi arasında 66° 33’lık bir açı bulunur. Bu durum nedeniyle ekvator düzlemi yörünge düzlemi arasında da 23° 27’lık bir açı oluşur. Bu açı “eksen eğikliği” olarak ifade edilir.
+Eksen eğikliği ve yıllık harekete bağlı olarak;
+•	Güneş ışınlarının bir noktaya geliş açısı yıl içinde değişir.
+•	Güneşin doğuş ve batış saatleri ile gece-gündüz süreleri yıl içinde değişir.
+•	Aydınlanma çizgisi kutup daireleri ve noktaları arasında yer değiştirir.
+•	Mevsimler arasında basınç farkları ve buna bağlı olarak muson rüzgârları oluşur.
+•	Aynı anda farklı yanm kürelerde farklı mevsimler görülür.
+•	Matematik iklim kuşakları oluşur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kuzey Atlantik salınımı</DOCTITLE>
+<TEXT>
+
+Kuzey Atlantik salınımı (North Atlantic Oscillation - NAO), Kuzey Atlantik Okyanusu'nda görülen bir fenomen. Kutuplarda açısı daralan güneş ışınlarından dolayı düşük ısı enerjisi ile deniz seviyesinde yüksek basınç alanı, ekvatoral bölgelerde ise bunun aksine yüksek ısı enerjisiyle deniz alçak basınç alanı oluşur. Bu basınç kuşaklarına bir tepki olarak alt-tropik ve alt-kutbi bölgelerde de yarı kararlı basınç kuşakları meydana gelir. Azor adaları çevresinde bir yüksek basınç - bilinen adıyla "Azor Yüksek Basıncı" veya "Azor Yükseği", İzlanda çevresinde de bir alçak basınç - "İzlanda alçağı" veya "İzlanda alçak basıncı" deniz seviyesinde ortaya çıkar. 
+Kuzey Atlantik salınım endeksi ise işte bu iki bölge arasındaki, basınç farkının uzun yıllar ortalaması ile normalize edilmiş halidir. NAO Endeks, 1920'lerde Sir Gilbert Thomas Walker tarafından keşfedilmiştir. Eğer Azor ve İzlanda'daki basınç farkı uzun yılların ortalamasına paralelse NAO indeks nötr (sıfır) ya da nötre yakın bir değer alır. Buna karşın, güneydeki Azor yüksek basıncı normalden daha yüksek ise, başka bir ifadeyle bu basınç kuşakları arasındaki fark normalden fazla ise NAO indeks sıfırın üzerinde, yani pozitif olacaktır. Uzun yılların ortalamasından daha düşük çıkarsa, negatif değer alacaktır.
+NAO'nun etkileri.
+NAO endeksin pozitif ve negatif halleri Atlantik kıyısındaki ülkeleri meteorolojik açıdan doğrudan etkilemektedir. Türkiye, Yunanistan, Ukrayna gibi ülkeler ise NAO endeksten dolaylı olarak etkilenir, yaz sezonu bu etkisi minimum düzeyde, kışın maksimum düzeydedir. 
+Pozitif pattern.
+NAO endeksinin pozitif değer alabilmesi için Azor ve İzlanda bölgelerinin normalden daha yüksek bir basınç ortalamasına sahip olması gerektiğine göre, pozitif NAO denince akla gelmesi gereken yüksek basınç alanlarının Azor Adaları ve Azor Adaları ile aynı enlemlerde bulunan coğrafik bölgelerde yoğunlaşmasıdır. Şu halde, Türkiye ve Akdeniz kuşağı daha çok yüksek basınçların etkisi altında kalacak, yağışlı günlerinde sayısı belirgin derecede azalacaktır. 
+Yüksek basınç alanları Kuzey Yarımküre'de saat yönünde dönerek spin hareketi yaptıkları için, Türkiye'nin konunçsal olarak daha çok yüksek basıncın sağ tarafında kalması yüzünden kuzeyden soğuk hava dalgalarının tekrarlanan biçimde etkisi altında kalır. Bu yüzden pozitif NAO Endeksi Türkiye için sıcaklığın normalden düşük yağışın da normalden az olacağı anlamına gelir. Pozitif patern de Türkiye'nin ve Akdeniz çanağının aksine Kuzey Avrupa normalden ılık ve yağışlı bir dönem geçirir. 
+Negatif pattern.
+Pozitif durumun aksine Türkiye, bu sefer saatin tersi yönünde dönen alçak basınçların neden olduğu bol lodoslu ve bol yağmurlu sistemlerin etkisi altında kalır. Negatif NAO'nun baskın olduğu bir kış mevsiminde sıcaklık güneyli akımlarla mevsim normallerinin çok üzerinde olacak ve Ankara, Konya gibi İç Anadolu kentlerinde bile karlı veya soğuk havalardan çok ılık ve yağmurlu günler baskın özellik gösterir. Yağış ortalaması mevsim normallerinin hem Türkiye'de hem Akdeniz kuşağında çok üstene çıkabilir. Akdeniz kuşağının da tam tersine, Britanya olmak üzere Kuzey Avrupa ve Amerika Birleşik Devletleri'nin doğu kıyısı kutupsal soğuk hava dalgalarının etkisi altında kalır. 
+Kuzey Atlantik kasırga sistemleri ile ilişkisi.
+Pozitif NAO patterninde Azor genişleyip daha kuzey bölgeleri tesiri altına aldığı için, Atlantik'teki tropik fırtına sistemleri ve kasırgalar Amerika'nın kuzeydoğu kıyılarına doğru hareket etme meyili gösterirler. Negatif pattern de ise, Azor yükseği daralıp daha güney alanlara çekileceği için bu sefer kasırga ve tropik siklonlar Meksika Körfezine doğru sürüklenir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alan (fizik)</DOCTITLE>
+<TEXT>
+
+Alan, fizik kuramlarında kullanılan, matematikteki cebirsel alanın tüm özelliklerini taşıyan terim. Genellikle bu etki 100 nanometre ve daha küçük skalalarda etkili olur. Bu etki nanoteknolojiyle aynı skalaya denk gelir.
+Bir alan mekan ve zaman içinde her birnokta için bir değeri olan bir fiziksel miktar'dır ..Örneğin, hava durumu ,rüzgâr hızı uzayda her nokta için bir vektör atayarak tarif edilmektedir. Her bir vektör bu noktada hava hareketinin hızını ve yönünü temsil eder.
+Bir alan her noktadaki alanın değeri sırasıyla skaler,vektör,bir spinor veya bir tensör olup olmadığını, uygun skaler, a vektör, bir spinör veya bir tensör,olarak sınıflandırılabilir .
+Örneğin,Newtonyen yerçekimi alanı bir vektör alanıdır: uzay zamanı içinde bir noktada onun değerini belirterek bu noktada üç sayı ,yerçekimi alan vektörününbileşenleri gerektirir .
+Ayrıca, her kategoride ( skaler,vektör,tensör) içinde,bir alan sırasıyla numaraları veya kuantum operatorleri ile karakterize olup olmadığına bağlı olarak bir "klasik alan" veya bir "kuantum alanı"da olabilir.Bir alan bütün uzay boyunca uzanan olarakta düşünülebilir.Uygulamada, bilinen her alanın gücü tespit edilemez olma noktasına olan mesafe ile azaltmak için bulunmuştur.Örneğin, çekimin Newton teorisi, yerçekimi gücü çekilen nesneye olan uzaklığın karesi ile ters orantılıdır.
+Bu nedenle dünya'nın yerçekimi alanı hızla kosmik ölçeklerde saptanamaz olur .
+"Uzaydaki numaralar" olarak tanımlanan alanın fiziksel gerçek olduğu fikrine olumsuz etkisi olmamalıdır."Bu alanı kaplar.Bu enerji içerir onun gerçek varlığını bir vakum ortadan kaldırır.öyle ki biz bunu bir parçacık koyduğumuz zaman,parçacık bir kuvvet "hissediyor ".” Alan "Uzayda bir durum yaratır" Bir elektrik yükü hızlanır,başka bir yükün etkileri anında görünmüyor .İlk şarj momentum toplayıp,bir tepki kuvvet hisseder,fakat ikinci şarj etkisine kadar hiçbir şey hissetmiyor seyahat ışık hız onu ulaşır ve ona momentum verir.ikinci yükten önceki momentum nerede ?
+Momentumun korunumu yasası ile bir yerde olmalı.Fizikçiler derki " gücün analizi için büyük yarar" bunu bulduk "alan içindeki varlık olarak düşünüyorlar
+Bu programı elektromanyetik alan ler gerçekten var olduğuna inanan fizikçiler yol açar,modern fiziğin tüm yapısının alan kavramına bir destek paradigma'sı yapıyor.John Wheeler ve Richard Feynman derki bir uzaklıktan hareket'in Newton'un öncesi alan kavramı ciddiye alınmalı(onlar, genel görelilik ve kuantum elektrodinamiği araştırması için sürmekte olan alan kavramının yararını bir kenara koymasına rağmen)
+"Aslında Elektromanyetik alanın sahip olduğu momentum ve enerji ile onu çok gerçek kılan...bir parçacık bir alan yapar ,ve bir alan başka bir parçacığa hareket verir ve alan;enerji içeriği ve momentum gibi tanıdık özelliklere sahip,sadece parçacıklar olabildiğince var".
+Tarih.
+Isaac Newton evrensel kütle çekimi kanununu sadece büyük nesneler herhangi bir çifti arasında hareket yerçekimi kuvvetini dile getirdi.Tüm cisimlerin her çifti arasındaki kuvvet ile uğraşan , bu tür Güneş Sistemi'ndeki gezegenler gibi , birbirleri ile etkileşen birçok cisimlerin hareket baktığınızda ayrı hızla hesaplama sakıncalı olur.On sekizinci yüzyılda, yeni bir varlık tüm bu yerçekimi kuvvetlerinin defter tutma kolaylaştırmak için icat edildi.Bu varlık,çekim alanı uzayda her noktada bu noktada birim kütleye sahip bir nesne tarafından hissedilir olacaktır.toplam yerçekimi kuvveti verir. Eğer tek bir nesne üzerindeki tümyerçekimi kuvvetleri hesaplanır ve daha sonra onları bir araya eklenir ise ya da ilk önce bir yerçekimi alanı olarak birlikte tüm katkıları toplanır ve nesneye bir uygulanırsa,önemli değil.bu herhangi bir şekilde fizikte değişmedi.
+Bir alan kavramının bağımsız gelişimi gerçekten elektromanyetizma teorisinin gelişimi ile on dokuzuncu yüzyılda başladı.Erken evrelerde André-Marie Ampère ve Charles-Augustin de Coulomb elektrik yükleri ya da elektrik akımı çiftleri arasındaki kuvvetleri ifade Newton tarzı yasalarla yönetilmiş olabilir.Ancak, çok daha doğal alan yaklaşım ve elektrik ve manyetik alan açısından bu yasaları ifade etmek oldu; 1849 yılında Michael Faraday dönemi "alan" için ilk değer oldu .
+Alanın bağımsız doğası bu alan içindeki dalgalar sonlu bir hızla yayılır ki James Clerk Maxwell keşfi ile daha belirgin hale geldi.Sonuç olarak yükler ve akımları üzerinde kuvvetler artık sadece aynı zamanda diğer yük ve akımların pozisyonları ve hızlarına bağlıydı,ama aynı zamanda geçmişteki konumlarına ve hızlarına .
+Maxwell ilk başta,bağımsız olarak var olabilecek alan gibi modern bir bir temel varlık kavramını kabul etmedi . Bunun yerine , elektromanyetik alan'ın deformasyonunun bazı temel ortam yani -ışık-saçan eter- ifade etmesi gerekiyordu,bir lastik zarında gerginliğe çok benzer. Eğer bu durumda olsaydı, elektromanyetik dalgaların gözlenen hızı etere göre gözlemcinin hızına bağlı olması gerekir.Çok çabaya rağmen,hiçbir deneysel kanıt böyle bir etkiyi şimdiye kadar bulamadı,durum 1905 yılında Albert Einstein tarafından özel görelilik teorisinin tanıtımı ile çözüldü.Bu teori hareketli gözlemcilerin bakış açılarının Maxwell'in teorisinde elektromanyetik dalgaların hızı tüm gözlemciler için aynı olacak şekilde birbirleriyle ilişkili olmalıdır şeklinde değişti . Arka plan ortamı için ihtiyaç ortadan yaparak , bu gelişme gerçekten bağımsız kuruluşlar gibi konularda düşünmeye başlamak için fizikçiler içinbir yol açtı.
+1920'li yılların sonlarında,kuantum mekaniği'nin yeni kurallar ilk elektromanyetik alanlara uygulanmıştır.1927 yılında,Paul Dirac başarılı bir atomun çürümesi olan alt kuantum durumu elektromanyetik alanın kuantumu bir foton'un spontan emisyonunu nasıl olduğunu açıklamak için kuantum alanları kullanılır.Elektron ve proton da dahil olmak üzere tüm partikülleri, doğada en temel nesnelerin durumuna yükselten alanlar, bir kuantum alanının miktarı olarak anlaşılabilir ki(Pascual Jordan,Eugene Wigner,Werner Heisenberg,ve Wolfgang Pauli) çalışmasının ardından ) bu kadar çabuk gerçekleşmesi izledi.
+Klasik Alanlar.
+Burada Klasik alanlar'ın birkaç örneğidir.Kuantum özellikleri meydana gelmeyen yerde klasik bir alan teorileri yararlı kalır,ve araştırmaların aktif alanları olabilir. eşyaların Elastisitesi, akışkan dinamiği ve Maxwell denklemi nokta içindeki durumlardır
+Bazı basit fiziksel alanlardan vektör kuvvet alanları vardır.Tarihsel olarak, Faraday'ın kuvvet çizgisi ise electrik alanı tanımı alanların ciddiye alındığını ilk zaman oldu.The çekim alanı was ise benzer tanımlandı.
+Newtonyen çekim.
+Bir klasik alan teorisi açıklayan yerçekimi Newtonyen çekimdir,bu iki kütle(ler) arasındaki bir karşılıklı etkileşim çekim gücü olarak tanımlanır.
+Herhangi büyük gövde "M" bir çekim alanı g var bu olarak diğer büyük gövdeyi etkisiyle onu tanımlar. "M" in çekim alanı olarak uzay içindeki bir r noktası F kuvveti tarafından belirlenerek bulunur. Bu "M" uygulama olarak bir küçük test kütlesi rde "m" yer alır, ve "m" tarafından bölünürse:
+öngörülen "m" çok küçük "M"e göre şunu sağlar ki "m" 'in varlığına "M" in davranışı ihmal edilebilir etkisi var.
+Newtonun Kütleçekim kanunu'na göre, F(r) ile verilir.
+burada formula_3 bir birim vektör "M" ve "m"dir ve "m" noktasından "Me birleştiren hat boyunca uzanır.Bu nedenle, M"' in çekim alanı dır.
+Deneysel araştırmalar bu eylemsiz kütle ve çekim kuvveti doğruluğun görülmemiş düzeyleri ne eştir çekim alanının özdeş gücü olarak to the deneysel hızlandırılan bir parçacık tarafından. Bu is eşdeğer prensipler'in başlangıç noktasıdır.Bu genel görelilik için bir yoldur
+Çünkü çekim kuvveti F koruyucudur,çekim alanı g gradienti bir skaler fonksiyonun terimleri içinde yazılabilir ,çekim potansiyeli Φ(r):
+Elektromanyetizma.
+Michael Faraday Önce fiziksel bir nesne gibi, bir alanın önemi içine yaptığı araştırmalar sırasında manyetizma'yı fark etti. He realized that elektrik ve manyetik alanlar parçacıkların hareketini belirleyen kuvvetin yalnızca alanları değildir,ama Onlar aynı zamanda enerjiyi taşırlar çünkü bağımsız bir fiziksel gerçekliğe sahipler.
+Bu fikirler sonunda elektromanyetik alan için denklemlerin tanıtımı ile,James Clerk Maxwell tarafından fizikte ilk birleşik alan teorisinin kurulmasına yol açtı. Bu denklemlerin modern versiyonuna Maxwell denklemleri denir
+Elektrostatik.
+Bir yüklü parçacık testi yüküne dayalı olarak yük "q" ile deneysel bir kuvvet F tir. Benzer tanım elektrik alanı E böyledir . Kullanılan bu ve Coulomb kanunu elektrik alanı nedeniyle bir tek yüklü parçacık olarak bize şunu söyler:
+Elektrik alanı tutucudur ve Bu nedenle bir skaler potansiyel ile tanımlanabilir, "V"(r):
+Manyetostatik.
+Bir yol "ℓ" boyunca akan "I" sabit akım , yukarıda tarif edilen elektrik alan kuvveti kantitatif farklıdır yakındaki yüklü parçacıklar üzerine bir kuvvet uygulayacaktır.v hızı ile yakındaki bir "q" yükü üzerine "I" tarafından uygulanan kuvvet
+burada B(r) manyetik alandır,bu Biot-Savart kanunu tarafından "I" dan belirlenir:
+Manyetik alan, genel olarak tutucu değildir, ve bu nedenle genellikle skaler potansiyeli açısından yazılı olamaz. Ancak açısından yazılmış olabilir bir vektör potansiyeli,A (r):
+Elektrodinamik.
+Genel olarak, bir şarj yoğunluğu ρ(r, "t") ve akım yoğunluğuJ(r, "t") her iki mevcudiyetinde, bir elektrik ve manyetik alan her ikisi olacak ve her ikisi de zaman içinde değişecektir. Bunlar doğrudan ρ ve J ye ilgiliE ve B Maxwell denklemleri, diferansiyel denklem kümesi tarafından belirlenir.
+Alternatif olarak, bir ile skalar ve vektör potansiyel "V" ve A cinsinden sistem tanımlayabiliriz."gecikmeli potansiyel" olarak bilinen ayrılmaz bir dizi denklem hesaplamasını sağlar "V" ve A dan ρ ve J,ye ve oradan elektrik ve manyetik alanlar ile ilişkileri belirlenir
+19.yüzyılın sonlarında,elektromanyetik alan uzay içindeki iki vektör alanının bir koleksiyonu olarak anlaşılmıştı.Günümüzde, bir uzay zamanı içinde bir tek antisimetrik 2-rank tensör alanı olarak bu tanınır.
+Genel çekim içinde çekim.
+çekimin Einstein teorisi,genel görelilik olarak adlandırılır, bir alan teorisinin diğer bir örneğidir. Burada the prensip alan is the metrik tensördür,uzay-zaman içinde bir simetrik 2ci-rank tensör alanıdır Evrensel çekimin Newton kanunu'nun yerini aldı.
+Dalga alanları.
+Dalgalar fizik olanlar olarak yapılandırılabilirler, kendiliğinden sonlu yayılma hızı ve nedesel doğa ise izole kapalı sistem'in sadeleştirilmiş bir fizik model'inin kümesidir . Bu aynı zamanda ters-kare yasası'na bağlıdır
+Elektromanyetik dalgalar için, burada optik alan vardır, ve yakın- ve uzak-alan gibi terimler kırınım için sınırlardır.Uygulamada, optik olsa da alan teorileri Maxwell'in elektromanyetik alan teorisi tarafından aşılırlar.
+Kuantum Alanları.
+Şimdi bir kuantum alan teorisi, en azından prensipte, kuantum mekanik anlamda bir yeniden düzenlemesine izin gerektiğini, böylece kuantum mekaniği, tüm fiziksel olayların temelinde olması gerektiğine başarı getirdiğine inanılan,kuantum alan teorisini verir. Örneğin,klasik elektrodinamik nicemleme ile kuantum elektrodinamiğini verir. deneysel veriler başka bir teori daha (daha önemli basamak) daha yüksek bir duyarlıklı olarak onun öngörülerini teyit eder. diğer iki temel kuantum alan teorisi kuantum renk ve elektrozayıf teorisi vardır; kuantum elektrodinamik tartışmasız en başarılı bilimsel teoridir.
+kuantum kromodinamiğinde,renk alanı çizgileri gluon tarafından kısa mesafelerde birleştiğinde, alana göre polarize ve onunla hizalı olur.Bu etki kısa bir mesafe içinde artar (kuarkların yakınlarından 1 fm çevresinde), hadronun içinde kuarklar hapsederek kısa bir mesafe içinde renk kuvvetinde artış yapar. Alan çizgileri gluonlar ile birbirine sıkıca çekilir gibi,bu elektrik yükleri arasındaki bir elektrik alanı olarak dışarıya kadar "beyaz" değil.
+Bu üç kuantum alan teorileri tüm parçacık fiziğinin ve sözde standart modelin özel durumları olarak elde edilebilir.Genel görelilik, yerçekiminin Einstein alan teorisi,şimdilik başarılı kuantize olmak için başarılı. Ancak bir uzantısı,termal alan teorisi," sonlu sıcaklıklarda", nadiren kuantum alan teorisi dikkate şeye kuantum alan teorisi ile ilgilenir
+BRST teorisi içinde tek alanlar ile bölme yani Faddeev–Popov hayaletidir.Dereceli manifoldu ve supermanifold her ikisi de tek klasik alanlarda farklı açıklamaları vardır.
+Klasik alanları yukarıda olduğu gibi, daha önce olduğu gibi benzer teknikleri kullanarak tamamen matematiksel bir görünümden kuantum karşılıkları yaklaşımı mümkündür.
+Kuantum alanları yöneten denklemler gerçeği KDDlerin (özellikle, relativistik dalga denklemleri (RWEs)) bulunmaktadır.
+Böylece bir Yang-Mills, Dirac, Klein-Gordon ve Schroedinger alanı ile ilgili denklemlerin çözümleri konuşulabilir.
+Olası bir sorun, bu RWEs egzotik cebirsel özellikleri olan karmaşık matematiksel nesnelerin ile başa olduğunu (örneğin spinörleri tansörleri değildir, bu yüzden spinor alanı s üzerinde hesabı gerekebilir) ancak bu teori hala matematiksel genelleme uygun verilen analitik yöntemlere tabi olabilir.
+Alan teorisi.
+Bir alan teorisi , bir veya daha fazla fiziksel alan madde ile nasıl etkileşime açıklayan fizik teorisidir .
+Alan teorisi genellikle bir alanın dinamiklerinin bir yapısı anlamına gelir , zaman veya alan bağımlı olduğu diğer bağımsız fiziksel değişkenler açısından alan değişikliklerin bir şartnamesidir yani . Genellikle bu Lagrangianveya alanın birHamiltonyen'i yazma ve serbestliğin derecesi sonsuz sayıda bir sistemin klasik mekanik (veya kuantum mekaniği) olarak muamele yapılır . Oluşan alan teorileri klasik veya kuantum alan teorileri olarak adlandırılır.
+Klasik bir alanın dinamikleri genellikle alan bileşenleri açısından Lagrangian yoğunluk ile belirtilen ,dinamik hareket prensibi kullanılarak elde edilebilir.
+Birkaç değişken hesabı , potansiyel teorisi ve kısmi diferansiyel denklemler (PDEs) sadece matematik kullanarak herhangi bir fizik ön bilgi olmadan basit alanları inşa etmek mümkündür.Örneğin, skaler PDE gibi dalga denklemi ve akışkan dinamiği için genlik , yoğunluk ve basınç alanları gibi miktarlarda düşünebilirsiniz ısı/difuzyon denklemi denklemleri için ısı/konsantrasyon alanları. Fizik uygun (örneğin,radyometri ve bilgisayar grafikleri) dışında,hatta ışık alanları vardır . Tüm bu örnekler, önceki skaler alanlar vardır . Benzer vektörleri için , (uygulamalı matematik ) akışkan dinamiği deplasman , hız ve vortisiti alanları için vektör PDE vardır , ama vektör hesabı şimdi bu üç miktarları gibi ( genel olarak vektör alanları üzerinde hesabı olan, yanı sıra ihtiyaç duyulan ve vektör PDE için olanlar olabilir) .örneğin sürekli ortamlar mekaniği daha genel sorunlar içerebilir , daha sonra yön elastisite ( germek anlamına geldiği için Latince kelime türetilmiş "tensor" terimi) , kompleks sıvı akar veya anizotropik difuzyon,matris - tensör KDD'lerin olarak çerçeveli ve matrisler gerektirir veya tensör alanları,dolayısıyla matris veya tensör hesabı. Bu skalerler (ve böylece, vektörler, matrisler ve tansörler) her ikisi de gerçek ya da kompleks soyut-cebir/halka-teoretik anlamda alanları olabilir unutulmamalıdır .
+Genel bir ortamda,klasik alanlar lif demetleri ve bunların dinamikleri bölümleri jet manifoldlar (kovaryant klasik alan teorisi) açısından formüle edilmiştir tarif edilmektedir .
+Modern fizikte ,en sık çalışılan alanlar bir gün Birleşik Alan Teorisine yol açabilir olan dört temel kuvvet modelidir..
+Alanların simetrileri.
+Bir alan sınıflandırmak için uygun bir yol(klasik veya kuantum) ile simetrilere sahiptir. Fiziksel simetriler genellikle iki tiptir:
+İç simetriler.
+Alanlar uzay simetrilerine ek olarak iç simetriye sahip olabilir.Örneğin, birçok durumda, bir uzay-zaman skalerlerin bir listesi verilmiş alanlar gerekir: (φ1, φ2, ... φ"N").Örneğin, hava tahminleri, bu gibi sıcaklık, basınç, nem, olabilir,
+Parçacık fiziğinde, kuarkların etkileşiminin renk simetrisi izospin veya çeşni simetrileri olduğu gibi, kuvvetli etkileşimin iç simetrisine bir örnektir.
+Bu bileşenleri birbirine dönüştürmek altında uzayzamanı kapsamayan sorunun bir simetrisi, var ise, o zaman simetrilerin bu dizisi bir iç simetrik olarak adlandırılır. Bir de iç simetrileri altında alanların yüklerinin bir sınıflandırması yapılabilir
+İstatistiksel alan teorisi.
+İstatistiksel alan teorisi çoklu-cisim sistemleri ve istatistik mekanik'e yönelik alan teorik paradigmasını genişletmek için çalışır. Yukarıdaki gibi, bileşen serbestlik derecesi olağan sonsuz sayıya ulaşılabiliyor.
+Çok istatistiksel mekanik gibi kuantum ve klasik mekaniğin arasında bazı örtüşmeler vardır, istatistiksel alan teorisi birçok yöntemleri paylaştığı özellikle önceki,hem kuantum ve hemde klasik alan teorileri bağlantıları vardır. Önemli bir ortalama alan teorisi örneğidir.
+Sürekli rasgele alanlar.
+Bu tür elektromanyetik alanındaki gibi yukarıdaki klasik alanların, genellikle sonsuz türevlenebilir fonksiyonlar, ama hemen hemen her zaman, her durumda iki kez türevlenebilenleri vardır. Buna karşılık, genelleştirilmiş fonksiyonlar sürekli değildir.
+Sonlu sıcaklıkta klasik alanlar ile dikkatlice uğraşırken termal dalgalanan klasik alanlar hiçbir yerde türevlenebilir olmadığından, sürekli rasgele alanlar matematiksel yöntemleri kullanılır.
+Rastgele alanlar rastgele değişkenlerin indisli setleridir, sürekli rasgele alan kendi dizin kümesi gibi fonksiyonları bir dizin olan rastgele bir alandır
+Özellikle, sık sık onun indisli seti gibi fonksiyonların bir Schwartz uzayı'na sahip sürekli bir rasgele alanı almak matematiksel olarak uygundurki bu durum sürekli rasgele bir alanına bir. katkılı dağılımlıdır.
+Biz sürekli bir rasgele alanı hakkında düşünebiliriz, bir (çok) kaba bir şekilde, hemen hemen her yerde formula_13 olduğunu, ancak bu sıradan bir fonksiyonu olarak bir bütün sonsuzlukların ağırlıklı ortalamasını alırken herhangi bir sonlu bölge üzerinde,ise sonlu bir sonuç alabiliriz.
+Sonsuz iyi tanımlanmış değildir, ancak sınırlı değerler sonlu değerlerini elde etmek için ağırlık işlevleri olarak kullanılan işlevler ile ilişkili olabilir, ve bu iyi tanımlanmış olabilir. Biz gerçek sayıların içine fonksiyonların bir uzaydan gelen bir doğrusal haritanın yeterince sürekli bir rasgele alanını tanımlayabiliriz.
+Alanların matematiği.
+Süreklilik görünümü (dolayısıyla "alan" terimi) sistem serbestlik derecesine sonsuz sayıyı sağlayarak ulaşılabiliyor. Bir vektör adi diferansiyel denklemin boyutu sadece vektör bağımlı değişken veya vektör fonksiyonun boyutudur. Bu anlamda kısmi diferansiyel denklemler yani sonsuz boyutun (birleştirilmiş)ODElerinin ( bileşen serbestlik derecesi matematiksel yorumlama) olarak düşünülebilir. Ayrıca yön alanları olarak adlandırılan vektör alanları önemli araçları ODElerinin sonuçları içinde analiz bulunmaktadır (faz düzlemine bakınız).
+nesnenin gerçek doğası diferansiyel denklemi analizin türünü belirler(Ve bağımsız değişkenlerini) (örneğin gerçek skaler, karmaşık matris, Öklid vektör veya dört vektör vs) - (bizim örneklerde - tek değişkenbir real hesabı , karmaşık bir matriks ve reel vektör alanlar üzerinde) gerekli.
+Kısmi diferansiyel denklemlerin dışında, (klasik) reel analiz ve karmaşık analizin diğer parçalar ya esinlenmiş veya teknikleri alan teorisi (veya her ikisi) uyguladık. Bu tür alanlara örnek spektral teorisi ve harmonik analiz (titreşim ve dalgalar) veya kendini açıklayıcı potansiyel teorisi, kendi başlarına tüm matematiksel konulardır. Ancak belki de en belirgin örnekleri varyasyon hesabı (Lagrangiyen ve Hamiltoniyen biçimcilikler) verilen bağlantılar) ve çok değişkenli hesabı ile diferansiyel geometri genellemelleri vardır - tensör hesabı da dahil olmak üzere, ve ayar kuramı - ve onun yakın akrabası diferansiyel topoloji.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sıcak yerel rüzgârlar</DOCTITLE>
+<TEXT>
+
+Yerel Rüzgârlar
+Etki alanları dar ve esiş süreleri kısa olan rüzgârlardır. Oluşumlarındaki temel etken kısa süreli sıcaklık ve basınç farklarıdır.
+Günlük sıcaklık ve basınç farklarından doğan rüzgârlardır.
+Gece, karalar denizlere göre daha çabuk ve çok soğur. Bu nedenle, karalar üzerinde termik yüksek basınç alanı, denizler üzerinde ise termik alçak basınç alanı oluşur. Bu durumda hava akımları karalardan denizlere doğru olur ve bu rüzgârlara kara meltemi denir.
+Gündüz, karalar denizlerden daha çabuk ve çok ısınır. Bu nedenle karalar üzerinde termik alçak basınç alanı, denizler üzerinde ise termik yüksek basınç alanı oluşur. Bu durumda hava akımları denizlerden karalara doğru olur ve bu rüzgârlara deniz meltemi denir.
+Örneğin İzmir’de yaz aylarında esen imbat bir deniz meltemidir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Başkalaşım (Metamorfik) Kayaçları Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Metamorfik kayaçlar, bir kayacın sıcaklık ve basıncın etkisi ile bir başka kayaca dönüşmüş hâlidir.
+Metamorfik kayaçlar, tortul ya da püskürük kayaçların değişikliğe uğraması sonucunda meydana gelir. Bu değişiklikler, kayaçların yüksek basınç ve sıcaklık altında kalması sonucunda oluşur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tortul Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Taşınan malzemeler akarsu, göl, deniz ve okyanus tabanları ile çukur alanlarda tabakalar hâlinde biriktirilir. Bu tabakalar zaman içinde sıkışarak tortul kayaçlara dönüşür.
+Yeryüzünü oluşturan kayaçlar dış kuvvetler (akarsular, rüzgârlar, buzullar, dalga ve akıntılar gibi) tarafından ufalanır ve taşınır.
+Tortul kayaçların en önemli özelliği, oluştukları dönemlere ait bitki ve hayvan kalıntıları olan fosillere sahip olmalarıdır.
+Bitki parçaları kalın ve geçirimsiz tortullar arasında veya su içinde kalır. Bu parçacıklar zaman içerisinde bakterilerin de etkisiyle karbon bakımından zenginleşir. Böylece organik tortulların en tipik örneği olan kömür oluşur.
+Karbonlu organik tortulların sıvı olanları ise petrolü oluşturur. Oluşumu kömür ile benzerlik gösteren petrol, jeolojik geçmişte yaşamış bitki ve hayvan kalıntılarının oksijensiz denizel bir ortamda sıcaklık, basınç ve organizmaların etkisi ile değişime uğraması sonucu meydana gelir.
+Kireç taşı mağaraları karstik şekillerden biridir. Bu mağaralar, kalkerli arazi içinde suların eritme ve aşındırması sonucu meydana gelen yer altı boşluklarıdır.
+Kayaköy Polyesi (Fethiye- Muğla) kireç taşının erimesi sonucu gelişmiş bir karstik yüzey şeklidir.
+Yandaki harita, “Coğrafi Bilgi Sistemleri” ile hazırlanmış “Sayısal Yükselti Modeli” olup Kayaköy Polyesi'nin yüzey şekli özelliklerini göstermektedir. Yeşil renk, polye tabanı olup verimli tarım arazilerini; diğer renkler ise yükseltileri belirtmektedir.
+Aşağıdaki harita Kayaköy Polyesi’nin kayaç özelliklerini göstermektedir. Mavi renk; kireç taşını, açık gri renk; alüvyonu temsil etmektedir. Düz ve kesik çizgiler dikliklere işaret etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Püskürük Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Lavlar havayla temas edince hızla soğuduğu için ince kristalli veya camsı bir özellik gösterir.
+Magmanın volkanik faaliyetler sonucu yeryüzüne çıkmasıyla dış püskürük kayaçlar oluşur.
+Soğuma yavaş olduğu için iç püskürük kayaçlar iri unsurlu olur.
+Magmanın; yer kabuğunun farklı derinliklerindeki taş ve tabakaların arasına sokularak yavaş yavaş soğumasıyla “iç püskürük” kayaçlar oluşur.
+Bir iç püskürük taşı olan granit, kendine özgü yüzey şekillerini oluşturması ile diğer kayaç türlerinden ayrılır. Granitin bu özelliği, onu oluşturan elementlerin özellikleri, kayacın çatlaklı olup olmadığı ya da ne derece çatlaklı olduğu ile ilgilidir. Çatlaklı olması granitin ayrışma şiddetini artınr.
+Kütle hâlindeki granitler, fiziksel ve kimyasal ayrışmaya uğradıklarında değişik boyut ve şekillerde bloklara dönüşür. Granitlerin ayrışması sonucu yer yer birbiri üzerinde irili ufaklı ve köşeleri yuvarlaklaştırılmış bloklardan oluşan bir topoğrafya şekli meydana gelir. Buna tor topoğrafyası denir.
+Tor topoğrafya şekillerinde, kayacın özelliklerinin yanı sıra iklim şartları da etkilidir. Sıcak ve nemli iklim bölgelerinde kimyasal ayrışma ve çatlak yoğunluğunun etkilerine bağlı olarak onu oluşturan kuvars, feldspat ve mikaya ayrışır. Bu bölgelerde dik yamaçlarda granit kütleleri dik duvarlar ya da küt-leleşmiş bloklar hâlinde bulunur. Günlük sıcaklık farklarının fazla olduğu, fiziksel parçalanmanın ön plana çıktığı yüksek dağlık sahalarda ise yüzey şekilleri keskin kenarlı, köşeli dikliklerden oluşan sarp bir görünüm alır. Burada oluşan ayrışma ürünleri irili ufaklı granit parçalarıdır.
+Tüfler, volkanlardan çıkan ince boyutlu malzemelerin (özellikle küllerin) oluşturduğu kayaçlardır. Açık renklidir ve çok kolay aşınır. Volkanik tüfler, yurdumuzda Nevşehir-ürgüp-Göreme yöresinde karakteristik yüzey şekillerinin gelişmesine neden olmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ağir Ama Hissetmediğimiz Yük: Basinç (EBA)</DOCTITLE>
+<TEXT>
+
+Beş ton civarında bir ağırlığı kaldırabilir misiniz? Hadi bu fazla oldu diyelim peki bir ton ağırlığı kaldırabilir misiniz? Vücudunuza şu an 10-15 ton civarında bir ağırlık uygulandığı söylense ne dersiniz? Evet, yanlış duymadınız; atmosferi oluşturan gazlar vücudunuzun 1 cm2 sine yaklaşık 1033 g ağırlık uygulamaktadır. Bu, yetişkin bir insan vücuduna yaklaşık 14 ton ağırlığın yüklenmesi anlamına gelir. Peki, biz insanlar bu ağırlığı nasıl taşıyoruz? Aynı şekilde vücudumuzdan da dış ortama doğru kan basıncı uygulanmaktadır. Yani atmosfer basıncı ile kan basıncı birbirini dengelemektedir. O hâlde basınç nedir, birlikte öğrenelim.
+Atmosferin çeşitli gazlardan oluştuğunu ve her madde gibi gazların da bir ağırlığının olduğunu öğrenmiştiniz. Bu gazların özellikleri birbirinden farklıdır. Gazlar, yer çekiminin de etkisiyle yere bir ağırlık uygular. İşte bu olaya atmosfer basıncı diyoruz.
+Toriçelli Deneyi
+İtalyan bilim adamı Toriçelli, 100 cm uzunluğunda bir ucu kapalı cam boru alıp içini tamamen cıva ile doldurdu. Cıva dolu cam boruyu ters çevirerek içerisinde cıva bulunan kaba koydu. Borudaki cıvanın bir kısmının cıva kabına boşaldığını, daha sonra cıvanın sabitlendiğini gördü.
+Toriçelli bu deneyi 45° enleminde, deniz kıyısında ve sıcaklığın 0 °C olduğu bir günde yapmıştır. Bu ölçüm sonucunda 760 mm yüksekliğindeki cıvanın 1 cm2Iik yere uyguladığı ağırlık 1033 g’dır. Bu değer, 1013 milibar (mb) veya hektopaskal (hPa) olarak ifade edilir.
+Çevresine göre yüksek değerlere sahip olan basınç alanlarına yüksek basınç alanı, çevresine göre alçak değerlere sahip olan basınç alanlarına ise alçak basınç alanı denir.
+Yüksek basınç alanlarında alçalıcı hava hareketi görülür. Havanın hareketi merkezden çevreye doğrudur.
+Alçak basınç alanlarında yükselici hava hareketi gözlenir. Hava çevreden merkeze doğru hareket eder.
+Dünya’nın kendi ekseni etrafındaki hareketinden dolayı rüzgârlar, Kuzey Yarım Küre’de hareket yönünün sağına, Güney Yarım Küre’de ise soluna doğru sapar.
+Sıcaklık, yükselti, Dünya’nın günlük hareketi ve yer çekimi basıncı ve basıncın dağılışını etkileyen faktörlerdir.
+Dünya’nın Her Yerinde Basınç Aynı mıdır?
+Günümüze kadar yeryüzündeki en yüksek hava basıncı Sibirya'da bulunan Agata kentinde kaydedilmiştir. Burada hava basıncı deniz seviyesinde 1083,8 mb olarak ölçülmüştür. En düşük hava basıncı ise 870 mb olarak 1979’da Büyük Okyanus'un üzerinde oluşan “Tip" adlı kasırganın merkezinde ölçülmüştür.
+Sürekli Basınç Kuşakları
+Termik Alçak Basınç Kuşağı
+Ekvator ve çevresi, güneş ışınlarını dik ve dike yakın açılarla aldığından yıl boyunca sıcaktır. Isınan havanın genleşip yükselmesine bağlı olarak sürekli termik alçak basınç kuşağı oluşmuştur.
+Termik Yüksek Basınç Kuşağı
+Kutuplar çevresi, güneş ışınlarını dar açılarla aldığından buralarda sürekli soğuk hava etkilidir. Soğu-yan havanın ağırlaşarak alçalması nedeniyle buralarda sürekli termik yüksek basınç kuşağı oluşmuştur.
+Dinamik Yüksek Basınç Merkezi
+Dünya'nın kendi ekseni etrafındaki dönüşünün rüzgârlar üzerinde meydana getirdiği sapma etkisiyle 30° enlemleri çevresinde oluşan basınç merkezidir. Bu merkez Kuzey Yarım Küre’de yaz aylarında kuzeye, kış aylarında güneye doğru genişler. Alçalıcı hava hareketlerine bağlı olarak havanın ısınması ve nem miktarının düşmesi nedeniyle 30° enlemleri çevresindeki karalar üzerinde çöller oluşur.
+Dinamik Alçak Basınç Merkezi
+60° enlemlerinde kutup rüzgârları ve batı rüzgârları karşılaşır. Karşılaşan bu rüzgârlar Dünya’nın kendi ekseni etrafındaki dönüşü nedeniyle birbirlerini yukarıya doğru iterler. Bu hava kütlelerinin yükselmesi ile geride alçak basınç alanı oluşur.
+Basınç dağılışı, aynı basınç değerine sahip noktaların birleştirilmesiyle elde edilen eş basınç eğrileriyle (izobar) çizilmiş haritalarla gösterilir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Termik yüksek basınç</DOCTITLE>
+<TEXT>
+
+Termik Yüksek Basınç, soğumaya bağlı olarak oluşan basınçtır. Havanın alt bölümlerinde basınç çok yüksektir. Hava soğuktur ve etkisi altına aldığı yerlerde sıcaklığı düşürür. Alt katmanlarındaki yüksek basınç 3-4 km'den sonra hızla kaybolur. Denkleşme yüzeyinden sonra alçak basınç oluşur.
+
+</TEXT>
+</DOC>
+

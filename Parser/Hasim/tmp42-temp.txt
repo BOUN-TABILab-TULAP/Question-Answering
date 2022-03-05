@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+aşağıdaki aşağı+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Loc^DB+Adj+Rel aşağı+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+cümlelerin cümle+Noun+A3pl+Pnon+Gen cümle+Noun+A3pl+P2sg+Nom
+hangisinde hangi+Pron+Ques+A3sg+P3sg+Loc
+yazım yaz+Noun+A3sg+P1sg+Nom yaz+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg yazı+Noun+A3sg+P1sg+Nom yazım+Noun+A3sg+Pnon+Nom
+yanlışı yanlış+Noun+A3sg+P3sg+Nom yanlış+Noun+A3sg+Pnon+Acc yanlış+Adj^DB+Noun+Zero+A3sg+P3sg+Nom yanlış+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+yapılmıştır yap+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop yap+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

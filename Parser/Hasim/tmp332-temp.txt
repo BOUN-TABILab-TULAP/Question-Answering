@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Küstüm küs+Verb+Pos+Past+A1sg küs+Adj^DB+Verb+Zero+Past+A1sg
+otuna ot+Noun+A3sg+P3sg+Dat ot+Noun+A3sg+P2sg+Dat
+dokununca doku+Verb^DB+Verb+Pass+Pos^DB+Adverb+When dokun+Verb+Pos^DB+Adverb+When
+yapraklarını yaprak+Noun+A3pl+P3sg+Acc yaprak+Noun+A3pl+P2sg+Acc yaprak+Noun+A3pl+P3pl+Acc yaprak+Noun+A3sg+P3pl+Acc
+kapatması kapa+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom kapatma+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike kapatma+Noun+A3sg+P3sg+Nom
+hangi hangi+Adj
+nasti nasti+Noun+Prop+A3sg+Pnon+Nom
+hareketine hareket+Noun+A3sg+P2sg+Dat hareket+Noun+A3sg+P3sg+Dat
+örnektir örnek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

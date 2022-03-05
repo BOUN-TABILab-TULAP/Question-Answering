@@ -1,0 +1,23 @@
+1	Yıl	yıl	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT	_	_
+2	boyunca	boyunca	Postp	Postp	PCNom	15	MODIFIER	_	_
+3	_	nem	Noun	Noun	A3sg|Pnon|Nom	4	DERIV	_	_
+4	nemli	_	Adj	Adj	With	5	MODIFIER	_	_
+5	ve	ve	Conj	Conj	_	8	COORDINATION	_	_
+6	_	yağ	Verb	Verb	Pos	7	DERIV	_	_
+7	_	_	Noun	NInf	A3sg|Pnon|Nom	8	DERIV	_	_
+8	yağışlı	_	Adj	Adj	With	9	MODIFIER	_	_
+9	_	ol	Verb	Verb	Pos	10	DERIV	_	_
+10	olan	_	Adj	APresPart	_	12	MODIFIER	_	_
+11	gür	gür	Adj	Adj	_	12	MODIFIER	_	_
+12	ormanlar	orman	Noun	Noun	A3pl|Pnon|Nom	13	OBJECT	_	_
+13	ve	ve	Conj	Conj	_	14	COORDINATION	_	_
+14	otlakların	otlak	Noun	Noun	A3pl|Pnon|Gen	15	SUBJECT	_	_
+15	_	bulun	Verb	Verb	Pos	16	DERIV	_	_
+16	bulunduğu	_	Adj	APastPart	P3sg	17	MODIFIER	_	_
+17	yerlerde	yer	Noun	Noun	A3pl|Pnon|Loc	21	LOCATIVE.ADJUNCT	_	_
+18	hangi	hangi	Adj	Adj	_	19	MODIFIER	_	_
+19	hayvancılık	hayvancılık	Noun	Noun	A3sg|Pnon|Nom	20	CLASSIFIER	_	_
+20	çeşidi	çeşit	Noun	Noun	A3sg|P3sg|Nom	21	OBJECT	_	_
+21	gelişmiştir	geliş	Verb	Verb	Pos|Narr|A3sg|Cop	22	SENTENCE	_	_
+22	.	.	Punc	Punc	_	0	ROOT	_	_
+

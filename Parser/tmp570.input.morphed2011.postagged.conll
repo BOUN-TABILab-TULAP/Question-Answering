@@ -1,0 +1,11 @@
+1	_	sür	Verb	Verb	_	_	_	_	_
+2	_	_	Verb	Verb	Caus	_	_	_	_
+3	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+4	_	_	Verb	Verb	Able	_	_	_	_
+5	_	_	Adj	Adj	AorPart	_	_	_	_
+6	Sürdürülebilirlik	_	Noun	Noun	Ness|A3sg|Pnon|Nom	_	_	_	_
+7	ne	ne	Adj	Adj	_	_	_	_	_
+8	_	de	Verb	Verb	Pos	_	_	_	_
+9	_	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+10	demektir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

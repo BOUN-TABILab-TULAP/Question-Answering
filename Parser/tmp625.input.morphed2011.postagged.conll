@@ -1,0 +1,14 @@
+1	_	çiçek	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	Çiçekli	_	Adj	Adj	With	_	_	_	_
+3	bitkilerde	bitki	Noun	Noun	A3pl|Pnon|Loc	_	_	_	_
+4	_	dölle	Verb	Verb	_	_	_	_	_
+5	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+6	döllenmeden	_	Noun	NInf	A3sg|Pnon|Abl	_	_	_	_
+7	sonra	sonra	Postp	Postp	PCAbl	_	_	_	_
+8	_	gerçek	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	_	_	Verb	Verb	Become|Pos	_	_	_	_
+10	gerçekleşen	_	Adj	APresPart	_	_	_	_	_
+11	olaylar	olay	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+12	_	ne	Pron	QuesP	A3pl|Pnon|Nom	_	_	_	_
+13	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

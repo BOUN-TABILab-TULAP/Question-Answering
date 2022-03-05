@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Dünyadaki bor rezervlerinin yüzde kaçı Türkiye'dedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(7449, {label: "Tarıma",nodeclass: "type-TK"});
+ g.addNode(7450, {label: "elverişli",nodeclass: "type-TK"});
+ g.addNode(7451, {label: "araziler",nodeclass: "type-TK"});
+ g.addNode(7452, {label: "ülkemiz",nodeclass: "type-TK"});
+ g.addNode(7453, {label: "topraklarının",nodeclass: "type-TK"});
+ g.addNode(7454, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(7455, {label: "kadar",nodeclass: "type-TK"});
+ g.addNode(7456, {label: "kadarını",nodeclass: "type-TK"});
+ g.addNode(7457, {label: "oluş",nodeclass: "type-TK"});
+ g.addNode(7458, {label: "oluşturur",nodeclass: "type-TK"});
+ g.addNode(7459, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,7449,7458,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,7450,7451,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7451,7458,{label: "ÖZNE"});
+ g.addEdge(null,7452,7453,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,7453,7456,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,7454,7455,{label: "NESNE"});
+ g.addEdge(null,7455,7456,{label: "TÜREME"});
+ g.addEdge(null,7456,7458,{label: "NESNE"});
+ g.addEdge(null,7457,7458,{label: "TÜREME"});
+ g.addEdge(null,7458,7459,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

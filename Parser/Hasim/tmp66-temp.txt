@@ -1,0 +1,28 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yıl yıl+Noun+A3sg+Pnon+Nom yıl+Verb+Pos+Imp+A2sg Yıl+Noun+Prop+A3sg+Pnon+Nom
+boyunca boyunca+Postp+PCNom
+nemli nem+Noun+A3sg+Pnon+Nom^DB+Adj+With
+ve ve+Conj
+yağışlı yağ+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom^DB+Adj+With
+olan ol+Verb+Pos^DB+Adj+PresPart
+gür gür+Adj
+ormanlar orman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl orman+Noun+A3pl+Pnon+Nom
+ve ve+Conj
+otlakların otlak+Noun+A3pl+Pnon+Gen otlak+Noun+A3pl+P2sg+Nom
+bulunduğu bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg bul+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom bulun+Verb+Pos^DB+Adj+PastPart+P3sg bulun+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+yerlerde ye+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Loc yer+Noun+A3pl+Pnon+Loc
+hangi hangi+Adj
+hayvancılık hayvan+Adj^DB+Noun+Agt+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom hayvancılık+Noun+A3sg+Pnon+Nom
+çeşidi çeşit+Noun+A3sg+P3sg+Nom çeşit+Noun+A3sg+Pnon+Acc
+gelişmiştir geliş+Verb+Pos+Narr+A3sg+Cop geliş+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,72 @@
+Handikap (golf)
+Bir handikap verilen bir ders için oynanan tee dayanan bir golfçü potansiyel oyun yeteneğinin sayısal ölçümüdür. Bu nedenle, farklı yeterlilik oyuncuları biraz eşit şartlarda birbirlerine karşı oynamak için izin, aslında bir yarışma sırasında oynanan vuruş sayısından net puan hesaplamak için kullanılır. Bir oyuncunun handikap yüksek, yoksul bir oyuncu daha düşük engelli olanlara göredir. "Resmi" handikaplar golf kulüpleri ya da ulusal golf dernekler tarafından yönetilmektedir. Handikaplar ile ilgili kesin kurallar ülkeden ülkeye değişebilir.
+Handikap sistemleri profesyonel golf kullanılmaz. Golf kulüpleri üyesi olmayan Amatör golfçüler "resmi" handikapları genellikle uygun değildir.
+Genel Bakış.
+Bir handikap bir oyuncu üzerinde veya aşağıda par birçok vuruş son yirmi mermi en iyi on puanlarına göre, oynamak mümkün olabilir nasıl yaklaştığı belli bir aritmetik formülü ile hesaplanır. St. Andrews bazlı (Kraliyet ve Antik Golf Kulübü'ne artık ayrı bir örgüt) R & A, İskoçya şike üzerinde yetkisi yoktur. R & A bağlı ülkelerde şike sistemlerinin uygulanması bu ülkelerin milli golf derneklerinin sorumluluğundadır. Bu organlar oyuncular için bu hesaplamayı gerçekleştirmek için biraz farklı yollar belirtin. Bu hesaplamaların detayları aşağıda sunulmuştur.
+Bir golfçü net skor brüt skorundan oyuncunun handikap çıkarılarak belirlenir (vuruş sayısı aslında alınmıştır). tüm rakip golfçüler net skorları karşılaştırıldı ve en düşük puanı kazanır (genellikle) kişi vardır.
+Popüler görüşün aksine, bir oyuncunun handikap bir oyuncunun potansiyel, bir oyuncunun ortalama puanı göstermek için tasarlanmıştır. Düşük handikapı istatistiksel olarak daha handikapı daha tutarlı bir oyuncunun handikap oynayacak olan frekans, o golfçü handikap bir fonksiyonudur. USGA "ortalama iyi" yöntemi olarak, bu ifade etmektedir. Büyük, özürlü yarışmada Yani, onun yeteneklerini ve skor normal varyasyonları açısından en vuruyor golfçü kazanmak gerekir.
+Detaylı birçok varyasyon varken, handikap sistemleri genellikle mermi yaptığı son tarihinin tek bir oyuncunun oynama yeteneğini hesaplamak dayanmaktadır. Bu nedenle, bir handikap sabit değildir, ancak düzenli bir oyuncunun puanlama artışlar veya düşüşler ayarlanır.
+En son yaptığı mermi oyuncunun puanları ve bu turlarda kurs değerlendirmesi ve eğimi: Amerika Birleşik Devletleri'nde, handikaplar çeşitli değişkenleri kullanarak hesaplanır. Bir "handikap diferansiyel" ders eğim ve derecelendirme kullanarak, puanları hesaplanır ve oyuncunun handikap farklılıkları oyuncunun handikap hesaplamak için kullanılır.
+Çizilmeye ve gulyabani golfçüler.
+Kimin handikap sıfır denir A golfçü "çizik golfçü." Kimin handikap yaklaşık 18 olan bir denir bir golfçü "umacısı golfçü." Bu 0'a altında bir handikap var mümkündür; Bu 'plus'in' handikaplar olarak adlandırılır ve turun sonunda, bir 'artı' handikap golfçü aldıkları puanlara kendi handikap eklemeniz gerekir. Onların handikap 3 gibi bir artı sayı ise, o zaman toplam vuruş sayısı bu sayı ekleyerek aslında golfçü final skoru artıracak. Bir oyuncu 69 vuruyor ve bir artı 3 handikap varsa, onların final skoru 72 olacaktır.
+Dersin değerlendirmesi ve eğim.
+Amerika Birleşik Devletleri'nde her resmen puan golf sahası iki sayının, "ders değerlendirmesi" ve "eğim değerlendirmesi" ile açıklanmıştır. Belirli bir dersin ders değerlendirmesi 67 ve o dersin bir çizik golfçü ile ortalama "iyi bir puan" ölçmek için kullanılır 77 arasında genelde bir sayıdır. Belirli bir dersin eğim değerlendirmesi 55 ve çizilmeye golfçü kıyasla "umacı golfçü" (yukarıda tanımlanan) bir dersin göreceli zorluğunu anlatmaktadır 155 arasında bir sayıdır. Bu iki sayı elbette eğim ve derecelendirmeye göre par ilgili bir oyuncunun puanı ayarlamak için kullanılan bir oyuncunun handikap farkı hesaplamak için kullanılır. Ortalama zorluk bir golf sahası için eğim derece 113 olduğunu.
+Her resmen yayınlanan tur için, oyuncunun handikap diferansiyel aşağıdaki formüle göre hesaplanır:
+ESC puanı oyuncunun ders handikap dayalı, sadece handikap hesaplama amaçlı delik başına vuruş maksimum sayıda sağlar adil skoru kontrol ayarlamadan sonra bir tur için vuruş sayısı vardır.
+diferansiyel yakın onuncu yuvarlanır.
+"Handikap" index sonra 0.96 ile çarpılarak oyuncunun son 20 toplam mermi en iyi 10 Diferensiyellerin ortalamasını, kullanılarak hesaplanır. Onda sonra handikap endeksi herhangi basamak kesiliyor. Bir golfçü yayınlanan en az 5 fakat 20'den az mermi varsa, dizin aşağıdaki programa göre bir ila dokuz farklılıklarından kullanılarak hesaplanır:
+Bir golfçü indeksi Güncellemeler periyodik devlet ve bölgesel golf birlikler tarafından sağlanan programlarına göre hesaplanır.
+"Handikap endeksi" aşağıdaki formüle göre golfçü "ders handikap" belirlemek için dersin eğim derecesi ile kullanılır:
+Tabii değerlendirmesi kurs handikap belirlemek için kullanılmaz. Sonuç en yakın tam sayıya yuvarlanır.
+"Elbette handikap" vuruş sayısı net puanı belirlemek için golfçü brüt puanı düşülür olmaktır.
+Örneğin, aşağıdaki tabloda iki aynı sahasında farklı tee pozisyonları ve elde edilen handikap diferansiyel aynı skorla etkisini gösterir:
+Beyaz tee:
+Mavi tee:
+Ayrıca, yukarıdaki hesaplama yapmadan önce, brüt skor oyuncunun handikap endeksi bağlı delik başına maksimum puanı kurarak anormal yüksek bireysel delik puanları etkisini ortadan kaldırır adil skor kontrol tablosu kullanılarak ayarlanmalıdır. Örneğin, 29 ile 20 ders engelli bir golfçü handikap hesaplama amaçlı herhangi bir delikten 8 vuruş maksimum kaydedebilirsiniz.
+Bir puan hesaplama.
+handikap bir oyuncu (veya takım) ekstra vuruş verildiği delikler üzerinde belirlemek için kullanılır. Bunlar daha sonra gerçekte oynanan vuruş sayısı ("Brüt" skor) bir "net" puanı hesaplamak için kullanılır.
+Prosedürler maç çalma ve inme oyun arasında farklılık kaç oyuncu verilen vuruş bulmak için. "Maç oyunu" olarak oyuncuların (ya da takımların ') handikapları arasındaki fark çalınacak delikleri arasında dağıtılır. Örneğin, 18 delikli oynadı eğer, oyuncu A'nın handikap 24 ve oyuncu B'nin handikap sonra On vuruş verilir, 14 geçerli: puan kartında ve hiçbir vuruş ile 10 handikap numaraları 1 tarafından belirlenen on deliklerin her biri üzerinde Kalan sekiz gör. 18 deliklerin her biri üzerinde çalınacak ve puan kartındaki 4 arası handikap numaraları 1 tarafından belirlenen dört delik, her bir ek: biri A'nın handikap 36 ve B handikap 14 ise, A 22 vuruş verilir.
+"inme play" yordamı benzer, ancak her oyuncunun bireysel handikap (yerine iki oyuncuların handikapları arasındaki fark) ekstra vuruş hesaplamak için kullanılır. Bu nedenle, handikap 10 olan bir oyuncu, kalan sekiz on puan kartındaki ile 10 handikap numaraları 1 ve hiçbir ekstra vuruşları tespit on deliklerin her biri üzerinde tek vuruş verilir. 18 deliklerin her biri üzerinde ve puan kartındaki 4 arası handikap numaraları 1 tarafından belirlenen dört delik, her bir ek: biri 22 bir handikap olan bir oyuncu 22 vuruş verilir.
+"Net" Sonuçların hesaplanması için örnek: A par dört delik tek vuruş verilir ve oyuncu B hiçbiri verilir varsayalım. Altı vuruş oynar ve B beş oynarsa, onların "net" puanları eşit. Bu nedenle, "maç play" delik yarıya düşer; "inme play" in hem "net" umacısı (par üzerinde bir) oynamıştır. Her iki beş vuruş oynarsanız, Bir tek "net" inme daha iyi oynadı. Bu nedenle, "maç play" A delik kazandı; "inme play" in A "net" par ve B bir "net" umacısı oynamıştır.
+Spesifik bir örnek.
+Adam, Brian, Chris ve Dan, birbirlerine karşı bir rekabet içinde olan çeşitli yeteneklerin: en dört golfçüler var diyelim. Sağa oyuncuları ve handikap endeksleri vardır. Elbette (tee çalınan itibaren) aşağıdaki eğime sahiptir: 120.
+Yani, yukarıdaki formüller kullanılarak, burada (sadece yamaç handikap belirlemek için kullanılan not) onların "tee ders handikapları çalınan" şunlardır:
+Ve son olarak, sağa brüt ve net puanları. O aslında onun handikap daha vurdu gruptaki tek nedeni Dan kazanır.
+Eğim oranı.
+"Eğim oranı" ders değerlendirmesi karşılaştırıldığında umacı golfçü için göreli zorluk ölçümünü gösteren USGA işaretidir. Eğim oranı umacısı değerlendirmesi ve ders değerlendirmesi arasındaki farktan hesaplanır. "h" düşük eğim değerlendirmesi 55 ve en yüksek ortalama eğim derece bir handikap endeksi verilen "s" bir eğimle belirli bir ders tee kümesi verilen handikap vuruş hesaplamak için 113 olan 155. olduğunu Aşağıdaki formül kullanılır: (s / 113) * h en yakın tam sayıya yuvarlanır.
+Örnek: Bir erkek golfçü Yamaç Değerlendirme 126 ve Ders Değerlendirme 72,5 ile bir ders çalış. Tee bu özel seti yaklaşık 95.9 olacak, onun en iyi on (yirmi üzerinden) puanları umacısı golfçü ortalama tahmin - formülü Başına, 126 / 5,381 + 72,5 = 95,9 hesaplamak.
+Yukarıdaki dayanarak, doğru formül (126/113) 18 + 72,5 = 92,5 bir yamaç değerlendirme 126 kursta bir umacı golfçü olurdu.
+USGA sisteminin tarihçesi.
+USGA sık sık handikap sisteminin bütünlüğünü korumak için mahkemelere başvurdu. Böyle bir durumda, Temyiz Mahkemesi Kaliforniya (Birinci Bölge) sistemin tarihini özetledi:
+İngiltere ve İrlanda'da şike.
+İrlanda İngiltere ve Cumhuriyeti'nde bir "karalama puanı" sistemi, dersleri oranı ve değişen yeteneği golfçüler adil olmak ve kurslar par daha "kolay" ya da "zor" oynayabilir ödenekleri yapmak amacıyla yerinde daha önce oldu Genel olarak, amatör alanına. Bu nedenle, ders pratikte nasıl oynadığını için bir temel olarak kullanılan bir "standart çizik puanı" (SSS) için (örn SSS par daha düşük bir golfçüler biraz daha kolay bulmak dersi ve tersi gösterir).
+SSS Akın "Rekabet Scratch Score" (CSS) 'dir. prensip, sadece bu kadar kolay ya da zor verilen bir yarışma sırasında oynanan ders anlatır, aynıdır. Bir oyuncunun handikap kulübü tarafından ayarlanır, bu CSS puanı aykırıdır. 5 ya da daha düşük bir engelli golfçüler 1. Kategori oyuncu olduğu söyleniyor. Yükseköğretim handikap oyuncular Kategori 2, 3 veya Kategori 1 golfçü net skor CSS altında her inme için 4. olarak kategorize edilir, onun handikap 0.1 oranında azalır. Kategori 2 golfçüler için, bu rakam Kategori 3 golfçüler için Kategori 4 golfçüler için 0,3 azalma ve 0.4, 0.2 olduğunu.
+Benzer şekilde, amatör golfçüler "off-günlerinde" kendi handikap korumak için "tampon bölge" izin verilir. Cat 1 için bu Cat 2 için Bu Kategori 1 golfçü net skor CSS birden inme yüksek ise, onun handikap artış anlamına gelir, vb 2 vuruş ise, 1 vuruştur. Bir golfçü net skor CSS artı tampon bölge kombine daha yüksek ise, onun handikap 0.1 oranında artacak. Bu 0,1 artış, tüm golfçüler kapsar ve kategoriye göre değişmez.
+İngiltere (England Golf), İskoçya'nın Ev Birlikleri, Galler ve İrlanda erkekler hem de kadınlar için şike kuralları yayımlamak National Golf Sendikaları Konseyi (CONGU) üyeleri vardır.
+Onlar elle yapılabilir olsa da, bilgisayar yazılımı artık CSS hesaplamak için kullanılmalıdır ve İrlanda ve İngiltere handikapları artık Engellerin (CDH) bir merkezileştirilmiş veritabanına yayınlanmaktadır. CDHS ayrıca 2011 yılında İskoçya ve Galler'de tanıtılıyor.
+EGA Handikap Sistemi.
+"EGA Handikap Sistemi" golf yeteneklerini değerlendiren EGA en (Avrupa Golf Birliği) yöntemidir
+çok farklı standartların oyuncuları handikap olaylarında rekabet edebilecek
+eşit şartlarda.
+Bir "Handikap Playing EGA" Handikap sayısı oyuncu alır Strokes olduğunu
+sahasında Tees belirli bir kümesi için çalınan.
+Oynama Handikap, 0.5 yukarı doğru yuvarlanır (bir tam sayı olarak ifade edilir
+-0,5 ("Artı" 0.5) 0 (çizik) ve -1,5 ("artı" yukarı doğru yuvarlar
+1.5) (-1 "artı" 1).
+Not 1: Bir oyuncunun Playing Handikap oynamak sözde "Plus" (negatif ise
+Handikap) o Handikap veren vuruşta başlamadan, ders Strokes
+endeks 18.
+Not 2: Playing Handikap anılacaktır "Handikap" olarak kabul edilir
+Golf Tüzüğü'nün 6-2.
+"EGA Handikap Playing Formula içine" EGA Tam Handikap dönüştürür
+EGA Handikap Çalma:
+Handikap = Tam Handikap x (Eğim Değerlendirme / 113) + (Ders Değerlendirme Oynama
+- Par)
+EGA sistemde, nihai puanları Rekabet Stableford Ayar yöntemi kullanılarak tadil edilebilir.
+Avustralya Handikap Sistemi.
+Avustralyalı Golf handikapları Golf Avustralya'nın selefi, 1990'larda Avustralyalı Golf Birliği tarafından geliştirilen dünyanın ilk bilgisayarlı şike sistemiydi GOLFLink tarafından korunur. O Birlikte onun Devlet / Eyalet organları ile 2006 yılında GA oluşturmak için Kadın Golf ile birleşti kadar AGU GA 1530 Golf Kulüpleri ait 445.000 amatör golfçüler temsil eder ve Artıları, müfettişlerin, Yöneticileri ve Mimarlar temsil organları yanında oturur, 1898 çalıştırılır.
+GOLFLink iken ilk olarak diğer dünya şike sistemlerinden ayıran iki temel özelliklerini içeriyordu tanıttı:
+1. Bu ders gününde ne kadar zor olduğunu belirlemek için hesaplanan Ders Değerlendirme güvendi ve bunun üzerine handikap ayarı yapıldı
+2. Avustralya'da herhangi GOLFLink terminalinden onun handikap erişmek için bir oyuncu etkin bir 'manyetik' kart kullanıldığında
+Nisan 2010'da GA 0.96 ile çarpılır oyuncunun son 20 toplam mermi en iyi 10 Diferensiyellerin ortalamasını kullanarak USGA hesaplama yöntemi benimsemiştir. 2011 yılı Eylül ayında bu 0.93 ile çarpılarak en iyi 8 20 üzerinden mermi, için değişmiş oldu. Hiçbir oyuncu haddeleme 12 aylık dönemde en fazla 4 ile onun handikap artırmak için izin böylece ek olarak bir "çapa" tanıttı. Bu değişikliklerin nedenleri yüksek ve düşük belirteçleri arasındaki eşitliği geri sayıldı.
+(Mart 2013) tarafından Günlük Scratch Değerlendirme - USGA Yamaç sistemi tanıtmak yerine, GA CCR daha sofistike bir versiyonunu tanıtmak niyetinde.

@@ -1,0 +1,11 @@
+1	Tüm	tüm	Det	Det	_	4	DETERMINER	_	_
+2	_	canlı	Noun	Noun	A3pl|Pnon|Loc	3	DERIV	_	_
+3	canlılardaki	_	Adj	Adj	Rel	4	MODIFIER	_	_
+4	temel	temel	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT	_	_
+5	fonksiyonel	fonksiyonel	Adj	Adj	_	6	MODIFIER	_	_
+6	yapı	yapı	Noun	Noun	A3sg|Pnon|Nom	7	CLASSIFIER	_	_
+7	birimi	birim	Noun	Noun	A3sg|P3sg|Nom	9	SUBJECT	_	_
+8	_	ne	Pron	QuesP	A3sg|Pnon|Nom	9	DERIV	_	_
+9	nedir	_	Verb	Zero	Pres|A3sg|Cop	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

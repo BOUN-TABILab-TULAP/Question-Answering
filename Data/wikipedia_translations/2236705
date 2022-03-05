@@ -1,0 +1,14 @@
+Semantik Web Stack
+Ayrıca Semantik Web Cake veya Semantik Web Layer Cake olarak da bilinen Semantik Web Stack, Semantik Web mimarisini göstermektedir.
+Semantik Web, uluslararası standartlara vücudun World Wide Web Konsorsiyumu (W3C) tarafından yönetilen ortak bir harekettir. Standart World Wide Web üzerinde ortak veri formatları desteklemektedir. Web sayfalarında anlamsal içeriğe dahil teşvik ederek, Semantik Web, bir "veri web" içine yapılandırılmamış ve yarı yapılandırılmış belgeler hakim akım web, dönüştürme amaçlamaktadır. Semantik Web yığını W3C Kaynak Tanımlama Çerçevesi (RDF) üzerine inşa edilmiştir.
+Genel Bakış.
+Semantik Web yığını her katmanı patlatır ve aşağıdaki katmanların özelliklerini kullanan dillerin hiyerarşisinin, bir örneğidir. Bu Semantik Web için standardize edilmiş teknolojiler Semantik Web mümkün kılmak için nasıl organize edildiğini gösteriyor. Semantik Web, klasik köprü web uzantısı (değil değiştirme) nasıl Aynı zamanda gösterir.
+illüstrasyon Tim Berners-Lee tarafından yaratıldı. katmanlar somutlaşır olarak yığın hala gelişmektedir.
+Semantik Web teknolojileri.
+Semantik Web Stack gösterildiği gibi, aşağıda belirtilen diller veya teknolojileri Semantik Web oluşturmak için kullanılır. OWL kadar yığının altından teknolojileri şu anda standardize ve Semantik Web uygulamaları oluşturmak için kabul edilir. Bu yığının üst uygulanmaya nasıl gidiyor hala net değil. Yığının bütün katmanları Semantik ağ-yapının tam görüşlerini elde etmek için uygulanması gereken.
+Köprü Web teknolojileri.
+alt katmanlar iyi köprü web bilinen ve değişim olmaksızın semantik web için temel sağladığını teknolojileri içeriyor.
+Standardize Semantik Web teknolojileri.
+Orta katmanlar semantik web uygulamaları oluşturmak etkinleştirmek için W3C tarafından standardize teknolojileri içeriyor.
+Gerçekleşmemiş Semantik Web teknolojileri.
+En katmanlar henüz standardize veya Semantik Web gerçekleştirmek için uygulanması gereken sadece fikirler içermiyor teknolojileri içeriyor.

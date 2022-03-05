@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Biyokütle Biyokütle+Noun+Prop+A3sg+Pnon+Nom
+enerjisinin enerji+Noun+A3sg+P3sg+Gen
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+gibi gibi+Postp+PCGen gibi+Postp+PCNom
+avantajları avantaj+Noun+A3pl+Pnon+Acc avantaj+Noun+A3pl+P3sg+Nom avantaj+Noun+A3pl+P3pl+Nom avantaj+Noun+A3sg+P3pl+Nom
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,13 @@
+İki düz çizgiler arasındaki mesafe
+düzleminde iki düz çizgi arasındaki mesafe hatları üzerinde yatan herhangi iki nokta arasındaki minimum mesafedir. Aralarındaki minimum mesafe (kesişme noktasında) sıfır olduğundan kesişen çizgiler halinde, bunlar arasındaki mesafe, sıfırdır; iki paralel çizgi halinde ise, bu diğer hat için bir satırda bir noktadan dik yöndeki mesafedir.
+Formül ve kanıt.
+Hatlar paralel olduğundan, bunların arasındaki dikey mesafe sabittir, bu yüzden mesafeyi ölçmek için seçilir ve bu noktada bir önemi yoktur. Olmayan iki dikey paralel çizgilerin denklemleri göz önüne alındığında
+İki çizgi arasındaki mesafe demire düşey bir hatta bu hat iki intercepts arasındaki mesafedir
+Bu mesafe, ilk lineer sistemlerin çözümü bulunabilir
+ve
+kesişim noktaları koordinatlarını alır. Lineer sistemlerin çözümleri noktalarıdır
+ve
+noktaları arasındaki mesafe
+hangi azaltır
+Çizgiler ile verildiğinde
+aralarındaki mesafe olarak ifade edilebilir

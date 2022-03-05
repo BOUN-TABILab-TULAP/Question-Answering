@@ -1,0 +1,223 @@
+Question: Rihter ölçeği ne amaçla kullanılır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Depremler (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlığın varoluşundan bu yana depremler en önemli doğal olaylardan biri olmuştur. İnsanlar ilk önceleri depremlerin oluş nedenlerini değişik şekillerde açıklamaya çalışmışlardır. Örneğin, sık sık deprem olan Japonya'da, Dünya kurulurken toprağın içinde kalan bir balığın dışarı çıkmak için yaptığı çırpınmaların depremleri oluşturduğuna inanılmıştır. Yeni Zelanda’nın ilkel kavimlerinin inançlarına göre deprem, deprem yaratan bir tanrının arzusuna bağlı olarak oluşmaktaydı. Ancak 18. yüzyılın sonlarına doğru bu görüşler etkisini yitirmiş ve depremlerin nedenleri bilimsel yöntemlerle açıklanmaya başlanmıştır.
+Fay Tipleri
+Yer kabuğu hareketleri, yer kabuğunu oluşturan tabakaların üzerinde çok büyük gerilimler oluşturur. Bu gerilimler neticesinde sert olan tabakalar kırılır. Bu kırık alanlar fay hatlarını oluşturur. Fayların geçtiği sahalar çoğu kez yer kabuğunun altında biriken enerjinin kolaylıkla yer yüzüne çıktığı alanlardır. Fay hatlarının geçtiği yerlerde deprem riski de fazladır.
+Normal fay
+Fay hattının iki yanındaki blokların düşey yönde birbirinden uzaklaşmasıyla oluşur.
+Ters fay
+Alçalan bloğun, yükselen blok altına dalmasıyla oluşur.
+Doğrultu atımlı fay
+Kırık boyunca tabakaların yatay yönde yer değiştirmesi ile oluşur.
+Fayların iki tarafında kalan bloklar aşağı ve yukarı doğru hareket edebileceği gibi yatay olarak da hareket edebilir ve bu hareket sonrasında da depremler meydana gelir. Bu tür depremlere tektonik depremler denir. Depremin büyüklüğü açığa çıkan enerji miktarına bağlıdır.
+Dış merkez
+Deprem dalgalarının en kısa yoldan yüzeye ulaştığı noktadır.
+Deprem şiddetinin en fazla hissedildiği yerdir. Deprem dalgaları suya atılan taşın oluşturduğu dalgalar gibi merkezden çevreye doğru yayılır. Merkezden uzaklaştıkça depremin etkisi de azalmaktadır.
+İç merkez
+Deprem sırasında deprem odağından yayılan titreşimler (dalgalar) yer kabuğunda sarsıntılar oluşturur.
+Depremin başladığı yer olarak kabul edilen noktadır.
+Birikmiş enerjinin tümü ilk sarsıntıda boşalmayabilir. Kalan kısım asıl depremi takip eden artçı sarsıntılarla boşalır.
+Deprem Dalgalarının Etkisi
+Deprem sırasında deprem dalgalarının yayıldığını öğrenmiştiniz. Deprem odağından çevreye doğru yayılan dalgaların şiddeti ve etkileri aşağıdaki tabloda gösterilmiştir.
+Boyuna Dalgalar (P)
+Yüzeye ilk ulaşan ve saniyede 8 km yol alan bu dalhalar zemini sıkıştırma ve genişletme özelliğine sahiptir.
+Enine Dalgalar (S)
+Saniyede 4,5 km yol alarak yüzeye ulaşır ve yüzeyi sağa sola, aşağı yukarı sallar.
+Yüzey Dalgalar (L)
+Saniyede 1,5 km yol alan yüzey dalgalar gibi salınım hareketleri meydana getiren yıkıcı etkisi en fazla olandır.
+Deprem Dalgalarını Tespit Etmek
+Deprem, sismoloji biliminin inceleme alanına girmektedir. Deprem titreşimlerini kaydetmek için bilim adamları sismograf denilen cihazı kullanmaktadırlar.
+Depremin şiddetini tespit etmek için bazı ölçekler geliştirilmiştir ve bunlardan en yaygın olarak kullanılanı Richter (Rihter) ölçeğidir.
+Richter (Rihter) ölçeği depremin yaptığı hasara göre değil, deprem odağından çevreye yayılan enerji miktarına göre yapılmıştır. Deprem sırasında açığa çıkan bu enerjiye depremin magnitüdü (büyüklüğü) denir.
+Rihter ölçeği Depremin büyüklüğü (Magnitüd)	Mercalli ölçeği	Depremin şiddeti
+3,5-4,2	1 -3	Hafif
+4,3-4,8	4-5	Orta
+4,9 - 6,1	6-7	Şiddetli
+6,2 - 7,3	8-10	Yıkıcı
+7,4 +11- 12	Afet
+Depremlerin büyüklüğünün sadece magnitüd değeri olarak verilmesi, deprem konusunda yeterli bilgisi olmayan insanların depremin büyüklüğünü tam olarak anlayamamasına sebep olmaktadır. Bundan dolayı, depremlerin magnitüd değerleri dışında şiddetleri de verilmektedir.
+Büyüklük depremin odak noktasından çıkan enerji miktarıdır. Şiddet ise depremin yer yüzünde meydana getirdiği etkidir.
+Tsunami
+Depremler yalnızca karalarda değil, okyanus ve deniz tabanlarında da meydana gelmekte, deniz yüzeyinde dev dalgaların oluşmasına neden olmaktadır. Tsunami adı verilen bu dalgalar kıyıya kadar ilerleyerek alçak alanların sular altında kalmasına, can ve mal kayıplarına neden olmaktadır.
+Deprem Türleri: Depremler oluş nedenlerine göre değişik adlar alırlar.
+Tektonik depremler; Levhaların hareketine bağlı olarak yer kabuğunun derinliklerinde meydana gelen basınçlar, gerilmeler ve kırılmalar sonucunda oluşur.
+Volkanik depremler; Volkanik patlamalar sırasında meydana gelen sarsıntılardır. Özellikle asit karakterli lavların çıkışı esnasında sarsıntılar yaşanır. Depremin şiddeti volkanizmanın büyüklüğüne ve süresine bağlı olarak değişir. Volkanik depremlerin etki alanı dardır.
+Çöküntü depremleri; yer altındaki boşlukların (mağara), kömür ocaklarındaki galerilerin, karstik arazilerde erime sonucu oluşan boşlukların tavan bloklarının çökmesi ile oluşur. Etki alanları dardır. Büyük heyelanlar ve gökten düşen meteorların da küçük sarsıntılara neden olduğu bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Svyatoslav Teofiloviç Rihter</DOCTITLE>
+<TEXT>
+
+Svyatoslav Teofiloviç Rihter (Richter olarak da yazılır, Rusça: Святослав Теофилович Рихтер, d. 20 Mart 1915, Jitomir, Ukrayna, Rus İmparatorluğu - ö. 1 Ağustos 1997, Moskova, Rusya), Sovyet/Rus-Ukraynalı piyanist. 20. yüzyılın en önemli piyanistlerinden birisi olarak kabul edilir. 
+Yaşamı.
+O zaman Rusya İmparatorluğu, bugün Ukrayna sınırları içinde bulunan Jitomir’de 20 Mart 1915’te dünyaya geldi. Babası Teofil Danilovich Richter Viyana’da eğitim görmüş bir Alman müzisyen, annesi Anna Pavlovna ise onun bir Rus öğrencisidir. Odessa’da yetişti. Piyano çalmayı önceleri kendi kendine daha sonra babasından öğrendi. 1937’ye kadar resmi bir müzik eğitimi almadı. 
+On sekiz yaşında Odessa Operası'nda eşlikçi ve şef yardımcısı olarak çalışmaya başladı. Daha o zamanlar orkestrada bütün partisyonları bir bakışta okuyabilmesiyle ünlendi. İlk konserini 1935'te Odessa'da verdi. 
+1937'de Heinrich Neuhaus ile düzenli çalışmalara başlamak üzerine Moskova Konservatuvarı'na sınavsız kabul edildi. Neuhaus, onu “"hayatı boyunca beklediği dahi öğrenci"” olarak nitelemiştir. 
+Prokofyev, 1940’taki 6. Sonattan sonra 1942’de 7. Sonatının dünya prömiyerini de Richter’in gerçekleştirmesini isteyince Richter, eseri dört günde öğrenip çaldı. Prokofyev, 8. ve 9. sonatlarını da ilk seslendirilişi için ona vermiş; ve 9. Senfoniyi Richter’e adamıştır. 
+1945 yılında soprano "Nina Dorliak" ile tanıştı ve ona Rimsky-Korsakov ve Prokofyev’in eserlerinden oluşan bir programda eşlik etti. Çift, resmen hiç evlenmedi ancak hayatları boyunca birlikte oldu.
+1945'te Sovyetler Birliği Müzik Yarışması'nı, 1949'da da Stalin Ödülü'nü kazandıktan sonra ünü hızla yayıldı; Rusya, Doğu Avrupa ve Çin’de pek çok konser vermesinin önü açıldı. 1952’de ilk defa orkestra şefi olarak Prokofyev’in "Senfoni-Konçerant" Op.125 adlı eserinin dünya prömiyerini gerçekleştirdi. Orkestra şefliğini bırakarak 1952'den itibaren piyanoya yöneldi. 1953’te Stalin’in cenazesinde David Oistrakh ile birlikte Prokofyev’in 1 Numaralı Keman Konçertosunu seslendirdi. 1958’de dünyanın en önemli müzik yarışmalarından I. Uluslararası Çaykovski Müzik Yarışması’nda jüri üyesi olan Richter, ABD’li piyanist Van Cliburn’un çalışından çok etkilendi ve bir Rus piyanisti birinci yapmaya çalışan diğer jüri üyelerine rağmen birincilik ödülünü Van Cilburn’un almasını sağladı. 
+Yeteneğinin çok yönlülüğü sayesinde, Bach'ın "Ayarlı klavye"'sinin tümünü plağa çaldı, arkadaşı olan Prokofyev'in piyano sonatlarından üçünü ilk kez seslendirdi; Elisabeth Schwarzkopf ve Dietrich Fischer-Dieskau gibi şarkıcılara eşlik etti. 
+Philadelphia Orkestrası'nın Sovyetler Birliği turnesi sırasında orkestrada solist olarak çaldı. 1957'de de Çin'de konserler verdi. 1958’de dünyanın en önemli müzik yarışmalarından I. Uluslararası Çaykovski Müzik Yarışması’nda jüri üyesi olan Richter, ABD’li piyanist Van Cliburn’un çalışından çok etkilendi ve bir Rus piyanisti birinci yapmaya çalışan diğer jüri üyelerine rağmen birincilik ödülünü Van Cilburn’un almasını sağladı.
+Batıda ilk defa 1950’lerde konser kayıtları yoluyla tanındı. ABD turnesine gitmesine 1960’a kadar izin verilmedi. 1960’ta çıkabildiği ABD turnesi büyük ilgi uyandırdı; Ekim ayında New York’ta Carnegie Hall’de verdiği yedi konser ona dünya çapında ün getirdi. 1961’de EMI firması ile kayıt anlaşması yapan Richter, bu firmayla bağını 1980’lere kadar sürdürdü. Konser piyanistliğinin tercih ettiği bir yaşam tarzı olmadığına karar verdiği için 1970’ler ve 1980’lerde konser turnelerine devam etmedi; kendi dilediği zaman konser vermeyi sadece piyanosunun aydınlatıldığı karanlık salonlarda çalmayı tercih etti. 1964’te Tours yakınlarındaki bir festivale katıldıktan sonra her yıl yazı çok sevdiği Fransa’da geçirdi ve arkadaşlarıyla konserler verdi. David Oistrakh, Benjamin Britten ve Mstislav Rostropoviç gibi müzisyenlerle oda müziği çalmaktan hoşlanırdı. Birkaç kez Türkiye'de de (1967'de ve 1993'te) resital vermiştir.
+Hem dinleyicilerin, hem eleştirmenlerin büyük övgüsünü kazanan Rihter, İngiltere'de Aldeburgh ve İtalya'da Spoleto festivalleriyle Fransız Müzik Festivalleri'ne katıldı. 1961'de SSCB Halk Sanatçısı seçildi ve Lenin Nişanı ile onurlandırıldı. 1996'da Rusya Federasyonu Devlet Ödülü aldı. Son resitalini 1995’te Lübeck’te verdi. 1 Ağustos 1997’de Moskova’da kalp krizinden hayatını kaybetti.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Richter ölçeği</DOCTITLE>
+<TEXT>
+
+Richter ölçeği ya da yerel magnitüd ölçeği, sismoloji´de kullanılan, dünya genelinde meydana gelen depremlerin aletsel büyüklüklerini ve sarsıntı oranını (magnitüd, İngilizce:"magnitude") belirleyen ve sınıflara ayıran uluslararası ölçüm birimi. Günümüzde, özellikle büyük ölçekli depremlerde moment magnitüd ölçeği, Richter'in ("Rihter" okunur.) yerini almıştır.
+Tarihçesi.
+Bu ölçek, 1935 senesinde Charles Francis Richter ve Beno Gutenberg tarafından Kaliforniya Teknik Enstitüsü'nde ("California Institute of Technology") tasarlanıp, ilk olarak ML-ölçeği (yerel magnitüd İngilizce:"Magnitude Local") olarak isimlendirilmiştir.
+Amerikan Sismoloji Derneği Bülteni´nde ("Bulletin of the Seismological Society of America") "Bir aletsel deprem büyüklük ve sarsıntı oranı ölçeği" isimli ("An instrumental Earthquake Magnitude Scale") bilimsel yayımlamada, Charles Francis Richter´in ilk defa K. Wadati´nin 1931´de yayımladığı, "bir aletsel deprem ölçeği" fikrini Kaliforniya´da meydana gelen depremlerde uyguladığı belirtilmiştir.
+Açıklaması.
+Deprem büyülük ölçeği yukarıya doğru sınırsız olsa da, bir jeolojik levhanın jeolojik enerji potansiyelinin, bilim adamlarına göre, tahminen 9,5 büyüklüğünü geçemeyeceği düşünülür. Açıklama olarak şu nokta öne sürülür: Her jeolojik levhada, zaman geçtikçe farklı derecelerde ve zamanlarda tektonik hareket ile jeolojik enerji potansiyali artmaktadır. Bu artış, levhalar rahat ve serbest şekilde hareket edemediklerinden, itici, çekici vb. kuvvetlerin levhalarda jeolojik enerji olarak saklanmasından, bir başka deyişle potasiyel enerji birikmesinen doğar. Deprem, jeolojik potansiyel enerjinin levhalarda daha fazla saklanamaması sonucu oluşur; böylece, levhanın en zayıf noktasından ani hareketle jeolojik enerji potansiyeli doğal yoldan azalır. Bu sanı gereğince, dünyadaki mevcut jeolojik levhaların hiç biri, 9,5'ten büyük deprem oluşturacak jeolojik enerji potansiyeline sahip değildir.
+Depremin enerji potansiyelinin hesaplanması.
+Enerji ve magnitüd arasındaki logaritmik bağlantı, aşağıdaki formül gereğince tahminen elde edilebilinir: 
+M = magnitüd ve W = eşdeğer TNT ton bazında enerji
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hyōgo ili</DOCTITLE>
+<TEXT>
+
+Yerleşim biriminin adı önceleri farklı olarak "Hiogo" şeklinde söylenmiştir.
+Tarihçe.
+Günümüzde Hyōgo Prefecture eski Harima'nın illerini kapsar; Tajima, Awaji ve Tamba ve Settsu'nun bazı kısımları. 
+1180'de, Heian Dönemi sonuna doğru, Emperor Antoku, Taira no Kiyomori, ve İmparatorluk şuanki Kobe yakınındaki Fukuhara'ya taşınmışdır. Böylece 5 ay başkent olarak kalmıştır. 
+Himeji Şatosu, UNESCO, Dünya Mirası Alanı, Himeji şehrindedir.
+Ako Han, 47 Ronin'nin evi de Hyōgo Prefecture'da bulunur. 
+Güney Hyōgo Prefecture 1995 yılında Rihter ölçeğine göre 7.2 iki şiddetindeki depremde büyük oranda hasar görmüş, Kobe ve Awaji'nin büyük kısmı yıkılmış, Takarazuka ve komşusu Osaka prefectureda 5500'e yakın kişi ölmüştür.
+Coğrafya.
+Hyōgo'nun denizle iki kıyısı vardır: kuzeyde Japon denizi, güneyde Inland denizi. Kuzey kısmı Toyooka şehri haricinde seyrek nüfusludur, orta dağlık kısımlarında ise sadece küçük köyler bulunur.
+Hyōgo'nun nüfusunun çoğu Osaka-Kyoto-Kobe metropolünün bir parçası olan güney kıyısında yaşar. Awaji Adası Inland denizinde Honşū ve Şikoku arasında bulunur.
+Hyōgo heryerinde yazları hava sıcak ve nemlidir. Kışları, kuzey kıyılar karlıyken, güneyler ara sıra meydana gelen rüzgarlara maruz kalır.
+Hyōgo Osaka ili, Kyoto ili, Tottori ili ve Okayama ili ile çevrelenmiştir.
+Şehirler.
+Hyōgo ili'nde 29 şehir bulunur:
+Ekonomi.
+Hyōgo Prefecture ağır endüstrilere, metal ve medikal sanayilerine sahiptir ve Japonya'daki en büyük liman Kobe'dir.
+Hyōgo, Hanshin endüstri bölgesinin bir parçasıdır. Kobe ve Harima'da Riken'in iki doğal bilimler araştırma enstitüsü bulunur. "SPring-8", bir sinkrotron radyasyon tesisi de Harima'da bulunmaktadır.
+Kültür.
+Kobe'de Hyōgo Sanat müzesi bulunmaktadır. 
+Spor.
+Hyōgo'da yapğılan sporların listesi şöyledir:
+Turizm.
+Kobe bir popüler turistlik yer olara bilinir. Japonlara göre Batıyla ilişkilerin sembolüdür. Bazı eski Amerikan İngiliz ve Avrupa evleri hala liman yakınında bulunmaktadır. 
+Kobe limanı Japonya'daki en ünlü limandır. 
+Takarazuka Revüsü Takarazuka'da bulunur ve turistlerin ilgisini çeker. 
+Himeji Şatosu UNESCO tarafından övülen bir mekandır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pirazinamid</DOCTITLE>
+<TEXT>
+
+Pirazinamid (PZA ya da Z) , özellikle tüberküloz tedavisinde kullanılan, etki şekli bilinmeyen zayıf bakterisidal etkili bir antibiyotiktir. 500 mg tablet formları mevcuttur ( diğer bir formu olan Morfozinamid' de aynı amaçla kullanılır ama günlük dozu Pirazinamid'den farklıdır). Yiyeceklerle emilimi azaldığından yemeklerden önce alınmalıdır.
+Kontendikasyonları.
+Aşırı duyarlılık, porfiri, stabil olmayan karaciğer hastalığı
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hiragana ve Katakana</DOCTITLE>
+<TEXT>
+
+Hiragana, Japon yazısının ana alfabesidir. Pek çok Japon asıllı kelime, dilbilgisi ve benzeri "Hiragana" ile yazılır. Katakana ise yabancı dil asıllı kelimelerin yazımında kullanılır. /n/ sesini karşılayan 'ん' karakteri ve /a/ あ, /i/ い, /u/ う, /e/ え, /o/ お ünlü sesleri dışında her karakter hece şeklinde bir telaffuza sahiptir: bir sesli ve bir sessizden oluşmak üzre. Normal yalın halde 46 karakterden oluşurken yazım içerisinde bazı karakterlerin üzerinde " vardır, veya sonrasında bir o vardır. ", sert bir sesi yumuşak bir sese çevirmek istediğiniz zaman kullanılır... " ve o Katakana'da da aynı amaçla kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tabak (eşya)</DOCTITLE>
+<TEXT>
+
+Tabak, (Farsça: تابک، تابه) yiyecek servis etmeye ya da içinden yemek yemeye yarayan geniş, hafif çukurca kaplara verilen genel addır. 
+Tabaklar genellikle porselen ve kumlu taş gibi seramik materyallerden yapılır. Bunların yanı sıra cam ve plastik çeşitler de bulunur. Daha nadir olarak tahta ya da oyulmuş taşlar da kullanılır. Son dönemlerde tüketimi oldukça artan tek kullanımlık tabaklar kâğıttan ya da ince plastiklerden yapılmaktadır. Yemek kültüründe her yemek için kullanılacak tabağın boyutu farklılık gösterir. Fincan tabağından, yağ tabağına, pasta tabaklarına, yemek tabaklarına ve servis tabaklarına doğru boyutlar giderek artar. Pek çok tabak günlük kullanımdan çok dekoratif amaçla da kullanılır. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Öğrenilen geçmiş zaman</DOCTITLE>
+<TEXT>
+
+Öğrenilen geçmiş zaman, Türkçede fiil sonuna "-miş" ekinin ses uyumlarına uyacak şekilde (-miş, -mış, -muş veya -müş haliyle) eklenmesi ile oluşturulan geçmiş zaman yapısı. Ayrıca rivayet geçmiş zaman, duyulan geçmiş zaman ve miş'li geçmiş zaman olarak da bilinir. Standart bir olumlu basit cümle kuruluşu şu şekildedir:
+Görevleri.
+-miş'li geçmiş zaman, Türkçede başlıca olarak iki amaçla kullanılır. İlk olarak geçmişte gerçekleşmiş ancak başka bir kaynaktan öğrenilmiş (şahsen şahit olunmamış) bir olaydan veya durumdan bahsederken kullanılır:
+Kendi kendine sonradan farkedilen veya keşfedilen durumlar için kullanılır:
+Bildirme eki "-dir" ile kullanımı.
+Öğrenilen geçmiş zaman kipi, "-dir" bildirme eki birlikte kullanıldığında "d" ünsüzü sertleşerek "t"ye dönüşür (-miştir). Eylem bu haldeyken belirleme, saptama ve resmî veya ciddî açıklamalarda; olasılık ve tahmin belirtmede; geçmişte sürekli yaşanan bir olayı veya bir durumu belirtmede kullanılır:
+-miş eki Türkçede sıfat-fiil eki olarak da kulanılır ancak bu ekin kullanıldığı cümleler öğrenilen geçmiş zaman kipinde olmayabilirler:
+Olumsuz hâli.
+Öğrenilen geçmiş zamanın olumsuz hâli fiil cümlelerinde -miş ekinden önce -me olumsuzluk eki eklenerek yapılır:
+İsim cümlelerinde "değil" koşacı ile oluşturulur:
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mecaz</DOCTITLE>
+<TEXT>
+
+Mecaz ya da metafor, ilgi veya benzetme sonucu gerçek anlamının dışında kullanılan kavram. "Ad değişimi" olarak da bilinir. Mecâz sanatı, anlatımı daha etkili kılmak ve söze canlılık kazandırmak amacıyla yapılır. Söze güzellik, güçlülük, canlılık, zarafet, derinlik veya genişlik verir. 
+Yukarıdaki mısralarda Kandilli semtinin uykularda yüzmesi ve mehtabın sularda sürüklenmesi; sözcüklerin asıl anlamının dışında güzelleştirme, zarifleştirme ve güçlendirme gibi amaçlarla mecaz olarak kullanılmasına örnektir.
+Etimoloji.
+"Mecaz" sözcüğü Türkçeye en geç 1300'lü yıllarda, Arapça "macāz" sözcüğünden geçmiştir. Bu sözcük Arapçadaki cwz (geçit, köprü) kökünden gelir. Türkçeye Fransızcadan geçen, Antik Yunancada "taşıma, transfer etme" anlamlarına gelen "metafor" sözcüğü, Aristoteles'te"mecaz" anlamında kullanılmış, Antik Çağ'ın sonlarına doğru ise anlam daralmasına uğrayarak Türkçedeki "istiare, eğretileme" kavramları karşılığında kullanılmaya başlanmıştır.
+Gerçek anlam.
+Bir kavramın mecaz olmayan anlamlarına gerçek anlam denir:
+Yan anlam.
+Mecaz anlam sıklıkla yan anlam ile karıştırılır. Yan anlamların her biri, sözcüğün gerçek anlamlarından biridir ve birincil anlamla (temel anlamla) yakından ilişkilidir.
+Mecaz türleri.
+Mecaz, sözcük ve fikir mecazları olmak üzere ikiye ayrılır. Sözcük mecazında bir sözcük gerçek anlamı dışında, fikir mecazında ise herhangi bir fikir kendi anlamının dışında bir amaçla kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>LDIF</DOCTITLE>
+<TEXT>
+
+LDIF (LDAP Data Interchange Format): Dizin entry’lerini tanımlayabilmek için kullanılan metin-tabanlı LDAP standartına verilen isim. 
+Tanımı.
+LDIF ile Dizin Sunucusu (Directory Server) üzerindeki veriler metin-tabanlı bir dosyaya aktarılıp, başka bir Dizin Sunucusu üzerine aynı dosya üzerinden bilgi aktarımı yapılabilir. LDIF, tüm veritabanlarının veya excel gibi spreadsheet programlarının tanıyabileceği standart ve basit bir yapı sunar.
+Kullanım Amacı.
+LDIF temel olarak iki amaçla kullanılır:
+LDIF Alanları.
+Dizin içinde bulunan bir entry'yi diğerlerinden ayırmaya yarayan, eşi olmayan isim. 
+Dizin domain'i içinde bulunan her bileşeni gösteren isim. Örneğin www.google.com, "dc=www, dc=google, dc=com" şeklinde gösterilir.
+Kullanıcının içinde bulunduğu organizasyon birimini (bazen de kullanıcı gruplarını) gösterir. Eğer kullanıcı birden fazla birime sahipse, birden fazla ou tanımı yapılabilir: "ou=avukat, ou=yargic" gibi.
+Entry'nin ismini gösterir. Eğer entry bir kullanıcıya aitse, kullanıcı adını (örneğin; "cn: Ali Veli"), bir toplantı odası hakkında bilgiyi saklıyorsa toplantı odasının ismini (örneğin; "cn: Topaz Toplantı Salonu") saklar.
+LDIF Çeşitleri ve Örnekler.
+İki tip LDIF dosyası vardır: 
+1. Dizin entry tanımlarını içeren, veri aktarımında kullanılacak LDIF dosyası : 
+2. Dizin Sunucusu (Directory Server) entry’leri üzerine uygulanacak işlemleri (ekleme, silme, güncelleme) içeren LDIF dosyası:
+Aşağıdaki LDIF örneği, LDAP’a yeni bir entry eklemekte kullanılır. Dizin Sunucu'su üzerinde yapılacak işlem "changetype" komutu ile belirtilir:
+
+</TEXT>
+</DOC>
+

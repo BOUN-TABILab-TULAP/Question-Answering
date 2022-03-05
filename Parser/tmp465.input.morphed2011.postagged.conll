@@ -1,0 +1,9 @@
+1	Kaç	kaç	Adj	Adj	_	_	_	_	_
+2	amino	amino	Adj	Adj	_	_	_	_	_
+3	asit	asit	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	insan	insan	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	vücudunda	vücut	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+6	_	sentezle	Verb	Verb	_	_	_	_	_
+7	_	_	Verb	Verb	Pass	_	_	_	_
+8	sentezlenemez	_	Verb	Verb	Able|Neg|Aor|A3sg	_	_	_	_
+9	.	.	Punc	Punc	_	_	_	_	_

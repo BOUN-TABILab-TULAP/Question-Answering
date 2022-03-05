@@ -1,0 +1,25 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sert sert+Adj Sert+Noun+Prop+A3sg+Pnon+Nom
+kemik kemik+Adj kemik+Noun+A3sg+Pnon+Nom
+dokuda doku+Noun+A3sg+Pnon+Loc
+bulunan bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart bulun+Verb+Pos^DB+Adj+PresPart
+Havers Havers+Noun+Prop+A3sg+Pnon+Nom
+kanallarını kanal+Noun+A3pl+P3sg+Acc kanal+Noun+A3pl+P2sg+Acc kanal+Noun+A3pl+P3pl+Acc kanal+Noun+A3sg+P3pl+Acc
+birbirine birbiri+Pron+Quant+A3sg+P3sg+Dat
+bağlayan bağla+Verb+Pos^DB+Adj+PresPart
+yan yan+Noun+A3sg+Pnon+Nom yan+Verb+Pos+Imp+A2sg yan+Adj
+kanallara kanal+Noun+A3pl+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

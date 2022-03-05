@@ -1,0 +1,155 @@
+Question: Birikinti yelpazesi nasıl oluşur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Başkalaşım (Metamorfik) Kayaçları Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Metamorfik kayaçlar, bir kayacın sıcaklık ve basıncın etkisi ile bir başka kayaca dönüşmüş hâlidir.
+Metamorfik kayaçlar, tortul ya da püskürük kayaçların değişikliğe uğraması sonucunda meydana gelir. Bu değişiklikler, kayaçların yüksek basınç ve sıcaklık altında kalması sonucunda oluşur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tortul Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Taşınan malzemeler akarsu, göl, deniz ve okyanus tabanları ile çukur alanlarda tabakalar hâlinde biriktirilir. Bu tabakalar zaman içinde sıkışarak tortul kayaçlara dönüşür.
+Yeryüzünü oluşturan kayaçlar dış kuvvetler (akarsular, rüzgârlar, buzullar, dalga ve akıntılar gibi) tarafından ufalanır ve taşınır.
+Tortul kayaçların en önemli özelliği, oluştukları dönemlere ait bitki ve hayvan kalıntıları olan fosillere sahip olmalarıdır.
+Bitki parçaları kalın ve geçirimsiz tortullar arasında veya su içinde kalır. Bu parçacıklar zaman içerisinde bakterilerin de etkisiyle karbon bakımından zenginleşir. Böylece organik tortulların en tipik örneği olan kömür oluşur.
+Karbonlu organik tortulların sıvı olanları ise petrolü oluşturur. Oluşumu kömür ile benzerlik gösteren petrol, jeolojik geçmişte yaşamış bitki ve hayvan kalıntılarının oksijensiz denizel bir ortamda sıcaklık, basınç ve organizmaların etkisi ile değişime uğraması sonucu meydana gelir.
+Kireç taşı mağaraları karstik şekillerden biridir. Bu mağaralar, kalkerli arazi içinde suların eritme ve aşındırması sonucu meydana gelen yer altı boşluklarıdır.
+Kayaköy Polyesi (Fethiye- Muğla) kireç taşının erimesi sonucu gelişmiş bir karstik yüzey şeklidir.
+Yandaki harita, “Coğrafi Bilgi Sistemleri” ile hazırlanmış “Sayısal Yükselti Modeli” olup Kayaköy Polyesi'nin yüzey şekli özelliklerini göstermektedir. Yeşil renk, polye tabanı olup verimli tarım arazilerini; diğer renkler ise yükseltileri belirtmektedir.
+Aşağıdaki harita Kayaköy Polyesi’nin kayaç özelliklerini göstermektedir. Mavi renk; kireç taşını, açık gri renk; alüvyonu temsil etmektedir. Düz ve kesik çizgiler dikliklere işaret etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Püskürük Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Lavlar havayla temas edince hızla soğuduğu için ince kristalli veya camsı bir özellik gösterir.
+Magmanın volkanik faaliyetler sonucu yeryüzüne çıkmasıyla dış püskürük kayaçlar oluşur.
+Soğuma yavaş olduğu için iç püskürük kayaçlar iri unsurlu olur.
+Magmanın; yer kabuğunun farklı derinliklerindeki taş ve tabakaların arasına sokularak yavaş yavaş soğumasıyla “iç püskürük” kayaçlar oluşur.
+Bir iç püskürük taşı olan granit, kendine özgü yüzey şekillerini oluşturması ile diğer kayaç türlerinden ayrılır. Granitin bu özelliği, onu oluşturan elementlerin özellikleri, kayacın çatlaklı olup olmadığı ya da ne derece çatlaklı olduğu ile ilgilidir. Çatlaklı olması granitin ayrışma şiddetini artınr.
+Kütle hâlindeki granitler, fiziksel ve kimyasal ayrışmaya uğradıklarında değişik boyut ve şekillerde bloklara dönüşür. Granitlerin ayrışması sonucu yer yer birbiri üzerinde irili ufaklı ve köşeleri yuvarlaklaştırılmış bloklardan oluşan bir topoğrafya şekli meydana gelir. Buna tor topoğrafyası denir.
+Tor topoğrafya şekillerinde, kayacın özelliklerinin yanı sıra iklim şartları da etkilidir. Sıcak ve nemli iklim bölgelerinde kimyasal ayrışma ve çatlak yoğunluğunun etkilerine bağlı olarak onu oluşturan kuvars, feldspat ve mikaya ayrışır. Bu bölgelerde dik yamaçlarda granit kütleleri dik duvarlar ya da küt-leleşmiş bloklar hâlinde bulunur. Günlük sıcaklık farklarının fazla olduğu, fiziksel parçalanmanın ön plana çıktığı yüksek dağlık sahalarda ise yüzey şekilleri keskin kenarlı, köşeli dikliklerden oluşan sarp bir görünüm alır. Burada oluşan ayrışma ürünleri irili ufaklı granit parçalarıdır.
+Tüfler, volkanlardan çıkan ince boyutlu malzemelerin (özellikle küllerin) oluşturduğu kayaçlardır. Açık renklidir ve çok kolay aşınır. Volkanik tüfler, yurdumuzda Nevşehir-ürgüp-Göreme yöresinde karakteristik yüzey şekillerinin gelişmesine neden olmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vitiligo</DOCTITLE>
+<TEXT>
+
+Vitiligo dış derinin renk kaybına uğramasıyla oluşan beyaz plaklarla seyreden bir deri hastalığıdır. 
+"Modern Tıp Vitiligo için gereken tedavi uygulandığında geçen iyileşen bir hastalık olarak görmektedir"
+Her beyaz leke vitiligo değildir. Vitiligo olduğu düşünülen rahatsızlık da vitiligo olmayabilir. Özellikle, sıkıntılı stresli bir süreçten geçmek, vitaminsizlik-gerekli gıdanın alınamaması, antibiyotik ilaç tedavileri, ağrılı, ateşli hastalıklar, uyku bozukluğu ve psikolojik bunalım bu hastalığı tetiklemektedir.
+Vitiligo Nasıl Oluşur?
+Vitiligo'da bağışıklık sistemimiz yanlış programlanarak, ciltte bulunan dost melanositleri, yani cilde renk veren hücreleri görevini kısıtlaması ile başlayan bir süreçtir. 
+Problemli olan bölgelerde cilde rengini veren melanositlerin kısıtlanması nedeniyle tüyler ve kıllarda da beyazlık görülür. Beyaz renge dönüşen bölgeler çeşitli büyüklüklerde olabilir. Kimi zaman görünmeyecek kadar küçük olan bu bölgeler, kimi zaman çok daha büyük boyutlara ulaşabilir ve hatta derinin büyük bir bölümünü etkilemiş olabilir. 
+Sıklıkla vücudun yüz, dudak, boyun, göğüs, penis, diz, dirsek ve el ve kol bölgelerinde görülür. 
+Problemli olan bölgeler güneş sonucu oluşan ultraviyole ışınlara karşı diğer bölgelerden daha hassas olurlar. Hastalıklı kişilerde güneş yanıklarından, veya alınabilecek herhangi bir darbelerden sonra yeni vitiligo bölgeleri oluşabilir. Vitiligo hastalığı birçok hastalıkla (tiroid, kansızlık vs.) beraber aynı anda görülebilinir.
+Vitiligo'da hastalıklı bölgeler güneşin etkisiyle çevredeki sağlıklı renk melanosit hücreleri bronzlaşınca ortaya çıkar. 
+Yani güneş vitiligoya neden olmaz sadece belirgin hale gelmesini sağlar.
+Vitiligo Ne Sıklıkla Görülür ?
+Toplumda görülme sıklığı %1 ile %4 arasındadır. Vücutta oluşan her beyaz leke kişinin vitiligo hastalığına yakalandığı anlamına gelmez. Bu ayrımın yapılabilmesi için hastalıkla ilgili bir uzman doktor muayenesi şarttır. Birçok farklı rahatsızlığa bağlı lekeler vitiligo hastalığı sonucu oluşan lekeler ile karışabilir. Bu hastalık, otoimmun kökenli olup hastanın vücudundaki renk oluşumunu sağlayan hücrelere (melanosit) karşı hastanın vücudundaki bağışıklık sistemi hücrelerinin saldırısı ile başlar.
+Vitiligo Kalıtsal (Irsi) bir hastalık mıdır ?
+Hayır değildir ! Özellikle hastalığın veya hastalığı taşıyan bireylerinde ailesinde bu hastalığın bulunması, kişilerde olası, fakat kesin değildir. 
+Vücudun bağışıklık sisteminin çeşitli nedenlerle aktifleştiği anlarda ve farklı hastalık dönemlerinde vitiligonun başlaması ve artması daha olasıdır.
+Modern Tıp Vitiligo için kalıtsal olmayan ve iyileşebilen bir hastalık olarak görüyor. 
+Bu kişiden kişiye değişse bile çevre faktörleri veya kronik başka rahatsızlıkların da tekiklediği pigment kaybı çeşitli ilaçlarla takviye edilmeli ve alanında uzman bir dermatologa görünülmelidir.
+Vitiligoda Tedavi Nasıl Uygulanır ?
+Bazı kişilerde vitiligo teşhisi yanlış konulmaktadır. Kendi alalında uzman kişiler de bazen bu yanılgıya düşmektedir. Çeşitli tahliller yapılmalı ve deride pigment kaybının ne derecede olduğu tespit edilmelidir. Her beyaz leke vitiligo değildir. Belirli bir zamanda sıkıntı veya stresli bir dönem geçiren kişiler de deri döküntüsü yaşayabilir, veya kullanılan çeşitli ilaçların yan etkisiyle de deri döküntüsü meydana gelebilir. Vitaminsizlik, iştah kaybı, uyku bozukluğu da bu hastalığı tetikleyen etmenlerdendir. 
+Bu rahatsızlıtan şikayetçi olan kişiler alanında uzman bir dermatoloğa gitmeli ve tahlil yaptırmalıdır. Özellikle T3 ve T4 Troid hormonlarınına bakılmalıdır; gerekli görüldüğü taktirde beyaz bölgeden biyopsi alınarak bölgedeki pigment kaybına bakılmalıdır. 
+Özellikle B12 ekstra vitamin ihtiyacı tamamlanmalı, kişinin kan seviyesi düzenli olmalı, kansızlığı önleyen iştah açıcı besinler tüketmelidir.
+Uzman doktorlar hastaya göre çeşitli tedavi yöntemleri uygulamaktadır. 
+En sık başvurulan yöntem UVA, UVB ve Darband (Işın tedavisi) yöntemleridir. Işığın deriye nüfuz ederek hücrelerin uyarılması ve pigmentlerin aktifleştirilmesi amaçlanmaktadır.
+Modern tıp her geçen gün ilerlemektedir. Bazı otoriteler gelecek yıllarda insanın, saç rengini değiştirebildiği gibi cilt rengini de sık sık değiştirebileceğini iddia etmektedir.
+Vitiligo Tedavi Olabilen Bir Hastalıktır..
+Vitiligo tedavisi mümkün olan iyileşen bir cilt problemidir. Ancak hasta düzenli olarak tedavi şartlarına uyduğunda gerçekleşebilir. 
+Bazı dermatologlar güneşin en yoğun saatlerinde dışarı çıkmamayı öneriyor. Bazıları ise çeşitli kremlerle vücudun sorunlu olan bölgelerine sürülüp yeterli süreyle güneşe maruz bırakılması gerektiğini öneriyor. Böylelikle güneş renk melanosit hücrelerini tetikleyecek ve pigment oluşumunu sağlayacaktır. Dermatologunuz vitiligo hastalığınızın yaygınlığına ve sürecine göre sizin için uygun tedaviyi planlayacaktır.
+Hastalığın Tedavi Yöntemleri.
+Dünya'da çeşitli dermatolog bilim adamlarının çeşitli başarılı yöntemleri vardır yalnız bunlar henüz deneme aşamasında olduğundan dolayı pek bilinmemektedir yakın bir zaman içersinde bu sıkıntının kalkacağını ve insanların normal kendi derisine sahip olabileceği söylenmektedir.
+Vitiligo'da Toplumsal Farklılıklar.
+Yalnız özellikle asya ülkelerinde koyu tene sahip olan halk cildini beyazlatmak için çeşitli yöntemler denemiştir sebep açık tenli insanların toplumun üst kısmında olduğu ve zenci koyu tene sahip olan insanların daha alt tabakada olduğu ırkçılık ve ayrımcılık yapıldığı inanılırdı .
+Siyahi ırkda 1000 kişide yalnızca 1 görülen vitiligo koyu tene sahip olan asyalılar için tanrının onlara verdiği güzel bir hediye olarak düşünülürdü
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bilinç</DOCTITLE>
+<TEXT>
+
+Bilinç, 
+Tanımlaması daha çok doğrudan olmasından ziyade dolaylı yollardandır (farkındalık gibi) ve birçok farklı şeyi ifade edebildiği için zordur. Çünkü bilinç ağırlıklı olarak kişisel bir deneyimdir. “Canlı maddenin öğretimini denetleyen özel bir öğretmendir, bazen yeterince eğitilmiş olan öğrencisi, öteki görevleriyle uğraşmak için yalnız bırakır” şeklinde basit ve anlamlı tanımlamaları da varsa da, “bir kişinin kendi varlığının/var oluşunun, duyularının, düşüncelerinin, çevresinin farkında olması” olarak da tanımlanır. İç durumumuzu sorgulayarak bir şeylerin farkında oluruz ve bilinçli bir varlık olduğumuzu hissederiz ve bilincin en önemli noktası da budur. Bilinç, çoğu kez "farkında olma, farkındalık" ile aynı anlamda kullanılır. Yani bilinçli kabul edilen varlıkların “nesnel/dışsal gözlem” ve “öznel/içsel gözlem”leri vardır. Öznelci kuramların tuzağına düşmemek elde değildir. Bilincin bütün tanımları temelde hep aynı gibidir. Ama her tanım “eski bir şişede yeni bir şarap gibi” sunulur. Ya da bazıları “görüntüyü kurtarmak” adına öne sürülmüşlerdir. Tanımı yapacak bir doctor universalis (evrensel bilgin) bulmak mümkün değildir. Ya da bekleyeceğimiz ani bilgisizlikten, ani bilgili bir duruma geçme, ani bir kavrayış (anagnoresis) mümkün gözükmemektedir.
+Öznelcilik.
+İçsel, kişiye ait olan öznel bakış açısıyla bakıldığında bilincin bazı özellikleri tamamen başka biri tarafından değerlendirilemez. Her zaman öznel olan “görüyorum, hayal ediyorum, inanıyorum, düşünüyorum” gibi kendi içselliğimize ait ifadeler kullanırız. Bütün bunlar, öznel yapımızla birlikte geçmiş ve geleceği göz önüne alarak, geçmiş deneyimlerimizin sentezinden oluşurlar. Bu zamana bağlı yerleşik durum belleğimizle de yakından ilişkilidir. Bu yönüyle bakıldığında bilinç, diğer bir kişiye içselliğimizi aktarım için öznel dil ile sıkı sıkıya bağlantılıdır.
+Felsefeci Daniel Dennett bilinci, beynin değişik bölgelerinin aynı anda değişik işler yaptığı ve olayları kendine göre yorumladığı yaratıcı kargaşa olarak kabul eder. Ortada tek ve doğru bir yorum yoktur. Bilinci kafalarının içinden dışarıya bakarak anlamaya çalışan bir insan olarak tanımlayan düşünceleri eleştirir. "Belki de, bir tanım bulmaya çalışmamalıyız" der. Bu çeşitlilik göz önüne alındığında tanım yanıltıcı da olabilir. Dolayısıyla kesin bir tanımdan uzak durabiliriz. Çünkü esas problem, bir yirminci yüzyıl sorunu olan bilinci, modası geçmiş on dokuzuncu yüzyıl terimleriyle tartışmamızdan kaynaklanmaktadır.
+Bilinç hakkında bugünkü tartışma David Chalmers tarafından öne sürülen ve ayrımı yapılan bilincin “kolay” ve “zor” problemleridir. Kolay problem, bilinç deneyimi olmaksızın sinir hücresel olayların doğasını anlamadır. Bir dereceye kadar bu soru yanıtlanmıştır. Bunlar arasında, "beyinde paralel bilgi işleme nasıl oluşur?" "Bellek nasıl depolanır ve geri çağrılır?" Seçici dikkatte hangi mekanizmalar devreye girer? gibi sorulara kısmen yanıtlar oluşturulmuştur. Zor soru ise, bilincin genel açıklamasını içerir. Nasıl fiziksel dünyadan bilinç doğar? Niçin bazı sinir hücresel olaylar bilinçli deneyimle sonuçlanırken, diğerleri sonuçlanmaz? Ve en önemlisi de bilinç denilen şey nedir?
+Fizikçi Roger Penrose’a göre bilinç, fiziksel olarak yanına yaklaşılması gereken ve bilimsel bir kavramdır. Tanımlamadan ziyade tarif edilmesinin daha uygun olacağını belirterek, aktif ve pasif olarak iki parçaya ayırır. Renk ve armonilerin algılanmasını farkındalıkla birlikte pasif olarak kabul ederken, bilincin özgür irade ile iş görme yeteneğini de aktif kısmı olarak ele alır. Anlayışı bu ikisi arasına yerleştirir ve farkındalıkla anlayışın ayrılamayacağını, eğer farkındalık olmazsa anlayıştan bahsetmenin anlamsız olduğunu belirtir. Bilincin tanımını da farkındalıkla eşanlamlı olarak kabul eder. Yine zekâyı da anlayışa bağlar.
+Aktif-Pasif.
+Aktif ve pasif bilinç yanında, değişik ayrımlar da vardır. Birincil ve yansıtıcı (reflective) bilinç arasında keskin bir ayrım da bunlardandır. Birincil bilinç daha basittir ve duyusal uyarıların farkındalığı ile birliktedir. Bu tür bilinç, beyinde bazı işlemlerin bilinçli bazılarınınsa bilinçaltı aracılığı ile nasıl yapıldığını anlatır. Yansıtmalı bilinç ise benlik ile ilişkilidir ve “ben” veya “benim, kendim” temsiliyeti ile ilgili bir kavramdır.
+Fenomenal-Psikolojik.
+Bir ayrımda; fenomenal ve psikolojik bilinç arasında yapılır. Fenomenal bilinç “bazı fenomenal kalitenin varlığını ifade eder, yani “birincil kişi” deneyimini yansıtır; hâlbuki psikolojik bilinç; uyanıklık, içgörü, aktarabilirlik, kendi–bilinci, bir şeye dikkat veya bilgisini (farkındalığı) ifade eder. Felsefi bakış açısı ile fenomenal bilinci açıklamak çok zordur. Yani bu Thomas Nagel’in sorduğu “(Yarasa)…gibi olmak nasıl bir şeydir?” sorusunun yanıtını vermek anlamına gelir. Özel olarak hissedilen “ben” bilincin temel kavramıdır.
+Birçok durumda felsefede kullanılan bir terimle ne denmek istendiğini anlamamıza rağmen anlamının duru bir açıklamasını vermeyi ya da onu tam olarak tanımlamayı başaramayabiliriz. “Bilinç-zihin/beyin-beden” ya da kısaca simgesel olan “psi/phi” sorununun geçmişine uzanmak istediğimizde, genellikle beklediğimizden ifadelerden farklı olarak “ruh/beden” ilişkisi hakkında yapılan değerlendirmeler ve adlandırmalar göze çarpar. Çoğu felsefeci hem antikçağda hem de modern felsefenin doğumu sıralarında bedenden farklı olan ve genellikle karşıtında bulunan “bir şey” için farklı tanımlamalar ve adlandırmalar kullanmışlardır: pneuma, öz, töz, tin, can, ruh, nefs, maneviyat, akıl gibi... “Sık sık şaşırır ve genellikle kullanımda olan sözcüklerin duru ve belirli anlamlarını elde etmede güçlüklere düşeriz” der Berkeley. Yanlışa neden olan “şey” ya da “töz” kelimesinden ziyade anlamları üzerine düşünme tutumudur diyerek “sözcüklerin anlamını bir karara bağlamak istiyorum” ifadesi ile çözüm sunmaya çalışır. Berkeley “Terimler bir ölçüde konuşmayı kısaltmak için ortak alışkanlık tarafından yaratılmışlar ve bir ölçüde de öğretim amacıyla düşünülmüşlerdir... Gerçeklik arayışında doğru olarak anlamadığımız terimler tarafından yanlışa düşürülmemeye dikkat etmeliyiz... Neredeyse tüm felsefeciler uyarıda bulunurlar ve çok azı ona dikkat eder” der.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

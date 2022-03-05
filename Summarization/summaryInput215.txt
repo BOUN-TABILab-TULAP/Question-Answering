@@ -1,0 +1,200 @@
+Question: Bir bölgede nem miktarındaki geçici dengesizliğin o bölgedeki su kıtlığı ile ilişkisine ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kuraklık</DOCTITLE>
+<TEXT>
+
+Bir bölgede nem miktarının geçici dengesizliğinden kaynaklanan su kıtlığı olarak tanımlanabilen kuraklık, doğal bir iklim olayıdır ve herhangi bir zamanda ve yerde meydana gelebilir. Kuraklık genellikle yavaş gelişir ve sıklıkla uzun bir dönemi kapsar. Kurak iklimlerin hüküm sürdüğü yerlerdeki hayvanlar ve bitkiler, nem eksikliğinden ve yüksek değişkenlikteki yağıştan dolayı olumsuz etkilenirler.
+Kuraklık tabiatın gizli tehlikesi olup genellikle herhangi bir mevsim veya bir zaman diliminde yağış miktarındaki azalmadan ya da dengesizliğinden dolayı meydana gelir. Kuraklık hesaplamalarında bir bölgedeki yağış ve evapotranspirasyon (buharlaşma ve terleme) arasındaki dengenin uzun süreli ortalaması göz önünde bulundurulur. Kuraklıkta; zaman (yağış mevsiminin başlamasında gecikmeler, ürün büyüme mevsimi-yağış zamanı ilişkisi) ve yağışların tesirleri (yağış yoğunluğu, sıklığı) ile ilişkilidir. Yüksek sıcaklık, şiddetli rüzgar ve düşük nem miktarı gibi diğer değişkenler etkili olmaktadır.
+Kuraklık, yalnızca fiziksel bir doğa olayı olarak görülmemeli. Kuraklığın, insan ve faaliyetlerinin su kaynaklarına olan bağımlılığı nedeniyle, toplum üzerinde çeşitli olumsuz etkileri vardır.
+Uzun süreli kuru hava, nem azlığı yaratarak orman ve su kaynaklarında azalmaya neden olduğundan, ciddi çevresel, ekonomik ve sosyal sorunlar ortaya çıkar.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pareto İlkesi</DOCTITLE>
+<TEXT>
+
+Pareto ilkesi (80-20 kuralı, önemli azın yasası ve etken seyrekliliği ilkesi olarak da bilinir) der ki, çoğu olay için, etkilerin kabaca % 80'i etkenlerin % 20'sinden kaynaklanır.
+İş yönetimi düşünürü Joseph Juran bu ilkeyi önermiş ve İtalya'nın % 80 arazisinin sahibinin nüfusun % 20'si olduğunu gözleyen İtalyan ekonomist Vilfredo Pareto'nun adıyla isimlendirmiştir. 
+İş dünyasında yaygın bir kuraldır; örn. "satışların % 80'i müşterilerin % 20'sinden gelir." Matematiksel olarak, yeterince büyük bir sayıda katılımcının paylaştığı bir şey olması durumunda, her zaman 50 ile 100 arasında öyle bir k sayısı olacaktır ki % k, % (100 - k) katılımcı tarafından paylaşılmış olsun. Fakat k, eşit dağılım olan 50'den, küçük sayıda katılımcının kaynakların neredeyse tamamına sahip olduğu 100'e kadar değişebilir. 80 sayısı ile ilgili özel bir durum yoktur, fakat çoğu sistemde dağılımda dengesizliğin orta noktası olan bu civarda bir k değeri görülür. 
+Pareto ilkesi, aynı ekonomist, Vilfredo Pareto, tarafından ortaya konulan Pareto verimliliği ile sadece yüzeysel olarak ilgilidir. Pareto her iki kavramı da nüfustaki gelir ve zenginlik dağılımı bağlamında geliştirmiştir. 
+Ekonomide.
+Başlangıçta gözlenenler gelir ve zenginlik ile bağlantılıydı. Pareto, İtalya'nın % 80 zenginliğinin nüfusun % 20'ne ait olduğunu farketti. Daha sonra diğer ülkelerdeki araştırmaları inceledi ve benzer bir dağılımın olduğunu şaşkınlıkla gözlemledi. 
+Güç yasası ilişkisinin büyüklükle değişmeyen doğası nedeniyle, bu ilişki gelir sınıflarının diğer altkümelerinde de geçerlidir. Dünyanın en zengin on insanını bile düşünsek, görüyoruz ki en yüksek üçü (Warren Buffett, Carlos Slim Helú ve Bill Gates) diğer yedisinin toplamı kadar mal varlığına sahiptir. 
+'Şampanya bardağı' etkisi adı verilen, eşitsizliği gözle görülebilir ve anlaşılabilir şekilde ortaya koyan eğri, dünyanın gelirinin % 82.7'sini kontrol edenlerin nüfusun % 20'sini oluşturduğunu ortaya koyan ve küresel gelirin dağılımının büyük dengesizliğini gösteren 1992 Birleşmiş Milletler Gelişme Programı Raporu'nda yer almaktaydı.
+Pareto İlkesi aynı zamanda ABD'deki artan ekonomik eşitsizliğin 'beceri-önyargılı teknik değişim' ile ilişkisini vurgulamak için kullanılmaktadır - yani gelir artışı yeni teknolojilerden ve küreselleşmeden yararlanmak için gereken eğitim ve becerilere sahip olanların payına düşmektedir. Fakat, Paul Krugman "New York Times"'ta bu "80-20 yanılgısı"na, son 30 yıldaki ekonomik büyümenin yararlarının en büyük % 20'den çok en büyük % 1'de yoğunlaştığından yola çıkarak "doğru olduğu için değil, ama rahatlatıcı" diyerek izin vermiştir..
+Diğer uygulamaları.
+Pareto İlkesi ayrıca diğer önemsiz konular için de geçerlidir: biri düşünebilir ki en sevdiğimiz giysilerimizin % 20'sini zamanın % 80'inde giymekteyiz, hatta zamanımızın % 80'ini tanıdıklarımızın % 20'siyle geçirmekteyiz, v.s.
+Pareto ilkesinin kalite kontrolde birçok uygulaması mevcuttur. bütüncül kalite kontrol ve altı sigma için anahtar araçlardan biri olan Pareto grafiği için temel oluşturur. Pareto ilkesi, taşımacılık ve mal saklama ve yenileme maliyetleri ile birlikte mal depolarının eniyileştirilmesi amacıyla yapılan tedarik işlemlerinde yaygın olarak kullanılan ABC-çözümlemesi ve XYZ-çözümlemesi için temel teşkil eder (Rushton "et al". 2000, pp. 107-108).
+Bilgisayar biliminde ve elektromekanik enerji çeviricileri gibi mühendislik kontrol kuramında Pareto ilkesi eniyileme uygulamalarında kullanılır. (M. Gen & R. Cheng, Generic Algorithms and Engineering Optimisation. New York, Wiley, 2002)
+Microsoft belirtmiştir ki en fazla raporlanan hataların ilk % 20'sini çözerek, hataların ve çökmelerin % 80'inin engellenmesi mümkündür.
+Bilgisayar grafikleri konusunda Pareto ilkesi ışın-izleme amacıyla kullanılır: ışınların % 80'i geometrinin % 20'siyle çarpışır.
+Pareto ilkesi 2007'nin en çok satanlarından Tim Ferriss tarafından yazılan "The 4-Hour Workweek"'in göze çarpan noktalarından biriydi. Ferriss, bir kişinin gelirinin % 80'inin oluşturan işlerinin % 20'sine odaklanmasını önerdi. Ayrıca en fazla soruna yol açan ve birilerinin en çok zamanını alan müşterilerin % 20'sinin def edilmesini önermekteydi.
+Matematiksel notlar.
+Bu fikrin birçok alanda uygulaması vardır, ama genellikle yanlış uygulanır. Örneğin bir soruna bulunan çözüm için sadece durumların % 80'ine uyduğu için "80-20 kuralına uyar" diye düşünülürse hata yapılmış olur, aynı zamanda çözüm, kaynakların sadece % 20'sini gerektirmelidir. 
+Matematiksel olarak, yeterince büyük sayıda katılımcının paylaştığı bir şey için, her zaman % "k"'nın katılımcıların % (100 - "k") kadarı tarafından paylaşıldığı, 50 ile 100 arasında bir "k" sayısı olacaktır, fakat "k" değeri eşit dağılımdaki 50'den (örn. insanların % 50'sinin kaynakların % 50'sine sahip olduğu) çok küçük sayıda katılımcının neredeyse kaynakların tamamına sahip olduğu yaklaşık 100'e kadar değişebilir. 80 sayısıyla ilgili özel bir durum yoktur, ama çoğu sistem dağılımdaki dengesizlikte ortalamayı temsil eden bu aralıkta bir "k" değerine sahiptir. 
+Bu, Pareto dağılımının özel bir durumudur. Eğer Pareto dağılımındaki parametreler uygun seçilirse, sadece etkilerin % 80'i nedenlerin % 20'sinden kaynaklanmaz aynı zamanda bu % 80 etkinin en yüksek % 80'i de % 20 nedenin en yüksek % 20'sinden kaynaklanır ve bu böyle devam eder (% 80'in % 80'i % 64'tür, % 20'nin % 20'si % 4'tür, böylece bir "64-4 yasası" ortaya çıkar).
+İş hayatında 80-20 sadece genel bir ilke için kısayoldur. Ayrı ayrı durumlarda, dağılım aynı şekilde 80-10 ya da 80-30 gibi de olabilir. (İki sayının toplamının % 100 olması gerekmez, çünkü bunlar farklı şeylerin ölçüleri olabilirler, örn. 'müşteri sayısı'na karşılık 'harcanan miktar'). Klasik 80-20 dağılımı eşit ölçekli eksenlere sahip log-log üzerine çizildiğinde eğrinin eğiminin -1 olduğu durumda ortaya çıkar. Pareto kuralları birbirini dışlayan değildir. Aslında 0-0 ve 100-100 kuralları herzaman doğrudur. 
+100'e toplamak hoş bir simetriye yol açar. Örneğin, eğer etkilerin % 80'i kaynakların en yüksek % 20'sinden geliyorsa, o zaman kalan % 20 etki daha düşük % 80 kaynaktan gelmektedir. Buna "birleşik oran" denir ve dengesizliğin derecesini ölçmek için kullanılabilir: 96:4 birleşik oranı çok dengesizken, 80:20 büyük ölçüde dengesiz (Gini indeksi: % 60), 70:30 ise orta düzeyde dengesiz (Gini indeksi: % 40) ve 55:45 sadece biraz dengesizdir. 
+Pareto İlkesi aynı zamanda ufak orman yangınlarında ve depremlerde de görülen "Güç yasası"nın bir gösterimidir. Geniş bir büyüklük menzilinde kendine benzerlik gösterdiği için Gauss Dağılımı fenomeninden çok farklı çıktılar gösterir. Bu gerçek, -örneğin- borsa hareket büyüklüklerinin Gauss ilişkisine uygun olduğu varsayılımıyla modellenen karmaşık finansal araçların sık çöküşünü açıklar.
+Eşitsizlik ölçüleri.
+Gini katsayısı ve Hoover endeksi.
+“formula_1” gösterimi kullanılarak (örneğin : formula_2) ve formula_3ile birlikte, Gini endeksi "ve" Hoover endeksi gibi eşitsizlik ölçekleri hesaplanabilir. Bu durumda her ikisi de aynıdır. 
+Theil endeksi.
+Theil endeksi adaletsizliklere değer biçmek için kullanılan bir entropi ölçeğidir. 50:50 dağılımlarda 0 değerini alır ve 82:18 Pareto dağılımında 1 değerine ulaşır. Daha yüksek adaletsizlikler 1'den yüksek Theil endeksine yol açar.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Su Kirliliği  (EBA)</DOCTITLE>
+<TEXT>
+
+Farkında olmasak da su, hayat demektir. Beslenme ve büyüme gibi vücutta gerçekleşen birçok işlemde suyun önemli görevleri vardır. Hücre yapısını koruma, vücudumuzdaki kimyasal reaksiyonların gerçekleşebilmesi için çözücü oluşturma, besin ve oksijen taşıma, toksinlerden ve atık maddelerden kurtulmamızı sağlama bu görevlerden bazılarıdır. Su ayrıca sindirime, zayıflamaya, cilt güzelliğine ve yaşlanma izlerini geciktirmeye de yardımcı olur. 
+İnsan, besin almadan uzun süre yaşayabilirken, suyun olmadığı durumda 3-4 günden sonra vücut işlevleri yerine getirilemeyeceğinden ölüm gerçekleşir. Ancak, yaşam için bu kadar önemli olan suyun dünyadaki kullanılabilir miktarı gün geçtikçe azalıyor. Son rakamlar dünyada yaklaşık 1,4 milyar kişinin yeterli içme suyundan, 2,3 milyar kişinin ise sağlıklı sudan yoksun olduğunu gösteriyor. Her yıl 7 milyon kişi suyla ilgili hastalıklardan hayatını kaybediyor. 
+Kuraklık bir bölgedeki nem miktarının geçici dengesizliğinden kaynaklanan, su kıtlığı olarak bilinen doğal bir iklim olayıdır. 
+Musluğunuzu açtığınızda elinizi yıkayamadığınız, duş alamadığınız, çamaşırlarınızı yıkayamadığınız, suyla olan hiçbir ihtiyacınızı karşılayamadığınızı bir düşünün. Bu durumda, bir gününüzü bile geçirmek çok kolay olmayacaktır (Resim 218). 
+Su Kalitesi 
+Suyun fiziksel, kimyasal ve biyolojik özelliklerini temsil eden ve suyun kullanım amacına bağlı uygunluğunu ifade eden ölçü birimidir. Genellikle akarsu ve yer altı sularının kalitesini belirtmek için kullanılır. Sağlıklı, temiz bir akarsuda bitki ve hayvan gelişimiyle ilgili olarak ekolojik bir denge bulunur. Evsel, endüstriyel ve tarımsal kirlenme bu dengenin değişmesine neden olur. Su Kirliliği Kontrol Yönetmeliği’nin kıta içi yüzeysel su kategorisinde, akarsular 4 ana sınıfa ayrılmıştır: I. Sınıf : Yüksek kaliteli su, II. Sınıf : Az kirlenmiş su, III. Sınıf : Kirli su, IV. Sınıf : Çok kirlenmiş su. 
+İçme Suyu Kalitesi 
+Su sertliği, içme sularının kalitesini gösteren bir ölçüdür (Resim 219). Suyun içerisinde bulunan iyonlardan kalsiyum (Ca+2) ve magnezyum (Mg+2) sertliğe neden olan iyonlardır. Sular bu iyonları topraktan alır. Kalsiyum ve magnezyum iyonlarının yoğun olduğu sert sular, içmek için uygun değildir. Kullandığımız suyun sert olup olmadığını anlamak için pratik yöntemler vardır. Sabunla elimizi yıkadığımızda köpük oluşmuyorsa ya da az miktarda oluşuyorsa bu suyun sert olduğu söylenebilir. 
+Sert suların bir diğer göstergesi su kaynattığımız çaydanlıklardır. Çaydanlıklarımızın diplerinde rastladığımız beyaz birikintiler sularımızın kalsiyum ve magnezyum bakımından oldukça yoğun olduğunun göstergesidir. 
+Sular Neden Kirleniyor? 
+Artan su ihtiyacının önemli bir kısmının elde edildiği yer altı sularının kirlenmesi önemli bir çevre sorunudur. Yer altı sularındaki kirlilik insan faaliyetlerinden ya da doğal olaylardan kaynaklanabilir. İnsan kaynaklı kirlilik evsel atıklar ve sanayi atıkları, tarımsal ilaçlar ve gübreleme, madencilik, yer altı sondaj kuyularının hatalı inşası olarak sıralanabilir (Resim 220). 
+Su kirliliğine neden olan insan faaliyetlerinin gözle görülebilir sonuçları genellikle tatlı sularda (göl, akarsu, nehir) karşımıza çıkar. Lağım suları, fabrika atıkları ve hayvan atıkları gibi kirleticilerle su ortamında besleyici elementler olan azot ve fosfor miktarının aşırı şekilde artması su bitkileri ve alglerin ortamda çoğalması anlamına gelir. Kültürel ötrofikasyon olarak bilinen bu süreç, kirlenmeden çok ekolojik dengenin bozulması anlamına gelir (Resim 223). 
+Bunların yanında kirlenmiş yüzey sularının (akarsu, göl vb.) yer altı suyuna karışması da başka bir kirlilik kaynağıdır. Yer altı suları, yüzey sularına göre oldukça zor temizlenen kaynaklardır. Çoğu zaman kirliliğin ortadan kalkması uzun yıllar alır. Yer altı sularının doğal olarak kirlenmesi ise jeotermal yollarla olmaktadır. 
+Jeotermal alanlar, sönmüş genç volkanların bulunduğu bölgelerde yer alır. Termal sular ne kadar derinden çıkarsa sıcaklık da o kadar yüksek olur. Bu sıcak su yeryüzüne çıkarken çatlaklı bölgelerdeki kayaçları çözebilir. Böylece bu kayalardaki zehirli kimyasalları da yukarı doğru çıkarabilir. Ülkemizden bir örnek vermek gerekirse Büyük Menderes Ovası’ndaki jeotermal sular, buradaki nehrin su kalitesini oldukça düşürmektedir (Resim 224). 
+Kirleticiler ve Sağlığımız 
+Dünya Sağlık Örgütü (WHO), dünya genelindeki hastalıkların yaklaşık % 6’sının kirli sulardan kaynaklandığını tahmin ediyor. Bunlar arasında bulaşıcı ishal % 70’le en büyük yüzdeyi oluşturuyor ve yılda1,7 milyon insanın ölümüne neden oluyor. İçme sularındaki kirlenmenin kısa ve uzun süreli etkileri insan sağlığını ciddi anlamda tehdit ediyor. 
+HIV virüsü taşıyan, kemoterapi gören ve organ nakli yapılmış kişilerin ya da başka bir nedenden ötürü bağışıklık sistemi zayıflamış kişilerin, içme sularındaki kirleticiler konusunda daha duyarlı olmaları gerekiyor. Özellikle göl ve akarsu yüzeylerinde yaşayan parazit canlılar sağlıklı yetişkinlerde hastalığa yol açabiliyor. Bağışıklık sistemi zayıflamış kişilerde ise ölümlere neden olan ağır hastalıklara yol açabiliyor. Bu tür durumlarda suyun kaynatılması ve su filtreleri olarak adlandırılan ev tipi arıtma sistemlerinin kullanılması yararlı olabilir (Resim 225). Su kaynaklı hastalıkların yalnızca içme sularından değil diş fırçalarken, meyve sebze yıkarken ya da suyla gerçekleşen her türlü temasta geçebileceğini unutmamak gerekiyor. 
+Su Kirliliğini Durdurmak İçin Ne Yapabiliriz? 
+Elektrik üretimi amacıyla kurulan Hidroelektrik Santralleri (HES) çevresel atık ve kirlilik yaratmayan, temiz, yenilenebilir, yüksek verimli bir enerji kaynağıdır. Aynı zamanda inşa edildiği bölgeye iş imkânı sağlayarak bölgenin ekonomik olarak kalkınmasını da sağlamaktadır (Resim 226). Ancak cevaplanması gereken bazı sorular var. Bunlardan birkaçı: Sucul yaşamın devamı için gerekli olan su korunacak mı? Bölgedeki tarım üretiminde kullanılan suların ortadan kalkma riski ne kadar? Barajlarda meydana gelecek buharlaşmalardan dolayı tuzluluk oranının artması ve toprağın zarar görmesi mümkün; bunun önlemleri alınacak mı? Hidroelektrik Santrali inşaatları için gerekli alanın oluşturulmasında birçok doğal alan zarar görecek; bu durumda bölgeye özgü türlerin yok olma ihtimali düşünülerek tedbirler alındı mı? 
+Kirlilik kaynakları çoğu noktada ortak olan su ve toprak kirliliği, alınması gereken önlemler açısından da benzerlikler gösterir. Canlılar için vazgeçilmez olan toprak ve suyun temiz kalması öncelikli olarak çevreyi etkileyen kararlarda daha bilinçli olmamızla sağlanabilir. 
+Somut önlemler ise sanayi atıklarının ve evsel atıkların kontrollü şekilde atılması, tarımda gübre ve kimyasal ilaç kullanımının denetim altına alınması vb. dir. Bunun gibi, doğaya zarar veren her faaliyetin düşünülerek yapılması sadece sularımızın değil, doğal çevrenin devamlılığını da sağlamaya yardımcı olacaktır. 
+Jeotermal kaynak, yer kabuğunun farklı derinliklerinde birikmiş ısının oluşturduğu, kimyasallar içeren sıcak su buharı ve gazlardır. Bu kaynaklar yer altında genellikle fay hatları boyunca ilerler. Jeotermal enerji, yenilenebilir doğal bir kaynaktır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anicca</DOCTITLE>
+<TEXT>
+
+Geçicilik anlamına gelen , Pali anicca (Sanskrit: anitya) kelimesi Budizm'de insanların yaşadığı alem olan olgular dünyasının üç özelliğinden biri olarak kabul edilir. Diğer iki özellik, ızdırap (Dukkha) ve benliksizlik (anatman)'dır. Tüm Budist okullarda temel kabul edilen geçicilik anlayışına göre, bu dünyada varolan her şey değişime tabidir. Bireyi oluşturan beş küme (skandha) de dahil, hiçbir madde veya kavram değişmeden kalamaz. 
+Değişim, zamana veya nesnelerin birbiriyle ilişkisine bağlı olarak gerçekleşir. Budist felsefeye göre, dünyada hiçbir şey biribirinden bağımsız olmadığı için, her şey değişime tabidir, ve dolayısıyla geçicidir. İnsanlar bu geçici dünyada bir takım şeylerin kalıcı olduğu sanrısına kapıldıkları, ve bu şeylere bağlanmaya çalıştıkları için, geçicilik ızdıraba neden olur. 
+Budizm'de değişime tabi olmayan tek şey Nirvana'dır; çünkü nirvana dualist kavramlar, varlık ve yokluğun ötesindedir. Geleneksel metinler, dünyadaki diğer nesnelere bağımlı olmadığı için, nirvanayı "yaratılmamış" ve "aşkın" olarak nitelerler. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Geometrik dağılım</DOCTITLE>
+<TEXT>
+
+\!</math>|
+Olasılık kuramı ve istatistik bilim dallarında "geometrik dağılım" şu iki şekilde ifade edilebilen ayrık olasılık dağılımıdır:
+İstatistikçiler aynı varsayımlara bağlı olarak "geometrik dağılım" için iki degişik şekilde açıklama ortaya çıkartmışlardır. Bunlar mantıken eşit olmakla beraber iki açıklamanın birbiri ile mutlak karıştırılmaması gerekir. Bunlardan ikinci açıklamaya "kaydırılmış" geometrik dağılımı adı verilmektedir. Bunlardan hangisinin geometrik dağılım olarak kabul edilip kullanılacağı elverişlilik ve matematiksel göreneklere göre değişir.
+Birinci açıklamaya göre eğer herbir deneme için başarılılık olasılığı "p" ise, tek bir başarı elde etmek için gereken "k" deneme sayısı için olasılık şöyle verilir:
+burada "k" = 1, 2, 3, ...
+Eşit şekilde, "kaydırılmış" geometrik seri açıklamasına göre, eğer her bir deneme için başarılılık olasılığı "p" ise, ilk başarıyı elde etmeden "k" sayıda başarısızlık elde etme için olasılık şöyle verilir: 
+burada "k" = 0, 1, 2, 3, ...
+Dikkat edilirse burada iki değişik açıklama için değişik rassal değişken, "X" ve "Y", kullanılmıştır. Her iki açıklamada da olasılık serileri bir geometrik seri olarak elde edilir.
+Bir örnek olarak bir kusursuz zar atma deneyine bakılsın ve bir zar arka arkaya ilk defa "6" gelmesine kadar atılsın. İstenen bir sonucu elde etmek için gereken zar atılma sayısı için bir sonsuz sonuç seti (1, 2, 3, ... } bulununur ve her bir deneme için yani her zar atışı icin "6" gelmesi olasılığı "p" olur. Eğer "6" gelmeden önce atılması gereken zar sayısının olasılığı ilgi konusu ise bu birinci tip bir geometrik dağılımdır; eğer ilk "6" atmadan yapılan başarısız zar atması sayısı olasılığı ilgi konusu ise bu ikinci tip (kaydırılmış) geometrik dağılımdır.
+Momentler ve kümülantlar.
+Geometrik dağılım gösteren "X" rassal değişkeni "X" için beklenen değer 1/"p" ve varyans değeri (1 − "p")/"p"2 :
+olur.
+Benzer şekilde, geometrik dağılım gösteren "Y" rassal değişkeni için beklenen değer formula_17 ve varyans değeri ise formula_18
+formula_20 değerinin "Y" için beklenen değer olduğu kabul edilsin. O zaman "Y" için olasılık dağılımının kümülant değeri formula_21 şu matematik yineleme ilişkisine (recursion) uyar:
+Parametre tahminleri.
+Geometrik dağılımın her iki alternatif şekli için "p" değerinin tahmini, dağılımın beklenen değerinin örnekleme ortalamasına eşit varsayımının kabulu suretiyle yapılabilir. Bu tahmin tipi istatistik kuramında tahmin için momentler yöntemi adı ile anılır. Geometrik dağılım için "p" değerinin bu yönteme göre tahmin edilmesi bir maksimum olabilirlilik tahmini ortaya çıkarır. 
+Özellikle geometrik dağılımın birinci alternatifi için formula_23 için formula_24 olduğu zaman 
+bir örnekleme olduğu kabul edilsin. O zaman "p" değerinin tahmini şöyle verilir:
+Bayes tipi sonuç çıkartıcı istatistik kuramına göre ise "p" parametresi için eşlenik önsel dağılımı bir Beta dağılımı olur. Eğer herhangi bir "p" parametre değeri için önsel olarak :Beta("α", "β") 
+verilmiş ise, sonsal dağılım şöyle ifade edilir:
+"α" ve "β" değerleri sıfıra yaklaştıkca, sonrasal ortalama olan formula_28 maksimum olabilirlilik tahmini olan formula_29 değerine yaklaşır.
+Diğer alternatif halde, formula_23 için formula_31 olduğu halde bir örneklemin ifadesi formula_25 olsun. Bu halde "p" şöyle tahmin edilir:
+Bir Beta("α", "β") önseli için verilmiş "p" için sonsal dağılım şudur: 
+Tekrar, sonsal ortalama olan formula_28 değerinin, "α"ve "β" sıfır değerine yaklaştıkca, maksimum olabilirlilik tahmini formula_29 değerine yaklaşır.
+Diğer dağılımlarla ilişkiler.
+gösteren rassal değişken değerleri tabandan yukarıya doğru, tavana en yakın tamsayıya yuvarlanırlarsa bu tamsayı halindeki rassal değişken de geometrik dağılım gösterir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>TrustRank</DOCTITLE>
+<TEXT>
+
+TrustRank, Stanford Üniversitesi ve Yahoo tarafından tanımlanan ve spama karşı mücadelede kullanılan bir link analiz tekniğidir. Spam olan web sayfalarının yarı otomatik bir şekilde belirlenmesidir.
+Günümüzde birçok web sayfası ticari nedenlerle arama motoru sonuçlarında yükselmek istemekte ve bunun için spam tekniklerini kullanmaktadır. Her sayfanın insan editörler tarafından incelenmesi çok zor olduğundan, bazı güvenilir sayfalar işaretlenir ve ondan alınan link çıkışlarındaki sitelere puanlar verilir.
+Çalışma sistemi.
+TrustRank ile editörler tarafından birinci derecede güvenilen siteler işaretlenir. Bu sitelere kök site denir ve bu siteden yapılan çıkışlarla diğer sitelere güvenilirlik puanı verilir. Örneğin, kök dizinden alınan birincil çıkış 100 puanındayken 100 puanlık siteden alınan çıkış link çıkışı 90 puan değerindedir.
+Google genel politikası 2007-2008 yılına kadar genelde Pagerank üzerineydi. Webmasterlar olarak yakın geçmişimize baktığımızda, kaliteli veya kalitesiz linklerin sitelerimizi, arama sonuçlarında nasıl yükselttiğine pek çok kez şahit olduk. Sitelerimizin kalitesi veya içeriği pek önemli değildi; bizim için tek önemli konu ne kakadar çok link ve ne kadar yüksek rank ... meselesi idi. Google'ın arama sonuçları bu yolla defalarca kez suistimal edildi. Tabii kendini geliştiren bir sistem olan Google, gelen olumsuz geri dönüşler üzerine bazı önlemler almaya başladı.
+Öncelikle artık kişisel, hobi olarak uğraşılan sitelerin kolay kolay Pagerank 5 üstüne çıkması ( özellikle Türkçe backlinkli sitelerde ) mümkün olmuyor. Pagerank değerleri kurumsallamış siteler, devlet siteleri vb. sitelerde yüksek görünüyor. Bu sayede Google kalitesiz backlinklerin önünü kesmiş oluyor. Bildiğiniz üzere Pagerank değeri ne kadar yüksek olursa, backlinkin etkisi o ölçüde katlanıp büyüyor. Bu yolla Google backlink olayına az da olsa bir ciddiyet getirdi ve link değişimi ya da link satın alımı ile elde dilen linklerin önemsiz kalabileceğini webmasterlara iletti.
+Trustrank'ın gözlemlenen bir diğer etkisi sitelerin Google gözünde tek tek değerlenmesi ya da değerini kaybetmesi üzerine oluyor. Bu nasıl oluyor derseniz, Google botları siteleri gezerken belirli kriterler üzerinden, o siteleri puanlandırıp kendi içinde bir derece oluşturuyor. Bu derecelendirme, sitenin yaşı, güncelleme aralıkları, özğünlüğü, yeni nesil tasarım ve kodlamaya sahip olması, hatasız kodlama ile oluşturulması ( ayrı bir öneme sahiptir ) sitenin kendi içinde linkleme yapısı ( Google bot istediği her sayfaya rahatlıkla ulaşabilmeli ) , site içindeki anahtar kelime yoğunluğu, sitenin ulaşılabilirliği, site içindeki kelime yoğunlukları gibi daha sayabileceğimiz pek çok unsur Trustrank'ı arttırabilir veya azaltabilir. Her sitenin Trustrank'ı farklı oluşacaktır. Bunun için Google gözünde her sitenin de yeri ayrı oluyor. Yani kısaca pr5 değerine sahip bir site pr6 bir siteden daha etkili olabilir.
+Pagerank - Trustrank ilişkisine, gelince burada çok açıkça söylemek gerekirse, Pagerank ile Trustrank doğrudan ilişkilidir. Bunu son zamanlardaki deneyimlerim ile de yaşadım. Örneğin; pek çok insan tarafından sevilen ve takdir edilen bir sitenin seo hedef kelimesinde yükselmesi 5-10 link ile olabilirken; aynı alandaki, aynı Pagerank değerine sahip, aynı ortalama Alexa değerlerine sahip bir başka sitenin yükselmesi 25-30 link ile olabilmektedir. Buradaki etki Trustrank'ın ortaya çıkması ile oluşmuştur. Google eski yapısında seyreden bir sistem olsaydı eğer, iki sitede değerleri aynı oluğu için aynı tarzda yükseliş gösterebilcektir. Sonuç olarak diyebiliriz ki : karşıdan gelen link kadar, linkin geldiği yer de önemlidir.
+Ölçme.
+Trustrank değerleri tam olarak ölçümlenemese de gerçeğe yakın ölçümlemeler yapan araçlar mevcuttur. http://www.trustrank.org isimli siteden istediğiniz sitenin Trustrank değerini ölçmeniz mümkündür.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Marie Antoinette (film)</DOCTITLE>
+<TEXT>
+
+Marie Antoinette, 2006 yılı yapımı, en iyi kostüm dalında Akademi ödülüne (Oscar) uzanmış olan film.
+Konusu.
+Film Avusturya arşidüşeslerinden Marie Antoinette'nin Fransa ile bir açıdan ittifak kurma amacı ile, tahtın varisi XVI. Louis ile evlenmek üzere yola çıkması ile başlar. Avusturya-Fransa sınırındaki bir bölgede karşılaşan çift ve görevliler yapılan ufak bir törenin ardından Versailles Sarayı'na doğru yola çıkarlar.
+Henüz çocuk denebilecek yaşda olan Marie Antoinette burada Fransız aristokrasisi ve davranışları ile bir bakıma şaşkınlığa uğrar. Sabahları olan giyinme olayındaki kalabalık, bir tören havasında geçen yemek seansları, saray halkının davranışları onu etkiler. Bu arada kayınpederi kral XV. Louis'in metresi Madame du Barry ile de karşılaşır. Soylu olmayan ve saraya sonradan giren bu kadın saray eşrafınca da pek sevilmemektedir. Marie'de ona karşı mesafeli durur.
+Tahtın varisinin değişmemesi için bir an önce çocuk sahibi olma gereği Marie Antoinette'ye sık sık annesi Marie Theresa tarafından hatırlatılmakta hatta zorlanmaktadır. Ancak XVI. Louis ona her nedens hiç el sürmemektedir. Bu çevrede onun erkeklere ilgisi olduğu şeklinde de dedikodulara yol açmaktadır. 
+Sarayın cafcaflı hayatına alışan Marie Antoinette bir baloda İsveç kontu ile tanışır. Ancak görüşmeleri bu noktada mümkün olmaz.
+Çocuk konusunda zorlamalar bir süre sonra neticesini verir ve bir kız çocuk dünyaya getirir. Bu dönemde kendini kızına ve eşinin hediye ettiği çiftlik hayatına veren Marie sarayın çılgın yaşamından uzaklaşır. Bu arada XV. Louis ölmüş ve XVI. Louis tahta geçmiştir. Madame du Barry'de saraydan uzaklaştırılmışdır. Artık kraliçe Marie Antoinette'dir.
+Fransanın ekonomik zorluklarına karşın ülke Amerika'ya yardım gönderir. Zira bu konuda İngiltere ile bir çekişme halindedirler. Ancak iyice bozulan ekonomi nedeni ile Marie sarayın mücevher tüketimini azaltma yönünde ufak kararlar alır. Bu dönemde halkın dilinde dolaşan "ekmek bulamazlarsa pasta yesinler" sözünün ise bir dedikodudan ibaret olduğunu, kendisinin böyle bir şey söylemediğini ifade eder.
+Amerikalı askerler için düzenlenen bir baloda yeniden İsveç kontu ile karşılaşan Marie Antoinette onunla bir gönül ilişkisine girer lakin kontun Amerikaya dönmesi ile bu son bulur.
+Marie Antoinette'nin bir de erkek çocuk dünyaya getirmesi sonrası ülkede huzursuluk artmıştır. Yazlık saraydaa iken Bastille kalesi basılır ve halk isyanı başlar. Öfkeli kalabalıkla karşılaşan kraliçe daha sonra arabaya binerler ve Versailles sarayından ayrılırken film nihayete erer.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Öğrenilen ilişki</DOCTITLE>
+<TEXT>
+
+Öğrenilen ilişki, ilk kez bir ürünü satın alan bir müşteri için satın aldığı ürün, aynı zamanda o marka ve/veya şirket için bir sınav niteliği de taşır. Müşteri bu sınavı kendince değerlendirip, bir sonraki alış verişinde yine aynı markayı veya bir başka markayı tercih eder. Eğer ilk satın aldığı ürün ve fiyat kendisi için tatmin edici nitelik taşıyorsa çoğu zaman müşteri yeni bir ürünü tanımak riskini tercih etmez. Müşteri, firmadan yapmış olduğu her bir “başarılı” alışverişte, o firma ve markaya daha fazla güven duyar. 
+Bu süreçte firmanın yapabileceği en doğru hamle, müşterinin bağlılığını artırabilmek amacıyla, yeni fırsatlar ve farklılıklar yaratmaktır. Bu ilişki uzun vadede Artı – Artı ilişkisine dönüşecektir. Hem müşteri sürekli alışveriş yapmış olmanın avantajıyla daha ucuza daha iyi hizmet alacak, hem de firma kendine sadık bir müşteri edinecek ve bu müşteri uzerinden uzun vadede daha fazla kar edecektir. 
+Müşteri daha sık alışveriş yapmaya başladıkça zaten alış veriş potansiyelini üst seviyelere çıkaracak ve belki başka ürünler için de yine güvendiği firmayı tercih edecektir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tarihçi</DOCTITLE>
+<TEXT>
+
+Tarihçi, tarihle, geçmişe ilişkin olayları yer ve zaman göstererek ve sebep-sonuç ilişkisine bağlı sistemli bilgilerle uğraşan kişilere denir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkan Koçarslanlı</DOCTITLE>
+<TEXT>
+
+Avrupa Yakası dizisinde Güzin Özyağcılar'ın oynadığı hayali bir karakterdir. Osman'ın annesidir. Aslı'yı hiç sevmez. Oğlunun onunla ilişkisine karşıdır.
+
+</TEXT>
+</DOC>
+

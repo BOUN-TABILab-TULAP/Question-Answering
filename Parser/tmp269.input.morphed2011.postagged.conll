@@ -1,0 +1,14 @@
+1	Gerçek	gerçek	Adj	Adj	_	_	_	_	_
+2	_	sıcak	Adj	Adj	_	_	_	_	_
+3	sıcaklık	_	Noun	Noun	Ness|A3sg|Pnon|Nom	_	_	_	_
+4	ile	ile	Postp	Postp	PCNom	_	_	_	_
+5	_	indirge	Verb	Verb	_	_	_	_	_
+6	indirgenmiş	_	Verb	Verb	Pass|Pos|Narr|A3sg	_	_	_	_
+7	_	sıcak	Adj	Adj	_	_	_	_	_
+8	sıcaklık	_	Noun	Noun	Ness|A3sg|Pnon|Nom	_	_	_	_
+9	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+10	nasıl	nasıl	Adj	Adj	_	_	_	_	_
+11	farklar	fark	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+12	_	var	Adj	Adj	_	_	_	_	_
+13	vardır	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

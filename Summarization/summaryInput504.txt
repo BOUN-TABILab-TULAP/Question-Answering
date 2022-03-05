@@ -1,0 +1,143 @@
+Question: Anilin morunu ilk kim sentezlemiştir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anilin</DOCTITLE>
+<TEXT>
+
+Anilin, boya ve türevleri olarak da ilaç yapımında kullanılan organik bileşik.
+Aromatik sınıftan primer aminbenzer halkasından karbonlardan birine bağlı H yerine NH2 amin grubu bağlanmasıyla oluşur. "Fenil amin" ve "aminobenzen" de denir. 
+İlk kez 1826 yılında O. Unverdorben tarafından "indigo" adlı bitkisel bir boya maddesinin damıtılmasıyla elde edildi. Boya endüstrisinde nitro benzenin (C6H5NO2) redüksiyonundan elde edilir. Renksiz kokulu bir sıvıdır. Toksik etkisi şiddetlidir. 1,02 yoğunlukta 184,1 °C'de kaynayan ve katı halde iken 6 °C'de eriyen kristal yapılıdır. 
+Organik kimyada büyük önemi olan anilinden boya yapımında kullanılan ilkel maddeler elde edilmiştir. Bu yüzden deri boyamacılığında, fotoğrafçılıkta, matbaacılıkta kullanılan bu tür boyalar "anilin boyalar" olarak adlandırılır.
+Yapısı ve sentezlenmesi.
+Bir benzen halkasının bir amino grubuna bağlanması ile sentezlenir. Anilin endüstride genellikle iki aşamada sentezlenir:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anilin sarısı</DOCTITLE>
+<TEXT>
+
+Anilin sarısı para-aminoazobenzene, 4-phenylazoaniline yapısında bir boyadır. Biyoloji laboratuarlarında mikroskobik çalışmalarda kullanılır.
+Anilin sarısı, bulunan ilk azo boyası'dır. 1861 yılında C. Mene tarafından bulunmuştur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>William Henry Perkin</DOCTITLE>
+<TEXT>
+
+William Henry Perkin (d. 12 Mart 1838, Londra - ö. 14 Temmuz 1907, Sudbury) İngiliz kimyager.
+Hofmann'ın asistanlığına getirilen (1856) Sir William Henry Perkin, ilk anilin boyasını (movein) buldu (1874). Bir anilin boya fabrikası kurup, soyluluğa yükseltilerek (1906), kimya alanındaki çalışmalarını sürdürdü.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akridin</DOCTITLE>
+<TEXT>
+
+Akridin, C13H9N, heterosiklik bir organik bileşiktir. Akridin terimi ayrıca, C13N üçlü halkasını içeren bileşiklere değinmek için kullanılır.
+Akridin yapısal olarak antrasen ile ilişkilidir, o bileşiğin ortasındaki CH gruplarından biri yerine azot gelmiştir. Renksiz bir katı madde olan akridin ilk defa kömür katranından elde edilmiştir. boya ve bazı değerli ilaçların yapımında kullanılan bir ham maddedir. Çoğu akridin, örneğin riboflavin, ayrıcfa antiseptik özellik gösterirler. Akridin ve onun türevleri, enterkalasyon yapma özellikleri nedeniyle DNA ve RNA'ya bağlanırlar. Akridin turuncusu (3,6-dimetilaminoakridin) nükleik asitlere spesifik metakromatik bir boyadır, hücre döngüsünün aşamalarını belirlemekte kullanılır. Akridarsin akridine benzer bir yapıya sahiptir ama azot atomunun yerinde bir arsenik atomu bulunur. Akridofosfin ise azot yerine bir fosfor atomu bulundurur.
+Tarih.
+Akridin ilk defa 1871'de Carl Gräbe ve Heinrich Caro tarafından saflaştırılmıştır.
+Kaynakları.
+Akridin doğal olarak kömür katranında bulunur. Derişik sülfürik asitler kömür katranından ekstrakte edilir; bu çözeltiye potasyum dikromat eklenmesiyle akridin bikromat çökelir. Amonyak eklenmesiyle bikromatın bozunması sağlanır.
+Akridin ve türevlerinin üretimi için çeşitli sentetik süreçler bilinmektedir. Bernthsen akridin syntezinde, çinko klorürle beraber karboksilik asitler kullanarak difenilamin yoğunlaştırılır. Karboksilik asit olarak formik asit kullanılınca reaksiyonun ürünü akridinin kendisi olur, daha yüksek homologlarda akridinin meso karbon atomunda ornatık türevler elde edilir.
+Akridinin organik sentezi için kullanılan diğer eski yöntemler arasında alüminyum klorür varlığında difenilamin'in kloroform ile yoğunlaştırılması; ortoaminodifenilmetan buharlarının ısıtılmış litharge üzerinden geçirilmesi; salisilik aldehit'i anilin ve çinko klorür ile 260 °C'de ısıtmak; ve akridon'u (9 pozisyonunda karbonil grubu olan akridin) çinko tozu üzerinde damıtmak, sayılabilir.
+Akridin sentezi için genel bir yöntem, "N"-fenilantranilik asit'in veya 2-(fenilamino)benzoik asidin fosforik asit ile siklisizasyonudur (halkalandırılmasıdır).
+Akridonların sentezi için klasik bir yöntem Lehmstedt-Tanasescu reaksiyonudur.
+Fiziksel özellikler.
+Akridin ve homologları, zayıf bazik karakterli kararlı bileşiklerdir. Akridinin pKa'sı 5,6'dır, bu bakımdan piridin'e benzer. Tek kaynaşmalı analoğu olan kinolin'e benzer özellikleri de vardır. Akridin iğne biçimli kristalleşir, bunlar 110°C'da ergir. Tuzlarının çözeltileri mavi floresans gösterir.
+Kimyasal özellikler.
+Akridin alkil iodürlerle kolaylıkla birleşip akrdiniyum iodürler oluşturur, bunlar da alkali potasyum ferrisiyanürün etkisiyle "N"-alkil akridonlara dönüşür. Potasyum permanganatla yükseltegenince akridinik asit C9H5N(COOH)2 veya kuinolin-1,2-dikarboksilik asite dönüşür. Akridin, peroksisülfonik asit ile yükseltgenip akridin amin oksit'e dönüşür. Akridin'in karbon 9 pozisyonu ekleme reaksiyonları için aktive edilir. Akridin indirgenince 9,10-dehidroakridin meydana gelir, bu bileşik potasyum siyanür ile reaksiyona girince 9-siyano-9,10-dehidro türevini verir.
+Akridinin çeşitli türevleri vardır ve bunlar akridinin kendisi için kullanılan yöntemlere benzer yöntemlerle hazırlanabilir. 9-Fenilakridin'den krisanilin veya 3,6-diamino-9-fenilakridin elde edilir. Bu sonuncu bileşik, boya malzemesi fosfin'in (bu fosfin, fosfin gazı ile karıştırılmamalıdır) ana bileşenidir. Fosfin rosanilin üretiminin bir yan ürünüdür.
+Krisanilin kırmızı renkli tuzlar oluşturur, bunlar ipek ve yünü sarı renge boyar. Bu tuzların çözeltileri sarı-yeşil bir floresansa sahiptir. Krisanilin O. Fischer ve G. Koerner tarafından sentezlenmiştir. Bu sentez yönteminde orto-nitrobenzaldehit, anilin ile yoğunlaştırılır, meydana gelen orto-nitro-para-diamino-trifenilmetan indirgenerek ortoamino bileşik elde edilir, bu da yükseltgendikten sonra krisanilin elde edilir.
+Benzoflavin krisanilin'in bir izomeridir, ve o da bir boya malzemesidir. K. Oehler tarafından, meta-fenylenediamin ve benzaldehit'ten elde edilmiştir. Bu bileşikler yoğunlaşarak tetra-aminotrifenilmetan oluşturur, bu da asit içinde ısıtılınca amonyak kaybeder ve 3,6-diamino-9,10-dihidrofenylakridin verir, bunun yükseltegnmesi ile benzoflavin elde edilir. Bu bileşik, sıcak suda çözünebilen sarı bir tozdur. 
+Kanser bağlantısı.
+Akridin bilinen bir insan kanserojenidir. DNA'ya katılıp yeni bir baz eklenmesine neden olur. Bu insersiyon mutasyonu eğer bir protein kodlayıcı dizi içinde olursa, büyük olasılıkla kodlanan proteinin inaktive olmasına neden olur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eflatun (renk)</DOCTITLE>
+<TEXT>
+
+Eflatun, morun açık tonlarının genel adıdır. Leylak ve lavanta çiçeğinin renkleri buna örnektir. Erguvan - mor - mavi üçgeni içinde yer alan renkleri kapsar. Bu aralığın en açık ucunda şap taşı rengi, en koyu ucunda siklamen rengi bulunur.
+Eflatun rengi Roma/Bizans dünyasında soyluluk ve otorite simgesi olduğu için Arapça'da filozof Eflatun'a atfedilmiş, oradan Türkçe'ye girmiştir. Eflatun'unun Fransızca karşılığı olan "Mauve" sözcüğü 1856'da İngiliz kimyager William Henry Perkin tarafından, suni kinin sentezlemeye çalışırken ilk defa kullanıldı. Perkin'in kazara sentezlediği boya, sonradan mauvein olarak adlandırılan ilk anilin boyası oldu.
+Dış bağlantılar.
+<br clear=all>
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Arsenik asit</DOCTITLE>
+<TEXT>
+
+Arsenik asit renksiz kolay izole olmayan bir çeşit kimyasal bileşiktir.Fosforik aside benzer.Antoine Béchamp tarafından 1859'da anilin sentezi sırasında bulunmuştur.Daha sonra tıpta deri hastalıklarını tedavide kullanıldı.
+Günümüzde ise kereste sanayinde ve boyar madde yapımında kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Walther Flemming</DOCTITLE>
+<TEXT>
+
+Walther Flemming (21 Nisan 1843 – 4 Ağustos 1905) Alman biyolog ve sitogenetiğin kurucusudur.
+Schwerin yakınlarındaki Sachenberg şehrinde psikiyatrist Carl Friedrich Flemming ve ikinci eşi Auguste Winter’in beşinci çocuğu ve tek oğlu olarak dünyaya geldi. İlk çalışmalarını meslektaşı ve aynı zamanda ömrü boyunca arkadaşlık ettiği yazar Heinrich Seidel’in de bulunduğu Residenzdtadt Gynasium’da yaptı.
+1868 yılında mezun olduğu Rostock Üniversitesi’nde tıp eğitimi aldı. Daha sonra 1870-1871 yılları arasında Fransa-Prusya Savaşı'nda askeri tabip olarak görev yaptı. 1873’ten 1876’ya kadar Prag Üniversitesi’nde öğretim görevlisi olarak çalıştı. 1876’da Kiel Üniversitesi’nde professörlük görevini kabul etti. Anatomi Enstitüsü başkanlığına getirilen Flemming ölümüne kadar bu görevde hayatını sürdürdü.
+Anilin boyalarından yararlanarak kromatin adını verdiği bazofilik boyaları kuvvetlice emen bir yapı keşfetmeyi başardı. Kromatinin hücre çekirdeğindeki ipliksi yapılarla ilişkili olduğunu gördü. Felmingin ipliksi dediği yapılar daha sonra Alman anatomist Wilhelm von Waldeyer-Hartz tarafından kromozom (renkli vücut manasına gelir) olarak isimlerdirdi. Belçikalı bilim adamı Edouard Van Beneden de bunları bağımsız olarak gözlemledi.
+Flemming, Yunanca’da iplik manasına gelen mitoz (mitosis) olarak isimlendirdiği hücre bölünmesi ve kromozomların yavru çekirdeklere dağılım süreçlerini inceledi. Lakin henüz yavru kromatidleri yani eş olan iki ayrı yapıya bölünmeyi farkedememişti. Mitoz bölünmeyi hem canlılarda hem de semender balığının yüzgeç ve solungaçlarından elde edilen biyolojik maddelerden yapılan renkli numuneler üzerinde inceledi. Bu çalışmalar ilk olarak 1878 ve 1882’de Zellsubstanz, Kern und Zelltheilung isimli kitapta yayınlandı. Flemming, keşiflerine dayanarak ilk defa tüm hücre çekirdeklerinin daha önceki kuşaktan bir hücre çekirdeğinden geldiği kanısına vardı. 
+Flemming, Gregor Mendel’in kalıtım üzerine yaptığı çalışmalardan habersizdi, bu yüzden kendi gözlemleri ile kalıtımsal miras arasında bir bağlantı kurmamıştı. Flemming’in yaptığı çalışmaların ehemmiyetinin, Mendel kurallarının yeniden keşfi ile birlikte gerçek manada anlaşılması için 20 yıl geçmesi gerekecekti. Mitoz bölünmeyi ve kromozomları keşfetmesi tüm zamanların ön önemli 100 bilimsel keşfinin ve hücre biyolojisi alanında en önemli 10 keşfin arasında gösterilmektedir.
+Flemming’in adı Alman Hücre Biyolojisi Topluluğu tarafından verilen madalyayla onurlandırılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hermann Emil Fischer</DOCTITLE>
+<TEXT>
+
+Hermann Emil Fischer (d. 9 Ekim 1852, Euskirchen - ö. 15 Temmuz 1919, Berlin), Alman kimyager.
+Önce Münih'te Baeyer'in asistanı oldu (1875), sonra sırasıyla, Erlangen (1882), Würzburg (1885) ve Berlin üniversitelerinde kimya profesörlüğüne tayin edildi (1892). Fischer, karbonhidratlar ve fermentler üzerinde araştırmalar yaptı. Fermentler ile şekerleri birlikte inceleyerek birincilerin spesifik etkilerini ortaya koymak suretiyle kimya ile biyoloji arasında bir ilişki kurdu ve bu incelemeleri stereokimya araştırmalarına bağladı. 1887'de elementlerinden başlayarak sentez yoluyla früktoz, glikoz ve bazı yeni şekerler elde etti. Aminoasitlerle peptonlara benzer bileşikler meydana getirdi. Ayrıca kafeini ve teobromini inceledi. Birçok anilin boyasının kimyasal yapısını açıkladı. 1902 yılında Nobel Kimya Ödülü'nü kazandı.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kemerovo</DOCTITLE>
+<TEXT>
+
+Kemerovo, (Rusça: Кемерово) Rusya Federasyonu'nun orta güney kesiminde Kemerovo Oblastı'nda merkezi kent.
+Tom Nehri kıyısında Kuznetsk Aladağları'nın yakınında yer alır. 1830'larda Kemerovo adıyla küçük bir kasaba olarak kuruldu; 1925'te Şçeglovsk adıyla kent statüsü kazandı. Kuznetsk Kömür Havzası'nın gelişmesiyle hızlı bir büyümeye sahne oldu ve 1932'de yeniden eski adı Kemerovo'yu aldı. Günümüzde önemli bir kömür madenciliği merkezi ve Rusya'nın en önemli kimya sanayisi kentlerinden biridir. Başlıca sanayi ürünleri arasında azotlu gübre, plastik, yapay elyaf hammaddesi, anilin boya ve boya maddesi, sud kostik, amonyak ve ilaç sayılabilir.
+Kentte ayrıca kömür madenciliği donanımı ve tarım makineleri üretilir; bıçkıcılık ve kerestecilik de önemlidir. Kentte madencilik ve öğretmen okulları vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kodein</DOCTITLE>
+<TEXT>
+
+Kodein (metilmorfin) afyondan elde edilen ve analjezik, antitussif ve antidiyareik özellikleri olan bir opioiddir. Kodein sülfat ve kodein fosfat olarak pazarlanmaktadır. Avrupa'da ise daha çok klorhidratı (kodein hidroklorid) olarak pazarlanır. Kodein ham afyonda en fazla %0,5 oranında bulunur. Doğal olarak elde edilen kodein ilaç sanayiinde yeterli olmadığı için morfinin o-metillendirilmesiyle elde edilir. Morfinin metillendirilmesi ilk defa Grimaux tarafından metil iyodür (CH3I) ile yapılmıştır. Reaktif olarak CH3I, dimetil sülfat, diazometan ve trimetilfenil amonyum klorür denenmiş, en etkili reaktifin trimetilfenil amonyum klorür olduğu bulunmuştur. Bunu elde etmek için dimetil anilin otoklavda mutlak alkollü ortamda metil klorür (CH3Cl) ile 100-120 oC'de metillendirilir.
+Morfinden daha zayıf bir narkotik olup alışkanlık yapma derecesi de azdır. Bu yüzden çok kullanılan bir uyuşturucudur. Ağrı dindirme etkisi aspirinden çok yüksektir. Analgesik etkisi morfine göre daha azdır. Ancak iyi bir öksürük dindiricidir. Uyuşturma etkisi 2-3 saat kadardır. Öksürük azaltma etkisi de olup, astımlı kimseler için tehlikelidir. Kodeinin alışkanlık yapma derecesi daha az olmakla beraber, morfin ve eroin alanlar bunları bulamadıklarında kodeine başvururlar. Kodeinin toksik etkisi de nispeten azdır. Tıpta kullanılış sebebi, merkezi sinir sistemi ni etkileyerek öksürük refleksini ortadan kaldırma tesiridir. Bu yüzden bazı kuru öksürüklerde, doktorun lüzum görmesiyle geçici olarak kullanılabilir. Diğer ağrı kesicilere katılarak daha kuvvetli etki elde etmek için de kullanılmaktadır.
+Kodeinde 5,6,9,13 ve 14 numaralı karbonlar asimetriktir. Alkoldeki %2'lik çözeltisi polarize ışığı sola çevirir.
+[α]D = –135o
+
+</TEXT>
+</DOC>
+

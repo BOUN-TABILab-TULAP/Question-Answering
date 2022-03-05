@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tarımda tarım+Noun+A3sg+Pnon+Loc
+bilinçsiz bilinç+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+su su+Noun+A3sg+Pnon+Nom
+kullanımı kullanım+Noun+A3sg+P3sg+Nom kullanım+Noun+A3sg+Pnon+Acc
+nehir nehir+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+gölleri göl+Noun+A3pl+Pnon+Acc göl+Noun+A3pl+P3sg+Nom göl+Noun+A3pl+P3pl+Nom göl+Noun+A3sg+P3pl+Nom gölle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+nasıl nasıl+Adverb nasıl+Adj
+etkiler etki+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl etki+Noun+A3pl+Pnon+Nom etkile+Verb+Pos+Aor+A3sg etkile+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

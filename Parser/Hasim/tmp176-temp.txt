@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Norveç Norveç+Noun+Prop+A3sg+Pnon+Nom
+İsveç İsveç+Noun+Prop+A3sg+Pnon+Nom
+gibi gibi+Postp+PCGen gibi+Postp+PCNom
+ülkelerde ülke+Noun+A3pl+Pnon+Loc
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+önemli önem+Noun+A3sg+Pnon+Nom^DB+Adj+With
+geçim geç+Adj^DB+Verb+Zero+Pres+A1sg geç+Adj^DB+Noun+Zero+A3sg+P1sg+Nom geçim+Noun+A3sg+Pnon+Nom
+kaynağı kaynak+Noun+A3sg+P3sg+Nom kaynak+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

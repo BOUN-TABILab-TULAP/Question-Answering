@@ -1,0 +1,199 @@
+Question: İlk mikroskopu kim icat etmiştir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cam özelliklerinin hesaplanması</DOCTITLE>
+<TEXT>
+
+Cam özelliklerinin hesaplanması (cam modellemesi), belirli koşullar altındaki cam davranışlarını veya cam özelliklerini deneysel araştırma yapmadan, önceden toplanmış veri ve tecrübe ile, bilimsel bir bakış kazanmak veya zaman, hammadde, finansal ve çevresel kaynakları korumak amacıyla tahmin etme işlemine verilen addır. İlk olarak 19. Yy sonunda A. Winkelmann ve O. Schott tarafından gerçekleştirilmiştir. Birkaç cam modellemesinin diğer ilgili fonksiyonlarla kombinasyonu, optimizasyon ve altı sigma prosedürleri için kullanılabilir. İstatistiksel analiz amacıyla kullanıldığında, yeni verilerin, deneysel prosedürlerin ve ölçüm kurumlarının (cam laboratuvarları) akreditasyonu için kullanılabilir.
+Tarih.
+Tarihsel olarak, cam özelliklerinin hesaplanması doğrudan cam biliminin kurulmasıyla ilgilidir. 19. Yy sonunda, fizikçi Ernst Abbe, Jena, Almanya’da Carl Zeiss’in optik atölyesiyle işbirliği içerisinde, optimize edilmiş optik mikroskopların tasarım hesaplarının yapılmasını sağlayan denklemler geliştirdi. Ernst Abbe’nin zamanından önce, mikroskop yapımı çoğunlukla bir zanaatkarlık işi olarak yapılmakta, bu da kaliteleri ürüne göre değişen çok pahalı optik mikroskopların üretilmesine sebep vermekteydi. Ernst Abbe, hatasız bir mikroskopu kesin olarak ne şekilde yapmasını biliyorduysa da, gereken kırınım indisine ve ayrışmaya sahip lensler ve prizmalar mevcut değildi. Cam zanaatkarları ve mühendisler, Ernst Abbe’nin ihtiyaç duyduğu bu ürünleri üretemediler; zira o çağda cam yapımı bilimsel bir iş değildi.
+1879’da, genç cam mühendisi Otto Schott, kendisinin hazırladığı ve özel optik özellikler sergileyeceğini umduğu, özel bir bileşimden lityum silikat cam yapılmış olan cam numunelerini Ernst Abbe’ye gönderdi. Ernst Abbe’nin ölçümleri sonucunda, Schott’un yolladığı numunelerin ihtiyaç duyulan optik özellikleri taşımadığı, aynı zamanda arzu edilen homojenlikte de olmadığı ortaya çıktı. Buna rağmen, Ernst Abbe, Otto Schott’tan problem ile ilgili çalışmalarına devam etmesini ve bütün cam elemanlarını sistematik olarak incelemesini istedi. Sonunda, Schott homojen cam numuneler üretmeyi başardı, ve Abbe’nin istediği optik özellikleri taşıyan borosilikat cam’ı icat etti. Sistematik cam araştırmaları da böylece başlamış oldu. 1908’de, Eugene Sullivan cam araştırmalarını ABD’de (Corning, New York) başlatan kişi oldu.
+Cam araştırmalarının başında, cam bileşimi ve özellikleri arasındaki ilişkiyi bilmek son derece önem taşımaktaydı. Bu amaç için, Otto Schott, cam özelliklerinin hesaplanması ile ilgili birkaç yayında toplama prensibini tanıttı.. > Bu prensibe göre, cam bileşimi ve belirli bir özellik, ideal karışım varsayıldığında, bütün bileşen yüzdelerine lineerdir, aşağıdaki denklemde Ci ve bi belirli cam bileşen yüzdelerini ve ilgili katsayıları (sırasıyla) belirtmektedir. Toplama prensibi bir basitleştirmedir ve yalnız dar bileşim aralıklarında (viskozite ve kırınım indisi ile ilgili aşağıdaki diyagramlarda görüleceği gibi) geçerlidir. Buna rağmen, toplama prensibinin uygulaması Schott’un, optik camlar, yemek pişirme amacıyla ve laboratuvarlarda kullanılan düşük genleşme katsayılı camlar (Duran), civa termometreleri için düşük donma noktalı camlar gibi pek çok icadı yapmasını sağladı. Bunun sonucunda, English </ref> ve Gehlhoff et al. published similar additive glass property calculation models. Schott’s additivity principle is still widely in use today in glass research and technology. benzer toplamaya dayalı cam özelliği hesaplama modelleri yayınladılar. Schott’un toplama prensibi günümüzde halen cam araştırması ve teknolojisinde yaygın olarak kullanılmaktadır.
+Global Modeller.
+Schott ve birçok diğer bilimadamıyla mühendis, kendi laboratuvarlarında topladıkları, yeterince dar bileşim aralığına sahip deney verilerine toplama prensibini uyguladılar (yerel cam modelleri). Bu metot sayesinde laboratuvarlar arasındaki uyuşmazlıklar ile lineer olmayan cam bileşen etkileşimlerinin dikkate alınmaması sağlandı. Sistematik cam araştırmalarının sürdüğü birkaç onyıl boyunca binlerce cam bileşimi incelenerek, milyonlarca yayınlanmış cam özelliği elde edildi, bunlar da cam veritabanlarında toplandı. Bottinga, Kucuk, Priven , Choudhary , Mazurin , ve Fluegel global cam modellerini, değişik yaklaşımlar kullanarak yayınlamadan önce, bu büyük deneysel veri havuzu bütün olarak incelenmemişti. Schott’un modellerinden farklı olarak, bu global modeller pek çok bağımsız veri kaynağını da değerlendirmeye aldıklarından, model tahminlerini daha güvenilir hale getirmişlerdir. Ayrıca, global modeller, belirli cam bileşen kombinasyonlarının toplamaya bağlı olmayan bazı özelliklere etkilerini (sağdaki diyagramda görülen karışık alkali etkisi, veya bor anomalisi) ortaya çıkarıp nicelik açısından incelemeyi mümkün kılmıştır. Global modeller, aynı zamanda cam özelliği ölçüm isabetliliğindeki ilginç gelişmeleri, örneğin bazı cam özelliklerinin modern bilimsel literatürde deneysel ölçümlerinin daha az isabetle yapılıyor olmasını (diyagramda gösterilen şekilde) göz önüne sermiştir. Yeni verilerin, deneysel prosedürlerin ve ölçüm kurumlarının (cam laboratuvarları) akreditasyonu için kullanılabilir. Aşağıdaki bölümlerde (erime entalpisi hariç), yüksek miktardaki deneysel veriyi kullanmak için başarılı bir yöntem olarak değerlendirilen deneysel modelleme teknikleri sunulmuştur. Ortaya çıkan modeller, çağdaş mühendislik ve cam özelliklerinin hesaplanması araştırmalarında uygulanmaktadır.
+Deneysel olmayan (tümdengelimli) cam modelleri de bulunmaktadır. Bunlar genellikle, (erime entalpisi hariç) güvenilir cam özelliği tahminleri elde etmek yerine, bilimsel bir bakış elde etmek amacıyla bazı özellikler (atomik yarıçap, atomik kütle, kimyasal bağ gücü ve açıları, değerlik, ısı kapasitesi) arasında ilişki kurmak için yaratılmaktadır. Gelecekte, özellik ilişkilerinin doğru anlaşıldığı ve ihtiyaç duyulan deneysel veri elde bulunduğunda, tümdengelimli cam modellerinde yapılan özellikler arasındaki ilişkinin incelenmesi, ihtiyaç duyulan bütün özellikler ile ilgili güvenilir tahminler yapılmasını mümkün kılabilir.
+Yöntemler.
+Cam özellikleri ve üretim sırasındaki cam davranışı, GE-SYSTEM , SciGlass ve Interglad , gibi cam veritabanlarının istatistiksel analiziyle, bazen sonlu elemanlar yöntemiyle birlikte kullanılarak hesaplanabilir. Erime entalpisini tahmin etmek için ise termodinamik veritabanları kullanılmaktadır.
+Lineer Regresyon.
+Eğer istenen cam özelliği kristalizasyon (örneğin sıvılaşma eğrisi sıcaklığı) ya da faz ayrımı ile ilgili değilse, lineer regresyon, üçüncü dereceye kadar genel polinom fonksiyonlar kullanılarak uygulanabilir. Aşağıda, ikinci dereceden örnek bir denklem verilmiştir. C değerleri, Na2O veya CaO gibi cam bileşenlerinin konsantrasyonunun yüzde olarak veya başka kesirler şeklinde değeri, b değerleri katsayılar, n de cam bileşenlerinin toplam sayısıdır. Ana cam bileşeni silica (SiO2) aşağıdaki denkleme dahil edilmemiştir, zira bütün bileşenlerin toplamının %100 etmesi gerekliliği bulunmaktadır. Korelasyon ve önem analiziyle aşağıdaki denklemin pek çok terimi ihmal edilebilir. Resimde de görülen sistematik hatalar, sağır değişkenlerle ifade edilebilir. Daha fazla detay ve örnek, Fluegel’in hazırladığı online rehberde mevcuttur.
+Lineer olmayan regresyon.
+Sıvılaşma eğrisi sıcaklığı, sinirsel ağlar ve bağlantısı kesilmiş zirve fonksiyonları kullanılarak lineer olmayan regresyonla modellenebilir. Bağlantısı kesilmiş zirve fonksiyonları yaklaşımı, bir ana kristalin fazında alansal lineer regresyonun uygulanabildiği ve maksimum erime noktalarında ani değişikliklerin oluştuğu gözlemine dayanmaktadır. 
+Cam erime entalpisi.
+Cam erime entalpisi, bir hammadde karışımını (yığın) erimiş cama döndürmek için gereken enerji miktarıdır. Eldeki yığına ve cam birleşimine, fırının ve ısı üretim sistemlerinin verimliliğine, fırında camın geçireceği ortalama süreye ve birçok başka faktöre bağlı olarak değişir. Bu konuyla ilgili ilk makalelerden birisi, Carl Kröger tarafından 1953’te kaleme alınmıştır. 
+Sonlu elemanlar yöntemi.
+Bir cam eritme fırınındaki cam akışını modellemek için, viskosite, yoğunluk, ısı iletkenliği, ısı kapasitesi, özümseme spektrumları ve erimiş camın diğer özelliklerine dayanan veriler veya modeller ile oluşturulmuş olan sonlu elemanlar yöntemi, ticari olarak kullanılmaktadır. Sonlu elemanlar yöntemi, aynı zamanda cam şekillendirme işlemleri için de uygulanabilir.
+Optimizasyon.
+Genellikle birden fazla cam özelliğinin aynı anda optimize edilmesi gerekir, buna üretim maliyetleri de dahildir. GE-SYSTEM 
+. Bu işlem, örneğin simpleks algoritması veya elektronik bir tablo kullanılarak, aşağıdaki yöntemle yapılabilir.
+1- İstenen özelliklerin listelenmesi
+2- Üretim maliyetlerini hesaplayan bir formül de içeren, cam bileşimine dayalı cam özelliklerinin güvenilir olarak hesaplanması için modellerin girilmesi
+3- İstenen ve hesaplanan özellikler arasındaki farkın (hatanın) karesinin hesaplanması
+4- Microsoft Excel’deki Solver seçeneğini kullanarak, cam bileşenlerini değişken olarak tanımlayıp hataların karesinin toplamının düşülmesi. Bunun işim Microcal Origin gibi farklı yazılımlar da kullanılabilir.
+İstenen özelliklerin ağırlığını birbirinden farklı ayarlamak mümkündür. Bu prensiple ilgili temel bilgi Huff et al. tarafından yayınlanan bir makalede bulunabilir. Birkaç cam modelinin, ilgili teknolojik ve finansal fonksiyonlarla birlikte kombinasyonu, altı sigma optimizasyonu için kullanılabilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>STED mikroskopu</DOCTITLE>
+<TEXT>
+
+STED mikroskopu (Stimulated Emission Depletion Microscopy), ışığın difraksiyonu nedeniyle standart konfokal mikroskopun ve konvansiyonel far-field optik mikroskopların maruz kaldığı çözünülük limitlerinin üstesinden gelebilen yeni geliştirilmiş bir mikroskoptur. Bu teknik kullanılarak çözünürlüğü en yüksek olan konfokal lazer tarama mikroskoplarına göre dokuz kat daha yüksek çözünürlük elde edilebilmektedir. Konfokal mikroskopların çözünürlüğü yaklaşık olarak kullanılan lazerin dalga boyuna eşittir (200-500 nm arası).
+Çalışma Prensipi.
+STED mikroskopu, önce floresan objeyi uyarma amaçlı çok kısa bir puls gönderir (resimde kırmızı çizgi). Hemen sonra floresan objenin emisyon çizgisine ayarlanmış olan "yok edici" ikincil puls gönderilir (mavi çizgi). İkincil puls toroidal bir profile sahiptir ve dolayısıyla bir nokta üzerine değil, halka şeklinde bir odaklanmaya sahiptir. Yok edici puls neredeyse bütün uyarılmış elektronların tekrar eski temel hallerine dönmesini sağlar. Emisyon sadece halkanın ortasından ya da uyarıcı pulsun gittiği doğrultudan gerçekleşebilir. Bu sayede çözünürlük artırılabilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotoğrafçılık</DOCTITLE>
+<TEXT>
+
+Fotoğrafçılık, kamerayla ışığı hassas bir yüzey üzerine kaydederek görüntü oluşturma işidir. İşlevsel uygulamaları nedeniyle bir zanaat olduğu gibi, estetik yönüyle bir sanat olarak kabul edilir. Teknik olarak lensler, bir pozlamada ışığa duyarlı yüzeye (sensör) yansıyan veya yayılan ışığa odaklanmak için kullanılırlar. Bir elektronik görüntü sensöründe fotoğraf, her bir piksele elektrik yüklenmesi ve elektronik olarak bu fotoğrafın işlenmesi sonucu oluşur. 
+Etimoloji.
+Bildiğimiz kadarıyla Mart 14 1839'da Sir John Herschel Royal Society of London'da bir dersinde fotoğrafçılık (photography) kelimesini dünyaya tanıtmıştır. Ancak aynı senenin 25 Şubat'ında Vossische Zeitung adında bir gazetede Johann von Maedler bu kelimeyi kullanmıştır. Fotoğrafçılık (photography)kelimesi Yunanca'dan gelmektedir; φωτός (phōtos).
+Tarihçe.
+Fotoğrafçılık birkaç teknik buluşun bir araya gelmesi sonucu oluşmuştur. İlk fotoğraflar yapılmadan uzun zaman önce Çinli filozof Mo Di ve Yunan matematikçiler Aristoteles ve Öklid M.Ö. 5. ve 4. yüzyıllarda bir iğne deliği kamerasından bahsetmişlerdir. MS 2. yüzyılda Bizanslı matematikçi Anthemius deneylerinde bir tür karanlık oda kullanmıştır. Ünlü optik bilimcisi İbn-i Heysem'in (965-1040) karanlık odalar ve iğne deliği kamerası hakkında araştırmaları vardır. Albertus Magnus (1193-1280) gümüş nitrat'ı keşfetti ve Georges Fabricius (1516-1571) gümüş klorür'ü keşfetti. Wilhelm Homberg 1694 yılında bazı kimyasalları ışığın nasıl kararttığını (fotokimyasal etki) açıklamıştır. Fransız yazar Tiphaigne de la Roche'nin 1760 senesinde yayınlanan Giphantie adlı romanında fotoğrafçılığın ne anlama geldiği hakkında önemli yorumlar yapmıştır.
+19. yüzyılın ilk on senesinde icat edilen fotoğrafın (kamera yolu ile) resim ve heykel gibi geleneksel sanatlardan daha fazla bilgi ve ayrıntı yakaladığı görülmüştür. 1820 senesinde kimyasal fotoğrafçılığın keşfedilmesi modern fotoğrafçılığın önemli dönüm noktalarında biri olmuştur. İlk kalıcı-iz bırakan fotoğraf (photoetching) Fransız mücit Nicéphore Niépce tarafından 1822 senesinde üretilmiştir. Ancak Niepce fotoğrafı çoğaltmak isterken malesef tahrip etmiştir. 1825 senesinde ise Niepce yeniden başarılı olmuştur. İlk kalıcı doğa fotoğrafını (View from the Window at Le Gras) karanlık oda ile 1826 senesinde yapmıştır. Ancak fotoğraları çok uzun sürede çekim yapabildiği için (8 saat) yeni sistemler üzerinde çalışmıştır. Louis Daguerre ile birlikte, 1816'da Johann Heinrich Schultz tarafından keşfedilen gümüş ve kireç karışımlarının ışığa maruz kaldığında kararmasının sonucu olarak gümüş bileşimlerle çalışmışlardır. Niépce 1833 yılında öldü, fakat Daguerre çalışmalarına devam etti. Daguerre 1838'de, Paris sokaklarının sini çekerken bir yaya ayakkabasını boyatıyordu (pozlamada görülebilecek kadar uzun bir süre-birkaç dakika) ve bu fotoğraf dünyanın ilk insan fotoğrafı olarak kabul edilmiştir.En sonunda Fransa 1839 yılında Daguerre'nin buluşunu tüm dünyaya Fransa'nın hediyesi olarak tanıtma sözü karşlığında (ki bunu gerçekleştirmiştir) Daguerre 'ye emekli aylığı ödemeyi kabul etmiştir.
+Bu arada, Hercules Floransa ve İngiliz mücit William Fox Talbot zaten 1832 yılında Brazilya'da Photographie olarak adlandırdığı çok benzer bir işlemle daha önceden gümüş işleme resimi düzeltebilmişlerdir ancak bunu gizli tutmuşlardır. Talbot, Daguerre'nin icadını duyduktan sonra insanların kolayca portre fotoğraflar çektirebilmeleri için kendi işlemini saflaştırmıştır.
+1840'ta Talbot negatif görüntüler oluşturan kalotip işlemini icat etmiştir. Talbot'un 1835 basımlı "Oriel window in Lacock Abbey" adlı fotoğrafı bilinen en eski negatiftir. John Herschel'in birçok yeni yönteme önemli katkıları olmuştur. Herschel cyanotype işlemini icat etmiştir, bugünkü ozalit (mavi baskı). Herschel fotoğrafçılık,pozitif,negatif gibi terimleri kullanan ilk kişidir.
+19. yüzyıl boyunca fotoğrafik cam levhalar ve baskı alanında birçok gelişmeler yaşanmıştır. 1884 senesinde George Eastman fotoğrafik levhaların yerini alacak olan film'i icat etmiştir. 1908 senesinde Gabriel Lippmann, Lippmann levhası olarak da bilinen girişim fenomenine dayalı ışığın fotoğrafik olarak yeniden çoğalması metoduyla fizik alanında Nobel Ödülü'nü kazanmıştır.
+Türler/İşlemler.
+Siyah-Beyaz.
+Tüm fotoğraflar aslında monokromdu yani siyah-beyazdı. Renkli film kullanılabilir hale getirildiği zaman dahi siyah-beyaz filmler hem düşük maliyeti hem de fotoğraflar "klasik" görünüm verdiği için uzun seneler renkli filmlere karşı baskınlığını korumuştur. Şunu da belirtmek lazım ki tüm siyah beyaz resimler sadece siyah ve beyaz değildir,işlemelere bağlı olarak başka renkler de barındırırlar. Bazı tam renkli dijital fotoğraflar çeşitli teknikler kullanıp işleyerek siyah-beyaz hale getirilebilir. Hatta bazı üretici firmalar sadece monokrom fotoğraf çekebilen dijital makineler üretmiştir.
+Renkli.
+Renkli Fotoğraf 19. yüzyılın ortalarından itibaren icat edilmiş ve geliştirilmiştir. Renkli fotoğraflar üzerinde yapılan ilk deneyler son derece uzun pozlamalar gerektirmiş (saatler hatta bazen günler) ve beyaz ışığa maruz kalan renkli fotoğraflar kısa sürede solmuştur. 
+İlk kalıcı renkli fotoğraf, fizikçi James Clerk Maxwell'in üç renk ayrımı ilkesine dayanarak 1861 senesinde çekilmiştir.
+İşlev.
+Kamera görüntüyü oluşturan cihazdır ve fotoğraf filmi ya da elektronik sensör algılayıcı ortamdır. Fotoğrafçılar kamerayı ve lensi kontrol ederek, ışık kaydeden maddeye (mesela film) gerekli ışığı pozlayarak "gizli resim" (filmde) veya "raw" (dijital makinelerde) dosyalarının bazı işlemler sonucu oluşmasını sağlarlar. Dijital kameralar ışığa duyarlı elektronik görüntü sensörü kullanır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromatin</DOCTITLE>
+<TEXT>
+
+Bölünme sürecine geçmekte olan bir hücre ışık mikroskopu ile incelenirse, çekirdeğin içinde ince ipçiklerden oluşmuş, yumak biçiminde bir ağ yapısı görülür. Bu yapı kromatin adını alır. Bu ağın üzerinde irili ufaklı tanecikler gözlenir. Elektron mikroskop ile yapılan incelemeler, kromatinde ökromatin ve heterokromatin olarak adlandırılan, birbirinden farklı iki yapısal bölümün varlığını ortaya koymuştur. Ökromatin bölgenin çekirdeğin metolizma bakımından çok aktif olan bolümü olduğu, koyu renkli heterokromatin bölgeleri ise metabolik bakımdan az aktif olan kromatin olarak bilinir. Çekirdeğinin aktifliği çok azalmış olan hücrelerde hemen bütün kromatin kitlesi heterokromatin görünümdedir. Örneğin kırmızı kan hücreleri (eritrosit) olgunlaşırken çekirdeklerinin aktifliği gittikçe azalır. Bu yüzden kromatin çok yoğun bir görünüm alır. Bir hücrenin çekirdeğinin ölümünde (piknoz) tüm kromatinin heterokromatine dönüşmüş olduğu saptanır. Kromatin maddesi nükleoproteinden oluşmuştur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Franz Maria Aepinus</DOCTITLE>
+<TEXT>
+
+Francis Maria Ulrich Theodor Aepinus Hock
+13 Aralık 1724'te, Rostock, Saxony. Mecklenberg-Schwerin de doğdu. 10 Ağustos 1802, Dorpat'ta, (Rusya) öldü.
+Matematik ve fiziğe yönelmeden önce Jena ve Rostock Üniversitelerinde tıp üzerine çalıştı.
+Tourmaline mineralinin elektriksel özelliğini keşfetti, piroelektriği araştırdı. Piroelektrik; tourmaline ve değişik diğer kristallerde sıcaklık değişimiyle ortaya çıkan elektriksel kutuplaşma durumudur.
+Benjamin Franklin'in “Tek taraflı elektrik akısı teoremi” ni geliştirdi.
+İletken ve yalıtkanlar ile indüksiyon, etki ile elektriklenme ve iletkenlerin geçirgenliği üzerine çalışmalar yapmıştır.
+İletkenlerde elektrik akımı, iticiliği ve elektrik indüksiyonu terimlerini açıkladı.
+Mikroskopu geliştirdi. Paralaksın etkileri üzerine yaptığı deneylerle yıldızların uzaklıklarının ölçümü konularında gelişmeler sağlandı. Iraklık açısının, Güneş diskinin önünden geçen gezegenler (Venüs) üzerindeki etkilerine ilişkin bir makale yayımladı. (1764) 
+Yayın tarihi Venüs’ün iki geçici arasındaki süreye rastlayan bu makale, güncelliği nedeniyle büyük ilgi uyandırdı.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miyofibril</DOCTITLE>
+<TEXT>
+
+Miyofibriller kas dokuda bulunan ve kas dokunun en önemli özelliği olan kasıp gevşemeyi sağlayan protein iplikçiklerdir. Çizgili (iskelet) kası ve kalp kasında düzgün diziliminden dolayı bu kaslar mikroskop altında çizgili görünürler.
+Yapısı.
+Miyofibrillerin filamentleri, yani miyoflamentler, iki tipten oluşur: kalın ve ince.
+Aktin ve miyozinden oluşan protein kompleksine zaman zaman "aktomiyozin" de denir.
+Çizgili kasta aktin ve miyozin filamentlerinin her biri belirli ve sabit, birkaç mikrometrelik bir uzunluğa sahiptir ki bu uzatılmış bir kas hücresinin uzunluğundan (örneğin insan iskelet kası hücrelerinde birkaç milimetrelik) çok daha küçüktür. Filamentler tekrar eden alt-birimler şeklinde miyofibril boyunca yer alırlar. Bu alt-birimlere sarkomer denir. Kas hücresi, hücrenin uzun ekseninde birbirine paralel olarak giden miyofibrillerle -neredeyse- doludur. Bir miyofibril sarkomerik alt-birimleri, bir sonraki miyofibrilinkilerle neredeyse mükemmel bir şekilde hizalanmıştır. Bu hizalanma hücrenin çizgili görünmesine yol açan belirli optik özelliklere neden olur. Düz kas hücrelerinde bu hizalanma yer almaz; böylece de çizgili bir görü.
+Sarkomerin çeşitli alt-bölgelerinin isimleri bu bölgelerin ışık mikroskopu altındaki birbirine oranla daha açık veya daha koyu görünümlerinden gelir. Her sarkomer iki çok koyu renkli bantlarla (çizgilerle) ile sınırlandırılmıştır; bunlara Z diski veya Z bandı denir. İsim Almanca "arasında" anlamına gelen "zwischen" sözcüğünden gelmektedir. Z diskleri yoğun protein diskleridir ve ışığı kolayca geçirmezler. Bu Z disklerinin arasındaki alan da ayrıca her ucundan iki daha açık renkli banda bölünür ve bunlara da I bandı denir. Ayrıca ortada bulunan ve daha koyu, grimsi renkte olan banda da A bandı adı verilir. 
+Sarkormerin I bandlarının bulunduğu bölümü başlıca ince aktin filamentlerini içerir ve bunların küçük çapları da aralarından ışığın geçmesine olanak tanır; bu sebeple I bandları daha açık renkli gözükmektedir. Oysa A bandı başlıca miyozin filamentlerini içerir ve bunların büyük çapları ışığın geçmesini kısıtlar. Bu iki band isimlerini ışıkla ilgili özelliklerinden almıştırlar: A bandı "anizotrop" , I bandı ise "izotrop"tur.
+A bandının I bandlarına dayanan kısımları hem aktin hem de miyozin filamentlerini barındırır. Yine A bandında yer alan, nispeten daha parlak orta bölgeye H bandı (veya H bölgesi) denmektedir. İsmini Almanca "parlak" anlamına gelen "helle" sözcüğünden alan bu bandda, kasın gevşemede olduğu durumda, aktin-miyozin çakışması bulunmaz. Son olarak A bandı ortadan ikiye koyu, merkezi bir çizgi ile bölünür ve bu çizgiye M bandı (veya M hattı) denir ki bu band da ismini Almanca "orta" anlamına gelen "mittel" sözcüğünden almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Barthélemy Thimonnier</DOCTITLE>
+<TEXT>
+
+Barthélemy Thimonnier, (19 Ağustos 1793,5 Haziran 1857),fransız mucit.Dikiş makinasını icat etmiştir.
+Gençliği
+1795 yılında ailesi Amplepuis'a taşınmıştır.7 kardeşten en büyüğüdür.Lyon'da okurken okuldan sonra Panissières'ta bir terzinin yanında çalışmıştır.1823'te Saint-Étienne'nin varoşuna yerleşmiş ve burda terzilik yapmıştır.
+Dikiş Makinesini İcat Edişi.
+1829'da dikiş makinesini icat etti ve patent için gerekli düzenlemeleri yapan maden mühendisi Auguste Ferrand ile anlaşma yaptı.Cihazın patenti 17 Temmuz 1830'da Barthélemy ve Auguste adına çıktı.Barthélemy aynı yıl içinde dünyanın ilk dikiş makinesiyle üretim yapılan elbise fabrikasını açtı ve ordu için kıyafetler üretti.Fabrikasında çıkan bir yangın sonucunda fabrika ve içindekiler kullanılamaz hale geldi.Sonra bütün hayatı söndü artık o fakir bir kişiydi.
+Sonraki Hayatı.
+Barthélemy bu olaydan sonra Amplepuis'a dönmüştür ve orada terziliğe devam etmiştir ve icadını geliştirmek için çalışmıştır.64 yaşındayken maddi sıkıntılar içinde hayatını kaybetmiştir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Luigi Palmieri</DOCTITLE>
+<TEXT>
+
+Luigi Palmieri (1807-1896) mucit, meteorolog ve fizikçi
+Vezüv Gözlemevi başkanlığı, royal Napal School'da fizik profesörlüğü gibi birçok görev yaptı. Sismografı icat etti.
+Benevento'nun Faicchio kentinde doğan Palmieri, 89 yaşında İtalya'nın Naples şehrinde ölmüştür.
+Napoli Üniversitesi mimarlık bölümünden mezun olmuştur. Fizik prefösürü olarak Royal Naval School'a atanmıştır; sonra fizik bölümünün başkanı olmuştur. Vezüv Gözlemevi'nin başına gelmiştir. Sismografı icat etmiştir ve lavdaki helyumu keşfetmiştir. Telgrafı büyük ölçüde geliştirmiştir. Anemometre ve yağış ölçeri icat etmiştir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>George E. Smith</DOCTITLE>
+<TEXT>
+
+George Elwood Smith, 1930 New York doğumlu Amerikan fizikçi. Willard Boyle'ile CCD'nin ortak mücidi ve 2009 Nobel Fizik Ödülü'nün Willard Boyle ve Charles K. Kao'ile ortak sahibi. 
+Hayatı.
+George Smith White Plains New York'ta 1930 yılında dünyaya gelmiştir. Çocukluğu süresince ABD'nin farklı eyaletlerinde ikamet etmiş ve çeşitli okullara devam etmiştir. 1948 yılında lise eğitimini tamaladığında ABD donanmasına katılmıştır. Kore Savaşı devam ederken ordudaki görevine devam etmiştir. Miami Üniversitesi'nde yeterli sayıda ders aldıktan sonra Pensilvanya Üniversitesi'ne 1952 yılında kayıt olmuş, Kore Savaşı sırasında orduda görev aldığı için GI kanunu gereğinci üniversiteye burslu kayıt yaptırmıştır. 1955 yılında fizik bölünden mezun olmuş hemen sonrasında evlenmiştir. 1959 yılında doktora eğitimini tamamlayıp, doğrudan Bell Labaratuarlarında katılmıştır. Burada Bill Boyle(Willard S. Boyle )'un başkanlık ettiği yeni bir araştırma bölümünde işe girmiştir. Bu dönemde yarı metallerin elektronik özellikleri üzerinde araştırmalar yapmıştır. Daha sonra Bill Boyle'un önermesi üzerine Bell Labaratuarlarında yeni açılan Araç Konseptleri adlı bölümün başında getirilmiştir. 1969 yılında Boyle'ile birlikte CCD aletini icat etmiştir. Kariyeri boyunca 31 patent ve 40 akademik makale üretmiş, IEEE, Amerikan Fizik Topluluğu ("American Physics Society") ve Ulusal Mühendislik Akademisi'nin bilimsel kurullarında yer almıştır.
+2009 yılında aldığı Nobel ödülü dışında 
+gibi ödüllere de layık görülmüştür. 
+Bilimsel Katkıları.
+CCD.
+CCD (İngilizce "Charged Couple Device") 19 Ekim 1969 yılında Boyle ve Smith tarafından Bell Labaratuarlarında icat edilmiştir. CCD, ölçüm aletleri ve sensör tasarımında çığır açmıştır. Dijital kameralar, görüntü sensörleri, ve optik tarayıcılar başta olmak üzere birçok alanda kullanılmaktadırlar.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Almanya'da bilim ve teknoloji</DOCTITLE>
+<TEXT>
+
+Almanya'nın bilim ve teknoloji alanındaki başarısı ülke ekonomisinin ileri düzeyde olmasını sağlayan önemli bir parçadır. Almaya birçok önemli bilim disiplininde öne çıkmıştır; özellikle de fizik, matematik, kimya ve mühendislik alanlarında. Ülkedeki bilimsel araştırmalar; endüstri ve üniversteler ve Max Planck Topluluğu gibi özel araştırma enstitüleri tarafındn desteklenir. 
+Tarihsel bakış.
+Modern Almanya'nın 1871 yılında kurulmasında rağmen, ülkedeki bilimsel araştırmalar çok da eskiye dayanır. Almanya; Leipzig, Heidelberg, Freiburg, Tübingen gibi Avrupa'nın en eski üniversitelerinden bazılarına ev sahipliği yapmaktadır. Bu merkezler, kuruluşlarından günümüze felsefe, din, hukuk ve fen bilimleri alanında önemli katkılar gerçekleştirmiştir.
+Bilim alanları.
+Fizik.
+Albert Einstein ve Max Planck'ın çaşışmaları modern fiziğin kurulmasına öncülük etmiştir. Bu çalışmalar daha sonra Werner Heisenberg ve Erwin Schrödinger tarafından geliştirilmiştir. Bu isimler Hermann von Helmholtz, Joseph von Fraunhofer ve Daniel Gabriel Fahrenheit gibi diğer önemli fizikçilerden önde gelmektedir. Wilhelm Conrad Röntgen, X ışınlarıi bulmuş ve bu başarısı onu 1901 yılında ilk Nobel Fizik Ödülü'nün sahibi yapmıştır ve sonraları anısına röntgenyuma ismi verilmiştir. Heinrich Rudolf Hertz'in elektromanyetik ışın alanındaki çalışmaları, modern telekomünikasyonun oluşturulmasına öncülük etmiştir.
+Kimya.
+20. yüzyıl'ın başından itibaren, Almanya, verilen ilk otuz bir Nobel Kimya Ödülü'nün on dördünü kazanmıştır. İlk olarak 1901 yılında Hermann Emil Fischer tarafından alınan bu ödül, otuz bir yıllık periyodun sonunda 1931'de Carl Bosch ve Friedrich Bergius taradfından alınmıştır.
+Otto Hahn'ın radyoaktivite ve radyokimyaya öncülük ettiği düşünülmektedir.
+Matematik.
+Almanya; Gauss, Hilbert, Riemann, Weierstrass, Dirichlet ve Weyl gibi çok önemli matematikçiler yetiştirmiştir. Gottfried Leibniz, göze batan bir Alman felsefecisi, bağımsız olarak calculusü bulmuştur.
+Mühendislik.
+Almanya birçok ünlü mucit ve mühendis yetiştirmiştir. Örneğin; Johannes Gutenberg, Avrupa'ya matbaayı getirmiştir; Hans Geiger, Geiger sayacını icat etmiştir; Konrad Zuse, ilk bilgisayarı yapmıştır. Zeppelin, Daimler, Diesel, Otto, Wankel, Von Braun ve Benz gibi Alman mühendisler, mucitler, iş adamları; otomotiv ve hava taşımacılığı teknolojilerinin başlamasına ve geliştirilmesine öncülük etmiştirler.
+Biyoloji ve yer bilimleri.
+Mikrobiyolojiyi kuran üç kişiden ikisi Almanya doğumludur. Bunlar: Ferdinand Cohn ve Robert Koch'dur.
+Alexander von Humboldt'un doğal bir bilim adamı olarak yaptığı çalışmaları ve buluşları sayesinde biyocoğrafya bilimi kurulmuştur.
+Rusya doğumlu bir Alman olan Wladimir Köppen (1846-1940), botanik ve iklimbilim alanında uğraşmıştır. Köppen; iklim, flora ve toprak arasındaki ilişkiyi inceleyerek günümüzde de kullanılan bir iklim sınıflandırması yapmıştır.
+Alfred Wegener (1880-1930), interdisipliner bir bilim adamı olarak Kıta Kayması Kuramı'nı teorileştiren ilk insandır. Kuramı daha sonraları yapılan araştırmalarla bir jeolojik teori olan levha hareketleri'ne öncülük etmiştir.
+Psikoloji.
+Wilhelm Wundt psikoloji alanında tarihteki ilk laboratuvarı kurmuş. Laboratuvar 1879 yılında Leipzig Üniversitesi'nde kurulmuştur.
+İnsani bilimler.
+Alman araştırmacılar, diğer bilimlerde olduğu gibi insani bilimler alanına da önemli katkılarda bulunmuştur. Aynı zamanda yaşamış örneklerden bazıları; felsefeci Jürgen Habermas, Mısır bilimci Jan Assmann, sosyolog Niklas Luhmann, tarihçi Reinhart Koselleck ve yasal tarihçi Michael Stolleis'dir.
+Toplum ve Siyaset bilimleri.
+Karl Marks, Friedrich Engels ve Max Weber önemli sosyal bilimcilerdir.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Birleşmiş milletler bünyesinde tartışma ve karar organı olan yapının adı nedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(9172, {label: "Türkiyenin",nodeclass: "type-TK"});
+ g.addNode(9173, {label: "suriye",nodeclass: "type-TK"});
+ g.addNode(9174, {label: "ile",nodeclass: "type-TK"});
+ g.addNode(9175, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(9176, {label: "olan",nodeclass: "type-TK"});
+ g.addNode(9177, {label: "sınırının",nodeclass: "type-TK"});
+ g.addNode(9178, {label: "uzunluğu",nodeclass: "type-TK"});
+ g.addNode(9179, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(9180, {label: "kadar",nodeclass: "type-TK"});
+ g.addNode(9181, {label: "kadardır",nodeclass: "type-TK"});
+ g.addNode(9182, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,9172,9181,{label: "ÖZNE"});
+ g.addEdge(null,9173,9174,{label: "NESNE"});
+ g.addEdge(null,9174,9175,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9175,9176,{label: "TÜREME"});
+ g.addEdge(null,9176,9177,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9177,9178,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,9178,9181,{label: "ÖZNE"});
+ g.addEdge(null,9179,9180,{label: "NESNE"});
+ g.addEdge(null,9180,9181,{label: "TÜREME"});
+ g.addEdge(null,9181,9182,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

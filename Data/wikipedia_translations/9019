@@ -1,0 +1,112 @@
+Lorentz dönüşümü
+Fizikte, Lorentz dönüşümü (veya dönüşümleri) Hollandalı fizikçi Hendrik Lorentz almıştır. Bu ışık hızı referans çerçevenin bağımsız olması, ve elektromanyetik kanunları simetrilerini anlamak için gözlenmiştir nasıl açıklamak için Lorentz ve diğerleri tarafından girişimlerinin sonucudur. Lorentz dönüşümü özel görelilik uygun olmakla birlikte, özel görelilik önce elde edilmiştir.
+dönüşümler iki gözlemci tarafından uzay ve zaman ölçümleri ile ilgili nasıl açıklar. Farklı hızlarda hareket eden gözlemciler farklı mesafeler, geçen süreleri, ve olayların hatta farklı orderings ölçmek olabilir gerçeğini yansıtmaktadır. Onlar mutlak uzay ve zaman (Galile görecelik bakınız) varsayar Newton fiziğinin Galile dönüşümü yerine geçer. Galile dönüşüm sadece ışık hızından çok daha küçük görece hızlarda iyi bir yaklaşımdır.
+Lorentz dönüşümü bir lineer dönüşümdür. Bu alan bir rotasyon içerebilir; rotasyon-ücretsiz Lorentz dönüşümü bir Lorentz artırmak denir.
+Minkowski uzayında, Lorentz dönüşümleri herhangi iki olay arasında uzay aralığını korumak. Sadece orijinde uzay-zaman olayı sabit olarak bırakıldığı dönüşümleri tarif, bu yüzden Minkowski alan bir hiperbolik dönme olarak kabul edilebilir. Ayrıca çevirileri içeren dönüşümlerin daha genel kümesi Poincare grubu olarak bilinir.
+Tarihi.
+Woldemar Voigt, George FitzGerald Joseph Larmor ve Hendrik Lorentz kendisi de dahil olmak üzere pek çok fizikçi, 1887 yılından beri bu denklemler ima fizik tartışmaya olmuştu.
+Erken 1889 yılında, Oliver Heaviside ücretten küresel dağılımı çevreleyen elektrik alan şarj eter göre hareket halinde bir kez küresel simetriye sahip son vermelidirler Maxwell denklemlerinden göstermişti. FitzGerald sonra Heaviside en bozulma sonucu moleküller arası kuvvetler bir teoriye uygulanabilir olabileceğini conjectured. Birkaç ay sonra, FitzGerald hareket organları Michelson ve Morley 1887 eter-rüzgar deney şaşırtıcı sonucu açıklamak için, sözleşmeli edilmektedir varsayım yayınladı. 1892 yılında, Lorentz bağımsız sonradan FitzGerald-Lorentz daralma hipotezi olarak adlandırılan daha detaylı bir şekilde, aynı fikri sundu.
+Onların açıklama yaygın 1905 öncesinde biliniyordu.
+Işıklı eter hipotezi düşünülmektedir Lorentz (1892-1904) ve Larmor (1897-1900), aynı zamanda, bir hareket eden çerçeveye eterden dönüştürülmüş ne Maxwell denklemleri invaryant altında dönüşüm aramaktadır. Onlar FitzGerald-Lorentz daralma hipotezi genişletilmiş ve zaman koordinat da değiştirilmesi gerektiğini ("yerel saat") öğrendim. Henri Poincaré ışık hızı çerçeveleri hareketli sabit olduğu varsayımı altında, saat senkronizasyonu sonucu olarak (v / c ilk sırasına) yerel saate fiziksel yorumunu verdi. Larmor onun denklemler doğasında önemli zaman genişlemesi özelliğini anlamak için ilk olmuştur yatırılmaktadır.
+1905 yılında, Poincaré, dönüşüm matematiksel grubun özelliklerini sahip olduğunu tanıyan ilk oldu
+ve Lorentz sonra adını verdi.
+Daha sonra Albert Einstein şimdi görelilik ilkesi ve herhangi eylemsiz referans çerçevesi içinde ışık hızının sabitliği varsayımları altında Lorentz dönüşümü türetmek, özel görecelik ne denir yayınlanan aynı yıl içinde, mekanik aether terk ederek.
+Standart yapılandırmada çerçeveler için Lorentz dönüşümü.
+İki gözlemci "O" ve "O" 'düşünün, her biri kendi Kartezyen uzay ve zaman aralıklarını ölçmek için koordinat sistemi kullanılarak. "O" kullanır ("t", "x", "y", "z") ve "O" 'kullanımları ("t"', "z" '"y", "' x '). O, 3 boyutlu olarak "x" -Axis ve "x", böylece koordinat sistemleri odaklı olduğunu ileri varsayalım '- eksen collinear, "y" -Axis "y" paralel "- ekseni ve eksen - "z" "z" 'paralel -Axis. ortak "x" birlikte "v" -Axis iki gözlemci arasındaki nispi hızı; "O '" önlemler "O" hızla hareket - eş zamanlı xx "boyunca" v "' ise" O "önlemler" Ey '"," eksenlerine tesadüf xx "boyunca hız" v "hareket etmek" "eksenleri. Ayrıca koordinat sistemleri, hem kökeni, yani aynı tesadüf kez ve pozisyonları olduğunu varsayalım. Tüm bu tutarsanız, o zaman koordinat sistemleri, standart konfigürasyonda olduğu söyleniyor.
+Lorentz dönüşüm ters Koordinatlarını tersi ilgilidir; koordinatlara "O" dan "tedbirler (" t "'koordinatlar" O "tedbirler (" t "," x "ile" y ",", "z"' "y", "'x") z "), yani" t "," x "," y "," z t "'", "z"' ",", "x" y "anlamında olan". Matematiksel formu orijinal dönüşüm neredeyse aynıdır; Çünkü "O" 'hız "v" nispetle hareket "O", ve astar ve prime miktarlarda döviz ve eşdeğer - tek fark ("v" ile "v" den) muntazam göreli hızı yadsınması olan "v" akrabası "O" '- "O" hızında hareket eder. Bu simetri ters dönüşüm bulmak için zahmetsiz hale rağmen daha da önemlisi, (değişimi ve olumsuzlamayı yürüten ezberci cebir bir sürü kaydeder); tüm fiziksel yasalar Lorentz dönüşümü altında değişmeden kalması gerektiğini vurgulamaktadır.
+Aşağıda, Lorentz dönüşümleri belirtilen yönlerde "artırır" denir.
+"X", doğrultusu içinde artırın.
+Bu basit formlardır. Standart yapılandırmada çerçeveler için Lorentz dönüşümü (örneğin ve bakınız) olduğu gösterilebilir:
+burada:
+"β" ve "γ" kullanımı literatürde standarttır. Makalenin geri kalanında - onlar da aksi belirtilmedikçe boyunca kullanılacaktır. Yukarıdaki denklem doğrusal bir sistemi (daha teknik bir lineer dönüşüm) olduğundan, onlar matris formunda yazılabilir:
+Ters dönüşümleri çerçeve "F" '"F" çerçeveye yüzden görelilik ilkesine göre, referans imtiyazlı çerçeve yoktur, sadece "v" olumsuzlayarak verilmelidir:
+burada "γ" değeri değişmeden kalır. Bu denklemler de cebirsel değişkenleri "t", "x", "y", "z" standart denklemleri çözerek elde edilir.
+"Y" veya "z" yönde artırın.
+denklemlerin yukarıdaki koleksiyonu "x", doğrultusu bir artırmak için geçerlidir. Standart yapılandırma yerine "x" "y" veya "z" yönlerde eşit derecede iyi çalışır ve böylece sonuç benzerdir.
+"Y" doğrultusu için:
+tarafından özetlenen
+burada "v" ve benzeri "β" "y" doğrultusu şimdi.
+"Z" doğrultusu için:
+tarafından özetlenen
+"v" ve böylece "β" "z" doğrultusu şimdi nerede.
+Lorentz veya boost matrisi genellikle Λ (Yunanca sermaye lambda) ile gösterilir. Dönüşümler dört pozisyonlu X uygulanmıştır üzerinde,
+Lorentz kompakt tek bir matris denklemi olarak yazılabilir Yukarıdaki yönlere birinde artırmak için dönüşüm:
+Herhangi bir yönde artırın.
+Vektör biçimi.
+V hızıyla keyfi bir yönde bir destek için, o, "O" '"" O "gözlemler yön -v taşımak için O" iken, koordinat çerçevesi "F" yön v taşımak "O"' gözlemler edilir "F" 'koordinat çerçevede, bu dik bileşenlerine mekansal vektör r ayrıştırmak ve v paralel uygundur:
+Böylece
+• nokta ürünü ifade etmektedir (aynı zamanda daha fazla bilgi için diklik bakınız). Daha sonra, sadece zaman ve V istikametinde olan komponentin r‖;
+Lorentz faktörü ile "çarpık" şunlardır:
+paralel ve dik bileşenler R 'içine formula_16 ikame ile elimine edilebilir:
+R‖ v paralel beri var
+nerede geometrik ve cebirsel:
+r‖ için ikame edilerek ve faktoring h verir
+Bu yöntem, paralel ve dikey bileşenleri ortadan kaldırmak, paralel dikey bir şekilde yazılmış bir Lorentz dönüşüm uygulanabilir.
+Matris oluşturur.
+Bu denklemler blok matris formu olarak ifade edilebilir
+Ben 3 × 3 kimlik matrisi ve β = v / c nerede "sütununda vektörü" olarak ("c" birimleri cinsinden) göreceli hız vektörüdür - kartezyen ve tensör endeksi gösterimde öyle:
+βT = vT / c devrik - bir satır vektörü:
+ve "β" β büyüklüğüdür:
+Daha açıkça ifade etmiştir:
+dönüşüm Λ, daha önce olduğu gibi aynı formda yazılmış olabilir
+bu aşağıdaki yapıya sahiptir:
+yukarıda çıkarsanan bileşenleri şunlardır:
+Nerede δ "ij" Kronecker delta ve teamül: endekslerin Latin harfleri Yunan endeksleri zaman değerleri 0, 1, 2, 3 almak (4 vektörü mekansal bileşenleri için, değerler 1, 2, 3 almak ve uzay bileşenleri).
+Bu dönüşüm sadece "boost" olduğunu unutmayın, yani iki "x", "y" çerçeveler ve "z" ekseni arasında bir dönüşüm paralel olan ve uzay kökenleri denk. İki artırır bileşimi saf bir destek değil ama rotasyon ardından bir destek olduğu için en genel uygun Lorentz dönüşümü de, üç eksende bir rotasyon içerir. döndürme Thomas devinim yol açar. boost simetrik bir matris tarafından verilen, fakat genel Lorentz dönüşüm matrisi simetrik olması gerekmez.
+İki artırır Kompozisyonu.
+İki Lorentz bileşimi B (u) ve B (v) hızların u ve v ile verilir artırır:
+nerede
+İki Lorentz dönüşümleri, "L" dönüşleri (u, "U") ve "L" (v, "V") bileşimi "U" ve "V" ile elde edilir:
+Minkowski uzayında dönüşümleri görselleştirme.
+Lorentz dönüşümleri Minkowski ışık konisi uzay şemasında tasvir edilebilir.
+[[Dosya: Lorentz line.gif dünyanın dönüşümü | right | çerçeveli | hızla hızlanan gözlemci (ortada) dünya hattı boyunca bir an birlikte hareket eden atalet çerçeveler.
+yatay mesafeyi gösterir iken dikey yönde kesikli çizgi gözlemcinin uzay yörünge ("dünya çizgisi") 'dir, zamanı gösterir. küçük noktalar uzay belirli olaylardır. Biri ışığın yanıp olmak için bu olayları hayal, o zaman görüntünün alt yarısında iki çapraz çizgiler (kökenli gözlemci geçmiş ışık konisi) geçmesi olaylar gözlemci görünür olaylardır.
+Dünya hattı (dikey olmaktan sapma) eğimi gözlemciye göre hızı verir. Gözlemci hızlandırır zaman anlık birlikte hareket eden atalet çerçeve nasıl değiştirdiğini unutmayın.]]
+Sarı eksenler gözlemci geri kalanı çerçevesi, mavi eksenler hareketli gözlemci çerçevesinde karşılık
+Kırmızı çizgiler, dünya hatları, olaylar sürekli dizisi vardır: düz bir nesne hızlandırmak için kavisli sabit hızla seyahat bir nesne için. Işığın Worldlines ışık konisinin sınırını oluşturur.
+Mor hyperbolae bu hiperbolik dönme, (aşağıya bakınız) hız denir φ hiperbolik açı gösterir. Referans çerçeveleri arasındaki göreli hız daha fazla "çarpık" eksenleri olur. bağıl hız, "c" geçemez.
+siyah ok, iki olay arasında bir yer değiştirme, dört-vektör (ille aynı dünya hat üzerinde) olduğu, bir Lorentz boost gösteren; zaman genişlemesi (hareketli çerçeve içinde daha az zaman aralıkları) ve uzunluk kısalması (çerçeve hareketli kısa uzunlukları) meydana gelir. hareketli çerçeve içinde eksenleri (olsa bile onlar kadar görünmüyor) ortogonaldir.
+Hız.
+Lorentz dönüşümü bir parametre tanımlayarak başka yararlı forma dökülebilir "φ" böyle Çabukluğu (hiperbolik açı örneği) olarak adlandırılan
+ve bu şekilde
+Eşdeğer:
+Sonra standart konfigürasyonda Lorentz dönüşümü:
+Hiperbolik ifadeler.
+Yukarıdaki e "φ" için ifadeler ve e "-φ"
+ve bu nedenle,
+Koordinatların Hiperbolik dönme.
+Dönüşümün matris formunda içine bu ifadeleri ikame o açıktır
+Bu nedenle, Lorentz dönüşüm parametresi dönme hiperbolik açısıdır Minkowski alanı, koordinat bir hiperbolik dönme olarak görülebilir, genellikle bir hızla olarak anılacaktır. Yukarıda gösterildiği gibi bu dönüşüm, bazen bir Minkowski diyagramı ile gösterilmiştir.
+Bu 4-by-4 boost matrisi, böylece kompakt bir Matrix olarak üstel yazılabilir
+nerede basit Lie-cebirsel hiperbolik dönme jeneratör bir destek jeneratör denir.
+Diğer fiziki büyüklüklerin dönüşümü.
+dönüşüm matrisi, dört-vektörler için evrensel değil, sadece 4 boyutlu uzay koordinatları. Z Daha sonra herhangi bir dört-vektör ise:
+veya tensör endeksi gösterimde:
+hangi prime endeksleri prime çerçevede Z endeksleri ifade etmektedir.
+Daha genel olarak, herhangi bir tensör miktarı T transformasyonu ile elde edilir:
+formula_45 formula_46 ters matrisi kullanılarak
+Özel görelilik.
+Einstein'ın saati belirleme yönteminin önemli fikir "zaman görecelidir" fikridir. Özünde, referans her gözlemcinin kare saatler benzersiz bir dizi ile ilişkili bir konum için ölçülen bu zaman varlık sonuç farklı gözlemciler için farklı hızlarda geçer. Bu Lorentz dönüşümleri doğrudan bir sonucu olduğunu ve zaman genişlemesi denir. Biz de açıkça eşzamanlılık ve uzunluğu kasılması görelilik izafiyet kavramı da o saat ayarı hipotezinin sonuçları olduklarını Lorentz "yerel saatle" dönüşüm görebilirsiniz.
+Elektromanyetik alanın dönüşümü.
+Elektromanyetik kuvvet, elektrik ücretleri ve gözlemciler arasındaki bağıl hareket bir sonucu olarak, - Lorentz dönüşümleri de manyetik ve elektrik alanların aynı kuvvet farklı yönleri sadece olduğunu kanıtlamak için de kullanılabilir. elektromanyetik alan relativistik etkiler gösterir gerçeği basit bir düşünce deneyi yaparak açık hale gelir:
+Bu vektör şeklinde aşağıda verilen referans çerçevesini, değiştirirken Lorentz dönüşümü de elektromanyetik alan miktarlar için geçerli olduğunu göstermektedir.
+karşılıklılık prensibi.
+Işık hızından çok daha az bağıl hızları için, Lorentz dönüşümleri yazışmalar ilkesi doğrultusunda Galile dönüşüm azaltır.
+yazışma sınırı genellikle matematiksel olarak ifade edilmektedir: "v" → 0, "c" → ∞ olarak. Yani: hız 0 yaklaşırken, ışık hızı yaklaşımı sonsuz (görünüyor). Bu nedenle, bazen relativistik olmayan fizik "uzaktan anlık eylem" bir fizik olduğu söyleniyor.
+Spacetime aralığı.
+Bir koordinat verilen sistemde μ, iki olay, "A" ve "B" ile ayrılmış "x"
+Aralarındaki uzay aralık verilir
+Bu Minkowski metriği kullanarak başka biçimde yazılabilir. Bu sistemde,
+Sonra, biz yazabiliriz
+ya Einstein toplamı kuralını kullanarak,
+Şimdi bir koordinat dönüşümü μ → "x" 'μ "x" yapmak olduğunu varsayalım. Daha sonra, bu koordinat sisteminde aralığı ile verilir
+veya
+Bu aralık, bir değişmez olduğu özel görelilik bir sonucudur. Yani "s", 2 = "s" 'Bunun için 2. formun olması koordinat dönüşümü için gerekli (ama yeterli değil) o gösterilebilir, tutmak
+Burada, "C" μ biz gerektirir sürekli vektör ve Λμν sabit matris ise
+Böyle bir dönüşüm "Poincaré dönüşüm" veya bir "homojen olmayan Lorentz dönüşümü" denir. "Ca" Bir uzay çeviri temsil eder. = 0 "Ca", dönüşüm, bir "homojen Lorentz dönüşümü", ya da sadece bir "Lorentz dönüşümü" denir.
+Determinantını alarak
+bize verir
+durumlar şunlardır:
+Λ yukarıda tanımı kaynaktan bu (Λ00) 2 ≥ 1 gösterilmektedir, bu nedenle halinde olabilir, sırasıyla orthochronous olmayan orthochronous adı Λ00 ≥ 1 veya ≤ -1 Λ00. Uygun Lorentz dönüşümleri önemli bir alt grubu artırır ve rotasyonların tamamen oluşur doğru orthochronous Lorentz dönüşümleri vardır. Herhangi bir Lorentz bir ya da iki farklı dönüşümlerin her ikisi ile birlikte, uygun bir orthochronous şekilde yazılabilir dönüşümü; kimin sıfır olmayan unsurlardır uzay inversiyon "P" ve zaman ters "T":
+Poincaré set Sağlama, bir grubun özelliklerini dönüşümler ve Poincaré grubu denir. Erlangen programı kapsamında, Minkowski uzayı çevirileri Lorentz dönüşümleri birleştiren Poincaré grubu tarafından tanımlanan geometri olarak görülebilir. Benzer şekilde, tüm Lorentz dönüşümleri kümesi Lorentz grubu adlı bir grup oluşturur.
+Lorentz dönüşümleri altında değişmeyen bir miktar Lorentz skaler olarak bilinir.

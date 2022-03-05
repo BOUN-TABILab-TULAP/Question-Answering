@@ -1,0 +1,85 @@
+Eğrilerin Diferansiyel Geometrisi
+Eğrilerin Diferansiyel Geometrisi fırsatları geometrinin dalıdır
+düzlemde ve diferansiyel ve integral hesabın yöntemlerle Öklid uzayında düzgün kıvrımlara sahip.
+Antik başlayarak, birçok somut eğrileri iyice sentetik yaklaşım kullanılarak incelenmiştir. Eğrileri bir Oluşturucu formunda temsil edilmektedir, ve bunların geometrik özellikleri ve eğrilik ve yay uzunluğu olarak onlarla ilgili çeşitli miktarlarda, vektör analizi kullanılarak türev ve integral yoluyla ifade edilir: diferansiyel geometri başka bir yol alır. Bir eğri analiz etmek için kullanılan en önemli araçlardan biri Frenet çerçeve, bu noktaya yakın eğriye "en iyi uyarlanmış" dir eğrinin her noktasında bir koordinat sistemi sağlayan hareketli bir çerçevedir.
+eğriler teorisi Öklid uzayında düzenli bir eğri hiçbir içsel geometrisi, çünkü yüzey ve daha yüksek boyutlu genellemeler teorisi daha kapsamında daha basit ve dardır. Herhangi bir düzenli eğri yay uzunluğu ("doğal parametrizasyonları") tarafından parametrik edilebilir ve ortam alanı hakkında hiçbir şey bilmiyor eğri üzerinde bir hata bakış açısından, tüm eğriler aynı görünür. Farklı uzay eğrileri sadece viraj ve büküm şekline göre ayırt edilir. Kantitatif olarak, bu "kavis" ve eğrinin "bükülme" olarak adlandırılan farklı geometrik değişmezler ile ölçülür. Eğrilerin temel teoremi bu değişmezler bilgisi tamamen eğrisini belirler iddia.
+Tanımlar.
+"N" bir doğal sayı, "r" bir doğal sayı veya ∞, "Ben" "ben" in boş olmayan bir reel sayılar aralığı ve "t" olarak olalım. Bir vektör değerli işlev
+sınıf "C" "r" (r, yani γ olduğu "eğri γ C" "r" parametreleriyle "sürekli türevlenebilir kez) sınıfı Cr ya bir parametrik eğri denir". "T" eğri γ parametresi denir. γ ("I") eğrinin görüntüsü denir. Belirli bir görüntü birkaç farklı "C" "r" eğrileri ile tarif edilebilir çünkü eğri γ ve eğri γ ("I") suretinde ayırt etmek önemlidir.
+Bir zaman ve uzayda hareket eden bir parçacığın yörüngesi olarak eğri γ ("t") temsil ettiği parametresi "t" düşünebilir.
+"Ben" kapalı bir aralık ["a", "b"] ise, biz ("B") eğrisi γ son noktası ("a") başlangıç ​​noktası ve γ γ diyoruz.
+Eğer γ ("a") = γ ("B"), biz γ kapalı veya bir döngü olduğunu söylüyorlar. Ayrıca, kapalı bir Cr-eğri γ ararsanız γ tüm "k" için ("k") (a) = γ ("k") ("B") ≤ "r".
+Γ :( R → "a", "b" gibi) "n" injective ise, biz eğri basit diyoruz.
+Γ yerel bir güç serisi olarak tarif edilebilir bir parametrik eğri ise, biz eğri analitik veya sınıf formula_2 bir çağrı.
+Biz -γ eğri ters yönde geçileceğini söylemek için yazıyorum.
+Bir "C" "k" -curve
+emir m Düzenli denir aralığı "I" herhangi bir "t" ise
+R ", n" doğrusal bağımsızdır.
+Özellikle, bir "C" 1-eğrisi "γ" eğer düzenli
+Yeniden parametreleme ve denklik bağıntısı.
+Eğrinin çeşitli parametrizasyonlara tanımlayabilirsiniz bir eğri birinin imajını göz önüne alındığında. Diferansiyel geometri belli reparametrizations altında değişmeyen eğrilerin özelliklerini tanımlamak amaçlamaktadır. Bu yüzden hepimiz parametrik eğriler setinde uygun denklik ilişkisi tanımlamak zorunda. Bir eğrinin (uzunluk, Frenet çerçeve ve genelleştirilmiş eğrilik) diferansiyel geometrik özellikleri Cr eğrileri denir sınıfları denklik class.the denklik özellikleri yeniden parametreleme altında ve bu nedenle değişmez ve eğrilerin diferansiyel geometride okudu merkezi nesnelerdir.
+R "" C "sınıfı iki parametrik eğriler"
+ve
+Bir bijective "C" "r" harita var varsa eşdeğer olduğu söyleniyor
+öyle ki
+ve
+γ2 γ1 bir reparametrisation olduğu söylenir. Γ1 Bu reparametrisation tüm parametrik "C" "r" eğrileri sette denklik ilişkisini tanımlar. denklik sınıfı Cr eğrisi denir.
+Biz 'φ olmak ("t") φ gerektiren odaklı Cr eğrilerinin bir hatta "ince" Denklik ilişkisi tanımlayabilirsiniz> 0.
+Eşdeğer "C" "r" eğrileri aynı görüntü var. Ve eşdeğer odaklı "C" "r" eğrileri bile aynı yönde görüntüyü hareket.
+Uzunluk ve doğal parametrizasyonları.
+uzunluğu eğrinin "l" "γ": ["a", "b"] R → "n" sınıf "C" 1 olarak tanımlanabilir
+Bir eğrinin uzunluğu yeniden parametreleme ve eğrinin nedenle diferansiyel geometrik özelliği altında değişmez.
+":" R → ["a", "b]" n "bir işlev tanımlayabilirsiniz γ her normal" C "" r "-curve (" "1 azından r)" için
+Yazı
+"t" ("s") "s" ("t") ters olduğu, bir yeniden parametreleme doğal, yay uzunluğu veya birim hızı parametrization denir γ ve formula_15 olsun. parametresi "S" ("T") γ doğal parametre olarak adlandırılır.
+Doğal parametresi "s" ("t"), böylece birim hızında γ görüntü erişir, çünkü bu parametrization tercih edilir
+Uygulamada, bir eğri doğal parametrizasyonunu hesaplamak için genellikle çok zordur, ancak kuramsal bağımsız değişkenler için yararlıdır.
+Belirli bir Oluşturucu eğri γ ("t") doğal parametrizasyonları parametresinin kaydırmaya kadar benzersizdir.
+miktar
+Bazen enerji veya eğri eylemi denir; jeodezik denklemleri bu eylem için hareket Euler-Lagrange denklemleri, çünkü bu isim haklı.
+Frenet çerçeve.
+Bir Frenet çerçeve "n" ortonormal vektörler "e" bir hareket referans çerçevesi "i" ("t") her nokta γ yerel olarak bir eğri tanımlamak için kullanıldığı ("t"). O Öklid koordinatlarla gibi küresel birini kullanarak daha yerel bir referans sistemi açısından çok daha kolay ve (örneğin, eğrilik, burulma) yerel özelliklerini tanımlamak için daha doğal olduğu gibi eğrilerin diferansiyel geometrik tedavisinde temel araçtır.
+"C", "n" düzen düzenli "" + 1-eğri R γ "n Verilen n" eğrisi için Frenet çerçeve ortonormal vektörler kümesidir
+adı frenet vektörleri. Onlar, Gram-Schmidt dikleştirme algoritma ile kullanarak ("t") γ türevleri inşa edilir
+Gerçek değerli fonksiyonlar "i" ("t") Genelleştirilmiş eğrilikler denir χ ve olarak tanımlanır
+Frenet çerçeve ve genelleştirilmiş eğrilikler yeniden parametreleme altında değişmeyen ve bu nedenle eğrinin geometrik özelliklerini diferansiyel vardır.
+Özel Frenet vektörleri ve genelleştirilmiş eğrilikleri.
+İlk üç Frenet vektörleri ve genelleştirilmiş eğrilikler üç boyutlu uzayda görülebilir. Onlar ek adları ve onlara bağlı daha anlamsal bilgi var.
+Teğet Vektör.
+Eğri γ daha sonra bir parçacık bir vektör ile ifade edilir, belirli bir nokta "P" olarak, parçacığın anlık hız yolunu temsil ediyorsa, "P" bükülme teğet vektör olarak adlandırılır. Matematiksel olarak, her değer "t" = "t" parametresinin 0, vektör için parametrize "C" 1 eğri γ = γ ("t") verilen
+noktası "P" de teğet vektörü = γ ise ("t" 0). Genel olarak, teğet vektörü sıfır olabilir. teğet vektörünün büyüklüğü,
+Hız zamanı "t" de ise 0.
+İlk Frenet vektör "e" 1 ("T") γ her olağan noktada tanımlanan aynı yönde birim teğet vektördür:
+"T" = "s" doğal parametre ise formül kolaylaştırır böylece daha sonra teğet vektör, birim uzunluğu:
+birim teğet vektörü parametresinin artan değerlerine karşılık gelen eğri ya da ileri yönde yönünü belirler. bir eğri olarak alınan birim teğet vektör orijinal eğrinin küresel imajını izler.
+Normal veya eğrilik vektör.
+Bazen eğrilik vektör denilen, normal vektör, düz bir çizgi olmaktan eğrinin sapma gösterir.
+Bu gibi tanımlanmıştır
+Onun normalize formu, birim, normal vektör, ikinci Frenet vektör "e" 2 ("t") olarak tanımlanan bir
+Tanjant ve nokta "t" normal vektör noktası "t" de oscülatör düzlemini tanımlar.
+Eğrilik.
+İlk genelleştirilmiş eğrilik χ1 ("t") eğrilik olarak adlandırılan ve öskülatör düzlemine düz bir çizgi akraba olmaktan γ ve sapma ölçer. Bu gibi tanımlanmıştır
+ve nokta "t" de γ eğrilik denir.
+eğrilik karşılıklı
+eğrilik yarıçapı olarak adlandırılır.
+Yarıçapı "r" ile bir daire sabit eğrilik var
+bir satır ise 0 bir kavise sahiptir.
+Binormal vektör.
+Birim binormal vektör üçüncü Frenet vektör "e" 3 ("t") 'dir.
+Her zaman "t" birim teğet ve normal vektörlerin ortogonal ve gibi tanımlanmıştır
+3-boyutlu uzayda denklemi için kolaylaştırır
+ya da
+Bu da işareti sağ elini kullanan sarmal örnekleri ve sol uzattı heliks gösterilmiştir oluşabilir.
+Burulma.
+İkinci jeneralize eğrilik χ2 ("t") torsiyon denilen ve bir uçak eğri olmaktan γ ve sapma ölçer. Torsiyon sıfır ise ya da, başka bir deyişle, eğri (her noktada "t" için tek öskülatör düzlemi vardır), aynı öskülatör düzleminde tamamen yer almaktadır. Bu gibi tanımlanmıştır
+ve nokta "t" de γ burulma denir.
+Eğri teorisinin ana teoremi.
+Verilen "(n-1)" fonksiyonları:
+formula_36
+formula_37, daha sonra eşsiz söz konusudur "düzenin düzenli + 1-eğri γ" n "ve aşağıdaki özelliklere sahiptir" C "" n (Öklid grubunu kullanarak dönüşümlere kadar)
+nerede seti
+eğri için Frenet çerçevedir.
+Ayrıca bir başlangıç ​​sağlayarak "t" 0 R "I", bir başlangıç ​​noktası, "p" 0 "n" ve ilk olumlu ortonormal Frenet çerçeve {"e" 1, ..., "e", "n" in - 1} ile
+Biz Öklid dönüşümler ortadan kaldırmak ve eşsiz eğri γ alabilirsiniz.
+Frenet-Serret formülleri.
+Frenet-Serret formülleri birinci dereceden adi diferansiyel denklemlerin bir dizi vardır. Çözelti genelleştirilmiş eğrilik fonksiyonları tarafından belirtilen eğriyi tanımlayan Frenet vektörleri kümesi "i" χ ise

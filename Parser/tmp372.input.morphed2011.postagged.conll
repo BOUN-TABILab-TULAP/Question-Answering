@@ -1,0 +1,17 @@
+1	Parlak	parlak	Adj	Adj	_	_	_	_	_
+2	sert	sert	Adj	Adj	_	_	_	_	_
+3	ve	ve	Conj	Conj	_	_	_	_	_
+4	dayanıklı	dayanıklı	Adj	Adj	_	_	_	_	_
+5	_	ol	Verb	Verb	Pos	_	_	_	_
+6	olup	_	Adv	Adv	AfterDoingSo	_	_	_	_
+7	dişin	diş	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+8	taç	taç	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	kısmını	kısım	Noun	Noun	A3sg|P3sg|Acc	_	_	_	_
+10	_	ört	Verb	Verb	Pos	_	_	_	_
+11	örten	_	Adj	APresPart	_	_	_	_	_
+12	tabakaya	tabaka	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+13	ne	ne	Adj	Adj	_	_	_	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+15	_	ver	Verb	Verb	_	_	_	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

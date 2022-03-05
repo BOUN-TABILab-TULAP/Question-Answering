@@ -1,0 +1,26 @@
+Sécurité
+(; Fransızca: "sécurité") deniz radyo iletim ifade "Sécurité, Sécurité, sécurité" ile başladığında, ne şu önemli güvenlik bilgileri olduğu anlamına gelir. Bunun en yaygın kullanımı seyir uyarıları ve meteorolojik bilgilerin yayın öncesi sahil radyo istasyonları gereğidir.
+Seyir uyarılar düzenli yayınlanan ve genellikle denizde insanlar ve nasıl navigasyon hemen bir tehlike olabilir kişi veya tehlikedeki gemilerin ve nesneler veya olaylar hakkında bilgi verirler.
+MARAD veya Marine İdaresi potansiyel küresel siyasi iklim tehlikeleri hakkında seyrek uyarılarının gönderir.
+Onların yere göre kategorize edilir seyir uyarıları dört türü vardır. Bu alanlar NAVAREA IV, HYDROLANT, NAVAREA XII ve HYDROPAC bulunmaktadır.
+Meteoroloji bilgiler deniz atmosferi hakkında bilgi. Bu meteorolojik önerileri yağmur kasırga, büyük gelgit damla, büyük cari vardiya, Şimşekli fırtınalar, kasırga ve tsunami uyarıları, yüksek rüzgarlar, kasırgalar ve gibi değil sınırlı için hava sistemlerinin geliştirilmesi yer alıyor.
+Bu Sécurité gibi VHF Kanal 16 veya MF 2182 kHz olarak sıkıntı ve dinleme sıklığı kendisini aramak yayın ve ardından mesajların vücut için çalışan bir kanala frekansını değiştirmek için normal bir uygulamadır. Eşdeğer bir Mors Kodu sinyal belirgin gönderilen her harf ile, TTT olduğunu.
+Çoğunlukla sahil radyo istasyonları tarafından kullanılmasına rağmen, orada uygun, örneğin, becalmed bir yat (rüzgar olmaması için hareketsiz hale) kendi Sécurité mesajlarını yayın bireysel zanaat durdurmak için hiçbir şey, ya da herhangi bir gemi başıboş ya da diğer tekne yakın manevra yapamaz veya nakliye yolları.
+İmdat, pan-pan, securite.
+Üç tehlike ve aciliyet aramaların, Sécurité en acil.
+Securite: Genellikle seyir uyarıları, meteoroloji uyarıları ve denizde can güvenliği ilgili olabilir, ancak özellikle yaşamı tehdit olmayabilir çıkarılacak gerek herhangi bir başka uyarı verir bir radyo çağrı.
+Pan Pan: Bu en önemli ikinci çağrıdır. Bir gemide acil bir durum var, henüz acil yaşam tehlikesi veya geminin kendisi güvenliği olmadığı zaman bu çağrı yapılır. Bu içerir, ancak güvertede yaralanmalar, yakın henüz gerçekleşmemiş çarpışma veya geminin pozisyonu emin olmak sınırlı değildir.
+Mayday: Bu, doğrudan hayat ya da geminin tehdit olması, yapılabilir en önemli çağrıdır. Bu çağrı vardır yapılmış, ancak olurdu bazı durumlarda denizde ölüm, çarpışma ve yangın ile sınırlıdır. Mayday çağrısı yapıldığında, gemi acil yardım gerektiren bir.
+Örnek kullanım.
+Aramalar listesinde üçüncü, Emniyet veya Securite çağrı sıkıntı ve aciliyet yanı sıra tüm iletişim önceliklidir. DSC güvenlik uyarı sesiyle kabul, ancak sadece dinledi ve not edilmemelidir. İlk, DSC güvenlik uyarı uygun kanal veya frekans üzerinde gönderilmesi gerekir aşağıdaki gibidir: Bir güvenlik uyarısı göndermek için uygun görgü kuralları. Bu Ch üzerinde yapılmalıdır. 16 veya 2182 yerine çalışma kanal veya frekans kullanarak. Gerekirse İkinci olarak, hedef grubu, seçilmelidir. Bu, tüm gemiler, belirli bir coğrafi alanda, ya da tek bir geminin gemi olabilir. Son olarak, çağrı yapılmalıdır. GMDSS protokol emniyet çağrısı seçilen gemilerin dikkatini çekmek için konuşulan gerektirmektedir. Görüşme için prosedür:
+SECURITE 3 x
+TÜM İSTASYONLAR x 3
+BU (Gemi / İstasyon Kimliği) x 3 IS
+Bir ara vermeden, emniyet mesajı devam:
+SECURITE
+ADI, çağrı işareti, MMSI
+POZİSYON
+EMNİYET MESAJI KONUSU
+ÖNERİ / DİĞER BİLGİLER
+"OUT"
+Bilgi referans (GMDSS Bir Kullanıcı El Kitabı, 2. Baskı., Denise Brehaut)

@@ -1,0 +1,42 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Toprak	toprak	+Noun+A3sg+Pnon+Nom
+Toprak	Toprak	+Noun+Prop+A3sg+Pnon+Nom
+
+evlerin	ev	+Noun+A3pl+Pnon+Gen
+evlerin	ev	+Noun+A3pl+P2sg+Nom
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+yaygın	yaygı+Noun+A3sg+P2sg+Nom
+yaygın	yaygın+Adj
+
+tipi	tip	+Noun+A3sg+P3sg+Nom
+tipi	tip	+Noun+A3sg+Pnon+Acc
+tipi	tipi	+Noun+A3sg+Pnon+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

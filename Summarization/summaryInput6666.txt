@@ -1,0 +1,181 @@
+Question: Belirli bir bitkiden aynı kalıtsal yapıda ikinci bir bitki elde etmek için nasıl bir yol izlenebilir?
+Answer: how could we possibly know the answer at this step
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Giberellin</DOCTITLE>
+<TEXT>
+
+İkinci grup bitki hormonudur. 1950’li yıllarda karakterize edilen giberellinler 80’den fazla bileşin bulunduğu bir gruptur. Giberellinlerin esas etkisi, bitkilerin boyuna büyümesini sağlamaktır. Böylece uzun bir bitki gövdesi aktif giberellinleri, cüce bir bitki gövdesinden daha fazla ihtiva eder. Giberellinlerin sentezi ve kontrolü genetik kontrol altındadır.
+Giberellinler izopren birimlerinden yapılmıştır. Giberellinler 4 izoprenoid biriminden türevlenen 20 karbonlu terpenoidlerir. GA -aldehit bütün bitkilerde ilk oluşan giberellinlerdir ve bütün giberellinlerin öncü maddesidir. GA ’nin hidroksilasyon ve oksidasyonu sonucunda diğer giberellinler oluşur. 
+İlk olarak giberellinler "Gibberella fujikuroi" ’ de bir metabolit olarak keşfedilmiştir. Bu mantarın pirinç fidelerinde aşırı gövde ve yaprak uzamasına sebep olduğu belirlenmiştir. 1930’larda Japon bilim insanları "Gibberella fujikuroi" fungusundan büyümeyi uyaran bir bileşiği kristal olarak elde etmeyi başardılar ve giberellin A olarak adlandırdılar. 
+1950’lerde Amerika ve İngiltere’de mantarlardan saflaştırılan maddeye giberillik asit adı verildi. 1958’de Mac Millan ve arkadaşları yüksek bitkilerde giberellin keşfettiler. Olgun olmayan tohumlardaki giberellin konsantrasyonu vejetatif dokulardakinden çok fazla olduğundan bu çalışmada tohumlar kullanıldı.
+Oksin giberellin biyosentezini teşvik eder.
+her ne kadar hormonların etkileri tek tek etkili oluyormuş gibi tartışılsa da bitkilerde büyüme ve gelişme pek çok sinyalin birlikteliğinin bir sonucudur. Ayrıca hormonlar bir diğerinin biyosentezini etkileyebilir. Dolayısıyla bir hormonun oluşturduğu etkilere diğeri aracılık edebilir.
+Oksinlerin etilen biyosentezini teşvik ettiği uzun zamandan beri bilinmektedir.Günümüzde giberellinin oksin biyosentezini , oksinin de giberellin biyosentezini teşvik ettiği iyi bilinmektedir.
+Giberellinlerin tayini ve biyoassayler.
+Giberellinlerin saflaştırılmasında kâğıt veya ince tabaka kromatografisi, son zamanlarda yüksek performanslı sıvı kromatografisi (HPLC) kullanılmaktadır. İmmunoassay, giberellin kullanımı için sınırlıdır.
+Biyoassayler.
+Giberellinler için çok sayıda bioassay mevcuttur fakat üç tanesinin genel kullanım amacı fazladır. Bu bioassayler, inhibitör bileşiklere çok duyarlıdır. Bu nedenle bitki ekstratından bir dereceye kadar saflaştırılmaları oldukça önemlidir.
+Marul hipokotil uzama bioassayı.
+Marul fidelerinin parlak bir ışık altında filtre kağıdı üzerinde çimlendirilmesi ile çok kısa hipokotil (5mm) elde edilir. Bu hipokotiller filtre kağıdı üzerinde giberellinlerle muamele edilirse 30mm kadar uzaya bilirler. Bu metodun dezavantajları fidelerin tam olarak saflaştırılmamış ekstratlardaki inhibitörlere çok duyarlı olmalarıdır. Fideler inhibitörler tarafından öldürülebilir.
+Cüce pirinç / mikrodamla bioassayi.
+Cüce pirinç fideleri ışıkta, küçük agar kutularında çimlendirilerek elde edilir ve test edilecek çözeltiden damlalar her bir fidenin ikinci çıkan yaprağının ucu üzerine konulur. Bu işlemden sonra yaprak kınının uzaması ölçülür.
+Çimlenen hububat tanelerinde alfa-amilaz üretimi.
+Hububat tanelerindeki giberellin mevcudiyeti, nişastayı parçalayan enzim olan alfa-amilazın üretimini uyarır. Sulandırılmış hububat taneleri yarısından enine kesilir ve embriyosuz yarım, giberellin ihtiva eden çözelti ile inkübe edilir. Üretilen alfa-amilazın yıktığı şekerler kolorimetrik olarak belirlenir.
+Giberellinlerin fizyolojik etkileri.
+Giberellinler, birçok otsu çok yıllık bitkilerin ve tanesiz hububatların uzayan gövdelerindeki genişleme ve hücre bölünmesi olaylarının başlatılmasında, meyve büyümesi ve tohum çimlenmesinin uyarılmasında, tohum dormansisinin kırılmasında, çiçeklenme için uygun şartların oluşumunda ve ilkbaharda ılıman bölge odunsu bitkilerinde dormansi kırılmasında görev alırlar.
+Cüce bitkilerin gövde uzaması.
+GA tek gen cüce mutantların (cüce mısır) ve rozet şeklindeki (lahana, marul) bitkilerin gövde uzamasını uyarırlar. Bu etkiye paralel olarak gövde kalınlığında azalma, yaprak boyutunda küçülme ve yapraklarda açık yeşil renge doğru azalmalar meydana gelir. Diğer taraftan gövde uzamasını sağlayan GA miktarıyla gövde uzaması arasında her zaman doğru bir orantı yoktur. 
+Uzun gün bitkilerinde gövde uzaması.
+Bazı bitkiler rozet formunda kalır, uzun günlerde ise gövde büyür, uzar ve sadece bu peryotta çiçek açar kısa gün koşullarında bırakılan bitkilere giberellin uygulanması, gövdenin uzamasını sağlar. Bu sonuçlar tabii olarak gövde uzamasının giberellinler tarafından uyarıldığını gösterir. 
+Meyve oluşumu ve büyüme.
+Giberellinlerin dıştan uygulanması, oksinlerin etkisiz olduğu bazı durumlarda meyve oluşumunu uyarırlar. Büyüme uyarılmasının en güzel örneği üzümlerdedir. GA, partenokarpiye neden olur. Bu işlem bitki çiçeğine GA çözeltisi püskürtülerek sağlanır. Partenokarpi, döllenme olmadan meyve oluşumudur. Meydana gelen meyve normal görünüşlü fakat meyve tohumsuzdur. Oksinler de partenokarp meyve oluşumunu uyarır fakat GA’lar daha aktiftir.
+Çiçeklenmenin uyarılması.
+GA, bitkilerin büyük bir kısmında çiçeklenmeyi uyarır. Bu işi yapan tek kimyasal olarak giberellik asitler bilinir. Çiçeklenme için gerekli GA miktarı türlere göre değişmekle birlikte ortalama 3-100 mg arasında değişir. Hormon uygulanması bir kez değil belli aralıklarla tekrarlanmalıdır. 
+Vernalizasyonla ilişkisi.
+Dıştan uygulanan GA iki yıllık bitkilerde vernalizasyonun (bitkinin soğuk şoku etkisiyle çiçeklenmenin uyarılması olayı) yerini tutar. GA uygulanması, soğuğa maruz kalmadan çiçeklenmeyi sağlar.
+Tohum çimlenmesinin uyarılması.
+Bazı tohumlar özellikle yabani bitkilerin tohumları çimlenmek için ışık ya da soğuğa ihtiyaç duyar. Böyle tohumlarda, ışık ya da soğuk muamelesi olmaksızın giberellin uygulaması dormansi kırılabilir. Daimi olmamakla beraber tohumların üşümesine cevap olarak giberellin seviyesinde sık sık değişiklik olur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Synsepalum dulcificum</DOCTITLE>
+<TEXT>
+
+Synsepalum dulcificum, Sapotaceae familyasından bitki türü.
+İngilizcede "Miracle Berry" veya "Miracle Fruit" ("Mucize Meyve") olarak da adlandırılır. Avrupalı kaşif Chevalier des Marchais tarafından 18.yy'da keşfedilmiş bir bitkidir. 1725 yılında Batı Afrika gezisinde bu kaşif yerlilerin bu bitkinin meyvelerini topladıklarını fark etmiş ve bu bitkinin meyvelerini yedikten sonra, geçici bir süreliğine acı veya ekşi olarak yediği her şeyin, tad alma duyusunca tatlı olarak algılandığını fark etmiştir.
+Sıcak iklim bitkisi olarak Benin, Kamerun, Orta Afrika Cumhuriyeti, Gabon, Gana, Nijerya, Zaire gibi sıcak ve nemli ülkelerde ve organik yönden verimli,4,8-5,8 ph değerlerine sahip asidik nitelikteki topraklarda yetişir. Bitki en fazla -2dereceye kadar soğuğa dayanabilmekle yetişmesi için yüksek neme ihtiyaç bulunmaktadır. Yılda 2 defa yağmur sezonu sonunda meyve veren bu bitki yıl boyu yeşil kalır.Tohumdan çoğaltılabilen bitkinin çimlenmeden itibaren meyve vermesi 2-3 seneyi bulabilir. Yağ oranı sıfıra yakın olan bitkinin meyveleri, kırmızı renkte olup,çekirdek harici etli kısımları yenir. Tatsız olan meyve yendikten sonra yapılan bilimsel incelemelerde meyvede bulunan ve miraculin denilen bir çeşit glikoprotein, dilin üzerini bir saat kadar kaplayarak, dilin ekşi ve acımsı tatları almasını önlemektedir. Bu durumda bu meyve yendikten sonra yenen diğer şeylerin tatlı olarak algılanmasına neden olmaktadır.
+Kullanılışı.
+Bitkiden diabet tedavisinde çeşitli ülkelerde yararlanılmaktadır. 
+1970li yıllarda ABD'de bu bitkinin gıda endüstrisinde kullanılma girişiminde bulunulmuş ancak FDA tarafından bu girişim engellenmiştir. Bazılarınca bu bitki ile FDA tarafından üretim yapılmasının engellenmesinin aynen stevia bitkisinde olduğu gibi şeker lobisinin haksız girişiminden kaynaklandığını savunulmaktadır.
+Bitki,ABD'de bu sebeple 1970 lerden sonra evlerde yetiştirilip, yalnızca partilerde özel sürpriz olarak kullanılır hale gelmiştir.Bununla birlikte uzak doğuda bitki ekstresinden tablet v.s ürünler imal edilip piyasaya sürülmüştür,ve bazı ülkelerde de şeker hastalığı tedavisinde kullanılmaktadır. 
+Bununla birlikte meyve kemoterapi gören kanser hastaları için faydalı olabileceği düşünülerek kullanılmaktadır.Zira, kemoterapi hastanın kendi ağız lezzetini bozar, onlar için yiyecek tadı acı veya metalik bir tad olarak hissedilir.Sonuçta,hasta yemek yiyemez ve kilo kaybı oluşur gene bazı anti-HIV ilaçlarıda bu etkiyi gösterebilir.Sonuçlar kişiden kişiye farklılık gösterse de ABD'de bazı hastanelerde bu yan etkiyi önlemek için bu bitki kullanılmaktadır .Amerikada yapılan araştırmalarda bu bitkinin denendiği hastaların % 70-75 'inde olumlu sonuç alınmıştır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yarı-Kurak Bölgeler İçin Uluslararası Bitki Araştırma Enstitüsü</DOCTITLE>
+<TEXT>
+
+Yarı-Kurak Bölgeler İçin Uluslararası Bitki Araştırma Enstitüsü, İngilizcesi International Crops Research Institute for the Semi-Arid-Tropics (ICRISAT ya da I.C.R.I.S.A.T.) olan Hindistan Haydarabat’ta görev yapan ve kar amacı gütmeyen kuruluştur.
+Çalışmalarını darı, yerfıstığı, nohut ve bezelye genetik kaynakları üzerinde yoğunlaştırmıştır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kök boya</DOCTITLE>
+<TEXT>
+
+Özellikle, kilimleri boyamak için dağlardaki bitki köklerinden elde edilen boyalardır. En çok kullanılan çeşitleri;
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Evrim düşüncesinin tarihi</DOCTITLE>
+<TEXT>
+
+Evrim düşüncesi; türlerin zaman içerisinde değişmelerini ifade eden kavram olarak köklerini eski çağlardan; Yunanistan'dan, Roma'dan, Çin'den ve ortaçağ İslâm biliminden alır. 17. yüzyıl sonlarında biyolojik taksonominin başlangıcıyla Avrupa'daki biyolojik düşünce; doğal teolojiye tam olarak uyan ve ortaçağ Aristo metafiziği kavramı olan, her türün kendi karakteristiği olduğunu öne süren özcülükten etkilendi. Diğer yandan Aydınlanma çağında evrimsel kozmoloji ve mekanik felsefe, fizik bilimlerinden doğa tarihine kadar yayıldı. Natüralistler türlerin çeşitliliğine odaklandı ve sonradan "soy tükenmesi" kavramı ile doğa görüşünün temelini sarsan paleontoloji ortaya çıktı. 19. yüzyılın başlarında Jean-Baptiste Lamarck, ilk tamamen biçimlendirilmiş evrim teorisi olan türlerin transmutasyonu teorisini ortaya attı.
+1858 yılında Charles Darwin ve Alfred Russel Wallace, Darwin'in""Türlerin Kökeni"" (1859) eserini detaylı olarak açıklayan yeni bir teori yayınladılar. Lamarck'ın aksine Darwin, ortak ata ve dallara ayrılan yaşam ağacı fikirlerini ortaya attı. Teori; doğal seçilim fikri üzerine kurulu olarak çiftçilik, biyocoğrafya, jeoloji, morfoloji ve embriyoloji gibi geniş bir alanda sentez oluşturmaktaydı.
+Darwin'in eseri üzerine yapılan tartışmalar; doğal seçilim olarak sunduğu spesifik mekanizma fikri haricinde genel olarak evrim kavramının hızla kabul görmesine neden oldu. Doğal seçilim ise 1920'lerde ve 1940'larda biyoloji alanında meydana gelen gelişmelere dek yaygın olarak kabul görmedi. Onun öncesinde çoğu biyolog, evrimin temelinde başka sebeplerin yer aldığı görüşünü savundu. Yaklaşık olarak 1880'den 1920'ye kadar süren "Darwinizm tutulması" boyunca, doğal seçilime edinilmiş özelliklerin kalıtımı (neo-Lamarkizm), doğrusal evrim ve bir anda meydana gelen büyükmutasyonlar gibi alternatifler sunuldu. 1920 ve 1930'lu yıllarda doğal seçilimin, Mendel genetiği ile yarattığı sentez; popülasyon genetiği olarak yeni bir disiplin ortaya çıkardı. Popülasyon genetiği, 1930'lu ve 1940'lı yıllar boyunca diğer biyoloji disiplinlerini bütünledi ve biyolojinin büyük bir kısmını kapsayan, geniş olarak uygulanabilir evrim teorisiyle sonuçlandı.
+Evrimsel biyolojinin kurulmasının ardından biyocoğrafya ve sınıflandırma bilimi ile bütünleşen mutasyon ve doğal popülasyonda genetik çeşitlilik, evrimin matematiksel ve nedensel modellerinin oluşmasına yol açtı. Paleontoloji ve karşılaştırmalı anatomi, yaşamın tarihine yönelik daha detaylı yapılandırmalara olanak sağladı. Moleküler genetiğin 1950'li yıllarda doğuşunun ardından, protein dizileri ile bağışıklıksal testlere dayalı ve sonradan RNA ile DNA çalışmalarını da kapsayan moleküler evrim alanı gelişti. 1960'lı yıllarda gen merkezli evrim görüşü belirginleşti ve bunu adaptiyonizm, seçilim türleri ve doğal seçilime karşı genetik sürüklenmenin göreceli önemi üzerine tartışmalara yol açan bağımsız moleküler evrim teorisi takip etti. 20. yüzyılın sonlarında DNA dizilimleri; moleküler türoluş ve yaşam ağacının üç alan "(bakteri, arke, ökaryot)" sistemine girmesini beraberinde getirdi. Ayrıca simbiyogenez ve yatay gen transferinin yeni kabul gören öğeleri, evrim teorisine daha da karmaşık bir hâl kazandırdı. Evrimsel biyolojideki buluşlar yalnızca biyoloji alanını değil; antropoloji ve psikoloji gibi diğer akademik disiplinlerle beraber toplumu da önemli ölçüde etkiledi.
+Antik Çağlar.
+Antik Yunan.
+İnsanlar dahil olmak üzere bir hayvan türünün, başka türlerden gelebileceği önerileri ilk olarak Sokrates öncesi düşünürlere dayanmaktadır. Miletli Anaksimandros (M. Ö. ~610-546) ilk hayvanların, dünyanın tarihindeki devirlerden birinde suda yaşadıklarını ve insan soyunun ilk yerleşimlerinin de suda olduğunu, hayatlarının bir bölümünü karada geçirdiklerini iddia etmekteydi. Ayrıca insanın sürekli bakıma ihtiyaç duymasına dayanarak, bugün bilinen biçimdeki ilk insanın başka türdeki bir hayvandan doğmuş olabileceği fikrini ortaya attı. Empedokles (M. Ö. ~490-430), hayvanlarda doğum ve ölüm olarak adlandırdığımız şeyin yalnızca, sayısız ölümcül şeyin soyunun nedeni olan elementlerin karışma ve ayrışması olduğunu savundu. Özele indirgendiğinde ilk hayvanlar ve bitkiler, bazıları farklı bütünleşmelere katılarak birleşen bugün gördüklerimizin ayrışmışlarıydı. Ortaçağda daha etkili olan diğer filozoflar her şeyin türünün yalnızca yaşayan şeyler olmadıklarını ve aynı zamanda ilahi bir tasarıma sahip olduğunu düşünmekteydiler.
+Platon (M. Ö. ~428-348), biyolog Ernst Mayr tarafından "evrimciliğin büyük karşıkahramanı" olarak tanımlanmaktadır, çünkü aynı zamanda biçimler teorisine dayanan özcülüğü ortaya koymuştur. Bu teori; görülebilir dünyadaki her bir bir doğal obje türünün, bu türü açıklayan biçim veya idealin kusurlu bir görünümü olduğunu varsaymaktadır. Örneğin ""Timaeus"" eserinde; iyi olduğu için ve ""...kıskançlıktan bağımsız olarak, her şeyin mümkün olduğunca onun gibi olmasını"" istediğinden dolayı Demiurgos'un kozmosu ve onun içindeki her şeyi yarattığını anlatan bir karakter vardır. Yaratıcı, ""...evrenin onlar olmadan eksik olacağı"" kavranabilir tüm hayat biçimlerini yaratmıştır. Bazı bilim tarihçileri; Platon'un türlerin dönüşmüş olabileceğine inanmasından ve biyolojik türlerin değişmez öz karakteristiklerinin 17. ve 18. yüzyıllarda biyolojik taksonominin başlangıcına kadar önem arz etmemesinden dolayı, özcülüğün doğa felsefesinde ne kadar etkili olduğunu sorgulamaktadır.
+Ortaçağ'da Avrupa'daki en etkili düşünür olan Aristoteles (M. Ö. 384-322), Platon'un öğrencisi ve eseri muhafaza edilen ilk doğa tarihçisidir. Biyoloji üzerine yazdıkları, doğa tarihi üzerine yaptığı araştırmalardan ileri gelmektedir ve bugüne kadar genellikle Latince isimleriyle bilinen dört kitap olarak ulaşmışlardır: ""De anima"" "(Yaşamın kaynağı üzerine)", ""Historia animalium"" "(Hayvanlar hakkında araştırmalar)", ""De generatione animalium"" "(Üreme)" ve ""De partibus animalium"" "(Anatomi)". Aristoteles'in eserlerinde -bazı mitler ve yanılgıların yanısıra- dikkat çeken bazı gözlemler ve yorumlar bulunmaktadır. Charles Singer'e göre hiçbir şey Aristoteles'in, ""scala naturæ"" "(Lat.: "Büyük varlık zinciri")" gibi, yaşayan canlıların ilişkilerini ortaya çıkarmak için gösterdiği çabadan daha dikkat çekici değildir. ""Historia animalium"" eserinde tanımlanan bu yapı, organizmaları hiyerarşik düzen gözeterek "Yaşam Merdiveni" veya "Varlık Zinciri" ile, yapı ve işlevlerinin karmaşıklığına bağlı olarak sınıflamaktadır.
+Stoacı felsefe okulunun kurucusu Kıbrıslı Zenon (M. Ö. 334-262) gibi diğer Yunan düşünürleri, Aristoteles'in ve teleoloji olarak bilinen; doğanın, bir amaç için tasarlanmış olmanın kanıtlarını gösterdiği yönündeki görüşü savunan önceki düşünürlerin fikirlerini kabul etmişlerdir. Roman stoacı düşünür Cicero; Zenon'un, Stoa fiziğinin merkezindeki görüşü için bilindiğini yazmıştır.
+Antik Çin.
+Milattan önce 4. yüzyılda yaşayan Taoist düşünür Zhuangzi "(Chuang Tzu)" gibi Antik Çin düşünürleri, biyolojik türlerin değişimiyle ilgili fikirler ortaya attılar. Joseph Needham'a göre Taoizm, biyolojik türlerin değişmezliğini açıkça reddeder ve Taoist düşünürler, türlerin farklılaşan çevrelere depki olarak farklılaşım geliştirdiklerine dair tartışmalarda bulunmuşlardır. Taoizm, Batı düşüncesinin daha durağan klasik doğa görüşünün aksine insanı, doğayı ve cenneti; "Tao" olarak bilinen, var olan bir "daimi dönüşüm" olarak ele alır. 
+Antik Roma.
+Roman düşünür ve atomist Titus Lucretius Carus (ö. M. Ö. 50), Yunan epikürcü filozofların fikirlerinin bugüne kalan en iyi açıklaması olan ""Şeylerin Doğası Üzerine"" "(De rerum natura)" şiirini yazdı. Şiir; doğalcı mekanizmalar aracılığıyla kozmos, dünya, canlılar ve insan topluluğunu tanımlamaktadır. Yapıt, Rönesans dönemi düşünür ve bilim insanlarının kozmoloji ve evrim üzerine tartışmalarını etkilemiştir. Şiirde yer alan görüşler; Marcus Tullius Cicero, Genç Seneca ve Hıristiyan teolojisini etkileyen teleolojik doğal dünya görüşleri olan Gaius Plinius Secundus gibi Roman stoa okulu düşünürlerinin fikirleriyle tamamen zıttır. Cicero; bir kurum olarak Aristocu ve stoacı doğa görüşü tarafından, hayatta kalmak için en uygun yaşamı sağlamanın Eski Yunan'daki seçkin kesim için "çantada keklik" olduğunu belirtir.
+Augustinus.
+4. yüzyılda yaşamış piskopos ve teolog Aurelius Augustinus, Tekvin'deki yaratılış hikayesinin fazla edebî okunmaması gerektiğini yazdı. ""Tekvin'in Edebî Yorumlanması Üzerine"" adlı kitabında; bazı durumlarda yeni yaratıkların, önceki yaşam biçimlerinin "ayrışması" aracılığıyla meydana gelmiş olabileceğine değindi. Meleklerin teolojik olarak mükemmel biçimleriyle ilgili düşündüklerinin aksine Augustinus için ""bitki, kuş ve hayvan yaşamı mükemmel değil ... ama olanak dahilinde yaratılmış"".Augustinus, yaşam biçimlerinin zaman içerisinde yavaşça değiştiğini düşündü ve bir tür evrim fikrini ortaya attı.
+Ortaçağ.
+İslâmi felsefe ve varoluş mücadelesi.
+Roma İmparatorluğu'nun çöküşünden sonra Yunan ve Roman evrim fikirleri sona erse de, İslâmi düşünürler ve bilim adamları için konu hâlâ canlıydı. 8. yüzyıldan 13. yüzyıla kadar süren İslam'ın Altın Çağı'nda düşünürler doğa tarihi ile ilgili fikirleri keşfettiler. Cansızdan canlıya: "mineralden bitkiye, bitkiden hayvana ve hayvandan insana" değişinim de bu fikirlere dahildi.
+El-Cahız, 9. yüzyılda yazarak, doğa tarihi hakkında detaylı düşünceler yayınlayan ilk Müslüman biyolog oldu. ""Hayvanlar Kitabı""'nda bir hayvanın hayatta kalma şansı için çevre faktörünün etkilerini ele aldı ve varoluş mücadelesini açıkladı. Kitabında ayrıca besin zinciri ile ilgili tanımlara yer verdi. Çevrenin hayvan türüne etkisini ve bir hayvanın hayatta kalma olasılığında çevrenin etkilerini ele aldı. Örneğin: "Kısaca hiçbir hayvan yiyecek olmadan var olamaz ve avlanan bir hayvan, kendi sırası geldiğinde av olmaktan kurtulamaz. Her zayıf hayvan, kendinden daha zayıf olanı yok eder. Güçlü hayvanlar ise kendilerinden daha güçlü hayvanlara yem olmaktan kurtulamazlar.
+Kimi yorumculara göre İbn-i Haldun'un bazı düşünceleri, biyolojik evrim teorisi hakkında öngörülere sahiptir. 1377 yılında yazdığı Mukaddime adlı eserinde insanoğlunun, tür çeşitliliğinin arttığı bir süreçte "maymunlar dünyasından" türediğini yazmıştır. İbn-i Haldun, kitabının birinci bölümünde: "Bu dünya, tüm yaratılmışları ile mutlak bir düzen ve katı bir yapıya sahiptir. Bu da nedenler ile neden olunanlar arasındaki bağlantıyı, yaratılışın bazı bölümlerinin diğerleriyle olan birleşimlerini ve bazı varlıkların başkalaşımlarını muhteşem ve sonsuz bir örüntüyle gösterir. " der.
+Altıncı bölümünde ise şu ifadeler yer alır:
+Gelenek dışı evrim teorisi.
+Omega noktası.
+Pierre Teilhard de Chardin'in metafizik boyuttaki Omega Noktası Teorisi, evrenin; atomaltı parçacıklardan, son safha ve amaç olarak gördüğü insan toplumuna aşamalı gelişimini betimler.
+Gaia hipotezi.
+Teilhard de Chardin'in fikirleri; dünyanın canlı ve cansız parçalarının, tek bir organizmanın etkileşimli karmaşık sistemi gibi görülebileceğini ortaya koyan James Lovelock tarafından, daha özele indirgenmiş Gaia hipoteziyle bağlantılı görülür. Hipotez, ayrıca Lynn Margulis ve başkaları tarafından da endosimbiyoz ve egzosimbiyozun bir genişlemesi olarak görülmektedir. Bu değiştirilmiş hipotez, tüm canlıların dünyada genel olarak hayatı destekleyen çevre üzerinde düzenleyici bir etkisinin olduğunu varsayar.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>ISPM 15</DOCTITLE>
+<TEXT>
+
+ISPM 15 kalınlığı 6 mm. den fazla olan ve gemi ile nakledilecek ahşap ambalaj malzemelerinin üreticisi tarafından işaretlenmesi için Uluslararası Bitki Koruma Birliği ile yapılan sözleşme esasına dayanır. 
+Bütün ahşaptan oluşan ambalaj malzemeleri (palet, sandık, kasa, takoz vs.) ısıl işleme tabi tutularak ya da metil bromür ile fümigasyon yapılmış olmalı ya da ambalaj malzemeleri kâğıt, plastik, ahşap kökenli ürün (sunta vb.) diğer alternatif malzemelerden oluşmalıdır.
+Yandaki şekildeki işaretleme malzeme üzerine yapılır. Bu işaret aynı zamanda standardın gerektirdiği işlemin yapıldığına dair yapanın Uluslararası Bitki Koruma Birliği 'ye taahhüdüdür ve sorumluluk üreticiye aittir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mesarya Ovası</DOCTITLE>
+<TEXT>
+
+Mesarya Ovası (Yunanca: Μεσαορία ), Kıbrıs adasının en büyük ovasıdır. Adanın iç kesiminde olup kuzeyde Beşparmak dağları, güneyde Trodos Dağı, batıda Lefkoşa şehri ve doğuda Mağusa körfezi arasında kalan bölgedir. Batı, orta ve doğu Mesarya olmak üzere üç kısımdan meydana gelmektedir. Genişliği yaklaşık 65 km., uzunluğu ise 35 km.dir. Kapladığı alan 1000 km² kadardır.
+Kıbrıs Adasının iki büyük akarsuyu olan Kanlıdere ve Çakıllı Dere (Yalya) dereleri bu ovadan akmıştır.
+Yıl boyu kurak olduğu için bitki örtüsü yoktur. Suyun az olması nedeniyle de suya dayalı tarım yapılamamakta, daha çok tahıl üretimi yapılmaktadır. 
+Ova üzerinde birçok köy ve kasaba bulunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mührüsüleyman</DOCTITLE>
+<TEXT>
+
+Mührüsüleyman ("Polygonatum"), çiçekli bitkilerin Ruscaceae familyasına dahil olan ve yaklaşık elli türü olan bir bitki cinsidir. Daha önce zambakgiller familyasına dahil edilerek sınıflandırılmaktaydı. 
+Mührüsüleyman türlerinin bazıları şifalı bitkiler arasında sayılmakta, özellikle "P. sibiricum" türü geleneksel Çin tıbbında bitki çayı olarak kullanılmaktadır.
+Bazı mührüsüleyman sürgünleri kuşkonmaz gibi pişirildikten sonra yenebilir, özel bir işlemden geçirildikten sonra yenebilen kökleri de nişasta kaynağıdır.. 
+Tıbbi kullanımı.
+Mührüsüleyman genellikle kökleri olmak üzere menopozdan kırık kemiklere kadar çeşitli durumlarda kullanılır. Deri üzerine uygulandığında köklerin kesik ve çürüklerin, deri tahrişleri ve iltihaplarının iyileşmesini hızlandırdığı söylenmektedir. Akne, deri lekesi ve her türlü deri kusurlarında yüzü yıkamak için kullanılır. Bitki çayı olarak kullanıldığına menopoz, hazımsızlık, diyabet, kırık kemikler, uykusuzluk, böbrek ağrıları ve hatta kısırlık gibi durumlara iyi geldiği söylenmektedir.
+Diyabet için kullanıldığı ilk defa 1930'da Langecker tarafından gözlemlenmiştir. Deneylerden sonra muhtemelen glükokinin içeriği sayesinde, besinsel hiperglisemi ile mücadele etmekte etkili olduğu sonucuna varmıştır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikro çoğalma</DOCTITLE>
+<TEXT>
+
+Mikro çoğalma, modern bitki kültür metodlarını kullanarak, bitki ile aynı soydan gelen mevcut bitkisel materyallerin, sayısını hızlıca artırmak ve üretmek için geliştirilmiş bir pratiktir.
+Mikro çoğaltma genelde, yeni bitki türlerinin sayısını artırmakta kullanılır. Örnek olarak; Bitkiyi, genetiğini değiştirerek veya klasik bitki besleme metodlarını kullanarak yetiştirmek verilebilir. Ayrıca mevcut bitkiler içinde, çekirdekleri yetişmeyen veya vejetatif üremeye istenen cevabı vermeyen bitkilerden, yeterli miktarda küçük bitki eldesi için de kullanılır.
+Mikro çoğaltma tekniği, çoğaltılacak bitkisel materyallerin seçilmesiyle başlar. En sağlıklı bitkilerin eldesinde, seçilen mevcut materyallerin hijyenik olması çok önemlidir. Bu materyallerin virüslerden ve mantarlardan tamamen arındırılması gerekir. Genellikle bitkiler ilk olarak virüslerden arındırılmışlıklarının saptanması için işaretlenirler. Öncelikle kültür için bitki materyali seçilir, explantların toplanmasına başlanır. Eplantların toplanması, kullanılacak kültürün tipine bağlıdır. Bunların içine, sap uçları, anterler, çiçek yaprakları, polenler ve diğer bitki kültürleri de dahildir. Daha sonra eksplantın yüzeyi temizlenir. Temizlik işlemi, genellikle explantın birkaç sefer çamaşır suyu ve alkolle yıkandıktan sonra sterilize su ile durulanması şeklindedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kutup iklimi</DOCTITLE>
+<TEXT>
+
+Kutup iklimi, Dünya'nın sürekli olarak karlar ve buzlarla kaplı olan kutup bölgelerinde görülen iklim tipidir. Kuzey Kutbu çevresinde, Grönland Adası'nın iç kısımlarında ve Antarktika'da etkilidir. 
+Sıcaklık ortalaması bütün yıl boyunca 0°C'nin altındadır. Sıcaklık çoğu zaman -40°C'ye, hatta daha altına iner. Yıllık sıcaklık farkı 30°C dolaylarındadır. Güneşlenme süresi çok uzun olmasına rağmen sıcaklık yükselemez çünkü Güneş ışınları yıl boyunca bu bölgelere eğik açılarla gelir. 
+Sıcaklık düşük olduğundan buharlaşma ile atmosfere karışan nem azdır. Dolayısıyla yağışlar son derece az ve her zaman kar şeklindedir. Ortalama yağış yıllık 200 mm civarındadır. Bu sebeple, kutup iklimine soğuk çöl iklimi de denir. Zemin buzlarla kaplı olduğu için bitki örtüsü yoktur. 
+Eskimolar hayvan derilerinden yaptıkları kıyafetleri kat kat giyerek soğuktan korunurlar. Ulaşım, köpeklerin çektiği kızaklarla sağlanır. Halk, geçimini balıkçılıkla sağlar. Bazı balıkları buzu kırarak çıkarırlar.bazı eskimolar evlerini buzdan yaparlarken ki buna igloo denir bazıları ise soğuğa dayanıklı evler yaparlar.
+
+</TEXT>
+</DOC>
+

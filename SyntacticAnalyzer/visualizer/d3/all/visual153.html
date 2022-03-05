@@ -1,0 +1,106 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Güneş ışınlarını dik açıyla alan Ekvator çevresinin Dünya'nın en sıcak yeri olmamasının sebebi nedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(1604, {label: "Kuzey",nodeclass: "type-TK"});
+ g.addNode(1605, {label: "Amerikanın",nodeclass: "type-TK"});
+ g.addNode(1606, {label: "doğu",nodeclass: "type-TK"});
+ g.addNode(1607, {label: "kıyılarının",nodeclass: "type-TK"});
+ g.addNode(1608, {label: "batı",nodeclass: "type-TK"});
+ g.addNode(1609, {label: "kıyılarına",nodeclass: "type-TK"});
+ g.addNode(1610, {label: "göre",nodeclass: "type-TK"});
+ g.addNode(1611, {label: "daha",nodeclass: "type-TK"});
+ g.addNode(1612, {label: "soğuk",nodeclass: "type-TK"});
+ g.addNode(1613, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(1614, {label: "olmasına",nodeclass: "type-TK"});
+ g.addNode(1615, {label: "sebep",nodeclass: "type-TK"});
+ g.addNode(1616, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(1617, {label: "olan",nodeclass: "type-TK"});
+ g.addNode(1618, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(1619, {label: "nedir",nodeclass: "type-TK"});
+ g.addNode(1620, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,1604,1619,{label: "ÖZNE"});
+ g.addEdge(null,1605,1607,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,1606,1607,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,1607,1619,{label: "NESNE"});
+ g.addEdge(null,1608,1609,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,1609,1610,{label: "NESNE"});
+ g.addEdge(null,1610,1619,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,1611,1612,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,1612,1613,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,1613,1614,{label: "TÜREME"});
+ g.addEdge(null,1614,1616,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,1615,1616,{label: "NESNE"});
+ g.addEdge(null,1616,1617,{label: "TÜREME"});
+ g.addEdge(null,1617,1619,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,1618,1619,{label: "TÜREME"});
+ g.addEdge(null,1619,1620,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

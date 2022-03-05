@@ -1,0 +1,12 @@
+1	Bir	bir	Det	Det	_	_	_	_	_
+2	bölgede	bölge	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+3	pamuk	pamuk	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	üretimi	üretim	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+5	_	fazla	Adj	Adj	_	_	_	_	_
+6	fazlaysa	_	Verb	Zero	Cond|A3sg	_	_	_	_
+7	nasıl	nasıl	Adj	Adj	_	_	_	_	_
+8	sanayi	sanayi	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	kuruluşları	kuruluş	Noun	Noun	A3pl|P3sg|Nom	_	_	_	_
+10	_	gör	Verb	Verb	_	_	_	_	_
+11	görülür	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+12	.	.	Punc	Punc	_	_	_	_	_

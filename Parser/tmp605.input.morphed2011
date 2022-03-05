@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çöl	çöl+Noun+A3sg+Pnon+Nom
+Çöl	Çöl+Noun+Prop+A3sg+Pnon+Nom
+
+biyomunun	biyomunun	+Noun+Prop+A3sg+Pnon+Nom
+
+rastlanabileceği	rastla	+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+FutPart+P3sg
+rastlanabileceği	rastla	+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Noun+FutPart+A3sg+P3sg+Nom
+
+kıtalar	kıta+Noun+A3pl+Pnon+Nom
+kıtalar	kıta+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+hangileridir	hangi	+Pron+Ques+A3pl+P3pl+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

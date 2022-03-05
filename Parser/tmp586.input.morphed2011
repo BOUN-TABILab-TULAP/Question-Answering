@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Cinsel	cin	+Noun+A3sg+Pnon+Nom^DB+Adj+Related
+Cinsel	cinsel	+Adj
+
+ilişki	ilişki+Noun+A3sg+Pnon+Nom
+
+yoluyla	yol	+Noun+A3sg+P3sg+Ins
+
+bulaşan	bulaş+Verb+Pos^DB+Adj+PresPart
+
+hastalıklar	hasta	+Adj^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+hastalıklar	hasta	+Adj^DB+Noun+Ness+A3pl+Pnon+Nom
+hastalıklar	hastalık+Noun+A3pl+Pnon+Nom
+hastalıklar	hastalık+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

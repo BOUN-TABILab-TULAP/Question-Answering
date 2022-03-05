@@ -1,0 +1,14 @@
+1	Bir	bir	Det	Det	_	_	_	_	_
+2	karakter	karakter	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	için	için	Postp	Postp	PCNom	_	_	_	_
+4	aynı	aynı	Adj	Adj	_	_	_	_	_
+5	alel	alel	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	genleri	gen	Noun	Noun	A3pl|P3sg|Nom	_	_	_	_
+7	_	taşı	Verb	Verb	Pos	_	_	_	_
+8	taşıyan	_	Adj	APresPart	_	_	_	_	_
+9	bireylere	birey	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+10	ne	ne	Adj	Adj	_	_	_	_	_
+11	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+12	_	ver	Verb	Verb	_	_	_	_	_
+13	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

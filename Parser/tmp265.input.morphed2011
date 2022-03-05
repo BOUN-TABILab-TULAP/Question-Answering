@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Nüfus	nüfus+Noun+A3sg+Pnon+Nom
+
+artışının	art	+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Gen
+artışının	art	+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Gen
+
+olumsuz	olumsuz	+Adj
+
+sonuçları	sonuç+Noun+A3pl+Pnon+Acc
+sonuçları	sonuç+Noun+A3pl+P3sg+Nom
+sonuçları	sonuç+Noun+A3pl+P3pl+Nom
+sonuçları	sonuç+Noun+A3sg+P3pl+Nom
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

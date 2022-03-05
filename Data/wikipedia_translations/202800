@@ -1,0 +1,27 @@
+Eğik izdüşüm
+Eğik projeksiyon, üç boyutlu nesnelerin resimsel, iki boyutlu görüntüleri üretmek için kullanılan grafik projeksiyon teknik çizim basit bir türüdür.
+Genel Bakış.
+Eğik projeksiyon paralel projeksiyon türüdür:
+Hem eğik projeksiyon ve imlâ projeksiyon, kaynak nesnenin paralel çizgiler yansıtılan görüntüde paralel çizgiler üretir. Ortografik projeksiyon kullanılan dik açı aksine eğik projeksiyon projektörler, yansıtılan görüntü üretmek için bir eğik açıyla projeksiyon düzlemi kesişir.
+Matematiksel olarak, formula_2-düzlemde nokta FORMULA_1 paralel projeksiyon formula_3 verir. sabitleri formula_4 ve formula_5 benzersiz bir paralel projeksiyon belirtir. Formula_6, projeksiyon "imlâ" ya da "ortogonal" olduğu söyleniyor zaman. Aksi halde, "eğik" dir.
+sabitleri formula_4 ve formula_5 zorunlu 1 'den az değildir, ve uzayda olduğundan daha büyük ya da daha kısa olabilir eğik bir çıkıntı üzerinde ölçülen bir sonucu uzunlukları. Genel oblik, uzay küreler çizim düzlemi üzerinde elips olarak yansıtılan değil, bir ortogonal projeksiyon onları beklediğiniz gibi çevrelerinde gibidir.
+Eğik çizim de en kaba "3D" çizim metodu ama usta kolay yoldur. Eğik gerçekten 3D sistemi, ancak 'zorla derinlik' ile bir nesnenin iki boyutlu bir görünüm değildir. Eğik bir görünümünü kullanarak çizmek için bir yolu iki boyutta, yani düz nesnenin size aradığınız yan çizmek ve daha sonra 45 derecelik bir açıyla diğer tarafını çizmek, ama bunun yerine onlar iki tarafın tam boy çizim için nesneye gerçekçilik unsuru ekleyerek - sadece yarım derinlik 'zorla derinlik' oluşturma ile çizilmiş. Hatta bu 'zoraki derinlik' ile, eğik çizimler göze çok inandırıcı görünüyor. Bu nedenle eğik nadiren profesyonel tasarımcılar ve mühendisler tarafından kullanılır.
+Eğik resimsel.
+Bir "eğik resim" Çizimde, eksen arasında görüntülenen açıları yanı sıra foreshortening faktörleri (ölçek) keyfi.
+Daha kesin olarak, aynı noktadan kaynaklanan üç eş düzlemsel bölümlerinin herhangi bir grubu bir küp üç tarafı bazı eğik bakış açısı oluşturan şeklinde olabilir. Bu sonuç 19. yüzyıl başlarında bunu yayınladı Alman matematikçi Pohlke gelen, Pohlke teoremi olarak bilinir.
+Ortaya çıkan bozulmalar, resmi, çalışma çizimleri için uygun hale. Bununla birlikte, bozulmalar kısmen projeksiyon düzlemine görüntü paralel bir düzlemi hizalayarak yenilmektedir. Aksi halde seçilen uçağın gerçek şekli görüntü oluşturur.
+Yön formula_11 boyunca korunur formula_9 ve formula_10 yönleri boyunca uzunlukları, ancak uzunlukları bir azalma faktörü kullanarak açıyla çizilmiş sayede eğik projeksiyonlar, bu özel kategori endüstriyel çizimler için kullanımı çok fazla.
+Cavalier projeksiyonlar.
+Cavalier projeksiyonda (bazen şövalye perspektif ya da yüksek bakış açısı) nesnenin bir nokta üç koordinatlar, "x", "y" ve "z" ile temsil edilir. Çizim üzerinde, sadece iki koordinatlar tarafından temsil edilir, "x" "ve" y "". Düz çizim, iki eksende, şekil üzerinde "x" ve "z" üzerinde dik ve bu eksende uzunluğu 1 ile çizilir: 1 ölçekli; o "x" "eksen, genellikle 30 veya 45 ° ile keyfi bir açı yaparak diyagonal çizilir" y ", burada, üçüncü eksen olarak, bir izdüşümleri olmasa da, dimetrik projeksiyonlar böylece benzer. Üçüncü eksen uzunluğu ölçekli değildir.
+Özellikle kalem ve kağıt ile çizmek çok kolaydır. Bir figür, örneğin elle çizilmiş olması gerekir zaman Böylelikle sık kullanılır bir kara tahta üzerinde (ders, sözlü sınav).
+temsil başlangıçta askeri tahkimatı için kullanılmıştır. Fransızca, «cavalier» duvarların üstünde düşmanı görmenizi sağlar duvarların arkasında yapay bir tepe olan (kelimenin tam anlamıyla "binici, atlı", "Süvari" bölümüne bakınız). cavalier perspektif şeyler bu yüksek noktadan görüldü yoluydu. Bazıları da bir binici onun sırtında gelen yere küçük bir nesne görebiliyordu yoluydu aslında adını açıklar.
+Kabine projeksiyon.
+dönem kabine projeksiyon (bazen kabine perspektif) mobilya sektöründe resimlerde kullanımı kaynaklanıyor. Cavalier perspektiften gibi, öngörülen nesnenin bir yüzü inceleyen düzlemine paralel ve üçüncü eksen (30 ° veya 45 ° tipik) bir açıda gidiyor olarak tahmin edilmektedir. Kabine projeksiyon ile üçüncü eksen uzunluğunu tutan cavalier projeksiyon, aksine basık hatlarının uzunluğu yarıya.
+Matematiksel formül.
+Formül olarak, eğer uçak
+bakana dönük formula_2 ve basık eksen formula_11, daha sonra bir nokta formula_15 böyle tahmin edilmektedir geçerli:
+Nerede formula_17 belirtilen açıdır.
+dönüşüm matrisi:
+Alternatif böylece aynı vererek başlayan yüz kapalı öngörülen lider koldan üçte biri kaldırabilirsiniz
+Örnekler.
+Teknik resim ve çizimler, video oyunları (3D oyunlar gelişiyle önceki özellikle) yanısıra sık sık eğik projeksiyon bir form kullanmak. Örnekler "SimCity" içerir ", Ultima VII", "toprağa bağlı" ve "paperboy".

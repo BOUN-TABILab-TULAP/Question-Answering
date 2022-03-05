@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İpek	ipek	+Adj
+İpek	ipek	+Noun+A3sg+Pnon+Nom
+İpek	İpek+Noun+Prop+A3sg+Pnon+Nom
+
+yolunun	yol	+Noun+A3sg+P3sg+Gen
+yolunun	yol	+Noun+A3sg+P2sg+Gen
+yolunun	yol	+Verb^DB+Verb+Pass+Pos+Imp+A2pl
+yolunun	yolun	+Verb+Pos+Imp+A2pl
+
+başlangıcı	başlangıç+Noun+A3sg+P3sg+Nom
+başlangıcı	başlangıç+Noun+A3sg+Pnon+Acc
+
+hangi	hangi	+Adj
+
+ülkedir	ülke+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

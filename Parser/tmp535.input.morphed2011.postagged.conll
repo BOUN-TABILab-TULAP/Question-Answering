@@ -1,0 +1,13 @@
+1	_	hücre	Noun	Noun	A3pl|Pnon|Loc	_	_	_	_
+2	Hücrelerdeki	_	Adj	Adj	Rel	_	_	_	_
+3	asit	asit	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+4	ve	ve	Conj	Conj	_	_	_	_	_
+5	baz	baz	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	dengesinin	denge	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+7	_	canlı	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+8	canlılık	_	Noun	Noun	Ness|A3sg|Pnon|Nom	_	_	_	_
+9	için	için	Postp	Postp	PCNom	_	_	_	_
+10	önemi	önem	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+11	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+12	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+13	.	.	Punc	Punc	_	_	_	_	_

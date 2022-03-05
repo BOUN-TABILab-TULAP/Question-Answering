@@ -1,0 +1,92 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Greenpeace örgütü ne zaman kurulmuştur</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(9460, {label: "Birleşmiş",nodeclass: "type-TK"});
+ g.addNode(9461, {label: "milletler",nodeclass: "type-TK"});
+ g.addNode(9462, {label: "ekonomik",nodeclass: "type-TK"});
+ g.addNode(9463, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(9464, {label: "sosyal",nodeclass: "type-TK"});
+ g.addNode(9465, {label: "konseyi",nodeclass: "type-TK"});
+ g.addNode(9466, {label: "kaç",nodeclass: "type-TK"});
+ g.addNode(9467, {label: "üyeden",nodeclass: "type-TK"});
+ g.addNode(9468, {label: "oluşur",nodeclass: "type-TK"});
+ g.addNode(9469, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,9460,9468,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9461,9468,{label: "ÖZNE"});
+ g.addEdge(null,9462,9463,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9463,9464,{label: "BAĞLANTI"});
+ g.addEdge(null,9464,9465,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9465,9468,{label: "NESNE"});
+ g.addEdge(null,9466,9467,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9467,9468,{label: "NESNE"});
+ g.addEdge(null,9468,9469,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

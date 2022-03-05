@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Matbaa matbaa+Noun+A3sg+Pnon+Nom
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+zaman zaman+Noun+A3sg+Pnon+Nom
+icat icat+Noun+A3sg+Pnon+Nom
+edildi et+Verb^DB+Verb+Pass+Pos+Past+A3sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

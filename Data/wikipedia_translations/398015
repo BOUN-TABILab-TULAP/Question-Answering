@@ -1,0 +1,32 @@
+Operatör-öncelik ayrıştırıcı
+Bilgisayar bilimi, bir operatör öncelik ayrıştırıcı operatör öncelik dilbilgisi yorumlayan bir aşağıdan yukarıya ayrıştırıcı. Örneğin, çoğu hesap makineleri gibi Ters Polonya gösterimde (RPN) olarak değerlendirilmesi için optimize edilmiş bir biçime operasyonların sipariş dayanarak insan tarafından okunabilir infix gösterimi dönüştürmek için operatör önceliği ayrıştırıcıları kullanın.
+Edsger Dijkstra'nın manevra bahçesinde algoritması yaygın operatör öncelik ayrıştırıcıları uygulamak için kullanılır. Diğer algoritmalar öncelik tırmanma yöntemi ve yukarıdan aşağı operatör öncelik yöntemini içerir.
+Diğer ayrıştırıcıları İlişkisi.
+Bir operatör-öncelik ayrıştırıcı LR (1) gramerler bir alt ayrıştırma kapasitesine sahip basit bir shift-azaltmak ayrıştırıcı olduğunu. Iki ardışık Sabit simgeler, herhangi bir kural sağ tarafında görünür yerde asla Daha doğrusu, bütün LR (1) ayrıştırmak operatör öncelik ayrıştırıcı gramerler.
+Operatör-öncelik ayrıştırıcıları pratikte sık kullanılan değildir; ancak onlar daha büyük bir tasarım içinde onları yararlı hale bazı özellikleri var. Birincisi, genellikle daha karmaşık shift-azaltmak ayrıştırıcıları ile durum böyle değil yandan tarafından yazmak için yeterince basittir. İkincisi, onlar ayrıştırma sırasında kendi operatörleri eklemek veya değiştirmek diller için uygun kılmaktadır çalışma zamanında bir operatör tablo danışmak yazılabilir. (Bir örnek, özel çağrışımsal ve önceliği kullanıcı tanımlı infix operatörleri izin veren Haskell, olduğu;. Dolayısı ile bir operatör öncelik ayrıştırıcı tüm başvurulan modüllerin ayrıştırma "sonra" programında çalıştırılmalıdır)
+Hız ve dinamizmi bir denge elde etmek için Perl 6 sandviç iki özyinelemeli iniş ayrıştırıcıları arasında bir operatör öncelik ayrıştırıcı. Bu Ayrıştırıcı Dilbilgisi Engine (PGE) olarak, Perl 6, Parrot için sanal makine olarak ifade edilir. GCC adlı C ve el-kodlu özyinelemeli kökenli ayrıştırıcıları C ++ ayrıştırıcılar, hem de hızlı aritmetik ifadeler inceleyebilirsiniz operatör öncelik çözümleyici tarafından hızlandırdı vardır. Operatör önceliği ayrıştırıcıları da belirgin ifade ayrıştırma özyinelemeli iniş yaklaşım hızlandırmak için derleyici derleyici tarafından oluşturulan ayrıştırıcıları içinde gömülürler.
+Öncelik tırmanma yöntemi.
+öncelik tırmanma yöntemi ilk Martin Richards ve Colin Whitby-Stevens tarafından tanımlanmıştır ifadeleri ayrıştırma için, kompakt, verimli ve esnek bir algoritma olduğunu.
+EBNF formatında bir infix-gösterimde ifade gramer genellikle bu gibi görünecektir:
+<Syntaxhighlight lang = "BNF">
+</ Syntaxhighlight>
+Bir öngörü özyinelemeli kökenli ayrıştırıcı bu dilbilgisi uygulanması öncelik birçok seviyeleri ile verimsiz hale gelebilir. Örneğin, beş işlev çağrıları gerektirebilir, bir dizi Ayrıştırma: dilbilgisi olmayan her terminal için bir "birincil" ulaşana kadar.
+Bir operatör-öncelik ayrıştırıcı daha verimli aynı şeyi yapabilirsiniz. Fikir sürece biz aynı önceliğe sahip operatörler bulmak gibi aritmetik işlemleri ilişkilendirmek sol, ama biz daha yüksek öncelik operatörleri değerlendirmek için geçici bir sonucu kaydetmek zorunda olduğunu. açık bir yığın gerekmez Burada sunulan algoritma; bunun yerine, yığın uygulamak için yinelemeli çağrılar kullanır.
+Algoritma Dijkstra şant yarda algoritması gibi saf operatör öncelik ayrıştırıcı değil. O "birincil" nonterminal özyinelemeli iniş ayrıştırıcı gibi, ayrı bir yordam ayrıştırılır varsayar.
+Sözde kodu.
+aşağıdaki gibi algoritma için sözde koddur. ayrıştırıcı işlev "parse_expression" başlar. Öncelik seviyesi 0 büyük veya eşittir.
+Algoritma örneği yürütülmesi.
+Aşağıdaki gibi ifade 2 + 3 * 4 + 5 == 19 bir örnek yürütme olduğunu. Biz eşitlik ifadeler 2 çarpımsal ifadelere 1 katkı maddesine ifadeler, öncelik 0 verir.
+"Parse_expression_1" ("lhs" = 2, "min_precedence" = 0)
+1 döndürülür.
+Alternatif yöntemler.
+Operatör öncelik kuralları uygulamak için başka yolları da vardır. Bir orijinal bir ifade ağacı oluşturmak ve daha sonra ağaç yeniden yazma kuralları uygulamaktır.
+Bu tür ağaçlar mutlaka geleneksel ağaçları için kullanılan veri yapıları kullanılarak uygulanması gerekmez. Bunun yerine, jetonlar aynı anda elemanları hangi sırayla işlemek ne belirten bir öncelik listesi oluşturarak, tablolar gibi düz yapılara, saklanabilir.
+Başka bir yaklaşım ilk tam onlar, bir doğrusal ayrıştırıldı sol-sağ çözümleyici bile doğru öncelik yol, öyle ki, her operatörün etrafında parantez bir dizi ekleyerek, ifadeyi parenthesize etmektir. Bu algoritma, erken FORTRAN I derleyicisi kullanılmıştır.
+Temel matematik operatörleri parenthesisation kolları basit bir C uygulamasının örnek kod (+, -, *, /, ^ ve parantez):
+Örneğin, derlenmiş ve parametreleri ile komut satırından çağrıldığında
+ürettiği
+Konsolda çıkış olarak.
+Bu strateji bir sınırlama tekli operatörler tüm infix operatörleri daha yüksek önceliğe sahip olmasıdır. Yukarıdaki kodda "negatif" operatörü üs daha yüksek önceliğe sahiptir. Bu girişi ile program çalıştırıldığında
+Bu çıktıyı üretir
+hangi niyet var değil muhtemelen.

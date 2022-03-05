@@ -1,0 +1,57 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kronik	kronik	+Adj
+Kronik	kronik	+Noun+A3sg+Pnon+Nom
+
+böbrek	böbrek+Noun+A3sg+Pnon+Nom
+
+yetmezliği	yet	+Verb+Neg^DB+Adj+AorPart^DB+Noun+Ness+A3sg+P3sg+Nom
+yetmezliği	yet	+Verb+Neg^DB+Adj+AorPart^DB+Noun+Ness+A3sg+Pnon+Acc
+yetmezliği	yet	+Verb+Pos^DB+Noun+NotState+A3sg+P3sg+Nom
+yetmezliği	yet	+Verb+Pos^DB+Noun+NotState+A3sg+Pnon+Acc
+
+hastalarında	hasta	+Noun+A3pl+P3sg+Loc
+hastalarında	hasta	+Noun+A3pl+P2sg+Loc
+hastalarında	hasta	+Noun+A3pl+P3pl+Loc
+hastalarında	hasta	+Noun+A3sg+P3pl+Loc
+
+hangi	hangi	+Adj
+
+hormonun	hormon	+Noun+A3sg+P2sg+Nom
+hormonun	hormon	+Noun+A3sg+Pnon+Gen
+
+üretiminin	üretim+Noun+A3sg+P2sg+Gen
+üretiminin	üretim+Noun+A3sg+P3sg+Gen
+
+azalması	azal	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+sonucu	sonuç+Noun+A3sg+P3sg+Nom
+sonucu	sonuç+Noun+A3sg+Pnon+Acc
+
+anemi	anemi	+Noun+A3sg+Pnon+Nom
+
+görülür	gör+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+görülür	gör+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

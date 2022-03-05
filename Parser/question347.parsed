@@ -1,0 +1,20 @@
+1	47	47	Num	Card	_	2	MODIFIER	_	_
+2	_	kromozom	Noun	Noun	A3sg|Pnon|Nom	3	DERIV	_	_
+3	kromozomlu	_	Adj	Adj	With	6	MODIFIER	_	_
+4	XXY	XXY	Noun	Prop	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+5	eşey	eşey	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	kromozomuna	kromozom	Noun	Noun	A3sg|P3sg|Dat	18	DATIVE.ADJUNCT	_	_
+7	sahip	sahip	Noun	Noun	A3sg|Pnon|Nom	18	SUBJECT	_	_
+8	erkek	erkek	Adj	Adj	_	9	MODIFIER	_	_
+9	bireylerde	birey	Noun	Noun	A3pl|Pnon|Loc	11	LOCATIVE.ADJUNCT	_	_
+10	_	gör	Verb	Verb	_	11	DERIV	_	_
+11	_	_	Verb	Verb	Pass|Pos	12	DERIV	_	_
+12	görülen	_	Adj	APresPart	_	14	MODIFIER	_	_
+13	_	anormal	Adj	Adj	_	14	DERIV	_	_
+14	anormalliğe	_	Noun	Noun	Ness|A3sg|Pnon|Dat	18	DATIVE.ADJUNCT	_	_
+15	ne	ne	Adj	Adj	_	16	MODIFIER	_	_
+16	ad	ad	Noun	Noun	A3sg|Pnon|Nom	18	SUBJECT	_	_
+17	_	ver	Verb	Verb	_	18	DERIV	_	_
+18	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	19	SENTENCE	_	_
+19	.	.	Punc	Punc	_	0	ROOT	_	_
+

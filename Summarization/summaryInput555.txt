@@ -1,0 +1,142 @@
+Question: Grip virüsü nasıl bulaşmaktadır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Grip A virüsü H7N9 alt türü</DOCTITLE>
+<TEXT>
+
+Grip A virüsü H7N9 alt türü, avian veya kuş gribi virüsü olarak da bilinen Grip A virüsünün bir serotipidir. H7, normalde kuş popülasyonları arasında yayılsa da bazı çeşitlerinin insanlara da bulaştığı bilinmektedir. H7N9 virüsünün ilk kez 2013 yılında insanları enfekte ettiği bildirildi. 30 Haziran 2013 tarihi itibariyla, Çin'de H7N9 virüsü vakalarının sayısı 133'e, bunlardan hayatını kaybedenlerin sayısı ise 43'e ulaştı. Ağustos 2013'te bilim insanları virüsün insandan insana bulaştığı ilk vakayı kamuoyuna bildirdi.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Grip</DOCTITLE>
+<TEXT>
+
+Grip, influenza veya enflüanza, viral bir hastalıktır. Sağlıklı insanlarda ortalama bir haftada geçmesine rağmen; vücut direncini düşüren kronik hastalığı olan kişilerde (şeker, kalp-akciğer hastalıkları, AIDS vb.) ve yaşlılarda pnömoni (zatürre), meningoensefalit (beyin iltihabı), miyokardit (kalp kası iltihabı) gibi ölümle sonuçlanabilecek hastalıklara yol açabilir. Bu tür risk grubundaki kişilere "yüksek risk grubundaki kişiler" denir.
+Grip virüsü Orthomyxoviridae familyasına mensup örtülü bir RNA virüsüdür. Virüsteki nükleik asit 8 tane negatif anlamlı RNA'dan oluşur. RNA'nın kopyalanmasında hata oranı yüksek olduğu için, virüs genomu sürekli değişim halindedir. Ayrıca, aynı hücreyi birden fazla virüsün enfekte etmesi durumunda viral RNA parçaları birbirleriyle karışıp yeni genetik kombinezonlar oluşturabilirler. Bu nedenlerden dolayı vücudun bir grip türüne karşı kazandığı bağışıklık ertesi yıl ortaya çıkan yeni bir salgına karşı genelde etkisiz olur.
+Tedavi ve korunma.
+Grip, virüs enfeksiyonu olduğu için tedavisi yoktur. Antibiyotikler tedaviye yaramazlar, çünkü antibiyotikler yalnızca bakterilere etki ederler. Yaklaşık bir hafta içinde hastalık kendiliğinden iyileşecektir; ancak doktora gitmek ve 3-5 gün iyice dinlenmek gereklidir. Bol sıvı tüketilmesi de salgıların rahatça dışarı atılmasını sağladığından iyileşmeyi hızlandırır. 
+Virüs, öksürük ve hapşırma ile yayılan damlacıklarla, ayrıca öpüşme ve tokalaşma gibi temaslar yoluyla da bulaşır. Bu nedenle hasta kişilere temas etmekten ve onlarla ortak eşya (havlu gibi) kullanmaktan sakınılmalıdır. Hasta olan kişi çevresindekilere hastalığı bulaştırmamak için eşyalarını ayırmalı, çok zorunlu olmadıkça dışarıya çıkmamalıdır. Neredeyse her virüste ölme olasılığı (Çok düşük olsa da) vardır. Bu yüzden gribi olabildiğince çabuk atlatmaya bakılmalıdır. Binlerce çeşit grip virüsü olduğu için ömür boyu kalıcı bağışıklık kazanılamaz.
+Aşı olması önerilen kişiler şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Makrofaj</DOCTITLE>
+<TEXT>
+
+Makrofajlar (Yunanca: "büyük-yiyiciler") dokularda bulunan patojenlerin, ölü gözelerin, hücresel kalıntıların ve vücuttaki yabancı maddelerin yutulmasından sorumlu hücrelerdir. Makrofajlar doğuştan bağışıklık sisteminin bir bölümüdürler.
+Köken.
+Makrofajlar monositlerden türer. Monositler kemik iliğinde büyür ve daha sonra kan dolaşımına girerler. Dolaşımdaki monositler enflamasyonun (iltihaplanma) kimyasal aracılarına (medyatörlerine) yanıt verirler. Bu aracılar (medyatörler) tarafından aktive edildiklerinde monositler endotelin içinden geçerler. Endoteli geçtikten sonra, monositlere makrofaj denir. (Bazı monositler özelleşmiş hücrelere farklılaşırlar, dendritik hücreler veya mikrogliya gibi).
+İşlev.
+Göze yutarlığı (fagositoz).
+Makrofajların ana görevi patojenlerin ve ölü dokuların ortadan kaldırılmasıdır. İkincisi, yani nekrotik debrisin ortadan kaldırılması, özellikle süreğen (kronik) yangı durumunda daha önemlidir. Yangının erken evreleri nötrofil granülositlerince kontrol edilir ki yaşlanmış nötrofil granülositler makrofajlarca sindirilir.
+Ayrıca makrofajlar sindirmek için yapılarına aldıkları patojenlerden parçalar (antijen) salarlar. Bu parçalar yardımcı T hücreleri tarafından tanınır ve yardımcı T hücreleri lenfokin salgılarlar ki bu B hücrelerini uyarır. Böylece B hücreleri o belli antijene özgü (ve böylece patojene özgü) antikor üretir ve salarlar. Bu noktada makrofajlar tekrardan rol alırlar, zira makrofajlar özellikle antikorların bağlanmış olduğu hücrelere karşı duyarlıdırlar. 
+Bir makrofaj bir patojeni içine aldığında, patojen bir kofulun içine alırlar daha sonra bu koful bir lizozomla birleşir. Lizozomun için, enzimler ve toksik oksijen bileşikleri ile patojen sindirilir. Fakat, bazı bakteriler, "Mycobacterium tuberculosis" gibi, bu sindirilme metodlarına karşı direnç geliştirmiştirlerdir. 
+Makrofajlarla yakından ilgili kimi hücre türleri:
+Hastalıklardaki önemi.
+Gözeyutarlığındaki rolleri nedeniyle makrofajlar bağışıklık sisteminin birçok hastalığında yer alırlar. Örneğin, granülomların oluşumunda yer alırlar.
+Genellikle nadir olarak etkisiz fagositoz ve makrofaj fonksiyonuna dair bazı bozukluklar tanımlanmıştır.
+Aterosklerozun artan plak lezyonlarının oluşumunda en önemli ve çoğunlukta olan hücreler makrofajlardır. 
+Grip ile savaşırken, makrofajlar boğaza gönderilir. Fakat, grip virüsünü yok edebilecek öldürücü T hücreleri bulunana kadar, makrofajlar yarardan çok zarar sağlar. Grip virüsü bulaşmış boğaz hücrelerini yok etmenin yanı sıra virüs bulamamış komşu hücreleri de yok ederler. 
+Ayrıca makrofajlar İnsan Bağışıklık Yetmezliği Virüsü (HIV - "Human Immunodeficiency Virus") enfeksiyonunda da rol alırlar. T hücreleri gibi, makrofajlara da HIV bulaşabilir ve hatta devam eden virüs replikasyonunun deposu olarak vücutta dolaşabilirler. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Virüsler  (EBA)</DOCTITLE>
+<TEXT>
+
+Virüslerin hikâyesi, 1886’da tütün mozaik hastalığının etkenini araştırmakta olan Adolf Mayer ile başlar. Mayer, tütün bitkisinin büyümesine engel olan ve yaprakların benekli hâle gelmesini sağlayan bu hastalığın bulaşıcı olduğunun farkına vardı. Hasta yapraklardan aldığı bitkinin öz suyunu inceledi ancak karşısına düşündüğü gibi bir mikrop çıkmadı. Mayer’e göre bunun nedeni, hastalığa neden olan mikrobun mikroskopta görülemeyecek kadar küçük olmasıydı. 
+Yaklaşık 10 yıl sonra, Dimitri Ivanowsky, bu hastalığın sırrını çözmek için bakterileri geçirmeyecek kadar küçük bir filtre üretti. Hasta yapraklardan aldığı öz suyu bu filtreden geçiren Ivanowsky, bakterilerin filtrede kaldığını ve filtreden geçen öz suyun artık hastalık yapmayacağını umuyordu. Ancak sonuç çok farklıydı. Filtreden geçen bitki öz suyu hâlâ sağlıklı bir bitkide hastalığa neden olabiliyordu. Ivanowsky’e göre hastalığa neden olan şey ya çok küçük bir bakteri ya da filtreden geçebilen zararlı bir maddeydi. 
+1897’de Martinus Beijerinck, bitkilerde hastalık yapan bu etkenin çoğaldığını ortaya koyunca hastalığa neden olan şeyin zararlı bir madde olma ihtimali ortadan kalktı. Yalnızca bitkilerle temas ettiğinde çoğalabilen bu etken, deney tüplerinde ya da yapay besin ortamlarında çoğalamıyordu. Bakterilerin tersine, yapay ortamlarda üretilemeyen virüsler aynı zamanda bakterileri öldüren yoğun alkol çözeltisi ile de öldürülemiyordu. Beijerinck, hastalık etkeninin bakteriden daha küçük basit bir partikül olduğu sonucuna vardı. 1935’de Wendell Stanley (Resim 184) bugün bildiğimiz tütün mozaik virüsünü kristalize ettiğinde Beijerinck’in düşüncesi de doğrulanmış oldu. 
+a. Virüs Nedir? 
+Virüsler çapı 20 nm’yi bulan, en küçük biyolojik varlıklardan biridir (Resim 185). Bazen biyolojik organizmalar olarak adlandırılsalar da hiçbir canlı âlemi altında sınıflandırılmayan ayrı bir gruptur. Herhangi bir organelleri ve metabolik aktiviteleri olmamasına rağmen protein kılıfı içinde DNA ya da RNA’ya sahip bu varlıkların canlı olup olmadıkları önemli tartışma konularından biridir. Virüsler, ancak canlı bir hücrenin içinde canlılık özelliği gösterip bu hücreden ayrıldığı zaman pasif duruma geçen varlıklardır. 
+b. Virüslerin Çoğalması 
+Virüsler zorunlu hücre içi parazitidir. Yani metabolik aktivitelerini gerçekleştirmek için canlı hücrelere ihtiyaç duyar. Bu ihtiyacın en önemli nedeni üremedir. Virüs konakçı hücreye girdikten sonra DNA’sını eşlemek için konakçının nükleotit ve enzimlerini, protein kılıfı oluşturmak için de hücrenin diğer kaynaklarını kullanır. Yeni virüsler konakçıyı terk etmeye hazırdır. DNA ve protein kılıf (kapsid) bir araya geldiğinde yeni virüsler oluşur ve hücreyi terk ederler (Resim 186). 
+c. Virüsler ve Sağlığımız 
+Uçuk (Herpes) 
+Uçuk, uçuk virüsünün (Herpes simplex-Herpes simpleks) neden olduğu ve genellikle dudak, ağız ve burun çevresinde görülen bulaşıcı bir hastalıktır (Resim 187). Uçuk virüsü ile insan genellikle ilk defa küçükken (0-4 yaş) tanışır. Uçuğu olan aile bireylerinden birinin öpmesi ya da temas etmesi sonucunda uçuk virüsü vücuda girer. Sinir hücrelerine yerleşen bu virüs bağışıklık sisteminin zayıfladığı durumlarda etkin hâle geçer. Uçuğun ilerlemesini durdurmak ilaç tedavisi ile mümkündür. 
+Kuduz 
+Virüslerin yol açtığı, sıklıkla hayvanlardan insana bulaşan, beyni ve omuriliği etkilediği için ölümle sonuçlanabilen bir hastalıktır. Kuduza (Rabies virus-Rabiyes virüs) neden olan virüs, memelilerin ve kuşların (sıcak kanlı hayvanlar) hücrelerinde yaşayabilir (Resim 188). Kuduz bir hayvanın insanı ısırmasıyla bulaşır. Kurt, tilki, yarasa, tavşan gibi hayvanlarda kuduz virüsü oldukça yaygındır. Bu yabani hayvanlarda yaygın bir şekilde bulunmasına rağmen, virüsün insanlara bulaşmasına neden olan hayvanlar sıklıkla kedi ve köpek gibi evcil hayvanlardır. Bu hayvanların salyasında bulunan kuduz virüsü, hayvanın ısırmış olduğu yerdeki yaradan içeriye girer. Daha sonra yavaş yavaş ilerler ve beyne ulaşır. 
+Hastalığın ancak kuluçka döneminde uygulanan koruyucu tedavisi oldukça başarılı sonuçlar verir. Bu yüzden kuduz artık eskisi gibi korkutucu hastalıklar arasında değildir. Hastalığın bulaşmış olduğu düşünülen kişilere, vakit kaybedilmeden aşı ya da bağışıklık serumu uygulanır. Koruyucu tedavinin amacı budur. Etkisi zayıflatılmış kuduz virüslerinin hayvanlara aşılanmasıyla ve hayvanların kan serumunun insanlara şırınga edilmesiyle hayvanın kanında bulunan antikorlar kuluçka döneminde virüsleri öldürerek insanları ölümden kurtarır. 
+Hepatit B 
+Hepatit B, karaciğer iltihabı anlamına gelen hepatit hastalığının etkeni olan virüslerden bir tanesidir (Resim 189). Meydana getirdiği hastalık, çok ağır sonuçlara neden olabilmektedir. Bu virüs esas olarak karaciğere yerleşir, orada çoğalır ve zamanla karaciğeri tahrip edecek boyutlara ulaşabilir. Hepatit B, kan yoluyla ve sıklıkla yakın temasla (kan dışındaki vücut sıvıları: tükürük, ter, cinsel organ sıvıları) bulaşır. Derideki bir çatlak ya da açık yara ile temas eden bir damla kan ya da tükürük bile hastalığın bulaşması için yeterli olabilmektedir. 
+Virüs vücuda girmemişse Hepatit B korunması kesinlikle mümkün olan bir hastalıktır. En etkili korunma yolu da aşılanmadır. Aşılanmanın koruyuculuğu %90-95’tir. Ancak aşılama taşıyıcılara veya hepatit hastası olanlara yapılamaz. 
+Grip 
+Grip virüsleri, genetik materyali RNA olan üst solunum yollarına etki eden virüslerdir. Grip, virüs enfeksiyonu olduğu için antibiyotikler tedavide işe yaramaz çünkü antibiyotikler yalnızca bakterilere etki eder. Yaklaşık bir hafta içinde hastalık kendiliğinden iyileşecektir ancak doktora gitmek ve 3-5 gün iyice dinlenmek gereklidir. Bol sıvı tüketilmesi de salgıların rahatça dışarı atılmasını sağladığından iyileşmeyi hızlandırır. 
+Virüs kaynaklı (viral) hastalıkların ve yeni virüs türlerinin ortaya çıkmasında farklı süreçler etkili olmaktadır. Bunlar arasında belki de en hızlı gerçekleşeni mevcut virüslerin değişime uğramasıdır. Genetik materyali RNA olanların daha kolay değişime uğradığı, bununla beraber DNA virüslerinde de değişim sayısının çok düşük olmadığı görülmektedir. Bu değişimler, aşı ile kazanılan yeni virüsler için etkisiz kalmasına neden olmaktadır. Aşı olsak da hasta olma ihtimalimizin yüksek olmasının nedeni, aşının bir önceki yılın virüslerine karşı geliştirilmiş olmasından kaynaklanmaktadır. 
+AIDS / HIV 
+HIV (İnsan İmmün Yetmezlik Virüsü) insanlarda bağışıklık sistemini bozan AIDS’e neden olan bir virüstür (Resim 190). Bağışıklık sistemi bizi bakteri, virüs gibi mikroplardan ve kanser gibi hastalıklardan korur. HIV virüsü vücudun savunma gücünü zayıflatarak yıkmaktadır. Bu yüzden normal koşullarda tedavi edilebilen hastalıklar, vücudun savunma gücü zayıfladığından tedavi edilemez. 
+AIDS virüsü insandan insana; kan ve kan ürünlerinden, cinsel temastan ve anneden - bebeğe geçiş olmak üzere üç yolla geçer. Henüz kesin bir aşı ve tedavisi geliştirilememiş olan, ölümle sonuçlanan ve gençler arasında büyük bir yaygınlık gösteren bu hastalıktan korunmanın tek yolu bilgi sahibi olmaktır. HIV birçok vücut sıvısında bulunmasına rağmen sadece kan, kadın ve erkeğin cinsel salgıları ile bulaşabilmektedir. Dokunmak, el sıkışmak, sarılmak, aynı yerde oturmak, aynı banyoyu ve tuvaleti paylaşmak, aynı tabağı, bardağı, çatalı, kaşığı kullanmak, aynı giysileri giymekle HIV bulaşmamaktadır. 
+ç. Virüs canlı mı cansız mı? 
+Virüslerin canlı olup olmadığı hâlâ devam eden bir tartışma konusudur. Canlı organizmalar gibi protein ve genetik materyal içerirken, diğer taraftan metabolik aktivitelerinin olmaması onları canlı olarak değerlendirmemize engel olur. 
+Virüsler beslenemez, büyüyemez, besin sindirimi ve oksijen kullanımını gerçekleştiremez. Aslında virüsler bağımsız bir organizma olarak aktif değillerdir. Virüsler yalnızca konakçı olarak adlandırılan canlı bir hücre içinde üreyebilir. Konakçılar, virüslerin içinde yaşadığı canlı organizmalardır. 
+Her virüs ancak belirli konakçı türlerinde canlılığa ait özellikler gösterebilir. Virüs, konakçısını hücre zarındaki proteinler yardımıyla tanır. Bazı virüslerin konakçı sınırı genişken bazıları yalnızca bir tür canlıya özgüdür. Örneğin kuş gribi virüsü hem insanları hem kanatlıları; kuduz virüsü rakun, kokarca. 
+Köpek ve insan gibi memelileri etkiler. Bazı virüsler ise dokulara özeldir. Örneğin grip virüsü yalnızca üst solunum yollarını etkilemektedir. 
+AIDS, kazanılan bağışıklık sistemi bozukluğu sendromu anlamına gelen Acquired Immune Deficiency Syndrome’nun kısaltılmışıdır. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

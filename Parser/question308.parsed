@@ -1,0 +1,9 @@
+1	Biyokütle	Biyokütle	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	enerjisinin	enerji	Noun	Noun	A3sg|P3sg|Gen	7	SUBJECT	_	_
+3	ne	ne	Adj	Adj	_	4	OBJECT	_	_
+4	gibi	gibi	Postp	Postp	PCNom	7	MODIFIER	_	_
+5	avantajları	avantaj	Noun	Noun	A3pl|Pnon|Acc	7	OBJECT	_	_
+6	_	var	Verb	Verb	_	7	DERIV	_	_
+7	vardır	_	Verb	Verb	Caus|Pos|Imp|A2sg	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

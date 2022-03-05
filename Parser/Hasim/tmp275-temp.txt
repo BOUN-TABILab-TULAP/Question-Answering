@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Cephe cephe+Noun+A3sg+Pnon+Nom Cephe+Noun+Prop+A3sg+Pnon+Nom
+yağışları yağ+Verb+Pos^DB+Noun+Inf3+A3pl+Pnon+Acc yağ+Verb+Pos^DB+Noun+Inf3+A3pl+P3sg+Nom yağ+Verb+Pos^DB+Noun+Inf3+A3pl+P3pl+Nom yağ+Verb+Pos^DB+Noun+Inf3+A3sg+P3pl+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+yükselim yük+Noun+A3sg+Pnon+Nom^DB+Adj+Related^DB+Verb+Zero+Pres+A1sg yük+Noun+A3sg+Pnon+Nom^DB+Adj+Related^DB+Noun+Zero+A3sg+P1sg+Nom yük+Noun+A3sg+Pnon+Nom^DB+Adj+Related^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg yükselim+Noun+A3sg+Pnon+Nom
+yağışları yağ+Verb+Pos^DB+Noun+Inf3+A3pl+Pnon+Acc yağ+Verb+Pos^DB+Noun+Inf3+A3pl+P3sg+Nom yağ+Verb+Pos^DB+Noun+Inf3+A3pl+P3pl+Nom yağ+Verb+Pos^DB+Noun+Inf3+A3sg+P3pl+Nom
+arasında ara+Noun+A3sg+P3sg+Loc
+nasıl nasıl+Adverb nasıl+Adj
+farklar fark+Noun+A3pl+Pnon+Nom fark+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

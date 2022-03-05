@@ -1,0 +1,44 @@
+Poincaré metrik
+Matematikte, Henri Poincaré adını Poincaré metrik, sürekli olumsuz bir kavis iki boyutlu bir yüzey açıklayan metrik tensör olduğunu. Genellikle hiperbolik geometri veya Riemann yüzeyleri hesaplamaların çeşitli kullanılan doğal bir ölçümdür.
+Yaygın iki boyutlu hiperbolik geometride kullanılan üç eşdeğer temsilleri vardır. Bir üst yarı-düzlem üzerinde hiperbolik alan bir model tanımlama, Poincaré yarı düzlem modelidir. Poincaré Disk modeli ünitesi diskteki hiperbolik alanı için bir model tanımlar. Disk ve üst yarı düzlem bir konformal harita ile ilişkilidir ve izometriler Möbius dönüşümlerinin tarafından verilmektedir. Üçüncü temsil q-analoglarının için ilişkileri bazen ifade delinmiş disk üzerinde olduğunu. Bu çeşitli formları aşağıdaki incelenir.
+Riemann yüzeyleri üzerinde ölçümleri bakış.
+Karmaşık düzlemde bir metrik genellikle şeklinde ifade edilebilir
+λ formula_2 ve formula_3 gerçek bir pozitif fonksiyonudur. Karmaşık düzlemde bir eğri γ uzunluğu dolayısıyla verilir
+Kompleks düzlemin bir alt alanı ile verilir
+burada formula_6 birim formu oluşturmak için kullanılan harici bir üründür. metrik belirleyici formula_7 eşittir, yani determinant kare kökü formula_8 olduğunu. Uçakta Öklid hacim formu formula_9 ve bu yüzden birine sahiptir
+Bir fonksiyon formula_11 eğer metrik potansiyel olduğu söyleniyor
+Laplace-Beltrami operatörü tarafından verilir
+Metrik Gauss eğriliği verilir
+Bu eğrilik Ricci skaler eğrilik bir buçuk katıdır.
+İzometriler açıları ve ark uzunlukları korumak. Riemann yüzeyleri üzerinde, izometriler koordinat değişikliklere aynıdır: yani, Laplace-Beltrami operatörü ve eğrilik hem izometrileri altında değişmezdir. Bu durumda, örneğin, "S" olduğu bir Riemann mt formula_15 yüzey ve "t" izin mt formula_16 bir Riemann yüzeyi olabilir. Sonra harita
+Bu konformal ve eğer sadece eğer ve formula_18 bir izometridir
+Burada, harita konformal olan gereksinimi şey deyimi daha fazladır
+yani,
+Poincaré uçakta Metrik ve hacim elemanı.
+Poincaré yarı düzlem modelinde Poincaré metrik tensör üst yarı düzlem H olarak verilmiştir
+nerede formula_23 yazmak
+Bu metrik tensör SL (2, R) etkisi altında değişmez. Biz yazarsanız Yani,
+formula_25 için o zaman biz dışarı çalışabilirsiniz
+formula_27 için.
+Metrik diğer bir ilginç biçimi, çapraz oranı açısından verilebilir. Bir dört noktalı formula_28 ve compactified kompleks düzlem formula_30 içinde formula_29 göz önüne alındığında, çapraz oranı ile tanımlanır
+Bu durumda, metrik verilir
+Burada, formula_33 ve formula_34 formula_35 ve formula_36 katılmadan jeodezik, gerçek sayı hattı üzerinde, bitiş noktaları vardır. Bu formula_35 formula_33 ve formula_36 arasında yer alır, böylece bu numaralandırılmıştır.
+Bu metrik tensör için geodezikler gerçek eksen (kökeni gerçek ekseni üzerinde yarım çevrelerde) ve reel eksende biten düz dikey çizgiler dik dairesel yay bulunmaktadır.
+Diske uçağın konformal haritası.
+üst yarı düzlemi Möbius dönüşümü ile birim diske conformally eşlenebilir
+nerede "w" üst yarı düzlemde nokta "z" karşılık birim diskte noktasıdır. Bu eşleme, sabit "z" 0 üst yarı düzlemde herhangi bir nokta olabilir; Bu diskin merkezine eşleştirilir. Sabit reel sayı formula_43 formula_42 birimi diskin kenarına gerçek eksen formula_41 harita rasgele bir sabit miktarda diski döndürmek için kullanılabilir.
+kurallı haritalama
+"i" diskin altına diskin merkezi ve "0" alır.
+Poincaré diskte Metrik ve hacim elemanı.
+Poincaré Disk modelinde Poincaré metrik tensör açık birim, disk formula_45 verilmiştir
+hacim elemanı tarafından verilir
+Poincaré metrik verilir
+formula_49 için
+Bu metrik tensör için geodezikler olan son noktalar diskin sınırına dik olan dairesel yay bulunmaktadır.
+Patlak bir disk modeli.
+Bir diske üst yarı düzlemin ikinci ortak haritalama q-eşleme olduğunu
+burada "q" nome ve τ yarım-oranıdır. Önceki bölümlerin gösterimde, τ üst yarı-düzlem formula_51 koordinat olduğunu. değer "q" = 0 haritanın görüntüde değil çünkü haritalama, delinmiş diske olduğunu.
+Üst yarı düzlemde Poincaré metrik q-disk üzerindeki bir metrik neden olur
+metrik potansiyelidir
+Schwarz lemması.
+Poincaré metrik mesafe azalan harmonik fonksiyonlar yer almaktadır. Bu Schwarz-Alhfors-Pick teoremi olarak adlandırılan Schwarz lemmasının, bir uzantısıdır.

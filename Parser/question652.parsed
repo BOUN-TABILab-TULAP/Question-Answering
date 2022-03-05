@@ -1,0 +1,14 @@
+1	Ormanların	orman	Noun	Noun	A3pl|Pnon|Gen	5	SUBJECT	_	_
+2	tahrip	tahrip	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT	_	_
+3	_	et	Verb	Verb	_	4	DERIV	_	_
+4	_	_	Verb	Verb	Pass|Pos	5	DERIV	_	_
+5	edilmesi	_	Noun	NInf	A3sg|P3sg|Nom	6	CLASSIFIER	_	_
+6	sonucu	sonuç	Noun	Noun	A3sg|P3sg|Nom	7	OBJECT	_	_
+7	_	oluş	Verb	Verb	Pos	8	DERIV	_	_
+8	oluşan	_	Adj	APresPart	_	9	MODIFIER	_	_
+9	bozkırlara	bozkır	Noun	Noun	A3pl|Pnon|Dat	12	DATIVE.ADJUNCT	_	_
+10	ne	ne	Adv	Adv	_	12	MODIFIER	_	_
+11	_	de	Verb	Verb	_	12	DERIV	_	_
+12	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

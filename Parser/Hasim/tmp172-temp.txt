@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Hindistan Hindistan+Noun+Prop+A3sg+Pnon+Nom
+hangi hangi+Adj
+sistemle sistem+Noun+A3sg+Pnon+Ins
+yönetilir yönet+Verb^DB+Verb+Pass+Pos+Aor+A3sg yönet+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,51 @@
+Bisiklet ve motosiklet geometrisi
+Bisiklet ve motosiklet geometri, belirli bir bisiklet yapılandırmasını tanımlayan anahtar ölçümler (uzunluk ve açılar) topluluğudur. Bunların başında eksen açısı, çatal ofset ve iz direksiyon, dingil mesafesi vardır. Bu parametreler, bir bisiklet nasıl işleyeceğini üzerinde büyük etkiye sahiptir.
+Dingil mesafesi.
+Dingil mesafesi, ön ve arka tekerleklerin merkezleri (ya da zemin temas noktaları) arasında "yatay" mesafedir. Dingil ofset arka şasi boy, direksiyon ekseni açısı ve çatal bir fonksiyonudur. Bu otomobil ve trenler için kullanılan bir terimdir dingil mesafesi benzerdir.
+Dingil mesafesi kombine bisiklet ve binici kütle merkezinin yüksekliği ile birlikte bir bisiklet boyuna istikrar üzerinde önemli bir etkiye sahiptir. Kısa bisiklet çok daha uygun Wheelies ve stoppies gerçekleştirmek içindir.
+Eksen açısını Direksiyon.
+Ayrıca tekerlek açısı denilen direksiyon ekseni açısı, direksiyon ekseni sözleşme bağlı yatay veya dikey ile yaptığı açıdır. Direksiyon ekseni ekseni olan direksiyon mekanizması (çatal, gidon, ön tekerlek, vb) miller hakkında. Direksiyon ekseni açısı genellikle kafa tüp açısını eşleşir.
+"Bisiklet" olarak direksiyon ekseni açı baş açısı denir ve yatay ölçülür. A 90 ° kafa açısı dikey olacaktır. Örneğin, Lemond sunmaktadır:
+Nedeniyle ön çatal süspansiyon, yol Bisikletleri aksine, modern Dağ Bisikletleri, onlar (çerçeve boyutuna bağlı olarak) gibi düşük ° 68 olarak olabilir ancak genellikle yaklaşık 70 °, tembel kafa tüp açıları sahip olma eğilimindedir.
+En az bir üretici direksiyon ekseni açısının değiştirilmesi etkinleştirirseniz pazar sonrası kulaklıklar sunuyor. Başka hepsi aynı kaldığında, bu bisikletin izi değiştirir.
+"Motosiklet" olarak direksiyon ekseni açı eğim açısı denir ya sadece komisyon ve dikey ölçülür edilir. A 0 ° eğim dikey olacaktır. Örneğin, Moto Guzzi sunmaktadır:
+Çatal ofset.
+Ofset çatal Ön tekerlek merkezi direksiyon ekseninden "dik" mesafedir.
+"Bisiklet" olarak çatal ofset da "çatal tırmık" denir. Otoban bisiklet çatal, bir ofset var.
+ya da mini borusuna bir açıyla taç çatal monte edilmesi sayesinde, kendi alt uçlarında dikey sekme ekleyerek, çatal eğri öncesinde düzelticiden oluşmaktadır çatal taç çatal bıçak yuva Mahsup uyguladığı edilebilir ofset. eğrileri ile çatal gelişimi George Singer atfedilir.
+Onlar üçlü içine monte olarak teleskopik çatal tüpleri ile "motosiklet", ofset çatal çatal tüpleri (genellikle 0 derece olarak ölçülen) bir "üçlü ağaç tırmık" ekleyerek, bir üçlü ağacında "offset" ya tarafından uygulanabilir ağaç, ya da bu ikisinin bir kombinasyonu olabilir. Böyle bağlantıyı firar veya bağlantı çatal lider olarak diğer daha az yaygın motosiklet çatal, bağlantı kollarının uzunluğuna ofset uygulamak yapabilirsiniz.
+Çatal uzunluğu.
+Bir çatal uzunluğu aks merkezinin taşıyan alt çatal taç gelen mini tüp paralel ölçülür.
+Trail.
+Trail, ya da pudra, direksiyon ekseni ön tekerlek yere temas nerede zemin kestiği yerden "yatay" mesafedir. ön tekerlek yere temas noktası zemin ile (bisiklet arkasına doğru) direksiyon ekseni kavşak arkasında ise ölçüm "olumlu" olarak kabul edilir. Böyle iki-kütle-paten bisiklet ve Python Lowracer olarak, birkaç olumsuz iz olsa çoğu bisiklet, olumlu iz var.
+Wilson ve Papodopoulos mekanik iz daha önemli ve bilgilendirici değişken olabileceğini iddia rağmen her ikisi de çok neredeyse aynı şeyi tarif rağmen Trail, sık sık bisiklet kullanım özellikleri önemli bir belirleyicisi olarak kabul edilmektedir ve bazen bisiklet üreticilerinin geometri verileri listelenen .
+Rota direksiyon ekseni açısı, ofset çatal ve tekerlek büyüklüğünün bir fonksiyonudur. Bu ilişki, bu, aşağıdaki formül ile tarif edilebilir:
+formula_3 tekerlek yarıçapı olduğu, formula_4 yatay, formula_5 ölçülen bisiklet kafa açısı dikey ölçülen motosiklet eğim açısı olduğunu ve formula_6 ofset çatal olduğunu. Trail, tekerlek boyutunu artırarak azalan veya kafa açısı gevşeterek veya ofset çatal azaltarak arttırılabilir. Trail çatal ofset arttıkça, kafa açısı artar (dik olur) olarak azalır, ya da tekerlek çapı azaldıkça.
+Motosikletçiler açısını komisyon ile ilgili olarak iz konuşmak eğilimindedir. İz Büyük komisyon açısını büyük. Talaş açısı arttıkça, kafa açısı azaldıkça, bisikletle, unutmayın.
+Bisiklet eğilir veya dönüslüler olarak iz değişebilir. Geleneksel geometri durumunda, iz azalır yalın yönünde bisiklet eğilir ve yükleyiciler (ve dingil mesafesi artar yere temas noktaları ve göbekler arasındaki mesafeyi ölçerek varsa). Süspansiyon, örneğin fren tepki olarak aktive iz olarak da değişebilir. Teleskopik çatal frenleme, iz ve dingil mesafesi hem düşüş esnasında yük transferi nedeniyle sıkıştırmak gibi. En az bir motosiklet anda, MotoCzysz C1, 101 mm 89 mm arasında ayarlanabilir iz bir çatal vardır.
+Mekanik iz.
+Mekanik iz direksiyon ekseni ve ön tekerlek ve şasi arasındaki temas noktası arasında "dik" mesafedir. Aynı zamanda, "normal iz" şu şekilde de ifade edilebilir.
+Bisiklet direksiyon bilimsel anlayışı eksik olmasına rağmen, mekanik iz kesinlikle bisikletin kullanım özellikleri belirleyen en önemli değişkenlerden biridir. Daha yüksek mekanik iz istikrarlı böylece daha subjektif "hayır eller" ve binmek için bir bisikletleri kolaylaştırmak bilinmektedir, ancak mekanik iz düşükse yetenekli ve uyarı biniciler daha yol kontrole sahip olabilir.
+Tekerlek flop.
+Tekerlek flop bisiklet veya motosiklet yüzünden gidon döndürüldüğü zaman üzerinde ön tekerlek "flopping" beklenenden daha fazla açmak eğilimindedir hangi direksiyon davranışı ifade eder. Gidonlar away "dosdoğru" konumundan döndürüldüğünde olarak Tekerlek flop bir bisiklet ya da motosiklet ön ucunun düşürerek neden olur. Bu düşürücü olay aşağıdaki denkleme göre oluşur:
+burada:
+Tekerlek flop bir bisiklet ya da motosiklet ön ucunun düşürücü gerektirdiğinden, yerçekimi nedeniyle kuvvet Gidon rotasyon dönme hızının artması ile ve gidonun ek binici girdisi olmadan devam etmek için neden eğiliminde olacaktır. Gidon döndü sonra, binici geri ileriye pozisyona getirmek ve özgün yüksekliğe kadar bisiklet veya motosiklet ön sonunu getirmek için gidon tork uygulamak gerekiyor. o başlatmak veya ön tekerleğin yönünü değiştirerek hızlandırmak için gerekli tork halini karşı sonuçlanır, çünkü ön tekerleğin dönme atalet tekerlek flop etkisi şiddetini azaltacaktır.
+Yukarıda listelenen denklemde, ileriye konumuna geri getirmek ve gidonu aracın eğilimini artırmak için gerekli tork artacak, bisiklet ya da motosiklet üzerinde tekerlek flop faktörünü artacak kafa açısı iz artırılması ve / veya azaltılması göre Bir eğrinin off line aniden saptırmak için. Ayrıca, her iki araç, binici ve kargo kütlesini artırarak veya kitle ileri merkezini kaydırmak için ağırlık oranını değiştirerek aracın ön tekerleği ile doğan ağırlığı artan, tekerlek flop etkisi şiddetini artıracaktır. Aracın hızını ve tekerleğin dönme hızını arttırarak ön tekerleğin dönüş ataletine artan tekerlekli flop etkisine karşı eğiliminde olacaktır.
+Tekerlek flop bir miktar genellikle arzu olarak kabul edilir. Dergisi Bisiklet Quarterly yazar Jan Heine "çok az tekerlek flop ile bir bisiklet gidon girişlerine kendi reaksiyonlarda halsiz olacak. Çok fazla tekerlek flop ile bir bisiklet, düşük ve orta hızlarda çizgisini kapalı saptırmak eğiliminde olacaktır." Diye yazdı
+Değişiklikler.
+Çatallar, böylece bisikletin geometrisi değiştirilerek, değiştirilmiş veya değiştirilebilir.
+Çatal uzunluğu değiştirme.
+Süspansiyonuna katı geçiş, örneğin, çatal uzunluğu, artan bir bisikletin ön yükseltir ve dolayısı ile de başlığı açısını azaltır. Komisyon ters yönde ölçülür beri çatal uzatma, bir motosiklet komisyon üzerinde ters etkiye sahip olacaktır.
+Dikkat etmeniz gereken bir kural çatal uzunluğunda 10 mm değişikliği direksiyon ekseni açısı yarım derece değişikliği verir.
+Değişen çatal ofset.
+Bir çatal sapmaya göre artan iz azaltır ve bıçakları uzatma olmadan varolan çatal üzerinde yapılan ise, çatal kısaltır.
+Yasal gereklilikler.
+North Dakota (ABD) devlet aslında üzerine bir motosiklet minimum ve üretimi, satışı "için komisyon ve iz maksimum gereksinimlerini ve güvenli bir şekilde çalışmasını var
+Kamu karayolları. "
+"4. Tüm motosiklet, üç tekerlekli motosikletler hariç aşağıdaki karşılaması gerekir
+Ön tekerlek geometri ilişki içinde özellikleri:
+Üreticinin teknik her biri için özel komisyon ve iz içermelidir
+motosiklet veya motosiklet sınıfı ve terimleri "komisyon" ve "iz" tanımlanmış olmalıdır
+kurallara yönetmeni bölüm 28-32 uyarınca kabul etti. "
+Diğer yönleri.
+Bu tür ergonomi veya amaçlanan kullanımı gibi geometri diğer yönleri için, Bisiklet çerçeve makalesine bakın. Motosikletler için diğer ana geometrik parametreler koltuk yüksekliği ve göreli ayak peg ve gidon yerleştirme vardır.

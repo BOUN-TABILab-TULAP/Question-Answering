@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çiçekli çiçek+Noun+A3sg+Pnon+Nom^DB+Adj+With Çiçek+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With Çiçekli+Noun+Prop+A3sg+Pnon+Nom
+bitkilerde bitki+Noun+A3pl+Pnon+Loc
+döllenmeden dölle+Verb^DB+Verb+Pass+Pos^DB+Adverb+WithoutHavingDoneSo dölle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Abl
+sonra sonra+Adverb sonra+Postp+PCAbl sonra+Noun+A3sg+Pnon+Nom
+gerçekleşen gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+PresPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+PresPart
+olaylar olay+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl olay+Noun+A3pl+Pnon+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

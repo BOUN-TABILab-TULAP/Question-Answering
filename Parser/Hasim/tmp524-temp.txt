@@ -1,0 +1,22 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Hem hem+Adverb hem+Conj
+erkek erkek+Adj erkek+Noun+A3sg+Pnon+Nom
+hem hem+Adverb hem+Conj
+dişi diş+Noun+A3sg+P3sg+Nom diş+Noun+A3sg+Pnon+Acc dişi+Noun+A3sg+Pnon+Nom dişi+Adj
+üreme üre+Noun+A3sg+P1sg+Dat üre+Verb+Neg+Imp+A2sg üre+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ürem+Noun+A3sg+Pnon+Dat
+organı organ+Noun+A3sg+P3sg+Nom organ+Noun+A3sg+Pnon+Acc
+bulunduran bulun+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+canlılalara canlılalara+Noun+Prop+A3sg+Pnon+Nom
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

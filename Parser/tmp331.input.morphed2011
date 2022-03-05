@@ -1,0 +1,74 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Fotosentezin	fotosentez	+Noun+A3sg+Pnon+Gen
+Fotosentezin	fotosentez	+Noun+A3sg+P2sg+Nom
+
+yoğun	yok	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+yoğun	yok	+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+yoğun	yoğun+Adj
+
+olarak	ol	+Verb+Pos^DB+Adverb+ByDoingSo
+
+gerçekleştiği	gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+PastPart+P3sg
+gerçekleştiği	gerçek+Adj^DB+Verb+Become+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+gerçekleştiği	gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+PastPart+P3sg
+gerçekleştiği	gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+gaz	gaz	+Noun+A3sg+Pnon+Nom
+
+alış	al	+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+alış	alış+Verb+Pos+Imp+A2sg
+
+verişinin	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Gen
+verişinin	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Gen
+
+yapıldığı	yap	+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg
+yapıldığı	yap	+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+yaprağın	yaprak	+Noun+A3sg+P2sg+Nom
+yaprağın	yaprak	+Noun+A3sg+Pnon+Gen
+
+yassılaşmış	yassı+Adj^DB+Verb+Become+Pos+Narr+A3sg
+yassılaşmış	yassı+Adj^DB+Verb+Become+Pos^DB+Adj+NarrPart
+
+ince	ince	+Adj
+
+ve	ve	+Conj
+
+yeşil	yeşil+Adj
+
+kısmına	kısım+Noun+A3sg+P3sg+Dat
+kısmına	kısım+Noun+A3sg+P2sg+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilmektedir	ver	+Verb^DB+Verb+Pass+Pos+Prog2+A3sg+Cop
+verilmektedir	ver	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

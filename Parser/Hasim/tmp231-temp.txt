@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyanın dünya+Noun+A3sg+Pnon+Gen dünya+Noun+A3sg+P2sg+Gen
+kendi kendi+Pron+Reflex+A3sg+P3sg+Nom
+etrafında etraf+Noun+A3sg+P3sg+Loc etraf+Noun+A3sg+P2sg+Loc
+dönüşü dön+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Nom dön+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Acc
+nelere ne+Pron+Ques+A3pl+Pnon+Dat
+yol yol+Noun+A3sg+Pnon+Nom yol+Verb+Pos+Imp+A2sg
+açar aç+Verb+Pos+Aor+A3sg aç+Verb+Pos^DB+Adj+AorPart açar+Adj
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,42 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Akarsu	Akarsu	+Noun+Prop+A3sg+Pnon+Nom
+Akarsu	akarsu	+Noun+A3sg+Pnon+Nom
+
+üzerinde	üzer+Noun+A3sg+P2sg+Loc
+üzerinde	üzer+Noun+A3sg+P3sg+Loc
+
+hidroelektrik	hidroelektrik	+Noun+A3sg+Pnon+Nom
+
+santral	santral	+Noun+A3sg+Pnon+Nom
+
+kurulurken	kur	+Verb^DB+Verb+Pass+Pos+Aor^DB+Adverb+While
+
+nelere	ne	+Pron+Ques+A3pl+Pnon+Dat
+
+dikkat	dikkat	+Noun+A3sg+Pnon+Nom
+
+edilmelidir	et	+Verb^DB+Verb+Pass+Pos+Neces+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

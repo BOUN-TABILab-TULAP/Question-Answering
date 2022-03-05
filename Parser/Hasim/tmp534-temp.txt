@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Canlılar can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Verb+Zero+Pres+A3pl can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Verb+Zero+Pres+A3pl Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom canlı+Noun+A3pl+Pnon+Nom canlı+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl Canlılar+Noun+Prop+A3sg+Pnon+Nom
+beslenmeye besle+Verb^DB+Verb+Pass+Neg+Opt+A3sg besle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+ihtiyaç ihtiyaç+Noun+A3sg+Pnon+Nom
+duyarlar duy+Verb+Pos+Aor+A3pl duy+Verb+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl duy+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,388 @@
+Question: Süper dişi sendromuna sahip bireylerin genotipi nasıldır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gen</DOCTITLE>
+<TEXT>
+
+Gen, bir kalıtım birimi. Bir kromozomun belirli bir kısmını oluşturan nükleotid dizisidir. Popüler ve gayrıresmi kullanımda gen sözcüğü, "ebeveynden çocuklarına geçen belirli bir karakteristiği taşıyan biyolojik birim" anlamında kullanılır. Kromozomun kesitleri olan genler birbirinden çok farklı işlevlerde ve büyüklüklerde (uzunluklarda) olabilirler. Genlerin büyüklükleri ve işlevleri her zaman doğru orantılı değildir.
+Gen, genom dizisinde yeri tanımlanabilen, transkripsiyonu yapılan, düzenleyici ve/veya fonksiyonel bölgeleri olan bir bölgedir. Gen regülasyonu ve transkripsiyonunun karmaşıklıklarını içeren, yeni ve öz bir tanıma göre gen, "aynı sınıftan (protein veya RNA) işlevsel ürünler şifreleyen, potansiyel olarak birbiriyle örtüşen, genom dizilerinin birleşimidir".
+Gen, kalıtımın temel fiziksel ve işlevsel birimidir. Her gen, protein veya RNA molekülü gibi özel bir işlev taşıyan kromozomların belli bir noktasındaki nükleotid dizilerinden oluşur.
+Klasik genetikte, aynı biyolojik işlevleri yöneltip yöneltmemelerine ve karşılıklı rekombinasyon yapıp yapmamalarına göre alel ve alel olmayan genler vardır. Alel genler, aynı özellik üzerinde etkili olan genlerdir.
+Klasik genetikte gen bir alt birim olarak kullanılır. Mutasyon ve kombinasyonların genlerde oluştuğu kabul edilir.
+Kalıtım olayı, doğrudan kromozomların mitoz ve mayoz bölünmeler ve döllenme deki davranışlarına bağlıdır. Her bir kromozomda sayısız kalıtım birimleri, genler bulunur.
+Bir karakter kalıtımı ancak birbirlerine zıt iki durum olduğu zaman incelenebilir. Mendel'in çalışmalarında bezelyelerde ele aldığı şekil morfolojisinde düzgün ve buruşuk tohum özellikleri gibidir. Canlı birey böyle zıt durumlardan sadece birini gösterebilir. Bu nedenle "alel genler"den söz edilir. Homolog kromozomların aynı lokusunda yer alan, iki veya bazen daha fazla sayıda alternatif karakterlerin genlerine "alel genler" denir. Düzgün ve buruşuk tohum morfolojislerini belirleyen genler gibi.
+Genlerin simgelerle gösterilmesi.
+Genler, fenotipte baskın olarak gösterdikleri özelliklerinin isimlerinin genellikle kelimenin baş harfi ile simgelenir. Örneğin, farelerde siyah renk baskın olduğu için farelerdeki kalıtımda siyah renk "S" harfi ile, kahverengi çekinik olduğu için "s" harfi ile simgelenir. Baskın olan genler genelde yabanıl genlerdir. Çekinik genler ise, baskın genin mutantı olarak kabul edilir. Diploid canlılarda bir özellik üzerinde etkili olan, yani alel olan iki gen olduğundan her zaman genotip iki harfle yazılır. Örneğin saf siyah SS, saf kahverengi ss, melez Ss olarak gösterilir. Son zamanlarda homozigot çekinik fenotip özelliğin küçük baş harfi, mutasyona uğramış geni göstermek için kullanılmaktadır. Bununla beraber, "s+", "+s" ya da "+" gibi simgeler de baskın geni göstermek için kullanılır.
+Bir çaprazlamada bireylerin eşeylerini dikkate almak gerekiyorsa, önce dişinin genotipi, arkasına dişi işareti (♀), daha sonra çaprazlamanın simgesi olan "X" işareti ve onun sağ yanına erkeğin genotipi ve sonra işareti yazılır. Örneğin, SS (s+s+)♀ X ss (ss). Erkek ve dişi işartei olmadığı zaman sağdaki simge dişiye, soldaki simge erkeğe ait kabul edilir. Geri çaprazlama yapılırken, ataların eşeyleri gen çifti açısından yer değiştirir. Örneğin SS ♀ X ss yerine, ss ♀ X SS gibi.
+Gametlerde alel çiftler birbirinden ayrıldığı için ve haploid organizmalarda genler tek bir harfle gösterilir. Örneğin; S ve s gibi.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süper hücre</DOCTITLE>
+<TEXT>
+
+Süper hücre (İngilizce: Supercell), atmosferin yukarı seviyelerindeki açısal rüzgar yön değişiminin fazla olduğu aşırı termodinamik kararsızlığa bağlı olarak dikey rüzgarların fazla olduğu bölgelerde ortaya olan kuvvetli bir oraj biçimidir.
+Orajın dört alt sınıfından (süper hücre, bora hattı, çoklu hücre ve tek hücre) biri olan süper hücre, bunlar arasında yaygınlığı en az olanıdır. 
+Süper hücrenin çeşitleri.
+Süper hücre "Az Yağışlı" (Low-precipitation: LP), "Klasik" (Classic), "Bol Yağışlı" (High-precipitation: HP) olmak üzere üç çeşittir.
+Az Yağışlı Süper Hücre.
+Az-yağışlı süper hücre genellikle nem oranının düşük olduğu yaz sezonunun oluşur. Az yağışlı süper hücreler yaptıkları dolu yağışları ile ünlüdürler, kimi zaman hiç yağmur bırakmadan golf topu büyüklüğünde dolu yağdırdıkları bilinmektedir.
+Az yağışlı süper hücrelerde görülen hortumlar, bol yağışlı veya klasik süper hücrelere kıyasen daha zayıf yapıdadır. Zira hava daha düşük nem oranına sahip olduğu için yağışla beraber buharlaşmadan kaynaklanan ısı kaybı aşağı yönlü hava akımlarının gelişmesine elverişlidir. Bu bakımdan hortumlar ayrıca daha kısa ömürlü olur.
+Nem oranı düşük olduğu için konveksiyon ile yükselen hava parseli daha yüksek seviyede yoğunlaşacağı için bulut tabanı oldukça yüksektir.
+Klasik Süper Hücre.
+Az yağışlı ve bol yağışlı süper hücreler genellikle farklı tip gökgürültülü fırtınaların hibritleşmiş biçimdir, klasik süper hücre ise süper hücrenin saf bir formu olarak kabul edilir. En klasik örneği saat yönünün tersine rüzgalara sahip olan ve radarda virgül görünümlü Hook Echo adı verilenen fırtına biçimidir. Virgülün kıvrıldığı yerde genellikle bir hortum bulutu bulunur. En şiddettli hortumlar bu fırtınaların altında oluşur. 
+Havanın nem oranına bağlı olarak çok farklı boyutlarda dolu yapabilmektedir.
+Bol Yağışlı Süper Hücre.
+Barbunya görünümüne sahip bol yağışlı süper hücre ise hava kütlesinin taşıdığı su miktarı olduğu koşullarda meydana gelir. Çok yoğun yağışlara sebep oldukları için görüş mesafesi oldukça düşer, bu yüzden bu fırtınaların hortumları çoğunlukla fark edilemediği için hortumlara bağlı ölümler en çok bu tip fırtınalarda görülür. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kontrol Çaprazlaması  (EBA)</DOCTITLE>
+<TEXT>
+
+Bezelye bitkisinde, mor çiçek renginden sorumlu alelin baskın (A); beyaz çiçek renginden sorumlu alelin çekinik (a) olduğu bilindiğinden beyaz çiçekli bitkilerin genotipinin aa olduğunu kolaylıkla söyleyebiliriz. Ancak mor çiçekli bitkilerin genotipi homozigot (AA) ya da heterozigot (Aa) şeklinde olabilir. Bu fenotipe sahip bireylerin genotipinin homozigot mu (AA) yoksa heterozigot mu (Aa) olduğunu belirlemek için mor çiçekli bir bitki ile çekinik fenotipe sahip olan beyaz çiçekli (aa) bir bitki çaprazlanır. Elde edilen yavruların fenotipine göre, mor çiçekli ebeveyn bitkinin genotipini belirlemek mümkündür. Bu tür çaprazlamalarda aşağıdaki iki sonuç elde edilir: 
+1) Eğer atasal bitki baskın homozigot ise AA x aa çaprazlaması yapılmıştır. Elde edilen yavruların tümü Aa genotipinde olacak ve mor çiçekli olacaktır. 
+2) Eğer atasal bitki heterozigot ise bu durumda Aa x aa çaprazlaması yapılmıştır. Elde edilen yavruların yarısı mor çiçekli yarısı beyaz çiçekli olacaktır. Bu çaprazlamada, beyaz çiçekli bitkilerin meydana gelmiş olması, beyaz çiçekli bitkilerdeki çekinik alelin bir tanesinin mor çiçekli bitkiden geldiğini ve mor çiçekli atasal bitkinin heterozigot genotipe (Aa) sahip olduğunu gösterir. 
+Genotipi bilinmeyen bir organizmanın genotipini belirlemek amacıyla, çekinik homozigot bir bireyle çaprazlanmasına kontrol çaprazlaması ya da test çaprazlaması adı verilir (Resim 2.16). 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2.1.1 Mendel’İn Çalişmalari Ve İlkeleri  (EBA)</DOCTITLE>
+<TEXT>
+
+Gregor Mendel, rahiplik yaptığı manastırın bahçesinde bezelyeler ile yaptığı çalışmalarını 12 yıl kadar sürdürmüştür. 
+Mendel’in bezelyeleri seçme nedenlerinden birincisi, çok çeşit içermesiydi. Örneğin bezelyelerin bir çeşidi; buruşuk tohumluyken başka bir çeşidi yuvarlak tohumludur; ve bir çeşidi mor renkli çiçeklere sahipken diğer çeşidi beyaz çiçeklere sahiptir. 
+Bireyler arasında çeşitlilik gösteren kalıtılabilir özelliklere karakter; karakterin her bir farklı tipine özellik adı verilir. Örneğin çiçek rengi bir karakterdir; ancak çiçeğin beyaz, kırmızı ya da mor renkte olması bir özelliktir. Mendel, bezelyelerle çalışırken seçtiği her bir karakterin iki zıt özelliğini incelemiştir. 
+Mendel’in bezelyelerle çalışılmasındaki başka bir neden ise bezelyelerin kısa zamanda çok fazla sayıda tohum üretebilmesiydi. Dolayısıyla çok sayıda yavru elde edilebiliyordu. Böylece baskın ve çekinik fenotipe sahip bireylerin sayısal oranları daha doğru bulunabiliyordu. 
+Bezelyelerin çiçekleri kendi kendini dölleyebilme özelliğine sahip olması çaprazlamaların yapılmasında bazı kolaylıklar sağlamıştır. Mendel çalışırken, istediği özelliklerden birine sahip bir çiçeğin erkek organlarını kesmiş ve kendi kendisini döllemesini engellemiştir (Resim 2.5). Çaprazlamayı düşündüğü başka bir bireyden aldığı polenlerle bunun yumurtasının döllenmesini sağlayarak sadece istenilen özellikleri çaprazlamış olmaktadır. Mendel bezelyelerde yedi farklı karakter üzerinde çalışmış, bu karakterlerin birbirine zıt iki özelliğini (Resim 2.6) göz önüne alarak çaprazlama yapmıştır. 
+Birbirine zıt özelliğe sahip iki arı döl (Parental=P) çaprazlandığında, ortaya çıkan birinci kuşak (F1) dölünün bireylerinin hepsinin ebeveynlerden birine benzediğini görmüştür. Ancak elde edilen F1 dölü, kendi arasında çaprazlandığında elde edilen ikinci kuşak (F2) dölünün bireyleri içinde diğer ataya benzeyen bireylerin de ortaya çıktığını görmüştür (Resim 2.7). 
+Mendel, F2 dölünde ortaya çıkan diğer ataya ait özelliğe çekinik (resesif), F1 dölünde ortaya çıkan özelliğe baskın (dominant) özellik adını vermiştir. 
+Bir karaktere ait baskın ve çekinik özelliklerin kalıtımından sorumlu faktör, iki harf ile sembolize edilir. 
+Mendel’in faktör olarak ifade ettiği, kalıtsal bilgiyi taşıyan birimlere günümüzde gen adı verilmektedir. 
+Genlerin farklı şekillerine alel denir ve bunlar, özelliklerin kalıtımından sorumludur. 
+Örneğin bezelye bitkisinin çiçek rengi karakterinden sorumlu olan gen, iki alele sahiptir. Bu alellerden birisi, mor çiçek oluşumundan; diğeri ise beyaz çiçek oluşumundan sorumludur. Genellikle bu alellerden birisi baskın, diğeri çekiniktir. 
+Baskın alel, diğer alelin olup olmamasına bağlı olmaksızın etkisini gösterirken, çekinik alel, baskın alel bulunmadığında etkisini gösterebilir (Resim 2.8). Baskın alel büyük harfle (B), çekinik alel küçük harfle (b) gösterilir. Eğer özelliği kontrol eden bir çift alelin her ikisi de aynı alel ise, birey homozigot (BB, bb); biri diğerinden farklıysa (Bb şeklinde), birey heterozigot (melez=hibrit) olarak tanımlanır. 
+Özelliğin ortaya çıkmasından sorumlu aleller, o özellik bakımından organizmanın genotipini belirler. 
+Bir organizmanın kalıtsal özelliğinin dışarıdan görülen ya da ortaya çıkarılabilen şekline fenotip adı verilir. 
+Bezelyede çiçek rengi bakımından bb genotipine sahip bir bitkinin beyaz çiçekli olması onun fenotipidir. 
+Kendileri çaprazlandığında birçok kuşak boyunca hep aynı fenotipe sahip yavrular üreten organizmalara arı döl adı verilir. Arı döllerin genotipi, ilgili özellik bakımından homozigottur. İki farklı arı dölün çaprazlanmasıyla elde edilen döllere heterozigot (hibrit=melez) adı verilir. Bu çaprazlama olayına ise hibritleşme (melezleme) denir. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kaos Zümrütleri</DOCTITLE>
+<TEXT>
+
+İçlerinde antik kaos gücü bulunan, Sonic the Hedgehog evrenine özgü, ayrı renklerdeki 7 taşa verilen addır. Bunları toplayan kişi değişik kaos güçlerini kullanabilir ve neredeyse yenilmez olur. Alternatif evrenlerle bu zümrütlerin değişik versiyonlarına rastlanılabilir (Sol Zümrütleri gibi...). Aynı zamanda Kaos Zümrütleri'nin gücünü kontrol eden, Ana Zümrüt isimli büyük yeşil bir zümrüt bulunmaktadır ve aynı zamanda 7 Kaos Zümrüdü'nün koruyucusu Knuckles the Echidna tarafından korunur. Genelde Kaos Zümrütleri ve Ana Zümrüt Melek Adası'nda (veya başka bir ismi olan Süzülen Ada'da) bulunurlar.
+Kaos Zümrütlerini (Chaos Emeralds'ları) sadece doğüştan özelliği olanlar ya da Chaos gücünü kullanabilen makinalar,androidler... Bu gücü kullanabilir. Başka türlü kullanılma şansı yoktur.
+Kaos Zümrütlerini kopyalamak mümkündür. (Örneğin Sonic X deki gibi)Ama asla gerçekleri kadar güçlü olmaz ve belirli hareketleri yapabilirsin. Daha sonra ise parçalanarak yok olur.
+Ana hikâye.
+Kaos Zümrütleri (Chaos Emeralds) evrendeki en güçlü enerji kaynağıdır. Sadece kendi güçleri onları kullanan kişilere zarar verir. Yani Kaos Zümrütleri (Chaos Emeralds) onu kullanıp güçlenen kişilere kendisinden başka hiç bir güçün zarar vermemesinin sağlar. Kaos zümrütlerinin ana hikâyesi veya geçmişi tam olarak bilinmemektedir, fakat içinde bulunduğu kurgu evreninin uzak geçmişine ait olduğuna inanılır. Kaos zümrütleri limitsiz güç içerir. Bu gücün kaynağının, Sonic Adventure isimli oyunda bireylerin düşünceleri ve fikirleri olduğu belirtilmiştir.
+Ana Zümrüt, Kaos Zümrütleri'nin sınırsız gücünü sınırlamak için tanrılar tarafından yaratılmış olduğuna inanılan bir zümrüttür. Ana Zümrüt'ün içinde Chaos denilen, neredeyse tamamen sıvıdan oluşmuş bir yıkım tanrısı bulunur. Chaos, Kaos Zümrütlerini içine aldıkça giderek daha güçlü bir forma dönüşür ve sırasıyla Chaos 0 ilk hali olmak üzere Chaos 1, Chaos 2, Chaos 3, Chaos 4,Chaos 5, Chaos 6 ve son evrede Perfect Chaos'a dönüşür. Dr. Robotnik, Ana Zümrüdü kırarak, yüzyıllar sonra Chaos'u serbest bırakmıştır. Sonic Adventure ve Sonic Battle isimli oyunlarda Chaos, Ana Zümrüt'ün içinden çıkmış ve ana kahramanların başına dert olmuştur. Chaos isimli yaratığın aslında Ana Zümrüt'e dokunarak mutasyon geçirmiş bir Chao olduğu da sonradan yapımcılar tarafından açıklanmıştır.
+Oyunlardaki görevi.
+Kaos Zümrütleri hemen her Sonic oyununda görülmüş, hikâye boyunca toplanması gereken eşyalardır. Birçok Sonic oyununda oyunun tamamen bitmesi için hepsinin oyuncu tarafından toplanması gerekirken, özellikle son dönem Sonic oyunlarında hikâye doğrultusunda zümrütler kendi kendine toplanılmaktadır. Sonic the Hedgehog 1 ve Kaos Zümrütleri'nin yer almadığı Sonic and the Secret Rings hariç tüm ana Sonic oyunlarında 7 adet Kaos zümrüdü bulunmaktadır ve hepsi toplandığında ana karakter bu 7 zümrüdün gücünü kullanarak Süper formuna geçer. Super Sonic, Sonic'in çok daha güçlü bir versiyonudur ve Sonic'in normal formundaki rengi olan mavinin tam tersi olarak sarıdır. Aynı şekilde, Shadow da yedi zümrüdün gücüyle Super Shadow'a dönüşür; fakat siyah olan rengi, tam tersi olan beyaz yerine sarıya döner. Süper Shadow'a Hiper Shadow da denir, fakat bu yanlış bir terimdir. Bu yanlış kullanım, Sonic Adventure 2 oyununda Süper Shadow'un bir hata nedeniyle beyaz görünmesinden kaynaklıdır. Oyundaki bu hata oyunun PS2 portu olan oyununda düzeltilmiştir. Süper Sonic ve Süper Shadow, ışık hızında yol alabilir.
+1991 yılında çıkan ilk Sonic the Hedhehog oyununda sadece 6 tane zümrüt vardır ve karakter Süper forma oyunun hiçbir yerinde dönüşemez. Buna rağmen, Sonic the Fighters (veya Sonic Championship) isimli dövüş oyununda 8 tane zümrüt olduğu görülür. 8. zümrüt bu oyunda altın renktedir.
+2006 yılında Xbox 360 ve PS3 konsollarına çıkan, serinin ilk oyunuyla aynı isimdeki Sonic the Hedgehog oyununda ana kötü olan Mephiles the Dark, bu Kaos zümrütlerini birçok farklı gücünü harekete geçirmek için kullanmıştır. Örneğin 2 adet Kaos zümrüdüyle sayılamayacak kadar kopyasını yaratmıştır. Bir adet Kaos zümrüdüyle yarattığı bir ışını Sonic'i öldürmek için kullanmıştır. Yine 1 adet Kaos zümrüdüyle Iblis adı verilen çok güçlü, ateşten bir yaratıkla birleşmek için Kaos Kontrolü gerçekleştirmiştir.
+Süper Zümrütler (Super Emeralds).
+Süper Zümrütler (Super Emerald), Kaos Zümrütleri'nden daha güçlü taşlardır. Şu ana kadar sadece bir oyunda (Sonic 3) bulunan bu zümrütler Kirpi Sonic'i Hyper Sonic formuna, Miles "Tails" Prower'ı Super Tails'a ve Knuckles the Echidna'yı Hyper Knuckles'a çevirir.
+Süper Zümrütlerle (Super Emerald) ortaya çıkan Hyper Sonic, Super Sonic'den çok daha güçlü ve çok daha hızlıdır.
+Oyunlarda, Hayranları tarafından "Sonic Patlaması" olarak isimlendirilmiş bir hareketle ekranda görünen tüm düşmanları yok edebilmektedir. Bu hareket oyunda çifte zıplama yapılarak gerçekleştirilebilir. Hyper Sonic su altında nefes alabilir. Dipsiz kuyular ve iki platform arasında sıkışmak hariç saldırılardan hasar almamaktadır. 
+Normal hayatında ise en üst formudur. Karşısında başka bir Hyper form bulunmadığı sürece kim olursa olsun en ufak hareketinde düşmanını yok edecek güçtedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süper kahraman romanları</DOCTITLE>
+<TEXT>
+
+Süper kahraman romanları, edebiyat′da bir roman türü.
+Roman kahramanları.
+Süper kahraman romanları′nda esas kahraman Süper kahraman′dır. Onlar en çok Amerikan çizgi romanlarında karşıya çıkıyor. Süper kahraman′ları bu romanlarda adeta beklenmedik yerlerde görebilmek mümkün.
+Devamlı kötüler ile ve kötülüklerle mücadele eden süper kahraman mazlumlar için en güvenilir varlıklardan biridir. Onlar inanılmaz bir süper güç′e, süper hız′a, süper zeka′ya sahipler. Aynı zamanda onların mücadele etdiği kötüler′ler de hiç de zayıf diyildir. Süper kötülükler yapa bilen kötüler devamlı sorunlar yaratıyorlar. Zaman-zaman Süper kahraman′dan üstün olmayı başaran Süper kötüler, romanın sonunda adeta yenik duruma düşüyor.
+Tarih.
+Altın Çağı.
+Altın Çağı 1930'lardan başlayarak, 1950'lerin ortasında sona eren dönem Süper kahraman′ların ilk örneklerinin yaratıldığı Amerikan çizgi romancılığında yaratıldığı çağdır.
+Gümüş Çağı.
+Altın Çağı'ndan sonra Gümüş Çağı başlamıştır. Gümüş Çağı 1950'lerin ortasından başlayarak, 1970'lerin ilk yıllarına kadar uzanan bir dönemi kapsar.
+Bronz Çağı.
+Gümüş Çağı'ndan sonra Bronz Çağı başlamıştır. Bronz Çağı 1970'lerden başlayarak, 1985'e kadar uzanan bir dönemi kapsar.
+Modern Çağı.
+Bronz Çağı'ndan sonra Modern Çağı başlamıştır. Modern Çağı 1980'lerin sonlarından başlayarak, günümüze kadar uzanan bir dönemi kapsar.
+Filmleştirilmesi.
+Süper kahraman romanları 1940'lı yıllardan filmlere dönüşmeye başlamıştır. Çocuklara yönelik yapılan bu filmler Amerika′da Cumartesi film dizi olarak başladı. "Superman", "Batman", "Blade", "X-Men", "Spider-Man" isimli filmler bu romanlar esasında yapılmış en başarılı filmlerdir. Günümüzde böyle filimlerin yapımı hızla artmaktadır. En son teknolojilerin kullanılması ile bu tür filmlere yapılmasına büyük katkı sağlamıştır.
+Süper kahraman roman yazarları.
+Aşağıdaki listedeki kişiler yüksek bir kalite düzeyine sahip romanları yazmış kişilerdir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tetrasyon</DOCTITLE>
+<TEXT>
+
+Matematikte, tetrasyon (hiper-4 olarak ta bilinir), üslü sayıdan sonra gelen ilk aşırı işlecin tekrarlı üssüdür. Tetrasyonun İngilizce karşılığı olan "tetration" kelimesi ilk kez matematikçi Reuben Louis Goodstein tarafından, tetra- (dört) ve iteration (tekrar)dan türetilerek kullanılmaya başlandı. Tetrasyon çok büyük sayıların gösterimi için kullanıldı. Fakat birkaç pratik uygulaması vardır. Bu yüzden sadece saf matematik incelenir.
+Burada aşırı işlecin ilk dört örneğin gösteriliyor. Tekrasyon dördüncüsüdür:
+buradaki herbir işlem, bir öncekinin tekrarı şeklinde tanımlanır. Tetrasyonunu bu işlemlerden ayıran özellik, ilk üçü, (toplama, çarpma ve üs alma) "n" nin karmaşık değerler ile genelleşmesiyken, tetrasyonun henüz keşfedilen düzenli bir genelleştirilmesi yoktur ve tetrasyon, bir temel fonksiyon olarak nitelendirilmez.
+Toplama ("a" + "n"), en temel işlemdir. Çarpma ("an") da temel fonksiyondur. Tetrasyon (formula_4), "n" nin "a" tane kuvvetini içeren bir dizi olarak düşünülebilir. "a" değişkeni ilerleyen bölümlerde temel değişken olarak adlandırılırken "n" değişkeni de "yükseklik" değişkeni olarak adlandırılacak (integral ilk yaklaşımdır, fakat kesirli olarak genelleştirilebilir, gerçel ve karmaşık "yükseklik" gibi).
+Tanım.
+Her pozitif reel formula_5 ve negatif olmayan tam sayı formula_6 için formula_7 şöyle tanımlanır:
+Tekrarlı kuvvetler.
+Tanımdan da görüldüğü üzere, tetrasyon "üslü kuvvet" olarak hesaplandığında üs, öncelikle en derin seviyede alınır (gösterimdeki en yüksek derece) Diğer ifadeyle:
+Üssün birleşme olmadığına dikkat edin. Böylece, diğer sıradaki hesaplama, farklı bir cevaba gider:
+Burada, üslü kuvvetler, yukarıdan aşağıya doğru (veya sağdan sola doğru) hesaplanmalıdır.
+Terimbilim.
+Tetrasyon için birçok terim ve herbirinin kullanımı için mantıksal düşünceler vardır. Fakat bazıları, birçok nedenden dolayı yaygınlık kazanamadı. Burada birkaçından bahsedilecektir.
+Tetrasyon birbirine yakın ilişkiye sahip fonksiyon ve ifadelerle genellikle karıştırılıyor. Bundan dolayıdır ki tetrasyon ile ilgili birçok terim kullanılıyor. Burada birkaçını vereceğiz:
+İlk iki ifadede "a", tabandır. Kez (kere) sayısı olan diğer "a", yükseklikdir. Üçüncü ifadede "n", yüksekliktir, fakat herbirinin tabanı farklıdır.
+Gösterim.
+Tetrasyonun yazılabileceği gösterimler şunlardır:
+Yukarıdaki gösterimlerden biri, tekrarlı üstel gösterimi kullanır. Bu genellikle şöyle tanımlanır:
+Tekrarlı üsler için çok fazla gösterim yoktur. Fakat birkaçını verelim:
+Örnekler.
+Aşağıdaki tablodaki çoğu değerler, bilimsel gösterimde yazmak çok zordur. Bundan dolayı tekrarlı üstel gösterim onları 10 tabanında ifade etti. Değerlerdeki ondalık nokta yaklaşıktır.
+Çok ilkel fonksiyonlardaki yaklaşımlar.
+Polinom "yaklaşımları".
+Lineer yaklaşım.
+Lineer yaklaşımı (süreklilik isteğinin çözümüe, differensiyellenebilirlik yaklaşımı) şöyle elde edilir:
+Bundan dolayı:
+ve böylece devam eder.
+Örnekler:
+formula_17
+Ana teorem Hooshmand'e göre: formula_18, istenmeyen durumlara doğru giderse:
+Daha sonra formula_20, şu denklemle benzersiz tanımlanır:
+Buradaki formula_27, x in kısmi parçasını ifade eder ve formula_28 fonksiyonu, formula_29 fonksiyonunun formula_30-tekrarlı fonksiyonudur.
+İkinci ve dördüncü şartlar ispattır.
+formula_31 doğal tetrasyon fonksiyonundaki lineer yaklaşımı sürekli olarak türevlenebilir. Fakat ikinci türevi, argümanının tam sayısında bulunmaz. Hooshmand, onun için de söyle bir eşsiz teorem türetti:
+Eğer formula_32 ise,
+sürekli fonksiyon şöyledir:
+Sonra formula_37 olur.
+Buradaki ispat bir öncekine çok benzer. Özyineleme eşitliği, formula_38 olduğunu sağlar ve yakınsaklık şartı (-1, 0)'de formula_20 fonksiyonunun lineer olduğunu ifade eder.
+Bundan dolayı doğal tetrasyondaki lineer yaklaşımı, sadece formula_40 eşitliğinin çözümüdür ve formula_41, formula_42'de yakınsaktır. Diğer tüm uygun türevlenebilir çözümlerin (-1, 0) aralığında bir büküm noktası olması gerekir.
+Yüksek sıralı yaklaşımlar.
+İkinci dereceden yaklaşım şöyledir:
+Bu ifade tüm formula_44 için türevlenebilir. Faka iki kez türevlenemez. Eğer formula_45 ise bu, lineer yaklaşım gibidir.
+Genişlemeler.
+Tetrasyon, formula_46 ve diğer tanım kümelerini ifade etmek için genişletilebilir.
+Tabanlarda tanım kümesi genişlemesi.
+Sıfır tabanında genişleme.
+formula_47 üs ifadesi sürekli olarak tanımlanmaz. formula_48 tetrasyonu da, daha önceki formüle göre iyi tanımlanmaz. Yine de formula_49 şöyle tanımlanabilir:
+Buradan formula_51 ifadesini sürekli tanımlayabiliriz. Bu formula_52 tanımının eşdeğeridir.
+Bu genişleme altında, formula_53. Böylece asıl tanım koruyarak formula_54 kuralı sağlanır.
+Karmaşık tabanlarda genişleme.
+Karmaşık sayılar kuvvetlerle arttarken, tetrasyon, formula_55 formunun "tabanları"nda uygulanabilir. Buradaki formula_56, -1'in kareköküdür. Örneğin, formula_57 (formula_58) tetrasyonu, doğal logaritma prensibi kullanılarak ifade edilebilir. Euler formülünü kullanarak şöyle bir ilişki elde edebiliriz:
+Bu, formula_60 için tekrarlı bir tanım ortaya çıkartır. Her formula_61 için:
+Aşağıdaki yaklaşım değerleri türetilebilir:
+Önceki bölümle ters ilişkiyi çözme, "n" nin negatif değerli beklenen formula_64 ve formula_65'ı sağlar. Bunun için sanal eksene sonsuz sonuç verilir. 
+(Tekrarlı) "yükseklikler" için tanım kümesi genişlemeleri.
+Sonsuz yükseklik genişlemesi.
+Tetrasyon sonsuz yüksekliklere genişletilebilir (formula_66'deki "n"). Örneğin, formula_67 ifadesi 2'ye yakınsar, bundan dolayı "2'ye eşittir" denir. 2'ye doğru gidiş, küçük sonlu kuleyi hesaplayarak görülebilir:
+Genellikle formula_69 sonsuz kuvvet kulesi, formula_70'in limiti (sınırı) olarak tanımlanır. Burada "n" "e"−"e" ≤ "x" ≤ "e"1/"e" için sonsuzluğa gider.
+Negatif yüksekliklere (sınırlı) genişleme.
+Asıl kuralı korumak için:
+formula_72'nın negatif değerleri için, özyineleme ilişkisini kullanmalıyız:
+Buradan:
+Bununla beraber daha küçük negatif değerler, bu yolla iyi tanım verme. Çünkü,
+iyi tanımlı değildir.
+formula_76'in her tanımı formula_77 için kuralla uyumlu olduğuna dikkat edin. Çünkü
+Gerçek yüksekliklere genişleme.
+Burada, genişleme tetrasyonunun genel problemlerinin çözümü için formula_80'nin reel veya karmaşık değerlerinde, yaygın olarak kullanılan kabul edilmiş bir çözüm yoktur. Çeşitli yaklaşımlar aşağıdaki gösteriliyor.
+Genelde problem, "a" > 0 ve, formula_81 değerleri için formula_82 gibi bir süper üstel fonksiyon bulunuyor ki buda yeterince tatminkârdır.
+Dördüncü koşul kişiden kişiye ve yaklaşımlara göre değişirr. Tetrasyonunu gerçel yüksekliklere genişletmek için iki ana yaklaşım vardır. Birincisi "uygunluk" koşulu, diğeri de "türevlenebilirlik" koşuludur. Bu iki yaklaşım, birbirleriyle tutarsız sonuçlar üretmesi, onların çok farklı olduğunu gösterdi.
+Neyse ki, bir uzunluğun içindekilerden biri, tüm pozitif reel sayılar için genişletilebilir. Bir içsel uzunluk için formula_90 tanımlıysa, tam fonksiyon tüm formula_81 için geçerlidir.
+Karmaşık yüksekliklere genişleme.
+Şöyle bir konjektür vardır: eşitliğinin çözümü için eşsiz bir "F" fonksiyonu vardır ve ek "F"(0)=1 ve "F"("z") yaklaşımlarını sağlar. Bu fonksiyon sağdaki şekilde görülüyor.
+Ters fonksiyonlar.
+Tetrasyonun Ters fonksiyonları genellikle süper kök ve süper logaritma olarak adlandırılır. formula_92'in süper kökün karesi olan formula_93, Lambert W fonksiyonu ile şöyle ifade edilebilir:
+Her "n" > tamsayıları için "nx" şeklinde fonksiyon vardır ve bu fonksiyon "x" ≥ için artarak 1="n"1 = eşitliği elde edilir. Böylece "x" in "n". süper kökü "x" ≥ 1 için elde edilir.
+Yine de, eğer yukarıdaki lineer yaklaşım kullanılır ve -1≤"y"≤0 şart sağlanırsa, 1= "yx" = "y" + 1 olur. Böylece 1="y"sroot("y" + 1) elde edilemez.
+slog"a" "x" süper algoritması, tüm gerçel "x" ve "a" > 1 sayıları için geçerlidir.
+formula_95 fonksiyonu:
+"İnfra logaritma fonksiyonu", ultra üstel fonksiyonun iki katıdır ve formula_100 şeklinde ifade edilir. Eğer formula_101 ise formula_102 fonksiyonunun tersi olur.
+Süper kök.
+Süper kök, tetrasyonun iki ters fonksiyonundan biridir. Sadece, kökler ve logaritma üstel olarak iki ters fonksiyonken, keza tetrasyonunda iki ters fonksiyonu vardır: süper kök ve süper logaritma. Süper kök, tetrasyonun tabanını ifade eden ters fonksiyonudur: eğer formula_103 ise "y" de "x" in "n". süper kökü olur.
+Örneğin;
+böylece 2, 65.536'nın 4. köküdür ve
+Böylece 3, 7.625.597.484.987'nin 3. süper kökü (veya süper küpü)dür.
+Süper kökün birkaç pratik uygulaması vardır. Bunlar sadece saf matematikte çalışılır.
+Kare kök.
+2. sıra süper kök veya "süper kare kök" is noteworthy for its simple expression in terms of Lambert W fonksiyonunda terimlerinin basit ifadesi için önemlidir. İfadesi;
+Fonksiyon her ne kadar süper karenin karşıtı olarak tanımlanmış olsa bile, sonsuz üstelin de karşıtıdır. Sonsuz n.kökte şöyledir;
+formula_109
+Kare kök örnekleri.
+Aşağıdaki tablo ilk 27 tam sayının süper kare köklerini gösteriyor.
+Eğer bir sayının süper kare kökü tam sayı değilse, o irrasyoneldirl. Fakat bunula ilgili herhangi bir ispat ybilinmiyor
+Diğer süper kökler.
+Diğer süper kökler, normal kökle kullanılan aynı tabanda ifade edilebilir: süper küp kökler, formula_110 olduğunda "y" üreten fonksiyon, formula_111 olarak ifade edilebilir ve bundan dolayı, "n". süper kök, formula_107'dir denilebilir.
+Süper logaritma.
+Tetrasyonun iki ters fonksiyonundan biridir. Sadece, kökler ve logaritma üstel olarak iki ters fonksiyonken, keza tetrasyonunda iki ters fonksiyonu vardır: süper logaritma ve süper kök. Süper logaritmayı açıklayan birkaç yol vardır:
+Süper logaritma tanımları.
+formula_113 olarak yazılan süper logaritma, tam olarak şöyle tanımlanır;
+Bu tanımın sadece tam sayılar verebileceğine ve sadece tam sayı üretebilecek sayıları kabul edebileceğine dikkat edin. Bu tanımın kabul edeceği sayılar formula_116 vb. formdadır.
+Yaklaşımlar.
+Genellikle özel fonksiyonlar, argüman(lar)ın reel değerleri için değil, karmaşık düzlem, diferansiyel ve integral ifadeleri içinde tanımlanır. Slag fonksiyonu için mevcut ifadeler olmadığı için, basit yaklaşımlar şöyle öneriliyor.
+Süper logaritmaya lineer yaklaşım.
+Süper logaritmaya lineer yaklaşım şöyledir:
+Bu fonksiyon, tüm reel "z" (formula_118 süreklilik) için süreklidir. 
+İkinci dereceden yaklaşım.
+Süper logaritmaya ikinci dereceden yaklaşım şöyledir:
+Bu fonksiyon tüm reel "z" (formula_120 süreklilik) için türevlenebilir. 
+Abel fonksiyonuna yaklaşımlar.
+Abel fonksiyonu, şu eşitliği sağlayan herhangi bir fonksiyondur:
+Verilen bir formula_122 Abel fonksiyonunun diğer çözümü herhangi sabit formula_123 eklenerek elde edilebilir. Verilen bu süper logaritma formula_124 olarak tanımlanır ve üçüncü özelliği üstel fonksiyonun Abel fonksiyonu, eşsiz olarak tanımlanabilmesidir.
+Özellikler.
+Süper logaritmanın diğer eşitlikleri:
+Tetrasyonun tersi olarak slag.
+Tetrasyon olarak formula_127, analitik fonksiyon olması husunuda şüphelidir. En azından formula_128'nin bazı değerleri için slogb=sexpb-1 ters fonksiyonu analitik olabilir. Karmaşık z düzlemindeki formula_129'nin davranışı, yukarıdaki şekilde, formula_130 durumu için çizilmiştir. slog fonksiyonunun sanal kısmının reel ve tam sayı değerlerinin dereceleri kalın çizgilerle gösteriliyor.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ayrilmama Olayi  (EBA)</DOCTITLE>
+<TEXT>
+
+Daha önceki konularda mayozun anafaz I evresinde homolog kromozomların iğ ipliklerine tutunarak hücrenin karşı kutuplarına çekildiğini; benzer şekilde anafaz II evresinde kardeş kromatitlerin birbirinden ayrılarak hücrenin farklı kutuplarına gittiğini öğrenmiştik. 
+Normalde düzgün işleyen bu süreçte bazen aksaklıklar olur. 
+İki homolog kromozom ya da iki kardeş kromatit birbirinden ayrılmayarak hücrenin aynı kutbuna gidebilir. Bu duruma ayrılmama olayı adı verilir. 
+Sonuçta bir gamet, mayoz sonucunda iki homolog kromozomun ikisini de alırken, diğer gamet bu kromozomdan hiçbirisini almaz (Resim 2.26). 
+Gametlerdeki bu fazla ya da eksik kromozomlar, gonozomlar ya da otozomlar olabilir. 
+Eğer fazla kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa, oluşan zigotun kromozom sayısı normalden fazla; eğer eksik kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa oluşan zigot, normalden daha az sayıda kromozoma sahip olur. Böyle bir zigot gelişecek olursa, meydana gelen birey eksik sayıda ya da daha fazla sayıda kromozoma sahip olur (Resim 2.27).Ayrılmama olayı sonucunda fazla ya da eksik kromozoma sahip olan zigotların bazıları gelişimini tamamlayamaz. İnsanın 13., 18. ve 21. kromozom çiftlerinde ayrılmama olayı meydana gelecek olursa, fazladan kromozoma sahip olan zigot gelişimini sürdürerek yeni bir birey meydana gelebilmektedir. 
+Fazladan 13. kromozoma sahip olan bireylerde Patau (Patu) sendromu; fazladan 18. kromozoma sahip olan bireylerde Edwards (Edvırds) sendromu ve fazladan 21. kromozoma sahip bireylerde Down sendromu meydana gelir. Bu durumlardan en sık rastlananı Down sendromu (mongolizm) dir. Down sendromuna sahip bireyler 47 kromozomludur (Resim 2.28). Bu bireyler gözlerinin çekik olması ve yuvarlak yüz hatlarıyla Moğol ırkına benzerlik gösterir. Genellikle doğuştan gelen kalp bozukluklarına ve zeka geriliğine sahiptirler; dilleri büyüktür; hastalıklara karşı dirençleri azdır. 
+Down sendromlu erkek bireylerin hemen hemen hepsi ve dişilerin yarısı, eşeysel olarak gelişmemiş olup kısırdırlar. Bu bireyler, 30-35 yaşlarına kadar yaşayabilirler. Down sendromunun nedeninin tam olarak kesinlik kazanmamasına karşın annenin yaşı ya da aldığı hormon tedavisiyle ilgili olduğu düşünülmektedir. 
+Ayrılmama olayı eşey kromozomlarında da meydana gelebilir ve buna bağlı olarak anormallikler ortaya çıkar. Ayrılmama olayı nedeniyle bireyler ilave X ya da Y kromozomuna sahip olabilirler (Tablo 2.1). 
+Bazı bireylerde ise eşey kromozomlarından bir tanesi eksik olabilir (Resim 2.29). Gonozomlarda ilave kromozomların yarattığı durumların çoğu genetik dengeyi, otozomların yaptığından daha az bozar. Bunun nedeni, insandaki Y kromozomunun çok az sayıda gen taşıması ve vücut hücrelerindeki X kromozomlarının bir tanesi dışındaki kopyalarının zaten etkisiz kılınıyor olması olabilir. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süper bilgisayar</DOCTITLE>
+<TEXT>
+
+Süper bilgisayar basit olarak; yoğun paralel işlemciler, yüksek başarımlı vektör
+işlemciler ve öbek bilgisayarların oluşturduğu sistem (her bileşen olmak zorunda değil) olarak
+tanımlanabilir. Süper bilgisayarlar bilimde, deney ve hesaplamayı birleştiren hesaplamalı bilim gibi yeni metodolojilerin oluşmasını sağlamıştır.Günümüzde süper bilgisayarlar saniyede yüzlerce trilyon işlem yapar hale gelmiştir. Örneğin, dünyanın en hızlı süper bilgisayarı saniyede 136,8 trilyon kalıcı işlemle Amerika'da Lawrance Livermore National Laboratuary isimli ulusal laburatuarın kullanımındadır (teorik sınır bu rakamın üzerinde olup adı geçen makina için saniyede 183,5 trilyon işlemdir) Süper bilgisayarlar ilk defa 1960'larda Seymour Cray tarafından Control Data Corporation da tasarlandı.
+Tarihçe.
+1950'li yılların başında, bir bilgisayar eş zamanlı olarak birden fazla program çalıştıramıyordu. Her kullanıcı, bilgisayarı yalnız bir kere kullanma hakkına sahipti ve kendisine ayrılmış belirli bir sürede kullanacağı program ve delikli kağıttan kartlar ile bir bant şeritle birlikte bilgisayarı kullanması gerekiyordu. Program makinaya yüklenir ve program sonlandırılana veya çökene kadar çalışacak şekilde ayarlanırdı. Programların hata denetimi makinanın önündeki elektrik şalterleri ve panel ışıklarıyla yapılırdı.
+Günümüzde, süper bilgisayarlar genellikle özel olarak Cray, IBM gibi geleneksel firmalar tarafından üretilmektedir. 2010 Kasım ayından beri Çinde'de bulunan Tianhe-1A süper bilgisayarı dünyadaki en hızlı bilgisayardır.
+Türkiye'nin ilk süper bilgisayarı İstanbul Teknik Üniversitesi'nde bulunmaktadır.
+Kullanım Alanı ve Mainframe ile arasındaki Fark.
+Büyük bilimsel çalışmalarda, nükleer enerji araştırmalarında, hareketli animasyonlarda, akışkanların karakteristiklerini hesaplamada ve meteoroloji gibi alanlarda gereken hesaplamalar için kullanılır. Mainframe ile arasındaki fark süper bilgisayarlar işlemci gücüne dayalı tek bir çalışmaya has iken mainframe çoklu kullanıcı yapıya sahiptir. 
+Yazılım ve donanım mimarileri.
+Yalnızca süper bilgisayarlarda kullanılmak üzere bazı teknolojiler geliştirilmiştir. Vektör işleme, sıvı soğutma, nonuniform bellek erişimi, paralel dosya sistemleri bu teknolojilerden bazılarıdır.
+İşletim sistemi.
+Süper bilgisayarlarda en çok kullanılan işletim sistemi Linux'tur. 1980'lerin ortalarına kadar, süper bilgisayarlar genellikle komut kümesi uyumluluğunu ve şifre taşınılabilirliğini performansı için göz ardı etti. Birçok parça için, süper bilgisayarlar bu zamana kadar çok farklı işletim sistemlerine sahipti. Cray-1 genel olarak bilinmeyen en az 6 farklı özel işletim sistemine sahipti. Benzer şekilde, farklı ve uyumsuz vektörleştirme ve paralelleştirme derleyicileri Fortran için de mevcuttu. Bu eğilim bilgisayar sistemlerinin benimsenmesi ve Cray-1 ve Cray X-MP arasındaki ilk komut kümesi uyumluluğu olmasaydı Cray's Unicos veya Linux gibi ETA-10 ile devam edecekti.
+En hızlı süper bilgisayar sistemi.
+Tianhe-1A en hızlı süper bilgisayar olarak Üst500 listesinde yer almaktadır. Çin'de üretilen bu bilgisayar, InfiniBand bildirildiğine göre iki kat hız ile 14.336 Intel Xeon işlemci ve 7168 Nvidia Tesla M2050 GPU'larından oluşur. Tianhe-1A açıklıklı 103 kabini ile 155 ton ağırlığındadır ve 4,04 megavat elektrik tüketir.
+Türkiye'de süper bilgisayarlar.
+Türkiye'de bu alanda İTÜ UYBHM çalışmalar yapmaktadır.
+Ulusal Yüksek Başarımlı Hesaplama Merkezi Projesi’nde yer alan süperbilgisayar, 560 işlemciden oluşmakta ve saniyede 1 trilyon işlem yapabilmektedir. Kamu kaynakları (DPT) ile gerçekleştirilen bu proje sayesinde, akademik ve endüstriyel araştırmalara hesaplama gücü sunmanın ötesinde bu alanda uzman insan kaynağı ve bilgi birikiminin sağlanması, yüksek başarımlı bilişim uygulamaları için bir sinerji merkezi oluşturulması sağlanıyor.
+İTÜ UYBHM'nin de katkısı ile TÜBİTAK ULAKBİM bünyesinde TR-GRID adlı bir süper bilgisayar girişimi daha başlatılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süper Lig</DOCTITLE>
+<TEXT>
+
+Süper Lig veya sponsorluk anlaşması gereğince Spor Toto Süper Lig, 1959 yılında "Millî Lig" adıyla kurulan, şu an Türkiye'nin en üst düzeydeki futbol ligi. Bir sezon içinde 18 takımla oynanan Süper Lig, sezon sonunda üç takımın ligden düşüp bir alt ligden gelen üç takımın yükselmesiyle sürer. Süper Lig, 18 takım ve hissedarların oluşturduğu bir kuruluştur. Ağustos ve Mayıs ayları da dahil olmak üzere dokuz ay süren bir organizasyon olan Süper Lig, 34 hafta ve 306 maçtan oluşur. Karşılaşmalar hafta içi ve hafta sonu yapılır. Süper Lig, Türkiye Futbol Federasyonu'na bağlıdır. 2005 yılında Süper Lig'e Turkcell'in sponsor olmasıyla resmî olarak Turkcell Süper Lig adını alan lig, Turkcell'in sponsorluk anlaşmasının bitmesiyle 2010-11 sezonundan itibaren Spor Toto Süper Lig adını almıştır. Ek olarak UEFA'nın en değerli ligler sıralamasında 6. sırada yer alır. UEFA Şampiyonlar Ligi'ne 2, UEFA Avrupa Ligi'ne 3 takım yollamaktadır. Türkiye Kupası şampiyonu olup ilk 4'e giremeyen bir takım da UEFA Avrupa Ligi'ne katılabilir.
+Türkiye Lig'i, Süper Lig adını 2002-03 yılında almıştır, fakat Türkiye'de üst düzey futbol 1959 yılından beri oynanmaktadır. Avrupa'da en çok izlenen 6. lig olan Süper Lig, aynı zamanda 397.000.000€'luk hasılatıyla Avrupa'da en çok gelir getiren 8. lig durumundadır. Şimdiye dek 67 takımın mücadele ettiği Süper Lig'de beş takım şampiyonluk unvanı alabilmiştir. Bu takımlar Beşiktaş, Bursaspor, Fenerbahçe, Galatasaray ve Trabzonspor'dur. Galatasaray, 19 şampiyonlukla en çok şampiyonluğa ulaşmış olan takımdır.
+Millî Lig öncesi Türkiye'de futbol.
+Milli Lig kurulmadan önce Türkiye'nin bazı illerinde (İstanbul, İzmir, Eskişehir, Adana, Trabzon, Bursa) mahalli ligler kurulmuştu. Bu liglerden İstanbul Ligi ise yabancılar (özellikle İngiliz) askerler ve tüccarlar tarafından kurulmuştur. Türkiye topraklarında yapılan ilk maç ise 1897 yılında İzmir'den İstanbul'a gelen İzmir Karması'yla İstanbul Karması arasında oynanmıştır.
+Bu futboldan uzak kalış ve Türk topraklarındaki bu oyunun başkalarınca oynanması Galatasaray Lisesi 10. sınıf öğrencilerinden Ali Sami Yen'in zoruna gider ve arkadaşlarını toplayarak Galatasaray'ı kurar. Galatasaray ile başlayan Türk kulüpleri Fenerbahçe, Vefa, Beykoz, Beşiktaş, Altay ve Karşıyaka ile devam eder. Bu kulüplerin kurulması Cuma Ligi,Pazar Ligi,İstanbul Şampiyonluğu Ligi gibi organizasyonların oluşmasını beraberinde getirir. O dönemde Beşiktaş kulübü lig kurulması önerisini getirir ama bazı kulüpler bu öneriyi kabul etmezler.Beşiktaş kulübü önerisini kabul eden takımlarla birlikte İstanbul Türk İdman Birliği Ligi'ni kurar.
+Bu kulüplerin kurulup gelişmeye başlayacağı bu dönemde önce Balkan Savaşları'nın daha sonra da I.Dünya Savaşı'nın çıkması ve eli silah tutan herkesin askere alınmasıyla futbol sahaları boş kalır ve Türk futbolu 11 yıllık bir kesintiye uğrar (1912-1923).
+Cumhuriyetin kurulması ile her alanda olduğu gibi sporda da atılımları beraberinde getirdi. Bu dönemin en önemli olayı ise Türk İdman Cemiyetleri İttifakı yani günümüzdeki adıyla Türkiye Futbol Federasyonunun kurulması olmuştur.Futbol Federasyonunun kurulması ile Türk futbolu tek bir çatı altında toplanmıştır.
+Tarihçe.
+1961 öncesi.
+1930'lu yıllardan 1950'lerin sonlarına kadar Türkiye'de futbol Kahramanmaraş, İstanbul, Ankara, İzmir, Eskişehir, Adana, Bursa ve Trabzon şehirlerinin takımlarının ağırlıkta olduğu Millî Küme adlı deplasmanlı ligde oynanmıştır. Millî Küme boyunca Fenerbahçe 6, Beşiktaş 3, Galatasaray ve Güneş'de 1'er kere Türkiye şampiyonu olmuşlardır. Türkiye'de futbol gelişimini bu yönde sürdürürken Türkiye Millî Futbol Takımı'nın 1954 FIFA Dünya Kupası'na katılması ile birlikte profesyonel bir ligin kurulmasına karar verilmiş, Türkiye Futbol Federasyonu bir Milli Lig'in kurulması fikrini benimsemiştir. Günümüzdeki adı Süper Lig olan Milli Lig'in temelleri 1957 yılında düzenlenen Federasyon Kupası ile atılmıştır. Federasyon Kupası 1957 ve 1958 yılında Lig düzeninde oynanmış, bu iki sezonda kupayı Beşiktaş JK kazanmıştır.
+1959 ve 1960'lar.
+1959 yılında düzenlenen Türkiye 1. Futbol Ligi'nin ilk sezonunda maçlar sadece İstanbul, Ankara ve İzmir takımlarını katıldığı, 8'er takımdan oluşan Beyaz ve Kırmızı adlı iki grupta oynanmış, o tarihteki statü uyarınca beyaz grubun lideri Fenerbahçe ile kırmızı grubun lideri Galatasaray finalde karşılaşmıştır. İlk maçı Galatasaray 1-0, ikinci maçı ise Fenerbahçe 4-0 kazanınca, Türkiye 1. Futbol Ligi'nin ilk şampiyonu Fenerbahçe olmuştur.
+1959-60 sezonundan itibaren ise grup sistemi kaldırılmış ve Türkiye 1. Futbol Ligi bugünkü statüsü ile oynanmaya başlamıştır. 1962 yılında Türkiye tam üyelik için UEFA'ya başvurmuş ve UEFA'da Türkiye'nin başvurusunu kabul etmiştir. UEFA üyesi olunduğu için Avrupa Kupa Galipleri Kupası'na Türkiye'nin de takım göndermesi gerekmekteydi ve bu nedenle Türkiye Futbol Federasyonu tarafından Türkiye Kupası organize edilmeye başlanmış, bu kupa organizasyonu ilk kez 1962 yılında düzenlenmiştir. Bu kupanın ilk sahibi Galatasaray olmuştur.
+1970'ler.
+Bu döneme Türk futbolunun içinde değişimlerin ve yabancı futbolcu ve teknik direktörlerin hakimiyetinin başladığı dönem olarak kabul edilmiştir. Bu dönemde Türkiye'de çalışan Ignác Molnár, Brian Birch, Didi ve Toma Kaleperoviç gibi antrenörler Türkiye Birinci Futbol Ligi'nde başarılı sonuçlar almış ama bu başarılara rağmen 1960 ve 1970'lerde Türk futbolu Avrupa'da Göztepe'nin oynadığı yarı finalden başka önemli bir başarı elde edememiştir.
+1970 yılında ortaya çıkan ve Türk futbol tarihinde "Anadolu İhtilali" olarak geçen başarılar gerçekleşmiştir. TFF'nin 1965 yılında her ilin bir takımı olması için çıkardığı izinle birçok futbol kulübü kurulmuş ve Bursaspor (1963)'un öncülüğünde Boluspor (1965), Eskişehirspor (1965), Antalyaspor (1966), Sakaryaspor (1965), Denizlispor (1966), Kayserispor (1966), Kocaelispor (1966),Trabzonspor (1967), ve Samsunspor (1965) gibi uzun yıllar Birinci Lig'de mücadele etmiş ve hâla eden futbol takımları kurulmuştur. Önceleri Anadolu'nun sesini sadece duyuran Altay-Göztepe-Gençlerbirliği gibi birkaç takım bulunurken Trabzonspor'un ligde ve kupada şampiyonluklar kazanması, Eskişehirspor'un üst üste ikincilikler alması, Samsunspor, Boluspor ve Bursaspor'un üst sıraları zorlaması, Anadolu'da futbola olan ilgi ve merakı artırmıştır.
+1980'ler.
+1980'lere gelindiğinde Türk futbol anlayışında köklü değişiklikler olmuş ve özellikle Alman teknik direktör Jupp Derwall'ın Türkiye'ye gelmesi ile Türk futbolunda tesisleşme başlamıştır. Ayrıca Derwall'ın Galatasaray'a sistemli futbol oynatması ve Galatasaray SK'nın bu oyun anlayışı ile Avrupa Şampiyon Kulüpler Kupası'nda yarı final oynaması bu sistemin kalıcı olmasını sağlamıştır. Bu değişimlerden diğer kulüpler de etkilenmiş ve Türkiye'de sistemli futbol oynanmaya başlamıştır. 
+1990'lar.
+1992'de Türkiye Futbol Federasyonu'nun özerkleşmesi ile Süper Lig takımlarının naklen yayınları gelire çevirilmesiyle kasaları doldu. Türkiye Futbol Federasyonu dev anlaşmalarla futbol ekonomisinde milyonlarca dolarlık bir katma değer oluşturdu. Futbol ekonomisinin önemi kulüpler tarafından da anlaşıldı, sponsorluk gelirleri bu alanda da devreye sokuldu. Futbol kulüplerinin ve Türk Milli Takımı'nın birçok sponsorluk anlaşması bu dönemlerde yapıldı. 1990'lı yılların başında Beşiktaş üç şampiyonluk kazanarak iyi bir başlangıç yaptı. Takip eden iki sezonda Galatasaray şampiyon olurken, Beşiktaş 1994/95'te yeniden bu unvanı kazandı, Fenerbahçe 1995-96'da bu on yıldaki tek şampiyonluğunu yaşadı. Kalan dört sezonda ise Galatasaray şampiyonluk ipini göğüsledi.
+2000'ler.
+Bu on yıllık döneme Türkiye Telsim Ligi adıyla girildi. Fakat o dönemde ligin isminin önüne sponsor alınması bazı kesimlerce desteklenmediği için Telsim sezon devam ederken sponsorluğunu çekti ve Türkiye Birinci Futbol Ligi ismine dönüldü 2001-02 sezonu başında bugünkü Süper Lig adını alan lig, 2006 yılının başında Turkcell'in sponsor olarak isim hakkını vermesiyle Turkcell Süper Lig adını aldı ve 2010 yılına kadar bu adla anıldı.
+2000'li yıllarda Süper Lig kulüpleri lig kadar Avrupa kupalarında gösterdiği başarılarla da kendilerinden söz ettirdi. Bu dönemde Galatasaray'ın 2000 yılında UEFA Kupası ve Süper Kupa şampiyonluğu ve 2001'de Şampiyonlar Ligi'nde çeyrek final oynaması ile Fenerbahçe'nin 2007-08 sezonunda Şampiyonlar Ligi'nde çeyrek finali görmesi, bu Süper Lig takımlarının bu on yıldaki en önemli başarılardır. Süper Lig'de ise bu on yılda daha önce şampiyonluk yaşamış ve bir asırlık ömüre ulaşan üç farklı İstanbul takımı ve ayrıca Bursaspor şampiyonluk yaşadı. Bu dönemde Fenerbahçe 4, Galatasaray 3, Beşiktaş 2, Bursaspor ise 1 şampiyonluk sevincini tattı.
+2010'lar.
+Bu on yıllık süre zarfında ilk sezona Spor Toto Süper Lig adıyla girildi. İlk sezonda son haftaya aynı puanda giren Fenerbahçe ile Trabzonspor son haftadaki maçlarını kazanmasına karşın Fenerbahçe'nin Trabzonspor'a karşı ikili averajının iyi olmasından dolayı Fenerbahçe şampiyonluğunu ilan etti. Fakat sezon bittikten sonra başlayan şike davası nedeniyle Fenerbahçe 2011-12 UEFA Şampiyonlar Ligi'ne katılamamış, onun yerine sezonu 2. sırada bitiren Trabzonspor turnuvada mücadele etti. Bir sonraki sezon ligde ilk kez Play-Off sistemi uygulanmış, sezon sonunda şampiyonluk ipini Galatasaray göğüsledi. Sezon bittikten sonra Play-Off sistemi kaldırılmış, Süper Lig tekrar çift devreli lig usulüne göre oynanmaya devam etmiştir.
+Kurallar.
+Süper Lig'e katılabilme.
+Süper Lig bir önceki sezondan ilk 15 takım ve aynı sezonun bir alt liginden gelen 3 takımla beraber 18 takımla oynanır. Kulüplerin Süper Lig'de mücadele edebilmesi için;
+Bu statü hükümlerine göre 2011-12 sezonunda;
+hususunda gerekli düzenlemeleri ve hazırlıkları yapmaları zorunludur.
+Pozisyonlarını görevlendirmek ve bu pozisyonlara ilişkin bilgileri TFF’ye belirlenen süreler içerisinde ibraz etmek zorundadırlar.
+Yukarıda bahsi geçen görevlilerin farklı kişilerden oluşması ve TFF tarafından sertifika verilmesi zorunludur.
+Yabancı oyuncu statüsü.
+Süper Lig de 2013-14 sezonunda kulüpler 10 yabancı futbolcu ile sözleşme imzalayabilir ve bunlardan 6'sını maç kadrosunda bulundurabilir. 2014-15 sezonunda ise kulüpler maksimum 8 yabancı uyruklu futbolcuyla sözleşme imzalayabilir ve bunlardan 5'ini maç kadrosunda bulundurabilir.
+Ayrıca, yabancı olan bir futbolcu aynı zamanda Türkiye vatandaşlığına da sahip ise (çift vatandaşlığı var ise) yabancı futbolcu sayılmamakta ve yabancı kontenjanını doldurmamaktadır. Bu duruma örnek olarak ise Billy Mehmet, Kâzım Kâzım ve Gökçek Vederson gösterilebilir. İrlanda'da doğan Billy Mehmet'in, İngiltere'de doğan Kâzım Kâzım'ın ve Brezilya'da doğan Gökçek Vederson'un aynı zamanda Türkiye vatandaşlığı da bulunduğundan dolayı yabancı futbolcu statüsüne dahil edilmemekte ve kulüplerinde Türk statüsünde forma giyebilmektedirler. Hatta Türk vatandaşlığı bulunmayan ancak kökeni Türk olan futbolcular da yabancı futbolcu sayılmamaktadır ve yabancı kontenjanını doldurmamaktadır. Bu duruma örnek olarak hâlen Beşiktaş'ta oynayan, Türk vatandaşlığı olmayan, Avusturya vatandaşlığı olan ve Avusturya Millî Futbol Takımı'nda forma giyen Ekrem Dağ ve Veli Kavlak gösterilebilir. Yine Beşiktaş'ta oynayan, Türk vatandaşlığı olmayan ancak Avusturya vatandaşlığı olan Tanju Kayhan da bu duruma örnektir.
+Lig düzeni.
+Süper Lig 18 takımdan oluşur. Sezon ağustosta başlar ve mayısta sona erer. Maçlar federasyonun belirlediği saatlerde başlar. Süper Lig müsabakaları bir orta, iki yardımcı, bir dördüncü, iki de kale arkasında bulunan asistan hakemle birlikte toplam 6 hakem tarafından yönetilir. Her maç öncesi İstiklâl Marşı söylenir. Eğer saygı duruşu yapılacaksa bu İstiklâl Marşı'ndan sonra yapılır. 
+Takımlar sezon boyunca her takımla iki kez karşılaşırlar. Bu maçların bir tanesi takımın kendi sahasında diğer maç da rakibinin sahasında oynanır. Böylelikle bir sezon sonunda bir takım 34 maç yapmış olur. Diğer takımlar da ele alınırsa bir Süper Lig sezonu 34 haftada 306 karşılaşmadan oluşur. Maçın bir tarafın galibiyetiyle bitmesi halinde maçı kazanan takım üç puan kazanır. Kaybeden takım ise puan alamaz. Eğer maç bir tarafın galibiyetiyle sonuçlanmamışsa yani berabere bitmişse iki takım da birer puan kazanırlar.
+Sezon sonunda takımlar aldıkları bu puanlara göre sıralanırlar. 34 hafta sonunda ilk sırayı alan takım, lig şampiyonu olur ve bir sonraki sezon UEFA Şampiyonlar Ligi gruplarına direkt katılır. Ligi 2. sırada bitiren takım, UEFA Şampiyonlar Ligi 3. ön eleme turuna, ligi 3. bitiren takım UEFA Avrupa Ligi 3. ön eleme turuna ve ligi 4. sırada bitiren takım UEFA Avrupa Ligi 2. ön eleme turuna gider. Ligi son 3 sırada bitiren takım 1. Lig'e düşer. 1. Lig'den de 3 takım Süper Lig'e katılır.
+İkili averaj.
+Sezon sonunda iki takım aynı puana sahiplerse:
+Bu sonuçlar alındığında B Takımı, A Takımı'na sıralamada üstünlük sağlar.
+Bu sonuçlar alındığında A Takımı, B Takımı'na sıralamada üstünlük sağlar.
+Üçlü ve daha fazla averaj.
+Sezon sonunda üç veya daha fazla takım aynı puana sahiplerse kendi aralarında yapılan maçlara bakılır. Eğer sonuçlar aynıysa genel averaja bakılır. Diğer rakiplerine üstünlük sağlayan takım daha üst sırada yer alır. Örneğin;
+Bu örneği 2007-08 sezonunda yaşanan olayla gösterirsek;
+2007/08 Sezonu Puan Durumu
+Sivasspor ikili averajda Beşiktaş ile eşit, genel averajda da Beşiktaş'tan üstün olmasına rağmen, Fenerbahçe'ye daha farklı sonuçlarla yenildiği için ligi 4. sırada tamamlamıştır.
+Avrupa kupalarına katılabilme.
+Süper Lig TFF'ye, TFF'de UEFA'ya bağlı olduğu için bir sezon sonunda başarılı takımlar UEFA'nın organize ettiği, UEFA Şampiyonlar Ligi, UEFA Avrupa Ligi organizasonlarından birine katılır. UEFA kurallarına göre, bir ülkenin belli bir sezonda kaç takım göndereceği ve bu takımların hangi aşamalardan kupa mücadelesine başlayacağı, o ülkenin bir önceki sezonda topladığı UEFA ülke puanlarına göre hesaplanır.
+2011-12 sezonu için Avrupa Kupalarına ülkelerin göndereceği takım sayısını belirlemek için oluşturulan liste. (İtalik sayılar liglerin bir sene önceki sıralamasını göstermektedir.)
+2011-2012 sezonu sonuçlarına göre şampiyon olan Galatasaray, Şampiyonlar Ligi'ne grup aşamasında başlamış, lig ikincisi Fenerbahçe ön eleme 3. turundan başlamış, Lig üçüncüsü Trabzonspor Avrupa Ligi'ne ön eleme play-off turundan başlamış, Kupa finalisti Bursaspor Avrupa Ligi'ne 3. ön eleme turundan başlamış (kupa galibi olan Fenerbahçe'nin yerini alarak), lig dördüncüsü Beşiktaş'ın UEFA 2013 kriterlerini yerine getirememesi sebebiyle yerine lig beşincisi Eskişehirspor Avrupa Ligi'ne 2. ön eleme turundan katılmıştır.
+Ödüller.
+1 adet Süper Lig Kupası, 50 adet madalya ve para.
+Madalyalar.
+Süper Lig Müsabakaları sonunda birinci olan kulübün futbolcu, teknik heyet ve yöneticilerine, bu başarılarını simgeleyen toplam 50 adet olmak üzere birer madalya verilir.
+Para.
+Sezonu birinci sırada bitiren takım Türkiye Futbol Federasyonu tarafından dağıtılan dayanışma parası, ligin isim hakkı gelirleri ve performans primlerinin yanı sıra 15 milyon lira şampiyonluk ödülüne sahip oluyor.
+Sponsorluk.
+Süper Lig'in ana sponsoru ve isim sponsoru Spor Toto'dur. 
+Süper Lig'in 2010-11 sezonu diğer sponsorları:
+Süper Lig'in İzlenebilirliği.
+Yayın hakları.
+Süper Lig 1968 yılından itibaren özel kurumlara verilen yayın hakları nedeniyle yayın hakkını alan kurumların belirlediği ücretli kanallardan izlenebilmektedir. Süper Lig'i, 1968'den 1996'ya kadar TRT 1, 1990'dan 1996'ya kadar Star TV, 1992'den 1996'ya kadar Show TV, 1994'ten 1996'ya kadar Kanal D, 1995'ten 1996'ya kadar atv, 1996'dan 2000'e kadar Cine 5, 2000'den 2001'e kadar da Teleon yayınladı. 2001'den itibaren de Digitürk bünyesindeki Lig Tv'den yayınlanmaya başladı. Ayrıca Lig Tv, 2010 yılının başındaki ihaleyi 321 milyon dolarla kazanarak 2014 yılına kadar yayın haklarını elinde bulundurmaktadır.
+Öte yandan 2004-05 sezonunda TRT ile Digitürk arasında yapılan anlaşmayla sözkonusu sezon boyunca üç büyüklerin maçları dışında haftada bir maçın TRT tarafından naklen yayınlanmasına izin verildi.
+Televizyon yayınları.
+Bir sezonda oynanan özel ve resmi futbol karşılaşmalarından; Süper Lig karşılaşmaları yalnız TFF ile sözleşme imzalamış olan yayıncı kuruluş tarafından UEFA ve Yayın Talimatı hükümlerine uygun olarak televizyondan yayınlanabilmektedir.
+TFF’nin kulüpler adına ve hesabına yayın sözleşmesi imzaladığı kuruluşların en iyi şartlarda yayın yapabilmesi için gerekli ortamın sağlanması ev sahibi kulübün sorumluğundadır. Talimat ve bu statü ekinde belirlenen esaslara uygun olarak yapılacak yayına ilişkin hazırlıkların ve/veya yayının yapılmasının engellenmesi, yayının kısıtlanması ve/veya yayının devamına engel olunması halinde ev sahibi kulüp hakkında Futbol Disiplin Talimatı hükümleri uygulanır.
+Süper Lig karşılaşmaları yukarıda belirtildiği gibi TFF ile sözleşme imzalamış Digitürk'e yer bağlı olan Lig Tv adındaki 77. kanaldan yayınlanmaktadır. 2008-2009 yılından itibaren dört büyüklerin kendi evlerinde oynadığı maçlar yüksek çözünürlük yayın teknoloji ile de yayınlanmaktadır. Ligin özellikle ligin son haftalarında şampiyonluk ve ligde kalma mücadelesi veren takımların herhangi yasadışı bir olayla (şike, yasadışı bahis vb.) anılmaması için karşılaşmalar aynı saatte oynatılabilir. Bu tip durumlarda Lig Tv yayını dışında Digitürk bünyesindeki Lig TV 2 ve Lig TV 3 veya başka bir kanaldan Süper Lig karşılaşmasını yayınlayabilir.
+Süper Lig karşılaşmalarını ücretsiz olarak izleyebilme şansı da vardır, ancak sözkonusu karşılaşmaların yayını lig karşılaşmalarının önceden belirlenen tamamlanma saatinden 45 dakika sonra yayıncı kuruluşla anlaşan diğer televizyon kanallarınca yapılabilir.
+Radyo yayınları.
+Bir sezonda oynanan özel ve resmi futbol karşılaşmalarınndan; Süper Lig karşılaşmaları yalnız TFF ile sözleşme imzalamış olan yayıncı kuruluşlar tarafından UEFA ve TFF Yayın Talimatı hükümlerine uygun olarak radyodan yayınlanabilir.
+Ev sahibi kulüpler yayıncı firmanın en uygun şekilde görev yapmasını sağlamakla yükümlüdür. Süper Lig'in radyo yayın hakları 2012'ye kadar Türkiye Radyo ve Televizyon Kurumu'nun elindedir.
+Süper Lig 2013-14.
+Süper Lig, yeni sezonda 18 takımla oynanacaktır. Bu takımlar 2012-2013 sezonunu ilk 15 sırada bitiren takımlara ek olarak aynı sezonu bir alt ligde ilk iki sırada bitiren (Kayseri Erciyesspor ve Çaykur Rizespor) ile play-off final maçının galibi (Torku Konyaspor) takımlarıdır.
+İstatistikler.
+Lige Katılımlar.
+1959'dan bu yana kadar lige katılan takımlar. Bu listeye 2013/2014 sezonu dahil edilmiştir.
+
+</TEXT>
+</DOC>
+

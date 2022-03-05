@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>İtalya'da hakim olan din hangisidir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(5261, {label: "Hindistan",nodeclass: "type-TK"});
+ g.addNode(5262, {label: "pamuk",nodeclass: "type-TK"});
+ g.addNode(5263, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(5264, {label: "tütün",nodeclass: "type-TK"});
+ g.addNode(5265, {label: "üretimi",nodeclass: "type-TK"});
+ g.addNode(5266, {label: "bakımından",nodeclass: "type-TK"});
+ g.addNode(5267, {label: "dünyada",nodeclass: "type-TK"});
+ g.addNode(5268, {label: "kaçıncı",nodeclass: "type-TK"});
+ g.addNode(5269, {label: "sıra",nodeclass: "type-TK"});
+ g.addNode(5270, {label: "sıradadır",nodeclass: "type-TK"});
+ g.addNode(5271, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,5261,5270,{label: "ÖZNE"});
+ g.addEdge(null,5262,5263,{label: "NESNE"});
+ g.addEdge(null,5263,5266,{label: "BAĞLANTI"});
+ g.addEdge(null,5264,5265,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,5265,5266,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,5266,5270,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,5267,5270,{label: "DE HALİ"});
+ g.addEdge(null,5268,5269,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,5269,5270,{label: "TÜREME"});
+ g.addEdge(null,5270,5271,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

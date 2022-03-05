@@ -1,0 +1,49 @@
+Doğal konveksiyon
+Doğal konveksiyon nedeniyle sadece sıcaklık değişimleri ile ortaya çıkan sıvıda yoğunluk farklılıkları tarafından (vb pompa, fan, emme cihazı gibi) sıvı hareketi herhangi bir dış kaynak tarafından oluşturulan edilmediği ısı taşıma bir mekanizma ya da türü ama . Doğal konveksiyon olarak, bir ısı kaynağı çevreleyen sıvı, ısı alır az yoğun hale gelir ve artar. Çevre, soğutucu akışkan daha sonra onun yerine geçer. Bu soğutucu sıvısı daha sonra ısıtılır ve süreç bir konveksiyon akımı oluşturan, devam eder; Konveksiyon hücrenin altından bu işlem transfer ısı enerjisi üst için. Doğal konveksiyon için itici güç yüzdürme, akışkan yoğunluğundaki farklar bir sonucudur. Bu nedenle, örneğin, uygun bir ivme varlığı, yerçekimine bağlı direnç veya eşdeğer bir kuvvet (hızlanma, merkezkaç kuvveti ya da Coriolis etkisinden kaynaklanan) kaynaklanan doğal konveksiyon için gereklidir. Örneğin, doğal konveksiyon esasen bu diğer ısı transfer mekanizmaları aşırı ısınmasını elektronik bileşenleri önlemek için gereklidir yörüngesindeki Uluslararası Uzay İstasyonu, olduğu gibi serbest düşme (eylemsizlik) ortamlarda çalışmaz.
+Doğal konveksiyon nedeniyle doğa ve mühendislik uygulamalarında hem varlığını araştırmacıların dikkatini bir hayli çekti. Doğada, güneş ışığı ısıtılmış toprak ya da su üstünde hava yetiştirme oluşan konveksiyon hücreleri tüm hava sistemlerinin önemli bir özelliği vardır. Konveksiyon de ateşten sıcak hava, okyanus akımları ve (yukarı konveksiyon ayrıca Coriolis kuvvetleri tarafından değiştirilmiş) deniz rüzgar oluşumunun yükselen tüy görülür. Mühendislik uygulamalarda, konveksiyon yaygın erimiş metallerin soğutulması sırasında mikro oluşumu görsel ve akışkan akımları yaklaşık ısı dağılımı kanatçıklar, ve güneş göletler örtülmüştür. Doğal konveksiyon çok yaygın endüstriyel uygulama fanlar yardımı olmadan serbest hava soğutma şudur: Bu büyük ölçekli proses ekipmanları küçük ölçeklerde (bilgisayar çipleri) üzerinde olabilir.
+Parametreler.
+Başlangıç.
+Doğal devirdaimin bir başlangıcı Rayleigh sayısının (Ra) ile tespit edilir. Bu boyutsuz sayı ile verilir
+nerede
+Doğal konveksiyon daha çok ve / veya iki akışkan arasındaki yoğunluk daha büyük bir değişim ile daha hızlı olacaktır, / konveksiyon sürücüler ve yerçekimine bağlı büyük bir hızlandırma veya konveksiyon vasıtasıyla daha büyük bir mesafe. Konveksiyon daha az muhtemel ve / veya daha hızlı difüzyon ve / veya daha viskoz (yapışkan) sıvısı (böylece konveksiyon neden olan degrade uzakta difüzyon) ile daha az hızlı olacaktır.
+Üstünde kaynayan kap tarif edildiği gibi bağlı alttan ısıtma ısı konveksiyon için, denklem termal genleşme ve termal yayılma için değiştirilir. Isıl genleşme Yoğunluk varyasyonlar tarafından verilmektedir:
+nerede
+Genel yayınım, formula_5, termal yayılma, formula_12 olarak yeniden tanımlanır.
+Bu kısaltmaları takma termal konveksiyon tahmin etmek için kullanılabilir bir Rayleigh numarası üretir.
+Türbülans.
+türbülans doğru belirli bir doğal konvektif sistemin eğilimi Grashof sayısı (Gr) dayanır.
+Çok yapışkan viskoz akışkanların (büyük "ν") olarak sıvı hareketi kısıtlanır ve doğal konveksiyon olmayan çalkantılı olacak.
+Önceki bölümde tedavisi sonra, tipik bir sıvı hızı sisteminin geometrisine bağlı olarak sayısal bir faktör kadar formula_16 mertebesindedir. Bu nedenle Grashof sayısı Reynolds sayının formülündeki hızını değiştirerek doğal konveksiyon hızı ile Reynolds sayısının olarak düşünülebilir. Reynolds sayısı ile ilgili Ancak uygulamada, bu bir konveksiyon zorla göz önüne alındığında, ve hız dış kısıtlar (aşağıya bakınız) tarafından dikte hız olarak alınmıştır anlaşılmaktadır.
+Davranış.
+Grashof sayısı doğal konveksiyon nedeniyle, bir konsantrasyon gradyanı meydana için formüle edilebilir, bazen de termo-solutal konveksiyon olarak adlandırılır. Bu durumda, sıcak akışkan bir konsantrasyonu soğuk sıvı içinde dağılır, mürekkep su bir kap içine döküldü olduğu kadar aynı şekilde tüm alanı boya yayılır. Sonra:
+Doğal konveksiyon sıcak yüzeyin geometrisi son derece bağlıdır, çeşitli korelasyon ısı transfer katsayısı belirlemek amacıyla mevcut.
+Geometrilerin çeşitli geçerli genel bir korelasyon
+f4 değeri (Pr), aşağıdaki formül kullanılarak hesaplanır
+Nu Nusselt sayısı ve NU0 değerleri ve Ra hesaplamak için kullanılan karakteristik uzunluk aşağıda listelenmiştir (ayrıca Tartışma):
+Uyarı: Yatay silindir için belirtilen değerler yanlış; tartışmaya bakınız.
+Dikey Plate Doğal Konveksiyon.
+Bu sistemde, ısı, doğal konveksiyon ile buna bir sıvı hareketli paralel dikey bir plaka aktarılır. Hareketli sıvının yoğunluğu pozisyonuna göre değişir ve bu, herhangi bir sistem ortaya çıkar. Hareketli sıvı minimal zorla konveksiyon etkilenir zaman bu olayların sadece önemi olacaktır.
+Isıtma sonucu akışkanın akışı göz önüne alındığında, aşağıdaki ilişki sabit sıcaklıkta bir dik plaka, sıvı varsayarak bir yere atomlu olan, bitişik olan kullanılabilir ve sıvının akış tamamen laminer.
+Num = 0.478 (Gr0.25)
+Nusselt sayısı = Num = hml / k ortalama
+Nerede
+Hm = (W / m2 dir. K) plaka alt kenarı ile bir mesafe L herhangi bir noktasında arasında geçerli katsayısı ortalama
+L = Dikey yüzeyinin yüksekliği (m)
+k = ısıl iletkenlik (W / m. K)
+Grashof Number = Gr = formula_20
+Nerede
+g = yerçekimi ivmesi (m / s2)
+L = alt kenarından yukarıdaki mesafesi (m)
+ts = duvarın sıcaklığı (K)
+Termal sınır tabakası dışında t∞ = akışkan sıcaklığı (K)
+sıvının v = kinematik viskozite (m² / s)
+T = mutlak sıcaklık (K)
+Akış Rayleigh sayısı (kullanılmalıdır Grashof Sayısı ve Prandtl Sayısı hem bir fonksiyonu) içeren çalkantılı farklı korelasyon olduğu zaman.
+Desen oluşumu.
+Konveksiyon, konveksiyon sıvısı iki katı yatay plakalar içerdiği özellikle Rayleigh-Benard konveksiyon, bir desen oluşturan sistemin uygun bir örnektir.
+Isı bir doğrultuda (genellikle aşağıda) sisteme beslendiği zaman, küçük değerlerde bu sadece sıvı akışını neden olmadan, yukarı doğru aşağıdaki ("davranışlarını") yayılır. Isı akışı arttıkça, Rayleigh sayısının kritik bir değerin üstünde, sistem ısı nedeniyle sıvının toplu hareketi başlar "konveksiyon" devlet, devleti "iletken" kararlı bir çatallanma uğrar. Yoğunluk dışında sıvı parametreler sıcaklığına önemli ölçüde bağlıdır yoksa, akış profili düşme yükselen sıvının aynı hacimde, simetriktir. Bu Boussinesq konveksiyon olarak da bilinir.
+Sıvının üst ve alt kısımları arasındaki sıcaklık farkı daha yüksek hale geldikçe, yoğunluk dışında sıvı parametrelerde farklılık sıcaklık nedeniyle sıvı gelişebilir. Böyle bir parametrenin bir örneği, önemli ölçüde sıvı tabakaları yatay olarak değişebilir başlayabilir viskozitesi vardır. Bu sistemin simetrisini kırar ve genellikle desen değiştiren yukarı ve aşağı hareket sağda görüldüğü gibi, altıgen için çizgili sıvı. Bu gibi altıgen bir konveksiyon hücrenin bir örnektir.
+Rayleigh sayısı konveksiyon hücreleri ilk görünen değerin üstünde daha da arttıkça, sistem görünmeye başlayabilir, diğer bifurcations ve bu spiraller gibi diğer daha karmaşık desenler, maruz kalabilir.
+Manto konveksiyon.
+Dünya'nın manto içinde Konveksiyon levha tektoniği için itici güçtür. Alt manto üst manto daha sıcak ve bu nedenle daha az yoğundur: manto konveksiyon termal gradyan sonucudur. Bu istikrarsızlıkların iki temel tip kurar. Birinci tür, tüyleri alt manto yükselecek ve arka manto içine litosfer damla kararsız bölgeleri gelir. İkinci tip ise, (büyük ölçüde mantonun üst ısıl sınır tabaka oluşturur) okyanus plakaları dalan manto geri dalma ve çekirdek-manto sınırında aşağıya doğru hareket ettirin. Manto konveksiyon yılda santimetre hızlarda gerçekleşir ve konveksiyon bir döngüsünü tamamlamak için milyonlarca yıl yüzlerce sipariş alır.
+Dünya'nın çekirdeğinde (kamLAND bakınız) iç çekirdek ısı yaklaşık üçte ikisi kaynağını göstermek gelen nötrino akısı ölçümleri 40K, uranyum ve toryum radyoaktif bozunma olduğunu. Bu basitçe Dünya'nın oluşumundan arta kalan ısının tarafından tahrik edildi eğer olurdu çok uzun devam Dünya'da plaka tektoniği izin verdi; ya da gezegenin merkezine doğru Dünya'nın iç kısımlarının yoğun fiziksel yeniden düzenlenmesi sonucu çekim potansiyel enerjisinden üretilen ısı ile (yani, düşme ve çökeltme uzun süreli bir türü).

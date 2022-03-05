@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir+Adverb bir+Det bir+Num+Card bir+Adj Bir+Noun+Prop+A3sg+Pnon+Nom
+yörede yöre+Noun+A3sg+Pnon+Loc
+turizmin turizm+Noun+A3sg+Pnon+Gen turizm+Noun+A3sg+P2sg+Nom
+etkinliğinin etkin+Adj^DB+Noun+Ness+A3sg+P2sg+Gen etkin+Adj^DB+Noun+Ness+A3sg+P3sg+Gen
+fazla faz+Noun+A3sg+Pnon+Ins fazla+Adverb fazla+Adj fazla+Postp+PCAbl
+olması ol+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+o o+Det o+Noun+A3sg+Pnon+Nom o+Pron+Demons+A3sg+Pnon+Nom o+Pron+Pers+A3sg+Pnon+Nom
+yörenin yöre+Noun+A3sg+Pnon+Gen yöre+Noun+A3sg+P2sg+Gen
+ticari ticari+Adj
+gelişimini gelişim+Noun+A3sg+P2sg+Acc gelişim+Noun+A3sg+P3sg+Acc
+nasıl nasıl+Adverb nasıl+Adj
+etkiler etki+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl etki+Noun+A3pl+Pnon+Nom etkile+Verb+Pos+Aor+A3sg etkile+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

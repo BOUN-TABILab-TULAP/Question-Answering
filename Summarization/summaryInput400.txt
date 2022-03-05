@@ -1,0 +1,462 @@
+Question: Birim alan ya da hacimdeki birey sayısına ne denir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kübik kristal sistemi</DOCTITLE>
+<TEXT>
+
+Kristalografi olarak, kübik (ya da izometrik) kristal sistemi, birim hücresi bir küp biçiminde olan kristal sistemidir. Bu kristal ve mineraller bulunan en yaygın ve basit şekillerden biridir.
+Bu kristallerin üç ana çeşidi vardır:
+Kübik Alan Grupları.
+Bravais Örgüsü üç kristal sistemi oluşturur:
+Basit kübik kafes örgüsünde (cP) küpün her köşesinde tek bir kafes noktası oluşur. Bir kafes noktasında her atom sekiz komşu küp arasında paylaşılır ve birim hücre bu nedenle toplam tek atom içerir. ( × 8).<br> Hacim Merkezli Kübik Kafes sistemi (cI) sekiz köşe noktalasına ek olarak birim hücre merkezinde bir kafes noktasına sahiptir. Birim hücre toplamda iki atom içerir.( × 8 + 1).<br> Yüzey Merkezli Kübik Kafes sistemi (cF) Küpün yüzlerinde örgü noktalarına sahiptir, bu örgü noktalarının her biri yarım atom içermektedir bu sistem toplamda dört atom içerir ( × 8 köşe noktalarından  × 6 yüzey noktalarından).
+Yüzey merkezli kübik kafes sistemi hekzagonal kafes sistemi ile yakındır sadece yerleşimleri farklıdır.
+Kristal Sınıfları.
+" İzometrik kristal sistemin" sınıf isimleri, örnekleri, Schönflies notation, Hermann-Mauguin notasyonu, kristalografik nokta grubu, Kristalografi alan grup numarası için Uluslararası Tablolar, orbifold notasyonu, tip, ve alan grupları Aşağıdaki tabloda yer almaktadır. Toplam 36 kübik alan grubu vardır.
+Hexoctahedral için kullanılan diğer terimler şunlardır: normal sınıf, , orta sınıf, galen tipi.
+Birim Hücredeki Boşluklar.
+Basit kübik birim hücresi merkezinde tek bir kübik boşluklar vardır.
+Hacim merkezli kübik kafes sisteminin bir birim hücresinde her altı yüzdeki oktahedral boşlukların toplamından net üç oktahedral boşluk elde edilir. Ayrıca 36 tetrahedral boşluktan da toplamda onsekiz net tetrahedral boşluk elde edilir. Bu tetrahedral boşluklar yerel maksimum değildir ancak zaman zaman çoklu atomların birim hücrelerinde belirlenir.
+Yüzey merkezli kübik kafes sisteminin bir birim hücresinde sekiz net tetrahedral boşluk vardır. Ayrıca dört adet net oktahedral boşluk olmak üzere birim hücrenin tam ortasındaki bir oktahedral deliğin kenar merkezinde yer alan oniki oktahedral boşluk vardır.
+Atomun Paketlenme Faktörü ve Örnekler.
+Atomların birim kafes içerisinde ne kadar sıklıkla dizildiğini yani kafesin ne kadarının boş ne kadarının dolu olduğunu gösterir.
+APF=(birim hücredeki atomların sayısı)x(bir atomun hacmi) / (bir hücrenin hacmi)
+Basit Kübik Kafesin APF'ün hesaplanması:
+(APF)cP=(1)(4/3πR3) / (2R3) = 0.52
+Doğada nadir olmak üzere Örnek: Polonyum.
+Hacim Merkezli Kübik kafesin APF'ün hesaplanması:
+(APF)cl=(2)(4/3πR3) / (4R/√3)3=0.68
+Örnek: demir, krom, tungsten, niobyum
+Yüzey Merkezki Kübik Kafesin APF'ün hesaplanması:
+(APF)cF=(4)(4/3πR3) / (4R/√2)3=0.74
+Örnek: alüminyum, bakır, altın, gümüş
+Multi-Element Bileşikler.
+Birden fazla elemanla oluşan bileşikler (örneğin ikili bileşik ler) genellikle kübik kristal sistemin esas kristal yapısına sahiptir.Daha yaygın olanlardan bazıları burada listelenmiştir.
+İç İçe Geçmiş Basit Kübik (sezyum klorür) Yapısı.
+Bir yapı iç içe geçmiş basit kübik yapı ise, bu yapıya "sezyum klorür" yapısı denir. İki atom türünün her biri ayrı bir basit kübik kafes oluşturur, atomların düzenlenmesi gövde-merkezlidir yani merkezdeki atom türü ile gövdedeki atom türü farklıdır.(bkz. here.)Alternatif olarak, bir kübik boşluk ikincil bir atom ile basit kübik yapı yaparak bu örgü görülebilir.
+Sezyum klorürün dışında alkali halitleri bu yapıya örnek gösterebiliriz(Düşük sıcaklıklarda ve yüksek basınç altında hazırlandıkları zaman). Bu yapı genellikle yaklaşık aynı boyutlara sahip iyonlardan oluşmaktadır. (örneğin,Cs iyon yarıçapı+ = 167 pm, ve Cl− = 181 pm) .
+Yapıdaki her atomun koordinasyon sayısı 8: gösterildiği gibi merkezi katyon bir küpün köşelerinde 8 anyon koordine edilir ve benzer şekilde, merkezi anyon bir küpün köşelerinde 8 katyon koordine edilir.
+Kayatuzu yapısı.
+Biri kendi oktahedral delikli orta atomlu bir gövde-merkezli kübik yapı olarak bu yapıyı görmek mümkün olabilir.
+Bu yapıya sahip bileşiklerin örnekleri arasında hemen hemen tüm diğer alkali halidlerin yanı sıra sodyum klorür , ve  iki değerlikli metal oksitler, sülfürler, selenidler, ve tellür bulunmaktadır". Genel olarak, Bu yapıda katyon anyon (0,414-0,732 bir katyon / anyon yarıçapı oranı) biraz daha küçük ise, oluşturulması daha olasıdır.
+Bu yapıda her atomun koordinasyon sayısı 6'dır: Her katyon köşeleri 6 anyon için koordinedir oktahedron ve benzer şekilde, her anyon bir oktahedronun köşeleri 6 katyonla koordine edilmektedir.
+Atomlar arası mesafe (katyon ve anyon arasındaki mesafe, ya da yarı birim hücre uzunluk "a") Bazı kaya tuzu-yapı kristalleri : 2.3 Å (2.3 × 10−10 m) for NaF, 2.8 Å for NaCl, and 3.2 Å for SnTe.
+Çinkoblend Yapısı.
+Başka bir ortak yapı mineral adını taşıyan "Çinkoblend" yapısı, bir Çinkoblend (sfalerit).Kaya tuzu yapısında olduğu gibi, iki atom türü iç içe yüzey merkezli kübik kafes oluştururlar. Bununla birlikte, iki örgü birbirlerine göreceli olarak konumlandırılmış ve kaya tuzu yapısından farklıdır.Çinkoblend yapıya sahip her atom en yakın komşularının dört köşeleri gibi konumlandırılmış zıt tip, dört atomdan oluşur.düzenli tetrahedron. Özet olarak, Çinkoblend yapıda düzenli atom düzenlemesi elmas kübik yapısı ile aynı olan, fakat farklı kafes bölgelerinde atom türleri dönüşümlü olan bir yapıdır. (bkz. here.)
+Bu yapıya sahip bileşiklerin örnekleri arasında Çinkoblend kendisi, kurşun (II) nitrat, pek çok bileşik yarı iletkenler (örneğin galyum arsenit ve kadmiyum tellür), diğer ikili bileşikler ve geniş bir dizi içerir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektriksel alan</DOCTITLE>
+<TEXT>
+
+Elektriksel alan, kıvıl alan, elektrik alan veya elektrik alanı, elektriksel yükü veya manyetik alanı çevreleyen uzayın bir özelliği olup, içerisinde bulunan yüklü nesnelere elektriksel güç aracılığı ile etki eder. Kavram fiziğe Michael Faraday tarafından kazandırılmıştır.
+Elektrik alan SI birimi Newton/Coulomb ya da Volt/metre olan bir vektör alanıdır. SI temel birimleri cinsinden kg·m·s−3·A−1 olarak ifade edilir. Alanın belli bir noktadaki büyüklüğü o noktaya konacak 1 Coulomb'luk bir test yüküne ne kadar kuvvet uygulayacağıyla belirlenir, alanın yönü kuvvetin yönüdür. Elektrik alan, yoğunluğunun büyüklüğü alan büyüklüğünün karesiyle doğru orantılı elektriksel enerjiye sahiptir. Elektrik alanın yükle ilişkisi yerçekimi ivmesinin kütleyle ilişkisinin ve kuvvet yoğunluğunun hacimle ilişkisi gibidir.
+Zamana göre değişen bir elektrik alan (mesela hareketli bir yüklü parçacık nedeniyle) yerel manyetik alana sebep olur. Bu, elektrik ve manyetik alanların birbirinden bağımsız olmadığını gösterir; bir gözlemcinin yalnızca elektrik alan olarak gözlemlediğini başka bir referansa göre başka bir gözlemci bir elektrik ve manyetik alan karışımı olarak gözlemleyebilir. Bu nedenle elektrik ve manyetik alanlardan ayrı ayrı bahsetmek yerine bu ikisi “elektromanyetizma” ya da “elektromanyetik alan” olarak, birlikte incelenir. Kuantum mekaniğinde elektromanyetik alandaki değişmeler foton olarak adlandırılır ve fotonun enerjisi kuantize olmuştur.
+Tanım.
+Elektrik alan alan içinde belli bir noktada sabit duran noktasal yüke uygulanan, yük başına düşen kuvvet olarak tanımlanır:
+F parçacık tarafından hissedilen elektriksel kuvvet,
+"q" parçacığın yükü,
+E parçacığın konumundaki elektrik alan.
+Literal olarak alındığında bu denklem elektrik alanı yalnızca alanda durağan yükler olduğunda tanımlar. Dahası, alandaki yükler elektrik alanı değiştireceğinden, herhangi bir "q" yükünün varlığındaki elektrik alan o yük olmadığında olandan daha farklı olacaktır. Fakat, verili bir yük dağılımından kaynaklanan elektrik alan bu alanı hissedecek hiçbir parçacık olmasa dahi tanımlıdır. Bu tanımlılık alana varsayımsal olarak yerleştirilen test yükü ile sağlanır. Bu sayede elektrik alan test yükü sıfıra yaklaşırken yükün hissedeceği kuvvet ile tanımlanır:
+Bu ifade elektrik alanın yalnızca kaynak yük dağılımına bağlı olmasını sağlar.
+Tanımdan anlaşılabilceği üzere elektrik alanın yönü pozitif yüklü parçacığın hissedeceği kuvvetin yönüyle aynı, negatif yüklü parçacığın hissedeceği kuvvetin yönünün zıttıdır. Aynı yükler birbirini çekip zıt yükler birbirini iteceğinden (aşağıda formülü verilmiştir), pozitif yüklerin etrafındaki alanların dışarıyı gösterdiğini ve negatif yüklerin etrafındaki alanların içeriye doğru yöneldiğini söyleyebiliriz.
+Coulomb yasasına dayanarak, uzayda tek bir noktasal yük tarafından üretilen elektrik alanı yazabiliriz:
+ E=1/4pi...
+"q" elektrik alanı üreten parçacığın yükü,
+"r" elektrik alanı hesapladığımız nokta ile "q" yükü arasındaki uzaklık,
+r "q" yükünden elektrik alanın hesaplandığı noktayı gösteren birim vektör,
+epsilon yalıtkanlık sabiti.
+Birden fazla noktasal yükün ürettiği elektrik alan yüklerin teker teker ürettiği elektrik alanların süperpozisyonudur:
+Alternatif olarak, Gauss yasası uzayda sürekli bir yük yoğunluğu dağılımının ürettiği elektrik alanı hesaplamamızı sağlar.
+"ρ" pozisyona bağlı olarak yük yoğunluğunu verir.
+Coulomb yasası esasen elektrik yük dağılımı ile bu dağılımdan kaynaklanan elektrik alan arasındaki ilişkiyi gösteren Gauss yasasının özel bir halidir. Gauss yasası elektromanyetik teoriyi oluşturan dört Maxwell denklemlerinden biridir.
+Elektrik alan çizgileri.
+Elektrik alanını zihinde daha kolay canlandırmak için elektrik alan çizgileri kullanılır. Elektrik alan çizgilerinin özellikleri şunlardır:
+Sabit alanlar.
+Her noktada aynı değere sahip olan elektrik alana sabit elektrik alan denir.İki paralalel iletken levhaya potansiyel fark uygulanarak yaklaşık olarak elde edilebilir.Yaklaşık olmasanın sebebi elektrik alanın köşelerde düzenli halinden uzaklaşmasıdır.Bu etkenleri ihmal edersek eşitlik
+formula_5 halini alır.
+Bu eşitlik sadece elektrik alanın büyüklüğünü vermektedir.Elektrik alanın yönü ise pozitif yüklü levhada negatif yüklü levhaya doğrudur.
+Sabit alanda yüklü parçacığın hareketi.
+m kütleli, q yüklü bir cismi E elektrik alanına koyarsak, bu cisme formula_6 kadarlık bir net kuvvet etki eder, dolayısıyla cisim ivmeli hareket yapar.(Newton'ın hareket yasaları) Yani cismin ivmesi
+Zamana bağlı alanlar.
+Elektrik alan durağan bir yük tarafından üretilebileceği gibi değişen manyetik alanın sonucu olarak da oluşurlar. Sonuç olarak,
+"phi" skaler elektrik potansiyeli,
+"A" manyetik vektör potansiyeli.
+Aynı zamanda formula_9 vektörü manyetik debi yoğunluğunu verir. Elektrik alan denkleminin curl'ünü alırsak,
+Bu denklem Maxwell denklemlerinden biridir, Faraday-Lenz yasası olarak bilinir.
+Elektrostatik durağan yükleri çevreleyen elektrik alanların bilimiyken manyetik alanın değişmesiyle oluşan elektrik alanlar elektrodinamik ve elektromanyetik konusudur.
+Elektrostatik özellikler.
+Yukarıdaki denklemlerde görüldüğü gibi elektrik alan pozisyona bağlıdır. Noktasal bir yük tarafından üretilen elektrik alan parçacığa olan uzaklığın karesiyle azalır.
+Elektrik alan süperpozisyon prensibine uyar. Eğer birden fazla noktasal kaynak varsa herhangi bir noktadaki toplam elektrik alan bu noktasal kaynakların o noktada tek başına ürettiği elektrik alanların vektörel toplamıdır.
+Bu kural sonsuz sayıda küçük yük elementi için genişletilirse toplam formülü integrale dönüşür:
+"ρ" pozisyona bağlı olarak yük yoğunluğunu yani birim hacme düşen yük miktarını verir.
+Bir noktadaki elektrik alan o noktadaki elektriksel potansiyelin negatif gradyanına eşittir:
+"φ" verilen noktada elektriksel potansiyeli gösteren skaler alandır.
+Eğer birden fazla yük dağılımını böyle bir elektriksel potansiyel üretiyorsa (örneğin bir katıda) elektrik alan gradyanı da tanımlanabilir.
+Doğrusal materyallerin yalıtkanlık sabiti epsilon olmak üzere, dielektrik alan aşağıdaki formül ile verilir:
+Elektriksel potansiyel enerji.
+Elektrik alan enerji depolar. Bir elektrik alanın enerji yoğunluğu aşağıdaki gibidir.
+epsilon alanın içerisinde bulunduğu yerin yalıtkanlık sabiti, E elektrik alan vektörüdür. Böylece, verili bir "V" hacminde depolanan toplam enerji d"V" diferansiyel hacim elementi olmak üzere
+olarak verilir.
+Elektrostatik ve kütle çekimi arasındaki paralellikler
+Elektrik yükleri arasındaki ilişkiyi gösteren Coulomb yasası
+Newton'ın evrensel kütleçekim yasası ile benzerdir:
+Bu, elektrik alanla yer çekimi alanı arasında benzerlikler olduğunu gösterir. Bu benzerlikler:
+Elektrostatik ve kütleçekim kuvvetleri arasındaki farklar:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektromanyetik alan</DOCTITLE>
+<TEXT>
+
+Elektromanyetik alan, Elektrik alanı'ndan ve Manyetik alan'dan meydana gelir.
+Fizikte elektromanyetik alan elektrik yükü olan parçacıkların çevrelerinde yarattıkları ve diğer yüklü parçacıklar üzerinde kuvvet uygulayan bir etkidir. Bu kuvvet çekme itme veya aradaki doğruya dik yönde olabilir. 
+Dört temel nicelik.
+Elektromanyetik alan dört ayrı nicelikle tanımlanır. Bunlar E, D, H, B harfleriyle gösterilirler
+E: Elektrik alanı
+D: Elektrik akı yoğunluğu
+H: Manyetik alan 
+B: Manyetik akı yoğunluğu
+İrdeleme :H ve B nicelikleri mühendisler ve fizikçiler tarafından farklı farklı adlandırılır. Yukarıdaki tanım mühendislik tanımıdır. Fizikçiler ise B yi manyetik alan olarak, H ye yardımcı manyetik alan olarak tanımlamayı tercih ederler.
+Birimler.
+Aşağıda gerek dört niceliğin gerekse geçirgenliklerin birim ve temel birim cinsinden birim karşılıkları gösterilmiştir.(A amper, kg kilogram,s saniye,m metre, V volt, C coulomb, T tesla, F farad, H henri )
+Maxwell denklemleri.
+18. ve 19. yüzyılda elektrik ve manyetizma alanında pek çok buluş yapılmıştı. Bu buluşlar İngiliz (İskoçyalı) bilim adamı James Clerk Maxwell (1831-1879) tarafından derlendi. Maxwell yasaları dört tanedir.Ama bu yasalar aynı zamanda bu yasaları geliştirenlerin adıyla da bilinir.
+1. Gauss yasası (elektrik alan için).
+Alman bilim adamı Carl Friedrich Gauss’un (1767-1855) bu yasası aslında Fransız bilim adamı Charles Augustin de Coulomb’un (1736-1806) iki elektrik yükü için geliştirdiği yasanın genelleştirilmiş halidir. Bu denklemde ρ ile elektrik yük yoğunluğu gösterilmiştir.(C/m3) Yasaya göre,içinde elektrik yük olan bir hacmin duvarlarından geçen elektrik akısının (D) toplamının elektrik yüke eşit olduğu belirtilmektedir.
+2. Gauss yasası (manyetik alan için).
+Bu yasada elektrik alan yasasının manyetik alana uygulanmış halidir. Ne var ki, manyetik kutuplar daima çift çift bulunurlar. İzole edilmiş bir manyetik kutup bulmak mümkün olmadığından, her hangi bir hacim içersinde artı kutup ve eksi kutbun etkileri birbirlerini ortadan kaldırır. Sonuç olarak hacmin duvarlarından net akı geçişi olmaz.
+3. Faraday yasası.
+İngiliz bilim adamı Michael Faraday (1791-1867) tarafından geliştirilen bu yasaya göre manyetik alandaki değişiklik elektrik alan meydana getirir. 
+4. Ampere yasası.
+Fransız bilim adamı Andre Marie Ampere'in (1775-1836) daha sonra Maxwell tarafından revize edilmiş bu denleminde J akım yoğunluğu, yani iletkenin birim kesit alanından akan akımdır. Yasaya göre, manyetik alanı iki unsur meydana getirir; bir iletkenden akım geçmesi ve elektrik alanının değişikliği.
+Geçirgenlik.
+Dört nicelik birer katsayı ile ikiye indirilebilir.
+Burada ε elektrik geçirgenlik (dielektrik sabit,"permittivity") ve μ da manyetik geçirgenliktir ("permeability") . 
+Elektrik geçirgenlik değeri boşlukta 
+Elektromanyetik dalga.
+Boşlukta, yani elektrik yük ve akımlarının uzağında, Maxwell denklemlerindeki iki nicelik yani ρ ile gösterilen yük yoğunluğu ve J ile gösterilen akım yoğunluğu 0 a eşit olur.Bu durumda , Birinci denklemin sağ tarafı da 0 a eşitlenir. Ayrıca, diğer iki denklem de simetrik hale gelir.
+Bu durum Işık (ve gözün göremediği diğer radyasyonu) ifade etmektedir.Bu sebeple gerek ışık, gerekse gözün göremediği diğer radyasyon elektromanyetik dalga olarak nitelendirilir. Elektromanyetik dalgada elektrik ve manyetik alanlar birbirlerine ve ışığın gidiş yönüne diktirler.Basitleştirerek örneklemek gerekirse, kartezyen koordinatlarda polarize edilmiş ışık x ekseni boyunca yol alırken, elektrik alanı y ekseni üzerinde ve manyetik alan da z ekseni üzerindedir. Bu sebepten, ışığın sürati ve iki geçirgenlik katsayısı arasında bir ilişki kumak mümkündür. 
+Buna göre μ atanmış, yani değeri ε ye dayandırılmış bir katsayıdır. Elektrik ve manyetik geçirgenlik ile ışık hazı arasında şu ilişki vardır:
+Burada c ışık hızıdır.
+olduğundan,
+Yaklaşık değerler.
+Fazla duyarlı olmayan hesaplar için bazı yaklaşık değerler alınabilir:
+Madde içinde geçirgenlik.
+Dielektrik madde içinde elektrik geçirgenlik boşluktakinden, daha büyük değerler alır. Çeşitli maddeler içindeki geçirgenlik değerleri tablolar halinde hazırlanmıştır. Ancak uygulamada boyutsuz bağıl geçirgenliği bilmek yeterlidir.
+Burada ε madde içinde geçirgenlik, εr bağıl gheçirgenlik ve ε0 da boşluktaki geçirgenliktir. Mesela plastik maddelerde bağıl elektrik geçirgenlik 5 dolaylarındadır.
+Manyetik geçirgenlik te madde içinde boşluktakinden farklı değerler alabilir. Bu değerler paramanyetik maddelerde büyük, ferromanyetik maddelerde çok büyük, diyamanyetik maddelerde ise boşluktakinden küçüktür. Mesela demir için bağıl manyetik geçirgenlik 5000 i geçebilir.Manyetik geçirgenlik için de bağıl değer gösterimi vardır.
+Kırılma indisi.
+Işığın kırılması ile ilgili katsayı kırılma indisidir. Kırılma indisi şu şekilde verilir:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Astronomik birim</DOCTITLE>
+<TEXT>
+
+Astronomik birim (Simgesi: AU; İngilizce: Astronomical Unit), gökbilimde kullanılan bir uzaklık birimi. Bir astronomik birim Güneş'in merkeziyle Dünya'nın merkezi arasındaki uzaklık olan 149,6 milyon km. ya da 92,9 milyon mil'dir. Astronomik birim, evrendeki büyük uzaklıkları belirtmek için kullanılır.
+Dünya'nın yörüngesi dairesel değil, eliptiktir. Bu nedenle, 1 astronomik birim, Dünya'nın Güneş çevresinde çizdiği eliptik yörüngenin büyük ekseninin yarısı (bkz. Yarı büyük eksen) kabul edilir. Ancak, Güneş yavaş yavaş kütle yitirdiği için, Dünya'nın yörüngesel dolanım süresi de artmaktadır. Bu da, astronomik birimin git gide küçüldüğü (yılda yaklaşık 1 cm.) anlamına gelir. Öte yandan, evrensel çekim sabitinin (G) değerindeki belirsizikten ötürü, Güneşin kütlesi tam olarak bilinememektedir. Evrensel çekim sabiti 5 ya da 6 ondalık değere kadar bilindiği halde, Dünya'nın yörüngesel konumu 11 ya da 12 ondalık değere kadar bilinebildiğinden, yörüngesel hesaplamalar ister istemez, astronomik birimin kesinliğine bağlı olarak yapılmaktadır. Bu da, hesaplamalarda, dolayısıyla 1 astronomik birimin gerçekte ne kadar olduğu konusunda belirsizliğe yol açmaktadır.
+Bu nedenlerle, Uluslararası Astronomi Birliği (International Astronomical Union) 1976 yılında aldığı bir kararla, 1 astronomik birimi, kütlesi sıfır kabul edilen bir taneciğin 1 Gauss yılı (365,256.898.300 gün) sürede çizdiği düzgün dairesel yörüngenin yarıçapı olarak kabul ederek kesinleştirmiştir. Buna göre, 1 Astronomik birim 149.597.870.691 ± 30 metre'dir.(Temel parçacığın belirtilen yörüngede hareketi esnasında sahip olduğu sabit hız belirtilmemiş.) Hız değeri sürat denklemiyle 2•π•r/t= 29.784 691 km/s tır.
+Güneş Sistemi'ndeki bazı gök cisimleriyle ilgili uzaklıklar:
+Astronomik birim ile ilgili bazı dönüştürmeler:
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Desibel</DOCTITLE>
+<TEXT>
+
+Desibel (dB), belirli bir referans güç ya da miktar seviyeye olan oranı belirten genelde ses şiddeti için kullanılan logaritmik ve boyutsuz bir birimdir. Desibel daima iki değer arasındaki karşılaştırmadır. Bunun sonucu olarak da, çoğu kez ölçülen güç değeri değişik olmasına rağmen desibel sayısı aynıdır. Desibelin yaygın olarak ses şiddeti birimi olduğu sanılır ama ses şiddeti karşılaştırmalarında da kullanılabilen bir karşılaştırmadır. Telefon kullanılmaya başlandığında ilgili kurumlar bir iletim birimi bulmak/kullanmak sorunu ile karşılaşmışlardı. Doğal olarak o zaman iletim ya da haberleşme denince akla çoğunlukla telefon gelmekte idi.
+Bu konudaki ilk öneri, Alexander Graham Bell tarafından telefonun bulunmasından iki yıl sonra 1887 de W. H. Pierce tarafından ortaya atılmıştı. O zaman Amerika ve Avrupa da kullanılmaya başlanan telefon standartları arasında bir uyum yoktu. Amerikalı ve Avrupalı telefon şirketlerinin kendi kıtaları için daha uygun olacağını düşündükleri ve ısrar ettikleri birkaç birim üzerinde uzlaşmalar oldu. Eylül 1927'de İtalya'da tam olarak bir uzlaşma sağlanamasa da iki adet birim üzerinde karar verildi. Birinci birimde "e" doğal logaritmanın tabanını ve üst kuvvetleri oranını temel alan birim ile 10 sayısının güçleri oranının temel alan birim kaldı. Birinci birimde doğal logaritma kullanıldığı için bulucusu John NAIPER onuruna "neper" denmesi önerildi. İkinci birimde ondalık logaritma kullanılıyordu ve bu birimede telefonu bulmuş olan *Alexander Graham BELL onuruna "Bell" denilmesi önerildi. İşte desibel sözcüğü buradan doğmuş oldu. 
+Desibel, telefon işletmelerince benimsenmesinden hemen sonra, öbür teknik alanlarda da kullanılmaya başlandı. Özellikle akustik ve radyo yayınlarında. 
+1968'de Arjantin de toplanan CCITT bu sorunu tamamen hallederek özetle şu kararı verdi: ""Bütün uluslar, kendi içinde isterlerse neper kullanmaya devam edecekler. Fakat uluslararası işlemlerde yalnızca desibel kullanılacaktır"". 
+Desibel alışılmışın dışında bir birimdir. O kadar dışında ki birçok kişi onun bir ölçü birimi olduğundan şüpheye düşer. Elektrik mühendisliğinin geleneksel yaklaşımına dayanan telekomünikasyon ölçü felsefesinin tamamını değiştirdiğinden, desibelin telekomünikasyon ölçü birimi olarak tanımlanması gerçek bir devrim sayıldı. Elektriksel devrelerde gerilim, akım ve güç; volt, amper ve watt`la ölçülür. Bu değerler ölçümün yapıldığı devreye bağlıdır. Desibelin kullanıldığı iletim ve yayılım (propagasyon) ölçülerinde, yeni birim, ölçünün yapıldığı devreden bağımsızdır. Örneğin akustik dalga kadar onun elektriksel eşdeğerini ölçmekte de kullanılır. Bu, desibelin boyutsuz bir sayı olmasındandır. Amper veya volt cinsinden elektriksel ölçmelerde eksi değer, akımın veya gerilimin yönünde bir değişim ifade etmesine rağmen desibel ölçmelerinde eksi değer, sadece ölçülen gücün karşılaştırıldığı güçten küçük olduğunu gösterir.
+Desibel daima iki değer arasındaki karşılaştırmadır. Bunun sonucu olarak da, çoğu kez ölçülen güç değeri değişik olmasına rağmen desibel sayısı aynıdır. Örneğin bir vericinin gücü 1W`tan 2W`a çıkartılırsa, güçteki desibel cinsinden artış;
+Şimdi elimizde 5 kW`lık bir verici olsa, biz bunun gücünü 10 kW`a çıkartırsak desibel cinsinden artış, güçlerin değişik olmasına rağmen önceki örnekle aynıdır.
+Bu örneklerlerden bir sonuç çıkaracak olursak güçteki iki 
+katlık bir artış +3 dB, yarı yarıya azalış ise -3 dB ile ifade edilir.
+Görüldüğü gibi desibel bize göreceli (izafi-relatif) sonuçlar verir. Bu yüzden desibel ile ifade edilen sayılarla, aritmetik işlemler yapmak tehlikelidir. Örneğin desibel ile kalibre edilmiş değerler istatistiksel olarak kullanılacaksa, bunlardan örneğin ortalama gibi sonuçlar çıkarılacaksa yönteme dikkat etmek gerekir. Örnek olarak 10 dB ve 20 dB değerlerinin aritmetik ortalamasının 15dB olduğu görülebilir. Gerçekte biraz dikkat edilirse 10 dB nin belirtilmiş seviyeden 10 kat büyük bir niceliği, 20 dB nin ise 100 kat büyük bir niceliği ifade ettiği görülecektir. Gerçek aritmetik ortalama;
+Ya da desibel olarak 
+Logaritmik tabanlı olması nedeniyle, desibel ile ifade edilen değerlerin küçük olmaları desibelin bir üstünlüğüdür. Örneğin diğerinden 1.000.000 kere daha büyük olan bir güç desibel olarak 60dB olarak ifade edilir.
+Desibelin diğer tipik bir özelliği sıfır değerinin anlamıdır. Bütün ölçü birimlerinde sıfır, ölçülen niceliğin yokluğunu gösterir. Örneğin bir devrede giriş ve çıkış güçleri birbirine eşit olacak olursa;
+0 dB bize farklı bir kavramı da getirir. 0 dB ile ifade edilecek herhangi bir güç seviyesi bize dayanak "referans" seviyesi oluşturur. 
+İletişimde seviye kavramı gibi desibelin kullanılışıyla yakından ilgili başka bir kavram da kazanç veya kayıptır. 
+Bunlar şu şekilde tanımlanabilir. Güçleri P1 ve P2 olan 1 ve 2 noktaları arasındaki iletim birimi cinsinden P2/P1 ve P1/P2 olar ifade edilen güç artışı veya azalışıdır. Örneğin bir devreye bir güç yükselteci sokulduğunda çıkış gücü giriş gücüne göre daha büyüktür, yani kazanç vardır. Aksine bir filitre sokulduğunda da girişteki sinyal gücü çıkıştakine göre daha büyüktür, yani kayıp vardır. Bazı devrelerde gerilim için kayıp güç için kazanç vardır. Kollektörü topraklı devre olan bir tampon devrede çıkış gerilimi giriş geriliminden küçük olmasına rağmen çıkış gücü giriş gücünden daha büyüktür. 
+Sonuç olarak desibel karşılaştırdığımız büyüklüklerin ölçüm sırasına göre kazanç ya a kayıp olarak yorumlanabilir.
+Elektronikte çoğunlukla bir devrenin girişinden çıkışına doğru ölçme yapıldığı düşünülürse aşağıdaki formül uygulamalarının sonuçları pozitif çıkarsa bir kazançtan, negatif çıkarsa kayıptan söz edebiliriz.
+Desibel'e pascal cinsinden bakacak olursak;
+0,00002 Pascal ------------------- 0 dB SPL (Sound Pressure Level) == Duyma eşiği (threshold of hear)
+0,0002 Pascal ------------------- 20 dB SPL == Fısıltı
+0,002 Pascal --------------------- 40 dB SPL == Oda (gece)
+0,02 Pascal ----------------------- 60 dB SPL == Konuşma
+0,2 Pascal ------------------------- 80 dB SPL == Sokak (gürültülü)
+2 Pascal -------------------------- 100 dB SPL == Fabrika (gürültülü)
+20 Pascal ------------------------ 120 dB SPL == Rock müzik provası
+200 Pascal ---------------------- 130 dB SPL == Acı eşiği (threshold of pain)
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektromanyetik birimler</DOCTITLE>
+<TEXT>
+
+Fiziğin elektromanyetik dalında kullanılan birimler
+Fizikte nicelik ve birimler.
+Fiziğin bütün dallarında çeşitli nicelikler (büyüklükler, "quantity") kullanılır. Bu niceliklerden bir bölümü günlük hayatta rahatlıkla algılanan kavramlardır; sürat, ağırlık, sıcaklık vb. Buna karşılık elektromanyetikte kullanılan nicelikler günlük hayatta duygularla algılanamayan, ama ölçü aletleriyle ölçülebilen kavramlardır.
+Bir çok niceliğin özel birimi vardır. Kimi niceliklerde ise diğer niceliklerin birimleri kullanılırlar. Mesela uzunluk için metre birimi kullanılırken, sürat için özel bir birim kullanılmaz; bunun yerine uzunluk ve zaman birimlerinden oluşan metre/saniye birimi kullanılır. 
+Fizikte problem çözmek için, birimlerin birbirleriye tutarlı olması zorunludur. Şayet birimler birbiriyle tutarsızsa, yapılacak şey, öncelikle birimleri birbiriyle tutarlı hale getirmektir. Birimlerin birbiriyle tutarlı olması yani standart ölçü birimlerinin saptanması başlı başına bir bilim konusudur. Ayrıca, bu yolla uluslararası bilimsel ve ticari ilişkilerde yeknesaklık ta sağlanabilmektedir. 
+Başlıca birim sitemleri.
+Ölçü standartlarını oluşturmak için ilk uluslar arası sözleşme 1875 te imzalandı. Konu ile ilgili olarak, bir komite kuruldu. Etalonları muhafaza eden, gerektiğinde birimlerde veya etalonlarda değişiklik önerisi hazırlayan, ihtiyaca bağlı olarak yeni nicelikleri tanımlayan bu uluslararası bilim komitesinin adı Ağırlıklar ve Ölçüler komitesi "(Comité international des poids et mesures (CIPM))" dir. Merkezi ise Fransa’da, tarihimizde kötü anıları olan Sevres kentidir. Komite önerileri dört yılda bir defa toplanan uluslar arası Ağırlıklar ve Ölçüler konferansında "( Conférence générale des poids et mesures (CGPM))" tartışılarak, uygun görülürse, hayata geçirilir.
+Günümüzde standart ölçü sistemi MKS sistemidir. (metre kilogram saniye). Bu sisteme kimi kitaplarda (ampere birimi de eklenerek) MKSA şeklinde de rastlanır. 
+Eski kitaplarda rastlanan bir başka ölçü sistemi ise CGS sistemidir. (santimetre, gram. saniye) CGS sisteminin kendi içimde esu ve emu adlarıyla bilinen alt türleri vardır. ABD de ise hala eski İngiliz ölçü sistemi kullanılır. (Ancak, ABD de de bilim çevreleri MKS sistemi kullanmaktadır.)
+MKS sisteminde nicelikler.
+MKS isteminde 7 temel nicelik tarif edilmiştir. Ayrıca bu niceliklerden üretilen 60 nicelik daha vardır. Temel niceliklerle bu niceliklerden türetilmiş 20 niceliğin kendilerine özgü birimleri vardır. Askat olarak desi (1/10), santi(1/100), mili(1/1000), üstkat olarak deka (10),hekto (100) ve kilo (1000) en iyi bilinen katlardır. (Katların bütün listesi için bakınız Uluslararası Birim Sistemi.) Bütün bunların dışında çembersel hareketler için radyan ve steradyan da birimler arasında yer alırlar. Komitenin onayından geçmiş olan birimler SI birim "(Le Système International d'Unités )" olarak bilinir.
+MKS siteminde temel nicelikler.
+7 temel nicelikten üç tanesi mekanikle ilgilidir: Uzunluk, kütle ve zaman. Isı fiziğinde (termik) sıcaklık, optikte ışık şiddeti, elektromanyetikte akım şiddeti ve kimyada da madde miktarı diğer temel nicelikler arasında yer alır. MKS sisteminde bu sayılanların birimleri sırasıyla, metre, kilogram, saniye, Kelvin, candela (kandela), ampere ve mol’dur. (Kütle birimi olarak gramın değil, kilogramın esas alındığına dikkat edilmelidir.)
+Elektrik akımı ve gerilim.
+Elektromanyetik için temel birim elektrik yük olmalıdır. Ancak uygulamada elektrik yükleri bir araya getirip, deneyler yapmak ve sağlıklı ölçülerle etalon saptamak çok zordur. Buna karşılık bir iletkenden birim zamanda geçen yükü ölçmek çok daha kolaydır. Bu sebepten elektromanyetik için temel birim elektrik yükü değil, elektrik akımıdır. Yük ve akım arasında şu ilişki vardır.
+ya da daha genel olarak
+Burada q elektrik yükü, t zaman ve I da elektrik akımıdır. Yük birimi coulomb (C) , akım birimi ampere (A) ve zaman biri de saniyedir (s).
+Elektrikte kullanılan bir başka önemli nicelik gerilimdir. Gerilim gücün bu gücü veren akıma olan oranı (ya da yapılan işin bu enerjiyi sağlayan elektrik yüküne olan oranı) olarak tanımlanabilir.
+Burada V ile gerilim, P ile güç, U ile iş gösterilmiştir. Gerilim birimi volt (V) , güç birimi watt (W) ve iş (enerji) birimi de joule (J) dur. 
+Dikkat edilirse, gerilim tanımında güç ya da enerjinin de rolu vardır. Başta mekanik nicelikler olarak tanımlanan güç,enerji ve kuvvet James Prescott Joule’un ısı üzerinde yaptığı çalışmalardan sonra fiziğin bütün dallarında kullanılmağa başlanmıştır.(Aşağıda bu konuda bir örnek verilmiştir.) 
+Diğer elektromanyetik nicelikler.
+Elektromanyetikte kullanılan diğer bütün nicelikler de temel birimler cinsinden verilebilir.
+Bu nicelikler Tablo 1 de gösterilmiştir. 
+Tablonun birinci bölmesi temel niceliklerden elektromanyetiği ilgilendiren dört tanesine ilişkindir. İkinci bölmede hem mekanik ve hem de elektromanyetikte kullanılan diğer birimler yer almıştır.Üçüncü bölme kendi özel birimi olan elektromanyetik niceliklere ilişkindir. Dördüncü bölmede özel birimi olmayan diğer elektromanyetik nicelikler yer almıştır. Bütün bu nicelikler SI biridir.En alt bölmede ise SI birim olmayan, fakat SI birimlerle birlikte kullanılabilen iki oran birimi görülmektedir.
+Tablonun sol iki sütunu niceliklerin isimleri ve denklemlerde kullanılan simgelere ilişkindir. Ancak niceliklerin simgeleri için bir standart olmadığından, burada en yaygın kullanımlar gösterilmiştir. 
+Üçüncü ve dördüncü sütunlar MKS sisteminde birimlere ve simgelerine ayrılmıştır. Birimler daima küçük harfle yazılır. Birim simgelerinin standardı saptanmıştır. Buna göre, simgeler küçük harfle yazılır. Ancak şayet birim adı insan isminden türetilmişse (Weber, Watt, Henry vb.) simgenin ilk harfi büyüktür (Wb). (Dilimizde genellikle birim simgelerinin yazılışında uluslararası kurallara uyulmakta, fakat birimler Türkçe okunuşlarına göre yazılmaktadır: Mesela ampere yerine amper, coulomb yerine kulon, bazen de henry yerine henri )
+Beşinci sütunda birimleri tanımlayan eşdeğer birimler verilmiştir. Son sütun da böyledir. Yalnız son sütunda tanımlama sadece temel birimler cinsinden yapılmıştır.Temel birimler cinsinden yapılan tanımlamalara o niceliğin boyutu da denilebilir.
+Birimlerin tutarlılığı hakkında örnek.
+Mekanikte kullanılan watt biriminin elektromanyetikte de kullanılışı:
+Yukarıdaki tabloda mekanikteki watt biriminin temel birim karşılığının kg • m²/ s³ olduğu görülmektedir. Oysa aynı birim elektrikte de kullanılır. Ancak, elektrikte kullanılan birimler ampere temel biriminden türetilmiştir. Yukarıdaki boyutlar incelenirse, watt biriminin nasıl olup ta, elektrik te de kullanıldığı ortaya çıkar.
+Elektrikte 1 watt iki ucu arasında 1 volt gerilim olan bir dirençten geçen 1 amperlik akımın sağladığı güçtür. Şu halde watt biriminin elektrik birimi olarak karşılığı amper x volt olarak verilebilir. Ampere temel birimdir. Volt karşılığı ise ise tabloda kg • m² / (A • s³) olarak verilmektedir. Bu iki birimin çarpılması halinde 
+Bu da mekanikteki güç biriminden başka bir şey değildir. 
+Birimlere isim verenler.
+Fizikte (özellikle elektromanyetikte) birim olarak, genellikle bilim adamlarının isimleri kullanılır. Böylelikle, uygarlığa katkıda bulunanlar onurlandırılmış olur. Tablo 1 de belirtilen birimlere isim veren bilim adamlarının isimleri Tablo 2 de gösterilmiştir. (CGS sisteminde ve fiziğin diğer dallarında kullanılan birimler gösterilmemiştir.) İlk sütünda nicelik, ikinci sütunda bu niceliğin birimine isim veren bilim adamı ve son sütunda da bu bilim adamının doğum ve ölüm yılları vardır. Tablo bilim adamlarının doğum yılına göre düzenlenmiştir. Tablonun incelenmesi elektromanyetiği insanlık hizmetine sunan bili adamlarının genellikle 18.yüzyılın ikinci yarısı ile 19.yüzyılda hizmet ettiklerini göstermektedir.
+Görüldüğü gibi, birimlere isim veren bilim adamlarının, Joseph Henry hariç, hepsi Avrupalı’dır. Nicola Tesla ise Hırvatistan doğumlu bir Sırp olup, sonradan ABD ye yerleşmiştir. (MKS sisteminde isimleri birimlerde kullanılan bilim adamlarına ilişkin Wiki içi linkleri sayfa sonu şablonda görülmektedir. Bell biriminde Alexander Graham Bell'in (1847-1922), neper biriminde ise John Napier'in (1550-1617) adı kullanılmaktadır.)
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alan (fizik)</DOCTITLE>
+<TEXT>
+
+Alan, fizik kuramlarında kullanılan, matematikteki cebirsel alanın tüm özelliklerini taşıyan terim. Genellikle bu etki 100 nanometre ve daha küçük skalalarda etkili olur. Bu etki nanoteknolojiyle aynı skalaya denk gelir.
+Bir alan mekan ve zaman içinde her birnokta için bir değeri olan bir fiziksel miktar'dır ..Örneğin, hava durumu ,rüzgâr hızı uzayda her nokta için bir vektör atayarak tarif edilmektedir. Her bir vektör bu noktada hava hareketinin hızını ve yönünü temsil eder.
+Bir alan her noktadaki alanın değeri sırasıyla skaler,vektör,bir spinor veya bir tensör olup olmadığını, uygun skaler, a vektör, bir spinör veya bir tensör,olarak sınıflandırılabilir .
+Örneğin,Newtonyen yerçekimi alanı bir vektör alanıdır: uzay zamanı içinde bir noktada onun değerini belirterek bu noktada üç sayı ,yerçekimi alan vektörününbileşenleri gerektirir .
+Ayrıca, her kategoride ( skaler,vektör,tensör) içinde,bir alan sırasıyla numaraları veya kuantum operatorleri ile karakterize olup olmadığına bağlı olarak bir "klasik alan" veya bir "kuantum alanı"da olabilir.Bir alan bütün uzay boyunca uzanan olarakta düşünülebilir.Uygulamada, bilinen her alanın gücü tespit edilemez olma noktasına olan mesafe ile azaltmak için bulunmuştur.Örneğin, çekimin Newton teorisi, yerçekimi gücü çekilen nesneye olan uzaklığın karesi ile ters orantılıdır.
+Bu nedenle dünya'nın yerçekimi alanı hızla kosmik ölçeklerde saptanamaz olur .
+"Uzaydaki numaralar" olarak tanımlanan alanın fiziksel gerçek olduğu fikrine olumsuz etkisi olmamalıdır."Bu alanı kaplar.Bu enerji içerir onun gerçek varlığını bir vakum ortadan kaldırır.öyle ki biz bunu bir parçacık koyduğumuz zaman,parçacık bir kuvvet "hissediyor ".” Alan "Uzayda bir durum yaratır" Bir elektrik yükü hızlanır,başka bir yükün etkileri anında görünmüyor .İlk şarj momentum toplayıp,bir tepki kuvvet hisseder,fakat ikinci şarj etkisine kadar hiçbir şey hissetmiyor seyahat ışık hız onu ulaşır ve ona momentum verir.ikinci yükten önceki momentum nerede ?
+Momentumun korunumu yasası ile bir yerde olmalı.Fizikçiler derki " gücün analizi için büyük yarar" bunu bulduk "alan içindeki varlık olarak düşünüyorlar
+Bu programı elektromanyetik alan ler gerçekten var olduğuna inanan fizikçiler yol açar,modern fiziğin tüm yapısının alan kavramına bir destek paradigma'sı yapıyor.John Wheeler ve Richard Feynman derki bir uzaklıktan hareket'in Newton'un öncesi alan kavramı ciddiye alınmalı(onlar, genel görelilik ve kuantum elektrodinamiği araştırması için sürmekte olan alan kavramının yararını bir kenara koymasına rağmen)
+"Aslında Elektromanyetik alanın sahip olduğu momentum ve enerji ile onu çok gerçek kılan...bir parçacık bir alan yapar ,ve bir alan başka bir parçacığa hareket verir ve alan;enerji içeriği ve momentum gibi tanıdık özelliklere sahip,sadece parçacıklar olabildiğince var".
+Tarih.
+Isaac Newton evrensel kütle çekimi kanununu sadece büyük nesneler herhangi bir çifti arasında hareket yerçekimi kuvvetini dile getirdi.Tüm cisimlerin her çifti arasındaki kuvvet ile uğraşan , bu tür Güneş Sistemi'ndeki gezegenler gibi , birbirleri ile etkileşen birçok cisimlerin hareket baktığınızda ayrı hızla hesaplama sakıncalı olur.On sekizinci yüzyılda, yeni bir varlık tüm bu yerçekimi kuvvetlerinin defter tutma kolaylaştırmak için icat edildi.Bu varlık,çekim alanı uzayda her noktada bu noktada birim kütleye sahip bir nesne tarafından hissedilir olacaktır.toplam yerçekimi kuvveti verir. Eğer tek bir nesne üzerindeki tümyerçekimi kuvvetleri hesaplanır ve daha sonra onları bir araya eklenir ise ya da ilk önce bir yerçekimi alanı olarak birlikte tüm katkıları toplanır ve nesneye bir uygulanırsa,önemli değil.bu herhangi bir şekilde fizikte değişmedi.
+Bir alan kavramının bağımsız gelişimi gerçekten elektromanyetizma teorisinin gelişimi ile on dokuzuncu yüzyılda başladı.Erken evrelerde André-Marie Ampère ve Charles-Augustin de Coulomb elektrik yükleri ya da elektrik akımı çiftleri arasındaki kuvvetleri ifade Newton tarzı yasalarla yönetilmiş olabilir.Ancak, çok daha doğal alan yaklaşım ve elektrik ve manyetik alan açısından bu yasaları ifade etmek oldu; 1849 yılında Michael Faraday dönemi "alan" için ilk değer oldu .
+Alanın bağımsız doğası bu alan içindeki dalgalar sonlu bir hızla yayılır ki James Clerk Maxwell keşfi ile daha belirgin hale geldi.Sonuç olarak yükler ve akımları üzerinde kuvvetler artık sadece aynı zamanda diğer yük ve akımların pozisyonları ve hızlarına bağlıydı,ama aynı zamanda geçmişteki konumlarına ve hızlarına .
+Maxwell ilk başta,bağımsız olarak var olabilecek alan gibi modern bir bir temel varlık kavramını kabul etmedi . Bunun yerine , elektromanyetik alan'ın deformasyonunun bazı temel ortam yani -ışık-saçan eter- ifade etmesi gerekiyordu,bir lastik zarında gerginliğe çok benzer. Eğer bu durumda olsaydı, elektromanyetik dalgaların gözlenen hızı etere göre gözlemcinin hızına bağlı olması gerekir.Çok çabaya rağmen,hiçbir deneysel kanıt böyle bir etkiyi şimdiye kadar bulamadı,durum 1905 yılında Albert Einstein tarafından özel görelilik teorisinin tanıtımı ile çözüldü.Bu teori hareketli gözlemcilerin bakış açılarının Maxwell'in teorisinde elektromanyetik dalgaların hızı tüm gözlemciler için aynı olacak şekilde birbirleriyle ilişkili olmalıdır şeklinde değişti . Arka plan ortamı için ihtiyaç ortadan yaparak , bu gelişme gerçekten bağımsız kuruluşlar gibi konularda düşünmeye başlamak için fizikçiler içinbir yol açtı.
+1920'li yılların sonlarında,kuantum mekaniği'nin yeni kurallar ilk elektromanyetik alanlara uygulanmıştır.1927 yılında,Paul Dirac başarılı bir atomun çürümesi olan alt kuantum durumu elektromanyetik alanın kuantumu bir foton'un spontan emisyonunu nasıl olduğunu açıklamak için kuantum alanları kullanılır.Elektron ve proton da dahil olmak üzere tüm partikülleri, doğada en temel nesnelerin durumuna yükselten alanlar, bir kuantum alanının miktarı olarak anlaşılabilir ki(Pascual Jordan,Eugene Wigner,Werner Heisenberg,ve Wolfgang Pauli) çalışmasının ardından ) bu kadar çabuk gerçekleşmesi izledi.
+Klasik Alanlar.
+Burada Klasik alanlar'ın birkaç örneğidir.Kuantum özellikleri meydana gelmeyen yerde klasik bir alan teorileri yararlı kalır,ve araştırmaların aktif alanları olabilir. eşyaların Elastisitesi, akışkan dinamiği ve Maxwell denklemi nokta içindeki durumlardır
+Bazı basit fiziksel alanlardan vektör kuvvet alanları vardır.Tarihsel olarak, Faraday'ın kuvvet çizgisi ise electrik alanı tanımı alanların ciddiye alındığını ilk zaman oldu.The çekim alanı was ise benzer tanımlandı.
+Newtonyen çekim.
+Bir klasik alan teorisi açıklayan yerçekimi Newtonyen çekimdir,bu iki kütle(ler) arasındaki bir karşılıklı etkileşim çekim gücü olarak tanımlanır.
+Herhangi büyük gövde "M" bir çekim alanı g var bu olarak diğer büyük gövdeyi etkisiyle onu tanımlar. "M" in çekim alanı olarak uzay içindeki bir r noktası F kuvveti tarafından belirlenerek bulunur. Bu "M" uygulama olarak bir küçük test kütlesi rde "m" yer alır, ve "m" tarafından bölünürse:
+öngörülen "m" çok küçük "M"e göre şunu sağlar ki "m" 'in varlığına "M" in davranışı ihmal edilebilir etkisi var.
+Newtonun Kütleçekim kanunu'na göre, F(r) ile verilir.
+burada formula_3 bir birim vektör "M" ve "m"dir ve "m" noktasından "Me birleştiren hat boyunca uzanır.Bu nedenle, M"' in çekim alanı dır.
+Deneysel araştırmalar bu eylemsiz kütle ve çekim kuvveti doğruluğun görülmemiş düzeyleri ne eştir çekim alanının özdeş gücü olarak to the deneysel hızlandırılan bir parçacık tarafından. Bu is eşdeğer prensipler'in başlangıç noktasıdır.Bu genel görelilik için bir yoldur
+Çünkü çekim kuvveti F koruyucudur,çekim alanı g gradienti bir skaler fonksiyonun terimleri içinde yazılabilir ,çekim potansiyeli Φ(r):
+Elektromanyetizma.
+Michael Faraday Önce fiziksel bir nesne gibi, bir alanın önemi içine yaptığı araştırmalar sırasında manyetizma'yı fark etti. He realized that elektrik ve manyetik alanlar parçacıkların hareketini belirleyen kuvvetin yalnızca alanları değildir,ama Onlar aynı zamanda enerjiyi taşırlar çünkü bağımsız bir fiziksel gerçekliğe sahipler.
+Bu fikirler sonunda elektromanyetik alan için denklemlerin tanıtımı ile,James Clerk Maxwell tarafından fizikte ilk birleşik alan teorisinin kurulmasına yol açtı. Bu denklemlerin modern versiyonuna Maxwell denklemleri denir
+Elektrostatik.
+Bir yüklü parçacık testi yüküne dayalı olarak yük "q" ile deneysel bir kuvvet F tir. Benzer tanım elektrik alanı E böyledir . Kullanılan bu ve Coulomb kanunu elektrik alanı nedeniyle bir tek yüklü parçacık olarak bize şunu söyler:
+Elektrik alanı tutucudur ve Bu nedenle bir skaler potansiyel ile tanımlanabilir, "V"(r):
+Manyetostatik.
+Bir yol "ℓ" boyunca akan "I" sabit akım , yukarıda tarif edilen elektrik alan kuvveti kantitatif farklıdır yakındaki yüklü parçacıklar üzerine bir kuvvet uygulayacaktır.v hızı ile yakındaki bir "q" yükü üzerine "I" tarafından uygulanan kuvvet
+burada B(r) manyetik alandır,bu Biot-Savart kanunu tarafından "I" dan belirlenir:
+Manyetik alan, genel olarak tutucu değildir, ve bu nedenle genellikle skaler potansiyeli açısından yazılı olamaz. Ancak açısından yazılmış olabilir bir vektör potansiyeli,A (r):
+Elektrodinamik.
+Genel olarak, bir şarj yoğunluğu ρ(r, "t") ve akım yoğunluğuJ(r, "t") her iki mevcudiyetinde, bir elektrik ve manyetik alan her ikisi olacak ve her ikisi de zaman içinde değişecektir. Bunlar doğrudan ρ ve J ye ilgiliE ve B Maxwell denklemleri, diferansiyel denklem kümesi tarafından belirlenir.
+Alternatif olarak, bir ile skalar ve vektör potansiyel "V" ve A cinsinden sistem tanımlayabiliriz."gecikmeli potansiyel" olarak bilinen ayrılmaz bir dizi denklem hesaplamasını sağlar "V" ve A dan ρ ve J,ye ve oradan elektrik ve manyetik alanlar ile ilişkileri belirlenir
+19.yüzyılın sonlarında,elektromanyetik alan uzay içindeki iki vektör alanının bir koleksiyonu olarak anlaşılmıştı.Günümüzde, bir uzay zamanı içinde bir tek antisimetrik 2-rank tensör alanı olarak bu tanınır.
+Genel çekim içinde çekim.
+çekimin Einstein teorisi,genel görelilik olarak adlandırılır, bir alan teorisinin diğer bir örneğidir. Burada the prensip alan is the metrik tensördür,uzay-zaman içinde bir simetrik 2ci-rank tensör alanıdır Evrensel çekimin Newton kanunu'nun yerini aldı.
+Dalga alanları.
+Dalgalar fizik olanlar olarak yapılandırılabilirler, kendiliğinden sonlu yayılma hızı ve nedesel doğa ise izole kapalı sistem'in sadeleştirilmiş bir fizik model'inin kümesidir . Bu aynı zamanda ters-kare yasası'na bağlıdır
+Elektromanyetik dalgalar için, burada optik alan vardır, ve yakın- ve uzak-alan gibi terimler kırınım için sınırlardır.Uygulamada, optik olsa da alan teorileri Maxwell'in elektromanyetik alan teorisi tarafından aşılırlar.
+Kuantum Alanları.
+Şimdi bir kuantum alan teorisi, en azından prensipte, kuantum mekanik anlamda bir yeniden düzenlemesine izin gerektiğini, böylece kuantum mekaniği, tüm fiziksel olayların temelinde olması gerektiğine başarı getirdiğine inanılan,kuantum alan teorisini verir. Örneğin,klasik elektrodinamik nicemleme ile kuantum elektrodinamiğini verir. deneysel veriler başka bir teori daha (daha önemli basamak) daha yüksek bir duyarlıklı olarak onun öngörülerini teyit eder. diğer iki temel kuantum alan teorisi kuantum renk ve elektrozayıf teorisi vardır; kuantum elektrodinamik tartışmasız en başarılı bilimsel teoridir.
+kuantum kromodinamiğinde,renk alanı çizgileri gluon tarafından kısa mesafelerde birleştiğinde, alana göre polarize ve onunla hizalı olur.Bu etki kısa bir mesafe içinde artar (kuarkların yakınlarından 1 fm çevresinde), hadronun içinde kuarklar hapsederek kısa bir mesafe içinde renk kuvvetinde artış yapar. Alan çizgileri gluonlar ile birbirine sıkıca çekilir gibi,bu elektrik yükleri arasındaki bir elektrik alanı olarak dışarıya kadar "beyaz" değil.
+Bu üç kuantum alan teorileri tüm parçacık fiziğinin ve sözde standart modelin özel durumları olarak elde edilebilir.Genel görelilik, yerçekiminin Einstein alan teorisi,şimdilik başarılı kuantize olmak için başarılı. Ancak bir uzantısı,termal alan teorisi," sonlu sıcaklıklarda", nadiren kuantum alan teorisi dikkate şeye kuantum alan teorisi ile ilgilenir
+BRST teorisi içinde tek alanlar ile bölme yani Faddeev–Popov hayaletidir.Dereceli manifoldu ve supermanifold her ikisi de tek klasik alanlarda farklı açıklamaları vardır.
+Klasik alanları yukarıda olduğu gibi, daha önce olduğu gibi benzer teknikleri kullanarak tamamen matematiksel bir görünümden kuantum karşılıkları yaklaşımı mümkündür.
+Kuantum alanları yöneten denklemler gerçeği KDDlerin (özellikle, relativistik dalga denklemleri (RWEs)) bulunmaktadır.
+Böylece bir Yang-Mills, Dirac, Klein-Gordon ve Schroedinger alanı ile ilgili denklemlerin çözümleri konuşulabilir.
+Olası bir sorun, bu RWEs egzotik cebirsel özellikleri olan karmaşık matematiksel nesnelerin ile başa olduğunu (örneğin spinörleri tansörleri değildir, bu yüzden spinor alanı s üzerinde hesabı gerekebilir) ancak bu teori hala matematiksel genelleme uygun verilen analitik yöntemlere tabi olabilir.
+Alan teorisi.
+Bir alan teorisi , bir veya daha fazla fiziksel alan madde ile nasıl etkileşime açıklayan fizik teorisidir .
+Alan teorisi genellikle bir alanın dinamiklerinin bir yapısı anlamına gelir , zaman veya alan bağımlı olduğu diğer bağımsız fiziksel değişkenler açısından alan değişikliklerin bir şartnamesidir yani . Genellikle bu Lagrangianveya alanın birHamiltonyen'i yazma ve serbestliğin derecesi sonsuz sayıda bir sistemin klasik mekanik (veya kuantum mekaniği) olarak muamele yapılır . Oluşan alan teorileri klasik veya kuantum alan teorileri olarak adlandırılır.
+Klasik bir alanın dinamikleri genellikle alan bileşenleri açısından Lagrangian yoğunluk ile belirtilen ,dinamik hareket prensibi kullanılarak elde edilebilir.
+Birkaç değişken hesabı , potansiyel teorisi ve kısmi diferansiyel denklemler (PDEs) sadece matematik kullanarak herhangi bir fizik ön bilgi olmadan basit alanları inşa etmek mümkündür.Örneğin, skaler PDE gibi dalga denklemi ve akışkan dinamiği için genlik , yoğunluk ve basınç alanları gibi miktarlarda düşünebilirsiniz ısı/difuzyon denklemi denklemleri için ısı/konsantrasyon alanları. Fizik uygun (örneğin,radyometri ve bilgisayar grafikleri) dışında,hatta ışık alanları vardır . Tüm bu örnekler, önceki skaler alanlar vardır . Benzer vektörleri için , (uygulamalı matematik ) akışkan dinamiği deplasman , hız ve vortisiti alanları için vektör PDE vardır , ama vektör hesabı şimdi bu üç miktarları gibi ( genel olarak vektör alanları üzerinde hesabı olan, yanı sıra ihtiyaç duyulan ve vektör PDE için olanlar olabilir) .örneğin sürekli ortamlar mekaniği daha genel sorunlar içerebilir , daha sonra yön elastisite ( germek anlamına geldiği için Latince kelime türetilmiş "tensor" terimi) , kompleks sıvı akar veya anizotropik difuzyon,matris - tensör KDD'lerin olarak çerçeveli ve matrisler gerektirir veya tensör alanları,dolayısıyla matris veya tensör hesabı. Bu skalerler (ve böylece, vektörler, matrisler ve tansörler) her ikisi de gerçek ya da kompleks soyut-cebir/halka-teoretik anlamda alanları olabilir unutulmamalıdır .
+Genel bir ortamda,klasik alanlar lif demetleri ve bunların dinamikleri bölümleri jet manifoldlar (kovaryant klasik alan teorisi) açısından formüle edilmiştir tarif edilmektedir .
+Modern fizikte ,en sık çalışılan alanlar bir gün Birleşik Alan Teorisine yol açabilir olan dört temel kuvvet modelidir..
+Alanların simetrileri.
+Bir alan sınıflandırmak için uygun bir yol(klasik veya kuantum) ile simetrilere sahiptir. Fiziksel simetriler genellikle iki tiptir:
+İç simetriler.
+Alanlar uzay simetrilerine ek olarak iç simetriye sahip olabilir.Örneğin, birçok durumda, bir uzay-zaman skalerlerin bir listesi verilmiş alanlar gerekir: (φ1, φ2, ... φ"N").Örneğin, hava tahminleri, bu gibi sıcaklık, basınç, nem, olabilir,
+Parçacık fiziğinde, kuarkların etkileşiminin renk simetrisi izospin veya çeşni simetrileri olduğu gibi, kuvvetli etkileşimin iç simetrisine bir örnektir.
+Bu bileşenleri birbirine dönüştürmek altında uzayzamanı kapsamayan sorunun bir simetrisi, var ise, o zaman simetrilerin bu dizisi bir iç simetrik olarak adlandırılır. Bir de iç simetrileri altında alanların yüklerinin bir sınıflandırması yapılabilir
+İstatistiksel alan teorisi.
+İstatistiksel alan teorisi çoklu-cisim sistemleri ve istatistik mekanik'e yönelik alan teorik paradigmasını genişletmek için çalışır. Yukarıdaki gibi, bileşen serbestlik derecesi olağan sonsuz sayıya ulaşılabiliyor.
+Çok istatistiksel mekanik gibi kuantum ve klasik mekaniğin arasında bazı örtüşmeler vardır, istatistiksel alan teorisi birçok yöntemleri paylaştığı özellikle önceki,hem kuantum ve hemde klasik alan teorileri bağlantıları vardır. Önemli bir ortalama alan teorisi örneğidir.
+Sürekli rasgele alanlar.
+Bu tür elektromanyetik alanındaki gibi yukarıdaki klasik alanların, genellikle sonsuz türevlenebilir fonksiyonlar, ama hemen hemen her zaman, her durumda iki kez türevlenebilenleri vardır. Buna karşılık, genelleştirilmiş fonksiyonlar sürekli değildir.
+Sonlu sıcaklıkta klasik alanlar ile dikkatlice uğraşırken termal dalgalanan klasik alanlar hiçbir yerde türevlenebilir olmadığından, sürekli rasgele alanlar matematiksel yöntemleri kullanılır.
+Rastgele alanlar rastgele değişkenlerin indisli setleridir, sürekli rasgele alan kendi dizin kümesi gibi fonksiyonları bir dizin olan rastgele bir alandır
+Özellikle, sık sık onun indisli seti gibi fonksiyonların bir Schwartz uzayı'na sahip sürekli bir rasgele alanı almak matematiksel olarak uygundurki bu durum sürekli rasgele bir alanına bir. katkılı dağılımlıdır.
+Biz sürekli bir rasgele alanı hakkında düşünebiliriz, bir (çok) kaba bir şekilde, hemen hemen her yerde formula_13 olduğunu, ancak bu sıradan bir fonksiyonu olarak bir bütün sonsuzlukların ağırlıklı ortalamasını alırken herhangi bir sonlu bölge üzerinde,ise sonlu bir sonuç alabiliriz.
+Sonsuz iyi tanımlanmış değildir, ancak sınırlı değerler sonlu değerlerini elde etmek için ağırlık işlevleri olarak kullanılan işlevler ile ilişkili olabilir, ve bu iyi tanımlanmış olabilir. Biz gerçek sayıların içine fonksiyonların bir uzaydan gelen bir doğrusal haritanın yeterince sürekli bir rasgele alanını tanımlayabiliriz.
+Alanların matematiği.
+Süreklilik görünümü (dolayısıyla "alan" terimi) sistem serbestlik derecesine sonsuz sayıyı sağlayarak ulaşılabiliyor. Bir vektör adi diferansiyel denklemin boyutu sadece vektör bağımlı değişken veya vektör fonksiyonun boyutudur. Bu anlamda kısmi diferansiyel denklemler yani sonsuz boyutun (birleştirilmiş)ODElerinin ( bileşen serbestlik derecesi matematiksel yorumlama) olarak düşünülebilir. Ayrıca yön alanları olarak adlandırılan vektör alanları önemli araçları ODElerinin sonuçları içinde analiz bulunmaktadır (faz düzlemine bakınız).
+nesnenin gerçek doğası diferansiyel denklemi analizin türünü belirler(Ve bağımsız değişkenlerini) (örneğin gerçek skaler, karmaşık matris, Öklid vektör veya dört vektör vs) - (bizim örneklerde - tek değişkenbir real hesabı , karmaşık bir matriks ve reel vektör alanlar üzerinde) gerekli.
+Kısmi diferansiyel denklemlerin dışında, (klasik) reel analiz ve karmaşık analizin diğer parçalar ya esinlenmiş veya teknikleri alan teorisi (veya her ikisi) uyguladık. Bu tür alanlara örnek spektral teorisi ve harmonik analiz (titreşim ve dalgalar) veya kendini açıklayıcı potansiyel teorisi, kendi başlarına tüm matematiksel konulardır. Ancak belki de en belirgin örnekleri varyasyon hesabı (Lagrangiyen ve Hamiltoniyen biçimcilikler) verilen bağlantılar) ve çok değişkenli hesabı ile diferansiyel geometri genellemelleri vardır - tensör hesabı da dahil olmak üzere, ve ayar kuramı - ve onun yakın akrabası diferansiyel topoloji.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrik akımı</DOCTITLE>
+<TEXT>
+
+Elektrik akımı veya elektriksel akım, en kısa tanımıyla elektriksel yük taşıyan parçacıkların hareketidir. Bir kesit üzerinden birim zamanda geçen yük miktarı elektrik akımını verir. SI birimi Amper'dir (kısaltması A). Herhangi bir kesit üzerinden bir saniye içerisinde bir Coulomb'luk yük geçmesi bir Amper'lik akıma tekabül eder. Ohm Kanunu'na uyan maddeler üzerinden geçen akım bu maddenin direnci ile ters orantılı, akımı oluşturan gerilim ile doğru orantılıdır. Doğadaki çoğu madde Ohm Kanunu'na büyük oranda uyar, ancak akım ve gerilim arasındaki bağıntı çok daha karışık olabilir. Yarı iletkenler bu duruma güzel bir örnektir.
+Elektrik akımının fiziği.
+Çeşitli ortamlarda elektrik akımı.
+Metaller üzerindeki akım.
+Katı iletken metal, hareketli veya serbest elektronlara sahiptir. Bu elektronlar metalin kristal yapisina bağlıdirlar, fakat herhangi bir atoma bağlı değillerdir. Herhangi bir dış elektriksel alan uygulamadan bile bu elektronlar ısı enerjisinden dolayı rastgele hareket ederler. Fakat normalde bir metaldeki net akım sıfırdır. Herhangi bir zamanda metal objenin herhangi bir kesitinde bir yönden diğerine geçen elektronların sayısı aksi yönde geçiş yapanlarınkine ortalamada eşittir. Bir metal telin iki ucu arasına batarya gibi bir DC kaynağı bağlandığında iletkende bir elektrik alanı oluşur. Bu elektrik alanı metaldeki serbest elektronların alanın tersi yönünde sürüklenmesine sebep olur. Ortalamada bir yöne daha fazla hareket eden elektronlar elektrik akımını yaratmış olurlar.
+Elektrolitler üzerindeki akım.
+Elektrolitler içlerinde elektrik akımını mümkün kılacak serbest iyonlar bulunduran maddelerdir. Elektrokimyasal hücreler bir elektrolit ve bu elektrolide yerleştirilmiş elektrotlardan oluşur. Bu hücreler kimyasal enerjiyi elektrik enerjisine çevirmek (pil) ya da elektrik enerjisi kullanarak bir kimyasal tepkimeyi gerçekleştirmek için (elektroliz) kullanılırlar. Her iki durumda da elektrotların çevresinde iyonlar oluşur ya da yok olur. Bu tepkimeler sırasında elektrolit içerisinde birbirini nötrleyen ya da birbirinden ayrılan anyon ve katyonlar (negatif ve pozitif yüklü iyonlar) elektrotlara doğru ya da aksi yönde hareketleri sırasında elektrik akımını oluştururlar. Örnek olarak, sıkça rastlanan kurşunlu pillerde elektrik akımı pozitif yüklü hidrojen iyonlarının bir yöne negatif yüklü sülfat iyonlarının diğer yöne hareket etmesinden meydana gelir.
+Diğer ortamlar.
+Vakumda elektronlardan ya da iyonlardan meydana gelmiş bir ışın elektrik akımına neden olabilir. Benzer şekilde kıvılcım ve plazmalarda elektrik akımı hareket eden elektronlar ve pozitif ya da negatif yüklü iyonlardan meydana gelir. Yarı iletkenler üzerinde elektrik akımı, elektronların yanı sıra, pozitif yüklü elektron boşlukları (Yarı iletken kristali üzerinde eksik olan değerlik elektronlar) tarafından da taşınır. P tipi yarı iletkenlerde elektrik akımı büyük oranda bu şekilde oluşur.
+Elektromanyetizma.
+Elektrik akımı bir manyetik alan meydana getirir. Bu manyetik alan, akım geçiren teli çevreleyen dairesel alan çizgileri olarak gözde canlandırılabilir.
+Elektrik akımı bir galvanometre yardımıyla doğrudan ölçülebilir, ama bu yöntem devrenin koparılmasını gerektirmektedir, bu da bazi durumlarda zorluk yaratır. Akım, devreyi koparmadan, meydana getirdiği manyetik alan sayesinde de ölçülebilir. Bu amaçla kullanılan cihazlar arasında Hall etkisi sensörleri, akım transformatörleri ve Rogowski bobinleri de vardır.
+Özel görelilik kuramı kullanılarak manyetik alan, akımı taşıyan parçacıklarla aynı hızda giden bir gözlemci için durağan bir elektrik alan dönüştürüllebilir. Zaten akımın kendisi de ölçüldüğü referans sistemine bağlıdır, çünkü akım, parçacıkların hızına ve bu da referans sistemine bağlıdır.
+Matematiksel Modeller.
+Akım miktarının hesaplanması.
+Sabit bir akım "I" amper olarak şu şekilde hesaplanabilir:
+burada
+Devamında:
+Ohm yasası.
+Ohm kanunu, ideal bir direnç veya diğer omik aygıtlarda uygulanan gerilimin akıma oranıdır.
+burada
+Akım yoğunluğu.
+Elektrik akımı yoğunluğunun bir ölçümüdür. Bu elektrik akımının seçili alana oranını veren bir vektörel büyüklüktür SI birimlerinde, akım yoğunluğu amper bölü metrekare ile ölçülür.
+Elektrik yüklerinin hızı.
+Bir iletkenin içinde gezinen yüklü parçacıklar sürekli olarak rastgele yönlere doğru hareket ederler. Yükte net bir akış olabilmesi için, parçacıklar birlikte hareket etmelidirler. Elektronlar metalde taşıyıcıdırlar ve kararsız yolla akarlar (atomdan atoma sıçrarlar), fakat genellikle elektriksel alan yönünde akarlar. Akış hızları şöyle hesaplanabilir:
+burada
+Katı maddedeki elektrik akışı tipik olarak çok yavaştır. Örneğin, 0.5 mm² kesitli bir bakır tel 5 A lik bir akım taşırken elektronların akım yönündeki ortalama hızı saniyede milimetreler mertebesindednir. Buna karşılık katot ışınlı tüplerin içerisindeki neredeyse vakum ortamda elektronlar neredeyse doğrusal rotalarda ışık hızının onda birine yakın hızlarda hareket ederler.
+Elektriksel yük taşıyan parçacıklar hızlı ya da yavaş da hareket etse, iletkenin yüzeyinde oluşan elektriksel sinyaller genelde ışık hızına yakın hızlarda ilerlerler. Bu sonuca Maxwell denklemlerinin çözümüyle varılabilir. İlk bakışta sezgiye aykırı görünen bu durum bilardo toplarının çok hızlı hareket etmediklerinde bile çarpışmanın etkisini neredeyse anında iletmelerine benzetilerek açıklanabilir.
+Doğru akım ve alternatif akım.
+Doğru akım elektrik yükünün hep aynı yönde akmasıyla oluşur. Buna karşılık alternatif akımda eşit zaman aralıklarıyla akım yönü tersine döner. Bunların üretilmesi, iletilmesi ve kullanılması çok farklı özellikler gösterirler. Çeşitli elektronik devre elemanları kullanılarak bu iki akımı birbirine dönüştürmek mümkündür.
+Elektrik enerjisi, çeşitli yöntemlerle diğer enerji çeşitlerinin dönüştürülmesiyle üretilir. Ortaya çıkan akım doğru ya da alternatif akım olabilir. Doğru akım en yaygın olarak kimyasal pillerde, güneş pillerinde ve dinamolarda(doğru akım motoru) üretilir. Alternatif akım ise genellikle alternatif akım motorlarında üretilir.
+Kullanılan elektriğin büyük çoğunluğu herhangi bir enerji çeşidinin önce hareket enerjisine, ordan elektrik enerjisine çevrilmesiyle elde edilir. Alternatif akım motorları genel olarak doğru akım motorlarından daha ucuza mal olurlar, bakımları daha kolaydır ve daha yüksek verimde çalışırlar. Dolayısıyla alternatif akım büyük miktarda üretime daha uygundur. Bunun yanında alternatif akımın iletimi de çeşitli nedenlerden çok daha ucuz ve verimli bir şekilde yapılabilir. Elektrik şebekesinin alternatif akım taşıması bu nedenlerden ötürüdür. Buna karşılık elektrik şebekesinden uzak ya da taşınabilir uygulamalarda piller yardımıyla doğru akım elde etmek daha kolaydır.
+Elektrik enerjisinin hareket enerjisine dönüştürülmesinde de alternatif akım motorları benzer avantajlara sahiplerdir. Bu yüzden hareket enerjisi gerektiren uygulamalarda (örneğin elektrikli ev aletleri) alternatif akım tercih edilir. Öte yandan, doğru akım, elektronik cihazların (özellikle dijital) çalışması için çok daha uygundur.
+Görüldüğü yerler.
+Doğada karşılaşılan elektrik akımları arasında yıldırımlar, Güneş rüzgârları ve kuzey ışıkları vardır. İnsan yapımı elektrik akımlarına örnek olarak da metal tellerde akan elektronlar örnek gösterilebilir. Bu duruma uzun mesafelere elektrik enerjisi dağıtan elektrik iletim hatlarında ya da elektrikli ve elektronik aletlerin içlerindeki tellerde rastlanabilir. Akıma Elektronik bilimi dahilinde farklı yerlerde de rastlanabilir. Bunların arasında dirençlerin üzerinden geçen akımlar, vakumlu tüplerdeki vakumdan geçen akımlar, pillerin ya da sinir hücrelerinin içinde akan iyonlar ve bir yarı iletkenden akan elektron boşlukları da vardır.
+Tehlikeler.
+Elektrik akımından kaynaklı en ciddi zararlar elektrik çarpmalarıdır. Elektrik çarpmasının etkileri pek çok etkene dayanır. En onemli etkenler akımın şiddeti, elektriksel temasın yapısı, etkilenen uzuvların durumları, akımın vücutta takip ettiği yol ve akım kaynağının gerilimidir. Çok zayıf bir akım sadece bir karıncalanmaya neden olurken, deriden geçen şiddetli akımlar ciddi yanıklara hatta kalpten geçen akımlar kalp krizine bile sebep olabilir.
+Kontrol dışı elektrik kaynaklı ısınmalar da tehlikeli sonuçlar doğurabilir. Fazla güç taşıyan kablolar yaygın bir yangın sebebidir. Cepte birlikte taşınan madeni paralar ve bir AA Pil kadar küçük bir güç kaynağı bile kısa devre sonucu hızlıca ısınıp deride yanıklara sebep olabilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Manyetik alan</DOCTITLE>
+<TEXT>
+
+Tanım.
+Manyetik alan hareket eden elektrik yükleri tarafından, zamanla değişen elektrik alanlardan veya temel parçacıklar tarafından içsel olarak üretilir. Manyetik alan vektörel bir büyüklüktür. Yani herhangi bir noktada yönü ve kuvveti ile tanımlanır. Manyetik alan en genel şekilde hareket eden elektrik yüküne etki eden Lorentz kuvveti ile tanımlanır.
+Manyetik alan, elektrik alanı, akım ve onları yaratan yükler arasındaki bağlantı Maxwell denklemleri ile açıklanır. Özel görelilik kuramı'nda elektrik ve manyetik alan bir nesnenin birbiriyle alakalı iki özelliğidir. Kuantum fiziğinde ise elektromanyetik etkileşimler foton değişimi sonucunda oluşur.
+Manyetik alanın birçok kullanımı vardır. Dünya kendi manyetik alanını üretir ve bu manyetik alan pusulanın temel çalışma prensibini oluşturur. Dönen manyetik alan elektrik motorlarında ve jeneratörlerde kullanılır.Manyetik kuvvetler bir malzeme içerisindeki yük taşıyıcılarının sayısı hakkında bilgi verir.
+Mıknatıssal veya manyetik alan, bir mıknatısın mıknatıssal özelliklerini gösterebildiği alandır. Mıknatısın çevresinde oluşan çizgilere de, mıknatısın o bölgede oluşturduğu manyetik alan çizgileri denir. Manyetik alan çizgilerinin yönü kuzeyden (N) güneye (S) doğrudur.
+Manyetik alan B harfiyle temsil edilir. SI birimi Sırp bilim adamı Nikola Tesla'nın soyadı Tesladır. Manyetik alan Lorentz kuvveti kullanılarak ölçüldüğü için birimi "coulumb-metre/saniye başına Newton"dur. Saniye başına coulomba bir amper dendiği için "T=N(Am)-1" olarak da geçer. Tesla günlük olaylar için çok büyük bir birim olduğundan pratikte, gauss (G) kullanılmaktadır. 1 T=104 G
+Manyetik maddelerin sınıflandırılması.
+Michael Faraday, araştırmaları neticesinde maddelerin, manyetik alana tepki verdiğini ve bu tepki sonucunda etkileşimin olduğunu ortaya koydu. Verdikleri tepkiye göre
+maddeleri üç grupta toplanabildiğini gösterdi:
+Tarihi.
+MÖ 13. asırda Çin'de pusula kullanılmaktaydı. Yunanların MÖ 800 yıllarında manyetizma hakkında bilgileri vardı. Manyetit taşının (Fe3O4) demir parçalarını çektiğini keşfettiler. Efsaneye göre Manyetit adı, sürüsünü otlatırken ayakkabısının çivileri ve sopasının ucu büyük manyetit parçalarına yapışıp kalan Magnes adlı çobandan gelmektedir.
+1269'da Pierre de Maricourt, doğal küresel bir mıknatıs yüzeyinin çeşitli noktalarına bir iğne yerleştirerek iğnenin aldığı yönlerin haritasını elde etti. Yönlerin, kürenin çap boyunca karşılıklı iki noktasından geçen ve küreyi kuşatan çizgiler oluşturduklarını gördü. Bu noktalara mıknatısın kutupları adını verdi. Daha sonraki deneyler, şekli ne olursa olsun her mıknatısın kuzey ve güney kutup denen iki kutbu olduğunu gösterdi. Bu kutuplar, elektrik yükleri gibi birbirleri üzerine kuvvet etki ettirirler.
+Elektrik ve manyetizma arasındaki ilişki, 1819'da Danimarkalı bilim adamı Hans Christian Oersted'in bir gösteri deneyi sırasında akım taşıyan telin yakınında duran pusulayı saptırdığını bulmasıyla keşfedildi. Bundan kısa bir süre sonra Andre Ampere akım taşıyan iletkenin diğerine uyguladığı manyetik kuvveti hesaplamak için gerekli nicel yasaları elde etti. 1820'lerde Michael Faraday ve ondan bağımsız olarak Joseph Henry elektrik akımı ile manyetizma arasındaki başka ilişkileri de gösterdiler. En sonunda Maxwelltüm bu çalışmaları ve elektrik ile manyetizmayı birleştiren Maxwell denklemlerini yayınladı.
+Manyetik alan yoğunluğu.
+Birim yüzeydeki manyetik alan miktarıdır. Buna göre, manyetik alan birimi Tesla olduğu için manyetik alan yoğunluğunun birimi de Tesla/m2 dir.
+Manyetik Kutuplar.
+Bir mıknatısı kütle merkezinden astığımızda bir ucunun kuzeyi diğer ucunun güneyi gösterdiğini gözleriz. Kuzeyi gösteren uca mıknatısın kuzey kutbu (N) , güneyi gösteren uca ise mıknatısın güney kutbu (S) denir.Mıknatısın aynı kutupları birbirini iter, zıt kutupları ise birbirini çeker.
+Pusula bir noktadaki manyetik alanın yönünü gösterir. Pusula ince bir mıknatısın bir iğne üzerinde serbestçe dönebilmesiyle oluşur. Bir mıknatıs pusulaya yaklaştırıldığında pusula iğnesi sapma yapar.
+Bir mıknatısta,
+Manyetik Alan Çizgileri.
+Manyetik alan çizgilerinin N kutbundan S kutbuna doğru olduğu kabul edilir. Bir pusulayı manyetik alanın içine koyarsak pusula manyetik alan yönünde uzanır. (N'den S'ye) Manyetik alan vektörü, bu çizgilere teğet durumdadır. Çizgilerin sık geçtiği yerlerde manyetik alanın şiddeti fazladır.
+Elektrik akımı ve manyetik alan.
+Hareket eden elektrik yükleri (akım), manyetik alan oluşturur ve etraftaki manyetik alanlardan etkilenir.
+Hareketli yükler tarafından oluşturulan manyetik alan.
+Hareket eden yüklü parçacıklar (örn. elektron) bir manyetik alan oluşturur. Oluşan bu manyetik alan yükün etrafını dairesel olarak sarar, bunu matematiksel olarak açıklayan kişilerJean-Baptiste Biot ve Félix Savart'ın onuruna Biot-Savart yasası olarak adlandırılan yasa, manyetik alanın şiddetinin yükten uzaklaştıkça azaldığını gösterir ve sağ el kuralıyla manyetik alanın yönünü kolayca bulmamızı sağlar.
+Akım taşıyan tel kıvrılırsa, oluşturduğu manyetik alan yoğunlaşmaya başlar. Kıvrımların sayısı arttırılarak manyetik alanın yoğunluğu arttırılabilir ve doğal bir mıknatıstan çok daha güçlü çekim kuvvetleri oluşturulabilir.
+Bu amaçla solenoitlerin içine demir çekirdek yerleştirilerek elektromıknatıs elde edilir. Akımı arttırıp azaltarak çekim kuvvetinin ayarlanabilmesi sebebiyle elektromıknatıslar günümüzde hayatımızın her alanında kullanılmaktadır.
+Elektrik akımına ve hareketli yüklere etkiyen manyetik kuvvet.
+Yüklü parçacığa etkiyen kuvvet.
+B manyetik alanında, v hızıyla hareket eden q yüklü parçacığa etki eden manyetik kuvvet Lorentz kuvveti olarak bilinir:
+Lorentz kuvveti; manyetik alan vektörüne ve parçacığın hız vektörüne diktir. v ve B arasındaki vektörel çarpımdan dolayı, parçacık manyetik alana paralel hareket ederse etkiyen kuvvet sıfırdır. İki vektör birbirine dik olduğunda Lorentz kuvveti en büyük değerini alır.
+Manyetik kuvvet, parçacığın hızına daima dik olduğu için hızı büyüklüğünü değiştiremez yalnızca yönünü değiştirebilir. Bu yüzden hızı ve yükü olan bir parçacık manyetik alanda dairesel hareketler yapmaya başlar ve manyetik kuvvet bu dairesel harekette merkezcil kuvvet görevi görür.
+Akım taşıyan tele etkiyen manyetik kuvvet.
+Akım taşıyan teldeki her bir elektrik yüküne "qv x B" kuvveti etki eder, parçacık sayısıyla kuvvet çarpılarak toplam kuvvet bulunur. Kesit alanı "A", uzunluğu L olan bir tel parçasındaki parçacıkların sayısı "nAL" dir. ("n" burada birim hacimdeki yük sayısı). Dolayısıyla kuvvetin "büyüklüğü" "F=qvBnAL" olur. Akımın I=nqvA tanımı kullanılılrsa
+Burada L akım yönünde, büyüklüğü telin boyuna eşit vektördür. 
+Manyetik alan örnekleri ve bazı önemli uygulamaları.
+Yerin Manyetik Alanı.
+Yerin manyetik alanı, dünyanın sıvı dış çekirdeğindeki konveksiyon akımları ile oluşur. Dış çekirdekteki konveksiyon hareketleri, zaman içinde manyetik alanı oluşturur. Bu konveksiyon hareketlerinin dünyanın oluşumundan beri meydana geldiği düşünülmektedir. Yeryüzü çekirdeğinin içi katı , dışı sıvı demir termal hareketlerle kendi manyetik alanlarını oluşturur. Atomların yeterli bir güçle ve düzenli bir şekilde yer değiştirmesi ve yönlendirmesi kalıcı mıknatıslanmaya neden olduğundan dünyanın kabuğunda kalıcı mıknatıslanma yaratır. Dünyayı, etrafı manyetik alanla çevrelenmiş büyük küresel bir mıknatıs gibi düşünebiliriz.
+Dünya manyetik alanı, kuzey ve güney kutupları olan, merkezde yerleşmiş bir dipol mıknatıs çubuk olarak da tanımlanır. Dünyanın dönüş ekseni ile dipolün ekseni arasında yaklaşık olarak 11 derece fark vardır. Bu kuzey ve güney coğrafi kutuplarla, manyetik kutupların üst üste gelmediğini gösterir. Herhangi bir noktadaki yer mıknatıssal alanı, ölçülen bileşen ve yön ile belirtilir. Yerin içindeki dev mıknatıs Coğrafi kuzey-güney doğrultusuyla yaklaşık 11-15 derece lik bir açı yapacak şekilde konumlandığından pusulanın gösterdiği yön tam olarak coğrafi kuzey yönü olmayıp 11-15 derece arasında sapma yapar.
+Dönen manyetik alan.
+Dönen manyetik alan, manyetik alanın yönünün, belirli bir açısal hıza sürekli değiştiği durumdur. Bu durum, Alternatif akım motorunun temel çalışma prensibidir.
+Hall etkisi.
+Akım taşıyan bir iletken, bir manyetik alan içine yerleştirildiğinde, hem akıma hem de manyetik alana dik yönde bir potansiyel farkı üretilir. Bu olay ilk kez 1879'da Edwin Hall tarafından gözlendi. Olay, yük taşıyıcılarının manyetik alandan ötürü gördükleri manyetik kuvvet nedeniyle, iletkenin bir tarafına doğru sapmalarından kaynaklarnır. Hall etkisi, yük taşıyıcıların işareti ve yoğunluğu hakkında bilgi verir ve manyetik alanların büyüklüklerini ölçmek için de kullanılabilir.
+Manyetik alanın ortamdan geçişi.
+Buna karşılık olarak;;
+-273+500 oC derece üzerinde manyetik özellik kaybolmaktadır. Ve dünyanın manyetik alanı uydusu olan Ay'ın gelgit çekimlerinden etkilenerek tersi yönünde dönen dünya sayesinde oluşmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dönüm</DOCTITLE>
+<TEXT>
+
+Dönüm, 918,393 m2'lik eski bir alan ölçüsüdür. Günümüzde ise 1000 m2 alana eşit olan dekar yerine kullanılmaktadır. Eski kullanım şeklinde 30,31 m boyu, 30,3 m eni olan bir alandır. Genelde Türkiye'de arsa ve tarlaların yüzölçümünü belirtmekte kullanılır.
+Eski Osmanlı alan ölçme birimlerinden dönüm'ün modern birim dekar'a olan yakınlığı sebebiyle günümüzde halk arasında dekar tabiri yerine dönüm ismi kullanılır.
+Birim Dönüşümü.
+Metrik birim sisteminde (SI) 1 dönüm alan diğer alan birimlerine şu şekilde çevrilebilir:
+İngiliz ve Amerikan birim sisteminde (Emperyal) 1 dönüm alan yaklaşık olarak şu şekilde çevrilebilir: 
+
+</TEXT>
+</DOC>
+

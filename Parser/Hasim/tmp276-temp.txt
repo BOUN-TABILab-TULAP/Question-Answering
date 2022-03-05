@@ -1,0 +1,22 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ekvator ekvator+Noun+A3sg+Pnon+Nom Ekvator+Noun+Prop+A3sg+Pnon+Nom
+çevresi çevre+Noun+A3sg+P3sg+Nom çevre+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+dünya dünya+Noun+A3sg+Pnon+Nom
+üzerinde üzer+Noun+A3sg+P2sg+Loc üzer+Noun+A3sg+P3sg+Loc
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+fazla faz+Noun+A3sg+Pnon+Ins fazla+Adverb fazla+Adj fazla+Postp+PCAbl
+yağış yağ+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+alan al+Verb+Pos^DB+Adj+PresPart ala+Noun+A3sg+P2sg+Nom ala+Adj^DB+Noun+Zero+A3sg+P2sg+Nom alan+Noun+A3sg+Pnon+Nom
+yerdir ye+Verb+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3sg+Cop yer+Verb^DB+Verb+Caus+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

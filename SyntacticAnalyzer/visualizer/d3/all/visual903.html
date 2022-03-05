@@ -1,0 +1,114 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>EEA kaç yılında kurulmuştur</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(9828, {label: "Dalgaların",nodeclass: "type-TK"});
+ g.addNode(9829, {label: "kabar",nodeclass: "type-TK"});
+ g.addNode(9830, {label: "kabarma",nodeclass: "type-TK"});
+ g.addNode(9831, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(9832, {label: "çek",nodeclass: "type-TK"});
+ g.addNode(9833, {label: "_",nodeclass: "type-TK"});
+ g.addNode(9834, {label: "çekilme",nodeclass: "type-TK"});
+ g.addNode(9835, {label: "hareketlerinden",nodeclass: "type-TK"});
+ g.addNode(9836, {label: "yarar",nodeclass: "type-TK"});
+ g.addNode(9837, {label: "_",nodeclass: "type-TK"});
+ g.addNode(9838, {label: "_",nodeclass: "type-TK"});
+ g.addNode(9839, {label: "yararlanılarak",nodeclass: "type-TK"});
+ g.addNode(9840, {label: "üre",nodeclass: "type-TK"});
+ g.addNode(9841, {label: "_",nodeclass: "type-TK"});
+ g.addNode(9842, {label: "_",nodeclass: "type-TK"});
+ g.addNode(9843, {label: "üretilen",nodeclass: "type-TK"});
+ g.addNode(9844, {label: "enerjiye",nodeclass: "type-TK"});
+ g.addNode(9845, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(9846, {label: "de",nodeclass: "type-TK"});
+ g.addNode(9847, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(9848, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,9828,9829,{label: "ÖZNE"});
+ g.addEdge(null,9829,9830,{label: "TÜREME"});
+ g.addEdge(null,9830,9831,{label: "NESNE"});
+ g.addEdge(null,9831,9835,{label: "BAĞLANTI"});
+ g.addEdge(null,9832,9833,{label: "TÜREME"});
+ g.addEdge(null,9833,9834,{label: "TÜREME"});
+ g.addEdge(null,9834,9835,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,9835,9838,{label: "DEN HALİ"});
+ g.addEdge(null,9836,9837,{label: "TÜREME"});
+ g.addEdge(null,9837,9838,{label: "TÜREME"});
+ g.addEdge(null,9838,9839,{label: "TÜREME"});
+ g.addEdge(null,9839,9842,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9840,9841,{label: "TÜREME"});
+ g.addEdge(null,9841,9842,{label: "TÜREME"});
+ g.addEdge(null,9842,9843,{label: "TÜREME"});
+ g.addEdge(null,9843,9844,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9844,9847,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,9845,9847,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,9846,9847,{label: "TÜREME"});
+ g.addEdge(null,9847,9848,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

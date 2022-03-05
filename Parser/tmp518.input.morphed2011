@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Mantarların	mantar	+Noun+A3pl+Pnon+Gen
+Mantarların	mantar	+Noun+A3pl+P2sg+Nom
+
+yapılarında	yapı+Noun+A3pl+P3sg+Loc
+yapılarında	yapı+Noun+A3pl+P2sg+Loc
+yapılarında	yapı+Noun+A3pl+P3pl+Loc
+yapılarında	yapı+Noun+A3sg+P3pl+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+ince	ince	+Adj
+
+iplikçiklere	ip	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+Pnon+Dat
+iplikçiklere	iplik	+Noun+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

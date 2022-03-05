@@ -1,0 +1,16 @@
+1	Sıcak	sıcak	Adj	Adj	_	_	_	_	_
+2	su	su	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	kaynaklarından	kaynak	Noun	Noun	A3pl|P3sg|Abl	_	_	_	_
+4	_	yarar	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	_	_	Verb	Verb	Acquire	_	_	_	_
+6	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+7	yararlanılarak	_	Adv	Adv	ByDoingSo	_	_	_	_
+8	elektrik	elektrik	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	enerjisi	enerji	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+10	_	üre	Verb	Verb	_	_	_	_	_
+11	_	_	Verb	Verb	Caus|Pos	_	_	_	_
+12	üreten	_	Adj	APresPart	_	_	_	_	_
+13	santrallere	santral	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+14	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+15	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+16	.	.	Punc	Punc	_	_	_	_	_

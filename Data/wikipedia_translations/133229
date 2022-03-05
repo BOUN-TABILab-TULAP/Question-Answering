@@ -1,0 +1,38 @@
+Görünen rüzgar
+Görünen rüzgar hareketli nesne yaşadığı rüzgar.
+Rüzgarı tanımı.
+"Görünen rüzgar" hareket bir gözlemci yaşadığı rüzgar ve gözlemciye göre rüzgarın nispi hızıdır.
+"Görünen rüzgar" hız "gerçek rüzgar" ve bir nesne hava hala yaşayacak karşıdan esen rüzgâr vektörel toplamıdır. "rüzgarın hız eksi nesnenin Hızı": hala havada karşıdan esen rüzgâr hızı, bu nedenle zahiri rüzgar da bir vektör çıkarma olarak tanımlanabilir nesnenin hızının, tersidir.
+Basit bir örnek.
+Hiçbir rüzgar olduğunda bir günde bisiklete binmek varsayalım. Rüzgar hızı sıfır (hala oturan insanlar hiçbir esinti hissediyorum) olmasına rağmen, size hava yoluyla hareket olduğu gerçeği nedeniyle bisikletle bir esinti hissedeceksiniz. Bu bariz rüzgar. Rüzgarsız gününde, görünen rüzgar her zaman doğrudan önünde olacak ve bisiklet hızına hız eşit.
+Şimdi kuzeyden doğrudan gelen 5 mil rüzgar olduğunu varsayalım. 10 mph nedeniyle kuzeyde pedal varsa, kuzeyden 15 mph belirgin bir rüzgar hissedeceksiniz. 10 mph güneye pedal Ama eğer güneyden 5 mil belirgin bir rüzgar hissedeceksiniz. Görünür rüzgar gerçek rüzgar daha (hala ayaktadır hariç) hız farklı değil sadece, aynı zamanda yönde farklı olabilir.
+Bu basit örneklerde, hareketi kolay (yeryüzüne göre) gerçek rüzgar hızına bağlı olarak belirgin rüzgarın hızını ve yönünü hesaplamak için yapar gerçek rüzgar paraleldir. Hareket rüzgara paralel değilken, tek belirgin rüzgarı hesaplamak için trigonometri kullanmanız gerekir. Vektör matematiği de bazı durumlarda yararlı olabilir.
+Yelken belirgin rüzgar.
+Yelken, görünen rüzgar yelken üzerine hava oyunculuk gerçek akışıdır. Bir hareketli gemide denizci görünür gibi rüzgar.
+Bu durağan bir gözlemci tarafından deneyimli gerçek rüzgardan hızı ve yönü farklıdır.
+Deniz terminolojide, "görünür rüzgar" nin bu özellikleri normalde knot ve derece olarak ifade edilir.
+Teknelerde, görünür rüzgar (aşağıda "Araçlar" bölümüne bakınız) ölçülür veya "yüz / cilt üzerinde hissetti" bir bot ya da on-board herhangi telltales veya rüzgar göstergelerine bakarak eğer. Gerçek rüzgar hesaplanan ya da tekneyi durdurmak gerekiyor.
+Aletleri.
+Görünür rüzgar on-board (bir tekne) sık sık knot rüzgar hızını ve tekne başlığı göre derece rüzgar yönü ölçen bir anemometre ve rüzgar gülü içeren bir manşete dönüştürücü tarafından ölçülen bir hız olarak kote edilir. Görünür rüzgar ve tekne hızı ve yönü girişi olduğunda, modern enstrümantasyon gerçek rüzgar hızını hesaplayabilirsiniz.
+Yelken hızları Etkileri.
+Yelkenin noktaları belirlerken yelkenli yarışlarında, özellikle hız yelken, görünür rüzgar önemli bir faktör, bir yelkenli tekne etkin bir yolculuk yapabilirsiniz.
+"Hakim rüzgar" hız göreceli artırılması seyahat bir gemi azalan açıyla yelken sürüş ve hız artan rüzgar karşılaşacak. Sonunda, artan sürükle ve son derece düşük açılarda bir yelkenin verimliliği azalmış derecesi kuvvetini hızlanan kaybına neden olur. Bu rüzgar odaklı gemileri ve araçların hızına ana sınırlama oluşturmaktadır.
+Caretta ve tekneler belirli türleri gerçek rüzgar daha hızlı yelken edebiliyoruz. Bunlar hızlı multihulls ve bazı planya monohulls içermektedir. Buz denizciler ve kara denizciler de genellikle çünkü sürükleme ya da sürtünme nispeten düşük miktarda, bu kategoriye girer.
+Çevre rüzgar gücünü iki katına kadar az foiling AC72 Amerika'nın fincan katamaran ise, tekneler su yoluyla yelken. Bunun etkisi "rüzgar" yelken yaparken radikal görünen rüzgar yönünü değiştirmektir. Bu teknelerde ilerleme hızı belirgin rüzgar her zaman ileriye altında olduğunu kanat yelken için 2 ila 4 derece değişen bir açı o kadar büyük. Bu AC72 en etkili bir şekilde, genellikle 50 ile 70 derece arasında, normal bir 45 derecelik rüzgara karşı açısından daha büyük bir açı ile birlikte, rüzgarın alt baş tarafında teyel anlamına gelir.
+Alaka diğer alanlar.
+Sabit kanatlı uçaklarda, görünür rüzgar on-board deneyimli ne olduğunu ve take-off ve iniş için gerekli hızları belirler. Uçak gemileri genellikle belirgin rüzgar artırmak ve gerekli take-off hızı azaltmak amacıyla, maksimum hızda doğrudan rüzgara karşı buharla. Kara kökenli havalimanı trafiği, hem de çoğu orta ve büyük ölçekli kuşlar genellikle çıkarmak ve arazi aynı nedenle rüzgâra karşı karşıya.
+Görünür hız ve açı hesaplanması.
+FORMULA_1
+Nerede:
+Yukarıdaki formül cosines Hukuk türetilen ve formula_6 kullanıyor.
+rüzgarı (formula_7) açısı derece ters kosinüs kullanılarak tekne ve rüzgar ölçülen hız hesaplanabilir (formula_8)
+formula_9
+Tekne ve hız ve rüzgarı açısının hızı biliniyorsa, bir ölçümünden, örneğin gerçek rüzgar hızı ve yönü ile hesaplanabilir:
+formula_10
+ve
+formula_11
+"Not:" belirgin rüzgarlar sancak yönden gelen zaman nedeniyle kadranda belirsizliği, formula_12 için bu denklem geçerlidir (0 ° <"β" <180 °). Liman görünen rüzgarlar için (180 ° <"β" <360 ° veya 0 °> "β"> -180 °), gerçek işaretleme açısı ("α") karşısında işareti vardır:
+formula_13
+Çevrimiçi hesaplama ve grafik darbe sunumu.
+Kitebuggy, Kite-MTB, Kitesurf ile ilgili kısa tanıtım
+Bir girdi olarak derece ve Kurs hızı Girdi Rüzgar hızı ve Kursu, görünür rüzgar hızı ve zahiri rüzgar açısını hesaplamak için

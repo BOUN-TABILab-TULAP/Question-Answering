@@ -1,0 +1,100 @@
+Ters fonksiyon
+Matematikte, bir ters fonksiyon başka bir işlevi "tersine" bir fonksiyondur: bir girişe uygulanan fonksiyon tersi daha sonra onun ters işlevini uygulayarak bir sonuç verir sonuç verir, ve eğer. yani ancak ve ancak.
+Bir ters olan bir fonksiyon tersi olduğu söyleniyor. O var olduğunda, ters fonksiyon benzersiz belirlenir ve "f ters" okumak, ile gösterilir. "Üstsimge", genel olarak, sayısal üs ifade etmez.
+Bazı durumlarda, örneğin ne zaman gerçek bir değişkenin bir çevrilebilir gerçek değerli bir fonksiyondur, bu durumda, ile oluşan anlam, daha kompakt yazılabilir ve arasındaki ilişki, sırayla ya, R. kimlik işlevi
+Tanımlar.
+Etki alanı görüntüsü (aralık) dizi seti ve bir fonksiyon Izin. Özelliği ile, etki alanı ve görüntü ile bir işlev söz konusudur Sonra "tersi" dir:
+Tersi ise, fonksiyon benzersizdir; diğer bir deyişle, (daha az, daha fazla) bu özelliği tatmin edici bir fonksiyon tam olarak mevcuttur. Bu işlev daha sonra "" ters denir ve genellikle gösterilir.
+Ve ters ilişki ters ilişki ters fonksiyon bu durumda aralık, bir işlev yalnızca eğer aksi belirtilmedikçe, bir işlev tersi olduğunu.
+Tüm fonksiyonlar bir ters var. Bu kural geçerli olabilmesi için, her element en fazla bir uygun olmalıdır; Bu özelliği ile bir fonksiyon tek-bir veya enjeksiyon denir. Ve fonksiyonlar ve sırasıyla, o zaman her iki bijections vardır. Bir bijection olmayan bir enjeksiyon ters bazı tanımsız olduğu için araçlar, kısmi bir fonksiyonudur.
+Örnek: hizalama ve karekök fonksiyonları.
+işlevi veya ("domain") olarak kabul ediliyor sayıların ne tür bağlı tersinir olabilir veya olmayabilir.
+Etki reel sayılar, daha sonra her olası sonuç "y" ise iki farklı başlangıç ​​noktasına karşılık geliyorsa:) biri pozitif ve biri negatif (ve böylece bu fonksiyon tersi değildir: onun çıkış işareti anlamak için imkansız gibi onun giriş. Böyle bir işlev olmayan injective ya da bilgi-kaybetme denir. Ne karekök ne temel karekök fonksiyonu ilk tek değerli değil çünkü tersidir ve negatif olduğunda ikinci döner ters toplamsal.
+Sadece pozitif sayılar (sıfır) olarak kabul ediliyor, o zaman işlev İnjektif ve tersinir olduğunu.
+Yüksek matematik Tersi.
+Yukarıda verilen tanım genellikle küme kuramı ve hesabı benimsenmiştir. Yüksek matematik olarak, gösterim
+anlamına gelen "bir dizi elemanlarına kümesi bir fonksiyonu eşleme elemanları". Kaynak, etki olarak adlandırılır, ve hedef, codomain olarak adlandırılır. codomain bir alt kümesi olarak çeşitlerini içerir ve nin tarifinin bir parçası olarak kabul edilir.
+Codomains kullanıldığında, bir fonksiyonun tersine etki alanı ve codomain sahip olması gerekmektedir. Ters tüm tanımlanabilir için, her bir elemanı işlevi aralığında yer almalıdır. Bu özelliği ile bir fonksiyon ya da bir "örten" "üzerine" denir. Ve hem "injective" (bire-bir) ve surjective (üzerine) yalnızca Böylece, eğer bir codomain bir fonksiyon ters çevrilebilir. Bu tür bir işlev bire bir karşılık veya bijection olarak adlandırılan ve her eleman tam bir elemanına karşılık gelen özelliği vardır.
+Tersi ve bileşim.
+Sonra etki ve aralığı ile bir ters çevrilebilir fonksiyonu ise
+Aşağıdaki gibi biz bu ifadeyi yazabilirsiniz fonksiyonların bileşimini kullanarak:
+nerede sette kimlik işlevi; O, onun argümanı değişmeden bırakır işlevdir. Kategori Teoride, bu deyimi ters morfizma tanımı olarak kullanılır.
+Fonksiyon kompozisyonuna bakıldığında gösterim anlamaya yardımcı olur. (Defalarca) kendisi ile bir fonksiyon tekrarında denir ve değeri ile başlayan times ise gösterilir beste; Böylece, vb için, oluşturma ve verimler ", geri alma" bir uygulamasının etkisi.
+notasyonu da çarpma fonksiyonlarını dikkate alarak, düzenli çarpma ile bağlantılı olabilir. Başvuru bolunmesı ya ile çarpılması ile aynı olan, vermektedir.
+Gösterimde ilgili not.
+tersleri için üst simge gösterimde bazen özellikle trigonometrik ve hiperbolik fonksiyonlar ile uğraşırken, üst diğer kullanımları ile karışabilir. Bu karışıklığı, gösterimler veya "" yukarıdaki bazen kullanılır ile önlemek.
+Notasyonu yanlış olabilir oysa kesinlikle çarpımsal tersinin gösterir ve inversiyon ile ilgisi yoktur.
+(aşağıya bakınız aslında bir kısmî ters) sentezleme için çarpan ters ancak uygulanan sinüs fonksiyonu tersini temsil etmez. Karışıklığı önlemek için, ters trigonometrik fonksiyon genellikle önek "arc" ile gösterilir. Örneğin, sinüs fonksiyonunun tersi genellikle, günah gibi, geleneksel roman türü değil (genellikle isim asin kullanmak matematiksel fonksiyonların bu yazılım kütüphaneleri unutmayın) italik ifade olan Arcsin olarak yazılır, Ark fonksiyonu denir:
+Fonksiyon sine kadar çarpımsal tersidir ve cosecant denir. Genellikle ifade edilir:
+Hiperbolik fonksiyonlar sinh ters fonksiyonu için arsinh gibi onların ters fonksiyonlar için önek "ar" seçeneğini kullanarak, benzer şekilde davranır, ve çarpımsal ters için.
+Sigara örnek: işlevlerini ters yol ters işlemleri.
+Orantılılık bağlamında, doğrudan salınımlı fonksiyonlar iki değişken bölüm bir sabit, k eşit şekilde X ve Y arasındaki ilişkiyi temsil eder. Bu nedenle, doğrudan bir varyasyon fonksiyonu aşağıdaki gibidir:. Bu denklemin alternatif bakış k eğim ve her zaman pozitif olduğu eğim-kesişim formudur.
+Doğrudan varyasyon fonksiyonları ilişkilerinde karşılaştırıldığında ters değişim fonksiyonu x ve y arasındaki ters ilişki gösterir. Bu kavram, doğrudan varyasyon fonksiyonunun ters fonksiyonu bulma ile karıştırılmamalıdır değildir. Ters değişim fonksiyonu sadece tek değişkenin değeri arttıkça diğer değişken azaldığı anlamına gelir. Bu ilişki için işlev sonucu pozitif bir değer olduğu bir eğimle, başka doğrusal fonksiyon verecektir çünkü doğrudan varyasyon fonksiyonunun tersini bularak bulunamaz. Bunun yerine, iki değişkenin ürün her zaman sabit üretmesi gerekir. Bu nedenle, ters bir varyasyon fonksiyonu aşağıdaki gibidir:. X arttıkça, daha büyük bir sayı sabiti k bölünmesi, bu nedenle y 0 yaklaşmaktadır.
+Sigara örnek: yüzdeleri ifade etmektedir.
+Onların aşinalık rağmen yüzde değişim basit bir ters yoktur. Yani yüzde düşüş başına bir X yüzde artış başına bir X ters değil, olduğunu.
+Özellikleri.
+Teklik.
+Bir ters fonksiyon, belirli bir fonksiyon için varsa, benzersiz şudur: ters ilişki olmalıdır.
+Simetri.
+Bir fonksiyonun ve tersi arasındaki bir simetri vardır. Etki ve aralığı ile bir ters çevrilebilir fonksiyonu ise Özellikle, daha sonra kendi ters etki alanı ve menzile sahip ve ters orijinal fonksiyonudur. Sembolleri, etki ve aralık ve etki alanı ve aralığı ile bir fonksiyonu olan bir işlev için:
+Ilişkilerin ters bir involusyonu çünkü bu, fonksiyon ters ve ilişki tersi arasındaki bağlantı izler.
+Bu ifade çevrilebilir olması için injective (ters ilk tanımlı) veya bijective (ikinci tanım) olması gerekir kesinti bariz bir sonucudur. involutive simetri özelliği öz aşağıdaki formül ile ifade edilebilir:
+fonksiyonların bir bileşimin ters formül ile verilir
+Ve sırası tersine edilmiş dikkat edin; ardından geri al, biz ilk geri almak ve daha sonra geri almanız gerekir.
+Örneğin, izin ve izin verin. Sonra bileşimi daha sonra üç ve ilk çarpar beş ekler fonksiyonu:
+Bu süreci tersine çevirmek için, öncelikle beş çıkarma, sonra üçe bölmek gerekir:
+Bu bileşim
+Self-tersleri.
+Bir dizi kendi tersidir ardından kimlik işlevi ise:
+Daha genel olarak, bir fonksiyon, bir bileşim eşittir, ancak ve ancak kendi tersine eşittir. Böyle bir işlev, bir involisyon denir.
+Diferensiyel Tersi.
+Tek değişkenli hesap reel sayılar gerçek sayılar harita fonksiyonları ile ilgilenmektedir. Bu tür işlevler genellikle gibi formüller yoluyla tanımlanmıştır:
+Gerçek sayılar gerçek sayılar gelen bir işlev vardır, her olası değeri için tek gelen değerin grafik olarak yani sürece, sürece tek-bir olduğu gibi bir ters sahiptir ve bu nedenle yatay çizgi testi geçer.
+Aşağıdaki tabloda çeşitli standart fonksiyonları ve bunların tersleri gösterir:
+Ters formülü.
+Varsa, bir formül bulmaya bir yaklaşım için denklemi çözmek etmektir. Örneğin, bir fonksiyondur
+Sonra biz denklemi çözmek gerekir:
+Böylece ters fonksiyon formülü ile verilir
+Bazen bir fonksiyonun ters terimleri sonlu sayıda bir formülle ifade edilemez. Örneğin, bir fonksiyondur
+daha sonra, bir-bir olduğu, ve bu nedenle de bir ters fonksiyonunu sahiptir. Bu ters formülü terimlerin sonsuz sayıda vardır: <br>
+Ters grafiği.
+Fonksiyonunun tersi, o zaman Grafik ise
+Denklemin grafik olarak aynıdır
+Bu ve rolleri tersine olması haricinde, bir grafik tanımlayan denklem ile aynıdır. Böylece grafiği ve eksen pozisyonları geçerek bir grafik elde edilebilir. Bu hat boyunca grafiği yansıtan eşdeğerdir
+Tersi ve türevleridir.
+Sürekli fonksiyon bire-bir (ve dolayısıyla tersinir) ise ve sadece eğer ya kesin artan ya da (hayır yerel maksimum veya minimum) ile azalan. Örneğin, işlev
+türevi beri, tersinirdir
+Fonksiyon türevlenebilir ise, o zaman ters sürece türevlenebilir olacaktır. ters türevi ters fonksiyon teoremi verilir:
+Biz ayarlarsanız, daha sonra formül yukarıda yazılmış olabilir
+Bu sonuç zincir kuralı (ters fonksiyonlar ve farklılaşma üzerine makalesine bakınız) izler.
+ters fonksiyon teoremi çok değişkenli fonksiyonlar jeneralize olabilir. Özellikle, bir türevlenebilir çok değişkenli fonksiyon sürece at Jacobian matrisi tersi olarak bir noktanın bir mahallede tersinir olduğunu. Bu durumda, en Jacobiyeni at Jacobian matris tersidir.
+Gerçek dünya örnekleri.
+1. derece Fahrenheit bir sıcaklığa derece Celsius arasında bir sıcaklığa dönüştürür fonksiyonu olsun:
+daha sonra kendi ters fonksiyon dereceye derece Fahrenheit dönüştürür:
+beri
+2. Varsayalım atar bir ailede her çocuğun kendi doğum yılı. Bir ters fonksiyon bir yıl içinde çıkış doğdu hangi çocuk. Ancak aile girişi yaygın doğum yıl sonra ne zaman çıktı bilinemez ikiz (veya üçüz) varsa. Bir yıl verilirse Yanı sıra, hangi hiçbir çocuk daha sonra doğmuş bir çocuğun adını edilemez. Ama her çocuk ayrı bir yılda doğdu, ve biz bir çocuğun doğduğu üç yıl dikkat kısıtlamak eğer, o zaman bir ters işlevi var yoksa. Örneğin,
+3. Bazı miktar bir yüzde yükselmesine yol açan fonksiyonu ve bir yüzdesi düşüş üreten fonksiyon Izin. 100 $ =% 10 Uygulanan biz ikinci takiben ilk fonksiyonun uygulanması görünüşe rağmen, bu iki işlev birbirlerinin tersidir değil, gerçeği gösteren 100 $ özgün değeri geri olmadığını bulmak.
+Genelleştirmeler.
+Kısmi tersleri.
+Bir fonksiyon, bire-bir olmasa da, bu etki kısıtlayarak bir kısmî ters tanımlamak mümkün olabilir. Örneğin, işlev
+itibaren değil, bire bir. Biz etki alanına kısıtlamak Ancak, işlev bire biri haline gelir ki bu durumda
+(Yerine o ters karekökü negatif ise, etki alanına kısıtlamak durumunda.) Alternatif olarak, ters çok değerli işlev olmaktan memnun iseniz etki kısıtlamak için gerek yoktur:
+Bazen bu çok değerli ters tam tersi denir ve bölümleri (örneğin ve -) "dalları" olarak adlandırılır. Bir çok değerli fonksiyonun en önemli dalı (örneğin pozitif karekökü) "asıl dalı" olarak adlandırılan, ve "asıl değer" denir onun değer.
+Gerçek hat üzerinde sürekli bir fonksiyon, bir dal Yerel ekstramumların her çift arasında gereklidir. Örneğin, bir yerel maksimum ve yerel minimum bir kübik fonksiyonun ters üç şube (sağdaki resme bakın) sahiptir.
+Bu değerlendirmeler trigonometrik fonksiyonların tersleri tanımlamak için özellikle önemlidir. Örneğin, sinüs fonksiyonu, çünkü bire bir değil
+(her tamsayı için daha genel ve) her gerçek. Bununla birlikte, sinüs bire bir aralık üzerinde
+Ve karşılık gelen kısmî ters Ark olarak adlandırılır. Bu ters sinüs başlıca dalı olarak kabul edilir, bu yüzden ters sinüsün ana değeri arasındaki zaman - ve. Aşağıdaki tabloda, her ters trigonometrik fonksiyonun başlıca şube açıklar:
+Sol ve sağ tersleri.
+Sol için ters (veya "geri çekilme") olarak böyle bir fonksiyonu ise,
+Bu fonksiyon kuralı tatmin olduğunu
+Böylece, görüntü üzerinde tersini eşit olmalıdır, ama görüntüde değil elemanları için tüm değerleri alabilir. Sol ters olan bir fonksiyon mutlaka birebirdir. Klasik Matematikte her birebir fonksiyon mutlaka sol tersi vardır; Ancak, bu yapıcı matematik başarısız olabilir. Örneğin, reals belirlenen iki elemanın dahil bir sol ters setine gerçek hattın bir geri çekilmesini vererek indecomposability ihlal ediyor.
+Sağ için ters (ya da "bölümünde" nin) bir fonksiyonu şekildedir
+Bu fonksiyon kuralı tatmin olduğunu
+Böylece altında bu harita elemanlarının herhangi biri olabilir. Bir fonksiyon (genel böyle bir ters inşa rağmen seçim belitini gerektirir) surjective ise ve sadece sağ tersi vardır.
+Bir sol ve sağ ters hem de benzersiz olması gerekir ters. Için sol tersidir Aynı şekilde, daha sonra ya da bir doğru ters olmayabilir; ve eğer o mutlaka bir sol ters değil, bir sağ tersidir. Örneğin tüm bu, bu tür karesi haritayı göstermek ve tüm o tür karekök haritası, göstermek let. Sonra tüm için; yani bir doğru ters etmektir. Ancak, için, çünkü, örneğin bir sol ters değildir.
+Preimages.
+Bir elementin herhangi bir işlevi (mutlaka tersi değil), öngörüntü (veya ters görüntü) ise bu haritanın tüm unsurların bütünüdür:
+Fonksiyonun (birden çok) tam ters altında imajının olarak düşünülebilir edilebilir öngörüntü.
+Herhangi bir alt kümesidir Benzer şekilde, bir öngörüntü o haritaya tüm unsurların bütünüdür:
+Örneğin, nerede bir işlev alır. Bu fonksiyon tartışılan nedenlerden dolayı tersi değil. Yine preimages codomain alt grupları için tarif edilebilir:
+Tek bir elemanın öngörüntü - Bir tek set - bazen "lif" denir. Reel sayılar kümesi olduğunda, bir "düzey kümesi" olarak başvurmak için yaygındır.

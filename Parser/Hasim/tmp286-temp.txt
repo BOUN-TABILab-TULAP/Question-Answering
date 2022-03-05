@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ayın ay+Verb+Pos+Imp+A2pl ay+Noun+A3sg+P2sg+Nom ay+Noun+A3sg+Pnon+Gen ayı+Noun+A3sg+P2sg+Nom Ayın+Noun+Prop+A3sg+Pnon+Nom
+dünya dünya+Noun+A3sg+Pnon+Nom
+üzerindeki üzer+Noun+A3sg+P2sg+Loc^DB+Adj+Rel üzer+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+çekim çek+Noun+A3sg+P1sg+Nom çek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg çeki+Noun+A3sg+P1sg+Nom çekim+Noun+A3sg+Pnon+Nom
+gücü güç+Noun+A3sg+P3sg+Nom güç+Noun+A3sg+Pnon+Acc güç+Adj^DB+Noun+Zero+A3sg+P3sg+Nom güç+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+güneşinkinden güneş+Noun+A3sg+Pnon+Gen^DB+Pron+Rel+A3sg+Pnon+Abl
+daha daha+Adverb daha+Noun+A3sg+Pnon+Nom
+fazladır faz+Noun+A3sg+Pnon+Ins^DB+Verb+Zero+Pres+A3sg+Cop fazla+Adj^DB+Verb+Zero+Pres+A3sg+Cop fazla+Postp+PCAbl^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

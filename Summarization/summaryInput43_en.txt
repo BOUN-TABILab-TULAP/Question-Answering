@@ -1,0 +1,701 @@
+Question: aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır  
+Answer: dumm ans
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Denetçi raporu</DOCTITLE>
+<TEXT>
+
+denetçi raporu resmi bir görüşü ya da reddi bunun bir iç denetçi ya da (bir "denetlenen" olarak adlandırılır) bir tüzel kişi ya da alt bölüm bunların üzerinde yapılan bir iç veya dış denetim veya değerlendirme sonucunda bağımsız dış denetçi ya tarafından yayınladı. Raporda daha sonra "kullanıcı" için sağlanan bir güvence hizmeti olarak (örneğin bir birey, kişilik bir grup, bir şirket, bir hükümet ya da diğerleri arasında, hatta genel halk, gibi) kararlar kullanıcının sırayla dayalı denetimin sonuçları.
+Özellikle iş, kullanıcılara finansal bilgileri rapor ederken, bir denetim raporu çok önemli bir araçtır kabul edilir. Birçok üçüncü parti kullanıcıların tercih, hatta bağımsız bir dış denetçi tarafından onaylanan finansal bilgiye ihtiyaç olduğu için, birçok denetlenenler kamu görünüm, yatırımcı çekmek kredi almak ve geliştirmek için kendi bilgilerini belgelemek denetçi raporları güveniyor. Hatta bazıları bir denetçi raporu olmadan finansal bilgi amaçlı yatırım için "aslında değersiz" olduğunu belirtmiştir.
+finansal tablolar üzerindeki denetim raporu.
+Finansal tablolar üzerinde o denetçi raporları ne değerlendirmeler de bir karar için varlıkları değerlendirmek için kullanılan benzer başka tespiti unutmayın önemlidir. kullanıcı karar için tüm diğer tespitler sol oysa rapor, sunulan bilgilerin doğru ve maddi yanlış beyanlardan arınmış olup olmadığı sadece bir görüştür.
+denetçi raporları dört yaygın türü, denetçinin çalışmaları sırasında karşılaşılan farklı bir durum sunan her biri vardır. aşağıdaki gibi dört raporlar şunlardır:
+Nitelenmemiş Görüş.
+Denetçi Mali Tablolar Finansal Tabloların hazırlanması ve sunumu için kullanılan finansal raporlama esaslarına uygun olarak doğru ve dürüst bir görünüm vermek olduğu sonucuna varmıştır zaman bir görüş niteliksiz olduğu söyleniyor. Denetçi o Finansal Tabloların içerdiği konularla ilgili olarak herhangi bir önemli rezervasyon yok Temiz görüş veya olumlu görüş verir. Raporun en sık tip "Vasıfsız Görüş" olarak adlandırılır ve "Temiz Görüş" onu aramak için birçok yol açmıştır bir hastaya, bir "sağlık temiz faturası" eşdeğer olarak birçok kişi tarafından kabul edilir, ancak Denetçi yalnızca Finansal Tablolar ile ilgili makul bir güvenceyi sağlayabilir çünkü gerçekte, temiz bir sağlık faturası değil, şirketin kendisi, ya da şirketin bütünlüğü değil sağlık Finansal Tabloların temeli parçası değildir kaydeder. Bu rapor türü sunulan finansal tabloların yanlış ifade ve anlamı başka bir deyişle Genel Kabul Görmüş Muhasebe İlkeleri (GAAP) uygun olarak adil temsil edildiği zaman, bir denetçi tarafından verilir şirketin mali durumu, konum ve işlemler oldukça finansal tablolarda sunulmuştur. Bir denetlenen bir dış denetçi alabileceğiniz Raporun en iyi türüdür.
+Olumlu görüş aşağıdaki gösterir -
+(1) Mali Tablolar tutarlı bir şekilde uygulanmıştır Genel Kabul Görmüş Muhasebe İlkeleri kullanılarak hazırlanmıştır;
+(2) Mali Tablolar ilgili yasal gereklilikler ve yönetmeliklere uymak;
+(3) Tüm malzemenin yeterli açıklama kanuni şartlara, yürürlükteki finansal bilgilerin konunun doğru yansıtmasını sağlamak amacıyla gerekli Orada konularda olduğu;
+(4) muhasebe ilkelerine ya da uygulama yönteminde herhangi bir değişiklik ve etkileri bunların düzgün belirlenir ve Finansal Tablolar açıklanmıştır.
+Raporda bir başlık ve başlık, bir ana gövdeye, denetçinin imzası ve adresi ve raporun onaylandığı tarih oluşur. ABD denetim standartları başlık raporu her bakımdan tarafsız olan kullanıcıya iletmek için "bağımsız" içerdiğini gerektirir. Geleneksel olarak, niteliksiz raporun ana gövdesi üç ana paragraflar, farklı standart ifadeler ve bireysel amacı ile, her oluşur. kendilerini farklılaştırmak için (ancak ifade) ana gövdenin düzenlemesi değiştirilmiş beri Bununla birlikte, bazı denetçilerin (PricewaterhouseCoopers dahil [http://www.ibm.com/annualreport/2004/annual/roia.shtml]) sahip böyle bir modifikasyon denetim açıklık ABD AICPA standartlara aykırı olsa bile, diğer denetim firmaları.
+ilk paragraf (genellikle giriş paragrafında olarak anılacaktır) yapılan denetim çalışmalarını devletler ve mali tablolara ilişkin denetçi sorumlulukları ve denetlenen tanımlar. ikinci paragrafı (yaygın kapsam paragraf olarak anılacaktır), denetim çalışmasının kapsamını detayları işin doğası genel bir açıklama sağlar, prosedürlerin örnekleri gerçekleştirilen ve denetim karşılaştığı herhangi bir sınırlama işin niteliğine dayalı. Bu paragraf aynı zamanda denetim ülkenin hakim genel kabul görmüş denetim standartları ve yönetmeliklere uygun olarak gerçekleştirildi belirtiyor. (Yaygın görüş paragraf olarak anılacaktır) üçüncü fıkrası sadece finansal tablolar hakkında denetçi görüşünü bildiren ve genel kabul görmüş muhasebe ilkelerine uygun olup olmadığı.
+Aşağıdaki bir Denetlenenin adı olarak ad ABC Şirketi kullanarak, çoğu ülkede kullanılan finansal tablolar üzerinde bir standart niteliksiz denetçi raporunun bir örnektir. Bu rapor yalnızca 15 Aralık 2012 tarihinden önce sona eren dönemlere ilişkin kabul edilebilir olduğunu unutmayın:
+BAĞIMSIZ DENETİM RAPORU
+Yönetim Kurulu, Stockholders, sahipleri ve / veya Yönetim
+ABC Company, Inc.
+123 Main St.
+Anytown, Herhangi Bir Ülke
+Biz 31 Aralık 20XX itibariyle ABC Company, Inc. ( "Şirket") ekte bilançosunu ve gelir tablosunu, birikmiş karlar ve nakit akımlarını, sona erdi. Bu mali tablolar Şirket yönetiminin sorumluluğundadır. Bizim sorumluluğumuz, yaptığımız bağımsız denetime dayanarak bu finansal tablolar hakkında görüş bildirmektir.
+Biz genel olarak kabul görmüş denetim standartlarına uygun olarak denetim (rapor verilir ülkeyi) gerçekleştirdi. Bu standartlar, denetimin mali tablolarda önemli bir yanlışlığın olup olmadığı konusunda makul bir güvenceyi sağlamak üzere planlanarak yürütülmesini gerektirmektedir. Bir denetim, test bazında, incelenmesini içerir kanıt finansal tablolardaki tutarlar ve dipnotlar ile. Bağımsız denetimimiz, ayrıca kullanılan muhasebe prensiplerinin ve yönetim tarafından yapılan önemli tahminlerin değerlendirilmesi yanı sıra, mali tabloların genel sunuluş değerlendirilmesini içermektedir. Yapılan denetimin, görüşümüzün oluşturulmasına makul bir dayanak oluşturduğuna inanıyoruz.
+Görüşümüze göre, mali tablolar, bütün önemli taraflarıyla, mevcut yukarıda değinilen, 31 Aralık 20XX ve faaliyetlerinin ve konsolide nakit akımlarını, sonuçların olarak Şirket'in finansal durumunu, aynı tarihte genel uyarınca sona erdi içinde kabul görmüş muhasebe ilkeleri (rapor verilir ülke).
+DENETİM İMZASI
+Denetçi adı ve adresi
+önemli bir saha çalışması Tarihi = son gün
+Bu tarih daha önce denetçi görüşünü desteklemek için yeterli denetim kanıtı olduğunda daha tarihli edilmemelidir.
+Son zamanlarda modifikasyonlar bağımsız denetçilerin raporunda görüşe PCAOB tarafından yapılmıştır. Bu değişiklikler, 15 Aralık 2012, aşağıdaki pek çok ülkede kullanılan finansal tablolar üzerinde bir standart niteliksiz denetçi raporunun bir örneği sonra sona eren dönemlere için SAS sayılı 122 ve SAS sayılı 123 giriş isnat edilebilir bir denetlenen isim olarak, Kaliforniya'da kurulmuş adı ABC Şirketi kullanarak:
+BAĞIMSIZ DENETİM RAPORU
+Yönetim Kurulu, Stockholders, sahipleri ve / veya Yönetim
+ABC Company, Inc.
+123 Main St.
+Anytown, Herhangi Bir Ülke
+Biz 31 Aralık 20XX tarihi itibariyle ekte yer alan bilançosunu ABC Company, Inc. (bir Kaliforniya şirketi) ekli mali tablolarını, BAĞIMSIZ DENETİM ve gelir tablosunu, daha sonra yıl için kazanç ve nakit akışlarını muhafaza sona erdi ve finansal tablolara notlar ile ilgili.
+Finansal Tabloların için Yönetiminin Sorumluluğu
+Yönetim ABD genel kabul görmüş muhasebe ilkelerine uygun olarak konsolide finansal tabloların hazırlanması ve dürüst bir şekilde sunumundan sorumludur; Bu tasarım, uygulama ve hazırlama nedeniyle olsun hata veya hile, maddi hata bulunmadığı, konsolide finansal tabloların sunumu sürecindeki iç kontrollerin bakım içerir.
+Bağımsız Denetim Kuruluşunun Sorumluluğu
+Bizim sorumluluğumuz, yaptığımız bağımsız denetime dayanarak bu konsolide finansal tablolar hakkında görüş bildirmektir. Biz ABD genel kabul görmüş denetim standartlarına uygun olarak bağımsız denetim gerçekleştirilmiştir. Bu standartlar ve konsolide finansal tablolarda önemli bir yanlışlığın olup olmadığı konusunda makul bir güvenceyi sağlamak üzere planlanarak yürütülmesini gerektirmektedir.
+Bağımsız denetimimiz, konsolide finansal tablolardaki tutarlar ve dipnotlar ile ilgili bağımsız denetim kanıtı toplamak amacıyla, tekniklerinin kullanılmasını içermektedir. Seçilen prosedürler nedeniyle olsun hata veya hile konsolide finansal tabloların önemli bir yanlışlığın risk değerlendirmesini de dahil olmak üzere, mesleki kanaatimize göre yapılmıştır. Bu risk değerlendirmesinde, denetçi etkinliği hakkında görüş vermek için koşullara uygun olarak, bağımsız denetim tekniklerini tasarlamak amacıyla, konsolide finansal tabloların işletmenin hazırlanması ve dürüst bir şekilde yansıtmasını sağlamak amacıyla gerekli iç kontrol sistemi göz önünde değil, işletmenin iç kontrol. Buna göre, böyle bir görüş bildirmektir. Bağımsız denetimimiz, ayrıca kullanılan muhasebe politikalarının uygunluğu ve yönetim tarafından yapılan önemli muhasebe tahminlerinin uygunluğunun değerlendirilmesini yanı sıra konsolide finansal tabloların bir bütün olarak sunumunun değerlendirilmesini içermektedir.
+Elde ettiğimiz bağımsız denetim kanıtlarının, görüşümüzün bir dayanak oluşturduğuna oluşturulmasına yeterli ve uygun olduğuna inanıyoruz.
+görüş
+Görüşümüze göre, mali tablolar, bütün önemli taraflarıyla, mevcut yukarıda değinilen, ABC Company, Inc. finansal durumunu, 31 Aralık 20XX ve faaliyet sonuçları ve konsolide nakit akımlarını, olduğu gibi daha sonra sona erdi ABD ile uyum genel kabul görmüş muhasebe ilkeleri.
+DENETİM İMZASI
+Denetçi adı ve adresi
+önemli bir saha çalışması Tarihi = son gün
+Bu tarih daha önce denetçi görüşünü desteklemek için yeterli denetim kanıtı olduğunda daha tarihli edilmemelidir.
+Kalifiye Görüş raporu.
+Nitelikli Rapor, bu iki olgunun birinde denetçi tarafından verilir:
+Raporda çoğunlukla Temizle Görüş Raporu gibi ve sadece bir paragraf viz içerir. Kapsam paragraftan sonra ve Kamuoyu paragraftan önce Yeterlilik için temel. standart ifadeler yanında Görüş paragraf "finansal tablolar doğru ve dürüst bir görünüm vermek Yeterlilik paragraf için Bazında açıklanan hususun haricinde." içerir
+aşağıda ayrıntıları:
+denetçi ancak mali tabloların geri kalanı oldukça sunulmuştur genel kabul görmüş muhasebe ilkelerine uymayan durumların iki türlerinden biri karşılaştı BIR Şartlı Görüş raporu verilir. görüş Bu tür bir vasıfsız ya da "temiz görüş" çok benzer, ancak raporda finansal tablolar oldukça aksi yanlış beyan belli bir istisna ile sunulmaktadır belirtmektedir. Bir denetçi olumlu görüş üzerine bu görüşü sorunu neden olur durumlarda iki tür vardır:
+Nitelikli raporun ifade Vasıfsız görüşüne çok benzer, fakat açıklayıcı bir paragraf kapsamı paragraftan sonra ancak fikir paragraftan önce yeterlilik nedenlerini açıklamak eklenir. kapsam ve görüş paragraflar açıklayıcı paragrafta yeterlilik doğrultusunda hafif bir değişiklik alırken tanıtım paragraf, tam niteliksiz görüş aynı kalır.
+kapsam paragraf kullanıcı yeterlilik hemen farkında olabilir, böylece ilk cümlesinde aşağıdaki ifade içerecek şekilde düzenlenir. Bu yerleşim aynı zamanda yeterlilik hariç, denetim kalan nitelikleri olmadan gerçekleştirildi, kullanıcıyı bilgilendirir:
+görüş paragraf aynı zamanda kullanıcı denetçinin görüş açıkça yeterlilik dile hariç hatırlatılır, böylece ilk cümlede ek ifade içerecek şekilde düzenlenir. yeterlilik türüne bağlı olarak, ifade devlete birine düzenlenir yeterlilik ve düzeltmek veya kapsam sınırlaması devlet için gerekli ayarlamalar ve düzenlemeler olabilir ama mutlaka bunu düzeltmek için gerekli olan değil.
+GAAP bir sapma ortaya çıkan bir nitelik için aşağıdaki cümle yukarıda belirtilen amortisman örneği kullanılarak, görüş paragrafında eklenir:
+sınırlama bir kapsamından doğan bir yeterlilik için aşağıdaki cümle yukarıda belirtilen stok örneği kullanılarak, görüş paragrafında eklenir:
+kapsam ve görüş paragraflara ilave cümleleri nedeniyle, birçok hariç-For Görüş olarak bu rapora bakın.
+Olumsuz Görüş raporu.
+Finansal tabloların önemli yanlış beyan ve bu tür yanlış sunulan finansal tablolar üzerinde yaygın etkiye sahip olduğunda bir Olumsuz Görüş Raporu bir şirketin finansal tabloları üzerinde verilir.
+Denetim Raporunda Kapsam paragraftan sonra ancak Görüş paragraftan önce, Yan Görüş paragraf temeli eklenir. Görüş paragraf doğru ve dürüst vermez birinci fıkrasında belirtildiği gibi ifadeler bizce Çünkü olumsuz Görüş paragraf için Bazında belirtilen durumların ", XYZ Co. Ltd. finansal tablolarının değiştirir içinde / malzeme özgür değildir beyanındaki. "
+denetçi bir bütün olarak düşünüldüğünde, bir denetlenen finansal tabloları önemli ölçüde GAAP uymaz, yanlış beyan ve olduğunu belirlediğinde bir Olumsuz Görüş verilir. Aslında yer alan bilgiler maddi denetlenen finansal pozisyonu ve faaliyet sonuçlarını değerlendirmek üzere, yanlış güvenilmez ve yanlış olduğunu belirten bir niteliksiz ya da temiz görüş karşısında kabul edilir. Yatırımcılar, kredi kurumları ve hükümetleri denetçi olumsuz görüş yayınladı eğer çok nadiren denetlenen finansal tablolar kabul ve genellikle mali tabloları düzeltmek ve başka denetim raporu almak için denetlenen isteyin.
+finansal tablolar yaygın bir GAAP farklı Genelde, olumsuz görüş sadece verilir. Böyle bir durumun bir örneği, bir malzemenin yan kuruluşu birleştirmek için bir şirketin başarısızlık olacaktır.
+olumsuz raporun ifade nitelikli raporuna benzer. kapsam paragraf buna göre modifiye edilir ve açıklayıcı bir paragraf kapsamı paragraftan sonra ancak fikir paragraftan önce olumsuz görüş nedenini açıklamak için ilave edilir. Ancak, nitelikli raporundan olumsuz raporda en önemli değişiklik denetçi açıkça finansal tablo, bir bütün olarak, yanlış, güvenilmez olduğu anlamına gelir, GAAP uyarınca olmadığını bildiren görüş paragrafında ise, ve denetlenen durumu ve faaliyet adil bir görünümünü sunmak yoktur.
+Görüş raporunun Reddi.
+Görüş Bir Yasal Uyarı aşağıdaki durumlardan birinde verilir:
+görüş Reddi var önemli ölçüde zaman denetim raporu değişir. Ek bir paragraf "Yasal Uyarı Temeli" Kapsam paragraftan sonra ve Kamuoyu paragraftan önce yerleştirilir denetim raporunda ilave edilir. Kapsam paragrafta, ifadeler "XYZ Co Ltd mali tablolarını denetlemek Biz meşgul edildi" olarak değiştirir dan "Biz XYZ Co Ltd mali tablolarını denetlemiş bulunuyoruz"
+Görüş paragraf ifadeler "Destek paragraf için Bazında açıklanan Biz nedeniyle durumlara XYZ Co Ltd finansal tablolar hakkında görüş bildirmektir yok" olarak değiştirir
+Görüş Bir Uyarı yaygın denetçi oluşturmaz ne zaman basit bir Yasal Uyarı olarak, verilir sevk ve dolayısıyla finansal tablolar hakkında görüş bildirmektir reddediyor. Bu rapor türü denetçi bir varlık denetim çalıştı ama çeşitli sebeplerden dolayı çalışmaları tamamlamak olamazdı ve bir görüş vermek değil zaman verilir. "Görüş ifade Değildir Muhasebecinin Temsilleri netleştirmek için yapılan Tavsiye" bir vazgeçme sunarken denetçilere rehberlik sağlamak amacıyla yayımlanmıştır: Denetim Prosedürü sayılı 23 Açıklama zaman görüş raporunun reddi geri 1949, izlenebilmektedir.
+Denetim Standartları Tabloları (SAS) görüş reddi uygun olabilir bazı durumlar sağlar:
+görüş, bu tür nadiren kullanılmasına rağmen, feragatnameler verilen en yaygın örnekler denetlenen isteyerek gizler veya denetlenen önemli yasal ve karşı karşıya olduğu mali tabloların önemli alanlarda denetçi, kanıt ve bilgi sağlamak için reddediyor denetimler dahil sonuç belirsiz (genellikle hükümet soruşturma) olduğu konuların dava ve denetlenen gidiş endişe sorunları (denetlenen yakın gelecekte çalışmaya devam olmayabilir). Yatırımcılar, kredi kurumları ve hükümetler genellikle denetçi görüş reddedilir ve başka denetim raporu denetçi söz durumları düzeltmek ve elde etmek için denetlenen isteyecektir eğer bir denetlenen finansal tablolarını reddediyoruz.
+bu denetim kendisi ile ilgili çok az bilgi sağlar ve reddi nedenlerini belirten açıklayıcı bir paragraf içerdiğinden bir görüş reddi denetçinin raporlarının geri kalanından önemli ölçüde farklıdır. Raporda yine antetli, denetlenen adını ve adresini, denetçinin imzası ve adresi ve raporun verilmesi tarihini içerse de, her paragraf yoğun değiştirilmiş ve denetçi temelde belirten beri kapsamı paragraf tamamen ihmal bir denetim ebil gerçekleştirilmesi mümkün değildir.
+giriş paragrafında, ilk ifade "Biz BAĞIMSIZ DENETİM" değişen kullanıcı denetlenen bir denetim devreye bildirmek için "Biz denetlemek için meşgul edildi", ancak denetçi mutlaka denetimi tamamlandı söz etmez. denetim tamamen ve / veya uygun bir şekilde yapılırsa değildi çünkü Ayrıca, denetçi paragrafın son cümlesi atlayarak herhangi bir sorumluluk kabul etmiyor. Kapsam paragraf için, etkili bir şekilde, herhangi bir denetim gerçekleştirildi bütünüyle iptal edilmektedir. Nitelikli ve olumsuz görüşleri benzer şekilde, denetçi kısaca açıklayıcı paragrafta reddi için durumları tartışmak gerekir. Son olarak, görüş paragraf değişiklikleri tamamen bir görüş oluşmuş olamazdı çünkü önceki paragraflarda belirtilen durumlardan ifade olmadığını belirten.
+Aşağıdaki nedeniyle sınırlama önemli bir kapsam olarak kabul edilir bir denetlenen, yetersiz muhasebe kayıtlarının görüş reddi üç ana paragrafların bir taslak:
+Biz 31 Aralık ABC Company, Inc. ( "Şirket") hazırlanan bilançosu "denetim meşgul edildi", 20XX ve yıla ait gelir ve nakit akımlarını, bunlara ilişkin daha sonra sona erdi. Bu mali tablolar Şirket yönetiminin sorumluluğundadır.
+"Şirket, temel mali tabloların hazırlanması. Şirketin muhasebe kayıtları finansal tablolarını üretebilen bir çift giriş sistemi teşkil etmez için yeterli bilgi sağlamak için yeterli muhasebe kayıtlarını tutmaz."
+Çünkü önceki paragraflarda açıklanan hususların önemi, çalışmalarımızın kapsamı ifade etmemizi sağlayacak yeterli değildi ve biz, birinci paragrafta belirtilen finansal tabloların bir görüş beyan etmiyoruz.
+kamu şirketlerinin iç kontroller üzerinde denetim raporu.
+2002 Sarbanes-Oxley Yasası yürürlüğe girmesinin ardından, Kamu Şirketi Muhasebe Gözetim Kurulu (PCAOB), monitör düzenleyen, kontrol ve kamu kuruluşlarının disiplin denetim ve kamu muhasebe firmaları amacıyla kurulmuştur. PCAOB Denetim Standartları No. 2 şimdi denetlenen iç kontroller konusunda görüş raporunda bir ek açıklama eklemek için kamu şirketlerinin denetçileri gerektirir ve hakkında görüş için şirket ve mali raporlama üzerindeki şirketin iç denetimlere denetçinin değerlendirmesi. Bu yeni gereksinimler genellikle COSO Görüş olarak adlandırılır.
+denetim raporu finansal tablolar hakkında rapora rapor müteakip sunulması, ya da bir denetçi raporuna hem raporları birleştirerek biriyle gerekli tüm açıklamaları içerecek şekilde modifiye edilir. Aşağıdaki finansal tablolar üzerinde denetçi raporunun hemen sonra ayrı bir rapor ekleyerek eski sürümünün bir örnektir.
+finansal raporlama üzerindeki iç kontrol
+Biz de şirket tarafından yayınlanan İç Kontrol-Entegre Çerçeve kurulan kriterlere dayalı, 31 Aralık 20XX itibariyle finansal raporlama üzerinde etkin bir iç kontrol koruduğu, yönetimin değerlendirmesini denetlenen İç Kontrol Aşırı Finansal Raporlamaya İlişkin eşlik Yönetiminin Faaliyet Raporunda yer var Treadway Komisyonu ( "COSO") Sponsor Organizasyonlar Komitesi. Şirket yönetimi, finansal raporlama üzerindeki ve mali raporlama üzerindeki iç kontrolün etkinliğinin değerlendirilmesinden etkili iç kontrol sisteminin tasarlanmasını sorumludur. Bizim sorumluluğumuz, yönetimin değerlendirmesine ve Kamu Şirketi Muhasebe Gözetim Kurulu (Birleşik Devletler) standartlarına uygun olarak yapılmıştır bizim denetime dayanarak finansal raporlama üzerindeki Şirketin iç kontrol sisteminin etkinliği hakkında görüş bildirmektir. Bu standartlar ve finansal raporlama üzerinde etkin bir iç kontrol, bütün önemli taraflarıyla devam edildi konusunda makul bir güvenceyi sağlamak üzere planlanarak yürütülmesini gerektirmektedir. Mali raporlama üzerindeki iç kontrol Bağımsız denetimimiz, yönetimin değerlendirmesi, test, değerlendirme ve tasarım değerlendirmek ve iç kontrol etkinliğini faaliyet ve biz gerekli gördügümüz gibi diğer prosedürleri gerçekleştirmek, mali raporlama üzerindeki iç kontrolün bir anlayış elde dahil. Yapılan denetimin, görüşümüzün oluşturulmasına makul bir dayanak oluşturduğuna inanıyoruz.
+mali raporlama üzerindeki bir şirketin iç kontrol, finansal raporlamanın güvenilirliği ve genel kabul görmüş muhasebe ilkelerine uygun olarak dış amaçlı finansal tabloların hazırlanması ile ilgili makul güvence sağlamak üzere tasarlanmış bir süreçtir. mali raporlama üzerindeki bir şirketin iç kontrol (1) Bu, makul detaylı, doğru ve adil kayıtların bakımı ilgilendirmeyen işlemleri ve şirketin varlıklarının tasarrufta yansıtan bu politika ve prosedürleri kapsar; (2) işlemleri genel kabul görmüş muhasebe ilkelerine uygun olarak finansal tabloların hazırlanmasına imkân tanıyacak biçimde kaydedilmesi makul güvence sağlamak ve şirketin gelirleri ve giderlerinin sadece yönetim ve şirket yöneticilerinin yetkileri çerçevesinde yapılıyor olduğunu; ve (3) finansal tabloları üzerinde önemli bir etkiye sahip olabilir makul güvence ile ilgili önleme veya yetkisiz iktisabı, kullanımı ya da şirketin varlıklarının elden çıkarılması zamanında tespit sağlar.
+Çünkü kendine özgü sınırlamaları nedeniyle, mali raporlama üzerinde iç kontrol yanlış beyanları önleyemez veya tespit olmayabilir. Ayrıca, gelecek dönemler için etkililik değerlendirmesi tahminleri nedeniyle koşullarındaki değişiklikler yetersiz hale gelebilir kontrol veya politikalar veya prosedürlere uyum derecesinin bozulması olabilir riskine maruz kalmaktadır.
+Bizim düşüncemize göre, ABC Şirketi 31 Aralık 20XX itibariyle finansal raporlama üzerinde etkin bir iç kontrol tutulan yönetimin değerlendirmesi oldukça COSO tarafından yayınlanan İç Kontrol-Entegre Çerçeve kurulan kriterlere dayalı, bütün önemli taraflarıyla, belirtilmektedir. Ayrıca, bizce, ABC Şirketi COSO tarafından yayınlanan İç Kontrol-Entegre Çerçeve kurulan kriterlere dayalı, 31 Aralık 20XX itibariyle, bütün önemli taraflarıyla, finansal raporlama üzerinde etkin bir iç kontrol yapılmaktadır.
+endişe gidiyor.
+endişe gidiş bir varlık oluşturduğu veya çalıştırmak için yeterli kaynak elde sürece, önümüzdeki 12 ay genellikle daha fazla yakın gelecekte çalışmaya devam edecek anlamına gelir bir terimdir. denetlenen bir sürekliliği değilse, işletmenin gelecek on iki ay içinde kendini sürdürmek mümkün olmayabilir anlamına gelir. Denetçiler raporu vermeden önce bir denetlenen gidiş endişe göz önünde bulundurmaları gerekmektedir. denetlenen bir sürekliliği ise, denetçi herhangi bir şekilde onun / onu raporunu değiştirmez. Denetçi, denetlenen bir gidiş endişe değil, ya da yakın gelecekte bir sürekliliği olmayacağını düşünmektedir Ancak, daha sonra denetçi denetim, görüş papragraph aşağıdaki açıklayıcı bir görüş paragraftan önce paragrafı ya da dahil etmek için gerekli yaygın sürekliliği açıklama olarak adlandırılır durumu açıklayan bir rapor. Böyle bir görüş, bir "niteliksiz modifiye görüş" denir.
+bazı bir "kendi kendini gerçekleştiren kehanet" olarak kabul edilir çünkü ne yazık ki, birçok denetçiler, onların görüşleri bu açıklama eklemek için giderek isteksizdir. Bu gidiş endişe olmaması için bir açıklama yatırımcılar, kredi kurumları ve kredi kurumları tarafından olumsuz görülüyor çünkü ve bu nedenle denetlenen sermaye elde veya açıklama yapıldıktan sonra hayatta kalmak için ihtiyacı borçlanma olabilir şansını azaltır. Bu durum ortaya çıkarsa, denetlenen denetçi gelecekteki potansiyel denetim nişan kaybeder iken sürekliliği olarak durdurmak için daha olasıdır ve bu nedenle denetçi bir sürekliliği açıklanması da dahil olmak üzere önlemek için baskı olabilir. 2001 iflas üzerinde yapılan bir çalışmada, 2001 yılında iflas karşı karşıya seçilmiş kamu şirketlerinin yaklaşık yarısı (% 48), önceki denetim raporlarında bir "sürekliliği açıklama" yoktu. Ayrıca, ABD tarihinin en büyük 20 iflasların 12, 2001 ve 2002 yılları arasında meydana gelen ve bunların hiçbiri önceki denetçi raporunda "sürekliliği açıklama" vardı.
+gidiş endişe eksikliği denetçi tarafından belirlenen denetçi raporunun gerçek ifadeler, gelince durumu belirtmelidir açıklama paragraf, denetçinin kararlılığını ifade ve durumu düzeltmek için denetlenen planını belirtiyor. açıklama paragrafı hemen görüş paragrafı takip etmelidir.
+Bu durumda, yinelenen kayıpları olan bir şirket ile uğraşan, paragrafın en yaygın kullanılan biçimi şudur:
+ilişikteki finansal tablolar, Şirket sürekliliğini devam edeceğini varsayarak hazırlanmıştır. finansal tablolara Not (X) tartışıldığı gibi, Şirket yinelenen kayıplar ve net sermaye eksikliği sahiptir. Bu koşullar bir sürekliliğini devam kabiliyeti hakkında önemli şüphe yükseltmek. Bu konularla ilgili olarak Yönetimin planları da Not (X) olarak açıklanmıştır. finansal tablolar kurtarılabilirlik ve varlık kayıtlı tutarlar sınıflandırılması veya Şirket bir yandan faaliyetlerinin devam edemedi olmalıdır neden olabilir borç miktarını ve sınıflandırılması ile ilgili herhangi bir düzeltme içermez.
+Diğer açıklayıcı bilgiler ve paragraflar.
+Yukarıda belirtilen denetçi raporları finansal tablo denetimleri için standart raporlar olmasına rağmen bu raporun genel görüşünü değiştirmeden gerekli görüldüğü takdirde, denetçi raporuna ek bilgi ekleyebilir. Bazı durumlarda ek bilgi görüş paragraftan önce paragraflarda yer gerektirir rağmen Genellikle, bu ek bilgi, görüş paragraftan sonra eklenir. En sık bölümlerden oluşmaktadır:
+Farklı ülkelerde finansal tabloları üzerinde Denetçi raporları.
+Bazı ülkelerde ek veya daha az ifadeler ya gerektirir rağmen denetim raporu genellikle, ülkeden ülkeye farklılık yoktur. Amerika Birleşik Devletleri'nde, denetçiler kapsam, görüş paragrafında, onlar "Amerika Birleşik Devletleri'nde genel kabul görmüş denetim standartlarına uygun olarak" kendi denetim yapılmış belirten bir ifade paragraflar ve dahil etmek gerekli devlet mali tablolara olsun "Amerika Birleşik Devletleri'nde genel kabul görmüş muhasebe ilkelerine uygun olarak" sunulmaktadır. Bazı ülkeler, Filipinler gibi, ikinci paragraf Bağımsız denetimimiz, Filipin Standartları'na uygun olarak yapıldığını ifade edeceğini ve mali tablolar Filipin uygun olduğunu hariç, ABD'de yayınlanan benzer raporları kullanın finansal Raporlama Standartları.
+Görüş alışveriş.
+Görüş alışveriş Enron ve Arthur Andersen muhasebe skandallarından sonra, medya ve genel halk sözleşme ya da denetlenen üzerinde yayınlayacak görüş raporu türüne göre denetçilere reddetmek denetlenenlerin bakın dış denetçiler tarafından kullanılan bir terimdir ve. Bu kavramın temel ilkeleri denetlenenler onların ( "denetim ücretleri" olarak adlandırılır) çalışma yanı sıra ödüllendirme gelecek denetim nişan için denetçilere tazminat belirlediğini vardır; böyle ücretler gelir denetçinin ana kaynağıdır; belirli denetlenenler denetlenenlerin ihtiyaçlarına göre denetim görüşler verecektir denetçilerin sözleşme deneyebilirsiniz; ve belirli denetçiler kadar uzun gelecekteki denetim nişan emin bulunmaktadır gibi taleplere uymak için hazırız.
+En yaygın örnek, geçerli denetçi başka denetçi için görüş verilmeden önce, sonra denetim nişan kaldırırsa görüş raporu, nitelikli, olumsuz ya da reddi sorunu gidiyor ve daha sonra "dükkan" olduğunu bilen bir denetlenen olduğunu ne olursa olsun önceki bölümlerde belirtilen herhangi bir eleme durumların, bir "niteliksiz" görüş vermek için istekli. Ancak, görüş alışveriş görüşler veren dayalı denetçilere sözleşme denetlenenlerin sınırlı değildir. Aynı zamanda düzgün denetim olmadan vasıfsız raporlar yayımlayarak denetlenenlerin aşırı hoş ya da sadece denetim etkileyen malzeme sorunları bakan tarafından olan denetçileri kapsamaktadır. Bu denetim hedefi çok daha çekici ve gelecekteki denetim nişan ve ücretleri güvence altına almak amacıyla diğer denetçiler daha kolay olacak görünmesini sağlamaktır.
+denetçilerin büyük çoğunluğu mesleklerini ve garantili denetim ücretleri için itibar tehlikeye istekli olmasa da, sadece elde veya denetim nişan sürdürmek dayalı görüşler verecek bazı vardır. Bu hileli finansal tablolarını (örneğin Enron ve Arthur Andersen mevcut bilerek kapsam malzeme sınırlaması neden olmuştur yasadışı faaliyetlerde bulunan denetlenenlerin, denetlenenlerin için değiştirilmemiş niteliksiz görüşler yayan denetçileri, gidiş endişe eksikliği var denetlenen ya da denetlenen içerir ). Bu durum, bir denetçinin bağımsızlığına ve denetim yeteneği (Etik AICPA Code) engel olmalıdır çıkar net bir çatışma olduğunu, ancak bazı denetçilerin isteyerek bu tüzüğü görmezden.
+Son yasa ve endüstri standartları bazı durumlarda gönüllü Sarbanes-Oxley Kanunu ve AICPA muayenehanesi izleme programı ve Akran Değerlendirme Programı dahil bu durumu düzeltmek için uygulanan ve diğer durumlarda, gerekli edilmiştir.
+Diğer nişan ve raporlar.
+diğer çeşitli denetimler ve harici denetçi önceki bölümlerde de belirtildiği nişan, kendi standart raporu (ler) ile her yanında gerçekleştirdiği değerlendirmeler vardır:
+denetim komitesine veya yönetim kuruluna rapor.
+finansal tablolar üzerindeki denetim raporu genellikle denetimin usul ve bulguları çok sınırlı ayrıntıları sağlar. Buna karşılık, denetçiler yönetim kuruluna veya yönetim kurulu, denetim komitesine çok daha fazla ayrıntı sağlar. 2002 yılından başlayarak birçok ülke denetim üzerinde birincil sorumluluk denetim komitesi görevli var. Örneğin, Amerika Birleşik Devletleri'nde, Sarbanes-Oxley Yasasının 204 tamamen bağımsız olması için gerekli olduğunu komiteleri, denetim belirli bilgileri iletmek 2002 gerekli denetçiler geçti ve aynı zamanda denetçinin işe sorumlu denetim komitesi yaptı. Ağustos 2012 yılında, ABD Halka Açık Şirketler Muhasebe Gözetim Kurulu denetim komitesine ek iletişim gerektirir Denetim Standardı No. 16, kesinleşmiş.
+Kaynaklar.
+Genel Amaçlı Finansal Tabloların Komple Set Bağımsız Denetim Raporu [http://www.hkicpa.org.hk/file/media/section6_standards/standards/Audit-n-assurance/referencem/hksa700.pdf]
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gödel'in eksiklik teoremleri</DOCTITLE>
+<TEXT>
+
+Gödel'in eksiklik teoremleri aritmetik yapma yeteneğine sahip en önemsiz aksiyomatik sistemlerin ama doğasında sınırlamaları kurmak matematiksel mantık iki teoremleri vardır. 1931 yılında Kurt Gödel tarafından kanıtlanmış teoremler, matematiksel mantık ve matematik felsefesi hem de önemlidir. İki sonuç yaygın, ama değil evrensel, Hilbert programı Hilbert'in ikinci sorunun olumsuz cevap vererek, imkansız tüm matematik için bir aksiyomlar tam ve tutarlı bir dizi bulmak için olduğunu gösteren şeklinde yorumlanabilir.
+İlk eksiklik teoremi olan teoremler "etkili prosedür" tarafından listelenen olabilir (örneğin bir bilgisayar programı, ama bu algoritma herhangi bir tür olabilir) aksiyomların hiçbir tutarlı sistem doğal ilişkileri hakkında tüm gerçekleri ispat yeteneğine sahip olduğunu belirtmektedir sayılar (aritmetik). Böyle bir sistem için, her zaman doğru olan doğal sayılarla ilgili ifadeler olabilir, ama o sistem içinde ispatlanamaz olduğunu edecektir. İkinci eksiklik teoremi, ilk bir uzantısı, böyle bir sistem kendi tutarlılığını göstermek olamayacağını göstermektedir.
+Arkaplan.
+resmi bir teorinin ifadeleri sembolik formda yazılır, çünkü bir aksiyomlar sonlu kümesinden resmi kanıtı geçerli mekanik olduğunu doğrulamak mümkündür. Otomatik geçirmez doğrulama olarak bilinen bu görev, yakından otomatik teorem ispatlama ilgilidir. Fark yerine yeni bir kanıtı inşa, ispat doğrulayıcı sadece (resmi kanıtı oluşturmak için takip edilebilir talimatlarında ya,) Verilen bir resmi kanıtı doğru olduğunu kontrol olmasıdır. Bu süreç sadece varsayımsal değildir; Böyle Isabelle veya Coq olarak sistem deliller resmileştirmek ve daha sonra geçerliliğini kontrol etmek günümüzde de kullanılmaktadır.
+ilgi birçok teori, ancak aksiyomların sonsuz grubunu içerir. aksiyomlar kümesi sonsuzdur resmi kanıtı doğrulamak için, bir aksiyom olduğu iddia ediliyor bir açıklama aslında bir aksiyom olup olmadığını belirlemek mümkün olmalıdır. matematiksel tümevarım ilkesinin aksiyomları sonsuz kümesinin (bir aksiyom şema) olarak ifade edilir çünkü bu sorun, örneğin Peano aritmetik olarak aritmetik birinci dereceden teorileri, ortaya çıkar.
+Resmi bir teori aksiyomlar onun seti ardışık enumerable dizi ise "etkili bir oluşturulan" olduğu söylenir. Bu prensip, aksiyomlar olmayan herhangi bir açıklama listeleme olmadan teorisinin tüm belitleri numaralandırmak olabilir, bir bilgisayar programı var demektir. Bu teoremler olmayan herhangi bir açıklama numaralandırma olmadan teorisinin tüm teoremleri sıralar bir program varlığına eşdeğerdir. aksiyomların sonsuz kümeler ile etkili üretilen teorilerin örnekleri Peano aritmetik ve Zermelo-Fraenkel seti teorisi içerir.
+aksiyomlar kümesi seçerken, bir gol herhangi bir yanlış sonuçlar kanıtlayan olmadan, mümkün olduğunca çok sayıda doğru sonuçları kanıtlamak mümkün değildir. aksiyomlar kümesi ya bu ifade, aksiyomları 'dilde herhangi bir açıklama için, eğer tamamlandıktan veya yadsınması aksiyomları ispatlanabilir olduğunu. deyimi ve yadsınması hem aksiyomları kanıtlanabilir olduğu gibi hiçbir açıklama yoksa aksiyomlar kümesi (sadece) tutarlıdır. Birinci derece mantık standart sistemde, aksiyomlar tutarsız bir dizi (bu bazen patlama ilkesi denir), ve böylece otomatik olarak tam onun dilinde her deyimi ispat edecektir. tam ve tutarlı hem aksiyomlar kümesi ise, olmayan çelişkili teoremleri maksimal dizi kanıtlıyor. Gödel'in eksiklik teoremleri bazı durumlarda, etkili bir şekilde oluşturulmuş, tam ve tutarlı teori elde etmek mümkün olmadığını göstermektedir.
+İlk eksiklik teoremi.
+Gödel'in ilk eksiklik teoremi ilk "Principia Mathematica ve İlgili Sistemler I. Resmen undecidable Önermeler Üzerine" Gödel'in 1931 kağıt "Teoremi VI" olarak ortaya çıktı
+resmi teoremi son derece teknik bir dilde yazılmıştır. Bu İngilizce olarak paraphrased edilebilir:
+teoremine tarafından başvurulan doğru ama kanıtlanamayan açıklama, genellikle teori için "Gödel cümle" olarak adlandırılır. kanıtı, her tutarlı etkili bir şekilde oluşturulan teorisi için özel bir Gödel cümle yapıları, ama gerçek ama kanıtlanamayan olma özelliğini paylaşan teorisi dilinde birçok ifadeler sonsuz vardır. Örneğin, Gödel cümlenin kavuşumu ve herhangi mantıksal geçerli bir cümle bu özelliğe sahip olacak.
+sayı teorisi gereken az miktarda olan her tutarlı resmi teorisi "T" için, ilgili Gödel cümlesi "G" iddia: "" G "teori" T "" içinde ispat edilemez. "G" bu açıklamasının aşağıdaki gayri analize yol açar. "G" aksiyomları ve "T" çıkarsama kuralları çerçevesinde kanıtlanabilir olsaydı, o zaman "T" etkili bir kendisi ile çelişen bir teoremi, "G", olurdu ve böylece teori "T" tutarsız olacaktır. Bu teori "T" sonra tutarlı ise "G" içindeki ispat edilemez ve bu yüzden teori "T" eksik olduğu anlamına gelir. Kendi unprovability doğru yaklaşık Ayrıca, iddia "G" yapar. Bu anlamda "G" in kanıtlanamayan ama gerçek, kârlılık ve-içinde-Teori-"T" değil sadece gerçeği ile aynı değildir. Aşağıdaki "İlk teoremi Proof kroki" bölümünde açıklandığı gibi bu gayrı analiz, eksiklik teoremi sıkı bir kanıtı yapmak için resmiyet edilebilir. resmi kanıt tam bir gerçek çelişkiye yol "G" kendinden çelişkili doğası için sırayla teorisi "T" için gerekli hipotezler ortaya koymaktadır.
+Her etkin bir şekilde oluşturulan teori kendi Gödel deyimi vardır. Ek bir aksiyom olarak daha geniş bir teori "T" bütününü içeren "T" 'artı "G" tanımlamak mümkündür. Gödel'in teoremi ayrıca "T" 'geçerli olacaktır çünkü bu, tam bir teori neden olmaz ve böylece, ve "T'" tam olamaz. bir aksiyom, çünkü bu durumda, "G", aslında "T" 'bir teoremi. "G" o "T" kanıtlanabilir olmadığını, sadece devletler bu yana, hiçbir çelişki "T" 'kendi sağlamasının tarafından sunulmaktadır. eksiklik teoremi "T" 'için de geçerlidir, çünkü Ancak,' "da eksik T" olduğunu gösteren, için "" T " 'Yeni Gödel açıklamada G" olacaktır.' "G" "yerine" T "den," T " 'bakınız edeceğini G" in "G" farklı olacaktır.'
+İlk eksiklik teoremi kanıtlamak için, Gödel numaralarıyla ifadeleri temsil etti. Sonra sayıları hakkında bazı gerçekleri ispat varsayılır eldeki teori, aynı zamanda etkili oluşturulur şartıyla, kendi ifadeleri, ilgili gerçekleri ortaya koymaktadır. tabloların sağlamasının ilgili sorular tamamlanmadan olsaydı teoriyle Karar verilebilen olacak sayıların özellikleri hakkında sorular olarak temsil edilir. Bu anlamda, Gödel cümlesi hiçbir doğal sayı belli bir garip özelliği ile var olduğunu belirtmektedir. Bu özelliği ile bir sayı teorisi tutarsızlık bir kanıtı kodlamak istiyorum. Böyle bir dizi vardı o zaman teori tutarlılık hipotezi aykırı, tutarsız olacaktır. Yani, teori tutarlı olduğu varsayımı altında, böyle bir numara yok.
+İlk eksiklik teoremi anlamı.
+Gödel'in ilk eksiklik teoremi doğal sayılar teorisinin yeterli içeren herhangi bir tutarlı etkili resmi bir sistem eksik olduğunu gösterir: sistem içinde kanıtlanamayan olan kendi dilde ifade gerçek ifadeler vardır. Bu sistem ispat edemez doğrudur sayı-teorik ifadeler olacak Böylece doğal sayılar karakterize amaçlayan hiçbir resmi sistem (teoremi hipotezler tatmin) aslında, bunu yapabilirsiniz. Bu durum bazen mantık açısından doğal sayılar tanımlamak amaçlanmıştır Gottlob Frege ve Bertrand Russell tarafından önerilen mantıkçılığın programı için ciddi sonuçlar doğurabilecek düşünülmektedir (1981 Hellman, s. 451-468). Bob Hale ve Crispin Wright onlar aritmetik gibi eksiklik teoremleri birinci dereceden mantık için aynı ölçüde geçerlidir çünkü mantıkçılığın için bir sorun olmadığını savunuyorlar. Onlar sadece bu doğal sayılar birinci dereceden mantık açısından tanımlanmış olması olduğuna inanan bu sorunu var savunuyorlar.
+Tamamlanmamış bir resmi sisteminin varlığı kendi içinde, özellikle şaşırtıcı değil, olduğunu. Bir sistem tüm gerekli aksiyomları tespit edilmiştir çünkü eksik olabilir. Örneğin, paralel önerme olmadan Öklid geometrisi eksiktir; bunu kanıtlamak ya da kalan aksiyomları paralel önerme çürütmek mümkün değildir.
+Gödel teoremi sayı teorisi küçük bir bölümünü içeren teorileri içinde, aksiyomların tam ve tutarlı sonlu liste oluşturulur, ne de bir bilgisayar programı tarafından numaralandırılan bile sonsuz bir liste olması "asla", yani gösteriyor. Yeni bir deyim bir aksiyom olarak eklenen her zaman, bile hala yeni aksiyomu ile ispat edilemez diğer gerçek ifadeler vardır. bir aksiyom hiç sistemin komple kılan eklenirse, sistem tutarsız hale pahasına yapar.
+bir bilgisayar programı tarafından numaralandırılan "olamaz" diye aritmetik için aksiyomların tam ve tutarlı listeleri vardır "vardır". Örneğin, bir aksiyomlar (ve hiçbir yanlış ifadeler) "gerçek aritmetik" olarak bilinen teoriyi verir olmaya doğal sayılarla ilgili tüm gerçek ifadeleri alabilir. Zorluk, bu teorinin bir aksiyom ve böylece bu teoride bir resmi kanıtı doğrulamak için etkili bir yol olup olmadığını, doğal sayılar hakkında bir açıklama verilmiş, karar vermek için hiçbir mekanik bir yol olmasıdır.
+Birçok mantıkçıların Gödel'in eksiklik teoremleri matematik için sonlucu tutarlılık kanıt istedi David Hilbert'in ikinci soruna, için ölümcül bir darbe vurdu inanıyoruz. İkinci eksiklik teoremi, özellikle, sık sık sorun imkansız hale olarak görülüyor. Tüm matematikçiler ancak bu analize katılıyorum ve Hilbert'in ikinci sorunun durumu henüz ( "Sorunun durumunu Modern bakış açıları" bölümüne bakınız) karar değil.
+yalancı paradoksu ilişkisi.
+yalancı paradoksu cümle "Bu cümle yanlıştır." dir yalancı cümle analizi (o iddia olarak, bu yanlış, o zaman için) doğru olamayacağını gösteriyor, ne de yanlış olabilir (daha sonra da, bu doğrudur). Bir Gödel cümlesi bir teori "T" için "G" yalancı cümleye benzer bir iddia yapar, ama sağlamasının yerini gerçeği ile: "G", "G" teori "T" olarak ispatlamak mümkün değildir "diyor". "G" gerçeği ve sağlamasının analizi yalancı cümlenin gerçeği analizinin bir resmiyet sürümüdür.
+Yüklem aritmetik bir formül olarak temsil edilemez "Q yanlış formülün Gödel sayısı" Çünkü bir Gödel cümlede "false" ile "kanıtlanabilir değil" değiştirmek mümkün değildir. Alfred Tarski tarafından (o eksiklik teoreminin kanıtı üzerinde çalışırken) Tarski undefinability teoremi olarak bilinen bu sonuç, Gödel tarafından bağımsız keşfedildi.
+Gödel'in orijinal sonuç uzantıları.
+Gödel "Principia Mathematica", aritmetik bir teori teorisinin eksiklik gösterdi ancak paralel bir gösteri belirli anlamlılık herhangi bir etkili teorisine verilebilir. Gödel onun kağıt giriş bu gerçeği yorumladı, ama somutluktan için bir sistem kanıtı sınırlıdır. teoreminin modern tablolarda, eksiklik teoremi için hipotezler gibi herhangi bir özel resmi teori ile sınırlı değildir, böylece etkinliği ve anlamlılık koşullarını belirtmek yaygındır. Gödel, onun sonuçlarını yayınladı zaman bu koşulları ifade etmek için kullanılan terminoloji henüz 1931 yılında gelişmiş değildi.
+eksiklik teoreminin Gödel'in orijinal beyanı ve ispat teorisi sadece tutarlı değil "ω-tutarlı" olmadığını varsayımını gerektirir. Bir teori ω-tutarlı o-ω tutarsız değilse ve ω-tutarsız bir yüklem "P" varsa böyle her özel doğal sayı "m" için teori kanıtlıyor ~ "P" ( "m"), ve henüz teori aynı zamanda doğal bir numarası "n" öyle ki "P" ( "n") var olduğunu kanıtlıyor. Bu teori herhangi belirli bir değere sahip olduğunu inkar ederken mülkiyet "P" ile bir numara var olduğunu söylüyor, olduğunu. Bir teorinin ω-kıvamı tutarlılığı ima, ancak tutarlılık ω-tutarlılık anlamına gelmez. (1936) J. Barkley Rosser sadece tutarlı, daha doğrusu ω-tutarlı fazla olması teorisini gerektiren ispat bir varyasyon (Rosser hile) bularak eksiklik teoremi güçlendirdi. Bu aritmetik tüm gerçek resmi teorileri beri-ω tutarlı (kimin aksiyomları doğal sayılar ile ilgili tüm gerçek ifadeleri olan teorileri) ve böylece Gödel'in teoremi olarak başlangıçta onlar için de geçerlidir belirtildiği gibi, çoğunlukla teknik ilgi çekicidir. Sadece oldukça ω-tutarlılık daha tutarlılık varsayar eksiklik teoremi daha güçlü versiyonu, şimdi yaygın olarak Gödel'in eksiklik teoremi olarak ve Gödel-Rosser teoremi olarak bilinir.
+İkinci eksiklik teoremi.
+Gödel'in ikinci teoremi ilk "Principia Mathematica ve İlgili Sistemler I. Resmen undecidable Önermeler Üzerine" Gödel'in 1931 kağıt "Teoremi XI" olarak ortaya çıktı
+İlk eksiklik teoremi ile olduğu gibi, Gödel çok teknik resmi matematik bu teoremi yazdı. Bu İngilizce olarak paraphrased edilebilir:
+İlk eksiklik teoremi inşa deyimi doğrudan teori tutarlılığı ifade etmez, çünkü bu, ilk eksiklik teoremini güçlendirir. İkinci eksiklik teoreminin kanıtı teorisinin kendi içinde ilk eksiklik teoreminin kanıtı formalizing elde edilir.
+İkinci eksiklik teoremi bir teknik incelik "T" dilinde bir formül olarak "T" tutarlılığını ifade için nasıl. Bunu yapmanın birçok yolu vardır, ve hepsi aynı sonucu doğurmaktadır. "T" "T" inequivalent olabilir tutarlı, ve hatta kanıtlanabilir olabileceği iddiasının, özellikle, farklı biçimlendirmeleri içinde. Örneğin, birinci dereceden Peano aritmetik (PA) PA büyük tutarlı alt kümesi tutarlı olduğunu kanıtlamak. PA tutarlı olduğundan Ancak, PA büyük tutarlı alt kümesi sadece PA, yani bu anlamda PA "tutarlı olduğunu kanıtlıyor". Ne PA ispat etmez PA büyük tutarlı alt kümesi, aslında, PA bütün olduğudur. (Terim "PA büyük tutarlı alt kümesi" teknik belirsiz, ama ne burada kastedilen belirli kriterlere göre sipariş PA aksiyomlar büyük tutarlı ilk bölüm olduğu; yani, "Gödel sayılar" olarak aksiyomlarını kodlayan numaralar ) Gödel kullanılan düzeni yukarıda bahsedilen her.
+Peano aritmetik, ya da herhangi bir tanıdık açıkça axiomatized teorisi "T" için, canonically bir formül Con ( "T") "T" tutarlılığını ifade tanımlamak mümkündür; Bu formül T ", bir mantıksal aksiyom veya kurallara göre önceki formüllerin hemen sonucu" Her formülü aksiyomları ikisinden biri öyle ki formüllerin bir dizi, kodlama doğal sayı vardır yok "diye özelliğini ifade birinci dereceden mantık çıkarım ve bu son formül "bir çelişki olduğunu söyledi.
+Con ( "T") olarak resmileştirilmesi iki faktöre bağlıdır: cümlelerin bir dizi derive olan bir cümlenin kavramını formalizing ve "T" bir aksiyom olma kavramını formalizing. Formalizing Türevlenebilirliği kurallı biçimde yapılabilir: Bir aritmetik formül A ( "x") verilen bir aksiyomlar kümesi tanımlayarak, bir canonically bir cümle "P" den kanıtlanabilir olduğunu ifade eden bir yüklemi prova ( "P"), oluşabilir A ( "x") tarafından tanımlanan aksiyomlar kümesi.
+Buna ek olarak, ikinci eksiklik teoreminin standart kanıtı prova ( "P") Hilbert-Bernays sağlamasının koşulları karşılayan varsayar. # ( "P") bir formül "P" Gödel sayısını temsil izin, Türevlenebilirliği koşulları ki:
+tutarlılık deliller Etkileri.
+Gödel'in ikinci teoremi de yukarıda özetlenen teknik şartları sağlayan bir teori "T" 1 "T" tutarlılığını ispat Herhangi bir teori "T" 2 tutarlılığını ispat edemez ima 1. Böyle bir teori "T" 1 "T" 2 "T" 1 tutarlılığını ispat ettiği takdirde, o zaman "T" 1 tutarlı aslında olduğunu kanıtlamak olmasıdır. "T" 1 tutarlı olduğunu iddia için formu n "tüm sayılar için" "," n T "1" "çelişki bir kanıtı için bir kod olmama Karar verilebilen özelliğine sahiptir" vardır. "T" 1 aslında tutarsız olsaydı, o zaman "T" 2 bazı "n" olduğunu kanıtlamak istiyorum "n" "T" ile başlayan bir çelişki kodudur 1. Ancak, "T" ise 2, daha sonra kendisi tutarlı olacak (diğer bir deyişle bu tür n olduğu, IS) "T" 1 tutarlı olduğunu kanıtladı. Bu muhakeme "T" 2 tutarlı ise, o zaman "T" 1 tutarlı olduğunu göstermek için 1 "T" resmiyet edilebilir. İkinci eksiklik teoremi "T" 1 kıvamını ispat etmez, bu yana, ya "T" 2 tutarlılığını ispat edemez.
+İkinci eksiklik teoremi Bu sonuç, örneğin kanıtlayan hiçbir umut olmadığını göstermektedir, Peano aritmetik kanıtlanabilir bir tutarlılık olan bir teoride resmiyet edilebilir herhangi finitistic araçları kullanarak Peano aritmetik tutarlılık. Örneğin, yaygın finitistic matematik doğru resmileştirilmesi olarak kabul edilen ilkel özyinelemeli aritmetik teorisi (PRA), PA provably tutarlıdır. Böylece PRA PA tutarlılığını ispat edemez. Bu durum genellikle ima etmek görüldüğünü idealdir ilkeler tutarlı olduğunu bir finitistic kanıt vererek "gerçek" (finitistic) matematiksel tabloların delillerden "ideal" (infinitistic) matematiksel ilkelerin kullanımını haklı amaçlayan Hilbert'in program, gerçekleştirilebilir değildir.
+doğal sonucu da ikinci eksiklik teoreminin epistemolojik alaka gösterir. Bir teori "T" kıvamını kanıtladı eğer aslında hiçbir ilginç bilgiler sağlayacaktır. tutarsız teorileri kendi tutarlılığı da dahil olmak üzere her şeyi kanıtlamak olmasıdır. Böylece "T" "T" bir tutarlılık kanıtı bize "T" gerçekten tutarlı olup olmadığı konusunda hiçbir ipucu verecekti; "T" tutarlılığı hakkında hiçbir şüphe böyle bir tutarlılık geçirmez çözülebilir olacaktır. tutarlılık deliller ilgi bir anlamda "T" kendisi "T" daha zayıf, örneğin daha az şüpheli bazı teori "T" 'in bir teori "T" tutarlılığını ispat olasılığı yatıyor. Birçok doğal olarak oluşan teoriler "T" ve "T" 'için "= ilkel özyinelemeli aritmetik gibi," T "= Zermelo-Fraenkel teori ve T" set', 'T' "tutarlılık" T "kanıtlanabilir olduğunu ve böylece "T" 'ikinci eksiklik teoreminin yukarıdaki doğal sonucu ile "T" tutarlılığını ispat edemez.
+İkinci eksiklik teoremi, tamamen tutarlı kanıtlanmıştır teoride resmiyet olabilir tek tutarlılık deliller tutarlılık deliller ekarte etmez. Örneğin, Gerhard Gentzen ε0 denilen sıralı bentleri olduğu bir aksiyom öne sürerek içeren farklı bir teoride Peano aritmetik tutarlılığını (PA) kanıtladı; Gentzen en tutarlılık geçirmez bkz. Gentzen teoremi ispat teoride sıralı analiz gelişimini tetikledi.
+undecidable tabloların örnekler.
+matematik ve bilgisayar bilimleri alanında "undecidable" kelimesinin iki farklı duyuları vardır. Bunlardan ilki belirli bir tümdengelim sistemde kanıtlanabilir ne de çürütülebilir ne olmanın bir ifadenin o, Gödel'in teoremleri ilgili olarak kullanılan kanıt-teorik anlamda. Burada tartışılan olmayacak ikinci anlamda, Hesaplama teorisi ile ilgili olarak kullanılan ve sayılabilir bir evet ya da hayır cevabı gerektiren soruların her biri sonsuz kümeler olan karar problemlerinin, tablolara için değil de geçerlidir. Böyle bir sorun doğru ayarlanmış sorun her soruya (undecidable sorunu bakınız) cevap hayır hesaplanabilir bir fonksiyon varsa undecidable olduğu söylenir.
+Çünkü undecidable kelimenin iki anlamlarından, dönem bağımsız bazen yerine "kanıtlanabilir ne de çürütülebilir ne" duygusu undecidable kullanılır. "Bağımsız" kullanımı ancak, aynı zamanda belirsiz. Bazı bağımsız ifadesi yalanlanmış olabilir mi açık bırakarak, sadece "kanıtlanabilir değil" demek için kullanın.
+Belirli bir tümdengelim sisteminde bir ifadenin kararsızlaşma kendisi ve, deyim doğruluk değeri iyi tanımlanmış olup olmadığını sorusunu ele ya da başka yollarla belirlenebilir olsun, değil. Kararsızlık sadece belirli tümdengelim sistemi deyiminin gerçeği ya da yanlışlığını ispat etmez kabul ediliyor anlamına gelir. kimin doğruluk değeri asla bilinemez ya da kötü belirtilen sözde "kesinlikle undecidable" ifadeleri, orada mevcut olup olmadığını, matematik felsefesi tartışmalı bir noktadır.
+süreklilik hipotezi kanıtladı ne de ZFC (küme teorisinin standart aksiyomlaştırılması) 'de çürütülmüş olabilir ne ve aksiyomu ve: Gödel ve Paul Cohen kombine çalışma (terimin ilk anlamında) undecidable tabloların iki somut örnek verdi seçim olduğunu kanıtladı ne de (seçim aksiyomu "hariç" tüm ZFC aksiyomları olan) ZF de yalanladı olabilir de. Bu sonuçlar olmayan teoremi gerektirmez. Gödel, bu ifadelerin hiçbiri ZF de çürüttü olabileceğini 1940 yılında kanıtladı veya ZFC teorisini ayarlayın. 1960'lı yıllarda, Cohen ne ZF kanıtlanabilir olduğunu kanıtladı ve süreklilik hipotezi ZFC kanıtlanmış edilemez.
+1973 yılında, grup teorisi Whitehead sorunun standart set teoride, terimin ilk anlamda undecidable olduğu gösterilmiştir.
+Gregory Chaitin algoritmik bilgi teorisinde undecidable ifadeleri üretilen ve o ortamda başka eksiklik teoremi kanıtladı. Chaitin eksiklik teoremi yeterli aritmetik temsil edebilecek herhangi bir teori için hiçbir özel numara "c" büyüktür Kolmogorov karmaşıklığı için bu teoride ispat edilebilir böyle bir üst sınırı "c" olduğunu belirtir. Gödel'in teoremi yalancı paradoksu ile ilgili iken, Chaitin sonuç Berry paradoks ile ilgilidir.
+Undecidable ifadeleri büyük sistemlerde ispatlanabilir.
+Bunlar Gödel "doğru ama karar verilemez" cümlesinin doğal matematiksel karşılıkları vardır. Bunlar genellikle akıl geçerli bir biçimi olarak kabul edilir büyük bir sistemde kanıtladı ama böyle Peano Aritmetik olarak daha sınırlı bir sistemde undecidable girmektedir.
+1977 yılında, Paris ve Harrington Paris-Harrington prensibi, Ramsey teoreminin bir versiyonu, Peano aritmetik olarak adlandırılan aritmetik birinci dereceden aksiyomlaştırılması içinde undecidable, ancak ikinci dereceden aritmetik büyük sisteminde ispat edilebilir olduğunu kanıtladı. Kirby ve Paris daha sonra Peano aritmetik undecidable olmak Goodstein'e teoremi, Paris-Harrington ilkesine biraz daha basit doğal sayılar dizilerin ilgili bir açıklama gösterdi.
+bilgisayar bilimleri alanında uygulamalar vardır Kruskal ağacı teoremi, aynı zamanda set teoride Peano aritmetik undecidable ama ispatlanabilir olduğunu. Aslında Kruskal ağacı teoremi (ya da sonlu formu) predicativism denilen matematik felsefesine dayalı kabul edilebilir ilkeler codifying daha güçlü bir sistemde undecidable. İlgili fakat daha genel grafik küçük teoremi (2003) hesaplama karmaşıklığı teorisi için sonuçları vardır.
+Gödel'in teoremleri sınırlamaları.
+Gödel'in teoremleri sonuçları sadece gerekli hipotezleri tatmin resmi teorilerine kanıtlanmıştır. Tüm aksiyom sistemleri bu sistemlerin bir alt kümesi olarak doğal sayılardan modelleri var olsa bile, bu hipotezlerin karşılamaktadır. Örneğin, Öklid geometrisinin birinci dereceden axiomatizations gerçek alanları kapalı ve aritmetik hangi çarpma "provably" Toplam değildir ve vardır; bunların hiçbiri Gödel'in teoremleri hipotezlerini buluşuyor. Anahtar Aslında bu axiomatizations doğal sayılar kümesini tanımlamak veya doğal sayıların temel özelliklerini geliştirmek için yeterince etkileyici değil olmasıdır. Üçüncü örnekte ilgili olarak, Dan Willard (2001), ikinci eksiklik teoremi hipotezleri tatmin ve hangi tutarlı ve kendi tutarlılığını ispat yeteneğine sahiptir yok aritmetik birçok zayıf sistemler okudu (self-doğrulayarak teorileri bakınız).
+Gödel'in teoremleri sadece teoriler (yani yinelemeli, numaralandırılabilirse) etkin bir şekilde oluşturulmuş için geçerlidir. doğal sayılar ile ilgili tüm gerçek ifadeleri bir teori için aksiyomlar olarak alınırsa bu teori ardışık değil çünkü, o zaman bu teori, anlamlı bir şekilde uygulamak Gödel'in teoremleri hangi hiçbiri için (gerçek aritmetik olarak adlandırılır) Peano aritmetik tutarlı, tam bir uzantısıdır enumerable.
+İkinci eksiklik teoremi sadece belirli teoriler tutarlılık bu teorilerin kendileri aksiyomlarından ispat edilemez olduğunu göstermektedir. Bu tutarlılık, diğer (tutarlı) aksiyomları ispat edilemez olduğunu göstermez. Örneğin, Zermelo-Fraenkel de ispat edilebilir Peano aritmetik tutarlılık teorisi (ZFC), ya da kanıt Gentzen en tutarlılık olduğu gibi, ötesi tümevarım artar aritmetik teorileri ayarlayın.
+Hesaplanabilirlik ile İlişkisi.
+eksiklik teoremi yakından yineleme teoride undecidable setleri hakkında birkaç sonuçlarla ilgilidir.
+(1943) Stephen Cole Kleene hesaplanabilirlik teorisinin temel sonuçları kullanılarak Gödel'in eksiklik teoremi bir kanıtı sundu. girdi olarak herhangi bir program "P" verilen doğru belirlemek hiçbir bilgisayar programı var, belli bir verilen giriş ile çalıştırdığınızda "P" sonunda durur olsun: Böyle bir sonuç halting sorun undecidable olduğunu göstermektedir. Kleene durdurulması sorunu zorlayacaktır bazı tutarlılık özellikleri ile aritmetik tam etkili teorinin varlığı bir çelişki, Karar verilebilen olmak olduğunu gösterdi. ispat Bu yöntem aynı zamanda Shoenfield tarafından takdim edilmiştir (1967, s 132.); Charlesworth (1980); Hopcroft ve Ullman (1979) ve.
+Franzén (2005, s. 73) Hilbert'in 10. sorunun Matiyasevich çözümü Gödel'in ilk eksiklik teoremi bir kanıt elde etmek için nasıl kullanılabileceğini açıklar. Matiyasevich hiçbir değişkenli polinom p verilen, algoritma olduğunu kanıtladı (x1, x2 ... xk) tamsayı katsayılı denklem "p" = 0 bir tamsayı çözümü olup olmadığını belirler tamsayı katsayılı polinomların Çünkü, Çok değişkenli bir tamsayı polinom denklem "p" = 0, sonra tamsayılar bir çözüm aritmetik "T" herhangi yeterince güçlü teori var ve eğer kendileri tamsayılar, aritmetik dilinde doğrudan eksprese olan bu ispat edecektir. teori "T" ω-tutarlı Ayrıca, eğer, o zaman aslında tamsayılar hiçbir çözüm olduğunda, belirli bir polinom denklem bir çözümü var olduğunu kanıtlamak asla. Böylece, eğer "T" tam ve vardı ω-tutarlı bir polinom denklem sadece ya "," p "" "p bir çözümü vardır" veya "kadar" T "deliller numaralandırma tarafından bir çözüm olup olmadığını algoritmik belirlemek mümkün olacaktır Matiyasevich teoremi aykırı hiçbir çözüm "bulundu, vardır. Ayrıca, her tutarlı etkili bir şekilde üretilen teorisi "T" için, etkili eşitlik "p" = 0 tamsayılar üzerinde hiçbir çözümleri vardır öyle ki tamsayılar üzerinde çok değişkenli polinom "p" oluşturmak mümkündür, ancak çözümlerin eksikliği olamaz "T" (: 416, Jones 1980 Davis 2006) kanıtladı.
+Smorynski (1977, s. 842) özyinelemeli ayrılmaz setleri varlığı ilk eksiklik teoremi kanıtlamak için nasıl kullanılabileceğini gösteriyor. Bu ispat genellikle Peano aritmetik olarak sistemleri (Kleene 1967, s. 274 bakınız) esasen undecidable olduğunu göstermek için uzatılır.
+Chaitin eksiklik teoremi Kolmogorov karmaşıklığı dayalı bağımsız cümleler, üreten farklı bir yöntem verir. Yukarıda sözü edilen Kleene tarafından sunulan delili gibi, Chaitin teoremi sadece tüm aksiyomları doğal sayıların standart modelin gerçek olan ek özelliği ile teorileri için de geçerlidir. Gödel'in eksiklik teoremi yine standart modelde yanlış ifadeleri içeren tutarlı teorilere uygulanabilirliği ile ayırt edilir; bu teoriler co-tutarsız olarak bilinir.
+İlk teoremi için Proof kroki.
+çelişkiyle tanıtlama üç temel bölümden oluşmaktadır. Başlamak için, önerilen kriterleri karşılayan resmi bir sistem seçin:
+sözdizimi aritmetizasyonu.
+Yukarıda açıklanan kanıt ortaya koymasıyla temel sorun p "," bunu ispat edilemez "p" "eşdeğer bir ifade" p "oluşturmak için ilk başta görünüyor olduğunu" nasılsa bir başvuru içeren olurdu için "p "kolayca sonsuz bir gerilemenin yol açabilir hangi. Gödel'in ustaca tekniği ifadeleri "" bir açıklama kanıtlayan "bir şekilde (genellikle sözdizimi aritmetizasyonu denir) numaraları ile uyumlu olabilir" "" Bir sayı belirli bir özelliğe sahip olup olmadığını test "" ile değiştirilebilir göstermektir. Bu özüne formül tanımları herhangi sonsuz gerileme önleyecek şekilde inşa edilmesini sağlar. Aynı teknik, daha sonra Entscheidungsproblem üzerinde eserinde Alan Turing tarafından kullanıldı.
+sistemde formüle edilebilir her formül ya da deyim benzersiz bir sayı alır ve böylece Basitçe, bir yöntem icat edilebilir mekanik formüller ve Gödel arasında ileri ve geri dönüştürmek mümkün olduğunu böyle bir şekilde kendi Gödel numarası, adı verilen sayılar. çok uzun gerçekten (basamak sayısı açısından) olabilir dahil numaraları, ancak bu bir engel değildir; Önemli olan bütün bu sayıları imal edilebilmesidir. Basit bir örnek İngilizce ASCII veya Unicode kullanan bilgisayarlar bir sayı dizisi olarak depolandığı yoludur:
+Prensip olarak, doğru ya da yanlış bir açıklama kanıtlayan açıklama eşleşen numara yapar veya belirli bir özelliği yok ispat eşdeğer olduğu gösterilebilir. resmi bir sistem "genel olarak sayılar" hakkında akıl destekleyecek kadar güçlü olduğundan, bunun yanı sıra "formülleri ve ifadeleri temsil eden sayılar" hakkında akıl destekleyebilir. Sistem "sayıların özellikleri" hakkında akıl destekleyebilir çünkü Önemlisi, sonuç "onların eşdeğer tabloların sağlamasının" hakkında akıl eşdeğerdir.
+"Sağlamasının" hakkında bir açıklama inşaatı.
+Prensip olarak sistem dolaylı aslında bunu yapan bir deyimi oluşturmak için nasıl göstermek artık mümkün ifadeleri temsil eden sayılar özelliklerini analiz ederek, sağlamasının hakkında açıklama yapma olduğunu göstermiştir sonra.
+tam bir serbest değişken "x" içeren bir formül "F" ( "x") bir "ifadesi formu" veya "sınıf işareti" denir. En kısa sürede "x" belirli bir sayı ile değiştirilmiştir gibi, deyim formu "iyi niyetli" deyimi dönüşür ve daha sonra sistemdeki kanıtlanabilir, ya da değildir. Bazı formüller için bir kanıtlanmış olabilir ve sadece eğer her doğal sayı n, F (n) doğrudur gösterebilir (orijinal kanıtı kesin gereklilik zayıftır, ama kanıtı Kroki için bu yeterli olacaktır). Özel olarak, bu tür "2 x 3 = 6" olarak doğal sayılar sonlu sayıda arasında her belirli bir aritmetik işlem için de geçerlidir.
+Açıklama kendilerini ispat ya da çürüttü olamaz bu nedenle değil ifadelerdir ve oluşturur. Fakat her deyim formu "F" ( "x") G ( "F") ile gösterilen bir Gödel numarası atanabilir. "F" biçiminde ( "x") kullanılan serbest değişken seçimi Gödel sayısı G ( "F") olarak atama için geçerli değildir.
+kendisi de Gödel sayılarla kodlanmış olabilir sağlamasının kavramı şu şekilde: Şimdi hile geliyor. Bir kanıt bazı kurallara uymak tabloların bir listesini olduğundan, bir ispat Gödel sayısı tanımlanabilir. Şimdi, her açıklamada, "p" için, bir sayı "x" İspat Gödel sayısı olup olmadığını sorabilir. "P" ve "x", onun ispat potansiyel Gödel sayısı ve Gödel sayısı arasındaki ilişki iki sayı arasındaki bir aritmetik ilişkidir. Bu nedenle "y" bir kanıtın bir Gödel sayısı varolduğunu ifade etmek, bu aritmetik ilişkiyi kullanır ( "y") BEW formu bir açıklama var:
+adı Bew, "kanıtlanabilir" için Almanca kelime "beweisbar" için kısa; Bu isim aslında sadece açıklanan sağlamasının formülü göstermek için Gödel tarafından kullanıldı. "Bew (" y ")" sadece "T" orijinal dilde belirli bir, çok uzun, formülü temsil eden bir kısaltmadır olduğunu unutmayın; string "Bew" kendisi bu dilin bir parçası olduğu iddia değildir.
+Formül Bew ( "y") önemli bir özelliği bir açıklama, "p" sistemi daha sonra Bew (G ( "p")) 'de kanıtlanabilir ise de kanıtlanabilir olmasıdır. "P" herhangi bir kanıt memnun olmak Bew (G ( "p")) neden varlığı olan karşılık gelen bir Gödel numarası, olurdu çünkü.
+Köşegenleştirme.
+ispat sonraki adım, kanıtlanamayan diyor bir ifade elde etmektir. Gödel doğrudan bu ifadeyi inşa rağmen, en azından böyle bir ifadenin varlığı herhangi yeterince güçlü örgün sistemi ve herhangi bir açıklama formu için "F" bir açıklama "p" Böyle bir sistem kanıtlıyor olduğunu söylüyor diyagonal lemmasının, izler
+vererek "F" BEW ( "x") olarak yadsınması olacaktır, biz teoremi elde
+ve tanımlanan "s" kabaca kendi Gödel sayı kanıtlanamayan formül Gödel numarası olduğunu belirtmektedir.
+Açıklamada "p" ~ BEW (G ( "p")) tam anlamıyla eşit değildir; daha doğrusu, "p" belli bir hesaplama yapılırsa, ortaya çıkan Gödel sayı kanıtlanamayan deyimi o olacağını belirtiyor. Bu hesaplama yapıldığında ancak, ortaya çıkan Gödel numarası "p" kendisi Gödel sayısı olarak ortaya çıkıyor. Bu İngilizce şu cümle benzer:
+Bu cümle, doğrudan kendisi ifade etmez, ancak belirtilen dönüşüm yapıldığında orijinal cümle elde edilir bir sonucu olarak, ve bu nedenle bu cümle kendi unprovability belirtmektedir. diyagonal lemmasının ispatı benzer bir yöntem kullanmaktadır.
+Şimdi, aksiyomatik sistem ω-tutarlı olduğunu varsayalım, ve "s" önceki bölümde elde edilen açıklamada olalım.
+"P" (G ( "p")) Bew sonra, kanıtlanabilir olsaydı yukarıda iddia ettiği gibi, kanıtlanabilir olacak. Ama "p" BEW (G ( "p")) inkârını belirtmektedir. Böylece sistem bir açıklama ve olumsuzlamayı hem kanıtlayan, tutarsız olacaktır. Bu çelişki, "p" kanıtlanabilir olamaz göstermektedir.
+"P" yadsınması kanıtlanabilir olacak (G ( "p")) Bew sonra, kanıtlanabilir olsaydı ( "p" BEW (G ( "p")) yadsınması eşdeğer olduğu inşa edildi çünkü). "P" (önceki paragrafta itibaren) ispatlamak mümkün değildir Ancak, her özel sayı "x" için, "x", "p" kanıtı Gödel sayısı olamaz. Böylece bir yandan sistemi vardır (o "p" kanıtı Gödel sayısı olduğunu) belli bir özelliği olan bir sayıdır, ama diğer taraftan, her özel sayı "x" için, bunun ispat kanıtlıyor Bu özelliği yoktur. Bu bir ω-tutarlı bir sistemde mümkün değildir. Böylece "p" yadsınması kanıtlanabilir değildir.
+Böylece açıklamada, "p" Bizim aksiyomatik sistemde undecidable: Bu ispat, ne de sistem içinde çürüttü olabilir de.
+Aslında, "p" kanıtlanabilir olmadığını göstermek sadece sistem tutarlı varsayımı gerektirir. ω-tutarlılık güçlü varsayım "p" yadsınması kanıtlanabilir olmadığını göstermek için gereklidir. Bu nedenle, "s", belirli bir sistem için inşa edilir:
+bir sistemin eksiklik önlemek için "kayıp aksiyomları eklemek" çalışırsa, o zaman bir "p" veya aksiyomlar olarak "değil" p "" ya eklemek zorundadır. Ama sonra bir açıklama değişiklikleri "bir kanıtı bir Gödel sayısı olmak" tanımı. ki bu formül Bew ( "X") Bu farklı olduğu anlamına gelmektedir. Bu yeni BEW diyagonal Lemmasını uygulamak Böylece, biz ω-tutarlı ise yeni sistemde undecidable olacak bir öncekinden, farklı yeni bir açıklama, "p", elde ederiz.
+Berry'nin paradoks aracılığıyla kanıtı.
+George Boolos (1989) gerçek ama kanıtlanamayan formülü oluşturmak için yalancı paradoksu yerine Berry paradoksu kullanan ilk eksiklik teoreminin alternatif bir kanıt ortaya koymaktadır. Benzer bir kanıtı yöntemi bağımsız Saul Kripke tarafından keşfedildi (1998 Boolos, s. 383). aritmetik gerçek cümlelerin herhangi computably enumerable set "S", doğru değil "S" bulunan bir başka cümle, inşa ederek Boolos ispatı ilerler. Bu bir sonucu olarak ilk eksiklik teoremini verir. o aritmetik etkili, tutarlı teoriler eksiklik için "aklın farklı tür" sağladığından Boolos göre, bu kanıt (Boolos 1998, s. 388) ilginçtir.
+Resmiyet deliller.
+eksiklik teoremi sürümleri resmiyet delilleri Coq (O'Connor 2005) kullanılarak 2003 yılında Nqthm (Shankar 1994) ve Russell O'Connor tarafından kullanılarak 1986 yılında Natarajon Shankar tarafından geliştirilmiştir.
+İkinci teoremi için Proof kroki.
+İkinci eksiklik teoremi ispat ana zorluk ilk eksiklik teoreminin ispatında kullanılan sağlamasının sağlamasının için resmi yüklemi kullanarak sistem içinde resmiyet edilebilir hakkında çeşitli gerçekleri göstermektir. Bu yapıldıktan sonra, ikinci eksiklik teoremi sistemi kendi içinde ilk eksiklik teoreminin tüm kanıt formalizing ile izler.
+"P", yukarıda inşa undecidable cümle için stand ve sistemin tutarlılığı sistemin kendisi içinde ispat edilebilir olduğunu varsayalım. Gösteri Yukarıdaki sistem tutarlı ise, o zaman, "p" kanıtlanabilir olmadığını göstermektedir. Bu ima kanıtı sistemi içinde resmiyet edilebilir ve bu nedenle ifadesi "," p "kanıtlanabilir değil", ya da "değil" P "(" p ")" sisteminde ispat edilebilir.
+Ama bu son ifade kendisi "p" eşdeğerdir (ve bu denklik sistemine ispat edilebilir), bu yüzden "s" sistemde ispat edilebilir. Bu çelişki sistemi tutarsız olması gerektiğini göstermektedir.
+Tartışma ve etkileri.
+eksiklik sonuç ilkelerini tanımlamak için tek bir sistem formel mantık kullanmak matematik, biçimcilik özellikle sürümleri, felsefesini etkiler. Bir aşağıdaki şeklindeki birinci teoremi tefsir edebilirsiniz:
+matematiksel "gerçek" ve "batıl" mutlak anlamda iyi tanımlanmış, yerine her resmi sisteme göre olduğunu varsayar çünkü Öte yandan, sıkı bir şekilci bir bakış açısıyla bu paraphrase anlamsız düşünülebilir.
+İkinci teoremin aşağıdaki Yeniden ifadelendirmenin daha rahatsız edici matematiğin temelleri için:
+Bu nedenle, bir sistem S tutarlılığını kurmak için, bir başka sistem T kullanması gerekir, ancak T'nin tutarlılık zaten S. kullanmadan kurulmuştur sürece T kanıtı tamamen ikna edici değildir
+Böyle herhangi computably enumerable tutarlı uzantısı eksik olduğu için Peano aritmetik gibi Teorileri, esasen undecidable veya esasen eksik denir.
+Zihinleri ve makineler.
+filozof J. R. Lucas ve fizikçi Roger Penrose dahil Yazarlar eğer bir şey, Gödel'in eksiklik teoremleri insan zekası hakkında ima ne tartışmışlardır. İnsan zihninin Turing makinesine veya Church-Turing tezi ile eşdeğer olup olmadığı konusunda tartışma merkezlerinin çok, herhangi bir sonlu makine at all. o, ve makine tutarlı ise, o zaman Gödel'in eksiklik teoremleri kendisine uygulanacak eğer.
+Hilary Putnam (1960) Gödel'in teoremleri insanlara uygulanamaz iken hata yaparlar ve bu nedenle tutarsız olduğundan, genel olarak bilim veya matematik insan öğretim uygulanabilir önerdi. Varsayarsak tutarlı olduğunu ya da tutarlılık ispat edilemez ya da bir Turing makinesi tarafından temsil edilemez.
+Avi Wigderson (2010) matematiksel "bilinebilirliğin" kavramı hesaplama karmaşıklığı ziyade mantıksal karar verilebilirlik dayalı olması gerektiğini önerdi. O bilinebilirliğin "ne zaman" "yani hesaplama karmaşıklığı aracılığıyla modern standartlara tarafından yorumlanır, Gödel fenomenler bizimle çok fazla." Diye yazıyor
+Paraconsistent mantığı.
+Gödel'in teoremleri genellikle klasik mantık çerçevesinde incelenmiştir rağmen, aynı zamanda paraconsistent mantık çalışmada ve doğal çelişkili ifadeleri ( "dialetheia") bir role sahip. Graham Priest (1984, 2006) gayri resmi kanıtı olağan kavramı ile Gödel'in teoremi resmi ispat kavramını değiştirerek o naif matematik tutarsız göstermek için kullanılabilir savunuyor ve dialetheism delil olarak kullanır. Bu tutarsızlık nedeni teorisi (: 47 Priest 2006) dili içinde teorisi için bir doğruluk yüklemi dahil. Stewart Shapiro (2002) dialetheism için Gödel'in teoremleri bir uygulama daha karışık bir değerlendirme verir.
+diğer alanlarda eksiklik teoremleri hitap ediyor.
+İtiraz ve benzetmeler bazen matematik ve mantık ötesinde argümanları desteklemek eksiklik teoremleri yapılır. Birçok yazar Torkel Franzén (2005) dahil olmak üzere bu uzantıları ve yorumlardan olumsuz yorumladı; Alan Sokal ve Jean Bricmont (1999); Ophelia Benson ve Jeremy STANGROOM (2006) ve. Bricmont ve STANGROOM (2006, s. 10), örneğin, Gödel'in bariz Platonism ve anti-realist arasında eşitsizlik üzerine Rebecca Goldstein'in yorumlardan alıntı hangi fikirleri bazen konur için kullanır. Sokal ve Bricmont (1999, s 187). Sosyoloji bağlamında teoremi Regis Debray en çağırma eleştirmek; Debray mecazi olarak bu kullanımı savundu (age.).
+Kendi kendine referans Rolü.
+Torkel Franzén (. 2005, s 46) gözlemlemektedir:
+İlk eksiklik teoremi ve Rosser en güçlendirdi sürümü Gödel'in kanıtı teoremi sadece özüne ifadeleri [...] veya sadece tuhaf özüne ifadeleri bilinen bile bu temel olarak undecidable olmaya inşa ispat edilebilir birçok izlenimi verdik aritmetik.
+Bu tür gösterim karşı, biz sadece ilk eksiklik teoreminin kanıtı farklı bir tür tanıtmak gerekir.
+"Böyle gösterimleri karşı" gereken delillerinden örnek olarak, bu makalenin önceki bölümlerinde anlatıldığı gibi o da, hesaplanamama üzerine veya bilgi teorisine dayalı deliller önermektedir.
+Tarihi.
+Gödel 1929 yılında doktora tezi olarak tamlık teoremi onun kanıtı yayınlanan sonra, onun Habilitasyon için ikinci bir soruna dönüştü. Onun asıl hedefi Hilbert'in ikinci soruna olumlu bir çözüm (Dawson 1997, s. 63) elde etmekti. yalnız doğal sayılar teorisi "aritmetik" olarak bilinen iken zamanda, doğal sayılar ve ikinci dereceden aritmetik benzer reel sayılar teorisi, "analiz" olarak biliniyordu.
+Gödel tutarlılık sorunu üzerinde çalışan tek kişi değildi. Ackermann o aslında Hilbert tarafından geliştirilen ε-ikame yöntemi kullanmak teşebbüs ettiği 1925 yılında analiz için kusurlu tutarlılık kanıtı, yayınlamıştı. Aynı yıl, von Neumann indüksiyon herhangi aksiyomları olmadan aritmetik bir teori için kanıt düzeltmek başardı. 1928 tarafından, Ackermann Bernays bir modifiye kanıt tebliğ; Bu modifiye kanıtı aritmetik tutarlılık göstermiştir edildiğini ve analiz tutarlılık kanıtı muhtemelen yakında takip edeceğini 1929 yılında inancını duyurmak Hilbert açtı. eksiklik teoremleri yayınlanması Ackermann modifiye kanıtı hatalı olması gerektiğini gösterdi sonra, Von Neumann ana teknik sağlıksız olduğunu gösteren somut bir örnek üretti (2006 Zach, s. 418, Zach 2003, s. 33).
+yaptığı araştırma sırasında, Gödel, kendi yalan beyan eden bir cümle paradoksu neden olsa da, kendi olmayan sağlamasının iddia bir cümle yok olduğunu keşfetti. o yayınlanan hiç rağmen, özellikle Gödel, şimdi Tarski indefinability teoremi denilen sonuç farkındaydı. Gödel, 26 Ağustos 1930 tarihinde Carnap, Feigel ve Waismann yaptığı ilk eksiklik teoremi açıkladı; Dört aşağıdaki hafta Königsberg önemli bir konferansa katılmak istiyorum.
+Duyuru.
+1930 Königsberg konferans katılım zamanın önemli logicians birçok ile üç akademik toplumların ortak toplantı oldu. Carnap, Heyting ve Von Neumann sırasıyla mantıkçılığın, sezgicilik ve biçimcilik, matematiksel felsefeler üzerinde bir saatlik adreslerini teslim (1996 Dawson, s. 69). Göttingen Üniversitesi'nde görevinden ayrıldığını konferans, aynı zamanda, Hilbert'in emeklilik adresini dahil. Hilbert tüm matematiksel sorunların çözülebileceğini inancını iddia konuşma kullanılır. Diyerek onun adresini sona erdi,
+Bu konuşma hızla ( "son altı kelime", "Wir müssen Wissen. Wir werden wissen!" 1943 yılında Hilbert'in kitabesine olarak kullanılmıştır) matematik Hilbert'in inançların bir özeti olarak tanındı. Gödel Hilbert'in adresi için katılım olasılığı olmasına rağmen, iki yüz yüze hiç karşılaşmamış (1996 Dawson, s. 72).
+Gödel Konferansın üçüncü gününde bir yuvarlak masa tartışması oturumunda yaptığı ilk eksiklik teoremi açıkladı. duyuru konuşma için kenara Gödel çekti von Neumann, o dışında çok az ilgi çekti. Aynı yıl, ilk eksiklik teoremi bilgisine sahip bağımsız çalışan, von Neumann o 20 Kasım 1930 tarihli bir mektupta Gödel açıklandı ikinci eksiklik teoremi, bir kanıtı elde (1996 Dawson, s. 70). Gödel'in bağımsız ikinci eksiklik teoremini elde 17 Kasım 1930 tarihinde "Monatshefte für Mathematik" tarafından kabul edildi onun gönderilen el yazması, onu dahil etmişti.
+Gödel'in kağıt (Principia Mathematica ve İlgili Sistemler I Resmen undecidable Önermeler üzerine) "Systeme I verwandter Über resmi unentscheidbare Sätze der Principia Mathematica und" başlığı altında 1931 yılında "Monatshefte" yayımlandı. başlığından da anlaşılabileceği üzere, Gödel aslen kağıt ikinci bölümünü yayınlamak için planlanan; yazılı değildi.
+Genelleme ve kabul.
+Gödel Kilisesi, Kleene ve Rosser dahil bir kitleye 1933-1934 yılında Princeton'da onun teoremleri bir dizi ders verdi. Bu zamana kadar, Gödel onun teoremler gerekli anahtar özellik teorisi (zaman, dönem "genel özyinelemeli" kullanılmıştır) etkili olması gerektiğini olduğunu kavramış etmişti. Rosser Gödel cümlesi uygun bir şekilde değiştirilmişse Gödel'in orijinal ispat ayrılmaz bir parçası oldu ω-tutarlılık hipotezi, basit, tutarlılık yerini olabileceğini 1936 yılında kanıtladı. Bu gelişmeler temelde modern formda eksiklik teoremleri bıraktı.
+Gentzen (Gödel teoremi zaten göstermişti gibi) tutarlı olduğunu kanıtladı ediliyor aritmetik sistemi içinde resmiyet edilemese de Hilbert "sonlucu" olarak bu kanıtı kabul 1936 yılında birinci derece aritmetik onun tutarlılık kanıt yayınladı.
+Hilbert'in programı eksiklik teoremleri etkisi çabuk gerçekleşti. Bernays ε-ikame yöntem ve aritmetik Gentzen en tutarlılık kanıtı Ackermann ek sonuçlarla birlikte "Grundlagen der Mathematik" (1939) ikinci cildinde eksiklik teoremleri tam kanıtı dahil. Bu ikinci eksiklik teoreminin ilk tam yayınlanmış kanıtı oldu.
+Eleştirileri.
+Finsler.
+(1926) Paul Finsler o geliştirdiği özel bir gayrı çerçevede yanlış ama kanıtlanamayan olan bir ifadesini oluşturmak için Richard'ın paradoks bir versiyonunu kullandı. O eksiklik teoremleri ispat zaman Gödel, bu yazıda habersiz (Eserler Vol. IV. Toplanan, s. 9). Finsler Finsler bir eksiklik teoremi öncelik vardı hissetti Bu yazıda, hakkında onu bilgilendirmek için 1931 yılında Gödel yazdı. Finsler adlı yöntemleri resmiyet sağlamasının güveniyor ve Gödel'in çalışmaları (van Heijenoort 1967: 328) sadece yüzeysel bir benzerlik yoktu. Gödel kağıt okumak ama derinden kusurlu bulundu ve Finsler onun cevabı biçimsellikle eksikliği (Dawson: 89) ilgili endişelerini ortaya koydu. Finsler kariyerinin geri kalanı için, kayıt altına almanın kaçınmış matematik felsefesi, için tartışmaya devam etti.
+Zermelo.
+Eylül 1931 yılında Ernst Zermelo o Gödel'in argüman (: 76 Dawson) bir "temel boşluğu" olarak nitelendirdiği duyurmaktan Gödel yazdı. Ekim ayında, Gödel 10 sayfalık mektubunda (: 76, Grattan-Guinness: 512-513 Dawson) ile cevap verdi. Ama Zermelo merhamet ve (Grattan-Guinness: 513) "genç yarışmacı oldukça acı paragraf" ile baskı yaptığı eleştirilerini yayınlanan vermedi. Gödel daha anlamsız konuyu sürdürmeye karar verdi ve Carnap (: 77 Dawson) kabul etti. Zermelo daha sonraki çalışmaların çoğu o tutarlılık ve matematiksel teorilerin categoricity hem göstermek için umut hangi ile birinci derece mantık, daha güçlü logics ilgiliydi.
+Wittgenstein.
+Ludwig Wittgenstein onun 1953 "Matematik Vakıflar Açıklamalar" bölümünde ölümünden sonra yayınlandı eksiklik teoremleri hakkında çeşitli pasajlar yazdı. Gödel Wittgenstein'ın erken ideal bir dil felsefesi ve Tractatus Logico-Philosophicus'da çemberin düşünme hakim olduğu dönemde Viyana Çevresi üyesi oldu. Gödel'in Nachlass'ın Yazıları Wittgenstein kasten fikirlerini yanlış yorumlamak inancı ifade eder.
+Juliet Floyd ve Hilary Putnam (2000) yanı sıra, Graham Priest (2004) en çok tefsir Wittgenstein misunderstands savunarak metinsel okumaları sağlanan rağmen birden fazla yorumcu, Gödel (Rodych 2003) yanlış anlama olarak Wittgenstein okudum. onların serbest bırakılması üzerine, Bernays, Dummett ve Kreisel son derece olumsuz tüm bunların Wittgenstein'ın sözlerini ayrı yorumlar, (: 208 Berto 2009) yazdı. Bu eleştirinin oybirliği mantığı toplum üzerinde çok az etkiye sahip eksiklik teoremleri Wittgenstein'ın sözlerini neden oldu. "Wittgenstein o ciddiye anlamına mı geliyor aklını kaybetti?": 1972 yılında, Gödel, belirtilen (Wang 1996: 197) Ve Wittgenstein'ın yorumları yazma eksiklik teoremleri bir kasıtlı yanlış anlama göstermek Karl Menger yazdı:
+2000 yılında Wittgenstein'ın "Nachlass'ın" yayınlanmasından bu yana,
+felsefe kağıtları bir dizi Wittgenstein'ın sözleri orijinal eleştiri haklı olup olmadığını değerlendirmek için çalışmışlardır. Floyd ve Putnam (2000) Wittgenstein önce kabul edildi daha eksiklik teoremi daha kapsamlı bir anlayış vardı savunuyorlar. teori sağlamasının yüklemi gerçek sağlamasının tekabül eden hiçbir modelleri beri aslında, "Ben kanıtlanabilir değilim" diyerek Onlar ω-tutarsız teorisi için Gödel cümlenin yorumlanması ile özellikle ilgilenirler. Rodych (2003) Bays (2004) sağlamasının yüklem Floyd'un ve Putnam felsefi analizler karşı savunuyor ise Wittgenstein bunların yorumlanması tarihsel, haklı olmadığını savunuyor. Berto (2009) Wittgenstein'ın yazma ve paraconsistent mantık teorileri arasındaki ilişkiyi araştırıyor.
+Kaynaklar.
+Çeviriler, İngilizceye Gödel'in kağıt yaşamı sırasında.
+Aşağıdakilerden hiçbiri tüm çevrilmiş bir deyişle ve tipografi katılıyorum. Gödel açıkça vurgulamak istediği, çünkü tipografi, ciddi bir konudur "önce genel anlamda tanımlanmış olmuştu o metamathematical kavramları..." (Van Heijenoort 1967: 595). Üç çevirileri bulunmaktadır. İlk John Dawson belirtiyor of: ";" "Meltzer çeviri ciddi eksik ve yıkıcı bir eleştiri aldı" Sembolik Mantık Journal Gödel da Braithwaite yorumunda (: 216 Dawson 1997) şikayet etti. Undecidable "Neyse ki, Meltzer çeviri yakında Martin Davis'in antoloji için Elliott Mendelson tarafından hazırlanan iyi birer yerini edildi" diye beklendiği gibi "o kadar iyi değil"... O çeviri bulundu "... Zaman kısıtlamaları nedeniyle o yayımı "(age) kabul etti. (Bir dipnot olarak Dawson (age) "yayınlanan ses özensiz tipografi ve çok sayıda yazım hatalarından tarafından boyunca gölgelendi için o onun uyumu pişman olur" demektedir). Dawson, "Gödel tercih çeviri Jean van Heijenoort tarafından bu" diye (age) belirtmektedir. 39 ve üzerinde başlayan: Ciddi öğrenci için başka bir versiyonu Davis 1965 cf yorumlarıyla ( "1934 baharında sırasında Institute for Advanced Study en Gödel tarafından verilen ders sırasında" Stephen Kleene ve JB Rosser tarafından kaydedilen ders notları bir dizi olarak var p 41).; Bu sürüm "Örgün Matematiksel Sistemleri On undecidable Önermeler" başlıklı. yayın sırasına göre:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güney Afrika'da kanıt Hukuku</DOCTITLE>
+<TEXT>
+
+kanıt Güney Afrika kanunu o ülkenin sıfat veya usul hukuku bir parçasını oluşturur. Bu İngiliz ortak kanun dayanmaktadır.
+Orada kanıt Güney Afrika yasasını düzenleyen tüm kucaklayan yasadır: Çeşitli tüzük onun çeşitli yönlerini yöneten, ancak genel hukuk ana kaynağıdır. Anayasa da belirgin özellikleri.
+hukuki ve cezai denemeler, inquests, iade edilmeleri, soruşturma komisyonları vb: yasal prosedürü her türlü aldıkları hangi gerçekler yöneten ve nasıl delil hukukuna bakmak
+kanıt kanunu usul ve maddi hukukun diğer dalları ile örtüşür. Belli bir kural düşer dal karar vermek, diğer branşlarda durumunda, hayati değil, ama biz Güney Afrika sistemde İngiliz hukukunun etkisini göz önüne aldığımızda kanıtlarla o sonradan anlaşılacağı gibi, hayati olabilir.
+Kabul.
+Genel kural partileri kanıtlarla durumlarını kanıtlamak zorundadır olmasıdır. Kabul, bu kurala bir istisna teşkil etmektedir.
+Bir giriş o partinin durumda olumsuz bir parti tarafından bir ifadedir. Söz konusu parti bir kabul olarak nitelemek için bir şey davasıyla olumsuz olduğunu fark etmek zorunda değildir. Olsun ya da olmasın bir şey bağlamında güvenebileceğiniz bir partinin durumunda olumsuz olduğunu.
+Bir, tanımı gereği, kişinin kendi lehine bir şey itiraf edemez.
+resmi ve gayri resmi: Kabul iki kategoriye ayrılabilir.
+Gayri kabul.
+Aşağıda gayri başvuruların kabul edilebilirliği için şartları vardır.
+hukuk davalarında, tek şart alaka olduğunu. ifadeleri yerleşim müzakereler sırasında yapılır nerede ek olarak, bunları yaparken tarafın rızası olmadan alınamayabilir. "Naidoo" 'nin dava bakın.
+Cezai, gereksinimleri
+Başvurular sözlü veya yazılı olarak yapılabilir, ya da davranış olayla ya da bu yollardan herhangi bir kombinasyonu olabilir.
+davranış ile Kabul.
+Sessizlik.
+Sağduyu sessizlik etkisi bir suçlama bir giriş olduğuna işaret edebilir. Ancak, ceza davalarında Anayasa etkisini unutmayın.
+harfleri cevap başarısızlık.
+mahkemeler gibi kolayca bir mektuba cevap için bu başarısızlık sözlü inkar etmek bir arıza durumunda olduğu gibi sessizlik tarafından bir kabul olduğu sonucuna olmaz. Etraftaki koşullar başarısızlık bir konuda yazışma olmuştur, özellikle ticari uygulamalarda olduğu gibi, bir kabul ile eşit olabilir yanıt dair makul çıkarsama izin vermelidir.
+bir partinin varlığında yapılan açıklamalar.
+bir partinin reaksiyon rahatsız tavır ile sessizlik ve inkar gibi reaksiyonlar da dahil olmak üzere, mahkemeye koymak olabilir. ceza davalarında Anayasa bölüm 35 olası etkisini unutmayın.
+Başarısızlık çapraz sorgulama meydan.
+"S v Mathlare" ve "S v Boesak" bölümüne bakın.
+Vekaleten kabul.
+Daha önce üçüncü şahıslar tarafından kabul bazen vicarious kabul olarak kabul edildi: yani, o tarafın yapılmış değil olsa bile partiye karşı başvurdu.
+Onlar kabul edildiği üç ana durumlar vardı
+SCA artık bu tür ifadeler onlar kulaktan dolma olduğu gerekçesiyle, genellikle kabul edilmemektedir karar vermiştir. mahkemesi Kanıt Değişiklik Yasası altında kulaktan dolma delil olarak kabul eden gücünü kullanması durumunda Onlar sadece kabul edilebilir hale gelir.
+Aşağıda vekaleten kabul kabul tutulmuştur bazı kategoriler şunlardır:
+Ancak, şirket mevzuatı uyarınca bir yönetmen ya da mütevelli bir iflas veya benzer soruşturma ile kanıt başkalarına bağlayıcı değildir.
+"Mdani" yasası olarak çekilse bile, bu mahkemelerin bazı durumlarda kulaktan dolma delil olarak kabul eden güçlerini temelinde gelecekte böyle bir kanıt sağlayacak mümkündür.
+Yönetici ifadeleri.
+komplo veya ortak amaç yürütülmesinde yapılan beyanlar komplocular karşı kabul edilmiştir. "S v shaik" in Squires J kararı hukuk ilkelerine detaylı olarak ele ya da anayasal değerleri ile ilkesini uyuşmuyor maalesef bir yönetici açıklama delil olarak alınan izin verir, ama. tamamen açık olmamasına rağmen, "Shaik" temyiz SCA içeriklerinin gerçeği kulaktan dolma kanıtlara ilişkin yasal hukuk çerçevesinde ele alınmalıdır kanıtlamak için ileri sürülen olduğunu yönetici ifadeleri söylemek gibi görünüyor.
+önyargısız yapılan açıklamalar.
+Bir sivil anlaşmazlıkta uzlaşmaya varmak için müzakere sürecinde, taraflar bazen "önyargısız." ifadelerini yapmak politika nedenleriyle bu tür ifadeler, sivil işlemlerinde geçerli değildir. bu ifadelerin bir çözüme ulaşmak için bir "iyi niyetli" girişim yapılmalıdır kabul edilemezlik hak kazanmak için.
+ifadeleri açıklığı ceza davasında sanık tarafından tam itiraflara tutarındaki değil.
+Örf ve âdet hukukuna, ifadeleri özgürce ve gönüllü yapılmış ispat eğer gayri sanık tarafından sadece kabul edilir yaptı. "Serbestçe ve gönüllü" ifadesi tehdidi ile uyarılan ya da yetki birinden söz edilmemiştir sadece anlamına gelir.
+Bir tehdit veya söz "per se" suçlanan zihnini etkileyen olmasaydı, kabul edilemez bir bildirimde işlemek için yeterli değildir.
+"Otorite Kişi".
+Bu terim iki şekilde yorumlanmıştır:
+Ayrı kurallar itiraflarına olarak nitelendirilen tablolar için geçerlidir. Anayasa, bölüm 35 (1) (c), iyi mahkemeler daha önce itirafların kabul edilebilirliği ve kabul kabul edilebilirliği arasında yapılan keyfi bir ayrım hükümsüz için bir fırsat sağlayabilir.
+"S v Orrie" ve "S v Molimi" bölümüne bakın.
+özgürce ve gönüllü yapılan açıklamada ispat külfeti.
+Örf ve âdet hukukuna, sorumluluk beyanı özgürce ve gönüllü yapıldığı makul şüphenin ötesinde kanıtlamak için devletin üzerindedir.
+CPA Bölüm 219a o "eski facie" özgürce ve gönüllü yapılan "oldu" belge görünürse yazılı olarak yapılır bir kabul özgürce ve gönüllü yapılmış olmadığını göstermek için suçlanan bir fırsat sunmuştur yerleştirmek iddia. Anayasa Mahkemesi itirafları için benzer hükümler anayasaya aykırı olduğuna, "S v Zuma" olarak, karar verdi; neredeyse kesinlikle kabul durumunda benzer kural olacaktır.
+kabul özgürce ve gönüllü yapıp ceza davasında belirleme yöntemi.
+Kabul edilebilirlik uygun bir yargılama benzer bir biçimde, bu özel konuyla ilgili taraflarca liderliğindeki delillere dayanarak ", bir deneme içinde yargılanma" bir şekilde belirlenir.
+Biçimsel kabul.
+Genel kural partileri kanıtlarla savlarını kanıtlamak zorunda olmasıdır. Biçimsel kabul bu genel kuralın bir istisnası oluşturur.
+resmi kabul gerekçesi onlar zaman ve maliyetten tasarruf olmasıdır. Sistem deneme raydan ve gereksiz yere yabancı ve gereksiz sorunlar nedeniyle ertelenmişti değil, böylece anlaşmazlık olmayan gerçekleri itiraf insanları teşvik eder.
+gayri kabul farklı.
+onlar (örneğin, hatta bir yargıca) resmi ortamlarda yapılabilir, ancak gayri resmi kabul, bir yandan, genellikle, çıkarıldıkları mahkemece yapılmaktadır; Bununla birlikte, bunların, resmi yapmaz. Biçimsel kabul Diğer yandan, genellikle pleadings bir parçası olarak yapılmış veya oyun kendisi edilmiştir.
+Gayri kabul resmi bir başvuru ise, bir kez yapılan, kabul gerçeğin kesin kanıtıdır, sadece diğer tarafın davasını ispat için yardımcı delil bir öğe oluşturur.
+gayrı kabul tanınan edilecek ağırlık koşullara bağlıdır. Örgün kabul çekilmiş veya belirli formalitelere uygun olmadan çelişkiye edilemez.
+Biçimsel kabul nedeniyle etkileri, açık ve net olması gerekir.
+sivil çalışmalarda resmi kabul.
+Biçimsel kabul savunmalarında sırasında yapılan veya yargılama sırasında kendisi olabilir. CPEA Bölüm 15 bir parti resmen kabul bir gerçeği kanıtlamak için gerekli olmadığını sağlar; ne de yetkili yüzden başvuran gerçeği çürütmek etmektir.
+resmi kabul Çekilme formaliteleri uyum halinde mümkündür. Bir "iyi niyetli" hataydı olmadığına kanaat getirirse, mahkeme sadece çekilmesi sağlayacak ve karşı tarafın hiçbir önyargı olduğunu.
+Parti arayan çekilmesi (bir beyanname gibi) kanıtlarla desteklenen çekilmesi için tam ve tatmin edici bir açıklama vermek zorundadır.
+Hatta çekilmesinden sonra, resmi bir kabul hala kanıt bir öğe olarak dikkate alınabilir; Hala başka bir deyişle gayrı kabul, teşkil edebilir.
+ceza davalarında resmi kabul.
+s 220 CPA altında resmi kabul.
+ceza davalarında, iki tarafında (savunma veya kovuşturma) şimdi diğer tarafın lehine resmi yatış yapabilir. Onlar CPA bölüm 220 altında yapılır.
+Daha önce yasal hüküm common law azından devlet aynı zamanda kabulleri yapabilir pratik bir konu olarak kabul edildi, ancak savunma, yatış yapmak için sadece yapıldı.
+Bölüm 220 şimdi iki tarafında yaptığı kabulleri kapsayacak şekilde değiştirilmiştir. Bölüm 220 resmi kabul onlar örtmek gerçekleri "yeterli kanıt" olduğunu sağlar.
+"S v Malebo" olarak Hiemstra CJ "yeterli kanıt" kesin kanıt anlamına geldiğini düzenledi. Bu nedenle bölüm 220 altında resmi bir kabul derhal ve böylece kapalı gerçeğin kesin oldu.
+"S v Sesetse" Bununla birlikte, Temyiz Bölümü bir kabul sadece yargılama sonunda kesin kanıtı olur düzenledi.
+Çok değil bu anlaşmazlık açar.
+işlemleri tamamlanmış, ancak bir geri kabul hala bazı delil değeri olabilir eğer ceza davasında resmi bir başvuru geri çekilmesi mümkündür.
+Biçimsel kabul ifadeli ve Müphemliğin ortadan kaldırılması için, dikkatle kaydedilmelidir: Açıklık için bir ihtiyaç vardır. Resmi bir kabul mutlaka yazılı olması gerekli değildir, ancak bu açıklık amacıyla tercih edilir.
+Herhangi bir belirsizlik varsa, genel ilke sanıkların lehine yorumlanması uygulanacak olmasıdır.
+Bununla birlikte, resmi bir başvuru etkisi suçladı: temelde Devlet durumda uymayacak bir anlam Devleti bağlamaz.
+suçlu savunma.
+kendisi suçlu bir savunma resmi başvuru türü oluşturmaktadır.
+suçlu bir savunma bölümünün 113 altında suçsuz birine değişmiş sonra, herhangi bir kabul yapmış ve bölüm-113 iktidar tarafından etkilenmez, "bunların delil olarak duracak." Onlar savunma dönüştürülmesi etkilenmeyen veya değişmez suçsuz birine.
+113 kenara diğer resmi başvuruların geri çekilmesi kapsamında daha durumlarda daha geniş bir suçlu bir savunma ayarı için sağladığı bölüm Not: Örneğin, mahkeme düşünürse herhangi bir geçerli nedeni suçlu savunma gerektiğini olduğunu duramaz.
+suçsuz savunma.
+sanık CPA bölüm 115 açısından bir savunma açıklama, verirse o kadar kaydedilmiş ise, o savunma açıklama ile konuya yer bir şey değil resmen bölüm 220 altında kabul olarak kaydedilebilir olup olmadığını başkanı tarafından sorulan , herhangi bir başka bölümü, 220 kabul aynıdır.
+bu yüzden kabul etmez sanık bile, kabul delil malzeme kalır ve gayrı kabul benzer; Gerçekten, onlar gayri kabul etkiye sahiptir.
+Genellikle.
+Mahkemeler sanığın kişisel bilgi ötesinde noktalarda bir Temsil Edilmeyen sanık gelen resmi kabulleri kabul konusunda dikkatli olmalıdır. Bu uygulamada çok sık görülür. suç mahallinde sanığın varlığı onun kişisel bilgisi dahilindedir; Kan testlerinin doğruluğu besbelli değil.
+Çapraz muayene sırasında Kabul (hukuk ve ceza).
+Çapraz araştırmacı tarafından açık iddialar delil ihtiyacını ortadan kaldırarak, yatış teşkil edebilir. Örneğin, ihmal bir trafik durumunda, davalı avukatı o diğer araç sürüş kabul etse de müşteri, herhangi bir ihmal inkar tanık koymak olabilir. Bu sanık sürücü oldu bir itirafta teşkil edecektir. Bu çapraz sorgulama dikkatli ve bakım ihtiyacını vurgulamaktadır.
+PJ Schwikkard ve SE van der Merwe resmi kabul olması için bu tür ifadeler düşünün ve AD yetki güveniyor.
+bir çapraz sınav tarafından kabul örneği için, Zungu davasına bakın.
+Özet.
+karar vermek için ilk şey bir kabul resmi veya gayri resmi olup olmadığıdır. Bu konuda hiçbir kesin kanıt yoksa bu bir itiraf olup olmadığını, bir ceza davasında bir sormak gerekir. Bu soruya cevap olması, bir geri dönüşü olmayan noktayı geçti; tek yol bu atasözü çatal geri kişinin adımlarını takip edemez.
+bir ceza davasında itirafları.
+Bir itiraf, bir ceza davasında gayri kabul özel bir türüdür. Bu bir hukuk mahkemesinde suçlu bahanesiyle eşdeğer suçluluk kesin bir kabul olarak tanımlanmıştır.
+EBM itirafları kabul edilebilirliği için özel kurallar oluşturur. yaptıysanız bölüm 217 açısından, bir itiraf, sadece kabul edilebilir olduğunu
+Burada sıradan bir kabul için daha sıkı gereksinimleri unutmayın.
+teyit ve yazma indirgenir sürece ek olarak, subay (bir kaptan veya daha yüksek) rütbesiyle daha düşük bir polis memuruna barış-is bir adalet dışında bir barış görevlisine bir itiraf, kabul edilemez bu mu bir sulh varlığı.
+itirafların dışlama bölüm 217 uymayan gerekçesi ait hususlar içermektedir
+Mahkemeler bir itiraf ne sıkı bir görünüm alır eğiliminde olmuşlardır. Onlar geçerli bir savunma için bir açılım varsa bir itiraf değil varlık olarak bir açıklama kabul etmek eğiliminde olmuşlardır.
+suçlanan exculpatory açıklama yapmak niyetinde, ama aslında objektif bir itiraf ne miktarda olursa? Daha önce bu konuda bazı tartışmalar oldu, ama şimdi tür açıklamalar nesnel yargılanmak üzere olduğu karar verilmiştir.
+Bir deyim bir itiraf tekabül olmadığına karar verirken, çevreleyen koşullar tam içeriği almak için, baktı gerekir.
+ifadesi olduğu iddia edilen ana yüküne kesin bir kabul teşkil ama objektif biraz daha az ücret (yetkili karar) tam bir kabul teşkil etmese bile, bu itiraftan tutarında olacak ve bölüm 217 geçerli olacaktır.
+s 217 CPA Gereksinimleri.
+Özgürce ve gönüllü yaptı.
+Bu ifade common law de aynı yorumuna verilir.
+Ses ve ayık duyular.
+o / o ne demek olduğunu takdir sanık mı? (Not: "per se" ses ve ölçülü anlamda değildi sanık sonuca yol değil alkol ya da öfke kaybı Tüketimi yok.) Bkz: "R Blyth v"
+Olmadan haksız buna etkisi altında.
+irade sanıkların özgürlüğü söndürmek için hiçbir dış etken işletme olmalıdır.
+Kesinleşmemiş etkisi otoritesi kişi kaynaklanmıyor gerekmez. Şiddet veya şiddet tehdidi açıkça nüfuzu teşkil edecektir.
+kavram aynı zamanda bazı yarar vaat, ya da bir zımni tehdit veya vaat olarak ustaca etkileri içerir.
+Bir itiraf yapılırsa, örneğin sanık tarafından bir beklenti o daha elverişli muamele alacağı: kendini nüfuzu teşkil etmez sanığın gelen Etkiler.
+Mahkemeler olarak bu gereksinimi kabul olan bir sübjektif tek: Aslında etkiledi sanık oldu?
+Aslında bu nedenle otomatik itirafı kabul edilemez hale olmaz sanık etkilememiştir Yanlış tehdit veya vaat ediyor.
+tutuklama zamanda onun haklarını suçlanan tavsiyelerde başarısızlık uygunsuz etkisi olup olmadığını karar vermek için dikkate alınabilir.
+Bir itiraf alarak bir kişi aşırı etki olasılığını dışlamak için röportaj sorguya yükümlü değildir.
+Yasal zorunluluk.
+Daha önce mahkemeler yasal zorunluluk altında yapılan ifadelerinin sağladığı nüfuz kötüye kullanılmak özgür olmak şartı faul düşmemesi tuttu.
+Bu nasıl Anayasanın kendini s 35 (3) (j) suçlu doğru değil ile uyum sağlar?
+barış görevlilerine itirafları için ek gereklilik.
+Bölüm 217 (1) CPA bir koşul içerir: doğruladı ve hakim karşısına yazılı düşürüldü sürece sulh veya sulh hakimi değil barış memurlarına İtirafları kabul edilmemektedir.
+Uygulamada bunun anlamı subay rütbesine-ve müfettiş rütbesi dahil olmak üzere, ve teyit ve hakim karşısına yazmaya düşürüldü sürece rütbesi altında kaptan-olacak değerlendirmeye alınmaz altında polis yetkilileri itirafları.
+Buna gerekçe zorunlu itiraflar istenmeyen uygulama ortadan kaldırılması ve mahkeme tarafından yerine yargılama "karakolda tarafından deneme" dir.
+"Barış görevlisi" anlamı CPA bölüm 1'de tanımlanmıştır. Bu yargıcı, barış adalet, polis yetkilileri ve diğer kategorileri içerir.
+bölüm 217 şart (1) yasaklanması muaf de sulh veya sulh hakimi olan bu barış görevlileri. devreye-subay rütbesine (teğmen ve üstü) Polis yetkilileri de sulh hakimi, ve bu nedenle muafiyet dahil. Uygulamada, bu nedenle, itirafların dışlanması tanımına atıfta yanı sıra diğer yetkililer belirli kategorilerdeki olarak, SAPS constables, çavuş ve erbaşlarına için de geçerlidir "barış görevlisi." Referans kolaylığı için diskalifiye etkilenen yetkililer bundan böyle "diskalifiye yetkililer." adı verilecek
+s 217 şart (1) Sadece "için" diskalifiye yetkililer yapılan ifadeleri dahil olmadığını unutmayın. bir itiraf bu itiraf kabul edilemez hale gelmez yapılan bir diskalifiye memurun sadece varlığı. Örneğin, diskalifiye resmi bir itiraf, bir yapıldığında da bir barış adalet, ya da daha üst düzey bir polis itirafı yapılan görevlisinin, ya da mevcut için tercüman olarak görev bir daha kıdemli polis yetkilisi huzurunda ise diğer kabul edilebilirlik şartlarının yerine getirilmiş olduğundan, eğer özel kişi, itiraf, kabul olur.
+s 217 şart (1) sonradan teyit ve barış sulh veya adalet huzurunda yazılı azalır eğer diskalifiye görevlisine itiraf kabul olur belirtiyor. o kadar doğruladı ve hakimin veya adalet önünde yazılı azalır Uygulamada, yeni bir itiraf olarak kabul edilir ve soruşturma o itiraf olağan kabul edilebilirlik şartlarına uygun olup olmadığı konusunda olacak.
+Ayrıca yargıç olan polis yetkililerine itirafları izin verilir.
+Uygulamada, bir itiraf olmak varsa sulh yargıcının önce alınan şüpheli olması çok tercih edilir. Soruşturmaya dahil olan bir subay yapılan itiraf var özellikle istenmeyen bir durumdur.
+itiraf yapımcısı kişi kime o açıklama yapan bir polis yetkilisi da habersiz ise, şart geçerli değildir.
+ceza davalarında itirafları için ispat yükü.
+Örf ve âdet hukukuna Devlet makul bir şüphenin ötesinde ispat yükü vardır. Bölüm 217 (1) (b) CPA iki değişiklik yaptı:
+Bir ters önemine işaret tanıtmak için aranan çünkü "S v Zuma" Anayasa Mahkemesi, anayasaya olarak bu değişikliklerin ikinci aşağı vurdu. İlk aşağı vurdu değildi, ama kendi çok yapmaz.
+etkisi (makul şüphenin ötesinde) nikahsız sorumluluk bir kez daha geçerli olmasıdır.
+Prosedür itirafı kabuledilebilir kanıtlamak için.
+Her tarafı daha sonra delil yol açar ve bu sayede bir itiraf, bir yoluyla kabul olduğu kanıtlanmıştır "deneme içinde deneme," kendi kabul edilebilirliği konusunda savunuyor.
+istisnai durumlar geçerlidir sürece itirafı genellikle kendisi içeriği o sanık tarafından yapılan iddiasını çürütmek için günah içeriğine atıfta için gerekli olduğunu "S v Lebone", gibi, bu aşamada mahkemede yerleştirilemez söyleyecek ne gibi polis tarafından koçluk olmuştu.
+deneme içinde duruşmaya Kanıt itirafı izin ya da dışarıda olup olmadığını, ana duruşmada "per se" kabul edilemez. itiraf deneme içinde duruşmaya kabul yönetiliyor ise, kanıt itiraf hala ana duruşmada önünün açılması kanıtlamak için.
+Kabul edilemez itiraf sonradan kabul olma.
+Genellikle bir bir itiraf kabul edilebilirlik şartlarını feragat edemez suçladı.
+sanık, ister baş veya çapraz sorgulama, delil adduces itiraf ve mahkeme sanığın bu yüzden ileri sürdükleri delillerden bir kısmının lehine olduğunu düşünmektedir Ama eğer bölüm 217 (3) CPA bir kabul edilemez itiraf kabul kılmaktadır.
+Gerçekler kabul edilemez itiraf sonucunda keşfetti.
+aşağıdaki gibi CPA Bölüm 218 sağlamaktadır:
+Buna gerekçe itirafı delil yanlış güvenilmez kişi, örneğin, itiraf bazı zarar veya bunların sonucu keşfedilen ya da işaret hasar somut delil tehdidini önlemek için olabilir elde ederken, bu yüzden kusurlu değil vesaire, yani : güvenilirlik için bir tehdit yoktur.
+Bu gerekçe bölüm 35 değer vermez (5) açıkça hatta başka güvenilir eğer yanlış elde edilen deliller, hariç tutulabilir öngörmektedir Anayasanın.
+Daha önce mahkemeler işaret dışarı neden ilgisiz olduğunu ne olursa olsun görünümü aldı. kendisi kabul edilebilir olduğunu işaret.
+Şimdi mahkemeleri gizli kabul veya itiraf aslında olup olmadığını görmek için, işaret üzerinden doğaya bakmak.
+anayasacılık gelişiyle bu yana, bölüm 35 (5) Anayasanın CPA bölüm 218 bunu sağlayacak bile, haksız ya da itibardan adalet yönetimini getirmek için muhtemel olarak kanıt reddedilmesine yol açabilecektir.
+yapımcısı karşı tek çaresinin İtiraf.
+Bir itiraf da yapımcısı karşı tek çaresinin olduğunu.
+Özel ayrıcalık.
+Latin etimoloji ayrıcalık-not vermek veya başka kabul edilebilir deliller ortaya reddetme kişisel sağa kelime-anlamına gelir. Bir tanık, aksi takdirde compellable, bazı sorulara cevap vermekle yükümlü değildir. "Levin v Ferreira" bölümüne bakın.
+Ayrıcalık kanıt hariç diğer kurallar farklıdır. Bu diğer kurallar bu gerçeği arayışında göre biraz daha yüksek bir değer korumayı hedeflemektedir nedeniyle bir ayrıcalık kanıtları dışlayan, oysa çünkü güvenilirliği hakkında bazı şüphe dışlamak eğilimindedir. ayrıcalık verilmesi dolayısıyla hafifçe yapılmış değildir.
+ayrıcalık ilkesi bireylerin haklarını korumayı, politika nedenleriyle, hedeflenmektedir.
+Bu yetki ve compellability ayırt edilmelidir. ayrıcalık durumunda, tanık her tanıklık etmeme; o belirli bir soruya ya da sorulara cevap sadece reddedebilir.
+Özel ayrıcalık feragat edilebilir, fakat mahkemeler kişi Feragat bu yüzden onun haklarının bilincinde olan onayı gerektirir. bu tür feragat izin vermeden önce mahkeme bu memnun olmalıdır.
+Mahkemeler genellikle imtiyazının isteksiz isteksiz. Onlar daha çok versin ayrıcalık, daha onlar maddenin altına almakla engelledi.
+Aşağıda özel ayrıcalık bazı kategoriler şunlardır:
+diğer meslekler ayrıcalığını yaşayın olsun veya olmasın sorusu üzerine, aşağıya bakın. ebeveyn-çocuk ayrıcalığı olup olmadığının sorulması üzerine, aşağıya bakın.
+kendi aleyhine tanıklık etmeme ayrıcalık.
+Bir kendini incriminates şey söylemek yapılamaz. Bu masumiyet karinesi doğal sonucu veya sonuç olduğunu ve suç ve hukuk davaları için de geçerlidir. Bazen, hukuk davalarında, bir kişinin cezai kovuşturmaya sonradan yol açabilecek bir şey söylüyor tehlikesi olabilir. Ayrıcalık Bu gibi durumlarda, bir koruma sağlar.
+kendi aleyhine tanıklık etmeme ayrıcalık yemin altında sorguya zaman konuşmaya şüphelileri zorladı İngiltere'de sert Star Chamber, bir şöhreti kaynaklanır. Bu tarihten sonra İngiliz sistemi için çok önemli oldu (politik olarak güçlü aristokrasisi, sıklıkla Star Chamber kurbanı olduklarını beri) kendi aleyhine tanıklık etmeme 1641'de, ilke muhalefeti büyüyen bir sonucu olarak, kaldırıldı.
+Amerika Birleşik Devletleri Yüksek Mahkemesi, "Arizona v Miranda" durumunda, ayrıcalık için anayasal temel hükümetinin vatandaşlarının haysiyet ve bütünlüğüne uyum gerektiği saygı olduğunu düzenledi. diye sordu ve polis tarafından kendi kendine suçlayıcı soruları cevaplamak için yapılmıştı suçlamasının ardından bu kararın geldi. ABD "mirandised." Olmalı Şimdi zanlıları
+Cezai takibat.
+Tanıklar.
+ceza davalarında tanıklar için de geçerli olduğu gibi kendi aleyhine tanıklık etmeme ayrıcalık, 30 Mayıs tarihi itibariyle Güney Afrika konumuna atıfta EBM, bölüm 203 tarafından yönetilir, 1961 Bunun anlamı bir İngiliz hukukuna bakmak gerekir ki , zaman, Güney Afrika yorumlanır.
+Bir tanık, sadece cezai onu suçlu olabilir sorulara değil, sadece hukuki sorumluluk gerektirebilir olanlar yanıtlarken karşı ayrıcalıklı değildir.
+Güney Afrika'da uygulama kural mahkemeleri uyarmak ya da sorun ortaya çıktığında ayrıcalık tanıkları bilgilendirmek gerektiğidir. "S v Lwane", sanık ve eğitim mağaza soyguna karıştığı Diğerlerinde, suç mahalline kaçan ve onlar güvenli bir mesafe olması için ne aldı ulaşmıştı zaman ganimet bölünmesi başladı. Bir argüman dağılımı hakkında patlak verdi. Bunlardan biri bir bıçak çıkardı ve hastaneye gönderildi Lwane, bıçakladı. Polis, Stabber karşı Lwane örneğine bir ücret açtı. (Bu aşamada polisin önceki cinayet ve soygun yeterli kanıt sahip henüz değildi;. Onlar sadece Lwane en bıçaklama ile endişe) bir hazırlık muayenesinde (daha sonra ortak şimdi çok nadir) Lwane ve müşteki olarak o vardı o ve onun ortakları dükkanı soydular olduğu gerçeğini de dahil olmak üzere, söz konusu günün olaylarını anlattı. Kimse kendi aleyhine tanıklık etmeme ayrıcalık onu uyarmıştı. Bu noktada hazırlık inceleme abandnoned edildi ve Lwane muayene yaptığı konuşmada kanıtı önderlik etti deneme, gönderildi. O usulüne uygun suçlu ve ayrıcalık herhangi bir uyarı bulunmadığını kaydetti AD, temyiz edildi. Mahkeme, bu çok önemli bir fark yarattı bulundu ve o onun haklarının bilincinde olduğunu söyledi olmazdı şey temelinde kendisini suçlu haksızlık olur. Kalan kanıtlar inandırıcı değildi çünkü mahkeme mahkumiyet kenara gerektiğini, bu uygulamanın doğru kural gözlenmemiştir olmadığını düzenlenen ve.
+Sorun ortaya çıktığında, mahkeme kendisini suçlayıcı olmadan cevap veremediği sanık iddia için uygun bir temel olup olmadığını belirlemek zorundadır. Mahkeme cevap tanık suçlu olabilir mantıklı nedenlerle tatmin olması gerekir. insanların bir dizi polis tarafından vurularak edildikten sonra "Magmoed v Janse van Rensburg", çok önemli bir durumda, bir polis, tahkikat de ifade veren olmuştu. polis o Söz konusu gün görevli olmuştu olsun veya olmasın sorusuna cevap vermeyi reddetti, ama ayrıcalık iddiasını onadı değildi. temyizde o olması gerektiğini bu yapıldı.
+Tanık CPA bölüm 204 altında uyarılır ise, ayrıcalık uzağa düşüyor: Tanık daha sonra kendi aleyhine tanıklık etmeme ayrıcalığını götürüp karşılığında bir tazminat kazanmak için hakkı verilir. housebreaking bir cinayet meydana görür Örneğin, bir cinayet olduğunu kanıtlar niteliktedir kendini suçlayıcı karşı tazmin edilebilir eğer. Bu devlet stratejisinin bir sorudur: Cinayet açıkça daha ciddi bir suçtur. bölüm 204 prosedürü doğru şekilde takip edildikten sonra, tanık ayrıcalığını kaybeder, ama bu ücret ileride kovuşturma karşı tazminat kazanır. Bu tartışmalı olabilir: Glenn Agliotti ünlü bölümün 204 açısından Jackie Selebi karşı tanık olarak adlandırılan ve rüşvet ödenmiş kabul edildi. Tür durumlarda daha büyük sahtekar onunla kurtulmak için izin verildiğini ileri sürülebilir.
+bölüm 204 altında bir uyarı sonra, ayrıcalık uzağa düşüyor. ayrıcalık kaybetme karşılığında tanık tazminat hakkı kazanır. Bölüm 204 değil savunma, sadece devlete kullanılabilir.
+ayrıcalık tanık zaten Tazmin-o olup olmadığını da önceki bir deneme ya da zaten beraat veya mahkum edilmiş aynı kanıtları vermiş olabilir uzağa düşüyor. Tanık herhangi tehlikeye değil çünkü bu böyledir; kendini suçlama onun riskinde artış söz konusudur. Ne tür durumlarda geçerlidir "autrefois beraat ya da" autrefois convict "ilkesi. Bu nedenle tanık kez tazmin edilmesi için gerek yoktur olmasıdır.
+Bölüm 204 adil yargılanma hakkını ihlal etmez. "S v Suliman" olarak, o kadar ihlal olmadığını iddia edildi; Mahkeme aynı fikirde.
+Suçladı.
+Yargılama öncesi aşamada, bir şey söylemek zorunda değil sanık; Sağ kendini suçlu değil: S v Melani; S v Mathebula.
+Bu ayrıcalık CPA s 37 altında elde edilebilir sanığın özelliklerini, bedensel uzatmak unutmayın:
+Ex parte Adalet Bakanı: yeniden R v Matemba
+Levack v Bölgesel Sulh, Wynberg
+dava Kefalet: soruları suçlayıcı cevap reddedebilirsiniz sanık: o mahkeme bu hakkın suçlanan bilgilendirmek görevi vardır not: CPA s 60 (11B) (c). Ne açıkça bu hakkın haberdar değil sanık ise pozisyon ve kefalet işlemleri sırasında kendisini incriminates? Du Toit ark: En iyi görünüm gibi deliller otomatik olarak göz ardı edilemez ki gibi görünen s 60 (11B) üzerine bir yorum (c): mükemmel konumu anlaşılan sanık olduğu açıktır, neden dışarıda? özellikle zaten bu hakkın bilmek, ya da iyi hukuk usta şüphelilerin durumunda mantıklı.
+Deneme aşamasında:
+• yapabilirsiniz Sanık ama savunma açıklama vermek zorunda değildir: s 115 CPA
+S v Boesak: tanıklık etmek başarısızlık görevlisi risk ve dezavantajları ile birlikte geliyor olsa da, • tanıklık etmek zorunda değildir sanıkları. Mahkeme olayların sadece bir tarafın sürümü konuda karar verme gerekebilir.
+• tanıklık tercih etmez sanık durumunda, ilgili ve başka türlü kabul sorulara cevap vermeme olamaz.
+Hukuk muhakemeleri.
+Hukuk davalarında, tanık ceza davalarında daha ayrıcalık sayesinde daha geniş bir koruma vardır. O suçlayan sorulara cevap vermeme, ya da maruz bırakacağını "ceza veya müsadere."
+bölümünde bir sivil iddiaya 14 sadece poz ayrıcalığını yükseltmek için yetersiz olsa da, unutmayın. "Cezalar veya müsadere" sadece hukuki sorumluluk başka bir şey anlamına gelir. Örneğin, işinizin çalışan bir ceza olur, ya da pasaport kaybetmek zorunda. Ama sadece hukuki sorumluluk veya borçluluk ayrıcalık kapsamında değildir.
+Yasal profesyonel ayrıcalık.
+Çoğu Güney Afrikalı yazar ve olgular ayrıcalık bir dalı olarak bu davranın. Zeffertt "vd.", Kendi kitabının Bölüm 17, iki ayrı dallar gibi davranın. Bu makalede, farklı durumlar için farklı kurallar ile bir dalı olarak davranır.
+Yasal profesyonel ayrıcalık, hem ceza ve hukuk davaları için de geçerlidir.
+Temel kural, bir avukat ve bir istemci arasındaki iletişim müşterinin onayı olmaksızın ifşa edilemez olmasıdır. iletişim değil avukata, müşteriye "aittir". Muvafakat ya da ifşa reddetme müşterinin seçimdir.
+Bu ayrıcalık için gerekçe toplumun hukuki ve cezai anlaşmazlıkları çözmek yardımcı olmak için avukatlar için ihtiyaç gördüğü olmasıdır. onların müşterileri ile iletişimi ifşa etmek zorunda olabilir tehlikesi olsaydı Avukatlar düzgün işlerini yapamadı.
+Bu işlem adaleti temel bir haktır. Hatta Güney Afrika'da anayasal takdiri gelişiyle önce de vardı, ama bu bağlamda daha da önem taşımaktadır.
+Aşağıdaki çalıştırmak için yasal profesyonel ayrıcalık için gereksinimleri birkaçı:
+Ödeme veya hukuk müşavirine ücretlerin ödenmemesi otomatik olarak belirleyici değildir. durum maaşlı hukuk müşaviri ile iletişimi kapsayacak şekilde görünür.
+iletişim güven yapıldığı olsun ya da olmasın, her davanın gerçekleri bağlıdır. yasal tavsiye amacıyla yapıldığı olsun ya da olmasın, yine, her davanın gerçekleri bağlıdır.
+ifadesi, bazı suç planını ilerletmek amacıyla yapılmış ise herhangi bir imtiyaz olacaktır. bir suç planı ilerletmek amacıyla "Harksen v Başsavcı, Cape" in, Harksen algılama veya kovuşturma önlemek için en iyi yol avukat soran bir avukat tavsiye istemişti. Bu avukat suç veya onun tavsiye koymak oldu hangi amaçlarla farkında durum olması gerekmez.
+Hukuk danışmanı genellikle ilk etapta ayrıcalık yükseltmek olsa da, ayrıcalık değil hukuk danışmanı için, müşteri ait olduğunu not etmek de önemlidir.
+müşteri tarafından, feragat, açık veya zımni ya da izafi varsa ayrıcalık uzağa düşüyor. müvekkilinin kendi açıklanmasına rıza beri bu durumda hukuk danışmanı, ifade vermek "olmazsa olmaz". "S v Tandwa" izafi çeşitli önemli bir durumdur. Tandwa büyük bir banka soygunu ile tahsil sanığın bir dizi biriydi. Tandwa banka müdürü oldu ve o suç olduğunu iddia edildi. Tandwa duruşmada ifade vermek için seçtim ve mahkum edildi. Avukat davayı kapalı ona avukat adına görev brüt ihmali olurdu delil vermek için izin vermeden: itiraz üzerine, o deneme düzensizliği bozulmaz edildiğini iddia etti. Danışman, bu yüzden olmadığını söyledi, ancak Tandwa öğüt ayrıcalık nedeniyle, söylemek için izin verilmedi ileri sürmüştür. Yargıç Edwin Cameron bunu politika nedenleriyle her iki yönde, için izin olmadığını Tandwa söyledi. Nedenle Tandwa onun ayrıcalığı feragat ettiğini izafi olmuştu.
+Ayrıcalık hukuk müşaviri ile haberleşme için değil, aynı zamanda katip, sekreter ve tercümanlar gibi hukuk müşaviri çalışanı ile iletişim için sadece vermektedir. "S v Mushimba", böyle bir çalışanın polise ayrıcalıklı bilgilere geçen olmuştu. bir mahkumiyet sonra, bu brüt usulsüzlük temelinde mahkumiyet kenara Temyiz Bölümü, bir fark geldi.
+ayrıcalık da dava amacıyla, müşterileri için hukuk müşaviri örneği potansiyel delil toplamak hukuk müşaviri ve üçüncü taraflar arasındaki iletişimi bağlanır. Bir hukuk danışmanı öngörülen dava kullanılmak üzere belirli bilgileri elde etmek için bir özel dedektif işe nerede bir örnek olacaktır. Bu Ne Zeffertt "vd." Dir dava ayrıcalık olarak bakın. Dava dava tefekkür önce varlığını içine gelebilir yasal profesyonel ayrıcalık sıradan türü, aksine düşünülmektedir sonra bu ayrıcalık sadece ortaya çıkar.
+Mali İstihbarat Merkezi Yasası'nın 37. açıkça Kanunun sıkı raporlama gereksinimlerine rağmen yasal profesyonel ayrıcalık korur.
+Diğer profesyonel ayrıcalık.
+ortak hukuk, doktorlar, muhasebeciler ve din bakanları gibi diğer profesyoneller, en profesyonel ayrıcalık kapsamında değildir.
+Böyle profesyonelleri ile yeni anayasa dağıtım iletişim altında da ayrıcalık kapsamına alınması gerektiği düşünülürse, bazı argüman vardır.
+İngiltere'de, profesyonel ayrıcalık hukuk mesleğinin taşmadığından etkisi son otorite yoktur.
+Güney Afrika'da mahkemeler vesilesiyle CPA bölüm 189 uygulayarak bu tür durumlar için bazı koruma verdik. Bu bölümün altında mahkeme onun tanıklık değil "sadece bahane" varsa bir inatçı tanık cezalandırmak kaçınabilir. Bu gelişme, yasal mesleki ayrıcalığa sahip dört ayak üzerinde olmadığını unutmayın: Bölüm 189 altında, mahkeme iletişim alıcı profesyonel etik çatışma nereye tanıklık bağlı olmadığını düzenledi; Mahkeme bu koruma iletişimin yapıcı kaplı olduğunu, ancak, demek "değil" etmedi. Bir battaniye hukuksal koruma değil, bir karar verilmiş durumda cezalandırmak değil bölüm-189 durum ayrıcalığı farklı olduğunu da unutmayın.
+Medeni ayrıcalık.
+Medeni ayrıcalık CPA bölüm 198 ve CPEA bölümü 10 ile kaplıdır. Bu kamu politikası kaynaklanır.
+anlamını Not "evlilik."
+ayrıcalık sadece evlilik süresince yapılan iletişimi kapsar.
+ayrıcalık iletişim alıcı eşine bağlanır.
+CPA ve CPEA bölüm 12 Bölüm 199 diğer eş yasal olarak cevap vermekten kaçındı olabilir herhangi bir soruya cevap reddedebilir bir eş ayrıcalık uzatmak.
+Ebeveyn / çocuk ayrıcalık.
+Örf ve âdet hukukuna özel ayrıcalık ebeveyn-çocuk ilişkisinin bağlanır.
+Bununla birlikte, bir üst ceza davalarında sanık bir çocuk yardımcı olursa ebeveyn bir hukuk danışmanı benzer bir pozisyonda sonra olduğu gibi, ayrıcalık, ekler.
+ABD'de mahkemeler ebeveyn ve çocuk arasında gizli iletişim için anayasal bir hak tanıdı.
+(Gizlilik sağda) Güney Afrika Anayasası bölümünde 14 altında, Güney Afrika'da böyle bir hakkın geliştirilmesi için kapsamı nedir.
+Devlet ayrıcalık.
+Devlet ayrıcalık gerçekten bir ayrıcalık mı? Oldukça kamu yararı için zararlı olacağını bu delillerin o kabulünde, kamu politikası gerekçesiyle kanıt belirli kategorilerdeki bir dışlama olarak tarif edilebilir.
+HMS Thetis batan endişeliydi.Bizim "cammel Laird v Duncan", İngilizce durumda, bu konuda önemli. Dünya Savaşı sırasında dul ve bakmakla ilgili dava, kaza savaştan önce meydana gelmiş. Davacılar, savlarını kanıtlamak böylece denizaltı planları erişmek istiyordu. Milli Savunma Bakanlığı, bu mahkemede ileri sürülen olamayacağı, buna göre, Taç ayrıcalığı ile başlatılıp savunarak, hassas bir konu olduğunu söyledi. (Savaşın en karanlık noktasında davayı karar) Lordlar Kamarası Taç ayrıcalığını çağırmak için karar uygun biçimde yapıldıktan sonra, bu sorguya olmayabilir, sonucuna varmıştır.
+Güney Afrika'da, bu genellikle Devlet ayrıcalık olarak tarif edilir. Birleşik Krallık'ta bu Taç ayrıcalık çağrılacak kullanılan, ancak bazen bugün denir "kamu yararı dokunulmazlığı."
+Aşağıda Devlet ve özel ayrıcalık arasında bazı ayrımlar vardır:
+İngiliz ortak kanun Kalkınma.
+"Cammel Laird v Duncan" olarak, Lordlar Kamarası ayrıcalığı uygun biçimde iddia edildi ise mahkeme, devlet ayrıcalık bir iddia sorgulamaya asla karar vermiştir. Ama bu karar alındığında hakim aşırı koşullarına dikkat.
+"Conway v Rimmer" olarak yirmi beş yıl sonra, Lordlar Kamarası konusunu yeniden gözden ve yargı kontrolü yeniden. Mahkeme "Duncan" yanlış olduğunu söyledi; Mahkeme "her zaman" fikrini uygulamak gerekir; Her zaman koşullar Devlet ayrıcalığı haklı olup olmadığı konusunda "kendi" zihin makyaj yapmalısınız. Bu durum doğruladı onun denetimli serbestlik olacak değildi bir deneme polis dahil; o suretle davası güçlü hale olabilir, polis onun performansı vardı gizli personel dosyalarına erişimi istedi. Bakan Taç ayrıcalığı çağırarak bir sertifika verdi. Bu meydan. Mahkeme, "Bir quo" o "Duncan" bağlı ve belki de ilk kez Lordlar Kamarası daha önceki bir kararını tekrar ziyaret edilmiştir söyledi. Tek bir polis performans masaya edilirse ne, diye sordu, devlete zarar olabilir? Biraz utanç verici olabilir, ama hiçbir ulusal güvenlik sorunu oldu. Mahkeme karar için ne olduğunu ve mahkeme kayıtları ortaya gerektiğini "in casu" karar verdi.
+bu iki bağlam ve hakim koşullar ulusal güvenliği başta olmak üzere, önemli idi; Gerçekten, onlar muhtemelen belirleyici idi.
+Güney Afrika Kalkınma.
+"Van der Linde v CALITZ" in "cammel Laird v Duncan" Güney Afrika bağlayıcı, ama Temyiz Bölümü, mahkeme son sözü söyleme sahip olduğunu karar, deplasmanda Lordlar Kamarası makamdan kırdı. Bu karar "Conway v Rimmer" beklenen. Güney Afrika Free State il müdürlüğünden için çalışan oldukça genç memurunu kapsayan, oldukça benzer koşullarda, diğer bir deyişle, ilk var. Periyodik raporlar personel performansı yapılmış ve söz konusu resmi onu rahatsız bir derece verildi, bu yüzden hakaret için dava açtı. O davasını ispat olabilir, onun performansı gizli raporları ellerini almak istedim. Mahkeme, bu gibi bir konuda ulusal güvenliği çağırarak saçmalığını kaydetti.
+"Cammel Laird" pozisyonuna durumu geri 1969 yılında bu karar ve geçirilen mevzuata mutsuz Parlamentosu. yürütme kanıtların açıklanmasını engellemek için mutlak ve tartışılmaz güç vardı, hiçbir sebep gerekli. Bakanın sertifikası kesin oldu. Mahkemenin gücünün devirmesi tehlikede sadece nerede ulusal güvenlik uygulanacak karar verin, böylece 1972 yılında mevzuat, biraz rahat. Milli güvenlik, başka bir deyişle, yine belirleyici konuydu.
+Genel Hukuk Değişiklik Yasası, konu durum böylece etkili için "Van der Linde v CALITZ" döner 1996 yılında (Anayasa Mahkemesi'nden yönlendirmesi olmadan, Parlamento'nun kendi inisiyatifi ile) yürürlükten kaldırılmıştır İç Güvenlik Yasası, bölüm 66 ile değiştirilmiştir Tabii anayasal hususlar.
+Bilgi Bill, 2010 Özgürlüğü altında, bölüm 46 açıklanmasını sipariş için mahkemeye takdir bırakır.
+o haklı bir sınırlama olmadığı sürece anayasal dönemde Anayasa ile çatışan hukukunda şey, tolere edilmeyecektir.
+Hükümet Lesoto, bir elmas madencilik kooperatif ile ilgili "RSA Swissborough Diamond Mines v Hükümet" maden haklarına müdahale gidiyordu. şirket Güney Afrika bunu yapmak için Lesotho baskı istedi. Güney Afrika reddetti ve şirket geçmişi hakkında Güney Afrika hükümeti bilgi arayan karşı uygulamayı getirdi. Hükümet karşı çıktı. Mahkeme, fikrini uygulamalı açıklanmasını emretti ve bazı ilkeleri dile getirilen:
+Schwikkard ve Van der Merwe, iki ileri gereksinimleri ya da ilkeleri öneririz:
+adli arena dışına bilgiye erişimi ile ilgilenir idare hukuku, farkı ya da burada bir ayrım dikkat edin. Devlet ayrıcalık, aksine, bazı bilgiler kanıt yoluyla mahkemeye koydu olabilir mi ilgilenir.
+"İstihbarat Hizmetleri Bakanı v Bağımsız Gazeteler", başvuran bazı mahkeme işlemlerinin kayıtlarında yer alan kısıtlı malzeme mecbur kamuyu aydınlatma için başvuruda bulundu. Bakan ulusal güvenlik gerekçesiyle açıklama itiraz. Mahkeme adil ve objektif bir değerlendirme yapmak ve ulusal güvenlik politikasını uygulamak için iki rakip iddiaları-başvuranın sağ "açık adalet" ve anayasal kaynaklı güç ve yürütme görev arasında uyumlu bir denge çarpıcı gerekli karar vermiştir. Bu durumda duyarlı devlet güvenlik konularıyla ilgilenen rağmen, bu gibi ayrıcalık ilgili değil.
+Suçun tespiti.
+Örf ve âdet hukukuna Devlet bir muhbirin kimliğini ortaya ya da başka suç tespiti yöntemleri göstermek eğiliminde olur iletişimin açıklanması karşı korunmaktadır. Bu dalın bir tür tartışma konusu olduğunda dönem "muhbir ayrıcalık" sık karşılaşılan bir durumdur. muhbir ayrıcalık korunması için en az üç nedeni vardır:
+suç tespit yöntemlerinin açıklanması karşı ayrıcalık ceza adalet sistemi korumak için gereklidir.
+Temyiz Bölümü ayrıcalığı muhbir belirli sınırları ayarlayın. Pillay örneğinde, kamu politikası gerektirdiğinde, ve en azından, aşağıdaki durumlarda, rahat olacak nerede ayrıcalık sadece çalıştığını düzenlenen:
+muhbir ayrıcalık Anayasa mı? ABD Yüksek Mahkemesi, bu olabilir düzenlenen suçlanan adil yargılamayı inkar etkisi yoktur sağlamıştır.
+Kulaktan dolma.
+"Kulaktan dolma" nikahsız tanım mahkemeye tanık olmayan biri tarafından yapılan açıklamaya olarak tanımlıyor. yatış oluşturan ifadeler bu tanım altında, ya da aşağıda belirtilen kanuni tanımı altında girmemektedir.
+nikahsız pozisyon kulaktan dolma delil genellikle belirli istisnalara tabi hariç olmasıdır. (Bu istisnalar. Zamanla dondurulmuş oldu) her durumda sorunu tanınan istisna kapsamına bir durum getirmek için çalışmaktı.
+Durum şimdi sözlü olsun veya yazılı delil "olarak" kulaktan dolma "tanımlayan Kanıt Kanunu Değişiklik Yasası, 3. bölümünde, yasayla kaplıdır, ispat kudretini değeri kişinin dışında herhangi bir kişinin güvenilirliğine bağlıdır delil vererek. "
+Bu tanım gereği gündeme ilk soru şudur: ne demektir cevabı bu ifade kredibilitesi ispatlayıcı değeri öncelikle dayanır konusuna atıfta olduğu görülmektedir "bağlıdır?".
+Bölüm 3 söylenti genellikle kabul edilemez bir dizi istisnaya tabi olduğunu sağlar. bölüm kulaktan dolma kabul edilebilir altında kategorilerden bir sayısını listeler:
+O parti tanığın aslında vererek delillerin hiçbir umudu yok bilen varsa bir parti geçici kulaktan dolma delil yol için yanlıştır.
+Bölüm 3 (1) (c) adaletin menfaatine ise kulaktan dolma delil sağlamak için mahkemenin genel gücü ifade eder. Bu yasal istisnalar en önemli ve geçmişte en radikal mola. Düzgün kulaktan dolma delil olarak kabul eden bir "takdir yetkisi" denir. Mahkeme bunu itiraf etmeliyim.
+bölüm açısından sahası, 3 (1), (c), altı açık bir şekilde belirtilen faktörlerin yanı sıra, göz önünde "başka faktör."
+açık faktörler şunlardır:
+sorusunu Not: kulaktan dolma kabul Anayasanın çapraz sorguya bölümünde 35 (3) (i) sanığın sağda ihlal misiniz? Bu önemli bir usul haktır.
+SCA bazı çok açık politika hükümleri ortaya konan ve bir çok geniş kapsamlı bir karar verdi "S v Ndhlovu" durumunda dikkatli not edin. Bir çete cinayet ve soygun suçlandı; yakalanması, bazı üyelerinin polise itiraflarda bulunmuştu. Bu tür bir giriş özellikle önemli olduğu kanıtlanmıştır. Onun yapımcısı karşı delil olarak izin verildi. Devlet başvurusu üzerine, ilk derece mahkemesi onun co-sanık karşı da kabul itiraf etmeye karar verdi. Bu SCA temyiz gitti davanın sonucu, belirleyici kanıtladı. Cameron JA çoğunluk kararını yazdı ve bazı işaretçiler sağladı:
+SCA üç ve dört sanık sayıları bir ve iki aleyhine delil olarak kullanılmak üzere sanık sayılarla kabul içeriğini izin verdi.
+Ayrıca co-sanıkların sertifikalı tablolar şeklinde rivayet izin mahkemenin en gücünü kullanarak benzer bir örneğin 45-48 de Mokoena v S bakın.
+"S v Mathonsi", mahkeme çürütülmüştür olan bir tanığın eski tutarsız açıklamada şeklinde bu bölüm altında rivayet itiraf etti.
+2003 SALJ içinde Schwikkard tarafından nota bakınız.
+SCA son zamanlarda çok uzak "Ndhlovu" itme karşı uyardı. Ama "S v Rathumbu" son durumunu görürüz.
+"Başka bir faktör".
+Bölüm 14 "Kanıt İlkeleri", söylenti kural nikahsız istisnalar bu başlık altında alakalı olabileceğini düşündürmektedir.
+Ayrıca "S v Mnyama" ve "S v Hewan" bölümüne bakın.
+bölüm 3 dikkatli uygulama bir örnek için (1) (c), "S v shaik" bölümüne bakın. Ayrıca "S v Ralukukwe" bölümüne bakın.
+"S v mpungose" olarak, bir tecavüz kurbanı amacı onun ifadesini önlemek için olduğunu düşündüren bir şekilde öldürüldü. Daha önce yıkıcı bir şey, ama kulaktan dolma, sanığa, daha sonra mahkum edildi kim söylemişti. Bu inanç temyizde bozuldu.
+Nikahsız istisnaları söylenti için.
+Ortak Kanun kapsamında iki ana kategorisi vardır:
+Spontan exclamations.
+spontan exclamations izin temeli onların güvenilirliktir. Dört ana gereksinimleri vardır:
+Yasal istisnalar kulaktan dolma için.
+Aşağıdaki yasal istisnalar kulaktan dolma şunlardır:
+Önceki tutarlı ifadeleri.
+Bir "önceki tutarlı ifadesi" karşılık veya mahkeme ifadesinde önemli ölçüde benzer önce tanıklık tanık tarafından yapılan bir açıklamada, yazılı veya sözlü, olduğunu.
+Genel kural bir tanık hakkında tanıklık izin verilmez olmasıdır, ne de başka bir tanık, bir önceki tutarlı açıklama desteklemek için denebilir.
+dışlama gerekçesi tür ifadelerin uygunsuzluu ve değerde ispatlayıcı onların eksikliği ve onlar imal edilebildiği kolaylığıdır. izin vermek için onları çok zaman kaybına kapı ve teminat konularında keşif açmak olacaktır.
+kural da kendine hizmet ifadeleri karşı kural olarak bilinir.
+Onlar tutarsızlık ve böylece güvenilmezliğini gösterme eğilimindedir çünkü Önceki "tutarsız" ifadeleri, tanık karşı kabul edilebilir.
+kuralın uygulanmasına ilişkin bir örnek "R v Roberts" de bulunabilir.
+Genel kurala istisnalar.
+Son imalat öneri çürütmek.
+"Son" Söz konusu olay, önceki ifadesine sonra gelir. iddianın açıkça veya ima yoluyla yapılabilir. Değil güvenilirlik her saldırı son imalat bir öneri oluşturmaktadır. Bu kanıtları izin temeli alaka olduğunu.
+Cinsel durumda Şikayet hangi bir kurban vardır.
+Olayın makul bir süre içinde bir mağdur tarafından yapılan açıklamada kabul olduğunu. Bu ortaçağ kavramı geliyor "renk tonu ve ağlama." Bu kadın ve erkek kurbanların için de geçerlidir ve bu rızanın yokluğu suç ya da değil bir unsur olup olmadığını geçerlidir.
+şikayet gönüllü olmalıdır. Kurban tanıklık gerekir. şikayet İlk gerçek fırsatta yapılmalıdır.
+Bu tür ifadeler delil değeri sınırlıdır. Onlar doğrulanmasını teşkil etmemektedir.
+Bu sorunu artık mevzuata tabi olduğunu unutmayın. önceki tutarlı tabloların kanıtlar cinsel suç olgularında kabul, ama mahkeme bir şikayette bulunmak yetmezliği olumsuz bir çıkarım çekemez. Mahkeme ayrıca, böyle bir suç raporlama gecikme uzunluğu olumsuz bir çıkarım çekemez.
+Not insanlar bazen hemen bu tür suçlar rapor niye göstermek için uzman kanıt alınmalıdır. "Holtzhauzen" olarak, iddia edilen mağdur bir kanıt kurşun istemişti hipnoz-buna izin-ve o hemen öne çıkmamıştı neden bilirkişi değildi. (Bu izin verildi "".) Ceza Hukuku başlamasından (Cinsel Suçlar ve İlgili Konularda) Değişiklik Yasası öncesinde, uzman kanıt bazen raporlama gecikme açıklamak için önderlik etti. Tür kanıtlar artık yeni tüzük açık hükümleri göz önünde bulundurularak, gerekli olacağını ileri sürülebilir.
+Bu mevzuatın kritik bir tartışma için, 2008 125 SALJ 642 yılında Zeffertt ark bakın.
+Kimlik.
+insanlar hata yaparlar çünkü böyle bir kanıt, potansiyel olarak sorunlu olduğunu. Sanığın dok tespiti halinde, tanığın daha önce, örneğin, bir kimlik geçit töreninde, tanık tespit ettiğini ifade edebilir. Diğerleri de tanık gibi önce kimlik göstermek tanıklık edebilir.
+tanık önceki ifadeleri.
+Bunlar CPEA Bölüm VI altında bazen kabul edilebilir, ve CPA bölüm 222 gereği de ceza davalarına için de geçerlidir. Böyle önceki ifadeleri tanık doğrulanmasını anlamına gelmez.
+Res gestae (oldu şeyler).
+Bazen önce tutarlı açıklama bu kadar yakından izin verilecek değil "res gestae" ile ilgilidir. "S v Moolman" olarak Moolman stok-hırsızlık vakalarını araştıran bir polis oldu. o onları itiraf almak için işkence ile olmuştu çıktı, çünkü çok başarılı oldu. yargılandı, o sayısız saldırı ile suçlandı. Moolman onun polis cep kitabından delil açtı; Başka bir deyişle, onun notlarında. Mahkeme cep defteri girişleri onun günlük rutin bir parçası olarak yapıldığını, itiraz üzerine, düzenlenen ve çok yakından olayları kendileri ile bağlı idi.
+Canlandırıcı bellek.
+Burada "şifahîliğin üstünlüğü" şartı Not - "sözlü" kanıta ve önceki tutarlı ifadeleri kanıtlayan karşı genel bir kural.
+Orada yasal istisnalar vardır, ama burada onları detaylı olarak girmek için gerekli değildir.
+genel hukuk olmayanlar hükümleri kapsamına birçok alanları kapsamaktadır. müşterek hukuk önceki yazılı açıklamada ferahlatıcı bellek durumunda, bir yarı-istisnası için izin verir.
+(Her zaman bu açıklamaya takılarak olası ayrıcalık kaybolmasına neden olmaz, çünkü izin) ve tanık ferahlatıcı kişinin hafıza ifade vermekten önce ferahlatıcı kişinin hafızasına ayırt etmek önemlidir. Ne ikincisi durumla fiyatlarını takip ediyor.
+Bir tanık önceden yazılı açıklamada onun hafızasını tazelemek için izin verilecektir önce aşağıdaki gereksinimlerin karşılanması gerekir:
+Etkinliğin bağımsız hatırlama veya olayın bir kısmını olması tanık için bir ihtiyaç vardır.
+Amerika Birleşik Devletleri'nde, bir ayrım "Mevcut hatırlama canlandırdı" arasında, çağdaş psikolojik teorisine dayanan, çizilir "kaydedildi geçmiş hatırlama." Bu ayrım su geçirmez değildir.
+Güney Afrikalı mahkemeleri henüz derinlemesine Bu ayrım içine gitmiş değil.
+Belgenin Durumu hafızasını tazelemek için kullanılır.
+belleğimizi tazelemek için kullanılan belgenin doğru durumunu Not: Uygulamada bu ayrım bir tıbbi uzman bir profesyonel rapor, örneğin, olduğu gibi, uygulamak zor olabilir, ancak ortak hukuk başta, bağımsız delil teşkil etmez. Bu nedenle, bir "yarı-durum" dir.
+Bir tanığın raporu kullanıldığı takdirde İdeal, tanık onaylamak ve onun kanıt parçası olarak kabul sorulmalıdır.
+Benzer-Aslında kanıt.
+Benzer gerçekler davada taraf (genellikle suçlanan) daha önce benzer şekilde hareket ettiğini gösteren yönelik gerçekler ve bu nedenle kendisine karşı iddia ne yapmış olasılığı daha yüksektir. Örneğin, daha önce hırsızlık mahkum oldu sanık; bu nedenle de bu vesileyle hırsızlık suçlu olması daha muhtemeldir. konusu da polisin sistematik kişilerden bazı itiraflarda için şüphelilere işkence iddiasıyla gibi, suçlanan kim olmayan kişiler söz konusu olduğunda ortaya çıkabilir.
+Benzer-Aslında kanıt ilgisizlik sebebiyle, genellikle kabul edilemez. hem mantıksal ve yasal olarak ilgili olduğunda sadece kabul edilecektir.
+Benzer-Aslında delillerin dışlanması için politika nedeni onun değerde ispatlayıcı ağır basar onun önyargılı etkisi olduğunu. sanığın önceki mahkumiyet Kanıt son derece önyargılı olurdu, ama düşük ispat değere sahip olacaktır. dışlama Diğer olası nedenler aşağıda sıralanmıştır:
+Kural formülasyonu.
+1890'larda hükümdarlık Konseyi karar "New South Wales için Makin v Başsavcı" davası, mahkemelerin benzer-gerçek kanıt sağlayacak olan istisnai durumlarda lider durumda:
+Bu "" Makin "kuralı olarak bilinir."
+"Makin" kuralı doğru mahkemeler geçmişte benzer bir gerçektir delil izin aldığınız tüm durumları yansıtan değil eleştirilmiştir.
+Örneğin, bakınız, mahkeme sanık söyleyerek gole çok yaklaştı "R v Straffen", çünkü daha önce işlediği iki çok benzer cinayetlerin suçlu oldu. Mahkeme o cezai sorumluluk dışında bir devlet iken onları yapmış olsa bile, daha önce benzer işler yapmış kanıtlar sağladı.
+Daha iyi görünüm aşağıdaki yeterliliğe sahip olmalı "Makin" kuralı eklendi gibi görünüyor: ". gerçeklere o mahkemeye konuyla son derece alakalı bir eğilim ise sadece eğilim kabul edilecektir kanıtlıyor Bazı durumlarda delil olarak"
+"Makin" in daha yararlı bir formülasyon için "R v Bond" Bkz: "Zaman yakınlığı olarak, yöntemi ya da koşullardaki gerçeklerin iki takım arasında bir bağ, aksi takdirde hiçbir çıkarım güvenle bundan kaynaklı olabilir olmalıdır."
+"DPP v Boardman" mahkeme açıkça Makin kural onaylanmış, ama aslında daha esnek bir test uygulandı: onun ispatlayıcı değeri zarar etkisini aştığı Benzer-gerçektir kanıt kabul olduğunu.
+aşağıdaki gibi Rab Wilberforce yargısı sağlanan:
+Aşağıda önde gelen İngiliz vakaların bazıları şunlardır:
+"S v D" Güney Afrikalı bir durumda, mahkeme, çünkü sanıkların "modus operandi" çarpıcı benzerlik, başka kanıtlamak için bir sayım kanıtlar kullanarak, "DPP v Boardman" uygulanmıştır. Söz konusu sanık Johannesburg alanında tecavüz ve soygun bir dizi ile suçlandı. kurbanını accosting, her durumda, onu tecavüz önce, sonra onu eşyalarınızı kaldırmak ve onu kazanılmış vardı, "Uzan." anlamına gelen "aşağı Uyku" dedi bir sayımında, tanık onu tanımlamak edemedi, ama ona ne oldu onu açıklama, benzer gerçeği kanıtlar, bu yeterince iyi diğer örneklerini çok çarpıcı biçimde benzer oldu. Bu durumda ve "Makin" o arasındaki farkı unutmayın.
+Bu ilkelerin Güney Afrika uygulamasının iyi bir örnek olarak, son durum "R v Sole" bölümüne bakın. Orada Lesoto bir baraj inşaatı olduğunu ve Taban O rüşvet almaya başladı sözleşmeleri nezaret yüksek yerleştirilmiş resmi, vb, ve usulüne uygun suçlandı. Mahkeme, bazı sayıları ona karşı delil güçlü değildi, ama saygı diğer sayıları delillere vardı, eğer izin verilmesi gerektiğini söyledi. Yani mahkumiyet bile tek başına ayakta kanıt yeterince güçlü olmazdı sayıları izledi.
+Benzer durum kanıt sayısında gerçekleri çözmek için sadece izin olduğunu unutmayın. savunma niteliğine sayısında neler olduğunu bağlı olacaktır. Savunma bir mazeret, belirli bir yerde sanık varlığı ya da yokluğu olduğu Örneğin, çok önemlidir ve benzeri gerçeği kanıtlar makul alakalı olabilir. savunma kendini savunma ise, ancak, farklı düşünceler geçerlidir.
+Geçmişte, mahkemeler bazen benzer bir gerçektir delil kabul edilebilir olup olmadığına karar vermek için kategoriler halinde vakaları koyduk. ilkeler her zaman kolay pigeonholed edilemez, bu yöntemde, bir tehlike Ancak bulunmaktadır. Kategoriler dikkat etmek yine yararlıdır.
+Aşağıdaki istisnalar ele altında kategorilerden bazıları şunlardır:
+Pratikte ortaya çıkabilecek bir durumda, iki farklı türde Not:
+Benzer-Aslında kanıt kabul edilmek için aranan zaman ilk durumda, konu aşamasında ortaya çıkacaktır.
+İkincisinde, benzer bir gerçektir kanıt meşru mahkemeye zaten. Sorun diğer sayım durumunda gücünü göz önüne alındığında mahkemenin "DPP v Boardman" olarak dikkate almak olabilir mi olacak.
+Önceki işler çok fazla kanıt sağlayan Amerika Birleşik Devletleri'nde bazı ülkelerde suçlar (özellikle cinsel suçlar) belirli türleri ile ilgili nikahsız kuralı radikal yasal müdahale olmuştur unutmayın. Kaliforniya'da benzer bir hüküm muhtemelen nikahsız kuralları çerçevesinde hariç olurdu durumlarda iddia önceki görevi kötüye kanıt Michael Jackson'u davasında kabul yol açtı.
+İngiltere'de nikahsız kuralları yürürlükten kaldırılmıştır ve son yasal hükümler yerini unutmayın. Bu hükümler ABD'de daha az radikal görünüyor. Çünkü İngiliz ortak hukuk kurallarına yasal değişiklik, bu noktada gelecek İngiliz vakalar Güney Afrika hukuka az alaka olacağı muhtemeldir.
+hukuk davalarında benzer bir gerçektir kanıt.
+Benzer durum kanıt sorunu da hukuk davalarında ortaya çıkabilir. Uygulanabilir kurallar büyük ölçüde ceza davalarında aynıdır, ancak zararlı yönü az sorunlu olarak uygulamada mahkemeler, bu tür kanıtları kabul etmeye daha meyilli olma eğilimindedir.
+Springs Delew v Belediye Meclisi "olarak Delew konseyi diye içmişlerdir güç miktarına konusunda haklıydı inanmıyordu. Mahkeme, benzer aslında kanıt hariç.
+"Laubscher v Ulusal Foods" olarak Laubscher sonradan ölmüştü, onu tükettikten sonra, onun hayvanların beri, hayvansal gıdaların üreticisi dava açtı. Aynı kaynaktan gelen gıda satın almıştı, diğerleri sorun aynı türde çektiği delil yol istedi. Mahkeme hayır dedi.
+"Gosschalk v Rossouw" olarak, tutuklu polis tarafından iddia edilen saldırı oldu.
+Tuzak.
+Bu sorun CPA bölüm 252A ile kaplıdır.
+Bu hükmün arkasında iki temel politika sorunları vardır:
+Bir tuzak başka mahkumiyet güvence amacıyla, kendisine bazı suç davranışları önermektedir, bir kişidir ", ve kendini görünüşte o vesile yaratır Başka bir deyişle burada yer alıyor: Bu tuzak nikahsız anlamıdır. başkasının suçunu işlemek için. "
+Tuzak bir "pro-aktif bir soruşturma tekniği." Denilebilir Bu pasif bir suç işlediği için bekleyen bir olgu değildir; Bir suç aktif tahrik olduğunu. Bu tuzaklar kaçak satın içine suçlanan cezbetmek, özellikle tartışmalı olabilir.
+Örfi hukuk anda, tuzak hiçbir savunmadır. Mahkeme hafif cezayı vererek polisle onun hoşnutsuzluğunu açıkça göstermek için nikahsız ilkelerine daha eğimlidir.
+Bununla birlikte, Anayasanın bölüm 35 (5) ile potansiyel çatışma Not: Bu tür durumlarda yargılamanın adil midir? Güney Afrika tuzak bir savunma tanıma yol gitmek değil, tuzak delillerin kabul edilebilirliği ile ilgili mevzuat yoluyla sıkışmasını düzenleyen seçmiştir.
+"S v Kotze", polis bir elmas raket bir kasabasında üzerinde gittiğini bilgi aldı. Onlar elmas dalından bir polis kullanarak, bir tuzak kurdu. O resmen polis servis dışı işlendikten olan grup sızmış. (. Bu o devirip sanki bakmak yapılan) ilk dokuz ayında, o topluluğun bir parçası olarak kendini kurmak; operasyonlar bundan sonra başladı. Birkaç ay daha sonra, polis birçok savcılık altına almıştı. Kotze, toplumun bir yüksek profilli üyesi tuzaktan elmas satın yakalandı, ancak o da raket yakından ilgili olduğunu ortaya çıktı. SCA itiraz üzerine, ezici bir çoğunlukla ona karşı kanıt, o mevzuata göre o haksız yakalanan edildiğini savundu. SCA kabul etmedi.
+1996 yılında yürürlüğe giren CPA, Bölüm 252A, tuzaklar ve gizli operasyonlar düzenlemektedir. mevzuat bu kavramların birini tanımlamak unutmayın.
+Bölüm 252A (1) tuzakları tespit araştırmak ya da herhangi bir suçun işlenmesini ortaya çıkarmak, ya da herhangi bir suçun işlenmesini önlemek için kullanılabileceğini sağlamaktadır.
+bir suç işlemek için bir fırsat sağlayarak ötesine geçmez ise bu şekilde elde edilen kanıtlar kabul olduğunu. kanıtlar sınırın ötesine yoksa bile, ancak, mahkeme buna izin bir takdir yetkisine sahiptir.
+Bölüm 252A (2) dikkate alınacaktır koşullarını göz-bu, ancak, delil suç işlemek için sadece bir fırsat ötesinde olup olmadığını belirlemek -to bir "Brightline testi" dir ortaya koymaktadır:
+kriterlerden bazılarını mantıksızlığını edin.
+Listelenen faktörler değerlendirilmelidir nasıl bir örnek için "Hammond" bölümüne bakın.
+anlamı değerlendirilmek üzere "S v reeding" görmek "suç işlemek salt fırsatı ötesinde."
+Ayrıca "S v Van den Berg" bölümüne bakın, ama aynı zamanda hükümlerin daha az kritik "S v Kotze".
+bölüm 252A (3) açısından, mahkeme uygun gördüğü takdirde bir suç işlemek için sadece bir fırsat ötesinde kanıt dışında tutabilir
+Bu sonuca gelmeden, mahkeme sanık çıkarlarına karşı kamu yararını tartmak zorundadır.
+bölüm 252A uygun bir yorumlanabilmesi için (3), savcılık söz konusu davranış bir fırsat salt bir mobilya ötesine gitmişti kabul "S v Kotze", bkz.
+DPP tarafından Kuralları.
+DPP tuzakları yürütülmesi ile ilgili genel veya özel kılavuzlar çıkartabilir. Burada iki önemli nokta vardır:
+DPP kurallarına sorunu için "zorunlu" olmadığını unutmayın.
+tuzak parçası üzerinde hiçbir cezai sorumluluğu.
+Bir tuzak iyi niyetle hareket cezai yükümlülük yaratmaz.
+muhtemelen iyi niyetli gereksinimini aşan bir tuzak, DPP yazılı yetkisi olmadan, hiçbir kovuşturma olabilir.
+Sorumluluk kabul edilebilirliğini gösterir.
+Savcılık ancak olasılıklar bir denge üzerinde, kabul edilebilirliğini gösteren yükümlülüklerini de ortadan taşımaktadır. Bu makul bir şüphenin ötesinde kabul edilebilirliğini göstermek için, normal sorumluluğunun aksine olduğunu. statüsü, diğer bir deyişle, sorumluluk düşürdü. Bu sorumluluk şüpheli anayasaya sahiptir. In "S v Kotze, davanın gerçekleri ihtiyaç duyulması halinde bu konuyu dikkate almalarını yapmak değildi, ama mahkeme" dedi obiter "diye sorumluluk makul şüphenin ötesinde olmalı ve aynı zamanda bölüm 252A uyum gerektiğini vurguladı (6) . suçlanan meydan temelinde bir göstergesi verilmelidir. mahkeme sorumluluk makul şüphenin ötesinde olduğunu kabul de "S v Naidoo," bakın.
+itiraz gerekçesiyle yola suçlanan bir görev olduğunu unutmayın.
+kabul edilebilirlik belirleme yöntemi, bir deneme içinde deneme yoluyla, genel olarak, bir.
+bölüm 252A ile ilgili bazı durumlar şunlardır
+s 252A Eleştirisi.
+esas olarak Anayasanın, ki anayasal hükmün belirtilen kişilere farklı kabul edilebilirlik şartlarını uygulamak gibi görünüyor (5) bölüm 35 ile çatışma görünen temelinde, bölüm 252A bazı eleştiriler olmuştur.
+Tuzak kanıt dikkatle tedavi.
+Bu mahkemelerin dikkatli tuzak kanıtları tedavi olan ortak bir hukuk temel ilkedir.
+gizli bir polis yetkilisine bir itiraf CPA bölüm 217 koşulla isabet değildir.
+hukuk davalarında Tuzak.
+hukuk davaları için geçerlidir EBM o bölümünü 252A unutmayın.
+Daha önce nikahsız tuzak ile güvence olmuştu hukuk davalarında delil vermemek vermedi. Şimdi soru mahkeme bu tür delilleri izin vermemek için herhangi bir takdir yetkisine sahiptir olup olmadığıdır.
+Mahkemeler tuzak ve anayasal hakların ihlali elde edilen diğer delilleri izin vermemek için bir takdir yetkisi geliştirmeye başlamışlardır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

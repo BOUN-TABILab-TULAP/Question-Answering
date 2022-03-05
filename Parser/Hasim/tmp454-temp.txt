@@ -1,0 +1,27 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnsülin insülin+Noun+A3sg+Pnon+Nom
+hormonunun hormon+Noun+A3sg+P3sg+Gen hormon+Noun+A3sg+P2sg+Gen
+az az+Adverb az+Verb+Pos+Imp+A2sg az+Adj az+Postp+PCAbl
+salgılanması salgıla+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+halinde hal+Noun+A3sg+P2sg+Loc hal+Noun+A3sg+P3sg+Loc
+kanda kan+Noun+A3sg+Pnon+Loc kant+Noun+A3sg+Pnon+Dat
+glikoz glikoz+Noun+A3sg+Pnon+Nom
+miktarının miktar+Noun+A3sg+P3sg+Gen miktar+Noun+A3sg+P2sg+Gen
+artması art+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+sonucu sonuç+Noun+A3sg+P3sg+Nom sonuç+Noun+A3sg+Pnon+Acc
+oluşan oluş+Verb+Pos^DB+Adj+PresPart
+hastalığa hasta+Adj^DB+Noun+Ness+A3sg+Pnon+Dat hastalık+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

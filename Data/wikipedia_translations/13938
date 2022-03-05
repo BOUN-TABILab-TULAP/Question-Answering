@@ -1,0 +1,69 @@
+Küre
+(Yunanca - "sphaira", "küre, top"), bir küre tamamen yuvarlak topun şeklini andıran üç boyutlu uzayda mükemmel yuvarlak geometrik ve yuvarlak nesnedir. Geometrik bağlamlarda iki boyutta olan bir daire, gibi, bir küre, üç boyutlu uzayda bir belirli noktadan aynı mesafe "r" noktaları kümesi, matematiksel olarak tanımlanır. Bu mesafe "r" kürenin yarıçapı ve verilen nokta kürenin merkezidir. kürenin içinden maksimum düz uzaklık merkezinden geçer ve böylece iki kez yarıçapı; Bu çaptır.
+Matematik olarak, bir ayrım küre (üç boyutlu uzayda Öklid gömülü iki boyutlu bir kapalı yüzey) ve topun (bir kürenin iç içeren üç boyutlu bir şekli) arasında yapılır.
+Alan.
+Bir küre için yüzey alanı:
+Arşimed ilk (Lambert silindirik eşit alan projeksiyonu yani) bir sınırlı silindirin yanal yüzeyine projeksiyon alanı koruyucu olduğu gerçeğinden bu formülü türetilmiştir; "r" çaplı bir küre içinde toplam hacim eş sonsuz kalınlıkta küresel kabuklar sonsuz sayıda yüzey alanının toplamı olarak düşünülebilir, çünkü "r" ile ilgili olarak hacmi için, formül türevi eşittir "r" radyusa yarıçapı 0 birbirlerinden içinde yığılmış. Sonsuz kalınlıkta herhangi bir kabuğun iç ve dış yüzey alanı arasındaki tutarsızlık sonsuz olduğunu ve yarıçapı element hacim "r" sadece yarıçapı "r" de yüzey alanı ve sonsuz kalınlıkta ürünüdür.
+Herhangi bir yarıçapı "r", artan hacim ("δV"), yarıçapı "R" ("A" ("R")) ve bir kabuk ("Ír") kalınlığı yüzey alanının ürün eşittir:
+toplam hacmi, tüm kabuk hacimleri toplamıdır:
+"Ír" olarak sınırı bu denklem haline sıfır yaklaşımlar:
+Yedek "V":
+"R" bir fonksiyonu olarak "r" verimleri "A" ile ilgili bu denklemin iki tarafını Farklılaşan:
+Genelde kısaltılır Hangi:
+Alternatif olarak, küre üzerinde alan eleman formula_8 Küresel koordinatlarda verilmiştir. Kartezyen koordinatlarda alan eleman formula_9 ile. Daha genel olarak, alan elemanı bakın.
+toplam alanı bu şekilde entegrasyonu ile elde edilebilir:
+Üzeri kapatılmış hacim.
+3 boyutlu olarak, bir küre içinde hacmi (diğer bir deyişle, bir top hacmi) olarak elde edilir
+burada "r" kürenin yarıçapı ve π sabiti pi olduğunu. Arşimet önce bir kürenin içinde hacmi 2/3 sınırlı silindirin bu olduğunu gösterir, bu formül, elde edilen. (Bu iddia Cavalieri prensibi izler.) Modern matematikte, bu formülün elde edilebilir "x" boyunca yan merkezli yan yığılmış infinitesimally küçük kalınlıkta yuvarlak diskler sonsuz sayıda hacimleri toplamı integral hesabı, yani disk entegrasyonu kullanarak ekseni disk diski (yani) yarıçapı 0 nerede yarıçap "r" (yani) sahip olduğu.
+Herhangi bir "x" olarak, artan hacim ("δV"), "x" ve kalınlığına ("Ax") de disk enine kesit alanının ürün eşittir:
+toplam hacmi, tüm artan hacimleri toplamıdır:
+Limitinde Ax bu denklem haline sıfır yaklaşırken:
+Herhangi bir "x" At, bir dik açılı üçgen kökenli "x", "y" ve "r" bağlar; dolayısıyla, Pisagor teoremi verimleri uygulayarak:
+Böylece, "x" bir fonksiyonu olan "y" ikame verir:
+Aşağıdaki gibi hangi şimdi değerlendirilebilir:
+Bu nedenle bir kürenin hacmi:
+Alternatif bu formül hacmi elemanı ile, küresel koordinatları kullanarak bulundu edilir
+yani
+En pratik amaçlar için, bir küp içinde yazılı bir kürenin içinde hacim formula_21 beri, küpün hacminin 52.4% olarak yaklaşık olarak hesaplanabilir. Örneğin, çapı 1 m olan bir küre 52.4% kenar uzunluğu 1 M, ya da yaklaşık 0.524m3 bir küp hacmine sahiptir.
+Yüksek boyutlarda, küre (veya hiperküredir), genellikle bir "n" -Ball denir. Genel özyinelemeli formüller, bir "n" -Ball hacmi için var.
+Formula_22 Denklemler.
+Analitik geometride, merkezi bir küre ("x" 0 "y" 0 "z" 0) ve yarıçapı "r" tüm noktalarda odağı ("x", "y", "z"), öyle ki
+yarıçapı "r" ile küre üzerinde puan üzerinden değiştirgelenebilen
+(Ayrıca trigonometrik fonksiyonlar ve küresel koordinatlarını bakınız).
+Sıfırda merkezli herhangi yarıçaplı bir küre aşağıdaki diferansiyel formda ayrılmaz bir yüzey:
+Bu denklem küre üzerinde seyahat eden bir noktanın konum ve hız vektörleri her zaman birbirlerine dik olduğunu yansıtmaktadır.
+Küre, belirli bir hacim içine tüm yüzeylerin en küçük yüzey alanına sahiptir ve belirli bir yüzey alanına sahip tüm kapalı yüzeyler arasında en büyük hacmini kapsamaktadır. Küre dolayısıyla doğanın görünür: yüzey gerilimi lokal yüzey alanı en aza indirir, çünkü, örneğin, kabarcıklar ve küçük bir su damlaları yaklaşık küreseldir.
+Bir küre kütlesine yüzey alanı spesifik yüzey alanı olarak adlandırılır ve yukarıda belirtilen denklem olarak eksprese edilebilir
+burada formula_29 hacminin kütle oranıdır.
+Bir küre, aynı zamanda herhangi bir çap ile ilgili bir daire döndürülerek oluşan yüzey olarak tanımlanabilir. Onun büyük ekseni etrafında döndürülerek bir elips ile daire değiştirilmesi, şekil yayvan sfero olur; küçük eksen, Sferoit hakkında döndürülmüş.
+Terminoloji.
+Küre merkezinden geçen düz bir çizgi üzerinde yalan bir küre üzerinde puan çiftleri antipodal noktaları denir. Bir büyük daire küre aynı merkezi ve yarıçapı var küre üzerinde bir daire ve dolayısıyla iki eşit parçaya böler. yüzeyde iki ayrı olmayan antipodal noktaları arasındaki yüzey boyunca kısa mesafe iki noktayı içeren eşsiz büyük bir çember üzerindedir. Büyük daire mesafe ile donatılmış, büyük bir daire Riemann daire olur.
+Bir küre üzerinde belirli bir nokta (keyfi) onun "kuzey kutbu" olarak belirlenmiş ise, karşılık gelen antipodal noktası ", güney kutbu" olarak adlandırılır ve ekvator onlara eşit olan büyük bir dairedir. Iki kutup üzerinden Büyük çevreler çizgiler (veya meridyenleri) boylam denir ve iki kutuplu bağlayan hat dönme ekseni denir. Ekvatora paralel küre üzerinde Circles enlem çizgilerdir. Bu terminoloji de gezegeni gibi yaklaşık küremsi astronomik cisimlerin (jeoit bakınız) kullanılır.
+Yarımküre.
+Bir kürenin merkezi bulunmaktadır Herhangi düzlem iki eşit hemisferlerde üzere ikiye ayırmaktadır. Bir kürenin merkezi, herhangi kesişen iki düzlem dört Lunes veya biangles tüm antipodal noktaları uçakların kesiştiği hattı yatan denk hangi köşe içine küre bölmek.
+kürenin antipodal bölüm de tespit ekvatorun antipodal noktaları ile kuzey yarımkürede olarak düşünülebilir gerçek projektif düzlem denir yüzey vardır.
+Yuvarlak yarımküre Riemann çemberin optimum (en az alan) dolgu olarak tahmin ediliyor.
+küre merkezi ve kürenin yüzeyini kesen herhangi bir düzlemin kesişim daireler "sferik bölümleri" olarak adlandırılır.
+Diğer boyutlara Genelleme.
+Küreler herhangi boyutta boşluk jeneralize olabilir. Bir "," n "-sphere, formula_30" genellikle yazılı "Herhangi bir doğal sayı" n "için bir merkez noktasından r", "sabit bir mesafe altındadır () boyutlu Öklid uzayında noktaları kümesidir" "r" daha önce olduğu gibi, olduğu alan, pozitif bir reel sayı. Özellikle:
+"N"> 2 bazen denir hiperküreler için küreler.
+Kalkış merkezli, "n" -sphere birim yarıçapı, "S", "n ifade edilir" ve genellikle şu şekilde ifade edilir "n" "" -sphere. Bu (3-boyutlu uzayda gömülü olduğu) bir 2-boyutlu yüzey, çünkü sıradan küre, bir 2-küre olduğuna dikkat edin.
+1 yarıçaplı () -sphere yüzey alanı
+nerede Γ ("z"), Euler Gama işlevidir.
+Yüzey alanı için bir başka ifade
+ve hacmi yüzey alanı süreleri formula_37 veya
+Metrik uzaylar için Genelleme.
+Daha genel olarak, bir metrik uzay ("E", "D") olarak merkez "x" ve radius küre noktalarının kümesi "y" şekildedir.
+Merkezi normlu uzayda olduğu gibi, "E" kökeni olarak kabul edilir seçkin bir nokta ise, tanım ve gösterimde söz değildir. Bu birim küre durumunda olduğu gibi, eşit bir alınır, aynı yarıçap için de geçerlidir.
+Bir top farklı bile büyük bir küre bir boş küme olabilir. Örneğin, Z "n" Öklid metrik ile, yarıçap "r" bir küre "r" 2 tamsayılar, "n" kareler toplamı olarak yazılabilir sadece boş olmayan olduğunu.
+Topoloji.
+Topoloji olarak, bir "n", bir sınır ("n" + 1) -Ball için bir uzay homeomorphic olarak -sphere tanımlanır; bu nedenle, -sphere, ama belki de metrik eksik Öklid "n" homeomorphic olduğunu.
+"N" -sphere "Sn" belirtilir. Bu sınır olmayan kompakt bir topolojik manifoldunun bir örnektir. Bir küre pürüzsüz olması gerekmez; Bu düz ise, bu Öklid alana diffeomorphic olmak zorunda değildir.
+Heine-Borel teoremi bir Öklid "n" kompakt -sphere olduğunu ima eder. küre sürekli fonksiyon || "x" || altında set tek noktanın ters görüntü. Bu nedenle, bir küre kapatılır. "Sn" de sınırlıdır; bu nedenle kompakt.
+Smale paradoksu mümkün öz kavşaklar ile üç boyutlu bir uzayda ancak herhangi bir kırışık, daha yaygın ve tarihsel küre eversiyon adı verilen bir işlem oluşturmadan içinde sıradan bir küre çevirmek mümkün olduğunu gösteriyor.
+Küresel geometri.
+Öklid düzlem geometri temel unsurları noktaları ve çizgileri bulunmaktadır. Küre üzerinde, puan genel anlamda tanımlanan, ancak "line" analog hemen belli olmayabilir. Tamamen alanda yalan, iki nokta arasındaki en kısa yol noktalarını içeren büyük bir dairenin bir segment yay uzunluğu verimleri ile Ölçme; geodezik bakın. Birçok değil, klasik geometri tüm (paralel önerme bakınız) teoremleri de bu küresel geometri için de geçerlidir. Küresel trigonometri, açılar harika daireler arasındaki tanımlanır. Böylece küresel trigonometri birçok açıdan sıradan trigonometri farklıdır. Örneğin, bir küresel üçgenin iç açıları toplamı 180 derece fazladır. Ayrıca, herhangi bir iki benzer küresel üçgenler uyumlu bulunmaktadır.
+Kürenin Eleven özellikleri.
+Onların kitabında "Geometri ve hayal" David Hilbert ve Stephan Cohn-Vossen küresinin onbir özelliklerini tanımlamak ve bu özellikler benzersiz küre belirlemek olmadığını tartışıyorlar. Birkaç özellikler sonsuz yarıçaplı bir küre olarak düşünülebilir düzlemi, basılı tutun. Bu özellikler şunlardır:
+Küreler ilgili küpleri.
+Her alan için alanı içinde yazılı olabilir birden cuboids vardır. bir küre içinde yazılmış olabilir büyük cuboid bir küp.

@@ -1,0 +1,419 @@
+Plazma Fusion Önsöz
+Doğadaki Plasmas.
+Saha denklemi devletler
+FORMULA_1
+Ni iyon yoğunluğu ve nn nötr atomlar yoğunluk ve Ui gazı iyonizasyon enerjisi olduğu.
+Sıradan hava koymak
+formula_2
+formula_3
+formula_4
+verir
+formula_5
+hangi gülünç düşük.
+Ui kT sadece birkaç kez olana kadar ve iyonizasyon düşük kalmaktadır.
+Yani sadece derece milyonlarca sıcaklıkları ile astronomik organlarına, doğal burada yeryüzünde hiçbir plazmalar mevcuttur.
+Temel düşünceler.
+Biz manyetik alandaki ücretten hareketli bir parçacık varsa aşağıdaki denklem uygulamak
+formula_6
+Bu diferansiyel denklem verimleri Çözme
+formula_7
+hangi jeneralize olabilir
+formula_8
+B. homojensizliklerin neden grad-B sürüklenme veya sürüklenme hangi
+Bu nedenle kavisli vakum alanında toplam sürüklenme olduğunu göstermiştir edilebilir
+formula_9
+İşte ben Francis F. Chen alıntı:
+"Bu sürükleniyor eklemek talihsiz bir durumdur. Bu bir termonükleer plazma hapsederek amacıyla bir torus içine bir manyetik alan kıvıran ise, parçacıklar olursa olsun kimse sıcaklık ve manyetik alanları juggles nasıl torous dışarı kayması anlamına gelir"
+Bir sıvı olarak plazma.
+Elimizdeki bir sıvı olarak plazma düşünürsek
+formula_10
+burada sola doğru iki terim ihmal edilebilir olduğu gösterilebilir.
+Biz o zaman B ile çapraz ürün alırsak biz
+formula_11
+veya
+formula_12
+bir dönem deliberatelly nerede ihmal edilmiştir.
+Bir plazmadaki toplam dik sürüklenme bir akışkan olarak kabul üzerinde getiri yeniden düzenleme
+formula_13
+nerede sözde diamagnetic sürüklenme
+formula_14
+nerede kuvvet
+formula_15
+basınç gradyanı anlamı
+formula_16
+birim partikül yoğunluğuna.
+Elimizdeki bir izoterm plazma için
+formula_17
+Endüktans Hesaplama.
+endüktans tanımı, L, ise:
+formula_18
+Kullanma
+formula_19
+Uzun bir solenoid için
+veya
+formula_20
+Kısa bir solenoid için yeterli bir formül uzunluğuna karşı çapına bağlıdır açıktır. Ancak birçok durumda gerçeklik arasında bir yerde olduğunu.
+Neyse, bizim kısa solenoid indüktansıdır:
+formula_21
+A tahmin sonra dairesel olmak
+formula_22
+Ve N = 10 ve R = 2m bu verimleri ile
+formula_23
+Seri olarak bağlanmış olabilir Tokamak çevresindeki bazı on bobinleri Visualising bazı verir
+formula_24
+ve şeyler ettirmek için
+formula_25
+Bu indüktans ancak sadece açılış etkilemez. Voltajın Smoot başlangıcı ile endüktans direnç kayıpları gibi çok önemli değil (Amper okuyun). Ama yine de akılda tutmak bu ilginç. Sonuçta, biz burada MAs bahsediyoruz ...
+Ben daha sonra bu geri alırsınız.
+Bir plazmada hususları Drift.
+Kolaylık olması için burada tekrar bir kısa solenoid için geri bizim genel B-formülüne Ulaşım
+formula_26
+manyetik akı yoğunluğu olarak azalır görebilirsiniz
+formula_27
+boyunca
+formula_28
+bizim durumumuzda hangi "neredeyse" eşit
+formula_29
+Bu howewer B bir degrade oluşturur ancak bu degrade B-alanı "boyunca" çoğunlukla.
+B sonraki bobin mesafe ile azalır Yani olsa da grad-B sürüklenme nedeniyle B. ile grad-B curl için önemsiz olabilir
+tokamak akımı.
+Bu SW1 ve SW2, farklı zamanlarda ve aynı anda kapalı hiç bir şekilde kapalı olduğunu kabul edilir ön. voltaj kaynağı E pil olarak stabil sayılır başlangıç ​​niteliğindedir.
+Tokamak akımı için, bu, biz yazabilirsiniz
+formula_30
+C saklanan şarj q, çünkü C = Coulomb / volt = zamanda / Volt eşdeğer gerilime dönüştürülmüş
+Putting
+formula_31
+Beni anlamak ama belki şimdiki, bu nedenle eksi işareti kapasitör bırakıyor kapasitör dışarı geliyor gibi görüntüleyebilirsiniz için bu bir işareti biraz zor
+ve daha biz bir kez derivating
+formula_32
+veya
+formula_33
+Putting
+formula_34
+ve
+formula_35
+Karakteristik denklem verir
+formula_36
+nerede
+formula_37
+Ve eğer
+formula_38
+Çözelti yazılmış olabilir
+formula_39
+Başlangıç ​​değerlerini kullanma
+formula_40
+ve
+formula_41
+[Bu başlangıç ​​değeri ancak anlamak biraz zor. Ama gelmelidir
+formula_42
+E kondansatör t = 0 gerilim ve geçerli türevinin indüksiyon olduğu. Kısacası, E / L Bu durumda t = 0 akım direvate zorlar ve geçerli işareti yukarıdaki şematik geliyor.]
+sonra
+formula_43
+verimli
+formula_44
+şimdi biz var
+formula_45
+T = 0 verimleri koyarak bu süre Derivating
+formula_46
+böylece
+formula_47
+ve sonunda
+formula_48
+Bu eldesi ve maksimum arama sıfıra eşit koyarsanız biz olsun:
+formula_49
+veya
+formula_50
+veya
+formula_51
+Burada tuhaf bir şey r1, benim sonuç pozitif yukarıdaki akımı yapmak için r2 daha büyük olması gerekir iken gerçekte r1 az 2,71 kat r2 ise "sadece", tmax pozitif olduğunu gösterir olmasıdır.
+I (t) maksimum akımı hesaplamak için içine Burada Tmax koyabilirsiniz. Bu sadece düz cebir çünkü biz ancak bunu yapmayacağım. Bu, yukarıda R1 ve R2 tanımındaki atıfta başka bir şekilde I (t) görüntülemek için Ancak ilginç
+formula_52
+Şeyler biz konuda iki daha koşullara sahip ikinci mertebeden diferansiyel denklemler için komple çözümler konusunda yapmak. Eğer
+formula_53
+sonra
+formula_54
+Eğer
+formula_55
+sonra
+formula_56
+ve yapar
+formula_57
+Hangi çözüm verir
+formula_58
+Burada mevcut frekans formula_59 ve "genlik" formula_60 tarafından Sinüzoidal zayıflatılmış olduğunu görebilirsiniz
+Özetlemek gerekirse, Yukarıda belirtilen tüm solüsyonlarda, kritik durumuna göre olduğu
+formula_61
+burada B eşittir ya da sabit bir yanıt elde etmek için ağırlık daha büyük olmalıdır.
+Son olarak, sadece eğlenmek için Imax hesaplamak yapalım :)
+formula_62
+Kullanma
+formula_63
+Biz almak
+formula_64
+besleme akımı.
+Biz kolayca yazabilirsiniz çünkü bu temel kısmı gerçekten bir matematiksel türetme gerekmez
+formula_65
+Ama denklemleri türetmek için eğlenceli :)
+Hepimiz biliyoruz
+formula_66
+Birinci mertebeden diferansiyel denklemler yazılabilir
+formula_67
+Şimdi çözüm biliyorum ama biz değil ve tahmin yapar taklit olabilir
+formula_68
+Sonra
+formula_69
+Sınır değerler olduğunu söylemek
+formula_70
+ve
+formula_71
+bu ancak biraz zor ama gelen
+formula_66
+nerede
+formula_73
+Biz üç bilinmeyenler var ise biz bir üçüncü koşulu gerekir
+formula_74
+Bu konuda düşünüyorsanız ...
+Bu sınır koşulları kullanılarak biz ilk olsun
+formula_75
+ve
+formula_76
+Sonra var
+formula_77
+Bu verim Derivating
+formula_78
+ve
+formula_79
+Hangi verir
+formula_80
+böylece
+formula_65
+Son olarak, bu derivating ve akım verir Kondansatör formül kullanılarak
+formula_82
+standart model.
+1) elektron ve pozitron ("anti-elektron")
+2) Muon ve anti-Muon
+3) tau ve anti-tau
+Bunların yanı sıra parçacıkların veya altı ayrı türde verir onların nötrino ve anti-nötrino gelir:
+1) elektron
+2) elektron-nötrino
+3) Muon
+4) muon-nötrino
+5) tau
+6) tau-nötrino
+nötrinolar ön kitle daha az ve bu nedenle çok zor tespit ediliyor.
+Bu baskın üç temelleri ve kuarkların oluşmaktadır. Bizim amaçlarımız için, yani kuarklar yukarı kuark ve aşağı kuark iki tür tanımak için yeterlidir. Bunun nedeni yukarı kuark bir proton iki yukarı kuark-oluşmaktadır ve bir aşağı kuark-iken kuark-aşağı ve bir nötron iki oluşur gerçeği etmektir.
+PF de Mentorlar çok nazik bana açıkladığı gibi bir nötron zayıf etkileşim (dönüşüm) geçmesi ve bir elektron ve bir anti-nötrino salan bir proton dönüştürülebilir. Bu kuark kendi türü / lezzet değiştirebilir gerçeği ile ilgisi yoktur. Bu durumda, bir aşağı kuark olarak "sadece" parçacığın değişiklik yapmak için yukarı kuark birine değiştirmek zorundadır.
+Bir proton, benzer bir şekilde, bir nötron değiştirilebilir Ayrıca nasıl açıklanmıştır.
+Bu nötronları üretebilir ve böylece Döteryum aslında Helyum füzyon işlemini başlatmak için Güneş gibi bir yıldızın doğum sırasında tüm bu protonlar temel nedenidir.
+Radyasyon partikülleri.
+1) beta-parçacık (elektron)
+2) Alfa-parçacık (sıradan Helium_4 çekirdekler)
+3) Gama ışınları (çekirdekleri yayılan yüksek enerjili fotonlar)
+Elektronlar yavaşlamış veya hızlandırılmış zaman çıkan 4) X-ışınları (biraz daha düşük enerjik fotonlar)
+Bohr Modeli.
+Geçen gün ben güneş plazmada hem protonlar (== Hidrojen atomları iyonize), nötronlar ve heyecanlı yanı sıra nötr hidrojen atomları vardır sonuca geldi.
+Hidrojen çeşitleri gibi çarpışması sonucu proton ve muhtemelen, hatta nötron gibi yüksek enerjik parçacıklar tarafından her zaman isabet ediliyor.
+Bu da, farklı seviyelerde, hidrojen uyarır yanı sıra bir protonun iyonize edilir.
+Proton kendisi de tekrar Hidrojen oluşturmak için bir elektron ile recombine gerçeğini atlama, bu uyarma farklı düzeylerde (yani farklı yörüngeler) kuantum sıçramaları için çeşitli olasılıklara yol açmaktadır söylemek adil.
+Örneğin (n = 1-3), üç yörüngeleri varsa, sıçramaları> 2, 3-, 2-> 1 ve 3-> 1 den yapılabilir.
+Ve Hidrojen için orbital enerji yazılabilir ise:
+formula_83
+ve
+formula_84
+bu ilk sıçrama küçük enerji farkı, ikinci sahip olduğu anlamına gelir sonraki en küçük ve en yüksek üçüncü.
+Bu aynı zamanda renk / fotonların birkaç çeşit Güneş'ten dışarı gönderdi anlamına gelir
+Ben uyarma seviyeleri Hidrojen kaç bilmiyorum ama yukarıdaki iki sonuca götürüyor:
+1) n Tüm Sun "Sarı" yapma spektrumları üzerinde çeşitli orbital enerji durumları ve "rekombinasyon olanakları" çok ve böylece yayılan renkleri veren büyüktür.
+2) Uyarılmış hidrojen atomları gibi nötr bir hidrojen atomu güneşte bol Onlar olmasa Çünkü hiçbir ışık görünür.
+Yukarıdaki ancak doğru değildir (ama mekanizmadır). Benim bir meslektaşım Güneş'ten görünür ışık sadece ısı nedeniyle olduğunu söyledi. Ve o ısı kendisi tamamen farklı bir şekilde ışık emmits söyledi neden sordum.
+Böyle bir formül tanır:
+formula_85
+hangi bence Stefan-Boltzmann radyasyon hukuk türevidir.
+Ben Sun'ın sıcaklık kaba değil doğru tahmin yaptım ben aslında bu ilişkiyi kullanılır.
+Her neyse, ben sonra radyasyon ne yaptı benim meslektaşım sordu. O kadar ısıtılır olurken nedeniyle çarpışmalar elektronlar yavaşlar olması sebebiyle olduğunu cevapladı. Hangi Yukarıdaki X-ışınları oluşturulan nasıl mukayese edilebilir.
+Vikipedi kopyalandı:
+"Termal radyasyon madde yüklü parçacıkların ısı hareketi tarafından üretilen elektromanyetik radyasyondur. Mutlak sıfırdan büyük bir sıcaklığa sahip tüm madde gövdesinin sıcaklığı mutlak sıfırdan büyük olduğunda termal radyasyon., Atomlar arasındaki çarpışmalar kinetik enerjisini neden yayar atomu ya da değiştirmek için moleküller. Bu elektromanyetik radyasyon üretir ve radyasyon geniş spektrumlu tek bir sıcaklıkta bile ortaya enerji ve ivmeler geniş bir spektrum yansıtan yük hızlanma ve / veya çift kutuplu salınım sonuçlanır. "
+Şimdi soru şarj ivmeler veya dipol salınımları aslında ışığı kılan ne Bununla olduğunu.
+İşte ben sadece Planck'ın Kanunu belirten ediyorum:
+formula_86
+Nerede B spektral parlaklık olduğunu.
+Şaşırtıcı olan, bu işlevin Wikipedia güzel bir resim görüntüleme, Güneş'ten sıcaklığı ile çok mükemmel bir uyum olduğunu, az söylemek
+Ve işler tam Wien Deplasman Kanun yapmak:
+formula_87
+Nerede b~3 * 10-3
+Ben bu denklemi yıldız nesnelerin sıcaklığını belirlemek için kullanılır söyleyebilirim ben amatör olmak.
+Termal radyasyon.
+Ben ışığı üretmek için daha çok yolu olduğunu anlamış. Ben düşünüyorum mekanizması bugüne kadar şarj-hızlanma olarak ve dipol salınımını götürdü termal radyasyon ve Wikipedia bu konuda okuma olduğunu.
+Wikipedia etrafında sörf yaparken ben hafif bir TEM dalgası olduğunu hatırlamak lazım.
+Bir elektrik mühendisi olmak, ben düşünmeye başladım:
+formula_88
+nerede
+formula_89
+hem hangi jw bir türetme operatörü "herhangi bir" sabit sinyali ve güncel olduğunu ve gerilim bir indüktördeki faz dışı 90 derece olduğu anlamına gelir.
+Biz Bohr Modeli ve Bohr yarıçapı rb düşünürsek biz tanım gereği akıma eşittir (sabit bir hızda) bir yörüngede hareket eden yüke sahip.
+Şimdi alan S bir bobin aracılığıyla manyetik akı basitleştirilmiş olabilir
+formula_90
+Nerede bizim yörüngedeki elektron ve lm N = 1 manyetik yolunun uzunluğudur.
+Faraday Kanunu
+formula_91
+nedeniyle manyetik akı "değişim" için EMF-indüksiyon belirtiyor.
+Ve ilişki
+formula_92
+Benim ilk formüller bizi geri götürür.
+Bu denklemlerin görüntüleme biz faz dışı hem B ve E 90 derece var.
+Elimizdeki Faraday Kanunu diferansiyel sürümünü göz önüne alındığında
+formula_93
+hangi zamanda hepsi yönünü belirtir.
+Ama hepimiz indüksiyon hareketli iletken gerçekleşmesi için kuvvet hatları kesmek zorunda olduğunu biliyoruz.
+Yani bu bir TEM dalga tanımı gereğidir.
+(dolaşan) şarj hızı biz örnek ısı ile şarj hızlandırmak zorunda anlamına gelir (aksi takdirde hiçbir indüksiyon yapılabilir) sabit olmayan olması ancak gerek.
+Düşünen
+formula_94
+Aşağıda biz v Bohr Radius içinde sabit olduğunu unutmayın.
+Yani elektronun hızını artırmanın tek yolu başka bir kabuk o kadar taşımaktır.
+Diğer bir deyişle, "doğrusal" termik radyasyon ısıtma ile elde edilemez.
+Radyasyonun Planck'ın Yasası muhtemelen çekirdekleri ve / veya elektronun titreşim başka olayların nedeni olmalıdır.
+Veya Bohr Modeli sadece çok basit perthaps?
+Apart Bohr kısıtlama sonucu yukarıdaki gibi her hızlandırılmış şarj TEM doğuran olduğunu olmalıdır.
+Ücretsiz hızlandırılmış veya yavaşlayan ücret bu mantık için daha iyi uygun olabilir. Bu durumda o termal radyasyon geliyor ve bu, çünkü kT eklerken "doğrusal" hız devletlerin olduğunda hiçbir spektral çizgiler vardır daha açıktır.
+Bohr Modeli türetme.
+Ben Bohr modeli anlamaya çalışmakla yolumu uygun mümkün olduğunca şeyleri basitleştirmek için seviyorum ederken.
+Bu kanıtlanmıştır
+formula_95
+bir elektron yörünge uzunluğu kez bir tamsayı dalga olmak zorunda olduğu anlamına gelir.
+De Broglie dalga boyu kullanımı ile
+formula_96
+ve
+formula_97
+Yukarıdaki denklem olarak yeniden olabilir
+formula_98
+Merkezkaç kuvveti biz yazabilirsiniz elektromanyetik kuvvet eşittir temel kuvvet ilişkisi değinen
+formula_99
+V getiri Çözme
+formula_100
+Elektromanyetik kuvvet entegre potansiyel enerji olarak verir
+formula_101
+kinetik enerji her zamanki gibi yazılmış olabilir
+formula_102
+Daha sonra verim üzerindeki v ifadenin kullanımı ile Ek'in ile Ep ekleme
+formula_103
+Şimdi,
+formula_104
+R getiri Çözme
+formula_105
+N = 1 için, bu Bohr yarıçapı olarak adlandırılır ve hidrojen için bu, bazı 0,5A olduğu gösterilebilir.
+Proton-proton füzyon.
+1) Protonlar sigorta
+2) Bir proton Döteryum (tek pozitron ve bir elektron-nötrino) serbest oluşturan bir nötronu dönüşüyor edilir.
+3) Döteryum) ayrıca gama ışınları bültenleri başka proton (sigortalar
+Elde edilen Helium_3 neclei sigortanın 4) İki
+5) Bir Alfa parçacığı (Helium_4) işlemini tamamlamak için iki proton enerjik sürümü ile oluşturur.
+Arthur Eddington tarafından eğlenceli bir alıntı:
+". Ben birçok eleştirmen yıldız yeterince sıcak değil düşünün farkındayım eleştirmenler bariz bir imbik açık kendilerini yatıyordu, biz gidip bir sıcak bir yer bulmak için bunları söylüyorum."
+Basınç.
+Ben basınç iki tür bilmek geldi
+1) Yerçekimi basıncı (GP)
+2) Plazma basıncı (PP)
+Yerçekimi basınç yazılmış olabilir
+formula_106
+ve plazma basıncı
+formula_107
+Orada burada birimlerinde hiçbir fark aslında ama ben ayrı tutmak istiyorum.
+formula_108 "metreküp başına ağırlık" ile ilgili yoğunluk, n metreküp başına parçacıkların sayısı "ile ilgili yoğunluğudur. </ I]>
+Bu yoğunluk, her iki durum için kullanılabilir, çünkü bu farkı belirtmek önemlidir.
+Uygulamada basınç.
+Normal hava basıncı (1ATM) 'dir
+formula_109
+Bu sadece biz insanların 1 kg / cm2 ve (tüm gerçek bir atmosfer ima hariç) başka bir şey adapte olması anlamına gelir.
+Bu gerçek benim için çok garipti ama bu konuda düşünüyorsanız, canlı ve derin aşağı bizim denizlerimizde hayatta balıklar vardır.
+Ve su derinliği her 10m için 1ATM basınç artar iken, onlar orada hayatta olduğunu şaşırtıcı.
+Ama balıklar için aynı derecede garip.
+Ne bizi bizim disrespectively basınçlı ortamda yaşayabilir.
+Peki biz aslında hissediyorum bu ortam basıncı ama fark değil.
+Su derinliği kenara biz de bir sıvıda bir nesneyi hareket ettirerek bir basınç farkı yaratabilir:
+formula_110
+Bu denklem en kısa sürede bir sıvı olduğu gibi biz sadece hareket ettirerek üzerinde bir baskı yaratacaktır söyler.
+Biz bir bütün kg / cm2 hissetmiyorum ise biz su altında 1m (+ 1HG / cm2) gibi küçük artışını hissediyorum.
+Ve biz sadece nedeniyle sebebi Azot "zehirlenme" ile sarhoş önce su yüzeyinin altında 10m birkaç dalış neden bu derinliklerde dalgıçların nefes Helyum yerine Oksijen.
+Bizim denizin derin kısmında basınç 1000atm hakkında ama insanlar (gerek 1ATM) olarak biz (bazı her şeye rağmen yaptık) bu yeri ziyaret etmek isteyeyim eğer bu sadece hissedilmektedir. ilginç bölümü gemi tekne bir kuruş bir fil ayakta eşit yukarıdaki basınca dayanıklı sahip olmasıdır.
+Barmetic formülü
+formula_111
+Farklı hights hava basıncı (p0 olmak 1ATM) yansıtır
+Bu formül (aslında 0 eşittir) yaklaşık 10 km'ye kadar yaklaşık doğrudur.
+Her neyse, \ rho [/ ITEX] bazı 5 km nerede üstünde doğrusal değil
+formula_112
+(m, sadece molekül ağırlığı) yerine kullanılır.
+Atmosfer tekdüze değildir. Dört districtive tabakaları veya küreler (sıcaklık tarafından tanımlanan) vardır:
+4) Termosfer (80 km-Karman Hattı)
+3) Mezosfer (50-80 km)
+2) Stratosfer (10-50 km)
+1) Toposphere (<10 km)
+Karman Hattı 100 km nerede. Bir gemi yörünge hızı yüksekliği tutmak kadar hızlı uçmak için gereken yüksekliği olarak belirtilen.
+Orbital hız merkezkaç kuvveti yerçekimi kuvveti eşit hız anlamına geliyor.
+Bu atmosfer 100 km gibi yüksek olması çok ilginç. Ben her zaman bazı 10 km düşündüm: smile:
+Tokamak basıncı.
+Aşağıda bu yüzden minnetle the_wolfman tarafından bana verilen verilere dayalı ITER Tokamak basınç hesaplanmasında bir girişim izler.
+formula_113
+formula_114
+formula_115
+Bu hayali kısmını kullanarak
+formula_116
+formula_117
+formula_118
+ve alan böylece,
+formula_119
+C bazı 10m olduğu (?) hangi verecek
+formula_120
+Ve F boyutu üzerinde
+formula_121
+Sadece 5T bir B ve 10keV bir kT ile protonlar ile oynamak
+formula_122
+sahibiz
+formula_123
+ve bu şekilde
+formula_124
+Şimdi,
+formula_125
+formula_126
+Hangi ayrıca T bağımsızdır :)
+Ben yanlış ne merak ediyorum.
+Plazma basıncı.
+İdeal Gaz Kanunu itibaren biz var
+formula_127
+burada, n, (partikül) yoğunluğudur.
+PF forumda yetenekli çocuklar dinlemek Ancak bu yasayı biraz yeniden düzenlemek istiyorum
+formula_128
+Hepimizin P V ile sihirli ünitesi J / m3 çarpma olduğunu bilirken, böylece Joule ve enerji verir.
+Sonra sıcaklık ve dolayısıyla Ek artar çünkü gaz Çalışma PV-ürün artması üzerine olarak tanımlanabilir olabilir.
+Daha sonra sıcaklık düşer, çünkü gaz tarafından yapılan iş, PV-ürün decreasement olarak tanımlanabilir.
+Bu N bölü Binaların yapılan veya tek molekülü tarafından yapılan verir dikkat etmek de ilginç. Bu da bu tek bir molekülün sıcaklığı ve böylece hız verir.
+termodinamiğin birinci yasası gibi görünüyor
+formula_129
+Q, toplam enerji olduğu durumlarda, U iç enerji ve W çalışma gaz yapılırsa iş gazla yapılır veya negatif ise pozitiftir eseridir.
+iç enerji ile tanımlanır
+formula_130
+Nerede KE kinetik enerji ve PE potansiyel enerjidir.
+Şimdi, biz kinetik enerji sıcaklığına yakından ilişkili olduğunu biliyorum ama ne olduğunu bilmiyordum potansiyel enerji ters basınca bağlı olmasıdır.
+Andrew Mason bu ikinci bilgi var. Basitçe düşük basınçlı molekülleri birbirinden furher ve onlar ayrı furher gibi onlar "yüksek" potansiyel enerjiye sahip anlamına gelir gerçeğinden geliyor belirtti.
+(Yerçekimi veya elektromanyetik) kuvvet yakın moleküller güçlü ve bu yüksek potansiyel enerjiyi anlamına gelecektir, çünkü bana bu çılgın geliyordu.
+Ama basit ilişki kullanılarak
+formula_131
+Beni gerçekten bu işi anlıyorum yapılan bir nesne fi yerçekimine karşı belli bir mesafe taşımak için yapılmalıdır ve sırayla bu o nesnenin daha sonra (MGH veya Fx gibi) daha yüksek bir potansiyel enerjiye sahip gerektiğini söylüyor.
+O Bohr Modeli geliyor ama sonra belirli elektronun potansiyel enerjisi negatif çekirdeklerin yakın ve sonsuzda sıfır olduğunda aslında aynıdır. Hangi sadece koordinatlar bir tanımıdır.
+Plazma ısıtma.
+The_wolfman teklif:
+Biz bunlara füzyon ile ilgili bir plazma ısıtmak 5 yolu vardır:
+1) Ohmik ısıtma. Bir plazmanın içinden bir akım çalıştırın ve bu durum elektrik direnci ısı oluşturur.
+2) Dalga ısıtma. Bir plazma elektromanyetik dalgalar enjekte antenleri kullanır. Plazma, bu dalgaları emer ve ısı içine kendi enerjisini dönüştürür. Bir benzer ne bir mikrodalga kalanlar ısıtır.
+3) Nötr ışın ısıtma. Biz plazmaya yüksek enerjili nötr parçacıkların kirişleri enjekte edilir. Partiküller plazma ile çarpışır gibi onlar yavaşlatmak ve kinetik enerji ısıya dönüştürülür.
+4) Basınç ısıtma. Bir plazma sıkıştırmak zaman tıpkı diğer sıvısı gibi üzerinde pdv çalışmaları yapmak. Sırayla Bu çalışma plazmayı ısıtır.
+5) Alfa parçacık ısıtma. Eğer füzyon oluşmaya alırsanız, yüksek enerji alfa parçacıkları üretilmektedir. Onlar yavaşlatmak gibi onlar sonra plazmayı ısıtır.
+Kaynaklar.
+1) David K. Cheng, Alan ve Dalga Electromagnetics
+2) Francis F. Chen, Plazma Fiziği ve Kontrollü Füzyon
+3) Jan Petersson, Matematisk Analys, Del 2
+4) http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html
+5) https://en.wikipedia.org/wiki/Bohr_model
+6) https://en.wikipedia.org/wiki/Thermal_radiation
+7) https://en.wikipedia.org/wiki/Plank%27s_law
+8) https://en.wikipedia.org/wiki/Wien%27s_displacement_law

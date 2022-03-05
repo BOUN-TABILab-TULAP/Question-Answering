@@ -1,0 +1,260 @@
+Question: Glomerulusun etrafını tamamen saran, nefron kanalcığınıın genişlemiş başlangıç kısmına ne ad verilirGlomerulusun etrafını tamamen saran, nefron kanalcığınıın genişlemiş başlangıç kısmına ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nefron</DOCTITLE>
+<TEXT>
+
+Nefron, böbreğin en küçük yapısal birimi. Nefron böbrekte idrarın yapıldığı morfolojik üniteyi oluşturur. Bir böbrekteki nefron sayısı 1–3 milyon arasındadır. Nefronlar ortak açılma kanalları ile böbrek papillaları üzerindeki deliklere açılırlar. Böylece oluşan idrar ilk olarak kalikslerde ve dolayısı ile pelviste biriktirilmiş olur. Sağ ve sol böbreklere gelen günlük kan akımı 1,5 tonu bulur. Nefronlarda gerçekleşen süzme (filtrasyon), salgılama (sekresyon) ve geri emilme (reabsorpsiyon) aşamalarından sonra idrar şeklinde atılan miktar 1,5 lt kadardır.
+Ayrıca içindeki süzücü kanallar kanı temizlemekte yardımcıdır.
++/K+ ATPase in the basolateral membrane of the epithelial cells. Much of the mass movement of water and solutes occurs in between the cells through the tight junctions, which in this case are not selective.
+The solutes are absorbed isotonically, in that the osmotic potential of the fluid leaving the proximal tubule is the same as that of the initial glomerular filtrate. However, glucose and amino acids are absorbed actively via cotransport channels driven by the sodium gradient out of the nephron.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Böbrek</DOCTITLE>
+<TEXT>
+
+Böbrekler, omurgalılarda bulunan fasulye biçiminde boşaltım organlarıdır. 10 cm boyuna kadar olabilen böbrekler, boşaltım sisteminin bir bölümünü oluştururlar. Bu organlar, başta üre olmak üzere atıkları kandan süzer ve onları su ile birlikte idrar olarak boşaltırlar. Böbrekleri ve böbreklere etki eden hastalıkları inceleyen tıbbi dal nefrolojidir. Nefroloji, adını Yunanca "böbrek" anlamına gelen "nephros" sözcüğünden alır. Böbrek(ler) ile ilgili anlamında kullanılan "renal" sözcüğü ise Latince "renalis" sözcüğünden gelir. Böbreklerin içindeki süzme birimlerine nefron denir. Her böbrekte yaklaşık 1 milyon nefron bulunur.
+Anatomi.
+İnsanlarda, böbrekler karın bölgesinin arka bölümünde, bir başka deyişle karınzarı arkası (retroperitonal) bölgesinde yer alırlar. İki tane bulunan (çoğu insanda tek böbrek bulunabilmektedir, ve bu insanlar bunun ayrımına varmadan sağlıklı bir yaşam sürdürebilirler) böbreklerden sağda olanı diyaframın hemen altında, ve karaciğerin arkasında (posterior), solda olanı ise diyaframın altında ve dalağın arkasında yer almaktadır. Böbreklerin ikisinin de üstünde böbreküstü bezleri yer almaktadır. Böbreklerin konumları bakımından bakışımsız olmalarının nedeni karın boşluğunda büyük bir yer kaplayan karaciğerin, sağda bulunan böbreğin soldakine göre 1-2 santimetre daha aşağı bir konumda (inferior) bulunmasına neden olmasıdır.
+Karınzarı arkasında bulunan böbreklerin boyutları 9 ila 13 cm arasında değişmekte, ve sol böbrek sağdakinden az da olsa biraz daha büyüktür. Yaklaşık 12. göğüs omuru ile 3. bel omurlarının (T12-L3) düzeyleri arasında yer almaktadırlar. Böbreklerin üst bölgeleri 11. ve 12. kaburgalarca korunmaktadır. Böbreküstü bezleriyle birlikte böbrekler, yağ dokuyla çevrelenip (buna "pararenal yağ" denilmektedir), bu yapı da böbrek zarı ("renal fasiya" olarak da bilinir) ile bütünüyle sarılmış durumdadır. Yukarıda da belirtildiği gibi, böbreklerden biri ya da ikisi doğuştan bulunmayabilirler, ve bu duruma "böbrek oluşmaması" ya da "renal agenez" denilmektedir.
+Böbrekler, süzülmemiş kanı karın bölgesi aorttan ayrılan sol ve sağ böbrek atardamarları yoluyla almaktadırlar. Böbrekten dönen süzülmüş kan ise sağ ve sol böbrek toplardamarları yoluyla alt ana toplar damara döner. Böbreğe giden kan, kalbin pompaladığı toplam kanın (kardiyak debi) üçte birine ulaşabilir.
+Doku bilimi (histoloji).
+"İlgili madde: Nefron"
+Genel.
+Böbrekten ayrılan idrar borusu (üreter) takip edilerek böbreğin içine ilerledikçe huni biçiminde bir boşluk olarak genişler; buna "havuzcuk" (pelvis) denilmektedir. Havuzcuktan da küçülerek ayrılan bölgelere "büyük çanak" (majör kaliks), bunlardan ayrılan daha da küçük bölgelere "küçük çanak" (minör kaliks) denmektedir. İnsan böbreğinde yaklaşık 12 adet küçük çanak bulunmaktadır. Böbrek, kesildiğinde, kabuk (korteks) ve öz (medulla) bölgelerinden oluştuğu görülür. Öz bölgede uçları "papilla" olarak bilinen "piramit"ler bulunmakta, ve bunların herbiri bir çanağa bağlıdır. Kabuk bölgesi dokusu her iki ardışık piramitler arasına sokulur, ve bunlara "Bertin sütunları" denilmektedir.
+Damarlar.
+Böbrekler damarlarca çok iyi bir biçimde beslenmekte, ve vücut ağırlığının yalnızca %0.5'lik bir bölümünü oluştursa da, kardiyak debinin %25'ini alırlar, ve bu daha da artabilir. Kabuk bölgesi organın en çok damarlarının bulunduğu bölgedir, bu bölge böbreğe gelen kanın %90'ını toplar. Böbreğe gelen atardamar ön ve arka olmak üzere iki dala ayrılır. Bu dallardan, "loplar arası damarlar" ayrılıp loplar arasında ilerleyerek "yayımsı damarlar"a ayrılır. Bu damarlar da kabuk ve öz bölgeler arasına yayılarak "lopçuklar arası damarlar"a ayrılırlar. Lopçuklar arası damarlardan "getirici damarlar" ayrılıp yumakçık (glomerülus) yapısına girer.
+Damarlar, yumakçık içinde daha da küçük dallara ayrılıp, 20 ila 40 arasında değişen kılcal damar kıvrımlarına dönüşürler. Bu kılcal damarlar yumakçık içindeki tampon bölge ("mesenjium") ile çevrelenmiştir. Kılcal damarlar birleşerek yumakçıktan "götürücü damarlar" olarak ayrılırlar. Genel olarak, kabuk bölgesinin yüzeyine yakın olan nefronlardan ayrılan götürücü damarlar borucukları çevreleyerek "peritubüler damar ağı"nı oluştururlar. Öte yandan kabuk bölgesinin daha derinlerinde yer alan yumakçıklardan ayrılan damarlar "vasa recta" ("dik damar" anlamına gelmektedir) denen, öz bölgenin derinliklerine inen damarları oluştururlar. Bu damarlar öz bölgenin derinliklerine indikten sonra toplardamar olarak yukarı çıkarlar.
+Böbrek damar atar ve toplar damar üzerinde ilgi çekici ve çoğu organlardan değişik olup, kendine özgü olan birkaç özelliği bulunmaktadır. Genellikle bir organa gelen atardamar küçük dallara ayrıla ayrıla atar damarcıkları ("arteriyol") oluşturur. Bunlar da kılcal damarlara ayrılıp (dokuyla alyuvarlar arasında oksijen alışverişinin gerçekleştiği, ve kansıvısıyla dokular arasında besin öğelerinin ve dokulardaki atıkların alış-verişlerinin gerçekleştiği damar bölgesidir), kılcal damarlar da toplar damarcıkları, bunlar da birleşerek toplar damarları oluşturur. Böbrekte ise temiz kanı taşıyan "getirici damarlar" yumakçık içine girdikten sonra kılcal damarlara ayrılır, ve bunlar yumakçıktan ayrıldıktan sonra "yine" atar damarcık niteliğinde olan götürücü damarlara dönüşür. Özetle, böbrekte öbür organlarda bulunan temel atar damarcık-kılcal damar-toplar damarcık düzeni bulunmaz; yumakçık içinde bulunan kılcal damarlar iki atar damarcık arasında bulunmaktadır.
+Yumakçık (Glomerülus).
+Yumakçıkların kılcal damarlarında duvarları delikli endotel (damarların en iç katmanında bulunan göze türü) gözeleri bulunur. Bu endotelin dışında ise iki katlı epitel gözeler bulunur. Endotele yakın olan iç epitel gözeleri ("viseral") endotel dokudan yalnızca bir bazal zarı (epitel dokularda epitel gözenin en alt bölümünde bulunan, epiteli altındaki bağ dokudan ayıran zardır) ile ayrılır. Dış epitel gözeleri ("paryetal") ise Bowman kapsülü (yumakçığı çevreleyen yapı) üzerinde bulunmaktadır. Bu iki katlı epitel gözeleri arasındaki boşluğa da "üriner boşluk" (yumakçıktan süzülen kandan oluşan sıvının -"süzüntü"- geçtiği boşluk) denilmektedir.
+Yumakçığın kılcal damarının duvarı, bu damarlardan geçen kansıvısının süzme işleminin gerçekleştiği yerdir, ve şu yapılardan oluşmaktadır:
+Yumakçıkdaki kılcal damarların duvarlarındaki endotel gözelerin delikli olması, su ve küçük moleküllere karşı geçirgen olmasını, ve aynı zamanda 70 kilodaltondan büyük proteinlere karşı ise geçirimsiz olmasını sağlar. Ayrıca bazal zarın negatif yüklü (anyon) "heparan sülfat" ve başka anyonik molekülleri bulundurması pozitif yüklü moleküllere karşı geçirgenliğini arttırır. Bundan dolayı, kandaki yüksek derişimde bulunan "Albumin" proteini, negatif yüklü olmasından dolayı bu kılcal damarlardan süzülmez. Bu seçici geçirgenliği ayrıca süzme yarıklarının arasındaki böleçte bulunan proteinler de etkiler. Bu seçici geçirgenliği sağlayan moleküllerin genlerindeki değişinim sonucunda bu seçici geçirgenlik bozulabilir, ve ortaya "nefrotik sendrom" denilen klinik durum çıkabilir.
+Borucuklar.
+Borucukları çevreleyen epitel gözelerin yapıları ve buna bağlı işlevleri böbreğin katmanlarına göre değişiklik gösterir. "Yakınsal borucuk gözeleri" uzun mikrovilüsleri, çok sayıda mitokondrileriyle geri emilimde önemli rol oynar. Yakınsal borucuk gözeleri süzülmüş sodyumun ve suyun üçte ikisinin, ayrıca glikozun, potasyumun, fosfatın, amino asitlerin ve proteinlerin geri emiliminde büyük önem taşır. Aynı zamanda bu gözeler ağıların da geri emilimini yapar, ve ağılar bu gözelere zarar verebilir.
+"Yumakçık-bitişiği aygıtı" ("jukstaglomerüler aygıt") yumakçığın içine sokulmuş durumda olup, "getirici damar"la da bitişiktir. Bu aygıtın içinde "yumakçık-bitişiği gözeler" yer almaktadır. Bu gözeler düz kas niteliğinde olup, getirici damarların duvarlarında bulunur, ve "renin" bileşiğini içerir. Ayrıca "uç borucuklar"ın yumakçığa yakın olan bölgesine "maküla densa" denir ve bu bölge yumakçık-bitişiği aygıtıyla da iç içedir. Süzüntüdeki sodyum derişimini algılayan "maküla densa", yumakçık-bitişiği aygıtına geri besleme yaparak burdaki gözelerin kasılıp ya da gevşemesini sağlar. Böylece, böbrekler kendilerine gelen kandaki (başta sodyumun olmak üzere) elektrolitlerin derişimlerine göre yumakçığa gelen kan miktarını ayarlayıp, süzmeyi de buna koşut bir biçimde etkiler. Bu yolla, böbrekler, kandaki olağan değerlerinin üstünde ya da altında olan elektrolitlerin atılımlarını etkileyerek derişimlerini ayarlayabilir.
+İşlevleri.
+Böbreklerin işlevleri beş çatı altında toplanabilir:
+Böbreğin işlevlerinin daha iyi anlaşılması için böbrek fizyolojisinin iyi bilinmesi gerekir.
+Atık ürünlerin atılması.
+Böbrekler yapım-yıkım sonucunda oluşan çeşitli atık ürünleri özellikle protein yapımı ve protein yıkımı sonucunda oluşan üreyi ve nükleik asitlerin yapım-yıkımı sonucunda oluşan ürik asidi, ve suyu vücuttan dışarı atar. Böbreklerin çalışmaması veya işlevini yapamaması durumunda bu atıklar atılamayacağı için sorun teşkil eder.
+Vücut dengesinin (Homeostaz) sağlanması.
+Böbrekler vücut dengesinin sağlanmasında çok büyük önem taşır. İşlevleri arasında:
+önemli yer tutar.
+Böbrekler bu işlevlerin çoğunu öbür organlarla (özellikle kalp, iç salgı bezleri ve karaciğer) eş güdümlü bir biçimde gerçekleştirir. Böbrekler bu organlarla kandaki hormonlar yoluyla iletişir. Ancak, kan hacmini, basıncını algılama konusunda böbreğin içsel alıcıları bulunmaktadır.
+Otoregülasyon mekanizması:Bu mekanizma genel olarak, afferent arteriollerdeki myojenik gerilim reseptörlerinin aktivitesi olarak kabul edilmektedir.Nefronlardaki "Macula densa" hücreleri Na+ ve Cl- düzeyindeki değişikliklere duyarlıdır.Glomeruler hidrostatik basıncın artması ile Glomeruler filtrasyon oranı (GRF) de artar.Bu artış; macula densa'ya gelen Na+ ve Cl- oranında da artışa neden olacaktır.Fizyolojik yanıt ise afferent arteriol'ün daralması ve mezangiyum hücrelerinin kontraksiyonudur.
+Asit-baz dengesinin düzenlenmesi.
+Böbrekler kandaki pH'yi, H+ (protonun) ve HCO3- (bikarbonatın) derişimini ayarlayarak küçük bir aralıkta tutar. Bu konuda akciğerle eş güdümlü çalışır. Daha ayrıntılı bilgi için böbrek fizyolojisi maddesine bakınız.
+Kan basıncının ayarlanması.
+Böbrekler kan basıncının düzenlenmesinde önemli rol oynarlar. Kansıvısındaki sodyum derişimi, kan hacmiyle ve dolayısıyla kan basıncıyla yakından ilgilidir. Nefronların içinde sodyumun (ve öbür elektrolitlerin) süzülmesini ve geri emilimini sağlayan yapılar bulunmaktadır. Ayrıca böbreküstü bezlerinin "Zona Glomerulosa" bölgesinden salgılanan Aldosteron da böbreğin uç borucuklar ve toplama kanalları üzerinde etkisini göstererek kan basıncını ayarlamada önemli bir yer tutar.
+Kansıvısı hacmi.
+Kansıvısının toplam derişimindeki ("osmolalite") değişikler hipotalamustaki derişim-alıcılarınca algılanır. Hipotalamusun uzantısı olan hipofiz bezinin arka bölümü kansıvındaki derişimin artması üzerine vazopressin (ADH) salgılar. Bu da böbreklerin toplama kanallarına etkiyerek suyun geri emilimini arttırıp, idrarın daha derişik olmasına neden olur. Böylece böbrek, hipofiz beziyle eş güdümlü bir biçimde çalışarak kansıvısının hacmini dengede tutar.
+Hormon salgılamak.
+Böbrekler eritropoietin (alyuvar yapımını uyaran hormon) salgılar. Ayrıca etkin durumda olmayan vitamin D'yi (önhormon) etkin duruma getirir.
+Hastalıklar.
+Böbrekler karmaşık örgenler oldukları için, hastalıkları da karmaşıktır. Bundan dolayı, böbrek hastalıklarını öbeklere ayırmak mantıklıdır. Ancak, böbrekte çok türde hastalık bulunmasına karşın, bunların belirtileri aynı oranda çeşitli değildir; çoğu aynı öbekten hastalıklar benzer biçimlerde kendilerini gösterir. Dolayısıyla, öncelikle böbrek hastalıklarının genel bulguları incelenecek, ondan sonra hastalıklar öbek halinde ele alınacaktır.
+Böbrek hastalıkları.
+Doğuştan bozukluklar:
+Kistli böbrek hastalıkları:
+Yumakçıktan kaynaklanan hastalıklar :
+Borucuklardan kaynaklanan hastalıklar:
+Damarlardan kaynaklanan hastalıklar:
+Böbrek taşları:
+Böbrek urları:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Boşaltım</DOCTITLE>
+<TEXT>
+
+Boşaltım. Canlıların yedikleri besinleri ürik asit veya posa olarak atmasıdır. Aslında proteinler parçalanınca amonyağa dönüşür ama sonradan zararsız olan üre ve ürik asit haline dönüştürülür.
+Boşaltım sistemi vücutta homeostazın sağlanmasında çok önemli bir yere sahiptir. 
+Böbrekler, üreterler ve idrar torbasından oluşan boşaltım sistemi, metabolizma sırasında ortaya çıkan atık maddelerin atılımından sorumludur. Vücut fonksiyonlarının devamı için hücrelerden atık maddelerin atılması gerekir. Katı ve sıvı atıklar, kan içinde erimiş olarak taşınırlar ve böbreğe ulaştırılarak filtre edilirler (süzülürler). Bu atıklar üreterler yoluyla idrar torbasına geçerek, belli aralıklarla idrar kesesinde idrar olarak depolanıp, periyodik olarak vücuttan atılırlar.
+Böbreklere böbrek atardamarı yoluyla gelen kan "nefron"larda süzülür. Kandaki yararlı maddeler süzülme sırasında emilir ve tekrar kana geçer. Süzülerek temizlene kan böbrek atardamarı ile böbreklerden çıkar.Kalan tuzun ve suyun fazlası ile üre idrarı oluşturur. Böbrekler metabolizma sırasında ortaya çıkar. Atık maddelerin atılımından sorumludur.
+İdrar kesesi.
+İdrarın vücuttan atılmadan önce bekletildiği yerdir.
+Üretra.
+İdrarın mesaneden alınarak, vücut dışına atıldığı son kanaldır. Kadınlarda 3-4 cm, erkeklerde yaklaşık 15-16 cm uzunluğundadır. Ayrıca boşaltımın en son organıdır. İdrar buradan atılır.
+Erkeklerin üretrasının her iki yanında prostat bulunur.
+İdrarın özellikleri.
+İdrar, metabolizma sonucu üretilen artık maddelerin taşındığı %92 oranında sudan ve %8 atıklardan oluşan sarı renkli bir sıvıdır. Normal bir insan günde 1200-1700 ml kadar idrar çıkarır. Bu miktar bazı durumlara bağlı olarak değişir. 
+İçilen su miktarı, beslenme tarzı, kullanılan ilaçlar, ortamın sıcaklığı, kan basıncına bağlı olarak idrar miktarı ve niteliği değişir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Boşaltım sistemi</DOCTITLE>
+<TEXT>
+
+Boşaltım sisteminin vücut dengesinin (homeostaz) sağlanmasında çok önemli bir yeri vardır. 
+Böbrekler, üreterler ve idrar kesesinden oluşan boşaltım sistemi, yapım-yıkım sırasında ortaya çıkan atık maddelerin atılımından sorumludur. Vücut işlevlerinin sürekliliği için hücrelerden atık maddelerin atılması gerekir. Katı ve sıvı atıklar, kan içinde erimiş olarak taşınırlar ve böbreğe ulaştırılarak süzülürler. Bu atıklar üreterler yoluyla idrar kesesine geçerek, belli aralıklarla idrar olarak depolanıp, değişik aralıklarla vücuttan atılırlar.
+Böbrekler.
+Böbrekler, omurgalılarda bulunan fasulye biçiminde 2 tane boşaltım organıdır. 10 cm kadar olabilen böbrekler, boşaltım sisteminin bir bölümünü oluştururlar. Bu organlar, başta üre olmak üzere atıkları kandan süzer ve onları su ile birlikte idrar olarak boşaltırlar. Böbrekleri ve böbreklere etki eden hastalıkları inceleyen tıbbi dal nefrolojidir. Nefroloji, adını Yunanca "böbrek" anlamına gelen nephros sözcüğünden alır. Böbrek(ler) ile ilgili anlamında kullanılan renal sözcüğü ise Latince renalis sözcüğünden gelir. Böbreklerin içindeki süzme birimlerine nefron denir. Kanımızda atık maddelerin yanı sıra karbonhidratların yağların ve proteinlerin sindirilmesi sonucu oluşan küçük moleküller,vitaminler ve su gibi yararlı maddelerde bulunur.
+Üreterler.
+Üreterler, böbrek ile idrar torbası arasında bulunurlar. 25-30 cm uzunluğunda, 4-7 mm çapında, kas liflerinden oluşmuş boru şeklinde yapılardır. Böbreklerde oluşan idrar bu ince borucuklar vasıtasıyla idrar kesesine ulaşır. 
+Üreter pars abdominalis ve pars pelvica olmak üzere iki kısımda incelenir. Üreterin üç yerde darlığı vardır. Birinci darlık başlangıç yerinde, ikinci darlık linea terminalis’i çaprazladığı yerde, üçüncü darlık da idrar kesesine girdiği yerdedir (en dar yeri burasıdır).
+İdrar Kesesi.
+İdrar kesesi yoğun kas liflerinden oluşmuş, idrarın depolandığı, genişleme özelliği bulunan torba biçiminde bir yapıdır. İdrar torbası dolduğunda kesenin duvarını oluşturan kas lifleri gerilerek idrara çıkma hissi uyandırır ve duvarındaki kasların kasılması ile idrar kesesi boşalır. Kadınlarda pelvis boşluğunun tabanında, erkeklerde rektumun önünde ve prostatın üzerindedir.
+Üretra.
+İdrarın idrar torbasından alınarak, vücut dışına atıldığı son kanaldır.
+Boşaltıma yardımcı organlar.
+Akciğerler.
+Solunum vasıtasıyla karbondioksit ve su buharını vücuttan uzaklaştırır.
+Kalın Bağırsak.
+Sindirim atığı olan posayı anüs yoluyla vücuttan dışarı atar.
+Karaciğer.
+Çok zehirli olan amonyağı daha az zehirli olan üre ve ürik aside dönüştürür. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Böbrek fizyolojisi</DOCTITLE>
+<TEXT>
+
+Böbrekler insan vücudundaki en karmaşık organlardan biridir ve çok sayıda işlevleri bulunmaktadır. Böbreklerin işlevlerinin anlaşılması için fizyolojisinin iyi bilinmesi gerekmektedir. Boşaltım organları olarak böbrekler, kansıvısında derişimleri olağan değerleri dışında olan elementlerin ve bilesiklerin sidikte atılımlarını düzenleyerek, derişimlerini kontrol altında tutar. Böylece gerek fizyolojik önemi olan moleküller (elektrolitler, glikoz) gerekse de organik atıklar kansıvısında belirli düzeyler arasında izler, ve vücudun dengesini (homeostaz) bozmaz. Vücut dengesinin ayarlanmasını büyük ölçüde üstlenen böbrekler, ayrıca, vücuttaki türlü sıvı bölmelerinin hacmini ve bunların her birindeki çözeltilerin derişimlerini de düzenler. Böbrekler aynı zamanda birer iç salgı bezleridir (endokrin organlardır): renin, eritropoietin salgılayıp, vitamin D'yi etkin duruma getiren tepkimeyi tetikler.
+Bu maddede önce kavramlar teker teker irdelenecek, ondan sonra böbreğin işlevleri bu temeller üzerine oturtulacaktır. 
+Kavramlar.
+Böbrek arındırması.
+"Arındırma" ("klirens" olarak da bilinir) kavramı, birim zamanda moleküllerin kansıvısından temizlenmesiyle ilgilidir. "Bütün-vücut arındırması" bir molekülün vücuttan tüm organlarca birim zamanda atılmasının ölçüsüdür.
+Tanım olarak, "böbrek arındırması" böbrekler tarafından birim zamanda bir molekülün bütünüyle arındırıldığı kansıvısının hacmidir. Bir molekülün "böbrek arındırması" ne denli çoksa, o denli yüksek hacimde kansıvısından bütünüyle temizleniyor demektir. Bir molekülün "böbrek arındırması"nın denklemi:
+formula_1
+C = bir molekülün arındırılması (mL/dakika) , U = o molekülün sidikteki derişimi (mg/mL) , V = birim zamanda idrar hacmi (mL/dakika), U*V = bir molekülün birim zamanda sidikteki toplam ağırlığı (mg/dakika), and P = o molekülün kansıvısındaki derişimi.
+Türlü moleküllerin böbrek arındırması.
+Herhangi bir molekülün böbrek arındırması hesaplanabilir. Bir bileşiğin niteliğine göre böbrek arındırması sıfırdan 600 mL/dakika'ya dek çıkabilir. Bileşiklerdeki bu ayrımların nedeni, böbreklerin o bileşikleri ne miktarda süzdüğüne, borucuklarda ne oranda geri emildiğine ve salgılanıldığına bağlıdır. Örneğin, "albümin" bileşiğinin böbrek arındırması sıfıra yakındır, çünkü albümin yumakçık (glomerülüs) yapısından süzülmez. Glikozun da böbrek arındırması sıfıra yakındır, ancak bunun nedeni albümin'inkinden ayrıdır: glikoz, albüminin aksine yumakçıkta süzülür, ancak neredeyse tümü yakınsal borucuklarda geri emilir. Dolayısıyla, sidikte olağan koşullarda hiç glikoz bulunmaz. Bu da glikozün böbrek arındırmasının sıfır olduğu anlamına gelir; böbrek kandan glikozu hiç arındırmaz.
+Öteki elementlerin ve bilesiklerin (Na+, üre, fosfat ve Cl- gibi) böbrek arındırması sıfırın üstündededir, çünkü yumakçıkta süzülürler ve "kısmen" geri emilirler. Inülin (fruktozun çoklu bileşiğidir) özel bir durumdur. İnülin tümüyle yumakçık kılcal damarlarından süzülebilir, geri emilimi ve ek salgılanımı da gerçekleşmez. Dolayısıyla inülin bileşiğinin böbrek arındırması, "yumakçık süzme hızı"yla ("ing. glomerular filtration rate", GFR) eşittir.
+Bunun aksine "para"-aminohippurik asit (PAH) gibi bileşiklerin böbrek arındırması en yüksek düzeydedir, çünkü yüksek oranda süzülürler ve salgılanırlar.
+Bir bileşiğin böbrek arındırması, "Cadı" biçiminde gösterilir.
+Arındırma oranları.
+Yukarıda da belirtilgidiği gibi inülin bileşiğinin durumu özeldir: kanda ne derişimde inülin varsa yumakçıkta süzüldüğü, ve borucuklarda hiç geri emilime ve ek salgılanılmaya uğramadığı için C, "yumakçık süzme hızı"na eşittir: inülin birim zamanda ne oranda süzülüyorsa (ml/dakika), aynı oranda sidikte atılır.
+Bu durumdan dolayı başka bileşiklerin böbrek arındırması inülininkiyle oranlanabilir:
+formula_2
+a.o. = arındırma orani, Cx = "x" bileşiğinin böbrek arındırması, Cinülin = inülin bileşiğinin böbrek arındırması.
+Böbreğin kan akışı (BKA).
+Böbrekler "yürek çıktısının" (yürekten birim zamanda pompalanan kan miktarıdir) yaklaşık %25'ini alırlar. Yürek çıktısının dakikada 5 litre olduğu varsayılırsa, böbrek kan akışı dakikada 1.25 litre olup, bir günde 1,800 litreye ulaşabilir. Böbreğin böyle yüksek oranda bir kan akışı olması, böbreklerin insan vücudundaki önemi göz önüne alındığında şaşırtıcı değildir.
+BKA'nın ayarlanması.
+Herhangi bir örgende olduğu gibi BKA (Q) böbrek atar ile toplar damar arasındaki basınç farkıyla (∆P) doğru orantılı, ve böbrek damarlarının direnciyle de (R) ters orantılıdır. Böbrekleri öbür örgenlerden ayıran bir özelliği, getirici ve götürücü olmak üzere "iki" öbek atar damarcık bulunmasıdır. Dolayısıyla gerek getirici damarların, gerekse de götürücü damarların dirençleri ayarlanarak bu verilerle böbreğin tüm direnci ayarlanabilir.
+Böbrek damarlarını büzen ve genişleten içsel bileşikler:
+Plazma ve idrar oluşurken; nefronlar ve nefronlarla ilişkili kan damarlarının katılımı söz konusudur. Bu mekanizma temelde 3 aşamada gerçekleşir. Bunlar:
+Bowman kapsülünde glomeruler filtrasyon sonucunda kan plazmasının ultrafiltratı oluşur. Ultrafiltrattaki kompozisyon proximal tubule gelerek tubuler reabsorbsiyon ve sekresyon sonucu değişir, tubuler sıvı adını alır. Tubuler sıvı pelvis renalis’e geldiği an idrar adını alır.
+Glomeruler Filtrasyon.
+Bir köpekte ortalama olarak glomeruler filtrasyon oranı (GFR) 4 ml/kg’dır. Molekül ağırlığı 70.000’in üzerinde olan pro-teinler filtrasyona uğramaz kabul edilirler. Zira en küçük plazma proteini olan Albumin, 69.000 MA’na sahiptir ve plazmadaki yoğunluğunun %0,2-0,3’ünü filtratta görmek olasıdır. Hemoglobin (Hb) ise 68.000 MA’na sahip olup yak-laşık olarak %5 oranında filtratta görülebilir.
+Damar içi eritrosit parçalanması (intravasküler hemolizis) kısa zamanda ve fazla miktarda olursa plazma haptoglobulin’in Hb bağlama kapasitesi (saturasyon) aşılır ve böylece idrarda mak-roskopik olarak renk değişikliği ile karakterize hemoglobinuri görülür. Eğer tubuler Hb oranı çok fazla yükselirse ve tubullerden su geri emilimi devam ederse, Hb lümende çök-meye başlar ve tubuler obstrüksiyona neden olur.
+Otoregülasyon Mekanizması.
+Afferent arterioldeki myojenik gerilim reseptörlerinin verdiği fizyolojik yanıt olarak tanımlanır. Makula densa hücreleri Na+ ve Cl- düzeyindeki değişikliklere karşı duyarlıdır. Glomeruler hidrostatik basıncın, daha doğrusu hemodinamik basıncın artması ile GFR de artar. Bu artış, Makula densa hücrelerine gelen Na+ ve Cl- düzeyinde artış demektir ve fizyolojik yanıt afferent arteriyolün daralması ve Mezangiyal kontraksiyon-dur.
+Ortalama sistemik kan basıncı yaklaşık olarak 80 mm/Hg’ nın altına düşerse GFR de azalacaktır. Bu durum, Makula densa hücrelerine gelen Na+ ve Cl- düzeyinde azalma anlamına gelecektir.
+Afferent arteriollerdeki Jugstaglomeruler hücrelerden Renin-Angiotensin 1 ve 2 salınır. Angiotensin efferent arteriolleri daraltır ve fizyolojik en güçlü vazokonstriktif maddedir. Bu daralma sonucunda tubuler akımı normalize etmek içinböbrekler harekete geçer ve glomeruler hidrostatik basınç ile GFR’yi artırır.
+Kan hacminde azalmanın söz konusu olduğu durumlarda yani hipovolemi tablosu şekillendiği durumlarda devreye sempatik sistem de girer.
+Tubuler Transport.
+Nefron boyunca ve toplayıcı kanallar boyunca tubuler sıvı ile ilişkili tüm rezorpsiyon ve sekresyon işlemleridir. Bowman kapsülünden pelvis renalis’e kadar gerçekleşen transportta hemodinamik basınç ve basınç fark-lılığı rol alır.
+Organizmada fizyolojik fonksiyonlar için gerekli olan Na+, Glikoz ve Aminoasitler(AA) glomeruler filtrasyon ile tubuler sıvıya geçer. Bunlar çok küçük moleküllerdir ve glomeruler filtrasyon sonucu adeta tüm kanı terk ederler. Fakat böyle olmamalı, belli bir oranda geri emilmeleri gerekmektedir. İşte bu mekanizmanın temelinde tubulus epitel hücrelerinin bazolateral membranında bulunan Na+ - K + ATPaz pompası vardır.
+Bikarbonat geri emilimi taşıyıcı transport aracılığı ile olur ve 1 Cl- iyonuna karşılık 1 HCO-3 şeklinde olur. Bu mekanizmanın bozulması ile renal tubuler asidozis veya alkalozis gelişir ve zamanla metabolik bir tablo alır.
+BKA'nın öz ayarlanması.
+Birçok örgende olduğu gibi BKA geniş bir atar damar kan basıncı aralığında özayarlanır. Böbrek atardamarı basıncı 80 ile 200 mm Hg arasında değişebilse de, böbrek kan akışı bu aralıkta neredeyse durağandır. Basıncın 80 mm Hg'den düşük olduğu durumlarda böbrek kan akışı da azalır. Kan akışının bu geniş aralıkta dengede tutulmasının yolu damarcıkların direncinin değiştirilmesinden geçer. Böylece, böbrek atar damarındaki basıncın değişmesiyle, damarcıkların direnci de bununla orantılı olarak değişmelidir. (Q=∆P/R ilkesine dayanarak).
+BKA'nın öz ayarlanması için direncin öncelikle getirici damarcıklarda ayarlandığına inanılmaktadır. Bu öz ayarlanmanın düzeneği tam olarak anlaşılmamaktadır. Ancak, açık olan, özerk sinir dizgesinin bu öz ayarlamada bir görevi olmadığıdır. Böbrek nakli yapılmış kişilerde, sinirsel uyarısı olmayan böbrekler de öz ayarlamayı yapabilmektedir. Bu öz ayarlamanın altında iki kuram yatmaktadır. Damarlardaki düz kas dokusundan kaynaklanan ("miyojenik") ve borucuk-yumakçık geri beslemesi ("tubüloglomerüler geri beslenimi"):
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Böbreküstü bezleri</DOCTITLE>
+<TEXT>
+
+Memelilerde, böbrek üstü bezleri (adrenal, suprarenal bezler olarak da bilinir) üçgen biçimini andıran iç salgı (endokrin) bezleridir. Anatomik olarak böbreklerin hemen üstlerinde bulunduklarından bu adı almışlardır. Kabuk (korteks) ve öz (medulla) olarak anılan iki ayrı katmandan oluşan bezlerin temel işlevi fizyolojik gerilim (stres) karşısında kortikosteroid (kabuk katmanı) ve katekolamin (öz katman) bireşimleyip kana salgılamaktır. 
+Anatomi.
+Anatomik olarak, böbrek üstü bezleri, karnın karın zarı arkası (retroperitonal) bölgesinde bulunup, böbreklere göre ön-üst (anterosüperior) konumdadırlar. Bütünüyle yağ dokusuyla çevrelenmişlerdir, ve bu yağ dokusu da böbrek zarı (renal fasiya) ile çevrelenir.
+Bezleri besleyen damarlar.
+Bezlere giden ve bezlerden ayrılan atar ve toplar damar öbekleri her ne kadar kişiden kişiye değişkenlik gösterse de atar damarlar genellikle üçe ayrılır:
+Bezlerden gelen kanı toplayan damarlar ise birleştiği damar bakımından sağda ve soldaki bezlerde değişiklik gösterir:
+Tiroid bezi gibi böbrek üstü bezleri de gram başına en çok kan alan bölgelerdir. Bu da evrimleşmenin doğal bir sonucudur, çünkü bu tür endokrin organlar, bir canlının fizyolojik gerilim karşısında vücut dengesinin (homeostaz) bozulmadan işlevini sürdürebilmesi için çok önemlidir.
+Tıpkı öbür endokrin bezlerde olduğu gibi, bu bezlerin toplardamarlarında hormonlar çok derişiktir. Tıpta bu durumdan yararlanılarak, bu hormon düzeylerinin dengesizliklerinden kuşkulanıldığı durumlarda böbrek toplardamarındaki hormonların derişimi ölçülüp, bu incelemeler tanı konulmasında yardımcı nitelikte olabilir.
+Doku özellikleri ve katmanları.
+İki ayrı katmana ayrılan böbrek üstü bezlerinin bu katmalarında da altkatmanlar söz konusudur:
+Kabuk bölgesi üç katmandan oluşur. Bunlar dıştan içe sırasıyla:
+Öz bölge ise, kabuk bölgesinin aksine, tek bölgeden oluşmaktadır, ve burdaki gözelere "Kromafin gözeleri" denir. Kromafin, Yunanca'da "renke ilgi" anlamına gelir. Böyle adlandırılmasının nedeni, Krom tuzlarıyla boyandığında, bu gözelerin içindeki katekolaminlerin yükseltgenip, çoklu bileşik (polimer) haline dönüşmesi, ve elde edilen bileşiğin kahverengi olmasıdır.
+Fizyolojik işlev.
+Burda, bezlerin kabuk ve öz katmanlarının işlevleri ayrı ayrı açıklanacaktır. 
+Kabuk katmanı ve hormonları.
+Kabuk bölgesi, bezin yaşamsal önem taşıyan katmanıdır. Bu yapıdan hipofiz bezinden salgılanan adenokortikotropik hormon (ACTH) hormonunun etkisiyle başta kortizol olmak üzere çok sayıda hormon salgılanır. Kortizol salgılanma düzeni gün içinde gösterdiği değişiklikler açısından ilginç bir özellik taşır. Gün boyunca değişen derişimlerle kana salgılanan kortizol, akşam sıralarında ve uykuya dalıştan hemen sonraki saatlerde en az düzeydeyken, sabah kalkmadan önceki saatlerde ise en yüksek düzeydedir. Böbreküstü bezlerinden salgılanan öteki kabuk hormonları da kortizole benzer değişiklikler gösterir. Bu değişkenliğin nedeni, hipotalamustaki CRH salgılanmasına bağlı olan ACTH salgılanımının, aydınlık/karanlık döngüsüne ilişkin bilginin retinadan hipotalamusta bulunan çifte çekirdeklere (suprachiasmatic nuclei) iletilmesine bağlı olmasıdır. Ön görülebileceği gibi, koma, körlük ya da sürekli ışığa ya da karanlığa maruz kalma durumlarında bu değişkenlik de ortadan kalkar.
+Glukokortikoidler.
+"İlgili madde: Kortizol"
+"Zona Fasciculata" bölgesinden salgılanan kortizolun (ana glukokortikoid) çok yönlü etkileri vardır. Tıpkı öbür steroid bileşikleri gibi, kortizol, etkisini erek gözenin çekirdeğine girerek, DNA'nın kalıt yazımından mesajcı RNA'yı bireşimleyerek, ve bundan da yeni protein bireşimleterek gösterir. Yukarıda da açıklandığı gibi Glukokortikoidler yaşamsal önem taşır. Glukokortikoidler etkilerini, şeker üretimi (glukoneojenez), damarların katekolaminlere yanıt vermeleri, yangının ve bağışıklık sisteminin baskılanması ve merkezi sinir sisteminin düzenlenmesi biçiminde gösterir.
+Mineralokortikoidler.
+"İlgili madde: Aldosteron" 
+İnsanlarda en çok bireşimlenen mineralokortikoid Aldosteron'dur. Yalnızca Zona Glomerulosa bölgesinden salgılanan hormon, tıpkı Zona Fasciculata'dan salgılanan kortizol gibi kolesterol molekülünden bireşimlenir, ve bu tepkimeler dizisindeki enzimler aynıdır. Zona Glomerulosa'da ek olarak "Aldosteron sentaz" adlı enzim bulunduğundan Aldosteron yalnızca bu bölgede bireşimlenir. Ancak, Zona Glomerulosa kortizol üretmez. Bunun nedeni, Zona Glomerulosa'da progesterondan kortizol bireşimlemesini sağlayan 17-alfa-hidroksilaz enziminin bulunmamasıdır. 
+Aldosteron mineralokortikoid özelliği gösteren tek steroid değildir; 11-deoksikortikosteron (DOC) ve kortikosteron bileşikleri de mineralokortikoid kimyasal davranışlarını sergilerler. Bundan dolayı, mineralokortikoid bireşimlenmesindeki tepkiler dizisinde DOC'den sonraki bir aşamada eksiklik olursa (11-beta-hidroksilaz ya da aldosteron sentetaz enzimlerinde eksiklik), mineralokortikoid etkinliğinde bir azalma olmaz. Ancak tepkiler dizinde DOC'den önceki bir aşamada bir aksaklık çıkarsa (21-beta-hidroksilaz eksikliği), o zaman mineralokortikoid etkinliğinde azalma gerçekleşir.
+Mineralokortikoidler, etkilerini böbreklerin nefron yapısındaki uç borucuklarda (distal tubül) ve toplayıcı kanallarda gösterir: Na+ (sodyum) geri emilimini arttırıp, K+ (potasyum) atılımını ve H+ (proton) atılımını arttırır. Na+ geri emilimini ve K+ atılımını prinsipal gözelerde, H+ atılımını ise alfa-aracık gözelerinde gerçekleştirir. Bu sodyum geri emilimi, ve potasyum ve proton atılımı sonucu göze-dışı ("ekstraselüler")hacim artıp, hipertansiyon, potasyum düzeyi düşüklüğü (hipokalemi) ve metabolik alkaloz gerçekleşir. Aldosteron düzeyi düştüğünde ise (örneğin böbreküstü yetmezliğinde) Na+ geri emilimi azalıp, K+ ve H+ atılımı da azalır. Bu durumda ise göze-dışı hacim azalıp, potasyum düzeyi yükselir (hiperkalemi) ve metabolik asidoz oluşur. 
+Her ne kadar kortizolun da mineralokortkoid etkinliği olsa da (kortizol mineralokortikoid alıcılarına aldosteron'la aynı düzeyde ilgiyle bağlanabilir), böbrekte Aldosteron'un etki ettiği erek gözeler (prinsipal gözeler ve alfa-aracık gözeleri), kansıvındaki (plazma) kortizole "aldanmazlar." Bunun nedeni, bu gözelerde 11-beta-hidroksisteroid dihidrojenaz enzimi bulunmasıdır: bu enzim, kortizol'u kortizon'a dönüştürmekte, ve kortizol'un aksine, kortizon'un mineralokortikoid etkinliği yoktur. Bundan dolayı, kortizolun yüksek izlediği durumlarda bile, mineralokortikoid alıcıları bundan etkilenmez. 
+Eşeysel hormonlar (androjenler).
+Yukarıda da belirtildiği gibi, kabuk bölgesi DHEA ve androstenedion bireşimlemektedir. Erkeklerde, bu bileşikler testiste testesterona dönüştürülmektedir. Erkeklerde, böbreküstü bezlerinin salgıladığı bu androjenlerin önemi azdır, çünkü testesteron testislerde kolesterolden bireşimlenir. Bunun aksine, kadınlarda böbreküstü bezlerinin ürettiği androjenler önemlidir, ve ergenlik çağında koltukaltı ve pubik bölgelerde kılların çıkmasından sorumludur. 
+Öz katman.
+Böbreküstü bezlerinin öz katmanı, özerk sinir sisteminin sempatik bölümünün bir sinir düğümüdür ("ganglion"). Sinir düğümü öncesi nöronların gövdeleri omuriliğin göğüs bölgesinde bulunmaktadır. Bu nöronların aksonları "büyük splanknik sinir"den geçerek böbreküstü bezinin öz bölgesine ulaşıp ve "kromafin gözeler"le sinir bağlanımı yapıp, asetilkolin salgılarlar. Asetilkolin, sinir düğümü sonrasındaki nöronların nikotinik alıcılarını etkinleştirir. Kromafin gözeler bunun üzerine dolaşıma adrenalin (epinefrin) ve noradrenalin (norepinefrin) salgılar. Sinir düğümü sonrasındaki nöronların genellikle noradrenalin salgılamalarına karşın, böbreküstü bezlerinin öz bölgesi çoğunlukla (%80) adrenalin, ve ancak %20 oranında noradrenalin salgılar. Bunun nedeni, öz bölgede "feniletanolamin-N-metiltransferaz (PNMT)" enziminin bulunması, ve bu enzimin sempatik sinir düğümü sonrası nöronlarda bulunmamasıdır (bu enzim noradrenalini adrenaline dönüştüren kimyasal tepkimeyi tetikler). Noradrenalinden adrenalin bireşimlenmesini olanaklı kılan kortizoldur. Kabuk bölgesinde bireşimlenen kortizol bu bölgeden ayrılan toplardamar ile öz bölgeye ulaşır ve bu tepkimeyi tetikler.
+Hastalıklar.
+Böbreküstü bezlerinin kabuk bölgesinden kaynaklanan düzensizliklerin çoğu belirli bir katmandaki hormonun gereğinden az ya da çok bireşimlenmesinden kaynaklanır (kortizol, aldosteron ya da eşeysel hormonları). Bir hormonun olağan derişiminin altında ya da üstünde üretilip salgılanması kişide belirtilere neden olur, ve aynı zamanda o hormonun kansıvındaki ve idrardaki derişiminin de değişmesine yol açar. Ayrıca bir hormonun derişiminin az ya da çok olması o hormonun geri beslemesini de etkiler, ve yalnız bundan yararlanılarak incelemeler yapılabilir. 
+Cushing Sendromu.
+Cushing Sendromu, glukokortikoidlerin (kortizol hormonunun) olağanın üstünde bir düzeyde olduğu durumlarda ortaya çıkan belirtiler bütünüdür. Cushing Sendromunun alışılmış nitelikleri kilo artması, obezite, kan basıncının artması (hipertansiyon), ve derinin zayıflaması sonucu oluşan çizgilerdir. 
+Conn Sendromu.
+Conn sendromu, daha çok "Mineralokortikoid fazlalığı" olarak da bilinir. Belirtilerinin çoğu hipokalemiden (potasyum düzeyinin düşük olması) kaynaklanıp yorgunluk, kas güçsüzlüğü, ve kasınçlar olarak ortaya çıkar. Çoğu zaman, erken yaşta çıkan yüksek tansiyon ve bununla birlikte kendiliğinden ortaya çıkan düşük potasyum düzeylerinde bu düzensizlikten kuşkulanılır. Mineralokortikoid fazlalığı, Aldosteron'un (ya da başka bir mineralokortikoidin) özerk bir biçimde üretildiği (renin bu durumda düşük düzeydedir) birincil böbreküstü bezi hastalığından ya da renin düzeyinin yükselmesi (aldosteron salgılanımı arttırır) gibi böbreküstü bezleri dışında bir nedenden de kaynaklanabilir. Bu son duruma örnek olarak, kandolumlu kalp yetmezliği, karında sıvı birikimli siroz, böbrek atar damarı akımında azalma, renin üreten ur örnek verilebilir.
+Addison Hastalığı.
+Böbreküstü bezlerinin kabuk bölümünün, özbağışıklık (bağışıklık sisteminin vücuttaki dokulara saldırması), verem ya da mantar bulaşımı nedeniyle zarar görmesine bağlıdır. Güçsüzlük, kansızlık, kilo yitimi, mide-bağırsak rahatsızlıkları, kan basıncı düşüklüğü, deride kararma, bazı hastalarda da aşırı sinirlilik ve aşırı duyarlılıkla gelişir. Eskiden ölümle sonuçlanabilirken, günümüzde yapay hormonlarla kesin olarak sağaltılmaktadır.
+Feokromositom.
+Böbreküstü bezlerinin katekolamin salgılayan öz bölgesindeki "Kromafin gözeleri"nde çıkan urlara feokromositom, ve sempatik sinir sistemi sinir düğümlerinde katekolamin salgılayan gözelerde çıkan urlara ise Paragangliom denilmektedir. Bu urların bulguları ve belirtileri birbirlerine benzedikleri için, çoğu tıbbi yetke bu iki uru birden feokromositom çatısı altında toplar. Buna karşın, bu iki urun ayırt edilmeleri önemlidir, çünkü beklenen gidişleri ("prognoz"), kötücül olma olasılıkları ve kimi zaman kalıtsal özellikleri ayrı olabilir. 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Duvar (anlam ayrımı)</DOCTITLE>
+<TEXT>
+
+Duvar, bir yapının etrafını saran dikey düzlemli yapıdır. Şu anlamlara da gelebilir:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Homunculus Bulutsusu</DOCTITLE>
+<TEXT>
+
+Homunculus Bulutsusu dev yıldız Eta Carinae'nin etrafını saran bulutsudur. Homunculus'un (Latince "küçük adam") Eta Carinae'nin 1841'deki büyük patlamasıyla salındığı düşünülmektedir. Bu patlamanın ardından Eta Carinae, Sirius'tan sonra en parlak yıldız olmuştur, fakat çıkardığı gaz ve toz nedeniyle ışığının çoğu engellenmiştir. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Matrigel</DOCTITLE>
+<TEXT>
+
+Matrigel®, BD Biosciences firması tarafından pazarlanan, bir çeşit fare tümör hücre serisinin salgıladığı jelatin, laminin ve başka proteinleri içeren organik karışımın ticari ve yaygın bilimsel ismidir. Bu karışım içeriği itibariyle, dokularda hücrelerin etrafını saran hücre dışı matrise (Extracellular Matrix, ECM) çok benzediği için, hücre serilerinin laboratuvar koşullarında büyütülmesinde hücrelerin tutunduğu substrat (ortam) olarak kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bahçe, Silvan</DOCTITLE>
+<TEXT>
+
+Bahçe, Diyarbakır ilinin Silvan ilçesine bağlı bir köydür.
+Diyarbakır iline 77 km, Silvan ilçesine 8 km uzaklıktadır. Köyün arka kısmında Hasune mağaraları bulunmaktadır. Köyün etrafını saran dağlarda 1500'e yakın mağara bulunmaktadır. Köyün iklimi,Karasal iklimi etki alanı içerisindedir.Yazları sıcak ve kuraktır. Köyün %90'ı kamu,kurum ve kuruluşlarda çalışmaktadır. Bahçe köyü yazlık olarak kullanılmaktadır. 
+Altyapı bilgileri.
+Köyde, ilköğretim okulu yoktur fakat taşımalı eğitimden yararlanılmaktadır. Köyün içme suyu ve kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalttır.
+
+</TEXT>
+</DOC>
+

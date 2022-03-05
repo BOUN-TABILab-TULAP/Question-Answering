@@ -1,0 +1,108 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Volkanik püskürtmeler sırasında görülen etki alanları dar olan depremlere ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(10781, {label: "Volkanik",nodeclass: "type-TK"});
+ g.addNode(10782, {label: "püskür",nodeclass: "type-TK"});
+ g.addNode(10783, {label: "_",nodeclass: "type-TK"});
+ g.addNode(10784, {label: "püskürtmeler",nodeclass: "type-TK"});
+ g.addNode(10785, {label: "sırasında",nodeclass: "type-TK"});
+ g.addNode(10786, {label: "gör",nodeclass: "type-TK"});
+ g.addNode(10787, {label: "_",nodeclass: "type-TK"});
+ g.addNode(10788, {label: "görülen",nodeclass: "type-TK"});
+ g.addNode(10789, {label: "etki",nodeclass: "type-TK"});
+ g.addNode(10790, {label: "alanları",nodeclass: "type-TK"});
+ g.addNode(10791, {label: "dar",nodeclass: "type-TK"});
+ g.addNode(10792, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(10793, {label: "olan",nodeclass: "type-TK"});
+ g.addNode(10794, {label: "depremlere",nodeclass: "type-TK"});
+ g.addNode(10795, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(10796, {label: "de",nodeclass: "type-TK"});
+ g.addNode(10797, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(10798, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,10781,10784,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10782,10783,{label: "TÜREME"});
+ g.addEdge(null,10783,10784,{label: "TÜREME"});
+ g.addEdge(null,10784,10785,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,10785,10792,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10786,10787,{label: "TÜREME"});
+ g.addEdge(null,10787,10788,{label: "TÜREME"});
+ g.addEdge(null,10788,10790,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10789,10790,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,10790,10792,{label: "NESNE"});
+ g.addEdge(null,10791,10792,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10792,10793,{label: "TÜREME"});
+ g.addEdge(null,10793,10794,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10794,10797,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,10795,10797,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10796,10797,{label: "TÜREME"});
+ g.addEdge(null,10797,10798,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

@@ -1,0 +1,11 @@
+1	İlk	ilk	Adj	Adj	_	3	MODIFIER	_	_
+2	_	yerleş	Verb	Verb	Pos	3	DERIV	_	_
+3	yerleşmelerin	_	Noun	NInf	A3pl|Pnon|Gen	6	SUBJECT	_	_
+4	tarımla	tarım	Noun	Noun	A3sg|Pnon|Ins	6	OBJECT	_	_
+5	_	başla	Verb	Verb	Pos	6	DERIV	_	_
+6	başlamasının	_	Noun	NInf	A3sg|P3sg|Gen	7	POSSESSOR	_	_
+7	sebepleri	sebep	Noun	Noun	A3pl|P3sg|Nom	9	SUBJECT	_	_
+8	_	ne	Pron	QuesP	A3pl|Pnon|Nom	9	DERIV	_	_
+9	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

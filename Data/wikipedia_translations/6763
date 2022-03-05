@@ -1,0 +1,166 @@
+Hiperbol
+In mathematics, a hyperbola (plural "hyperbolas" or "hyperbolae") is a type of smooth curve, lying in a plane, defined by its geometric properties or by equations for which it is the solution set. A hyperbola has two pieces, called connected components or branches, that are mirror images of each other and resemble two infinite bows. The hyperbola is one of the four kinds of conic section, formed by the intersection of a plane and a double cone. (The other conic sections are the parabola, the ellipse, and the circle; the circle is a special case of the ellipse). If the plane intersects both halves of the double cone but does not pass through the apex of the cones then the conic is a hyperbola.
+Hiperbolik birçok yönden ortaya: eğri içindeki bakıldığında bir daire görünümü olarak, Kartezyen düzlemde fonksiyon FORMULA_1 temsil ettiği, yol bir güneş saati ucunun gölgesi tarafından takip gibi açık yörüngesinin şekli olarak Tek hayalet kuyruklu yıldızın yolu olarak, bu tür daha genel bir gezegen ya da en yakın gezegenin kaçış hızı aşan uzay bir yerçekimi destekli salıncak saldırıdaki sırasında uzay aracı yörüngede olarak, (kapalı eliptik yörüngede farklı olarak) böylece bir atomaltı parçacığın saçılma yörünge olarak, (bir güneş sisteminde bugüne dönmek için çok hızlı seyahat) (çekici güçlerin yerine itici tarafından hareket ancak prensip aynıdır), ve.
+Hiperbol Her şube daha dışarı hiperbolün merkezinden straighter (düşük eğrilik) olmak iki kolu vardır. Çapraz karşısında kollar, her bir dalı, bir ortak hat sınırı, bu iki kol asimptotuna adı eğilimindedir. Yani her dal, diğer dalı oluşturmak için yansıtan hangi ayna noktası olarak düşünülebilir olan kavşak hiperbol simetri merkezinde iki asimptotlar, vardır. Asimptotlardan FORMULA_1 eğrisinin iki durumda da iki koordinat eksenleri bulunmaktadır.
+Hiperbolik gibi dışmerkezlik, odak ve doğrultman olarak elips 'analitik özelliklerinin birçoğu paylaşan. Tipik yazışmalar bazı vadede işareti değişikliği başka bir şey yapılabilir. Diğer birçok matematiksel nesneler gibi (vb SİNH, cosh, tanh) hiperbolik paraboloids (eyer yüzeyler), hiperboloitlerin ("wastebaskets"), hiperbolik geometri (Lobaçevski dışı Öklid geometrisi kutladı), hiperbolik fonksiyonlar olarak, hiperbol kökenlerine sahip ve gyrovector alanlarda (Öklid olmayan hem görelilik ve kuantum mekaniği kullanılan geometri).
+Tarihi.
+Kelime "hiperbol" İngilizce terim hyperbole de türediği, "aşırı atılmış" ya da "aşırı" anlamına Yunanca türemiştir. Hyperbolae katlama küpü sorununun yaptığı soruşturmalarda Menaechmus tarafından keşfedildi, ancak daha sonra geniş koni bölümleri çağrıldı. terimi hiperbol "Konikler", konik kesitler üzerinde yaptığı kesin çalışmalarında Perge Apollonius (c. 262-c. 190 BC) tarafından icat edilmiş inanılıyor. Karşılaştırma için, diğer iki genel konik kesitler, elips ve parabol, "eksik" ve "karşılaştırılabilir" için gelen Yunanca kelime türetmek; bu terimler bir (hiperbol) daha büyüktür, bu eğrilerin dışmerkezliği, az bir (elips) ve tam bir (parabol) başvurabilir.
+İsimlendirme ve özellikleri.
+Bir parabol benzer bir hiperbol açık eğrisi oldukça elips yaptığı gibi kendi üzerine kapanan daha sonsuza sonsuza kadar devam eder, yani olduğunu. Bir hiperbol kolları veya dalları olarak adlandırılan iki bağlantısız eğriler oluşur.
+köşeler olarak adlandırılır birbirine en yakın olan iki kol üzerindeki noktalar; eğri eğrilik en küçük yarıçap vardır nerede noktalarıdır. köşe bağlantı hattı bölümü, bir elipsin en büyük çapına karşılık gelen, "enine ekseni" ya da "ana eksen" olarak adlandırılır. enine eksen orta hyperbola adlı "merkez" olarak bilinir. mesafe "a" her köşe merkezden yarı-büyük eksen denir. Enine ekseni dışında ancak aynı hat üzerinde hiperbolün iki "odak noktaları (odak)" dir. Bu beş puan üzerinden hat hiperbolün iki ana eksenlerinden biri, enine eksen diğer varlık dik açıortay olduğunu. hiperbol başlıca eksenleri etrafında ayna simetrisine sahiptir ve aynı zamanda onun merkezinde yaklaşık 180 ° dönüş altında simetrik bir.
+Merkezden büyük mesafelerde, hiperbol iki satır, Hiperbol merkezinde kesişen onun asimptotlar, yaklaşımlar. Bir hiperbol merkez artar mesafe olarak keyfi yakından asimptotlarını yaklaşımlar, ama asla onları kesişen; Ancak, dejenere hiperbol sadece Asimptotun oluşur. Enine eksen "x" kartezyen koordinat sisteminin -Axis ile uyumlu olup olmadığını hiperbolün simetri ile tutarlı olarak, Asimptotun yamaçları, ± "b" işareti büyüklükte eşit ancak zıt = "a "× tan (θ) ve θ enine eksen ve ya asimptot arasındaki açı olduğu. mesafe "B" (gösterilmemiştir) ya da tepe gelen asimptotlardan dik parçasının uzunluğudur.
+Elips "minör ekseni" karşılık gelen uzunluk 2 "b" A "eşlenik ekseni", bazen olmayan enine ana ekseni üzerine çizilir; hiperbol en köşeler altında / 'üzerinde Asimptotun yükseklikte küçük eksende b yalan ± onun uç noktaları. Çünkü aşağıda formüller bazı eksi işareti, aynı zamanda hiperbolün "hayali eksen" denir.
+, Asimptotlardan arasındaki açı 2θ 90 ° eşittir ve hiperbol "dikdörtgen" ya da "eşkenar" olduğu söyleniyor edin. Bu özel durumda, doğrudan üstünde ve köşeler altındaki asimptotlardan dört puan katılmadan dikdörtgen onun yanında "2a" "2b uzunlukları beri", bir kare.
+Herhangi bir hiperbol enine ekseni "x" kartezyen koordinat sisteminin -Axis ile uyumlu ve köken merkezli ise, hiperbol denklemi şu şekilde yazılabilir
+Bu şekilde hizalanmış bir hiperbol, bir "Doğu-Batı açılış hyperbola" denir. Aynı şekilde, "y" ile uyumlu olan enine ekseni ile hiperbol bir "Kuzey-Güney açılış hyperbola" olarak adlandırılan ve denklem vardır -Axis
+Her hiperbol ("yaymak" onun şeklini veya derecesi) onun aynı dışmerkezlik ε paylaşan kökeni merkezli Doğu-Batı açılış hiperbol ile uyumlu ve aynı zamanda aynı eksantriklik ε ile kökeni merkezli Kuzey Güney açılış hiperbol ile uyumlu olduğunu - Bu arzu edilen doğrultuda açılır ve orijinde ortalanacak şekilde (katı düzlemde hareket) tercüme edilebilir, böylece bir deyişle, döndürülebilir. Kolaylık sağlamak için, hiperbollerin genellikle merkezli Doğu-Batı açılış biçim açısından incelenmiştir.
+Her iki odak, sonra formula_6 merkezden uzaklığı formula_5 ise.
+Bir hiperbol şekli birden hep bir boyutsuz sayı daha fazladır onun eksantrisite ε, tümüyle tanımlanır. odaklarının merkezden mesafe "c" "a" ε eşittir. dışmerkezlik aynı zamanda, ya odağa ve doğrultman olarak bilinen, karşılık gelen hattına mesafelerin oranı olarak tanımlanabilir; dolayısıyla, directrices merkezden uzaklığı "a" / ε eşittir. , "B", "c" ve açı θ "a" parametreler açısından, eksantriklik eşittir
+Ε = formula_8: Örneğin, bir dikdörtgen hiperbol dışmerkezlik, karekök iki eşittir.
+Her hiperbol enine ve eşlenik eksen asimptot değiştirmeden değiş tokuş edildiği bir "konjugat hiperbol" vardır. formula_9 konjuge hiperbol denklemi formula_10 olduğunu. Eşlenik hiperbol grafik yönünü açılış doğu-batı geri 90 ° döndürülürse ("x" "y" ve tersi olur, böylece), ortaya çıkan döndürülmüş eşlenik hiperbol denklemi denklemi aynıdır "a" ve "b" hariç orijinal hyperbola alışverişinde bulundu. Örneğin, eşlenik hiperbolün θ açısı 90 ° eksi orijinal hiperbolün açısını eşittir. Böylece, özgün ve eşlenik hiperboller açıları θ 45 ° (dikdörtgen hiperbol) = sürece farklı tuhaflıkları var anlamına gelir tamamlayıcı açıları vardır. Bu nedenle, konjuge hiperbol "değil" genel olarak orijinal hiperbolün 90 ° dönme karşılık yapar; İki hiperbollerin şekli genellikle farklıdır.
+Bir kaç diğer uzunlukları hiperbollerinin tanımlamak için kullanılır. Enine eksene dik olan bir çizgi düşünün (örn, eşlenik eksenine paralel) hiperbol en odaklarının birine geçer. hiperbol ile bu hattın iki kesişim noktalarını birleştiren hattın segmenti "latus rektum" olarak bilinen ve bir uzunluk formula_11 sahiptir. "Yarı-latus rektum" "l" bu uzunluğun yarısı, yani formula_12 olduğunu. "Odak parametresi", "p" karşılık gelen doğrultman bir odak mesafe ve formula_13 eşittir.
+Matematiksel tanımlar.
+Bir hiperbol çeşitli eşdeğer şekilde matematiksel olarak tanımlanabilir.
+Konik bölüm.
+Bir hiperbol ve bir sağ dairesel konik yüzey ve koninin her iki yarısı boyunca kesen bir düzlem arasındaki kesişme eğri olarak tanımlanabilir. konik kesitler diğer önemli türleri elips ve parabol vardır; Bu gibi durumlarda, uçak çift koni sadece bir yarısı boyunca keser. Apeks noktada çapraz iki düz çizgiler - düzlem dejenere hyperbola sonuçları çifte koni merkezi apeks içinden geçerse.
+Mesafeler fark odaklarındaki için.
+Bir hiperbol iki odaklara mesafeleri "farklılık" mutlak değeri 2 "a", iki köşe arasındaki mesafenin sabit bir eşittir noktaları odağı olarak eşdeğer tanımlanabilir. Bu tanım trilateration olarak hiperbol uygulamalarının, birçok hesapları; Bu GPS gibi senkronize sinyallerin geliş zamanlarında "farklılık" dan konumunu belirleme sorunudur.
+Bu tanım teğet çevrelerin açısından da ifade edilebilir. Herhangi çevrelerin merkezi dışarıdan verilen iki çevrelerin teğet olan odaklar tepe mesafesi 2 "" iki çemberlerin yarıçap farkı eşittir verilen çevreler ve merkezleri olan bir hiperbol, üzerinde yatıyor. Özel bir durum olarak, bir verilen daire, bir odak bulunan bir noktası olabilir; Bir nokta sıfır yarıçaplı bir daire olarak kabul edilebilir çünkü diğer verilen daire-diğer odak gerekir yarıçapı 2 "a" var üzerinde odaklanmaktadır. Aşağıda gösterildiği gibi, bu bir hiperbol oluşturmak için basit bir teknik sağlamaktadır. Bir P noktasında hiperbol bir teğet yani iki odaklarının, açı F1P F2 ile oluşturulan açıyı ikiye ayıran bu tanımdan izler. Sonuç olarak, her birinden çekilen perpendiculars ayak böyle bir tanjant hattına odak yarıçaplı bir daire "a" o hiperbol kendi merkezine merkezli yatıyor.
+Hiperbol bu karakterizasyonu konik kesitli karakterizasyonu eşdeğer olduğunu bir kanıtı Dandelin küreler vasıtasıyla koordinat geometrisi olmadan yapılabilir.
+Doğrultman ve odak.
+Bir hiperbol bir odak ve (doğrultman olarak da adlandırılır), bir çizgi mesafelerin oranı 1'den daha büyük Bu sabit hiperbol eksantriklik sabit bir formula_14 olduğu noktalarının geometrik olarak tanımlanabilir. Simetri By hiperbolün konjuge eksenine paralel ve onunla bir köşenin de hiperbol teğet arasında iki directrices vardır.
+Bir daire içinde ileri geri hareket.
+Bir daire "C" Bir daire "B" karşılık her zaman böyle bir hiperbol olarak konik bölüm verir. C "Bir daire içinde ileri geri" "süreci", sırasıyla bunlara karşılık gelen kutup ve kutupsal, bir geometrik figür her satırı ve nokta yerine oluşur. Bir noktanın kutup yani converse, kimin en yakın nokta "C" noktası inversiyon bir çizgi ise bir çizgi "kutup", daire "C" en yakın noktanın ters olduğunu.
+ileri geri elde edilen konik bölümün basıklık karşılık çemberin yarıçapı "r" "C" iki çevrelerin 'merkezleri arasındaki mesafelerin oranıdır. B ve C tekabül çemberlerinin merkezleri de noktalarını temsil ediyorsa, o zaman
+Bir hiperbol basıklık birden her zaman daha büyük olduğu için, merkez B pistonlu daire "C" dışında olmalı.
+Bu tanım, hiperbol daire "B" teğet çizgilerinin kutup odağı, hem de "B" ile ilgili noktalarının polar hatlarının kaplama hem de olduğunu gösterir. Tersine, çember "B" hiperbolün üzerindeki noktaların kutuplu zarf ve hiperbol teğet hatlarının direkleri odağı olduğunu. Onlar karşılık daire "C" merkezi C geçmesi nedeniyle iki teğet çizgileri "B" hayır (sonlu) kutupları var; "B" üzerindeki ilgili teğet noktaları bozulduğunda hiperbolün asimptotlar vardır. hiperbol iki dalı, bu teğet noktaları ayrılır çember "B" iki bölümden karşılık gelmektedir.
+Ikinci dereceden denklem.
+Bir hiperbol da düzlemin Kartezyen koordinatlarında, bir ikinci dereceden denklem ("x", "y") olarak tanımlanabilir
+sabitleri "A" "xx", "A" "xy", "A" "yy", "B", "x", "B" "y" ve "C" belirleyici koşulu karşılayan şartıyla
+Başka bir belirleyici sıfır olduğunda iki kesişen oluşan bir hiperbol-"dejenere Hiperbolün" özel bir durum hatları-çıkar
+Bu belirleyici Δ bazen konik bölümün ayırt denir.
+Kartezyen koordinatlarda hiperbolün yukarıdaki genel parametrizasyonunu göz önüne alındığında, merkezcillik kuadratik formun parametreler açısından Konik bölüm # Eksantriklik formül kullanılarak bulunabilir.
+merkez hiperbol ("x", "c", "y", "c") formüllerinden tespit edilebilir
+Yeni koordinatlar cinsinden ve, hiperbolün tanımlayan denklem yazılabilir
+hiperbol temel eksenleri, "x" eşittir olduğunu -Axis olumlu bir açı Φ yapmak
+"X" enine ekseni ile hizalanır -Axis şekilde koordinat ekseninin döner Kanonik forma denklemi getirir
+Majör ve minör semiaxes "a" ve "b" denklemler ile tanımlanmıştır
+nerede λ1 ve λ2 kuadratik denklemin kökleri vardır
+Karşılaştırma için, bir dejenere hiperbol için ilgili denklemidir
+belirli bir noktaya kadar teğet çizgi ("x", 0, "y" 0) hiperbol denklemle tanımlanır
+tanımlandığı gibidir, "E", "F" ve "G"
+Aynı noktada hiperbol normal hattı aşağıdaki denklem ile verilmektedir
+Normal hat teğet hattına dik ve her ikisi de aynı noktadan geçmesi ("x" 0 "y" 0).
+Denklemden
+ve sol dal üzerindeki bir nokta için o
+şöyle ispat edilebilir:
+X ise y hiperbol bir nokta sol odak noktasına uzaklığı olduğunu
+Sağ odak noktasına mesafedir
+X Eğer y hiperbolün sağ kolu üzerinde bir nokta daha sonra formula_42 ve
+Biri alır bu denklemleri çıkartılarak
+X Eğer y hiperbolün sol dalında bir nokta daha sonra formula_46 ve
+Biri alır bu denklemleri çıkartılarak
+Gerçek anomalisi.
+Üstündeki bölümde koordinat sistemini kullanarak hangi hiperbol denklemi kendi kanonik biçimini alır olduğu gösterilmiştir
+sol odak noktası formula_53 için hiperbolün sol kolu üzerinde bir nokta formula_52 mesafe formula_51 olduğunu
+Sol odak noktasında kökenli kutupsal koordinatları formula_55 Tanıtımı koordinatlar göreceli kurallı olan koordinat sistemi
+ve denklem Yukarıdaki formu alır
+olan izler
+Bu bir odak noktası ile ilgili olarak kutupsal koordinatlarda hiperbol yakınında dal temsilidir.
+göre bir hiperbol yukarıda tarif edildiği gibi yakın odak noktası üzerindeki bir noktanın kutup açısı formula_60 alanına doğru sapma olarak adlandırılır.
+Geometrik çizimler.
+Elips benzer şekilde, bir hiperbol gergin bir iplik kullanılarak inşa edilebilir. Bu odak etrafında dönmesi ücretsiz şekilde uzunluğu "S" A straightedge köşelerinden birinde tek odak F1 A takılır. Uzunluk "L" = "S" A parçacığı - 2 "a", diğer odak F2 ve cetvel diğer köşe B arasında takılır. Keskin kalem cetvel karşı gergin iplik sandviç, cetvel karşı tutulur. Kalem pozisyonu ipliğin toplam uzunluğu "L" P. olarak ifade Benzer B. P P ve "L" B F2 mesafelerde "L" 2 toplamına eşittir olmak olsun, toplam uzunluğu " S L "B" P ve F1 1 "L" cetvel mesafesini eşittir ". Bu nedenle, odaklara mesafelerde farkı sabit 2 "a" eşittir
+İkinci yapı kesişen daireler kullanır, ancak aynı şekilde odaklara mesafeler sürekli farka dayanmaktadır. İki odak F1 ve F2 ve iki köşe P ve Q ile hiperbolu düşünün; Bu dört noktaları tüm enine eksen üzerinde yalan. Ayrıca enine ekseni üzerinde ve en sağdaki tepe P sağında yeni bir bakış açısı T seçin; İki köşe mesafelerde farkı = 2 "a", 2 beri "a" köşe arasındaki mesafedir. Dolayısıyla, odakları F1 ve yarıçapı QT ve PT F2 merkezli iki daire, sırasıyla hiperbolün iki noktada kesişir.
+Üçüncü yapı, bir dairenin ileri geri olarak hiperbol tanımı dayanır. Hiperbol ve yarıçapı merkezine merkezli daire düşünün "a"; Bu daire kendi köşelerinde hiperbol teğet olduğu. Iki nokta M ve N, bu daireyi kesiştiği olabilen bir odak çekilen bir çizgi "g"; Bu iki nokta ile çizilen "g" ile dikmeler hiperbol teğet vardır. Böyle teğet çizgileri bir dizi çizim hiperbolün zarfı ortaya koymaktadır.
+Dördüncü inşaat paralelkenar yöntemi kullanıyor. Bu parabol ve elips yapımı için böyle bir yönteme benzer: paralel çizgiler üzerinde duran bazı eşit aralıklı noktalar iki düz çizgi ile birbirine bağlanır ve onların kesişme noktası hiperbol yatıyor.
+Yansımalar ve teğet hatları.
+Antik Yunan Geometers hiperboller bir yansıması özelliğini tanıdı. Bir ışık ışını tek odak çıkar ve hiperbol yansıyan, ışık-ray, diğer odak gelmiş gibi görünüyor. Eşdeğer, ışığın yönünü ters çevirerek, ışınları hiperbolün dışından odaklarının birinde yönelik diğer odak doğru yansır. Bu özellik, bir odak çıkan bir ışın (daha doğrusu "Uzak" hiperbol olarak yerine), diğer odak "doğru" doğrudan elips yansıyan elips özelliğine benzer. Hiperbol aynı noktaya her odak çekilen çizgiler eşit açılarla bunu kesiştiği, matematiksel olarak ifade; Bir P noktasında bir hiperbol teğet çizgisi iki odak, F1PF2 ile oluşturulan açıyı ikiye bölmektedir.
+Bir hiperbol teğet çizgiler başka dikkat çekici geometrik özelliği vardır. Bir nokta T bir teğet iki puan K ve L asimptotlarını kestiği, daha sonra T hat kesimi KL ve hiperbol merkezine mesafelerin ürünü OL × OK sabittir ikiye bölmektedir.
+Hiperbolik fonksiyonlar ve denklemler.
+Sadece sinüs ve kosinüs fonksiyonları elips için parametrik denklemi verir, bu yüzden hiperbolik sinüs ve kosinüs hiperbolik hiperbol için parametrik denklemi vermek gibi.
+Olarak
+formula_62
+Herhangi bir hiperbolik açısı alanına bu formula_63 için bir tane bulunur
+denklemi karşılar
+hangi onun kanonik koordinat sistemi göreli bir hiperbolün denklemidir.
+"Μ" aralığı üzerinde değişir zaman kimse bu formülü ile hiperbolün sağ kolu üzerinde formula_68 tüm puan alır formula_67.
+formula_69 için kalan dalı olarak elde aynı şekilde olduğu
+Şekilde puan verilir formula_72
+için
+eksantrisite 1.2 ile hiperbol sol dalı üzerinde noktalar olarak işaretlenir.
+Diğer konik bölümlere İlişkisi.
+Hiperbollerin, elips ve paraboller: üç ana konik kesitler türleri vardır. Parabol elips ve hiperbol arasında tam hazır bir sınırlayıcı durum olarak görülebilir beri etkili sadece iki ana tip, elips ve hiperbollerin vardır. Bu iki tip bir tür için formülleri genellikle diğer uygulanabilir olması ile ilişkilidir.
+Bir hiperbol için kurallı denklemidir
+Herhangi bir hiperbol doğu-batı açılmasını böylece döndürülmüş ve denklem bu kurallı denklemidir açıklayan böylece kökeni onun merkezi yerleştirilmiş olabilir.
+hiperbol için kanonik denklem gelen elips denkleminin bir versiyonu olarak görülebilir
+hangi yarı minör eksen uzunluğu "B" hayali olduğunu. Elips denklemi "b", "B", bir hiperbol denklemi elde, gerçek "ib" yerine eğer bu vardır.
+Benzer şekilde, bir hiperbol ve elips için parametrik denklemler daha, örneğin, hayali bir dairesel açısı ile ilgili sırasıyla hiperbolik ve trigonometrik fonksiyonların, cinsinden ifade edilmiştir,
+Bu nedenle, elips için birçok formüller "i" yarı minör ekseni "b" ve açı ön hayali birimi ekleyerek hiperbolik uzatılabilir. Örneğin, bir elipsin bir parçasının yay uzunluğu, ikinci türden bir eksik eliptik integralini kullanılarak belirlenebilir. Bir hiperbol karşılık gelen arclength aynı hayali parametreler "b" ile işlevi ve μ, yani "ib E (iμ, c)" tarafından verilmektedir.
+Çevrelerin hiperbolik görünüm Konik kesit analizi.
+Daire, elips, paraboller ve hiperbolik muntazam bir açıklamasını sağlamanın yanı sıra, konik bölümleri de sahne izlenen durumda perspektif geometrisinin doğal model olarak anlaşılabilecek bir daire ya da daha genel olarak, bir elips oluşturmaktadır. izleyici tipik olarak bir kamera ya da insan gözü olduğunu. En basit durumda izleyicinin objektif bir iğne deliği olduğu; daha karmaşık lensler rolü mümkün olduğu kadar sahne ışık tüm ışınları tek bir noktadan geçmesi hangi basit iğne deliği geometri koruyarak sadece çok daha fazla ışık toplamaktır. Bir kez lens aracılığıyla, ışınları daha sonra gözün durumunda vitreus içinde, bir kameranın durumunda hava, yine yaymak, sonunda altına hepsi, film, görüntüleme cihazı veya retina üzerinde kendilerini dağıtmak Görüntü düzlemi başlığı. Lens düzlem lens de görüntü düzlemine bir düzlem paralel; Tüm ışınlar lens düzleminde, yani lensin kendisi tek bir noktadan geçer.
+Daire doğrudan izleyiciye karşı karşıya olduğunda, izleyicinin lensi (bir tekerlek aksının düşünüyorum) ortasından çemberin normal hat üzerinde, yani on-ekseni olduğunu. görüntü düzlemine lens aracılığıyla daire ışık ışınları, sonra apeks objektif dairesel enine kesitli bir koni oluşturur. Görüntü düzlemi somut konik bölüm modelinde soyut kesme düzlemini gerçekleştirmektedir.
+Ek olarak izleyici doğrudan daire karşı karşıya olduğunda, daire, yani küçük ölçekli bir daire gibi, perspektif bozulma olmadan görüntü düzlemi üzerinde sadakatle işlenir. Izleyici uzak dairenin merkezi dikkatini veya bakışlarını döner görüntü düzlemi daha sonra tam koni kesme yüzeyi oluşturmak için ne olacağını karşılık gelen izleyici döner ne kadar bağlı bir elips, parabol, hiperbol veya içinde koni kestiğinde Konik bölüm döndürülür.
+Lens düzlemi (dokunur) daire teğet olduğu bir parabol ortaya çıkar. Mükemmel 180 derecelik geniş açı vizyonu ile bir izleyici bütün parabol göreceksiniz; Uygulamada bu imkansız ve sadece parabol sonlu bir kısmı film veya retinada yakalanan olduğunu.
+Izleyici ayrıca bu nedenle objektif düzlemi iki noktada daire keser o döndüğünde, görüntü düzleminde şekil bir hiperbol olur. aynı tarafta, daha doğrusu izleyici arkasında daire, kısmına tekabül sadece sonlu eğri, hiperbolün bir şube yani bir kısmını görür ve tüm ikinci şubesini görmek mümkün hala görüntüleyici, izleyici olarak objektif düzlemi. Uygulamada görüntü düzleminin sonlu ölçüde imkansız lens uçakla kesilir yere yakın daire herhangi bir bölümünü görmek için yapar. Dahası geri bir dairenin kısmı iyi ardındaki lensten geçen izleyiciden ışınları düşünebiliriz, ancak izleyici şeffaf idi. Bu durumda ışınları lensin önce görüntü düzlemi içinden geçerdi, başka pratik olmama ikinci şube hiçbir kısmı muhtemelen görünür olabileceğini sağlamak.
+lens uçakla kesilir daire teğet Hiperbolün asimtotlarını oluşturmaktadır. Bu teğet çemberin düzlemde mürekkeple çizilmiş olması mıydı, göz görünür dala asimptotlardan olarak algılarlar olacaktır. Onlar önünde ya da arkasında yakınsama olsun izleyici objektif düzlemi önünde ya da sırasıyla dairenin merkezinin arkasında olup olmadığına bağlıdır.
+Daire yere çizilen ve izleyici kademeli düz aşağı yukarı ufka doğru daire de gelen bakışları transfer edilirse Şekil 10'da As gösterildiği gibi, objektif düzlemi sonunda o ilk görüntü uçakta bir hiperbolu bir parabol üreten daire keser Bakışları somut fark varsa, Hiperbolün asimtotlarını yükselmeye birbirlerine doğru sallanan ve bakışları yatay olduğunda ufka yakınlaşan, sol ve sağ gelen görünmeye devam eder. Göğe bakışları daha da yükselmesi daha sonra izleyicinin doğru Asimptotun yakınsama noktası getiriyor.
+Dairenin geri projeksiyonuna tüm fiziksel engellerin üstesinden gelinmesi gereken edildi görüntü düzlemi üzerinde göründüğü ile aynı prensip olarak, izleyici arkasında iki teğet kısmı görünür kısmının bir uzantısı olarak resim düzleminde görünür izleyicinin önünde teğetlerini. İkinci şube gibi bu uzantı fiziksel görünür (ön sahnenin) arasındaki sınır işaretleme ufuk ve görünmez (arkasında sahnede) ve birleştirerek teğet görünen ve görünmeyen parçaları ile gökyüzünde ziyade yere materializes Tek X şekli. Bakışları kaldırdı ve ufukta hakkında indirilir gibi, X şekli bakışları kaldırdı ve tam tersi ama olduğu gibi düşürücü, karşılıklı hareket her zaman görünür kısmı X olma merkezi ile, zeminde varlık ve ufukta durdurma ile ufuk bakışları yatay olduğunda.
+Daire sadece izleyicinin bakışları değişen, izleyiciyi karşı karşıya olduğunda Yukarıdaki tüm durum için oldu. Daire uzak izleyiciden yüz başladığında izleyicinin objektif artık on-eksenidir. Bu durumda, koni kesiti daire, ancak bir elips (hiç bir parabol ya da hiperbol) artık. Ancak konik kesitler ilkesi koni olma genelgenin kesitine bağlıdır ve eksantrik koni davaya değişiklik yapılmaksızın uygulanır vermez.
+Bu görüntü düzlemi (ve dolayısıyla objektif düzlemi) dairenin düzlemine paralel, yani bile eksen dışı durumda bir daire, dairesel görünebilir olduğunu görmek zor değil. Bu eğik görüntülerken değil daire kendisi ama yer aldığı düzlemde bakmak, bir daire olarak bir çember görmek, olduğunu. Buna göre, birçok çevreler ile dolu bir uçağı, izlerken uçağı doğrudan baktı zaman hepsi aynı anda dairesel görünecek görülebilir.
+Hiperbol ilgili ortak bir yanlış algılama hiç günlük yaşamda karşılaşılan nadiren eğer matematiksel eğri olmasıdır. gerçeklik kişinin objektif uçakla kesilmiş bir dairenin kısmının görme yakalamak her biri bir hiperbolu görür ki (objektif düzlemi teğet ve bir parabol, yani sadece dokunur, daire). yetersizlik neredeyse imkansız insan görme sistemi, "y" = 1 / "x" olarak hiperboller ile bağlantıyı tanıması için yapar, ikinci şubenin tam yokluğu ile birlikte görülebilir şubesi kollar, çok çok görmek nerede Her iki dalları aynı anda sergileniyor.
+Türetilmiş eğrileri.
+Diğer bazı eğriler inversiyon, hiperbolün sözde ters eğrileri ile hiperbol elde edilebilir. Inversiyon merkezi hyperbola kendi merkezi olarak seçilirse, ters eğri Bernoulli lemniscate olduğu; lemniscate ayrıca çevrelerinde dikdörtgen hiperbol merkezli ve menşe geçerek zarf olduğunu. Inversiyon merkezi odak veya hiperbol bir köşenin de seçilirse, ortaya çıkan ters eğrileri sırasıyla limaçon veya strophoid vardır.
+Koordinat sistemleri.
+Kartezyen koordinatlar.
+("H", "k") merkezli doğu-batı açılış hyperbola denklemi vardır
+ana eksen hiperbol merkezinden geçiyor ve silah köşeler (bend puan) hiperbolün iki kolu kesişiyor. odakları hiperbol ana ekseninin uzantısı yalan.
+minör ekseni hiperbol merkezi boyunca çalışır ve büyük bir eksene diktir.
+Her iki formüllerde "a" yarı-küçük ekseni (bir hat boyunca asimptotlardan arasındaki yarı mesafe yarı-büyük eksen (ana eksen boyunca ölçülen hiperbolün iki kolu arasında yarım mesafe) ve "B" olduğunu Bir tepe de hiperbol teğet).
+Biri Asimptotun üzerinde köşe ve hiperbol teğet olan iki tarafın bir dikdörtgen oluşturur Eğer odaklar (ana eksen) arasındaki çizgiye paralel taraf ise, hiperbol taraf teğet uzunluğu "2b" dir uzunluğu "2a". "B" daha büyük olabileceğini unutmayın "a" isimleri rağmen "küçük" ve "büyük".
+Her biri odak hiperbol üzerinde herhangi bir noktadan mesafeyi hesaplar ise, bu iki mesafeler farkın mutlak değeri her zaman "2a" dir.
+eksantrikliği ile verilir
+"C", sonra, her iki odak merkezine uzaklığı eşitse
+nerede
+mesafe "c" hiperbolün doğrusal dışmerkezliği olarak bilinir. odakları arasındaki mesafe 2 "c" ya da "2 aε" dir.
+doğu-batı açılış hiperbol için odakları tarafından verilmektedir
+ve kuzey-güney açılış hiperbol için tarafından verilmektedir
+doğu-batı açılış hiperbol için directrices tarafından verilmektedir
+ve kuzey-güney açılış hiperbol için tarafından verilmektedir
+Kutupsal koordinatlar.
+hiperbol için en sık kullanılan kutupsal koordinatlar bölümünde şekilde gösterildiği gibi "Gerçek bir odakta kökeni ve" kanonik koordinat sisteminin "kökeni bakacak onun x eksenine sahiptir kartezyen koordinat sistemine göre tanımlanır anomali ".
+Bir o var bu koordinat sistemine göre
+ve gerçek anomali formula_88 aralığıdır:
+Kutupsal ile "koordinat sisteminin onanmış" göreli koordinat
+bir o var
+Hiperbol sağ dalı için formula_93 aralığıdır:
+Parametrik denklemler.
+"Hiperbol açılış Doğu-batı:"
+"Hiperbol açılış Kuzey-güney:"
+Tüm formüllerde ("h", "k") merkez hiperbolün koordinatları vardır, "a" yarı-küçük eksen uzunluğu yarı büyük eksen uzunluğu ve "B" dir.
+Eliptik koordinatlar.
+Konfokal hiperboller bir aile iki boyutta eliptik koordinatlar sisteminin temelidir. Bu hiperbollerin denklemle tanımlanmaktadır
+odakları "x" konulu kökenli bir mesafe "c" de bulunduğu -Axis ve θ "x" ile Asimptotun açısı olduğu -Axis. Bu ailede her hiperbol aynı odaklar paylaşan her elips dik olduğunu. Bu ortogonallik kartezyen koordinat sisteminin bir konformal haritası "w" = "z" + 1 / "z", "z" ile gösterilebilir = "x" + "IY" orijinal Kartezyen koordinatlar ve "w" = "u" + "iv" dönüşümden sonra olanlardır.
+Hiperbollerinin içeren diğer dik iki boyutlu koordinat sistemleri, diğer konformal dönüşümler elde edilebilir. Örneğin, haritalama "w" = "z" 2 Kartezyen dik hiperboller iki aile içine koordinat sistemi dönüşümleri.
+Dikdörtgen hiperbol.
+Dikdörtgen hiperbol, eşkenar hiperbol, veya sağ hiperbol asimptotlar dik olduğu için bir hiperbol olduğunu.
+Onların asimptotlar denklemi var koordinat eksenleri ile Dikdörtgen hiperbollerin paralel
+Dikdörtgen hiperbollerin yarı-büyük eksen ve formula_100 tarafından verilen yarı minör ekseni ile eksantrikliği formula_99 var.
+merkezi ("h", "k") kökenli olduğu zaman dikdörtgen hiperboller basit örneği oluşur:
+ters orantılıdır miktarlarda, "x" ve "y" nitelendirdi. Hiperbol denklemi formula_102 etiketli yeni koordinat eksenleri ile 45 derece saat yönünün tersine eksenleri koordinat çevirerek kanonik formu verilir
+Ölçek faktörü "m" = 1/2, daha sonra bu kanonik dikdörtgen hiperbol birimi hyperbola ise.
+Bir üçgenin orthocenter üzerinden bir circumconic geçen dikdörtgen hiperbol olduğunu.
+Uygulamalar.
+Güneş saatleri.
+Hiperbolik birçok güneş saati görülebilir. Belirli bir günde, güneş gök küre üzerinde bir daire döner ve bir güneş saati noktayı çarpıcı ışınları ışık koni izler. Zeminin yatay düzlemi ile bu koni kesiştiği bir konik bölüm oluşturur. En fazla enlemleri doldurulur ve yılın çoğu zaman, bu konik bölümde hiperbol olduğunu. Pratik açıdan bakıldığında, bir direğin ucuna gölge bir gün boyunca zemin üzerinde bir hiperbolu dışarı izler (bu yolu "sapma çizgisi" denir). bu faktörler ufka güneş ışınlarının göreli koni etkiler çünkü bu hiperbol şekli, coğrafi enlem ve yılın zaman değişir. Bir çift kanatlı balta benzer çünkü belirli bir yerde bir yıl boyunca bu tür hiperboller toplanması, Yunanlılar tarafından "pelekinon" denirdi.
+Multilaterasyon.
+, Eşdeğer, nokta ve verilen noktaları arasında senkronize sinyallerin varış süreleri arasındaki fark ya - Bir hiperbol Multilaterasyon sorunları, verilen noktalar kendi mesafelerde farklardan bir nokta bulma görevi çözmek için temeldir. Bu tür sorunlar, özellikle su, navigasyon önemlidir; Bir gemi bir Loran veya GPS vericilerinden sinyallerin geliş süreleri farkından konumunu bulabilir. Tersine, bir deniz fenerine veya herhangi bir verici iki ayrı alıcı istasyonlarında kendi sinyallerin geliş sürelerini karşılaştırarak bulunabilir; Bu tür teknikler, nesneler ve insanlar izlemek için kullanılabilir. Özellikle, 2'lik bir mesafe farkı olan bir noktanın olası pozisyonları kümesi "a" iki verilen noktalar gelen tepe ayrılması 2 bir hiperbol "a" olan odaklar iki verilen puan vardır.
+Bir parçacığın izlediği yol.
+Klasik Kepler problemi herhangi bir parçacığın izlediği yol bir konik bölümdür. Özel olarak, parçacığın toplam enerji "E" (parçacık bağlanmamış olduğunda, yani,) sıfırdan büyük, örneğin, bir parçacık bir hiperbol olduğunu belirtir. Bu özellik, yüksek enerji parçacıkları saçılma ile atomik ve atom altı güçleri okuyan yararlıdır; Örneğin, Rutherford deneyi altın atomlarından alfa parçacıklarının saçılması inceleyerek bir atom çekirdeğinin varlığını gösterdi. Kısa menzilli nükleer etkileşimleri göz ardı edilir ise, atom çekirdeği ve alfa parçacığı yalnızca Kepler problemi için ters kare yasası ihtiyacını karşılayan bir itici Coulomb kuvveti ile etkileşim.
+Korteweg-de Vries denklemi.
+hiperbolik trigonometrik fonksiyonu formula_112 bir kanal bir Soliton dalgasının hareketini tanımlayan Korteweg-de Vries denklemi bir çözüm olarak görülmektedir.
+Açı triseksiyon.
+Perga Apollonius ilk gösterildiği gibi, hiperbol herhangi bir açı, geometri iyi olarak çalışılan sorunu üçe bölmek için kullanılabilir. Bir açı dikkate alındığında, ilk puan A açısı kenarlarını keser ve B. Sonraki A ve B ve dik açıortay formula_113 ile çizgi çizmek onun köşe O, merkezli bir daire çizin. Bir odak noktası olarak doğrultmanın ve B olarak formula_113 bir eksantriklik hiperbolu ε = 2. Construct. P daire ile hiperbol kesişme (üst) olsun. Açı POB açısı açık kapanışa trisects. Bölüm PP 'segmenti BP ile aynı uzunluğa sahip iken bunu kanıtlamak için, Yansıma nedeniyle segment BP aynı uzunluğa sahip' P. Segment AP görüntü olarak 'P noktası elde formula_113 hattı hakkında çizgi parçası OP yansıtmak nedeniyle hiperbolün eksantrikliğine. OA, OP gibi 'OP ve OB aynı dairenin tüm yarıçapları (ve bu yüzden, aynı uzunluğa sahip), üçgenler OAB', OPP 've OPB tüm uyumlu bulunmaktadır. Bu nedenle, açı 3 × POB = AOB beri, üç kısımdan oluşur edilmiştir.
+Etkin portföy sınır.
+Portföy teorisinde, (etkin sınır olarak adlandırılır) ortalama-varyans etkin portföyler odağı portföy return'in standart sapma ile çizilmiş bir hiperbol doğu-açılış şube üst yarısı yatay çizilen ve beklenen değeri dikey çizilen olduğu; Bu teoriye göre, bütün rasyonel yatırımcılar bu lokus üzerinde bir noktada karakterize bir portföy seçsin.
+Uzantıları.
+Bir hiperbol üç boyutlu analog bir hyperboloid olduğunu. Hiperboloidler iki çeşit, bir kağıda bu iki yaprak olanlar gelir. Bir hiperboloid üretilmesi için basit bir yolu, onun odakları veya birinci eksenine kendi simetri eksenine dik olan ilgili bir eksen etrafında döndürmek için hiperbol olduğu; Bu rotasyonlar, sırasıyla iki ve bir levha hiperboloitlerin üretirler.

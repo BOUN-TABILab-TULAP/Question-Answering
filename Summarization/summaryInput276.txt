@@ -1,0 +1,494 @@
+Question: Ekvator çevresi neden dünya üzerinde en fazla yağış alan yerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ağir Ama Hissetmediğimiz Yük: Basinç (EBA)</DOCTITLE>
+<TEXT>
+
+Beş ton civarında bir ağırlığı kaldırabilir misiniz? Hadi bu fazla oldu diyelim peki bir ton ağırlığı kaldırabilir misiniz? Vücudunuza şu an 10-15 ton civarında bir ağırlık uygulandığı söylense ne dersiniz? Evet, yanlış duymadınız; atmosferi oluşturan gazlar vücudunuzun 1 cm2 sine yaklaşık 1033 g ağırlık uygulamaktadır. Bu, yetişkin bir insan vücuduna yaklaşık 14 ton ağırlığın yüklenmesi anlamına gelir. Peki, biz insanlar bu ağırlığı nasıl taşıyoruz? Aynı şekilde vücudumuzdan da dış ortama doğru kan basıncı uygulanmaktadır. Yani atmosfer basıncı ile kan basıncı birbirini dengelemektedir. O hâlde basınç nedir, birlikte öğrenelim.
+Atmosferin çeşitli gazlardan oluştuğunu ve her madde gibi gazların da bir ağırlığının olduğunu öğrenmiştiniz. Bu gazların özellikleri birbirinden farklıdır. Gazlar, yer çekiminin de etkisiyle yere bir ağırlık uygular. İşte bu olaya atmosfer basıncı diyoruz.
+Toriçelli Deneyi
+İtalyan bilim adamı Toriçelli, 100 cm uzunluğunda bir ucu kapalı cam boru alıp içini tamamen cıva ile doldurdu. Cıva dolu cam boruyu ters çevirerek içerisinde cıva bulunan kaba koydu. Borudaki cıvanın bir kısmının cıva kabına boşaldığını, daha sonra cıvanın sabitlendiğini gördü.
+Toriçelli bu deneyi 45° enleminde, deniz kıyısında ve sıcaklığın 0 °C olduğu bir günde yapmıştır. Bu ölçüm sonucunda 760 mm yüksekliğindeki cıvanın 1 cm2Iik yere uyguladığı ağırlık 1033 g’dır. Bu değer, 1013 milibar (mb) veya hektopaskal (hPa) olarak ifade edilir.
+Çevresine göre yüksek değerlere sahip olan basınç alanlarına yüksek basınç alanı, çevresine göre alçak değerlere sahip olan basınç alanlarına ise alçak basınç alanı denir.
+Yüksek basınç alanlarında alçalıcı hava hareketi görülür. Havanın hareketi merkezden çevreye doğrudur.
+Alçak basınç alanlarında yükselici hava hareketi gözlenir. Hava çevreden merkeze doğru hareket eder.
+Dünya’nın kendi ekseni etrafındaki hareketinden dolayı rüzgârlar, Kuzey Yarım Küre’de hareket yönünün sağına, Güney Yarım Küre’de ise soluna doğru sapar.
+Sıcaklık, yükselti, Dünya’nın günlük hareketi ve yer çekimi basıncı ve basıncın dağılışını etkileyen faktörlerdir.
+Dünya’nın Her Yerinde Basınç Aynı mıdır?
+Günümüze kadar yeryüzündeki en yüksek hava basıncı Sibirya'da bulunan Agata kentinde kaydedilmiştir. Burada hava basıncı deniz seviyesinde 1083,8 mb olarak ölçülmüştür. En düşük hava basıncı ise 870 mb olarak 1979’da Büyük Okyanus'un üzerinde oluşan “Tip" adlı kasırganın merkezinde ölçülmüştür.
+Sürekli Basınç Kuşakları
+Termik Alçak Basınç Kuşağı
+Ekvator ve çevresi, güneş ışınlarını dik ve dike yakın açılarla aldığından yıl boyunca sıcaktır. Isınan havanın genleşip yükselmesine bağlı olarak sürekli termik alçak basınç kuşağı oluşmuştur.
+Termik Yüksek Basınç Kuşağı
+Kutuplar çevresi, güneş ışınlarını dar açılarla aldığından buralarda sürekli soğuk hava etkilidir. Soğu-yan havanın ağırlaşarak alçalması nedeniyle buralarda sürekli termik yüksek basınç kuşağı oluşmuştur.
+Dinamik Yüksek Basınç Merkezi
+Dünya'nın kendi ekseni etrafındaki dönüşünün rüzgârlar üzerinde meydana getirdiği sapma etkisiyle 30° enlemleri çevresinde oluşan basınç merkezidir. Bu merkez Kuzey Yarım Küre’de yaz aylarında kuzeye, kış aylarında güneye doğru genişler. Alçalıcı hava hareketlerine bağlı olarak havanın ısınması ve nem miktarının düşmesi nedeniyle 30° enlemleri çevresindeki karalar üzerinde çöller oluşur.
+Dinamik Alçak Basınç Merkezi
+60° enlemlerinde kutup rüzgârları ve batı rüzgârları karşılaşır. Karşılaşan bu rüzgârlar Dünya’nın kendi ekseni etrafındaki dönüşü nedeniyle birbirlerini yukarıya doğru iterler. Bu hava kütlelerinin yükselmesi ile geride alçak basınç alanı oluşur.
+Basınç dağılışı, aynı basınç değerine sahip noktaların birleştirilmesiyle elde edilen eş basınç eğrileriyle (izobar) çizilmiş haritalarla gösterilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fırtına Deresi</DOCTITLE>
+<TEXT>
+
+Fırtına Deresi, Doğu Karadeniz'de yer alan akarsulardan birisi olup, Kaçkar Dağları'nın Karadeniz'e bakan yamaçlarındaki derelerin birleşmesi ile oluşmuştur. Rize Ardeşen'in yaklaşık 2 km batısında Karadeniz'e dökülen Fırtına deresi, 57 km uzunluğundadır. Çay bahçeleri içerisinden geçen, üzerindeki kemer köprülerle süslü Fırtına deresi, raftinge elverişli parkurlara sahiptir.
+Parkur.
+Rize - Ardeşen kara yolundan, güneye çıkan karayolu takip edilerek 22. km'de Çamlıhemşin ilçesine ulaşılır. Çamlıhemşin'in yaklaşık 1 km güneyinden parkura başlanılabilinir. (km: 0) 5. kilometrede iri kayalara dikkat edilmelidir. 7. km, 8. km ve 9. kilometrede tehlike arz eden geçişler olduğu için suyun iyi incelenmesi gerekir. 12. kilometrede batı yönünde kalan yamaçtaki Duygulu şelalesi yöreye ayrı bir güzellik vermektedir. Parkuru, Fırtına deresinin Karadeniz'e dökülmeden önce uygun bir yerinde bitirmek mümkündür.
+Yaklaşık 23 km süren parkur boyunca derenin yatağı çok taşlık olup, suyun debisine göre 3 - 4 - 5 zorluk derecesinde yerler vardır. Aşırı yağmurlarda dikkat edilmelidir. Fırtına Deresi bütün yıl boyunca akarsu sporu için uygundur.
+Fırtına Deresi, Kaçkarlarda bulunan ve yerli turistler kadar yabancı turistlerin ve doğa tutkunlarının uğrak yeridir.
+Fırtına deresi yükseklerden inerken birçok kola ayrılır. Bu kollar dağın yamaçlarında akarken ormanın içinde birçok irili-ufaklı göller ve çağlayanlar meydana getirirler. Fırtına deresi özellikle son yıllarda rafting sporuna meraklı olanlar için ideal bir merkez halini almıştır.
+Dere Havzası.
+Fırtına Deresi havzası Rize ilinin Ardeşen ve Çamlıhemşin ilçelerinin
+Sınırları içerisinde yer almakta olup, 1177,03 km²’lik yüzölçümü ile Doğu
+Karadeniz’deki en büyük akarsu havzalarından biridir. Kuzeyden Karadeniz,
+güneyden Kaçkar ve Soğanlı dağlarının su bölümü çizgisi ile sınırlanmıştır. Deniz
+kıyısından hemen duvar gibi yükselen dağlar 40 km kuş uçuşu mesafede 3900
+metrelere ulaşır. Türkiye’nin 4. büyük zirvesi olan Kaçkar Dağı 3932 m çalışma
+sahasını güneyden sınırlayan su bölümü hattının en yüksek noktasıdır. Yine,
+Verçenik Dağı (3711 m), Altıparmak Dağı (3562 m) sahayı güneyden sınırlayan
+yüksek kütlelerdir. Çalışma sahasını doğuda Çağlayan Deresi havzası, batıda ise
+Ortaköy Deresi havzası ile sınırlanmıştır.
+Klimatik Özellikler.
+Dünya iklimlerinin yapısı genel olarak atmosfer sirkülasyonuna bağlı olmakla
+beraber, bulunan yerin matematiksel konumu v.b özellikleri de bağlıdır. Böylece
+yüksek enlemlerde kutup ve kutup altı iklimleri görülürken, orta enlemlerde ılıman
+iklimler, tropikal iç bölgelerde ise ekvatoral ve tropikal iklimler görülmektedir.
+Özellikle yer-deniz-atmosfer ilişkileri, karasallık, yerşekli, yükseklik etkisi bölgesel
+iklimlerin kökenini tayin eder.
+Çalışma sahası polar hava kütleleri ile tropikal hava kütlelerinin geçiş
+sahasında yer alır. Bu kütlelerin gezici karakterde olması nedeniyle bölgede iklim
+mevsimlere göre değişiklik gösterir. Kışın polar hava kütleleri hakim iken yazın
+tropikal hava kütleleri sahada etkili olur ve bol yağış alır.
+Sıcaklık.
+Sahanın dağlık olması ve kısa mesafelerde 3900 metreye kadar
+yükseltinin artması sıcaklık değerlerinin havza içindeki farklı noktalarda farklı
+değerler göstermesine neden olur. Yükseklikle sıcaklığın değişmesinde, atmosferin
+yerden ısınması, atmosferin ve su buharının alt kısımlarında daha yoğun olması
+önemli faktörlerden biridir. Yıllık ortama sıcaklık Ardeşen’de 13,9 °C dir. Ortalama
+yüksek sıcaklık 17,5°C ve ortalama düşük sıcaklık 11,3 °C değerlerinin birbirine çok
+yakın olmasında en önemli faktör sahadaki nem oranıdır. Ardeşen meteoroloji
+istasyonun kıyıda yer alması ve yıllık ortalama bağıl nem değerinin % 70–80 arasında
+değişmesi aşırı ısınmaya ve soğumaya engel olmaktadır. Ayrıca fön rüzgarlarının kış
+aylarında sahayı etkilemesi aşırı soğumayı engellemektedir. Sahada en soğuk mevsim
+kış olup; en düşük ortalama sıcaklık şubat ayında görülür (3,1 °C). Şubat ayından
+sonra ısınan hava hafif değişkenlikler göstererek en yüksek değerlere Ağustos ayında
+ulaşır. Ağustos ayı ortalama sıcaklığı 23,4 °C iken ortalama en yüksek sıcaklık ise 27,3 °C dir. Ağustos ayından sonra Aralık ayına kadar düzenli bir şekilde düşen
+sıcaklık Şubat ayında yine minimum değerlere ulaşır
+Yağış.
+Çalışma sahası Türkiye genelinde en fazla yağış alan bölgesi içerisinde yer alır
+(Yıllık toplam yağış miktarı 1956 mm). Her mevsim bol yağış alan sahada Eylül,
+Ekim, Kasım ve Aralık aylarında aylık ortalama yağış 200 mm’nin üzerindedir. En
+fazla yağış Ekim ayında düşer (273 mm,). Yağışlar bahar ve yaz aylarında
+yağmur şeklinde iken, kış aylarında kıyıda yağmur zaman zaman kar, yüksek sahalara
+doğru kar şeklinde düşer. Sonbaharda sağanak karakter taşıyan yağışlar, çalışma
+sahasında sel ve taşkın gibi doğal afetlere yol açar. Sahada yağışın en az olduğu ay
+Nisan ayı olup (57 mm) genel itibariyle bahar mevsiminde yağış diğer mevsimlere
+göre daha azdır. Sahanın topografik şartları yağışın fazlalığında rol oynayan en
+önemli etkenlerden biridir. Çalışma sahasında dağların denize paralel şekilde ve
+kıyıdan kısa mesafeler içinde yükselmesi orografik yağışların oluşmasına sebebiyet
+vermektedir.
+Jeomorfolojik Özellikleri.
+Fırtına Deresi havzası Doğu Karadeniz Dağlarının Karadeniz aklanında yer
+alan akarsu havzalar içerisinde en büyük ve yüzey şekilleri bakımından en arızalı
+görünüme sahip olanıdır. Çalışma sahasında, deniz kıyısından güney yönünde 40 km
+gidildiğinde 3900 metrelere kadar çıkan (Karçar zirvesi 3932 m) ani bir yükselti
+artışını görmek mümkündür.
+Fırtına Deresi Havzasının Jeomorfolojik görümüne bakıldığında, öncelikle
+kıyıdan başlayan ve basamak şeklinde yükselen taraçalar dikkati çeker. Havzanın iç
+kısımlarına doğru, akarsu boyunca vadi tabanlarında ve eğim şartlarının da müsaade
+ettiği yüksek kısımlarda dağ içi ovaları yer alır. Havza genelinde diğer dikkat çekici
+jeomorfolojik özellik ise gittikçe daralan ve derinleşen V şekilli vadilerdir. Daha
+yüksek sahalarda kademeli yamaçlar, 2000 metrenin üzerinde yerine kayalıklara
+geçilir. 2500 metrenin üzerinde ise büyük glasiyal vadilerinin ve üst seviyelerde ise
+hakim sivri tepeler ve daimi karlarla ve buzlularla kaplı dağlar yer alır (Şekil 15).
+Katılaşım kayaçlarının büyük alanlara yayıldığı çalışma sahası, üst kreatese
+de meydana gelen tektonik deformasyonlar sonuncu kıvrılmış ve yükselmiştir.
+Neotektonikte de devam eden tektonik deformasyonlar, sahada kabaca KD-GB ve DB
+doğrultusunda uzanan tektonik hatlar ile, akarsu şebekesinin oluşum ve gelişimini
+yönlendirmiş, yer yer 300 metreyi bulan su düşüşlerine ve eğim kırıklıklarına neden
+olmuştur. Tektonizma sonucunda yükselen saha, dış etken ve süreçlerin günümüze
+kadar devam eden faaliyetleri sonucunda bugünkü görünümüne kavuşmuştur. Alçak
+alanlarda ve platolarda flüviyal süreçler, okyanusal iklim şartlarını yansıtan bir yağış
+etkinliği ile sahayı hızla aşındırırken, yüksek kesimlerde de son buzul çağının
+morfolojik izleri hala görülebilmektedir. Yüksek kesimlerde, buzul topoğrafyasına
+ait izler 3900-2100 metreler arasında görülebilir. 2100 metreden daha alçak irtifalara
+inildikçe Fırtına deresi, yatağını iyice yararak bazı kesimlerde 1500 metreye varan
+dik yamaçlı derin vadiler açar. Fırtına deresi havzasının profil serilerine bakıldığında
+sahadaki kademeli yapı ve kuvvetli aşınımın izlerini görmek mümkündür.
+Fırtına deresi havzasında, eğim güneyden kuzeye doğru, diğer bir deyişle Doğu
+Karadeniz dağların zirvelerinden Karadeniz’e doğru yönelmekle birlikte, aynı
+zamanda çalışma sahasında doğudan batıya doğru bir çarpılma söz konusudur.
+Toprak Özellikleri.
+Fırtına deresi havzasında yüksek yağış etkinliği, mevsimler arasında fazla
+değişkenlik göstermeyen sıcaklık faktörleri, kıyıdan 3900 metrelere hızlı bir şekilde
+ulaşan arızalı topoğrafyası ve jeolojik yapıda volkanik kayaçların yoğunlukta olması
+farklı toprak gruplarının oluşmasına neden oluşmuştur.
+Köy Hizmetleri Genel Müdürlüğü tarafından yapılan kapsamlı arazi
+çalışmalarına göre, Rize toprakları altı ana grupta toplanmaktadır. Bunlar; alüvyal
+topraklar, kolüvyal topraklar, kırmızı-sarı podzolik topraklar, gri-kahverengi
+podzolik topraklar, kireçsiz kahverengi orman toprakları ve yüksek dağ çayır
+toprakları şeklindedir.
+Kaynakça.
+BAYRAKDAR,C,2006 Fırtına Deresi Havzasının Uygulamalı Etüdü Yüksek Lisans Tezi,İÜ,COĞRAFYA ANABİLİM DALI,İSTANBUL
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’De İklim Çeşitleri (EBA)</DOCTITLE>
+<TEXT>
+
+Devlet Meteoroloji İşleri Genel Müdürlüğünün, “www.meteor.gov.tr” adlı sitesinden derlenen bilgilere göre Türkiye’de son yüzyılda kaydedilen en yüksek ve en düşük sıcaklık değerleri ile yağış miktarı ve kar kalınlıkları şöyledir: Van’da 9 Ocak 1990 tarihinde ölçülen sıcaklık, -46,4 °C ile bugüne kadar Türkiye’de ölçülen en düşük sıcaklık olarak gerçekleşti. Buna karşılık en yüksek sıcaklık ise 48,8 °C ile Mardin Kızıltepe’de 14 Ağustos 1993’te ölçüldü. Türkiye’de en düşük ortalama sıcaklık 1,8 °C ile 1972 yılında Kars-Sarıka-mış’ta, en yüksek ortalama sıcaklık ise 21,3 derece ile 1962 yılında İskenderun’da belirlendi. Türkiye’nin en fazla yağış alan illerinin başında gelen Rize’de, 1931 yılında 4045,3 mm ile yıllık en yüksek toplam yağış, 114,5 mm ile de 1970 yılın da İğdır’da en düşük toplam yağış gerçekleşti. Bitlis’te 1954 yılının şubat ayında 525 cm ile en yüksek kar kalınlığı ölçülürken günlük en yüksek yağış miktarı da 11 Aralık 1971’de 469,9 mm ile Antalya-Kemer’de görüldü.
+Türkiye'de yağış rejimleri
+Dünya’nın diğer bölgelerinde olduğu gibi Türkiye’de de yağış miktarları yere ve zamana göre değişiklik gösterir. Yıl içinde yağışın mevsimlere göre gösterdiği bu değişikliğe (azalıp çoğalmaya) yağış rejimi denir.
+Türkiye’nin coğrafi özelliklerine bağlı olarak farklı yağış rejimleri görülür. Aşağıdaki tabloda ülkemizdeki yağış rejimleri, türleri ve bunların mevsimlere göre dağılışı verilmiştir.
+Yağış rejimleri	En fazla yağış	En az yağış	Yağış türü ve tipi	Düzenli / düzensiz
+Karadeniz yağış rejimi	Sonbahar	İlkbahar	Yağmur - yamaç yağışları	Düzenli
+Akdeniz yağış rejimi	Kış	Yaz	Yağmur - cephe yağışları	Düzensiz
+Karasal yağış rejimi (Orta Anadolu)	İlkbahar	Yaz	Yükselim yağış	Düzensiz
+Marmara yağış rejimi	Kış - İlkbahar	Yaz	Kar-yağmur-yamaç ve cephe yağışları	Kısmen düzenli
+Karasal yağış rejimi (Kuzeydoğu Anadolu)	Yaz	Kış	Kar-yükselim yağış	Düzensiz
+Türkiye’de Donma Olayı
+Ülkemizde donma, özellikle sonbahar, kış ve ilkbahar aylarında görülen bir iklim olayıdır. Ancak tarım sektöründeki etkileri nedeniyle sonbaharda ve özellikle bitki gelişiminin hızlandığı ilkbahar döneminde görülen donma oldukça zararlıdır.
+Daha önce de öğrendiğiniz gibi sis önemli bir hava olayıdır. Özellikle ulaşımı etkilemesi bakımından önem taşır.
+Türkiye'de sis olayı
+Türkiye’de sis olayları en fazla hangi mevsimlerde görülür? Yaşadığınız yerde sis olayı hayatınızı nasıl etkiler?
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Canlilarin Yeryüzüne Dağilişini Etkileyen Coğrafi Faktörler (EBA)</DOCTITLE>
+<TEXT>
+
+I.	Fiziki faktörler a. İklim
+Bitkilerin gelişmesi ve büyümesi için belirli bir sıcaklığa ihtiyaç vardır. Bu nedenle sıcaklık bitki çeşitliliği ve bunların yayılış alanları üzerinde etkilidir. Birçok bitki türü için sınırlayıcı en alt ve en üst sıcaklık -40 °C ile +40 °C arasındadır. Bitkiler, farklı sıcaklık isteklerine bağlı olarak ekvatordan kutuplara doğru sıralanmıştır.
+Şekil 3: Sıcaklık ue nemliliğin bitki türleri
+Su, bitkiler için hayati önem taşır. Bitkiler ihtiyaç duydukları suyu yağış, hava ve toprağın neminden elde eder. Bitkilerin çoğunun bünyesinde bulunması gereken su miktarı belli bir oranın altına düştüğünde bitkiler yaşamsal fonksiyonlarını kaybeder. Bu nedenle yeryüzünün kurak ve yarı kurak sahalarında bitki örtüsünün sık olmadığı görülür (Şekil 2).
+Bitkilerin yeryüzüne dağılışı, hayvan türlerinin dağılışını doğrudan etkiler. Her iklim kuşağında bulunan bitki örtüsü, kendine özgü hayvan topluluklarını bünyesinde barındırır. Genel olarak sıcak iklimlerin etkili olduğu alanlarda hayvan türleri, soğuk iklim bölgelerine göre daha fazladır. Örneğin, Kanada'da 15 memeli hayvan türü varken bu sayı Orta Amerika'da 150’ye ulaşır.
+Bitki ve hayvan türleri yaşamlarını devam ettirebilmek için bulundukları ortamın iklim koşularına uyum sağlamak (adaptasyon) zorundadır. Dünyanın farklı yerlerinde adaptasyonun nasıl gerçekleştiğini örneklerle inceleyelim.
+Tropikal Yağmur Ormanları
+Tropikal ormanlar uzun boylu, geniş yapraklı ve sık ağaçlardan meydana gelir. Burada yaprakları daima yeşil kalan türler yaygındır. Yağmur ormanlarının varlığı, sürekli yağış ve yüksek sıcaklıklarla ilgilidir.
+Yağmur ormanlarının kendine has özellikleri buralarda farklı canlı türlerinin yaşamasına olanak sağlayan katmanlar oluşturmuştur (Resim 1).
+Ekvatoral yağmur ormanları dünyanın en zengin doğal yaşam alanlarıdır. Bitki ve hayvan türlerinin % 50-70’ini bu ormanların barındırdıkları tahmin edilmektedir.
+10 km2 lik yağmur ormanı alanı ortalama olarak:
+* 15.000 tür çiçek	* 750 tür ağaç * 400 tür kuş	* 100 tür sürüngen *	60 tür kurbağa *	4000 tür böcek barındırmaktadır.
+Çöller
+İklim koşullarına göre kurak ve yüksek sıcaklığa sahip alanlara sıcak çöl, aşın düşük sıcaklıktaki alanlara da soğuk çöl denilmektedir.
+Sıcaklık, ışık ve yağış miktarının bitki ve hayvan yaşamındaki sınırlayıcı özelliği çöllerde belirgin biçimde görülür. Çöller, çetin iklim koşulları nedeniyle fauna ve flora bakımından fakir ortamlardır (Fotoğraf 1).
+Sıcak çöllerde suyun azlığı bitkiler ve hayvanlar için en önemli sorundur. Bu nedenle çöl bitkilerinin bir kısmı suyu bulduğu zaman onu en yüksek düzeyde kullanarak kısa sürede filizlenir, meyve verir ve tohum saçar. Tohumlar da su buluncaya kadar bekler. Bazı çöl bitkilerinin su kaybını en aza indirmek için toprağın üstündeki bölümleri çok küçüktür. Bunların toprak altında yaygın kökleri vardır. Bazıları ise güneş ışığının etkisini en aza indirecek kadar ince ve uzundur. Örneğin, Saguara kaktüsü 15 m yüksekliğe ulaşır (Fotoğraf 2). Kaktüs gibi bitkiler suyu gövdelerinde depolar. Yaprakların yerini alan dikenler, nem kaybını azaltır (Fotoğraf 3).
+Çöllerde yaşayan birçok hayvan türünün kendine has davranışsal ve yapısal özellikleri vardır. Çöl hayvanları fazla ısıyı bedenlerinden uzaklaştırmak için değişik mekanizmalar kullanır. Birçok çöl hayvanının rengi başka bölgelerdeki hayvanlara kıyasla daha açıktır. Pek çok çöl hayvanı, su ihtiyaçlarını bitkilerden özellikle su depolayan kaktüslerden temin eder.
+Örneğin, bazı çöl kertenkeleleri, çoğunlukla hareket halindedir ve sadece gölgede dinlenir. Yarasa, yılan, kemirgen, tilki, kokarca gibi hayvanlar geceleri ortaya çıkar, gündüzleri serin bir oyuk ya da mağarada uyur (Fotoğraf 4).
+Soğuk çöller, buzlarla kaplı olduğu için yağış alan kıyı kesimleri dışındaki yerlerde yaşam pek mümkün değildir. Burada yaşayan penguen, fok, kutup tilkisi, beyaz ayı ve kuş gibi hayvanlar besinlerini genellikle denizden sağlar (Fotoğraf 5).
+Kutuplarda yaşayan hayvanlar, düşük sıcaklıklar ve besin yetersizliği gibi şartlara uyum sağlamak zorundadır.
+Örneğin, kutup ayıları, soğuktan korunmak için buzun içinde kazdıkları yuvalarda kışı uyuyarak geçirir.
+Kutup bölgelerindeki yaşam koşullarına uyum sağlamış olan fokların derilerinin altında kalın bir yağ tabakası mevcuttur. Bu tabaka soğuk sularda yaşayan fokların vücut ısısının çabuk düşmesini önler (Resim 2).
+b.	Yer Şekilleri
+Yeryüzündeki önemli dağ sıralarının yakın bölgeler arasında meydana getirdiği iklim farklılığı canlı yaşamı üzerinde de çeşitliliklere neden olmuştur. Dağların denize bakan yamaçlarında ılıman iklim şartlarına bağlı olarak tür çeşitliliği fazla iken iç kesimlerde azdır. Örneğin, Toroslar ve Kuzey Anadolu sıradağlarının kuzey ve güney kesimleri farklı bitki türlerinin yayıldığı önemli jeomorfolojik birimlerdir.
+Kara ve denizlerin dağılımı, canlıların yeryüzüne yayılışını etkiler. Denizler karalarda yaşayan canlılar için, karalar ise denizlerde yaşayan canlılar için yayılmaya engeldir. Örneğin, okyanuslardaki adalarda büyük kara parçalarında olmayan bitki ve hayvan türleri görülür.
+Diğer yandan doğal olan ya da doğal olmayan etkenler sonucunda meydana gelen bazı değişimler kara ve denizler arasında canlı türlerinin geçişine imkân sağlayabilir.
+c. Toprak
+Canlıların yaşam alanlarını belirleyen önemli bir faktör de topraktır. Bitki ve hayvanlar yaşamak için toprağa ihtiyaç duyar (Resim 3). Toprağın fiziksel yapısı, kimyasal özellikleri, nem, sıcaklık ve canlı organizmalar bitki ve hayvanların yaşam alanı seçiminde etkili olur. Örneğin, kalkerli topraklar üzerinde kolaylıkla yayılış gösteren bazı bitkiler, silisli topraklar üzerinde seyrekleşir ya da yok olur. Salyangozlar, kireçli topraklann olduğu alanlarda yoğunluk gösterirken volkanik toprakların bulunduğu yerde sayıları azalır. Tuzlu topraklara uyum sağlamış bitkiler diğer topraklarda görülmez.
+II.	Biyolojik Faktörler
+a.	İnsan
+Biyolojik çeşitliliği tehdit eden insan kaynaklı birçok faktör vardır. İnsan, endüstriyel ve tarımsal faaliyetlerle çevresini önemli ölçüde değiştirir. Bu değişiklikler de yeryüzündeki canlıların yaşam alanını etkiler. İçinde bulunduğumuz yüzyılda dünya nüfusunun hızla artması, sanayi ve teknolojideki gelişmeler ekosistemdeki tür kayıplarını oldukça arttırmıştır. Yapılan araştırmalarda günümüzdeki tür kayıplarının geçmişe göre 1000 ila 10 bin kat daha fazla olduğu belirtilmektedir. Tür kayıpları ekosistemdeki bütün canlıların yaşamını doğrudan etkilemektedir. Her bir tür birbiri ile karşılıklı ilişki içinde olduğundan bir türün yok olması ekosistemin dengesini bozmaktadır.
+Nüfus artışına bağlı olarak şehirlerin yayılım alanlarının gittikçe genişlemesi birçok canlı türünün yaşadığı çevreyi daraltmış ya da yok etmiştir. Hayvan ve bitki türlerinin çok azı şehir ortamına uyum sağlayabilmiştir. Örneğin, serçe genellikle insanların yaşadığı yerlerde bulunan bir kuş türüdür, eskiden
+tahılla beslenirken günümüzde değişen şartlara göre çok farklı besinler yemeye alışmıştır.
+b.	Diğer Canlılar
+Ekosistemdeki canlıların birbirleriyle olan ilişkilerine bağlı olarak bir bölgedeki canlı türü çeşitliliği değişir. Örneğin bir bölgede bitki tür ve çeşitliliğinin fazla olması o bölgede yaşayan otçul canlı türünün fazla olmasına neden olur.
+III.	Paleocoğrafya
+a.	Kıtaların kayması
+Bitki ve hayvan türleri üzerinde bugünkü şartlarla beraber geçmiş dönemlerde hâkim olan çevre şartları da büyük ölçüde etkilidir. Kıtalarda ve iklimlerde meydana gelen değişiklikler, canlıların yeryüzüne dağılışını önemli ölçüde belirlemiştir.
+Yeryüzünde, tek büyük kara parçası olan Pangea’dan bugünkü görünümünü alana kadar geçen süre boyunca kara ve denizlerin dağılışında büyük değişiklikler meydana gelmiştir. Kıtaların yaklaşması ya da uzaklaşması bitki ve hayvanların göç yollarının değişmesine, daha önce bir arada bulunmayan türlerin birbirleriyle karşılaşarak etkileşimlerine neden olmuştur.
+b.	İklim değişiklikleri
+İklim değişiklikleri bazı türlerin yok olmasında, bazı türlerin çevreye uyum sağlamasında veya göç etmesinde önemli bir etkendir. İklim değişikliğine bağlı olarak deniz seviyesinde meydana gelen değişimler, kıyılarda yaşayan bazı türlerin kitlesel olarak yok olmasına neden olmuştur. Buzul Çağlarında buzulların kapladığı alanlar genişlediği için kara hayvanlarının yeryüzünde yayılış alanları daralmıştır.
+Su seviyesindeki değişiklikler, okyanuslardaki habitatların ya tümüyle yok olmasına ya da azalmasına neden olmuştur. Bu değişimlerden en çok etkilenen yerler canlı çeşitliliğinin bol olduğu mercan kayalıklarıdır.
+Kıtaları birbirine bağlayan geçitlerin sular altında kalması ve zaman zaman kara hâline geçmesi hayvanların göçlerini etkilemiştir. Örneğin, Bering Boğazı’nın kara hâline geçmesi Sibirya'dan Kuzey Amerika'ya olan göçleri meydana getirmiştir. Bu durum, her iki kıtadaki hayvan türlerinin birbirine benzemesinde etkili olmuştur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Erozyon</DOCTITLE>
+<TEXT>
+
+Erozyon, diğer adıyla aşınım, yer kabuğunu oluşturan kayaçların, başta akarsular olmak üzere türlü dış etkenlerle yıpratılıp yerinden koparılarak eritilmesi veya bir yerden başka bir yere taşınması olayıdır. 
+Tarımda kullanılan alanların %70'i özelliklerini kaybederek dünya genelinde toplam kara üzerinde %30 civarında çölleşmeye sebep olmuştur. Dünyada erozyon sebebiyle çölleşme tehlikesi bulunan 110 ülke bulunmaktadır. Bu çerçevede Birleşmiş Milletler Çevre Programı tarafından yapılan hesaplamalarla, dünyada çölleşme ve erozyonun önüne geçebilmek için yılda 42 milyar dolar harcanması gerektiği bulunmuştur. 
+Türkiye topraklarının ise, %90'ı su erozyonu, %1'i de rüzgâr erozyonuna maruz kalmaktadır. Tarım topraklarında bu oran su erozyonu için %75 civarındadır. Türkiye'deki erozyon sonucunda yılda 500 milyon ton verimli toprak kaybedilmektedir. 
+Doğal şartlarda gerçekleştiğinde kaybedilen verimli topraklar, doğal döngü çerçevesinde telafi edilebilmektedir... Erozyon bilinçsizlik ve insan etkisiyle telafi edilemez boyutlara ulaşabilmektedir. Erozyonun etkisi sebebiyle kaybedilen verimli topraklar tarımsal üretim kapasitesinin düşmesine sebep olmaktadır. Erozyonun oluşması doğal faktörler ile gerçekleşmekte ancak erozyonun telafi edilemez zararlara sebep olması, insanların bu faktörleri hızlandırmasıyla gerçekleşmektedir.
+Erozyon çeşitlerinden olan su erozyonu en etkili erozyondur. Bu erozyonda yağmur damlalarının aşındırmasının yanında yüzey akışa geçen sularında önemli bir etkisi bulunmaktadır. Diğer bir erozyon çeşidi olan rüzgar erozyonu ise rüzgarın etkisiyle gerçekleşen aşınım ve taşınım olayıdır. 
+Erozyonun verimli toprakların kaybına yol açmasının yanında peri bacalarının oluşumuna yol açması, doğal bir güzelliğin meydana gelerek turizm bölgeleri oluşturmasına ve bir tezat oluşturmasına neden olmaktadır. Uzun yıllar sonunda özel erozyon çeşitlerinden olan korunmuş sütun erozyonu bu oluşumlara sebep vermektedir.
+Nedenleri.
+Erozyon oluşumunun nedenleri bazı doğal unsurlardır. Diğer bir söylemle erozyon tabiatın kuruluşundan bu güne kadar gerçekleşen ve tabii bir olaydır. Doğal yolla gerçekleşen bu erozyon tabiat tarafından toprak oluşumu ile dengelenebilmektedir. Ancak doğal yolla gerçekleşen erozyon insanların etkisiyle tabiatın karşılayamayacağı oranda artabilmektedir. Bu şekildeki erozyona "hızlandırılmış erozyon" denilir. Erozyonun tanımından da anlaşılacağı gibi erozyonun en önemli nedeni, toprağın aşınıp taşınmasına etki edebilecek faktörlerin etkisinin arttırılmasıdır. Bitki örtüsü yönünden zayıf toprakların taşınımı oldukça kolaydır. Rüzgâr,yüzey akışa geçmiş yağış ve sulama suları, yerçekiminin eğim ile birleşerek toprağı taşıyabilmesi bitki örtüsünün varlığı ile yakından ilgilidir. Bitki örtüsü topraktaki eğime rağmen toprak parçalarının önünde set oluşturarak taşınımını engelleyebilir. Rüzgârın ve yağmur damlalarının etkisini azaltarak aşınımı ve taşınımı yavaşlatabilir. Erozyonun en önemli sebeplerinden bir taneside bilgisizliktir. Özellikle tarım yapılan arazilerde, bilinçli olunmadan erozyonun artması sağlanmaktadır. Tarımsal arazilerde anızların yakılması kısa vadeli ürün artışına sebep olur. Bunun sonucunda yeterli bilgi sahibi olmayan çiftçi anızları yakarak toprak yapısı ve toprakta yaşayan canlılara zarar vererek dolaylı yollarla erozyona sebep olabileceği gibi. Eğim yönünde tarlasını sürerek toprağın yerçekimi, su veya rüzgarın etkisiyle taşınımına sebep olabilir. Orman yangınlarıda doğal bitki örtüsü ve yaşayan organizmaların yok olması ile erozyonun artışına sebep olmaktadır. Özellikle dağlık alanlardaki ormanların yanarak yok olması erozyonu daha fazla etkiler. Erozyon yağışın dışında mevcut akarsu, dere veya göller ilede gerçekleşebilir. Örneğin akarsular, suyun aşındırma gücü sayesinde toprağı aşındırarak bir başka yere taşıyabilirler. Yoğun yağışlar sonrasında taşkınların olması ile de toprak taşınabilir. Suyun aşındırma gücü oldukça fazladır. Örnek olarak deniz tabanındaki taşların büyük bir kısmı yuvarlak şekillidir. Bunun sebebi taşların yeterince sert olmaması değil, suyun aşındırma gücünün oldukça yüksek olmasıdır. Toprağın bünyesi de erozyonun başlıca nedeni olabilmektedir. Kumsallarda rahatlıkla görebildiğimiz kum bünyeli topraklar erozyona dayanıksızlıkları nedeniyle erozyona neden olabilirler.
+Toprak oluşumu ve erozyona etkileri.
+Erozyonun gerçekleşmesinde toprak özelliklerinin de önemli bir etkisi vardır. Toprak oluşumuna etki eden faktörler, toprak özelliklerini de etkileyerek, erozyon gerçekleşme olasılığını artırır. Toprak oluşumunun erozyona etkileri 5 farklı şekilde olur.
+Zaman, Toprak oluşumunda etkili olan faktörlerden birtanesi zamandır. Her bir toprağın oluşması için aynı miktarda zamana ihtiyaç duyulmaz. Bazı topraklar daha uzun zamanda oluşurken bazıları için daha kısa zaman yeterli olur. Örnek olarak yumuşak ana materyalden daha kısa sürede toprak oluşur. Erozyona uğrayan topraklarda toprak derinliği azaldıkça oluşum hızı artar. Böyle topraklardan toprağın derinliğinin artması, aşınım hızı ve oluşum hızı arasındaki dengeye bağlıdır. Buna göre;
+Topografya ve drenaj, İklim etkisi dışında topografya ve drenajın da önemli etkisi bulunmaktadır.
+Topraktaki eğim, yükselti v.b. tüm faktörler, gerek yağışların, gerekse yer çekiminin etkisiyle o bölgenin topraklarının taşınımı üzerinde etkili faktörlerdir. Bu taşınım toprağın alt katmanlarının aşınması ve toprak oluşumunu etkileyeceği gibi toprağın derinliği ve erozyona uğramasını da doğrudan etkileyecektir. Tüm bu etmenler topografya ve drenajın erozyona etkisini göstermektedir.
+Canlılar, Doğada toprağın oluşumu, aşınımı ve erozyona etkisi olan önemli faktörlerden birtaneside canlılardır. Mikro ve makro organizmalar toprak oluşumunda, salgıları veya hareketleri ile toprak oluşumunu hızlandırırlar. Toprak oluşumunun hızlanması ile toprak derinliği artar. Bu çerçevede toprak oluşumu ve erozyona dolaylı olarak etkisi bulunan canlıların varlıkları erozyon ile mücadelede önemli bir yer tutar. Örnek olarak tarımda anızların yakılarak yokedilmesi, toprakta yaşayan mikroorganizmaların ölmesine neden olarak toprak oluşumuna engel olur. Aynı zamanda bu canlıların sayılarının azalması ile topraktaki bitki besin elementlerinin bitkilerce kullanılabilir forma dönüştürülmesininde imkânı kalmaz. Sonuç olarak bitkiler besin maddelerinden yararlanamayarak ölürler. Toprakların çoraklaşarak erozyonun önü açılır.
+Ana mataryal, Toprağın oluştuğu bölgedeki ana materyal, toprağın çeşidini ve erozyona dayanımını etkileyen bir diğer önemli faktördür..
+Diğer bir değişle ana materyal, oluşacak olan toprağın özelliklerini oldukça önemli bir şekilde etkiler. Örneğin yumuşak kalkerlerden rendzina topraklar, sert kalkerlerden ise terra rosa toprakları oluşur. Rendzina topraklar erozyona karşı daha duyarlı, terra-rosa topraklar ise daha dirençlidir.
+Çeşitleri.
+Su erozyonu.
+En yoğun görülen erozyon çeşididir. 
+Suyun toprağı aşındırıp taşıma şekli açısından bakıldığında ise;
+olarak 5'e ayrılabilir.
+Damla erozyonu, Damla erozyonu, yağış esnasında damlanın düştüğü sırada toprağı aşındırması ve mevcut enerjisi ile toprağı sıçratarak taşıması sonucu oluşan erozyondur. Bu sıçramalar 60 cm yukarıya 100 – 150 cm uzağa kadar olabilmektedir. Bu erozyon çeşidi en ciddi aşınım ve taşınım yaratan erozyondur. Toprakların bitki örtüsü ile kaplı olması bu erozyonu önlemenin en önemli etmenlerindendir.
+Damla erozyonuna etki eden unsurlar ise aşağıdaki gibidir.
+Eğer yüzeyde birikmiş su tabakası varsa sıçrama açısı küçülür ve yaklaşık 85 - 90 derece civarında bir açı oluşur. Bu erozyon çeşidi yağmurun ilk başladığı sırada etkili olan bir erozyon olmasına karşın akan suya oranla daha etkilidir. Damlanın çapı da verdiği zarar ile doğru orantılıdır. Bir örnek ile anlatmak gerekirse 2 mm çapındaki bir yağmur damlası limit hızda yere çarptığında yaklaşık olarak 40 g ağırlığındaki bir toprağı 1 cm kadar havalandırabilir.. 
+Bu erozyonda yağışın etkisi ile toprak sıkıştırılarak yüzeyde geçirimsiz olan bir tabaka oluşumunada neden olur. 
+Yüzey akış erozyonu, İnfiltre olmayan suyun, yüzey akışa geçerek toprak yüzeyinde bulunan tanecikler ve parçalanmış agregatlar ile karışıp yaratmış olduğu erozyon çeşididir.
+Yüzey akış erozyonu her zaman gözlemlenemez özellikle toprak renginin koyu olması gözlemlemeyi oldukça zorlaştırır.
+Oluk erozyonu, 
+Yüzey akışın devam etmesi ile aşınım artar ve belirli bir aşamadan sonra oluklar oluşur.
+Oluşan oluklar aracılığı ile erozyon hızlanarak devam eder. Bu şekildeki erozyona "Oluk erozyonu" denilmektedir.
+Yarıntı erozyonu (Gully), Oluk erozyonunun ilerleyen aşamasından sonra artık oluklar daha geniş ve derin bir hal almaya başlarlar. Oluklara göre daha büyük olarak yarıntılar oluşur ve bu erozyona yarıntı erozyonu denir..
+Yarıntı erozyonu şekillerine göre 3 şekilde incelenir.
+Akarsu yataklarının yarattığı erozyon, Akarsular aktıkları yatakları derinlemesine ve genişlemesine aşındırırlar bu şekildeki erozyona "Akarsu Yataklarının Yarattığı Erozyon" denir.
+Aşındırma akarsuyun debisine göre değişir. Bu tip erozyonda materyalin taşınımı üç şekilde gerçekleşir. 
+Rüzgâr erozyonu.
+Rüzgâr erozyonu sonucu verimli toprakların kaybı, buharlaşmanın hızlanmasıyla toprak emliliğinin azalması, bitki büyümesinin yavaşlaması, ulaşımın aksaması ve verimin düşmesi olumsuzluklarını ortaya çıkarmaktadır. Taşınan kum ve verimsiz toprak, üretken tarım topraklarını kaplayarak, tarım yapılamaz hale getirmektedir. Rüzgâr erozyonu en şiddetli olarak; bitki örtüsünün fakir, iklimin kurak olduğu İç ve Doğu Anadolu'da görülür. Rüzgâr erozyonu bitki örtüsünün fazla olmadığı yerlerde çok etkilidir. Rüzgâr erozyonu üç farklı şekilde meydana gelmektedir. Bunlar,
+Hava akımı ile uçma, Hava akımının etkisiyle çapları 0,1 mm den daha küçük olan toprak parçaları yüzeyden yükselerek rüzgarın etkisiyle harekete geçerler. Bu şekilde yüzeyden yükselen toprak parçaları bulundukları yerlerden daha farklı bölgelere kadar uçarak toprağın taşınımına sebep olurlar. Bu yolla taşınan toprak parçaları yüzlerce kilometre taşınabilirler. Bu şekilde taşınımın önüne geçilebilmesindeki en önemli faktör bitki örtüsüdür. Bitki örtüsü rüzgarın etkisini azaltacağı gibi toprak parçalarının çarparak uzaklaşmasınıda engeller..
+Yüzeyde sürüklenme, Rüzgârın etkisi ile harekete geçmiş ancak boyutları sebebiyle yüzeyden fazla yükselemeyen toprak parçacıkları yüzeyde sürüklenerek taşınırlar. Bu şekilde taşınan toprakların çapları 0,5 mm ile 1mm arasındadır. Sıçrama ile taşınan toprakların çarpması bu toprak parçalarının hızlarını arttırmasına neden olur. Aynı zamanda çarpışan parçaların çapları küçülerek taşınımları kolaylaşır. 
+Sıçrama,Toprağın bazı parçaları rüzgar etkisi ile yükselip rüzgâr doğrultusunda yükselmeye başlar. Bu toprak parçaları hava akımıyla uçan parçalar kadar küçük değilse belirli bir yükseklikten sonra rüzgarın da etkisini yitirmesi ile yere doğru düşerler. Bu şekilde sürekli sıçramalar ile toprak taşınımı olması durumunda buna sıçrama ile taşıma denilir. Bu tipteki rüzgar erozyonuna maruz kalan toprak çapları 0,1 mm ile 0,5 mm arasındadır.
+Özel erozyon çeşitleri.
+Su, rüzgar ve benzeri aşındırıcı etmenlerin etkisinin yanı sıra özel koşullarda gerçekleşen erozyonlardır.
+Bu erozyonların gerçekleşebilmesi için birden fazla koşulun mevcut olması beklenir.
+Bu aşınım sonrasında üst kısımdaki sıkışmış toprağın durumunu korumasına karşılık toprağın altında tüneli andıran boşluk oluşur. Bu şekilde oluşmuş erozyonlara tünel erozyonu adı verilir.
+Bu erozyon tipinde rüzgarın etkisi önemlidir. Rüzgâr etkisi ile tepelerde aşınım gerçekleşir. Bu aşınım sonucunda sivrilmiş tepeler meydana gelir. Tepelerin sivri görünümde olmasının temel sebebi tepeyi oluşturan kayaçtır. 
+Erozyona etki eden faktörler.
+Erozyona etki eden faktörleri 5 grup altında toplayabiliriz. 
+Bunlar,İklim, Topografya, Toprak Özellikleri, Bitki Örtüsü ve İnsan Faktörü dür. İnsan faktörü dışındaki diğer dört faktör doğal erozyon faktörleri olarak tanımlanır. 
+İklim.
+Yağış, rüzgâr ve sıcaklık olarak etki eder.. 
+Yağışın kinetik enerjisi aşındırmada en önemli etkendir. Yağışın şekli yağmur, kar ve dolu olarak farklı etkiler yapar. Bunlar içindeki en önemli etkisi olan yağmurdur. İklimin erozyona etkisi 4 şekilde incelenebilir. Bunlar;
+tır.
+Yağış yoğunluğu, Yağışlarda yoğunluk erozyona önemli ölçüde etkilidir.
+Bu bağlamda yağış yoğunluğu birim zamanda düşen yağış miktarıdır. Yağış yoğunluğu arttıkça toprağa düşen su miktarı artar ve toprağın infiltrasyon hızı daha çabuk azalır. Toprakların infiltrasyon değerleri, toprağın işlenmiş veya işlenmemiş olmasına göre değişir. İşlenmiş topraklarda doğal bitki örtüsü yok edilmiş olduğu için toprağın infiltrasyon gücü daha çabuk aşılır. Eğer toprak yüzeyi korunmuşsa infiltrasyon uzun sürer. Yağış yoğunluğunun etkisinin anlaşılması bir başka örenkede anlatılabilir. Örneğin bir süngere suyun yavaşça boşaltılması durumunda sünger suyu kolaylıkla emebilecektir. Böylelikle su dışarı sızamayacaktır. Ancak aynı miktarda suyun süngerin üzerine birden dökülmesi halinde suyun bir kızmı sünger tarafından emilemeyecek ve akışa geçecektir. Toprağın suyu içine geçirme kabiliyeti süngere göre deha yavaş olduğu hesap edilecek olursa yağış yoğunluğunun erozyona etkisi daha net anlaşılabilecektir.
+Yağış süresi ve dağılımı, Yağışın yoğunluğu kadar süresi ve dağılımıda erozyon için önemli bir etkendir.
+Aynı yoğunlukta yağan iki yağıştan uzun süreli olan daha fala erozyon oluşumuna sebep olur. Yağışın dağılımıda erozyon açısından önem taşır. Yağış dağılımı bir yağış içinde olabildiği gibi mevsimlik ve yıllık dağılımlar şeklinde de erozyonu etkiler. Bir yağış içerisinde dört faklı yağış dağılımı olabilir. Bunlar Tüm yağış boyunca aynı yoğunlukta devam eden yağışlar (Düzgün yağış dağılımı), şiddetli başlayıp şiddetini kaybeden yağışlar(ileri yağış dağılımı), düşük şiddette başlayıp şiddetini arttıran ve sonra tekrar şiddeti düşen yağışlar (Orta yağış dağılımı), düşük şiddetle başlayıp şiddetini sonuna kadar arttıran yağışlar (Gecikmiş yağış dağılımı)dır. Bunlardan en etkili olanı İleri yağış dağılımıdır. Bir yıl içerisindeki yağış dağılımı ise, 
+olarak üçe ayrılır.
+Rüzgârın etkisi, Yağmur damlalarının toprak yüzeyine düşme hızı ve çarpma açısını etkiler. Rüzgârlı havalarda meydana gelen yüzey akışlar üzerinde de etkisi vardır. Örneğin havza çıkışına ters yönde esen rüzgar, yüzey akışın daha geç terk etmesini sağlar. Tüm bunlar sonucunda aşınımı ve taşınımı arttırarak erozyonu etkiler. Rüzgârın su erozyonuna etkisi kadar tek başınada erozyona etkisi vardır.
+Sıcaklık, Bitki örtüsünün ayrışma ve parçalanması olaylarına etki eder.
+Sıcaklığın yüksek olduğu yerlerde organik maddeler hızla parçalanır. Buna bağlı olarak agregatlaşma azalır. Bitki örtüsü seyrelir. Bunlar erozyonu arttıran faktörlerdir. Sıcaklık yağış olmayan bölgelerde ise kuraklığa ve dolayısıyla rüzgar erozyonunun etkilerini arttırmasına neden olur. Bu yüzden sıcaklık diğer faktörler ile etkileşim halinde bulunan bir etmendir.
+Topografya.
+Topografya erozyon üzerinde etkili olan faktörlerden birtanesidir. Topografya su erozyonunu 6 şekilde etkiler. Bunlar;
+dir.
+Eğim dikliği, yüzey akış sularının hızının artmasına sebep olarak aşınımı arttırır. Yüzey akışının akışının miktarının fazla olması aşınan toprak miktarınıda arttırır. 
+Eğim uzunluğu, genel olarak eğim uzunluğu arttıkça aşınma ve taşınan toprak miktarıda artar. fakat bazı durumlarda yağış yoğunluğu ve toprak geçirgenliğine bağlı olarak farklılıklar görülebilir. Düşük yoğunluklu yağışlarda ve geçirgenliği fazla olan topraklarda eğim uzunluğunun artması erozyonun azalmasına neden olabilir.
+Mikro-relief (Pürüzlülük), toprak yüzeyinin pürüzlü olması, su depolamasına neden olarak erozyon etkisini azaltır
+Eğim şekli, yeryüzünde dört farklı şekilde eğim şekli vardır bunlar düz,dış bükey,iç bükey ve dalgalı eğim şekilleridir. Bu yüzey şekillerinden en fazla erozyona etki edeni ise dış bükey şekilleridir. 
+Havza büyüklüğü ve şekli, benzer iki özellikli iki havzaden büyük olanında daha fazla erozyon ortaya çıkar. Havza büyüklüğünün yanında havza şeklide erozyon açısından önemlidir. Büyüklükleri aynı fakat şekilleri, havza çıkış yerleri farklı olan iki havzadan birisinde yüzey akış suları daha kolay terkedebilecekken diğerinde terk edemeyebilir. Daha geç terkedenin erozyon etkisi daha az olur.
+Yöney, arazinin yönü dolaylı olarak sıcaklığı etkiler. Kuzey yarım kürede kuzeye bakan yamaçlarda bitki örtüsü daha yoğun, organik madde birikimi daha fazladır. Toprağın nem düzeyi yüksektir. Güney yamaçlarda ise Güneş ışınları daha dik geldiği için bunun tersi bir durum otaya çıkar.
+Toprak özellikleri.
+Toprak özellikleri fizikse özellikler ve kimyasal özellikleri olarak ikiye ayrılır.
+Fiziksel özelliklerin etkisi
+Kimyasal özelliklerin etkisi
+Bitki örtüsü.
+Organik maddede olduğu gibi toprak yüzeyindeki bitkide yağmur damlalarının çarpma etkisini azaltır. Toprak yüzeyindeki kaymak tabakasının oluşumunu engeller. Toprak içine daha çok su infiltre olur. Yüzeydeki bitki örtüsünün çeşidi de toprak aşınımı üzerine etki eder. Toprakları en fazla koruyan bitki örtüsünden en az koruyana doğru aşağıdaki gibi sıralanabilir;
+Bu sıralamada çapa bitkilerinin toprağı en az koruduğu görülmektedir. Bu nedenle eğimli arazilerde çapa bitkisi tarımı yapılırken toprak ve su korunumu önlemlerine çok dikkat edilmesi gerekmektedir.
+İnsan faktörü.
+İnsan faktörü erozyonu etkileyen en önemli faktörlerdendir. Çünkü insan faktörü, sadece erozyona sebep olmakla kalmayıp diğer etkili faktörlerinde değişmesine neden olarak dengenin bozularak erozyonun artmasına neden olabilir. İnsan faktörü,
+gibi çeşitli nedenlerle erozyona etki etmektedir.
+Erozyonu yavaşlatıcı önlemler.
+Erozyonun miktarını azaltıp kabul edilebilir sınırlara çekebilmek, alınacak önlemlere bağlı olarak gerçekleştirilebilir. Bunun için erozyonun cinsine göre önlemler alınmalıdır.
+Meyilli arazilerde teraslama.
+Erozyonun yavaşlatılması kapsamında meyilli arazilerde teras yapımı da önemli bir önlemdir. Kanal terasları, sırt terasları ve seki terasları olmak üzere üçe ayrılan teraslar, suların beraberinde toprak parçalarını götrümesini engellemektedir. Kanal terasları %4' ekadar eğim olan alanlarda başarı ile uygulanabilirken sırt terasları %2 dolayındaki alanlarda uygulanıldığında başarıya ulaşmıştır. Sırt terasları ile kanal terasları arasındaki en önemli fark ise, sırt teraslarında su kaynklarının az olduğu bölgelerde toprak korunumunun yanı sıra su korunumunu da gerçekleştirebilmesidir. Seki terasları ise meyil olarak %12'den fazla meyilli topraklarda kullanılmaktadır. Bu teras tipi, yapılacak tarımsal faliyetlerde mekanizasyon kullanımına elverişli değildir. Terasların işlevlerini sürdürebilmeleri için yoğun yağışlar sonucu hasar göremeleri engellenmelidir. Bu nedenle teraslamadan sonra bu alanları çimlendirmek terasların yapılaını koruyabilmeleri açısından önemlidir. Eğer teraslama yapılmış bölgede tarımsal bir faaliyet yapılıyorsa sürümler ya tahtavari yapılmalı ya da düz sürümde teras sırtlarına parelel sürüm tercih edilmelidir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tacalan, Salıpazarı</DOCTITLE>
+<TEXT>
+
+Tacalan, Samsun ilinin Salıpazarı ilçesine bağlı bir köydür.
+tacalan köyünde kurtuluş savaşı yıllarına kadar ermeni ve türkler iç içe yaşamaktaydı.ermenilerin isyan ayaklanlamaları ve çetecilik faaliyetlerinde bulunmasından dolayı sürgün edilmişlerdir.
+Kültür.
+Köyün gelenek, görenek ve yemekleri mısır corbası ve mısır ekmeği
+Coğrafya.
+Samsun iline 70 km, Salıpazarı ilçesine 26 km uzaklıktadır.
+DOĞAL ÇEVRE ÖZELLİKLERİ 
+Jeolojik (YapısalÖzelikler : 
+ Karadeniz kıyı dağlarının oluşumu Alp Orojenezi sırasında şekillenmiştir. Bölgenin güney-kuzey yönlü yan basınçlar altında sıkışması neticesinde kıvrılarak yükselmeye başlayan denizel tortular yükselerek eksenleri doğu-batı istikametinde kıvrımlanmalar meydana getirmiştir. Bunun sonucu olarak çok sayıda fay ve kırık hatlar oluşmuştur. Bu kırık hatlar çoğunlukla alt yapıya kadar ulaşmaktadır. Böylelikle eosende (3. zaman) kırıklar boyunca andezitler (volkanik kaya ) yer yer satha kadar çıkmıştır.
+ Kuzey Anadolu Dağlarının bir bölümünü oluşturan Canik Dağları üzerinde yer alan Tacalan Köyü volkanik eosen arazilerinden oluşmaktadır. Eosen tabakaları genellikle andezitlerden (volkanik kaya) müteşekkildir.
+ Tacalan Köyünün hemen güneyinden (Tokatın Erbağ- Niksar ilçesi) Kuzey Anadolu Fay hattı geçmektedir. Depremsellik açısından Tacalan Köyü 2.derece deprem kuşağında yer alır.
+Jeomorfolojik (Yeryüzü şekleri) Özelikler :
+ Kuzey Anadolu Dağların bir bölümünü oluşturan Canik Sıradağları Alp Orojenezi sırasında şekillenmiştir. Kıyıdaki delta ovaları ile güneydeki depresyon alnları arasında bir kuşak halinde uzanan kıyı dağlarını oluşturur. Bu dağlara eski ‘Canik Sancağına’ ya da üzerindeki ‘Canik’ yerleşmelerine (bir kırsal yerleşme ) atfen Canik Dağları denilmektedir. Bu dağlar eosenin (3.zaman) ikinci yarısından itibaren bir taraftan yükselmeye devam ederken öbür taraftan akarsularla aşındırılmış, yarılmış ve bugünkü görüntü ortaya çıkmıştır. Bu nedenle söz konusu dağların yükseltisi fazla değildir. Genelde 1000-1500m arasında zirvelere sahiptir.
+ Canik Sıradağları üzerinde yer alan Tacalan Köyünün yükseltisi Tacalan Deresi çevresinde 600m civarındayken yukarılarda bu değer 1000m kadar ulaşmaktadır. Dağlar doğu- batı yönünde uzanmaktadır. Bu dağlar birçok akarsu tarafından yarılmıştır vadiler bulunmaktadır.
+Hidrografik Özelikler
+ Kuzey Anadolu Dağlarının bir bölümünü oluşturan Canik Dağları üzerinde yer alan Tacalan Köyü sık bir akarsu şebekesine sahiptir .Dağlık alanın mevcudiyeti ve iklimin her mevsim yağışlı olması bu sıklığı doğurmuştur. Köyün en önemli akarsuyu köyün tam ortasından geçen Terme Çayının bir kolunu oluşturan akarsudur. Bunun yanında bu dereye bağlanan daha birçok dere bulunmaktadır. Bu derelerin bazıları yazın kurumaktadır. Bu derelerin Yanı sıra evlerin su ihtiyacının karşılandığı birçok kaynak vardır. Köyde yer alan bu derelerde alabalıklar yaşamaktadır. Bugün soyu tükenme durumuna gelmiş olan bu alabalıkların eskiden daha çok ve büyük olduğu köylü halk tarafından belirtilmektedir.
+ToprakÖzelikleri
+Köyde andezitler üzerinde Gri-Kahverengi Podzolik topraklar hakimdir. Bu topraklar serin ve yağışlı iklimlerde çoğunlukla yaprağını döken orman örtüsü (gürgen, meşe) altında gelişmektedir. Rengi grimsi-kahve ve sarımsı-kahve arasında değişir. Yıkanmadan dolayı baz ve kil oranı düşüktür. Büyük çoğunluğu %20 den fazla eğime sahip alanlarda yer almaktadır. Derinlikleri sığdır veya çok sığdır. Bir kısmı taşlık arz etmektedir. Daha çok VI ve VII.. sınıf araziler üzerinde yer alan bu toprakların yarıdan fazlası orman örtüsü altındadır.
+ Tacalan Köyü VI ve VII.. sınıf tarım arazileri üzerinde yer almaktadır. Dik eğim, şiddetli erezyonla topraklar sığlaşmış, taşlık, yer yer anakayanın yüzeyleşmesi, tuzluluk ve alkalilik gibi sürekli sınırlandırmaları vardır. Kültür bitkileri için uygun değildir. Çayır, mera, orman için kullanılabilir.
+Bitki Örtüsü Özellikleri:
+Köyün doğal bitki örtüsü, iklim-relief-toprak tipleri vb. gibi fiziki faktörlerin yanı sıra insan müdahalesi sonucunda günümüzdeki görünümü kazanmıştır. Bundan evvelki bölümlerde köyün her mevsim yağış aldığını, yerüstü suları bakımından zengin olduğunu belirtmiştik. İşte bu şartlar bölgede oldukça gür bir bitki örtüsüne sebep olmuştur. Nemli rüzgarların kıyıdan içerlere kadar sokulmasıyla dağların kuzeye bakan yamaçlarında gür bir orman varlığını sağlamıştır.
+ Köyde yer alan doğal bitki örtüsü kızılağaç (Alnus barbata), kestane (Castanea sativa), meşe türleri (Quercus), gürgen (Carpinus betulus), Karaağaç (Ulmus campestris) gibi geniş yapraklı ağaçlardan oluşmaktadır. Ormanların tahrip edildiği yerlerde antropojen steplere rastlanmaktadır. Dere kenarlarında ise söğüt ağaçları yer almaktadır.
+ Sahamızda orman açmacılığı ile tarla sahası kazanma ve yakacak ve kereste ihtiyacı için orman tahrip edilmektedir. Açılan bu tarlalarda fındık dikimi gerçekleştirilmektedir. Köyün hemen hemen yarıdan fazlasındaki ormanlar tahrip edilmiştir. Tacalan köyünde yer alan ‘Kınalık Ormanı’ fazla bozulmayan ve parçalanmayan tek orman alanını oluşturur.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.köy yüksek ve daglık oldugundan baglı oldugu salıpazarı ilçesinden çok farklılık gösterir. kar kalınlıgının 2 metreye ulaştıgı olur.
+Salıpazarı ilçesi, her mevsim yağışlı yazları serin, kışları soğuk geçen bir iklimin etkisi altındadır. Kıyıya nazaran yüksekliğin artması sonucunda sıcaklıklar düşmekte, nispi nem ve toplam yağış miktarı artmaktadır. Kış aylarında İç Anadolu üzerinde bulunan yüksek basınç alanından Karadeniz üzerindeki alçak basınca doğru hava hareketi karanın soğuk tesirini buralara getirmektedir.
+ Salıpazarı İlçesinde (200m) en soğuk ay ocak (4,9 santigrat derece) Tacalan Köyünde ise bu değer yüksekliğin artmasına bağlı olarak (0,9 santigrat derece)’ ye kadar düşmektedir. Salıpazarı İlçesinde en sıcak ay temmuz olup (22,5 santigrat derece ) ‘dir. Tacalan Köyünde ise bu değer (18,6 santigrat derece)’ye kadar düşmektedir.
+Yörede yıllık yağış miktarı 872,3mm civarındadır. En yağışlı ay 121,4mm ile aralık ayı iken en az yağışlı ay ise 29,5mm ile haziran ayıdır. Yılık ortalama yağış miktarının mevsimlere dağılışına göre en fazla yağış %32 ile kış mevsimi daha sonra %31 ile sonbahar ve %23 ile 
+ilkbahar mevsimi takip etmektedir. En az yağış alan mevsim ise %14 ile yaz mevsimidir.
+Nüfus.
+1997 sayımlarına göre Salıpazarı merkez nüfusu 6200, köylerin toplam nüfusu 16 998 kişidir. Tacalan Köyünün nüfus sayısı ise 627’ dir. Ancak bu değer gittikçe azalmaktadır. Çünkü Tacalan Köyü Salıpazarı’nın göç veren köylerinden biridir. Köyün dağlık bir yapıya sahip olması ve fındıktan başka yapabilecek ekonomik faaliyetin olmaması köy nüfusunu büyük şehirlere özellikle İstanbul’a göçe zorlamıştır. Köyde genç nüfus yok denecek kadar azdır. Köyde genelikle 40 yaşının üstü olan nüfus hakimdir.
+ Köy arazisinin dağlık olması ve engebeli bir yapıya sahip olması köyün dağınık bir yerleşmeye sahip olmasına neden olmuştur. Köyün evleri genellikle iki katlı olup alt kat ahır olarak kullanılmaktadır. Köyünde orman varlığı nedeniyle eski yapıların ahşaptan yapıldığını görmekteyiz.Yeni yapıların ise betonarme veya biriketten yapılmıştır. Evlerin yanında kışlık yiyeceklerin özellikle mısırın salkındığı “ serende” adında depoların ve hayvan besleyenlerin kış için hazırladıkları ot yığınları (otluklar ) yer alır.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.fındık köyün en büyük geçim kaynagıdır.saz teknesi de yapılmaktadır.
+Arazilerin engebeliği, toprakların sığ olması, iklimin serin geçmesi tarımsal faaliyetleri sınırlandıran faktörlerin başında gelmektedir.bunun yanı sıra köyün büyük bir bölümü ormanlarla kaplıdır.
+ Köyde yaşayan insanların 1.derecede geçim kaynağını fındık tarımı oluşturmaktadır. Yalnız 750m üzerindeki yerlerde fındığın kalitesi verimi azalmaktadır. Köy (600-1000m) gerçektende kimi yerleri 750m üzerinde yer almakta ve yükseltinin artmasına bağlı olarak fındık ağaçları soğuktan zarar görmektedir. Son yıllarda fındık alanlarında hızlı bir artış görülmektedir. Orman alanları içinde küçük parçalar halinde gizlenen fındık bahçeleri ormanın tahribiyle elde edilmiştir.
+ Fındıktan sonra en fazla ekim alanı bulan mısırdır.Mısır köyde ticari amaçla değil ailenin ihtiyacını karşılamak amacıyla ekilmektedir. Ayrıca mısırın içine ailenin fasulye ihtiyacını karşılamak amacıyla fasulye ekimide yapılmaktadır. Mısırdan köyde hem ekmeği hem de çorbası yapılmaktadır. Bunun yanı sıra tavuk yemi, sapı ise hayvan yemi olarak kullanılmaktadır.
+ Fındık, mısırdan ve fasulyeden başka köyde ailenin ihtiyacını karşılamak amacıyla patates, lahana, pancar, pırasa, marul maydanoz, soğan, çilek gibi ürünlerin ekimi ve dikimi yapılmaktadır.
+ Hayvancılığa gelince her aile evinin süt, yoğurt, peynir, tereyağı, çökelek ihtiyacını karşılamak amacıyla birkaç büyük baş hayvan beslemektedir. Tabi ki birkaç aile küçük çapta da olsa besicilik yapmaktadır. Gücünden yararlanmak amacıyla hemen her evde at veya eşek bulunmaktadır. Çünkü arazinin engebeli olmasından dolayı bu hayvanlara ihtiyaç vardır. Bu hayvanlarla odun, ağaç, mısır ve mısır sapları, fındık gibi malzemeler taşınmaktadır. Köyde küçük baş hayvancılığı birkaç aile yapmaktadır. Her aile yumurta ve beyaz et ihtiyacını karşılamak amacıyla tavuk, horoz gibi kümes hayvanlarını yetiştirmektedir. Bunların yanı sıra köyün zengin bir bitki örtüsüne sahip olması ve köyde yapılabilecek ekonomik faaliyetlerin azlığı nedeniyle çoğu aile arıcılık yapmaktadır. Hem ailenin bal ihtiyacını karşılamak hem de aile bütçesine katkı sağlamasını açısından arıcılık yapılmaktadır. Ancak son yıllarda kestane ağaçlarında kurumaya başlaması köydeki kestane balının ömrünü bitirebilir.
+ Köyde diğer bir ekonomik faaliyet ise saz teknesi oymacılıdır. Köyde çoğu evde bu faaliyet yapılmaktadır. Kestane ve gürgenden oyulan bu saz tekneleri İstanbul’a pazarlanmaktadır.
+Altyapı bilgileri.
+Köyde, sadece birleştirilmiş sınıflı iki ilköğretim okulu bulunmaktadır. birinci sınıftan beşinci sınıfa kadar köyde okuyan öğrenciler altı, yedi ve sekizinci sınıfı Salıpazarı Bereket PİO'da okumaktadirlar. Lise taşımalı sistemle yapılmamaktadır. Köyün içme suyu şebekesi ve kanalizasyon şebekesi yoktur. köyde kaynak suyu içilmektedir.PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yolda asfalt yoktur. köyde elektrik ve sabit telefon vardır.kışın köyde yaşayan insan sayısı azalmaktadır kış mevsimini köylü samsun çarşamba ve salıpazarı ilçelerinde geçirmektedir .yaz mevsiminde köy nüfus olarak kalabalıktır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hindistan (EBA)</DOCTITLE>
+<TEXT>
+
+Topraklarının çoğu Hint Yarımadası üzerinde yer alan Hindistan, yüz ölçüm olarak dünyanın yedinci, nüfus bakımından ise ikinci büyük ülkesidir. Hindistan topraklarının tamamı Kuzey Yarım Küre’dedir. 6° ile 37° kuzey enlemleri ve 68° ile 97° doğu boylamları arasında yer almaktadır (Harita 1).
+1.	Yüzey Şekilleri
+Doğudan Bengal Körfezi, batıdan CJmman Denizi ile çevrilidir. Batıda Pakistan, doğuda Bangladeş ve Myanmar, kuzeyde Çin Halk Cumhuriyeti, Nepal, Bhutan ile komşudur.
+ülkenin kuzeyinde yer yer Himalâya Dağları’nın uzantılan görülür. Bu dağlar üzerindeki en yüksek nokta Nanda Devi Tepesi’dir (7816m).
+Himalâyalarla, Dekkan Platosu arasında doğu-batı doğrultusunda uzanan Ganj Ovası bulunur. Bu ova Ganj Nehri’nin taşıdığı alüvyonların buradaki çöküntü alanını doldurmasıyla oluşmuştur.
+Hindistan Yarımadası’nın büyük bölümü platolarla kaplıdır. Dekkan adı verilen bu aşınmış platoyu, kuzey ovalarından Vindiya Dağları ayırır. Platonun batı ve doğu kıyılan boyunca Gat Dağları uzanır. Batı Gatlardan, doğuya doğru alçalarak uzanan Dekkan Platosu, Doğu Gatlar adı verilen alçak sıradağlarla son bulur. Narmada, Godavari, Mahanadi ve Krisna gibi akarsular tarafından parçalanan platonun kenarlarında delta ovaları ve dar kıyı düzlükleri bulunur. Kuzeybatıda Tar Çölü’nün de bulunduğu Racastan Bölgesi yer alır. En önemli akarsuları Ganj, Brahmaputra, Godavari ve Yamuna’dır.
+2.	İklimi
+Hindistan’ın büyük bölümünde muson iklimi egemendir, ülkede enleme ve yer şekillerine bağlı olarak sıcaklık ve yağış şartlarında önemli değişiklikler görülür. Yüksek dağlık alanlarda kış sıcaklıkları çok düşüktür. Güneye gidildikçe sıcaklıklar artar. Yaz musonlarının etkisiyle Racastan Bölgesi dışında kalan bütün bölgeler yağışlı geçer. Kuzeydeki Himalâyalar yüksekliği ve doğu-batı yönündeki uzanışı nedeniyle en fazla yağış alan yerdir. Çerapunçi’de ortalama yağış miktarı 12.000 mm’yi bulur. Dekkan Yarımadası’nın doğu ve batı kıyılarında yer alan Gat Dağlarının denize dönük yamaçları da bol yağış alan yerlerdendir. Yağışlar yarımadanın iç kesimlerinde ve Racastan Bölgesi’inde azalır (Grafik 1).
+3.	Başlıca Bitki Örtüsü
+Bitki ve hayvan çeşitliliği bakımından Hindistan dünyanın önde gelen ülkelerinden biridir. Enlem, yükseklik, iklim ve toprak özelliklerine bağlı olarak Hindistan' da görülen başlıca bitki örtüsü; güneyden kuzeye doğru tropikal muson ormanları, geniş yapraklı ormanlar, savanlar, çöl, kurakçıl bitkiler, iğne yapraklı ormanlar ile yüksek alpin çayırları şeklindedir.
+4. Nüfus
+Nüfus bakımından dünyanın ikinci büyük ülkesi olan Hindistan topraklarının genişliğinden çok olağanüstü nüfus yoğunluğuyla dikkati çeker. Toplam nüfusu bir milyarı geçer. Hindistan 21.yüzyıla nüfusça dünyanın en büyük ülkelerinden biri olarak giriyor. Nüfus sayısı bakımından ikinci sırada olan Hindistan’ın önümüzdeki 20 yıl içinde Çin’in nüfusunu geçmesi beklenmektedir. Hindistan'da nüfusun dağılımı düzensizdir. Ganj Ovaları, Pencap, Ahmedebad, Bombay ve Korela Yarımadasının güneybatısı gerek tarihî yerleşmeleri barındırma gerekse tarım ve geniş sulama imkânı dolayısıyla Hindistan'ın en yoğun nüfuslu bölgeleridir.
+Hindistan’da çalışan nüfusun sektörlere göre dağılışı yukarıdaki gibidir (Grafik 2).
+5. Tarım
+Hindistan genel olarak bir tarım ülkesidir, ülke topraklarının yarısı tarıma uygundur. Fakat toplam ekili dikili arazi 142 milyon hektar civarındadır. Kış kuraklığının tarımsal verimliliği etkilediği ülkede sulanan tarım arazisi 38 milyon hektarı aşmaktadır. Tarlaların % 30’un-dan fazlasında yılda birden fazla ürün yetiştirilmektedir.
+Çok büyük bir nüfusu beslemek zorunda olan Hindistan’da tarımsal üretimin artırılması için büyük çabalar sarf edilmektedir. Ancak geleneksel tarım yöntemleri çok yaygın olarak kullanılmaktadır. Tanmsal üretim ülke ihtiyacını karşılayamadığı zaman dışarıdan tahıl ithal edilmektedir.
+üretim, mevsimine göre iki ekim çevresinde düzenlenmiştir. Yağışlı bahar ve yaz mevsiminde tahıl (buğday dışında) pamuk, jüt(hint keneviri), yer fıstığı, çeltik ve mısır ekilir (Harita 2). Kurak kış mevsiminde ise buğday ve baklagiller veya yağlı tohumlar yetiştirilir. Bunun yanında turunçgil, elma, armut, mango ve muz da ülkede yetiştirilen diğer ürünlerdir. Fakat ülkenin en önemli tarım ürünü pirinçtir. Çeltik tarımı genelde bol yağış alan Bengal Havzasfnda yapılır (Fotoğraf 1).
+2010 yılında Dünya pirinç üretiminde % 30’ luk paya sahip Çin’den sonra % 22’ lik bir payla ikinci sırada olan Hindistan; şeker kamışı, tütün ve pamuk üretimi bakımından dünyanın önde gelen üreticilerindendir (Fotoğraf 2). Hindistan'da jüt, çay, kahve, şeker kamışı üretimi oldukça fazladır. Ayrıca Hindistan kauçuk üretiminde dünya dördüncüsü, mısır üretiminde ise dünya yedincisidir. 800 bin tonu aşan mercimek üretimiyle dünya birincisidir. Buna rağmen ülke ihtiyacını karşılamak amacıyla 1997’de 50.000 ton mercimek ithal etmiştir.
+Hindistan’ın batı eyaletleri, doğu eyaletlerine göre ekonomik olarak daha gelişmiş durumdadır. 1960’lı yıllardan itibaren tarımı geliştirmek ve daha fazla verim almak için çalışmalar (Yeşil Devrim) yapılmaya başlanmıştır (Fotoğraf 3). Verim değeri yüksek çeltik tohumları Malezya ve Endonezya, buğday tohumları ise Meksika’dan getirilerek tarımsal verimlilik artırılmıştır. Örneğin, pirinçte % 350, buğdayda % 900 gibi çok yüksek artışlar sağlanmıştır.
+210 milyonu aşan büyükbaş hayvan sayısıyla dünya birincisi olan Hindistan, 180 milyona yaklaşan küçükbaş hayvanla Çin’den sonra dünya İkincisidir. Fakat bu yüksek hayvan potansiyeline rağmen dinî inanışlar ve düşük verimlilik gibi nedenlerle yeterli et ve süt üretimi sağlanamamaktadır. Bu yüzden hayvan bolluğu, hayvansal ürün ve beslenme yeterliliğine bir türlü dönüşememektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklim</DOCTITLE>
+<TEXT>
+
+İklim, bir yerde uzun bir süre boyunca gözlemlenen sıcaklık, nem, hava basıncı, rüzgar, yağış, yağış şekli gibi meteorolojik olayların ortalamasına verilen addır. Hava durumundan farklı olarak iklim, bir yerin meteorolojik olaylarını uzun süreler içinde gözlemler. Bir yerin iklimi o yerin enlemine, yükseltisine, yer şekillerine, kalıcı kar durumuna ve denizlere olan uzaklığına bağlıdır. İklimi inceleyen bilim dalına klimatoloji adı verilir. İklim türleri, sıcaklık ve yağış rejimi gibi durumlara bakılarak sınıflandırılabilir. Ancak günümüzde en çok kullanılan sınıflandırma sistemi, aslen Wladimir Köppen tarafından geliştirilmiş olan Köppen iklim sınıflandırmasıdır. 
+Paleoklimatoloji ise, göl yataklarında ve buzullarda bulunan tortular gibi biyolojik olmayan; yine ağaç halkaları, mercanlar gibi biyolojik kaynaklarla antik iklimleri inceleyen bilim dalıdır. Bu yöntem eski dönemlerde bir yerdeki sıcaklık ve yağış rejimlerini göstermek ve inceleme yapmak için kullanılır. Bu tür çalışmaların sonunda ortaya matematiksel iklim modelleri çıkarılır ve gelecekte iklimin ne derece değişebileceği konusunda tahminler yürütülür. 
+Tanım.
+İklim sözcüğünün kökeni Arapçadan gelmiş olup yeryüzünün herhangi bir yerinde hava olaylarına bağlı olarak gerçekleşen etkilerin uzun yılların ortalamasına dayanan durumu olarak tanımlanır. Bu ortalama süre yaklaşık olarak 30-35 yıldır. Ancak yine de bu süreler duruma göre değişebilmektedir. Bunun yanında iklimin ortalama değerleri hesaplama işlevinin yanında değerlerin günlük, yıllık değişken istatistikleri de hesaba katılıp incelenmektedir.
+hava ile hava durumu arasındaki fark ise "iklim beklenendir hava durumu elde edilendir" şeklinde açıklanmaktadır. Tarihsel süreçte iklime etki eden etmenler enleme, yükseltiye, yer şekillerine, kalıcı kar durumuna ve denizlere olan uzaklığa bağlıdır. Ancak bazı dinamik etmenler de iklime etki etmektedir. Bu etmenlerden olan okyanus akıntıları nedeniyle Atlantik Okyanusu'nun iki kuzey yakasından batıda olan Kanada kıyılarında hava olması gerekenden daha soğukken, doğu yakasındaki Avrupa kıyıları olması gerekenden yaklaşık 5 °C (9 °F) daha sıcaktır. Yine bir yerdeki bitki örtüsünün sıklığı, o bölgedeki yer katmanının daha serin olmasına neden olur. Bitki örtüsünün yoğun olması bölgesel olarak yağışı arttırır. Bunun dışında sera gazlarında görülen değişiklikler dünyadaki sıcaklığı değiştirerek Küresel Isınma veya Küresel Soğuma gibi iklimsel değişiklikleri ortaya çıkarır. Bu bağlamda iklime etki eden tüm durumlar tam olarak açıklanamayan karmaşık bir sistemin parçalarıdır.
+İklim sınıflandırması.
+İklimi aynı rejimlerin olduğu alanlarda sınıflandırmanın birçok yolu vardır. Aslında iklimlerin sınıflandırılışı ilk kez Antik Yunanistan'da bir yerin enlemine göre kabaca yapılmıştı. Ancak çağdaş iklim sınıflandırma yöntemleri kabaca iki şekilde ayrılabilir. Bunlar "kalıtımsal" ve "yapay" yöntemler olmak üzere iki kısma ayrılır. Genetik sınıflandırmalar, farklı hava kütlelerinin arasındaki ilişkilerin sıklığı ve durumu aynı yönden ele alan bozukluklar temeli üzerine kurulu yöntemleri içerir. Yapay sınıflandırmalar ise iklim kuşaklarını, bitki örtüsü sıklığıyla ele alır. Yapay sınıflandırmanın içerikleri ile Köppen iklim sınıflandırması arasında bir ilişki bulunur. Bu sınıflandırmada gözlemlenen en önemli kusur, aşamalı olarak gösterilmesi uygun olan iklim kuşaklarında açtığı farklı sınırlardır. 
+Bergeron ve Boyutsal Sinoptik.
+En genel sınıflandırma şekli, hava kütleleri etmeninin hesaba katılarak yapılanıdır. Bergeron sınıflandırması bu şekilde yapılan en kullanışlı sınıflandırmadır. Hava kütlesine dayalı sınıflandırma üç ana kolu içerir. Bunlarda ilki nem değerleri olup "c" (kıtasal hava kütlesi) ve "m" (denizsel hava kütlesi) harfleri ile gösterimi yapılmaktadır. İkinci kol ısıl içerikli olup "T" (tropikal), "P" (kutupsal), "A" (arktik), "M" (muson), "E" (ekvatoral) ve "S" (yüksek) harfleri kullanılarak gösterimi yapılır. Üçüncü ve son kol ise atmosfer durağanlığını konu almaktadır. Bu son kola göre, eğer bir hava kütlesi altındaki kara kütlesinden soğuksa "k" harfiyle gösterilir. Yine eğer bir hava kütlesi, altındaki kara kütlesinden daha sıcaksa "w" harfiyle gösterilir. 1950'lerde hava durumu tahmininde kullanılan hava kütlesi sınıflandırması, 1973 yılından sonra iklim bilimciler tarafından aynı nitelikteki klimatoloji kanıtlarında kullanılmaya başlandı.
+Bergeron sınıflandırması şemasına (SSC) göre, altı kategori bulunmaktadır. Bunlar Kuru Kutup, Kuru Orta, Kuru Tropik, Nemli Kutup, Nemli Orta ve Nemli Tropik şeklindedir.
+Köppen.
+Köppen iklim sınıflandırması aylık ve yıllık sıcaklıklar, yıllık yağış miktarı, yağışın yıl içindeki dağılışı ve yağış ile sıcaklığın doğal bitki örtüsü ile olan ilişkilerine dayanan bir sistemdir. Bu nedenden dolayı Köppen'in sınıflandırması, bitki örtüsüne dayalı iklim sınıflandırmasına kabataslak biçimde uymaktadır. Köppen sınıflandırmasına 
+göre iklimler beş ana kuşakta, yirmi dört farklı tipte toplanmıştır. Ana kuşaklar A, B, C, D ve E harfleri ile belirtilirken, iklim tipleri de bu harflere eklenen ikinci, üçüncü ve kimi zaman da bir dördüncü harfle belirtilmiştir. İkinci harfler bölgedeki yağış rejimini, üçüncü harfler sıcaklık karakterini, dördüncü harfler de özel durumları gösterir.
+A grubundaki iklimlerde en soğuk aydaki ortalama sıcaklık 18 °C üzerindedir. Öyle ki bütün mevsimler sıcaktır ve kış mevsimi yoktur. Bu gruptaki iklimlerde, yıllık yağış 750 mm üzerindedir. Bu gruptaki iklimler aşağıdaki gibidir:
+B grubundaki iklimler kurak iklimlerdir. Özellikle step ve çöl sahalarında görülür. Buralarda buharlaşma yağıştan fazladır. Step alanlarda yıllık yağış miktarı 100 ilâ 700 mm arasında, çöllerde ise 50 ilâ 350 mm arasındadır. Bu gruptaki iklimler aşağıdaki gibidir:
+C grubundaki iklimler ılıman iklimlerdir. Bu iklimlerde en soğuk ayın ortalama sıcaklığı -3 °C ile 18 °C arasındadır. Aynı şekilde en sıcak ayın ortalama sıcaklığı 10 °C'nin üzerindedir. Kışlar genelde kısadır ancak yine de birkaç ay boyunca toprak karla örtülü olabilir veya donabilir. Bu grupta yer alan iklimler aşağıdaki gibidir:
+D grubundaki iklimler, soğuk orman iklimleridir. Kışların şiddetli olduğu bu iklim grubundaki en soğuk ayın ortalama sıcaklığı -3 °C'nin altında, en sıcak ayın ortalaması 10 °C'nin üzerindedir. Bu kuşaktaki iklimlerde aylar boyunca toprağın karla örtülü kalır. Aşağıdaki iklimler bu gruptadır:
+E grubundaki iklimler ise kutup iklimleridir. Bu kuşaktaki iklimlerde en sıcak aydaki ortalama sıcaklık 10 °C'nin altındadır. Aşağıda bu gruptaki iklimler yer almaktadır: 
+Thornthwaite.
+Bu iklim sınıflandırma yönteminde, terleme ve buharlaşma değerleri kullanılarak toprak ve su yığınlarını görüntülenir. Bu yöntemde, belli bir alan üzerindeki bitki örtüsünü besleyen toplam yağış payı aktarılır. Burada nem veya kuraklık gibi endeksler kullanılarak bir bölgenin ortalama sıcaklık, yağış ve bitki örtüsü türüne bağlı olan nem rejimi gösterilir. Nemli bölgeler, her yıl terleme-buharlaşma miktarından daha çok yağış alır. Bunun yanında kurak bölgeler, yıllık bazda büyük oranda terleme ve buharlaşma oranına sahne olur. Dünyadaki karaların yüzde otuz üçü kadarı, kurak veya yarı-kurak olarak kabul edilir. Bu kurak veya yarı-kurak bölgelerin arasında Kuzey Amerika'nın güneybatısı, Güney Amerika'nın güneybatısı, Afrika'nın kuzey bölümü ile güney bölümünün bir kısmı, Asya'nın güneybatısı, Avustralya'nın önemli bir kısmı yer alır. Yapılan çalışmalara göre, yağış etkinliği (PE) ile Thornthwaite nem endeksi, yazları olduğundan fazla gösterilmekte ve kışları olduğundan az gösterilmektedir. Bu endeks, etkin bir şekilde bir bölgedeki otçul ve memeli türlerinin sayısını belirlemede kullanılabilmektedir. Bu endeks ayrıca iklim değişikliği çalışmalarında da kullanılmaktadır.
+Thornthwaite şemasında sıcaklığa bağlı sınıflandırmalar arasında mikrotermal, mezotermal ve megatermal rejimler yer almaktadır. Mikrotermal iklimde yıllık olarak düşük sıcaklıklar görülür. Öyle ki bu tür iklim bölgelerinde ortalama yıllık sıcaklık 0 ilâ 14 °C arasında değişir. Kısa yazların görüldüğü bu bölgelerde potansiyel buharlaşma da 14 ilâ 43 cm arasında değişir. Mezotermal iklimde uzun süren sıcaklar veya uzun süren soğuklar yoktur. Bu iklim bölgelerinde potansiyel buharlaşma oranı 57 ve 114 cm arasındadır. Megatermal iklimde ise yüksek ve kalıcı sıcaklık ve bol yağış hakimdir. Bu bölgelerdeki potansiyel buharlaşma 114 cm üzerindedir.
+Kayıtlar.
+Çağdaş.
+Çağdaş iklim kayıtları, termometreler, barometreler ve anemometreler tarafından yapılan uzun süreli ölçümlerle belirlenir. Elde edilen veriler, çağdaş zaman çizelgesi üzerindeki farklı hava şartlarını göstermek, hataları belirlemek ve çevre koşullarındaki değişiklikleri açıklamak üzere kullanılır.
+Paleoklimatoloji.
+Paleoklimatoloji, Dünya tarihinin en eski dönemlerindeki iklim koşullarının araştırılmasını sağlayan bir bilim dalıdır. Bu bilimdalında, buz katmanlarından, ağaç halkalarından, kayaç tortullarından, mercanlardan ve kayaçlardan örnekler alınarak eski dönemlerdeki iklim koşulları araştırılır. Bu sayede hangi dönemlerde iklimin sabit, hangi dönemlerde değişken olduğu ortaya konularak, arada yaşanmış olabilecek çeşitli olaylar hakkında veriler toplanabilir.
+İklim değişikliği.
+İklim değişikliği, tüm dünyanın veya belli bir bölgenin ikliminin tarih boyunca değişikliğe uğraması demektir. Bir yerin birkaç yıl ilâ milyon yıl arasında belli sebeplerden dolayı atmosfer ile ilgili niceliklerinin değişmesi iklim değişikliği ile ilgilidir. Bu değişikliklerin nedeni, Dünya'nın kendisine ait olabileceği gibi, Güneş ışığı veya son zamanlarda insan gibi dış etkenlerden dolayı da olabilir.
+Son yıllarda özellikle çevre politiklarındaki kullanıma göre, iklim değişikliği kavramı sadece çağdaş dönemdeki değişiklikleri konu almaktadır. Özellikle küresel ısınma ile iklim değişikliği kavramları birbiriyle ilintilidir. Bazı durumlara göre kavram, sadece beşeri etmenlerle için de kullanılabilmektedir. Bunun en önemli örneği Amerika Birleşik Devletleri'nde iklim üzerine bir kuruluş olan UNFCCC'dir. Bu kuruluş, insanlardan dolayı kaynaklanmayan iklim değişiklikleri için "iklim değişkenliği" terimini kullanmaktadır.
+Dünya, geçmişte birçok iklimsel dalgalanmaya sahne olmuştur. Bu dalgalanmalar için en bilinen örnek buz devridir. Bu buzul dönemleri, buzularası dönemlerle birbirinden ayrılmış durumdadır. Kar ve buz yığınlarının artması, yansıtabilirlik değerini yükselttiğinden, Güneş ışınlarının bir kısmı buzullar tarafından geri yansıtılmaktaydı. Bu de atmosfer sıcaklığında yükselmeye neden olmaktaydı. Volkanik etkinlikler gibi doğal etmenler sonucunda sera gazlarındaki artış da küresel bir ısınmaya neden olduğu gibi, buzularası bir dönemi de beraberinde getirebilir. Buz devirlerinin yaşanmasındaki tahmin edilen nedenler arasında kıtaların o zamanki durumları, Dünya'nın yörüngesindeki farklılıklar, Güneş ışınlarının yayılımındaki değişiklikler ve volkanizma yer almaktadır.
+İklim modelleri.
+İklim modelleri, atmosfer, okyanus, kara kütleleri ve buzulların etkileşimlerini gösteren modellerdir. Bu modeller gelecekteki iklim durumlarını belirlemek için ve iklim konusunda ortaya konan çalışmaları açıklamak üzere hazırlanır. Tüm iklim modellerinde, dünyaya giren kısa dalga elektromanyetik ışınımı ile, dünyadan çıkan uzun dalga (kızılötesi) ışınları dengede veya hemen hemen dengede gösterilir. Herhangi bir dengesizlik, dünyadaki ortalama sıcaklığın belirlenmesinde farklı sonuçlar ortaya çıkarır.
+Son yıllarda en çok üzerinde durulan modeller, atmosferdeki başta karbon dioksit olmak üzere belli başlı sera gazlarındaki artış hesaba katılarak hazırlananlardır. Bu modeller, dünyanın gelecekteki ortalama sıcaklık konusunda gösterdiği eğilimi tahmin etmekte kullanılır. Modeller çok basit olarak hazırlanabileceği gibi, çok karmaşık da olabilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2008 Güney Çin su taşkınları</DOCTITLE>
+<TEXT>
+
+2008 Güney Çin su taşkınları 26 Mayıs 2008'de başladı. Dört dalga halinde yağan sağanak yağmur 20 gün sürdü ve toprak kaymaları ve su taşkınlarına neden oldu. Yağış, Çin'in güney ve doğu kesimindeki 15 eyaleti etkilemiştir. 
+İlk su taşkını dalgası on iki eyaleti etkilemiş ve 30 Mayıs itibariyle 93 kişinin ölümüne yol açmıştır. İkinci su taşkını dalgası 6 Haziran'da başladı ve dokuz eyalette 55 kişinin ölümüne ve 6 kişinin kaybolmasına neden oldu. 14 Haziran itibariyle evlerini terkeden kişi sayısı 1.3 milyona ulaşmıştır. 
+Çin Ulusal Meteoroloji Merkezi etkili yağışın bir süre daha süreceğini ve Guizhou, Sichuan ve Yunnan'da geçen yıla göre %30 ila 70 daha fazla yağış görüleceğini bildirdi.
+Çin.
+Afetten etkilenen Çin eyaletleri Anhui, Hunan, Jiangxi, Fujian ve Guangdong'tur. 
+Mayıs.
+China Daily sağanak yağışların Mayıs ayı içinde ülkenin güney kesiminde 64 kişinin ölümüne neden olduğunu bildirmiştir. Sel Denetimi ve Kuraklığı Engelleme merkezleri su taşkınlarının bugüne kadar 59 kişinin canına mal olduğunu öne sürmektedir.
+Haziran.
+Guangdong'un bazı bölgelerinde 28 Mayıs - 2 Haziran tarihleri arasında şiddetli yağışlar görüldü. Bir hafta sonra, su taşkınları hakkındaki son durum Çin Meteoroloji Müdürlüğü (ÇMM) tarafından araştırılmaya başlandı. 
+Sel Denetimi ve Kuraklığı Engelleme merkezleri ve Çin Meteoroloji Merkezi yağış şiddetinde artış ve fırtına uyarısında bulundular. Guangzhou Daily 7-8 Haziran'da görülen yağışları eyalet özelinde son 50 yıl içindeki en şiddetlisi olarak aktarmıştır. Wuzhou, 100 yılın en şiddetli yağmur dalgasıyla karşı karşıya kaldı. İki gün içinde bölgeye düşen yağış miktarı 400 milimetrenin üzerindeydi.
+Su Kaynakları Bakanlığı 14 Haziran'da yaptığı açıklamada yaklaşık 1 milyon hektarlık tarım alanının kullanılamaz duruma geldiğini açıkladı. En büyük zararın görüldüğü eyaletler Guangdong, Fujian, Jiangxi, Hunan ve Hubei'ydi. 25 Mayıs - 14 Haziran tarihleri arasında 18 kişi yaşamını yitirirken selin etkilerinin yoğun biçimde duyumsandığı 17 kentte yaşayan 2.22 milyon kişi ise ağır zarar görmüştür. 415 mm olarak ölçülen ortalama yağış miktarı medya tarafından "deli yağmur" olarak adlandırılıyordu.
+Shenzhen'deki 300 yer 15 Haziran tarihi itibariyle su altında kalmıştı. Su taşkınları 1.66 milyon insanın yaşadıkları bölgeyi terketmelerine, 67000 evin yıkılmasına ve 63 kişinin ölmesine neden olmuştur. Üç gün sonra yetkililer halkı büyük gelgitler konusunda uyardı. Bölgede su taşkınları yüzünden ölenlerin sayısının 169 olduğu açıklandı.
+21 Haziran'da etkili yağışın görüldüğü yerler Huaihe ırmağı vadisi, Guizhou, Sichuan ve Yangtze ırmağının kenarıydı. Sağanak yağış Jiangsu, Anhui, Henan, Hubei, Chongqing, Sichuan, Qinghai, ve Moğolistan'da etkili olmuştur. Ay sonu itibariyle 252 kişi yağmur firtınası ve su taşkınları nedeniyle yaşamını yitirmiştir.
+Hong Kong.
+Haziran.
+7 Haziran günü Lantau Adası'na düşen yağış miktarı 400 mm, Hong Kong Adası'na düşen yağış miktarı ise 300 mm'nin üzerindeydi. Saat 12 itibariyle 40 toprak kayması ve 156 su taşkını kayda geçirildi. Tsim Sha Tsui'de 124 yıllık saat başına yağış miktarı rekoru 145.5 mm ile yerle bir edildi. Kuzey Lantau Otoyolu 1997'den bu yana ilk kez kapandı. Tai O köyüne giden karayolu kapandı ve hükümet köye deniz yoluyla ulaşım için feribot sayısını artırmak zorunda kaldı. Gazeteci çocuklar suyun çok hızlı yükseldiğini ve su düzeyinin beş dakika içinde insan dizini aştığını söylemişlerdir. Tuen Mun'da iki kişi toprak kayması sonucu ölmüştür. Sonuç olarak, Hong Kong Gözlem Merkezi, uyarı sinyalini "aşırı yüksek" olarak güncellemiştir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karatepe, Merzifon</DOCTITLE>
+<TEXT>
+
+Karatepe, Amasya ilinin Merzifon ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nerden geldiği bilinmemektedir.
+Kültür.
+Köyün kültürü tam olarak bilinmemektedir.
+Coğrafya.
+Amasya iline 55 km, Merzifon ilçesine 7 km uzaklıktadır.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.
+Her mevsim yağışlıdır. 
+Doğu Karadeniz Bölümünde en fazla yağış sonbaharda, en az yağış ilkbaharda düşer. Yıllık yağış miktarı 2000–2500 mm’dir. 
+Batı Karadeniz Bölümünde en fazla yağış sonbaharda, en az yağış ilkbaharda düşer. Yıllık yağış miktarı 1000–1500 mm’dir. 
+Orta Karadeniz Bölümünde ise en fazla yağış kışın, en az yağış yazın düşer. Yıllık yağış miktarı 800–1000 mm’dir. 
+Karadeniz ikliminin görüldüğü alanlarda kar yağışlı günlerin ortalaması 18 gündür. 
+Yıllık ortalama sıcaklık 13-15 °C’dir. 
+Ocak ayı ortalama sıcaklığı 6-7 °C’dir. 
+Temmuz ayı ortalama sıcaklığı 21-23 °C’dir. 
+Yıllık sıcaklık farkı 13-15 °C’dir. 
+Doğal bitki örtüsü ormandır. Yüksek alanlarda Alpin çayırlar görülür.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.Köyün 2009 yılı Muhtarı Ali Özdemir'dir...
+Seçildikleri yıllara göre köy muhtarları:
+Köy Hane Sayıları
+Köy yaklaşık 100'den fazla hane bulunmaktadır.
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ancak kullanılamamasının yanı sıra taşımalı eğitimle (Fatih İlköğretim Okulu) gidilip yararlanılmaktadır. Köyün hem içme suyu şebekesi hem kanalizasyon şebekesi vardır. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.İnternet bağlantısı yoktur.V.C.
+Ulaşım
+Merzifon kent merkezine yakın olması nedeni ile ulaşımı kolaydır.
+
+</TEXT>
+</DOC>
+

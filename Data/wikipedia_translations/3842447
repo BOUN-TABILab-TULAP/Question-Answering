@@ -1,0 +1,267 @@
+Taylor yasası
+Taylor yasası çalışma alanındaki organizmaların bir örneğinin genel ortalama yoğunluğa yoğunluk arasında örneklem varyansı ilgilidir ekoloji ampirik bir yasadır. Taylor 1961 yılında bu ilişkiyi tarif ve o zamandan beri birçok tür için doğru olduğu tespit edilmiştir. Aynı zamanda bulaşıcı hastalıkların bulaşma, insan cinsel davranış, çocukluk çağı lösemi, kanser metastazları, kan akışı heterojenite, tek nükleotid polimorfizmlerinin ve gen yapılarının genomik dağılımları da dahil olmak üzere diğer alanlarda gerçek olduğu tespit edilmiştir. Bu kanun aynı zamanda (biyolojik literatürde) "güç yasası" veya (fizik literatüründe) "meydana gelen değişiklikler yasa ölçekleme" olarak literatürde bilinmektedir.
+O kabul edilirse, bu yasa türetmek mümkün olduğu bir Poisson dağılımını itaat faiz formu kümelerin organizmalar olduğunu. aslına için alternatif önerileri de ileri sürülmüştür.
+Tarihi.
+Barlett örnek ortalama ve varyans arasında bir ilişki önerdi
+FORMULA_1
+1936 yılında.
+Smith okuyan ekin verimleri Taylor benzer 1938 yılında bir ilişki önerdi iken. Smith ilişki önerdi
+"V" "x x" araziler için verim varyans ise "nerede" birimler, "V x" parsellerin büyüklüğü "1 birim alana ve başına verim varyans" dedi. eğimi ( "B"), heterojenite endeksidir. "B" 0 eğilimi verimi yüksek korelasyon durumlarda 0 ile 1 arasında bu ilişkinin "b" değeri yatıyor; Onlar ilintisiz olduğunda, "b" 1 eğilimindedir.
+Bliss okuyan Japon böcekleri ilişki bulurken
+formula_3
+Bu ilişki 1942 Bliss Yates ve Finney tarafından kullanılan ve Yates ve Finney çalışmaları daha sonra bu ilişkinin örnek olarak Taylor tarafından sayıldı.
+Fracker ve 1944 yılında Brischle ve Hayman ve 1961 yılında Lowe bağımsız şimdi Taylor yasası olarak bilinen ortalama ve varyans arasındaki ilişkiyi tarif.
+Yasa kendisi ekolojist L. R. Taylor, (1924-2007) almıştır. Adı 'Taylor yasası' ortalama kanunu bu ilişki için 1966 Taylor'ın orijinal adı Southwood oldu icat edildi.
+Taylor yasası eponymy ve Stigler'in yasasının bir örnek olduğunu görünür.
+Matematiksel formülasyon.
+sembolleri
+"S" "i" 2 yoğunluğu değişkeni "nerede" inci numune, "m" "i" "i" inci numunenin ortalama yoğunluğu ve "a" ve "b" dir sabittir.
+logaritmik formda
+Uzantıları ve iyileştirmeler.
+yamaç "b" tahmininde bir arıtma Rayner tarafından ileri sürülmüştür.
+"R" log arasında Pearson moment korelasyon katsayısı ( "s" 2) ve log "m" nerede, "f" günlüğüne örnek varyansların oranı ( "s" 2) ve log "m" ve "φ" dir günlüğüne hataların oranı ( "s" 2) ve log "m" dir.
+Sıradan en küçük kareler regresyon = ∞ olduğunu "φ" varsayar. Her iki günlük tahminleri ( "s" 2) ve log "m" hata tabidir, çünkü bu "b" değerini hafife eğilimindedir.
+Birden fazla numune alınırken Taylor hukukun uzantısı "ark" Ferris tarafından ileri sürülmüştür
+burada "s" 2 ve "m" varyans ve sırasıyla ortalama "b", "c" ve "d" sabitler ve "n" alınan numunelerin sayısı bulunmaktadır. Bugüne kadar bu önerilen uzatma Taylor hukuk orijinal versiyonunda olduğu gibi geçerli olmak üzere doğrulanmadı.
+Yorumlama.
+Eğim değerleri ( "B") önemli ölçüde> 1 organizmaların yığılmasını göstermektedir.
+Nüfus sonra "b" = 2 lognormal veya gama dağılımını takip ediyorsa Poisson veriler "b" = 1 dağıtıldı.
+log (bolluk demek) karşı log (varyans) gerilemesini kişi çevre değişkenlik başına sabit yaşandığı popülasyonları "b" = 2 olan bir çizgi olmalıdır.
+çalışılmıştır çoğu popülasyonları "b" <2 (genellikle 1,5-1,6) var ama 2 değerleri bildirilmiştir. Bazen "b" olan olgular> 2 bildirilmiştir. 1'in altında, "b" değerleri nadir ama aynı zamanda rapor edilmiştir ( "b" = 0.93).
+Notlar.
+Bu regresyon yamaç ( "B"), kökeni belirsizdir. Iki hipotez açıklamak için öne sürülmüştür. Bir "B" türler davranışından ortaya çıkan ve bu tür bir sabit olduğunu göstermektedir. Alternatif numunelenmiş nüfus bağımlı olduğunu göstermektedir. Bu yasa (> 1000) üzerinde yapılan çalışmaların önemli sayıda olmasına rağmen bu soru açık kalır.
+"A" ve "b", hem dolayı yaşa özgü dağılma, mortalite ve örnek birim boyutuna değişebilir olduğu bilinmektedir.
+değerleri küçük ise, bu yasa kötü uygun olabilir. Bu sebeple Taylor yasasına uzatma düşük yoğunluklarda Taylor hukuk uyum geliştirir Hanski tarafından ileri sürülmüştür.
+ikili örnekleme uzantısı.
+Orada incelenecek birimler (mahsuller, ağaçlar) çok sayıda ve (onlar doğru sayılabilir önce böcekler uçup nedeniyle sık sık) ilgi bireyler (genellikle böcekler) sayıları zor olabilir nerede nerede binom örnekleme popüler.
+ikili örnekleme (örnek biriminde en az bir bireyin varlığı / yokluğu) için geçerli Taylor yasanın bir form öne sürülmüştür. Bir binom dağılımı teorik varyanstır
+burada "s" 2 varyans ise, "n" örneklem büyüklüğü ve "s", en az bir bireyle örnek birimlerinin oranı olmasıdır. Taylor hukuk önerilen ikili şeklidir
+"Var" "obs var" "gözlenen varyansı ve olan" nerede "bin" binom dağılımı beklenen olmasıdır. "A" ve "b", hem de 1'e eşit olduğunda, o zaman rastgele bir mekansal desen önerilir ve en binom dağılımı ile tanımlanır. Ne zaman, "b" = 1 ve> 1, ortalama insidansı ( "p") üzerinde hiçbir bağımlılığı aşırı yayılım vardır. "A" ve "b", iki> 1 olduğu zaman, agregasyon derecesi, "p" ile değişir.
+Tweedie dağıtım ailesine İlişkisi.
+Tweedie dağıtım ailesi aşağıdaki ilişkiyi itaat olasılık dağılımları ailesidir
+formula_10
+"Var" () rasgele değişken "X" varyansını, "E" () beklenti operatörü ve "a" ve "b", parametreler olduğu.
+Uygulamalar.
+Çünkü biyoloji Taylor hukuk yerde oluşum burada listelenen bazıları kullanan çeşitli bulmuştur.
+olarak Öneriler kullanmak için.
+Bir veri örneğinin olduğu için Taylor hukuk geçerliliğini test uygulamaları simülasyon çalışmalara dayanarak tavsiye edilmiştir:
+(1) organizmaların toplam sayısı> 15 olmak okudu
+(2) organizma gruplarının az sayıda> 5 olması okudu
+(3) organizmaların yoğunluğu örnek içinde büyüklük en az 2 siparişler göre değişebilir olmalıdır
+Rasgele popülasyonları dağıtıldı.
+Ortak nüfus rasgele bir ortamda dağıtılır (en azından başlangıçta) varsayılır. Bir nüfus rastgele sonra ortalama ( "m") ve varyans dağıtılması halinde ( "s" 2) nüfusun eşit ve en az bir kişiyi ( "p") içeriyor örneklerin oranının olmasıdır
+Bir topaklaşan paternini havi bir tür rastgele eşit toplam yoğunluğu ile dağıtılan bir ile karşılaştırıldığında, s topaklaşan dağıtım desenine sahip türler için daha az olacaktır. Bir homojen ve rasgele dağıtılmış tür fakat eşit genel yoğunluklarda karşılaştırırken Bunun aksine, "s" rastgele dağıtılmış nüfus için daha büyük olacaktır. Bu grafiksel "m" karşı "p" komplo ile test edilebilir.
+Wilson ve Oda Taylor'ın yasasını içeren bir binom modeli geliştirmiştir. temel ilişki
+nerede günlük temel "e" alınır.
+Taylor kanunu bu ilişkinin olur birleştirilerek
+Dağılım parametre tahmincisi.
+Negatif binom dağılımının ortak dağılım parametresi ( "k") 'dir
+"M" örnek ortalaması ve "s" olduğu 2 varyanstır. 1 / "k"> 0 ise nüfus toplu olarak kabul edilir; 1 / "k" = 0 ( "s" 2 = "m") nüfus rastgele (Poisson) dağıtılmış ve 1 / "k" ise <0 nüfus düzgün yayılı olarak kabul edilir olarak kabul edilir. dağıtımına ilişkin No comment yapılamaz "k" = 0 ise.
+Taylor yasası nüfusu için de geçerli olduğunu varsayarak Wilson ve Oda "k" için alternatif bir tahmincisi verdi:
+burada "a" ve "b", Taylor'un yasasından sabittir.
+Jones Wilson ve Oda en az bir kişiyi sahip bir örnek bulma olasılığı için geliştirilen ilişki ile birlikte yukarıdaki "k" için tahmini kullanarak
+örnekleme birimi başına "x" bireyler içeren bir numunenin olasılığı için bir tahmin edicisi elde edilen. Jones'un formül
+"P" ( "x") örnekleme birimi başına "x" bireylerin bulma olasılığı olduğu "k" WILON ve oda denklemi ve "m" örnek demek olduğu tahmin edilmektedir. sıfır bireyler bulma olasılığı "P" (0) negatif binom dağılımı ile tahmin edilmektedir
+Jones ayrıca olasılıklar için güven aralıkları verir.
+"CI" güven aralığı olduğu, "t" t dağılımı ve "N" den alınan kritik değeri toplam örnek boyutu olmasıdır.
+dağılımların Katz ailesi.
+Katz ( "w", 1 "w" 2) 2 parametreleri ile dağılımlarının bir aile (Katz ailesi) önerdi. dağılımları Bu aile özel durumlar olarak Bernoulli, Geometrik, Pascal ve Poisson dağılımları içerir. Bir Katz dağılımın ortalama ve varyansı olan
+"M" demek ve "s" olduğu 2 örnek varyansını. parametreler Elimizdeki hangi anların yöntemi ile tahmin edilebilir
+1 = "l" Possion dağılımının parametresi "w" Poisson 2 = 0 "w" dağıtım ve için. dağılımlarının bu aile bazen dağılımlarının Panjer ailesi olarak bilinir.
+Katz ailesi dağılımlarının Sundt-Jewel ailesi ile de ilgilidir:
+formula_24
+Sundt-Jewel ailesinin tek üyesi Poisson, binom, (Pascal) negatif binom, kesik negatif binom ve logaritmik serisi dağılımları genişletilmiş bulunmaktadır.
+nüfus Katz dağılımı uyar Eğer Taylor hukuk katsayıları
+Katz da bir istatistiksel test tanıttı
+"J" n test istatistiği olduğu, "s" 2 örnek varyansı ise, "m" örnek ve "n" örnek boyutu ortalamasıdır. "J" n asimptotik olarak normal sıfır ortalama ve birim varyanslı dağıtılır. Örnek Poisson dağıtılan "J" ise n = 0; "J" n <0 ve> 0 altında sırasıyla dağılım üzerinde işaret değerleri. Örnek çekilir nüfus içinde birden çok alt nüfusu varlığı - Aşırı yayılım genellikle latent heterojenlik kaynaklanır.
+Bu istatistik Neyman-Scott istatistik ilişkilidir
+asimptotik normal ve koşullu ki-kare istatistik olarak bilinen (Poisson dağılım testi)
+Nüfus Poisson dağıtılır zaman serbestlik 1 derecelik - bir asimptotik chi sahip olduğu bilinen "n" ile dağıtım kare.
+Nüfus sonra Taylor yasasını itaat ederse
+nesli zamanı.
+Taylor kanunu uygulamak kabul edilirse yerel nesli ortalama zamanı belirlemek mümkündür. Bu model zaman içinde bir basit tesadüfi yürüyüş ve yoğunluk bağımlı nüfus düzenleme olmadığını varsayar.
+"N" t + 1 ve "N" t zaman "t" + 1 ve "t" ise ve "r" nüfus boyutları formula_31 Let yıllık artış (nüfus azalma) eşit bir parametredir. Sonra
+nerede "var" ( "r") "r" varyans olduğunu.
+Let "K" türü bolluk (birim alan başına organizmalar) bir önlem olabilir. Sonra
+nerede TE yerel nesli ortalama zamanıdır.
+zaman "t" ile yok olma olasılığıdır
+Asgari nüfus büyüklüğü tükenme önlemek için gerekli.
+Bir nüfus lognormally sonra dağıtılması halinde nüfus büyüklüğü ( "H") harmonik ortalama aritmetik ortalama ile ilgilidir ( "m")
+Verilen "H"> 0 nüfus Elimizdeki yeniden düzenlenerek daha sonra devam etmek için olması gerektiğini
+türler kalıcı nüfusun asgari boyutudur.
+Bir lognormal dağılım varsayımı 544 türlerinin bir numunede yaklaşık yarısı için geçerli görünmektedir. En az bir makul bir varsayım olduğunu düşündürmektedir.
+Örnekleme boyutu tahmin edicileri.
+hassas ( "D") derecesi "s" standart sapma ve "m" demek olduğunu "s" / "m" olarak tanımlanır. hassasiyet derecesi diğer bağlamlarda varyasyon katsayısı olarak bilinir. ekoloji Araştırmada "D" sınıfı% 10-25 olması önerilmektedir. hassasiyet istenilen derece Taylor kanunu verilerine başvuruda bulunması durumunda bir araştırmacı test etmek istediği gerekli örneklem büyüklüğü tahmin edilmesinde önemlidir. Gerekli örneklem büyüklüğü, basit bir dağılımlar sayısı ama nereye nüfus dağılımı bilinmemektedir veya daha karmaşık formüller gerekli örneklem büyüklüğü belirlemek için gerekli olabilir kabul edilemez tahmin edilmiştir.
+Nüfus nerede Poisson gerekli ( "n") 'dir örneklem büyüklüğünü dağıtılan
+"T" demek ( "m") ile hesaplandı serbestlik derecesi ile tip 1 hata t dağılımının kritik seviye olduğu.
+nüfus negatif binom dağılımı olarak dağıtılan Eğer gerekli örnek büyüklüğü
+burada "k" negatif binom dağılımının parametresidir.
+Daha genel bir örneklem büyüklüğü tahmincisi de öne sürülmüştür
+burada a ve b, Taylor hakları elde edilir.
+Alternatif Southwood tarafından önerilmiştir
+Burada "n" Gerekli örneklem büyüklüğünün ise, "a" ve "b", Taylor kanunu katsayıları ve "D" hassasiyet istenilen derecesi vardır.
+Karandinos "n" için iki benzer tahmincileri önerdi. İlk Taylor'ın kanunu dahil Ruesink tarafından modifiye edildi.
+burada "d" ortalama yarım istenen güven aralığı ( "CI") oranıdır. sembolleri
+İkinci tahmincisi binom (varlığı-yokluğu) örnekleme kullanılır. İstenilen örnek büyüklüğü ( "n") 'dir
+formula_43
+"P" - dp bireylerle örnek birimlerinin oranının yarısını istenen güven aralığının oranıdır, "p" bireyler ve "q" = 1 içeren örneklerin oranıdır. sembolleri
+Sıralı örnekleme.
+Ardışık analizi numune boyutu önceden sabit değildir istatistiksel analiz yöntemidir. Bunun yerine numuneler önceden tanımlanmış bir durdurma kuralına uygun olarak alınır. Taylor yasası durdurma kuralları bir dizi elde etmek için kullanılmıştır.
+Taylor yasasını test etmek için seri örnekleme sabit hassasiyet için bir formül 1970 yılında Yeşil tarafından türetilmiştir.
+"T" kümülatif numune toplam nerede, "D" hassasiyet seviyesi olan "n" Taylor'un yasa elde edilen örneklem büyüklüğü ve "a" ve "b" dir.
+haşere kontrol için bir yardım olarak Wilson "ark" eylem alınması gereken bir eşik seviyesini dahil bir test geliştirdi. Gerekli örneklem büyüklüğü
+burada "a" ve "b", Taylor katsayıları || vardır mutlak değer, "m" örnek demek olduğunu, "T" eşik seviyesi ve "t" t dağılımının kritik düzey olmasıdır. Yazarlar ayrıca binom (varlığı-yokluğu) örnekleme için benzer bir testi sağladı
+"P" - "p" zararlıları mevcut ve "q" = 1 olan bir örnek bulma olasılığı olduğu.
+Yeşil Taylor'ın yasaya dayalı ardışık örnekleme için başka bir örnekleme formül elde
+"D" hassasiyet derecesi olduğu, "a" ve "b", Taylor kanunu katsayıları, "n" örneklem büyüklüğü ve "T" örneklenmiş bireylerin toplam sayısıdır.
+Serra "vd" Taylor'un yasaya dayalı bir durdurma kuralı önerdi.
+formula_49
+"A" ve "b", Taylor hukuk, gelen parametreler nerede "D" kesinlik ve "T" istenilen düzeyde n toplam örnek boyutudur.
+Serra "vd" da Iwoa en regresyon dayalı ikinci bir durdurma kuralı önerdi
+formula_50
+"Α" ve "β" regresyon çizgisinin parametreleri nerede, "D" kesinlik ve "T" istenilen düzeyde n toplam örnek boyutudur.
+Yazarlar "D" haşere kontrolü için nüfus dinamikleri çalışmalarının ve "D" = 0.25 için 0.1 olarak ayarlanması önerilir.
+İlgili analizler.
+Sadece tek bir indeks kullanımı yanıltıcı olabilir, çünkü toplama (Taylor hukuk dışında) en az bir ek analiz tahmin etmek iyi bir uygulama olarak kabul edilir. Varyans arasındaki ilişkileri tespit ve biyolojik numunelerde ortalama diğer bir dizi yöntem önerilmiş olmasına rağmen, tarih hiçbiri Taylor hukuk popülerlik elde ettik. Taylor'ın yasa ile birlikte kullanılan en popüler analiz muhtemelen Iowa'in patchiness regresyon testi ama burada listelenen tüm yöntemleri literatürde kullanılmıştır.
+Barlett-Iawo modeli.
+1936 yılında Barlett ve daha sonra Iawo bağımsız 1968 yılında hem varyans ve ortalama arasındaki alternatif bir ilişki önerdi. sembolleri
+burada "s" varyans "i" inci örnek ve "m" "i" inci örnek "ortalamasıdır"
+nüfus negatif binom dağılımı, "a" = 1 ve "B" = "k" (negatif binom dağılımı üs) izlediğinde.
+Bu alternatif formülasyon çalışmaların çoğunda Taylor'un yasa kadar iyi bir uyum olduğu tespit edilmemiştir.
+Nachman modeli.
+Nachman ortalama yoğunluğu ve sıfır sayısı örneklerin oranları arasında bir ilişki olduğunu öne sürmüşlerdir:
+"P" 0, sıfır sayısı ile numunenin bir bölümü olduğu, "m", ortalama yoğunluğu, "a" bir ölçü parametredir ve "B" bir dağılım parametresi olmasıdır. "A" = "b" Eğer = 0 dağıtım rastgele. Bu ilişki genellikle logaritmik formda test edilir
+Allsop bir numunede istila edilen birimlerin oranı için bir ifade elde etmek için Taylor yasa ile birlikte bu ilişkiyi kullanılan
+formula_54
+formula_55
+nerede
+formula_56
+burada "D" 2 İstenilen hassasiyet derecesi, / 2 a "z" üst α normal dağılımın / 2, "a" ve "b", Taylor'un kanunu katsayıları, "c" ve "d" are Nachman katsayıları, "n" örneklem büyüklüğü ve "N" istila edilen birim sayısı olmasıdır.
+Kono-Sugino denklemi.
+İkili örnekleme nadiren ekoloji kullanılmaz. 1958 yılında Kono ve Sugino örneklerin ortalama yoğunluğu bireylerin olmayan örneklerin oranını ilişkindir bir denklem türetilmiştir.
+"P" 0 hayır bireylerle örnek oranı olduğu, "m" ortalama numune yoğunluğu, "a" ve "b" sabitlerdir. Taylor hukuk gibi bu denklem Taylor'un kanunlara uyma olanlar da dahil olmak üzere nüfusun çeşitli uyacak şekilde tespit edilmiştir. Negatif binom dağılımı aksine bu model ortalama yoğunluk bağımsızdır.
+musallat pirinç tepelerin bir dizi oranı ( "p") ve istila ortalama şiddeti ( "m") arasındaki ilişkiyi incelerken denklemi elde edilmiştir. çalışılan model
+"A" ve "b", ampirik sabitlerdir. Bu modele dayalı olarak sabitler "a" ve "b", türetilmiş bir tablo "P" ve "m" değerlerini ilişkin hazırlanan
+Bu denklemden, "m" nin tahmin edilen tahmin önyargı tabidir ve düzeltilmiş ortalama ( "m" a) yerine kullanılması önerilir
+"Var" () örnek birim araçlarının varyans ( "m" i) ve "m" olduğu genel ortalamasıdır.
+ortalama tahminlere alternatif ayar olduğunu
+burada "MSE" gerileme ortalama hata kare olduğunu.
+Bu model aynı zamanda enumerative (ardışık) örnekleme için durdurma hatları tahmin etmek için de kullanılabilir. Tahmini araçların varyansını
+nerede
+burada "MSE" regresyon "α" ve "β" sabit ve regresyon eğim sırasıyla ortalama kare hata, "s" β2 regresyon yamaç varyansı ise, "N" sayısı regresyon puan, "n" örnek birimlerinin sayısı ve "s" regresyon p0 ortalama değer olduğunu. Parametreler "a" ve "b", Taylor'un kanunundan tahmin edilmektedir:
+Hughes-Madden denklemi.
+Hughes ve Madden (bir örnek biriminde varlığı / yokluğu) da ikili örnekleme için geçerli benzer bir ilişki test önerdi
+"A", "B" ve "C" sabitlerdir, "in" 2 varyans ve p en az bir bireysel üniteler oranıdır. logaritmik formda bu ilişki
+Bu ilişki henüz Taylor kanunu tabi tutulmuştur yoğun testlere tabi olmamıştır. Bu nedenle genel uygulanabilirliği halen belirsizliğini koruyor.
+Bu denklemin bir varyant gerilemesini test önerdi Shiyomi "ark" tarafından önerilmiştir
+"S" 2 varyans olduğu, "a" ve "b", regresyon sabitler, "n" örneklem büyüklüğü ve "s" en az bir kişiyi içeren bir örnek olasılığı olmasıdır.
+Negatif binom dağılımı modeli.
+Negatif binom modeli aynı zamanda ileri sürülmüştür. ve "s" "i s" sayar> 0 örneklerin oranıdır "" - anları yöntemini kullanarak dağılım parametresi ( "k") "m" 2 / ( "m", "s" 2) 'dir "k" nin hesaplanmasında kullanılan 2 Taylor kanunla öngörülen değerlerdir. "S", "I" 1 grafiği çizilir ( "-" ( "K" + "M") -1 k) "k" ve veri uygun görsel olarak izlenmektedir.
+Perry ve Taylor Taylor yasaya dayalı "k" alternatif bir tahmin edicisi önerdi.
+dağılım parametresi daha iyi bir tahmini maksimum olabilirlik yöntemi ile yapılabilir. Negatif binom için denkleminden tahmin edilebilir
+"A", "x x" ile daha fazla numunelerin toplam sayısıdır "nerede" bireyler "N" bireylerin toplam sayısıdır "x" bir numunede birey sayısı "m" ortalama sayısı numune ve "k" başına bireylerin üs olduğunu. "K" değeri sayısal tahmin etmek vardır.
+Bu modelin uyum iyiliği ki-kare testi kullanılarak da dahil olmak üzere bir dizi yolla test edilebilir. Negatif binom dağılımı altında beklenen varyans ve örnek arasındaki fark - Bu küçük numuneler tarafından önyargılı olabilir gibi bir alternatif "U" istatistik olur. Bu dağılımın beklenen varyans "m" + "m" 2 / "k" ve
+burada "s" 2 örnek varyansı, "m" demek örnek ve "k" olduğunu negatif binom parametredir.
+U varyansını
+"S" = "M" / "K", "Q" = 1 + "s", "r" = "s" / "Q" ve "N" örnek birey toplam sayısıdır. "U" beklenen değer "U" normal dağıtılır büyük örneklem büyüklükleri için 0'dır.
+Not: negatif binom aslında varyans ortalama denklem ile ifade dağıtımları bir aile
+formula_73
+"A" ve "s" sabitlerdir. Ne zaman "a" = 0, bu Poisson dağılımını tanımlar. "P" = 1 ve "p" = 2 ile, dağılımı sırasıyla NB1 ve NB2 dağılımı olarak bilinir.
+ortak bir dağılım parametresi için testler.
+dağılım parametresi ( "k") 'dir
+"M" örnek ortalaması ve "s" olduğu 2 varyanstır. "K" -1> 0 ise nüfus toplu olarak kabul edilir; Nüfus rastgele olarak kabul -1 = 0 "k"; "K" -1 ise ve <nüfusun 0 düzgün yayılı olarak kabul edilir.
+Southwood ortalama ve sabit karşı "k" gerileyebilen tavsiye etti
+"K" "i" ve "m" "i" dağılma parametresi ve sırasıyla ortak bir dağılım parametresi ( "k", "c") olarak varlığını sınamak için i örnek ortalaması nerede. Bir yamaç ( "B") değeri önemli ölçüde> 0 ortalama yoğunluğuna "k" bağımlılığını gösterir.
+karşı - ( "m", "s" 2) alternatif bir metot planlamakla önerdi Elliot tarafından önerilmiştir ( "m" 2 - "s" 2 / "n"). "K", "c" Bu gerilemenin 1 / eğimine eşittir.
+Lloyd'un indeksler.
+( "IMC") boğmakta ortalama Lloyd'un endeksi rastgele seçilmiş noktasını içeren örnek ünitesinde bulunan diğer noktaların ortalama sayısıdır.
+"M" örnek ortalaması ve "s" olduğu 2 varyanstır.
+patchiness Lloyd endeksi ( "IP") 'dir
+Bu (noktaları rastgele kaldırma) inceltilerek etkilenmez desen yoğunluğunun bir ölçüsüdür. Bu endeks de 1988 yılında Pielou tarafından önerilen ve bazen de bu isimle bilinir.
+Nüfus sonra Taylor yasasını itaat ederse
+Patchiness regresyon testi.
+Iwao topaklanma test etmek için bir patchiness regresyon önerilen
+let
+"" Y "i" Burada boğmakta ortalama Lloyd'un endeksidir. i y "karşı" "m" "" sıradan bir en küçük kareler regresyon gerçekleştirin.
+veri Poisson dağılımına ise eğim = 1: Bu regresyon eğimi ( "B") olarak değeri topaklanma bir göstergesidir. sabiti ( "a") sonsuz yoğunlukta yaşam birimi paylaşmak ve olabilecek bireylerin sayısı <0, 0 veya> 0. Bu değerler sırasıyla mekansal desen düzenlilik, rasgelelik ve nüfus toplanmasını temsil etmektedir. "A" <1 değeri dağılımının temel birimi tek bir birey olduğu anlamına alınır.
+istatistiğin "s" 2 / "m" sabit olmadığı hallerde + "bm" 2 burada "a" ve "b" dir sabitleri "am" karşı Lloyd'un endeksi gerileme yerine kullanılması tavsiye edilmiştir.
+Bu regresyon için hassasiyet ( "D") verilen bir derecesi için örneklem büyüklüğü ( "n") tarafından verilen
+"A" bu regresyon sabit olduğu, "b", yamaç, "m" demek ve "t" t dağılımının kritik değer olmasıdır.
+Iawo Bu regresyon dayalı ardışık örnekleme testi önerdi. Bir zararlının kontrol eylem alınacak gerektirdiği Bu testin alt ve üst sınırları, kritik yoğunluklar mc dayanmaktadır.
+"N", "U" ve "N", "L" alt ve üst sınırları, sırasıyla burada, "A" regresyon sabittir, "B" eğimi ve "i" numune sayısıdır.
+Kuno de bu regresyon dayalı alternatif bir ardışık durma testi önerdi.
+burada "T" "n D", hassasiyet derecesi olan "" toplam örneklem büyüklüğü olan "n" örnekleri birimlerinin sayısı, sabit ve b sırasıyla regresyon eğimi.
+Kuno test koşuluna tabi olduğunu "n" ≥ ( "B" - 1) / "D" 2
+Parrella ve Jones alternatif ama ilgili durdurma hattı önerdi
+formula_85
+"A" ve "b", regresyon parametreleri nerede, "N" maksimum örneklenmiş birimlerin sayısı ve "n" bireysel örnek boyutu olmasıdır.
+dispersiyonun Morisita dizin.
+dağılım Morisita endeksi ( "Ben" "m") tüm nüfustan rastgele seçilen iki nokta aynı örnek olduklarını ölçekli olasılığıdır. Daha yüksek değerler daha topaklaşan dağılımı göstermektedir.
+Alternatif bir formülasyondur
+"N" toplam örneklem büyüklüğü olduğu, "m" örnek "x" tüm örneklem ele toplamı ile bireysel değerleri ortalama ve olduğunu.
+Ayrıca eşittir
+burada "IMC" çapraşıklık Lloyd'un endeksidir.
+Bu indeks nüfus yoğunluğu nispeten bağımsız olan, ancak numune sayısı etkilenir.
+Morisita istatistik gösterdi
+1 serbestlik derecesi - Bir chi "n" ile değişken kare olarak dağıtılmaktadır.
+Bu dizin için bir alternatif anlamlılık testi büyük numuneler için özel olarak geliştirilmiştir.
+"M" genel örnek demek olduğu, "n" örnek birimlerinin sayısı ve "z" normal dağılım apsis olmasıdır. Önemi normal dağılım değerlerine karşı "z" değerini karşılaştırarak test edilir.
+hesaplanması için bir fonksiyon istatistiksel R dilinde mevcuttur. R fonksiyonu
+Standartlaştırılmış Morisita dizin.
+Smith-Gill, hem örnek büyüklüğü ve nüfus yoğunluğu bağımsız ve -1 ve +1 ile sınırlı olan Morisita en endeksine dayalı bir istatistik geliştirdi. aşağıdaki gibi istatistik hesaplanır
+İlk zamanki moda Morisita dizinini ( "Ben", "d") belirler. Sonra nüfus örnek alınmıştır birimlerinin sayısını "k" olalım. iki kritik değerlerini hesaplamak
+güven% 97.5 ve% 2.5 seviyelerinde 1 serbestlik derecesi - χ2 "n" için ki kare değeridir.
+standart indeksi ( "I", "p") daha sonra aşağıdaki formüllerden birine hesaplanır
+Ne zaman Kimliği ≥ Mc> 1
+Ne zaman Mc> Kimliği ≥ 1
+Ne zaman 1> Kimliği ≥ Mu
+Ne zaman 1> Mu> Kimliği
+"Ben", "p" ± 0.5 95 ile 1 arasında -1% güven aralıkları değişmektedir. model, rasgele ise "I", "p", 0 değerine sahiptir; desen üniforma, "Ben", "p ise 0" <ı "" p "0 ve desen toplama gösterir eğer">.
+mekansal agregasyon Southwood dizin.
+uzamsal toplama ( "k") olarak Southwood endeksi olarak tanımlanır
+"M" numunenin ortalama ve "m" olduğu * çapraşıklık Lloyd'un endeksidir.
+dağılım Fisher'in indeksi.
+dağılım Fisher endeksi
+Bu dizini popülasyon dağılımı üzerinde test etmek için kullanılabilir. Bu uygulamalarda tavsiye n> 5 ve numune sayısına bölünmesiyle elde edilen örnek sayısı semboller olarak> 3 olduğu bir
+burada "x" bireysel örnek değerdir. Endeksin beklenti "n" eşittir ve "n" ile ki-kare dağılımı olarak dağıtılmaktadır - Nüfus Poisson dağıtılan serbestlik 1 derecelik. Nüfus gama dağılımını itaat ölçek parametresi eşittir.
+Bu genel nüfusa ve bireysel örneklenmiş bireysel alanlara hem de uygulanabilir. tek tek örnek alanlarda bu testin kullanılması da Bonferroni düzeltmesi faktörü kullanımını içermelidir.
+Nüfus sonra Taylor yasasını itaat ederse
+küme boyutu Endeksi.
+küme boyutu endeksi ( "ICS") David ve Moore tarafından oluşturuldu. rastgele (Poisson) dağılımı "ICS" altında 0. Pozitif değerler bir topaklaşan dağılımını göstermektedir eşit bekleniyor; negatif değerler bir tekdüze dağılım göstermektedir.
+"S" nerede 2 varyans ve "m" demek olmasıdır.
+Nüfus Taylor'un yasasını itaat ederse
+"ICS" da "n" örnek boyutu ( "n" / 2) 1/2 bölünmesiyle Katz test istatistiği eşittir. Ayrıca, Clapham test istatistik ile ilgilidir. Aynı zamanda, zaman zaman topaklanma endeksi olarak adlandırılır.
+Green'in indeksi.
+Green indeksi ( "GI") örnek birimlerinin "n" sayıda bağımsız küme boyutu endeksinin bir değişiklik.
+o üniforma ise - Dağıtım rastgele eğer maksimum toplu ve -1 / (1 "nm") ise, bu endeks 1, 0 eşittir.
+Green indeksi dağılımı şu anda istatistiksel testler bunun için hazırlamak için zor olmuştur bu yüzden bilinmemektedir.
+Nüfus Taylor'un yasasını itaat ederse
+İkili dağılma indeksi.
+bilginin doğru sayar elde etmek zor olduğu ikili örnekleme (varlığı / yokluğu) sık sık kullanılır. Çalışma popülasyonu eşit örnekleri bir dizi ayrılır zaman dağılma indeksi ( "D") kullanılmıştır (birimler = "N" sayısı: Örnek = "n" başına birim sayısı: toplam nüfus büyüklüğüne = "n" x " N "). Bir binom dağılımına sahip bir halktan bir numune teorik varyansını
+"S" 2 varyans olduğu, "n" örneklenmiş birimlerin sayısı ve "s", en az bir bireysel varken örneklem birimlerinin ortalama oran olmasıdır. dağılma indeksi ( "D") beklenen varyans gözlenen varyansın oranı olarak tanımlanır. sembolleri
+"Var" "obs var" "gözlenen varyansı ve olan" nerede "bin" beklenen varyans olduğunu. beklenen varyans nüfusun genel ortalama hesaplanır. "D"> 1 değerleri toplama önermek kabul edilir. "N" örneklenmiş birimlerin sayısı 1 serbestlik derecesi - "D" - chi "n" ile değişken kare olarak ( "n" 1) dağıtılır.
+Alternatif bir test "C" testidir.
+"D" dağılımı indeksi olduğu, "n", numune ve "N" için birim sayısını numune sayısıdır. C normal dağıtılır. C istatistiksel olarak anlamlı bir değer nüfusun aşırı yayılımı gösterir.
+"D" olarak da tanımlanan içi ilişki (ρ) ile ilişkilidir
+"T" örnek başına organizmaların sayısı olduğu, "p" organizmanın olasılığı ( "vb", ücretsiz hastalıklı, zararlının) özelliği aranılır olması ve xi "i" th organizmanın sayısı Bu özelliği ile birim. "T" tüm örneklenmiş birimler için aynı olmalıdır. Sabit "N" ile, bu durumda,
+Veriler daha sonra bir beta-binom dağılımı ile donatılmış olabilir Eğer
+burada "θ" dağılımının parametresidir.
+İlgili istatistikler.
+İstatistiksel testler çok sayıda uygulamalarda kullanım olabileceğini bilinmektedir.
+de oliveria en istatistik.
+de oliveria tarafından önerilen bir ilgili istatistik Varyans ve ortalama farktır. nüfus ise Poisson sonra dağıtılan
+"T" Poisson parametresi olduğu, "s" 2 varyans, "m" demek ve "n" örnek boyutu olduğunu olmasıdır. beklenen değeri 2 "s" - "m" sıfırdır. Bu istatistik normal dağıtılır.
+Bu denklemde Poisson parametresi küçük bir manipülasyon sonra "t" = "m", koyarak tahmin edilirse bu istatistik yazılabilir
+"N" yerine - Bu (1 "n") ile Katz'ın istatistik hemen hemen aynıdır. Yine "O" "T" n "normalde büyük için ortalama 0 ve birim varyanslı dağıtılır."
+Poisson parametresi - (2 "t" 1/2 + 3 "t" 1) / "n" "t" olduğunu "m" oldu - de oliveria aslında "s" 2 varyans önerdi. O, "t" örnek ortalamasının ( "m") için eşit koyarak tahmin edilebileceğini öne sürdü. Böhning tarafından daha fazla araştırma varyans bu tahmini yanlış olduğunu gösterdi. Böhning düzeltmesi yukarıdaki denklem verilmiştir.
+Clapham testi.
+1936 yılında Clapham bir test istatistik olarak ortalamaya varyans oranını (göreli varyans) kullanılmasını önerdi. sembolleri
+Bir Possion dağılım için bu oran o ile ki-kare dağılımı karşı değerini test PROSED bu değerden sapmalar test etmek için 1. eşittir "n", "n" örnek birimlerinin sayısı serbestlik derecesi. Bu istatistik dağılımı yaklaşık normalde 1 ortalama ve varyans ( "V" θ) ve birlikte dağıtılan olduğunu kaydetti kim Blackman tarafından daha çalışıldı
+Varyans türetme olmasını kabul Bartlett tarafından analiz yeniden edildi
+Büyük numuneler için bu iki formüller yaklaşık uyum içindedir. Bu test, daha sonra Katz'ın "J" n istatistik ile ilgilidir.
+Nüfus sonra Taylor yasasını itaat ederse
+Bu test bir arıtma da Bu yazarlar bu test bu veriler mevcut değildi bile yüksek ölçeklerde aşırı yayılım tespit eğiliminde olduğunu kaydetti yayımlanmıştır. Bunlar çok terimli dağılım kullanımı bu tip veriler için bir Poisson dağılımına kullanılması daha uygun olabilir kaydetti. istatistik "θ" dağıtılır
+"N" örnek birimlerinin sayısı, burada "n" İncelenen örneklerin ve "x" i olan bireysel veri değerleri toplam sayısıdır.
+beklenti ve "İçeride ISTV melerin RWMAIWi'nin" varyansı olan
+büyük "N", "E" (θ) yaklaşık olarak 1 ve
+( "N") örneklenmiş bireylerin sayısı büyükse varyans bu tahmin daha önce elde edilenler ile uyum içindedir. Ancak küçük örnekler için bu son tahminler daha kesin ve kullanılmalıdır.

@@ -1,0 +1,30 @@
+Çekiş hisse senedi için işaretleme UIC tanımlama
+Avrupa Demiryolu Ajansı'nın CR OPE TÜİK gerektirdiği gibi 2007 yılı başından bu yana yeni yetkili lokomotifler veya Avrupa'daki diğer çekiş birimleri, 12 haneli bir sayı verilmiştir. Bu tescilli demiryolu araçlarının AB çapında listeden açıkça tanımlanabilir lokomotif yapar ve Kimlik çekme hisse senedi için işaretleme, Uygulama 438-3 ve UIC Kanunu ile getirilen kurallara uyar.
+Tam sayı 12 basamak içerir. Rakamlar 1-2 tip kodu, menşe 3-4 ülkesiyiz, 5-11, ilgili ülkenin tanımlanır, 12 çek rakamdır. Bu menşe ülke ve araç sahibi için kısaltmalar izlemektedir.
+AB CR OPE TSI 1 Ağustos 2008 bütün çekiş birimleri tescil ve sayıları ile işaretlenmiş gerektiğini gerekli. Dahili olarak kullanılan Mevcut lokomotif numaraları etkilenmemiştir.
+Uluslararası bölüm.
+Tür kodu.
+Basamak 1 '9' olduğunu
+Haneli 2 çekici stokunun türünü açıklar, aşağıdaki kodlama zorunludur:
+"Yukarıdaki kodları ERA CR OPE TSE tarafından UIC 438-3 gösterilenlerden değiştirilmiş, bu tabloda en son ifadeler dahil 22 Ocak 2012 tarihinde güncellenmiştir."
+Ülke kodu.
+UIC ülke kodları listesi bakın
+Ulusal Blok.
+Almanya.
+Çekici birimlerin bir kayıt da araç numaralarını sorunları Federal Demiryolu Bürosu ("Eisenbahnbundesamt", "EBA") tarafından getirilmiştir. Rakamlar 5-8 dört basamaklı sınıf numarası, kendi sınıfı içinde aracın 9-11 üç haneli seri numarası vardır.
+Mevcut Deutsche Bahn filosundaki araçlar için sınıf numaraları için, DB basamak 5-8 seçilen böylece önceki sayı kontrol hanesi etkilemeden kullanılmaya devam edebilir: Sadece yanma motorlu vagonlar için gerekli kontrol hanesi değişiyor. Ayrıca, 2008 yılında tanıtılan Alstom Sınıf 1214 yeni DB araçlarda, için, bu geçerli değildir. Onlar içten Sınıf 262 olarak sayılır rağmen, üretici tarafından kullanılan sınıfa karşılık gelen bir numara verildi.
+Gereksinimi sonucu kayıt girilmesi gibi, araç ve sınıflar DB parçası olmamış olduğunu alındı. Bunlar EBA tarafından yeni sınıflar tahsis edildi, artık DB tarihsel sınıflandırmaya etrafında tabanlı. Sınıflar şimdi genellikle artık aracın türünü gösterir dört basamaklı sayılar (rakam 5-8) oluşuyor, çünkü bu yanlış anlamalara neden oldu, şimdi tip kodu (rakam 1-2) ile gösterilir.
+Örnek:
+Son üç basamak itibaren, sınıf "0128" bir elektrik lokomotif olmaya görünebilir. Ancak tam sayı türü kodu "98" içerir, bu nedenle bir dizel makasçı olduğunu. "2xy" Önceden DB tarafından kullanılan üç basamaklı sayılar "3xy" ya da yeni numaralar parçası değildir. Onlar sadece eski devlet demiryolu araçlarının sayıları bulunan, eskimiş vardır.
+DB ve özel demiryolları hem kullanılan araçlar aynı sınıfa ayrılır - Fark sahibinin kısaltmasından tanınabilir. Araçlar sahipliğini değiştirmek zaman aynı sayıda korumak için sistemin bir avantajı, sadeliği: sahibinin adının sadece kısaltması değiştirilmesi gerekiyor. Yeniden büyük bir numarası, uygun bir sınıf olduğu için değiştirilebilir.
+Alman Demiryolu Araç Kayıt sınıfların da listesi gör
+uygulanması ve rakamları aralık yöntemi operatörleri arasında farklılık gösterir.
+Örneğin İngiltere'de kayıtlı British Rail Sınıf 66 loco numarasını taşımak görülmüştür:
+Mevcut ulusal numarası "66246" ile 2 70 0 066246-4 TR 9, altı çizili ve kod tanımlayan operatörü eksik.
+Sık sayıda yaygın olarak kullanılan, ulusal kısmı daha kolaylıkla tanınabilir hale getirilmesi için, altı çizilmiştir.
+Rakamı kontrol edin.
+çek basamaklı rakam 1-11 hesaplanır. Bu basamak alternatif olarak, 2 ve 1 ile çarpılır ortaya çıkan sayının toplamı elde edilir; on bir sonraki birden bu miktarın farkı (bu örnekleri için vagon numaralarını görmek) onay rakamı üretir.
+Sahibinin kodu.
+Kayıt içine çekme birimleri girer her demiryolu için, net bir Avrupa genelinde kod numarasından ayrı ihtiyaç duyulmaktadır. Bu alfanümerik Araç Keeper İşaretleme (VKM) CR OPE TSI uygun bir demiryolu idaresi tarafından tahsis edilir. Sahibinin kodları listesi aşağıda bağlantılıdır.
+Eski tanımlama sistemleri.
+Geçmişte, her demiryolu kendi kimlik sistemini benimsemiştir. Her lokomotif bazen sınıf numarası ile kombine olacak bir yol numarası veya çalışan numarası verildi. Örneğin British Rail dizel ve elektrikli lokomotif beş basamaklı İlk iki rakam sınıf numarası hangi numaralarını ve kalan haneleri olan numarayı çalışan, örneğin vardı 37 409.

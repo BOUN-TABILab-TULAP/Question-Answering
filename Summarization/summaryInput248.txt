@@ -1,0 +1,400 @@
+Question: Güneş sabiti nasıl belirlenir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güneş enerjisi sabiti</DOCTITLE>
+<TEXT>
+
+Güneş enerjisi sabiti; Dünya'nın yörüngesi üzerinde, uzayda, birim alana ulaşan Güneş ışını miktarıdır. Değeri 1366 W/m²'dir. Atmosfer bu enerjinin %6'sını yansıtır, %16'sını da sönümler ve böylece deniz seviyesinde ulaşılabilen en yüksek güneş enerjisi 1020 W/m² olur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güneş enerjisi</DOCTITLE>
+<TEXT>
+
+Güneş enerjisi ya da Güneş erkesi, Güneş ışığından enerji elde edilmesine dayalı bir teknolojidir. 
+Güneşin yaydığı ve Dünya'mıza da ulaşan enerji, Güneş'in çekirdeğinde yer alan füzyon süreci ile açığa çıkan ışınım enerjisidir. Güneşteki hidrojen gazının helyuma dönüşmesi şeklindeki füzyon sürecinden kaynaklanır. Dünya atmosferinin dışında Güneş ışınımının şiddeti, aşağı yukarı sabit ve 1370 W/m2 değerindedir; ancak yeryüzünde 0-1100 W/m2 değerleri arasında değişim gösterir. Bu enerjinin Dünya'ya gelen küçük bir bölümü dahi,insanlığın mevcut enerji tüketiminden kat kat fazladır. Güneş enerjisinden yararlanma konusundaki çalışmalar özellikle 1970'lerden sonra hız kazanmış, Güneş enerjisi sistemleri teknolojik olarak ilerleme ve maliyet bakımından düşme göstermiş, Güneş enerjisi çevresel olarak temiz bir enerji kaynağı olarak kendini kabul ettirmiştir.
+Güneş’ten elde edilebilecek enerji.
+Dünyanın yörüngesi üzerinde, uzayda, birim alana ulaşan Güneş ışınları, Güneş'e dik bir yüzey üzerinde ölçüldükleri zaman 1,366 W/m2’dir. Bu değer Güneş enerjisi sabiti olarak da anılır.
+gezegen
+Atmosfer bu enerjinin %6’sını yansıtır, %16’sını da sönümler ve böylece deniz seviyesinde ulaşılabilen en yüksek Güneş enerjisi 1,020 W/m2’dir. Bulutlar gelen ışımayı, yansıtma suretiyle yaklaşık %20, sönümleme suretiyle de yaklaşık %16 azaltırlar. Sağdaki resim 1991 ve 1993 yılları arasında uydu verilerine dayanarak, elde edilebilen ortalama Güneş enerjisinin W/m2 cinsinden gösterimidir. Örneğin Kuzey Amerika’ya ulaşan Güneş enerjisi 125 ile 375 W/m2 arasında değişirken, günlük elde edilebilen enerji miktarı, 3 ila 9 kWh/m2 arasında değişmektedir.
+Bu değer, elde edilebilecek mümkün en yüksek değer olup, Güneş enerjisi teknolojisinin sağlayacağı en yüksek değer anlamına gelmez. Örneğin, fotovoltaik (Güneş pili) panelleri, bugün için yaklaşık %15’lik bir verime sahiptirler. Bu nedenle, aynı bölgede bir Güneş paneli, 19 ile 56 W/m2 ya da günlük 0.45-1.35 kWh/m2 enerji sağlayacaktır. Yandaki resimdeki koyu renkli alanlar, Güneş paneli kaplanması durumunda aynı bölgede 2003 yılında üretilen toplam enerjiden biraz daha fazla enerji üretebilecek örnek alanları göstermektedir.
+Hava kirliliğinin neden olduğu Küresel loşluk ise daha az miktarda Güneş ışının yeryüzüne ulaşmasına neden olduğu için, Güneş enerjisinin geleceği ile ilgili az da olsa endişe yaratmaktadır. 1961-90 yılları arasını kapsayan bir araştırmada, aynı dönem içerisinde deniz seviyesine ulaşan ortalama Güneş ışını miktarında %4 azalma olduğu gözlenmiştir.
+Güneş enerjisi teknolojileri.
+Güneş ışınlarından yararlanmak için pek çok teknoloji geliştirilmiştir. Bu teknolojilerin bir kısmı Güneş enerjisini ışık ya da ısı enerjisi şeklinde direk olarak kullanırken, diğer teknolojiler Güneş enerjisinden elektrik elde etmek şeklinde kullanılmaktadır.
+Güneş enerjili sıcak su sistemleri, suyu ısıtmak için Güneş ışınlarından yararlanır. Bu sistemler evsel sıcak su ya da bir alanı ısıtmak için kullanılabildiği gibi çoğunlukla bir havuzu ısıtmak için kullanılır. Bu sistemler çoğunlukla bir termal Güneş paneli ile bir de depodan oluşur. Güneş enerjili su ısıtıcıları üç grupta toplanır.
+Güneş pilleri.
+Güneş pilleri ya da fotovoltaik piller diye anılan cihazlar, yarıiletkenlerin fotovoltaik etki özelliğini kullanarak, Güneş ışığından elektrik enerjisi üretirler. Güneş pilleri, kurulan sisteme bağlı olarak birkaç kW'dan birkaç MW'a kadar elektrik üretebilir. Yüksek üretim maliyetleri nedeniyle, yakın zamana kadar oldukça az kullanılmıştır. 1956'lardan bu yana uzayda uydularda, 1970'li yıllarda, elektrik hattından uzak yerlerde, yol kenarlarındaki acil telefon cihazları ya da uzaktan algılama gibi uygulamaların enerji gereksiniminin karşılanmasında kullanılmıştır. Son yıllarda, evlerde elektrik şebekesi ile birlikte çalışan sistemler de yaygınlaşmıştır.
+2005 sonu itibarı ile toplam 5,300 MW olduğu zannedilen kurulu Güneş pili kapasitesinin, gelişmiş ülkelerin, Güneş pillerinin evsel amaçlı kullanımına verdiği teşvikler nedeniyle, 2006 yılında da ciddi artış göstermesi beklenmektedir. Gerek kullanımdaki artış, gerekse teknolojik gelişmeler nedeniyle Güneş pillerinin üretim maliyetinde her yıl azalış görülmektedir. Bir Güneş pili panelinin watt başına maliyeti 1990 yılında yaklaşık 7,5 USD iken, 2005 yıllında bu rakam yaklaşık 4 USD seviyesine inmiştir. Gelişmiş ülkelerin sunmuş olduğu teşvikler, Güneş pillerinin yatırım maliyetinin 5 ile 10 yıl arasında geri dönebilmesini sağlamaktadır. Evsel amaçlı kullanılan Güneş pilleri bir inverter aracılığı ile elektrik şebekesine bağlanmakta, böylece üretilen elektriğin akülerde depolanmasından tasarruf edilmektedir. 2003 yılı içerisinde tüm Dünya'da gerçekleşen Güneş pili üretiminde %32'lik bir artış gözlenmiştir. Güneş pili kullanımındaki artış o kadar büyüktür ki, yarıiletken üretiminin talebi karşılayamaması, Güneş pili üretiminin artışında kısıtlamaya neden olmuştur. Bu sorunun 2006 ve 2007'de de devam edebileceği sanılmaktadır.
+Türkiye ve Güneş enerjisi.
+Türkiye Dünya üzerinde 36o-42o kuzey enlemleri ve 26o-45o doğu boylamları arasında bulunmaktadır. Türkiye'nin yıllık ortalama Güneş Işınımı 1303 kWh/m2yıl, ortalama yıllık güneşlenme süresi ise 2623 saattir. Bu rakam günlük 3,6 kWh/m2 güce, günde yaklaşık 7,2 saat, toplamada ise 110 günlük bir güneşlenme süresine denk gelmektedir. 9,8 milyon TEP (ton eşdeğer petrol) ısıl uygulamalara olmak üzere yıllık 26,2 milyon TEP enerji potansiyeli mevcuttur. Yılın 10 ayı boyunca teknik ve ekonomik olarak ülke yüzölçümünün %63'ünde ve tüm yıl boyunca %17'sinden yaralanabilir.
+Termal Güneş enerjisi kullanım miktarı 2007 verilerine göre Türkiye'de ki kurulu güç 7.105 MWth ve 10.150.000 m²'dir.Bu sıralama içinde Türkiye 10 milyon m² kurulu Güneş kollektörleri ile son derece iyi bir yerde bulunmaktadır.
+Fotovoltaik Güneş enerjisi kullanım miktarı 2009 verilerine göre 4MW değerine ulaşmış bulunmaktadır.
+Mimaride Güneş enerjisi.
+Güneş enerjisinden yararlanan tasarımlar, çok az daha ilave enerji kullanmak suretiyle, konfor sıcaklığı ve ışık seviyesinin elde edilmesini hedefler. Bunlar pasif Güneş enerjisinde olduğu gibi soğuk ortamlarda daha fazla Güneş ışığı ile sıcak su elde edilmesi şeklinde ya da aktif Güneş enerjisinde olduğu gibi, pompa ve fanlar kullanarak, sıcak ve soğuk havanın (ya da sıvının) yönlendirilmesi şeklinde de olabilir.
+Seralar da bir çeşit Güneş mimarisi örneğidir.
+Isıl Güneş enerjisinden elektrik üreten enerji santralleri.
+Isıl Güneş enerjisi sistemleri, yaygın olarak, bir ısı eşanjörünü yüksek sıcaklıklara kadar ısıtarak, elde edilen ısının elektrik enerjisine dönüştürülmesi şeklinde kullanılırlar.
+Enerji kuleleri.
+Enerji kuleleri bir ağ şeklinde yerleştirilmiş, çok sayıda düz ve hareketli olurlar.
+Yoğunlaştırıcılı kollektörler ve buhar motorları.
+Bir yoğunlaştırıcılı kollektörde ısıya dönüştürülen Güneş enerjisi, nükleer ya da kömürlü elektrik santrallerinde olduğu gibi, suyun kaynatılarak buhara dönüştürülmesi ve elde edilen buharla da bir buhar motoru ya da bir buhar türbininin tahrik edilmesi suretiyle elektrik enerjisi elde edilir.
+Stirling motoru buharla çalışan motorlara benzer. Bu tür motorlarda buhar yerine gaz kullanılır. Bir stirling motoru herhangi bir tür ısı kaynağı ile tahrik edilir. Stirling motoru, içinde belirli bir gaz bulunan ve kapalı devre çalışan bir ısı motorudur. Stirling motorunun çalışma sistemi sıcak ve soğukluk farkına dayanır. Kapalı devre bir sisteme sahip motorun içine dışarıdan bir yakıt verilmez. Stirling motorunun çalışması için gerekli enerji dışardan ısı şeklinde verilir.
+Güneş enerjisinin elektriğe dönüştürülmesinde stirling motorunun kullanımı, %30'luk bir verim ile en yüksek verime sahip bir sistem olarak kabul edilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>SAGUAR X5</DOCTITLE>
+<TEXT>
+
+SAGUAR X5 (SAkarya Üniversitesi GÜneş ARabası), Sakarya Üniversitesi öğrencileri tarafından tasarlanan ve üretilen 2. Güneş arabası dır.
+Formula G 2005 in ardından araçta ciddi iyileştirmeler planlayan ekip SAGUARX5 i tasarladı ve SAGUAR X4 aracının şasisini kullanarak SAGUAR X5 i üretti SAGUAR X5 modeli optimal hız kontrolü, aracın tüm bilgilerini her an pit bilgisayarına yollayan telemetri sistemi ve rüzgara karşı daha kararlı davranış sergileyen yeni aerodinamik yapısı ile X4 modelinden çok daha iyi olduğunu ilk yarışında iki kupa alarak gösterdi.
+SAGUAR X5 nasıl yapıldı?
+Güneş arabalarının yapılması için genel olarak şu malzemelere ihtiyacınız vardır
+Güneş Panelleri: Güneşten gelen enerjinin elektrik enerjisine dönüştürülmesini sağlar. %20 verimde kullanılan bir modül 250 °C sıcaklıkta metrekareye 1000 Watt’lık enerjinin düştüğü anda uçlarında 200 Watt’lık enerji üretir. SAGUAR-X5’te %17 verime sahip 18 adet güneş modülü kullanıldı. Toplam ağırlığı 7 kg ve toplam alanı ise 4.68 metrekaredir. Yarış sırasında hava koşullarına ve panellerin eğimine bağlı olarak bu değeri 300W’a kadar düşmüştür.
+Maksimum Güç Noktası İzleyicisi (MPPT): Panellerden gelen enerjiyi düzenleyerek sürekli en yüksek güç üretimini sağlayan bir cihazdır. Bunu yapmak için akımı değiştirmektedir. Burada çıkan akım ile batarya şarj edilmektedir. Yarış sırasında en yüksek 15A şarj değeri görülmüştür. Bu cihaz sayesinde akülerimizi daha kısa sürede şarj edecek akımı seçebiliyoruz.
+Akü gurubu: Güneş panellerinin verimleri %20 değerlerinde olduğu için sadece paneller bir aracın gitmesini sağlayacak enerjiyi veremez. Bu nedenle akü gurupları hazırlanır. Burada dikkat edilecek husus akü gurubunun ağırlığı, şarj ve deşarj süresi, bitme ve şarj voltaj değerleridir. Bu değerlerin sistemimize uygun olarak seçilmesi aracımızı daha yüksek verimde, daha yüksek hızda ve daha uzun süre boyunca kullanmamızı sağlayacaktır. Yarışlarda kullanılabilecek çeşitli akü tipleri şu şekilde sıralanabilir: Lityum-İyon, Lityum Polimer, Ni-Cd, Ni-Mh ve Kurşun-Asid.
+Motor: Güneş arabalarında verimi daha yüksek olduğu için ve aküden çıkacak doğru gerilimle çalışabildiği için DC Motorlar kullanılmaktadır. DC motorların verimi % 90’ın üzerindedir ve kontrol edilmesi kolaydır. Fırçalı ve fırçasız tipleri olan bu motorlar veriminin daha yüksek olması için fırçasız olarak tercih edilirler. Uçlarına verilen gerilim değerine göre devir sayısı değişir.
+Motor Sürücü Devre: Motorlar aküden gelen enerjiyle direkt olarak yüklenmezler. Akü ile motor arasında bulunan sürücü devre ile motora çalışma gerilimi arasında voltaj verilerek yüklenir. Güneş enerjili arabalar normal bir araba gibi ileri ver geri gidebilir; rejeneratif olarak gerilim üretebilir. Tüm bunlar motor sürücü devresi sayesinde sağlanır.
+Hafif ve Gerekli Şartlarda Dayanıklı Şasi: Güneş enerjili bir arabayı gösteren en önemli aksam şüphesiz ki şasidir. Aracın verimini arttırmak için hafif malzemeler kullanılır. Bu sayede motora fazla yük binmez ve araç güçten tasarruf eder. Kanopinin aerodinamik yapısı da çok önemlidir. Rüzgâr direncinden en az etkilenecek şekilde tasarlanması yine güç tasarrufu sağlar. 
+Vites ve Dişli Oranı: Güneş enerjili araçlar motor milinden tekerleğe kadar olan bir zincir veya kayış ile hareket ettirilirler. Motor dişlisi ile tekerlek dişlisi arasındaki oran aracın hızını değiştirmekle beraber harcadığı gücü de değiştirmektedir. Burada piste göre uygun değerler seçilerek en uygun verimde yarış sürdürülür. Fakat aracın ağırlığını arttırdığı için vites kutusu henüz kullanılamamıştır. Bu konudaki hafifletme ve yeni tasarımlar geliştirme çalışmaları ekibimiz tarafından sürdürülmektedir.
+Lastikler: Güneş enerjili arabalar en az 3 tekerleklidir.Lastiklerin hava basıncı uygun şekilde seçilerek yerle temas eden yüzeyi sürtünmeyi en aza indirecek şekilde seçilmelidir. Bu seçim de güç tasarrufu sağlamaktadır. 
+Ekip Çalışması: Bir yıllık bir emeğin sonunda ortaya çıkarılan bu araçlar büyük bir ekip çalışmasının ürünüdür. Sistemli çalışma, iyi organizasyon ve gerekli ar-ge çalışmasının yapılması bu teknolojilerin kısa sürede gelişmesini sağlayacaktır. Bu noktada üniversitemizde kurulan öğrenci kulüpleri aracılığıyla bu projelerin devamlılığı sağlanacak ve yeni gelen öğrencilere aktarılacaktır. 
+Güneş enerjili arabalar yarışı normal bir pist yarışındaki gibi hız veya dayanıklılık yarışı değildir, tamamen bir enerji yarışıdır. Bu noktada yarış için seçilecek strateji de çok önemlidir. Pist yokuşlarının daha hızlı çıkılması, ani kalkışların yapılması, aracın gereğinden fazla zorlanması akü gurubunda depoladığınız enerjiyi daha kısa sürede tüketmenize sebep olacaktır. Bunun yerine piste uygun redüksiyon oranı seçmek ve pistin analizini iyi yaparak güç gerektiren ve gerektirmeyen yerlerin seçilmesi yarıştaki başarıyı arttıracaktır.
+SAGUAR X5 TEKNİK BİLGİLER.
+Tasarım Kodu: X5
+Aracın Katıldığı Etkinlikler: Formula G 2006 Ege Kupası, Formula G 2006 IstanbulPark, Autoshow 2006
+Formula G 2006 Araç Numarası: 36
+Tasarım Süresi: 2 Ay
+Üretim Süresi: 5 Ay
+Toplam Üretim Maliyeti: ~40.000 YTL 
+Aracın boş ağırlığı: 250 kg
+Mürettebat: 1
+Araç Uzunluğu: 490 cm
+Araç Eni: 180 cm
+Araç Yüksekliği:Standart 70cm,Tepe 110cm
+Teker Aralığı: 220 cm
+Yerden yükseklik: 22 cm
+Şasi tipi ve malzemesi: Al-Gr, Fe-Ni
+Kanopi Malzemeleri: Al-Mg, Fiberglass
+Ön Süspansiyonlar: Çift A-Arm
+Arka Süspansyonlar: Çift A-Arm
+Yönlendirme Mekanizması: Direkt Rot Joystick
+Teker Sayısı: 4
+Teker Dizilimi: 2 ön 2 arka
+Jant Modeli: 17 Inch
+Jant Malzemesi: Alüminyum
+Lastik Modeli: MC11 Race Wheel
+Lastik Basıncı: 40-45 PSI
+Rejeneratif Frenleme: Var
+Ön Fren Tipi: Sağ ve Sol Hidrolik
+Arka Fren Tipi:Sağ El Freni,Sol Rejeneratif
+Batarya Tipi: Ni-Mh
+Batarya Kapasitesi: 2000 wH
+Batarya Üreticisi: GP
+Batarya Gerilimi: 48 V
+Hücre Sayısı: 91
+Toplam Ağırlık: 49,5 kg
+Motor Sayısı: 1
+Motor Tipi: DC Sabit Mıknatıs
+Motor Ağırlığı: 11 kg
+Tepe Gücü: 10 Beygir
+Sürekli güç çıkışı: 8 Beygir
+Operasyon Gerilimi: 48 V
+Güneş Modül Verimi: %17
+Güneş Modülü Sayısı: 18
+Tek Modül Tepe Gerilimi: 5-15 Volt
+Tek Modül Tepe Akımı: 2-4,5 A
+'"Toplam Teorik Güç Çıkışı: 800 wH
+Öğle vakti pratik güç çıkışı:"' 500-600 wH
+MPPT gerilim girişi: 72-80 Volt
+MPPT gerilim çıkışı: 48 Volt
+MPPT akım çıkışı: Güneşe bağlı değişken
+Ana sponsorlar.
+TÜBİTAK 
+Sakarya Üniversitesi
+Otokar
+Petrol Ofisi
+TIRSAN
+Gochermann Solar Technology
+Gülünce Otomotiv
+SAU Mezunları Derneği
+SAU ADA MYO
+VEASIS Bilgi Teknolojileri
+Destekleyenler.
+TÜBİTAK Bilim ve Teknik Dergisi
+Türkiye Otomobil Sporlar Federasyonu TOSFED
+Aracın yapımında tüm FIA kurallarına özenle uyulmuştur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İguana</DOCTITLE>
+<TEXT>
+
+İguana, tropikal iklimde yaşayan egzotik bir kertenkele türüdür. Ağaçlarda yaşayan iguanaların ortalama yaşam süresi 18-20 yıldır. Tümüyle otçul bir türdür; meyve, yaprak gibi bitkilerle beslenirler. Boyu çoğunlukla burnundan kuyruğuna kadar 1.3-2 metre. Erkek iguanalar dişilerine göre daha saldırgandır. Erkek iguanaların kendilerini koruma yöntemi kuyruğu kırbaç gibi sallamaktır. İguanalar özellikle kuşlardan çok korkarlar.
+Beslenme.
+İguanaların beslenmesi %20 Sebze %80 Meyve şeklinde olmalıdır. İguanaların beslenmesinde genellikle marul,salatalık,domates gibi ürünler kullanılır fakat bu ürünlerde düşük protein bulunduğu için iguananın gelişiminde fayda sağlamaz. Yeterli beslenemeyen iguanalarda hastalıklar oluşur. Günlük olarak 6-8 çeşit sebze ve meyve verilmesi gerekmektedir. Besinlere takviye olarak calsiyum/D3 toz ve vitamin toz ilave edilebilir. Beslenmede kesinlikle brokoli,karnabahar,havuç,mısır verilmemelidir. İguanaların marul sevdiği söylenir fakat marul tek başına kesinikle yetersiz beslenme içermektedir.
+Karahindiba,kayısı,çilek,muz,kivi,cennet mayası,yeşil biber,bezelye,dere otu,roka,marul,tere otu,radika,yeni dünya,armut,dut yaprağı,gül çiçeği ,gül yaprağı,şeftali,kiraz,yonca,ebegümeci,turp otu, armut,cennet meyvası,erik,kavun,ebe gümeci çiçeği,lahana vs verilebilir.Daha çok sıcak alanlarda yaşarlar
+Yaşam Alanları.
+Yaşam alanları en az 1m² ya da 2m² olmaktadır. Tel kafesler iguanalar için uygundur fakat nem,sıcaklık gibi etkenlerin doğru sağlanmamasından dolayı teraryumlar (Cam Kafesler) tercih edilir. Yaşam alanı içine doğal kayalar,dallar,yapay bitkiler vs konulabilir. Doğadan alınan bu tür nesnelerin iyice yıkanıp temizlenmiş olması gerekmektedir. Zemin için kullanılan talaş yöntemi doğru değildir. İguanaların, zemine uygulanan talaştan kalkan toz yüzünden hastalandıkları bilinmektedir. Zemin için genellikle kuru otlar tercih edilir fakat iyi dezenfekte edilmeleri gerekmektedir. Çevre ısısı tropikal igaunalarda 27-38 derece,ılıman iguanalarda 20-35 derece olmalıdır. Yaşam alanının sürekli temiz tutulması gerekmektedir.
+Cinsiyet nasıl belirlenir.
+İguanaların penisi yaklaşık 7-8 cm'dir ve dişileri ise sonbahar mevsiminde doğum yapar. İguananın cinsiyeti belirlenirken mutlaka veteriner hekim tarafından steril koşullarda yapılmalıdır. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>MS-DOS</DOCTITLE>
+<TEXT>
+
+MS-DOS (MicroSoft Disk Operating System. Türkçe: "Microsoft Disk İşletim Sistemi"), Microsoft firmasının geliştirdiği bir DOS sistemidir. 1980'li yıllarda PC uyumlu platformlar üzerinde kullanılan en yaygın işletim sistemiydi. Masaüstü bilgisayarlardaki popülerliğini, zamanla yeni nesil Windows işletim sistemlerine bıraktı. 
+MS-DOS, ilk olarak 1981 yılında piyasaya sürüldü. Microsoft firmasının bu ürünü geliştirmeyi 2000 yılında durdurdu. MS-DOS'un tam sekiz ana sürümü vardır. Sağladığı önemli gelir ve pazarlama kaynakları ile MS-DOS, Microsoft'un programlama dilleri üzerinde çalışan küçük bir şirket kimliğinden çıkıp, çeşitli yazılım ürünleri geliştirebilen büyük bir firma olma yolunda ilerlemesine neden oldu.
+MS-DOS'un en son sürümü 1994'te piyasada yer alan 6.22 sürümüdür. 8.0 sürümü ise Windows 98, Windows 2000 ve Windows ME işletim sistemlerine, bir işlem içinde çeşitli işlemleri yapabilmek için yerleştirilmiş olsa da bu sadece varsayılma'dan (emulatör) başka bir şey değildir.
+Microsoft MS-DOS'u geliştirmeyi durduğunu ilan ettiğinde, serbest DOS'u yaşatmak için FreeDOS projesi doğmuştur.
+Microsoft'un Windows NT'ye kadar olan sürümleri (3.x, 95, 98 ve ME) DOS üstüne kurulmuş grafiksel kullanım yazılımlarıdır. Daha modern Windows sürülümleri ise kendi çekirdeğine sahip olup MS-DOS yazılımlarını kullanabilmek için DOS'u sadece varsayım olarak barındırmaktadır.
+DOS tabanlı yazılımlar, genelde bilgisayarın grafik ve ses özelliklerini ya hiç ya da çok sınırlı olarak kullanıma sunar. Çoklu işlem (Multitasking) ise ancak bazı sürümlerde, sınırlı imkânlar içinde olabilmiştir.
+MS-DOS Tarihi.
+MS-DOS, 1980 yılında, Seattle Computer Products (SCP) şirketinde çalışan 24 yaşındaki Tim Paterson tarafından, daha sonraları 86-DOS olarak bilinecek QDOS (Quick and Dirty Operating System) ismiyle 4 ayda geliştirildi. QDOS, SCP'nin 8086 işlemcili bilgisayarına uygun bir işletim sistemi ihtiyacını karşılamak için tasarlandı. Digital Research tarafından 8-bit olarak geliştirilmiş ve o yıllarda popüler olan CP/M işletim sisteminin 16-bit olarak klonlanmasıyla kısa sürede tamamlandı. Temmuz 1981 tarihinde, Microsoft, SCP firmasından 86-DOS işletim sisteminin tüm haklarını 50,000 Amerikan Doları'na ilk kişisel bilgisayarların piyasaya çıkmasından bir ay önce satın aldı.
+MS-DOS Sürümleri.
+IBM ve Microsoft kendi DOS versiyonlarını piyasaya sürdü. IBM versiyonu, IBM PC ile beraber verilen PC-DOS idi. IBM, Microsoft'un geliştirdiği DOS sistemlerini kendi ismi altında paketliyordu. Bu nedenle IBM versiyonları Microsoft'dan daha sonra piyasada yerini alıyordu. Ancak bu kural, Microsoft firmasını OS/2 üzerine yoğunlaştığı dönemde MS-DOS 4.0 sürümünün, IBM PC-DOS 4.0 üzerine kurulması ile bozuldu. Microsoft kendi versiyonlarını "MS-DOS"; IBM ise "PC-DOS" adı altında müşterilerine sundu. Microsoft, MS-DOS OEM versiyonlarını lisanslarken, diğer bilgisayar üreticileri ürüne kendi isimlerini vermek istedi (TandyDOS, Compaq DOS..,vb.). Ancak, Microsoft OEMlerin MS-DOS ismini kullanmalarında ısrar etti. Sadece IBM bu bu ısrara uymadı.
+Reklamlarda, bilgisayarların MS-DOS uyumluluğundan daha çok IBM uyumluluğu ön plana çıktı. MS-DOS kullanan bilgisayarlarda, IBM uyumlu makinelerde çalışan her yazılım çalışmıyordu. IBM uyumlu olmayan ve MS-DOS kullanan Pivot bu duruma örnek olarak gösterilebilir. IBM standartlarına uygun bir yazılım, yavaş MS-DOS fonksiyonlarını kullanmadığında daha hızlı koşuyordu. 
+MS-DOS birçok önemli özelliklerini diğer ürünlerden ve işletim sistemlerinden(Xenix, Unix, DR-DOS, Norton Utilities, PC Tools, QEMM expanded memory manager, Stacker disk compression..vb) alarak hızla gelişti.
+"Kaynak: PC Museum"
+Intel 80286 işlemcisinin çıkmasıyla, IBM ve Microsoft OS/2 projesi üzerinde birlikte çalıştılar. MS-DOS'un güvenli modlu versiyonu hedeflenerek OS/2 projesi başladı. Ancak kısa bir süre sonra Microsoft stratejik bir kararla projeden çekildi ve tüm kaynaklarını Windows ve Windows NT projelerine aktardı. Bu dönemde, Digital Research Atari ST makinelerinde çok başarılı olan GEM grafiksel kullanıcı arayüzünü geliştirdi. Ancak, Microsoft'un Windows 3.0'ü piyasaya sürmesi ile pazarda daha fazla tutunamadı. 
+Masaüstü bilgisayar sistemlerindeki rolünün çok azalmasına rağmen basit mimarisi ve minimal işlemci hızı ve bellek gereksimi nedeniyle bugün çeşitli gömülü x86 sistemlerinde hala MS-DOS kullanılmaktadır.
+MS-DOS Kullanımı.
+MS-DOS, uygulama programları için bilgisayarın işleyişini koordine eder. Bu gerçekten de çok önemlidir, ama MS-DOS’ un avantajları yalnızca bundan ibaret değildir.
+Her ne kadar insanlara basit ve kullanması garip olarak düşünülen MS-DOS işletim sistemi bilgisayarın zarar görmesi durumunda bir numaralı ilaçtır. MS-DOS donanım kurucularının bir numaralı kullandıkları sistemdir. Örneğin Windows açılmıyor, devamlı sorun veriyor ise, bu sorunları genellikle HDD’ye format atarak ve işletim sistemini tekrar yüklemekle becerirler ama hatadır. Çünkü devamlı HDD’ye format atılırsa HDD zarar görürür "bad sector" (kullanılamayan veya bozuk alan) oluşmasına "boot sector"un (HDD’nin bilgilerinin tutulduğu yer) zarar görmesine neden olur. Ama format atmadan MS-DOS’tan yine yararlanarak bilgisayarın sistemi dahil geri getirilebilir. Bunların yapılması çok güzeldir ama bunları yapmak için grafik ekrandan (Windows Ekranı) biraz vazgeçip MS-DOS’ ta çalışmak gerekir. Bu yüzden, Microsoft Windows 95/98/ME sürümleriyle kullanıcının DOS ile olan iletişimini minimuma indirmeye çalışmış olsa bile DOS’ tan tam olarak vazgeçememiştir.
+Ayrıca, Windows 95/98/ME kullanıyor olsanız da bazen DOS’a işiniz düşebilir. Örneğin birçok oyun programı Windows ile çalışmaz veya oynanamayacak kadar yavaş çalışır. Ayrıca Windows'a giremediğiniz durumlarda da sorunu DOS’ tan halletmeniz gerekebilir. Bazen de tek bir dosyayı kopyalamak için bilgisayarınızı açtığınızda, Windows’ un çalışmasını beklemeniz gerekmez. 
+MS-DOS’ un kendisini de belirli işler için kullanabilirsiniz.; komut adı verilen yönergeleri (talimatları ) kullanarak MS-DOS’ u dosya yönetiminde, iş akışının denetlenmesinde ve ek yazılımlar gerektirmeden günlük işler gerçekleştirmede yönlendirebilirsiniz. 
+Örneğin MS-DOS metinlerden (text) oluşan dosyalar yaratmakta ve değiştirmekte kullanabileceğiniz bir program içerir.MS-DOS editör bir sözcük işlemci olmasa da, kısa yazışmalar listeler için çok kullanışlıdır. Onu kullanarak, küçük belgeleri bir sözcük işlemciye göre çok daha kısa sürede yazabilirsiniz. Veya bilgisayarı açtığınızda yüklenmesini veya çalışmasını istediğiniz dosyaları da bilgisayarın açılırken okuduğu Autoexec.Bat dosyasına koyarak otomatik olarak çalışmasını sağlamış oluruz.
+MS-DOS’ ta özel gereksinimlerinizi karşılamak için olan komutları birleştirerek güçlü komutlar, hatta kendi küçük uygulamalarınızı yaratabilirsiniz. Örneğin, yalnızca MS-DOS komutları kullanarak, basit bir dosya yöneticisi ( belirli bilgiler için dosyalarda arama yapan bir program ) oluşturabilirsiniz.
+MS-DOS’ un 4.0 ve sonraki sürümleri, komut ve dosyaları menü adı verilen listelerden seçmenize olanak sağlayan ayrı bir program içerirler. Shell adı verilen bu program ile tüm rutin işlerinizi gerçekleştirebilir, ondan zaman zaman yararlanabilir ya da isterseniz hiç kullanmayabilirsiniz.
+Artık tüm bu uygulamalar, MS-DOS için oluşturulan Windows ara yüzünden (interface) sonra Dos’ un uygulamaları daha kolay ve anlaşılır olmuştur. Aynı zamanda MS-DOS’ u soğuk gösteren siyah beyaz ekran da ortadan kalkmıştır.
+MS-DOS Dosya Yapısı.
+Tüm bilgiler ve programlar dosya (file) adı verilen bilgi topluluğu olarak disk/diskete kaydedilir. DOS işletim sisteminde bir dosya iki kısımda oluşur, dosya adı ve dosya uzantısı. Genel olarak bir dosyanın yapısı DOSYA_ADI ve DOSYA_UZANTISI şeklindedir. Burada DOSYA_ADI en fazla 8, DOSYA_UZANTISI en fazla 3 karakterden oluşur. Dosya isminin büyük veya küçük yazılması hiçbir şey değiştirmemektedir, büyük ya da küçük yazmak aynı dosyaya karşılık gelmektedir.
+MS-DOS’ ta dosyaların ifadesi;
+MS-DOS dosya ismi ve dosya uzantısı kuralları;
+Örneğin : COMMAND.COM, CONFIG.SYS, AUTOEXEC.BAT ve LATS.DOC gibi
+Dosya İsmi Uzantıları ve Anlamları.
+Yukarıda belirtilen 3 dosya MS-DOS’ ta dosya isminin yazılması ile çalıştırılabilir, geriye kalan dosyalar ise başka programlar yardımı ile çalıştırılır. Bu 3 dosya ismi uzantısı aynı isimli dosyalara verilse (yani, LATS.EXE, LATS.BAT ve LATS.COM gibi) çalıştırılma sırası dosyanın büyüklüğüne ve küçüklüğüne bakılmaksızın bu dosyaları çalıştırma önceliği COM, EXE ve BAT sırasındadır.
+Genellikle Windows'un kullandığı bazı dosya türleri:
+MS-DOS’ un açılması için gerekli 3 dosya vardır. Bunlar Config.sys, Autoexec.bat, Command.com’ dur. Ayrıca, sistem dosyası olarak Msdos.sys (Dos ile ilgili sistem bilgilerini tutar. Örnek, versiyon bilgisi gibi) ve Io.sys (Dos’ un giriş/çıkış sistem bilgilerini tutar) vardır.
+Bu dosya, bilgisayarın donanım özelliklerini değiştirmemizi sağlayan bir metin dosyasıdır. Yani bu dosyaya eklenecek komutlar aracılığı ile memory, fare, klavye, ekran ve bunun gibi araçların nasıl çalışacağı belirlenir. CONFIG.SYS dosyasının MS-DOS tarafından okunup işlenebilmesi için açılış diskinin ana dizininde bulunması gerekir.
+Bu dosya, DOS çalıştığında bazı programları otomatik olarak çalıştırma olanağı verir, ekran ve dil düzenlemesini sağlar. Bu sayede bilgisayarın her açılışı sırasında yüklemek zorunda kalacağımız klavye, fare, monitör dil ... programları yüklenmiş olur.
+Bu dosya, bilgisayar komutlarını yazdığımız komut derleyicisini görüntüler. COMMAND.COM bilgisayarın açılış diskinin ana dizininde bulunması gerekir. Bu olmadan bilgisayarın açılması mümkün değildir. Direk makine dilinde yazılmış olduğu için çok hızlıdır.
+Dizin (Directory) Yapısı.
+Bilgisayarda dosyalar içeriklerine veya özelliklerine göre dosya gruplarına ayrılabilir. Bu gruplara dizin adı verilir. Windows ortamında dizin ismi yerine klasör ismi kullanılır. 3 değişik dizin tipi vardır. Bunlar,
+Bilgisayarın ana dizinidir. Kullanılan sürücüyü (a:\ , b:\ , c:\) gibi harflerle tanımlar. Kullanıcı kök dizin yaratamaz ve silemez. Bu ancak yönetici tarafından disk bölümlendirme araçları ile yapılabilir (örneğin fdisk).
+Kök dizin altında oluşturulan klasörlerdir.
+Kullanıcıların oluşturdukları klasörlerin altında (içinde) oluşturulan klasörlerdir. Alt dizinler (bir klasörün içinde yer alan klasörler) kök dizindeyken sadece DIR komutunun yazılması ile ekranda görülmezler. DIR /S ile tüm alt dizinleri gösterebilirsiniz.
+MS-DOS Komutları.
+Komutlar İkiye Ayrılır ve komut isminin büyük veya küçük yazılması hiçbir şey değiştirmemektedir, büyük ya da küçük yazmak aynı komuta karşılık gelmektedir.
+İç Komutlar : COMMAND.COM dosyası içinde bulunan temel komutlardır ve çalıştırılması ile belleğe yüklenerek çalıştırılan komutlardır. Örnek : Ver, Dir, vs.
+Dış Komutlar : Çalıştırılabilmesi için disk veya disket içinde dosya halinde bulunması zorunlu olan komutlardır. Örnek : Xcopy, format, vs.
+İç Komutlar.
+DOS’ ta çalıştırılan komutun, çalışması için herhangi bir dosyaya ihtiyaç duymadan çalışan komutlara iç komutlar denir (Bilgisayarın açılışında kullanılan Command.com dosyasının içinde bulunan komutlardır).Command.com dosyası 6,22 de 54645 Bayt'dır bilgisayar virüslü ise bu dosyanın boyutu uzar çünkü bilgisayar ilk çalıştığında bu dosya belleğe yüklenir Çalışması için program dosyasının varlığına ihtiyaç duyulan komutlara Dış Komutlar denir. Dış komutları çalıştırabilmek için, o komutun programlama dosyasına ihtiyaç vardır. Örneğin format komutunu kullanabilmek için DOS’ da Format.com programının bulunması gerekir. Önemli İç Komutları, aşağıda inceledik. Bunlar ;
+DIR komutu: Disk veya disket üzerindeki dosyaları görüntüler. Örnek: C:\> DIR <ENTER>
+Joker karakterler (? , *) ;
+C:\> DIR LATS.* <ENTER> (Dosya Adı LATS olan, tüm dosyaları listeler)
+Örnek: C:\> DIR A??S.EXE <ENTER> (İlk harfi A , 4.harfi S olan , EXE uzantılı dosyaları listeler.
+Örnek: C:\> VER <ENTER>
+Örnek: C:\> DATE <ENTER>
+Örnek: C:\> TIME <ENTER>
+Örnek: C:\> PROMPT <ENTER> (sürücüyü ilkel PROMT’ a dönüştürür.) C> (ilkel PROMT)
+PROMPT Parametreleri
+Görüntüsü değiştirilen PROMT’ u eski haline getirmek için;
+C:\> PROMPT $P$G <ENTER> tanımlaması yazılır.
+Örnek: C:\> COPY CON LATS.TXT <ENTER> (TXT uzantılı, LATS adlı dosya oluşturur.)
+Oluşturduğumuz bu dosyayı kaydedip bitirmek için ^Z (Ctrl+Z) tuşlarına basılır. Kayıt yapmadan çıkmak için ^C (Ctrl+C) tuşlarına basılır.
+Örnek: C:\> TYPE LATS.TXT <ENTER> C:\> TYPE LATS.TXT | MORE <ENTER> (LATS.TXT dosyasını sayfa sayfa görüntüler)
+Örnek: C:\> REN LATS.TXT TUFAN.DOC <ENTER> (LATS.TXT dosyasının ismini TUFAN.DOC yapar)
+Örnek: C:\> MD LATS <ENTER> (LATS adlı dizin açar)
+Örnek: C:\> CD LATS <ENTER> (LATS adlı dizine girer)
+C:\LATS> CD.. <ENTER> (LATS adlı dizinden çıkar) (Aktif olan dizinden bir önceki dizine çıkışı sağlar)
+C:\LATS\DENEME> CD\ <ENTER> (LATS ve DENEME dizinlerinden çıkar) (İç içe girilmiş dizinlerden bir seferde köke (ROOT) çıkmayı sağlar)
+Örnek: C:\> RD LATS <ENTER>
+Örnek: C:\> COPY C:\LATS.TXT C:\DOS <ENTER> (C Root’ unda bulunan LATS.TXT dosyasını C’ nin altındaki DOS dizinine kopyalar)
+Örnek: C:\> DEL LATS.TXT <ENTER> (LATS dosyasını siler)
+C:\> DEL *.* <ENTER> (Tüm dosyaları siler)
+C:\> DEL *.EXE <ENTER> (EXE uzantılı dosyaları siler)
+Dışsal Komutlar.
+Bilgisayarda dosyalar halinde bulunması gereken komutlardır. Kullanılacak komuta ait dosyanın çalışılan sürücüdeki disk veya diskette bulunması gerLATSektedir. Aksi taktirde komut ile ilgili çalışma gerçekleştirilemez.
+Örnek: C:\> FORMAT A: <ENTER> a disketini biçimler, kullanılır hale getirir.
+FORMAT Parametreleri
+Örnek: C:\> FORMAT a:/s <ENTER>
+Örnek: C:\> FORMAT a:/q <ENTER>
+11 karakteri aşmamalıdır.
+Örnek: C:\> FORMAT a:/v:ÇALIŞMA <ENTER>
+Örnek: C:\> FORMAT A:/F:720 <ENTER>
+Örnek: C:\> FORMAT A:/U <ENTER>
+Gerektiğinde birden fazla parametre aynı komut satırında tanımlanabilir.
+Örnek: C:\> FORMAT A:/S/V:DERS/F:720/u <ENTER>
+Örnek: C:\> UNFORMAT A: <ENTER>
+Örnek: C:\> LABEL EĞİTİM <ENTER>
+İşlem sırasında disket isterken karşılaşılan mesajlar;
+Source : Kaynak disketi tanımlar. Mesaj görüldüğünde sürücüye kaynak (kopyası alınan) disket takılır.
+Target : Hedef disketi tanımlar. Mesaj görüldüğünde sürücüye hedef (alınan kopyayı konacağımız) disket takılır.
+Örnek: C:\> DISCOPY A: B: <ENTER>
+Örnek: C:\> MEM <ENTER>
+Özelliğin Adı Verilmesi İptali
+Örnek: C:\> ATTRIB <ENTER> (Tüm dosyalardaki özellikleri görüntüler)
+C:\> ATTRIB +H LATS.TXT <ENTER>
+C:\> ATTRIB -H LATS.TXT <ENTER>
+C:\> ATTRIB +H,+R LATS.TXT <ENTER>
+C:\> ATTRIB -H,-R LATS.TXT <ENTER>
+Örnek: C:\> TREE <ENTER> (Sadece dizinleri ve altdizinleri ağaç yapısında görüntüler)
+C:\> TREE/F <ENTER> (Dizin ve altdizinleri içlerindeki dosyalarla beraber görüntüler)
+Move NERDEN NEREYE
+Örnek: C:\> MOVE A:\LATS.TXT C:\SINIF <ENTER>
+Diğer bir özelliği de dizinlerin isimlerini değiştirmeyi sağlar.
+Örnek: C:\> MOVE SINIF DERS <ENTER>
+MORE Parametreleri
+Örnek: C:\> TREE | MORE <ENTER>
+C:\> ATTRIB | MORE <ENTER>
+Örnek: C:\> MORE < LATS.TXT <ENTER>
+Örnek: C:\> SYS A: <ENTER>
+Örnek: C:\> DELTREE DENEME <ENTER>
+C:\> DELTREE/Y DENEME <ENTER>
+XCOPY Parametreleri
+Örnek: C:\> XCOPY DOS\*.* A:\DOS/S/E <ENTER>
+UNDELETE Parametreleri
+Örnek: C:\> UNDELETE/LIST <ENTER>
+C:\> UNDELETE/ALL <ENTER>
+C:\> UNDELETE LATS.TXT <ENTER>
+Örnek: C:\> DOSKEY <ENTER>
+Örnek: C:\> BACKUP C:\WINDOWS\*.* A: <ENTER>
+C:\> BACKUP C:\WINDOWS A:/S <ENTER>
+Örnek: C:\> RESTORE A: C: <ENTER>
+C:\> RESTORE A: C:/S <ENTER>
+ARJ Parametreleri
+Hard Disk İçinde Sıkıştırma
+Örnek: C:\> CD YEDEK <ENTER>
+C:\YEDEK> ARJ A -R ÇALIŞMA.ARJ <ENTER>
+Hard Disk İçinde Açma
+Örnek: C:\> CD YEDEK <ENTER>
+C:\YEDEK> ARJ X -R ÇALIŞMA.ARJ <ENTER>
+C:\>format c:
+Bir Hard Diski biçimlendirmek (formatlamak) ihtiyacı, çoğu zaman mevcut işletim sisteminin yersizliği veya “çökmesi” durumundan kaynaklanır. Bu komut çok dikkatli kullanılmalıdır. Çünkü diskteki tüm veriler kaybolacaktır. Eğer disk biçimlendirilmeye karar verilmişse, Winsows 9x/Me işletim sistemlerinde bilgisayar MS-DOS kipinde başlatmalıdır. Windows 2000 ve sonrası işletim sistemleri DOS kipini desteklemediği için, biçimlendirme işlemi işletim sisteminin kurulum ya da kurtarma diski ile yapılabilmektedir.
+C:\>_
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Takımyıldız</DOCTITLE>
+<TEXT>
+
+Eski gök bilimciler bu şekilleri efsanelerdeki belirli hayvanlara ve kahramanlara benzetmiş ve bunların tanrılarca gökyüzüne çıkarıldıklarına inanmışlardır. Takımyıldızların büyük bölümünü, eski Yunanlılar ve Romalılar adlandırmıştır, ama onlar da bu adları Babilliler'den almış olabilirler. Takımyıldızların oluşturduğu bu şekiller geceleri gökyüzünde incelenecek olursa, gözlemlenen şekillerin benzetilen nesnelerle arasındaki ilişkiyi fark etmek kolay olmayabilir.
+Gökyüzü ve takımyıldızlar.
+Yıldızlı bir gökyüzünün karanlık bir gecede gözlemi, ilk bakışta çok büyük bir düzensizlik izlenimi uyandırır. 
+Görülen sayısız yıldız içinde, daha parlak yıldızlar göze çarpar. Bunlar, daha zayıf parıltılı gök cisimlerini işaretlemek veya gökyüzü olaylarının yerini belirlemek için değerli karşılaştırma noktaları oluşturur. Antik Çağdan bu yana yıldızlar, mitolojik kişiler veya hayvanlarla özdeşleştirilen karakteristik şekiller, yani takımyıldızlar biçiminde gruplandırılmıştır. Ancak çağdaş astronominin gerekli gördüğü noktalar, gökyüzü koordinat sistemlerinin kesin şekilde tanımlanmasıyla sonuçlanmıştır. Böylece gök cisimlerinin gökyüzündeki konumu duyarlı olarak belirlenebilir, bu da, gözlem aletlerini, incelenmek istenen gök cisimlerine doğru çabucak yöneltmeye imkân verir.
+Takımyıldızların gece boyunca gökyüzünün "gök küre kutbu" adı verilen bir noktası çevresinde blok halinde yer değiştirdikleri görülür. Kuzey Yarı Küre'de bu nokta çıplak gözle görülebilen bir yıldıza çok yakındır; bu nedenle söz konusu yıldıza "Kutup Yıldızı" adı verilir. Birçok gece tekrarlanan bir gözlem, gökyüzü bütününün bu dönüşünün, Dünya'nın kutuplarıyla çakışan bir eksen ("Yerküre'nin ekseni") çevresinde, 24 saatten biraz daha az bir sürede gerçekleştiğini gösterir. Gerçekte ise, Dünya kendi çevresinde döner. Bununla birlikte buradan, gökyüzünün, belli bir yerdeki görünümünün değişmez olmadığı ortaya çıkar; saatler geçtikçe doğuda bazı yıldızlar belirir, ufuk çizgisi üzerinde yavaş yavaş yükselir ve sonra, batıda batarak gözden kaybolur. Gökyüzünün görünümü enlemlere göre de değişir.
+Yıldızları adlandırma.
+Yıldızların eski adları, ait oldukları takım yıldızlarla özdeşleştirilmiş mitolojik şekillerdeki konumlarını hatırlatıyordu: Aslan'ın gözü, Büyük Ayı'nın kuyruğu gibi. En parlak yıldızlar, çoğu Arapça kökenli olan özel adlarını korumuştur: Sirius, Rigel, Aldebaran, Deneb...
+Takımyıldızların bazılarının ve Güneş’in kendi mitleri bulunur. Bunların ölülerin ruhu ya da tanrılar oldukları düşünülürdü. Örneğin Umacı yıldızının Gorgon Medusa’nın gözünü temsil ettiğine inanılırdı.
+1603'te, Alman J. Bayer, Uranometria'sında, o zamandan bu yana evrensel olarak benimsenen basit ve akılcı bir adlandırma sistemi ortaya attı. Her takımyıldızda, en parlak yıldıza α ile, parıltı derecesi bundan hemen sonra gelen β ve bunu izleyen γ ile (... vb) belirtildi. Yunan alfabesi tükendiğinde, Latin alfabesi, sonra da sayılar kullanıldı. Sonunda yalnız en parlak yıldızlar adlandırılır oldu. Astronomi aletleriyle görülebilen ve fotoğrafı çekilebilenlerin, referans kataloglarındaki sıra numaralarıyla yetinilmektedir. Bir yıldızın uluslararası adı, bunu belirten harf veya sayının arkasına, ait olduğu takım yıldızının Latince adının genitifi veya resmî kısaltması konarak elde edilir; α "Ursa Major" veya α "UMa"...
+Takımyıldızları oluşturan yıldızların isimleri.
+Tüm yıldızların bir ismi vardır. Johannes Bayer yöntemi ile takımyıldızlarındaki yıldızlar tanıtıldı, J. Bayer'in yıldız atlasında onlar parlaklıklarına ya da büyüklüklerine göre Yunan alfabesi sırasıyla Yunan harfleriyle isimlendirdi. Mesela, Alfa (α) parlak ise, Beta (β) daha az parlaktır ve böyle devam eder. Buna örnek olarak Büyük Ayı takımyıldızını verebiliriz; Büyük Ayı takımyıldızın ilk yıldızı "Alfa (α) Büyük Ayı", ikinci yıldızı "Beta (β) Büyük Ayı", diğerleri de böyle devam etmektedir.
+Bu sıralamalar he zaman doğru değildir, yıldızların parlaklıkları tam olarak ölçülüp isimlendirilmemiştir, ve bazı yıldızların parlaklıklarında değişkenlikler gözlemlenilmektedir. Örneğin Büyük Ayı'nın beşinci yıldızı olan "Epilson (ε) Büyük Ayı," Büyük Ayı'nın ilk yıldızı olan "Alfa (α) Büyük Ayı"'dan daha parlaktır.
+Daha sonralar isimlendirmede sayılar da yetersiz kalınca başka sistemler icat edilmiştir. John Flamsteed, Yunanca harfler yerine sayıları kullanmıştır, ve sonraki yıldız kataloglarında genellikle takımyıldızların bir sayı sitemi olmuştur.
+Takımyıldızlar.
+"Adları Antik Çağ mitolojisinden miras kalan takımyıldızların, gökyüzünü, aralarında uzlaşmışçasına 88 bölgeye ayrıldığı kabul edilir."
+İlk uygarlıklardan bu yana, gökyüzü gözlemcileri, en parlak yıldızlan daha kolay bir şekilde işaretlemek için bunları, gökyüzünde çizdikleri şekillere göre bir araya getirmeyi düşündüler. Böylece, mitolojik kahramanlar, hayvanlar veya nesnelerle özdeşleştirilmiş takımyıldızlar doğdu. Takımyıldızlara, Yunan mitolojisinden alınmış adlar verme düşüncesinin, MÖ III. yy'da Makedonya kralı Antigonos Gonatas'ın sarayında hekim ve ozan olan Aratos'dan çıktığı sanılmaktadır. Gök kürenin kuzey yarı küresinin haritası, II. yy'da Ptolemaios tarafından hazırlanan ve 48 takımyıldızı kapsayan haritaya dayanır. Astronomların Güney Yarı Küre'nin gökyüzünü çok daha geç dönemlerde gözlemleyebilmeleri nedeniyle, güney takımyıldızların belirlenmesi çok daha yakın tarihlere rastlar. Bunları, XVII. yy'da özellikle Bayer ve Hevelius, sonra XVIII. yy'da Lalande ve La Caille adlandırdılar ve daha çok kuş veya bilimsel alet adlan kullandılar: Tavus, Tukan, Mikroskop, Sekstant, Oktant vb.
+Uzun süre takımyıldızların sınırları belirsiz kaldı. Dürbün ve teleskobun bulunmasından sonra, bu aletlerle keşfedilen çok sayıda düşük parıltılı yıldız kataloğa alınırken birtakım güçlüklerle karşılaşıldı. Bu dönemde kimi astronomlar eskileri hiçe sayarak, akıllarına estiğince yeni gök cismi şekilleri belirleme yoluna bile gittiler. Böylece, XIX. yy'ın sonunda, 108 takımyıldız sayılıyordu ve bunların sınırları üstünde tam bir uzlaşma yoktu. 1925'ten bu yana gökbilimde dünyanın en yetkili kuruluşu olan Uluslararası Astronomi Birliği, gökyüzünü 88 takımyıldıza böldü. Bunların her biri, yalnız adını aldığı "parlak yıldızlar" grubunu değil, aynı zamanda, enlem ve boylam yaylarıyla sınırlanan ve resmî olarak Latince adıyla veya üç harflik bir kısaltmayla belirtilen bir gökyüzü bölgesini de kapsar. Bu takımyıldızların en büyüğü, 1 303 derece karelik Dişi Ejderha ve en küçüğü, 68 derece karelik Güney Haçı'dır.
+Gökküre ve günlük hareket.
+"Kendimizi, yıldızların asılı olduğu ve dünyadakiyle çakışan bir eksen çevresinde 23 saar 56 dakika dönen, uçsuz bucaksız bir kürenin merkezinde yer alıyormuş varsayabiliriz."
+Gözlem, gece boyunca gökkürenin, Kuzey Yarıküre'de, Küçük Ayı takımyıldızının en parlak yıldızına çok yakın olan bir nokta çevresinde, saat hareketine ters yönde blok halinde dönüyormuş izlenimi verir. Söz konusu nokta, gök kürenin iki kutbundan biridir, dolayısıyla bunun yakınında yer alan yıldıza, Kutup Yıldızı adı verilir. Gözlem, her gece aynı saatlerde tekrarlandığında, gökyüzünün yaklaşık 24 saatte başlangıçtaki görünümünü yeniden aldığı saptanabilir. Takımyıldızlar kümesinin 24 saatlik bu hareketine « "günlük hareket" » adı verilir. Burada, yalnızca zahirî bir hareket söz konusudur. Gerçekte Dünya, kutuplarından geçen bir eksen üstünde ve kendi çevresinde doğudan batıya 23 saat 56 dakikada döner. Ama yıldızlar çok uzakta olduğundan, her şey sanki Dünya ile aynı eksen çevresinde, aynı periyoda, ama ters yönde 23 saat 56 dakikada dönüyormuş ve yıldızların asılı olduğu çok büyük bir kürenin merkezin-deymişiz gibi gelişir.
+Günlük hareket, yıldızlı gökyüzünün görünümünü belli bir yerde yalnız saatten saate değiştirmez, aynı zamanda geceden geceye de yavaş yavaş bu görünümü dönüşüme uğratır; çünkü günlük hareket periyodu, takvim günü süresinden yaklaşık 4 dakika daha kısadır: nitekim, bir mevsimin başlangıcında saat 21.00'de doğudan doğan bir yıldız, mevsim ilerledikçe, aynı saatte gökyüzünde giderek daha yüksekte görünecektir. Gökyüzü hep aynı saatte gözlemlendiğinde, bu durumun aydan aya değiştiği açıkça fark edilebilir. Her mevsim yeni bir yıldız kümesi getirir; bunlar, doğuş ve batışları gündüze rastlamadan önce, az çok uzun bir periyot boyunca gözlemlenebilir.
+Ekvator, gece boyunca tüm takımyıldızların geçişinin görülebildiği tek Dünya bölgesidir. Buradan uzaklaşılır uzaklaşılmaz, kimi yıldızlar hiç görünmez. Çünkü bunlar hiçbir zaman ufkun üstüne çıkmaz. Kutuplara yaklaşıldıkça gözlemlenebilecek gök küre parçası küçülür; ancak, gök kürenin merkezinde, yıldızların hiç batmadıkları ve bu nedenle sürekli göründükleri az çok geniş bir bölge vardır: buna « "kutup dairesi" » denir, çünkü ufkun üstünde yer alan gök kutbunu çevrelemektedir. Kutuplarda da, ancak tek yarı küre görülebilir; diğeri daima ufuk çizgisinin altında kalır. Gökyüzünde, çıplak gözle görülebilen yaklaşık 6.000 yıldız vardır; bunların 20 kadarı çok parlaktır.
+Karanlık bulut grupları.
+Güney Yarımkürede, Samanyolu'nun karanlık parçalarını fark etmek mümkündür. Bazı medeniyetler bu parçaları şekillerle ayırt ederlerdi ve karanlık bulut gruplarına isim verirlerdi. İnka medeniyeti Samanyolu'ndaki bu bölgeleri veya karanlık bulutsuları tespit edip onların şekillerini hayvanlarla ve mevsim yağmurlarıyla ilişkilendirdiler. Avusturalya Aborijin astronomi'de Kömür Çuvalı Bulutsusu tarafından oluşan "gökyüzünde Emu kuşu" en ünlü karanlık bulut grubu anlatılmaktadır.
+Gökyüzünde gök cisimlerinin yerleri nasıl belirlenir.
+"Gök cisimlerinin gök küre üzerindeki konumunu tanımlamak için yeryüzündeki enlem ve boylama benzer koordinat sistemleri kullanılır."
+Bir gözlem aletini bir gök cismine yöneltmek için, bunun gökyüzündeki konumunu büyük bir duyarlılıkla bilmek gerekir. Bunun için birtakım koordinat sistemleri kullanılır; gökyüzünün herhangi bir noktasının konumu, bir referans düzlemine bağlı iki parametreyle belirlenir. En çok kullanılan sistemlerden biri, ekvator koordinat sistemidir. Coğrafi koordinat sisteminin ("enlem ve boylam") benzeri olan bu sistemde, referans düzlemi, Dünya ekvatorunun düzlemiyle çakışan gök ekvatorudur. Burada, gök kürenin her noktasının konumu bahar açısı (α) ve yükselimle (δ) işaretlenir. Bunların Dünya'da kullanılan benzerleri bahar açısı için boylam, yükselim için enlemdir. Başlangıç boylamı olan Greenwich meridyeninin eşdeğeri, kutuplardan ve Güneş'in ilkbahar ılım noktasındayken yer aldığı gökyüzü noktasından geçen büyük bir çemberdir ("saat çemberi"). Bu sistem, gözlem yerinden bağımsız olma üstünlüğünü taşır ve iki dönme ekseninden biri Dünya kutuplarından geçen eksene paralel olan bütün teleskoplarda kullanılır.
+Yaygın olarak kullanılan bir başka sistem, yatay koordinat sistemidir; bunun referans düzlemi, gözlem yerinin ufkuna paralel olan düzlemdir. Bu sistemde gök kürenin her noktası ufuktan yüksekliği ve Güney açısıyla işaretlenir; yükseklik söz konusu noktayı ufuktan ayıran açı, Güney açısıysa Güney doğrultusuyla yaptığı açıdır: söz konusu sistem altazimut tipi bir donanımı olan, yani yatay ve düşey eksenler çevresinde hareket edebilen aletlerde kullanılır. Ancak bir gök cisminin bu şekilde tanımlanan koordinatları belli bir yerde ve belli bir anda geçerlidir; Dünya'nın dönmesi nedeniyle sürekli olarak değişir.
+Diğer astronomi koordinat sistemleri arasından Dünya'nın Güneş çevresinde dönüş düzlemi ("tutulum düzlemi") ve ilkbahar noktasıyla çakıştırılan koordinat sistemi, ayrıca gökadamızın diskinin ortalama düzlemi ve bu düzlemin, gök ada merkezi doğrultusunda yer alan bir noktasına indirgenen gökada koordinat sistemi örnek gösterilebilir.
+Yanılsama ve gerçek.
+Takımyıldızlar bir perspektif etkisinden kaynaklanır. Bunlar, birbirine yakın doğrultularda yer alan, ancak Dünyaya uzaklıkları çok farklı olan yıldızlarca çizilir. Nitekim, Koltuk takımyıldızının gökyüzünde W çizen yıldızları gerçekte 45 ışık yılıyla 700 ışık yılı arasında değişen uzaklıklarda yer almaktadır.
+Takımyıldızların çoğunun yıldızı, fiziksel bir bağlantısı varmış gibi gözükse de aslında hiçbir şekilde fiziksel bağlantıları yoktur, takımyıldızını oluşturan her yıldız birbirine oldukça uzak mesafededirler. Yıldızlar gökyüzünde belirmeye başladığında, daha belirgin yıldızlar göze çarpar ve bu da bir yanılsama etkisi yaparak yıldızların sanki yan yana duruyormuş gibi gözükmesini sağlar.
+Burçlar kuşağı.
+Takımyıldızları burçlar olarak da bilinmektedir. Bütün gökyüzü 88 burca bölünmüştür. Gökyüzünün kuzey ve güney yarı kürelerini kapsayan 88 alandan her biri, bir takım yıldızını meydana getirir. Her yıldız, galaksi veya gök cismi, takımyıldızlarından birinin alanı içinde bulunur. Kırk sekiz takımyıldızının adları ve konumları 17. yüzyılın başına kadar biliniyordu ve günümüzde de geçerliliğini korumaktadır. Geri kalan 40 takımyıldızının büyük bölümü 17 ve 18. yüzyıl astronomlarınca tarif edilmiştir. Uluslararası Astronomi Birliği (IAU)'nin 1945'teki çalışması sonucunda, bugünkü 88 takımyıldızının adı ve konumu üzerinde anlaşmaya varıldı.
+Halk arasında, zodyak (burçlar kuşağı) üzerinde yer alan 12 takımyıldıza ortak olarak “burçlar” adı verilmiştir. Zodyak, gökyüzünde güneş ve başlıca gezegenlerin yolu üzerinde bulunduğu tasarlanan hayali bir kuşaktır. Burçlar kuşağı olarak da bilinmektedir.
+Kuzey ve güney yarı küreler dahil bütün gökyüzündeki toplam takımyıldız sayısı 88'dir. Herhangi bir gecede gökyüzüne bakıldığında bunlardan 40 kadarı görüş alanımızdadır. Bu takımyıldızlarından bir bölümü, Güneş'in yıl boyunca hareket ediyormuş gibi göründüğü yol boyunca sıralanmış takımyıldızlar olup, Burçlar Kuşağı olarak adlandırılırlar. Bunların sayısı, Yılancı Burcu'nun Akrep burcuna dahil edilmesiyle 12 tanedir. Bu kuşaktaki takımyıldızlar Zodyak Takımyıldızları olarak da bilinirler. Zodyak takımyıldızlarının isimleri şunlardır: Aries (Koç), Taurus (Boğa), Gemini (İkizler), Cancer (Yengeç), Leo (Aslan), Virgo (Başak), Libra (Terazi), Scorpius (Akrep), Sagittarius (Yay), Capricornus (Oğlak), Aquarius (Kova), Pisces (Balıklar).
+En iyi tanınan takımyıldızlarından biri Ursa Major'un (Büyük Ayı) en parlak yedi yıldızının düzeni çok çeşitli cisimlere benzetilmiştir. Bu nedenle Ursa Major takımyıldızına bugüne kadar Saban, Araba, Yedi Öküzler ve Büyük Cezve gibi çeşitli adlar verilmiştir. Orion takımyıldızı genellikle bir avcı olarak çizilmiştir. Bu takımyıldızın üç parlak yıldızı avcının kuşağını oluşturur. Avcının iki köpeği vardır; büyük olanı Canis Major, küçük olanı ise Canis Minor'dur. Orion'un yakınlarındaki, burçlar kuşağı takımyıldızlarından Gemini yer alır. Gemini'deki (İkizler) en parlak iki yıldız, adlarını Yunan efsanesinde Zeus'un ölümsüzlük verdiği oğulları Kastor ve Polluks'tan almaktadır.
+Burçlar kuşağının bir başka takımyıldızı, Herakles'in öldürdüğü Nemea aslanı olduğu varsayılan Leo'dur (Aslan). Draco (Ejderha) takımyıldızı da, adını Herakles'in bir başka kurbanı olan ejderhadan almaktadır. Orion'u öldüren akrep, Scorpius (Akrep) takımyıldızı olarak görünür. Perseus'un deniz canavarından kurtardığı karısı Andromeda ve onun annesi Cassiopeia ile babası Cepheus'un isimleri de takımyıldızlara verilmiştir.
+"Burçlar kuşağındaki takımyıldızlarının sınırları sabit olduğu dönemlerde, Güneşin bu takımyıldızlarının içinden geçiş tarihleri şöyledir":
+Güneşin burçlara karşı olan durumunun değişmesi yüzünden, bugün burçlardan hiçbiri kendi adıyla anılan bölgede bulunmamaktadır.
+Ilım noktalarının yalpalamasından dolayı takım yıldızları doğuya doğru kaymış bulunmaktadır. Bu yüzden 20. yüzyılda Güneş, 1 Ocak'ta Oğlak'ta olmayıp Yay burcunda bulunmaktadır.
+Yıldız dizilimleri.
+"Parlak yıldızlar, belirgin dizilimler gösterir ve bunlar sayesinde temel takımyıldızlar işaretlenebilir." Aşağıda Kuzey ve Güney gökkürelerin takımyıldız haritalarını görebilirsiniz:
+En çok bilinen takımyıldızlar.
+Bazı ünlü takımyıldızlar, çeşitli nesnelere benzetilen parlak yıldız düzenlerine sahiptir. Örnek olarak, bir avcı figürünü çağrıştıran Avcı Takımyıldızı (Orion) ve aslan figürü çağrıştıran Aslan Takımyıldızı (Leo) verilebilir.
+Andromeda.
+Andromeda, modern 88 takımyıldızdan biridir. Ayrıca, Batlamyus'un 48 takımyıldızdan oluşan listesinde de geçer. Adını Yunan mitolojisindeki bir karakter olan Prenses Andromeda'dan alır. Kanatlıat (Pegasus) takımyıldızının yanında bir kuzey yarı küre takımyıldızıdır. Andromeda Gökadası'nı barındırıyor olması en dikkat çekici özelliğidir. Kimi zaman Zincirli Prenses olarak da anılır.
+Orion.
+Gökyüzünde hem güney hem de kuzey yarıküresinde bulunan ve bu sayede tüm Dünya'dan görülebilinen, oldukça parlak yıldızlardan oluşan dolayısıyla da kolay bulunabilinen takım yıldız. Avcının belirgin şekli dört belirgin yıldızdan oluşan boyu eninin iki katı kadar olan bir dikdörtgen ve bu dikdörtgenin merkezinde çapraz durmakta olan üç ayrı yıldızdır. Betelgeuse avcının sağ omzuna, Bellatrix sol omzuna, Rigel sol ayağına ve Saif de sağ ayağına denk gelir. Ortadaki üç çapraz yıldız (alttan üste sırayla Alnitak,Alnilam ve Mintaka) avcının kemerini (Orion kuşağı olarak da bilinir) oluşturur. Kuşağın altında bulunan M 42 bulutsusu (nebulası) avcının kılıcıdır. Heka adındaki avcının başını simgleyen kısım aslında üç daha sönük yıldızdan meydana gelir. Betelgeuse'un üstündeki yıldızlar avcının sag kolunu Bellattrix'den ötede olan yıldızlarda avcının kalkanını oluşturur.
+Avcı kış ayları boyunca Türkiye'den rahatlıkla gözlemlenebilir. Avcıyı gözlemlemek isteyenler güney ufkuna bakmalıdır. Avcının yeri bulunulan aya göre güneybatı ile güneydoğu arasında değişir. Bünyesinde gökyüzünün en parlak yıldızlarından Rigel (7. en parlak yıldız) ve Betelgeuse (10. en parlak yıldız)'ün bulunması ve etrafındaki takımyıldızların solukluğu Avcının kolaylıkla gözlemlenebilmesini sağlar. Avcının komşuları Boğa, İkizler, Eranus nehri, Tavşan takımyıldızlarıdır.
+Aquila (Kartal).
+Aquila, modern 88 takım yıldızdan biridir. Görünüm olarak Samanyolu üzerinde yer alır. En parlak yıldızı Altair'dir ve bu yıldız yaz üçgeni oluşturan üç yıldızdan birdir. Yaz üçgenin diğer yıldızları Vega Lir (Çalgı) Takımyıldızında, Deneb ise Cygnus (Kuğu) Takımyıldızında bulunur.
+Lyra (Lir [Çalgı]).
+Lir Takımyıldızı birçok takımyıldıza nazaran gökyüzünde oldukça küçük bir alan kaplar. Lir Takımyıldızın en parlak yıldızı Vega'dır. Bu Yıldızın kadir değeri + 0,03 dür ve diğer yıldızların parlaklıklarını karşılaştırmada referans olarak alınabilir. Vega yaz üçgenin üç yıldızından birdir.
+Cygnus (Kuğu).
+Cygnus (Kuğu) modern 88 takımyıldızdan biridir. Birçok parlak yıldız içerir. Bu yıldızlardan en önemlisi ve en parlak olanı Deneb'dir ve yaz üçgeninin üç yıldızından biridir. Kuğu takımyıldızı görünüm bakımından Samanyolu üzerinde güneye doğru uçan bir kuşu andırır.
+Ursa Major (Büyük Ayı).
+Ursa Major özellikle kuzey yarı kürenin büyük bir bölümünde yıl boyunca görülebilir. Oldukça parlak yıldızlardan oluşmuştur. Belirgin kepçe biçimi sayesinde diğer takımyıldızlardan ayırması oldukça kolaydır. Kepçenin sapındaki üç parlak yıldızdan ortadaki; ünlü bir çift yıldız olan Mizar'dır ve ona yakın görünümde daha sönük olan başka bir çift yıldız; Alcor yer alır. Ursa Major'ün en parlak yıldızdarı Dubhe ve Merak'tır. Bu iki yıldız cezvenin ucunda, sap kısmına en uzak görünümde bulunurlar. Bu yıldızların aralarındaki mesafeyi referans alarak Merak-Dubhe yönünde 5 birim gittiğimizde Kutup Yıldızı'na (Polaris) ulaşırız. Kutup Yıldızı ise Ursa Minor (Küçük Ayı) Takımyıldızında yer alır. Ayrıca kepçenin sap kısmını oluşturan üç yıldızın çizdiği kavisi takip ederek Bootes (Çoban) takımyıldızının en parlak yıldızı olan Arcturus'a ulaşabiliriz. Bu özellikleri ile Ursa Major: Gökyüzünde diğer takımyıldızları bulurken oldukça kolaylık sağlar.
+Scorpius (Akrep).
+Bu takımyıldız Scorpio olarak da bilinir. Batıda Libra (Terazi), doğuda ise Sagittairus (Yay) takımyıldızları arasında yer alır. Birçok parlak yıldız barındırır. Bunların en önemlisi ve en parlağı Antares, akrebin kalbi olarak bilinir. Antares ömrünün sonlarına gelmiş bir kızıl devdir. Astronomik olarak yakın bir gelecekte bir süper novayla yaşamını noktalayacaktır.
+Sagittarius (Yay).
+Sagittarius (Yay) Takımyıldızı: Sembol olarak okunu Scorpius (Akrep) Takımyıldızına doğrultmuş bir yay olarak tasvir edilmiştir. Ophiuchus (Yılancı) ve Capricornus (Oğlak) Takımyıldızları arasında yer alır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

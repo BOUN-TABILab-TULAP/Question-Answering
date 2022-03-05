@@ -1,0 +1,38 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ozon	ozon	+Noun+A3sg+Pnon+Nom
+
+tabakası	tabaka	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+tabakası	tabaka	+Noun+A3sg+P3sg+Nom
+
+neden	ne	+Pron+Ques+A3sg+Pnon+Abl
+neden	neden	+Adverb
+neden	neden	+Noun+A3sg+Pnon+Nom
+
+tahrip	tahrip	+Noun+A3sg+Pnon+Nom
+
+olmaktadır	ol	+Verb+Pos+Prog2+A3sg+Cop
+olmaktadır	ol	+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

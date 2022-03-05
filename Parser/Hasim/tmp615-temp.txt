@@ -1,0 +1,15 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Minimum minimum+Adj
+yasası yas+Verb+Pos^DB+Adj+FeelLike yas+Verb+Pos^DB+Noun+FeelLike+A3sg+Pnon+Nom yasa+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike yasa+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

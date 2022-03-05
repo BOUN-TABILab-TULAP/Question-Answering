@@ -1,0 +1,25 @@
+1	İnsanlar	insan	Noun	Noun	A3pl|Pnon|Nom	16	SUBJECT	_	_
+2	tarafından	taraf	Noun	Noun	A3sg|P3sg|Abl	4	ABLATIVE.ADJUNCT	_	_
+3	_	kaynakla	Verb	Verb	_	4	DERIV	_	_
+4	_	_	Verb	Verb	Pass|Pos	5	DERIV	_	_
+5	kaynaklanan	_	Adj	APresPart	_	6	MODIFIER	_	_
+6	etkiler	etki	Noun	Noun	A3pl|Pnon|Nom	7	OBJECT	_	_
+7	sonucunda	sonuç	Noun	Noun	A3sg|P3sg|Loc	16	MODIFIER	_	_
+8	_	iste	Verb	Verb	_	9	DERIV	_	_
+9	_	_	Verb	Verb	Pass|Neg	10	DERIV	_	_
+10	istenmeyen	_	Adj	APresPart	_	13	MODIFIER	_	_
+11	_	zarar	Noun	Noun	A3sg|Pnon|Nom	12	DERIV	_	_
+12	zararlı	_	Adj	Adj	With	13	MODIFIER	_	_
+13	maddelerin	madde	Noun	Noun	A3pl|Pnon|Gen	16	SUBJECT	_	_
+14	suyun	su	Noun	Noun	A3sg|Pnon|Gen	15	POSSESSOR	_	_
+15	niteliğini	nitelik	Noun	Noun	A3sg|P3sg|Acc	16	OBJECT	_	_
+16	bozacak	boz	Verb	Verb	Pos|Fut|A3sg	17	OBJECT	_	_
+17	kadar	kadar	Postp	Postp	PCNom	18	MODIFIER	_	_
+18	_	yüksel	Verb	Verb	Pos	19	DERIV	_	_
+19	yükselmesi	_	Noun	NInf	A3sg|P3sg|Nom	20	CLASSIFIER	_	_
+20	olayına	olay	Noun	Noun	A3sg|P3sg|Dat	23	DATIVE.ADJUNCT	_	_
+21	ne	ne	Adv	Adv	_	23	MODIFIER	_	_
+22	_	de	Verb	Verb	_	23	DERIV	_	_
+23	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	24	SENTENCE	_	_
+24	.	.	Punc	Punc	_	0	ROOT	_	_
+

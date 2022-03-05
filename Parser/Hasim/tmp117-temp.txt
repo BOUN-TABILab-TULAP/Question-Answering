@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ekonomik ekonomik+Adj
+faaliyetlerin faaliyet+Noun+A3pl+Pnon+Gen faaliyet+Noun+A3pl+P2sg+Nom
+son son+Noun+A3sg+Pnon+Nom son+Adj
+zincirini zincir+Noun+A3sg+P2sg+Acc zincir+Noun+A3sg+P3sg+Acc
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+oluşturur oluş+Verb^DB+Verb+Caus+Pos+Aor+A3sg oluş+Verb^DB+Verb+Caus+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

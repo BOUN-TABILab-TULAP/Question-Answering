@@ -1,0 +1,73 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bir	bir	+Adverb
+Bir	bir	+Det
+Bir	bir	+Num+Card
+Bir	bir	+Adj
+Bir	Bir	+Noun+Prop+A3sg+Pnon+Nom
+
+bölgedeki	bölge+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+sıcaklık	sıcak+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
+
+ortalaması	ortala	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+ortalaması	ortalama	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+ortalaması	ortalama	+Noun+A3sg+P3sg+Nom
+ortalaması	ortalama	+Adj^DB+Adj+JustLike
+ortalaması	ortalama	+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+o	o	+Det
+o	o	+Noun+A3sg+Pnon+Nom
+o	o	+Pron+Demons+A3sg+Pnon+Nom
+o	o	+Pron+Pers+A3sg+Pnon+Nom
+
+bölgenin	bölge+Noun+A3sg+Pnon+Gen
+bölgenin	bölge+Noun+A3sg+P2sg+Gen
+
+turizm	turizm	+Noun+A3sg+Pnon+Nom
+
+gelirleri	gel	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+P3pl+Nom
+gelirleri	gel	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3pl+Nom
+gelirleri	gel	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Acc
+gelirleri	gel	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+P3sg+Nom
+gelirleri	gelir	+Noun+A3pl+Pnon+Acc
+gelirleri	gelir	+Noun+A3pl+P3sg+Nom
+gelirleri	gelir	+Noun+A3pl+P3pl+Nom
+gelirleri	gelir	+Noun+A3sg+P3pl+Nom
+
+arasındaki	ara	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+ilişki	ilişki+Noun+A3sg+Pnon+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+açıklanabilir	açıkla+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg
+açıklanabilir	açıkla+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

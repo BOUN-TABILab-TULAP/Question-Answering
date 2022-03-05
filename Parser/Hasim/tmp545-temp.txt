@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Hücrenin hücre+Noun+A3sg+Pnon+Gen hücre+Noun+A3sg+P2sg+Gen
+pHının pHının+Noun+Prop+A3sg+Pnon+Nom
+azalmasına azal+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Dat
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+olan ol+Verb+Pos^DB+Adj+PresPart
+tepkimeler tepki+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl tepki+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

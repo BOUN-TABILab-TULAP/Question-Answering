@@ -1,0 +1,71 @@
+Ufuk
+Ufuk (veya ufuk çizgisi), dünyayı gökyüzünden ayıran görünen çizgidir, tüm görünür yönleri iki kategoriye ayıran çizgidir: Dünya'nın yüzeyini kesenler ve etmeyenler. Pek çok yerde, "gerçek ufuk" ağaçlar, binalar, dağlar vb. tarafından örtülür ve sonuçta ortaya çıkan yeryüzü ve gökyüzünün kesişimi "görünür ufuk" olarak adlandırılır. Bir kıyıdan denize bakıldığında, denizin ufka en yakın kısmına "açıklık" denir.
+"Ufuk" kelimesi Yunanca "ὁρίζων κύκλος" "horizōn kyklos", "ayıran daire", ὁρίζω "horizō", "bölmek", "ayırmak" ve "ὅρος" ("oros" fiilinden türemiştir. "), "sınır, dönüm noktası".
+Görünüm ve kullanım.
+Tarihsel olarak, denizde görünür ufka olan mesafe, radyo ve telgrafın gelişmesinden önce maksimum iletişim ve görüş aralığını temsil ettiği için son derece önemli olmuştur. Bugün bile, Görsel Uçuş Kuralları kapsamında bir uçak uçarken, uçağı kontrol etmek için, pilotun uçağı kontrol etmek için uçağın burnu ile ufuk arasındaki görsel ilişkiyi kullandığı, tutum uçuşu adı verilen bir teknik kullanılır. Bir pilot, ufka atıfta bulunarak uzamsal yönelimini de koruyabilir.
+Birçok bağlamda, özellikle perspektif çizimde, Dünya'nın eğriliği göz ardı edilir ve ufuk, herhangi bir yatay düzlemdeki noktaların (resim düzlemine yansıtıldığında) gözlemciden uzaklıkları arttıkça yakınsadığı teorik çizgi olarak kabul edilir. Deniz seviyesine yakın gözlemciler için, bu "geometrik ufuk" (ki bu tamamen düz, sonsuz bir yer düzlemi varsayar) ile "gerçek ufuk" (küresel bir Dünya yüzeyi varsayar) arasındaki fark çıplak gözle algılanamaz (ama deniz seviyesindeki biri için). Denize bakan 1000 metrelik tepe, gerçek ufuk yatay bir çizginin yaklaşık bir derece altında olacaktır).
+Astronomide ufuk, gözlemcinin (gözlerinden) geçen yatay düzlemdir. Yatay koordinat sisteminin temel düzlemidir, yüksekliği sıfır derece olan noktaların yeridir. Geometrik ufka benzer olsa da, bu bağlamda bir ufuk, resim düzlemindeki bir çizgiden ziyade uzaydaki bir düzlem olarak düşünülebilir.
+Ufuk mesafesi.
+Atmosferik kırılmanın etkisini göz ardı ederek, Dünya yüzeyine yakın bir gözlemciden ufka olan mesafe yaklaşık
+burada "d" kilometre cinsinden ve "h" metre cinsinden yerden yüksekliktir.
+Örnekler:
+Mil cinsinden "d" ile
+ve ayaklarda "h",
+Kırılma olmadığı varsayılarak örnekler:
+Geometrik model.
+Dünyanın atmosferi olmayan bir küre olduğu varsayılırsa, ufka olan mesafe kolayca hesaplanabilir.
+Sekant-tanjant teoremi şunu belirtir:
+Aşağıdaki değişiklikleri yapın:
+formül şimdi olur
+veya
+burada "R" Dünya'nın yarıçapıdır.
+Denklem Pisagor teoremi kullanılarak da türetilebilir.
+Görüş hattı Dünya'ya teğet olduğu için ufuktaki yarıçapa diktir. Bu, hipotenüs olarak yarıçap ve yüksekliğin toplamı ile bir dik üçgen oluşturur. İle birlikte
+sağdaki ikinci şekle atıfta bulunarak aşağıdakilere yol açar:
+Başka bir ilişki, Dünya'nın kavisli yüzeyi boyunca ufka olan "s" mesafesini içerir; radyan cinsinden "γ" ile,
+sonra
+"s" için çözme verir
+"s" mesafesi, "d" görüş hattı mesafesi cinsinden de ifade edilebilir; sağdaki ikinci şekilden,
+"γ" yerine koyma ve yeniden düzenleme
+Nesnenin yüksekliği yarıçapla karşılaştırıldığında ihmal edilebilir olduğunda (yani, "h" ≪ "R") "d" ve "s" mesafeleri hemen hemen aynıdır.
+Yaklaşık geometrik formüller.
+Gözlemci dünya yüzeyine yakınsa, terimdeki "h"yi dikkate almamak geçerlidir ve formül şu hale gelir:
+"d" ve "R" için kilometre ve "h" için metre kullanılarak ve Dünya'nın yarıçapı 6371 km olarak alındığında, ufka olan mesafe
+Kanuni mil cinsinden (karada yaygın olarak kullanıldığı şekliyle) "d" ve "R" ve fit cinsinden "h" olmak üzere imparatorluk birimleri kullanıldığında, ufka olan mesafe şu şekildedir:
+"d" deniz milinde ve "h" fitte ise, sabit faktör yaklaşık 1,06'dır, bu da 1'e yeterince yakındır ve genellikle göz ardı edilir ve aşağıdakileri verir:
+Bu formüller, "h", herhangi bir dağın zirvesinden, uçaktan veya yüksek irtifa balonlarından tüm görünümler dahil olmak üzere, Dünya'nın yarıçapından (6371 km veya 3959 mi) çok daha küçük olduğunda kullanılabilir. Verilen sabitlerle, hem metrik hem de emperyal formüller %1'e kadar kesindir (daha fazla kesinliğin nasıl elde edileceğini öğrenmek için sonraki bölüme bakın).
+Küresel bir Dünya için kesin formül.
+Çoğu uyduda olduğu gibi "h", "R"ye göre anlamlıysa, daha önce yapılan tahmin artık geçerli değildir ve tam formül gereklidir:
+burada "R" Dünya'nın yarıçapıdır ("R" ve "h" aynı birimlerde olmalıdır). Örneğin,
+bir uydu 2000 km yükseklikte ise, ufka uzaklığı ;
+ikinci terimi parantez içinde ihmal etmek, %7'lik bir hata mesafesi verecektir.
+Ufkun üzerindeki nesneler.
+Bir gözlemcinin ufkun üzerindeki bir nesnenin tepesini görebileceği en büyük mesafeyi hesaplamak için, o nesnenin üzerindeki varsayımsal bir gözlemci için ufka olan mesafeyi hesaplayın ve bunu gerçek gözlemcinin ufka olan mesafesine ekleyin. Örneğin, 1.70 m yüksekliğinde yerde duran bir gözlemci için ufuk 4.65 km uzaklıktadır. 100 m yüksekliğindeki bir kule için ufuk mesafesi 35,7 km'dir. Böylece kumsaldaki bir gözlemci kulenin tepesini 40,35 km'den fazla olmadığı sürece görebilir. Tersine, bir teknedeki () bir gözlemci yakındaki bir kıyıdaki () ağaçların tepelerini görebiliyorsa, ağaçlar muhtemelen yaklaşık 16 km uzaktadır.
+Sağdaki şekle atıfta bulunarak, deniz fenerinin tepesi, aşağıdaki durumlarda tekne direğinin tepesindeki bir karga yuvasındaki bir gözcü tarafından görülebilir.
+burada "D"BL kilometre cinsinden ve "h"B ve "h"L metre cinsindendir.
+Başka bir örnek olarak, gözleri yerden iki metre yüksekte olan bir gözlemcinin, her biri 3.5 metre yüksekliğinde otuz kattan oluştuğunu bildiği uzaktaki bir binaya dürbünle baktığını varsayalım. Görebildiği katları sayar ve yalnızca on kat olduğunu görür. Yani binanın yirmi katı veya 70 metresi Dünya'nın eğriliği ile ondan gizleniyor. Bundan binaya olan mesafesini hesaplayabilir:
+bu da yaklaşık 35 kilometreye geliyor.
+Ufukta uzaktaki bir nesnenin ne kadarının görünür olduğunu hesaplamak da benzer şekilde mümkündür. Bir gözlemcinin gözünün deniz seviyesinden 10 metre yukarıda olduğunu ve 20 km uzaktaki bir gemiyi izlediğini varsayalım. Onun ufku:
+ondan kilometre, ki bu da yaklaşık 11.3 kilometre uzağa geliyor. Gemi 8,7 km daha uzakta. Gemide sadece gözlemcinin görebildiği bir noktanın yüksekliği şu şekilde verilir:
+bu da neredeyse tam olarak altı metreye geliyor. Bu nedenle gözlemci, geminin su seviyesinden altı metreden daha yüksek olan kısmını görebilir. Geminin bu yüksekliğin altında kalan kısmı, Dünya'nın eğriliği ile ondan gizlenir. Bu durumda geminin gövdesinin kapalı olduğu söylenir.
+Atmosferik kırılmanın etkisi.
+Dünya, Ay gibi havasız bir dünya olsaydı, yukarıdaki hesaplamalar doğru olurdu. Bununla birlikte, Dünya'nın yoğunluğu ve kırılma indisi sıcaklık ve basınca bağlı olarak önemli ölçüde değişen bir hava atmosferi vardır. Bu, havanın ışığı değişen oranlarda kırmasını sağlayarak ufkun görünümünü etkiler. Genellikle, Dünya yüzeyinin hemen üzerindeki havanın yoğunluğu, daha yüksek irtifalarda yoğunluğundan daha fazladır. Bu, kırılma indisini yüzeye yakın yerlerde daha yükseğe göre daha büyük yapar, bu da kabaca yatay olarak hareket eden ışığın aşağı doğru kırılmasına neden olur. Bu, ufka olan gerçek mesafeyi geometrik formüllerle hesaplanan mesafeden daha büyük hale getirir. Standart atmosfer koşulları ile aradaki fark yaklaşık %8'dir. Bu, yukarıda kullanılan metrik formüllerde 3.57 faktörünü yaklaşık 3.86 olarak değiştirir. Bu düzeltme, koşullar standarda yakın olduğunda oldukça iyi bir yaklaşım olarak uygulanabilir ve sıklıkla uygulanır. Koşullar olağandışı olduğunda, bu yaklaşım başarısız olur. Kırılma, özellikle su üzerinde günden güne önemli ölçüde değişebilen sıcaklık gradyanlarından güçlü bir şekilde etkilenir. Aşırı durumlarda, genellikle ilkbaharda, sıcak hava soğuk suyun üzerine geldiğinde, kırılma ışığın Dünya yüzeyini yüzlerce kilometre boyunca takip etmesine izin verebilir. Ters koşullar, örneğin, yüzeyin çok sıcak olduğu, çok sıcak, düşük yoğunluklu havanın daha soğuk havanın altında olduğu çöllerde meydana gelir. Bu, ışığın yukarı doğru kırılmasına neden olarak ufuk kavramını biraz anlamsız kılan serap etkilerine neden olur. Olağandışı koşullar altında kırılma etkileri için hesaplanan değerler bu nedenle yalnızca yaklaşık değerlerdir. Bununla birlikte, bunları yukarıda açıklanan basit yaklaşımdan daha doğru bir şekilde hesaplamak için girişimlerde bulunulmuştur.
+Görsel dalga boyu aralığının dışında, kırılma farklı olacaktır. Radar için (örn. 300 ila 3 mm dalga boyları, yani 1 ve 100 GHz arasındaki frekanslar için), metrik formülde 4.12'lik bir faktör veren etkin bir yarıçap elde etmek için Dünya'nın yarıçapı 4/3 ile çarpılabilir, yani radar ufku Geometrik ufkun %15 ötesinde veya görselin %7 ötesinde. 4/3 faktörü, görsel durumda olduğu gibi, kırılma atmosferik koşullara bağlı olduğundan kesin değildir.
+Entegrasyon yöntemi—Sweer
+Atmosferin yoğunluk profili biliniyorsa, ufka "d" mesafesi şu şekilde verilir:
+burada "R"E Dünyanın yarıçapı, "ψ" ufkun eğimi ve "δ" ufkun kırılmasıdır. Dip oldukça basit bir şekilde belirlenir
+burada "h" gözlemcinin Dünya'dan yüksekliği, "μ" gözlemcinin yüksekliğindeki havanın kırılma indisi ve "μ"0 havanın Dünya yüzeyindeki kırılma indisidir.
+Kırılma integrasyonu ile bulunmalıdır.
+formül_26, ışın ile Dünya'nın merkezinden geçen bir çizgi arasındaki açıdır. "ψ" açıları ve formül_26 şu şekilde ilişkilidir:
+Basit yöntem—Genç
+Yukarıda açıklanan birinci mertebeden yaklaşıklık ile temelde aynı sonuçları üreten çok daha basit bir yaklaşım, geometrik modeli kullanır, ancak bir yarıçap kullanır. Ufka olan uzaklık o zaman
+Dünyanın yarıçapını 6371 km, km'de "d" ve m'de "h" olarak alarak,
+mi'de "d" ve ft'de "h" ile,
+Young'ın yönteminden elde edilen sonuçlar, Sweer'in yönteminden elde edilenlere oldukça yakındır ve birçok amaç için yeterince doğrudur.
+Ufuk eğriliği.
+Yüzeyin üzerindeki bir noktadan ufuk hafifçe bükülmüş görünür (bir dairedir). Bu görsel eğrilik formülü_32, yükseklik ve Dünya'nın yarıçapı arasında temel bir geometrik ilişki vardır. Bu
+Eğrilik, radyan cinsinden eğrilik açısal yarıçapının tersidir. 1 eğrilik, Dünya yüzeyinden yaklaşık 2640 km yüksekliğe karşılık gelen 45° açısal yarıçaplı bir daire olarak görünür. 10 km yükseklikte (33.000 ft, bir uçağın tipik seyir yüksekliği), ufkun matematiksel eğriliği yaklaşık 0.056'dır, 56 cm'den bakıldığında 10 m yarıçaplı daire kenarının aynı eğriliği. Bununla birlikte, görünür eğrilik, atmosferdeki ışığın kırılmasından ve ufuk genellikle görsel yüzeyin üzerindeki yüksekliği azaltan yüksek bulut katmanları tarafından maskelendiğinden daha azdır.
+Horizon eğrileri: sqrt(yarıçap^2 + mesafe^2)-yarıçap, mesafe^2/R*2'ye eşdeğerdir. 100 km'de 784m alçalmaktadır.
+Kaybolan noktalar.
+Ufuk, grafik perspektif biliminde resim düzleminin önemli bir özelliğidir. Resim düzleminin yere dik durduğunu ve "P"nin resim düzlemindeki "O" göz noktasının dik izdüşümü olduğunu varsayarsak, ufuk "P" boyunca uzanan yatay çizgi olarak tanımlanır. "P" noktası, resme dik olan çizgilerin kaybolma noktasıdır. "S" ufuktaki başka bir noktaysa, "OS" ye paralel tüm doğrular için ufuk noktasıdır. Ancak Brook Taylor (1719), "O" ile belirlenen ufuk düzlemi ve ufuk diğer herhangi bir düzlem gibi olduğunu belirtti:
+Paralel çizgilerin uzakta birleştiği özel perspektif geometrisi, paralel çizgilerin buluştuğu yerde sonsuzda bir nokta belirleyen projektif geometrinin gelişimini teşvik etti. Kirsti Andersen, 2007 tarihli "Geometry of an Art" adlı kitabında, perspektif çizimi ve bilimin 1800'e kadar olan evrimini anlatmış ve ufuk noktalarının ufukta olması gerekmediğine dikkat çekmiştir. "Horizon" başlıklı bir bölümde, John Stillwell, projektif geometrinin, çizgi kesişiminin modern soyut çalışması olan geliş geometrisine nasıl yol açtığını anlattı. Stillwell ayrıca "Cebir Kanunları Nelerdir?" başlıklı bir bölümde matematiğin temellerine de girdi. Başlangıçta Karl von Staudt tarafından bir alanın aksiyomlarını türeterek verilen "noktaların cebiri", yirminci yüzyılda yapıbozuma uğratıldı ve çok çeşitli matematiksel olasılıklar sağladı. Stillwell devletleri

@@ -1,0 +1,205 @@
+Question: Vejetatif çekirdeğin polen oluşumuna etkisi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vejetatif üreme</DOCTITLE>
+<TEXT>
+
+Vejetatif üreme, yüksek yapılı bitkilerin vejetatif organlarından (yaprak, kök ve gövdeleri) belli kısımlarının, ana bitkiye aynı genetik yapıya sahip yeni bireylerin oluşturulmasıdır.
+Vejetatif üreme, eşeysiz üreme ceşitlerindendir. Tarımda yaygın bir şekilde kullanılan bu çoğalma metodu farklı şekillerde uygulanabilir. Yüksek yapılı bir bitkinin kalıtsal özelliklerinin nesiller boyu değişikliğe uğraması istenmiyorsa vejetatif yolla çoğalması gerekir. Bu üreme çeşidinin adı yerel tarımda "aşılama, kalem aşısı, göz aşısı" veya "budak yama" denir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Erkek organ (çiçek)</DOCTITLE>
+<TEXT>
+
+Erkek organ, stamen ya da anter olarak da bilinir, çiçeğin erkek üreme organı.
+Bir çiçekte bulunan erkek organların tümüne birden "andresium" ya da "androecium" denir. Genellikle dişi organın çevresinde yer alan erkek organların her biri, ipçik olarak bilinen sap kısmı (filament) ve çiçektozlarının üretildiği başçık (anter) bölümlerinden oluşur. 
+İpçik genellikle silindir biçiminde ya da yassıdır. Biçim ve renk olarak büyük çeşitlilik gösteren başçık ise çoğu kez "teka" adı verilen iki kısımdan (loptan) meydana gelir. Her bir tekada iki polen kesesi ("lokulus") vardır. Polen keselerinde polenleri meydana getiren polen ana hücreleri vardır. Stamenlerin sayısı ve biçimi taksonomik ilişkilerin saptanmasında önemli bir etkendir. Satmenler için de haploid spor ya da polen taneciklerinin oluştuğu polen keselerini (mikrosporangiumları) içerir.
+Polen keseleri içinde meydana gelen polen ana hücreleri mayoz bölünme ile her biri 4 polen (polen tetratı) meydana getirir. Başlangıçta tek haploit nukleusa sahip olan polenler mitoz bölünme ile biri generatif diğeri vejetatif olmak üzere iki nukleus meydana getirir. Vejetatif hücre polenin çimlenmesi esnasında polen tüpünü meydana getirir, generatif hücre tekrar bölünerek 2 sperma nukleusu oluşturur.
+Polenler, angiospermlerde çeşitli şekillerde bulunurlar. Genellikle 2 zara sahiptirler, dıştaki eksin zar olup bu zar sert yapılı ve üzerinde porlar bulunur, içteki intin zardır, daha ince yapılıdır. Genç bir anterden enine kesit alınıp incelendiğinde dıştan içe doğru epidermis, endotesyum, aratabaka, tabetum ve polen ana hücreleri olarak sıralanırlar. Olgun anterlerde tabetum hücreleri genellikle parçalanmış ve kalıntıları kalmıştır. Polen ana hücrelerinde polen tatratları meydana gelir. Anterler olgunlaştığı zaman boyuna bir yarıkla, enine bir yarıkla, delik veya kapakla açılırlar. Yarıklar anterin iç yüzüne açılıyorsa intrors, dış yüzüne açılıyorsa ekstrors olarak adlandırılır.
+Anterlerin filamente bağlanış şekilleride farklıdır. Filament anterin tabanına bileşikse bazifiks, anterin ortasına bileşikse versatil, filament anterin sırtında bir yere bileşikse dorsifiks olarak adlandırılır.
+Bir çiçekte bulunan stamenlerden ikisi uzun, ikisi kısa ise didinam, 6 stamen mevcut ve bunlardan 4’ü uzun, 2’si kısa ise tetradinam adını alır. Filamentler genellikle serbesttir, bazen bileşikte olur. Filamentler bir tüp halinde birleşmisse monodelf, iki grup halinde birleşmisse dialydelf olarak adlandırılır. Filamentler serbest anterler bileşikse singenezik, filamentler ginekeumla birleşmişse ginostegyum olarak
+adlandırılmaktadır. Verimsiz stamenler staminod adını alır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üreme</DOCTITLE>
+<TEXT>
+
+Üreme, çoğalma olarak da bilinir, bir canlının neslini devam ettirmesi olayı. Büyüme ve gelişmesini tamamlayan her canlı çoğalma yeteğine sahip olur. Çoğalma yeteneğine sahip canlılar kendilerine benzer bireyler oluştururlar ve bu sayede nesillerini devam ettirmiş olurlar.
+Biyolojinin temel ilkelerinden biri "tüm canlılar kendinden önce bulunan canlılardan meydana gelir" sözüdür. Gerçekten de yaşamın temel yapısı bireylerin çoğalmasıyla gelecek döllerin oluşturulması ve genetik bilginin aktarılmasından geçer. Üremenin birimi ve taşıyıcısı hücre, türlere özgünlüğün aktarılmasını sağlayan ise kalıtım materyalidir. özellikle arılarda partenogenez diye adlandırılan üreme biçimi iki tip arı tarafından gerçekleştirilir. Kraliçe arı (2n) ve erkek arı (n) bölünmeye uğrayarak yumurta ve spermlerini birleştirir. Bunlardan birkaç yumurta erkek arıyı, birkaç yumurta kraliçe arıyı (bunlar arı sütü ile beslenir.), diğerler yumurtalar ise işçi arıları (kısır_bunlarda arı ekmeği ile beslenir.) meydana getirir. 
+Eskiden, insanlar canlı varlıkların cansız maddelerden oluştuğuna inanırlardı, örneğin, sineklerin çamurdan ya da etten, kurbağaların çamurdan oluştuğu gibi. 
+Mikroskobun bulunuşu ve mikroorganizmaların saptanması sonucu bunların kökeni ile ilgili görüşlerden biri; "abiyogenez" ("kendiliğinden oluş", Spontan Generasyon); diğeri ise "biyogenez" ("kendinden önceki bir canlıdan oluş") dur. Sonraları bir fizikçi olan Francesco Redi'nin ünlü kavanoz çalışması, açık kaptaki ette sinek kurtçuklarının oluşumu ve eti steril ettikten sonra kapalı ortamda ette hiçbir canlının kendiliğinden oluşmadığının gözlemlenmesiyle, burada gerçekleşenin abiyogenez olmadığı ortaya çıktı.
+Bir hücreli canlılarda çoğalma, vejetatif bölünmeyle birleşmiş ve bu sebeble normal vejetatif bölünme aynı zamanda yeni döller meydana getirilmesini de sağlamaktadır. Çok hücrelilerde ise; çoğalma, germinatif hücreler denen özelleşmiş dokuya indirgenmiştir. Somatik /vejetatif hücreler canlıda yapının oluşmasını, gelişmesini sağlayan ve bireyle birlikte ölen hücrelerdir.
+Canlılarda eşeyli ve eşeysiz çoğalma olmak üzere "iki" çeşit çoğalma vardır.
+Eşeysiz üreme.
+Bir canlıdan ayrılan hücre veya hücre grubundan yeni bireylerin oluşturulmasına "eşeysiz üreme" denir. Eşeysiz üremede döllenme olayı olmadığından eşeysiz üreyen canlı oluştuğu canlıya kalıtsal olarak tıpa tıp benzer. Çünkü eşeysiz üreme mitoz bölünme ile gerçekleşir. Ancak mitoz bölünmede olabilecek bir ayrılmama ve mutasyon çeşitlilik sebebidir.
+Eşeysiz üremeye canlıların büyüme bölgelerinden ayrılan hücre veya hücre grupları neden olduğu için aynı zamanda "vejatatif üreme" de denmektedir.
+Tek hücrelilerde bölünerek çoğalma.
+Tek hücreliler bölünerek ürerler. Hücre hacim olarak belirli bir büyüklüğe ulaştıktan sonra bölünerek yeni hücreler oluşturur. Bu yeni hücreler genotip bakımından ana hücrenin aynısıdır. Temeli mitoz bölünmeye dayanan en basit üreme şeklidir. Tek hücreliler ve bazı ökaryotlar bölünerek ürerler.
+Rejenerasyonla (yenilenme) çoğalma.
+Omurgasızlarda mezoderm ve mezoglea tabakası bulunur. Bu tabaka içerisinde embriyonik hücreler vardır. Bu tabakayı taşıyan canlılardan ayrılan bir parça eksik kısımları tamamlayabilmektedir. Örneğin; deniz yıldızından kopan bir kol ana gövdedeki hücreler tarafından tamamlandığı gibi ayrılan kolun içerisindeki hücrelerde koldan yeni bir gövde oluştururlar.
+Bu durum yassı solucanlarda da "(Planarya)" görülür.
+"Rejenerasyon" normalde bir çoğalma tipi değildir. Tahrip sonucu canlıdan ayrılan parçadan yeni birey oluşturulur.
+"Rejenerasyon", kelime anlamıyla yenileme demektir. Canlılardan herhangi bir nedenle ayrılan parçalardan yeni canlılar oluşabilir. Dolayısıyla rejenerasyon bu canlılar için üreme kabul edilir. Omurgalılardaki rejenerasyona bir yaranın iyileşmesi veya kertenkelenin kopan kuyruğunun yenilenmesi örnek olarak verilir. Çünkü kopan deriden yeni bir organizma, kopan kuyruktan da yeni bir kertenkele oluşmamaktadır.
+Tomurcuklanarak çoğalma.
+Bazı canlılarda tomurcuk benzeri çıkıntılar gelişir. Bu kısımlar ayrılarak yeni canlıyı oluşturur.
+"Örneğin; Hidra da bira mayasında ve süngerlerde eşeysiz üremenin bu karakteristik özelliği görülür."
+Vejatatif çoğalma.
+Bazı bitkilerden koparılan bir dal parçası, toprağa dikildiğinde yeni bitki oluşturabilir. Buna çeliklenme ile çoğalma denir. Ayrılan dal parçasının meristem tabakası yeniden kök oluşturduğundan bu parça ayrı bir fert olarak yaşayabilir. Özellikle tarımda verimliliği arttırmak, az zamanda daha çok ve daha kaliteli bitkiler yetiştirmek için kullanılan üretim metodudur.sonucu olarak yeni bir bitki meydana gelir.
+"Örneğin; kavak, çınar, meyve ağaçları, asma; ... gibi bitkiler çelikleme ile üretilir. Özellikle melez olan ve eşeyli üremeyen bitkiler bu şekilde üretilir. 
+Örneğin; Çekirdeksiz üzüm, Washington portakalı, satsuma mandalini gibi."
+Vejatatif üremeye: Soğanların rizomla (küçük kök) üremesi, çileklerin sürüncü gövde ile çoğalması ciğer otunun yapraklarından yeni ciğer otlarının oluşmasnı örnek olarak gösterebiliriz.
+Sporla çoğalma.
+Bazı canlılarda "spor" adı verilen üreme hücresinden yeni bireyler oluşturulur. Buna "sporogoni" veya "sporla üreme" denir.
+Mantarlarda sporla üreme karakteristiktir.
+Bunlara bir örnekte mikroskobik canlılardır.
+Eşeyli üreme.
+Farklı cins iki gametin birleşmesiyle yeni canlının meydana getirilmesine "eşeyli üreme" denir. "Gamet", eşey hücresi olarak tanımlanır. Bir gamet ya dişi eşey hücresidir ("yumurta") ya da erkek eşey hücresidir (polen veya sperm).
+Eşeyli üreyen canlılarda bir çift kromozom takımı bulunur. Bu takımın yarısı anneden yarısı babadan gelir. Bu takım kromozoma "haploid" veya monoploid (n) denir. (n) haploid kromozom takımı gamette bulunur.
+Bir çift kromozom takımına 2n "diploid" denir. Örneğin; insanda 2n=46 sayıda kromozom bulunur. Somatik hücreler (vücut hücreleri) 2n sayıda kromozom taşır.
+Eşeyli üreme sonucunda birbirinden farklı bireyler oluşur. Bu da populasyonlarda varyasyonu (çeşitliliği) arttırır.
+Çeşitliliğin açığa çıkmasını sağlayan faktörler;
+"Eşeyli üreme çeşitleri ;"
+"olayları sağlar. Mutasyonlar ve ayrılmama sık sık gerçekleşen olaylar değildir.
+Eşeyli üreme sonucunda fertlerin ortama uyum özelliği adaptasyon kabiliyetleri ile artar. Örneğin; Paramesyum hücreleri direnç artırmak amacıyla eşeyli üremektedirler."
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vejetatif Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Ana bitkinin olgun parçacıklarının mitoz sayesinde büyüyerek yeni bitkiler oluşturmasına vejetatif üreme denir (Resim 1.32). 
+Bitkilerde bazı dokular sürekli bölünebilme yeteneğine sahiptir. Meristem denilen dokuya ait bu hücreler aynı zamanda vejetatif üremeyi de sağlar. 
+Bitkinin olgun kısmından alınan bir parça uygun ortama dikilecek olursa, bu parçadan kök ve yapraklar çıkarak yeni bitki oluşur. 
+İnsanlar süs bitkilerini ve kültür bitkilerini bu yöntem ile çoğaltırlar. 
+Vejetatif üretim yöntemleri arasında çelikle üretim, aşılama ve klonlama gibi teknikler yer alır. 
+Çelikle üretimde, çelik adı verilen bitki parçasının gelişmesiyle yeni bitki oluşur (Resim 1.33). 
+Çelik, bazen bitkiden alınmış olan küçük bir sürgün, bazen bir yaprak bazen de yumru gövde olabilir (Resim 1.34). 
+Kavak ve söğüt gibi ağaç türleri, çelikten rahatlıkla çoğaltılabilmektedir. Kırmızı elma 150 yıldır çelikle üretimle elde edilen bir çeşittir. Çekirdeksiz üzüm ve muz da aynı yöntemle eşeysiz üretilir. 
+Soğanlı bitkilerde ise ekilen soğan her yıl yeni sürgünler vererek bitki türünün devamını sağlar. 
+Aşılama bir bitkiden alınan dal ya da tomurcuğun yakın türdeki başka bir bitkinin gövdesine nakledilmesiyle gerçekleşir. 
+Aşılanan parça büyüyerek aşının alındığı bitkinin özelliklerini sürdürmeye devam eder. 
+Doku kültürü yöntemleri ile bitkiler klonlanabilir ve aynı genetik yapıya sahip çok sayıda bitki elde edilebilir. 
+Günümüzde bu yöntemle ağaçlar ve çalıların yanı sıra orkidelerin çoğaltılması sağlanmaktadır (Resim 1.35). 
+Bitkilerin eşeysiz üretilme teknikleri tarım alanında günden güne daha etkili rol oynamaktadır. Çekirdeksiz meyve üretimi besin ihtiyacının karşılanmasında oldukça önemlidir. Aşılamayla daha iyi ürün veren bitkilerin ya da daha dayanıklı olan ve tercih edilen özellikleri taşıyan bitki soylarının devamlılığı sağlanabilmektedir. Bir eşeysiz üreme şekli olan aşılama yoluyla, istenilen özelliğe sahip elma, armut, kiraz, vişne, üzüm gibi meyve ağaçlarından aynı özelliklere sahip çok sayıda bitki üretmek olasıdır. Çünkü bu olayın temeli, mitozla çoğalmaya dayanmaktadır.
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kültivar</DOCTITLE>
+<TEXT>
+
+Kültivar, Kültürvaryete olarak da bilinir, doğa da veya fidanlıklarda mutasyon sonucunda ortaya çıkmış olan mutantlardır. (cv.) şeklinde gösterilmektedir.
+Bu mutantlar daha sonra vejetatif olarak çoğaltılabilmekte, özellikleri değişmemektedir. Örneğin: "Picea glauca" cv. 'Conica' Kuzey Amerika ve Kanada'da doğal olarak yetişen "Ak ladin"in bir kültivarıdır. Söz konusu olan bu ladin 30(-40) m'ye kadar boylanabildiği halde, bodur ve kompakt ve de sık dallı; tepeye doğru sivrilen bu formu Kanada'nın güneybatısında 4 adet olarak ortaya çıkmış, 1904 yılında "Arnold Arboretum"na; 1909 yılında da Londra'daki ünlü Kew Garden'e getirilmiş, daha sonra da vejetatif olarak çoğaltılarak tüm dünyaya yayılmıştır.
+Bitkinin Latince adı italik yazıldığı halde, kültivarlar iki tırnak arasında düz harflerle yazılmaktadırlar. Baş harf daima büyüktür.
+Örneğin: "Abies nordmanniana" cv. 'Aurea' : Yaprakları sarı, alacalı kültivarını ifade etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotoperiyodizm</DOCTITLE>
+<TEXT>
+
+Fotoperiyodizm, bitkilerin günlerin uzunluğuna bağlı olarak gösterdiği gelişim.
+Bitkilerin gelişim gösterdikleri evreye ise fotoperiyot denir.Fotoperiyot,bitkilerde büyüme,gelişme,çiçeklenme,yaprakların dökülmesi ve durgunluk döneminin başlaması gibi fizyolojik olayları etkilemektedir.Ayrıca gün uzunluğu bazı bitkilerin dünya üzerindeki yayılışını da belirler.
+Gece ve gündüz uzunluğunun yıl içindeki çevrimi, bitkilerin büyümesini ve çiçeklenmesini doğrudan etkiler. 
+Fotoperiyodizme göre 3 tür bitki vardır:
+1)Kısa gün bitkileri(c4 bitkileri):13-14 saatten az fotoperiyotta çiçeklenme olurken, daha uzun ışık sürelerinde yapraklanma (vejetatif büyüme) görülür.Mısır, darı, çeltik, sorgum vs...( yalnızca kısa gunlerde çiçeklenirler veya bu bitkilerde çiçeklenme kısa günler tarafından daha da aktifleştirilirler.)
+2)Uzun gün bitkileri(c3 bitkileri): 13-14 saatten fazla ışık almaya başlayınca çiçek açar; daha az sürelerde ise ancak vejetatif olarak gelişirler.(yapraklanma gösterirler)Arpa, buğday, yulaf, yonca vs...(yalnızca uzun günlerde çiçeklenirler veya çiçeklenmeleri uzun günler tarafından daha da aktifleştirilir.)
+3)Nötr bitkiler:fotoperiyot süresine bağlı olmaksızın çiçek açan bitkilerdir.Pamuk, tütün, ayçiçeği vs...
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Otonom sinir sistemi</DOCTITLE>
+<TEXT>
+
+Otonom sinir sistemi ya da özerk sinir sistemi, periferik sinir sisteminin, istemsiz yapılan hareketleri ve organ fonksiyonlarının kontrolünü gerçekleştiren bölümüdür. Kalp hızı, sindirim, solunum, tükrük salgılanması, terleme, işeme fonksiyonu, cinsel uyarılma gibi durumlarda istem dışı etkilidir. Visseral sinir sistemi veya vejetatif sinir sistemi olarak da bilinir. Parasempatik sinir sistemi ve sempatik sinir sistemi olarak ikiye ayrılır.
+Otonom sinir sistemine biyolojik yaşamla yakınlığından dolayı Vejetatif (bitkisel) sinir sistemi denir. Organlarla ilgili olmasından Visseral sinir sistemi denir. Otonom sinir sistemi, sinir sistemini kalp kası, damarlar, akciğerler ve organların düz kasları ile dış salgı bezleri gibi isteğimiz dışında çalışan organları innerve eden bölümdür.
+Sempatik sinir sistemi.
+Sempatik sistem doku ve organlara gönderdiği sinyallerle genel olarak vücudun aktivitesini, enerji tüketimini artırıcı yönde hareket eder. Örneğin sempatik sinirler kalbin çalışma hızını ve atardamarlardaki kan basıncını artırır.
+Sempatik sistem aynı zamanda organizmanın korku, öfke, dehşet, heyecan ve şiddetli ağrı gibi stres yaratan durumlarda tepki oluşturmasını sağlar. Örneğin kas aktivitesi gerektiren stres durumlarında, hipotalamusun uyarılmasıyla sempatik sistem organizmada bazı değişikliklere yol açar. Bunlardan bazıları kandaki glikoz yoğunluğunun artışı, atardamarlarda kan basıncının yükselmesi ve kas gücünün artmasıdır. Bu değişiklikler organizmanın stresle baş etmesinde etkili olur.
+Sempatik sinir sistemi nöronları, medulla spinalisin torakal ve lumbal bölgesindeki ön ve arka boynuzunda bulunur. Sempatik nöronlardan çıkan sinir lifleri, spinal sinirin ön kökleri içerisinde medulla spinalisi terk ederek spinal sinirin yapısına katılırlar. Bu lifler, vertebraların her iki tarafında bulunan truncus sympathicusa gelirler. Burada bulunan ganglionlara gelen sinir liflerinin bazıları buradaki nöronlarla sinaps yaparlar. Bazıları ise doğrudan organa giderler.
+Parasempatik sinir sistemi.
+Parasempatik sinir sistemi hareketlerimizi yavaşlatır. Parasempatik sistem doku ve organlara gönderdiği sinyallerle genel olarak vücutta enerjinin korunmasını sağlayacak yönde etki eder. Örneğin kalp atışının yavaşlaması, sindirimin artması gibi.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitki yayılışı</DOCTITLE>
+<TEXT>
+
+Bitki yayılışı, olarak da bilinir, Ernest Haeckel tarafından koroloji şöyle tanımlanmıştır: Belirli direy ve bitey alanlarındaki sistematik birimlerin coğrafi dağılışları, kökenleri ve bunların değişmelerinin araştırılmasıdır. 
+Bitkiler uygun çevre şartlarının bulunduğu yerleri örterek yaşama alanlarını çizmiş olurlar. Böylece türlerin ilk yaşamaya başladığı yerlere gen merkezi (çıkış merkezi) adı verilir. Örneğin "Verbascum"'un (sığırkuyruğu) gen merkezi orta Anadolu'dur.
+Bitkilerin dağılışı ve göçü her ne kadar birbirine sıkıca bağlı ise de faaliyetleri farklıdır. Dağılış, bitkinin bulunduğu çevreden tohumlarla yayılması ve yeni yerlere ulaşmasıdır. Oysaki göç bir gelişmeyi içerir. Dolayısıyla dağılış, göçün gerekli habercisidir ve yeni çevre kazanılmasının sona ermesidir. Doğada tohumla yayılma yapan taksonomik birimlerin sayısı azdır. Yayılmayı ve göçü sağlayan bitki kısımlarına Diaspor denir.
+Diasporlar, yer değiştirme yeteneğinde olup genellikle üreme organlarıdır. Örneğin spor, tohum veya meyve gibi. Birçok hallerde diasporlar vejetatif kökenli özel organlar olabileceği gibi bitkinin değişikliğe uğramış kısımları, bitkinin tümü hatta bitki grupları da olabilir.
+Genellikle aynı bitki veya aynı birey değişik tipte diaspor meydana getirebilir. Böylece kuzey yarım kürenin mutedil bölgelerinde orman ağaçlarının büyük bir kısmı örneğin meşe ve göknar normal olarak tohum üretirler, fakat bunlar dip sürgünü, çelik veya diğer aktif olan vejetatif kısımlarla da üreyebilir. Bundan başka birçok koloni yayılma gösterir. Örneğin "Phragamines" (su kamışı) dünyanın büyük bir kısmına yayılmıştır. Su kamışı bu yayılmayı tüysü meyvesi ile rüzgarlarla ve az çok yüzebilen rizomlarla, su ile de yapabilirler.
+Bu arada bir kısım bitkiler çok fazla yayılma olanaklarına sahip iken, bir kısmı bundan yoksundur. Bitki türlerinin coğrafi alanlara yayılış şekilleri takım, familya,cins, ve türlere göre çok değişiktir. Yayılma ve çoğalma imkânları en fazla olan talli bitkilerdir. (Bakteriler, Mantarlar ve Algler); buna karşılık Fanerogamların (Çiçekli bitkiler) yayılma ve çoğalma olanakları daha sınırlıdır. Tohumlu bitkiler aktif ve pasif olmak üzere iki şekilde yayılırlar.
+Aktif yayılma (otokori): Bitkiden oluşan tohumun yine aynı bitkinin kendi olanaklarını kullanarak yere düşüp etrafa yayılmasıyla olur.
+Pasif yayılma (allokori): Tohumların taşıyıcılar tarafından başka yerlere götürülmesiyle olur.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vallisneria</DOCTITLE>
+<TEXT>
+
+Vallisneria, ("Antonio Vallisneri onuruna adlandırılmıştır." ) yaygın olarak eelgrass adıyla bilinen şerit çim veya Vallis cinsi tatlı su bitkisidir. 6 ila 10 çeşidi bulunmaktadır ve soğuk bölgelerde büyümez.
+"Vallisneria" su altında vejetatif olarak üreyen bir bitkidir ve bazen su altı çayırları oluşturur. Yapraklar kendi köklerinden kümeler halinde ortaya çıkar. Yaprakların ortasında belirgin yuvarlak damarlar vardır ve kökten itibaren inceden kalın yuvarlak biçimde büyür. Tek başına dişi ırk bitkiler uzun saplıdır ve su yüzeyine kadar büyürler. Erkek bitkilerin ise kısa sapları üzerinde büyür ve müstakil halde su yüzeyine çıkarlar. Meyvesi çok küçüktür ve muza benzer bir kapsül içerisinde bulunur. Bazen bu bitkiye çok benzeyen ve su altında yetişen "Sagittaria" ile karıştırılırlar. Ayrıca bu bitki "Zostera" türleri ile karıştırılmamalıdır. Ayrıca denizlerde yetişen "Seagrass"ler ile "eelgrass" ortak adını paylaşırlar. 
+Akvaryumlarda kullanımı.
+Çeşitli "Vallisneria" şuşları tropikal ve subtropikal akvaryumlarda bulunabilir. Bunlar bitkinin "Vallisneria tortifolia" gibi cüce şekilleridir. Yaklaşık olarak 15-20 cm. boyundaki bitkilerin çevresi sıkı bir şekilde kıvrılmış yaprakları ile çevrili olur. Veya "Vallisneria spiralis" gibi yapraklarının uzunluğu 30-60 cm. arasında değişen türlerinin kullanımı da oldukça popülerdir. En büyük türlerine ise ne olursa olsun taksonomik amaçlı "Vallisneria gigantea" denilmektedir. Aslında "Vallisneria gigantea" olarak satılan bitkilerin pek çoğu "Vallisneria americana" türüdür. Bu dev yapraklı bitkiler çok büyük tanklar için uygundur ve yapraklarının uzunluğu genellikle 1 metre civarında olur. Ancak türü ne olursa olsun, oldukça dayanıklı olmasına karşın bu bitki kökünden kolayca sökülebildiği için büyük tanklarda kullanımı daha uygundur.
+Birkaç istisna dışında, yaygın olarak kullanılan "Vallisneria" hoşgörülü ve çevresine kolayca adapte olabilen bir bitkidir. Tür iyi bir ışıklandırma altında hızlı bir büyüme gerçekleştirirken, orta ışık altında yavaşta olsa iyi bir büyüme oranına sahiptir. Akvaryum tabanı hakkında pek seçici olmayan bu bitkiler düz çakıl olarak kabul edilen demir açısından zengin gübreye sahip zeminde yetişirler ve akvaryuma düzenli aralıklarla su eklenmesi gereklidir. Zemine yerleştirilmesinin ardından vejetatif üreme yaptığından dolayı kolay bir şekilde yetiştiriciliği yapılabilir. Bitki kendi köklerini oluşturduktan sonra, yanında yeniden yetişen yeni bitkiler kesilerek başka bir yere nakledilebilir. "Vallisneria" çok asitli sulardan hoşlanmaz ve alkali su koşulları bitki için doğal kabul edilir. Karbondioksit gübrelemesine ise gerek duymaz. Bitki Acı su akvaryumlarına da hoşluk gösteren bir yapıdadır ancak suyun özgül ağırlığının 1.003'ü aşmaması gereklidir. (Normal deniz suyunun tuzluluk oranı yüzde 10 civarındadır.)
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dişi organ</DOCTITLE>
+<TEXT>
+
+Dişi organ, Ginekeum olarak da bilinir, Angiosperm çiçeğinin en iç dairesini meydana getiren pistillerin toplamı. Bir pistil ovaryum, stilus (dişicik borusu) ve stigma olmak üzere 3 kısımdan oluşmaktadır.
+Angiospermlerde pistiller karpellerden meydana gelmiştir. Tohum taslakları gymnospermlerdeki gibi açıkta olmayıp karpeller tarafından sarılmıştır.
+Pistillerin stigması polenleri tutacak şekilde papiller yapıdadır, bazen parçalı da olur. Stilus stigma ile ovaryum arasında yer alır. Silindir şeklinde uzun kısımdır, bu kısım bazen eksik, bazen dallanmış da olabilir. Stilus genellikle ovaryumun tepesinden çıkar, bazen de 
+tabanında çıkar (Ballıbabagillerde olduğu gibi), bu taktirde ginobazik adını alır.
+Ovaryum pistilin şişkin olan ve içinde tohum taslaklarının (ovül) bulunduğu kısımdır. Ovaryum karpellerden meydana gelmiştir. Ovaryumu meydana getiren karpeller tek olabildiği gibi, çok sayıda da olabilirler. Ovaryum tek karpelden meydana geldiğinde bu karpelin iki kenarı birbiri ile birleşmiştir. Birden fazla karpelden meydana gelmişse, karpellerin kenarları birbiri ile birleşerek tek pistil oluşturmuşlardır.
+Bir çiçekte ginekeum meydana getiren karpeller serbest veya bileşik olabilir, karpeller serbestse her karpel bir pistil meydana getirir, bileşikse hepsi birlikte bir pistil meydana getirir.
+Ovaryum ile ilgili terimler.
+Karpeller serbestse apokarp ovaryum, bileşikse sinkarp ovaryum olarak adlandırılırlar.
+Ovaryum genellikle sapsızdır, doğrudan doğruya çiçek tablasına (resaptakulum) tutunur. Bazı bitki çiçeklerinde kısa veya uzun bir sapa sahiptir, bu sapa ginofor adı verilir. Bu sapın tepesinde ginekeumla birlikte androkeumda mevcutsa androginofor adını alır. Ovaryumun içinde tohum taslakları yer alır, bunlar karpellerin kenarlarına plasenta adı verilen noktalara bağlanmışlardır. Tohum taslaklarının ovaryum içindeki dağılış tarzına plasentalanma adı verilir. Tohum taslakları, döllenmeden sonra tohumu meydana getiren
+yapılardır. Bunlar funikulus adı verilen bir sapla plasentaya bağlanırlar. Tohum taslağı (ovül), embriyo kesesi ve onu saran nusellus ve nusellusun dışında yer alan 1 veya 2 integumentten oluşur.
+Kapalı Tohumlu Bitkilerde Çift Döllenme.
+Tohum taslakları içinde yer alan embriyo kesesi başlangıçta tek hücreden ibarettir, gymnospermlerdeki makrospora karşılıktır. Embriyo kesesi ana hücresinin (makrospor anahücresi) mayoz bölünmesi ile meydana gelmiştir. Dolayısıyla haploittir. Art arda 3 mitoz bölünme ile 8 nukleus meydana gelir, bunlardan 3’ü mikropil tarafında kalır, 3’ü
+karşı kutupta, kutuplardan gelen 2 nukleus da ortada birleşir ve embriyo kesesi sekonder nukleusunu meydana getirir. Mikropil tarafındaki nukleuslardan ortadaki yumurta nukleusu, diğerleri de sinergit hücrelerinin nukleusunu oluştururlar. Karşı kutuptakilerde antipot
+hücreleridir. Bu şekilde embriyo kesesi döllenmeye hazırdır.
+Pistilin stigması üzerine çeşitli vasıtlarla gelen polenlerin çimlenmesi ve gelişmesi ile oluşan sperma nukleusları döllenmeyi sağlar. Stigma yüzeyinde şeker, protein ve büyüme maddelerinin bir kısmından oluşan salgılar oluşur. Polenler stigma yüzeyine geldiği zaman, bu salgı maddeleri polenlerin çimlenmesini teşvik eder. Polen tanesinin dış zarı şişer ve porlardan polenin vejetatif hücresi dışarı çıkarak stilusdan aşağıya doğru polen tüpünü meydana getirir. Polen tüpü stilusu
+katederek ovaryumdaki ovüllere kadar ulaşır. Genellikle ovüllerin mikropilinden uzanarak nusellusu geçer ve embriyo kesesine ulaşır. Polen tüpü embriyo kesesine ulaştığında embriyo kesesi içine 2 sperma nukleusunu bırakır. Sperma hücrelerinden biri yumurta hücresi ile 
+birleşir zigot meydana gelir, ikinci sperma nukleusu embriyo kesesi sekonder nukleusu ile birleşir ve besidoku (endosperm) meydana gelir.
+Stigma üzerinde çimlenen ve polen tüpünü meydana getiren polenler, önce tek nukleusludurlar, polen tüpü stilusu katederek tohum 
+taslağının mikropilinden içeriye girip embriyo kesesine ulaştığında 2 sperma nukleusuna sahiptir. Polen tüpü embriyo kesesinin sinergitlerinin bulunduğu kısma ulaşır ve içindeki sperma nukleuslarını buradan embriyo kesesine bırakır. Bundan sonra angiospermlerin önemli
+karakteristiği olan çift döllenme vukua gelir. Sperma nukleuslarının biri ile yumurta hücresinin birleşmesi ile meydana gelen zigot embriyoya gelişirken, ikinci sperma nukleusu ile embriyo kesesi sekonder nukleusunun birleşmesinde besidoku (endosperm) meydana gelmiş olur. 
+Ovülleri saran integumentler de tohum kabuğuna dönüşerek tohum gelişmesi tamamlanmış olur. Bu gelişmeye paralel olarak da ovaryumu meydana getiren karpellerde farklılaşarak meyveyi oluşturur.
+
+</TEXT>
+</DOC>
+

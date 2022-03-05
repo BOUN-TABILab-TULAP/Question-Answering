@@ -1,0 +1,135 @@
+Navier-Stokes denklemleri
+Fizikte, Navier-Stokes [], Claude-Louis Navier ve George Gabriel Stokes, sıvı maddelerin hareketini açıklamak adını denklemler. Bu denklemler bir araya sıvısında stres (hızın degrade orantılı) bir difüzyon viskoz terimin toplamı olduğu varsayımına ve basınç dönem dolayısıyla açıklayan "viskoz akışı" ile, sıvı harekete Newton'un ikinci yasasını uygularken ortaya çıkar.
+bilimsel ve mühendislik ilgi birçok şey fizik tarif çünkü denklemleri yararlıdır. Bir kanat etrafında bir boru ve hava akımı hava, okyanus akıntıları, su akışını modellemek için kullanılabilir. Tam ve basitleştirilmiş formlarda Navier-Stokes denklemleri uçak ve otomobil, kan akımı, elektrik santralleri tasarımı, kirlilik analizi ve diğer pek çok şey çalışmanın tasarımı ile yardımcı olur. Maxwell denklemlerinin ile birleştiğinde onlar modelleme ve magnetohydrodynamics incelemek için kullanılabilir.
+Navier-Stokes denklemleri tamamen matematiksel anlamda büyük ilgi bulunmaktadır. Biraz şaşırtıcı pratik kullanımları onların geniş verilmiş, henüz üç boyut çözümler her zaman (varlığını) mevcut onlar var yoksa, ya da, daha sonra herhangi bir tekilliği içermiyor o kanıtlanmamıştır (onlar düzgün). Bunlar Navier-Stokes varlığı ve pürüzsüzlük sorunları denir. Clay Matematik Enstitüsü matematik yedi en önemli açık sorunlardan biri bu çağrıda bulundu ve bir çözüm veya bir karşı-örneğin ABD $ 1.000.000 ödül teklif etti.
+Hız alanı.
+Navier-Stokes denklemlerinin çözümü bir hız değil konumdur. Bu uzay ve zaman içinde belirli bir noktada sıvının hızının bir açıklama bir hız alanı veya akış alanını denir. Hız alanı gibi akış hızı veya sürükleme gücü olarak diğer ilgi çekici miktarlarda, için çözülmüştür sonra, bulunabilir. Bu normalde çözümler genellikle bir süreklilik, bir parçacığın veya sapma pozisyon yörüngeleri olan klasik mekanik, gördüklerine farklıdır. Yerine pozisyonun incelenmesi hızı bir akışkan için daha mantıklı; Ancak görselleştirme amaçlı bir tane çeşitli yörüngeleri hesaplayabiliriz.
+Özellikleri.
+Doğrusalsızlık.
+Navier-Stokes denklemleri neredeyse her özelliği gerçek durum doğrusal olmayan kısmi diferansiyel denklemler vardır. Bazı durumlarda, örneğin tek boyutlu akış ve Stokes akışı (ya da sürünen akış) olarak, denklemler lineer denklem basitleştirilmiş olabilir. nonlineerlik zor ya da çözmek imkansız en sorunları yapar ve türbülans denklemleri modeli ana katkıda bulunuyor.
+doğrusalsızlık pozisyonunda üzerinde hız değişiklik ile ilişkili bir ivme konvektif ivme, kaynaklanmaktadır. Bu nedenle, herhangi bir konvektif akış, türbülanslı olsun ya da olmasın, lineer olmayan içerecektir. Konvektif laminar (nonturbulent) akış bir örneği, bir küçük bir yakınsak meme aracılığıyla, bir zor akışlı sıvı geçidi (örneğin, yağ) olacaktır. Genellikle iyice okudu ve anlaşılabilir tam çözülebilen olsun ya da olmasın bu tür akımlar.
+Türbülans.
+Türbülans, birçok sıvı akışlarının görülen zamana bağlı kaotik bir davranıştır. Genellikle bir bütün olarak sıvı atalet nedeniyle olduğuna inanılmaktadır: zaman-bağımlı ve konvektif ivme doruk noktası; atalet etkileri küçük laminer olma eğilimi nerede dolayısıyla akar (Reynolds sayısı akış atalet tarafından etkilenir ne kadar rakamlarla). Kesin olarak bilinmemekle olsa Navier-Stokes denklemleri düzgün türbülansı açıklayan, inanılmaktadır.
+Navier-Stokes sayısal çözümü türbülanslı akış son derece zor ve bağlı türbülanslı akış katılan önemli ölçüde farklı karıştırma uzunlukta ölçeklere, bu kararlı bir çözüm hesaplama süresi önemli ölçüde olur böyle bir ince gözenekli çözünürlüğü gerektirir için denklemler hesaplama veya doğrudan sayısal simülasyonu için olurlu. Girişimleri çözücü tipik uygun yakınsama başarısız bir zaman kararsız çözelti, neden bir laminer kullanarak türbülanslı akış çözmek için. Türbülanslı akışları modelleme yaparken bu karşı, böyle bir türbülans modelleri ile desteklenmiş Reynolds ortalamalı Navier-Stokes denklemlerinin (RANS) gibi zaman-ortalamalı denklemler, pratik hesaplamalı akışkanlar dinamiği (CFD) uygulamaları kullanılmaktadır. Bazı modeller RANS denklemlerine kapatma getirmek için ek denklem çeşitli eklemek Spalart-Allmaras, k-ω (k-omega), k-ε (k-epsilon) ve SST modellerini içerir. Büyük girdap simülasyonu (LES) ayrıca sayısal bu denklemleri çözmek için kullanılabilir. Bu yaklaşım hesaplama daha pahalı-zaman ve bilgisayar belleği-daha RANS olduğunu, ancak açıkça daha çalkantılı ölçekler giderir çünkü daha iyi sonuçlar üretir.
+Uygulanabilirliği.
+Birlikte (örneğin, kütlenin korunumu) ek denklemler ve iyi formüle sınır koşulları ile, Navier-Stokes denklemleri doğru sıvı hareketi model gibi görünüyor; Hatta türbülanslı akışlar gerçek dünya gözlemlerine katılıyorum (ortalama) gibi görünüyor.
+Navier-Stokes denklemleri çalışılan sıvının sürekli bir (sonsuz bölünebilir ve bu atomlar veya moleküller gibi taneciklerin oluşan değildir), ve göreli hızlarda hareket olmadığını varsayalım. Aşırı koşullarda çok küçük ölçeklerde veya altında gerçek sıvılar Navier-Stokes denklemlerinin ile modellenen sürekli sıvıların farklı sonuçlar üretecektir ayrık moleküllerden yapılmış. Sorunun Knudsen sayısına bağlı olarak, istatistiksel mekanik ve hatta moleküler dinamik daha uygun bir yaklaşım olabilir.
+Başka bir sınırlama sadece denklemlerin karmaşık doğası. Zaman test formülasyonlar yaygın sıvı aileleri için var, ama daha az yaygın ailelere Navier-Stokes denklemlerinin uygulanması çok karmaşık formülasyonlar ile sonuçlanması ve genellikle araştırma problemlerini açmak eğilimindedir. Bu nedenle, bu denklemler genellikle viskozite modeli doğrusaldır Newton sıvılar için yeniden yazıldı edilir; (kan gibi) sıvıların diğer tür akışı için gerçekten genel modeller 2012 itibariyle, yok, yok.
+Türev ve açıklama.
+Navier-Stokes denklemlerinin türetilmesi Newton'un ikinci yasasının bir uygulama ile başlar: (kütle ve enerji korunumu genellikle yanında) sıvının keyfi kısmı için yazılan momentumun korunumu. Bir referans Eylemsiz sıvı hareket denklemlerinin genel biçimidir:
+nerede
+Bu sıvının içinde momentumun korunumu bir ifadedir ve bir süreklilik için Newton'un ikinci yasasının bir uygulamadır; Aslında bu denklem herhangi relativistik olmayan süreklilik uygulanabilir ve Cauchy ivme denklemi olarak bilinir.
+Bu denklem, genellikle, maddi türevi "D" v / "Dt" kullanılarak yazılmış bu Newton'un ikinci yasasının bir ifadesi olduğunu daha belirgin yapıyor:
+Denklemin sol tarafında bir hızlandırma açıklar ve (eğer mevcut ise olmayan eylemsiz koordinatları etkilerini) zamana bağlı ya da konvektif etkileri oluşabilir. denklemin sağ yan etkisi vücut (örneğin yerçekimi gibi) güçleri ve stres (basınç ve kayma gerilmesi) sapma bir toplamıdır.
+Konvektif ivme.
+Uzay ile ilgili bir sıvının zamandan bağımsız hızlanma etkisi: Navier-Stokes denklemlerinin önemli özelliği, konvektif ivme varlığıdır. Bireysel sıvı parçacıkların gerçekten tecrübe zamana bağlı hızlanma, akış alanının konvektif ivme mekansal etkisi olmakla birlikte, bir ağızlık sıvı hız yapmayı kadar varlık bir örnek.
+Ne olursa olsun sıvı tür ele ediliyor ne, konvektif ivme doğrusal olmayan etkisidir. Konvektif ivme (istisnalar tek boyutlu sıkıştırılamaz akış dahil) çoğu akışlarının mevcut, ama onun dinamik etkisi (aynı zamanda Stokes akışı denir) akış sürünen göz ardı edilir. Konvektif ivme doğrusal olmayan miktar ile temsil edilmektedir:
+Her iki yorumlar aynı sonucu verir formula_12 hız vektörünün formula_11 tensör türevi ile formula_9 veya formula_10 olarak da yorumlanabilir olan koordinat sisteminin bağımsız olarak - Resim formula_6 bildirdiğinden türevi olarak yorumlanır.
+(V · ∇) v olarak yorumlanması.
+konveksiyon terim genellikle olarak yazılır
+adveksiyon Operatör formula_15 burada kullanılır. Genellikle bu temsili, tensör türevi formula_16 açısından daha basittir tercih edilir
+V olarak yorumlanması · (∇v).
+İşte bileşen tarafından bileşenli degrade kartezyen koordinat eşit hız vektörünün tensör türevi, formula_11 olduğunu. Bir vektörün gradyan formula_18 olarak tanımlanır, yani bu formula_19 olan unutmayın.
+Çevrintisiz akışında.
+konveksiyon terim, bir vektör hesabı kimliği ile, bir tensör türevi olmadan ifade edilebilir:
+Form hızının kıvırmak (adlandırılır girdap) formula_21 sıfıra eşit çevrintisiz akışı kullanmak vardır. Bu nedenle, bu sadece azaltır
+Gerilmeler.
+sıvı stres etkisi formula_23 ve formula_24 bakımından ile temsil edilir; Bu katı olarak stresleri benzer yüzey kuvvetleri degradeler vardır. İşte formula_23 basınç farkı denir ve düzeni iki sahiptir Cauchy gerilme tansörünün izotropik parçası doğar edilir. Bu bölüm, neredeyse tüm durumlarda, dinamik ya da değil turn up, normal gerilmeleri tarafından verilmektedir. gerilme tensörü anizotropik kısmı geleneksel viskoz kuvvetleri açıklar formula_24, yol açar; sıkıştırılamaz akış için, bu sadece bir kesme etkisidir. Böylece, formula_4 deviatorik stres tensör ve stres tensör eşittir:
+nerede formula_29 3 × 3 birim matristir. Navier-Stokes denklemlerinin, basınç konularda sadece "gradyan" değil, basınç kendisi. akış basınç gradyanı etkisi düşük basınca yüksek basınçtan yönde sıvı hızlandırmaktır.
+Stres terimleri, "p" ve formula_4 henüz bilinmeyen nedenle hareket denklemlerinin genel biçimi sorunları çözmek için kullanılabilir değil. Hareket-Newton'un ikinci yasası-bir kuvvet modelinin denklemleri yanında sıvı hareketi gerilmeleri ilgili ihtiyaç duyulmaktadır. Bu nedenle, doğal gözlemlere dayanarak varsayımlar genellikle hız ve yoğunluk gibi başka akış değişkenleri açısından gerilmeler belirlemek için uygulanır.
+Navier-Stokes denklemleri deviatorik stres tensör formula_4 aşağıdaki varsayımlardan kaynaklanan:
+Bunun bir sonucu olarak, deviatorik gerilme tensörü aşağıdaki forma sahiptir:
+hız-of-suşu tansörünün izotropik olmayan parçası olmak parantez miktar dinamik viskozitesi formula_40 ile "μ" sabit olması gerekmez - genel olarak, bu türbülans modelleme, girdaba, sıcaklık ve basınç gibi koşullara bağlıdır ve viskozite ortalama deviatorik stresi yakındır.
+Basınç, "p" devlet bir denklem ile modellenmiştir. Sıvı elemanların hacmi sabittir, böylece bir sıkıştırılamaz akış özel bir durum, basınç akışı kısıtlar: formula_41 bir solenoidal hız alanı ile sonuçlanan izokorik akışını
+Diğer kuvvetler.
+vektör alanı formula_5 vücut kuvvetlerini temsil eder. Tipik olarak, bu, sadece yerçekimi kuvvetleri oluşur, ama elektromanyetik kuvvetler gibi başka araçlar da içerebilir. Olmayan atalet çerçeveleri koordinat dönen koordinatları ile ilişkili diğer "güçler" ortaya çıkabilir.
+Genellikle, bu güçler tutucu kuvvetleri olarak adlandırılır ki bu durumda formula_44 bazı skalar miktar formula_43 gradyanı olarak temsil edilebilir. "Z" yönünde yerçekimi, örneğin, formula_45 gradyan olup. Böyle yerçekimi gelen basınç sadece bir gradyan olarak doğar, çünkü biz olmak Navier-Stokes denkleminin sağ tarafındaki basınç ve kuvvet açısından formula_46 vücut gücü olarak basınç vadede bunu içerebilir
+Diğer denklemler.
+Navier-Stokes denklemleri kesinlikle momentumun korunumu bir ifadesidir. Tamamen sıvı akışını tanımlamak için, daha fazla bilgiye ihtiyaç, ne kadar yapılan varsayımlara bağlı. Bu ek bilgiler sınır verileri (no-slip, kılcal yüzey, vb), kütlenin korunumu, enerjinin korunumu ve / veya devletin bir denklem içerebilir.
+Süreklilik denklemi.
+Ne olursa olsun akış varsayımlar, kütlenin korunumu bir açıklama genellikle gereklidir. Bu şekilde en genel formda verilen kitlesel süreklilik denklemi ile elde edilir:
+veya, maddi türevi kullanılarak:
+Newtoncu akışkanların sıkıştırılamaz akışı.
+Denklemler Bir Newton tipi sıvı sıkıştırılamaz akış durumunda basitleştirilmiştir. Sıkıştırılamazlık ses yayılım veya şok dalgaları dışladı, bu nedenle bu olayların ilgi iseniz bu sadeleştirme kullanışlı değildir. sıkıştırılamaz akış varsayımı genellikle hatta bir "sıkıştırılabilir" sıvıyla iyice tutar - Böyle oda sıcaklığında hava gibi - düşük Mach sayılarında kadar Mach 0.3 yaklaşık. Sıkıştırılamaz akış ve sürekli akışkanlığa sahip, Navier-Stokes denklemleri okuma
+tensör gösterimde:
+Burada ön işlemi yer çekimi ve merkez kaç kuvveti gibi (birim hacim başına) "Diğer" beden kuvvetleri temsil eder. kayma gerilmesi terimi formula_50 formula_52 vektör Laplacian olan formula_51, olur.
+Her dönem (Cauchy ivme denkleme karşılaştırın) anlamını gözlemleyerek de değer:
+Sadece konvektif terimler sıkıştırılamaz Newton akış için doğrusal olmayan bulunmaktadır. Konvektif ivme sıvı bir yakınsak memesi girme hızlanması, örneğin, "konumunda" üzerinde hızında bir (muhtemelen sabit) değişiklikten kaynaklanır. Bireysel sıvı parçacıklar kararsız hareket altında böylece hızlandırılmış ve olmasına rağmen, akış alanı, bir hız dağılımı, mutlaka zamana bağımlı olmayacaktır.
+Bir diğer önemli bir gözlem noktasında hız ve küçük bir çevreleyen hacim içinde ortalama hızı arasındaki fark olarak yorumlanabilir hız alanının vektörü Laplacian'ın, ile temsil edilir viskozitesidir. Bir Newton tipi sıvı için - - Bu ifade eder viskozitesi kadar, bir "momentum difüzyon" olarak da Laplacian'ın ifade ısı denklemi ısı difüzyonu gibi aynı şekilde çalışır.
+Sıcaklık etkileri de ihmal ise, ihtiyaç duyulan (dışında başlangıç ​​/ sınır koşulları itibaren) sadece "öteki" denklemi kitle süreklilik denklemi olduğunu. Sıkıştırılamamazlıkına varsayımı altında, bir sıvı parçacık yoğunluğu sabittir ve maddi türevi kullanırken süreklilik denklemi için kolaylaştırır kolayca aşağıdaki gibidir:
+Bu daha spesifik hacim (sapma ve izokorik süreci bakınız) korunması bir ifadedir.
+Kartezyen, silindirik ve küresel: 3 koordinat sistemlerinde Bu denklemler yaygın olarak kullanılmaktadır. Kartezyen denklemler yukarıdaki denklemden vektör doğrudan takip etmek gibi görünse de, Navier-Stokes denkleminin vektör biçimi, diğer koordinat sistemlerinde yazıyorum gibi sayıl denklemler için (bunu yaparken kadar basit olmadığı anlamına gelir bazı tensör hesabı gerektirir ısı denklemi).
+Kartezyen koordinatlar.
+Hız vektörü formula_55 olarak genişletilmiş, biz açıkça vektör denklemi yazabilirsiniz,
+Bu yerçekimi vücut kuvveti ve "gx", "gy" değerleri olarak "gz" koordinat seçilen setine göre yerçekimi yönüne bağlıdır sorumluydu edilmiştir unutmayın.
+süreklilik denklemi okur:
+Akış sıkıştırılamaz olduğunda, formula_2 herhangi bir sıvı parçacık için değişmez ve maddi türevi kaybolur: formula_59. süreklilik denklemi indirgenmiştir:
+hız bileşenleri (için çözülmesi gereken bağımlı değişkenler), tipik olarak, "u", "v", "w" olarak adlandırılır. Dört Bu denklemler sistemi en yaygın olarak kullanılan ve çalışılan formu içerir. Diğer temsiller daha nispeten daha kompakt olmasına karşın, bu çözümler elde etmek zordur oldukları kısmi diferansiyel denklemler doğrusal olmayan sistem hala.
+Silindirik koordinatlar.
+Kartezyen denklemlere değişkenlerin bir değişim "r", formula_61 ve "z" için aşağıdaki ivme denklemleri verecektir:
+Ağırlık parçaları, genel olarak düşey parça, sabit olan ya da başka bu yerçekimi, örneğin yatay boru akış olmadan normal muamele edilmektedir (bir basınç alanı ile etkisiz olduğu varsayılmaktadır, böylece çok uygulama da koordinatlar seçilir, ancak için, sabitleri olmayacak yerçekimi ve dikey basınç gradyanı olmadan). Süreklilik denklemi:
+Navier-Stokes denklemlerinin Bu silindirik gösterimi (yukarıdaki ilk olmanın Kartezyen), ikinci en sık görülür. Silindirik koordinatlar bir hız bileşeni yok, böylece simetri yararlanmak için seçilir. Çok yaygın bir olgu hiçbir teğet hızı (formula_64) varsayımı ile eksenel simetrik akım ve kalan miktarları formula_61 bağımsızdır:
+Küresel koordinatlar.
+Küresel koordinatlarda, "r", "φ" ve "θ" momentum denklemleri olan (kullanılan kuralını unutmayın: "θ" "θ" ≤ π ≤ kutup açısı, ya da colatitude, 0):
+Toplu süreklilik okuyacaktır:
+Bu denklemler (biraz), viskoz terimlerden formula_69 çarpanlarına ayrılması, örneğin, sıkıştırılmış olabilir. Ancak, bunu yaparken arzu edilmeyen Laplacian'ın ve diğer miktarların yapısını değiştirecek.
+Akım fonksiyonu formülasyonu.
+Basınç ortadan kaldırılmasında Navier-Stokes denklemi sonuçlarının curl alarak. Bu 2D Kartezyen akış (formula_70 ve "z" üzerinde herhangi bir şey yok bağımlılığı) denklemleri azaltmak, kabul görmek için, özellikle kolaydır:
+"Y", "x" ve elde edilen denklem çıkarılmasıyla ilgili ikinci göre birinci ayırt basıncı ve herhangi bir konservatif kuvvet ortadan kaldırır. Ile dere fonksiyonu formula_72 tanımlama
+Kitle süreklilik sonuçları koşulsuz sıkıştırılamaz Newton 2D momentum ve kütle korunumu tek denklemin içine yoğunlaşmasına sonra ve (bir sürekli akış fonksiyonu verilmiş) memnun olmak:
+formula_75 (2B) biharmonik operatör ve formula_76 kinematik viskozite, formula_77 olduğu. Biz de kompakt Jakobyan belirleyicisi kullanarak bu ifade edebiliriz:
+Birlikte uygun sınır şartları ile bu tek denklem parametre olarak sadece kinematik viskoziteyi alarak, 2D sıvı akışını açıklar. Not sol tarafı sıfır kabul edildiğinde akış sonuçları sürünen için denklemi söyledi.
+Dönel simetrisi Başka bir akım fonksiyonu formülasyonu akış, Stokes akım fonksiyonu olarak adlandırılan, tek skaler fonksiyonu ile bir sıkıştırılamaz akış hızı bileşenlerini tanımlamak için kullanılır.
+Basınç serbest hız formülasyon.
+sıkıştırılamaz Navier-Stokes denklemi zamanında basıncı ilerletmek için hiçbir açık bir mekanizma olmadığını uygunsuz özelliğine sahip, diferansiyel cebirsel denklem olduğunu. Sonuç olarak, çok çaba tümünü veya hesaplama işleminin bir parçası basıncı ortadan kaldırmak için pek çok araştırma yapılmıştır. akım fonksiyonu formülasyonu yukarıda yüksek türevleri ve ilgi birincil değişken hız, ortadan kaldırılması tanıtılması pahasına (2B) basınç ortadan kaldırır.
+sıkıştırılamaz Navier-Stokes denklemi kompozit, iki dik denklem toplamı,
+nerede formula_80 ve formula_82 tatmin solenoidal ve irrotasyonel projeksiyon operatörleri formula_81 ve
+formula_83 ve formula_84 vücut kuvveti olmayan muhafazakar ve muhafazakar parçalarıdır. Bu sonuç Helmholtz teoremi (ayrıca vektör hesabın temel teoremi olarak bilinir) izler. basınç ikinci denklem hızının fonksiyonel ve basınç Poisson denklemine ilişkin ise ilk denklemi, hız için bir basınçsız bir yönetim denklemdir.
+3D projeksiyon operatörünün açık fonksiyonel formu Helmholtz Teoremi den bulunur
+2B'de benzer yapıya sahip. Böylece yöneten denklem bir integro-diferansiyel denklemi ve sayısal hesaplama için uygun değildir.
+Navier Stokes denklemi ile aynı hız solüsyon elde etmek üzere kanıtlanmıştır denklemin eşdeğer zayıf ya da varyasyon formu, tarafından verilmektedir
+divergence-ücretsiz test fonksiyonları için uygun sınır şartları sağlayan formula_87. Burada, projeksiyonlar solenoidal ve irrotasyonel fonksiyon alanlarının diklik tarafından gerçekleştirilir. Bir sonraki bölümde göreceğimiz gibi, bu ayrık biçimi, sapma serbest akışının sonlu elemanlar hesaplama imminently uygundur. Orada soruyu ele almak mümkün olacak "tek bir basınçsız yönetim denklemi ile basınç tahrikli (Poiseuille) sorunları belirtmek nasıldır?"
+yöneten hız denkleminden basınç kuvvetlerinin olmaması denklemi dinamik bir değil, sapma serbest koşul koruma yasasının rol oynar kinematik denklem olmadığını göstermektedir. Bu, tüm sıkıştırılamaz basınç sapma serbest durumunu zorlar sık ​​ifadeleri çürütmek gibi görünüyor.
+Ayrık hız.
+Sorun etki bölümleme ve bölümlenmiş etki alanında baz fonksiyonlarını tanımlama ile iktidar denklemi ayrık formudur
+Bu sıkıştırılamaz akışın temel özelliği yansıtan baz fonksiyonlarını seçmek için arzu edilir - elemanları sapma arındırılmış olmalıdır. Hız ilgi değişken olmakla birlikte, akım fonksiyonu veya vektör potansiyelinin varlığı Helmholtz Teoremi tarafından gereklidir. Dahası, bir basınç gradyan yokluğunda sıvı akışını belirlemek için, tek bir 2B kanalı, veya 3D kanalı etrafında vektör potansiyeli teğet bileşeni hat integrali genelinde akım fonksiyonu değerleri farkı belirtebilirsiniz, akış verilen Stokes 'Teoremi ile. Tartışma aşağıda 2B ile sınırlı olacak.
+Biz daha en azından ilk türev derece serbestlik var sürekli Hermite sonlu elemanlar tartışmayı kısıtlamak. Bu sayede, tek bir aday üçgen ve plaka eğme literatürden dikdörtgen kesitli eleman çok sayıda çizebilir.
+Bu elementler degrade bileşenleri olarak türevleri vardır. 2B, bir skaler eğimi ve kıvırmak ifadeleri tarafından verilen, açıkça ortogonaldir,
+Türev derece serbestlik değiştirilerek ve uygun bir işareti değiştirerek, sürekli levha bükme elemanları benimseyen akım fonksiyonu elemanlarının birçok aile verir.
+Skaler akım fonksiyonu elemanlarının curl alarak sapma ücretsiz hız unsurlarını verir. Bu arabirimlerdeki sapma kaybolan için gerekli olan akım fonksiyonu elemanları hızının normal bileşeni elemanı arabirimleri arasında sürekli olduğunu sürekli güvence veriyor olması şartı, tüm.
+Sınır koşulları uygulamak kolaydır. akım fonksiyonu no-slip yüzeylerde hız koşulları ile hiçbir akış yüzeylerde sabittir.
+Açık kanallar arasında Akış fonksiyonu farkları akışını belirler. Tutarlı değerler bazı sorunlar ile kullanılabilir olsa hiçbir sınır koşulları, açık sınırları gereklidir. Bunlar Dirichlet koşullardır.
+çözülmesi gereken denklem kurmak için basit, ama tabii ki doğrusallaştırılmış denklemler yineleme gerektiren doğrusal olmayan vardır.
+Benzer düşünceler üç boyutlu uygulanır, ancak 2D uzatma nedeniyle potansiyel vektör doğanın hemen değildir ve degrade ve 2D olduğu gibi kıvrılma arasında basit bir ilişki söz konusudur.
+Basınç kurtarma.
+Hız alanından baskı kurtarma kolaydır. basınç eğimi için ayrık zayıf denklemi, olduğu
+Test / ağırlık fonksiyonları irrotasyonel nerede. Herhangi bir uygun skalar sonlu eleman kullanılabilir. Bununla birlikte, basınç farkı alanı da ilgi çekici olabilir. Bu durumda, bir basınç skalar Hermite öğelerini kullanabilirsiniz. Bir basınç elemanının degrade elde edilen çevrintisiz vektör elemanları seçsin formula_91 test / ağırlık işlevleri için.
+Newtoncu akışkanların sıkıştırılabilir akışı.
+Yakından sıvı sıkışabilirlik ile bağlantılı bazı olaylar vardır. Bariz örneklerinden biri sestir. Bu tür olayların Açıklaması hesabı sıvı sıkıştırılabilirlik içine alır Navier-Stokes denkleminin daha genel bir sunum gerektirir. Viskozite kabul edilirse burada gösterildiği gibi sabit bir ek terim, görünür:
+burada formula_93 ikinci viskozitesidir.
+Belirli problemlerine uygulama.
+Belirli sıvılar için açıkça yazılı bile Navier-Stokes denklemleri, doğada oldukça genel ve spesifik problemlere kendi uygun uygulama çok farklı olabilir. Yüzey gerilimi tarafından tahrik fazlı akış gibi karmaşık statik basınç dağılımı gibi basit uzanan, modellenmiş olabilir sorunların büyük bir çeşitlilik var çünkü bu kısmen.
+Genellikle, belirli sorunlar uygulama bazı akış varsayımlar ve ilk / sınır koşulu formülasyonu ile başlar, bu sorunu daha basitleştirmek için ölçek analizi ile takip edilebilir.
+a)
+Kararlı, paralel, paralel levhalar arasında bir boyutlu olmayan konvektif basınç tahrikli akış varsayalım, ortaya çıkan ölçekli (boyutsuz) sınır değer problemidir:
+sınır koşulu kayma durumdur. Bu sorun kolayca akış alanı için çözülmüştür:
+Bu noktadan itibaren ilgi itibaren daha miktarlarda kolayca viskoz sürtünme kuvveti veya net akış oranı gibi, elde edilebilir.
+b)
+Sorun biraz daha karmaşık hale geldiğinde zorluklar ortaya çıkabilir. Paralel akış görünüşte mütevazı büküm yukarıda paralel plakalar arasında "radyal" akış olacağını; Bu konveksiyon ve böylece doğrusalsızlık içerir. hız alanı uygun olmalıdır bir işlev formula_96 ile temsil edilebilir:
+Bu adi diferansiyel denklem Navier-Stokes denklemleri yazılır ve uygulamalı akış varsayımlar (ayrıca basınç gradyan için çözülmüştür) elde edilen budur. doğrusal olmayan terim bu (eliptik integraller ve kübik polinomların köklerini içeren uzun bir örtük bir çözüm bulunabilir) analitik çözümü çok zor bir problem yapar. Çözümlerin gerçek varlığı ile ilgili sorunlar R> 1.41 için ortaya (yaklaşık, bu 2 karekökü değil), uygun seçilmiş ölçekler Reynolds sayısı olarak parametre R. Bu akış uygulanabilirliğini kaybetme varsayımlar ve zorluk bir örneğinin bir örnek "yüksek" Reynolds sayılı akar.
+Navier-Stokes denklemlerinin tam çözümleri.
+Navier-Stokes denklemlerinin Bazı kesin çözümler mevcuttur. Dejenere vakaların Örnekleri - Navier-Stokes doğrusal olmayan terimlerle sıfıra eşit denklemler - Poiseuille akışı, Couette akışı ve salınımlı Stokes sınır tabakası vardır. Ama aynı zamanda daha ilginç örnekler, tam non-lineer denklem çözümleri, vardır; Örneğin Taylor-Yeşil vorteks için.
+Türbülans yüksek Reynolds sayılarında ortaya çıkabilir: Bu kesin çözümlerin varlığı onlar kararlı anlamına gelmez unutmayın.
+</ Math>
+A ve B keyfi sabitlerdir. Bu çözüm alanı "r" ≥ 1 ve formula_98 için de geçerlidir.
+Kartezyen koordinatlarda, viskozite sıfır (formula_99) 'dir, bu ise:
+Üç boyutlu kararlı hal vorteks çözüm.
+Hiçbir tekillik ile güzel bir kararlı durum örneği Hopf Faybreyşın çizgisinde akışını göz önüne geliyor. R iç bobinine bir sabit yarıçaplı olalım. Çözümlerden biri resim ile elde edilir:
+rasgele sabitleri A ve B için bu Yoğunluğu, hız ve basınç çok orijinden sıfıra gider, ağdalı olmayan gaz (sıkıştınlabilir akışkan) bir çözümdür. (Bu formula_2 bir sabittir sıkıştırılamaz akışkanların atıfta çünkü bu Clay Milenyum soruna bir çözüm değildir Not ne de herhangi bir türbülans özellikleri açısından Navier-Stokes denklemlerinin tekliği ile anlaşma yok.) Aynı zamanda, işaret değer dışarı hız vektörünün bileşenlerinin tam Pisagor dörtlü parametreleriyle olanlardır. Yoğunluk ve basınç Diğer seçenekler, aynı hız alanı ile mümkündür:
+Wyld diyagramları.
+Wyld şemaları temel süreklilik mekaniği bir pertürbasyon genişlemesi yoluyla Navier-Stokes denklemlerinin karşılık grafikleri defter tutma vardır. Kuantum alan teorisi Feynman diyagramları benzer şekilde, bu diyagramlar akışkanlar dinamiği içinde dengesizlik işlemler için Keldysh'e tekniğinin bir uzantısı vardır. Diğer bir deyişle, bu diyagramlar korelasyon sağlayan ve olasılık dağılımları fonksiyonları rastgele yalancı ilişkili rassal süreçleri itaat sıvı parçacıkların etkileşerek çalkantılı sıvılarda (genellikle) çalkantılı olaylara grafikleri atayın.
+Navier-Stokes denklemleri oyunlarda kullanabilirsiniz.
+Navier-Stokes denklemleri doğa olaylarının geniş bir yelpazede modellemek için video oyunları yaygın olarak kullanılmaktadır. Böyle yangın ve duman gibi küçük ölçekli gaz akışkanların, simülasyonları genellikle Stam daha önceki, daha ünlü kağıt "Durağan Sıvılar önerilen yöntemlerden birini ayrıntılarına Jos Stam, seminal kağıt" Oyunlar için Real-Time Akışkanlar Dinamiği "dayanmaktadır "Stam 1992 yılında önerilen ilk olarak koşulsuz kararlı yarı Lagrange adveksiyon düzeni ile birleştiğinde 1968 bir Navier-Stokes çözüm yöntemi, kullanan stabil sıvı simülasyonu önermektedir 1999 den.
+CPU karşı ve performans çok daha yüksek bir derece elde olarak GPU bu iş çalıştırmak dayalı Daha yeni uygulamaları.
+Birçok gelişmeler hız ve kütle hem de yüksek sayısal dağılımı gelen doğal uğrar Stam orijinal çalışmaları için öne sürülmüştür.
+Etkileşimli sıvı simülasyonu bir giriş Bilgisayar Animasyon 2007 ACM SIGGRAPH ders, Akışkan Simülasyon bulunabilir.

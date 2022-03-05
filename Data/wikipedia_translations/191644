@@ -1,0 +1,76 @@
+Skaler potansiyeli
+Basitçe ifade Skalar potansiyeli, iki farklı konumda, bir nesnenin potansiyel enerjiler arasındaki fark değil, bir konumdan diğerine seyahat eden nesne tarafından alınan yol üzerine sadece pozisyonlarına bağlıdır durumu tarif etmektedir. Üç-boyutlu uzayda bir skaler alandır: Sadece kendi konumuna bağlıdır bir directionless değer (skaler). Tanıdık bir örnek yerçekimi nedeniyle potansiyel enerjidir.
+∇P P gradyan ve denklemin ikinci bölümü nerede eksi Kartezyen koordinat x, y, z bir fonksiyonu için degrade. Bazı durumlarda, matematikçiler potansiyelini belirlemek için degrade ön pozitif bir işaret kullanılabilir. Gradyan açısından P bu tanımın, herhangi bir noktada, F yönü bu noktada P dik azalma yönde olduğundan, büyüklüğü birim uzunluk başına bu azalma oranıdır.
+Amacıyla F, aşağıdaki sadece bir skaler potansiyeli açısından anlatılan doğru olmak zorunda olması için:
+Bu koşullardan ilk degrade temel teoremini temsil eder ve bir türevlenebilir tek değerli skaler alan P. ikinci koşul bir degrade olan herhangi bir vektör alanı için de geçerlidir bunun degrade olarak ifade edilebilir ve böylece F bir gerekliliktir skaler işlev. Üçüncü koşul curl temel teoremini kullanarak F curl açısından ikinci koşulu yeniden ifade eder. Bu koşulları karşılayan bir vektör alanı F irrotasyonel (Muhafazakar) olduğu söyleniyor.
+Skaler potansiyeller fizik ve mühendislik birçok alanda önemli bir rol oynamaktadır. gravite potansiyeli konumun bir fonksiyonu olarak, bağlı alanına birim kütlesi, yani, hızlanma başına yerçekimi ile ilişkili skalar potansiyeldir. yerçekimi potansiyel birim kütle başına çekim potansiyel enerjidir. Elektrostatikte elektrik potansiyeli birim yük başına elektrostatik kuvvetle, yani elektrik alanı ile ilişkili skaler potansiyeli olduğunu. elektrik potansiyeli, bu durumda birim yük başına elektrostatik potansiyel enerjidir. Bir Laplace alan olduğunda akışkan dinamiği olarak, irrotasyonel katmanlı alanlar sadece özel durumlarda skaler bir potansiyele sahiptir. Nükleer kuvvetin belirli yönleri, bir Yukawa potansiyeli ile tarif edilebilir. Potansiyel klasik mekaniğin Lagrange ve Hamilton formülasyonlar önemli bir rol oynamaktadır. Dahası, skaler potansiyeli kuantum mekaniği temel miktarıdır.
+Her vektör alanı skaler bir potansiyele sahiptir. Muhafazakar kuvvet kavramına tekabül muhafazakar denir emin olanlar,
+Fizikte. Konservatif olmayan güçlerin örnekleri sürtünme kuvvetlerini, manyetik kuvvetleri ve akışkanlar mekaniği solenoidal alan hız alanını içermektedir. Ancak Helmholtz ayrışma teoremi, tüm vektör alanları, bir skaler potansiyeli ve ilgili vektör potansiyeli açısından nitelendirilebilecek olabilir. Elektrodinamik elektromanyetik skaler ve vektörel potansiyeller elektromanyetik dört-potansiyeli olarak birlikte bilinmektedir.
+İntegrallenebilirlik koşulları.
+F muhafazakar vektör alanı ise (ayrıca, "kıvırmak-free" "irrotasyonel" ya da "potansiyel" olarak adlandırılır), ve bileşenleri sürekli kısmi türev var, bir referans noktası formula_5 göre F potansiyeli açısından tanımlanmaktadır çizgi integrali:
+burada "C" formula_8 için formula_5 bir Oluşturucu yoldur
+hat integrali formula_5 sadece terminal noktaları aracılığıyla yol "C" bağlıdır ve formula_11 özünde, gerçeği, muhafazakar vektör alanının yolunu bağımsızlık özelliği. çizgi integraller için hesabın temel teoremi "V" bu şekilde tanımlanan, o zaman ki "V" F. Sayısal potansiyeli yalnız vektör alanına göre belirlenmez muhafazakâr vektör alanının bir skaler potansiyel formula_12 ima: gerçekten sabit buna ilave edilirse, bir fonksiyonun gradyanı etkilenmez. "V" integral çizgisi açısından tanımlanmış ise, "V" belirsizlik referans noktası formula_13 seçiminde özgürlük yansıtır
+Çekim potansiyel enerji olarak İrtifa.
+Bir örnek Dünya'nın yüzeyine yakın (neredeyse) üniform yerçekimsel alandır. Bu potansiyel enerjiye sahip
+burada "U" çekimsel potansiyel enerji ve "h" yüzeyi üzerinde yükseklik olduğunu. Bu kontur haritasında çekim potansiyel enerji irtifa orantılı olduğu anlamına gelir. Kontur harita üzerinde, yüksekliği iki boyutlu negatif gradyan olan vektörler hatlarına her zaman dik ve aynı zamanda, çekim doğrultusuna dikey olarak iki boyutlu bir vektör alanı vardır. Ama kontur haritası ile temsil tepelik bölgeye, üç boyutlu negatif gradyan "U" her zaman yerçekimi yönünde düz aşağı işaret; F. Ancak, tepeden aşağı yuvarlanan bir top nedeniyle tepenin yüzeyine dik yerçekimi bileşeni dışarı iptal tepenin yüzeyinde, normal kuvvet aşağı doğrudan hareket edemez. topu taşımak için hala yer çekimi elemanının yüzeyine paralel olan:
+"θ" eğim açısı ve yerçekimi dik "FS" bileşeni olduğu
+"Θ" 45 derece olduğunda bu kuvvet "FP", yere paralel, en fazladır.
+"H" kontur haritasında konturlar arasındaki yükseklik düzgün aralığını olacak ve Δ let "x" İki konturları arasındaki mesafe Δ olsun. Sonra
+Böylece
+Ancak, kontur haritasında, gradyan "FP" zorlamak için benzer değil Δ "x", ters orantılı: Bir kontur haritasında irtifa tam iki boyutlu potansiyel alan değildir. kuvvetlerin büyüklükleri farklı, ama kuvvetler tarifi bir kontur haritasında yanı sıra kontur haritası ile temsil yeryüzünün tepelik bölgede aynıdır.
+Batmaz potansiyeli olarak basınç.
+Akışkanlar mekaniği, dengede, ancak düzgün bir çekim alanında varlığında sıvı yerçekimi kuvveti ortadan kaldırır düzgün bir kaldırma kuvveti ile nüfuz: Bu sıvı dengesini korur nasıl. Bu kaldırma kuvveti basınç negatif gradyan ise:
+Kaldırma kuvveti noktaları beri yukarı, yerçekimine ters yönde aşağıya sıvı artar sonra basınç. Su statik vücudunda Basınçlı su yüzeyinin altındaki derinlik orantılı bir şekilde artar. sabit basınç yüzeyleri düzlemleri yere paralel bulunmaktadır. Suyun yüzeyi sıfır basınçta bir düzlem olarak karakterize edilebilir.
+Sıvı (ekseni dönme yere dik olan) dikey bir girdap varsa, vorteks basınç alanında, bir depresyon neden olur. sabit basınç yüzeyleri uzakta girdaba gelen yere paralel, ancak yakın ve vorteks içinde sabit basınç yüzeyleri yere yakın, aşağıya doğru çekilir. Bu, aynı zamanda sıfır basınç yüzeyine olur. Bu nedenle, girdap içindeki sıvının üst yüzeyi, bir depresyon içine aşağı doğru çekilir, ya da bir boru (solenoid) takın.
+bu sıvı ile daldırılır ve çevrelenmiş bir nesne ile bir sıvıya bağlı olarak kaldırma kuvveti nesnenin yüzeyi boyunca negatif basınç gradyanı entegre ederek elde edilebilir:
+Hareketli uçak kanadı üstünde hava basıncı altındaki hava basıncı göre azalır yapar. Bu yerçekimini ortadan kaldırmak için yeterli yüzer kuvvet oluşturur.
+Skaler potansiyeli hesaplanması.
+Bir vektör alanı e göz önüne alındığında, skaler muhtemel "Φ" olarak hesaplanabilir
+dτ 'r ile ilgili bir sonsuz hacim öğedir' nerede. Ardından, E (Muhafazakar) irrotasyonel ise,
+Bu formül E süreklidir ve E sapma aynı şekilde hızlı 1 / "r" den çürüyen, sonsuza doğru kaybolur eğer daha hızlı 1 / "r" çürüyen, sonsuza doğru sıfıra asimptotik kaybolur ve eğer doğru olduğu bilinmektedir 2..
+Kanıt:
+Denklem formula_23 düşünün.
+Almak için her iki tarafın sapma atın:
+formula_24
+Yukarıdaki Poisson denklemi için Green fonksiyonu çözümdür:
+formula_25
+Aşağıdaki gibi başka bir formül Yukarıdaki formülden elde edilebilir:
+formula_26
+formula_27
+formula_28
+Bu nedenle, skaler potansiyeli de kullanarak hesaplanabilir:
+formula_29
+N boyutlar için Skaler Potansiyel hesaplanması.
+Formula_30 boyutlu skaler potansiyeli için genel bir formül Helmholtz ayrışma teoremi derivasyon benzer bir yaklaşım kullanarak elde edilebilir.
+Formula_31 formula_32 gömülü bir katı n-boyutlu birim küre "yüzey alanı" gösterelim.
+Formula_33 formula_32 bir irrotasyonel / muhafazakâr vektör alanını gösterelim. Herhangi bir formula_35 için, formula_36 durumdur.
+formula_37
+formula_38
+formula_39
+formula_40
+Biz şimdi vektör alanı formula_41 irrotasyonel olduğunu ispat edecektir.
+Formula_35 keyfi olalım ve bu formula_43 varsayalım. Bunu ispat etmeniz gerekir
+formula_44
+formula_45
+formula_46
+formula_47
+formula_48
+formula_49
+formula_50
+Formula_33 irrotasyonel olduğu için, yukarıda belirtilen ekspresyon eşittir:
+formula_52
+formula_53
+Biz formula_54 ve formula_55, dışındaki tüm koordine Green teoremi formula_58 düzlemde gömülü ayrılmaz aşağıdaki eğrisi verir kullanarak formula_54 ve formula_55 üzerinde entegre sabit tutarsanız:
+formula_59
+İntegral toplam Sonsuzda 0 yaklaşım için, sınır sonsuza yaklaştıkça yukarıdaki eğri integrali formula_60 olan durum olmalıdır. Bu formula_63 sonsuza yaklaştıkça formula_61 formula_62 ise böyledir. Bu nedenle irrotasyonel formula_41 olduğunu.
+Bir çevrintisiz vektör alanı formula_65 için, o gösterilebilir
+formula_66
+Bu nedenle:
+formula_67
+formula_68
+formula_69
+formula_70
+formula_71
+Sonuç olarak:
+formula_72
+formula_33 için geçerli bir skaler potansiyeli olduğunu.

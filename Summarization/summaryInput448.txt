@@ -1,0 +1,229 @@
+Question: Sölenterler grubunda olan hidrada görülen sinir sistemi, hangi sinir sistemine örnektir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgasızlar</DOCTITLE>
+<TEXT>
+
+"Invertebrata"
+Omurgasızlar (), bir omurgası olmayan hayvanlara verilen genel bir addır. Omurgasız olarak adlandırılan canlıların yapılarında hiçbir iskelet bulunmaz. Omurgasız hayvanların vücudunun dış kısmını örten ve destekleyen bir dış yapı bulunur.
+Omurgasız canlılar, en basit çok hücreli canlı olan "Trichoplax adhaerens"'den itibaren başlayan metazoa aleminin altında incelenmektedir. Omurgasız hayvanlardan bazıları; çekirge, örümcek, kelebek, sinek, solucan, ahtapot, yengeç, ıstakoz, midye, ve denizanasıdır.
+Omurgasızlar, Parazoa (Gerçek dokulara sahip olmayan canlılar) ve Eumetazoa (Gerçek dokulara sahip canlılar) olmak üzere iki alt sınıfta incelenirler.
+Omurgasız hayvanların kıkırdak doku ve kemik dokudan oluşan iskeletleri yoktur. Bazı omurgasız hayvanların vücutlarında iskelet görevi gören değişik yapılar vardır. Örneğin yengeçlerde bulunan sert kabuk ve böceklerdeki kitin adı verilen örtü iskelet görevi yapar. Omurgasız hayvanların bir bölümü karada bir bölümü suda yaşar. Karada yaşayan omurgasız hayvanların akciğerleri yoktur. Bu hayvanlar trake solunumu ya da deri solunumu yaparlar. Suda yaşayan omurgasız hayvanlar ise solungaçlarıyla solunum yapar. 
+Omurgasız hayvanlar yumurta ile çoğalır. Çekirge, örümcek, kelebek, hamam böceği, sivrisinek çevremizde gördüğümüz omurgasız hayvanlardır. Ahtapot, yengeç, ıstakoz, midye, denizkestanesi, denizyıldızı, süngerler, denizanası ve mercanlar suda yaşayan omurgasız hayvanlara örnektir. İnsanların çevrelerinde sık karşılaştıkları omurgasız hayvanlar eklem bacaklılar ve solucanlardır...
+Sölenterler, yumuşakçalar, eklem bacaklılar, derisi dikenliler omurgasız hayvanlar grubunda incelenir.
+Çoğalma.
+Omurgasızlar genellikle yumurtlayarak çoğalırlar. Yumurtadan çıkan yavrular çoğu zaman yetişkinlere benzemezler ve ancak birkaç aşamadan geçtikten sonra yetişkinlerine benzerler. Fakat bunun aksine, yani yumurtadan direk olarak yetişkinlerine benzeyerek çıkan türler de vardır. Bunlar; solucan, örümcek ve bazı böceklerdir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Knidliler</DOCTITLE>
+<TEXT>
+
+Knidliler veya Sölenterler veya Haşlamlılar ("Cnidaria"), büyük çoğunluğu denizlerde, birkaç türü tatlı sularda yaşayan, doku içeren bir hayvanlar alemi şubesidir.
+Vücutları radyal simetrilidir. Ayrı veya koloni halinde yaşarlar. Hayat evrelerinde belirgin bir polimorfizim görülür. Tipik Planula larvaları görülür.
+Bir çoğu hayat dönemlerinde birbirine morfolojik olarak benzemeyen 2 ayrı form oluştururlar. Bu formlardan biri sesil (sabit) yaşayan polip ve diğeri serbest yüzen medüz formudur.
+Cnidaria'nın sinir sistemleri merkezileşmiş ve ağ şeklindedir. Genellikle ağzın bulunduğu uçta ağız çevresinde halka şeklinde dizilmiş tentaküller bulunur. 
+Gastrodermis tarafından çevrelenen tek vücut boşluğuna; sölenteron (coelenteron),(gastrovaskuler boşluk) denir. Vücut çeperi 3 tabaka halindedir. En üstte bulunan epidermis tabakasıyla en allta bulunan gastrodermis (hipodermis) tabakaları arasında bulunan mezoglia (mesoglea) tabakasında knidoblast denilen tipik hücreler bulunur. Bu hücrelerin içinde birer tane nematosist denilen savunma ve saldırıda kullanılan özel hücre organelleri bulunur. Besin olarak, su içindeki besin parçacıkları ile ya da tuzağa düşürüp yakaldıkları hayvanlar ile beslenirler. Karnivor hayvanlardır. Tentaküllerini av yakalamada kullanırlar. Knitlilerde tek boşluk olan sölenteron aynı zamanda sindirim kanalıdır. 
+Su düzenlenmesi ve boşaltımda özelleşmiş organları yoktur,çoğu stenohalindir. 
+Hareket.
+Özel hareket organelleri yoktur. Bununla beraber, su içinde pasif yüzme ya da takla atma hareketleri görülebilir. (örn.: "Hidra" sp.) Özel solunum organları yoktur. Başlıca duyu organları, tentaküllerin kaidesinde veya vücudun kenarlarında bulunan basit gözler ve denge organı (statosist) dir.
+Üreme.
+Üreme ayrı eşeyli ve eşeysiz olarak gerçekleşir. Eşeyli üremede; yumurtanın döllenmesi, vücut içerisinde ya da suda olur. Döllenmiş yumurtalar su içine bırakılabileceği gibi vücut içerisinde de tutulabilir. Eşeysiz üreme de, 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgasız Hayvanlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Omurgasız hayvanlar, diğer canlı âlemlerinin toplamının beş katı kadar canlı türü içermektedir. Bu grup, hayvanlar âleminin büyük bir kısmını (% 95) oluşturmaktadır. Adından da anlaşılacağı gibi bu gruptaki hayvanların omurgaları yoktur. İç iskeletleri olmayan omurgasızların vücutlarının çevresini kaplayan ve destek veren bir dış iskelet bulunmaktadır (Resim 167). 
+Omurgasız hayvanlar; süngerler, sölenterler, solucanlar, yumuşakçalar, eklem bacaklılar ve derisi dikenliler olmak üzere altı grupta incelenir. Burada sadece solucanlar ile eklem bacaklılardan böcekleri öğreneceğiz. 
+a. Solucanlar 
+Sucul ve karasal solucanlar olduğu gibi, canlıların vücudunda parazit olarak yaşayan solucan türleri de mevcuttur. Bu bölümde solucanları üç grup hâlinde inceleyeceğiz. 
+Halkalı solucanlar 
+Denizlerde, tatlı sularda ve karada yaşarlar. Birçoğu mikroskobiktir fakat makroskobik olanları da vardır. Bu solucanların vücutları uzun ve segmentlidir. Her segment birbirinden ince bir zar ile ayrılmıştır. Bu segmentler art arda dizilmiş halkalar şeklinde görüldüklerinden halkalı solucanlar ismini almışlardır. Vücut yüzeyleri ince ve esnek bir tabaka ile kaplıdır. Bilateral simetriye sahip olan bu hayvanlarda gerçek vücut boşlukları (sölomlar) bulunur. 
+Halkalı solucanların bazıları etçil iken bazıları çürümüş bitkilerle beslenir. En iyi bildiğimiz halkalı solucanlar sülük ve toprak solucanıdır (Resim 168). 
+Halkalı bir solucan olan toprak solucanı, kurak havalarda ihtiyaç duyduğu nemli ortamı elde etmek için yerin yaklaşık 2 metre altına iner. Açtığı oyuklar sayesinde toprağın havalanmasında ve yağmur sularının süzülmesinde rol oynar. Bu özellikleri sayesinde toprak daha verimli hâle gelir. Yağmurlu havalarda solucanların toprak üstüne çıkmalarının nedeni ise toprakta yeteri kadar oksijenin kalmamasıdır. 
+Yuvarlak solucanlar 
+Dünya üzerinde en fazla görülen solucan tipidir (Resim 169). Yuvarlak solucanlar silindirik yapılı ve segmentsizdir. Bilateral simetri gösterirler. Denizlerde, tatlı sularda, karada bulunan türlerinin yanında bitki ve hayvan vücutlarında parazit olarak yaşayanları da bulunmaktadır. 
+Yuvarlak solucanların beslenmeleri yaşam ortamlarına göre farklılıklar gösterir. Serbest yaşayanlar, küçük omurgasız hayvanlar, algler ve çürümüş organik maddelerle beslenir. Bitki ve hayvan vücutlarında parazit olarak yaşayan türleri oldukça zararlıdır. Boyları 2 milimetre ile 2 metre arasında değişir. Bağırsak solucanı ve kancalı kurt insanlarda sık rastlanan bu grup parazitlerdendir. 
+Yuvarlak solucanlarda döllenme, dişi solucanın vücudunun içinde olur. Yumurtalarını dışarı bıraktıklarında derhal büyüme başlar. Solunumları için özelleşmiş bir organları bulunmamaktadır. İhtiyaç duydukları oksijeni vücut yüzeyinden difüzyonla alırlar. Bu sebeple canlı vücutlarında parazit olarak yaşayabilirler. 
+Yassı solucanlar 
+Parazit veya serbest yaşayan türleri vardır. Serbest olan türler tatlı sularda, denizlerde veya dip çamurlarında yaşar. Yaklaşık 12 bin civarında türe sahiptirler. Bilateral simetrili yassı vücutlara sahip canlılardır. Yassı solucanlar genellikle hermafrodittir. Yassı solucanların parazit olarak yaşayan türlerinde sindirim organları bulunmaz. Parazit olanlar konukçu canlıdan gerekli olan besinleri sindirilmiş olarak alır. 
+Yassı solucanların hareketleri yüzme, sürünme ve yavaşça kayma hareketleriyle olur. Küçük formlarının bazıları sahip oldukları siller ile yüzme hareketi yapar. Büyük formları ise vücutlarında bulunan boyuna kasları dalgalanma biçiminde kıvırarak hareket eder. 
+Yassı solucanlarda solunum organı bulunmamaktadır. Gaz değişimini vücut yüzeyinden difüzyon ile yaparlar. Yaşadıkları ortama göre oksijenli veya oksijensiz solunum yapabilirler. 
+Planarya, karaciğer kelebeği ve tenya en yakından tanıdığımız yassı solucan tipleridir (Resim 170). Tenya, sığır (Bos primigenius-Bos primigenius) ve yaban domuzu (Sus scrofa-Sus scrofa) gibi hayvanların etinin yenmesi ile bulaşan bir parazittir. Domuz tenyası (Taenia solium-Taenya soliyum) 3-5 metre civarındayken, sığır tenyası (Taenia saginata-Taenya saginata) 6-10 metreye kadar ulaşabilmektedir. 
+Hermafrodit, hem erkek hem de dişi üreme organı bulunduran canlılara verilen addır. 
+b. Böcekler 
+Bilinen yaklaşık 1.5 milyon hayvan türünün 1 milyona yakınını böcekler oluşturur. Vücut yapıları baş, göğüs ve karın olmak üzere üç kısımdan oluşmaktadır. Bu canlı grubuna dünyanın her yerinde rastlanmaktadır. Her ortama ve koşula uyum sağlayabilirler. Omurgasız hayvanlar içinde sadece böceklerin kanatlara sahip olması onlara daha kolay yayılma imkânı sağlamıştır. Böcekler, çok sayıda yumurta oluşturabilmelerinin yanında, bir mevsimde birden fazla döl verebilir ve hatta erkeksiz bile üreyebilen tu¨ rlere sahiptir. 
+Böcekler dış iskelete sahiptir. Bu iskelet çoğu zaman büyümeye engel olsa da deri değişimi ile bu durumu ortadan kaldırırlar. 
+Bazı böcek türleri koloni hâlinde yaşayarak sosyal bir davranış sergiler. Karıncalar bu sosyal gruplara örnektir. Bu gruplar içinde “işçi” ve “asker” karıncalar gibi özel görevlere sahip bireyler vardır (Resim 172). 
+Dünya ekonomisinde önemli bir yerleri vardır. Ekonomik anlamda ilk akla gelen örnekler bal arıları (Apis mellifera-Apis mellifera) ve ipek böcekleridir (Bombyx mori-Bombyks mori) (Resim 171). 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sinir sistemi</DOCTITLE>
+<TEXT>
+
+Sinir sistemi veya sinir ağı, canlılarların içsel ve dışsal çevresini algılamasına yol açan, bilgi elde eden ve elde edilen bilgiyi işleyen, vücut içerisinde hücreler ağı sayesinde sinyallerin farklı bölgelere iletimini sağlayan, organların, kasların aktivitelerini düzenleyen bir organ sistemidir. Sinir sistemi iki bölümden oluşur. Merkezi sinir sistemi (MSS) ve çevresel sinir sistemi (ÇSS). MSS, beyin ve omurilikten oluşur. ÇSS, MSS'yi vücudun diğer tüm kısımları ile bağlayan uzun fiberlerden oluşur. ÇSS, motor nöronları, dolaylı istemli hareket, otonom sinir sistemi, sempatik sinir sistemi, parasempatik sinir sistemi, düzenli istemsiz işlevler ve enterik sinir sisteminden oluşur. 
+Beyine sahip sistem düşünce ve duygu üretmez veya iletmez. Sinir sistemi,süngerler dışında çoğu çok hücreli hayvanlarda bulunur. Fakat çok karmaşık yapıya sahiptir. Sinir sistemi olmayan çok hücreli organizmalar, süngerler, placozoalar ve mesozoalar çok basit vücut yapısına sahiptir. Taraklılar ve knidliler (örn, anemones, hydras, corals ve denizanalarındaki) sinir sisteminde farklı bir sinir ağı vardır. Birkaç solucan türü hariç, diğer tüm hayvan türlerinde, bir beyin ve bir omurilikten (veya paralel çalışan iki omurdan) oluşan sinir sistemi vardır. Bunlardaki sinirler, beyin ve omurilikten dağılır. En basit solucanlarda sinir sistemi, birkaç yüz hücreden oluşurken, insanlarda 100 milyarlarca sinir hücresi (nöron) bulunur.
+Sinir sisteminin en basit işlevi, bir hücreden diğerine veya vücudun bir parçasından diğerlerine sinyal iletmektir. Sinir sisteminin işlev bozukluğu çok çeşitli biçimlerde olabilir. Bunlara genetik bozukluk, travma, zehirlenme, fiziksel yaralanma, enfeksiyon veya erken yaşlanma (progeria) örnek verilebilir. Ayrıca sinir sistemi ile ilgili menenjit, şizofreni, Alzheimer hastalığı, kortikal görme bozukluğu, Parkinson hastalığı, epilepsi (sara), multipl skleroz (MS) gibi hastalıklar vardır. Tıppın nöroloji ihtisas alanı sinir sistemi bozukluğunun nedenleri ile ilgilenir ve bozukluğu önlemek için araştırma ve müdahale yapar. Çevresel sinir sisteminde, en yaygın meydana gelen problem türü, çeşitli nedenlerden dolayı ortaya çıkan sinir iletimi arızasıdır. Bunlara diyabet nöropati ile sinir hücreleri kaybına neden olan multipl skleroz ve amyotrofik lateral skleroz örnek verilebilir.
+Nörobilim, sinir sistemi ile ilgilenen bir bilim dalıdır.
+Yapı.
+Sinir sistemi adı, lifleri silindirik olarak saran sinirlerden türetilmiştir. Lifler beyin ve omurilikten doğar ve dallanarak vücudun her bir parçasını donatır. Bir mikroskop vasıtasıyla, sinir hücrelerinin aksonlarını görülebilir.
+Hücreler.
+Sinir sistemi hücreleri iki ana birime veya kategoriye ayrılır: sinir hücreleri (nöronlar) ve nöroglia.
+Sinir hücreleri.
+Sinir sisteminin temel fonksiyonel birimi olan sinir hücreleri (nöronlar), çeşitli yöntemlerle diğer hücrelerden ayırt edilebilirler. Bunların en temel özelliği, sinapslar vasıtasıyla diğer hücreler ile iletişim sağlamasıdır.
+Nöroglia.
+Nöroglia, sinir hücresi olmayan, destek ve besleme ve homeostaz sağlayan, miyelin biçiminde olan ve sinir sistemindeki sinyal iletimine katkı sağlayan hücrelerdir.
+Omurgalılardaki anatomisi.
+Omurgalılarda (insan da dahil) sinir sistemi, merkezi sinir sistemi (MMS) ve çevresel sinir sistemi (ÇSS) olamk üzere iki bölüme ayrılır.
+Merkezi sinir sistemi (MSS), beyin ve omurilikten oluşur ve sinir sisteminin en büyük bölümüdür. 
+Çevresel sinir sistemi (ÇSS), beyin ve omurilik haricindeki sinirler ve gangliyondan oluşur. ÇSS'nin ana işlevi, MSS ile organ ve uzuvlar arasındaki iletişimi (bağlantıyı) sağlamaktır. 
+İşlev.
+Sinir sisteminin en basit işlevi, bir hücreden diğerine veya vücudun bir parçasından diğerlerine sinyal iletmektir. Bir hücreden diğerlerine sinyal iletmenin birçok yolu vardır. Biri, kimyasalların salgılanmasıdır ve hormon olarak adlandırılır. 
+Sinir sisteminin asıl işlevi, vücudu kontrol etmesidir. Bunun için duyu reseptörlerini kullanarak ortamdaki bilgiyi almak, bu bilgiyi çözümleyerek, onu merkezi sinir sistemine sinyal biçiminde göndermek, bilgiyi işleyerek yaklaşık bir tepki tanımlamak ve tepkiyi etkinleştirmek için kaslara veya bezelere çıkış sinyallerini göndermektir. 
+Gelişim.
+Omurgalılarda, embriyonik nöral gelişim dönüm noktaları, kök hücredeki sinir hücrelerinin oluşması ve ayrışması, embriyoda olgunlaşan sinir hücrelerinin oluştukları yerden son konumlarına göç etmesi, sinir hücrelerindeki akson uçlarının ortaya çıkması örnek olarak gösterilebilir.
+Tüm bilateria hayvanlarda gelişimin gastrulasyon evresinde oluşan gastrula bir disk şeklindedir ve üç tabakadan meydana gelmiştir. En içteki tabakaya endoderm denir ve sindirim sisteminin iç yüzeylerini, pankreası, karaciğeri, solunum sistemini oluşturur. Ortadaki tabakaya mezoderm denir ve kasları, cinsiyet organlarını, iç organların dış yüzeyini, iç deriyi, kemik dokuyu ve kıkırdak dokuyu, kalp ve kan damarlarını oluşturmaktadır. En dıştaki tabakaya ektoderm denir ve deri, tırnaklar, saç ve dişlerin yanı sıra merkezi sinir sistemi, beyin ve dış salgı bezlerini oluşturur.
+Patoloji.
+Merkezi sinir sistemi (MSS), büyük fiziksel ve kimyasal bariyerler tarafından korunur. Fiziksel olarak beyin ve omurilik meninksler (beyin ve omurilik zarı) ile çevrilmiştir. Kimyasal olarak ise, beyin ve omurilik, kan-beyin bariyeri ile korunur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Otonom sinir sistemi</DOCTITLE>
+<TEXT>
+
+Otonom sinir sistemi ya da özerk sinir sistemi, periferik sinir sisteminin, istemsiz yapılan hareketleri ve organ fonksiyonlarının kontrolünü gerçekleştiren bölümüdür. Kalp hızı, sindirim, solunum, tükrük salgılanması, terleme, işeme fonksiyonu, cinsel uyarılma gibi durumlarda istem dışı etkilidir. Visseral sinir sistemi veya vejetatif sinir sistemi olarak da bilinir. Parasempatik sinir sistemi ve sempatik sinir sistemi olarak ikiye ayrılır.
+Otonom sinir sistemine biyolojik yaşamla yakınlığından dolayı Vejetatif (bitkisel) sinir sistemi denir. Organlarla ilgili olmasından Visseral sinir sistemi denir. Otonom sinir sistemi, sinir sistemini kalp kası, damarlar, akciğerler ve organların düz kasları ile dış salgı bezleri gibi isteğimiz dışında çalışan organları innerve eden bölümdür.
+Sempatik sinir sistemi.
+Sempatik sistem doku ve organlara gönderdiği sinyallerle genel olarak vücudun aktivitesini, enerji tüketimini artırıcı yönde hareket eder. Örneğin sempatik sinirler kalbin çalışma hızını ve atardamarlardaki kan basıncını artırır.
+Sempatik sistem aynı zamanda organizmanın korku, öfke, dehşet, heyecan ve şiddetli ağrı gibi stres yaratan durumlarda tepki oluşturmasını sağlar. Örneğin kas aktivitesi gerektiren stres durumlarında, hipotalamusun uyarılmasıyla sempatik sistem organizmada bazı değişikliklere yol açar. Bunlardan bazıları kandaki glikoz yoğunluğunun artışı, atardamarlarda kan basıncının yükselmesi ve kas gücünün artmasıdır. Bu değişiklikler organizmanın stresle baş etmesinde etkili olur.
+Sempatik sinir sistemi nöronları, medulla spinalisin torakal ve lumbal bölgesindeki ön ve arka boynuzunda bulunur. Sempatik nöronlardan çıkan sinir lifleri, spinal sinirin ön kökleri içerisinde medulla spinalisi terk ederek spinal sinirin yapısına katılırlar. Bu lifler, vertebraların her iki tarafında bulunan truncus sympathicusa gelirler. Burada bulunan ganglionlara gelen sinir liflerinin bazıları buradaki nöronlarla sinaps yaparlar. Bazıları ise doğrudan organa giderler.
+Parasempatik sinir sistemi.
+Parasempatik sinir sistemi hareketlerimizi yavaşlatır. Parasempatik sistem doku ve organlara gönderdiği sinyallerle genel olarak vücutta enerjinin korunmasını sağlayacak yönde etki eder. Örneğin kalp atışının yavaşlaması, sindirimin artması gibi.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çevresel sinir sistemi</DOCTITLE>
+<TEXT>
+
+Çevresel sinir sistemi (ÇSS), beyin ve omurilik haricindeki sinirler ve gangliyondan oluşur. ÇSS'nin ana işlevi, merkezi sinir sistemi (MSS) ile organ ve uzuvlar arasındaki iletişimi (bağlantıyı) sağlamaktır. Omurga ve kafatası gibi kemiklerle veya kan-beyin bariyeri ile korunan MSS'nin aksine ÇSS'nin koruması yoktur. Bu yüzden toksinler ve mekaniksel hasarlara maruz kalabilir. Çevresel sinir sistemi, somatik sinir sistemi ve otonom sinir sistemine ayrılır. Bazı yazılı medyada bunlara duyu sistemi de dahil edilir. Ayrıca ÇSS, sinir sisteminin bir bölümünü oluşturur.
+Optik (Optic) olarak adlandırılan II. kraniyal sinir hariç diğer kraniyal sinirler ÇSS'nin bir bölümünü oluşturur. İkinci kraniyal sinir, tam bir çevresel sinir değildir, fakat ara beynin bir parçasıdır. Kraniyal sinir gangliyonu MSS'de başlar. Bununla birlikte geri kalan onbir kraniyal sinir aksonları beyne uzanır. Bu yüzden bunlar ÇSS'nin bir bölümüdür.
+Sinirleri telefon kablolarına benzetebiliriz. Sinirler vücudumuzdan aldıkları mesajları beyne taşır. Vücudun içinde veya çevrede meydana gelen ve vücutta belirli bir tepkiye sebep olan fiziksel, kimyasal veya biyolojik etkilere uyarı denir. Uyarılar duyularımızda bulunan özel hücrelerle alınır. Alınan uyarı, sinirlerle merkezi sinir sistemine taşınır. Uyarılar sinir hücrelerinde kimyasal veya elektriksel değişikliğe yol açar. Bu değişikliğe uyartı mesajı denir. Uyartı mesajı merkezi sinir sistemine iletilir. Mesaj için oluşan cevap kaslara, organlara ve salgı bezlerine sinirler ile iletilir. Uyartı mesajı beyinde değerlendirilir ve uyarıya karşı bir cevap oluşur. Oluşan cevap yine sinirlerle organ veya yapılara iletilerek uyarıya tepki verir.
+Belirli sinirler ve pleksi.
+Beyinsapından başlayan oniki kraniyal sinirden onu, bazı istisnalar olsa bile başın anatomik yapısının işlevlerinin (fonksiyonlarının) ana kontrolünü sağlar.
+I ve II. kraniyal sinirler, sırasıyla beynin önüne ve göz sinir ucu olan talamusa uzanır ve bu yüzden tam kraniyal sinir olarak dikkate alınmazlar. CN X (10), göğüs ve karındaki iç organ duyu bilgisini alırken, CN XI (11), sinirli donatılan sternocleidomastoid kas ve trapezius kaslarını uyarır. Bunun için, hangisinin başta olduğuna bakmaz.
+Spinal sinirler, omurilikten başlar. Vücutun diğer işlevlerini kontrol eder. İnsanda 31 çift spinal sinir bulunur: 8 servikal, 12 thoracic, 5 lumbar, 5 sakral ve 1 coccygeal. 
+Servikal bölgedeki spinal sinir köklerinde ilgili vertebrae'e yukarıdan ortaya çıkar. Örneğin kafatası ile 1. servikal vertebrae arasındaki sinir kökü C1 spinal sinir olarak adlandırılır.
+Thoracic bölgeden coccygeal bölgeye kadar olan spinal sinir köklerinde ilgili vertebrae'e aşağıdan ortaya çıkar. C7 ile T1 arasındaki spinal sinir kökünü adlandırırken bunun bir problem oluşturabileceğine unutulmamalıdır. Bu yüzden T1, C8 olarak adlandırılır.
+Lumbar ve sakral bölgesindeki spinal sinir kökleri değişmez kese içinde ve L2 kademesinden aşağı doğru dolaşır.
+Servikal spinal sinirler (C1-C4).
+C1 ile C4 arasındaki ilk 4 servikal spinal sinir, ayrılıp tekrar birleşerek boyun ve başın arkasındaki çeşitli sinirleri oluştururlar.
+Brakial pleksus (C5-T1).
+C5 ile C8 arasındaki son dört servikal spinal sinir ve T1 ilk thoracic spinal sinir, brakial pleksusu (Latince plexus brachialis) meydana getirir. Bunlar, ayrılarak, bölünerek ve birleşerek üst kol ve üst arkadaki sinirleri oluştururlar. Brakial pleksus zedelenmesine bakın.
+Lumbosakral pleksus (L1-S4).
+Lumbar sinirleri, sakral sinirleri ve coccygeal siniri, lumbosakral pleksusu oluşturur. İlk lumbar siniri, sıksık onikinci thoracicteki bir dal ile birleştirilir. Bu pleksusu (sinir ağını) daha kolay açıklamak için genellikle üç parçaya ayrılır:
+Nörotransmitter.
+Çevresel sinir sistemlerinin ana nörotransmitterleri, asetilkolin ve noradrenalindir. Bununla birlikte, birkaç başka nörotransmitter de vardır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Somatik sinir sistemi</DOCTITLE>
+<TEXT>
+
+Somatic sinir sitemi (SSS), çevresel sinir sisteminin bir bölümüdür. Vücut hareketinin çizgili kas vasıtasıyla istemli kontrolünü sağlar. SSS, kas kasılmasını uyarmak için motor sinir lifinden oluşur. Bunlara iskelet kaslarına ve deriye bağlanan, duyusal olmayan sinir hücreleri de dahildir.
+Somatik sinir sistemi motor ve duyu sinirleriden oluşur. Bu sinirlerin hücre gövdeleri beyin ve omurilikte bulunur. Aksonlar ise doğrudan iskelet kaslarına gider. Koşmak, yazı yazmak, resim yapmak ve şarkı söylemek gibi beynin kontrölünde olan hareket ve davranışlar bu sistemle sağlanır. Somatik sinir sistemine ait olaylar, bilinç dahilinde meydana gelir. SSS, duyusal ve motor bölümlerinden oluşur. Duyusal (afferent), kas, eklem, tendon gibi bölgelerden uyarıları alırken, motor (efferent) bölüm ise bu uyarıları değerlendirir.
+Somatik sinir sisteminin bölümleri.
+İnsan vücudunda 43 sinir segmenti vardır. Her bir segmentte bir çift duyu ve motor sinirleri bulunur. 31 sinir segmenti omurilikte ve 12 sinir segmenti beyinsapındadır. 
+Bunlardan başka, vücutta binlerce ortak sinir vardır.
+Somatik sinir sistemi üç bölümden oluşur:
+i) Spinal sinirler: Omurilikteki duyusal bilgisi ve motor komutlarını taşıyan çevresel sinirlerdir.
+ii) Kraniyal sinirler: Beyinsapı dışındaki bilgiyi taşıyan sinir fiberleridir. Bunlara koklama, görme, duyma, tatma da dahildir.
+iii) Ortak sinirler: Bu sinirler duyusal girişi ve motor çıkışlarının binlercesinin birleşimidir.
+Sinir sinyali iletimi.
+Somatik sinir sistemi, refleks hareketi hariç, vücuttaki tüm çizgili kasları kontrol eder. 
+Somatik sinir sisteminin motor sinir lifindeki sinir sinyallerinin temel rotası, Brodmann alanı 4 içindeki motor nöronlarının üst hücre gövdesinden (üst motor nöronları) (yaklaşık olarak primer motor korteksinden) başlar.
+Üst motor nöronları, alfa motor nöronlarının nikotinik reseptörleri tarafından alınan kendi akson ucu tepelerindeki nörotransmitter, asetilkolini serbest bırakır. Dönüşte alfa motor nöronları, omuriliğin spinal sinir anterior kökü tarafından alınan aksonları stimuli ile değiştirir. Ardından bu sinyaller, iskelet kaslarının nöromüsküler kavşaklarını sürdürür.
+Omurgalılar ile omurgasızlar arasındaki farklar.
+Omurgasızlarda, bırakılan nörotransmittere ve tutulan reseptörün türüne bağlı olarak, kas fiberindeki tepki, hem uyarıcı hem de engelleyici olabilir. Omurgasızlarda, bir kas fiberinden nörotransmittere (Örn, asetilkoline (ACh)) yapılan tepki yalnızca uyarıcı olabilir.
+Refleks hareketleri.
+Refleks hareketi, bir duyu girdisi ile belirli bir motor çıktısı arasında çok veya az bağlantı oluşturan sinirsel bir devredir. Rekleks devreleri çeşitli karmaşık yapılara sahiptirler. En basit spinal refleksler, omurilikteki internöronu etkinleştiren, duyu nöronları ile başlayan üçlü element zinciri tarafından oluşturulurlar. Sıcak bir yüzeye dokunduktan sonra eli hızla çekme gibi bazı refleks tepkileri koruyucu iken, diz kapağı kirişine vurulduğunda, bacağın hareket etmesi gibi diz kapağı refleksi sıradan bir davranıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nöroanatomi</DOCTITLE>
+<TEXT>
+
+Nöroanatomi insan beyninde işlevlerin yerini bulmaya çalışan tıp dalıdır. Görüntüleme ve deneysel araştırmalar beynin değişik nörolojik ve bilişsel etkiler yaratmasına neden olan bölgelerin ortaya çıkmasına yardımcı olur. Beyin yapısında, beyin işlevini değiştiren patolojik değişikliklerin ve lezyonların etkisinin incelenmesi işlevsel nöroanatomik bilgiyi ileriye götürmektedir. 
+İnsanın sinir sistemi merkezi ve periferik olarak ikiye ayrılır. Merkezi sinir sistemi beyin ile omurilikten oluşur ve davranışı düzenlemekte önemli bir rol oynar. Periferik sinir sistemi merkezi sinir sistemi dışında vücutta bulunan tüm nöronlardan oluşur; somatik ve otonom sinir sistemi olarak ikiye ayrılır. Somatik sinir sistemi duyu organlarından beyne ve omuriliğe algısal bilgiyi getiren afferent nöronlardan ve kaslara motor talimatları götüren efferent nöronlardan oluşur. Otonom sinir sistemi ikiye ayrılır: vücudu eyleme hazırlayan sempatik sinir sistemi ve vücudu dinlenmeye, enerjisini korumaya hazırlayan parasempatik sinir sistemi. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Merkezî sinir sistemi</DOCTITLE>
+<TEXT>
+
+Merkezî sinir sistemi (MSS, zaman zaman İngilizce kısaltmasıyla: CNS yani "Central nervous system") sinir sisteminin en büyük bölümünü teşkil eder. Beyin ve omurilikten oluşur. Bazı sınıflandırmalarda retina ve kraniyal sinirler de MSS'ye dahil edilir. Çevresel sinir sistemi ile birlikte davranış kontrolünde temel bir göreve sahip olan merkezî sinir sistemini çevresel sinir sisteminden ayıran belirgin bir sınır olmayıp, ayrım keyfîdir. MSS, vücut boşluğunda, kraniyal boşluktaki beyni ve spinal boşluktaki omuriliği kapsar. Omurgalılarda beyin kafatası ile korunurken, omurilik te omurga ile korunur. Bunların her ikisi de, meninskler (beyin ve omurilik zarı) ile çevrilmiştir.
+Gelişim.
+Omurgalıların embriyosunun ilk gelişimi esnasında nöral tabakadaki dikey oyuk gittikçe derinleşir ve büyüme her yöne doğru olur. İnsan embriyosunda altı hafta içinde ön beyin, serebrum ve ara beyin olarak bölünürken, art beyin, metensefalon ve myelensefalon olarak bölünür.
+Merkezi sinir sistemi hastalıkları.
+Merkezi sinir sisteminin birçok hastalığı vardır. Bunlara, ensefalit gibi merkezi sinir sistemi enfeksiyonu; çocuk felci, nöron dejenerasyonu gibi Alzheimer hastalığı ve amyotrofik lateral skleroz, otoimmün hastalığı ve iltihap hastalıkları gibi multipl skleroz örnek verilebilir. Sonuçta merkezi sinir sistemi kanserleri, şiddetli rahatsızlıklara neden olur, bazı durumlarda beyin tümörünün meydana gelir ve bu da büyük oranda ölümle sonuçlanır.
+İlaç üretime yapan bazı kuruluşlar, beynin nörolojik yapısının, rutin taramaya değil de yalnızca özel bir klinik soruya yanıt verebileceğini düşünüyor.
+Merkezi sinir sisteminin görevleri.
+Beyin: Duyu organları, hafıza ve düşünce merkezidir. Kan basıncını ve hormonları düzenleme, açlık, susuzluk, uykusuzluk, uyku denetleme ve istemli çalışan organları kontrol etmekle görevlidir. Bu görevler üç kategoride toplanır:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Motor nöron</DOCTITLE>
+<TEXT>
+
+Nörolojide motor nöron terimi merkezi sinir sisteminde (MSS) bulunan sinir hücrelerini (nöron) sınıflandırır ve kasları doğrudan veya dolaylı olarak kontrol eder. MSS'deki aksonlar bilgiyi diğer sinir hücrelerine iletir. Motor nöron daha çok motor sinir lifi, primer nöron veya alfa motor nöronu ifade eder. Motor nöronlar, hareketi gerçekleştirmek için omurilikten kaslara sinyal iletirler.
+Anatomi ve fizyoloji.
+Görevlerine göre motor nöronlar üç kategoriye ayrılır:
+Somatik motor nöronlar.
+MSS'deki somatik motor nöronlar aksonlarını hedef dokularla ilişkilendirirler. Bu dokular yalnızca çizgili kastır. Çizgili kaslar hareketle ilgilidir. Karın kasları ve interkostal kaslar
+çizgili kaslara örnektir.
+Özel visseral motor nöronlar.
+"Brakial motor nöronlar" olarak ta adlandırılan özel visseral motor nöronlar, brakial kasları doğrudan sinirle donatırlar. Bu kaslar balıkların solungaçlarında ve karada yaşayan omurgalıların yüzlerinde bulunur.
+Genel visseral motor nöronlar.
+Kısaca "visseral motor nöronlar" olarak ta adlandırılırlar. Kalp kasını ve düz kası gibi atardamarların kaslarını dolaylı olarak sinirler donatırlar. Otonom sinir sistemindeki sinir hücrelerinin gangliyonlarında bulunan sinapslar, doğrudan visseral kasları (ve bazı sinirler donatırlar.
+Parasempatik sinir sistemi veya sempatik sinir sistemindeki gangliyonik nöronlar (ki bunlar gerçek "motor nöron"dur), visseral kasları doğrudan donatırlar.
+Tüm omurgalılardaki motor nöronlar, asetilkolin nörotransmitterini serbest bırakan kolinerjiktir. Parasempatik gangliyonik nöronlar da kolinerjik iken, sempatik gangliyonik motor nöronlar, noradrenalin nörotransmitterini serbest bırakan noradrenerjiktir.
+İşlev.
+Bir motor nöron ile kas lifi arasındaki bağlantı, nöromüsküler kavşak olarak adlandırılan özel bir sinapstır. Adaptasyon stimulasyonuna bağlı olarak motor nöron, sinaptik reseptörü tutan nörotransmitter taşkınına ve kas lifinin titreyerek tepki vermesine neden olur.
+Somatik motor nöronlar.
+Somatik motor nöronlar, iki türe ayrılır: "alfa motor nöronlar" ve "gama motor nöronlar". Merkezi sinir sisteminden çevresel sinir sistemine yapılan sinyal iletimi ifade etmesi için bunlara motor denir.
+Motor birimleri.
+Tek bir motor nöron, bir veya daha fazla kas lifi ile bağlantı kurabilir. Motor nöron ile bağlı olduğu kas lifleri bir motor birimdir. Motor birimleri 3 kategoriye ayrılır: yavaş motor birimleri, çabuk yorulan motor birimleri, çabuk yorulmaya dayanıklı motor birimleri.
+
+</TEXT>
+</DOC>
+

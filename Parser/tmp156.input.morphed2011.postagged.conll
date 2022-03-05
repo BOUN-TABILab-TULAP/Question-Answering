@@ -1,0 +1,14 @@
+1	İnsan	insan	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	ve	ve	Conj	Conj	_	_	_	_	_
+3	insana	insan	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+4	ait	ait	Postp	Postp	PCDat	_	_	_	_
+5	faaliyetleri	faaliyet	Noun	Noun	A3pl|Pnon|Acc	_	_	_	_
+6	_	incele	Verb	Verb	Pos	_	_	_	_
+7	inceleyen	_	Adj	APresPart	_	_	_	_	_
+8	coğrafyanın	coğrafya	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+9	alt	alt	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+10	dalının	dal	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+11	adı	ad	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+12	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+13	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

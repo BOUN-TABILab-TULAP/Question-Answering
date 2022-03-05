@@ -1,0 +1,10 @@
+1	Kiel	Kiel	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	Kanalı	kanal	Noun	Noun	A3sg|P3sg|Nom	8	SUBJECT	_	_
+3	hangi	hangi	Adj	Adj	_	4	MODIFIER	_	_
+4	tarihte	tarih	Noun	Noun	A3sg|Pnon|Loc	8	LOCATIVE.ADJUNCT	_	_
+5	deniz	deniz	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	trafiğine	trafik	Noun	Noun	A3sg|P3sg|Dat	8	DATIVE.ADJUNCT	_	_
+7	_	aç	Verb	Verb	_	8	DERIV	_	_
+8	açılmıştır	_	Verb	Verb	Pass|Pos|Narr|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Güneşten güneş+Noun+A3sg+Pnon+Abl Güneşten+Noun+Prop+A3sg+Pnon+Nom
+gelen gel+Verb+Pos^DB+Adj+PresPart gele+Noun+A3sg+P2sg+Nom
+mor mor+Adj
+ötesi öt+Verb+Pos^DB+Adj+FeelLike öt+Verb+Pos^DB+Noun+FeelLike+A3sg+Pnon+Nom öte+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike öte+Noun+A3sg+P3sg+Nom öte+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+JustLike öte+Postp+PCAbl^DB+Noun+Zero+A3sg+P3sg+Nom
+ışınların ışın+Noun+A3pl+Pnon+Gen ışın+Noun+A3pl+P2sg+Nom ışınla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Nom
+büyük büyük+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+kısmını kısım+Noun+A3sg+P3sg+Acc kısım+Noun+A3sg+P2sg+Acc
+absorbe absorbe+Adj
+eden e+Noun+A3sg+Pnon+Abl et+Verb+Pos^DB+Adj+PresPart
+katman kat+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom katman+Noun+A3sg+Pnon+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

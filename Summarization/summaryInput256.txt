@@ -1,0 +1,247 @@
+Question: İzohips yöntemi nasıl uygulanır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İzohips harita</DOCTITLE>
+<TEXT>
+
+İzohips harita veya İzohips eş yükselti eğrisi yöntemli harita — deniz seviyesine göre aynı yükseltide bulunan noktaların birleştirilmesi ile oluşan eğreltilerin kullanıldığı yöntemdir. Eğrilerin sık ya da seyrek olması, yüzey şekilleri hakkında bilgi verir. 
+Deniz seviyesine göre aynı derinlikteki noktaların birleşmesi ile oluşturulana ise "İzobat" denir. "İzobat" kelimesi ise "izo=eş"; Yunanca βαθυς "bath=derinlik" anlamına gelir. 
+Kıyı çizgisi, izohips ile izobatların kesişme noktalarıdır. İzohips yöntemi, haritalarda yer şekillerini gösterme yöntemlerinden en yaygın olanıdır. Bu yöntemle çizilmiş haritaların kullanımını kolaylaştırmak için belirli yükseltiler farklı renklerle gösterilir. İzohips kelimesi ise "izo=eş"; "hips=yükselti" anlamına gelmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haritalarda yüzey şekillerinin gösterilmesi</DOCTITLE>
+<TEXT>
+
+Haritalarda yüzey şekillerinin gösterilmesi amacıyla yeryüzü şekilleri düzlem üzerine geçirilirken değişik yöntemler kullanılarak çizim yapılır. Bunlardan bazıları;
+Tarama Yöntemi.
+Kalınlıkları, eğim ile orantılı olarak artan çizgilerle çizilir. Çizgiler eğimin çok olduğu yerde kalınlaşır, eğim azaldıkça incelir. Düzlükler beyaz bırakılır. Az kullanılan bir metotdur. Büyük ölçekli ve özel amaçlı haritalarda kullanılır.
+Renklendirme Yöntemi Hesaplamaları.
+Fiziki haritalarda yeryüzüşekillerini daha belirgin gösterebilmek için yükselti basamakları renklerle boyanır. Genellikle şöyle bir sıra takip edilir:
+Eş Yükselti Eğrisi (İzohips) Yöntemi.
+En çok kullanılan yöntemdir. Deniz seviyesine göre aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen iç içe kapalı eğrilere izohips "(eş yükselti eğrisi)" denir.
+İzohipslerin özellikleri şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Arazi Rehberimiz: İzohipsler (EBA)</DOCTITLE>
+<TEXT>
+
+Yer Şekillerinin Çizgilere Yansıması
+Çevresindeki tepeler arasında kalan, yükseltisi onlardan daha az olan ve komşu iki akarsu havzasını birbirinden ayıran yerler “boyun” olarak adlandırılır.
+Akarsu vadilerinin olduğu yerlerde eş yükselti eğrileri “V” şeklini alır. “V ’nin sivri ucu akarsuyun kaynak yönünü gösterir ve bu yöne doğru eş yükselti eğrilerinin değeri artar.
+Dağ ve tepelerin dorukları “nokta” veya “üçgen”vb. ile gösterilir.
+Eğimin arttığı yerlerde izohipsler sıklaşır.
+Eş yükselti eğrileri arasındaki yükselti farkı her yerde aynıdır. Eğriler arasındaki yatay uzaklık eğime bağlı olarak değişir.
+En dıştaki eğrinin yükseltisi en azdır. Deniz seviyesi “O” metre eğrisi ile gösterilir.
+Dağ ve tepelerin olduğu yerlerde eş yükselti eğrilerinin çapı en dıştan en içe doğru gidildikçe küçülür. En içteki eş yükselti eğrisi, en yüksek seviyeyi gösterir.
+“V’nin açık ucuna doğru yükselti değerlerinin arttığı yerler sırt olarak adlandırılır.
+Çukur alanlar, izohips yöntemi ile çizilen haritalarda “-->” işareti ile gösterilir. Bu alanların yükseltisi çevresine göre daha azdır.
+Ovalarda ve eğimin az olduğu yerlerde eş yükselti eğrileri seyrek geçer.
+Eş Yükselti Eğrilerinden Profil Oluşturma
+Eş yükselti eğrilerinden faydalanılarak yeryüzü şekillerinin profili elde edilir. Bunun için profili çıkarılacak harita, kâğıt üzerine yerleştirilip haritanın alt kısmına milimetrik kâğıt konur. Milimetrik kâğıdın sol tarafına şekilde görüldüğü gibi haritadaki yükselti değerleri yazılır. Harita üzerinde profili çıkarılacak noktalar arasında bir doğru (A-B) çizilir. A noktasından başlanarak A-B doğrusunun eş yükselti eğrilerini kestiği her noktadan bu eş yükselti eğrilerinin yükseltisi ile milimetrik kâğıt üzerindeki yükselti değerinin kesiştiği noktaya kadar dikey doğrultuda bir çizgi çizilir. Bu yere bir nokta işareti konulur. Bu işlem B noktasına kadar devam ettirilir. İşlem bittikten sonra bu noktalar birleştirilir. Böylece A-B noktaları arasındaki profil elde edilmiş olur.
+Eğim Hesaplama
+İki nokta arasındaki yatay mesafe biliniyorsa bu noktalar arasındaki eğimi izohipslerden yararlanarak hesaplayabiliriz. Eğim değeri; iki nokta arasındaki yükselti farkının 100 veya 1000 ile çarpılıp bu iki nokta arasındaki yatay mesafeye bölünmesi ile elde edilir. Eğim yüzde (%) olarak istenmişse yükseklik farkı 100 ile binde (%o) olarak istenmişse 1000 ile çarpılır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haritalarda Yerşekillerini Gösterme Yöntemleri (EBA)</DOCTITLE>
+<TEXT>
+
+İstanbul’da okuyan bir grup üniversite öğrencisi memleketlerine gitmek istiyor. Bu öğrenciler Türkiye’nin değişik bölgelerinde ikamet etmektedir. Öğrenciler memleketlerine aynı ulaşım araçlarını kullanarak gidebilirler mi? Şüphesiz her öğrenci kendi memleketine gitmek için en uygun aracı seçecektir. Örneğin Kahramanmaraş’a gitmek isteyen bir öğrenci gemiyle doğrudan memleketine ulaşamaz. Fakat Yalova’ya gitmek isteyen bir öğrenci için en uygun ulaşım aracı feribottur. Yukarıdaki örnekte görüldüğü gibi her öğrenci amacına ulaşmak için uygun ulaşım türünü seçer. Harita çizimi yapılırken de haritanın kullanış amacına en uygun yöntem seçilir. Şimdi haritada yeryüzü şekillerini gösterme yöntemlerini birlikte öğrenelim.
+Kabartma Yöntemi
+Bu yöntemle hazırlanan haritalarda, yükselti değerleri belli oranda küçültülür ve yer şekilleri kabartılarak gösterilir. Bu haritalar yer şekillerinin üç boyutlu ve gerçeğe en uygun olarak gösterilmesini sağlar. Ancak bu haritaların yapılışı ve taşınması zor olduğundan kullanımı yaygın değildir.
+İzohips (Eş Yükselti Eğrisi) Yöntemi
+Deniz seviyesine göre aynı yükseltide bulunan noktaların birleştirilmesi ile oluşan eğrilerin kullanıldığı yöntemdir. Eğrilerin sık ya da seyrek olması yüzey şekilleri hakkında bilgi verir. Deniz seviyesine göre aynı derinlikteki noktaların birleştirilmesi ile oluşturulan eğrilere ise izobat (eş derinlik) denir. Kıyı çizgisi, izohips ile izobatların birleşme noktalarıdır. İzohips yöntemi haritalarda yer şekillerini gösterme yöntemlerinden en yaygın olanıdır. Bu yöntemle çizilmiş haritaların kullanımını kolaylaştırmak için belirli yükseltiler farklı renklerle gösterilir.
+Renklendirme Yöntemi
+Öğretmen: Arkadaşlar fiziki haritalardaki yeşil renkler sizce neyi ifade eder?
+Aynur: Ormanların dağılışını.
+Öğretmen: Hayır.
+Zeynep: Ovaların dağılışını.
+Öğretmen: Hayır.
+Sinan: Tarlaların dağılışını.
+Öğretmen: Hayır. Size bir ipucu vereyim. Ülkemizin batısında yeşil renkli alanlar fazla iken doğuya doğru gidildikçe yeşil renk kullanımı niçin azalmaktadır?
+Ali: Buldum öğretmenim. Yeşil renk yükseltisi az olan yerleri gösteriyor. Çünkü ülkemizde batıdan doğuya doğru gidildikçe yükselti artmaktadır.
+Öğretmen: Evet arkadaşlar, Ali’nin dediği gibi renklendirme yöntemiyle çizilmiş fiziki haritalarda renkler belirli yükseltileri gösterir. Peki bir soru daha. Denizlerdeki mavi ve tonları size neyi anlatıyor?
+Özlem: Öğretmenim açık mavi, derinliği az olan yerleri; koyu mavi, derinliği fazla olan yerleri gösteri yor.
+Öğretmen: Aferin çocuklar. Haritalardaki renklendirme yöntemini iyi kavramışsınız.
+Tarama Yöntemi
+Bu yöntemde eğimin fazla olduğu yerlerde çizgiler sık, kalın ve kısadır. Eğimin azaldığı yerlerde ise çizgiler uzun, ince ve seyrektir. Düz yerler boş bırakılır. Çizgilerin uzanış doğrultusu eğim yönünü gösterir. Tarama yöntemiyle çizilen haritalar yüzey şekilleri hakkında genel bir fikir verir.
+Gölgelendirme yöntemi
+Haritalar, bir köşesinden 45°lik eğimli bir ışıkla aydınlatıldığı kabul edilerek çizilir. Harita aydınlatıldığında ışık alan yerler açık, ışık almayan yerler ise koyu gösterilir. Haritadaki yer şekillerinin yükseltisine bağlı olarak açık tonlu renkten koyu tonlu renklere doğru geçiş yapılarak yer şekilleri gösterilir. Bu yöntemde yükselti basamakları bulunmadığından, yükseltileri tespit etmek ve profil çıkarmak olanaksızdır. Bu nedenle gölgelendirme yöntemi modern haritacılıkta yardımcı bir yöntem olarak kullanılır.
+Kullanım Amaçlarına Göre Haritalar
+Her haritanın hazırlanış amacı farklıdır. Değişik özellikler dikkate alınarak hazırlanan haritalar, kullanım amaçları açısından farklı isimler alır. Örneğin iklim bölgeleri haritası, toprak haritası, maden haritası, fiziki harita, nüfus haritası vb.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jacobo Arbenz Guzmán</DOCTITLE>
+<TEXT>
+
+Albay Jacobo Arbenz Guzmán (14 Eylül 1913 – 27 Ocak 1971) 1951 yılından 1954 yılına kadar Guatemala'nın başkanlığını yapmıştır. 1954 yılında CIA tarafından düzenlenen (Operasyon PBSUCCESS) darbe ile başkanlıktan indirilmiş ve ülkeyi uzun yıllar süren politik karışıklığa ve kaosa iten bu darbe sonucunda başkanlığını Albay Carlos Castillo Armas'ın yaptığı askerî cunta başa getirilmiştir.
+Başkanlıktan önceki yaşamı.
+Quetzaltenango'da doğan Arbenz Guatemala'ya göçeden İsviçreli bir eczacının oğludur. Yaşamının ilk yılları babasının intiharı nedeniyle zor geçmiştir. Orduya katılan Arbenz Guatemala Askerî Akademisi'ni bitirerek 1935 yılında asteğmen olmuştur. 1937'de Guatemala Askerî Akademisi'ne dönerek bilim ve tarih dersleri vermiştir. 1939 yılında ileride evleneceği Maria Cristina Vilanova tanışmıştır. Eşi sayesinde sosyalist felsefeyle tanışmıştır. El Salvadorlu zengin bir arazi sahibinin kızı olan Maria, Arbenz'in hayatını çok etkilemiş ve Guatemala hükümetini devirmesi için eşini ikna etmiştir. Arbenz bir grup solcu subaya katılarak 1944 yılında diktatör Jorge Ubico'nun (1878-1946) devrilmesine yardım etmiştir. Ubico'nun devrilmesinden sonra kurulan Juan José Arévalo hükümetinde Arbenz Guatemala Savunma Bakanlığı görevini üstlenmiştir.
+Başkanlık dönemi ve darbe.
+Mart 1951'de Guatematala tarihinde ilk defa yapılan genel seçim sonrası başkanlık görevini üstlendi. Bu Guatemala tarihinde ilk defa barışçıl yollardan iktidara geçiştir. Seçim kampanyasında reform vaatleriyle yaptı ve Guatemala'yı sömürge döneminden kalma ABD bağımlılığından kurtararak ekonomik özgürlüğünü kazanmış bir kapitalist devlet haline getireceğini söyleyerek oyların %60'ını topladı. Selefi Juan José Arévalo Bermejo tüm yurttaşların politik sürece katılımını sağlayabilmek için bir dizi reforma başlamıştı. Arévalo'nun seçme özgürlüğünü ve emekçilerin hakkını genişletmesi seçkin tabakanın geleneksel gücünü tehdit ettiğinden yapılan yirmiden fazla darbe girişimi başarısızlıkla sonuçlandı.
+Arévalo'nun reformlarına kaldığı yerden devam eden Arbenz hükümeti Haziran 1952'de ABD'nin 1862 tarihli ""Homestead Act"" (İskân Yasası) temel alınarak hazırlanan bir tarım reformunu yasalaştırdı. Yeni yasa hükümete büyük çiftliklerin ekim yapılmayan bölümlerini kamulaştırma yetkisi vermekteydi. Büyüklüğü 670 dönüme kadar olan araziler üçte ikisinin ekili olması şartıyla bu yasa kapsamı dışında tutulmuştur. Aynı zamanda 30 dereceden fazla eğimli araziler de ki dağlık Guatemala için önemli ölçüde arazi bu yasa kapsamı dışındaydı. Kamulaştırılan bu toprak daha sonra 1800'lerde ABD'nin amaçladığına benzer şekilde birbirinden ayrı ailelere dağıtılarak küçük çiftlik sahibi bir ulus yaratılmak istenmiştir. Kamulaştırılan arazi sahiplerine iskân bedeli olarak arazilerin Mayıs 1952 vergi beyannamelerinde gösterilen değer üzerinden tazminat hesaplanmıştır. Arazi bedeli yüzde 3 faiz oranıyla 25 yıllık hazine bonosu olarak verilmiştir. Karısı sayesinde arazi sahibi olan Arbenz, bu toprak reformu sırasında kendi arazisinin 1.700 dönümünü kamulaştırma kapsamında devlete bırakmıştır.
+Arbenz göreve başladıktan sonra etkili bir toprak reformu kurabilmek için gizlice Komünist Guatemala İşçi Partisi "(PGT-Partido Guatemalteco del Trabajo)" üyeleri ile biraraya geldi. Ülkedeki toprak dağılımındaki aşırı eşitsizliğini gidermek için böyle bir program Arbenz tarafından önerilmişti. 1945 yılında ülkenin verimli topraklarının %72'sine ülke nüfusunun yalnızca %2'sinin mülkiyetinde olduğu ve yalnızca %12'sinin kullanıldığı tahmin edilmektedir. Bu oran ABD tarımında rastlanan orandı ancak ekonomik çeşitliliğin olmaması ve ücretlerdeki farklılık nedeniyle 1950'lerin Guatemala'sında tarım alanında çalışan emekçilerin kazancı yılda 100 $'ı geçmiyordu ve ABD ekonomisi yüksek derecede sanayileşmiş ve çeşitli iken Guatemala çok az miktarda sanayileşebilmişti.
+Arbenz'in önerdiği gündem Guatemala nüfusunun çoğunluğunu oluşturan yoksullaştırılmış köylüler tarafından kabul gördüyse de büyük toprak sahiplerini, güçlü Amerikan şirketlerini ve Arbenz'i Komünist etki altında kalmakla suçlayan ordu içindeki hizipleri öfkelendirdi. (Komünistlerin Guatemala'da şu anda bile ne kadar etki sahibi olduğu hala tartışma konusudur.) Bu gerilim ülkede önemli ölçüde huzursuzluğa neden oldu.Aurora havaalanında başkaldıran Guatemala Ordusu'ndan bir subay olan Carlos Castillo Armas vurularak yaralandı ve isyan bastırıldı. Bir Guatemala hapishanesinde bir süre kalan Armas kaçtıktan sonra sürgüne gitti.
+Bu kararsızlık ortamı ve Arbenz'in PGT ile diğer Komünist ve emekçi etkilerine karşı gösterdiği tolerans CIA'in 1951 yılında Operasyon PBFORTUNE adını verdiği bir olasılık planı yapmasına yol açtı. Bu planda Arbenz'in yarıkürede Komünist bir tehdit haline gelmesi durumunda nasıl devrileceğinin yöntemi gösteriliyordu.
+ABD kaynaklı bir şirket olan ""United Fruit Company""de (UFC) Arbenz'in toprak reformu girişiminden etkileniyordu. Guatemala'nın en büyük toprak sahibi olan bu şirketin arazisinin %85'i ekili olmadığı için Arbenz'in reform planlarından etkileniyorlardı. Vergi yükümlülüklerini hesaplarken bu şirket düzenli olarak malvarlıklarının değerini oldukça düşük gösteriyordu. 1952 yılı vergi beyannamesinde topraklarının değerini dönümü 3$ olarak göstermişti. Bu beyannameye uygun olarak Arbenz hükümeti tazminat değerini dönümü 3$ olarak belirleyince şirket arazinin gerçek değerinin dönümü 75$ olduğunu iddia etti ama kendi hesapladıkları bu arazi değerindeki olağanüstü artışın nedenini belirtmedi.
+UFC'nin ABD hükümetinde ile güçlü bağlantıları vardı. ABD Dışişleri Bakanı John Foster Dulles ve kardeşi CIA Başkanı Allen Welsh Dulles'ın önceki hukuk şirketleri kanalıyla UFC ile yakın temastaydılar. Eisenhower'in güvenilir yaveri ve Dışişleri Müsteşarı Walter Bedell Smith de bu şirket ile yakın ilişki içindeydi ve bir zamanlar yöneticilik görevi için başvurmuştu. Bu kişilerin her üçü de şirketin hissedârları arasındaydı.
+1952 yılında Guatemala İşçi Partisi yasallaştı ve Komünistler sonradan önemli köylü örgütleri ve işçi sendikalarında azınlık olarak önemli derecede nüfuz kazandılar ama hükümetteki politik partiyi geçemediler ve 58 sandalyeli parlamentoda yalnızca 4 sandalye kazanabildiler. Operasyon PBFORTUNE'ün taslağını hazırlayan CIA Arbenz'in potansiyel komünist bağları hakkında kaygılanmaya başlamıştı. UFC yaptığı lobi çalışmalarıyla Arévalo'nun zamanından beri CIA'in reformcu hükümetleri devirmesini istiyordu ama Eisenhower iktidarına kadar Beyaz Saray'a sözünü geçirememişti. Eisonhower yönetimi 1954 yılında bir önceki sene İran'daki Musaddık hükümetini devirmek için yapılan gizli operasyonların zafer sarhoşluğunu yaşıyordu. İran'daki darbenin mimarı olan CIA Ajanı Kermit Roosevelt Bakan Dulles'ı şöyle anlatmıştır: " Endişe verecek derecede coşku doluydu. Gözlerinin içi parıldıyordu ve dev bir kedi gibi hırıldıyordu. Yalnız duyduğundan zevk aldığını değil aynı zamanda kafasında bir şeyler planladığını da açıkça görebiliyordunuz." 1954 Şubat'ında CIA operasyon WASHTUB'a başladı. Bu operasyonla Nikaragua'ya sahte bir Sovyet silah deposu gizleyerek Guatemala'nın Moskova ile olan bağlantısını göstermeyi planlamışlardı.
+1954 Mayıs'ında Çek silahları İsveç bandıralı Alfhem gemisiyle Guatemala'ya vardı. ABD bunun Arbenz'in Sovyet bağlantısının son kanıtı olduğunu iddia etti. Arbenz'i destekleyenler ise Guatemala'nın Batı Avrupa'daki değişik ülkelerden silah alma girişiminde bulunduklarını ve hiçbir yerden karşılık alamayınca Çeklerle anlaştıklarını belirtirler. Arbenz hükümeti ABD destekli bir işgalin kaçınılmaz olduğuna inanmıştı. Bir süre önce ABD'nin hazırladığı Operasyon PBFORTUNE ("White Papers", Beyaz Kağıtlar'da denmektedir) detaylı bilgileri açıklamıştı ve aynı yıl içinde Karakas'ta yapılan Amerikan Devletler Örgütü ("Organization of American States') birleşiminde ABD'nin eylemlerinin müdaheleyi yönlendirici şeklinde algıladıklarını bildirmişti. ABD yönetimi, hükümeti devirmek için CIA'in Operasyon PBSUCCESS kodadı verilen bir darbe örgütlemesini emretmiştir. 27 Haziran 1954'te istifa eden Arbenz kaçmak zorunda bırakılmış ve Meksika Büyükelçiliği'ne sığınmıştır.
+Darbeden sonraki yaşamı.
+Önce Meksika'da bir süre kaldıktan sonra ailesiyle birlikte İsviçre'ye gitti. İsviçre hükümeti Arbenz'in İsviçre'de ikamet edebilmesi için Guatemala vatandaşlığından vazgeçmesini şart koşunca bunu reddeden Arbenz önce Paris'e sonra da Prag'a geçti. Çek resmi görevlileri Arbenz'in ülkelerinde kalmasından pek memnun değillerdi ve 1954'te sattıkları silahların düşük kalitesi nedeniyle geri ödeme isteyip istemeyeceğinden emin değildiler. Yalnızca üç ay sonra Moskova'ya geçti. Birçok kereler Latin Amerika'ya dönmeyi denedikten sonra 1957 yılında Uruguay'a gidebilmek için izin alabildi.
+1960 yılında Küba Devrimi'nden sonra Fidel Castro Arbenz'i Küba'ya davet etti. Bu daveti hemen kabul eden Arbenz, kısa sürede Castro'nun Küba için seçtiği yoldan hoşnutsuzluk duymaya başladı. 1965 yılında en sevdiği büyük kızı Arabella'nın Bogotá, Kolombiya'da kendini öldürdüğünü duyunca yıkılan Arbenz, kızının cenaze töreni için verilen izinle Meksika'ya gitti ve sonra da orada kalmasına izin verildi. 27 Ocak 1971'de banyosunda ölü bulundu. Ya boğularak ya da kaynar suyla haşlanarak öldüğü sanılmaktadır ancak ölümünün arkasındaki gerçekler hala bilinememektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikroenjeksiyon</DOCTITLE>
+<TEXT>
+
+Mikroenjeksiyon, camdan yapılmış bir mikropipetle hücre duvarından mikroskobik boyutta madde ekleme yöntemi. Diğer tekniklere göre daha zahmetli bir teknik olmasına rağmen özellikle transgenik hayvan üretilmesinde ve gen aktarımında sıklıkla kullanılmaktadır. Mikroenjeksiyon aktarılmak istenen DNA parçasının doğrudan fiziksel bir yöntemle hücrenin çekirdeğine iletilmesi metoduna dayanır. Mikroenjeksiyonun genellikle yumurta hücrelerine uygulanması sonucunda transgenik hayvan üretimi mümkün hale gelmektedir. Uygulama, gen aktarılacak hücrenin küçük bir vakumla mikroskop altında sabitlenmesiyle başlatılır. Hazırlanan DNA, çok ince uçlu bir pipetle hücrenin çekirdeğine iletilir ve buraya zerk edilir. Bu hücrenin gelişmesiyle de DNA'sı alınan canlının aynısı meydana gelir. Bu sistem kullanılarak memeli yumurta hücreleri, kurbağa yumurtaları ve muhtelif bitki protoplastlarında başarılı çalışmalar yapılmıştır. Bu teknik günümüzde sperm hücrelerinin herhangi bir nedenle kadın yumurtasına erişemediği veya yumurta zarını aşamadığı erkek kısırlığı durumlarında ise yeni bir tüp bebek yöntemi olarak da kullanılmaktadır.
+Nasıl Uygulanır?
+Mikroenjeksiyon yöntemi uygulanırken erkekten alınan tek bir sperm hücresi, kadından alınan yumurtanın içerisine mikroskop yardımı ile incecik bir iğneyle yerleştirilir ve döllenme oluşması sağlanır. Mikroenjeksiyon yöntemi ile sperm sayısı ve hareketliliği az olan ve spermlerinde şekil bozukluğu olan erkekler baba olabiliyor. Kısırlık tedavisi uygulanırken herhangi bir sebepten dolayı erkeğin spermi ile kadının yumurtasının buluşamadığı durumlarda mikroenjeksiyon tekniği devreye giriyor. Mikroenjeksiyon, ileri derece erkek kısırlığında oldukça yüksek başarı sağlayan bir yöntemdir. 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nükleoplasti</DOCTITLE>
+<TEXT>
+
+Nükleoplasti; lomber disk hastalığında geliştirilmiş olan ve lokal anestezi altında uygulanan lomber diskin koagülasyonu esasına dayalı yeni bir tedavi metodudur.
+Nükleoplasti (Ameliyatsız bel ve boyun fıtığı tedavisi)
+Nükleoplasti bel ve boyun fıtığı tedavisi için geliştirilmiş ameliyat dışı girişimsel bir yöntemdir.
+Nükleoplasti, anlam olarak diskin merkezinde yer alan jel kıvamındaki madde olan nükleus pulpozus’un (disk çekirdeğinin) çıkarılmasıdır. Diskin dış yüzünü anulus adı verilen soğan zarı gibi bir kemer sarar. Bel ve boyun fıtığı bu zarın yırtılması ve nükleusun dışarıya fırlayarak sinirlere baskı yapmasıyla oluşur.
+Fıtık oluşumu ve sinir basısı
+Bu işlem için özel geliştirilmiş bir iğne görüntüleme yöntemi eşliğinde diske yerleştirilir. Bu iğnenin içinden geçirilen bir elektrot disk içine ulaştırılır. Bu elektrot yardımıyla ısı oluşturularak diskin içindeki jel kıvamındaki madde çıkarılır.
+Nasıl uygulanır?
+Hastanemizde ameliyathane koşullarında skopi adı verilen görüntüleme yöntemi eşliğinde uygulanmaktadır.
+İşlem sırasında hasta uyutulmaz ve yüz üstü yatar. İşlemi skopi ekranından bizzat takip edebilir. Hastanın işlem sırasında rahatsızlık hissetmemesi ve gevşemesini sağlamak için sakinleştirici ilaç uygulanır. Ayrıca işlemin yapılacağı bölgeye lokal anestezik ilaç da yapılır. Bu şekilde hasta işlem sırasında ağrı duymaz ve herhangi bir rahatsızlık hissetmez.
+İşlem tamamen steril koşullarda ve tek kullanımlık malzeme ile gerçekleştirilir.
+Uygulama sonrası görünüm
+Ne kadar sürer?
+Nükleoplasti yaklaşık 30 dakika süren bir işlemdir.
+İşlem sonrası ne yapılmalıdır?
+İşlemin yapıldığı hastalar operasyon günü ve sonrasındaki 48 saat içinde dinlenmelidir. Sonra işe başlanabilir.
+İlk hafta araba kullanmak, ağırlık kaldırmak ve eğilmek gibi beli zorlayıcı aktivitelerden kaçınılmalıdır.
+Riskleri ve yan etkileri var mı?
+Nükleoplasti genel olarak güvenli bir işlemdir. İşlem görüntüleme eşliğinde yapıldığından daha ciddi komplikasyon görülmez. Ancak, tüm işlemler gibi nükleoplastinin de bir takım yan etkileri olabilir.
+En sık görülen yan etki, geçici ağrıdır.
+Enfeksiyondan korunmak için işlem steril koşullarda ve tek kullanımlık malzeme ile yapılır.
+Sonuç
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vitiligo</DOCTITLE>
+<TEXT>
+
+Vitiligo dış derinin renk kaybına uğramasıyla oluşan beyaz plaklarla seyreden bir deri hastalığıdır. 
+"Modern Tıp Vitiligo için gereken tedavi uygulandığında geçen iyileşen bir hastalık olarak görmektedir"
+Her beyaz leke vitiligo değildir. Vitiligo olduğu düşünülen rahatsızlık da vitiligo olmayabilir. Özellikle, sıkıntılı stresli bir süreçten geçmek, vitaminsizlik-gerekli gıdanın alınamaması, antibiyotik ilaç tedavileri, ağrılı, ateşli hastalıklar, uyku bozukluğu ve psikolojik bunalım bu hastalığı tetiklemektedir.
+Vitiligo Nasıl Oluşur?
+Vitiligo'da bağışıklık sistemimiz yanlış programlanarak, ciltte bulunan dost melanositleri, yani cilde renk veren hücreleri görevini kısıtlaması ile başlayan bir süreçtir. 
+Problemli olan bölgelerde cilde rengini veren melanositlerin kısıtlanması nedeniyle tüyler ve kıllarda da beyazlık görülür. Beyaz renge dönüşen bölgeler çeşitli büyüklüklerde olabilir. Kimi zaman görünmeyecek kadar küçük olan bu bölgeler, kimi zaman çok daha büyük boyutlara ulaşabilir ve hatta derinin büyük bir bölümünü etkilemiş olabilir. 
+Sıklıkla vücudun yüz, dudak, boyun, göğüs, penis, diz, dirsek ve el ve kol bölgelerinde görülür. 
+Problemli olan bölgeler güneş sonucu oluşan ultraviyole ışınlara karşı diğer bölgelerden daha hassas olurlar. Hastalıklı kişilerde güneş yanıklarından, veya alınabilecek herhangi bir darbelerden sonra yeni vitiligo bölgeleri oluşabilir. Vitiligo hastalığı birçok hastalıkla (tiroid, kansızlık vs.) beraber aynı anda görülebilinir.
+Vitiligo'da hastalıklı bölgeler güneşin etkisiyle çevredeki sağlıklı renk melanosit hücreleri bronzlaşınca ortaya çıkar. 
+Yani güneş vitiligoya neden olmaz sadece belirgin hale gelmesini sağlar.
+Vitiligo Ne Sıklıkla Görülür ?
+Toplumda görülme sıklığı %1 ile %4 arasındadır. Vücutta oluşan her beyaz leke kişinin vitiligo hastalığına yakalandığı anlamına gelmez. Bu ayrımın yapılabilmesi için hastalıkla ilgili bir uzman doktor muayenesi şarttır. Birçok farklı rahatsızlığa bağlı lekeler vitiligo hastalığı sonucu oluşan lekeler ile karışabilir. Bu hastalık, otoimmun kökenli olup hastanın vücudundaki renk oluşumunu sağlayan hücrelere (melanosit) karşı hastanın vücudundaki bağışıklık sistemi hücrelerinin saldırısı ile başlar.
+Vitiligo Kalıtsal (Irsi) bir hastalık mıdır ?
+Hayır değildir ! Özellikle hastalığın veya hastalığı taşıyan bireylerinde ailesinde bu hastalığın bulunması, kişilerde olası, fakat kesin değildir. 
+Vücudun bağışıklık sisteminin çeşitli nedenlerle aktifleştiği anlarda ve farklı hastalık dönemlerinde vitiligonun başlaması ve artması daha olasıdır.
+Modern Tıp Vitiligo için kalıtsal olmayan ve iyileşebilen bir hastalık olarak görüyor. 
+Bu kişiden kişiye değişse bile çevre faktörleri veya kronik başka rahatsızlıkların da tekiklediği pigment kaybı çeşitli ilaçlarla takviye edilmeli ve alanında uzman bir dermatologa görünülmelidir.
+Vitiligoda Tedavi Nasıl Uygulanır ?
+Bazı kişilerde vitiligo teşhisi yanlış konulmaktadır. Kendi alalında uzman kişiler de bazen bu yanılgıya düşmektedir. Çeşitli tahliller yapılmalı ve deride pigment kaybının ne derecede olduğu tespit edilmelidir. Her beyaz leke vitiligo değildir. Belirli bir zamanda sıkıntı veya stresli bir dönem geçiren kişiler de deri döküntüsü yaşayabilir, veya kullanılan çeşitli ilaçların yan etkisiyle de deri döküntüsü meydana gelebilir. Vitaminsizlik, iştah kaybı, uyku bozukluğu da bu hastalığı tetikleyen etmenlerdendir. 
+Bu rahatsızlıtan şikayetçi olan kişiler alanında uzman bir dermatoloğa gitmeli ve tahlil yaptırmalıdır. Özellikle T3 ve T4 Troid hormonlarınına bakılmalıdır; gerekli görüldüğü taktirde beyaz bölgeden biyopsi alınarak bölgedeki pigment kaybına bakılmalıdır. 
+Özellikle B12 ekstra vitamin ihtiyacı tamamlanmalı, kişinin kan seviyesi düzenli olmalı, kansızlığı önleyen iştah açıcı besinler tüketmelidir.
+Uzman doktorlar hastaya göre çeşitli tedavi yöntemleri uygulamaktadır. 
+En sık başvurulan yöntem UVA, UVB ve Darband (Işın tedavisi) yöntemleridir. Işığın deriye nüfuz ederek hücrelerin uyarılması ve pigmentlerin aktifleştirilmesi amaçlanmaktadır.
+Modern tıp her geçen gün ilerlemektedir. Bazı otoriteler gelecek yıllarda insanın, saç rengini değiştirebildiği gibi cilt rengini de sık sık değiştirebileceğini iddia etmektedir.
+Vitiligo Tedavi Olabilen Bir Hastalıktır..
+Vitiligo tedavisi mümkün olan iyileşen bir cilt problemidir. Ancak hasta düzenli olarak tedavi şartlarına uyduğunda gerçekleşebilir. 
+Bazı dermatologlar güneşin en yoğun saatlerinde dışarı çıkmamayı öneriyor. Bazıları ise çeşitli kremlerle vücudun sorunlu olan bölgelerine sürülüp yeterli süreyle güneşe maruz bırakılması gerektiğini öneriyor. Böylelikle güneş renk melanosit hücrelerini tetikleyecek ve pigment oluşumunu sağlayacaktır. Dermatologunuz vitiligo hastalığınızın yaygınlığına ve sürecine göre sizin için uygun tedaviyi planlayacaktır.
+Hastalığın Tedavi Yöntemleri.
+Dünya'da çeşitli dermatolog bilim adamlarının çeşitli başarılı yöntemleri vardır yalnız bunlar henüz deneme aşamasında olduğundan dolayı pek bilinmemektedir yakın bir zaman içersinde bu sıkıntının kalkacağını ve insanların normal kendi derisine sahip olabileceği söylenmektedir.
+Vitiligo'da Toplumsal Farklılıklar.
+Yalnız özellikle asya ülkelerinde koyu tene sahip olan halk cildini beyazlatmak için çeşitli yöntemler denemiştir sebep açık tenli insanların toplumun üst kısmında olduğu ve zenci koyu tene sahip olan insanların daha alt tabakada olduğu ırkçılık ve ayrımcılık yapıldığı inanılırdı .
+Siyahi ırkda 1000 kişide yalnızca 1 görülen vitiligo koyu tene sahip olan asyalılar için tanrının onlara verdiği güzel bir hediye olarak düşünülürdü
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkili test</DOCTITLE>
+<TEXT>
+
+İkili tarama testi ya da 11-14 testi olarak da bilinen ilk trimester tarama testi Down sendromu ve Trizomi 18 adı verilen kromozomal sahip bebekleri gebeliğin çok erken dönemlerinde saptamaya yönelik bir tarama testidir.Bu kaynak hazırlanırken kullanılan kaynaklar:
+Tüm tarama testlerinde olduğu gibi bu test de koydurmaz. Sadece hastalık açısından yüksek risk altındaki bebekleri işaret eder ve bu bebeklerde kesin tanıya götüren tanısal testlerin yapılmasını sağlar. Bir başka deyişle testin yüksek göstermesi bebekte anomali olduğunun kanıtı olmadığı gibi, riskin düşük çıkması da bebeğin tamamen sağlıklı olduğunu garanti etmez.
+İlk trimester tarama testinin üçlü test ile karşılaştırıldığında bazı avantajları vardır. Bunlardan en önemlisi testin daha erken dönemde yapılması sonucu olası bir olumsuzluk durumunda gebeliğin daha erken ve risksiz şekilde sonlandırılmasına olanak tanır. Dahası duyarlılığı üçlü teste göre daha yüksektir ve Down sendromu ile trizomi 18 olgularının % 90'ının tanımasına yardımcı olur.
+Test nasıl uygulanır?
+11-14 testi temel olarak iki ayrı incelemenin bir arada değerlendirilmesi ile yapılır. Bunlar:
+Bu ölçümler tek başlarına yapıldığında duyarlılıkları düşükken bir arada değerlendirildiklerinde başarı şansı % 90'a kadar çıkmaktadır.
+Fetal ense kalınlığı.
+Fetal ense kalınlığı, ultrasonografide bebeğin boynunun arka kısmında koyu renkli olarak görünen kısmı anlatmak için kullanılan bir terimdir. Terimin ingilizcedeki orijinal şekli "nuchal translucency"'dir. Gebelik ilerleyip bebek büyüdükçe ense kalınlığı da giderek artar. Bu nedenle ölçüm 11-14. haftalar arasında yapılabilir ve büyük dikkat gerektirir. Ölçüm yapılırken yapılacak milimetrik bir hata risk oranlarında büyük değişikliğe neden olabilir.
+Yapılan çok sayıda araştırmada 11 ile 14. gebelik haftaları arasındaki fetal ense kalınlığı ile Down sendromu başta olmak üzere bazı kromozom anomalileri arasında sıkı bir ilişki olduğu ortaya konmuştur. Değişik araştırmalarda sadece belirtilen zaman diliminde fetal ense kalınlığının ölçülmesi ile Down sendromlu bebeklerin % 40-70'inin saptanabildiği ortaya konmuştur. Ancak bu bebeklerin annelerinin, ileri yaş gebelikleri ya da daha önceki gebeliklerinde kromozom anomalili bebek doğurma öyküsü nedeni ile incelemeye alınan zaten yüksek riski gebeler olduğu akılda tutulmalıdır.
+Düşük risk grubundaki kadınlarda yapılan çalışmalar ise çelişkili sonuçlar vermiştir. Bu çelişkinin altında yatan neden ölçümü yapan kişiler arasında, hatta aynı kişinin ölçüm yapması durumunda bile iki ölçüm arasında ortaya çıkan farklılıklardır. Ek olarak artmış fetal kalınlığın tanımı ile ilgili de fikir birliği uzunca bir süre sağlanamamıştır. Fetal ense kalınlığı ölçülürken ultrasonun hangi kesitinin kullanılması gerektiği de uzunca bir süre tartışma konusu olmuş, farklı kesitlerin duyarlılığının daha yüksek olduğu ileri sürülmüştür.
+Günümüzde yaygın olarak kabul edilen görüşe göre gebeliğin 11-14. haftaları arasında bebeğin baş-popo uzunluğunun ölçüldüğü kesitte ense kalınlığının 3 milimetreden fazla olması artmış fetal ense kalınlığı olarak kabul edilmektedir.
+Fetal ense kalınlığı sadece kromozom anomalilerinde artmaz. Araştırmalarda artmış fetal ense kalınlığının diğer bazı genetik bozukluklarla birlikte temel olarak bebeğe ait kalp anomalilerinde de arttığı gösterilmiştir. Bebeğe ait kalp anomalileri ikinci trimesterda yapılan detaylı ultrasonografi ile saptanmaktadır. Kromozom bozukluğu olan bebeklerin % 50-90'ında kalp ve büyük damarlarda da anomali olmaktadır. Bu nedenle kromozomal bozukluklarda meydana gelen ense kalınlığı artışının temel nedeninin aslında eşlik eden bir kalp anomalisi olduğu düşüncesi ileri sürülmüştür.
+Fetal ense kalınlığı ölçümünün kromozomal bozuklukların erken dönemde saptanmasında tek başına kullanılmasının bazı sakıncaları vardır. Pekçok anomalili gebeliğin düşükle sonuçlandığı göz önüne alındığında hatalı pozitif test sonrası yapılacak olan koriyon villus örneklemesi normal olan bir bebekte düşük riskini arttıracaktır. Öte yandan hücrelerin bazılarının normal bazılarının da anormal olduğu mozaisizm varlığında villus örneklemesinde sadece anormal olan hücrelerin görülmesi hayatını normal olarak sürdürebilecek bir bebeğin yaşamına son verilmesine neden olacaktır. Bunlara ek olarak erken dönemde yapılan koriyon villus örneklemesi daha ileriki dönemlerde yapılan amniyosenteze göre hem daha zor hem de daha pahalı bir incelemedir. Bunlardan çok daha önemlisi öçümü yapan kişinin deneyimidir. Ölçülen değerler milimetrenin onda biri düzeyinde olduğundan yapılacak en ufak bir hata risk değerlerinde önemli değişikliklere neden olacaktır. Tüm bu nedenlerle tek başına yapılan fetal ense ölçümünün maliyet-etkinlik oranı tatminkar değildir.
+Fetal ense kalınlığı ile trizomi görülme riski arasındaki ilişki şu şekildedir:
+PAPP-A ve Serbest β-hCG testi.
+PAPP-A sadece gebeliğe ait olan bir tür proteindir. HCG de gebelikte salgılanan bir hormondur. Bu kimyasal maddelerin belirli gebelik haftalarında belirli düzeylerde olması gerekir. Yapılan araştırmalarda anomaliye sahip bebeklerde PAPP-A düzeyinin normalden daha az, serbest β-hCG düzeyininin ise daha fazla olduğu görülmüştür. Gebeliğin 11-14. haftalarında alınan kan örneğinde ölçülen bu iki kimyasal maddenin düzeyleri bir bilgisayar programına girilir ve program bir risk tahmininde bulunur. Parametreler arasına fetal ense kalınlığı da eklendiğinde tahminin başarılı olma şansı çok daha yüksektir. Ayrıca hCG seviyesinin gebelikte yaşanan sabah kusmaları ile ilişkili olduğu da tahmin edilmektedir.
+β-hCG ve PAPP-A.
+Kandaki β-hCG değerinin gebeliğin ilerlemesiyle azalması beklenir ancak trizomili bebeklerde bu azalma oranı çok daha yavaş olur. 11 ile 14. haftalar arasındaki ölçümler Trizomi 21 olan bebeklerde bu azalmanın daha yavaş olduğunu doğrulamaktadır.
+PAPP-A adı verilen maddenin kandaki oranı gebelik ilerledikçe artar. Aynı şekilde bu artışın trizomili bebeklerde normal bebeklere göre daha yavaş olduğu gözlenmiştir.
+Burun kemiği incelemesi.
+İkili test için yapılan ultrasonografi esnasında, down sendromu riskini anlamanın yollarından biri de bebeğin burun kemiğinin oluşup oluşmadığının gözlenmesidir. Hamileliğin 11 ile 13+6. haftaları arasında yapılan bu inceleme her ne kadar kesin sonuç vermese de yapılan incelemelerde down sendromlu bebeklerin burun kemiklerinin oluşmadığı bilindiği için burun kemiğin yokluğu ya da inceliği incelenen bebeğin down sendromu olma olasılığını arttırmaktadır. Ancak bu durum tek başına bir sonuç değildir ve bazı insan ırklarının gebeliklerinde burun kemiğinin daha geç oluştuğu bilinmektedir.
+Yapılan bir incelemede Trizomi 21 anomalisine sahip 59 bebekten 43'ünde (% 73) ve Kromozomları normal olan 603 bebeğin sadece 3'ünde (% 0,5) burun kemiğinin olmadığı gözlenmiştir. Kromozomu normal olan bebekler ile karşılaştırılıdığında trizomi 21 anomalisine sahip bebeklerin burun kemiğinin olmamasının oranı yaklaşık olarak 150 kat daha fazladır.
+Hatalı pozitif ve hatalı negatif test ne anlama gelir?
+Tarama testi sonucu saptanan risk o yaş grubundaki kadınlar için normal kabul edilen riskten daha az ise test negatif olarak kabul edilir. Riskin daha yüksek çıkması durumunda ise pozitif testten söz edilir.
+Risk yüksek çıktığı halde yapılan ileri incelemeler sonucu bebeğin normal olması durumunda hatalı pozitif durum söz konusudur. Tam tersi şekilde testin normal risk gösterdiği ancak bebeğin anomalili olduğu durumlar ise hatalı negatif olarak tanımlanır.
+İlk trimester taramalarında testin duyarlılığı ve hatalı pozitif oranları tabloda gösterilmiştir.
+Bebeğin cinsiyetinin test sonuçları üzerindeki etkileri de pekçok araştırmaya konu olmuştur. Aralık 2002'de yayınlanan bir çalışma kız bebeklerde serbest β-hCG'nin daha yüksek olabildiğini ortaya koymuştur.
+İlk trimester tarama testi ile elde edilen veriler genelde tek bebeğin bulunduğu hamilelikler ile ilgilidir ancak 2003 yılının şubat ayıında yayınlanan çok yeni bir araştırmada PAPP-A ölçümlerinin bebekteki Down Sendromu ve Trizomi 18 varlığını göstermede tek gebeliklerde olduğu kadar ikiz gebeliklerde de çok etkili olduğu gösterilmiştir. Aynı çalışmada ölçümün duyarlılığının trizomi 18 olgularında daha yüksek olduğu saptanmıştır.
+Tüp bebek ve mikroenjeksiyon tedavileri ile hamile kalan kadınlarda ise hatalı pozitiflik oranı biraz daha yüksektir. Ancak bu konudaki araştırmalar yeterli olmayıp kesin bir kanıya varabilmek için daha fazla çalışmaya gerek duyulmaktadır.
+Testin pozitif sonuçlanması.
+İkili testin pozitif çıkması mutlaka bebekte kromozom bozukluğu olduğu anlamına gelmez. Pozitif test sadece o bebekte riskin yüksek olduğunu ve tanıya yönelik ileri tetkikler yapılması gerektiğini belirtir. İleri tetkikler ile kastedilen detaylı ultrasonografi, koriyon villus örneklemesi ve amniyosentezdir. Sizin için hangi testin uygun olacağına doktorunuzla birlikte karar vermeniz gerekir.
+Testin negatif sonuçlanması.
+Testte riskin düşük bulunması yani negatif olması bebekte kromozom bozukluğu olmadığını garanti etmez. Sadece genel popülasyonda aynı yaş grubundaki kadınlar ile kıyaslandığında bebekteki riskin daha fazla olmadığını gösterir. Ayrıca ikili test sadece kromozom bozuklukları açısından riski belirler. Nöral tüp defektleri açısından bir risk belirlemez. Bu riski belirlemek için 16-20. haftalarda üçlü test yapılabilir. Bununla birlikte nöral tüp defektlerinin önemli bir kısmı ultrasonografi ile saptanabildiğinden ikili test yapılan kişilerde ikinci trimesterda üçlü test yapılması yerine sadece detaylı ultrason yapılmasının yeterli olacağını öne süren görüşler de mevcuttur. Bilimsel çevrelerde bu konuda henüz bir fikir birliği oluşmamıştır.
+Amerikan Obstetrisyenler ve Jinekologlar Birliği (ACOG) doğum zamanında anne yaşının 35 ya da daha ileri olması durumunda tarama testleri yerine genetik danışmanlık ile birlikte amniyosentez veya koriyon villus örneklemesi gibi tanı koydurucu testlerin yapılmasını önermektedir. Bunun nedeni tarama testlerinin sadece risk belirlemesi, durumun varlığı ya da yokluğunu kesin olarak ortaya koymamasıdır. Öte yandan ikili test ya da üçlü test sadece bir grup kromozom anomalisi açısından risk belirlemekte, bu yaş grubunda normalden daha fazla görülen diğer anomaliler hakkında fikir vermemektedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

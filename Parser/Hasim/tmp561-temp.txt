@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tohum tohum+Noun+A3sg+Pnon+Nom Tohum+Noun+Prop+A3sg+Pnon+Nom
+hangi hangi+Adj
+kısımlardan kısım+Noun+A3pl+Pnon+Abl
+oluşmaktadır oluş+Verb+Pos+Prog2+A3sg+Cop oluş+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,19 @@
+Noktalı ve dotless I
+Latin alfabesinin bir varyantı olan Türk alfabesi, iki ayrı mektupta sürümlerini I, tek noktalı ve diğer dotless içerir.
+dotless Ben ı, yakın arka unrounded ünlü sesi gösterir (). Ne üst ne de küçük harf sürümü bir nokta vardır.
+noktalı I, İ i yakın ön unrounded ünlü sesi gösterir (). Hem üst ve alt harf sürümleri bir nokta var.
+Örnekler:
+J j: Buna karşılık, mektup j sadece küçük harf karakteri bir nokta ile, bu ayrımı yoktur.
+Türk dilleri üzerine bilimsel yazılı ï bazen kullanılır.
+Bitişik harfler için sonucu.
+Küçük harf "fi" bitişik yerleştirilir eğer bazı fontlar, "f" dot-benzeri üst uç "i" nin noktaya münasebetsizcesine yakın düşecek ve dolayısıyla bir bağ glif üst sağlanır "f" "i" bir nokta olarak hizmet uzatıldı. "Ffi" için benzer bir bağ da mümkündür. Unligatured formlar çirkin ve bitişik harfler "i" dotless yapmak için, bu tür yazı tipleri bir Türk ortamda kullanım için uygun değildir. Ancak, bazı yazı tipleri fi Ligatürleri harfleri birleştirme yoktur ve "i" Kalan üzerinde nokta ile yanyana yerine boşluk onları. Bu tür yazı tipleri Türkçe için uygun, ancak yazar bitişik harfler kullanımında tutarlı olması için dikkatli olmak gerekir.
+Bilgi işlem.
+Alt durum "i", diğer diakritiklerin ile kombine edildiğinde ayırıcı ilave edilmeden önce, normal tipografik olarak, nokta genellikle kaldırılır; mantıksal modifiye ediliyor, normal noktalı i karakter olduğundan, ancak Unicode hala ben noktalı dahil olarak dizileri birleştirerek eşdeğer listeler.
+Özellikle Türk için ayarlanmış sürece, bu I. Böylece o uppercasing lowercasing, ya da tam tersi için i ve uppercases i I büyük harf I ve i küçük harflerle İ, ancak bunlarla uppercases ı Çoğu Unicode yazılım, harfleri değiştirir.
+Microsoft Windows SDK, Windows Vista ile başlayan birçok önemli fonksiyonlar Türk ve Azeri yerel, ben İ ı ve i harita gerektiğini belirtmek için, bir NORM_LINGUISTIC_CASING bayrağı var.
+LaTeX dizgi dilinde i ile yazılmış olabilir dotless ters eğik çizgi-i komut: codice_1. İ (yani codice_2), normal vurgusu yöntemi kullanılarak yazılabilir.
+Dotless i (ve noktalı sermaye I) Oracle VTYS, PHP, Java (yazılım platformu) ve Unixware 7, anahtar kelime, değişken isimlerinin örtülü sermaye dahil olmak üzere birçok yazılım paketleri, Türk yerellerde sorunlu ele, ve tablolar etkileri vardır uygulama geliştiricileri tarafından öngörülmemiştir. C veya ABD İngilizcesi yerel ayarlar bu sorunları yok. .NET Framework 'Türk i' işlemek için özel hükümler vardır.
+(2008 yılı itibariyle) Türkiye'de mevcut pek çok cep telefonları "i" SMS, bazen ciddi bir metnin duygusunu çarpıtarak "ı" yerine neden uygun bir yerelleştirme, yoksundur. Bir örnekte, bir yanlış anlaşılma ortak ikame "ı" dotless için karakter "1" kullanmak için 2008 yılında Emine ve Ramazan Çalçoban ölümüne bir rol oynadı.
+Diğer dillerde Kullanımı.
+Noktalı ve dotless "i" Türk dilleri için birkaç diğer yazı sistemlerinde kullanılır:
+dotless "i" de aralarında anlamlı bir fark var olmadan noktalı "i" bir üslup varyantı olarak kullanılabilir. Bu durum, örneğin, İrlanda yaygındır. Tittle bakın.

@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Nükleotitin	Nükleotitin	+Noun+Prop+A3sg+Pnon+Nom
+
+yapısında	yapı+Noun+A3sg+P3sg+Loc
+
+neler	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+neler	ne	+Pron+Ques+A3pl+Pnon+Nom
+
+bulunur	bul	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+bulunur	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+bulunur	bulun	+Verb+Pos+Aor+A3sg
+bulunur	bulun	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,13 @@
+1	Çin	Çin	Noun	Prop	A3sg|Pnon|Nom	11	SUBJECT	_	_
+2	hangi	hangi	Adj	Adj	_	3	MODIFIER	_	_
+3	yıldan	yıl	Noun	Noun	A3sg|Pnon|Abl	4	OBJECT	_	_
+4	itibaren	itibaren	Postp	Postp	PCAbl	11	MODIFIER	_	_
+5	sosyalist	sosyalist	Noun	Noun	A3sg|Pnon|Nom	11	SUBJECT	_	_
+6	bir	bir	Det	Det	_	7	DETERMINER	_	_
+7	idare	idare	Noun	Noun	A3sg|Pnon|Nom	8	CLASSIFIER	_	_
+8	tarzı	tarz	Noun	Noun	A3sg|P3sg|Nom	9	OBJECT	_	_
+9	ile	ile	Postp	Postp	PCNom	11	MODIFIER	_	_
+10	_	yönet	Verb	Verb	_	11	DERIV	_	_
+11	yönetilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

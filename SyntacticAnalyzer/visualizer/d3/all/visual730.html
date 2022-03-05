@@ -1,0 +1,92 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Ülkemizde şu an faal durumda olan kaç organize sanayi vardır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(8091, {label: "Ihlamur",nodeclass: "type-TK"});
+ g.addNode(8092, {label: "en",nodeclass: "type-TK"});
+ g.addNode(8093, {label: "fazla",nodeclass: "type-TK"});
+ g.addNode(8094, {label: "kaç",nodeclass: "type-TK"});
+ g.addNode(8095, {label: "metre",nodeclass: "type-TK"});
+ g.addNode(8096, {label: "yüksek",nodeclass: "type-TK"});
+ g.addNode(8097, {label: "yükseklikte",nodeclass: "type-TK"});
+ g.addNode(8098, {label: "gör",nodeclass: "type-TK"});
+ g.addNode(8099, {label: "görülür",nodeclass: "type-TK"});
+ g.addNode(8100, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,8091,8099,{label: "ÖZNE"});
+ g.addEdge(null,8092,8093,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8093,8095,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8094,8095,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8095,8099,{label: "ÖZNE"});
+ g.addEdge(null,8096,8097,{label: "TÜREME"});
+ g.addEdge(null,8097,8099,{label: "DE HALİ"});
+ g.addEdge(null,8098,8099,{label: "TÜREME"});
+ g.addEdge(null,8099,8100,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

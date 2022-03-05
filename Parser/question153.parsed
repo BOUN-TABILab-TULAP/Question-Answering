@@ -1,0 +1,9 @@
+1	Nüfus	nüfus	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT	_	_
+2	hangi	hangi	Adj	Adj	_	3	MODIFIER	_	_
+3	üç	üç	Num	Card	_	4	MODIFIER	_	_
+4	yaş	yaş	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	grubunda	grup	Noun	Noun	A3sg|P3sg|Loc	7	LOCATIVE.ADJUNCT	_	_
+6	_	incele	Verb	Verb	_	7	DERIV	_	_
+7	incelenir	_	Verb	Verb	Pass|Pos|Aor|A3sg	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

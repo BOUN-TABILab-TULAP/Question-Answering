@@ -1,0 +1,8 @@
+1	TÜİK	TÜİK	Noun	Prop	A3sg|Pnon|Nom	6	SUBJECT	_	_
+2	neyin	ne	Pron	QuesP	A3sg|Pnon|Gen	6	OBJECT	_	_
+3	_	kısal	Verb	Verb	_	4	DERIV	_	_
+4	_	_	Verb	Verb	Caus|Pos	5	DERIV	_	_
+5	_	_	Noun	NInf	A3sg|P3sg|Nom	6	DERIV	_	_
+6	kısaltmasıdır	_	Verb	Zero	Pres|A3sg|Cop	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

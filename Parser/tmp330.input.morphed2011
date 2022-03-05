@@ -1,0 +1,81 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ana	an	+Verb+Pos+Opt+A3sg
+Ana	an	+Noun+A3sg+Pnon+Dat
+Ana	ana	+Noun+A3sg+Pnon+Nom
+Ana	ana	+Adj
+
+kökün	kök+Noun+A3sg+P2sg+Nom
+kökün	kök+Noun+A3sg+Pnon+Gen
+
+kalınlaşarak	kalın+Adj^DB+Verb+Become+Pos^DB+Adverb+ByDoingSo
+
+ve	ve	+Conj
+
+toprağın	toprak	+Noun+A3sg+P2sg+Nom
+toprağın	toprak	+Noun+A3sg+Pnon+Gen
+
+içine	iç+Noun+A3sg+P2sg+Dat
+içine	iç+Noun+A3sg+P3sg+Dat
+
+doğru	doğru+Noun+A3sg+Pnon+Nom
+doğru	doğru+Adj
+doğru	doğru+Postp+PCDat
+
+uzayarak	uza	+Verb+Pos^DB+Adverb+ByDoingSo
+
+iyi	i	+Noun+A3sg+Pnon+Acc
+iyi	iyi	+Adj
+
+geliştiği	geliş+Verb+Pos^DB+Adj+PastPart+P3sg
+geliştiği	geliş+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+yan	yan	+Noun+A3sg+Pnon+Nom
+yan	yan	+Verb+Pos+Imp+A2sg
+yan	yan	+Adj
+
+köklerin	kök+Noun+A3pl+Pnon+Gen
+köklerin	kök+Noun+A3pl+P2sg+Nom
+köklerin	kökle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Nom
+
+ise	i	+Verb+Pos+Cond+A3sg
+ise	is	+Noun+A3sg+Pnon+Dat
+
+az	az	+Adverb
+az	az	+Verb+Pos+Imp+A2sg
+az	az	+Adj
+az	az	+Postp+PCAbl
+
+geliştiği	geliş+Verb+Pos^DB+Adj+PastPart+P3sg
+geliştiği	geliş+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+kök	kök+Noun+A3sg+Pnon+Nom
+kök	kök+Adj
+
+çeşidi	çeşit+Noun+A3sg+P3sg+Nom
+çeşidi	çeşit+Noun+A3sg+Pnon+Acc
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

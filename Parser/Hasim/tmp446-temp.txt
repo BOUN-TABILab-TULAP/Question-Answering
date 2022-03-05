@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Aktin Aktin+Noun+Prop+A3sg+Pnon+Nom
+ve ve+Conj
+miyozin miyozin+Noun+Prop+A3sg+Pnon+Nom
+iplikçiklerin ip+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+Pnon+Gen ip+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+P2sg+Nom iplik+Noun+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+Pnon+Gen iplik+Noun+A3sg+Pnon+Nom^DB+Noun+Dim+A3pl+P2sg+Nom
+bulunduğu bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg bul+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom bulun+Verb+Pos^DB+Adj+PastPart+P3sg bulun+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+koyu koy+Noun+A3sg+P3sg+Nom koy+Noun+A3sg+Pnon+Acc koyu+Adverb koyu+Adj
+renkli renk+Noun+A3sg+Pnon+Nom^DB+Adj+With
+görünen görün+Verb+Pos^DB+Adj+PresPart
+banda ban+Noun+A3sg+Pnon+Loc bant+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

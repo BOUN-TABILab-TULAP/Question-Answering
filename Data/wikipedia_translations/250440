@@ -1,0 +1,46 @@
+Paralel (geometri)
+Geometri, paralel çizgiler uymayan bir düzlemde hatları vardır; yani, herhangi bir noktada kesişen veya dokunmatik olmayan bir düzlemde iki hat paralel olduğu söyleniyor. Ek olarak, bir noktayı paylaşmak yok, üç-boyutlu Öklid uzayında bir çizgi ve bir uçak, ya da iki uçak, paralel olduğu söyleniyor. Bununla birlikte, ortak bir düzlemde olmalıdır uymayan üç boyutlu uzayda iki hat paralel olarak kabul edilmesi; aksi takdirde çarpık çizgiler denir. Paralel uçakları karşılamak asla aynı üç boyutlu uzayda uçaklar.
+Paralel çizgiler Öklid'in paralel postülanın tabidir. Paralellik öncelikle ilgin geometrileri bir özelliğidir ve Öklid uzay geometri bu tip özel bir örneğidir. Gibi hiperbolik alanı gibi bazı başka yerlerde, zaman zaman paralellik olarak adlandırılır benzer özelliklere sahiptir.
+Sembol.
+Paralel sembol FORMULA_1 olduğunu. Örneğin, formula_2 çizgisi "AB" "CD" hat paralel olduğunu gösterir.
+Unicode karakter kümesine, "paralel" ve "paralel olmayan" işaretleri codepoints var U + 2225 (∥) ve U + 2226 (∦), sırasıyla. Buna ek olarak, U + 22D5 (⋕) "eşit ve paralel" ilişkisini temsil eder.
+Öklid paralellik.
+Bir düzlemde iki satır.
+Paralellik koşulları.
+Verilen paralel düz çizgiler "l" ve Öklid uzayında "m", aşağıdaki özellikler eşdeğerdir:
+Bu eşdeğer özellikler olduğundan, bunlardan herhangi biri Öklid uzayında paralel çizgilerin tanımı olarak alınabilir, ama birinci ve üçüncü özellikleri ölçümü içerir ve bu yüzden, ikinci "daha karmaşıktır" dir. Böylece, ikinci özellik genellikle Öklid geometrisi paralel çizgilerin belirleyici özelliği olarak seçilen biridir. diğer özellikler daha sonra Öklid 'Paralel önermesiyle sonuçlarıdır. Ayrıca ölçümü içerir Başka bir özelliği birbirine paralel çizgiler aynı gradyan (eğim) olması.
+Tarihi.
+Öklid 'Elemanlar Kitabı I Tanımı 23 olarak görüntülenir uymayan bir düzlemde düz çizgiler bir çift olarak paralel çizgilerin anlamı. Alternatif tanımlamalar genellikle paralel önerme kanıtlamak için bir girişim bir parçası olarak, diğer Yunanlılar tarafından ele alındı. Proclus Posidonius için eşit çizgiler gibi paralel çizgilerin bir tanımını nitelikleri ve benzer ven Geminus tırnak. Simplicius da Posidonius 'tanımı olarak filozof Aganis tarafından modifikasyon bahseder.
+On dokuzuncu yüzyılın sonunda, İngiltere'de, Öklid 'Elemanlar ortaöğretim okullarında standart ders kitabı hâlâ. geometri geleneksel tedavi projektif geometri ve non-Öklid geometrisi yeni gelişmelere göre değiştirmek için baskı ediliyordu, geometri öğretimi için çok sayıda yeni ders kitapları şu anda yazılmıştır. Kendi aralarında ve Euclid arasında hem bu reform metinler arasında önemli bir fark, paralel çizgilerin bir tedavi yöntemidir. Bu reform metinleri kendi eleştirmenler olmadan değildi ve bunlardan biri, Charles Dodgson (aka Lewis Carroll), "Euclid ve O'nun Modern Rivals" Bu metinler lambasted olduğu, bir oyun yazdı.
+Erken reform kitaplarının biri Wilson "yönünde" ilkel kavramına paralel çizgiler onun tanımını dayalı 1868 James Maurice Wilson'ın "İlköğretim Geometri" oldu. Wilhelm fikri Killing göre geri Leibniz kadar takip edilebilir. Wilson, bu ilkel olduğundan yönü tanımlamadan, bu tür altıncı tanımı, açı "farklı yönlere sahiptir ve onların yön farkıdır birbirini karşılayan iki düz çizgiler" gibi diğer tanımlarında terimini kullanır "aralarında." Tanım 15 yılında bu şekilde paralel çizgiler tanıttı; Aynı yönde "sahip Düz çizgiler" paralel çizgiler ", ama aynı düz çizgi parçaları değil, denir." "" Augustus De Morgan öncelikle bu tanım ve Wilson paralel hatları hakkında bir şeyler kanıtlamak için kullanılan yol temelinde, bu metni inceledim ve bunu bir başarısızlık ilan etti. Dodgson da paralellikler Wilson'ın tedavisini kınayan onun oyun (Act II, Sahne VI § 1) büyük bir bölümünü ayırıyor. Wilson metninin üçüncü ve daha yüksek sürümleri dışında bu kavramı düzenlenebilir.
+Diğer reformcularının tarafından önerilen diğer özellikleri, daha iyi başarılı olmadı, paralel çizgi tanımı için yedek olarak kullanılabilir. Dodgson tarafından işaret olarak ana zorluk, bu gerekli ek aksiyomları sisteme eklenecek bu yolla onları kullanmak oldu. Onun 1874 metninde "Öklid Geometri" Francis Cuthbertson tarafından açıklanan Posidonius arasında eşit mesafeli hattı tanımı, düz bir çizgi bir tarafında sabit bir belirli bir mesafede bulunan noktalardır düz bir çizgi oluşturacak şekilde gösterilmesi gerekir sorun muzdariptir. Bu ispat edilemez ve gerçek olarak kabul edilmelidir. Onun 1860 metinde WD Cooley tarafından kullanılan çapraz bir özelliği tarafından oluşturulan karşılık gelen açıları, "Geometri Elemanları, basitleştirilmiş ve açıkladı" Aslında bir kanıtı gerektirir, bir enine sonra tüm transversals uyumlu gelen açılarda hatları bir çift yerine getirmesi halinde Bunu yapmak gerekir. Yine, yeni bir aksiyom bu ifadeyi haklı gereklidir.
+İnşaat.
+Paralel çizgilerin yapımı üç farklı yöntemlere kurşun yukarıdaki üç özellikleri.
+Iki paralel çizgi arasındaki mesafe.
+Bir Öklid düzleminde paralel çizgiler eşit olduğundan iki paralel çizgi arasında benzersiz bir mesafe vardır. Olmayan iki dikey olmayan yatay paralel çizgiler denklemleri göz önüne alındığında,
+iki çizgi arasındaki mesafe dikey paralel çizgiler için ortak bir yalan iki puan (her satırda bir) bulma ve aralarındaki mesafeyi hesaplayarak bulunabilir. Çizgiler "m" eğime sahip olduğundan, dik bir ortak / "m" -1 eğime sahip ve biz denklemi "y" = satırı alabilir - ortak dik olarak, "x" / "m". Lineer sistemleri çözer
+ve
+noktaların koordinatlarını alır. Lineer sistemlerin çözümleri noktalarıdır
+ve
+Bu formüller hala doğru nokta paralel çizgiler yatay bile koordinatları vermek (yani, "m" = 0). noktaları arasındaki mesafe
+hangi azaltır
+Çizgiler bir çizgi denklemin genel formu verildiğinde (yatay ve dikey çizgiler dahil):
+aralarındaki mesafe gibi ifade edilebilir
+Üç boyutlu uzayda iki satır.
+Paralel olması gerekmez kesmeyen aynı üç boyutlu uzayda iki satır. Bunlar, ortak bir düzlem içindedir Yalnızca, paralel olarak adlandırılır; aksi takdirde çarpık çizgiler denir.
+İki farklı çizgiler "l" ve üç boyutlu uzayda "m" ve çizgi "l" en yakın noktaya hat "m" bir noktaya "P" mesafe "konumundan bağımsız olması durumunda ise paralel m "satırında" P ". Bu asla eğrilik hatlar için geçerlidir.
+Bir çizgi ve düzlem.
+Bir çizgi "m" ve üç boyutlu uzayda bir düzlem "q", bu düzlemde yatan değil çizgi ve onlar kesiştiği yok, sadece eğer paraleldir.
+Eşdeğer, onlar eğer ve uçağın "q" en yakın noktasına hat "m" bir noktaya "P" mesafe çizgisi "m" konulu "P" konumundan bağımsız olması durumunda paraleldir.
+İki uçaklar.
+Paralel çizgiler ile aynı düzlemde yer almalıdır olması gibi, paralel düzlemler aynı üç boyutlu uzayda yer alan ve ortak bir nokta içermelidir.
+İki farklı uçaklar "q" ve "r" paralel iseniz ve uçağın "r" en yakın noktasına uçağı "q" bir nokta "P" mesafe düzlemde "P" konumundan bağımsız olması durumunda " q ". Iki uçak aynı üç boyutlu uzayda değilse bu tutun asla.
+Öklid dışı geometri uzantısı.
+Öklid dışı geometri, o (düz) hatları daha Geodezikler bahsetmek daha yaygındır. Bir jeodezik belirli bir geometri, iki nokta arasındaki en kısa yoludur. Fizikte, bu hiçbir kuvvet uygulanmış ise bir parçacık aşağıdaki yolu olarak yorumlanabilir. Non-Öklid geometride faydalıdır, hiçbir ölçümleri içerdiğinden olmayan Öklid geometrisi (eliptik veya hiperbolik geometri) Yukarıda belirtilen üç Öklid özellikleri, eşdeğer ve sadece ikincisi değil. Genel geometride üç özellik üzerinde sırasıyla ortak bir dik paylaşan eğrileri üç farklı türde, eşit eğrileri, paralel jeodezikler ve jeodezikler verir.
+Öklid geometrisi kesiştiği veya paralel olabilir, genel olarak ve özellikle hiperbolik uzayda ya iki geodezikler, üç olasılık varken. İki geodezikler da olabilir:
+Literatürde "ultra paralel" geodezikler genellikle "non-kesişen" denir. "Sonsuzda kesişen Geodezikler" sonra "sınır geodezikler" denir.
+Küresel.
+Küresel geometriye, tüm geodezikler harika çevrelerin vardır. Büyük çevreler iki eşit hemisferlerde küre bölmek ve tüm büyük çevrelerin birbiriyle kesişir. Tüm jeodezik kesiştiği Böylece, belirli bir jeodezik için bir paralel geodezikler vardır. Küre üzerinde eşit eğriler dünya üzerinde enlem çizgileri benzer enlem paralellikler denir. Enlem Paralellikler küre merkezinden geçen bir düzleme paralel bir düzlem ile bir kürenin kesişmesi ile oluşturulabilir.
+Dönüşlü varyant.
+Sentetik olarak, afin geometri iki paralel çizgi ilişkisi Öklid geometrisi kullanımından modifiye temel kavramdır. Bu paralellik ilişkisi simetrik ilişki ve geçişli bir ilişki olduğu açıktır. Bunlar bir denklik ilişkisi iki özellik vardır. Öklid geometrisi bir çizgi kendisine paralel olarak kabul "değil", ama afin geometride kendisi paralel olarak bir çizgi, bir denklik ilişkisi olarak böylece verimli paralelliği tutmak için uygundur.
+Paralellik bu tür tanımlamanın diğer bir yolu da kavşak singleton "değil" dir gerekliliktir. İki satır ortak kendi noktalarının tamamını veya hiçbiri varken paralel daha sonra. Bu Playfair en aksiyom ilgin kullanılan dikkat edilmiş ve Öklid geometrisinin ardından paralellik düzlemde hatların setinde geçişli ilişkisi oluşturur ifadesine eşdeğerdir.

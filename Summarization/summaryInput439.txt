@@ -1,0 +1,549 @@
+Question: İki Z çizgisi arasındaki bölgede bulunan, kasılma birime ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çizgili kas</DOCTITLE>
+<TEXT>
+
+Çizgili kas hücresi, kırmızı kas hücresi olarak da bilinir. Miyozin ve aktin proteinleri içerir. Kasılma, bu moleküllerin bir biri üzerinde kaymasıyla gerçekleşir. İsteğe bağlı olarak hareket etmemizi sağlar. 
+ Kas Hücresi SARKOLEMMA adı verilen hücre zarı ile çevrilidir. Her kas hücresi ayrıca ENDOMİSYUM denen konnektif doku ile sarılıdır. Lif demetleri (kas demetleri) bir araya gelerek lif demetlerini (Fasiculus) oluştururlar. Bu demetleri saran konnektif doku PERMİSYUM dur. Lif demetlerinin bir araya gelmesiyle de iskelet kası oluşur. Bunu EPİMİSYUM adı verilen konnektif doku sarar. Ayrıca bununda üzerinde tüm vücut kaslarını saran FACİA adı verilen bir konnektif duku vardır.
+ Kas hücrelerinde sarkoplazma vardır. Bu sarkoplazma içerisinde asılı halde bulunan yüzlerce MYOFİBRİL vardır. Miyofibriller protein yapısındaki ince ve kalın myofilamentlerden oluşmuştur. Bunlardan ince olanı ağırlıklı olarak AKTİ N olmak üzere TROPONIN ve TROPMYOZİN moleküllerinden, kalın olan ise MYOZİN moleküllerinden oluşmuştur. Bu nedenle ince ve kalın flamentler sırasıyla aktin ve myozin flamentleri olarak da tanımlanırlar. Myozin flamentleri orta bölgeleri dışında, çapraz köprüler içerirler. Çapraz köprülerin başlarında myozin ATP’az enzimi yer alır. Bu enzim ATP’yi parçalayarak ADP+P+ENERJİ oluştururlar. 
+ İskelet kaslarına çizgili görünümü veren aktin ve miyozin filamentlerinin dizilişidir. Sarkomer üzerinde, yalnızca aktin filamentlerin bulunduğu bölge I bandı adını alır ve ışık mikroskobunda açık renk görüntü verir. Öte yandan aktin ve miyozin flamentlerinin birlikte yer aldığı kısımlar daha koyu renk görülürler. Bu bölgeler A BANDI olarak isimlendirilirler. A bandının ortasında aktinin ulaşamadığı ve yalnızca miyozinden oluşan bir alan vardır. H BÖLGESİ olarak adlandırılan bu bölge I bandından daha koyu, A bandından ise daha açık renkte görülecektir. I bandı ortasında dikey olarak uzanan Z ÇİZGİSİbulunur. Böylece, dinlenim durumundaki, iki Z çizgisi arasında H bölgesini saymazsak sırasıyla I-A-I bantları yer almış olur. Z çizgileri bir bir myofibrilden diğerine doğru uzanarak kas lifinin içindeki myofibrilleri birbirine bağlarlar. İki Z çizgisi arasında kalan bu bölgeyeSARKOMER adı verilir. Sarkomer kas kasılmasında kısalma ve uzamanın gerçekleştiği bölümdür.
+Çizgili kaslar, uçlarındaki kirişlerle kemiklere tutunur. Kemiklerin hareketi böylece sağlanır. 
+Bu kaslar:
+Çizgili kasların özellikleri ise şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dislokasyon</DOCTITLE>
+<TEXT>
+
+Dislokasyon ve diğer adıyla çizgisel kusur; malzeme biliminde, kristal yapıların atomsal dizilişlerinde bir çizgi boyunca görülen kusurlardır. Denge konumundan ayrılan atomlar sonucunda çizgi çevresinde artık gerilimler meydana gelir. Bu bağlamda şekil değiştirme enerjisi depo edilir. Dislokasyonlar genellikle malzemelerin katılaşma sürecinde oluşmakla birlikte, plastik şekil değiştirme sırasında sayıları artar. Öte yandan boş köşelerin yığılması ve katı eriyiklerde görülen atomsal uyumsuzluk da bu kusurların oluşmasına sebep olabilir.
+Malzemelerin birçok özelliğini etkileyen bu kusurların varlığı 1905 yılında İtalyan fizikçi Vito Volterra tarafından ortaya atılsa da dislokasyon terimi ilk kez Bristol Üniversitesi Fizik Bölümü profesörlerinden Frederick Charles Frank tarafından kullanılmıştır. Kenar dislokasyonu ve vida dislokasyonu olmak üzere iki ana dislokasyon türü vardır. Gerçekte ise bu iki dislokasyonun özellikleri bir arada görülür. Bu tür dislokasyonlara ise karışık dislokasyonlar adı verilmektedir.
+Dislokasyon türleri.
+Kenar dislokasyonu.
+Bir kristal yapıya, yarım bir atom düzleminin girmesi sonucu uygulanan basınçla birlikte, düzlemin ucundaki atomlar basıncın etkisiyle sıkışırken, düzlemin yan kısımlarındaki atomlar ise açılmaya zorlanırlar. Bu durumda minimum enerjili denge konumlarından ayrılan atomların potansiyel enerjileri artar. Bu düzensizliğin merkezi olan doğru, kenar dislokasyonu olarak adlandırılır. Dislokasyon çizgisi boyunca görülen bu yüksek enerji bölgesi, malzemenin mekanik özelliklerini büyük ölçüde etkilemektedir.
+Kenar dislokasyonunun oluşturduğu kusurun büyüklüğü ve yönü Burgers çevrimi kullanılarak hesaplanır. Kusursuz bölgede bir çevrim sırasında paralel yönlerde, eşit aralıklarla ilerlenince çevrim kapanır. Eğer çember kusur içeriyorsa bu çevrimin uçları kapanmaz ve atomların arasındaki uzaklık kadar fazlalık kalır. Bu uzaklığa Burgers vektörü adı verilir.
+Vida dislokasyonu.
+Kristal yapıdaki bir düzlem boyunca kısmen kayma şeklinde ötelenme sonucu gerçekleşen dislokasyonlara vida dislokasyonu denir. Bu öteleme atomlar arasındaki mesafe, yani Burgens vektörü kadardır. Vida dislokasyonu boyunca alt ve üst kısımlardaki atomlar denge konumlarından farklı bir konumda olduklarından birbirlerini tam olarak karşılayamazlar. Bu sebeple dislokasyon çizgisi boyunca artık kayna gerilmeleri bölgesi oluşur ve dolayısıyla potansiyel enerji artış gösterir.
+Vide dislokasyonunun oluşturduğu kusurun büyüklüğü ve yönü Burgers çevrimi kullanılarak hesaplanır. Bu bağlamda kristalin eğildiği her doğrultuda, iki atom arasındaki mesafe kadar hareket edilerek eksen etrafında 360° dönme tamamlanır. Oluşan çemberde açık kalan kısım Burgers vektörüdür ve vida dislokasyonuna paraleldir. Benzer şekilde cisimler uygulanmaya devam edilirse vida dislokasyonu çizgisi boyunca bir spiral çizilir. Oluşan bu spiral şekli sebebiyle bu tür dislokasyonlara vida ismi verilmiştir.
+Karışık dislokasyon.
+Gerçekte, kenar ve vida dislokasyonlarının bir arada bulunduğu karışık dislokasyonlar mevcuttur. Bu tür dislokasyonlarda dislokasyon çizgisi Burgers vektörüne paralel olup, vida dislokasyonu özelliği gösterir. İçeriye doğru ilerleyen bu çizgi yay biçiminde eğrilerek yan yüzeye çıkarken Burgers vektörüne dik konuma gelir ki bu noktada da kenar dislokasyonu özelliği gösterir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doğrusal denklem dizgesi</DOCTITLE>
+<TEXT>
+
+Doğrusal denklem dizgesi, birkaç tane aynı tip değişkenleri içeren birkaç tane doğrusal denklemlerin oluşturduğu topluluktur. Örneğin:
+formula_1
+Burada üç çeşit değişken formula_2, formula_3 ile formula_4 bulunur ve bu üç değişken üç ayrı doğrusal denklem içindedir ve böylece doğrusal denklemler (sistemi) dizge elde edilir. 
+Bir doğrusal dizgenin çözümü bilinmeyen değişkenlere, tüm doğrusal denklemleri aynı zamanda tatmin eden, reel sayıların tahsis edilmesidir. Yukarıdaki denklemler dizgesi için çözüm kümesi bulunur ve bu 
+olur.
+Doğrusal denklem dizgeleri mühendislik, fizik, kimya, bilgisayar bilimi ve ekonomide pek çok uygulama alanı bulur.
+Genel şekil.
+n bilinmeyen değişkenli m sayıda doğrusal denklemden oluşan bir doğrusal denklen dizgesi genel olarak şöyle yazılabilir:
+formula_6
+Burada formula_7 n-tane bilinmeyen "değişken"dir. formula_8 bu değişkenlerin "katsayı"larıdır. Her katsayının altında bulunan ilk sayı denklem sayısına ve ikincisi değişken tipinin sayısına tekabül eder; örneğin formula_9 üçüncü denklemdeki birinci değişken formula_2'in katsayısıdır. formula_11 terimleri ise her denklem için "sabit" terimleri verir.
+Çok kere katsayılar ve bilinmeyen değişkenler reel sayılardır. Fakat ileri matematikte bunlar karmaşık sayılar, tam sayılar, polinomlar ve hatta soyut cebirsel yapılar bile olabilirler.
+Vektör denklemi.
+Bu genel doğrusal denklemler dizgesini uygun bir şekilde ifade edilmesi vektörler halinde olur: Bu ifade şeklinde her bir değişken bir doğrusal bileşimde bir ağırlık olarak bir sütun vektör ile ifade edilmektedir. 
+Matris denklemi.
+Vektör denklemine aynen tekabül eden ve matriks kullanılarak ifade edilen genel doğrusal denklemler dizgesi şu şekilde ifade edilir:
+burada "A" "m"×"n" matrisi, x içinde "n" tane ifade bulunan bir sütun vektörü ve "b" içinde "m" tane sabit ifade olan bir "sütun vektörü" olur.
+Çözüm kümesi.
+Bir doğrusal denklem dizgenin çözümü, bilinmeyen değişkenlere (yani değişkenlerine) tüm doğrusal denklemleri aynı zamanda tatmin eden reel sayısal değerler tahsis edilmesidir. Tüm mümkün çözümlerin bir matematiksel kümesine çözüm kümesi adı verilir.
+Bir doğrusal denklem dizgesi için üç ve sadece alternetif mümkün sonuç ortaya çıkabilir:
+Geometrik yorum.
+İki değişkenden (formula_2 ve formula_3) oluşan bir dizge için her bir denklem formula_2 ve formula_3 eksenli dikdörtgen kordinat sıstemi grafiği içinde bir doğru ile gösterilir. Bir çözüm dizgedeki tüm denklemleri tatmin etmesi gerektiği için, çözüm kümesi bu doğruların kesişme noktasıdır ve ya tek bir doğru ya tek bir nokta 
+ya da boş küme olarak görülür.
+Üç değişkenli bir dizge için her doğrusal denklem üç boyutlu bir uzayda bir düzlem olurlar ve çözüm kümesi bu düzlemlerin kesişmesidir. Böylece çözüm kümesi ya bir düzlem, ya tek bir doğru, ya tek bir nokta ya da boş küme olur. 
+"n" sayıda değişken halinde, her bir doğrusal denklem bir n-boyutlu uzayda bir hiperdüzlem olarak ortaya çıkar. Çözüm kümesi bu hiperdüzlemlerin kesişmeleridir ve n-ye kadar herhangi bir boyutta düzlük olabilir.
+Genel sonuç hali.
+Genel olarak, bir doğrusal denklemler dizgesinin sonucunun ne olabileceği, denklemler sayısı ile bilinmeyen değişkenler sayısı arasındaki bağlantılar tarafından belirlenir:
+Aşağıdaki gösterimler iki değişkenli halde ortaya çıkabilmesi mümkün üçlü sonucu göstermektedir:
+Verilen gösterimede; birinci dizgenin sonsuz sayıda çözümü bulunur; yani bunun noktalari mavi renkli doğru üzerindedir. İkinci dizgede tek bir çözüm bulunur; yani iki doğrunun kesişme noktası çözümdür. Üçüncü sistemde bulunan üç doğrunun ortaklaşa hiçbir noktaları bulunmaz. 
+Fakat şunu unutmamak gerekir; bütün bu sonuçlar sadece genellikle doğrudur. İki denklemeli ve iki değişkenli bir dizgenin hiçbir çözümü olmaması mümkündür; bu hal her iki doğru birbirine paralel ise ortaya çıkar. Üç denklemle iki değişkenli bir dizgenin çözümü olması mümkündür; bu hal eğer üç doğru birbiriyle tek noktada kesişirlerse ortaya çıkar. Genel olarak; bir doğrusal denklemler dizgesi beklenenden değişik davranış göstermesi eğer denklemler "doğrusal olarak bağımlı" iseler veye iki veya daha çok sayıda denklemlerin "tutarsız" olmaları halinde ortaya çıkar.
+Nitelikler.
+Bağımsızlık.
+Bir doğrusal denklem dizgesinin denklemleri "bağımsızlık" niteliği, dizgede bulunan denklem eşitliklerinin hiçbiri denklemden cebirsel olarak çıkartılaması halidir. Eğer denklemler bağımsızlarsa, her bir denklem değişkenler hakkında yeni bilgi kapsamaktadır, ve bu denklemlerden herhangi birinin ortadan kaldırılması çözüm kümesinin boyutunu artır. Doğrusal denklemler için mantıksal bağımsızlık doğrusual bağımsızlık özelliğiyle ile aynıdır.
+Örneğin, şu denklemler 
+bağımsız değildirler; çünkü ikinci denklem birinci denklemin 2 ile çarpımı ile elde edilmiştir ve eğer bu iki denklem için grafik çizilirse iki doğru üste çakışıp tek bir doğru görüntüsü verirler.
+Daha karmsaik bir örneğin için verilen denklemler dizgesi şu olsun:
+Bu üç denklem dizgesi bağımsız değildir, çünkü üçüncü denklem ilk iki denklemin birbirine toplkamından elde edilmiştir. Gerçekten bu üç denklemden herhangi ikisinden üçüncü denklem çıkartılabilir ve bu üç denklemden herhangi tek bir tanesi ortadan kaldırılırsa çözüm kümesi hiç değişmeden aynı kalır. Bu üç doğru için grafik üçü de tek bir noktada kesişen üç doğru şeklindedir.
+Tutarlılık.
+Bir doğrusal denklemler dizgesi denklemleri, eğer bir ortak çözüm varsa, "tutarlı" olur; aksi halde "tutarsız" olur. Eğer denklemler tutarlı iseler; denklemlerden bir çelişkilik ortaya çıkartmak imkanı bulunur; örneğin ifadesi gibi.
+Örneğin şu denklemler 
+tutarsızdır. Bir çözüm bulmaya çalışmak için, söylenmeden anlaşılan "bir çözüm vardır" varsayımını yapmaktayız. Diğer bir ifade ile, birinci denklemmde bulunan formula_2 değerinin ikinci denklemde bulunan formula_2 değeri ile aynı açıkça olduğunu açıkça söylemeden varsaymaktayız (ve aynı şekilde ve aynı zamanda her iki denklemde de formula_3 aynı varsayımı yapıyoruz.) (formula_25 ıcın ikame ediliebilirlik özelliğini uyguluyarak olarak bir denklem buluruz ve bu da yanlış bir ifadededir. Bu hatalı ifade dizgenin bir çözümü olduğuna dair yaptımız varsayım ile çelişmektedir ve bundan dolayı varsayımımızın yanlış olduğu sonucu çıkmaktadır; yani doğrusal denklemler dizgesinin "hiçbir çözümü bulunmaz". Bu denklemlerin 
+formula_26 düzeyindeki grafikleri birbirine parallel iki doğru halindedir.
+Üç doğrusal denklemli dizgede, bu dizgedeki herhengi iki denklem birlirleriyle tutarlı olmalarıyla beraber, denklemlerin tutarsız olmaları mümkündür. Örneğin şu denklemler tutarsızdır: 
+Birinci ile ikinci denklemin birbiriyle toplamaları ile 
+elde edilir ve bu üçüncü denkelmeden çıkartılırsa sonuç
+olur. Dikkat edilirse bu denklemlerden herhangi bir iki denklemli dizgenin bir ortak çözümü vardır. Aynı olgu her türlü sayıda denkelemler dizgesinde de oluşabilir.
+Genel bir sonuç olarak, eğer bir doğrusal denklemler dizgesindeki denklemlerin sol tarfındaki ifadeler doğrusal olarak bağımlı olursa ve sabit terimler bağımlılık bağlantısını tatmin etmiyorlarsa, tutarsızlık ortaya çıkar. Eğer bir doğrusal denklemler dizgesinin sol tarafındaki ifadeler doğrusal olarak bağımsızlarsa, bu dizge her zaman tutarlı olur.
+Denklik.
+Aynı değişkenleri kullanan iki değişik doğrusal denklemler dizgesinin birbirleriye denk olması için ikinci dizgede bulunan denklemlerin herbirinin, birinci dizgede bulunan denklemlerden cebir kullanılarak hesaplanıp elde edilebilmesi gerekir ve bunun aksinin de doğru olması gereklidir. Birbirine denk dizgeler değişken değerleri hakkında birbirine tıpatıp aynı bilgileri vermektedirler. Özellikle, eğer iki dizgenin tıpatıp aynı çözüm kümesi bulunuyorsa iki doğrusal denklemler dizgesi birbirlerine denktirler.
+Doğrusal denklemler dizgesinin çözümü.
+Bir doğrusal denklem dizgesini çözümlemek için birkaç değişik denklem çözümleme algoritması bulunur.
+Çözümü tanımlama.
+Eğer çözüm kümesi sonsuz değilse, genellikle bu küme olarak ve küme notasyonu kullanarak ifade edilir. Örneğin 2, 3, 4 olan çözüm kümesi 
+formula_29
+olrak yazılır.
+Eğer sonsuz sayıda çözüm bulunuyorsa bunu küme olarak ve küme notasyonu kullanarak ifade etmek çok güç olur. Tipik olarak değişkenlerden bazıları "bağımsız" (veya özgür veya parametre) olarak kabul edilirler ve herhangi bir değer alabilirler. Geride kalan değişkenler bağımsız değişkenlerin değerlerine bağlı olurlar. 
+Örneğin şu dizgeye ele alalım:
+Bu dizge için çözüm kümesi şu denklemeler ile ifade edilebilir:
+Burada formula_4 bağımsız değişkendir; formula_2 ve formula_3 değişkenleri formula_4ye bağlıdırlar. Çözüm kümesinde bulunan herhangi nokta önce formula_4 için herhangi bir değer seçmekle ve sonra da formula_2 ve formula_3 için bu seçilen değere tekabül eden değerleri hesaplama şeklinde ortaya çıkartılır. 
+Her bir bağımsız değişken çözüm kümesine bir serbestlik derecesi verir ve serbestlik derecesi sayısı çözüm kümesinin boyutuna eşittir. Örneğin, yukarıda verilen denklemin çözüm kümesi bir doğru olur; çünkü çözüm kümesi üzerinde bulunan tek bir nokta formula_4 parametre değişkenin değerini şahsi seçime bağlı olarak belirlemek suretiyle ortaya çıkartılır. Daha yüksek 
+düzenli sonsuz sayıda çözüm bir düzlemi veya yüksek boyutlu hiperdüzlemi tanımlayabilir.
+Bağımsız değişkenler için değişik seçim değerleri, aynı çözüm kümesinin değişik tanımlarını oratay çıkarabilir. Örneğin yukarıda verilen denklemlerin çözümü alternatif olarak şöyle değişik şekilde tanımlanabilir:
+Burada formula_2 bağımsız değişken ve formula_3 ve formula_4 bağlı değişkenlerdir.
+Değişkenlerin arkaarkaya eliminasyonu.
+Bir doğrusal denklemler dizgesine çözüm kümesi bulmak için en basit yöntem değişkenlerin tekere teker arkaarkaya elimine edilmesidir. Bu çözüm yöntemi şöyle tanımlanabilir:
+Örneğin şu 3 değişkenli (x, y ve z) doğrusal denklemeler dizgesini ele alalım :
+Birinci deklemi "x" için çözelim ve şu ifadeyi elde ederiz;
+Bu "x" için ifadeyi ikinci ve üçüncü doğrusal denkleme koyup bunları basitleştirelim ve şu iki değişkenli (y ve z) iki denklem bulunuruz: 
+Bu yeni iki değişkenli iki denklemli dizgenin birinci denklemini "y" için çözelim ve şu ifadeyi elde ederiz
+Bunu yeni dizgedeki ikinci denkleme koyalım. "y" için çözünce şu ifade elde edilir:
+Bunu ikinci denkleme "y" için koyarsak
+ifadesini elde ederiz. Şimdi sadece "z" ifadeli tek doğrusal denklem dizge elimizde kalmıştır ve bu da "z" için şu çözümü verir:
+Arkaarkaya tek değişken eliminasyonu ile sonuçlar bulmuştuk: 
+Şimdi çözümünü ikinci denkelem koyarsak "y" çözümü olarak
+elde ederiz; ve ile çözümlerini birinci denkleme koyarsak 
+olarak "x" çözümü bulunur. 
+Böylece, çözüm kümesi olarak tek bir nokta olan elde edilmiş olmaktadır.
+Sıra azaltma.
+a_ij katsayilari rasyonel sayilar, gercek sayilar ya da karmasik sayilar ya da herhangi bir cisimden gelen sayilar olmak uzere
+a_11 x_1 + a_12 x_2 + ... + a_1n x_n = b_1
+a_m1 x_1 + a_m2 x_2 + ... + a_mn x_n = b_m denklem sistemi,
+A m satir ve n sutundan olusan ve degerlerini (bir cisimden alan) bir matris, x n satirlik bir sutun vektoru, b (degerlerini ayni cisimden alan) m satirlik bir sutun vektoru olmak uzere
+Ax = b 
+seklinde yazabiliriz.
+Boyle bir sistemin cozumu, x_i degiskenlerinin hangi degerlerinin denklem sistemini sagladigini bulmak anlamina gelmektedir.
+Gauss tipi indirgemede temel indirgeme islemleri uygulanir.
+Temel satir indirgeme islemleri asagidakilerdir. Dikkat edelim ki bu islemler denklem sisteminin cozum kumesini degistirmezler.
+Satir Ekleme
+i. satirin herhangi k katini j. satira eklemek. Bu islemi k * Satir_i + Satir_j -> Satir_j, ya da Satir(k*i+j->j) ile gosterelim.
+Not: bu islem A matrisini, I+ kE_ji matrisi ile soldan carpmaya karsilik gelmektedir. Burada I kosegen terimleri 1 olan m * m boyutundaki matrisi, E_ji, sadece j. satir ve i. sutundaki terimi 1 olan matrisi gostermektedir. Boylece inceledigimiz dogrusal sistem Ax = b yerine (I+kE_ji)A x = (I+kE_ji)b dogrusal sistemi olmaktadir.
+Satir Degistirme
+i. satirla j. satiri yer degistirmek. Bu islemi Degistir(i,j) ile gosterelim.
+Bu islem i ve j indeksleri haric diger indekslerde sadece kosegen terimleri 1, diger durumlarda (i,j) ve (j,i) terimleri 1 olan matris ile A matrisini soldan carpmak ile elde edilir. Boylece inceledigimiz dogrusal sistem Ax = b yerine (I-E_ii-E_jj+E_ij+E_ji)A x = (I-E_ii-E_jj+E_ij+E_ji)b dogrusal sistemi olmaktadir.
+Gauss-Jordan Indirgeme yontemi:
+Serbest degisken kavrami:
+Eger ilk sutun ( ya da herhangi bir j. sutun) sadece sifirlardan olusuyorsa o zaman ilk degisken (ya da j. degisken) aslinda denklem sistemi tarafindan kisitlanmamaktadir. Yani bu degiskenin herhangi bir degeri alabilir. Herhangi degeri alabilen degiskenlere serbest degisken denir.
+Sifir olmayan ilk sutundan baslamak uzere (bu sutun j_1. sutun olsun)
+1. j_1. sutundaki ilk sifirdan farkli sayinin bulundugu satiri (bu satir i_1. satir olsun) ilk satirla degistir.
+Bu adimdan sonra olusan matrisin 1. satir ve j1. sutunundaki sifirdan farkli sayi A olsun. (Matristeki bu tip terimlere pivot ya da eksen terimleri denir. Cozumler bu Ikinci satirdan baslamak uzere j1. sutunda sifir olmayan ilk terim B olsun ve bu terim i_2. satirda yer alsin.
+2. Ilk satirin (-B/A) katini i_2. satira ekle. Boylece i_2. satirin j_1. terimi sifira donusecektir.
+3. Bu islemi bitirdikten sonra j_1. sutunda hala incelenmemis satir varken bir sonraki satira gecerek 2. adimi tekrarla.
+4. j_1. sutundaki islem bittikten sonra yukaridaki adimlari degistirilmis A matrisinin j1 den buyuk sutunlari ve 1den buyuk satirlarindan olusan matrise uygula.
+Bu islemlerin sonunda (j_1,1) (j_2,2) (j_k,k) pivot konumlari olsun. En son sifirdan farkli satirdan baslayip yukari cikarak dogrusal sistemin cozumune ulasabiliriz.
+Islemleri kolaylastirmak icin j_v. sutunda v degerinden kucuk satirlardaki sifirdan farkli terimleri yukaridaki 2. adimdaki islemi kullanarak indirgeyebiliriz.
+Ayrica pivot degerlerin 1 olmasi kosulunu da ekleyerek, bu cozum yontemine degisiklikler yapabiliriz.
+Cramer kuralı.
+Bu kural 1750'de "Introduction à l'analyse des lignes courbes algébriques (Cebirsel eğrilerinin analizine giriş)" adlı eserinde bu teoremi açıklayan Gabriel Cramer (1704–1752) anısına isimlendirilmiştir.
+Cramer kuralı aynı sayıda değişken ile denklem bulunan doğrusal denklem dizgesinin çözüm kümesini bulmak için kullanılabilen bir ifade ortaya çıkaran bir doğrusal cebir teoremidir. Bu teorem kullanılarak çözüm tek ve tek bir çözüm kümesi bulunan doğrusal denklem dizgesi için geçerlidir. Bu halde her bir değişken için çözüm iki kare determinantın oranı olarak verilir; bu oranda pay katsayılar matrisinden o değişkene karşıt sütununun, denklemin sağ-tarafında olan sabitler vektörü ile ikame edilmesiyle elde edilen kare matrisin determinantı ve payda ise katsayılar kare matrisi determinantıdır.
+Genel olarak açıklamak için aynı sayıda (n) değişkenli ve denklemli bir doğrusal denklemler dizgesinin şu matris ifadesini ele alalım: 
+Burada formula_47 matrisi (nxn) seviyeli sonsuz değeri olmayan bir determinanti bulunan bir "katsayılar (kare) matrisi";
+formula_48 (nx1) seviyeli bir "degiskenler (sutun) vektoru"; ve 
+formula_49 ise (nx1) seviyeli bir "sabitler (sutun) vektoru" olur.
+formula_50değişkeni çözümü için Cramer Teoremi şöyle ifade edilir: 
+Burada formula_52 matrisi formula_47 kare matrisinin "i"'inci sütununun yerine formula_54 sütun matrisinin konulmuş olduğu matrisdir.
+İki değişkenli iki doğrusal denklemli dizge örneği.
+Bu örnekte, determinantların içinde hangi elemanlar bulunduğunun hemen anlaşılması içcin, katsayılar formula_55 "mavi" renkli; bilinmeyenler formula_56 "siyah" renkli ve katsayılar formula_57 "yeşil" renkli yazılmıştır.
+Homojen dizgeler.
+Tanımlama.
+Bir doğrusal denklemler dizgesinde sabitlerin hepsi 0 iselr, bu doğrsusal denklemler dizgesi homojen dizge olarak tanımlanır:
+Matris ifadesiyle bir genel homojen dizge şöyle ifade edilir:
+Burada 
+A : (mxn) düzenli "katsayılar matrisi";
+x : (n)-sıralı "değişkenler vektörü" veya sütun-matrisi ve ;
+0 : (m)-siralı sıfır vektör veya 0 girdili sütun-matris ;
+olur.
+Çözüm kümesi.
+Her homojen dizgenin en aşağı bir tane çözümü vardır; bu her değişkenin 0'a eşit olduğu çözüm kümesidir. Bu çözüme "sıfır çözümü" veya "önemsiz (trivial) çözüm" adı verilir.
+Homoojen dizgelerin önemli olan şu diğer nitelikleri de bulunur:
+formula_67 
+vektörler toplamı da homojen dizgenin bir çözümü olur.
+formula_68
+vektör çarpımı da homojen dizgenin bir çözümüdür.
+Bu çözüm kümesi nitelikleri, R"n"</süp> nin bir Euclid-tipi altuzayı için gerekli nitelikler ile tıpatıp aynıdır. Özellikle, bir homojen dizgenin çözüm kümesi buna tekabül eden "A" matrisinin sıfır uzayı ile aynıdır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Korelasyon</DOCTITLE>
+<TEXT>
+
+Korelasyon, olasılık kuramı ve istatistikte iki rassal değişken arasındaki doğrusal ilişkinin yönünü ve gücünü belirtir. Genel istatistiksel kullanımda korelasyon, bağımsızlık durumundan ne kadar uzaklaşıldığını gösterir.
+Farklı durumlar için farklı korelasyon katsayıları geliştirilmiştir. Bunlardan en iyi bilineni Pearson çarpım-moment korelasyon katsayısıdır. İki değişkenin kovaryansının, yine bu değişkenlerin standart sapmalarının çarpımına bölünmesiyle elde edilir. Pearson ismiyle bilinmesine rağmen ilk olarak Francis Galton tarafından bulunmuştur.
+Pearson çarpım-moment korelasyon katsayısı.
+Matematiksel özellikleri.
+Korelasyon katsayısı, bağımsız değişkenler arasındaki ilişkinin yönü ve büyüklüğünü belirten katsayıdır. Bu katsayı, (-1) ile (+1) arasında bir değer alır. Pozitif değerler direk yönlü doğrusal ilişkiyi; negatif değerler ise ters yönlü bir doğrusal ilişkiyi belirtir. Korelasyon katsayısı 0 ise söz konusu değişkenler arasında doğrusal bir ilişki yoktur.
+Matematik beklenti değerleri μ"X" ve μ"Y", standart sapmaları σ"X" ve σ"Y" olan iki bağımsız değişken "X" ve "Y" arasındaki "Pearson'un çarpım-moment korelasyon katsayısı" (ρ"X, Y"), şu şekilde tanımlanır:
+"E" değişkenin matematiksel beklenti değerini, cov ise kovaryansı ifade eder,
+μ"X" = E("X") olduğundan, 
+σ"X"2 = E("X"2) - E2("X") ve
+"Y", için de aynısı geçerli olduğundan, şu ifadeyi yazabiliriz:
+Korelasyon, yalnızca standart hataların ikisi de sonlu ve sıfırdan farklı ise, tanımlıdır. Korelasyon katsayısının 1'i (mutlak değer olarak) geçemeyeceği ise Cauchy-Schwarz eşitliğinin doğal bir sonucudur.
+Tam bir artan doğrusal ilişkinin varlığı halinde korelasyon katsayısı 1 değerini alır, tam bir azalan ilişkinin varlığı halinde ise korelasyon katsayısı -1 değerini alır. Katsayının alabileceği diğer tüm değerler ise ilişkinin doğrusallığına bağlı olarak bu iki değer arasında olacaktır. Katsayı +1'e veya -1'e ne kadar yakınsa ilişkinin doğrusallığı o kadar güçlüdür. 
+Değişkenler istatistiksel olarak bağımsız ise korelasyon 0'dır fakat bunun tersi doğru değildir, çünkü korelasyon katsayısı yalnızca doğrusal olan ilişkiyi belirler.
+Bir örnek: Rastgele "X" değişkeninin -1 ve +1 aralığında tekdüze dağılımına göre dağıldığını varsayalım ve "Y" = "X"2 ilişkisi geçerli olsun. Bu durumda "Y" tamamen "X" tarafından belirlenmiştir, öyle ki "X" ve "Y" birbirlerine bağımlıdır, fakat Pearson anlamdaki korelasyon 0 olacaktır. Ne var ki, "X" ve "Y"'nin birlikte normal dağıldığı durumda, istatistiksel bağımsızlık aynı zamanda korelasyonun da olmaması anlamına gelir..
+Pearson'un çarpım-moment korelasyon katsayısı örneklem kestirimi.
+Bir rasgele örneklem olarak "n" büyüklükte "X" ve "Y" değişkenleri için aralıksal ölçekli veya oransal ölçekli sayısal veri serileri bulunmaktadır ve bu seriler "n" satırlı ve 2 sütunlu bir "veri matrisi" olarak ifade edilir. Bu veriler "i" = 1, 2, ..., "n" için "xi" ve "yi" olarak yazılır. Anakütle Pearson'un çarpım-moment korelasyon katsayısı olan ρXY; için, kestirim korelasyon katsayısı olan rxy şu formül ile hesaplanır:
+Burada formula_4 ve formula_5 "xi" ve "yi" için örneklem aritmetik ortalamaları; "s""x" and "s""y" "xi" ve "yi" için örneklem standart sapmaları ve toplama Σ i=1 ile "n" arasındadır. Bu formül biraz değişme ile şöyle de verilebilir:
+Eğer "X" ve "Y" verileri normal dağılım gösteren bir anakütleden gelmişlerse, Pearson'un örneklem korelasyon katsayısı bu iki anakütle değişkeni arasında bulunan korelasyon için en iyi "korelasyon kestirimi" olduğu isbat edilmiştir. Yine, anakütle korelasyonu için doğru olduğu gibi, örneklem korelasyon katsayısı da -1 ile +1 arasında değişme gösterir. 
+Verilen formül kullanılarak, komputer kullanarak tek geçişli algoritm olarak örneklem korelasyon katsayısı hesaplanması kolay görülmesine rağmen, pratikte özellikle bu formülün kullanışı sayısal kararsız olarak pek şöhret kazanmıştır. Aşağıda daha kararlı ve kesin sonuç veren örneklem korelasyon katsayı hesaplaması verilecektir. 
+Örneklem korelasyon katsayısının karesi (belirtme katsayısı), "xi"'in "yi"'ye doğrusal uygunluğunun sağlanması halinde, açıklanan "yi" varyansı olarak da tanımlanabilir. Bu matematiksel biçimde şöyle yazılır:
+Burada "σy|x2" terimi "xi"'in "yi"'ye arasındaki ilişkinin bir "y = a + bx" doğrusu ile ifade edilmesinin kestirimi sırasında ortaya çıkan hata karelerinin toplamıdır. 
+ile "σy2" "y" için varyansdır; yani
+Örneklem korelasyon katsayısı hem "xi"'e hem "yi"'ya göre simetrik olduğu için, eğer bağımlı değişken olarak "xi" seçilip "yi"'in buna doğrusal uygunluğunun kestirimi elde edilirse, aynı değer 
+elde edilir.
+Bu denklem daha yüksek boyutlarda korelasyon katsayısı bulunması için bazı ipuçlari vermektedir. Yukarıda Euclid uzayı içinde bir 2-boyutlu vektör grubu için tek-boyutlu bir ölçü uygulaması halinde ortaya çıkartılan "açıklanan varyans" kısmı orneklem korelasyon olarak tanımlanmıştır. Aynı şekilde "m" boyutlu bir doğrusal alt-manifoldta "n" boyutlu vektörlerin uygulanması olan çoklu korelasyon katsayısı tanımlanabilir. Örneğin "z" için "x" ile "y"'ye göre bir düzey olan "z = a + bx + cy" uygulananırsa, 'z"'nin "x" ile "y"'ye göre korelasyonu şöyle verilir:
+Korelasyonun açıklanması.
+Örneklem korelasyon katsayısı iki rassal değişken olan "X" ve "Y"'yi temsil eden vektörlerin kosinus değeri olarak açıklanabilir.
+Örneklem korelasyon katsayısı mümkün uçsal değerler olan -1 veya +1 olursa, çok iyi iki değişken arasında çok iyi bir doğrusal bağlantı bulunduğu kabul edilir. Eğer örneklem korelasyon katsayısı 0'a eşitse, iki değişken arasında hiç doğrusal bağlantı bulunmaz. Dikkat edilirse hep örneklem korelasyon katsayısı ile "dogrusal bağlantı" açıklanmakta ve genel olarak bağlantıdan bahis edilmemektedir. Örneğin iki değişken arasında çok yakın bir daire şeklinde bağlantı bulunsa, örneklem korelasyon katsayısı 0'a yakın olacaktır. 
+Değişik istatistikçiler örneklem korelasyon katsayısının değerlerini daha ayrıntılı olarak açıklamaktadırlar. Burada Cohen(1988) , tarafından, özellikle psikoloji ilim dalinda uygulamalı olarak, verilen ayrıntılı açıklama şu tabloda gösterilmektedir:
+Bu ayrıntılı açıklama çok subjektifdir ve belli bir bilim dalı için (psikoloji) uygundur ama genelleştirilmesi uygun değildir. Değişik bilim dalları korelasyon katsayısı değerlerinin değişik olarak açıklamasını kabul etmektedirler. Örneğin çok dakik ölçüm aletleri ile ortaya çıkarılan ölçüler arasında bulunan 0,9 korelasyon değerinin çok düşük olduğu kabul edilebilir; halbuki ayni katsayı değeri bir sosyal bilimci veya iktisatçı tarafından çok yüksek (hatta gerçekliğine şüphe yaratırcasına büyük) olarak kabul edilmektedir.
+Korelasyon hakkında yaygın bazı hatalı düşünceler.
+Korelasyon ve nedensellik.
+İstatistikte korelasyon hakkinda çok kullanılan ve her istatistik kullananın bilmesi gerek bir cümle şudur:
+Genellikle çok kişi iki değişken arasında bir ilişki kurulunca birinin sebep diğerinin sonuc olduğuna ve birinin diğerine neden olduğuna inanmış görünürler. Gerçekten nedensellik ve korelasyon birbirine bağlı kavramlardır: nedensellik ispat edilmesi için korelasyonun bulunması gereklidir ama bu nedensellik göstermek için yeterli değildir. Nedensellik ve korelasyon birbirlerine eşit değillerdir ama daha uygun cümleler ile
+İstatistikte birbiri ile çok yakından doğrusal ilişkili gibi görülen ama biri diğerine sebep-sonuç olmayan birçok pratik örnek bilinmektadir. Genellikle bu türlü nedensellikden doğmayan yakın ilişkiye sahte korelasyon adı verilmektedir. Genellikle bu "sahte korelasyon" iki değişkenin de bir başka saklı olan degisken tarafından etkilenmesi dolayısı ile ortaya çıkar. Biraz abstre olarak A ve B arasında bulunan yakin korelasyon daha objektif olarak dikkatle incelenince üç tür mümkün ilişki olabilceği görülür:
+yahut
+İşte "sahte korelasyon" üçüncü halde ortaya çıkar. A ve B arasında görülen yakın ilişki biribirin sebep-sonuç olmasından doğmaz. Yakın korelasyon herhalde sebep-sonuç ilişkisi ifade etmez: "korelasyon nedensellik degildir".
+"Sahte korelasyon" hakkında birçok örnek verilmiştir ve bunlar bazan alaycı, bazan şaşırtıcı ve bazan gülünçtür. Bunlardan bazılarını verip niçin "sahte korelasyon" bulunduğunu açıklayalım:
+Korelasyon ve doğrusallık.
+Pearson'un korelasyon katsayısı iki değişken arasındaki doğrusal ilişkinin gücünü göstermekle beraber, kestirim olarak bulunan katsayı değeri bu ilişkiyi tam olarak açıklamak için yeterli değildir. Bu sonuç eğer veriler normal dağılım göstermiyorlarsa daha da önem kazanmaktadır. 
+Dört değişik veri çiftini ve dört "serpme diyagram"ını kapsayan ve istatistikçiler arasında çok iyi bilinen yandaki gösterimler İngiliz asıllı Amerikan istatistikçi Francis Anscombe tarafından hazırlanan bir yazıda gösterilmiştir. Gösterilen 4 değişik "y" değişkeninin hepsi için de aynı olan ortalama (7,5), standart sapma (4,12), korelasyon katsayısı (0,81) ve regresyon doğrusu (formula_12) bulunmaktadır. Fakat gösterimden açıkca görülmektedir ki dört Y değişkenin dağılımları çok farklıdır. Sol yukarıdaki göstergede iki değişken birbirine korelasyon ile ilişkili olup her iki değişkenin de normal dağılıma uyduğu varsayımlarının gerçeğe uygun olduğu kabul edilebilir. Üst sağdaki gösterim de değişkenlerin normal dağılım gosterdikleri kabul edilemez; iki değişken arasında iliski olmakla beraber bunun doğrusal olduğu da kabul edilemez ve bu nedenle yüksek korelasyon katsayısı bu ilişkiyi açıklayamaz. Alt soldaki göstergeden görülmektedir ki iki değişken arasında tam bir doğrusal ilişki vardır, ancak tek bir dışlak nokta bulunmakta ve bu da korelasyon katsayı değerini 1'den 0.81'e düşürmektedir. Alt sağdaki son gösterimden iki değişken arasındaki ilişkinin doğrusal olmadığı ve bulunan tek bir dışlak verinin hesaplanan yüksek korelasyon katsayısına neden olduğu görülmektedir. 
+Bu örnek açıkca göstermektedir ki bir özetleme istatistiğine (burada korelasyon katsayı değerine) dayanarak, verilerin daha ayrıntılı incelenmesi yapılmadan, ortaya sonuç çıkartma iyi inceleme için gayet yetersizdir.
+Korelasyon katsayısının kesin olarak tek-geçişli olarak bilgisayarla hesaplanması.
+Sayısal olarak kararlılığı ve kesinliği iyi olan "Pearson'un çarpan-moment korelasyon katsayısı" hesaplama algoritması için şu sözdekod verilmiştir:
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Wallace Çizgisi</DOCTITLE>
+<TEXT>
+
+Wallace Çizgisi, Oryantal ve Avustralyen zoocoğrafya bölgeleri arasından geçen, İngiliz doğa bilimci Alfred Russel Wallace'ın önerdiği sınır. Hint Okyanusundan kuzeye doğru uzanarak Bali ve Lombok adaları arasındaki Lombok Boğazı ile Borneo ve Selebes adaları arasındaki Makassar Boğazından geçen bu çizgi doğuya yönelir ve Mindanao'nun güneyinde Filipin Denizine ulaşır.
+Wallace Çizgisi, zoocağrafyacıların birçoğu tarafından artık bölgesl sınır olarak kabul edilmemesine karşın birçok büyük hayvan grubunun coğrafi dağılımını sınırlar.Çeşitli balık, kuş ve memeli grubunun yanı sıra bazı omurgasızlarda Wallace Çizgisi'nin bir yanında bol ve çeşitli, öbür yanında ise çok az ya da hiç yoktur.
+Hint-Malay Bölgesi.
+Deniz seviyesinin düştüğü buzul çağlarında türlerin ataları güneydoğu Asya'dan kara yoluyla çevreye yayılmış su seviyeleri yükselince de adalarda kalmışlardır. Zamanla Cava gergedanı gibi bazı türlerde alt türler ortaya çıkardı. Bu hatta 177 kuş ve 215 tür memeli tür vardır.
+Avustro-Malay Bölgesi.
+Bu bölgenin çekirdeğini deniz seviyesinin düşük olduğu çağlarda bir arada bulunan iki anakara olan Avustralya ve Yeni Gine oluşurmaktadır. Keseliler çok çeşitlilik göstermektedir.Bu bölgede 241 kuş ve 79 tür memeli yaşamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Litostratigrafi</DOCTITLE>
+<TEXT>
+
+Litostratigrafi, birimleri sedimanter, volkanik ve bunların kısmen metamorfize olmuş cinslerinin litolojilerine ve stratigrafik konumlarına göre tanımlanmış birimlerdir. Bir litostratigrafi birimi bir ya da daha fazla litoloji tipinden oluşmuş, kendi içinde bir bütünlük gösteren ve komşu birimlerden bu özelliğiyle ayrılan bir kaya birimidir. Bu birimler genellikle istiflenme kurallarına (law of superposition) uyar ve çoğu kez tabakalıdır. Litolojik sınırların dereceli geçişli veya belirsiz olduğu durumlarda sedimanter yapılar, jeomorfolojik özellikler, mineral kapsamı, fosiller ve diğer fiziksel özellikler de bu birimlerin tanımlanmasında kullanılabilir. Fosiller bu durumda litoloji biriminin fiziksel içeriği olarak düşünülür.
+Litostratigrafi Birimleri.
+Sınırlar.
+Bir litoloji biriminin alt, üst ve yanal sınırlarının belirlenmesinde belirgin olan fiziksel bir özelliğin oldukça kesin bir şekilde değişmesi esas alınır. Bu değişmenin sahada görülebilmesi ve izlenebilmesi gerekir. Başka bir deyişle, sahada ayırt edilemeyen ve izlenemeyen sınırlar litostratigrafi biriminin sınırı olarak kullanılamaz. Sınırlarının dereceli geçişli olması halinde, birimleri ayırtlayan sınır çizgisi uygun ve pratik bir yerden geçirilir.
+Mertebeler.
+Litostratigrafi sınıflamasında temel birim formasyondur. Üye, formasyonun bir as bölümüdür. Tabaka, formasyon ya da üye içerisinde ayrılmış en küçük litostratigrafi birimidir. İki veya daha çok sayıda formasyondan oluşmuş kaya topluluğuna grup adı verilir. Eğer gruptan daha yüksek mertebede bir birime gerek varsa, üsgrup kullanılır.
+Tip Kesit.
+Bir litostratigrafi birimi, özel olarak seçilmiş bir tip kesite ve varsa yardımcı (referans) kesitlere dayanmalıdır.
+Formasyon.
+Bir veya birkaç tip litolojiden oluşan ve yapısındaki belirgin litoloji özelliğinden dolayı komşu birimlerden ayırt edilebilen kaya birimidir. Bu birim, bölgenin genel jeolojik durumunu anlatmak ve yorumlamak için kullanılan esas birimdir. Formasyon mertebesindeki biriminin kalınlığı birkaç metreden yüzlerce metreye kadar değişebilir. Pratik yönden formasyonun temel özelliği 1: 25 000 ölçekli haritaya geçirilebilen bir kaya birimi olmasıdır. Bir formasyon seçilmiş bir tip kesit ile belirtilir. Formasyonun adı, tip yer ve tip kesitteki bir coğrafya adından alınır ve mümkünse kendisini oluşturan kayalardan egemen olanın adı ile birlikte kullanılır.
+Üye.
+Mertebece formasyonun bir altında bulunan bir kaya birimidir; formasyonun bir bölümünü oluşturur. Formasyon içinde, kendisine komşu olan diğer kısımlardan, litolojik özellikleri bakımından ayırt edilir.Üye tanımında kalınlık yönünden bir sınırlama yoktur. Bir üye seçilmiş bir tip kesit ile belirtilir. Üyenin adı, tip yer ve tip kesitteki bir coğrafya adından alınır ve mümkünse kendisini oluşturan kayalardan egemen olanın adı ile birlikte kullanılır.
+Tabaka.
+Litostratigrafi birimlerinin en alt mertebesidir. Altında ve üstünde bulunan diğer kayalardan gözle açıkça ayırt edilebilen bir kaya birimidir. Tanımlanması yararlı görülen ve seçilmiş bir tip kesite dayandırılan bir veya birkaç tabakaya özel bir ad verilir. Bu ad tip kesitin bulunduğu yerin coğrafya adından, litolojiden ve “tabaka” teriminden oluşur (Çaltepe Kalker Tabakası).Volkanik kayalarda lav akmaları tabaka ile aynı mertebededir (Karatepe Bazalt Tabakası).
+Grup.
+Mertebece formasyonun üzerinde bulunan bir litostrafi birimidir. Belirli ortak litoloji özellikleri olan, doğal ilişkili iki veya daha çok sayıda komşu formasyonlar topluluğundan oluşur.Bir grubun tip kesiti veya yardımcı kesitleri yoktur; kendisini oluşturan formasyonların tip kesitleri veya yardımcı kesitleri kullanılır. Grup bir kaya birimi olarak önerilirken, grubu oluşturan formasyonlar ve bunlarla birleştirilen özellikler ayrıntılı olarak anlatılmalıdır. Ancak bazı ön çalışmalarda grup adı, formasyonlar tanımlanmadan da onaysız olarak kullanılır.
+Bir grubun adı, öncelikle onu oluşturan formasyonların tip yerlerine yakın bir coğrafya adından alınmalıdır (Ergene Grubu, Cudi Grubu). Formasyonların daima gruplar şeklinde toplanması zorunlu değildir.
+Üstgrup.
+Belirgin olarak ortak litoloji özellikleri olan iki ve daha fazla sayıda komşu gruplar için üsgrup terimi kullanılır.
+Stratigrafig ilişkinin üç tip blok diyagramla gösterimi:
+Konkordans yapılar
+İki tip temas bulunmakta: uyumlu ve uyumsuz
+Uyumlu tabakalar arasındaki temas iki çeşittir: ani temas, geçişli temas
+Dört tip uyumsuzluk (diskordans) vardır:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Voleybol</DOCTITLE>
+<TEXT>
+
+Voleybol, file ile ikiye bölünmüş bir oyun alanı üzerinde iki takım tarafından topla oynanan bir spordur.
+Oyunun amacı, topu filenin üzerinden göndererek rakip takımın oyun alanına değmesini sağlamak ve rakip takımın aynı amaca ulaşmasını ise önlemektir. Takımların topu rakip alana gönderirken topa en az bir kere kendi sahaları içinde vurulmalıdır.En fazla üç kere değe bilirler blok teması ile 4 kere değme hakları vardır
+Top oyuna servis ile sokulur, servisi atan oyuncu topu filenin üzerinden rakip alana gönderir. Rally, topun oyun alanına değmesi, harice gitmesi veya bir takımın hata yapmasına kadar devam eder.
+Voleybolda bir rally kazanan takım bir sayı alır (Rally Sayı Sistemi). Servisi karşılayan takım rallyi kazandığında bir sayı ve servis kullanma hakkı kazanır. Hakem oyuncuların birine sarı kart verir ise oyuncunun bulunduğu takım 1 sayı ceza alır eğer servis onlarda ise servis haklarını kaybederler hakem kırmızı kart verir ise kırmızı kart yiyen o setliğine oyundan çıkar oyuncu oyundan çıkar . Ve oyuncuları saat yönünde bir pozisyona dönerler. Spor salonlarında, plajda veya çimde oynanabilir.
+Tarihi.
+ABD’nin Massachusetts eyaletinde, Genç Erkekler Hıristiyan Birliği (YMCA) adındaki spor kulübünde çalışan beden eğitimi öğretmeni William G. Morgan tarafından tasarlandı (9 Şubat 1895). Bir kapalı alan sporu olarak 1895’te oynanmaya başlandı. Morgan, bu oyunu “mintonette” olarak adlandırmıştı; daha sonraları topa yere değmeden vurma ilkesinden (vole) yola çıkılarak “voleybol” adı önerildi ve oyun bu adla tanındı. İlk kez Morgan tarafından kaleme alınan voleybol kuralları, YMCA ile Üniversiteler Ulusal Spor Birliği (NCAA) ’ nın ortak çalışması sonunda 1916’da yeniden düzenlendi. ABD ‘de kısa sürede tutulan voleybol, I. Dünya Savaşı sırasında ABD askerleri aracılığıyla Avrupa’ya da geçti. Sporun, çeşitli ülkelerde uzun bir dönem bağımsız bir çizgide gelişmesinden sonra, 1947’de Paris’te Uluslararası Voleybol Federasyonu (FIVB) kuruldu.İlk Dünya Şampiyonası 1949 yılında erkekler, 1952'de kadınlar tarafından oynanmıştır. Günümüzde, merkezi İsviçre’nin Lozan kentinde bulunan FIVB ‘ ye 140’tan fazla ülke üyedir.
+Oyuncular ve yerleri.
+Pasör:
+Smaçörlere top dağıtan oyuncudur. 3 numarada oynar. Oyunu asıl yönlendiren oyuncudur. Pasörün kötü pas atması halinde smaçöre daha çok görev düşer ve hücumdaki etki azalır.
+Pasör Çaprazı:
+Pasör servise geçtiğinde öne gelen ve genellikle uzun pasla hücum eden oyuncu. 2 numara oyuncusu da denilebilir. Bu oyuncu 4-2 taktiğinde görev almaz.
+Smaçör:
+4 numarada oynayan ve genellikle uzun pasla hücum eden elemanlara denir. Sahada bu görevde oynayan 2 oyuncu bulunur. Birisi servise geçtiğinde diğeri (yani “çaprazı”) öne geçer, bu nedenle 4 numaradan sürekli olarak hücum yapılabilir.
+Orta Oyuncu:
+3 numaradan oynayan ve kısa,kurşun paslarla hucüm eden elemanlara denir. Bu görevde 2 oyuncu sahada yer alır. Birisi servise geçtiğinde diğeri (yani “çaprazı”) öne geçer, bu nedenle 3 numaralı bölge de sürekli hücum bölgesidir.
+Libero:
+Takımın 6. oyuncusudur. Farklı renkli (genellikle takım formasının tam zıt renginde) forma giyer, diğer oyunculardan farklı olarak oyuncu listesinde adının yanında bir “L” ibaresi bulunur ve bu ibare bu oyuncunun o maç sırasında başka bir görevde kullanılamayacağını gösterir. Takımın savunma oyuncusudur. Oyun sırasında servis atılmadan önce, takımının o sırada savunmada olan oyuncularından biriyle yer değiştirebilir. Bu yer değiştirme, sahanın arka alanından gerçekleştirilir. Arka alanda parmak pas ve manşet alabilirken, topu 3 metre içinde parmak pasla alamaz. Yerine geçtiği oyuncu 4 numaraya geldiğinde ya da başka bir oyuncuyla değişmesi gerekiyorsa oyundan çıkar. Her iki durumda da oyuna tekrar girebilmesi için bir sayı beklemelidir. Servis atamaz ve 3 metre içinden hucüm yapamaz. Arka alandan hucüm yapabilir, ancak zıplayamaz. 3 metre içinde hoplayabilir. Arkaya gelen topları parmakla alamaz ama alabilir de. Diğer iki oyuncyla yer değiştirirken hakeme göz kırpmak suretiyle izin almalı koçuyla da en azından bir göz teması kurmalıdır. Farklı renkte forma giymesinin sebebi voleyboldaki estetik algı ile ilgilidir. Bazen karşı takımın formasını giyebilirler. 
+= Oyuncular =
+Oyuncunun malzemeleri forma, şort, çorap ve spor ayakkabısıdır. Oyuncuların formaları 1’den 18’e kadar numaralandırılır.Takım kaptanının formasında, göğüs numarasının altında bir şerit olmalıdır. Diğer oyunculardan farklı renkte olan (libero oyuncuları haricinde) ve/veya kurallara uygun numarası bulunmayan formaların giyilmesi yasaktır. Oyuncular riski kendisine ait olmak kaydıyla gözlük ve lens takabilirler.
+Oyunda olmayan oyuncular oyun esnasında ısınma sahasında, molalarda ve teknik molalarda kendi oyun alanlarının arkasındaki serbest bölgede topsuz olarak, set aralarında serbest bölge içinde top kullanarak ısınabilirler.
+Filenin önünde bulunan üç oyuncu ön hat oyuncusudur ve 4 (ön-sol), 3 (ön-orta), 2 (ön-sağ) numaralı alanlarda dururlar.Diğer üç oyuncu geri hat oyuncusudur ve 5 (geri-sol), 6 (geri -orta), 1 (geri-sağ) numaralı alanlarda dururlar.
+Pas Çeşitleri.
+Uzun Pas:
+Genellikle 4 ve 2 numaralı oyunculara atılan yüksek pastır.
+Kurşun Pas:
+4 ve 2 numara oyuncularının hücumlarını hızlandırmak amacıyla atılan, file köşelerine doğru ve fileye paralel olarak atılan pastır.
+Kısa Pas:
+3 numara oyuncularına atılan pastır, hızlı hücumu sağlar ve karşı takımı savunması yerine yerleşmeden yakalama amacı taşır. Yüksekliği ve zamanlamasına göre; 3 çeşidi vardır.
+Erken kısa:
+3 numara oyuncusu, top pasöre ulaşmadan önce hareketlenir ve top pasörle buluştuğunda havada olur.
+Normal kısa:
+3 numara oyuncusu, top pasöre giderken hareketlenir ve top pasörle buluştuğunda zıplar,topla en yüksek noktada buluşup, topa vurur.
+Geç kısa:
+3 numara oyuncusu, topa düşmeye başladığı noktada vurur.
+Taktikler.
+4–2:
+İki pasör, iki smaçör ve iki orta oyuncu ile sahaya çıkılan taktiktir. Pasörler arka alanda savunma oyuncusu olarak sayılırken öne geldiklerinde pas atmakla görevlidirler. Hücum görevinin sürekli olarak iki oyuncuda olması, bu taktiğin zayıf yönüdür.
+5-1:
+Tek pasör, iki smaçör, iki orta adamı ve bir pasör çaprazıyla sahaya çıkılan taktiktir. Pasör arka alana geçtiğinde, öncelikli olarak bir savunma oyuncusudur. Top pasöre gelirse, pasör topu karşılar ve pası atmakla yükümlü olan oyuncu pasör çaprazı olur, aksi takdirde pasör 3 metre içine kaçarak pasını atar ve yeniden savunma pozisyonunu alır. Pasörün arkada olduğu pozisyon takımın 3 oyuncusunun hücum edebildiği, dolayısıyla güçlü oldukları pozisyondur.
+Modern 4-2:
+İki pasör, iki smaçör, iki orta adamı ile oynanır. 4-2′den farkı, pasörlük görevinin arka alanda bulunan pasöre ait olmasıdır, öne geçen pasör, pasör çaprazı gibi oynar ve takım sürekli olarak 3′lü hücum yapabilir.
+Voleybol Sahası.
+Oyun alanı, 18x9 m ölçülerinde bir dikdörtgendir ve her yönde en az 3 m genişliğinde olan bir serbest bölge ile çevrilmiştir.Oyun sahasının üzerinde bulunan serbest oyun boşluğu, her türlü engelden arındırılmış olmalıdır. Serbest oyun boşluğu, oyun sahası yüzeyinden ölçüldüğünde en az 7 m yüksekliğinde olmalıdır.
+Oyun Sahasının Yüzeyi:
+Sahanın yüzeyi düz, yatay ve yeknesak olmalıdır. Oyuncular için sakatlanmaya yol açacak herhangi bir tehlike teşkil etmemelidir. Pürüzlü ve kaygan yüzeylerde oynanması yasaktır.FIVB Dünya ve Resmi Müsabakalarında sadece tahta veya sentetik bir yüzeyin kullanılmasına izin verilir. Bu yüzey daha önce FIVB tarafından onaylanmış olmalıdır. Kapalı salonlarda oyun alanının yüzeyi açık renkte olmalıdır. FIVB Dünya ve Resmi Müsabakalarında çizgiler için beyaz, oyun alanı ve serbest bölge için farklı renkler kullanılmalıdır.Açık hava sahalarında drenaj amacıyla her metre için 5 mm lik bir eğime müsaade edilir. Saha çizgilerinin sert bir maddeden oluşturulması yasaktır.
+Oyun Alanının Üzerindeki Çizgiler:
+Bütün çizgiler 5 cm genişliğindedir. Çizgiler, zeminin ve diğer çizgilerin renklerinden farklı ve açık renkte olmalıdır.
+Sınır çizgileri: 
+İki yan ve iki dip çizgi oyun alanını belirler. Yan ve dip çizgilerin her ikisi de oyun alanının boyutlarına dahil olarak çizilir.
+Orta çizgi: 
+Orta çizginin tam ortası oyun alanını 9x9 m boyutlarında iki eşit alana böler ; bununla beraber orta çizgi kalınlığının, bütünüyle, her iki oyun alanının da sınırları içerisinde olduğu kabul edilir. Bu çizgi filenin altından iki yan çizgi arasında uzanır.
+Hücum çizgisi: 
+Her oyun alanında, arka kenarı, orta çizginin tam ortasından 3 m geride çizilmiş bir hücum çizgisi, ön bölgeyi belirler.
+Bölgeler:
+Ön bölge:
+Her oyun alanında ön bölge orta çizginin tam ortası ve hücum çizgisinin arka kenarıyla sınırlıdır.
+Ön bölgenin yan çizgiler dışında serbest bölgenin sonuna kadar uzandığı varsayılır.
+Servis bölgesi: 
+Servis bölgesi, her dip çizginin gerisinde 9 m genişliğindeki sahadır.Bu bölgenin yan sınırları, dip çizgilerden 20 cm geriye, yan çizgilerin uzantısı olarak çizilen 15 cm uzunluğunda iki kısa çizgiyle belirlenir. Her iki kısa çizgi de servis bölgesinin genişliğine dahildir.Servis bölgesinin derinliği serbest bölgenin sonuna kadar devam eder.
+Oyuncu değiştirme bölgesi: 
+Oyuncu değiştirme bölgesi, her iki hücum çizgisinin yazı hakemi masasına kadar olan uzantısı ile sınırlıdır.
+Libero değişim bölgesi:
+Libero değişim bölgesi, serbest bölgenin, takım sıraları tarafındaki bir bölümü olup, hücum çizgisi uzantısından dip çizgiye kadar olan alanla sınırlandırılmıştır.
+Isınma sahası:
+FIVB Dünya ve Resmi Müsabakalarında ısınma sahaları yaklaşık 3x3m boyutlarında, serbest bölgenin dışında ve oturma sıralarının bulunduğu taraftaki köşelerde yer alır.
+Ceza sahası:
+Yaklaşık 1x1 m boyutlarında olan ve 2 sandalye bulundurulan bir ceza sahası, her bir dip çizgi uzantısının dışında olacak şekilde, kontrol sahası içinde yer alır. Bu sahalar 5 cm genişliğinde kırmızı bir çizgiyle sınırlandırılabilirler.
+File:
+File, düşey olarak orta çizginin üstünde yer alır ve erkekler için 2.43 m, bayanlar için 2.24 m yüksekliğindedir.File, 1 m genişliğinde, 9.50 ila 10 m uzunluğundadır ve 10 cm lik karelerden oluşan siyah iplerden yapılmıştır. Anten, 1.80 m uzunluğunda ve 10 mm çapındadır. Antenlerin her birinin 80 cm lik üst kısımları filenin üzerinde devam eder. Antenler filenin bir parçası sayılır ve geçiş boşluğunun yan sınırlarını belirler.
+Voleybol Kuralları.
+Yasaklı Malzemeler: 
+Kaptanlar: 
+Sayı Kazanmak
+Setler
+Oyundaki Oyuncu Sayısı
+Dönüşler
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Andromeda Galaksisi</DOCTITLE>
+<TEXT>
+
+Andromeda Galaksisi, ayrıca Messier 31, M31 ve NGC 224 olarak da bilinir, Mitolojik bir kavram olan Andromeda'nın Türkçedeki karşılığı zincire vurulmuş kız anlamına da gelmektedir. Andromeda Takımyıldızı'nda bulunan bir sarmal galaksidir. Spitzer Uzay Teleskobundan elde edilen verilere göre bir trilyon yıldıza ev sahipliği yapmaktadır. Samanyolu galaksisi ile arasındaki uzaklık yaklaşık olarak 2.2 milyon ışık yılıdır (ışık yılı: ışığın 1 yılda aldığı yoldur). 2006 ölçümlerine göre Samanyolu Andromeda'nın kütlesinin ancak ~80%'ine sahiptir. Andromeda'nın bir diğer özelliği ise çıplak göz ile Dünya'dan görülebilen en uzak gök cismi olmasıdır. Ayrıca Samanyolu'na en yakın büyük galaksidır.
+Keşif ve Gözlemler.
+Andromeda Galaksisi, ilk defa M.S. 964 yılında İranlı gök bilimci Abdurrahman el-Sufi tarafından çıplak gözle gözlenmiştir. "Küçük Bulut" olarak adlandırdığı bu cismi "Sabit Yıldızlar" adlı eserinde tanımlamıştır. 1612 yılında Simon Marius, Andromeda’nın ilk çizimini yayınladığında, Charles Messier (1764) Al-Sufi’nin bu çalışmasından habersiz olarak, bunun yeni bir bulutsu olduğunu söylemiştir. Bunun üzerine Andromeda bulutsusu Messier Kataloğuna “M31” olarak kaydedilmiştir.
+Andromeda Galaksisi ile ilgili ilk modern araştırmalar 100 yıl kadar önce fotoğraf tekniğinin ve dolayısıyla daha sönük kaynakları inceleme ve kaydetme olanaklarının gelişmesi ile başlamıştır. Isaac Roberts, Andromeda'nın spiral yapısını gösteren ilk fotoğraflarını 50 cm’lik teleskopu ile çekmiştir. O dönemde dışgalaksilerin varlığı bilinmediğinden, fotoğraflarda sarmal kolların dışında bulunan sönük yıldızların açıkça görülmesine rağmen, bunun bir galaksi olabileceği düşünülmemiştir. Aksine Andromeda'da bulunan Büyük Bulutsu’nun zamanla yoğunlaşarak gezegen sistemine sahip bir yıldız olacağı düşünülmüştür. Aralarında Edwin P. Hubble'ın da bulunduğu birkaç araştırmacı, Samanyolu'nun ötesinde yıldız sistemlerinin olabileceği fikrini ileri sürmüşlerdir.
+1925 yılında Hubble, NGC 6822 galaksisi'nı gözlemleyerek, bunun bir "uzak yıldızlar topluluğu" olduğunu göstermiştir. Bu çalışmalar sırasında Andromeda Bulutsusu'nda bulunan büyük sarmal yapı Hubble'ın dikkatini çekmiştir. Hubble çektiği fotoğralarda sarmal yapının karın bölgesini sıkıca saran sarmal kolları görmüş ve bu kolların binlerce yıldız ve toz bulutlarından oluştuğunu farketmiştir. Hubble'ın Andromeda galaksisi ile ilgili bulguları ilk defa 1929 yılında "Yıldız Sistemine Benzer Sarmal Galaksi" başlıklı makalesinde yayınlamıştır.
+Baade'nin keşifleri.
+1940’lı yıllarda Alman gök bilimcilerden Baade, Mount Wilson’da bulunan 250 cm’lik teleskop ile Andromeda Galaksisi'ni gözlemledi. Çalışmalarının sonucunda iki önemli buluş gerçekleştirdi. Bunlardan birincisi, 1944 yılında Los Angeles'da, savaş sırasında savunma amaçlı olarak sık sık yapılan karartma tatbikatları sırasında ortaya çıktı. Baade, karartma gecelerinde gökyüzünün doğal karanlığı içerisinde Andromeda Galaksisi'nin daha sönük özelliklerininin fotoğraflarını çekme fırsatını buldu. Sarmal kollarda bulunan yıldızlar net olarak görünmelerine rağmen parlak olan orta kısım fotoğraflarda belirsizdi. Baade, orta kısımda bulunan yıldızların görünmemesini, ikisi yakın, ikisi daha uzakta bulunmak üzere dört küçük yoldaş galaksinin varlığı ile açıklamıştır.
+Baade fotoğraflarında kırmızı filtre kullanarak ve uzun poz süresi vererek Andromeda Galaksisi'nin resimlerini elde etmiştir. Fotoğraflar Andromeda Galaksisi'nin merkezini ve dört yoldaşını aydınlatmakla kalmamış, aynı zamanda Baade'nin iki tür yıldız populasyonunu ayırt etmesini sağlamıştır. Daha önceki resimlerde sönük olarak görünen kırmızı dev yıldızlar, Baade'nin yeni fotoğraflarında net bir şekilde görünmektedir. Bunları “Populasyon-II” türü yıldızlar olarak adlandırmış ve bu yıldızların Samanyolu’da bulunan küresel kümelerin içindeki kırmızı dev yıldızlar ile aynı olduğunu farketmiştir.
+Populasyon-II sınıfında bulunan yıldızlar Andromeda Galaksisi'nin merkezinde ve galaktik disk düzleminde dağılmış olarak küresel kümelerde bulunmaktadır. Gökada genelinde bu tür yıldızlar Populasyon-I türü yıldızlara oranla kütle bakımından baskındırlar. Yapılan araştırmalar, Populasyon-II yıldızlarının 12 milyar yaşında olduklarını göstermektedir. Populasyon-I yıldızları ise ağırlıklı olarak Andromeda Galaksisi'nin sarmal kollarında yer alan, daha genç ve parlak mavi yıldızlardır.
+Baade’nin ikinci buluşu 1952 yılında Andromeda Galaksisi'nde bulunan Sefe değişen yıldızlarını incelemesi ile gerçekleşmiştir. Bu çalışmasında Baade, Shapley'in Büyük Macellan Bulutsusu üzerinde yapmış olduğu Sefe’lerin özhareketlerini inceleyerek saptadığı uzaklık ve mutlak parlaklık bağıntısını, Andromeda galaksisine uygulamıştır.
+Genel bilgiler.
+Uzaklık ve geometrik özellikler.
+Andromeda Galaksisi’nın sarmal kollarında bulunan Sefeid-I türü değişen yıldızların incelenmesinden, bu galaksinin Samanyolu’na olan uzaklığının yaklaşık 765 kpc olduğu ortaya çıkarılmıştır. Elde edilebilen kaliteli fotoğraflardan Andromeda galaksisi'nın görünür çapının 2".4 kadar olduğu ortaya çıkarılmıştır. Bu değer, sarmal kollarda yer alan parlak mavi ve beyaz yıldızların fotoğraf plaklarında oluşan görüntülerinden hesaplamıştır. Ancak, daha sönük olan kırmızı yıldızlar görülemediğinden, galaksinin gerçek çapının bu miktardan iki kat daha büyük olduğu düşünülmektedir. Gökadanın mikrodensitometre incelemeleri sonucu sarmal diskin fotoğraf plakları üzerinde görünen görüntüsünün iki katı kadar büyük olduğu ve gerçek çapının 4".8 olduğu hesaplanmıştır. Gökadanın konumu ve uzaklığı dikkate alındığında gerçek lineer boyutunun 120,000 ışık yılı kadar olduğu görülmektedir.
+Uzaklık kanıtı.
+Hubble, Andromeda Galaksisi'nin sarmal kollarının içinde bulunan 40 adet atarca yardımıyla, galaksinin uzaklığını hesaplamıştır. Gökadanın fotoğraflarını inceleyerek bu yıldızların belirli dönemlerle söndüğünü ve parladığını göstermiştir. Hubble bu yıldızların Samanyolu'nda bulunan "Sefe Değişen Yıldız" türleri ile aynı olduğunu tanımlamıştır.
+Konu ile ilgili olarak, Harlo Shapley (1930), Sefe değişen yıldızları ile cisimlerin uzaklığının bulunabileceğini belirtmiştir. Shapley, dönem ve görsel parlaklık bağıntısı olarak kullanılan Sefe’lerin özhareketlerini istatistiksel yöntemlerle incelemiş ve bu yıldızların paralaksını ve dolayısıyla uzaklıklarını bulmuştur. Ayrıca, Pogson formülü yardımıyla Sefe’lerin mutlak parlaklıklarını da elde etmiştir. Hubble, Shapley’in bulduğu dönem ve parlaklık bağıntısından yaralanarak Andromeda sarmalının Dünya'dan yaklaşık 1 milyon ışık yılı uzaklığında olması gerektiği sonucuna varmıştır. Günümüzde modern teknoloji ile yapılan çalışmalar sonucunda, Andromeda Galaksisi'nin, Hubble'ın hesaplamalarının iki katından daha fazla, 2.2 milyon ışık yılı uzaklıkta olduğunu göstermektedir.
+Dönüşü.
+Andromeda Galaksisi'nin dönmesi, görsel ve radyo dalgaboyundaki tayfının incelenmesinden elde edilebilir. Görsel analiz, M31'in çekirdeğinin her iki yanındaki yıldızların yayınladığı ışınımların tayfsal çizgilerinin Doppler kayması özelliklerinin ölçülmesi ile elde edilir. Andromeda Galaksisi'nin çekirdeğin her iki yanında 65′ ila 70′ açısal uzaklığına kadar çekirdeğin dönmesi bir katı cisim hareket etmektedir. 70′ dan 155′ ya kadar her iki yanda dönme hızı, uzaklık arttıkça azalmaktadır. Zira bu dış kısımlar, çekirdek etrafında Kepler kanunlarına göre dönmektedir.
+Kütlesi.
+Newton çekim kanununu ve gözlenen dönme hızlarını kullanarak, Andromeda’nın Gökada'nın kütlesinin 2x1011 Mformula_1 kadar olduğu hesaplanmıştır. Bununla beraber, bu kütle miktarı, radyo ışınım analizinden elde edilen kütleden biraz küçük çıkmaktadır. Andromeda Galaksisi'nde yıldızlar arası hidrojen bulutlarının ortalama radyal hızı 8 km/sn kadardır. Bu hız değerine karşıt olarak 4.1x1011 Mformula_1 kadar bir kütle hesaplanmıştır. 21 cm çizgisinin analizinden M31'de bulunması gereken yıldızlararası hidrojenin kütlesinin, toplam kütle değerinin yaklaşık yüzde 1.3’ü kadar olacağı saptanmıştır.
+Yapısı.
+Andromeda Galaksisi'nin düzlemi, bakış doğrultumuza dik olmadığından, daralmış ve çevresi elips şeklinde görünmektedir. Teorik hesaplamalarla Andromeda’nın genişliğinin, 100,000 ışık yılı kadar olan uzunluğundan biraz daha küçük olduğu saptanmıştır. Mutlak parlaklığı -21m.1 kadir olup, Güneş'ten yaklaşık 24 kadir kadar daha parlaktır. Bu da, içinde Güneş kadar parlak olan, en az 1010 adet yıldızın varlığını gerektirir. Bununla beraber, Güneş'ten daha sönük olan yıldızların saptanmalarının güçlüğü ve görünen ışınıma pek az katkıda bulunmaları olasılıkları nedenleri ile hesaplanan bu sayı yalnızca bir alt limittir. Dolayısıyla, Andromeda Galaksisi'ndeki yıldızların toplam sayısı, içinde 1011 Güneş kütlesi bulunan Gökadamızın içindeki yıldızların sayısından en az iki kat kadar daha fazla olmalıdır.
+Sarmal kollar.
+Andromeda Galaksisi'nin incelemelerinde, sarmal kolların çok az dallanma gösterdiği, daha ziyade basit bir sarmal yapıya sahip olduğu ve yapı bakımından Samanyolu'na benzediği anlaşılmaktadır.
+Andromeda Galaksisi'ni çok ayrıntılı olarak inceleyen Baade, merkezden uzaklıkları 21 kpc ile 0.3 kpc arasında değişen, yedi adet sarmal kolun varlığını saptamıştır. Çekirdeği hem kuzey hem de güney tarafından sarmalayan bu kollar, Samanyolu Galaksisi'nde olduğu gibi aynı tür yıldızlar, toz ve gazlar, Sefe değişenleri ve açık kümeleri barındırmaktadır.
+Andromeda Galaksisi'nde, en dıştaki kolda yer alan dağınık mavi üst dev yıldızlar, yıldızlararası gaz ve tozların olmaması veya yoğunluklarının çok az olması nedeniyle açık bir biçimde gözlenebilmektedir. Her ne kadar bu dış kolda gaz ve tozun bulunduğu şüphe götürmez bir gerçek ise de, bu yıldızlararası maddenin ışınımı gözlenemeyecek kadar sönüktür.
+Beşinci ve dördüncü kollarda, merkezden 12 ila 9 kpc uzaklıklarda, içinde yedinci koldaki gibi mavi üst dev yıldızlarının hakim olduğu, buna ek olarak yıldızlar arası maddenin belirginleştiği ve Popülasyon-I türü yıldızlarının maksimum sayılara ulaştığı görülmektedir.
+Merkezden uzaklıkları 5 kpc'den 2 kpc'ye kadar olan üçüncü ve ikinci sarmal kollarda, H II bölgeleri görülmeye başlar. Bu kollarda Popülasyon-I devleri sayıca çok daha azdır.
+En içteki sarmal kolda, Popülasyon-I üst devleri görülmez, fakat H II bölgeleri açık olarak göze çarparlar.
+Baade'nin belirtmiş olduğu toz ve gazlar ile Popülasyon-I yıldızlarının arasındaki bağlantı, Andromeda Galaksisi'nin sarmal kollarında açıkça görülmektedir. Bu H II bölgelerinin ve onların görünmesine mani olan çok parlak O ve B yıldızlarının sarmal kolların tozları arasında olduğu onların çok fazla kırmızılaşmış olmalarından anlaşılmaktadır.
+Yıldızlararası ortam.
+Andromeda Galaksisi'nin yıldızlararası maddesi sarmal kollarda toplanmış olduğu, küresel kümelerde kırmızılaşmanın H II bölgeleri ile kıyaslandığında, yokluğu veya yok denecek kadar azlığı ile açıkça görülmektedir. Gökada içerisinde dağılmış, fakat özellikle çekirdek civarında yoğunlaşmış olan küresel kümeler, sarmal yapı ile hiç ilgili değildir. Gökadanın bizden uzak olan tarafında bulunan küresel kümelerde biraz kırmızılaşma vardır. Bu kırmızılaşma küresel kümelerden gelmekte olan ışığın Andromeda Galaksisi'nin düzleminden geçerek bize ulaşması sonucu ortaya çıkmaktadır. Çok fazla kırmızılaşan birkaç küresel küme ise, galaksinin hemen hemen yatay düzleminde bulunan ve bundan dolayı da tozlar tarafından büyük ölçüde karartılmış olanlardır.
+Andromeda Galaksisi'ndeki küresel kümelerle ilgili bu gözlemler, galaksideki Populasyon-II novaları üzerinde yapılan araştırmalar ile uyuşmaktadır. Gözlenmiş olan 25 novadan sadece bir tanesi farkedilebilir derecede kırmızılaşma göstermektedir. İlginç olan bu novanın beşinci kolda olması ve böylece ışığı bize gelmeden önce koldaki tozlardan geçmeksidir. Bu kolu çekirdeğe doğru takip edecek olursak, dış bölgelerine bol miktarda Populasyon-I Süper dev yıldızları bulunmasına karşılık, bunların çekirdeğe doğru sayıca azalmakta ve birdenbire yok oldukları görülmektedir. Bununla beraber, sarmal kol, çekirdeğin içine doğru bir toz kolu şeklinde devam etmektedir.
+Yıldız oluşumu.
+Andromeda Galaksisi'nin sarmal kollarındaki bütün maddelerin incelenmesi sonucu, sarmal kolların bu büyüklükteki bir galaksinin toplam ışığına katkısının yüzde 20'den daha az olduğu gerçeğini ortaya çıkarmıştır. Diğer bir deyişle, sarmal kollardaki Populasyon-I yıldızları galaksinin toplam kütlesinin yalnızca küçük bir kısmını oluşturmaktadır. Bu durumun gaz ve tozlar için de doğru olması gerektiğinden, ileride oluşması beklenen yeni yıldızlar için gerekli madde miktarının çok az kaldığı ortaya çıkmaktadır. Andromeda ve bizim galaksimizde nötr Hidrojenin 21 cm'deki çizgisinin analizi ile, yeni yıldızların oluşumuna elverişli olan madde miktarının, bu iki galaksinin toplam kütlesinin yüzde 2'sinden daha fazla olmamaktadır. Buradan, Andromeda Galaksisi'nde yıldız oluşumu döneminin az çok bitmek üzere olduğu ve bu sarmal sistemlerdeki yıldızların çoğunluğunun uzun bir süre önce meydana gelmiş olduğu sonucu çıkarılabilir. Şüphesiz, eğer bu galaksilerin büyük kısmını meydana getiren Populasyon-II yıldızları, evrimleri süresince yeterli madde dışarıya atıyorlarsa, uzaya atılan bu madde toz ve gaz mevcudunu yenileyebilir.
+Yıldızların dağılımı.
+Andromeda Galaksisi'nin çekirdeğinin içinde sadece Populasyon-II yıldızları bulunduğu ve toz olmadığına ilk defa Baade (1944) belirtmiştir. Andromeda'nın çekirdeğindeki yıldızlar Populasyon-II türünden sarı ve kırmızı devler olup merkezden dışarıya doğru galaksinin kollarına kadar izlenebilmektedir. Populasyon-II yıldızları, yassı diskin her yerinde ve hatta gözlenebilen en dıştaki sarmal yapının da ötesindeki bölgelerde bulunmaktadır. Baade, Populasyon-II yıldızlarını galaksinin küçük ekseni boyunca inceleyerek bu yıldızları dışarıya, merkezden 45o uzağa kadar izlemeyi başarmıştır. Merkezden dışarıya doğru büyük eksen boyunca gidildiğinde, Populasyon-II yıldızlarının yoğunluğu az çok galaksinin parlaklığı ile aynı şekilde azalır (kolları göz önüne almadan). Büyük eksen boyunca Populasyon-II yıldızları merkezden 2o uzaklığa kadar izlenebilmiştir, ancak kırmızıya duyarlı fotoğraf plaklar kullanıldığında çok daha uzak mesafelere uzanabilmektedir. Andromeda Galaksisi'nin ana diski çoğu Populasyon-II sınıfından olan kırmızı ve sarı dev yıldızlardan oluşmaktadır.
+Populasyon-II dev yıldızları ile karışmış olarak, M67 gibi açık kümelerde bulunan dev yıldızlar da vardır. Bunlar diskteki yıldızların çoğunluğunu meydana getirebilir ve diskten gelen ışığın büyük kısmını (sarmal kolları göz önüne almadan) açıklayabilir. Fakat en parlak disk yıldızları şüphesiz Populasyon-II’nin kırmızı dev yıldızlarıdır. Bu iki tip kolayca birbirinden ayırt edilebilir çünkü Populasyon-II yıldızları, normal dev yıldızları ile karşılaştırıldığında metal yönünden fakirdirler. Diskin bu yapısı, uzun süre poz verilmiş kırmızıya duyarlı fotoğraf plakların incelemesi sonucunda görülmüştür. Bu fotoğraf plakları üzerinde, sarmal kollar arasındaki bölgelerin, dışarıya doğru giderek sayıları azalan, yoğun Populasyon-II dev yıldızları ile dolu olduğunu görmekteyiz. Bu analize göre galaksinin sarmal kolları, ince gaz, toz tabakaları ve diskin içerisine gömülü Populasyon-I türünden O ve B süperdev yıldızlarından ibarettir.
+Radyo ışınımı.
+21 cm çizgisi büyük eksen boyunca yani sarmal kollar incelenebilmektedir. Bu ışınım, çekirdeğin iki yanından yaklaşık 3o uzaklığa kadar izlenebilmekte ve buradan, galaksinin bu dış kısımları için dönme yasasını hesaplanabilmektedir. M31’in merkezinden 8.7 kpc kadar uzaklıkta 21 cm çizgisi keskin maksimuma sahiptir. Baade işte tam buraya Andromeda’nın içinde Popülasyon-I yıldızları, gaz ve tozun maksimum yoğunluklarında oldukları dördüncü sarmal kolunu koymuştur. M31 etrafında bir radyo halosu bulunmaktadır.
+Radyo dalgaboyunda yapılan gözlemler sonucunda; radyo dalgalarının kaynağının, galaksinin düzleminden büyük uzaklıklara kadar dağılmıştır, ve düzleme dikey olarak 10 kpc'den daha fazla uzağa giden hemen hemen küresel bir sistem meydana getirmektedir. Radyo dalgaları ile tayin edilmiş olan Andromeda'nın gerçek boyutu görsel boyutundan çok daha büyük olup, galaksinin radyo kaynakları barındıran kısmı çapı 100 kpc kadardır.
+CO dağılımı.
+M31 merkezinden 10 kpc uzaklığında yer alan, simit şekilli, Populasyon-I halkasında CO soğurması görülmektedir. Buna karşılık Andromeda Galaksisi'nin merkezinde herhangi bir CO soğurması saptanamamıştır. M31, galaksi düzlemi ile 20o'lik açı yaptığından -300 km/sn'de CO soğurması beklenmemektedir. Gaz halkalarının hızları M31'in güneybatısında –550 km/sn ve kuzeydoğusuna doğru –50 km/sn ile değişmektedir.
+Gökada'nın dönmesi.
+Andromeda Galaksisi'nin dönmesi, görsel ve radyo dalgaboyundaki tayfının incelenmesinden elde edilmektedir. Görsel analiz, M31'in çekirdeğinin her iki yanındaki yıldızların yayınladığı ışınımların tayfsal çizgilerinin Doppler etkisi özelliklerinin ölçülmesi ile elde edilir.
+Andromeda Galaksisi'nin çekirdeğin her iki yanında 65' ila 70' açısal uzaklığına kadar çekirdeğin dönmesi bir katı cisim hareket etmektedir. 70' dan 155' ya kadar her iki yanda dönme hızı, uzaklık arttıkça azalmaktadır. Zira bu dış kısımlar, çekirdek etrafında Kepler kanunlarına göre dönmektedir.
+Gökada'nın kütlesi.
+Newton çekim kanununu ve gözlenen dönme hızlarını kullanarak, Andromeda'nın kütlesinin 2x1011 Mo kadar olduğu hesaplanmıştır. Bununla beraber, bu kütle miktarı, radyo ışınım analizinden elde edilen kütleden biraz küçük çıkmaktadır. Andromeda Galaksisi'nde yıldızlar arası hidrojen bulutlarının ortalama radyal hızı 8 km/sn kadardır. Bu hız değerine karşıt olarak 4.1x1011 Mo kadar bir kütle hesaplanmıştır. 21 cm çizgisinin analizinden M31'de bulunması gereken yıldızlararası hidrojenin kütlesinin, toplam kütle değerinin yaklaşık yüzde 1.3'ü kadar olacağı saptanmıştır.
+Çekirdek.
+Son yapılan araştırmalarda, Hubble Uzay Teleskopu ile alınan görüntülerden Andromeda Galaksisi'nin çift çekirdekli olabileceği tartışmaları başlatılmıştır. Andromeda Galaksisi'nin çift çekirdekli olduğunu savunan gök bilim uzmanlarına göre (Lauer 1995) bu oluşum iki farklı şekilde açıklanabilir. Birincisi, dinamik çarpışma olayı nedeniyle Andromeda Galaksisi'nin merkezine girmiş olan bir başka galaksinin disk veya kolları Andromeda tarafından yenmiş ve çekirdek kısmı Andromeda'nın çekirdeğinin yanına çekilmiştir. Böylelikle Andromeda Galaksisi'nin merkezinde gerçekte iki çekirdek bulunmaktadır. İkinci görüş ise, Andromeda Galaksisi'nin tek bir çekirdeği bulunmakta, ancak yıldızlar arası ortam nedeniyle çekirdeğin bir kısmı örtülmekte ve iki farklı çekirdekmiş gibi görülmektedir.
+Sağdaki fotoğrafta Andromeda Galaksisi'nin Hubble Uzay Teleskopu ile çekilmiş 40 ışık yılı genişliğinde çekirdek yapısı görülmektedir. İki ışık tepesi birkaç milyon yoğun yıldız içermektedir. İki tepe arasında 5 ışık yılı mesafe bulunmaktadır. Daha parlak olan tepe Dünya'dan da görülebilen çekirdektir. Fakat Hubble Uzay Teleskopu, Andreomeda Galaksisi'nin gerçek merkezinin daha sönük olan tepe olduğunu ortaya çıkarmıştır. Bu iki çekirdeğe P1 ve P2 denilmektedir.
+Merkezdeki kara delik.
+13 Ekim 1999'da Chandra x-ışın Uydusu ile Andromeda Galaksisi'nin x-ışın görüntüsü alınmış ve 100’den fazla tek x-ışını kaynağı olduğu görülmüştür. Bu kaynaklardan biri de Andromeda Galaksisi'nin merkezinde bulunduğu saptanan ve kütlesi 30x106 Güneş kütlesine karşılık gelen süper kütleli karadeliğin üzerinde bulunmaktadır. M31’in merkezindeki bu x-ışını salması diğer x-ışını kaynakları ile karşılaştırınca merkezdeki sıcaklığın daha düşük olduğu tespit edilmiştir. Dolayısıyla, bu kaynak sayesinde, merkezdeki karadelik üzerine düşen gazın soğuk olduğu anlaşılmıştır.
+X-ışınının salması yapabilen cisimlerin, Dünya'dan teleskop ile fark edilebilmesi için, bu cisimlerin sıcaklıklarının 1x106 °K'den daha fazla olması gerekmektedir. Andromeda Galaksisi'nde bulunan tipik bir x-ışın yıldızı 10x106 °K sıcaklığında olmakla beraber, kara delik üzerindeki x-ışınının kaynağı sadece birkaç milyon derece olduğu saptanmıştır. Andromeda Galaksisi, boyutları, şekli ve merkezindeki süperkütleli karadeliği ile Samanyolu Galaksisi'na benzemektedir. Benzer galaksilerin merkezlerinde yer alan karadelikler ile karşılaştırıldığında Andromeda Galaksisi'nin karadeliği farklı özellikler göstermektedir. X-ışını yayımına bakıldığında beklenenden daha zayıf radyo salması görülmektedir. Bu gözlemlerde, merkez bölgenin çevresinde binlerce ışık yılı uzunluğunda yaygın parlaklık dikkat çekmiştir. Bu parlaklığın nedeni tam olarak bilinememekle beraber, Dr. Eliot Quataert (2000) olayın oluşumunun merkezden genişlemekte olan sıcak rüzgarlardan kaynaklanmış olabileceğini düşünmektedir.
+Einstein, ROSAT ve Hubble Uzay Teleskop uyduları ile yapılan çalışmalarda çekirdek kaynakları gözlemlerinde 5 adet noktasal kaynak bulunmuştur. Bu kaynaklardan biri olan CXOJ004244.2+411608 Andromeda Galaksisi'nin merkezinde bulunan süperkütleli karadeliğe aittir. M31’in diğer noktasal kaynaklarıyla karşılaştırıldığında bu kaynağın farklı bir x-ışını tayfı verdiği görülmektedir. Buna dayanarak kaynağın merkezinin karadelik olduğu anlaşılmaktadır.
+Einstein uydusu gözlemleri ile M31 çekirdeğindeki x-ışın kaynağının ışınım gücünün 9.6x1037 erg/s olduğu anlaşılmıştır. Merkezde bulunan değişen yıldızların dönemlerinin 6 ay olduğunu tespit edilmiştir. Radyo dalgaboylarındaki gözlemler merkezde zayıf (yaklaşık 30 mikro Jy) kaynağı ortaya çıkarmıştır. Bu kaynağın 3.6 cm dalgaboyunda verdiği ışınım gücünün Sgr A’nın ışınım gücüne oranının yaklaşık 0.2 olduğu göz önüne alındığında, Andromeda Galaksisi'nin çekirdek kütlesinin yaklaşık 30 kat daha fazla olduğu sonucu ortaya çıkmaktadır. M31’de dağılmış olarak gözlenen nokta kaynakları birer x-ışın çift yıldızları ve/veya süpernova kalıntılarıdır.
+Süpernova S Andromeda.
+Ernst Hartwig, 20 Ağustos 1885'te Samanyolu Galaksisi dışında ilk defa Andromeda Galaksisi'nin merkezinin yakınında bir süpernova keşfetmiştir. Bu süpernova 17 – 20 Ağustos 1885 tarihleri arasında 6m kadire kadar ulaşmış ve 16 Şubat 1890’da 16m kadire kadar sönmüştür. Bu süpernovaya "S Andromeda" veya SN 1885A denilmektedir. Bu yıldızın parlaklığı ilk on gün içinde günde 0.m165 kadir düşmüştür. S Andromeda'nın kalıntıları 100 yıl sonra gözlenebilmiştir. Çalışmalar görsel, radyo ve x-ışını bölgelerinde gerçekleştirilmiştir. 1988'de yapılan Fe I çizgisi 3860 °Α dalgaboyu ve Ca II çizgilerinin gözlemleri Andromeda Galaksisi'nin merkezinde parlayan süpernova kalıntıları bulunduğunu göstermektedir. Parlamasının nedeni şöyle açıklanmaktadır; patlayan bir yıldız genişlerken yıldızlar arası ortamda bulunan gazlara çarpar ve bu gazları milyonlarca derece sıcaklıklara kadar ısındırır. Bunun sonucu olarak ışımalarda kalıntıları ve gazın parlamalarını görmekteyiz. S Andromeda tayflarının analizlerinden elde edilen bilgilere göre, süpernova kalıntılarının halen daha genişlediği bilinmektedir.
+Küresel kümeler.
+Edwin Hubble, ilk defa 1932'de, Andromeda Galaksisi'nde bulunan 140 adet küresel küme kataloğunu yayınlamıştır. Bu küresel kümelerin mavi fotoğrafik parlaklıkları 15m ile 18m kadir ve çapları 4" – 10" arasında değişmektedir. Sonraki çalışmalarla M31'in tayfı incelenerek kataloga alınan küresel küme sayısı 509'a çıkarılmıştır (Crampton, 1985). Samanyolu Galaksisi'ne oranla, Andromeda Galaksisi 2 kat daha fazla küresel küme içermektedir.
+Andromeda Galaksisi içinde bulunan en parlak küresel küme Mayall II (G1) olup, parlaklığı 14.m2 kadirdir.
+Uydular.
+Charles Messier (1781) M32 ve M110 olan iki parlak uydusunu keşfetmiştir. Bunlar Andromeda Galaksisi'ni çevreleyen diğer küçük uydular arasındaki en parlak olanlarıdır. M32 ve M110 dışında, William Herschel tarafından keşfedilmiş olan NGC 185 ile D'Arrest tarafından keşfedilmiş olan NGC 147 ve çok sönük cüce sistemleri olan And I, And II, And III, And IV, And V, And VI ve And VII'de Andromeda Galaksisi'nin uyduları arasında sayılmaktadır.
+M32.
+M32 eliptik bir galaksi olup parlak yüzeye ve yoğun yapıya sahiptir. Merkezi yüzey parlaklığı 13.m4 kadirdir. Merkezinde parlak bir çekirdeğe sahip olup Hubble Uzay Teleskobu ile alınan görüntülerinde merkezinde kara delik olabileceği düşünülmektedir. Karadeliğin kütlesi 3x106 Mo olup, toplam kütlesi 7x108 Mo'dır. Andromeda Galaksisi ile etkilişime sahiptir. Yörüngesi M31'e çok yakındır.
+M32'nin spektrofotometreleri ağır elementlerinin çoğunun Güneşinkine benzediğini göstermektedir. M32'nin tayfı çoğunlukta çok yaşlı yıldızlardan oluşmaktadır. M32'de küresel kümeler bulunmamakla beraber, 11 adet gezegenimsi bulutsular görülmektedir. Bu gezegenimsi bulutsular yardımıyla M32'nin hızını saptamak mümkündür. Merkezde hız 90 km/s'dir ve dışa doğru gidildikçe 70 km/s olmaktadır. M32'nin dönmesi ise ölçülememektedir.
+NGC 205.
+M31'in diğer bir yoldaşı NGC 205 galaksisidir. M32'ye nazaran daha sönük, düşük yüzey parlaklıklı, daha ince ve uzundur. Andromeda Galaksisi ile etkileşim göstermekle beraber etkileşimi M32'ye oranla daha azdır. Bu nedenle, M32'nin aksine, yörüngesi M31'e yeterince yaklaşmamaktadır. Andromeda Galaksisi'ne olan uzaklığı 100 kpc'dir.
+NGC 185.
+NGC 185 eliptik bir galaksi olup yapı bakımından NGC 205'e benzemektedir. OB yıldızları, toz bulutları, H I bulutları ve genç mavi yıldızları içermektedir.
+NGC 147.
+NGC 147 ile NGC 185 gökyüzünde mesafesi sadece 1o olan bir çift meydana getirmektedir. RR Lyrae değişen yıldızları ile yapılan değerlendirmelere göre Samanyolu'na olan uzaklıkları hemen hemen aynıdır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Skellam dağılımı</DOCTITLE>
+<TEXT>
+
+</math>|
+Olasılık kuramı ve istatistik bilim dallarında Skellam dağılımı bir ayrık olasılık dağılım tipidir. Skellam dağılımı iki tane (aralarında korelasyon bulunabilen ve) beklenen değerleri formula_4 ve formula_5 olan Poisson dağılımı gösteren rassal değişken formula_6 ve formula_7 arasında bulunan fark olan formula_8nin gösterdiği olasılık dağılımdır.
+Kullanış alanları çok farklılık göstermektedir; beyzbol, buz hokeyi ve futbol gibi sporlarda ABD'de çok popüler olan "yayılmış bahis (spread betting)" yöntemini tanımlamak ve fizikte iki imajin basit "foton gürültüsünü (photon noise)" açıklamak için kullanılmıştır. 
+Karaketeristikler.
+Bu kısımda geliştirilen karakteristikler iki değişkenin arasındaki korelasyonun etkilerini ele almayacaktır. Aralarında korelasyon bulunan iki değişken farkının da analize katılması ile ortaya çıkan sonuçlar için bakın 
+Önce bir Poisson dağılımı için olasılık kütle fonksiyonunun şu olduğu hatırlansın:
+Skellam olasılık kütle fonksiyonu iki Poisson dağılım arasındaki çapraz korelasyon olur (Skellam, 1946) 
+Burada "I" k(z) birinci şekilde değiştirilmiş Bessel fonksiyonu olur. Yukarıdaki formüller için eğer faktoriyel negatif değer taşımaktaysa o değerin 0 olacağı kabul edilmiştir. Bir özel hal olan formula_13 için bakin 
+Eğer değerler küçükse, Bessel fonksiyonu için limit değerleri kullanılarak, Poisson dağılımını formula_15 için ozel bir hal olarak Skellam dağılımı yerine kullanabiliriz.
+Özellikler.
+Skellem dağılımı için olasılık kütle dağılımı normalize edilerek şöyle elde edilir:
+Poisson dağılımı için olasılık üreten fonksiyon şöyle verilir:
+Bunlar kullanılarak Skellam dağılımı için olasılık üreten fonksiyon ortaya çıkartılır: 
+Olasılık üreten fonksiyonu incelenince görülmektedir ki herhangi bir sayıda bağımsız Skellam dağılımı gösteren değişkenlerin toplamları veya farklılıkları da tekrar Skellam dağılımı göstereceklerdir. 
+Bazı referanslara gore iki Skellam dağılımlı değişkenin herhangi bir doğrusal bileşiği de Skellem dağılımı gösterir. Fakat bu doğru değildir; çünkü herhangi çarpım sayısı dağılımın destek alanını değiştirecektir.
+Skellam dağılımı için moment üreten fonksiyon şudur:
+Bunlardan ham moment değerleri "mk"  bulmak icin şu tanımlara bakılsın:
+Bunlardan 3 ham moment "m""k" değerleri şöyle çıkartılır:
+Merkezsel momentler "M" "k" şunlardır:
+Beklenen değer, varyans, çarpıklık katsayısı and basıklık katsayısı sırasıyla şöyle verilir::
+Kümülant üreten fonksiyon şu şekilde verilmiştir:
+ve bundan kümülant değerleri elde edilir:
+Özel hal olan μ1 = μ2 için ayrıntılı sonuçlar M.Abromowitz et.al. referansındadır. .
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kolmogorov-Smirnov sınaması</DOCTITLE>
+<TEXT>
+
+İstatistik bilim dalında, Kolmogorov-Smirnov (K-S) sınaması parametrik olmayan istatistik olup iki değişik problem için hipotez sınaması olarak kullanılır:
+"Tek örneklem K-S sınaması" çok popüler olarak olarak bir normallik sınaması olarak, yani örneklem verilerinin tanımlanmış bir anakitle normal olasılık dağılımına uyumluluk gösterip göstermemesini sınamak için kullanılır. Örneklem verileri standardize edilerek (yani herbir veri değerinden teorik anakitle olasılığı için verilmiş ortalama çıkartıp sonucu verilmiş teorik yığın varyansına bölerek) elde edilen normalize veriler standart normal dağılım ile karşılaştırılır. Fakat bu türlü dönüşüm yapmanın sınamanın gücünü azalttığı isbat edilmiştir. Bu taraflılığın düzeltilmesi Lilliefors sınamasını ortaya çıkartır. Fakat, Anderson-Darling sınaması veya Shapiro-Wilk sınaması normallik sınaması olarak hem Lilliefors sınaması hem de K-S tek örneklem normallık sınamasından daha güçlüdür. K-S tek örneklem sınaması, gözlenen ve beklenen kümülatif frekans dağılış arasındaki mutlak farklılıklar dikkate alınarak geliştirilmiştir. Örneklem hacmi küçük olduğu için ki-kare sınaması uygulanamadığı durumlarda Kolmogorov-Simirnov testi kullanılabilir.
+"İki örneklem K-S sınaması" hem genel olarak uygulanabilen hem de çok kullanışlı olan bir "parametrik olmayan sınama" yöntemidir çünkü bu sinama hem konum hem de dağılım şekline duyarlıdır ve bu türlü problem cozumu için popüler olarak kullanılır.
+Prensip.
+Bu test örneklem deneysel dağılım fonksiyonunun özelliklerine bağlıdır. n örneklem hacmi büyüklüğüde örneklem verilerinin; yani
+değerlerinin n tane birbirinden bağımsız ve reel değerli rasgele değişken olduğunu kabul edelim. Bu halde örnekleme deneysel dağılım fonksiyonu şöyle tanımlanabilir:
+formula_2
+burada 
+Tüm formula_4 sabitleri için, bu sürec için deneysel dağılım fonksiyonu formula_5 ile formula_6 değerleri arasında büyüme fonksiyonları uzayında değerler alır ve bunun özellikleri arasında şuna yakınsama gösterir:
+Eğer formula_8 ise formula_9 teriminin değeri formula_10 ne yakınsar. Dikkat edilirse sağa doğru limit formula_11'ye dayanmadığı görülür. 
+Kolmogorov dağılımı şu rassal değişkenin dağılımıdır:
+burada "B"("t") bir Brown tipi köprü olur. "K"nin birikimli dağılım fonksiyonu şöyle verilir:
+"Sıfır hipotezi" doğru ise örneklem şu hipotez olarak verilen "F"("x") dağılımından gelir:
+burada "B"("t") "Brown tipi köprü" olur. 
+Eğer sıfır hipotezinde verilen "F" sürekli ise
+bir Kolmogorov dağılımına yakınsar ve bu "F" dağılımına dayanmaz.
+Tek örneklem "K-S sınaması" yani "uyumluluk iyiliği" sınaması Kolmogorov fonksiyonunun kritik değerlerini kullanılarak yapılır. Sıfır hipotezini formula_16 seviyesinde ret etmek için 
+ifadesinden bulunan "K""α" için 
+olması gerekir.
+Bu testin asimptotik "istatistik gücü" 1e eşittir. Eğer "F"("x") fonksiyonunun şekli veya parametreleri örneklem 
+verileri ile bulunursa, yukarıda verilen kritik değerler uygun değildir. Bu hallerde Monte Carlo simulasyon yöntemi veya benzer sayısal yöntemler kullanılması gerekir. Ama bazı haller için özel tablolar kurulmuştur. Pearson ve Hartley (1957) Tablo 54de normal dağılım ve tekdüze dağılım için kritik değerleri ve test istatistiğini vermektedir. 
+Örnek problemler.
+Örnek verilerini vermek ve K-S sınamalarını uygulamak için "R" adı altında hazırlanmış olan ve standart olarak uygulanan ve telif hakkı gerektirmeyen serbest kullanılma hakları verilmiş bir istatistik yazılım paketi kullanılacaktır. 
+Simulasyonla üretilen veriler.
+Önce üç değişik veri serisi üretilmiştir.İstenilen gözlem sayısında ve istenilen olasılık dağılımında, simulasyonla R istatistik paketi ozel simulasyon ile veri üretme komutası kullanılmıştır: 
+Tek örneklem Kolmogorov-Smirnov sınaması örnek problemleri.
+Örnek problem 1:</br>
+Örneklem veri serilerinin nasıl ortaya çıktığının bilinmediğini düşünelim ve 50 gözlemli bir gerçek örneklem X veri serisi "(0-1) arasında sürekli tekdüze dağılım gösteren bir anakitle yığından gelmiş midir yoksa gelmemiş midir?" sorunu problem olsun. Bu soruna yanıt "tek örneklem Kolmogorov-Smirnov sınaması" ile bulunur:
+Önce hipotezler verilir:</br>
+H0 : Bu n=50 örneklem serisi verilen U(0,1) (yani 0 ile 1 arasında sürekli tekdüze) dağılımlı bir anakitleden gelmektedir.
+H1 : Bu n=50 örneklem serisi verilen U(0,1) (yani 0 ile 1 arasında sürekli tekdüze) dağılımlı anakitleden gelmemektedir. 
+Bu sınama için alternatif hipotezde pozitif bir dağılım ifadesi bulunmaz ve anakitle dağılımının ne olmadığına dair negatif bir hipotezdir. Tek örneklem K-S sınaması iki-kuyruklu testtir.
+İkinci aşamada da Kolmogorov-Smirnov istatistiği D-değeri ve bunun karşıtı olan olasılık p-değerini bulmak için "R" paketine özel bir komuta kullanılır; bu komuta şudur: ks.test(X, "punif") . Bundan sonra kompüter programı hesaplar başlar ve bir çıktı sonucunu (İngilizce olarak) ekrana verir. Bunu şu tabloda özetliyelim: 
+Burada 0.5551 olarak hesaplanan D istatistiğine tekabül eden kritik sınır p-değeri 1.033x10-14 çok küçük bir değerdir. Bu p-değeri istatistikçilerin kullandığı %5 veya %1'den çok daha küçük olduğundan red etme alanındır. Bu nedenle X veri serisinin bir (0-1) arasında tekdüze dağılımlı anakitleden gelmediği sonucuna varılması gerekir. Ama görüldüğü gibi sıfır hipotez rededildigi zaman X veri serisinin hangi anakitle dağılımından geldiği bilinmez. Onun için yeni bir hipotez kurmak ve yeni bir sınama yapmak gerekir. 
+Örnek problem 2:</br> 
+Yine X örneklem veri serilerinin nasıl elde edildiğini bilmediğimizi kabul edelim. 50 gözlemli bir X örneklem veri serisinin "standart normal dağılım gösteren bir yığından gelmiş midir yoksa gelmemiş midir?" sorununu problem olarak seçelim. Bu soruna yanıt "örneklemin veri serisinin verilmiş olan bir standart normal dağılımına uyum sınaması" yani "tek örneklem Kolmogorov-Smirnov sınaması" ile bulunur:
+Hipotezler şunlardır:</br>
+H0 : Bu n=50 örneklem serisi verilen N(0,1) (yani standart normal) anakitleden gelmektedir.
+H1 : Bu n=50 örneklem serisi verilen N(0,1) (yani standart normal) anakitleden gelmemektedir. 
+Tek örneklem K-S sınaması iki-kuyruklu bir testtir.
+İkinci aşamada da Kolmogorov-Smirnov istatistiği D-değeri ve bunun karşıtı olan olasılık p-değeri bulunur. Bunları hesaplamak için gereken formüller yukarıda verilmiştir. Burada hesaplama için R paketi kullanılmaktadır. Bu paketle "tek örneklem K-S testi için gereken D istatistiğini ve bunun p değerini bulmak için şu özel komuta kullanılır: ks.test(x, "pnorm"). Bunu kullanan kompüter programı bir çıktı sonucunu ekrana verir ve sonucu şöyle özetleyelim: 
+Burada hesaplanan D istatistiğe tekabül eden kritik sınır p-değeri 0.8586 yani %85den daha büyüktür. Bu p-değeri istatistikçilerin kullandığı %5 veya %1'den çok büyük olduğu için kritik p-değeri kabul edilme alanındadır ve bu sıfır hipotez red edilemez. Bu nedenle X veri serisinin bir standart normal anakitleden geldiği sonucuna varılır.
+İki örneklem Kolmogorov-Smirnov sınaması örnek problemleri.
+Örnek problem 3:</br>
+Bu problemde sorun 50 gözlemli X örneklem veri serisi ile 40 gözlemli Y örneklem veri serisinin aynı anakitle dağılımından mı yoksa değişik anakitle dağılımından mı geldikleri incelenir. Bu soruna yanıt "iki örneklem Kolmogorov-Smirnov sınaması" ile bulunur. Hipotezler şunlardır:
+H0 : Bu n=50 gözlemli verilen X örneklem serisi ile n=40 gözlemli örneklem Y serisi aynı anakitle dağılımından gelmektedir.
+H1 : X örneklem serisi ile Y örneklem serisi aynı anakitle dağılımından gelmemektedir. 
+İki orneklem K-S sınaması da iki-kuyruklu bir testtir.
+İkinci aşamada da Kolmogorov-Smirnov istatistiği D-değeri ve bunun karşıtı olan olasılık p-değeri bulunur. Burada hesaplama için "R" paketi kullanılmakta ve paketle "iki örneklem K-S testi" için gereken D istatistiğini ve bunun p-değerini bulmak için özel komuta şudur: ks.test(X, Y). Ekrana verilen çıktı sonucunu şöyle özetlenir: 
+Burada bulunan D istatistiği 0.135 olup buna tekabül eden kritik sınır p-değeri 0.7652. Bu p-değeri istatistikçilerce kullanılan 0.05 veya 0.01 değerlerinden çok büyüktür ve açıkca H0 kabul alanındadır. Sonuç olarak X ve Y serilerinin aynı anakitle dağılımından geldiği kabul edilir. 
+Örnek problem 4:</br>
+Bu problemde sorun olarak 50 gözlemli X örneklem veri serisi ile 30 gözlemli Z örneklem veri serisinin aynı anakitle dağılımından mı yoksa değişik anakitle dağılımından mı geldikleri incelensin. Bu "iki örneklem K-S sınaması" için hipotezler şunlardır.
+H0 : X örneklem serisi ile Z örneklem serisi ayni anakitle dağılımından gelmektedir.
+H1 : X örneklem serisi ile Z örneklem serisi ayni anakitle dağılımından gelmemektedir.
+İki örneklem K-S sınamasi da iki-kuyruklu testtir. Kolmogorov-Smirnov istatistiği D-değeri ve bunun karşıtı olan olasılık p-değeri için hesaplama R paketi ile yapılır ve bu test için komuta ks.test(X, Z) olur. Komuta ve ekrandaki sonuçlar şöyle özetlenir:
+Burada D istatistiği 0.48 olarak hesaplanmıştır ve buna tekabül eden kritik sınır p-değeri 0.0002033 küçük bir değerdir. Bu p-değeri istatistikçilerin kullandığı %5 veya %1'den çok daha küçük olduğundan red etme alanındadır. Bu nedenle X ve Z orneklem veri serilerinin aynı dağılımlı anakitleden gelmediği sonucuna varılır.
+Örnek problem 5:</br>
+Son örnek problem icin 40 gözlemli Y örneklem veri serisi ile 30 gözlemli Z örneklem veri serisinin aynı anakitle dağılımından mı geldikleri incelensin. Bu "iki örneklem K-S sınamasi " için hipotezler şunlardır.
+H0 : Y ve Z örneklem serileri ayni anakitle dağılımından gelmektedir.
+H1 : Y ve Z örneklem serileri ayni anakitle dağılımından gelmemektedir.
+İki örneklem K-S sınaması da iki-kuyruklu testtir. "R" paketi kullanarak Kolmogorov-Smirnov istatistigi D-değeri ve bunun karşıtı olan olasılık p-değeri için hesaplama için komuta ks.test(Y, Z) olur. Komuta ve ekrandaki sonuçlar şöyle özetlenir:
+Burada 0.55 olarak bulunan D istatistiği ve buna tekabül eden kritik sınır p-değeri 2.889x10-5 küçük değerdir ve p-değeri istatistikçilerin kullandığı %5 veya %1'den çok daha küçük ve red etme alanındadır. Bu nedenle Y ve Z örneklem veri serilerinin aynı dağılımlı anakitleden gelmediği sonucuna varılır.
+
+</TEXT>
+</DOC>
+

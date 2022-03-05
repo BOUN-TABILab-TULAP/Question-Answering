@@ -1,0 +1,15 @@
+1	Sinir	sinir	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	hücresinde	hücre	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+3	_	bulun	Verb	Verb	Pos	_	_	_	_
+4	bulunan	_	Adj	APresPart	_	_	_	_	_
+5	dendritlerden	dendrit	Noun	Noun	A3pl|Pnon|Abl	_	_	_	_
+6	daha	daha	Adv	Adv	_	_	_	_	_
+7	uzun	uzun	Adj	Adj	_	_	_	_	_
+8	_	ol	Verb	Verb	Pos	_	_	_	_
+9	olan	_	Adj	APresPart	_	_	_	_	_
+10	uzantılara	uzantı	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+11	ne	ne	Adj	Adj	_	_	_	_	_
+12	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+13	_	ver	Verb	Verb	_	_	_	_	_
+14	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+15	.	.	Punc	Punc	_	_	_	_	_

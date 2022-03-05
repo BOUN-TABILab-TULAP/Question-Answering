@@ -1,0 +1,18 @@
+Bilimsel Linux
+Bilimsel Linux (SL) Fermi Ulusal Hızlandırıcı Laboratuvarı tarafından üretilen bir Linux dağıtımıdır. Red Hat Enterprise Linux tabanlı ücretsiz ve açık kaynak kodlu işletim sistemi ve olmayı hedefliyor "Biz onu almak gibi ticari işletme dağılımına yakın."
+Bu ürün, Red Hat, Inc. hazır özgür ve açık kaynak yazılım türetilmiştir, ancak üretilen Red Hat tarafından yapılmaktadır ya da desteklenmiyor. Özellikle, bu ürün şartları ve koşulları Red Hat Enterprise Linux'un EULA ve GNU Genel Kamu Lisansı altında, Red Hat Enterprise Linux sürümleri için kaynak kodundan inşa edilmiştir.
+Tarihi.
+Fermilab zaten Fermi Linux LTS 3.0.1, Red Hat Enterprise Linux tabanlı bir uzun vadeli destek salınımı olarak bilinen bir Linux dağıtımı vardı. CERN de RHEL dayalı Cern Linux sonraki sürümünü yaratmak oldu. CERN işbirlikçi serbest yapma konusunda Fermilab temasa geçti. Connie Sieh ilk prototip ve ilk sürümü arkasındaki ana geliştirici ve sürücü oldu. Bilimsel Linux ilk resmi açıklama 10 Mayıs 2004 tarihinde yayımlanan, sürüm 3.0.1 idi.
+Haziran 2014 yılında CERN bir CentOS Özel İlgi grup haline uzakta Bilimsel Linux açık.
+Bilimsel Linux şimdi bilim laboratuarları ve üniversitelerin bir kooperatif tarafından yapılmaktadır. Fermilab birincil sponsoru.
+Tasarım felsefesi.
+Bilimsel Linux birincil amacı böylece çoğaltılamaz çaba azaltarak, dünyadaki çeşitli laboratuarları ve üniversiteler için ortak bir Linux dağıtımı üretmektir. Ana hedefleri sadece küçük eklemeler ve değişiklikler ile Red Hat Enterprise Linux ile uyumlu her şeye sahip ve Linux tabanı bozmadan, bir site için kolay özelleştirme izin vardır.
+başlangıçta yapılan ve bilimsel laboratuvarlar tarafından kullanılan, çünkü dağıtım Bilimsel Linux denir. Bilimsel yazılım geniş bir koleksiyon içermiyor. Ancak, bu yazılımı yüklemek için iyi bir uyumluluk sağlar.
+Özellikler.
+Bilimsel Linux böylece serbestçe kullanılabilir hale gibi kaldırıldı Red Hat markalar gibi korunan bileşenler ile, Red Hat Enterprise Linux türetilmiştir. Yeni sürümler genellikle her Red Hat yayımlanmasından sonra yaklaşık iki ay üretilmektedir. Yanı sıra iki DVD'ler için eşit bir tam dağıtım olarak, bilimsel Linux da LiveCD ve LiveDVD versiyonu bulunmaktadır.
+Bu yazılım kapsamlı bir dizi ile geliyor. Bu kutunun dışında kablosuz ve Bluetooth sunar ve multimedya codec, Samba paylaşımı, Compiz yanı sıra sunucuları ve istemcileri, depolama müşterilerine, ağ ve sistem yönetimi araçları ile geliyor.
+Ayrıca böylece, özel sürümleri yapma kurum ve bireylerin kendi varyantı oluşturmak için izin için bir araç kümesi içerir.
+Geçmişi bırakın.
+Bilimsel Linux Tarihi bültenleri o 'yayınlandı' olarak kabul edilmeden önce her sürüm, kamu test bir süre maruz olarak yayın tarihleri ​​detaydan olmasa da, takip ediyor.
+Destek.
+Güvenlik güncelleştirmeleri sürece Red Hat kendi sürümleri için güncellemeler ve yamalar serbest devam ettikçe sağlanmaktadır.

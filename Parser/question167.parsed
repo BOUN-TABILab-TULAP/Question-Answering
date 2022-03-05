@@ -1,0 +1,9 @@
+1	Fuji	Fuji	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	dağının	dağ	Noun	Noun	A3sg|P3sg|Gen	4	POSSESSOR	_	_
+3	_	yüksek	Adj	Adj	_	4	DERIV	_	_
+4	yüksekliği	_	Noun	Noun	Ness|A3sg|P3sg|Nom	7	SUBJECT	_	_
+5	ne	ne	Adj	Adj	_	6	OBJECT	_	_
+6	_	kadar	Postp	Postp	PCDat	7	DERIV	_	_
+7	kadardır	_	Verb	Zero	Pres|A3sg|Cop	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

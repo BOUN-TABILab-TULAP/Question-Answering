@@ -1,0 +1,10 @@
+1	Osmanlı	Osmanlı	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	devletinde	devlet	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+3	ilk	ilk	Adj	Adj	_	_	_	_	_
+4	nüfus	nüfus	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	sayımı	sayım	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+6	ne	ne	Adj	Adj	_	_	_	_	_
+7	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+8	_	yap	Verb	Verb	_	_	_	_	_
+9	yapılmıştır	_	Verb	Verb	Pass|Pos|Narr|A3sg|Cop	_	_	_	_
+10	.	.	Punc	Punc	_	_	_	_	_

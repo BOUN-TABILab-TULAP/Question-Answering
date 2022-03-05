@@ -1,0 +1,74 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İnsanlar	insan	+Noun+A3pl+Pnon+Nom
+İnsanlar	insan	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+tarafından	taraf	+Noun+A3sg+P3sg+Abl
+tarafından	taraf	+Noun+A3sg+P2sg+Abl
+
+kaynaklanan	kaynakla	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+etkiler	etki	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+etkiler	etki	+Noun+A3pl+Pnon+Nom
+etkiler	etkile	+Verb+Pos+Aor+A3sg
+etkiler	etkile	+Verb+Pos^DB+Adj+AorPart
+
+sonucunda	sonuç+Noun+A3sg+P3sg+Loc
+sonucunda	sonuç+Noun+A3sg+P2sg+Loc
+
+istenmeyen	iste	+Verb^DB+Verb+Pass+Neg^DB+Adj+PresPart
+
+zararlı	zarar	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+maddelerin	madde	+Noun+A3pl+Pnon+Gen
+maddelerin	madde	+Noun+A3pl+P2sg+Nom
+
+suyun	su	+Noun+A3sg+P2sg+Nom
+suyun	su	+Noun+A3sg+Pnon+Gen
+
+niteliğini	nitelik	+Noun+A3sg+P2sg+Acc
+niteliğini	nitelik	+Noun+A3sg+P3sg+Acc
+
+bozacak	boz	+Verb+Pos+Fut+A3sg
+bozacak	boz	+Verb+Pos^DB+Adj+FutPart+Pnon
+
+kadar	kadar	+Noun+A3sg+Pnon+Nom
+kadar	kadar	+Postp+PCNom
+kadar	kadar	+Postp+PCGen
+kadar	kadar	+Postp+PCDat
+
+yükselmesi	yüksel+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+olayına	olay	+Noun+A3sg+P3sg+Dat
+olayına	olay	+Noun+A3sg+P2sg+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,227 @@
+Question: Tohumlu bitkilerde üreme organı nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çiçek</DOCTITLE>
+<TEXT>
+
+Çiçek bitkilerde üremeyi sağlayan organları taşıyan yapı. Bir çiçek, 4 kısımdan oluşur.
+çiçek
+Üreme organlarını dıştan sararak onları dış etkilerden korur. Doğrudan üremeye katılmadığı için 'verimsiz kısım' olarak da adlandırılır.
+Dikotil bitkilerde çiçek örtüsü 2 kısımdan oluşur:
+Çanak yapraklar (sepal) ve taç yapraklar (petal).
+Çanak yapraklar (sepal).
+Çiçeğin yeşil veya kahverengi tonlarında olan minik yapraklardır. Bu yapraklar, çiçek tomurcuk halindeyken onu dış etkenlerden korur. Ancak çiçeğin eşi uyumsuz ise çanak yaprak diye bir şey yoktur.
+Taç yapraklar (petal).
+Çiçeğin en gösterişli kısmıdır. Üreme organlarının dışında bulunur. Gösterişli yapısı ve renkleriyle birçok canlıyı cezbederek tozlaşmada önemli bir role sahiptir. İçindeki kromoplast organeli ise yeşil hariç diğer renkleri salgılar. Bu da tozlaşmada önemli rol oynar.
+Monokotil bitkilerde çiçek örtüsü 'tepal' adı verilen bir kısımdan oluşur.
+Taç yapraklar gösterişli, güzel kokan ve renkli olduklarından böcekleri kendilerine çeker ve bu olay sonucunda 
+arılar veya böcekler polen depo etmiş olurlar.
+Üreme organları.
+Üreme işlevini yerine getirerek neslin devamlılığını sağlar. Bu nedenle 'verimli kısım' olarak da adlandırılır.
+Erkek üreme organı.
+Filament (sapçık) ve anter (başçık) olmak üzere 2 kısımdan oluşur. Filament, anterin çiçeğe tutmasını; anter ise, polen oluşumunu sağlar.
+Dişi üreme organı.
+Ovaryum (yumurtalık), stilus (boyuncuk) ve stigma (tepecik) olmak üzere üç kısımdan oluşur. Ovaryum, dişi üreme organının en alt kısmında bulunur ve tohum taslaklarını taşır. Stilus,dişi üreme organının ortasında bulunur ve stigmada çimlenen polenlerin ovaryuma ulaşmasını sağlar. Stigma ise, tozlaşma ile gelen polenlerin dişi organa tutunmasını ve çimlenmesini sağlar.
+Çiçek Gövdesi.
+"Pedisel" olarak da adlandırılan bu kısım, çiçeği taşır. Saplı çiçeklere 'pedisellat çiçek', sapsız çiçeklere de 'sessil çiçek' adı verilir.
+Tozlaşma.
+Bitkide çiçeğin görevi tozlaşma yoluyla bitkinin çoğalmasını sağlamaktır. 
+Bir çiçeğin erkek organından serbest kalan polenlerin diğer çiçeğin
+dişi organının tepeciğine ulaşması ve burada yeni bitki tohumlarının oluşması olayıdır. 
+Tozlaşma olayında etkili faktörler şunlardır:
+-Polenlerin taşınması rüzgarla sağlanır. Kullanışlı ve sık görülen bir tozlaşma çeşidi değildir.
+-Polenlerin arılar, sinekler ve benzer böcekler tarafından taşınması. Yaygın olan tozlaşma şeklidir. Çiçeğin güzel kokusu, güzel ve parlak görünümü ve salgıladığı şekerli maddeler böceklerin dikkatini çeker. Çiçeğin üzerine gelen böceklerin ayaklarına yapışan polenler böceğin diğer çiçeklere konmasıyla oralara taşınmış olurlar.
+-Kendi kendine tozlaşma: Aynı çiçeğin erkek organındaki polenlerin dişi organına ulaşması sonucu meydana gelen tozlaşma şeklidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşeyli üreme</DOCTITLE>
+<TEXT>
+
+Eşeyli üreme, iki canlı organizma arasında genetik malzemelerin birleştirilmesi suretiyle yeni bir canlının oluşması olayıdır. Burada iki ana süreç vardır: kromozom sayısını yarıya indiren mayoz bölünme ile iki gametin birleştiği ve eski kromozom sayılarına ulaştığı döllenmedir. Mayoz bölünme sırasında, her bir çiftin kromozomları, homolog rekombinasyon elde etmek için krosover yoluyla parça değişimi yaparlar. 
+Eşeyli üremenin evrimi büyük bir yap boz bilmecesidir. Eşeyli üreyen organizmaların ilk fosilleşmiş kanıtları, 1 ile 1,2 milyar yıl öncesi Stenyan dönemindeki ökaryotlara aittir. Eşeyli üreme, hemen hemen tüm hayvanlar ve bitkiler de dahil olmak üzere, iri ölçekli makroskopik organizmaların büyük çoğunluğu için başlıca üreme metodudur. Hücre teması yoluyla iki bakteri arasında genetik malzeme (DNA) aktarımı olan bakteriyel konjugasyon, benzer mekaniğe sahip olduğu için sık sık yanlışlıkla eşeyli üreme ile karıştırılır. 
+Önemli bir soru, eşeyli üremenin, döllenmesiz bir üreme biçimi olan partenogeneze rağmen neden vazgeçilmez olduğu ve bazı yönlerden üstün bir üreme biçimi teşkil ettiğidir. Çağdaş evrim düşüncesi, bu konuda bazı açıklamalar önermektedir. Bir neden, aynı soy dalı üzerinde var olan seçilim baskısı sebebiyle olabilir. Bir popülasyonun, değişen çevre şartlarına karşı vereceği tepkiden daha hızlı yayılabilmesi yeteneği, eşeyli rekombinasyonla partogenezde olduğundan daha çok sağlanır. Alternatif olarak, eşeyli üreme, sınırlı kaynaklar için birbirleriyle rekabet eden aynı soy dalındaki türlerden daha çok evrimsel hız sağlayabilir. 
+Bitkiler.
+Hayvanlar, tipik olarak mayoz bölünmenin hemen ardından, mayoz bölünme tarafından oluşturulan sperm denilen erkek gametler ile yumurta veya ovum denilen dişi gametler üretirler. Öte yandan bitkiler, mitoz bölünme sonucu oluşan sporlara sahiptirler. Sporlar, gametofit içinde sporlanarak gelişirler. Çeşitli bitki türlerin gametofitleri, büyüklük olarak birbirlerinden ayrılır: kapalı tohumlu bitkiler (Angiospermler), polenlerinde sadece üç adet hücre bulundururlarken yosunlar ile ilkel olarak adlandırılan bitkiler ise birkaç milyon hücreye sahip olabilirler. Bitkilerde, çiçeksiz ve sporlu bir evre olan sporofit evresinin gametofit evreyi izlediği 2 farklı yaşam evresi olup nesil değişimi görülür. Sporofit evre, mayoz sporangium kesesi içinde spor üretimine yol açar. 
+Çiçekli bitkiler.
+Çiçekli bitkiler, karalara egemen olan bitki formu olup eşeyli ve eşeysiz üreyerek çoğalırlar. Genel olarak sahip oldukları en ayırt edici özellikleri, çoğu zaman çiçek olarak adlandırılan cinsel organlara sahip olmalarıdır. Stamen ya da anter olarak bilinen çiçeğin erkek üreme organı, eril gametofitler meydana getirir ve bu eril gamatofitler, dişi gametofitlerin yumurta içinde bulunduğu, stigma olarak da bilinen ve karpel üstünde yer alan tepeçiğe eklenerek polen taneleri içinde sperm üretirler. Polen tüpü, karpal biçimde geliştikten sonra üreme hücresinin çekirdeği, dişi yumurta hücresini döllemek için polen taneleriden ovüllere (yumurta) doğru hareket eder ve çift dölleme denilen bir süreçte endosperm çekirdeği, dişi gametofitin içine yerleşir. Triploid endosperm (tek bir sperm hücresi ve iki dişi hücresi) ve dişi ovul dokuları, gelişmekte olan tohumun çevrelenmesine neden olurken ortaya çıkan zigot, embriyo olarak gelişmeye başlar. Bundan sonra, dişi gametofitleri oluşturan yumurtalık meyveye dönüşürek tohum çevresinde büyümeye başlar. Bitkiler kendi kendilerini tozlayabildikleri (Kendi kendini tozlama) gibi birbirlerini de tozlayabilirler (Tozlaşma). Eğrelti otları, yosun ve ciğer otları gibi çiçeksiz bitkiler ise, eşeyli üremenin başka şekillerini kullanırlar.
+Eğrelti otları.
+Eğrelti otları, çoğunlukla rizom, kök ve yapraklara sahip büyük diploit sporofitler meydana getirirler ve sporangium denilen küçücük yuvarlak kesecikler halindeki spor keseleri üzerinde ise sporlar oluşur. Bu keseler yırtılınca, sporlar toz halinde serbest bırakılır ve bunlar çimlenerek genellikle yeşil renkli ve kalp şeklindeki, küçük, kısa ve de ince gametofitler oluştururlar. Gametofitler veya tallus, hem anterozoitte (bitkilerde erkek üreme hücresi) hareketli spermler, hem de ayrı olarak arkegonda (eğrelti otlarındaki dişilik organı) yumurta hücreleri oluştururlar. Yağmur yağdıktan veya çiğ taneleri, bunların üstünde ıslak bir şerit oluşturduktan sonra, hareketli spermler, normalde tallusun üzerinde üretilen anterozoitten dışarı doğru püskürürler ve yağmur suyu veya çiğ örtüsündeki sıvı içinde yüzerek yumurtaları dölledikleri arkegona ulaşırlar. Bu geçişi ve karşılıklı döllenmeyi desteklemek için, spermlerin yumurtalar henüz döllenmeye hazır olmadan önce serbest bırakılması, spermlerin yumurtaları farklı talluslar içinde döllemelerini daha olası hale getirir. Döllenme sonrası bir zigot oluşur ve bu zigot, yeni bir sporofit bitkiye dönüşür. Bitkilerin sporofit ve gametofite ayrılması durumuna nesil değişimi denir. Benzer üreme yöntemlerine sahip diğer bitkiler, Psilotum (Lycopodiales takımından psilotaceae familyasının örnek tipi), Kurtayağı adı ile anılan Lycopodium, yosundan daha gelişmiş ama eğrelti otundan daha ilkel olan Selaginella ve
+Atkuyruğu (Equisetum)'dur.
+Kara yosunları.
+Ciğer otları, Boynuz otları ve Yapraklı Bryophyta türlerini kapsayan kara yosunları, hem eşeyli hem de vejatitif olarak ürerler. Kara yosunları, nemli yerlerde, eğrelti otları gibi büyüyen küçük bitkiler olup flagella kamçısı olan spermlere sahiptirler ve eşeyli üremeyi kolaylaştırmak için suya ihtiyaç duyarlar. Bu bitkiler, fotosentez yapan yaprak benzeri yapılara sahip, çok hücreli haploid bir vücut olan ve hakim bir forma dönüşen haploid bir spor olarak başlangıç yaparlar. Haploid gametler, mayoz bölünme tarafından anterozoit ve arkegon içinde üretilirler. Anterozoit'ten püsküren sperm, olgunlaşmış arkegon tarafından salgılanan kimyasallara yanıt vererek sıvı su şeridi içinde onlara doğru yüzerler ve böylece zigot oluşturan yumurta hücrelerini döllerler. Zigotlar mitoz bölünme ile bölünürler ve diploit olan bir sporofite dönüşürler. Çok hücreli diploit sporofitler, arkegona Setae kılları ile bağlanan ve spor kapsülleri denilen yapılar üretirler. Spor kapsülleri, mayoz bölünme ile sporlar oluşturur ve bu kapsüller olgunlaşıp yırtıldıklarında sporlar da serbest bırakılır. Kara yosunları, üreme yapılarında önemli farklılıklar gösterirler ve yukarıdakiler buna dair temel bir taslak oluşturur. Bunun yanında , bazı türlerde her bitki tek bir cinsiyete sahipken, diğer türlerde bir bitki her iki cinsiyete de sahip olabilir.
+Mantarlar.
+Mantarlar, işlem yaptıkları eşeyli üreme yöntemlerine göre sınıflandırılırlar. Eşeyli üreme sonucu, zor zamanlarda hayatta kalmaya ve yayılmaya yarayan dayanıklı sporlar oluşur. Mantarların eşeyli üremesinde genellikle üç evre gözlemlenir: plazmogami, karyogami ve mayoz bölünme.
+Böcekler.
+Böcek türleri, günümüze kadar gelen tüm hayvan türlerinin üçte ikisinden fazlasını oluştururlar ve bazı türleri seçmeli olarak partenogenez ile çoğaldıkları halde çoğu böcek türleri eşeyli olarak ürerler. Birçok böcek türü seksüel dimorfizm özellikleri gösterirken, diğer türlerde cinsiyetler neredeyse özdeş görünüme sahiptir. Tipik olarak, böcekler spermatozoa (sperm) üreten erkek ve ovül (yumurta) üreten dişi olmak üzere iki cinsiyete sahiptirler. Ovül, iç döllenme öncesi oluşan ve koryon tabakası ile kaplanan yumurtalara dönüşür. Böcekler, çoğu kez erkeğin spermatoforunu (sperm kapsülü) dişinin içinde depoladığı ve yumurtaların döllenmeye hazır olmasına kadar dişinin bu spermleri sakladığı, çok farklı çiftleşme biçimlerine ve üreme stratejilerine sahiptir. Dölleme sonrası ve zigot oluşumu ile gelişim aşamalarının çeşitlenmesinin ardından, birçok türlerde dişi yumurtaları dışarıda saklar ya da bazı türlerde yumurtalar dişi böceğin içinde gelişir ve yavruları canlı doğururlar.
+Memeliler.
+Memelilerin günümüze kadar ulaşan ve hepsinin de iç döllenme özelliğine sahip olduğu üç türü bulunmaktadır: Tek delikliler, Eteneliler ve Keseliler. Anne ve cenine ait iki dolaşım sistemini birbirinden ayıran plasenta organına sahip memelilerde döller, henüz üreme yeteneği olmayan fakat cinsel organlara sahip eksiksiz bir yavru olarak doğarlar. Birkaç ay veya yıl sonra, cinsel organlar ergenliğe kadar gelişmeye devam eder ve canlı hayvan cinsel olgunluğa ulaşır. Memelilerde dişilerin çoğu, sadece belirli zamanlarda, östrus döneminde [[Doğurganlık|doğurgan] olup bu noktada çiftleşmeye hazır hale gelirler. Erkek ve dişi memeli bireyler karşılaştıklarında kopülasyon yaparak cinsel birleşme gerçekleştirirler. Birçok dişi ve erkek memeli, hayatları boyunca yetişken olarak birçok eş değiştirirler. 
+Erkek.
+"Daha çok bilgi için: Erkek üreme sistemi (insan)"
+Erkek üreme sistemi, Penis ve spermlerin üretildiği testisler olmak üzere iki ana bölümden oluşur. İnsanlarda, bu iki organ karın boşluğu dışında bulunur, ancak diğer hayvan türlerinde öncelikli olarak karın bölgesi içinde yer alabilir (örneğin, köpeklerde penis, çiftleşme sırasında hariç, genelde karın içi bölgede bulunur). Testislerin karın dışında bulunması, belirli sıcaklıklarda hayatta kalabilen spermlerin ısı düzenlemesinin en iyi şekilde ayarlanmasında kolaylık sağlar. Spermler, farklı iki cins gametten küçük olanı olup genelde çok kısa yaşam ömrüne sahip olduklarından erkek bireylerin, cinsel olgunluktan ölümlerine durmaksızın sperm üretmelerini gerektirir. Boşalmadan önce üretilen spermler, epididimis er bezinde biriktirilir. Sperm hücreli hareketli olup yumurta hücresine yüzerek ulaşmak için kamçı benzeri bir flagella kullanırlar. Spermler, yumurtayı bulmak için sıcaklık değişimlerinden (termotaksi) ve kimyasal seviye değişimlerinden (kemotaksi veya kimya göçümü) yararlanırlar.
+Dişi.
+"Daha çok bilgi için: Dişi üreme sistemi (insan)"
+Aynı şekilde dişi üreme sistemi de, vajina ile spermleri kabul eden ve yumurtalıklarda yumurtaların oluştuğu rahim olmak üzere iki ana bölümden oluşur. Bu bölümlerin tümü iç kısımlarda yer alır. Vajina, rahim boynu ("serviks") aracılığıyla rahime bağlanmış bir durumdayken rahim de fallop tüpleri ile yumurtalıklara bağlıdır. Belli aralıklarla, yumurtalık, bir yumurta bırakır ve bu yumurta da daha sonra fallop tüpünden rahime geçer. 
+Eğer bu geçiş sırasında yumurta, herhangi bir şekilde spermlerle karşılaşırsa, birleşmek için bu spermlerden birisini seçer ve bu olaya döllenme denir. Yumurtalar, genellikle yumurta kanalında ("ovidükt") döllenebilecekleri gibi bu döllenme, rahimde de gerçekleşebilir. Oluşan zigot, daha sonra implantasyon yoluyla rahim duvarına yerleşir ve burada embriyonik gelişim ile morfogenez süreçleri başlar. Eğer bu gelişim, yavrunun rahim dışında hayatta kalabileceği bir seviyeye ulaşmışsa, rahim boyu açılıp genişler ve rahimdeki kasılmalar, cenini ("fetus") doğum kanalının içinden vajinaya dışarıya doğru itmeye başlar.
+Dişi üreme hücresi olan yumurta, spermden çok daha büyük olup normalde doğumdan önce ceninin yumurtalıkları içinde oluşmaya başlar. Yumurtalar, rahime geçiş yapmadan önce, genelde yumurtalıklar içinde tutulur ve daha sonra oluşacak olan zigot ve embriyo için besin içerirler. Düzenli aralıklar içinde, hormonal uyarımlara tepki vererek, yumurta oluşumu sürecinde ("oogenez") bir yumurta olgunlaşmaya başlar ve daha sonra bu yumurta fallop tüpü içine serbest bırakılır. Yumurta döllenmediği takdirde, bu yumurtalar insanlarda ve yüksek primatlarda regl veya adet denilen olayla vücuttan dışarı atılır. Diğer memelilerde ise bu yumurtalar, dişilerin kızgınlaşma döneminde tekrar emilerek vücutta absorbe edilirler.
+Gebelik.
+"Daha çok bilgi için: Gebelik (memeliler) ve Gebelik"
+Gebelik veya hamilelik, erkekten gelen sperm ile kadının yumurtalıklarından atılmış olan yumurtanın döllenmesi ile oluşan ceninin, doğuma kadar geliştiği ve dişi içinde mitoz bölünme yoluyla bölünüp oluşmaya başladığı zaman bölümüdür. Bu süre boyunca, fetusun ihtiyacı olduğu beslenim ve oksijen, kanın, ceninin karnına göbek bağı ile bağlanmış olan plasenta içinde besinlerin filtre edilmesi yoluyla anne tarafından karşılanır. Besin maddelerinin embriyoya aktarılması, daha çok kalori gerektirdiğinden dişi için yorucu bir durum oluşturabilir. Buna ek olarak, gebelikte bazı vitaminler ve besinlere, normalden daha büyük miktarlarda gereksinim duyulduğundan, olağan dışı yemek alışkanlıklarına neden olabilirler. Gestasyon periyodu da denilen gebelik süresi, türden tür büyük ölçüde farklılık gösterir: insanlarda 40 hafta, zürafalarda 56 ile 60 hafta ve çırlak sıçanı olarak da bilinen hamsterlerde ise 16 gündür.
+Doğum.
+Fetus yeteri kadar geliştikten sonra, rahimin kasılması ve rahim kanalının genişlemesiyle birlikte başlayan kimyasal uyarılar, doğum sürecini başlatırlar. Fetus, daha sonra rahim boyuna iner ve burada vajina içine doğru ve sonra da nihayet anne dışına itilir. İnsanlarda bebek denilen yeni doğmuş yavru, genellikle doğumdan kısa bir süre sonra kendi başına solunum yapmaya başlar. Kısa bir süre sonra, plasenta da dışarı atılır. Çoğu memeliler, yavruların bakımı için plasanta, iyi bir protein kaynağı olduğu ve diğer hayati önem taşıyan besinleri de içerdiği için dışarı atılan bu plasentayı yerler. Son olarak, yavrunun karnına bağlı olan göbek bağı da, bir süre sonra kendiliğinden düşer.
+Tek delikliler.
+Avustralya ve Yeni Gine'de sadece beş türü olan Tek delikliler diğer memelilerden farklı olarak yavru doğurmayıp yumurtlayan ve bu yumurtaları dışarı bırakan canlılardır. Tek deliklilerin cinsel organları, idrar yolu ve bağırsakları, kloak adı verilen tek bir delikte ve birleşik bir durumda bulunur. Kloak, Tek deliklilerde, son bağırsağın dışarıya açıldığı, dışkının ve idrarın belli bir süre tutulabildiği ve eşeysel üretimin akıtıldığı ortak ve tek olan vücut açıklığıdır. Tek delikliler, yumurtalarını birkaç hafta boyunca besin sağlamak için içeride tuttuktan sonra, yumurtladıkları bu yumurtaların üstüne kuşlar gibi yatarak örterler. En az iki hafta sonra, yavrular yumurtadan çıkar ve çoğu keselilerde olduğu gibi, annelerinin keselerine girerek burada birkaç hafta için, yetişene kadar sütle emzirilirler.
+Keseliler.
+Keselilerin üreme sistemleri, belirgin şekilde plasentalı memelilerden farklıdır. Keseli dişiler, bir ağızla dışarıya açık olan ama rahim içinde farklı bölmelere yönlendiren iki vajinaya sahiptirler. Bu anlamda dişilerde iki adet rahim ve iki adet döl yolu vardır. Erkek keseliler ise, dişilerdeki çift vajinaya karşılık gelen çatallaşmış ve iki yönlü bir penis yapısına sahiptirler. Penis, sadece dişilere spermleri boşaltmak için kullanılır ve idrar yolundan ayrıdır. Keselilerde kloak, 
+Keselilerde gebelik süresi, genellikle 4 ile 5 hafta gibi çok kısa bir zamanı kapsar. Embriyo, gelişimin çok erken bir döneminde doğar ve doğduğunda genellikle 5 cm'den daha küçük bir boyuta sahiptir. Kısa gebelik döneminin, annenin bağışıklık sisteminin embriyoya saldırması riskini azaltmak için gerekli olduğu öne sürülür. 
+Yeni doğan keseli memeliler, anne karnındaki bir kesede yer alan meme ucuna tırmanarak ulaşmak için nispeten güçlü ön ayaklarını el gibi kullanırlar. Anne keseli, yavrunun emmek için ancak çok zayıf olduğu bir durumda, meme bezi üzerinde yer alan kasları kasarak yavruyu besler. Yeni doğan keseli yavruların, meme ucuna tırmanmak için ön ayaklara ihtiyaç duymaları, keselilerde ön ayakların yüzgece veya kanatlara evrilmesini engellemiş olup birkaç uçabilen planör keseli olmasına rağmen keseli canlıların, tam anlamıyla suda yaşayan ya da gerçekten uçan keseli görünümü almalarına mani olmuştur.
+Balıklar.
+Balık türlerinin büyük çoğunluğu, daha sonra dışarıda erkek tarafından döllenen yumurta bırakırlar, Bazı balık türleri, kayaların altına veya bitkilerin üzerine yumurta bırakırlarken diğer balık türleri yumurtalarını basitçe suya bırakırlar ve bu yumurtalar, su akımlarıyla sürüklenirken veya su içinde aşağıya doğru batarken döllenirler. Bazı balık türleri ise, önce iç döllenme gerçekleştirir ve daha sonra gelişmekte olan yumurtaları serbest bıraktıkları gibi bazı türler ise canlı doğum yaparlar. Canlı doğum yapan balık türleri, Lepistes ile Molly balıkları ya da diğer adıyla Poecilia'dır. Canlı doğum yapan balıklar, yumurtaları dişinin vücudu içinde gelişen, döllenen ve yine dişi içinde yumurtadan çıkan oovivipar hayvanlardır ya da denizatında olduğu gibi, bir kese içinde gelişmekte olan yavruları erkekler taşır ve canlı doğum da, erkekler tarafından yapılır. Bunun yanında balıklar, memelilerde olduğu gibi, dişilerin içeride büyüyen yavrulara besin temin ettiği vivipar bir gebelik şekline de sahip olabilir. Bazı balıklar hermafrodit ("çift cinsiyetli") olup bir birey, hem dişi hem de eril olarak aynı anda yumurta ve sperm üretebilir. Çift cinsiyetli balıklarda, bazıları aynı anda erkek ve dişi, her ikisi birden olabilecekleri gibi, bazı balıklarda ise, bir cinsiyetle başlayıp diğer cinsiyete geçme suretiyle eril ve dişi durumu değişmeli olarak da görülebilir. En azından, hermafrodit bir tür, yumurta ve sperm birlikte serbest bırakıldığında, kendi kendilerini dölleyebilirler. Kendi kendini içten dölleme bazı diğer türlerde de oluşabilir. Eşeyli üremeyen ama yavru üretmek için yine de cinsel birleşme yolundan yararlanan bir balık türü Poecilia formosa olup "uniseks" olarak tek tip bir cinsiyete sahiptir ve döllenmemiş yumurtaların embriyo olarak gelişip dişi yavrular oluşturduğu, bir partenogenez türü olan ve ginogenez denilen bir üreme şeklini kullanır. Bu döllenme şeklinde, Poecilia formosa, iç döllenme ile üreyen bir erkek veya başka balık türleriyle çiftleşir, ancak bu birleşmede yumurtalar döllenmez, sadece embriyo olacak yumurtaların büyümesi için uyarılma sağlanır. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkilerde üreme</DOCTITLE>
+<TEXT>
+
+Bitkilerde erkek üreme organı polen üretir. Bu polenler insan eliyle rüzgar ve arı gibi böceklerin etkisiyle bir çiçekten başka bir çiçeğe gelir. Dişi üreme organının tepecik kısmına geldiğinde tozlaşma oluşur. Tozlaşma dişicik borusundan aşağı inerek yumurtalığa gelir ve burada döllenme oluşur. Döllenme sonucu çimlenme oluşur ve devamı tohum, embriyo gibi evrelerle devam eder.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>1.2.2 Eşeyli Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Eşeyli üreyen canlıların mayoz sonucunda gametleri oluşturması, onların eşeyli üremeye hazır olduğunu işaret eder. 
+Mayoz ile meydana getirilen hücreler farklılaşarak gametleri yani üreme hücrelerini meydana getirir. Farklı cinsiyetlere ait gametler, döllenme ile (Resim 1.48) birleşerek zigotu oluşturur ve zigot gelişerek yeni bireyi meydana getirir. Bu olaya eşeyli üreme denir. 
+Gametler, mayoz sonucunda oluştuğu için eşeyli üremenin temelinde mayoz yer alır. 
+Gametlerin meydana getirilmesi olayına gametogenez denir. Eşeyli üreme sonucunda oluşan yavrular, iki ayrı cinse ait gametlerin döllenmesi sonucunda geliştikleri için her iki ebeveynden gelen genlerin eşsiz kombinasyonlarına sahiptir. Bu yavrular, hem ebeveynlerinden hem de kardeşlerinden kalıtsal olarak farklıdır.
+Hayvanlar genellikle ayrı cinsiyetlidir. 
+Eşeyli üreme hem hayvanlarda hem de bitkilerde görülür. Eşeyli çoğalan bir hayvan türüne ait erkek bireylerin erkek üreme hücreleri oluşur. 
+Dişi bireylerin üreme organlarında ise yumurta hücreleri oluşur. 
+Yumurta ve sperm döllenme adını verdiğimiz olayda birleşerek zigot oluşur. 
+Zigot mitozla büyüyüp gelişerek yeni bir bireyi meydana getirir. 
+Bazı hayvan türleri iki cinsiyete ait üreme organlarına da sahiptir ve hem sperm hem de yumurta üretebilir. Bu olaya hermafroditlik adı verilir. Hermafroditlik, yassı solucanlarda, halkalı solucanlarda ve başka birçok hayvan grubunda görülür (Resim 1.49). 
+Aynı bireyde erkek ve dişi üreme organları varsa bu bireyler kendisini dölleyebilir mi? 
+Böyle bir durumda kalıtsal çeşililik mümkün olur mu? 
+Bireyler hermafrodit olsa da genellikle başka bireylerle döllenmeyi tercih ederler. 
+Bunun nedeni yavrular arasındaki genetik çeşitliliği artırmaktır. 
+Hayvanların büyük çoğunluğu eşeyli üremeyle çoğalır. 
+Memeli hayvanlar, kuşlar, balıklar, iki yaşamlılar, eklembacaklılar eşeyli üreyen canlı gruplarına örnek oluşturur.Çiçekli bitkiler eşeyli üreme yaparlar. Bitkilerin üreme organı çiçekleridir. 
+Çiçek yapısına baktığımızda dıştan içe dairesel dizilmiş bir yerleşim görürüz. Dıştan içe sırasıyla çanak yapraklar, taç yapraklar, erkek ve dişi organlar ya da bu organlardan sadece bir çeşidi görülür. 
+Çiçekli bitkilerde erkek ve dişi organlar aynı çiçek üzerinde bulunursa bu çiçeklere tam çiçek adı verilir (Resim 1.50). 
+Bu çiçeklerin de çok az türü kendi kendini döller. 
+Çiçekli bitkilerde erkek organlarda polen, dişi organda ise yumurta hücreleri mayoz ile üretilir. 
+Polenler dişi organa ulaştığında tozlaşma gerçekleştirilir. Tozlaşma rüzgar, su, böcekler ya da başka hayvanlar yardımıyla gerçekleştirilebilir (Resim 1.51 - 52). 
+Tozlaşma sonrasında döllenme gerçekleşir, ancak çiçekli bitkilerde çifte döllenme denilen bir olay görülür. 
+Çifte döllenmede, polendeki sperm çekirdegi mitoz geçirerek iki ayrı çekirdek haline gelir. Çekirdeklerden biri yumurtalıkta polar çekirdeklerle birlesip triploid (3n) çekirdegi olusturur. Sonrasında bu çekirdek mitoz bölünmelerle besin dokusunu olustururken diger çekirdek yumurtayla birleserek zigotu olusturur. Zigot, mitoz bölünmelerle embriyoyu meydana getirir.Çiçekli bitkilerde embriyo tohum içinde bulunur. Çimlenme başlayana kadar tohumun metabolizması çok yavaştır. Çimlenme (tohum çimlenmesi) uygun sıcaklık ve nem olduğunda oksijenli bir ortamda başlar. Embriyo gelişerek yeni bitkiyi meydana getirir. 
+Canlılarda çeşitliliği arttırabilmek için eşeyli üreme dışında da bazı mekanizmalar gelişmiştir. Konjugasyon (kavuşma) bunlardan biridir. Bakteriler ve tek hücrelilerden paramesyumda görülen bu mekanizmada, gen aktarımı ile rekombinant genlere sahip yeni birey ortaya çıkar. Ancak konjugasyonda birey sayısı artmaz. 
+Paramesyumda görülen konjugasyon olayında iki birey yan yana gelir; birbirlerine geçici olarak ağız bölgesinden bağlanırlar. Bağlantı sağlandıktan sonra iki birey çekirdek alışverişi yapar. Her birey almış olduğu çekirdeği kendi çekirdeği ile birleştirir ve böylece her hücre genetik materyalinde çeşitlilik sağlamış olur (Resim 1.53). 
+Bakteri konjugasyonunda ise iki birey arasında sitoplazmik bir köprü kurulmasıyla plazmid DNA’sı diğer bireye aktarılır (Resim 1.54). DNA’yı alan birey yeni kalıtsal özellik kazanabilir. Bakterilerde bu yolla gen aktarılmasıyla, antibiyotiklere karşı direnç kazanabildikleri bilinmektedir. 
+Mutasyonla antibiyotiğe direnç kazanmış bir bakteri, değişmiş genetik yapısından bir parçasını diğer bir bireye vererek onu dirençli hale getirebilmektedir. 
+Bakterilere, virüsler aracılığı ile de gen aktarımı söz konusu olabilir. Bu olaya transdüksiyon adı verilir. 
+Bakteriler ortamda DNA mevcutsa, bunu bünyesine alabilir. Bu olaya ise transformasyon adı verilir. 
+Böylece basit yapılı canlılar olan bakteriler, konjugasyonla, transformasyonla ve transdüksiyonla genetik yapılarında çeşitlilik sağlayabilirler. 
+Eşeyli üremede mayoz sonucunda oluşmuş iki farklı gamet birleşerek yeni bir bireyin oluşumunu gerçekleştirir. 
+Mayoz sırasında genellikle cross-over meydana gelmesi nedeniyle her gamet genetik olarak farklı özellikte olacaktır. 
+Döllenme sonucunda oluşacak yeni yavrular, hem ebeveynlerinden hem de kardeşlerinden farklı genetik yapıya sahip olacaktır. 
+Yavru bireylerin farklı gen kombinasyonuna sahip olması, eşeyli üreme ile çoğalan canlıların evrimsel uyum yeteneğini artıracaktır. 
+Eşeyli üreme hayvanlarda, bitkilerde, mantarlarda, bazı bir hücrelilere görülür. Bazı canlılar hem eşeyli hem de eşeysiz üreyebilirler. 
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cinsel organlar</DOCTITLE>
+<TEXT>
+
+Cinsel organ veya üreme organı, erkeklerde penis, kadınlarda vajinaya verilen genel isimdir.
+Penis.
+Penis, erkek cinsel organı. Latincede "kuyruk" anlamına gelir. Penis uyarıldığında damarlar kanla dolarak büyür ve sertleşir. Buna sertleşme (ereksiyon) denir. Sertleşen penis içindeki meninin dışarı atılmasına boşalma (ejekülasyon) denir.
+Vajina.
+Vajina ya da vajen, kadın cinsel organı. Vajina girişi ile başlayan ve uç kısmında rahim ağzının yer aldığı içi boş silindir şeklinde ve normal halde yaklaşık 7-10 santimetre uzunluğunda, 3 santimetre genişliğinde bir yapıdır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hermafroditlik</DOCTITLE>
+<TEXT>
+
+Hermafrodit (erdişi veya hünsâ), hem erkek hem de dişi üreme organı bulunduran canlılara verilen addır.
+Etimoloji.
+Kelime olarak hermafrodit, Yunan mitolojisindeki Ticaret Tanrısı Hermes ile Güzellik Tanrıçası olan Afrodit'in adlarından gelmektedir. Efsaneye göre Afrodit ile Hermes'in bir oğulları olur. Adını Hermafrodit koyarlar. Hermafrodit o kadar güzeldir ki bir su perisinin dikkatini çekmiştir. Peri kız, sürekli ona yakınlaşmak için uğraşır ama Hermafrodit'in nazı ile karşılaşır. Bir türlü yüz bulamayan peri kız, Hermafrodit gölde yüzerken birdenbire karşısına çıkar ve sıkı bir şekilde ona sarılır. Tanrılara onları birbirlerinden ayırmamaları için yalvarır. Sonunda dileği kabul olur ve ikisi de aynı vücutta can bulurlar. Böylece ortaya çift cinsiyetli bir insan çıkar.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Penis</DOCTITLE>
+<TEXT>
+
+Penis, omurgalı ve omurgasız hayvanlarda, erkek bireylerde, görünür kısımda yer alan eşey ve üreme organı yapısıdır. Penis kelimesi Latincede "kuyruk" anlamına gelmektedir.
+İdrar ve üreme salgısı kanalıyla, bunun çevresini saran süngerimsi bir yapıda kan damarlarınca zengin bir üreme organıdır. Penisin ucunda yer alan açıklıktan hem idrar hem de meni ayrı zamanlarda dışarıya atılır. Penis uyarıldığında damarların kanla dolmasıyla büyür ve sertleşir. Buna sertleşme (ereksiyon) denir. Sertleşen penis içindeki meninin dışarı atılmasına boşalma (ejekülasyon) denir.
+Sürüngenlerde.
+Sürüngenler içinde kaplumbağa ve timsahlarda tektir ve penis olarak adlandırılır. Fakat, kertenkele ve yılanlardan oluşan pullular takımında çift yapılı olup hemipenis (sağ hemipenis, sol hemipenis) olarak adlandırılır. Yılanlardaki hemipenis halk tarafından sıklıkla "ayak" olarak nitelendirilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Huş mantarı</DOCTITLE>
+<TEXT>
+
+Huş mantarı ("Piptoporus betulinus"), Fomitopsidaceae ailesinden, genelde çürümüş ağaçlarda, özellikle Huşağacında yaşayan çürükçül bir ağaç mantarıdır. Yüzeyi açık kahverengidir, yaşlandıkça koyu kahveye dönüşür. Yenmez.
+Asya, Avrupa ve Amerika'da Huş'un bulunduğu her yörede yaygındır. Üreme organı yarım şapka şeklinde ya da böbrek biçiminde olup öne doğru uzamıştır. Gövdeden 7-12 cm uzaklıkta olup 8-25 cm genişlikte ve 2,5 cm kalınlıktadır. Arkaya doğru sap şeklinde uzanır. Şapkanın rengi açık gri esmer ya da soluk esmer sarımtıraktır. Üst tarafı çıplak, yaşlandıkça çizgili ve kalkık pullarla örtülüdür. Alt tarafı düz, borucuklar sarı beyazımtırak ya da esmerdir. Borucuklar 2-4 cm uzunlukta olup delikçikler köşeli ve düzgün değildir. Genç mantar etli, yumuşak, daha sonra mantarımsı ve kurudur.
+Çeşitli huş türlerinde hem öz, hem de diri odunda zarar yapar. Hastalık normalde dal ve tepelerde başlar ve aşağıya doğru ilerler. genç ve iyi gelişme gösteren gövdeler diri odunlarında bu hastalığa karşı direnç gösterirler.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgalılar</DOCTITLE>
+<TEXT>
+
+Omurgalılar (), hayvanlar aleminin şubesine ait bir alt şubedir. 
+Ortak özellikleri.
+Omurgalıların en karakteristik özelliği, birbirini takip eden omurlardan yapılmış bir omurgaya sahip olmalarıdır. Omurga sütunu çok kuvvetli bir destek, fakat aynı zamanda eğilebilir bir yapıdadır. Aşağı omurgalılarda, omurga kıkırdak halinde olmasına rağmen, yüksek yapılı omurgalılara doğru kemikleşmeye başlar.
+Birçok omurgalıda omurgaya iki çift ön ve arka üyelerde tutunur. Vücut bilateral (iki yanlı bakışımlı) simetriktir. Baş, gövde ve kuyruk olmak üzere üç kısma ayrılmıştır. Sölom yani vücut boşluğu yalnız gövde bölgesinde bulunur. Sindirim kanalı bel kemiğinin karın (ventral) tarafındadır. Dolaşım sistemi kapalıdır. Yürek en az iki, en çok dört boşluk ihtiva eder. Kanın alyuvarlarında hemoglobin denilen solunum pigmenti vardır. Hemoglobin, kana kırmızı rengi verir. Boşaltım organları çifttir. Boşaltım ve üreme organı açıklıkları, tek veya ayrı ayrı olarak bulunur.
+İki çift ekstremiteleri vardır. Bunlar balıklarda bulunan göğüs ve karın yüzgeçleri, karada yaşayanlarda ise ön ve arka bacaklardır. Suda yaşayanlar solungaç, havadakiler akciğer solunumu yapar. Kafatası içinde muhafaza edilen karmaşık yapılı bir beyinleri vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cereus</DOCTITLE>
+<TEXT>
+
+Cereus, kaktüsgiller familyasından bir kaktüs cinsi.
+Genellikle büyük, sütunsu yapılı ve çabuk büyüyen kaktüsler olan "Cereus" türleri, Güney Amerika'da ve Karayipler'de çok yaygındır. Çiçekleri genellikle beyaz ya da hafifçe kırmızımsı renkli olur, büyüktür ve huni ya da trompet şekillidir. Geceleri açan çiçekleri, siyah tohumlar içeren, genellikle yenilebilir olan, oldukça büyük, tüysüz, oval ve sarı ya da kırmızı renkli meyveler izler. "Cereus" türleri, çiçek örtüsü ayrılıp düştükten sonra bile dişi üreme organı sapçığının meyveye belli bir süre bağlı kalmasıyla ayrılırlar. Ayrıca, areolalarında da yalnızca diken vardır; uzun tüyler bulunmaz.
+"Cereus" türleri, tohumlarının ekilmesi ya da çeliklerinin dikilmesiyle kolaylıkla üretilebilir. Ancak, tohumdan yetiştirmede çok daha yavaş büyürler. Ayrıca, Karayipler'den ya da Güney Amerika'nın ekvator bölgelerinden gelen çeşitleri, kışın genellikle sıcak ortam ister.
+Adlandırma.
+"Cereus" adı, meşaleyi betimleyen, Yunanca ve Latince kökene sahip bir sözcüktür.
+"Cereus" bilimsel adının ise günümüzde geçerli olmayan anlamdaşları da kullanılagelmiştir. Bunlar şöyle sıralanabilir:
+Türler.
+İçerdiği türlerin uzun yıllar tartışma konusu olduğu, değişikliğe uğradığı ve ilgili otoritelere göre farklılık gösterebildiği bu cinste,
+internet üzerinden ulaşılabilen farklı taksonomi kaynaklarında da farklı bilimsel adlara sahip çok farklı sayıda türler listelenmektedir.
+Aşağıdaki listeyse, Güney Amerika ve Karayipler'deki yaklaşık 40 "Cereus" türüne, tür adlarının ayrıntılı anlamdaş listeleri ile birlikte türlerle ilgili görece geniş bilgiler de vererek değinen "Desert-Tropicals.com" sitesine dayandırılmıştır. Bahsi geçen sitedeki "Cereus" listesi, aslında başka cinslere ait olmalarına rağmen "Cereus" cins adını barındıran anlamdaşları olan kaktüsleri de sıralamaktadır.
+Diğer.
+Dev boyutlara ulaşabilen türleri mevcuttur. Ortam sağlandığı takdirde 5-6 metreye kadar ulaşabilir. Dilimli yapıları orantılı ve belirli sayıda olanları olduğu gibi, karışık olanları da mevcuttur. Bazıları hem dilimli hem de karışık şekilde olabilir. "Cereus" türleri büyüdükçe, aşağıdan başlayarak odunlaşır; ağaç şeklini alabilir. Aycıca, silindir yapıda olanlarıda mevcuttur. Gövde rengi mavi, yeşil ve tonlarıdır. Ülkemizde bahçelerde yaşayabilen bitkilerdir. Akdeniz bölgesinde rahatlıkla büyüyebilen bu kaktüsler, örneğin İstanbul şartlarında da yaşabilirler ama kışın dondan ve kardan örtülerek korunmaları daha sağlıklı olur.
+Yaz aylarında çiçeklenen "Cereus" türlerinin çiçeklerinin uzunluğu 20 santimetreyi bulabilir ve yer gözetmeksizin gövdenin her yerinden çıkabilir.
+
+</TEXT>
+</DOC>
+

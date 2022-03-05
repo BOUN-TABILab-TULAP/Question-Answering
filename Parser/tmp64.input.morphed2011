@@ -1,0 +1,79 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İnsanlar	insan	+Noun+A3pl+Pnon+Nom
+İnsanlar	insan	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+toprağı	toprak	+Noun+A3sg+P3sg+Nom
+toprağı	toprak	+Noun+A3sg+Pnon+Acc
+
+işlemeyi	işle+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+işlemeyi	işleme+Noun+A3sg+Pnon+Acc
+
+taşları	taş+Noun+A3pl+Pnon+Acc
+taşları	taş+Noun+A3pl+P3sg+Nom
+taşları	taş+Noun+A3pl+P3pl+Nom
+taşları	taş+Noun+A3sg+P3pl+Nom
+taşları	taşla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+çeşitli	çeşit+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+amaçlarla	amaç+Noun+A3pl+Pnon+Ins
+
+kullanmayı	kullan	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+ve	ve	+Conj
+
+yer	ye	+Verb+Pos+Aor+A3sg
+yer	ye	+Verb+Pos^DB+Adj+AorPart
+yer	yer	+Verb+Pos+Imp+A2sg
+yer	yer	+Noun+A3sg+Pnon+Nom
+
+altı	alt	+Noun+A3sg+P3sg+Nom
+altı	alt	+Noun+A3sg+Pnon+Acc
+altı	altı+Num+Card
+
+kaynaklarını	kaynak	+Noun+A3pl+P3sg+Acc
+kaynaklarını	kaynak	+Noun+A3pl+P2sg+Acc
+kaynaklarını	kaynak	+Noun+A3pl+P3pl+Acc
+kaynaklarını	kaynak	+Noun+A3sg+P3pl+Acc
+kaynaklarını	kaynakla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Acc
+kaynaklarını	kaynakla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+işletmeyi	işle+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+işletmeyi	işletme+Noun+A3sg+Pnon+Acc
+
+yeryüzünün	yeryüzü+Noun+A3sg+P2sg+Gen
+yeryüzünün	yeryüzü+Noun+A3sg+Pnon+Gen
+yeryüzünün	yeryüzü+Noun+A3sg+P3sg+Gen
+
+hangi	hangi	+Adj
+
+katmanında	katman	+Noun+A3sg+P3sg+Loc
+katmanında	katman	+Noun+A3sg+P2sg+Loc
+
+yaparlar	yap	+Verb+Pos+Aor+A3pl
+yaparlar	yap	+Verb+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl
+yaparlar	yap	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

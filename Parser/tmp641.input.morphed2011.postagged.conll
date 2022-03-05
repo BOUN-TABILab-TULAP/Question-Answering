@@ -1,0 +1,14 @@
+1	Greenpeace	Greenpeace	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	çevre	çevre	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	ve	ve	Conj	Conj	_	_	_	_	_
+4	ekosistemi	ekosistem	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+5	koruma	koruma	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	bilincini	bilinç	Noun	Noun	A3sg|P3sg|Acc	_	_	_	_
+7	_	art	Verb	Verb	_	_	_	_	_
+8	_	_	Verb	Verb	Caus|Pos	_	_	_	_
+9	artırmak	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+10	adına	ad	Noun	Noun	A3sg|P3sg|Dat	_	_	_	_
+11	nasıl	nasıl	Adj	Adj	_	_	_	_	_
+12	eylemlerde	eylem	Noun	Noun	A3pl|Pnon|Loc	_	_	_	_
+13	bulunmaktadır	bulun	Verb	Verb	Pos|Prog2|A3sg|Cop	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

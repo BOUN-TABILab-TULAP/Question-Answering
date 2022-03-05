@@ -1,0 +1,217 @@
+Question: Genom projesi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İnsan Genom Projesi</DOCTITLE>
+<TEXT>
+
+İnsan Genom Projesi “tüm çağların en özel günü” ifadesi ile 26 Haziran 2000 tarihinde ABD Başkanı Bill Clinton, İngiltere Başbakanı Tony Blair ve özel şirketleri temsilen Celera Genomics yetkilileri, projenin ilk ayağını tamamladıklarını dünyaya ilan ettiler. Proje sonuçları 2001 yılında açıklanmış olsa da eksikler ancak 2003 yılında bitirilebildi. Geçen süre içinde yeni bilgiler ortaya çıktıkça insan genomu sürekli güncellendi, son olarak insan genomunun 36.2 nci kurumu ve sürümü NCBI tarafından yapıldı. Teknik nedenlerle dizisi belirlenemeyen 302 boşluk bulunan bu son sürümün gen kodlayan bölgelerin yaklaşık %99’unu kapsadığına inanılıyor. Bu proje sayesinde ilaç ve kimya sanayii uzmanlarına, Alzheimer’den vereme, kalp hastalıklarından astıma kadar her türlü hastalığı tedavi olanağı sağlayacak. Proje sayesinde tıp biliminin ciddi biçimde değişikliğe uğrayacağı, ayrıca uluslararası iş dünyasının bundan önemli kazanç sağlayacağı belirtiliyor. Proje, kanserden depresyona ve hatta yaşlılığa kadar tüm hastalıkların teşhis ve tedavisinde devrim yaratacak.
+Proje.
+Proje, insan genomundan 175.000 baz çiftlik parçalar yapay bakteri kromozomlar haline getirip bakterilerde çoğaltılarak gerçekleştirilmiştir. Dizi çözümlemeleri yapıldıktan sonra, parçaların birbiriyle örtüşen dizileri belirlenmiş ve her parçanın özel enzimlerce kesilme profili kaydedilerek genomdaki yeri saptanmıştır. Bu çalışmalarda otomatik DNA dizi analiz teknikleri ve bilgisayar teknolojilerindeki hızlı gelişmelerin büyük katkısı olmuştur.
+Projenin sonucu, etik tartışmaları da beraberinde getirdi. Çünkü bu projenin, öjenik çalışmaların önünü açacağı ve bu amaç doğrultusunda yapılacak deneysel girişimlere de hız kazandıracağı belirtiliyor. Projeye karşı çıkanlar bu projenin, doğanın doğal düzenini tehlikeye atacağını ve insanın, istihdamdan sigortaya kadar günlük yaşamın her alanında “genetik ayrımcılığa” yol açacağını ileri sürmekte. Muhalifler özellikle öjenizm faktörünün altını çizerken, bu projeyle insanların, diğer canlı türlerinin genleriyle beraber yapılacak deneysel çalışmaların sınırlarını büyük ölçüde genişleteceğini, bu yüzden de sonu belirsiz bir biyolojik ve ekolojik felakete götüreceğini öne sürüyorlar.
+İnsan Genom Projesi kapsamında etik, yasal ve sosyal konular için ayrılan bütçe toplam bütçenin yüzde beşini (yaklaşık 60 milyon $) kapsamaktaydı. Bu konuya önem verilmesindeki neden genetik bilgiye dayanarak yapılabilecek olası ayrımcılık ve istismarın genetik araştırmaların boyutu geliştikçe ve genetik testlerin maliyeti düştükçe daha da artacağı kaygısıdır. ELSI’de süregelen birçok proje ELSI’nin muhtemel etkilerini kapsarken bazıları literatür, konferanslar, seminerler ve basın aracılığıyla eğitimi amaçlar. Bu kapsamda hedef kitle olan doktorlar, eğitimciler, öğrenciler, din adamları ve hukukçular için çeşitli eğitici materyaller de sağlanmaktadır. Bütün bu çabalar İnsan Genom Projesi’nin insanlara ve uzmanlara en uygun şekilde aktarılması ve uygulama alanlarında hataların en aza indirilmesi ya da engellenmesi içindir. 
+4 Eylül 2007'de, Craig Venter kendi DNA dizisinin tümünü yayınlamıştır. Bu, bir insanın 6 milyar harflik genomunun yayınlandığı ilk seferdir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İnsan genomu</DOCTITLE>
+<TEXT>
+
+İnsan genomu "Homo sapiens"in genomudur. 23 kromozom çifti üzerinde bulunur, bunlardan 22 çifti otozomal kromozomdur, kalan çift ise cinsiyeti belirler. Haploit insan genomu toplam 3 milyar DNA baz çiftinden biraz fazla uzunluktadır. İnsan Genom Projesi ile elde edilen ökromatik insan genom referans dizisi biyomedikal bilimlerde kullanılmaktadır.
+Haploit insan genomu tahminen 20,000–25,000 protein-kodlayıcı gen içermektedir, bu sayı genomun dizilenmesinden evvel beklenen sayının oldukça altındadır. Genomun sadece %1,5'i protein kodlamaktadır, geri kalanı RNA genleri, düzenleyici diziler, intronlar ve "çöp" DNA'dan oluşur.
+Özellikler.
+Genler.
+İnsan genomunda yaklaşık 20.000-25.000 protein-kodlayıcı gen olduğu kestirilmiştir. İlk tahminlerde bu sayı 100.000 dolayındayken, dizi kalitesi ve gen bulma yöntemleri iyileştikçe gen sayısı aşağıya çekilmiştir.
+Beklenmedik şekilde, insan protein-kodlayıcı gen sayısı çok daha basit organizmalardakinin (Caenorhabditis elegans ve sirke sineği) yarısından daha az olduğu bulunmuştur. Ancak, insan hücreleri alternatif uçbirleştirmeyi yaygınca kullanarak bir gen dizisinden birkaç farklı protein elde edebilirler, bu yüzden insan proteomunun yukarıda belirtilen organizmalarınkinden çok daha büyük olduğu tahmin edilmektedir. 
+İnsan genleri kromozomlar üzerindeki dağılımı homojen değildir. Her kromozomda gen-zengini ve gen-yoksulu bölgeler vardır, bunlar kromozom bantları ve GC içeriği ile ilintilidir. Genlerin rastgele olmayan biçimde dağılımının anlamı iyi anlaşılmamıştır. Protein kodlayıcı genlere ek olarak, insan genomunda binlerce RNA geni vardır, bunların arasında tRNA, ribozomal RNA, mikroRNA ve diğer kodlamayan RNA genleri sayılabilir.
+Düzenleyici diziler.
+İnsan genomunda pekçok farklı düzenleyici dizi vardır, bunlar gen ifadesinin kontrolünde çok önemli bir rol oynarlar. Düzenleyici diziler genelde genlerin yakınında veya içinde yer alan kısa DNA dizileridir. Bunların sistematik olarak anlaşılması için hesaplamalı çalışmalar, yüksek debili gen ifadesi deneyleri ve karşılaştırmalı genom bilim çalışmaları yapılmaya yeni yeni başlamıştır.
+Bazı kodlamayan DNA'lar, genlerin nerde ve ne zaman ifade edildiğini belirleyen birer genetik "anahtar" olarak çalışırlar.
+Düzenleyici dizilerin tespiti kısmen evrimsel korunmaya bakılarak yapılır. Örneğin, evrimde insan ve farenin atalarının birbirlerinden ayrılmaları günümüzden 70-90 milyon öncesine rastlar. Dolayısıyla insan ve fare genlerinin kıyaslanmasıyla bulunan korunmuş, protein kodlamayıcı diziler, bunların gen ifadesinin kontrolü gibi önemli bir işleve sahip olduklarının belirtisi sayılır.
+Düzenleyici dizilerin tespitinde kullanılan bir diğer karşılaştırmalı genomik analiz yöntemi, kirpi balığı genomunun dizilenmesidir. Bu canlıda bulunan gen ve düzenleyici elemanlar insanlardaki ile esasen aynıdır, ama ondaki "çöp" DNA miktarı insandakinin sekizde biri kadardır. Kirpi balığının tıkız (kompakt) genom dizisi düzenleyici dizilerin tanınmasını çok daha kolaylaştırır.
+Diğer DNA.
+Protein kodlayıcı diziler (yani eksonlar) insan genomunun %1,5'inden azına oluşturur. Genler ve bilinen düzenleyici elemanlar dışında insan genomunda işlevi (eğer varsa) bilinmeyen engin bölgeler vardır. Bu bölgeler insan genomunun bazı tahminlere göre %97'sine karşılık gelir. Bunun büyük bölünü şunlardan oluşur:
+Psödogenler.
+Ne var ki, hiç bir sınıflandırmaya dahil olmayan büyük miktarda DNA dizisi de mevcuttur.
+Bu dizilerin büyük bir kısmı günümüzde hiç bir amaca hizmet etmeyen evrimsel bir kalıntı olabilir, bu bölgeler bazen toplu olarak "çöp" DNA olarak adlandırılırlar. Ancak, bu bölgeler içinde yer alan dizilerin bazılarının henüz anlaşılmayan işlevlere sahip olduğuna dair bulgular vardır. DNA mikrodizilimleri ile yapılan deneylerde protein kodlamayan genlerin önemli bir kısmının RNA formatında yazıldığı keşfedilmiştir, bu bulgular bu transkriptlerin önmli bir işlevi olabileceğini düşündürmektedir. Buna ilaveten, memeli genomları arasındaki dizi korunumu, protein kodlayıcı bölgelerle açıklanamayacak kadar fazladır, dolayısıyla genomda hâlen bilinmeyen daha pek çok işlevsel dizi olabilir. İşlevi bilinmeyen bu dizilerin araştırılması halen önemli bir bilimsel çalışma konusudur.
+Dizileme.
+DNA dizilemesi genomdaki nükleotit bazlarının sırasını belirlemek demektir.
+Bileşik dizi.
+İnsan Genom Projesi ve Celera Genomics tarafından paralel olarak yürütülen birer proje, iki ayrı haploit insan genom dizisi elde edip yayınladılar. Bunların her biri birkaç kişinin dizilerinin bir karmasıydı.
+Kişisel.
+Kişisel bir genom dizisi, tek bir kişinin DNA'sını oluşturan nükleotitlerin dizilemesidir. Kişisel genomların dizilenmesinin kişiselleştirilmiş tıbbî tedavileri mümkün kılacağı öngürülmektedir, çünkü belli genetik varyasyonlara sahip kişiler belli tedavilere farklı cevap verdiği bilinmektedir. 
+2009 başına kadar beş kişinin genom dizileri tamamlanmıştı. Bun genomlar Craig Venter (2007'de), James Watson (Nisan 2008), Yang Huanming (Kasım 2008), Dan Stoicescu (Mart 2008) ve Seong-Jin Kim'inkilerdir (Mayıs 2009).
+İnsan Genom Projesi (İGP)'de kişisel genomlar dizilenmemişti, DNA nümunelerini veren gönüllülerin kimliğini korumak için. Dizilenen DNA çeşitli etnik topluluklara ait birkaç kişiden elde edilmişti. Bir diğer farklılık, İGP dizisinin haploit olması, buna karşın Venter ve Watson'un dizilerinin diploid olmasıydı. Kim'in genomunda daha evvel rapor edilmemiş 1,58 milyon SNP vardı, bunun anlamı her 10.000 bazdan 6'sının Korelilere has olduğuydu. Dolayıyla başka Koreli kişilerde kişiselleştirilmiş tıbbi tedavi yapılması için bu genom dizisinin kullanılması uygun olacaktır.
+Haritalama.
+Genom dizisi genomdaki her bir DNA bazının sırasını listelemesine karşın, bir genom haritası sadece belli noktaların yerini tespit eder. Bir genom haritası genom dizisinden çok daha az ayrıntılıdır ve esas amacı genomda belli bir bölgeyi bulmaktır.
+Varyasyon.
+Bir varyasyon haritasına örnek Uluslararası HapMap Projesi tarafından oluşturulmakta olan HapMap'dır. HapMap, İngilizce "Haplotype Map"in ("haplotip haritası") kısaltmasıdır, "DNA dizi varyasyonlarında görülen ortak örüntüleri betimleyecek" bir insan genom haritasıdır. Genomdaki küçük ölçekli (yani tek bazlık) varyasyonların örüntülerini kataloglamaktadır.
+Araştırmacılar, DNA dizisinde büyük ölçekli yapısal varyasyonların ilk haritasını Mayıs 2008'te yayımladılar. Büyük ölçekli yapısal varyasyonlar, kişilerin genom dizileri arasında uzun DNA dizilerinin toptan eklenmesi, kaybı veya yer değiştirmesinden oluşan farklılıklardır. Söz konusu diziler binlerce ila milyonlarca DNA bazı uzunlukta olabilir. Bu varyasyonlar belli bir genin kopya sayısında değişiklikleri de kapsayabilir.
+Varyasyon.
+İnsan genetik varyasyonu üzerine yağılan çoğu araştırma, tek nükleotit polimorfizmleri (İng. "single nucleotide polymorphism"in (kısaltması SNP olarak bilinir) üzerine yoğunlaşmıştır, bunlar kromozomdaki nükleotitlerdeki substıtusyonlardır. Çoğu analiz, ökromatik insan genomunda SNP'lerin her 100-1000 baz çiftinde bir görüldüğünü, ama dağılımlarının rastgele olmadığını bulmuştur. Bill Clinton 2000 senesinde "hepimiz, ırkımız her ne olursa olsun,genetik olarak %99,9 aynıyız" Uluslararası HapMap projesi, insan genomundaki SNP varyasyonlarının kataloglamak amacıyla hâlen uğraş veren büyük ölçekli bir işbirliğidir. 
+Bazı tekrarlı dizilerin genomdaki konumları ve uzunlukları kişiden kişiye büyük çeşitlilik gösterir, DNA parmakizlemesi ve babalık testi buna dayanır. İnsan genomunun heterokromatik bölümü birkaç milyon baz çiftine karşılık gelir, bu DNA'daki dizileri o kadar tekrarlıdır ki mevcut teknoloji ile bunların hatasız olarak dizilenememektedirler. Bu tip DNA da insan topluluklarında çok çeşitlilik gösterir. Heterokromatik bölgelerde az sayıda gen bulunur ve heterokromatindeki terkarlardaki farklılıkların herhangi bir fenotipik etkisi olup olmadığı bilinmemektedir.
+Gamet germ hücrelerinde çoğu büyük mutasyon muhtemelen embriyonun kısa sürede ölmesine yol açar. Ancak, bazı insan hastalıkları genomdaki büyük ölçekli anormallıklarle ilişkilidir. Down sendromu, Turner sendromu ve bazı başka hastalıklar bazı kromozomların mayoz sırasında yavru hücrelere dağıtılırken birbirlerinden ayrılmamalarının ("nondisjunction") sonucudur. Kanser hücrelerinde çoğu zaman kromozom veya kromozom kollarının anöploidisi görülür, ama anöploidi ile kanser arasında bir sebep-sonuç ilişkisi olduğu gösterilmemiştir.
+Genetik bozukluklar.
+İnsan biyolojisinin çoğu yönü hem genetik (kalıtsal) ve genetik olmayan (çevresel) faktörlerle ilişkilidir. Bazı kalıtılmış varyasyonlar, tıbbi boyutu olmayan özelliklerimizi (göz rengi, boy, bazı tadları algılama yeteneği gibi) etkiler. Bazı genetik bozukluklar ise ancak belli çevresel şartlarla (örneğin diyet) birleşince hastalığa yol açar. Çevresel etkilerin önemini göz ardı etmeden, genetik bozukluklar, genomik DNA dizi varyasyonlarının neden olduğu, klinik olarak tanımlanmış hastalıklar olarak betimlenebilir. En basit durumlarda, bozukluk bir gendeki bir varyasyonla ilişkilidir. Örneğin, kistik fibroz CFTR genindeki mutasyonlardan kaynaklanır, 1300 farklı bilinen mutasyonla *caucasian* topluluklardaki en yaygın görülen çekinik bozukluktur. Belli genlerde hastalığa neden olan mutasyonl genelde genin işlevi açısından genelde ciddi etkiye sahiptir *severe* ve enderdirler, dolayısıyla genetik hastalıklar da kişisel düzeyde enderdir. Ancak, değişime uğrayarak genetik bozukluklara yol açabilecek pek çok gen olduğu için, toplu olarak tibbi sorunların önemli bir bölümünü oluştururlar, özellikle pediyatride. Moleküler tanımlı genetik bozukluklar, bozukluğun altında yatan nedensel genin tespit edilmiş olduğu bozukluklardır, hâlen OMIM veri tabanında yaklaşık bu tür 2200 bozukluk kaydedilmiştir. 
+Genetik bozuklukların araştırması genelde aile çalışmaları ile yapılır. Bazı durumlarda topluluk tabanlı yaklaşımlar da kullanılır, özellikle Finlandiya, Fransız Kanadası, Utah, Sardinya gibi "kurucu topluluk"lu toplumlar için. Genetik bozuklukların tanı ve tedavisi genelde klinik/tıbbi genetik konusunda eğitim görmüş, genetik uzmanı tabipler tarafından yapılır. İnsan Genom Projesi'nin bulguları sayesinde genetik bozukluklar için genetik testlerin mevcudiyetinin artması beklenmektedir. Genetik testler ile ebeveynler kalıtsal sorunların mevcudiyeti için test edilir, test bulgularına bağlı olarak bilgilendirilebilirler: olası sonuçlar, bozukluğun kalıtılma olasılığı ve yavrularında bu bozukluktan kaçınmak veya iyileştirmek için yapılabilecekler açıklanabilir.
+Yukarıda açıklandığı gibi, çeşitli tip DNA dizi varyasyonu vardır, fazla veya eksik bir bütün kromozomdan tek nükleotitlik değişikliklere kadar. İnsan topluluklarında doğal olarak bulunan genetik varyasyonların çoğunun fenotipik olarak nötür olduğu varsayılır, yani kişinin fizyolojisi üzerinde az veya gözlemlenemez bir etkisi vardır. Genetik bozukluklar bilinen dizi varyasyonlarının hepsinden kaynaklanabilir. Yeni bir genetik bozukluğu moleküler düzeyde karakterize etmek için belli bir genetik dizi varyantı ile incelenen tibbî sorun arasında nedensel bir ilişki gösterilmelidir. Bu tür araştırmalar insan moleküler genetik dalını oluştururlar. 
+İnsan Genom Projesi ve Uluslararası HapMap Projesi'nin gündeme gelmesi ile, diyabet, astım, migren, şizofreni gibi çeşitli yaygın hastalıklar üzerindeki genetik etkileri araştırmak mümkün hale gelmiştir. Belli genlerdeki bazı genom dizi varyantları ile bu hastalıklardan bazılar arasında bazı nedensel ilişkiler gözlemlenmişse de (ve medya epey olay yaratmış olasalar da), bunlar kendi başlarına genetik hastalık sayılmazlar, çünkü nedenleri karmaşıktır, pekçok genetik ve çevresel faktöre bağlıdırlar. Bu yüzden bazı durumlarda belli bir tibbi durumun genetik bozukluk sayılması tartışmalı olabilir. 
+Evrim.
+Memeli genomların karşılaştırması 200 milyon yıl önce bu türlerin birbirlerinden ırakasmasından beri insan genomunun %5'inin korunmuş olduğunu gösterir, bu korunan bölüm genlerin öok büyük bir öoğunluğunu içerir. Genler ve onların düzenleyici dizileri genomun %2'isini oluşturduğuna göre, bu bulgu, bilinen işlevesel dizilerden daha fazla miktarda işlevi bilinmeyen diziler olduğu anlamına gelmektedir. İnsan genlerinin daha ufak ama gene de büyük sayılabilecek bir kısmı ise çoğu omurgalılar ile paylaşılmaktadır. Şempanze genomu insan genomu ile %95 aynıdır. Ortalama olarak tipik bir protein kodlayıcı insan geni şempanze ortoloğundan sadece iki amino asit substitusyonu kadar fark gösterir; insan genlerinin üçte biri şempanze ortologları ile aynı protein çevirisine sahiptir. İki genom arasındaki önemli bir fark insan kromozom 2'dir, bu kromozom şemmpanze kromozomları 12 ve 13'ün bir birleşimidir. 
+Evrimin yakın dönemleri sırasında insanlar koku reseptör genlerinde diğer memlilere kıyasla olağanüstü bir kayıp yaşamıştır. Bu olgu, diğer memelilere kıyasla koku duyumuzun daha zayıf olmasını açıklar. Evirmsel bulgular insan ve birkaç diğer primat türünde renkli görmenin ortaya çıkmasının koku duyusuna olan gereği azaltmış olabileceğini düşündürmektedir.
+Mitokondri genomu.
+"İnsan genomu"ndan bahsedilirken genelde ona dahil sayılmayan insan mitokondri genomu genetikçiler için çok ilgi çekicidir çünkü mitokondrial hastalıkta kuşkusuz rol oynamaktadır. Ayrıca, mitokondri genomu insan evrimine de ışık tutar, çünkü her insanın mitokondrileri ona annesinden geçmiştir. Örneğin insan mitokondri genomundaki varyasyonların analizinden, tüm insanların anne tarafından soylarında ortak bir ata olması gerektiği sonucu çıkmıştır. (bkz. Mitokondriyal Havva)
+Kopyalama hatalarını kontrol etmeye yarayan bir sistem olmamasından dolayı mitokondriyal DNA (mtDNA) çekirdeksel DNA'ya kıyasla daha hızlı varyasyonlar oluşur. Mutasyon oluşma hızının 20 katı daha yüksek olması ana taraflı sülalenin daha ayrıntılı izlenmesini sağlamıştır. Çeşitli topluluklarda mtDNA'nın incelenmesi eski çağlardaki göç yollarının belirlenmesini olanak vermiştir, Amerika yerlilerinin Sibirya'dan geldiklerini veya Polinezyalıların güneydoğu Asya'dan geldiklerinin gösterilmesi gibi. Avrupalılar üzerinde yapılan benzeri analizler sonucu, ana yollu sülaleden kalıtılmış olan gen karışımında Neandertal DNA'sından eser olmadığı da bulunmuştur.
+Epigenom.
+İnsan genomunu belirleyen özellikler arasında, DNA dizisine ek olarak, kromatin paketlenmesi, histon değişimleri ve DNA metilasyonları vardır. Bunlar gen ifadesini düzenlemek, genom ikilenmesi ve başka hücresel süreçlerde önemli rol oynarlar. Bu "epigenetik" özellikler kanser ve diğer anormalliklerle ilişkilidir ve nesiller arasında kalıtılabilirler.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Genlerin Dili</DOCTITLE>
+<TEXT>
+
+Genlerin Dili ya da özgün adıyla The Language of the Genes, Steve Jones'un genetik ve evrim hakkında yazdığı bir popüler bilim kitabıdır. Kitabın sonraki baskılarında İnsan Genom Projesi gibi güncel önem taşıyan konular da yer almaktadır. İlk baskısı 1994 yılında yapılan "Genlerin Dili", yazara Rhône-Poulenc Bilim Kitapları Ödülü'nü kazandırmıştır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mohinder Suresh</DOCTITLE>
+<TEXT>
+
+Mohinder Suresh, Heroes dizisinde kurgusal karakter.
+İnsan Genom Projesi ışığında DNA değişimlerini inceleyen babası Chandra Suresh'in ölümü üzerine New York'a gelen Mohinder babasının cinayetinin ardında kalanları ve yaptığı çalışmaları inceleyecektir.Mohinder Suresh yetenek almak için kendine bir ilaç enjekte eder
+Özel güçlere sahip olur.Refleksleri mükemmeldir.Ama ilaç'ın yan etkisi sureshi canavara dönüştürür. Ancak 3. sezonun son bölümünde Pinehearst firmasında yaptığı çalışmalar sonucu mükemmelleştirdiği förmülle ıslanır ve ilacın bütün yan etkileri geçer.Volume 4 de samuel tarafından öldürülmüştür ancak hiro geçmişe geri dönüp onu kurtarmıştır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>ABD Enerji Bakanlığı</DOCTITLE>
+<TEXT>
+
+Amerika Birleşik Devletleri Enerji Bakanlığı ( İngilizce:"United States Department of Energy") ( DOE), ABD hükümeti yönetimine ülkedeki nükleer taşıma, enerji ve enerji güvenliği konularında politika yapan ve yürüten kurumudur. Sorumlulukları arasında ülkenin nükleer silah programı, Amerika Birleşik Devletleri Deniz Kuvvetleri, enerji tasarrufu, enerji ile ilgili araştırmalar, radyoaktif atık ve yerli enerji üretimi için nükleer reaktör üretimi bulunmaktadır. Ayrıca İnsan Genom Projesi kapsamında yapılan genomik araştırmaları yönlendirmektedir.
+Bakanlık, genel sekreter tarafından yönetilir ve merkezi 1000 Independence Avenue SW, Washington D.C adresinde bulunmaktadır.
+Tarihçe.
+1942 yılında, İkinci Dünya Savaşı sırasında, Amerika Birleşik Devletleri'nde başlayan Manhattan Projesinin geliştirilmesi Amerikan ordusu mühendislerinin gözetimi altında bir atom bombası projesi olarak başlatıldı. Savaştan sonra, Atom Enerjisi Komisyonu (AEC) projenin geleceğini kontrol etmek için oluşturuldu.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Celera Genomics</DOCTITLE>
+<TEXT>
+
+Celera Genomics, 1998 yılında Dr. J. Craig Venter tarafından Parkin-Elmer şirketinin desteğiyle kuruldu. Kurucusu olan Dr. Venter, ABD'de bir devlet kurumu olan Genetik Araştırmalar Enstitüsü'nün (TIGR) de ilk başkanıydı. TIGR'de bakteri genomunun DNA dizilerini meslektaşı Hamilton Smith ile yaparken başarılıydı. 
+İnsan Genom Projesi ve Celera.
+Celera'yı kurduktan sonra kendi aynı projelere bu sefer devlet yardımı olmadan yürütmeye devam etti. Ancak kısa sürede büyüyen şirket, İnsan Genom Projesi'ne farklı bir yaklaşım getirerek 2030 yılında bitirilmesi hedeflenen projenin 2003 yılında bitirilmesini sağladı. Dr. Venter'in bunu "Devlet kuruluşunda çalışırken 9 yılda yaptıklarımı, özel sektörde 1 yılda yapabiliyorum" diyerek açıklıyordu. İnsan Genom Projesine katıldıktan sonra devlet tarafından yaklaşık 3 trilyon dolar ile desteklenirken, şirket ise 300 milyon dolar harcamıştı. 2001 yılında ilk sonuçlar açıklandığında aynı zamanda uluslararası konsorsiyum tarafından açıklanan sonuçla ancak %70 benzerlik olduğu görüldü. Dr. Venter bunun DNA dizlimesi yaparken kendi yaklaşımın farklı ve daha doğru olduğunu iddia ederek açıkladı. Birçok bilim insanı bu açıklamayı desteklerken, uluslararası konsorsiyum ve Celera ortak bir projeyle, insan genomu için her iki tarafın da onaylayacağı bir ortak harita için çalışmalarına devam ediyor.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gen kopya sayısı</DOCTITLE>
+<TEXT>
+
+Gen kopya sayısı (ya da kopya sayısı varyantları(CNV), kopya sayısı polimorfizmleri(CNP)) bir bireyin genomunda bulunan bir genin kopya sayılarında bulunan farklılıklardan oluşan genetik karakter özelliklerini ifade eder. Bazı genlerin kopya sayılarında görülen farklılıkların insanlarda genetik çeşitliliğe katkıda bulunduğu gerçeği İnsan Genom Projesi’nin tamamlanmasıyla ortaya çıkarılmıştır. Bazı insanlarda yalnızca bir kromozomda bazı genlerin delesyonu görülürken bazı insanlarda aynı genlerin birçok kopyası görülmektedir. Yaklaşık 20.000 insan geni içinde, akraba olmayan insanlar tipik olarak yaklaşık 12 farklı yerde değişik kopya sayısına sahiptir ve büyük çaplı değişikliklerin boyutları birkaç kilobaz ile 2 megabaz arasında değişir. 
+Diğer genetik varyasyonlar gibi, bazı gen kopya sayısı varyantlarının hastalığa yatkınlık ya da direnç gösterme gibi özellikleri bulunduğu görülmüştür.
+Gen kopya sayıları kanser hücrelerinde yüksek olabilir. Örneğin, EGFR kopya sayısı küçük hücreli olmayan akciğer kanserinde normalden fazla olabilir. Ayrıca CCL3L1 geninin yüksek kopya sayısının insan HIV enfeksiyonuna yakalanmada daha az duyarlı olduğu , ve FCGR3B geninin düşük sayısının sistemik lupus eritematoz ve benzeri yangısal bağışıklık sistemi bozukluklarına duyarlılığı artırabildiği gösterilmiştir. İnsanlarda geniş çaplı kopya sayısı varyantlarının birçok tek nükleotid polimorfizmi kadar DNA’yı kapsadığını ve benzer şekilde fenotipik çeşitliliğinden ve hastalık duyarlılığından sorumlu olabileceği belirtilmiştir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Otizmin kalıtsallığı</DOCTITLE>
+<TEXT>
+
+Otizmin kalıtsallığı, Otizm spektrum bozukluklarının nedenleri arasında en önemli yeri genetik faktörler tutmaktadır. İkizler üzerinde yapılan ilk çalışmalar otizmin kalıtsallığının %90'dan fazla olduğunu, bir başka deyişle genetik faktörlerin otizm vakalarının %90'ından fazlasını açıkladığını göstermiştir. Bu tahminin daha kesinleştirilmesi için ikizler üzerine yeni data ve yapısal genetik modeller gerekmektedir. Tek yumurta ikizlerinden yalnızca biri otistik olduğunda diğerinde genellikle öğrenme ve sosyal bozukluklar görülmektedir. Erişkin kardeşler için ise daha geniş olan otizm fenotipinin bir ya da birkaç özelliğine sahip olma riski %30'dur.
+Otizmin genetiği karmaşıktır. Genetik bağ analizleri sonuç vermemiştir ve birçok çağrışım analizleri yeterli olmamıştır. Otistik bireylerin herbiri için birden fazla gende mutasyon sözkonusu olabilir. Farklı otistik bireylerde farklı gen kümelerinde meydana gelen mutasyonlar görülebilir. Çeşitli genlerde görülen mutasyonlar arasında ya da çevre ile mutasyona uğramış genler arasında etkileşimler olabilir. Aile çalışmalarında otizm ile kalıtsal olarak geçmiş genetik markerların tanımlanmasıyla çoğu sinir sitemi gelişmesi ve işlevi ile ilgili proteinleri kodlayan çeşitli aday genler ortaya çıkarılmıştır. Ancak bu aday genler arasında otizm riskini artıran mutasyonlar tanımlanamamıştır. Tipik olarak, otizm Mendel (tek gen) mutasyonu, ya da 22q13 delesyon sendromu veya frajil X sendromu gibi tek kromozom anomalileri ile izlenemez.
+Ailelerinde başka otistik olmayan otistik bireylerin çoğu, gen kopya sayısı varyantlarından (Mayoz bölünme sırasında kendiliğinden oluşan delesyon ya da duplikasyonlar) kaynaklanmış olabilir. Otizm ile ilgili gen lokusu adaylarını tanımlayabilmek için kalıtımsal olmayan vakalar incelenmiştir. Gen kopya sayısı varyantlarını tespit etmekte kullanılan dizi komparatif genomik hibridizasyon (dizi KGH) tekniği kullanılarak yapılan bir çalışmada, tek otistik çocuğu olan ailelerin %10'unda gen kopya sayısı varyantları bulunmuştur. Değişikliğe uğramış gen lokuslarının bazılarına daha önce yapılan kalıtımla geçmiş otizm çalışmalarında karşılaşılmışsa da, çalışma da bulunanların çoğu kalıtımla geçmemiş vakalara özeldi. Dolayısıyla otizmin önemli bir kısmı yüksek oranda kalıtımsal olabilir ama kalıtımla geçmemiştir; yani otizme neden olan mutasyon ebeveyn genomunda bulunmamaktadır. Dizi KGH'nin çözünürlüğü yükseldikçe genetik nedenlerle oluşan otizmin tespitinin %30-40 arasında gözlemlenebilse de, bu alanda yapılan çalışmalar tedbirsizce tanımlanmış ve kamuoyunda otizmin büyük çoğunluğunun gen kopya varyantları nedeniyle olduğu ve bunun dizi KGH ile tanımlanabildiği ya da genetik tanı konması için gen kopya varyantlarını tanımlamanın kaçınılmaz olduğu gibi yanlış kanılara yol açmıştır. Otizm Genom Projesi veribankasında otizmi gen lokuslarına bağlayan genetik bağ ve gen kopya varyantı verileri bulunmakta ve insan kromozomlarının tümünün ilgili olabileceğini göstermektedir. Otizm tanısı yerine otizm ile ilgili alt fenotiplerin kullanılması ilgili gen lokuslarının tanımlanmasında daha yararlı olabilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2.1.Kalitim Ve Biyolojik Çeşitlilik  (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlar mutlu anlarını, törenlerini, özel günlerini yakınları ile beraber kutlarlar. 
+Tebrik için ziyarete gider, yardım gerekirse birbirlerine yardım ederler. 
+Düğün ve cenazelerde olduğu gibi yeni doğum yapmış kadınların ziyaretine giderek hem onları kutlamak hem de bebeği görmek her kültürde olan geleneksel bir davranıştır (Resim 2.1). 
+Böylesi ziyaretlerde sevgi dolu davranışların yanında dilden dile dolaşan şu cümleleri hepiniz duymuşsunuzdur. 
+“Ne kadar da ablasına benziyor”, 
+“Hık demiş, babasının burnundan düşmüş”, 
+“Aynı annesi.....”. 
+Yeni doğan bebek, gerçekten de annesinin aynısı mıdır? 
+Anneye ve babaya ne kadar benzemekte, ne kadar farklı görünmekteyiz? 
+Zaman ilerledikçe, bebek büyüdükçe ne kadar değişir? 
+Benzerlikler artar mı? 
+Zaman zaman ailelerden şu sözleri de duyarız; 
+“Büyüdükçe annene daha fazla benziyorsun.” 
+“Yaşlanınca amcan gibi senin de saçın döküldü, ona çok benziyorsun.” 
+“Davranışların aynı deden gibi oldu”. 
+Aynaya baktığınızda ya da bir video çekiminde kendinizi izlediğinizde, bazı özelliklerinizin annenize, bazı özelliklerinizin babanıza benzediğini görürsünüz. Hatta davranışlarınızda ve mimiklerinizde dahi bu benzerlikleri fark edebilirsiniz. 
+Kaşınızın şekli, alın açıklığınız, kulak memenizin yapışık ya da ayrık oluşu, saçınızın kıvırcık ya da düz oluşu ailenizdeki bireylerinki ile ne kadar benzerlik içerir? 
+Bütün bunlar ne anlama gelmektedir? 
+Bir aile içerisindeki bireyler (Resim 2.2 - 2.3), birbirlerine ne kadar benzerlik gösterir? Bu benzerliklerin nedeni nedir? Kalıtım ya da soya çekim diye bir kavram varsa bunun kuralları neler olabilir? 
+Bilim insanları ilk çağlardan beri bu konuyla ilgili farklı fikirler öne sürmüşlerdir. 
+Kalıtım olayını açıklamak için 1800’lü yıllarda karışım hipotezi adı verilen kalıtım tarzı, yaygın olarak kabul görmüştür. 
+Bu fikre göre anne ve babadan gelen kalıtsal maddeler birbirine karışmakta, siyah ve beyazın karışıp gri rengi olması gibi orta değerde bir özellik oluşturmaktaydı. 
+Ancak bu hipotez doğru olsaydı, bir ana babanın bütün yavrularının tüm özellikleri ebeveynlerinin özelliklerinin ortalamasına sahip olacaktı ve bütün yavrular aynı özelliklere sahip olmalıydı. 
+Oysa, yavrulardaki özellikler incelendiğinde durumun böyle olmadığı, sergiledikleri özellikler bakımından kendi aralarında önemli ölçüde farklılıkların olduğu görülmektedir. 
+Ayrıca bu hipotez, bazı özelliklerin yeni nesillerde tekrar ortaya çıkması gibi olayları açıklamada yetersiz kalmaktadır. 
+Bu görüşün yerine başka bir öneri olarak sunulan “bireysel faktör hipotezi” ise, günümüzde “gen” diye bilinen kalıtım birimlerinin değişime uğramadan ayrı ayrı aktarıldığını savunmaktadır. 
+Matematik ve biyoloji öğrenimi görmüş bir rahip olan Gregor Mendel bezelyelerle 1857’de yapmış olduğu kalıtım çalışmalarıyla, modern genetiğin temelini atmıştır (Resim 2.4). 
+Mendel, öncelikle arıların ıslahı ile ilgili bir çalışma yapmıştır. Daha verimli ve sakin huylu bir arı ırkı ortaya çıkarabilmek için çaprazlamalar yapmış, ancak istediği sonucu elde edememiştir. 
+Daha sonra, bezelyeler ile çalışmaya başlamış ve sadece iki farklı şekli olan karakterlerin kalıtımını izlemeyi tercih etmiştir. Mendel, bezelyelerle yapmış olduğu çaprazlamalardan elde ettiği bireyleri sayarak, bunları fenotiplerine göre gruplandırmış ve bezelyelerdeki baskın ve çekinik fenotipe sahip olan bireylerin sayısal oranlarını belirlemiştir. 
+Mendel, özelliklerin kalıtımdan sorumlu birimlerine faktör adını vermiştir. 
+Bu kalıtım faktörlerinin, yani genlerin, kromozomlar üzerinde yer aldığı ve onlarla birlikte kalıtıldığı düşüncesini 1902 yılında Walter S. Sutton (Valter S. Satin) ve Theodor Boveri (Teodor Boveri) ortaya koymuştur. Kalıtımın Kromozom Teorisi olarak bilinen bu teori, genlerin özgün kromozomlar üzerinde aktarıldığına doğrudan kanıtlar sağlayan Morgan (Morgın) ve Bridges’in (Brigs) çalışmalarıyla desteklenmiştir. 
+Gen terimi, ilk kez Wilhelm Johannsen (Valhaym Cansın) tarafından 1909 yılında kullanılmıştır. 
+James Watson (Ceymis Vatson) ve Francis Crick (Fransis Krik) tarafından 1953’te DNA’nın yapısının aydınlatılması, gözleri DNA üzerine çevirmiştir. 2000’li yıllarda, insan genom projesi sayesinde insan kromozomları üzerinde yer alan 25.000 civarındaki genin yeri ve her bir genin DNA’sının nükelotit dizisi ortaya çıkarılmıştır. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gen Terapisi Ve Dna Parmak İzi  (EBA)</DOCTITLE>
+<TEXT>
+
+Virüsler kullanılarak hücrelerdeki genlerin bozuk olanları sağlam olanları ile yer değiştirilebilir. Bu tekniğe gen terapisi denir. Gen terapisi sayesinde kalıtsal hastalıkların olumsuz etkileri ortadan kaldırılabilir. Böylece genetik hastalıklara sahip insanlar sağlıklı yaşayabilirler (Resim 2.38). 
+Bir bireyin, genomundaki tekrarlı nükelotit dizilerinin belirlenmesiyle bu bireyin sadece kendisine özgü olan DNA parmak izinin çıkarılması artık mümkündür. Gelişmiş organizmalarda, çok değişiklik gösteren tekrarlı DNA dizilerinin olması, bu tekniğin ortaya çıkmasını sağlamıştır. 
+PCR (Polimenaz zincir reaksiyonu) ve çeşitli teknikler ile elde edilen DNA örneklerindeki tekrarlar, o organizmanın DNA parmak izini oluşturur. DNA parmak izi tespiti adli tıpta suçluların belirlenmesi ve babalık testleri için sıklıkla kullanılmaktadır (Resim 2.39). Farklı bireylerden alınan DNA örneklerinin karşılaştırılması ile sonuç %99 doğruluk payı ile belirlenebilmektedir. 
+Birçok dokuda bulunan kök hücre denilen bir hücre tipi, değişik hücrelere dönüşebilme özelliği taşır. Kök hücre örnekleri, doku kültürleri içerisinde çoğaltılarak istenen hücrelere yapay olarak dönüştürülebilir. 
+Başlangıçta sadece embriyonik kök hücre kullanılmaktayken günümüzde kordon kanında, dişte, yağ dokusunda bulunan kök hücrelerde kullanılabilmekte ve doku kültürlerinden bir organ bölümü dahi yapılabilmektedir. 
+İnsanlarda harap olmuş dokuların yerine kök hücreler kullanılarak oluşturulmuş yeni işlevsel dokuların konmasıyla, sinir doku harabiyetinden kaynaklanan felçlere, kalp kapakçık problemleri gibi rahatsızlıklara çareler bulunabilecektir. 
+İnsanlar çok eski zamandan beri, bitki ve hayvanlar üzerinde ıslah çalışmaları yaparak verimi artırmayı başarmışlardır. Islah, aslında hayvanların ya da bitkilerin istenilen özelliklerini ortaya çıkarmak için yapılan bir yapay seçilimdir. 
+Yıllardır süt verimini artırmak için verimi iyi olan sığırlar çiftleştirilip ya da bunlara suni döllenme yaptırılıp et ve süt verimi yüksek yeni döller elde edilmektedir. 
+Daha iyi tohum bırakan tahıllar konusunda da çalışmalar devamlı yapılmaktaydı. Örneğin mısır aslında ıslah sonucu ortaya çıkmış bir bitkidir. Eskiden beri uygulanan bu ıslah çalışmaları yanında genetik mühendisliği çalışmaları sayesinde de günümüzde daha verimli ve daha dayanıklı bitki çeşitlerinin elde edilmesini sağlamaktadır. 
+Ancak başka canlı türlerinden gen aktarımına dayanan bu uygulamalar, önemli bir sorunu ortaya çıkarmaktadır: Etik...Genetik uygulamaların ahlaki bir boyutu olmalı mıdır? 
+Günümüzde içerisine DNA yerleştirilmiş camdan yapılmış cipler imal edilebilmektedir. Bu şekilde insanların genetik taramaları mümkün olabilmektedir (Resim 2.40). 
+Bu taramalarda tek gen mutasyonlarını görebilmek mümkündür. Ayrıca kişinin kalp krizine, şeker hastalığa, Alzheimer gibi hastalıklara yatkınlığı analiz edilebilmektedir. 
+Peki bu analizleri yaptırmak ne kadar gerekli ya da ne zaman gereklidir? 
+Örneğin, bu türden hastalıklara yatkınlığı bilinen kişiler, sağlık sigortası yaptırmak isteyince sağlık sigorta şirketlerinin tutumu ne olacaktır? 
+İnsanlar bu testleri yaptırmadan önce güvenliği sağlamak ne kadar mümkün olabilir? 
+Bu testler insanların sosyal ve psikolojik durumlarını etkileyerek özel hayatlarına müdahaleyi kolaylaştırabilir. Örneğin genetik haritası bilinen bir kişide geç yaşlarda çıkacağı bilinen genetik bir hastalığının olması, işe alınmasını ve çalışma hayatını olumsuz yönde etkileyebilir mi? 
+Bu olumsuzluklar çözülemeyecekse bir kişinin genetik haritasının bilinmesi ne işe yarar? 
+İnsan genom projesi (Human Genom Project - HGP) çalışmalarıyla birlikte, bu çalışmadan çıkacak sonuçların nasıl kullanılacağı, hem bireysel ve hem de toplumsal yararların nasıl korunacağına ilişkin bir program oluşturulmuştur. Etik, Hukuk ve Sosyal Etkileri adı verilen program ile genetik bilginin güvenilirliği, gizliliği ve bireyler üzerindeki etkisi, genetik danışmanlık ve üreme kararının verilmesi gibi çok çeşitli konularla ilgilenmektedir. 
+Etik, Hukuk ve Sosyal Etkileri programının çalışmaları dört konu üzerinde yoğunlaşmaktadır: Toplumsal ve mesleki eğitim, Mahremiyet ve genetik bilgilerin yorumu, Genetik bilgilerin klinik uygulamalara geçirilmesi, Genetik araştırmaya katılanların bilgilendirilmeleri.
+Biyoteknolojik uygulamalar ile ortaya çıkan ürünler, zaman zaman sağlık sorunları, kültürel ya da sosyal sorunlar ortaya çıkarabilir. Örneğin rekombinant olarak üretilen aşılar, kullananlar içeriğini anlayamadığı için hukuksal sorunlar yaratabilir. Tüp bebek yöntemleri, mikroenjeksiyon yöntemleri, aşılama gibi çocuk sahibi olma yöntemleri için de öncesinde düzenlenmiş yasal haklar olmalıdır. Bu yasal haklar olmadığında; insanların birbirlerinden şüphe ettikleri, sosyal ilişkilerinin ve psikolojilerinin bozulduğu görülmüştür. 
+Genetiği değiştirilmiş organizmaların (GDO) tüketilmesi durumunda bu ürünler yabancı DNA’lar içerdiğinden alerjen etkiler yaratıp hukuksal sorunlar doğurabilir. Bir örnekle ifade etmek gerekirse, fındığa alerjisi olan bir insan fındığı yemez, ancak fındığın DNA sının eklendiği gıda ürününü aldığında farkında olmadan bundan olumsuz etkilenebilir. 
+Aniden ortaya çıkan bir alerjik reaksiyon, kişinin ölümüne yol açabilir. GDO’lu gıdaların üretimi ve ithalatı ile ilgili bir güvenlik sözleşmesi vardır. Bu sözleşme kurallarına uyulduğunda ve bireysel farkındalığımız arttığında, bu tür ürünlerin yarattığı sorunların azaltılması mümkündür (Resim 2.41). 
+
+</TEXT>
+</DOC>
+

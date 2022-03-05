@@ -1,0 +1,391 @@
+Question: Cephe yağışları ile yükselim yağışları arasında nasıl farklar vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’De İklim Çeşitleri (EBA)</DOCTITLE>
+<TEXT>
+
+Devlet Meteoroloji İşleri Genel Müdürlüğünün, “www.meteor.gov.tr” adlı sitesinden derlenen bilgilere göre Türkiye’de son yüzyılda kaydedilen en yüksek ve en düşük sıcaklık değerleri ile yağış miktarı ve kar kalınlıkları şöyledir: Van’da 9 Ocak 1990 tarihinde ölçülen sıcaklık, -46,4 °C ile bugüne kadar Türkiye’de ölçülen en düşük sıcaklık olarak gerçekleşti. Buna karşılık en yüksek sıcaklık ise 48,8 °C ile Mardin Kızıltepe’de 14 Ağustos 1993’te ölçüldü. Türkiye’de en düşük ortalama sıcaklık 1,8 °C ile 1972 yılında Kars-Sarıka-mış’ta, en yüksek ortalama sıcaklık ise 21,3 derece ile 1962 yılında İskenderun’da belirlendi. Türkiye’nin en fazla yağış alan illerinin başında gelen Rize’de, 1931 yılında 4045,3 mm ile yıllık en yüksek toplam yağış, 114,5 mm ile de 1970 yılın da İğdır’da en düşük toplam yağış gerçekleşti. Bitlis’te 1954 yılının şubat ayında 525 cm ile en yüksek kar kalınlığı ölçülürken günlük en yüksek yağış miktarı da 11 Aralık 1971’de 469,9 mm ile Antalya-Kemer’de görüldü.
+Türkiye'de yağış rejimleri
+Dünya’nın diğer bölgelerinde olduğu gibi Türkiye’de de yağış miktarları yere ve zamana göre değişiklik gösterir. Yıl içinde yağışın mevsimlere göre gösterdiği bu değişikliğe (azalıp çoğalmaya) yağış rejimi denir.
+Türkiye’nin coğrafi özelliklerine bağlı olarak farklı yağış rejimleri görülür. Aşağıdaki tabloda ülkemizdeki yağış rejimleri, türleri ve bunların mevsimlere göre dağılışı verilmiştir.
+Yağış rejimleri	En fazla yağış	En az yağış	Yağış türü ve tipi	Düzenli / düzensiz
+Karadeniz yağış rejimi	Sonbahar	İlkbahar	Yağmur - yamaç yağışları	Düzenli
+Akdeniz yağış rejimi	Kış	Yaz	Yağmur - cephe yağışları	Düzensiz
+Karasal yağış rejimi (Orta Anadolu)	İlkbahar	Yaz	Yükselim yağış	Düzensiz
+Marmara yağış rejimi	Kış - İlkbahar	Yaz	Kar-yağmur-yamaç ve cephe yağışları	Kısmen düzenli
+Karasal yağış rejimi (Kuzeydoğu Anadolu)	Yaz	Kış	Kar-yükselim yağış	Düzensiz
+Türkiye’de Donma Olayı
+Ülkemizde donma, özellikle sonbahar, kış ve ilkbahar aylarında görülen bir iklim olayıdır. Ancak tarım sektöründeki etkileri nedeniyle sonbaharda ve özellikle bitki gelişiminin hızlandığı ilkbahar döneminde görülen donma oldukça zararlıdır.
+Daha önce de öğrendiğiniz gibi sis önemli bir hava olayıdır. Özellikle ulaşımı etkilemesi bakımından önem taşır.
+Türkiye'de sis olayı
+Türkiye’de sis olayları en fazla hangi mevsimlerde görülür? Yaşadığınız yerde sis olayı hayatınızı nasıl etkiler?
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yağış</DOCTITLE>
+<TEXT>
+
+Yağış, hava kütlelerinin soğuk bir hava tabakası ile karşılaşarak, soğuk bir yerden geçerek ya da yükselerek soğuması sonucunda içerisindeki su buharının yoğuşarak sıvı veya katı halde yeryüzüne inmesi olayıdır. Plüvyometre adı verilen bir âletle ölçülür. Yıllık yağış miktarı mm, cm ve m olarak, günlük yağış miktarı ise kg/m² ile ifade edilir. Birçok farklı formda meydana gelebilir, bunlar yağmur, kar, graupel, dolu ve sulusepkendir.
+Oluşum Şekillerine Göre Yağış Türleri.
+Konveksiyonel Yağışlar.
+Yükselim yağışları olarak da bilinirler, ısınan havanın yükselerek soğuması sonucunda; sıcaklık ve bağıl nem düşer. Hava neme doygun hale gelince yağış bırakır. Alçak basınç alanlarında havanın yükselme hareketinden dolayı sıkça görülür. Ekvator çevresinde yılın her vaktinde, Türkiye'de daha çok ilkbahar mevsiminde bu yağışlara rastlanır.
+Frontal Yağışlar.
+Cephe yağışları olarak da bilinirler; farklı karakterdeki iki hava kütlesinin karşılaşması sonucu, yeterli neme sahip havanın soğuyarak içerisindeki su buharının yoğuşması sonucu oluşur. Akdeniz kıyılarında kış aylarında görülürler, Orta Avrupa ve Batı Avrupa'da batı rüzgarları ve kutup rüzgarlarının karşılaşması sonucunda yılın her vakti oluşurlar.
+Orografik Yağışlar.
+Yamaç yağışları olarak da bilinirler; bir hava kütlesinin bir yamaç boyunca yükselmesi, giderek soğumasına neden olur. Bu durum maksimum nemi düşürerek havanın neme doygun hale gelmesine neden olur. Karadeniz'deki dağların kuzey yamaçları, Toroslar'ın güney yamaçlarında ve Güneydoğu Asya'da rastlanır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nem Ve Yağiş (EBA)</DOCTITLE>
+<TEXT>
+
+Su, canlı yaşamı için çok önemli bir doğal unsurdur. Doğadaki su, sıcaklık şartlarına göre katı, sıvı ya da gaz halinde bulunmaktadır. Su belirli sıcaklıkta buharlaşarak gaz haline geçmekte, sıcaklığın düşmesiyle de yoğunlaşarak, yağmur ya da kar ve dolu şeklinde tekrar yeryüzüne düşmektedir. Yağışlarla yeryüzüne düşen su bir süre sonra yeniden buharlaşarak atmosfere karışmaktadır. Atmosferdeki su buharı nem olarak da ifade edilir. Atmosferdeki nemin kaynağı okyanus, deniz, göl, akarsu ve bitkilerdir. Atmosferdeki nem oranı her yerde aynı değildir. Okyanus ve deniz kıyıları nem bakımından zengin, çöller, karaların iç kesimleri ve yüksek bölgeler ise nem yönünden fakir alanlardır.
+Atmosferdeki nem şu terimlerle ifade edilir.
+a. Mutlak Nem (var olan nem): 1 m3 havanın içinde o an var olan nem miktarının gram olarak ifadesidir. Nemin kaynağı; okyanuslar, denizler, göller, akarsular, kaynaklar, kar örtüsü, buzullar, nemli toprak ve canlılardır.
+Maksimum Nem : Havanın belli bir sıcaklıkta bulundurabileceği en yüksek nem miktarıdır. Sıcaklıkla maksimum nem arasında doğru orantı vardır. Bir bardağın belli miktarda su taşıma kapasitesi vardır. Fazlasını koyduğumuzda bardak taşar. Hava da bu şekildedir. Bulundurabileceğinden fazla nem yüklendiği zaman havanın fazlası yoğuşur ve yağış olarak yeryüzüne düşer.
+b. Bağıl (nispi, oransal) Nem: Bağıl nem ile sıcaklık arasında ters orantı vardır. Sıcaklık arttıkça bağıl nem oranı azalır ve havadaki nem açığı artar. Bu durumda hava doyma noktasından uzaklaşır ve yağış ihtimali azalır. Bağıl nem aşağıdaki formülle bulunur:
+Bağıl nem %= (Mutlak nem / Maksimum nem) X 100
+Yoğuşma ve ürünleri
+Hava, bulundurabileceğinden fazla nem içerirse bu miktar katı ve sıvı tanecikler şeklinde yoğuşur. Böylece gözle görülmeyen ve buhar hâlinde bulunan nem, bulutları oluşturarak görülür hâle gelir.
+Bulut
+Yerden yükselen havanın içindeki nemin yoğuşması ile oluşan bulutlar, özelliklerine göre çeşitli şekillerde gruplandırılır. Örneğin yüksekliklerine göre bulutlar 3 gruba ayrılır:
+13 Bazı bulut türleri
+Alçak Bulutlar (Stratus): Yerden itibaren 3000 m yükseklikte oluşan kalın, yoğun ve koyu renkli bulutlardır. Yoğuşma, hızlı ve kısa sürede olursa küme şekilli, yoğun yağış bırakan bulutlar oluşur. Eğer yoğuşma yavaş ve uzun sürede olursa tabaka şekilli ve uzun süren çisenti şeklinde yağış bırakan bulutlar oluşur.
+Orta Bulutlar (Kümülüs): 3000 - 6000 m arasındaki yükseltilerde yoğuşmalara bağlı olarak oluşan bulutlardır. Genellikle beyaz renktedirler.
+Yüksek Bulutlar (Sirüsler): 6000 m'nin üstündeki hava katmanlarında su buharının buz şeklinde yoğuşması ile oluşan bulutlardır. Bu seviyelerdeki su buharı azlığına bağlı olarak bulutların görünüşleri tüy şeklindedir. Bunlara genel olarak sirüs adı verilir.
+Sis
+Kara ve deniz yüzeylerine yakın yerlerde oluşan bulutlara sis denir. Sis;
+Bulutsuz gecelerde sıcaklığını büyük ölçüde kaybeden yer yüzeyine nemli havanın temas etmesiyle,
+Farklı sıcaklıktaki iki hava kütlesinin temasında sıcak havanın daha soğuk bir yüzey üzerinde akmasıyla ya da soğuk havanın sıcak bir hava kütlesinin altına girmesi ile yer yüzeyine doğru meydana gelen sıcaklık kaybıyla,
+Eğimli bir arazi üzerinde yükselen nemli havanın sıcaklığının düşmesiyle, 
+Soğuk hava kütlesinin daha sıcak olan su yüzeyinden geçmesiyle oluşur.
+Çiy
+İlkbahar veya yaz mevsiminde sabahları cisimlerin üzerinde, bahçedeki bitkilerin yapraklarında su damlacıkları oluşur. Bu damlacıklar yağmur damlası değildir, geceleri havanın soğumasıyla havada bulunan su buharının yoğuşarak oluşturduğu damlacıklardır.
+Kırağı
+Soğumanın çok şiddetli olduğu yerlerde, havanın temas ettiği yüzeylerde buz kristalleri şeklinde oluşan yoğuş-ma ürünüdür. Ülkemizde bu olay kış mevsiminin başlarında görülür.
+Kırç
+Zeminin aşırı soğumasıyla havadaki su buharının soğuyan zeminler, özellikle elektrik telleri, direkler ve ağaçların dalları üzerinde yoğunlaşarak buz hâlini almasıdır. Kırağıdan farkı buz kristallerinin tabakalar oluşturmasıdır.
+Yağış Türleri
+Bulut oluşumu atmosferdeki yoğuşmanın ilk aşamasıdır. Yoğuşmanın ilerlemesi ile daha da büyüyen katı ve sıvı tanecikler havada askıda kakmayarak yer çekiminin etkisiyle yeryüzüne düşer. Bu olaya yağış denir.
+Yağmur
+Buluttaki su tanecikleri ilk aşamada çok küçük boyutlardadır. Havanın soğumasıyla bu tanecikler birleşir, boyutları büyür ve ağırlaşırlar. Ardından yer çekiminin etkisiyle yere düşerek yağmuru oluştururlar.
+Kar
+Havadaki su buharının O °C'un altında yoğuşmasıyla ince taneli kristaller oluşur. Bu kristallerin birleşmesiyle de kar taneleri meydana gelir. Kar taneleri altıgen şeklinde harika bir görünüme sahiptir. Bu taneler birbirine temas etmeden yeryüzüne iner.
+Dolu
+Dikey yönlü hava hareketlerinin çok güçlü olduğu bulutlardaki su damlacıklarının 0 °C’un altında aniden donmasıyla oluşan iri buz taneleridir. Daha çok ilkbahar ve yaz aylarında görülür.
+Ölü Toprağı Canlandıran Yağmurlar
+Yağmurun canlılar için vazgeçilmez bir ihtiyaç olan suyu yeryüzüne bırakmasının yanında, bir de gübreleme özelliği vardır. Denizlerden buharlaşarak bulutları oluşturan ve yeryüzüne yağmur damlaları olarak düşen su, ölü toprağı canlandıracak bazı maddeler içerir. Yağmur damlaları içinde mikroskobik alglerin ve zooplanktonların bozulmasından meydana gelen pek çok organik artık vardır. Bu artıkların bazıları; deniz suyunda çok az bulunan fosfor, magnezyum, potasyum gibi elementleri ve ayrıca bakır, çinko, kobalt, kurşun gibi ağır metalleri seçip ayırarak kendi içlerinde toplar.
+Yeryüzündeki tohum ve bitkiler, yetişmeleri için gereksinim duydukları madensel tuzları ve elementleri işte bu yağmur damlalarında bulur. Yağışlarla toprağa inen bu tuzlar, verimi artırmak için kullanılan geleneksel gübrelerin bazılarının (kalsiyum, magnezyum, potasyum vb.) küçük örnekleridir. Bu tür aerosellerde bulunan ağır metaller ise bitkilerin gelişiminde ve üretiminde verimlilik artırıcı elementleri oluşturur. Kısacası, yağmur önemli bir gübredir. Fakir bir toprak, yalnızca yağmur aracılığıyla gelen bu gübrelerle bile yüz yıllık bir süre içinde bitkiler için gereken tüm elementleri kazanabilir. Ormanlar da yine bu deniz kökenli aeroseller yardımıyla gelişir ve beslenir.
+Karalar üzerine yağışlarla her yıl yaklaşık 150 milyon ton gübre düşmektedir. Bu doğal gübreleme işleyişi olmasaydı. Dünya üzerinde çok daha az bitki olacak, hayat dengesi bozulacaktı.
+Hava Kütleleri ve Cepheler
+Hava Kütlesi
+Atmosferin sıcaklık ve nem bakımından aynı özelliği gösteren geniş parçalarıdır. Örneğin; Ekvator’dan kutuplara doğru giden hava kütleleri sıcak ve nemli iken kutuplardan Ekvator’a doğru giden hava kütleleri soğuk ve kurudur.
+Cephe
+Sıcak ve soğuk karakterli hava kütleleri genel atmosfer dolaşımı içinde zaman zaman karşı karşıya gelirler. Böyle alanlara cephe adı verilir.
+Karşılaşma alanları (cepheler) bol yağışlı alanlardır. Yeryüzündeki yağışların önemli bir bölümünü cephe yağışları oluşturur.
+Oluşumlarına Göre Yağış Tipleri
+1. Yükselim (Konueksiyonel) Yağışları
+Isınarak yükselen havanın soğuması ile oluşan yağışlardır.
+Ekvator çevresinde yıl boyunca orta enlemlerde ilkbahar ve yaz aylarında bu tip yağışlar görülür.
+2. Yamaç (Orografik) Yağışları
+Nemli hava parsellerinin bir dağ yamacı boyunca yükselmesi sonucunda oluşan yağışlardır.
+Orografik yağışlar en çok kıyıya paralel uzanan dağların denize dönük yamaçlarında görülür.
+3. Cephe (Frontal) Yağışları
+Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında oluşan yağışlardır.
+Batı ve Orta Avrupa ile okyanusal iklim bölgelerinde her mevsim, Akdeniz iklim bölgelerinde ise kış ve bahar aylarında cephesel yağışlar görülür.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sesbilim</DOCTITLE>
+<TEXT>
+
+Ses bilimi, (fonoloji, fonetik dil) belirli dil seslerini (fonemler) inceleyen bir bilim dalıdır. Ses bilimi dil içindeki seslerin işlevlerini inceler. Konuşma seslerinin eklemlenmesi (articulatory), nakli (transport), alınması (receival) ile ilgili bir bilim dalıdır. Fonetiğin bu üç çalışma alanına karşılık gelen üç branşı vardır: eklemleme (articulatory), akustik ve işitim fonetiği (auditory phonetics). Fonolojiye zıt olarak, fonetik konuşma seslerinin fizikî yönüyle ilgilenir. Konuşma seslerinin tam bir transkripsiyonunu vermek için, birkaç özel alfabe vardır. Bu alfabelerden en çok kullanılanı bu metinde bulacağınız alfabe olan IPA’dır.
+Ses bilgisinin alanı olan Fonoloji modern dilbiliminin alt alanıdır. Hangi şartlar altında hangi sesler ile kelimelerin birbirinden ayrılabileceğini araştırır. Bir kelime veya sesin ilk hecesini belirlemeye çalışır. Böyle sesler farklı fonemlerin temsilcisidir. Bu fonemler de bir dildeki anlam ayırt eden en küçük birimlerdir.
+Fonoloji; fonemlerin farklı sistemlerini, -bir dildeki anlam ayırt eden en küçük birimleri- kapsar. (Bir dildeki anlam taşıyan en küçük birimlere morfem denir ve Morfoloji’nin araştırma alanına girer.) Fonetik, fonolojik bağlamdan bağımsız olarak seslerin detaylı tanımıyla ilgilenirken, Fonoloji, her bir dildeki ses birimleriyle uğraşır.
+Sesbilim, dilin seslerini, dilsel iletişim dizgesindeki işlevleri açısından inceleyen bilim dalıdır. Sesbirim ve bürünbilim gibi soyut birimlerin incelenmesi üzerine kuruludur. F. de Saussure, J. Baudouin de Courtenay gibi araştırmacılardan esinlenen Prag Dilbilim çevresinde oluşmuştur. 
+Alanları.
+Sesbilimde, sesbilgisi gibi, kendi içinde birçok alana ayrılır. Bu alanlararı aşağıdaki biçimde gösterebiliriz:
+Genel sesbilim
+Bu bilimin inceleme alanı oldukça geniştir. Sadece bir dilin sesbilimsel dizgesini değil, bütün dillerin sesbilimsel dizgelerini ve bunların işleyiş kurallarını incelemeyi amaç edinir.
+Karşılaştırmalı sesbilim
+Bir ya da birçok dilin sesbilimsel dizgelerini birbiriyle karşılaştırarak bunlar arasındaki farklılıkları ve benzerlikleri ortaya koymayı amaçlar. Bu bilimin elde etmiş olduğu bulgular çeşitli amaçlar için uygulanabilir. 
+Eşsüremli
+Kısaca tanımlamak gerekirse, bir dilin sesbilimsel düzgesindeki evrimi göz önünde bulundurmadan, sadece bu dilin belli bir döneminde yer alan sesbilimsel dizgesini bir bütün olarak alır.
+Artsürmeli sesbilim
+Eşsüremli sesbilim aksine, sesbilimsel dizgelerin evrimini, bir dil durumundan öbürüne geçişte ortaya çıkan değişimleri ortaya çıkarmaya çalışır.
+Ayırt edici özellikler.
+Fonolojinin bir başka önemli alanı ise ayırt edici özelliklerle ilgilenir. Bu bağlamda örneğin “sessiz” veya “seslendirici” gibi “üst sınıf özellikleri”nden bahsetmek mümkündür. Anılan bu özellikler yine “laryngal” özelliklerden ayrı tutulur (örneğin seslilik veya nefes vurgusu gibi); bunun yanı sıra seslendirmenin biçimine göre özellikler taşıyabilir (örneğin “burun sesi”); ya da seslendirmenin yerine göre özellikler belirlenebilir (örneğin dudaklı, gırtlaktan seslendirme vs.) Bu anlamda sesler farklı özelliklerin birer “matrix”i olarak da betimlenebilmektedir.
+Sesbilimsel kurallar ve süreçleri.
+Fonolojinin diğer araştırma alanı ise, Türkçe ve Fincede var olan ünlü uyumu gibi ses ile ilgili olan olguları açıklamaya çalışan fonolojik kuralların nasıl oluştuğudur. 
+Sesbilimsel süreçler şu şekilde açıklanabilir: 
+Ses ve söz uyumsal fonoloji.
+Ses ve söz uyumsal Fonoloji, Çincede olduğu gibi tonlamaya göre anlamı değişen sözcüklerin özelliklerini açıklar ve uygun olarak tanımlamaya çalışır.
+Farklar.
+"Okunduğu gibi yazılan diller" kavramı ile "fonetik dil" kavramı arasında fark vardır zira her dil kendi yazım stilini ve kurallarını üretmiştir ve o dilde yazılmış bir yazı o dilin okunuş kurallarına göre okunduğunda gayet yazıldığı gibi okunan(ya da tersi) bir dil olur. dolayısıyla yazıya aktarılmış her dil okunduğu gibi yazılan dillerdir ama bu onların fonetik dil oldukları anlamına gelmez. 
+Her dil ilk yazıya geçirildiğinde fonetik kurallara olabildiğince saygılı olduğu kabul edilir. Dilin yazımını fonetik olmaktan uzaklaştıran ise zamanla konuşulan dilde(spoken language) görülen değişikliklerdir. Konuşmada ortaya çıkan değişikliklerin anında yazıya yansıması hiçbir zaman söz konusu olamayacağından dolayı, yazım konuşulan dilin evrim hızına yetişemez, bu da zamanla yazıyla konuşulan dilin kopmasına, yazımın fonetik olmaktan uzaklaşmasına neden olur. Kimi dillerde bu evrim süreci çok dramtik yazım farklılıklarına yol açmışken(ing, fr) kimi dillerde daha az farklılık gözlenir(İspanyolca, Almanca vs).
+Türkçe yazımı daha yeni adapte edilmiştir(1928). dolayısıyla herhalde günümüzde türkçe dünya üzerindeki en fonetik dillerden birisidir. dil evriminde 80 yıllık bir süre bir nefes alıp verme kadar olduğundan türkçe yazımı ile okunuşu arasında farklılıklar çok ama çok nadirdir. öte yandan süreç içerisinde her dil gibi türkçenin de yazımı ile okunuşları arasında farklar oluşacaktır, bu kaçınılmazdır. hatta şimdiden birkaç belirgin örnek ortaya çıkmıştır. Örneğin "değil mi" yerine "diğ mi", "geleceğim" yerine "gelcem", peki, abi gibi... bu sayılan örnekler her ne kadar gözümüze yanlış kullanım gibi gelse de zaman içerisinde oluşan okunuş kaymaları(pronunciation shift) böyle oluşmaktadır.
+Sesbilim Abecesi.
+Ünlüler.
+IPA International Phonetic Association anlamı taşımaktadır
+harf
+IPA
+özellikleri (çene, dudak biçimi, dilin devinimi)
+örnek 
+a
+geniş, düz, arkadil
+anı [ÈAn1]
+geniş, düz, öndil
+laf [Èlaf]
+e
+geniş, düz, öndil (kapalı)
+elma [elÈmA]
+geniş, düz, öndil (açık)
+dere [deÈrE]
+dar, düz, arkadil
+ısı [1Ès1]
+i
+dar, düz, öndil (açık)
+iğde [iùÈdE]
+dar, düz, öndil (kapalı)
+simit [sIÈmIt]
+o
+geniş, yuvarlak, arkadil (açık)
+soru [sÈRu]
+geniş, yuvarlak, arkadil (kapalı)
+oğlak [oùÈlAk]
+[¿]
+geniş, yuvarlak, öndil (açık)
+örtü [¿RÈtY]
+geniş, yuvarlak, öndil (kapalı)
+öğren [OùÈREn]
+u
+dar, yuvarlak, arkadil (açık)
+kulak [kUÈlAk]
+dar, yuvarlak, arkadil (kapalı)
+uğur [uùÄ]
+dar, yuvarlak, öndil (açık)
+ümit [YÈmIt]
+dar, yuvarlak, öndil (kapalı)
+düğme [dyùÈmE]
+Ünsüzler.
+harf
+IPA
+özellikleri (titreşim, çıkış biçimi, yeri)
+örnek 
+b
+ötümlü, patlamalı, çiftdudak
+balık [bAÈl1k]
+c
+ötümlü, sürtünücü, dil-öndamak
+cam [ÈdZAm]
+ötümsüz, sürtünücü, dil-öndamak
+seçim [seÈtSIm]
+d
+ötümlü, patlamalı, dilucu-dişardı
+dede[deÈdE]
+f
+ötümsüz, sürtünücü, dudak-diş
+firma[ÈfIRmA]
+g
+ötümlü, patlamalı, dil-artdamak 
+karga [kARÈgA]
+ötümlü, patlamalı, dil-artdamak (ön)
+genç [ÈjEntS]
+h
+ötümsüz, sürtünücü, gırtlak
+hasta [hAsÈtA]
+j
+ötümlü, sürtünücü, dil-öndamak
+müjde [mYZÈdE]
+k
+ötümsüz, patlamalı, dil-artdamak
+akıl [AÈk1l]
+ötümsüz, patlamalı,dil-artdamak (ön)
+kedi [ceÈdI]
+l
+ötümlü, yandaralma, dilucu-öndamak
+kul [ÈkUl]
+ötümlü, yandaralma, dilu.-öndamak (ön)
+lale [lAùÈlE]
+m
+ötümlü, genizsi, çiftdudak
+dam[ÈdAm]
+n
+ötümlü, genizsi, dilucu-dişeti
+anı [ÈAn1]
+ötümlü, genizsi, dil-artdamak
+süngü [sYNÈjY]
+p
+ötümsüz, patlamalı, çiftdudak
+ip [ÈIp]
+r
+ötümlü, çokçarpmalı, dilucu-dişeti
+raf [ÈrAf]
+ötümlü, tekçarpmalı, dilucu-dişeti
+ırmak [1RÈmAk]
+ötümlü, sürtünücü, dilucu-dişeti
+bir [ÈbIÄ]
+s
+ötümsüz, sürtünücü, dilucu-dişeti
+ses [ÈsEs]
+ötümsüz, sürtünücü, dil-öndamak
+aşı [ÈAS1]
+t
+ötümsüz, patlamalı, dilucu-dişardı
+ütü [YÈtY]
+v
+ötümlü, sürtünücü, dudak-diş
+var [ÈvAÄ]
+ötümlü, sürtünücü ünlü
+tavuk [tAÈVUk]
+y
+ötümlü, dil-öndamak ünlü
+yat [ÈjAt]
+z
+ötümlü, sürtünücü, dilucu-dişeti
+azık [AÈz1k]
+ötümsüz, sürtünücü, dilucu-dişeti
+yoz [Èj½]
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çankaya, Ankara</DOCTITLE>
+<TEXT>
+
+Çankaya, Türkiye Cumhuriyeti'nin İç Anadolu Bölgesi'nde, Ankara ili'ne bağlı bir ilçe. Ankara ilinin orta kesiminde bulunan ilçe, Ankara'nın başkent olması ile birlikte Türkiye'nin yönetim merkezi durumuna gelmiştir. Yerleşik nüfusu 785.330 kişi olan Çankaya, Türkiye'nin en kalabalık ilçelerinden biridir ve pek çok ilden daha kalabalıktır. Gün içinde nüfusu iki milyona kadar çıkabilmektedir. 102 lise ve on üniversitesi ile ilçe önemli bir eğitim kentidir.
+Tarihçe.
+Çankaya sırasıyla Hatti, Hititler, Frigyalılar Lidyalılar, Pers İmparatorluğu, Makedonya Krallığı, Galatlar, Roma İmparatorluğu, Doğu Roma İmparatorluğu, Büyük Selçuklu İmparatorluğu, Anadolu Selçuklu Devleti, Ahiler ve Osmanlı İmparatorluğu dönemlerini yaşamıştır.
+19. yüzyılda önemini kaybeden yerleşim, 20. yüzyılın başlarında Bağdat Demiryolu'nun yapılması, daha sonra Mustafa Kemal Atatürk'ün Kurtuluş Savaşı'nı buradan yönetmesi ile gelişti. Ankara'nın 13 Ekim 1923 tarihinde yeni kurulan Türkiye Cumhuriyeti'nin başkenti olmasının ardından gelişen Çankaya, 1936 yılında ilçe statüsüne erişmiştir.
+Coğrafya.
+Çankaya, İç Anadolu Bölgesi'nin kuzey batısındaki Yukarı Sakarya Bölümü'nde yer alır. Çankaya'nın doğu ve kuzey doğusunda yine Ankara ili'ne bağlı Mamak ve Altındağ, güneyinde Gölbaşı, batısında ise Yenimahalle ilçeleri bulunur. 
+Çankaya, Orta Anadolu'nun düzlükleri ortasında kayalık bir alanda kurulmuştur. Bu kayalık alan, artık kentin merkezinde küçük bir ada niteliğindedir. Bu adayı yükseltiler çevreler, ortada bir çanak bırakırlar. Eskiden bataklık olan bu çanak, Cumhuriyet döneminde kurutularak yerleşime açılmıştır.
+İklim.
+İlçede karasal iklim hüküm sürmektedir. Kışları soğuk ve kar yağışlı, yazları sıcak ve kuraktır. Kışları kuru bir ayaz görülür. İlkbahar mevsiminde kırkikindi olarak adlandırılan yükselim yağışları düşer. İç Anadolu Bölgesi Türkiye'nin en az yağış alan bölgesi olduğu için ilçede yılın üçte biri güneşli geçer. Ankara il merkezi'nin yıllık yağış ortalaması 404,5 milimetredir. En çok yağış 51,8 mm ile mayıs ayında düşerken, en az yağış 14,4 mm ile ağustos ayında düşer.
+Nüfus.
+Ankara ilinin en yüksek nüfusa sahip ikinci ilçesi olan Çankaya'nın nüfusu 2010 sayımlarına göre 797.109 kişidir. İlçe ayrıca Türkiye'nin de en büyük ikinci ilçesidir. 2000 nüfus sayımında 758,490 olan nüfus 10 yılda yaklaşık 40,000 kişi artmıştır. Sekiz yüz bine yaklaşan nüfusun 384.685'i erkek; 412.424'ü kadındır. Nüfusun tamamı kentte yaşar.
+Eğitim.
+Yüksek nüfusu nedeniyle birçok ilköğretim okulu ve liseye sahip olan Çankaya genel olarak bir öğrenci kenti görünümündedir. İlçede yüzden fazla ilköğretim kurumunun yanında, onlarca lise bulunmaktadır.
+Üniversiteler.
+Çankaya'daki on bir adet üniversitede yüz bini aşan öğrenci yüksek öğrenim görmektedir. Ankara ilinin üniversitelerinin tamamı bu ilçede toplanmıştır. Türkiye'nin önemli üniversitelerinden birçoğu ile birlikte vakıf üniversiteleri de ilçede yerini almıştır. Dünya'nın en iyi bin üniversitesi listesinde, Türkiye'den dereceye giren iki üniversiteden biri Çankaya'dadır. Kentte birçok üniversitenin yanı sıra, üniversite hastahaneleri, fakülteler gibi üniversite alt kuruluşları bulunmaktadır. Çankaya'daki üniversitelere sadece Ankara'dan değil, Türkiye'nin dört köşesinden ve ülke dışından öğrenciler gelmektedir.
+Çankaya'daki üniversiteler şunlardır:
+Kültür.
+Müzeler.
+Çankaya ilçesi, Türkiye'nin en büyük ve en önemli birkaç müzesine birden sahiptir. Anadolu Medeniyetleri Müzesi ve Ankara Etnografya Müzesi başta olmak üzere onlarca müze, birçok tarihî Anadolu medeniyetinin izlerini günümüze taşımaktadır. Ankara Devlet Resim ve Heykel Müzesi özellikle Cumhuriyet dönemi heykeltraşları ve ressamlarına ait birçok eseri barındırmaktadır. Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün mozolesinin bulunduğu Anıtkabir, Atatürk'e ait eşyaların da sergilendiği bir müzedir. I. TBMM binası Ankara Kurtuluş Savaşı Müzesi olarak işletilirken, II. TBMM binası, Cumhuriyet Müzesi olarak kullanılmaktadır. Tarihi Çengel Han'da bulunan Çengelhan Rahmi Koç Müzesi, dünyadaki sayılı sanayi müzelerindendir. Mehmet Âkif Ersoy'un yaşadığı ve İstiklâl Marşı'nı yazdığı ev, bugün Mehmet Akif Ersoy Müze Evi'dir.
+İlçede ayrıca Ankara Üniversitesi bünyesinde bir de Oyuncak Müzesi bulunur.
+Şenlikler.
+İlçe, Ankara'da gerçekleştirilen kültürel organizasyonların merkezi konumundadır. Bu faaliyetlerin birçoğu geleneksel hale gelmiştir. Çankaya'daki sinema alanındaki önemli organizasyonlardan biri Ankara Uluslararası Film Festivali'dir. 1998 yılından beri düzenlenen festival, belgesel, uzun film ve kısa film yarışmaları barındırır. Yaklaşık 17 dalda ödül dağıtılır.
+Tiyatro alanındaki önemli bir şenlik, Toplumsal Araştırmalar Kültür ve Sanat İçin Vakıf tarafından 1996 yılından beri gerçekleştirilen Uluslararası Ankara Tiyatro Festivali'dir.
+Bunların haricinde Çankaya'da 1983'ten beri Ankara Uluslararası Müzik Festivali ve 1996'dan beri de Ankara Caz Festivali gerçekleştirilir.
+Anıtlar.
+Çankaya'da irili ufaklı birçok tarihi ya da modern anıt bulunmaktadır. Bunların en önemlilerinden biri Kızılay Meydanı'ndaki, "Emniyet Anıtı" olarak da bilinen Güvenpark Anıtı'dır. Anıt, 1935 yılında Prof. C. Hozlmeister ve Prof. J. Thorak'a yaptırılarak Türk Polis Teşkilatı'na hediye edilmiştir. Projesi Prof. C. Hozlmeister tarafından çizilen anıtın kabartma ve heykelleri Prof. J. Thorak ve Anton Hanak tarafından yapılmıştır.
+Diğer bir önemli anıt ise Ulus'taki Zafer Anıtı'dır. Bu yapıt, Türk Kurtuluş Savaşı kahramanlarının anısına Yeni Gün Gazetesi öncülüğünde yaptırılmıştır. Türk Hükümetince açılan uluslararası yarışma sonucu birinci olan Avusturyalı sanatçı Heinrich Krippel'e 1925 yılında sipariş edilen heykel Viyana'da Birleşik Maden İşletmelerinde döktürülmüş, 24 Kasım 1927 tarihinde Ulus Meydanı Sümerbank Genel Müdürlük Binası önüne yerleştirilmiştir. Daha sonra meydan genişletme çalışmaları sırasında ilk yeri değiştirilerek bugünkü yerine taşınmıştır.
+Bunlar dışında özellikle Kızılay çevresindeki Sakarya ve Yüksel Caddelerinde birçok heykel bulunmaktadır. Bunların
+başlıcaları Taşankara ve Barış Heykeli'dir. Heykeltraş Burhan Alkar tarafından 1979 taştan yapılan Barış Heykeli Sakarya Caddesi yaya bölgesinde bulunmaktadır. Genç bir kız ile erkeğin birlikte uçurdukları güvercin, özgürlük ve barışı simgelemektedir. Bu heykel gibi Taşankara da Danimarkalı heykeltraş Jørgen Haugen Sørensen tarafından 1992 yılında yapılmış ve Sakarya Caddesi yaya bölgesine konmuştur.
+4.30 metre yüksekliğindeki mermer Mimar Sinan Anıtı ise Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi'nin önünde bulunmaktadır. Eserde Mimar Sinan kendine özgü kıyafetleriyle, ayakta dururken resmedilmiştir. Bu anıt 1956 yılında heykeltraş Hüseyin Anka Özkan'a yaptırılmıştır.
+Modern yapı ve yapıtlar.
+Çankaya'da 80'li yıllardan itibaren inşa edilen önemli eserler arasında, sadece ilçenin değil Ankara'nın da simgesi olan Atakule, Kocatepe Camisi ve Hitit Güneş Kursu Anıtı sayılabilir. Atakule İş Merkezi, Ankara'nın başkent oluşunun 66. yıldönümü nedeniyle 13 Ekim 1989'da açılmıştır. Ankara'nın ilk, Türkiye'de açılan ikinci alışveriş merkezi olan Atakule, 125 m yüksekliğe ve kulenin tepesinde döner restorana sahiptir.
+Kocatepe semtindeki Kocatepe Camisi'nin yapımına 1967 yılında başlanmış ve 1987 yılında bitirilmiştir. 88 m uzunluğunda dört minaresi vardır.
+Çankaya Köşkü.
+Türkiye Cumhuriyeti Cumhurbaşkanları'nın ikamet ettiği köşktür. Çankaya Köşkü, Ankara'nın merkezi olan Kızılay Meydanı'nın yaklaşık 5 kilometre güneyindedir ve rakımı 1,071 metredir.
+Ankara'nın yüksek bir tepesinde yer alan köşk, Kasabyan adlı bir Ermeni tüccar tarafından 1800'lü yılların son çeyreğinde bir bağevi olarak yaptırıldı. Sonrasında kentin zengin ailelerinden Bulgurzadeler'in eline geçti. Ankara Müftüsü Rifat Efendi'nin gayretleriyle halk arasında 4500 lira toplanıp, Bulgurzade Tevfik Efendi'den satın alınan köşk, Mustafa Kemal Atatürk'e hediye edildi.
+Mustafa Kemal Atatürk, 1921 yılında köşke yerleşmiştir.
+Altyapı.
+Ulaşım.
+İlçe Ankara'nın merkezinde yer almaktadır ve şehir merkezi de bu ilçededir. Türkiye Cumhuriyeti Devlet Demiryolları Ankara Garı ve Ankara Şehirlerarası Otobüs Terminali Çankaya'dadır. Türkiye Cumhuriyeti Devlet Demiryolları 2009 yılında Ankara-Eskişehir Hızlı Treni de ulaşıma hizmet vermeye başlamıştır. Bu hatlar İstanbul'a ve Konya'ya kadar uzatılacaktır ve 2011 yılında bitirilip hizmete girmesi planlanmaktadır. 
+İlçe içi ulaşımı kolaylaştıran iki adet faal, dört adet de inşaat halinde olan metro vardır. Bu metrolardan beşi Çankaya'yı, Yenimahalle, Keçiören gibi ilçelere bağlar. Yapımına 1992 yılında başlanan Ankaray metrosundan Ankara Şehirlerarası Otobüs Terminali'ne direkt geçiş vardır. İlçeye havayolu ile ulaşım ancak, şehir merkezine 28 km mesafede bulunan, Çankaya'nın kuzeydoğusundaki Esenboğa Uluslararası Havalimanı ile mümkündür.
+Yönetim.
+İdari bölünme.
+1936 yılında Ankara'nın merkez ilçesi olan Çankaya, 1983 yılında Çankaya, Altındağ, Yenimahalle, Mamak ve Keçiören olmak üzere beş ilçeye bölünmüştür. 1984 yılında Ankara Büyükşehir Belediyesi kurulmuş, Çankaya da bu belediyeye bağlı bir metropol olmuştur. İlçe bir belediye başkanlığına ve bir kaymakamlığa bağlıdır. İlçede 116 tane mahalle vardır.
+Kaymakamlar.
+İlçe 1936 yılında ilçe statüsüne kavuştuğundan beri 25 tane kaymakam görev başına gelmiştir. İlk kaymakam H. Nihat Pepeyi 1936 ile 1938 yılları arasında görev yapmıştır. İlçede şu ana dek hiç kadın kaymakam olmamıştır. İlçenin şu anki kaymakamı Hulusi Arat"tan sonra 2011'de göreve başlayan Mehmet Ali Yıldırım'dır.
+Belediye başkanları.
+Çankaya Belediye Başkanlığı, 1963 yılından beri yapılan on seçimin yedisinde CHP tarafından kazanılmıştır. Geriye kalan üç yönetimin ikisi bağımsız, biri Anavatan Partisi'ne mensuptur. Belediye başkanlığını son yapılan seçimler sonucunda CHP'li Bülent Tanık kazandı.
+Kardeş kentler.
+Kardeş kentler:
+Ön protokol imzalayanlar:
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kapukaya, Tomarza</DOCTITLE>
+<TEXT>
+
+Kapukaya, Kayseri ilinin Tomarza ilçesine bağlı bir köydür.
+Tarihçe.
+Eski adı Persek olan ve Perslerde (İranca) Per, sözcüğünün Kapı, Senk sözcüğünün, Kaya-Taş anlamında kullanıldığı, Persenk sözcüğünün dilimizde Persek olarak kullana geldiği, adının Türkçe karşılığı olan Kapukaya olarak 1960 lı yıllarda değiştirilen ve Göstere ovasında yer alan bir yerleşim yeridir..
+Kültür.
+Köyün gelenek, görenek ve yemekleri hakkında bilgi yoktur.
+Coğrafya.
+Kayseri iline 45 km, Tomarza ilçesine 9 km uzaklıktadır.
+İklim.
+İç Anadolunun karasal iklimi köyde de kendini gösterir. Yazlar sıcak ve kurak, kışları soğuk ve karlı geçer. Gece ile gündüz arasındaki sıcaklık farkı çok fazladır. Haziran, Temmuz ve Ağustos ayları dışında gece sıcaklıkları sıfır derecenin altına düşmektedir. Bu sebeple erken don olayları görülür. Kar yağışları Kasım ayının başında başlar, nisan ayının ortalarına kadar devam eder. Yağmurlar ilkbaharda konveksiyon, sonbaharda cephe yağışları şeklindedir.
+Nüfus.
+1990- 708
+1985- 948
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılık ile Vasıfsız işçilğe dayalıdır.
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi yapımı sürmekte olup 2008 sonunda tamamlanacaktır. PTT acentesi vardır. Sağlık ocağı vardır. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Quart</DOCTITLE>
+<TEXT>
+
+Quart, Birleşik Krallık ve ABD'de kullanılan, yaklaşık olarak litreye (1000 cm3) eşit bir katı ve sıvı hacim birimi. İlk olarak Ortaçağ İngiltere'sinde kullanılmaya başlanmıştır. Britanya ve Amerikan quartları arasında küçük farklar vardır:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Topografik anatomi</DOCTITLE>
+<TEXT>
+
+Topografik anatomi, vücudu belirli regiolara (bölgelere) ayırarak, burada bulunan oluşumların kökenine bakılmaksızın inceler. Özellikle zootomi [ anatomisi) de hayvan türleri arasında bazı farklar da incelendiği için "anatomia topographia comporativa" adını alır. Yani comporative (karşılaştırmalı) anatomidir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kıtasal Akdeniz İklimi</DOCTITLE>
+<TEXT>
+
+Bu iklim Karasal iklim ile Akdeniz iklimi arasında bir geçiş tipidir.Yazlar Akdeniz iklimi kadar bunaltıcıdır.Ama kısa sürer.Kışlar ise soğuk ve biraz uzun geçer.Gündüz sıcaklık 0 C'nin üzerinde iken geceleri eksi değerlere düşer.Yağış 460-850 mm arasında değişir.Görüldüğü yerlerin kuzeyinde en az yağış yazın,en fazla yağış sonbaharda görülür.Güney kesimlerinde ise en yağışlı mevsim kıştır.Nispi nem oranı %40-70 civarındadır.Cephe yağışları görülür.Bu iklim tipi Akdeniz'e yakın yüksek platolarda,Kaliforniya eyaletinde kıyıya yakın dağlarda,Toros Dağları'nın güneye bakan yamaçlarında görülür.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Günlük</DOCTITLE>
+<TEXT>
+
+Bir kişinin yaşadıklarını, duygu ve izlenimlerini, tarih belirterek günü gününe anlatmasıyla oluşan yazı türüne "günlük" denir. Günlükler her gün yazıldığı için kısadır. Bu yazılar yazarın yaşamından izler taşır.
+Eski edebiyattaki adı ruznamedir. Edebiyatımızda Batılı anlamdaki ilk günlük "Direktör Ali Bey"in "Seyahat Jurnali" adlı eseridir. Bunu şair Nigâr Hanım ın “ Hayatımın Hikayesi” adlı eseri izler.
+Günlük ile Anı arasında farklar.
+Anı ile günlük çoğu zaman karıştırılmaktadır. Günlük adından anlaşılacağı üzere yaşanırken, günü gününe yazılır. Anı ise aradan zaman geçtikten sonra yazılır.
+Günlük yazarı sadece kendisini ya da kendisini merkeze alarak çevresindekileri anlattığı halde; anı yazarları başkalarını anlatabilir.
+
+</TEXT>
+</DOC>
+

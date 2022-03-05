@@ -1,0 +1,199 @@
+Question: İplik makinesini kim icat etmiştir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Barthélemy Thimonnier</DOCTITLE>
+<TEXT>
+
+Barthélemy Thimonnier, (19 Ağustos 1793,5 Haziran 1857),fransız mucit.Dikiş makinasını icat etmiştir.
+Gençliği
+1795 yılında ailesi Amplepuis'a taşınmıştır.7 kardeşten en büyüğüdür.Lyon'da okurken okuldan sonra Panissières'ta bir terzinin yanında çalışmıştır.1823'te Saint-Étienne'nin varoşuna yerleşmiş ve burda terzilik yapmıştır.
+Dikiş Makinesini İcat Edişi.
+1829'da dikiş makinesini icat etti ve patent için gerekli düzenlemeleri yapan maden mühendisi Auguste Ferrand ile anlaşma yaptı.Cihazın patenti 17 Temmuz 1830'da Barthélemy ve Auguste adına çıktı.Barthélemy aynı yıl içinde dünyanın ilk dikiş makinesiyle üretim yapılan elbise fabrikasını açtı ve ordu için kıyafetler üretti.Fabrikasında çıkan bir yangın sonucunda fabrika ve içindekiler kullanılamaz hale geldi.Sonra bütün hayatı söndü artık o fakir bir kişiydi.
+Sonraki Hayatı.
+Barthélemy bu olaydan sonra Amplepuis'a dönmüştür ve orada terziliğe devam etmiştir ve icadını geliştirmek için çalışmıştır.64 yaşındayken maddi sıkıntılar içinde hayatını kaybetmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Konrad Zuse</DOCTITLE>
+<TEXT>
+
+Konrad Ernst Otto Zuse (d. 22 Haziran 1910, Berlin - ö. 18 Aralık 1995, Fulda yakınında Hünfeld) bir inşaat mühendisi, mucit ve girişimci (Zuse KG) idi. 1941 yarattığı Z3 ile, dünyada tam otomatik, yazılımla yönlendirilen, programlanabilen, sayısal ve aritmetik hesaplamayla çalışan ilk bilgisayarı icad etmiştir.
+Hayatı.
+Konrad Zuse, 22 Haziran 1910'da Maria ve Emil Zuse'nin oğulları olarak doğdu. Büyük ablası da kendisi gibi zeki ve iyi eğitim almış bir bayandı. İki yaşındayken babasının orta sınıf posta memur olarak tayini çıktığı aile Doğu Prusya'nın Braunsberg'ine göç ettiler. Burada Hosianum Lisesi'nde 9. sınıfına kadar devam etti. 1923 de babasının yeni tayini çıktığı Hoyerswerda’ya ailece taşınılınca, burada Reform Lisesine devam etti ve olgunluk sınavını 1928 de burada verdi.
+Kendisini "gezgin öğrenci" diye tanımlayan Konrad Zuse, yüksek öğrenimine Berlin-Charlottenburg Teknik Yüksek Okulu'nda (bugün Berlin Teknik Üniversitesi) makine yapımına başladıktan sonra mimarlığa geçmiş ve oradan sonra da yapı mühendislik dalını tercih etmiş. Erken yaşlarında tekniğe ve sanata yatkınlığını hissetmiş. İcat etmek istediği şeylerin ama zaten yaratılmış olduklarını fark eder.
+1935'te mühendislik eğitimini diploma ile bitirdi. Önce Henschel Uçak Fabrikalarında statikçi olarak başlamış olsa da kısa bir zaman sonra bu işi terk edip ailesinin evinde kendisine bir atölye kurdu. Burada Z1'i tasarım etti. İlk programanabilen mekanik hesap makinesinin tasarımla uğraşırken sade mekanik düzenle kurulu olup elektriksel çalışmadığı için sorunlar yaşamıştır. Z1 tasarımındaki düzenlemeyi Z2'de daha da geliştirip röle üzerine kurarak dünyanın ilk sayısal, bellekli bilgisayarını yarattı. Yaratıcı gücü yanında çevresindeki insanları idiallerine destek olmalarına inandırabilen yaradılışı vardı. Emekli olan babasını bile hem maddi destek hem de ücretsiz atölyede çalışabilmesi için ikna edebilmişti.
+2. Dünya Savaşı sırasında 2 kez askere çağırılmış ama hiçbir zaman eli silah tutmamıştır. Henschel Uçak Fabrikalarının yöneticilerinden Prof. Herbert Wagner’in kendisinden vazgeçilemez raporu doğrultusunda askere alınmayıp fabrikanın uzaktan kumanda bombaların özel araştırma geliştirme bölümünde çalıştı. Uzaktan kumandalı uçan bombalar ve uçak kanat ölçümünde kullanılabilen özel hesap makinelerini geliştirdi. Yeteneğinin ne kadar önemsendiği ise 1941 de açtığı şirketi "Zuse Mühendislik ve Tasarımi Berlin" ile belli olurken yanında ilk etapta 20 personel çalışmaya başladı. O zaman bir hesap makinesini tasarım etme hakkına sahip tek şirket idi.
+1945 Berlin’de eşi Gisela (Brandes) ile evlendi. Beş çocukları oldu. En büyükleri matematik profesörü oldu. Savaşın son yıllında Berlin’den kaçan Zuse ailesi Allgäu (Güney Almanya) bölgesine sığınırken, Z4 hesap makinesini de kurtarabildiler. Z4 ile savaş sonrası kurduğu yeni şirket ülkenin ilk bilgisayar şirketi oldu. Şirketin müthiş yükselişinden sonra büyük borçlanmaya giren Zuse 1964'te çoğu hisse senetlerini bırakmak zorunda kaldı. Ondan sonra danışman olarak çalışıp "Rechnender Raum (Hesaplanan Mekân)" adlı kitabını yazdı.
+Emekliliğinde zamanını daha çok sanata ayırdı. Dışavurumculuk stilinde yarattığı tablolarının bazılarını "Kuno See" olarak imzaladı.
+Çalışmaları.
+Z1 – Mekanik Beyin.
+Yapı mühendisliğindeki monoton ve can sıkıcı hesapları otomatikleştirebilme fikrine vardı. 1937'de anı defterine "bir yıldan beri mekanik beyin için tasarımlarla uğraşmaktayım" notunu düşmüş. 1938'de mekanik elektrikle çalışabilen hesap makinesi Z1’i üretti. Dünyanın ilk sayısal hesaplayabilen, giriş ve çıkışı yongalı, bellekli ve film şeritlerine işlenmiş programlarla çalışabilen hesap makinesini yarattı. Mekanik düzeni ama sorun ediyor ve bu yüzden düzgün çalışamıyordu. Charles Babbage'i ilk bilgisayar babası olarak da sayan Zuse ondan ancak savaş sonrası haberi olabildi.
+Z1 için bilgisayar denkli kayan nokta (floating point), mantisse (significand) ve üslü sayı (potenz) ana metodunu geliştirdi. Bilgisayarlardan, cep hesap makinelerine kadar bugün hesap makineleri bu yöntemle hesap etmektedirler. IEEE-754 standardı ile tanımlanan kayan nokta formatı da Zuse’nin geliştirme çalışmalarının bir ürünüdür.
+Daha Z1 için çalışırken mekanik çalışma prensibini elektromekanik röle sistemine bağdaştırdı. İlk önce Z2 prototipini 1939 da bitirdi. 1940 da Uçak Araştırma-Geliştirme Müdürlüğünün direktörüne gösterim sonunda cihazının geliştirilmesi için maddi destek almayı başardı.
+Z3 – Dünyanın ilk yazılımla çalışabilen bilgisayarı.
+1941'de kendi kurduğu mühendislik firmasının atölyesinde Z3'ü inşa ettiler. Tam otomatik, sayısal kayan nokta ile çalışabilen bellekli olan ana ünitesi telefon rölelerin den oluşuyordu. Hesaplamalar programlana bilirken, satır takip ve tekrarlamalar yapılamıyordu. Bugün Z3 dünyanın çalışabilen ilk bilgisayarı olarak tanımlanmıştır.
+Cihaz pratik alanda işleme konulmuş ve karmaşık matris hesaplamalarda, özellikle uçakların kanat titreme (birçok uçak kazasına sebep olan semptom) araştırmalarının hesaplamalarında çalıştırıldı. Ancak Z3 hiçbir zaman öncelikli sıfatı ile tanımlanmadığından rutin işletme ile çalıştırılmadı ve 1944'te bir bomba saldırısında tahrip oldu.
+İşlemci ile hesaplama fikri.
+Henschel Uçak Fabrikaları için uçak kanat hesapları için sabit programlanmış özel hesap makineleri S1 (1942) ve S2 (1943)'yi geliştirdi. Bu sırada ölçüm saatlerin otomatik okunmasını mekanizleştirme fikrini yarattı. Bunun için yarattığı alet ilk Analog-to-Digital Converter’dir. 1944'te fabrikanın taşındığı atölyelerinde ilk komut prozesli hesap makinesini üretti.
+Z4 – Alman Bilgisayar Sanayiisin ivmesi.
+Z3'ün gelişmiş modelini Alman Uçak Geliştirme Müdürlüğünce desteklenmişti. Röle çalıştırma prensibine dayalı modeldi. Bu zamana kadar üretilen makinelerin adları Z ile başlarken, personelin savaş nedeni ile V4 diye adlandırılması, roket adları V1 ve V2 (V = Vergeltungwaffe / İntikam silahı)'ye bağdaştırılarak tanımlandırılmış. Böylece savaşta çekilen ordu ile Göttingen şehrine kaçırılabilinmiş. Burada toplama kamplarında savaş esirlerden haberdar olan Zuse, Wernher von Braun'un grubuna katılabilmiş ve onlarla beraber Bavyera’ya sığındılar.
+Bir zaman sonra Allgäu bölgesine yerleşen Zuse burada Z4'ü bir ahırda tekrar üretti. Savaş sonunda yaptığı yağlı boya tabloları Amerikan turistlere satarak ailesinin geçimin sağlayan Zuse’nin Z4 üzerine yayılan dedikodular sonunda IBM'in ilgisini çeker ve bu makinenin geliştirilmesi ve üretilmesini patent haklarını koruma sebebi nedeniyle engellemek istendi. Amerikalı bilgisayar üreticisi Remington Rand ile delikli şerit için işbirliğine girişti. 1949'da Zürih Teknik Üniversitesinden Prof. Eduard Stiefel Zuse’yle buluşmasında Z4’ün gösterimine şahit oldu. Büyük bir miktarda kiralama ücreti ile Zuse tekrar bir şirket (Zuse KG) kurma fırsatını yakaladı. 1954 de Avrupa’da çalışabilen yegane bilgisayar ve dünyada tek kurumsal bilgisayar unvanını alan Z4, UNIVAC'tan da birkaç ay önce faaliyete geçebildiydi.
+Plankalkül – bir üst programlama dili.
+1937'de Zuse makineleri üzerine çalışırken "mantıksal varsayım dengeleme"yi yeniledi. Z4 üzerine çalışırken proglama için gerekli makine dilinin pratik olmadığını ve zor öğrenildiğini fark eden Zuse, bunun üzerinde daha geliştirilmiş bir üst dile ihtiyaç olduğunu fark etti. İlk önce Esperanto dilini buna uygun gördü. 1945/46 senelerinde savaş nedenleriyle verimli çalışmalar yapamazken, "mantıksal varsayım dengeleme"yi (Alm. Plankalkül) geliştirken bunu yayımlayamadı. Üstün programlama dil fikri tam on sene sonra yeniden gündeme geldiğinde Fortran, Algol ve Cobol dilleri yaratıldılar. Plankalkül ise bu dillere göre daha universel iken, ancak 2000 senesinde uyarlaması gerçekleştirelebildi.
+Patent kayıt işleminin reddi.
+Zuse savaş zamanında birçok patent için başvurmuştu. Bunlardan en önemlisi ise 1941'de Z3'ün tanımlaması idi. Alman patent denetleyicilerinin bir itirazı olmadığından 1952'de patent hakkı verilip yayımlandı. İlk önce Triumph sonra da IBM buna itiraz ettiler. Dava birçok mahkemede bakılırken nihayet 1967'de Federal Patent Mahkemesi tarafından "yetersiz icad değeri" sebebi ile patent hakkı Zuse’ye red edildi. Prosesli çalıştırma fikrini patentleme de Zuse’nin hiç aklına gelmedi.
+Zuse KG şirketi.
+Savaştan sonra Neunkirchen’de Zuse KG kuruldu. Baş harfleri Z olan seri numaralı birçok bilgisayar seri üretildi. Z5 ile Leitz firması objektiflerin hesaplamalarını yaptı. Z11 ise halen röle tekniği ile çalışırken birçok müdürlükte ve optik branşında, üniversitelerde, tapu kadastro müdürlüklerinin hesaplama işlemlerinde kullanıldı. Elektroniğin kullanılmaya başlaması ile yeni sayma işlemleri yaratılırken, ilk defa 1955'te Z22 ile kathod lambalar kullanılırken, bilgiler manyetik taşıyıcılara kayıt edildiler.
+1957'de Bad Hersfeld’e taşınan şirket 1967 ye kadar 251 bilgisayar üretti. Şirket "Graphomat Z64" adlı ilk plotteri üretti.
+Hızlı büyüme safhasında olan şirkete, bankaların bilgisayarın bilinmeyen bir şey olmasını ve geleceği görememeleri nedeniyle ancak yüksek faizli kredi vermeye yanaşmaları ve bu arada devlet desteğinin de olmaması sonucu Z25 üretiminde sıkıntılar yaşayan firma iflasının eşiğine geldi. 1964 senesinde aktif hissadarlıktan Zuse ayrılınca, şirket önce Alman BBC sonrada 1967 senesinde Siemens tarafından üstlenildi.
+Ödülleri.
+Toplam 8 fahri doktor unvanına sahip olan Zuse’ye, Bilişim Derneği (Gesellschaft für Informatik) ve Alman İnşaat Endüstrisi Merkez Birliği (Zentralverband des Deutschen Baugewerbes) bilişim üzerine üstün hizmetlerinden dolayı madalya verdiler.
+Alman Liyakat nişanınına (1995), Wener-von-Siemens yüksüğüne (1964) ve Wilhekm-Leuschner madalyasına laik görüldü.
+1980'de 60 bin DM'lık Aachen ve Münih Teknik ve Fen özel ödülü ile onurlandırıldı.
+1984'de Konrad Zuse Bilişim Teknoloji Merkezi açıldı.
+1985'te Bilişim derneğinin onursal üyesi oldu. 1987'den beri her iki senede bir Konrad Zuse madalyası vermektedir.
+1995'de CCC (Chaos Computer Club) diye Almanya çapında ünlü bilgisayarcılar derneğinin onursal üyesi oldu. Hoyerswerda şehri fahri hemşeriliğini verdi.
+2002 senesinde Weimar Bauhaus Üniversitesi’nin kampüsünde açılan bilişim merkezine adı verildi.
+2003 senesinde Alman televizyonu ZDF tarafından yapılan ankette en büyük 15. Alman seçildi.
+Konrad Zuse adı ve hizmetleri birçok teknik okulunun adı verilirken özel posta pullarına ve, teknik müzelerin adlarına verildi. 100. doğum gününde özel baskı 10€'luk madeni paralar basıldı.
+Zuse bilgisayarların teşhirleri.
+Zuse tarafından tekrardan yapılan dünyanın ilk bilgisayarı Z1'in yanında Z11, Z22, Z23, Z25, Z31, Z60 ve Z64 bilgisayarları Alman Teknik Müzesi Berlin’in özel Zuse bölümünde teşhir ediliyorlar. 
+Hünfeld şehrinin müzesinde bir Zuse bölümü olup burda Z23, Z25, Z31 ve Z64 Graphomat örnekleri teşhir ediliyorlar.
+Karlsruhe Yüksek Meslek Okulu'nda 2005'e kadar faaliyette olan bir Z22 vardı ve bu 2005 sene başında Sanat ve Medyateknoloji Merkezi’nde çalışır vaziyette gösterim için tekrar kuruldu. Bugün sık sık bozulan ve yedeklerinin tedariki neredeyse imkânsız olan kathod lambalarının bakım maliyeti çok yüksek olması sebebi ile, pek seyrek gösterişi yapılmaktadır. Daha bazı çeşitli Z modelleri faaliyet halinde iken çeşitli müzelerde teşhir edilmektedirler.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Wilhelm Schickard</DOCTITLE>
+<TEXT>
+
+Wilhelm Schickard, (d. 22 Nisan 1592 Herrenberg - ö. 23 Ekim 1635 Tübingen) hesap makinesini icat etmiş alman bilim adamıdır. Tübingen Üniversitesi'nde eğitim görmüş, daha sonra bu Üniversite'de akademisen olmuştur.
+1623 yılında icat ettiği hesap makinesi 6 haneye kadar toplama çıkarma yapabilmekte ve sayı basamakları yetmeyince çalan bir zille bunu kullanıcıya bildirmektedir. Blaise Pascal hesap makinesininin muciti sanıldığından, Wilhelm Schickard çok az kişi tarafından bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Heron</DOCTITLE>
+<TEXT>
+
+İskenderiyeli Heron, (d. MS. 10 - ö. MS. 70) 2. yüzyılda yaşamış Yunanlı matematikçi ve mekanik uzmanıdır. Ünlü Heron çeşmesi makinesini (eolipil) icat eden kişi olduğu sanılmaktadır.Ayrıca optikle de uğraşmış ve Katoptrikos adlı optik kitabını yazmıştır.Bu kitapta içbükey dışbükey ve düzlem aynaların işleyişlerini ele almıştır.İlkesel bir şekilde ışığın en kısa izlediği yolu bulup, yansıma ve geliş açıları ile ilgili tezlerini doğrulamıştır. Matematikte de hacimsel olayları ele almıştır.
+Babil ve Mısır geometrilerini Yunan geometri biçimiyle birleştirip, yalnızca uygulamada işe yarayan formülleri kitaplarında kullanmıştır.
+"İlk buhar türbünlü motoru icat etti.Bu cihaz belkide 2000 yıl öncenin sanayi devrimini başlattı. Buhar makinesinin ve Bilgisayar programlamanın temelini oluşturdu.Makine Mühendisliği'nin temelini oluşturdu.
+Antik çağda tiyatro'nun gelişmesini sağladı.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Buhar makinesi</DOCTITLE>
+<TEXT>
+
+Buhar makinesi, buharın içinde var olan ısı enerjisini, mekanik enerjiye dönüştüren bir dıştan yanmalı motordur. Buhar makineleri, lokomotifler, buharlı gemiler, pompalar, buharlı traktörler ve endüstriyel devreler olabilir.
+Bir buhar makinesi basınç altında buhar üretmek için suyu kaynatacak bir kazana ihtiyaç duyar. Herhangi bir ısı kaynağı kullanılabilir, fakat genelde odun, kömür veya petrol türevi yakıtların yakılmasından elde edilen ateş kullanılır.
+Çalışma prensibi olarak, ısı enerjisini alan su buharlaşarak genişler ve bir odacığa alınır, odacık soğutulduğunda sıvı hale geçen buhar vakum yaratır böylece mekanizmaların hareket alması ile mekanik enerjiye yani işe dönüşür.
+İlk örnek.
+Bilinen ilk buhar makinesi diyebileceğimiz örnek Mısırlı mühendis Heron'nun birinci yüzyılda 50 yıllarına doğru Mısır İskenderiye'de uçları birbirlerine göre zıt yönleri gösteren iki eğik tüpün yerleştirildiği oyuk bir küreden yaptığı türbin’dir. Kürede su kaynatıldığında buhar borulardan dışarı çıkmakta günümüzde etki tepki kanunu dediğimiz şeyin sonucunda kürenin dönmesine yol açmakta idi. Hero buharlı bir türbin ya da motor icat etmesine rağmen toplumda bir etki yaratmadığından bunu motor aygıtının icadı olarak görülmemektedir
+Buhar gücünün ilk faydalı uygulaması.
+Buhar gücünün Heron tarafından uygulamasından sonra 1679 yılında ilk faydalı uygulama Fransız fizikçi Denis Papin ‘den (1647-1712) geldi. İçinde suyun kaynadığı ve biriken buharın suyun kaynama noktasını yükselttiği sıkıca kapanan bir kapağı olan düdüklü tencere icat edilmişti. Papin’in dikkat ettiği şey daha yüksek ısıda kemikler yumuşuyor ve et daha çabuk pişiyordu. Tencereye buhar basıncının çok yükselmesine karşın bir de güvenlik vanası eklenmişti.
+Buhar makineleri.
+Savery makinesi.
+1698 yılında, İngiliz mühendis Thomas Savery (1650-1715), ilk ticari olarak satılan buhar makinesini yapmıştır. Bu makine maden ocağından suyu dışarı atmak amacıyla kullanılmıştır. Madencinin Arkadaşı olarak tanınmaktaydı.
+Çalışma prensibi ise şöyledir:
+Buhar kazanından gelen buhar odacığa dolar. Odacık buhar ile doluyken üzerine soğuk su döküldüğünde suya dönüşen buhar vakum yaratır; böylece odacıktaki su seviyesi yükselir. Vana yardımıyla odaya buhar dolduğunda iş yapılmış olur yani madenden su çekilmiş olur. Bu makinede vanalar insan gücüyle sırayla kapatılıp açılması gerekmektedir.
+Yüksek basınçla çalıştığından o günün teknolojisine göre bu tip bir buharı güvenli biçimde kullanacak düzeyde değildi. Ayrıca gerekli buharı oluşturmak için suyu ısıtmada çok fazla yakıt gerekliydi. Bu tip makinaların öncülü olan Savery’nin makinası verimi düşük olduğundan fazla kullanılmadı fakat kendinden sonra gelen makinalar için temel teşkil etti.Makinenin çalışma şeması
+Newcomen makinesi.
+1712 ‘de İngiliz mühendis Thomas Newcomen (1663-1729) yeni bir tür buhar makinesi geliştirdi. Bu makinenin Savery Makinesinden en büyük avantajı pistonun bir zincir yardımıyla tahterevalli benzeri bir tür kaldıraca tutturulmuş olmasıydı. Bu kaldıracın diğer ucu ise bir tür tulumbaya bağlanmıştı. Piston silindirin en üst noktasında iken silindirin içine gönderilen soğuk su buharı yoğunlaştırıyordu. Böylece atmosferik basınç pistona aşağıya doğru kuvvet uyguladığı anda su madenden yükseliyordu. Buhar pistona dolunca bu çevrim tekrar ediyordu.
+Ayrıca daha az tehlikeliydi. Yine de makine istenilen verime ulaşamamış ve yakıt tüketimi azalmamıştı.
+Watt makinesi.
+1764 yılında bozulan Newcomen makinalarından biri onarılması için İskoçyalı mühendis James Watt'a verildi. Makinayı onaran watt aynı zamanda randımanı düşük bu makineyi geliştirmek de istedi. Arkadaşı İskoç kimyacı Joseph Black'tan gizli ısıyı öğrenmiş olan Watt aynı odayı sürekli ısıtıp soğutmanın ne kadar israflı bir şey olduğunu anladı ve aklına iki oda yapmak fikri geldi. Biri sürekli sıcak, diğeri de sürekli soğuk tutulacaktı. Buhar işini yaparken sıcak odada bulunacaktı ve su haline getirilmesi gerektiğinde supaplar sistemiyle soğuk odaya alınacaktı.
+Watt 1781 yılına gelindiğinde makinasını iyice geliştirmiş ve pistonun ileri geri hareketini ustalıkla bir tekerleğin dönme hareketine çeviren mekanik aletleride icat etmişti. Watt'ın makine tarihi ve makine mühendisliğine katkıları çok büyük önem taşır.
+Buhar türbinleri.
+1884 yılında İngiliz mühendis Charles Algernon Parsons (1854-1931) ilk başarılı buhar türbinini yapmıştır. Bu sayede yüksek hızlı gemi yapımı kolaylaşmış. Jeneratörlerin de kullanılması kolaylaşmıştır.
+Buhar makinasının verimi.
+James Watt’ın geliştirmesine rağmen buhar makinalarının verimi halen %7 civarında idi kalan %93 boşa giden ısı olarak kayboluyordu.
+Buhar makinasının verimini inceleyen ilk kişi Fransız fizikçi Nicolas Leonard Sadi Carnot’tur (1796-1832) 1824 yılında yayımladığı Ateşin Tahrik Kuvveti Üzerine isimli kitabında buhar makinasının maksimum veriminin en sıcak halindeki buhar ile en soğuk halindeki suyun sıcaklığı arasındaki farka bağlı olduğunu gösterdi. Carnot ısı ve işin birbirlerine dönüşmesi yolunu ilk olarak ele alan kişi olduğundan Termodinamik biliminin kurucusu kabul edilmektedir.
+Buharlı ulaşım araçları.
+Buharlı gemiler.
+1787 yılına kadar buharlı motorlar sadece su pompalarını ve tekstil makinalarını çalıştırmak için kullanılmıştı. 22 Ağustos 1787 yılında ise Amerikalı mucit John Fitch (1743-1798) ilk vapuru Delaware Nehri’ne indirmiştir. Bir süre Philaderphia ile Trenton arasında düzenli vapur yolculuğu yapılmasını sağlamıştır.Fakat Fitch ticari anlamda başarı kazanamamıştır. 1807 yılına gelindiğinde ise yine Amerikalı mucit olan Robert Fulton saatte 8 km hızla giden adını Clermont koyduğu kırk metre uzunluğundaki vapurları Hudson Nehri’nde işletmeye başladı. Bu sefer Fitch’in tersine ticari başarı kazanıldığından Fulton vapuların mucidi kabul edilmektedir. 1809 yılında ise Moses Rogers komutası altındaki Phoenix okyonusa açılan ilk buharlı vapur oldu.1811 yılında Mississippi Nehri üzerinde işleyen ilk gemi New Orleans faaliyete geçti.
+Okyanusu aşan ilk gemi ise 1819 yılında Georgia Savannah’tan İngiltere’deki Liverpool’a beşbuçuk haftada ulaşan Savannah isimli gemi oldu. Yolculuğun büyük kısmı yelkenlerin açılması ile bitirildiğinden aslında buharlı gemi sayılmazdı.
+1827 yılında Türbinlerin ve gemi pervanesinin keşfedilmesi sonucu , pervanenin yan çarktan daha etkili olduğu anlaşıldı ve gemi teknolojisi hızla gelişti 
+Buharlı Lokomotifler.
+İlk buharlı motorların gemilerde kullanılmasından sonra 1804 yılında Richard Trevithick bir vagonun şasesi üzerine sabit bir buhar motoru yerleştirerek dünyanın ilk buharlı lokomotifini üretti. Yaptığı özel yolda lokomotifini hareket ettirerek gösteri düzenlemiş fakat bundan ticari bir kazanç elde edememiştir.
+1825 yılına gelindiğinde ise İngiliz mucit George Stephenson geliştirilmiş buharlı motorlardan faydalanarak ilk buharlı lokomotif denebilecek ve adına Rocket dediği aracı yaptı.
+Buharlı otomobil.
+Bilinen ilk örnek Fransız mühendis Nicolas Joseph Cugnot tarafından yapılan Fardier’dir. Nicholas Joseph Cugnot küçük ölçekte yaptığı iki kazanlı Newcomen makinesini üç tekerlekli bir arabaya yükleyerek 1769 yılında deneme yapmıştır. Fakat buharlaşma yoluyla azalan kazan suyunu yenileyecek bir sistem olmadığından araç 15 dakikada bir durmak ve su ikmali yapıp suyun kaynamasını beklemek gerekmekteydi.
+Buhar makinesi tipleri.
+Buhar makineleri iki ana başlıkta sınıflandırılabilir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Clive Sinclair</DOCTITLE>
+<TEXT>
+
+Sör Clive Sinclair (d. 30 Temmuz, 1940 Richmond upon Thames), İngiliz mucittir.
+Sinclair, 1972'de dünyanın ilk cep hesap makinesini, 1977'de ilk cep televizyonunu, 1980'de de ilk ev bilgisayarı olan Sinclair ZX80'i icat ederek dünya çapında üne ulaşmıştı.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>John Vincent Atanasoff</DOCTITLE>
+<TEXT>
+
+John Vincent Atanasoff, şu an kullandığımız türde bilgisayarla örtüşecek cihazı icat eden ve bilgisayar devrini başlatan kişidir. 
+Babası Bulgaristan göçmeni olmasına rağmen Jonh Atanasoff Amerika NewYork doğumludur. Öğrenim yıllarında ki başarısı oldukça göz dolduran Atanasoff liseyi iki yılda bitirdi ve teorik fizikçi olmaya karar verdi. Bu amaçla 1922'de Gainesville'deki Florida Üniversitesi'ne girdi. Atanasoff bir takım sebeplerle üniversite hayatına fizik yerine elektrik mühendisliği programından başladı. Fakat Atanasoff' un bu başlangıcı yapması, ileride tohumlarını atacağı ilk bilgisayarın gelişimnde ve planlanmasında çok yardımcı olacaktı.
+1925 yılında Üniversite' den mezun olduktan sonra lisansüstü eğitimini Iowa Eyalet Üniversitesi'nde matematik alanında bitirdi. Lisansüstü eğitiminin hemen ardından Üniversitenin ona sunduğu teklifi kabul ederek fizik ve matematik öğretmenliği görevine başladı. Daha sonra Wisconsin Üniversitesi'nde doktora programına kabul edildi ve böylece 1930 yılında Wisconsin Üniversitesi'nden teorik fizik alanında doktora derecesini aldı. Doktora tezinde birçok karmaşık ve zaman alan hesaplama ile uğraşması ve bunları otomatik olarak yapabiliyor olması gerekiyordu. Atanasoff hesaplamalarla uğraşmak yerine bunları kendisi yerine yapabilecek bir Monroe hesap makinesini kullandı. Fakat kullandığı alette o kadar çok kusur bulmuştu ki bu Atanasoff' un ileride daha iyisini yapması için bir teşvik gibi geldi ve Atanasoff teorik fizik alanında doktorasını tamamladıktan sonra Iowa Eyalet Üniversitesi'ne döndü ve hem daha hızlı hem de daha iyi bir hesap makinesi geliştirmek için çalışmaya başladı.
+1930 lü yılların başına gelmiş olmasına rağmen halen bu hesap makinesini geliştirme yollarını arıyordu. O sıralarda kendi öğrencilerinden biri olan Clifford Berry ile birlikte çalışarak, ilk elektronik dijital bilgisayarın prototipini yani Atanasoff–Berry Computer (ABC)'ı geliştirdi ve inşa etti. Makinede ki temel fikir, doğrusal denklemleri eş zamanlı çözmek için ikilik tabandaki matematiği ve boolean(doğru-yanlış) mantığı içeriyordu. İlk prototip 1942'de bütünüyle tamamlanmış olacaktı.
+Makinenin bir mikro işlemcisi yoktu fakat dijital hesaplamalar için kullanılacak elektronik bir aygıt gibi tasarlanmıştı. 
+1941'de önemli bir olay gerçekleşti. Atanasoff iş arkadaşı John W. Mauchly'i evine misafir olarak davet etti. Atanasoff'un bilgisayar teknolojisi ile ilgili olan çalışmalarına çok meraklı olan John W. Mauchly bu teklifi memnuniyetle kabul etti. Asıl önemli soru bu ziyaret sırasında Atanasoff ile Mauchly arasında nelerin konuşulduğu ve Mauchly' nin Atanasoff'tan nelere sızdırdığı. Zira bundan 26 yıl sonra John W. Mauchly ve John P. Eckert ENIAC adında bir bilgisayar geliştirdiler ve bunda Atanasoff' un icadını kopyaladılar. 
+İlk bilgisayar olarak kabul gören ENIAC Ekim 1973'te mahkeme kararıyla patentini kanıtlara dayanarak kaybetti. Hukuk John W. Mauchly'nin elektronik sayısal bilgisayarı için gerçek fikrin Atanasoff-Berry Computer (ABC)'dan geldiği kararını verdi. Ayrıca mahkeme ilk bilgisayarın Atanasoff ve Berry tarafından IOWA Üniversitesinde 1939 ve 1941 yılları arasında yapıldığını karara bağladı. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alva J. Fisher</DOCTITLE>
+<TEXT>
+
+Alva John Fisher 1862 yılında doğmuş 1947 yılında ölmüştür. 1906 yılında dünyanın ilk çamaşır makinesini yapmıştır. Bu çamaşır makinesinde kirli çamaşırlar yatay olarak yerleştirilmiş metal bir tamburun içine konuluyordu. Tambur elektrik motoru ile döndürülüyor çamaşırlar birbirlerinin üzerinden yuvarlanırken yavaş yavaş temizleniyordu.Alva Fisher'dan sonra onun icat ettiğinden daha iyi olan elektrikli çamaşır makineleri bulunmuştur.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çamaşır makinesi</DOCTITLE>
+<TEXT>
+
+Çamaşır makinesi 1908'de Alva John Fisher tarafından icat edildi. Makinenin içine yatay olarak yerleştirilmiş metal tambura kirli çamaşırlar konuluyordu. Tambur, elektrik yardımıyla döndürülüyor ve hareket sırasında çamaşırlar sürekli suyla temas ederek temizlenmiş oluyordu. İlk kurutuculu çamaşır makinesi ise 1924'te üretildi.1937 yılında Bendix Corporation adlı şirket ilk tam otomatik çamaşır makinesini üretti. 1940′lı yıllardan itibaren tam otomatik makineler ev hanımlarının hizmetine girmeye başladı. 1950'li yıllarda yavaş yavaş dünyaya yayılıyordu. 1962'lere doğru gelişme yaşanıyordu halka yavaş yavaş kolaylıklar sağlanıyordu
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karaoke</DOCTITLE>
+<TEXT>
+
+Karaoke (カラオケ?, Japonca birleşik ad: kara 空 "boş, yok", ve ōkesutora オーケストラ "orkestra", orkestranın yokluğu, solistsiz orkestra)
+Japon kökenli bir eğlence anlayışıdır. Türk Dil Kurumu'nun sözlüğünde bulunmayan bir sözcüktür. Türkçedeki sesletiminden ötürü bazen "kareoke" de denir.
+Orijinal şarkıdan sözler çıkarılır. Kişinin önündeki ekrandan (karaoke makinesinden) veya kâğıttan sözlerini takip ederek mikrofonla topluluğa şarkıyı söylemeye çalışmasına verilen isimdir. Şarkı sözleri genelde şarkıcıya yol göstermek amacıyla video ekranında değişen bir simge ya da renkle veya müzikli/videolu gösterilir. 
+Karaoke makinesini 1971'de Inoue Daisuke bir otomobil teybi ile bir madeni para kutusu ve küçük bir amfiyi birleştirerek icat etti.
+
+</TEXT>
+</DOC>
+

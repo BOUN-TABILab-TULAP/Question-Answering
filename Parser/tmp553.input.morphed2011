@@ -1,0 +1,52 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Memelileri	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3pl+Nom
+Memelileri	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3sg+Nom
+Memelileri	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Acc
+Memelileri	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P3pl+Nom
+Memelileri	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3pl+Nom
+Memelileri	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P3pl+Nom
+Memelileri	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Acc
+Memelileri	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3sg+Nom
+Memelileri	memeli	+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+Memelileri	memeli	+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+Memelileri	memeli	+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+Memelileri	memeli	+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+Memelileri	memeliler	+Noun+A3pl+Pnon+Acc
+Memelileri	memeliler	+Noun+A3pl+P3sg+Nom
+
+diğer	diğer+Adj
+
+omurgalılardan	omurga	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Abl
+omurgalılardan	omurgalılar+Noun+A3pl+Pnon+Abl
+
+ayıran	ayır+Verb+Pos^DB+Adj+PresPart
+
+özellikler	özellik+Noun+A3pl+Pnon+Nom
+özellikler	özellik+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

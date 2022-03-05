@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Açık açık+Adverb açık+Adj Açık+Noun+Prop+A3sg+Pnon+Nom
+tohumlu tohum+Noun+A3sg+Pnon+Nom^DB+Adj+With
+bitkilerde bitki+Noun+A3pl+Pnon+Loc
+üreme üre+Noun+A3sg+P1sg+Dat üre+Verb+Neg+Imp+A2sg üre+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ürem+Noun+A3sg+Pnon+Dat
+nasıl nasıl+Adverb nasıl+Adj
+gerçekleşir gerçek+Adj^DB+Verb+Become+Pos+Aor+A3sg gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+AorPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Aor+A3sg gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

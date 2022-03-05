@@ -1,0 +1,128 @@
+Bileşik sayı
+Bileşik birinci veya kendisi dışında, en az bir pozitif bölen sahip pozitif bir tamsayıdır. Diğer bir deyişle, bileşik sayı asal bir sayı "değil" olandan bir pozitif tam sayı daha fazladır.
+Yani, eğer "n"> 0 bir tamsayı ve tamsayılar orada 1 < "a", "b", < "n" öyle ki "n" = "a" × "b" ve ardından "n" kompozit toplamak vardır. Tanım olarak, her biri bir asal sayı ya da bileşik sayı ya olan daha büyük tamsayı. numaralı bir birim; prime ne kompozit ne olduğunu. o 2 × 7. olarak çarpanlarına olabilir çünkü Örneğin, tamsayı 14 kompozit sayı her biri sadece biri ve kendisi tarafından ayrılabilir çünkü Aynı şekilde, tamsayılar 2 ve 3 kompozit sayılar değil olmasıdır.
+İlk 114 kompozit numaraları (bütün kompozit sayılar 150 eşit veya daha az) olan
+Her bileşik sayı, örneğin, bileşik sayı 299 13 * 23 olarak yazılabilir, iki veya daha fazla (mutlaka farklı değil) asal ürünü olarak yazılmış olabilir, ve kompozit sayı 360 yazılı olabilir 2 * 2 * 2 olarak * 3 * 3 * 5'tir; Bundan başka, bu gösterim faktörlerinin sıraya kadar eşsizdir. Bu aritmetiğin temel teoremi olarak adlandırılır.
+mutlaka bir kompozit giriş çarpanlara açığa çıkarmadan, bir sayı asal veya kompozit olup olmadığını belirlemek için çeşitli bilinen primality testleri vardır.
+Türleri.
+Kompozit numaraları sınıflandırmak için bir yolu asal çarpanlar sayarak olduğunu. iki asal faktörler ile bir kompozit sayı yarıasal ya da 2-asalımsı (faktörler dolayısıyla asal kareler dahil farklı olması gerekmez) 'dir. üç ayrı asal faktörler ile bir kompozit sayı sphenic sayıdır. Bazı uygulamalarda, bir garip ayrı asal faktörlerin sayısı ve farklı asal çarpanlar çift sayıda olanlar ile kompozit sayılar arasında ayrım yapmak gereklidir. ikincisi
+(Μ Möbius fonksiyonu nerede ve "x" asal çarpanlar yarısı toplamı olan) eski için ise
+Ancak asal sayılar için, fonksiyon aynı zamanda -1 döndürür ve formula_3. bir veya daha fazla tekrarlanan asal çarpanlar bir sayı "n" için,
+Bir sayının "tüm" ana faktörler tekrarlanır Eğer güçlü bir numara olarak adlandırılır. Başbakan faktörlerin "hiçbiri" tekrarlanan iseniz, squarefree denir. (Tüm asal sayılar ve 1 squarefree bulunmaktadır.)
+Kompozit numaraları sınıflandırmak için başka bir yolu bölenler sayısını sayarak gereğidir. Tüm kompozit sayılar en az üç bölenler var. asal kareler halinde, bu bölenler formula_5 bulunmaktadır. herhangi bir "x" daha fazla bölenler olan bir sayı "n" < "n" (ilk iki tür sayılar 1 ve gerçi 2) yüksek kompozit sayıdır.
+Çarpanlara.
+Burada 150 ve çarpanlara daha az ya da buna eşit, tüm kompozit numaraları:
+4 = 2 * 2
+6 = 2 * 3
+8 = 2 * 2 * 2
+9 = 3 * 3
+10 = 2 * 5
+12 = 2 * 2 * 3
+14 = 2 * 7
+15 = 3 x 5
+16 = 2 * 2 * 2 * 2
+18 = 2 * 3 * 3
+20 = 2 * 2 * 5
+21 = 3 * 7
+22 = 2 * 11
+24 = 2 * 2 * 2 * 3
+25 = 5 * 5
+26 = 2 * 13
+27 = 3 * 3 * 3
+28 = 2 * 2 * 7
+30 = 2 * 3 * 5
+32 = 2 * 2 * 2 * 2 * 2
+33 = 3 x 11
+34 = 2 * 17
+35 = 5 * 7
+36 = 2 * 2 * 3 * 3
+38 = 2 * 19
+39 = 3 x 13
+40 = 2 * 2 * 2 * 5
+42 = 2 * 3 * 7
+44 = 2 * 2 * 11
+45 = 3 * 3 * 5
+46 = 2 * 23
+48 = 2 * 2 * 2 * 2 * 3
+49 = 7 x 7
+50 = 2 * 5 * 5
+51 = 3 x 17
+52 = 2 * 2 * 13
+54 = 2 * 3 * 3 * 3
+55 = 5 * 11
+56 = 2 * 2 * 2 * 7
+57 = 3 x 19
+58 = 2 * 29
+60 = 2 * 2 * 3 * 5
+62 = 2 * 31
+63 = 3 * 3 * 7
+64 = 2 * 2 * 2 * 2 * 2 * 2
+65 = 5 * 13
+66 = 2 * 3 * 11
+68 = 2 * 2 * 17
+69 = 3 x 23
+70 = 2 * 5 * 7
+72 = 2 * 2 * 2 * 3 * 3
+74 = 2 * 37
+75 = 3 * 5 * 5
+76 = 2 * 2 * 19
+77 = 7 * 11
+78 = 2 * 3 * 13
+80 = 2 * 2 * 2 * 2 * 5
+81 = 3 * 3 * 3 * 3
+82 = 2 * 41
+84 = 2 * 2 * 3 * 7
+85 = 5 * 17
+86 = 2 * 43
+87 = 3 x 29
+88 = 2 * 2 * 2 * 11
+90 = 2 * 3 * 3 * 5
+91 = 7 * 13
+92 = 2 * 2 * 23
+93 = 3 * 31
+94 = 2 * 47
+95 = 5 * 19
+96 = 2 * 2 * 2 * 2 * 2 * 3
+98 = 2 x 7 x 7
+99 = 3 * 3 * 11
+100 = 2 * 2 * 5 * 5
+102 = 2 * 3 * 17
+104 = 2 * 2 * 2 * 13
+105 = 3 * 5 * 7
+106 = 2 * 53
+108 = 2 * 2 * 3 * 3 * 3
+110 = 2 x 5 x 11
+111 = 3 * 37
+112 = 2 * 2 * 2 * 2 * 7
+114 = 2 * 3 * 19
+115 = 5 * 23
+116 = 2 * 2 * 29
+117 = 3 * 3 * 13
+118 = 2 * 59
+119 = 7 * 17
+120 = 2 * 2 * 2 * 3 * 5
+121 = 11 * 11
+122 = 2 * 61
+123 = 3 x 41
+124 = 4 * 31
+125 = 5 * 5 * 5
+126 = 2 * 3 * 3 * 7
+128 = 2 * 2 * 2 * 2 * 2 * 2 * 2
+129 = 3 x 43
+130 = 2 x 5 x 13
+132 = 2 * 2 * 3 * 11
+133 = 7 * 19
+134 = 2 * 67
+135 = 3 * 3 * 3 * 5
+136 = 2 * 2 * 2 * 17
+138 = 2 * 3 * 23
+140 = 2 * 2 * 5 * 7
+141 = 3 x 47
+142 = 2 * 71
+143 = 11 * 13
+144 = 2 * 2 * 2 * 2 * 3 * 3
+145 = 5 * 29
+146 = 2 * 73
+147 = 3 x 7 x 7
+148 = 2 * 2 * 37
+150 = 2 * 3 * 5 * 5

@@ -1,0 +1,16 @@
+1	Mutasyona	mutasyon	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+2	neden	neden	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	_	ol	Verb	Verb	Pos	_	_	_	_
+4	olan	_	Adj	APresPart	_	_	_	_	_
+5	faktörlerden	faktör	Noun	Noun	A3pl|Pnon|Abl	_	_	_	_
+6	dolayı	dolayı	Postp	Postp	PCAbl	_	_	_	_
+7	kromozomda	kromozom	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+8	parça	parça	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	_	eksil	Verb	Verb	Pos	_	_	_	_
+10	eksilmesi	_	Noun	NInf	A3sg|P3sg|Nom	_	_	_	_
+11	olayına	olay	Noun	Noun	A3sg|P3sg|Dat	_	_	_	_
+12	ne	ne	Adj	Adj	_	_	_	_	_
+13	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+14	_	ver	Verb	Verb	_	_	_	_	_
+15	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+16	.	.	Punc	Punc	_	_	_	_	_

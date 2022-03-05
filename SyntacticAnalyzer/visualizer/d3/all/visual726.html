@@ -1,0 +1,88 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Depremler oluşumlarına göre kaça ayrılır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(8055, {label: "Ağaçlar",nodeclass: "type-TK"});
+ g.addNode(8056, {label: "yapraklarının",nodeclass: "type-TK"});
+ g.addNode(8057, {label: "özelliklerine",nodeclass: "type-TK"});
+ g.addNode(8058, {label: "göre",nodeclass: "type-TK"});
+ g.addNode(8059, {label: "kaça",nodeclass: "type-TK"});
+ g.addNode(8060, {label: "ayır",nodeclass: "type-TK"});
+ g.addNode(8061, {label: "ayrılırlar",nodeclass: "type-TK"});
+ g.addNode(8062, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,8055,8056,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,8056,8057,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,8057,8058,{label: "NESNE"});
+ g.addEdge(null,8058,8059,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8059,8061,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8060,8061,{label: "TÜREME"});
+ g.addEdge(null,8061,8062,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

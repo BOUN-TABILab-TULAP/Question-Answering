@@ -1,0 +1,5 @@
+1	2+2	2	2	Prop	A3sg|Pnon|Nom	3	OBJECT	_	_
+2	_	kaç	Verb	Verb	_	3	DERIV	_	_
+3	kaçtır	_	Verb	Verb	Caus|Pos|Imp|A2sg	4	SENTENCE	_	_
+4	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,7 @@
+1	Göbek	göbek	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	kordonu	kordon	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT	_	_
+3	ne	ne	Adj	Adj	_	4	MODIFIER	_	_
+4	işe	iş	Noun	Noun	A3sg|Pnon|Dat	5	OBJECT	_	_
+5	yarar	yarar	Noun	Noun	A3sg|Pnon|Nom	6	SENTENCE	_	_
+6	.	.	Punc	Punc	_	0	ROOT	_	_
+

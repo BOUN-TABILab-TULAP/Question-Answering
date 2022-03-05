@@ -1,0 +1,255 @@
+Question: Akarsuların taşıyarak oluşturdukları topraklara ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsular Ve Oluşturduğu Şekiller (EBA)</DOCTITLE>
+<TEXT>
+
+Akarsu, belli bir yatak içinde ve eğim boyunca akar. Akışı sırasında yüzeydeki malzemeyi aşındırarak taşır ve hızının azaldığı yerde bu malzemeyi biriktirir. Aşınım ve birikim faaliyeti; akarsuyun hızı, yağış, bitki örtüsü ve eğime bağlı olarak değişir.
+Akarsuyun doğduğu yere kaynak, denize veya göle ulaştığı yere ise ağız adı verilir. Akarsu, özellikle dik yamaçlarda yatağını derine doğru aşındırır. Ağız kısmından kaynak kısmına doğru yaptığı aşındırma geriye doğru aşındırma olarak adlandırılır. Aşınmanın ilerlemesi ile yatak eğimi azalır. Buna bağlı olarak geriye doğru aşındırma yavaşlar ve yana doğru aşındırma etkili olur. Akarsuyun yatağını derine doğru aşındırabileceği en son seviyeye kaide seviyesi adı verilir. Kaide seviyesi genellikle deniz seviyesidir. Buna mutlak kaide seviyesi de denir. Bazen bir göl ya da kapalı bir çukurluk da bir akarsu için kaide seviyesi olabilir. Bunlar da yerel kaide seviyesidir. Akarsuyun yatağı üzerindeki eğim kırıklıklarının olduğu yerde yüksekten akmasıyla çağlayanlar meydana gelir.
+Akarsu, çeşitli şekillerde aşındırarak yatağının eğimini giderek azaltır. En sonunda akarsu yatağı deniz seviyesine yakın ve çok az eğimli bir profil kazanır ki buna denge profili denir.
+Bir akarsuyun belli bir kesitinde bir saniyede geçen su miktanna akım (debi) adı verilir ve m3/sn olarak ölçülür. Akımın fazla olması aşınım faaliyetini de hızlandırır. Akarsuların kolları ile birlikte sularını topladığı alana akarsu havzası adı verilir.
+Sularını deniz ve okyanuslara ulaştıran havzalara açık havza (Şekil 35), ulaştıramayan havzalara ise kapalı havza adı verilir.
+Bir akarsuyun taşıdığı su miktarı; iklim, bitki örtüsü, buharlaşma, yağış türü ve miktarına bağlı olarak yıl içinde değişir. Bu değişiklik akarsu rejimi olarak adlandırılır. Yıl içinde su seviyesinde belirgin bir değişiklik görülen akarsulara düzensiz rejimli akarsular, bu seviyenin çok fazla değişmediği akarsulara ise düzenli rejimli akarsular adı verilir.
+Eğimin fazla olduğu yerlerde akarsu aşındırması hız kazanır.
+Akarsu havzalarını, birbirinden ayıran sınıra su bölümü çizgisi adı verilir.
+Eğimin az olduğu yerlerde aşınma yavaşlar, birikme hız kazanır.
+Akarsu Aşınım ve Birikim Şekilleri
+1 Yatay tortul tabakaların bulunduğu yerlerde akarsular, yataklarını derine doğru aşındırarak kanyon vadi adı verilen şekiller meydana getirir.
+2 Çağlayanlarda yüksekten düşen suların çarptığı yerde yapmış olduğu aşındırmalarla oluşan çukurluklara dev kazanı oluşur.
+3 Akarsu tarafından taşınan malzemeler yatak eğiminin azalması sonucu akarsu yatağında birikerek ada görünümü alır. Bu adacıklara ırmak adası adı verilir.
+4 Volkanik bölgelerde bulunan tüflerin sel suları tarafından aşındırılmasıyla peri bacaları meydana gelir. Bazı peri bacalarının üzerinde sert kayaçlardan oluşan şapka görünümlü kısımlar bulunur.
+5 Yumuşak ve geçirimsiz kayaçların bulunduğu yerlerde yüzeysel akış ve sellenmenin etkisiyle oluşan engebeli yarıntılara kırgıbayır (badlans) adı verilir.
+6 Akarsular vadinin dirençli kesimlerini az, dirençsiz kesimlerini çok aşındırarak asimetrik vadiler oluşturur.
+7 Akarsular tarafından derin vadilerle parçalanan geniş düzlükler plato olarak adlandırılır.
+8 Akarsular, dik yamaçlarda hızlı akarak derine doğru aşındırmalar sonucu çentik vadileri (V şekilli vadileri) meydana getirir.
+9 Akarsuların, taşıdıkları sedimentleri dağ eteklerinde eğimin azaldığı yerlerde birikmesiyle birikinti konileri ve konilerin birleşmesi ile de birikinti yelpazeleri meydana gelir.
+10 Akarsular, taşıdıkları malzemeyi denize veya göle ulaştıkları yerde biriktirir ve denizin sığ yerlerinde deltaları meydana getirir.
+11 Akarsular,dirençli ve sert kayaçları enine keserek boğaz vadileri meydana getirir.
+12 Akarsular tarafından taşınan malzemelerin dağlık bölgelerdeki çukur alanlarda birikmesi ile dağ içi ovaları meydana gelir.
+13 Akarsular, eğimin azaldığı yerde yatağını yana doğru aşındırarak geniş tabanlı vadileri meydana getirir.
+14 Eğimin azaldığı ve düzleştiği yerlerde akış hızının azalmasına ve farklı yapıdaki kayaçların varlığına bağlı olarak akarsuların kıvrımlar yaparak oluşturduğu şekillere menderes adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsu terası</DOCTITLE>
+<TEXT>
+
+Akarsu terası veya taraça akarsuların veya akarsu vadilerinin yamaçlarında görülen; sahanlığa benzer teraslara verilen isimdir. Çoğu akarsuyun bitişiğinde ırmaklar daha yüksek bir düzeyde aktığında oluşmuş olan taşkın düzlüklerinin aşınmalı kalıntıları vardır. Bu akarsu terasları, oldukça düz bir üst yüzeye ve aşağıdaki günümüz taşkın düzlüğüne doğru alçalan dik bir eğime sahiptir. Bazı durumlarda bir ırmağın güncel taşkın düzlüğü üzerinde pek çok seki görülebilir, bu da geçmişte ırmak teraslarının birkaç kez oluşmuş olduğunu gösterir.
+Bütün ırmak teraslarının aşındırma kökenli olduğu halde önceden bir taşkın düzlüğü oluşumu ile çökel birikim evresi geçirirler. Ardından gelen aşınma akarsuyun bir kez daha yeniden derecelenmiş ırmak haline gelinceye kadar aşağı doğru kazımasına neden olur (Şekil 2). Akarsu tekrar derecelendiğinde bu kez yanal aşındırmaya ve daha aşağı bir düzeyde yeni bir taşkın düzlüğü oluşturmaya başlar. Bazı akarsuların yanında görülen pek çok teras bu süreçlerin birkaç kez yenilenmesi ile gelişirler..
+Aşınmanın yenilenmesi ve ırmak terasların oluşumu genellikle taban düzeyinde meydana gelen bir değişime bağlanır. Irmağın üzerinde aktığı kara parçasının yükselmesi ya da deniz yüzeyinin alçalması eğimi dikleşmesine ve akış hızının artmasına yol açar ve böylece aşağı doğru bir kazınma evresi başlar. Irmak derecelenmenin yeniden oluştuğu düzeye ulaştığında ise aşağı doğru kazınma biter. Şüphesiz taban düzeyinde ki değişiklikler pek çok akarsu taraçası oluşunun açıklanmasına karşın ırmağın akaçlama havzasında daha büyük yüzeysel akış olması da teras oluşmasına neden olabilir. Bazı vadi tabanlarında yerli kaya yüzeye daha yakındır ve bunun üzerinde, nisbeten ince bir alüvyon tabakası mevcuttur. Bunun sonucunda bazı vadi tabanlarında alüvyon dolgu çok kalın, yerli kaya çok derinlerde olabilir. Bu durum, bu farklı özellikteki vadi tabanlarının sonradan teraslar haline dönüşmeleri halinde terasların yapısını belirler. Yerli kayanın yüzeye yakın olduğu ve ancak ince bir alüvyon alüviyon tabakası ile örtülü bulunduğu bir vadi tabanı yarıldığı zaman, meydana gelecek olan teras, esas itibari ile yerli kayadan oluşur ve bunun üzerinde ancak ince bir alüvyon örtüsü bulunur. Bu özelliği gösteren teraslara yerli kaya terası adı verilir. Buna mukabil, kalın bir alüvyon tabakası ile doldurulmuş bir vadi tabanı yarıldığında oluşan teraslara tamamıyla alüvyonlardan meydana gelir. Kum, çakıl, mil gibi nehir depolarından oluşan bu çeşit teraslara da, alüviyal teras ya da dolgu teraslar denir...
+Teras Tipleri.
+Teraslar dönemli ve dönemsiz olmak üzere ikiye ayrılırlar.
+Dönemli (Paired) Teraslar.
+Aynı yükseklikte karşılıklı kenarları olan teraslara dönemli teraslar denir. Akarsuyun derine aşındırmasından kaynaklı akarsu yatağının her iki tarafında da eş yükseklikler oluşur. Dönemli teraslar nehir gençleşmesinden kaynaklanır.
+Dönemsiz (Unpaired) Teraslar.
+Bu tip teraslarda akarsu, havzanın bir tarafının yanal ve derine aşınması, diğer tarafının aşınmaya olan dirençli olması ile oluşur, geriye aşınmaya dayanıklı olan teras kalır. Akarsuyun yönünün değişmesiyle dönemsiz teraslar oluşur.
+Teras Oluşumunu Kontrol Eden Faktörler.
+İklim.
+Akarsuların yatak tiplerindeki değişin her bir iklim döneminde tek tip olduğu kabulünü ortadan kaldırmıştır. Dolayısıyla iklime bağlı patern değişimi, her akarsuda farklı gerçekleşir. İklim değişiminin tetiklediği flüvyal yarılmaların ardından, kazılan kanalların hızla dolmasını kapsayan bu kısa sürelerin belirlenmesi, iklim değişimine karşı doğrusal olmayan flüvyal tepki teorisinin temelini oluşturur.
+Tektonik.
+Tektonik, yer kabuğunu deforme eden iç güçleri ifade eder. Bu güçler, büyük ölçekli kabuk yükselmesi, yerel alçalma, eğim kazanma ve faylanma oluşturur. Akarsu vadilerini etkileyen tektoniğin kaydı, sekilerde ve güncel vadi tabanı dolgularında tutulur. Bölgesel veya yerel yükselmelerin olduğu yerlerde kanal eğimi artacağı için akarsuyun enerjisi ve sediman miktarı artar. Dolayısıyla faylanma ve yerel yükselme tarafından bozulan vadi eğimleri patertini etkileyebilir. Diğer taraftan, vadi tabanının yanal olarak eğim kazınması da kanal göçünü ve vadi sedimantasyonun paternini etkiler.
+Kaide Seviyesinin Değişimi.
+Flüvyal sistemler için deniz seviyesi, aşındırmanın sona erdiği genel kaide seviyesini oluşturur. Bazı akarsular için kara içlerindeki göl ve bataklıklar, yerel kaide seviyesini oluşturur. Eger deniz seviyesi karaya göre alçalırsa, akım ve sediman hareketi için daha fazla enerji ortaya çıkar ve akarsu yatağında yarılma olur. Tersine kaide seviyesi yükselirse, enerji azalır ve kanalın aşağı kesiminde depolanma olur.(örn. Charlton, 2008)
+İnsan Etkisi.
+Artan nüfus, tarımsal faaliyetler ve bitki örtüsü tahribine bağlı olarak akarsu havzalarında artan sediman üretimi flüvyal sistemlerde etkili olmuştur. 20 yy’ın ikinci yarısından itibaren akarsu üzerinde çok sayıda baraj yapılmıştır. Baraj yapımı nedeniyle, akarsuyun taşıdığı sediman miktarı çevrenin tahrip edilmesi nedeniyle artmaktadır. Akarsu yataklarından kum alınması, akarsuyun yatağının yeniden düzenlemesine neden olmaktadır.
+Teraslar; seki taraça diye de adlandırılmaktadırlar...
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsular (EBA)</DOCTITLE>
+<TEXT>
+
+Karalar üzerinde bir yatak (vadi) içinde akan ve önemli su kaynaklarından olan akarsular çeşitli özelliklerine göre gruplara ayrılır:
+1.	Rejimlerine Göre Akarsular: Akarsuyun yatağı içinde yıl boyunca göstermiş olduğu akım değişimine, akım düzeni veya rejimi denir. Akarsu seviyesi yıl içinde önemli değişiklikler gösteriyorsa düzensiz, göstermiyorsa düzenli bir rejime sahiptir. Yağışın yıl içinde düzenli düştüğü alanlardaki Amazon ve Kongo gibi nehirlerin akımı düzenli, yağışın yılın bir döneminde düştüğü alanlardaki Ganj ve İndus gibi nehirlerin akımı düzensizdir.
+2.	Beslenme Kaynaklarına Göre Akarsular: Akarsuların başlıca beslenme kaynakları; göl, yağmur, kar, buz ve yer altı sularıdır. Çok uzun yol kateden bazı akarsular birden fazla kaynakla beslenmektedir. Bu tür akarsulara karma rejimli akarsular denir.
+3.	Döküldüğü Yerlere Göre Akarsular: Akarsuların bir kısmı suyunu denizlere, bir kısmı da göllere boşaltmaktadır. Sularını topladığı alana o akarsuyun havzası denir. Sularını denize ulaştırabilen alanlara açık havza, ulaştıramayanlara ise kapalı havza adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Birikinti ovası</DOCTITLE>
+<TEXT>
+
+Birikinti ovası Birikinti ovaları genel olarak alüvyon materyalin birikmesiyle oluşmuşlardır. Temel oluşturucu süreç akarsu aşındırması erozyon ve akarsu biriktirme süreçleridir.Ancak dalgalar ve buzulların aşındırma, biriktirme süreçleriylede oluşabilir. Örneğin: Kuzey Almanya ovası buzulların yığdırdığı lösler ile kaplı polderler ve geest adı verilen alçak platoda hafifçe engebelendirilmiş tekdüze büyük bir ovadır. Ülkenin hemen hemen en verimli toprakları bu bölgededir.
+Çeşitleri.
+Delta ovası , Çöküntü ovası , taşkın ovası , Dağ içi ovası
+Delta ovası.
+Akarsular tarafından taşınan alüvyonların ;kil kum çakılları deniz veya göl kenarında biriktirmesiyle oluşmuş ovalara delta ovası denir. Bu ovalar bir delta harfine yani hemen hemen bir üçgene benzer. Ancak şüphesiz bir kural değildir, girintili- çıkıntılı olabilirler. Delta ovaları deltası sürekli denize doğru büyüyen ovalar durumunda olurlar. Örneğin ; Po ovası her yıl yaklaşık 70-80 ha Adriyatik Denizine doğru, Mezopotamya ovaları 50-60 ha Basra Körfezine doğru ve Nil deltası ovası ise Akdeniz'e doğru 40-50 ha kadar büyümekte olan ovalardır. Delta ovaları akarsuyun taşıma gücünün iyice azaldığı akarsu ağız kesimlerine doğru düşük eğim gösteren alanlarda oluşur. Akarsu akış doğrultusunun tersi yönde giderek eğim artar ve akarsuyun taşıma gücü de artar. Bu kesimlerde daha çok malzemeden oluşmuş birikinti konileri oluşmuştur. Bunların birbirine eklendiği ova düzlüğüne yakın alanlarda ise birikinti yelpazeleri oluşmuştur.
+Delta oluşumunu hazırlayan başlıca jeomorfolojik faktörler, şunlardır:
+1. Akarsular tarafından, yeterince lığ(kil, kum, toprak,çamur...) taşınması gerekir.
+2. Kıyı açıklarının sığ(-200m. Ve daha az)olması gerekir.
+3. Delta oluşum kıyılarında, güçlü gel-git hareketleri cereyan etmemelidir.
+4. Kıyılar boyunca, güçlü akıntılar olmamalıdır.
+Çöküntü ovaları.
+Bunlara, tektonik ovalar veya çöküntü hendeği(graben) ovaları da denir. Depresyonların tabanlarında, ya da havzaların tabanlarında oluşmuş ovalardır. Örneğin, Erzurum ovası(825 km-kare), Erzincan ovası(560 km-kare), Muş ovası(1500 km-kare)... Gibi). Dağ eteği ovaları: dağların eteklerinde yer alan, kısmen de bu dağlar arasına doğru sokulmuş olan ovalardır. Bunlara, piedmont ovaları( dağ eteği düzlüğü) de denir. 
+Dağ eteği ovalarının, piedmont adıyla en tipikleri, ABD'nin Appalaş Dağları güneybatı bölümleri ile Kıyı ovaları(Güney Carolina ve Georgia eyaletleri) arasında yer alan, Piedmont bölgesinde görülür. Bu tip ovalar, oluşan birikinti konilerinin giderek birbirine eklenip büyüyerek, genişlemeleri sonucu oluşurlar. 
+Dağ ıçi ovalarının eğimleri, kıyı ovaları ya da alçak ovalara göre daha belirgin ve fazladır. Dağlık kütleye doğru çıkıldıkça da artar ve arazi, ova niteliğini yitirerek, bir plato görünümü kazanır. Türkiye'de en tipik piedmont ovası, Bursa ovasının Uludağ volkanik kütlesine doğru en fazla sokulduğu( ovanın güney kesimi) bölümüdür.
+Dağ içi ovaları.
+Oluşum süreci bakımından, bunlar da dağ eteği(piedmont) ovalarına benzerler. Dağlık ya da yüksek plato bölgelerini aşan akarsular, yer yer dik yamaçlı boğazlar açarak akışlarına devam ederler. Bu boğaz çıkış kesimlerinde (akarsuyun boğazları geçtiği yerler); eğim değerleri daha az akarsuların(vadilerin), ana akarsuya(ana vadiye) eklendiği yan kollar vardır. Eğimin azalmasına bağlı olarak, akarsuyun taşıma gücü de giderek azalır ve yan kolların ana akarsuya karıştığı kesimlerin yüksek bölümlerinde birikinti konileri, bunların birbirlerine eklenmeleriyle oluşan birikinti yelpazeleri ve ana akarsuya(vadiye) daha yakın olan eğimi iyice azalmış kesimlerde ise, ovalar oluşur. Bu ovalara dağ içi ovaları denir.
+Taşkın ovaları.
+Daha önce de ifade edildiği üzere, akarsuların normal akış düzeylerinden fazla su geçirmeleri durumu, kabarık devre diye tanımlanır. Özellikle yağışlı bölgelerde ilkbahar ve sonbahar, yarı kurak bölgelerde ise kışları, akarsuların kabarık devreleridir. Akarsuların normal akış yataklarından çıkarak, sularının çevreye doğru yayması, taşkın veya su basması diye tanımlanır. Geçmişte sıkça taşkınlara maruz kalmış, ya da bugün taşkın sularının yayıldığı ovalara, taşkın ovası denir.
+Taşkınlar daha çok menderesli ovalar ile diğer kıyı ovalarında etkili olurlar. Çünkü buralarda, hem ırmakların taşıdığı akarsu hacmi çoğalır, hemde eğimin azalmasına paralel olarak, akarsuyun taşıma gücü ve akış hızı büsbütün zayıflar. Bu taşma-çekilmeler süreci boyunca akarsular, ova yüzeylerinde bol lığ, yani alüvyal maddeler bırakır. Bu maddeler, tarımsal faaliyetler için çok uygun bir toprak örtüsü meydana getirir. Drenaj kanalları açılmak suretiyle topraklarda tuzlanma-çoraklaşma ile ve akarsu yatağı düzenlenerek taşkınlar önlenirse, bu tip taşkın ovalarında, verimli bir tarım faaliyeti sürdürülebilir.
+Kaynaklar.
+1. Prof. Dr. Doğanay Hayati-Coğrafyaya giriş 1 genel ve fiziki coğrafya- 8. Basım Erzurum 2013 Aktif yayınevi
+2. Prof. Dr. Erinç Sırrı-Jeomorfoloji 1 2.baskı istanbul 2005
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Azerbaycan'daki akarsular</DOCTITLE>
+<TEXT>
+
+Azerbaycan'daki akarsular, Azerbaycan Cumhuriyeti topraklarından akan bütün nehir, dere, çay ve suları kapsar.
+Azerbaycan'daki bütün akarsular (çoğu daha büyük akarsularla birleşerek) ya Hazar Denizi'ne akar, ya da yerin altına sızarak kayboluyor, ya da küçük bataklıklar oluşturuyorlar.
+Azerbaycan akarsuları aşağıdaki 3 ana gruba ayrılabilir:
+Genel bilgi.
+Azerbaycan'daki nehir sistemi irili ufaklı 8550'den fazla akarsudan oluşur, ve bütün akarsuların toplam uzunluğu 33.665 km civarındadır. Tüm bu akarsuların havzaları ise 85.500 km² civarındadır (Azerbaycan Cumhuriyeti'nin toplam yüzölçümü 86.600 km²). Akarsuların 7550'sinin uzunluğu 5 km'den daha kısadır. Kalan 1.000 akasulardan, 934'ünün uzunluğu ise 5 km ile 50 km arasında değişir, 42'sinin uzunluğu 50 km ile 100 km arasında değişir, 22'sinin uzunluğu 100 km ile 500 km arasında değişir, ve sadece iki akarsu (Kür ve Aras) 500 km'den uzundur.
+Azerbaycan'ın en uzun akarsuları Kür ve Aras nehirleridir ve ikisi Sabirabad şehri yakınında birleşerek ve Neftçala Rayonu'nda Hazar Denizi'ne dökülür. 
+Akarsular iki büyük gruba ayrılabilir: dağ akarsuları ve ova akarsuları.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsu Ve Nehirler  (EBA)</DOCTITLE>
+<TEXT>
+
+Akıntılı sulara sahip biyomlardır. Büyük su miktarı bulunduan akarsular nehirlerdir (ırmak). 
+Nehirlerin daha küçük olan su kütleleri ise çay ya da dere olarak isimlendirilir. 
+Bunlar yer altı ve yer üstü sularından beslenmenin yanında, buzulllardan eriyen sular da bunlara büyük su kaynağıdır. 
+Nehirlerin çoğu bir denize, göle ya da başka bir akarsuya ulaşır. Ancak ulaşamayıp kuruyanları da vardır. Ayrıca baraj yapımlarında, barajın dışında kalan kısım kuruyabilmektedir.Dünyada içilebilir su kaynagının sadece %0,5’i nehirlerden karsılanmaktadır. 1/3’ü kara buzullarında çogu ise yer altı sularında bulunur. 
+Akarsuların, başlangıç yerine kaynak bitiş yerine ise ağız denir. 
+Akarsuların kaynak kısmında akıntı hızı yüksek, çalkantı fazla ve oksijen miktarı yüksektir. Bu bölgede alabalık gibi balık türleri yaşar. Besin maddesi ve tuz içeriği, kaynaktan, nehrin döküldüğü kısma doğru artış gösterir. 
+Akarsuların akış hızı farklı olduğu için, oksijen ve sıcaklık da değişecektir (Resim 3.56). Dolayısıyla akarsuyun kaynağından ağıza kadar farklı bölgeler görülebilir. Canlı çeşitliliğinde de farklılıklar görülebilir. 
+Nehirler, fitoplankton ve köklü sucul bitkiler açısından zengindirler. 
+Çok çeşitli balık ve omurgasız hayvan bulunur. Kıyılarında ise çok sayıda ikiyaşamlı ve sürüngen türleri görülebilir. 
+İnsan müdahalesi nehirlerin kirlenmesine ve kurumasına yol açabilmektedir. Fabrika atıklarının dere ve nehirlere boşaltılması nehirleri kirletmekte, canlı çeşitliliğini de azaltmaktadır. Bu müdahalelerden birisi de yol veya başka inşaatlar için akarsuyun yatağını değiştirmektir. Bu durumda akarsuyun akış sistemi bozulmakta, içindeki canlı çeşitliliği de zarar görmektedir.
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kıvrılma</DOCTITLE>
+<TEXT>
+
+Kıvrılma, jeolojide yer kabuğunun içten gelen etkenlerle dalgalı bir biçim almasına verilen ad. Kıvrılma, başlıca "kıvrım dağları"nın oluşmasında etkilidir.
+Orojenik hareketler sırasında tortul tabakaların esnek olanları kıvrılır. Bu şekilde kıvrım dağları oluşur. Himalayalar, Alpler ve bu dağların Türkiye'deki uzantıları olan Kuzey Anadolu Dağları ile Toroslar bu şekilde oluşmuş kıvrım dağlarına en güzel örnektir.
+Orojenik hareketler sırasında yer kabuğunun sıkışan bölümlerinden kubbe şeklinde olanlarına antiklinal adı verilir. Tekne biçiminde çukurlaşan bölümlere ise senklinal adı verilir.
+Kırılma.
+Tortul tabakaların sert yapıda olanları orojenik hareketlerdeki yan basınçlar sırasında kırılır. Bu şekilde oluşan kırıklara fay adı verilir. Bu kırıkların kenarında yer alan ve yükselen bloğa horst (çöküntü tepesi), çöken bloğa ise graben (çöküntü hendeği) adı verilir. Horst oluşumlarına kırık dağları adı da verilir. Graben çukurları akarsuların taşıdığı malzemelerle doldurulduğunda ovalar oluşur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Su Ekosistemlerinin Doğal Sistemlerin İşleyişine Etkisi (EBA)</DOCTITLE>
+<TEXT>
+
+SU EKOSİSTEMLERİ
+Karasal - Göl ekosistemleri, Nehir ekosistemleri, Bataklık ekosistemleri
+Denizel - Okyanus ekosistemleri, Deniz ekosistemleri
+Su, bütün canlı varlıklarda yüksek oranda bulunan önemli bir maddedir. Örneğin, insan vücudunun % 65'i, bitkilerin ağırlığının % 60-85'i sudan oluşmaktadır. Suyun canlılar üzerinde olduğu kadar başka canlılar ve cansız çevre üzerinde de çeşitli etkileri vardır.
+Okyanusların ortalama derinliği 3700 m olmakla birlikte bazı yerlerde çok daha derin çukurlar bulunur. Bura-da yaşayabilen çok az sayıda canlı, ışıksız ortama uyum sağlayacak biçimde gelişmiştir. Okyanuslardaki bitki ve hayvan türlerinin çoğu ise güneş ışınlarının erişebildiği ilk 100 m’lik derinlikte yaşar.
+Okyanuslarda geniş kumluk alanlar, yüksek dağlar, bitki ve hayvan toplulukları barındıran bölgeler bulunur. Okyanus eko-sistemi içinde her birinin kendi çevresi ve çeşitli yaşam biçimleri bulunan çok sayıda farklı boyutlarda ekosistemler yer alır.
+Bu ekosistemler içerisinde farklı türlerde canlılar yaşamaktadır (Fotoğraf 2).
+Okyanuslar iklim üzerinde önemli rol oynar. Okyanuslar, atmosferle sürekli ısı alışverişinde olduğundan ekvatordaki ısı enerjisinin dağılmasına katkıda bulunur. Yerkürenin ısı bilançosu, ısının yalnız yarısının hava ile taşındığını göstermektedir. Kalanı ise okyanus akıntılarıyla taşınmaktadır. Örneğin, Gulf Stream (Golf Sitrim) sıcak su akıntısı, Meksika Körfezi’nden başlayıp Atlas Okyanusu’nu geçerek İngiltere'ye ulaşır. Bu akıntı günde 97 km hızla dünyadaki bütün nehir sularının yaklaşık 100 katı civarında bir su kütlesini hareket ettirir.
+Mercanlar; dünya ekosisteminin en karmaşık, en zengin beslenme damarlarındandır. Tuzlu sularda yaşayan balıkların yaklaşık üçte biri, mercan artıklarıyla beslenir. Mercanlar bulundukları denizlerdeki diğer canlı türleri için birer barınma ve besin kaynağıdır. Bu nedenle mercanların oluşturduğu resifler, denizlerdeki canlı çeşidi ve miktarı bakımından en verimli bölgeleridir. Denizlerde mercanların kapladığı alanlar geniş değildir.
+Fotoğraf 3’te de görüldüğü gibi okyanusların yüzeyinde dalgaların etkisiyle her an sayısız küçük hava kabarcığı patlamaktadır. Böylece
+deniz tuzlarınca zengin, pek çok su damlacığı atmosfere fırlatılmaktadır. Bu süreç, aslında biyosfer dengesi için son derece önemlidir.
+Okyanuslardan atmosfere taşınan toplam tuz miktarının yıllık 10 milyon ton olduğu hesaplanmıştır. Havada asılı durumdaki küçük tuz kristallerinin yoğuşma olayında önemli etkileri vardır.
+Aerosol denen bu küçük parçacıklar, bulutların oluşumunu sağlar. Aerosoller olmasaydı iklim- Fotoğraf 3: Su yüzeyinde patlayan mirtik hava kabarcıkları ler çok daha kurak olurdu.
+Yağmur damlaları yere düşerken havada bulunan aerosolleri yakalayarak toprağa indirir. Yağışlarla toprağa inen bu tozlar, tarlaların verimini arttırmak için kullanılan geleneksel gübrelerin bazılarının küçük örnekleridir (kalsiyum, magnezyum, potasyum vb. metallerin fosfatları ve sülfatları). Her yıl yağmurlarla kara parçalarının yüzeyine 150 milyon ton gübre düştüğü tahmin edilmektedir.
+Akarsular, ekosistemlerin önemli bir parçasını meydana getirir (Fotoğraf 4). Akarsuyun yer altına sızan kısmı akiferleri, yüzeysel akışa geçen kısmı da deniz ve okyanusları besler.
+Akarsular birçok bitki ve hayvan türü için yaşam alanı oluşturur.
+Akarsuların hızı, fiziksel ve kimyasal özellikleri akarsuyun barındırdığı hayvan türü ve sayısı üzerinde etkili olan faktörlerin başında gelir.
+Bir akarsuda eğim kesintileri ve çağlayanlar varsa biyolojiik üretim ve çeşitlilik az olur. Yatak eğiminin fazla olduğu yerlerde bol miktarda alüvyal malzeme Fotoğraf 4: Akarsu ekosisteminden görünüm	taşınıyorsa	akarsu	bulanık	bir	görünüm	arz	eder.	Suyun
+bulanık olması birçok canlı için olumsuz sonuçlar doğurur.
+Genellikle akarsuların yukarı çığırında topoğrafya daha engebeli, eğim fazla olduğu için akış hızlıdır. Burada genellikle bazı böcek türleri ile alabalıklar yaşar. Orta çığırda eğim biraz azalır ve vadi genişlemeye başlar. Bu kesimde balık türleri artar. Eğimin azaldığı ve akışın yavaşladığı aşağı çığırda planktonlar artar. Akarsu denize ulaşıyorsa ağız kesimlerinde tatlı su ve tuzlu su birbirine karışır. Bu bölgeler bitki ve hayvan türleri bakımından zengindir. Akarsuların taşıdığı elementler ve besin maddeleri buralardaki biyolojik çeşitliliği artırır. Akarsu ağızları mikroorganizmalardan kuşlara kadar birçok canlının barındığı yerlerdir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tonya</DOCTITLE>
+<TEXT>
+
+Tonya, Trabzon iline bağlı bir ilçedir.
+Tonya İlçesi, Doğudan Düzköy ve Maçka, Güneyden Gümüşhane İline bağlı Trabzon İlçesi, kuzeyden ve batıdan Vakfıkebir ile Şalpazarı ilçeleri ile çevrilidir.
+Trabzon ilinin denize sahili olmayan bir ilçesidir. Denizden yüksekliği 755 metredir. Arazi genel olarak engebelidir. Yüksek dağ sıralarına rastlanmamakla birlikte mevcut tepeler kuzeyden güneye doğru uzanır. Bu uzantılar arasında bulunan Fol Deresi ile Çamlık Deresi Vadisi Tonya sınırları içinde kalır. İlçe merkezi Fol Deresi Vadisinde kurulmuştur. Arazi genel olarak engebelidir. Yüksek dağ sıralarına rastlanmamakla birlikte mevcut tepeler kuzeyden güneye doğru uzanır. Bu uzantılar arasında bulunan Fol Deresi ile Çamlık Deresi Vadisi Tonya sınırları içinde kalır. İlçe merkezi Fol Deresi Vadisinde kurulmuştur.
+Tonya'nın en yüksek tepesi 1900 m yüksekliğindeki Karakısrak tepesidir. İlçe sınırları içinde büyük akarsu ve göl yoktur. En önemli akarsu Fol Deresi'dir. Fol Deresi Tonya'nın güneyinde Kürtün İlçesi sınırlarındaki Erikbeli Tepesi'nden doğar.
+Kuzeye doğru Tonya topraklarını geçtikten sonra Vakfıkebir İlçesi merkezinden Karadeniz'e dökülür. İkinci önemli akarsu Toksar tepesinden kaynağını alarak Beşikdüzü İlçesinden denize dökülen Çamlık Deresi'dir.
+Akarsuların rejimi düzenli değildir. Bahar aylarında karların erimesi ile su miktarı artar.
+Yaz aylarında azalır. Bununla birlikte yukarıda sözü edilen akarsuların kuruduğu hiç görülmemiştir. 
+İklim.
+İklim, Karadeniz iklimi ile karasal iklim arasında bir geçiş alanıdır. Karadeniz kenarından yükselen tepeler üzerinde bulunan ormanlar sürekli nem çekerler. Denizden gelen su buharı burada yoğunlaşır, sis haline gelir. Bu nedenle özellikle yaz aylarında günlerin büyük bir bölümü sisli geçer. Güneşli havalar daha çok sonbaharda görülür. Yaz aylarında ortalama sıcaklık 20 derece, kış aylarında 6-7 derece civarındadır. 
+Çevrede iklimin etkisiyle bitki örtüsü bir paralellik gösterir. Arazinin büyük bir çoğunluğunu meralar ve ormanlar kaplar ve yoğun ormanlar ilçenin güney yönündeki Kalmçam Köyü çevresindedir. Bu ormanlar yayvan ve iğne yapraklı ağaçlardan oluşur. Bölgede en iyi yetişen ağaç kızılağaçtır. İnsan emeği olmadan kendi kendine yetişebilmektedir.
+Tarihçe.
+Tonya İlçesinin ilk kuruluşu hakkında kesin bir bilgi olmamakla birlikte, İlçenin kuruluşunun 13. yüzyılın sonları İle 14. yüzyılın başlarında olduğu anlaşılmaktadır.1461 yılında Trabzon'un Türkler tarafından alınması ile Rum Pontus Devleti'nin egemenliği sona erer. Bölge tamamen Türklerin eline geçer. Bundan sonra Bayburt, Gümüşhane, Erzurum ve diğer yörelerden gelen Türkmen boyları Tonya'da yerleşirler. 
+Osmanlı dönemi yerli Rumlarla, göçmen olarak gelen Türklerin kaynaşması ile geçmiştir. Bu dönem içerisinde gerek Rum kültürü, gerek Türk kültürü karşılıklı olarak birbirlerini etkilemişlerdir. Bu etkileşim şimdi bile kendini göstermektedir. Yerli halkın bazı inançları, gelenek ve göreneklerinde bu etkileşim izlerini görmek mümkündür.
+İlçemize bağlı 15 köy bulunmaktadır. Ayrıca merkeze bağlı 5 mahalle ve İskenderli Beldesine bağlı 2 mahalle olmak üzere toplam 7 mahalle mevcuttur. 
+Tonya, Vakfıkebir İlçesine bağlı bir bucak merkezi olarak yönetilmiştir. Osmanlı Devleti döneminde Tonya'da derebeylik egemendi. 19.yüzyıl derebeylerinin tamamen egemen olduğu bir dönem olmuştur. Bu derebeylerinden en önemlisi Ali Ağa, kendisine ait topraklarda özel asker besler, kendi savunmasını bunlarla yapardı.
+Tonya, 1854 yılında bucak merkezi olarak teşkilatlanmışsa da, bucak yönetimi yıllarında bile derebeylik egemenliğini sürdürmüştür. 
+Birinci Dünya Savaşından sonra Osmanlı Devleti toprakları İtilaf Devletleri tarafından paylaşılmaya başlanınca Doğu Karadeniz bölgesini de Ruslar istila etmişlerdi. Rusların bu istilasına karşı Tonya'nın yerli halkı düzenli ordu kuvvetlerine yardımcı olarak aylarca savunmada bulunmuşlar ve bunda da oldukça başarılı olmuşlardı. 
+Harşit Cephesinde bulunan Türk Kuvvetleri bozulunca Ruslar bütün güçleriyle Tonya üzerine yürümüş ve sonra da yerli halk batıya doğru göç etmek zorunda kalmıştır. 16 Temmuz 1916 tarihinde Tonya işgal edilmiş oldu. Rus kuvvetleri daha sonra 17 Şubat 1918 tarihinde çekilince Tonya düşman işgalinden kurtulmuş oldu.
+5 Mart 1954 tarihinde 3264 sayılı kanun ile Tonya İlçe olarak teşkilatlanınca Vakfıkebir'den ayrıldı. Aynı yıl içinde belediye teşkilatı kuruldu. Tonya'nın İlçe olarak teşkilatlandığı yıllarda adı Orta Mahalle olarak geçer. Bu ad o yıllarda belediye teşkilatının içine almış olduğu merkez mahallenin adından gelmiştir.
+Nüfus.
+Bölge, Osmanlıların Trabzon'u fethinden (1461) önceki devirde buraya Horasan bölgesinden gelen Çepni Türkleri tarafından Türkleştirilmiştir. Tonya ilçesi daha önceleri Vakfıkebir ilçesine bağlı olmasından mütevellit, Osmanlı kaynaklarında pek bahsi geçmez. Osmanlı'da bir dönem Tonya'yı da içine alan bölgeye Vilayet-i Çepni denilmiştir. Bu deyiş Giresun, Trabzon ve Gümüşhane illerinin geneli için kullanılmıştır.
+Etimoloji.
+"Tonya" adının ilçeye verilişi ile ilgili çeşitli söylentiler olmakla birlikte bunlardan gerçeğe uygun olarak görüleni şöyledir;
+Bölgeye ilk yerleşen Rumlar döneminde bir Rum Beyi Tonya adındaki kızına bölgeyi çeyiz olarak vermiş, bundan böyle bu bölgenin adı da kızın adına izafeten Tonya olarak kalmış. Ayrıca Tonya ilçesinin merkezine yöre halkı tarafından Konakyanı adı verilir.
+Derebeylik döneminde merkezde bulunan derebeyin konağından gelmektedir. Konağınyanı söylenişi zamanla Konakyanı olarak kalmıştır.
+Genel bilgiler.
+Günümüzde suç oranı geçmişine göre bir hayli düşük olan Tonya'da temel geçim kaynağı hayvancılıktır. Tereyağı ve peyniri ünlüdür. Tonya tereyağı adına bir de festival düzenlenmektedir.
+Tonya'nın gençleri şehir, kırsal farketmeksizin ağır işlerle uğraştıklarından güçlüdürler. Siyaset ve gruplaşma gençler arasında pek azdır.
+Kahvehane kültürü bir hayli yaygındır. Okuma oranı yüksek olan Tonya'nın herhangi bir kahvehanesinin yarısı üniversite mezunudur.
+Yaz ayları insanlar mezere dedikleri yaylalarına göç ederler. Kışa doğru tekrar evlerine geri dönerler.
+Dışa göç oldukça fazladır. İstanbul, Ankara, İzmir, Bursa ve Sakarya en çok göç verilen illerdir. Sarıyer (Büyükdere), Büyükçekmece, Avcılar, Şirinevler, Ümraniye (Dudullu), Üsküdar (Kirazlıtepe), Şile Tonyalıların en çok ikamet ettiği İstanbul ilçeleridir.
+Okuma oranının çok yüksek olduğu ve 2007 yılında Karadeniz'de yılın köyü seçilen Sayraç Köyü de Tonya'nın sınırları içerisindedir.
+İdari yapı.
+Tonya ilçe merkezi toplam 5 mahalleden oluşur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kocaeli</DOCTITLE>
+<TEXT>
+
+Kocaeli, Türkiye Cumhuriyeti'nin Marmara Bölgesi'nin Anadolu yakasında yer alan bir ildir. Adını, 1320 senesinde İzmit ve havalisini fetheden Akça Koca'dan alır. 1.600.016 olan nüfusuyla Türkiye'nin 6. ,İstanbul ve Bursa'dan sonra Marmara Bölgesi'nin 3. büyük kentidir.
+Coğrafya.
+Coğrafi konum.
+Kocaeli ili, Marmara Bölgesi'nin Çatalca-Kocaeli Bölümü'nde, 29° 22'—30° 21' doğu boylamı, 40° 31'—41° 13' kuzey enlemi arasında yer alır. Doğu ve güneydoğusunda Sakarya, güneyinde Bursa illeri, batısında Yalova ili, İzmit Körfezi, Marmara Denizi ve İstanbul ili, kuzeyde de Karadeniz'le çevrilidir. İl merkezi İzmit'in doğusundan geçen 30° doğu boylamı Türkiye saati için esas kabul edilir. Kocaeli ilinin yüzölçümü 3.505 km2'dir. Asya ile Avrupa'yı birleştiren önemli bir yol kavşağında bulunmakta­dır. Doğal bir liman olan İzmit Körfezi işlek bir deniz yoludur. İlin kuzeybatı yüzündeki İstanbul il sınırı, Gebze ile İstanbul arasında akan Kemiklidere'nin doğusundan geçer. Güneybatıda İstanbul-Kocaeli sınırı İzmit Körfezi'nin karşı kıyısında Yalova topraklarıyla son bulur. Bursa sınırını Samanlı Dağları'nın tepelerinden geçen hat oluşturur.
+Ovalar ve platolar.
+İlde çok sayıda küçük dere vadisi vardır. Ovalar genellikle akarsuların yığıntılarıyla oluşmuş küçük alüvyal düzlükler niteliğindedir. Karadeniz'e dökülen akarsuların oluşturduğu vadiler, Kocaeli Yarımadası'nın yeni bir biçim almasına yol açan tektonik hareketlerin öncesinde ortaya çıkmış, buna karşılık Marmara Denizi'ne dökülen akarsu vadileri bu hareketlerin sonrasındadır. 
+Kocaeli Yarımadası'nın bugünkü biçimi, İzmit Körfezi ve Sapanca Gölü gibi tektonik çöküntüler, Karadeniz gibi çanaklaşmalar ve deniz yüzeyindeki değişmelerle belirlenmiş yarımadanın kıyı kesimlerinde denize taraçalar oluşmuştur. Bu arada akarsuların aşağı çığırlarında da genişleyen alüvyal dolgu tabakalar ve kıyı birikim kuşakları oluşmuştur. Daha önce de belirtildiği gibi yarımadadaki su bölümü çizgisi, İzmit Körfezi'ne çok yakın bir kesimden geçmektedir.
+Coğrafi yapı.
+İl topraklarından kaynaklanan suların bir bölümü Ka­radeniz'e, bir bölümü de Marmara Denizi'ne ulaşır. Kocaeli Yarımadasında uzanan dağların sırtı İzmit Körfezi ve Mar­mara'ya daha yakın olduğundan Karadeniz'e dökülen akar­sular daha uzundur. Gebze'nin Tepecik köyü yakınlarından doğan 71 km uzunluğundaki Riva (Çayağzı) Deresi İstanbul Boğazı giri­şinin doğusunda Karadeniz'e dökülür. Ağva Deresi de denen Göksu Deresi Karayakuplu köyü yakınlarından çıkar ve Ağva'da Karadeniz'e ulaşır. Yine Karadeniz'e dökülen Yulaflı Deresi'nin uzunluğu 43 km'dir. Üzerinde İstanbul kentine su sağlayan Darlık Barajı bulunan Darlık Deresi de il toprak larından doğar. Denizli köyünden doğup Karadeniz'e dö­külen Kocadere'nin uzunluğu 50 km'dir. İl topraklarından doğup, il sınırları içinde Karadeniz'e dökülen başlıca akarsu Kandıra ilçesindeki Sansu'dur. Sakarya Nehri'ne Karadeniz'e dökülmeden önce katılan son akarsu olan Kaynarca Deresi de Kandıra ilçesinden doğar. Samanlı Dağları'ndan doğan Kirazdere İzmit kentinde körfeze dökülür. Bu dere üzerindeki Kirazdere Barajı'nın yapımı 1997'de tamamlanmıştır. Gebze ilçesindeki Dilovası Deresi'nin uzunluğu 12 km'dir. Pelitli kö­yünün güneyinden ve Tavşanlı köyünün kuzeyinden geçerek İzmit Körfezi'ne dökülür. 542 km burhan dereside vardır. İlimizin en büyük ve en güzel köyü ise 2.000'i aşkın nüfusuyla Karaağaç'tır. Ayrıca burası ilimizin en doğusunda Kandıra ilçesine bağlıdır.
+Göller.
+Batı bölümündeki 7 km'si Kocaeli sınırları içerisinde kalan Sapanca Gölü'nün yüzölçümü 47 km²'dir. Uzuntarla, Maşukiye ve Eşme Beldelerine sınırdır. İzmit kentine su sağlayan Kirazdere Barajı'nın ardında yer alan yapay göl ise 1,74 km²'lik bir alanı kaplar. Bir başka yapay göl de Kocaeli Büyükşehir Belediyesi tarafından kentin su ihtiyacını karşıla­mak için yaptırılan barajın ardında su toplanması sonucu oluşan Yuvacık Baraj Gölü'dür.
+İklim.
+Körfez kıyılarıyla Karadeniz kıyısında ılıman, dağlık kesimlerde daha sert bir iklim hüküm sürer. Kocaeli ikliminin, Akdeniz iklimi ile Karadeniz iklimi arasında bir geçiş oluştur­duğu söylenebilir. İl merkezinde yazlar sıcak ve az yağışlı, kışlar yağışlı, zaman zaman karlı ve soğuk geçer.Karlı günler sayısı ortalama 12 gündür. Kocaeli'nin Karadeniz'e bakan kıyıları ile İzmit Körfezi'ne bakan kıyılarının iklimi arasında bazı farklılıklar göze çarpar. Yazın körfez kıyılarında bazen bunaltıcı sıcaklar yaşanırken Karadeniz kıyıları daha serindir- İl merkezinde ölçülen en yüksek hava sıcaklığı 44,1 °C (13 Temmuz 2000), en düşük hava sıcaklığı -8,3 °C (23 Şubat 1985), yıllık ortalama sıcaklık ise 14,8 °C'dir. Karadeniz kıyısında yıllık ortalama yağış miktarı 1.000 mm'yi aşar. Bu miktarı güneye doğru gidildikçe azalır, İzmit'te 800 mm'nin de altına düşer (784,6 mm). Samanlı Dağlan'nın kör­feze bakan yamaçlarında iklim Karadeniz kıyılarına benzer. Yağış miktarı da bu kesimde farklıdır. Rüzgârlar kışın kuzey ve kuzeydoğudan, yazları ise kuzeydoğudan eser.
+Eğitim.
+İlde her türden fen lisesi mevcut olmasının yanı sıra Kocaeli Üniversitesi ve Gebze Yüksek Teknoloji Enstitüsü'ne de ev sahiplği yapmaktadır.
+Bitki örtüsü.
+Kocaeli'nde bitki örtüsü, genelde Marmara Bölgesinin özelliğini taşımakla birlikte, kıyısıyla dağlık alanlar arasında önemli farklılıklar görülür. Ayrıca kuzeyden güneye doğru gidildikçe Karadeniz kıyısına özgü bitki topluluklarının yerini Akdeniz bitkileri almaya başlar. Samanlı Dağları ile Karadeniz kıyısı ardındaki alanlar sık ve nemcil ormanlarla kaplıdır. Bu ormanlar daha çok kayından oluşur; bazı kesimlerde kayına gürgen, kestane ve meşe de karışır. Samanlı Dağlan'nın yüksek kesimleri iğneyapraklılarla örtülüdür. İzmit Körfezi'nin kuzey ve doğu­sunda Akdeniz iklimine özgü makilere rastlanır. Eskiden kör­fezin kuzey kıyılarında yaygın olan zeytinlikler kent ve sanayi alanı elde edilmesi amacıyla yok edilmiş durumdadır. Tahrip edilen ormanlık alanlar step bitkileri ve yalancı makilerle kaplıdır.
+İdari yapı.
+2010 TUIK verilerine göre ilde 12 ilçe ve 243 köy vardır.
+
+</TEXT>
+</DOC>
+

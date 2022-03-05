@@ -1,0 +1,87 @@
+Stefan-Boltzmann yasası
+Ayrıca Stefan'ın yasası olarak bilinen Stefan-Boltzmann yasası, onun sıcaklık açısından bir kara vücuttan yayılan güç açıklanır. Özellikle, Stefan-Boltzmann yasası (ayrıca siyah-bedenin "radyant exitance" veya "yayan güç" olarak bilinir) birim zamanda tüm dalga boyları arasında siyah bir cismin birim yüzey alanı başına yayılan toplam enerji, FORMULA_1 doğrudan olduğunu belirtmektedir Siyah vücudun termodinamik sıcaklık "T" nin dördüncü kuvveti ile orantılı:
+orantı σ sabit, Stefan-Boltzmann sabiti veya Stefan sabiti, doğanın bilinen diğer sabitleri türemiştir çağırdı. sabit değeri
+k Boltzmann sabitidir, h Planck sabittir ve c vakum içinde ışık hızıdır. Böylece 100 K enerji akı 5.67 W / m2 ile verilir vb 1000 K 56700 W / m2, parlaklık (steradian metrekare başına watt) olduğunu
+Tüm olay radyasyon (bazen gri gövde olarak da bilinir) emmez bir vücut siyah bir vücuda daha az toplam enerji yayar ve bir emisyon, formula_5 ile karakterize edilir:
+enerji akışı (alan başına zaman başına enerji) boyutlara sahip FORMULA_1 ışık şiddeti ve ölçü SI birimleri metrekare başına saniyede jul veya eş anlamlı olarak metrekare başına watt bulunmaktadır. Mutlak sıcaklık "T" için SI birimi kelvin olduğunu. "Formula_8" gri bedenin emisyon olduğu; mükemmel bir kara cisim, formula_9 ise. Hala daha genel (ve gerçekçi) durumunda, emisyon dalga boyu, formula_10 bağlıdır.
+Bir nesneden yayılan toplam gücü bulmak için, yüzölçümü, formula_11 ile çarpmak:
+Metamalzemeler Stefan-Boltzmann yasası aşmak için tasarlanmış olabilir.
+Tarihi.
+Yasa Boltzmann belli bir ideal kabul 1884 yılında Ludwig Boltzmann (1844-1906) tarafından, termodinamik kullanarak, John Tyndall tarafından yapılan deneysel ölçümlere dayanarak 1879 yılında Jožef Stefan (1835-1893) tarafından çıkarılan ve teorik düşünceler türetilmiştir Bir gaz meselesi yerine çalışma olarak ışık ile ısı motoru. Yasa sadece siyah organları denilen ideal bir siyah nesneler, mükemmel radyatör için son derece hassas olduğu; en "gri" organları için iyi bir yaklaşım olarak çalışmaktadır. Stefan Bilimler Viyana Akademisi "oturumları Bültenleri" in ("termal radyasyon ve sıcaklık arasındaki ilişki üzerinde") makalesinde "Über Beziehung zwischen der Wärmestrahlung und der TEMPERATUR die" bu yasayı yayınladı.
+Örnekler.
+Güneş'in sıcaklığı
+Onun yasa ile Stefan de Güneş'in yüzeyinin sıcaklığını belirledi. O Charles Soret (1854-1904) Güneş'ten gelen enerji akı yoğunluğu belli bir ısıtılmış metal lamel enerji akı yoğunluğundan 29 kat daha fazla olduğu (ince levha) verilerinden öğrendi. Yuvarlak yapraklı Güneş'ten aynı açıda görülecektir ölçüm cihazının bir mesafede yerleştirilmiştir Soret lamel sıcaklığı yaklaşık 1900 ° C ila 2000 ° C olduğu tahmin edilmektedir. Stefan Güneş'ten enerji akı ⅓ Dünya'nın atmosferi tarafından emildiğini edebilmiş, bu yüzden 3/2 kat daha fazla, yani 29 × 3/2 = 43.5 Doğru Sun'ın enerji akı için bir değer aldı.
+Atmosferik emilim hassas ölçümler yasa izler, 1888 ve 1904 Stefan öncekilerin bir medyan değeri, 1950 ° C ve 2,574 gibi mutlak termodinamik biri 2200 K. = 43.5 idi edilen sıcaklık kadar yapılmış olmadığını sıcaklığı Güneş lamel sıcaklığından 2.57 kat daha fazladır, bu nedenle Stefan 5430 ° C veya 5700 K arasında bir değer (Modern değeri K 5778 olan) var. Bu Güneş'in sıcaklığı için ilk mantıklı değer Bundan önce, düşük 1.800 olarak ° C gibi yüksek ° 13,000,000 olarak C arasında değişen değerler iddia edildi. 1800 ° C daha düşük bir değer Dulong-Petit yasasını kullanarak 1838 yılında Claude Servais Mathias Pouillet'nin (1790-1868) ile belirlenmiştir. Pouillet'nin ayrıca Sun'ın doğru enerji akışının sadece yarım değerini aldı.
+Yıldızlı Sıcaklığı.
+Güneş'ten başka yıldızlı sıcaklığı siyah cisim ışıması olarak yayılan enerjiyi tedavi ederek benzer araçlar kullanılarak yaklaşık olarak hesaplanabilir. Yani:
+L parlaklığıdır burada, σ Stefan-Boltzmann sabiti, R, yıldız yarıçapıdır ve T, etkili bir sıcaklığıdır. Bu, aynı formül güneşe bir ana dizi yıldızı nazaran yaklaşık yarıçapı hesaplamak için kullanılabilir:
+burada formula_15, vb güneş yarıçapıdır ve.
+Stefan-Boltzmann yasası ile astronomlar kolayca yıldızlı yarıçapı çıkarabiliriz. Yasa ayrıca sözde Hawking radyasyonu kara deliklerin termodinamik karşılanmaktadır.
+Dünya'nın sıcaklığı.
+Aynı şekilde biz siyah cisim yaklaşımı altında, Güneş ve Dünya'nın tarafından yayılan enerjinin alınan enerjiyi eşitleyerek Earth "T" E etkin sıcaklığını hesaplayabilirsiniz. Güneş'in yaydığı enerji, ES miktarı ile verilir:
+Dünya'nın anda, bu enerji "bir" 0, Dünya ile Güneş ve kürenin her metrekare geçen enerji arasındaki mesafe verilir yarıçaplı bir küre geçmektedir
+Toprak yeniden bir yarıçapa sahiptir, ve bu nedenle formula_18 bir enine kesite sahiptir. Earth tarafından emilen güneş enerjisi miktarı böylece verilir:
+Değişimi varsayarsak istikrarlı bir durumda olduğunu, miktar eşit olmalıdır Dünya'nın yaydığı enerji miktarı emilir ve böylece:
+TE sonra bulunabilir:
+burada "T" S Güneşin sıcaklığı, "r" Güneşin yarıçapı S ve "bir" 0 Dünya ve Güneş arasındaki mesafe Bu mükemmel üzerinde düşen tüm emisyon emer ve herhangi bir atmosfer olduğunu varsayarak, Dünya'nın yüzeyinde 6 ° C'lik bir sıcaklık etkili verir.
+Dünya gezegeni vurur güneş ışınlarının% 30 emilimi olmadan uzaya geri saçılan alır, yani 0.3 bir aklık var. sıcaklığa albedo etkisi absorbe enerji 0.7 ile çarpılır varsayarak yaklasık, ama gezegen hala siyah gövde (biz hesaplanması budur etkili sıcaklık, tanımı ile ikincisi) olarak yayar olduğunu edilebilir. Bu yaklaşım 255 K vererek, 0.71 / 4 faktörü ile sıcaklığını azaltır (-18 ° C).
+Ancak, toprak yüzeyinden uzun dalga radyasyon kısmen emilir ve sera gazlarının, yani su buharı, karbondioksit ve metan geri aşağı yeniden yayılan. Sera etkisi (ağırlıklı daha Dünya yayar uzun dalga boylarında) ile yayma yana azalır ekstensiyon (ağırlıklı daha Sun'ın radyasyon daha kısa dalga boylarındaki) daha azalır, denge sıcaklığı sade siyah-vücudun daha yüksektir hesaplama tahminleri. Sonuç olarak, Dünya'nın gerçek ortalama yüzey sıcaklığı bir siyah cisim olurdu 255 K etkin sıcaklığından daha yüksek ve 279 K sıcaklık daha yüksektir yaklaşık 288 K (15 ° C) 'dir.
+Oluşum.
+Enerji yoğunluğu Termodinamik türetme.
+radyasyon içeren kutunun enerji yoğunluğu formula_22 orantılı olması termodinamik kullanılarak elde edilebilir. Bu radyasyon basıncı formula_23 iç enerji yoğunluğu formula_24 ilgilidir klasik elektrodinamik izler:
+formula_25.
+Temel termodinamik ilişkiden
+formula_26,
+Biz formula_27 bölünmesi ve formula_28 sabitleme sonra, aşağıdaki ifadeyi elde ederiz:
+formula_29.
+Geçen eşitlik aşağıdaki Maxwell ilişkisi geliyor:
+formula_30.
+Enerji yoğunluğu tanımından o izler
+formula_31
+ve
+formula_32.
+Şimdi, eşitlik
+formula_33,
+İlgili ifadeleri formula_34 ikame ve formula_35 sonra, olarak yazılabilir
+formula_36.
+Kısmi türev formula_37 yalnızca formula_38 ve formula_28 arasında bir ilişki (bir eşitlik tek bir taraftan tamamen izole ettiği taktirde) olarak ifade edilebildiği için, kısmi türev, sıradan bir türevi ile ikame edilmiş olabilir. Eşitlik olur diferansiyeller ayırdıktan sonra
+formula_40,
+Hangi entegrasyon bazı sabiti olarak formula_42 ile formula_41 hemen açar.
+"N" boyutlu uzayın Stefan-Boltzmann yasası.
+Bu formula_43 boyutlu uzayda radyasyon basıncı tarafından verilen olduğunu göstermiştir olabilir
+formula_44
+, Formula_43 boyutlu uzayda Yani
+formula_46
+Bu yüzden,
+verimli
+veya
+ima
+Aynı sonuç, her boyutta Stefan-Boltzmann sabiti için farklı bir değere sahip olsa formula_43 boyutlu uzay için Planck yasasının frekansı ayrılmaz bir parçası olarak elde edilir. Genel olarak sabittir
+formula_53 Riemann zeta fonksiyonu ve formula_54 formula_56 ile formula_43 belli bir fonksiyonudur.
+Planck yasasından türetilmesi.
+Yasa yarım küreye yayılan küçük düz siyah bir vücut yüzeyine dikkate alınarak elde edilebilir. Bu türetme azimutal açısı olarak zenit açısı ve "θ" olarak "φ" ile küresel koordinatlar kullanır; ve küçük düz cisim yüzey xy-düzlemi, "φ" = π / 2 üzerinde yatıyor.
+cisim yüzeyinden yayılan ışığın yoğunluğu, Planck'ın hakları ile verilir:
+miktarı formula_63 "ν" ve "ν" + "dν" arasındaki frekans aralığı içinde bir katı açı "dΩ" yoluyla alanı A bir yüzeyi tarafından yayılan güçtür.
+Stefan-Boltzmann yasası, yayan vücudun birim alan başına yayılan güç verir
+Stefan-Boltzmann yasasını türetmek için, yarım küre üzerinde "Ω" entegre ve ∞ 0'dan "ν" entegre olmalıdır. Ayrıca, siyah cisimler, çünkü "Lambertian" (yani Lambert adlı kosinüs yasası itaat), küre boyunca gözlenen yoğunluk zenith açısı "φ" kosinüs gerçek yoğunluk kez olacak ve küresel koordinatlarda, "dΩ" = sin "dφ dθ" ("φ").
+Sonra "I" için fiş:
+Bu ayrılmaz bir değişiklik yapmak yapmak için,
+bu verir:
+Sağdaki ayrılmaz (kimse bu makalenin ekinde dahil) bir dizi yolla yapılabilir - onun cevap formula_70 olduğunu sonucunu veren, o mükemmel bir cisim yüzeyi:
+Son olarak, bu kanıtı sadece küçük düz bir yüzey düşünüyor başladı. Ancak, herhangi bir diferensiyellenebilir bir yüzey küçük düz yüzeyler bir grup tarafından yaklaşık olarak hesaplanabilir. Çok uzun yüzeyin geometrisi cisim kendi radyasyon emmeye neden olmaz olarak, toplam enerji her yüzeye yayılan enerjilerin sadece toplamıdır yayılan; ve toplam yüzey alanı alanlarının sadece toplamı her yüzeye yüzden bu yasa kadar uzun yüzey boyunca aynı sıcaklığa sahip olarak da tüm dışbükey karacisim için de geçerlidir. Yasa kendisi bir siyah cisim sanki siyah bir cismin dışbükey gövde yayar gerçeğini kullanarak olmayan dışbükey organları radyasyona uzanır.
+Ek.
+Yukarıdaki sözcükler birinde, aşağıdaki ayrılmaz ortaya çıktı:
+burada formula_73 polylogarithm fonksiyonudur ve formula_74 Riemann zeta fonksiyonudur. Polylogarithm fonksiyonu ve Riemann zeta fonksiyonu hesaplama için mevcut değilse, bu entegrasyon yapmak için bir kaç yolu vardır; basit bir tek Planck'ın yasası maddenin ekte verilmiştir. Bu ek kontur entegrasyonu ile ayrılmaz yapar. Işlevi göz önünde bulundurun:
+"J" / 6 - sinüs fonksiyonu Taylor açılımı kullanarak, "k" 3 dönem katsayısı tam olacağını belirgin olmalıdır.
+Formula_76 yetkileri her iki tarafı genişleterek, biz formula_77 formula_79 dizi genişleme formula_78 eksi 6 kat katsayısı olduğunu görüyoruz. Biz "f" ("k") için kapalı bir form bulabileceğiniz Yani eğer, onun Taylor genişleme J. verecek
+Buna karşılık, sin (x) eix hayali bir parçasıdır, bu yüzden bu kadar düzeltilmesinde edebilirsiniz:
+Biz kontur integrali düşünün bu denklemde integralini değerlendirmek için:
+formula_82 formula_86 sonra, formula_85 sonra, formula_84 için formula_8 den kontur olduğu, o zaman biz yarıçap formula_8 ve merkez formula_88 ile saat yönünde çeyrek daire alarak formula_88 de kutup kaçınarak, nokta formula_87 gidin. Oradan biz formula_91 gidin ve nihayet biz yarıçapı formula_8 ve merkezi sıfır ile bir saat çeyrek daire alarak sıfır kutup kaçınarak, formula_8 dönün.
+Entegrasyon kontur hiçbir kutuplar vardır çünkü biz var:
+Biz şimdi sınır formula_95 alır. Bu limitte formula_84 den formula_85 segment katkısı sıfıra eğilimindedir. Artıkları bulduğumuz kutuplarda formula_86 için formula_84 ve formula_85 ila formula_8 den kesimleri bir araya entegrasyonları alarak ve basit direkleri hakkında formula_8 withradius saat yönünde çeyrek dairelerin üzerine entegrasyonlar eksi formula_104 kez formula_8 sipariş kadar verilen gerçeğini kullanarak:
+Sol taraftaki formula_84 için formula_8 den ayrılmaz toplamıdır ve formula_108 den formula_109 için. Biz rhs üzerinde integral ˙Integrali alınan yazabilirsiniz aşağıdaki gibi:
+Şimdi denklem her iki tarafında hayali bir kısmını ele alırsak. (1) ve bulduğumuz formula_111 sınırı almak:
+ilişkiyi kullandıktan sonra:
+Formula_114 seri açılımı ile verildiğini nin kullanımı:
+Biz formula_79 serisi genişleme formula_78 katsayısı formula_118 olduğunu görüyoruz. Bu, daha sonra da anlaşılacağı formula_119 ve sonuç olduğu
+izler.

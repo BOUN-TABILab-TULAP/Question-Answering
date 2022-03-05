@@ -1,0 +1,11 @@
+1	Volkanlardan	volkan	Noun	Noun	A3pl|Pnon|Abl	2	ABLATIVE.ADJUNCT	_	_
+2	_	çık	Verb	Verb	Pos	3	DERIV	_	_
+3	çıkan	_	Adj	APresPart	_	5	MODIFIER	_	_
+4	akışkan	akışkan	Adj	Adj	_	5	MODIFIER	_	_
+5	maddelere	madde	Noun	Noun	A3pl|Pnon|Dat	9	DATIVE.ADJUNCT	_	_
+6	ne	ne	Adj	Adj	_	7	MODIFIER	_	_
+7	ad	ad	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT	_	_
+8	_	ver	Verb	Verb	_	9	DERIV	_	_
+9	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

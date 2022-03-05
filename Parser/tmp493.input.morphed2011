@@ -1,0 +1,55 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Sinir	sinir	+Noun+A3sg+Pnon+Nom
+Sinir	Sinir	+Noun+Prop+A3sg+Pnon+Nom
+
+hücresinde	hücre+Noun+A3sg+P3sg+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+dendritlerden	dendrit	+Noun+A3pl+Pnon+Abl
+
+daha	daha	+Adverb
+daha	daha	+Noun+A3sg+Pnon+Nom
+
+uzun	uz	+Noun+A3sg+P2sg+Nom
+uzun	uz	+Noun+A3sg+Pnon+Gen
+uzun	uzun	+Adj
+
+olan	ol	+Verb+Pos^DB+Adj+PresPart
+
+uzantılara	uzantı+Noun+A3pl+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,237 @@
+Question: Memelilerin akciğerlerinin içinde bulunan, kılcal damarlardaki karbon dioksidi alıp, oksijeni vererek gaz alış verişini gerçekleştiren yapıya ne denir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kütlenin korunumu yasası</DOCTITLE>
+<TEXT>
+
+Kütlenin korunumu yasası, zaman zaman Lomonosov-Lavoisier kanunu olarak da adlandırılan, kapalı bir sistemde var olan çevrimler ve işlemler ne olursa olsun, kütlenin sabit kalacağını belirten kanundur. Denk bir ifadeyle açıklamak gerekirse kütlenin durumu yeniden düzenlenebilir fakat kütle yaratılamaz veya yok edilemez. Böylece, kapalı bir sistem dahilindeki her türlü kimyasal tepkime ve proseste tepkenlerin (yani reaktantların) kütlesi, ürünlerin kütlesine eşit olmalıdır.
+Buna göre:
+Kimyasal olaylara giren maddelerin kütleleri toplamı oluşan ürünlerin toplamına eşittir. X + Y ® Z + T tepkimesinde X ve Y girenler (reaktif) olup, Z ve T (ürünler)’ye kütlece eşittir.
+Kimyasal maddelerin kütleleri atom sayıları ile orantılı olduğundan tüm kimyasal tepkimelerde atom sayıları korunur.
+Örneğin 1 mol C atomu 12 gram, 1 mol O2 molekülü 32 gramdır. Buna göre 1 mol CO2 atomu 44 gram olur:
+C + O2 ® CO2
+12 gram + 32 gram ® 44 gram
+Tarihçe
+Kütlenin korunumu kanunun ilk kez Nasîrüddin Tûsî tarafından 13. yüzyıl ortaya atılmışsa da bu ilk sürümde eksiklikler mevcuttu; Maddenin yapısının değişebileceğini fakat yok olamayacağını yazmaktaydı.
+Kütlenin korunumu kanunun ilk kez net bir şekilde tanımlanması 1789 tarihinde Lavoisier tarafından başarılabilmiştir. Nitekim bu sebepten ötürü bazen kendisinin modern kimyanın babası olduğu da söylenir. Bununla birlikte, Mikhail Lomonosov aslında benzeri fikirleri 1748'de ortaya atmış ve çeşitli deneyler sonucu kanıtlamıştı. Lavoisier'in çalışmasının öncülleri bununla da sınırlı değildir ve şu isimler daha erken tarihlerde benzeri fikirleri ortaya atmıştır: Joseph Black (1728 - 1799), Henry Cavendish (1731 - 1810) ve Jean Rey (1583 - 1645).
+Flogiston Teoremi
+Lavoisier bilim dünyasında en başta yanma olayına ilişkin geliştirdiği yeni kuramıyla ün kazanır. Ne ki, kimya devrimini oluşturmada başka önemli çalışmaları da vardır. Ayrıca, deneylerinde, özellikle ölçme işleminde gösterdiği olağanüstü duyarlılık, kendisini izleyen yeni kuşak araştırmacılar için özenilen bir örnek olmuştur. Kimya dil, mantıksal düzen ve kuramsal açıklama yönlerinden bilimsel kimliğini Lavoisier'e borçludur. Tüm bu çalışmalarında ona büyük desteği eşi sağlar: deney şekillerini çizer, yabancı dillerden kaynak çeviriler yapar, makale ve kitaplarını yayıma hazırlar.
+Lavoisier araştırmalarına başladığında, kimyada Antik Yunanlıların maddeye ilişkin dört element (toprak, su, ateş ve hava) öğretisinin yanı sıra yanmaya ilişkin flogiston kuramı geçerliydi. Bilindiği gibi, bir tahta ya da bez parçası yandığında duman ve alev çıkar, yanan nesne bir miktar kül bırakarak yok olur.
+Yürürlükteki kurama göre, yanma, yanan nesnenin flogiston denen, ama ne olduğu bilinmeyen, gizemli bir madde çıkarması demekti. Odun kömürü gibi yandığında geriye en az kül bırakan nesneler flogiston bakımından en zengin nesnelerdi. Bilim insanlarının çoğunluk doyurucu bulduğu bu kurama ters düşen kimi gözlemler de yok değildi. Bunlardan biri yanma için havanın gerekliliğiydi. Bir diğeri, kurşun gibi madenlerin, erime derecesinde ısıtıldığında, yüzeylerinde oluşan "calx"ın, madenin eksilen bölümünden daha ağır olmasıydı. Aslında yanma olayını açıklamadaki güçlüğün bir nedeni gazlara ilişkin bilgi eksikliğiydi. 1756'da İskoçJoseph Black "sabit gaz" dediği karbon dioksidi buluncaya dek bilinen tek gaz hava idi. İngiliz kimya bilgini Joseph Priestley daha sonra deneysel olarak on kadar yeni gaz keşfeder. Bunlardan biri onun "yetkin gaz" dediği, ilerde Lavoisier'in "oksijen" adını verdiği gazdır.
+Priestley, oksijeni bulmasına karşın flogiston kuramından kopamaz. Üstün bir deneyci olan bu İngiliz bilim insanı, kuramsal yönden rakibi Lavoisier ile boy ölçüşecek yeterlikte değildi. Lavoisier yanma olayı ile 1770'lerin başında ilgilenmeye başlamıştı. Kapalı bir kapta fosfor yakınca gazın ağırlığının değişmediğini, oysa kabı açtığında havanın içeri girmesiyle birlikte gazın ağırlığının az da olsa arttığını saptamıştı. Bu gözlemin yürürlükteki kurama uymadığı belliydi, ama daha doyurucu bir açıklaması da yoktu.
+Kütlenin Korunumu Kanunu
+Lavoisier aradığı açıklamanın ipucunu birkaç yıl sonra Priestley'le Paris'te buluştuğunda elde eder. Priestley cıva oksit üzerindeki deneylerinden söz ederken bulduğu "yetkin gaz"ın özelliklerini belirtir. Lavoisier yayınlarının hiç birinde Priestley'e hakkı olan önceliği tanımaz; sadece bir kez, "Oksijeni Priestley'le hemen aynı zamanda keşfetmiştik," demekle yetinir.
+Doğrusu, oksijenin keşfinde öncelik Lavoisier'in değildi; ama bu gazın gerçek önemini ilk kavrayan bilim insanıydı. Priestley'in deneylerini kendine özgü dikkat ve özenle tekrarlamaya koyulur. Belli miktarda havaya yer verilen bir kapta cıva ısıtıldığında, cıvanın kırmızı cıva okside dönüşmesiyle ağırlık kazandığı, havanın ise aynı ölçüde ağırlık yitirdiği görülür. Lavoisier deneylerinde bir adım daha ileri gider: cıvadan ayırdığı cıva oksidi (calx'ı) tarttıktan sonra daha fazla ısıtır; kora dönüşen kırmızı oksidin giderek yok olmaya yüz tuttuğunu, geriye belli sayıda cıva taneciğiyle, solunum ve yanma sürecinde atmosferik havadan daha etkili bir miktar "elastik akıcı" kaldığını saptar. Elastik akıcı Priestley'in "yetkin gaz" dediği şeydi.
+Lavoisier üstelik bu artığın ağırlığı ile cıvanın ilk aşamadaki ısıtılmasından azalan hava ağırlığının da eşit olduğunu belirler. Dahası, cıva oksidin ısı altında cıvaya dönüşmesiyle kaybettiği ağırlık etkili bölümüyle (yani oksijenle) birleşmesiyle gerçekleşmektedir. Başta önemsenmeyen bu kuram, suyun iki gazın birleşmesiyle oluştuğuna ilişkin Cavendish deney sonuçlarını da açıklayınca, bilim çevrelerinin dikkatini çekmede gecikmez. Cavendish deneylerinde, asitlerin metal üzerindeki etkisinden "yanıcı" dediği bir gaz elde etmiş, bunu flogiston sanmıştı. Ancak Priestley'in bir deneyi onu bu yanlış yorumdan kurtarır. Priestley, hidrojen ve oksijen karışımı bir gazı elektrik kıvılcımıyla patlattığında bir miktar çiyin oluştuğunu görmüştü. Aynı deneyi tekrarlayan Cavendish daha ileri giderek patlamada "yanıcı" gazınsu olduğunu saptar.
+Flogiston teorisi yıkılmıştı artık. Yeni teorinin benimsenmesi, kimi bağnaz çevrelerin direnmesine karşın, uzun sürmez. Kimyada geciken atılım sonunda gerçekleşmiş olur. Lavoisier ulaştığı sonucu Bilim Akademisi'ne bir bildiriyle sunar; ne var ki, tek kelimeyle de olsa Priestley, Cavendish, vb. deneycilerin katkılarından söz etmez. Lavoisier'in aslında ne yeni kimyasal bir nesne, ne de yeni kimyasal bir olgu keşfettiği söylenebilir.yeni ve işler bir sistem kurmaktı. 1789'da yayımlanan "Traité Élémentaire de Chimie" adlı yapıtı, kendi alanında, Newton'un Principia'sı sayılsa yeridir. Biri modern fiziğin, diğeri modern kimyanın temelini atmıştır.
+Lavoisier'i unutulmaz yapan bir özelliği de nesnelerin kimyasal değişimlerini ölçmede gösterdiği olağanüstü duyarlılıktı. Bu özelliği ona "Kütlenin Korunumu Yasası" diye bilinen çok önemli bilimsel bir ilkeyi ortaya koyma olanağı sağlar. Lavoisier kimi kez kendi adıyla da anılan bu ilkeyi şöyle dile getirmişti:
+"Doğanın tüm işleyişlerinde hiç bir şeyin yoktan var edilmediği, tüm deneysel dönüşümlerde maddenin miktar olarak aynı kaldığı, elementlerin tüm bileşimlerinde nicel ve nitel özelliklerini koruduğu gerçeğini tartışılmaz bir aksiyom olarak ortaya sürebiliriz."
+Genelleştirme.
+Özel görelilikte kütlenin korunumu mevcut değildir. Nitekim bir parçacık sisteminin kütlesinin, her bir parçacığın kütlelerinin toplamına eşit olduğu prensibi de özel görelilikte doğru değildir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Antoine Lavoisier</DOCTITLE>
+<TEXT>
+
+Antoine-Laurent de Lavoisier ("Telaffuz": [ɑ̃ˈtwan lɔˈʁɑ̃ də la.vwaˈzje]) (d. 26 Ağustos 1743, Paris – ö. 8 Mayıs 1794, Paris) Fransız kimyacı. 
+Yaşamında iki devrim görmüş bir kişidir. Devrimlerden biri, yüzyıllar boyunca "simya" adı altında sürdürülen çalışmaların, bugünkü anlamda, kimya bilimine dönüşmesidir. Lavoisier bu devrimin kahramanıdır. İkinci devrim, "1789 Fransız ihtilali" diye bilinir. Lavoisier bu devrimin getirdiği terörün kurbanıdır. 
+Biyografi.
+Antoine-Laurent Lavoisier Parisli zengin bir ailenin çocuğu olarak dünyaya gelir. Daha küçük yaşında iken annesini yitiren Lavoisier, babasının yakın ilgi ve bakımıyla büyür; başlangıçta belki de onun etkisiyle, hukukçu olmaya yönelir. Ancak bu arada uyanan deneysel bilim merakı, çok geçmeden bir tutkuya dönüşür. Yirmi bir yaşına yeni bastığında, Paris'in sokaklarını aydınlatma proje yarışmasında birinciliği alır, Fransız Bilim Akademisi'nce altın madalya ile ödüllendirilir. 25 yaşına geldiğinde, özellikle kimya alanındaki çalışmaları göz önüne alınarak Akademi'ye üye seçilir. Bu arada hükümetin özel bir komisyonunda görevlendirilen genç bilim adamı, metrik sistemin oluşturulması, Fransa'nın jeolojik haritasının çıkarılması gibi etkinliklerden tarımda verimin yükseltilmesine uzanan pek çok uygulamalı bilim çalışmalarını düzenler. Ayrıca o sırada bir tür abluka altında olan ülkesinin savunma ihtiyacı barutun üretim sorumluluğunu üstlenir. Genç bilim adamı bu kadarla da yetinmez; ilerde yaşamını yitirmesine yol açan bir işe, ülkenin bozuk vergi sistemini düzeltme işine el atar. Ama tüm bu uğraşlarına karşın Lavoisier, kendisini asıl ilgilendiren bilimden kopmamıştır; her fırsatta özel laboratuarına çekilip deneylerini sürdürmekten geri kalmaz.
+Flogiston Teoremi.
+Lavoisier bilim dünyasında en başta yanma olayına ilişkin geliştirdiği yeni kuramıyla ün kazanır. Ne ki, simya devrimini oluşturmada başka önemli çalışmaları da vardır. Ayrıca, deneylerinde, özellikle ölçme işleminde gösterdiği olağanüstü duyarlılık, kendisini izleyen yeni kuşak araştırmacılar için özenilen bir örnek olmuştur. Kimya dili; mantıksal düzen ve kuramsal açıklama yönlerinden bilimsel kimliğini Lavoisier'e borçludur. Tüm bu çalışmalarında ona büyük desteği eşi sağlar: deney şekillerini çizer, yabancı dillerden kaynak çeviriler yapar, makale ve kitaplarını yayıma hazırlar. 
+Lavoisier araştırmalarına başladığında, kimyada Antik Yunanlıların maddeye ilişkin dört element (toprak, su, ateş ve hava) öğretisinin yanı sıra yanmaya ilişkin flogiston kuramı geçerliydi. Bilindiği gibi, bir tahta ya da bez parçası yandığında duman ve alev çıkar, yanan nesne bir miktar kül bırakarak yok olur. 
+Yürürlükteki kurama göre, yanma; yanan nesnenin "flogiston" denen, ama ne olduğu bilinmeyen, gizemli bir madde çıkarması demekti. Odun kömürü gibi yandığında geriye en az kül bırakan nesneler flogiston bakımından en zengin nesnelerdi. Bilim adamlarının çoğunlukla doyurucu bulduğu bu kurama ters düşen kimi gözlemler de yok değildi. Bunlardan biri yanma için havanın gerekliliğiydi. Bir diğeri, kurşun gibi madenlerin, erime derecesinde ısıtıldığında, yüzeylerinde oluşan "calx"ın, madenin eksilen bölümünden daha ağır olmasıydı. Aslında yanma olayını açıklamadaki güçlüğün bir nedeni gazlara ilişkin bilgi eksikliğiydi. 1756'da İskoç kimyageri Joseph Black "sabit gaz" dediği karbon dioksidi buluncaya dek bilinen tek gaz hava idi. İngiliz kimya bilgini Joseph Priestley daha sonra deneysel olarak 10 kadar yeni gaz keşfeder. Bunlardan biri onun "yetkin gaz" dediği, ileride Lavoisier'nin "oksijen" adını verdiği gazdır.
+Priestley, oksijeni bulmasına karşın flogiston kuramından kopamaz. Üstün bir deneyci olan bu İngiliz bilim adamı, kuramsal yönden rakibi Lavoisier ile boy ölçüşecek yeterlikte değildi. Lavoisier yanma olayı ile 1770'lerin başında ilgilenmeye başlamıştı. Kapalı bir kapta fosfor yakınca gazın ağırlığının değişmediğini, oysa kabı açtığında havanın içeri girmesiyle birlikte gazın ağırlığının az da olsa arttığını saptamıştı. Bu gözlemin yürürlükteki kurama uymadığı belliydi, ama daha doyurucu bir açıklaması da yoktu.
+Kütlenin Korunumu Kanunu.
+Lavoisier aradığı açıklamanın ipucunu birkaç yıl sonra Priestley'le Paris'te buluştuğunda elde eder. Priestley cıva oksit üzerindeki deneylerinden söz ederken bulduğu "yetkin gaz"ın özelliklerini belirtir. Lavoisier yayınlarının hiç birinde Priestley'e hakkı olan önceliği tanımaz; sadece bir kez, "Oksijeni Priestley'le hemen aynı zamanda keşfetmiştik," demekle yetinir. 
+Doğrusu, oksijenin keşfinde öncelik Lavoisier'nin değildi; ama bu gazın gerçek önemini ilk kavrayan bilim adamı oydu. Priestley'in deneylerini kendine özgü dikkat ve özenle tekrarlamaya koyulur. Belli miktarda havaya yer verilen bir kapta cıva ısıtıldığında, cıvanın kırmızı cıva okside dönüşmesiyle ağırlık kazandığı, havanın ise aynı ölçüde ağırlık yitirdiği görülür. Lavoisier deneylerinde bir adım daha ileri gider: cıvadan ayırdığı cıva oksidi (calx'ı) tarttıktan sonra daha fazla ısıtır; kora dönüşen kırmızı oksidin giderek yok olmaya yüz tuttuğunu, geriye belli sayıda cıva taneciğiyle, solunum ve yanma sürecinde atmosferik havadan daha etkili bir miktar "elastik akıcı" kaldığını saptar. Elastik akıcı Priestley'in "yetkin gaz" dediği şeydi.
+Lavoisier üstelik bu artığın ağırlığı ile cıvanın ilk aşamadaki ısıtılmasından azalan hava ağırlığının da eşit olduğunu belirler. Dahası, cıva oksidin ısı altında cıvaya dönüşmesiyle kaybettiği ağırlık etkili bölümüyle (yani oksijenle) birleşmesiyle gerçekleşmektedir. Başta önemsenmeyen bu kuram, suyun iki gazın birleşmesiyle oluştuğuna ilişkin, Cavendish deney sonuçlarını da açıklayınca, bilim çevrelerinin dikkatini çekmede gecikmez. Cavendish deneylerinde, asitlerin metal üzerindeki etkisinden "yanıcı" dediği bir gaz elde etmiş, bunu flogiston sanmıştı. Ancak Priestley'in bir deneyi onu bu yanlış yorumdan kurtarır. Priestley, hidrojen ve oksijen karışımı bir gazı elektrik kıvılcımıyla patlattığında bir miktar çiyin oluştuğunu görmüştü. Aynı deneyi tekrarlayan Cavendish daha ileri giderek patlamada "yanıcı" gazın tümünün, normal havanın ise beşte birinin tüketildiğini, öylece oluşan çiyin ise arı su olduğunu saptar. 
+Flogiston teorisi yıkılmıştı artık. Yeni teorinin benimsenmesi, kimi bağnaz çevrelerin direnmesine karşın, uzun sürmez. Kimyada geciken atılım, sonunda gerçekleşmiş olur. Lavoisier, ulaştığı sonucu Bilim Akademisi'ne bir bildiriyle sunar; ne var ki, tek kelimeyle de olsa Priestley, Cavendish, vb. deneycilerin katkılarından söz etmez. Lavoisier'in aslında ne yeni kimyasal bir nesne, ne de yeni kimyasal bir olgu keşfettiği söylenebilir. Onun amacı yeni ve işler bir sistem kurmaktı. 1789'da yayımlanan "Traité Élémentaire de Chimie" adlı yapıtı, kendi alanında, Newton'un Principia'sı sayılsa yeridir. Biri modern fiziğin, diğeri modern kimyanın temelini atmıştır. 
+Lavoisier'i unutulmaz yapan bir özelliği de nesnelerin kimyasal değişimlerini ölçmede gösterdiği olağanüstü duyarlılıktı. Bu özelliği ona "Kütlenin Korunumu Yasası" diye bilinen çok önemli bilimsel bir ilkeyi ortaya koyma olanağı sağlar. Lavoisier, kimi kez kendi adıyla da anılan bu ilkeyi şöyle dile getirmişti: 
+ölüm tarihi
+1794'de solunum üzerinde deneylerini yapmakta olduğu bir sırada, Lavoisier, Devrim Mahkemesi önüne çağrılır. İki suçlamaya hedef olmuştur: 
+Lavoisier'yi kurtarmak için dostları mahkemeye koşmuştu ama tanık olarak bile dinlenme geregi duyulmamıştı. ""Yurttaş Lavoisier'in çalışmalarıyla Fransa'ya onur sağlayan büyük bir bilgin olduğunda hepimiz birleşiyor, bağışlanmasını diliyoruz"" dilekçesiyle başvuran günün seçkin bilim adamlarına, yargıcın verdiği yanıt kesin ve çarpıcıdır: ""Cumhuriyet'in bilginlere ihtiyacı yoktur!"" Galileo yaşamının son on yılını Engizisyon'un göz hapsinde geçirmişti. Lavoisier'in sonu daha acıklı olur: 51 yaşında iken, "devrim" adına kafası giyotinle kesilir. Lavoisier, boynunun vurulmasını beklerken kitap okuyordur. Cellat, onu giyotine götürmek için yanına geldiğinde, Lavoisier, nerede kaldığını unutmamak için okuduğu kitabın arasına bir kitap ayracı koymuştur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alveol</DOCTITLE>
+<TEXT>
+
+Alveoller, akciğerlerin içinde bulunur. Kılcal damarlardaki olan karbondioksiti alıp, kılcal damarlara içlerinde olan oksijeni verirler. Buna madde alışverişi denir. Alveoller kan dolaşımında da görevlidir. Nefes aldığımızda hava; burun, yutak, gırtlak, soluk borusu, akciğerler, bronşlar, bronşçuklar ve alveoller yolunu izler. Alveoller de havayı temizleyip, kılcal damarlara verir. Damarlar tüm vücuda dağıtır. Kirlenen kan geri kılcal damarlar ile alveollere gelir. Alveoller karbondioksiti alır, bronşlara verir, bronşlar soluk borusuna, soluk borusu burna verir. Burundan da dışarı atılır. Yani alveoller gaz alış-verişini yapar. Yeni alveollere genç alveoller denir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Omurgalı Hayvanlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Sayıları böcekler grubundan çok az olmasına rağmen yaklaşık 48000 üyesi olan omurgalılar, sıra dışı yaşam şartlarına böcekler gibi iyi uyum sağlayan bir diğer gruptur. Omurgaya sahip olan bu hayvanlar bu özellikleriyle omurgasız hayvanlardan ayrılır. 
+Omurga, vücudun sırt kısmında bulunan, omurlardan oluşmuş, kemik veya kıkırdak yapıdadır. Görevi ise içindeki sinir şeritlerini korumaktır. Dış iskelete sahip olan omurgasızların aksine, omurgalıların sahip oldukları iç iskelet canlı dokulardan meydana gelir ve canlı ile birlikte büyür. 
+Omurgalı hayvanlarda kapalı dolaşım sistemi vardır. Sindirim sistemleri gelişmiş ve görevlerine göre özelleşmiş organ ve yapılardan oluşmaktadır. Vücudun sıvı dengesinin sağlanması amacıyla özelleşmiş boşaltım organı olarak bir çift böbreğe sahiptirler. 
+Omurgalılar; balıklar, iki yaşamlılar, sürüngenler, kuşlar ve memeliler olarak beş grupta incelenir. 
+a. Balıklar 
+Bu omurgalı grubunun hepsi sularda yaşar. Dünya üzerinde büyük bir yayılma göstermişlerdir. Okyanuslarda, denizlerde, tatlı sularda, insanların ulaşamayacağı kadar derin sularda ve karanlık sularda yaşayabilen türleri mevcuttur. 
+Balıkların büyük bir çoğunluğunun sulardaki hareketleri sahip oldukları yüzgeçler sayesinde oldukça hızlıdır. 
+Etçil, otçul ve hem etçil hem otçul olarak beslenen üyeleri vardır. Ekonomik anlamda en çok değerlendirilen canlı gruplarındandırlar. Akvaryumlarda beslenerek süs amaçlı kullanılmalarının yanında, yüksek besin ve vitamin değerlerine sahiptirler. Balıklar kıkırdaklı balıklar ve kemikli balıklar olarak iki grup altında incelenir. 
+Kıkırdaklı balıklar 
+İskeletleri kıkırdak yapıda olan balık grubuna kıkırdaklı balıklar denir. Kıkırdaklı balıkların pullarının bulunmasının yanında, bu balıklar hareketli çeneye sahiptir ve dişleri bir mine tabakasıyla kaplıdır. Büyük bir çoğunluğu tuzlu sularda yaşar. Eşeyli üreme gösteren bu canlı grubunda iç döllenme görülür. 
+Bunun yanında gaz alışverişini solungaçlarıyla gerçekleştirirler. Çoğunluğu yırtıcı olmasına karşın planktonlarla beslenen türleri de bulunmaktadır. Köpek balıkları, vatozlar ve tırpanalar (Raja batis-Raya batis) bu hayvan grubundadır (Resim 173). 
+Kemikli balıklar 
+Bu grubun iskeletleri belli yerlerde kemikleşme gösterdiğinden kemikli balık olarak adlandırılmıştır. Çeneleri çok iyi gelişmiş olan bu balıkların güçlü dişleri vardır. Derileri mukus salgılamaya yarayan çok sayıda salgı bezi içerir. Gaz alışverişini kemik yapılı solungaç yayları üzerinde bulunan solungaçlarla yaparlar. Bu balıkların bazılarında yüzme keseleri varken çok az sayıda üyesinin akciğerleri vardır. Yüzme keseleri sayesinde su içindeki konumlarını ayarlayabilirler. 
+Kemikli balıklar çoğunlukla ayrı eşeylidir. Kemikli balıkların çoğunluğu etçildir fakat otçul ve hem etçil hem otçul olan türleri de mevcuttur. Hamsi (Engraulis encrasicolus-Engraulis enkrazikolus), levrek (Dicentrarchus labrax-Disentrarkhus labraks), çipura (Sparus aurata-Sparus avrata) vb. balıklar kemikli balıklardandır. 
+b. İki Yaşamlılar 
+Bu hayvan grubu iribaş döneminde suda yetişkin döneminde ise karada yaşadığı için iki yaşamlılar olarak adlandırılmıştır. Hem suda hem de karada yaşadıklarından çoğunlukla su kenarlarında yaşamlarını geçirirler. Derileri çok sayıda salgı bezleri içerir, bu sebeple derileri her zaman nemli ve yumuşaktır (Resim 174). Yüzmeye ve yürümeye yarayan iki çift üyeye sahiptirler. Kurbağalar ve semenderler bu grubun üyeleridir. 
+Gaz alışverişlerini akciğer, solungaç, deri ve ağız boşluğu astarıyla yaparlar. Bazıları bu solunum tiplerinden birini yaparken bazıları hepsini birden gerçekleştirebilir. Üremeleri eşeyli olarak gerçekleşir. Yumurta ve spermlerini suya bırakırlar; çoğunda dış döllenme görüldüğünden döllenme ve gelişme su içinde gerçekleşir. 
+c. Sürüngenler 
+Günümüzde yaklaşık 6000 kadar türü bulunan sürüngenler sürünerek hareket eder. Sürüngenlerin iskeletleri çok iyi bir şekilde kemikleşmiştir. İç iskelete sahip olmalarının yanında, keratinleşmiş pullardan meydana gelen dış iskeletlere de sahiptirler. Derilerinin sert ve keratinli bir yapıda olması bu hayvanların su kaybını önler ve bu nedenle çok sıcak iklimlerde de yaşamlarını sürdürebilirler. Vücut sıcaklıkları çevreye bağlı olarak değiştiği için çok soğuk iklimlerde yaşayamazlar. Sürüngenlerin büyük bir kısmı akciğer solunumu yapar. Eşeyli üreme gerçekleştiren bu canlı gruplarından bir kısmı, iç döllenmeden sonra yumurtalarını genelde suya yakın bölgelere bırakır (Resim 175). 
+Timsahlar, yılanlar, kaplumbağalar ve kertenkeleler günümüzde yaşamlarını sürdüren sürüngenlerdir. 
+Geçtiğimiz yüzyıl başta olmak üzere sürüngen türlerinin çoğu avlanarak derilerinden çanta ve benzeri eşyalar yapılmıştır. Bu durum bazı sürüngen türlerini yok olma tehlikesiyle karşı karşıya bırakmıştır. 
+ç. Kuşlar 
+Büyük bir çoğunluğunun uçma yeteneğine sahip olduğu omurgalı hayvan grubudur. Kemiklerinin hafif ve içlerinde hava boşluklarının olması ve vücutlarının kuşlara özel olan tüylerle kaplı olması sayesinde vücutları uçmaya uygundur. Kuşların vücudundaki tüyler (hav tüyü) ısı yalıtımı sağlarken, kanatlarında bulunan nispeten daha büyük tüyler (telek tüyler) uçmalarına yardımcı olur. Uçma özellikleri sayesinde başka canlı türlerinin yaşayamadığı yüksekliklere çıkabilirler. 
+Kuşlar uçarken çok fazla enerji kullanır. Bu sebeple yüksek metabolizma hızına sahiptirler. Akciğer solunumu yapan kuşlar, enerji elde etmek için fazla miktarda oksijene ihtiyaç duyar. Akciğerlerinin bağlı olduğu ve kemiklerin iç kısımlarına kadar ulaşabilen hava keseleri uçmaya yardımcı olmanın yanında, 
+ihtiyaç duyulan oksijeni elde etmeye de yardımcı olur. 
+Kuşların çok gelişmiş olan ses çıkarma, duyma ve görme yetenekleri vardır. Özellikle görme yeteneklerinin gelişmiş olması, uçarken yerde olan avlarını görmelerini sağlar. 
+Kuşlarda üreme eşeyli olarak gerçekleşir. İç döllenmenin görüldüğü bu hayvanlar sert kabuğa sahip yumurtalar oluşturur. Dışarı bıraktıkları yumurtaların gelişimini tamamlaması için kuluçkaya yatarlar. Yavrularına özel bakım sağlarlar. 
+Kuşlar hem etçil hem otçul canlılardır. Bitkilerin tohum ve yaprakları ile beslenebilirken, toprak solucanı başta olmak üzere birçok hayvansal besinle de yaşamlarını sürdürürler. Yüksek enerjiye ihtiyaç duyan kuşlar sık sık beslenmek zorundadır (Resim 176). 
+Tavuk, kaz, hindi ve ördek gibi kümes hayvanları da kuşlar grubunda yer alır. Kümes hayvanlarının yumurtaları ve etleri bizler için önemli besin kaynaklarıdır. 
+d. Memeliler 
+Bu hayvan grubu yavrularını süt salgılayan meme bezlerinden besledikleri için memeli adını almıştır. Vücutlarının tamamının veya belli bir kısmının kıllarla kaplı olması bu canlı grubunun karakteristik özelliğidir. Karada ve suda yaşayabilen türleri bulunmaktadır. Bu türlerden denizde yaşayan balina gibi örnekler dışında diğerlerinde dört üye bulunmaktadır. Bu üyelerinin her birinde beş veya daha az sayıda parmak bulunur. 
+İskeletleri iyi bir şekilde kemikleşmiştir. Kafataslarına bağlı biri hareketli diğeri sabit alt ve üst çeneye sahiptirler. Çoğunluğunun dişleri sert ve güçlü olan bu canlı grubu etçil, otçul ve hem etçil hem otçul olarak beslenir. 
+Memeliler yalnızca akciğer solunumu yapar. Akciğerlerini ve kalbini karın boşluğundan ayıran diyafram adında kaslara sahip olan tek canlı grubudur. Vücut sıcaklıkları sabittir ve çevre koşullarına göre değişiklik göstermez. 
+Memelilerin hepsinde eşeyli üreme görülmesine karşın oluşan yavruların gelişimleri farklılık gösterebilmektedir. Bu grubun çoğunluğunu, yavru gelişiminin anne vücudunun içinde gerçekleştiği plasentalı memeliler oluşturur (Resim 177). Bunun yanında yumurtlayarak çoğalan memeli türleri de bulunmaktadır (Resim 178). Bir diğer özel durum olarak, kanguru gibi keseli memeliler yavrularını gelişimlerinin erken döneminde doğurarak gelişimlerini vücutlarında bulunan keselerde tamamlamalarını sağlar (Resim 179). 
+Memeli hayvanlar temel besin kaynaklarımızın önemli bir kısmını bize sunar. Etlerinden faydalandığımız memeli hayvanların sütleri ve bu sütlerden oluşturulan süt ürünleri çoğunlukla kullandığımız besin kaynaklarıdır. Aynı zamanda memeli hayvan derileri çanta, ayakkabı ve kürk gibi ihtiyaç duyduğumuz eşyaların üretiminde kullanılır. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Katrancı, Yatağan</DOCTITLE>
+<TEXT>
+
+Katrancı, Yatağan, Muğla ilçesinin en büyük köyü olup, Yatağan ile Milas arasında bulunan bir orman köyüdür.
+Köyün gelir kaynakları arasında çam fıstığı, zeytin ve tarım ürünleri başta olmak üzere çeşitli meyvalar da yetişmektedir. Köyün rakımı biraz yüksek olduğundan kışları biraz sert geçmektedir. Ekonomi açısındanda Yatağan'nın köylerinin arasında üst yerlerdedir, bunun nedeni de çam fıstığıdır. Ama termik santralinin kurulmasından sonra fıstık üretiminde önemli bir gerileme mevcuttur.katrancı köyü geneloe milas"a göç vermektedir.Köyün güneyindeki KURUKÜMES dağı yemyeşil ormanlarıyla cennetten bir parçaydı.Maalesef yangınlar ve bilinçsiz kesim sonucu neredeyse çıplak bir dağa dönüşmektedir.lütfen bilgileri degistirmeyiniz Son zamanlarda dışarıya göç yaşanmaktadır.Dağdan gelen yağmur ve kar sularıyla su ihtiyaçlarını gidermektedirler.köyde su sorunu yoktur.yakın zamanda köyün ilköğretim okulunun hemen yukarısında sondaj vurulmuş ve bol miktarda yeraltı suyuna rastlanılmıştır.Katrancı Köyü halkı okumaya da önem vermektedir.bugüne kadar birçok meslek grubunda çalışan devlet memuru mevcuttur.köyde okuyup bugün memur olanlardan 3 doktor, 2 ilçe müftüsü,10 hemşire , 8 astsubay, 14 öğretmen, 2 ormancı,2 itfaiyeci,2 mübaşir, 8 polis vardır.üniversitede ve lisede okuyan çok sayıda öğreci mevcuttur. son yıllarda köydeki gençlerin bir kısmı yazları bodrum,milas,muğla, marmaris gibi turistik ve büyük yerleşim yerlerinde çalışarak yaşamlarını sürdürmektedirler.Köyün gelirinin önemli bir bölümünü oluşturan çam fıstığını tanıtım amaçlı bir kez festival yapılmıştır.Köyün en büyük sorunlarından biri;yüzyılardan beri ürününü kullandığı ve kendi aralarında alıp sattıkları çam fıstığı ağaçlarının tapularının devlet tarafıdan verilmeyişidir.Köy halkı senelerdir ekmeğini içinde bulunduğu ormandan aldığı için ormanları gözü gibi bakıyor.Yatağan termik santralinin devreye girmesiyle birlikte yörede yetişen hertürlü meyvada olduğu gibi çam fıstığı verimininde yok denecek seviyelere inmesi insanları ağaçların aralanması ve ilaçlanması gibi verim artırıcı çareler aramaya sevketmiştir.küner alış-verişini katrancı köyünden yapabilirsiniz. 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Peroksizom</DOCTITLE>
+<TEXT>
+
+Peroksizom (diğer adıyla mikrocisimcik) hemen hemen tüm ökaryotik hücrelerde bulunan bir organeldir. Çok uzun zincirli yağ asitlerinin, dallı zincirli yağ asitlerinin, D amino asitlerinin, poliaminlerin katabolizmasında ve memelilerin beyin ve akciğerlerinin normal fonksiyonu için önem taşıyan bir eterfosfolipid olan plazmalojenlerin biyosentezi için gereklidir. Ayrıca enerji metabolizması için önemli olan pentoz fosfat yolundaki iki enzimin toplam aktivitesinin yaklaşık olarak %10'unu içerir. Peroksizomların, hayvanlardaki izoprenoid veya kolesterol senteziyle ilişkili olup olmadığı tartışılmaktadır. Filizlenen tohumlardaki glioksilat döngüsü ("glioksizom"), yapraklardaki fotosolunum, tripanazomatidlerdeki glikoliz ("glikozom") ve bazı mayalardaki metanol veya amin oksidasyonu ile asimilasyonu bilinen diğer peroksizomal işlevlerdir.
+Peroksizom 1954'te İsveçli doktora öğrencisi J. Rhodin tarafından tanımlanmıştır ve 1967'de Belçikalı sitolog Christian de Duve tarafından organel sınıfına konulmuştur.
+Metabolik işlevleri.
+0.3-0.5 mikron çapında ve tek kat zar ile çevrili olan peroksizomlar metabolik aktivitesi fazla olan, karaciğer, böbrek, ve kalp kası gibi hücrelerde fazla bulunurlar. Bunlar katalaz, ürik asit, oksidaz ve d-aminoasit
+Hücrede zehir etkisi yapan hidrojen peroksiti (H2O2); H2O ve ½ O2’ye dönüşen katalaz enzimini taşıyan organeldir.
+Prostitlerde, mantarlarda, yüksek yapılı bitkilerin hücrelerinde, hayvanlarda özellikle karaciğer, kalp, kas ve böbrek hücrelerinde bulunur.
+Protein nakli.
+Proteinler seçilmiş bir biçimde peroksizomlara aktarılırlar.peroksizom içerisinde DNA ya da ribozom barındırmadığı için tüm proteinlerini membranından nakille alır.temel proteinlerin oluşum esansında endoplazmik retikulumdan nakledildiği sanılmaktadır.
+Eksiklikler.
+Peroksizomal hastalıklar lipid metabolizması bozukluklarına yol açarlar.En bilinen örnek Zellweger Sendromu.
+Peroksizom matriksinin proteinleri sitozolde serbest ribozomlarda sentez edilmektedir.
+Genler.
+Peroksizom proteinlerini sentezleyen genler aşağıdadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ethernet kartı</DOCTITLE>
+<TEXT>
+
+Ethernet kartı bilgisayarlarla ağın iletişim kurmasını sağlayan ağa fiziksel olarak bağlanan ağ arabirim kartıdır. Anakart üzerinde bulunan yuvaya yerleştirilerek bilgisayar ağlarında bulunan diğer bilgisayarlarla veri alış verişini sağlamakta kullanılır. Ağda bulunan bu sistemleri birbirinden ayırt etmek için kendilerine özgü olan mac adreslerini kullanırlar.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Boğucu gaz</DOCTITLE>
+<TEXT>
+
+Boğucu gaz, solunan havadaki oksijeni azaltan veya yok eden, zehirli olmayan veya düşük ölçüde zehirli gaz. Oksijeni tükenmiş havanın uzun süre solunması, asfiksi sonucu ölüme (boğulma) yol açar. Boğucu gazların genelde durağan ve kokusuz olmaları nedeniyle, kandaki karbondioksit oranının yükselmesi (hiperkapni) safhasına kadar yüksek konsantrasyondaki varlıkları dahi hissedilmeyebilir. NFPA 704 standardına göre, "SA" "(Simple asphyxiant)" koduyla gösterilirler. Azot, helyum, neon, argon, kripton ve ksenon gibi gazlar bu gruba girerler. 
+Zehirli gazlar ise boğucu gazların aksine, hücrelerdeki oksijene veya solunum sistemine zarar vererek ölüme yol açarlar.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Plug-in</DOCTITLE>
+<TEXT>
+
+Plug-in, kendi başına çalışabilen bir program için, genellikle çok özel bir alanda duyulan gereklilik üzerine geliştirilen, programa yeni özellikler ekleyen yazılımdır. Plug-inler ana programdan bağımsız çalışamaz.
+Uygulamalar çok çeşitli nedenlerden dolayı plug-inlere destek verirler. Bunlardan bazıları şöyledir:
+İşleyiş.
+Ana program pluginler tarafından kullanılacak bâzı servisler sağlar. Bu servisler pug-inin ana uygulamaya kayıt olmasını sağlayacak yolları ve plug-in ile ana uygulama arasındaki veri alış-verişini düzenleyecek protokolleri içerir.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,13 @@
+******	******	+Noun+Prop+A3sg+Pnon+Nom
+
+dünyanın	dünya+Noun+A3sg+Pnon+Gen
+dünyanın	dünya+Noun+A3sg+P2sg+Gen
+
+çevresi	çevre+Noun+A3sg+P3sg+Nom
+çevresi	çevre+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+******	******	+Noun+Prop+A3sg+Pnon+Nom

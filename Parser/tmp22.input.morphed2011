@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Türkiyenin	Türkiyenin	+Noun+Prop+A3sg+Pnon+Nom
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+yüksek	yük+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A1pl
+yüksek	yüksek+Adj
+
+dağı	dağ+Noun+A3sg+P3sg+Nom
+dağı	dağ+Noun+A3sg+Pnon+Acc
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

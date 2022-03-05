@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyanın dünya+Noun+A3sg+Pnon+Gen dünya+Noun+A3sg+P2sg+Gen
+güneş güneş+Noun+A3sg+Pnon+Nom
+etrafındaki etraf+Noun+A3sg+P3sg+Loc^DB+Adj+Rel etraf+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+yörüngesinin yörünge+Noun+A3sg+P3sg+Gen
+elips elips+Noun+A3sg+Pnon+Nom
+biçiminde biçim+Noun+A3sg+P2sg+Loc biçim+Noun+A3sg+P3sg+Loc
+olmasının ol+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+etkileri etki+Noun+A3pl+Pnon+Acc etki+Noun+A3pl+P3sg+Nom etki+Noun+A3pl+P3pl+Nom etki+Noun+A3sg+P3pl+Nom etkile+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,84 @@
+Biyolojik hareket algısı
+Biyolojik hareket algısı biyolojik ajanın sıvı eşsiz hareketi algılama eylemidir. Yüzleri algılama kullanılanlara benzer bazı bu süreçte yer alan birçok beyin bölgeleri vardır. Bir hesaplama nörobilim açısından tam insanlar kolaylıkla bu süreç, bu karmaşık algısal problem çözüldü olarak nasıl öğrenilecek çok şey hala var iken. Bu alanda kullanılan birçok araştırmalar bir noktaya ışığı walker denilen bir görüntü uyaranlar olduğunu Bir aracı. Nokta ışık yürüyüşe her nokta bir eylemi gerçekleştirmeden bir insanın belirli eklemlerin temsil ettiği biyolojik hareketi simüle noktalar hareket koordine edilmektedir.
+Şu anda araştırma geniş bir konu, biyolojik hareket / algı çok farklı modeller öne sürülmüştür. Aşağıdaki modeller formu ve hareket, hem biyolojik hareket algısının önemli bileşenleri olduğunu göstermiştir. Ancak, ne ölçüde bileşenleri oyunun her modelleri üzerine tezat olduğu.
+Nöroanatomi.
+Bu alandaki araştırmalar, görsel sistem dünyada algıladığı bilgiyi işlemek için sorumlu spesifik beyin bölgeleri veya devrelerini tespit etmeyi amaçlamaktadır. Ve bu durumda, özellikle biyolojik ajanlar tarafından oluşturulan hareketi tanıma.
+Tek Hücre Kaydı.
+En hassas araştırma primat beyin tek hücreli kayıtları kullanılarak yapılır. Bu araştırma aynı zamanda V5 olarak anılacaktır ve alan MST (medial superior temporal bölge), böyle bir alan MT (orta görsel temporal bölgede) olarak primatlarda hareket algısına önemli alanlar vermiştir. Bu alanlar hareketin belirli sınıflara tepki yön hücreleri, genişleme / daralma hücreleri ve rotasyon hücreleri olarak karakterize hücreleri içerir.
+Nörogörüntüleme.
+Ayrıca, insan katılımcılar araştırma da yürütülmektedir. Tek hücreli kayıt insanlar üzerinde yapılan olmasa da, bu araştırmalar, görüş noktası ışık yürüteç uyaranlara gibi biyolojik hareket algılama görevleri yürütürken etkin hale nasıl beyin bölgelerinin hakkında bilgi toplamak için böyle fMRI, PET, EEG / ERP olarak beyin görüntüleme yöntemleri kullanır. Araştırmanın bu tür ortaya Alanlar dorsal görsel yolu, extrastriate vücut alanı, fusiform girus, üst temporal sulkus ve premotor korteks vardır. ventral görsel yolunun ("ne" yol) ile tezat olarak dorsal görsel yolunun (bazen "nerede" yol olarak anılacaktır), hareket ipuçları algılamasında önemli bir rol oynadığı gösterilmiştir olmuştur. Ventral yolu formu ipuçları için daha sorumlu iken.
+Nöropsikolojik hasar.
+Değerli bilgiler de bir hastanın nörolojik hasar çeşit muzdarip olan durumlarda öğrenilebilir ve dolayısıyla nöral işleme belirli işlevleri kaybeder yapabilirsiniz. Alan MT insan homoloğunu dahil bilateral lezyonlar olan bir hastada, uyarıcı gürültü gömülü olan biyolojik hareketi, ortalama gözlemci tamamlamak için güçlü bir görevi görmek için kendi yeteneğini kaybetti. Onların üst temporal ve frontal premotor alanlarına lezyonları sürdürülmesi inme hastalarında başka çalışmada, böylece bu algı sürecine önemli olarak bu alanları suçlayan, biyolojik hareket uyaranların kendi işlenmesinde açıklarını gösterdi. Posterior görsel yolları içeren ve lateral parietal-zamansal-oksipital korteks etkileyen iki taraflı lezyonları olan bir hastada yapılan bir vaka çalışması, erken hareket görevleri ile mücadele ve henüz bir nokta ışık yürüteç, bir üst düzey biyolojik hareketini algılayan başardı görev. Bu durum bölge V3B ve alan KO biyolojik hareket algılamasında olası rollerini düşündüren, hala bozulmamış olduğu gerçeğine bağlı olabilir.
+Biyolojik Hareket Algılama Modelleri.
+Biyolojik Hareket Formu (Lange & Lappe, 2006) Bilişsel Modeli.
+Arkaplan.
+Form ipuçları göreceli rolleri biyolojik hareket belirsizdir algılama sürecinde hareket ipuçlarına göre. Önceki araştırmalar, yerel hareket kuyrukları gerekli hangi koşullarda veya tek katkı untangled değil. Bu model form sadece ipuçları biyolojik hareket algılama psikofiziksel sonuçlar çoğaltmak nasıl bakar.
+Modeli.
+"Şablon Oluşturma"
+Aşağıdaki gibi aynı. 2.2.2 Şablon Oluşturma görün
+"1. Aşama"
+İlk aşama hafızasında dik insan yürüteç şablonları kabul kütüphane uyaran görüntüleri karşılaştırır. Belirli bir uyarım çerçevedeki her bir nokta, bir şablon bu kombine ağırlıklı mesafeler işlevi tarafından çıkışı sağlanır en yakın konumda kol ile karşılaştırılır:
+nerede formula_2 belirli bir uyaran nokta pozisyonunu verir ve formula_3 şablonda yakın uzuv konumu temsil eder. formula_4 uyaran Şekil boyutuna ayarlamak için reseptör alanının boyutunu temsil eder.
+en iyi uyan bir şablon daha sonra kazanan-alır-tüm mekanizma tarafından seçilen ve sızdıran entegratörü girdi:
+nerede formula_6 ve formula_7 sırasıyla yanal uyarma ve önlenmesi için ağırlıklar ve uyarıcı karşı karşıya hangi yöne sol / sağ kararı sağlayan formula_8 etkinliklerdir.
+"Aşama 2"
+İkinci aşama yanındaki geliyor ne olacağını çerçeve beklentilerini değiştirmek için uyarıcı kare zamansal düzeni kullanmayı dener. denklem
+evre 1 formula_10 hesap aşağıdan yukarıya girişine alır, olası yanıtlar için karar aşamasında 2 faaliyetleri formula_11 ve seçilen çerçeve formula_12 ve önceki çerçeve formula_13 arasındaki ağırlıklar fark.
+"Etkileri"
+Bu model, bir nörolojik uygulanabilir bir model biyolojik hareket ve yönünü tespit etmek için formu ile ilgili ipuçlarının yeteneklerini vurgulamaktadır. Küresel Hareket bilgisi gerekli değildi rakamlar ve bunların yönünü tespit etmek için - Sahne 1 modelinin sonuçları, tüm davranış verileri tek başına formu bilgisini kullanarak çoğaltılmış olabileceğini gösterdi. Bu model formu ipuçlarının kullanımı olasılığını gösterir, ancak ekolojik geçerlilik eksikliği için eleştirilebilir. İnsanlar statik ortamlarda biyolojik rakamlar algılamaz ve hareket dik rakam tanıma doğal bir yönüdür.
+Postür Uzayda Motion Detection (Theusner, Lussanet ve Lappe, 2014) tarafından Eylem Tanıma.
+Genel Bakış.
+Biyolojik hareket algılama Eski modeller zamanla birbirlerine eklem ve uzuv hareket göreli izleme ile ilgilidir. Ancak, biyolojik hareket algısı son deneyler hareket bilgisi eylem tanıma için önemsiz olduğunu ileri sürmüşlerdir. Bu model daha ziyade hareket doğrudan bilgi algısından daha duruş tanıma dizilerinden algılanması nasıl biyolojik hareket gösterir. Bir deney konuları nokta ışık ve sopa rakam yürüyüş uyaranlara hareket sundu edildiği bu modelin geçerliliğini test etmek yapılmıştır. Yürüme uyaran Her kare bir duruş şablonuna eşleşti, ilerlemesi Hareket algılamayı ima 2D duruş zamanı arsa üzerinde kaydedilir.
+Postür Modeli.
+"Şablon Oluşturma"
+Uyarıcı eşleştirme için Duruş şablonları yürüyen dokuz kişiden hareket izleme verileri ile inşa edilmiştir. Oniki büyük eklemlerde (ayak, diz, kalça, el, dirsekler, omuzlar ve) 3D koordinatları takip ve bacak hareketi oluşturmak için aralarında interpolasyon bulundu. 2D projeksiyonları beş set oluşturuldu: sola, öne doğru, sağa ve iki 45 ° ara yönelimleri. Son olarak, dokuz yürüyüşe projeksiyonları duruş uzayda yürüme hızı (siklus başına 100 kare 1.39 saniye), boy ve kalça yeri için normalize edildi. Dokuz yürüyüşe biri yürüme uyarıcı olarak seçildi ve kalan sekiz eşleştirme için şablon olarak tutuldu.
+"Şablon Eşleştirme"
+Şablon eşleme yürüteç uyaran statik çerçeveye benzerlik tarafından heyecanlı bir nöron tarafından açıklandığı gibi duruş seçici nöronlar taklit ederek hesaplanır. Bu deney için, 4.000 nöronlar (8 yürüyüşe kez döngü süreleri 5 2D projeksiyonları başına 100 kare) oluşturulmuştur. Aşağıdaki gibi uyarıcı bir çerçeveye bir nöronun benzerlik hesaplanır:
+Nerede bir uyarıcı noktasını ifade formula_15 ve zaman formula_17 de uzuv yerini tarif formula_16; formula_18 tercih duruş açıklar; formula_19 formula_20 puan uyarana bir nöronun yanıtı açıklar; ve formula_4 bacak genişliği tanımlar.
+"Tepki Simülasyonu"
+nöron en yakın zaman içinde yürüme uyaran değişiklikleri duruş benzeyen. nöral aktivasyon deseni, 2B arsa grafikle bir duruş zamanı arsa çağrılabilir. X ekseni boyunca, şablonlar ileri yürüyüş desene göre kronolojik sıraya göre düzenlenmiş. Zaman başlangıç ​​kökenli karşılık gelen y ekseni boyunca ilerler. geriye yürüme tersine negatif eğimli bir hat olarak ifade edilir ileri yürüme hareket algısı, kökeni olumlu eğimli bir hat olarak temsil edilir.
+Hareket Modeli.
+"Postür Uzayda Hareket Algılama"
+Bu modelde kullanılan duruş zamanı araziler nesne hareketi tanımlamak için kullanılan yerleşmiş uzay-zaman grafiklerini takip edin. Uzay-zaman grafikleri y ekseni ve x ekseni de mekânsal boyutta zamanla, hattın eğimine göre bir nesnenin hızını tanımlar. Bir nesnenin hareketi hakkında bilgi uzay-zamansal filtreler ile tespit edilebilir. Bu biyolojik hareket modelinde, hareket benzer algılandı ancak x ekseni boyunca duruş alanı için mekansal boyut değiştirir ve vücut hareketi uzay-zamansal filtreler yerine posturo-zamansal filtreler kullanılarak tespit edilir.
+"Posturo-Zamansal Filtreler"
+Tarafından tarif edildiği gibi sinir tepkiler önce normalleştirilir
+burada formula_23 nöral cevabı tarif etmektedir; formula_18 zamanda formula_17 en tercih edilen duruş tarif eder; formula_26 formula_17 üzerindeki tüm nöronların üzerinde ortalama nöral cevabı açıklar; ve formula_28 normalize cevabı tarif etmektedir. Filtreler ileri ve geri yürüyüş (formula_29 sırasıyla) için tanımlanır. posturo temporal filtre cevabı tarif edilmektedir
+nerede formula_31 zamanında formula_32 de filtrenin yanıttır; ve formula_33 duruş boyutu tanımlamaktadır. Filtrenin tepki ile normalize edilir
+formula_20 nöron seçme vücut hareketinin tepkisini açıklar nerede. Son olarak, vücut hareketi hesaplanır
+Nerede formula_37 vücut hareketi enerjisini anlatır.
+Biyolojik Hareket Tanıma (Casille ve Giese, 2005) için Kritik Özellikler.
+İstatistiksel Analiz ve Psikofiziksel Deneyleri.
+baskın yerel optik akış hareket: aşağıdaki model biyolojik hareket tanıma, tek bir kritik özelliği ekstraksiyon yoluyla gerçekleştirilebilir düşündürmektedir. Bunlar aşağıdaki varsayımlar hem istatistik analizler ve psiko-fiziksel deneylerin sonuçlarının yaklaşık getirildi.
+Birincisi, Temel bileşenler analizi tam vücut 2d yürüyüşe ve nokta ışık yürüyüşe üzerinde yapıldı. Analiz baskın yerel optik akış özellikleri tam vücut 2d uyaranlara ve nokta ışık yürüyüşe (Şekil 1) hem de çok benzer olduğunu gördük. Denekler bir noktaya ışık walker görüntüleme üzerine biyolojik hareketi tanıyabilir beri, daha sonra bu iki uyaranlara arasındaki benzerlikler, biyolojik hareket algılamak için gerekli olan kritik özellikleri vurgulamak olabilir.
+Psikofiziksel deneyler vasıtasıyla, bu konular (Şekil 2), yatay doğrultuda rakip hareketini içeren bir CFS uyaran kullanarak, ancak rastgele yatay bir yönde hareket noktalar, biyolojik hareket tanımak bulunmuştur. Çünkü noktaların hareketi, bu uyaran biyolojik hareket tanıma ağır kritik bir özellik olarak forma dayanmaz düşündürmektedir bir insan iskeleti modeline uygun olamazdı. Ayrıca, psikofiziksel deneyler konular benzer CFS uyaran ve SPS hem biyolojik hareketi tanımak olduğunu gösterdi, nokta ışık yürüteç ve noktalar her n çerçeve için insan vücudunun şekli içinde farklı pozisyonlara yeniden edildiği bir uyarıcı ve böylece formun önemini vurgulamaktadır Hareket vs (Şekil 1).. Aşağıdaki psikofiziksel deneylerin sonuçları hareketi, biyolojik hareket tanımak için kullanılabilecek önemli bir özelliği olduğunu göstermektedir.
+Aşağıdaki istatistiksel analiz ve psikofiziksel deneyler nedeniyle CFS uyarıcı verilen biyolojik hareketi tanıma konularda yeteneği, biyolojik hareket recognition.Furthermore baskın yerel hareket kalıplarının önemini vurgulamak, yatay rakibi hareketi ve kaba konumsal bilgi önemli olduğu kabul edilmektedir Biyolojik hareket tanınması için.
+Modeli.
+Aşağıdaki örnek artan karmaşıklık ile hareket özelliklerini belirler mevcut nöronlardan modellenmiş dedektörleri içerir. (Şekil 4).
+"Yerel Hareket Dedektörleri"
+Bu dedektörler farklı hareket yönleri algılar ve maymun V1 / 2 ve bölgede MT içinde nöronlardan modellenmiştir
+Yerel hareket dedektörleri çıkış aşağıdaki gibidir:
+Tercih yön formula_40 ile pozisyon yönü formula_42 ise, hız formula_41 olduğunu nerede formula_39 ve formula_43 böyle dikdörtgen hız ayar fonksiyonudur
+Hareket enerjisi dedektörleri yönü ayarlama tarafından verilmektedir
+nerede formula_48 yönü ayar fonksiyonu genişliğini belirleyen bir parametredir. (Simülasyonu için q = 2).
+"Rakibin hareket seçimi için sinir dedektörleri"
+Aşağıdaki sinir dedektörler sayesinde iki komşu altbaşlıklarla içine önceki yerel hareket enerjisi dedektörleri çıktısını araya havuzu ile yatay ve dikey rakibi hareketi algılamak için kullanılır. Aynı yönde tercihi yerel hareket dedektörleri aynı subfield birleştirilir. Bu dedektörler gibi MT olanlar gibi rakibi harekete duyarlı nöronların sonra modellenmiştir ve superior temporal (MST) medial bulundu. Ayrıca, KO / V3B işleme kenarların, hareketli nesneler ve rakibin hareketi ile ilişkili bulunmuştur. Dorsal yolu alanlarına hasar, ancak sağlam bir KO / V3B olan hastalar, hasta AF görüldüğü gibi can hala biyolojik hareketi algılarlar.
+Bu dedektörler için çıkış aşağıdaki gibidir:
+formula_50 çıkış yönü tercihleri ​​formula_51 ve formula_52, merkezli olup, iki alt alanlardan mekansal pozisyonları işaret formula_53 pozisyon olduğu.
+Rakibin hareket dedektörü son çıkış olarak verilir
+nerede çıktı formula_56 farklı mekansal konumlarda tip formula_55 ve dedektörlerin toplanmış tepkiler olduğunu.
+"Optik akış modelleri detektörler"
+Her bir dedektör bir eğitim uyaran bir karede görünüyor ve söz konusu çerçeve için bir anlık optik akış alanını hesaplamak. Üstün zamansal sulkus ve Fuziform yüz bölgesinde Bu dedektörler modeli nöronlar
+Bu dedektörlerin giriş vektörü u düzenlenmiş ve önceki rakibi hareket dedektörleri 'cevaplardan oluşmaktadır. Çıktı şudur:
+öyle ki formula_58 her bir nöron için radyal tabanlı fonksiyon merkezi ve formula_59 eğitim sırasında ayarlanır ve u vektör karşılık olan öğeleri içeren bir köşegen matristir. Eğitim üzerinde varyans belirli bir eşiği aşmadığı takdirde bu unsurlar sıfıra eşit. Aksi takdirde, bu unsurlar varyans tersini eşit.
+Biyolojik hareket tanıma aktivitesinin sekansına bağlı olduğundan, aşağıdaki model seçici dizisidir. Optik akım paterni nöron aktivitesi, aşağıdaki denklem ile modellenir
+bir eşik fonksiyonu, asimetrik bir etkileşim çekirdek formula_65 ve formula_66 önceki bölümde elde edilen constant.formula_64 olan formula_61 formula_62-inci alıştırma sırası belirli bir çerçeve, zaman formula_32 olup.
+"Tam biyolojik hareket kalıplarının Dedektörler"
+Aşağıdaki dedektörler sırayla optik akım paterni dedektörleri çıkışını toplamı seçici (sol yürüyüş vs. sağ yürüyen gibi) tüm hareket desenleri etkinleştirin. Bu dedektörler optik akış modeli dedektörleri modeli modeli benzer nöronları:
+Üst temporal sulkus ve Fuziform yüz alanı
+Bu dedektörlerin giriş optik akış hareket dedektörleri aktivitesi, formula_67 vardır. Bu dedektörlerin çıktısı aşağıdaki gibidir:
+(örneğin sola yürüme) desen tipi formula_55 cevaben tam biyolojik hareket desen dedektörü aktivitesi formula_69 öyle ki, formula_71 (simülasyon 150 ms kullanılır) zaman sabiti eşittir ve formula_72 optik akış paterni dedektör etkinliğini eşittir dizi l k'ıncı karede.
+Modeli test.
+CFS ve SPS uyaran hem de yönünü yürüyen doğru belirlenmesi kullanarak, model psikofiziksel deneyler olarak benzer sonuçlar çoğaltmak mümkün oldu. (CFS ve SPS uyaranlara yönünü yürüme ve nokta sayısını artan doğru artan belirleyebilir). Biyolojik hareket tanıma hem CFS ve SPS uyaranlara mevcut olan rakibin yatay hareket bilgisi ile mümkün olduğu kabul edilmektedir.
+Dış bağlantılar.
+Nokta ışık walker Demo: [http://www.biomotionlab.ca/Demos/BMLwalker.html]
+Kaynaklar:

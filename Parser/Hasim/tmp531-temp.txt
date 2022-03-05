@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Türkiye türki+Adj^DB+Noun+Zero+A3sg+Pnon+Dat Türkiye+Noun+Prop+A3sg+Pnon+Nom
+elektrik elektrik+Noun+A3sg+Pnon+Nom
+üretiminin üretim+Noun+A3sg+P2sg+Gen üretim+Noun+A3sg+P3sg+Gen
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+kadarını kadar+Noun+A3sg+P3sg+Acc kadar+Noun+A3sg+P2sg+Acc kadar+Postp+PCNom^DB+Noun+Zero+A3sg+P2sg+Acc kadar+Postp+PCNom^DB+Noun+Zero+A3sg+P3sg+Acc kadar+Postp+PCDat^DB+Noun+Zero+A3sg+P2sg+Acc kadar+Postp+PCDat^DB+Noun+Zero+A3sg+P3sg+Acc
+HESten HESten+Noun+Prop+A3sg+Pnon+Nom
+karşılamaktadır karşıla+Verb+Pos+Prog2+A3sg+Cop karşıla+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

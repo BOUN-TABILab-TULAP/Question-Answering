@@ -1,0 +1,198 @@
+Question: Ses kayıt makinasının icat edilme tarihi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sayısal ses</DOCTITLE>
+<TEXT>
+
+Sayısal Ses, Analog ses verisinin bilgisayarlarda işlenebilmesi için dönüştürülmüş haline denir. 
+Bilgisayarlara genellikle ses kartları ile aktarılan Analog ses verisi bu kartların üzerinde bulunan ADC adı verilen çevirici donanım parçaları ile dijital veriye dönüştürülür. Analog ses verisi elektriksel bir sinyaldir ancak dönüştürülen dijital ses verisi 1 ve 0'lardan oluşan ikili biçimdedir.
+Sayısal ses verisi sesin iki temel unsuru olan dalga yüksekliği ve dalga frekansını sayısal olarak saklar. Bunun için ses verisinin biçimi kayıt sırasında tespit edilmelidir, her bir ses verisi için dalga yüksekliğinin kaç bitlik bir genişliğe sahip olacağı ve frekansın hangi sıklıkta kayıt edileceği sesin netliğini ve sayısal verinin boyutunu değiştirir. Dalganın en üst noktası ile en alt noktası arasındaki fark miktarı ne kadar yüksek olursa ses o kadar berrak olacaktır, bunu sağlamak için sayısal sesin bit değerinin yüksek olması gerekir. Örneğin 16bit/44khz'lik bir sayısal ses 8bit/22khz'lik bir sesten daha net bir sonuç verir ve kayıttaki küçük ayrıntılar daha iyi duyulur.
+Sıkıştırma.
+Sayısal verisi ikili biçimde kayıt edildiğinden sıkıştırılabilir ve üzerinde değişiklik yapması kolaydır. Sıkıştırma işlemi genelde kayıplı ve kayıpsız olarak ikiye ayrılır. Kayıpsız sıkıştırmada ses kalitesinde bir değişim olmazken kayıplı sıkıştırmada kalite sıkıştırma oranıyla ters orantılı olarak düşer. Örneğin zip veya rar biçimindeki sıkıştırmalar kayıpsızdır ancak mp3 veya ogg biçimine dönüştürülen sayısal seslerde kalite düşer.
+Örneğin ses verisinin sıkıştırılmamış halinde bir ses dalgasında saniyede 1000 ses verisi kaydedildiği varsayılırsa bunu kayıplı sıkıştırabilmek için bu ses dalgasından saniyede 300 ses verisi seçilerek kaydedilecektir. Bu durumda ses dalgası yumuşaklığını ve doğallığını kaybedecek daha köşeli ve ayrıntılarını kaybetmiş bir hale gelecektir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ses</DOCTITLE>
+<TEXT>
+
+Ses, atmosferde canlıların işitme organları tarafından algılanabilen periyodik basınç değişimleridir. Fiziksel boyutta ses, hava katı sıvı veya gaz ortamlarda oluşan basit bir mekanik düzensizliktir. Bir maddedeki moleküllerin titreşmesi sonucunda oluşur.
+Yayılma.
+Sesin yayılması için maddesel ortama ihtiyaç vardır. Yani boşlukta ses yayılmaz. Ses dalgalar halinde yayılır. Ses kaynağından çıkan ses maddenin taneciklerini titreştirir. Bu nedenle ses yayılır. Ses dalgasının her bir tam devrinde bir sıkışma ve bir seyrekleşme serisi vardır. Ses, tanecikler halinde yayılır, tanecikler ne kadar sık ise o kadar hızlıdır. Sesin yayılma hızı sırasıyla katıdan sıvıya, sıvıdan gaza azalır. Hız (V) = uzaklık (D)/ süre (T) biçiminde gösterilen genel hız formülü aslında teorik bir değer niteliği taşımamaktadır. Çünkü bu formülde göz önüne alınmayan dış faktörler, ses dalgalarının hızı üzerinde bir dizi etkiler yaratır. Örneğin rüzgar sesi uzaklara taşır, gece ve gündüzün sıcaklık farkları ses dalgalarını etkiler. Ses dalgaları katılarda yaklaşık olarak 5000 m/s hızla yayılır. Suda 1453 m/s hızla yol alır. Havada 340 m/s yol alır. Ses kaynakları ikiye ayrılır bunlar doğal ses kaynakları ve yapay ses kaynaklarıdır.
+Ses kaynakları.
+Ses veren her madde bir ses kaynağıdır. Sesler kaynaktan aldığı enerjilerle titreşerek yayılırlar. Titreşen cisimler esnek olup sesi oluşturur. Esnek olan cisimler ses dalgaları meydana getirebilir ve ses dalgalarını iletebilir. Ses mekanik dalga olduğu için yayılması için bir ortama ihtiyaç duymaktadır. Ses dalgaları ortamlarda sıkışma ve genleşme şeklinde boyuna ilerleyen dalgalardır. Ses dalgalarının basıncı olup girişim sunucu vuru oluştururlar.
+Doğal ses kaynakları.
+Yağmur, rüzgâr, su akıntıları, gök gürültüsü, canlı sesleri ,doğa sesleri gibi kendiliğinden ses çıkaran ses kaynaklarıdır.
+Yapay ses kaynakları.
+Makina, enstrüman gibi üretilmiş araç-gereçler yapay ses kaynaklarıdır.
+Frekans.
+Sesin bir frekansı, boyu, periyodu ve hızı bulunmaktadır. Sesin birim zamandaki (genellikle saniye) titreşim sayısına "frekans" denir. Birimi ise Hertz (Hz)dir. Dalga boyu, bir ses dalgasının oluşması için sesin aldığı yoldur. Sesin hızı normal koşullarda; havada 340, tahtada 4000-6000, suda 3000-5000, çelikte ise 8000 m/s dir. Ses boşlukta yayılmaz. Çünkü titreşen bir cismin sıkışıp genleşmesine yol açabilecek atom ya da molekül gibi tanecikler yoktur.
+Çok alçak frekanslı ses (infrasonic).
+Sesberi ya da infrasound olarak nitelendirilen ses frekansları, 20 Hz den az olurlar. Böylece insan kulağının duyamayacağı kadar düşük, fakat hava basıncı değişiklikleriyle oluşan ses dalga frekanslarından daha yüksektirler.
+İnsan kulağının teorik olarak 20 Hz ile 20000 Hz arasını duyduğu söylense de, en iyi 250 Hz ve 3000 Hz arasındaki konuşma frekansı bölgesini duyar. Hayvanlar, insanların duyamadığı ses frekanslarını bile algılayabilirler. Örneğin fillerin ayağında çok alçak frekansları algılayan doğal alıcılar vardır.
+Çok yüksek frekanslı Ses (Ultrasonic/ultrasonik).
+Sesöte ya da ultra sound, insan kulağının duyamayacağı çok yüksek frekanstaki seslere verilen addır. Frekansı 20.000 Hz'in üstündedir.
+Hayvanlar 20.000 HZ den yukarisini duyabilirler. Francis Galton (1822-1911) köpeklerin bu özelliğinden yararlanarak Galton Köpek Düdüğünü tasarlamıştır. Sadece köpeklerin duyabileceği frekanslardaki sesleri veren bu düdük köpek terbiyeciliğinde ve istenmeyen köpeklerin uzak tutulmasında kullanılmaktadır. Frekansı 16000 ile 22000 Hz arasındadır. Uygulamada bu kadar yüksek sıklığa sahip ses, insan kulağı tarafından duyulamamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ses sinyali</DOCTITLE>
+<TEXT>
+
+Ses sinyali her hangi bir sesin iletilmek veya saklanmak için elektromanyetik enerjiye çevrilmiş halidir. Bu sinyal AF kısaltmasıyla da gösterilir.
+Ses havadaki titreşimin kulakta oluşturduğu duygudur. Titreşim çok farklı frekanslarda olabilir. Bu titreşim mikrofon vasıtasıyla ses sinyaline çevrilir. Ses kaydeden cihazlarda cihazın kaydettiği en düşük ve en yüksek frekanslar arasındaki bölge ses bandı (AF bandı) olarak bilinir.
+Kulak duyarlılığı.
+İnsan kulağının algıladığı frekanslar 20 Hz ile 20 kHz (20 000 Hz.) arasındadır. Düşük frekans kalın, yüksek frekanslar ise ince seslere aittir. Ancak burada belirtilen sınırlar kulakları olağanüstü duyarlı genç insanlarda ölçülmüş uç değerlerdir. İnsanların büyük bölümünün kulakları bu derece duyarlı değildir. 
+Bu sebepten kaliteli müzik dinletisi için ses bandının üst sınırının 15 kHz olması yeterli sayılır. 
+İnsan ve müzik aletlerinin sesleri.
+En kalın erkek sesinin (bas) frekansı 85 Hz civarında,en ince kadın sesinin frekansı ise (soprano) 1050 Hz civarındadır. 
+Müzik aletlerinin ürettiği ses (nota) frekansı ölçülmüştür. Bir oktavlık nota frekansı aşağıdaki tabloda görülmektedir. Bu tabloda sadece müzik aletlerinin en çok kullandıkları oktav gösterilmiştir. Diğer oktavlarda ise frekanslar bu tabloda gösterilen nota frekanslarının tamsayı ast veya üstü katıdır. Mesela la (A4) notasının frekansı 440 Hz.dir.Bir oktav yüksek (ince) la notasının frekansı bunun iki mislidir. Müzik aletleri arasında en ince ses piyanonun en ince do sesidir. 4186 Hz.lik bu nota 261.6 Hz.lik do notasının 4 oktav üstündedir. Kemanın en ince sesi ise ince soldur. (3136 Hz )
+Ses kalitesi (veya Ses rengi).
+İnsan ve müzik aletlerinin ürettiği seslerin insan kulak duyarlılık bölgesinin ancak bir bölümünü oluşturduğu görülmektedir. Ne var ki ses bandını müzik aletinin en ince sesi frekansında, mesela 4186 Hz.de sınırlamak sesleri madenileştirir ve müzik keyfini tamamen ortadan kaldırır.Çünkü bu durumda farklı müzik aletlerinden gelen tiz sesler arasında fark kalmaz ve dinleyici kulağına gelen sesin hangi müzik aletinden geldiğini bile anlayamaz. Bunun sebebi her müzik aletinin farklı bir harmonik yapısına sahip olmasıdır. Bu harmonik yapıya ses kalitesi veya ses rengi denilir. Müzik aletinin kendine özgü ses rengiyle kulağa iletilmesi için de ses bandı çok daha yüksek frekanslı sesleri geçirebilecek nitelikte olmalıdır. 
+Her müzik aleti belli bir frekansta titreşim yaparak ses üretir. Ne var ki üretilen ses uygun bir ölçü aletinde incelendiğinde müzik aletinin sadece bir frekansta değil, pek çok frekansta ses ürettiği görülür. Bu seslerden en düşük frekanslı olan aynı zamanda en yüksek genliğe sahiptir. Çalınan notayı da o frekans belirler. Bu frekansa ana frekans (fundamental) denilir. Diğer sesler ise daha düşük genlikli, fakat daha yüksek frekanslıdır. Frekansları genellikle ana frekansın tam sayı katıdır. Bu küçük genlikli, yüksek frekanslı seslere harmonik denilir. İşte kulağın farklı müzik aletlerini birbirinden ayırmasını sağlayan bu harmoniklerdir. 
+İdeal diyapozonun harmoniği yoktur. Ancak bütün müzik aletleri (ve tabii insan seslerinin) kendilerine özgü harmonik yapıları vardır. Özellikle akordeon çok sayıda harmoniği ile dikkat çeker ve halk arasında bu alet için “sesi zengin” tanımlaması yapılır.15 kHz lik ses bandı çok sayıda harmoniğin iletilmesine uygundur.
+Ses yayınında bant genişliği.
+Günümüz teknolojisinde ses saklamak için çok geniş ses bantları kullanmak mümkündür. Özellikle CD ler kulak duyarlılığının çok ötesinde bir bantla kayıt yapabilirler. Ne var ki, ses iletiminde bazı sınırlamalar vardır. Yayıncılıkta yayına tahsis edilen radyo frekans alanının sınırlı oluşu ve ses bandı genişledikçe bu bölgenin de genişleme zorunluluğunun oluşu yayınlanan seslerin bandında bazı sınırlamalara yol açmıştır. (Ancak sayısal yayıncılık bu sınırlamaları büyük ölçüde kaldıracaktır.) Buna göre ses bandı FM radyo vericilerinde 15 kHz., genlik modüleli (AM) radyo vericilerinde 5 kHz., ve telefonda da 3.4 kHz.dir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dolby Digital</DOCTITLE>
+<TEXT>
+
+Dolby Digital, Dolby Laboratuvarları tarafından geliştirilen veri ve ses sıkıştırma teknolojilerinin ismidir. Orjinali ismi, 1994'e kadar Dolby Stereo Digital olarak kullanılmıştır.
+Versiyonları.
+Dolby Digital,bunların içinde olduğu benzer teknolojilere sahiptir; Dolby Digital EX, Dolby Digital Live, Dolby Digital Plus, Dolby Digital Surround EX, Dolby Digital Recording, Dolby Digital Cinema, Dolby Digital Stereo Creator ve Dolby Digital 5.2 Creator.
+Dolby Digital.
+Dolby Digital, 6 farklı ses kanalını kapsayan yaygın versiyondur. En özenle hazırlanmış biçiminin yaygın kullanımı normal aralıklı konuşmacılar(20 Hz – 120 Hz ses aralığı) için 5 kanal ve low-frequency effect güdümlü subwooferlar için de tek kanal(20 Hz – 20,000 Hz) (sağ ön, merkez, sol ön, arka sağ, arka sol) daha gerektirmektedir. Bu aynı zamanda mono ve stereo biçimleri destekler. AC-3, 48 kHz ses hızına kadar destekler.
+"Batman Returns" Dolby Digital teknolojisinin ilk filmiydi, 1992 yazında sinemalarda ilk gösterimi yapıldı. 1995'de çıkan "Clear and Present Danger" filminin Laserdisc versiyonu Dolby Digitalin ilk ev sineması örneğidir.
+Dolby Digital filmleri listesi.
+1994.
+Bu codec değişik isimlere sahiptir:
+Dolby Digital EX.
+Dolby Digital EX pratikte Dolby'nin erken Pro-Logic formatına benzerdir.matrix ses kayıt teknolojisinde yararlanır.Bir merkez kanala ve stereo film müzikleri için tek arka surround kanala sahiptir. EX, standart 5.1 kanal Dolby Digital kodlamasına bir ilave ekleyerek, 6.1 ya da 7.1 kanal çıkış oluşturur.
+Dolby Digital Surround EX.
+"Dolby Digital EX" teknolojisinin sinema versiyonudur. Dolby Digital "Surround" Ex ismiyle anılır ve benzer çalışma stiline sahiptir. Dolby Digital Surround EX teknolojisi Lucasfilm THX ve Dolby'nin 1999'un Mayısında "" filmi için ortak geliştirdiği bir projedir.Bu, tasarruf ve geriye-uyum sağlıyordu. Bunun anlamı 5.1 film müziklerini 6. ya taşıyabilmek, merkez arka surround kanalını efeklerin lokalizasyonu için kullanabilmekti. extra surround channel, 5.1'in sağ surround ve sol surround farkı üstüne bir bir matrix kodlamasıdır. Dolby Pro Logic'ın stereo film müziklerini ön merkez kanal'dan kodlaması gibi. Elde edilen sonuç, 5.1 standart sistemlerinde hiç bir bilgi kaybı olmadan oynatılabilir. Surround EX deşifre etme ve ek hoparlörlerle desteklenmiş, 6.1 ve 7.1 sistemlerinde de aynı şekilde kayıpsız oynatılabilir. Dolby Digital Surround EX Star Wars'un dvd versiyonundaki tanıtım bölümlerinde ve aynı zamanda orjinalinden, ses kalitesi artırılmak için yeniden düzenlenmiş Star Wars üçlüsünde kullanıldı. Dvdlerin bazıları Dolby Digital Surround EX ses seçeneğine sahiptir.
+Dolby Digital Live.
+Dolby Digital Live (DDL) video oyunları gibi interaktif medya ürünleri için gerçek zamanlı ses kodlama teknolojisidir. Bilgisayar veya oyun konsollarında ses sinyallerini 640kbpsde 5.1-kanal 16-bit/48 KHz Dolby Digital ses biçimine dönüştürür ve bunu tek bir S/PDIF kablosu ile taşır. Bu teknolojiye benzer bir başka ses teknolojisi olan DTS Connect rakip firma olan DTS tarafından piyasaya sunulmuştur ve kulllanılmaktadır. Dolby Digital Live teknolojisi, S/PDIF protokolünün sadece iki kanallı PCM, Dolby Digital multichannel audio, and DTS multichannel audio gibi teknolojileri desteklemesi nedeni ile sayısal PCM stereo or analog çok kanallı gibi ses teknolojileri ile sınırlanmıs tüketici ses kartlarıyla sayısal çok kanallı sesin kullanılabilmesine imkan sağlar . HDMI protokolünün duyurulması ile birlikte, sıkıştırılmamış çok kanallı PCM, kayıpsız sıkıştırılmış çok kanallı ses ve kayıpsız sıkıştırılmış sayısal ses biçimleri taşınmaya başlandı fakat Dolby Digital Live, HDMI protokolünün sıkıştırılmamış çokkanallı PCM ses biçimini taşıyamaması nedeni ile bu protokol üzerinde çok kanallı ses taşınmasını sağlayabildiği için hala kullanılmakta.
+Dolby Digital Live birçok değişik üreticinin ses chipsetlerini kullanan farklı ses kartlarında mevcut. Xbox oyun konsolu ve bazı nForce2 anakartlarında bulunan SoundStorm, Dolby Digital Live teknolojisinin eski sürümlerini kullandı. DDL ayrıca Realtek'in ALC882D, ALC888DD ve ALC888H kodekli anakartlarda da mevcut. C-Media'nın PCI ses kartları ve Creative Labs'ın X-Fi ses kartları da DDL teknolojisini destekleyen aygıtlar arasındadır.
+Eylül 2008'den beri, bütün Creative X-Fi serisi ve X-Fi ses chipini taşıyan ses kartları DDL'i desteklemektedir ('Xtreme Audio' ve Prodigy 7.1e serisi ses kartları dışında).
+Orjinal olarak, Creative X-Fi merkezli ses kartları DDL (2005~2007) desteklemez. Creative ve Auzentech, Auzentech Prelude projesini geliştirdiklerinde, bu proje X-Fi için ilk DDL kart desteği olacaktı. Onlar DDL desteğinin tüm X-Fi merkezli ses kartları için genişletilmesini istedi. Bununla beraber, Dolby'nin şimdiye kadar satılmış tüm X-Fi kartların telif hakkı ücretlerini ödeyerek belgelendirmesi gerektiğinden plandan vazgeçildi. 2008'de Creative, X-Fi Titanium ses kartı serilerini piyasaya sürdü. Bunlar tamamıyla Dolby Digital Live'ı destekliyordu. Creativ X-Fi'nin PCI versiyonlarının hepsi halen DLL desteğinden mahrumdur.
+-->
+Dolby Digital Plus.
+E-AC-3 (Dolby Digital Plus) AC-3 kodlaması üzerine geliştirilmiş bir kodlama sistemi merkezidir. Bit oranlarını(6.144 Mbit/s'e kadar) yükseltmeyi sağlar. Ve 13.1'e kadar ses kanallarını destekler. Ve kodlama tekniklerini geliştirerek sıkıştırmalarda oluşan işlem hatalarını azaltır. E-AC-3 kodlayıcıların genelde AC-3 ya da DTS (S/PDIF yolu ile ekipmanla bağlanarak) kod çevrimi yapabilmesine rağmen, mevcut AC-3 bilgisayar donanımları ile uyumlu değildir. Sadece üretimi durdurulmuş HD DVD sistemleri direk olarak E-AC-3'ü desteklemektedir. Blu-ray diskleri ise E-AC-3'ü isteğe bağlı olarak ek kanallar nakli ile 5.1 AC-3 akışının aksi yönünde kullanır.
+Dolby TrueHD.
+Dolby TrueHD, Dolby Laboratuvarları tarafından geliştirilmiş, Meridian Lossless Packing merkezli ileri düzey kayıpsız ses kodlamasıdır. Bu kodlama için olan destek,HD DVD için zorunlu ve Blu-ray Disc bilgisayar donanımları için opsiyoneldir. TrueHD 24-biti destekler. TrueHD supports 24-bit, 96 kHz audio channels at up to 18 Mbit/s over 14 channels. HD DVD ve Blu-ray Disklerin standart sınırı maksimum sekiz ses kanalıdır. Dolby TrueHD, Dynamic Range Control ve Diyalog normalleşmesinin de içinde olduğu üstverileri destekler.
+Kanal yapılandırmaları.
+Çoğunlukla 5.1 kanal konfigürasyonuyla ilişkilendirilse de, Dolby Digital çeşitli kanal seçenekleri sunar. Bu seçenekler şöyledir:
+Bu yapılandırmalar isteğe bağlı olarak fazladan Low Frequency Effect (LFE) kanalı içerebilir. En son iki stereo surroundlarda isteğe bağlı olarak Dolby Digital EX matrix şifre çözücü kullanımı ile fazladan bir Rear Surround kanalı eklenebilir.
+Çoğu Dolby Digital kodlamaları, şifreleri çözülmüş kanalları hoparlörlere dağıtması için downmixing ekipmanına sahiptir. Bu, surround bilgilerini eğer surround hoparlörleri uygun değilse, ön hoparlörler vasıtasıyla oynatmak gibi işlevleri içerir. Ve eğer uygun merkez kanal yoksa merkez kanalı sol ve sağ taraflara dağıtır. Ekipmanın çıkışı 2-kanal bağlantısına ayrıldığında, bir Dolby Digital kodlayıcı isteğe bağlı olarak Dolby Surround'un kullandığı çıkışa surround bilgilerini zarar görmeden kodlar.
+5.1, 7.1 vb. sayılardaki '.1' bu sistemlerdeki LFE kanalını kastetmektedir, bu kanal aynı zamanda farklı bir kanaldır.
+Teknik detaylar.
+AC-3'ün veri düzenlemesi, resmi teknik özelliklere göre "C-like" programlama diliyle sadeleştirilmiş tanımlamasıdır. Bir AC-3 akışı, karelerin bir dizisidir; her biri 6 ses bloğunun belirlenmiş bir sayısıdır; her bir ses bloğu da kanal başına 256 ses örneği içerir. Örneğin, bir 5.1 AC-3 veri akışı her ses bloğu için 1536 örnek içerir(6 kanal × 256 örnek/kanal). Kanal blokları hem uzun, hem de kısa olabilir. Uzun olabilmesi için ana blok durumu, tekli modified discrete cosine transform olarak gelişmiş olmalıdır, kısa olabilmesi için de iki yarım uzunluktaki transformların durumu, blok üzerinde yüreyendir. Aşağısı ise sadeleşmiş bir AC-3 kolektörüdür. Detaylı bir betimlemesi; ATSC "Digital Audio Compression (AC-3) Standard" bölüm 5.4.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ses kartı</DOCTITLE>
+<TEXT>
+
+Ses kartı, bilgisayarda analog ve dijital ses işlevlerini yerine getiren elektronik birimidir. 
+Dâhilî olarak PCI- veya PCI-Express kart yuvalarına takılan kart türleri olduğu gibi, haricî olarak USB bağlantı noktasına bağlanan, pcmcia yuvalarına takılan ve profosyonel alanlarda kullanılmak üzere Güvenlik duvarı girişinede bağlanabilen versiyonları mevcuttur. Eski ses kartları ISA yuvalarına takılabilirler. Ayrıca anakart üzerinde bütünleşik sunulan ses yongaları da mevcuttur.
+Tarihi.
+Ses kartları bilgisayar alanında 1989/90'lı yıllarda popülerliğe kavuşmuştur, AdLib ve Soundblaster kartları, konuşmacı adı verilen, sistem içindeki hoparlörün yerine ses işlevlerini üstlenen kartlardır. Daha sonra piyasaya sürülen Roland LAPC-I ile birlikte, bilgisayar büroların dışında oyun amaçlı da kullanılmaya başlanmıştır. 
+Donanım tabanı.
+Temelde bir ses kartının görevi A/D cevirici yonga vasıtası ile analog ses sinyali ses kartı girişinden dijitale çevrilir ve dijital ses sinyalleri de ses kartı çıkışında analog ses sinyallerine çevrilir.
+İlave özellikler.
+Bilgisayarın arka çıkışının sınırlı olması, ve takılacak cihazlar için bilgisayarın arkasına ulaşmanın zor olması sebepleriyle bazı ses kartlarına ön paneller ilave edilebilir. Bazen de ilave slot kapağı biçiminde giriş çıkış panelleri kullanılır, bu kapaklar ses kartına özel bir kablo ile bağlanırlar. Yine daha fazla giriş sunmak için, bazı ses kartı üreticileri özel girişler, ve bu girişe takılan, daha çok ses giriş-çıkışına sahip kablolar verirler. 
+Renk Kodları.
+Ses kartındaki bağlantılar renkler biçiminde " bilgisayar sistem dizayn rehberi" olarak kodlanmıştır. Bu bağlantılar her jack pozisyonu ile bağlantılı, oklar , çemberler ve ses dalgaları şeklinde sembollere de sahiptir. Bu sembollerin anlamları aşağıda verilmiştir:
+Bütünleşik ses kartları.
+Ses kartları anakarta bütünleşik de olabilirler. Bu tür çözümler daha uygun maliyetli olurlar.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ses bilgisi</DOCTITLE>
+<TEXT>
+
+Ses bilgisi ya da fonetik sözcüğü, Yunanca “"ses"” anlamında olan" phōnḗ " sözcüğünden türetilen ve “"işitilen, duyulan"” anlamına gelen "phōnētikós" sözcüğünden gelmektedir. Ses Bilgisi, dilsel seslerin öğelerini araştırır. Ses Bilgisi; Modern Dilbilim, Biyoloji, Akustik Bilimi, Sinir Bilimi, Tıp ve diğer bilimlerle ilişkili olan kendine özgü, disiplinler arası bir alandır. Ses Bilgisinin araştırma nesnesi, konuşulan dildir.
+İşlevsel Ses Bilgisi, Ses Bilim gibi konuşulan dili farklı açılardan ele alır. Ses Biliminde “dil sistemindeki ses birimlerin işlevleri”, Ses Bilgisinde ise sözlü ifadelerdeki özellikler söz konusudur ve Ses Bilgisi, fen bilimlerinin yöntemlerini kullanır. Ses Bilgisinin amacı görgül dil üretimi ve bu üretimin algılamasının imkân ve sınırlarını araştırmaktır. 
+Ses bilgisinin çalışma alanları.
+Ses Bilgisi, çalışma alanı olarak ikiye ayrılır: 
+Genel ses bilgisi.
+Genel Ses Bilgisi, bir dildeki işaretlerin üretimi, aktarımı ve alınması ile ilgilenir. 
+Genel Ses bilgisinin bu üç çalışma alanına karşılık gelen alt alanları şunlardır: 
+Ses bilgisi.
+Alt Alanları:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Digital Audio Workstation</DOCTITLE>
+<TEXT>
+
+Digital Audio Workstation (DAW) yani dijital ses işleme istasyonu elektronik bir sistemde, ses kayıt ve editleme işlemlerinin yapıldığı ortama verilen isimdir. Bu işlemi ses editleme programlarında MIDI ile dijital sesi ilişkilendirip yapmakta mümkündür. Başlıca ses editleme programları Cubase, Cakewalk Sonar, FL Studio, Ableton Live, Logic Pro, Adobe Audition, Digital Performer, XT Software sayılabilir.
+İlk olarak analog olarak kaydedilen ses, elektronik ortamda dijital verilere dönüştülür. Kompüterde işlenen ses, çıktısı alınırken yine analog sese çevrilip ses çıkış aygıtlarına aktarılır. Yani dijital ortam yalnızca sesi işlemekle görevlidir. 
+Ses dijital ortamda bitlerle saklanır. İlk elektronik kayıt dinleme ortamı olarak kullanılan Kasetçalar'daki kalite oranı 8 bit, CD'deki kalite oranı ise 16 bitdir. Son ses teknolojisindeki kayıt ve edit kalitesi 24 bittir. Bit sayısı ne kadar artarsa ses analog sese o kadar yakın olur yani kalitede o oranda yüksek olacaktır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşitleme (ses)</DOCTITLE>
+<TEXT>
+
+Ses işlemede eşitleme bir ses örneğinin frekans zarfını değiştirme işlemidir. Sesi elektronik ortamda akustik olarak şekillendiren devredir.
+Etimolojik olarak, bir sinyalin frekans cevabını düzeltmek, eşitlemek anlamına gelmektedir. "Eşitleyici" (Ekolayzır) terimi genellikle yanlış olarak ses filtresi anlamında kullanılmaktadır. DJ mikser ekipmanı ve yüksek duyarlılıklı ses bileşenleri genellikle bu türden grafik eşitleyicilerine sahiptir. 
+Kullanımı.
+Kanal kaydında ve ses güçlendirici devrelerde, her bir kanal estetik bir amaç güderek eşitlenebilir, fakat tüm bu kanallar birleştirildikten sonraki yapılan eşitleme işlemi pratik bir amaç gütmektedir. Her akustik alanda bazı frakanslar diğerlerinden daha güçlü duyulacaktır. Bunun nedeni,alanın büyüklüğü, bu alandaki materyaller ve objelerin oluşturduğu kararlı dalgalardır. Eşitleme, bu tutarsızlıkları telafi etmek için kullanılabilir. Ideal olarak bir ses sistemi düz bir frekans cevabı verir. Bir odanın frekans cevabı bir spektrum çözümleyicisi ve genellikle bir grafik eşitleyici ile kontrol edilir, eşleşen frekans bantları belirlenir, ve bu banttaki cevap odaya göre ayarlanıp telafi edilir. Bu her ses kayıt stüdyosu, konser ses sistemleri va bazı yüksek duyarlılıklı ses sistemlerinde yapılan rutin bir işlemdir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dijital Ses İşleme İstasyonu</DOCTITLE>
+<TEXT>
+
+Digital Audio Workstation (DAW) yani dijital ses işleme istasyonu, elektronik bir sistemde, ses kayıt ve editleme işlemlerinin yapıldığı ortama verilen isimdir. Bu işlemi ses editleme programlarında MIDI ile dijital sesi ilişkilendirip yapmak da mümkündür. Eski tip analog sistemlere göre DAW; kayıt, edit, mix, mastering vb. gibi konular üzerinde çalışan kişilere büyük bir kolaylık ve hız sağlamaktadır. Bant kayıtlarındaki edit hataları, elektromanyetik alandan etkilenerek ortaya çıkan kayıplar vb. gibi problemler yaşatmaz. Ses üzerinde yapılan işlemler pek çok kablo üzerinden geçerek değil virtual processor(sanal işlemci) üzerinden yapılır. Stüdyo gibi çalışma ortamlarında yerden de büyük kazanç sağlayarak pek çok hardware ekipmanları ufak bir kutuya (PC-MAC) sokar. Bu tip çalışma şekline "in the box" adı verilir. Günümüzde pek çok üst düzey ses mühendisi, mastering mühendisi, prodüktör vb. kişiler de tercihini DAW'dan yana kullanmaktadır. Başlıca programlar arasında Pro Tools, Cubase, Cakewalk Sonar, Logic Pro, Adobe Audition, Digital Performer, ve Reaper sayılabilir. 
+İlk olarak analog elektrik sinyaline dönüştürülen ses, elektronik ortamda dijital verilere dönüştürülür. Bilgisayarda işlenen ses, çıktısı alınırken yine analog sinyale dönüştürülüp ses çıkış aygıtlarına aktarılır.
+A/D/A (Analogtan dijitale - dijitalden analoga çeviri işlemi) sistemler genellikle DAW'larda, audio üzerine kullanılır. A/D/A kullanılan sistemlerde, akustik sinyalin analog sistemlere göre doğallıktan çok daha uzak bir etkisi olması dijital sistemin dez avantajlarından biridir. Bu sebepten dolayı günümüzde başlıca tercihler arasında analog ve dijital sistemleri birbirine karıştırarak elde edilen soundlar vardır. Elektronik devrelerin doğallığına ulaşabilmek için program üreticileri sürekli olarak kendini geliştirerek, yeni teknoloji arayışları içerisindelerdir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ses hızı</DOCTITLE>
+<TEXT>
+
+Ses hızı havada, deniz seviyesinde ve 21 °C sıcaklıkta 343.2 m/s (343.2 metre/saniye) (yaklaşık 1224 km/saat) olarak alınır. 
+Ses hızı frekansa bağlı olarak değişmez, her frekansta ses aynı hızda gider.
+Havanın sıcaklık, yoğunluk durumuna göre sesin yayılma hızı değişir. Soğuk havada ses hızı azalır. Ses sıcak havadan soğuk havaya geçerken yayılma doğrultusunu değiştirir.
+Sesin havadaki hızı yaklaşık olarak şu formülle hesaplanabilir: 
+Formüldeki formula_2 (theta) sıcaklığın derece santigrad (°C) cinsinden ifadesidir.
+Herhangi bir alanda, rüzgâr arkadan eserse ses zemine doğru yönlenir. Rüzgar önden eserse, ses zeminden yukarı doğru yönlenir. Gündüz, zemin ısındığı için ses dalgaları ısı etkisi nedeniyle yukarı doğru yönelir. Gece, zemin soğuduğu için ses dalgaları daha uzağa gidecektir ve aşağıya doğru yönelir.
+Denizde suyun yapısı yansıtıcı bir yüzey oluşturmaktadır. Bu nedenle denizde ses sakin bir ortamda 4-5 km. kadar uzağa gidebilir.
+Hareketli ses kaynağının hızı, sesin yayılma hızını geçince, ses, patlama sesi olarak duyulur. Bu durumda dalga ışın gibi konik bir alana yayılır ve şok dalgaları olarak isimlendirilir. Böyle durumlarda sesin yayılma hızının kaynağın yayılma hızına oranına Mach sayısı denir. Ses hızını ilk geçen insan Chuck Yeager olmuştur.
+
+</TEXT>
+</DOC>
+

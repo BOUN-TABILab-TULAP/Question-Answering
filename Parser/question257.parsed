@@ -1,0 +1,12 @@
+1	Konik	konik	Adj	Adj	_	2	MODIFIER	_	_
+2	projeksiyon	projeksiyon	Noun	Noun	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	ile	ile	Postp	Postp	PCNom	10	MODIFIER	_	_
+4	düzlem	düzlem	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	projeksiyon	projeksiyon	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	10	LOCATIVE.ADJUNCT	_	_
+7	nasıl	nasıl	Adj	Adj	_	8	MODIFIER	_	_
+8	farklar	fark	Noun	Noun	A3pl|Pnon|Nom	10	SUBJECT	_	_
+9	_	var	Adj	Adj	_	10	DERIV	_	_
+10	vardır	_	Verb	Zero	Pres|A3sg|Cop	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

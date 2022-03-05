@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Hiposantr	Hiposantr	+Noun+Prop+A3sg+Pnon+Nom
+
+depremin	deprem	+Noun+A3sg+Pnon+Gen
+depremin	deprem	+Noun+A3sg+P2sg+Nom
+
+nerede	nere	+Pron+Ques+A3sg+Pnon+Loc
+
+oluşturduğu	oluş+Verb^DB+Verb+Caus+Pos^DB+Adj+PastPart+P3sg
+oluşturduğu	oluş+Verb^DB+Verb+Caus+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+kısımdır	kısım+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

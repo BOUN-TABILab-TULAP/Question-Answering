@@ -1,0 +1,211 @@
+Question: Aksonun elektriksel izolasyonunu sağlayarak, uyartı iletimini hızlandıran yapıya ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akson ucu</DOCTITLE>
+<TEXT>
+
+Akson uçları, bir aksonun dallarındaki distal uçlardır. Akson sinir lifi, sinir hücresinin (nöron) ince uzun bir çıkıntısıdır. Bu lif, aksiyon potansiyel olarak adlandırılan elektriksel uyartıları, sinir hücresinin gövdesinden (soma), diğer sinir hücrelerine iletir. 
+Sinir hücreleri birbirleriyle karmaşık olarak bağlıdırlar. Bir nörondan diğerine uyartı iletmek için, elektrokimyasal sinyalleri ve nörotransmitter kimyasalları kullanır. Komşu nöronlardaki akson uçları, sinaps olarak adlandırılan küçük bir boşluk tarafından ayrılır. Uyartılar bu boşluktan karşıya iletilir. Akson ucu ve ona bağlanan nöron bazen, "presinaptik" nöron olarak ta adlandırılır. 
+Sinir uyartısını serbest bırakma.
+Nörotransmitterler, bir sinapsin presinaptik tarafındaki akson ucu zarı altında kümelenen sinaptik vezikül içinde paketlenir. Akson uçları, presinaptik hücrenin elektriksel uyartısını serbest bırakmak için gelişmişdir.
+Uçlar, kimyasal sinaps olarak adlandırılan bir boşluk içindeki maddelerin, sonraki nöronun uçları ile dendritleri arasında iletilmesine olanak sağlar. Bilgi bu boşluğa bağlanan postsinaptik hücrenin dendrit reseptörleri tarafından alınır. Nöronlar birbirlerine değmez. Fakat sinapslardan karşıya iletişim sağlanır. 
+Etkileşim haritası.
+Nörobiyoloji doktoru Prof. Dr. Wade Regehr, beyinde meydana gelen sinaptik etkileşimi görmek için bir yöntem geliştirdi. Boyaya kalsiyum eklendiğinde floresansın özellikleri değişir. Floresans mikroskop tekniklerini kullanılarak kalsiyum seviyeleri algılanır ve böylece presinaptik nöronda kalsiyum akar. Psikolojik süreçler ve mekanizmalar üzerinde çalışma epilepsi, şizofreni ve majör depresif bozukluk gibi psikolojik bozuklukları daha iyi anlamaya yardımcı olduğu gibi bellek ve öğrenmeyi de geliştirir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miyelin</DOCTITLE>
+<TEXT>
+
+Miyelin, tabaka biçiminde yalıtkan bir malzemedir. Miyelinli, etrafı Schwann hücreleri tarafından sarılmış olan aksonları tanımlamak için kullanılan bir terimdir. Miyelin kılıf genellikle bir sinir hücresinin (nöronun) aksonunu çevreler. Sinir sisteminin düzgün çalışması için olmazsa olmazlardandır. Nöroglianın bir çıkıntısıdır. Miyelin kılıfın oluşması miyelinizasyon veya miyelinleşme olarak adlandırılır. İnsanda miyelinin oluşması her ne kadar fetus (cenin] gelişiminin 14. haftasında başlasa bile, doğum esnasında beyinde küçük miyelinler vardır. Bebeklik döneminde, miyelinleşme hızlı olur ve ergenlik dönemine kadar devam eder.
+Schwann hücreleri, çevresel sinir hücreleri için miyelin sağlar. Miyelin, çevresel sinir sisteminde Schwann hücreleri tarafından oluşturulurken, merkezi sinir sisteminde oligodentroglialar (veya oligodentrositler) tarafından oluşturulur.
+Miyelin kılıf.
+Miyelin kılıf, sinir hücresinde (nöronda) bulunur. Nöronun çevresini bir yağ tabakası şeklinde sarar.
+Beyaz renktedir. İmpulsların (uyarıların) daha hızlı bir şekilde iletilmesini sağlar. Duyu sinirleri miyelin kılıf bulundururlar. Aksonun üzerinde yalıtkan bir madde olarak bulunurlar.
+Miyelin kılıf, merkezi ve çevresel sinir sistemlerindeki sinir hücrelerinde uyartıların hızını artıran, uyartı eşiğini düşüren, bunları sinir hücresinin çapıyla doğru orantıyla yapan, lipit ve proteinden oluşan bir dokudur.
+Miyelinin bileşikleri.
+Miyelin, farklı hücre türleri ve çeşitli kimyasal bileşikler ve yapılan tarafından oluşturulur. Fakat aynı yalıtkanlık işlevini gerçekleştirir. Miyelinli aksonlar beyaz görülür. Bu yüzden beynin "beyaz madde"sidir. Yağ, aksonların elektrik yüklü atom ve moleküllerinin yalıtılmasına yardım eder. Bu yük iyonları, tüm sinir sistemi etrafındaki sıvılarda bulunur. Bir mikroskop altında sosisler gibi görülür. Miyelin, bir çocuğun hızlı gelişiminin bir parçasıdır. Buna bebeğin birinci yıldaki emeklemesi ve yürümesi de dahildir. 
+Miyelinin yaklaşık %40'ı sudur. Kuru kütlesinin yaklaşık %70-85'i yağ, %15-30'u proteindir. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İnhibisyon teorisi</DOCTITLE>
+<TEXT>
+
+İnhibisyon teorisi ya da baskılayıcı direnç, nöronlar arasında uyartı iletimini durduran mekanizma.
+Nörotransmiter madde ikinci nöronun zarına tutunur. Burada Cl- iyonlarının geçirgenliğini artırır ve Cl- iyonları nöronun zarından içeri girer. Bu, negatif (-) yüklü iyonları daha da artırır ve bu şekilde uyartının iletimi engellenmiş olur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akson</DOCTITLE>
+<TEXT>
+
+Akson (Yunanca, axis), bir sinir lifi olarak ta bilinir, bir sinir hücresinin (nöronun) ince, uzun bir çıkıntısıdır. Sinir hücresinin gövdesindeki elektriksel uyarıları uzağa iletir. Aksonun işlevi bilgiyi farklı sinir hücrelerine, kaslara, bezelere iletmektir. Dokunmak ve sıcaklık algılama işlemlerini gerçekleştiren Pseudounipolar nöronlar gibi bazı duyu nöronlarında, elektriksel uyarılar, aksonun çeperinden hücrenin gövdesine doğru, oradan da aynı aksonun başka dalları vasıtasıyla omuriliğe gönderilir. Akson uyumsuzluğu, kalıtsal ve edinsel nörolojik hastalıklara neden olabilir. Bu hastalıklar hem merkezi hem de çevresel sinir sistemlerindeki nöronları etkileyebilir.
+Akson, nöronun hücre gövdesinden çıkan iki protoplazma çıkıntısından uzun biridir ve diğerinden daha uzundur. Diğer çıkıntı dendrittir ve aksondan daha kısadır. Aksonlar, şekilleri (dendritler daha çok koniksel yapıya sahipken, aksonlar genellikle sabit bir yarıçapa sahiptir), uzunluk (dendritler hücre gövdesinin küçük bir bölümünde sıkışmışken, aksonlar daha uzun olabilir) ve işlev (dendritler genellikle sinyalleri alırken, aksonlar onları iletir) gibi bazı özelliğinden dolayı dendritlerden daha seçkindirler. Tüm bu özellikleren bazı istisnaları da vardır.
+Bazı tür nöronlarda akson yoktur ve dendritlerindeki sinyalleri kendileri iletir. Bir aksondan daha fazla nöron olmazsa bile, böcekler gibi bazı omurgasızlarda akson bazen birbirlerinden bağımsız işleyen birkaç bölgeden oluşur. Çoğu aksonlar dallanır, bazı durumlarda da aşırı dallanır.
+Aksonlar, (çoğunlukla diğer nöronlar, bazen de kas ve bezeler gibi) diğer hücrelerle bağlantı sağlar. Bu bağlantı noktalarına sinaps denir. Bir sinapsta akson zarı, hedef hücre zarını ile yan yanadır. Özel moleküler yapıları elektriksel ve elektrokimyasal sinyalleri boşluğun karşısına iletmeyi sağlar. 
+Anatomi.
+Aksonlar sinir sisteminin birincil iletim hatlarıdır. Bazı aksonlar bir metreden daha uzun olabilirken, bazıları bir milimetreden daha kısadır. İnsan vücudundaki en uzun aksonlar, omurilikten ayakların baş parmağına kadar uzanan siyatik sinirde bulunur. Aksonların çapı değişir. En özel aksonlar mikroskopik (yaklaşık 1 mikron) çapa sahiptirler. Memelilerdeki en büyük akson 20 mikrondan daha büyük çapa ulaşabilir. Sinyalleri çok hızlı iletmesi ile özelleşen Kalamar aksonu yaklaşık 1 milimetre çapındadır. Bu da küçük bir kalem ucu kadardır. Merkezi sinir sistemindeki aksonlar, birçok dala sahip karmaşık ağaçlar gibi görülür. Karşılaştırmada beyinciğin granül hücre aksonu basit bir T şekli ile özelleşmiştir.
+Merkezi ve çevresel sinir sistemlerindeki, sinir hücresinin aksonunu çevreleyen, tabaka biçimindeki yalıtkan malzemeye miyelin denir. Miyelin nöroglianın bir çıkıntısıdır. Schwann hücreleri, çevresel sinir sistemindeki nöronları oluşturur. Miyelinli sinir lifleri boyunca miyelin kılıftaki boşluklar (Ranvier boğumları) her bir boşluktan sonra ortaya çıkar. Miyelin kılıfın oluşmasına miyelinleşme veya miyelinizasyon denir. Miyelinleşme, elektriksel tepkinin daha hızlı yayılmasını sağlar. Miyelin tabakanın ortadan kalkması (demiyelinizasyon) Multipl skleroz hastalığına neden olur.
+bir omurgalıdaki beyin eğer açılır ve ince kesitlere dilimlenirse, her bir kesitteki bazı parçalar koyu olurken, diğer parçalar daha açık renkli olur. Koyu parçalar gri madde olarak ve açık renkli parçalar da beyaz madde olarak bilinir. Beyaz madde rengini aksonların oradan yoğun olarak geçmesinden dolayı alır. Serebral korteks, yüzeyinde gri madde bulunan bir mürekkep tabakaya sahiptir. Bu tabakanın altında da çok miktarda beyaz madde vardır. Bunun anlamı, yüzeydeki tabakanın büyük bir kısmı, nöron hücre gövdeleri ile doldurulurken, alt tabakanın büyük bir kısmı da miyelinli aksonlarla doldurulur.
+Başlangıç segmenti.
+Akson başlangıç segmenti — aksonun doğrudan hücre gövdesine bağlanan segmentidir — özelleşmiş karmaşık proteinlerden oluşur.. Miyelinlidir ve yaklaşık 25 µm uzunluğuna sahiptir ve aksiyon potansiyel başlatma işlevlerini gerçekleştirir. Kalınlık bir tarafa bırakılırsa, hücre gövdesine (soma) bağlanan aksonun miyelinli parçasındaki başlangıç segmentinde çok miktarda sodyum ve potasyum kanalları vardır. Aksonun başlangıç segmentindeki sodyum kanallarının anma gerilim yoğunluğu, akson tepeciği hariç, geri kalan aksonlarınkinden veya bitişik hücre gövdesindekinden daha fazladır. 
+Hasar.
+Önem derecesine göre bir sinirdeki hasar nöropraksi, aksonotmezis veya nörotemezis ile açıklanır.
+Sınıflandırma.
+İnsan çevresel sinir sistemindeki sinirleri oluşturan aksonlar, fiziksel ve sinyal iletim özelliklerine göre sınıflandırılabilirler.
+Motor.
+Alt motor nöronlarda iki tür lif vardır:
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nöropraksi</DOCTITLE>
+<TEXT>
+
+Nöropraksi, sinir iletiminin kesintiye uğramasından dolayı motor ve duyunun işlevlerinin geçici kaybı olan, çevresel sinir sisteminin bir bozukluğudur. Genellikte, tam onarılmaları altı ile sekiz hafta arasında olur. Nöropraksi, apraksi kelimesinden türetilmiştir. Kas ve duyu bozulmaksızın, tam düzenli hareketlerin yürütülmesinin kaybı veya bozulması anlamına gelir.
+Bu durum normal olarak, kas liflerinin ve motor nöronlarının bir dış çarpmaya uğrayarak, sinire belirli bir müddet ek bir baskı uygulaması sonucu ortaya çıkan, hafif sinir hasarıdır ve tamamen iyileştirilebilir. Bu baskı iskemi oluşturur ve sinirsel bir doku bozukluğu (lezyon) ile sonuçlanır. İnsan vücudu baskıya doğal olarak, baskı olduğu yerdeki tüm yönlere doğru uzayan ödem ile tepki verir. Bu yara tam veya kısmi sinir sinyali iletimini keserek, sinyalin sinir lifinin sonraki segmentine atlamasına neden olur. Bu da, yarada sinirsel bağın aşağı yöndeki parçalarının işlevlerini azaltmasıyla veya kaybetmesiyle sonuçlanır ve kas kuvvetini kaybeder.
+Nöropraksi, miyelin kılıftaki geçici bir hasarın sonucudur. Fakat sinirin yapısı sağlamdır. Bu yüzden, nöroprakside Wallerian dejenerasyonu meydana gelmez. Dejenerasyonun nöroprakside oluşmaması için çevresel sinir hasarı sınıflandırmasına uygun olarak sinir sinyali iletimini onarılmadan önce motor ve duyu işlevinin tamamen ve hızlıca kurtarılması gerekir. Aksi taktirde, hasar aksonotmezis veya nörotemezis olarak sınıflandırılır. Bu yüzden nöropraksi, çevresel sinir hasarı sınıflandırmasında en hafif olanıdır. 
+Nöropraksi, profesyonel atletlerde, özellikle Amerikan futbolu oyuncularında, çok yaygın olarak görülür. Bu yüzden doktor tarafından tedavi edilmelidir.
+Anatomi.
+Nöropraksi, çevresel sinir sisteminde, üst vücudun ulnar (dirsek), medyan, radyal ve brakial pleksus sinirlerinde ve alt vücudun siyatik ve peroneal sinirlerinde meydana gelir. Çevresel sinirler "miyelimli", uzun ve uzamsal olarak karmaşık hücrelerdir. Büyüklük ve bağlanırlıkları onların hasarlara maruz kalmalarını kolaylaştırırken, diğer taraftan kendilerini onarma becerilerine sahiptirler. Bu durum yalnızca nöropraksi için geçerli değildir. Mikroskopik incelemeler göstermiştir ki, miyelin kılıfta hasar varken, aksonda yoktur. Bu yüzden, distal sinir lifleri dejenerasyona uğramaz, miyelin hasarı onarılabilir. 
+Patolojinin görevi.
+Patolojinin görevi, hasar oluştuktan sonra ilk 24 saat içinde, sinir hasarının genel bir tesbitini yapmaktır. Hasarın ilk fiziksel belirtisi, hasarın olduğu yerde bir şişkinlik oluşmasıdır. Sinire yapılan aşırı baskı sonucu, hücresel boyutta nörotüplerde (sinirsel mikrotübüllerde) parçalanma ve nörofilament oluşur. Bazı yerlerdeki aksonlar şişer ve diğerlerini sıkıştırır. Böylece boncuksu bir şekil ortaya çıkar.
+Belirtiler.
+Çeşitli sinir türleri, nöropraksinin konusu olabilir. Bu yüzden hasarın belirtileri aşama ve yoğunluğa göre derecelendirilir. Nöropraksinin ortak belirtileri, etkin sinir veya sinirlerin bölgesinde duyu bozukluğu, kas gücü kaybı, vasomotor, sudomotor felci ve hasarlı noktadaki sinir duyarlılığının anomalliğidir. Araştırmalar göstermiştir ki, hasarlı bölgedeki öznel duyu belirtiler şunlardır: uyuşma, karıncalanma, yanma hissi. Nesnel duyu belirtileri; dokunma, ağrı, sıcaklık ve soğukluk sayılabilir. Motor nörondan dolayı nöropraksideki belirtisi, hasarlı sinirle veya sinirlerle donatılan kasların gevşek felcidir. Belirtiler, daha çok geçicidir ve yalnızca sonuncusu kısa bir süre içinde aniden hasarı oluşturur. En ağır durumda bile nöroprakside belirtiler haftalar veya aylarca devam eder.
+Nedenler.
+Nöropraksinin nedeni, aksonun değil yalnızca sinir sinyali iletiminde geçici bir engelleme sonucu oluşan sinirsel bir yaralanmadır. Sinirdeki kısa bir mesafede bir iletim bloğunda aksiyon potansiyel genliğinin %40 azalması veya sinirde uzun bir mesafede genliğin %50 azalması nöropraksinin nedenidir. Nöroprakside hasarlı sinire sinyal iletme, hasarın yakınsal (proksimal) tarafından uzağa doğru (distal), aksiyonel potansiyeli genliğinde büyük bir azalmayla sonuçlanır.
+Hasarın mekanizması.
+Sinir hasarında birkaç mekanizma vardır. Bunlar; mekaniksel yara, iskemi, immünolojik nöbet, metabolik bozukluk, zehirlenme ve radyasyona maruz kalma. Hasar mekanizmasının en yaygın olanı, dış baskının kan akışını azaltması sonucu sinirde sıkışmanın oluşması ve sinir liflerinin deformasyonudur.
+Teşhis.
+Seddom, çevresel sinir hasarı sınıflandırmasını üçe ayırır:
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dendrit</DOCTITLE>
+<TEXT>
+
+Dentrit (Yunanca "déndron", "ağaç"), nöronda diğer nörondan alınan elektrokimyasal uyartının somaya ( hücre gövdesine) iletilmesini sağlayan, dal benzeri yapılardır. Elektriksel uyartı dendrite art arda dizili nöronlar ve aralarındaki sinapslardan geçerek ulaşır. Dendritler uyartının sinapsdan alınması ve nöronunda oluşacak aksiyon potansiyelinin büyüklüğünü belirlemede etkin bir rolü vardır. Son araştırmalarda, dendritlerde de aksiyon potansiyeli görülebileceği ve dendritlerin nörotransmitter madde salgılayabileceği bulunmuştur.
+Dendritlerin elektriksel özellikleri.
+Dendritin yapısı ve dallarının dağılımı, uyartıyı diğer hücreden, özellikle de zayıf bir iletim söz konusuysa, alımını etkiler.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çevresel sinir sistemi</DOCTITLE>
+<TEXT>
+
+Çevresel sinir sistemi (ÇSS), beyin ve omurilik haricindeki sinirler ve gangliyondan oluşur. ÇSS'nin ana işlevi, merkezi sinir sistemi (MSS) ile organ ve uzuvlar arasındaki iletişimi (bağlantıyı) sağlamaktır. Omurga ve kafatası gibi kemiklerle veya kan-beyin bariyeri ile korunan MSS'nin aksine ÇSS'nin koruması yoktur. Bu yüzden toksinler ve mekaniksel hasarlara maruz kalabilir. Çevresel sinir sistemi, somatik sinir sistemi ve otonom sinir sistemine ayrılır. Bazı yazılı medyada bunlara duyu sistemi de dahil edilir. Ayrıca ÇSS, sinir sisteminin bir bölümünü oluşturur.
+Optik (Optic) olarak adlandırılan II. kraniyal sinir hariç diğer kraniyal sinirler ÇSS'nin bir bölümünü oluşturur. İkinci kraniyal sinir, tam bir çevresel sinir değildir, fakat ara beynin bir parçasıdır. Kraniyal sinir gangliyonu MSS'de başlar. Bununla birlikte geri kalan onbir kraniyal sinir aksonları beyne uzanır. Bu yüzden bunlar ÇSS'nin bir bölümüdür.
+Sinirleri telefon kablolarına benzetebiliriz. Sinirler vücudumuzdan aldıkları mesajları beyne taşır. Vücudun içinde veya çevrede meydana gelen ve vücutta belirli bir tepkiye sebep olan fiziksel, kimyasal veya biyolojik etkilere uyarı denir. Uyarılar duyularımızda bulunan özel hücrelerle alınır. Alınan uyarı, sinirlerle merkezi sinir sistemine taşınır. Uyarılar sinir hücrelerinde kimyasal veya elektriksel değişikliğe yol açar. Bu değişikliğe uyartı mesajı denir. Uyartı mesajı merkezi sinir sistemine iletilir. Mesaj için oluşan cevap kaslara, organlara ve salgı bezlerine sinirler ile iletilir. Uyartı mesajı beyinde değerlendirilir ve uyarıya karşı bir cevap oluşur. Oluşan cevap yine sinirlerle organ veya yapılara iletilerek uyarıya tepki verir.
+Belirli sinirler ve pleksi.
+Beyinsapından başlayan oniki kraniyal sinirden onu, bazı istisnalar olsa bile başın anatomik yapısının işlevlerinin (fonksiyonlarının) ana kontrolünü sağlar.
+I ve II. kraniyal sinirler, sırasıyla beynin önüne ve göz sinir ucu olan talamusa uzanır ve bu yüzden tam kraniyal sinir olarak dikkate alınmazlar. CN X (10), göğüs ve karındaki iç organ duyu bilgisini alırken, CN XI (11), sinirli donatılan sternocleidomastoid kas ve trapezius kaslarını uyarır. Bunun için, hangisinin başta olduğuna bakmaz.
+Spinal sinirler, omurilikten başlar. Vücutun diğer işlevlerini kontrol eder. İnsanda 31 çift spinal sinir bulunur: 8 servikal, 12 thoracic, 5 lumbar, 5 sakral ve 1 coccygeal. 
+Servikal bölgedeki spinal sinir köklerinde ilgili vertebrae'e yukarıdan ortaya çıkar. Örneğin kafatası ile 1. servikal vertebrae arasındaki sinir kökü C1 spinal sinir olarak adlandırılır.
+Thoracic bölgeden coccygeal bölgeye kadar olan spinal sinir köklerinde ilgili vertebrae'e aşağıdan ortaya çıkar. C7 ile T1 arasındaki spinal sinir kökünü adlandırırken bunun bir problem oluşturabileceğine unutulmamalıdır. Bu yüzden T1, C8 olarak adlandırılır.
+Lumbar ve sakral bölgesindeki spinal sinir kökleri değişmez kese içinde ve L2 kademesinden aşağı doğru dolaşır.
+Servikal spinal sinirler (C1-C4).
+C1 ile C4 arasındaki ilk 4 servikal spinal sinir, ayrılıp tekrar birleşerek boyun ve başın arkasındaki çeşitli sinirleri oluştururlar.
+Brakial pleksus (C5-T1).
+C5 ile C8 arasındaki son dört servikal spinal sinir ve T1 ilk thoracic spinal sinir, brakial pleksusu (Latince plexus brachialis) meydana getirir. Bunlar, ayrılarak, bölünerek ve birleşerek üst kol ve üst arkadaki sinirleri oluştururlar. Brakial pleksus zedelenmesine bakın.
+Lumbosakral pleksus (L1-S4).
+Lumbar sinirleri, sakral sinirleri ve coccygeal siniri, lumbosakral pleksusu oluşturur. İlk lumbar siniri, sıksık onikinci thoracicteki bir dal ile birleştirilir. Bu pleksusu (sinir ağını) daha kolay açıklamak için genellikle üç parçaya ayrılır:
+Nörotransmitter.
+Çevresel sinir sistemlerinin ana nörotransmitterleri, asetilkolin ve noradrenalindir. Bununla birlikte, birkaç başka nörotransmitter de vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ranvier boğumu</DOCTITLE>
+<TEXT>
+
+Ranvier boğumu, miyelinli nöronların aksonlarında miyelin maddesini oluşturan Schwann hücreleri arasında kalan boşluktur.
+Nöronun akson ucundan gelen uyartı (impuls) bu boğumlardan elektriksel sıçramalarla ilerlerler.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fosfen</DOCTITLE>
+<TEXT>
+
+Fosfen, göz kapalıyken fiziksel ya da elektriksel baskıya maruz kaldığında retinanın uyarılması sonucu beynin görme merkezine giden uyartı sonucu oluşan görme hisleridir. Göz açıldığında kısa bir süre görülen renkler, ışıklar bu durumu örnekler.
+
+</TEXT>
+</DOC>
+

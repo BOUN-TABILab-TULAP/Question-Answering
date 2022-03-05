@@ -1,0 +1,59 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Parlak	Parlak	+Noun+Prop+A3sg+Pnon+Nom
+Parlak	parlak	+Adj
+
+sert	sert	+Adj
+
+ve	ve	+Conj
+
+dayanıklı	dayanık+Noun+A3sg+Pnon+Nom^DB+Adj+With
+dayanıklı	dayanıklı+Adj
+
+olup	ol	+Verb+Pos^DB+Adverb+AfterDoingSo
+
+dişin	diş+Noun+A3sg+P2sg+Nom
+dişin	diş+Noun+A3sg+Pnon+Gen
+dişin	dişi+Noun+A3sg+P2sg+Nom
+
+taç	taç+Noun+A3sg+Pnon+Nom
+
+kısmını	kısım+Noun+A3sg+P3sg+Acc
+kısmını	kısım+Noun+A3sg+P2sg+Acc
+
+örten	ört+Verb+Pos^DB+Adj+PresPart
+
+tabakaya	tabaka	+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

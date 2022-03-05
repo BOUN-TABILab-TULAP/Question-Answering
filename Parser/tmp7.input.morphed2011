@@ -1,0 +1,50 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Granitik	Granitik	+Noun+Prop+A3sg+Pnon+Nom
+
+kabuğun	kabuk	+Noun+A3sg+P2sg+Nom
+kabuğun	kabuk	+Noun+A3sg+Pnon+Gen
+
+bileşiminde	bileşim+Noun+A3sg+P2sg+Loc
+bileşiminde	bileşim+Noun+A3sg+P3sg+Loc
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+çok	çok+Adverb
+çok	çok+Det
+çok	çok+Adj
+çok	çok+Postp+PCAbl
+
+hangi	hangi	+Adj
+
+elementler	element	+Noun+A3pl+Pnon+Nom
+elementler	element	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+bulunur	bul	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+bulunur	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+bulunur	bulun	+Verb+Pos+Aor+A3sg
+bulunur	bulun	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

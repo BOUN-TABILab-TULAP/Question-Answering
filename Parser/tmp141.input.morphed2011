@@ -1,0 +1,44 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Granit	granit	+Noun+A3sg+Pnon+Nom
+Granit	granit	+Adj
+
+siyenit	siyenit	+Noun+A3sg+Pnon+Nom
+
+diyorit	diyorit	+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+gabro	gabro	+Noun+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+tip	tip	+Noun+A3sg+Pnon+Nom
+
+kayaçlardır	kayaç+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

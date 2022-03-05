@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ses ses+Noun+A3sg+Pnon+Nom Ses+Noun+Prop+A3sg+Pnon+Nom
+kayıt kayıt+Noun+A3sg+Pnon+Nom kayıt+Verb+Pos+Imp+A2sg
+makinasının makina+Noun+A3sg+P3sg+Gen
+icat icat+Noun+A3sg+Pnon+Nom
+edilme et+Verb^DB+Verb+Pass+Neg+Imp+A2sg et+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+tarihi tarih+Noun+A3sg+P3sg+Nom tarih+Noun+A3sg+Pnon+Acc tarihi+Adj
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,7 @@
+1	Ozon	ozon	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	tabakası	tabaka	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT	_	_
+3	neden	neden	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	tahrip	tahrip	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT	_	_
+5	olmaktadır	ol	Verb	Verb	Pos|Prog2|A3sg|Cop	6	SENTENCE	_	_
+6	.	.	Punc	Punc	_	0	ROOT	_	_
+

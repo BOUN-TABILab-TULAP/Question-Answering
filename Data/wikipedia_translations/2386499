@@ -1,0 +1,38 @@
+Dönme Anlık merkezi
+Ayrıca "anlık merkez" veya "anlık merkez" olarak adlandırılan dönme anında merkezi, zaman belli bir anda sıfır hıza sahip bir gövde geçiren düzlemsel hareketi noktasıdır. Bu anda, vücudun diğer noktaların yörünge hız vektörleri saf dönmesi sureti ile oluşturulan ne aynıdır, bu nokta etrafında dairesel bir alan oluşturur.
+Bir cismin düzlemsel hareketi, genellikle iki boyutlu bir düzlemde hareket eden bir uçak şekil kullanılarak tarif edilir. anlık merkez, diğer tüm noktaları zaman belirli bir anda dönen hangi dolaşırım düzlemde noktasıdır.
+Bir düzlemin sürekli hareket zamanı parametresinin her değer için bir anlık merkezi vardır. Bu hareket centrode adı verilen bir eğri oluşturur. Bu anlık merkezlerine gelen sabit düzlemde noktalar sabit centrode oluştururlar.
+Düzlemsel yer değiştirme Pole.
+Anlık merkezi düzlemsel deplasman direğin sınırlayıcı durum olarak kabul edilebilir.
+2 konumuna 1 konumunda bir gövde düzlemsel yer değiştirmesi, bir düzlemsel bir dönme ve düzlemsel çeviri kombinasyonu ile tanımlanır. Herhangi bir düzlemsel yer değiştirmesi için önce ve deplasman sonrasında aynı yerde olduğu hareketli vücutta bir nokta var. Bu nokta "düzlemsel deplasman kutbu" olduğunu ve deplasman bu direğin etrafında bir dönme olarak görülebilir.
+Düzlemsel deplasman kutup İnşaat: Birincisi, hareketli vücutta iki nokta A ve B seçin ve iki pozisyonda gelen noktaları bulmak; resme bakınız. Iki segment A1A2 ve ölçe˘gi b1b2 dik açıortaylarını oluşturun. Bu iki bisectors kesiştiği P düzlemsel deplasman kutup olduğunu. P. etrafında bir çember üzerinde A1 ve A2 yalan Bu vücudun her noktasına karşılık gelen pozisyonları için geçerlidir olduğuna dikkat edin.
+Bir cismin iki pozisyon düzlemsel harekette bir zaman anında ayrılır, daha sonra bir deplasman kutup anlık merkezi haline geliyor. Bu durumda, A ve B noktalarının anlık pozisyonları arasında inşa segmentleri hız vektörleri, VA ve VB olur. Bu hız vektörleri dik çizgiler anlık merkezinde kesişir.
+Saf çeviri.
+Iki konum arasında yer değiştirme saf çeviri, segmentler A1B1 ve A2B2 formu paralel çizgilerin ardından dikey bisectors ise. Bu satırlar, böylece bu düzlemsel deplasman kutup dik bisectors yönünde "sonsuzda yalan" olduğu söylenir, sonsuzda hattı üzerinde bir noktada kesişir kabul edilmektedir.
+Limitinde, saf çeviri paralel noktası hız vektörleri ile düzlemsel hareketi olur. Bu durumda, anında merkezi hız vektörleri dik bir yönde sonsuzluğa yalan söylenir.
+Kaymadan bir tekerlek haddeleme Anında merkezi.
+Doğrusal bir yolda kaymadan dairesel tekerlek haddeleme düzlemsel hareketini düşünün; Tekerlek yola paralel bir yönde çevirir kendi ekseni M, çevresinde döner kroki 3. bkz. P noktası anlamına kayma değil yol ile tekerleğin, temas P noktası bir anlık merkezi haline tekerlek üzerinde P noktası yolda temas anda Böylece M. işaret açısından sıfır hıza sahip .
+Anlık merkezi haline hareketli tekerlek noktaları kümesi hareketli centrode tanımlayan daire kendisidir. Bu anlık merkezlerine karşılık sabit düzlemde noktalar sabit centrode tanımlayan yolun hattıdır.
+tekerleğin bir nokta A hız vektörü segmenti AP dik ve bu segmentin uzunluğu ile doğru orantılıdır. Özel olarak, tekerlek noktaların hızı noktaları bir dizi hız vektörleri kroki 3'te gösterildiği P. etrafında dönme, tekerleğin açısal hız ile belirlenir.
+tekerleğin daha bir nokta, anlık merkezinden P den oransal büyük hızıdır. Bu nedenle, iki kez bir mesafe uzaklıkta, P. yarıçapına eşit olan bir mesafe vardır bütün noktalar olduğu, tekerlek merkezi M ile aynı yönde tekerlek hamle üstündeki bir nokta, ama iki kat daha hızlı nokta M aynı hızda P noktası hareket değil, farklı yönlerde tekerlek 'r'. Bu M ile aynı hıza sahiptir, ancak P. etrafında daire yön teğet olarak hareket tekerlek üzerinde bir nokta için gösterilir
+İki düzlemsel organları ile temas dönme Bağıl merkezi.
+İki düzlemsel sert cisimler temas ve her vücut rotasyonu kendi ayrı merkezi varsa, o zaman organlar arasındaki dönme nispi merkezi iki merkezlerini bağlayan hat üzerinde yerde yalan vardır. Temas noktası iki dönme merkezlerini bağlayan hat geçer sadece (yolda tekerleğin yukarıda görüldüğü gibi) Dönme merkezi temas noktasında olduğunda sadece var olabilir saf haddeleme beri sonucunda, öyle ki Saf haddeleme elde edilebilir. Bu dişliler arasında kayma bağıl olduğu sahada noktası olarak Involute_gear tasarımı bilinmektedir. Aslında, iki dönen parçalar arasındaki dişli oranı göreceli merkeze iki mesafeleri oranı ile bulunur. Sketch 4 örnekte dişli oranı FORMULA_1 olduğunu
+Dönme ve mekanizmaların anında merkezi.
+Çizim 1, yukarıda ani dönüş merkezlerinin sayısı gösterilmektedir, dört çubuklu bir bağlantı göstermektedir. BAC bir baz veya çerçeveye bağlantılar P1-P2-A ve B ile bağlı harflerle not rijit gövde. <br>
+Bu mekanizma (baz hareketli değildir) üç hareketli parçalar şunlardır: bağlantı P1-A, bağlantı P2-B ve vücut BAC. Bu üç parça her biri için bir dönme anında merkezi belirlenebilir.
+Ilk bağlantı P1-A düşünüldüğünde: A noktası dahil olmak üzere bu linke tüm noktalar, gelin P1 etrafında döndürün. Tek nokta verilen düzlemde hareket değil P1 beri bu bağlantı için dönme anında merkezi denebilir. Nokta A, P1 mesafe P1-A, vektör VA ile gösterildiği gibi, dikey bir bağlantı P1-A yönünde bir dairesel hareket içinde hareket eder. <br>
+Aynı P2-B bağlantısı için de geçerlidir: nokta P2 vektörü VB tarafından gösterilen yönde Bu linki ve B noktası hamle için ani dönüş merkezidir.
+Onun hareket özellikleri bilinmektedir, çünkü bağlantılar P1-A ve P2-B ile ilgili bilgilere türetilen bağlantı, beden BAC üçüncü elemanın dönme anında merkezi belirlemek için, iki A ve B noktaları kullanılmaktadır. <br>
+A noktasının hızının yönü vektörü VA ile gösterilir. (VA teğet bir daire çevresi üzerinde yer alır gibi) dönme anında merkezi bu vektöre dik olmalıdır. gereksinimi doldurur tek hat bağlantı P1-A ile bir çizgi colinear olduğunu. Somewhere bu hat üzerinde bir P noktası, vücut BAC dönme anında merkezi bulunmaktadır. Bir de dik vektör VB, bağlantı P2-B ile bir çizgi colinear nedenle rotasyon P bu anlık merkezi hat üzerinde yer alan B, işaret etmek de geçerlidir işaret için de geçerlidir Ne otelleri. Bu nedenle, vücut BAC dönme P anlık merkez noktası olduğu P1-P2-A ve B haç aracılığıyla hatları.
+Rotasyon P bu anlık merkez herhangi bir rasgele noktası için vücut BAC üzerindeki tüm noktalarda merkezi olduğundan, C noktası, hız ve hareketin yönü belirlenebilir ki: C noktası C hareketinin yönünü P bağlamak dik bu bağlantı için. Hız P işaret mesafeye orantılıdır
+Iki bağlantı P1-A ve dönme kendi anlık merkezleri etrafında döndürme P anında merkezi centrode döner P2-B ile bu yaklaşımı devam belirlenebilir. Bu kaynaktan C ya da vücut BAC diğer herhangi bir nokta için bir hareket yolu tespit edilebilir.
+Uygulama örnekleri.
+Biyomekanik araştırmada dönme anında merkez üst ve alt ekstremitelerde eklemlerin işleyişi için gözlenmektedir.
+Örneğin diz analiz,
+ayak bileği ya da omuz eklemleri.
+Böyle bir bilginin bu tür dirsek veya parmak eklemlerinde gibi yapay eklemler ve protez, gelişmekte yardımcı olur.
+Atların eklem Çalışması: "" ". ... Dönme anında merkezlerinden belirlenen hız vektörleri eklem yüzeyleri birbirlerine slayt belirtti".
+Su boyunca hareket eden bir gemi dönüm üzerinde çalışmalar.
+Bir aracın fren özellikleri, bir fren pedalı mekanizmasının tasarımı değiştirilmesiyle iyileştirilebilir.
+Bir bisiklet askıya Tasarımı, veya bir arabanın.
+Dört çubuk bağlantı içinde bağlantı bağlantı halinde bu tür ön görünümünde bir çift salıncaklı süspansiyon, bağlantıları boyunca hız yalan dikmeleri elemanı bağlantı topraklı bağlantı katılmadan. Bu yapı süspansiyonu kinematik Rulo merkezi kurmak için kullanılır.

@@ -1,0 +1,17 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Memelilerin meme+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom meme+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen Meme+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen Meme+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom memeli+Adj^DB+Noun+Zero+A3pl+P2sg+Nom memeli+Adj^DB+Noun+Zero+A3pl+Pnon+Gen memeliler+Noun+A3pl+Pnon+Gen memeliler+Noun+A3pl+P2sg+Nom
+tek tek+Adj
+solunum sol+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A1sg sol+Noun+A3sg+Pnon+Gen^DB+Verb+Zero+Pres+A1sg solunum+Noun+A3sg+Pnon+Nom
+şekli şekil+Noun+A3sg+P3sg+Nom şekil+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

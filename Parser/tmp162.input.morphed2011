@@ -1,0 +1,54 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+ABD	Abd	+Noun+Prop+A3sg+Pnon+Nom
+
+Ulusal	Ulusal	+Noun+Prop+A3sg+Pnon+Nom
+Ulusal	ulusal	+Adj
+
+parkı	park	+Noun+A3sg+P3sg+Nom
+parkı	park	+Noun+A3sg+Pnon+Acc
+
+hangi	hangi	+Adj
+
+birlik	birlik	+Noun+A3sg+Pnon+Nom
+
+tarafından	taraf	+Noun+A3sg+P3sg+Abl
+tarafından	taraf	+Noun+A3sg+P2sg+Abl
+
+koruma	kor	+Noun+A3sg+P1sg+Dat
+koruma	koru	+Verb+Neg+Imp+A2sg
+koruma	koru	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+koruma	koru	+Noun+A3sg+P1sg+Dat
+koruma	koruma	+Noun+A3sg+Pnon+Nom
+
+altına	alt	+Noun+A3sg+P3sg+Dat
+altına	alt	+Noun+A3sg+P2sg+Dat
+altına	altın+Noun+A3sg+Pnon+Dat
+
+alınmıştır	al	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+alınmıştır	al	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+alınmıştır	alın+Verb+Pos+Narr+A3sg+Cop
+alınmıştır	alın+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

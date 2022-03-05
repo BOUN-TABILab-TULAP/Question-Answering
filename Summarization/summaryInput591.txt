@@ -1,0 +1,179 @@
+Question: Baskın ve çekinik genler genotipe nasıl etki eder
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gen</DOCTITLE>
+<TEXT>
+
+Gen, bir kalıtım birimi. Bir kromozomun belirli bir kısmını oluşturan nükleotid dizisidir. Popüler ve gayrıresmi kullanımda gen sözcüğü, "ebeveynden çocuklarına geçen belirli bir karakteristiği taşıyan biyolojik birim" anlamında kullanılır. Kromozomun kesitleri olan genler birbirinden çok farklı işlevlerde ve büyüklüklerde (uzunluklarda) olabilirler. Genlerin büyüklükleri ve işlevleri her zaman doğru orantılı değildir.
+Gen, genom dizisinde yeri tanımlanabilen, transkripsiyonu yapılan, düzenleyici ve/veya fonksiyonel bölgeleri olan bir bölgedir. Gen regülasyonu ve transkripsiyonunun karmaşıklıklarını içeren, yeni ve öz bir tanıma göre gen, "aynı sınıftan (protein veya RNA) işlevsel ürünler şifreleyen, potansiyel olarak birbiriyle örtüşen, genom dizilerinin birleşimidir".
+Gen, kalıtımın temel fiziksel ve işlevsel birimidir. Her gen, protein veya RNA molekülü gibi özel bir işlev taşıyan kromozomların belli bir noktasındaki nükleotid dizilerinden oluşur.
+Klasik genetikte, aynı biyolojik işlevleri yöneltip yöneltmemelerine ve karşılıklı rekombinasyon yapıp yapmamalarına göre alel ve alel olmayan genler vardır. Alel genler, aynı özellik üzerinde etkili olan genlerdir.
+Klasik genetikte gen bir alt birim olarak kullanılır. Mutasyon ve kombinasyonların genlerde oluştuğu kabul edilir.
+Kalıtım olayı, doğrudan kromozomların mitoz ve mayoz bölünmeler ve döllenme deki davranışlarına bağlıdır. Her bir kromozomda sayısız kalıtım birimleri, genler bulunur.
+Bir karakter kalıtımı ancak birbirlerine zıt iki durum olduğu zaman incelenebilir. Mendel'in çalışmalarında bezelyelerde ele aldığı şekil morfolojisinde düzgün ve buruşuk tohum özellikleri gibidir. Canlı birey böyle zıt durumlardan sadece birini gösterebilir. Bu nedenle "alel genler"den söz edilir. Homolog kromozomların aynı lokusunda yer alan, iki veya bazen daha fazla sayıda alternatif karakterlerin genlerine "alel genler" denir. Düzgün ve buruşuk tohum morfolojislerini belirleyen genler gibi.
+Genlerin simgelerle gösterilmesi.
+Genler, fenotipte baskın olarak gösterdikleri özelliklerinin isimlerinin genellikle kelimenin baş harfi ile simgelenir. Örneğin, farelerde siyah renk baskın olduğu için farelerdeki kalıtımda siyah renk "S" harfi ile, kahverengi çekinik olduğu için "s" harfi ile simgelenir. Baskın olan genler genelde yabanıl genlerdir. Çekinik genler ise, baskın genin mutantı olarak kabul edilir. Diploid canlılarda bir özellik üzerinde etkili olan, yani alel olan iki gen olduğundan her zaman genotip iki harfle yazılır. Örneğin saf siyah SS, saf kahverengi ss, melez Ss olarak gösterilir. Son zamanlarda homozigot çekinik fenotip özelliğin küçük baş harfi, mutasyona uğramış geni göstermek için kullanılmaktadır. Bununla beraber, "s+", "+s" ya da "+" gibi simgeler de baskın geni göstermek için kullanılır.
+Bir çaprazlamada bireylerin eşeylerini dikkate almak gerekiyorsa, önce dişinin genotipi, arkasına dişi işareti (♀), daha sonra çaprazlamanın simgesi olan "X" işareti ve onun sağ yanına erkeğin genotipi ve sonra işareti yazılır. Örneğin, SS (s+s+)♀ X ss (ss). Erkek ve dişi işartei olmadığı zaman sağdaki simge dişiye, soldaki simge erkeğe ait kabul edilir. Geri çaprazlama yapılırken, ataların eşeyleri gen çifti açısından yer değiştirir. Örneğin SS ♀ X ss yerine, ss ♀ X SS gibi.
+Gametlerde alel çiftler birbirinden ayrıldığı için ve haploid organizmalarda genler tek bir harfle gösterilir. Örneğin; S ve s gibi.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Genotip</DOCTITLE>
+<TEXT>
+
+Genotip: Soyyapı ya da Kalıtyapı organizmanın genetik yapısına verilen ad.
+Bir hücrede birden fazla gen DNA vardır. Aynı DNA üzerindeki genlere bağlı genler, ayrı DNA'lar üzerindeki genlere ise bağımsız genler denir. Genler, enzim ve protein sentezini yöneterek, bireyin dışyapısını (fenotipini) ortaya çıkartırlar. Baskın (dominant) genler, bireyin fenotipinde kendi varlığını her zaman gösterirken çekinik (resesif) genler, bireyin fenotipinde kendi varlığını sadece homozigotken gösterirler.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Delesyon</DOCTITLE>
+<TEXT>
+
+Delesyon, genetikte bir kromozomun bir parçasının kopup, kaybolmasıyla meydana gelen kromozom anomalilerindendir. Kopan parçadaki genler kaybolur yani eksilir ve ciddi genetik hastalıklara sebep olur. 
+Kopan parça başka bir kromozoma bağlanmaz, yok olur. Hücre bölünmesine katılamaz. Çünkü sentromerleri yoktur Sitoplazma içerisinde kalan kromzom parçası enzimlerin etkisiyle kendini oluşturan ana birimlere kadar parçalanıp, kaybolur. Hücre diploid ise, kaybolan genlerin allelleri kardeş kromozom üzerinde bulunacağından öldürücü olmaz fakat gen dengesinin ve fenotipin değişmesine sebep olur. Eğer gen parçaları büyükse gen dengesi bozulur ve ölüm meydana gelir.
+Delesyonlar, kromozomların uç kısmından (terminal delesyon=defisiyens) ya da iç kısmından olabilir. Kopan parça eğer sentromer taşımıyorsa yani asentrik ise, mayoz ve mitoz bölünmelerdeki kromozomların kutuplara gitmesini sağlayan sentromer olmadığı için kromzomlar, kutuplara ulaşmazlar ve canlılık devam etmez yani böyle bir gebelik düşükle sonuçlanır. İçten eksiklik durumunda kromozom iki noktasından kırılır ve kırılan parça ayrılıp, serbest uçlar birbirine bağlanır. Kromozomun sarmal yapısından dolayı oluşan halka kopmaları da bu gruba girer. Uçtan kopmalarda ise, tek noktadan kırılma olur. Gerek uçtan gerekse içten kopmalarda eksiklik durumu özellikle mayoz bölünmenin pakiten safhasında ve politen kromozomlarında gözlenebilir. 
+Uçtan kopmalar bitkilerden mısırda çok görülmesine karşın, Drosophila sineğinde ve diğer canlılarda sık görülmez. Heterozigot eksiklik durumunda bir kromozom normal, homoloğu ise eksiktir. Dolayısıyla öldürürcü olmasada gen dengesinin ve sonuçta fenotipin değişmesine neden olur. Hâlbuki homozigot durumlarda bir çift gen seti kaybolduğundan canlı daha erginlik durumuna erişmeden ölür. Bu nedenle canlı organizmalar için pekçok gen hiç değilse tek seferde yok edilemez. Baskın genleri taşıyan kromozomda delesyon meydana gelirse, çekinik genler baskınmış gibi fenotipte görülür, buna "yalancı dominantlık" denir. 
+Delesyonların en bilindik olanı, 5. kromozomun kısa kolunda meydana gelen bir delesyon sonucu 50,000 canlı doğumda bir görülen "kedi çığlığı sendromu" olarak da bilinen Cri du Chat sendromudur. Kedi çığlığına benzer ağlama, bazı mental gerilikler ve kısa hayat olarak etkileri görülür. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fenotip</DOCTITLE>
+<TEXT>
+
+Fenotip ya da Dışyapı, genetik (genotip) ve çevresel etkenlerin yarattığı özelliklerin canlının dış görünüşündeki yansıması. Fenotip çoğunlukla genler tarafından belirlenir ancak bazı koşullarda diğer etkenler, fenotipin genotipe yüzde yüz uymasını engelleyebilir. Bu duruma "hipomorfizm" denir. 
+Fenotip, zaman içinde değişebilir. Birden çok genle kontrol edilen özelliklerin fenotipleri de karmaşıklık gösterir. Genlerin durumuna göre çeşitlilik gösteren fenotip sınıflarına "pleitropik" fenotipler denir.
+Örneğin kıvırcık saçlı anne ile düz saçlı baba çiftleşirse doğacak çocuklar 1.Kuşak olur.Kıvırcık saç,düz saça baskın olduğundan kıvırcık saçlı birey "AA" ve düz saçlı birey "aa" olur.Mendel'in de yaptığı gibi bireyler arasında çaprazlama yapılır.AA ve aa olan bireylerin harfleri çaprazlanır.
+A ile a,A ile a,a ile A ve a ile A genleri ortaya çıkar.Fakat baskın gen harfi(büyük harf) başa ya-zıldığından tüm bireyler %100 melez döl;fakat kıvırık saçlı doğar.Çünkü çekinik gen,baskın genin yanında özelliğini gösteremez.2.Kuşağın bireyleri ise şöyledir:
+Aa,Aa,Aa ve Aa 1.Kuşak üyeleriydi.Bir Aa diğer bir Aa ile çiftleşirse: Aa,Aa bireyleri çaprazlanır ve 2.Kuşak bireyleri AA,Aa,Aa ve aa olur.Yani 2.Kuşak bireylerinin %25'i arıdöl ve kıvırcık,%50'si melez ve kıvırcık,%25'iyse düz saçlı doğar.Yani fenotip olarak 2.kuşağın bireylerinin %75'i kıvırcık saçlı ve %25'i düz saçlı doğar. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kontrol Çaprazlaması  (EBA)</DOCTITLE>
+<TEXT>
+
+Bezelye bitkisinde, mor çiçek renginden sorumlu alelin baskın (A); beyaz çiçek renginden sorumlu alelin çekinik (a) olduğu bilindiğinden beyaz çiçekli bitkilerin genotipinin aa olduğunu kolaylıkla söyleyebiliriz. Ancak mor çiçekli bitkilerin genotipi homozigot (AA) ya da heterozigot (Aa) şeklinde olabilir. Bu fenotipe sahip bireylerin genotipinin homozigot mu (AA) yoksa heterozigot mu (Aa) olduğunu belirlemek için mor çiçekli bir bitki ile çekinik fenotipe sahip olan beyaz çiçekli (aa) bir bitki çaprazlanır. Elde edilen yavruların fenotipine göre, mor çiçekli ebeveyn bitkinin genotipini belirlemek mümkündür. Bu tür çaprazlamalarda aşağıdaki iki sonuç elde edilir: 
+1) Eğer atasal bitki baskın homozigot ise AA x aa çaprazlaması yapılmıştır. Elde edilen yavruların tümü Aa genotipinde olacak ve mor çiçekli olacaktır. 
+2) Eğer atasal bitki heterozigot ise bu durumda Aa x aa çaprazlaması yapılmıştır. Elde edilen yavruların yarısı mor çiçekli yarısı beyaz çiçekli olacaktır. Bu çaprazlamada, beyaz çiçekli bitkilerin meydana gelmiş olması, beyaz çiçekli bitkilerdeki çekinik alelin bir tanesinin mor çiçekli bitkiden geldiğini ve mor çiçekli atasal bitkinin heterozigot genotipe (Aa) sahip olduğunu gösterir. 
+Genotipi bilinmeyen bir organizmanın genotipini belirlemek amacıyla, çekinik homozigot bir bireyle çaprazlanmasına kontrol çaprazlaması ya da test çaprazlaması adı verilir (Resim 2.16). 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çekinik gen</DOCTITLE>
+<TEXT>
+
+Çekinik Gen (Resesif) Etkisini fenotipte gösteremeyen genlere denir. Bir karakterin oluşumda ancak homozigot ise etkisini gösterebilen gene çekinik gen denir. Küçük harfle gösterilir. Bir homolog kromozom takımının her iki üyesi tarafından taşınmadıkça fenotipite etkisini gösteremeyen genlerdir. Yani etkisini yalnız homozigot durumda olunca( her iki krmozomdada bulunuca/çift-doz da) gösteren genlerdir.Üzerinde genetik hastalıklar bulunabilir(Örnek:Albinizm). Açık ten , açık renkli saç ,açık renkli göz rengi ve kısa boy genleri çekinik genlere örnek verilebilir.
+Çekinik gen genler benzese bile fenotipi benzemeyen genlerdir. En kolay tanım bu. Bunu bir yere not alın.Hiç unutmazsınız..
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dallanan seçilim</DOCTITLE>
+<TEXT>
+
+[[Dosya:Selection Types Chart tr.png|thumb|right|225px|Doğal seçilimin üç farklı türünü gösteren bir grafik gösterimi. Bunlar:
+1.Dallanan seçilim 
+2. Dengelenmiş seçilim ve
+3. Yönlendirilmiş seçilim]]
+Yıkıcı seçilim, çeşitlendirici seçilim ya da dallanan seçilim, popülasyon genetiğinde ekstrem ve uç değerdeki fenotiplere sahip olan bireylerin ortalama fenotipe sahip olan bireylere tercih edildiği değişiklikleri tanımlar. Bu durumda, özelliğin varyansı artar ve popülasyon iki ayrı gruba ayrılır. Bu evrimsel sürecin simpatrik türleşme arkasındaki itici güç olduğu düşünülmektedir.
+Örnek.
+Bir tavşan popülasyonu var olduğunu varsayalım. Tavşanların renkleri tam olarak baskın olmayan iki özellik tarafından yönlendirilirler: "B" siyah kürk rengini ve "b" ise beyaz kürk rengini temsil eder. "BB" genotipine sahip bir tavşan sadece siyah kürklü bir fenotip olurdu, "Bb" genotipine sahip bir tavşan ise, hem siyah ve hem de beyaz renk içerdiği için gri bir kürke sahip olurdu. "bb" genotipe sahip diğer tavşan da beyaz renkli bir fenotip olur. 
+Eğer bu tavşan popülasyonu, çok koyu veya siyah kayaların yanı sıra çok beyaz renkli taşların da olduğu bir bölgeye konulurlarsa, siyah kürklü tavşanlar siyah kayalar arasında avcılarından saklanırken beyaz kürklü tavşanlar da beyaz renkli kayalar arasında gizleneceklerdir. Buna karşın gri tüylü tavşanlar bu doğal çevrede hemen göze çarpılacaklarından daha fazla avlanılacaktır. 
+Çevre şartlarındaki seçici baskıların bir sonucu olarak, bizim varsayımsal tavşan popülasyonu, kürk rengi özelliklerindeki ekstrem uç değerler lehine ama gri kürk rengi aleyhine, siyah ve beyaz renkler olmak üzere iki ayrı şekilde ve dallanan bir biçimde seçilmiş olurlar.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşeyli üremenin evrimi</DOCTITLE>
+<TEXT>
+
+Eşeyli üremenin evrimi, şu an güncel olan birkaç farklı bilimsel hipotez tarafından açıklanmaktadır. Eşeyli yolla üreyen tüm organizmalar tek hücreli ökaryot bir türden türemiş olup tek bir ortak atadan gelmektedir.. Birçok protist, çok hücreli bitkiler, hayvanlar ve mantarlar gibi eşeyli üreme yoluyla çoğalırlar. Bdelloidea veya herhangi bir döllenme meydana gelmeden meyve oluşturabilme özelliğine sahip bazı partenokarp bitkiler gibi, ikinci derecede bu özelliği kaybetmiş olan bazı türler de bulunmaktadır. Eşeyli üremenin evrimi birbirleriyle ilişkili ama birbirlerinden farklı olan iki değişik konuyu ele alır. Bunlardan birincisi "eşeyli üremenin kökeni", diğeri ise eşeyli üremenin "korunarak" devamlılığın sağlanmasıdır. Ancak eşeyli üremenin kökenine dair hipotezlerin deneysel olarak test edilmeleri zor olduğundan, güncel araştırmalar daha ziyade eşeyli üremenin nasıl korunduğu ve sürdürüldüğüne odaklanmıştır.
+Eşeyli üreyen canlılarda cinsel döngü, gelecek kuşakların toplamdaki nüfus sayısını azaltmasına rağmen onların döl kalitesini (seçilim değeri) artırdığı için devam ettiriliyor gibi görünmektedir (eşeyli üremenin iki katlı maliyeti). Eşeyli üremenin canlılar için evrimsel bir avantaj haline gelmesi için bunun gelecek nesillerin biyolojik uyum güçlerinde görülen önemli bir artış ile ilişkilendirmiş olması gerekir. Eşeyli üremenin avantajına dair yaygın olarak kabul gören en iyi açıklama, eşeyli üremenin genetik varyasyonları artırdığıdır. Buna dair başka bir açıklama ise moleküler düzeyde görülen iki avantaja dayanır. Bunlardan birincisi, homolog kromozomların bu süreçte birbirleriyle çift oluşturdukları için mayoz bölünme esnasında teşvik edilen rekombinasyonlardaki "DNA onarımının" sağladığı avantaj, diğeri ise melez gücü, heterosis veya mutasyon maskelenmesi olarak da bilinen "genetik tamamlamanın" getirdiği avantajdır.
+Eşeyli üremenin genetik çeşitliliği yaratması avantajına dair tespit edilen üç olası neden vardır. Bunlardan birincisi eşeyli üreme, aynı bireyde yararlı olabilecek iki farklı mutasyonun bir araya gelmesini sağlayabilir ("eşeyli üreme avantajlı özelliklerin yayılmasını sağlar"). Bunun yanında gerekli mutasyonlar, birbiri ardından tek bir soy çizgisi üzerinde meydana gelmek zorunda değillerdir. İkinci neden, eşeyli üreme ciddi bir şekilde biyolojik uyum açısından elverişli olmayan bireyleri meydana getiren mevcut zararlı mutasyonları da bir araya getirerek bu bireylerin popülasyon içinde görülmemesine veya ortadan kaldırılmasına da etki eder ("eşeyli üreme zararlı genlerin ortadan kalkmasını sağlar"). Ancak burada, zararlı mutasyonların sadece tek bir kromozoma sahip organizmalarda derhal ortadan kaldırıldıkları ve bu nedenle zararlı mutasyonların kaldırılmasının eşeyli üreme için başarı olasılığı pek mümkün olmayan bir avantaj olduğu da göz önünde bulundurulmalıdır. Son olarak, eşeyli üreme daha önce mevcut olanlara göre daha sağlıklı ve dayanıklı olan yeni gen kombinasyonları meydana getirebilir veya akrabalar arasındaki rekabetin azalmasına yol açabilir.
+Hasarsız DNA’lara sahip gelecek kuşaklar meydana getirdiği ve bu yavru döllerin daha iyi hayatta kalmasını sağladığı için mayoz bölünme sırasında rekombinasyonlarda gerçekleşen DNA onarımı, DNA hasarlarının giderilmesi adına büyük bir fayda sağlar. Bu anlamda genetik tamamlamanın eşeyli üremede sağladığı avantaj, normal baskın genlerin maskeleme etkisiyle ortaya çıkan zararlı çekinik genlerin gelecek nesil için yaratacağı olumsuz sonuçlardan bir sakınma veya bunların neden olacağı kötü etkilerden bir kaçınmadır.
+Eşeyli üremenin genetik varyasyonlar oluşturduğu için canlı türlere avantaj sağladığına dair hipotezlere aşağıdaki bölümlerde yer verilmiştir. Bu hipotezlerden herhangi birisinin herhangi bir tür için doğru olabileceği, birbirlerini dışlamadıkları gibi farklı hipotezlerin farklı türler için de geçerli olabileceğini göz önüne almak önemlidir.
+Gerçi eşeyli üremenin genetik varyasyon ve çeşitlilik yarattığı için evrimsel bir avantaj sağlamış olduğuna dayalı hipotezleri birleştiren ortak bir araştırma çerçevesi henüz tam olarak bulunmamakla beraber bu çerçeve, eşeyli üremenin tüm eşeyli türler için evrensel bir neden olup olmadığı, eğer evrensel bir neden değilse her bir tür için hangi mekanizmaların işlediğinin belirlemesine izin vermesi açısından önemlidir.
+Diğer taraftan, DNA onarımına ve tamamlamaya dayalı eşeyin devamlılığın sağlanması tüm eşeyli türler için geçerli olduğu ve yaygın olarak gözlemlendiği görülmektedir. Eşeyli üremenin devamlılığına dair bu açıklama Bölüm 6.2'de araştırılmıştır.
+Tarihçe.
+Konuya dair modern felsefik-bilimsel düşünce, Aristoteles’in yazılarında da geçen ve 18.yy’da yaşamış Erasmus Darwin’e kadar uzanmaktadır. Konu daha sonra, aşağıdaki açıklamaların çoğunda anlatılmış olduğu gibi eşeyli üremenin amacının genetik varyasyon sağlamak olduğunu anlayan August Weismann tarafından 1889'da ele alınmıştır. Öte yandan 1889'da Charles Darwin, melez gücünün (genetik tamamlama) etkisinin "iki cinsiyetin başlangıcını açıklamak için... fazlasıyla yeterli" olduğu sonucuna varmıştır. Bu da, aşağıdaki Diğer açıklamalar bölümünde ele alınan onarım ve tamamlama hipotezleriyle tutarlıdır.
+Uzun bir yelpazedeki farklı canlı organizmaların eşeyli üremeyi nasıl sürdürdüklerine dair açıklamalar W. D. Hamilton, Alexey Kondrashov, George C. Williams, Harris Bernstein, Carol Bernstein, Michael M. Cox, Frederic A. Hopf ve Richard E. gibi biyologlar tarafından öne sürülmüştür.
+Eşeyli üremenin iki katlı maliyeti.
+Eşeyli üreyen çoğu çokhücrelilerde popülasyon, eşzamanlı olarak her iki cinsiyete de sahip olabilen hermafrodit canlı türleri hariç, yalnızca birisinin hamile kalıp yavru taşıyabildiği iki farklı cinsiyetten oluşur. Buna karşın eşeysiz bir türde ise türün her üyesi yavru taşıyabilir. Bu durum, eşeysiz türlerin her nesilde kendine özgü bir büyüme hızına sahip olduklarını gösterir. Bu tür bir maliyet bedeli, ilk kez John Manyard Smith tarafından matematik terimlerinde tanımlanmıştır. John Manyard Smith, eğer eşeyli üreyen bir popülasyonda eşeysiz üreyen bir mutant ortaya çıkarsa bu durumda popülasyonun yarısını oluşturan erkek bireylerin de kendi döllerini üretemeyeceğini farz etmiştir. Yavru döllerin sadece dişilerden oluştuğu bir durumda ise, eşeysiz üreyen soy çizgisi her nesilde iki katına çıkacak ve böylece herşey eşitlenmiş olacaktı. Bu eşeyli üremenin kendisi için teknik bir sorun olmamakla beraber, bazı eşeyli üreyen çokhücreli organizmalar için bir problem teşkil edebilir. Nitekim doğada eşey ayrımının olmadığı ama buna rağmen izogami ile eşeyli üreyebilen birçok tür mevcut olduğu gibi bu türlerin doğrudan kendi kendilerini kopyalamayan farklı rekombinasyonlara sahip bireyler oluşturma adına böyle bir problemleri de mevcut değildir. Eşeyli olmanın ortaya çıkardığı ana maliyet bedeli, çoğu kez erkek ve dişi bireylerin çiftleşmek için birbirlerini arama zorunluluğunda kalmaları ile cinsel seçilimin genelde bireylerinin yaşam olanağını azaltan özellikleri tercih etmesidir.
+Bu maliyetin aşılamaz bir maliyet olmadığına dair kanıt, hem eşeyli hem de eşeysiz üreme yeteneğine sahip olan türlerin varlığını farkeden George C. Williams'dan gelmiştir. Bu türler belirsiz ve güvenli olmayan çevre şartlarının olduğu dönemlerde eşeyli üremeyi tercih ederken, daha elverişli koşulların bulunduğu dönemlerde ise eşeysiz ürüyordu. Burada önemli olan nokta, bu türlerin seçme imkanları olmadığı zamanlarda eşeyli üremeleri, bu durumun eşeyli üreme için seçici bir avantaj olduğuna işaret etmesidir.
+Eşeyli üreyen bir organizmanın, her yavrusuna sahip olduğu genlerin ancak %50'sini aktarmasının eşeyli üreme için bir dezavantaj teşkil ettiği yaygın olarak kabul edilir. Bu dezavantaj, eşeyli üreyen türlerin gametlerinin haploid, yani yarı kromozomlu olduğu gerçeğine dayanır. Ancak bu durum, iki ayrı ve farklı olgular olan cinsiyeti ve üremeyi bir araya getirerek birleştirmektedir. Eşeyli üremenin iki katlı maliyeti daha doğru bir şekilde bir anizogami maliyeti olarak tarif edilebilir (anizogami; farklı şekil, büyüklük ve yapıdaki gametlerin birleşimiyle gerçekleşen bir eşeyli üreme şekli). Eşeyli üreyen her canlı organizma anizogam değildir. Eril cinsiyete sahip yavru döller meydana getirmedikleri için bu probleme zaten sahip olmayan ama buna rağmen eşeyli üreyen birçok türler mevcuttur. Örneğin tek hücreli mantarlar olan mayalar, yarı kromozoma sahip haploid genomlarını birbirleriyle birleştiren ve rekombine edebilen iki farklı eşleşme tipinin var olduğu eşeyli üreyen izogam bir organizmadır. Her iki cinsiyet yaşam döngülerinin haploid ve diploid aşamalarında üredikleri gibi yavrularına kendi genlerini %100 aktarma şansına da sahiptirler.
+Genetik varyasyonların gelişimi.
+August Weismann 1889’da eşeyli üremenin evrimine dair bunun kardeşler arasındaki genetik varyasyonlar yarattığı ile ilgili bir açıklama ileri sürmüştür. Daha sonra aynı düşünce Ronald Fisher ve Hermann Joseph Muller tarafından genetik terimlerde de açıklanmış olup yakın bir geçmişte 2000 yılında ise Austin Burt tarafından özetlenmiştir.
+George Christopher Williams, bununla ilgili olarak bir karaağaç örneği vermiştir. Buna göre örnekte geçen ormanda ağaçlar arasında mevcut olan boş alanlar bu bireyleri destekleyerek onları teşvik edebilirler. Nitekim bir ağacın ölümüyle boş bir alan oluşup diğerleri için kullanılabilir hale geldiğinde diğer ağaçların tohumları bu boş alanı kullanabilmek ve doldurmak için birbirleriyle rekabete girecektir. Bir tohumun boşalan alanı kapatabilme şansı onun genotipine bağlı olduğundan ve ebeveyn ağaçın bunun için en başarılı tohumun hangi tür bir genotipe sahip olması gerektiğini önceden tahmin edemeyeceği için bu ebeveyn ağaçların her biri olabildiği kadar çok sayıda tohum göndererek kardeşler arasında bir rekabetin oluşmasına yol açarlar. Bu nedenle doğal seçilim çeşitli karışım ve varyeteye sahip yavrular üretebilen ebeveynleri tercih eder.
+Benzer bir hipotez Charles Darwin'in "Türlerin Kökeni" kitabındaki bir bölüme dayanılarak "karışık yığın hipotezi" olarak adlandırılmıştır:
+Michael Ghiselin tarafından 1947 tarihli ""Doğa’nın Ekonomisi ve Cinsiyetin Evrimi"" adlı kitabında belirtilen bir hipotez, farklı tiplerdeki kardeşlerden oluşan bir grubun, her kardeşin diğerinden biraz daha farklı bir ekolojik niş kullanacağı için çevrelerinden örneğin klon kardeşlerden oluşan bir grupta olduğundan daha fazla ve daha geniş bir besin kaynağına sahip olacağını öne sürer. Bu hipotezin ana savunucularından birisi McGill Üniversitesi'nden Graham Bell olup bu hipotez eşeysiz türlerin nasıl eşeyli olduğunu açıklamakta yetersiz kaldığı için eleştirilere maruz kalmıştır. ""Evrim ve İnsan Davranışı"" (MIT Press, 2000) isimli kitapta John Cartwright buna dair şu şekilde bir yorum getirmiştir:
+Yeni genotipler.
+Cinsel birleşme, ne tür yeni bir genotipin oluştuğunu öğrenmek için bir yöntem olarak kullanılabilir. Cinsel birleşme sırasında iki bireyin genleri birleşterek rekominasyon edildikleri için, eşeyli üreyen populasyonlar avantajlı özelliklerini eşeysiz üreyenlere göre daha kolaylıkla birleştirerek kombine edebilirler. Eğer eşeysiz üreyen bir popülasyonda, iki değişik avantajlı alel, popülasyonun farklı bireylerinin kromozomlarında farklı lokuslar üzerinde ortaya çıkmışsa, iki avantajlı aleli birden içeren bir kromozom da sadece birkaç nesil içinde rekombinasyon yoluyla oluşabilirler. Ancak her iki benzer alel eşeysiz üreyen bir popülasyonun farklı bireylerinde ortaya çıkarsa, bu durumda kromozomun gelişebileceği tek yol, uzun zaman alacak bir şekilde aynı mutasyonun diğerinden bağımsız olarak tekrar yaşanmasını veya ortaya çıkmasını beklemek olacaktır.
+Bu konuda Ronald Fisher de, eğer avantajlı genlerin zararlı genlere sahip bir kromozom üzerinde görülmeleri durumunda eşeyli üremenin onların genetik çevrelerinden kurtularak bu avantajın yayılmasına sebep olabileceğini öne sürer.
+Bu teoriyi destekleyen bilimciler, eşeyli ve eşeysiz üreme ile üretilen bireylerin de diğer açılardan farklı olabileceği ve bunun cinselliğin devamlılığını sağladığı bir denge argümanını olumlu karşılarlar. Örneğin "Cladocera" cinsi su pirelerinde, yumurtalar eşeyli üreyen yavrulardan oluşur ve kış mevsiminde daha iyi hayatta kalırlar.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cezmi Baskın</DOCTITLE>
+<TEXT>
+
+Cezmi Baskın (d. 11 Mart 1949, İstanbul), Türk oyuncu, yönetmen. 
+Oyunculuk.
+İlk yılları.
+Cezmi Baskın, tiyatroya Bakırköy Halk Evi'nde amatör olarak başladı. Daha sonra aynı tiyatroda stajyer oyuncu olarak çalıştı. İstanbul İktisadi ve Ticari İlimler Akademisi'nde tahsilini tamamlayan Cezmi Baskın, Ayla Algan ve Beklan Algan'ın eğitmenliğini üstlendiği LCC Language and Culture Center'da tiyatro eğitimi aldı. Bir süre Grup Oyuncuları'nda çalışan sanatçı, Ankara Sanat Tiyatrosu ve Devlet Tiyatroları'nda da çalıştı. Ankara Sanat Tiyatrosu'nda zorunlu şehir değiştirmeler ve askerlik süresi hariç uzun yıllar hizmet verdi. Bu tiyatronun genç oyuncular yetiştirme çabalarına eğitmen olarak katıldı. 
+AST yılları.
+İzmir Devlet Tiyatrosu'nda iki sezon oynadı fakat daha sonra tekrar Ankara Sanat Tiyatrosu'na geri döndü. TRT'de dramalarda oynadı, az da olsa dublaj çalışmaları yaptı. Sinema filmleri, TV dizileri ve tiyatroyu yan yana yürütmeye çalışan Baskın, Ankara Sanat Tiyatrosu ve Gökkuşağı Oyuncuları'nda çok sayıda oyun yönetti ve gençlik oyunları sahneledi.
+Yurt dışı çalışmaları.
+Yurt dışında gözlem ve inceleme gezileri yaptı. Oradaki Türk ve yabancılara eğitmen olarak deneyimlerini aktarmaya çalıştı. Yurt dışında Türklerin yaptığı oyunlarda oynadı. Avusturya'da Afro - Asiatische Institut'da workshop çalışmaları yapan Cezmi Baskın, kendi projelerini de Avrupa'nın çeşitli kentlerinde uyguladı ve oynadı. Robert Schneider'in "Pislik" isimli oyunu ile İsviçre, Avusturya ve Almanya'ya turne düzenledi.
+Günümüz.
+Bugüne kadar hiçbir reklam filminde rol almayan Cezmi Baskın, ÇASOD (Çağdaş Sinema Oyuncuları Derneği) ve FIA (Uluslararası Aktörler Federasyonu) üyesidir.
+Nazım Hikmet Kültür Merkezi'nin geleneksel Nazım Günleri'nde, Yılmaz Onay tarafından, okuma tiyatrosu olarak sahnelenen Nazım Hikmet oyunlarında, 2004 yılından bu yana gönüllü olarak rol almaktadır.
+Özel yaşamı.
+Kalabalıktan uzak, sakin ve özel ortam olarak değerlendirdiği Bozcaada'da evi olan Cezmi Baskın oyunculuktan arda kalan zamanlarda İstanbul'dan kaçıp, özenle uğraştığı üzüm bağlarıyla ilgilenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Misk sığırı</DOCTITLE>
+<TEXT>
+
+Misk sığırı ya da Misk öküzü (Ovibos moschatus) Boynuzlugiller familyasından Arktik bölgede yaşayan bir memeli türüdür. Kalın derisi ve adının geldiği, erkeklerin yaydığı güçlü kokusu ile tanınır. Bu misk kokusu üreme döneminde dişileri çekmek için kullanılır. Misk öküzleri asıl olarak Kuzey Amerika'nın Arktik bölgelerinde ve Grönland'da yaşar. İsveç, Sibirya ve Norveç'e de küçük populasyonlar yerleştirilmiştir.
+Evrim tarihçesi.
+Misk öküzü ya da atasının Kuzey Amerika'ya 200,000 ile 90.000 yıl önce Buzul Çağı'nda "Mammuthus primigenius" türü ile birlikte bulunduğu dönemlerde göç ettiğine inanılmaktadır. Son buzul çağını, tarihöncesi insan topluluklarından uzakta, buz olmayan alanlar bularak atlattıkları düşünülmektedir. Misk öküzünün yavaş yavaş Kuzey Amerika'dan yayılarak Holosen'in sonlarına doğru Grönland'a geçmiştir.
+Fiziksel özellikleri.
+Boynuzlugiller familyasının Caprinae alt familyasının üyesi olarak misk öküzleri koyunlarla keçilere, öküzlere olduğundan daha yakındır ama kendine özgü bir cins içinde sınıflandırılır. Cins adı olan "Ovibos" Latince "koyun-öküz" kelimelerinden oluşturulmuştur. Hem erkek hem de dişi uzun kıvrık boynuzlara sahiptir. Misk öküzlerinin ortalama omuz yüksekliği 1,2 m'dir. Dişilerin uzunluğu 135-200 cm arasındayken, erkeklerin uzunluğu 200-250 cm arasındadır. Genellikle kürk tabakasında altında gizli duran küçük kuyruklarının uzunluğu yalnızca 10 cm'dir. Erişkinler ortalama olarak 285 kg ağırlığındadır ve ağırlıkları 180 ila 410 kg arasında değişir. Yaşam süreleri 12 ila 20 yıl arasındadır. Kalın kürkleri ve büyük kafaları aslında büyük bir hayvan olmayan misk öküzüne büyükmüş havası verir. Hayvanat bahçesinde yaşayan bazı bireylerin 650 kg ağırlığa çıktıkları gözlemlenmiştir. Kara, gri ve kahverengi renkten oluşan kürkleri yere kadar uzanan kıllardan ibarettir. Nadiren de olsa "ak misk öküzleri" Queen Maud Körfezi Kuş Cenneti'nde rastlanmıştır. Misk öküzleri zaman zaman yün elde etmek için evcilleştirilmişlerdir. Misk öküzünün yünü, qiviut, yumuşaklığı, uzunluğu ve yalıtım değeri nedeniyle oldukça değerlidir. 
+Dağılımı ve ekolojisi.
+Misk öküzleri Kanada, Grönland ve ABD'nin Arktik bölgelerinin yerlisidir. Alaska populasyonu 19. yy'ın sonu ile 20. yy'ın başında tamamen yok edilmiştir. Bu populasyonun yok olması aşırı avlanmaya bağlanmış olsa da iklimin değişikliği nedeniyle de olabilir. Ancak o misk öküzü tekrar Alaska'ya yerleştirilmiştir. 1935'te Nunivak Adası'na yerleştirilmişlerdir. Ayrıca Banks Adası'ndan kuzey Avrupa'ya İsveç, Norveç ve Rusya ile Kanada'da da Ellesmere Adası'na yerleştirilmişlerdir. Dünya populasyonunun 80.000 ila 125.000 olduğunu düşünülmektedir. Tahmini olarak 68.788 misk öküzü Banks Adası'nda yaşamaktadır. Kuzey Amerika dışında bilinen son misk öküzü populasyonu Sibirya'da Taymır Yarımadası'nda yaşamış ve 2000 yıl önce yok olmuştur.
+Yaz aylarında misk öküzü akarsu vadileri gibi ıslak bölgelerde yaşar ve derin kardan kaçmak için kışları yüksek enlemlere iner. Ot, odunsu bitkiler, "Salix arctica", likenler ve yosunlarla beslenir. eğer besin kolay bulunuyorsa bir bölgedeki özlü ve besleyici otları tercih ederler. Söğütler kışın en çok yenen bitkilerdendir. Misk öküzleri doğrumadan önce yğksek oranda yağ depolarlar. Bu özellikleri konservatif üreme stratejilerini gösterir. Kışın bulundukları alanlar az kar örtüsüyle kaplıdır, böylece karı kazıp otlara ulaşmak için çok enerji harcamamaya çalışırlar. Misk öküzleri kutup kurtları, Kuzey Amerika boz ayıları ve kutup ayıları tarafından avlanırlar.
+Sosyal davranış ve üreme.
+Misk öküzleri kışları 12-24, yazları 8-20 arası bireyden oluşan sürüler hâlinde yaşarlar. Sürüye özgü bölgeleri yoktur ama izlerini gözönü bezleriyle işaretlerler. Erkek ve dişi misk öküzlerinde farklı yaşa bağlı hiyerarşik yapı mevcuttur ve olgun misk öküzleri genç olanlara göre daha baskındır. Baskın bireyler en iyi besin kaynaklarını sahiplenir ve kış süresince otluk bölgelerden kendinden küçük olanları uzaklaştırırlar. Erkek misk öküzleri farklı yöntemlerle baskınlıklarını ifade ederler. Bir tanesi "koş ve tosla" yöntemidir. Bu hareket tarzında baskın erkek kendinden küçük olan misk öküzüne yandan başını eğerek boynuzlarıyla üzerine doğru koşar ancak önceden uyararak kenara çekilmesine de olanak sağlar. Erkekler aynı zamanda böğürerek başlarını sallar ve yeri eşelerler. Baskın erkekler bazen baskın olmayan erkeklere dişiymişler gibi davranırlar. Baskın erkek, üreme döneminde dişilere yaptıkları gibi, baskın olmayan erkekleri ön ayaklarıyla tekmelerler. Baskın erkekler aynı zamanda baskın olmayan erkeklerin çiftleşecekmiş gibi üzerine çıkar ve üreme organlarını koklarlar. Baskın olmayan bir erkek, baskın olan bir erkeğin üzerine doğru hızlıca koşarak statüsünü değiştirebilir. 
+Misk öküzlerinin çiftleşme mevsimi haziranın sonlraında ve temmuzun başlarında başlar. Bu dönemlerde baskın erkekler diğer erkekleri sürüden kovalayarak 6-7 dişi ve onların yavrularıyla kendi haremlerini kurar. Dövüşen erkekler öncelikle gözönü bezlerini birbirlerinin bacaklarına sürterken yüksek sesle böğürürler ve sonra boynuzlarını gösterirler. Sonra yirmi metre kadar gerilerler, başlarını eğer ve birbirlerinin üstüne doğru koşarlar. Dövüşenlerden birisi pes edene kadar bunu yapmaya devam ederler. Baskın olmayan veya yaşlı erkekler sürüden ayrılarak dişi olmadan sürü oluştururlar ya da yalnız yaşarlar. Ancak tehlike olduğu takdirde sürüden ayrılan erkeler tekrar sürüye dönebilirler. Baskın erkekler, dişilerin kurdukları haremden ayrılmalarına izin vermezler. Çİftleşme sırasında erkek kızgınlık hâlinde olan dişiyi ön ayaklarıyla tekmeleyerek sakinleştirir ve çiftleşmenin kolay olmasını sağlar. Yaz sona erince sürü tekrar biraraya gelir.
+Kızgınlık döneminde erkekler daha saldırgan olup grup içindeki kararları alsa da, gebelik döneminde dişiler idareyi alırlar. Gebe dişiler saldırgan olur ve gün içinde sürünün ne kadar yol katedeceğine ve ggeceyi nerede geçireceklerine karar verirler. Dişiler süt verirken sürü yavruların yeteri kadar beslenebilmesi için daha çok hareket eder. Dişilerin gebelik süresi 8-9 aydır ve yavrulama nisan ile haziran ayları arasında olur. Dişiler her yıl yavrulamaz. Kışların sert olduğu yıllarda dişiler kızgınlığa girmez ve sonraki sene yavrulamazlar. Yavrulama sırasında dişiler korunma amacıyla sürüyle birlikte kalırlar. Yavrular doğumdan birkaç saat sonra sürü ile hareket edebilecek duruma gelirler. Yavrular sürüye kabul edilir ve iki ay boyunca emzirilirler. Bu süreden sonra yavru otlanmaya başlar ve ara sıra süt emer. Dişiler yavrularıyla ses çıkararak iletişim kurar ama iki yaşından sonra ana ile yavrusu arasındaki bağlar zayıflar.
+Misk öküzlerinin savunma tarzıları kendilerine özgüdür. Sürü tehdit altında olunca erkek ve dişiler yanyana tehlikeye doğru dönerek sabit bir halka ya da yarım halka oluşturarak yavruları korurlar. Erkekler ilk savunma hattını oluştururken dişi ve yavrular onlara yakın yer alır. Savunma pozisyonunu kızgınlık döneminde erkekler, yılın diğer dönemlerinde dişiler belirler.
+
+</TEXT>
+</DOC>
+

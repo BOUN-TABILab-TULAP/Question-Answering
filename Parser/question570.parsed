@@ -1,0 +1,12 @@
+1	_	sür	Verb	Verb	_	2	DERIV	_	_
+2	_	_	Verb	Verb	Caus	3	DERIV	_	_
+3	_	_	Verb	Verb	Pass|Pos	4	DERIV	_	_
+4	_	_	Verb	Verb	Able	5	DERIV	_	_
+5	_	_	Adj	Adj	AorPart	6	DERIV	_	_
+6	Sürdürülebilirlik	_	Noun	Noun	Ness|A3sg|Pnon|Nom	8	SUBJECT	_	_
+7	ne	ne	Adj	Adj	_	8	OBJECT	_	_
+8	_	de	Verb	Verb	Pos	9	DERIV	_	_
+9	_	_	Noun	NInf	A3sg|Pnon|Nom	10	DERIV	_	_
+10	demektir	_	Verb	Zero	Pres|A3sg|Cop	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

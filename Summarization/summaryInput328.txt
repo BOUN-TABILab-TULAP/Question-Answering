@@ -1,0 +1,329 @@
+Question: Bitkinin özellikle genç gövdelerinde, yaprağın orta damarında, çiçek ve yaprak saplarında bulunan; eğilme, bükülme ve çarpmaya karşı bitkiye mekanik destek sağlayan, çeperi kalınlaşmış hücrelerden oluşan temel doku hücresi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Temel doku</DOCTITLE>
+<TEXT>
+
+Temel doku, bitki bünyesinin büyük bir kısmını kaplayan sürekli dokudur. Temel doku, hücre çeperlerinin özelliklerine göre üç gruba ayrılır.
+Parankima.
+Parankima hücreleri ince çepere sahiptir. Bitkinin çevreye uyumunu sağlamak için her türlü değişime uğrayabilirler. Besin maddesi bakımından zengin özsuyu ile dolu kofullar içerirler. Parankima dokusu ihtiyaç durumunda sekonder meristeme dönüşür. Görevlerine göre dört çeşittir:
+Kollenkima.
+Bitkiyi eğilme, bükülme ve çarpmaya karşı koruyan, mekanik destek sağlayan sert hücrelerden oluşan dokudur.
+Kollenkima hücrelerinin parankimadan ayrılan yönü hücre çeperlerinin çok kalın olmasıdır. Bu kalınlaşmanın sebebi çeperde selüloz ve pektin birikimidir.
+Sklerenkima.
+Sklerankima hücreleri bitkiyi dayanıklı ve gerilmeye karşı dirençli hale getirir. Bu dokuyu meydana getiren hücrelerin çeperleri selüloz, lignin gibi maddelerin birikmesiyle kalınlaşmıştır.
+Bu hücreler başlangıçta canlı olmalarına rağmen çeperin kalınlaşması yüzünden ölür. Sklerenkima hücreleri, taş Hücreleri ve lifler olmak üzere iki çeşittir:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yaprak</DOCTITLE>
+<TEXT>
+
+Yaprak, bitkilerde fotosentez, transpirasyon ve solunumun gerçekleştiği temel organlardır. Gövde ve yan dalların üzerindeki boğumlardan çıkan ve büyümesi sınırlı olan yapılardır.
+Yaprak türleri.
+Genel olarak yaprak geniş, yassı, yeşildir. Aya, sap, taban'dan oluşan 3 kısımdır. Aya, yüzeydir ve iğne, ipliksi, eliptik, yumurtamsı, böbreksi şekillerde olur, kenarları düz, kenarlı, dişli, testereli, loplu, dalgalıdır. Ortasında bir anadamar ve buna bağlı yandamarlar vardır. Çıplak veya tüylüdür. Sap, ayayı sürgüne bağlar. Kısa, ince, kalın, uzun, tüylü, kaşeli olur. Sapsız yaprak da vardır. Taban, ayanın sapa bağlandığı yerdir. Simetrik veya asimetriktir. Yaprak tepesi sivri, küt, yuvarlak olur. Basit yaprak, bir sap üzerinde tek olandır. Bileşik yaprakta ise aya parçalıdır, ayrı bölümlere ayrılmıştır. Yapraklar, sürgüne bağlanma şekline göre, her noktada bir çift olarak karşılıklı, üç ve daha fazla ise çevrel, her noktada iki sıra boyunca tek olursa almaşlı denir.
+Aya sayısı.
+Tek bir ayası bulunanlara "basit yaprak", iki ya da daha çok ayadan, başka bir deyişle yaprakçıklardan oluşanlara ise "bileşik yaprak" denir. Yaprak ayalarının kenarı düz, dişli oymalı ya da dalgalı yapıda olabilir.
+Yaprak dizilişi.
+En yaygın diziliş biçimi olarak almaşık, sarmal, karşılıklı, karşılıklı çapraz ya da çevrel dizilişe rastlanır.
+Yaprağın anatomik yapısı.
+Yapraklar tipik olarak üç ana dokudan oluşur: Üstderi (epidermis), mezofil ve iletimdoku
+Yaprağın hem alt hem de üst yüzeyini kaplayan üstderi (epidermis) tek sıralı bir hücre katmanı halindeki koruyucu bir dokudur. Üstderi hücrelerin dış çeperleri kütikula denen ince, mumsu bir maddeyle örtülüdür. Mumsu kütikula su geçirmezdir, böylece yaprak yüzeyinden olacak su kaybını minimum seviyeye indirir. Kütikula, yaprağın üst yüzeyinde genelde daha kalındır, bu nedenle oranla daha parlak gözükür. Üstderi hücreleri arasında yaprağın atmosferle gaz alışverişini sağlayan gözenekler bulunur. Bu gözeneklere "stoma" adı verilir. Karbondioksit ile oksijen'in bitkiye girişini sağlarken, su buharının da dışarı atılmasını sağlar. Her stoma bir çift kilit hücreyle çevrilmiştir ki bunlar bitkideki su basıncına göre stomanın (aralığın-gözeneğin) büyüklüğünü ayarlarlar. Güneş ışığına daha çok maruz kalan üst yüzeyden su kaybının önlenmesi için yaprağın üst yüzeyinde alt yüzeyine oranla çok daha az stoma (gözenek) bulunur.
+Yaprağın iç katmanı olan mezofil bölümü klorofilce zengin, sık hücre dizileri halindeki palizat özekdokusu ile hücreleri arasında geniş boşluklar bulunan sünger özekdokusunu kapsar. Üst yüzeye, böylece de ışığa, daha yakında bulunan palizat özekdoku hücreleri bulundurdukları yoğun klorofil oranı ile fotosentezin en yoğun yer aldığı hücrelerdir. Sünger özekdoku ise bulundurduğu geniş boşluklar ile gaz alış verişinde büyük bir rol oynar. Aralarında bulunan bu hava boşlukları mezofil katmanı ile yaprağın alt yüzeyindeki gözenekler (stomata) arasında gaz alış verişinin verimli olması için bir bağlantı oluşturur.
+İletim dokularda (vasküler sistem, vasküler doku) damarları oluşturur. Bitki içindeki madde alış verişinde görev alan doku çeşididir. Ksilem (odun borusu) ve floem (soymuk borusu) diye ikiye ayrılır. Ksilem inorganik maddelerin (su ve mineraller gibi) iletimini sağlarken, floem organik maddelerin (fotosentez sonucu oluşan besin maddeleri gibi) iletimini sağlar. Ksilem cansız hücrelerden oluşurken, floem canlı hücrelerden oluşur.
+Damarlar.
+Bu doku su ve mineralleri sağlar, üretilen besini yapraktan dışarı taşır. Çoğu yaprakta bir orta damar ve bunun etrafında dallanan damarlar vardır.
+Sünger tabaka.
+Bu tabakada düzensiz şekilli sünger hücreleri ve gazların dolaştığı hava boşlukları vardır. Sünger ve palizat, mezofil tabakayı oluşturur.
+Palizat tabaka.
+Çok sayıda kloroplast içeren palizat hücrelerinin olduğu tabakadır.
+Stoma.
+Su ve gaz değişiminin gerçekleştiği küçük gözeneklerdir. Genelde alt yüzeyde bulunur.
+Bekçi hücreler.
+Stomanın iki yanında bulunan, hilal şekilli bu hücreler su ve gaz değişimini kontrol eder.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yaprak galeri sineği</DOCTITLE>
+<TEXT>
+
+Yaprak galeri sineği ("Liriomyza trifolii "), İki kanatlılar (Diptera) takımının Agromyzidae familyasından zararlı böcek türü.
+Süs bitkilerinde yaprağın görünümünü bozan, sebze fidelerinde ise verim düşüklüğü yaratan ufak sineklerdir.
+Morfoloji.
+Yumurtaları Yumurta 0.2 - 0.3 mm boyda, beyaz ve hafif şeffaftır, yaprağın epidermisi arasına bırakılır.
+İlk dönem Larvalar, 0.39 boyunda, renksiz, açılma öncesi soluk portakal sarısı rengine dönüşür. İkinci dönem larvalar 1.00 mm, üçüncü dönem larvalar 1.99 mm boyundadır. Gelişmesini tamamlamış larva 3 mm boydadır.
+Pupaları oval, karın tarafından hafifçe yassılaşmıştır. 1.3 x 2.3 mm boyda soluk sarı portakal renginden daha koyu altın sarısı rengine kadar dönüşen bir renge sahiptir.
+Erginleri küçük, grimtrak-siyah renkte, sıkı ( dolgun) vücutlu, 1.3 - 2.3 mm. uzunluğundadır. Dişiler erkeklerden biraz daha iricedir. Başı ve gözleri ile 3. duyarga segmenti ve femur sarı renktedir.
+Biyolojisi.
+Erginler yumurtalarını yaprağın iki epidermisi arasına bırakır. Bir dişi, ömrü boyunca 30 °C sıcaklıkta yaklaşık 400 yumurta bırakmaktadır. Yumurtalar sıcaklığa bağlı olarak 2-5 günde açılırlar. Yumurtadan çıkan larva yaprak epidemisinde, yaprak sapında açtığı galeriler içinde beslenir. Yılankavi galeriler oluşturarak beslenen larva gelişmesini 30 °C sıcaklıkta 4 günde, 24 °C sıcaklıkta 4-7 günde, 20 °C sıcaklıkta 7 günde tamamlar. 30 °C sıcaklığın üstünde ergin öncesi dönemlerde ölüm oram artar. Gelişmesini tamamlayan olgun larva galeriden çıkarak pupa olmak üzere genellikle kendini toprağa bırakır. Yaprak üzerinde de pupa olduğu da görülmüştür. Yüksek orantılı nem ve kuraklık pupa olmayı olumsuz yönde etkiler. Pupa süresi 20 °C - 30 °C sıcaklıklar arasında 7-14 günde tamamlanır. Düşük sıcaklıklarda bu süre uzar. Ergin aktivitesi yıl boyunca devam eder. Sera koşullarında çok siyada döl (yaklaşık 10 döl) vermektedir. Bir dölünün gelişme süresi 20 °C sıcaklıkta 26 gündür. Yaprak galeri sineği sera koşullarında bütün mevsim görülebilir. Kışlama yoktur. Kışın seralarda, yazın yabancıotlar ve sebzeler üzerinde görülürler. Erginler 25-30 (ya da 13-18) gün arasında yaşarlar. Dişilerin ömrü erkeklerden daha uzundur.
+Konukçuları.
+Polifag bir türdür. 100'den fazla konukçusu vardır. Fasulye, kereviz, kasımpatı, hıyar, karpuz, gerbera, çöven otu ("Gypsophyla"), marul, soğan, patates ve domates gibi bitkiler konukçuları arasındadır.
+Türkiye'de en fazla domates, patlıcan, biber, fasulye, marul, bezelye gibi sebzeler ve kasımpatı, gerbera ve karanfil gibi süs bitkilerinde bulunurlar.
+Zararı.
+Süs bitkilerinin yapraklarında göze hoş gelmeyen lekeler dolayısıyla ekonomik kayıp yaratır. Sebze fidelerinde ise verim düşümüne sebep olur.
+"Erginlerin zararı" : Erginler beslenme ve yumurta bırakmak için ovipozitörleri (yumurta bırakma boruları) ile yapraklarda küçük yaralar açarlar. Bu yaralar üzerinde erkek ve dişi sinekler beslenir. Bu beslenme yararları (delikleri ya da küçük oyuklar) geniş oranda doku bozulmasına yol açmaktadır. Bu zararlanmalar nedeniyle bitkinin fotosentez yapması engellenmekte ve sonuçta önemli ölçüde verim ve kalite kaybı meydana gelmektedir.
+"Larvaların zararı" : Asıl zarar larvalar tarafından yapılmaktadır. Yumurtadan çıkan larva yaprak epidermisinde beslenme yoluyla galeriler açarak zarar yapar. Bitkinin fotosentez yeteneği büyük ölçüde azalır. Yoğunluğunun yüksek olduğu durumlarda bu galeriler birleşerek bütün yaprak alanını kaplamaktadır. Daha sonra zarar görmüş bölgeler sararıp kurur ve ileri aşamada yaprakların dökülmesine, tomurcuk ve çiçek gözlerinin düşmesine neden olurlar. Göze hoş görünmeme sebebiyle süs bitkilerinde yaprağın üzerinde bulunan galeriler ve erginlerin açtığı beslenme delikleri, ürünün pazarlama değerini düşürerek ekonomik kayba neden olur. Genç bitki ve fidelerde gelişmeyi geciktirerek dolaylı olarak ürün ve değer kaybı meydana getirirler. Sebzelerde de önemli ekonomik kayba sebep olmaktadır. Hıyar gibi bitkilerin fide döneminde daha fazla zarar gördüğü bilinmektedir.
+Yayılımı.
+Kozmopolit bir türdür. Avrupa, Afrika, Asya, Okyanusya ve Amerika'da yayılım gösterir.
+Türkiye'de, sebze ve süs bitkileri üretimi yapılan her yörede, özellikle Akdeniz, Ege ve Marmara bölgelerinde yaygındır.
+Mücadele.
+"Karantina önlemleri" : Özellikle ithal edilen kesme çiçeklerin, saksı çiçeklerinin ve üretim materyallerinin bulaşık olmamasına özen gösterilmelidir. Bir bölgeden diğer bölgeye gönderilen kesme çiçek, fide gibi bitkiler titizlikle incelenmelidir.
+"Kültürel önlemler" : Sera ve fide yastıklarının çevresi yabancı otlardan temizlenmelidir; havalandırma açıklıkları 462 mikrometrelik tel ile kaplanmalıdır; bulaşık bitki artıkları imha edilmelidir ve bulaşık fideler seraya dikilmemelidir; toprak 10 cm derinliğinde sürülerek topraktaki pupalar yok edilmelidir; malçlama yapılarak toprağın nemli kalması ve pupaların nemden çürümesi sağlanmalıdır.
+"Biyoteknik mücadele" : Seraya fide dikimiyle birlikte ilk ergin uçuşunu belirlemek üzere dekara l adet sarı yapışkan tuzak asılır. İlk ergin uçuşu belirlendikten sonra toplu tuzaklama amacıyla sarı yapışkan tuzaklar sera içerisinde 10 m'ye bir tuzak gelecek şekilde 3 m aralıklarla almaşık olarak yerleştirilir. Tuzaklar bitkilerin 10–15 cm üzerine asılmalıdır. Tuzakların üzeri kirlendikçe (tuzağın yapışkanı kuruyunca veya sarı rengini kaybedince tuzakların yerine yenisi aşılmalıdır. Çevre ve insan sağlığı açısından kimyasal ilâçsız en etkili yöntemdir
+"Kimyasal mücadele" : Serada erginlerin çıkışlarını belirlemek amacıyla dekara l adet olmak üzere sarı yapışkan tuzak bitki boyunun 10–15 cm üzerine asılmalıdır. Erginler yakalanmaya başladığı zaman serada örnekleme yapılır. Serada l da'lık alanda tesadüfen 25-30 bitki seçilir (kenar sıralan ve orta sıralan örnekleyecek şekilde) , her bitkinin üst ve orta kısmından birer yaprak koparılır. Yaprak üzerinde bulunan larvalar sayılır. Yaprak başına 4-5 larva olması halinde ilaçlamaya başlanır. Kullanılacak ilaçlar ve dozları hakkında en yakın il veya ilçe Gıda Tarım ve Hayvancılık Müdürlüklerine başvurulmalıdır. Yaprak galerisineğine karşı üreticiler genellikle kimyasal mücadele yöntemini seçmekte, ancak larvanın yaprak dokusu içerisinde bulunması nedeniyle ilaçlamalardan genellikle olumlu sonuçlar alınamamaktadır. Yaprak galerisineğiyle kimyasal mücadelenin başarısızlığının diğer bir nedeni ise bu zararlının birçok insektisite karşı direnç geliştirmiş olmasıdır. Öte yandan taze olarak tüketilen sebzelerde yoğun insektisit kullanımı , insan sağlığı yönünden çok önemli bir konu olan kalıntı sorununa yol açmakta, bu ise iç tüketimi ve dış satımı olumsuz yönde etkilemektedir. Bu yüzden örtüaltı sebze yetiştiriciliğinde kimyasal mücadelenin olumsuzluklarının bulunmadığı alternatif mücadele yöntemlerine yönelmek gerekmektedir.
+Karantina.
+Pek çok ülkede karantina kapsamındadır. Türkiye'de de "İç Karantinaya Tabi Hastalık ve Zararlılar Listesi" arasında yer almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkiler  (EBA)</DOCTITLE>
+<TEXT>
+
+Bitkiler de tıpkı diğer canlılar gibi oldukça geniş bir çeşitliliğe sahiptir. Etrafınızda gördüğünüz bitkileri düşünün. Metrelerce uzanan ağaçlar, yüzyıllık dev çınarlar, suda yaşayanlar ya da su mercimeği gibi boncuk kadar olanları vardır (Resim 152). 
+Bitkiler gerçek hücre çekirdekleri bulunan (ökaryot) hücre yapısına sahip çok hücreli canlılardır. Bitkiler, fotosentez yoluyla ışık enerjisi, karbondioksit (CO2) ve su kullanarak organik bileşikler (glikoz) üretebilme özellikleri ile hayvanlar ve mantarlar gibi diğer çok hücreli canlılardan ayrılır. Ayrıca bitki hücreleri selüloz içeren hücre duvarına sahiptir. 
+Bugün dünyada 280.000’den fazla bitki türü yaşamaktadır. Farklı bitki türleri de birbirinden farklı yapı ve organizasyona sahiptir. Bununla birlikte bitkilerin birçok benzer özellikleri de mevcuttur. Bitkiler de tıpkı diğer âlemler gibi bu benzer özelliklerine göre sınıflandırılır. Aristo zamanında otlar, çalılar ve ağaçlar olarak sadece dış görünüşlerine bakılarak sınıflandırılan bitkiler günümüzde anatomik ve fizyolojik özelliklerine göre sınıflandırılır. Bu bölümde bitkilerin sınıflandırılmasında kullanılan bu özelliklerden tohum bulundurup bulundurmaması; kök, gövde ve yaprak tip ve dizilimleri, damar bulundurup bulundurmaması gibi bitkilerin sadece birkaç özelliği tanıtılacaktır. 
+Damar yapısı 
+Bitkileri sınıflandırırken kullanılan kriterlerden birisi damar yapısıdır. Damar elbette ki hepimiz için oldukça tanıdık bir kavramdır. Bitkilerde bulunan damarlar bizim damarlarımızla aynı yapıda değildir. Ancak, benzer görevleri vardır. Bitkilerin, sentezledikleri organik besinleri, kökleriyle aldıkları su ve mineralleri hücrelerine taşıması gerekir. Eğrelti otu gibi bazı bitkiler bu görevi yapan damar sistemine sahiptir. Ancak tüm bitkilerde damar bulunmaz. Karayosunu (Bryophyta-Briyofta) gibi damarsız bitkilerde kök, gövde ve yaprak gibi yapılar bulunmaz. Genellikle nemli bölgelerde yaşayan karayosunları sahip oldukları ipliksi yapılar sayesinde su ve mineralleri difüzyon ile alırlar (Resim 153). 
+Bir bitkinin yapısını temel olarak iki kısımda inceleyebiliriz: toprak üstü yapılar ve toprak altı yapılar. Bitkinin toprağın üstünde kalan kısmında yer alan yapılar: yapraklar, gövde ve dallar ve üreme döneminde gözlenen çiçek ve meyvedir. Toprağın altında kalan kısım ise köktür (Resim 154). 
+Gövde ve dallar 
+Bitkileri sınıflandırmada kullanılan bir diğer kriter ise gövde ve dalların yapı ve özellikleridir. Gövde ve dalların temel işlevi yaprakları güneş ışınlarını alabilecek, çiçek ve tohumlarını da üreme ve yayılma için en uygun pozisyonda tutmaktır. Gövde ve dalların diğer önemli bir görevi, maddelerin bitkinin değişik organları arasındaki iletimini sağlamaktır. Bitkilerin çoğunda gövde ve dallar içinde madde aktarımını sağlayan bir taşıma sistemi (iletim demetleri) bulunmaktadır. Köklerden alınan su ve mineralleri yapraklara ve bitkinin diğer dokularına taşıyan iletim borularına ksilem (odun borusu) denir. Ksilem dışında başka bir boru sistemi de üretilen organik maddeleri bitkinin her yanına dağıtır. Bu iletim borularına floem (soymuk borusu) denir. 
+Bu iki iletim sistemi aynı zamanda bitkinin dik durmasına destek sağlar (Resim 155). Yapılarında bu tür iletim boruları bulunduran bitkilere damarlı bitkiler denir. Bazı bitkiler ise bu tür iletim ağına sahip değildir. Böyle bitkilerin birkaç tabaka hücreden oluşan bir yapıları vardır. Su ve diğer maddeler bir hücreden diğerine difüzyon ve osmoz ile geçer. Böyle bitkiler damarsız bitkiler olarak adlandırılır. 
+Yapraklar 
+Bitkiler yaprak ya da yaprak benzeri yapılara sahiptir. Yaprak, bitkilerde gövdeden ya da dallardan çıkan ve çoğu bitkide fotosentezin yapıldığı organdır. Yapraklar şekil ve büyüklük olarak farklılık gösterir (Resim 156). Bu farklılık bitkilerin sınıflandırılmasında kullanılan önemli bir özelliktir. 
+Çoğu kara bitkisinin yaprak ve diğer toprak üstü organlarının yüzeyleri saydam, pürüzsüz ve kaygan bir tabaka ile kaplıdır. Bu tabakayı bir yaprağın veya elmanın yüzeyine dikkatle bakarak ve yüzeyde parmaklarınızı gezdirerek fark edebilirsiniz. Bu tabaka mumsu bir yapıdadır ve suda çözünmez. Çoğu kara bitkisinde rastlanılan bu yapının en önemli işlevi su kaybının önlenmesidir. Bu tabaka aynı zamanda bitkinin zararlı mikroorganizmalardan korunmasında bir bariyer görevi görür. 
+Karada yaşayan bitki yapraklarında görülen bir diğer önemli yapı da stomalardır (Resim 157). Bu yapılar hava ile yaprağın iç kısımları arasında karbondioksit ve oksijen alışverişine izin vererek fotosenteze destek olur. Stomalar aynı zamanda buharlaşma ile suyun yapraklardan çıktığı yerdir. 
+Kökler 
+Bitkilerin sahip olduğu kök yapısı da sınıflandırmada kullanılan diğer önemli bir özelliktir. Çoğu bitki yaşamın devamı için gerekli su ve mineralleri topraktan kökler aracılığı ile alır (Resim 158). Kökler, gerekli su ve su içinde çözünmüş mineralleri topraktan almanın yanında bitkiyi toprağa bağlar. Bazı bitkilerin kökleri bir depolama organı olarak da iş görür. Havuçta olduğu gibi bu tür kökler çeşitli hayvanlar ve insanlar için bir besin kaynağı oluşturur. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gnetales</DOCTITLE>
+<TEXT>
+
+Morfolojik özellikleri.
+Odunsu veya sarılıcı bitkilerdir. Bu ordo yaklaşık 80 tür ihtiva eder. Gövdeleri basit veya dallanmıştır. Bu ordo mensupları diğer Gymnosperm’lerden farklı olarak odun yapılarında trakeler ve sklerankima lifleri de ihtiva ederler. Çiçekler tek eşeyli ve basit periyantlıdır. Mikrosporofiller Angiosperm’lerin stamenlerine benzerler. Dişi çiçeklerde atrop birer tohum taslağı bulunur, arkegonlar sadece Ephedraceae familyası mensuplarında mevcut diğerlerinde değildir. Diğerlerinde yumurta hücresi veya yumurta nukleusuna kadar indirgenmiştir. Gnetales mensupları Angiosperm’ler ile gymnosperm’ler arasında
+geçit teşkil ederler.
+Welwitschiaceae.
+Bu familya tek cins ve tek tür ihtiva eder (monotipik). "Welwitschia mirabilis"; Angola ve Güneybatı Afrika’da mevcuttur. Bitkiler pancarı andıran kalın ve kısa aynı zamanda yumru şeklinde gövdeye sahiptirler. Yaprakları karşılıklı bir çift ve şeritsi, uzunlukları 3 m.’yi bulur. Yapraklar uç kısımdan çürür ve tabandan büyümeye devam eder. Bitkinin hayatı boyunca ilk meydana gelen yapraklar üzerinde kalır. Bitkiler dioik, kozalak şeklinde çiçek durumu teşkil ederler. Tohumlar 2 kotiledonlu, etlenmez, kuru kalır ve geniş kanatlar taşır.
+Ephedraceae.
+Bu familyanın tek cinsi "Ephedra"’dır. Bu cinsin de dünyada 40 türü mevcuttur. 
+"Ephedra" türleri Akdeniz Bölgesinden Orta Asya’ya kadar yayılmıştır. Münferit olarak Orta Avrupa, Kuzey Amerika ve Güney Amerika’da mevcuttur.
+Genellikle kurak yerlerde yayılmış zengin dallanma göstermiştir, dekussat dizilişli, küçük pulsu yapraklar ihtiva eden, çalı şeklinde bitkilerdir. Genellikle dioiktirler.
+Erkek çiçekler, tek veya çiçek durumu halinde, kısa sürgünlerden braktelerin koltuğundan çıkarlar ve basit ihtiva ederler.
+Dişi çiçekler kısa sürgünlerin ucunda 2-3’lü gruplar halinde, pulsu brakte çiftleri ile çevrilidirler. Her çiçek 2 örtü yaprağın birleşmesinden meydana gelen bir periyant halindedir. Çiçekler tek tohum taslağı (ovül) ihtiva ederler.
+Bunlarda Angiosperm’lerdeki çift döllenmeyi andırırlar. Erkek gametlerden biri yumurta hücresi ile birleşir, diğeri karın kanal hücresi ile birleşir. Tohumları ekseriye kanatlı veya etlenen braktelerle çevrilidir.
+"Ephedra" yurdumuzda 3 türle temsil edilmektedir. 
+Gnetaceae.
+Bu familyanın da tek cinsi "Gnetum"’dur. 40 kadar tür ihtiva eder.
+Daha çok Tropik Asya, Tropik Batı Afrika ve Amazon Bölgesinde yayılmışlardır. Genellikle sarılıcı bitkiler, nadiren ağaç şeklindedirler. Bunların çiçekli bitkilerinkine benzer şekilde geniş yapraklara sahiptir. Dioik olan ağaçların çiçekleri tek eşeylidir.
+Erkek çiçekler başak şeklinde, kat kat daireler şeklinde sıralanmış ve her katın tabanını bir çift brakte teşkil eder. Mikrosporofiller stamenlere benzer.
+Dişi çiçekler kat kat sıralanmış çiçek durumları şeklindedir. Her katın tabanında yaka şeklinde birleşmiş brakte çiftleri bulunur. Her çiçek dıştan içe doğru içiçe geçmiş boru
+şeklinde 2 perigon, uzun ve ucu çiçekten dışarıya uzanan integüment ve bir atrop tohum taslağı ihtiva eder. Döllenmede 2 sperma nukleusu 2 yumurta hücresi ile birleşir ve meydana gelen zigotlardan oluşan embriyolardan sadece bir tanesi gelişir. Bunların tohumlarının dış kısmı etli, iç kısmı sert bir örtü ile çevrilidir, bakkayı andırır. Türlerin çoğunun
+tohumları yenir.
+Önemli türleri:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kök Hücre  (EBA)</DOCTITLE>
+<TEXT>
+
+Canlıların döllenmiş yumurtadan yetişkin bir birey hâline gelişine kadar geçen tüm hücre değişiklikleri DNA üzerinde şifrelenmiştir. Embriyonik dönemde hücreler özelleşerek farklılaşır ve dokuları oluşturur. Özelleşmiş olan bu hücreler görevlerine yeni dokularında devam eder. DNA üzerindeki genetik şifre her hücrede başlangıç aşamasında aynıdır ve hayat boyu korunur. Farklılaşma sürecinde ise bu şifrelerden bazıları aktif olur. Bu aktiflik sayesinde bazı hücreler vücudu savunmak için, bazı hücreler duymayı sağlamak için, bazı hücreler ise böbreklerde kanı süzmek için farklılaşır. 
+İnsan vücudunda da kök hücreler, bütün dokuları ve organları oluşturan ana hücrelerdir. Embriyonun erken dönemlerinde elde edilen kök hücreler embriyonik kök hücre olarak adlandırılır. Henüz farklılaşmamış olan bu hücreler sınırsız bölünebilme ve kendini yenileme, dokulara ve organlara dönüşebilme yeteneğine sahiptir (Resim 112). 
+Buna karşın yetişkin kök hücreleri, gelişimin ilerleyen aşamalarında oluşan doku ve organlarımızın içerisinde, bütünüyle farklılaşmadan kalan, doğum sonrası ve ilerleyen dönemlerde varlığını sürdüren kök hücrelerdir. 
+Günümüzde çözümü olmayan pek çok hastalığın tedavisinde kök hücrelerden yararlanılabiliyor. Örneğin akut ve kronik lösemiler, lipozomal depo hastalıkları, kalıtsal bağışıklık sistemi hastalıkları gibi bozukluklar için kök hücre tedavileri kullanılabilmektedir. 
+Kök hücre teknolojisi, bir hücrenin ölmesi ya da görevini yapamaması sonucu gelişen diyabet, parkinson, alzheimer ve bağışıklık sistemiyle ilişkili hastalıkların tedavisinde, yanmış vücut dokularının onarımında, organ nakillerinde, kimi kanser türlerinin ve kalp kaslarının yenilenmesinde ve daha birçok hastalığın tedavisinde umut ışığı olmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Phalaenopsis</DOCTITLE>
+<TEXT>
+
+Phalaenopsis, yaklaşık olarak 60 tür cinsi olan salepgiller (Orchidaceae) familyasından bir orkide cinsidir ve günümüzde çokları tarafından bilinen ve sevilen tropikal orkideler arasındadır.
+İsim kökeni.
+Botanik adı Yunanca'da "Phalaina" (Güve) ve -"opsis" (görünüm), çiçekleri tropikal güveleri hatırlatır. İlk defa bu cins 1704 yılında Georg Joseph Kamel tarafından "Visco-Aloes Luzonis decima quarta" botanik adı altında John Rays'in botanik eseri olan ""Historia Plantarum"" (Cilt 3)'de tanımlanmıştır. Kitabında tanımladığı "Phalaenopsis aphrodite" türüdür. Bu cins 1825 yılında Botanikçi Carl Ludwig Blume tarafından da tanımlanmıştır.
+Bitki tanımlama.
+Görünüm, yapraklar ve kökler.
+Bitki doğada Epifit (Eski Yunanca: "Epi"=üzerinde, "Phyton"=bitki) olarak, diğer ağaçların üzerinde veya yosunla dolmuş kaya oyuklarında yaşar. Yaprakları etli olup, normal iki ile altı arasında sürekli karşılıklı olarak yetişir, en küçük türü olan "Phalaenopsis appendiculata" da yaprak uzunluğu 12 santimetredir, en büyüklerinden olan "Phalaenopsis gigantea" da yaprak uzunluğu 80 santimetre ve daha fazladır. Yaprak renkleri açık, gümüşsü, koyuyeşil arasında; bazı türlerde yaprakları koyuyeşil/gümüşsü veya açık-/koyuyeşil arasında beneklidir. Her mevsimde bir veya iki yeni yaprak bitkinin ortasından sağlı sollu büyür, aynı zamanda bir veya iki bitkinin en sonundaki eski yaprakları sararırlar, kuruyup ve düşürler.
+Bitkinin bedeninden ve yapraklarının arasından pekçok pürüzsüz kökleri yetişir, bunlar besin ve su karşılamasının yanında, ayrıca tutunma organıdır. Bitkinin köklerinde Klorofil (Yunanca: χλωρός, chlōrós : "yeşil" ve φύλλον, phýllon : "yaprak") bulunur.
+Çiçekler.
+Yetiştiği ortama göre, bitkinin gövdesinden veya yaprak aralarından, yukarıya veya aşağıya sarkık büyüyen uzunluğu 60 ile 80 santimetreye ulaşan saplar ucunda görünümü tropikal güvelere benzeyen ve onlar tarafından tozlaşmaya uygun çiçekleri bulunur. "Phalaenopsis lueddemanniana" ismindeki türünde çiçek saplarında yeni bir bitki yetişir. Çiçek büyüklüğü bir ile iki santimetre çapında olup, bazı türetilen melezlerde (hybrid) 15 santimetre ve daha fazlası arasında değişir. Çiçeği üç çanak yaprak ("Sepal"), üç ("Petalin") ve ortada bir Petalum'dan oluşur.
+Çoğalma.
+Doğada birkaç defa latince ismi "Xylocopa violacea" olan arı türlerinden olan bir böcekten tozlaşdığı gözetlenen "Phalaenopsis", tozlaşma sonucunda oluşum süresi beş ile onbeş ay süren kapsülde oluşan tohumlardan çoğalır. Tohumdan yapılan yapay üretim, üç ile on yıl sürer.
+Yayılım alanı.
+"Phalaenopsis" cinsine doğal ortamda en çok Filipinler, Endonezya'da rastlanır. Doğa'da yayılım alanı, Bhutan'dan başlayıp Myanmar üzerinden, güney Çin, Tayvan, Malezya yarımadasından kuzey Avustralya'nın Queensland eyaletine kadar uzanan kuşak'ta görülür. Gün ısısı 25 ile 35 °C arası ve gece ısısı 15 ile 25 °C olan, büyüme zamanında çok yağmurlu ve bütün yıl havada (%60-70) yüksek nem olan yerler'de yetişir. Bitki yarı gölge ile tam aydınlık arasında ve zayıf ışıkta 12,000 ile 20,000 lux arasında, fakat dosdoğru güneş ışığı görmeyen yerlerde yetişir. "Phalaenopsis lobbii" cinsi +5 °C kadar varan en düşük sıcaklığı kaldırabilir.
+Melezler.
+İlke olarak, doğal ve kültür melezleri olarak ikiye ayrılır. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yapay organ</DOCTITLE>
+<TEXT>
+
+Yapay organ işlevini yitirmiş veya yitirmekte olan ve genellikle hayati önem taşıyan organların yerine bu organların işlevlerinin bir kısmını ya da tamamını geri kazandırmak amacıyla tasarlanan mekanik malzemelerden veya doku mühendisliği yoluyla üretilen organdır. Hayati organlardan herhangi birinin yetmezliği bu organının işlevlerinin restore edilmediği durumlarda hastanın ölümüne yol açar. Organ nakli ya başka bir insandan ya da insan yapımı yapay organla sağlanır. Hayati organlar oldukça karmaşık yapıya sahiptirler ve işlevlerinin yapay malzemeler tarafından taklit edilmesi zordur. Buyüzden bütün yapay organlar işlevsellik bakkımından çeşitli ödünler verilerek tasarlanırlar. Diğer organların da (hayati olmayan), duyu organları vs., onarımı ya da yapay organ vasıtasıyla nakli yapılmaktadır. Son 30 yıldır yapay organlar insan vücudunun yaklaşık 40 farklı kısmına rutin olarak nakil edilmektedir.
+= Hayati Yapay Organlar =
+Yapay organ nakli yapılan veya yakın zamanda yapılabilir olması umulan hayati organlar böbrek, kalp, ak ve kara çiğerler, ve pankreas'tır. Bu yapay organlar genel olarak doğal organların işlevlerinin bir kısmını karşılayabilmektedirler. Fakat kök hücre araştırmaları ve doku mühendisliğindeki gelişmeler ile birlikte malzeme bilimindeki gelişmeler yapay organların geleceği hakkında umut vermektedir.
+Yapay Böbrek.
+"Böbreğin" işlevlerini yerine getirmek üzere tasarlanan diyaliz makinası ilk yapay organ olarak gösterilebilinir. Diyaliz makinası 1940'lı yıllarda Kolff tarafından icat edilmiştir. Böbrekler kan basıncını, hacmini ve asitliğini, çeşitli kimyasal maddelerin derişimlerini kontrol ederek, filtre görevi üstlenerek ve ayrıca çeşitli hormonlar üreterek vücüttun dengesini sağlarlar. Yetmezlik sorunu çeken böbreğe diyaliz yaşam kurtaran fakat ideal olmaktan uzak bir çözümdür. Dializ makinesi üre ve diğer istenmeyen besinleri ve tuzları kandan arıtarak böbreğin işlevlerinin bir kısmını üstlenebilmekte birlikte doğal bir böbreğin kullanılmayan besinleri tekrar kandolaşımına katma işlevini yerine getiremez. Ortalama bir hasta diyaliz tedavisine haftada üç kez her seferinde 5-6 saat olmak üzere girer.
+Yapay böbreğe bir diğer örnekte "yapay bio-böbrek"'tir. Yapay bio-böbrek hastanın kendi hücrelerini yapay bir yapıda kullanarak diyaliz makinalarının yerine getiremediği hormon ve bağışıklık faktörleri salgılamak gibi doğal böbrek işlevlerini sağlamayı amaçlamaktadır. FDA ("Amerikan Gıda ve İlaç Dairesi") kurumu nisan 2012'de yaptığı duyuruyla üç yapay bio-böbrek uygulaması şeçmiş ve bunları test etmeye başlamıştır.
+Yapay Kalp.
+"Kalbin" en önemli işlevi kanın vücuda pompalanmasını sağlamaktır. İlk tümüyle nakil edilebilir yapay kalp 2001 yılında bir hastaya nakil edilmiştir. Abiomed tarafından üretilen bu yapay kalp 1 kg ağırlığındaydı ve AbioCor olarak adlandırılmıştı. AbioCor titanyum ve polimer den yapılma vücut içine yerleştirilen bir iç bateri ve hastanın omuzlarına giydirilen bir dış bateriden oluşan bir kan pompasıydı. İlk yapay kalbi taşıyan hasta ameliyattan 4 ay sonra genel sağlık durumunun kötüye gitmesi sonucu ölmüştür. Bir önceki kuşak yapay kalpler (Jarvik-7) poliüretan ünitesinden ve iki pompa ve 4 yapay kalp kapakcığından oluşmaktaydı. Jarvik-7 sadece 4-5 yıl kulanılmak üzere tasarlanmıştı. Kilinik deneyleri 1980'lerde yapılmış fakat uzun dönem kullanım testlerini geçememiştir. Bunun yerine organ nakli bekleyen hastaları kısa süre hayatta tutmak için kullanılmıştır. Yapay kalp dışında kronik kalp rahatsızlıklarıyla savaşmak için kalp pompaları, kalp pili, yapay kalp kapakcığı ve yapay kan damarları gibi yapay organlardan da yararlanılmaktadır.
+Yapay Akciğer.
+"Akciğerler" karbondioksiti oksijenle değiştirirler. Akciğer 40 farklı çeşit yapay şekilde taklit edilmesi çok zor olan hücre içerir. Bu herbir hücrenin işlevleri henüz tam olarak anlaşılamamıştır. Bu sebeplerden dolayı henüz sadece yardımcı solunum ve gaz değişim aletleri geliştirilebilinmiştir. Bu aletler genellikle ameliyatlarda kullanılır. Yakın zamanda nakil edilebilir akçiğerin kısıtlı işlevlerini kısa süreliğine yerine getirebilen bir kateter geliştirilmiştir. Bu alet "Vena Kava"'ya yerleştirilip kronic akciğer hastalarına uygulanmaktadır.
+Yapay Karaciğer.
+"Karaciğer" binlerce değişik işlevi olan hücrelerden oluşan büyük ve karmaşık bir organdır. Karaciğer yağ, karbonhidrat, kan pıhtılaşma faktörlerininin oranlarını, protein metabolizmasını ve birçok diğer işlemi yerine getirir. Günümüz imkanlarıyla bu işlevlerin tümüyle yapay bir şekilde taklit edilmesi imkansız görülmektedir. Buyüzden en yapılabilir yol 
+doku yapay malzeme karışımı bir yapay karaciğer olarak gözükmektedir. 
+Yapay Pankreas.
+"Pankreas" insulin salgılanmasında rol oynayarak kandaki glikoz seviyesini kontrol eder. 1969 yılında Minnesota Universitesinde nakil edilebilir insulin pompası geliştirilmiştir. Bu pompa 300 gr ağırlığındaydı. Yakın zamanda yapay pankreas Roman Hovorka tarafından Londra şehir universitesinde geliştirilmiştir. Bu alet insulini deri altından kana ulaştırarak kan şekeri oranının sabit kalmasını sağlar.
+Diğer bir yapay pankreas üretim yaklaşımıda yapay-bio pankreastır. Bu metod uyarıldığında endokrin hormonu salgılayabilen hücre adacıklarından oluşan dokuların doku mühendisliği tekniğiyle üretilip nakil edilebilir hale getirilmesini amaçlamaktadır.
+= Diğer Yapay Organlar =
+Diğer geliştirilmiş ya da geliştirilmekte olan yapay organlar genel olarak yapay deri, yapay kulak, yapay göz, yapay burun, yapay gırtlak olarak sıralanabilir.
+= Ayrıca bakınız =
+= Dış bağlantılar =
+= Kaynakça =
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doğuştan gelen bağışıklık sistemi</DOCTITLE>
+<TEXT>
+
+Doğuştan gelen bağışıklık sistemi ya da doğal bağışıklık, diğer organizmaların enfeksiyonlarına karşı spesifik olmayan yolla koruma yapan ev sahibinin savunmasındaki hücreleri ve mekanizmaları kapsayan bir bağışıklık sistemi çeşididir.
+Yani, doğuştan gelen bağışıklık sistemindeki hücreler patojenleri edinilmiş bağışıklıktan farklı şekilde, soysal olarak tanır ve yanıt oluşturur; uzun süreli olarak koruma yapmaz.Doğuştan gelen bağışıklık sistemi, enfeksiyonlara karşı anlık koruma sağlar ve hayattaki bütün bitki ve hayvan sınıflarında bulunur. 
+Özellikleri.
+Doğuştan gelen bağışıklık sisteminin evrimsel süreçte meydana gelen eski koruma stratejisi olduğu ve bitkilerde, mantarlarda, böceklerde ve ilkel çok hücrelilerdeki baskın olarak bulunan bağışıklık sistemi olduğu düşünülmektedir (bakınız #Doğuştan gelen bağışıklığın diğer şekilleri).
+Omurgalılardaki doğuştan gelen bağışıklık sisteminin ana özellikleri şöyledir:
+Enflamasyon.
+Enflamasyon, bağışıklık sisteminin enfeksiyona ya da irritasyona karşı oluşan ilk yanıtlarından biridir. Enflamasyonda yaralanmış hücrelerce salınan kimyasal faktörler ve yaygın enfeksiyon karşısında fiziksel bir bariyer kurmak için yapılır ve zarar görmüş dokuların patojenlerden arındırılarak iyileştirilmesi sağlanmaya çalışılır.
+Enflamasyon sırasındaki kimyasal faktörler (histamin, bradikinin, serotonin, lökotrienler) ağrı reseptörlerini hassaslaştırır, kan damarlarının vazodilatasyonuna yol açar ve fagositleri özellikle de nötrofilleri çeker. Nötrofiller de salınan faktörlerce diğer lökositler ve lenfositleri davet ederek bağışıklık sisteminin diğer parçalarını tetiklerler. 
+Enflamatör yanıtın belirtileri şunlardır:
+Kızarıklık ("rubor"), sıcaklık ("calor"), şişme ("tumor"), ağrı ("dolor") ve mevcut organ veya dokuların kullanılamazlığı ("functio laesa").
+Kompleman sistemi.
+Kompleman sistemi, bağışıklık sisteminin biyokimyasal kaskadları, patojenleri ya da diğer hücrelerce yıkılan ürünlerini temizlemek için "yardımcı" ya da "tamamlayıcı" (komplemanter) olan antikor yeteneğindeki sistemdir. Kaskadlar, karaciğerde, öncelikle hepatositlerde sentezlenen bazı plazma proteinlerinden oluşur.
+Bu proteinler şunlarla birlikte çalışır:
+Kompleman kaskadlarının elementleri, bitkiler, kuşlar, balıklar ve bazı omurgasızlar gibi evrimsel olarak memelilerden daha eski olan bazı türlerde bulunurlar.
+Doğuştan gelen bağışlık yanıtı hücreleri.
+Beyaz kan hücreleri "lökositler" olarak bilinir. Lökositler vücudun diğer hücrelerinden farklıdırlar, tamamen organ ya da doku parçalarıyla ilişkilendirilmezler, bu yüzden işlevleri tek hücreli canlılarınkine benzer olarak bağımsızdır. Lökositler serbestçe hareket edebilir, döküntüleri, yabancı parçacıkları ya da istilacı mikroorganizmaları yakalayabilir ve bunlara etki edebilir. Vücudun diğer hücrelerinden farklı olarak, doğuştan gelen çoğu bağışıklık lökositi bölünemez ya da kendi kopyalarını oluşturamazlar; fakat kemik iliğinde kan yapım hücrelerince yapılabilirler. 
+Doğuştan gelen lökositler şunlardır; doğal öldürücü hücreler, mast hücreleri, eozinofiller, bazofiller, makrofajlar, nötrofiller ve dendritik hücreler gibi fagositik hücreler. Bu hücreler, bağışıklık sistemince tanınan ve yok edilen enfeksiyonun nedeni olan patojenler üzerine etki ederler. 
+Mast hücreleri.
+Mast hücreleri, bağ dokuda ve muköz membranlarda yerleşik olarak bulunan ve patojenlere karşı savunmayla ve sıcaklıkla ("calor") yakından alakalı, fakat daha çok alerji ve anafilaksi ile ilişkilendirilen doğuştan gelen bağışıklık sistemi hücrelerinin bir çeşididir. 
+Mast hücreleri aktive olduklarında, hızla karakteristik histamin, heparince zengin ve çeşitli hormonal arabulucuları ve kemokinler ya da kemotaktik sitokinleri ve granüllerini ortama salarlar. Histamin, enflamasyonun tipik belirtisi olarak kan damarlarını genişletir ve nötrofilleri ve makrofajları toplar.
+Fagositler.
+Fagositoz terimi literatürde "yiyen hücre" anlamına gelir. Bu bağışıklık hücreleri patojenleri ya da parçacıkları tam anlamıyla yutarlar. Patojenin ya da partikülün yutulması için bir fagosit plazma membranını ileriye doğru uzatır ve parça tamamen sarılınca da uzantılarını birleştirir, böyle partikül hücre içine alınmış olur. İstilacı patojen hücre içindeyken endozom içine alınmış olur ve lizozom ile birleştirilir. Lizozom, parçacıkları ya da canlıları öldüren ve sindiren enzimleri ve asitleri içerir. Fagositler genellikle vücutta patojenleri aramak için dolaşır haldedirler, sitokinler olarak adlandırılan hücrelerce üretilen yüksek özellikli moleküler sinyallerin bir grubuyla tepkimeye de girebilme yeteneğindedirler. Bağışıklık sisteminin fagositik hücreleri; makrofajlar, nötrofiller ve dendritik hücrelerdir. Ev sahibinin kendi hücrelerinin fagositozu düzenli dokuların gelişimi ve bakımının bir parçasıdır. Ev sahibi hücreler "apoptozis" olarak adlandılan programlanabilir hücre ölümü ya da bakteriyal veya viral enfeksiyon sonucu gerçekleşen hücre yaralanmalarında fagositik hücrelerce etraflarını etkilemeden yok edilirler. 
+Ölü hücrelerin yokedilmesiyle yeni hücrelerin gelişmesi ve büyümesine yardım edilmiş olur, fagositoz, doku yaralanma sonrası iyileşme sürecinin önemli bir parçasıdır. 
+Makrofajlar.
+Makrofajlar Yunanca "büyük yutan hücre" anlamına gelir, kılcal damarlar boyunca hücre membranını geçerek vasküler sistemin dışına çıkabilen ve istilacı patojenleri kovalayarak hücreler arası alanlara girebilen büyük fagositik lökositlerdir. Dokularda, organlara özelleşmiş makrofajlar fagositik hücrelerden farklılaşarak kanda "monosit" olarak adlandılırlar. Makrofajlar en becerikli fagositlerdir ve bakterilerin, mikropların ya da diğer hücrelerin önemli miktardaki sayılarını fagosite ederler. 
+Nötrofiller.
+Nötrofiller eozinofil ve bazofiller gibi, sitoplazmalarında granüller taşıyan, diğer hücrelerden taşıdıkları parçalı hücre çekirdekleriyle ayrılan "polimorfonüklear (PMNler) hücreler" ya da "granülosit" olarak bilinen hücrelerdendir. Nötrofil granülleri, bakterileri ve mantarları öldüren ya da gelişmelerini baskılayan çeşitli toksik maddeler içerirler. 
+Makrofajlara benzer olarak, nötrofiller de patojenlere bir "respiratör yangı"yı aktive ederek saldırılar. Nötrofillerin respiratör yangısının ana ürünleri oldukça güçlü hidrojen peroksit, serbest oksijen radikalleri ve hipoklorit gibi gibi oksitleyici ajanlardır. Nötrofiller fagositlerin en çok bulunan tipleridir, normalde dolaşan lökositlerin %50-60 oranında bulunurlar ve genellikle bir enfeksiyonda bölgeye ulaşan ilk hücrelerdir. 
+Sağlıklı normal bir yetişkinin kemik iliği her gün 100 milyardan daha fazla nötrofil üretir ve akut enflamasyon sırasında gün içinde 10 kereden fazla üretim yapar.
+Dendritik hücreler.
+Dendritik hücreler (DC) dış çevreyle iletişim halinde olan dokularda, özellikle deri (deride "Langerhans hücreleri" olarak isimlendirilirler) burun, akciğerler, karın ve bağırsaklar ve diğer iç mukozal sınırlarda bulunan fagositik hücrelerdir. Sinir hücreleri nöronlara benzeyişlerinden dolayı böyle isimlendirilmiş olsalar da, sinir sistemiyle ilgileri yoktur. Dendritik hücreler antijen sunumu sürecinde doğuştan gelen ile edinilmiş bağışıklık sisteminde arasında bağlantı oluşturduklarından oldukça önemli bir role sahiplerdir. 
+Bazofiller ve Eozinofiller.
+Bazofiller ve Eozinofiller nötrofillerle bağlantılı hücrelerdir. Bir patojence etkinleştirildiklerinde, bazofiller paratizlere karşı savunmada ve (astım gibi) alerjik reaksiyonlarda önemli rolü olan histamini salarlar. Aktivasyon sırasında eozinofiller, bakterileri ve parazitleri öldürmede oldukça etkili fakat doku harabiyeti sırasında oluşan allerjik reaksiyonlardan da sorumlu olan, yüksek oranlı toksik proteinlerin ve serbest radikallerin alanlarını saklar. Eozinofillerin etkinleştirilmesi ve toksin salınımı bu yüzden herhangi bir doku harabiyetinin önlenmesiyle oldukça ilişkilidir.
+Doğal öldürücü hücreler.
+Doğal öldürücü hücreler (NK hücreleri), doğuştan gelen bağışıklık sisteminin bileşenlerindendir. Doğal öldürücü hücreler, mikroplarca enfekte edilmiş ev sahibi hücreleri bulup onlara saldırırlar, doğrudan mikroplar üzerine etki etmezler. Örneğin; "kendini-kaybetme" olarak bilinen süreçte tümör hücrelerini, virüsle enfekte olmuş hücreleri yok ederler. Bu terim, ev sahibi hücrelerin viral enfeksiyonları sırasında ulaşılabilinen yeri- hücre yüzeyinde düşük seviyede bulunan MHC I (major histokompatibilite komleksi) olarak bilinen markerları tarif eder. İsimleri olan 'doğal öldürücü', etkinleştirilmeye ihtiyaç duymadan "kendini-kaybetmiş" hücreleri öldürdüklerinden verilmiştir. 
+γ ve δ T hücreleri.
+Diğer geleneksel T hücreleri altkümelerine benzer olarak CD1d gibi T hücre reseptörleri (TCR'ler), sınırlandırılmış doğal öldürücü hücrelerdir; γ ve δ T hücrelerinin doğal ve edinilmiş bağışıklık arasında yer almalarını sağlayan karateristik özelliklerini sergilerler. Bir yandan γ ve δ T hücreleri edinilmiş bağışıklık sisteminin, TCR genlerinin düzenlenmesiyle çeşitlilik kavşağının üretilmesi ve hatırlanabilir bir fenotipi geliştirme içeriği olarak anlaşılabilirler. Her nasılsa, çeşitli altkümeler; patern tanıma reseptörleri olarak kullanılabilen bağlı TCR'ler ve doğal öldürücü hücreler, doğuştan gelen bağışıklık sisteminin parçaları olarak da düşünülebilirler. 
+Örneğin, buna göre Vγ9/Vδ2 T hücrelerinin büyük bir kısmı, mikroplarca üretilen genel moleküllere saatlerce karşılık verir ve intraepiteliyal Vδ1 T hücrelerine yüksek oranda bağlanır. 
+Doğuştan gelen bağışıklık yanıtı.
+Doğuştan gelen bağışıklık sistemi hücreleri tesirli biçimde vücuttaki bakterilerin serbestçe gelişmelerini önlerler, bununla beraber bazı patojenler kendilerini doğuştan gelen bağışıklık sisteminden koruyacak bazı mekanizmalar geliştirmişlerdir. 
+"Bacteroides" türleri normalde memelilerin sindirim sistemi florasının önemli kısmını oluşturan kommensal bakterilerdir. Bazı türler ise (örneğin "B. fragilis") karın boşluğunda enfeksiyonlara yol açabilen fırsatçı patojenlerdir. 
+"Staphylococcus aureus" fagositlerin kimokin sinyalleriyle yanıt oluşturma yeteneğini baskılar. "M. tuberculosis", "Streptococcus pyogenes" ve "Bacillus anthracis" gibi diğer organizmalar ise direkt fagositleri öldüren mekanizmalar geliştirmişlerdir. 
+Doğuştan gelen bağışıklığın diğer şekilleri.
+Prokaryotlarda savunma.
+Bakteriler ve (belki bazı diğer prokaryotik organizmalar) kendilerini bakteriyofaj gibi diğer patojenlerden korumak için restriksiyon-modifikasyon sistemi olarak bilinen eşsiz bir savunma mekanizması kullanırlar. Bu sistemde bakteriler, istilacı bakteriyofajlardaki viral DNA'nın spesifik bölgelerine saldırıp onları yokeden restriksiyon-modifikasyon endonükleaz olarak bilinen enzimi üretirler. Restriksiyon-modifikasyon endonükleazlar ve restriksiyon-modifikasyon sistemi sadece prokaryotlarda bulunur.
+Omurgasızlarda savunma.
+Omurgasızların lenfositleri veya vücut bağışıklığına bağlı antikorları yoktur ve bağışıklık sistemleri çok hücrelilerinkine, ilk olarak omurgalılarda görülen edinilmiş bağışıklığa benzer. Yine de omurgasızların olan mekanizmaları omurgalıların bağışıklığının öncüleri gibidir.
+Patern tanıma reseptörleri, nerdeyse bütün organizmalarca, mikrobiyal patojenlerle ilişkili molekülleri tanımlamak için kullanılan proteinlerdir. "Toll benzeri reseptörler", bütün insanlar da dahil vücut boşluğuna sahip bütün organizmalarda (sölomlular) tanıma reseptörlerinin ana sınıfını oluştururlar. Kompleman sistemi yukarıda görüldüğü gibi, bağışıklık sisteminde organizmadan patojenleri temizlemeye yardımcı olan bir biyokimyasal kaskaddır ve hayattaki bütün canlılarda bulunur. Yengeçler, kurtlar gibi çeşitli böcekleri de içeren bazı omurgasızlar, profenoloksidaz (proPO) olarak bilinen sistemin değişmiş şekli olan kompleman yanıtını kullanırlar. 
+"Antimikrobiyal peptidler" doğuştan gelen bağışıklık sisteminin evrimsel süreçte korunmuş ve hayattaki bütün canlı sınıflarında ve omurgasıların sistemik bağışıklığının temeli olarak bulunan bileşenleridir. Böceklerin bazı türleri 'defensinler" ve "kekropinler" olarak bilinen antimikrobiyal peptidleri üretirler. 
+Bitkilerde savunma.
+İnsanları etkileyen patojenlerin her sınıfı bitkilerde de hastalık yapabilir. Hastalığa neden olan türler, enfekte olan türlere göre değişmekle birlikte, bakteriler, mantarlar, virüsler, nematodlar ve böceklerin hepsi bitki hastalıklarına neden olabilir. Hayvanlar birlikte bitkiler de böceklerin ya da diğer patojenlerin saldırılarına uğrayabilirler, 
+savunmalarında üretrikleri kimyasal bileşenlerle metabolik yanıt oluşturup, enfeksiyonla savaşabilir ya da kenidlerini böcek veya diğer otoburlara karşı daha az çekici kılabilirler. 
+Bitkiler omurgasızlar gibi antikor ya da T-hücresi yanıtı veya patojenleri saptlayan ve onlara saldıran hareketli hücreler üretmezler. Bununla beraber bitkiler sadece birkaç hayvanın yapabildiği gibi enfeksiyon yerine yenilenebilir ve kullanıldıktan sonra atılabilir parçalar üretirler. Bitkinin bazı parçalarını atması ya da ayırması enfeksiyonun yayılmasının durdurulmasına yardımcı olur. 
+Çoğu bağışıklık sistemi yanıtı, bitkinin tamamına yayılan sistemik kimyasal sinyaller gönderir.
+Bitkiler, patojenleri tanımlamak için patern tanıma reseptörleri kullanırlar ve enfeksiyondan kurtulmaya yardımcı olan bazal bir yanıt oluşturmak için kimyasal sinyaller üretirler.
+Bitkinin bir parçası mikrobiyal ya da viral bir patojenle enfekte edildiğinde oluşan özel elicitorlar tarafından tetiklenen bir zıt etkileşim durumunda, bitki sınırlı bir hipersensivite yanıtı (HR) oluşturur, enfeksiyonun olduğu bölgede bitkinin diğer parçalarına yayılmasını engelleyen hızlı programlanmış hücre ölümü gerçekleştirilir. HR'nin hayvanlardaki pyroptozis'e benzer bazı özellikleri vardır, hücre parçalanmasını hücre ölümü sırasında düzenleyen bir sistin proteaz olan VPE'nin kaspas-1-benzeri proteolitik aktivitesinin gerekliliği gibi.
+Bitkilerde yaygın şekilde bulunan ve patojenleri saptlayan "resistans" (R) proteinleri, R geni tarafından kodlanırlar. Bu proteinler, hayvan bağışıklık sisteminde yararlı olan NOD ve Toll benzeri reseptörlere benzer domainler içerir. Sistemik kazanılmış dayanıklılık (SAR), tüm bitkiyi birçok enfeksiyon ajanına karşı dirençli hale getiren bir savunma yanıtı tipidir. SAR, salisilik asit ya da jasmonik asit gibi kimyasal mesajcıların ürününü bağlar. 
+Bu kimyasalların bitki çapında yolculuğu, bitkinin enfekte olmamış diğer bölgelerindeki hücreleri savunma bileşikleri üretmeleri için uyarır. Salisilik asit SAR'ın geliştirilmesinde zorunlu bir madde olmakla birlikte, sinyalin taşınmasından sorumlu değildir. Son bulgular, jasmonatların sinyalin bitkinin uç bölümlerine taşınmasnda rolü olduğunu göstermektedir. RNA interferens mekanizmaları, virüs çoğalmasını engelleyebildikleri için bitkinin sistemik yanıt sisteminde önemlidirler. "Jasmonik asit yanıtı", yapraklarda böceklerin verdiği hasarlarca uyarılır ve metil jasmonatın oluşumunu sağlar.
+
+</TEXT>
+</DOC>
+

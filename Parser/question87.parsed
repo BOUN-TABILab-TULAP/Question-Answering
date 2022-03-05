@@ -1,0 +1,13 @@
+1	Nüfus	nüfus	Noun	Noun	A3sg|Pnon|Nom	8	OBJECT	_	_
+2	_	art	Verb	Verb	Pos	3	DERIV	_	_
+3	artış	_	Noun	NInf	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	hızı	hız	Noun	Noun	A3sg|P3sg|Nom	7	OBJECT	_	_
+5	en	en	Adv	Adv	_	6	MODIFIER	_	_
+6	fazla	fazla	Adj	Adj	_	7	MODIFIER	_	_
+7	_	ol	Verb	Verb	Pos	8	DERIV	_	_
+8	olan	_	Adj	APresPart	_	9	MODIFIER	_	_
+9	kıta	kıta	Noun	Noun	A3sg|Pnon|Nom	11	SUBJECT	_	_
+10	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	11	DERIV	_	_
+11	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

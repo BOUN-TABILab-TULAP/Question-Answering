@@ -1,0 +1,10 @@
+1	İpek	ipek	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+2	_	böcekçi	Noun	Noun	A3sg|Pnon|Nom	3	DERIV	_	_
+3	böcekçiliğinin	_	Noun	Noun	Ness|A3sg|P3sg|Gen	8	SUBJECT	_	_
+4	sanayi	sanayi	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	açısından	açı	Noun	Noun	A3sg|P3sg|Abl	8	MODIFIER	_	_
+6	önemi	önem	Noun	Noun	A3sg|P3sg|Nom	8	SUBJECT	_	_
+7	_	ne	Pron	QuesP	A3sg|Pnon|Nom	8	DERIV	_	_
+8	nedir	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

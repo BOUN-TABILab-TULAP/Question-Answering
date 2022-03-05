@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Normal	normal	+Adj
+
+fay	fay	+Noun+A3sg+Pnon+Nom
+
+ters	ters	+Adj
+
+fay	fay	+Noun+A3sg+Pnon+Nom
+
+dışındaki	dış+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+dışındaki	dış+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+dışındaki	dışı+Adj^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Adj+Rel
+
+fay	fay	+Noun+A3sg+Pnon+Nom
+
+çeşidi	çeşit+Noun+A3sg+P3sg+Nom
+çeşidi	çeşit+Noun+A3sg+Pnon+Acc
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

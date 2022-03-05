@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kongre	kongre	+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+toplantılar	toplantı+Noun+A3pl+Pnon+Nom
+toplantılar	toplantı+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+turizm	turizm	+Noun+A3sg+Pnon+Nom
+
+açısından	açı+Noun+A3sg+P3sg+Abl
+
+neden	ne	+Pron+Ques+A3sg+Pnon+Abl
+neden	neden	+Adverb
+neden	neden	+Noun+A3sg+Pnon+Nom
+
+önemlidir	önem+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

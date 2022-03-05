@@ -1,0 +1,163 @@
+Question: 47 kromozomlu,  XXY eşey kromozomuna sahip erkek bireylerde görülen anormalliğe ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>XXY</DOCTITLE>
+<TEXT>
+
+XXY, 2007 yılında çevrilen Lucia Puenzo’nun yönetmenliğini üstlendiği Arjantin, İspanya ve Fransa ortak yapımı dramatik film.
+10-13 Mayıs 2008 tarihlerinde film 11. Uçan Süpürge Uluslararası Kadın Filmleri Festivali’nde tekrar gösterilmiştir.
+Filmde, Alex adındaki 15 yaşındaki Klinefelter sendromu bulunan Arjantinli bir kız çocuğunun ve ailesinin Uruguay'a taşınması ve Alex'in dünyası anlatılmaktadır. Filmin adı da bu sendromda görülen XXY kromozomlarından gelmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Klinefelter sendromu</DOCTITLE>
+<TEXT>
+
+Klinefelter sendromu ya da 47, XXY sendromu; hücre bölünmesi sırasında, eşeysel kromozom düzensizliklerinden kaynaklanan semptomların hasta kişide görülmesi durumudur.
+Hastalığı, 1942'de Dr. Harry Klinefelter ilk olarak tanımlamıştır, doktorun adıyla anılan doğuştan gelen bir hastalıktır.
+Nedenleri.
+Hücre bölünmesi sırasında eşey kromozomlarından X'in ayrılmaması durumundan kaynaklanan bir sendromdur. İki tane X kromozomu taşıyan bir yumurta hücresinin normal bir sperm ile döllenmesiyle meydana gelir. Normal karyotipte 46, XY olması gereken bireyin, Klinefelter sendromunda 47, XXY şeklinde karyotipi vardır. 
+Görünümleri.
+Bu durumdaki kişiler genellikle erkek birey olarak görülür. Uzun kol ve bacakları, kadınımsı kalça çıkıntıları ilk olarak göze çarpan özellikleridir. Testisleri küçük, kadınımsı göğüs (jinekomasti) ve kas gelişimleri vardır. Sesleri erkeklere nazaran daha incedir. Hipogonadizm görülebilir. Sakal ve bıyık gelişmleri çok az, vücut kıllanmaları kadınımsı görünümdedir. Spermatogenez görülmez ve kısır bireylerdir. 
+Canlı erkek doğan bireylerin 500 ya da 1000'inde 1 oranla görülür.
+Türleri.
+48, XXYY sendromu; yaklaşık 17,000 canlı doğumda bir karşılaşılan Klinefelter sendromunun özelliklerini taşıyan bir hastalıktır. Bu hastalarda semptomlar daha ağır görülür.
+Mozaik 47,XXY/46,XY Klinefelter sendromu; şeklinde mozaik olarak da görülebilir. Bu hastalarda semptomlar 47,XXY karyotipli hücrelerin yoğunluğuna bağlı olarak değişir.
+Doğum öncesi tanı.
+Klinefelter sendromu gebelikte tanınabilen bir hastalıktır. Nadir olarak, ultrason bulguları ile fetüs anormal olarak tanımlanabilir. Amniyosentez ve diğer bazı tanı yöntemleri ile Klinefelter sendromununa gebeliklerde kesin tanı konur. Klinefelter sendromu saptanmışsa aileye ayrıntılı genetik danışmanlık verilerek gebeliğin sonlandırılması önerilebilir ancak, bebek kısır bir birey olarak dünyaya geleceği için bu kararın verilmesi tartışmalıdır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rett sendromu</DOCTITLE>
+<TEXT>
+
+Rett sendromu, yaygın gelişimsel bozukluklardan birisi olarak sınıflandırılan beyinsel gelişim bozukluğudur. Ancak bunun yanlış bir sınıflandırma olduğunu ve benzer şekilde otistik belirtiler gösteren frajil X sendromu, tüberoz skleroz ya da Down sendromunun yaygın gelişimsel bozukluklar olarak sınıflandırılabileceğini önesüren görüşler bulunmaktadır. Bu sendromun belirtileri kolaylıkla otizm ve Angelman sendromunun belirtileriyle karışır. Klinik belirtiler arasında baş büyüme hızının azalması ve bazen mikrosefali, küçük el ve ayaklar bulunur. Stereotipik ve yineleyici el hareketleri de gözlenir. Bilişsel bozukluk ve gerileme döneminde de sosyalleşme sorunları da belirtiler arasında görülür. Okula girdikleri dönemde sosyalleşme genellikle düzelir. Rett sendromu olan kız çocuklar gastrointestinal bozukluklara yakalanmaya yatkındır ve %80’i nöbet geçirir. Hemen hemen hiç sözel becerileri yoktur ve kadınların %50’si yürüyemez. Skolyoz, büyüme eksikliği ve kabızlık çok yaygındır ve sorunlu olabilir.
+Nedeni.
+Rett sendromu X kromozumunda yer alan MECP2 (metil-CpG bağlayıcı protein 2) geninin ara sıra görülen mutasyonu nedeniyle oluşur. Hemen hemen her zaman kız çocuklarda görülür, bozukluk olan erkek fetüsler nadiren doğar. Doğduktan sonra altı ile on sekiz aylığa kadar gelişim genellikle normaldir, dil ve motor beceri gelişmesi geriler, amaçlı el kullanımı kaybolur ve bazen mikroensefaliye kadar giden baş büyüme hızında azalma görülür. El stereotipileri tipiktir ve hiperpne, nefes tutma ya da iç çekme gibi soluma düzensizlikleri çoğunda görülür. Başlangıçtan itibaren otistik benzeri davranışlar görülebilir. Rett sendromu genellikle çocuktaki bir mutasyon nedeniyle oluşur. İnfantil spazmlar ve erken epilepsi başlangıcı gibi özellikler taşıyan Rett sendromunun atipik bir türü, " sikline ba¤l› kinaz benzeri protein 5" (CDKL5) geninde bir mutasyon sonucu oluşur. Rett sendromu, her 12.500 kız çocuğundan birinde on iki yaşına gelene kadar görülür.
+Cinsiyet ve Rett sendromu.
+Rett sendromu olan bireylerin hemen hemen çoğu dişidir çünkü hastalığa neden olan gen X kromozumu üzerinde yer alır. X kromozunda MECP2 mutasyonu ile doğan bir kadının diğer X kromozumunda aynı genin normal bir kopyası bulunur. Hâlbuki X kromozumunda mutasyon olan bir erkeğin başka bir X kromozomu değil ama Y kromozumu olduğu için normal bir geni yoktur. Bu nedenle normal proteinler sağlayabilen bir geni olmaması ve MECP2 geni mutasyonu nedeniyle oluşan anormal proteinler nedeniyle XY karyotip erkek fetus hastalığı atlatıp gelişimini tamamlayıp doğamaz. Dişilerin ise en azından doğmalarına kadar yeterli protein sağlayan normal bir genleri vardır. Araştırmalar, Rett sendromu olan erkeklerin hemen hemen hepsinin XXY karyotipine sahip olduğunu yani Klinefelter sendromu da olduklarını göstermektedir. Dolayısyla Rett sendromundan etkilenen embriyonun yaşayabilmesi için, erkek ya da dişi, MECP2 gen mutasyonundan etkilenmemiş bir X kromozumuna ihtiyacı vardır.
+Ancak MECP2 mutasyonu olan 46,XY karyotipinde bazı erkeklere de rastlanmıştır. Bunlar doğduktan sonra yenidoğan ensefalopatisinden etkilenmiş ve iki yaşından önce ölmüştür. Rett sendromunun erkeklerde olan insidansı bilinmemektedir. Bunun nedeni kısmen MSCP2 mutasyonu ile bağlantılı Rett sendromu olan erkek fetuslerin düşük hayatta kalma oranı ve kısmen de MECP2 mutasyonlarının ve Rett sendromunun belirtileri arasındaki farklardır. 
+Gelişim ve belirtiler.
+Rett sendromu olan bebekler, görece normal görünüşleri ve bazı gelişimsel ilerlemeleri nedeniyle altı ile on sekiz aylığa kadar genellikle farkedilemeyebilirler. Ancak yakından bir inceleme, beyin sapı tarafından düzenlendiği düşünülen, normal anlık uzuv ve vücut hareketlerinde bozuklukları ortaya çıkarabilir. Kısa süren gelişimsel ilerleme döneminin ardından duraklama ve önceden edinilmiş becerilerde gerileme görülür. Gerileme döneminde otizme benzer durumlar görülür. Dolayısıyla Rett sendromu yerine yanlışlıkla otizm tanısı konabilir. 
+Rett sendromunun otizme benzer belirtileri şunlardır:
+Serebral palside de görülen Rett sendromu belirtileri:
+Bazı belirtiler, özellikle seçim yapma gibi bilişsel ve etkileşim on yıllarca dengeli olabilir. Anti-sosyal davranış çok sosyal davranışlara dönüşebilir. Katılık ve distoni ortaya çıkınca motor işlevler yavaşlayabilir. Değişik şiddette nöbetler sorun çıkarabilir. Çoğunda skolyoz oluşur ve yaklaşık %10’unda düzeltici cerrahi müdahale gerekir. Yürümeye devam edenlerde skolyoz ilerlemesi daha azdır.
+Tedavi.
+Her ne kadar fareler üzerinde yapılan gen terapisinde umut verici sonuçlar elde edildiyse de şu an için Rett sendromunun çaresi yoktur. 
+Rett sendromunun tedavisi aşağıdakileri içerir:
+Mortalite.
+Patojenik "MECP2" mutasyonu olan erkek çocuklar, Klinefelter sendromunda olduğu gibi fazladan bir X kromozomları yoksa ya da somatik mozaiklikleri yoksa, genellikle ciddi ensefalopati nedeniyle iki yaşına kadar yaşayamazlar. 
+Kadınlar 40 yaşın üstüne kadar yaşayabilirler. Rett sendromu üzerine yapılan laboratuar çalışmaları aşağıdaki anomalileri gösterebilir:
+Ölümlerin büyük bir oranı anidir ve çoğunun nedeni belirlenememiştir; bazı durumlarda aşağıdaki nedenlerden kaynaklanır:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Calico kedisi</DOCTITLE>
+<TEXT>
+
+Baskın bir beyaz rengin üstünde sarı ve siyah renkli noktacıkların veya desenlerin bulunduğu kediler Calico kedisi olarak adlandırılır. Bir kedi cinsini değil renk şablonunu tanımlamaktadır.
+ABD'de Calico kedisi olarakanılan bu tür, İngiltere'de ise "tortoiseshell ve beyaz" olarak adlandırılmıştır.
+Calico tipinde kediler çoğunlukla dişidir. Zira kedilerin renklerini belirleyen X kromozomlarıdır ve dişilerde X kromozomundan iki adet bulunmaktadır. Erkek kedilerde bir adet X ve Y kromozomu bulunmaktadır ve Y kromozomunda renk özelliği yoktur. Bunun istisnası XXY kromozomlarına sahip kedilerdir. Ancak bu kedilerin de neredeyse tamamı kısırdır.
+Başta Van kedisi ve Ankara kedisi olmak üzere 40'a yakın kedi ırkı mensupları, calico kedisi tipinde tüy renk ve desenlerine sahip olabilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aicardi sendromu</DOCTITLE>
+<TEXT>
+
+Aicardi sendromu, beyindeki ana bağlantı yolu olan corpus callosum'un kısmi ya da tam yokluğu (corpus callosum agenezisi), retina anomalileri, infantil spazm şeklinde nöbetlerle karakterize nadir görülen genetik doğumsal hastalıktır. X kromozomuna bağlı (X'e bağlı dominant) olarak geçer, sadece kızlarda görülür ya da Klinefelter sendromu olan erkeklerde (47 XXY) görülür.
+Tarih.
+Hastalık ilk olarak 1965 yılında Jean Aicardi isminde bir Fransız nörolog tarafından tariflenmiştir. Dr. Aicardi yayımladığı bir makaleyle hastalığı tarif etmiştir. Aicardi sendromu farklı bir hastalık olan Aicardi-Goutières sendromu ile karıştırılmamalıdır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mol hidatiform</DOCTITLE>
+<TEXT>
+
+Molar gebelik veya mol hidatiform, gebeliğin anormal bir formudur. Gestasyonel trofoblastik hastalıklar içinde en sık görülen formdur. Yumurtanın döllenmesindeki bazı hatalar sonucu rahim içinde cansız bir organizma oluşur ve böylece normal gebelik süreci devam ederken patolojik bir süreç başlar. Molar gebelik parsiyel ve komplet olarak iki kategoriye ayrılır.
+Komplet mol hidatiform.
+Gebelik ürününün genetik yapısı sadece baba kaynaklıdır ve diploid yapıdadır. Bu yapı iki şekilde oluşabilir;
+Parsiyel mol hidatiform.
+Gebelik ürününün genetik yapısı hem anne hem baba orjinlidir. Bunun sonucu triploid yapıdadır (en sık 69,XXY). Ebeveynlerden birinden 2n (triploid) sayıda kromozom gelirken diğerinden n (haploid) sayıda kromozom gelmektedir.
+Tanı.
+Tanı ultrason incelemesi ve hCG hormon yüksekliği ile konulur. Kesin tanı ise küretaj materyalinin histopatolojik incelenmesi ile konulur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sperm</DOCTITLE>
+<TEXT>
+
+Sperm ya da tam bilimsel adı ile spermatozoon (çoğulu: "spermatozoa"), erkek bireylere ait üreme hücresidir.
+Testislerde oluşan bu hücrelerin üretimi ergenlik döneminde başlar. Baş kısmında döllenme sırasında yumurtaya aktaracağı kalıtsal bilgi (DNA) taşır. Kuyruğu vardır ve hareketlidir. Bir çiftleşme sırasında yaklaşık 150-200 milyon sperm salınır. Ancak yumurtayı yalnızca tek bir sperm dölleyebilir. Bir sperm bir yumurta hücresine ulaştığında, yumurtaya girmek için kuyruğunu dışarıda bırakıp, yumurta zarından geçerek kalıtsal bilgileri yumurtaya ulaştırmış olur. Spermler yoğun kıvamda bir sıvının içinde bulunurlar. Bu sıvının ismi meni ya da ersuyu denir.
+Spermin başı bir hücre çekirdeği gibidir. İçinde kalıtsal bilgileri bulundurur. İçinde genetik şifre ve DNA vardır. Bunlar yumurtaya geçtiği zaman kromozomlar çoğalır ve buna göre cinsiyet belirlenir. Kromozomlar tek hâlde oluşup, çifte bölünürler ve bölündükleri zaman doğacak bireyin cinsiyeti belirlenir. Eğer kromozomlar XX şeklinde ise bireyin cinsiyeti dişi olur, eğer XY ise bireyin cinsiyeti erkek olur. Ancak bazı istisnalar da vardır. Mesela XXY, X0 vs. gibi hastalıklı bireyler de oluşabilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karyotip</DOCTITLE>
+<TEXT>
+
+Karyotip, bir hücredeki kromozomlar özdeş çift kromozomlar halinde eşlendikten sonra belli bir düzene göre sıralanması.
+Her bireyin kromozom sayısı, şekli ve büyüklüğü onun karyotipini ifade eder. Karyotipten faydalanılarak çeşitli türlerin kromozom haritaları çıkarılabilmektedir.
+Kromozomlarda kısa kol p, uzun kol q adını alır. Kromozomlar boylarına, sentromerlerin yerine göre birden yirmi ikiye kadar numaralanmış ve yedi gruba (A,B,C,D,E,F,G) ayrılmıştır. Cinsiyet kromozomları X,Y olarak ayrıca belirtilmiştir. X kromozomu 6. kromozoma benzer. Y ise 21 veya 22 kadar veya daha büyüktür.
+Karyotip, deri ve kan hücrelerinden, gebelik sırasında (prenatal tanı) bebeğe ait hücrelerden, tümör ve kemik iliği hücrelerinden özel metodlarla elde edilir ve özel boyalarla boyanır. Bu yöntemlerle bazı kromozom hastalıklarının teşhisi yapılır. 
+Normal karyotip erkekte 44 + XY , kadında 44 + XX’tir. Down sendromunda 21. kromozom çiftinde iki yerine üç kromozom mevcuttur. Günümüzde mongolizm terimi yerine "trizomi 21" terimi kullanılmaktadır. Turner sendromunda eşey kromozomu olarak yalnız bir X kromozomu bulunur. 44 + X0 olarak tanımlanır. Klinelfelter sendromunda ise cinsiyet kromozomlarında bir X fazladır. Karyotipi 44 + XXY’dir. Bu bahsedilen hastalıklar doğuştan olan ve vücudun çeşitli yerlerinde bozukluklarla seyreden durumlardır. Bazen de aynı kişide farklı hücrelerden farklı karyotipler elde edilir ki buna “mozaizm” denir.
+<br clear="all">
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ayrilmama Olayi  (EBA)</DOCTITLE>
+<TEXT>
+
+Daha önceki konularda mayozun anafaz I evresinde homolog kromozomların iğ ipliklerine tutunarak hücrenin karşı kutuplarına çekildiğini; benzer şekilde anafaz II evresinde kardeş kromatitlerin birbirinden ayrılarak hücrenin farklı kutuplarına gittiğini öğrenmiştik. 
+Normalde düzgün işleyen bu süreçte bazen aksaklıklar olur. 
+İki homolog kromozom ya da iki kardeş kromatit birbirinden ayrılmayarak hücrenin aynı kutbuna gidebilir. Bu duruma ayrılmama olayı adı verilir. 
+Sonuçta bir gamet, mayoz sonucunda iki homolog kromozomun ikisini de alırken, diğer gamet bu kromozomdan hiçbirisini almaz (Resim 2.26). 
+Gametlerdeki bu fazla ya da eksik kromozomlar, gonozomlar ya da otozomlar olabilir. 
+Eğer fazla kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa, oluşan zigotun kromozom sayısı normalden fazla; eğer eksik kromozoma sahip olan gamet, normal bir gamet ile döllenecek olursa oluşan zigot, normalden daha az sayıda kromozoma sahip olur. Böyle bir zigot gelişecek olursa, meydana gelen birey eksik sayıda ya da daha fazla sayıda kromozoma sahip olur (Resim 2.27).Ayrılmama olayı sonucunda fazla ya da eksik kromozoma sahip olan zigotların bazıları gelişimini tamamlayamaz. İnsanın 13., 18. ve 21. kromozom çiftlerinde ayrılmama olayı meydana gelecek olursa, fazladan kromozoma sahip olan zigot gelişimini sürdürerek yeni bir birey meydana gelebilmektedir. 
+Fazladan 13. kromozoma sahip olan bireylerde Patau (Patu) sendromu; fazladan 18. kromozoma sahip olan bireylerde Edwards (Edvırds) sendromu ve fazladan 21. kromozoma sahip bireylerde Down sendromu meydana gelir. Bu durumlardan en sık rastlananı Down sendromu (mongolizm) dir. Down sendromuna sahip bireyler 47 kromozomludur (Resim 2.28). Bu bireyler gözlerinin çekik olması ve yuvarlak yüz hatlarıyla Moğol ırkına benzerlik gösterir. Genellikle doğuştan gelen kalp bozukluklarına ve zeka geriliğine sahiptirler; dilleri büyüktür; hastalıklara karşı dirençleri azdır. 
+Down sendromlu erkek bireylerin hemen hemen hepsi ve dişilerin yarısı, eşeysel olarak gelişmemiş olup kısırdırlar. Bu bireyler, 30-35 yaşlarına kadar yaşayabilirler. Down sendromunun nedeninin tam olarak kesinlik kazanmamasına karşın annenin yaşı ya da aldığı hormon tedavisiyle ilgili olduğu düşünülmektedir. 
+Ayrılmama olayı eşey kromozomlarında da meydana gelebilir ve buna bağlı olarak anormallikler ortaya çıkar. Ayrılmama olayı nedeniyle bireyler ilave X ya da Y kromozomuna sahip olabilirler (Tablo 2.1). 
+Bazı bireylerde ise eşey kromozomlarından bir tanesi eksik olabilir (Resim 2.29). Gonozomlarda ilave kromozomların yarattığı durumların çoğu genetik dengeyi, otozomların yaptığından daha az bozar. Bunun nedeni, insandaki Y kromozomunun çok az sayıda gen taşıması ve vücut hücrelerindeki X kromozomlarının bir tanesi dışındaki kopyalarının zaten etkisiz kılınıyor olması olabilir. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eş Baskinlik (Kodominantlik)  (EBA)</DOCTITLE>
+<TEXT>
+
+Bir karakterin kalıtımından sorumlu iki alel gen arasında baskınlık ilişkisi bakımından gözlenen bir diğer durum, eşbaskınlıktır (kodominantlık). 
+Eş baskınlık durumunda iki alel bir arada bulunduğu zaman, her biri etkisini fenotipte gösterir. Eş baskın alelleri gösterirken büyük harf kullanılır ve büyük harfin olması bu alellerin heterozigot durumda da kendisini fenotipikte ifade ettiğine işaret eder. 
+Örnek: İnsanda MN kan grubu, kırmızı kan hücrelerin yüzeyine özgül moleküllerin bağlanmasını sağlayan M ve N alelleri sayesinde belirlenir. 
+MM genotipine sahip bireyler, M kan grubuna; NN genotipine sahip bireyler, N kan grubuna sahiptirler. MN genotipine sahip bireyler ise MN kan grubuna sahip olur (Resim 2.18). 
+Bu örnekte görüldüğü gibi, heterozigot bireylerde bulunan iki alel, homozigot bireylerde gösterdiği etkiyi heterozigot durumda da aynen göstermektedir. Bu iki alelin bir arada bulunması, fenotipini etkilememiştir. 
+
+</TEXT>
+</DOC>
+

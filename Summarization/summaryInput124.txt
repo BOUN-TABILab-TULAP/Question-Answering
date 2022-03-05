@@ -1,0 +1,352 @@
+Question: Güneş enerjisinin yeryüzündeki en temel enerji olmasının sebebi nedir?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güneş pili</DOCTITLE>
+<TEXT>
+
+Güneş hücresi () ışığı doğrudan elektrik akımına dönüştüren (fotovoltaik) bir araçtır. Yarı iletken bir diyot olarak çalışan güneş hücresi, güneş ışığının taşıdığı enerjiyi iç fotoelektrik reaksiyondan faydalanarak doğrudan elektrik enerjisine dönüştürür.
+Türkiye Cumhuriyetinde 5346 No.lu kanunun kabulunden sonra yenilenebilir enerjiler daha çok önem kazanmıştır. Belgeli yenilenebilir enerji üreticilere satış garantisi veren bu kanunun benzerleri, çeşitli Avrupa Birliği ülkelerinde de uygulanmaktadır.
+Güneş enerjisi kullanımının önemi her geçen yıl biraz daha artmaktadır. Yirminci yüzyılda, dünya nüfusu 4 kat artarken enerji talebi 16 kat artmıştır. Günümüzde 6,5 milyar insanın şu anki yaşam tarzını sürdürebilmesi için gerekli olan enerji miktarı, yaklaşık olarak 13 terawatt (TW) tır. Yapılan ileriye dönük projeksiyonlara göre 2050 yılına gelindiğinde, insanoğlunun enerji talebi günümüze nazaran 10 terawatt daha fazla olacaktır. Bu ise şu anlama gelir; eğer küresel ısınmaya sebep olmaksızın enerji elde edilmek istenirse, 2050'ye kadar her gün 1 gigawatt(GW)'lık nükleer enerji santrali kurmak gerekecektir. Dünya üzerindeki toplam rüzgar enerjisi potansiyeli 2-4 TW civarında, hidroelektrik enerji kaynağı 0,5TW, jeotermal enerji kaynağı 12TW, gelgit ve okyanus akıntılarından üretilebilecek enerji miktarı 2TW ve dünya üzerinde kullanılabilecek güneş enerjisi miktarı ise 120.000 TW dır.
+Bu veriler, güneş enerjisi kullanımının önemini somut bir şekilde ortaya koymaktadır.
+Günümüzde bu hususta, bilimsel olarak yapılan çalışmalar, inorganik ve organik bazlı olmak üzere ikiye ayrılmış durumdadır. Silikon içerikli olan güneş pilleri inorganik, organik menşeyli güneş pilleri ise organik güneş pilleri olarak adlandırılır. Organik güneş pilleri üzerinde çalışılıyor olmasının sebebi, maliyet olarak daha ucuz olmaları ve kolay uygulanabiliyor olmalarıdır. Bu son derece çekici iki özelliğe rağmen günümüzde organik güneş pillerinde, uygulama aşamasına geçilememiştir. bunun sebebi hava ile kolayca oksitleniyor olması ve güneş ışığını enerjiye dönüştürme yüzdesinin (~%11), silikon bazlı güneş pillerine kıyasla çok daha düşük olmasıdır.
+Çalışması.
+Güneş pili en basit anlamda eskiden beri kullandığımız hesap makinaları içerisinde bulunan ve güneşten enerjisini elektrik enerjisine çeviren pillerdir. Düşük ve yüksek voltajlı birçok uygulama için farklı güneş pilleri elektrik ihtiyacı bulunan her alanda kullanılabilme özelliğine sahiptir.
+Güneş ışığındaki fotonlar, elektronları yarı iletken metalik bir yonga plakasının bir katmanından bir diğer katmanına hareket ettiren enerjiyi sağlar. Elektronların bu hareketi bir akım yaratır.
+İki tür güneş hücresi kullanılmaktadır: silikon ve gallium arsenid. Uydular gallium arsenidi kullanırlarken silikonlar ise genellikle yerküredeki uygulamalarda kullanılmaktadır.
+Hücrenin üst tabakaları yansımayı önleyici kaplama ve korumalardan oluşur. Güneş hücreleri son derece kırılgan olduklarından böyle bir koruma çatlama ve kırılmaları önlemek açısından gereklidir. Aksi halde hücrenin çalışması sekteye uğrar ve bu da enerji kaybına sebep olur. Işık bu katmanlara nüfuz ettiğinde silikon veya gallium arsenid'e çarpar. P ve N tabakaları arasındaki bölümlerin farklılıkları sebebiyle güneşten gelen enerji bunlara çarptığında elektronların P tabakasından N tabakasına akışı sağlanmış olur. P ve N tabakaları arasına tel çekilmek suretiyle güneş hücresi artı ve eksi kutuplara sahip bir pil halini alır ve böylelikle bir araca güç sağlamak için kullanılabilir.
+Depolama özelliği gösteren araçlarda piyasada bulunabilen yerküre bazında kullanılan silikon piller kullanılır. Tek tek sayısız hücreler “Güneş Panelini” oluşturmak için bir araya getirilir. Kullanılan motora bağlı olarak bu paneller 12 ila 1000 volt arasında gerilimde ve sonsuz watta kadar güç sağlayabilirler. Güneş ışığının yoğunluğu, havanın bulutu olması ve hava sıcaklığı güneş panelinin ürettiği gücü etkiler.
+Diğer tip güneş arabalarında ise herhangi bir tip güneş hücresi kullanılabilir. Bu esneklik sebebiyle birçok güneş arabası takımı uzayda kullanılan gallium arsenid güneş hücrelerini kullanırlar. Bu piller geleneksel silikon pillere oranla genellikle daha ufak ve çok daha pahalıdırlar. Ancak bunlardan çok daha verimlidirler. Bu iki hücre arasındaki güç farkı 1000 watt a kadar çıkabilirken maliyet en az 10 kat daha fazladır.
+Güneş pilleri (fotovoltaik piller), yüzeylerine gelen güneş ışığını doğrudan elektrik enerjisine dönüştüren yarıiletken maddelerdir. Yüzeyleri kare, dikdörtgen, daire şeklinde biçimlendirilen güneş pillerinin alanları genellikle 60 cm2 ile 160 cm2 civarında, kalınlıkları ise 0,2-0,4 mm arasındadır...
+Güneş pilleri fotovoltaik ilkeye dayalı olarak çalışırlar, yani üzerlerine ışık düştüğü zaman uçlarında elektrik gerilimi oluşur. Pilin verdiği elektrik enerjisinin kaynağı, yüzeyine gelen güneş enerjisidir. (Güneş pillerinin yapısı ve çalışması)
+Güneş enerjisi, güneş pilinin yapısına bağlı olarak % 5 ile % 20 arasında bir verimle elektrik enerjisine çevrilebilir.
+Güç çıkışını artırmak amacıyla çok sayıda güneş pili birbirine paralel ya da seri bağlanarak bir yüzey üzerine monte edilir, bu yapıya güneş pili modülü ya da fotovoltaik modül (güneş paneli) adı verilir. Güç talebine bağlı olarak modüller birbirlerine seri ya da paralel bağlanarak birkaç Watt’tan megaWatt’lara kadar sistem oluşturulur.
+Güneş pillerinin yapısı.
+Günümüz elektronik ürünlerinde kullanılan transistörler, doğrultucu diyotlar gibi güneş pilleri de, yarı-iletken maddelerden yapılırlar. Yarı-iletken özellik gösteren birçok madde arasında güneş pili yapmak için en elverişli olanlar, silisyum, galyum arsenit, kadmiyum tellür gibi maddelerdir.
+Yarı-iletken maddelerin güneş pili olarak kullanılabilmeleri için n ya da p tipi katkılanmaları gereklidir. Katkılama, saf yarıiletken eriyik içerisine istenilen katkı maddelerinin kontrollü olarak eklenmesiyle yapılır. Elde edilen yarı-iletkenin n ya da p tipi olması katkı maddesine bağlıdır. En yaygın güneş pili maddesi olarak kullanılan silisyumdan n tipi silisyum elde etmek için silisyum eriyiğine periyodik cetvelin 5. grubundan bir element, örneğin fosfor eklenir. Silisyum’un dış yörüngesinde 4, fosforun dış yörüngesinde 5 elektron olduğu için, fosforun fazla olan tek elektronu kristal yapıya bir elektron verir. Bu nedenle V. grup elementlerine "verici" ya da "n tipi" katkı maddesi denir.
+P tipi silisyum elde etmek için ise, eriyiğe 3. gruptan bir element (alüminyum, indiyum, bor gibi) eklenir. Bu elementlerin son yörüngesinde 3 elektron olduğu için kristalde bir elektron eksikliği oluşur, bu elektron yokluğuna hol ya da boşluk denir ve pozitif yük taşıdığı varsayılır. Bu tür maddelere de "p tipi" ya da "alıcı" katkı maddeleri denir.
+P ya da n tipi ana malzemenin içerisine gerekli katkı maddelerinin katılması ile yarıiletken eklemler oluşturulur. N tipi yarıiletkende elektronlar, p tipi yarıiletkende holler çoğunluk taşıyıcısıdır. P ve n tipi yarıiletkenler biraraya gelmeden önce, her iki madde de elektriksel bakımdan nötrdür. Yani p tipinde negatif enerji seviyeleri ile hol sayıları eşit, n tipinde pozitif enerji seviyeleri ile elektron sayıları eşittir. PN eklem oluştuğunda, n tipindeki çoğunluk taşıyıcısı olan elektronlar, p tipine doğru akım oluştururlar. Bu olay her iki tarafta da yük dengesi oluşana kadar devam eder. PN tipi maddenin ara yüzeyinde, yani eklem bölgesinde, P bölgesi tarafında negatif, N bölgesi tarafında pozitif yük birikir. Bu eklem bölgesine "geçiş bölgesi" ya da "yükten arındırılmış bölge" denir. Bu bölgede oluşan elektrik alan "yapısal elektrik alan" olarak adlandırılır. Yarıiletken eklemin güneş pili olarak çalışması için eklem bölgesinde fotovoltaik dönüşümün sağlanması gerekir. Bu dönüşüm iki aşamada olur, ilk olarak, eklem bölgesine ışık düşürülerek elektron-hol çiftleri oluşturulur, ikinci olarak ise, bunlar bölgedeki elektrik alan yardımıyla birbirlerinden ayrılır.
+Yarıiletkenler, bir yasak enerji aralığı tarafından ayrılan iki enerji bandından oluşur. Bu bandlar valans bandı ve iletkenlik bandı adını alırlar. Bu yasak enerji aralığına eşit veya daha büyük enerjili bir foton, yarıiletken tarafından soğurulduğu zaman, enerjisini valans banddaki bir elektrona vererek, elektronun iletkenlik bandına çıkmasını sağlar. Böylece, elektron-hol çifti oluşur. Bu olay, pn eklem güneş pilinin ara yüzeyinde meydana gelmiş ise elektron-hol çiftleri buradaki elektrik alan tarafından birbirlerinden ayrılır. Bu şekilde güneş pili, elektronları n bölgesine, holleri de p bölgesine iten bir pompa gibi çalışır. Birbirlerinden ayrılan elektron-hol çiftleri, güneş pilinin uçlarında yararlı bir güç çıkışı oluştururlar. Bu süreç yeniden bir fotonun pil yüzeyine çarpmasıyla aynı şekilde devam eder. Yarıiletkenin iç kısımlarında da, gelen fotonlar tarafından elektron-hol çiftleri oluşturulmaktadır. Fakat gerekli elektrik alan olmadığı için tekrar birleşerek kaybolmaktadırlar.
+Güneş pilleri pek çok farklı maddeden yararlanarak üretilebilir. Günümüzde en çok kullanılan maddeler şunlardır:
+Kristal Silisyum: Önce büyütülüp daha sonra 200 mikron kalınlıkta ince tabakalar halinde dilimlenen Tekkristal Silisyum bloklardan üretilen güneş pillerinde laboratuvar şartlarında %24, ticari modüllerde ise %15’in üzerinde verim elde edilmektedir. Dökme silisyum bloklardan dilimlenerek elde edilen Çokkristal Silisyum güneş pilleri ise daha ucuza üretilmekte, ancak verim de daha düşük olmaktadır. Verim, laboratuvar şartlarında %18, ticari modüllerde ise %14 civarındadır.
+Galyum Arsenit (GaAs): Bu malzemeyle laboratuvar şartlarında %25 ve %28 (optik yoğunlaştırıcılı) verim elde edilmektedir. Diğer yarıiletkenlerle birlikte oluşturulan çok eklemli GaAs pillerde %30 verim elde edilmiştir. GaAs güneş pilleri uzay uygulamalarında ve optik yoğunlaştırıcılı sistemlerde kullanılmaktadır.
+İnce film.
+Amorf silisyum: Kristal yapı özelliği göstermeyen bu Si pillerden elde edilen verim %10 dolayında, ticari modüllerde ise %5-7 mertebesindedir. Günümüzde daha çok küçük elektronik cihazların güç kaynağı olarak kullanılan amorf silisyum güneş pilinin bir başka önemli uygulama sahasının, binalara entegre yarısaydam cam yüzeyler olarak, bina dış koruyucusu ve enerji üreteci olarak kullanılabileceği tahmin edilmektedir.
+Kadmiyum Tellürid (CdTe): Çok kristal yapıda bir malzeme olan CdTe ile güneş pili maliyetinin çok aşağılara çekileceği tahmin edilmektedir. Laboratuvar tipi küçük hücrelerde %16, ticari tip modüllerde ise %7 civarında verim elde edilmektedir.
+Bakır İndiyum Diselenid (CuInSe2): Bu çokkristal pilde laboratuvar şartlarında %17,7 ve enerji üretimi amaçlı geliştirilmiş olan prototip bir modülde ise %10,2 verim elde edilmiştir.
+Optik Yoğunlaştırıcılı Hücreler: Gelen ışığı 10-500 kat oranlarda yoğunlaştıran mercekli veya yansıtıcılı araçlarla modül verimi %17’nin, pil verimi ise %30’un üzerine çıkılabilmektedir. Yoğunlaştırıcılar basit ve ucuz plastik malzemeden elde edilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Carnot çevrimi</DOCTITLE>
+<TEXT>
+
+Carnot çevrimi, Sadi Carnot tarafından 1820’lerde ortaya konmuş özel bir termodinamik çevrimdir ve Emile Clapeyron tarafından 1830 ve 1840’lı yıllarda geliştirilmiştir. 
+Her termodinamik sistem özel bir durum içinde varolmuştur. Sistem, farklı durumları sırası ile takip ediyor ve en sonunda önceki haline geri dönüyorsa termodinamik bir çevrim oluşur. Bu çevrim boyunca işlem içinde, sistem çevresine iş yapabilir, bu yolla bir ısı makinesi olarak rol oynayabilir.
+Bir ısı makinesi enerjinin sıcak bölgeden, soğuk bölgeye aktarılmasını sağlar, bu işlem içinde enerjinin bir kısmı mekanik işe dönüşür. Çevrim tersinirdir (yani tersine de gerçekleşebilir). Sistem bir dış kuvvet ile çalışabilir ve işlem içinde soğuk sistemden, sıcak sisteme ısı aktarılabilir, bu şekilde bir ısı makinesinden çok bir soğutucu olarak çalışır. 
+Carnot çevrimi, termodinamik çevrimin özel bir tipidir. Özeldir çünkü, verilen ısı enerjisinin işe çevrilme miktarı ya da tersi için (verilen işin soğutma amaçları için kullanımı) mümkün olan en verimli çevrimdir.
+Carnot çevrimi ısı makinesi olarak şu adımları takip eder :
+Carnot çevriminin mümkün olan en verimli çevrim olmasının sebebi, tamamen tersinir adımlardan oluşmasıdır. Adımların hiçbirinde, aralarında sıcaklık farkı bulunan iki sistem arasında ısı alış-verişi gerçekleşmez. Dolayısıyla, her adımdaki ve toplamdaki entropi değişimi sıfırdır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Evren</DOCTITLE>
+<TEXT>
+
+Evren ya da kâinat, uzay ve uzayda bulunan tüm madde ve enerji biçimlerini içeren bütünün adıdır. Pozitif bilimler açısından evren, gök cisimlerini barındıran uzay ve uzayda yer alan her şeyin toplamıdır. Dolayısıyla modern fizik açısından evren, sonsuz boşluk ve bu boşlukta yer alıp da var olduğunu bildiğimiz bütün atomik âlemlerdir.
+Enerji dalga veya partikülleri homojen ve dengeli olarak çözüldüğünde 'varoluş' ile 'antivaroluş' olamayacağı ya da toplam karşıtları 'yok oluşta' ise bir patlama olamayacağından, evren soğuyor mu, ısınıyor mu, evrenin durması sonu mudur, Büyük patlama evrenin merkezi mi, başlangıcı mıdır, başka galaksiler ve hayatlar var mıdır, güneş evrenin merkezinde midir gibi problemler hareket veya başka deyişle zamanın populer sorularını teşkil etmiştir.
+Evrenin oluşumuna dair günümüzde en çok benimsenen teori, Bigbang (Büyük Patlama) teorisidir. Bu teoriye göre evren, sıfır hacimli ve çok yüksek bir enerji potansiyeline sahip, sıkışmış bir noktanın patlamasıyla oluştu. İlk patlamanın nasıl oluştuğu, evren meydana gelmeden önce evrenin yerinde ne olduğu ya da evrenin neyin içinde genişlediği sorularına günümüzde bile tam olarak bilimsel bir cevap bulunamamıştır, bununla birlikte evrenöncesi durum, evrendışı varoluş hakkında hipotezler öne sürülmüştür. Büyük Patlama sonucunda altı yöne dağılan gaz molekülleri uzun bir dönem boyunca birbirlerinden bağımsız hareket ettiler. Sürekli genişleyen evrenin her yerinde geçerli olan fizik kurallarından kütleçekimi kanunu vasıtasıyla bağımsız gazlar birleşerek galaksileri (gök adaları) oluşturdular. 
+Aynı evrensel fizik kanunu neticesinde gökadalar da birbirlerine yaklaşarak devasa gruplar oluşturdu. Galaksiler içinde yıldızlar ve bazı yıldızların çevresinde sistemler oluştu. İçinde yaşadığımız Güneş Sistemi bunlardan birisidir. Keşfedebildiğimiz evrende 400 milyardan fazla galaksi ve 10*1088 yıldız olduğu tahmin edilmektedir.
+Evren'in yaşı.
+Evren'in yaşı, Büyük Patlama'dan günümüze dek geçen zamandır. Şu anki teori ve gözlemler, Evren'in yaşının 13,5 ile 14 milyar arası olduğunu önermektedir. Bu yaş aralığı birçok bilimsel araştırma projesinin görüş birliğiyle elde edilmiştir. Bu projeler arasında arkaplan ışınımı ölçümlerini ve Evren'in genişlemesinin ölçümü için kullanılan diğer pek çok farklı yöntemi de içerir. Arka plan ışınımı ölçümleri Evren'in Büyük Patlama'dan bu yana olan soğuma süresini verir.
+Evrenin Genişlemesi Kuramı.
+Kutupsal basınçlar sonucu yoğunlaşmış anti madde ile evren halen genişlemektedir. Gök cisimleri, evrenin genişlemesinde, birbirlerine olan uzaklıkları bakımından iki farklı davranış gösterirler. Şayet birden fazla gök cismi birbirlerinin kütleçekimine kapılırlarsa ya da hepsi birden ortak bir kütleçekiminin kuantumuna kapılırlarsa, bu durumda aralarındaki mesafe birbirleriyle yahut da ortak çekimi altına girdikleri kütleyle birleşene kadar her an azalır. Birinci durumun etkili olmadığı diğer bütün durumlarda gök cisimleri birbirinden sürekli uzaklaşırlar. İki gök cismi arası uzaklık daha önce x ışık yılı ise şu anda x+y ışık yılıdır (y>0). 
+Kozmik fon radyasyonu 
+Mantıken evren çok yoğun ve sıcak büyük patlama neticesinde genişlerken gökadalar birbirinden homojen hızlarda genişlemeliydi. Uzaktaki yıldız gökadaların daha büyük hızlarla birbirinden uzaklaşması homojen genişlemeyi de doğrular.
+[[Dosya:CMB Timeline75.jpg|thumb|400px|
+Evrenin orijini ve genişleyen iç /dış bükey ışık zamanı modeli. Dipteki patlama içerisindeki her şey ile yıldız adacıkları.]] 
+O zaman Özel görelik kuramına göre ışık hızı aşılamayacağına göre en uzaktakiler ışık hızından küçük sonlu bir hızla uzaklaşmalıydı. En uzaktaki gökadadan gelen ışık hem en hızlı uzaklaşan hem de en uzak geçmişten gelen ışıktır. En uzak geçmiş ise evrenin oluştuğu zamanlardan gelen ışıktır.
+Evren ilk oluştuğunda ışıma serbestçe yayılma fırsatı bulduğunda yani ilk madde öncesi yapıtaşlarının boşluklarından sızabildiği kadarıyla gözlemlenebilmektedir. Uzayda her doğrultuda homojen bir ışıma olmadığı gözlemlenmiştir. Fon ışımasının haritası gözenekli bir yapı sergiler.
+Isı ve Hareket Yasası.
+Evrende tüm madde yapıtaşları atom, iyon, anyon, katyon yoğunlaşmış düzensiz ısı enerjileridir. Tüm maddeler enerjinin bir formudur ve Termodinamik kanunlarına göre işlemektedir. Termodinamiğin üç temel kanunu vardır. 
+Termodinamiğin en basit yasası; Sıfırıncı kanun olarak adlandırılır. Daha basit bir ifadeyle farklı sıcaklıklarda iki cisim ısıl bakımdan temas ederse sıcak olan cisim soğur, soğuk olan cisim ısınır. Sıcaklık, madde içinde atomların titreşmesi ile iletilir. Bu nedenledir ki, ısı akışı sıcak cisimden soğuk cisime doğru gerçekleşir. 
+Birinci Kanunu, evrende temel olarak enerjinin yok edilemeyeceğini veya yoktan var olamayacağını söyler. Enerji sadece bir şekilden diğerine dönüşür. Bunun sonucu olarak geçmişteki bir olgunun gelecekte bire bir tekrarlanmayacağı düşünülür. 
+Termodinamik'in bilim dallarına da uygulanabilen İkinci Yasasına göre, ısı enerjisi daha soğuk bir kaynaktan, daha sıcak bir kaynağa enerji vermeden transfer olamaz. Başka bir deyişle, bir sistem kendinden daha soğuk sistemle ısıtılamaz. Sistemlerin bu özelliği Termodinamikçilerin geliştirdiği "entropi" kavramıyla açıklanır. 
+Isı Devinimi olarak da bilinen Termodinamiğin üçüncü Yasası kısaca: “Eğer mutlak sıfır noktası olan sıfır Kelvin derecesine (yani -273 Santigrat) ye inilirse, bu sıcaklığa inebilen tüm parçacıkların biririne eşit entropileri olur, 0-noktasi enerjisi (zero-point energy) olarak tanımlanır. İşte bu nokta entopinin minimuma gittiği sıfır entropi noktasidir. Bu yasa neden bir maddeyi mutlak sıfıra kadar soğutmanın imkânsız olduğunu belirtir (dinamik bir evrende ısı titreşim alışverişi düzensizliği ve pi sabiti.) Sıcaklık mutlak sıfıra yaklaştıkça bütün hareketler sabitleşir. Sayının sıfır değil de bir sabit olmasının sebebi, bütün hareketler durmasına ve buna bağlı olan belirsizliklerin yok olmasına rağmen kristal olmayan maddelerin moleküler dizilimlerinin farklı olmasından belirsizliğin hala mevcut olmasıdır. Üçüncü yasa sayesinde maddelerin mutlak sıfırdaki entropileri referans alınmak üzere kimyasal tepkimelerin incelenmesinde yararlı olan mutlak entropi tanımlanabilir.
+Moleküler Enerjiler
+Maddelerin ısınması veya soğuması bir takım zincirleme fiziksel olaydan meydana gelmektedir. Bu olaylar birbirini takip eden zincirleme kazalara benzer. Maddeler soğurken kendinden daha soğuk bir ortamla etkileşime girer. Maddeler ısınırken ise kendinden daha sıcak bir ortamla etkileşime girer. Biz soğumayı ele alalım. Bir maddenin soğuması için kendinden daha soğuk ortamla etkileşir dedik. Bu etkileşim esnasında olan şeyler şunlardan ibarettir:
+Maddenin tanecikli yapısı , yani moleküler yapıları veya atomik yapıları, soğuk maddeyle çarpışır. Bu çarpışma esnasında daha sıcak olan ve bundan dolayı daha hareketli ve moleküler yapısı daha serbest olan madde, moleküler yapısı daha soğuk olan yani moleküler yapısı daha az serbest olan atoma çarpar ve soğuk maddenin atomunun durgunluğu nedeniyle yavaşlar. Tıpkı koşarken duran bir cisme çarpmak gibi. Diğer soğuk atomu da hızlandırır. Bu olay tüm atomların enerjileri eşitlenene kadar devam eder. Isınma da bu anlatılan olayın tam tersi olur. Isınma da bu sefer soğuk maddeyi sıcak maddenin taneciklerinin hızından dolayı hızlanması yani ısınmasıdır. Sıcak olan ortamın da yavaşlaması yani soğumasıdır. İki anlatılan olay da birbirinin aynısıdır. Bu yüzden donma ve kaynama noktaları birbirine eşittir. Bu yüzden buharlaşma ve yoğuşma noktaları birbirine eşittir.
+Özel görelilik kuramı ve uzay-zaman.
+Evrenin alan ve bir geçici (zaman) ​​olmak üzere en az üç boyutu vardır. Uzun süre mekansal ve zamansal boyutların doğada farklı ve birbirinden bağımsız olduğu düşünülmüştür, ancak özel görelilik kuramı ile , mekansal ve zamansal ayrımların herbir tanesinin hareketi ile (sınırlar içinde) karşılıklı çevrim'ler (interkonvertible) oluştuğu anlaşılmıştır.
+Evren modelleri / Görüşlerin gelişimi.
+Yer merkezli Evren; Eskiçağlarda birkaçı dışında bütün astronom ve düşünürler Dünya'nın evrenin merkezi olduğuna, Güneş, Ay ve yıldızların Dünya'nın çevresinde döndüğüne inanırlardı. Bu evren modeline göre, yıldızlar kristal bir kürenin iç yüzüne çakılmış gibi durağandı. Buna karşılık Güneş, Ay ve beş "gezegen yıldız" (Merkür, Venüs, Mars, Jüpiter, Satürn) bu durağan yıldızların önünde hareket halindeydi. Bütün gökcisimleri, sanki bir makineyle çalıştırılıyormuşçasına, değişmez bir düzen içinde Dünya'nın çevresinde dolanırdı. Eski astronomlar gezegenlerin bu teorik hareketini, Güneş'in ve yıldızların dünya etrafındaki günlük dolanımını açıklayabilmek için karmaşık evren modelleri geliştirdiler. 
+Bu eski astronomlar içinde etkisi en uzun süreli olan İskenderiyeli Batlamyus'tur (Klaudios Ptolemaios). M.S. 2. yüzyılda yaşayan bu ünlü bilgin, bugün Almagest adıyla bilinen büyük yapıtında gök cisimlerinin karmaşık hareketini açıklayan evren kuramını ortaya attı ve Dünya'yı evrenin merkezi olarak kabul eden bu kuram yaklaşık 14 asır boyunca Ortaçağ Avrupası'nda tartışmasız benimsendi. 
+Güneş merkezli Evren; Uzayın uçsuz bucaksız ve karanlık boşluğunda; Güneş'e benzer yıldızlardan oluşmuş bir gökadanın ortasında yüzen günmerkezli Güneş Sistemi düşüncesinin yerleşmeye başlaması ancak 16., 17. ve 18. yüzyıllara rastlar. Mikolaj Kopernik, Galileo Galilei ve Johannes Kepler gibi büyük bilginler, Dünya'nın ve öbür gezegenlerin Güneş'in çevresindeki yörüngelerde dolandığını kanıtladılar. Isaac Newton, bu gezegenleri Güneş'in çevresindeki yörüngelerinde tutan evrensel çekim ( kütleçekim ) kuvvetinin varlığını açıkladı. 
+Samanyolu ve Galaksiler evreni;18. yüzyılın sonlarında William Herschel ve onu izleyenler de bütün Güneş Sistemi'ni içeren Samanyolu Gökadası'nı incelediler; bulutsu (nebula) adı verilen soluk ışıklı gaz ve toz bulutlarını araştırarak bunlardan çoğunun gerçekte Samanyolu'nun ötesindeki başka gökadalar olduğunu saptadılar. 
+19. yüzyılın ortalarına doğru astronomları; insanın dış gücünün çok ötesinde, tasarlanamayacak kadar engin bir evren düşüncesine götüren önemli gelişmeler oldu. Evrenin sınırsız boyutlarının ilk somut göstergesi, büyük Alman astronomi bilgin Friedrich Wilhelm Bessel'in ( 1784 - 1846 ) o güne kadar denenmemiş bir yönteme başvurarak 1838'de yaptığı bir uzaklık ölçümüdür. Bessel, ilk kez ıraklık açısından yararlanarak, Güneş ile yakınındaki Kuğu 61 yıldızı arasındaki uzaklığı kesin değerleriyle ölçtü ve inanılması güç bir sonuç buldu. Bu ölçüme göre Kuğu 61 ile Güneş arasındaki mesafe 97 trilyon kilometreden daha fazlaydı (tam olarak 97.432.493.000.000 km). Yakın bir yıldızın bile böylesine şaşırtıcı bir uzaklıkta olması, uzayda yapılacak ölçümlerde kilometre ve mil gibi geleneksel ölçü birimlerini kullanmanın ne kadar anlamsız olduğunu açıkça ortaya koymuştu. Bunun üzerine astronomlar, çok hızlı bir maddenin bu uzaklığı ne kadar zamanda alacağını belirtmenin çok daha kolay ve anlamlı bir ölçü birimi olacağına karar verdiler. Saniyede yaklaşık 300.000 km hızla hareket eden bir ışık ışını bir yılda yaklaşık 9.6 trilyon kilometre yol alır. Işık yılı, bugün astronominin temel uzunluk ölçüsü birimidir. Bu ölçü birimine göre Kuğu 61, Güneş'ten 10,3 ışık yılı uzaklıktadır. (Günümüzde yapılan daha duyarlı ölçümler bu uzaklığın 11,2 ışık yılı olduğunu ortaya koymuştur.) Güneş'e en yakın yıldız ise yanlızca 4,3 ışık yılı uzaklıktaki "Proxima Centauri'dir (Erboğa takımyıldızından bir yıldız).
+Çoklu evren; Günümüzde tek bir evren görüşü değişime uğramakta, paralel evrenler, çoklu evrenler (köpük modeli) gibi modeller üzerinde durulmakta ve buna ait yeni kanıtlar ortaya konmaktadır.
+Evren'in sonu.
+1. Açılıp kapanan Büyük Çöküş evren teorisine göre evrenin itme gücü bitince çekme gücü başlayacak ve böylece büzüşecek, gök cisimleri çarpışarak kaynaşacak ve büyük bir patlamayla evren tekrar genişlemeye başlayacaktır. Gold Evreni olarak bilinen bu modelde, evren Büyük Patlama ile başlar sonra yükselen entropi ve zamanın termodinamik oku genişlemeyi işaret eder, Evren, çok düşük yoğunluğa ulaşınca çekilmeye başlar. Böylelikle entropi çok fazla alçalır ve zamanın termodinamik oku bu kez ters istikameti işaret eder ve evren çok düşük entropi çok yüksek yoğunlukta Büyük Çöküş ile sona erer. 
+Büyük Patlama’nın daha önceki Büyük Çöküş’lerden meydana geldiği ihtimâlini ortadan kaldırmamasına rağmen, Özellikle evrenin genişlemesinin hızlandığı tespiti ile bilimsel çevrelerde en çok kabul edilen 'Heat Death' adı verilen, evrenin en sonunda ısı ölümü ile tamamen son bulabilmesi görüşü olmuştur. 
+2. Evrenin ısısal ölümü ve Büyük donma teorilerine göre ise sıcak patlama ve kaotik bir karmaşa ile var olan evren zaten soğumaya çalışmaktadır. Evren genişlemeye devam edecek yeteri kadar büyüyünce yoğunluğu aşırı azalacak ve sıcaklığı kararı kadar düşecek, bunun sonunda kutupsal graviteler eşdeğer düzeye inecek ve evren donacaktır. 
+Big Bang'den itibaren 5 milyar yıl geçene kadar evrenin genişleme hızı yavaş yavaş azalıyordu, fakat genişlemeyi sürükleyen karanlık enerjinin varlığı evrenin toplam kütlesini yenerek gittikçe hızlanmaya başladı.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ununoktiyum</DOCTITLE>
+<TEXT>
+
+Ununoktiyum (Uuo), eka-radon veya 118. element olarak da bilinen 118 atom numaralı transaktinit elementtir. Ununoktiyum ve Uuo, IUPAC tarafından bu element için verilmiş geçici isim ve sembollerdir. Ununoktiyum "bir-bir-sekiz-yum"un "Dog Latin" ifadesidir. Periyodik tabloda p bloğunda yer alır ve 7. periyodun son elementidir. Ununoktiyum 18. gruptaki tek sentetik elementtir. Keşfedilen elementler içinde en büyük atom numarasına ve atom kütlesine sahip olanıdır.
+Radyoaktif ununoktiyum son derece kararsızdır ve 2002'den beri 294Uuo izotopunun yalnızca üç (belki dört) atomu algılanabilmiştir. Bu durum, elementin özelliklerinin ve olası bileşiklerinin deneysel olarak belirlenmesine çok az izin verse de, kuramsal hesaplamalar, bazıları beklenmedik olmak üzere birçok öngörüye izin vermektedir. Örneğin 18. grup elementi olmasına rağmen, diğer 18. grup elementlerinin tamamı soy gaz iken, ununoktiyum olasılıkla bir soy gaz değil. Önceleri elementin gaz olduğu düşünülüyordu ancak şimdi, rölativistik etkilerden dolayı normal şartlar altında bir katı olduğu tahmin edilmektedir.
+Tarihi.
+Başarısız denemeler.
+1998'in sonunda Polonyalı fizikçi Robert Smolańczuk, 118. elementin de dahil olduğu süperağır atomların sentezi doğrultusunda atomik çekirdeğin füzyonuna ilişkin hesaplamlar yayımladı. Smolańczuk'un hesaplamaları 118. elementin, dikkatlice kontrol edilen şartlar altında kurşunun kripton ile füzyonuyla elde edilebileceğini ortaya attı.
+1999'da Lawrence Berkeley Ulusal Laboratuvarı'nda araştırmacılar bu öngörüleri kullandılar ve "Physical Review Letters"ta ve hemen ardından "Science"ta yayımlanan makalelerle, 116. ve 118. elementlerin keşfini duyurdular. Araştırmacıların iddiasına göre gerçekleştirilen reaksiyon;
+Ertesi yıl diğer laboratuvarlardaki araştırmacılar sonuçları tekrarlayamayınca ve Berkeley laboratuvarı da kendisini tekrarlayamayınca bir tekzip yayımladılar. "Science" dergisi de makaleyi geri çekip okurlarından özür diledi. Haziran 2002'de laboratuvarın direktörü bu iki elementin keşfi iddiasının baş yazar Victor Ninov'un uydurma verilerinden türediğini duyurdu.
+Keşif.
+Ununoktiyum atomlarının ilk bozunumu 2002'de Dubna, Rusya'daki Ortak Nükleer Araştırma Enstitüsü'nde (Joint Institute for Nuclear Research-JINR) gözlendi. 9 Ekim 2006'da Dubna'da, JINR ve Kaliforniya, ABD'deki Lawrence Livermore Ulusal Laboratuvarı'ndaki bilim insanları, kaliforniyum-249 atomları ve kalsiyum-48 iyonlarının çarpıştırılması ile üretilen toplam üç (ya da dört) ununoktiyum-294 atomunu (bir veya iki tane 2002'de ve iki tane daha 2005'te) doğrudan olmayan yöntemle algıladıklarını duyurdular. 
+Çok düşük füzyon reaksiyonu olasılığından dolayı (füzyon reaksiyonu tesir kesiti ~0.3–0.6 pb = (3–6)×10−41 m2'dir) deney dört ay sürdü ve ununoktiyum sentezi olduğuna inanılan ilk kaydedilmiş olayı gerçekleştirmek için kaliforniyum hedefe çarpıştırılacak 4×1019 kalsiyum iyonu içeriyordu. Buna rağmen araştırmacılar sonucun bir yalancı pozitif olmadığından emindi, çünkü tespitlerin rasgele olaylar olma şansı yaklaşık 100,000'de birdi.
+Deneylerde ununoktiyum atomlarından üçünün alfa bozunması gözlendi. Doğrudan kendiliğinden fisyon ile meydana gelen dördüncü bir bozunma ayrıca ortaya atıldı. 0.89 ms'lik bir yarı ömür hesaplandı. 294Uuo alfa bozunması ile 290Uuh'ye dönüşür. Sadece üç çekirdek olduğundan yarı ömür, büyük bir kesinsizlikle (0.89 ms) gözlenen yaşam sürelerinden türetildi.
+294Uuo çekirdeklerinin tanılanması, 245Cm'nin 48Ca iyonları ile bombardıman edilmesiyle ayrı ayrı yaratılan, varsayılan kız çekirdek 290Uuh ile ve 290Uuh bozunumunun 294Uuo çekirdeklerinin bozunum zinciri ile uygunluk gösterdiğinin kontrolüyle doğrulandı.
+Kız çekirdek 290Uuh çok kararsızdır ve 14 milisaniyelik yarı ömrü ile 286Uuq'ye bozunur. Sonrasında kendiliğinden fisyona uğrayabilir veya alfa bozunması ile kendiliğinden fisyona uğrayacak olan 282Uub'ye bozunabilir.
+Kuantum tünelleme modelinde, 2004'te yayınlanan deneysel Q değeri ile 294Uuo'nun alfa bozunması yarı ömrü 0.66 ms olarak tahmin edildi. Makroskobik-mikroskobik Muntian–Hofman–Patyk–Sobiczewski modelindeki kuramsal Q değeri ile yapılan hesaplamalar, bir miktar daha düşük olmakla birlikte karşılaştırılabilir sonuçlar vermektedir.
+Ununoktiyumun başarılı bir şekilde elde edilmesinin ardından kaşifler, 58Fe ve 244Pu'den unbinilyumu elde edebilmek umuduyla benzer deneyler yapmaya başladılar. Unbinilyum izotoplarının alfa bozunması yarı ömürlerinin mikro saniyeler mertebesinde olduğu tahmin edilmektedir.
+Adlandırma.
+1960'lara kadar ununoktiyum "eka-emanation" (emanation radonun eski adıdır) olarak biliniyordu. 1979'da IUPAC "ununoktiyum" olarak anılacak element için öneriler yayımladı. "Ununoktiyum" ("bir-bir-sekiz-yum"), elementin keşfi onaylanıncaya ve IUPAC isimde karar verinceye kadar, yer tutucu olan bir sistematik element adıdır. 118. elementin keşfi uzun süredir geniş çapta kabul görse de IUPC henüz onaylamadığı için "ununoktiyum" ismi halen kullanımdadır. Ayrıca keşfin arkasında bulunan iki ekip (Ruslar-ABD'liler) arasında da, adlandırma konusunda bir konsensus yoktur.
+2002'deki geri çekilmeden önce Berkeley'deki araştırmacılar elementi, araştırma ekibinin lideri olan ve daha önceki 95 ve 106 atom numaraları arasındaki on iki elementin de keşfinde yer alan Albert Ghiorso'ya ithafen "ghiorsium" ("Gh") olarak isimlendirmeyi planlamışlardı.
+Rus kaşifler sentezlerini 2006'da rapor ettiler. Keşfin arkasında bulunan JINR'deki Flerov Nükleer Tepkimeler Laboratuvarı (FNTL) çalışanlarının ilk isim önerileri "Dubnadyum" (Dn) oldu. Ancak bu terim ekibin daha önce keşfedip adlandırdıkları Dubniyum (Db) elementi ile büyük benzerlik gösteriyordu. 2007'de Rus enstitüsünün başkanı, bir Rus dergisine verdiği röportajda ekibin iki isim üzerinde karar vermeye çalıştığını duyurdu: Dubna'daki araştırma laboratuvarının kurucusu Georgy Flyorov'un onuruna "flyorium"; ve Dubna'nın bulunduğu Moskovskaya Oblastı'ndan dolayı "moskovyum". Başkan ayrıca, elementin kaliforniyum hedefleri sağlayan Amerikalılarla işbirliği içinde keşfedilmiş olmasına karşın elementin Rusya'nın onuruna isimlendirilmesi gerektiğini çünkü JINR'deki Flerov Nükleer Tepkimeler Laboratuvarı'nın dünyada bu işin başarılabileceği tek tesis olduğunu belirtti. Ancak daha sonra bu isimler 114. element ("flerovyum") ve 116. element ("moskovyum") için önerildi.
+118. elementin adı halen resmi olarak ununoktiyumdur. Ancak bazı Rus kökenli yazılarda element anılırken "moskovyum" (Kiril: московий) adı ve "Mk" simgesi kullanılmaktadır. Genel olarak bilimsel yazılarda element için herhangi bir sistematik ad yerine atom numarası kullanımı tercih edilir. Ununoktiyum 118. element olarak anılırken, elementin izotopu olan ununoktiyum-294 de 294118 şeklinde gösterilir.
+Özellikleri.
+Çekirdek kararlılığı ve izotopları.
+Atom numarası 83'ün üzerinde (bizmuttan sonra) olan hiçbir elementin kararlı izotopu yoktur. Atom numarasının artmasıyla çekirdek kararlılığı azalır, öyle ki atom numarası 101'in üzerinde olan elementler bir günün altındaki yarı ömürleri ile radyoaktif bozunuma uğrarlar. Buna rağmen henüz tam olarak anlaşılamayan sebeplerden dolayı 110 ve 114. elementler arasında çekirdek kararlılığı bir miktar artar. Bu durum çekirdek fiziğinde "kararlılık adası" olarak bilinen görünümün ortaya çıkmasına sebep olur. Süperağır elementlerin, öngörülenden daha uzun ömürlü olmasını açıklayan bu kavram UC Berkeley profesörü Glenn Seaborg tarafından ortaya atıldı. Ununoktiyum radyoaktiftir ve yarı ömrü 1 milisaniyeden daha azdır. Yine de bu bazı öngörülen değerlerden yüksektir.. Bu da kararlılık adası için bir başka destek anlamına gelir.
+Kuantum tünelleme modeli kullanılarak yapılan hesaplamalar 118. elementin, alfa bozunumu yarı ömürleri 1 ms'ye yakın olan birkaç nötron zengini izotopunun var olduğunu öngermektedir.
+Diğer izotopların yarı ömürleri ve sentetik yolları üzerinde yapılan hesaplamalar bazılarının sentezlenmiş izotop 294Uuo'dan az bir miktar daha kararlı olduğunu gösterdi (bunlar büyük ihtimalle 293Uuo, 295Uuo, 296Uuo, 297Uuo, 298Uuo, 300Uuo ve 302Uuo'dur). Bunlar içerisinde 297Uuo daha uzun ömürlü çekirdek konusunda en iyi şansı sunabilir ve böylece element üzerinde gelecekte yapılacak çalışmaların odak noktası haline gelebilir. 313Uuo civarındaki bazı çok nötrona sahip izotoplar da uzun ömürlü çekirdek sağlayabilir.
+Atomik ve fiziksel özellikleri.
+Ununoktiyum, sıfır valanslı elementlerin bulunduğu 18. grubun bir üyesidir. En dış valans kabuğu 8 elektronla tamamen dolu olan bu grubun üyeleri genellikle çoğu kimyasal reaksiyona (örneğin yanma) karşı inerttirler. Bu da dış elektronların sıkıca bağlı olduğu kararlı, minimum enerji konfigürasyonuna anlamına gelir. Buna benzer şekilde ununoktiyumun da, valans elektronları 7s27p6 diziliminde olmak üzere, kapalı bir valans kabuğuna sahip olduğu düşünülmektedir.
+Sonuç olarak bazıları, ununoktiyumun grubunda bulunan diğer elementler ile (özellikle de periyodik tabloda hemen üstünde bulunan radon ile) benzer fiziksel ve kimyasal özelliklere sahip olmasını beklerler. Periyodik tablodaki eğilim göz önünde bulundurulduğunda ununoktiyumun, radondan bir miktar daha fazla reaktif olması gerekirdi. Ancak kuramsal hesaplamalar elementin beklenenden çok daha fazla reaktif olabileceğini gösterdi. Bu yüzden ununoktiyum soy gaz olarak nitelendirilemeyebilir. Radondan çok daha fazla reaktif olmasının yanı sıra ununoktiyum, ununkuadyum ve kopernikyumdan bile daha reaktif olabilir. Ununoktiyumun kimyasal reaktifliğinin radona göre bariz bir şekilde yüksek olmasının sebebi, son işgal edilen 7p alt kabuğunun istikrarsızlığı ve radyal genişlemesidir.
+Ununoktiyum, periyodik tabloda kendisinden önce gelen tüm elementlerden daha yüksek bir kutuplanabilirliğe (neredeyse radonun sahip olduğu kutuplanabilirlik değerinin iki katına) sahiptir. Bu devasa kutuplanabilirlik değerinden ötürü, elementin anormal derecede düşük bir iyonlaşma enerjisine sahip olduğu tahim edilmektedir. Bu enerji değerinin, radonun iyonlaşma enerjisinin yüzde yetmişine sahip olan kurşununki ile benzer ve ununkuadyumunkinden önemli ölçüde düşük olduğu düşünülmektedir. Diğer soy gazlardan yola çıkılırsa kaynama noktasının 320 ve 380 K arasında olduğu tahmin edilmektedir. Bu daha önceki 263 K veya 247 K tahminlerinden oldukça farklıdır. Deney sonuçları oldukça kuşkulu olsa da ununoktiyumun standart sıcaklık ve basınç altında gaz olma ihtimali çok düşüktür. Ayrıca diğer gazların sıvı halde bulunma aralıklarının epey dar (2 ve 9 kelvin arasında) olduğu düşünüldüğünde, bu elementin standart şartlarda katı olması gerekir. Bununla birlikte ununoktiyum standart şartlarda gaz halinde bulunuyor ise (diğer soy gazlar gibi tek atomlu olsa bile), gaz haldeki en yoğun maddelerden biri olması gerekir.
+Tahmini bileşikleri.
+Şimdiye kadar herhangi bir ununoktiyum bileşiği sentezlenebilmiş değildir. Bununla birlikte, 1964'ten beri kuramsal bileşikler üzerine çalışmalar devam etmektedir. İyonizasyon enerjisi yeterince yüksekse, (diğer soy gazlar gibi) elementin oksitlenmesinin de bir o kadar zor olması ve böylece en yaygın oksidasyon durumunun da 0 olması beklenmektedir.
+Dimer molekülü Uuo2konusundaki hesaplamalar, bu molekülün bağ etkileşiminin kabaca Hg2 molekülününkine benzediğini ve bağ ayrışma enerjisinin de Rn2'dekinin 2 katına eşit olduğunu gösterdi. Ancak çok şaşırtıcı bir şekilde, Uuo2'deki bağ uzunluğunun Rn2'dekinden 0.16 Å kadar daha kısa olarak hesaplanmış olmasıdır. Bağ uzunluğu, önemli bağ etkileşimlerindeki belirleyici bir etmendir. Diğer taraftan UuoH+, RnH+'den daha düşük bir ayrışma enerjisi göstermektedir.
+UuoH bileşiğinde, ununoktiyum ve hidrojen arasındaki bağ çok esnektir ve gerçek bir kimyasal bağdan ziyade van der Waals etkileşimi olarak kabul edilir. Diğer taraftan ununoktiyumun, yüksek elektronegatifliğe sahip elementler ile, kopernikyum ve ununkuadyumun yapacağından daha kararlı bileşikler oluşturacağı tahmin edilmektedir. +2 ve +4 kararlı oksidasyon durumlarının, UuoF2 and UuoF4 gibi florlu bileşiklerde varlığını göstereceği öngörülmektedir. Bu, ununoktiyumu alışılmışın dışında reaktif yapan aynı spin-orbit etkileşiminin sonucudur. Örneğin UuoF2 bileşiğini oluşturan Uuo ve F2 arasındaki reaksiyonla 106 kcal/mol enerji açığa çıkar, bu enerjinin 49 kcal/mol kadarı spin-orbit etkileşiminden gelir. Benzer bir molekül olan RnF2'de, oluşma enerjisi 49 kcal/molün yaklaşık 10 kcal/molü aynı etkileşimden gelir.
+Şimdiye kadar sadece dört ununoktiyum atomu üretilebildiğinden elementin, temel bilimsel araştırmalar dışında herhangi bir kullanımı söz konusu değildir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Buskerud</DOCTITLE>
+<TEXT>
+
+Buskerud Norveç'in eyaletlerinden biridir. Eyaletin başkenti Drammen'dir. Akershus, Oslo, Oppland, Sogn og Fjordane, Hordaland, Telemark, ve Vestfold'a sınırı vardır. 
+Batı kısmı genelinde ağaçlık vadiler ve yüksek dağlık platolardan oluşmaktadır. Doğu kısmı ise batıya göre daha alçak ve birçok göl, dere, çay bulunmaktadır. Tyrifjorden ve Krøderen Buskerud'ın en büyük gölleridir. Numedalslågen, Norveç'in üçüncü en büyük deresidir. Hordaland'den, Buskerud üzerinden Vestfold'a oradadan da denize dökülür. Denize döküldüğü yerden ise Begna Nehri, Sperillen'e dökülür.
+Ringerike önceleri küçük bir krallıkmış. 10. yüzyıla gelindiğinde Norveç'in kralları Olav Trygvason ve Olav Haraldsson Ringerike'de büyümüştür. Numedal'da, 17. yüzyıldan beri gümüş madeni çıkartılıyormuş. Ancak 1957'den beri devam ettirilemiyor. Kongsberg'de silah endüstirisi 1814'te gelişti. Ve birçok birbirinden farklı yüksek kuruluşlar şuanda burada bulunmaktadır. Modum'da Kobalt madeni (Blaafarveværket, "Mavi Rengin Fabrikası") açıldı. 1966'da ise Buskerud'un şimdiki arması olan mavi ayının mavi olmasının sebebi Mavi Rengin Fabrikası'nın sembolü olmasıdır. Gümüş renginde arka plan olmasının sebebi ise Kongsberg'deki gümüş madeninin sembolüdür. 
+Günümüzde tarihi eserleri, kerestecilik ve kâğıt fabrikaları Buskerud'un endüstirisini, ekonomisini ise, Begna ve Rands ırmakları üzerindeki hidroelektrik santrali oluşturur.
+Bölgeleri.
+Buradaki birçok bölük bölgeler birleştirililerek büyük dürt bölgelere dönüştürüldü. Bunlar Eiker, Ringerike, Numedal and Hallingdal.
+İsmi.
+Buskerud (Norveççe "Biskupsruð") ismi, Modum'da eski bir çiftlik adı imiş. Buralara 1668'de çiftçiler yerleştirilmiş. İsmin ilk kısmı "biskup" yani 'piskopos', son kısmı ise "ruð" yani 'temiz çiftlik'. (Aslında çiftlik ismi fikri o zamanın Oslo piskoposuna aittir.)
+İlçeleri.
+Buskerud eyaleti 21 tane ilçeden oluşuyor:
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Termodinamik kanunları</DOCTITLE>
+<TEXT>
+
+Termodinamik kanunları (ya da Termodinamik yasaları) termodinamiğin temelini oluşturan dört kanun. Termodinamik proseslerdeki ısı ve iş transferlerinin yapısını tanımlar.
+Termodinamik kanunları, çok genel bir geçerliliğe sahiptir ve karşılıklı etkileşimlerin ayrıntılarına veya incelenen sistemin özelliklerine bağlı olarak değişmez. Yani bir sistemin sadece madde veya enerji giriş-çıkışı bilinse dahi bu sisteme uygulanabilir.
+Sıfırıncı kanunu.
+1931 yılında Ralph H. Fowler tarafından tanımlanan bu kanun; temel bir fizik ilkesi olarak karşımıza çıktığı ve doğal olarak termodinamiğin 1. ve 2. kanunlarından önce gelme zorunluluğu doğduğu için ""sıfırıncı kanun"" adını almıştır.
+Termodinamiğin bu en basit kanununa göre eğer iki sistem, birbiriyle etkileşim içerisindeyken aralarında ısı veya madde alışverişi olmuyorsa bu sistemler, termodinamik dengededir. Sıfırıncı kanun şöyle der:
+Daha basit bir ifadeyle farklı sıcaklıklara sahip iki cisim arasında ısı alışverişine dayalı bir temas olursa sıcak olan cisim soğur, soğuk olan cisim ısınır. İşin temelinde, iki farklı sıcaklığa sahip iki cisim arasında gerçekleşen ısı akışının sıcak cisimden soğuk cisme doğru gerçekleştiği gerçeği yatar. Bazı soğuk cisimlerin sıcak, bazı sıcak cisimlerin de soğuk algılanması mümkündür. Örneğin –30° sıcaklık, kategorik olarak soğuk sınıfında düşünülebilirse de –50°ye göre daha sıcaktır. Isı akışının soğuktan sıcağa doğru olmayışının temeli şudur: Sıcaklık; malzeme atomlarının -daha doğrusu elektronlarının- kinetik enerjisine etki eden bir faktördür. Elektronlar, her zaman temel enerji seviyesinde olacak şekilde davranış gösterir. Kinetik enerjilerinin fazlasını aktarma ve temel enerji seviyesine dönme isteği hâkimdir. Sıcaklık, malzeme içinde atomların titreşmesi ile iletilir. Bu nedenledir ki ısı akışı, sıcak cisimden soğuk cisme doğru gerçekleşir.
+Birinci kanunu.
+Bir sistemin iç enerjisindeki değişim: sisteme verilen ısı ile, sistemin çevresine uyguladığı iş arasındaki farktır. 
+Bu yasa "enerjinin korunumu" olarak da bilinir. Enerji, yoktan var edilemez; var olan enerji de yok edilemez; sadece bir şekilden diğerine dönüşür. Bir sistemin herhangi bir çevrimi için çevrim sırasında ısı alışverişi ile iş alışverişi aynı birim sisteminde birbirlerine eşit farklı birim sistemlerinde ise birbirlerine orantılı olmak zorundadır. Bu ifadelerin yapılan deneylerle doğruluğu gözlenmiştir fakat ispat edilememektedir. Bütün bu ifadeler matematiksel olarak çok daha kolay ifade edilebilir.
+Aşağıdaki formüllerde 
+göstersin. Ama bir de çevrime ihtiyaç duyuyoruz şimdi onu da basit olarak çizelim, 
+Şimdi bu şekilde sistemin herhangi iki hali görünüyor yani 1 ve 2 nolu noktalar. Hal değişimleri ise A , B , C çizgileriyle sağlansın. Ok yönleri de hal değişimlerinin olacağı yönler. Şimdi hal değişimleri 1A2 ve 1B2 ise 2C1 ilk hale dönülen durumdur.
+Şimdi çevrimleri kurguluyalım elimizde 1A2C1 ve 1B2C1 çevrimleri var: 
+1A2C1 ve 1B2C1 çevrimleri birbirlerine eşittir. Termodinamiğin 1. kanunu uygulandığında a ve b denklemleri ortaya çıkar b denklemi a denkleminden çıkarırsak c denklemini buluruz. 
+1A2 ve 1B2 aynı haller arasında herhangi iki hal değişimi olduğundan δQ – δW ifadesinin 1-2 noktası arasındaki bütün hal değişimleri için bağımsız olduğu söylenebilir. Bunların farkı nokta fonksiyonudur ve tam diferansiyeldir. Bu sisteme has bir özellik olup sistemin enerjisidir ve E ile gösterilir (E=δQ-δW) sonsuz küçük hal değişimi için bu formülün integrali alınırsa;
+olmak üzere;
+formülü çıkar. Termodinamikte enerji, maddenin yapısına bağlı iç enerji ve koordinat eksenlerine bağlı olan kinetik enerji (EK) ve potansiyel enerji (EP) olarak ayrılabilir;
+Sistemin herhangi bir hal değişimindeki enerjisi de;
+İkinci kanunu.
+Birçok alanda uygulanabilen ikinci yasa şöyle tanımlanabilir:
+Termal olarak izole edilmiş büyük bir sistemin entropisi hiçbir zaman azalmaz (bkz: Maxwell'in Cini). Ancak mikroskopik bir sistem, yasanın dediğinin tersine entropi dalgalanmaları yaşayabilir (bkz: Dalgalanma Teoremi). Aslında, dalgalanma teoreminin zamana göre tersinebilir dinamik ve nedensellik ilkesinden çıkan matematiksel kanıtı ikinci yasanın bir kanıtını oluşturur. Mantıksal bakımdan ikinci yasa bu şekilde aslında fiziğin bir yasasından ziyade göreli olarak büyük sistemler ve uzun zamanlar için geçerli bir teoremi haline gelir. Ludwig Boltzmann tarafından tanımlanmıştır. Sisteme dışardan enerji verilmediği sürece düzenin düzensizliğe düzensizliğin de kaosa dönüşeceğini anlatır. Kırık bir bardağın durup dururken veya kırarken harcanan enerjiden daha azı kullanılarak eski haline döndürülemeyeceği örneği verilir klasik olarak. Yine aynı şekilde devrilen bir kitabı düzeltmek için devirirken harcanan enerjiden fazlasını kullanmak gerekir, potansiyel enerjinin bir kısmı ısıya dönüşmüştür ve geri getirilemez. Aynı zamanda evrendeki düzensizlik eğilimini de anlatır. Düzensizlik eğilimini anlatırken entropi kelimesini kullanır. Yunanca, en = ingilizcedeki 'in' gibidir, önüne geldiği kelimeye -de, -da eki verir ve tropos = yol kelimesinin çoğulu olan 'tropoi' (tropi diye telaffuz edilir) kelimesinden. Yani; "yolda"). 
+Üçüncü kanunu.
+Bu yasa neden bir maddeyi mutlak sıfıra kadar soğutmanın imkânsız olduğunu belirtir:
+Sıcaklık mutlak sıfıra yaklaştıkça, bir sistemin entropisi bir sabite yaklaşır. Bu sayının sıfır değil de bir sabit olmasının sebebi, bütün hareketler durmasına ve buna bağlı olan belirsizliklerin yok olmasına rağmen kristal olmayan maddelerin moleküler dizilimlerinin farklı olmasından kaynaklanan bir belirsizliğin hala mevcut olmasıdır. Ayrıca üçüncü yasa sayesinde maddelerin mutlak sıfırdaki entropileri referans alınmak üzere kimyasal tepkimelerin incelenmesinde çok yararlı olan mutlak entropi tanımlanabilir.
+Bu yasalardan birini ihlal eden makinalara o yasanın numarası türünden (örneğin, yoktan enerji yaratıyorsa birinci türden) devridaim makinası (ilginç bir şekilde Türkçede "Con Ahmet Makinası") denir.
+Ginsberg'in teoremi: (1) kazanamazsınız, (2) berabere kalamazsınız, ve (3) oyundan çıkamazsınız.
+Ya da: (1) çalışmadan bir şey elde edemezsiniz, (2) çalışarak en fazla elde edebileceğiniz şey ancak karsız zararsız olmaktır, ve (3) bunu da ancak mutlak sıfırda elde edebilirsiniz.
+Ya da, (1) oyunu ne kazanabilirsiniz ne de oyundan çıkabilirsiniz, (2) çok soğuk olmadığı sürece oyunu berabere bitiremezsiniz, (3) hava o kadar soğumaz.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Termodinamik</DOCTITLE>
+<TEXT>
+
+Termodinamik, (Yunancada: "thermos":ısı ve "dynamic":enerji). Bazı Türkçe kaynaklarda ısıl devingi olarak da geçer. Enerji, ısı, iş, entropi ve ekserji gibi fiziksel kavramlarla ilgilenen bilim dalı. Termodinamik yasalarının istatistiksel mekanikten türetilebileceği gösterilmiştir.
+Termodinamik her ne kadar sistemlerin madde ve/veya enerji alış-verişiyle ilgilense de, bu işlemlerin hızıyla ilgilenmez. Bundan dolayı aslında termodinamik denilirken, denge termodinamiği kastedilir. Bu yüzden termodinamiğin ana kavramlarından biri "quasi-statik" (yarı-durağan) adı verilen, idealize edilmiş "sonsuz yavaşlıkta" olaylardır. Zamana bağlı termodinamik olaylarla, denge halinde olmayan termodinamik ilgilenir.
+Termodinamik yasaları çok genel bir geçerliliğe sahiptirler ve karşılıklı etkileşimlerin ayrıntılarına veya incelenen sistemin özelliklerine bağlı olarak değişmezler. Yani bir sistemin sadece madde veya enerji giriş-çıkışı bilinse dahi bu sisteme uygulanabilirler.
+Termodinamik değişkenler.
+Bu değişkenler genellikle sistemin ya kendisini ya da çevre koşulları tarif etmek için kullanılır. En çok kullanılanlar ve simgeleri şunlardır:
+Mekanik değişkenler, temel klasik veya parçacık fiziği tanımlarıyla tarif edilebilirken, istatistiksel değişkenler sadece istatistiksel mekanik tanımlarıyla anlaşılabilir.
+Termodinamiğin çoğu uygulamasında, bir ya da daha çok değişken sabit tutulurken, diğer değişkenlerin bunlara göre nasıl değiştiği incelenir ve bu da sistemin matematiksel olarak (n sabit tutulmayan değişkenlerin sayısı olmak üzere) n boyutlu bir uzay olarak tarif edilebileceği anlamına gelir. İstatistiksel mekaniği fizik yasalarıyla birleştirerek, bu değişkenleri birbirleri cinsinden ifade edecek "durum denklemleri" yazılabilir. Bunların en basit ve en önemli olanlarından biri ise ideal gaz yasasıdır.
+Bu denklemde "R" evrensel gaz sabiti'dir. Ayrıca istatistiksel mekanik terimleriyle bu denklem şöyle yazılır:
+Bu denklemde de "k" Boltzmann sabiti'dir.
+Termodinamik potansiyeller.
+Termodinamik değişkenler vasıtasıyla dört tane termodinamik potansiyel tanımlanabilir:
+Entalpi,özel bir fonksiyondur.Basınç sabit olduğu zaman bize ısıyı verir.
+Bu dört potansiyelin diferansiyel denklemlerini ve zincirleme türev kuralını kullanarak bu dört potansiyel, değişkenler ve birbirleri cinsinden yazılabilir:
+Termodinamik kanunları.
+Sıfırıncı kanunu.
+İki sistem birbirleri ile etkileşim halinde oldukları halde, durumları değişmeden kalıyorsa bu iki sistem birbirleri ile dengededir denilir. Eğer iki sistem etkileşime açık oldukları halde, aralarında mekanik etkileşimle olan enerji transferi (iş) dışında net enerji transferi (ısı geçişi) yoksa, bu iki sistem birbirleri ile ısıl dengededirler. Sıfırıncı yasa şöyle der:
+"Eğer A ve B sistemleri birbirleri ile ısıl dengede iseler, A sistemi ile ısıl dengede olan bir C sistemi B sistemi ile de ısıl denge durumundadır. " 
+Bu denge durumu, sıcaklık olarak tanımlanır. Yani her sıcaklık derecesi, farklı bir denge durumunu temsil eder. 
+1931 yılında Ralph H. Fowler tarafından tanımlanan bu yasa, temel bir fizik ilkesi olarak karşımıza çıktığından, doğal olarak 1. ve 2. yasalardan önce gelmek zorunluluğu doğmuş ve sıfırıncı yasa adını almıştır.
+Birinci kanunu.
+Bir sistemin iç enerjisindeki artış: sisteme verilen ısı ile, sistemin çevresine uyguladığı iş arasındaki farktır. 
+Bu yasa "enerjinin korunumu" olarak da bilinir. Enerji yoktan var edilemez ve yok edilemez sadece bir şekilden diğerine dönüşür. Bir sistemin herhangi bir çevrimi için çevrim sırasında ısı alışverişi ile iş alışverişi aynı birim sisteminde birbirlerine eşit farklı birim sistemlerinde ise birbirlerine orantılı olmak zorundadır. Bu ifadelerin yapılan deneylerle doğruluğu gözlenmiştir fakat ispat edilememektedir. Bütün bu ifadeler matematiksel olarak çok daha kolay ifade edilebilir.
+Aşağıdaki formüllerde 
+göstersin. Ama bir de çevrime ihtiyaç duyuyoruz şimdi onu da basit olarak çizelim, 
+Şimdi bu şekilde sistemin herhangi iki hali görünüyor yani 1 ve 2 nolu noktalar. Hal değişimleri ise A , B , C çizgileriyle sağlansın. Ok yönleri de hal değişimlerinin olacağı yönler. Şimdi hal değişimleri 1A2 ve 1B2 ise 2C1 ilk hale dönülen durumdur.
+Şimdi çevrimleri kurguluyalım elimizde 1A2C1 ve 1B2C1 çevrimleri var: 
+1A2C1 ve 1B2C1 çevrimleri birbirlerine eşittir. Termodinamiğin 1. kanunu uygulandığında a ve b denklemleri ortaya çıkar b denklemi a denkleminden çıkarırsak c denklemini buluruz. 
+1A2 ve 1B2 aynı haller arasında herhangi iki hal değişimi olduğundan δQ – δW ifadesinin 1-2 noktası arasındaki bütün hal değişimleri için bağımsız olduğu söylenebilir. Bunların farkı nokta fonksiyonudur ve tam diferansiyeldir. Bu sisteme has bir özellik olup sistemin enerjisidir ve E ile gösterilir (E=δQ-δW) sonsuz küçük hal değişimi için bu formülün integrali alınırsa;
+olmak üzere;
+formülü çıkar. Termodinamikte enerji, maddenin yapısına bağlı iç enerji ve koordinat eksenlerine bağlı olan kinetik enerji (EK) ve potansiyel enerji (EP) olarak ayrılabilir;
+Sistemin herhangi bir hal değişimindeki enerjisi de;
+İkinci kanunu.
+Birçok alanda uygulanabilen ikinci yasa şöyle tanımlanabilir:
+tek kaynaktan ısı çekerek çalışan bir makina yapmak olası değildir
+Termal olarak izole edilmiş büyük bir sistemin entropisi hiçbir zaman azalmaz (bkz: Maxwell'in Cini). Ancak mikroskopik bir sistem, yasanın dediğinin tersine entropi dalgalanmaları yaşayabilir (bkz: Dalgalanma Teoremi). Aslında, dalgalanma teoreminin zamana göre tersinebilir dinamik ve nedensellik ilkesinden çıkan matematiksel kanıtı ikinci yasanın bir kanıtını oluşturur. Mantıksal bakımdan ikinci yasa bu şekilde aslında fiziğin bir yasasından ziyade göreli olarak büyük sistemler ve uzun zamanlar için geçerli bir teoremi haline gelir. Ludwig Boltzmann tarafından tanımlanmıştır. Sisteme dışardan enerji verilmediği sürece düzenin düzensizliğe düzensizliğin de kaosa dönüşeceğini anlatır. Kırık bir bardağın durup dururken veya kırarken harcanan enerjiden daha azı kullanılarak eski haline döndürülemeyeceği örneği verilir klasik olarak. Yine aynı şekilde devrilen bir kitabı düzeltmek için devirirken harcanan enerjiden fazlasını kullanmak gerekir, potansiyel enerjinin bir kısmı ısıya dönüşmüştür ve geri getirilemez. Aynı zamanda evrendeki düzensizlik eğilimini de anlatır. Düzensizlik eğilimini anlatırken entropi kelimesini kullanır. Yunanca, en = ingilizcedeki 'in' gibidir, önüne geldiği kelimeye -de, -da eki verir ve tropos = yol kelimesinin çoğulu olan 'tropoi' (tropi diye telaffuz edilir) kelimesinden. Yani; "yolda"). 
+Üçüncü kanunu.
+Bu yasa neden bir maddeyi mutlak sıfıra kadar soğutmanın imkânsız olduğunu belirtir:
+Sıcaklık mutlak sıfıra yaklaştıkça, bir sistemin entropisi bir sabite yaklaşır. Bu sayının sıfır değil de bir sabit olmasının sebebi, bütün hareketler durmasına ve buna bağlı olan belirsizliklerin yok olmasına rağmen kristal olmayan maddelerin moleküler dizilimlerinin farklı olmasından kaynaklanan bir belirsizliğin hala mevcut olmasıdır. Ayrıca üçüncü yasa sayesinde maddelerin mutlak sıfırdaki entropileri referans alınmak üzere kimyasal tepkimelerin incelenmesinde çok yararlı olan mutlak entropi tanımlanabilir.
+Alıntılar.
+"Bu evde biz termodinamik kurallarına uyarız!" (Lisa enerjisi zamanla artan bir devridaim makinası yaptıktan sonra ) – Homer Simpson
+"Termodinamik komik bir konudur. İlk defa öğrendiğinizde, ne olduğunu anlamazsınız bile. İkinci defa üzerinden geçtiğinizde, bir-iki nokta hariç anladığınızı düşünürsünüz. Üçüncü defa baktığınızda ise, anlamadığınızı bilirsiniz, ama o zamana kadar konuya alıştığınız için bu sizi o kadar rahatsız etmez." – Arnold Sommerfeld
+"Dökülen sütün arkasından ağlamayın, evrenin bütün kuvvetleri sütü dökmeyi aklına koymuştu bir kez." - William Somerset Maugham
+Kaynakça.
+Bu yazıda oldukça yararlanılan Wikipedia İngilizce termodinamik başlığı
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jinekomasti</DOCTITLE>
+<TEXT>
+
+Jinekomasti, erkeklerde kadınsı meme büyümesi. Sözcük, Yunanca "gyne" (kadın) ve "mastos" (meme) kelimelerinin birleşmesinden oluşturulmuştur.
+Sebebi tam olarak bilinmemekle beraber, birden çok sebebi olabileceği düşünülmektedir. Genellikle seks hormonlarındaki dengesizlikten kaynaklandığı düşünülür. Ergenlik çağındaki erkeklerde rastlanan jinekomasti, vakaların büyük çoğunluğunda birkaç yıl içinde kaybolur.
+Herhangi bir sağlık tehlikesi yaratmamakla beraber, nadir durumlarda sağlığı tehdit edebilecek farklı bir rahatsızlığın göstergesi olabilir. Sıklıkla sosyal ve psikolojik sorunlara sebebiyet verir.
+Jinekomastiyi meydana getiren sebep belirlenebilirse, buna yönelik tedavi uygulanabilir. Ancak birçok durumda tedavisi cerrahidir.
+Jinekomasti tipleri.
+Üç ana tipi vardır: Glandüler, mikst tip, lipomatöz.
+Glandüler tipte büyümeyi gerçek meme dokusu sağlarken, lipomatöz tipte ise yağ dokusu artışı oluşturmaktadır. Mikst (karışık) durumda ise hem bir meme dokusu artışı vardır, hem de yağ dokusunda artış bulunmaktadır.Genellikle mixt tip karşımıza çıkmaktadır.
+Estetik Cerrahi Dilinde (Jinekomasti).
+Jinekomasti: Yapısal olarak aslında erkek memesinin kadın memesinden büyük bir farkı yok. Erkek memesinin küçük olmasının tek sebebi erkek vücudunda yeterli miktarda kadınlık hormonu olmamasıdır.
+Ancak bazı durumlarda erkek memesi kendiliğinden büyümeye başlıyor ve neredeyse bir kadın memesi şekli alıyor. Bu bir hastalık ve tıpta jinekomasti olarak adlandırılıyor.
+JİNEKOMASTİNİN NEDENLERİ NELERDİR?
+Erkek meme dokusunun aşırı büyümesi olarak tanımlanan jinekomasti; birçok nedene bağlı olabilmektedir. Fizyopatolojik olarak kanda östrojen artışı veya östrojen benzeri yapıların artışı suçlu bulunmaktadır. Ancak jinekomastinin oluşum nedeni sıklıkla idiopatiktir, yani herhangi bir sebebi olamayan jinekomastidir.
+- Testesteron azlığı ile seyreden rahatsızlıklar; Klinefelter's Sendromu, testislerin alınması
+- Östrojen artışı ile seyreden rahatsızlıklar; testis tümörleri, böbrek üstü bezi tümörleri
+- Şişmanlık
+- Böbrek yetmezliği ve siroz 
+- Hemodiyaliz 
+- Hipertroidi; tirotoksikozda serumda yüksek östradiol düzeyiyle iliskili jinekomasti olabilir
+- Hipotroidi
+- Karaciğer tümörleri
+- Hermefroditizm 
+- Uzun süreli ilaç kullanımları (alkol, amfetamin, simetidin, trisiklik antidepresanlar, mariahuana, vücut geliştirmede kullanılan anabolik steroidler, vs) 
+- Testise travma ve radyasyon testiküler hipofonksiyona neden olabilir.
+- Erişkin kabakulak enfeksiyonu testiküler atrofi, hipogonadizm ve jinekomastiye yol açabilir.
+- Leptomonas enfeksiyonu doğrudan jinekomasti yapabilir.
+- Spinal kord zedelenmesi testiküler disfonksiyona ve %10 olguda jinekomastiye neden olabilir.
+- Kötü diyet sonrasında görülebilir. Bazen çok zayıf kisilerde normal kiloya dönme sırasında da jinekomasti olabilir.
+- Akciğer kanserlerinde tümörün beta hCG üretimine bağlı jinekomasti olabilir.
+- HIV enfeksiyonunda geçici jinekomasti olduğu bildirilmektedir.
+- Nadiren primer olarak androjenlerin östrojene dönüsümüyle olusan jinekomasti vardır 10 vakadan az bildirilmistir), ancak bu dönüsümün natürü bilinmemektedir.
+- Alkolik erkeklerde %20 jinekomasti olabilir.
+Jinekomasti ameliyatı.
+Jinekomasti çeşitli sebeplerden kaynaklanabileceği için ameliyat kararı alınmadan önce bazı testlerin yapılması gerekmektedir. Hastanın kullandığı bir ilaç veya hormonal dengesizlik jinekomastiye neden olabilmektedir. Nadir de olsa bazı durumlarda kullanılan ilacın kesilmesi veya yaşa bağlı olarak hormonal tedavi ameliyatı gereksiz kılabilir. Bu tetkiklerin yapılması ameliyat sonrası meme dokusunda tekrar büyüme gibi sorunların önüne geçmek için şarttır. Jinekomasti ameliyatlarında eskiden yağ ya da meme dokusu cımbız gibi bir alet yardımıyla kesilip alınırken gelişen teknoloji sayesinde şimdi memede bulunan yağ tabakasına ufak boyutlarda bir tüp sokularak bu tabaka dışarı çekilebilmektedir. (Liposuction)
+Ameliyat öncesi
+Bazı ilaçlar anestezi ile etkileşebildiğinden ya da yan etkileri olabildiğinden hasta kullandığı tüm ilaçları ameliyat öncesi doktoruna bildirmelidir. Özellikle aspirin ve türevi ilaçların ameliyattan en az bir hafta önce kesilmesi gerekir. Sigara yara iyileşmesini olumsuz etkilediğinden ameliyat öncesi ve sonrasında uzunca bir sure kullanılmamalıdır. Ameliyat öncesi soğuk algınlığı, boğaz ağrısı şikayetleri doktora bildirilmelidir. Ameliyattan 6 saat önce yeme ve içme kesilmelidir. Ameliyatın lokal veya genel anestezi ile yapılmasına karar verilmesi için doktor bazı testler isteyebilir. Ameliyat sonrası hastaya yardımcı olacak bir refakatçiye ihtiyaç olabilir.
+Ameliyat sırası
+Doktoru gerekli ilaçları verip hastayı ameliyata hazırlar. Hasta kendinden geçtikten sonra doktor göğüs üzerinde ameliyat kesilerinin nerelerden yapılacağını, dokuların nerelerden çıkarılacağını gösteren bir ameliyat haritası çizer. Sonrasında aerol denilen tene göre daha koyu renkli alanda yarım ay şeklinde bir kesi açarak yağ ve dokuları buradan çıkarılır. Ameliyat süresi jinekomasti derecesine göre 1 ile 3 saat arasında değişmektedir.
+Ameliyat sonrası
+Ameliyat sonrası göğüs bandajlarla sarılır. Doktor tavsiyesine ve anestezi yöntemine bağlı olarak hasta aynı gün taburcu olabilir veya 1 gün hastanede müşahade altında kalabilir. Ağrı kesiciler sayesinde farkedilir bir ağrı duyulmaz. Doktorun belirleyeceği süre boyunca Antibiyotik ilaç kullanımı enfeksiyondan korunmak için önemlidir. Ameliyattan birkaç gün sonra hasta kollarını çok fazla hareket ettirmeden ve kendini yormayacak şekilde işine dönebilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Su olmasaydı neler olurdu?</DOCTITLE>
+<TEXT>
+
+http://www.facebook.com.us/ecemtugcecay/Güneşinısısı deniz suyunun yüzeyinde buharlaşmaya neden olur ve su buharlaşıp öbür mineraller kalır ve bu mineraller altaki suya karışır. Denizlerin buralara dökülen ırmaklardan çok daha tuzlu olmasının sebebi budur.
+içme sularının kolayca içilebilmesi için de suyun belirli ölçülerde çözünmüş gaz ve mineralleri içeriyor olması gerekir.
+Dünyadaki yaşamın varlığı suya bağlıdır. Güneş ısısı suyu buharlaştırır; buharlaşan su, damlacıklardan oluşan bulutlar halinde atmosferde kümelenir. Bu kütleler yeterli bir büyüklüğe ulaşınca yağmur, dolu ya da kar halinde yeryüzüne iner ve yaşamın sürmesini sağlar. Buna yağış denir; suyun toprağa işlemesi de bu süreçte olur. Bitkiler suyu topraktan soğurur ve bunun belirli bir bölümünü terleme denen bir süreç sonucunda tekrar atmosferde bırakır. Buharlaşma, yağış ve terleme su çevrimini oluşturur.
+Yağan yağmur ve akan sular yeryüzünü zaman içinde değişikliğe uğratır. Dev barajların yardımıyla suyun bir bölümü denize dökülmeden önce tutulabilir. Bu yapay depolarda toplanan sudan yararlanılarak elektrik üretimi için kullanılan su Türibinleri Çalıştırılabilir, kasaba ve kentlerin su gereksinimi karşılanabilir.
+İNSAN suyun varlığına o kadar alışmıştır ki, su olmasaydı ne olurdu, pek düşünmez. Oysa su, Dünya’nın yaşam sürülebilen bir yer olmasının temel şartıdır. Yaşam için gerekli olan dengeler su sayesinde devamlılığını korur. 
+Yeryüzünün dörtte üçü suyla kaplıdır. Suyun önemli bir bölümü de gökyüzündedir; bulutların her birinde milyonlarca ton su bulunabilmektedir. Bunların bir kısmı zaman zaman yağış halinde yere iner. Şu an solumakta olduğunuz havanın içinde de belirli miktarda su buharı vardır. 
+Tüm bunların yanı sıra, insan vücudunun yaklaşık %75'i sudur. (Bu oran kişiye, vücut bileşimine, yaşa, cinsiyete ve diğer bazı faktörlere göre değişebilmektedir.) Bütün vücut dokuları su içerir. Örneğin kanın %83'ü ve çok sert görünmelerine rağmen kemiklerin %22'si sudur. Hayvan ve bitkilerde ise su %90 gibi yüksek bir oranda bulunabilmektedir. Kısacası susuz bir hayatın var olabilmesi mümkün değildir. 
+Sudaki eşsiz fiziksel ve kimyasal özellikler 
+TÜM sıvılar ısıları azaldıkça hacimlerini kaybederler. Bu durumda yoğunlukları artar ve soğuk olan kısımlar ağırlaşır. Bu nedenledir ki, sıvı maddelerin katı halleri, sıvı hallerine göre daha ağırdır. Bu kurala tek uymayan sıvı sudur. Su, ısısı düşüp hacim kaybedince diğer sıvılardan farklı olarak genleşmeye başlar. Donduğunda daha da genleşir. Bu yüzden suyun katı hali, sıvı halinden daha hafiftir. Fizik kurallarına göre buzun suyun dibine batması gerekirken su üstünde yüzmesinin sebebi budur. Suyun bu özelliği Dünya’daki yaşam açısından büyük önem taşımaktadır. Eğer suyun bu özelliği olmasaydı, Dünya üzerindeki suyun büyük bölümü tamamen donacak, göllerde ve denizlerde yaşam kalmayacaktı. Suyun bu mucizevi özelliği Dünya üzerindeki canlı yaşamının sürekliliğinde önemli bir rol oynamaktadır. 
+Isı kaybı olduğunda suyun yoğunluğu diğer sıvılarda olduğu gibi artsaydı, ne olurdu? 
+BU SORUYU şöyle de sorabiliriz: Buz suyun dibine batsaydı, ne olurdu? Bu durumda okyanuslar, denizler ve göllerde donma üstten değil, alttan başlayacaktı. Yüzeyde soğuğu kesen bir buz tabakası da olmayacağı için, alttan başlayan donma yukarı doğru devam edecekti. Bunun sonucunda okyanusların, denizlerin, akarsu ve göllerin büyük bölümü dev birer buz kütlesi haline geleceklerdi. Hiç şüphesiz bu da sularda hiçbir canlının yaşayamamasına yol açacaktı. Bu durum kara canlılarının varlığını da olumsuz etkileyecek, Dünya ölü bir gezegen haline gelecekti. 
+Suyun bir başka önemli özelliği ise “gizli ısısı” ve “termal kapasitesi”dir. Buz eridiğinde ya da su buharlaştığında etraftan ısı çekilir. Bunun tersi gerçekleştiğinde ise dışarıya ısı verilir. Bu, gizli ısı olarak bilinir. Bütün sıvılar bir gizli ısıya sahiptirler. Suyun gizli ısısı olağanüstü yüksektir. Bunun yanı sıra suyun ısısını bir derece artırmak için gereken ısı miktarı, yani termal kapasitesi de diğer sıvılarınkinden çok daha yüksektir. Suyun termal kapasitesi ile gizli ısısının yüksek değerlerde olması, denizlerin karalara göre daha geç ısınıp daha geç soğumalarına yol açar. Bu da, kara üzerindeki ısı farklılıklarının yaşanabilir oranda seyretmesine neden olmaktadır. 
+Suyun bir diğer özelliği olan “termal iletkenliği” sayesinde ise penguen, fok gibi kutup hayvanları denizin üzerindeki buzları delip aşağıdaki suya ulaşabilmektedirler. Termal iletkenlik ısıyı iletebilme gücüdür. Suyun termal iletkenlik gücü diğer sıvılardan en az dört kat daha yüksektir. Buzun ve karın termal iletkenlikleri ise düşüktür. Bu şu demektir: Hava -50°C bile olsa, buz, altındaki su tabakasına soğuğu çok az iletir. Bunun sonucunda denizin üstündeki buz tabakası 1-2 metreyi geçmez. Böylece kutup hayvanları yüzeydeki buz tabakasını kolayca kırabilirler. 
+Suyun tüm bu özellikleri sayesinde yaz ile kış veya gece ile gündüz arasındaki sıcaklık farkları hep canlıların yaşamlarını devam ettirebilecekleri sınırda kalmaktadır. 
+Dünya üzerindeki su miktarı daha az olsaydı, ne olurdu? 
+GECE ile gündüz sıcaklıkları arasındaki fark aşırı derecede artarak karaların büyük kısmı çöle döner, yaşam imkansız hale gelir ya da en azından çok zorlaşırdı. 
+Vücut için en gerekli besin öğesi 
+SU aynı zamanda vücudumuzdaki birçok işlevin yerine getirilmesi için de olmazsa olmaz bir ihtiyaçtır. Hücre içinde ve dışında vücutta gerçekleşen tüm fonksiyonlarda suya ihtiyaç vardır. Hücrelerde oksijen ve besin öğelerinin taşınması, gerek duyulmayan unsurların vücuttan atılması su ile mümkün olabilmektedir. Su aynı zamanda eklemlere ve organlar ile dokuların korunmasına destek sağlar. 
+Vücut fonksiyonlarının düzenli olabilmesi için vücuda sürekli su takviyesinde bulunmak gerekir. 0.5-1 kilogramlık su kaybı hemen susama hissini oluşturur. Susama hissi Rabbimizin insanlara verdiği çok önemli bir nimettir. Nitekim vücuttaki sıvı miktarının azalması hayati risk oluşturmaktadır. Bizler bu uyarının yaşamsal öneminin farkına bile varmadan, belki sırf susama hissimizi gidermek için su içerken, vücudumuz ihtiyaç duyduğu besine ulaşmaktadır. 
+İnsanlar vücutlarındaki proteinlerin yarısını ya da karbonhidratların tamamını yitirseler bile hayatlarına devam edebilirler. Ama % 10'luk bir su kaybı vücutta büyük aksaklıklara, % 20'lik su kaybı ise ölüme yol açmaktadır. 
+Suyun sahip olduğu tüm özellikler, bu sıvının canlılık için özel olarak yaratılmış olduğunu göstermektedir.(nokta)
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>The Smiths (albüm)</DOCTITLE>
+<TEXT>
+
+The Smiths grubun aynı adı taşıyan ilk albümüdür. 20 Şubat 1984 yılında piyasaya sürülmüştür. Albüm dinleyiciler kadar eleştirmenlerden de iyi tepkiler almıştır ve 1980'ler İngiltere müzik piyasasında Smiths'in adını önemli bir grup olarak duyurmuştur
+The Smiths, 1989'da, Rolling Stone dergisi tarafından 80lerin En Önemli 100 Albümü sıralamasında 22. sıraya layık görülmüştür. 2003 yılında, derginin Tüm Zamanların En İyi 500 Albümü sıralamasında 481. sırada yer bulmuştur.
+Albüm Hakkında.
+Albümün büyük ölçüde önemli ve bugün de başarılı olmasının sebebi o dönemin popüler müziğine aykırı bir tarzda olmasıdır. Döneme adını yazdıran synthpop ve post-punk janrlarından farklı sesi daha çok 60ların melodik gitar ağırlıklı rock müziğini çağrıştırsa da, Johnny Marr'ın notalara dayalı, katman katman yazılmış gitar üslubu ve Morrissey'in yapmacık bir biçimde kederli fakat akıl dolu sözleri, eşsiz sesi ve aykırı şarkı yapısı grubu emsalsiz kılmaktadır. 
+Albüm Kapağı.
+"The Smiths" albümünün kapağı Morrissey tarafından tasarlanmıştır. Kapakta Amerikalı aktör Joe Dallesandro'nun bir Andy Warhol filmi olan Flesh'ten alınmış bir fotoğrafı bulunmaktadır.
+Şarkı Listesi.
+"This Charming Man" parçası "The Smiths" albümünün İngiltere ve Avrupa versiyonlarında bulunmamaktadır. Amerika'da albüme katılmasının sebebi parçanın single olarak ülkede yayınlanmamış olmasıdır. WEA plak şirketi tüm Smiths albümlerini 1992 yılında tekrar piyasaya sürdüğünde, Amerikan versiyonundaki şarkı listesi esas alınmıştır.
+Albümün ilk parçası olan "Reel Around the Fountain" 1983 yılının sonbaharında single olarak basılmışken ve piyasaya sürülecekken, "The Sun" adlı tabloid gazetenin Morrissey'i sübyancı olarak addetmesinden dolayı bu düşünceden vazgeçilmiştir.
+Troy Tate kayıtları.
+Albümün ilk kayıtlarının yapımcılığını The Teardrop Explodes adlı gruptan Troy Tate üstlenmiştir. Prodüktör olarak Tate'ten memnun kalmayan grup ilk albümlerini yeni prodüktörleri John Porter ile tekrar kaydetmiştir ve albümde bu kayıtlar kullanılmıştır. Rafa kaldırılmış bu Troy Tate kayıtları sadece bootleg olarak mevcut olsa da, Smiths'in Porter'la tekrar kaydetmediği "Jeane", ve "Pretty Girls Make Graves" adlı şarkılar b-side olarak farklı Smiths albümlerinde yer bulmuştur.
+
+</TEXT>
+</DOC>
+

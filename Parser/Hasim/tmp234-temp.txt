@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Aydınlanma aydınlan+Verb+Neg+Imp+A2sg aydınlan+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+çemberi çember+Noun+A3sg+Pnon+Acc çember+Noun+A3sg+P3sg+Nom
+yıl yıl+Noun+A3sg+Pnon+Nom yıl+Verb+Pos+Imp+A2sg
+boyunca boyunca+Postp+PCNom
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+kutup kutup+Noun+A3sg+Pnon+Nom
+noktalarıyla nokta+Noun+A3pl+P3sg+Ins nokta+Noun+A3pl+P3pl+Ins nokta+Noun+A3sg+P3pl+Ins noktala+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Ins
+kutup kutup+Noun+A3sg+Pnon+Nom
+daireleri daire+Noun+A3pl+Pnon+Acc daire+Noun+A3pl+P3sg+Nom daire+Noun+A3pl+P3pl+Nom daire+Noun+A3sg+P3pl+Nom
+arasında ara+Noun+A3sg+P3sg+Loc
+yer ye+Verb+Pos+Aor+A3sg ye+Verb+Pos^DB+Adj+AorPart yer+Verb+Pos+Imp+A2sg yer+Noun+A3sg+Pnon+Nom
+değiştirir değiş+Verb^DB+Verb+Caus+Pos+Aor+A3sg değiş+Verb^DB+Verb+Caus+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

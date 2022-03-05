@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sürdürülebilir sür+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg sür+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+AorPart
+tarım tarım+Noun+A3sg+Pnon+Nom
+nasıl nasıl+Adverb nasıl+Adj
+yapılır yap+Verb^DB+Verb+Pass+Pos+Aor+A3sg yap+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

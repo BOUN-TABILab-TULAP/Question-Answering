@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Besin besi+Noun+A3sg+P2sg+Nom besin+Noun+A3sg+Pnon+Nom Besin+Noun+Prop+A3sg+Pnon+Nom
+kofulları koful+Noun+A3pl+Pnon+Acc koful+Noun+A3pl+P3sg+Nom koful+Noun+A3pl+P3pl+Nom koful+Noun+A3sg+P3pl+Nom
+nasıl nasıl+Adverb nasıl+Adj
+oluşur oluş+Verb+Pos+Aor+A3sg oluş+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

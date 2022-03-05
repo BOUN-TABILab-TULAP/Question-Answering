@@ -1,0 +1,273 @@
+Question: Dünyanın kendi ekseni etrafındaki hareket ile dinamik basınç merkezleri arasında nasıl bir ilişki vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ağir Ama Hissetmediğimiz Yük: Basinç (EBA)</DOCTITLE>
+<TEXT>
+
+Beş ton civarında bir ağırlığı kaldırabilir misiniz? Hadi bu fazla oldu diyelim peki bir ton ağırlığı kaldırabilir misiniz? Vücudunuza şu an 10-15 ton civarında bir ağırlık uygulandığı söylense ne dersiniz? Evet, yanlış duymadınız; atmosferi oluşturan gazlar vücudunuzun 1 cm2 sine yaklaşık 1033 g ağırlık uygulamaktadır. Bu, yetişkin bir insan vücuduna yaklaşık 14 ton ağırlığın yüklenmesi anlamına gelir. Peki, biz insanlar bu ağırlığı nasıl taşıyoruz? Aynı şekilde vücudumuzdan da dış ortama doğru kan basıncı uygulanmaktadır. Yani atmosfer basıncı ile kan basıncı birbirini dengelemektedir. O hâlde basınç nedir, birlikte öğrenelim.
+Atmosferin çeşitli gazlardan oluştuğunu ve her madde gibi gazların da bir ağırlığının olduğunu öğrenmiştiniz. Bu gazların özellikleri birbirinden farklıdır. Gazlar, yer çekiminin de etkisiyle yere bir ağırlık uygular. İşte bu olaya atmosfer basıncı diyoruz.
+Toriçelli Deneyi
+İtalyan bilim adamı Toriçelli, 100 cm uzunluğunda bir ucu kapalı cam boru alıp içini tamamen cıva ile doldurdu. Cıva dolu cam boruyu ters çevirerek içerisinde cıva bulunan kaba koydu. Borudaki cıvanın bir kısmının cıva kabına boşaldığını, daha sonra cıvanın sabitlendiğini gördü.
+Toriçelli bu deneyi 45° enleminde, deniz kıyısında ve sıcaklığın 0 °C olduğu bir günde yapmıştır. Bu ölçüm sonucunda 760 mm yüksekliğindeki cıvanın 1 cm2Iik yere uyguladığı ağırlık 1033 g’dır. Bu değer, 1013 milibar (mb) veya hektopaskal (hPa) olarak ifade edilir.
+Çevresine göre yüksek değerlere sahip olan basınç alanlarına yüksek basınç alanı, çevresine göre alçak değerlere sahip olan basınç alanlarına ise alçak basınç alanı denir.
+Yüksek basınç alanlarında alçalıcı hava hareketi görülür. Havanın hareketi merkezden çevreye doğrudur.
+Alçak basınç alanlarında yükselici hava hareketi gözlenir. Hava çevreden merkeze doğru hareket eder.
+Dünya’nın kendi ekseni etrafındaki hareketinden dolayı rüzgârlar, Kuzey Yarım Küre’de hareket yönünün sağına, Güney Yarım Küre’de ise soluna doğru sapar.
+Sıcaklık, yükselti, Dünya’nın günlük hareketi ve yer çekimi basıncı ve basıncın dağılışını etkileyen faktörlerdir.
+Dünya’nın Her Yerinde Basınç Aynı mıdır?
+Günümüze kadar yeryüzündeki en yüksek hava basıncı Sibirya'da bulunan Agata kentinde kaydedilmiştir. Burada hava basıncı deniz seviyesinde 1083,8 mb olarak ölçülmüştür. En düşük hava basıncı ise 870 mb olarak 1979’da Büyük Okyanus'un üzerinde oluşan “Tip" adlı kasırganın merkezinde ölçülmüştür.
+Sürekli Basınç Kuşakları
+Termik Alçak Basınç Kuşağı
+Ekvator ve çevresi, güneş ışınlarını dik ve dike yakın açılarla aldığından yıl boyunca sıcaktır. Isınan havanın genleşip yükselmesine bağlı olarak sürekli termik alçak basınç kuşağı oluşmuştur.
+Termik Yüksek Basınç Kuşağı
+Kutuplar çevresi, güneş ışınlarını dar açılarla aldığından buralarda sürekli soğuk hava etkilidir. Soğu-yan havanın ağırlaşarak alçalması nedeniyle buralarda sürekli termik yüksek basınç kuşağı oluşmuştur.
+Dinamik Yüksek Basınç Merkezi
+Dünya'nın kendi ekseni etrafındaki dönüşünün rüzgârlar üzerinde meydana getirdiği sapma etkisiyle 30° enlemleri çevresinde oluşan basınç merkezidir. Bu merkez Kuzey Yarım Küre’de yaz aylarında kuzeye, kış aylarında güneye doğru genişler. Alçalıcı hava hareketlerine bağlı olarak havanın ısınması ve nem miktarının düşmesi nedeniyle 30° enlemleri çevresindeki karalar üzerinde çöller oluşur.
+Dinamik Alçak Basınç Merkezi
+60° enlemlerinde kutup rüzgârları ve batı rüzgârları karşılaşır. Karşılaşan bu rüzgârlar Dünya’nın kendi ekseni etrafındaki dönüşü nedeniyle birbirlerini yukarıya doğru iterler. Bu hava kütlelerinin yükselmesi ile geride alçak basınç alanı oluşur.
+Basınç dağılışı, aynı basınç değerine sahip noktaların birleştirilmesiyle elde edilen eş basınç eğrileriyle (izobar) çizilmiş haritalarla gösterilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerküre’Nin Hareketleri (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Günlük Hareket
+Dünya, kendi ekseni çevresinde batıdan doğuya doğru dönüşünü 24 saatte tamamlar. Buna “1 gün”, harekete ise “günlük hareket” denir. Dünyanın ekseni etrafındaki dönüşüne bağlı olarak;
+•	Gece-gündüz birbirini izler
+•	Gün içerisinde güneş ışınlarının geliş açısı değişir.
+•	Cisimlerin gölge boyları ve yönü günün saatine göre değişir.
+•	Günlük sıcaklık farkları meydana gelir, bunun sonucunda meltem rüzgârları ve mekanik (fiziksel) çözülme meydana gelir.
+•	Yerel saat farkları oluşur, doğu ve batı yönleri oluşur.
+•	Her iki yarım kürede 30° ve 60° enlemlerinde dinamik basınç alanları oluşur.
+•	Sürekli rüzgarlar (Alize, Batı, Kutup) ile okyanus akıntılarının yönlerinde sapmalar oluşur.
+2.	Yıllık Hareket
+Dünya, Güneş çevresindeki dönüşünü elips biçiminde olan yörüngeyi takip ederek 365 gün 6 saatte tamamlar. Buna “1 yıl ”, harekete ise “yıllık hareket” denir. Dünya’nın güneş çevresinde elips şeklindeki yörüngeyi takip ederek dönmesine bağlı olarak;
+•	Dünya’ nın yörüngedeki hızı değişir.
+•	Şubat ayı iki gün kısa sürer.
+•	Yarım kürelerde mevsim süreleri farklı olur.
+•	Eylül ekinoksu iki gün gecikerek 23 Eylül’de gerçekleşir.
+•	Dünya, Güneş’e yaklaşıp uzaklaşır.
+Dünya, Güneş çevresinde elips biçiminde bir yörüngede hareket eder. Bu yörüngenin oluşturduğu düzleme yörünge düzlemi (ekliptik) denir.
+Buna göre yer ekseni yörünge düzlemi arasında 66° 33’lık bir açı bulunur. Bu durum nedeniyle ekvator düzlemi yörünge düzlemi arasında da 23° 27’lık bir açı oluşur. Bu açı “eksen eğikliği” olarak ifade edilir.
+Eksen eğikliği ve yıllık harekete bağlı olarak;
+•	Güneş ışınlarının bir noktaya geliş açısı yıl içinde değişir.
+•	Güneşin doğuş ve batış saatleri ile gece-gündüz süreleri yıl içinde değişir.
+•	Aydınlanma çizgisi kutup daireleri ve noktaları arasında yer değiştirir.
+•	Mevsimler arasında basınç farkları ve buna bağlı olarak muson rüzgârları oluşur.
+•	Aynı anda farklı yanm kürelerde farklı mevsimler görülür.
+•	Matematik iklim kuşakları oluşur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rüzgârlar (EBA)</DOCTITLE>
+<TEXT>
+
+Bir kış günü sıcak odanızın penceresini açtığınızda nasıl bir durumla karşılaşırsınız? Perde acaba içeri doğru mu yoksa dışarı doğru mu hareket eder? Sıcak yerlerde havanın ısınıp genleştiğini ve hafiflediğini, soğuk yerlerde havanın sıkıştığını ve ağırlaştığını öğrenmiştiniz. Rüzgârın basıncı yüksek olan yerden alçak olan yere doğru hareket ettiğine göre perdenin hangi yöne doğru hareket edeceğini tahmin edebilirsiniz değil mi? İşte bu olay rüzgâr oluşumuna en güzel örnektir. Rüzgârın hızı anemo-metre ile ölçülür.
+Rüzgârın hızı saniyede metre (m/sn) ya da saatte kilometre (km/sa) olarak anemometre ile ölçülür, rüzgâr hızı engebeli alanlarda sürtünme ve çarpmanın etkisiyle azalırken,düz ve açık alanlarda ise fazladır.
+Rüzgârların Esme Hızı Her Yerde Aynı mıdır?
+Rüzgârın hızına etki eden faktörler.
+Koriyolis kuvveti, basınç farkı, basınç merkezleri arasındaki uzaklık, sürtünme.
+Rüzgârlar Dünya’nın günlük hareketinden dolayı yön değiştirmek zorunda olduğundan (koriyolis) hız kaybına uğrar.
+İlkbaharda odamızın penceresini açtığımızda dışarıdan içeriye doğru akın eden havanın hızı daha az iken kışın daha fazladır.
+Rüzgâr Hep Aynı Yönde mi Eser?
+Yer şekillerinin uzanışı, Dünya'nın günlük hareketi, basınç merkezlerinin konumu.
+Dünya’nın kendi ekseni etrafındaki hareketinden dolayı ortaya çıkan kuvvet (coriolis kuv-veti-koriyolis) sonucunda rüzgârlar sapmaya uğrarlar.
+Kuzeydoğu güneybatı yönünde uzanan Çanakkale Boğazı’nda rüzgâr kuzeydoğudan güneybatıya doğru veya tersi yönde eser.
+Gündüz denizde yüksek basınç, karada alçak basınç alanı oluşur. Buna bağlı olarak rüzgâr denizden karaya doğru eser. Gece ise tam tersi olur.
+Ekvator ile kutuplar arasında yaklaşık 100 °C'Iuk bir sıcaklık farkı vardır. Eğer böyle bir sıcaklık farkı fazla engebesi olmayan bir yüzeyde olsaydı hızı saatte 1000 km'ye varan fırtınalar Dünya’yı allak bullak ederdi. Oysa yeryüzünde, sıcaklık farkından dolayı ortaya çıkması muhtemel kuvvetli hava akımlarını engelleyen engebeler vardır. Bu engebeler, Çin'de Himalayalarla başlar, Anadolu'da Toroslarla devam eder ve Avrupa'da Alplere kadar sıradağlar hâlinde uzanarak batıda Atlas Okyanusu, doğuda Büyük Okyanus'la birleşir.
+Rüzgârın Esme Sıklığı Hep Aynı mıdır?
+Rüzgâr her yönden farklı sıklıkta eser. Rüzgârın yıl içinde esme sayısına rüzgâr frekansı denir. Esme sıklığı rüzgârgülü ile gösterilir. Bir bölgede belirli bir sürede rüzgârların en sık estiği yöne ise hâkim rüzgâr yönü denir.
+Rüzgâr çeşitleri
+Sürekli rüzgârlar
+Batı rüzgârları
+Kutup rüzgârları
+Alizeler
+Ters Alizeler
+Mevsimlik rüzgârlar
+Muson
+Yaz musonu
+Kış musonu
+Yerel rüzgârlar
+Meltemler
+Kara meltemi
+Deniz meltemi
+Dağ meltemi
+Vadi meltemi
+Sıcak yerel	
+Fohn (Fön)
+Sirokko
+Hamsin
+Soğuk yerel
+Mistral
+Bora
+Krivetz
+Tropikal rüzgârlar
+Tayfun
+Tornado
+Rüzgâr Çeşitleri
+1. Sürekli Rüzgârlar
+2. Mevsimlik Rüzgârlar
+Yılın bir yarısında belirli bir yönden, diğer yarısında ise tam tersi yönden esen rüzgârlardır. Yıl içinde yaklaşık altı aylık sürelerle yön değiştiren bu rüzgârlara devirli rüzgârlar da denir. Bu tip rüzgârlar, kara ve denizlerin mevsimlere göre farklı ısınma özelliklerinden doğar.
+Geniş bir kara parçası olan Asya Kıtası, onun güney ve güneydoğusunda yer alan Hint Okyanusu ile Büyük Okyanus bu tip termik basınç sistemlerinin gelişmesine en uygun bölgelerdir. Burada görülen mevsilik rüzgârlara muson adı verilmektedir. Muson rüzgârları, Güney ve Güneydoğu Asya kıyıları, Avustralya kıyıları ve Afrika'nın Gine Körfezi kıyılarında görülür.
+a. Yaz Musonları
+Yaz aylarında Asya Kıtası, çevresindeki okyanuslardan daha çok ve çabuk ısınır. Kıta üzerinde termik kökenli alçak basınç alanı oluşur. Çevresindeki okyanuslar ise kıtaya göre daha serin olduğu için termik yüksek basınç alanıdır. Bu nedenle denizden karaya doğru, nemli yaz musonları eser. Bunlar kıyılarda bol yağış bırakırlar.
+Muson rüzgârlarının etkili olduğu bu bölgeler Dünya’nın en yağışlı yerleridir.
+b. Kış Musonları
+Kış aylarında Asya Kıtası, Hint Okyanusu’ndan daha çok ve çabuk soğur. Kıta üzerinde termik kökenli yüksek basınç alanı oluşur. Hint Okyanusu ise kıtaya göre daha ılık olduğu için termik alçak basınç alanıdır. Bu nedenle karadan denize doğru serin, yer yer soğuk ve kuru kış musonları eser.
+Avustralyanın kuzey kıyılarında da muson rüzgarlarına rastlanır.
+3. Yerel Rüzgârlar
+a. Meltemler
+Günlük sıcaklık ve basınç farkı sonucu oluşurlar.
+Vadi Meltemi
+Gündüz, dağlar vadilere göre hızlı ısındığı için dağlar alçak, vadiler yüksek basınç alanına dönüşür. Bu durum rüzgârın vadiden dağa doğru esmesine sebep olur.
+Dağ Meltemi
+Vadiler gündüz almış oldukları ısıyı nemden dolayı gece korurlar. Böylece geceleri vadiler alçak basınç, dağlar yüksek basınç alanı olur. Rüzgâr da buna bağlı olarak dağdan vadiye doğru eser.
+b. Sıcak Yerel Rüzgârlar
+Etkiledikleri alanlarda sıcaklığı yükselten rüzgârlardır.
+l.Föhn (Fön) rüzgarları: Dağın bir yama-cından yükselen nemli hava her 100 m’de ortalama 0,5 °C sıcaklık kaybeder. Yamacın yüksek kısmında içindeki nemin önemli bir kısmını yağış olarak bırakan nemli hava, kuru havaya dönüşür. Dağın diğer yamacında alçalan kuru hava her 100 m’de ortalama 1 °C sıcaklık kazanır. Böylece dağın iki yamacı arasında önemli bir sıcaklık farkı oluşur. Bu farkı doğuran rüzgar fön rüzgârı olarak adlandırılır. Bu rüzgârlar İsviçre Alplerinde en tipik şekliyle görülür. Ülkemizde ise Karadeniz ve Akdeniz kıyıları boyunca uzanan sıradağlarda rastlanır. Fön rüzgârları kış mevsiminde karların erken erimesine ve çığ olaylarına neden olur. Yaz mevsiminde ise ürünlerin erken olgunlaşmasını sağlar, havayı aşırı derecede kuruttuğu için bazen bitkilere zarar verir. Fön rüzgârlarının insan sağlığına da olumsuz etkisi vardır.
+c.	Soğuk Yerel Rüzgârlar
+Genellikle kış aylarında etkili rüzgârlardır. Dağlık alanlardan ve soğuk enlemlerden ılık kıyılara doğ-
+ru eser.
+4.	Tropikal Rüzgârlar
+Sıcak kuşakta daha çok okyanuslar üzerinde oluşan rüzgârlardır. Belli yollardan karalara da sokulurlar. Hızları oldukça fazladır (Saatte 300-500 km). Etkili olduklan yerlerde büyük zararlara neden olurlar. Bu rüzgârların yerel isimleri vardır. Asya denizlerinde ve Avustralya’nın Büyük Okyanus kıyılarında typhoon (tayfun), Hint Okyanusu’nda Cyclone (Sayklon), Meksika Körfezi kıyıları ile Antil Adaları’nda hurricane (hariken) denilmektedir. Tropikal rüzgârlara benzeyen, ancak daha dar alanlarda etkili olan rüzgârlara ise tornado (hortum) adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Batı rüzgarları</DOCTITLE>
+<TEXT>
+
+Batı rüzgarları, 30° kuzey ve 30° güney paralellerine dinamik yüksek basınç alanlarından 60° kuzey ve 60° güney paralellerine dinamik alçak basınç alanlarına doğru esen rüzgârlardır. Bunlar dünyanın kendi ekseni etrafında dönmesinden dolayı kuzey ve güney yarım küre`de genellikle batıdan eserler. Başlangıçta sıcak ve kurudurlar. Ancak, denizler üzerinden geçerken nem kazanırlar. Orta kuşaktaki karaların batı kıyılara bol yağış bırakırlar. 60° enlemleri civarında kutup rüzgarları ile karşılaşarak cephe yağışlarına yol açarlar.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya</DOCTITLE>
+<TEXT>
+
+Dünya (Yeryuvarı, eski: Küre-i Arz), Güneş Sistemi'nde Güneş'e en yakın üçüncü gezegendir. Güneş Sistemindeki en yoğun ve beşinci büyük gezegendir. Üzerinde zeki yaşam formları barındırdığından emin olunan tek gök cismidir.
+Katı ya da 'kaya' ağırlıklı yapısı nedeniyle üyesi bulunduğu yer benzeri gezegenler grubuna adını vermiştir. Bu gezegen grubunun kütle ve hacim açısından en büyük üyesidir. Büyüklükte, Güneş Sistemi'nin 8 gezegeni arasında gaz devlerinin büyük farkla arkasından gelerek, beşinci sıraya yerleşir. Tek doğal uydusu Ay'dır. Yeryüzü, Yerküre, Mavi Gezegen ya da latince adıyla Terra olarak da anılır.
+Yerkürenin oluşumu.
+Yapılan araştırmalar sonucu gezegeninin yaşı 4,467 milyar yıl olarak hesaplanmıştır. Geçen bu zaman dilimi, karmaşık bileşik yapılar ve içerdiği elementler göze alındığında, Güneş, Dünya ve diğer gezegenler dahil Güneş Sistemi'ndeki yapıları oluşturan moleküler bulutsunun kaynağı, ömrünü önceden tamamlamış bir genç tip yıldızın dağılmış artıklarının ve yıldızlar arası maddenin bir merkez etrafında dönerek gittikçe yoğunlaşmasıyla oluşmuştur. Merkezde yoğunlaşan Hidrojen ve Helyum molekülleri yeni bir G2 türü yıldızı, yani Güneş'i oluşturmaya başlamış, çevre disklerdeki yoğunluklu bölgelerde ise gezegenler oluşmaya başlamıştır. Dünya ise Güneş'e 3. sırada yakınlıkta bulunan karasal bir iç gezegendir. 
+Oluşum diskleri süreci veya sonrasında bu karasal gezegenler, ağır göktaşı çarpışmalarına sahne olmuştur. Göktaşları yapısında bulunan donmuş buzlar, silikat ve metal yapılar, karaların ve okyanuslarının oluşmasını sağlamış, merkezde yoğunlaşan ağır demir ve nikel elementleri ise gezegenimizin çekirdeğini oluşturmuştur. Ağır göktaşı bombardımanı, asteroid kuşağının Jüpiter'in güçlü çekim etkisi sonucu daha kararlı hale gelmesiyle gittikçe azalmıştır. Uygun koşullar oluştuğunda gelişmeye başlayan canlı hayat sonrasında özellikle bitkiler ve yaptıkları fotosentez ile atmosfer'imizin yapısal bileşimi önemli oranda değişmiş ve oksijen oranının yükselmesine neden olmuştur.
+Dünya'nın Yaşı.
+Dünya'nın yaşı doğrudan doğruya kayaçların yaşıyla ölçülemez. Çünkü bilinen en yaşlı kayaçlar bile bugün artık yeryüzünde var olmayan daha yaşlı kayaçlardan oluşmuştur. Bugüne kadar saptanabilen en yaşlı kayaçlar Grönland'ın batısında bulunmuştur ve 4,1 milyar yaşındadır. 
+Bugün Dünya'nın yaşını hesaplamak için elde edilen en iyi yöntem radyoaktif elementlerin yarılanmaları sonucu başka elementlere dönüşümleridir. Örneğin radyoaktif uranyum elementinin uranyum-238 ve uranyum-235 gibi iki ayrı tipte atomu (izotop) vardır. Bu atomların ikisi de çok yavaş bir süreçle kurşunatom larına dönüşür. Öbür uranyum izotopundan biraz daha ağır olan uranyum-238'in dönüşümüyle daha hafif bir kurşun izotopu olan kurşun-206, uranyum-234'in dönüşümüyle de biraz daha ağır bir izotop olan kurşun-207 atomları oluşur. Uranyum-235'in kurşuna dönüşme hızı uranyum-238'in dönüşme hızından altı kat daha fazladır. Bu nedenler, incelenen bir kayaçtaki kurşun-206 ve kurşun-207 atomlarının oranı kayacın yaşına bağlı olarak değişir. En yaşlı olduğu düşünülen bir kurşun minerali ile bugün okyanuslarda oluşan kurşunun izotop yapısı arasındaki fark, ancak bu iki örneğin oluşumları arasında 4,55 milyar yıllık bir zaman dilimi olmasıyla açıklanır. Bu süre de Dünya'nın yaşı olarak kabul edilir.
+Biçimi.
+Dünya'nın üzerindeki topografik oluşumlar ve kendi ekseni etrafındaki eksantrik hareketi nedeniyle düzgün bir geometrisi yoktur. Geoibs bir biçimdedir, fakat ekvatordaki yarıçapı kutuplardaki yarıçapından fazladır. Bu kutuplarından basık özel küresel geometrik şekil geoit (Latince, Eski Yunanca "Geo" "dünya") yani ""Dünya şekli"" diye adlandırılır. Referans küremsinin ortalama çapı 12.742 km'dir (~40.000 km/π). Yer'in ekseni etrafında dönmesi ekvatorun dışarı doğru biraz fırlamasına neden olduğu için ekvatorun çapı, kutupları birleştiren çaptan 43 km daha uzundur. Ortalamadan en büyük sapmalar, Everest Dağı (denizden 8.848 m yüksekte) ve Mariana Çukuru dur (deniz seviyesinin 10.924 m altı). Dolayısıyla ideal bir elipsoide kıyasla Yer'in %0,17'lik toleransı vardır. Ekvatorun şişkinliği yüzünden Yer'in merkezinden en yüksek nokta aslında ekvatordadır.
+İç yapısı.
+Yerin içi, diğer gezegenler gibi, kimyasal olarak tabakalardan oluşur. Yerin silikattan oluşmuş bir kabuğu, yüksek viskoziteli bir mantosu, akışkan bir dış çekirdeği ve katı halde bir iç çekirdeği vardır.
+Yerin tabakaları aşağıda belirtilen derinliklerdedir:
+Dünya'nın dış kabuğu ile bu kabuğun üzerindeki atmosfer(hava) ve hidrosfer (okyanuslar ve denizler)katmanları doğrudan gözlemle incelenebilir. Oysa Dünya'nın iç bölümlerine ulaşarak yapısını doğrudan inceleme olanağı yoktur. Dünya'nın iç yapısına ilişkin bütün bilgiler depremlerin incelenmesinden ve Dünya'nın içinde var olduğu düşünülen maddeler üzerindeki deneylerden elde edilmiştir. Yanardağların varlığına ve yerkabuğunun yüzeyindeki ısı akışı ölçümlerine dayanarak Dünya'nın iç böümlerinin çok sıcak olduğunu biliyoruz. 
+Yerkabuğunun derinliklerine doğru indikçe kayaçların sıcaklığı her kilometrede 30 °C kadar yükselir. Böylece; kabuğun en alt katmanlarının çok daha üstünde yer alan kayaçlar kızıl kor haline dönüşür. Aslında Dünya'nın büyüklüğüne oranla yerkabuğu çok incedir. Eğer Dünya'yı bir futbol topu büyüklüğünde düşünürsek kabuğu da ancak topun üzerine yapıştırılmış bir posta pulu kalınlığındadır. Kabuğun altında kalan kayaçlar ise akkor sıcaklığına kadar ulaşır. 
+Depremlerin nedeni, yerkabuğundaki bir kırıkla birbirinden ayrılan iki büyük kütlenin (levhanın) birdenbire harekete geçerek üst üste binmesi ya da uzaklaşması sonucunda yerkabuğunun şiddetle ileri geri sarsılmasıdır. Büyük bir depremde bazi titreşimler Dünya'nın öbür yüzündeki dairesel bir alanda "odaklanır". Buna karşılık bazı titreşimler çekirdeği aşıp öbür yana geçmez. Böylece Dünya'nın öbür yüzünde hiçbir titreşimin duyulmadığı halka biçiminde bir "gölge" belirir. Bu gölgenin boyutları ölçülerek çekirdeğin büyüklüğü hesaplanabilir. Ayrıca deprem titreşimlerinin yayılma hızi saptanarak içinden geçtikleri maddelerin yoğunluğu, dolayısıyla bileşimi belirlenebilir. Eritilmiş kayaçlarla yapılan laboratuvar deneyleri bu çalışmalara büyük ölçüde ışık tutar. 
+Dünya'nın yüzeyi, kalınlığı 6 ile 70 km arasında değişen bir ""kabuk"" katmanıyla örtülüdür. Yerkabuğu denen bu katman daha ağır maddelerden oluşan ve 2.865 km derine inen çok kalın ""manto"" katmanının üzerine oturur. Mantonun bittiği yerde Dünya'nın merkezine kadar kadar 3.473 km boyunca uzanan ""çekirdek"" başlar. Jeologlara göre, içteki manto katmanı çok büyük kabarma harektleri sonucunda yerkabuğunu iterek birçok yerde yüzeye cıkmıştır. Ayrıca normal olarak yerkabuğunun yapısında bulunmayan bazı kayaçlar da yanardağı hareketleri nedeniyle Dünya'nın yüzeyine ulaşmıştır. Jeologlar bu verilere dayanarak mantonun üst kesimlerinin ""ültrabazik"" korkayaçlardan oluştuğunu ileri sürerler. Bir yanda ""asit"" kayaç olarak nitelenen granitin yer aldığı kayaç sınıflandırmasının öbür ucunda bulunan bu ültrabazik kayaçlar ağır demir ve magnezyum silikatlardan oluşur. Mantonun alt bölümlerinin de aynı yapıda, ama daha ağır ve yoğun olduğu sanılmaktadır. Çekirdeğin yapısındaki maddeler ise hem mantodakilerden daha ağır, hem de hiç değilse çekirdeğin dış bölümünde sıvı haldedir. Buna karşılık çekirdeğin içinin manto ve kabuk gibi katı olduğu sanılıyor. Yerçekirdeğin olağanüstü bir basınç vardır. Bilinen elementlerin çoğu böylesine büyük bir basınç altında çok yoğunlaşmış olarak bulunabilir; ama jeologların genel kanısı, bazı demirli göktaşları (meteoritler) gibi çekirdeğin de metal halindeki nikel ve demirden oluştuğudur..
+Yerkabuğu.
+Yerkabuğu mantoya oranla daha hafif maddelerden oluşmuştur ve bu iki katman arasındaki geçiş bölgesi nerdeyse kesadamin bir sınır çizer. Bu geçiş bölgesi, böyle bir sınırın varlığını ilk kez saptayan Yugoslav bilim adamı Andrija Mohoroviçiç'in (1857-1936) adıyla "Mohoroviçiç süreksizliği" kısaca "M-süreksizliği" ya da "moho" olarak anılır. Bu sınırın varlığını gösteren en önemli kanıt yerkabuğundaki deprem titreşimlerinin süreksizlik bölgesinden geçip mantoya ulaştığında birdenbire hızlanmasıdır.
+Yer kabuğu okyanusların ve denizlerin altında uzandığı zaman "okyanus kabuğu"; kıtaları oluşturduğu zaman da "kıta kabuğu" olarak adlandırılır. Okyanus kabuğunun kalınlığı 6–8 km arasındadır. Oysa ortalama kalınlığı 40 kilometreyi bulan kıta kabuğu yüksek sıradağların altında 60-70 kilometreye ulaşır.
+Okyanus kabuğu üç katmandan oluşur. En alt katman, yerin derinlerindeki erimiş maddelerin (magmanın) katılaşmasıyla oluşan korkayaçlardır. Orta katman yanardağ lavrarından, üst katman ise temel olarak kum ve çamur gibi tortullardan oluşur. Okyanus kabuğu sürekli hareket halindedir. Bu nedenle kabukta okyanus sırtları boyunca çatlaklar oluşur ve bu çatlakların arasından yüzeye çıkan erişmiş maddelerin sertleşmesiyle okyanus kabuğuna yeni katmanlar eklenir. Bu yeni kabuk sertleşdikten sonra yılda 1 ile 10 cm kadar ilerliyerek yavaş yavaş okyanus sırtından iki yana doğru yayılır. Böylece okyanus sırtları suyun altında yüksek sırdağlar oluşturur. 
+Yerkabuğu çok sayıda eğri levhanın yan yana dizilmesiyle oluşan bir bütün olarak düşünebilir. Bu levhalar mantonun oldukça yumuşak üst katmanına oturduğu için sağa sola hareket edebilir. Okyanus sırtları, okyanus çukurları ve bazı uzun kırıklar yalnızca levhaların kenarlarında oluşur; bu kırıkların olduğu yerlerde de levhalar kayarak birbirinin üstüne binebilir. Levhalardan çoğunun üzerinde bu levhalarla birlikte hareket eden bir ya da birkaç kıta bulunur. Nitekim, bir zamanlar iki kıtaya ayıran okyanus kabuğunun çökmesiyle kıtalar bazı yerde birbirine iyice yaklaşmış, hatta üst üste binmiştir. Örneğin aralarındaki okyanus kabuğu çökmesi sonucunda Hindistan ile Asya kıtası çarpışmış ve iki karanın kenarları yükselerek Himalaya Dağları'nı oluşturmuştur. Büyük ve şiddetli depremlerin hemen hepsi bu levhaların kenarlarında, bir levhanın öbürünün altına girmesiyle olur. Aynı biçimde, en etkin yanardağlar da okyanus kabuğunun ya İzlanda'da olduğu gibi yükselerek sırta dönüştüğü ya da Andlar'da olduğu gibi çökerek kıtaların altına girdiği yerlerde bulunur. 
+Okyanus tabanının yanlara doğru yayılarak genişlemesi çok çarpıcı bir biçimde kanıtlanmıştır. Bu kanıtlamanın en önemli dayanak noktası da Dünya'nın magnetik alanının yukarıda anlatıldığı gibi zaman zaman yön değiştirmesidir. Yerkabuğunun derinliklerindeki erimiş magma yüzeye çıkarak kristalleşirken bazı mineral parçacıkları mıknatıslanır. Böylece her biri Dünya'nın magnetik kutuplarını gösteren küçük birer mıknatısa dönüşür. Jeologlar yaşları bilinen lav katmanlarının, yapılarındaki mıknatıslanmış parçacıklar bazen kuzey, bazen güney magnetik kutbuna yönelecek biçiminde yan yana yerleştiğini saptamışlardır. Bunun nedeni, bir katmandaki mıknatıslanmış parçacıkların kuzey ve güney kutuplarının Dünya'nın magnetik kutuplarına uygun olarak dizilmesi, sonra magnetik kutuplar yön değiştirdiğinde üstteki yeni katmanda bulunan parçacıkların bir önceki katmandakilere ters yönde yerleşmesidir. Kısacası okyanus kabuğu magnetik bantlı dev bir kayıt aleti, yani bir teyp gibi Dünya'nın magnetik alanındaki bütün değişiklikleri bir bir kaydetmiştir.
+Levha hareketleri.
+Levha hareket teorisi'ne (tektonik levha teorisi olarak da bilinir) göre Yer'in en dış kısmı iki tabakadan oluşur: kabuğu da kapsayan litosfer ve mantonun katılaşmış dış kısmı. Litosferin altında astenosfer bulunur, bu mantonun yüksek viskoziteli olan iç kısmıdır. 
+Litosfer, astenosferin üzerinde, tektonik levhalara ayrılmış bir halde yüzmektedir. Bu plakalar belli temas noktalarında üç tür hareketten birini gösterirler: yaklaşma, uzaklaşma veya yan yana kayma. Bu temas noktalarında depremler, volkanik faaliyetler, dağ oluşumları ve okyanus dibi hendekler oluşur.
+Ana plakalar şunlardır:
+Önemli küçük plakalar arasinda Hint plakası, Arabistan plakası, Karaip plakası, Nazka plakası, Skotia plakası ve Anadolu plakası sayılabilir.
+Aşınma.
+Kıtaları oluşturan güç, levha hareketlerinin motoru olan Yer'in iç enerji kaynağıysa, çok daha büyük bir dış enerji kaynağı, kıtaları aşındırarak yok etme sürecinde etkili olur: Güneş enerjisi. Atmosfer hareketlerini ve su döngüsünü sürdürmek için gerekli enerjiyi sağlayan güneş ışınları, su ve rüzgar aşındırması ile kıta yüzeylerinden koparılan minerallerin yine bu iki araç yardımıyla okyanus tabanlarına taşınarak çökmesine yardımcı olur. Bu mekanizma ile okyanus kabuğu üzerinde gittikçe kalınlaşarak biriken tortul kaya katmanı, dalma-batma mekanizması sırasında yerküre içlerine taşınarak yeniden erir.
+Aşınma mekanizması, suyun yerçekimi etkisi altındaki hareketlerini izler, yüksek dağların aşınarak alçalmasına, okyanus derinliklerinin dolarak yükselmesine yol açar, sonuçta yer yuvarlağının girinti ve çıkıntılarının törpülenerek çekim etkisi ile belirlenmiş ideal jeoit biçimine yaklaşması yönünde çalışır.
+Dünya'nın hareketi.
+Dünya kendi çevresinde (23 saat, 56 dakika, 4.098903691 saniye) ve güneş çevresinde (365 gün, 6 saat, 9 dakika, 9 saniye, 763.545,6 mikrosaniye) hareket eder.
+Günlük ve yıllık hareketlerine bağlı olarak gece, gündüz, mevsimler, kayaçların oluşması ve diğer canlılık ve biyolojik olaylar gerçekleşir. Mevsimlerin oluşmasında etken ise yaklaşık 23 derecelik eksen eğikliğidir.
+Hareketleri.
+Sürekli olarak hareket eden Dünya'nın iki çeşit hareketi vardır. Bu hareketlerden birisi kendi ekseni etrafında olur ve batıdan doğuya doğrudur. Bu dönmesini 24 saatte tamamlar. Dünya'nın kendi ekseni etrafındaki bu dönmesi ile birlikte olan ikinci hareketi güneş etrafındadır. Güneş etrafında Dünya, elips şeklinde çok geniş bir yörünge üzerindeki hareketini de 365 gün 6 saatte, yani bir yılda tamamlar. Dünya'nın kendi ekseni etrafındaki ve güneş etrafındaki bu iki hareketi, iki önemli olaya sebep verir. Kendi ekseni etrafında dönmesi ile gece ve gündüz,güneş çevresinde 23 derece 27 dakika eğiklikle dönmesi mevsimleri oluşturur ve mevsimlerin ardalanmasını sağlar.
+Dünya'nın yüzeyi.
+Dünya'nın yüzölçümü 509.200.000 km2dir. Bunun %70'i 360.600.000 km2 ile denizleri; %30'u 148.600.000 km2 ile karaları oluşturur. Kuzey kutup çevresinde karalarla çevrilmiş bir deniz, Güney Kutup çevresinde denizlerle kuşatılmış bir kara parçası vardır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bumerang</DOCTITLE>
+<TEXT>
+
+Özellikle Avustralya yerlileri (Aborjin), ayrıca eski Mısırlılar ve Avrupalılar, Hindistan'ın bazı yörelerindeki kabileler tarafından silah olarak kullanılan yassı bir kesite sahip eğri bir sopa. Avustralya ve ABD'de hala spor aracı olarak kullanılmaktadır. Genellikle akasya ve okaliptus gibi sert ağaçlardan yapılmakta ve boyu 40–90 cm kadar olmaktadır. Eğriliği, kolları arasındaki açı 90°den büyük olacak şekildedir. Bazıları düz olarak fırlatıldığı yönde ilerler, bazıları ise havada bir dairevi yörünge çizerek tekrar geri gelirler. Her iki tipte de bumerang döndürülerek fırlatılır ve kendi ekseni etrafında bir daire çizerek döndüğünden dolayı bir jiroskop gibi kendisini havada dengeler. Aynı zamanda sahip olduğu aerodinamik şeklinden dolayı havada ilerlerken kaldırma kuvvetine maruz kalır. Böylece yere paralel olarak fırlatılan bumerangın çok uzak mesafelere gitmesi mümkün olur.
+Geri dönen bumeranglar, kendi ekseni etrafında bir pervane gibi döndüğünde oluşan kurgusal daire düzlemi, dik düzlemden biraz sağa veya sola eğik olacak şekilde fırlatılır. Bu eğiklik sağ elle fırlatılan bumeranglarda sağa doğrudur. Dolayısıyla fırlatılan bumeranglar da sağa doğrudur. Dolayısıyla fırlatana göre sağdan başlayıp sola doğru dairevi bir yörünge çizerek geri gelir. Bumerang havada belli bir hızla hareket ederken aynı zamanda döndüğünden üst kısma gelen kolun havaya göre izafi hızı alttakinden daha fazladır. Çünkü dönme hareketinde cismin teğetsel hızı daireye teğet olacak şekilde yön değiştirir. Bu hız üst kısımda bumerangın hareketi yönünde, alt kısımda ise ters yöndedir. Üst kısmın hızının fazla olması, üst kısma daha fazla kaldırma kuvvetinin tesir etmesine sebeb olur. Bu da dönen bumerangın oluşturduğu kurgusal daireyi, sağa eğik atılmışsa sola doğru devirmeye çalışır. Fakat kendi ekseni etrafında dönmesinden ileri gelen jiroskopik tesirle devrilmeyip, kurgusal dairenin dik ekseni etrafında dönme yapar. Bu hareket neticesi kurgusal dairenin yönü daima değişir ve neticede dairevi bir yörünge takib ederek ilk başlangıç noktasına gelir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Spin (fizik)</DOCTITLE>
+<TEXT>
+
+Spin ya da dönü, fizikte bir parçacığın açısal momentumu. klâsik ve kuantumsal olarak incelenir.
+Gezegenler gibi büyük nesnelerin kendi eksenleri etrafında dönmesinin momentumudur. Elektron gibi atomaltı parçacıkların da mıknatıslar gibi kutuplara sahip olduğu ortaya çıktığında, bilim insanları bu parçacıkların da gezegenler gibi döndüğünü düşünmüşlerdir. Daha sonra parçacıkların ışık hızından daha hızlı dönmesi gerektiği hesaplandığı için dönüp dönmediği tam olarak bilinmemektedir.
+Dönünün klâsik fizikteki karşılığı.
+Kuantum fiziğinin karşılığı-bulunma ilkesine göre dönünün de klasik bir karşılığı bulunmalıdır. Bunun için birçok model ortaya atılmıştır.
+Gezegen ya da topaç modeli.
+Dünya'nın Güneş çevresindeki dönme hareketine bakacak olursak sahip olduğu toplam açısal momentumu iki terimden oluşur;
+Bunlardan birincisi formula_2 şeklinde Dünya'nın Güneş'e göre formula_3 konum vektörü ile, formula_4 çizgisel momentumunun vektörel çarpımı olur. Bunlar açısal momentum korunumu itibariyle birbirlerine dik vektörlerdir. Bu terim Dünya'nın bir yıl süren yörünge hareketinden kaynaklandığı için "yörünge açısal momentumu" adını alır. İkinci terim formula_5 şeklinde Dünya'nın kendi eksenine göre formula_6 eylemsizlik momenti ile kendi etrafında bir gün süren dönüş hareketinin formula_7 açısal hızının çarpımı olur. Bu ikinci terim Dünya'nın dönüsü olarak ifade edilir.
+Benzer şekilde, bir elektronun açısal momentumu iki terimin toplamı olarak yazılabilir. Birinci terim "yörünge açısal momentumu" formula_8 dir. Bu açısal momentum, öncelikle Bohr kuramında formula_9 şeklinde kuantumlandığı, ardından hidrojen atomu için çözülen üç boyutlu Schrödinger denkleminin çözümü ile L büyüklüğünün formula_10 olduğu ve formula_11 bileşenin ise formula_12 olduğu görülür. İkinci terim formula_13 elektron spinidir. Klâsik olarak göz önünde canlandırılmak istenirse, Dünya'nın kendi ekseni etrafındaki dönüş hareketi gibi düşünülebilir. Fakat bu şekilde düşünülmesi kuantum mekaniksel açıdan sakıncalıdır. Çünkü bu durum incelendiğinde elektronun kendi ekseni etrafındaki dönmesinde sahip olacağı hız değeri ışık hızının üzerindendir. Bu durum da özel görelilik kuramının birinci ilkesine aykırıdır.
+Burada formula_8 vektörü büyüklüğününün
+şeklinde kuantumlandığı görülmektedir. formula_13 spin vektörü de benzer şekilde kuantumlanmıştır:
+Bu ifade de gördüğümüz formula_18 spin kuantum sayısı formula_13'nin büyüklüğünü belirleyen bir sayıdır. Tıpkı formula_8 nin büyüklüğünü belirleyen formula_21 yörünge kuantum sayısı gibi. Fakat bunlar arasında önemli bir fark vardır. formula_21 yörünge kuantum sayısı formula_23 gibi tamsayı değerlerini alırken, formula_18 spin kuantum sayısı sabit ve tamsayı olmayan formula_25 değerini alır. Spini buçuklu olan tanecikler (örnek olarak nötrino) fermiyon, tamsayı olanlar bozondur.
+Barut modeli.
+Orhan Asım Barut, elektronun dönüsü için bir klâsik karşılık önermiştir. Buna göre, bir parçacık için, parçacığın dışıyla olan etkileşimini betimleyen bir "dış uzay" ve parçacığın kendisiyle etkileşimini ya da daha doğru bir ifadeyle iç yapısını betimleyen bir "iç uzay" tanımlanabilir. herbiri aslında birer uzayzaman olup, iç uzay karmaşıkken dış uzay gerçeldir. Uzayzaman, üç uzay ve bir zaman boyutu olmak üzere dört boyutludur. O halde iç uzay formula_26 ve dış uzay formula_27 olarak tanımlanıp formula_28 iki boyutlu bir yöney uzayı olduğu için toplamda sekiz boyutlu sayılabilir. Ancak bu uzay sanal yani doğrudan ölçülemeyen (mutlak karesi ölçülebilen) özdeğerlere sahiptir. Bu betimlemede bir elektronun dönünsü, kütle etrafında salınım yapan yük olarak gösterilmiş olur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Foucault sarkacı</DOCTITLE>
+<TEXT>
+
+Foucault sarkacı, adını Fransız fizikçi Léon Foucault'dan alan, ilk defa deneysel olarak Dünya'nın kendi ekseni çevresinde döndüğünü kanıtlayan sarkaç düzeneği.
+Bir sarkacın asılma noktası değiştiği halde salınımının değişmediğini gözleyen Foucault, yeterince büyük bir sarkaç harekete geçirildiğinde, bunun salınım düzeninin değişmeyeceğini, fakat yerin, yani Dünya'nın hareket edeceği kuramını geliştirmiştir. Eğer Dünya dönüyorsa, Dünya ile birlikte sarkacı izleyen gözlemciler de dönecekler, buna karşın sarkacın salınım düzlemi hareketsiz kalacaktı. Bu nedenle sarkacın salınım düzlemi gözlemcilere göre yavaşça hareket ediyor gibi görünecekti. Gerçekte ise, gözlemcilerin dolaysız bir yolla izlemiş oldukları olay, Dünya'nın kendi etrafında dönmesinin bir sonucuydu.
+Düşünceleri ile toplumda büyük bir ilgi uyandıran Foucault'ya imparator III. Napolyon, deneyini Paris'teki büyük kubbeli Panthéon binasında yapmasına izin vermiştir. Foucault, kubbenin ortasına 67 metrelik çelik telle 28 kg ağırlığında bir demir top asmıştır. Topun alt tarafına sivri bir uç takılarak, yere serili ince kum tabakasında, bu ucun bıraktığı izlerden yararlanarak, sarkacın salınım düzlemindeki değişimin gözlemciler tarafından izlenebilmesi sağlanmıştır.
+Bu tarihi deneyi izlemek için Pantheon'a büyük bir kalabalık toplanmıştır. Foucault'nun sarkacı hareket ettirmesinden bir saat önce, titreşim ve hava akımlarına engel olmak üzere, gözlemcilerin hareketsiz ve sessiz olmaları temin edilmiştir. Sessizce salınımına başlayan sarkacın salınım düzleminde, bir süre her hangi bir değişim gözlenmemiştir. Bu sessiz bekleyişin ardından gözlemciler, kumun üzerindeki izlerin yavaşça değiştiğini görmüşlerdir. Sarkacın salınım düzlemi gözle görünür biçimde dönmektedir. Bu topluluk, tarihte ilk kez Dünya'nın kendi ekseni etrafında döndüğüne tanık olmuştur. Foucault'nun 1851'de, bu deney sırasında Pantheon'a yerleştirdiği bu sarkaç hala aynı yerde asılı durmaktadır.
+Kuzey Kutbu ya da Güney Kutbu'nda, bir sarkacın salınım düzlemi, altındaki Dünya dönmeye devam ederken, yıldızlara göre değişmeden sabit kalacaktır. Tam turunu tamamlaması bir gün sürecektir. 
+Foucault sarkacına benzeyen bir düzenekle benzeri bir deney, Foucault'dan iki yüzyıl önce 1661'de Vincenzo Viviani tarafından gerçekleştirilmiştir.
+Dünya'daki pek çok kurum, müze ve laboratuarlarda, Foucault sarkacına benzeyen sarkaçlar bulunmaktadır. Hatta Güney Kutbu'nda da bir Foucault sarkacı bulunur. Türkiye'de Bilkent Üniversitesi Fen Fakültesi binasında ve Ege Üniversitesi Rasathanesi, Eskişehir Büyükşehir Belediyesi Bilim Deney Merkezi ve Ankara'da MTA'ya bağlı müzede de Foucault sarkacı bulunmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aydınlatma çemberi</DOCTITLE>
+<TEXT>
+
+Dünyanın kendi ekseni etrafındaki dönüşü ve güneş etrafında izlediği yol sırasında bir yarısı güneş ışıklarıyla aydınlanırken diğeryarısı karanlıkta kalır karanlık ile aydınlığı yani gece ile gündüzü ayıran çizgiye Aydınlatma Çemberi adı verilir.Dünyanın dönüşü ve ilerleyişi nedeniyle Aydınlatma Çemberi sürekli yer değiştirir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Orta kutup</DOCTITLE>
+<TEXT>
+
+Orta Kutup, (ayrıca DQ Herculis değişeni olarak da bilinir) manyetik Kataklizmik Değişenlerin önemli sınıflarından biridir. Bu sistemler, manyetik güce sahip bir (AM Herculis sistemlerine göre manyetik güç ≈0.1 katı) beyaz cüce ve anakol yakınlarında yer alan soğuk yoldaş yıldızı içeren çift yıldız sistemleridir. Beyaz cücenin kendi ekseni etrafındaki dönme dönemi çiftin yörünge döneminden daha kısadır "(Pspin / Pyörünge ~0.1)". Bunlar genelde orta manyetikli sistemlerdir. Gökbilimciler orta manyetik alanını hala tartışmaktadırlar. Sonuç olarak bu çift sistemlerde kısmi disklerin oluşup oluşmayacağı üzerinde bir tartışma vardır
+DQ Herculis sistemlerinin ikinci bileşenleri de anakola yakın soğuk cüce yıldızlardır. Madde yığılması, beyaz cüce etrafındaki oluşan bir diskin dış bölgelerinde gerçekleşir. Diskin beyaz cüceye yakın iç kısımlarında, manyetik alan etkisi ile deformasyonlar oluşmaktadır ve buradaki madde büyük ölçüde beyaz cücenin manyetik kutuplarına indirilmektedir. Işık değişimleri genel olarak madde yığan bölgelerin tutulma ile örtülmesi ve dönmeden kaynaklanan modülasyonları ile ortaya çıkmaktadır. Bilinen 11 örneği vardır. Bazıları nova patlaması göstermişlerdir.
+Ayrıca bakınız.
+kataklizmik değişen
+
+</TEXT>
+</DOC>
+

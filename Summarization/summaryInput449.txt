@@ -1,0 +1,224 @@
+Question: Sinir hücresine ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektrosit</DOCTITLE>
+<TEXT>
+
+Elektrosit, elektrikli balıklarda, elektrik organında bulunan değişmiş kas ya da sinir hücresine denir.
+Bu organlar, herbiri düşük gerilim üreten çok sayıdaki elektrik üreten elementlerden oluşur. Bu aynı, seri olarak bağlanmış bir pil sistemi gibi gerçekleşir. Bir elektrikli yılan balığında 5.000 ile 6.000 arasındaki elektrositler, beraberce 500 voltluk bir gerilim, 500 wattlık elektrik üretebilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aksiyon potansiyel</DOCTITLE>
+<TEXT>
+
+Elektrofizyolojide, aksiyon potansiyel, bir hücrenin elektriksel zar potansiyelinin kısa bir süre içinde aniden yükselmesi ve azalmasıdır. Aksiyon potansiyeli, zar potansiyeli olarak adlandırılan hayvan hücrelerinde birkaç türde meydana gelir. Bunlar, sinir hücreleri (nöron), kas hücreleri (veya kas lifleri) ve endokrin hücreler ve bazı bitki hücreleridir. Sinir hücrelerinde, hücreler arasındaki iletişimde başrol oynar. Diğer tür hücrelerde ana işlevi hücreler arası süreçleri etkinleştirmektir. Örneğin kas hücrelerinde bir aksiyon potansiyel, kasılmaya yol açan olaylar zincirinin ilk halkasıdır. Pankreastaki beta hücrelerinde, insülinin salınmasını sağlar. Sinir hücrelerindeki aksiyon potansiyeli ("sinir uyartıları" olarak ta bilinir) ve aksiyon potansiyelinin geçici sıklığı "çivi treni" (İngilizce "spike train") olarak adlandırılan bir sinir hücresi tarafından oluşturulur . Aksiyon potansiyelini yayan sinir hücresine "ateş" (İngilizce "fire") denir.
+Hayvan hücrelerinde iki tür birincil aksiyon potansiyeli vardır. Bir tür gerilim kapılı sodyum kanallar tarafından, diğeri de gerilim kapılı kalsiyum kanalları tarafından açığa çıkartılır. Sodyum tabanlı aksiyon potansiyelleri genellikle bir milisaniyeden daha az sürerken, kalsiyum tabanlı aksiyon potansiyelleri 100 milisaniye veya daha uzun sürebilir. 
+Önsöz.
+İşlev.
+Hayvanlar, bitkiler ve mantarlardaki hemen hemen tüm hücreler, piller gibi işlev görür. Duyusal olarak, hücrenin içi ve dışı arasında bir gerilim farkı oluşturur. İç kısım pilin negatif kutbu olur. Bir hücredeki gerilim genellikle milivolt (mV) olarak ölçülür. Bir hayvan hücresinde normal gerilim 70 mV'tur. Çünkü hücreler çok küçüktür. Bu büyüklükteki gerilim, hücre zarı içinde çok güçlü elektrik kuvvet oluşturur.
+Büyük hücrelerde, potansiyel zamanla çok az değişir. Bazı tür hücreler elektriksel olarak etkindir ve gerilim dalgalanır. Bunların bazılarında gerilim ara sıra, çok hızlı yükselip alçalarak dalgalanır. Böylece tekbiçimli form oluşur. Bu yükselip alçalma çevrimleri aksiyon potansiyeli olarak bilinir. Aksiyon potansiyellerinin süreleri farklılık gösterir. Bu yüzden bunlar analog sinyaldir. Hayvanların beyin hücrelerinde tam yükselme ve alçalma çevrimi bir saniyenin binde birinden daha az bir zamanda olur. Diğer tür hücrelerde bu çevrim birkaç saniye olabilir. 
+Nörotransmisyon.
+Bir sinir hücresinin anatomisi.
+Bitki hücreleri, kas hücreleri, kalpteki özel hücreler gibi bazı hücre türlerinde aksiyon potansiyeli oluşur. Bununla birlikte ana tetikleyici hücre sinir hücresidir ve aksiyon potansiyeli için en basit mekanizmaya sahiptir.
+Sinir hücreleri elektriksel olarak ikazlanmaya müsait hücrelerdir. Genellikle bir veya daha çok dendrit, tek bir hücre gövdesi (soma), bir akson ve bir veya daha fazla akson ucu ikazlanabilir. İki tür kimyasal sinapstan biri dendrit, diğeri akson ucudur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsular Ve Oluşturduğu Şekiller (EBA)</DOCTITLE>
+<TEXT>
+
+Akarsu, belli bir yatak içinde ve eğim boyunca akar. Akışı sırasında yüzeydeki malzemeyi aşındırarak taşır ve hızının azaldığı yerde bu malzemeyi biriktirir. Aşınım ve birikim faaliyeti; akarsuyun hızı, yağış, bitki örtüsü ve eğime bağlı olarak değişir.
+Akarsuyun doğduğu yere kaynak, denize veya göle ulaştığı yere ise ağız adı verilir. Akarsu, özellikle dik yamaçlarda yatağını derine doğru aşındırır. Ağız kısmından kaynak kısmına doğru yaptığı aşındırma geriye doğru aşındırma olarak adlandırılır. Aşınmanın ilerlemesi ile yatak eğimi azalır. Buna bağlı olarak geriye doğru aşındırma yavaşlar ve yana doğru aşındırma etkili olur. Akarsuyun yatağını derine doğru aşındırabileceği en son seviyeye kaide seviyesi adı verilir. Kaide seviyesi genellikle deniz seviyesidir. Buna mutlak kaide seviyesi de denir. Bazen bir göl ya da kapalı bir çukurluk da bir akarsu için kaide seviyesi olabilir. Bunlar da yerel kaide seviyesidir. Akarsuyun yatağı üzerindeki eğim kırıklıklarının olduğu yerde yüksekten akmasıyla çağlayanlar meydana gelir.
+Akarsu, çeşitli şekillerde aşındırarak yatağının eğimini giderek azaltır. En sonunda akarsu yatağı deniz seviyesine yakın ve çok az eğimli bir profil kazanır ki buna denge profili denir.
+Bir akarsuyun belli bir kesitinde bir saniyede geçen su miktanna akım (debi) adı verilir ve m3/sn olarak ölçülür. Akımın fazla olması aşınım faaliyetini de hızlandırır. Akarsuların kolları ile birlikte sularını topladığı alana akarsu havzası adı verilir.
+Sularını deniz ve okyanuslara ulaştıran havzalara açık havza (Şekil 35), ulaştıramayan havzalara ise kapalı havza adı verilir.
+Bir akarsuyun taşıdığı su miktarı; iklim, bitki örtüsü, buharlaşma, yağış türü ve miktarına bağlı olarak yıl içinde değişir. Bu değişiklik akarsu rejimi olarak adlandırılır. Yıl içinde su seviyesinde belirgin bir değişiklik görülen akarsulara düzensiz rejimli akarsular, bu seviyenin çok fazla değişmediği akarsulara ise düzenli rejimli akarsular adı verilir.
+Eğimin fazla olduğu yerlerde akarsu aşındırması hız kazanır.
+Akarsu havzalarını, birbirinden ayıran sınıra su bölümü çizgisi adı verilir.
+Eğimin az olduğu yerlerde aşınma yavaşlar, birikme hız kazanır.
+Akarsu Aşınım ve Birikim Şekilleri
+1 Yatay tortul tabakaların bulunduğu yerlerde akarsular, yataklarını derine doğru aşındırarak kanyon vadi adı verilen şekiller meydana getirir.
+2 Çağlayanlarda yüksekten düşen suların çarptığı yerde yapmış olduğu aşındırmalarla oluşan çukurluklara dev kazanı oluşur.
+3 Akarsu tarafından taşınan malzemeler yatak eğiminin azalması sonucu akarsu yatağında birikerek ada görünümü alır. Bu adacıklara ırmak adası adı verilir.
+4 Volkanik bölgelerde bulunan tüflerin sel suları tarafından aşındırılmasıyla peri bacaları meydana gelir. Bazı peri bacalarının üzerinde sert kayaçlardan oluşan şapka görünümlü kısımlar bulunur.
+5 Yumuşak ve geçirimsiz kayaçların bulunduğu yerlerde yüzeysel akış ve sellenmenin etkisiyle oluşan engebeli yarıntılara kırgıbayır (badlans) adı verilir.
+6 Akarsular vadinin dirençli kesimlerini az, dirençsiz kesimlerini çok aşındırarak asimetrik vadiler oluşturur.
+7 Akarsular tarafından derin vadilerle parçalanan geniş düzlükler plato olarak adlandırılır.
+8 Akarsular, dik yamaçlarda hızlı akarak derine doğru aşındırmalar sonucu çentik vadileri (V şekilli vadileri) meydana getirir.
+9 Akarsuların, taşıdıkları sedimentleri dağ eteklerinde eğimin azaldığı yerlerde birikmesiyle birikinti konileri ve konilerin birleşmesi ile de birikinti yelpazeleri meydana gelir.
+10 Akarsular, taşıdıkları malzemeyi denize veya göle ulaştıkları yerde biriktirir ve denizin sığ yerlerinde deltaları meydana getirir.
+11 Akarsular,dirençli ve sert kayaçları enine keserek boğaz vadileri meydana getirir.
+12 Akarsular tarafından taşınan malzemelerin dağlık bölgelerdeki çukur alanlarda birikmesi ile dağ içi ovaları meydana gelir.
+13 Akarsular, eğimin azaldığı yerde yatağını yana doğru aşındırarak geniş tabanlı vadileri meydana getirir.
+14 Eğimin azaldığı ve düzleştiği yerlerde akış hızının azalmasına ve farklı yapıdaki kayaçların varlığına bağlı olarak akarsuların kıvrımlar yaparak oluşturduğu şekillere menderes adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kıvrılma</DOCTITLE>
+<TEXT>
+
+Kıvrılma, jeolojide yer kabuğunun içten gelen etkenlerle dalgalı bir biçim almasına verilen ad. Kıvrılma, başlıca "kıvrım dağları"nın oluşmasında etkilidir.
+Orojenik hareketler sırasında tortul tabakaların esnek olanları kıvrılır. Bu şekilde kıvrım dağları oluşur. Himalayalar, Alpler ve bu dağların Türkiye'deki uzantıları olan Kuzey Anadolu Dağları ile Toroslar bu şekilde oluşmuş kıvrım dağlarına en güzel örnektir.
+Orojenik hareketler sırasında yer kabuğunun sıkışan bölümlerinden kubbe şeklinde olanlarına antiklinal adı verilir. Tekne biçiminde çukurlaşan bölümlere ise senklinal adı verilir.
+Kırılma.
+Tortul tabakaların sert yapıda olanları orojenik hareketlerdeki yan basınçlar sırasında kırılır. Bu şekilde oluşan kırıklara fay adı verilir. Bu kırıkların kenarında yer alan ve yükselen bloğa horst (çöküntü tepesi), çöken bloğa ise graben (çöküntü hendeği) adı verilir. Horst oluşumlarına kırık dağları adı da verilir. Graben çukurları akarsuların taşıdığı malzemelerle doldurulduğunda ovalar oluşur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fitne (kısa film)</DOCTITLE>
+<TEXT>
+
+Fitne (Hollanda'daki adlandırılışı: "Fitna"), Hollanda parlamentosundaki aşırı sağcı siyasi partilerden Özgürlük Partisi (Felemenkçe: Partij van de Vrijheid) milletvekili Geert Wilders tarafından hazırlattırılan İslam aleyhtarı film. 
+Kökenbilim.
+16 dakika olarak hazırlanan film adını Arapça "fitna" sözcüğünden alır. Türkçeye fitne olarak geçmiş olan bu sözcük ""anlaşmazlık ve bölünme"" anlamına gelir. 
+Yayınlanması.
+Film ilk kez, 27 Mart 2008 tarihinde, Hollanda yerel saati ile 19:00'da Liveleak sitesinde yayınlandı. Wilders filmin önce TV'de gösterilmesi için bir dizi görüşme yaptı. Hiçbir medya kuruluşu edit etmeden yayınlamaya yanaşmadığı için internette tam olarak yayınlamaya karar verdi. Film gelen tepkiler ve tehditler nedeniyle internet sitelerinde yayından kaldırıldı.
+Filmin içeriği.
+Film, Danimarka'da yayınlanan ve İslam peygamberi Muhammed'i başının üzerinde bir bombayla resmeden karikatür ile açılış yapar. Film boyunca Kur'an'dan ayetler eşliğinde başta Amerika'daki 11 Eylül saldırıları olmakk üzere, İspanya'daki ve İngiltere'deki saldırılara, gazete makalelerine yer verilir. 
+Çocuk mücahidlerin görüntüleri, Müslüman bir kadının sünnet edilişi, İslami liderlerin ve bazı din adamlarının konuşmaları ile Kuran'da kadın, terörizm ve eşcinsellik ile ilgili ayetlere yer verilir.
+Hollanda polisinin camilere girerken ayakkabılarını çıkarttıkları gösterilir.
+Filmde özellikle İslam'ın antisemitik olduğu ve eşcinsel karşıtı olduğu vurgulanır.
+İran'da asılan eşcinseller olduğu iddia edilen fotoğraflara yer verilir. Üç buçuk yaşındaki başörtülü, İngilizce konuşan bir kız çocuğunun "Yahudiler domuzdur" deyişine yer verilir.
+Radikal gruplar tarafından başı kesilen bir adamın görüntülerine yer verilir. Kesilmiş bir başörtülü kadın başı gösterilir.
+Türkiye ile ilgili kısımlar.
+Geert Wilders, Türkiye'nin AB üyeliğine kesinlikle karşı olduğunu dile getiren milletvekillerindendir.
+Filmde Türkçe konuşan genç bir adam, "namussuzluk yaparlarsa annesini ya da kız kardeşini öldüreceğini söyler". 
+Hollanda'daki bir cami ve önünde dalgalanan Türk bayrağı gösterilir. Filmin sonunda bu resim, "Hollanda'dan sevgiler" yazan bir kartpostal olarak gösterilir.
+Türkiye'nin Hollanda'daki bazı okullarda Türkçe eğitim istediğine dair bir gazete haberine yer verilir.
+Tepkiler.
+Film AB ve NATO'dan tepkiler aldı, film yayınlanırsa radikal İslami grupların saldırılarını artıracakları, Afganistan'daki NATO askerlerinin durumunun daha da zorlaşacağı vurgulandı.
+Fransa, Hollanda'da karşı oluşacak herhangi bir İslami baskı ortamında, Hollanda'ya her türlü yardımı yapacaklarını açıkladı.
+YouTube'un yayınları, filmden kesintiler içeren bir klip nedeniyle Pakistan'da durduruldu. Klibin çıkarılması sonucu YouTube tekrar yayına başladı. Bu arada oluşan bir hata nedeniyle 2 saat boyunca tüm dünyadan YouTube'a erişim engellendi.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Olasılık yoğunluk fonksiyonu</DOCTITLE>
+<TEXT>
+
+Olasılık kuramı ve istatistik bilim dallarında bir rassal değişken "X" için olasılık yoğunluk fonksiyonu bir reel sayılı sürekli fonksiyonu olup "f" ile ifade edilir ve şu özellikleri olması gereklidir:
+"X"in a ve b değerleri arasındaki olasılık, yani formula_4 şu ifade kullanılarak hesaplanır:
+Yani olasılık değeri "f(x)" integralini formula_6
+Ayrık dağılım ile sürekli dağılım arasındaki bağlantı.
+Bu maddenin başlangıcında verilmiş olasılık yoğunluk fonksiyonu tanımın bir sürekli dağılım ile ilişkili değişkenin ["a"; "b"] aralığı ile ilişkili çift-değerli ayrık dağişkenler seti kullanılarak yapılmıştır. 
+Diğer bazı aralıklı rassal değişkenleri temsili, Dirac delta fonksiyonu aracılığı ile olasılığın yoğunluğun bulunması suretiyle de yapılabilir. Örneğin, bir çift-değerli her biri ½ olasılığı olan -1 ve 1 değerli bir rassal değişken ele alınsın. Bu değişkenle ilişkili olasılık yoğunluğu şöyle verilir: 
+Daha genel olarak, eğer bir ayrık değişken reel sayılar arasından 'n' tane değişik değer alınsın; o halde bunlarla ilişkili olasılık yoğunluk fonksiyonu şudur:
+Burada formula_9 değişken ait değerler olur ve formula_10 bu değerlerle ilişkili olasılıklardır.
+Bu ifade bir ayrık değişken için istatistiksel özellikleri (örneğin ortalama, varyans, çarpıklık, basıklık) sürekli dağılım için geliştirilmiş formülleri kullanarak hesaba başlayarak sonuçların bulunmasını sağlar.
+Matematiksel olmayan olasılık yoğunluk tanımı.
+Bir olasılık dağılımı için yoğunluk fonksiyonu ancak ve ancak yığmalı dağılım fonksiyonu "F"("x") mutlak süreklilik gösteriyorsa mümkündür. Bu halde "F" için nerede ise heryerde türev bulunabilir ve "F" için alınan birinci türev olasılık ile yoğunluk şöyle bulunur:
+Eğer bir olasılık dağılım için yoğunluk bulunması mümkün ise rassal değişken için herbir nokta değer ("a") için olasılık 0 olacaktır.
+Her olasılık dağılımı için bir yoğunluk fonksiyonu bulunamaz. Başta ayrık rassal değişkenler için olasılık yoğunluk fonksiyonu yoktur. Hiçbir noktaya pozitif olasılık vermeyen, yani hiç aralık parçası olmayan Kantor dağılımı için de yoğunluk fonksiyonu bulunmaz.
+Bir yığmalı dağılım fonksiyonunun türevi ile olasılık yoğunluk fonksiyonu arasındaki ilişkinin karmaşık matematik biçimlerden biraz aranımış açıklaması istatistiksel fizik dalında geliştirilmiştir ve bu genellikle olasılık yoğunluk fonksiyonu tanımı olarak kullanılabilir. Bu tanım şöyle yapılır:
+"dt" sonsuz derece küçük bir sayı olarak alınsın. formula_12in ("t", "t" + "dt") aralığında bulunacağı formula_13 ifadesine eşittir; yani 
+Moment, beklenen değer ve varyans.
+Sürekli "X" rassal değişkeni için "n"inci momenti E("X""n") gösterilip şu ifade ile verilir:
+Beklenen değer o zaman birinci moment olup şöyle verilir:
+Varyans ise şöyle verilir: 
+Bu ifade açılırsa 
+olur.
+Çoklu değişkenlerle ilişkili olasılık fonksiyonu.
+Sürekli rassal değişkenler olan formula_19 için, bu değişkenlerinin tümünü kapsayan rassal vektör için bir olasılık yoğunluk fonksiyonu tanımlamak mümkündür. Buna ortak olasılık yoğunluk fonksiyonu adı verilir. "n" değişkenli bu yoğunluk fonksiyonu matematik notasyon biçimleriyle şöyle tanımlanır. formula_19 değişkenlerin değerleriyle tanımlanan "n"-boyutlu uzayda bulunan herhangi bir "D" sahası alınsın; bu değişken setinin "D" sahası içine düşen bir realizasyonun bulunacağının olasılığı şöyle verilir: 
+"i"=1, 2, …,"n" için tek bir değişken formula_22 ile ilişkili olasılık yoğunluk fonksiyonu 
+formula_23 olarak ifade edilsin. Bu olasılık yoğunluğu formula_19 
+rassal değişkenlerle ilişkili olasılık yoğunluklarından "n" - 1 tane diğer değişkenlerle entegrasyonu suretiyle elde edilir:
+Bağımsızlık.
+Sürekli rassal değişken olan formula_19 birbirlerinden bağımsız olmaları için 
+koşuluna tam olarak uymaları gerekir.
+Eğer "n" elamanlı bir rassal değişken vektörünün ortak olasılık dağılımı tek bir değisken için "n" değişik fonksiyona faktörize edilebilirse; yani
+ise, o halde, "n" değişkenin hepsi birbirlerinden bağımsızlık gösteriyor demektir. Bu halde her bir fonksiyon için marjinal olasılık yoğunluk fonksiyonu şöyle verilir: 
+Örneğin.
+Çoklu boyutlu olasılık yoğunluk fonksiyonlarının verilen tanımını biraz daha açığa kavuşturmak için basit bir örneğin alınsın; bu iki bilinmeyenli bir rassal vektör olsun. Koordinatları formula_30 olan iki boyutlu rassal vektör, formula_31 olarak isimlendirilsin. Pozitif "x" ve pozitif "y" kuadrantları içinde formula_31 için olasılık elde etmek şöyle
+olur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Guyana pasaportu</DOCTITLE>
+<TEXT>
+
+Guyana pasaportu Guyana vatandaşlarına uluslararası seyahat için verilir.
+Temmuz 2007 itibariyle, Guyana pasaportunun kapağında Karayipler Topluluğu'nun logosu yayımlamıştır. Pasaport, 32 sayfadan oluşur ve 5 yıllık bir geçerlilik süresi için verilir. Pasaport başvurusunda makinede okunabilir yeni pasaportlar Guyana Pasaport Ofisi tarafından 5-7 gün içinde verilir. Eski Yeşil kapak pasaport geçerlilik belirtilen süre sonuna kadar geçerli kalır.
+Tüm pasaport, Guyana Georgetown'da Merkez Göçmenlik ve Pasaport Ofisi (Guyana Polis Gücünün bir kolu) tarafından işlenir ve verilir.
+Henley Vize Kısıtlamaları Endeksi'nin Ağustos 2012 yayınına göre Guyana vatandaşları sınır kapısında vize alarak veya vizesiz 76 ülkeye seyahat edebilirler. Bu sayede Guyana vatandaşları Dünya'da seyahat özgürlüğü açısından 60. sırada yer almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kutup (karmaşık analiz)</DOCTITLE>
+<TEXT>
+
+Karmaşık analizde kutup, ya da düzgün bir söylenişle meromorf bir fonksiyonun kutbu, 1/"z""n" 'nin "z" = 0 noktasındaki tekilliği gibi davranan matematiksel bir tekilliktir. Bu özellikle şu anlama gelir: Bir "f"("z") fonksiyonun "z" = "a" noktasındaki kutbu, "z" noktası "a" noktasına yaklaştıkça "f"("z")'yi sonsuza düzgün bir şekilde yaklaştıran noktadır.
+Tanım.
+"U", karmaşık düzlem C 'nin açık bir altkümesi olsun. "a" noktası "U" 'nun bir öğesi olsun ve "f" : "U" - {"a"} → C tanım bölgesinde holomorfik bir fonksiyon olsun. "U" - {"a"} 'daki her "z" noktası için 
+ifadesinin sağlandığı "g" : "U" → C fonksiyonu ve negatif olmayan bir "n" tamsayısı varsa, o zaman "a" 'ya "f" 'nin bir kutup noktası adı verilir. Yukarıdaki şartı sağlayan en küçük "n" sayısına ise kutbun mertebesi denilir. Mertebesi 1 olan bir kutba basit kutup denirken, mertebesi 0 olan bir kutba ise kaldırılabilir tekillik adı verilir.
+Yukarıdaki çeşitli denk tariflerden ise şunlar çıkartılabilir:
+Eğer "n", "a" noktasındaki kutbun mertebesiyse, o zaman muhakkak yukarıdaki ifadede yer alan "g" fonksiyonu için "g"("a") ≠ 0 'dır. Böylece, "a" noktasının etrafındaki açık bir komşulukta holomorfik olan ve "a" 'da "n" inci mertebeden sıfır olan bir "h" fonksiyonu için 
+diyebiliriz. Yani, literatür dışında bir dille söylenirse, kutuplar holomorfik fonksiyonların sıfırlarının terslerinde (kesir olarak) olur.
+Ayrıca, "g" 'nin holomorfik olması yoluyla, "f" de 
+şeklinde ifade edilebilir. Bu sonlu "ana kısmı" olan bir Laurent serisidir. "U" üzerindeki ∑"k" ≥ 0"ak" ("z - a")"k" holomorfik fonksiyonuna "f" 'nin "düzenli kısmı" denir. Böylece, "a" noktasının "f" 'nin "n" mertebeli bir kutup noktası olması ancak ve ancak "f" 'nin "a" noktası etrafındaki Laurent serisi açılımındaki derecesi "-n" 'den küçük olan terimler yoksa ve "-n" dereceli terim sıfırdan farklıysa mümkündür.
+Notlar.
+Eğer "f" 'nin birinci türevinin "a" noktasında basit bir kutbu varsa, o zaman "a" 'ya "f" 'nin dallanma noktası adı verilir. (Tersi durum doğru olmak zorunda değildir).
+Kutup veya dallanma noktası olmayan kaldırılamaz bir tekilliğe esaslı tekillik adı verilir.
+Bazı izole edilmiş noktalar dışında holomorfik olan ve tekillikleri sadece kutuplar olan karmaşık bir fonksiyona meromorf fonksiyon adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Faul (futbol)</DOCTITLE>
+<TEXT>
+
+Faul, futbol maçlarında oyuncular tarafından yapılan ve hakem tarafından kurallara aykırı olarak tanımlanan hareketler. Futbol kurallarının 12. maddesinde "fauller ve fena hareketler" başlığıyla ele alınmış, yapılan hareketin faul olarak tanımlanması için aşağıdaki şartları sağlaması gerekmektedir:
+Hakemin faul kararı vermesinin ardından, yapılan ihlale göre hakem tarafından direkt veya endirekt serbest vuruş kararı verilir. Direkt serbest vuruşlarda vuruşun gerçekleştirilmesinin ardından top kimseye değmeden kaleye girerse gol değeri kazanabilirken, endirekt serbest vuruşlarda bu durumun aksi söz konusudur. Savunma yapan takım oyuncuları tarafından, kendi ceza alanı içerisinde yapılan fauller sonucunda ise penaltı vuruşu kullanılır. Yapılan fauller sonrasında hakem, kurallara göre oyuncuları ikaz niteliğinde olan sarı kartla veya oyuncunun oyundan ihraç edildiğini ifade eden kırmızı kartla cezalandırabilir.
+Direkt serbest vuruş.
+Aşağıda belirtilen ihlallerden birisi hakemin kanaatince dikkatsiz, kontrolsüz veya aşırı güç kullanarak yapılırsa, karşı takım lehine bir direkt serbest vuruş verilir:
+Bir oyununun aşağıdaki 3 ihlalden birini yapması durumunda ise rakip takım lehine bir direkt serbest vuruş verilir:
+Yukarıdaki ihlallerin herhangi biri bir oyuncu tarafından, kendi ceza alanı içerisinde yapılırsa; diğer takım lehine penaltı vuruşu verilmektedir.
+Endirekt serbest vuruş.
+Kaleci, kendi ceza sahasında aşağıdaki 4 ihlalden birini yaparsa, rakip takım lehine bir endirekt serbest vuruş verilir:
+Bir oyuncunun, hakemin kanaatine göre aşağıdaki ihlallerden birini yapması durumunda rakip takım lehine bir endirekt serbest vuruş verilir:
+Disiplin cezaları.
+Bir oyuncunun ikaz edildiğini belirtmek için sarı, oyundan ihraç edildiğini belirtmek için kırmızı kart kullanılır. Bu kartlar oyundaki oyunculara gösterilebileceği gibi, yedek kulübesindeki oyunculara da gösterilebilir. Hakemler; oyun alanına girdiği andan, maçın bitişi sonrasında sahadan çıkana kadar kart kullanma yetkisine sahiptir. İhraç edilen oyuncular, sahanın çevresini ve teknik alanı terk etmek zorundadır.
+Eğer bir oyuncu aşağıdaki 7 ihlalden birini yaparsa uyarı verilip, sarı kart gösterilir (ilk üç madde aynı zamanda yedek oyuncular için de geçerlidir):
+Eğer bir oyuncu aşağıdaki 7 ihlalden birini yaparsa, kırmızı kart gösterilerek oyundan ihraç edilir:
+Avantaj.
+Maç esnasında bir ihlal veya kusur oluştuğunda hakem, karşı takım avantajlı durumunu sürdürüyorsa oyunun devam etmesine izin verebilir. Hakemler, avantaj kuralını uygulamak veya oyunu durdurmak kararını verirken aşağıdaki durumları göz önüne almalıdır:
+Avantaj kuralı uygulanmış; fakat ihlali gerçekleştiren oyuncunun sarı kart görmesi gerekiyorsa, oyunun durduğu ilk anda kendisine sarı kart gösterilir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sabantoy</DOCTITLE>
+<TEXT>
+
+Sabantoy (Başkurtça: "Һабантуй", Kazakça: "Сабантой", Tatarca: "Сабан-туе", Rusça: "Сабантуй") – Türk, Kazak ve Altay halk kültüründe Yaz Bayramı (bazen Güz Bayramı). Sabantoy ("Saban-Toy:" Saban Şenliği) kimi zaman güz gündönümünde (gündüzle gecenin eşitlendiği günde) yapılan bir bayramdır. Kazaklarda güzün son sıcak günlerinde Altı Alaş’ı (ulusu) ve temsilcilerini toplayıp, onlara yemek verme geleneği vardır. Bu yemekte ozanlar atışır, at yarışı, güreş ve kokpar düzenlenir. Yılın en iyi ve en verimli iş yapan çiftçilerine de hediyeler verilir. Ancak çoğu zaman bir yaz bayramı olarak 23 Haziranda kutlanır. Çuvaşlar bu bayrama Akatuy (Çuvcaşça: Акатуй) adı verirler.
+Türk Kültüründe Saban.
+Saban, tarımda kullanılan tarlayı ekme öncesi toprağı kaldırma için kullanılan bir alettir. Anadoluda büyük sabanlara Köten (Azerice: "Kotan") adı verilir. Tarımı ve bereketi sembolize eder. Saban demiri: Saban demiri, sabanın önemli bölümüdür ve "Tış" veya "Buylu" adı verilir. Demirin kutlu bir metal olması onu önemli kılar. Koşumda kullanılan ağaç kısma ise, "Ok" adı verilir. Yine ok Türk kültüründe hem bir silahtır hem de Türk birliğini ve kavimlerini sembolize eden bir kavramdır. Örneğin Bozoklar, Uçoklar gibi...
+
+</TEXT>
+</DOC>
+

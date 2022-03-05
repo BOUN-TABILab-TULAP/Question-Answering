@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çift	çift+Adj
+Çift	Çift+Noun+Prop+A3sg+Pnon+Nom
+
+çenekli	çenek+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+bitkilerin	bitki	+Noun+A3pl+Pnon+Gen
+bitkilerin	bitki	+Noun+A3pl+P2sg+Nom
+
+damar	damar	+Noun+A3sg+Pnon+Nom
+
+yapısı	yapı+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+yapısı	yapı+Noun+A3sg+P3sg+Nom
+
+nasıldır	nasıl+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

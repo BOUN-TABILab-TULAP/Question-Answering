@@ -1,0 +1,128 @@
+Question: Fuji dağının yüksekliği ne kadardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>35 mm</DOCTITLE>
+<TEXT>
+
+35 mm fotoğrafçılık ve sinemada yaygın olarak kullanılan temel film ölçüsüdür. George Eastman tarafından tedarik edilen ham filmi kullanarak, William Dickson ve Thomas Edison'un 1892'de icat ettiği 35 mm film, o zamandan bu yana nerdeyse hiç değişmeden kalmıştır. 35 mm, adını filmin 35 mm (yaklaşık 1 3/8 inç) genişliğindeki şeritler halinde kesilmesinden almıştır. Her kademi 16 kare yapan standart negatif dirençin her iki kenar boyunca her karede dört deliği olur.
+Çoğunlukla tescilli ölçülerin çeşitli genişliği farklı sayıda kamera ve geç 19 yüzyıl ve erken 20 yüzyıl çevresinde icat edilmiş gösterim sistemleri tarafından 13mm den 75mm kadar değişerek kullanılmıştır. Sonunda 35mm 1909'da uluslararası standart ölçü olarak kabul edilmiştir ve görüntü gösterimi ve yaratılışlarının her ikisi için hakim film ölçüsü olarak kalmıştır. Geniş ve küçük ölçülerinin her ikisinin ve tuhaf biçimlerin tehditlerine rağmen ömürleri uzun oldu, çünkü bu ölçü yakalanmamış görüntülerin iyi özelliği (Good Quality) ve film stoklarının masrafı arasında oldukça iyi bir alışverişe izin verir. Ayrıca ticari film tiyatrolarındaki 35mm film göstericilerinin her yerde mevcut olması; 35 mm'yi sadece hareketli görüntü biçimleri, film veya video ve dünyanın hemen hemen tüm sinemalarında oynatılabilir hale getirdi.
+Ölçü kullanımı olağan üstü bir biçimde çok yönlüdür. Geçen yüz yıllar içinde, içerdiği sese göre değiştirilmiştir, bir güvenli film temeli yaratımı için tekrar tasarlanmıştır, yakalanan renkler için folmüle edilmiştir, geniş ekran biçimlerinin bir grubuna yer tedarik edilmiştir, ve karesiz bölgesinin yaşlaşık olarak tümünün içine ses verisi katılır. 21. yüzyılın başından beri 35mm'in hareketli resim filmlerinin üretimi Eastman Kodak ve Fuji film ikilisinindir.
+Erken tarih.
+George Eastman Rochester’da kuru fotoğrafik jelatin plakaların yapımına başladı. Jelatin katmanla kaplanmış resim nakliyesinin kağıdının rulosu için tutacak keşfetti. 1887'de ilk saydam Nitrocellulos film tabanının Hannibal Goodwin tarafından icadı ile; Emile Reynaud ilk esnek film stoklarını geliştirdi. Eastman olan ilk büyük şirket, bu birleşenleri toplu üretimin içine eklemek için, 1889’da Eastman kuru jelatin bromür emülsiyonunun üstüne elenmiş kâğıt ve bu temiz tabanı kaplamasını gerçekleştirdi.
+Esnek filmin gelişiyle, Thomas Alva Edison hızlıca icadını kurdu, Kinescope, Brooklyn sanat ve bilim enstütüsünde şovunu 9 mayıs 1893'de yaptı. Kinescope bir kişinin seyretmesi için icat edilmiş film döngü sistemidir. Edison'un silindir fotoğrafı Kinetoscope’un icadı olan Kinetophone’u uzun zaman Edison’un yanında asistanlık yapmış olan W. K. L. Dickson geliştirdi. 1892 martı başında, Estman ve sonra, Nisan 1893-1896 içinde, New York's Blair Camera Şirketi 1 Edison'a 9/16-inchlik delinecek ve kesilecek olan filmstock'unu Edison'un laboratuarında 35mm film şeridi ölçüsü yaratımı için temin etti. (1894 veya 1895'de bazı zamanlarda, Blair Edison'a tanımlama için kesilmiş depoları göndermeye başladı.) Edison'un bölmeyi (diaphragma) yalnız filmin bir karesini 4 delikli yüksekliği tanımlar. Edison özel bariz (patent) yasalarını 35mm hareketli resim filminin tasarımı(Design) için her karede dört zincir dişli delik ile büyük film yapımcılarını zorlayarak, American Mutoscope ve Biograph Şirketi, izole beslenme kullanan bir 68mm film kullanmak için,zincir dişli delikleri olmayan, filmi camera'ya sürdüler. Bir mahkeme yargısı mart 1902'de Edison'un isteğini iptal etti. İzin verilen her üretici veya dağıtıcı Edsison'un 35mm film tasarımını(Design) lisansız kullandı. Film yapımcıları zaten Edison'un patent dosyanın başarız olduğu İngilterede ve Avrupada böyle yaptı. Bir değişim Lumiére Brothers üstünde karelerin her tarafı yatay eksenin ortasına doğru bir yalnız dairesel delikler kullandı. Bu Edison'un biçimi oldu, ancak, oluşan de facto standard'ın ve sonra, 1909 da, resmi standard Hareketli Resim Patentleri Şirketinin yeni biçim verilmişinin resmi standardı, edison tarafından doğrulandı. Scholar Paul C. Spehr bu gelişmlerin önemini tarif etti.
+35mm erken kabulu bir standard olarak kameranın gelişimi ve yayılımı üstünde önemli bir etkiye sahipti. Standard ölçüsü dünyanın her yerinde gösterilen filmler için olanaklı yapıldı. Bu, güvenilir tahmin edilebilir biçimler için üretim, dağıtım ve filmlerin sergisi, hızlı yayılımı ve filmlerin kabulünü, dünya çapında aletlere göre eğlence ve iletişim için kolaylaştırarak bir uniforma sağladı.
+Film biçimi durgun fotoğraf için 1913den erken tanıtıldı(turist çok yönlü) ama ilk defa Oskar Barnack tarafından 1913de yapılan Leica'nın kamerasıyla popüler oldu.
+Teknik şartnamesi.
+35mm film'in SMPTE tarafından standatlandırırmış teknik şartnamesi
+1000 kadem ortalama 11 dakika 24 fpsde
+35 mm küresel 
+Süper 35 mm film 
+35 mm anamorfoz
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>36 Fuji Dağı Manzarası (Hokusai)</DOCTITLE>
+<TEXT>
+
+Bu seri Fuji Dağı'na odaklanan en ünlü ukiyo-e serisi olsa da, aynı konuda pek çok başka seri de mevcuttur. Hiroshige'nin "36 Fuji Dağı Manzarası" ile yine Hokusai'ye ait olan "100 Fuji Dağı Manzarası" da bunların arasındadır. Fuji Dağı, kültürel ve dini önemi sebebiyle Japon sanatının en popüler konularından biridir. "Bambu Kesicisinin Öyküsü" (Japonca: 竹取物語; "Taketori Monogatari") isimli 10. yüzyıldan kalma halk öyküsünde bir tanrıçanın hayat iksirini dağın zirvesine sakladığı anlatılır. Bu yüzden de Henry Smith'e göre "Fuji Dağı eskiden beri ölümsüzlüğün sırrının bulunduğu yer olarak görüldü ve bu gelenek Hokusai'nin dağa ilişkin saplantısının da kaynağını oluşturuyordu."
+Serideki resimler arasında en ünlüsü İngilizcede ("Kanagawa Açıklarında Büyük Dalga") olarak bilinen resimdir. Resmin isminin daha doğru tercümesi "Kangawa Açıkları, Bir Dalganın Sırtı (ya da Altı)" şeklindedir. Resimde büyük bir dalga üç tekneyi tehdit ederken Fuji Dağı arka planda yükselmektedir. Genelde tsunami olduğu düşünülse de dalga, aslında muhtemelen büyük bir okyanus dalgasıdır.
+Her resim önce kağıda çizilmiş, ardından bu çizim yardımıyla baskıda kullanılacak tahta bloklar oyulmuştur. Daha sonra mürekkep ile kaplanan bu bloklar kağıda bastırılarak resimler oluşturulmuştur. Hokusai'nin resimlerindeki karaşıklığın kaynağı, kullanılan renklerin çeşitliliğidir. Ressam resimdeki farklı renkleri, farklı mürekkeplerle kaplanmış bir dizi tahta blok kullanarak elde etmiştir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fuji Dağı</DOCTITLE>
+<TEXT>
+
+, 3.766 m (12.385 ft) yüksekliğiyle Japonya’daki en yüksek dağdır. Fuji, aynı zamanda etkin bir yanardağ olmasına karşın, 1707-08 yıllarındaki patlamasından bu yana volkanik etkinlik göstermemiştir.
+Fuji Dağı, uzun eğimli koni biçiminde bir yanardağdır. Tepe kısımları bir hayli soğuk ve her daim karlıdır.
+Fuji-Hakone-Izu Millî Parkı'nda yer alan Fuji'nin çevresinde pek çok göl ve ormanlık alan bulunmaktadır. Dağ, açık ve nemsiz bir günde, Japonya'nın başkenti Tokyo'dan da görülebilmektedir.
+Japon halkı, eski çağlardan beri Fuji Dağı’na kutsal bir dağ olarak tapmıştır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fuji Bank</DOCTITLE>
+<TEXT>
+
+The Fuji Bank, Limited (Japonca: 株式会社富士銀行), II. Dünya Savaşı sonrası dönemde Japonya'nın en büyüklerinden biri olan eski ticari banka. 2000 yılında Japonya Sanayi Bankası ve Dai-Ichi Kangyo Bank ile birleşmesiyle Mizuho Bank kuruldu.
+Bankanın kökeni, Yasuda Şirketler Topluluğu'nun kurucusu Yasuda Zenciro'nun 1860'larda başlattığı ödünç para işlemlerine dayanır. 1880'de Yasuda Bank adını alan kuruluş, şirketler topluluğunun mali kolunu oluşturdu. II. Dünya Savaşı'ndan sonra Yasuda Grubu'nun dağılması üzerine banka 1948'de Fuji Bank adıyla yeniden oluşturuldu.
+2000 yılında Fuji Bank, Japonya Sanayi Bankası ve Dai-Ichi Kangyo Bank birleşme kararı aldı ve bütün hisseleri yeni kurulan Mizuho Holding'e devredildi. 2002 yılında Mizuho Corporate Bank adını alan Fuji Bank, Japonya Sanayi Bankası'nın kurumsal, Dai-Ichi Kangyo Bank'ın ise tüm operasyonlarını devraldı. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hokusai</DOCTITLE>
+<TEXT>
+
+Katsushika Hokusai (葛飾北斎) (d. 1760, Edo - ö. 10 Mayıs 1849), Japonya'da Edo döneminde yaşamış Japon sanatçı, ressam, oymabaskı ustası, tahta oymacısı ve ukiyo-e ressamıdır.
+Edo (günümüzdeki adı Tokyo) doğumlu Hokusai'ın en bilinen eseri, 1820li yıllarda ürettiği, uluslararası üne sahip Kanagawa'nın Büyük Dalgaları'nın da dahil olduğu 36 Fuji Dağı Manzarası adlı ahşap baskı serisidir. Bu seri hem yerel seyahet hareketi hem de kişisel Fuji Dağı takıntısı ile yaratılmıştır. Hokusai'a önce Japonya'da ve sonrasında dünyada üne kavuşturan işte bu seri ve özellikle serinin Kanagawa'nın Büyük Dalgaları ve Bulutsuz Havada Fuji Dağı (ya da Kızıl Fuji) eserleridir.
+Dış bağlantılar.
+Baskılar
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>36 Fuji Dağı Manzarası</DOCTITLE>
+<TEXT>
+
+36 Fuji Dağı Manzarası iki farklı Japon ukiyo-e sanatçısının iki ayrı baskı serisine verilen addır:
+Edebiyatta, İngilizce "Thirty-Six Views of Mount Fuji: On Finding Myself in Japan", Cathy N. Davidson tarafından yazılan ve Hokusai'nin baskılarını ana motif olarak kullanan güncedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İzu Yarımadası</DOCTITLE>
+<TEXT>
+
+İzu Yarımadası (Japonca: 伊豆半島, İzu-Hanto), Japonya'da, Honşu Adasının Şizuoka ilinde ("ken") yarımada. 
+Suruga Körfeziyle (batı) Sagami Denizi (doğu) arasından Büyük Okyanusa doğru uzanır. Fuji Volkanik Kuşağı'nın içinde kalan yarımadanın uzunluğu 60 km'dir. Güney kesiminin büyük bölümü volkanik breşlerle kaplıdır; kuzey kesimindeyse başta doğudaki Amagi (1.406 m) ve Atami (774 m) dağları ile batıdaki Daruma Dağı (982 m) olmak üzere çok sayıda yanardağ vardır. Bu dağlar tektonik hareketler sonucunda biçim değiştirmiş ve aşınmış, Atami Dağının doğu yarısıyla Daruma Dağının kuzey va batı kesimleri denize doğru kırılmıştır. Kuzeydeki Kano Nehri vadisi bir graben olarak kabul edilir.
+İzu Yarımadasında çok sayıda volkanik ve tektonik kökenli sıcak su kaplıcası vardır. En önemlileri Atami, İto ve Şuzenci olan bu kaplıcalar ılık geçen kış mevsimi boyunca çok sayıda turisti bölgeye çeker. İro Burnunun kuzeydoğusunda yer alan Şimoda limanında, 1854'te Japonya'yı dışa açılmaya zorlamak için bölgeye gönderilen Matthew C. Perry komutasındaki ABD filosu demirlemişti.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fuji Speedway</DOCTITLE>
+<TEXT>
+
+Fuji Speedway - Japonya'da Formula 1 yarışlarının yapıldığı pist. Tur kaydı Felipe Massa'ya (1:18.426) aittir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fuji Television</DOCTITLE>
+<TEXT>
+
+, (ya da "CX"), Daiba, Minato, Tokyo, Japonya merkezli bir Japon televizyon kanalı. Kanal, Fuji News Network (FNN) ve (FNS) şirketleri bünyesinde bulunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Subaru</DOCTITLE>
+<TEXT>
+
+Subaru, Fuji Heavy Industries tarafından 1953 yılında kurulan Japon otomobil üreticisi. Subaru'nun ana firması Fuji Heavy Industries şu an Toyota ile kardeş firmadır. Toyota FHI'ın hisselerinin %16.5'ini elinde tutmaktadır.
+
+</TEXT>
+</DOC>
+

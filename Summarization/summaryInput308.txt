@@ -1,0 +1,234 @@
+Question: Biyokütle enerjisinin ne gibi avantajları vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Biyokütle</DOCTITLE>
+<TEXT>
+
+Endüstriyel anlamda biyokütle, yaşayan ya da yakın zamanda yaşamış biyolojik maddelerden yakıt elde edilmesi ya da diğer endüstriyel amaçlarla kullanılması ile ilgilidir. Yaygın olarak, biyoyakıt elde etmek amacı ile yetiştirilen bitkiler ile lif, ısı ve kimyasal elde etmek üzere kullanılan hayvansal ve bitkisel ürünleri ifade eder. Biyokütleler, bir yakıt olarak yakılabilen organik atıkları da içerir. Buna karşın, coğrafi etkilerle değişikliğe uğramış, kömür, petrol gibi organik maddeleri içermez. Genellikle kuru ağırlıkları ile ölçülürler.
+Biyoyakıtlar, biyoetanol, biyobütanol, biyodizel ve biyogazlarla ilgilidir.
+Biyokütle elde etmek üzere, şeker kamışı, şeker pancarı, mısır, dallı darı, arpa, keten tohumu, ayçiçeği, kolza, soya fasulyesi gibi pek çok değişik bitki yetiştirilebilir. Petrol bağımlılığı azaltma ve küresel ısınma ile mücadelede yenilenebilir yakıtların artan önemi nedeniyle biyokütle üretimi büyüyen bir endüstri haline gelmiştir.
+Biyokütleler de, petrol ve kömür gibi, güneş enerjisinin depolanmış halidirler. Bitkiler güneş enerjisini fotosentez aracılığıyla tutarlar.
+Biyoyakıtların içerisindeki karbon, bitkilerin havadaki karbondioksiti parçalaması sonucu elde edildiği için, biyoyakıtların yakılması, dünya atmosferinde net karbondioksit artışına neden olmaz. Bu nedenle, pek çok insan, atmosferdeki karbondioksit miktarının artışına engel olabilmek için, fosil yakıtlar yerine biyoyakıtların kullanılması gerektiği görüşünü savunmaktadırlar.
+Biyoyakıtlar, enerji dışında 
+üretiminde de kullanılırlar.
+İnsan eliyele biyokütle üretimi ve tüketimi aşağıdaki gibidir.
+Kaynak: Primary Productivity of the Biosphere, yazar Whittaker, R. H., yardımcı yazar Likens, G. E., bölüm Biyosfer ve İnsan, sayfalar 305-328, editörler Helmut Lieth ve Robert Whittaker, yayıncı Springer-Verlag, ISBN 0-387-07083-4, 1975; Ecological Studies, Vol 14 (Berlin)
+Ayrıca bakınız.
+biyokütle, bir ekosistemdeki belirli bir türe ait bireylerin toplam ağırlığıdır. 
+besin zincirinde kullanılır. 
+besin zincirinde, üreticilerden tüketicilere doğru gidildikçe biyokütle azalır. 
+biyokütlesi en çok olan canlılar üreticilerdir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Şeftali</DOCTITLE>
+<TEXT>
+
+Şeftali ("Prunus persica"), gülgiller (Rosaceae) familyasından bir yaz meyvesi. Dünyaya Çin'den yayıldığı düşünülen şeftali, uzun yaşam ve ölümsüzlük sembolüdür. Bol sulu ve tatlıdır.
+Ilıman iklimi seven bir bitkidir. Genellikle 30 yıl yaşar. Türkiye'de en çok Bursa ve Akdeniz bölgelerinde tarımı yapılır. Meyvesi taze tüketildiği gibi suyu çıkarılarak meyve suyu yapılır. Bu meyvenin ekonomik değeri yüksek olup çok tüketilmektedir. Ağaç boyu genellikle 2 ve 2,5 metre olup yaz mevsiminde meyve verirler. Dona karşı dayanıksızdır.
+Şeftalinin içinin geniş kullanım alanının dışında çekirdeği de yakıt olarak kullanılabilir. Çok sayıda olan ve ağacı örten yaprakları, sapında 2-5 adet balozu bezi bulunan kenarları dişli, yeşil renkli ve ok ucu biçimlidir. İlkbaharda erkenden ve yaprağından önce açan pembe renkli çiçekleri yabani güle benzer. Çeşitlerine göre Haziran'dan Eylül ayına kadar olgunlaşan şeftali meyvelerinin pek çok çeşidi (Türkiye'de yaklaşık 64 çeşit) vardır. 
+Şeftali çekirdeği, kabuğu yakıt olarak kullanılabilir ayrıca bazı fiziksel işlemlerden sonra çekirdeğin içerisindeki tanecik hayvan yemi olarak da kullanılabilir. Şeftali çekirdeğinin kabuğu yakacak olarak kül oranı az ve kükürt oranı düşük bir temiz enerji kaynağıdır. Fırınlarda, seralarda, hamamlarda, kalorifer sistemlerinde, tavuk çiftliklerinde kullanılabilen alternatif bir enerji kaynağıdır. Şeftali çekirdeği gibi ürünler biyokütle olarak adlandırılan sıvı ve gaz yakıtların dışında tutulan yenilenebilir bir enerji kaynağı olarak küresel ısınma, kirlilik, doğal kaynakların azalması gibi sebeplerden dolayı tavsiye edilmektedir.
+Etimoloji.
+Şeftali Farsça kökenli bir sözcüktür. Orijinali şaft-alu biçimindedir ve kaba erik demektir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kaynaklarin Çevreye Etkisi (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Termik Santrallerin Çevresinde Neler Oluyor?
+Termik santrallerde soğutma, buhar elde etme ve temizleme gibi çeşitli amaçlarla su kullanılır ve bu işlemler sonucunda oluşan atık sular toprağa, akarsulara, yer altı sularına ya da Gökova’da olduğu gibi denize karışır.
+Yatağan Termik Santrali'nin soğutma suyu, Dipsiz ve Çine Çaylarından temin edilmektedir. Yatağan Termik Santrali’ne Dipsiz su kaynağından saatte 1600 m3 su alınmakta ve alınan su, soğutmadan önce çeşitli kimyasal maddelerle işlemden geçirilip kullanıldıktan sonra tekrar akarsuya boşaltılmaktadır. Dolayısıyla akarsu, başta demir ve sülfat bileşikleri olmak üzere bol miktarda ağır metallerle kirlenmektedir.
+Termik santral reaktöründe linyit kömürünün yanması sonucu atmosfere yayılan küller ve zehirli gazlar asit yağmurlarına neden olmaktadır. (Fotoğraf 1)
+Termik santrallerden çıkan baca gazlarının ormanlara ve tarım ürünlerine verdiği zararın boyutu büyüktür. Yatağan Santrali'nin yarattığı hava kirliliği güneydeki Bencik Dağı-Sepetçi Dağı yamaçlarında 40 bin hektar alanda ormanların zarar görmesine, kurumasına ve çevredeki tarım alanlarının olumsuz yönde etkilenmesine neden olmuştur.
+Gökova Termik Santrali’nden yayılan baca gazlarının Datça üzerine çöktüğü ve bu gazların 1800-1900 m yükseklikte Bey Dağlar’ını etkilediği de görülmüştür. Baca gazları sonucu oluşan asit yağmurları toprağı ve tarımı olumsuz yönde etkilemektedir.
+Çevredeki köylerde; zeytin, incir, badem ağaçları, üzüm bağları, sebzecilik ve tütün zarar görmektedir. Ayrıca termik santrallerin yaydığı cıva çocuklarda sinir sisteminin gelişmesini ve öğrenme yeteneğini olumsuz yönde etkilemektedir. 1999’un sonunda Amerika'da yayınlanan 'Cıva Yağıyor:	Kömürlü Termik
+Santrallerden Kaynaklanan Cıva Kirliliğinin Bir Analizi' adlı rapor, bugüne kadar hesaba katılmayan bir tehlikeye dikkat çekmektedir. ABD’deki termik santrallerden her yıl havaya 50 ton cıva yayıldığının belirlendiği raporda, yine bu termik santrallerde her yıl toplam 40 ton kadar cıva içeren katı atığın ortaya çıktığı da açıklanmaktadır.
+2.	Petrol ve Çevre
+Petrol ürünleri uçaklarda, arabalarda, evlerin ısıtılmasında, ilaç ve plastik ürünlerin yapımı gibi hayatın çok değişik alanlarında kullanılmaktadır. Petrol, hayatı kolaylaştırmasına rağmen arama, üretim, taşıma ve kullanma aşamalarında hava ve su kirliliği gibi çevre sorunlarına neden olmaktadır.
+Petrolün aranması ve sondaj yapılması aşamalarında karaların ve okyanusların doğal ortamı bozulmaktadır. Depolama tankları ve boru hatlanndaki sızıntılar sonucu petrol ürünleri toprağa karışarak kirliliğe neden olmaktadır. Petrolün araçlarda yakıt olarak kullanılması sonucu atmosfere yayılan egzost gazlan hava kirliliği ve küresel ısınmaya sebep olmaktadır.
+a- Petrol Tankeri Kazaları İle Ortaya Çıkan Ekolojik Felaketler
+Dünya denizlerinin kirlenmesinde kaza yapan petrol tankerlerinin payı oldukça büyüktür. Dolum tesislerinden rafinerilere taşınması sırasında karaya oturan, çarpışan tankerlerden dökülen petrolün su yüzeyine yayılması veya yanması, yarattığı kirliliğin yanı sıra ekolojik dengede de büyük hasara yol açmaktadır (Fotoğraf 2). Kirlilikten en çok akıntıların az olduğu körfezler, koylar ve iç denizler etkilenmektedir.
+b- Dünya Denizlerini Etkileyen Başlıca Tanker Kazaları
+Exxon Valdez (Ekson Valdez):	Son	50	yılda	yüzlerce tanker kazasına sahne olan dünya denizleri, hâlâ kazaların izlerini taşıyor. Her kaza, bizlere ekolojik facia olarak geri dönüyor bugüne kadar yaşanmış en büyük çevre felaketlerinden biri 24 Mart 1989 günü Alaska Körfezi’nin Prince William Sound (Prins Vilyım Saund) açıklarında aysberglerden kurtulmak için manevra yaparken kayalıklara çarpan Exxon Valdez tanker kazasıdır. Kazada 10.8 milyon galon petrol denize akmıştır. Bölgedeki doğal yaşam bundan yoğun şekilde etkilenmiş; deniz kuşlarından katil balinalara kadar bölgede yaşayan birçok türden hayvan ölmüştür. Temizleme çalışmaları gerek bölgenin konumu gerekse bu çapta bir kazanın daha önce yaşanmamış olması sebebiyle pek etkili olmamıştır. Felâket sonrasında petrol taşımacılığına ilişkin birçok yeni yasa çıkarılmış, dünya çapında olası çevre felaketlerine müdahale tekniklerinden tankerlerin çift cidarlı olmasına kadar birçok konuda gelişmeler kaydedilmiştir.
+Amaco Cadiz (Emako Kadiz): Fransa'nın Bretagne (Bretan) Bölgesi’nde küçük bir liman olan Finistere (Finistör)’ün dört mil açığında 16 Mart 1978 günü karaya oturan Liberya bandıralı Amaco Cadiz adlı petrol tankeri, Atlas Okyanusu’nun doğu kıyılarını etkileyen bir petrol kirliliğine yol açmıştır. Olayda 223 bin ton ham petrol denize dökülmüş ve 400 km'den daha uzun kıyı şeridinin (batıda Saint-Mathieu (Sen Metyu) Burnu’ndan doğuda Brehat (Brihet) Adası’na kadar) kirlenmesine neden olmuştur. Petrol yüzünden okyanus ekosistemi bozulmuştur.
+3. Nükleer Santrallerin Sebep Olduğu Çevresel Sorunlar
+Radyoaktif maddeler kullanılarak elde edilen nükleer enerjinin büyük kısmından elektrik enerjisi elde edilir. Nükleer santrallar (Fotoğraf 3), enerji elde edilirken termik santrallerde olduğu gibi dışan karbondioksit (C02)ve kükürtdioksit (S02) gibi çevreye zararlı gaz ve kül bırakmaz. Ancak reaktörden çıkan kullanılmış yakıt, yüksek radyoaktiviteye sahip birçok madde içerir. Bu nükleer atıkların çevreye ve insana zarar vermeden tasfiyesi çok önemli bir problemdir.
+Radyoaktif atıkların dış ortamla irtibat kurmaları telafisi mümkün olmayan sorunlara yol açabilir. Bu konudaki en önemli tedbir, radyoaktif atıkların yeryüzünün 500 ile 1200 m altında, yer altı su kaynaklarına uzak yerlerde özel depolara gömülmesidir.
+Ayrıca atıklar yüksek sıcaklıkta cam eriyiği ile karıştırılıp metal silindirler içine boşaltılır ve soğuduğunda camsı bir yapı oluşturur. Cam suda çözünmeyen bir malzeme olduğundan yer altındaki nükleer atıkların yeryüzüne çıkma ihtimali daha da azalmaktadır. Aslında nükleer atıkların tehlikesi kurşun, cıva ve arsenik gibi zehirli atıklara kıyasla daha azdır. Çünkü radyoaktif atıkların radyoaktivitesi zamanla azalırken zehirli atıklar çevreye atıldıkları ilk günkü gibi kalır.
+Nükleer parçalanma çok kısa sürede çok fazla enerjinin ortaya çıkmasını sağlar. Santrallerde bu enerjinin etkisiyle çok sıcak bir ortam oluşur. Bundan dolayı santraller sürekli olarak soğutulmak zorundadır. Soğutma işlemi de akarsulardan veya denizlerden alınan suyla yapılmaktadır. Soğutma işlemi için kullanılan su, dışarı verildiğinde yüksek oranda ısınmakta ve o yöredeki canlılarının ölmesine sebeb olmaktadır.
+4.	Hidroelektrik Santrallerinin Sebep Olduğu Çevresel Sorunlar
+Hidroelektrik enerji üretiminin doğal, tarihî, kültürel varlıklar ve sosyoekonomik çevre üzerinde etkileri mevcuttur. Barajlar yapılırken su altında kalan taşınmazlar ve yöre halkının yeniden iskânı gibi sorunlar ortaya çıkmaktadır.
+Hidrolik enerjinin mikroklimatik, hidrolojik ve biyolojik çevreye etkileri vardır. Baraj gölünün geniş yüzey alanı buharlaşmayı artrmakta, tarım arazilerinde tuzlanma ve çoraklaşma olmakta, sudan kaynaklanan paraziter hastalıklara neden olmaktadır. Rezervuar altında kalan bitki ve ağaçların kesilip temizlenmemesi ile denge oluşuncaya kadar birkaç yıl su kalitesi olumsuz yönden etkilenmektedir.
+Baraj gölü nedeniyle su yüzeyinin genişlemesi insanlar için zararlı bazı organizmalann üremesine neden olabilmektedir. Suda üreyebilen mikroplar, gerek taşıyıcı gerek taşıyıcısız olarak çeşitli hastalıkların yayılmasına yol açabilmektedir.
+5.	Yenilenebilir Enerji Kaynaklarının Sebep Olduğu Çevresel Sorunlar
+Hidroelektrik enerji - Taşkın koruma, çevre ziraati-ni geliştirme, balıkçılığı destekleme, ağaçlandırma gibi etkileri vardır.	
+Güneş enerjisi - Güneş kaynaklı enerji üretim sistemlerinde atmosfere veya herhangi bir alıcı ortama direkt bir kirletici (zehirli gazlar, sera gazları vb.) emisyonu bulunmamaktadır.	
+Jeotermal enerji - Jeotermal akışkan, bünyesindeki yoğuş-mayan gazlar nedeni ile az da olsa asit kirleticilere katkı yapabilmektedir.
+Biyokütle enerjisi - Çöp ve benzeri bazı atıkların yakılması sonucu ortaya çıkan atıklar hava ve çevre kirliliğine neden olur.
+Rüzgâr enerjisi - Büyük arazi kullanımı, gürültü, görsel ve estetik etkiler, doğal hayat ve habitata etki, elektromanyetik alan etkisi, gölge ve titreşimler gibi olumsuz etkileri vardır.
+6.	Madenciliğin Çevre Kirliliğine Etkileri
+Maden çıkarılması ve işlenmesi faaliyetleri sırasında birtakım çevre bozulmaları ortaya çıkmaktadır. Doğal arazi yapısının değiştirilmesi ile beraber bitki örtüsü, toprağın verimli olan üst kısmı yok edilmekte, topraktaki asit oranı değişime uğramakta, toprakta zehirli madde (sülfat) birikmekte ve kil oranının artması ile toprak verimsizleşmekte, yer üstü ve yer altı suları kirlenmektedir. Bu faaliyet ile kısmen hava kirliliği de oluşmaktadır.
+Madencilik faaliyetleri ile bozulan çevrenin, geri kazanma ile eski dengesi kurulamasa bile verilen zararı en aza indirmek olanaklıdır. Bunun için meydana gelen boşluklar doldurulmalı, hızlı gelişen bazı ağaç türleri ile ağaçlandırma yapılıp yeni bir bitki örtüsü meydana getirilmelidir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’Deki Enerji Kaynaklari (EBA)</DOCTITLE>
+<TEXT>
+
+Çok çeşitli enerji kaynaklarının bir ülkede bulunmasına sık rastlanmaz. Ülkemizde durum farklıdır. Genel olarak bakıldığında ülkemiz enerji kaynakları bakımından zengin bir ülkedir. Sahip olduğumuz bu kaynakları etkin bir şekilde değerlendirdiğimizde enerji sıkıntısı çekmeyeceğimizi söyleyebiliriz. Türkiye’deki enerji kaynakları aşağıdaki şemada gösterilmiştir.
+Taş kömürü - Biyokütle enerjisi - Petrol - Rüzgâr gücü - Nükleer yakıtlar - Su gücü
+1.	Taş Kömürü
+Paleozoikte oluşmuş bir kömür türüdür. Taş kömürü, kalorisi yüksek olduğundan ülkemizde demir-çelik sanayisinde yakıt olarak kullanılır. Taş kömürünün büyük bir bölümü Ereğli ve Karabük'teki demir-çelik fabrikalarında geri kalanı ise Çatalağzı Termik Santrali’nde elektrik üretiminde kullanılır.
+2.	Linyit
+Taş kömürüne göre kalori değeri daha düşük olan linyit, tersiyerde oluşmuş bir kömürdür, ülkemiz linyit yatakları bakımından oldukça zengindir, ülkemizde üretilen linyitin yarıdan fazlası termik santrallerde, geri kalan kısmı ise konutların ısıtılmasında ve sanayide kullanılır. Linyitle çalışan başlıca termik santrallerimiz: Soma ( Manisa), Seyitömer ve Tunçbilek ( Kütahya), Yatağan, Yeniköy ve Kemerköy ( Muğla), Afşin-Elbistan (Kahramanmaraş), Çayırhan (Ankara) ve Orhaneli ( Bursa)’dir.
+3.	Petrol
+Çok önemli bir enerji kaynağı olan petrol, uğrunda savaşların çıktığı bir madendir. Büyük ölçüde tersiyerde oluşmuş arazilerde bulunan bir yer altı kaynağıdır. Türkiye'nin bugünkü yıllık ham petrol ihtiyacının ancak %10’u ülkemizden elde edilmektedir.
+Batman Petrol Rafinerisi
+ülkemizin ilk rafinerisi olan Batman Rafinerisi 330 bin ton (yılda) kapasite ile 1955 yılında Batman’da kurulmuştur. Artan talebi karşılamak üzere rafinerinin kapasitesi 1960 yılında tamamlanan Darboğaz Giderme Çalışması’yla 580 bin tona (yılda) çıkarılmıştır. Yenileme çalışmaları aralıksız devam eden Batman Rafinerisi’nin ham petrol işleme kapasitesi yeni bir ünitenin işletmeye alınması ile 1972 yılında 1,1 milyon tona ulaşmıştır.
+4.	Doğal Gaz
+Organik kökenli yanıcı bir madde olan doğal gaz, petrol rezervlerinin çevresinden çıkarılır. Kükürt bileşikleri, kül gibi partikülleri yaymadığı için diğerlerine göre daha temiz bir yakıt olması nedeniyle son yıllarda kullanım alanı yaygınlaşan doğal gazın üretimi ülkemizde azdır. Yıllık doğal gaz ihtiyacımız yaklaşık
+10 milyar m3 iken ülkemizde üretilen yıllık doğal gaz miktarı 250-750 milyon m3 kadardır. Bu nedenle doğal gaz ithalatımız oldukça fazladır. Çünkü 2006 yılının II. döneminde elektrik üretimimizin % 44,36’sı doğal gazdan elde edilmiştir. Bunun yanında sanayide ve konutlarda da kullanımı oldukça yaygınlaşmıştır. Türkiye'nin en çok doğal gaz aldığı ülke Rusya Federasyonu'dur.
+Doğal gaz ile elektrik elde eden santrallerimiz: Hamitabat (Kırklareli), Ambarlı (İstanbul) ve Ovaak-ça (Bursa)'dır (Fotoğraf 12).
+5.	Su Gücü (Hidroelektrik güç)
+Su gücü, en güvenilir ve en temiz enerji kaynağıdır. Türkiye'nin ortalama yükseltisinin fazla olması akarsulann dar ve derin vadilerde akması nedeniyle hidroelektrik potansiyeli oldukça fazladır.(Grafik 2)
+Türkiye, hidroelektrik potansiyel bakımından Avrupa'da Rusya ve Norveç'ten sonra üçüncü sıradadır. 2010 yılında Türkiye'de üretilen elektrik enerjisinin yaklaşık % 24,5'i hidroelektrik santrallerden karşılanmıştır.
+6.	Rüzgâr Gücü
+Çevreyi kirletmeyen temiz ve tükenmez bir enerji kaynağıdır. Bu özelliklere sahip olması rüzgâr gücünün kullanılmasını cazip hâle getirmiştir. Ancak pahalı bir yatırım olması nedeniyle ülkemizde rüzgâr gücüyle çalışan santraller yok denecek kadar azdır. Bu santrallerin ilki Çeşme (İzmir)'nin Alaçatı beldesinde, 1998 yılında kurulmuştur (Fotoğraf 13). Rüzgar enerjisi ile ilgili yatınmlar 2005'de Yenilenebilir Enerji Kaynaklan Kanunu uygulanmaya konulduktan sonra hız kazanmıştır. İstanbul, Aydın, İzmir, Osmaniye, Balıkesir, Hatay, Manisa, Çanakkale'de santraller kurulmuştur. Türkiye’de 2009 yılında 1.495 MW gücünde rüzgar enerjisi üretilmiştir.
+7.	Güneş Enerjisi
+Güneş enerjisi, tükenmeyen enerji kaynakları içinde önemli bir yere sahiptir. Türkiye'nin Akdeniz iklim bölgesinde yer alması nedeniyle birçok bölgemizde yıl içindeki güneşli gün sayısı ve güneşlenme süresi yeterli düzeydedir.
+Güneş enerjisi, elektrik, sıcak su elde etme ve ısınma gibi birçok alanda kullanılır (Fotoğraf 14). Güneş enerjisinden ülkemizde daha çok ev ve iş yerlerinin ısıtılmasında ve sıcak su elde edilmede faydalanılmaktadır. Bunun yanında otomobillerde de güneş enerjisinden daha etkin yararlanma çalışmaları devam etmektedir.
+8.	Jeotermal Enerji
+Yerin derinliklerine doğru her 33 metrede sıcaklık yaklaşık 1 °C artar. Bu nedenle yerin derinliklerinde suyun kaynama derecesinden (100 °C) çok daha yüksek sıcaklıklarda buhar hâlinde sular bulunabilmektedir. 150 °C - 200 °C sıcaklıklardaki su buharı sondajlarla yeryüzüne çıkanlarak elektrik enerjisi elde edilir (Resim 1). ülkemizde bu amaçla kurulmuş olan jeotermal santral, Sarayköy (Denizli)'de yer alır. Suyun kaynama sıcaklığının altında olan sıcak sular ise konutların ve seraların ısıtılmasında kullanılmaktadır.
+9.	Nükleer Enerji
+Uranyum ve toryum gibi radyoaktif minerallerin atomlarının parçalanmasıyla açığa çıkan enerjiye nükleer enerji adı verilir. Ülkemizde stratejik madenler grubunda yer alan uranyum ve toryum minerallerinin rezervlerinin tespit edilmesi çalışmaları devlet tarafından sürdürülmektedir.
+Türkiye uranyum bakımından zengin olmasa da toryum madeni bakımından 380 bin ton rezervi ile dünyada İkincidir. Türkiye’nin bilinen tek toryum yatağı Eskişehir-Sivrihisar Kızılcaören’dedir.
+Ülkemizde elektrik enerjisi arz ve talep projeksiyonlarına bağlı olarak, 2020 yılına kadar, nükleer enerji santrallerinin, elektrik enerjisi üretimi içerisindeki payının en az %5 seviyesine ulaşması hedeflenmektedir. Bu amaçla 5710 sayılı Nükleer Güç Santrallerinin Kurulması ve İşletilmesi ile Enerji Satışına İlişkin Kanun 2007 yılı içerisinde çıkartılmıştır. Mayıs 2010'da Türkiye ile Rusya Federasyonu arasında Mersin-Akkuyu'da nükleer santral yapımına ilişkin hükümetler arası anlaşma imzalanmıştır.
+Nükleer Enerji Çevre Dostu Bir Enerji Üretim Seçeneği midir?
+Nükleer santraller işletmede oldukları sürece devamlı denetim altındadır. Bu nedenle nükleer santrallerin çevre ve insana zarar verebilecek şekilde kaza yapma riski, günümüzde kullanılan diğer teknolojik ürünlere göre yok denecek kadar azdır. Bir nükleer santralin çevresinde yaşayan insanlara yüklediği yıllık doz , doğal radyasyonun çok altındadır.
+Nükleer santraller; karbondioksit, kükürtdioksit, azotoksit emisyonuna ve atık kül üretimine sebep olmaz. Aksine bu santraller; yılda 2300 milyon ton karbondioksit, 42 milyon ton kükürtdioksit, 9 milyon ton azotoksit emisyonuna ve 210 milyon ton kül atığına engel olmaktadır.
+10.	Biyokütle (Biyomas) Enerjisi
+Enerji üretiminde yararlanılan bir diğer kaynak da bitki ve hayvan artıklarına dayalı enerji üretimidir. Buna biyokütle enerji adı verilir. Bu enerjinin kullanımı iki şekildedir. Klasik biyokütle enerjisi, odun, bitki ve hayvan artıklarının (tezek) yakılmasıyla elde edilir. Modern biyokütle enerjisi ise bitkisel ve hayvansal artıklarla orman ve tarım endüstrisi atıklarının katı, sıvı ve gaz yakıtlara çevrilmesidir (Fotoğraf 15).
+Türkiye'de odun, eski çağlardan beri konutlarda enerji kaynağı olarak kullanılır. Ancak bu durum giderek azalmaktadır.
+Örneğin, 1970 yılında konutlarda yakacak olarak % 45 oranında odun kullanılmış, günümüzde bu oran % 25’lere inmiştir.
+Türkiye'de bazı bölgelerde ekonomik imkânların yetersiz olması nedeniyle tezek adı verilen hayvan gübresi ile fındık, ceviz, ayçiçeği kabukları, çiğit ve mısır koçanı gibi bitki artıkları ısıtma amaçlı olarak kullanılmaktadır. Tezeğin yakacak olarak kullanılması, ülkemiz ekonomisi için büyük kayıptır. Çünkü enerji değeri düşük olan tezek, önemli organik gübre kaynağıdır.
+Biyomas atıkların değerlendirilmesi kırsal kesimlerde biyogaz, kentsel kesimlerde ise çöp termik santralleri ile olmaktadır. Özellikle kentlerin çevresinde kurulacak çöp termik santralleri, enerji üretiminin yanı sıra çöp yok etme işlevi de göreceğinden önemlidir. Bazı çöp atıklarının yanma derecesi linyit santrallerinde kullanılan kömürlerden daha yüksektir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kilittaşı türler</DOCTITLE>
+<TEXT>
+
+Kilittaşı türler, doğal çevrelerine sayılarına nazaran daha önemli etkide bulunan türler. Böyle bir organizma bulunduğu ekosistemde, bir kemerin kilittaşının görevine benzer bir rol oynar. Kilittaşı kemer içindeki diğer taşlardan daha az basınç altında olsa bile, o olmadan kemer çöker. Benzer şekilde bir ekosistemin içinden kilittaşı tür çekilirse, bu tür biyokütle ya da verimlilik içinde küçük bir yer tutsa dahi ekosistemde çok dramatik değişiklikler oluşabilir.
+Tanım üzerine notlar.
+Burada verilen tanım henüz tam olarak kabul görmemiş ve oldukça niteliksel bir tanımdır. Önemli bir nokta türün yaygınlığının ve etkisinin nasıl ölçüleceğinin ve hangi sınırlamanın yapılacağının henüz belirli olmamasıdır. Bu anlamda yaygınlık biyokütle ya da verimlilik olarak ölçülebilir. Etkiyi tanımlayabilmek ise daha da zordur. Kilittaşı avcıların, ekosistemin bütünü içinde oldukça nadir görünseler dahi bulundukları fonksiyonel ekolojik grupların içindeki biyokütle üstündeki üstünlükleri ile tanımlanabilecekleri önerilmiştir.
+Bu terim çoğu zaman yanlışlıkla temel türler yerine kullanılmaktadır. Kilittaşı türler yalnızca ortadan yok olmalarının ekosistemi etkileyeceği türler olarak görülmemelidir çünkü tanım gereği herhangi bir yaygın türün ekosistemden çıkarılması o ekosistemi önemli derecede değiştirecektir. Doğa koruma yanlılarına kilittaşı tür kavramını çekici kılan görece oldukça küçük bir fiziksel ize sahip olsalar bile ekosistemin sağlığı üzerinde büyük bir etkileri olmasıdır.
+Örnekler.
+Tam tanımı üzerinde belli bir konsensüs olmamasından ötürü kilittaşı tür kavramı ancak belirli örnekleri listeleyerek anlatılabilir.
+Klâsik bir kilittaşı tür, bir otçul türün baskın bitki türünü yok etmesini engelleyen türdür. Av sayısı az olduğu için kilittaşı avcı sayısı daha da düşük olabilir ama yine de etkilidir. Eğer bu avcılar olmasaydı otçul avın sayısı giderek çok artacak ve baskın bitki türünü yok ederek ekosistemin çehresini oldukça önemli derecede değiştirebilecekti. Kesin senaryo her örnek için değişiklik gösterse de zincirleme tepki sonucu çok yaygın olmayan bir türün ekosistemin çalışması üzerinde olduğundan büyük bir etkisi olacağı anafikri değişmeden kalır.
+Avcılar.
+Bazı deniz yıldızları, başka doğal düşmanları bulunmayan deniz kestaneleri, midyeler ve diğer deniz kabukluları ile beslenerek bu işlevi yerine getirirler. Eğer deniz yıldızı popülasyonu ekosistemden çıkarılırsa midye popülasyonu kontrolsüz olarak artar ve diğer birçok türü uzaklaştırır, deniz kestanesi popülasyonu da mercan kayalıklarını yokeder.
+Benzer şekilde kelp ormanında deniz samurları deniz kestanelerini kontrol altında tutar. Kelp kökleri basitçe çapa gibidir, kara bitkilerinin besin toplayan büyük ve geniş köklerine benzemez. Dolayısıyla deniz kestaneleri kelplerin yalnızca köklerini yani biyokütlelerinin çok az bir kısmını yiyerek kelpleri ekosistemden tamamen çıkarabilir.
+Evcil kediler de insan yerleşim alanlarının da dahil olduğu birçok ortamda kilittaşı tür rolünü üstlenmiştir. Yabani kediler de içine sokuldukları birçok yerde yerel popülasyonları azaltmıştır.
+Bu yaratıkların süper avcı olmasına gerek yoktur. Deniz yıldızları köpekbalıklarına, vatozlara ve deniz anemonlarına av olur. Kediler ve susamurları yırtıcı kuşlara av olur.
+Mühendisler.
+Kuzey Amerika'da, boz ayı avcı olarak değil ama ekosistem mühendisi olarak kilittaşı bir türdür. Okyanus ekosisteminden orman ekosistemine besin transferi yaparlar. Bu transferin ilk aşaması bazen binlerce kilometre olmak üzere akıntıya karşı ırmaklarda yüzen somon ile gerçekleşir. Daha sonra somonu yakalayan ayı, balığı kuru toprağa çıkarır ve çevreye besin yönünden zengin dışkı ve yarı yenmiş balıkları yayar.
+Bir başka ekosistem mühendisi kunduzdur. Bulunduğu alanı bir akarsudan gölcüğe ya da bataklığa çevirir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dallı darı</DOCTITLE>
+<TEXT>
+
+Dallı darı ("Panicum virgatum"), bir ılık mevsim bitkisidir. Yüksek ot verimi, iyi düzeydeki yem değeri, biyoenerji kaynağı teşkil etmesi, derin kök sistemi geliştirmesi, toprağı iyileştirmesi, kurağa dayanıklı olması ve nispeten fakir yetişme ortamlarında gelişebilmesi gibi özellikleri nedeni ile önemli bir yem bitkisi türüdür. Dallı darının kökleri uygun yetişme ortamlarında 3.3 m. derine kadar inebilmektedir. Yıllık toprak üstü net biyokütle üretimi hektarda 17 ile 35 ton arasında değişmektedir. Ancak bu değer uygun olmayan yetişme ortamlarında 8-10 ton/ha’a kadar düşebilmektedir. Yıllık net toprak altı biyokütle üretimi yaklaşık 8 ton/ha cıvarında olabilmekte, bu değer kurak ve fakir yetişme ortamlarında 15 ton/ha’a kadar çıkabilmektedir.
+Dallı darı Kuzey Amerika’da doğal olarak yetişen önemli yem bitkilerinden bir tanesidir. Bu tür 1-3 m ye kadar boylanabilmekte, gövdeleri çok dallı olup, yeşil renkli ve çıplaktır. Bitkiler rizom meydana getirmektedir. Yapraklar tüysüz, 10-60 cm uzunluğunda, başakcıklar sivri uçlu ve alt dış kavuz iç kısmı oyuk sivri uçlu kayık şeklindedir. Meyve dar yumurta şeklinde ve iç kavuzun kenarları alt kısmına incelmiş uç kısmı sivri fakat küttür .
+Sıcak yaz mevsiminde büyüyebilme kapasitesine sahip olması dallı darıyı Orta-Batı Amerika'da en önemli yem bitkilerinden biri yapmıştır. Doğal yayılış alanı Orta Amerika ve Kanada’nın güney kısımlarını kapsamaktadır. Açık ormanlık alanlar, sulak alanların kenarları ve çayırlık alanlar gibi değişik ortamlarda yetişebilmektedir. Hem yem bitkisi olarak kullanılması hem de yüksek biyoenerji kapasitesine sahip olması nedeniyle dallı darı Amerikan Biyoenerji Programı tarafından 37 bitki arasından model tür olarak seçilmiştir.
+Ortalama yıllık ot verimi sulanmayan parsellerde hektarda 16 ton civarında olmakta, bu verim hektarda 37 ton’a kadar çıkabilmektedir. Ayrıca dallı darının çok yıllık bir yem bitkisi oluşu ve fakir yetişme ortamlarında gelişebilmesi onu diğer çayır türleri arasında ayrıcalıklı kılmaktadır.
+Dallı darının çok yıllık bir çayır türü oluşu ekolojik, ekonomik ve toprak koruma açısından onu en önemli kılan özelliklerin başındadır. Dikim yapıldıktan sonra dallı darı herhangi bir toprak işlemeye ihtiyaç duymadan birçok yıl verim verebilmektedir. Her yıl ekilen yıllık yem türleri çoğu zaman erozyona ve toprak yapısının bozulmasına sebep olmaktadırlar.
+Dallı darı derin ve iyi gelişmiş kök sistemine ve yüksek toprak altı biyokütle üretimine sahiptir. Bu onu bitki besin elementlerinin ve suyun topraktan emilmesi, toprak altına gerekli enerji depolanması, kurak yıllarda verim düşüşünün olmaması ve toprak organik maddesini artırması bakımından önemli kılmaktadır. Özellikle toprak organik maddesini artırması tek başına çok önemli sayılmaktadır. Çünkü artan organik madde toprağın aşınıma karşı direncini, su tutma kapasitesini ve bitki besin maddesi miktarını artırmakta, kimyasal gübrelerin yıkanarak dere sularını karışmasını ve yüzeysel akışı azaltmaktadır.
+Toprak koruma açısından dallı darı.
+Toprak aşınımı toprak ve su kalitesini etkileyen en önemli problemlerin başındadır. Türkiye aşınımla yılda kaybedilen toprak miktarının 500 milyon ton olduğu ileri sürülmektedir . Birleşik Amerikada bu miktar yılda yaklaşık 3 milyar ton civarındadır. Türkiye toprakları 2000 yıldan beri işlenmekte olup organik maddece oldukça fakir bulunmaktadır. Bunun başlıca nedeni anızın yakılması ve yeterince organik maddenin topraklara verilmemesidir. Toprak organik maddesinin azalması toprağın su tutma kapasitesini, besin maddesi miktarını, mikroorganizma faaliyetini, aşınım direncini ve toprağın agregatlaşmasını (kümelenme, topaklanma) azaltmaktadır. Çok yıllık bir bitki olan dallı darı gerek aşınımı önlemesi ve gerekse toprağın organik maddesini toprak üstü ve altı yüksek üretimle artırması bakımından iyi bir alternatif teşkil etmektedir. Son zamanlarda Amerika Birleşik Devletlerinin Orta-Batı yörelerinde yapılan çalışmalara göre çok yıllık çayır bitkileri toprağa yılda 1.1 ton/ha karbon kazandırmaktadırlar. Bu miktar tarımla aynı alandan kaybedilen karbonun % 23 ünü oluşturmaktadır. Ayrıca ince ve kılcal köklerin faaliyeti ve ölümü sonucu yılda 3 ton/ha kadar karbon ilave edilmekte ve toplam miktar yaklaşık 4 ton/ha karbon olmaktadır .
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gaia Hipotezi</DOCTITLE>
+<TEXT>
+
+Gaia Hipotezi, Gaia Kuramı ya da Gaia Prensibi, biyosferin ve yerkürenin fiziki bileşenleri sayılan atmosferin, kriyosferin (buzullar), hidrosferin ve litosferin, karmaşık bir karşılıklı etkileşim sistemi içinde bir araya gelerek bir bütünlük oluşturduğunu ileri süren ekolojik bir kuram ya da hipotezdir. Bu hipotezde, yeryüzündeki iklimsel ve biyojeokimyasal koşulların ve süreçlerin bu karşılıklı etkileşim sistemi çerçevesinde aynı yönde gelişme ve değişme eğilimi içinde oldukları öngörülmektedir. Hipotez başlarda James Lovelock tarafından yerküreyi konu alan bir geri besleme hipotezi olarak ortaya atılmıştır. Lovelock'un hipotezi için seçtiği adlandırma Yunan mitolojisi'nde yeryüzünü simgeleyen tanrıça Gaia'ya dayandırılmaktadır. Hipotez sıklıkla, yerkürenin tek bir organizma gibi göründüğü / davrandığı (olduğu değil) olarak anlaşılmaktadır.
+Gaia Hipotezi ilk olarak, James Lovelock'un, Mars'taki yaşamı saptama yöntemleri üzerine NASA adına yaptığı bağımsız bir araştırmanın yan ürünü olarak formüle edildi. Hipotezi ilk olarak 1970'li yılların başlarında makaleler olarak yazmıştır. Daha sonra hipotezin göze batması üzerine 1979 yılında "Gaia: Dünya'daki Yaşama Yeni Bir Bakış" adıyla kitap olarak yayınlandı.
+Lovelock'a göre hipotez başlangıçta, oksijen içeren kimyasalların bir aradalığını ve Dünya atmosferinde metan konsantrasyonunun sabit kalmasını açıklamaya yönelmişti. Lovelock, başka gezegenlerdeki atmosferde bu gibi durumları araştırmanın, yaşam tespit etmek yönündeki çalışmalar için görece güvenli ve pratik bir yöntem olduğunu ileri sürmüştür. Lovelock, birçok farklı sürecin, kendi kendini düzenleyen bu sistem içinde aynı yönde işlemeye yöneldiğini ve tüm dengeleri şekillediğini formüle etmiştir. Bu şekilde formüle edilen hipotez, birçok bilimsel deneyle de desteklenmiş ve bir dizi yararlı öngörü sağlamıştır. Dolayısıyla hipotez, Gaia Kuramı olarak tanındı.
+Mikrobiyolojist Dr. Lynn Margulis, 1971 yılından itibaren Gaia Hipotezi'nin, bir kuram olamasını sağlayabilecek kavram ve tasarımlarrı geliştirmekte Lovelock'un en önemli yardımcısı olmuştur. Hipotez 1975 yılına kadar görmemezlikten gelindi. Bir popüler bilimsel dergi olan New Scientist'de 15 Şubat 1975 tarihinde bir makale yayınlandı. Hipotezin ayrıntılı bir anlatımı da 1979 yılında "The Quest for Gaia" adında bir kitap piyasaya çıkmıştır. Bu yayınların ardından hipotez, bilimsel ve eleştirel dikkati üzerine çekmeye başlamıştır. Hemen ardından birçok geleneksel biyolojistin eleştirileri başladı. Diğer taraftan belirli çevreci gruplar ve iklim bilimciler tarafından desteklendi, savunuldu.
+Lovelock'un hipotezi.
+James Lovelock Gaia'yı şu şekilde tanımlamaktadır. "Dünya'nın biyosferini, atmosferini, okyanuslarını ve toprağını içine alan karmaşık bir varlık: bu gezegende yaşam için en uygun fiziksel ve kimyasal ortamı oluşturmaya yönelmiş bir geri besleme ya da sibernetik bir sistem oluşturan bütünlük"
+Lovelock'un başlangıç hipotezi, biyokütlenin gezegendeki koşulları daha "konuksever" koşullara dönüştürmeye yöneldiğini ifade etmektedir. Gaia Hipotezi bu "konukseverliği", tam bir homostasis durumu olarak ifade etmektedir. Eleştirmenleri tarafından teleolojik olmakla suçlanan hipotez atmosferin, biyokütle için ve biyokütle tarafından homostatis durumunda tutulduğunu kabul etmektedir.
+Lovelock, Dünya'daki yaşamın bir sibernetik kontrol sağladını, homostatik geri besleme sisteminin biota tarafından kendiliğinden ve bilinçli olmayan bir şekilde işletildiğini ve böylelikle küresel ısı ve kimyasal yapıyı istikrarlı tuttuğunu ileri sürmektedir.
+Ilk hipoteziyle Lovelock, okyanus tuzluluğunda, atmosfer bileşiminde ve yüzey sıcaklığında küresel bir kontrol sisteminin varlığını ortaya koymuştur.
+Hipotezin dayandığı savlar şunlardır.
+Yeryüzünde yaşam başladığından bu yana Güneş'in sağladığı enerji %25 - %30 artmıştır. Buna karşın gezegenin yüzey ısısı küresel düzeyde, olağan sayılamayacak şekilde sabit kalmıştır. Dahası, Dünya'da atmosferin bileşiminin de fiilen sabit kaldığına dikkat çekmektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Biyoenerji</DOCTITLE>
+<TEXT>
+
+Biyoenerji, biyolojik kaynaklardan elde edilen malzemelerden edinilen yenilenebilir enerjidir. Biyokütle, kimyasal enerji şeklinde güneş ışığı depolamış olan herhangi bir organik malzemedir. Bir yakıt olarak odun, odun atıkları, saman, gübre, şeker kamışı ve çeşitli tarım işlemlerinden elde edilen birçok yan ürünü içerebilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Antarktika krili</DOCTITLE>
+<TEXT>
+
+Antarktika krili ("Euphausia superba"), Euphausiidae familyasından, Güney Okyanusu'nun Antarktika sularında yaşayan kril türüdür. 
+Antarktik krili, sürü halindedirler ve bazı zamanlarda metreküp başına 10.000–30.000 metre sürü haline gelebilirler. Yaşamlarını sağlayabilmek için fitoplankton yerler ve enerjilerini sağlamak için pelajik (açık okyanus) sularda bulunurlar. 6 cm uzunlukta ve 2 gr ağırlığı vardır.
+İlkbaharın sonunda ve yazın dişi kriller lipitçe zengin yumurta üretir. Erkek krilden aldığı spermatofor ile bir seferde 10.000 yumurta döllenir. Döllenen yumurtalar okyanusa bırakılır ve bir süre sonra içinden nauplius denen larva çıkar. Dişi bir sezonda birkaç defa yumurta yapabilir. Ömürleri 2 yıldır
+Kriller yağ bakımından zengin olmadıklarından, yiyeceğin az olduğu kış mevsiminde ayakta kalabilmek için kendi vücut proteinlerini kullanır. Kış sonundaki krillerin yaz mevsimindekinden daha küçük olması bu yüzdendir.
+Genelde suyun 200 m derinliğindeki orta sularda bulunur. 480 m derinlikte bulunduğuna dair kayıtlar da vardır. Diğer kril türleri gibi bu da, günlük dikey göç yapar. Gece yüzeye göçeden kriller, gün doğumunda derinlere inerler.
+Avcılığı yapılan kril türlerinden biridir. Japon balıkçılar tarafından daha lezzetli olduğu için yumurtalı dişiler tercih edilir.
+Antarktika sularının ekosisteminde önemli bir tür olmakla birlikte, gezegendeki biyokütle açısından en başarılı hayvandır (yaklaşık 500 milyon ton).
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Almanya'da enerji</DOCTITLE>
+<TEXT>
+
+Almanya'daki enerji sektörü, Dünya'nın en büyüklerindendir.
+Alman ekonomisi, oldukça gelişmiş ve dünyanın beşinci büyük ekonomisi konumuna erişmiştir. Bu sebepten ötürü Almanya, kişi bşına enerji tüketimi açısından Dünya'da beşinci sırada bulunmaktadır. 
+2002'de, Almanya Avrupa'nın en büyük enerji tüketen ülkesiydi ve elektrik tüketimi o yıl 512.9 milyar kilowatt saat olarak gerçekleşti. 
+Enerji politikası.
+Hükümet politikası, enerjinin tutumlu kullanılmasını vurgulamaktadır. Yine devlet; güneş, rüzgar, biyokütle, su ve jeotermal gibi yenilenebilir enerji kaynakların kullanımının artması konusunda çalışmalar yapmaktadır. Bu çalışmların başladığı 1970'lerden beri olumlu sonuçlar alınmaktadır. Hükümetin en önemli hedefi 2050 yılında tüm enerji tüketiminin yarısının alternatif enerji kaynaklarından karşılanmasıdır. Günümüzde Almanya; dünyanın dördüncü büyük nükleer enerji kullanan ülkesidir. Fakat 2000 yılında hükümet ve Almanya nükleer güç endüstrisi arasında yapılan antlaşma çerçevesince 2021 yılına kadar tüm nükleer enerji santrallerinin kapatılması kararlaştırılmıştır.
+Tüketim.
+Almanya dünyanın en büyük enerji tüketicilerinden biridir. Ülke enerji ksynaklarının çoğunu ithal etmektedir; çünkü ülke büyük bir kömür rezervine sahip değildir. 2006'ya göre ülkenin başlıca enerji üretim kaynakları şunlardır: petrol (%35.7), kömür (%23.9), doğal gaz (%22.8), nükleer (%12.6), su ve rüzgar enerjisi (%1.3) ve diğerleri (%3.7).
+Almanya, dünyanın beşinci büyük petrol tüketicisidir. Rusya, Norveç ve Birleşik Krallık; Almanya'ya petrol ihraç eden ana ülkeler konumundadır.
+Almanya dünyada en çok doğal gaz tüketen üçüncü, en çok kömür tüketen dördüncü ülkesi konumundadır.
+
+</TEXT>
+</DOC>
+

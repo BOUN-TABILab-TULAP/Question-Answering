@@ -1,0 +1,55 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+2007	2007	+Num+Card
+
+yılına	yıl+Noun+A3sg+P3sg+Dat
+yılına	yıl+Noun+A3sg+P2sg+Dat
+yılına	yıl+Verb^DB+Verb+Pass+Pos+Opt+A3sg
+
+kadar	kadar	+Noun+A3sg+Pnon+Nom
+kadar	kadar	+Postp+PCNom
+kadar	kadar	+Postp+PCGen
+kadar	kadar	+Postp+PCDat
+
+yapılan	yap	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+yapılan	yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+
+nüfus	nüfus+Noun+A3sg+Pnon+Nom
+
+sayımlarında	sayım+Noun+A3pl+P3sg+Loc
+sayımlarında	sayım+Noun+A3pl+P2sg+Loc
+sayımlarında	sayım+Noun+A3pl+P3pl+Loc
+sayımlarında	sayım+Noun+A3sg+P3pl+Loc
+sayımlarında	sayımla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Loc
+sayımlarında	sayımla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Loc
+
+hangi	hangi	+Adj
+
+yasak	yasak	+Adj
+yasak	yasak	+Noun+A3sg+Pnon+Nom
+
+uygulanmıştır	uygula	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+uygulanmıştır	uygula	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

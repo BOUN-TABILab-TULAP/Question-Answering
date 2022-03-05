@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+23 23+Num+Card
+Eylül eylül+Noun+A3sg+Pnon+Nom Eylül+Noun+Prop+A3sg+Pnon+Nom
+Kuzey Kuzey+Noun+Prop+A3sg+Pnon+Nom kuzey+Noun+A3sg+Pnon+Nom kuzey+Adj
+yarım yar+Noun+A3sg+P1sg+Nom yar+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg yarı+Noun+A3sg+P1sg+Nom yarım+Adj yarım+Num+Card
+kürede küre+Noun+A3sg+Pnon+Loc
+hangi hangi+Adj
+mevsimin mevsim+Noun+A3sg+P2sg+Nom mevsim+Noun+A3sg+Pnon+Gen
+başlangıcıdır başlangıç+Noun+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

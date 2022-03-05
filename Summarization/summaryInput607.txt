@@ -1,0 +1,486 @@
+Question: Parankima hücrelerinin özellikleri nelerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Triklinik</DOCTITLE>
+<TEXT>
+
+Triklinik Kristal Sistemi.
+Kristal kafes yapılarından birisidir.
+Bu sistemde a, b ve c eksenleri farklı boylarda, bunlar arasındaki açılar da 90o den farklıdır. Pinacoidal sınıfındaki simteri merkezi dışında başka hiçbir simetri unsuru yoktur.
+a≠b≠c ve α≠β≠γ≠90° olmalıdır. 
+Kristal Sınıfı.
+Triklinik Sistemin, Pedial ve Pinacoidal olmak üzere iki kristal sınıfı vardır.
+Triklinik Kristal Yapısına Sahip Bazı Mineraller.
+Albit.
+Kimyasal Bileşimi, NaAlSi3O8
+Kristal Sistemi, Triklinik
+Kristal Biçimi, Kristalleri levhamsı ya da prizmatik; masif, kompakt, lifsi
+Sertlik, 6
+Özgül Ağırlık, 2.6 - 2.63
+Dilinim, {110} ve {1-10} mükemmel, {001} iyi
+Renk ve Şeffaflık, İnci beyazı, nadiren sarı ve gri; Şeffaf - şeffaf degil
+Parlaklık, İpeksi
+Ayırıcı Özellikleri, İnci rengi, dilinimi ve sertliği
+Aksinit.
+Kimyasal Bileşimi, (Ca,Mn,Fe,Mg)3Al2BSi4O15(OH) 
+Kristal Sistemi, Triklinik 
+Kristal Biçimi, Kristalleri levhamsı, kama şekilli; masif, lamelli; bazen tanesel 
+Sertlik, 6.5 - 7 
+Özgül Ağırlık, 3.26 - 3.36 
+Dilinim, {100} iyi, {001}, {110}, {011} zayıf 
+Renk ve Şeffaflık, Mor - kahverengi; sarımsı veya gri; Şeffaf - yarı şeffaf 
+Çizgi Rengi, Renksiz 
+Parlaklık, Camsı 
+Ayırıcı Özellikleri, Rengi, kristal formu 
+Bulunusu, Kontakt metamorfizma veya metasomatizma geçiren karbonatlı kayalarla, granitlerdeki boşluklarda oluşur. Kalsit, kuvars, prehnit, zoisit, aktinolit, hedenbergit, andradit gibi minerallerle birlikte bulunur.
+Disten.
+Kimyasal Bileşimi, Al2SiO5
+Kristal Sistemi, Triklinik
+Kristal Biçimi, Kristalleri ince-uzun, yassı, yapraklanmalı; c-eksenine paralel uzamış; masif, bazen lifsi; ışınsal agregatlar halinde.
+İkizlenme, {100} yüzeyinde yaygın.
+Sertlik, 4 - 7.5
+Özgül Ağırlık, 3.53 - 3.67
+Dilinim, {100} mükemmel, {010} belirgin
+Renk ve Şeffaflık, Çoğunlukla mavi; bazen beyaz, gri, yeşil, sarı, pembe ve siyaha yakın; şeffaf-yarı şeffaf
+Çizgi Rengi, Renksiz
+Parlaklık, İnci parıltılı, camsı
+Ayırıcı Özellikleri, Mavi rengi, laminalı kristal formu, yönlere göre değişen sertliği ve mükemmel dilinimi
+Bulunuşu, Disten, tipik olarak bölgesel metamorfik şist ve gnayslarda, granat, stavrolit, mika ve kuvars mineralleri ile birlikte bulunur. Ayrıca, pegmatitlerde ve kuvars damarlarında da oluşabilir.
+Pektolit.
+Kimyasal Bileşimi, NaCa2Si3O8OH
+Kristal Sistemi, Triklinik
+Kristal Biçimi, İğnemsi ya da lifsi kristallerin meydana getirdiği ışınsal agregatlar halinde
+Sertlik, 4.5 -5
+Özgül Ağırlık, 2.74 - 2.88
+Dilinim, {100} ve {001} mükemmel
+Renk ve Şeffaflık, Renksiz, beyaz; Şeffaf-yarı şeffaf
+Parlaklık, Camsı, ipeksi
+Ayırıcı Özellikleri, İğnemsi formu ve dilinimi
+Bulunuşu,Tipik olarak zeolitle birlikte bazalt ve benzeri kayaların boşluklarında oluşur.
+Rodonit.
+Kimyasal Bileşimi, MnSiO3
+Kristal Sistemi, Triklinik
+Kristal Biçimi, Kristalleri levhamsı ya da prizmatik; masif, kompakt, lifsi
+Sertlik, 5.5 - 6.5
+Özgül Ağırlık, 3.57 - 3.76
+Dilinim, {110} ve {1-10} mükemmel, {001} iyi
+Renk ve Şeffaflık, Pembe, gül kırmızısı, kahverengimsi kırmızı, nadiren sarı ve gri; Şeffaf - yarı şeffaf
+Parlaklık, Camsı
+Ayırıcı Özellikleri, Pembe rengi, dilinimi ve sertliği
+Bulunuşu, Hidrotermal damarlardaki manganez yataklarında oluşur. Ayrıca manganez içeren sedimanter kayaların bölgesel metamorfizması sonucu oluşur.
+Üleksit.
+Kimyasal Bileşimi, NaCaB5O9 .8H2O
+Kristal Sistemi,Triklinik
+Kristal Biçimi, Genellikle iğnemsi kristalli; merceksi ya da nodüler, ışınsal, pamuk yumağı şekilli
+Sertlik, 2.5
+Özgül Ağırlık, 1.955
+Dilinim, {010} mükemmel, {1-10} iyi
+Renk ve Şeffaflık, Beyaz, renksiz, ipeksi; şeffaf
+Parlaklık,Camsı 
+Ayırıcı Özellikleri, Pamuk yumağı şekli, düşük yoğunluğu, soğuk suda çözünmeyip sıcak suda çözünmesi
+Bulunuşu, Boraks yataklarının bulunduğu alanlardaki sedimanter kayalarda genellikle kolemanit ile birlikte bulunan bir evaporit mineralidir.
+Vollastonit.
+Kimyasal Bileşimi, CaSiO3
+Kristal Sistemi, Triklinik
+Kristal Biçimi, Kristalleri çoğunlukla levhamsı veya kısa prizmatik
+İkizlenme, {100} üzerinde olağan
+Sertlik, 4.5 - 5
+Özgül Ağırlık, 2.87 - 3.80
+Dilinim, {100} mükemmel, {001} iyi, {-102} iyi
+Renk ve Şeffaflık, Beyaz, grimsi, nadiren renksiz ve çok soluk yeşil; Şeffaf - yarı şeffaf
+Parlaklık, Lifsi olduğunda ipeksi
+Ayırıcı Özellikleri, Rengi, dilinimi, kristal formu, silisin ayrılması ile hidroklorik asitte çözünmesi 
+Bulunuşu, Silisli kireçtaşlarının kontakt metamorfizması ile yaygın olarak oluşur. Ayrıca yüksek mertebeli bölgesel metamorfik kayalarda ve ksenolitler halinde, bazı alkali magmatik kayalarda da bulunabilir.
+Triklinik Kristal Yapıda Düzlemler Arasındaki Mesafe.
+Bu denklemde "Sxx" ile verilen kısaltmalar;
+S11=b2.c2.sin2α
+S22=a2.c2.sin2β
+S33=a2.b2.sin2γ
+S12=a.b.c2(cosα.cosβ-cosγ)
+S23=a2.b.c(cosβ.cosγ-cosα)
+S13=a.b2.c(cosγ.cosα-cosβ)
+Kaynakça.
+http://www.mta.gov.tr/v2.0/madenler/mineraller
+http://webmineral.com/crystal/Triclinic.shtml
+http://www.minerals.net/MineralMain.aspx
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>League of Legends</DOCTITLE>
+<TEXT>
+
+League of Legends(LoL) (), Riot Games tarafından geliştirilen ve yayımlanan gerçek zamanlı strateji oyunudur. Oyun haritası olan Defense of the Ancients örnek alınarak yapılmıştır.
+Oynanış.
+League of Legends Defense of the Ancients örnek alınarak geliştirilmiştir. Oynanış açısından çok daha hızlıdır ve savaşlar uzun sürmemektedir. DotA modundan farklı olarak oyunda "Kabiliyetler" ve "Rünler" sistemi vardır. Oyunda yeteneklere getirilen bir değişiklik DotA'dan farklı olarak kullandığımız şampiyonların yeteneklerine üzerimize aldığımız eşyaların katkılarını ekliyor. Yani edindiğiniz her eşya sahip olduğunuz yeteneklere artı bir güç olarak ekleniyor. Bazı yetenekler edindiğimiz eşyalardan %50-%60 olarak etkilenirken bazı yetenekler ise eşyanın direk olarak katkısını alabiliyor. 
+Genel bilgiler.
+MOBA türü bir oyundur.
+Ayrıca strateji tarzıdır.
+Haritalar.
+Oyunda 3 farklı oyun tarzı sağlayan toplam 4 adet harita vardır. Oyun gelişmekte olduğu için bu sayı her an değişebilir.
+Summoner's Rift (Sihirdar Vadisi).
+Summoners Rift haritası, haritası olan Defense of the Ancients örnek alınarak yapılmıştır. Çok sayıda benzerlikler göstermektedir. Bu harita "League of Legends" oyununun en çok oynandığı ve turnuvaların yapıldığı ana haritadır. Ayrıca bu haritada yapay zeka şampiyonlarını takımlara ekleyebilir veya yapay zekaya karşı oynayabilirsiniz.
+Haritada en fazla beşer kişi olmak üzere eşit sayıda oyuncusu olan "mavi takım" ve "mor takım"ın savaştığı haritadır. Haritanın sol alt köşesinde mavi, sağ üst köşesin mor takım bulunmaktadır. İki takımın ana üslerini birbirine bağlayan toplam 3 adet yol bulunmaktadır. (Top lane - Üst yol, Middle lane - Orta yol, Bottom lane - Alt yol) Her yol üzerinde iki takımında üçer adet kule ve "önleyici" (inhibitor) bulunmaktadır. Kuleler rakip takım oyuncularının kendilerini savunmaları için büyük avantaj sağlamaktadır. "Önleyiciler"in yıkılması ise karşı tarafın saldırı gücünü arttırmaktadır. "Önleyici" yıkıldığı zaman yıkan takımın "yaratık"larına (Creep) ek olarak her tur "süper minyon" (Super Minion) ilave olarak gelmektedir. Eğer her yoldaki "önleyici"ler yıkılırsa her yoldan ikişer adet "süper minyon" gelmeye başlar. Takımların "ana üslerinin" merkezinde "Nexus" binalası ve bu binayı koruyan 2 adet kule (Nexus Towers) bulunmaktadır. Karşı takımın "Nexus"unu yıkan takım oyunu kazanır.
+Haritada bulunan 3 yol üzerinden de belli aralıklarla 6-7(7. yaratık 2 seferde bir, kuşatma minyonu) "yaratık" (Creeps) gelmektedir, her takım 3 yol üzerinden gelen yaratıkları veya düşman şampiyonlarını öldürerek para ve tecrübe kazanırlar. Yol üzerindeki kendi kulelerini koruyup karşı tarafın kulesine olabildiğince zarar vermeye çalışırlar. Ayrıca para ve tecrübe kazanmak için üç yolun arasında bulunan ormanda (Jungle) tarafsız yaratıkları (Neutral Monsters) öldürebilirler. Bazı tarafsız yaratıklar para ve tecrübe yanında ekstra özelliklerde vermektedir;
+The Twisted Treeline (Uğursuz Koruluk).
+The Twisted Treeline haritası "Summoners Rift" haritasıyla benzer özellikler taşımaktadır, 3.sezonun başlamasıyla bilgisayara karşı oynanabilir.
+Haritada en fazla üçer kişi olmak üzere eşit sayıda oyuncusu olan sol tarafta "mavi takım" ve sağ tarafta "mor takım"ın savaştığı haritadır. Takımların ana üslerini birbirine bağlayan 2 adet yol bulunmaktadır. (Top lane - Üst yol, Bottom lane - Alt yol) Yolların her birinde ikişer adet kule (tower) ve "önleyici" (inhibitor) bulunmaktadır. İki yoldan da belli aralıklarla "yaratık"lar gelmektedir, karşı tarafın "önleyici"si yıkılınca o yoldan "süper minyon" (Super Minion) ilave olarak gelmektedir. Her takımın ana üssünde "Nexus" binası ve bunu koruyan kule bulunmaktadır. Karşı tarafın "Nexus"unu yıkan takım oyunu kazanır.
+Haritanın üst tarafında ve iki yolun arasında bulunan "orman"da (Jungle) "tarafsız yaratıklar" (Neutral Monsters) bulunmaktadır. Bu yaratıklar öldürülünce para ve tecrübe vermektedir, bazıları ekstra özelliklerde vermektedir;
+Şampiyonlar.
+Oyunda 110'dan fazla şampiyon bulunmaktadır ve belirli aralıklarla yeni şampiyonlar eklenmektedir. Her şampiyonun oyun kendi özgü dörder adet yeteneği bulunmaktadır. Bu yetenekleri ve şampiyonların özellikleri doğrultusunda şampiyona eşya alınarak şampiyon yapılandırılır. şampiyonlar üç faklı şekilde yapılandırılırlar;
+Saniye başına hasar.
+Saniye başına hasar (DPS - Damage Per Second) şampiyonlarının yapılandırılırken 5 özelliğin bazıları güçlendirilir. Bunlar "fiziksel atak gücü" (AD - Attack Damage) , "kritik atak şansı" (Critical Strike Chance), "saldırı hızı" (AS - Attack Speed), "can çalma" (Life Steal) ve "rakibinin zırhını düşürme"(Armor Penetration)dir. Neredeyse her "DPS" şampiyonda "fiziksel atak gücü", "saldırı hızı" ve "can çalma" geliştirilir, diğer ikisi opsiyoneldir.
+"Saniye başına hasar" şampiyonlarında amaç düşmana kısa sürede en fazla fiziksel hasarı vermektir. Bunun için karakterin "fiziksel atak gücü" arttırılır, ve saniyede daha fazla vuruş yapabilmesi içinde "saldırı hızı" arttırılır. "DPS" şampiyonlarının yapılandırılmalarında genellikle "kritik hasarda" kullanılır. Kritik hasar tek seferde rakibinize 2 katı güçte vuruş yapmanızı sağlar, rakibinize kritik vuruş yapabilmeniz için "kritik atak şansı"nızı arttırmanız gerekmektedir. Rakibinize yaptığınız vuruşunuzun etkisi rakibinizin "zırhı"na oranla azalır, bunun için "rakibinin zırhını düşürme" ile rakibin zırhı azaltılır. Yapılan bütün yapılandırma saldırı amaçlı olduğu için savaşlarda uzun süreli hayatta kalabilmesi için savaşlarda fazla hasar almayacağı yerlerde durur ve "can çalma" kullanarak azalan canını tekrar artırır. "Can çalma" yaptığınız vuruşun belli bir kısmının sizin can puanınıza eklenmesini sağlar.
+Yetenek gücü.
+Yetenek gücü (AP - Ability power) yapılandırılmasında 5 özelliğin bazıları güçlendirilir. Bunlar "yetenek gücü", "büyü puanı" (Mana), "yetenek süresi azaltma"(Cooldown Reduction), "can çekme" (Spell Vamp) ve rakibin "büyüye dayanıklılığını düşürme" (Magic Penetration). Her "AP" şampiyonda "Yetenek gücü" geliştirilir, diğerleri opsiyoneldir ancak çoğu zaman "AP" şampiyonlarının 4 özelliği de geliştirilir.
+Yetenek gücü şampiyonlarında amaç şampiyonun yeteneklerinin vuruş gücünü maksimuma çıkartmaktır. Yeteneklerin hasarının artması için karakterin "yetenek gücü" arttırılır. Şampiyonlar (birkaçı hariç) yeteneklerini kullanmaları için "büyü puanı"na ihtiyaç duyarlar, hasarlarını yetenekleriyle verdikleri için diğer şampiyonlara oranla daha çok yetenek kullanırlar bunun için ekstradan "büyü puan"ına ihtiyaç duyarlar ayrıca azalan "büyü puan"larını arttırmak içinse "büyü puanı yenileme"lerini (Mana Regen) arttırabilirler. Her yetenek kullanıldıktan sonra tekrar kullanabilmek için belli bir süre beklemek zorundalar, bu bekleme süresini azaltmak içinse "yetenek süresini azaltma"ları gerekmektedir. "AP" şampiyonlarının verdikleri hasar rakibin "büyüye dayanıklılığına"(Magic Resist) oranla azalır, bunun içinde "büyüye dayanıklılığını düşürme" ile hasarlarını arttırabilirler. Genellikle "AP" şampiyonlarının canları az olmaktadır, "DPS" şampiyonları gibi canlarını arttırmak için "can çekme" (Spell Vamp) kullanırlar, bu sayede savaşlarda daha uzun süre ayakta kalabilirler.
+Tank.
+Tank şampiyonlarının yetenekleri de karakter özellikleri de defansiftir ve yapılandırmalarında 5 temel özelliklerini güçlendirirler. Bunlar "can" (HP - Hit Point veya Health), "zırh" (Armor), "büyüye dayanıklılık" (Magic Resist), "can yenilme" (Health Regen) ve "alan etkisi" (Aura). Her "tank" şampiyon "can"ını arttırır, karşı tarafın saldırı durumuna göre "zırh" ve "büyüye dayanıklılık"larını arttırırlar, bazı "tank"lar opsiyonel olarak "can yenilenme"lerini ve "alan etkileri"ni arttırırlar.
+"Tank"ların esas amacı rakip takımın saldırılarını üzerine çekerek takım arkadaşlarının hasar görmelerini engeller. "Tank"ların savaşta uzun süre ayakta kalabilmeleri için "can"larını kesinlikle arttırırlar, daha sonra karşı tarafın durumuna göre defanslarını geliştirirler. Rakibin "DPS"lerine göre "zırh", "AP"lerine göre "büyüye dayanıklılığı" arttırılır. Daha sonra isteğe bağlı olarak "can yenileme" alırlar. "Tank"lar yapılandırmaları sırasında alan etkilerini de kullanırlar. Savaşın tam ortasında yer alacakları için aldıkları "alan etkileri" defansif veya ofansif olabilir.Defansif "alan etkileri"yle kendi takımının "saldırı hızı", "hareket hızı" veya "zırhı" gibi çeşitli özelliklerini arttırabilir, ofansif "alan etkileri"yle karşı takıma "alan hasarı" verebilir veya "saldırı hızı", "büyüye dayanıklılığı" gibi özelliklerini azaltabilir.
+Destekleyici.
+Destekleyici (Support) şampiyonlarının özelliği takımındaki arkadaşlarını desteklemektir. "Destek" şampiyonları bir çeşit "AP" şampiyonlarıdır. Ancak yetenekleri saldırı amaçlı değildir. "AP" şampiyonları gibi yapılandırmaları 3 temel özelliğe dayanır; "yetenek gücü" (AP - Ability power), "büyü puanı" (Mana) ve "yetenek süresi azaltma"(Cooldown Reduction).
+"Destek" şampiyonlarının özellikleri "AP" şampiyonları gibi yetenekleridir. Yeteneklerin gücünü arttırmak için "yetenek gücü"nü arttırırlar. Daha sık ve devamlı yetenek kullanmak için "büyü puanı"nı arttırıp ve "yetenek süresi"ni azaltırlar. Yetenekleri takım arkadaşının "can"ını veya "hareket hızı"nı arttırmak, "diriltmek" veya rakibi yavaşlatıp, büyü yapmasını engellemek gibi çeşitli şekillerdedir.Sonuç olarak,takım arkadaşının para kazanmasını ve güçlü olarak düşmanlarını öldürmesini sağlar.
+Hibrid.
+Hibrid (Hybrid) şampiyonları yukarıdaki 3 çeşit şampiyonun (DPS, AP, Tank) 2 çeşidinin aynı anda geliştirilmesiyle oluşurlar. Ortak özellikleri pek yoktur, gelişimleri şampiyona göre değişiklik göstermektedir. Örnek olarak "Jax" hibrid bir şampiyondur, DPS veya AP özellikleri geliştirilir. Ancak "Guinsoo's Rageblade", "Hextech Gunblade" ve "Trinity Force" gibi hibrid eşyalarla iki özelliği aynı anda geliştirilirse "Jax" oyunda çok daha etkili olur.
+Oyun Metası.
+Oyunda oyuncuların tecrübelerine ve haritanın özelliklerine bağlı olarak kalıplaşmış sistemler uygulanmaktadır. Bunlar genelde büyük turnuvalarda ve yeni patchlerden sonra değişir, insanlar tarafından benimsenir ve uygulanır. Oyunda 5 çeşit rol vardır. Her role uygun şampionlar vardır. Bunlar genel olarak bilinir ve bunların dışına pek çıkılmaz. Çıkıldığında ise genelde başarısız olunur.
+"'1-Yetenek Gücü Taşıyıcı/Orta Koridor(AP Carry/Mid Lane)
+Bu koridorda genelde yetenekleri yetenek gücünden güç alan şampiyonlar kullanılır. Bunun sebebi takım savaşlarında bu şampionlara ihtiyaç duyulmasıdır. Bu şampiyonların can ve savunma değerleri genelde düşüktür. Daha çok alan bazlı hasar vermekle yükümlülerdir. Ve bu şampionların çok gelişmiş kaçış yetenekleri yoktur.Bu Yetenek Gücü Taşıyıcıları ittirmek için bazen Saldırı Gücü Bazlı Şampiyonlar kullanılır(Örneğin:Talon). Kaçış yetenekleri yüksek Yetenek Gücü Taşıyıcılar ise Solo Top(Madde 4'e bkz.) rolünde de tercih edilirler(Örneğin:(Kennen, Vladimir).
+'"2-Saldırı Gücü Taşıyıcı(Ad Carry/Bot Lane)
+Saldırı Gücü Taşıyıclar oyun sonunda, takım savaşlarında, hiç aksatmadan sürekli hasar verebildikleri için önemlidir. Oyun sonunda Yetenek Gücü Taşıyıcı'ların vuruşları tanklanabilir ama Ad carry'lerin vuruşları çok kolay tanklanamaz. Bu sebepten takım savaşlarında ilk öldürülmesi gereken kişi Ad carry'lerdir. Melee ad carryler takım savaşlarında pozisyon almaları zor olduğundan pek tercih edilmezler. Ad carry'lerin korunması için support karakterler görevlendirilir. Farmlarına bu support karakterler karışmaz. Bu iki karakter bot lane'e giderler. Tabii bot lane olması gerekmez illa, bazen top lane ile bot lane yer değiştirir. Genelde bot lane'de iki kişinin bulunmasının sebebi erken oyunda ejderha için çıkabilecek bir savaşta 4 kişi olabilmektir. Yine de taktiksel olarak, koridor değiştirme (laneswap) adı verilen alt koridor(bot lane) ile üst koridor(top lane)'un yer değiştirme olayı turnuvalarda çoğunlukla görülür.
+'"3-Destekçi/Alt Koridor (Support/Bot Lane)
+Support karakterlerin başlıca görevi Ad carry'yi korumak, lane de rakip ad carry'yi etkisiz hale getirmek ve haritayı wardlamaktır. Support karakterlerde yüksek disable skilleri bulunmalıdır. Buff, debuff, heal, mana, slow, stun, snare, knock up, pull özellikleri supportlarda bulunur. Hepsinin bir supportta bulunması gerekmez. Temel olarak eşyalara fazla bağlı olmadan oyunda işini yapabilen şampiyonlar supportluk yapabilir. Sadece support oynayan karakterler olduğu gibi, cc'leri yüksek olduğu için support olarak kullanılan karakterler de bulunmaktadır.
+'"4-Yalnız-Tek Başına /Üst Koridor(Solo Top/Top Lane)
+Bu lanede support ihtiyacı olmadan jungler'ın yapacağı ganklerden kurtulabilecek kadar tanky ya da kaçış skillerine sahip olan championlar tercih edilir. Bu sebepten dolayı turnuvalarda bu lane'in counterlanması çok önemlidir. Bu lane'deki champion bazen ad carry de olabilir, ap carry de. Ama offtank olması daha tercih edilen bir durumdur. 
+'"5-Ormancı/Orman(Jungler/Jungle)
+Beslenme(Farm)'sini ormanda yapan, geride olan koridorlara yardım eden(gank) ve genelde dayanıklı (tank) olan şampiyonların tercih edildiği bir roldür. Oyun Sonu'nda güçlü, çok beslenmese de iş yapabilecek şampiyonlar burada tercih edilir. Bu şampiyonların da destekçiler gibi disable özellikleri önemlidir. Çünkü lane gank atmaya çalıştığında rakip champion kaçmadan onu öldürmesi gerekir. Gap closer ve movement speed de junglerlar için önemlidir. Tanky junglerlar turet arkasından, tureti tanklayarak gank atabilirler. Oyun içi dragon ve baron kontrolünden junglerlar ve supportlar sorumludur. Counter jungle yaparak rakip junglerla sürekli kapışma içersinde olabilirler. Bazen bu lane kapışmasına benzeyebilir. Smite spell'i junglerlar için vazgeçilmezdir. Bu spell sayesinde dragon ve baronları rakip keserken çalabilir, rakibin bufflarını olabildiğince bir şekilde alabilirler. Smitesız jungle yapabilecek şampiyonlar vardır ama yine de smite almak gereklidir.
+Kullanıcı hesapları ve özellikleri.
+Sihirdar(Summoner).
+Oyuncuların karakterlerine verilen addır.
+Kabiliyet.
+Kabiliyetler oyunda karakterin seviyesine göre (maksimum :30 seviye) 1'den 30'a kadar açılabilen oyun başında oyuncuya verilen özelliklerdir. Bu özellikleri kullanarak oyun içerisindeki görevinize (Ormancı-Saldırı Gücü Taşıyıcı-Yetenek Gücü Taşıyıcı-Destekçi-Solo Top) daha kolay uyum sağlamanız ve oyun başında ki gücünüzün artmasına yardım eder.
+Üç ayrı kabiliyet grubu vardır bunlar;
+1-)Saldırı : Bu Kabiliyet grubunda genellikle saldırgan özellikler bulunur ve oyun boyunca hasar vermek isteyen oyuncular bu grubu doldurulmalıdır. Bu grupta hem büyücü karakterler hem de saldırı gücü karakterler için özellikler vardır. Örneğin : Saldırı hızı, yetenek gücü, saldırı hasarı gibi.
+2-)Savunma : Bu kabiliyet grubunda oyunun başlarında daha tank olmak isteyen karakterler için doldurulması önerilir. Bu kabiliyet grubunda zırh, büyü direnci, can yenilemesi gibi özellikler bulunur.
+3-)İşlevsel : Bu kabiliyet grubunda daha çok pasif olarak işimize yarayacak özellikler bulunur. Genellikle Destekçiler bu tabloyu tercih eder. Çünkü bu gruptaki mana yenilemesini almak isterler, oyunun başlarında bu mana yenilemesi rakibine karşı üstünlük kurmasına yardım eder. Bu gruptaki özellikleri çoğunlukla destek oyuncular tercih eder, oyun içinde minyon kesmemesi ve skor almaması gerektiği için burada bulunan saniye başına altın kazanımına ihtiyaç duyarlar. Bu grupta mana yenilemesi, oyun başında verilen totem ve 75 altın daha fazla altın ve sürekli altın artışı gibi özellikler bulunur.
+Rün.
+Sihirdarlar oyunu oynadıkça deneyim puanı kazanır ve Seviye (Level) atlar.Seviye atladıkça sihirdarların rün sayfalarına rün ekleyip oyunun başında standart özelliklerini arttırabilirler.Sihirdarların dokuz mühür, dokuz nişan , dokuz damga ve üç cevher olmak üzere 30 tane rün dizme hakkı vardır. Damga ofansif öncelikli, mühür büyü öncelikl, nişan defansif önceliklidir. Cevher ise hepsinde etkilidir
+Mağaza.
+Mağaza oyun içindeki alışveriş yeridir. Mağazadan yeni şampiyonlar, runeler,kostümlü wardlar, şampiyon kıyafetleri ve birkaç kullanıcı eşyası alabilirler (örneğin; server değiştirme bileti veya kullanıcı ismi değiştirme bileti).
+Tribunal.
+Oyun içinde küfür veya diğer sebeplerden dolayı rapor edilen oyuncuların tribunal diye adlandırılan bir sistemde başka oyuncular tarafından cezasının kesilmesidir.
+Sunucular.
+Riot Games Inc şirketi tarafından yayınlanan League of Legends'ın 8 adet resmi sunucusu vardır;
+ayrıca Garena şirketi tarafından yayınlanan 2 farklı sunucu daha vardır. Bunlar;
+Türkiye sunucusu.
+League of Legends Türkiye sunucusu ilk defa 27 Temmuz 2012 tarihinde LoL resmi facebook sayfasında duyuruldu. Daha sonra 29 Ağustos 2012 tarihinde kapalı beta yayınlandı. Tamamen Türkçeleştirmek için 56 farklı seslendirme sanatçısı ile seslendirme ekibi kuruldu.
+Dünya Şampiyonası.
+League of Legends her yıl başında yeni sezona girer ve her sezon sonunda tüm sunuculardan seçilmiş takımlar ile Dünya Şampiyonası tunuvası yapılır. Turnuva sonunda kazanan takıma para ödülü verilir. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kontact</DOCTITLE>
+<TEXT>
+
+Kontact, KDE için kişisel bilgi yönetimi yazılımıdır. Bünyesinde e-posta istemcisi, haber okuyucusu (RSS, Atom), takvim, not alma, yapılacaklar listesi gibi özellikleri barıdırır.
+Kontact'ın içinde yer alan her bağımsız bileşen Kontact altında birbirleriyle uyum içinde çalışmaktadır. Bu sayede bileşenler arasında sürükle bırak yaparak randevular organize edebilir ve yapılacak işler düzenlenebilir. Sunucu desteği sayesinde tek bir adımla sunucuya bağlı tüm terminaller izlenebilir ve her bir terminal için yapılacak işler ayarlanabilir.
+Bileşenler.
+Aşağıdaki programlar Kontact içerisinde gömülü olarak çalışmaktadır.
+Özellikleri.
+E-posta istemcisi.
+Kontact bünyesinde KMail e-posta istemcisi yer almaktadır. KMail'in başlıca özellikleri şunlardır:
+Takvim / ajanda.
+Kontact bünyesinde yer alan KOrganizer isimli takvim ve yapılacaklar listesi yazılımının başlıca özellikleri şunlardır:
+Kişiler.
+Kontact bünyesinde yer alan KAddressBook adres defteri yazılımının başlıca özellikleri şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Polietilen</DOCTITLE>
+<TEXT>
+
+Polietilen, çok çeşitli ürünlerde kullanılan bir termoplastiktir. İsmini monomer haldeki etilenden alır, etilen kullanılarak polietilen üretilir. Plastik endüstrisinde genelde ismi kısaca PE olarak kullanılır. 
+Etilen molekülü C2H4 , aslında çift bağ ile bağlanmış iki CH2’den oluşur. (CH2=CH2) 
+Polietilenin üretim şekli, etilenin polimerizasyonu ile olur. Polimerizasyon metodu, radikal polimerizasyon, anyonik polimerizasyon, iyon koordinasyon polimerizasyonu ve katyonik polimerizasyon metodları ile olabilir. Bu metodların her biri farklı tipte polietilen üretimi sağlar.
+Polietilenin sınıflandırılması.
+Polietilen yoğunluk ve kimyasal özellikleri baz alınarak çeşitli kategorilerde sınıflanır. Mekanik özellikleri, moleküler ağırlığı, kristal yapısı ve dallanma tipine bağlıdır. 
+Özellikleri.
+Özellikleri tiplere göre değişiklik gösterse de; dış ortam koşulları ve neme karşı iyi direnç, esneklik, zayıf mekaniksel kuvvet ve üstün kimyasal direnç genel özellikleri olarak sayılabilir. 
+Kaplar, plastik kutular, mutfak eşyaları, kaplamalar, boru ve tüp, oyuncak, kablolarda yalıtkan tabakalar, paketleme ve ambalaj filmi gibi çok yaygın bir kullanım alanı olup. Düşük maliyetlidir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Shaiya</DOCTITLE>
+<TEXT>
+
+Shaiya, Aeria Games tarafından ücretsiz olarak sunulan, SonoV Entertainment yapımı, devasa çok oyunculu çevrimiçi rol yapma oyunudur. (MMORPG, Massive Multiplayer Online Role Playing Game )
+Amerika sunucusu 2007, Türkiye sunucusu ise 2009 yılının ağustos ayında resmî olarak başlayan oyun, LEVEL Dergisi'nde 2009 yılının en iyi animasyona sahip MMORPG'si ödülüne lâyık görülmüştür.
+Klaslar.
+Işık İttifakı.
+Cengaverler tipik yakın dövüşçülerdir, bire bir karşılaşmaları tercih ederler. Bir cengaverin en önemli özelliği fiziksel saldırı gücü olmasına karşın özel yeteneklerini kullanabilmek için dövüş puanına (DP) ihtiyaç duyarlar.
+Özellikleri:
+- Çoğu silahı kullanabilirler.
+- Üst düzey fiziksel saldırı gücüne sahiptirler.
+- Savaşlarda ön saflarda etkili olurlar.
+- Tek başlarına da, grupta da rahatça seviye atlayabilirler.
+- Her seviye artışında otomatik olarak +1 GÜÇ puanı alırlar.
+Muhafızlar üstün Dayanıklılık ve Hayat puanlarıyla ön safların değişmez savaşçılarıdır. Muhafızlar, cengaverlerin aksine aynı anda birden fazla düşmanla girdikleri mücadelelerden canlı çıkmayı başarabilirler. Ayrıca canavarları üstüne çekme özelliği sayesinde gruplarda çok faydalı olurlar. 
+Özellikleri:
+- Kalkan, tek-el kılıç ve ağır silahları kullanabilirler.
+- Yüksek direnç ve yaşam enerjisine sahiptirler.
+- Bir büyücü ile aynı grupta olunca en çabuk seviye atlayan karakter olur.
+- Savunması yüksek olmasına karşın fiziksel atağı çok düşüktür. Seviye atlamak için gruba ihtiyaçları vardır. Çok aranan bir sınıftır.
+- Her seviye artışında otomatik olarak savunmaları ve hayat puanları artar (+1 DEF).
+Rahipler yeteneklerini insanlığın ruhani doğasından alırlar. Yenileme büyüleriyle savaşlarda gerek kendilerine gerekse içinde bulundukları gruba büyük fayda sağlarlar. Hem ölüleri diriltebilen hem de büyülere karşı koruma sağlayabilen rahipler bu özellikleriyle paganların karşıt klasını temsil ederler. İyileştirme gücüne sahip su elementini yönetirler. Bu element ile rakiplerini yavaşlatabilirler. 
+Özellikleri:
+- Yenileme büyülerinde uzmandırlar.
+- Çeşitli kutsamalarla müttefiklerinin gücüne güç katarlar.
+- Her grupta aranan sınıftır. En kolay seviye atlayan karakterlerdendir.
+- Eğer farklı bir dağılım yapmamışsa rahip sınıfı tek başına çok zor seviye atlar. Gruba ihtiyacı vardır. 
+- Her seviye artışında sihirsel defans ve sihir isabetleri artar. (+1 BİL)
+Korucular doğa ve hayvanlar üzerine sahip oldukları bilgiler sayesinde çevrelerine uyum sağlamakta ustadırlar. Gizlenme, şaşırtma ve pusuya yatma bir korucunun en önemli özellikleridir. Kendini zararsız bir hayvana dönüştürerek ormanda farkedilmeden dolaşabilir. Rakibini kitleyerek vurmasını engeller. 
+Özellikleri:
+- Kısa kılıçları ve muştaları kullanabilirler.
+- Üstün sıyrılma yetenekleri vardır. Bu sayede en iyi PVP(Player versus Player) ve VS (Versus) karakteridir.
+- Gizlenme ve dönüşme yeteneklerine sahiptirler.
+- Tek başına seviye atlar. Gruplarda işe yaramadığından aramasına gerek yoktur zaten tek keserken daha iyi seviye atlar.
+- Her seviye artışında sıyrılma şansı ve fiziksel saldırı puanları artar. (+1 BEC)
+Okçular uzun mesafe saldırıları sayesinde tehlikelerden uzak durabilirler. Rakibinin hareket ve saldırı hızını düşürerek rahatça üstesinden gelebilirler. Özel yetenekleri sayesinde rakiplerinin üzerine gerçek anlamda ok yağdırabilirler. Oldukça şanslı olan okçular, diğer klaslara oranla daha çok kritik hasar verebilirler.
+Özellikleri:
+- Ok, tatar yayı ve kısa kılıç kullanabilirler.
+- Uzmanlık alanları uzun mesafeli saldırılardır. Yakındaki hedefe daha düşük hasar verirler.
+- Üstün kritik isabet oranına sahiptirler.
+- Gruplarda işe yaramayan okçular, seviye arttırması en zor olan sınıftır ama yüksek seviye bir okçunun yenilmesi çok zordur. 
+- Her seviye artışı ile birlikte kritik isabet oranları da artar (+1 ŞAN).
+Elfleri elf yapan özelliklerden belki de en önemlisi büyü kullanımı, bu özelliğin en ön plana çıktığı klas da kuşkusuz büyücülerdir. Büyücüler gerek teker teker gerekse grup halinde, her türlü rakiple başetmek için büyüye başvururlar. Ateş, toprak ve rügar elementlerinden sağlayabildikleri fayda sayesinde oldukça çetin bir düşmana dönüşürler.
+Özellikleri:
+- Olağanüstü hasar puanına sahip olmalarınına karşın savunması en düşük sınıftır.
+- Bir hedefe veya bir alana saldırabilirler. Bu alan yetenekleri sayesinde Muhafızlarla en iyi grubu oluştururlar.
+- Tek başına seviye atlaması zor olan büyücüler genellikle Muhafızların bulunduğu gruplarda savaşırlar. 
+- Element vuruşları çok önemlidir. Toprak yetenekleri rahibi kitler ama çok uzun sürede yapılır. Ateş yetenekleri ortalama sürede yapılır ve uzun süreli hasarlar bırakırlar. Rüzgar yetenekleri anında yapılan büyülerdir ve hatırı sayılır hasar verirler. 
+- Her seviye artışında sihirsel atakları artar. (+1 ZEK) 
+"*Toprak elementi suya karşı güçlüdür. Su elementi ateşe karşı güçlüdür. Ateş elementi rüzgara karşı güçlüdür. Rüzgar elementi de toprağa karşı güçlüdür."
+Dış bağlantılar.
+Shaiya resmî websitesi
+Shaiya Türkiye resmî websitesi
+SonoVaslag Entertainment
+Aeria Games
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ortorombik</DOCTITLE>
+<TEXT>
+
+Ortorombik Kristal Sistemi.
+Ortorombik kristal sistemi kristal kafes yapılarından birisidir.
+Bu sistemde a, b ve c eksenleri farklı boylarda, bunlar arasındaki açılar da 90o'e eşittir
+a≠b≠c ve α=β=γ=90° olmalıdır.
+Bravais Motifleri.
+Ortorombik sisteminin Basit, Taban merkezli, İç merkezli ve Yüzey merkezli olmak üzere 4 adet Bravais motifi vardır.
+Kristal Sınıfı.
+Ortorombik Sistemin, 59 adet kristal sınıfı vardır.
+Ortorombik Kristal Yapısına Sahip Bazı Mineraller.
+Krizoberil.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Genellikle levhamsı kristalli
+İkizlenme: {130} yüzeyinde yaygın kontakt ve interpenetrasyon ikizleri
+Sertlik: 8.5 - 9
+Özgül Ağırlık: 3.65 - 3.80
+Dilinim: {110} zayıf
+Renk ve Şeffaflık: Sarımsı yeşilin değişik tonları, sarı, gri, kahverengi, mavi-yeşil, zümrüt yeşili; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı parlaklıkta
+Ayırıcı Özellikleri: Rengi, sertliği ve kristal şekli
+Bulunuşu: Granitik kayalarda, pegmatitlerde ve mikaşistlerde oluşur. Ayrıca, dolomitik mermerlerde ve alüvyonlarda da rastlanılabilir.
+Aragonit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: İkizlenme göstermeyen türleri nadir, iğnemsi, bazen levha şekillidir. Güçlü ikizlenme gösteren türleri iğnemsi, prizmatik, lifsi, pizolitik, sarkıt ve sütun şekillidir.
+İkizlenme: Çok yaygın pseudo-hegzagonal şekilli ikizleri, özellikle {110} yüzeyinde altılı prizmalar halinde gözlenir.
+Sertlik: 3.5-4
+Özgül Ağırlık: 2.947
+Dilinim: {010} belirgin
+Renk ve Şeffaflık: Renksiz, beyaz, sarımsı, gri, yeşil, mavimsi yeşil,mavi, kırmızı, kahverengi; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı, reçine parlaklığı
+Ayırıcı Özellikleri: HCl'de çözünebilirlik, CaCO3'ın polimorfu olan kalsitten kristal formu ve özgül ağırlığının fazla olması nedeniyle ayrılabilir.
+Bulunuşu: Kalsit kadar yaygın değildir. Yüzeye yakın kesimlerde oluşan düşük sıcaklıklı yataklardan itibaren jips bantları ile birlikte oluşur. Maden yataklarının oksidasyon zonlarında malahit ve smitsonit gibi ikincil minerallerle birlikte; değişik metamorfik ve sedimanter kayalarda oluşabilir.
+Markazit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Çoğunlukla levhamsı kristalli, masif, ışınsal lifler şeklinde
+İkizlenme: { 101} yüzeyinde olağan
+Sertlik: 6 - 6.5
+Özgül Ağırlık: 4.87 - 4.92
+Dilinim: { 101} yüzeyinde belirsiz
+Renk ve Şeffaflık: Soluk bronz sarısı, opak
+Çizgi Rengi: Grimsi siyah
+Parlaklık: Metalik
+Ayırıcı Özellikleri Pirite çok benzer ancak, yoğunluğu daha düşük ve rengi daha soluktur.
+Bulunuşu, Markazit: 450 oC'den düşük sıcaklıklarda, çinko-kurşun içeren hidrotermal damarlarda oluşur. Tebeşir ve kireçtaşı gibi sedimanter çökellerde de oluşabilir.
+Talk.
+Kristal Sistemi: Monoklinik
+Kristal Biçimi: Kristalleri çoğunlukla ince levhamsı; masif, ince taneli kompakt
+Sertlik: 1
+Özgül Ağırlık: 2.58 - 2.83
+Dilinim: { 001} mükemmel
+Renk ve Şeffaflık: Beyaz, gri, donuk yeşil, gümüş beyazı; Yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: İnci pırıltılı
+Ayırıcı Özellikleri: Yumuşaklığı, sabunsu olması, rengi
+Bulunuşu: Olivin, piroksen ve amfibol gurubu minerallerin alterasyonu ile ikincil olarak meydana gelir. Magnezyumlu kayaların düşük-orta mertebeli metamorfizmasıyla birincil olarak oluşur ve genellikle tremolitle beraber bulunur.
+Götit.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Genellikle masif, böbreğimsi, lifsi, ışınsal dokuda ve nadir bulunan bir mineraldir. 
+Sertlik: 5 - 5.5
+Özgül Ağırlık: 3.3 - 4.3
+Dilinim: {010} mükemmel
+Renk ve Şeffaflık: Kristal olanlar siyahımsı kahverengi, masif olan türleri kırmızımsı-sarımsı kahverengi; opak
+Çizgi Rengi: Turuncu-kahverengimsi sarı
+Bulunuşu: Yaygın olarak bulunan bir mineraldir. Demir içeren pirit, manyetit, kalkopirit ve sideritin alterasyonu ile oluşur.
+Kükürt.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Çubuksu veya bipramidal kristalleri nadir, kristal yüzeyleri düzensiz gelitim gösterir
+İkizlenme: {011}, {101} ve {110} yüzeylerinde nadir.
+Sertlik: 1.5 - 2.5
+Özgül Ağırlık: 2.07 - 2.1
+Renk ve Şeffaflık: Parlak sarı, sarımsı, kahverengimsi sarımsı gri. Kırmızımsı, yeşilimsi; Şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Reçinemsi
+Ayırıcı Özellikleri: Renk, düşük sertlik, düşük erime noktası, suda ve derişik hidroklorik asitte çözünmesi.
+Bulunuşu: Volkanik süreçlerde ve hidrotermal yataklarda, jips içeren sedimentar kayaçlarda, tuz domlarında ve cevher yataklarında ikincil olarak bulunur.
+Sölestin.
+Kristal Sistemi: Ortorombik
+Kristal Biçimi: Levhamsı veya prizmatik kristalli, bazen lifsi veya tanesel
+Sertlik: 3 - 3.5
+Özgül Ağırlık: 3.97
+Dilinim: {001} mükemmel
+Renk ve Şeffaflık: Renksiz-mavimsi beyaz, beyaz, mavi, bazen kırmızımsı; şeffaf-yarı şeffaf
+Çizgi Rengi: Beyaz
+Parlaklık: Camsı
+Ayırıcı Özellikleri: Yüksek özgül ağırlığı, dilinimi, rengi 
+Bulunuşu: Yaygın olarak sedimanter kayalarda özellikle dolomitlerde boşlukların çeperlerinde, anhidrit ile birlikte evaporit çökellerde, hidrotermal damarlarda, nadiren bazik magmatik kayalarda olusur. Barit, jips, halit, anhidrit, kalsit, dolomit ve fluorit ile birlikte bulunur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Samsung Galaxy Pocket</DOCTITLE>
+<TEXT>
+
+Galaxy Pocket (GT-S5300), Samsung'un Şubat 2012'de çıkardığı giriş sınıfına hitab eden ve en ucuz ikinci cep telefonudur. (Birincisi Samsung REX serisi) İşletim sistemi olarak Android OS'un 2.3.6 Gingerbread sürümünü kullanmaktadır. Genel özellikleri olarak 2.8 inc büyüklüğündeki QVGA TFT Multitouch ekran, Samsung'un kendine özgü Touchwiz 3.0 arayüzü ve ARMv6 işlemcisi vardır
+Genel Özellikleri.
+ARMv6 işlemcisi ile pek çok uygulamayı ve videoları donmadan destekler. Cpu hızı 832 MHz'dir. Diğer kardeşi Samsung Galaxy Y ile aynı özellikleri taşır. Wİ-Fİ, EDGE, 3G gibi bağlantı seçenekleri sunar. Buna ek olarak Wİ-Fİ, Bluetooth 3.0 özelliklerini destekler. Arka kamerası 2.0 MP olup, gayet net fotoğraf çekmektedir.
+Pil ve Diğer özellikleri.
+Standart Pil, Li-ion1200 mAh. Dahili Belleği, 4 GB, Ekran Boyutu 240 x 320 2,8 inc TFT Multi-Touch, Max. Sd Cart desteği: 32 GB.
+Fiziksel özellikleri.
+103,9 x 57,9 x 11,98 mm boyuta ve 97 g ağırlığa sahiptir
+Multimedia.
+Standart 3,5mm jack, Wi-Fi, Bluetooth, MP3 Player, FM Radio, T9 Metin girişi, SMS, MMS, E-posta.
+Kamera.
+Cihazın arka yüzünde flaşsız otofokus özellikli, 2 MP kameraya sahiptir. Ön yüzünde kamera yoktur. Ayrıca dijital yakınlaşma, çekim modları ve efektleri bulunur.
+Renk Seçenekleri.
+Türkiye bazında siyah, beyaz, gri, turuncu, lacivet, pembe ve sarıdır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>NosTale</DOCTITLE>
+<TEXT>
+
+NosTale bir MMORPG tarzı bir oyundur.İlk olarak Kore'de 2006 yılında çıkmıştır.Daha sonra başka dillere çevrilerek dünyaya yayılmıştır.Bugün şu diller mevcuttur: Japonca, Çince, Almanca, İtalyanca, İngilizce, Fransızca, Rusça, İspanyolca, Lehçe ve Türkçe'dir.
+Karakterler ve Özellikleri.
+Maceracı.
+Maceracı oyuna başlayanların ilk oldukları karakterdirler ve acemilerdir. Oyuncular 20. iş seviyesine ulaştıklarında bir aşağıdaki mesleklerden birini seçerler. Nostale Resmi Web Sitesi'nde maceracı karakterinin açıklaması şöyledir:
+Maceracı
+Maceracı ilk bakışta genç ve tecrübesiz gibi gözükse de buna kanmamak lazımdır. NosVille'e gelen her yeni oyuncu tecrübesiz bir maceracı olarak başlar. Günün birinde bir kahraman olmak için de zorlu bir eğitimden geçmelidir. Bu maceracı, merak ve enerji dolu bir şekilde silahlarını kötülüğe karşı yapılan savaşda kullanır.
+Kılıç savaşçısı.
+Bu savaşçı hem yakın hem de uzak dövüş yapabilmektedir.Ek özellikleri sayesinde aynı anda birden fazla kişi ile savaşabilmektedir.Karakterler arasında en dayanıklı sınıfdır.
+Okçu.
+Yapabildiği özellikler çoktur ve bu sayede yakın ve uzak dövüşte çok kolay bir şekilde yenebilir.Dövüşlerde kaçarak ok atma sayesinde çok şanslıdır.Aynı zamanda meslek sınıfları arasından en hızlı olanıdır
+Büyücü.
+Şaşırtıcı büyü saldırıları yapar ve mistik silahlarıyla dikkat çeker.Bu mistik silahlarla istediklerini iyileştirip istediklerini de lanetleyebilir.
+SP Kartları.
+Karakterlerinizin belli Lv. ve iş seviyesinde Sp kartları görevi alınır.Bu görevden Sp Kartları Alınır.Bu kartla görünümünüz ve gücünüz yükselir ve değişir.Altı adet sp kartı vardır ve her bir kartın farklı element özellikleri vardır.(Sp Kartlarına İtem takamazsınız ama güçlendirebilirsiz).Kartın iş seviyesi artınca yeni vuruşlar gelir ya da buff isimleri altında bazı vuruş , savunma , YP ve BP puanı arttırma özellikleri alırsınız. Eğer kartınızın iş seviyesi 20 den sonra yükseldikten sonra kartınızı taktığında YP - BP yükselimi , Element Savunma arttırma , vuruş ya da savunma özelliklerine kazandığınız tecrübe puan olarak bu özellikleri arttırabiliriz.ve her elementte çeşit çeşit kart sahini olabilirsiniz.
+Kaynakça.
+www.nostale.web.tr
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Satürn'ün doğal uyduları</DOCTITLE>
+<TEXT>
+
+Satürnün bilinen 47 doğal uydusu vardır. Uluslararası Gökbilim Birliği (IAU) tarafından doğrulanan uydulardan oluşan bu gruba ek olarak bir kez gözlendiği bildirilen ancak varlığı doğrulanmamış küçük uydular bulunmaktadır.
+Satürn'ün uyduları, yörüngeleri, boyut ve fiziksel özellikleri ve bu verilere göre tahmin edilebilecek oluşum mekanizmaları ve yaşam öyküleri açısından büyük bir çeşitlilik gösterirler. Satürn‘ün halkaları ve uyduları arasındaki karmaşık ilişki aydınlatılması gereken birçok ilginç noktayı barındırmaktadır.
+Yörünge özellikleri.
+Satürn'ün uyduları, yarı büyük ekseni 134.000 ile 23 milyon km. arasında değişen çok geniş bir yörünge yelpazesine dağılmış durumdadırlar. Gezegene bilinen en yakın uydu 2,21 RS (Satürn yarıçapı) uzaklıktaki yörüngedeki Metis'tir. Bilinen en uzak uydu ise, 383 RS uzaklıktaki yörüngesi ile Ymir adlı küçük uydudur. 
+Satürn'ün tüm büyük uyduları ile halkalar arasında yer alan iç yörüngelerde bulunan birkaç küçük uydu, gezegenin ekvator düzlemine göre eğikliği yok denecek kadar az ve aynı şekilde dışmerkezlik oranı çok küçük olan yörüngeler çizmeleri nedeniyle 'düzenli uydular' olarak adlandırılır, ve bu özellikleri uyduların Satürn'ün oluşumu sırasında meydana geldiklerini düşündürür. Yüksek eğiklik ve dışmerkezliğe sahip yörüngelerde ve bazıları da ters yönde hareket eden 'düzensiz uydular'ın ise kendi içlerinde benzer yörünge özelliklerine sahip birkaç grup içinde toplanmaları dikkati çeker. Bu uyduların içinde yer aldıkları gruplara göre değişen ortak ve büyük olasılıkla Satürn dışı kökenleri olduğu düşünülür. Satürn uydu sistemine özgü bir özellik 'eş-yörüngeli uydu' gruplarının varlığıdır.
+İç yörüngeleri işgal eden uydular Satürn‘ün halkaları ile yoğun etkileşim halindedirler. Çekim etkileri ile halkaların dağılım ve yoğunluklarını belirledikleri, halkalar arasındaki boşluklara neden oldukları için bu uydulara 'çoban' takma adı verilmiştir. Bu uyduları halkalar sisteminin dinamik bileşenleri olarak kabul etmek gerekir. Pan adlı uydu Encke bölümü'nün, 2005 yılında Cassini sondası tarafından gönderilen görüntüler yardımıyla keşfedilen Daphnis ise Keeler aralığı'nın açık kalmasından sorumludur ve bu boşluklar içinde yol alırlar. Atlas A halkasının dış sınırını belirler. Prometheus ve Pandora F halkasını iç ve dıştan aralarına alarak dar bir alana sıkıştırırlar. 
+Epimetheus ve Janus aynı yörüngeyi paylaşırlar. Bu yörünge boyunca belli aralıklarla hız değiştirerek birbirlerinin ilerisine ve gerisine geçmeleri Güneş Sistemi içinde başka örneğine rastlanmayan bir eş-yörünge ilişkisi oluşturur.
+Mimas A ve B halkalarını ayıran Cassini Bölümünün varlığından sorumludur.
+Enceladus, Dione ile 1:2 oranında bir rezonans içinde hareket eder. 
+Tethys ile aynı yörüngede, bu uydunun 60o ilerisinde ve 60o gerisinde yol alan iki 'Truva'lı uydu' bulunur: Telesto ve Calypso. Aynı şekilde Dione ile aynı yörüngeyi paylaşan Truva'lı uydular Helene ve Polydeuces'dir. Bunlar da değişik bir eş-yörünge ilişkisine örnektir.
+Düzenli yörüngeye sahip uydulardan yalnızca dört tanesi halkaların dışında yer alır: Rhea, Titan, Hyperion,ve İapetus.
+Hyperion dışındaki bütün düzenli uydular kendi eksenleri etrafındaki dönüşlerini Satürn çevresindeki dolanmalarına eş sürede tamamlarlar, yani gezegenle çekimsel olarak kilitlenmiş dönüş periyodları vardır. Bu nedenle Satürn'e hep aynı yüzleri dönük kalır. Hyperion'un ise kendi etrafında dönüş ekseni sürekli yer değiştirdiği için kaotik bir dönüş biçimi vardır. Bunda uydunun yörüngesinin Titan'ınki ile 3:4 rezonans içinde olmasının payı bulunabilir. Düzensiz yörüngeli uydular ise dışmerkezlik derecesi yüksek yörüngeler izledikleri ve bu nedenle yörünge boyunca sürekli değişen hızlarla ilerledikleri için dönüş periyodlarının dolanma periyodları ile kilitlenmesi mümkün olmamıştır. 
+Yeni keşfedilen ve henüz resmi ad almamış uyduların büyük çoğunluğu yeterli gözlem süresini geçirmedikleri için yörüngelerine ait bilgiler kesinleşmemiş durumdadır. Tabloda yer alan bu uydulara ait bilgilerin ve gruplandırmanın kesin olmadığını gözönünde tutmak gerekmektedir. 
+Fiziksel özellikler.
+Uyduların boyut ve biçimleri.
+Satürn'ün uyduları boyutları açısından da büyük bir çeşitlilik gösterirler. Güneş Sistemi'ndeki ikinci büyük uydu olan Titan, gezegenlerden Merkür ve Plüton'u çap açısından geride bırakır. Tethys, Dione, Rhea, ve İapetus'un çapları 1000 km. yi aşar. Bu uydular büyük kütleleri ve kuvvetli yerçekimi nedeniyle tam bir küreye yakın biçimler almıştır. Güneş sistemi içinde bulunan çeşitli gök cisimleri üzerinde yapılan gözlemlerden öğrenildiği kadarıyla, 1000 km. civarında bir çap, bir gök cisminin oluşumu sırasında yoğunlaşan maddelerin açığa çıkardığı enerji nedeniyle ısınıp eriyerek tabakalar halinde farklılaşması ve kabaca küresel bir şekil ortaya çıkması için yeterli olmaktadır. Kuramsal hesaplamalar da buna yakın sonuçlar vermektedir. Ortalama çapı 100 km. -1000 km. arasında olan 7 uydu daha sayılabilir. Bunların arasında biçimi kusursuz bir küreye çok yakın olan Enceladus ile çok düzensiz bir görünüme sahip Phoebe, farklı köken ve yaşam öykülerinin uyduların fiziksel özelliklerine nasıl yansıdığına örnek oluştururlar. 
+Çapları 100 kilometreyi geçmeyen çok sayıda uydu, düzensiz şekillere sahip 'kaya' veya 'buz' parçaları olarak kabul edilir. Bugün için yeryüzünden gözlenebilirlik alt sınırı 3 km. kadar olduğundan, Satürn'ün henüz saptanamamış çok sayıda daha küçük uydusu olması mantıklı görünmektedir.
+Dış görünüm ve yüzey özellikleri.
+Satürn sisteminin çeşitli üyelerinin kolaylıkla gözlenebilen temel özellikleri farklı köken ve geçmişlerini ele verir niteliktedir. Titan, gezegenlerle karşılaştırılabilecek büyüklüğünün yanı sıra, kendine özgü yüzey özelliklerini şekillendiren ve aynı zamanda gözlemlenmesini güçleştiren yoğun atmosferi ile kuşkusuz bu ailenin en ilginç ve sırlarla dolu üyesidir. Sürekli şekil değiştiren bulutlar ve yoğun bir pus tabakası yüzünden görünür tayfta gözlemler sınırlı bilgi sağlar. 0,22 düzeyinde bir beyazlık (albedo) derecesi ile uydu üzerine düşen güneş ışığının büyük kısmını soğuran bu atmosfer Titan yüzeyinde 95K civarında bir sıcaklık sağlar. Radar ve kızılötesi incelemelerde çarpma krateri olduğu düşünülen oluşumların seyrekliği, büyük yükselti farklarının bulunmayışı, Titan'ın hızla değişen dinamik bir yüzey yapısına sahip olduğu izlenimi verir. Tektonik etkinlik ve yanardağ etkinliği lehinde yorumlanabilecek özelliklerin yanında, sıvı aşındırması sonucunda ortaya çıktığı düşünülen yapılara rastlanmaktadır. Yoğunluğu Yer atmosferinin 1,5 katı kadar olan ve yoğun bulutluluğu ile yüzey şekillerinin büyükçe bir kısmını gizleyen Titan atmosferinin uydu yüzeyine yağmur ya da kar şeklinde yağış düşmesine neden olduğu ve bu akışkanların açtığı nehir veya sel yatakları ve depolandığı göller bulunabileceği düşünülmektedir. 
+Bir atmosferi olduğu kanıtlanan ikinci Satürn uydusu Enceladus'tur. Sürekli bir atmosfer barındırmasına yeterli kütlesi olmadığı hesaplanan bu uyduda, düşük çekim gücü nedeniyle hızla uzaya kaçırılan gazların ancak güçlü bir yanardağ ya da gayzer etkinliği ile açıklanabilmesi olasıdır. Bu uydu gibi, diğer büyük uyduların tümünde de değişen derecelerde yüzey hareketliliğine ilişkin belirtiler gözlenmiştir: yüksek beyazlık dereceleri (Enceladus için 0,9; Tethys için 0,8; Rhea için 0,65; Dione için 0,55), krater yoğunluğunun değiştiği alanlar, kırıklar, sırtlar. İapetus iki yarıküresi arasında 10 katı aşan bir beyazlık farkı gösterir: uydunun hareketi yönündeki yarıküre için 0,04' e karşılık arka yarıkürede 0,5. Bunun yanı sıra, bu uyduyu ekvatoru boyunca çepeçevre dolanan en az10 km yüksekliğinde ve 20 km. eninde kemer şeklinde bir yükselti bulunmaktadır. Bu özelliklerin nedenleri aydınlatılamamıştır.
+Phoebe ve düzensiz yörüngeye sahip diğer küçük uyduların çoğu oldukça düşük beyazlık derecelerine sahiptir. Bu özellikleri yörünge özellikleri ile birleştirildiğinde, bu uyduların Satürn sistemi dışı kökenli olabilecekleri görüşü güç kazanmaktadır.
+İç yapılar.
+Satürn uydularının çeşitli uzay araçları tarafından elde edilen yüzey görüntüleri, kütle ve yoğunluklarına ilişkin ölçümler ve kısmen de tayfölçüm verileri sayesinde iç yapıları hakkında bazı varsayımlarda bulunmak mümkün olmuştur. Büyük uyduların 1,2 g/cm3 ile 1,5 g/cm3 arasında değişen yoğunlukları 1/3 oranında kaya ve 2/3 oranında buzdan oluşan bir yapı ile uyumludur. En azından 1000 km. çap sınırının üzerindeki uyduların geçmişinde bu bileşenlerin eriyerek tabakalanmasına izin verecek yüksek sıcaklıkların söz konusu olduğu bir dönem varsayılabilir. Büyük uyduların tümünde az ya da çok yakın tarihli jeolojik etkinliğin varlığını düşündüren yüzey yapılarının gözlenmesi, günümüzde de bazı uydularda sıvı halde iç katmanlar bulunabileceğine işaret eder. Özellikle Enceladus küçük kütlesine karşın önemli volkanik etkinlik belirtileri vererek oldukça aktif bir jeolojiye ve hareketli bir iç yapıya sahip görünür. Bunun nedeni Dione ile rezonans halindeki yörüngesinden kaynaklanan gel-git etkileri ile ısınma olabilir. Titan 1,8 g/cm3 ile tüm uydular içinde yoğunluğu en yüksek olanıdır. Bu uydunun büyük kütlesinden kaynaklanan nisbeten önemli çekim gücünün yol açtığı sıkışma da hesaba alındığında yine diğer uydulardaki buz-kaya oranına ulaşılır. Phoebe'nin yarı yarıya buz-kaya dağılımına sahip olması ise yine düzenli uydulardan farklı bir kökeni olduğunu doğrular niteliktedir. 
+Satürn uydu sisteminin oluşumu ve evrimi.
+Güneş bulutsusu olarak adlandırılan gaz ve toz kütlesi 4,6 milyar yıl önce bilinmeyen bir nedenle yoğunlaşarak bugünkü şekliyle Güneş Sistemi'ni oluşturmaya başladığında, Satürn ve diğer gaz devlerinin 10.000 yıl gibi kısa bir süre içinde bugünkü kütlelerine yakın boyutlara ulaştıkları sanılmaktadır. Satürn'ün en azından düzenli uydularının da, Satürn'ü oluşturan diskin gezegen üzerinde yoğunlaşamamış kalıntılarından bu dönem içinde ortaya çıktıklarına kesin gözüyle bakılır. Bu uyduların dışmerkezlik veeğiklik oranları çok düşük yörüngeleri bu düşünceyi destekler. 
+İç yörüngelerdeki uydular, Satürn‘ün halkaları ve Satürn arasında önemli etkileşimler vardır ve bunlar halkalar ve iç uyduların bugün sahip oldukları özelliklerin bazılarından sorumludurlar. Halkaların içindeki yörüngelerde yer alan uydular halkaların bugün bilinen şekillerini korumasında etkilidir ve bu nedenle 'çoban uydular' olarak da adlandırılırlar. Halkaları oluşturan materyelin en azından bir kısmının kaynağı olarak da görülen bu uyduların tanımı konusunda yakın gelecekte yeni bir belirsizlik ortaya çıkması olasıdır. Halkaların aslında sayısız halkacıktan oluşan kesintili yapısı belirginleştikçe, halkacıklar arasında bu yapıyı düzenleyen ancak günümüzün olanaklarıyla saptanamayacak küçüklükte sayısız uydunun varlığından kuşkulanılmaktadır. Halkaları oluşturan toz ve buz taneciklerinin her birinin teknik olarak Satürn'ün birer uydusu olduğu göz önünde tutulduğunda, hangi yapılara uydu adı verilmesi gerektiği tartışılır hale gelmektedir. 
+Düzensiz yörüngeye sahip, özellikle de ters hareketli uyduların ise Satürn'ün çekim alanına yakalanarak sonradan uydusu haline gelmiş asteroid ya da belki de kuyrukluyıldız parçaları oldukları düşünülür. Yakalanma mekanizması, daha önceden Güneş çevresinde Satürn yörüngesi ile kesişen bir yörünge üzerinde yol alan bir gökcisminin bir nedenle hız değiştirmesini gerektirir. Bu nedenler günümüzde, bilinen asteroid ve kuyrukluyıldız yörüngelerinde yeterli değişikliği yaratabilecek güçte değildir. Bu nedenle düzensiz yörüngeli uyduların da Satürn tarafından yakalanmalarının Güneş Sistemi'nin çok erken dönemlerinde gerçekleşmiş olduğu sanılmaktadır. 
+Satürn.
+Geniş bir alana yayılan Satürn'ün halkaları, yansıttıkları güneş ışınları nedeniyle gezegenin Yer'den izlenen parlaklığını kat kat arttırırlar ve Satürn'ün uydularının gözlenmesini güçleştirirler. Bu nedenle Satürn'ün uydularının bulunması genellikle Yer'in halka düzlemi geçişlerine denk gelmiştir. Satürn'ün 30 yıl süren her dolanım dönemi içinde iki kez gerçekleşen bu konum, halkaların tutulum ile aynı düzleme gelmeleri nedeniyle Yer'den görünmez olmalarını sağlar. 
+Cassini-Huygens programının ikinci bileşeni olan Cassini yörünge aracı Satürn çevresinde değişen yörüngeler izleyerek gezegen ve uyduları ile ilgili gözlemlerine başladı. 2004 yılında üç (Methone, Pallene, ve Polydeuces), 2005 yılında 1 yeni uydu buldu. Aracın 2004 yılı içinde çektiği fotoğraflarda varlığından kuşkulanılan 3 yeni uydu ise henüz doğrulanmadı. Bu sonda Phoebe, Titan, Japetus, ve Enceladus yakın geçişlerinde uyduların yüksek çözünürlüklü görüntülerini elde etti ve bilimsel gözlemler gerçekleştirdi. Elde edilen ilk bilgiler arasında Titan atmosferinin yapısı, bileşimi, hareketleri; uydu yüzeyinin radar gözlemleri ile elde edilen topografik özellikleri; Phoebe'nin yüzey ayrıntıları, iç yapısı ve büyük olasılıkla Kuiper kuşağı ile bağlantılanan geçmişi; Enceladus'un daha önceden bilinmeyen atmosferi ve çevresinde yüksek yoğunluklu toz parçacıklarının saptanması sayılabilir.
+Cassini programının birincil aşamasının 2008 yılına dek sürdürülmesi planlanmaktadır. 
+Yörünge hesaplamaları henüz kesinleşmediği için adlandırılmamış olan yeni uydular, geçici kodları ile bilinmektedirler.
+Adlandırma.
+Huygens, Titan'ı keşfettiğinde ona bir ad vermemişti. Gezegenin bilinen tek uydusu olarak kaldığı sürece, 'Satürn'ün ayı' adıyla anıldı. Cassini kendi bulduğu dört uyduya kral XIV. Louis onuruna 'Louis'nin yıldızları' adını verdi, bu dönemde henüz adı olmayan Titan ise 'Huygens ayı' olarak bilindi. William Herschel'in bugün Mimas ve Enceladus olarak bilinen uyduları bulmasından yarım yüzyıl sonra oğlu John Herschel Satürn'ün tüm uydularının Yunan mitolojisi'nde Kronos'un (Roma mitolojisi'ndeki Satürn'ün eşdeğeri) kardeşleri olarak geçen Titan'ların adlarını taşımasını önerdi ve o tarihte bilinmekte olan yedi uyduya bugün taşıdıkları adları verdi. Bu gelenek, 1980'lerde Titan'ların soyundan gelenlerin adlarını da kapsayacak şekilde genişletilerek günümüze dek gelmiştir. 2000 yılından bu yana bulunan düzensiz uydulara ise bulundukları yörünge grubuna göre İnuit, İskandinav ve Galya mitolojisinde yer alan devlerin adları verilmektedir. 
+Satürn uydularının gözlenmesi.
+En büyük uydu Titan, 8. kadir derecesindeki parlaklığı ile çıplak gözle görülme sınırının altında kalır, ancak küçük bir dürbün ya da amatör teleskopla Satürn'ün yanında kolaylıkla görülür. Diğer büyük uyduların orta büyütmeli bir teleskopla görülmeleri mümkündür. Satürn'ün önemli uyduları tutulum düzlemine oldukça eğik olan Satürn ekvator düzleminde yol aldıkları için, Jüpiter uydularında gözlenen örtülme ve tutulma olayları, 30 yılda iki kez gerçekleşen Satürn ekvator düzlemi geçişleri dışında görülmez. Ancak gezegenin halkaları büyüm boyut ve parlaklıklarıyla özellikle iç yörüngelerdeki uyduların çoğunun gözlenmesini zorlaştırırlar. Bu nedenle ekvator düzlemi geçişleri uyduların rahatça izlenmesi için bir fırsat olarak kabul edilir. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye'deki iklim çeşitleri</DOCTITLE>
+<TEXT>
+
+Türkiye, iklim kuşaklarından ılıman kuşak ile subtropikal kuşak arasında yer alır. Türkiye'nin coğrafik konumu ve yeryüzünün aldığı şekiller neticesinde ikliminin, farklı özellikte iklim tiplerinin doğmasına yol açmıştır. Kıyı bölgelerinde denizlerin etkisiyle daha ılıman iklim özellikleri görülür. Dağların konumu deniz etkilerinin iç kesimlere girmesini engeller. Bu nedenle iç kesimlerinde karasal iklim özellikleri görülür.
+Türkiye'de iklim tipleri.
+Türkiye'de belli başlı üç ana iklim tipine rastlanır. Bunlar:
+Ülkemizde Karasal İklim, İç Anadolu, Doğu Anadolu ve Güneydoğu Anadolu Bölgeleri ile İç Batı Anadolu Bölümünde görülür.Genel özellikleri şunlardır: Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlıdır. İç Anadolu Bölgesinde maksimum yağış ilkbaharda, minimum yağış yazın düşer. İç Anadolu da ortalama yağış 300-400 mm’dir. İç Anadolu’nun kış sıcaklık ortalaması, 1-2°C, yaz sıcaklık ortalaması, 22-23°C, yıllık sıcaklık ortalaması ise, 10-12°C’dir. Ege Bölgesinin İç batı Anadolu Bölümünde de yağışlar kıyı kesimine göre azdır. Doğu Anadolu Bölgesinin kuzeydoğu kesiminde yıllık sıcaklık ortalaması, 4-6°C’dir. Kuzeydoğu Anadolu’da kış sıcaklık ortalaması, -7, -10°C, yaz sıcaklık ortalaması, 17-19°C’dir. Yıllık yağış miktarı, 500-600 mm’dir. Güneydoğu Anadolu’da ise ortalama yağış, 400-700 mm’dir. Güneydoğu Anadolu Bölgesinde kış mevsimi pek donlu geçmemekle beraber, yaz mevsiminde şiddetli kuru sıcaklar egemendir. Güneydoğu Anadolu’da yıllık ortalama Sıcaklık, 15-16°C, kış sıcaklığı, 3-4°C, yaz sıcaklığı ise, 30-35°C’dir.
+Bu iklim tipi ülkemizde en belirgin olarak Akdeniz kıyılarında görülmekle birlikte, Ege ve Marmara Bölgelerinde de etkili olmaktadır. Genel özellikleri şunlardır Yazlar Sıcak ve kurak, kışlar ılık ve yağışlıdır. Maksimum yağış kışın, minimum yağış yazın düşer. Yaz ve kış yağışları arasındaki fark oldukça fazladır. Yıllık yağış ortalaması, 600-1000 mm arasındadır. Yıllık sıcaklık ortalaması 18-20°C’dir. Ocak ayı ortalaması 8-10°C’dir. Temmuz ayı ortalaması 28-30°C’dir. Yıllık sıcaklık farkı 15-18°C’dir. Ege Bölgesinde dağların kıyıya dik uzanması, Akdeniz İkliminin iç kesimlere ulaşmasına olanak sağlamıştır. Marmara Bölgesinde görülen Akdeniz İkliminde, yazlar Akdeniz kıyılarına göre daha serin, kışlar ise daha soğuk ve karlıdır. Akdeniz İkliminin karekteristik bitki örtüsü Zeytin, defne, mersin, kekik gibi Bitkilerden oluşan makilerdir.
+Bu iklim asıl olarak Kuzey Anadolu Dağlarının Karadeniz’e bakan yamaçlarında görülür. Genel özellikleri şunlardır: Her mevsim yağışlıdır.Doğu Karadeniz Bölümünde maksimum yağış sonbaharda, minimum yağış ilkbaharda düşer. Yıllık yağış miktarı 2000-2500 mm’dir.Batı Karadeniz Bölümünde maksimum yağış sonbaharda, minimum yağış ilkbaharda düşer. Yıllık yağış miktarı 1000-1500 mm’dir.Orta Karadeniz Bölümünde ise maksimum yağış kışın, minimum yağış yazın düşer. Yıllık yağış miktarı 700-1000 mm’dir.Karadeniz ikliminin görüldüğü alanlarda Kar yağışlı günlerin ortalaması 18 gündür. Yıllık ortalama Sıcaklık 13-15°C’dir. Ocak ayı ortalama Sıcaklığı 6-7°C’dir. Temmuz ayı ortalama sıcaklığı 21-23°C’dir. Yıllık sıcaklık farkı 13-15°C’dir. Doğal Bitki örtüsü ormandır.Yüksek alanlarda Alpin çayırlar görülür.
+
+</TEXT>
+</DOC>
+

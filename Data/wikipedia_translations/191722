@@ -1,0 +1,41 @@
+Poincaré yarı düzlem modeli
+[[Dosya: Poincare halfplane eptagonal hb.svg | 250px | right | thumb |
+Modelin Stellated düzenli altıgenimsi fayans]]
+Öklid dışı geometri, Poincaré yarı düzlem modeli birlikte metrik ile (H aşağıda gösterilen) üst yarı düzlem, bu iki boyutlu hiperbolik geometrinin modeli yapar Poincaré metrik.
+Bu, Henri Poincaré adını, ancak (nedeniyle Riemann kadar) Klein modeli ve Poincaré disk modeli ile birlikte, kullanılan Eugenio Beltrami ile kökenli
+hiperbolik geometri Öklid geometrisi ile equiconsistent olduğunu göstermek için. Disk modeli ve yarı düzlem modeli konformal eşleme altında izomorfik.
+Metrik.
+Yarım düzlemde model metrik
+verilir
+Bir olasılıkla kavisli hat boyunca burada "s" önlemler uzunluğu. Hiperbolik düzlemde "düz çizgiler" (bu metrik tensör için geodezikler, mesafe en aza indirmek yani eğrileri) dik kökeni "x üzerinde" x "-Axis (yarım çevrelere dairesel yayların bu modelde temsil edilir "-Axis) ve sona eren düz dikey çizgiler" x "-Axis. Böyle bir jeodezik boyunca bu ölçümün ölçülen iki nokta arasındaki "mesafe" dir
+Bu model, bu gerçek bir hiperbolik düzlemde olduğu bir noktada ölçülen açıları modelinde aynı olduğu anlamına gelir konformal bir.
+Bu, bir "n" boyutlu Öklid vektör uzayında bir vektör gerçek sayı "x" değiştirerek, bir "n" +1 boyutlu hiperbolik uzay modellemek için jeneralize olabilir.
+Özel eğriler.
+Yukarıda bahsedilen "düz çizgiler" ek olarak, Öklid yarı düzlemde modellenebilir hiperbolik düzlem üzerinde diğer özel eğriler vardır:
+Eğrileri oluşturma.
+İşte bir hiperbolik düzlemde temel yapıların etkisini elde etmek modelinde pusula ve straightedge yapılar nasıl kullanabileceğinizi olduğunu. Örneğin, nasıl, hangi modeller verilen iki nokta ile hiperbolik düzlemde bir çizgi Öklid yarı düzlemde yarım daire inşa etmek.
+İki nokta arasındaki çizgi parçasını çizin. Çizgi parçasının dik açıortay. "X" ile kavşak bulun -Axis. Verilen noktalarından geçmektedir kavşak etrafında bir daire çizin. Veya "x" altına kısmını sil -Axis.
+Ya da iki verilen puan dikey bir çizgi üzerinde yalan özel durumda, iki nokta ile bu dikey çizgi çizmek ve ya "x" altına kısmını silmek -Axis.
+Bir önceki durumda olduğu gibi, iki verilen noktalar arasındaki radyal "çizgi" (yarım daire) çizin. Olmayan merkezi bir noktada bu çizgiye teğet Construct. "X" için belirli bir merkezi noktadan dik damla -Axis. Model çemberin merkezini elde etmek için bu iki satır kesişim bulun. Yeni merkezi etrafında modeli bir daire çizin ve verilen olmayan merkezi bir nokta geçerek.
+İki verilen puan dikey bir çizgi üzerinde yalan ve verilen merkez diğer verilen noktasının üzerinde ise veya daha sonra olmayan merkez noktası üzerinden yatay bir çizgi çizin. Dikey çizginin kesiştiği ve verilen merkezi bir nokta geçer -Axis "x" etrafında bir daire çizin. Yatay çizgi ile kesiştiği o daireye teğet oluşturun. dikey çizgi ve verilen olmayan merkezi bir nokta ile teğet kesiştiği arasındaki orta nokta modeli dairenin merkezidir. Yeni merkezi etrafında modeli bir daire çizin ve verilen olmayan merkezi bir nokta geçerek.
+İki verilen puan dikey bir çizgi üzerinde yalan ve verilen merkez diğer verilen noktasının altında olması durumunda ya da, daha sonra dikey çizginin kesiştiği ve verilen merkezi bir nokta geçer -Axis "x" etrafında bir daire çizin. Verilen olmayan merkezi bir nokta geçer dairenin bir çizgi teğet çizin. Teğet o noktadan geçen yatay bir çizgi çizin ve dikey çizgi ile kavşak bulabilirsiniz. Bu kavşak ve verilen olmayan merkez noktası arasındaki orta nokta modeli dairenin merkezidir. Yeni merkezi etrafında modeli bir daire çizin ve verilen olmayan merkezi bir nokta geçerek.
+Verilen iki yarım daire (veya dikey çizgiler) kavşak bulun.
+Verilen daire ile verilen yarım daire (veya dikey çizgi) kavşak bulun.
+Verilen iki çevrelerin kavşak bulun.
+Simetri grupları.
+yansıtmalı lineer grup PGL (2, C) Möbius dönüşümlerinin tarafından Riemann küresinin davranır. kendi üzerine üst yarı-düzlem, H, haritalar alt grup PSL (2, R), gerçek katsayılı dönüşümler olduğunu ve bu homojen bir boşluk yaparak, üst yarı-düzlem üzerinde geçişli ve izometrik hareket.
+Kesir lineer dönüşümlerin tarafından üst yarı düzlemde hareket ve hiperbolik mesafeyi korumak dört yakından ilgili Lie grupları vardır.
+şöyle Poincare modeline bu grupların bir ilişkidir:
+Izometri grubunun önemli alt gruplar Fuchs gruplarıdır.
+Bir de sık sık modüler grup SL (2, Z) görür. Bu grup, iki açıdan önemlidir. Birincisi, puan kare 2x2 kafes bir simetri grubudur. Dolayısıyla, bu tür modüler formlar ve eliptik fonksiyonları gibi, bir kare ızgara üzerinde periyodik olan fonksiyonlar, böylece ızgara bir SL (2, Z) simetrisi devralır. İkinci olarak, SL (2, Z) tabii SL bir alt grubunu (2, R), ve bu nedenle, içinde gömülü bir hiperbolik bir davranışa sahiptir. Özellikle, SL (2, Z) eşittir (Poincare) alanın hücrelere mozaik hiperbolik düzlemine kullanılabilir.
+İzometrik simetri.
+H yansıtmalı özel lineer grup PSL (2, R) grubu eylemi ile tanımlanır
+Herhangi bir formula_10, bir formula_11 şekilde formula_12 bulunduğunu eylem, geçişli olduğuna dikkat edin. O eğer H bütün "z", ardından "g" = "e" için formula_13 olarak, aynı zamanda sadıktır.
+"gz" = "z": H bir unsur "z" dengeleyici ya da "izotropisi alt grubu" "z" değişmeden bırakın formula_14 kümesidir. stabilizatör "i" döndürme grubu olduğu
+H herhangi bir elemanı "Z" eşleştirilir yana "i" PSL (2, R) bir elemanı ile, bu herhangi bir "z" izotropisi alt grubu izomorfik olduğu anlamına gelir SO (2). Bu nedenle, H = PSL (2, R) / SO (2). Alternatif olarak, üst yarı-düzlem üzerinde birim uzunluk teğet vektörleri paket, birim teğet paket olarak adlandırılan, PSL (2, R) izomorftur.
+Üst yarı düzlem modüler bir grup SL (2, Z) serbest düzenli kümeler halinde tessellated edilir.
+Geodezikler.
+Bu metrik tensör için geodezikler gerçek eksen (kökeni gerçek ekseni üzerinde yarım çevrelerde) ve reel eksende biten düz dikey çizgiler dik dairesel yay bulunmaktadır.
+noktası üzerinden dikey birim hız geodezik kadar gidiyor "i" ile verilir
+PSL (2, R), üst yarı düzlemin izometrileri göre geçişli hareket için bu jeodezik PSL aksiyonu (2, R) üzerinden diğer Geodezikler haritalandırılır. Bu nedenle, genel birim hız jeodezik verilir
+Bu üst yarı-düzlem üzerinde birim uzunluk tanjant demeti (karmaşık hat paket) üzerine jeodezik akışının tam açıklamasını sağlar.

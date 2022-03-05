@@ -1,0 +1,18 @@
+1	İki	iki	Num	Card	_	2	MODIFIER	_	_
+2	Z	z	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	çizgisi	çizgi	Noun	Noun	A3sg|P3sg|Nom	4	OBJECT	_	_
+4	_	ara	Noun	Noun	A3sg|P3sg|Loc	5	DERIV	_	_
+5	arasındaki	_	Adj	Adj	Rel	6	MODIFIER	_	_
+6	bölgede	bölge	Noun	Noun	A3sg|Pnon|Loc	7	LOCATIVE.ADJUNCT	_	_
+7	_	bulun	Verb	Verb	Pos	8	DERIV	_	_
+8	bulunan	_	Adj	APresPart	_	16	SUBJECT	_	_
+9	_	kas	Verb	Verb	_	10	DERIV	_	_
+10	_	_	Verb	Verb	Pass|Pos	11	DERIV	_	_
+11	kasılma	_	Noun	NInf	A3sg|Pnon|Nom	12	CLASSIFIER	_	_
+12	birime	birim	Noun	Noun	A3sg|Pnon|Dat	16	DATIVE.ADJUNCT	_	_
+13	ne	ne	Adj	Adj	_	14	MODIFIER	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	16	SUBJECT	_	_
+15	_	ver	Verb	Verb	_	16	DERIV	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	17	SENTENCE	_	_
+17	.	.	Punc	Punc	_	0	ROOT	_	_
+

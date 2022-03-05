@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Meridyenler	meridyen	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+Meridyenler	meridyen	+Noun+A3pl+Pnon+Nom
+
+arası	ara	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+arası	ara	+Noun+A3sg+P3sg+Nom
+
+uzaklık	uzaklık+Noun+A3sg+Pnon+Nom
+
+neden	ne	+Pron+Ques+A3sg+Pnon+Abl
+neden	neden	+Adverb
+neden	neden	+Noun+A3sg+Pnon+Nom
+
+kutuplara	kutup	+Noun+A3pl+Pnon+Dat
+
+doğru	doğru+Noun+A3sg+Pnon+Nom
+doğru	doğru+Adj
+doğru	doğru+Postp+PCDat
+
+gittikçe	git	+Verb+Pos^DB+Adverb+AsLongAs
+gittikçe	gittikçe+Adverb
+
+azalır	azal	+Verb+Pos+Aor+A3sg
+azalır	azal	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

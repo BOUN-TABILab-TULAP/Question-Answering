@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kutup kutup+Noun+A3sg+Pnon+Nom
+dairelerinin daire+Noun+A3pl+P3sg+Gen daire+Noun+A3pl+P2sg+Gen daire+Noun+A3pl+P3pl+Gen daire+Noun+A3sg+P3pl+Gen
+belirlenmesinde belirle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Loc
+neler ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl ne+Pron+Ques+A3pl+Pnon+Nom
+esas esas+Noun+A3sg+Pnon+Nom esas+Adj
+alınmıştır al+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop al+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop alın+Verb+Pos+Narr+A3sg+Cop alın+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

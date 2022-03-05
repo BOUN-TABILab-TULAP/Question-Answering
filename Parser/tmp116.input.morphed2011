@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Manş	Manş+Noun+Prop+A3sg+Pnon+Nom
+
+tüneli	tün+Verb+Pos^DB+Adverb+SinceDoingSo
+tüneli	tünel+Noun+A3sg+Pnon+Acc
+tüneli	tünel+Noun+A3sg+P3sg+Nom
+
+hangi	hangi	+Adj
+
+tarihte	tarih	+Noun+A3sg+Pnon+Loc
+
+hizmete	hizmet	+Noun+A3sg+Pnon+Dat
+
+açılmıştır	aç+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+açılmıştır	aç+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

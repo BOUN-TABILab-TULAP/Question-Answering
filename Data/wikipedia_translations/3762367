@@ -1,0 +1,119 @@
+Üyesi Grunsky matrisi
+Matematikte, üyesi Grunsky matrisler, ya da üyesi Grunsky operatörler, karmaşık analiz ve geometrik fonksiyon teorisi tarafından tanıtıldı matrislerdir. Onlar birim diskte tek holomorfik fonksiyon veya birim disk ve onun tamamlayıcısı üzerine Holomorfik fonksiyonların bir çift ya karşılık gelmektedir. Üyesi Grunsky eşitsizlikleri genel daralma operatörleri bu matrisler veya önemli özel durumlar üniter operatör sınırlılık özelliklerini ifade eder. Üyesi Grunsky gösterdiği gibi, bu eşitsizlikler holomorf fonksiyon univalent ise ve sadece tutun. eşitsizlikler 1947 Kabaca, üyesi Grunsky eşitsizlikler bir tek değerlikli fonksiyonun logaritma katsayıları hakkında bilgi vermek konuşan keşfedilen Goluzin ve eşitsizlikler, denktir; Milin daha sonra genellemeler, Lebedev-Milin eşitsizliği başlayarak, tek değerlikli fonksiyon kendisi katsayıları için eşitsizlikleri elde etmek eşitsizliklerin exponentiating başardı. Tarihsel eşitsizlikler altıncı katsayısı kadar Bieberbach varsayım özel durumları kanıtlayan kullanıldı; Milin exponentiated eşitsizliklerin nihai çözüm olarak de Branges tarafından kullanılmıştır. Üyesi Grunsky operatörler ve onların Fredholm belirleyicileri karmaşık düzlemde sınırlı etki spektral özellikleriyle ilgilidir. operatörler konformal haritalama, Teichmüller teorisi ve konformal alan teorisinde ileri uygulamalar var.
+"F" ("z") normalize birim diskte bir holomorfik tek değerli fonksiyonu ise bu "f" (0) = 0 ve "f" '(0) = 1, işlevi böylece
+"z" | | olmayan bir kaybolan tek değerli bir fonksiyondur> 1 kalıntı 1 ile ∞ basit bir kutba sahip:
+Aynı inversiyon formülü uygulanan "g" "f" geri verir ve tek bir yazışma kurar
+fonksiyon Bu iki sınıf arasındaki.
+Üyesi Grunsky matris G "(" c "," nm) "" denklemle tanımlanır
+Bu simetrik matristir. Onun girişleri "g" nin üyesi Grunsky katsayıları denir.
+Dikkat
+katsayıları "f" açısından doğrudan ifade edilebilir, böylece. Nitekim eğer
+Daha sonra "m", "n"> 0 için
+ve "D" 0 "n" = "D", "n" 0 ile verilmektedir
+ile
+Üyesi Grunsky eşitsizlikler.
+"F" üyesi Grunsky matriks ("c" "nm") ile birim diskte bir holomorf fonksiyon ise, üyesi Grunsky devlet Eşitsizlikler olduğunu
+kompleks sayılar λ1 herhangi sonlu dizisi için ... λ "N".
+Faber polinomları.
+"Z" | | bir normalize tek değerli fonksiyonun üyesi Grunsky katsayıları> 1
+"b" katsayıları polinomlar ardışık hesaplanabilir i "hangi" dir
+Faber açısından "n", derece bir polinom monic "n", "g" bağlı Φ polinomları.
+Üyesi Grunsky katsayılarının tanımlayan ilişkisi "z" Türev alarak ve "z" ile çarpılarak
+verir
+Faber polinomları ilişki ile tanımlanır
+"Z" bu ilişkiyi bölme ve "z" ile entegre ve ∞ verir
+Bu "n"> 0 için yineleme ilişkilerini verir
+ile
+Böylece
+böylece "n" ≥ 1
+İkinci özelliği benzersiz "g" Faber polinomunu belirler.
+Milin en Alan teoremi.
+"Z" | | "g" ("z") bir tek değerli fonksiyon olsun> 1, böylece normalize
+ve let "f" ("z") C üzerinde bir sabit olmayan holomorf fonksiyon olmak
+Eğer
+"z" Laurent genişleme> 1 ise, bir
+Kanıt.
+Ω pürüzsüz sınır ∂Ω ve "h" ile sınırlı açık bölge ise Ω kapatma sürekli bir fonksiyona uzanan bir türevlenebilir bir fonksiyondur
+Daha sonra, Stokes teoremi diferansiyel 1-formu ω = "h (z) dz" uygulanan,
+"Z" | | "g" ("z") kapsamında> "r", sınırlı bir etki "r"> 1, Ω let "r" imgesinin tamamlayıcısı olacak. Ardından, "h" = "f" 'alanı ile yukarıdaki kimliğiyle
+"F" (Ω "r") tarafından verilen
+görüntülerin komplementin görüntü alanını hesaplayarak kanıtı ilerler | "z" | <"r" <"F" altında 1 ve | ζ |> "R"> "g" altında 1
+Uygun Laurent polinom "h" altında ("w").
+Let Φ, "n" ve Φ-, "n", "g" ve formula_23 Faber polinomları temsil ettiği ve ayarlamak
+Ardından için | "z" | <1
+ve için | ζ |> 1
+Alan eşittir
+ζ | | "C" 1 daire görüntü olduğu "F" altında = "r" | "z" | = "g" ve "C" 2 altındaki "R" daire resimdir.
+Bundan dolayı
+Alan pozitif olduğundan, sağ tarafı da pozitif olmalıdır. 1 "r" artış ve "1" "R" azalma icar, o izler
+eşitlik ile ancak ve ancak görüntülerin tamamlayıcısı Lebesgue ölçüsü sıfır varsa.
+Tek fonksiyonlu "g" durumunda olduğu gibi, bu gerekli eşitsizliği ifade eder.
+Unitarity.
+matris
+Tek bir işlev "g" veya fonksiyonlar bir çift "F", "g" üniter ise ve "g" ya da "F" görüntülerinin birlik ve "g" imajının tamamlayıcısı Lebesgue var sadece sıfır ölçün. Yani, aşağı yukarı bir fonksiyonu durumunda, konuşma görüntü karmaşık düzlemde bir yarık bölgesidir; ve iki fonksiyon durumunda iki bölge kapalı bir Jordan eğri ile ayrılır.
+Aslında sonsuz matris "A" kare toplanabilir Hilbert uzayında etkiyen tatmin dizileri
+Ama eğer "J", sonra bir dizi karmaşık konjügasyonunu gösterir
+"A" beri simetriktir. Bundan dolayı
+Böylece "A" üniter olduğunu.
+Üyesi Grunsky eşitsizliklerin Eşdeğer formlar.
+Goluzin eşitsizlikler.
+"Z" | |> 1, "z" 1, ..., "z" "N" ile farklı noktaları | "z" "n" "g" ("z") olarak normalleştirilmiş tek değerli fonksiyon ise | > 1 ve
+α1, ..., α "N" karmaşık sayılar, Rus matematikçi Gennadi Mihayloviç Goluzin (1906-1953), devlet tarafından 1947 yılında kanıtladı Goluzin eşitsizlikleri, bu
+Üyesi Grunsky eşitsizliklerin onları anlamak için, izin
+"k" için> 0.
+Tersine üyesi Grunsky eşitsizlikler alarak Goluzin eşitsizliklerden izleyin
+nerede
+∞ eğilimi "r"> 1 ile.
+Bergman-Schiffer eşitsizlikleri.
+α1, ..., α "N" karmaşık sayılar olmak.
+Bergman-Schiffer devlet Eşitsizlikler olduğunu
+Üyesi Grunsky eşitsizliklerin bu eşitsizlikleri anlamak için, set
+"k" için> 0.
+Tersine üyesi Grunsky eşitsizlikler alarak Bergman-Schiffer eşitsizliklerden izleyin
+nerede
+0 eğilimi "r" <1 ile.
+Uygulamalar.
+Üyesi Grunsky eşitsizlikleri yalınkat fonksiyonlar için birçok eşitsizlikleri göstermektedir. Onlar da dördüncü katsayısı için Bieberbach varsayım tamamen temel kanıt vermek 1960 yılında Schiffer ve Charzynski tarafından kullanıldı; çok daha karmaşık bir kanıtı daha önce Pedersen ve Ozawa bağımsız altıncı katsayısı varsayım kanıtlamak için üyesi Grunsky eşitsizlikleri kullanılan 1968 yılında 1955 yılında Schiffer ve Garabedian tarafından bulunmuştu.
+Schiffer ve Charzynski kanıtı, eğer içinde
+Daha sonra, <1 | "z" | bir normalleştirilmiş tek değerli bir fonksiyondur
+"z" | |> 1 garip bir tek değerli bir fonksiyondur.
+"A", 4 | | "g" nin üyesi Grunsky matrisinin ilk 2 x 2 minör için üyesi Grunsky eşitsizlikler ile "f" için Gronwall kulübü teoremi birleştiren bir sınır neden basit bir işlev açısından "a" 2 ve ücretsiz karmaşık parametre. ücretsiz parametre bağlı "a" 2 yarım modülü bir işlev olacak şekilde seçilebilir ve daha sonra bu fonksiyon aralığı [0,1] üzerinde 4'ten büyük olmayan olduğu doğrudan kontrol edilebilir.
+Milin gösterdiği gibi, üyesi Grunsky eşitsizlikleri exponentiated edilebilir. En basit durumda yazılı olarak ilerler
+w "|" in holomorfik "(" w) "|" a "" n ile <1.
+"N" = "n" o "w" anlamına λ ile üyesi Grunsky eşitsizlikleri,
+Öte yandan eğer üzerinde
+Lebedev-Milin eşitsizliklerin ardından ilk resmi kuvvet serileri, (1965) belirtmektedir olarak
+Eşdeğer eşitsizlik "g" ("z") ise bir polinom ardından "g" (0) = 0 ile olduğunu belirtiyor
+burada "A", "g" ("D"), bir alanıdır
+Eşitsizliği kanıtlamak için, katsayılar özyinelemeli formülü ile belirlenir unutmayın
+böylece Cauchy-Schwarz eşitsizliği tarafından
+miktarları burada eşitlik empoze elde edilen "c", "n":
+etaplarını tersine çevirmek, dolayısıyla formula_52 ve tatmin
+Kimliği ile "b", "n" ("w") özellikle tanımlanmasında
+Aşağıdaki eşitsizlik için tutmak gerekir | "w" | <1
+Beurling dönüşümü.
+Beurling dönüşümü (ayrıca Beurling-Ahlfors dönüşümü denilen ve Hilbert kompleks düzlemde dönüşümü), üyesi Grunsky eşitsizlikleri kanıtlama takip ve en doğrudan yöntemlerinden birini sağlar.
+Fourier dönüşümleri üzerinde Beurling formula_56 tarafından çarpma operasyon olarak "L" 2 (C) tanımlanan dönüşümü. Bu nedenle, bir üniter operatör tanımlar. Ayrıca, yekpare bir ana değer olarak doğrudan tanımlanabilir
+Herhangi bir C açık bölge Ω sınırlı için Ω Bergman alan üzerine Ω Bergman alan eşlenikten sınırlı bir operatör "T" Ω tanımlar: kare integrallenebilir holomorf fonksiyon bir işlevi üretmek için Ω kapalı 0'a kadar uzatılmıştır " L "2 (C) olduğu, 'T' uygulanır ve sonuç, holomorfik olan Ω, sınırlı. "F" sonra Ω üzerine birim disk "D" Ω ve konjugat Bergman'ın uzaydan gelen bir holomorfik tek değerli harita ise "D" ve çekirdek ile "T" Ω olur tekil integral operatörün buna tespit edilebilir
+Bir kasılmayı tanımlar. Öte yandan "T", "D" = 0 olduğu sınırına ayrılmaz aktarmak için Stokes teoremini kullanarak formula_59 güçler doğrudan bilgisayar tarafından kontrol edilebilir.
+Bu çekirdek ile bu operatöre izler
+"D" Bergman alan konjugat bir daralma gibi davranır. Bu nedenle, eğer
+sonra
+Üyesi Grunsky operatörü ve Fredholm özdeğer.
+Ω pürüzsüz sınır ile C sınırlı bir etki ise, operatör "T" Ω Bergman alanı "H" = "A" 2 (Ω) bir sınırlı antilinear büzülme operatörü olarak kabul edilebilir. Bu, aşağıdaki formül ile verilen
+"u" Hilbert uzayında "H" = "A" 2 (Ω) için. "T" Ω Ω of üyesi Grunsky operatörü olarak adlandırılan (veya "f" gibi). Ω üzerine tek değerli fonksiyon "f" haritalama "D" ve aslında bu "T", "D" seçeneğini kullanarak "D" Onun gerçekleşmesi = 0 o çekirdeğin kısıtlanması tarafından verilen olduğunu gösterir
+ve bu nedenle Hilbert-Schmidt operatörüdür.
+antilinear operatörü "T" = "T" Ω kendini adjointness ilişkisini karşılayan
+"H", "u", "v" için.
+Böylece "A" = "T" 2 "H" ile ilgili bir kompakt kendini adjont doğrusal operatörüdür
+Böylece "A" pozitif bir operatördür. Kompakt kendine eş operatörler için spektral teoremi ile, bir ortonormal taban var "u" A "" nin özvektör oluşan "H" n "":
+μ Burada "n" "A" pozitifliği ile negatif olmayan olduğunu. Bundan dolayı
+"A" ile λ "n" ≥ 0. beri "T" HafiflettiDİYARBAKIR ile bu değişmez onun Aygen bırakır. pozitifliği ilişkisi sıfır öz-uzay üzerinde trivially hareket ettiğini göstermektedir. diğer sıfır olmayan Aygen bütün sonlu boyutlu ve karşılıklı ortogonal vardır. Böylece bir ortonormal taban böylece her öz-uzay üzerinde seçilebilir:
+sıfır olmayan λ "n" (ya da bazen kendi reciprocals) Ω Fredholm özdeğerlerini denir:
+Ω disk olmayan bir sınırlı alan ise, Ahlfors gösterdi
+Etki Ω için Fredholm belirleyici tarafından tanımlanır
+"A" = "T" 2 eser sınıf operatör olduğu için bu mantıklı olduğunu unutmayın.
+İşte normlar "D" ve onun tamamlayıcı "D" "c" ve "g Bergman alanlarda bulunan ∞ sabitleme Ω" c "üzerine D" "c" "bir tek değerli haritasıdır".
+Benzer bir Formül tek değerlikli işlevleri (aşağıya bakınız), bir çift halinde de geçerlidir.
+Kapalı bir eğri üzerinde tekil integral operatörler.
+Ω pürüzsüz sınır "C" = ∂Ω ile C bir sınırlı basit bağlantılı etki olalım. Böylece "S" sınırları arasında yumuşak bir haritaya 1 ve "C" uzanan Ω üzerine birim disk "D" den bir tek değerli holomorfik haritası "f" var.

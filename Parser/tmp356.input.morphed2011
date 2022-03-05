@@ -1,0 +1,124 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Farklı	fark	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+türlerin	tür+Noun+A3pl+Pnon+Gen
+türlerin	tür+Noun+A3pl+P2sg+Nom
+
+bireyleri	birey	+Noun+A3pl+Pnon+Acc
+bireyleri	birey	+Noun+A3pl+P3sg+Nom
+bireyleri	birey	+Noun+A3pl+P3pl+Nom
+bireyleri	birey	+Noun+A3sg+P3pl+Nom
+
+arasındaki	ara	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+rekabete	rekabet	+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Nom
+
+damarında	damar	+Noun+A3sg+P3sg+Loc
+damarında	damar	+Noun+A3sg+P2sg+Loc
+
+çiçek	çiçek+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+yaprak	yaprak	+Noun+A3sg+Pnon+Nom
+
+saplarında	sap	+Noun+A3pl+P3sg+Loc
+saplarında	sap	+Noun+A3pl+P2sg+Loc
+saplarında	sap	+Noun+A3pl+P3pl+Loc
+saplarında	sap	+Noun+A3sg+P3pl+Loc
+saplarında	sapla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Loc
+saplarında	sapla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+eğilme	eğ+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+eğilme	eğ+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+bükülme	bük+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+bükülme	bük+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+
+ve	ve	+Conj
+
+çarpmaya	çarp+Verb+Neg+Opt+A3sg
+çarpmaya	çarp+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+
+karşı	karşı+Adverb
+karşı	karşı+Adj
+karşı	karşı+Noun+A3sg+Pnon+Dat
+karşı	karşı+Noun+A3sg+Pnon+Nom
+karşı	karşı+Postp+PCDat
+
+bitkiye	bitki	+Noun+A3sg+Pnon+Dat
+
+mekanik	mekanik	+Adj
+mekanik	mekanik	+Noun+A3sg+Pnon+Nom
+
+destek	destek	+Noun+A3sg+Pnon+Nom
+
+sağlayan	sağla+Verb+Pos^DB+Adj+PresPart
+
+çeperi	çeper+Noun+A3sg+Pnon+Acc
+çeperi	çeper+Noun+A3sg+P3sg+Nom
+
+kalınlaşmış	kalın+Adj^DB+Verb+Become+Pos+Narr+A3sg
+kalınlaşmış	kalın+Adj^DB+Verb+Become+Pos^DB+Adj+NarrPart
+
+hücrelerden	hücre+Noun+A3pl+Pnon+Abl
+
+oluşan	oluş+Verb+Pos^DB+Adj+PresPart
+
+temel	temel	+Adj
+temel	temel	+Noun+A3sg+Pnon+Nom
+
+doku	dok	+Noun+A3sg+P3sg+Nom
+doku	dok	+Noun+A3sg+Pnon+Acc
+doku	doku	+Noun+A3sg+Pnon+Nom
+doku	doku	+Verb+Pos+Imp+A2sg
+
+hücresi	hücre+Noun+A3sg+P3sg+Nom
+hücresi	hücre+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

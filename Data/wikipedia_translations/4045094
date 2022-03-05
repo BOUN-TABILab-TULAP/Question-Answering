@@ -1,0 +1,190 @@
+Makro ve güvenlik
+Bilgisayar bilimi Makro belli bir giriş dizisi (karakter genellikle dizisi) tanımlanmış prosedüre göre yedek giriş dizisi (karakter de sık sık bir sekans) aktarılması gerektiğini belirten nasıl bir kural ya da kalıptır.
+Makro, değişken veya prosedürleri tanımlamak için kodu yeniden izin vermek veya etki alanı özgü dilleri tasarım için kullanılır.
+Makro birçok tipe ayrılabilir:
+Makrolar yazılım kullanıcıları için çok yararlı olabilir. Bunlar kullanıcının verimliliği artar ve böylece düzenli kullanılan eylemler (tekrarlayan bir programcı için kod ya da bir programda eylemler dizisi) basitleştirmek. Ancak, pek çok sorun var, onlar daha sonra ele alınacaktır.
+Kusurlar ve makro virüsleri.
+Metin ikame tehlikeleri.
+C makrolar gibi metin ikame makroları birkaç tehlikeleri vardır.
+C önişlemci kodu veya tersine netlik getirebilir güçlü bir araçtır, bunu belirsiz.
+Derleyici hata.
+(C veya assembly dili orada olduğu gibi) makro hata denetimi herhangi bir biçimde olmadığından Birincisi, bu C dili için, her makro sözdizimi yerine, work.Indeed olmaz makroları yapmak mümkündür Ne önişlemci tarafından ilan edilmiştir. Sadece bundan sonra derleyici kodu kontrol etmez.
+Örnek:
+<Syntaxhighlight lang = C>
+// Dosya example.c
+main () int
+</ Syntaxhighlight>
+Makro someString kullanılmaz, çünkü bu örnek derler. Bu makro kullanıldığı Ama eğer bir derleme hatası olacaktı.
+<Syntaxhighlight lang = C>
+// Dosya example.c
+main () int
+</ Syntaxhighlight>
+<Syntaxhighlight lang = C>
+gcc -o örnek example.c
+işlevi 'Ana': example.c:
+example.c: 6: 26: erreur: bildirilmeyen 'foo' (ilk bu işlevi kullanın)
+example.c: 6: 26: Not: Her bildirilmemiş tanıtıcısı o görünen her bir fonksiyon için sadece bir kez rapor edilmiştir
+</ Syntaxhighlight>
+Bu sadece basit bir örnek, ancak kod hatlarının sayısı büyük olması başladığında bazı uygulamalarda, gerçekten önemli olabilir.
+Makro derleme etmezse, onun sözdizimini değiştirmek zorunda kalabilirsiniz. Önceki örnekte, tırnak işaretleri foo eklenecek zorunda. Makro ve ona tüm çağrıları değiştirmeniz gerekebilir, böylece başkaları için, tüm sözdizimi yanlış olacaktır.
+Bir durum olarak, kusur, bu tür en az olabilir ya da uygulama bakım etkileyebilir.
+Tekrarlanan kodu.
+Bu ikinci nokta ise, o tekrarlayan kod bazı makrolar bulunabilir görürsünüz. Ve bu boşa bilgisayar zaman yol açabilir.
+En aşağıdaki kodla bu açıklayalım:
+<Syntaxhighlight lang = C>
+// Dosya example2.c
+main () int
+int whatMax ()
+int getNumber ()
+</ Syntaxhighlight>
+Değişken foo ve işlev getNumber dönüş değeri (): 2 değerleri arasında "max" adlı bir makro bir çağrı var.
+Bu 2 değerleri arasında maksimum hesaplamak bir işlevinin çağrılması sadece bir temel makro var.
+Bu kod çalıştırıldığında, biz edinin:
+<Syntaxhighlight lang = C>
+./example2
+Aradım am!
+max? 5
+</ Syntaxhighlight>
+Şu an için, orada yanlış bir şey ama en Örneğin 6 ile getNumber değerini yerine izin artık sonuç:
+<Syntaxhighlight lang = C>
+./example2
+Aradım am!
+Aradım am!
+max? 6
+</ Syntaxhighlight>
+fonksiyon getNumber () iki kere aradım, henüz sadece bir kez aramak gerekir.
+Bunun nedeni makro olduğunu. Eğer kendi sözdizimi ile makro "max" çağrısı değiştirin, sonra whatMax dönüş geçerli:
+<Syntaxhighlight lang = C>
+dönmek (((foo)> (getNumber ()) (foo):? (getNumber ());
+</ Syntaxhighlight>
+Karşılaştırma için bir ve geri dönüşü için bir: getNumber değeri foo değerinden daha büyük olduğunda, bu, iki kez olarak adlandırılır.
+Gördüğünüz gibi fonksiyon, bu örnekte, dönüş değeri hesaplamak için zaman ayırın gerektiğinde, bir programın bir yürütme yavaşlatabilir.
+Sonuçlar beklenmemektedir.
+Bu bölümün son nokta için, makro tehlikeli olabilir göreceksiniz. Bazı programlarda, bazı işlemler gerekli olabilir hangi kritik veri yoktur. Bu operasyonlar daha okunaklı hale getirmek için, makro kullanılabilir, ancak çift edged.Let Şimdi bu kod ve yürütme bir örnek almak olabilir:
+<Syntaxhighlight lang = C>
+// Dosya example3.c
+main () int
+</ Syntaxhighlight>
+<Syntaxhighlight lang = C>
+./example3
+Y 10
+z 18'dir
+</ Syntaxhighlight>
+Normalde, beklenen sonuç "y 30 64 eşit ve z" oldu. Önişlemci makro çağrıları yerine Ama, biz edinin:
+<Syntaxhighlight lang = C>
+// Y:
+x + 1 * x + 1 * x + 1 // eşdeğer
+x + (1 * x) + (1 * x) + 1 // veya
+3 + (1 x 3) + (1 x 3) + 1 // 10 eşittir
+// Z:
+5 * x + x // eşdeğer
+(5 * x) + x // veya 18
+</ Syntaxhighlight>
+C Makrolar (SMX, SAM76, Assembly dili, vb ve diğerleri dilleri) daha fazla bir şey yapmayın, sadece metin ikame vardır. Bu programcının sorumluluğu bu durumda, parantez koymak, bu konuda dikkatli olmaktır.
+Ama, diğerleri durumlarda, bu gibi anında tahmin edilemez bazı comportements:
+<Syntaxhighlight lang = C>
+// Dosya example4.c
+main () int
+</ Syntaxhighlight>
+8 y değeri olarak beklenen, ancak yürütme de sonuç olduğunu:
+<Syntaxhighlight lang = C>
+./example4
+Y 10
+</ Syntaxhighlight>
+En biz yürütme yığını ayrıştırmak ne olur görelim:
+<Syntaxhighlight lang = C>
+Y = (++ x) + (x ++);
+yığın:
+- '+' Ilk istiflenmemiş olduğunu
+- İlk '++ x' değerlendirilir ve istiflenmemiş => x = 4
+- ++ 'İkinci değerlendirilir x'is ve istiflenmemiş => x = 5
+- Sonra '+' vermek x + x = 5 + 5 = 10 * /
+</ Syntaxhighlight>
+Biz yürütme yığının bakmak ama içgüdüsel çok açık değildi, sonuç mantıklı.
+Yani, makro kullanıcıları (imbricated talimatlarda '++ x' gibi talimatlar çok ya da tavsiye edilmez ek olarak) dikkat etmeden, hataları kolaylıkla görünebilir, çünkü dikkatli olmak zorunda.
+VBA-tipi / WindWord makro kusurları.
+Bu kusurlar, önceki olanlardan tamamen farklı: VBA tipi makroları temel sorun virüsleri olduğunu. Makro virüsler Concept adlı ilki Haziran 1995 yılında oluşturuldu, nispeten yeni.
+Bunun temel nedeni makro kodu yazmak için kullanılan yüksek seviyeli dilleri oldukça potansiyel virüs yazarlarının havuzu artan güçlü ve kullanımı kolay "olduğunu ve makro içeren belgeler E-posta yoluyla hızla ve yaygın olarak yaygın olabilir ".
+Böylece hızla yayıldı ve çok yıkıcı olabilir olabilir.
+Makro virüsleri farklı türleri.
+Sistem Makro Virüsler.
+Sistem makro word belgesi içinde (FileSave gibi sık kullanılan işlevleri, makrolar olan FileSaveAs gibi) temel operatörleri ile etkileşim makroları demektir.
+gücü, ancak bir word belgesi zayıflığı makrolar gibi türleri kullanıcılar tarafından redefinied olmasıdır.
+Bu kullanıcı için büyük bir esneklik sağlamak, ancak, bu bir kusur da korsanların belgenin kontrol ve word belgesi açıldığında bilgisayarı aşağı çekmek için istismar olabilir.
+Virüsler Bu tip herhangi bir eylem ya da kullanıcının bilgisi ya da izni olmadan bazı olaylar tarafından başlatılan olabilir, otomatik ve yarı otomatik makro kullanın.
+Örneğin, bir word belgesi aşağıdaki makro var: AutoExec, otomatik yeni, AutoClose, AutoOpen, AutoExit, bu yüzden bir hacker orijinal işlevi aynı ada sahip bir makro virüsü bu temel işlevleri yerine için çok kolay.
+Ayrıca, kısayol tuşları kombinasyonu (kalın yazı kurmak için Ctrl + B gibi) bir sistem komutu ile ilişkili olabilir ve kullanıcı gümrük makroları ile bunların yerine, bunları değiştirebilirsiniz. Yani bir hacker değiştirmek ve kullanıcı kısayol tuşunu kullanarak aktive edecek gibi makro oluşturabilirsiniz.
+Böyle makrolar da makro tuşu ile aktif hale getirilebiliyor, bir düğme gibi güvenli yaygın ve görünüyor "Daha fazla bilgi için buraya tıklayınız".
+Makro Dönüşüm Belge.
+Kesme ve makro bir belgenin metni yapıştırmak makro virüsü türü. belge (boş) açıldığında metin yeniden yaratılabilir bu yüzden makro Auto-açık makro ile çağrılır olabilir. kullanıcı belge boş olduğunu fark etmez. Ayrıca sırayla metnin sadece bazı bölümlerini dönüştürebilirsiniz makro az fark olması.
+Elle, belgeden veya bir anti-virüs programı kullanarak makro Çıkarma belgenin içeriğinin kaybına yol açacak.
+Polimorfik Makrolar.
+"Polimorfik virüsler, anti-virüs tarayıcıları tarafından algılanmasını önlemek için her çoğaltması ile temel yollarla kodunu değiştirmek."
+WordBasic (dilin Visual Basic ilk ismi) olarak polimorfik virüsler yapmak zordur.
+Nitekim, Makro polimorfizm belgenin şifreleme dayanır. Ancak, hackerlar şifreleme anahtarının hiçbir kontrole sahip.
+Şifrelenmiş makrolar sadece belgede, yani şifreleme de anahtarı ve bir polimorfik makro kendini çoğaltır, anahtar değişmez (çoğaltma sadece makro değil şifrelemeyi etkiler): Ayrıca, şifreleme gerçekten verimli değildir.
+Bu zorluklara ek olarak, makro kendisini değiştirmek ancak başka bir makro kutu olamaz.
+WordBasic gerçekten güçlü bir dil, bu makroları bazı işlemleri olanak tanır:
+Yani, onun içeriğini değiştirebilirsiniz makrolar virüs uygulamak için, hackerlar virüsü içeriğini değiştirmek için görevi yerine başka bir makro yapmak zorundayız.
+Ancak, makro virüsler bu tür gerçekten yaygın değildir. Nitekim, hackerlar kolay ve uygulamak hızlı çünkü makro virüsleri yapmayı tercih. Bir polimorfik makro "klasik" makro virüsü daha dil WordBasic (bu gelişmiş işlevleri ihtiyacı) ve daha fazla zaman bilgisi gereken bir sürü olun.
+Korsan bir polimorfik makro yapmak bile, polimorfizm belge güncelleme olması gerekir ve güncelleştirme kullanıcı için görünür olabilir, yapılması gereken, bu yüzden.
+Zincirli makrolar.
+Çoğaltma sırasında bir makro do-nothing makro oluşturabilirsiniz. Ama bu fikir polimorfik makrolar ile kombine edilebilir, böylece makro mutlaka bir şey yapmama değil, her makro yüzden bir zincir içinde düzenlenebilir bir sonraki çağırır. Hepsi bir dezenfeksiyon sırasında kaldırılır değilse bu durumda, bazı yıkıcı yükü devreye girer. Böyle bir saldırı, bir iç hata ile kelime işlemci çökmesine sebep olabilir. WinWord 6.0 yana, şablon başına makro sayısı 150 ile sınırlıdır, bu yüzden saldırı çok sınırlı ama yine de çok can sıkıcı olabilir.
+'Çiftleşme' Makro virüsler.
+Makro virüsler, bazı durumlarda, bunlar arasında etkileşim olabilir. İki virüs aynı anda idam ise, her ikisi de birbirlerinin kaynak kodunu değiştirebilirsiniz.
+Bu nedenle, anti-virüs yazılımı tarafından kabul edilemez yeni bir virüs neden olur. Ancak, sonuç tamamen rastgele: makro virüsü daha bulaşıcı ya da daha az bulaşıcı olabilir, bu değiştirildi virüsün hangi bölümünün bağlıdır.
+'Çiftleşme' kasıtsız Ancak, sonuç makro virüsü daha az bulaşıcı olmak için daha fazla şansı var.
+Nitekim, kendini çoğaltmak için, o rastgele düzeni değişti eğer, makro kendisini çoğaltmak olamaz, kaynak kodu komutları bilmek zorunda, ama.
+Bununla birlikte, bu kasıtlı böyle makro yapmak mümkündür, iki virüs enfektivite arttırmak için (kendi içeriğini değiştirmek için başka bir makro kullanmak zorunda polimorf makro virüsleri farklıdır).
+Makalenin örnekte, makro virüsü "Renkler" bir belge enfekte, ancak başka önce kullanıcının sistemine bulaşmış: makro virüsü "Concept".
+Bu virüslerin ikisi ilk başta "komutunu AutoOpen" kullanın, böylece, makro virüsü "Renkler" algılandı ama o komutu "AutoOpen" makro virüsü "Concept" komuta oldu.
+Ayrıca ham, "Kavram" kendini çoğaltmak zaman, şifresiz, ama virüs "Renkler" komut (Renkler kendi komutları şifrelemek) şifrelenmiş.
+Yani, ve "Renkler" (kullanıcının ilk sistemini enfekte) bu makro virüsü hybridation makro virüsü "Concept" sonucu çoğaltmak.
+"AutoOpen" aslında bu komutu "Konsepti" dan geliyor, idam değildi, ama melez beden "Renkler" yalnızca bazı çatışmalar yaratmak, böylece "melez", kendini çoğaltmak olabilir.
+Bu örnek makro virüsleri çiftleşme potansiyelini gösterir: çiftleşme makro virüsleri bir çift yaratılmış ise, o (hipotezinin, orada sadece ikisi arkadaşı) makro virüsü hem tespit etmek daha zor hale virüs specificscanners tarafından ve mayıs edecek Virüslerin erkeklik güçlendirir.
+Neyse ki, makro virüsü bu tür, gerçekten, (orada bir olmayabilir polimorfik makro virüsleri daha) (daha doğrusu o güçlendirmek) virlity azaltmak birbirleri ile etkileşim ve olamaz iki (veya daha fazla) oluşturmak çok nadirdir karmaşık.
+Makro Virüsü mutators.
+Virüslerin dünyanın en kötü senaryolardan biri varolan bir değiştirerek yeni bir virüs oluşturmak için izin veren bir araç olacaktır.
+Çalıştırılabilir dosyaları için, aracın bu tür oluşturmak zordur. Makro kaynakları her zaman mevcuttur beri Ama makro virüsleri için çok basittir. Polimorfik makrolar aynı fikre dayanarak, makro belgede bulunan tüm makroları değişiklikler yapabilirsiniz. Bu göz önüne alındığında, sadece birkaç modifikasyonlar makro virüsü mutator bunu dönüştürmek için makro yapmak vardır.
+Yani makro virüsü jeneratörleri oluşturmak oldukça kolaydır, bu yüzden bilinen virüslerin hızlı bir şekilde birkaç binlerce oluşturmak mümkündür.
+Parazit makro virüsleri.
+Çoğu makro virüsleri stand-alone vardır; diğer makrolar üzerinde (bazı virüs replikasyonu için virüsün bulaşıcı bölümü için) bağlı değildir, ancak bazı makrolar virüsler yapmak. Onlar parazit makro denir.
+Onlar başlattı, bunlar diğer makro (virüsler ya da değil) kontrol ve onlara kendi içeriklerini ekler. Bu şekilde, tüm makroları virüs olmuştur.
+Ancak, makro bu tür tek başına makrolar gibi hızla yayıldı edilemez.
+Nitekim, onlar olmadan, virüs yaymak olamaz, diğer makrolar bağlıdır, bu yüzden. Onlar tek başına ve diğer makro bulaşabilir: Yani, parazitik makrolar genellikle hibrid bulunmaktadır.
+Makro virüsü Bu tür virüse spesifik anti-virüs gerçek sorunlara yol açar; doğru algılama mümkün değildir bu yüzden aslında, onlar, diğer virüsler içeriğini değiştirir.
+Suboptimal anti-virüs.
+Anti-virüs (veya tarayıcı) farklı türleri vardır, bunlardan biri yorumlayabilir ya da makro öykünür sezgisel analiz anti-virüs olduğunu.
+Bu durumda, (makro içeren) bir belge analizi çok zaman alacağını bu yüzden Nitekim, makro şubeleri tüm NP-tam karmaşıklık (kullanarak geriye gidilmiştir) gerektiren incelemek için. Yazılı veya sözlü değil algılanan yanlış pozitif hatalar veya makro virüsleri ya yol açacak bir makro taklit.
+Anti-virüs, başka tür, bütünlük denetleyicisi anti-virüs, bazı durumlarda, işe yaramazsa: sadece uzantıları DOT veya DOC (aslında, bazı anti-virüs üreticileri kullanıcılarına öneririz), fakat WinWord belgeleri ile tüm belgeleri kontrol eder iki belgenin içeriği eğilimi olanlar genellikle değiştirmek için daha başkalarının uzantıları bulunabilir. Yani, sezgisel analiz gibi, bu durum anti-virüs bu tür belgenin tamamını kontrol gerçeği, yanlış pozitif hatalara yol açabilir.
+görülen anti-virüs son tip virüse özgü tarayıcı olacak. Bu anti-virüs tipi daha önceki olanlardan daha zayıf olduğunu virüslerin imza arar, yani.
+Nitekim, virüs özgü tarayıcılar tarafından algılanan virüsler sadece olanları yazılım üreticileri tarafından biliyorduk vardır (yani, daha fazla güncellemeleri tarayıcıları diğerleri türlerine göre ihtiyaç vardır). Ayrıca, anti-virüs bu tür geçişin karşı gerçekten zayıf olduğu virüsleri (yukarıdaki cf.section), bir makro virüsü (yani, onun imzası), daha o olsa bile virüs özgü tarayıcılar tarafından tespit edilebilir hiçbir içeriği değiştirirseniz aynı eylemleri yapmak aynı virüs. Onun imza virüs tarayıcısı bir declare eşleşmiyor.
+Anti-virüs sorumluluğu Ek, kullanıcıların sorumluluğu vardır: potansiyel bir makro virüsü tespit edilirse, kullanıcı onunla ne yapacağını seçebilirsiniz: bunu görmezden, onu karantinaya ya onu yok, ama son seçenek En tehlikeli.
+anti-virüs anti virüs tarafından silinir bazı verileri yok bazı yıkıcılar makro virüsleri aktif hale getirebilirsiniz.
+Yani, virüs tarayıcıları ve kullanıcıların hem güvenlik ve belgeler / bilgisayar bütünlüğü sorumludur.
+Ayrıca, anti-virüs virüs algılama optimal olmasa bile, makro virüsleri çoğu tespit edilir ve virüs algılama ilerleme geliştirmek ancak yeni makro virüsleri oluşturulması ile.
+Çözümler.
+Metin değiştirmelerin makrolar.
+Marco.
+Metin değiştirmelerin makrolar (C gibi) derleyici ayrılabilir ancak emniyetli kılınmış olmayacaktır. Ya da derleyici entegre edilebilir, ancak bu onların kullanımını sınırlar.
+Marco çoklu dil uygulamaları için özellikle programcı verimliliğini artırmak hem avantaj ve böylece ile makro sağlayan bir çözüm vardır. Nitekim, bu dilden bağımsızdır, tek gereksinim, hedef dilin derleyici konumu ve hataların nedeni ile açıklayıcı hata iletileri üretmek olduğunu.
+Marco ayrıca bir modül ve bir dili anlamak için bir plug-in ihtiyacı var. Bir fragmanı ücretsiz adlarını belirlemek için sözdizimsel iyi biçimlilik için kontrol birini, bir ve bir parçası verilen bir isim yakalar olup olmadığını test etmek için sonuncusu: plug-in üç kehanet alma içermelidir. Şu an için, sadece bir prototip olduğunu ve sadece C ++ ve SQL destekleyecektir. Marco güvenli kod kullanarak makro iyi kapsüllü ve aynı zamanda dil ölçeklenebilir olabilir kanıtlıyor.
+MacroML.
+Tip-güvenli makro sağlayan makro dili bir örnek. MacroML üretken makro destekleyen bir ifade, yazılan bir dildir.
+Makrolar hedef dilin, MetaML çevrilir ve çalışma zamanı hataları olmadan iyi-tipi programı verir.
+Makro virüsler.
+Her zaman virüsler dünyasında arızalar olacaktır. Neyse ki, makro virüsleri bir sürü iyi bir anti-virüs karşılık olabilir.
+Bu bölümde anti-virüs, makro-virüslerden korumak için sahip olması gereken özellikler sunuyor.
+Polimorfik makrolar.
+İlk olarak, belirli bir anti-virüs ürünleri çok virüs bu tür etkilemez, içeriğini analiz, anti-virüs daha verimli olacaktır.
+Ayrıca, fark bir şey var: modifikasyon işlemi nispeten yavaş ve kullanıcı tarafından fark edilir.
+Zincirli makrolar.
+Bu makroları virüslerden korunmak için, bir tarayıcı zincirinin tüm unsurları tespit etmek ve düzgün bunları kaldırmak için vardır.
+'Çiftleşme' Makro virüsler.
+anti-virüs virüs tüm makroları değil, aynı zamanda bunlardan herhangi kalıntıları tespit etmek vardır. "Renkler" örneğinde, anti-virüs, Microsoft'un ScanProt (makro virüs koruması aracı) virüsün kalıntıları içeren ancak sorun ScanProt virüs parçalarını içermiyor olduğunu çok algılamak gerekir.
+Başka bir sorun var bir virüs B makro bir dizi oluşan bir virüsü A bazı makro değiştirerek oluşturulursa, o zaman virüs B A kalıntısı ama sadece tespit ediyorum anti-virüs olarak algılanır (ve çıkarmak olabilir ) non-modifiye makrolar.
+Bundan sonra, bazı durumlarda, virüs replikasyonu (şimdi bir orijinal makro içermeyen) başarılı bir şekilde olabilir. Aslında, anti-virüs yeni bir virüs yarattı olurdu.
+Makro Virüsü mutators.
+-Virüs, anti çok kolay güncellenen ve bu virüsleri karşı hızlı olmak zorunda. Bilgilerin bir sürü her gün ve güncellemeler yaparken düşülmemelidir anti-virüs performansı ilave edilir.
+Parazit makro virüsleri.
+Buradaki sorun makroları kolayca tanımlanabilen kümesi yok olduğunu, anti-virüs, makro vücut ayrıştırmak ve tanımlamak ve makro virüsleri (Neyse ki, bu görev ulaşmak zor değil) tarafından eklenen parçalar kesmek zorunda.

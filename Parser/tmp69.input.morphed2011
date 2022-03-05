@@ -1,0 +1,74 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Atmosferde	atmosfer	+Noun+A3sg+Pnon+Loc
+
+toz	toz	+Noun+A3sg+Pnon+Nom
+toz	toz	+Verb+Pos+Imp+A2sg
+
+duman	duma	+Noun+A3sg+P2sg+Nom
+duman	duman	+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+gaz	gaz	+Noun+A3sg+Pnon+Nom
+
+gibi	gibi	+Postp+PCGen
+gibi	gibi	+Postp+PCNom
+
+maddelerin	madde	+Noun+A3pl+Pnon+Gen
+maddelerin	madde	+Noun+A3pl+P2sg+Nom
+
+insan	insan	+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+diğer	diğer+Adj
+
+canlılara	can	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Dat
+canlılara	canlı+Noun+A3pl+Pnon+Dat
+
+zarar	zarar	+Noun+A3sg+Pnon+Nom
+
+verecek	ver	+Verb+Pos+Fut+A3sg
+verecek	ver	+Verb+Pos^DB+Adj+FutPart+Pnon
+
+kadar	kadar	+Noun+A3sg+Pnon+Nom
+kadar	kadar	+Postp+PCNom
+kadar	kadar	+Postp+PCGen
+kadar	kadar	+Postp+PCDat
+
+yükselmesi	yüksel+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+olayına	olay	+Noun+A3sg+P3sg+Dat
+olayına	olay	+Noun+A3sg+P2sg+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

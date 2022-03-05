@@ -1,0 +1,8 @@
+1	Mitoz	mitoz	Noun	Noun	A3sg|Pnon|Nom	4	OBJECT	_	_
+2	_	böl	Verb	Verb	_	3	DERIV	_	_
+3	_	_	Verb	Verb	Pass|Pos	4	DERIV	_	_
+4	bölünme	_	Noun	NInf	A3sg|Pnon|Nom	6	OBJECT	_	_
+5	_	ne	Pron	QuesP	A3sg|Pnon|Nom	6	DERIV	_	_
+6	nedir	_	Verb	Zero	Pres|A3sg|Cop	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

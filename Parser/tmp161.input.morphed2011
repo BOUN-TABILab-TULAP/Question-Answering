@@ -1,0 +1,47 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bir	bir	+Adverb
+Bir	bir	+Det
+Bir	bir	+Num+Card
+Bir	bir	+Adj
+Bir	Bir	+Noun+Prop+A3sg+Pnon+Nom
+
+kültürün	kültür+Noun+A3sg+P2sg+Nom
+kültürün	kültür+Noun+A3sg+Pnon+Gen
+
+doğduğu	doğ+Verb+Pos^DB+Adj+PastPart+P3sg
+doğduğu	doğ+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+yere	yer	+Verb+Pos+Opt+A3sg
+yere	yer	+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

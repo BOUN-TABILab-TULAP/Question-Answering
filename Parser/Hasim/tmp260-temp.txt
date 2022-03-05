@@ -1,0 +1,15 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Deltalar delta+Noun+A3pl+Pnon+Nom delta+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+nasıl nasıl+Adverb nasıl+Adj
+oluşur oluş+Verb+Pos+Aor+A3sg oluş+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

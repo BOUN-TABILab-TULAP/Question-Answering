@@ -1,0 +1,10 @@
+1	Dünyada	dünya	Noun	Noun	A3sg|Pnon|Loc	8	LOCATIVE.ADJUNCT	_	_
+2	ilk	ilk	Adj	Adj	_	3	MODIFIER	_	_
+3	telgraf	telgraf	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	hattı	hat	Noun	Noun	A3sg|P3sg|Nom	8	SUBJECT	_	_
+5	ne	ne	Adj	Adj	_	6	MODIFIER	_	_
+6	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	8	SUBJECT	_	_
+7	_	kur	Verb	Verb	_	8	DERIV	_	_
+8	kurulmuştur	_	Verb	Verb	Pass|Pos|Narr|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

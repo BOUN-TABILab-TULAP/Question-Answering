@@ -1,0 +1,37 @@
+Mathematica
+Mathematica sembolik matematiğe dayalı birçok bilimsel, mühendislik, matematik ve bilgisayar alanlarında kullanılan bir hesaplama yazılım programıdır. Stephen Wolfram tarafından tasarlandı ve Champaign, Illinois Wolfram Research tarafından geliştirilmiştir. Wolfram Mathematica Dil kullanılan programlama dilidir.
+Özellikler.
+Mathematica özellikleri şunlardır:
+Arayüz.
+Mathematica iki parça, çekirdek ve ön uç ayrılmıştır. Çekirdek ifadeleri yorumlar (Mathematica kodu) ve döner ifadeleri sonuçlanır.
+Theodore Gray tarafından tasarlanan ön uç, dizgi matematik, grafik, GUI bileşenleri, tablolar ve sesler dahil sonuçları ile birlikte, biçimlendirilmiş metni oluşturma ve prettyPrinting ile program kodu içeren Dizüstü belgeleri düzenleme olanağı sağlayan bir GUI sağlar. Tüm içerik ve biçimlendirme algoritmik veya etkileşimli düzenlenebilir oluşturulabilir. Çoğu standart kelime işleme yetenekleri desteklenir. Bu bir yazım denetleyicisi içerir, ancak siz yazarken otomatik olarak yazım denetimi yoktur.
+Belgeler özetleyen ve bir belgenin kesit ve otomatik numaralandırma endeksi oluşturulmasını desteklemek için izin hücrelerin, bir hiyerarşi kullanarak yapılandırılabilir. Belgeler sunumlar için bir slayt ortamında sunulabilir. Laptop ve içerikleri Mathematica'da programlar tarafından oluşturulur değiştirilmiş veya analiz edilebilir Mathematica'da ifadeler olarak temsil edilir. Bu tür TeX veya XML gibi diğer biçimlere dönüşüm sağlar.
+Ön uç böyle bir hata ayıklayıcı, giriş tamamlama ve otomatik sözdizimi renklendirme olarak geliştirme araçları içerir.
+Alternatif ön biter arasında Wolfram Tezgahı, bu revizyon yönetimi, hata ayıklama, profilleme ve test de dahil Mathematica için proje tabanlı kod geliştirme araçları sağlar 2006 yılında tanıtılan bir Eclipse tabanlı IDE vardır. Mathematica Çekirdek ayrıca bir komut satırı ön uç içerir. Diğer arayüzler UNIX komut satırından (argümanlarla) kendi kendine yeten Mathematica programları çalıştırır GNU taleb ve MASH dayalı Jmath içerir.
+Yüksek performanslı bilgi işlem.
+Son yıllarda, yüksek performanslı bilgi işlem için yetenekleri ve yüksek hassasiyetli değerlendirmek için GNU Çok Hassas kitaplığı benimseyerek dolu diziler (sürüm 4, 1999) ve seyrek matrisler (sürüm 5, 2003) tanıtımı ile genişletilmiştir aritmetik.
+Hesaplamalar çok çekirdekli bilgisayarlarda gerçekleştirildiğinde Sürüm 5.2 (2005), otomatik multi-threading ekledi. Bu sürüm CPU özgü optimize kütüphaneleri dahil. Buna ek olarak Mathematica gibi ClearSpeed ​​gibi üçüncü taraf uzmanı hızlandırıcı donanımı tarafından desteklenmektedir.
+2002 yılında, gridMathematica heterojen kümeler ve çok işlemcili sistemlerde kullanıcı seviyesi paralel programlama izin tanıtıldı ve 2008 paralel işlem teknolojisi gibi Windows HPC Server 2008, Microsoft Compute Cluster Server ve Sun Izgara olarak grid teknolojisi için destek dahil olmak üzere tüm Mathematica lisansları dahil edilmiştir.
+CUDA ve OpenCL GPU donanım desteği sürüm 8 itibaren böyle Intel C ++ derleyicisi veya Visual Studio 2010 otomatik olarak bir sistem C derleyicisi tarafından derlendi C kodu, üretebilir, ayrıca 2010 yılında eklenmiştir.
+Dağıtım.
+Mathematica ile yazılmış uygulamaları dağıtmak için çeşitli yolları vardır:
+Diğer uygulamalarla Bağlantıları.
+Diğer uygulamalarla iletişim MathLink adında bir protokol yoluyla gerçekleşir. Bu Mathematica çekirdeği ve ön uç arasındaki iletişimi sağlar ve aynı zamanda kernel ve diğer uygulamalar arasında genel bir arayüz sağlar. Wolfram Research serbestçe "MathLink" ile Mathematica çekirdeğe C programlama dilinde yazılmış uygulamaları bağlamak için bir geliştirici kiti dağıtır. . "J / Bağlantı", bir Java programı hesaplamaları gerçekleştirmek için Mathematica sorabilirsiniz Kullanımı; aynı şekilde, bir Mathematica programı, Java sınıflarını yüklemek Java nesneleri işlemek ve yöntem çağrıları gerçekleştirebilirsiniz. Benzer işlevsellik ".NET / Link" ile yerine Java programlarının .NET programları ile elde edilir. Mathematica bağlanmak Diğer diller Haskell, AppleScript, Raket, Visual Basic, Python ve Clojure bulunur.
+Bağlantılar OpenOffice.org Calc, Microsoft Excel, MATLAB, R, Adaçayı, SINGULAR, Wolfram SystemModeler ve Menşe dahil olmak üzere birçok uzman matematiksel yazılım paketleri mevcuttur. Matematiksel denklemler MathML üzerinden diğer hesaplama veya dizgi yazılımı ile değiştirilebilir.
+SQL veritabanları ile iletişim JDBC için yerleşik destek ile elde edilir. Mathematica de WSDL açıklamasından web hizmetleri yükleyebilirsiniz. Bu Hadoop üzerinden HDF'ler verilere erişebilir.
+Mathematica donanım GPIB yoluyla cihazların (IEEE 488), USB ve seri arabirimler doğrudan mali veri beslemeleri LabVIEW bir bağlantı aracılığıyla gerçek zamanlı veri yakalama ve olabilir. Bu otomatik olarak algılar ve HID cihazlardan okur.
+Hesaplanabilir verileri.
+Mathematica hesaplamaları kullanımı için temin curated veri koleksiyonu içerir. Mathematica ayrıca Wolfram Alpha, gerçek zamanlı olarak güncellenir tutulur bazıları ek veri sağlayan bir çevrimiçi hizmet ile entegre edilmiştir. Veri kümelerinin bazıları (örneğin knot ve polyhedra gibi) matematiksel verilere ek olarak astronomik, kimyasal, jeopolitik, dil, biyomedikal ve hava durumu verileri içerir.
+Tasarım.
+Wolfram Research Mathematica işlevleri gerçekleştirmek için kullanılan algoritmalar listeleme belgeleri sağlar.
+Ilgili ürünler.
+Mathematica ile ilişkili Wolfram Research ürünleri şunlardır:
+Lisanslama ve platform fırsat.
+Mathematica, ticari, eğitim ve diğer kullanımlar için fiyatların bir dizi lisanslı özel bir yazılımdır.
+Mathematica 10, Microsoft Windows (Vista, 7 ve 8), Apple'ın OS X, Linux, Raspbian çeşitli sürümleri ve çevrimiçi hizmet olarak desteklenir. Tüm platformlar, 64-bit uygulamaları ile desteklenir. OS X için sürüm 10 öncesinde Mathematica Mavericks bir kaldırılmış bileşeni olan Java SE 6 gerekli. 6.0.3 kadar Mathematica önceki sürümlerinde Solaris, AIX, Konveks, HP-UX, IRIX, MS-DOS, NeXTstep, OS / 2, Ultrix'li ve Windows Me gibi diğer işletim sistemleri, destekledi.
+Sürüm geçmişi.
+Mathematica Cole ve Wolfram'ın önce Sembolik Manipülasyon Programı (SMP) fikirler üzerine inşa. Stephen Wolfram önce düşündü ve bunu reddetti rağmen programı "Mathematica" adı Apple'ın kurucularından Steve Jobs tarafından Stephen Wolfram önerildi.
+Wolfram Research Mathematica'nın aşağıdaki sürümlerini yayımladı:
+Eleştiri.
+Herhangi bir yazılım gibi, Mathematica'da yanlış hesaplamalar neden olabilir böcek ihtiva edebilir.
+7 Ekim'de Wolfram Research Inc. bildirilen bir hata ile ilgili belirleyici operasyonu, 2013 alakalı şikayetler yeni hata, aslında, ele olmasına rağmen hala tahliye 10.0.1 mevcut olduğu düşünüldü.

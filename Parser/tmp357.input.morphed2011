@@ -1,0 +1,63 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Yaprak	yaprak	+Noun+A3sg+Pnon+Nom
+Yaprak	Yaprak	+Noun+Prop+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+gövde	gövde+Noun+A3sg+Pnon+Nom
+
+epidermis	epidermis	+Noun+A3sg+Pnon+Nom
+
+hücrelerinin	hücre+Noun+A3pl+P3sg+Gen
+hücrelerinin	hücre+Noun+A3pl+P2sg+Gen
+hücrelerinin	hücre+Noun+A3pl+P3pl+Gen
+hücrelerinin	hücre+Noun+A3sg+P3pl+Gen
+
+farklılaşmasıyla	fark	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Ins
+
+oluşan	oluş+Verb+Pos^DB+Adj+PresPart
+
+bitkinin	bitki	+Noun+A3sg+Pnon+Gen
+bitkinin	bitki	+Noun+A3sg+P2sg+Gen
+bitkinin	bitkin	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+bitkinin	bitkin	+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+
+çevreyle	çevre+Noun+A3sg+Pnon+Ins
+
+gaz	gaz	+Noun+A3sg+Pnon+Nom
+
+alış	al	+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+alış	alış+Verb+Pos+Imp+A2sg
+
+verişini	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Acc
+verişini	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Acc
+
+sağlayan	sağla+Verb+Pos^DB+Adj+PresPart
+
+hücre	hücre+Noun+A3sg+Pnon+Nom
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

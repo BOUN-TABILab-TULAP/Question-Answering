@@ -1,0 +1,140 @@
+Chronaxie
+Chronaxie bir kas ya da nöron uyarmak için rheobase bir elektrik akımı çift güç için gerekli minimum zamanı. Rheobase sadece kasları veya sinirleri uyarılmış belirsiz darbe süresi ile en yoğunluğudur. Chronaxie o hücrenin uyarılabilirliğini büyük ölçüde etkileyebileceğini hücre voltaj-bağımlı sodyum kanalının, yoğunluğuna bağlıdır. Chronaxie dokusunun farklı türleri arasında değişir: kaslar düşük chronaxie sahip hızlı kasılan kaslar bir üst var yavaş seğirme. Chronaxie doku uyarılabilirlik parametre olduğunu
+Herhangi heyecanlı dokusunun uyarılması için optimum uyarıcı darbe süresi seçimi izin verir. Chronaxie (c) akımı için uyarıcı darbe süresi Lapicque tanımlayıcı olan
+eşik akımı iki kez rheobasic (b) gücü,
+sonsuz uzun süreli uyaran nabız için. Lapicque gösterdi
+Bu iki miktarlarda (c, b) gücü süreli eğrisini tanımlamak
+Geçerli için: I = b (1 + c / d), d darbe süresi olduğu.
+Ancak, kullanılan diğer iki elektriksel parametreler vardır
+bir uyarıcı açıklanmaktadır: Enerji ve şarj. minimum enerji
+chronaxie eşit bir darbe süresi ile oluşur. Asgari
+Ücret (bc) sonsuz kısa süreli darbe ile oluşur.
+10c eşit bir darbe süresi seçimi bir akım gerektirir
+rheobase üzerinde sadece% 10 (b). Bir darbe süresi seçimi
+0.1C asgari ücret (bc) Yukarıdaki% 10 ücret gerektirir.
+Tarihi.
+terimleri chronaxie ve rheobase ilk D'efinition Louis Lapicque ünlü kağıt icat edildi exp'erimentale de l'excitabilit'e 1909 yılında yayımlandı söyledi.
+Ben yukarıdaki (d) eğrisi genellikle (1901) Weiss atfedilir - bakınız, örneğin (Rattay 1990).
+Bu süre geçerli gücü bağımlılığı 2 'basit' matematik tanımlayıcılar en basit olduğunu ve d Weiss 'çizgisel yük ilerlemesi yol açar:
+Lapicque kendi yazıları ve daha yeni iş Hem doğrusal şarj yaklaşımı ile kavgalı bulunmaktadır.
+Zaten 1907 yılında Lapicque hücre zarının bir doğrusal birinci dereceden bir yaklaşım kullanıyordum, bir tek RC eşdeğer devresi kullanarak modellenmiştir. Böylece:
+nerede formula_3 membran zaman sabiti - 1. mertebeden lineer zar modelinde:
+Chronaxie (c) burada açıkça mevcut olmadığını edin.
+Bildirim Ayrıca - üs Taylor serisi ayrışması çok kısa süreli formula_6 ile (d etrafında = 0):
+hangi bir sabit ücret yakınlaştırılması yol açar. İlginçtir, ikincisi basit formüller hem sapmalar ana katkı olabilecek, aynı zamanda iyi hesap iyon kanal yolluk mekanizmalarına katmak telaşlı zarının daha karmaşık modelleri, yanı sıra hücre içi akımı uygun olabilir.
+Bunlar 'inceliklerini' açıkça Lapicque onu atfederek Weiss seviyesini vurgulayan Geddes (2004) tarafından çok iyi Lapicque (1907, 1926 ve 1931) tarafından açıklanan, ancak değil.
+Ölçüm.
+Bir elektrod yüzeyi akım kullanılarak uyarılır ilgi kas içine yerleştirilir. Hiperventilasyon kaynaklanan Chronaxie değerleri artış cilt empedansı bir değişiklik atfedilen olabilir, otonom sinir sisteminin etkisi altında olan bu değişiklikten sorumlu fizyolojik faktörler. Cildin durumu ve altta yatan dokular gösterebilirler çoğunlukta etkisi Bu örnek perkütan stimülasyonu ile chronaxie ölçümlerinin sonuçlarını yargılamak dikkatli zorlar. Bir Ringer çözeltisi içinde düz yerleştirilmiş taze ve normal sartorius
+ve elektrotlar ile doğrudan temas olmadan çözelti ile uyarılan iki çok farklı mukavemet süresi eğrilerinin, bunlardan biri, bir saniyenin birkaç yüzde biri üzerine yayıldıktan elde tabidir.
+Değerler.
+2,0-4,1 ms (köpek) 0.5 ms (insan) vücut sıcaklık aralığında memeli ventriküller için chronaxie değerleri; Bu, bir 8.2 / 1 oranıdır. Bu, büyük çaplı, miyelinli aksonlar sahip olduğu bildirilmiştir
+50 ila 100 ms ile 30-200 ms, ve nöronal hücre gövdeleri ve dendrit kadar chronaxie katı, 1 ila 10 ms, hatta 30 ms kadar değişen chronaxie kez. chronaxie
+gri cevher kez reportedas vardı
+380 +/- 191 ms ve 200 ± 700 ms olmak. Yorumlanması
+chronaxie kez daha ek faktörler tarafından eleştirilmiştir edilir.
+chronaxie kez soma rapor ve dendritler kurulmuştur
+kolayca nü için çıkarım olamaz hücre içi darbeleri kullanarak
+Hücresel uyaranlar. Veri
+fizyolojik olarak edebiyat kullanımı, motor tepkisi ya rapor
+Hayvanlarda insanlar veya aksiyon potansiyeli nesil eşik. Bunlar
+büyük ölçüde, bir makro-elektrot bölgesi ile uyarılmasına dayanır
+insanların dava 1.5 Â 1,2 mm DBS elektrot olduğunu. Mikro-elektrot elde edilen veriler
+stimülasyon ve duyusal talamus fizyolojik haritalama azdır.
+İki stimülasyon yöntemleri önemli ölçüde farklı sonuçlanabilir
+Sonuçlar. Birkaç çalışma ilişkilendirmek için çalıştınız
+anlayış rağmen duyusal algı ile chronaxie kez
+öznel bir algı katılan nöral elemanları, örneğin
+karıncalanma olarak, önemli fizyolojik etkileri vardır.
+Ölçümler elektrotların farklı tipleri ile ve bilinmeyen çıkış empedans sahip uyarıcıları ile alınmıştır. insan kol duyu sinirleri aralığı için chronaxie değerleri
+0.35 1.17 ms, 3.3 oranında dan. değerler kurmak için yeterli bilgi elde edildi
+değişkenlik nedeni. insana chronaxie değerleri temsil eden, vücut sıcaklığında 9.5 ila 30 ms arasında iskelet kası aralıkları sinirsiz
+3.16 oranı. Chronaxie bir azalma innervasyonun sırasında oluşur. chronaxie yayınlanan değerler geniş bir yelpazesi var. Chronaxie dokusunun en iyi tanımlayıcı ise
+homojen bir doku numunesinde uyarılma yeteneği, bilinen bir sıcaklıkta, bir sabit akım stimülatörü dikdörtgen katot uyaran dalga biçimini sağlayan belirlenmelidir.
+, Chronaxie mevcut mukavemet-süre eğrisi elde edilir ve uyaran süresi chronaxie daha kısa olması durumunda, fazla akım teşvik etmek için gerekli olduğunu göstermektedir
+Herhangi bilinen veya bilinmeyen çıkış empedansı bir uyarıcı ile herhangi bir tür ya da elektrotların konumu ile.
+Buna ek olarak, chronaxie değeri ise belirlenen minimum enerji vuruş süresini tanımlar. Ek olarak,
+chronaxie teslim yük, 2'dir, en az iki kez şarj tespit edilmiştir. Bu nedenle, minimum yük dağıtım implante edilmiş bir pilin ömrünü uzatmak için isteniyorsa
+uyarıcısı, ölçülen chronaxie daha düşük bir darbe süresi seçilmelidir; onda biri chronaxie bir süresi sağlar
+sadece% 10 asgari ücret üzerinde bir ücret.
+Uyarım.
+Elektrik ve manyetik stimülasyon farklı hisler üretti. Elektrik stimülasyonu için, duyum tipik oldu
+Deri yüzeyinde elektrotlar hemen altında, lokalize olarak tanımlanan. Manyetik İçin
+palmiye ve basamak boyunca dağıtılan olarak uyarılması, hissi genellikle tanımlanmıştır
+eli. Özellikle, en denekler medial veya lateral rakam ya duyumları bildirdi.
+Bu gözlemler elektriksel stimülasyon tercihen kutanöz aktive olabileceğini düşündürmektedir
+manyetik stimülasyon ise afferent sinir lifleri tercihen, derin sinirler aktive edebilir
+Böyle ulnar veya median sinir olarak.
+Duyusal vs Motor.
+Diğer çalışmalar elektrik kullanan duyusal ve motor liflerin aktivasyonu karşılaştırılmıştır
+ve manyetik stimülasyon sinir ve kas dokusu manyetik aktivasyon uyarılması yoluyla gösterdi
+kol ve bacak kas sinir liflerinin, elektrik için daha düşük bir eşik değeri cereyan
+stimülasyon. Ayrıca, duyu lifleri elektrik stimülasyonu için daha düşük bir eşik değeri olduğu gösterilmiştir.
+Kısa darbeleri zaman olduğu belirlenen tarafından el bileği Elektrik stimülasyonu
+(200'den az us) kullanılan motorlu lifler, daha kolay uyarılabilir olan uzun darbe için ise
+süreler (1000'den fazla us), duyusal lifler depolarizasyon daha yatkındır. İlgili bir
+gözlem elektrik stimülasyonu tercihen duyusal aktive olduğunu
+Uzun darbe süreleri motor liflere kıyasla lifler ve kısa nabız için ters
+süreler. Manyetik stimülasyon için, motorlu fiber eşiği düşük
+duyusal lifler daha.
+Önemi.
+chronaxie temel değeri böylece veri karşılaştırmaları kolaylaştırır, aynı standardı kullanarak farklı deneyler ve ölçümler arasında uyarılabilirliğini karşılaştırıyor. Chronaxie dayalı elektrik stimülasyonu denerve kas liflerinin myod gen ifadesini düzenleyen olabilir. 20 kas kasılmaları, yüzey elektrotlar kullanarak elektrik stimülasyonu ile uyarılan ve kas eksitabilite dayalı alternatif günlerde uygulanan insan klinik rehabilitasyon kullanılan protokollere benzer myod mRNA birikimini azaltmak başardık ve atrogin-1 Denerve kasların, bu
+ifadeleri sırasıyla kas büyümesi ve atrofi, ilgili varlık. denervasyon sonrası myod düzeylerinde artış, sadece aktivasyon ve çoğalması muhtemelen ilişkilidir
+Uydu hücrelerinin değil, aynı zamanda, hücre döngüsü düzenlenmesi için. Çeşitli çalışmalarda denervasyon kaynaklı myod işlevi denervasyon tarafından uyarılan kas atrofi önlenmesi için olabileceğini düşündürmektedir.
+Denerve bacak kaslarının kasılma değerlendirmek için, rheobase ve chronaxie belirlendi
+Yüzey elektrik stimülasyonu ile anestezi sıçan ve
+bacak kasları palpasyonu. değerler
+TA kas chronaxie 9-aya kadar ölçülen
+sciatectomy sonra. Kas heyecanlanma erken azaldı
+denervasyon sonrası. 0.1-0.2 ms Chronaxie
+innervasyonlu kas 01:59 içinde 0.5-1 ms değiştirildi
+denervasyon (yani, sonra gün sonra Wallerian
+sinirin dejenerasyonu) ve kademeli artış
+Aşağıdaki ayda yaklaşık 20 ms.
+Chronaxie 6 ay postsciatectomy bu seviye yukarı kaldı
+Sıçan (Vize denervasyon aşaması
+Model: 2-6 ay sciatectomy). Daha sonra,
+seğirme daralma şüpheli palpe oldu
+ve bu nedenle chronaxie çok daha uzun değerlere yükselmiştir
+(50 ms Infinitum için, yani kas seğirme oldu
+) palpe değil. Bu üçüncü aşama "uzun vadeli olarak tanımlanmaktadır
+Sıçan modeli denervasyon aşaması ", yani denervasyon
+Zaman altı aydan daha uzun). 3 36 üzerinden bacak kaslarında,
+reinnervation kendiliğinden ve chronaxie oluştu
+Normal değeri 0.1 ms, kısaltılmış
+innerve kas.
+Tıbbi Kullanımı.
+Chronaxie ve heyecanlanma değerlerin tıbbi uygulama elektromiyografi, değerlendirilmesi ve iskelet kası tarafından üretilen elektriksel aktivitesini kaydetmek için bir tekniktir. Rheobase mutlaka tercih elektrik akımı olmayabilir. Elektromiyografi nöropatiler, miyopati, ve nöromüsküler bağlantı hastalıkları teşhis etmek için kullanılır.
+SCI etkilenen kişilerin tedavi edilebilir yana
+FES korumak ve / veya kas trofizmini artırmak için /
+fonksiyonu, uyarılabilir kas liflerinin mevcudiyeti
+Uzun vadeli Denerve kas, son derece olabilir
+FES ile tedavi için önemlidir. Elbette,
+Uzun süreli hastaların havuz başına yeni vaka outnumbers
+Yıl, seçenek bile başlatmak için
+Bir seferde omurilik yaralanması, yani sonra uzun vadeli hangi
+mekanik kas seyirmesi tarafından tespit edilememiştir
+ya yüzey tarafından doğrudan elektrik stimülasyonu veya
+elektrotlar intramüsküler ve güçlü destek verebilir
+seçim başlatmak ve ömür boyu motivasyon gerçekleştirmek
+Bu kritik konularda FES egzersiz etkinlik.
+Hastalıkları.
+Chronaxie parathyreoidectomyis arasında tetani artar. Bu unutulmamalı,
+Bununla birlikte, bu XCC tekabül rheobase olduğu Elektrik reaksiyonların ve kesin bir azalma göstermektedir söyledi. rheobase
+İki arasındaki elektrik direnç değeri için değişir
+Elektrotlar yanı sıra on uyarılmış motor uyarılabilirliğinin durumu
+noktası ve dolayısıyla tetani içinde rheobase azalma anlamına gelebilir
+cilt elektrik direnci bir azalma daha fazla. Bu
+görmek zor, ancak, nasıl direnç böyle bir değişiklik olabilir
+bu reaksiyonlar olduğu sürece, mekanik uyaranlara artmış uyarılabilirliğinin yol
+proprioseptif sinirler aracılığıyla refleksler. chronaxie, diğer taraftan, yok
+elektrotlar arası direnci üzerinde ancak zaman ilişkilerine bağlı
+uyarılma işlemi ve chronaxie, Paratiroidektomi gibi arttırıldığı zaman
+bu iki rheobase yoğunluğu gerektiği anlamına gelir
+daha uzun bir süre için dokular üzerindeki hareket uyarma önce normal
+süreç gidiyor ayarlanır.
+İlaç etkileşimleri ve Toksinler.
+Bu klorlu hidrokarbon insektisit kronik maruziyet ters etkiye sahipken aldrin sıçanlarda akut zehirlenme, chronaxie azalır. Yakından ilişkili sıçanların kronik maruziyet
+epoksit, dieldrin, çalışma egzersiz yapmadan onların kas etkinliğini azaltmak için ileri sürülmüştür. Dieldrin klorlu bir hidrokarbon insektisit yaygın bitki korumasında kullanılan ve
+korunması. Zehirlenme kaynaklanan çeşitli belirtiler arasında bilinç kaybı ile konvülsiyonlar epileptiform için şiddeti artan kas seğirmesi vardır. Striknin,
+etkinlik spinal odağına sahip olan nedeniyle sinir üzerine inhibitör etkisinin kaldırılması olduğu düşünülmektedir farelerde tonik arka uzuv uzantısı neden olur
+yolu ekstensör kasları ile. Leptazol, diğer taraftan, serebral yapıların ağırlıklı bir uyarıcı etkisi ile benzer bir tonik uzantısını oluşturur. Diphenylhydantoin seçici leptazol faaliyet baskın yeri ve arka bacaklarda sinir arasındaki yolun üzerinde bir antikonvülsan aktivite gösteren eşik sarsıcı leptazol dozunu ama o striknin hidroklorür yükselmiş.

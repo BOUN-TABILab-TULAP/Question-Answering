@@ -1,0 +1,282 @@
+Question: Bitkilerin büyüme bölgelerinde bulunan ve sürekli bölünebilme (canlı oldukları sürece mitozla bölünebilme) yeteneğine sahip hücrelerden oluşan bitkisel doku nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kök Hücre  (EBA)</DOCTITLE>
+<TEXT>
+
+Canlıların döllenmiş yumurtadan yetişkin bir birey hâline gelişine kadar geçen tüm hücre değişiklikleri DNA üzerinde şifrelenmiştir. Embriyonik dönemde hücreler özelleşerek farklılaşır ve dokuları oluşturur. Özelleşmiş olan bu hücreler görevlerine yeni dokularında devam eder. DNA üzerindeki genetik şifre her hücrede başlangıç aşamasında aynıdır ve hayat boyu korunur. Farklılaşma sürecinde ise bu şifrelerden bazıları aktif olur. Bu aktiflik sayesinde bazı hücreler vücudu savunmak için, bazı hücreler duymayı sağlamak için, bazı hücreler ise böbreklerde kanı süzmek için farklılaşır. 
+İnsan vücudunda da kök hücreler, bütün dokuları ve organları oluşturan ana hücrelerdir. Embriyonun erken dönemlerinde elde edilen kök hücreler embriyonik kök hücre olarak adlandırılır. Henüz farklılaşmamış olan bu hücreler sınırsız bölünebilme ve kendini yenileme, dokulara ve organlara dönüşebilme yeteneğine sahiptir (Resim 112). 
+Buna karşın yetişkin kök hücreleri, gelişimin ilerleyen aşamalarında oluşan doku ve organlarımızın içerisinde, bütünüyle farklılaşmadan kalan, doğum sonrası ve ilerleyen dönemlerde varlığını sürdüren kök hücrelerdir. 
+Günümüzde çözümü olmayan pek çok hastalığın tedavisinde kök hücrelerden yararlanılabiliyor. Örneğin akut ve kronik lösemiler, lipozomal depo hastalıkları, kalıtsal bağışıklık sistemi hastalıkları gibi bozukluklar için kök hücre tedavileri kullanılabilmektedir. 
+Kök hücre teknolojisi, bir hücrenin ölmesi ya da görevini yapamaması sonucu gelişen diyabet, parkinson, alzheimer ve bağışıklık sistemiyle ilişkili hastalıkların tedavisinde, yanmış vücut dokularının onarımında, organ nakillerinde, kimi kanser türlerinin ve kalp kaslarının yenilenmesinde ve daha birçok hastalığın tedavisinde umut ışığı olmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Meristem doku</DOCTITLE>
+<TEXT>
+
+Meristem doku (bölünür, sürekli, sürgen, değişken doku) bitkilerin büyüme bölgelerinde bulunan ve sürekli bölünebilme yeteneğine sahip hücrelerden oluşan bir bitkisel dokudur.
+Meristem dokuda hücreler arası boşluklar yoktur. Çekirdekleri büyük,sitoplazmaları fazla, kofulları küçük, çeperleri ince ve metabolizmaları hızlı olan hücrelerdir. Meristem doku hücrelerinin temel özelliği sık sık bölünerek(mitoz) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücrelerine dönüşür.
+Türleri.
+Meristem doku bulunduğu yere ve kökenine göre sınıflandırılır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yapay organ</DOCTITLE>
+<TEXT>
+
+Yapay organ işlevini yitirmiş veya yitirmekte olan ve genellikle hayati önem taşıyan organların yerine bu organların işlevlerinin bir kısmını ya da tamamını geri kazandırmak amacıyla tasarlanan mekanik malzemelerden veya doku mühendisliği yoluyla üretilen organdır. Hayati organlardan herhangi birinin yetmezliği bu organının işlevlerinin restore edilmediği durumlarda hastanın ölümüne yol açar. Organ nakli ya başka bir insandan ya da insan yapımı yapay organla sağlanır. Hayati organlar oldukça karmaşık yapıya sahiptirler ve işlevlerinin yapay malzemeler tarafından taklit edilmesi zordur. Buyüzden bütün yapay organlar işlevsellik bakkımından çeşitli ödünler verilerek tasarlanırlar. Diğer organların da (hayati olmayan), duyu organları vs., onarımı ya da yapay organ vasıtasıyla nakli yapılmaktadır. Son 30 yıldır yapay organlar insan vücudunun yaklaşık 40 farklı kısmına rutin olarak nakil edilmektedir.
+= Hayati Yapay Organlar =
+Yapay organ nakli yapılan veya yakın zamanda yapılabilir olması umulan hayati organlar böbrek, kalp, ak ve kara çiğerler, ve pankreas'tır. Bu yapay organlar genel olarak doğal organların işlevlerinin bir kısmını karşılayabilmektedirler. Fakat kök hücre araştırmaları ve doku mühendisliğindeki gelişmeler ile birlikte malzeme bilimindeki gelişmeler yapay organların geleceği hakkında umut vermektedir.
+Yapay Böbrek.
+"Böbreğin" işlevlerini yerine getirmek üzere tasarlanan diyaliz makinası ilk yapay organ olarak gösterilebilinir. Diyaliz makinası 1940'lı yıllarda Kolff tarafından icat edilmiştir. Böbrekler kan basıncını, hacmini ve asitliğini, çeşitli kimyasal maddelerin derişimlerini kontrol ederek, filtre görevi üstlenerek ve ayrıca çeşitli hormonlar üreterek vücüttun dengesini sağlarlar. Yetmezlik sorunu çeken böbreğe diyaliz yaşam kurtaran fakat ideal olmaktan uzak bir çözümdür. Dializ makinesi üre ve diğer istenmeyen besinleri ve tuzları kandan arıtarak böbreğin işlevlerinin bir kısmını üstlenebilmekte birlikte doğal bir böbreğin kullanılmayan besinleri tekrar kandolaşımına katma işlevini yerine getiremez. Ortalama bir hasta diyaliz tedavisine haftada üç kez her seferinde 5-6 saat olmak üzere girer.
+Yapay böbreğe bir diğer örnekte "yapay bio-böbrek"'tir. Yapay bio-böbrek hastanın kendi hücrelerini yapay bir yapıda kullanarak diyaliz makinalarının yerine getiremediği hormon ve bağışıklık faktörleri salgılamak gibi doğal böbrek işlevlerini sağlamayı amaçlamaktadır. FDA ("Amerikan Gıda ve İlaç Dairesi") kurumu nisan 2012'de yaptığı duyuruyla üç yapay bio-böbrek uygulaması şeçmiş ve bunları test etmeye başlamıştır.
+Yapay Kalp.
+"Kalbin" en önemli işlevi kanın vücuda pompalanmasını sağlamaktır. İlk tümüyle nakil edilebilir yapay kalp 2001 yılında bir hastaya nakil edilmiştir. Abiomed tarafından üretilen bu yapay kalp 1 kg ağırlığındaydı ve AbioCor olarak adlandırılmıştı. AbioCor titanyum ve polimer den yapılma vücut içine yerleştirilen bir iç bateri ve hastanın omuzlarına giydirilen bir dış bateriden oluşan bir kan pompasıydı. İlk yapay kalbi taşıyan hasta ameliyattan 4 ay sonra genel sağlık durumunun kötüye gitmesi sonucu ölmüştür. Bir önceki kuşak yapay kalpler (Jarvik-7) poliüretan ünitesinden ve iki pompa ve 4 yapay kalp kapakcığından oluşmaktaydı. Jarvik-7 sadece 4-5 yıl kulanılmak üzere tasarlanmıştı. Kilinik deneyleri 1980'lerde yapılmış fakat uzun dönem kullanım testlerini geçememiştir. Bunun yerine organ nakli bekleyen hastaları kısa süre hayatta tutmak için kullanılmıştır. Yapay kalp dışında kronik kalp rahatsızlıklarıyla savaşmak için kalp pompaları, kalp pili, yapay kalp kapakcığı ve yapay kan damarları gibi yapay organlardan da yararlanılmaktadır.
+Yapay Akciğer.
+"Akciğerler" karbondioksiti oksijenle değiştirirler. Akciğer 40 farklı çeşit yapay şekilde taklit edilmesi çok zor olan hücre içerir. Bu herbir hücrenin işlevleri henüz tam olarak anlaşılamamıştır. Bu sebeplerden dolayı henüz sadece yardımcı solunum ve gaz değişim aletleri geliştirilebilinmiştir. Bu aletler genellikle ameliyatlarda kullanılır. Yakın zamanda nakil edilebilir akçiğerin kısıtlı işlevlerini kısa süreliğine yerine getirebilen bir kateter geliştirilmiştir. Bu alet "Vena Kava"'ya yerleştirilip kronic akciğer hastalarına uygulanmaktadır.
+Yapay Karaciğer.
+"Karaciğer" binlerce değişik işlevi olan hücrelerden oluşan büyük ve karmaşık bir organdır. Karaciğer yağ, karbonhidrat, kan pıhtılaşma faktörlerininin oranlarını, protein metabolizmasını ve birçok diğer işlemi yerine getirir. Günümüz imkanlarıyla bu işlevlerin tümüyle yapay bir şekilde taklit edilmesi imkansız görülmektedir. Buyüzden en yapılabilir yol 
+doku yapay malzeme karışımı bir yapay karaciğer olarak gözükmektedir. 
+Yapay Pankreas.
+"Pankreas" insulin salgılanmasında rol oynayarak kandaki glikoz seviyesini kontrol eder. 1969 yılında Minnesota Universitesinde nakil edilebilir insulin pompası geliştirilmiştir. Bu pompa 300 gr ağırlığındaydı. Yakın zamanda yapay pankreas Roman Hovorka tarafından Londra şehir universitesinde geliştirilmiştir. Bu alet insulini deri altından kana ulaştırarak kan şekeri oranının sabit kalmasını sağlar.
+Diğer bir yapay pankreas üretim yaklaşımıda yapay-bio pankreastır. Bu metod uyarıldığında endokrin hormonu salgılayabilen hücre adacıklarından oluşan dokuların doku mühendisliği tekniğiyle üretilip nakil edilebilir hale getirilmesini amaçlamaktadır.
+= Diğer Yapay Organlar =
+Diğer geliştirilmiş ya da geliştirilmekte olan yapay organlar genel olarak yapay deri, yapay kulak, yapay göz, yapay burun, yapay gırtlak olarak sıralanabilir.
+= Ayrıca bakınız =
+= Dış bağlantılar =
+= Kaynakça =
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kallus kültürü</DOCTITLE>
+<TEXT>
+
+Kallus kültürü, bitkiden alınacak bir parçadan uygun bir gıda ortamında steril şartlarda kallus dokusunun oluşturulmasıdır. Bazı dokuları kültüre almak güç olmasına rağmen kök ve gövde iletim dokularının yakınındaki dokular kallus kültür tekniğine iyi sonuçlar vermektedir. Kallus kültürünün uzun süre devam ettirilmesi sonucunda kromozon sayısında azalma ya da artmalar meydana gelmektedir. Kallus kültürüne bitkilerin bölünebilme özelliğini taşıyan hücrelerden başlanabilir.
+Kullanım nedenleri.
+Kallus kültürü bitkilerin sürekli bir biçimde çoğatılması amacıyla kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bisinoz</DOCTITLE>
+<TEXT>
+
+Bisinoz, genellikle pamuk tozlarını soluyan işçilerde görülen meslek hastalığıdır.
+Pamuk tozlarının yanı sıra keten ya da kenevir gibi öbür doğal liflerin tozlarının da yol açabildiği bisinozda, akciğerlerde küçük toz parçacıklarına karşı oluşan doku tepkisi koyu müküs birikmesine, bu da hava geçişinin azalmasına yol açar.
+Daralma; ciğerlerdeki hava keseciklerinin bozunmaları sonucunda soluk darlığına yol açabilir. Hırıltılı ve kesik kesik soluk alma, sersemlik başağrıları ve akciğer dokularında renk değişmesi (kahverengi) teşhisin konulmasını sağlar. Hastalık genellikle, tozlu ortamda çalışmanın bırakılmasıyla geçer. Tozlu koşullarda çalışmanın sürmesi, süregen bronşit, anfizem, vb. hastalıkların ortaya çıkmasına yol açabilir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fener, Fatih</DOCTITLE>
+<TEXT>
+
+Fener İstanbul'un Haliç kıyısındaki tarihi semtlerinden biridir. Bir yanında Cibali, diğer yanında Balat'ın bulunduğu semtin en önemli özelliği, Ortodoks mezhebinin merkezi konumundaki İstanbul Patrikhanesi'nin 1601 yılından bu yana burada Ayios Yeoryios (Aya Yorgi) Kilisesi'ne yerleşmiş olmasıdır. Ayrıca Bulgar (Stefan Sveti) Kilisesi, Dimitri Kantemir veya Vlah Sarayı, Kanlı Meryem Kilisesi veya Panayia Muhliotissa Kilisesi, Tur-i Sina (İoannes Prodromos Kilisesi), Kırmızı Mektep (Fener Rum Lisesi) ve II. Mehmed (Fatih) döneminde yapıldığı sanılan Fenerkapısı Mescidi semtin önemli yapılarıdır. Bizans döneminde burada, Haliç kıyısında bulunan bir fener semtin Fanarion adıyla anılmasına neden olmuştur. O dönemde Haliç surlarından semte girmek için kullanılan kapıya Porta Fari (Fener Kapısı) denilmekteydi. Bu kapı bugün mevcut değildir. Fener'de Osmanlı döneminde Rumlar ve varlıklı Museviler oturuyordu. Osmanlı yönetimi başka ülkelerle ilişkilerinde Fenerli Rumlardan tercüman olarak yararlanıyordu. Fenerli Rumlar Osmanlı Hariciye Vekaleti'nde yüksek mevkilere tırmanmışlardı. 18. ve 19. yüzyıllarda Fener sahillerinde varlıklı Rum ailelerin yalıları bulunuyordu. 20 yüzyılın başında semt tamamen gayrimüslimlerin oturduğu bir görünümdeydi. I. Dünya Savaşı sonunda İstanbul'da galip devletlerce kurulan işgal yönetiminin 1923'te kalkmasıyla birçok Rum aile Yunanistan'a göç etti. Semt 6-7 Eylül 1955 olaylarına kadar yarı yarıya Müslüman ve Hristiyan ailelerden oluşan bir nüfus yapısına sahipti. Müslüman aileler genellikle Karadeniz kökenliydiler. Kıbrıs sorunu nedeniyle 6-7 Eylül olaylarında semtteki Rum ev ve işyerleri tahrip edilince Rum nüfus İstanbul'un başka semtlerine taşınmak ya da Yunanistan'a göç etmek zorunda kaldı. Bugün Fener’de Rum ve diğer gayrimüslim nüfus yok dencek kadar azdır. Semtte 19. yüzyılda çıkan yangınlardan sonra ızgara planlı bir sokak yapısında, kagir evlerden oluşan bir doku oluşmuştur. Bugün harap haldeki bu yapıların küçük bir bölümü Avrupa Birliği fonlarıyla onarılmaktadır. 1930'lu yıllardan sonra semtin Haliç kıyısı fabrikalarla dolmuş, ancak bu yapılar 1984-1989 arasında İstanbul Büyükşehir Belediye başkanlığını yapan Bedreddin Dalan tarafından yıktırılarak bugünkü sahil yolu açılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vejetatif Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Ana bitkinin olgun parçacıklarının mitoz sayesinde büyüyerek yeni bitkiler oluşturmasına vejetatif üreme denir (Resim 1.32). 
+Bitkilerde bazı dokular sürekli bölünebilme yeteneğine sahiptir. Meristem denilen dokuya ait bu hücreler aynı zamanda vejetatif üremeyi de sağlar. 
+Bitkinin olgun kısmından alınan bir parça uygun ortama dikilecek olursa, bu parçadan kök ve yapraklar çıkarak yeni bitki oluşur. 
+İnsanlar süs bitkilerini ve kültür bitkilerini bu yöntem ile çoğaltırlar. 
+Vejetatif üretim yöntemleri arasında çelikle üretim, aşılama ve klonlama gibi teknikler yer alır. 
+Çelikle üretimde, çelik adı verilen bitki parçasının gelişmesiyle yeni bitki oluşur (Resim 1.33). 
+Çelik, bazen bitkiden alınmış olan küçük bir sürgün, bazen bir yaprak bazen de yumru gövde olabilir (Resim 1.34). 
+Kavak ve söğüt gibi ağaç türleri, çelikten rahatlıkla çoğaltılabilmektedir. Kırmızı elma 150 yıldır çelikle üretimle elde edilen bir çeşittir. Çekirdeksiz üzüm ve muz da aynı yöntemle eşeysiz üretilir. 
+Soğanlı bitkilerde ise ekilen soğan her yıl yeni sürgünler vererek bitki türünün devamını sağlar. 
+Aşılama bir bitkiden alınan dal ya da tomurcuğun yakın türdeki başka bir bitkinin gövdesine nakledilmesiyle gerçekleşir. 
+Aşılanan parça büyüyerek aşının alındığı bitkinin özelliklerini sürdürmeye devam eder. 
+Doku kültürü yöntemleri ile bitkiler klonlanabilir ve aynı genetik yapıya sahip çok sayıda bitki elde edilebilir. 
+Günümüzde bu yöntemle ağaçlar ve çalıların yanı sıra orkidelerin çoğaltılması sağlanmaktadır (Resim 1.35). 
+Bitkilerin eşeysiz üretilme teknikleri tarım alanında günden güne daha etkili rol oynamaktadır. Çekirdeksiz meyve üretimi besin ihtiyacının karşılanmasında oldukça önemlidir. Aşılamayla daha iyi ürün veren bitkilerin ya da daha dayanıklı olan ve tercih edilen özellikleri taşıyan bitki soylarının devamlılığı sağlanabilmektedir. Bir eşeysiz üreme şekli olan aşılama yoluyla, istenilen özelliğe sahip elma, armut, kiraz, vişne, üzüm gibi meyve ağaçlarından aynı özelliklere sahip çok sayıda bitki üretmek olasıdır. Çünkü bu olayın temeli, mitozla çoğalmaya dayanmaktadır.
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz Ve Eşeysiz Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Yeni doğmuş bir bebek nasıl olur da yirmi yılda yetişkin bir insan haline gelecek kadar büyüyebilir? Küçücük bir yavru fil, nasıl olurda tonlarca ağırlığa ulaşabilir? Küçük bir tohum nasıl olur da kocaman bir ağaca dönüşebilir? 
+Hasar görmüş olan bir doku, kendisini nasıl yeniler? 
+Bütün canlılar hücre ya da hücrelerden meydana gelmiştir. Her hücre, daha önceki bir hücrenin bölünmesiyle oluşur. 
+Çok hücreli canlılarda çoğalan hücreler farklılaşarak dokuları; dokular organları; organlar sistemleri ve sistemler de organizmayı meydana getirir. 
+Bir hücreli canlılarda hücrenin bölünmesi, organizmanın çoğalmasını sağlar. 
+Çok hücreli canlıların kendilerine benzer bireyler meydana getirebilmeleri için genellikle büyüme ve olgunlaşma aşamalarını geçirmeleri gerekir. Bölünen hücreler çoğaldıkça organizma büyümekte; gelişim süreci içerisinde hücreler farklılaşmakta ve organizma olgunlaşmaktadır (Resim 1.1). 
+Prokaryotik hücreler basitçe ikiye bölünerek çoğalırken (Resim 1.2), ökaryotik hücreler mitoz adı verilen hücre bölünmesi ile çoğalırlar. 
+Bir hücrenin mitoz bölünme yapabilmesi için yeterince büyümesi gereklidir. Bu büyüme hücrenin özelliğine, tipine ve işlevine göre değişebilir. 
+Genel olarak hücre bölünmesi için gerekli şartlar aynıdır. 
+Bölünme gerçekleşmeden önce hücredeki sitoplazma miktarı artar; hücrenin hacmi ve yüzey alanı büyür. 
+Bu aşamadan sonra çekirdekten bölünme emri verilir ve hücre bölünür. 
+Cisimlerin yüzey alanının, boyutun karesiyle (r2) hacmin, boyutun küpüyle (r3) arttıgı düsünülürse; hücre büyüdükçe yüzey alanının hacime oranı azalacaktır (r2/r3). Böylece hücre yüzey alanı, hücre hacmi için yetersiz kalmaya baslayacak ve hücre zarından yapılacak olan madde alısverisi hücre için yeterli olmayacaktır. Onun için hücrenin bölünmesi gerekecektir. 
+Bölünme yeteneğine sahip olan hücreler, organizmanın yaşamı boyunca büyüme ve bölünme aşamalarını sürekli tekrarlarlar. Böyle bir vücut hücresi önce büyür, sonra bölünür, sonra tekrar büyür ve bölünür. Örneğin kemik iliği hücreleri bölünüp sürekli olarak kan hücresi üretmektedir. 
+Hücre Döngüsü 
+Bir ökaryotik ana hücrenin ikiye bölününceye kadar gerçekleşen ve birbirini izleyen olayların tümü, hücre döngüsünü oluşturur. 
+Hücre döngüsü, interfaz, mitoz ve sitokinez evrelerinden oluşur (Resim 1.3). 
+İnterfaz evresinde hücre büyür, bölünme sürecinde gerekli olan proteinler sentezlenir ve kromozomlar kopyalanır. 
+Hücrenin bölünmesi, interfaza göre daha kısa süren mitoz evresinde gerçekleşir. 
+Hücre döngüsünün, belirli bazı kontrol noktaları ve kontrol sistemi vardır. Bu sistem, hücrede döngüsel olarak işlev gören siklinler ve siklin bağımlı kinazlar (Cdk) gibi molekül gruplarından oluşmuş olup hem hücre döngüsündeki kritik olayları harekete geçirmekte hem de döngüdeki olayları eşgüdümlü hale getirmektedir. 
+Hücre döngüsündeki bir kontrol noktası, dur ya da devam et sinyallerinin döngüyü düzenleyebileceği bir noktadır. Hücre döngüsü iç ve dış sinyallere göre kontrol noktalarında denetlenmektedir. Ancak G1, S, G2 ve M aşamalarından geçen bir hücre bölünmeyi tamamlayabilir (Resim 1.4). 
+İnsan vücudunda yer alan hücrelerin bölünme özelliği farklılık göstermektedir. Örneğin sinir hücreleri, kas hücreleri ve alyuvarlar gibi özelleşmiş bazı hücreler, bölünme yeteneğini kaybetmiştir. 
+Derimizdeki epitel hücreleri, kemik iliğindeki hücreler, karaciğer hücreleri ve sindirim kanalını döşeyen epitel hücreleri ise bölünme yeteneklerini korurlar. 
+Hücre bölünmesi, kontrol altındadır. Çeşitli nedenlerle bu kontrol ortadan kalkarsa hücreler kontrolsüz olarak bölünüp çoğalmaya başlar, tümör oluşumu ve kanser hastalığı ortaya çıkar (Resim 1.5). 
+Mitoz sonucunda bir ana hücreden, bu hücreyle aynı özellikleri taşıyan iki yavru hücre meydana gelir. Bu bölünme sonunda hücrenin kromozom sayısı aynı kalır ve mutasyon 
+olmadığı sürece hücrelerdeki genetik materyalin farklı olması söz konusu olmaz. 
+Mitoz, ökaryotik canlılarda büyüme, yenileme ve onarım olaylarında işlev görür. 
+Bakterilerde görülen ikiye bölünme olayı, bir mitoz bölünme değildir; çünkü bu olay gerçekleşirken iğ ipliklerinin oluşumu gözlenmez (Resim 1.6). İğ ipliği oluşumu mitoz bölünmenin en önemli olayıdır. 
+Hücreler, ikiye bölünme ile sayılarını geometrik dizi şeklinde artırırlar (Resim 1.7) 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kök hücre</DOCTITLE>
+<TEXT>
+
+Kök hücre, mitoz bölünmeyle özelleşmiş hücre tiplerine farklılaşabilen ve daha fazla kök hücre üretmek için kendini yenileme yeteneğine sahip olan, bütün çok hücreli canlıların doku ve organlarını oluşturan ana hücre tüpleridir. 
+Memelilerde kök hücrelerin iki yaygın tipi bulunur; blastokist evresinin iç tabakasından elde edilebilen embriyonik kök hücreler ve çeşitli dokularda bulunan yetişkin kök hücreleri. 
+Yetişkinlerdeki kök ve öncül (progenitör) hücreler vücudun onarımında görev alıp, erişkin dokuları yenileyebilme yetisine sahiplerdir. Gelişen bir embriyoda, kök hücreler özelleşmiş hücrelerin tümüne --ektoderm, mezoderm, endoderm-- farklılaşabilirler (bkz. "pluripotent hücreler" denir) ve ayrıca kan, deri, sindirim organları gibi organların da yenilenmesini sürekli kılarlar.
+İnsanlarda erişilebilir olan otolog erişkin kök hücre kaynakları şu şekildedir;
+Kök hücreler ayrıca doğumdan hemen sonra umbilikal kord kanından da elde edilebilir. Bütün kök hücre tiplerinde kendinden (otolog) elde en az riski taşır ve bankalarda saklanılarak sonrası için kullanılabilirler. Ancak son çalışmalar kanser tedavilerinde otolog kök hücre kullanımının riskli olabilceğini de göstermektedir. 
+Günümüzde yüksek oranda değişkenlik gösterebilen kök hücreler, kemik iliği nakilleri gibi tıbbi tedavilerde yaygın olarak kullanılmaktadır. Bunun için hücre kültür ortamlarında yapay olarak yetiştirilmeleri ve bu ortamlarda kullanılacak hücre tipine göre (kas, sinir vb.) farklılaştırılmaları gerekmektedir. Embriyonik hücre hatları ve otolog embriyonik kök hücreler ise; terapötik klonlamayla oluşturulmakta ve gelecekteki tedavi yöntemleri için umut oluşturmaktadır. Kök hücreler hakkındaki araştırma ve bulgular 1960'larda Toronto Üniversitesindeki Ernest A. McCulloch ve James E. Till tarafından sağlanmıştır. 
+Özellikleri.
+Bir hücrenin kök hücre olabilmesi için şu iki özelliği bulundurması gerekir:
+Kendini-yenileme.
+Bir kök hücre populasyonun var olmasını sağlayan 2 mekanizma vardır: 
+Yetkinlik tanımlaması.
+"Yetkinlik" kök hücrenin diğer hücrelere (farklı hücre tiplerine) farklılaşma potansiyelini belirtir.
+Tanımlama.
+Bir kök hücrenin pratikteki tanımı, işlevselliğidir; bir ömür boyu dokuları yenileme yeteneğine sahip hücreyi tanımlar. Örneğin, kemik iliği ya da hematopoetik kök hücreyi (HKH) tanımlayan bir deney, hücrenin naklini ve HKH'ler olmaksızın canlının korumasını belirleme yetisindedir. Bu durumda, bir kök hücre, yetkinliğini gösterir şekilde, yeni kan hücrelerini ve uzun vadede bağışıklık hücrelerini üretebilme yeteneğindedir. 
+Ayrıca, nakil olan bir canlıdan, kök hücrelerin tekrar saflaştırılması mümkündür. Kök hücrelerin kendilerini-yenileme yeteneğini, HKH'ler olmaksızın yapılan nakiller göstermektedir.
+Kök hücrelerin özellikleri, her bir hücrenin kendisini yenileme ve farklılaşma yeteneğine göre değerlendirildiği klonojenik test gibi "in vivo" yöntemlerle gösterilebilir 
+Kök hücreler ayrıca, bulundurdukları özgül hücre yüzey belirteçlerine göre de saflaştırılabilirler. Ancak, "in vivo" hücre kültür ortamları, hücrenin aynı tutumu sergileyip sergilemeyeceğini belirsiz hale getiren şekilde hücrenin davranışını değiştirebilmektedir. Bu durumda, önerilen ergin hücre populasyonlarının gerçekten kök hücreler olup olmadığı konusunda önemli tartışmalar bulunmaktadır.
+Embriyonik.
+Embriyonik kök hücre (EKH) hatları, embriyonun blaskokist ya da morulanın daha erken evrelerinde en iç hücre kümesinden köken alan epiblastlardan elde edilen kültürlerdir. 
+Blastokist, 50-150 hücreden meydana gelen ve insan embriyosunun yaklaşık 4-5 günlük ilk evrelerindendir. EKH'ler, pluripotenttir ve üç ilkel tabakanın (ektoderm, mezoderm ve endoderm) tümüne de farklılaşabilir. Başka bir deyişle pluripotent hücreler; özgül bir hücre tipi için verilen yeterli ve gereken uyarı verildiğinde, 200'den fazla insan hücresinin tümünü oluşturabilir. 
+Pluripotent hücreler, embriyo-dışı membranlar ya da plasentanın oluşumuna katılmazlar. Endoderm, bütün akciğerleri ve sindirim biyotasını oluştururken, ektoderm sinir sistemi ve deriyi; mezoderm ise, kaslar, kemik, kan yani endoderm ve ektoderm arasındaki herşeyi birleştiren kısmı oluşturan katmanlardır.
+Günümüze kadar olan neredeyse bütün araştırmalar, fare (mEKH) ve insan (iEKH) embriyonik kök hücrelerinden yapılmıştır. Bu hücrelerin her ikisi de, farklılaşmamış bir evrede kalmak için çok farklı çevrelere ihtiyaç duysalar da, gerekli kök hücre özelliklerini taşırlar.
+Fare kök hücreleri (mEKH) iskelet görevi için hücrelerarası madde (matriks) gibi görev gören jelatine ve lösemi baskılayıcı faktör (LIF) gibi ajanlara ihtiyaç duymaktadır. İnsan embriyonik kök hücreleri ise; fare embriyonik fibroblastlarından elde edilen besleyici bir tabakaya ve temel hücre büyüme faktörüne (bFGF ya da FGF-2) ihtiyaç duymaktadırlar. 
+Genetik uygulama ya da en uygun kültür şartları olmaksızın; embriyonik kök hücreler hızlıca farklılaşmaktadırlar. 
+Bir insan embriyonik kök hücresi, ayrıca bazı transkripsyon faktörleri ve hücre yüzey proteinleri olarak da tanımlanabilir. 
+Transkripsiyon faktörlerinden Oct-4, Nanog, ve Sox2, pluripotensinin devamını ve farklılaşmayı sağlayan genlerin baskılanmasını sağlayan, çekirdek düzenleyici ağdan meydana gelmektedir. 
+Çoğunlukla insan embriyonik kök hücrelerini tanımlamak için kullanılan hücre yüzeyi antijenleri, glikolipidlerdir (evreye özgü embriyonik antijen 3 ve 4 ve keratan sülfat antijenleri Tra-1-60 ve Tra-1-81'dir.
+Kök hücrelerin moleküler tanımlaması, bazı proteinleri ve devam eden araştırmaların bir konusuna karşılık gelmektedir denebilr. 
+Günümüzde embriyonik kök hücrelerin kullanılarak yapıldığı onaylanmış herhangi bir tedavi bulunmamaktadır. 
+İlk insan denemesi Haziran 2009'da ABD Gıda ve İlaç Yönetimi tarafından uygulamaya kondu. Ancak, bu insan deneyi, Atlanta'da 13 Ekim 2010 tarihindeki omurilik hasarlı kurbanlara kadar kabul edilmemiştir. 14 Kasım 2011'de deneyi uygulayan şirket, kök hücre tedavi uygulamalarına devam etmeyeceğini açıklamıştır. 
+Pluripotent olan embriyonik kök hücreler, doğru farklılaşma için özgül sinyallere ihtiyaç duymaktaırlar; eğer bir vücuttan diğerine doğrudan verilirlerse, bu kök hücreler teratomaya da yol açabilen birçok farklı hücreye farklılaşabilirler. 
+Teorikte nakil reddini engellemede kullanılması mümkün olan ve uygun hücrelere farklılaşma yeteneğindeki EKH'ler, araştırmacıların hala yüzleşmekte olduğu bazı engelleri de bulundururlar. 
+Günümüzde bazı uluslar, EKH'lerin araştırma ya da yeni EKH üretme konuları üzerine moratoryumları bulunmaktadır.
+Embriyonik kök hücreler, sınırsız genişleme ve pluripotensi yeteneklerinin birleşimlerinden dolayı, teorik olarak yenileyici tıp ve hastalık sonrası doku onarımı için olası kaynaklardır. 
+Henüz farklılaşmamış olan bu hücreler sınırsız bölünebilme ve kendini yenileme, organ ve dokulara dönüşebilme yeteneğine sahiptir. Bu özellikleri bakımından kök hücreler kanser, sinir sistemi hastalıkları (Alzheimer) ve hasarları, metabolik hastalıklar (diyabet), organ yetmezlikleri, romatizmal hastalıklar, kalp hastalıkları, kemik hastalıkları ve daha birçok alanda kullanıma sahiptirler. 
+Günümüzde bu hastalıkların bazılarının tedavisinde organ veya doku nakilleri yapılmaktadır. Ancak, organ veya doku nakli gerektiren hastaların çokluğu, uygun organ ve dokunun her zaman bulunamaması gibi sorunlarla sürekli karşılaşılmaktadır. Bilim ve teknolojideki son gelişmeler doğrultusunda Kök hücrelerin bu alanda kullanılması gündeme gelmiştir. 
+Fetal.
+Fetüslerin organlarında bulunan birincil kök hücreler fetal kök hücreler olarak adlandırılır.
+Yetişkin.
+Yetişkin kök hücresi, somatik (vücut) kök hücreleri ve üreme hattı (germ) kök hücreleri olarak da bilinen, yetişkinler kadar çocuklarda da bulunan hücrelerdir. Pluripotent yetişkin kök hücreler seyrek ve umbilical kord kanı gibi dokuların bazılarında çok küçük miktarda bulunurlar. Kemik iliği, omurilik yaralanmaları , karaciğer sirozu , knik uzuv iskemisi , son aşamadaki kalp yetmezliği gibi hastalıkların tedavilerde kullanılan yetişkin kök hücrelerin bulunduğu zengin kaynaklardan biridir . Kemik iliği kök hücrelerinin miktarı, yaşlanmayla azalır, ayrıca aynı yaş grubundaki üreyebilir dişilerde erkeklere kıyasla daha azdır . Günümüze kadar olan yetişkin kök hücre araştırmalarının büyük kısmı, hücrelerin bölünme veya süresiz olarak kendini yenileme ve farklılaşma eğilimlerininin sınırlarını belirlemek üzerine olmuştur.
+Farede, pluripotent kök hücreler doğrudan yetişkin fibroblast kültürlerinden elde edilebilirler. Ne yazık ki, birçok fare, kök hücreden yapılan organlarla fazla uzun yaşayamamıştır.
+Çoğu yetişkin kök hücresi,soy-kısıtlı yani multipotentdir ve genellikle kendi doku kökenlerine aittir (örn. mezenşimal kök hücre, adipoz-kökenli kök hücre, endoteliyal kök hücre, diş özü kök hücresi, vb. gibi). Yetişkin kök hücre tedavileri, uzun zamandır lösemi ve ilişkili olan kan/kemik iliği kanserlerinde kemik iliği nakli uygulamasıyla başarıyla kullanılmaktadır. Yetişkin kök hücreler ayrıca yaralanmış atlarda tendon ve ligamentlerin tedavisinde de kullanılmaktadır.
+Erişkin kök hücrelerin araştırmalarda ve tedavilerdeki kullanımları, embriyonik kök hücrelerde olduğu gibi tartışmalı değildir, çünkü yetişkin kök hücrelerin eldesi için bir embriyonun yokedilmesi gerekmez. 
+Ayrıca, uygun alıcıdan (otograftdan) erişkin kök hücrelerin elde edildiği koşullarda, doku reddi riski neredeyse yoktur. 
+Bu nedenle, erişkin kök hücre araştırmaları için daha fazla ödeneğin ayrılması gerekiyor gibi görünmektedir.
+Yetişkin mezenşimal kök hücreler için son derece zengin başka bir kaynak da, alt (mandibular) üçüncü azı dişinin özüdür. Bu kök hücreler, sonunda diş minesi, dentin, peridontal bağ, kan damarları, diş özü, sinir dokuları ve en az 29 farklı organı oluştururlar. 8-10 yaşlarında, kemikleşmeden ve hastalanmadan önce elde var olan bu büyük koleksiyon sayesinde belki de kişiye özgü işlemler, araştırmalar ve şimdiki ve gelecek tedaviler şekillendirilecektir. 
+Bu kök hücrelerin ayrıca hepatositleri de üretme yeteneğinde oldukları bulunmuştur.
+Yağ dokusu kök hücrenin en bol bulunduğu ve en kolay elde edildiği kaynaktır. Time dergisi 2011 yılında yağ dokusundan kök hücre elde edilmesini yılın en önemli 50 icadından birisi olarak seçmiştir. Özellikle estetik cerrahide yağ dokusu kökenli kök hücre çok kullanılsa da giderek diğer alanlara yayılma potansiyeline sahiptir. 
+</ref>
+Amniyotik.
+Multipotent kök hücreler ayrıca amniyon sıvısında da bulunur. Bu kök hücreler oldukça etkindirler ve besleyici olmaksızın oldukça genişleyebilirler ve ayrıca tümorojenik değildirler. 
+Amniyotik kök hücreler multipotenttirler ve adipojenik, osteojenik, miyojenik, endoteliyal, hepatik ve yarıca nöronal hatlardaki hücrelere farklılaşabilirler.
+Dünya çapında bütün üniversite ve araştırma merkezleri, amniyotik sıvıyı amniyotik kök hücrelerinin bütün niteliklerini öğrenmek üzere araştırmaktadırlar. Ve Anthony Atala gibi araştırmacılar bu konuda oldukça iyi veriler elde etmiştir and Giuseppe Simoni
+. Amniyotik sıvıdan elde edilen kök hücrelerin kullanımıyla, insan embriyosundan elde edilen kök hücrelerdeki gibi sorunların üstesinden gelinecek gibi görünmektedir. 
+Roma Katolik Kilisesi, embriyonik kök hücrelerin deneylerde kullanımını yasaklarken, Vatikan gazetesi amniyotik kök hücreler için geleceğin tıbbı olarak başlık vermiştir . 
+Donörlerden ya da kendi kullanmak isteyenlerden amniyotik kök hücreleri biriktirmek mümkündür; bu nedenle dünya genelinde kurulan ve ortaklaşa çalışan amniyotik kök hücre bankaları bulunmaktadır 
+Uyarılmış pluripotent.
+Bu hücreler erişkin kök hücreleri ya da normal yetişkin hücreleri (eptirel vb. gibi) değildir, yeniden programlanmış ve pluripotent yetisi kazandırılmışlardır. Protein transripsiyon faktörleri ile genetik programlama kullanılarak, insan derisinden köken alan pluripotent kök hücreler embriyonik kök hücrelere eşdeğer şekilde tanımlanırlar. 
+Kyoto Üniversitesi'ndeki Shinya Yamanaka ve arkadaşları 
+transkripsiyon faktörleri Oct3/4, Sox2, c-Myc, ve Klf4'ü kullanarak insan yüzünden aldıkları hücrelerde deneylerini gerçekleştirmişlerdir. Wisconsin–Madison Üniversitesinden Junying Yu, James Thomson ve arkadaşları farklı bir grup (Oct4, Sox2, Nanog ve Lin28) transkripsiyon faktörü kullanarak 
+insan sünnet derisinden aldıkları hücrelerle çalışmalarını yapmışlardır. Bu başarılı deneylerin sonucu olarak, ilk klon koyun Dolly'nin kopyalanmasına yardımcı olan Ian Wilmut, somatik hücre çekirdeği transferininden vazgeçeceğini açıklamıştır 
+Bu uyarılmış pluripotent kök hücrelerin eldesi için, yeni bir yolla donmuş olan kan örneklerinin kaynak olarak kullanılması mümkündür .
+Hücre hattı.
+Kendini-yenilemeyi sağlamak için kök hücreler iki farklı hücre bölünmesine gider. (Bkz: Hücre bölünmesi ve farklılaşması çizimi)
+Simetrik bölünme, her ikisi de kök hücre özelliklerini taşıyan iki özdeş evlat hücreye bölünmeyi sağlarken, asimetrik bölünme; sadece bir kök hücre ve kendini-yenileme yeteneği kısıtlı olan bir öncül hücrenin oluşumunu sağlar. Bu öncül hücreler, farklışamış olgun hücreye dönüşmeden önce birkaç bölünme döngüsüne girebilir. Simetrik ve asimetrik hücre bölünmesi arasında moleküler ayrımın yapılması; kardeş hücrelerin bile farklılaşmış hücre yüzey proteinlerini (örn. reseptörler) taşımasından dolayı mümkündür . Başka bir farklı görüş de, kök hücrenin kendi çevresel özgül nişlerinde farklılaşmadan kaldığıdır. Kök hücreler kendi nişlerinden ayrıldıklarında ya da burdan aldıkları sinyalleri kaybettiklerinde farklılaşırlar. "Drosophila" sineğinde yapılan çalışmalar, "dekapentaplejik sinyalleri"n ve germaryum kök hücrelerini farklılaşmaktan koruyan yapışma noktalarının ("adherens junctions") varlığını göstermiştir.
+Yeniden programlanmış hücrelerin embriyonik-kök hücre gibi davranması için sinyaller de günümüzde ayrıca bulunmuştur. Bu sinyal yolakları, c-Myc gibi onkogenler de bulunduruan bazı transkripsiyon faktörlerini kapsamaktadır. İlk çalışmalar, fare hücrelerinin bu anti-farklılaşma sinyalleri kombinasyonlarıyla farklılaşmayı geri döndürebildiklerini ve yetişkin hücrelerin tekrar pluripotent hale getirilebileceklerini göstermektedir Ancak, bu hücrelerin geri dönüştürmesinde yer alan süreçte onkogenlerin de bulunması, bu tarz çalışmaların tedavideki kullanımlarını engelleyecek gibi gözükmektedir. 
+Hücresel farklılaşmanın ve bu hattın bütünlüğünün doğasındaki uç çekicilik, kombine edilmiş transkripsiyon faktörlerinin diğer somatik hücrelerin de kaderlerini etkileyecebileğini düşündürttü ve yakınlarda bazı araştırmacılar nöral-hatt-özgü olan üç transkripsiyon faktörünün, fare fibroblastları (deri hücreleri) doğrudan işlevsel nöronlara dönüştürebileceğini gösterdi.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,50 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bitkiler	bitki	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+Bitkiler	bitki	+Noun+A3pl+Pnon+Nom
+
+büyüdükçe	büyü+Verb+Pos^DB+Adverb+AsLongAs
+
+kök	kök+Noun+A3sg+Pnon+Nom
+kök	kök+Adj
+
+siteminde	sitem	+Noun+A3sg+P2sg+Loc
+siteminde	sitem	+Noun+A3sg+P3sg+Loc
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+gibi	gibi	+Postp+PCGen
+gibi	gibi	+Postp+PCNom
+
+değişiklikler	değişik+Adj^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+değişiklikler	değişik+Adj^DB+Noun+Ness+A3pl+Pnon+Nom
+
+olur	ol	+Verb+Pos+Aor+A3sg
+olur	ol	+Verb+Pos^DB+Adj+AorPart
+olur	olur	+Noun+A3sg+Pnon+Nom
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

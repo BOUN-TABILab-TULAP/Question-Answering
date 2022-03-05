@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İpek ipek+Adj ipek+Noun+A3sg+Pnon+Nom İpek+Noun+Prop+A3sg+Pnon+Nom
+böcekçiliğinin böcekçi+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Gen böcekçi+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Gen
+sanayi sanayi+Noun+A3sg+Pnon+Nom
+açısından açı+Noun+A3sg+P3sg+Abl
+önemi önem+Noun+A3sg+Pnon+Acc önem+Noun+A3sg+P3sg+Nom
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

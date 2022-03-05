@@ -1,0 +1,9 @@
+1	Buhar	buhar	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	makinasının	makina	Noun	Noun	A3sg|P3sg|Gen	7	SUBJECT	_	_
+3	ekonomik	ekonomik	Adj	Adj	_	4	MODIFIER	_	_
+4	faaliyetlere	faaliyet	Noun	Noun	A3pl|Pnon|Dat	7	OBJECT	_	_
+5	nasıl	nasıl	Adv	Adv	_	7	MODIFIER	_	_
+6	etkisi	etki	Noun	Noun	A3sg|P3sg|Nom	7	OBJECT	_	_
+7	olmuştur	ol	Verb	Verb	Pos|Narr|A3sg|Cop	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

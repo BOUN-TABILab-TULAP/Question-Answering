@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Canlıları can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3pl+Nom can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3sg+Nom can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Acc can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P3pl+Nom Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3pl+Nom Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Acc Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3sg+Nom Can+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P3pl+Nom canlı+Noun+A3pl+Pnon+Acc canlı+Noun+A3pl+P3sg+Nom canlı+Noun+A3sg+P3pl+Nom canlı+Noun+A3pl+P3pl+Nom Canlı+Noun+Prop+A3pl+P3sg+Nom Canlılar+Noun+Prop+A3sg+P3sg+Nom
+sınıflandırmanın sınıf+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen sınıf+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+amacı ama+Adj^DB+Noun+Agt+A3sg+Pnon+Nom amaç+Noun+A3sg+P3sg+Nom amaç+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,260 @@
+Question: Canlılarda eşeyi belirleyen genlere ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşey kromozomları</DOCTITLE>
+<TEXT>
+
+İnsanların somatik hücrelerinde 46 kromozom bulunur. Dişideki 23 çift kromozom, mayoz bölünmede 22A+X şeklinde belirir. Yani her bir yumurta 22 otozom ve bir X kromozomuna yani gonozoma sahiptir. Erkekte ise, 46 kromozom mayoz sırasında 22 çifti birbirlerine benzer kromozomlar ve bir çifti de birbirine eş olmayan büyük bir X kromozomu ile daha küçük bir Y kromozomu şeklinde belirir. Yani meydana gelen spermatozoonlar 22A+X ve 22A+Y genomlarına sahiptir. 
+İşte bu X ve Y kromozomları eşeyi tayin eden, eşey hücrelerinde bulunan kromozomlardır ve bunlara eşey kromozomları ya da gonozomlar denir. 
+Genetikte 1912 yılında Tomas Morgan tarafından yeni bir dönem başlatılmıştır. Morgan, sirke sineği olan "Drosophila melanogaster"'in genetik çalışmalar için çok avantajlı olduğunu belirtmiştir. Küçük olduklarından binlercesini laboratuvarda tutmak mümkündür. Bu sinekler kısa sürede erginliğe ulaştıkları için pek çok dölü birbiri arkası takip edilebilir. Haploid sette 4, diploid sette 8 kromozomlarının bulunuşu da diğer avantajlarından biridir. Bu nedenle 46 kromozomlu insan ve diğer pek çok canlıya tercih edilmektedir. Morgan'ın Drosophila deneylerinde ilk çözmeye başladığı konu eşey tayin mekanizmasının nasıl gerçekleştiğiydi. Döllenmiş yumurtanın erkek ve dişi zigot olarak gelişmesi üzerine de araştırmalar yaptı. Mikroskobik çalışmalar erkek ve dişi hayvanların kromozom setlerinde küçük bir farklılığın olduğunu göstermiş ve X ve Y kromozomları öğrenilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karbonhidratlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Sporcuların ağır egzersiz öncesi karbonhidrat yönüyle zengin besin tüketmeleri gerekir. Yine, birçok bitki tohumunda nişasta depolanır. Bu durumu nasıl açıklarsınız? 
+Karbonhidratlar bitkisel besinlerde yoğun olarak bulunur. Örneğin ekmek, makarna ve patates gibi besinler karbonhidrat yönüyle zengindir (Resim 40). 
+Karbonhidratların görevleri şunlardır: Hücrelerin birinci derecede enerji kaynağı olan moleküllerdir. Hücre zarının yapısında yağ ve proteinlere bağlı olarak işlev yaparlar. 
+Karbonhidratlar; karbon (C), hidrojen (H), oksijen (O) elementlerinden yapılmış olup, kapalı formül olarak (CH2O)n ile ifade edilen moleküllerdir (Resim 41). Karbonhidratlar yapısal olarak monosakkarit adı verilen birimlerden (ünite, monomer) meydana gelir. Monomerler de yapısındaki karbon sayısına ve C, H, O elementlerinin yapıdaki dizilişlerine göre sınıflandırılır. 
+Karbonhidratlar; monosakkaritler (tek şekerler), disakkaritler (çift şekerler) ve polisakkaritler (çok şekerler) olmak üzere üç grupta incelenir. 
+a. Monosakkaritler (Tek Şekerler) 
+Sindirimle (hidrolizle) daha küçük birimlere parçalanamayan karbonhidratların en basit tipleri, basit şekerler ya da monosakkaritlerdir. Bunların, karbon sayıları üç ile sekiz arasında değişiklik gösteren örnekleri bulunur. Biyolojik yönden önemli monosakkaritler, yapılarındaki karbon sayılarına göre pentozlar ve heksozlar olmak üzere iki ana gruba ayrılır. 
+Pentozlar, yapılarında 5 karbon (C) atomu bulunduran şekerlerdir. Doğada çok çeşitli pentoz şeker vardır. Bunlardan iki tanesi riboz ve deoksiribozdur. Deoksiribozun, riboz şekerinden farkı, yapısında bir oksijen atomunun eksik olmasıdır. Riboz ve deoksiriboz, çekirdek asitlerinin (DNA, RNA) yapısına katıldıklarından çok önemlidir. 
+Heksoz şekerlerinin yapıları 6 karbon (C) atomundan yapılmıştır. Bunlar, glikoz, fruktoz ve galaktoz şeklinde isimlendirilir (Resim 42). Bu moleküller suda çözünür, tatlıdır ve hücre zarından kolaylıkla geçebilir. 
+Glikoz, doğal olarak üzüm ve şekerli meyvelerde bulunmakla beraber çoğunlukla polisakkaritlerin sindirilmesiyle elde edilir (Resim 43). Glikoz, memelilerin kanlarında bulunması zorunlu olan moleküldür. Örneğin insanlarda hayatın devamı için 100 mL kanda yaklaşık 70 -110 mg glikoz bulunmalıdır. 
+b. Disakkaritler (İki Şekerliler) 
+İki basit şeker molekülü (monosakkarit) birleşirse oluşan daha büyük moleküle çift şeker ya da disakkarit adı verilir; kapalı formülleri C12 H22 O11 ile gösterilir. İki monosakkaritten disakkarit meydana gelirken aralarında bir kovelent bağ olan glikozit bağı oluşur. Olay sırasında bir molekül su açığa çıkar. Bu şekilde küçük moleküllerin birleşmesi sonucu suyun çıkması olayına dehidrasyon denir. 
+Disakkaritlerin su ile tepkimeye girerek yapı birimlerine ayrılmasına ise hidroliz adı verilir. Hidroliz sırasında iki molekül arasında bulunan glikozit bağı yıkılır. Görüldüğü gibi hidroliz olayı dehidrasyonun tersidir (Resim 44). Disakkaritler, hidroliz olmadan hücre zarlarından geçemez ve kana karışamaz. 
+Canlılarda en çok bulunan disakkaritler maltoz, sakkaroz ve laktoz şekerleridir. Bunlardan maltoz ve sakkaroz bitki hücrelerinde, laktoz ise hayvan hücrelerinde sentezlenir (Resim 45). 
+Maltoz, iki glikoz molekülünün birleşmesinden oluşan disakkarit olup özellikle arpada bol olarak bulunur. 
+Disakkaritler de basit şekerler gibi tatlıdır ve suda çözünebilir. Hayvanlar disakkaritleri besinlerle beraber aldıktan sonra disakkaritler sindirim sisteminde monosakkaritlere ayrılır ve vücut için kullanılabilir hâle gelir. 
+c. Polisakkaritler 
+İkiden fazla basit şeker molekülünün bir araya gelip, birleşerek meydana getirdikleri yeni kompleks moleküle polisakkarit adı verilir. Polisakkaritlerin görevleri ve üretildiği canlı grupları farklılık gösterir. Canlılarda enerji kaynağı ve hücresel yapıya katılma gibi işlevleri bulunur. 
+Biyologlar açısından önem taşıyan polisakkaritler nişasta, glikojen, selüloz ve kitindir. 
+Nişasta, çok sayıda glikoz molekülünün bir araya gelmesiyle oluşur ve bitki hücrelerinde depo edilir (Resim 46). Bu işlem, bitkilerin fotosentez sonucu ürettikleri glikozun bir kısmını kullandıktan sonra geriye kalanını plastidlerde nişastaya dönüştürerek depolamaları şeklinde gerçekleşir. Hayvanlar, yedikleri bu bitkisel besinlerle vücutlarına nişastayı alır. Daha sonra sindirim sisteminde hidroliz olayı ile glikoz birimlerine ayrılarak kana geçmiş olur. Nişasta molekülünün ayracı lugol çözeltisidir (iyot içerir). Nişasta ve iyot bir araya geldiğinde mavi-mor renk oluşur (Etkinlik -13). 
+Glikojen de nişasta gibi büyük bir moleküldür. Nişastadan farkı, hayvan hücrelerinin özellikle kas ve karaciğer hücrelerinde, bakteri ve mantar hücrelerinde depo edilmesidir. İnsanlarda karaciğerdeki glikojen gerektiğinde glikoza dönüştürülerek kana verilir ve vücudun ihtiyacı olan enerji elde edilir. Kandaki şeker miktarını ayarlayan hormanlardan biri insülindir. Kandaki yüksek insülin değerlerine rağmen pankreasta üretilen insülinin etkisini az göstermesi sonucunda kan şekeri yüksekliğinin gelişmesi insülin direnci olarak bilinir. Son dönemlerdeki bilimsel çalışmalarda, insülin direnci ve diyabet başta olmak üzere; kalp hastalıkları kanser gibi birçok hastalığın dengesiz ve düzensiz beslenme sonucu ortaya çıkan obezite ile ilişkili olduğu gösterilmiştir. Eğer insan birkaç gün yemek yemezse insanın glikojen depoları tükenir. 
+Bitki hücrelerinde hücre duvarını oluşturan başlıca madde olan selüloz da çok sayıda glikoz molekülünden oluşmaktadır. Selüloz suda çözünmez. Bazı plastiklerin, sentetik ipeğin, fotoğraf filmlerinin, bazı cilaların ve patlayıcıların yapımında ticari amaçlı olarak da kullanılır. Nişasta, glikojen ve selülozun temel yapı birimi glikozdur. Aralarındaki fark glikoz molekülünün sayısından ve bağlanma düzenindeki değişimlerden kaynaklanmaktadır. Bununla birlikte glikojen ve selüloz suda çözünmezken, nişasta çok az çözünür (Resim 47). 
+İnsanlarda olduğu gibi bazı omurgalı hayvanların da sindirim sistemlerinde selülozu sindirecek enzim üretilmez. Otla beslenen hayvanların sindirim organlarında bazı bakterilerle selülozun sindirimi gerçekleşir. 
+Meyve ve sebze gibi bütün bitkisel besin çeşitleri selüloz yönüyle zengindir. Selüloz en çok arpa, buğday ve yulaf gibi taneli tahılların kabuğunda bulunur. Buna kepek adı verilir. Özellikle sağlığımız için kepekli ekmek tüketimini tercih etmeliyiz. 
+Kitin, eklem bacaklıların (böcek, örümcek gibi) dış iskeletinin yapısında bulunan bir maddedir. Böceklerin dış iskeleti kitinden oluşmaktadır (resim 48). Kitin saf hâldeyken yumuşaktır. Yapısına kalsiyum karbonat tuzunun katılmasıyla sertleşir. Mantarların da hücre duvarının yapısında selüloz yerine kitin bulunur. Kitinin selülozdan farkı yapısında azot bulundurmasıdır. Kitin, sağlam ve esnek bir maddedir ve bu nedenle ameliyat ipliklerinin yapımında kullanılır. Bu iplikler ameliyat yarası iyileştikten sonra kendiliğinden ayrışır. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Proteazom</DOCTITLE>
+<TEXT>
+
+Proteazom, büyük protein yapılardan oluşan moleküllerdir. Bu yapılar, ökaryot canlılarda, arkealarda ve çoğu bakteri türünde yer almaktadır. Ökaryot yapılı canlılarda bu yapılar çekirdekte ve sitoplazmada bulunur. Proteazomların genel görevi, hasar görmüş veya işe yaramayan proteinleri, proteoliz adı verilen ve peptit bağlarını kırarak çalışan bir enzim aracılığıyla vücuttan atmaktır. Proteazomlar, hücrelerin bağlanamamış proteinleri atmasını ve özelleşmiş proteinlerin derişiminin kontrol edilmesini sağlayan büyük bir sistemin parçalarıdır. Bu yapılar, proteinlerde yedi veya sekiz aminoasite kadar ürün verir. Bu sayede aminoasitlere ayrışır ve yeni proteinlerin sentezlenmesinde kullanılır. Ayrıştırma tepkimeleri ubikitin ligaz adı verilen bir enzim aracılığıyla sürer. Öncelikle bir protein molekülü, bir ubikitine bağlanır. Bu, diğer ligazların ubikitine bağlanması için uyarı verir. Bu yapıya "poliubikitin zinciri" adı verilir. Proteazomlar da bu yapıyla bağlanarak, bağlanmış olan proteinin ayrışmasını veya aminoasitlerin koparılmasını sağlar.
+Yapı olarak proteazomlar varil biçimli, karmaşık yapılı ve çekirdeği bulunan bir yapıdır. Merkez gözenek etrafında dört katman çembersi yapı mevcuttur. Her bir halka yedi farklı özelleşmiş proteine uyum sağlamak üzere bulunmaktadır. İçteki iki halka, her biri altı proteaz enzimi içeren yedi adet "β ünitesi" barındırır. Bu yapılar ve enzimler, halkaların iç yüzeyinde yer alır. Bu bağlamda söz konusu protein, parçalanmak için ana gözeneğe gelmelidir. Yine dıştaki iki halka, "α ünitesi" barındırır. Bu halkaların görevi, proteazomun varilimsi yapısının girişinden girecek olan proteinlerin girişini sağlamak ve iç protein halkalarını onarmaktır. Yine α üniteleri, kapaksı yapılara veya proteine bağlanan poliubikitinleri tanıyan düzenleyici moleküllere bağlanarak kontrol edilir. Tüm bu sisteme "ubikitin-proteazom sistemi" adı verilir. 
+Proteazomal parçalamalar, birçok hücresel olayın ana yoludur. Hücre döngüsü, gen aktarımı ve oksidatif gerilime yanıt gibi temel işlevlerde proteazomal tepkimelerin etkisi gözlemlenir. Bu tepkimelerin önemini kavrayan ve açıklayan Aaron Ciechanover, Avram Hershko ve Irwin Rose adlı kimyagerler, 2004 yılında Nobel Kimya Ödülü kazanmıştır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üreme</DOCTITLE>
+<TEXT>
+
+Üreme, çoğalma olarak da bilinir, bir canlının neslini devam ettirmesi olayı. Büyüme ve gelişmesini tamamlayan her canlı çoğalma yeteğine sahip olur. Çoğalma yeteneğine sahip canlılar kendilerine benzer bireyler oluştururlar ve bu sayede nesillerini devam ettirmiş olurlar.
+Biyolojinin temel ilkelerinden biri "tüm canlılar kendinden önce bulunan canlılardan meydana gelir" sözüdür. Gerçekten de yaşamın temel yapısı bireylerin çoğalmasıyla gelecek döllerin oluşturulması ve genetik bilginin aktarılmasından geçer. Üremenin birimi ve taşıyıcısı hücre, türlere özgünlüğün aktarılmasını sağlayan ise kalıtım materyalidir. özellikle arılarda partenogenez diye adlandırılan üreme biçimi iki tip arı tarafından gerçekleştirilir. Kraliçe arı (2n) ve erkek arı (n) bölünmeye uğrayarak yumurta ve spermlerini birleştirir. Bunlardan birkaç yumurta erkek arıyı, birkaç yumurta kraliçe arıyı (bunlar arı sütü ile beslenir.), diğerler yumurtalar ise işçi arıları (kısır_bunlarda arı ekmeği ile beslenir.) meydana getirir. 
+Eskiden, insanlar canlı varlıkların cansız maddelerden oluştuğuna inanırlardı, örneğin, sineklerin çamurdan ya da etten, kurbağaların çamurdan oluştuğu gibi. 
+Mikroskobun bulunuşu ve mikroorganizmaların saptanması sonucu bunların kökeni ile ilgili görüşlerden biri; "abiyogenez" ("kendiliğinden oluş", Spontan Generasyon); diğeri ise "biyogenez" ("kendinden önceki bir canlıdan oluş") dur. Sonraları bir fizikçi olan Francesco Redi'nin ünlü kavanoz çalışması, açık kaptaki ette sinek kurtçuklarının oluşumu ve eti steril ettikten sonra kapalı ortamda ette hiçbir canlının kendiliğinden oluşmadığının gözlemlenmesiyle, burada gerçekleşenin abiyogenez olmadığı ortaya çıktı.
+Bir hücreli canlılarda çoğalma, vejetatif bölünmeyle birleşmiş ve bu sebeble normal vejetatif bölünme aynı zamanda yeni döller meydana getirilmesini de sağlamaktadır. Çok hücrelilerde ise; çoğalma, germinatif hücreler denen özelleşmiş dokuya indirgenmiştir. Somatik /vejetatif hücreler canlıda yapının oluşmasını, gelişmesini sağlayan ve bireyle birlikte ölen hücrelerdir.
+Canlılarda eşeyli ve eşeysiz çoğalma olmak üzere "iki" çeşit çoğalma vardır.
+Eşeysiz üreme.
+Bir canlıdan ayrılan hücre veya hücre grubundan yeni bireylerin oluşturulmasına "eşeysiz üreme" denir. Eşeysiz üremede döllenme olayı olmadığından eşeysiz üreyen canlı oluştuğu canlıya kalıtsal olarak tıpa tıp benzer. Çünkü eşeysiz üreme mitoz bölünme ile gerçekleşir. Ancak mitoz bölünmede olabilecek bir ayrılmama ve mutasyon çeşitlilik sebebidir.
+Eşeysiz üremeye canlıların büyüme bölgelerinden ayrılan hücre veya hücre grupları neden olduğu için aynı zamanda "vejatatif üreme" de denmektedir.
+Tek hücrelilerde bölünerek çoğalma.
+Tek hücreliler bölünerek ürerler. Hücre hacim olarak belirli bir büyüklüğe ulaştıktan sonra bölünerek yeni hücreler oluşturur. Bu yeni hücreler genotip bakımından ana hücrenin aynısıdır. Temeli mitoz bölünmeye dayanan en basit üreme şeklidir. Tek hücreliler ve bazı ökaryotlar bölünerek ürerler.
+Rejenerasyonla (yenilenme) çoğalma.
+Omurgasızlarda mezoderm ve mezoglea tabakası bulunur. Bu tabaka içerisinde embriyonik hücreler vardır. Bu tabakayı taşıyan canlılardan ayrılan bir parça eksik kısımları tamamlayabilmektedir. Örneğin; deniz yıldızından kopan bir kol ana gövdedeki hücreler tarafından tamamlandığı gibi ayrılan kolun içerisindeki hücrelerde koldan yeni bir gövde oluştururlar.
+Bu durum yassı solucanlarda da "(Planarya)" görülür.
+"Rejenerasyon" normalde bir çoğalma tipi değildir. Tahrip sonucu canlıdan ayrılan parçadan yeni birey oluşturulur.
+"Rejenerasyon", kelime anlamıyla yenileme demektir. Canlılardan herhangi bir nedenle ayrılan parçalardan yeni canlılar oluşabilir. Dolayısıyla rejenerasyon bu canlılar için üreme kabul edilir. Omurgalılardaki rejenerasyona bir yaranın iyileşmesi veya kertenkelenin kopan kuyruğunun yenilenmesi örnek olarak verilir. Çünkü kopan deriden yeni bir organizma, kopan kuyruktan da yeni bir kertenkele oluşmamaktadır.
+Tomurcuklanarak çoğalma.
+Bazı canlılarda tomurcuk benzeri çıkıntılar gelişir. Bu kısımlar ayrılarak yeni canlıyı oluşturur.
+"Örneğin; Hidra da bira mayasında ve süngerlerde eşeysiz üremenin bu karakteristik özelliği görülür."
+Vejatatif çoğalma.
+Bazı bitkilerden koparılan bir dal parçası, toprağa dikildiğinde yeni bitki oluşturabilir. Buna çeliklenme ile çoğalma denir. Ayrılan dal parçasının meristem tabakası yeniden kök oluşturduğundan bu parça ayrı bir fert olarak yaşayabilir. Özellikle tarımda verimliliği arttırmak, az zamanda daha çok ve daha kaliteli bitkiler yetiştirmek için kullanılan üretim metodudur.sonucu olarak yeni bir bitki meydana gelir.
+"Örneğin; kavak, çınar, meyve ağaçları, asma; ... gibi bitkiler çelikleme ile üretilir. Özellikle melez olan ve eşeyli üremeyen bitkiler bu şekilde üretilir. 
+Örneğin; Çekirdeksiz üzüm, Washington portakalı, satsuma mandalini gibi."
+Vejatatif üremeye: Soğanların rizomla (küçük kök) üremesi, çileklerin sürüncü gövde ile çoğalması ciğer otunun yapraklarından yeni ciğer otlarının oluşmasnı örnek olarak gösterebiliriz.
+Sporla çoğalma.
+Bazı canlılarda "spor" adı verilen üreme hücresinden yeni bireyler oluşturulur. Buna "sporogoni" veya "sporla üreme" denir.
+Mantarlarda sporla üreme karakteristiktir.
+Bunlara bir örnekte mikroskobik canlılardır.
+Eşeyli üreme.
+Farklı cins iki gametin birleşmesiyle yeni canlının meydana getirilmesine "eşeyli üreme" denir. "Gamet", eşey hücresi olarak tanımlanır. Bir gamet ya dişi eşey hücresidir ("yumurta") ya da erkek eşey hücresidir (polen veya sperm).
+Eşeyli üreyen canlılarda bir çift kromozom takımı bulunur. Bu takımın yarısı anneden yarısı babadan gelir. Bu takım kromozoma "haploid" veya monoploid (n) denir. (n) haploid kromozom takımı gamette bulunur.
+Bir çift kromozom takımına 2n "diploid" denir. Örneğin; insanda 2n=46 sayıda kromozom bulunur. Somatik hücreler (vücut hücreleri) 2n sayıda kromozom taşır.
+Eşeyli üreme sonucunda birbirinden farklı bireyler oluşur. Bu da populasyonlarda varyasyonu (çeşitliliği) arttırır.
+Çeşitliliğin açığa çıkmasını sağlayan faktörler;
+"Eşeyli üreme çeşitleri ;"
+"olayları sağlar. Mutasyonlar ve ayrılmama sık sık gerçekleşen olaylar değildir.
+Eşeyli üreme sonucunda fertlerin ortama uyum özelliği adaptasyon kabiliyetleri ile artar. Örneğin; Paramesyum hücreleri direnç artırmak amacıyla eşeyli üremektedirler."
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz Ve Eşeysiz Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Yeni doğmuş bir bebek nasıl olur da yirmi yılda yetişkin bir insan haline gelecek kadar büyüyebilir? Küçücük bir yavru fil, nasıl olurda tonlarca ağırlığa ulaşabilir? Küçük bir tohum nasıl olur da kocaman bir ağaca dönüşebilir? 
+Hasar görmüş olan bir doku, kendisini nasıl yeniler? 
+Bütün canlılar hücre ya da hücrelerden meydana gelmiştir. Her hücre, daha önceki bir hücrenin bölünmesiyle oluşur. 
+Çok hücreli canlılarda çoğalan hücreler farklılaşarak dokuları; dokular organları; organlar sistemleri ve sistemler de organizmayı meydana getirir. 
+Bir hücreli canlılarda hücrenin bölünmesi, organizmanın çoğalmasını sağlar. 
+Çok hücreli canlıların kendilerine benzer bireyler meydana getirebilmeleri için genellikle büyüme ve olgunlaşma aşamalarını geçirmeleri gerekir. Bölünen hücreler çoğaldıkça organizma büyümekte; gelişim süreci içerisinde hücreler farklılaşmakta ve organizma olgunlaşmaktadır (Resim 1.1). 
+Prokaryotik hücreler basitçe ikiye bölünerek çoğalırken (Resim 1.2), ökaryotik hücreler mitoz adı verilen hücre bölünmesi ile çoğalırlar. 
+Bir hücrenin mitoz bölünme yapabilmesi için yeterince büyümesi gereklidir. Bu büyüme hücrenin özelliğine, tipine ve işlevine göre değişebilir. 
+Genel olarak hücre bölünmesi için gerekli şartlar aynıdır. 
+Bölünme gerçekleşmeden önce hücredeki sitoplazma miktarı artar; hücrenin hacmi ve yüzey alanı büyür. 
+Bu aşamadan sonra çekirdekten bölünme emri verilir ve hücre bölünür. 
+Cisimlerin yüzey alanının, boyutun karesiyle (r2) hacmin, boyutun küpüyle (r3) arttıgı düsünülürse; hücre büyüdükçe yüzey alanının hacime oranı azalacaktır (r2/r3). Böylece hücre yüzey alanı, hücre hacmi için yetersiz kalmaya baslayacak ve hücre zarından yapılacak olan madde alısverisi hücre için yeterli olmayacaktır. Onun için hücrenin bölünmesi gerekecektir. 
+Bölünme yeteneğine sahip olan hücreler, organizmanın yaşamı boyunca büyüme ve bölünme aşamalarını sürekli tekrarlarlar. Böyle bir vücut hücresi önce büyür, sonra bölünür, sonra tekrar büyür ve bölünür. Örneğin kemik iliği hücreleri bölünüp sürekli olarak kan hücresi üretmektedir. 
+Hücre Döngüsü 
+Bir ökaryotik ana hücrenin ikiye bölününceye kadar gerçekleşen ve birbirini izleyen olayların tümü, hücre döngüsünü oluşturur. 
+Hücre döngüsü, interfaz, mitoz ve sitokinez evrelerinden oluşur (Resim 1.3). 
+İnterfaz evresinde hücre büyür, bölünme sürecinde gerekli olan proteinler sentezlenir ve kromozomlar kopyalanır. 
+Hücrenin bölünmesi, interfaza göre daha kısa süren mitoz evresinde gerçekleşir. 
+Hücre döngüsünün, belirli bazı kontrol noktaları ve kontrol sistemi vardır. Bu sistem, hücrede döngüsel olarak işlev gören siklinler ve siklin bağımlı kinazlar (Cdk) gibi molekül gruplarından oluşmuş olup hem hücre döngüsündeki kritik olayları harekete geçirmekte hem de döngüdeki olayları eşgüdümlü hale getirmektedir. 
+Hücre döngüsündeki bir kontrol noktası, dur ya da devam et sinyallerinin döngüyü düzenleyebileceği bir noktadır. Hücre döngüsü iç ve dış sinyallere göre kontrol noktalarında denetlenmektedir. Ancak G1, S, G2 ve M aşamalarından geçen bir hücre bölünmeyi tamamlayabilir (Resim 1.4). 
+İnsan vücudunda yer alan hücrelerin bölünme özelliği farklılık göstermektedir. Örneğin sinir hücreleri, kas hücreleri ve alyuvarlar gibi özelleşmiş bazı hücreler, bölünme yeteneğini kaybetmiştir. 
+Derimizdeki epitel hücreleri, kemik iliğindeki hücreler, karaciğer hücreleri ve sindirim kanalını döşeyen epitel hücreleri ise bölünme yeteneklerini korurlar. 
+Hücre bölünmesi, kontrol altındadır. Çeşitli nedenlerle bu kontrol ortadan kalkarsa hücreler kontrolsüz olarak bölünüp çoğalmaya başlar, tümör oluşumu ve kanser hastalığı ortaya çıkar (Resim 1.5). 
+Mitoz sonucunda bir ana hücreden, bu hücreyle aynı özellikleri taşıyan iki yavru hücre meydana gelir. Bu bölünme sonunda hücrenin kromozom sayısı aynı kalır ve mutasyon 
+olmadığı sürece hücrelerdeki genetik materyalin farklı olması söz konusu olmaz. 
+Mitoz, ökaryotik canlılarda büyüme, yenileme ve onarım olaylarında işlev görür. 
+Bakterilerde görülen ikiye bölünme olayı, bir mitoz bölünme değildir; çünkü bu olay gerçekleşirken iğ ipliklerinin oluşumu gözlenmez (Resim 1.6). İğ ipliği oluşumu mitoz bölünmenin en önemli olayıdır. 
+Hücreler, ikiye bölünme ile sayılarını geometrik dizi şeklinde artırırlar (Resim 1.7) 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>1.2.2 Eşeyli Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Eşeyli üreyen canlıların mayoz sonucunda gametleri oluşturması, onların eşeyli üremeye hazır olduğunu işaret eder. 
+Mayoz ile meydana getirilen hücreler farklılaşarak gametleri yani üreme hücrelerini meydana getirir. Farklı cinsiyetlere ait gametler, döllenme ile (Resim 1.48) birleşerek zigotu oluşturur ve zigot gelişerek yeni bireyi meydana getirir. Bu olaya eşeyli üreme denir. 
+Gametler, mayoz sonucunda oluştuğu için eşeyli üremenin temelinde mayoz yer alır. 
+Gametlerin meydana getirilmesi olayına gametogenez denir. Eşeyli üreme sonucunda oluşan yavrular, iki ayrı cinse ait gametlerin döllenmesi sonucunda geliştikleri için her iki ebeveynden gelen genlerin eşsiz kombinasyonlarına sahiptir. Bu yavrular, hem ebeveynlerinden hem de kardeşlerinden kalıtsal olarak farklıdır.
+Hayvanlar genellikle ayrı cinsiyetlidir. 
+Eşeyli üreme hem hayvanlarda hem de bitkilerde görülür. Eşeyli çoğalan bir hayvan türüne ait erkek bireylerin erkek üreme hücreleri oluşur. 
+Dişi bireylerin üreme organlarında ise yumurta hücreleri oluşur. 
+Yumurta ve sperm döllenme adını verdiğimiz olayda birleşerek zigot oluşur. 
+Zigot mitozla büyüyüp gelişerek yeni bir bireyi meydana getirir. 
+Bazı hayvan türleri iki cinsiyete ait üreme organlarına da sahiptir ve hem sperm hem de yumurta üretebilir. Bu olaya hermafroditlik adı verilir. Hermafroditlik, yassı solucanlarda, halkalı solucanlarda ve başka birçok hayvan grubunda görülür (Resim 1.49). 
+Aynı bireyde erkek ve dişi üreme organları varsa bu bireyler kendisini dölleyebilir mi? 
+Böyle bir durumda kalıtsal çeşililik mümkün olur mu? 
+Bireyler hermafrodit olsa da genellikle başka bireylerle döllenmeyi tercih ederler. 
+Bunun nedeni yavrular arasındaki genetik çeşitliliği artırmaktır. 
+Hayvanların büyük çoğunluğu eşeyli üremeyle çoğalır. 
+Memeli hayvanlar, kuşlar, balıklar, iki yaşamlılar, eklembacaklılar eşeyli üreyen canlı gruplarına örnek oluşturur.Çiçekli bitkiler eşeyli üreme yaparlar. Bitkilerin üreme organı çiçekleridir. 
+Çiçek yapısına baktığımızda dıştan içe dairesel dizilmiş bir yerleşim görürüz. Dıştan içe sırasıyla çanak yapraklar, taç yapraklar, erkek ve dişi organlar ya da bu organlardan sadece bir çeşidi görülür. 
+Çiçekli bitkilerde erkek ve dişi organlar aynı çiçek üzerinde bulunursa bu çiçeklere tam çiçek adı verilir (Resim 1.50). 
+Bu çiçeklerin de çok az türü kendi kendini döller. 
+Çiçekli bitkilerde erkek organlarda polen, dişi organda ise yumurta hücreleri mayoz ile üretilir. 
+Polenler dişi organa ulaştığında tozlaşma gerçekleştirilir. Tozlaşma rüzgar, su, böcekler ya da başka hayvanlar yardımıyla gerçekleştirilebilir (Resim 1.51 - 52). 
+Tozlaşma sonrasında döllenme gerçekleşir, ancak çiçekli bitkilerde çifte döllenme denilen bir olay görülür. 
+Çifte döllenmede, polendeki sperm çekirdegi mitoz geçirerek iki ayrı çekirdek haline gelir. Çekirdeklerden biri yumurtalıkta polar çekirdeklerle birlesip triploid (3n) çekirdegi olusturur. Sonrasında bu çekirdek mitoz bölünmelerle besin dokusunu olustururken diger çekirdek yumurtayla birleserek zigotu olusturur. Zigot, mitoz bölünmelerle embriyoyu meydana getirir.Çiçekli bitkilerde embriyo tohum içinde bulunur. Çimlenme başlayana kadar tohumun metabolizması çok yavaştır. Çimlenme (tohum çimlenmesi) uygun sıcaklık ve nem olduğunda oksijenli bir ortamda başlar. Embriyo gelişerek yeni bitkiyi meydana getirir. 
+Canlılarda çeşitliliği arttırabilmek için eşeyli üreme dışında da bazı mekanizmalar gelişmiştir. Konjugasyon (kavuşma) bunlardan biridir. Bakteriler ve tek hücrelilerden paramesyumda görülen bu mekanizmada, gen aktarımı ile rekombinant genlere sahip yeni birey ortaya çıkar. Ancak konjugasyonda birey sayısı artmaz. 
+Paramesyumda görülen konjugasyon olayında iki birey yan yana gelir; birbirlerine geçici olarak ağız bölgesinden bağlanırlar. Bağlantı sağlandıktan sonra iki birey çekirdek alışverişi yapar. Her birey almış olduğu çekirdeği kendi çekirdeği ile birleştirir ve böylece her hücre genetik materyalinde çeşitlilik sağlamış olur (Resim 1.53). 
+Bakteri konjugasyonunda ise iki birey arasında sitoplazmik bir köprü kurulmasıyla plazmid DNA’sı diğer bireye aktarılır (Resim 1.54). DNA’yı alan birey yeni kalıtsal özellik kazanabilir. Bakterilerde bu yolla gen aktarılmasıyla, antibiyotiklere karşı direnç kazanabildikleri bilinmektedir. 
+Mutasyonla antibiyotiğe direnç kazanmış bir bakteri, değişmiş genetik yapısından bir parçasını diğer bir bireye vererek onu dirençli hale getirebilmektedir. 
+Bakterilere, virüsler aracılığı ile de gen aktarımı söz konusu olabilir. Bu olaya transdüksiyon adı verilir. 
+Bakteriler ortamda DNA mevcutsa, bunu bünyesine alabilir. Bu olaya ise transformasyon adı verilir. 
+Böylece basit yapılı canlılar olan bakteriler, konjugasyonla, transformasyonla ve transdüksiyonla genetik yapılarında çeşitlilik sağlayabilirler. 
+Eşeyli üremede mayoz sonucunda oluşmuş iki farklı gamet birleşerek yeni bir bireyin oluşumunu gerçekleştirir. 
+Mayoz sırasında genellikle cross-over meydana gelmesi nedeniyle her gamet genetik olarak farklı özellikte olacaktır. 
+Döllenme sonucunda oluşacak yeni yavrular, hem ebeveynlerinden hem de kardeşlerinden farklı genetik yapıya sahip olacaktır. 
+Yavru bireylerin farklı gen kombinasyonuna sahip olması, eşeyli üreme ile çoğalan canlıların evrimsel uyum yeteneğini artıracaktır. 
+Eşeyli üreme hayvanlarda, bitkilerde, mantarlarda, bazı bir hücrelilere görülür. Bazı canlılar hem eşeyli hem de eşeysiz üreyebilirler. 
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekosistem</DOCTITLE>
+<TEXT>
+
+Ekosistem, belirli bir alanda bulunan canlılar ile bunları saran cansız çevrelerinin karşılıklı ilişkileri ile meydana gelen ve süreklilik arz eden ekolojik sistemlere ekosistem denir. Ekosistem aynı zamanda bir besin ağı ile şekillenmektedir. Ekosistem, küresel ölçekte bir düzeni ifade etmekle beraber yerel ve korunaklı bir sistemin varlığına da atıfta bulunabilir. Örneğin eğer söz konusu ekosistem bir tarım alanı içinde gelişiyorsa buna agroekosistem adı verilir. 
+Karşılıklı olarak madde alışverişi yapacak biçimde birbirlerine etki yapan organizmalarla (biyotik), bitki ve hayvanların birbirine eklemlendiği ve ayrıca kaya, toprak gibi fiziksel çevre faktörlerinin (abiyotik) bir arada bulunduğu herhangi bir doğa parçası bir ekosistemdir. 
+Ekosistem yaklaşımı, bireysel organizmalar ya da topluluklardan çok tüm alanın işlevlerinin nasıl olduğuyla ilgilenir. Bir alandaki organizmalar ve cansız çevreleriyle olan ilişkilerine bakar. Bir ekosistem, temel olarak abiyotik maddeler, üreticiler, tüketiciler ve ayrıştırıcılardan oluşur. Ekosistemlerde yaşam, enerji akışı ve besin döngüleriyle sürer. Açık bir sistem olan ekosistemde, enerji ve besin giriş-çıkışı süreklidir. Sistem kuramı, ekolojik bakış açısının sosyolojik boyutunu ele almaktadır. Ayrıca sibernetik disiplini, canlılarda kontrol ve iletişim boyutuyla kaynağını yine ekosistemde bulmaktadır. 
+Bir ekosistemin dört temel bileşeni vardır. Üreticiler ototroflar, tüketiciler (heterotroflar), ayrıştırıcılar (saprofitler) ve doğal çevre. İlk üç bileşen, dördüncü bileşenin oluşturduğu cansız doğa içinde varlıklarını sürdüren canlı yaşamı kapsar. Cansız doğal çevre ile bu çevre içinde yaşamlarını sürdüren canlılar arasındaki ilişkileri ve etkileşimleri inceleyen bilim dalına ekoloji adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kafa</DOCTITLE>
+<TEXT>
+
+Kafa veya baş, anatomide hayvan ve insanların en rostral (anatomik pozisyonda) bölümünde bulunan, genellikle beyin, göz, kafatası, kulak, burun ve ağızı içeren kısımdır.
+İnsan anatomisi.
+Kafanın kemikleri.
+İnsan kafası kranium ve mandibula olarak iki kısım içermektedir.
+Kranium kafatası ve kafa tabanı olarak iki kısımda incelenmektedir. Bu bölümlerdeki kemiklerin birbirine sıkı bağlantıları vardır ve bağlantı noktalarına sütür adı verilir. Bu kemiklerin bu şekilde dayanıklı ve sağlam oluşu beyini korumak amaçlıdır. Doğumda birleşmeye başlayan bu kemikler doğum sonrası hala bazı yerlerde açık, membranla kaplı bölgeler içerir ki bu bölgeler fontanel adı verilir. Gelişimde puberteye dek herhangi bir açıklık kalmayacak şekilde kapanma ve büyüme gerçekleşmektedir. Kafadaki kemikler şunlardır;
+Yüz kısmında toplam 14 kemik bulunmaktadır.
+Diğer oluşum mandibula temporomandibular eklem ile kafatası ile bağlantı kurmaktadır. Bu bildiğimiz çene kemiğidir.
+Kafanın tabanından baktığımızda görünen büyük boşluk foramen magna denen oluşumdur ve buradan medulla spinalis beyin ile bağlantı kurmaktadır. Kafatasındaki mevcut diğer küçük delikler arter, ven ve sinirleri hem korumakta hem de geçişleri için pasajlar teşkil etmektedir.
+Yüzün anatomisi.
+Beş adet boşluktan müteşekkildir. Gözler, burun ve ağız. Yüz bölgesinin beslenmesi external karotid arter den gelen kanlanma ile olur. Sinir yapısı ise trigeminal sinir ve facial sinir aracılığı iledir. Mimik kasları yüz hareketlerini sağlarken, çiğneme kasları da çiğneme fonksiyonunu sağlamaktadır.
+Diğer canlılarda anatomi.
+Basit canlılar kafa yapısı içermezler. Omurgalılarda kafatası vertebraların sonlandığı bölgede bulunmaktadır ve direk omurgaya bağlıdır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İntron</DOCTITLE>
+<TEXT>
+
+Tanım.
+Protein ve enzimler üretilirken , DNA üzerindeki genlerin harf dizilimi örnek alınarak bu genlere karşılık gelen RNA kopya dizilimleri çıkarılır. Kopyalanan bu RNA' lar (mRNA -haberci RNA) yapılıken, genin harf dizilimi baştan sonra tümüyle okunmaz. Bir kısım dizilim okunup kopyası çıkarıldıktan sonra , uzun bir bölüm okunmadan atlanıp başka bir bölüme geçilir ve ordan devam edilir. 
+DNAnın okunmadan atlanan bu bölümüne intron adı verilir. Intronlar, mRNA ve protein kodlamasına katılmazlar. 
+Genlerin kodlamaya katılmayan bu bölümü, toplam insan genomunun yaklaşık %97'lik bir kısmını oluşturur. Kodlanan kısımlara ise ekson adı verilir.
+Gelişim.
+Daha önceleri bu kısımların , DNA'nın hiçbir işe yaramayan kısımları olarak düşünülüyordu ("junk DNA") .Fakat son birkaç yılın bulgularına göre bu bölümlerin de kodlandığı anlaşıldı. Protein yapımına katılmayan intron (ve DNA'nın genler dışında kalan bölümleri) hücre ve canlı yaşamında çok büyük görev ve fonksiyonlar üstleniyor. Bu bölümler çeşitli RNA kodlar. 
+Yeni yeni bulunmaya başlayan bu RNA'lar, doğrudan protein kodlamasalar da;
+Kısaca canlının biyolojik yaşamının neredeyse tümünü, nasıl düzenleneceğini baştan sona sağlıyor.
+Sonuç.
+Bu durum bizden daha az kompleks canlılarda neden daha fazla ya da eşit sayıda genimizin bulunduğunu da açıklıyor. (insanda 20-25 bin gen, solucanda 19 bin, farede 20-25 bin) . Protein kodlamayan (intron) , protein kodlayan (ekson) dan ne kadar fazlaysa , canlı o kadar kompleksleşiyor. 
+Öyle görünüyorki , neyin nasıl olacağını genler değil, işe yaramaz (junk) kısımlar diye bilinen intronların ürettiği RNA lar belirliyor.
+Kaynak.
+Dr.Kenan Ateş - University College London / Moleküler ve hücre biyolojisi
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre bölünmesi</DOCTITLE>
+<TEXT>
+
+Hücre bölünmesi, tek hücreli canlıların çoğalması, çok hücreli canlıların büyümesi, erkek ve dişi eşey hücrelerinin meydana gelmesi için gerekli biyolojik olaydır. Bir hücrenin bölünebilmesi için belirli bir büyüklüğe ulaşması ve nükleik asitlere sahip olması gerekmektedir. Canlılar dünyasında,
+olmak üzere üç farklı tip bölünme vardır. Tek hücreli canlılarda bölünme genellikle amitoz, çok hücrelilerde ise mitoz ve mayoz ile görülür.
+Amitoz.
+Genellikle tek hücrelilerde görülen bu bölünmeyle o türe ait birey sayısı artar. Amitoz bölünme yapan hücrelerin önce çekirdeği uzar, çekirdeğin uzamasıyla çekirdekçik de uzayıp boğumlanarak ikiye ayrılır. Bunu sitoplazma bölünmesi takip ederek, bir hücreden iki yeni yavru oluşacak şekilde bölünme gerçekleşir. Amitozda çekirdek zarı kaybolmaz, kromozomlar belirmez, sentriyoller ve iğ iplikleri oluşmaz. 
+Tek hücreliler dışında bazı özel hallerde yüksek yapılı organizma hücrelerinde de amitoz görülebilir. Bu durumda çoğu kez hücreler ölüme mahkum olur, çünkü tekrar mitoz bölünme yapamazlar. Amitoz bölünme bu organizmalarda bazen açlık nedeniyle dejenere olan hücrelerde, bazı yaşlı kıkırdak hücrelerinde, ayrıca hızla çoğalan kuş embriyosunun blastoderm hücrelerinde görülebilir. Gametlerde genellikle amitoz bölünme görülmez.
+Mitoz.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar çoğu soma hücresinde (ör sinir hücrelerinde bölünme yoktur) ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir.Yavru hücrelerin 23 tanesi anneden 23 tanesi babadan gelir.Bu kromozomların 44 tanesi vücut özelliklerini diğer ikisi cinsiyeti gösterir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.Ökaryot bir hücrede çoğalma(üreme),mitoz hücre bölünmesi ile sağlanır
+Mayoz.
+Eşeyli olarak çoğalan canlılarda zigotu oluşturacak gamet hücrelerinin yapılması (gametogenez) mayoz ile gerçekleşir.Üreme ana hücrelerinde kromozom sayısının yarıya inmesi olayı "mayoz" ile gerçekleşir.Sonuçta oluşan hücrelere üreme hücresi (gamet) denir. Mayoz bölünme I. ve II. mayoz bölünme şeklinde olup, bunların her biri aslında birbirini izleyen iki bölünmeden ibarettir. I.mayoz bölünme diploid kromozomlu ana hücreden kromozom sayıları yarı yarıya, yani haploid duruma inmiş (redüksiyon) iki yavru hücre meydana gelir. Fakat I. mayoz sonunda henüz kromozomdaki kromatidler tam olarak ayrılmamıştır. II. mayozda kromozomlar tam olarak uzunlamasına bölünür ve kromatidler ayrılarak yavru hücreler gider, böylece bölünme tamamlanmış olur. Mayoz bölünmedeki "interfaz" evresi (G1,S,G2) I.mayozun başında geçer, II. mayozda tekrarlanmaz. I. mayoz; "profaz I", "metafaz I", "anafaz I", "telofaz I" evrelerinden sonra sitoplazma bölünmesi (sitokinez)gerçekleşir; II. mayoz; "profaz II", "metafaz II", "anafaz II", "telofaz II" evrelerinden oluşur.
+
+</TEXT>
+</DOC>
+

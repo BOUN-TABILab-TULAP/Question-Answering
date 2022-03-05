@@ -1,0 +1,23 @@
+1	Bir	bir	Det	Det	_	2	DETERMINER	_	_
+2	bölgede	bölge	Noun	Noun	A3sg|Pnon|Loc	21	LOCATIVE.ADJUNCT	_	_
+3	nem	nem	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	_	miktar	Noun	Noun	A3sg|P3sg|Loc	5	DERIV	_	_
+5	miktarındaki	_	Adj	Adj	Rel	9	MODIFIER	_	_
+6	geçici	geçici	Adj	Adj	_	9	MODIFIER	_	_
+7	_	denge	Noun	Noun	A3sg|Pnon|Nom	8	DERIV	_	_
+8	_	_	Adj	Adj	Without	9	DERIV	_	_
+9	dengesizliğin	_	Noun	Noun	Ness|A3sg|Pnon|Gen	15	POSSESSOR	_	_
+10	o	o	Det	Det	_	11	DETERMINER	_	_
+11	_	bölge	Noun	Noun	A3sg|Pnon|Loc	12	DERIV	_	_
+12	bölgedeki	_	Adj	Adj	Rel	15	MODIFIER	_	_
+13	su	su	Noun	Noun	A3sg|Pnon|Nom	15	CLASSIFIER	_	_
+14	_	kıt	Noun	Noun	A3sg|Pnon|Nom	15	DERIV	_	_
+15	kıtlığı	_	Noun	Noun	Ness|A3sg|P3sg|Nom	16	OBJECT	_	_
+16	ile	ile	Postp	Postp	PCNom	21	MODIFIER	_	_
+17	ilişkisine	ilişki	Noun	Noun	A3sg|P3sg|Dat	21	DATIVE.ADJUNCT	_	_
+18	ne	ne	Adj	Adj	_	19	MODIFIER	_	_
+19	ad	ad	Noun	Noun	A3sg|Pnon|Nom	21	SUBJECT	_	_
+20	_	ver	Verb	Verb	_	21	DERIV	_	_
+21	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	22	SENTENCE	_	_
+22	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,290 @@
+Question: Giberellin hormonunun bitkilerin büyümesine etkileri nelerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Giberellin</DOCTITLE>
+<TEXT>
+
+İkinci grup bitki hormonudur. 1950’li yıllarda karakterize edilen giberellinler 80’den fazla bileşin bulunduğu bir gruptur. Giberellinlerin esas etkisi, bitkilerin boyuna büyümesini sağlamaktır. Böylece uzun bir bitki gövdesi aktif giberellinleri, cüce bir bitki gövdesinden daha fazla ihtiva eder. Giberellinlerin sentezi ve kontrolü genetik kontrol altındadır.
+Giberellinler izopren birimlerinden yapılmıştır. Giberellinler 4 izoprenoid biriminden türevlenen 20 karbonlu terpenoidlerir. GA -aldehit bütün bitkilerde ilk oluşan giberellinlerdir ve bütün giberellinlerin öncü maddesidir. GA ’nin hidroksilasyon ve oksidasyonu sonucunda diğer giberellinler oluşur. 
+İlk olarak giberellinler "Gibberella fujikuroi" ’ de bir metabolit olarak keşfedilmiştir. Bu mantarın pirinç fidelerinde aşırı gövde ve yaprak uzamasına sebep olduğu belirlenmiştir. 1930’larda Japon bilim insanları "Gibberella fujikuroi" fungusundan büyümeyi uyaran bir bileşiği kristal olarak elde etmeyi başardılar ve giberellin A olarak adlandırdılar. 
+1950’lerde Amerika ve İngiltere’de mantarlardan saflaştırılan maddeye giberillik asit adı verildi. 1958’de Mac Millan ve arkadaşları yüksek bitkilerde giberellin keşfettiler. Olgun olmayan tohumlardaki giberellin konsantrasyonu vejetatif dokulardakinden çok fazla olduğundan bu çalışmada tohumlar kullanıldı.
+Oksin giberellin biyosentezini teşvik eder.
+her ne kadar hormonların etkileri tek tek etkili oluyormuş gibi tartışılsa da bitkilerde büyüme ve gelişme pek çok sinyalin birlikteliğinin bir sonucudur. Ayrıca hormonlar bir diğerinin biyosentezini etkileyebilir. Dolayısıyla bir hormonun oluşturduğu etkilere diğeri aracılık edebilir.
+Oksinlerin etilen biyosentezini teşvik ettiği uzun zamandan beri bilinmektedir.Günümüzde giberellinin oksin biyosentezini , oksinin de giberellin biyosentezini teşvik ettiği iyi bilinmektedir.
+Giberellinlerin tayini ve biyoassayler.
+Giberellinlerin saflaştırılmasında kâğıt veya ince tabaka kromatografisi, son zamanlarda yüksek performanslı sıvı kromatografisi (HPLC) kullanılmaktadır. İmmunoassay, giberellin kullanımı için sınırlıdır.
+Biyoassayler.
+Giberellinler için çok sayıda bioassay mevcuttur fakat üç tanesinin genel kullanım amacı fazladır. Bu bioassayler, inhibitör bileşiklere çok duyarlıdır. Bu nedenle bitki ekstratından bir dereceye kadar saflaştırılmaları oldukça önemlidir.
+Marul hipokotil uzama bioassayı.
+Marul fidelerinin parlak bir ışık altında filtre kağıdı üzerinde çimlendirilmesi ile çok kısa hipokotil (5mm) elde edilir. Bu hipokotiller filtre kağıdı üzerinde giberellinlerle muamele edilirse 30mm kadar uzaya bilirler. Bu metodun dezavantajları fidelerin tam olarak saflaştırılmamış ekstratlardaki inhibitörlere çok duyarlı olmalarıdır. Fideler inhibitörler tarafından öldürülebilir.
+Cüce pirinç / mikrodamla bioassayi.
+Cüce pirinç fideleri ışıkta, küçük agar kutularında çimlendirilerek elde edilir ve test edilecek çözeltiden damlalar her bir fidenin ikinci çıkan yaprağının ucu üzerine konulur. Bu işlemden sonra yaprak kınının uzaması ölçülür.
+Çimlenen hububat tanelerinde alfa-amilaz üretimi.
+Hububat tanelerindeki giberellin mevcudiyeti, nişastayı parçalayan enzim olan alfa-amilazın üretimini uyarır. Sulandırılmış hububat taneleri yarısından enine kesilir ve embriyosuz yarım, giberellin ihtiva eden çözelti ile inkübe edilir. Üretilen alfa-amilazın yıktığı şekerler kolorimetrik olarak belirlenir.
+Giberellinlerin fizyolojik etkileri.
+Giberellinler, birçok otsu çok yıllık bitkilerin ve tanesiz hububatların uzayan gövdelerindeki genişleme ve hücre bölünmesi olaylarının başlatılmasında, meyve büyümesi ve tohum çimlenmesinin uyarılmasında, tohum dormansisinin kırılmasında, çiçeklenme için uygun şartların oluşumunda ve ilkbaharda ılıman bölge odunsu bitkilerinde dormansi kırılmasında görev alırlar.
+Cüce bitkilerin gövde uzaması.
+GA tek gen cüce mutantların (cüce mısır) ve rozet şeklindeki (lahana, marul) bitkilerin gövde uzamasını uyarırlar. Bu etkiye paralel olarak gövde kalınlığında azalma, yaprak boyutunda küçülme ve yapraklarda açık yeşil renge doğru azalmalar meydana gelir. Diğer taraftan gövde uzamasını sağlayan GA miktarıyla gövde uzaması arasında her zaman doğru bir orantı yoktur. 
+Uzun gün bitkilerinde gövde uzaması.
+Bazı bitkiler rozet formunda kalır, uzun günlerde ise gövde büyür, uzar ve sadece bu peryotta çiçek açar kısa gün koşullarında bırakılan bitkilere giberellin uygulanması, gövdenin uzamasını sağlar. Bu sonuçlar tabii olarak gövde uzamasının giberellinler tarafından uyarıldığını gösterir. 
+Meyve oluşumu ve büyüme.
+Giberellinlerin dıştan uygulanması, oksinlerin etkisiz olduğu bazı durumlarda meyve oluşumunu uyarırlar. Büyüme uyarılmasının en güzel örneği üzümlerdedir. GA, partenokarpiye neden olur. Bu işlem bitki çiçeğine GA çözeltisi püskürtülerek sağlanır. Partenokarpi, döllenme olmadan meyve oluşumudur. Meydana gelen meyve normal görünüşlü fakat meyve tohumsuzdur. Oksinler de partenokarp meyve oluşumunu uyarır fakat GA’lar daha aktiftir.
+Çiçeklenmenin uyarılması.
+GA, bitkilerin büyük bir kısmında çiçeklenmeyi uyarır. Bu işi yapan tek kimyasal olarak giberellik asitler bilinir. Çiçeklenme için gerekli GA miktarı türlere göre değişmekle birlikte ortalama 3-100 mg arasında değişir. Hormon uygulanması bir kez değil belli aralıklarla tekrarlanmalıdır. 
+Vernalizasyonla ilişkisi.
+Dıştan uygulanan GA iki yıllık bitkilerde vernalizasyonun (bitkinin soğuk şoku etkisiyle çiçeklenmenin uyarılması olayı) yerini tutar. GA uygulanması, soğuğa maruz kalmadan çiçeklenmeyi sağlar.
+Tohum çimlenmesinin uyarılması.
+Bazı tohumlar özellikle yabani bitkilerin tohumları çimlenmek için ışık ya da soğuğa ihtiyaç duyar. Böyle tohumlarda, ışık ya da soğuk muamelesi olmaksızın giberellin uygulaması dormansi kırılabilir. Daimi olmamakla beraber tohumların üşümesine cevap olarak giberellin seviyesinde sık sık değişiklik olur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkisel hormonlar</DOCTITLE>
+<TEXT>
+
+Bitkisel hormonlar (ya da fotohormonlar), bitkilerin büyümesini ve gelişmesini sağlayan hormonlardır.
+Sınıflandırılması.
+Çok sayıda bitkisel hormon vardır. Bunlar benzer özellikleri ve etkileri dikkate alınarak beş ana grupta incelenir.
+Absisik asit.
+Absisik asit (ABA), uyku halinin devamlılığını sağlayarak tohumların çimlenmesini engeller. Böylece toprağa düşen tohumların uygun zamanda çimlenmesini düzenler. Kurak ortamlarda çimlenmeyi önler. Aşırı kurak ortamlarda kalan bitkinin gözeneklerini kapayarak yapraklardan su kaybını engeller. Böylece bitkinin kurak ortama uyumunu arttırır.
+Oksin.
+Oksinler, bitkinin boyca uzamasında, yönelim olaylarında, yaprakların dökülmesinde ve meyvelerin olgunlaşmasında etkilidir. Tepe tomurcağunda üretilir.
+Sitokinin.
+Sitokininler, tohumların gelişimi sırasında oksinle birlikte çalışarak kök ve gövde oluşumunu düzenler. Ayrıca kloroplast oluşmasını sağlayarak yaprakların sararmasını ve yaşlanmayı önler.
+Giberellin.
+Giberellinler (GA), yaprak ve gövdelerde büyümeyi uyarır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Absisik asit</DOCTITLE>
+<TEXT>
+
+Fizyologlar tohum ve tomurcuk dormansisinin bazı inhibitör bileşikler tarafından meydana getirildiğini ileri sürmüşler ve bu bileşiklerin izolasyon çalışmaları sonucunda bunlardan birisinin absisik asit olduğu tespit etmişlerdir.
+Absisyon ile ilgili yapılan araştırmalar sonucunda pamuk meyvelerinden absisyonu uyaran bir madde saflaştırılarak kristallendirildi ve Absisin II olarak adlandırıldı. Bundan iki yıl önce pamuk kozasında izole edilen absisyonu hızlandırıcı etkisi olduğu belirlenen Absisin I keşfedilmişti. Aynı zamanda Firavuninciri yapraklarından tomurcuk dormansisini uyaran dormin saflaştırıldı. Absisik asit ismi absisyon olayından orjinlenmiş ve yıllardır absisyon uyarımından primer olarak ABA’nın sorumlu olduğu düşünülmüştür. Bununla birlikte etilenin organ absisyonuna neden olan daha önemli bir faktör olduğu bulunmuştur.
+ABA’nın kimyasal yapısı bazı karotenoid moleküllerin terminal kısmına benzer. ABA, 15 karbon atomu, terminal bir karboksil grubuna sahip doymamış bir zincir, bir çift bağ ve iki metil grubu ihtiva eden bir alifatik konfigürasyonuna sahiptir. Tabii olarak meydana gelen ABA’nın büyük çoğunluğu cis formdadır.
+ABA’nın angiospermlerin bütün türlerinde mevcut olduğu birçok gymnospermlerde ve bazı eğreltilerde bulunduğu tespit edilmiştir. Alglerde ve hepatophytalarda (ciğer otları) lunularik asit olarak adlandırılan ABA’ya benzeyen bir bileşiğin mevcut olduğu belirlenmiştir.
+ABA tayini.
+Koleoptilin büyüme inhibisyonunun oksinler için kullanılan klasik koleoptil bioassayleriyle ölçülmesiyle bitkilerdeki ABA’yı belirlemek mümkündür. Bu metodun dezavantajını ortadan kaldırılması için bitki ekstratlarının öncelikle saflaştırılması gerekir.
+Stomal kapanma bioassayleri ABA’ya yüksek derecede spesifiktir. Bu bioasseyin ilave avantajları ABA’ya stoma hücrelerinin hızlı cevabı ve yüksek duyarlılıktır.
+Fiziksel metotlar kantitatif analizin uygunluğu ve spesifikliği yüzünden bioassaylerden daha inandırıcıdırlar. Çok geniş olarak kullanılan tekniklerden birisi de gaz kromatografisidir. Bu metotla çok düşük seviyedeki ABA’nın belirlenmesine imkân verir. Fakat ince tabaka kromatografisinin ihtiva eden birkaç saflaştırma kademesine de ihtiyaç duyulur.
+Bitki ekstratlarından ABA’yı saflaştırmak için diğer bir yol immunoasseylerdir. Bu metotla saflaştırılan ekstratlarda yine çok düşük seviyedeki ABA’yı tayin edebiliriz.
+ABA’nın biyosentezi.
+Bitkilerin çoğu ABA sentezleyebilecek kapasitededir. ABA’nın yaprak, gövde, kök, tohum ve meyve dokularında mevalonik asitten sentezlendiği belirlenmiştir. Bu dokularda ABA’nın büyük çoğunluğu plastidlerde sentezlenir. Yüksek bitkilerde genel olarak karotenoidle ilgili yol kullanılır.
+ABA sentezinde iki metabolik yol üzerinde çalışmalar yapılmaktadır. Bunlardan birisi bitkilerde bütün terpenoidlerin öncüsü olan mevalonik asitle ilgili olup, direkt yol olarak adlandırılır. İkinci olarak bir karotenoid molekülünün parçalanmasıyla ABA oluşumu ise alternatif yol veya indirekt yol adlandırılır. 
+ABA’nın fizyolojik etkileri.
+ABA’nın tomurcuk dormansisini uyardığı bilinmektedir ayrıca başka pek çok fonksiyona sahip olduğu saptanmıştır. ABA bitkilerde diğer düzenleyici olaylarda da rol oynar. Örneğin kuraklık ve nem stresinden bitkileri korumak için stomanın kapanmasını sağlar. Uzayan gövdelerde giberellin tarafından başlatılan hücre uzamasını büyük ölçüde azaltır.
+Geotropizmaya etkisi.
+Mısır bitkisinin kökleriyle yapılan çalışmalar geotropizma olayında ABA’nın rol aldığını göstermiştir. Burada ABA kök şapkasından sentezlenmekte ve bazipetal bir yönde vasküler dokularla taşınmaktadır. ABA yerçekimi etkisiyle alt kenara çekilir ve bu kenarın büyümesini inhibe eder. Kökün üst kenarı inhibe edilmediğinden kök aşağı doğru büyür.
+Stres ve stoma kapanması.
+Su, tuz ve donma streslerinde ABA ile yapılan çalışmalarda ABA’nın bir stres hormonu olarak görev yaptığı bulunmuştur. Kuraklık koşullarında, yaprak ABA konsantrasyonlarının 40 kat kadar artabileceği belirlenmiştir. ABA stoma kapanmasına neden olup terleme ile su kaybını azaltır. ABA sentezleme yeteneği olmayan mutantlar, stomalarını kapatamadıklarından sürekli sararma gösterirler. Bu mutantlara dışardan ABA uygulamasıyla turgor oluşumu sağlanır ve stomalar kapanır. Bu olay birkaç dakikada gözlenebilen hızlı bir cevaptır.
+Büyüme.
+Oksin tarafından uyarılan fide büyümesi ABA tarafından inhibe edilir. Bu nedenle ABA bir büyüme inhibitörü olarak adlandırılır. Hücre çeperlerini yumuşatan oksinlere karşı ABA, hücre uzaması ve hücre duvarı asidifikasyonunu engelleyerek hidrojen salınmasını inhibe eder. Böylece büyüme engellenir.
+Tomurcuk dormansisi.
+Büyüyen fidelerin tomurcuklarına dıştan ABA uygulanması onların dormant olmasına neden olur. Burada bazı çevresel faktörlere cevap olarak, bitkilerde sentezlenen ABA’nın tomurcuklara hareket ettiği ve dormansiyi sağladığı anlaşılır. Kısa günlerin yaprak ve tomurcuklarda ABA seviyesinin artmasına neden olduğu görülür. Kısa gün şartlarının daha fazla ABA sentezlemek için yaprakları uyardığı bulunmuştur. Günler uzayıp sıcaklık uygun hale gelince ABA seviyesinde azalma GA seviyesinde artma tomurcuk dormansisinin kırılmasını sağlar.
+Tohum dormansisi.
+Kuru dormant tohumlar dormant olmayan tohumlardan daha fazla ABA ihtiva ettiği bilinmektedir. Bununla birlikte tohum çimlenmesi esnasında sitokininler ve giberellinler gibi büyüme uyarıcılarının miktarında artış gözlenmektedir. ABA genellikle strafikasyona (düşük soğuk muamelesi) ihtiyaç duyan tohumların dormansisinde rol oynar.
+Su alınımı.
+Kök dokularına ABA uygulanması su ve iyon akışını uyarır. ABA sadece turgoru düzenlemekle kalmaz aynı zamanda köklere giren suyu da artırır. ABA su geçirgenliğini artırarak veya toprak-kök arasında su potansiyel gradiyentini artırıp su alınımını hızlandırır. Ayrıca ABA yaprak büyümesini baskı altına alırken, lateral köklerin çıkışını ve kök büyümesini uyarır. ABA’nın bu etkileri köklerin su absorbsiyon alanında artışa, yaprak alanında ise azalışa neden olarak, bitkide kuraklığa karşı avantaj sağlanır. 
+Absisyon ve senesens.
+Önceleri ABA’nın yaprak absisyonunda rolü olduğu ileri sürülürken, yapılan son çalışmalarda yaprak absisyonunun ABA ile fazla ilişkisi olmadığı belirlenmiştir. ABA daha çok çiçek ve meyve absisyonunda rol alır. Sağlam bitkilere uygulanan ABA üzüm çiçekleri, elma, kiraz, zeytin ve üzümün oldun meyvelerinin absisyonunu hızlandırmıştır. Ayrıca pamuk meyvelerinde ABA seviyesinde iki ayrı artış zamanı belirlenmiştir. Birincisinin olgun olmayan meyvelerin düşmesiyle meydana geldiği, diğerininse olgun meyvelerin son çatlama döneminde olduğu tespit edilmiştir.
+Diğer ABA etkileri.
+ABA’nın patateste yumru oluşumunu uyardığı saptanmıştır. Ayrıca dıştan uygulanan ABA’nın "Dahlia" ve yer elması yumrularının oluşumunu başlattığı gözlenmiştir. Diğer taraftan dıştan uygulanan ABA genç meyveleri olgunlaşmasını hızlandırır. Örneğin çilek ve üzümlerin olgunlaşması esnasında endogonik ABA seviyesi artmıştır.
+ABA’nın özellikle ılıman bölge bitkilerinin donma hasarlarına karşı dayanıklılığı arttırdığı, dıştan uygulanan ABA’nın "Acer" (akçaağaç), elma ve yonca fidelerinin donmasını geciktirdiği, kabak fidelerinin donma hasarlarına karşı koruduğu belirlenmiştir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Atemoya</DOCTITLE>
+<TEXT>
+
+Atemoya ("Annona × atemoya"), şeker-elma ("Annona squamosa") ve çerimoya ("Annona cherimola") türünün çaprazlanması ile elde edilen hibrit (melez) bir türdür. Meyvenin popüler olduğu Tayvan'da ananas şeker-elma olarak karıştırılmaktadır. İsrail,Mısır,Lübnan,Venezüella, Tayvan'da da yetiştilmektedir ama özellikle anavatanı Amerika'nın tropik bölgeleridir. Meyvesi Lübnan mutfağında tatlı yapımında da kullanılmaktadır.
+Özellikleri.
+Atemoya meyvesi genelde kalp şeklinde yuvarlak soluk yeşil, kolayca berelenebilen ,engebeli bir yüzey dokusuna sahiptir. Çok sulu ve akıcı bir meyve özüne sahiptir. Beyaz renkte şekerli turta gibi bir tadı vardır sanki pina colada kokteylini hatırlatır bir tattadır. Tadındaki vaniyanımsı aromayı çaprazlandığı şeker-elmadan almıştır. Bunun yanında toksik ve yenilmeyen,meyve tohumlarıda meyve özünün arasındadır. Meyve olgunlaşınca kaşık ile meyva özük kabuğundan çıkarılıp,tohumları ayıklanıp yenir.
+Atemoya ("Annona cherimola × squamosa") için ilk kez melezleme USDA Miami tropik laboratuvarında çalışan P.J.Wester tarafından yapılmıştır. 
+Meyvenin kalitesi sebebiyle şeker-elmanın eski Meksika dilindeki adı olan "Ate" ile çerimoyadan gelen moya adı birleştirilerek atemoya adı bu türe verilmiştir. 1917 yılında Edward Siamons Miami Laboratuvarında bu türün dayanıklılık konuşunda genlerini aldığı çerimoya ile benzer bir dayanıklılık gösterdiği ve olgun ağacın -3,05 (26.5ºF) soğukta sağ kaldığını tespit etmiştir. Bu durumda -4 derece ve altındaki ısılarda ağacın zarar görme ihtimali bulunmaktadır. 
+Aynen diğer "Annona" türleri gibi atemoyanın çiçeklerinde de dişi ve erkek organlar bulunup bitki hermafrodittir. Ancak sorun tıpkı papav gibi stigmata yani kopya poleni dişi çiçeklerinin kabul etmemesidir. Kendi kendine tozlaşan bitkiler çok nadirdir. Bunun yanında tıpkı diğer "Annona" cinsi üyeleri ve papav gibi arılar tarafından bu bitkinin tozlaşmasıda yapılamamaktadır. Bu durumda tozlaşmayı yapabilecek olan canlılar böcekler, sinekler ve kın kanatlılardır veya el ile tozlaşma yapılmak zorunda kalınmaktadır. Bunun yanında bitki tıpkı avokado gibi belli saatlerde dişi, belli saatlerde erkek olur. Örneğin saat öğleden sonra 2-4 arası bitkinin çiçekleri dişi halde iken 3 ile 5 arasında erkek hale döner. Buda el ile tozlaşma yapılmasını gerekli kılabilmektedir. Atemoyanın meyveleri ise dengesiz tozlaşma sebebiyle, kimi zaman alışılmış şeklin dışında şekillerde alabilmektedir. 
+Buna karşın İsrail ve Mısır gibi bazı ülkelerde ağacın çiçekleri üzerine 1.000 ppm Giberellin sıkılarak ağacın meyve üretimi arttırılmakta veya tozlaşma olmaması halinde bu şekilde ağacın çekirdeksiz suni yoldan meyve üretmesi sağlanmaktadır.
+Bilinen Bazı Varyeteleri.
+Bunun dışında "Bernitski", "Hette","Island Gem", "Kabri", "Malaii" ve "Stermer" gibi varyeteleri bulunmakla birlikte bu yeni varyeteler ve özellikleriyle ilgili çalışmalar halen sürmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gebelik</DOCTITLE>
+<TEXT>
+
+Gebelik veya hamilelik, erkekten gelen sperm ile kadının yumurtalıklarından atılmış olan yumurtanın döllenmesinden doğuma kadar geçen 40 haftalık (280 gün) döneme verilen isimdir.
+Döllenmenin oluştuğu andan 8. haftanın sonuna kadar geçen döneme "embriyotik dönem" denirken bundan sonrasına ve doğuma kadar olan döneme de "fetal dönem" denmektedir. Gebelik genç yaştaki bayanlarda döllenme sonrası ilk gün içinde belirlenebilir. Çünkü adet düzensizliği tamamlana kadar vücudun ürettiği her yumurta döllenmeye daha uygundur. Yaş ilerledikçe doğurganlığın azalması bununla ilgili bir durumdur. Döllenme sonrası 8-10 saat içerisinde ilk kusma gerçekleşir. Yaşı ilerlemiş bayanlarda ise belirtiler 1 hafta ile 2 ay arasında gözlemlenir. Ergenlik döneminde hamilelik ise ilk 12 saat içinde belirlenebilir. Ergenlik döneminde yumurtalar henüz olgunlaşmamıştır ve bu yüzden spermin yumurtayı döllemesi 5 ile 20 dakika arasındadır. 16 yaşını doldurmamış bir bireyin döllenme gerçekleştikten 10 gün sonrasında embiriyonun vücuttan alınmamısı durumunda bireyde ciddi şekilde fiziksel ve ruhsal sorunlara yol açabilir. Çünkü 16 yaş altı ergenlerde duygu dünyasının yapım aşamasıdır. Lakin kişi yaşıtlarından bu denli farklı bir olayla karşılaştığı için ileriki dönemlerde kendine güvensizlik gibi psikolojik eksiklikler yaşayabilir. Halk arasında yanlış bilinen bazı kurallar -adet döneminde gebe kalınmaz gibi- kişide ciddi ruhsal sorunlara yol açabilir. Gebe kalmış bir bayanda duygusallık yoktur. Ağlamanın fazlalaşması tamamen kişinin gebeliğe bakış açısından kaynaklanır. Zira hamile bayanları mutlu etmek daha kolaydır. 16 yaş altı gebelerde ise halk arasında yaygın olarak bilinen 1 aydan önce belirlenemez lakırtısı yüzünden birçok genç kızımız kürtajda gecikmeden dolayı büyük sorunlar yaşamaktadır. Kişinin döllenme gerçekleştikten sonraki ilk 12 saat içerisinde alanında uzman bir doktor tarafından kontrol edilmesi gerekmektedir. Zira kısırlık, erken menapoz, yumurtalık kisti gibi rahim hastalıkları meydana gelebilir.
+Belirtileri.
+En önemli bulgu kadındaki adet gecikmesidir. Ancak her adet gecikmesi, kadının gebe olduğu anlamına gelmez. Kadının yaşamındaki değişiklikler, bazı rahatsızlıklar, psikolojik durumu ve stres gibi birçok etken kadının adet düzeninin bozulmasına ve gecikmelere neden olabilir.
+Gebelik belirtileri aşağıda listelendiği gibidir:
+Dönemleri.
+Başlangıç.
+Gebelik dişi gamet olan oositin erkek gamet spermatozoon ile birleşmesi yani döllenme sonucu oluşur. Döllenme ile birlikte yumurta meydana gelir. Bu pratikte ençok cinsel birleşme yolu ile olur. Ancak günümüzde yapay inseminasyon ve in vitro fertilizasyonla da gebelik oluşturulmaktadır.
+Perinatal Dönem.
+Perinatal kelimesi gebeliğin 22. haftasıyla (bu dönemde doğum ağırlığı 500 gramdır) doğumdan sonraki 7. gün arasında kalan zamanı tanımlar.
+Postnatal Dönem.
+Bu dönem doğumla başlar ve yaklaşık 6 hafta sürer.
+Süreç.
+Beklenen doğum tarihi son adet kanamasının ilk gününden 40 hafta sonradır ve doğum genellikle 37 ve 42. haftalar arasında olur. Gerçek gebelik süresi döllenmeden sonra 38 haftadır. 40 hafta, 9 ay 6 gün demektir; bu da doğum gününün tahmininde kullanılan Naegele kuralının temelini oluşturur. 
+Gebelik 37 ile 42. haftalar arasında (252 ile 294. günler) ise miadında olarak tanımlanır. 37 haftanın tamamlanmasından önceki eylemler preterm, 42 haftadan sonrakiler ise postterm adını alır. Gebelik 42 haftayı aşarsa anne ve bebekte komplikasyon gelişme riski belirgin şekilde artar. Bu nedenle genellikle uzmanlar bu döneme ulaşmış ama başlamamış doğum eylemini tıbbi yöntemlerle uyarırlar.
+Doğumların %5'ten azı, tam gününde gerçekleşir. %50'si, tahmini güne göre 1 hafta farkla; %90'ı ise 2 hafta farkla olur.
+Doğum.
+Düzenli uterus kasılmalarıyla birlikte serviksinde silinme ve dilatasyon olan bir kadın doğum eylemine girmiş kabul edilir. Doğumların çoğu başarılı vajinal doğumlardır, ama bazan komplikasyonlar gelişir ve sezaryan yapılması gerekebilir.
+Tanı.
+Gebelik başlangıcı, birkaç değişik yolla saptanabilir. Bu gebenin kendisi tarafından tıbbi test kullanmadan ya da bir tıbbi test yardımıyla olabilir.
+Gebelerin çoğu bu duruma işaret eden belirtiler yaşar. Bunlar bulantı ve kusma, aşırı yorgunluk ve bitkinlik, normalde aranmayan yiyeceklere karşı istek duyma, geceleri sık idrara kalkma olabilir.
+Bazı erken tıbbi bulgular da gebelikle ilişkilidir. Bunlar döllenmeden sonraki ilk birkaç haftada ortaya çıkar. Bu belirtiler tüm gebeliklerde olmadığı gibi tek başlarına tanı da koydurmaz. Kan ve idrarda insan koryonik gonadotropini (hCG) saptanması, adet kanamasının olmaması, son adet kanamasından sonraki 3. veya 4. haftada embriyonun uterusa yerleşmesine bağlı implantasyon kanaması, ovulasyondan sonra iki hafta ya da daha uzun süre ile bazal vücut sıcaklığında artış saptanması bu belirtiler arasındadır.
+Gebelik testleri yeni oluşan plasentanın salgıladığı hormonları saptama esasına dayanır. Klinikte kan ve idrar testleri embriyonun yerleşmesinden 12 gün sonra gebeliği gösterebilir. Kan testleri daha güvenilirdir. Evde yapılan testler idrar testleridir ve döllenmeden sonra 12-15 gün geçmeden gebeliği saptayamazlar.
+Embriyonun yerleşmesinden sonra blastosist hücreleri yumurtalıktaki corpus luteumun progesteron üretmeye devam etmesini sağlamak üzere insan koryonik gonadotropini (hCG) salgılarlar. Böylece uterusun iç yüzeyinin korunması ve embriyonun beslenmesi sağlanmış olur.
+Erken dönemde yapılan ultrason gebelik yaşını oldukça doğru biçimde saptar. Pratikte doktorlar gebelik yaşını son adetin ilk gününü başlangıç noktası alarak belirtirler.
+Gebelik testleri.
+Gebelik testleri kanda (Beta-HCG) veya idrarda bakılan gebelik testlerinden oluşur. HCG, hamilelik araştırması, testis ve kadın genital tümörlerinin araştırılması vb. amaçlarla kullanılabilen bir testtir.
+Testler immünolojik metotlu HCG ölçüm testleridir. Çok erken dönemde antijen yetersizliği, geç dönemde antijen fazlalığı negatif teste yol açabilir. Negatif sonuçlar kişinin hamile olma olasılığını yok etmediği gibi pozitif sonuçlar da kesin hamilelik anlamına gelmez.
+Fizyoloji.
+Gebelik, her biri üç ay süren üç dönemde incelenir:
+1. Üç Aylık Dönem.
+Döllenme sonrası embriyo uterusun endometrium tabakasına implante olur. Ama bazen de işler yolunda gitmez ve yerleşim fallop tüplerine ya da servikse olur ve dış gebelik meydana gelir. Kadınların çoğu implantasyon döneminde herhangi bir belirti hissetmez ama bu dönemde minimal bir kanama olması da çok nadir değildir. Bazı kadınlarda 1. trimestırda kramplar olur. Bu durum birlikte kanama da yoksa genellikle önemli değildir. İmplantasyon sonrası endometrium desidua adını alır. Plasenta kısmen desiduadan kısmen de embriyonun dış tabakalarından oluşur ve fetusa besin maddeleriyle oksijen taşınmasından ve atıkların uzaklaştırılmasından sorumludur. Umblikal kord yani göbek bağı embriyo ya da fetusu plasentaya bağlar. Bu dönemde gebelerin %70'inde sabah rahatsızlıkları olur ve bunların da çoğu ilk 3 aydan sonra düzelir. Hormonlardaki geçici artışa bağlı olarak meme başları ve etrafındaki renkli halka (areola) koyulaşır. Düşüklerin çoğu, bu dönemde gerçekleşir.
+2. Üç Aylık Dönem.
+4-6. ayları kapsayan dönemdir. Kadınların çoğu, kendilerini daha enerjik hisseder ve sabah rahatsızlıkları azalırken kilo alımı başlar. Bu dönemin ikinci, gebeliğin beşinci ayının son haftasında yani 20. haftada uterus, normal büyüklüğünün 20 katına ulaşır. 1. üç aylık dönemde fetus hareketleri başlasa da bunların anne tarafından hissedilmesi, ancak 2. üç aylık dönemde olur. Bu, tipik olarak 5. ayın sonu - 6. ayın başı olan 20-21. haftalarda, anne daha önce hamile kaldıysa da 19. haftada olur. Ancak bazı kadınlarda hareketin çok daha sonraları hissedilmeye başlaması da nadir değildir. Plasenta, bu dönemde tamamen çalışmaya başlar. Fetus insülin üretir ve idrar oluşturur. Cinsiyet tayini de mümkündür.
+3. Üç Aylık Dönem.
+Gebeliğin en çok kilo alınan evresidir. Fetus günde 28 gram kadar büyür. Fetus doğuma hazır olacak şekilde başaşağı döner ve gebenin göbek şekli buna göre değişir. Fetus düzenli olarak hareket eder ve gebe bunu hisseder. Bu hareketler kadını rahatsız edecek kadar şiddetli olabilir. İdrar kaçırma ve bel ağrısı görülebilir.
+Gebelikte Kansızlık.
+Gebe olan annelerin en büyük problemlerinden birisi gebelikte kansızlıktır. Anne adaylarının en çok merak ettiği konulardan birisi, gebelikte kansızlık vakasının bebeği ne derecede etkilediğidir. Peki gebelikteki kansızlığın belirtileri ve bebeğe etkileri nelerdir?
+Gebelik, anne vücudunda ikinci bir canlının oluştuğu dönemdir. Yetersiz ve dengesiz beslenme gebe anne üzerinde çeşitli bozukluklara neden olur.
+Gebelik süresince bebek, anne zayıf olsa bile kendisi için gerekli olan enerjiyi, protein, demir, kalsiyum gibi minaralleri ve vitaminleri anneden alarak gelişimini sürdürür. Böylece annenin bu besin öğelerine olan gereksinimi artar. Artan gereksinimlerin karşılanmaması halinde; beslenme yetersizliğinin belirtileri olan kansızlık, diş çürümesi kemik bozuklukları meydana gelir. Anne halsiz ve yorgun düşer, bebeğini de yeterince besleyemez. Bu kez bebeğin büyüme ve gelişmesi tam olmaz ve sağlıksız doğar.
+Kansızlık (anemi) Nedir? 
+Dünya Sağlık Örgütü, kana rengini veren hemoglobin maddesinin düzeyinin 11 gr/dl altında olduğu durumları
+anemi olarak tanımlamaktadır. Bununla beraber, gebeliğin 6. ayından (2.trimester) sonra, kan plazma hacminin
+artmasına bağlı olarak 10,5 gr/dl sınır değeri olarak kabul edilmektedir.
+Gebelikte Anemi Nedenleri Nelerdir? 
+Gebelerde anemi genellikle birden fazla sebebe bağlıdır.
+Bunlar: 
+Doğurganlığın fazla, buna karşı etkili ve modern aile planlaması yöntemlerinin yetersiz kullanılması ülkede anne ölüm riskini arttıran bu 4 tip gebeliğin yaygın olduğunu düşündürmektedir.
+Gebeliğini hijyenik koşullarda sürdüren, gebeliği sırasında düzenli izlenen eğitilen ve gerekli tedavilerini zamanında yaptıran, doğumu sağlıklı koşullarda ve sağlık personeli tarafından gerçekleştirilen bir annenin gebelik ve doğuma bağlı bir nedenle ölmesi veya sakat kalması normal koşullarda nadirdir. Bu koşulların yerine getirilmemesi halinde ise anne ve çocuk sağlığı ile ilgili önemli sorunların ortaya çıkması muhakkaktır.
+Çoğul Gebelik.
+Anne adayının birden çok bebeğe gebe kalması durumuna çoğul gebelik denir.Çoğul gebelik durumu iki başlıkta incelenir. Tek Yumurta ikizi ve Ayrı yumurta ikizi olmak üzere iki tür çoğul gebelik vardır.Anne adayının yaşı ve gebelik sayısı attıkça çoğul gebelik riski de artmaktadır.35-40 yaş arası 4 çocuk veya daha fazla çocuğa sahip kadınlarda 20′li yaşlardaki kadınlara oranla çoğul gebelik riski 3 kat daha fazladır. İleri yaşlarda üreme tedavisi gören kadınlarda çoğul gebelik riski daha genç adaylara oranla yine fazladır.
+Nedenleri.
+Anne adayının yaşı çoğul gebelik riskini artıran faktördür. Yine ailesinde üreme tedavisi olmaksızın ikiz olanların çoğul gebelik şansı olmayanlara göre yüksektir. Tüm bunların dışında günümüzdeki en önemli neden üremeye yardımcı tekniklerdir (tüp bebek v.s). Üreme tedavilerinde anne rahmine transfer edilen embryo sayısı ile gebelik oranları arttığı için hekimler mümkün olan en fazla sayıda embryo transferini hedefler. Bu durum çoğul gebeliklerin sayısını artırmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Toprağin Hikâyesi (EBA)</DOCTITLE>
+<TEXT>
+
+Toprak, yer kabuğunu oluşturan kayaçların ufalanması ile oluşmuş içinde çeşitli mineraller, canlı organizmalar, organik maddeler, hava ve su bulunan bir örtüdür. Yer kabuğunu oluşturan kayaçlar, atmosfer ve dış kuvvetlerin etkisiyle zamanla parçalanır, dağılır ve ufalanır.
+Fiziksel (Mekanik) Ayrışma
+Soğuk ve kurak bölgelerde daha etkilidir.
+Kimyasal Çözünme
+Nemli-sıcak bölgelerde daha etkilidir.
+Fiziksel Ayrışma
+Kayaçların çatlaması, parçalanması ve ufalanması şeklinde olan fiziksel ayrışma, soğuk ve kurak iklim bölgelerinde etkilidir. Sıcaklık farklarından dolayı genleşme ve büzülme hareketlerine maruz kalan kayaçlar, bir süre sonra çatlar. Donma olaylarının görüldüğü alanlarda ise kayaçlardaki çatlaklara yerleşip donan suyun hacmi genişler ve çevresine basınç yapar. Bu basınç çatlakların büyümesine ve kayaçların parçalanmasına neden olur. Fiziksel parçalanmada bitkilerin de rolü vardır. Kayaçlardaki çatlaklara yerleşen bitkiler, kökleri vasıtasıyla çatlağın genişlemesine yol açar. Fiziksel parçalanma sonucunda kayacı oluşturan minerallerin kimyasal özelliklerinde önemli bir değişiklik olmaz.
+Kimyasal Çözünme
+Kimyasal çözünme kayaçların bileşimindeki minerallerin çözünme şeklinde olmaktadır. Nemli, sıcak iklim bölgelerinde daha etkili olan kimyasal çözünmede su, en önemli etmendir. Çünkü su, minerallerin kimyasal yapısını değiştirir. Suda çözünmüş karbondioksit, suyun asitlik derecesini artırdığından özellikle kalkerli kayaçların çözünmesine neden olur. Kimyasal çözünme sonucunda kayacı oluşturan minerallerin kimyasal özelliklerinde de değişme meydana gelmektedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkiler  (EBA)</DOCTITLE>
+<TEXT>
+
+Bitkiler de tıpkı diğer canlılar gibi oldukça geniş bir çeşitliliğe sahiptir. Etrafınızda gördüğünüz bitkileri düşünün. Metrelerce uzanan ağaçlar, yüzyıllık dev çınarlar, suda yaşayanlar ya da su mercimeği gibi boncuk kadar olanları vardır (Resim 152). 
+Bitkiler gerçek hücre çekirdekleri bulunan (ökaryot) hücre yapısına sahip çok hücreli canlılardır. Bitkiler, fotosentez yoluyla ışık enerjisi, karbondioksit (CO2) ve su kullanarak organik bileşikler (glikoz) üretebilme özellikleri ile hayvanlar ve mantarlar gibi diğer çok hücreli canlılardan ayrılır. Ayrıca bitki hücreleri selüloz içeren hücre duvarına sahiptir. 
+Bugün dünyada 280.000’den fazla bitki türü yaşamaktadır. Farklı bitki türleri de birbirinden farklı yapı ve organizasyona sahiptir. Bununla birlikte bitkilerin birçok benzer özellikleri de mevcuttur. Bitkiler de tıpkı diğer âlemler gibi bu benzer özelliklerine göre sınıflandırılır. Aristo zamanında otlar, çalılar ve ağaçlar olarak sadece dış görünüşlerine bakılarak sınıflandırılan bitkiler günümüzde anatomik ve fizyolojik özelliklerine göre sınıflandırılır. Bu bölümde bitkilerin sınıflandırılmasında kullanılan bu özelliklerden tohum bulundurup bulundurmaması; kök, gövde ve yaprak tip ve dizilimleri, damar bulundurup bulundurmaması gibi bitkilerin sadece birkaç özelliği tanıtılacaktır. 
+Damar yapısı 
+Bitkileri sınıflandırırken kullanılan kriterlerden birisi damar yapısıdır. Damar elbette ki hepimiz için oldukça tanıdık bir kavramdır. Bitkilerde bulunan damarlar bizim damarlarımızla aynı yapıda değildir. Ancak, benzer görevleri vardır. Bitkilerin, sentezledikleri organik besinleri, kökleriyle aldıkları su ve mineralleri hücrelerine taşıması gerekir. Eğrelti otu gibi bazı bitkiler bu görevi yapan damar sistemine sahiptir. Ancak tüm bitkilerde damar bulunmaz. Karayosunu (Bryophyta-Briyofta) gibi damarsız bitkilerde kök, gövde ve yaprak gibi yapılar bulunmaz. Genellikle nemli bölgelerde yaşayan karayosunları sahip oldukları ipliksi yapılar sayesinde su ve mineralleri difüzyon ile alırlar (Resim 153). 
+Bir bitkinin yapısını temel olarak iki kısımda inceleyebiliriz: toprak üstü yapılar ve toprak altı yapılar. Bitkinin toprağın üstünde kalan kısmında yer alan yapılar: yapraklar, gövde ve dallar ve üreme döneminde gözlenen çiçek ve meyvedir. Toprağın altında kalan kısım ise köktür (Resim 154). 
+Gövde ve dallar 
+Bitkileri sınıflandırmada kullanılan bir diğer kriter ise gövde ve dalların yapı ve özellikleridir. Gövde ve dalların temel işlevi yaprakları güneş ışınlarını alabilecek, çiçek ve tohumlarını da üreme ve yayılma için en uygun pozisyonda tutmaktır. Gövde ve dalların diğer önemli bir görevi, maddelerin bitkinin değişik organları arasındaki iletimini sağlamaktır. Bitkilerin çoğunda gövde ve dallar içinde madde aktarımını sağlayan bir taşıma sistemi (iletim demetleri) bulunmaktadır. Köklerden alınan su ve mineralleri yapraklara ve bitkinin diğer dokularına taşıyan iletim borularına ksilem (odun borusu) denir. Ksilem dışında başka bir boru sistemi de üretilen organik maddeleri bitkinin her yanına dağıtır. Bu iletim borularına floem (soymuk borusu) denir. 
+Bu iki iletim sistemi aynı zamanda bitkinin dik durmasına destek sağlar (Resim 155). Yapılarında bu tür iletim boruları bulunduran bitkilere damarlı bitkiler denir. Bazı bitkiler ise bu tür iletim ağına sahip değildir. Böyle bitkilerin birkaç tabaka hücreden oluşan bir yapıları vardır. Su ve diğer maddeler bir hücreden diğerine difüzyon ve osmoz ile geçer. Böyle bitkiler damarsız bitkiler olarak adlandırılır. 
+Yapraklar 
+Bitkiler yaprak ya da yaprak benzeri yapılara sahiptir. Yaprak, bitkilerde gövdeden ya da dallardan çıkan ve çoğu bitkide fotosentezin yapıldığı organdır. Yapraklar şekil ve büyüklük olarak farklılık gösterir (Resim 156). Bu farklılık bitkilerin sınıflandırılmasında kullanılan önemli bir özelliktir. 
+Çoğu kara bitkisinin yaprak ve diğer toprak üstü organlarının yüzeyleri saydam, pürüzsüz ve kaygan bir tabaka ile kaplıdır. Bu tabakayı bir yaprağın veya elmanın yüzeyine dikkatle bakarak ve yüzeyde parmaklarınızı gezdirerek fark edebilirsiniz. Bu tabaka mumsu bir yapıdadır ve suda çözünmez. Çoğu kara bitkisinde rastlanılan bu yapının en önemli işlevi su kaybının önlenmesidir. Bu tabaka aynı zamanda bitkinin zararlı mikroorganizmalardan korunmasında bir bariyer görevi görür. 
+Karada yaşayan bitki yapraklarında görülen bir diğer önemli yapı da stomalardır (Resim 157). Bu yapılar hava ile yaprağın iç kısımları arasında karbondioksit ve oksijen alışverişine izin vererek fotosenteze destek olur. Stomalar aynı zamanda buharlaşma ile suyun yapraklardan çıktığı yerdir. 
+Kökler 
+Bitkilerin sahip olduğu kök yapısı da sınıflandırmada kullanılan diğer önemli bir özelliktir. Çoğu bitki yaşamın devamı için gerekli su ve mineralleri topraktan kökler aracılığı ile alır (Resim 158). Kökler, gerekli su ve su içinde çözünmüş mineralleri topraktan almanın yanında bitkiyi toprağa bağlar. Bazı bitkilerin kökleri bir depolama organı olarak da iş görür. Havuçta olduğu gibi bu tür kökler çeşitli hayvanlar ve insanlar için bir besin kaynağı oluşturur. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sera</DOCTITLE>
+<TEXT>
+
+Seralar, bitkilerin yetişmesine uygun şartların sağlanması amacı ile çevre şartları kontrol edilebilen veya düzenlenebilen cam, plastik, fiberglas gibi ışığı geçiren materyallerle örtülü yapı elemanlarıdır.
+1545 yılında, Padua'da ilk botanik bahçesinin açılmasından hemen sonra Daniel Barbaro, bu bahçede ilk serayı yaptı. Yapıda taş ve tuğla kullanıldı, pencere ise yoktu. Mangalla ısıtılıyordu. Bazı hassas bitkiler, kışın bu seraya alınıyor, baharla birlikte yeniden yerlerine dikiliyorlardı. Tarihte bilinen ilk seranın bu olduğu bilinmektedir.
+Ilıman iklimin hüküm sürdüğü yerlerde sebze ve meyve yetiştiriciliği, genellikle sebzelerde cam örtü, meyvelerde ise plastik örtü altında yapılmaktadır. Bu nedenle Türkiye'de örtü altı sebze ve meyve yetiştiriciliği, daha çok Akdeniz İklimi'nin hüküm sürdüğü Akdeniz ve Ege Bölgesi'nde görülmektedir. Çünkü bu bölgelerde iklim, diğer bölgelere oranla ılımandır.
+Seraların Faydaları.
+Kurulduğu bölgede, dışarda doğal koşullarda yetişen her türlü sebze ve boyca küçük sayılabilen meyve bitkileri, cam ya da plastik örtü altına alınmak suretiyle, turfanda olarak yetiştirmektedir. Örtü altı sebze ve meyve yetiştiriciliğinde, eskiden sadece doğal koşullarda ve yılın belirli zamanlarında yetişen çoğu sebze ve meyveler, artık gelişen teknolojiyle örtü altlarında, diğer bir ifade ile seralarda, daha erken zamanlarda yetiştirilir olmuştur. Bu durum, doğal olarak sebze ve meyvecilikte, verim ve kaliteyi artırmıştır. 
+1. Isıtma
+2. Havalandırma
+3. Sulama ve Gübreleme
+4. İlaçlama
+olup bütün bunlar teknoloji kullanımı ile gerçekleştirilir. 
+Isıtma: Bitkilerin istediği ısıyı sağlama, bitkileri her nekadar örtü altına almakla gerçekleşse de bu yeterli olmayabilir. Bu gibi durumlarda, sera içine ıstma sistemleri konur. Bu sistemler sera içindeki ısıyı istenilen aralıkta sabit tutmaktadır.
+Havalandırma: Sera içindeki nem oranı, havalandırma sistemleriyle sağlanır. Havalandırma ile ayrıca bitkilerin döllenmeleri sağlanır. 
+Sulama ve Gübreleme: Sera içine alınan bitkilerin sulama zamanlarını ve uygun sulama biçimlerini belirleme, gerekli hallerde, bitkilerin sağlıklı glişmeleri için ihtiyaç duydukları gübreler, sulama sistemleriyle gerçekleştirilir 
+İlaçlama: Sera içinde bitkilere zarar veren mikroplara karşı etkin bir savaş sera içine kurulan ilaçlama sistemleriyle gerçekleştirilir. Toprak içine yapılacak ilaçlama uygun hallerde sulama sistemleriyle yapılır. Eğer ilaçlama bitkilerin toprak üstündeki kısımlarına yapılacaksa, bu ayrı bir ilaçlama sistemiyle gerçekleştirilir. 
+Fiziki görünümlerine göre;
+1. Çatısız,
+2. Tek Çatılı, 
+3. Çok çatılı
+olmak üzere 3 grup altında toplanır.
+Çatısız seralar: Aşırı meyilli arazilerde, sekileri oluşturan iki duvar arasına kurulur.
+Tek çatılı seralar: Düz ancak küçük arazilerde kurulur.
+Çok çatılı seralar: Geniş ve düz arazilere kurulur.
+Yüksekliklerine göre;
+1. Alçak çatılı,
+2. Yüksek çatılı
+olmak üzere 2 grup altında toplanır.
+Alçak çatılı seralar: Bölge, soğuk ve rüzgarlı veya serada yetiştirilecek bitkiler kısa boylu iseler, buralara alçak çatılı seralar kurulur . 
+Yüksek çatılı seralar: Bölge, nispeten sıcak ise veya serada yetiştirilecek bitkiler uzun boylu iseler, buralara yüksek çatılı seralar kurulur.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotoperiyodizm</DOCTITLE>
+<TEXT>
+
+Fotoperiyodizm, bitkilerin günlerin uzunluğuna bağlı olarak gösterdiği gelişim.
+Bitkilerin gelişim gösterdikleri evreye ise fotoperiyot denir.Fotoperiyot,bitkilerde büyüme,gelişme,çiçeklenme,yaprakların dökülmesi ve durgunluk döneminin başlaması gibi fizyolojik olayları etkilemektedir.Ayrıca gün uzunluğu bazı bitkilerin dünya üzerindeki yayılışını da belirler.
+Gece ve gündüz uzunluğunun yıl içindeki çevrimi, bitkilerin büyümesini ve çiçeklenmesini doğrudan etkiler. 
+Fotoperiyodizme göre 3 tür bitki vardır:
+1)Kısa gün bitkileri(c4 bitkileri):13-14 saatten az fotoperiyotta çiçeklenme olurken, daha uzun ışık sürelerinde yapraklanma (vejetatif büyüme) görülür.Mısır, darı, çeltik, sorgum vs...( yalnızca kısa gunlerde çiçeklenirler veya bu bitkilerde çiçeklenme kısa günler tarafından daha da aktifleştirilirler.)
+2)Uzun gün bitkileri(c3 bitkileri): 13-14 saatten fazla ışık almaya başlayınca çiçek açar; daha az sürelerde ise ancak vejetatif olarak gelişirler.(yapraklanma gösterirler)Arpa, buğday, yulaf, yonca vs...(yalnızca uzun günlerde çiçeklenirler veya çiçeklenmeleri uzun günler tarafından daha da aktifleştirilir.)
+3)Nötr bitkiler:fotoperiyot süresine bağlı olmaksızın çiçek açan bitkilerdir.Pamuk, tütün, ayçiçeği vs...
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Amborella trichopoda</DOCTITLE>
+<TEXT>
+
+Amborella trichopoda, Amborellaceae familyasından monotipik bitki türüdür. Moleküler çalışmalara dayanarak kapalı tohumlu bitkilerin en ilkel grubu olduğu düşünülmektedir.
+Çiçekli bitkilerin evrimininde atasal bir tür olması nedeniyle uluslararası bir çalışma grubu genom diziliminin ortaya çıkarılması için çalışmaktadır (http://www.amborella.org/). Amborella genomu evrimsel geçmişteki genom çiftlenmelerinin ilk aşamasına ışık tutacaktır. Ayrıca bitki mitokondrisi ve hücre çekirdeği arasındaki gen alışverişinin yönünün ve içeriğinin çiçekli bitkilerin evrimsel seyrinde oynadığı rol Amborella genomu sayesinde belirlenebilecektir.
+Yeni Kaledonya adasında doğal olarak yetişen bu tür çalı formundadır. Basit yapraklıdır ve yapraklar sarmal dizilmiştir. 
+Çiçekler tek eşeyli olup, stamenler çok sayıdadır. Plasentasyon kenarsal olup her yumurtalık tek tohum içerir.
+
+</TEXT>
+</DOC>
+

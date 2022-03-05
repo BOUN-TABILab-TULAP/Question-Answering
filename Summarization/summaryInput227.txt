@@ -1,0 +1,264 @@
+Question: Adres sistemi ile coğrafi koordinatlar nasıl benzeşmektedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Harita projeksiyonu</DOCTITLE>
+<TEXT>
+
+Harita projeksiyonu, 3 boyutlu yeryüzünün (küre ya da elipsoid) matematiksel transformasyon ile iki boyutlu düzlemde (harita düzlemi) temsil edilmesi işlemine denir. Harita projeksiyonunun yeryüzünün şeklini nasıl değiştirdiğini anlamanın kolay bir yolu merkezinde bir ışık kaynağı bulunduğu varsayılan yeryüzünün projeksiyon yüzeyi denen bir yüzeye iz düşürülmesidir.
+Üzerine eşit aralıklı meridyen ve paralellerin çizilmiş olduğu yeryüzünün saydam olduğunu farzederek temiz bir kağıdı ekvatordan teğet olacak bir silindir şekilde saralım ve dünyanın ortasında da bir ışığın yandığını düşünelim. Bu ışık yeryüzündeki şekillerin gölgesini kağıdın üzerine düşürecektir. Bu aşamadan sonra kağıdımızı tekrar açarak düzlem haline getirelim. Kâğıt üzerinde meridyen ve paralellerin şeklinin farklı olduğu ve önemli ölçüde bozulma olduğu görülecektir. Bu bozulmalar alan, uzunluk ve şekil bozulmaları olarak sınıflandırılabilir. Diğer bir deyişle yeryüzü üzerindeki objelerin düzleme aktarılmaları sonucunda, alanları, uzunlukları ve şekilleri değişir. 
+Harita projeksiyonlarında yeryüzü ya doğrudan düzleme ya da düzleme açılabilen yüzeylere (siindir ve koni) izdüşürülür. Bu bağlamda düzlem, silindir ve koni, projeksiyon yüzeyleri olarak adlandılırlar. Harita projeksiyonları projeksiyon yüzeyine göre üçe ayrılır:
+Projeksiyon yüzeyinin yeryüzünün dönme eksenine göre konumu açısından ise üç durum söz konusudur:
+Projeksiyon yüzeyleri (düzlem, silindir ve koni) yerküreye herhangi bir konumda teğet oldukları gibi yerküreyi kesiyor da olabilirler. Bu bağlamda teğet projeksiyonlar ve kesen projeksiyonlardan söz edilir. Bazı projeksiyon türlerinde gerçek anlamda tanımlı bir projeksiyon yüzeyi olmayıp, yalnızca coğrafi koordinatlar ile düzlem koordnatlar arasındaki ilişkiler tanımlıdır. Bu tür projeksiyonlara gerçek anlamda olmayan (pseudo) projeksiyonlar denir ve bu açıdan harita projeksiyonları,
+olarak ikiye ayrılır. 
+Harita projeksiyonu coğrafi koordinatları düzlem koordinatlarla (iki boyutlu Kartezyen koordinatlar) ilişkilendirmek için matematiksel ve geometrik ilişkilerden yararlanır. Bu bağlamda bir harita projeksiyonu düzlem koordinatlar ile coğrafi koordinatlar arasında iki fonksiyon ile tanımlanır.
+formula_1
+formula_2
+Harita projeksiyonları, alanları, belli yönde uzunlukları, diferansiyel anlamda açıları koruyacak şekilde tasarlanabilirler. Bu bağlamda alan koruyan, uzunluk koruyan ve konform projeksiyonlardan söz edilir. Diferansiyel anlamda açı koruma özelliğine sahip projeksiyonlarda şekillerin değişimi minimum olup, bazen açı koruyan projeksiyonlar olarak da adlandırılırlar. Ancak buradaki açı koruma kavramının diferansiyel anlamda olduğu, sonlu büyüklükteki açıların korunamayacağı unutulmamalıdır.
+Teorik olarak sonsuz sayıda harita projeksiyonu tanımlamak mümkündür. Literatürde 400 civarında yayınlanmış projeksiyon vardır. Bunların içinde en az bir harita yapmak için kullanılmış olanları oldukça azdır. Pek azı ise standart harita üretiminde kullanılırlar. 
+Projeksiyon seçimi
+bağlı olarak yapılır.
+Aşağıda genel olarak yeryüzünün tamamının gösterimine yönelik kullanılan bazı projeksiyon türleri hakkında kısaca bilgi verilmiştir. 
+İngilizce kaynaklarda genel olarak Transverse Mercator olarak adlandırılır. Deformasyonları kontrol altında tutmak amacıyla yeryüzü 6°lik boylam farkları ile 60 dilime ayrılarak uygulanışı ise Universal Transverse Mercator olarak bilinir. 1960larda United States Army Corps of Engineers tarafından geliştirilmiştir. Her dilimde x ekseni orta meridyenin, y ekseni ise ekvatorun izdüşümlerine çakışık olmak üzere bir düzlem kartezyen koordinat sistemi tanımlanmıştır. Deformasyonları kontrol altında tutmak amacıyla düzlem koordinatlar (x,y) küçültme ya da ölçek faktörü olarak adlandırılan bir katsayı ile (0.9996) çarpılırlar. Koordinatların küçültme faktörü ile çarpılmasının geometrik anlamı, projeksiyon yüzeyinin (silindir) yerküreyi kesiyor olmasıdır.
+Koordinatlarda negatif değerlerden kaçınmak için y değerleri 500 000m ile toplanır. Güney yarımkürede ise x değerleri 10 000 000m ile toplanır. İngilizcedeki "Easting" ve "Northing" kavramlarını karşılamak üzere y koordinatı "Sağa", x koordinatı ise "Yukarı" olarak da isimlendirilir. Ülkemizdeki kullanımdan farklı olarak İngilizce kaynaklarda x koordinatı "Sağa" (Easting), y koordinatı ise "Yukarı" (Northng) olarak kullanılır. Başka bir deyişle x ekseni Ekvatorun izdüşümü ile, y ekseni ise orta meridyenin izdüşümü ile çakışık alınır. Çoğu CBS yazılımında da koordinat sistemi bu şekildedir.
+Türkiye 1:25 000, 1:50 000, 1:100 000 ve 1: 250 000 ölçekli standart topoğrafik harita takımları bu projeksiyon sistemi temel alınarak üretilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>CN Kulesi</DOCTITLE>
+<TEXT>
+
+CN Tower, 553 metre uzunlukta dünyanın ikinci en yüksek kulesidir.
+Kanada'da yer alan bina Ontario'daki Toronto şehrinde bulunmaktadır ve şehrin simgesi konumundadır. Kanada Ulusal Demiryolu Şirketi tarafından yaptırılmıştır. Kule içerisinde 50'den fazla restorant bulunmaktadır. Ayrıca kule tepesinin zemininin bazı kısımları camla kaplıdır. Buradan ziyaretçiler aşağıya bakabilirler. (Coğrafi Koordinatlar: 43°38′33.24″N, 79°23′13.7″W). Yılda 2 milyon ziyaretçisi vardır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İbrahimhacılı, Şefaatli</DOCTITLE>
+<TEXT>
+
+İbrahimhacılı, Yozgat ilinin Şefaatli ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nereden geldiği ve geçmişi hakkında bilgi yoktur.
+Kültür.
+Köyün gelenek, görenek ve yemekleri,arabaşı,su böreği,etli bulgur pilavı,
+mantı, karakabak çiçeği dolması,Çullama, Mayalı Bazlama, Pezzik Cacığı, Madımak, Omaç, Erişte, Pekmez Çalması, Karlı Pekmez.
+Coğrafya.
+Yozgat iline 65 km, Şefaatli ilçesine 17 km uzaklıktadır.
+---Coğrafi Koordinatlar 39.4506404 , 34.9507251
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.Son Senelerde Yağış sıkıntısı çekmektedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+2009 yılındaki muhtar Şenol Şahan dır. imamı Ayhan öztürk olup kayseri dogumludur 
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi vardır. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı vardır ancak sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır. Su Kontrolü Yapılmıyor.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>MIPS R2000 Adres Dönüştürme Önbelleği</DOCTITLE>
+<TEXT>
+
+MIPS R2000 Adres Dönüştürme Önbelleği, DECStation 3100’de kullanılan MIPS R2000 her ne kadar basit bir uygulamaya sahip olsa da özyapısı günümüz adres dönüştürme belleklerininkine çok benzerdir. Bellek sistemi 
+4-KB sayfalar ve 32-bitlik adres uzayına sahiptir. Dolayısıyla, sanal sayfa numaraları 20 bit uzunluktadır. Sanal adres ile gerçek adres aynı boyutlara sahiptir. Adres dönüştürme önbelleği (ADÖ) 64 kayıt tutabilir ve tam eşlemelidir. ADÖ buyruk ve veri başvuruları tarafından paylaşılır. Her kayıt 64 bit genişliğindedir ve 20 bitlik etikete sahiptir ki bu etiket kaydın ADÖ’ de tutulan sanal sayfa numarasıdır. Sanal sayfa numarasına karşılık gelen gerçek sayfa numarası da 20 bit uzunluğundadır ve geçerli bit, kirli bit gibi sayman bitlerine yer verir.
+Bir ADÖ sayma bulamama durumu meydana geldiğinde, MIPS donanımı başvurunun sayfa numarasını özel bir yazmaca kaydeder ve" kural dışı durum (exception)" üretir. Kural dışı durum işletim sistemini uyararak sorunun yazılım katmanında halledilmesini sağlar. Bulunamayan sayfanın gerçek adresini bulmak için ADÖ sayfa tablosunu sanal adres numarası ve yürürlükte olan sayfa tablosunun başlangıç adresini tutan yazmaç yardımıyla dizinler. Bir takım buyruk kümesi ile adres dönüştürme önbelleği güncellenir. İşletim sistemi sayfa tablosundaki eşlenen gerçek adresleri adres dönüştürme önbelleğine yerleştirir. Eğer geçersiz bir gerçek adresle karşılaşılmışsa hata oluşur. Bir ADÖ’ de sayfa bulamama durumu en az 10, ortalama olarak da 16 çevrimlik bir gecikmeye neden olur. Donanım değiştirilmek sayfa için bir önerme dizini tutar ve bu dizinden rasgele bir kayıt seçilir.
+ADÖ’ de "koruma (protection)" sağlanması için yazma erişiminin denetimini sağlayan bir bit mevcuttur. Bu özellik, salt okunur sayfaların üzerine yazmayı engeller böyle bir istekle karşılaşıldığında da bir hata üretir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sayfa hatası denetimi</DOCTITLE>
+<TEXT>
+
+Sanal bellekte Sayfa hatası meydana geldiğinde çok yüksek bulamama gecikmesine neden olur. Sanal bellek sistemleri tasarlanırken bu durumun yaratacağı yükü engellemek için Sayfa hatası denetimi sağlanmalıdır. 
+Sayfa hatası meydana geldiğinde, yönetim işletim sistemine bırakılır. Bu devir kural dışı durum (hata) işleyişi (exception mechanism) ile gerçekleştirilir. Yönetim işletim sistemine geçtiğinde, sayfayı bir sonraki sıradüzende (genelde teker) bulmalı ve istenen sayfayı ana bellekte nereye koyacağına karar vermelidir. Sanal adres tek başına sayfanın tekerin neresinde olduğunu belirtmek için yeterli olmadığından, sanal adres uzayında bulunan her sayfanın tekerde izini sürmek gerekir. İşletim sistemi bu işlem için her sanal sayfanın tekerde nerede saklandığını kaydeden veri yapıları yaratır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek üzere ayrı bir veri yapısı daha oluşturur. Ana bellekteki tüm sayfalar kullanımdayken sayfa hatası oluşması durumunda, işletim sistemi bir sayfayı değiştirmek(takas yapmak) üzere seçmelidir. (Bkz: Sayfa değişimi )
+Eğer Adres Dönüştürme Önbelleğinde bir sayfa bulamama olayı "((ıska) (miss))" gerçekleşirse bunun nedeninin bir sayfa hatası mı yoksa sadece ADÖ’ den kaynaklanan bir sayfa bulamama (miss) mı olduğuna karar verilmelidir. Eğer sayfa bellekte mevcut ise sorunun ADÖ’ de bir dönüştürme hatasından ve eksikliğinden kaynaklandığı anlaşılır. Bu durumda işlemci sayfa tablosundaki adres dönüşümlerini Adres Dönüştürme Önbelleğine baştan yükleyerek, başvuruyu "(reference)" tekrar eder. ADÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil ise gerçek bir sayfa hatası "(page fault)" söz konusudur. Bu durumda işlemci, işletim sistemini kural dışı durum "(exception)" ile uyarır.
+Tarihçe.
+Birçok sistem sanal bellek kullanımından önce de belleğin birden çok izlence arasında paylaşımını sağlayabilecek yeteneğe sahipti. PDP-10 ‘un ilk modellerinde görülen taban ve sınır yazmaçlarını ( base and bounds registers) bu duruma örnek olarak gösterebiliriz. Bu yöntem her bir uygulamaya 0’dan başlayan özel bir adres uzayı ve bunun yanında adresin bellekte uygulama için ayrılan kısmında olup olmadığını denetleyen bir sınır yazmacının kullanımını içerir. Eğer yazmaç adresin ilgili kısma ait olduğunu onaylarsa, karşılık gelen taban yazmacı içeriğini de ana bellekteki adresi göstermek üzere işleme dâhil eder.
+Sanal bellek X86 mimarisine Intel’in I286 (80286) işlemcisinin güvenli biçimi (protected mode) ile tanıtıldı. Önceleri bölüm takası (segment swapping) ile gerçekleştirildi ancak büyük bölümlerde (segment) sorun yaratıyordu. Intel 80386 mevcut bölmelere ayırma katmanının altında işleyen Sayfalama(paging) yöntemini tanıttı. Artık sayfa hatası (page fault) diğer kural dışı durumlarla (exception) birlikte değerlendirilebilmekteydi.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sayfalama</DOCTITLE>
+<TEXT>
+
+Sayfalama durgun sanal bellek sayfalarının ikincil bellekte(teker) saklanarak daha sonra ihtiyaç duyulduğunda ana belleğe yüklenmesi işlemini içerir. 
+Sayfa ve Sayfa Düzeni.
+Günümüzde kullanılan sanal bellek sistemleri "alanda yerellik"ten yararlanabilmek için programları belirli boyutlarda blok kümeleri şeklinde yerleştirirler. Bu belirli boyutlardaki blok kümeleri (öbekleri) “sayfa” olarak adlandırılır. Ana belleğin sayfalarla aynı boyutlarda bloklardan oluştuğu varsayılır. Bu varsayım “sayfa çerçevesi” (page frame) olarak nitelendirilir.
+Sanal Adres Numarasının Gerçek Adres Numarasına Dönüştürülmesi.
+Ana bellekte kullanılan gerçek adres numarası, gerçek adresin üst bölümünü, sayfa eklemesi ise gerçek adresin alt bölümünü oluşturur. Sayfa eklemesindeki bitlerin sayısı sayfanın boyutunu belirler ve değişim göstermez. Sanal adreslerle adreslenebilen sayfa sayısı gerçek adreslerle adreslenen sayfa sayısı ile örtüşmek zorunda değildir; sanal sayfa sayısının gerçek sayfa sayısının üzerinde olması sınırsız boyuttaki bellek izlenimini yaratmada esas alınan noktadır. 
+Herhangi bir hatayla karşılaşılmadıkça olağan sanal adres dönüştürme işlemi şu şekilde yapılır:
+codice_1
+Sanal = Gerçek İşlemi.
+MVS, z/OS ve benzeri işletim sistemlerinde bazı kısımlar sanal=gerçek biçimine (virtual=real mode )sahiptirler; yani her sanal adres gerçek bir adrese karşılık gelmektedir.Bu kısımlar:
+Sayfa Tablosu.
+Sanal bellekte sayfalar, belleği dizinleyen bir tablo kullanılarak yerleştirilirler. Bu yapı “sayfa tablosu (page table)” olarak adlandırılır. Bellekte tutulan sayfa tablosu sanal bellek adresinin numarasına göre dizinlenmiştir ve ona karşılık gelen gerçek sayfa numarasını içerir. Her program, sanal adres uzayını, ana bellekteki bellek uzayına dönüştüren kendine ait bir sayfa tablosuna sahiptir. Sayfa tablosu, ana bellekte mevcut olmayan sayfaların kayıtlarını da tutabilir. Her sayfa tablosunda geçerli bit (1 veya 0 ) tutulur. Eğer bu bit mantıksal sıfıra eşit ise sayfa ana bellekte mevcut değil demektir ve “sayfa hatası (page fault)” oluşur. Eğer bit mantıksal bire işaret ediyorsa sayfa ana bellekte mevcut ve geçerli bir fiziksel adrese sahip demektir.
+Sayfa Hatası.
+Eğer başvurulan veri o anda ana bellekte bulunamıyorsa sayfa ana bellekte mevcut değil demektir ve “sayfa hatası (page fault)” oluşur. Sayfa hatası çok yüksek bulamama gecikmesine neden olur. Sanal bellek sistemleri tasarlanırken bu durumun yaratacağı yükü engellemek için bazı önlemler alınabilir.
+Sayfa Hatası Denetimi (Paging Supervisor) ve Sayfa Değişimi (Takas).
+Sayfa hatası meydana geldiğinde, yönetim işletim sistemine bırakılır. Bu devir "kural dışı durum (hata) işleyişi (exception mechanism)" ile gerçekleştirilir. Yönetim işletim sistemine geçtiğinde, sayfayı bir sonraki sıradüzende (genelde teker) bulmalı ve istenen sayfayı ana bellekte nereye koyacağına karar vermelidir. Sanal adres tek başına sayfanın tekerin neresinde olduğunu belirtmek için yeterli olmadığından, sanal adres uzayında bulunan her sayfanın tekerde izini sürmek gerekir. İşletim sistemi bu işlem için her sanal sayfanın tekerde nerede saklandığını kaydeden veri yapıları yaratır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek üzere ayrı bir veri yapısı daha oluşturur. Ana bellekteki tüm sayfalar kullanımdayken sayfa hatası oluşması durumunda, işletim sistemi bir sayfayı değiştirmek(takas yapmak) üzere seçmelidir. Sayfa hatalarının en aza indirilmesi amaçlandığından çoğu işletim sistemi yakın bir zamanda kullanılmayacağını varsaydığı bir sayfayı seçer. İşletim sistemlerin bu varsayımları geçmiş durum değerlendirmelerine dayanarak gelecek durumun tahmin edilmesine dayanır. Bu tahminlerde kullanılan algoritmaların başında "en uzun zamandır kullanılmayan"la değiştirme "(least recently used (LRU))" gelir. İşletim sistemi en uzun zamandır kullanılmayan sayfanın daha yakın bir zamanda kullanılan sayfadan daha az gerekli olduğu varsayımı yaparak uzun zamandır kullanılmayan sayfayı istenen sayfayla değiştirmek üzere seçer. 
+En uzun zamandır kullanılmayan yönteminin kusursuz ve eksiksiz olarak uygulanması veri yapısının her bellek başvurusunda güncellenmesini gerektireceğinden oldukça masraflıdır. Bunun yerine birçok işletim sisteminde hangi sayfaların yakın zamanda kullanılıp hangilerinin kullanılmadığına dair iz sürülür. İşletim sisteminin yükünü hafifletmek için donanımda başvuru biti (reference/use bit) tutulabilir. Bu bit sayfanın her kullanımında kurulur. İşletim sistemi belirli aralıklarla bu bitleri temizler ve hangi sayfaların kullanılıp kullanılmadığı bilgisinin kaydını tutar. Bu bilgi ışığında, işletim sistemi bir sayfa değiştireceği zaman en uzun zamandır kullanılmayan; yani başvuru bitleri mantıksal sıfıra eşit olan sayfalar arasından bir seçim yapar.
+Değiştirme (Takas) İçin Kullanılabilecek Diğer Algoritmalar.
+İlk Giren İlk Çıkar (First In First Out (FIFO)) 
+Değiştirilmek üzere seçilen sayfa bellekte en uzun zamandır tutulan; belleğe diğerlerinden önce yüklenen sayfadır.
+Son Giren İlk Çıkar (Last In First Out (LIFO)): 
+Değiştirilmek üzere seçilen sayfa bellekte en kısa zamandır tutulan; belleğe en yakın zamanda yüklenen sayfadır.
+En Az Sıklıkta Kullanılan (Least Frequently Used (LFU)):
+Değiştirilmek üzere seçilen sayfa o an için bellekte en az sıklıkta kullanıldığı belirlenen sayfadır.
+En Uygun (İdeal) (Optimal (OPT / MIN)):
+Değiştirilmek üzere seçilen sayfa uzun bir süreliğine kullanılmayacak olan sayfadır.
+Bu sayfanın belirlenmesi için algoritmanın gelecekteki başvuru (istek) durumları hakkında bilgi sahibi olması gerekmektedir ki genellikle bu bilgi mevcut değildir.
+Kalıcı ve Yerleşik Sayfalar.
+Tüm sanal bellek sistemleri hareketsiz kılınmış; yani burada bulunan sayfaların sayfa değişimi için seçilip ikincil belleğe gönderilemeyeceği alanlara sahiptir. 
+Ayrıca Bkz.
+Sanal bellek
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Etkin sayfalar önbelleği</DOCTITLE>
+<TEXT>
+
+Etkin sayfalar önbelleği (ESÖ) "(Translation Lookaside Buffer (TLB))" sanal bellek kullanan işlemcilerde adres dönüştürme işleminin hızlandırılmasını sağlayan bir tekniktir.
+Programın belleğe ulaşması önce fiziksel adrese ve daha sonra veriye ulaşmasıyla mümkündür. Bu yüzden başarımın arttırılmasında "alanda yerellik" özelliğinden yararlanılır. Sanal bir sayfanın adresi dönüştürüldüğünde sayfadaki öbeklere ulaşımın tekrarı ve dolayısıyla o dönüşümün yakın bir zamanda tekrar kullanılma ihtimali yüksektir. Günümüz makineleri yakın zamanda kullanılan sayfa tablosu satırlarını tutan ve adres dönüşümlerinin izini süren bir önbelleğe sahiptir. Bu özel yapıya Etkin sayfalar önbelleği (ESÖ) adı verilir.
+Etkin sayfalar önbelleği sadece sayfa tablosu eşleştirmelerini tutan bir önbellektir. Sayfa bulma olayı gerçekleştiğinde gerçek adres numarası adresin yapılandırılması için kullanılır ve karşılık gelen bit mantıksal bire işaret eder. Eğer ESÖ’ de bir sayfa bulamama olayı gerçekleşirse bunun nedeninin bir sayfa hatası mı yoksa sadece ESÖ’ den kaynaklanan bir sayfa bulamama (miss) mı olduğuna karar verilmelidir. Eğer sayfa bellekte mevcut ise sorunun ESÖ’ de bir dönüştürme hatasından ve eksikliğinden kaynaklandığı anlaşılır. Bu durumda işlemci sayfa tablosundaki adres dönüşümlerini Etkin sayfalar önbelleğine baştan yükleyerek, "başvuruyu (reference)" tekrar eder. ESÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil ise gerçek bir sayfa hatası söz konusudur. Bu durumda işlemci, işletim sistemini kural dışı durum ile uyarır.
+Etkin sayfalar önbelleği, diğer sıradan önbellekler gibi" tam ilişkili, kümeli ilişkili" ya da "doğrudan eşlemeli" olarak tasarlanabilir.
+Etkin sayfalar önbellekleri çoğunlukla küçüktür, satır sayısı çok hızlı bilgisayarlarda bile 128-256’yı geçmediğinden bu önbelleklerde karmaşık olan "tam ilişkili arama"nın masrafı fazla değildir. Çoğu orta düzey işlemcide küçük n yollu kümeli ilişkili düzen kullanılır. ESÖ kullanan bilgisayarlar önbellek erişimi için gereken çevrim sayısını azaltmak için önbellek erişimini ESÖ erişimi ile koşut olarak (aynı anda, eşzamanlı) yapar. Bu yöntem ile sanal adreslerin sayfa numaraları ESÖ’ de arama işlemi için kullanılırken sayfa eklemesi kısmı önbellek erişiminde dizin olarak görev yapar.
+Eşzamanlı ESÖ ve Önbellek Erişiminin Sorunları.
+Eş zamanlı erişim ancak önbelleğe dizin olarak gönderilen bitler sanal adres dönüştürmesi sırasında değişmezse işe yarar. Bu durum küçük önbellekler, büyük sayfa boyutları ya da yüksek n yollu kümeli ilişkili önbellekler kullanma gereksinimini doğurur.
+Sanal Bellek, Etkin sayfalar önbelleği (ESÖ) ve Önbellek.
+En iyi koşullarda bir sanal adres ESÖ tarafından dönüştürülerek önbelleğe yollanır ve ilgili veri bulunur, getirilir ve daha sonra işlemciye geri gönderilir. En kötü durumda ise "başvuru (reference)" sıradüzendeki bu üç yapıda da; yani ESÖ, sayfa tablosu ve önbellekte bulunamaz. 
+MIPS R2000 Etkin sayfalar önbelleği (ESÖ) (Translation Lookaside Buffer (TLB)).
+DECStation 3100’de kullanılan MIPS R2000 her ne kadar basit bir uygulamaya sahip olsa da özyapısı günümüz Etkin sayfalar belleklerininkine çok benzerdir. Bellek sistemi 
+4-KB sayfalar ve 32-bitlik adres uzayına sahiptir. Dolayısıyla, sanal sayfa numaraları 20 bit uzunluktadır. Sanal adres ile gerçek adres aynı boyutlara sahiptir. Etkin sayfalar önbelleği (ESÖ) 64 kayıt tutabilir ve tam eşlemelidir. ESÖ buyruk ve veri başvuruları tarafından paylaşılır. Her kayıt 64 bit genişliğindedir ve 20 bitlik etikete sahiptir ki bu etiket kaydın ESÖ’ de tutulan sanal sayfa numarasıdır. Sanal sayfa numarasına karşılık gelen gerçek sayfa numarası da 20 bit uzunluğundadır ve geçerli bit, kirli bit gibi sayman bitlerine yer verir.
+Bir ESÖ sayma bulamama durumu meydana geldiğinde, MIPS donanımı başvurunun sayfa numarasını özel bir yazmaca kaydeder ve kural dışı durum üretir. Kural dışı durum işletim sistemini uyararak sorunun yazılım katmanında halledilmesini sağlar. Bulunamayan sayfanın gerçek adresini bulmak için ESÖ sayfa tablosunu sanal adres numarası ve yürürlükte olan sayfa tablosunun başlangıç adresini tutan yazmaç yardımıyla dizinler. Bir takım buyruk kümesi ile etkin sayfalar önbelleği güncellenir. İşletim sistemi sayfa tablosundaki eşlenen gerçek adresleri etkin sayfalar önbelleğine yerleştirir. Eğer geçersiz bir gerçek adresle karşılaşılmışsa hata oluşur. Bir ESÖ’ de sayfa bulamama durumu en az 10, ortalama olarak da 16 çevrimlik bir gecikmeye neden olur. Donanım değiştirilmek sayfa için bir önerme dizini tutar ve bu dizinden rasgele bir kayıt seçilir.
+ESÖ’ de "koruma (protection)" sağlanması için yazma erişiminin denetimini sağlayan bir bit mevcuttur. Bu özellik, salt okunur sayfaların üzerine yazmayı engeller böyle bir istekle karşılaşıldığında da bir hata üretir. 
+Ayrıca bakınız.
+Sanal bellek
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sanal bellek</DOCTITLE>
+<TEXT>
+
+Sanal bellek, fiziksel belleğin görünürdeki miktarını arttırarak uygulama programına (izlence) fiziksel belleğin boyutundan bağımsız ve sürekli bellek alanı sağlayan bilgisayar tekniğidir. Ana belleğin, "tekerin (ikincil saklama)" "önbelleği (cache)" gibi davranmasıyla; yani teker yüzeyini belleğin bir uzantısıymış gibi kullanmasıyla gerçekleştirilir. Ancak gerçekte, yalnızca o anda ihtiyaç duyulan veri tekerden ana belleğe aktarılıyor olabilir. Günümüzde genel amaçlı bilgisayarların işletim sistemleri çoklu ortam uygulamaları, sözcük işlemcileri, tablolama izlenceleri gibi sıradan uygulamalar için sanal bellek yöntemi kullanılmaktadır. 
+Sanal bellek kullanımı.
+1980lerin DOS’u veya 1960ların anabilgisayar işletim sistemleri gibi daha eski işletim sistemlerinde bu işlev bulunmamaktadır. Gömülü sistemlerde ve bazı özel amaçlı bilgisayar sistemlerinde hızlı ve uyumlu tepki zamanı gerektiğinden genellikle sanal bellek kullanılmaz.
+Sanal bellek kullanımının iki temel gerekçesi vardır:
+Sanal Belleğin Gerçekleştirilmesi.
+Sanal bellek tekniğiyle, "Merkezi İşlem Birimi (Central Processing Unit)" bir “sanal adres (mantıksal adres)” üretir. Sanal adreslerin oluşturduğu kümeye “adres uzayı” denir. Yazılım ve donanımın birlikte çalışmasıyla bu sanal adres, ana belleğe ulaşmak için kullanılacak bir gerçek (fiziksel) adrese dönüştürülür. Bu işleme “adres dönüştürme” (memory mapping / address translation) denir. Gerçek adreslerin oluşturduğu kümeye ise “bellek uzayı” denir.
+Yerleştirme.
+Sanal bellek, programların çalıştırılmak üzere yüklenmesinde “yerleştirme (relocation)” tekniğini kullanarak kolaylık sağlar. Yerleştirmede programın kullandığı sanal adresler, ana belleğe erişimden önce farklı gerçek adreslere yönlendirilirler. Bu işlem, programı yüklerken ana belleğin herhangi bir yerini kullanabilmemizi sağlar.
+Sayfalama.
+Sayfalama durgun sanal bellek sayfalarının ikincil bellekte(teker) saklanarak daha sonra ihtiyaç duyulduğunda ana belleğe yüklenmesi işlemini içerir. 
+Sayfa ve Sayfa Düzeni.
+Günümüzde kullanılan sanal bellek sistemleri "alanda yerellik"ten yararlanabilmek için programları belirli boyutlarda blok kümeleri şeklinde yerleştirirler. Bu belirli boyutlardaki blok kümeleri (öbekleri) “sayfa” olarak adlandırılır. Ana belleğin sayfalarla aynı boyutlarda bloklardan oluştuğu varsayılır. Bu varsayım “sayfa çerçevesi” (page frame) olarak nitelendirilir.
+Sanal Adres Numarasının Gerçek Adres Numarasına Dönüştürülmesi.
+Ana bellekte kullanılan gerçek adres numarası, gerçek adresin üst bölümünü, sayfa eklemesi ise gerçek adresin alt bölümünü oluşturur. Sayfa eklemesindeki bitlerin sayısı sayfanın boyutunu belirler ve değişim göstermez. Sanal adreslerle adreslenebilen sayfa sayısı gerçek adreslerle adreslenen sayfa sayısı ile örtüşmek zorunda değildir; sanal sayfa sayısının gerçek sayfa sayısının üzerinde olması sınırsız boyuttaki bellek izlenimini yaratmada esas alınan noktadır. 
+Herhangi bir hatayla karşılaşılmadıkça olağan sanal adres dönüştürme işlemi şu şekilde yapılır:
+codice_1
+Sanal = Gerçek İşlemi.
+MVS, z/OS ve benzeri işletim sistemlerinde bazı kısımlar sanal=gerçek biçimine (virtual=real mode )sahiptirler; yani her sanal adres gerçek bir adrese karşılık gelmektedir.Bu kısımlar:
+Sayfa Tablosu.
+Sanal bellekte sayfalar, belleği dizinleyen bir tablo kullanılarak yerleştirilirler. Bu yapı “sayfa tablosu (page table)” olarak adlandırılır. Bellekte tutulan sayfa tablosu sanal bellek adresinin numarasına göre dizinlenmiştir ve ona karşılık gelen gerçek sayfa numarasını içerir. Her program, sanal adres uzayını, ana bellekteki bellek uzayına dönüştüren kendine ait bir sayfa tablosuna sahiptir. Sayfa tablosu, ana bellekte mevcut olmayan sayfaların kayıtlarını da tutabilir. Her sayfa tablosunda geçerli bit (1 veya 0 ) tutulur. Eğer bu bit mantıksal sıfıra eşit ise sayfa ana bellekte mevcut değil demektir ve “sayfa hatası (page fault)” oluşur. Eğer bit mantıksal bire işaret ediyorsa sayfa ana bellekte mevcut ve geçerli bir fiziksel adrese sahip demektir.
+Sayfa Hatası.
+Eğer başvurulan veri o anda ana bellekte bulunamıyorsa sayfa ana bellekte mevcut değil demektir ve “sayfa hatası (page fault)” oluşur. Sayfa hatası çok yüksek bulamama gecikmesine neden olur. Sanal bellek sistemleri tasarlanırken bu durumun yaratacağı yükü engellemek için bazı önlemler alınabilir.
+Sayfa Hatası Denetimi (Paging Supervisor) ve Sayfa Değişimi (Takas).
+Sayfa hatası meydana geldiğinde, yönetim işletim sistemine bırakılır. Bu devir "kural dışı durum (hata) işleyişi (exception mechanism)" ile gerçekleştirilir. Yönetim işletim sistemine geçtiğinde, sayfayı bir sonraki sıradüzende (genelde teker) bulmalı ve istenen sayfayı ana bellekte nereye koyacağına karar vermelidir. Sanal adres tek başına sayfanın tekerin neresinde olduğunu belirtmek için yeterli olmadığından, sanal adres uzayında bulunan her sayfanın tekerde izini sürmek gerekir. İşletim sistemi bu işlem için her sanal sayfanın tekerde nerede saklandığını kaydeden veri yapıları yaratır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek üzere ayrı bir veri yapısı daha oluşturur. Ana bellekteki tüm sayfalar kullanımdayken sayfa hatası oluşması durumunda, işletim sistemi bir sayfayı değiştirmek(takas yapmak) üzere seçmelidir. Sayfa hatalarının en aza indirilmesi amaçlandığından çoğu işletim sistemi yakın bir zamanda kullanılmayacağını varsaydığı bir sayfayı seçer. İşletim sistemlerin bu varsayımları geçmiş durum değerlendirmelerine dayanarak gelecek durumun tahmin edilmesine dayanır. Bu tahminlerde kullanılan algoritmaların başında "en uzun zamandır kullanılmayan"la değiştirme "(least recently used (LRU))" gelir. İşletim sistemi en uzun zamandır kullanılmayan sayfanın daha yakın bir zamanda kullanılan sayfadan daha az gerekli olduğu varsayımı yaparak uzun zamandır kullanılmayan sayfayı istenen sayfayla değiştirmek üzere seçer. 
+En uzun zamandır kullanılmayan yönteminin kusursuz ve eksiksiz olarak uygulanması veri yapısının her bellek başvurusunda güncellenmesini gerektireceğinden oldukça masraflıdır. Bunun yerine birçok işletim sisteminde hangi sayfaların yakın zamanda kullanılıp hangilerinin kullanılmadığına dair iz sürülür. İşletim sisteminin yükünü hafifletmek için donanımda başvuru biti (reference/use bit) tutulabilir. Bu bit sayfanın her kullanımında kurulur. İşletim sistemi belirli aralıklarla bu bitleri temizler ve hangi sayfaların kullanılıp kullanılmadığı bilgisinin kaydını tutar. Bu bilgi ışığında, işletim sistemi bir sayfa değiştireceği zaman en uzun zamandır kullanılmayan; yani başvuru bitleri mantıksal sıfıra eşit olan sayfalar arasından bir seçim yapar.
+Kalıcı ve Yerleşik Sayfalar.
+Tüm sanal bellek sistemleri hareketsiz kılınmış; yani burada bulunan sayfaların sayfa değişimi için seçilip ikincil belleğe gönderilemeyeceği alanlara sahiptir. 
+Yazmalar.
+Bir sanal bellek sisteminde, bir sonraki sıradüzene tümüne yazmanın(write-through) yaratacağı gecikme çok büyük olduğundan bunu karşılamak bir ara bellekle sağlanamaz. Bunun yerine, geri yazma (write-back) yöntemi kullanılır. Bellekte sadece bir sayfa yenisiyle değiştirildiğinde sadece o sayfa kopyalanır. Burada kullanılan teknik bir alt seviyedeki sıradüzene yazma tekniğine geri kopyalama(copy back) benzerdir. 
+İkincil bellekten (teker) aktarma zamanı, ikincil belleğe ulaşım zamanına göre çok daha kısa olduğundan kopyalamanın tek bir öbek yerine tüm bir sayfa için yapılması daha etkin bir çözüm oluşturmaktadır. Geri yazma yöntemi bu konu göz önünde bulundurularak tasarlanmalıdır. Değiştirmek üzere seçilen sayfanın geri kopyalanması gerekip gerekmediği denetlenerek yazmanın bu bilgiye göre yapılması verimliliği daha da arttıracaktır. Bir sayfanın bellekte okunduktan sonra değiştirilip değiştirilmediğinin izi sayfa tablosuna eklenen bir bit sayesinde sürülebilir. Bu bite kirli bit (dirty bit) adı verilir. Sayfa ilk yazıldığında bu bit kurulur. İşletim sistemi sayfayı değiştirmek üzere seçtiğinde kirli bit sayfanın yerine yenisi getirilmeden önce yazılması gerekip gerekmediğini gösterir.
+Adres Dönüştürme İşleminin Hızlandırılması.
+Adres Dönüştürme Önbelleği (ADÖ) (Translation Lookaside Buffer (TLB)).
+Programın belleğe ulaşması önce fiziksel adrese ve daha sonra veriye ulaşmasıyla mümkündür. Bu yüzden başarımın arttırılmasında "alanda yerellik" özelliğinden yararlanılır. Sanal bir sayfanın adresi dönüştürüldüğünde sayfadaki öbeklere ulaşımın tekrarı ve dolayısıyla o dönüşümün yakın bir zamanda tekrar kullanılma ihtimali yüksektir. Günümüz makineleri yakın zamanda kullanılan sayfa tablosu satırlarını tutan ve adres dönüşümlerinin izini süren bir "önbelleğe (cache)" sahiptir. Bu özel yapıya Adres Dönüştürme Önbelleği (ADÖ) (Translation Lookaside Buffer (TLB))
+adı verilir.
+Adres Dönüştürme Önbelleği sadece sayfa tablosu eşleştirmelerini tutan bir önbellektir. Sayfa bulma olayı ((vuruş) (hit)) gerçekleştiğinde gerçek adres numarası adresin yapılandırılması için kullanılır ve karşılık gelen bit mantıksal bire işaret eder. Eğer ADÖ’ de bir sayfa bulamama olayı ((ıska)(miss)) gerçekleşirse bunun nedeninin bir sayfa hatası mı yoksa sadece ADÖ’ den kaynaklanan bir sayfa bulamama (miss) mı olduğuna karar verilmelidir. Eğer sayfa bellekte mevcut ise sorunun ADÖ’ de bir dönüştürme hatasından ve eksikliğinden kaynaklandığı anlaşılır. Bu durumda işlemci sayfa tablosundaki adres dönüşümlerini Adres Dönüştürme Önbelleğine baştan yükleyerek, "başvuruyu (reference)" tekrar eder. ADÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil ise gerçek bir sayfa hatası (page fault) söz konusudur. Bu durumda işlemci, işletim sistemini "kural dışı durum (exception)" ile uyarır.
+Eşzamanlı ADÖ ve Önbellek Erişimi.
+Adres Dönüştürme Önbelleği (ADÖ), diğer sıradan önbellekler gibi" tam ilişkili, kümeli ilişkili" ya da "doğrudan eşlemeli" olarak tasarlanabilir.
+Adres Dönüştürme Önbellekleri çoğunlukla küçüktür, satır sayısı çok hızlı bilgisayarlarda bile 128-256’yı geçmediğinden bu önbelleklerde karmaşık olan tam ilişkili aramanın masrafı fazla değildir. Çoğu orta düzey işlemcide küçük n yollu kümeli ilişkili düzen kullanılır. ADÖ kullanan bilgisayarlar önbellek erişimi için gereken çevrim sayısını azaltmak için önbellek erişimini ADÖ erişimi ile koşut olarak (aynı anda, eşzamanlı) yapar. Bu yöntem ile sanal adreslerin sayfa numaraları ADÖ’ de arama işlemi için kullanılırken sayfa eklemesi kısmı önbellek erişiminde dizin olarak görev yapar.
+Eşzamanlı ADÖ ve Önbellek Erişiminin Sorunları.
+Eş zamanlı erişim ancak önbelleğe dizin olarak gönderilen bitler sanal adres dönüştürmesi sırasında değişmezse işe yarar. Bu durum küçük önbellekler, büyük sayfa boyutları ya da yüksek n yollu kümeli ilişkili önbellekler kullanma gereksinimini doğurur.
+Sanal Bellek, Adres Dönüştürme Önbelleği (ADÖ) ve Önbellek.
+En iyi koşullarda bir sanal adres ADÖ tarafından dönüştürülerek önbelleğe yollanır ve ilgili veri bulunur, getirilir ve daha sonra işlemciye geri gönderilir. En kötü durumda ise "başvuru (reference)" sıradüzendeki bu üç yapıda da; yani ADÖ, sayfa tablosu ve önbellekte bulunamaz. 
+MIPS R2000 Adres Dönüştürme ÖnBelleği (ADÖ).
+DECStation 3100’de kullanılan MIPS R2000 her ne kadar basit bir uygulamaya sahip olsa da özyapısı günümüz adres dönüştürme belleklerininkine çok benzerdir. Bellek sistemi 
+4-KB sayfalar ve 32-bitlik adres uzayına sahiptir. Dolayısıyla, sanal sayfa numaraları 20 bit uzunluktadır. Sanal adres ile gerçek adres aynı boyutlara sahiptir. Adres dönüştürme önbelleği (ADÖ) 64 kayıt tutabilir ve tam eşlemelidir. ADÖ buyruk ve veri başvuruları tarafından paylaşılır. Her kayıt 64 bit genişliğindedir ve 20 bitlik etikete sahiptir ki bu etiket kaydın ADÖ’ de tutulan sanal sayfa numarasıdır. Sanal sayfa numarasına karşılık gelen gerçek sayfa numarası da 20 bit uzunluğundadır ve geçerli bit, kirli bit gibi sayman bitlerine yer verir.
+Bir ADÖ sayma bulamama durumu meydana geldiğinde, MIPS donanımı başvurunun sayfa numarasını özel bir yazmaca kaydeder ve" kural dışı durum (exception)" üretir. Kural dışı durum işletim sistemini uyararak sorunun yazılım katmanında halledilmesini sağlar. Bulunamayan sayfanın gerçek adresini bulmak için ADÖ sayfa tablosunu sanal adres numarası ve yürürlükte olan sayfa tablosunun başlangıç adresini tutan yazmaç yardımıyla dizinler. Bir takım buyruk kümesi ile adres dönüştürme önbelleği güncellenir. İşletim sistemi sayfa tablosundaki eşlenen gerçek adresleri adres dönüştürme önbelleğine yerleştirir. Eğer geçersiz bir gerçek adresle karşılaşılmışsa hata oluşur. Bir ADÖ’ de sayfa bulamama durumu en az 10, ortalama olarak da 16 çevrimlik bir gecikmeye neden olur. Donanım değiştirilmek sayfa için bir önerme dizini tutar ve bu dizinden rasgele bir kayıt seçilir.
+ADÖ’ de "koruma (protection)" sağlanması için yazma erişiminin denetimini sağlayan bir bit mevcuttur. Bu özellik, salt okunur sayfaların üzerine yazmayı engeller böyle bir istekle karşılaşıldığında da bir hata üretir.
+Sanal Bellek Tasarımında Temel Sorunlar.
+Sanal bellek tasarımında göz önünde bulundurulması gereken temel noktalar:
+Tarihçe.
+Sanal belleğin geliştirilmesinden önceki dönemlerde (1940 ve 50’ler) büyükçe "izlenceler (program)", iki seviyeli saklamayı gerçekleştirebilmek için "üstyazım (overlaying)" yöntemleri gibi mantıksal çıkarımlara ihtiyaç duymaktaydı. İzlenceler "üst ek sayfaları (overlay)" birincil ve ikincil bellek arasında taşımakla görevliydi.
+Sanal belleği bilişim dünyasına tanıtmanın temel gerekçesi birincil belleği genişletmek değil bu genişlemeleri yazılımcılar tarafından kolay kullanılabilir hale getirmekti. 
+Birçok sistem sanal bellek kullanımından önce de belleğin birden çok izlence arasında paylaşımını sağlayabilecek yeteneğe sahipti. PDP-10 ‘un ilk modellerinde görülen "taban ve sınır yazmaçlarını ( base and bounds registers)" bu duruma örnek olarak gösterebiliriz. Bu yöntem her bir uygulamaya 0’dan başlayan özel bir adres uzayı ve bunun yanında adresin bellekte uygulama için ayrılan kısmında olup olmadığını denetleyen bir sınır yazmacının kullanımını içerir. Eğer yazmaç adresin ilgili kısma ait olduğunu onaylarsa, karşılık gelen taban yazmacı içeriğini de ana bellekteki adresi göstermek üzere işleme dâhil eder. Bu sanal bellek kullanılmadan "bölümlere ayırmanın (segmentation)" basit bir biçimidir. 
+Sanal bellek 1952-1962 yılları arasında Manchester Üniversitesi’nde Atlas Bilgisayar için geliştirilmiş ve 1962 yılında tamamlanmıştır. Ancak Almanya’nın öncü bilgisayar bilimcilerinden ve Telefunken TR440 anabilgisayarının geliştiricisi olan "Fritz-Rudolf Güntsch" sanal bellek kavramını 1957 yılında doktora tezinde "((Logischer Entwurf eines digitalen Rechengerätes mit mehreren asynchron laufenden Trommeln und automatischem Schnellspeicherbetrieb (Sayısal çoklu zamanuyumsuz tambura(bazı tip makineli tüfeklerde ve tepkisiz toplarda, içerisine mermi konulan silindir şeklindeki şarjör) saklama ve özdevimli hızlı bellek biçimli bilgisayar düzeni mantık kavramı)( Logic Concept of a Digital Computing Device with Multiple Asynchronous Drum Storage and Automatic Fast Memory Mode ) )" kendisinin yarattığını iddia etmiştir.
+1961’de "Burroughs," sanal belleğe sahip ilk ticari bilgisayarı olan B5000’i piyasaya sürdü. Sistem "sayfalama (paging)" yerine "bölümlere ayırma (segmentation)" kullanmaktaydı.
+Bilgisayar bilimi tarihindeki birçok teknoloji gibi sanal belleğin benimsenmesi de birçok güçlüklerle karşılaştı. Anabilgisayarların işletim sistemlerinde uygulanmasından önce karşılaşılan birçok sorunla baş etmek için çeşitli modeller, deneyler ve kuramların geliştirilmesi gerekti. "Devingen adres dönüşümleri" özelleştirilmiş, pahalı ve kurulumu zor donanımı ve belleğe erişimi kısmen yavaşlatması en büyük sorunlarıydı. Ayrıca tüm sistemi kapsayan uygulama ve algoritmaların ikincil belleği kullanmasındaki etkinliği düşüreceğine dair endişeler bulunmaktaydı. 
+1969’a gelindiğinde sanal belleğin ticari bilgisayarlarda kullanımına dair tartışmalar da sona ermişti. "David Sayre"’nin liderliğindeki bir IBM araştırma grubu sanal belleğin diğer sistemlerden çok daha iyi çalıştığını ortaya koydu.
+Sanal belleği tanıtan ilk "minibilgisayar(minicomputer)" Norveç üretimi NORD-1 oldu.1970ler boyunca, VAX modelleri başta olmak üzere başka minibilgisayarlar da sanal belleği uygulamaya koydu.
+Sanal bellek "X86 mimarisi"ne Intel’in I286 (80286) işlemcisinin "güvenli biçimi (protected mode)" ile tanıtıldı. Önceleri "bölüm takası (segment swapping)" ile gerçekleştirildi ancak büyük "bölümlerde (segment)" sorun yaratıyordu. Intel 80386 mevcut bölmelere ayırma katmanının altında işleyen "sayfalama(paging)" yöntemini tanıttı. Artık "sayfa hatası (page fault)" diğer "kural dışı durumlarla (exception)" birlikte değerlendirilebilmekteydi.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bellek adresleme</DOCTITLE>
+<TEXT>
+
+Diğer tabiriyle 'sayfalama'.
+Tanım.
+Ön Bilgi: Mikroişlemcili örnek bir RAM, ROM ve G/Ç adres sahalarının da dahil olduğu toplam adres uzayının gösterilmesinde kullanılan sisteme bellek haritası denir. CPU bellekte okuma veya yazma yapacağı zaman ilk önce sadece tek bir bellek alanı veya G/Ç elemanı seçmek için ilgili adresi adres yoluna koyar. Çoğu 8-bitlik işlemciler 16-bitlik adres yoluna sahip olduğundan, 65536 değişik adresi tanımlayabilirler. Bu adres sahası 0000H ile FFFFH arasında olup, işlemcinin adresleme uzayını gösterir.
+Tanım: Adres uzayının belli oranlarda bloklara ayrılmasına bellek adresleme (sayfalama) denir. Sayfalama, bellek mahallerine ulaşımı ve adreslemeyi kolaylaştırır. 6502 mikroişlemcili bir sistemde 65536'lık adres uzayı 256 adet 256 Baytlık hayalı sayfalara ayrılır. Genelde 6502 işlemcili sitemlerde 1. sayfa yığın olarak ayrılırken 0. sayfaya bakış tabloları veya veri blokları yerleştirilir. 
+Sistemde 0000H ile FFFFH arasındaki 1KB'lık alan, kullanıcının ve sistem programının kullandığı RAM bölgesidir. 0400H ile 04FFH alanı sistemde olabilecek 256 değişik (PIA ve ACIA) giriş/çıkış elemanının adreslenmesine ayrılmıştır.Adres uzayının en üst kısımları, F800H ile FFFFH arasındaki alanı kaplayan 2KB ise, monitör programının bulunduğu ROM bölgesidir. Adres uzayındaki geri kalan alanlar boş tutulur.
+Adresleme Modları.
+Başlıca adresleme modları şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Broadcast adres</DOCTITLE>
+<TEXT>
+
+Broadcast adres, ağlar arası iletişimde, gönderilen bilgi paketinin çoklu erişime bağlı tüm cihazlar tarafından alınmasının istendiğini belirten özel bir adrestir. Bilgisayarların broadcast adresine gönderilen mesaj spesifik olarak tek bir bilgisayar tarafından alınmaz, mesaj ağa bağlı tüm bilgisayarlar tarafından alınır.
+IP Ağlarda.
+IPv4 ağlarda, broadcast adresler bilgisayarların kimlik adresleri tarafından geleneksel olarak bir IP adresinin dinlenmesini içerir.Tüm alanlarda standart bir broadcast adres kullanmak için RFC 919 belirlenmiştir.Broadcast adres yöntemi ilk kez 1982 yılında R.Gurwitz ve R.Hinden tarafından önerilmiştir. 
+Broadcast adresi bulmak için alt ağ maskesini bitsel olarak yazıyoruz.Daha sonra alt ağ maskesindeki bu bitlerden sıfır olanları bir, bir olanları sıfır yapıp bilgisayarımızın IPv4 adresi ile bitsel olarak OR işlemine tabi tutuyoruz.Elde etmiş olduğumuz adres broadcast adres olmuş oluyor.
+Örnek: IP adresi 172.16.0.0/12 ise bu IP için alt ağ maskesi(subnet mask) 255.240.0.0 şeklinde, broadcast adres 172.16.0.0 | 0.15.255.255 = 172.31.255.255 şeklindedir.
+Özel tanımlı IP adresleri için broadcast adres olarak 255.255.255.255 kullanılır.İnternet protokol standartların da IP adresi olarak sıfır veya 0.0.0.0 şeklinde belirtilen IP adresleri içinde bulunulan(yerel) IP ağını ifade etmektedir.255.255.255.255 IP adresi içinde bulunulan(yerel) ağa broadcast için kullanılır.Bu adresleri bir başka ağa iletmek sınırlandırılmıştır yani yerel ağdaki bir bilgisayar yönlendiriciye bağlanıp bir başka ağa bu adresi iletemez.
+IP broadcastler BOOTP ve DHCP istemcileri bulmak ve onların ilgili sunucularına istek göndermek için kullanılır.
+Internet Protocol Version 6, yeni nesil internet protokolünde, broadcast metodu gerçekleştirilmedi, bu yüzden broadcast adres tanımlanmaz.Bunun yerine IPv6 da multicast adres kullanılır.IPv6 protokollerinde tüm hostların adresini kullanmak için bir tanımlama olmamasına rağmen, bunun yerine link-local multicast adres kullanılır.Sonuçta bu yöntem daha verimlidir çünkü IPv6 protokolünde adres uzayı çok büyük olduğu için broadcast adres yerine multicast adres kullanmak daha iyi sonuç verecektir.
+Ethernet.
+Ethernet ağlarda ayrıca data link katmanı temelinde broadcast adres kullanmak mümkündür.LAN segmenti üzerinde tüm bilgisayarların MAC adres lerine ulaşmak için FF:FF:FF:FF:FF:FF kullanılır.IP broadcast paketlerini içeren Ethernet çerçeveleri genellikle bu adrese gönderilir.
+Ethernet broadcastler IP adresini MAC adresine çevirmek için Address Resolution Protocol(Adres Çözümleme Protokolu) kullanır.
+IPX Ağlarda.
+Novell firmasının kullandığı IPX protokolü de broadcast sağlar.Ağ adresi FFFFFFFF olarak belirtildiğinde, bir paket mevcut tüm ağları gönderilir.Hedef node adresi FFFFFFFFFFFF olarak belirtildiği zaman, paket, ağındaki tüm ana bilgisayar tarafından alınmak üzere tasarlanmıştır.
+
+</TEXT>
+</DOC>
+

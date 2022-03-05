@@ -1,0 +1,1002 @@
+Geography Factoid Questions||||||
+Question|Focus|Mod|Coarse Class|Fine Class|Answer|
+1. İzmir İktisat kongresi ne zaman yapılmıştır?|zaman yapılmıştır||TEMPORAL|DATE|1923|
+1907 yılında Çin'de meydana gelen kuraklık sonucu kaç kişi açlıktan etkilenmiştir?|kişi||NUMERIC|SIZE.POPULATION|24 Milyon|
+1950 yılında Dünya genelinde kişi başına düşen milli gelir ne kadardır?|milli gelir kadardır||NUMERIC|MONEY|1,671$|
+1950-2010 yılları arasında nüfus en fazla hangi kıtalarda toplanmıştır?|kıtalarda||LOCATION|CONTINENT|Asya ve Avrupa|
+1950-2010 yılları arasında nüfusun artışındaki değişikliklerin en önemli sebebi nedir?|sebebi|en önemli|DESCRIPTION|REASON|İnsanların yaşam düzeylerinin yükselmesi|
+1955 yılında 5500 kişinin öldüğü deprem nerede gerçekleşmiştir?|gerçekleşmiştir||LOCATION|LOCATION|Kobe şehrinde|
+1960 yılında Dünya üzerinde yaklaşık kaç kişi şehirlerde yaşıyordu?|kişi|yaklaşık|NUMERIC|SIZE.POPULATION|1 Milyar/1000000000/1.000.000.000|
+1965-1967 yılları arasında Hindistan'da hüküm süren kuraklık sonucu kaç kişi hayatını kaybetmiştir?|kişi||NUMERIC|COUNT|1.5 Milyon/1500000/1.500.000|
+1972 yılındaki Dünya Doğal ve Kültürel Mirası Koruma Konvansiyonu kaç maddeden oluşur?|maddeden||NUMERIC|COUNT|38|
+2006 yılında Dünyadaki toplam turist sayısı ne kadar olarak hesaplanmıştır?|kadar olarak||NUMERIC|SIZE.POPULATION|842 Milyon/842000000/842.000.000|
+2007 yılına kadar yapılan nüfus sayımlarında hangi yasak uygulanmıştır?|yasak||ENTITY|OTHERS|Sokağa çıkma yasağı|
+2010 yılı verilerine göre ülkemizdeki otoyol uzunluğu ne kadardır?|otoyol uzunluğu kadardır||NUMERIC|SIZE.LENGTH|2080 km|
+2010 yılına göre dünyadaki nüfus artış oranı kaçtır?|nüfus artış oranı||NUMERIC|PERCENTAGE|11.40%|
+23 Eylül, Kuzey yarım kürede hangi mevsimin başlangıcıdır?|mevsimin||TEMPORAL|SEASON|Sonbahar|
+230-271 güney enlemin diğer adı nedir?|adı|diğer|ENTITY|OTHERS|Oğlak dönencesi|
+230-271 kuzey enleminin özel adı nedir?|adı|özel|ENTITY|OTHERS|Yengeç dönencesi|
+3. ve 4. Jeolojik zamanda oluşmuş, günümüzde yetişmesi imkansız bitkilere ne denir?|bitkilere denir||DESCRIPTION|DEFINITION|Relikt|
+900 güney paralelinin özel adı nedir?|adı|özel|ENTITY|OTHERS|Güney kutup noktası|
+ABD ikinci dünya savaşında hangi şehirlere atom bombası atmıştır?|şehirlere||LOCATION|CITY|Hiroşima Nagazaki|
+ABD kaç eyaletten oluşmaktadır?|eyaletten||NUMERIC|COUNT|50|
+ABD Ulusal parkı hangi birlik tarafından koruma altına alınmıştır?|birlik||ENTITY|OTHERS|UNESCO|
+ABD'nin baş şehri neresidir?|baş şehri||LOCATION|CAPITAL|Washington|
+Adana sınırları içinde bulunan dağ geçidinin adı nedir?|dağ geçidinin adı||ENTITY|OTHERS|Gülek|
+Adana'nın kaç ilçesi vardır?|ilçesi||NUMERIC|COUNT|15|
+Afrika demir yollarının gelişiminde hangi Avrupa devletinin desteği büyüktür?|Avrupa devletinin||LOCATION|COUNTRY|Fransa|
+Ağaç malzeme kullanılarak ya da ağaçların üst üste konulmasıyla yapılan meskenlere ne denir?|meskenlere denir||DESCRIPTION|DEFINITION|Ahşap meskenler|
+Ağaçlar yapraklarının özelliklerine göre kaça ayrılırlar?|ağaçlar ayrılırlar||NUMERIC|COUNT|2|
+Ağaçların bulunmadığı kurak bölgelerde en çok hangi yapı malzemesi kullanılır?|yapı malzemesi||ENTITY|OTHERS|Kerpiç|
+Ağaçların ve taşların yosun tutan tarafı hangi yönü gösterir?|yönü||ENTITY|OTHERS|Kuzey|
+AGİT hangi yıl çalışmalarına başlamıştır?|yıl||TEMPORAL|DATE|1973|
+AGİT'in açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Avrupa güvenlik ve işbirliği teşkilatı|
+Ağrı Dağı hangi tür volkanlardandır?|tür volkanlardandır||ENTITY|ENTITY||
+Ağrı dağının yüksekliği yaklaşık kaç metredir?|metredir|yaklaşık|NUMERIC|SIZE.HEIGHT|5100 m|
+Akarsu aşındırması sonucunda meydana gelen deniz seviyesine yakın, hafif dalgalı düzlüklere ne denir?|düzlüklere denir|hafif dalgalı|DESCRIPTION|DEFINITION|Yontukdüz/Peneplen|
+Akarsularımızın taşımaya elverişli olmamasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Denge profilleri|
+Akarsuların bitki ve hayvan türleri bakımından en zengin kısmı neresidir?|kısmı|en zengin|||Ağız kısmı|
+Akarsuların taşıdıkları malzeme ile kendi önlerini kapatmaları sonucu oluşan göllere ne ad verilir?|göllere ad||DESCRIPTION|DEFINITION|Set gölleri|
+Akarsuların taşıyarak oluşturdukları topraklara ne ad verilir?|topraklara ad||DESCRIPTION|DEFINITION|Alüvyal Topraklar.|
+Akarsuların taşıyıp biriktirdiği malzemelerden oluşan toprağa ne denir?|toprağa denir||DESCRIPTION|DEFINITION|Alüvyal toprak|
+Akarsuyun denize döküldüğü yere ne denir?|yere denir||DESCRIPTION|DEFINITION|Akarsu ağzı|
+Akarsuyun doğduğu yere ne ad verilir?|yere ad||DESCRIPTION|DEFINITION|Akarsu kaynağı|
+Akdeniz bölgesinin doğal bitki örtüsü nedir?|bitki örtüsü|doğal|ENTITY|OTHERS|Maki|
+Akdeniz ile Hint okyanusu arasındaki ticaret yollarını kısaltmayı sağlayan kanal hangisidir?|kanal||ENTITY|RIVER|Süveyş Kanalı|
+Akım rejimleri yıl içinde birden çok kez değişen akarsulara ne denir?|akarsulara denir||DESCRIPTION|DEFINITION|Karma rejimli akarsular|
+AKOM'un açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Afet koordinasyon merkezi|
+Alize rüzgarları neye sebep olur?|sebep olur||DESCRIPTION|EFFECT|sıcak okyanus akıntılarına|
+Alize rüzgarlarının da etkisiyle oluşan sıcak okyanus akıntısının adı nedir?|okyanus akıntısının adı|sıcak|ENTITY|STREAM|Brezilya|
+Almanya kalkınma politikası sebebiyle hangi yıllar arası işçi alımı yapmıştır?|yıllar arası||TEMPORAL|PERIOD|1952-1954|
+Almanya'da yaşayan Türk sayısı yaklaşık ne kadardır?|Türk sayısı kadardır|yaklaşık|NUMERIC|SIZE.POPULATION|3 Milyon/3000000/3.000.000|
+Alp-Himalaya kuşağında dünyadaki depremlerin yüzde kaçı meydana gelir?|depremlerin yüzde||NUMERIC|PERCENTAGE|0.25/%25/25%|
+Alpin çayırlarda ne çeşit hayvancılık yapılır?|çeşit hayvancılık||ENTITY|OTHERS|Büyükbaş|
+Amazon ormanlarının yayılım alanı ne kadardır?|yayılım alanı kadardır||NUMERIC|SIZE.AREA|4.2 milyon km2|
+Amerika birleşik devletlerinin doğu kıyılarının fazla göç almasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Liman ticareti|
+Amerika kıtasına olan göçlerde, kayıtlara göre ortalama kaç insan yer değiştirmiştir?|insan||NUMERIC|SIZE.POPULATION|60 milyon/60000000/60.000.000|
+Amerika kıtasını kim keşfetmiştir?|keşfetmiştir||HUMAN|INDIVIDUAL|Kristof Kolomb|
+Amerikaya olan göçler hangi yüzyılda hız kazanmıştır?|yüzyılda||TEMPORAL|CENTURY|19. yy|
+Anadolu topraklarındaki madencilik ne zaman başlamıştır?|zaman başlamıştır||TEMPORAL|DATE|M.Ö. 7000|
+Ankara'nın yaklaşık nüfusu kaçtır?|nüfusu|yaklaşık|NUMERIC|SIZE.POPULATION|4600000|
+Antarktika Kıtasında yerleşik hayatın olmamasının en büyük sebebi nedir?|sebebi|en büyük|DESCRIPTION|REASON|İklim koşulları|
+Antik çağın en ünlü deniz feneri hangisidir?|deniz feneri|en ünlü|DESCRIPTION|DEFINITION|İskenderiye Feneri|
+Anzer balı hangi ilimize özgüdür?|ilimize||LOCATION|CITY|Rize|
+Ardahan hangi yıl il yapılmıştır?|yıl||TEMPORAL|DATE|1924|
+Artemis Tapınağı nerede kurulmuştur?|kurulmuştur||LOCATION|LOCATION|Efes|
+Artvin hangi yıl il yapılmıştır?|yıl||TEMPORAL|DATE|1924|
+Astenosfer adı verilen manto katmanın derinliği kaç km. aralığında yer alır?|km.||NUMERIC|RANGE||
+Asya kıtasındaki nüfus artışının temel nedeni nedir?|nedeni|temel|DESCRIPTION|REASON|Doğum oranının fazla olması|
+Atatürk baraj gölünün büyüklüğü ne kadardır?|büyüklüğü kadardır||NUMERIC|SIZE.AREA|817 km2|
+Atatürk Barajı hangi nehir üzerinde kurulmuştur?|nehir||ENTITY|RIVER|Fırat|
+Atmosferde toz, duman ve gaz gibi maddelerin insan ve diğer canlılara zarar verecek kadar yükselmesi olayına ne denir?|yükselmesi olayına denir||DESCRIPTION|DEFINITION|Hava kirliliği|
+Atmosferdeki Azot toplam gaz miktarının yüzde kaçını oluşturur?|toplam gaz miktarının yüzde||NUMERIC|PERCENTAGE|78%|
+Atmosfere verilen gazların sera etkisi yaratması sonucunda, atmosferin ve okyanusların ortalama sıcaklıklarının artmasına ne denir?|okyanusların ortalama sıcaklıklarının artmasına denir||DESCRIPTION|DEFINITION|Küresel ısınma|
+Atmosferin en alt katmanında hangi tabaka vardır?|tabaka||ENTITY|OTHERS|Troposfer|
+Avrupa Birliği ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|25 mart 1957|
+Avrupa'da endemik bitki sayısı toplamı ne kadardır?|bitki sayısı toplamı kadardır|endemik|NUMERIC|COUNT|2750|
+Avustralya mercan resiflerinin uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|2000km|
+Ayasofya günümüzde ne olarak hizmet vermektedir?|olarak hizmet vermektedir||DESCRIPTION|REASON|Müze|
+Ayasofya kim tarafından camiye dönüştürülmüştür?|tarafından||HUMAN|INDIVIDUAL|Fatih Sultan Mehmet|
+Aydın'ın hangi ilçesinde jeotermal elektrik santrali vardır?|ilçesinde||LOCATION|CITY|Germencik|
+Aynı kentin içinde bulunup kentten soyutlanmış yerleşim alanlarına ne ad verilir?|yerleşim alanlarına ad||ENTITY|ENTITY|Getto|
+Azerbaycan'ın kuruluş yılı nedir?|kuruluş yılı||TEMPORAL|DATE|1991|
+Babülmendep Kanalı hangi ülkelerin kıyıları arasındadır?|ülkelerin||LOCATION|COUNTRY|Yemen Somali|
+Bağımlı nüfusu hangi yaş grupları oluşturur?|yaş grupları||HUMAN|GROUP|Genç ve yaşlı nüfus|
+Bakteriler ilk olarak hangi jeolojik zamanda ortaya çıkmıştır?|jeolojik zamanda||TEMPORAL|ERA|İlkel Zaman/Prekambriyen/Antekambriyen|
+Bakü-Ceyhan petrol boru hattı Türkiye ile hangi Türk devleti arasındadır?|Türk devleti||LOCATION|COUNTRY|azerbaycan|
+Baltık denizini Kuzey denize bağlayan kanalın uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|99 km|
+Bangladeş'te dünyada görülen sel felaketlerinin yüzde kaçı meydana gelir?|sel felaketlerinin yüzde||NUMERIC|PERCENTAGE|0.65/%65/65%|
+Bartelmi Diaz nerelidir?|Bartelmi Diaz||LOCATION|COUNTRY|Portekiz|
+Barut, pusula, mürekkep, kağıt ve matbaayı icat ederek Dünya medeniyetine önemli katkıda bulunan uygarlık hangisidir?|uygarlık||HUMAN|NATION|Çin|
+Başlangıç meridyeni hangi şehirdedir?|şehirdedir||LOCATION|CITY|Londra|
+Batı Avrupa ülkelerinin fazla göç almasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Sanayi|
+Batı rüzgarlarının da etkisiyle oluşan sıcak okyanus akıntısına ne isim verilir?|okyanus akıntısına isim|sıcak|ENTITY|STREAM|Gulf Stream|
+Batman'ın günümüzde nüfusu kaçtır?|nüfusu|günümüzde|NUMERIC|SIZE.POPULATION|534000|
+Bazaltik kabuğun bileşiminde en çok bulunan elementler hangileridir?|elementler|en çok|ENTITY|SUBSTANCE||
+Bazaltik kabuğun yoğunluğu ne kadardır?|yoğunluğu kadardır||NUMERIC|SIZE.DENSITY||
+Bazı tarım ürünlerinin toprak olmaksızın su içinde üretilmesi yöntemine ne ad verilir?|yöntemine ad||DESCRIPTION|DEFINITION|Hidrofonik yöntem|
+Belirli bir arazinin topoğrafik, hidrolojik, jeolojik ve kültürel yönden çevresel özelliklerinin incelenmesine ne denir?|incelenmesine denir||DESCRIPTION|DEFINITION|Çevre analizi|
+Belirli bir zamanda sınırları belli bir alan içerisinde yaşayan insan sayısına ne denir?|insan sayısına denir||DESCRIPTION|DEFINITION|Nüfus|
+Belirli bir zamanda, bir ülke sınırları içinde kişilere yönelik yapılan demografik, ekonomik ve sosyal verilerin toplanması ve bu verilerin değerlendirilmesi işlemine ne denir?|işlemine denir||DESCRIPTION|DEFINITION|Nüfus sayımı|
+Belli bir çevrenin sürekli olarak besleyebileceği belli bir türe ait maksimum birey sayısına ne ad verilir?|birey sayısına ad|maksimum|ENTITY|OTHERS|Taşıma kapasitesi|
+Bengal Havzası'nda en çok hangi tarım ürününün üretimi yaygındır?|tarım ürününün||ENTITY|PLANT|Pirinç|
+Bering boğazı hangi denizleri birbirine bağlar?|denizleri||ENTITY|SEA|Bering Kuzey Buz|
+Bering boğazı ne zaman keşfedilmiştir?|zaman kaşfedilmiştir||TEMPORAL|DATE|1730|
+Bering Boğazını kim keşfetmiştir?|keşfetmiştir||HUMAN|INDIVIDUAL|Bering|
+Bering boğazının kâşifi nerelidir?|kaşifi||LOCATION|COUNTRY|Danimarka|
+Beşeri ve ekonomik nedenlerle köylerden ayrılan daha küçük yerleşim birimlerine ne denir?|yerleşim birimlerine denir|daha küçük|DESCRIPTION|DEFINITION|Köy altı yerleşimi|
+Bir akarsuyun kolları ile birlikte oluşturduğu sisteme ne denir?|sisteme denir||DESCRIPTION|DEFINITION|Akarsu ağı|
+Bir akarsuyun kolları ile birlikte sularının toplandığı veya boşaltıldığı alana ne denir?|alana denir||DESCRIPTION|DEFINITION|Akarsu havzası|
+Bir alandaki toplam nüfusun, o alanın yüz ölçümüne bölünmesiyle ne elde edilir?|elde edilir||DESCRIPTION|DESCRIPTION|Arimetik nüfus yoğunluğu|
+Bir anayasa yapmak veya bir anayasayı değiştirmek için toplanan olağanüstü geçici meclise ne ad verilir?|geçici meclise ad|olağanüstü|DESCRIPTION|DEFINITION|Konvansiyon|
+Bir arazi yüzeyinin tabii veya suni ayrıntılarının meydana getirdiği şekle ne denir?|şekle denir||DESCRIPTION|DEFINITION|Topografya|
+Bir bölgede nem miktarındaki geçici dengesizliğin o bölgedeki su kıtlığı ile ilişkisine ne ad verilir?|ilişkisine ad||DESCRIPTION|DEFINITION|Kuraklık|
+Bir çizimin harita özelliği taşıması için kaç temel ilkeye uyma zorunluluğu vardır?|temel ilkeye||NUMERIC|COUNT|3|
+Bir kültürün doğduğu yere ne denir?|yere denir||DESCRIPTION|DEFINITION|Kültür ocağı|
+Bir limanın iç bölgelerle olan ulaşım bağlantısı özelliğine ne denir?|ulaşım bağlantısı özelliğine denir||DESCRIPTION|DEFINITION|Hinterlant|
+Bir noktanın Ekvator'a olan uzaklığının açı cinsinden değerine ne denir?|değerine denir|açı cinsinden|ENTITY|ENTITY|Enlem|
+Bir su kaynağında bitki besin tuzlarının artışına bağlı olarak sucul bitkilerin aşırı çoğalmasıyla şekillenen kirliliğe ne denir?|kirliliğe denir||DESCRIPTION|DEFINITION|Ötrofikasyon|
+Bir toplumun tarihsel süreç içinde ürettiği ve kuşaktan kuşağa aktardığı her türlü maddi ve manevi özellikler bütününe ne denir?|maddi ve manevi özellikler bütününe denir||DESCRIPTION|DEFINITION|Kültür|
+Bir ülke içinde bölge, şehir ve köy gibi bir yerden diğerine yönelik nüfus hareketlerine ne denir?|nüfus hareketlerine denir||DESCRIPTION|DEFINITION|İç göç|
+Bir ülkede genç nüfus hangi yaş grubu olarak değerlendirilir?|yaş grubu||NUMERIC|RANGE|0-14 yaş|
+Bir ülkedeki nüfusun ülke yüz ölçümüne oranlanmasıyla ne elde edilir?|elde edilir||DESCRIPTION|DESCRIPTION|Nüfus yoğunluğu|
+Bir ülkeden başka bir ülkeye olan göçlere ne ad verilir?|göçlere ad||DESCRIPTION|DEFINITION|Dış göç|
+Bir ülkenin ekonomisinde belirli bir sürede (genellikle bir yıl) üretilen mal ve hizmetlerin toplam piyasa değerini anlatan gösterge nedir?|gösterge||DESCRIPTION|DEFINITION|Gayri safi milli hasıla (GSMH)|
+Bir ülkenin hemen her bölgesinde aynı kültürel özelliklerin görülmesi ne olarak nitelendirilir?|olarak nitelendirilir||DESCRIPTION|DEFINITION|Türdeş nüfus|
+Bir veya birden fazla özelliği benzer olan alanlar neyle adlandırılır?|anlanlar adlandırılır||ENTITY|ENTITY|Bölge|
+Bir yerin deniz seviyesinden yüksekliği neyle ifade edilir?|ifade edilir||DESCRIPTION|DEFINITION|Rakım|
+Bir yerin enlem ve boylamlar yardımıyla belirtilen konumuna ne ad verilir?|konumuna ad||DESCRIPTION|DEFINITION|matematik konum|
+Bir yerin kuş bakışı taslak çizimine ne denir?|taslak çizimine denir||DESCRIPTION|DEFINITION|Kroki|
+Bir yerin tepeden görünümüne ne ad verilir?|görünümüne ad||DESCRIPTION|DEFINITION|Kuş bakışı|
+Birleşmiş Milletler bünyesinde sömürge topraklarıyla ilgilenen alt kurulun adı nedir?|alt kurulun adı||DESCRIPTION|DESCRIPTION|Vesayet konseyi|
+Birleşmiş Milletler bünyesinde tartışma ve karar organı olan yapının adı nedir?|yapının adı||DESCRIPTION|DEFINITION|Genel kurul|
+Birleşmiş Milletler ekonomik ve sosyal konseyi kaç üyeden oluşur?|üyeden||NUMERIC|COUNT|54|
+Birleşmiş Milletler genel kurulu yılda kaç kez olağan toplanır?|kez||NUMERIC|COUNT|1|
+Birleşmiş Milletler güvenlik konseyi kaç üyeden oluşur?|üyeden||NUMERIC|COUNT|15|
+Birleşmiş Milletler güvenlik konseyi ne sıklıkta toplanır?|sıklıkta||NUMERIC|PERCENTAGE|Ayda bir|
+Birleşmiş Milletler hangi tarihte kurulmuştur?|tarihte||TEMPORAL|DATE|29 ekim 1945|
+Birleşmiş Milletler Nüfus Vakfı’nın kısa adı nedir?|adı|kısa|ABBREVIATION|ABBREVIATION|UNEPA|
+Birleşmiş Milletler teşkilatının en üst organı olan yapının adı nedir?|yapının adı||DESCRIPTION|DEFINITION|Genel sekreterlik|
+Birleşmiş Milletler teşkilatının kaç üyesi bulunmaktadır?|üyesi||NUMERIC|COUNT|179|
+Birleşmiş Milletler uluslararası adalet divanı kaç üyeden oluşmaktadır?|üyeden||NUMERIC|COUNT|15|
+Birleşmiş Milletler uluslararası adalet divanının merkezi hangi ülkededir?|ülkededir||LOCATION|COUNTRY|Hollanda Lahey|
+Bitki ve hayvan topluluklarını inceleyen bilim dalı nedir?|bilim dalı||DESCRIPTION|DEFINITION|Biyocoğrafya|
+Bitkilerden veya biyolojik atıklardan elde edilen enerjiye ne ad verilir?|enerjiye ad||DESCRIPTION|DEFINITION|Biyoenerji|
+Biyolojik çeşitlilik sözleşmesi ilk nerede imzalanmıştır?|imzalanmıştır||LOCATION|CITY|Rio de janerio|
+Biyolojik çeşitlilik sözleşmesini Türkiye kaç yılında imzalamıştır?|yılında||TEMPORAL|DATE|1992|
+Biyolojik her türlü atıktan elde edilebilecek olan enerjiye ne isim verilir?|enerjiye isim||DESCRIPTION|DEFINITION|Biyoenerji|
+Biyomlar neyin en büyük birimleridir?|birimleridir|en büyük|DESCRIPTION|DESCIPTION|Ekosistemin|
+Biyomların yeryüzüne dağılışındaki en büyük etken koşul hangisidir?|etken koşul|en büyük|DESCRIPTION|REASON|İklim|
+Biyosfer hangi kürelere yayılmıştır?|kürelere||ENTITY|OTHERS|Atmosfer, hidrosfer ve litosfer|
+Biyosferi, ultraviyole ışınlarının zararlarından koruyan gaz hangisidir?|gaz||ENTITY|SUBSTANCE|Ozon|
+Biyosfer'in diğer adı nedir?|adı|diğer|ENTITY|OTHERS|Canlı Küre/Canlılar Küresi/Canlı Yüzey|
+Bofor ölçeği neyin şiddetinin ölçülmesinde kullanılır?|şiddetinin||ENTITY|ENTITY|Rüzgâr|
+Bolu otoyol tüneli hangi projenin bir parçasıdır?|projenin||ENTITY|OTHERS|Bolu Dağı Geçişi Projesi|
+Boyuna dalgaların yer kabuğundaki hızları ne kadardır?|hızları kadardır||NUMERIC|SPEED|6 km s/7 km s|
+Bozkırların daha yoğun olduğu yörelerde hangi hayvan yetiştiriciliği fazladır?|hayvan yetiştiriciliği||ENTITY|OTHERS|Koyun|
+BTC nedir?|BTC||ABBREVIATION|EXPRESSION|Bakü-Tiflis-Ceyhan Boru Hattı|
+Buğday üretimi en yüksek olan üç ilimiz hangileridir?|üç ilimiz||LOCATION|CITY|Konya Ankara Adana|
+Bugüne kadar Dünya üzerindeki ölçülen en düşük hava sıcaklığı kaç derecedir?|dereecedir||NUMERIC|DEGREE|-89.2 C|
+Bugüne kadar Dünya üzerindeki ölçülen en düşük hava sıcaklığı nerede ölçülmüştür?|ölçülmüştür||LOCATION|LOCATION|Vostok araştırma merkezi|
+Bugüne kadar Dünya üzerindeki ölçülen en yüksek hava sıcaklığı kaç derecedir?|derecedir||NUMERIC|DEGREE|57 C|
+Bugüne kadar Dünya üzerindeki ölçülen en yüksek hava sıcaklığı nerede ölçülmüştür?|ölçülmüştür||LOCATION|LOCATION|El Azizias|
+Bulutlar neye göre sınıflandırılır?|göre||DESCRIPTION|MANNER|yüksekliklerine (deniz seviyesinden )|
+Bursa'nın nüfusu yaklaşık ne kadardır?|nüfusu kadardır|yaklaşık|NUMERIC|SIZE.POPULATION|2000000|
+Büyük Okyanus deprem kuşağında dünya depremlerinin yüzde kaçı meydana gelir?|dünya depremlerinin yüzde||NUMERIC|PERCENTAGE|0.68/68%/%68|
+Buzul gölleri ortalama kaç metre yükseklikte bulunurlar?|metre yükseklikte|ortalama|NUMERIC|SIZE.HEIGHT|2000 m|
+Buzulların taşıyıp biriktirdiği materyallerin, buzulun alt kısmındaki erimeler sonucu meydana gelen dereler tarafından işlenmesiyle oluşan birikintilere ne denir?|birikintilere denir||DESCRIPTION|DEFINITION|Drumlin|
+Çalışma çağındaki nüfusun taban alındığı yaş nedir?|yaş||NUMERIC|COUNT|12|
+Çam ormanlarının daha fazla olduğu yörelerde görülen hayvancılık çeşidi nedir?|hayvancılık çeşidi||ENTITY|OTHERS|Arıcılık|
+Can ve mal kayıplarına neden olan doğa olaylarına ne denir?|doğa olaylarına||DESCRIPTION|DEFINITION|Doğal afet|
+Canlı, cansız varlıkların bütünü neyi ifade eder?|ifade eder||DESCRIPTION|DEFINITION|Doğa|
+Canlılar küresi hangi kürelere yayılmış durumdadır?|kürelere||ENTITY|OTHERS|Atmosfer, hidrosfer ve litosfer|
+Canlıların çevreyle birlikte oluşturdukları yaşam birlikteliklerine ne denir?|yaşam birlikteliklerine denir||DESCRIPTION|DEFINITION|Ekosistem|
+Canlıların üzerinde yaşadığı katman hangisidir?|katman||ENTITY|OTHERS|Litosfer/Yer kabuğu|
+Çarşamba deltasını oluşturan akarsu hangisidir?|akarsu||ENTITY|RIVER|Yeşilırmak|
+Çay hangi toprakta daha iyi yetişir?|toprakta||ENTITY|OTHERS|Kireçsiz|
+Çayır bitki örtüsü çevresinde oluşan topraklara ne ad verilir?|topraklara ad||DESCRIPTION|DEFINITION|Çerezyom|
+Çayır ve otlakların en fazla olduğu bölgemiz hangisidir?|bölgemiz||LOCATION|REGION.LOCAL|Doğu Anadolu|
+Çayırların daha fazla görüldüğü bölgelerde hangi hayvan daha çok yetiştirilir?|hayvan||ENTITY|OTHERS|Sığır|
+Cebelitarık boğazı hangi deniz ve okyanusu birbirine bağlar?|deniz ve okyanusu||ENTITY|SEA|Akdeniz ve Atlas Okyanusu|
+Cebelitarık boğazındaki yüzeysel akıntı nereden nereye doğrudur?|akıntı doğrudur|yüzeysel|ENTITY|OTHERS|Batıdan doğuya|
+Cebelitarik boğazının en sığ yeri ne kadardır?|yeri kadardır|en sığ|NUMERIC|SIZE.DEPTH|324 metre|
+ÇED Türkiye'de ne zamandan beri uygulanmaktadır?|zamandan beri||TEMPORAL|DATE|7 şubat 1993|
+ÇED'in açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Çevresel etki değerlendirmesi|
+Çekirdek tabakanın diğer bir adı nedir?|çekirdek tabakanın adı|diğer|ENTITY|SPHERE|Barisfer|
+Çernobil nükleer kazası ne zaman gerçekleşmiştir?|zaman gerçekleşmiştir||TEMPORAL|DATE|1986|
+Çeşitli yaşlardaki kadın ve erkek nüfusunu gösteren piramide ne ad verilir?|piramide ad||ENTITY|OTHERS|Yaş piramidi|
+Çevresine göre çukurda kalmış, akarsuların derine gömülmeden aktıkları dar veya geniş düzlüklere ne ad verilir?|düzlüklere ad|dar veya geniş|DESCRIPTION|DEFINITION|ova|
+Çevresine göre daha alçakta bulunan ve tarıma elverişli geniş, düz kara parçasına ne ad verilir?|kara parçasına ad|düz|ENTITY|ENTITY|Ova|
+Çiğit nedir?|çiğit||DESCRIPTION|DEFINITION|Pamuk bitkisinin tohumu|
+Çin Ar-Ge çalışmalarına yıllık ne kadar para ayırmaktadır?|kadar para||NUMERIC|MONEY|30.5 Milyar Dolar|
+Çin Halk Cumhuriyeti coğrafi açıdan kaç bölgeye ayrılır?|bölgeye||NUMERIC|COUNT|4|
+Çin hangi yıldan itibaren sosyalist bir idare tarzı ile yönetilir?|yıldan itibaren||TEMPORAL|DATE|1949|
+Çin toplam dünya kömür üretiminin yüzde kaçını gerçekleştirmektedir?|kömür üretiminin yüzde||NUMERIC|PERCENTAGE|30%|
+Çin uygarlığı kaç yıllık bir geçmişe sahiptir?|yıllık||NUMERIC|COUNT|4000 yılık|
+Çinde ilk modern nüfus sayımı ne zaman yapılmıştır?|zaman yapılmıştır||TEMPORAL|DATE|1953|
+Çin'in en önemli akarsularından olan Yang-çe'nin Türkçe anlamı nedir?|anlamı|Türkçe|DESCRIPTION|DESCRIPTION|Mavi Irmak|
+Çin'in ikinci büyük ırmağı olan Huang-ho’nun anlamı nedir?|anlamı||DESCRIPTION|DESCRIPTION|Sarı Irmak|
+Çizgisel yerleşim dokusunun oluşmasındaki en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Yüzey şekilleri|
+Coğrafi keşifler hangi yüzyılda başlamıştır?|yüzyılda||TEMPORAL|CENTURY|15.Yüzyıl|
+Coğrafi keşifler hangi yüzyılda hız kazanmıştır?|yüzyılda||TEMPORAL|CENTURY|15.yy/XV. yy|
+Coğrafi keşiflerin başlamasına hangi icat olanak sağlamıştır?|icat||ENTITY|INSTRUMENT|Pusula|
+Çoğunlukla bilim ve tekniğin gelişmesine katkıda bulunabilecek nitelikli elemanların başka ülkelere çalışmak amaçlı göç etmelerine ne denir?|göç etmelerine denir||DESCRIPTION|DEFINITION|Beyin göçü|
+Çöl ikliminde günlük sıcaklık farkı kaç dereceyi bulur?|dereceyi||NUMERIC|DEGREE|40 C|
+Cumhuriyetimizin ilk nüfus sayımına göre nüfus ne kadardı?|kadardı||NUMERIC|SIZE.POPULATION|13.6 Milyon/13600000/13.600.000|
+Cumhuriyetin ilk yıllarında ülkenin kaçta kaçı kırsal kesimlerde yaşamaktaydı?|ülkenin kırsal kesimlerde yaşamaktaydı||NUMERIC|PERCENTAGE|Dörtte üçü/75%|
+Cumhuriyetten Sonra ilk nüfus sayımı ne zaman yapılmıştır?|zaman||TEMPORAL|DATE|28 Ekim 1927|
+Dağ oluşumu hareketleri kaç şekilde gerçekleşir?|şekilde||NUMERIC|COUNT|2|
+Dağ zirvelerinde nem miktarı ne kadardır?|nem miktarı kadardır||DESCRIPTION|QUANTITY|az|
+Dağıtım neyin tüketiciye ulaştırılmasıdır?|ulaştırılmasıdır||DESCRIPTION|DEFINITION|Mal ve Hizmetlerin|
+Dağlar haritada hangi renkle gösterilir?|renkle||ENTITY|OTHERS|Kahverengi|
+Dağlık alanlarda yamaçlar boyunca ufalanan çeşitli malzemelerin, dağların eteklerinde birikmesiyle oluşan topraklara ne ad verilir?|topraklara ad||DESCRIPTION|DEFINITION|Kolüvyal toprak|
+Dalgaların kabarma ve çekilme hareketlerinden yararlanılarak üretilen enerjiye ne denir?|enerjiye denir||DESCRIPTION|DEFINITION|Dalga enerjisi|
+Dar alandan en çok ürünü almak için uygulanan tarım yöntemine ne ad verilir?|tarım yöntemine ad||DESCRIPTION|DEFINITION|İntansif|
+Dayk, batolit ve sill gibi şekiller magmanın nerede katılaşarak oluşturduğu şekillerdir?|katılaşarak oluşturduğu şekillerdir||LOCATION|LOCATION|Yer kabuğunun iç kısımlarında|
+Debi ne cinsinden ifade edilir?|cinsinden||NUMERIC|UNIT|m3/sn|
+Dekkan platosu Hindistan'ın hangi tarafında bulunur?|tarafında||LOCATION|REGION|Güney|
+Delta ovalarındaki kıyı oklarının gerisinde oluşan göllere ne denir?|göllere denir||DESCRIPTION|DEFINITION|Kıyı set gölü|
+Deniz ekosisteminin ortalama derinliği ne kadardır?|derinliği kadardır|ortalama|NUMERIC|SIZE.DEPTH|3700|
+Deniz gerilemesine ne denir?|deniz gerilemesine denir||DESCRIPTION|DEFINITION|Regrasyon|
+Deniz kenarlarında organik kökenli iskeletlerin birikmesiyle oluşmuş kayalara ne ad verilir?|kayalara ad||DESCRIPTION|DEFINITION|Resif|
+Deniz seviyesinin altında kıyı çizgisinden 200 metre derine kadar inen bölüme ne denir?|bölüme denir||DESCRIPTION|DEFINITION|Kıta sahanlığı|
+Deniz seviyesinin altında, kıyı çizgisinden 200 m derine kadar inen bölüme ne ad verilir?|bölüme ad||DESCRIPTION|DEFINITION|Kıta sahanlığı|
+Deniz ve göller haritada hangi renkle gösterilir?|renkle||ENTITY|OTHERS|Mavi|
+Denizden kazanılan topraklara ne ad verilir?|topraklara ad||ENTITY|ENTITY|Polder|
+Denizler ve okyanuslar yeryüzünde ne kadar alan kaplamaktadır?|kadar alan||NUMERIC|SIZE.AREA|361 milyon km2/361000000 km2/361.000.000 km2|
+Denizler ve okyanuslar yeryüzünün yüzde kaçını meydana getirir?|yeryüzünün yüzde||NUMERIC|PERCENTAGE|71%|
+Denizlerde güneş ışınları kaç metreye kadar etkilidir?|metreye||NUMERIC|SIZE.DEPTH||
+Denizlerden üretilen balık üretiminin yüzde kaçı Karadeniz bölgesinden karşılanır?|balık üretiminin yüzde||NUMERIC|PERCENTAGE|0.67/67%/%67|
+Denizlerle bağlantısı olmayan su birikintilerine ne ad verilir?|su birikintilerine ad||ENTITY|ENTITY|göl|
+Deodorant ve zararlı gazların sanayide kullanımı temel olarak hangi çevre sorununa yol açar?|çevre sorununa||ENTITY|OTHERS|Ozon tabakasının incelmesi|
+Deprem dalgaları içinde en hızlı dalgalar hangileridir?|dalgalar|en hızlı|ENTITY|ENTITY||
+Deprem sırasında yer kabuğuna ilk ulaşan dalgalar hangileridir?|dalgalar||ENTITY|ENTITY||
+Deprem, tsunami gibi doğal afetleri önceden haber veren sistemlere ne denir?|sistemlere denir||DESCRIPTION|DEFINITION|Erken uyarı sistemleri|
+Depremin aletle ölçülen büyüklüğüne ne denir?|büyüklüğüne denir||DESCRIPTION|DEFINITION||
+Depremler nedeniyle okyanus kıyılarında oluşan dev dalgalara ne ad verilir?|dalgalara ad|dev|DESCRIPTION|DEFINITION|Tsunami|
+Depremler oluşumlarına göre kaça ayrılır?|depremler ayrılır||NUMERIC|COUNT|3|
+Dev kazanı hangi dış güç tarafından oluşturulur?|dış güç||ENTITY|ENTITY|Akarsu|
+Devlet Su İşleri kısaca nasıl ifade edilir?|ifade edilir||ABBREVIATION|ABBREVIATION|DSİ|
+Devletleşmeyle birlikte gelen merkezi şehirlere ne isim verilir?|şehirlere isim|merkezi|DESCRIPTION|DEFINITION|İdari kentler|
+Dicle sularını nereye döker?|döker||LOCATION|LOCATION|Basra körfezi|
+Direnci düşük kayaçların bulunduğu arazilerde ne tür yer şekileri meydana gelir?|tür yer şekilleri||ENTITY|ENTITY||
+Dış çekirdek neden oluşur?|oluşur||ENTITY|SUBSTANCE||
+Dış ticaretin diğer adı nedir?|ad|diğer|ENTITY|OTHERS|Küresel ticaret|
+Doğa ile insan arasındaki etkileşimi inceleyen bilim dalı hangisidir?|bilim dalı||DESCRIPTION|DEFINITION|Coğrafya|
+Doğada kaç çeşit bor minareli vardır?|çeşit bor minerali||NUMERIC|COUNT|230|
+Doğal afetler gelişim hızlarına göre kaça ayrılırlar?|doğal afetler ayrılırlar||NUMERIC|COUNT|2|
+Doğal afetler oluşum nedenlerine göre kaça ayrılırlar?|doğal afetler ayrılırlar||NUMERIC|COUNT|2|
+Doğal çevreyi kaç temel unsur oluşturur?|temel unsur||NUMERIC|COUNT|4|
+Doğal çevreyi oluşturan dört temel unsur hangileridir?|unsur|dört temel|DESCRIPTION|DESCRIPTION|Atmosfer, litosfer, hidrosfer ve biyosfer|
+Doğal çevreyi oluşturan temel unsurlar hangileridir?|unsurlar|temel|DESCRIPTION|DESCRIPTION|Atmosfer, litosfer, hidrosfer ve biyosfer|
+Doğru Karadenizdeki akarsuların her zaman bol su taşıyor olmasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Yağış miktarı|
+Doğu Anadolu bölgesinde kaç bölüm vardır?|bölüm||NUMERIC|COUNT|4|
+Doğu Anadolu bölgesinde kaç il vardır?|il||NUMERIC|COUNT|14|
+Doğu Anadolu bölgesinin en kalabalık nüfusa sahip olan ili hangisidir?|ili||LOCATION|CITY|Erzurum|
+Doğu Anadolu bölgesinin nüfusu ortalama ne kadardır?|nüfusu kadardır|ortalama|NUMERIC|SIZE.POPULATION|6147000|
+Doğu Anadolu bölgesinin yüz ölçümü yaklaşık ne kadardır?|yüz ölçümü kadardır|yaklaşık|NUMERIC|SIZE.AREA|163.000 km2|
+Doğubeyazıt hangi yıl Ağrı'ya bağlanmıştır?|yıl||TEMPORAL|DATE|1927|
+Doğum oranından ölüm oranı çıkartıldığında ne bulunur?|bulunur||DESCRIPTION|DESCRIPTION|Doğal nüfus artışı|
+Dortmund hangi sanayi bölgesinde yer almaktadır?|sanayi bölgesinde||LOCATION|REGION|Ruhr|
+DPT ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1960|
+DPT neyi ifade eder?|ifade eder||ABBREVIATION|EXPRESSION|Devlet Planlama Teşkilatı|
+Dünya bankası kaç yılında kurulmuştur?|yılında||TEMPORAL|DATE|1945|
+Dünya ticaretinin yüzde kaçı Panama kanalı üzerinden yapılmaktadır?|dünya ticaretinin yüzde||NUMERIC|PERCENTAGE|%5/5%|
+Dünya üzerinde ilk rüzgar türbini ne zaman kullanılmıştır?|zaman kullanılmıştır||TEMPORAL|DATE|1890|
+Dünya üzerinde kaç adet çalışır durumda nükleer santral bulunmaktadır?|adet nükleer santral||NUMERIC|COUNT|442|
+Dünya üzerinde üretilen elektriğin yüzde kaçı hidroelektrik santrallerden üretilmektedir?|elektriğin yüzde||NUMERIC|PERCENTAGE|17%|
+Dünya üzerinde üretilen enerjinin yüzde kaçı hidroelektrik enerjisidir?|enerjinin yüzde||NUMERIC|PERCENTAGE|17%|
+Dünya üzerindeki bir noktanın başlangıç meridyenine en yakın uzaklığının açı cinsinden değerine ne ad verilir?|değerine ad|açı cinsinden|DESCRIPTION|DEFINITION|boylam|
+Dünyaca ünlü Çoruh nehrinde hangi spor yapılır?|spor||ENTITY|OTHERS|Rafting|
+Dünyada demir yolu ağının en sık olduğu bölge neresidir?|bölge||LOCATION|LOCATION|ABD|
+Dünyada en az deprem olma olasılığı olan bölgeler nereleridir?|bölgeler||LOCATION|REGION|Doğu Avrupa Avustralya İskandinav yarım adası|
+Dünyada en fazla deprem hangi deprem kuşağında meydana gelir?|deprem kuşağında||ENTITY|OTHERS|Büyük okyanus|
+Dünyada hava ulaşımının kaçta kaçı ABD sınırları içinden gerçekleşmektedir?|hava ulaşımının||NUMERIC|PERCENTAGE|33%/%33|
+Dünya'da iç su ulaşım ağı en gelişmiş ülke hangisidir?|ülke||LOCATION|COUNTRY|Hollanda|
+Dünyada ilk modern manada nüfus sayımları nerede yapılmıştır?|yapılmıştır||LOCATION|COUNTRY|İskandinav Ülkelerinde|
+Dünyada ilk olarak halkına televizyon yayını yapan ülke hangisidir?|ülke||LOCATION|COUNTRY|İngiltere|
+Dünyada ilk telgraf hattı ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1844|
+Dünyada kapakları olmayan en uzun kanal hangisidir?|kanal|en uzun|ENTITY|RIVER|Süveyş Kanalı|
+Dünyada kullanılan enerji kaynaklarının yüzde kaçı yenilenebilir kaynaklardır?|enerji kaynaklarının yüzde||NUMERIC|PERCENTAGE|14%/%14|
+Dünyada mercimek üretiminde birinci sırada olan ülke neresidir?|ülke||LOCATION|COUNTRY|Hindistan|
+Dünyada nüfusun en az olduğu kıta hangisidir?|kıta||LOCATION|CONTINENT|Okyanusya|
+Dünyada nüfusun en çok olduğu kıta hangisidir?|kıta||LOCATION|CONTINENT|Asya|
+Dünyada sel felaketleri en çok nerede yaşanır?|yaşanır|en çok|LOCATION|LOCATION|Güney asya|
+Dünyada tektonik göllerin en yoğun olduğu bölge neresidir?|bölge||LOCATION|REGION|Doğu Afrika|
+Dünyada turistlik açıdan en fazla ziyaret edilen ülke neresidir?|ülke||LOCATION|COUNTRY|Fransa|
+Dünyadaki aktif volkanlar en fazla hangi bölgede konumlanmıştır?|bölgede|en fazla|LOCATION|REGION|Büyük okyanus çevresi|
+Dünyadaki aktif volkanların kaçta kaçı Japonya'dadır?|aktif volkanların||NUMERIC|PERCENTAGE|Yedide biri|
+Dünyadaki bor rezervlerinin yüzde kaçı Türkiye'dedir?|bor rezervlerinin yüzde||NUMERIC|PERCENTAGE|%63/63%|
+Dünyadaki denizlerin ortalama derinliği ne kadardır?|derinliği kadardır|ortalama|NUMERIC|SIZE.DEPTH|4000 metre|
+Dünyadaki okyanus sayısı kaçtır?|okyanus sayısı||NUMERIC|COUNT|3|
+Dünya'daki toplam istihdamın ne kadarı turizm sektöründedir?|toplam istihdamın kadarı||NUMERIC|PERCENTAGE|%8/8%|
+Dünyadaki yerleşmeler nerede son bulmaktadır?|son bulmaktadır||LOCATION|LOCATION|Deniz kıyılarında|
+Dünyanın 7 harikasından günümüze kalan tek eser hangisidir?|eser|tek|DESCRIPTION|DEFINITION|Keops Piramidi|
+Dünyanın en az nüfusa sahip kıtası hangisidir?|kıtası||LOCATION|CONTINENT|Okyanusya|
+Dünyanın en büyük su nakli projesi hangi ülkeye aittir?|ülkeye||LOCATION|COUNTRY|Libya|
+Dünyanın en fazla nüfusa sahip kıtası hangisidir?|kıtası||LOCATION|CONTINENT|Asya|
+Dünyanın en uzun demir yolu hattının adı nedir?|demir yolu hattının adı|en uzun|ENTITY|OTHERS|Trassibirya|
+Dünyanın en uzun demiryolu hattının yaklaşık uzunluğu ne kadardır?|uzunluğu kadardır|yaklaşık|NUMERIC|AVERAGE|15000 km|
+Dünyanın kıyı şeritlerindeki dalga enerjisi potansiyeli ortalama ne kadardır?|dalga enerjisi potansiyeli kadardır||NUMERIC|AVERAGE|4milyon kwh|
+Dünyanın nüfusu ne kadardır?|kadardır||NUMERIC|SIZE.POPULATION|Yaklaşık 7 Milyar|
+Dünyanın yaşı yaklaşık kaçtır?|yaşı|yaklaşık|NUMERIC|COUNT|4.5 milyar|
+Dünyanın yıllık hareketi sırasında güneş çevresinde izlediği yörüngeye ne ad verilir?|yörüngeye ad||ENTITY|OTHERS|ekliptik düzlem|
+Dünyayı dolaşan ilk denizci kimdir?|denizci|ilk|HUMAN|INDIVIDUAL|Macellan|
+Dünydaki enerji kaynaklarının yüzde kaçını fosil yakıtlar oluşturmaktadır?|enerji kaynaklarının yüzde||NUMERIC|PERCENTAGE|80%/%80|
+Dut ağaçlarının yaygın olduğu bölgelerde hangi hayvandan daha çok faydalanılır?|hayvandan||ENTITY|OTHERS|İpek böceği|
+Düzce hangi yıl il olarak kabul edildi?|yıl||TEMPORAL|DATE|1999|
+EEA kaç yılında kurulmuştur?|yılında||TEMPORAL|DATE|1990|
+EEA'nın kaç üyesi vardır?|üyesi||NUMERIC|COUNT|32|
+EEA'nın Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Avrupa çevre ajansı|
+Efes'i yılda ortalama kaç kişi ziyaret etmektedir?|kişi|ortalama|NUMERIC|SIZE.POPULATION|1.5 Milyon kişi|
+Ege bölgesi Türkiye'deki haşhaş üretiminin kaçta kaçını karşılar?|haşhaş üretiminin||NUMERIC|PERCENTAGE||
+Ege bölgesinde akasuların doğrultusu ne yöne doğrudur?|yöne||ENTITY|OTHERS|Doğu-batı|
+Ege Denizi hangi jeolojik zamanda oluşmuştur?|jeolojik zamanda||TEMPORAL|ERA|IV.Zaman/Kuaterner|
+Ege, İç Anadolu ve Doğu Anadolu'nun çöküntülü kısımlarında yaygın olan üst kısmı kireçli topraklara ne denir?|üst kısmı kireçli topraklara denir||DESCRIPTION|DEFINITION|Rendzina|
+Eğimli yamaçlarda fazla yağışlarla doygun hale gelen toprağın adeta bir hamur gibi yamaç boyunca kaymasına ne denir?|kaymasına denir||DESCRIPTION|DEFINITION|Heyelan|
+Ekonomik faaliyetlerin ilk zincirini ne oluşturur?|oluşturur||ENTITY|OTHERS|Üretim|
+Ekonomik faaliyetlerin son zincirini ne oluşturur?|oluşturur||ENTITY|OTHERS|Tüketim|
+Ekonomik, sosyal, doğal ya da siyasi nedenlerle birey veya toplulukların yer değiştirmesine ne denir?|yer değiştirmesine denir||DESCRIPTION|DEFINITION|Göç|
+Ekosfer kaç büyük ekosistemden oluşur?|ekosistemden|büyük|NUMERIC|COUNT|3|
+Ekosistemin en büyük birimi nedir?|birimi|en büyük|ENTITY|OTHERS|Biyom|
+Ekvator bölgesinde nüfuslanmanın az olmasının en temel sebebi nedir?|sebebi|en temel|DESCRIPTION|REASON|Sık ormanlar|
+Ekvator kesiminde, meskenlerin bambu ve kamıştan yapılmasının en önemli sebebi nedir?|sebebi|en önemli|DESCRIPTION|REASON|Sıcaklık|
+Ekvatoral bölgede Amazon ve Kongo havzasında yerleşimin az olmasının sebebi nedir?|sebebi||DESCRIPTION|REASON|Gür ormanlar|
+Ekvatoral iklimde yıllık yağış miktarı ne kadardır?|yağış miktarı kadardır|yıllık|NUMERIC|SIZE.VOLUME|200 mm'nin üzerinde|
+Ekvatorda kentlerin yükseğe kurulmasının sebebi nedir?|sebebi||DESCRIPTION|REASON|Sıcaklığın fazla olması|
+En büyük paralel dairesi hangisidir?|paralel dairesi|en büyük|ENTITY|OTHERS|Ekvator|
+En fazla hasara neden olan dalgalar hangileridir?|dalgalar||ENTITY|OTHERS|L dalgaları|
+En geniş havzaya sahip bölgemiz hangisidir?|bölgemiz||LOCATION|REGION.LOCAL|Karadeniz|
+En son il haline getirilen ilçe hangisidir?|ilçe||LOCATION|CITY|Düzce|
+Epirojenik hareketler sırasında denizin çekilmesine ne denir?|denizin çekilmesine denir||DESCRIPTION|DEFINITION||
+Erzurumun nüfusu yaklaşık ne kadardır?|nüfusu kadardır|yaklaşık|NUMERIC|SIZE.POPULATION|780000|
+Eş derinlik eğrilerinin diğer adı nedir?|adı|diğer|ENTITY|OTHERS|İzobat|
+Eş sıcaklık eğrilerine ne denir?|eş sıcaklık eğrilerine denir||ENTITY|ENTITY|izoterm|
+Estetik, kültürel, bilimsel, ekonomik unsurlarla zenginleşen doğal güzelliklerin ve biyolojik çeşitliliğin oluşturduğu değerlere ne denir?|değerlere denir||DESCRIPTION|DEFINITION|Doğal miras|
+FAO'nun Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|BM gıda ve tarım örgütü|
+Fasulye kaç metreden yüksek yerlerde yetişmez?|metreden yüksek||NUMERIC|SIZE.HEIGHT|1200 metre|
+Federal Almanya ve Doğu Almanya hangi tarihte birleşmişlerdir?|tarihte||TEMPORAL|DATE|3 Ekim 1990/1990|
+FFI ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1903|
+FFI'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Uluslararası fauna ve flora|
+Filipinler'in başkenti neresidir?|başkenti||LOCATION|CAPITAL|Manila|
+Fırat nehrinde bahar aylarında saniyede geçen ortalama su akımı ne kadardır?|su akımı kadardır|ortalama|NUMERIC|SIZE.DENSITY|2000 metre küp/2000 m3|
+Fırat sularını nereye döker?|döker||LOCATION|LOCATION|Basra körfezi|
+Fiziki haritada tarım alanlarına uygun yerler hangi renkle gösterilir?|renkle||ENTITY|OTHERS|sarı|
+Fiziki haritalarda yeşil alanlar kaç metre aralıkları ifade eder?|metre aralıkları||NUMERIC|SIZE.LENGTH|0-200|
+Fransa'da yıllık kişi başına düşen milli gelir ne kadardır?|milli gelir kadardır||NUMERIC|MONEY|33.678$/33678$|
+Fransa'daki havaalanı sayısı kaçtır?|havaalanı sayısı||NUMERIC|COUNT|478|
+Fuji dağının yüksekliği ne kadardır?|yüksekliği kadardır||NUMERIC|SIZE.HEIGHT|3766 metre|
+G-20 ülkeleri ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|25 eylül 1999|
+G-8 ülkeleri hangi yıldan beri faaliyet göstermektedirler?|yıldan beri||TEMPORAL|DATE|1975|
+Galapagos takım adalarının toplam yüzölçümü yaklaşık ne kadardır?|yüzölçümü kadardır|toplam yaklaşık|NUMERIC|SIZE.AREA|50000 km2|
+Ganj nehri hangi ülkededir?|ülkededir||LOCATION|COUNTRY|Hindistan|
+Ganj nehri nerede doğar?|doğar||LOCATION|COUNTRY|Himalayalar|
+Ganj nehri nereden denize dökülür?|dökülür||LOCATION|CITY|Bengal Körfezi|
+GAP'ın açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Güneydoğu Anadolu Projesi|
+Geçtiği kıyılarda havanın soğumasına neden olan sulara ne denir?|sulara denir||DESCRIPTION|DEFINITION|okyanus akıntıları|
+Gelgitin oluşturduğu okyanus veya deniz suyunun yükselme ve geri çekilme hareketlerinin kıyılara kurulan türbinler sayesinde elektrik enerjisine çevrilmesine ne denir?|elektrik enerjisine çevrilmesine denir||DESCRIPTION|DEFINITION|Gelgit enerjisi|
+Gelişmekte olan ülkelerde ortalama yaşam süresinin uzamasının gelecekte doğuracağı en önemli sonuç nedir?|sonuç|en önemli|DESCRIPTION|EFFECT|Yaşlılık sorunu|
+Genç nüfus olarak kabul edilen yaş grubu nedir?|yaş grubu||NUMERIC|RANGE|0-14|
+Genel olarak Ekvator'dan kutuplara gidildikçe sıcaklık nasıl değişir?|değişir||DESCRIPTION|EFFECT|azalır|
+Genellikle ekinler biçildikten sonra buğday ve diğer tahılların tarlada kalan sap kısımlarına ne denir?|sap kısımlarına denir||DESCRIPTION|DEFINITION|Anız|
+Geniş yerkabuğu parçalarının yükselmesi ya da çökmesi şeklindeki yer hareketlerine ne denir?|yer hareketlerine denir||DESCRIPTION|DEFINITION|Epirojenez|
+Gerçek ölçülerin küçültülerek çizilmesine ne denir?|çizilmesine denir||DESCRIPTION|DEFINITION|plan|
+Göç alan şehirlerde ortaya çıkan problemlerin temel nedeni nedir?|nedeni|temel|DESCRIPTION|REASON|Plansız kentleşme|
+Göçlerin en önemli nedeni nedir?|nedeni||DESCRIPTION|REASON|Ekonomik faktörlerdir|
+Göçlerin kaç temel sebebi vardır?|sebebi|temel|NUMERIC|COUNT|4|
+Gökçeada'nın yüz ölçümü kaç kilometre karedir?|kilometre karedir||NUMERIC|SIZE.AREA|279 km2|
+Göknar ortalama hangi yükseklerde görülür?|yükseklikte|ortalama|NUMERIC|SIZE.HEIGHT|1000-1500 metre|
+Göl ayağının diğer bir adı nedir?|Göl ayağının adı|diğer|ENTITY|OTHERS|Gideğen|
+Gölden çıkan akarsuların beslendiği yerlere ne denir?|beslendiği yerlere denir||DESCRIPTION|DEFINITION|Gideğen|
+Gölgelendirme yöntemi ile çizim yapılırken haritanın sağ üst köşesinden kaç derecelik bir açıyla ışık geldiği varsayılır?|derecelik açıyla||NUMERIC|DEGREE|45|
+Göllerin fazla sularını boşaltan akarsulara ne denir?|akarsulara denir||DESCRIPTION|DEFINITION|Gideğen/göl ayağı|
+Gönüllü göçler üzerinde etkili olan faktörlere ne isim verilir?|faktörlere isim||DESCRIPTION|DEFINITION|Çekici faktörler|
+Granit, siyenit, diyorit ve gabro ne tip kayaçlardır?|kayaçlardır||ENTITY|ENTITY|İç püskürük|
+Granitik kabuğun bileşiminde en çok hangi elementler bulunur?|elementler|en çok|ENTITY|SUBSTANCE||
+Granitik kabuğun yoğunluğu ne kadardır?|yoğunluğu kadardır||NUMERIC|SIZE.DENSITY|2.7 g cm3|
+Granitik kabuk hangi taşlardan meydana gelir?|taşlardan||ENTITY|SUBSTANCE||
+Greenpeace örgütü ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1971|
+Greenpeace Türkiye'de ilk ofisini ne zaman açmıştır?|zaman açmıştır||TEMPORAL|DATE|1991|
+Greenwich'in antimeridyeni nedir?|antimeridyeni||ENTITY|OTHERS|1800 boylamı|
+Gulf Stream sıcak su akıntısı hangi yönde hareket eder?|yönde||ENTITY|OTHERS|kuzey|
+Gulf Stream sıcak su akıntısı nereleri etkiler?|etkiler||ENTITY|REGION|Avrupa iklimini|
+Güneş ışınlarını dik açıyla alan Ekvator çevresinin Dünya'nın en sıcak yeri olmamasının sebebi nedir?|sebebi||DESCRIPTION|REASON|enlem etkisi|
+Güneş ışınlarının kırılma ve yansıma miktarı neye göre artar?|göre||DESCRIPTION|REASON|atmosferde izlediği yola|
+Güneş'in ufuk düzlemi üzerinde en yüksek noktaya ulaştığı zamana ne denir?|zamana denir||DESCRIPTION|DEFINITION|Öğle vakti|
+Güneşten gelen mor ötesi ışınların büyük bir kısmını absorbe eden katman nedir?|katman||ENTITY|OTHERS|Ozon tabakası|
+Güneydoğu asyanın fazla göç almasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Tarıma elverişlilik|
+Günümüzde Almanyada yaklaşık kaç insanımız işçi olarak çalışmaktadır?|insanımız||NUMERIC|SIZE.POPULATION|1.3 milyon/1300000/1.300.000|
+Günümüzde doğadan yararlanmamızı artıran ve hızlandıran en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Teknoloji|
+Günün en soğuk anı ne zamandır?|zamandır||TEMPORAL|PERIOD|güneş doğmadan önce|
+Ham maddenin işlenerek kullanıma hazır hâle getirilmesini kapsayan faaliyetlerin tümüne ne denir?|faaliyetlerin tümüne denir||DESCRIPTION|DEFINITION|Sanayi|
+Harita çizimi ile uğraşan bilim dalına ne ad verilir?|bilim dalına ad||DESCRIPTION|DEFINITION|Kartoğrafya|
+Haritada ovalar hangi renkte gösterilir?|renkte||ENTITY|OTHERS|Sarı|
+Haritadaki uzunluğun gerçek uzunluğa bölünmesi neyi verir?|verir||DESCRIPTION|DESCRIPTION|Ölçek|
+Haritadaki uzunluk ile harita ölçeğinin çarpımı neyi verir?|verir||DESCRIPTION|DESCRIPTION|Gerçek uzunluğu|
+Haritaların küçültme oranına ne denir?|haritaların küçültme oranına denir||DESCRIPTION|DEFINITION|Ölçek|
+Hatay hangi yıl Türkiye'ye bağlanmıştır?|yıl||TEMPORAL|DATE|1939|
+Hava kirliliğinin oluşmasındaki başlıca etken nedir?|etken|başlıca|DESCRIPTION|REASON|Fabrikalar|
+Hava sıcaklığını ölçen araca ne ad verilir?|araca ad||DESCRIPTION|DEFINITION|Termometre|
+Hazar-Türkiye-Avrupa Doğal gaz hattı hangi proje kapsamında ilerlemektedir?|proje kapsamında||ENTITY|OTHERS|Nabuco Projesi|
+Hindistan bağımsızlığını hangi tarihte kazanmıştır?|tarihte||TEMPORAL|DATE|1947|
+Hindistan hangi kuzey enlemlerin arasındadır?|kuzey enlemlerin||NUMERIC|LATITUDE|60 370|
+Hindistan hangi sistemle yönetilir?|sistemle||ENTITY|OTHERS|Federal Cumhuriyet|
+Hindistan pamuk ve tütün üretimi bakımından dünyada kaçıncı sıradadır?|sıradadır||NUMERIC|COUNT|3|
+Hindistan’da 1.5 milyon kişinin ölümüyle sonuçlanan kuraklık hangi yıllar arasında olmuştur?|yıllar arasında||TEMPORAL|PERIOD|1965 1967|
+Hindistan'da yaşayanların yüzde kaçı tarımla uğraşır?|yaşayanların yüzde||NUMERIC|PERCENTAGE|0.64|
+Hindistan'ın idari şekli nedir?|idari şekli||ENTITY|OTHERS|Federal Cumhuriyet|
+Hindistan'ın tarım açısından en zengin ovaları hangileridir?|ovaları|en zengin|ENTITY|PLAIN|İndus ve Ganj|
+Hint kenevirinin diğer adı nedir?|adı|diğer|ENTITY|OTHERS|Jüt|
+Hinterlant'ın diğer adı nedir?|adı|diğer|ENTITY|OTHERS|Art bölge|
+Hiposantr depremin nerede oluşturduğu kısımdır?|oluşturduğu kısımdır||LOCATION|LOCATION|Yerin içinde|
+Hızla akan suyun, elektrik üreten türbinleri çalıştırması ile oluşan enerji ne enerjisidir?|enerjisidir||DESCRIPTION|DEFINITION|Hidroelektrik enerjisi|
+Hızlı bir şekilde dönen hava kolonlarınının bulunduğu fırtına sistemine ne ad verilir?|fırtına sistemine ad||ENTITY|OTHERS|Hortum|
+Hızlı Tren projesi kapsamında Ankara-İstanbul arası yolculuk süresinin kaç saat olması beklenmektedir?|saat||NUMERIC|COUNT|3 Saat|
+Hollanda topraklarının kaçta kaçı deniz seviyesinin altındadır?|Hollanda topraklarının||NUMERIC|PERCENTAGE|4’te 1/25%/%25|
+Hollanda'daki ormanlar ülke arazisinin yüzde kaçını oluşturur?|ülke arazisinin yüzde||NUMERIC|PERCENTAGE|0.18/18%/%18|
+Hollanda'nın en alçak noktası kaç metredir?|metredir||NUMERIC|SIZE.LENGTH|-6.7 m|
+Hollanda'nın en yüksek noktası kaç metredir?|metredir||NUMERIC|SIZE.LENGTH|321|
+Hollanda'nın en yüksek noktası neresidir?|noktası|en yüksek|LOCATION|LOCATION|Vaalsberg tepesi|
+Hollanda'nın kuzeyi ve güneyi arasındaki uzaklık ne kadardır?|uzaklık kadardır||NUMERIC|SIZE.LENGTH|300 km|
+Hollanda'nın nüfus yoğunluğu ne kadardır?|nüfus yoğunluğu kadardır||NUMERIC|SIZE.DENSITY|353 kişi/km2|
+Hollanda'nın resmi dili nedir?|resmi dili||HUMAN|LANGUAGE|Flemenkçe|
+HongKong hangi tarihe kadar İngiliz Krallığına bağlı bir sömürgeydi?|tarihe kadar||TEMPORAL|DATE|1 Temmuz 1997/1997|
+HongKong'da hangi iklim hakimdir?|iklim||ENTITY|OTHERS|Muson iklimi|
+Hürmüz boğazının en dar yeri ne kadardır?|yeri kadardır|en dar|NUMERIC|SIZE.LENGTH|56 km|
+İç Anadolu Bölgesi'nde hangi iklim türü hâkimdir?|iklim türü||ENTITY|OTHERS|karasal iklim|
+İç çekirdeğin sıcaklığı kaç dereceyi bulur?|dereceyi||NUMERIC|DEGREE||
+İç göçler hangi iki ana başlıkla ele alınır?|ana başlıkta|iki|ENTITY|OTHERS|Sürekli ve geçici|
+İç göçlerde hangi yaş grubunun etkisi daha fazladır?|yaş grubunun||HUMAN|GROUP|15 44|
+İç kuvvetlerin etkisiyle yeryüzünde oluşan hareketlerin adı nedir?|hareketlerin adı||DESCRIPTION|DEFINITION|Tektonik hareket|
+İçerisinde bitki ve hayvan fosili bulunduran kayaç hangisidir?|kayaç||ENTITY|ENTITY|Kırıntı tortul kayaçlar|
+İçinde yer altı suyunun bulunduğu tabakaya ne ad verilir?|tabakaya ad||ENTITY|OTHERS|Akifer|
+İdari ve ekonomik bakımdan yakınındaki daha büyük kente bağımlı kente ne ad verilir?|kente ad||ENTITY|OTHERS|Uydu kent|
+İgaçu çağlayanları hangi yıl dünya mirası kabul edilmiştir?|yıl||TEMPORAL|DATE|1984|
+İgaçu şelalerinin yüksekliği ne kadardır?|yüksekliği kadardır||NUMERIC|SIZE.LENGTH|80 m|
+İğne yapraklı ormanların yoğun olduğu soğuk kuşağa ne ad verilir?|soğuk kuşağa ad||DESCRIPTION|DEFINITION|Boreal kuşak|
+Ihlamur en fazla kaç metre yükseklikte görülür?|metre yükseklikte||NUMERIC|SIZE.HEIGHT|1000 metre|
+İke kasırgası ne kadar hıza ulaşmıştır?|kadar hıza||NUMERIC|SPEED|180 km-s|
+İke kasırgası ne zaman gerçekleşmiştir?|zaman gerçekleşmiştir||TEMPORAL|DATE|7 Eylül 2008|
+İki akarsu havzasını birbirinden ayıran sınıra ne ad verilir?|sınıra ad||DESCRIPTION|DEFINITION|Su bölümü çizgisi|
+İki paralel arasındaki uzaklık ne kadardır?|uzaklık kadardır||NUMERIC|SIZE.LENGTH|111 km|
+İklimin değişmesi en çok hangi ekonomik olayı etkiler?|ekonomik olayı||ENTITY|OTHERS|Tarım|
+İleri saat uygulamasına gidilmeye hangi tarihten itibaren başlanmıştır?|tarihten itibaren||TEMPORAL|DATE|1978|
+İlk coğrafi keşifler kaçıncı yüzyılda başlamıştır?|yüzyılda||TEMPORAL|CENTURY|14. Yüzyıl/XIV|
+İlk evcilleştirilen hayvan hangisidir?|hayvan||ENTITY|OTHERS|Köpek|
+İlk fotoğraf makinası ne zaman yapıldı?|zaman yapıldı||TEMPORAL|DATE|1837|
+İlk insanlar nereleri mesken olarak seçmişlerdir?|seçmişlerdir||LOCATION|LOCATION|Mağaralar|
+İlk kara yolu ne zaman yapılmıştır?|zaman yapılmıştır||TEMPORAL|DATE|Milattan Önce 7. Yüzyıl/M.Ö. VII. yy|
+İlk para kullanımı hangi uygarlık döneminde olmuştur?|uygarlık döneminde||ENTITY|OTHERS|Lidyalılar|
+İlk şehir yerleşmeleri hangi çağda görülür?|çağda||TEMPORAL|ERA|Maden çağı/Kalkolitik çağ|
+İlk şeker fabrikalarımız hangileridir?|şeker fabrikalarımız|ilk|ENTITY|OTHERS|Uşak Alpullu|
+İlk yerleşim yerlerinin akarsu boylarına kurulmasının temel sebebi nedir?|sebebi|temel|DESCRIPTION|REASON|Tarım|
+İlkbaharda yeşerip yaz boyu yeşil kalan ve bozkırdan daha gür olan bitki örtüsüne ne denir?|bitki örtüsüne denir||DESCRIPTION|DEFINITION|Alpin çayır|
+ILO'nun Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Uluslararası çalışma örgütü|
+IMF ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1944|
+IMF'de en fazla oy hakkı olan ülke hangisidir?|ülke||LOCATION|COUNTRY|Amerika birleşik devletleri|
+IMF'nin kaç tane kurucu üyesi vardır?|tane kurucu üyesi||NUMERIC|COUNT|44|
+IMF'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Uluslararası para fonu|
+İmparatorluklar ilk olarak hangi çağda kurulmuştur?|çağda||TEMPORAL|ERA|Maden Çağı/Kalkolitik Çağ|
+İngiliz ve Fransızlar Amerikanın hangi bölgelerinde koloniler kurmuşlardır?|bölgelerinde||LOCATION|REGION|Kuzey Amerika|
+İngiltere Avrupa'nın neresinde yer alır?|yer alır||ENTITY|OTHERS|Kuzeybatısında|
+İngiltere'de demir yolu ağı ne kadardır?|demir yolu ağı kadardır||NUMERIC|SIZE.LENGTH|Yaklaşık 18 bin km/18000 km/18.000 km|
+İngiltere'de kilometrekareye ortalama kaç insan düşer?|insan|ortalama|NUMERIC|AVERAGE|235|
+İngiltere'de yıllık nüfus artışı kaçtır?|nüfus artışı|yıllık|NUMERIC|PERCENTAGE|Binde iki/0.2%/%0.2|
+İngiltere'nin yıllık turizm geliri kaç dolardır?|dolardır||NUMERIC|MONEY|30 Milyar dolar/30.000.000.000 $/30000000000 $|
+İnsan ve insana ait faaliyetleri inceleyen coğrafyanın alt dalının adı nedir?|dalının adı|alt|DESCRIPTION|DEFINITION|Beşeri coğrafya|
+İnsani gelişim endeksini hangi topluluk hazırlar?|topluluk||HUMAN|GROUP|Birleşmiş Milletler|
+İnsanın kendi amaçları doğrultusunda değiştirmiş olduğu çevreye ne denir?|çevreye denir||DESCRIPTION|DEFINITION|Yapay çevre|
+İnsanın yaşamı üzerinde etkili olan faktörlerin toplamına ne denir?|faktörlerin toplamına denir||DESCRIPTION|DEFINITION|Çevre|
+İnsanlar besin ve iş gücü kaynağı olarak yeryüzünün hangi katmanından faydalanırlar?|katmanından||ENTITY|SPHERE|Biyosfer|
+İnsanlar havayolu ulaşımından yeryüzünün hangi katmanında faydalanırlar?|katmanında||ENTITY|SPHERE|Atmosfer|
+İnsanlar sudan çeşitli şekillerde yeryüzünün hangi katmanında faydalanırlar?|katmanında||ENTITY|SPHERE|Hidrosfer|
+İnsanlar tarafından kaynaklanan etkiler sonucunda istenmeyen zararlı maddelerin, suyun niteliğini bozacak kadar yükselmesi olayına ne denir?|yükselmesi olayına denir||DESCRIPTION|DEFINITION|Su kirliliği|
+İnsanlar toprağı işlemeyi, taşları çeşitli amaçlarla kullanmayı ve yer altı kaynaklarını işletmeyi yeryüzünün hangi katmanında yaparlar?|katmanında||ENTITY|SPHERE|Litosfer|
+İnsanlara ait ulaşım, sanayi, turizm, nüfuslanma ve yerleşme gibi faaliyetleri coğrafyanın hangi alt dalı konu edinir?|dalı|alt|ENTITY|OTHERS|Beşeri coğrafya|
+İnsanların barınma ihtiyacı için ürettikleri barınaklar neye göre farklılık gösterir?|göre||DESCRIPTION|REASON|yapı malzemeleri|
+İnsanların barınma, korunma ve çalışma gibi ihtiyaçlarını karşıladığı tüm yapılara ne denir?|yapılara denir|tüm|DESCRIPTION|DEFINITION|Mesken|
+İnsanların geçimini tarım ve hayvancılıktan sağladığı köylere ve köy altı yerleşmelerine ne denir?|köylere ve köy altı yerleşmelerine denir||DESCRIPTION|DEFINITION|Kırsal yerleşim|
+İnsanların yaşadığı doğal ortamlara genel olarak verilen isim nedir?|isim||DESCRIPTION|DEFINITION|Çevre|
+İnsanların yaşamlarını sürdürdükleri ve çeşitli ekonomik faaliyetlerde bulundukları bölgeye ne denir?|bölgeye denir||DESCRIPTION|DEFINITION|Yerleşme|
+İnsanların yılın belirli vakitleri özellikle gidip gezdiği şehirlere ne ad verilir?|şehirlere ad||DESCRIPTION|DEFINITION|Turizm kentleri|
+İnsanların yılın belli bir döneminde gezme, görme ve dinlenme amaçlarına yönelik olarak yaptıkları yer değişikliğine ne ad verilir?|yer değişikliğine ad||DESCRIPTION|DEFINITION|Turizm|
+İnsanlık tarihi boyunca Dünya nüfusunda kaç kez büyük artış dönemi yaşanmıştır?|kez||NUMERIC|COUNT|3|
+İpek böceği daha çok hangi ağacın yaprakları ile beslenir?|ağacın||ENTITY|PLANT|Dut ağacı|
+İpek böceği yetiştirme ve ondan koza elde etme işine ne ad verilir?|işine ad||DESCRIPTION|DEFINITION|İpek böcekçiliği|
+İpek böcekçiliği en çok hangi bölgemizde yapılmaktadır?|bölgemizde||LOCATION|REGION.LOCAL|Marmara|
+İpek yolunun başlangıcı hangi ülkedir?|ülkedir||LOCATION|COUNTRY|Çin|
+İplik makinesi kaç yılında icat edilmiştir?|yılında||TEMPORAL|DATE|1764|
+İplik makinesini kim icat etmiştir?|icat etmiştir||HUMAN|INDIVIDUAL|James Hargreaves|
+İskandinav yarımadası hangi iklim kuşağında yer alır?|iklim kuşağında||ENTITY|OTHERS|Soğuk iklim kuşağı|
+İspanyollar Amerikanın hangi bölgesinde koloniler kurmuşlardır?|bölgesinde||LOCATION|REGION|Güney Amerika|
+İstanbul Boğazı hangi jeolojik dönemde oluşmuştur?|jeolojik dönemde||TEMPORAL|ERA|IV. Zaman/Antropozoik/Kuvaterner|
+İstanbul'da güneydoğudan esen rüzgâra ne ad verilir?|rüzgâra ad||ENTITY|WIND|Keşişleme|
+İstanbul'un nüfusu yaklaşık kaçtır?|nüfusu|yaklaşık|NUMERIC|SIZE.POPULATION|13700000|
+İtalya'da hakim olan din hangisidir?|din||HUMAN|RELIGION|Hristiyanlık|
+İtalya'da sanayi hangi tarihten sonra hızlı bir ilerleme sürecine girmiştir?|tarihten sonra||TEMPORAL|DATE|1950|
+İtalya'nın en büyük adaları hangileridir?|adaları|en büyük|ENTITY|OTHERS|Sicilya ve Sardinya|
+İtalya'nın uzaydan görünüşü neyi andırır?|andırır||DESCRIPTION|DESCRIPTION|Çizme|
+İtalya'ya bir yılda yaklaşık ne kadar turist gelmektedir?|kadar turist||NUMERIC|SIZE.POPULATION|40 milyon/40000000/40.000.000|
+IV. Jeolojik zamanın başlarında Dünya genelinde buzul alanları kaçıncı enleme kadar gelmiştir?|enleme||NUMERIC|LATITUDE|500|
+İzmir İktisat kongresi kimin teşviki ile olmuştur?|teşviki ile||HUMAN|INDIVIDUAL|Mustafa Kemal Atatürk|
+İzmir'in nüfusu yaklaşık kaçtır?|nüfusu|yaklaşık|NUMERIC|SIZE.POPULATION|3400000|
+Japon erkelerinin ortalama ömrü ne kadardır?|ömrü kadardır|ortalama|NUMERIC|COUNT|77 yıl/77 sene|
+Japonya arazisinin yüzde kaçı dağlardan oluşur?|Japonya arazisinin yüzde||NUMERIC|PERCENTAGE|%70/70%|
+Japonya demir çelik üretiminde dünyada kaçıncı sıradadır?|sıradadır||NUMERIC|COUNT|2|
+Japonya hangi iklimin etkisi altındadır?|iklimin||ENTITY|OTHERS|Muson|
+Japonya'da kişi başına düşen milli gelir ne kadardır?|milli gelir kadardır||NUMERIC|MONEY|23.100 $/23100 $|
+Japonya'da yıllık ortalama deprem sayısı kaçtır?|deprem sayısı|yıllık ortalama|NUMERIC|AVERAGE|1500|
+Japonya'nın başkenti neresidir?|başkenti||LOCATION|CAPITAL|Tokyo|
+Japonya'nın dili nedir?|dili||HUMAN|LANGUAGE|Japonca|
+Japonya'nın en yüksek dağları hangi adadadır?|adadadır||ENTITY|OTHERS|Honşu adasında|
+Japonya'nın nüfusu ne kadardır?|nüfusu kadardır||NUMERIC|SIZE.POPULATION|127463611/127.463.611|
+Japonya'nın yüz ölçümü ne kadardır?|yüz ölçümü kadardır||NUMERIC|SIZE.AREA|377.815 km2|
+Jeolojik bir dönemle ya da yöreyle ilgili insanlar dışındaki hayvanların tümünün yaşamına ne ad verilir?|yaşamına ad||DESCRIPTION|DEFINITION|Fauna|
+Kaç adet paralel vardır?|adet paralel||NUMERIC|COUNT|180|
+Kaç çeşit deprem dalgası vardır?|çeşit||NUMERIC|COUNT||
+Kaç çeşit deprem dalgası vardır?|çeşit||NUMERIC|COUNT|3|
+Kar örtüsünün hızlı bir şekilde eğim yönünde hareket etmesine ne denir?|hareket etmesine denir||DESCRIPTION|DEFINITION|Çığ|
+Kar ve buz sularıyla beslenen akarsuların akışında azalma hangi mevsimde olur?|mevsimde||TEMPORAL|SEASON|Kış|
+Kar yağışlarının fazla, arazinin engebeli olduğu bölgelerde hangi doğal afet daha fazla görülür?|doğal afet||ENTITY|OTHERS|Çığ|
+Kara ve denizlerde düşey doğrultudaki alçalma yükselme hareketlerine ne denir?|alçalma yükselme hareketlerine denir||DESCRIPTION|DEFINITION|Epirojenez|
+Kara Yolları Genel Müdürlüğü ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1950|
+Karaçam ortalama hangi yüksekliklerde görülür?|yüksekliklerde|ortalama|NUMERIC|SIZE.HEIGHT|1000-2000 metre|
+Karadeniz kıyılarında ormanların tahrip edildiği bölgelerde rastlanan çalılara ne ad verilir?|çalılara ad||DESCRIPTION|DEFINITION|Psödomaki|
+Karadeniz kıyılarının yüzde kaçı heyelan riski taşır?|Karadeniz kıyılarının yüzde||NUMERIC|PERCENTAGE|0.89/%89/89%|
+Karadeniz’in Akdeniz’e açılmasını sağlayan boğazlar hangileridir?|boğazlar||ENTITY|OTHERS|İstanbul Boğazı Çanakkale Boğazı|
+Karain mağarası hangi ilin sınırları içerisindedir?|ilin||LOCATION|CITY|Antalya|
+Karalarda güneş ışınlarının etkili olduğu derinlik ne kadardır?|derinlik kadardır||NUMERIC|SIZE.DEPTH||
+Karaların denizlere doğru olan dar uzantısına ne ad verilir?|uzantısına ad|dar|ENTITY|ENTITY|Burun|
+Karasal iklimde yıllık yağış miktarı kaç mm'dir?|mm'dir||NUMERIC|SIZE.VOLUME|500 - 600 mm|
+Karınca yuvalarının açık önü hangi yönü gösterir?|hangi yönü||ENTITY|OTHERS|Kuzey|
+Kars hangi yıl il yapılmıştır?|yıl||TEMPORAL|DATE|1924|
+Karstik mağaralarda oluşan sarkıt ve dikitler hangi kayaç türlerindendir?|kayaç türlerindendir||ENTITY|ENTITY|Kimyasal tortul kayaç|
+Kasırgaların saattaki ortalama hızları kaçtır?|hızları|ortalama|NUMERIC|SPEED|120 km|
+Katı haldeki yer kabuğunun sıvı haldeki manto üzerinde batmadan kalabilmesine ne denir?|batmadan kalabilmesine denir||DESCRIPTION|DEFINITION|İzostatik denge|
+Katı, sıvı ya da gaz halindeki maddelerin yeryüzüne çıktığı yere ne denir?|yere denir||DESCRIPTION|DEFINITION|Yanardağ|
+Kavimler göç hangi çağın kapanmasına sebep olmuştur?|çağın||TEMPORAL|ERA|İlk çağ|
+Kavimler göçü hangi yıllar arasında olmuştur?|yıllar arasında||TEMPORAL|PERIOD|350/800|
+Kavimler göçü kaçıncı yüzyıllarda gerçekleşmiştir?|yüzyıllarda gerçekleşmiştir||TEMPORAL|CENTURY|4.yy 5.yy/IV. V. yy|
+Kayaçların ayrışması kaç şekilde gerçekleşir?|şekilde||NUMERIC|COUNT|2|
+Kayaların başkalaşıma uğramasına ne sebep olur?|sebep olur||DESCRIPTION|REASON||
+Kazakistan'ın kuruluş yılı nedir?|kuruluş yılı||TEMPORAL|DATE|1991|
+KEİ ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|25 haziran 1992|
+KEİ'nin açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Karadeniz ekonomik işbirliği teşkilatı|
+Keops Piramidi kaç adet taş bloktan yapılmıştır?|adet taş bloktan||NUMERIC|COUNT|3 Milyon/3000000/3.000.000|
+Kestane renkli bozkır topraklarının olduğu bir yörede yıllık yağış miktarı ne kadardır?|yağış miktarı kadardır|yıllık|NUMERIC|SIZE.HEIGHT|400mm 600mm|
+KGM neyin kısaltmasıdır?|kısaltmasıdır||ABBREVIATION|EXPRESSION|Kara Yolları Genel Müdürlüğü|
+Kiel Kanalı hangi tarihte deniz trafiğine açılmıştır?|tarihte||TEMPORAL|DATE|1895|
+Kiel kanalının uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|99 km|
+Kılıçkaya barajı hangi ırmağın üzerinde yer almaktadır?|ırmağın üzerinde||ENTITY|RIVER|Yeşilırmak|
+Kır yerleşmelerinin en büyüğüne ne denir?|kır yerleşmelerinin denir||DESCRIPTION|DEFINITION|Köy|
+Kırsal yerleşmeler kaça ayrılır?|kırsal yerleşmeler ayrılır||NUMERIC|COUNT|2|
+Kıta bölünmeleri hangi jeolojik zamanda başlamıştır?|jeolojik zamanda||TEMPORAL|ERA|II. zaman/Mezezoik|
+Kıta sahanlığı ile derin deniz platformunu birbirine bağlayan bölüme ne denir?|bölüme denir||DESCRIPTION|DEFINITION|Kıta yamacı|
+Kıtalar arası ilk telefon görüşmesi ne zaman yapıldı?|zaman yapıldı||TEMPORAL|DATE|1915|
+Kıyıdan 200 metre derinliğe kadar olan saha neyle ifade edilir?|saha ifade edilir||DESCRIPTION|DEFINITION|Kıta sahanlığı|
+Kızılağaç en fazla kaç metre yükseklikte görülür?|metre yükseklikte||NUMERIC|SIZE.HEIGHT|1000 metre|
+Kızılçamın dünyada en geniş yayılış alanı nerededir?|yayılış alanı|en geniş|LOCATION|LOCATION|Türkiye|
+Kızılırmak nehrinin uzunluğu kaç metredir?|metredir||NUMERIC|SIZE.LENGTH|1350 m|
+Kömür yatakları hangi jeolojik zamanda oluşmuştur?|jeolojik zamanda||TEMPORAL|ERA|Paleozoik|
+Konya kapalı havzasının akılcı kullanımına doğru projesi hangi yıl başlamıştır?|yıl||TEMPORAL|DATE|2003|
+Konya'nın nüfusu yaklaşık kaçtır?|nüfusu|yaklaşık|NUMERIC|SIZE.POPULATION|2000000|
+Konya'nın yüzölçümü yaklaşık ne kadardır?|yüzölçümü kadardır|yaklaşık|NUMERIC|SIZE.AREA|41000 km2|
+Köpek hangi çağda evcilleştirilmiştir?|çağda||TEMPORAL|ERA|Mezolitik Çağ/orta taş çağı|
+Köy yerleşmelerinin toplu olmasındaki en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Doğal faktörler|
+Köylerdeki nüfus miktarı genelde kaçtır?|nüfus miktarı||NUMERIC|SIZE.POPULATION|2000den az|
+Koyun ve keçi gibi hayvanların genel adı nedir?|adı|genel|ENTITY|OTHERS|Küçükbaş hayvan|
+Kraterlerin patlama ya da çökmelerle genişlemiş şekillerine ne denir?|şekillerine denir||DESCRIPTION|DEFINITION|Kaldera|
+Kristof Kolomb Amerika'ya ilk kez ne zaman ulaşmıştır?|zaman ulaşmıştır||TEMPORAL|DATE|1492|
+Kümülüs bulutları kaç metre aralığında bulunur?|metre||NUMERIC|RANGE|2000 - 16000 m|
+Kura nehri sularını nereye döker?|döker||LOCATION|LOCATION|Hazar denizi|
+Kurak bölgelerde ilkbahar yağışıyla yeşeren ve yazın sararan ot topluluklarına ne denir?|ot topluluklarına denir||DESCRIPTION|DEFINITION|Bozkır|
+Küresel ısınmanın en önemli sonucu nedir?|sonucu|en önemli|DESCRIPTION|EFFECT|İklim değişikliği|
+Kütahya’nın hangi ilçesinde feldispat yatakları mevcuttur?|ilçesinde||LOCATION|CITY|Simav|
+Kutup altı iklim bölgesinde, kısa ve serin geçen yaz döneminde yeşeren otsu bitki örtüsüne ne ad verilir?|bitki örtüsüne ad|otsu|DESCRIPTION|DEFINITION|Tundra|
+Kutup bölgelerinde yerleşmeyi sınırlandıran en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Buzul dağları|
+Kutuplara eşit uzaklıktaki noktaların birleştirilmesiyle elde edilen hayali çembere ne ad verilir?|hayali çembere ad||ENTITY|ENTITY|Ekvator|
+Kutuplara yakın bölgelerde nüfus yoğunluğunun az olmasının en önemli sebebi nedir?|sebebi|en önemli|DESCRIPTION|REASON|İklim|
+Kutuplara yakın yerde kar ve buz kullanılarak yapılan meskenlere ne ad verilir?|meskenlere ad||DESCRIPTION|DEFINITION|İglo|
+Kuzey Amerika'nın doğu kıyılarının batı kıyılarına göre daha soğuk olmasına sebep olan nedir?|sebep olan||DESCRIPTION|REASON|çöl iklimi|
+Kuzey anadolu dağlarının denize bakan yamaçlarında görülen toprak çeşidinin adı nedir?|toprak çeşidinin adı||ENTITY|OTHERS|Kahverengi orman toprakları|
+Lav nedir?|lav||DESCRIPTION|DEFINITION||
+Lavların ve tüflerin yeryüzüne çıkmak için izledikleri yola ne ad verilir?|yola ad||DESCRIPTION|DEFINITION|Volkan bacası|
+Lavların yeryüzüne çıkmak için izledikleri yola ne denir?|yola denir||DESCRIPTION|DEFINITION|Volkan bacası|
+Lejant ne demektir?|demektir||DESCRIPTION|DEFINITION|Harita anahtarı|
+Levha hareketleri sonucunda ortaya çıkan gerilimler neyin kırılmasına neden olur?|kırılmasına||ENTITY|ENTITY|Sert tabakaların|
+Levha tektoniği teorisi kimin teorisinin geliştirilmiş halidir?|teorisinin||HUMAN|INDIVIDUAL|Alfred Wegener|
+LIFE'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Çevre projelerini destekleme programı|
+Lüle taşı hangi il çevresinde çıkarılır?|il çevresinde||LOCATION|CITY|Eskişehir|
+M.Ö. 4000 yılında tahmini insan nüfusu ne kadardır?|insan nüfusu kadardır|tahmini|NUMERIC|SIZE.POPULATION|30.000.000/30 Milyon|
+Maden cevheri içindeki metal oranına ne isim verilir?|metal oranına isim||ENTITY|OTHERS|Tenör|
+Maki bitki örtüsünün ortalama boyu ne kadardır?|boyu kadardır|ortalama|NUMERIC|SIZE.HEIGHT|1-3 metre|
+Maki hangi iklime uygun bir bitki örtüsüdür?|iklime||ENTITY|OTHERS|Akdeniz|
+Maki ve çalılıkların yaygın olduğu bölgelerde yapılan hayvancılıkta hangi hayvan daha yaygındır?|hayvan||ENTITY|OTHERS|Kıl keçisi|
+Mal ve hizmetlerin kullanılması ne ile ifade edilir?|ile ifade edilir||DESCRIPTION|DEFINITION|Tüketim|
+Mal ve hizmetlerin sağlanmasına ne denir?|Mal ve hizmetlerin sağlanmasına denir||DESCRIPTION|DEFINITION|Üretim|
+Mal ve hizmetlerin tüketiciye ulaştırılmasına ne ad verilir?|ulaştırılmasına ad||DESCRIPTION|DEFINITION|Dağıtım|
+Manş tüneli denizin kaç metre altında inşa edilmiştir?|metre||NUMERIC|SIZE.DEPTH|91 metre|
+Manş tüneli hangi tarihte hizmete açılmıştır?|tarihte||TEMPORAL|DATE|1994|
+Manş tüneli hangi ülkeler arasındadır?|ülkeler||LOCATION|COUNTRY|Fransa İngiltere|
+Manto, Yer Yuvarlağı hacminin yüzde kaçını kaplamaktadır?|hacminin yüzde||NUMERIC|PERCENTAGE||
+Mantonun içerisindeki konveksiyon akıntıları hangi yönde hareket eder?|yönde||ENTITY|OTHERS||
+Mariana deniz çukuru kaç kilometre derinliktedir?|kilometre||NUMERIC|SIZE.DEPTH|11|
+Marmara depremi hangi tarihte meydana gelmiştir?|tarihte||TEMPORAL|DATE|17 Ağustos 1999|
+Marmara depremi kaç şiddetinde olmuştur?|şiddetinde||NUMERIC|COUNT|7.4|
+Matbaa ne zaman icat edildi?|zaman icat edildi||TEMPORAL|DATE|1450|
+Mavi Akım Projesi hangi tarihte tamamlanmıştır?|tarihte||TEMPORAL|DATE|2002|
+Mendereslerde aşınma kısmına ne ad verilir?|aşınma kısmına ad||DESCRIPTION|DEFINITION|Çaprak|
+Mendereslerde biriktirme kısmına ne ad verilir?|biriktirme kısmına ad||DESCRIPTION|DEFINITION|Yığınak|
+Mercanların yığılmasıyla ortaya çıkan kaya zincirlerine ne ad verilir?|kaya zincirlerine ad||ENTITY|OTHERS|Resif|
+Meskenlerin yapımında kullanılan malzemeler üzerinde en çok ne etkilidir?|etkilidir|en çok|DESCRIPTION|EFFECT|Doğal çevre|
+Mezralar daha çok hangi bölgemizde görülür?|bölgemizde||LOCATION|REGION.LOCAL|Doğu Anadolu Bölgesi|
+Miladi takvimin başlangıcı olan 0 yılında tahmini dünya nüfusu ne kadardır?|dünya nüfusu kadardır|tahmini|NUMERIC|SIZE.POPULATION|310.000.000/310 milyon|
+Milet Amfi Tiyatrosu hangi ilçededir?|ilçededir||LOCATION|CITY|Söke|
+Milet Amfi Tiyatrosu hangi ildedir?|ildedir||LOCATION|CITY|Aydın|
+Milli parklar kanunu kaç yılında çıkarılmıştır?|yılında||TEMPORAL|DATE|1983|
+MTA ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1935|
+MTA nedir?|MTA||ABBREVIATION|EXPRESSION|Maden Tetkik ve Arama|
+Muson ikliminde yıllık sıcaklık farkı ne kadardır?|sıcaklık farkı kadardır|yıllık|NUMERIC|DEGREE|10 C|
+NAFTA'nın Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Kuzey amerika  serbest ticaret birliği|
+NATO kaç yılında kurulmuştur?|yılında||TEMPORAL|DATE|1949|
+NATO'nun en büyük sivil organı nedir?|sivil organı|en büyük|DESCRIPTION|DEFINITION|Kuzey atlantik konseyi|
+NATO'nun en yüksek askeri organı nedir?|askeri organı|en yüksek|DESCRIPTION|DEFINITION|Askeri komite|
+NATO'nun kurucu üye sayısı kaçtır?|kurucu üye sayısı||NUMERIC|COUNT|12|
+NATO'nun Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Kuzey atlantik antlaşması örgütü|
+Neden ve sonuç bakımından karmaşık coğrafya olaylarını incelerken hangi coğrafya ilkesine başvurulur?|coğrafya ilkesine||ENTITY|OTHERS|nedensellik ilkesi|
+Nil Deltası hangi ülkenin sınırları içerisindedir?|ülkenin||LOCATION|COUNTRY|Mısır|
+Nil nehri üzerine kurulmuş en büyük barajın adı nedir?|barajın adı|en büyük|ENTITY|OTHERS|Aswan|
+Normal fay, ters fay dışındaki fay çeşidi hangisidir?|fay çeşidi||DESCRIPTION|DEFINITION|Doğrultu atımlı fay|
+Norveç, İsveç gibi ülkelerde en önemli geçim kaynağı nedir?|geçim kaynağı|en önemli|DESCRIPTION|DEFINITION|Balıkçılık|
+Nüfus artış hızı en fazla olan kıta hangisidir?|kıta||LOCATION|CONTINENT|Afrika|
+Nüfus hangi üç yaş grubunda incelenir?|üç yaş grubunda||HUMAN|GROUP|Genç olgun yaşlı|
+Nüfusu 10000'in altında olan yerleşkelere ne ad verilir?|yerleşkelere ad||DESCRIPTION|DEFINITION|Kırsal Yerleşke|
+Nüfusun yaş yapısını belirleyen en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Doğum oranı|
+OECD ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1948|
+OECD'nin açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Ekonomik Kalkınma ve İşbirliği Örgütü|
+OECD'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Ekonomik kalkınma ve iş birliği örgütü|
+Okyanus, deniz, göl, akarsu, kaynak suları ve yer altı sularının bütününe ne ad verilir?|bütününe ad||ENTITY|OTHERS|su kaynakları|
+Ölçeği 1/20000 ile 1/200000 arasında olan haritalar hangileridir?|haritalar||DESCRIPTION|DEFINITION|Topoğrafya Haritaları|
+Olgun nüfus olarak kabul edilen yaş grubu nedir?|yaş grubu||NUMERIC|RANGE|15-64|
+Oltu taşı hangi ilimizde çıkarılmaktadır?|ilimizde||LOCATION|CITY|Erzurum|
+Oluşumunda insanın etkisi olmayan çevreye ne denir?|çevreye denir||DESCRIPTION|DEFINITION|Doğal çevre|
+Oluşumunda tektonik hareketler, volkanik olaylar ve doğal etkenlerin eş zamanlı rol oynadığı göllere ne denir?|göllere denir||DESCRIPTION|DEFINITION|Karma oluşumlu göller|
+OPEC ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1960|
+OPEC'in Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Petrol ihraç eden ülkeler örgütü|
+Orman örtüsünün bulunmadığı yüksek yaylalarda ve dağlarda yaygın olan mesken çeşidi nedir?|mesken çeşidi||DESCRIPTION|DEFINITION|Taş mesken|
+Ormanlar günümüzde yeryüzünün yüzde kaçını kaplamaktadır?|yeryüzünün yüzde||NUMERIC|PERCENTAGE|25%|
+Ormanların tahrip edilmesi sonucu oluşan bozkırlara ne denir?|bozkırlara denir||DESCRIPTION|DEFINITION|Antropojen Bozkır|
+Orta kuşağın nemli ormanlarında yıllık yağış miktarı ne kadardır?|yağış miktarı kadardır|yıllık|NUMERIC|SIZE.VOLUME|1000 mm|
+Orta kuşaktaki pek çok insanın en temel besin maddesi nedir?|besin maddesi|en temel|DESCRIPTION|DESCRIPTION|Buğday|
+Osmaniye hangi yıl il olarak kabul edildi?|yıl||TEMPORAL|DATE|1996|
+Osmanlı devleti bünyesinde yaşayan Rumların temel geçim kaynağı neydi?|geçim kaynağı|temel|DESCRIPTION|DESCRIPTION|Ticaret|
+Osmanlı devletinde ilk nüfus sayımı hangi padişah zamanında yapılmıştır?|padişah zamanında||HUMAN|INDIVIDUAL|2.Mahmut/II. Mahmut/Mahmut II|
+Osmanlı devletinde ilk nüfus sayımı ne zaman yapılmıştır?|zaman yapılmıştır||TEMPORAL|DATE|1831|
+Özbekistan'ın kuruluş yılı nedir?|kuruluş yılı||TEMPORAL|DATE|1991|
+Ozon oluşumu hangi katmanda oluşur?|katmanda||ENTITY|OTHERS|Mezosfer- Ozonosfer|
+Ozon tabakasının incelmesinin en önemli sebebi nedir?|sebebi|en önemli|DESCRIPTION|REASON|Kloroflorokarbon gazları|
+P dalgalarının manto ile çekirdek arasındaki hızları ne kadardır?|hızları kadardır||NUMERIC|SPEED|13 km s|
+Paleozoik dönemdeki tek büyük kara parçası nedir?|kara parçaşı|tek büyük|ENTITY|OTHERS|Pangea|
+Pamuk bitkisinin tohumuna ne ad verilir?|tohumuna ad||ENTITY|OTHERS|Çiğit|
+Pamukkale travertenleri hangi ilin sınırları içerisindedir?|ilin sınırları||LOCATION|CITY|Denizli|
+Panama kanalından bir yılda yaklaşık kaç gemi geçmektedir?|gemi||NUMERIC|AVERAGE|13-14 bin/13000 14000|
+Pangea’nın ikiye ayrılmasıyla güneyde oluşan kara parçasının adı nedir?|adı||ENTITY|OTHERS|Gondwana|
+Paraleller hangi doğrultuda uzanır?|doğrultuda||ENTITY|OTHERS|Doğu-Batı|
+Patamoloji nedir?|patamoloji||DESCRIPTION|DEFINITION|Akarsu bilimi|
+Pekin'in nüfusu kaç kişidir?|kişidir||NUMERIC|SIZE.POPULATION|19 Milyon/19000000/19.000.000|
+Petrol ürünlerinin kullanılması sonucu havaya en çok yayılan gazın adı nedir?|gazın adı||ENTITY|OTHERS|Karbondioksit|
+Petrol yataklarımızın büyük bir çoğunluğu hangi bölgemizde yer almaktadır?|bölgemizde||LOCATION|REGION.LOCAL|Güneydoğu Anadolu|
+Peygamberler ve din yayıcılarının yaşadığı yerler etrafında kurulan şehirlere ne denir?|şehirlere denir||DESCRIPTION|DEFINITION|Dini kentler|
+Pirinç hangi bitkinin kabuklarından ayrılmasıyla elde edilir?|bitkinin||ENTITY|PLANT|Çeltik|
+Profil hangi tip haritalardan çıkarılabilir?|tip haritalardan||ENTITY|OTHERS|Fiziki Haritalardan|
+Püskürük ve tortul kayaçların aşırı sıcaklık ve basınç altında kalarak değişime uğramasıyla oluşan kayaçlara ne isim verilir?|kayaçlara isim||ENTITY|ENTITY||
+Ramsar sözleşmesi ilk ne zaman imzalanmıştır?|zaman imzalanmıştır||TEMPORAL|DATE|1971|
+Regresyon kısaca nedir?|regresyon||DESCRIPTION|DEFINITION|Deniz gerilemesi|
+Renkli televizyonun ilk üretilme tarihi nedir?|üretilme tarihi|ilk|TEMPORAL|DATE|1928|
+Rihter ölçeği ne amaçla kullanılır?|amaçla||DESCRIPTION|REASON|Deprem şiddetini ölçmek|
+Rize çay üretimimizin yüzde kaçını karşılar?|çay üretimimizin yüzde||NUMERIC|PERCENTAGE|0.75/%75/75%|
+Rotterdam hangi ülkenin şehridir?|ülkenin||LOCATION|COUNTRY|Hollanda|
+Rusya Federasyonu hangi yıl kurulmuştur?|yıl||TEMPORAL|DATE|1991|
+Rusya hangi ülkenin dağılmasıyla kurulmuştur?|ülkenin||LOCATION|COUNTRY|SSCB|
+Rusya'daki petrol rezervlerinin %80'i Rusya'nın hangi bölgesinde bulunur?|bölgesinde||LOCATION|REGION|Sibirya|
+Rusya'nın hangi kıtalarda toprağı vardır?|kıtalarda||LOCATION|CONTINENT|Avrupa Asya|
+Rüzgar enerjisi hangi ülke tarafından keşfedilmiştir?|ülke||LOCATION|COUNTRY|Danimarka|
+Rüzgarın hızı kaç kilometrenin üzerine çıkarsa fırtına denir?|kilometrenin üzerine||NUMERIC|SPEED|63 km|
+Rüzgarın hızı neyle ölçülür?|ölçülür||ENTITY|INSTRUMENT|anemometre|
+Rüzgârların taşıyarak oluşturdukları topraklara ne ad verilir?|topraklara ad||DESCRIPTION|DEFINITION|Lös topraklar|
+S dalgaları deprem esnasında hangi dalgalardan sonra gelirler?|dalgalardan||ENTITY|OTHERS|P dalgalarından|
+Saat dilimleri kaç meridyende bir numaralandırılır?|meridyende bir||NUMERIC|COUNT|15|
+Sadabat Paktı hangi ülkelerden oluşuyordu?|ülkelerden||LOCATION|COUNTRY|Türkiye İran Irak Afganistan|
+Sadece Türkiye'de bulunan ve dünyanın başka hiç bir yerinde görülmeyen bitkilere ne ad verilir?|bitkilere ad||DESCRIPTION|DEFINITION|Endemik bitki|
+Sakarya nehri hangi denize dökülür?|denize||ENTITY|SEA|Karadeniz|
+Sanayi devrimi ile en önemli nüfus artışı hangi kıtada yaşanmıştır?|kıtada||LOCATION|CONTINENT|Avrupa|
+Sanayi devrimi kaçıncı yüzyılda gerçekleşmiştir?|yüzyılda||TEMPORAL|CENTURY|18. Yüzyıl/XVIII. yy|
+Sanayi İnkılâbı ilk olarak hangi ülkede başlamıştır?|ülkede|ilk olarak|LOCATION|COUNTRY|İngiltere|
+Sanayi tesislerinde kullanılmak üzere işlenmiş ya da yarı işlenmiş maddelere ne ad verilir?|maddelere ad||DESCRIPTION|DEFINITION|Ham madde|
+Sanayi’nin diğer adı nedir?|adı|diğer|ENTITY|OTHERS|Endüstri|
+Sanayileşmenin artmasıyla, maden yataklarının etrafında baş gösteren şehirleşme çeşidi nedir?|şehirleşme çeşidi||DESCRIPTION|DEFINITION|Sanayi şehirleri|
+Sarıçam Türkiye'de daha çok nerede bulunur?|bulunur|daha çok|LOCATION|REGION.LOCAL|Kuzey anadolu dağları|
+Savaşlar, sınır ihlalleri ve iç karışıklıklar nedeniyle can güvenliklerini sağlamak için ülke değiştiren insanlara ne denir?|ülke değiştiren insanlara denir||DESCRIPTION|DEFINITION|Mülteci|
+Sel sularının akarsu yatağının dışına çıkarak tarım alanlarına taşmasına ne denir?|taşmasına denir||DESCRIPTION|DEFINITION|Taşkın|
+Seralarda sürdürülen faaliyetlere ne ad verilir?|faaliyetlere ad||DESCRIPTION|DESCRIPTION|Seracılık|
+Seramik, porselen, çömlek, tuğla ve kiremit yapımında ham madde olarak hangi toprak çeşidi kullanılır?|toprak çeşidi||ENTITY|OTHERS|Killi toprak|
+Ses kayıt makinasının icat edilme tarihi nedir?|icat edilme tarihi||TEMPORAL|DATE|1877|
+Sıcak su kaynaklarından yararlanılarak elektrik enerjisi üreten santrallere ne denir?|santrallere||DESCRIPTION|DEFINITION|Jeotermal Santraller|
+Sıcaklık ve nem bakımından farklı özellikteki hava kütlelerinin karşılaşma alanlarında ne meydana gelir?|meydana gelir||ENTITY|OTHERS|cephe yağışı|
+Sınırları belli bir alanda, belli bir süre içinde nüfus sayısındaki değişime ne denir?|değişime denir||DESCRIPTION|DEFINITION|Nüfus artışı|
+Sirüs bulutları kaç metre yükseklikte bulunur?|metre||NUMERIC|SIZE.HEIGHT|18000 m|
+Sismoloji neyle ilgili araştırmaları yapar?|ilgili||ENTITY|ENTITY|Deprem|
+Sıvı haldeki astenosfer malzemesine ne denir?|astenosfer malzemesine denir||ENTITY|SUBSTANCE||
+Soma ovasını sulayan ırmağın adı nedir?|ırmağın adı||ENTITY|RIVER|Bakırçay|
+Son yüzyılda, bilim ve teknolojinin gelişiminde başı çeken şehirlere ne ad verilir?|şehirlere ad||DESCRIPTION|DEFINITION|Teknoloji kentleri|
+SSCB'nin açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Sovyet Sosyalist Cumhuriyetler Birliği|
+Su gücünden elde edilen elektrik enerjisine ne denir?|elektrik enerjisine denir||DESCRIPTION|DEFINITION|Hidroelektrik|
+Su gücüyle çalışan iplik makinesi hangi tarihte icat edilmiştir?|tarihte||TEMPORAL|DATE|1769|
+Su gücüyle çalışan iplik makinesi kim tarafından icat edilmiştir?|icat edilmiştir||HUMAN|INDIVIDUAL|Richard Arkwright|
+Su küre, taş küre ve hava kürenin her birine yayılmış olan küre hangisidir?|küre||ENTITY|OTHERS|hava küre (atmosfer)|
+Sudaki tek hücreli canlıların ortaya çıkışı hangi jeolojik zamana rastlar?|jeolojik zamana||TEMPORAL|ERA|İlkel zaman|
+Sürülmesi ve işlenmesi zor, kil oranı fazla olan topraklara ne isim verilir?|topraklara isim||DESCRIPTION|DEFINITION|Vertisol|
+Susurluk çayının diğer adı nedir?|adı|diğer|ENTITY|RIVER|Simav çayı|
+Süveyş Kanalının uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|161 Km|
+Suyun atmosfer ile yeryüzü arasındaki dönüşüm hareketine ne ad verilir?|dönüşüm hareketine ad||DESCRIPTION|DEFINITION|Su döngüsü|
+Suyun kinetik enerjisinden yararlanılarak elektrik üretimi yapılan santrallere ne ad verilir?|santrallere ad||DESCRIPTION|DEFINITION|Hidroelektrik Santral|
+Suyun litosfer, hidrosfer ve atmosfer arasındaki hareketi ne olarak adlandırılır?|olarak adlandırılır||DESCRIPTION|DEFINITION|Su döngüsü|
+Tac Mahal'i kim yaptırmıştır?|yaptırmıştır||HUMAN|INDIVIDUAL|Babür Şah'ı|
+Tarih boyunca insanın doğadan yararlanmasını hızlandıran en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Sanayi devrimi|
+Tarım sektöründe sulamadan sonra verimi artıran en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Gübreleme|
+Tarım, hayvancılık ve ticari faaliyetler ilk kez hangi çağda başlamıştır?|çağda||TEMPORAL|ERA|Yeni taş çağı/Neolitik çağ|
+Tarıma elverişli araziler ülkemiz topraklarının ne kadarını oluşturur?|kadarını oluşturur||NUMERIC|PERCENTAGE|0.33/33%/%33|
+Tarımı sınırlayan en önemli etmen nedir?|etmen|en önemli|DESCRIPTION|REASON|İklim|
+Taş kömürü, demir, petrol ve altın gibi kaynakların etrafına kurulan şehirlere ne isim verilir?|şehirlere isim||DESCRIPTION|DEFINITION|Maden şehirleri|
+Taşkömürü yatakları hangi jeolojik zamanda oluşmuştur?|jeolojik zamanda||TEMPORAL|ERA|1.Zaman/paleozik|
+TCDD'nin açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Türkiye Cumhuriyeti Devlet Demiryolları|
+Tek sıvı maden hangisidir?|maden|tek sıvı|ENTITY|SUBSTANCE|Civa|
+Tektonik hareketlere neden olan enerji kaynağı nedir?|enerji kaynağı||ENTITY|OTHERS||
+Telefon hangi tarihte icat edildi?|tarihte||TEMPORAL|DATE|1861|
+Telgraf hatlarının kurulması ile hangi iletişim türü başlamıştır?|iletişim türü||ENTITY|OTHERS|Elektronik iletişim|
+Terrarosa toprakları hangi bölgemizde daha sık görülür?|bölgemizde||LOCATION|REGION.LOCAL|Akdeniz|
+Teşvik-i Sanayi Kanunu ne zaman çıkarılmıştır?|zaman çıkarılmıştır||TEMPORAL|DATE|1926|
+Ticaretin öneminin artmasıyla deniz kıyısına kurulan şehirlere ne denir?|şehirlere denir||DESCRIPTION|DEFINITION|Liman şehirleri|
+Tiftik keçisi ne olarak da bilinir?|olarak da bilinir||ENTITY|OTHERS|Ankara Keçisi|
+TİGEM neyin kısaltmasıdır?|kısaltmasıdır||ABBREVIATION|EXPRESSION|Tarım İşletmeleri Genel Müdürlüğü|
+Toba dağı hangi ülke sınırları içerisindedir?|ülke sınırları||LOCATION|COUNTRY|Endonezya|
+Töhoku depremi ne zaman gerçekleşmiştir?|zaman gerçekleşmiştir||TEMPORAL|DATE|2011|
+Toprağın belirli bir süre için tamamen veya kısmen aniden su altında kalmasına ne denir?|su altında kalmasına denir||DESCRIPTION|DEFINITION|Sel|
+Toprağın katı, sıvı ve radyoaktif maddeler tarafından fiziksel ve kimyasal özelliklerinin bozulmasına ne denir?|bozulmasına denir||DESCRIPTION|DEFINITION|Toprak kirliliği|
+Toprağın yağış suları ve rüzgarlar tarafından aşındırılıp taşınmasına ne denir?|taşınmasına denir||DESCRIPTION|DEFINITION|Erozyon|
+Toprak çeşitlerinden hangisinin tarımsal verimliliği en fazladır?|toprak çeşitlerinden||ENTITY|OTHERS|Alüvyal|
+Toprak evlerin en yaygın tipi nedir?|tipi|en yaygın|DESCRIPTION|DEFINITION|Kerpiç|
+Toprak kaymalarını harekete geçiren en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Yer çekimi|
+Toprak Mahsulleri Ofisi'nin kısaltması nasıldır?|kısaltması||ABBREVIATION|ABBREVIATION|TMO|
+Toprak yüzeyinin akarsular, sel suları ve rüzgar gibi dış kuvvetler tarafından aşındırılarak taşınmasına ne denir?|taşınmasına denir||DESCRIPTION|DEFINITION|Erozyon|
+Topraklar oluşum yerlerine göre kaç gruba ayrılır?|gruba||NUMERIC|COUNT|3|
+Toros Dağları hangi jeolojik zamanda oluşmuştur?|jeolojik zamanda||TEMPORAL|ERA|III.Zaman/Tersiyer|
+Tortul kayaçların bir diğer adı nedir?|kayaçların adı|diğer|ENTITY|OTHERS||
+Tortum çayı hangi akarsuyun bir koludur?|akarsuyun koludur||ENTITY|RIVER|Çoruh Nehri|
+Transgresyon kısaca nedir?|transgresyon||DESCRIPTION|DEFINITION|Deniz ilerlemesi|
+Transgresyon ve regresyon hangi hareketler dahilinde incelenir?|hareketler||ENTITY|OTHERS|Epirojenik hareketler|
+Transsibirya demiryolu hattının yaklaşık uzunluğu ne kadardır?|uzunluğu kadardır|yaklaşık|NUMERIC|AVERAGE|15000 km|
+TSE bağımsız bir kamu kuruluşuna ne zaman dönüşmüştür?|zaman dönüşmüştür||TEMPORAL|DATE|1960|
+TSE ne demektir?|TSE||ABBREVIATION|EXPRESSION|Türk Standartları Enstitüsü|
+TSE ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1954|
+Tsunami denen dev dalgalara ne sebep olur?|sebep olur||DESCRIPTION|REASON||
+Tuğla, briket, çimento ve gaz beton gibi çeşitli yapı malzemelerinin kullanıldığı yapılara ne ad verilir?|yapılara ad||DESCRIPTION|DEFINITION|Betonarme yapılar|
+TÜİK neyin kısaltmasıdır?|kısaltmasıdır||ABBREVIATION|EXPRESSION|Türkiye İstatistik Kurumu|
+Tüketim neyin kullanılmasıdır?|kullanılmasıdır||DESCRIPTION|DEFINITION|Mal ve Hizmetlerin|
+Tunceli'nin önceki adı nedir?|adı|önceki|ENTITY|OTHERS|Dersim|
+Tundra bölgelerinde en yüksek hava sıcaklığı kaç dereceye ulaşır?|dereceye||NUMERIC|DEGREE|10 C|
+Tundra topraklar hangi bölgelerde görülür?|bölgelerde||LOCATION|REGION|Kutuplara yakın|
+Turizm teşvik kanunu ne zaman çıkmıştır?|zaman çıkmıştır||TEMPORAL|DATE|1982|
+Türk coğrafyasının en batısında hangi ülke yer alır?|ülke||LOCATION|COUNTRY|Kosova|
+Türk coğrafyasının en doğusundaki ülkenin adı nedir?|ülkenin adı||LOCATION|COUNTRY|Moğolistan|
+Türk kültürü hangi kültürlere komşudur?|kültürlere||HUMAN|NATION|Çin Tibet Hint|
+Türk kültürünün ocağı neresidir?|ocağı||DESCRIPTION|DEFINITION|Orta Asya|
+Türkiye AB müzakerelerine ne zaman başlamıştır?|zaman başlamıştır||TEMPORAL|DATE|3 ekim 2005|
+Türkiye AGİT'e kaç yılında üye olmuştur?|yılında||TEMPORAL|DATE|1999|
+Türkiye Almanya ile hangi yılda işçi göçü anlaşması yapmıştır?|yılda||TEMPORAL|DATE|1961|
+Türkiye arazisinin yüzde kaçı düz ve hafif eğimlidir?|Türkiye arazisinin yüzde||NUMERIC|PERCENTAGE|%8.5|
+Türkiye arazisinin yüzde kaçı ormanlık alandır?|yüzde||NUMERIC|PERCENTAGE|0.26|
+Türkiye arazisinin yüzde kaçında tarım yapılmaktadır?|Türkiye arazisinin yüzde||NUMERIC|PERCENTAGE|0.36/%36/36%|
+Türkiye EEA'ya kaç yılında üye olmuştur?|yılında||TEMPORAL|DATE|2003|
+Türkiye en çok beyin göçü veren ülkeler arasında kaçıcı sıradadır?|sıradadır||NUMERIC|COUNT|24|
+Türkiye en fazla hangi ülkeye işçi göçü vermiştir?|ülkeye||LOCATION|COUNTRY|Almanya|
+Türkiye hangi deprem kuşağında yer almaktadır?|deprem kuşağında||ENTITY|OTHERS|Alp himalaya|
+Türkiye hangi yarım kürede yer almaktadır?|yarım kürede||ENTITY|SPHERE|Kuzey Yarım Küre|
+Türkiye hangi yıl Avrupa B0irliği'ne aday ülke olarak açıklanmıştır?|yıl||TEMPORAL|DATE|1999|
+Türkiye hidroelektrik üretim potansiyeli açısından dünya sıralamasında kaçıncıdır?|dünya sıralamasında||NUMERIC|COUNT|3|
+Türkiye İstatistik Kurumunun kısa adı nedir?|adı|kısa|ABBREVIATION|ABBREVIATION|TÜİK|
+Türkiye OECD'ye ne zaman üye olmuştur?|zaman üye olmuştur||TEMPORAL|DATE|1948|
+Türkiye ormanlarının yüzde kaçı Ege bölgesinde bulunur?|Türkiye ormanlarının yüzde||NUMERIC|PERCENTAGE|0.17|
+Türkiye ormanlarının yüzde kaçı Karadeniz bölgesinde bulunur?|Türkiye ormanlarının yüzde||NUMERIC|PERCENTAGE|0.25/25%/%25|
+Türkiye Petrolleri Anonim Ortaklığının kısa adı nedir?|adı|kısa|ABBREVIATION|ABBREVIATION|TPAO|
+Türkiye Ramsar sözleşmesini ne zaman imzalamıştır?|zaman imzalanmıştır||TEMPORAL|DATE|1993|
+Türkiye Sanayi ve Maden Bankası hangi tarihte kurulmuştur?|tarihte||TEMPORAL|DATE|1923|
+Türkiye şeker pancarı üretimine ne zaman başlamıştır?|zaman başlamıştır||TEMPORAL|DATE|1926|
+Türkiye Zirai Donatım Kurumu'nun kısa adı nedir?|adı|kısa|ABBREVIATION|ABBREVIATION|TZDK|
+Türkiye, hangi kıtalar arasında yer almaktadır?|kıtalar arasında||LOCATION|CONTINENT|Asya Avrupa|
+Türkiye’de çay üretimi hangi bölgede olur?|bölgede||LOCATION|REGION.LOCAL|Doğu Karadeniz|
+Türkiye'de 100 kilometrekarelik alana düşen yol kaç kilometredir?|yol kilometredir||NUMERIC|SIZE.LENGTH|3 kilometre/3 km|
+Türkiye'de 100 km2'ye düşen yol kaç km'dir?|yol km'dir||NUMERIC|SIZE.LENGTH|3 Km|
+Türkiye'de 100 km2'ye düşen yol ne kadardır?|yol kadardır||NUMERIC|SIZE.LENGTH|3 Km|
+Türkiye'de 1000 kişiye kaç km yol düşmektedir?|km yol||NUMERIC|SIZE.LENGTH|1 km|
+Türkiye'de azonal(taşınmış) topraklar içinde en yaygın olanı hangisidir?|azonal(taşınmış) topraklar|en yaygın olanı|ENTITY|ENTITY|Alüvyal topraklar|
+Türkiye'de birinci beş yıllık sanayi alanı hangi tarihte yürürlüğe konmuştur?|tarihte||TEMPORAL|DATE|1933|
+Türkiye'de çayır ve otlakların en fazla olduğu bölge hangisidir?|bölge||LOCATION|REGION.LOCAL|Doğu Anadolu.|
+Türkiye'de cephesel yağışlar en çok hangi bölgede görülür?|bölgede||LOCATION|REGION.LOCAL|Akdeniz.|
+Türkiye'de ekili dikili alanların en az yer kapladığı bölge hangisidir?|bölge||LOCATION|REGION.LOCAL|Doğu Anadolu|
+Türkiye'de ekili dikili alanların en fazla yer kapladığı bölge hangisidir?|bölge||LOCATION|REGION.LOCAL|Marmara.|
+Türkiye'de en az insan nüfusuna sahip olan şehir hangisidir?|şehir||LOCATION|CITY|Bayburt|
+Türkiye'de en çok yetiştirilen tahıl ürünü nedir?|tahıl ürünü||ENTITY|PLANT|Buğday|
+Türkiye'de en fazla can kaybına yol açan doğal afetin adı nedir?|afetin adı|doğal|ENTITY|OTHERS|Deprem|
+Türkiye'de en fazla pirinç tarımının yapıldığı akarsu havzasının ismi nedir?|akarsu havzasının ismi||ENTITY|RIVER|Ergene/Meriç|
+Türkiye'de en uzun gündüz hangi tarihlerde yaşanır?|tarihlerde||TEMPORAL|PERIOD|21 - haziran|
+Türkiye'de endemik bitki kaç adettir?|bitki adettir|endemik|NUMERIC|COUNT|3000|
+Türkiye'de güneyden esen rüzgârın ismi nedir?|rüzgârın ismi||ENTITY|WIND|Kıble|
+Türkiye'de heyelan olayları en çok hangi mevsimde olur?|mevsimde|en çok|TEMPORAL|SEASON|İlkbahar|
+Türkiye'de heyelan set göllerinin en fazla görüldüğü bölge neresidir?|bölge||LOCATION|REGION.LOCAL|Karadeniz Bölgesi|
+Türkiye'de ikinci nüfus sayımı hangi tarihte yapılmıştır?|tarihte||TEMPORAL|DATE|1935|
+Türkiye'de ilk periyodik nüfus sayımı ne zaman yapılmıştır?|zaman yapılmıştır||TEMPORAL|DATE|1927|
+Türkiye'de ilk şeker fabrikası hangi tarihte kurulmuştur?|tarihte||TEMPORAL|DATE|1926|
+Türkiye'de ilk uçak ne zaman üretildi?|zaman üretildi||TEMPORAL|DATE|1936|
+Türkiye'de kaç adet koruma alanı vardır?|adet koruma alanı||NUMERIC|COUNT|4|
+Türkiye'de kaç adet milli park vardır?|adet milli park||NUMERIC|COUNT|33|
+Türkiye'de kaç adet tabiat anıtı bulunmaktadır?|det tabiat anıtı||NUMERIC|COUNT|58|
+Türkiye'de kaç adet tabiatı koruma alanı vardır?|adet tabiatı koruma alanı||NUMERIC|COUNT|35|
+Türkiyede kaç tane büyük fay hattı bulunur?|tane büyük fay hattı||NUMERIC|COUNT|3|
+Türkiyede kaç tane deprem bölgesi vardır?|tane deprem bölgesi||NUMERIC|COUNT|3|
+Türkiye'de kullanılabilir suyun yüzde kaçı içilebilir su olarak kullanılmaktadır?|suyun yüzde||NUMERIC|PERCENTAGE|16%|
+Türkiye'de maden yatakları ve çeşitleri bakımından en zengin bölge hangisidir?|bölge|en zengin|LOCATION|REGION.LOCAL|doğu anadolu bölgesi|
+Türkiye'de nüfusun çoğunlukta olduğu yaş grubu hangisidir?|yaş grubu||HUMAN|GROUP|Yetişkin nüfus|
+Türkiyede ortalama kaç adet baraj gölü bulunmaktadır?|adet baraj gölü||NUMERIC|AVERAGE|555|
+Türkiyede ortalama kaç tane doğal göl vardır?|tane doğal göl||NUMERIC|AVERAGE|120|
+Türkiye'de şehirler fonksiyonlarına göre kaça ayrılırlar?|şehirler ayrılırlar||NUMERIC|COUNT|6|
+Türkiye'de tarım alanları ülke arazisinin yüzde kaçını oluşturur?|yüzde||NUMERIC|PERCENTAGE|0.33|
+Türkiyede üretilen ilk uçağa ne ad verilmiştir?|uçağa ad||ENTITY|OTHERS|ND-36|
+Türkiye'de üretilen ilk uçak hangi ilçede üretildi?|ilçede||LOCATION|CITY|Beşiktaş|
+Türkiye'de üzerinde ulaşım ve taşımacılık yapılan akarsu hangisidir?|akarsu||ENTITY|RIVER|Bartın çayı/Kocaırmak|
+Türkiyede yaklaşık kaç farklı bitki türü bulunmaktadır?|bitki türü|farklı|NUMERIC|COUNT|20000|
+Türkiyede yetiştirilen tarım ürünlerinin çeşitliliği temelde neye bağlıdır?|bağlıdır||DESCRIPTION|REASON|İklim çeşitliği|
+Türkiye'de yılda ortalama kaç adet sel felaketi olmaktadır?|adet sel felaketi|ortalama|NUMERIC|AVERAGE|23|
+Türkiyedeki bitki çeşitlilğinin fazla olmasının en önemli sebebi nedir?|sebebi|en önemli|DESCRIPTION|REASON|İklim|
+Türkiye'deki denizlerden en az tuzluluk oranına sahip olan deniz hangisidir?|deniz||ENTITY|SEA|Karadeniz|
+Türkiye'deki kültür balıkçılığı hangi iki balık üzerine yoğunlaşmıştır?|balık|iki|ENTITY|OTHERS|Alabalık sazan|
+Türkiye'deki Kuzey Anadolu Dağları ve Toros Dağları hangi jeolojik zamanda oluşmuştur?|jeolojik zamanda||TEMPORAL|ERA||
+Türkiye'deki Kuzey Anadolu Dağları ve Toros Dağları hangi orojenez sonucunda oluşmuştur?|orojenez||ENTITY|OTHERS||
+Türkiye'deki sarp bölgelerin kapladığı alan ne kadardır?|alan kadardır||NUMERIC|SIZE.AREA|487864 Km2|
+Türkiye'deki su kaynaklarının en bol olduğu bölge hangisidir?|bölge||LOCATION|REGION.LOCAL|Doğu Anadolu|
+Türkiye'den Avrupaya ilk işçi göçleri hangi yıllar arasında gerçekleşmiştir?|yıllar arasında||TEMPORAL|PERIOD|1958-1961|
+Türkiye'nin doğusundan esen soğuk ve kuru rüzgâr hangisidir?|rüzgâr|soğuk ve kuru|ENTITY|WIND|Gündoğusu|
+Türkiye'nin en az nüfusa sahip ilinin adı nedir?|ilinin adı||LOCATION|CITY|Bayburt|
+Türkiye'nin en büyük adası hangisidir?|adası|en büyük|LOCATION|CITY|Gökçeada|
+Türkiye'nin en büyük baraj gölü hangisidir?|baraj gölü|en büyük|ENTITY|OTHERS|Atatürk|
+Türkiye'nin en büyük baraj gölünün adı nedir?|baraj gölünün adı|en büyük|ENTITY|OTHERS|Atatürk|
+Türkiyenin en büyük gölü nedir?|gölü|en büyük|ENTITY|LAKE|Van gölü|
+Türkiye'nin en büyük ovasının adı nedir?|ovasının adı|en büyük|ENTITY|PLAIN|Konya Ovası|
+Türkiye'nin en büyük yüz ölçümüne sahip ilinin adı nedir?|ilinin adı||LOCATION|CITY|Konya|
+Türkiye'nin en doğu ile en batı ucu arasınaki zaman farkı kaçtır?|zaman farkı||NUMERIC|COUNT|76 dk|
+Türkiye'nin en doğu ucu ile en batı ucu arasındaki uzaklık ne kadardır?|uzaklık kadardır||NUMERIC|SIZE.LENGTH|1565 km|
+Türkiye'nin en geniş kapalı havzası hangi bölgemizdedir?|bölgemizdedir|en geniş kapalı|LOCATION|REGION.LOCAL|İç Anadolu|
+Türkiye'nin en geniş yüz ölçümüne sahip şehri neresidir?|şehri||LOCATION|CITY|Konya|
+Türkiye'nin en kalabalık şehrinin adı nedir?|şehrinin adı|en kalabalık|LOCATION|CITY|İstanbul|
+Türkiye'nin en yüksek bölgesi hangisidir?|bölgesi|en yüksek|LOCATION|REGION.LOCAL|doğu anadolu bölgesi|
+Türkiye'nin en yüksek dağı hangisidir?|dağı|en yüksek|ENTITY|MOUNTAIN|Ağrı Dağı|
+Türkiye'nin Ermenistan ile olan sınırının uzunluğu kaç kilometredir?|kilometredir||NUMERIC|SIZE.LENGTH|316 km|
+Türkiye'nin iç kesimlerinde ormanların tahrip edilmesiyle oluşan ve doğal olmayan bozkır alanlarına ne denir?|bozkır alanlarına denir||DESCRIPTION|DEFINITION|Antropojen bozkır|
+Türkiye'nin ikinci büyük şehri hangisidir?|şehri|ikinci büyük|LOCATION|CITY|Ankara|
+Türkiye'nin Irak ile olan sınırının uzunluğu kaç kilometredir?|kilometredir||NUMERIC|SIZE.LENGTH|331 km|
+Türkiye'nin İran ile olan sınırının uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|454 km|
+Türkiye'nin kara sınırlarının toplam uzunluğu ne kadardır?|uzunluğu kadardır|toplam|NUMERIC|SIZE.LENGTH|2753 km|
+Türkiye'nin kuzeybatısından esen yerel rüzgârın adı nedir?|rüzgârın adı|yerel|ENTITY|WIND|Karayel|
+Türkiyenin nüfus yoğunluğu en az olan bölgesi hangisidir?|bölgesi||LOCATION|REGION.LOCAL|Doğu anadolu|
+Türkiye'nin nüfusu ne kadardır?|nüfusu||NUMERIC|SIZE.POPULATION|Yaklaşık 76 Milyon|
+Türkiye'nin ortalama yüz ölçümü ne kadardır?|yüz ölçümü kadardır|ortalama|NUMERIC|SIZE.AREA|814.000 km2|
+Türkiye'nin Suriye ile olan sınırının uzunluğu ne kadardır?|uzunluğu kadardır||NUMERIC|SIZE.LENGTH|877 km|
+Türkiye'nin üçüncü büyük şehri hangisidir?|şehri|üçüncü büyük|LOCATION|CITY|İzmir|
+Türkiye'nin Yunanistan ile olan sınırının uzunluğu kaç kilometredir?|kilometredir||NUMERIC|SIZE.LENGTH|212 km|
+Türkiye'nin yüzölçümü olarak en büyük bölgesi hangisidir?|bölgesi|en büyük|LOCATION|REGION.LOCAL|Doğu anadolu bölgesi|
+Türkiye'ye batıdan esen sıcak nemli rüzgâr hangisidir?|rüzgâr|sıcak nemli|ENTITY|WIND|Günbatısı|
+Türkiye'ye kuzeyden esen rüzgâra ne denir?|rüzgâra denir||ENTITY|WIND|Yıldız|
+Türkiye'ye kuzeydoğudan esip genellikle soğuk getiren rüzgâr hangisidir?|rüzgâr||ENTITY|WIND|Poyraz|
+Türklerin Orta Asya'dan göç etmelerinin temel sebebi neydi?|sebebi|temel|DESCRIPTION|REASON|Kuraklık|
+Türkmeninstan'ın kuruluş yılı nedir?|kuruluş yılı||TEMPORAL|DATE|1991|
+Türsab nedir?|Türsab||ABBREVIATION|EXPRESSION|Türkiye Seyahat Acenteleri Birliği|
+Üç tarafı sularla kaplı kara parçasına ne ad verilir?|kara parçasına ad||ENTITY|ENTITY|Yarımada|
+Ulaşımda sınırlayıcı etki yapan en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Dağlık ve engebeli arazi|
+Ülke sınırlarını gösteren haritalar hangileridir?|haritalar||DESCRIPTION|DEFINITION|Siyası Haritalar.|
+Ülkeler arası beyin göçü hangi yıldan sonra hız kazanmıştır?|yıldan sonra||TEMPORAL|DATE|1960|
+Ülkemizde cumhuriyet öncesi ilk nüfus sayımı hangi tarihte yapılmıştır?|tarihte||TEMPORAL|DATE|1831|
+Ülkemizde en çok nüfusu olan il hangisidir?|il||LOCATION|CITY|İstanbul|
+Ülkemizde hangi bölge dışında bütün bölgelerde şeker fabrikası vardır?|bölge dışında||LOCATION|REGION.LOCAL|Güneydoğu Anadolu|
+Ülkemizde kaç ilde kaplıca bulunmaktadır?|ilde||NUMERIC|COUNT|46|
+Ülkemizde şu an faal durumda olan kaç organize sanayi vardır?|organize sanayi||NUMERIC|COUNT|100 civarı|
+Ülkemizde volkanik tüflerin aşınmasıyla oluşmuş yer şekilleri nerede bulunur?|bulunur||LOCATION|LOCATION||
+Ülkemizdeki 2010 yılında toplam turist sayısı ne kadardır?|turist sayısı kadardır|toplam|NUMERIC|SIZE.POPULATION|28.632.204|
+Ülkemizdeki göllerin toplam yüzölçümü ortalama olarak ne kadardır?|yüzölçümü kadardır|ortalama olarak|NUMERIC|SIZE.AREA|10000 m2|
+Ülkemize çölden esen rüzgâr hangisidir?|rüzgâr||ENTITY|WIND|Sam Yeli|
+Ülkemizin de içinde bulunduğu deprem kuşağı hangisidir?|deprem kuşağı||ENTITY|OTHERS||
+Ülkemizin en işlek limanı hangisidir?|limanı|en işlek|ENTITY|OTHERS|İstanbul limanı|
+Ülkemizin yüzde kaçı ormanlarla kaplıdır?|ülkemizin yüzde||NUMERIC|PERCENTAGE|0.28/%28/28%|
+Ülkemizin yüzde kaçı şehirlerde yaşamaktadır?|ülkemizin yüzde||NUMERIC|PERCENTAGE|%76.3|
+Uluslar arası örgütlerin kuruluşu, yapısı ve faaliyetleri hangi coğrafya alt dalının inceleme alanına girmektedir?|dalının|alt|ENTITY|OTHERS|Siyasi coğrafya|
+Umit Burnu hangi kıtadadır?|kıtadadır||LOCATION|CONTINENT|Afrika|
+Ümit burnu kimin tarafından keşfedilmiştir?|tarafından keşfedilmiştir||HUMAN|INDIVIDUAL|Bartelmi Diaz|
+Ümit burnu ne zaman keşfedilmiştir?|zaman keşfedilmiştir||TEMPORAL|DATE|1487|
+Ümit Burnuna ilk kez ulaşan denizci kimdir?|denizci||HUMAN|INDIVIDUAL|Vasco da Gama|
+UNEP ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1972|
+UNEP'in merkezi hangi ülkededir?|ülkededir||LOCATION|COUNTRY|Kenya|
+UNEP'in Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Birleşmiş milletler çevre programı|
+UNESCO Türkiye'den kaç kültürel varlığı Dünya Miras Listesine eklemiştir?|kültürel varlığı||NUMERIC|COUNT|10|
+UNESCO'nun açılımı nedir?|açılımı||ABBREVIATION|EXPRESSION|Birleşmiş Milletler Eğitim, Bilim ve Kültür Teşkilatı|
+UNESCO'nun Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|BM bilim ve kültür örgütü|
+Uranyum ve toryum gibi elektron yayan maddelerin doğal denge halindeki diğer maddelerin atom yapılarını bozmasına ne denir?|bozmasına denir||DESCRIPTION|DEFINITION|Nükleer kirlilik|
+Üretilen mal ve hizmetlerin alınıp satılmasına ne denir?|alınıp satılmasına denir||DESCRIPTION|DEFINITION|Ticaret|
+Uşak hangi yıl il haline getirildi?|yıl||TEMPORAL|DATE|1953|
+Uzun bir zaman içinde yağışın belirgin bir şekilde normal değerlerin altına düşmesine ne denir?|düşmesine denir||DESCRIPTION|DEFINITION|Kuraklık|
+Uzun süreli ve devamlı kalmak üzere yapılan göçlere ne denir?|göçlere denir||DESCRIPTION|DEFINITION|Kalıcı göç|
+Uzun yıllar devam eden atmosfer olaylarının ortalama durumunu inceleyen bilim dalı hangisidir?|bilim dalı||DESCRIPTION|DEFINITION|iklim|
+Volkan konisinin tepe kısmındaki çukur kısma ne denilmektedir?|kısıma denilmektedir|çukur|DESCRIPTION|DEFINITION|Volkan ağzı/krater|
+Volkan konisinin tepe kısmındaki çukurluğa ne denir?|çukurluğa denir||DESCRIPTION|DEFINITION|Krater|
+Volkan tüfü kaç cm uzunluğundadır?|cm||NUMERIC|SIZE.LENGTH||
+Volkan tüfünün uzunluğu kaç cm.dir?|cm.dir||NUMERIC|SIZE.LENGTH||
+Volkanik alanlardaki çukurların suyla dolması sonucu oluşan göllere ne isim verilir?|göllere isim||DESCRIPTION|DEFINITION|Volkanik göl|
+Volkanik kökenli adaların en fazla bulunduğu yer neresidir?|yer||LOCATION|REGION||
+Volkanik püskürtmeler sırasında görülen etki alanları dar olan depremlere ne denir?|depremlere denir||DESCRIPTION|DEFINITION|Volkanik depremler|
+Volkanizma sonucu yüzeye sıvı halde lavlar çıkarken gaz halinde çıkan nedir?|gaz halinde çıkan||ENTITY|SUBSTANCE||
+Volkanlardan çıkan akışkan maddelere ne ad verilir?|akışkan maddelere ad||DESCRIPTION|DEFINITION|Lav|
+Volkanlardan çıkan akışkan maddeye ne ad verilir?|maddeye ad|akışkan|DESCRIPTION|DEFINITION|Lav|
+Volkanlardan çıkan katı maddelere ne ad verilir?|katı maddelere ad||DESCRIPTION|DEFINITION|Volkan tüfü|
+Volkanlardan çıkan kum boyutundaki malzemeler ile yamaç eteklerindeki kolüvyal depolar üzerinde oluşan topraklara ne denir?|topraklara denir||DESCRIPTION|DEFINITION|Regosol|
+Volkanlardan çıkan lavların bir çukurluğun ve vadinin önünü kapamasıyla oluşan göllere ne denir?|göllere denir||DESCRIPTION|DEFINITION|Volkanik set gölleri|
+Volkanlardan çıkan volkan tüfü, lapilli ve volkan bombası isimlerini neye göre alırlar?|göre||DESCRIPTION|MANNER|Boyutlarına göre|
+WCS'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Doğal hayatı koruma derneği|
+WHO'nun Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Dünya sağlık örgütü|
+WWF ne zaman kurulmuştur?|zaman kurulmuştur||TEMPORAL|DATE|1961|
+WWF'nin kaç ülkede şubesi vardır?|ülkede||NUMERIC|COUNT|50|
+WWF'nin Türkçe açılımı nedir?|açılımı|Türkçe|ABBREVIATION|EXPRESSION|Dünya doğal yaşamı koruma vakfı|
+Yağışın az ve bitki örtüsünün zayıf olduğu yerlerde hangi hayvancılık çeşidi gelişmiştir?|hayvancılık çeşidi||ENTITY|OTHERS|Küçükbaş|
+Yağışlarda ya da kar erimelerinden sonra suların yer yüzeyinin tamamını kaplayarak akması olayına ne ad verilir?|olayına ad||DESCRIPTION|DEFINITION|Seyelan|
+Yağışlı dönemde bol su taşıyan akarsular temelde nereden beslenir?|beslenir||ENTITY|ENTITY|Yağmur|
+Yağmurla beslenen akarsular daha çok hangi iklimde görülür?|iklimde||ENTITY|OTHERS|Akdeniz|
+Yamaç boyunca taş, kum ve toprak tabakalarının yer değiştirmesi olayına ne denir?|yer değiştirmesi olayına denir||DESCRIPTION|DEFINITION|Kütle hareketi|
+Yaşlı nüfus olarak kabul edilen yaş grubu nedir?|yaş grubu||NUMERIC|RANGE|65 ve üzeri|
+Yazı ilk defa hangi uygarlık tarafından bulunmuştur?|uygarlık||HUMAN|NATION|Sümerler|
+Yazları yağışlı tropikal iklim bölgesinde yağışlı dönemde yeşeren, kurak dönemde kuruyan yüksek boylu ot topluluklarına ne ad verilir?|ot topluluklarına ad||DESCRIPTION|DEFINITION|Savan|
+Yer kabuğunda meydana gelen ani ve kısa süreli sarsıntılara ne ad verilir?|sarsıntılara ad||DESCRIPTION|DEFINITION|Deprem|
+Yer kabuğunun ana maddesi olan ve minerallerden meydana gelen katı cisimlere ne ad verilir?|katı cisimlere ad||DESCRIPTION|DEFINITION||
+Yer kabuğunun derinliklerinde basınç ve gerilimler sonucu, katmanların yer değiştirme, oynama ve kırılma gibi hareketlerinin ortaya çıkardığı sarsıntılara ne denir?|sarsıntılara denir||DESCRIPTION|DEFINITION|Tektonik depremler|
+Yer kabuğunun karalardaki ortalama kalınlığı ne kadardır?|kalınlığı kadardır|ortalama|NUMERIC|SIZE.DEPTH|35 Km/40 Km|
+Yer kabuğunun okyanuslardaki ortalama kalınlığı ne kadardır?|kalınlığı kadardır|ortalama|NUMERIC|SIZE.DEPTH|8 Km/12 Km|
+Yer kabuğunun ortalama kalınlığı denizlerde ne kadardır?|kalınlığı kadardır|ortalama|NUMERIC|SIZE.WIDTH||
+Yer kabuğunun ortalama kalınlığı karalarda kaç km. aralığındadır?|km.||NUMERIC|RANGE||
+Yer kürede hangi yönden esen rüzgarlar sıcaklığı yükseltir?|yönden||ENTITY|OTHERS|güney|
+Yer şekilleri düz ve su kaynakları sınırlı olan bölgelerde görülen yerleşim çeşidi nedir?|yerleşim çeşidi||DESCRIPTION|DEFINITION|Toplu yerleşim|
+Yer şekillerini gösteren haritaların adı nedir?|haritaların adı||DESCRIPTION|DEFINITION|Fiziki Haritalar|
+Yer şekillerinin az engebeli olduğu yerlerde görülen yerleşmeye ne ad verilir?|yerleşmeye ad||DESCRIPTION|DEFINITION|Dairesel yerleşme|
+Yer yuvarlağındaki iç içe kürelere ne ad verilir?|kürelere ad|iç içe|ENTITY|SPHERE|Geosfer|
+Yer Yuvarlağını meydana getiren iç içe geçmiş kürelere ne isim verilir?|kürelere isim|iç içe geçmiş|ENTITY|ENTITY|katman|
+Yere Batan Sarnıcı hangi tarihler arasında yaptırılmıştır?|tarihler arasında||TEMPORAL|DATE|532-537 yılları|
+Yere Batan Sarnıcı kim tarafından yaptırılmıştır?|tarafından||HUMAN|INDIVIDUAL|I.Jüstinyen|
+Yerin derinliklerinde bulunan magmanın, yerkabuğunun zayıf kısımlarından yeryüzüne çıkmasına ne denir?|çıkmasına denir||DESCRIPTION|DEFINITION|Volkanizma|
+Yerin derinliklerindeki sıcaklıkla ilgili olan ve bu güçle ısınarak oluşan enerjiye ne denir?|enerjiye denir||DESCRIPTION|DEFINITION|Jeotermal enerji|
+Yerkürenin en ince tabakası hangisidir?|tabakası|en ince|ENTITY|OTHERS|Litosfer/Taşküre|
+Yerkürenin en kalın katmanı hangisidir?|katmanı|en kalın|ENTITY|OTHERS|Çekirdek|
+Yerkürenin hemen üzerinde yer alan atmosfer tabakasının adı nedir?|atmosfer tabakasının adı||ENTITY|OTHERS|Troposfer|
+Yerleşmeyi sınırlandıran en önemli faktör nedir?|faktör|en önemli|DESCRIPTION|REASON|Denizler|
+Yeryüzü şekillerinin oluşmasına sebep olan nedir?|sebep||DESCRIPTION|REASON||
+Yeryüzünde depremlerin çoğunluğu nerede olur?|olur||LOCATION|REGION||
+Yeryüzünde en çok ısınan alanlar nerelerdir?|alanlar||LOCATION|REGION|dönenceler etrafındaki çöller|
+Yeryüzünde en şiddetli kasırgalar hangi kuşakta görülür?|kuşakta||ENTITY|OTHERS|Tropikal|
+Yeryüzünde en soğuk ay ortalaması 10 C'nin üzerinde olan iklim kuşağına ne isim verilir?|iklim kuşağına isim||ENTITY|OTHERS|ılıman iklim kuşağı|
+Yeryüzünde kaç farklı sıcaklık kuşağı oluşmuştur?|farklı||NUMERIC|COUNT|3|
+Yeryüzünde kaç tane etkin volkan vardır?|tane etkin volkan||NUMERIC|COUNT||
+Yeryüzünde kendine özgü bir iklimi, bitki örtüsü ve hayvan topluluğu bulunduran bölgelere ne ad verilir?|bölgelere ad||DESCRIPTION|DEFINITION|Biyom|
+Yeryüzünde özellikle aşırı yağış alan eğimli bölgelerde yaygın olarak görülen kütle hareketlerine ne denir?|kütle hareketlerine denir||DESCRIPTION|DEFINITION|Heyelan|
+Yeryüzünde soğuk kuşak olarak adlandırılan iklim kuşağında en sıcak ayın ortalama sıcaklığı ne kadardır?|sıcaklığı kadardır|ortalama|NUMERIC|AVERAGE|6 C'nin altında|
+Yeryüzündeki ayrıntıları en az hata ile bir düzlem üzerinde gösterebilmek için geliştirilen metotlara ne ad verilir?|metotlara ad||DESCRIPTION|DEFINITION|İz düşüm metotları|
+Yeryüzündeki bir noktanın ekvatora en yakın uzaklığının açı olarak değerine ne denir?|değerine denir||DESCRIPTION|DEFINITION|enlem|
+Yeryüzündeki büyük kara parçalarına ne ad verilir?|kara parçalarına ad|büyük|DESCRIPTION|DEFINITION|Kıta|
+Yeryüzündeki deprem bölgelerinin dağılışı neyle paralellik gösterir?|dağılışı paralellik gösterir||DESCRIPTION|DESCRIPTION|Fay hatlarının dağılışı|
+Yeryüzündeki depremlerin yüzde kaçı Akdeniz-Himalaya kuşağında meydana gelir?|depremlerin yüzde||NUMERIC|PERCENTAGE|21%|
+Yeryüzündeki etkin volkanların kaçı Büyük Okyanus çevresindedir?|volkanların|etkin|NUMERIC|COUNT||
+Yeryüzündeki etkin volkanların yüzde kaçı Büyük Okyanus çevresindedir?|volkanların yüzde|etkin|NUMERIC|PERCENTAGE||
+Yeryüzündeki kayaçlar kaç ana grupta sınıflandırılır?|ana grupta||NUMERIC|COUNT|3|
+Yeryüzündeki suların yüzde kaçı tatlı sulardan oluşur?|suların yüzde||NUMERIC|PERCENTAGE|3%|
+Yeryüzündeki yerleşmelerin genel olarak kurulduğu yerler nerelerdir?|yerler||LOCATION|LOCATION|Ova ve düzlükler|
+Yeryüzüne yaklaşık olarak kaç adet aktif volkan vardır?|adet aktif volkan|yaklaşık olarak|NUMERIC|COUNT|500|
+Yeryüzünün altındaki sıcak suları enerji kaynağı olarak kullanan sistemlere ne ad verilir?|sistemlere ad||DESCRIPTION|DEFINITION|Jeotermal|
+Yeryüzünün insan tarafından değiştirilmiş ve değiştirilmekte olan görünümü, coğrafyanın hangi alt dalı tarafından incelenmektedir?|dalı|alt|ENTITY|OTHERS|Beşeri coğrafya|
+Yıl boyunca nemli ve yağışlı olan, gür ormanlar ve otlakların bulunduğu yerlerde hangi hayvancılık çeşidi gelişmiştir?|hayvancılık çeşidi||ENTITY|OTHERS|Büyükbaş|
+Yıllık yağış miktarının az olduğu kireçli topraklara ne ad verilir?|kireçli topraklara ad||DESCRIPTION|DEFINITION|Kahverengi bozkır topraklar|
+Yük ve yolcu taşıma maliyetinin en yüksek olduğu ulaşım yolu hangisidir?|ulaşım yolu||ENTITY|OTHERS|Hava yolları|
+Yüksek bulutlara ne denir?|bulutlara denir||ENTITY|CLOUD|sirüs|
+Yüksek dağlık alanlarda nüfus yoğunluğunun az olmasının en temel sebebi nedir?|sebebi|en temel|DESCRIPTION|REASON|Ulaşımın sınırlı olması|
+Yüksek verim elde etmek için uygulanan modern tarım yöntemlerine ne ad verilir?|tarım yöntemlerine ad|modern|DESCRIPTION|DEFINITION|Entansif tarım|
+Yüksekliği 500m'den fazla olan yerlere ne ad verilir?|yerlere ad||ENTITY|ENTITY|Dağ|
+Yükselim yağışları Türkiye'de en çok hangi bölgede görülür?|bölgede||LOCATION|REGION.LOCAL|İç Anadolu|
+Yükseltiye bağlı olarak yerleşimin sona erdiği noktaya ne denir?|noktaya||DESCRIPTION|DEFINITION|Yerleşmenin yükselti sınırı|
+Yunanistan ile mübadele kararını içeren Lozan anlaşması ne zaman imzalanmıştır?|zaman imzalanmıştır||TEMPORAL|DATE|30 ocak 1923|
+Yunanistan ve Mora yarımadasını birbirine bağlayan kanalın adı nedir?|kanalın adı||ENTITY|RIVER|Korint Kanalı|
+Yüzeye çıkan lav ve tüfün oluşturduğu yer şekline ne denir?|yer şekline denir||DESCRIPTION|DEFINITION|Volkan konisi|
+Yüzeye çıkan lav ve tüfün oluşturduğu yer şeklinin adı nedir?|yer şeklinin adı||DESCRIPTION|DEFINITION|Volkan Konisi|
+Zararlı bitki ve hayvanları yok etmek için tarım alanlarında kullanılan insan üretimi kimyasal maddelere ne denir?|kimyasal maddelere denir||ENTITY|OTHERS|Pestisitler|
+Zorunlu göçler üzerinde etkili olan faktörlere ne isim verilir?|faktörlere isim||DESCRIPTION|DEFINITION|İtici faktörler|

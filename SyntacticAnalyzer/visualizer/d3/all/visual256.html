@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Boyuna dalgaların yer kabuğundaki hızları ne kadardır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(2742, {label: "yeryüzü",nodeclass: "type-TK"});
+ g.addNode(2743, {label: "Yeryüzündeki",nodeclass: "type-TK"});
+ g.addNode(2744, {label: "deprem",nodeclass: "type-TK"});
+ g.addNode(2745, {label: "bölgelerinin",nodeclass: "type-TK"});
+ g.addNode(2746, {label: "dağıl",nodeclass: "type-TK"});
+ g.addNode(2747, {label: "dağılışı",nodeclass: "type-TK"});
+ g.addNode(2748, {label: "neyle",nodeclass: "type-TK"});
+ g.addNode(2749, {label: "paralel",nodeclass: "type-TK"});
+ g.addNode(2750, {label: "paralellik",nodeclass: "type-TK"});
+ g.addNode(2751, {label: "gösterir",nodeclass: "type-TK"});
+ g.addNode(2752, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,2742,2743,{label: "TÜREME"});
+ g.addEdge(null,2743,2745,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,2744,2745,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,2745,2747,{label: "NESNE"});
+ g.addEdge(null,2746,2747,{label: "TÜREME"});
+ g.addEdge(null,2747,2751,{label: "NESNE"});
+ g.addEdge(null,2748,2751,{label: "INSTRUMENTAL.ADJUNCT"});
+ g.addEdge(null,2749,2750,{label: "TÜREME"});
+ g.addEdge(null,2750,2751,{label: "NESNE"});
+ g.addEdge(null,2751,2752,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

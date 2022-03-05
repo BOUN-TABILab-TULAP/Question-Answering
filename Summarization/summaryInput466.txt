@@ -1,0 +1,250 @@
+Question: Prokaryot hücrelerin en büyük özelliği nedir?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Prokaryot Hücre  (EBA)</DOCTITLE>
+<TEXT>
+
+1980’li yıllar ve öncesinde günümüzde kullandığımız, kullanılıp atılan enjektörler yoktu (Resim 74). Ya da kullanımı bu kadar yaygın değildi. O zaman sağlık personeli iğneleri kaynatıp kullanırdı. Peki, bu iğneler neden kaynatılıyordu? 
+O günkü koşullarda, iğnenin ucundaki canlıların neden olduğu hastalık etkenleri iğnenin kaynatılması yolu ile yok edilmeye çalışılıyordu. Sizce bunlar hangi canlılardı? Bu yöntem ne kadar yeterli idi? Bu canlılar sadece hastalık etkeni midir? 
+Prokaryot, Latince “önce-ilkel” anlamına gelen “pro” ve “çekirdek” anlamına gelen “karyon” kelimelerinden oluşmuştur. 
+Gül, tavşan, bakteri ve protista üyelerinin hangilerinin prokaryot olduğu sorusuna, birçok insan bakteri ve protista üyeleri bir hücreden meydana geldiği için prokaryotik hücre yapısına sahiptir, cevabını verebilir. 
+Oysa ki prokaryot hücrelerin en belirgin özelliği bir hücreli olmaları değil, zarla çevrili bir çekirdek yapılarının olmamasıdır. Bu hücre tipinde zarlı organeller de bulunmaz. Kalıtım materyalleri ise sitoplazma içerisinde dağınık olarak bulunur. Bu canlılardaki bütün metabolizma olayları, sitoplazma ve hücre zarındaki yapılarda gerçekleşir (Resim 76). Bu bağlamda sorumuzun cevabı, verilen canlılardan sadece bakteriler prokaryotik hücre yapısına sahip iken diğerleri ökaryotik hücre yapısına sahiptir, şeklinde olmalıdır. 
+Prokaryotik canlılara bakteriler dışında arkebakteriler de örnektir. Arkebakteriler de bakteriler gibi sitoplazmalarında zarla çevrili çekirdekleri ve organelleri bulunmayan prokaryot hücre yapısına sahip ayrı bir canlı grubudur. 
+Arkebakteriler arasında yer alan metanojenik arkebakteriler, çiftliklerde hayvan gübresinden ve büyük şehirlerde çöplerden biyogaz yani metan gazı üretmektedir (Resim 77). Metanojenik arkebakteriler sayesinde üretilen gaz enerji ihtiyacını karşılamakta aynı zaman da kirlilik engellenmekte ve atmosferde sera gazı etkisi yapan metan gazı atmosfere salınmamaktadır. 
+Arkebakteriler hakkında daha ayrıntılı bilgileri sınıflandırma kısmında daha ayrıntılı olarak göreceğiz. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Transkripsiyon (genetik)</DOCTITLE>
+<TEXT>
+
+Transkripsiyon (veya yazılma veya yazılım), DNA'yı oluşturan nükleotit dizisinin RNA polimeraz enzimi tarafından bir RNA dizisi olarak kopyalanması sürecidir. Başka bir deyişle, DNA'dan RNA'ya genetik bilginin aktarımıdır. Protein kodlayan DNA durumunda, transkripsiyon, DNA'da bulunan genetik bilginin (bir mesajcı RNA aracılığıyla) bir protein veya peptit dizisine çevirisinin ilk aşamasıdır. RNA'ya yazılan bir DNA parçasına "transkripsiyon birimi" denir. Transkripsiyonda hata kontrol mekanizmaları vardır, ama bunlar DNA çoğalmasındakinden daha az sayıda ve etkindirler; dolayısıyla transkripsiyon DNA çoğalması kadar aslına sadık değildir.
+DNA sentezinde olduğu gibi transkripsiyonda da RNA sentezi 5' → 3'doğrultusunda ilerler. Yani, eski polimer 3' → 5'doğrultusunda okunur; yeni, tümleyici polimer 5' → 3' doğrultusunda oluşur. 
+DNA'da bulunan bilgi işlevsel protein veya RNA ürünlerinin sentezini sağlar. Bu işlevsel ürünleri kodlayan DNA dizilerine gen, bunların oluşumuna da "gen ifadesi" denir. DNA'daki bilginin RNA olarak yazılmış haline "transkript" denir. Ribozomların protein sentezi yapmak için okuduğu RNA molekülü "mesajcı RNA"dır. Prokaryotlarda RNA polimerazın ürettiği RNA ile ribozomların okuduğu mRNA aynı moleküldür. Ökaryotlarda ise transkript bir takım işlemlerden geçtikten sonra olgun mRNA olur. Bu bakımdan, işlem görmemiş mRNA'ya "öncül mRNA", "prekürsör mRNA" veya "pre-mRNA" da denir.
+Aşağıda ökaryotik ve prokaryotik organizmalardaki transkripsiyonun benzer ve farklı yönleri ele alınarak konuya genel bir bakış verilmektedir. Arkelerin transkripsiyon mekanizması ökaryotlarınkine benzer. Ayrıntılar için prokaryotik transkripsiyon ve ökaryotik transkripsiyon maddelerine bakınız.
+Gen ifadesinin düzenlenmesi.
+Bir genin okunmaya başlandığı noktanın hemen yukarısındaki bölgenin adı "promotör"dür ("Yukarı" ve "aşağı" terimleri transkripsiyon yönüne bağlı olarak kullanılır: transkripsiyon yönü aşağıdır, transkripsiyon yönünün tersi yukarıdır.). Promotör bölgesinde genlerin ifadesini kontrol eden DNA dizileri yer alır. Ökaryotlarda promotör bölgelerden başka, "hızlandırıcı" (İngilizce "enhancer") adı verilen DNA bölgeleri de gen ifadesine etki eder. Bu hızlandırıcılar transkripsiyon başlama noktasından çok uzakta olsalar da üç boyutlu uzayda ona yakındırlar. Promotörlere ve hızlandırıcılara bağlanan bazı transkripsiyon faktörleri RNA polimerazla etkileşerek onun çalışmasını engeller veya onu uyarırlar. 
+RNA polimeraz.
+Ökaryotik transkripsiyonda üç farklı RNA polimeraz vardır, bunlar farklı sınıf genleri okumaktan sorumludur.
+Prokaryotik transkripsiyonda bütün genler tek bir RNA polimeraz tarafından okunur. Arkelerin de bir RNA polimerazı vardır ama çalışma mekanizması ökaryotik RNA polimerazlarınki gibidir. Çok alt birimli olan bu RNA polimerazların yanı sıra SP67 ve T7 gibi fajların ve mitokondrilerin kendilerine has, tek alt birimli RNA polimerazları vardır.
+Prokaryot polimerazı dört alt birimden (α2, β, β' ve ω) oluşur. "Sigma (σ)" olarak adlandırılan bir diğer protein ise RNA polimerazın belli promotörlere bağlanmasını sağlar ama RNA'nın sentezi için gerekli değildir. Sigmanın birkaç çeşidi vardır ve hangi genin okunacağı RNA polimeraza bağlı olan sigma alt biriminin türüne bağlıdır. Ökaryotik polimerazların daha fazla sayıda alt birimi vardır.
+Bir prokaryot olan "E. coli"'nin RNA polimerazı en çok ökaryot RNA polimeraz II'ye benzer ve bunların evrimsel olarak ortak bir geçmişe sahip oldukları muhtemel görülür. 
+RNA polimeraza yardımcı olan çeşitli kofaktör proteinler vardır. Tüm promotörlerden yapılan yazılmada rol oynayan bu proteinlere genel transkripsiyon faktörleri denir. Bunların hata kontrolü veya DNA tamiri gibi yardımcı işlevleri vardır. Diğer kofaktörler RNA polimerazın belli bazı genleri ifade edip etmeyeceğini belirler; bunlara sadece transkripsiyon faktörü denir. Gen ifadesini engelleyici transkripsiyon faktörlerine "represör", kolaylaştırıcı olanlara "aktivatör" denir. Bu sayede bir genin farklı metabolik şartlarda veya farklı dokularda uygun düzeyde ifadelenmesi mümkün olur.
+Mekanizma.
+Prokaryot ve ökaryotlarda transkripsiyon mekanizmalarının ayrıntıları farklılık gösterir. Prokaryotların çekirdek zarları olmadığı için, oluşmakta olan RNA'nın aynı anda ribozomlar tarafından da okunup çevrimi yapılabilir. Oysa ökaryotlarda, RNA çekirdek içinde oluştuktan sonra ribozomların bulunduğu sitoplazma ve endoplazmik retikuluma taşınır. Dolayısıyla transkripsiyon ve translasyon farklı mekân ve zamanlarda gerçekleşir.
+Transkripsiyon üç aşamadan oluşur: başlama, uzama ve sonlanma. Buna ek olarak ökaryotlarda bir işlenme aşaması vardır.
+Başlama.
+Prokaryotlar:
+Prokaryot promotörlerinde iki önemli DNA dizisi vardır: biri, transkripsiyon başlama noktasınından 10 nükleotit yukarıda (-10 konumunda) olan TATAAT dizisi; öbürü de -35'de bulunan TTGACA dizisi.
+Prokaryotlarda RNA polimeraz DNA'ya bağlanır, sonra bir promotör bulana kadar onun üzerinde ilerler. Sigma altbirimi -35 dizisini tanıyıp RNA polimerazın daha sıkı bağlanmasını sağlar. Sonra sigma ayrılır ve geriye dört alt birimli çekirdek enzimi birakır. A-T baz çiftleri G-C baz çiftlerine kıyasla daha zayıf oldukları için -10 dizisinde DNA zincirleri birbirlerinden ayrılırlar. İki DNA zincirinin birbirinden ayrıldığı bölge "transkripsiyon kabarcığı" olarak tabir edilir. RNA polimeraz uygun noktadan itibaren RNA sentezine başlar. 
+Ökaryotlar:
+Ökaryotlarda -30'da TATAAA veya benzeri bir dizi (TATA kutusu) ve -80 civarında bulunan GGCCAATCT dizisi (CCAAT kutusu) vardır.
+Ökaryotlardaki TATA kutusuna önce TATA Bağlanma Proteini (TBP) bağlanır. Bu başlama kompleksi RNA polimerazı promotöre seferber eder ve oradan transkripsiyon sürecini başlatmasını sağlar. Bu proteinler temel düzeyde bir transkripsiyon için yeterlidirler. Daha yüksek seviyede transkripsiyon elde etmek için başka transkripsiyon faktörleri gereklidir. 
+Promotör ve ökaryotlarda hızlandırıcılara bağlanan düzenleyici proteinler, RNA polimerazın DNA'ya bağlanmasına engel olarak veya bağlanmasını kolaylaştırarak transkripsiyonun seviyesini düzenlerler.
+Uzama.
+Uzama, prokaryot ve ökaryotlarda benzer şekilde gerçekleşir. Uzayan RNA zincirinin 3' ucuna nükleotitler eklenir. Yani, gelen nükleotidin 5' fosfat grubu ile RNA zincirindeki 3' hidroksil grubu arasında bir fosfodiester bağı oluşur. İki DNA zincirinden sadece biri, kendisini tümleyici bir RNA ipliğinin sentezi için kullanılır; buna "şablon zincir" denir. Sentez sırasında geçici bir DNA-RNA ikilisi oluşur ama sonra RNA DNA'dan ayrışır ve ilerleyen enzimin gerisinden DNA tekrar kapanıp normal çift sarmallı haline geri döner.
+Sonlanma.
+Prokaryotlar:
+RNA polimeraz bir sonlanma sinyaline rastlayınca RNA sentezi sona erer. Prokaryotik genlerde iki tip sonlanma vardır: "ro" adı verilen sonlanma proteininin gerekli olup olmadığına göre, ro'ya bağlı ve ro'dan bağımsız sonlanma. Bunların sinyalleri farklıdır. Ro'dan bağımsız sonlanmada sık G/C nükleotitli bir bölgeyi izleyen sık A/T'li bir bölge bulunur. G/C'li kısım RNA'ya yazılınca, oradaki nükleotitler firkete görünümlü bir şekil alırlar ve bu RNA polimerazı yavaşlatır. Bunu izleyen sık A/T'li kısımda ise polimeraz duraklar ve DNA'dan kopar. 
+Ro'ya bağlı sonlanmada ise DNA'da sık C'li bir bölge olur. Transkripsiyon sırasında ro proteini büyümekte olan RNA'ya bağlanıp, onun üzerinden polimeraza doğru ilerlemeye başlar. Polimeraz sık C'li bölgeye gelince duraklar, bu sayede ro polimeraza yetişir ve yeni sentezlenmiş RNA'yı ondan kopartır. 
+Ökaryotlar:
+Ökaryotlarda prokaryotlardaki gibi belirgin sonlanma sinyalleri yoktur. RNA polimeraz mRNA'nın biteceği yerden 1000-2000 nükleotit daha ileriye kadar okumaya devam eder. Bu RNA sonradan işlenerek fazla uzamış kısmı çıkartılır.
+İşlenme.
+Prokaryot RNAlar sentezlendikten sonra herhangi bir işlemden geçmeden ribozomlar tarafından okunarak protein sentezinde kullanılırlar; hatta bir RNA'nın sentezi bitmeden bir ribozom onun çevirisini yapmaya başlar. 
+Ökaryotlarda en son mRNA'nın oluşması için sınıf II RNA polimeraz okumaları (transkriptleri) bir takım işlemlerden geçer. Bu işlemler arasında başlık takılması (İngilizce "capping"), poliadenilasyon ve intron çıkarılması (uç birleştirme; İngilizce "splicing") vardır. Ribozomal ve taşıyıcı RNAlar da işlenir, ama ne başlık alırlar ne de poliadenile olurlar.
+Başlık RNA'nın 5' ucunda olur. RNA'ya 5'-5' fosfodiester bağlantısı ile metilli bir guanin nükleotidi eklenir. Bu "başlık", mRNA'nın çeviri sırasında ribozomlar tarafından tanınması için önemlidir.
+Poliadenilasyonda RNA'nın ucu kesilerek doğru olan 3' uç ortaya çıkar ve buna bir dizi adenin nükleotiti eklenir. 3' ucun konumu RNA içinde bulunan bir nükleotit dizisi tarafından belirlenir. Bu dizi, AAUAAA, poliadenilasyon sinyali olarak adlandırılır. Gerekli enzimler bu diziyi tanıyınca RNA bu sinyalden 10 - 30 nükleotit aşağıda kesilir ve sonra ona bir dizi adenin eklenir. Bu adeninlerin eklenmesinde bir şablon kullanılmaz; A'lar sadece peşpeşe RNA'nın 3' ucuna eklenir. Bu poli(A) kuyruğu ortalama 200 nükleotit uzunluğunda olur ve RNA'yı yıkımdan korur.
+İntronlar, uçbirleştirme (ing. "splicing") işlemi sonucu prekürsör RNA'dan çıkartılan bölümlerdir, kalan kısımlar ekson olarak adlandırılır. Çıkartılma mekanizmasına bağlı olarak iki tip introndan söz edilir. Tip I intronlarda RNA'nın katalizör özelliği vardır; kendi kendini kesip birleştirme yeteneğine sahiptir. Tip II intronlarda bu işlemden sorumlu olan splisozom (İngilizce "spliceosome") adlı büyük bir RNA/protein kompleksi vardır. Splisozom, intron-ekson sınırını tanıyıp RNA'yı o noktada keser, sonra da bitişik eksonları birleştirerek ergin mRNA'yı meydana getirir.
+Ters transkripsiyon.
+Bazı virüsler (örneğin AIDS hastalığına neden olan HIV) RNA'yı DNA'ya yazar. Bu tür yazılma ters transkriptaz adlı enzim tarafından gerçekleştirilir. HIV'da ters transkriptaz, viral genomdan bir tümleyici (komplementer) DNA ipliği (cDNA) sentezler. Başka bir enzim, ribonükleaz H, RNA ipliğini sindirir. Ardından ters transkriptaz, cDNA'yı tümleyici bir DNA ipliği daha sentezleyerek çift sarmallı bir DNA oluşturur. Bu viral DNA, entegraz adlı bir enzim aracılığıyla konak hücrenin genomuna dahil olur. Bu sürecin sonucunda konak hücre yeni virüslerin oluşumu için gerekli olan viral proteinleri ve RNA ipliğini üretmeye başlar. Ardından hücre programlanmış ölüm mekanizmasıyla (apoptoz) imha olur.
+Tarihçe.
+RNA polimerazın in vitro olarak RNA sentezlediği çeşitli laboratuvarlarda 1965'te gösterilmiştir. Roger Kornberg ökaryotik transkripsiyon mekanizmasının moleküler ayrıntıları üzerinde yaptığı çalışmalardan dolayı Nobel Kimya Ödülü'nü kazanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre Organelleri  (EBA)</DOCTITLE>
+<TEXT>
+
+Hücrenin, vücudumuz gibi canlı bir yapı olduğunu; büyüme ve gelişme, çoğalma, sindirim, solunum, boşaltım vb. canlılığa dair bütün fonksiyonları yürüttüğünü biliyoruz. Hücreyi kapalı sistem bir mekanizmaya benzetecek olursak insan vücuduna benzetebiliriz. Vücudumuz birçok doku ve organdan oluştuğu gibi hücreler de hücre zarı, sitoplazma ve organeller ile çekirdekten oluşur. Bu yapılar vücudumuzdaki organlar gibi canlıdır ancak hücre dışına çıktıklarında, tek başına canlılıklarını sürdüremezler. 
+Prokaryot ve ökaryot hücrelerde ortak yapılar bulunur. Bu yapılar hücre zarı, sitoplazma, ribozom ve genetik materyaldir (Resim 78). 
+Bununla birlikte yapı açısından ökaryot hücreler, prokaryot hücrelerden farklı organellere de sahiptir. 
+Biyologlar, bir ökaryot hücrenin temel olarak 3 kısımdan oluştuğunu belirtmektedirler. 1. Hücre zarı 2. Sitoplazma ve organeller 3. Çekirdek 
+Ancak bitki, mantar hücrelerinde ve prokaryot hücrelerde bunlara ilaveten bir de hücre duvarı bulunmaktadır. Hücre duvarı hücrenin en dış kısımda bulunur, hücreyi dış etkilerden korur ve genellikle selüloz fibriller içerir. Bitki hücrelerinin hücre duvarları arasında ara lameller bulunur. Hücreyi oluşturan bu kısımların yapı ve görevlerine göz atmak için bir hücrenin iç yapısına doğru yolculuğa çıkalım (Resim 79). 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikrotübül</DOCTITLE>
+<TEXT>
+
+Mikrotübüller, hücre iskeletini oluşturan yapılardan olup, reseptörleri tutarlar veya serbest bırakırlar. Protein yapıda olup, uzun, içi boş silindirik yapılardır.
+Ökaryot kamçısı (flagella) içerisinde mikrotübüller bulunduğu halde prokaryot kamçısında bulunmaz. Bu ökaryotların prokaryot kamçısı arasındaki farklardan biridir. Bir diğeri ise hareket mekanizmalarından kaynaklanır. Kamçının sitoplazma içerisinde kalan kısmı etrafında enerji gereksinimi fazla olması nedeniyle mitokondri (prokaryot hücrelerde mezozom) bulunur.
+Mikrotübüllerin belli başlı görevleri ise sentriyollerin, sillerin ve kamçıların yapısal unsurlarını oluşturmaları şeklinde sıralanabilir. Bunlardan başka kan pulcukları (trombosit) ile daha birçok hücrede iskelet sistemini oluştururlar. Sinir hücrelerinde ise madde iletiminde iş görürler.
+Mikrofilamentler ise mikrotübüllerin aksine ağsı bir yapı gösterirler ve kalınlıkları da 7 nm kadardır. Yani mikrotübüllerin üçte biri kadar kalınlıktadır. Mikrofilamentler hücrenin hareketi ve hücre kasılmasında rol oynayan fonksiyonel yapılardır. Mikrofilamentler hücre içerisinde sayıca az olmasına karşın kas hücrelerinde oldukça gelişmiş bir yapıya sahiplerdir. Kas hücrelerinde iki proteini içeren iki çeşit mikroflament vardır.
+Birinci mikrofilament aktin adı verilen bir çeşit protein taşır. İkinci mikrofilament ise miyozin adı verilen diğer bir çeşit proteini içerir. İçerdikleri proteinlerle birbirinden farklılaşmış bu mikrofilamentler, mekanik ve kimyasal etkileşimlerle birbirleri üzerinde kayarak içinde bulundukları kas hücresinin hareketini sağlarlar.
+Mikrofilamentler aynı zamanda hücre zarının endositoz ve ekzositoz hareketlerini sağlayarak kese oluşturma yöntemiyle hücre içerisine büyük moleküllerin alınmasını sağlarlar.Ayrıca bitki hücrelerinde hücre duvarının yapısındaki selüloz liflerin düzenlenmesinde de rol oynar.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Oksidatif fosforilasyon</DOCTITLE>
+<TEXT>
+
+Oksidatif fosforilasyon, canlılarda enerji kaynağı olarak kullanılan ATP sentezinde kullanılan yollardan biridir. Fosforilasyon olarak da adlandırılan ATP sentezi başlıca dört yoldan gerçekleştirilir.
+Oksidatif fosforilasyon, oksijenli solunumun son evresini teşkil eder. Glikoliz ve Krebs döngüsü sırasında oluşan bileşiklerdeki hidrojen atomlarının, ökaryot hücrelerde mitokondrinin, prokaryot hücrelerde hücre zarının üzerinde bulunan elektron taşıma sisteminden (ETS) geçirilmesi sırasında oksijenle birleşerek su oluşturması ve kalan bileşiklerin ATP yapımında kullanılması olayıdır. Bilindiği gibi hidrojen atomu elektron ve protondan oluşur. Elektron ETS sürecinde protondan ayrılır, aktarmalarla oksijen molekülüne taşınır. Fazladan bir elektron almış olan oksijenin, elektronsuz kalmış hidrojen protonuyla kenetlenmesiyle de su oluşur.
+Mitokondrinin krista denen kıvrımlarında gerçekleşen ETS'de şunlar görülür:
+1.Glikolizden gelen 2NADH+H’dan 6ATP,
+2.Pirüvatın Asetil CoA'ya dönüşümü sırasında oluşan 2NADH+H’dan 6ATP
+3.Krebsten gelen 6NADH+H’dan 18ATP, 2FADH2’den de 4 ATP üretilir.
+Toplamda Glikolizden 2 ATP(net), Krebsten 2 ATP, ETSden 34 ATP üretilir.
+Not:
+1 NADH+H’dan 3 ATP
+1 FADH2’den 2 ATP oluşur.
+Oksijenli ortamda, ökaryot hücrelerin mitokondrilerinde prokaryot hücrelerin sitoplazmasında gerçekleşir. Oksijenli solunumda enerjinin en fazla üretildiği evredir. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücrenin Yapısı  (EBA)</DOCTITLE>
+<TEXT>
+
+Daha önceki bölümde canlıları cansızlardan ayıran temel özellikleri ve hücresel yapılanmanın bu ortak özelliklerden birisi olduğu bahsedilmişti. Hücre teorisinde de ifade edildiği gibi bilinen bütün canlılar hücreye sahiptirler. Ancak her canlıda bulunan hücre sayısı aynı değildir. Bazı canlılar bir hücreye sahipken bazı canlılar sayılmayacak kadar çok hücreye sahiptirler. Çok sayıda hücreden oluşan canlıların hücre sayılarının sabit olmaması nedeniyle bilim insanları, canlıları hücre sayısına göre bir hücreliler ve çok hücreliler olmak üzere ikiye ayırmışlardır. 
+Bilim insanları süreç içerisinde farklı canlı türlerindeki, hatta çok hücreli bir türdeki bir bireyin hücreleri arasında bile farklılıklar olduğunu tespit etmişlerdir. Örneğin oksijen taşımakla görevli kırmızı kan hücresiyle (alyuvar) sinir uyarılarını iletmekle görevli sinir hücresi şekil, büyüklük ve fonksiyon yönünden birbirinden farklıdır. Aynı şekilde bir ağacın yaprağını oluşturan hücreler arasında bile bu farklılıklar görülür. 
+Bu farklılıkları inceleyen bilim insanları yeryüzünde yaşayan her organizmanın yapısal olarak birbirinden farklı, iki hücre tipinden birine sahip olduğunu tespit etmişlerdir. Bu hücreler prokaryot ve ökaryot hücreler olarak isimlendirilmiştir. 
+Gül, tavşan, bakteri ve protista (Protoctista-Protoktista) üyelerini düşündüğünüzde, bu canlılardan hangilerinin prokaryot hangilerinin de ökaryot hücre tipine sahip olduğunu söyleyebilir misiniz? 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Monera</DOCTITLE>
+<TEXT>
+
+Monera (Daha önce prokaryot hücreye sahip olan canlılar monera alemi olarak kabul edilmekteydi. Prokaryotae), diğer alemlerden ayrılarak, Prokaryot (Prokaryotae) denilen bir üst alemde toplanmıştır. Monera alemi olarak isimlendirildiği dönemde Siyanobakteriler ( Mavi - Yeşil algler) ve bakteriler olmak üzere iki alt alemi içermekteydi. Bu dönemde Arkeler Monera içinde ayrı bir yere yerleştirilmemiştir. Halen Türkiye'de bazı özel dershanelerde bu eski taksonomik yaklaşım devam etmektedir. Zarla çevrili bir çekirdeği ve organelleri olan gelişmiş tekhücreliler üst alemine Eukaryot denilmiştir. Prokayotlar, genellikle bir hücrelidir, ancak bazen dış görünüşleri bakımından çok hücreliymiş gibi görünenleri de bulunmaktadır. Emilim (absorbisyon) ile ardıbeslek; fotosentez ile kendibeslek ve kemosentetik beslenen grupları içerirler. Çoğalmaları bölünme ya da tomurcuklanma ile eşeysiz olarak gerçekleşir. Kalıtsal materyallerini konjugasyon, transformasyon, transdüksiyon ve plazmit değişimi ile değiştirebilirler. Hareketleri, kamçılarla, süzülme ya da yavaş kayma şeklinde olur. Binlerce türü bilinmekte olup, sınıflandırılmaları tam olarak yapılamayan bir gruptur, üç domain (saha) canlı grubu kabul görmektedir. 1- Eubacteria 2- Archea 3- Eucaryota. Daha önceki yıllarda ise Monera aleminin alt alemleri; 
+Eubacteria; kükürt (S) kullanan ya da kullanmayan yeşil bakterileri, mor bakterileri, spiroketleri, cyanobakterileri ve gram pozitif bakterileri kapsar.
+Archaebacteria; metanojen, termoasidofil ve halofil bakterileri kapsar.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Protein biyosentezi</DOCTITLE>
+<TEXT>
+
+Protein biyosentezi, hücrenin protein sentezlenmesi için gereken bir biyokimyasal süreçtir. Bu terim bazen sadece protein translasyonu anlamında kullanılsa da transkripsiyon ile başlayıp translasyonla biten çok aşamalı bir süreçtir. Prokaryotlarda ve ökaryotlarda ribozom yapısı ve yardımcı proteinler bakımından farklılık göstermesine karşın, temel mekanizma korunmuştur.
+Protein biyosentezi için aminoasil-tRNA'ların hazırlanmasında ya da sentez süresince ATP ve GTP hidrolizi ile yüksek miktarda enerji harcanır. Ayrıca, hücreler ürettikleri enerjinin büyük kısmını protein sentezinde görev alan yapıları oluşturmakta kullanırlar.
+Bu sürecin genel hata oranı 10-4 civarındadır (her 10000 amino asitten bir hatalı yerleştirilir). Bazı antibiyotikler protein sentezine müdahale ederek etki gösterirler.
+Genetik bilgi akışında sıra protein sentezine geldiğinde mesajcı RNA (mRNA)’dan başka taşıyıcı RNA (tRNA) da devreye girerek ribozomlarda protein sentezi gerçekleşir. mRNA da yer alan kodonların taşıdığı genetik mesaj ribozomlarda adım adım deşifre edilerek uygun amino asitler tRNA vasıtasıyla ribozoma getirilir. Hücre sitoplazmasında 20 çeşit aminoasil-tRNA ların ribozomda bağlanabilecekleri çeşitli bölgeler bulunur ve amino asitlerini bırakan tRNA’lar ribozomlardan ayrılırken polipeptid zinciri de sentezlenmiş olurlar. tRNA’lar üzerinde yer alan nükleotitlere antikodon adı verilir. Örneğin, UUU şeklinde olan bir mRNA zincirine uyan tRNA antikodonunun nükleotid sırası AAA şeklindedir. UUU şeklinde bir kodon da fenilalanin adlı aminoasitin şifresidir.
+tRNA Yapısı ve Fonksiyonu.
+Taşıyıcı RNA (tRNA), translasyon sırasında büyüyen polipeptid zincirine özel amino asitlerin eklenmesini sağlayan küçük bir RNA zinciridir (74-93 nükleotid). Yapısında amino asit bağlanması için bir bölgesi ve mRNA üzerindeki kodon alanına başlanmasını sağlayan antikodon alanı vardır. Her tRNA molekülü sadece bir amino aside bağlanabilir fakat genetik kodun dejenere olması (yani genetik kodun aynı amino asidi belirten birden çok kodon içermesi) yüzünden farklı antikodonları oluşturan birçok tRNA tipi aynı amino asidi taşıyabilir.
+Taşıyıcı RNA, mRNA’daki kodon dizisini tanımaya aracılık eden, kodonun uygun amino aside translasyonuna izin veren ve Francis Crick tarafından hipotezi kurulan "adaptör" molekülüdür. Yaklaşık 80 nükleotid uzunluğunda tek zincirli bir yapıdadır. Farklı tRNA bölgeleri, hidrojen bağlarıyla birbirlerine bağlanmış haldedirler. tRNA'nın 3' ucu CCA nükleotid dizisine sahiptir ve burası amino asitlerin bağlandığı bölgedir. Antikodonlar 3'->5' yönünde, mRNA'da kodonlar 5'->3' yönünde okunur. Örneğin, antikodon baz sırası 3'-AAG-5' ise, mRNA’daki kodon 5'-UUC-3' biçimindedir. mRNA’daki her bir amino asit kodonuna özgü bir tRNA olsaydı, 61 çeşit tRNA olması gerekirdi. Oysa tRNA çeşidi yaklaşık 45'tir. Bunun sebebinin, aynı antikodon bölgesine sahip olarak hazırlan tRNA'ların, verilen amino asitlere uyumlu olarak birden çok kodonu tanıma yeteneğinde olduğu gösterilmiştir. Kodonların 3. pozisyonundaki baz ile onun antikodonundaki eşi olan 1. baz arasında standart olmayan bir baz eşleşmesi veya "oynaklık" özelliği nedeniyle bir tRNA çok sayıda kodonu tanıyabilir. Bu konuda en değişken tRNA, oynak pozisyonunda inosin (I) bulunduran tRNA'lardır. İnosin, 2. karbon atomunda amino grubu taşımayan bir guanin analoğudur. tRNA antikodonunun oynak pozisyonundaki inosin ile adenin, sitozin veya urasil ile eşleşebilir. Örneğin, tRNA antikodonu CCI olan bir tRNA, GGU, GGC ve GGA şeklindeki mRNA kodonlarına uyup, glisin amino asidini büyümekte olan protein zincirine katabilir.
+<br clear=all>
+Aminoasit-tRNA Sentetaz.
+Kodon-Antikodon eşleşmesinden önce tRNA’nın doğru amino asidi taşıması gerekmektedir. Her bir amino asidi tRNA’ya bağlayan 20 çeşit aminoasit-tRNA sentetaz enzimi vardır. Bu enzimin aktif yüzeylerinden birine önce amino asidin bağlanması gerekir. ATP, AMP’ye dönüşerek amino aside bağlanır ve aktive edilmiş amino asit kendine özgün enzime bağlanır. Daha sonra bu enzime ve amino aside özgü tRNA enzime bağlanır ve amino asitle tRNA arasında bir bağ oluşur. Bu sırada AMP de açığa çıkar. tRNA ile birleşen amino asit, enzimden serbest bırakılarak sitoplazmaya geçer.
+<br clear=all>
+Ribozomlar.
+Ribozom protein sentezinin yapıldığı, mRNA ile tRNA’lar arasındaki bağlantının kurulduğu organeldir. Büyük ve küçük alt birim olmak üzere iki kısımdan oluşur, bunlar protein sentezi sirasında birleşirler. Ribozom, protein ve ribozomal RNA’lardan (rRNA) meydana gelmiştir. Ökaryotlarda alt birimler çekirdekçikte sentezlenir. Her bir ribozomda üç bağlanma bölgesi vardır. Polipeptide eklenmek için bekleyen aminoasil-tRNA, A yüzeyinde beklerken, sentezlenen polipeptid P yüzeyinde durur. Yükünü boşaltan tRNA ise ribozomdan çıkmak için E yüzeyine geçer. Bu işlemlerin olabilmesi için mRNA kodonları ile tRNA antikodonları arasındaki eşleşmelerin uygun olarak gerçekleşmesi gerekir. Prokaryot ve ökaryot ribozomları arasında benzerliklerle birlikte bazı farklılıklar da vardır. Bakterilere karşı kullanılan antibiyotiklerin bazıları spesifik olarak prokaryot ribozomlarına etki ederek protein sentezini, ve dolayısıyla bakterinin büyümesini durdururlar.
+<br clear=all>
+Polipeptid yapımı.
+Protein yapımı (Translasyon) üç aşamaya ayrılabilir: başlama, uzama ve sonlanma. Translasyon için mRNA, tRNA ve ribozomların yanı sıra bazı protein faktörleri de gereklidir. Enerji ise guanozin trifosfat’tan (GTP) sağlanır.
+<br clear=all>
+Protein sentezinin başlaması.
+DNA'yı kaynak olarak kullanan RNA polimeraz enzimi tarafından üretilen mRNA molekülü, IF proteinlerinin yardımıyla önce ribozomun küçük altbirimine bağlanır. Daha sonra mRNA 5' ucundan okunmaya başlar. AUG kodonu protein sentezini başlatıcı kodondur. Bu kodona Met-tRNAi (bakterilerde fMet-tRNAf) molekülü bağlanır. Daha sonra ribozomun büyük alt birimi ile küçük alt birimi birleşir ve protein sentezi ilerler. Gerekli olan enerji GTP’den sağlanır. Başlatıcı kodona uyan tRNA, ribozomun P bölgesine yerleşerek A bölgesine kodona uygun yeni bir aminoasil-tRNA gelmesi beklenir.
+<br clear=all>
+Uzama.
+Ribozomun A yüzeyine uygun antikodona sahip tRNA gelir ve hidrojen bağlarıyla kodona bağlanır. Bu sırada 2 molekül GTP harcanır. İkinci basamakta P yüzeyde bulunan polipeptid, A yüzeyine gelen amino asit ile birleşecek biçimde ortama aktarılır. Ribozom, mRNA üzerinde 3' yönüne doğru hareket ederek A yüzeyinde bulunan tRNA ile birlikte polipeptidi P yüzeyine aktarır. P yüzeyinde bulunan tRNA ise E yüzeyine geçerek ribozomdan uzaklaştırılır. Enerji GTP’den sağlanır. Ribozom, mRNA üzerinde 5'->3' yönünde hareket eder. Okuma ise kodon seviyesinde gerçekleşir.
+<br clear=all>
+Sonlanma.
+Uzama, mRNA üzerinde durma kodonlarına kadar devam eder. A yüzeyine serbest bırakıcı faktörler geldiğinde okuma sonlanır. Bu faktörlerin A yüzeyine gelebilmesi için mRNA’daki kodonun UAG, UAA veya UGA şeklinde olması gerekir. Hidroliz enzimleri yardımıyla P yüzeyinde bulunan polipeptit serbestbırakılır. Böylece protein sentezi sonlanmış olur.
+<br clear=all>
+Transkripsiyon.
+Transkripsiyon için DNA çift sarmalının sadece bir iplikçiği gereklidir. Bu ipliğe "kalıp iplikçik" denir. Transkripsiyonun başlangıç noktasını tayin eden RNA polimeraz enzimi DNA üzerinde belirli bir bölgeye bağlanır. Bu bağlanma bölgesine promotor denir. RNA polimeraz promotora bağlandığında, DNA iplikçikleri açılmaya başlar.
+İkinci aşama uzamadır (elongation). RNA polimeraz, kodlamayan kalıp iplikçik üzerinde dolaşırken bir ribonükleotid polimeri sentezler. RNA polimeraz kodlayıcı iplikçiği kullanmaz çünkü herhangi bir ipliğin kopyası, kopyalanan ipliğin tümleyici (komplemanter) baz dizisini üretir.
+Polimeraz sonlanma (termination) aşamasına geldiğinde, RNA polımeraz, DNA ve yeni sentezienmiş RNA birbirlerinden ayrılırlar. Prokaryotlardaki süreçten farklı olarak ökaryotlarda yeni sentezlenen mRNA'nın sitoplazma ve endoplazmik retikulum dahil birçok hücre bölgesine ulaşması için değişikliğe uğraması gerekmektedir. Yıkılmasını önlemek için mRNA'ya 5' başlığı eklenir. Kalıp olmak ve daha sonra işlenmesini sağlamak için 3' ucuna bir poli-A kuyruğu eklenir. Ökaryotlardaki hayati önem taşıyan uçbirleştirme olayı bu aşamada gerçekleşmektedir.
+<br clear=all>
+Poliribozomlar.
+Aynı zaman diliminde birçok ribozomun tek bir mRNA’yı okuması, aynı proteinden birçok örneğin yapılmasını sağlar. Bir ribozom mRNA üzerinde ilerlerken, diğer ribozom da mRNA’nın 5' ucuna eklenip ilerlemeye devam eder. Böyle ribozom zincirleri poliribozomları oluştururlar. Prokaryotik ve ökaryotik hücrelerde bulunabilirler. Böylece kısa zamanda aynı proteinden çok sayıda sentezlenmiş olur. Proteinler sentezlendikten sonra işlevlerine göre değişik işlemlerden geçerek ait oldukları yerlere giderler.
+<br clear=all>
+Hücrede ribozomların bir kısmı sitoplazmada serbest halde bulunup sentezledikleri proteini sitoplazmaya verirken, bazı ribozomlar zar sistemlerine (endoplazmik retikulum, Golgi aygıtı, lizozom) bağlı halde bulunurlar. Ribozomların hepsinde protein sentezi sitoplazmada serbest haldeyken başlar. Sentez ilerlerken endoplazmik retikuluma (ER)’ye bağlanma gerçekleşir. Büyüyen polipeptid de sinyal peptid kısmı da (20 amino asit) sentezlenince sitoplazmada bulunan Sinyal Tanıma Tanecikleri ("Signal Recognition Particle", SRP) ile birleşir. Protein sentezi ilerler ve polipeptid ER’ye bağlı kanallardan organelin boşluğuna bırakılır. Böylece sinyal, peptidler yardımıyla hedef proteinler istenen organele iletilmiş olur.
+<br clear=all>
+Prokaryotik Ve Ökaryotik Hücrelerin Protein Sentezi Farkları.
+Aralarında birçok benzerlik olmasına rağmen prokaryotik ve ökaryotik hücrelerin protein sentezleri arasında bazı farklılıklar da vardır. Prokaryotik ve ökaryotik polimerazlar birbirlerinden farklı olduğu gibi, ribozomlar arasında da farklar vardır. Prokaryotlarda çekirdek zarının olmaması, transkripsiyon ve translasyonun aynı anda olmasını sağlar. Ökaryotlarda organellerin gelişmiş olması hedef proteinleri meydana getiren sinyallerin gelişmesine yol açmıştır. Bu sistemler prokaryotlarda bulunmaz.
+Ayrıca transkripsiyonun prokaryot canlılarda stoplazmada gerçekleşmesi, ökaryot canlılarda çekirdekte gerçekleşmesi de bir başka farklılıktır. Çünkü DNA ökaryotlarda çekirdekte, prokaryotlarda ise stoplazmada dağınık halde bulunur.
+<br clear=all>
+Nokta mutasyonu.
+DNA baz diziliminde nükleotidlerde oluşan değişiklikler nokta mutasyonlarını oluşturur. Üreme hücrelerinde oluşan nokta mutasyonları döllere aktarılır. Örneğin, orak hücre anemisinde hemoglobinin bir polipeptid zincirini sentezleyen geninde bir nokta mutasyonu oluşmuştur. Bu, anormal bir proteinin üretilmesine neden olur. DNA'da bir timin yerine adenin girmesi, mRNA’da adenin yerine urasilin gelmesine ve bu da translasyonda valin adlı amino asitin yanlışlıkla proteinin yapısına girmesine yol açar, bu da hemoglobinin şeklini bozarak hastalığa neden olur.
+Çeşitli mutasyon tipleri vardır. DNA’ya baz ilavesi (insersiyon) ya da çıkarılması (delesyon), en zararlı iki mutasyon tipidir. Kodonların kayma sonucu yanlış okunmasına çerçeve kayması mutasyonu ("frameshift mutation") denir. Baz çifti eklenmesinde, eğer üçüncü bazda bir değişme meydana gelirse çoğunlukla bir değişme olmaz. Örneğin, GGC yerine GGU olursa gene glisin amino asiti polipeptide eklenmiş olur. Diğer değişmeler ise farklı biçimlerde sonuçlanabilir. Baz eklenmesi ya da çıkması ise değişik amino asitlerin eklenmesini sağladığı gibi, durma kodlarının okunmasına da sebep olabilir. Ultraviyole ışınları, X ışınları gibi iyonize edici radyasyon, kozmik ışınlar, radyoaktif materyallerin emisyonları gibi yüksek enerjili radyasyon, mutasyonlara neden olur. İyonize edici radyasyon, basit tek baz değişimlerine sebep olabilir. Bazı mutajenik kimyasallar, etkilerini doğrudan bir bazı başka bir baza değiştirerek yaparlar. Örneğin, nitroz asidi sitozindeki amino grubunu deamine ederek urasil oluşturur.
+Ökaryotlarda transkripsiyon ve translasyon.
+Bir polipeptidin sentezinden sorumlu olan nükleotidlerden oluşmuş DNA parçası (veya parçaları) o polipeptidin genini oluşturur. Ökaryotlardaki genler, içlerinde kodlamayan intron bölgeleri bulundurabilir. Ayrıca bir gene bitişik olarak, polipeptid sentezini idare ve kontrol eden promotor ve düzenleyici bölgeleri vardır. Bu bölgeler okunmaz, sadece gen sentezini denetler. Başka genler, rRNA ve diğer RNA çeşitlerinin de sentezinden sorumludur. Yani gen, bir polipeptid ya da RNA sentezinden sorumlu bölge olarak tanımlanabilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Lies My Parents Told Me</DOCTITLE>
+<TEXT>
+
+Lies My Parents Told Me , Buffy the Vampire Slayer'ın 7. sezonunun on yedinci bölümüdür.
+Genişletilmiş anlatım.
+Bölüm, 1977'de New York'ta başlar. Nina Wood ve Spike dövüşmektedirler. Robin ise bir bankın arkasına saklanmış olanları izlemektedir. Spike oradan uzaklaşır. Nikki, Robin'e her zaman görev için çalışması gerektiğini söyler. Robin ise geri dönüp annesinin kazığını alır. Daha sonra sahne günümüze döner. Müdür Robin, Spike ve Buffy bir ara sokakta vampirlerle dövüşmektedirler. Spike, Robin'i bir vampirden kurtarır ve ona ' Kazık senin arkadaşın. Onu kullanmaktan korkma. ' der. Robin ise sadece zamanını beklediğini söyler. 
+Ertesi gün Buffy işe gider. Robin'le konuşurken Giles içeri çok hızlı bir şekilde girer ve yeni kütüphanenin berbatlığından bahseder. Daha sonra Müdür Robin ile tanışır. Onlara savaşın kaçınılmaz olduğunu ve yaptığı yolculuk sırasında Spike'ın tetikleyicisinin ne olduğunu öğrenebilecekleri bir şey bulduğunu söyler. Bu işlem az da olsa büyü gerektirmektedir. Böylece tüm Scooby Gang Spike'ın yaşadığı yere yani Summersların bodrumuna inerler ve ritüeli başlatırlar. Willow prokaryot taşını solucan benzeri bir yapıya çevirir ve Spike'ın gözünden beynine girer. Spike kendini annesine şiirlerini okurken bulur. Annesi hayatta yalnız kalmaması gerektiğini söyler. William ise annesine her zaman bakacağına dair söz verir. Annesi şiddetli bir biçimde öksürmeye başlar, William ona su uzatır. Annesinin peçetesinde kan gören William durumu anlar. William annesinin yanına oturur ve annesi Spike'ı tetikleyen şarkıyı söylemeye başlar. Spike günümüze döner ve yanında oturan Buffy'nin boğazını sıkar. Ortalığı dağıtır bu sırada prokaryot taşı yine gözünden çıkarak yere düşer. 
+Giles, Spike'a annesi hakkında sorular sorar ama Spike bir şey hatırlamamaktadır. Şarkı annesinin en sevdiği şarkıdır ve bebekken Spike'a söylemiştir. Şarkının Spike için bunlar haricinde bir anlamı yoktur. Spike'ın tetikleyicisi devredeyken zarar gören Dawn ise yukarda dinlenmektedir. Buffy ve Giles tartışırlarken, Spike kendisini Dru ile kendi evinde görür. Dru'ya annesinin de onlarla birlikte Avrupa'ya gelmesi gerektiğini söyler. Annesi yanlarına gelir ve William ona artık hastalığın ve ölümün olmadığını söyler. Bunun ardından annesini ısırır ve günümüze döner. Buffy, Spike'ın zincirlerini çözer. Spike gördüğü anıyı Buffy'ye anlatmaz. Willow ise bir telefon almıştır ve bir iki günlüğüne Los Angeles'a gitmek zorundadır.
+Robin, Giles'a aynı fikirde olduklarını yani Spike'ın bir problem olduğunu söyler ve Buffy'nin gözetmenini dinleyeceğini söyler. Giles ona Gözetmen-Avcı ilişkisi hakkında pek bilgisi olmadığını söyleyince Robin, annesinin ölümünden sonra onu bir gözetmenin yetiştirdiğini söyleyince Giles, Robin'in Nikki Wood'un oğlu olduğunu anlar. Robin Giles'a Spike'ın öldürülmesinin gerektiğinden bahseder ve sadece Buffy'yi birkaç saat oyalamasını ister.
+Giles, Buffy'yi eğitime mezarlığa götürür ve onunla uzun uzun konuşur. Robin ise Spike'ı garajına götürür. Işığı açtığında Spike bütün duvarların onlarca haçla kaplı olduğunu görür. Robin bu sırada internetten Spike'ı tetikleyen şarkıyı araştırmaktadır. Robin, Spike'a annesinin bir avcı olduğunu ve Spike'ın onu öldürdüğünü anlatır. Daha sonra şarkıyı açar ve Spike'ın tetikleyicisi devreye girer. Spike yine kötü adamdır. Bu sırada Spike yine eskiye döner, annesi vampir olmuştur. Annesi William'a onu bu hale getirdiği için teşekkür ettiğini ama o şiir zırvalarına sonsuza dek katlanamayacağını söyler. Onu terketmek için sabırsızlandığını, kendisini rahat bırakmasını sağlayacak bir kadın bulması için çok dua ettiğini söyler. Bu sırada Robin, Spike'ı fazla hırpalamıştır. O yerde yatarken paltosunu üzerinden çıkarır ve eline bir kazık alır. William ise annesinden özür dileyerek, annesine bir kazık saplar ve onu öldürür. Bu sırada Robin'den de özür dilemektedir. Robin onu tam kazıklayacakken Spike tetikleyiciyi anladığını, konuşanın annesi değil iblis olduğunu anladığını söyler ve Robin'i döver. Şarkıyı tekrar açar ve artık tetikleyici devrede değildir. Robin'e ise onu iyileştirdiği için teşekkür eder.
+Giles, Buffy'ye Spike'ın bir tehlike olduğunu ve onu öldürmesi gerektiğini anlatmaya çalışmaktadır. Buffy, Giles'ın onu oyaladığını anlar ve koşarak Robin'in garajına gider. Spike bu arada oradan çıkmaktadır, Buffy ne olduğunu sorar Spike ise kapıyı açar ve Robin'i gösterir. Bir daha ona bakarsa onu öldüreceğini söyler. Buffy, Robin'in yanına gider. Eğer bir daha Spike'ı öldürmeye kalkarsa Spike'ın onu öldüreceğini, Buffy'nin de buna izin vereceğini söyler. Giles eve geldiklerin de Buffy'nin kızgınlığını anladığını ve bilmesi gereken bir şey olduğunu söyler. Buffy ise itiraz eder ve öğrenmesi gereken her şeyi öğrendiğini söyleyip kapıyı Giles'ın yüzüne kapatır. Bölüm de burda biter.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ribozomal RNA</DOCTITLE>
+<TEXT>
+
+Ribozomal RNA (rRNA), ribozomlarda bulunan bir RNA tipidir, ribozomun protein senteziyle ilişkili katalitik fonksiyonundan sorumludur. Ribozomal RNA, mRNA'daki bilginin translasyon süreci sırasında amino asit dizisine çevrilmesi için taşıyıcı RNA (tRNA) ile etkileşmek ve uzayan peptit zincirine amino asit takmaktır. Hücre sitoplazmasında bulunan RNA'nın %80'i rRNA'dan oluşur.
+Ribozomun yapısı ve rRNA.
+Ribozom iki altbirimden oluşur, bunların herbiri rRNA ve proteinlerden meydana gelir. Mesajcı RNA (mRNA)'nın ribozom tarafından çevirisi sırasında mRNA bu iki altbirim arasında yer alır. Küçük altbirime iki tRNA bağlıdır, bunlardan birine uzamakta olan peptid zinciri bağlıdır, öbürüne ise bu zincirin ucuna eklenecek olan bir amino asit. Ribozom bu amino asidin peptid zincirine eklenme tepkimesini katalizler.
+rRNA molekülleri sentezlenirken önce bir öncül RNA (prekürsör rRNA veya pre-rRNA) meydana gelir. Pre-rRNA sentezlendikten sonra, önce belli nükleotitlerdeki bazlar kimyasal değişimlere uğrar (bazı şeker gruplarının metillenmesi ve bazı uridinlerini psödouridine dönüşmesi gibi). Bunun ardından pre-rRNA kesilip kırpılarak üç farklı rRNA türü meydana getirir. Bu işlemler snoRNP'ler (İngilizce "small nükleolar ribonucleolar particles"; küçük nükleolar ribonükleolar tanecikler) tarafından gerçekleşir. SnoRNP'ler, snoRNA olarak adlandırılan kısa bir RNA molekülü ve sekiz-on proteinden oluşan birer kompleksdir; snoRNA, baz eşleşmesi yaparak rRNA üzerinde belli bir diziye bağlanır, böylece snoRNP'deki enzimlerin bu hedef diziye yönlenmesini sağlar. Bu enzimler rRNA'da kimyasal değişiklikler yapar ve onu keser.
+rRNA belli bölgelerindeki nükleotit dizileri birbirini tümleyici olduğu için bunlar birbirleriyle baz eşleşmesi yaparak molekülün kendine has üç boyutlu bir şekle girmesini sağlarlar. Ribozomdaki proteinler rRNA'nın belli kısımlarını tanıyıp oralara bağlanır, ardından bu proteinler arasındaki etkileşimler rRNA'nın daha da katlanmasına neden olur ve sonunda ribozom meydana gelir. Pre-rRNA'nın transkripsiyonu, işlenmesi, rRNA'ların proteinlerle birleşerek ribozom altbirimlerini oluşturması çekirdekçikte meydana gelir.
+rRNA'nın bazı kısımları ribozomda tRNA'nın bağlanma yerlerini (A-, P- ve E- konumları) oluşturur. Başka kısımları mRNA ile etkileşerek onun çeviriminin başlama yerini belirler. Ayrıca, rRNA, peptid bağının oluşumunu sağlayan peptidil transferaz adlı katalitik aktiviteden sorumludur. 23S rRNA molekülünün, yardımcı bir protein olmaksızın peptidil transferaz aktivitesine sahip olduğu gösterilmiştir.
+Prokaryot ve ökaryotlar.
+Ribozomlar hem prokaryot hem de ökaryotlarda iki altbirimden oluşur. Bu altbirimler santrifüjleme sırasında hangi hızda sedimante oldukları ile ilişkili olarak adlandırılır (adlarındaki S, Svedberg birimine karşılık gelir). Tabloda parantez içindeki rakamlar, altbirimde bulunan rRNA moleküllerine aittir.
+Not: Altbirimlerin S birimlerinin toplamı ribozomun S birimine eşit değildir, çünkü sedimantasyon hızı sadece kütle değil, taneciğin şekline de bağlıdır.
+Ayrıca ribozomların oluşumunda birkaç proteinlerde yer alır. Ökaryotların ribozomal küçük altbirimi 33 protein ve büyük altbirimi ise 49 protein içermektedir.
+Prokaryotlar.
+Prokaryotlarda 30S ribozomal altbirimde 16S ribozomal RNA bulunur. 50S ribozomal altbiriminde ise iki rRNA türü vardır, bunlar 5S ve 23S rRNA'lardır.
+Bakterilerde 16S, 23S ve 5S rRNA genleri beraberce transkripsiyonu yapılan bir operon olarak organize olurlar. Genomda bu rRNA operonlarından birden fazla bulunabilir (örneğin, "E. coli" 'de yedi tane vardır). 
+Arkelerde de bir veya birden çok rRNA olabilir. 16S, 23S ve 5S rRNA'ları, öncül bir RNA transkriptinin (pre-rRNA) üç parçaya kesilip, bu parçaların da uçlarının kısaltılması sonucu meydana gelirler.
+Ribozomlarda 16S rRNA'nın 3' ucu, mRNA'nın 5'ucunda bulunan Shine-Dalgarno dizisine bağlanır.
+Ökaryotlar.
+Ökaryotlarda küçük ribozomal altbirimde 18S bulunur, büyük altbirimde ise üç tane rRNA türü vardır: 5S, 5.8S ve 28S rRNA'lar.
+Ökaryotlarda rRNA genlerinin pekçok kopyası vardır, bunlar art arda dizilmiş tekrarlar şeklinde olur.
+Yukarıda belirtilen sitoplazmik ribozomlardaki rRNA tiplerine ek olarak hayvanlardaki mitokondri ribozomlarında da rRNA'lar (12S ve 16S) bulunur. Bitki mitokondrilerinde bu ikisine ek olarak bir de 5S rRNA vardır.
+Ribozomal rRNA'lardan 28S, 5.8S ve 18S rRNA'lar, tek bir RNA molekülünün işlemden geçmesi sonucu oluşur. Memelilerde bu öncül rRNA (pre-rRNA) 45S büyüklüğündedir, bunun başından ve sonundan birer parça, iç kısmından da iki parça çıkınca kalan parçalar 28S, 5.8S ve 18S büyüklüğünde olur. Bu işlemden sonra 5.8S rRNA ve 28S rRNA birbirlerine hidrojen bağlarıyla bağlanırlar. 5S rRNA ayrı bir genden yazılır.
+Büyümekte olan hücreler pekçok ribozoma gerek duyduklarından çok sayıda rRNA sentezlemek durumundadırlar. Bu yüzden genomda çok sayıda rRNA geni bulunur. 45S rDNA geni, herbiri 30-40 tekrardan oluşan (kromozom 13, 14, 15, 21 ve 22'de) beş küme halindedir. Bunların transkripsiyonu RNA polimeraz I tarafından yapılır. 5S rRNA'nın transkripsiyonu ise RNA polimeraz III tarafından yapılır. 5S rRNA, 200-300 gen tarafından kodlanır, bunlar da art arda dizilmiş tekrarlardan oluşur, bu tekrar kümelerinden en büyüğü kromozom 1q41-42'dedir. Kurbağa yumurtalarında gözlemlenmiş bir olgu, rRNA gen kopya sayısının diğer hücre tiplerinden birkaç bin katı daha çok olduğudur. Yumurta hücresinin büyüklüğü ve onun çok miktarda protein üretme gereğinden dolayı, genomdaki rRNA gen sayısının amplifikasyonunu sağlayan bir mekanizma mevcuttur.
+28S, 5.8S ve 18S rRNA'ları çekirdekçikte sentezlenir, 5S rRNA'sı ise çekirdeğin farklı bir bölgesinde sentezlenir.
+Ribozomlarda 18S rRNA'sının 3' ucu, mRNA'nın 5'ucu ile baz eşleşmesi yaparak mRNA'nın çevirisinin başlamasını sağlar.
+Ribozom altbirimlerindeki RNA'nın üç boyutlu yapısı X-ışını kristalografisi ile çözülmüştür. Bu RNA dört bölgeden oluşur, bunlar 5', merkez, 3' majür ve 3'minör bölgelerdir. 5' bölgenin yapısının modeli (500-800 nükleotitten oluşan) şekilde gösterilmiştir. Ribozomda peptit bağının oluştuğu aktif merkez tamamen rRNA'dan oluşur.
+Ribozomal RNA'nın işlevsel bölgelerinde (örneğin, peptidil transferaz veya altbirim arayüzünde) bulunan nükleozitlerin çoğu transkripsiyon sonrası değişime uğramıştır, muhtemelen bu değişimler ribozom fonksiyonu için önemlidir. rRNA'daki baz modifikasyonlarının meydana gelmesinden küçük nükleolar RNA'lar (snoRNA'lar) rol oynar, bunlar rRNA ile baz eşleşmesi yaparak modifikasyonu yapacak enzimleri pre-rRNA'nın uygun yerlerine yönlendirirler.
+Translasyon.
+Translasyon, mRNA tarafından taşınan bilginin ribozomlarda proteine çevrilmesi sürecidir. Prokaryotlarda 16s rRNA, mRNA'nın başlama kodonunun akış yukarısındaki bir dizi ile baz eşleşmesi yapar.
+
+</TEXT>
+</DOC>
+

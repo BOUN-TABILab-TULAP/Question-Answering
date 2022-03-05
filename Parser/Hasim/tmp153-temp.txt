@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Nüfus nüfus+Noun+A3sg+Pnon+Nom
+hangi hangi+Adj
+üç üç+Num+Card
+yaş yaş+Noun+A3sg+Pnon+Nom yaş+Adj
+grubunda grup+Noun+A3sg+P3sg+Loc grup+Noun+A3sg+P2sg+Loc
+incelenir incele+Verb^DB+Verb+Pass+Pos+Aor+A3sg incele+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

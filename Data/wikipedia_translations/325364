@@ -1,0 +1,88 @@
+Jeodezik datum
+Bir Jeodezik sistemi veya jeodezik datum bir koordinat sistemi ve Earth (veya benzeri nesneler) yerleri bulmak için kullanılan referans noktaları setidir. Deniz seviyesinden modern tanımı aslında ileriye 1984 datum WGS 84 ile tam olarak tanımlanır. Diğer datumlar diğer alanlar için ya da diğer zamanlarda tanımlanmıştır; ED50 Avrupa'da nereye bakmak bağlı bir kaç yüz metre Avrupa'dan 1950 yılında tanımlanmış ve WGS 84 farklı oldu. Mars hiçbir okyanuslar ve böylece hiçbir deniz seviyesine sahiptir, ancak en az iki Mars datumlar orada yerleri bulmak için kullanılmıştır.
+Datumlar yeryüzündeki gerçek pozisyona haritalar (kağıt veya dijital) belirtilen pozisyonlara çevirmek için haritacılar ve uydu navigasyon sistemleri ile jeodezi, navigasyon ve ölçme kullanılmaktadır. Her bir elips (uzatılmış küre) ile başlar ve daha sonra enlem, boylam ve yükseklik koordinatları tanımlar. Yeryüzündeki Bir veya daha fazla yer çapa olarak seçilmiştir. Örneğin, Meades Ranch, Kansas ABD, Lucas kuzey, bir tarlanın ortasında, çok yakın NAD83 datum olarak tanımlanan ortasında bir nokta, (sahip betona gömülü bir bronz surveyor disk var WGS 84).
+Referans değerleri arasındaki koordinatlar arasındaki fark genellikle "sıfır noktası kayması" olarak adlandırılır. iki özel datumlar arasındaki datum vardiya bir yerden, bir ülke veya bölgede başka değişebilir ve (bazı uzak adalara ya da birkaç kilometre) yüzlerce metre sıfırdan bir şey olabilir. Kuzey Kutbu, Güney Kutbu ve Ekvator farklı datumlar farklı pozisyonlarda olması kabul edilebilir, yani Gerçek Kuzey çok biraz farklı olabilir. Farklı datumlar Dünya (referans ellipsoids) kesin şekil ve boyut için farklı tahminler kullanınız.
+Dünya kusurlu elips olduğundan, lokalize datumlar örneğin, küresel WGS 84 elipsoid daha İngiliz Isles kapsayan jeoidin için daha iyi bir yaklaşım olduğunu, WGS 84. OSGB36 daha kapsama alanının daha doğru bir gösterimini verebilir. Küresel sistemin yararları daha doğru ağır basar Ancak, küresel WGS 84 datum giderek benimsenen hale geliyor.
+Yatay datumlar enlem ve boylam ya da başka bir koordinat sistemi içinde, yeryüzü üzerinde bir nokta tanımlamak için kullanılır. Dikey datumlar yükseltiler veya derinlikleri ölçer.
+Mühendislik ve tasarlanması, bir "datum" ölçümler yapıldığı karşı bir nesne üzerinde bir referans noktası, yüzey veya eksenidir.
+Datum.
+Ölçme ve jeodezi, bir "datum" bir referans noktası veya pozisyon ölçümleri yapıldığı karşı yüzey ve pozisyonlarını hesaplamak için yeryüzünün şekli ilişkili bir modeldir. Yatay datumlar enlem ve boylam ya da başka bir koordinat sistemi içinde, yeryüzünün üzerinde bir nokta tanımlamak için kullanılır. Dikey datumlar yükseltiler veya sualtı derinlikleri ölçmek için kullanılır.
+Yatay datum.
+Yatay veri yeryüzünde pozisyonları ölçmek için kullanılan modeldir. Yeryüzünde özel bir nokta ölçümü yapmak için kullanılan referans noktası bağlı esasen farklı koordinatları olabilir. Genellikle bazı uygun yerel referans noktasına başvurulan dünyada yerel geliştirilen yatay datumlar yüzlerce vardır. Yerin şekline giderek hassas ölçümler göre Çağdaş datumlar, daha geniş alanları kapsaması amaçlanmıştır. Kuzey Amerika ve Avrupa'da kullanılan ETRS89 datumunda kullanılan NAD83 datum hemen hemen aynıdır WGS 84 datum, ortak bir standart veri olduğunu.
+Örneğin, Sydney'de GDA yapılandırılmış koordinatları GPS arasında 200 metre (700 feet) fark bazı uygulamalar için kabul edilemez büyük bir hata gibi olan (küresel standart WGS84 göre) ve AGD (çoğu yerel haritalar için kullanılır) var tüplü dalış için inceleme veya site konumu.
+Düşey datum.
+Dikey bir referans noktası deniz seviyesinin üzerindeki noktaların yükselmeleri ölçmek için kullanılır. Dikey datumlar ya şunlardır: gelgit, deniz seviyesinin dayalı; gravimetrik, bir jeoidin dayalı; veya, jeodezik yatay datumlar hesaplamak için kullanılan toprak aynı elips modellerine dayanan.
+Herhangi bir yerde, deniz yüzeyinin yüksekliği ve zaman bir sonucudur: Ne "deniz seviyesi" aslında anlamına ilk düşünülebilir de kudreti daha karmaşık bir mesele olmasına rağmen ortak kullanımda, yükselmeler genellikle deniz seviyesinden yüksekliği s¸ekildedir dalgalar, rüzgar ve akıntılar, atmosferik basınç, gelgit, topografya ve bağlı vb dağların varlığına ağırlık gücü bile farklılıkları dahil olmak üzere birçok etkileri,
+Karada nesnelerin yüksekliğini ölçmek amacıyla kullanılan her zamanki datum deniz seviyesi (MSL) ortalama olduğunu. Bu, belirli bir 19 yıl döngüsü ele saatlik su yüksekliği aritmetik ortalaması olarak tanımlanan bir gelgit veridir. Ve kısa vadeli değişimleri (güneş ve ayın çekim etkileri nedeniyle) gelgit yüksek ve alçak dışarı Bu tanım ortalamalar. Yerel yerçekimi gücünün etkilerini kaldıracak değil, ve bu yüzden MSL yüksekliği, bir jeodezik referans noktasına göreli dünyada değişecektir ve hatta yaklaşık bir ülke. Ülkeler o ülkede standart tüm haritalama "deniz seviyesi" ve ölçme olarak kullanılacak belirli bir noktada ortalama deniz seviyesi seçmek eğilimindedir. (Örneğin, Büyük Britanya'da, ulusal düşey datum, Ordnance Datum Newlyn, 1915 ve 1921 arasında Cornwall Newlyn ortalama deniz seviyesi neydi dayanmaktadır). Ancak, bir ülkenin tarafından tanımlanan sıfır yükseklik yerel olarak tanımlı dikey datumlar birbirinden farklı neden (MSL her yerde aynı olmadığı için) başka tanımlanan aynı şekilde sıfır yükseklik, değil.
+Deniz grafikler için bir referans noktasını seçerken farklı bir prensip kullanılır. Güvenlik nedenleriyle, bir denizci herhangi bir noktada meydana gelebilecek su minimum derinliği bilmek gerekir. Bu nedenle, bir deniz grafik derinlikleri ve gelgit gelgit nadiren düştüğü altında bir seviye olarak tanımlanan grafik verisine, göreli ölçülür. Tam olarak nasıl bu seçilen alandaki gelgit rejim manyak ve söz konusu grafik üreten hidrografik ofis politikasına olmak bağlıdır; Tipik bir tanımdır düşük Astronomik Tide (yerçekimi etkilerinden tahmin düşük gelgit), ya da ortalama Aşağı Düşük Su (her gün ortalama en düşük gelgit), MSL bazen çok düşük gelgit aralıkları ile sularda kullanılmasına rağmen.
+Bir gemi güvenli, düşük köprü veya havai enerji kablosuna altında geçmesi ise tersine, gemici yüksek gelgit oluşacak manşete ve tıkanma, arasındaki minimum açıklığı bilmeniz gerekir. Sonuç olarak, vb köprü mesafeleri gibi yüksek Astronomik Tide veya Mean Yüksek Su Springs olarak, yüksek gelgit dayalı bir referans noktasına göre verilir.
+Deniz seviyesi jeolojik zaman boyunca sabit kalması değil, ve çok uzun vadeli süreçlerini inceleyerek zaman bu kadar gelgit datumlar az yararlıdır. Bazı durumlarda deniz seviyesi hiç geçerli değildir - haritalama Mars'ın yüzeyinde için örneğin - örneğin ortalama yarıçapı gibi farklı bir "sıfır yükseklik" kullanımını zorlama.
+Bir jeodezik düşey datum deniz seviyesinin daha fazla referans olmadan, bazı özel sıfır noktası alır ve kullanılan jeodezik modeline dayalı yükselmeler hesaplar. Bu noktada jeodezik ve gelgit datumlar maç olabilir bu yüzden genellikle, başlangıç ​​referans noktası, bir gelgit göstergesi olduğunu, fakat deniz seviyesi değişimlerine, iki ölçek yerde aynı olmayabilir. Bir yerçekimi bazlı jeodezik datum bir örneği Quebec, Kanada'da bir noktaya başvurulan Kuzey Amerika'da, kullanılan, NAVD88 olduğunu. Böyle WGS84, GRS80 verilebilir veya NAD83 olarak elipsoid tabanlı datumlar jeoidin önemli derecede farklı olabilir teorik yüzey kullanın.
+Jeodezik koordinatlar.
+Jeodezik Dünya'nın yüzeyinin enlem (FORMULA_1), boylam (formula_2) ve yükseklik (formula_3) cinsinden açıklanan bir elips ve yüzeye yakın yerlerde tarafından yaklaşılır koordine eder.
+Jeosantrik enlem karşı jeodezik.
+Bu jeodezik enlem (FORMULA_1) (sırasıyla. Rakım) jeosentrik enlem (formula_5) (sırasıyla. Irtifa) farklı olduğunu unutmamak gerekir. Jeosantrik enlem (şekle bakın) merkez etrafında belirlenir oysa Jeodezik enlem, elipsoid ve ekvator düzlemi normal arasındaki açı ile belirlenir. Aksi belirtilmediği sürece enlem jeodezik enlem olduğunu.
+Dünya referansı elips.
+Tanımlanması ve elde edilen parametreler.
+elipsoid tamamen yarı-büyük eksen formula_6 ve düzleştirme formula_7 tarafından parameterised edilir.
+"A" ve "f" Bu elipsoidinin 'yarı-küçük ekseni "b", ilk dışmerkezlik "e" ve ikinci dışmerkezlik "e" türetmek mümkün Gönderen
+Bazı jeodezik sistemler için parametreler.
+AGD66 ve AGD84 hem Avustralya Ulusal küremsi tarafından tanımlanan parametreler kullanmak (aşağıya bakınız)
+GDA94 GRS80 tarafından tanımlanan parametreleri kullanır (aşağıya bakınız)
+Daha fazla bilgi için GDA Teknik Kılavuzu belgeye bakın; düzleştirme için yukarıda verilen değer kesin değil.
+Global Konumlandırma Sistemi (GPS) Dünya'nın yüzeyine yakın bir noktanın yerini belirlemek için Dünya Jeodetik Sistemi 1984 (WGS84) kullanır.
+Daha fazla bilgi için resmi Dünya Jeodetik Sistemi 1984 belgesine bakın.
+Jeodezik sistemlerin daha kapsamlı bir liste buradan ulaşabilirsiniz
+Diğer koordinat sistemleri Toprak tabanlı.
+Toprak sabit (ECEF veya ECF) dünya merkezli koordinatları.
+toprak merkezli toprak sabit (ECEF veya ECF) veya geleneksel karasal koordinat sistemi Earth ile döner ve Dünya'nın merkezinde aslına vardır. formula_8 eksen meridyeni de ekvatordan geçer. formula_9 eksen kuzey kutup geçer ama tam olarak anlık Dünya dönme eksenine örtüşmemektedir. formula_10 ekseni 90 ° boylam ekvatordan geçerek olmak için sağ el kuralı ile tespit edilebilir.
+Yerel doğu, kuzey, yukarı (TRK) koordinatları.
+Birçok hedefleme ve izleme uygulamalarında yerel Doğu, Kuzey, Yukarı (TRK) kartezyen koordinat sistemi çok daha sezgisel ve pratik ECEF veya jeodezik koordinatlar daha. Yerel TRK koordinatları belirli bir konuma sabit yeryüzü bir düzlem teğet oluşturulur ve bu nedenle bazen "Yerel Tanjant" veya "yerel jeodezik" düzlemi olarak bilinir. Geleneksel olarak doğu ekseni formula_11, kuzey formula_12 ve yukarı formula_13 etiketli.
+Yerel kuzey, doğu, aşağı (NED) koordinatları.
+Uçakta ilgi çoğu nesneleri size aşağıda, bu yüzden pozitif bir sayı olarak aşağı tanımlamak mantıklı. Kuzey, Doğu, Aşağı (NED) Eğer TRK yerel tanjant düzlemi alternatif olarak bunu yapmak için izin koordinatları. Geleneksel olarak kuzey ekseni, doğu formula_15 ve aşağı formula_16 formula_14 etiketli. Bu web sayfasında formula_11 ve formula_14, vb arasındaki karışıklığı önlemek için yerel ENU çerçeveyi koordine sınırlayacaktır.
+Dönüşüm hesapları.
+Veri dönüştürme başka bir veri sisteminden bir noktanın koordinatlarını dönüştürme işlemidir. Veri dönüşüm sık kılavuz çıkıntısının bir değişiklik eşlik edebilir.
+Için / ECEF dan jeodezik koordinatları.
+Jeodezik itibaren ECEF için.
+Jeodezik koordinatları (enlem FORMULA_1, boylam formula_2, yükseklik formula_3) ECEF dönüştürülebilir kullanılarak koordinatları
+formül aşağıdaki gibidir:
+nerede
+formula_6 ve formula_25 yarı-büyük eksen ve sırasıyla elipsoidinin ilk sayısal eksantrisite vardır.
+formula_26 ("Yeryüzü eğrilik yarıçapı" bölümüne bakınız) "Normal" olarak adlandırılan ve elips Normal boyunca Z ekseni yüzeyden uzaklığı olduğunu. Aşağıdaki denklem tutar:
+Nerede formula_28.
+koordinatların ortogonalite farklılaşması yoluyla teyit edilir:
+nerede
+("Elipsoidde Meridian yayı" de bakınız).
+ECEF itibaren jeodezik için.
+ECEF dönüşüm jeodezik koordinatları (örneğin WGS84) koordinatlarından biraz daha trigonometri gerektirir fakat Rn ve saat 10 ^ 6 ayrı belki olmanın küçük doğruluğu duyarlı, ancak boylam jeosentrik, formula_31 aynıdır.
+Denklemi çözmek çeşitli yöntemler vardır, ikisi gösterilmektedir.
+Newton-Raphson yöntemi.
+Aşağıdaki Bowring en irrasyonel jeodezik enlem denklemi Newton-Raphson iterasyon yöntemiyle çözülecek etkilidir:
+Nerede formula_33. şöyle yüksekliği hesaplanır:
+Yineleme, aşağıdaki hesaplamaya dahil transforme edilebilir:
+Nerede formula_37
+formula_38 iyi bir yineleme için marş zaman formula_39 olduğunu. Bowring tek yineleme yeterince doğru bir çözüm üretir gösterdi. O onun orijinal formülasyonu ekstra trigonometrik fonksiyonlar kullanılır.
+Ferrari'nin çözüm.
+aşağıdaki
+Için / ENU dan jeodezik koordinatları.
+Yerel ENU koordinatları jeodezik koordinatlardan dönüştürmek için iki aşamalı bir süreçtir
+Jeodezik koordinatlar koordinatları yerel ENU dönüştürmek için iki aşamalı bir süreçtir
+ECEF itibaren ENU için.
+ECEF Biz yerel bir referans noktasına ihtiyacınız yerel koordinatlara koordinatlarından, bu genellikle bir radar yeri olabilir dönüştürmek için. Bir radar formula_41 bulunan ve formula_42 bir uçak daha sonra TRK çerçeve içinde uçağa radardan işaret vektör ise
+Not: FORMULA_1 "jeodezik" enlem olduğunu. Bu sayfanın bir önceki versiyonu "jeosentrik" enlem (formula_5) kullanımını gösterdi. "Jeosentrik" enlem "yukarı" "değil" Uygun yerel tanjant düzlemi için yönüdür. Orijinal "jeodezik" enlem varsa o "jeodezik" ve "jeosentrik" enlem arasındaki ilişki bir irtifa bağımlılığı vardır ve tarafından yakalanır, aksi halde, kullanılmalıdır:
+Bu ilişki aksi takdirde "jeodezik" koordinatlar etiketli yukarıdaki bölümde yaklaşımla bilgisayarlı olabilir, iteratif çözüm yaklaşımı gerektirir gelen "jeosentrik" dan "jeodezik" enlemi Elde koordinatları "ECEF Gönderen jeodezik koordinatlar."
+jeosentrik ve jeodezik boylam aynı değere sahiptir. Onların boylam çizgileri (meridyenler) ile karşılaştırıldığında onların enlem çizgileri (paralellikler) çok daha fazla derece mükemmel çevrelerde kabul edilebilir, çünkü bu dünya ve diğer benzer şekilli gezegenler için de geçerlidir.
+Not: FORMULA_1 ve formula_2 ve Kesin belirlenmesi koordinatları yalan Rub'-ı dâire hangi bilgi gerektirir.
+ENU itibaren ECEF için.
+Bu TRK dönüşüm ECEF yüzden sadece inversiyon olduğunu
+Referans datumlar.
+Bir referans veri yeryüzünde bilinmeyen noktaların konumunu tanımlamak için kullanılan bir bilinen ve sürekli bir yüzeydir. Referans datumlar farklı çaplarda ve farklı merkez noktalarına sahip olabilir beri, yeryüzünde belirli bir nokta ölçümü yapmak için kullanılan referans noktası bağlı esasen farklı koordinatları olabilir. Genellikle bazı uygun yerel referans noktasına başvurulan dünyada yerel geliştirilen referans datumlar yüzlerce vardır. Yerin şekline giderek hassas ölçümler göre Çağdaş datumlar, daha geniş alanları kapsaması amaçlanmıştır. Kuzey Amerika'daki en yaygın kullanılan bir referans Datumlar NAD27, NAD83 ve WGS84 bulunmaktadır.
+1927 Kuzey Amerika Verisi (NAD 27) 'dir "(anket istasyonu) Meades Ranch (Kansas) de kökenli, 1866 Clarke sfero bir konuma ve azimut tarafından tanımlanan Amerika Birleşik Devletleri için yatay kontrol datum." ... Meades Ranch geoidal yükseklik sıfır olarak kabul edilmiştir. "1927 Kuzey Amerika Datum üzerinde jeodezik pozisyonlar Laplace azimutlarını tanıtıldı edildiği tüm ağın nirengi bir yeniden düzenlenmesi yoluyla (koordinatları ve Meades Ranch bir azimut) elde edilmiştir ve Bowie yöntemi kullanılmıştır." (Http://www.ngs.noaa.gov/faq.shtml#WhatDatum) NAD27 Kuzey Amerika kapsayan yerel referans sistemidir.
+1983 Kuzey Amerika Verisi (NAD 83) "bir jeosentrik Kalkış ve Jeodezi Referans Sistemi 1980 (GRS80 verilebilir) dayalı Birleşik Devletleri, Kanada, Meksika ve Orta Amerika için yatay kontrol datum,". Bu veri, olarak belirlenmiş olup NAD 83 ... ". bir jeosentrik kökenli sistemi sınırlamak 600 uydu Doppler istasyonları da dahil olmak üzere 250.000 puan ayarlaması dayalı NAD83 yerel referans sistemi olarak kabul edilebilir.
+WGS 84 O Savunma (DoD) US Department tarafından kullanılan referans çerçevesi ve Milli Geospatial-Intelligence Agency (NGA) (eski Savunma Haritalama Ajansı, daha sonra Milli Imagery tarafından tanımlanan 1984 Dünya Jeodezi Sistemi Haritalama Ajansı). WGS 84 onun "yayın" GPS ve "hassas" yörünge dahil navigasyon ihtiyaçları ölçme, grafik, tüm haritalama için DoD tarafından kullanılır ve. WGS 84 Doppler uydu ölçüm teknikleri kullanılarak Ocak 1987 yılında tanımlanmıştır. Bu 0000 GMT 2 Ocak 1994 At 23 Ocak 1987 başında yayın GPS Yörüngesi (yörüngeler) için referans çerçevesi olarak kullanılan, WGS 84 GPS ölçümleri kullanılarak doğruluğu yükseltildi. Yükseltme tarihi GPS Haftası 730. başlaması ile çakıştı beri resmi adı daha sonra 0000 GMT 30 Eylül 1996 (GPS başlangıcı At 28 Haziran 1994 tarihinde bu yayın yörüngeleri için referans çerçevesi oldu WGS 84 (G730) oldu Hafta 873), WGS 84 tekrar yeniden ve daha yakından Uluslararası Yer Dönme Servisi (IERS) çerçeveye ITRF 94. Şimdi resmen WGS 84 (G873) olarak adlandırılır ile uyumlu oldu. WGS 84 (G873) 29 Ocak 1997 tarihinde yayın yörüngeleri referans çerçevesi olarak kabul edilmiştir.
+Kuzey Amerika'da kullanılan NAD83 datum hemen hemen aynıdır WGS84 verisi, bugün yerinde sistemini başvuran tek dünya. WGS84 eğlence ve ticari GPS üniteleri depolanan koordinatlar için varsayılan standart bir veri.
+GPS Kullanıcılar her zaman kullandığınız haritaların referans noktasını kontrol etmelisiniz konusunda sizi uyarıyoruz. Doğru, ekran girmek için ve harita ile ilgili harita koordinatlarını kaydetmek için, haritanın datum GPS harita veri alanına girilmelidir.
+Mühendislik datumlar.
+Geometrik Ölçülendirme ve kullanılan bir mühendislik veri ölçümü için bir referans sistemi oluşturmak için kullanılan bir nesne üzerinde bir özelliktir.
+Örnekler.
+Harita verilerle ilgili örnekler aşağıdaki gibidir:

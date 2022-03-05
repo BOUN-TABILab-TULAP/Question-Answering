@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kütikula	Kütikula	+Noun+Prop+A3sg+Pnon+Nom
+
+tabakası	tabaka	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+tabakası	tabaka	+Noun+A3sg+P3sg+Nom
+
+bitkiye	bitki	+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+yarar	yar	+Verb+Pos+Aor+A3sg
+yarar	yar	+Verb+Pos^DB+Adj+AorPart
+yarar	yara	+Verb+Pos+Aor+A3sg
+yarar	yara	+Verb+Pos^DB+Adj+AorPart
+yarar	yarar	+Noun+A3sg+Pnon+Nom
+yarar	yarar	+Adj
+
+sağlar	sağ+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+sağlar	sağ+Noun+A3pl+Pnon+Nom
+sağlar	sağla+Verb+Pos+Aor+A3sg
+sağlar	sağla+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

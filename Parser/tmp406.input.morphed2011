@@ -1,0 +1,62 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kan	kan	+Noun+A3sg+Pnon+Nom
+Kan	kan	+Verb+Pos+Imp+A2sg
+Kan	Kan	+Noun+Prop+A3sg+Pnon+Nom
+
+pıhtılarının	pıhtı+Noun+A3pl+P3sg+Gen
+pıhtılarının	pıhtı+Noun+A3pl+P2sg+Gen
+pıhtılarının	pıhtı+Noun+A3pl+P3pl+Gen
+pıhtılarının	pıhtı+Noun+A3sg+P3pl+Gen
+
+oluşumunda	oluşum+Noun+A3sg+P3sg+Loc
+oluşumunda	oluşum+Noun+A3sg+P2sg+Loc
+
+görev	görev+Noun+A3sg+Pnon+Nom
+
+alan	al	+Verb+Pos^DB+Adj+PresPart
+alan	ala	+Noun+A3sg+P2sg+Nom
+alan	ala	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+alan	alan	+Noun+A3sg+Pnon+Nom
+
+hücre	hücre+Noun+A3sg+Pnon+Nom
+
+parçalarına	parça+Noun+A3pl+P3sg+Dat
+parçalarına	parça+Noun+A3pl+P2sg+Dat
+parçalarına	parça+Noun+A3pl+P3pl+Dat
+parçalarına	parça+Noun+A3sg+P3pl+Dat
+parçalarına	parçala+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Dat
+parçalarına	parçala+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

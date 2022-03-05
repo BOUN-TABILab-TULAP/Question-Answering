@@ -1,0 +1,27 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir+Adverb bir+Det bir+Num+Card bir+Adj Bir+Noun+Prop+A3sg+Pnon+Nom
+bölgede bölge+Noun+A3sg+Pnon+Loc
+nem nem+Noun+A3sg+Pnon+Nom
+miktarındaki miktar+Noun+A3sg+P3sg+Loc^DB+Adj+Rel miktar+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+geçici geç+Verb+Pos^DB+Noun+Agt+A3sg+Pnon+Nom geç+Verb+Pos^DB+Adj+Agt geçici+Adj
+dengesizliğin denge+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Ness+A3sg+P2sg+Nom denge+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Ness+A3sg+Pnon+Gen
+o o+Det o+Noun+A3sg+Pnon+Nom o+Pron+Demons+A3sg+Pnon+Nom o+Pron+Pers+A3sg+Pnon+Nom
+bölgedeki bölge+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+su su+Noun+A3sg+Pnon+Nom
+kıtlığı kıt+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom kıt+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+ilişkisine ilişki+Noun+A3sg+P3sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

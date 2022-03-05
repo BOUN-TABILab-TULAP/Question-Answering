@@ -1,0 +1,46 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Depremler	deprem	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+Depremler	deprem	+Noun+A3pl+Pnon+Nom
+
+ve	ve	+Conj
+
+tsunami	tsunami	+Noun+A3sg+Pnon+Nom
+
+arasında	ara	+Noun+A3sg+P3sg+Loc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+bir	bir	+Adverb
+bir	bir	+Det
+bir	bir	+Num+Card
+bir	bir	+Adj
+
+ilişki	ilişki+Noun+A3sg+Pnon+Nom
+
+vardır	var	+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+vardır	var	+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

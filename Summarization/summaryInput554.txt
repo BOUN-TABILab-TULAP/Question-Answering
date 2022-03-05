@@ -1,0 +1,218 @@
+Question: Bakteriyofaj nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bakteriyofaj</DOCTITLE>
+<TEXT>
+
+Bakteriyofaj (Antik Yunanca βακτήριον "baktérion" bakteri ve φαγεῖν "phageín" , 'yemek' fiilinden türetme), bakterileri enfekte eden bir virüstür. Terim genelde kısaltılmış hali olan faj olarak kullanılır.
+Ökaryotları (hayvan, bitki ve mantarları) enfekte eden virüsler gibi fajlarda da büyük bir yapısal ve işlevsel çeşitlilik vardır. Tipik olarak proteinden oluşan bir kabuk ve içinde yer alan genetik malzemeden oluşurlar. Genetik malzeme DNA veya RNA olabilir, ama genelde 5 - 500 kilo baz çifti uzunluğunda çift sarmallı DNA'dan oluşur. Bakteriyofajlar genelde 20 ila 200 nm arası büyüklükte olurlar.
+Fajlar her yerde mevcutturlar ve bakterilerin yaşadığı ortamlarda, örneğin toprakta veya hayvan bağırsaklarında bulunabilirler. Faj ve diğer virüslerin en yoğun doğal kaynaklarından biri deniz suyudur. Deniz yüzeyinde mililitrede 109 etkin faj taneciği (virion) bulunmuştur ve deniz bakterilerinin %70'i fajlar tarafından enfekte olmuş olabilirler.
+Tarihçe.
+1913'te Britanyalı bakteriyolog Frederick Twort bakterileri enfekte edip öldüren bir etmen keşfetmiş ama konuyu daha fazla takip etmemiştir. Fransız-Kanadalı mikrobiyolog Felix d'Hérelle 3 Eylül 1917'de "dizanteri basilinin düşmanının, görünmez bir mikrobunu" keşfettiğini açıklayıp ona bakteryofaj adını verdi.
+Çoğalması.
+Bakteriyofajların litik veya lizogenik hayat döngüleri olabilir, bazılarında her ikisi de olur. T4 fajı gibi öldürücü fajlarda görülen litik döngüde virionun çoğalmasının hemen ardından konak hücre parçalanır ve ölür. Hücre ölür ölmez virionların kendilerine yeni bir konak bulmaları gerekir.
+Lizogenik döngü, buna tezat olarak, konak hücrenin parçalanmasına neden olmaz. Lizogenik olabilen fajlara ılımlı fajlar ("temperate phage") denir. Viral genom konak genoma dahil olur ve oldukça zararsız bir şekilde onunla beraber eşlenir. Konak hücrenin sağlığı yerinde olduğu sürece Virüs sessiz bir şekilde varlığını sürdürür, ama konağın şartları bozulursa, örneğin besin kaynaklarının tükenmesi durumunda, endojen fajlar (profaj olarak adlandırılırlar) etkinleşirler. Bir çoğalma süreci başlar, sonucunda konak hücre parçalanır. İlginç bir şekilde lizogenik döngü konak hücrenin çoğalmasına izin verdiği için hücrenin yavrularında da virüs varlığını devam ettirir.
+Bazen profajlar inaktif oldukları dönemde bakteri genomuna yeni işlevler kazandırarak konak bakteriye fayda sağlarlar, bu olguya lizogenik dönüşüm ("lysogenic conversion") denir. Bunun iyi bilinen bir örneği "Vibrio cholera" 'nın zararsız bir suşunun bir faj tarafından enfekte edilerek kolera hastalığı etmenine dönüşümüdür.
+Bağlanma ve giriş.
+Konak hücreye girmek için bakteryofajlar bakterinin yüzeyindeki özgül reseptörlere bağlanırlar, bunlar arasında lipopolisakkaritler, teikoik asitler, proteinler sayılabilir. Bu nedenle bir bakteryofaj ancak bağlanabileceği reseptörler taşıyan bakterileri enfekte edebilirler. Faj virionları kendi kendilerine hareket etmedikleri için kendi reseptörleriyle solüsyondayken rassal olarak buluşup bağlanırlar.
+Karmaşık bakteryofajlar, örneğin T-çift fajları, genetik malzemelerini hücrenin içine enjekte etmek için şırınga benzeri bir hareket kullanırlar. Uygun reseptörle temas kurduktan sonra kuyruk lifleri taban plakasını hücre yüzeyine yaklaştırırlar. İyice bağlandıktan sonra, kuyruk büzülür, bu da genetik malzemenin dışarı itilmesine neden olur. Bazı fajlar nükleik asiti hücre zarından içeri iter, bazıları hücre yüzeyine birakır. Başka yöntemlerle genetik malzemlerini içeri sokan bakterifajlar da vardır.
+Protein ve Nükleik asit sentezi.
+Kısa süre, bazen dakikalar içinde, bakteri ribozomları viral mRNA'nın proteine çevirimine (translasyonuna) başlarlar. RNA-fajlarında RNA-replikaz bu sürecin başlarında sentezlenir. Erken sentezlenen proteinler ve virionla gelen bazı proteinler bakterinin RNA polimerazını modifiye edip onun viral mRNA'yı tercihen çevirmesine neden olabilirler. Konağın kendi protein ve nükleik asit sentezi de bozularak viral ürünlerin sentezine yönlendirilir. Bu ürünler ya hücreyi parçlamaya yarayacaklaklar, ya yeni virionların oluşmasına yardımcı olacaklar veya yeni virionları oluşturacalardır.
+Virion oluşumu.
+T4 fajları durumunda yeni fajların inşası özel yardımcı molekülleri gerektiren karmaşık bir süreçtir. Önce taban plakası oluşur, kuyruk onun üzerinde büyür. Kafa kapsidi, ayrı olarak oluşup kendiliğinden kuyruk ile birleşir. Henüz bilinmeyen bir şekilde DNA kafanın içine sıkı bir şekilde yerini alır. Bütün süreç yaklaşık 15 dakika alır.
+Virionların salınımı.
+Fajlar ya hücre parçalanması (lizis) veya salgılanma yoluyla salınırlar. T4 fajları durumunda, hücre içine girmelerinden 20 dakikadan biraz sonra hücre parçalanması yoluyla sayıları 300'ü bulabilen faj salınır. Bunun gerçekleşmesi, hücre duvarındaki peptidoglikanı parçalayan endolizin adlı enzim sayesinde olur. Bazı virüler ise parazite dönüşüp konak hücrenin sürekli olarak yeni virüs tanecikleri salgılamasına neden olabilirler. Yeni virionlar hücre zarından tomurcuklanarak koparlar, beraberlerinde hücre zarının bir kısmını da götüren bu fajlar örtülü virüse olarak ortama salınırlar. Salınan virionların her biri yeni bir bakteriyi enfekte edebilir.
+Faj terapisi.
+Keşiflerinin ardında fajlar anti-bakteriyel etmen olarak denenmişlerdir. Ancak antibiyotikler keşfedilince bunların fajlardan daha kullanışlı oldukları görülmüştür ve Batı'da faj tedavisi üzerine yapılan araştırmalar bırakılmıştır. Buna karşın Sovyetler Birliği'nde 1940'lardan beri antibiyotiklere alternatif olarak kullanımı devam etmiştir.
+Bakteri suşlarında doğal seleksiyon yoluyla antibiyotik direncinin oluşması bazı tıbbi araştırmacıları faj tedavisini antibiyotik tedavisine bir alternatif olarak tekrar değerlendirmeye sevketmiştir. Antibiyotiklerden farklı olarak fajlar, milyonlarca yıldır süregeldiği gibi, bakterilerle beraber evrimleştikleri için, sürekli bir direncin oluşma olasılığı yok sayılabilir. Ayrıca, etkili bir faj, özgül bakterisini tamamen bitene kadar enfekte etmeye devam edecektir.
+Belli bir faj genelde ancak belli bir bakteri tipini enfekte edebildiği için, ki bu birkaç bakteri türü olabileceği gibi bir türün sadece bazı alt türleri de olabilir, bakteri tipinin doğru tanımlandığından emin olmak gerekebilir, bu da 24 saat sürebilir. Faj terapisinin bir diğer avantajı başka bakterilere zarar gelmeyeceğinden dar spektrumlu antibiyotik terapisine benzemesidir. Ancak, sıkça olduğu gibi, birden fazla bakterinin beraberce neden oldukları enfeksiyonlarda bu bir dezavantaj oluşturabilir. Bakteryofajların bir diğer sorunu vücudun bağışıklık sisteminin saldırısına uğramalarıdır.
+Fajlar enfeksiyonla doğrudan temas durumunda etki gösterirler, onun için açık bir yaraya uygulanmaları en iyi sonuç doğurur. Sistemik enfeksiyonlarda bu pratik olarak mümkün değildir. Sovyetler birliğinde diğer tedavilerin çalışmadığı durumlarda gözlenen başarılı sonuçlara rağmen çoğu araştırmacı faj terapisinin tibbi bir geçerliliğe ulaşacağına şüphe ile bakmaktadır. Faj tedavisinin etkinliğini belirlemek için büyük ölçekli klink testler yapılmamıştır ama antibiyotik dirençli bakteri türlerinin çoğalmasından dolayı bu konuda araştırmalar sürmektedir.
+Ağustos 2006'da ABD Gıda ve İlaç İdaresi ("Food and Drug Administration") bazı etlerde "Listeria monocytogenes" bakterisinin öldürülmesi için bakteryofaj kullanımını onaylamıştır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Konağı bakteri olan virüslerin listesi</DOCTITLE>
+<TEXT>
+
+Bu liste, konağı bakteri olan virüsleri, yani bakteriyofajları sıralamaktadır. Sıralama, Baltimore ve Uluslararası Virüs Taksonomi Komitesi sınıflandırmalarına uygun bir şekilde sunulmuştur.
+Listede dikkati çekeceği üzere, Baltimore sınıflandırmasının V, VI ve VII nolu grupları bakteriyofaj içermez.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Okazaki parçaları</DOCTITLE>
+<TEXT>
+
+Okazaki parçaları (fragmanları ya da fragmentleri), DNA ikileşmesi sırasında nispeten kısa ve parçalar halinde bulunan zincirlere denir.
+DNA'nın ikileşmesi işleminin parçalı olarak gerçekleştiğini 1968 yılında Reiji Okazaki, Tsuneko Okazaki ve onların "Escherichia coli"nin bakteriyofaj DNA'sı üzerinde çalışan meslektaşları bulmuşlardır.
+DNA ikileşmesinde, eşleşen sarmalların birisi 5'-3' yönünde yer alırken diğeri 3'-5' yönünde yer alır. Bu sebeple DNA polimeraz enzimi iki sarmalda birden ilerlerken 5'-3' yönündekini, okuma yönü doğrultusunda gittiği için daha kolay ve kesintisiz olarak kopyalarken; 3'-5' yönündekini ufak parçalar halinde kopyalayıp sonradan birleştirir. İlk önce kesik halde bulunan ve daha sonradan birleştirilen bu ufak parçalara ""Okazaki parçaları"" denilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Martha Chase</DOCTITLE>
+<TEXT>
+
+Martha Cowles Chase (1927 – 8 Ağustos 2003), tanındığı bir diğer adıyla Martha C. Epstein, ABD'li genetikçi.
+Daha çok proteinden çok DNA'nın yaşamın genetik materyali olduğunu deneysel olarak gösteren 1952 tarihli çalışmanın üyesi olarak tanınır. 
+Chase 1927 yılında Cleveland, Ohio'da doğdu. The College of Wooster'de 1950 yılında fakülteden mezun oldu ve 1964'te Güney Kaliforniya Üniversitesi'nde doktorasını tamamladı.
+1952'de ABD'li bakteriyofaj uzmanı Alfred Hershey'in asistanı oldu ve Hershey ile beraber Hershey-Chase deneyini gerçekleştirdi. Bu deneyde Hershey ve Chase, radyoaktif izotoplarla işaretlenmiş bakteriofajlar yoluyla protein ve DNA'yı izlemiş ve kalıtsal özelliklerin DNA tarafından belirlendiğine karar vermiştir.
+Hershey ve Chase çalışmalarının sonuçlarını 1952'de yayınladı. Bu deney James D. Watson ve Francis Crick'e ilham kaynağı olmuş, onlar da ertesi yıl DNA yapısını çözmüşlerdir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Prokaryotlarda DNA ikileşmesi</DOCTITLE>
+<TEXT>
+
+Prokaryotik hücrelerin DNA ikileşmesinde, ikili sarmal açılır ve sentezin başladığı yer olan ikileşme çatalı oluşur. Proteinler açılan sarmalı kararlı kılar ve ikileşme çatalının önünde oluşan sarılma gerilimini hafifletirler. Sentez, kalıp boyunca belirli bölgelerden RNA Primazın, DNA Polimeraz III'ün polimerizasyonu başlatabileceği serbest 3'-OH ucunu sağlayan kısa bir RNA parçasını sentezlemesiyle başlar. İkili sarmalın antiparalel yapısından dolayı polimeraz III, kesintili zincirde 5'-3' yönünde sürekli DNA sentezi yapar. Çatalın slounda DNA sentezi 5'-3' yönünde kesintisiz olarak devam eder. Kesintili zincir denen karşı zincirde kısa Okazaki parçaları sentezlenir ve bu parçalar daha sonra DNA ligaz ile birleştirilir. DNA Polimeraz I, RNA primerini uzaklaştırır ve yerine DNA sentezler, ortaya çıkan polinükleotidler (DNA parçaları) DNA ligaz ile birleştirilir. Böylece sentezi tamamlanan iki yeni çift dallı DNA molekülü birbirinden ayrılr ve biri atasal hücrede kalırken, diğeri oğul hücreye gider.
+Replikon, oriC ve ter.
+Cairns, izotoplar kullanarak, otoradyografi yöntemiyle replikasyonu izlemiş ve E.Coli'de replikasyonun tek bir noktadan (orjinden) başladığını göstermiştir. Bu özgül bölgeye "oriC" denilmiştir. Bu bölgenin konumu "E.Coli" üzerinde haritalanmış ve 245 baz içerdiği saptanmştır. Bu konuda yapılan başka araştırmalarda da, replikasyonun iki yönlü olduğu ve oriC'nin her iki yönünde hareket ettiği gösterilmiştir. Bu durumda replikasyon ilerledikçe ayrı yönlere doğru birbirinden uzaklaşan iki replikasyon çatalı oluşturur. Bu çatallar tüm kromozom yarı-saklı eşleştikten sonra, "ter" olarak adlandırılan sonlanma bölgesinde birbiriyle birleşir. Bir orjinden replikasyon başladıktan sonra eşleşen DNA'nın uzunluğunun bir birim olduğunu belirten terim "replikon"dur. Buna göre, bakteriyofaj ve bakterilerde DNA sentezi bir noktadan (oriC), başlayıp bir noktada (ter) biter. Bakteriler, tek ve büyük bir kromozoma sahip oldukları için, kromozomun tümü bir "replikon"dur.
+DNA Polimeraz I, II ve III.
+Replikasyonun yarı-saklı ve iki yönlü olduğu anlaşıldıktan sonra, birçok moleküler çalışma DNA kalıbı üzerinden tamamlayıcı uzun polinükleotit zincirlerinin gerçek sentezinin nasıl olduğunu anlamaya yönelmiştir. Bu çalışmalarda kullanılan mikroorganizmalarda, sentezde gerekli olan, DNA Polimeraz I, II ve III olarak bilinen enzimlerin varlığı görülmüştür. 
+DNA ikileşmesinde yer alan birçok molekülü etkileyen pekçok mutant bakteri ve faj genlerinin izole edilmesi, tüm ikileşme işleminin karmaşık genetik kontrolünün aydınlanmasına yardımcı olmuştur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Model canlı</DOCTITLE>
+<TEXT>
+
+Model canlı veya model organizma, belirli biyolojik olayların anlaşılması için yapılan deneylerde yaygın olarak kullanılan canlılara verilen genel isimdir. Bu canlılarda çalışılarak bulunması ümit edilen keşiflerle, canlılardaki diğer süreçlerin de açıklanacakları düşünülmektedir.
+Model canlılar özellikle, insan hastalıklarının olası sebepleri ve bunların tedavileri için, bu deneylerin insan üzerinde gerçekleştirilemediği ve etik olmadığı durumlarda yaygın olarak kullanılırlar.
+Bu yöntemin uygulanması, evrim süresince korunmuş genetik malzeme, metabolik, gelişimsel süreçler ve ortak soydaki tüm yaşayan organizmalar için mümkündür.
+Model canlının seçilmesi.
+Model canlılar sıklıkla deneysel uygulamalara cevap verebilir oluşlarına göre seçilirler. Bunun için genelde kısa yaşam döngüsüne sahip olma, genetik uygulamalar için uygunluk (doğal ırklar,kök hücre çizgileri ve transfeksiyon sistemleri ) ve özel yaşam gereksinimine sahip olmama gibi özelliklere sahiptirler.
+Bazen genom düzenleri, örneğin kapladığı yerin oldukça az olması veya az oranda boş DNA içermesi (örneğin maya , "Arabidopsis" ve Kirpi balığı), model organizmanın genomunun diziliminin belirlenmesini kolaylaştırır.
+Araştırmacılar çalışmalarında kullanacakları organizmaları seçerken aradıkları bazı özellikler vardır. Büyüklük, üreme süresi, kolay bulunabilirlik, uygulanabilrlik, genetik özellikler, yöntemin korunması ve potansiyel ekonomik yararı bunlardan bazılarıdır. Moleküler biyolojiyle kıyaslanırsa; bazı araştırmacıların model canlıların hayat ağacındaki birbirlerine benzerlikleri ve soylarının çeşitlenmesiyle ilgili araştırmaları, daha yaygındır.
+Model canlıların kullanımı.
+Birçok model canlı vardır. Moleküler biyoloji için ilk olarak kullanılandan biri de insan sindirim sisteminin bir parçası olan "Escherichia coli" dir. "E. coli" yi enfekte eden bakteriyal virüsler de (bakteriyofaj) gen yapısı ve gen regülasyonu çalışmalarında çok yararlı olmuştur (örn Lambda fajı, Enterobacteria fajı (T4)). Fakat bakteriyofajlar, metabolizmaları yetersiz olduğundan ve üremek için konak hücreye bağımlı olduklarından gerçek bir canlı değillerdir.
+Ökaryotlardan bazı mayalar, özellikle "Saccharomyces cerevisiae" (bira mayası) kolay ve hızlı üremesinden dolayı genetik ve hücre biyolojisi nde yaygın olarak kullanılır. Mayada hücre döngüsü insan hücresindekine göre çok daha basittir ve homolog proteinler tarafından düzenlenir. Sirke sineği "Drosophila melanogaster" ile de kolay üreyen bir hayvan olduğundan, gözle görülebilir konjenital özellikleri olduğundan ve tükrük bezlerinde ışık mikroskobunda incelenebilen dev (politen) kromozomlara sahip olduğundan dolayı çalışılmaktadır.
+Değişmeyen hücre sayısı gibi gelişmişliklerini çok iyi belirleyen özelliklere sahip olmaları ve anormallikler kolayca analiz edilebildiğinden 
+Yuvarlak solucan "Caenorhabditis elegans" ile de çok çalışılmaktadır.
+Önemli model organizmalar.
+Ökaryotlar.
+Ökaryotlar şöyledir:
+Protistler.
+kullanılır ; hücre haberleşmesinde, farklılaşmasında ve programlı hücre ölümünde çalışılan bir örnektir.
+Bitkiler.
+Bildirilen en küçük genoma sahip bitkidir (~110Mb) ve dizilimi 2008 in başlarında Joint Genom Enstitüsü tarafından açıklanacaktır. "(Evrimsel biyoloji, Moleküler biyoloji)"
+"(Agronomi, Moleküler biyoloji)"
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Şiga toksini</DOCTITLE>
+<TEXT>
+
+Şiga toksinleri (veya Shiga toksinleri), "Shigella dysenteriae" ve bazı "Escherichia coli" bakterileri tarafından salgılanan toksinlerdir, bunlar bakterinin içinde bulunan konak organizmada dizanteri meydana getirirler. Bu toksinler evrimsel olarak birbirine akraba bir toksin ailesidir, Stx1 ve Stx2 olarak adlandırılan iki ana grupdan oluşur. Bu toksinlerin genleri, bakteriyi enfekte etmiş bir virüs olan, lambda-tipi profajların genomunda yer alır. Şiga toksinleri, "Shigella dysenteriae"'nın neden olduğu dizanterinin bakteriyel kaynağını tanımlamış olan Kiyoşi Şiga'ya atfen adlandırılmışlardır. Şiga toksini, "Shigella dysenteriae"nin yanı sıra "E. coli"'nin serotipi ve diğer bağırsak kanatıcı (enterohemorajik) "E. coli'"ler de bu toksinleri salgılar. "E. coli"'nin salgıladığı Stx1 toksini baştan Vero toksin veya Şiga benzeri toksin ("Shiga-like toxin") olarak adlandırılmış ancak daha sonra bu toksinin "S. dysenteriae"nın salgıladığı Şiga toksinleri ile hemen hemen aynı olduğu gösterilmiştir. 
+Şiga toksinleri hedef hücrelerde protein sentezini engelleyerek etki gösterirler. Toksin, hücre içine girdikten sonra bir N-glikozidaz enzimi olarak işlev görür, ribozomu oluşturan RNA'dan bir adenini keserek protein sentezinin durmasına neden olur. "Ricinus communis" adlı fasulyede bulunan risin toksini de aynı mekanizmayla çalışır. 
+Şiga toksinlerinin yapısı aynıdır: bir A ve beş B protein alt biriminden meydana gelirler. B altbirimleri bir beşgen oluştururlar, beşgen düzleminin bir tarafında, ortada, A birimi oturur. B birimleri hedef hücrenin zarında bulunan, globotriasilseramit Gb3 adlı bir glikolipide bağlanırlar. Bunun ardından A altbirimi içeri alınır, hücre içinde bulunan furin adlı bir proteaz tarafından iki parçaya ayrılır. A1 parçası ribozoma bağlanıp protein sentezini bozar. 
+Bir Şiga toksininin hücre zarından ribozomlara ulaşmak için izlediği yol şöyledir: toksin endositoz yoluyla bir endozoma alınır, endozom Golgi aygıtıyla kaynaşınca toksin de önce Trans Golgi Şebeke'sine ("Trans Golgi Network"), oradan da Endoplazmik retikulum'a (ER'ye) aktarılır. En sonunda toksin ER'den sitoplazmaya, henüz bilinmeyen bir mekanizma ile geçer.
+Şiga toksinleri protein sentezini engellemek dışında de etkileri vardır. Apoptoz yoluyla hücre parçalanması protein sentezinden bağımsızdır ve bunun sonucunda saçılan proteazlar civar hücrelere ek bir zarar verebilir. Keza, protein sentez engellemesinden bağımsız olarak Şiga toksinleri IL-1, IL-6, IL-8 ve TNF gibi bazı sitokinlerin salgılanmasına neden olurlar.
+Toksin kan damarlarının çeperlerindeki endotel hücrelere etki eder. Kalın bağırsak damarlarına bu şekilde zarar vermesi yüzünden kanlı ishal meydana gelir. Toksin kanla sindirim sistemini çevreleyen damarlardan daha öteye yayıldığı zaman küçük damarlar içeren çeşitli organlara zarar verebilir. Böbrek glomerulusunun epiteli, taşıdığı Gb3 glikolipit reseptörleri yüzünden özellikle toksine duyarlıdır ve onun zarar görmesi böbreğin filtreleme işlevini ortadan kaldırır, sonuç kanamalı böbrek yetmezliğidir (hemolitik üremik sendrom). 
+Stx1 ve Stx2 aynı yapıya sahip olmakla beraber bazı ayrıntılarda farklılıklar gösterirler. Stx insanlarda Stx1'den daha toksiktir. Stx2'nin hemolitik üremik sendrom oluşturmaya Stx1'den daha yetkindir.
+Şiga toksin genleri "E. coli" kromozomuna entegre olmuş bir lambda tipi bakteriyofaj genomlarında bulunur. Bakterinin büyümesini engelleyen şartlarda bakterinin gösterdiği SOS tepkisi bakteriyofajı etkinleştirir, hem bakteriyofajın, hem de Stx2 toksininin üretimi artar. Kinolon sınıfından antibiyotikler, ayrıca trimethoprim ve furazolidone uygulandığında Stx2 üretiminin 100 katı arttığı bulunmuştur. Dolayısıyla bazı antibiyotiklerin kullanımı Şiga toksin üreten "E. Coli" hastalıklarının kötüleşmesine ve daha hızlı yayılmasına neden olabilmektedir.
+Toksinin hücreye bağlanıp içine girmek için gerek duyduğu Gb3 reseptörleri insanda vardır ama inek, domuz ve geyik gibi başka hayvanlarda yoktur. Bu hayvanlar toksin üreten bakterileri kendileri zarar görmeden barındırabilirler, dışkılarıyla onları çevreye salıp insanlara geçmelerine neden olabilirler. Stx1'in antiviral etkisi olduğu gösterilmiştir, dolayısıyla bulunduğu hayvanlarda koruyucu bir etkisi olabilir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Restriksiyon modifikasyon sistemi</DOCTITLE>
+<TEXT>
+
+Restriksiyon modifikasyon sistemi (RM sistemi) bakterilerin kendilerini yabancı DNA'dan korumak için kullandığı bir sistemdir. RM sistemleri iki unsurdan oluşur: 1) yabancı DNA'yı belli noktalarında kesen restriksiyon enzimleri ve 2) konak hücrenin DNAsının kesilmemesi için ona metil grupları ekleyen metilaz enzimlerinden oluşur. Bir RM sistemindeki restriksiyon enzimi ve metilaz aynı DNA dizi motifini tanır, eğer o dizi metillenmişse DNA kesilmez. RM sistemlerinin tanıdığı DNA dizisi bakteri türleri arasında farklılık gösterdiği için, yabancı DNA eğer başka türden bir bakteriden kayanklanıyorsa muhtemelen farklı bir metilasyon gösterir ve yabancı olarak algılanır. Hücreye dışardan (örneğin bir bakteriyofaj yoluyla) gelen DNA eğer uygun yerlerde metil grupları taşımıyorsa hücreye zarar veremeden parçalanır. Bilinen bakterilerin yaklaşık yarısının RM sistemi vardır, ve bunların yarısında birden fazla RM sistemi bulunur.
+Tarih.
+Bakterilerin kendilerini yabancı DNA moleküllerden koruaybilme yetenği ilk 1950'lerde farkedildi. Bazı bakteriler başka suşlarda büyütülmüş virüslerin büyümesini engelemekte (kısıtlamaktaydı). Bu etkinin diziye spesifik restriksiyon enzimlerinden kaynaklandığı bulundu.
+Restriksiyon enzimleri (veya restriksiyon endonükleazları) çift iplikli DNA'ları belli noktalarda keserler, meydana gelen DNA parçaları ardından başka endonükleazlar tarafından parçalanır. Restriksiyon enzimi DNA'yı 4-6 baz uzunluğunda spesifik dizilerde keser, bunlar genelde palindromik dizilerdir. Bu tanıma dizileri kısa olduğu için bakteri kromozomunda da bu dizilerden pekçok sayıda bulunur. Restriksiyon enziminin bakterinin kendi DNA'sını kesmemesi için bakteri aynı diziye spesifik bir metilaz enzimi ile kendi DNA'sına metil grupları ekler. Bu metil grupları DNA'nın baz eşleşmesini ve transkripsiyonunu engellemez ama restriksiyon enziminin DNA'yı o noktada tanıyıp kesmesine engeller.
+Restriksiyon modifikasyon sitemlerinin tipleri.
+Üç tip restriksiyon modifikasyon sistemi vardır, bunlar tip I, tip II ve tip III olarak adlandırılırlar. Her birinde restriksiyon enzimi ve metilaz aktivitesi bulunur. bu adlandırma keşfediliş sırasına göredir ama Tip II sistemler en yaygındır.
+Tip I sistemler en karmaşıktır, üç proteinden oluşurlar: R (restriksiyon), M (modifikasyon) ve S (spesifisite). Meydana gelen kompleks DNAyı hem keser hem metiller. Her iki reaksiyon ATP gerektirir, kesim noktası tanıma yerinden oldukça uzakta olur. S altbirimi hem restriksiylon hem metilazın spesifisitesini belirler. Kesim noktası uzakta olduğu için jel elektroforezi ile kesilen DNA parçaları ayrıştırıldığı zaman ayrık bantlar görülmez.
+Tip II sistemler daha basittir ve çok yaygındır. Bir kompleks olarak çalışmak yerine metiltransferaz ve endonükleaz ayrı proteinler olarak kodlanır ve birbirlerinden bağımsız olarak etkirler. Bir spesifisite proteini yoktur. Her iki protein aynı tanıma yerini tanır ve dolayısıyla kendi etkinlikleri için birbirleriyle yarışırlar. Metiltransferaz monomer olarak etkir, bir defada DNA'nın bir ipliğini metiller. Endonükleaz bir homodimer olarak etkir ve iki ipliğin birlikte kesişmesini sağlar. Kesim, tanıma dizisinin içinde veya ona yakın bir yerde olur, bunun sonucu meydana gelen DNA parçaları jel elektroforezinde ayrık bantlar olarak görünür. Bu nedenle, Tip II sistemler laboratuvarda gen klonlaması ve DNA analizi için kullanılır.
+Tip III sistemlerde R ve M proteinleri birlikte bir kompleks oluştururlar. Ancak, metilaz proteini kendi başına da çalışabilir. Diğer mekanizmalardan farklı olarak metilasyon sadece bir iplik üzerinde meydana gelir. R ve M proteinlerinden meydana gelen kompleks aynı yeri metilleyip keserek kendi kendisiyle yarışır. Bu yüzden DNA'nın sindirimi kısmî olur.
+Kullanım.
+RM sistemleri plazmitlere klonlanabilir ve metilasyon enziminin sağladığı dirençten yararlanılarak seçilebilir. Plazmit ikilenmeye başlayınca metilaz enzimi üretilir ve plazmit DNA'sını metiller, böylece onu spesifik restriksiyon enziminden korur.
+Bazı virüsler restriksiyon modifikasyon sistemlerinin etkisinden korunacak çekilde evrimleşmişlerdir. Bu virüsler kendi DNA'larına metil veya glikosil grupları ekleyerek onu modifiye ederler, böylece restriksiyon enzimini bloke ederler. Başka virüsler ise, T3 ve T7 bakteriyofajları gibi, restriksiyon enzimlerini inhibe eden proteinler kodlarlar.
+Bu virüslere karşı gelebilmek için bazı bakteriler modifiye olmuş DNA'yı tanıyıp kesen restriksiyon enzimleri evrimleştirmişlerdir, bu enzimler konak hücrenin modifiye olmamış DNA'sını kesmezler. Bazı prokaryotlar birden çok restriksiyon modifikasyon sistemine sahiptir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>DNA ligaz</DOCTITLE>
+<TEXT>
+
+Moleküler biyolojide DNA ligaz iki DNA molekülünü uç uca birleştiren özel bir ligaz () tipidir. DNA ligaz DNA tamiri, DNA ikileşmesinde rol oynar. Ayrıca, ökaryotlarda mayoz bölünmedeki krosoverde ve memelilerde, bağışıklık sisteminin çeşitliliğini sağlayan rekombinasyon süreçlerinde rol oynarlar. DNA ligaz enzimi moleküler biyoloji laboratuvarlarında rekombinant DNA uygulamalarında kullanılır.
+Ligaz mekanizması.
+DNA ligaz bir DNA molekülünün 3' hidroksil ucu ile bir diğerinin 5' fosfat ucu arasında bir fosfodiester bağ oluşturmaktır. Katalizledikleri reaksiyon için yüksek enerjili bir kofaktör olarak ATP veya NAD kullanırlar. Ökaryotik DNA ligazlar ATP ile çalışır, bakteri, arke ve virüslerdeki DNA ligazların bazıları ATP bazıları NAD kullanır. Bu kofaktörlerin fosfat bağının kesilmesi ile reaksiyon için gerekli enerji elde edilir. Arta kalan AMP molekülü enzimde bulunan bir lizin kalıntısı tarafından bağlanır. Birleştirilecek DNA molekülünün 5' ucundaki fosfat, lizine bağlı AMP'deki 5' fosfata saldırarak, AMP'yi DNA'ya bağlayan bir pirofosfat bağı oluşturur. Nihayet, kopuk DNA zincirinin 3'-OH grubu, 5' uçtaki pirofosfat grubuna saldırarak AMP'nin serbest bırakılmasına ve DNA zincir uçlarının birleşmesine neden olur.
+DNA ligazlar DNA'yı çevreleyerek ona şekil verirler ve birleşmesi gereken zincir uçlarını karşı karşıya getirirler. 
+Tüm DNA ligazlarda DNA'ya bağlanan bir bölge, bir de nükleotidil transferaz bölgesi vardır. Nükleotidil transferaz bölgesi AMP'yi DNA'ya aktarır. Bu iki bölgeye ek olarak, bazı DNA ligazlarda yardımcı proteinlerle etkileşmeyi sağlayan ek bölgeler bulunur. Diğer DNA ligazlardan farklı olarak DNA ligaz III'te DNA bağlanan iki ayrı bölge vardır, bu sayede küt uçlu iki DNA uçuca gelebilir.
+DNA ligazlarda görülen, yukarıda belirtilen üç adımlı mekanizma RNA ligazlarda da mevcuttur. Mesajcı RNA'ya 5' başlık takan enzimler ise bu üç adımın ilk ikisini sadece uygular ve DNA yerine RNA, ATP yerine GTP kullanır. Bu enzimlerin aktif bölgelerinin yapısı da benzerdir. Katalizledikleri reaksiyon adımlarından biri, bir nükleotitin bir nükleik aside eklenmesi olduğu için bu enzim aileleri toplu olarak nükleotidiltransferaz enzim üst ailesini oluştururlar.
+DNA ligaz tipleri.
+NAD ve ATP kullanan DNA ligazların biyokimyasal mekanizmaları aynı olmasına karşın amino asit dizileri bakımından birbirlerinden çok farklıdır ve iki ayrı grup oluştururlar.
+Bakteriyel DNA ligazlar.
+E. coli DNA ligazı DNA ikileşmesi sırasında oluşan Okazaki parçalarının birleştirilmesi, ayrıca DNA tamiri için gereklidir. Bakteriyofaj T4 ve T7'de bulunan DNA ligazlar da aynı göreve sahiptir ama konak bakteride bulunan DNA ligaz, faj DNA'sının ikileşmesinde işlev görebildiği için onların varlıkları faj çoğalması için zorunlu değildir.
+Ökaryotlarda DNA ligazları.
+İnsanda LIG1, LIG3 ve LIG4 genleri tarafından kodlanan üç DNA ligaz geni vardır. LIG1 ve LIG4 tüm ökaryotlarda bulunmakta, LIG3 ise sadece omurgalı hayvanlarda bulunmaktadır.
+Sağlık.
+DNA ligaz enzimlerinde yokluğu veya doğru çalışmaması sonucu genom yapısında bozukluklar meydana gelir. DNA ligaz I mutasyonu taşıyan hastalarda DNA ikileşmesi ve tamiri iyi çalışmamasından dolayı immün bozukluklar, güneş ışığına duyarlılık, ve büyüme gecikmesi görülmüştür. Memeli hayvanlarda DNA ligaz I veya IV eksikliği kanser olasılığını artırdığı gösterilmiştir. DNA ligaz IV yokluğu sendromunda V(D)J rekombinasyonu bozukluğundan kaynaklanan immün yetmezlik görülür. Fare modellerinde ve çoğu insan hastada DNA ligaz IV yokluğu kansere yol açmaktadır.
+Uygulama.
+DNA ligazlar, laboratuvarda rekombinant DNA dizileri oluşturmak için vazgeçilmez birer araç haline gelmişlerdir. Örneğin restriksiyon enzimleri ile elde edilen DNA parçalarının bir plazmit içine yerleştirilebilmesi için DNA ligazlar kullanılır. Uçları birleştirilen DNA moleküllerinin uçları "yapışkan" (sağdaki resimdeki gibi) veya küt olabilir. 
+Başarılı bir ligasyon (birleştirme) reaksiyonu için en iyi sıcaklığın bulunması gereklidir. Çoğu reaksiyon bakteriofaj T4'ten elde edilen T4 DNA ligazı ile katalizlenir. Ancak ligasyonun başarılı olması için enzim etkinliği ile DNA uçlarının ergimesi arasında bir denge bulunması gerekir. Eğer reaksiyon sıcaklığı ergime sıcaklığı (buna tavlama sıcaklığı da denir) Tm'den yüksek olursa, yapışkan uçlar arasında baz eşleşmesi olmaz. Yapışkan uçların uzantısı ne kadar kısa olursa Tm de o kadar düşük olur. Bu yüzden kısa uzantılı yapışkan uçların ligasyonu düşük sıcaklıkta (4-8 °C) uzun süre içinde (saatlerce, genelde bir gece boyunca) gerçekleştirilir.
+5' ucunda fosfat olmayan DNA'ların ligaz tarafından birleştirilebilmesi için 5' uçlarının fosforile edilmesi gerekir.
+Yapışkan uçsuz DNA'ların da ligasyonu mümkündür ama reaksiyon çok daha yavaştır. Reaksiyon ortamında polietilen glikol ve 150-200 mM NaCl bulunması DNA moleküllerinin bitişmesini kolaylaştırır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Metilasyon</DOCTITLE>
+<TEXT>
+
+Kimyada metilasyon veya metillenme, bir kimyasal bileşiğe bir metil grubunun bağlanması veya ornatılmasıdır. Bu terim kimyada, biyokimyada, toprak bilimlerinde ve hayat bilimlerinde yaygınca kullanılır.
+Biyokimyada metilasyon daha spesifik olarak bir hidrojen atomunun bir metil grubuyla yer değiştirmesi anlamında kullanılır.
+Biyolojik sistemlerde metilasyon enzimler tarafından katalizlenir; bu reaksiyon, ağır metallerin modifikasyonunda, gen ifadesinin denetlenmesinde, protein işlevlerinin denetlenmesinde ve RNA metabolizmasında yer alır. Ağır metallerin metilasyonu biyolojik sistemler dışında da olur. Histolojide doku örneklerinin kimyasal metilasyonu bazı histolojik boya artifaktlarının azaltılmasında kullanılan bir yöntemdir.
+Biyolojik metilasyon.
+Epigenetik.
+Epigenetik kalıtıma etki eden metilasyon DNA metilasyonu veya protein metilasyonu ile meydana gelir.
+DNA metilasyonu omurgalılarda tipik olarak CpG bölgelerinde (sitozin-fosfat-guanin bölgeleri; yani DNA dizisinde sık olarak sitozinin hemen ardından guaninin geldiği yerler); bu metilasyon sonucu sitozinden 5-metil sitozin meydana gelir. Me-CpG oluşumu DNA metiltransferaz enzimi tarafından katalizlenir. Omurgali hayvanlarin genomlarinda CpG dizileri genelde seyrek olmakla beraber gen promotörlerinde normalden yüksek sıklıkta görülürler ve toplu olarak bu bölgelere CpG adaları denir. Bu CpG bölgelerinin metilasyon durumu gen ifadesi üzerinde büyük etkide bulunur.
+Protein metilasyonu tipik olarak protein dizisindeki arginin veya lizin amino asit kalıntılarında yer alır. Arginin peptidilarginin metiltransferazlar tarafından bir kere (monometillenmiş arginin) veya iki kere metillenebilir; iki kere metillenme durumunda ise ya her iki metil grubu birden uçtaki azot üzerinde bulunabilir (asimetrik iki metilli arginin) veya her bir azot atomu üzerinde birer metil grubu bulunur (simetrik iki metilli arginin). Lizin ise lizin metiltransferazlar tarafından bir, iki veya üç kere metillenebilir. Protein metilasyonu en çok histonlar için çalışılmıştır. S-adenozil metyoninden metil gruplarının histonlara aktarılması histon metiltransferaz olarak adlandırılan enzimler tarafından gerçekleştirilir. Belli amino asit kalıntıları üzerinde metillenmiş olan histonlar epigenetik biçimde etki ederek gen ifadesini etkinleştirebilir veya engelleyebilirler. 
+Protein metilasyonu bir tip çevrim sonrası değişimdir.
+Embriyonik gelişim.
+Memelilerin erken gelişiminde (döllenmeden sekiz hücre aşamasına kadar) genom metilsizlenmiştir. Sekiz hücre aşamasından morulaya kadar genomda yeni baştan metilasyon olur, böylece genomdaki epigenetik bilgi değişir veya yeni epigenetik bilgi eklenir. Blastula aşamasında, metilasyon tamalanmıştır. Bu süreç "epigenetik yeniden programlama" olarak adlandırılır. DNA metiltransferaz enzimi olmayan gen nakavt mutant hayvanların morula aşamasında öldüğünün gözlemlenmesi ile metilasyonun önemi ortaya çıkmıştır.
+Doğum sonrası gelişim.
+Metilasyon ile çevresel faktörlerin etkileşiminin gen ifadesine olan etkisine dair deliller gittikçe çoğalmaktadır. Sıçanlarda ilk altı ay zarfında anne bakımındaki farklılıklar bazı promotörlerde farklı metilasyon örüntülerine yol açmakta ve dolayısıyla gen ifadesine etki etmektedir. Buna ilaveten, interlökin sinyalizasyonu gibi daha da hızlı süreçlerin de metilasyon ile denetlendiği gösterilmiştir.
+Kanser.
+Metilasyon örüntüleri kanser alanında önemli bir araştırma konusu olmuştur. Normal dokularda gen metilasyonu başlıca kodlayıcı bölgelerde konumlanmıştır, ki bunlar CpG-fakiridir. Buna karşın genlerin promotör bölgeleri metillenmemiştir, CpG adalarının bu bölgelerdeki çokluğuna rağmen.
+Neoplazi metilasyon dengesizliği ile karakterizedir; genom çapında hipometilasyon olmasına karşın yerel olarak hipermetilasyon bölgeleri vardır ve DNA metiltransferaz ifadesi artmıştır. 
+Bir hücrenin toplam metilasyon durumu karsinogeneze sürükleyici bir faktör olabilir, çünkü genom çapında metilasyonun kromozom istikrarsızlığı ve artan mutasyon oranına yol açtığını gösterir deliller vardır. Bazı genlerin metilasyon durumu tümörigenez için bir biyomarker olarak kullanılabilir. Örneğin, pi-sınıf glutatyon S-transferaz geninin (GSTP1'in) aşırı metilasyonu (hipermetilasyonu) prostat kanseri için ümit verici bir diagnostik indikatör olarak görünmektedir.
+Kanserde genetik ve epigenetik gen susturmalarının mekanizmaları çok farklıdır. Somatik genetik mutasyonlar mutan genden işlevsel proteinlerin üretmini engeller. Eğer hücreye selektif bir avantaj sağlarsa bu mutasonu taşıyan hücreler klonal şekilde çoğalarak bir tümör meydana getirirler, bu tümördeki tüm hücreler o proteini üretmekten acizdir. Buna karşın, epigenetik modifikasyon aracılığıyla gen susturması tedrici olur. Önce transkripsiyonda az farkedilir bir azalma ile başlar, bunun sonucu çevreleyen heterokromatin tarafından CpG adalarının koruması azalır. Bu kaybı takiben CpG adalarındaki metilasyon seviyesi artmaya başlar, bu değişiklikler farklı hücrelerde bulunan aynı genin kopyaları için farklı farklı kendini gösterir. 
+Bakteriyel konak savunması.
+Adenozin ve sitozin metilasyonu çoğu bakteride bulunan restriksiyon modifikasyon sisteminin parçasıdır. Bakteriyel DNA periyodik olarak tüm genomda metillenir. Metilaz, belli bir DNA dizisini tanıyan ve bu dizi içinde veya yakınındaki bazlardn birini metilleyen bir enzimdir. Bu şekilde metillenmeden hücre içinde giren yabancı DNA'lar diziye özgün restriksiyon enzimleri tarafından yıkılır. Bu restriksiyon enzimleri bakteriyel genomik DNA'yı tanımazlar. İçsel DNA'nın metilasyonu bir çeşit ilkel bağışıklık sistemi olarak etki eder, bakterileri bakteriyofaj enfeksiyonuna karşı korur. 
+Kimya.
+Organik kimyada metilasyon terimi CH3 grubunun eklendiği alkilasyon sürecine değinmek için kullanılır. Bunu yapmak için SN2 nükleofilik sübstitüsyon ile tepkiyen elektrofilik metil kaynakları kullanılır. Kullanılan reaktanlar başlıca iyodometan, dimetil sülfat, dimetil karbonat ve daha güçlü (ve tehlikeli) oldukları için daha ender kulanıllan metil triflat veya metil fluorosulfonat (sihirli metil). Örneğin bir karboksilat, oksijen üzerinde metillenip bir metil ester verir. Bir alkoksit tuz (RO-) benzer şekilde metillenip bir eter verir.
+Alternatif olarak metil lityum (CH3Li) veya Grignard reaktifi (CH3MgX) gibi nüklofilik metil bileşiklerle de metilasyon yapılabilir. Örneğin CH3Li asetonu metillemekte kullanıldığında karbonil (C=O) bağına metili ekleyerek "tert"-butanol'un lityum alkoksitini meydana getirir:
+Purdie metilasyonu.
+Purdie metilasyonu, karbonhidratlardaki oksijenin iyodometan ve gümüş oksit ile spesifik bir metilasyon yöntemidir.
+
+</TEXT>
+</DOC>
+

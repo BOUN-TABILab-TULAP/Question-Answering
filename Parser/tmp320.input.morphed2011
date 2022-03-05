@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Dalgalardan	dalga	+Noun+A3pl+Pnon+Abl
+
+faydalanılarak	fayda	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+elektrik	elektrik	+Noun+A3sg+Pnon+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+üretilir	üre+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Aor+A3sg
+üretilir	üre+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

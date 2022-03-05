@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ganj Ganj+Noun+Prop+A3sg+Pnon+Nom
+nehri nehir+Noun+A3sg+P3sg+Nom nehir+Noun+A3sg+Pnon+Acc
+hangi hangi+Adj
+ülkededir ülke+Noun+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

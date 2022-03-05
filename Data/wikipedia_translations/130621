@@ -1,0 +1,71 @@
+Doğrudan İstemci-Client
+Doğrudan İstemci-Client (DCC) dosya alışverişi ya da olmayan geçirilen sohbetler gerçekleştirmek için el sıkışma için bir IRC sunucusu kullanarak birbirine bağlamak için eş sağlayan bir IRC ilgili alt protokoldür. Kurulan kez tipik bir DCC oturumu IRC sunucusuna bağımsız çalışır. Başlangıçta Hemen birçok IRC tarafından desteklenen ircII ile birlikte kullanılmak üzere tasarlanmıştır. Napster protokol sunucularına Bazı peer-to-peer istemcileri de DCC TekNap, SunshineUN ve Lopster dahil, yeteneği olsun / gönderme var. Ayrıca DCC Schat olarak bilinen Ö.GDM adlandırılan DCC protokolü bir varyasyonu (Doğrudan Client-to-Client Güvenli), şifreli bağlantıları destekler. DCC kullanımı ile ilgili bir RFC spesifikasyon yoktur.
+DCC bağlantıları iki farklı şekilde başlatılabilir:
+Tarihi.
+ircII CTCP ve DCC protokollerini uygulayan ilk IRC istemcisi oldu. CTCP protokolü ircII sürüm 2.1 için 1990 yılında Michael Sandrof tarafından hayata geçirildi. DCC protokol sürüm 2.1.2 için 1991 yılında Troy Rollo tarafından uygulanan, ancak diğer IRC taşınabilir olması amaçlanmıştır değildi.
+Ortak DCC uygulamaları.
+DCC CHAT.
+CHAT hizmeti kullanıcıları DCC bağlantısı üzerinden birbirleri ile sohbet etmenizi sağlar. Trafik kullanıcıları arasında doğrudan gitmek değil, IRC ağı üzerinde olacaktır. Normalde mesaj gönderirken karşılaştırıldığında, bu durum taşkın kontrolü eksikliği, bir kerede metin büyük miktarlarda gönderme sağlar, IRC ağ yükü azaltır ve iletişim daha güvenli, ancak (IRC sunucularına mesajı maruz vermeyerek yapar mesajı) düz metin olarak devam etmektedir.
+DCC Sohbet normal CTCP el sıkışması ile başlatılır. bağlantı kurmak isteyen kullanıcı hedefe şu CTCP gönderir:
+<Ip> ve <port> gönderici aittir ve tamsayılar olarak ifade edilir. <Protokol> standart DCC CHAT için "chat" dir. Alıcı taraf daha sonra verilen liman ve adresine bağlanabilirsiniz.
+Bir bağlantı kurulduğunda, DCC CHAT için kullanılan protokol çok basittir: Kullanıcıların CRLF sonlandırılmış mesaj alışverişi. Ve başka bir ASCII 001 ile sonlandırılır (^ A ile aşağıda gösterilen kontrol-A) bir ASCII 001 ile başlayan mesajlar ve kelime "EYLEM", emotes olarak yorumlanır:
+DCC Beyaz Tahta.
+Bu DCC CHAT bir uzantısı, basit çizim sağlayan metin satırları yanı sıra gönderilecek komutları olduğunu. DCC Beyaz Tahta protokolü ile "wboard" ile değiştirilir "chat", DCC CHAT benzer bir el sıkışma ile başlatılır:
+Bağlantı kurulduktan sonra, iki müşteri CRLF sonlandırılmış mesaj alışverişi. ASCII 001 ile başlayan mesajlar (ve isteğe bağlı olarak sonu) özel komutlar olarak yorumlanır; Diğerleri hatları kullanıcının beyaz tahta yüzeyinde çizilen neden ya da iki müşteri özellikleri bir dizi görüşmeye izin verirken komut EYLEM, bir emote temsil eder.
+DCC GÖNDER.
+GÖNDER servis kullanıcıları birbirlerine dosyaları göndermenizi sağlar. el sıkışma için orijinal şartname alıcı toplam dosya boyutunu bilmek ne bir transfer devam etmesine izin vermedi. Bu istemciler yaygın olarak desteklenen haline gelmiş pek çoğu el sıkışma, kendi uzantıları tanıtmak yapmıştır.
+Orijinal el sıkışma alıcıya aşağıdaki CTCP gönderen gönderici oluşuyordu:
+DCC CHAT, <ip> ve <port> gibi gönderen makine gelen bağlantı için dinleme olacak ip adresi ve port bulunmaktadır. Bazı müşteriler çift tırnak içinde boşluk dosya içine. Bu son argüman olarak dosya boyutunu eklemek yaygın bir uygulamadır:
+Bu noktada, özgün şartname alıcı verilen adrese ve bağlantı noktasına bağlanmak ve veri bekleyin veya isteği görmezden, ama DCC DEVAM uzantısını destekleyen müşterileri için ya vardı, üçüncü bir alternatif kısmını atlamak göndermesini isteyin etmektir CTCP cevap göndererek dosya:
+Gönderen istemci DCC RESUME destekliyorsa, onunla cevap verecektir:
+ve alıcı verilen adrese ve bağlantı noktasına bağlanmak ve veri zaten varolan bir dosyaya eklemek için dinleyebilirsiniz.
+Veri istemcisi 32-bit ağ bayt sırası tamsayı şeklinde alınan bayt sayısını göndererek kabul etmemiz gerekir, her biri bloklar halinde müşteri, gönderilir. Bu bağlantıları yavaşlatır çünkü TCP gereksizdir. send-ahead uzatma teşekkürlerini beklemiyor tarafından biraz bu sorunu giderir, ama alıcı hala gönderen onları beklediğini durumunda aldığı her blokta, onları göndermek zorunda çünkü, tamamen çözülmüş değil.
+Başka bir uzantısı, TDKM veya turbo DCC, bildirimleri kaldırır, ancak biraz değiştirilmiş el sıkışma gerektirir ve yaygın desteklenmiyor. TDKM eski sürümleri kelimesi Tsend ile el sıkışma olarak GÖNDER yerine; sonraki sürümleri kelime GÖNDER kullanın ama (onlar modifiye el sıkışma ayrıştırmak mümkün olduğunca uzun süre), diğer müşterileri ile Tsend bu sürümü uyumlu hale handshake sonra bir "T" ekleyin.
+DCC istismar GÖNDER.
+DCC port 0 kullanımı ile tetiklenen iki böcek, uzun 14 karakterden ve Netgear, D-Link ve Linksys tarafından üretilen bazı yönlendiriciler bir giriş doğrulama hatası daha dosya tetiklediği mIRC bir varyant tampon taşma hatası, başvurabilirsiniz istismar göndermek. ifade 'DCC GÖNDER' gerçek bir DCC isteği yapılmış GÖNDER değil sadece zaman, port 6667 tarihinde TCP akışında herhangi bir yerinde görünür boşluk veya yeni satır olmadan en az 6 karakter tarafından takip zaman yönlendirici, özellikle tetiklenebilir istismar.
+DCC XMIT Onay.
+XMIT Onay servisi dosya sürdürme sağlar ve ACK uzun mamul gelen savurgan trafik keser DCC SEND değiştirilmiş versiyonu. XMIT Onay yaygın desteklenmiyor.
+XMIT Onay el sıkışma GÖNDER el sıkışma dan biraz farklıdır. Gönderici CTCP alıcıya bir dosya sunan gönderir:
+Köşeli ayraçlar burada isteğe bağlı parçaları içine alın. <Protokol> transferi için kullanılacak bir protokoldür; Sadece "clear" halen tanımlanmaktadır. Standart DCC SEND aksine, <ip> standart noktalı IPv4 için gösterim veya IPv6 için ya onaltılık veya karışık gösterimde ek şekillerde olabilir. "-" Boş bir erken parametre bırakın, ama yine de bir sonraki birini sağlamak için, daha önce kimse olarak belirtilebilir. Alıcı kullanılan protokolü uygulamak etmezse, bu formattaki bir CTCP cevap geri göndereceğiz:
+SOHBET genişletilmiş DCC CHAT tarafından gönderilen hata mesajları ile uyumluluğu korumak için kullanılmaktadır. Alıcı transferini reddederse, aşağıdaki CTCP cevap gönderir:
+Diğer hatalar aynı şekilde rapor edilir. Alıcı istekli ve dosyayı alma yeteneğine sahip ise, verilen adresi ve port bağlanacaktır. Ondan sonra ne olacak kullanılan protokole bağlıdır.
+"Clear" protokolü durumunda, XMIT Onay sunucusu, bir bağlantı aldıktan sonra, dosyanın değişiklik zamanı temsil ağ bayt sırayla 32-bit süresi t göndereceğiz. Muhtemelen yerel dosyanın değişiklik zamanı dayalı, istemci daha sonra hangi ofset sunucu dosyasını gönderirken etmeye gereken bir uzun başka bir ağ bayt sırasını göndereceğiz. Bütün bu dosya isteniyorsa sıfıra ayarlanır veya yerel dosyanın boyutu istemci önceki indirmek devam etmek isterse edilmelidir.
+GÖNDER daha hızlı iken, XMIT Onay onun büyüklüğü CTCP müzakere belirtilen veya önceden bilindiği sürece dosya, ne kadar büyük söylemek imkansız olduğunu aynı sınırlamalar biri taşır. Ayrıca, nedeniyle mahsup 32-bit için iki gigabayt işareti geçmiş bir dosya devam edemiyor.
+Pasif DCC.
+Normal bir DCC bağlantısı başlatıcı sunucusu gibi davranan ve hedef istemcisi. Çünkü yaygın güvenlik duvarı nedeniyle NAT uçtan uca şeffaflık azaltılması, başlatıcı bir sunucu olarak hareket etmek mümkün olmayabilir. Sunucu olarak hareket etmek hedefi soran çeşitli yolları icat edilmiştir:
+DCC Sunucusu.
+Normal DCC Bu uzantı GÖNDER ve SOHBET IRC istemcisi mIRC tarafından tanıtıldı. DCC Sunucu ılımlı desteği vardır, ancak tüm istemciler üzerinde standart değil (IRC karşılaştırmasını bakınız).
+Bu bir IRC sunucusuna ihtiyaç duymadan, IP adresine göre DCC bağlantısı başlatılmasını izin verir. Bu gönderenden gelen bir el sıkışma için bir sunucu olarak davranan alıcı istemci (bu nedenle adı) (genellikle port 59) dinleyerek gerçekleştirilir.
+Bir CHAT için başlatıcı gönderir:
+Hedef daha sonra cevap:
+ve geri kalanı standart DCC CHAT protokole göre ilerler.
+Bir GÖNDER için başlatıcı gönderir:
+Hedef ile yanıtlar:
+<özgeçmiş pozisyonu> dosyasında ofset nerede hangi başlatın. Buradan normal DCC olarak devir ilerler GÖNDER.
+DCC Server ayrıca mIRC tarzı dosya sunucularını ve DCC GET destekler.
+RDCC.
+DCC Sunucu kullanmak için bağlantı noktasını belirterek hiçbir yol sağlar, bu nedenle bu iki tarafın biri, bir insan olmayabilir olduğu gibi, her zaman mümkün değildir, hangi elle müzakere edilecek vardır. RDCC portuna ek olarak, aynı zamanda müşteri nedeniyle başka konak maskeleme bulmak mümkün olmayabilir sunucu, IP adresi sağlar DCC Server için bir el sıkışma mekanizmasıdır. Bu yaygın desteklenmiyor.
+başlatıcı hedef CTCP sorgu göndererek dinlediği bağlantı noktası ister:
+Burada <function> dosya sunucusu için gönderme ve 'f' için 's', sohbet için 'c' olduğunu.
+Hedef daha sonra CTCP ile cevap verebilir:
+Burada <ip> ve <port> GÖNDER ve SOHBET, normal DCC aynı anlamlara sahiptir. Bundan sonra başlatıcı ip ve bağlantı noktasına bağlanır ve DCC Sunucu tokalaşma izler.
+DCC TERSİNE.
+El sıkışma doğrudan IP bağlantısı üzerinden işlenir DCC Server aksine, DCC TERS GÖNDER DCC tarafından kullanılan benzer bir normal bir CTCP el sıkışma vardır. Bu yaygın uygulanmamaktadır. gönderen CTCP mesajı göndererek alıcıya bir dosya sunuyor:
+<Key> 33-126 aralığında ASCII karakterlerden oluşan bir 1 ila 50 karakter uzunluğunda bir dizedir ve transferi için bir tanımlayıcı olarak hareket eder.
+Alıcı kabul ederse, bu CTCP cevap gönderir:
+İşte <start> göndermeye başlamak için hangi dosya konumu, <ip> IPv6 için IPv4 için standart noktalı yazımla alıcı veya onaltılık gösterimde IP adresi olmasıdır. gönderici sonra alıcı tarafından belirtilen IP adresi ve port bağlanır ve normal DCC SEND izler. Gönderici ve alıcı Hem CTCP cevap göndererek el sıkışma iptal edebilirsiniz:
+DCC RSEND.
+Bu DCC GERİ için KVIrc müşterinin alternatiftir. gönderen ctcp göndererek bir dosya sunuyor:
+Alıcı daha sonra cevap CTCP tarafından kabul edebilirsiniz:
+ve gönderici alıcıya bağlanır ve normal DCC SEND sırasında olduğu gibi gönderir.
+/ Güvenlik Duvarı DCC Ters.
+Bu pasif DCC mekanizma, en azından mIRC, Görsel IRC, XChat, KVIrc, DMDirc, klient, Konversation ve PhibianIRC tarafından desteklenmektedir. gönderen CTCP mesajı göndererek bir dosya sunuyor:
+<Ip> ağ bayt sırayla gönderenin IP adresi, (standart DCC gibi) tek bir tamsayı olarak ifade edilmiştir. 0 numaralı Bu Ters DCC isteği olduğunu işaret yerine geçerli bir liman gönderilir. <Belirteci> benzersiz bir sayıdır; Tsend (bunu destekleyen bir istemci tarafından) kullanılıyorsa, "T" harfi alıcı icar belirteci eklenen bu bildirimleri göndermek gerekmez biliyorum.
+Alıcı bir dinleme soketi açılması ve CTCP mesajıyla yanıt vererek dosyayı kabul edebilir:
+Bu <ip> ve dışında, orijinal Ters DCC mesaja aynıdır <port> alıcı dinlediği soketi belirlemek. <Belirteci> gönderici kabul ediliyor hangi istek bildirerek, orijinal isteği aynıdır. (Bu mesajı düzenli DCC göndermek isteği aynı biçimi izler yana, DCC istekleri gönderen gerekebilir filtre bazı sunucular özel hayatının "DCC izin" listesine alıcıyı ekleyin.)
+gönderen, sonra alıcının soketine bağlanan dosya içeriğini gönderir ve dosya bittiğinde soket kapatmak için alıcı için bekler.
+GÖNDER protokolüne DEVAM uzatma kullanıldığında, komut dizisi (giden bir başlatıcı tarafında mesajı ve eş tarafından '«' yanıtını belirten '»' ile) olur:
+Sonra da protokol devam eder normal (gönderen alıcının soketine bağlanır yani).
+Dosya sunucuları (FSERVs).
+Bir DCC "fserve" veya dosya sunucusu, bir kullanıcı göz atmak sağlar, okuma ve DCC sunucusunda bulunan dosyaları indirmek.
+Tipik olarak, bu (bir komut istemi ile kullanıcıya sunar) veya özel CTCP bir dosyayı istemek için komutları bir DCC CHAT oturumu ile uygulanmaktadır. Dosyaları DCC GÖNDER veya DCC XMIT Onay üzerinden gönderilir. Onları popüler mIRC istemci FSERV komut arasında DCC dosya sunucuları birçok uygulamaları vardır.

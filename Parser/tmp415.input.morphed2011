@@ -1,0 +1,80 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İnce	ince	+Adj
+İnce	İnce+Noun+Prop+A3sg+Pnon+Nom
+
+bağırsağın	bağırsak+Noun+A3sg+P2sg+Nom
+bağırsağın	bağırsak+Noun+A3sg+Pnon+Gen
+
+iç	iç+Noun+A3sg+Pnon+Nom
+iç	iç+Verb+Pos+Imp+A2sg
+iç	iç+Adj
+
+yüzeyindeki	yüzey+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+yüzeyindeki	yüzey+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+epitel	epitel	+Noun+A3sg+Pnon+Nom
+
+dokunun	dok	+Noun+A3sg+P3sg+Gen
+dokunun	dok	+Noun+A3sg+P2sg+Gen
+dokunun	doku	+Noun+A3sg+Pnon+Gen
+dokunun	doku	+Noun+A3sg+P2sg+Gen
+dokunun	doku	+Verb^DB+Verb+Pass+Pos+Imp+A2pl
+dokunun	dokun	+Verb+Pos+Imp+A2pl
+
+bağırsak	bağır+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A1pl
+bağırsak	bağır+Verb+Pos+Desr+A1pl
+bağırsak	bağırsak+Noun+A3sg+Pnon+Nom
+
+boşluğuna	boş+Adj^DB+Noun+Ness+A3sg+P3sg+Dat
+boşluğuna	boş+Adj^DB+Noun+Ness+A3sg+P2sg+Dat
+boşluğuna	boşluk+Noun+A3sg+P3sg+Dat
+boşluğuna	boşluk+Noun+A3sg+P2sg+Dat
+
+doğru	doğru+Noun+A3sg+Pnon+Nom
+doğru	doğru+Adj
+doğru	doğru+Postp+PCDat
+
+oluşturduğu	oluş+Verb^DB+Verb+Caus+Pos^DB+Adj+PastPart+P3sg
+oluşturduğu	oluş+Verb^DB+Verb+Caus+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+emilme	em	+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+emilme	em	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+yüzeyini	yüzey+Noun+A3sg+P2sg+Acc
+yüzeyini	yüzey+Noun+A3sg+P3sg+Acc
+
+genişleten	genişle+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+
+kıvrımlara	kıvrım+Noun+A3pl+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

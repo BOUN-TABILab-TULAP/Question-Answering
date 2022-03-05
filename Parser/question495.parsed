@@ -1,0 +1,12 @@
+1	Yazma	yazma	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT	_	_
+2	ve	ve	Conj	Conj	_	3	COORDINATION	_	_
+3	konuşma	konuşma	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	merkezi	merkez	Noun	Noun	A3sg|P3sg|Nom	5	OBJECT	_	_
+5	_	ol	Verb	Verb	Pos	6	DERIV	_	_
+6	olan	_	Adj	APresPart	_	7	MODIFIER	_	_
+7	beyin	beyin	Noun	Noun	A3sg|Pnon|Nom	10	SUBJECT	_	_
+8	lobu	lobu	Noun	Prop	A3sg|Pnon|Nom	10	SUBJECT	_	_
+9	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	10	DERIV	_	_
+10	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

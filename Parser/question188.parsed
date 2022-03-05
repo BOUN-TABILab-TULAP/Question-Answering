@@ -1,0 +1,8 @@
+1	Ganj	Ganj	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	nehri	nehir	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT	_	_
+3	nereden	nere	Pron	QuesP	A3sg|Pnon|Abl	6	ABLATIVE.ADJUNCT	_	_
+4	denize	deniz	Noun	Noun	A3sg|Pnon|Dat	6	DATIVE.ADJUNCT	_	_
+5	_	dök	Verb	Verb	_	6	DERIV	_	_
+6	dökülür	_	Verb	Verb	Pass|Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

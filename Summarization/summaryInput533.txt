@@ -1,0 +1,349 @@
+Question: Teori ve kanun arasındaki fark nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Student'in t dağılımı</DOCTITLE>
+<TEXT>
+
+Olasılık kuramı ve istatistik bilim dallarında t-dağılımı ya da Student'in t dağılımı genel olarak örneklem sayısı veya sayıları küçük ise ve anakütle normal dağılım gösterdiği varsayılırsa çıkartımsal istatistik uygulaması için çok kullanılan bir sürekli olasılık dağılımıdır. Çok popüler olarak tek bir anakütle ortalaması için güven aralığı veya hipotez sınaması ve iki anakütle ortalamasının arasındaki fark için güven aralığı veya hipotez sınamasında, yani çıkarımsal istatistik analizlerde, uygulama görmektedir. 
+t-dağılımının ortaya çıkarılması ilk defa 1908de Dublinde Guinness Bira Fabrikasında çalışan William Sealy Gosset tarafından yayımlanan bir makale ile olmuştur. Çalıştığı firma yazıya adının koyulmasını kabul etmeyince, bu yayının yazarı Student (öğrenci) olarak verilmişti. Sonradan "t"-sınamaları ve ilişkili teori R.A. Fisher tarafından geliştirilmiş ve bu dağılıma "Student'in t dağılımı" adı popularize edilmiştir.
+Çıkarımsal istatiksel çalışmalarda normal dağılımın yerine küçük orneklem bulunan problemler için kullanılmakla (ve bu nedenle normal dağılımın bir özel hali olarak yanlış intiba vermekle) beraber "Student'in t-dağılımı" teorik bakımdan genelleştirilmiş hiperbolik dağılımının bir özel halidir. 
+Farzedelim ki "X"1, ..., "X""n" istatistiksel olarak birbirlerinden bağımsız rassal değişkenlerdir ve beklenen değer μ ile dağılma σ değerleri ile normal dağılmaktadırlar.
+örneklem ortalaması ve
+Bu "Z" den, kesin standart sapma ifadesi olan formula_3 yerine bir rassal değişken olan formula_4 konulması suretiyle değişiklik gösterir. Teknik olarak :formula_5 
+Cochran'ın teoremine göre bir ki-kare dağılımı gösterir. Gosset yazısında "T"nin şu olasılık yoğunluk fonksiyonu gösterdiğini isbat atmiştir: 
+Burada ν, "n" - 1 ifadesine eşittir ve Γ bir Gamma fonksiyonudur.
+Bu ifade şöyle de yazılabilir:
+Burada "B" bir Beta fonksiyonudur. 
+Sonradan "T" dağılımı "t-"dağılımı olarak anılmaya başlanmıştır. ν parametresi 
+serbestlik derecesi olarak anılmaktadır. Dikkat edilirse t-dağılımı sadece ν parametresine dayanır ve (çıkarımsal istatistik analizi için bilinmeyen anakütle değerleri olan) μ veya σ t-dağılımı için parametre değildirler. İşte bu gerçek (yani μ ve σ nin parametre olmaması) hem teorik bakımdan ve daha belirgin olarak pratik çıkarımsal istatistik analizi bakımından, t-dağılımı istatistik bilimi için çok önemlidir. 
+t-dağılımının momentleri şunlardır:
+Bir diğer işlemle de 0 < "k" < ν terimi, "k" çift sayı ise, Gamma fonksiyonunun özellikleri kullanılarak daha basitleştirilebilinir:
+Daha ileri teori.
+Gosset'in sonuçlarının daha da genelleştirilmesi mümkündür. 
+Z, standart normal dağılıma ve V ise, formula_10 serbestlik derecesi ile ki-kare dağılımına sahip olsun, Z ve V bağımsız ise, Cochran'in teoremine göre, şu orantı
+ν serbestlik derecesi olan bir "t"-dağılımı olur.
+Serbestlik derecesi ν olan bir "t"-dağılımı için beklenen değer 0 dır ve varyans 
+Çarpıklık 0 olur ve basıklık eğer "ν" > 4 ise.
+olur. Yığmalı dağılım fonksiyonu bir tamamlanmamış beta fonkiyonu olup
+ifadesi ile verilir ve burada
+olur.
+"t"-dağılımı ile F-dağılımı ilişkisi şöyle açıklanabilir; "ν" serbestlik derecesi olan "t" için kare değeri serbestlik derecesi 1 ve "ν" olan bir F-dağılımıdır.
+"t"-dağılımının olasılık yoğunluk fonksiyonunu grafik şekli, ortalaması 0 ve varyansı 1 olan standart normal dağılımı grafik şekline benzerlik gösterir. Ancak t-dağılımı daha yaygındır ve biraz daha basıktır. Serbestlik derecesi büyüdükce, t-dağılımı standart normal dağılımına yaklaşım göstermektedir. Serbestlik derecesi 30 olduğu zaman t-dağılımı ve standart normal dağılım nerede ise aynı şekildedirler.
+Aşağıdaki gösterimler "ν" serbestlik derecesi artış gösterirse "t"-dağılımı yoğunluk fonksiyonunun nasıl değiştiğini gösterirler. Karşılaştırma sağlamak için normal dağılım mavi çizgi ile gösterilmiştir. "t"-dağılımını gösteren kırmızı çizginin "ν" değeri artıkça normal dağılıma yakınlaşma gösterdigi açıkca gözlenebilmektedir. Eğer "ν"=30 "t"-dağılımı hemen hemen normal dağılım ile aynı olmaktadır.
+Özel haller.
+Serbestlik derecesini "ν" için belli değerler özellikle basit olan bazı şekilleri verirler:
+ν = 1.
+Dağılım fonksiyonu şu olur:
+Yoğunluk fonksiyonu şudur:
+Yoğunluk fonksiyonu şudur:
+Student'in "t"-dağılımı kullanarak kestirim aralığı bulunması.
+Bir sayı olan "A" öyle şekilde seçilsin ki 
+Bu halde
+ifadesine aynen eşittir. Bunun için uç-noktaları
+olan açıklık μ için bir %90 güven aralığıdır. 
+Böylece eğer normal dağılım gösterdiğine epeyce emin olabilaceğimiz bir grup gözlem için ortalama değeri bulursak, "t"-dağılımını kullanarak bulunan ortalama için güvenlik limitlerinin (belki bir sıfır hipotez için tahmin edilmiş değerin) yahut daha önce teorik olarak tahmin edilmiş bir değerin, bu limitlerin arasında bulunup bulunmadığı araştırılabilir. 
+Bu sonuc Student'in t-testlerinde kullanılmaktadır. İki normal dağılımdan alınan örneklemlerin ortalamalarının farkı da normal dağılım gösterdiği için, anakütle ortalamalarının arasındaki farkın sıfıra eşit olduğuna dair bir sonuç çıkarmanın makul olup olmadığını incelemede kullanılabilir. 
+Eğer veriler normal olarak dağılım gösterirlerse, ortalama için tek taraflı bir (1-a)-üst güvenlik limiti (UGL), şu verilen denklemi kullanarak hesaplanabilir.
+Ortaya çıkarılan UGL değeri, bir verilmiş güvenlik aralığı ve anakütle büyüklüğü için ortaya çıkacak en büyük ortalama değeri olacaktır. Diğer bir terimle, formula_21 değeri bir grup gözlemler için bir ortalama olursa, bu dağılımın ortalamasının formula_22 değerinden daha düşük olmasının olasılığı güvenlik oranına (yani formula_23 ye) eşittir. 
+Uygun büyüklükteki örneklemler için t-dağılımlarının ilgili sıfır hipotezi için uygulanabileceği birkaç diğer istatistikler bulunmaktadır. Böylece "t"-dagılımı, yalnizca tek ortalama ve iki ortalama arasındaki fark problemleri için uygulanan sonuç verici istatistik için bir özel teknik olmadığı açıktır. Örneğin Spearman'ın sıralama korelasyon katsayısı için sıfır hipotez bu katsayının 0 olabileceği ise, bu sıfır korelasyon için, eğer örneklem büyüklüğü 20 civarında ise, yaklaşık olarak bir t-dağılımı kullanılabilir.
+Güçlü parametrik modelleme.
+"t"-dağılımı çok kere veri modeli kurmak için normal dağılıma bir alternatif olarak kullanılır. Çok kere pratik hayattan gelen gerçek veriler normal dağılımın kabul ettiğinden daha fazla ağırlıklı dağılım ("şişman-kuyruklu dağılım") gösterir. Bu halde klasik çözum yolu bu alışılanın çok dışında olan değerleri ("dışlak değerleri") teşhis edip bunların ağırlıklarını özel işlemlerle azaltmaya çaba göstermekle yapılmaktaydı. Ancak "dışlak" değerlerin teşhis edilmesi (özellikle yüksek boyut gösteren veriler arasında) hiç kolay olmamaktadır. Bu nedenle bu türlü verileri modellemek için doğasal seçim konusu olan ve güçlü istatistikler için bir parametrik yaklaşım sağlayan t-dağılımının alternatif olarak kullanılması tavsiye edilmektedir. 
+Lange ve işbirlikcileri (1989) çesitli kullanım alanlarında sisman kuyruklu veriler için güçlü modelleme içinde t-dağılımının kullanılması sorunu ayrıntılı olarak incelemişlerdir. Gelman ve işbirlikçilerinin (2003) yazısında bir Bayes-tipi yaklaşım gösterilmektedir. Serbestlik derecesi parametresi dağılımının basıklığını kontrol etmek için kullanılmakta ve bu ölçek parametresi ile korelasyon bağlantısı göstermektedir. Olabilirlilik çok sayıda yerel maksimum değerleri gösterdigi için, çok kere serbestlik derecesini ufak olan değerlerde sabitleştirmek ve bu sabit değer verilmiş gibi diğer parametreler için kestirimde bulunmak gerekmektedir. Bazı araştırıcılar bunun için en uygun değerlerin 3 ile 9 arasında olduğunu beyan etmişlerdir. Venebale ve Ripley (2002) ise 5 değerinin iyi bir seçim olacağını bildirmektedirler.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hidrolik benzetim</DOCTITLE>
+<TEXT>
+
+Elektrik, elektron hareketlerinin incelendiği, bu hareketlerin mekanik ve elektriksel etkilerinin ortaya koyulduğu bilim dalıdır. Yani elektriğin en küçük yapıtaşı olarak elektronlar söylenebilir. Elektrik hesaplamaları yapılırken, elektronların hareketleri tek tek incelenemeyeceğinden benzetim yapılabilecek en önemli bilim dalı hidroliktir. Hidrolik, sıvıların mekanik özelliklerini inceleyen bir mühendislik ve bilim dalıdır. Elektrik ile hidrolik arasındaki benzetim yöntemi hesaplama ve elektriğin gözde canlanması açısından oldukça faydalıdır. Alttaki tablo, elektrik ve hidrolik bilimleri arasındaki benzetimleri sunar.
+Tek yönlü sıvı akışı.
+DC kaynak, "genliği ve yönü değişmeyen elektrik enerjisi" olarak tanımlanabilir. Bir DC kaynaktan çıkan elektronların yerlerinden ayrılma basınçları, hızları ve çıkış yönleri değişmez çünkü gerilim ve kaynağın pozitif ucu her zaman sabittir. Bu bilgiler Hidrolikte uygulanırsa DC kaynak, içinden geçen sıvının basıncının, hızının ve yönünün hiç değişmediği sıvı pompasına benzetilebilir.
+Basınç farkı, bir tanka giren sıvı basıncıyla çıkan sıvı basıncı arasındaki fark olarak bulunur. Uçları arasına "P" sıvı basıncı uygulanan bir sıvı tankının çıkış borusunun kapalı olduğu, dolayısıyla çıkış basıncının olmadığı varsayılıp giriş borusundaki sıvı basıncı "P" olarak verilebilir. Bu benzetim yandaki animasyonda verilmiştir.
+Uçları arasında sıvı basınç farkı olan tankın içinde sıvı birikmesi başlar. İlk anda tank boş olduğundan, pompadan gelen sıvı basıncının önünde bir engel yoktur ve sıvı akış hızı en büyük halindedir. Tank dolmaya başladıkça biriken sıvı, ağırlığı dolayısıyla pompaya ters yönde ve zamanla artan bir basınç uygular, net basınç pompa sıvı basıncı ile tankta biriken sıvı basıncı arasındaki fark olduğundan ve basınç farkı zamanla azalır. Basınç farkının azalması, tanka sıvı giriş hızının azalması anlamı da taşıdığından tankın sıvıyla dolma hızı gittikçe yavaşlar. 
+1. Tank dolu ve pompa basıncı sıvı basıncından büyüktür...
+2. Tank dolu, pompa basıncı ile sıvı basıncı eşit, ancak sıvı miktarı az...
+3. Pompa basıncı ile sıvı basıncı eşit, ancak sıvı tankı tamamen dolmadı...
+Çift yönlü sıvı akışı.
+AC kaynak, "genliği ve yönü belli bir frekansa göre zamanla değişen elektrik enerjisi" olarak tanımlanır. Elektron hareketleri sürekli değişim gösterir, kaynaktan ayrılan elektronlar bir periyodun yarısında bir yöne doğru ilerlerken diğer yarısında zıt yöne ilerlerler. Elektron kopuş hızı ve basınçlarının bir maksimum ve minimum değeri vardır ve değişim gösterir. "Yani", kaynağın pozitif ve negatif ucu sürekli yer değiştirir. Gerilim kaynağının hidrolikteki eşdeğeri olan pompaya AC kaynak özelliği kazandırılması, sıvı akış yönü, hızı ve basıncının belli bir frekansa göre değiştirilmesiyle sağlanır.
+Kondansatör eşdeğeri olan sıvı tankına bağlanmış bir pompadan, periyodun bir yarısında tanka sıvı verildiği diğer yarısında tanktan sıvı çekildiği, basınç değişiminin de sinüsoidal şekilde olduğu benzetimi ile AC kaynağa bağlanmış bir kondansatör gözde daha kolay canlanır.
+Tek yönlü sıvı akışının uygulandığı bir sıvı tankı, bir süre sonra basınç eşitliğini sağlar ve sıvı akışına engel olur. Ancak sıvı akış yönünün değiştiği sistemlerde sıvı tankı sürekli dolup boşalma hareketi yapar, sıvı akışı durmaz ancak sıvı akışına karşı bir direnç oluşur. Bu direncin bağlı olduğu büyüklükler şöyle sıralanabilir.
+formula_1
+Üstteki formülasyon bir sıvı tankının basıncı sinüsoidal şekilde değişen pompadan sıvı girişine gösterdiği direncin nelere bağlı olduğunu ifade eder. Hidrolikteki eşdeğerleriyle yer değiştirdiğinde ise kondansatörün AC kaynakta elektron ve akım akışına gösterdiği direnç elde edilir. Formülasyonlar arasındaki tek fark olan formula_2 çarpanı, kondansatörün AC direnci ifadesinde açısal frekansın kullanılmasından kaynaklanır. Kapasite değeri ve çalışma frekansının artması kondansatör direncinin düşmesine neden olur.
+Sıvı pompası basıncının sinüsoidal şekilde olması, bir periyotun yarısında tanka sıvı gönderip diğer yarısında sıvı çektiği anlamına gelir. Sıvı gönderme sürecinin sonlarına doğru sinüsoidal grafikten kaynaklanan nedenle, sıvı tanka doğru itilmesine karşın pompa basıncı oldukça düşer ve sıfıra yaklaşır. Ancak tankta birikmiş sıvının basıncı pompa basıncından büyük hale gelir ve basınç farkı "pompa sıvıyı tanka doğru itmesine karşın negatif çıkar". Yani, pompa basıncı tanka doğrudur ancak sıvı akışı tanktan dışarıya doğru gerçekleşir, dolayısıyla "sıvı akışı faz olarak pompa basıncından ileridedir." Kondansatör benzetiminde eşdeğer büyüklükler kullanılırsa "akım fazörü gerilim fazöründen ileridedir" denilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ohm kanunu</DOCTITLE>
+<TEXT>
+
+Bir elektrik devresinde iki nokta arasındaki iletken üzerinden geçen akım, potansiyel farkla (örn. voltaj veya gerilim düşümü) doğru; iki nokta arasındaki dirençle ters orantılıdır.
+Burada, "I" akım amper, "V" referans alınan iki nokta arasındaki potansiyel fark volt ve "R" ohmla ölçülen ve direnç olarak adlandırılan devre değişkeni (volt/amper)dir. Potansiyel fark gerilim olarakta bilinir ve bazen "V" nin yerine "U", "E" veya emk (elektromotor kuvvet) sembolleri kullanılır. 
+Bu kanun basit elektriksel devrelerdeki telden geçen akım ve gerilim miktarını açıklar. 
+Yukarıdaki Ohm kanunu elektrik/elektronik mühendisliği alanında aşırı derecede kullanılan bir eşitliktir. Çünkü gerilim, akım ve direncin birbirleriyle olan ilişkisini makroskopik seviyede inceler. Bu elemanlar çoğunlukla bir elektrik devresinde bulunur.
+Basit tanımlama ve kullanımı.
+Elektriksel aygıtları içeren elektrik devreleri birbirlerine iletkenlerle bağlanır.(Basit kombinasyonlar için elektriksel devreler maddesine bakın.) Yukarıdaki diyagram yapılabilen en basit elektrik devrelerinden biridir. Batarya gibi bir elektriksel aygıt içinde + ve - terminalleri bulunan bir çemberle gösterilir. Diğer aygıt zig-zag şeklinde resmedilir ve arkasına R harfi konur ve direnç olarak adlandırılır. Gerilim kaynağının + veya pozitif ucu direnci önemsenmeyen bir iletkenle direnç uclarının birine bağlanmıştır. Bu iletkenden geçen akım I ve ok işareti akımın yönünü gösterir. Direncin ikinci ucu başka bir iletkenle voltaj kaynağının - ucuna bağlanır. Bu form kapalı devredir. Çünkü gerilim kaynağının bir ucundan çıkan akım diğer ucuna dönmüştür.
+Gerilim negatif yüklü elektronların iletken boyunca hareket ettiği bir elektriksel kuvvettir. Akım elektron akışına ters yönde akar ve direnç akıma karşı gösterilen zorluktur. 
+Ohm Kanununda bahsedilen 'iletken' üzerinde gerilimin ölçüldüğü bir devre elemanıdır. Dirençler elektrik şarjının üzerinden yavaçca aktığı iletkenlerdir. 10 megaohmluk bir dirençe sahip olan bir iletken 0,1 ohmluk bir dirence sahip olan iletkene göre daha zayıf bir iletkendir ve iyi iletken sayılmaz. (Yalıtkan maddelere bir gerilim uygulandığında akımın geçmesine izin vermezler.)
+Fizik.
+Fizikçiler Ohm kanununun şu formunu sık kullanır:
+Burada J akım yoğunluğu, (akım/birim alan, Ohm kanunundaki I akımına benzemez), σ öziletkenlik (anisotropik maddelerde Tensör olabilir) ve E elektrik alanı (volt/metre, Ohm kanunundaki V birimine benzemez) dır. Yukarıdaki ifade üç boyutlu herbir vektörün kullanılan biçimlerden biri değildir. (Normalde aşağıdaki örnekte görüleceği şekildedir. Bazen noktanın anlamı skaler çarpımdır. Buradaki nokta sadece basitce kullandığımız matematiksel çarpım anlamındadır.) Buradaki J de görüldüğü gibi kullanılan kartezyen koordinatları, vektördeki herbir bileşen için üç farklı bileşen vardır, Her bileşeninde üç farklı değeri vardır. Örneğin, J ögesinin x, y ve z yönlerinde Jx(x,y,z), Jy(x,y,z) ve Jz(x,y,z) gibi bileşenleri vardır.
+Devre tasarımında kullanılan form makroskopiktir, Ohm2un genel formu yaklaşık olarak şu şekilde elde edilir:
+Belirlenen iki nokta arasındaki potansiyel fark;
+veya elektriksel alan bağımsız yoldadır , formula_4 burada L referans noktalar arasındaki uzaklık.
+formula_5 olduğunda Ohm kanunu şöyle olur:
+Eğer madde B manyetik alannında v hızıyla hareket ediyorsa forma şu ifadeye şu eklenmelidir
+Mükemmel metal kafesde öziletkenlik yoktur, fakat gerçek bir metalde kristalografik kusurlar, kirlilikler, çoklu izotoplar ve atomların ısısal hareketler gibi etkiler vardır. Bunlar elektronların saçılmasına sebep olarak dirente değişiklik oluştururlar.
+Ohm kanunu Kirçoh gerilim kanunu (KVL) ve Kirşof akım kanunu (KCL) nu elde etmek için yeterlidir. İlk eşitliğin sadece sağ tarafına bakarsak:
+ve kapalı integral uygularsak:
+Yüzey boyunca Stokes teoremini yazabiliriz:
+fakat "E" potansiyeli yönsüz olarak kabul edecez:
+her iki tarafa yine kapalı integrali uygularsak:
+Maxwell denklemlerinden formula_17:
+daha önceki eşitliklerden sağ tarafın sıfır olduğunu biliyoruz:
+bu açık yüzeydeki net akımın sıfır olduğunu gösteriyor.
+Elektrik ve elektronik mühendisliğinde kullanımı.
+Ohm kanunu elektrik devrelerinin analizinde kullanılan bir eşitliktir, mühendisler ve bilgisayarcılar tarafından da kullanılır. bugün bile iş yoğunluğunu azaltmak için elektrik devrelerin analizinde bilgisayarlarda kullanılıyor. 
+Hemen hemen bütün devrelerde dirençli elemanlar vardır ki bunların hemen hemen hepsinde ideal omik devreler dikkate alınır.
+Hidrolik analog.
+Gerilim, akım ve direnç değerleri soyut kavramlardır,Başlangıçta elektrik mühendisliği öğrencileri su akışı için yardımcı analog terimler buldular. Su basıncı, pascal ile ölçülür ve, analog gerilimdir. Çünkü su akışını (yatay) olarak sağlayan borunun iki nokta arasındaki su basınç farkı hesaplanıyor Suyun akışı litre (veya galon) dakikadaki su miktarıdır. coulomb/saniye gibi analog bir akımdır.
+Şerit direnci.
+Genellikle yalıtılmış tabakalara yerleştirilen ince metal şeritler elektrik akımını filmin yüzeyine paralel olarak taşınmak için kullanılır. Çoğu aygıtın elektriksel hassasiyetini açıklamak için ohm/birim kare terimi kullanılır. Şerit direnci maddesine bakın.
+Sıcaklık etkileri.
+İletkenin sıcaklığı yükseldiğinde elektron ve atomlar arasındaki çarpışmalar da artar. Bu bir maddeyi ısıtmak gibidir Elektriksel akış artacağından dolayı direnç de artacak. Yarı iletkenler istisnadır. Ohmik bir maddenin direnci sıcaklığa bağlıdır:
+Bu sıcaklıktan bağımsızlık omik olmayan maddeler için geçerli değildir, çünkü verilen sıcaklıkta, akım ve gerilimle değişmez
+AC devreler.
+Bir AC devresi içim Ohm kanunu şöyle yazılabilir formula_21, Burada V ve I sırasıyla gerilim ve akımın titreşim faz ve Z salınım frekansının kompleks empedansı. Bir iletim hattında yukarıdaki Ohm kanununu fazör formu yansımadan dolayı geçersizdir. Kayıpsız bir iletim hattında, gerilim ve akım oranı aşağıdaki karmaşık yapıdadır
+Burada "d" yük empedansından farklıdır formula_23 dalga boyu, β hattın dalgasayısı ve formula_24 hattın karakteristik empedansıdır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hollandaca</DOCTITLE>
+<TEXT>
+
+Hollandaca, Felemenkçenin Hollanda'da konuşulan lehçesi.
+Hollandaca, Belçika'nın Flaman (Vlaanderen, Vlaams Gewest) bölgesi ile Hollanda'nın güneyinde konuşulan Flamancaya çok benzer. Arasındaki fark İngiliz İngilizcesi ile ABD İngilizcesi arasındaki fark kadardır.
+Çeşitli lehçeleri bulunmakta olup Almancanın Plattdeutsch lehçesine ve ayrıca Frizceye benzemektedir.
+Hollandaca, Hollanda dışında sömürgelerinde (St. Martin, Surinam, Aruba, Guyana, Hollanda Antilleri, Virgin Adaları) kullanılmaktadır. Tarihteki en büyük Hollanda sömürgesi olan Endonezya'da da yaygınlığını sürdürmekte olup yerel diller üzerinde büyük tesiri olmuştur.
+Son olarak 17. yüzyıldan itibaren Güney Afrika'ya göçmüş olan Hollanda asıllı Güney Afrikalılar (Boerler), Hollandacanın ana dile mesafe, coğrafi ayrılık ve kopukluklar nedeniyle farklılaşmış bir lehçesi olan (Afrikaner) konuşmaktadır.
+Dünyada yaklaşık 24 milyon insanın ana dil olarak Hollandaca konuştuğu tahmin edilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Duygusal zekâ</DOCTITLE>
+<TEXT>
+
+Duygusal zeka veya yaygın İngilizce ifade edilişiyle EQ ("Emotional Quotient"), bir insanın kendisine veya başkalarına ait duyguları anlama, sezinleme, yönetme ve yönlendirme yetisi, kapasitesi ve becerisinin ölçümünü tanımlamaktadır. Göreceli olarak yeni bir kavram olan duygusal zeka'nın tanımlanışı sürekli değişmekte ve güncellenmektedir. Bazı psikologlar, "duygusal zeka" ve "duygusal bilgi" olmak üzere iki ayrı terimin kullanılmasını tercih etmektedirler.
+Zihinsel yeteneklerin ölçümünde (bkz. IQ), bilgi ve zeka arasındaki fark oldukça açıktır. Psikolojik araştırmaların ışığında zeka seviyesi ölçümü veya IQ testleri, zihinsel biliş kapasitesinin değerlendirilmesinde güvenilir bir ölçüttür ve zaman içinde sabit kalır. Duygusal zeka veya EQ'nun ölçümünde ise duygusal bilgi veya tecrübe ile zeka arasındaki fark oldukça belirsizdir. Bu nedenlerle güncel EQ tanımlamaları uzmanların aralarında uzlaşamadıkları bir konudur. Bazı uzmanlar (Bradberry ve Greaves 2005) EQ'nun değişken, zamanla kazanılabilen ve artabilen bir yeti olduğunu iddia ederlerken; diğerleri (örneğin Mayer) EQ'nun sabit olduğunu ve artırılamayacağını öne sürmektedirler.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fizik</DOCTITLE>
+<TEXT>
+
+Fizik (Eski Yunanca: φύσις "fisis" “doğa”) maddeyi, maddenin uzay-zamanda hareketini enerji ve kuvveti de kapsamak üzere bütün ilgili kavramlarla birlikte inceleyen doğa bilimidir. Daha genel olarak, evren ile ilgili nasılları cevaplamak için doğanın genel bir analizidir.
+Fizik en eski akademik disiplinlerden biridir, astronomiyi kapsadığı için ilki de denebilir. 16. yüzyıldan bu yana kendi sınırlarını çizmiş modern bir bilim olmasına karşın, Bilimsel Devrim'den önce iki bin sene boyunca felsefe, kimya, matematik ve biyolojinin belli branşları ile eş anlamlı olarak kullanılmıştır. Buna karşın, matematiksel fizik ve kuantum kimyası gibi alanlardan dolayı fiziğin sınırlarını net olarak belirlemek güçtür.
+Fizik, diğer disiplinleri etkilemesi bakımından da önemlidir. Bunun nedeni kısmi olarak ondaki gelişmelerin genellikle teknolojiye uygulanmasıyken, fizikteki yeni fikirlerin matematik ve felsefe gibi diğer disiplinleri etkilemesinin katkısı da büyüktür. Örneğin, elektromanyetik ve nükleer fizikteki yenilikler günümüz toplumunun gelişmesinde önemli yer tutan televizyon, bilgisayar, elektrikli ev eşyaları, nükleer silahlar gibi ürünlerin, termodinamikteki yenilikler motorlu taşımanın, mekanikteki yenilikler kalkülüsün gelişmesine neden olmuştur.
+Kapsam ve amaçları.
+Fizik kuarklar, nötrinolar ve elektronlar gibi temel parçacıklardan galaksi süperkümelerine kadar çok geniş bir yelpazede birçok fenomeni inceler. Diğer her şeyin kendilerinden oluştuğu bu fenomenleri incelemesi itibarıyla fizik zaman zaman “temel bilim” olarak da anılır. Fizik doğadaki çeşit çeşit fenomeni daha basit fenomenlerle açıklamaya çalışır. Böylece fizik hem gözlemlenebilir şeyleri temel nedenlere indirgemeye hem de bu temel nedenleri birbirleriyle ilişkilendirmeye çalışır.
+Örnek olarak, Antik Çin'de insanlar mıknatıs taşlarının birbirini görünmez bir kuvvet ile çektiğini gözlemledi. Bu etki sonradan manyetizma olarak isimlendirildi ve esaslı olarak ilk kez 17. yüzyılda incelendi. Çinlilerden kısa bir zaman önce Yunanlılar da aynı görünmez kuvvetin amber gibi bazı cisimlerin hayvan postuna sürtüldüğünde ortaya çıktığını keşfettiler. Bu ise ilk kez gene 17. yüzyılda araştırıldı ve elektrik olarak isimlendirildi. Böylece fizik doğadaki gözlemleri iki temel nedene indirgemiş oldu. Bunun üzerine, 19. yüzyılda bu iki kuvvetin aslında tek bir kuvvetin, elektromanyetik kuvvetin, iki farklı görünümü olduğu keşfedildi. Bu “birleştirme” süreci günümüzde de devam etmektedir; bugün elektromanyetizma ve zayıf nükleer çekimin, bunlardan daha temel olan elektrozayıf etkileşimin iki farklı görünümü olduğu düşünülmektedir. Fizik doğanın neden bu şekilde olduğuna dair nihai bir neden (Her Şeyin Teorisi) bulma yoluna devam ediyor.
+Bilimsel metod.
+Fiziksel teorilerin geçerliliği bilimsel metod ile test edilir. Araştırılan teorinin sonuçları teoriyi test etmek için uygulanan deney verileriyle karşılaştırılır; deney ve gözlemlerden elde edilen bilgiler toplanır ve teorinin tahmin ve öngörüleriyle kıyaslanır, buna göre teorinin geçerli olup olmadığına karar verilir.
+Deneysel verilerle çok iyi derecede örtüşen ve hiç yalanlanmamış teoriler sıklıkla bilimsel yasa ya da doğa yasası olarak adlandırılır. Tabii ki, bilimsel yasalar da dahil olmak üzere bütün teoriler deneylerle herhangi bir ters düşme söz konusu olduğunda daha tutarlı ve genel teorilerle değiştirilip düzeltilebilir.
+Teori ve deney.
+Teorisyenler var olan deneylerle uyuşan ve gelecek deneylerle sınanabilecek matematiksel modeller üretmeye çalışırken deneyciler teorik öngörüleri test etmek ve yeni fenomenler gözlemlemek için deney yaparlar. Teori ve deneyler birbirinden ayrı olarak geliştirilse de birbirlerine kuvvetli bir bağlılıkları vardır. Fizikteki gelişmeler sıklıkla ya deneyciler halihazırdaki teorilerin açıklayamadığı bir deney yaptıklarında ya da teorisyenler yeni deneylerin yapılmasına ışık tutan, deneylerle test edilebilir yeni öngörüler öne sürdüklerinde meydana gelir.
+Teorisyenlik ve deneycilik arasında gidip gelen fizikçiler fenomenolog olarak isimlendirilir. Fenomenologlar deneylerde gözlemlenen kompleks fenomenlere bakıp onları temel teorilerle ilişkilendirir.
+Teorik fizik tarihsel olarak felsefeden ilham alagelmiştir, elektromanyetik teori bu yolla bütünleştirilmiştir. Bilinen evrenin ötesinde, fiziğin teorik sahasına dahil olan varsayımlar da vardır; örneğin paralel evrenler, multiverse, ileri boyutlar. Teorisyenler bu fikirleri halihazırdaki teorilerle bazı belli problemleri çözmek için öne sürerler. Böylece bu fikirlerin sonuçları deneylerle kıyaslanabilecek biçimde ortaya konur ve test edilebilecek öngörüler ortaya atılır.
+Deneysel fizikçiler mühendislik ve teknoloji dallarına bilgi verdiği gibi bu dallardan bilgi de alır. Temel araştırma ile ilgilenenler parçacık hızlandırıcıları ve lazer gibi ekipmanlar dizayn edip kullanırken uygulamalı araştırma yapanlar genellikle endüstride çalışır ve manyetik resonans görüntüleme (MRG) ve transistör vb. teknolojilerin gelişiminde rol alırlar. Feynman'a göre, deneycilerin teorisyenler tarafından hiç araştırılmamış yerlere de yönelebilir.
+Matematik ve diğer bilimlerle ilişkisi.
+"Assayer"'de (1622), Galileo, matematiğin doğanın kendi yasalarını belirttiği dil olduğunu söyler. Fizikteki çoğu deneysel sonuç numerik ölçümler şeklinde gelir ve teoriler bu matematiksel sonuçları karşılamak için matematiksel formda olurlar.
+Fizik yasaların keskin olarak formülize edilebileceği mantıksal çerçeveyi sağlamak ve öngörüleri sayısal olarak ortaya koymak için matematiği kullanır. Analitik çözümlerin bulunamadığı durumlarda sayısal analiz yapılır ve simülasyonlar kullanılabilir.
+Fizik ile matematik arasındaki temel fark fiziğin nihai olarak materyal gerçekliğin açıklanmasıyla ilgileniyor olduğudur. Fizik teorilerin öngörülerini deney ve gözlem sonuçlarıyla karşılaştırmak suretiyle ilerler, öte yandan matematik dünyada gözlemlenebilecek şeylerin ötesinde, soyut kalıplarla ilgilenir. Buna rağmen ikisinin arasındaki fark çok kesin sınırlarla çizili değildir. Fizik ile matematik arasında kalan geniş bir araştırma sahası vardır; matematiksel fizik.
+Fizik öz itibarıyla diğer birçok bilim ile iç içedir, uygulamalı alanlarının mühendislik ve medikal bilimlerle iç içe olduğu gibi. Fiziğin prensipleri diğer doğa bilimlerinde de kendini gösterir, özellikle her türlü materyal sistem için geçerli olan enerjinin korunumu yasası gibi. Süperiletkenlik gibi bazı diğer fenomenler ise bu temel yasalardan türetilirler ve kendileri temel yasa değildir çünkü sadece belli başlı bazı sistemlerde kendilerini gösterirler.
+Fiziğin (bazen kimyayı da içerecek biçimde) genellikle “temel bilim” olarak anılıyor oluşu diğer tüm disiplinlerin (biyoloji, kimya, jeoloji, malzeme bilimi, mühendislik, medikal bilimler) temel fizik yasalarına uyan belirli materyal sistemlerle ilgileniyor olduğundandır. Örneğin kimya madde kümelerinin (atom ve moleküllerden oluşan gaz ve sıvılar gibi) ve kimyasal maddelerin değişiminden kaynaklanan, kimyasal reaksiyon denilen süreçlerin incelenişidir. Kimyasal bileşenlerin yapısı, aktivitesi ve özellikleri onları oluşturan moleküllerin özelliklerinden çıkartılabilir. Bu temel özellikler kuantum mekaniği, kuantum kimyası, termodinamik ve elektromanyetizma gibi fiziğin alanlarıyla tanımlanır.
+Felsefi îmalar.
+Fizik felsefi köklerini Antik Yunan felsefesinden alır. Tales'in maddeyi ilk kez karakterize etmesinden Demokritus'un doğayı bölünemez atomlara indirgemesine, the Ptolemaic astronomy of a crystalline firmament ve Aristo'nun Fizik'ine kadar farklı Yunan filozofları kendi doğa felsefelerini geliştirmişlerdir. 18. yy a kadar fizik doğa felsefesi olarak biliniyordu.
+19. yüzyıl itibarıyla fizik diğer bilimlerden ve felsefeden pozitif bir bilim olarak ayrılmıştır. Diğer bütün bilimler gibi fizik de bilimsel metodunun yeterli bir tanımı için bilim felsefesine dayanır. Bilimsel metod a priori ve a posteriori gerekçelendirmeleri, verilmiş bir teorinin geçerliliğinin Bayesian inference ile belirlenmesini içerir.
+Fiziğin gelişimi eski filozofların birçok sorusunu cevapladığı gibi ortaya yeni sorular da çıkarmıştır. Fiziği çevreleyen felsefi meseleler, fizik felsefesi, uzay ve zamanın doğası, determinizm, ve empirizm, natüralizm ve realizm gibi metafiziksel görüşlerle ilgilenir.
+Determinizm savunucusu Laplace ve kuantum mekaniğinin kurucularından Schrödinger gibi birçok fizikçi çalışmalarının gerisindeki felsefi görüşler üzerinde de yazmışlardır. Stephen Hawking matematiksel fizikçi Roger Penrose'u The Road to Reality (Gerçeğe Giden Yol) kitabından dolayı Platonist olmakla itham etmiştir. Hawking aynı zamanda kendisini de “utanmaz bir indirgemeci” olarak tanımlamış ve Penrose'la aynı felsefi konular üzerinde yazmıştır.
+Tarih.
+Antik çağlardan bu yana insanlar doğanın nasıl davrandığını anlamaya çalıştılar. En büyük gizemlerden biri Güneş ve Ay gibi gök cisimlerinin hareketiydi. Çoğunluğunun yanlışlığı kanıtlanan teoriler ortaya atıldı.
+Her olayın doğanın içinde bir nedeni olduğunu savunan filozof Tales (yaklaşık MÖ 624-546) doğal olayları açıklamak için kullanılan doğaüstü, mitolojik ve dinsel açıklamaları reddeden ilk kişi oldu. İlk fiziksel teoriler felsefi terminolojiyle anlatılıyordu ve bu yüzden sistematik deneysel test uygulamak mümkün değildi. Ptolemy ve Aristo'nun birçok çalışması gündelik gözlemlerle de örtüşüyor değildir.
+Buna rağmen birçok antik filozof ve astronomun yaptığı öngörüler doğrudur. Leucippus (MÖ 5. yüzyılın ilk yarısı) atomizmi kurdu ve Arşimet mekanik, statik ve hidrostatik alanlarında suyun kaldırma kuvvetini de içeren birçok sayısal betimlemede bulundu. Orta Çağ, Müslüman fizikçilerle (en tanınmışı Alhazen'dir) birlikte deneysel fiziğin doğuşuna tanıklık etti; bunu erken dönem modern Avrupa fizikçilerinin (en tanınmışı Galileo Galilei ve Johannes Kepler'in çalışmalarının üzerinde klasik mekaniği inşa eden Isaac Newton'dur) modern fiziği şekillendirmeleri takip etti. 20. yüzyılda Albert Einstein'ın çalışmaları fiziğe günümüze değin süren biçimini kazandırmıştır.
+Temel teoriler.
+Fizik çok geniş bir yelpazeye sahip olsa da bazı temel teoriler bütün fizikçiler tarafından kullanılmaktadır. Bu teoriler deneylerle defalarca test edilip doğru bulunmuştur ve şu an kesin bir geçerlilikle doğanın doğru bir modeli olarak kabul edilmektedir. Örneğin klasik mekanik nesnelerin hareketini nesneler atomik boyutların oldukça üstünde olduğunda ve hareketin hızı ışık hızın oldukça altındaysa doğru ve tutarlı bir biçimde açıklayıp tahmin edebilmektedir. Bu teoriler aktif çalışma sahalarına dahil olmaya devam etmektedir. Klasik mekaniğin önemli bir dalı olan kaos 20. yüzyılda, klasik mekaniğin Isaac Newton tarafından ilk kez formülize edilmesinden yaklaşık üç asır sonra keşfedilmiştir.
+Bu merkezi teoriler daha spesifik konuları anlamak ve araştırmak için temel olmuşlardır ve uzmanlık alanı önemli olmaksızın her fizikçinin bu teoriler hakkında bilgisinin olması beklenir. Bu teoriler klasik mekanik, kuantum mekaniği, termodinamik ve istatistiksel mekanik, elektromanyetizma ve özel göreliliktir.
+Araştırma alanları.
+Günümüzdeki araştırma alanları kabaca katı hal fiziği, atomik, moleküler ve optik fizik, parçacık fiziği, astrofizik, jeofizik ve biyofizik olarak sıralanabilir. Bazı fizik bölümlerinde fizik eğitimi alanında da araştırmalar yapılmaktadır.
+20. yüzyıldan bu yana fiziğin spesifik alanları oldukça özelleşmiştir ve çoğu fizikçi kariyeri boyunca sadece tek bir alanla ilgilenir olmuştur. Albert Einstein ve (1879-1955) ve Lev Landau (1908-1968) gibi fiziğin birden çok alanıyla ilgilenenler günümüzde çok az sayıdadır.
+Fiziğin temel alanları, onlara bağlı alt branşlar ve teoriler
+Yoğun madde fiziği.
+Fiziğin maddenin makroskopik özellikleriyle uğraşan dalıdır. Bir sistemi oluşturan parçacık sayısı çok fazla ve bu parçacıklar arasındaki etkileşim kuvvetli olduğunda ortaya çıkan fazlarla ilgilenir.
+Bu fazlardan en bilindik olanları atomların aralarında elektromanyetik kuvvetten doğan bağlarla birbirine bağlandığı, maddenin katı ve sıvı halleridir. Daha ilginç fazlara örnek olarak süperakışkanlık ve Bose-Einstein yoğuşması olarak adlandırılan, çok düşük ısılarda ortaya çıkan durumlar, serbest elektronların özelliklerinden kaynaklı olarak bazı materyallerde meydana gelen süperiletkenlik, atomik latislerde görülen ferromagnetik ve antiferromagnetik fazlar verilebilir.
+Yoğun madde fiziği günümüzde çağdaş fiziğin en geniş araştırma sahasıdır. Tarihsel olarak, şimdi yoğun madde fiziğinin bir dalı olarak kabul edilen katı hal fiziğinden türemiştir. "Yoğun madde fiziği" ismi ilk kez Philip Anderson tarafından çalışma grubunu yeniden isimlendirdiğinde (1967) kullanılmıştır. Kimya, malzeme bilimi, nanoteknoloji ve mühendislik dallarıyla ortak konulara da sahiptir.
+Atomik, moleküler ve optik fizik.
+Atomik, moleküler ve optik fizik (AMO) bir ya da birkaç atomdan oluşan yapılar düzeyinde madde-madde ve madde-ışık etkileşimini inceler. Üç alan birbirleriyle karşılıklı ilişkileri, kullandıkları metodların benzerliği, enerji düzeylerinin ortaklığı sebebiyle tek bir isim altında toplanmıştır. Üç alan da hem klasik hem kuantum uygulamalarını içerir, makroskopik analizin tersine etkileşimlere mikroskopik analiz ile de yaklaşabilirler.
+Atomik fizik atomlardaki elektron kabuklarıyla ilgilenir. Günümüzde atom ve iyonların kuantum kontrolü, soğutması ve çarpıştırılmasına, zayıf etkileşimli gazların (Bose-Einstein yoğuşması ve seyreltik Fermi dejenere sistemleri gibi) kolektif davranışlarına, fiziğin temel sabitlerinin yüksek duyarlılıkla ölçülmesine ve yapı ve dinamik üzerinde elektron korelasyonunun etkisine odaklanılmıştır. Atomik fizik çekirdek fiziği tarafından etkilenir fakat çekirdekler arası fizyon ve füsyon etkileşimleri yüksek enerji fiziğinin alanına dahildir.
+Moleküler fizik çoklu-atom yapılarıyla ve bu yapıların madde-ışık bağlamında iç ve dış etkileşimleriyle ilgilenir. Optik fizik optikten farklı bir disiplindir, optik makroskopik objeler ve klasik ışık alanlarının kontrolüyle ilgilenirken optik fizik optik alanların temel özellikleri ve mikroskopik düzeyde madde ile etkileşimini inceler.
+Yüksek enerji/parçacık fiziği.
+Parçacık fiziğinin konusu madde enerjinin temel yapıtaşlarının ve aralarındaki etkileşimin incelenmesidir. “Yüksek enerji fiziği” olarak da adlandırılır. Bunun nedeni birçok temel parçacığın doğal olarak oluşmaması ve diğer parçacıkların yüksek enerji ile çarpıştırılması sonucu ortaya çıkmasıdır. Bu çarpıştırmalar parçacık hızlandırıcılarlada yapılabilirler.
+Astrofizik.
+Astrofizik ve astronomi fiziğin teori ve metotlarının yıldız yapıları ve evrimleri, güneş sisteminin temeli ve ilgili kozmolojik problemlerin aydınlatılması için kullanılmasıdır. Astrofizik geniş bir konu olduğundan mekanik, elektromanyetizma ve istatistiksel mekanik, termodinamik, kuantum mekaniği, görelilik, çekirdek ve parçacık fiziği, atomik ve moleküler fizik gibi fiziğin birçok alanından beslenir.
+Karl Jansky'nin 1931'de gök cisimleri tarafından yayılan radyo sinyallerini keşfetmesi radyo astronomisinin kurulmasıyla sonuçlanmıştır. Astronominin öncüleri günümüzde uzayın keşfiyle ilgilenmekteler. Dünya atmosferinde meydana gelen pertürbasyon ve girişim fenomenleri uzay temelli gözlemleri kızılötesi, morötesi, gamma-ışını ve X-ışını astronomisi isin gerekli kılmıştır.
+Fiziksel kozmoloji evrenin en büyük ölçeklerde nasıl oluştuğunun ve geliştiğinin incelenmesidir. Albert Einstein'ın görelilik teorisi bütün modern kozmolojik teorilerde baş rolü oynar. 20. yüzyılın başlarında Hubble'ın uzayın genişlediğini keşfetmesi (Hubble diyagramıyla gösterilmiştir) durağan evren modeli ve Big Bang kuramları açısından çok önemli bir yer tutmuştur.
+Big Bang nükleosentezinin başarısı ve kozmik arkaplan ışımasının keşfi Big Bang modelini 1964'te doğrulamıştır. Bu model iki teorik temele dayanır; Albert Einstein'ın genel görelilik teorisi ve kozmolojik prensip. Kozmologlar yakın dönemde evrenin gelişmesini açıklamak için, kozmik genişleme, karanlık enerji ve karamadde faktörlerini içeren ΛCDM modelini geliştirmişlerdir.
+Fermi Gamma-ışını Uzay Teleskopu'ndan elde edilen bilgiler geçtiğimiz on yılda birçok keşif ve teorik olasılığın önünü açmış ve eldeki teorilerin düzeltilmesi ve daha iyi açıklanmasında yardımcı olmuştur. Karamaddenin açıklanmasını da sağlayan birçok keşfin önümüzdeki birkaç yıl içerisinde yapılacağı düşünülmektedir. Fermi karamaddeyi zayıf etkileşimde bulunan ağır parçacıklar ile açıklayabilecek bir kanıt aramaktadır, bunun LHC ve diğer yer altı parçacık hızlandırıcılarında yapılan deneylerle destekleneceği tahmin edilmektedir.
+IBEX halihazırda yeni astrofiziksel keşifler üretmektedir: Güneş rüzgarının terminasyon şoku boyunca “kimse enerjik nört atom (ENA) ribonunu neyin ürettiğini bilmiyor, fakat herkes klasik heliosfer betimlemesinin – güneş sisteminin güneş rüzgarının yüklü parçacıklarını paketlemesinin yıldızlar arası 'galaktik rüzgar'a doğru bir kuyruklu yıldız şeklinde püskürtülmesi – yanlış olduğu konusunda hemfikir.”
+Temel fizik.
+Evrensel kanunları bulmaya çalışan fiziğin teorilerinin farklı uygulama alanları vardır. Kabaca, klasik fiziğin yasaları atomik boyutların üzerinde ve ışık hızının altında olan sistemleri açıklamak için yeterli bir çerçeve sunar. Bu ön gereksinimler karşılanmadığında gözlemler klasik fiziğin tahminleriyle örtüşmez. Albert Einstein mutlak zaman ve mekan kavramları yerine uzay-zaman kavramını koyan özel görelilik kuramını geliştirdi ve böylece ışık hızına yaklaşan hızlardaki sistemleri açıklamak mümkün oldu. Max Planck, Erwin Schrödinger ve diğerlerinin atomik ve atomaltı boyutlardaki sistemleri açıklamak için parçacıkların ve etkileşimlerin olasılıksal algılanışını içeren kuantum mekaniğini ortaya atmaları ile çok küçük boyutlardaki sistemleri deneylerle tutarlı bir biçimde açıklayabiliyoruz. Daha sonra, kuantum alan teorisi kuantum mekaniği ve özel göreliliği birleştirdi. Genel relativite yüksek kütleli ve büyük boyutlu yapıların açıklanması için dinamik, doğrusal olmayan bir uzay-zaman kavrayışı ortaya attı fakat bu teori diğer temel açıklamalarla henüz birleştirilemedi; söz konusu birleştirme için kuantum gravitasyonunu açıklayacak aday teoriler halen geliştirilmekte.
+Uygulamaları ve etkileri.
+Uygulamalı fizik, genel olarak, fiziğin özel bir kullanım sahasında geliştirilmesidir. Bir uygulamalı fizik programı genellikle jeoloji ve elektrik mühendisliği gibi birkaç uygulama disiplininden dersler içerir. Mühendislikten temel farklı uygulamalı fizikçinin özel bir düzenek tasarlamaması, bunun yerine, yeni teknolojilerin gelişimi ya da belli bir problemin çözümü için fiziği kullanmasıdır.
+Yaklaşım uygulamalı matematiğin yaklaşımının benzeridir. Uygulamalı fizikçiler aynı zamanda fiziğin bilimsel araştırmada kullanımıyla da ilgilenebilirler. Örneğin akseleratör fiziğiyle ilgilenen fizikçiler daha iyi parçacık detektörlerinin yapımı için çalışabilirler.
+Fiziğin mühendislikte geniş bir uygulama sahası vardır. Örneğin mekaniğin bir alt kolu olan statik köprü ve benzeri yapıların inşasında kullanılır. Akustiğin daha iyi anlaşılması daha efektif konser salonlarının yapılması için, benzer şekilde optiğin daha iyi anlaşılması optiksel araçların daha iyi ve kullanışlı üretilmesi için teorik zemin sağlar. Fiziğin anlaşılması daha gerçekçi uçuş simülasyonları, bilgisayar oyunları ve filmlerin üretilmesine yardım eder.
+Standart kabule göre fizik yasaları evrenseldir ve zamanla değişmez; bu nedenle, belirsizlik içinde kalınan bazı sorunların çözümü için de fizik kullanılır. Örneğin, Dünya'nın merkezinin araştırılması ancak Dünya'nın kütlesi, sıcaklığı ve dönüş oranının bilinmesiyle mümkündür. Aynı zamanda fizik mühendislikte simülasyon üretilmesini sağlayarak yeni teknolojilerin gelişmesinde çok büyük bir rol oynar.
+Fizikte interdisipliner (disiplinler arası) yöntemlerin yeri önemlidir ve diğer birçok alan fizik tarafından etkilenmektedir, örnek olarak ekonofizik ve sosyofizik verilebilir.
+Güncel araştırmalar.
+Fiziksel araştırmalar birçok farklı alanda gelişimini sürdürüyor.
+Katı hal fiziğinde, çözülmemiş önemli teorik bir problem yüksek sıcaklıkta süper iletkenlik olgusudur. Diğer bir önemli katı hal fiziği uğraşıda elektronların dönü (spin) özelliğinin kullanılarak elektronik işlemlerin yapılmasını amaçlayan spintronik'dir. Bu konu ile bağlantılı diğer bir güncel konu ise kuantum bilgisayarın katı hal sistemlerinde gerçekleştirilmesidir.
+Parçacık fiziğinde, Standart Model'in ötesinde ve temelinde başka bir fiziğin olduğunun deneysel bulguları ortaya çıkmaya başladı. Bunların en önemlilerinden bir tanesi nötrinoların kütlesinin sıfır olmadığının keşfine ilişkin bulgulardır. Bu deneysel sonuçlar uzun süre çözülememiş solar nötrino problemini çözmüş gibi görünüyor. Kütleli nötrinoların fiziği halen aktif bir teorik ve deneysel araştırma konusu. Parçacık hızlandırıcıları TeV mertebesinde enerjilerle parçacıkları çarpıştırmaya başladı. Deneyciler bu deneylerin sonucunda Higgs bozunumu ve süpersimetrik parçacıkları bulmayı umuyor.
+Yarım asırdır süregiden, kuantum mekaniğiyle genel göreliliği tek bir kuantum gravitasyonu kuramında birleştirme çabaları henüz sonuç vermiş değil. Halihazırdaki aday teoriler M-teorisi, süpersicim teorisi, döngü kuantum gravitasyonu olarak sıralanabilir.
+Birçok astronomik ve kozmolojik gözlem henüz tatmin edici biçimde açıklanmış değil. Bunlardan birkaçı; ultra-yüksek enerjili kozmik ışınlar, baryon asimetrisi, evrenin ivmelenmesi, galaksilerin anormal dönüş oranları.
+Yüksek enerji ve kuantum fiziğinde ve astrofizikte elde edilen büyük gelişmelere rağmen kaos, türbülans vb. birçok günlük fenomen hala tam anlamıyla anlaşılabilmiş değil. Dinamik ve mekaniğin zekice uygulanmasıyla çözülebileceği düşünülen kompleks problemler çözümsüz olarak duruyor; örnekler arasında kum yığınlarının oluşumu, sudaki titreşimlerin yapısı, su damlalarının biçimi, yüzey gerilimi fenomeninin mekanizması ve çalkalanan heterojen karışımların kendiliğinden dizilimi var.
+Karmaşık (kompleks) yapıların 1970'lerden bu yana artan bir ilgiyle incelenmesinin birkaç nedeni var. Güncel matematiksel ve sayısal yöntemler, ve bilgisayar işlem yetileri karmaşık sistemlerin gerçekçi modellenebilmesine olanak sağladı. Karmaşık fizik, aerodinamikte türbülansın araştırılması ve biyolojik sistemlerde model oluşumunun gözlemlenmesi gibi durumlarda da görülebileceği üzere, git gide disiplinler arası bir araştırma sahası olmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süper bilgisayar</DOCTITLE>
+<TEXT>
+
+Süper bilgisayar basit olarak; yoğun paralel işlemciler, yüksek başarımlı vektör
+işlemciler ve öbek bilgisayarların oluşturduğu sistem (her bileşen olmak zorunda değil) olarak
+tanımlanabilir. Süper bilgisayarlar bilimde, deney ve hesaplamayı birleştiren hesaplamalı bilim gibi yeni metodolojilerin oluşmasını sağlamıştır.Günümüzde süper bilgisayarlar saniyede yüzlerce trilyon işlem yapar hale gelmiştir. Örneğin, dünyanın en hızlı süper bilgisayarı saniyede 136,8 trilyon kalıcı işlemle Amerika'da Lawrance Livermore National Laboratuary isimli ulusal laburatuarın kullanımındadır (teorik sınır bu rakamın üzerinde olup adı geçen makina için saniyede 183,5 trilyon işlemdir) Süper bilgisayarlar ilk defa 1960'larda Seymour Cray tarafından Control Data Corporation da tasarlandı.
+Tarihçe.
+1950'li yılların başında, bir bilgisayar eş zamanlı olarak birden fazla program çalıştıramıyordu. Her kullanıcı, bilgisayarı yalnız bir kere kullanma hakkına sahipti ve kendisine ayrılmış belirli bir sürede kullanacağı program ve delikli kağıttan kartlar ile bir bant şeritle birlikte bilgisayarı kullanması gerekiyordu. Program makinaya yüklenir ve program sonlandırılana veya çökene kadar çalışacak şekilde ayarlanırdı. Programların hata denetimi makinanın önündeki elektrik şalterleri ve panel ışıklarıyla yapılırdı.
+Günümüzde, süper bilgisayarlar genellikle özel olarak Cray, IBM gibi geleneksel firmalar tarafından üretilmektedir. 2010 Kasım ayından beri Çinde'de bulunan Tianhe-1A süper bilgisayarı dünyadaki en hızlı bilgisayardır.
+Türkiye'nin ilk süper bilgisayarı İstanbul Teknik Üniversitesi'nde bulunmaktadır.
+Kullanım Alanı ve Mainframe ile arasındaki Fark.
+Büyük bilimsel çalışmalarda, nükleer enerji araştırmalarında, hareketli animasyonlarda, akışkanların karakteristiklerini hesaplamada ve meteoroloji gibi alanlarda gereken hesaplamalar için kullanılır. Mainframe ile arasındaki fark süper bilgisayarlar işlemci gücüne dayalı tek bir çalışmaya has iken mainframe çoklu kullanıcı yapıya sahiptir. 
+Yazılım ve donanım mimarileri.
+Yalnızca süper bilgisayarlarda kullanılmak üzere bazı teknolojiler geliştirilmiştir. Vektör işleme, sıvı soğutma, nonuniform bellek erişimi, paralel dosya sistemleri bu teknolojilerden bazılarıdır.
+İşletim sistemi.
+Süper bilgisayarlarda en çok kullanılan işletim sistemi Linux'tur. 1980'lerin ortalarına kadar, süper bilgisayarlar genellikle komut kümesi uyumluluğunu ve şifre taşınılabilirliğini performansı için göz ardı etti. Birçok parça için, süper bilgisayarlar bu zamana kadar çok farklı işletim sistemlerine sahipti. Cray-1 genel olarak bilinmeyen en az 6 farklı özel işletim sistemine sahipti. Benzer şekilde, farklı ve uyumsuz vektörleştirme ve paralelleştirme derleyicileri Fortran için de mevcuttu. Bu eğilim bilgisayar sistemlerinin benimsenmesi ve Cray-1 ve Cray X-MP arasındaki ilk komut kümesi uyumluluğu olmasaydı Cray's Unicos veya Linux gibi ETA-10 ile devam edecekti.
+En hızlı süper bilgisayar sistemi.
+Tianhe-1A en hızlı süper bilgisayar olarak Üst500 listesinde yer almaktadır. Çin'de üretilen bu bilgisayar, InfiniBand bildirildiğine göre iki kat hız ile 14.336 Intel Xeon işlemci ve 7168 Nvidia Tesla M2050 GPU'larından oluşur. Tianhe-1A açıklıklı 103 kabini ile 155 ton ağırlığındadır ve 4,04 megavat elektrik tüketir.
+Türkiye'de süper bilgisayarlar.
+Türkiye'de bu alanda İTÜ UYBHM çalışmalar yapmaktadır.
+Ulusal Yüksek Başarımlı Hesaplama Merkezi Projesi’nde yer alan süperbilgisayar, 560 işlemciden oluşmakta ve saniyede 1 trilyon işlem yapabilmektedir. Kamu kaynakları (DPT) ile gerçekleştirilen bu proje sayesinde, akademik ve endüstriyel araştırmalara hesaplama gücü sunmanın ötesinde bu alanda uzman insan kaynağı ve bilgi birikiminin sağlanması, yüksek başarımlı bilişim uygulamaları için bir sinerji merkezi oluşturulması sağlanıyor.
+İTÜ UYBHM'nin de katkısı ile TÜBİTAK ULAKBİM bünyesinde TR-GRID adlı bir süper bilgisayar girişimi daha başlatılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Wheeler-Feynman soğurucu teorisi</DOCTITLE>
+<TEXT>
+
+Wheeler–Feynman soğurucu teorisi (Wheeler–Feynman Zaman-Simetrik Teorisi) elektromanyetik alan denklemlerinin, alan denklemleri olmalarından dolay, zaman evritimi altında simetrik olmaları gerektiği fikriyle doğmuştur. Bu aksiyomun fiziğin kendi içinde var olan simetriden kaynaklanıyor. Aslında görünürde bu tarz bir simetrinin kırılıp da bir yönün diğerlerine göre daha üstün olmasına sebeb olabilecek bir sebep yoktur. Böylece bu simetriyi göz önüne alan bir teori bir zaman yönelimini diğerine tercih eden teoriler arasında daha seçkin bir özelliğe sahiptir. Burada Mach prensibini andıran bir başka anahtar fikir ise elementer bir parçacığın bir başka elementer parçak üzerine doğrudan etkiyemeyeceğidir. Bu kendiliğinden öz enerji problemini ortadan kaldırır. Bu teori kendisini kuran kişilerin, Richard Feynman ve John Archibald Wheeler adını almıştır.
+Nedensellik problemi.
+Zaman-simetrik bir teori oluşturmak isteyen kimsenin karşılaşacağı ilk problem nedensellik ( sebep sonuç) problemidir. Maxwell denklemlerinin veya bir başka dalga denkleminin genel olarak iki çözümü vardır: gecikmeli çözüm ve ileri çözüm. Bu da demektir ki eğer elimizde formula_1 zamanında ve formula_2 noktasında eketromanyetik dalga yayan veya soğuran bir nesne varsa, o zaman ilk (gecikmeli) çözüm formula_3 noktasına dalganın yayılmasından veya soğurulmasından formula_4 kadar süre sonra varırken, ikinci (ileri) çözüm aynı noktaya formula_5 süre kadar önce varır.
+İkinci dalga fiziksel olarak bariz bir şekilde fiziksel bir olayın olmasından önce gözlemleyebileceği şeklinde yorumlanabileceğinden elektromanyetik dalgaların yorumlanması sürecinde göz ardı edilir. Soğurma teorisinde, kaynaktan soğurucuya giden gecikmeli dalga ve soğurucudan kaynağa gelen ileri dalga ışık enerjisinin normal biçimde hareketine karşılık gelir ve nedensel olmayan yöndeki hareket dışlanmaz.
+Feynman ve Wheeler bu güçlüğün üstesinden basit bir şekilde geldiler. Evrendeki tüm yayıcı kaynakları düşünelim. Öyle ki hepsi simetrik bir şekilde elektromanyetik dalga oluştursunlar. Bu durumdan kaynaklanan alan
+Eğer evrende bu denklemin sağlandığını varsayarsak
+bu son terimi serbestçe Maxwell denklemlerine ekleyebiliriz
+(homojen Maxwell denkleminin çözümü) ve sonuç olarak
+Bu şekilde model gecikmeli alanın etkisini görür ve nedensellik bozulmaz. Bu "serbest alan"ın varlığı evrendeki her parçacığın diğer her bir parçacık tarafından yayılan ışımayı soğurması ile doğrudan ilgilidir. Yine de teorinin altında yatan fikir tıpkı elektromanyetik bir dalganın bir cisim tarafından soğrulması kadar basittir; mikroskopik ölçekte baktığımızda görürüz ki soğrulma dışardan gelen herhangi bir pertürbasyona karşı elektronların tepkisine karşılık gelen elektromanyetik alanların varlığından kaynaklanır ve bunu sönümleyici alanlar yaratır. Buradaki temel fark aynı sürecin ileri dalgalarda da gerçekleşmesine izin verilmesidir.
+Sonuç olarak bu teorinin gecikmeli zaman yönünün seçimli olduğunu öne süren bir teoriden daha fazla simetrik olmadığı öne sürülebilir. Ancak yayıcı ve soğurucuyu her zaman değiştirebileceğinizden bu çıkarım yanılsamadan öteye gidemeyecektir. Zaman yönelimindeki her hangi bir seçim yayıcı ve soğurucuların rastgele belirlenmesiyle ortaya çıkar.
+Nedensellik sorununun çözülmesi.
+T.C. Scott ve R.A. Moore gösterdi ki kendi orjinal formülasyonlarındaki ileri Liénard–Wiechert potansiyellerinden kaynaklanan görünürdeki nedensellik bozulumu teoriyi gecikmeli potansiyeller cinsinden tam relativistik çok cisimli elektrodinamik formülasyonuna getirdiklerinde ortadan kalkabilir. .
+2. parçacık tarafından oluşturulan zaman-simetrik alanların 1. Parçacık ile etkileşmesinden kaynaklanan Lagrangian
+burada formula_10 "i" parçacığının relativistik kinetik enerjisi ve formula_11 ve formula_12 sırasıyla "j" parçacığı üzerine etkiyen gecikmeli ve ileri Liénard–Wiechert potansiyelleri olsun. Aynı şekilde 2. Parçacığın hareketine denk gelen Lagrangian:
+Bu durum tarihsel olarak önce deneysel matematik ile gösterilmiş sonra matematiksel olarak kanıtlanmıştır ki "i" parçacığının "j" parçacığı üzerine etkiyen gecikmeli potansiyeli ile "j" parçacığının "i" parçacığı üzerine etkiyen ileri potansiyeli arasındaki fark basitçe zaman türevine eşittir:
+veya Euler-Lagrange denklemlerine katkı getirmediğinden bi diverjansa eşittir. Böylece Lagrangian a yeteri kadar tam zaman türevi ekleyerek ileri potansiyeller elimine edilebilir. Dolayısıyla N-cisim sistem için Lagrangian:
+burada iler potansiyeller bir katkı getirmez. Dahası bu Lagrangian parçacık-parçacık simetrisi gösterir. Dahası formula_16 için bu Lagrangian formula_17 ve formula_18 nin ürettiği hareket denklemlerinin aynılarını üretir ve böylece problemin "fiziği" değişmemiş olur. Böylece dışardan relativistikn-cisim problemini gözlemleyen gözlemci için, her olay nedenseldir. Öte yandan eğer bir cisim üzerinde etki eden kuvvetleri diğerlerinden ayırırsak ileri potansiyeller karşımıza çıkar. Tabii ki problemin bu açıdan ele alınmasının da bir bedeli vardır: N-cisim Lagrangian ı parçacıkların izledikleri yollardaki tüm zaman türevlerine bağlı çıkar, diğer bir değişle Larangian ın derecesi sonsuz olur. Yine de genelleştirilmiş momentum ve parçacık değişimleri altındaki simetri korunmuş olur. Lokal görünmeyen bir başka özellik de Hamilton prensibinin çok parçacıklı relativistik bir sisteme bir bütün olarak uygulanmasıdır ki herhangi biri klasik bi teori ile bundan daha ileri gidemez. Öte yandan teorinin kuantizasyonunda oldukça önemli gelişmeler kaydedilmiştir. .
+Klasik problemin sayısal çözümleri de bulunmuştur . Ayrıca bu formülasyonun Breit denkleminden çıkarışmış Darwin LagrangianInı da kapsadığına dikkat edin. Bu teorinin Lamb kayması dahil edilmediğinde deney ile uyum içerisinde olduğunu gösteriyor.
+Öz-etkileşim ve sönüm problemi.
+Elektromanyetik etkişelimler için farklı açıklamalar bulma isteği en temelde elektromanyetik ışıma sürecine tutarlı bir açıklama getirme isteğinden kaynaklanır. Burdaki önemli nokta şudur: düzgün hareket etmeyen bir cisim düşünelim ( örneğin titreşen bir cisim formula_19) , o halde bu parçacık ışıma yapacak ve enerji kaybedecektir. Bu problemin ilk çözümü Lorentz tarafından yapılmış ve Dirac tarafından genişletilmiştir. Lorentz bu enerji kaybını parçacığın kendi alanıyla olan gecikmeli etkileşiminine bağlamıştır. Bu gibi bir yaklaşım teoridie ıraksaklıklara neden olacağından parçacığın yük dağılımı üzerindeki varsayımların geliştirilmesi gerekir. Dirac Lorentz tarafından verilen formülü sönüm terimi için genelleştirerek onu relativistik olarak değişmez hale getirmiştir. Böyle yaparken, sönüm çarpanına da parçacığın bulunduğu noktadaki dğer serbest alanlarla etkileşimi şeklinde bir açıklama getirmiştir.
+Bu formuldeki temel eksiklik bu serbest alanlarla ilgili fiziksel çıkarımın yoksunluğudur.
+Dolayısıyla soğurucu teorisi bu noktayı düzeltmek için formüle edildi. Soğurucu teorisine göre eğer her parçacığın kendisiyle etkileşmediğini kabul eder ve formula_21 parçacığı üzerine etkiyen alanı hesaplamaya çalışırsak
+Eğer bu alana serbest alanları eklersek
+sonuç olarak
+ve
+Bu yorum Dirac denklemine fiziksel bir yorum getirerek bir parçacığın öz-etkileşiminden kaynaklanacak olan ıraksaklıklardan kaçınıyor. Moore ve Scott gösterdi ki ışıma tepkisi, ortalamada sonlu sayıda yüklü parçacığın toplam net dipol momentinin sıfır olduğu düşünüldüğünde farklı bir yolla da çıkarılabilir.
+Sonuç.
+Yine de sönüm alanları konusunda problemler çözümsüz kalıyor. Klasik limitte yazıldığında:
+Zamana göre üçüncü türevler göründüğünden, oldukça açıktır ki denklemi çözmek için başlangıç hızı ve konumunun yanında parçacığın ivmesinin de bilinmesi gerekir ki bu oldukça anlamsızdır. Bu problem hareket denklemlerinin o parçacığın oluşturduğu alanlar için yazılmış maxwell denklemleriyle beraber çözülmesi gerektiği anlaşıldığında çözülmüştür. Bu nedenle denklemleri çözmek için başlangıç ivmesi yerine başlangıçtaki alanın ve sınır koşullarının verilmesi yeterlidir. Böylece teori fiziksel olarak yorumlanabilme açısından tutarlı hale gelir. Yine de denklemler çözülüp fiziksel olarak yorumlanmak istendiğinde sorunlar çıkabilir. Genel kanı Maxwell denklemlerinin klasik yapısından ötürü öz-etkileşim gibi quantum mekaniksel etkileşimler için geliştirilmeksizin kullanılamayacağı yönündedir. Yine de Wheeler ve Feynman teoriye klasik bir yaklaşım üretebildiler.
+Bu makaleyi formüle ettikleri zaman Wheeler ve Feynman bu ıraksak terimden kurtulmaya çalışıyorlardı. Daha sonraları, Lamb kayması için kuantum mekaniği sınırları dahilinde cisimlerin kendileri ile etkileşimlerinin gerekliliğinin kaçınılmaz olduğunu belirtti. Bu durum daha sonraları bilim adamlarını quantum mekaniği çalışırken Hamilton prensibinden ziyade Lagrangian kullanmaya yönetlmiştir.
+Son olarak Wheeler tüm süper galaksi kümeleri arasındaki uzayın genişlediğini öngören genişlemenin termodinamik teorisini veya diğer adıyla evrenin genişlemesini kabul etti. Bu aynı zamanda doğadaki bir asimetri olup elektromanyetik gecikmeli dalgaların da kökenini oluşturur .
+Referanslar.
+7. Benjamin Gal-Or, “Cosmology, Physics and Philosophy”, p. (iii), Springer Verlag, 1987, ISBN 0-387-90581-2, ISBN 0387965262.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Felemenkçe</DOCTITLE>
+<TEXT>
+
+Felemenkçe Hint-Avrupa dil ailesinin Cermen dilleri grubundan dil. Hollandaca ve Flamanca gibi lehçeleri vardır, bunlar özellikle yazılı dilde birbirine oldukça yakındır. Felemenkçe ve lehçeleri; Hollanda, Belçika, Surinam ve Güney Afrika Cumhuriyeti'nde resmi dil konumundadır. 
+Belçika'da konuşulan aksanına Flamanca, Hollanda'da konuşulan aksanına Hollandaca denir. Belçika'da daha çok kuzeyde bulunan Flaman bölgesinde konuşulur. Felemenkçe ise Plattdeutsch ve Friz diline yakındır. 
+Felemenkçe ve yerel lehçeler.
+Felemenkçe, Belçika devleti içinde Fransızca'nın baskısına karşı mücadele vererek geçen tarihi içinde özgün bir gelenek, edebiyat ve kendi içinde lehçeler oluşturmuş, ancak Belçika'nın federal devlet yapısına bürünmesi ile Felemenkçe ile ortak noktalarını tekrar keşfetmiştir. Flamanlar günümüzde yerel şivelerini konuştukları zaman "Flemenkçe konuşuyorum" ("Ik spreek Vlaams"), "Algemeen Nederlands" (Genel/Ortak Felemenkçe) adını verdikleri standartlaştırılmış eğitim, bilim ve yönetim dilini kullandıkları zaman "Felemenkçe konuşuyorum" ("Ik spreek Nederlands)" derler. Yine de, aksan farkları, kullandıkları bazı kelimeler ve söyleyiş tarzlarından ötürü bir Hollandalı muhatabının bir Flaman olduğunu hemen anlayabilir. Dahası her yörenin kendine ait bir konuşma şekli olduğundan hangi bölgeden, şehirden hatta köyden geldiğini de çıkarabilir. Bunun sebebi de Felemenkçe'nin coğrafi olarak çok küçük bir bölgede konuşulsa da, topluluklar oldukça birbirine bağlı yoğun ve sık bir dokuda olmasıdır. Böylelikle dil konuşulduğu, bölge içinde resmi sınırlardan bağımsız olarak, oldukça heterojen bir yayılım gösterir. Resmi kaynaklara göre yalnızca Flaman Bölgesi içinde lehçe olarak tanımlanabilecek 26 farklı Felemenkçe'nin konuşulduğu tespit edilmiştir. Bunların başlıcaları arasında:
+sayılabilir. Aynı şekilde Hollanda'nın çeşitli bölgelerinde birbirinden oldukça farklılık gösteren çeşitli lehçeler bulunur. Bunlardan bazıları:
+Genel/Ortak Felemenkçe ise Türkiye'de bölgeler arası lehçelerden ve şivelerden bağımsız olarak konuşulan Modern Türkçe ile kıyaslanabilir. Her yöre kendine özgü bir lehçe ve şive ile konuşsa da eğitim, öğretim, basın, yayın, radyo, TV, yazım ve devlet işlerinde hep standartlaştırılmış ortak resmi dil kullanılır. Ancak halk kendi yöresel aksan ve lehçelerini bir kültürel değer olarak görerek yaşar, yaşatır ve korurlar. Bu yüzden her yöre kendine ait olan lehçelerde gazete ve dergiler çıkarır yerel radyo, televizyonlarda kendi lehçeleri ile yayın yaparlar. 
+Lehçeler arasındaki fark o kadar güçlüdür ki coğrafi olarak Limburgça'nın konuşulduğu Limburg bölgesi ile Batı Flandra Bölgesi'nin konuşulduğu yöre arasındaki mesafe 100 km'yi aşmamasına karşın her iki lehçenin konuşanları birbirlerini anlamakta büyük güçlük çeker. Bu anlamadaki güçlük bir bakıma Türkçe ile Azerice ile karşılaştırılabilir. Bu sebepten devlet televizyonları genelde halkın konuşmalarını büyük çoğunlukla Genel Felemenkçe altyazı ile verir. Aynı şey Belçika'da yayınlanan Hollanda filmleri ve dizileri ile Hollanda'da yayınlanan Flaman dizi ve filmleri için de geçerlidir ve genelde Genel Felemenkçe altyazı ile verilir.
+Felemenkçe, Hollanda sömürgesi olan ülkelerde (Aziz Martin, Surinam, Aruba, Guyana, Hollanda Antilleri, Virgin Adaları) de konuşulmaktadır. Geçmişte en büyük Hollanda sömürgesi olan Endonezya'da yaygınlığını sürdürmekte olup yerel diller üzerinde büyük tesiri olmuştur. 
+Fransa'nın kuzeybatısındaki Nord ilinde, özellikle Dunkerque komününde de konuşulur.
+17. yüzyıldan itibaren Güney Afrika'ya göçmüş olan Hollanda asıllı Buğrlar
+(nl:Boer-Çiftçi), Felemenkçe'nin coğrafi kopukluk nedeniyle farklılaşmış bir lehçesi (picini) olan Afrikaans konuşmaktadır.
+Felemenkçe konuşulan ülkeler.
+Dünyada yaklaşık 24 milyon insan resmi dil olarak Felemenkçe konuşmaktadır. 
+Ana dili Felemenkçe olanlar, dillerinin İngilizce ve Almanca ile müşterek noktaları bulunduğundan bu dilleri öğrenmeye yatkındırlar. Cümle yapısı ve kullanılan sözcükler bakımından İngilizce ve Almanca ile benzerlik göstermektedir.
+İngilizce ve Almanca benzerliğe örnek:
+Dilin Türkçe adıyla ilgili tartışmalar.
+Dilin Osmanlıca adı فلمنكجه olarak yazılır.
+Bazı batı dillerinde Felemenkçe'yi karşılayan tek bir kelime olmaması ve "Felemenk" sözcüğünün günümüzde belli bir siyasi ülkeye karşılık gelmemesi nedeniyle, Türkçede Felemenkçe yerine Felemenkçe sözcüğünün kullanılmasını savunanlar vardır. Buna karşın, Türk Dil Kurumu sözlüğünde "Felemenk" sözcüğünün tanımı "Bugünkü Hollanda, Belçika ve Kuzeydoğu Fransa'ya eskiden verilen ad." olarak ve "Felemenkçe" sözcüğü de "Felemenk dili" olarak tanımlanmaktadır. Hollanda'da ve Belçika'da konuşulan Felemenkçe arasındaki fark çok az olup, aynı dilin iki lehçesi düzeyindedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Negatif özgürlük</DOCTITLE>
+<TEXT>
+
+Felsefi olarak negatif özgürlük kavramı, bireyin başkaların otoritesine maruz kalmadan özgür olması anlamına gelir. Bu negatif anlayışta, kişinin, etkinliğini kimse tarafından karışılmadan özgürce gerçekleştirebileceği düşünülür. Örneğin Thomas Hobbes'a göre, "özgür bir adam… iradesi dahilindeki yapacaklarına mani olunmayan kişidir." 
+Negatif özgürlük ile pozitif özgürlük arasındaki fark, Isaiah Berlin tarafından, ""Two Concepts of Liberty"" isimli konferansında belirtilmiştir. Berlin’e göre, bu fark politik gelenekte iyice yerleşmiştir: negatif özgürlük tanımı, en belirgin olarak İngiliz politik filozoflarca (örneğin, Locke, Hobbes ve Smith) ilişkilidir; bunun karşılığında pozitif özgürlik ise, Hegel, Rousseau, Herder ve Marx gibi kıtasal Avrupa düşü
+Negatif özgürlük konsepti, birkaç dikkat çekici unsura sahiptir. Birincisi, negatif özgürlük bir tür özgürlük alanı (yasaların yokluğunda) tanımlar. Berlin'in kelimeleriyle, "negatif anlamı ile özgürlük, 'Öznenin – kişi ya da kişi grubu – yapabileceği veya olabileceği şeyi diğer kişilerin müdahalesi olmadan yapabilmesi veya olabilmesi için bulunması gereken bölge nedir' sorusunun cevabını içerir." Bazı filozoflar bu alanın bazı şartlarıyla uyuşmasalar da, kişinin başkası tarafından engellenmemesi ile ilgili ana noktasına katılırlar. İkincisi, negatif özgürlük dahilindeki kısıtlama, doğal ya da kapasite yetersizliği gibi sebeplerle değil, kişi veya kişilerce empoze ettirilir. Helvetius, bunu açıkça ifade etmiştir: "Özgür adam demirler içinde değildir, herhangi bir amaca tutsak edilmemiştir, cezalandırılma korkusu içindeki bir köle gibi yaşatılmaz… bir kartal gibi uçmasını engelleyen ya da bir balina gibi yüzmesini engelleyen şey özgürlüğünün kısıtlanması olmamalıdır."
+Pozitif ve negatif özgürlük ikilemi, sosyalizm, sosyal demokrasi, liberteryen sosyalizm ve marksizm yandaşı filozoflarca sahte bulunur. Kimilerine göre pozitif ve negatif özgürlük, uygulamada ayırt edilemez, kimisine göre ise bir özgürlük türü diğerinden bağımsız olarak var olamaz. Genel bir kanı ise negatif özgürlüğün korunması için hükûmetin veya toplumun pozitif hareketler yapması, aksi takdirde bireylerin birbirlerinin özgürlüğünü almasının engellenemeyeceği yönündedir.
+Negatif özgürlük ve otorite: Hobbes ve Locke.
+"İnsanların özgürlük isteği, otorite ihtiyacı ile nasıl uzlaşır?" sorusuna verdikleri cevap, pek çok düşünürün özgürlük üzerine olan görüşlerinin ana çizgilerini anlamaya olanak verdiği gibi, otorite, eşitlik ve adalet gibi kesişen konseptler hakkında yorumlarını da aydınlatır. 
+Hobbes ve Locke, bu soruya iki tane etkili ve açıklayıcı çözüm getirdiler. Başlangıç noktası olarak, ikisi de her bireyin zevklerine ve isteklerine göre rahatça hareket edebileceği alanların net bir çizgi ile çizilmesi gerektiğine dair hemfikirler. Bu bölge, kişisel özgürlüğün dokunulmaz ve kutsal alanını oluşturur. Ama, otorite olmadan toplumun olamayacağına da inanırlar. Bu tanımda otoritenin amacı, farklı yönelmeler üzerine olan çarpışmaları engellemek ve kişilerin özgürlük alanlarının başladığı ve bittiği sınırları ayırmaktır. Hobbes ile Locke'un zıt düştüğü nokta ise alanın uzandığı yerler. İnsan doğasının nispeten kötü yönlerini ele alan Hobbes'a göre, kişinin içgüdüsel olan vahşi, yırtıcı ve yıkıcı yönlerini bastırmak için güçlü bir ototrite gerekmektedir. Kalıcı ve sürekli olası anarşi tehditini savurmayı sadece güçlü bir otorite yapabilir. Bir başka açıdansa, Locke, insanların genel olarak kötüden fazla iyi olduklarına inandı ve bireysel özgürlük sınırlarının daha geniş bırakılmasının gerekliliğini savundu.
+Çeşitli düşünürlerce negatif özgürlük.
+John Jay, Federalist Gazetesi'nin 2. sayısında: "Hükümetin vazgeçilmez gereksiniminden daha önemli bir şey yoktur, ve ne zaman veya nasıl oluşturulursa oluşturulsun, insanların doğal haklarının bir kısmını feda etmelerinin, güçlenmesi açısından çok önemli olduğu da bir o kadar reddedilemezdir." demiştir. Jay'in anlatmak istedikleri, "doğal haklar" yerine "negatif özgürlük" yazılırsa daha net görülebilir. Çünkü burada anlatılan durum, güçlü bir otoritenin oluşumu, bizim kendi negatif özgürlüğümüz üzerine yaptığımız kısıtlamalar üzerine olmuştur.
+Thomas Paine, Common Sense isimli risalesinde, toplum ve hükûmet arasındaki farkı, pozitif ve negatif özgürlük arasındaki fark aracılığı ile ayırt eder: "Toplum isteklerimizle, hükûmet içimizdeki kötülükle kurulur; eski, bağlılığımızı perçinlemek aracılığıyla mutluluğumuzu pozitif yönde etkilerken, yeni, ahlaksızlığımızı engelleyerek negatif yönde etkiler. "
+Thomas Jefferson, "Doğru özgürlük, diğerleriyle eşit olan haklara göre etrafımıza çizilen çizginin içinde, irademizle yaptığımız hareketlerimizin engellenmemesidir."
+Liberteryen düşünür Tibor Machan negatif özgürlüğü "ahlaki seçim, ve dolayısıyla insanlığın gelişimi için gerekli" şeklinde savunur ve "bir insan toplumunun, yaşama, gönüllü hareket edebilme ve mülkiyetine olan haklarına evrensel bir şekilde saygı gösterildiğinde, anlaşıldığında ve savunulduğunda" güven altında olduğunu belirtir.
+
+</TEXT>
+</DOC>
+

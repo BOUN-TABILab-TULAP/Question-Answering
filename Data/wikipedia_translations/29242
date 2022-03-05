@@ -1,0 +1,83 @@
+Aerosol
+Bir aerosol hava veya başka bir gaz ince katı parçacıklar ya da sıvı damlacıklar, bir kolloid. Aerosol doğal olabilir ya da olmayabilir. Doğal Aerosol örnekleri sis, orman dışkıları ve Şofben buhar vardır. Yapay Aerosol örnekleri pus, toz, partikül hava kirleticiler ve duman vardır. Sıvı veya katı parçacıkların çok daha küçük 1 um kadar bir çapa sahiptir; önemli bir yerleşim hızı ile büyük parçacıklar karışımı bir süspansiyon yapmak, ama ayrım kesin değildir. Genel sohbette, "aerosol" genellikle bir kutu veya benzeri bir kap bir tüketici ürünü sunan bir aerosol sprey anlamına gelir. Aerosol diğer teknolojik uygulamalar pestisitlerin dağılma, solunum hastalıklarının tıbbi tedavi ve yanma teknolojisi içerir. Hastalıklar, aynı zamanda nefes küçük damlacıklar olarak da adlandırılan aerosoller vasıtasıyla yayılabilir.
+Aerosol bilim üretimi ve aerosoller, aerosollerin teknolojik uygulama, çevre ve insanlar ve diğer konularda çok çeşitli aerosollerin etkilerinin kaldırılmasını kapsamaktadır.
+__TOC__
+Tanımlar.
+Bir aerosol bir gaz içinde bir katı ya da sıvı parçacıkların koloidal bir sistem olarak tanımlanır. Bir aerosol taneciklerinin ve genellikle hava olan süspansiyon gaz içerir. Frederick G. Donnan muhtemelen ilk olarak bir aero-çözüm tanımlamak için I. Dünya Savaşı sırasında dönem "aerosol" kullanılmış, havadaki mikroskobik parçacıkların bulutlar. Dönem hydrosol, dağıtma ortamı olarak su ile bir kolloid sisteme benzer şekilde geliştirilen bu terim. "Birincil aerosoller" gaza doğrudan tanıtılan parçacıklar içerir; Gaz-parçacık dönüşüm yoluyla "ikincil aerosoller" şeklinde.
+Aerosol konsantrasyonunun çeşitli önlemler vardır. Çevre bilimi ve sağlık genellikle mikrogram / m3 olarak birimleri ile birim hacim başına partikül madde kütlesi olarak tanımlanan "kitle konsantrasyonu" ("M") kullanır. Ayrıca yaygın olarak kullanılan "sayı konsantrasyonu" ("N"), bu sayı / m3 veya numara / cm3 olarak birimleri ile birim hacim başına parçacıkların sayısıdır.
+parçacıkların büyüklüğü özellikleri üzerinde büyük bir etkisi vardır, ve aerosol partikül yarıçap veya çap ("dp") aerosoller karakterize etmek için kullanılan bir anahtar özelliktir.
+Aerosol kendi dispersiteleri değişir. Laboratuarda üretilebilen bir "tek dağılımlı" Aerosol, üniform boyutta parçacıklar içerir. En aerosoller, ancak, "polidispers" koloidal sistemleri gibi, parçacık boyutlarının bir dizi sergiler. Sıvı damlacıkları hemen hemen her zaman neredeyse küresel, ancak bilim adamları, bazı çok düzensiz katı parçacıkların çeşitli şekillerde properties'e karakterize bir "eşdeğer çapı" kullanın. eşdeğer çap düzensiz partikül gibi bazı fiziksel özellik aynı değere sahip küresel bir parçacığın çapıdır. "Eşdeğer hacim çapıdır" ("De") düzensiz partikül ile aynı hacim, bir kürenin çapı olarak tanımlanır. Ayrıca, yaygın olarak kullanılan bir aerodinamik çapıdır.
+Boyut dağılımı.
+Bir tek dağılımlı bir aerosol, bir tek numaralı parçacık çapı-yeterlidir parçacıkların boyutu tanımlamak için kullanılır. Bununla birlikte, daha karmaşık bir parçacık boyut dağılımları bir çok yönlü dağılmış bir aerosol partikül boyutları tarif eder. Bu dağılım, büyüklüğüne göre kriteri parçacıkların nispi miktarları, tanımlar. Parçacık büyüklüğü dağılımını tanımlamak için bir yaklaşım, bir numunedeki her bir parçacığın boyutlarının listesini kullanmaktadır. Bununla birlikte, bu yaklaşım, milyonlarca parçacık ve kullanımı zor olan aerosoller içinde tespit etmek için sıkıcı kanıtlamaktadır. Başka bir yaklaşım aralıkları içine tam boyut aralığı böler ve her aralıkta parçacıkların sayısını (veya oran) bulur. Bir o boyutu bin parçacıkların oranını temsil eden her bir çubuğun alanına sahip bir histogramda, bu veri görselleştirmek, genellikle her bir çubuğun alanı böylece aralık genişliği ile bir depo parçacıkların sayısına bölünmesiyle normalize boyutunda parçacıkların sayısına orantılı temsil ettiği değişir. Bidonları genişliği sıfıra eğilimi varsa, bir frekans fonksiyonu alır:
+nerede
+Bu nedenle, iki boyutları A ve "b" arasındaki frekans eğrisi altında kalan alan bu boyut aralığı içinde parçacıkların toplam fraksiyonu temsil eder:
+Aynı zamanda, toplam yoğunluğu "K" açısından formüle edilebilir:
+Küresel aerosol taneciklerinin varsayarak, birim hacim ("S"), her bir aerosol yüzey alanı, ikinci an ile elde edilir:
+Üçüncü bir an parçacıkların toplam hacim konsantrasyonu ("V") verir:
+Bir de yararlı bir matematiksel fonksiyon kullanılarak parçacık boyutu dağılımına yaklaştığı yapabilirsiniz. Normal dağılım genellikle uygun çünkü büyük partiküllerin uzun bir kuyruk ilişkili çarpıklık aerosollerde parçacık büyüklüğü dağılımını tarif etmez. Ayrıca birçok aerosol boyutları gibi, geniş bir aralıkta değişen bir miktar için, dağıtım genişliği açıkça fiziksel gerçekçi değil, negatif parçacıklar boyutları anlamına gelir. Bununla birlikte, normal dağılım bu test aerosoller, belirli bir polen taneleri ve sporların gibi aerosoller için uygun olabilir.
+Bir daha yaygın seçilen log-normal dağılım olarak numara frekansını verir:
+burada:
+log-normal dağılım değerleri geniş bir kapak, hiçbir negatif değerler vardır ve gayet iyi çok gözlenen boyut dağılımları uyuyor.
+Bazen parçacık boyutunun karakterize etmek için kullanılan diğer dağılımlar şunlardır: Rosin-Rammler dağılımı, kaba toz ve spreyler dağınık uygulanan; Son derece geniş bir boyut aralıkları spreyler Nukiyama-Tanasawa dağılımı; bazen atmosferik aerosoller uygulanan güç fonksiyonu dağılımı; toz malzemelere uygulanan üstel dağılım; ve bulut damlacıkları için, Khrgian-Mazin dağılımı.
+Fizik.
+Bir akışkan içinde bir parçacığın terminal hızı.
+Reynolds sayısı düşük değerleri için (<1), en çok Aerosol hareket için de geçerlidir, Stokes yasası bir akışkan içinde katı, küresel parçacık üzerindeki direnç kuvveti tanımlamaktadır. Partikülün yüzeyinde gaz hızı sıfır Ancak, Stokes yasası geçerlidir. Küçük parçacıklar aerosoller karakterize (<1 mm), ancak, bu varsayım başarısız olur. Bu başarısızlığın için hesap için, kimse bu faktör dahil Cunningham düzeltme faktörü her zaman 1'den büyük tanıtabilirsiniz bir bir parçacığın ve hızına direnen kuvveti arasındaki ilişkiyi bulur:
+nerede
+Bu bize hala havada yerçekimi çökelme geçiren bir parçacığın terminal hız hesaplamak için izin verir. Yüzdürme etkisi ihmal, biz buluyoruz:
+nerede
+Terminal hızı da kuvvetlerin diğer türlü elde edilebilir. Stokes kanunu sahip ise, o zaman harekete karşı direnç hızı ile doğru orantılıdır. orantılılık sabiti bir parçacığın mekanik hareketlilik ("B") 'dir:
+formula_22
+Herhangi bir makul başlangıç ​​hızda yolculuk bir parçacık rahatlama süresine eşit zaman -folding bir "e" ile katlanarak terminal hızını yaklaşımlar:
+formula_23
+burada:
+Küresel olmayan parçacıkların şeklinin etkisi hesaba katılması için, "Şekil faktörü" olarak bilinen bir düzeltme faktörü Stokes hakları uygulanır. Aynı hacmi ve akış hızı olan küresel bir parçacık ki düzensiz parçacığın direnç kuvvetinin oranı olarak tanımlanır:
+formula_27
+burada:
+Aerodinamik çap.
+düzensiz parçacığın aerodinamik çapı 1000 kg / m3 bir yoğunluk ve düzensiz bir parçacık ile aynı çökelme hızına sahip küresel bir parçacık çapı olarak tanımlanır.
+Kayma düzeltme ihmal, parçacık aerodinamik çapı karesi, "da" terminal hız orantılı olarak yerleşir:
+nerede
+Bu denklem, aerodinamik çapı verir:
+Bir kirletici parçacık veya nerede solunum yolu gibi parçacıklar mevduat tahmin ilaçlar inhale aerodinamik çapı uygulayabilirsiniz. İlaç şirketleri genellikle solunabilir uyuşturucu parçacıkları karakterize etmek, aerodinamik çapı değil, geometrik çapa kullanın.
+Dinamiği.
+Bir önceki tartışma tek aerosol parçacıkları üzerinde odaklanmış. Buna karşılık, "aerosol dinamiği" tam aerosol nüfus evrimini açıklar. parçacıkların konsantrasyonları bir çok işlemin bir sonucu olarak, zaman içinde değişecektir. Çalışmanın altında gaz hacmi dışında partikülleri hareket Dış süreçler difüzyon, yerçekimi çökmesini ve elektrik ücretleri ve partikül göçe neden diğer dış güçleri bulunmaktadır. Gaz, belirli bir hacme iç süreçler ikinci bir grubu partikül oluşumu (çekirdeklenme), buharlaştırma, kimyasal reaksiyon ve pıhtılaşma sayılabilir.
+Bir diferansiyel denklem "Aerosol Genel Dinamik Denklemi" (GDE) nedeniyle, bu işlemler, bir aerosol partikül sayısı yoğunluğu evrimini karakterize adlandırılan.
+formula_32
+Dış güçler tarafından zaman = Convective taşıma + brown difüzyon + gaz parçacık etkileşimleri + koagülasyon + göç Değişim
+Nerede:
+Pıhtılaşma.
+Bir aerosol parçacıkları ve damlacıklar birbiriyle çarpışırlar olarak, birleşmesini veya toplama tabi olabilir. Bu işlem modu parçacıkları azaldıkça toplam sayısı olarak, çapı artan, aerosol partikül boyutu dağılımında bir değişikliğe yol açar. Vesilesiyle, parçacıklar çok küçük parçacıklara ayrı paramparça edebilir; Bununla birlikte, bu işlem, genellikle aerosol olarak değerlendirilmesi için çok büyük partiküller esas olarak ortaya çıkar.
+Dinamik rejimleri.
+Parçacığın Knudsen sayısı bir aerosol davranışlarını yöneten üç farklı dinamik rejimleri tanımlar:
+burada formula_39 süspansiyona gazın ortalama serbest yolu ve formula_40 parçacığın çapıdır. "Kn" »1" özgür moleküler rejim "in parçacıklar için; süspansiyon gazın ortalama serbest yoluna kıyasla küçük parçacıklar. Bu rejimde, parçacıkların gaz molekülleri ile "balistik" çarpışmalar bir dizi süspansiyon gazı ile etkileşime girer. Gibi, onlar akıcılık takip etmeye eğilimi ve Brown hareketi sayesinde hızla yayılan gaz moleküllerine benzer şekilde davranır. ücretsiz moleküler rejimin kitle akı denklemi şöyledir:
+burada "a" parçacık yarıçapı, "P" ∞ ve "PA" uzak basınçları sırasıyla damlacık gelen ve damlacık yüzeyinde olan ise, "kb" Boltzmann sabiti, "T" olduğunu sıcaklık, "CA α "" ortalama ısı hız ve bir "kitle konaklama katsayısıdır. Bu denklemin türetilmesi sabit basınç ve sabit difüzyon katsayısı varsayar.
+Bu rejimde Kn «1., parçacıklar sürekli bir sıvı olarak süspansiyon, gaz davranır parçacık boyunca akan anlamına süspansiyon gazın ortalama serbest yoluna kıyasla büyük olduğunda partiküller" sürekli rejim "içindedir. Bu rejim moleküler akı olduğunu:
+burada "a" parçacık "A" yarıçapıdır, "Ma" Partikül "A" moleküler kütlesi, "DAB" "A" parçacıklar arasındaki difüzyon katsayısıdır ve "B", "R", sonsuz ve sırasıyla yüzeyde basınçları ideal gaz sabiti, "T" (kelvin gibi mutlak birimleri) sıcaklık ve "PA∞" ve "PAS" dir vardır.
+"Geçiş rejimi" özgür moleküler ve sürekli rejimler veya bir parçacık tarafından yaşanan "Kn" ≈ 1 güçler arasındaki tüm parçacıklar içeren bireysel gaz molekülleri ve makroskobik etkileşimler etkileşimler karmaşık bir bileşimidir. Kitle akı açıklayan yarı ampirik denklem ise:
+Nerede "Ben" devam süreklilik rejimi kitle akı olduğunu. Bu formül Fuchs-Sutugin interpolasyon formülü denir. Bu denklemler dikkate ısı bırakma etkisi yapmayız.
+Bölümleme.
+Aerosol bölümleme teorisi sırasıyla aerosol yüzeyinden üzerinde yoğunlaşmayı ve buharlaşmayı yönetir. Kütle yoğunlaşması geliştirmek için, aerosolün tanecik boyutu dağılımlarının modu yol açar; tersine, buharlaşma modu bozulmasına neden olmaktadır. Çekirdek bir gaz ön kondensasyonu, özellikle bir buhar aerosol kütle oluşturma işlemidir. Buhar net yoğuşma süperdoyma, kendi buhar basıncından daha büyük kısmi basınç gerektirir. Bu üç nedenden dolayı ortaya çıkabilir:
+Çekirdeklenme süreçlerinin iki türü vardır. Gazlar tercihen heterojen nükleasyon diye bilinen önceden varolan bir aerosol partiküllerinin yüzeyleri üzerine aktarmak. Bu işlem, sabit sayıda konsantrasyonu artırmak için tanecik büyüklüğü dağılımının modunda çapı neden olur. Yeterince yüksek süperdoyma ve uygun bir yüzey ile, tanecikler, homojen nükleasyon diye bilinen bir önceden varolan yüzey yokluğunda yoğunlaşabilir. Bu partikül boyutu dağılımı, çok küçük, hızla büyüyen parçacıkların eklenmesi ile sonuçlanır.
+Aktivasyon.
+Su kat bunların genellikle bulut damlacık oluşturma bağlamında, "aktive" yapma, aerosollerde parçacıkları. (Sıvı damlacıklarının eğrilik göre) Kelvin denklem sonra, daha küçük parçacıklar daha büyük parçacıklar göre daha denge sağlamak için daha yüksek bir ortam bağıl nem gerekir. Aşağıdaki formül denge bağıl nemi verir:
+formula_45 (kavisli bir sıvı damlacık civarında) dengedeki bir parçacık, yukarıda doygunluk buhar basıncı olduğu, "s" 0 doymuş buhar basıncı (aynı sıvının düz bir yüzey) ve "S" doyma oranı olmasıdır.
+Eğimli bir yüzeyde, yukarıda doygunluk buhar basıncı Kelvin denklemidir:
+burada "RP" damla yarıçapı, damlacık "σ" yüzey gerilimi, sıvı, "M" molar kütle, 'T' sıcaklığı "ρ" yoğunluk, "R", molar gaz sabitidir.
+Genel Dinamik Denklem Çözümü.
+Genel dinamik denklemi (GDE) ile genel çözüm vardır; Genel dinamik denklemi çözmek için kullanılan genel yöntemler şunlardır:
+Üretimi ve Uygulamaları.
+İnsanlar çeşitli amaçlar, dahil olmak üzere aerosoller oluşturmak:
+Aerosoller oluşturmak için bazı cihazlar:
+Algılama.
+Aerosol ya yerinde-veya uzaktan algılama teknikleri ile ölçülebilir.
+Yerinde gözlemler.
+Yerinde ölçüm teknikleri mevcuttur bazıları şunlardır:
+Uzaktan algılama yaklaşımı.
+Uzaktan algılama yaklaşımlar şunlardır:
+Boyut seçici örnekleme.
+Parçacıklar (terminal bronşiollerde Trakeadan) solunum yollarında içinde derin, burun, ağız, yutak ve gırtlak (baş hava yolları bölge) mevduat veya alveol bölgede olabilir. solunum sistemi içinde aerosol parçacıklarının birikme yeri güçlü Bu tür aerosollerin maruz kalma sağlık etkileri belirler. Bu olgu solunum sisteminin bazı bölümlerini ulaşmak aerosol parçacıklarının bir alt kümesini seçmek aerosol numune icat insanlar açtı. İş sağlığında önemli bir aerosol, parçacık boyutu dağılımının bu alt gruplarının örnekleri arasında inhalasyon, torasik ve solunabilir paylarını içerir. solunum sisteminin her bir parçası girebilir fraksiyon hava yolunun üst kısımlarında parçacıkların birikimi bağlıdır. parçacıkların oranı olarak parçacıkların solunabilir kısmı, ilk olarak burun veya ağız girebilir hava dış rüzgar hızı ve yönü ve aerodinamik çap partikül boyutu dağılımına bağlıdır. göğüs fraksiyon toraks ya da göğüs bölgesi ulaşabilir, ortam bir aerosol partikül oranıdır. Solunabilir fraksiyon alveol bölgesine ulaşabilirler havadaki partiküllerin oranıdır. Havada parçacıkların solunabilir payını ölçmek için, bir ön-toplayıcı bir numune alma filtresi kullanılır. solunum yolları solunan havadaki parçacıkları gidermek öncesi toplayıcı parçacıkları dışlar. Örnekleme filtre ölçümü için parçacıkları toplar. Bu ön-kollektör için siklonik ayırma kullanmak yaygındır, fakat diğer teknikler Kırıcılar yatay elutriators ve büyük gözenekli membran filtreleri içerir.
+Genellikle atmosferik izleme kullanılan iki alternatif boyut seçici kriter, PM10 ve PM2.5 vardır. PM10 "ISO 7708 tanımlandığı gibi: 1995, Madde 6" torakal kongre ". PM10 karşılık 10 mikron aerodinamik çapı bir% 50 verim kesme ile bir boyut seçici giriş geçmesine parçacıklar" olarak ISO tarafından tanımlanan ve 1995: 7708, ISO tanımlandığı gibi PM2.5 yüksek riskli solunabilir kongre. "" 2,5 mikron aerodinamik çapı bir% 50 verim kesme ile bir boyut seçici giriş geçmesine parçacıklar, PM2,5 karşılık " 7.1. " Amerika Birleşik Devletleri Çevre Koruma Ajansı, 1997 yılında (aynı zamanda ince partiküler madde olarak da bilinir) PM2.5 başka 1987 yılında PM10 dayalı standart ve daha sonra tanıtılan standartlara Toplam Askıda Partikül dayalı partikül madde için eski standartlar yerini aldı.
+Atmosferik.
+Katı ve sıvı hidrometeorlar, aerosoller olarak tarif edilebilir olsa da, fark çoğunlukla aktif damla ve kristallerin, ve aerosol partiküllerinin ihtiva eden bu gibi dispersiyonlar (örneğin, bulutlar) arasında yapılır. Dünya'nın atmosferi miktarları dahil olmak üzere çeşitli tip ve konsantrasyonları, aerosollerini içerir:
+Aerosoller, örneğin, çeşitli formlarda, kentsel Ekosistemlerinde bulunabilir:
+dünyanın atmosferinde aerosollerin varlığı Dünya'nın iklimini yanı sıra insan sağlığını etkileyebilir.

@@ -1,0 +1,35 @@
+Kerte hattı
+Navigasyon olarak, bir kerte hattı (veya kerte hattı) aynı açı, "yani" nde bütün meridyenleri geçen bir yay Gerçek veya manyetik kuzeye ölçülen göreli olarak sabit rulman ile bir yol.
+Giriş.
+Bir dünya yüzeyinde bir kerte hattı seyir izleyen etkisi ilk 1590s Thomas Harriot tarafından daha fazla matematiksel gelişme ile, onun "Deniz Şeması Savunma Treatise" in, 1537 yılında Portekizli matematikçi Pedro Nunes tarafından tartışıldı.
+Bir kerte hattı bir kürenin yüzeyinde iki nokta arasındaki en kısa mesafe yoludur büyük bir daire ile tezat olabilir. Büyük bir daire üzerinde, hedef noktaya taşıyan sabit kalmaz. Eğer büyük bir çember boyunca bir araba olsaydı direksiyon sabit tutmak istiyorum, ama direkleri yaklaştı olarak daha keskin çevirerek, sen direksiyonu çevirmek zorunda kalacak bir kerte hattı takip etmek. Bir kerte hattı sıfır olmayan jeodezik eğrilik var ise başka deyişle, bir büyük daire, sıfır jeodezik eğrilik ile yerel "düz" dir.
+Boylam meridyenler ve enlem paralellikler kesiştiği kendi açıları sırasıyla 0 ° ve 90 ° olan kerte hattı, özel durumları sağlamak. Bu ekvator boyunca Doğu-Batı geçit üzerinde yaptığı gibi Kuzey-Güney geçişi üzerinde kerte hattı kursu, büyük bir daire ile çakışmaktadır.
+Bir Mercator projeksiyonu Harita üzerinde, bir kerte hattı düz bir çizgidir; Bir kerte hattı haritasının kenarından girmeden Dünyadaki herhangi iki nokta arasında böyle bir harita üzerinde çizilebilir. Ama teorik olarak kerte hattı daha sonra (harita boylam tam 360 derece kapsadığını varsayarsak) aynı eğim ile sol kenarında devam haritanın sağ kenarında ötesine geçebilir.
+Eğik açılarda meridyen kesti Kerte hatları kutuplara doğru spiral kerte hattında seyre ait eğriler vardır. Bir Mercator projeksiyonu üzerine Kuzey ve Güney kutupları sonsuza meydana ve bu nedenle gösterilen asla. Ancak sonsuz yüksek haritasında tam kerte hattı, iki kenarı arasındaki sonsuz sayıda çizgi parçaları oluşacak. Bir Sterografik projeksiyon Harita üzerinde, bir kerte hattı olan merkezi Kuzey (veya Güney) Kutbu bir eşit açılı sarmal olduğunu.
+Tüm loxodromes bir kutuptan diğerine spiral. Kutuplara yakın, onlar (aşağıya bakınız, tam olarak bir stereografik projeksiyon üzerinde) logaritmik spiral olmak yakın, bu yüzden her bir kutbun etrafında kez sonsuz sayıda rüzgar ama sonlu bir mesafe kutup ulaşır. Bir kerte hattı kutup-to-kutuplu uzunluk uzakta gerçek kuzeyden yatak kosinüs bölünmesiyle meridyen uzunluğunu (mükemmel küresi varsayarak) olduğunu. Loxodromes kutuplarda tanımlanmamıştır.
+Etimoloji ve tarihsel açıklama.
+Eğik + "dromos": ("dramein" den: çalıştırmak için) çalışan kelime "kerte hattı" "loxos" Yunan geliyor. Kelime "kerte" İspanyolca / Portekizce "rumbo / Rumo" (Tabii ki, yönü) ve Yunan "ῥόμβος" gelebilir.
+"Evrensel Bilgi Globe Ansiklopedisi" nin 1878 baskısı kerte hattı çizgileri olarak anlatılmaktadır:
+Matematiksel tanım.
+Β kerte hattı gerçek kuzeyden sabit yatak olmalı ve kerte hattı ekvatoru geçer boylam olmak FORMULA_1 olsun. Formula_2 kerte hattı üzerindeki bir nokta boylam olsun. Mercator projeksiyonu altında kerte hattı düz bir çizgi olacak
+yamaç formula_5 ile. Mercator projeksiyonu pozisyon formula_2 enlem ve boylam formula_6 bir nokta için olarak ifade edilebilir
+Miktar formula_10 genellikle formula_11 ile gösterilen izometrik enlem vardır.
+Sonra nokta enlem olacak
+veya Gudermannian işlev açısından "gd" formula_13
+Kartezyen koordinatlarda bu basitleştirilmiş olabilir
+Verilen iki nokta arasındaki loxodromes bulma Mercator harita üzerinde grafiksel yapılabilir veya tan iki bilinmeyenli ("α") olarak iki denklem doğrusal olmayan bir sistem çözerek ve "λ0" olabilir. Sonsuz sayıda çözüm vardır; kısa biri, yani ekstra devrimler yapmaz gerçek boylam farkı kapsar ve "etrafında yanlış bir şekilde" gitmez hangi olmasıdır.
+Bir kerte hattı boyunca ölçülen iki nokta arasındaki mesafe, sadece yatak (azimut) ve sekant mutlak değeri kat (mesafe sonsuz hale geldiği için enlem çevrelerinde hariç) kuzey-güney mesafe.
+Uygulama.
+Navigasyon Kullanımı doğrudan tarzı, ya da bazı seyir haritaları "projeksiyon" ile bağlantılıdır. Bir kerte hattı Mercator projeksiyonu harita üzerinde düz bir çizgi olarak görünür.
+Isim İspanyolca sırasıyla Eski Fransızca veya türetilmiştir: "" rumb "" veya "Rumbo", aynı açıda tüm meridyenleri kesişen grafik üzerinde bir çizgi. Bir uçak Yüzeyde bu iki nokta arasındaki en kısa mesafe olacaktır. Düşük enlemlerde veya kısa mesafelerde yeryüzü üzerinde bir araç, uçak veya gemi seyrini komplo için kullanılabilir. Uzun mesafelerde ve / veya yüksek enlemlerde büyük daire rota aynı iki nokta arasındaki kerte hattı önemli ölçüde daha kısadır. Ancak büyük bir daire rota seyahat ederken sürekli yatakları değiştirmek zorunda rahatsızlık belirli durumlarda çekici "kerte hattı navigasyon" yapar.
+Nokta büyük daire ve kerte hattı mesafeleri aynı oldukları ekvator boyunca boylam 90 derece üzerinde bir Doğu-Batı geçit ile açıklanabilir. Kerte hattı mesafesi yaklaşık 1 ½ oranında daha, ise 20 derece North büyük daire mesafesidir. Kerte hattı, 8½ yüzde fark ise ancak 60 derece Kuzey büyük daire mesafesidir. Bir daha aşırı durum New York ve Hong Kong arasındaki hava yolu, kerte hattı yolu olduğu içindir. Kuzey Kutbu üzerinde büyük daire rota veya tipik seyir hızında 5½ saat daha az uçuş zamanı.
+Mercator projeksiyonu bazı eski haritalar enlem ve boylam çizgileri oluşan ızgaraları var ama aynı zamanda kuzeyden dik açıyla, kuzeye doğru doğrudan yönlendirilmiş hatları kerte göstermek veya kuzeyden bazı açıda bazı basit rasyonel kesir olan bir dik açı. Bu noktaların her biri yakınsama istiyorum her yöne gidiş hatları: Onlar haritanın belli noktalarda kesişen böylece bu kerte hatları çizilmiş olacaktır. Pusula gül bakın. Bu tür haritalar mutlaka Mercator projeksiyonu olurdu bu nedenle tüm eski haritalar kerte hattı işaretleri gösteren yetenekli olurdu değil.
+Bir pusula gül radyal hatları da "rhumbs" denir. Ifadesi "" Bir rhumb yelken "" Belirli bir pusula başlığı belirtmek için 16-19. yüzyıllarda kullanılmıştır.
+Geminin enlem Güneşin görüldüğüne veya yıldızlar tarafından doğru kurulmuş ancak boylam belirlemek için kesin yolu yoktu olabilir çünkü uzun okyanus geçişleri kerte hattı dersleri kullanılan deniz kronometre icadından önce zaman erken navigasyon. Hedef enlem kadar Kuzey ya da Güney yelken gemi ulaşıldı ve gemi daha sonra sabit bir enlem koruyarak, (aslında kerte hattı özel bir durumdur paralel) kerte hattı boyunca Doğu veya Batı yelken ve Arazinin kanıtlar görüşlü kadar mesafe kayıt düzenli tahminler kalkmıştı.
+Genelleştirmeler.
+Riemann küresinin.
+Dünya yüzeyinin kompleks düzlemine kürenin bir izdüşümü olarak, bir Riemann küre, matematiksel olarak anlaşılabilir. Bu durumda, loxodromes Möbius dönüşümlerinin belirli çeşit olarak anlaşılabilir.
+Sfero.
+Formülasyon, yukarıda kolayca sfero uzatılabilir. Kerte hattı ders elipsoidal izometrik enlem kullanarak sadece bulunur. Aynı mesafeler semt sekant tarafından elipsoidal meridyen yay uzunluğunu çarpılması suretiyle bulunur.
+Dış bağlantılar.
+"Not: Bu makale Evrensel Bilgi, kamusal alanda bir çalışma Küre Ansiklopedisi'nin 1878 baskısında metni birleştirir"

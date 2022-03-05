@@ -1,0 +1,294 @@
+Question: Yıl boyunca nemli ve yağışlı olan, gür ormanlar ve otlakların bulunduğu yerlerde hangi hayvancılık çeşidi gelişmiştir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’De Başlıca Toprak Tipleri (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Zonal Topraklar
+Kahverengi Orman Toprakları: Orman örtüsü altında oluşan bu topraklar organik madde bakımından zengin olduklarından renkleri koyudur. Yıkanmanın fazla olduğu yerlerde asitli ve kireçsiz orman toprakları oluşmaktadır. Ülkemizde bu tip topraklar, Kuzey Anadolu Dağlarının denize bakan yamaçlarında yaygındır. İyi yıkanmış bu topraklar çay ve kivi yetiştirmek için oldukça elverişlidir.
+Kırmızı Akdeniz Toprakları (Terra-Rossa): Organik madde bakımından fazla zengin olmayan bu topraklarda genellikle turunçgil, bağcılık ve zeytin tarımı yapılmaktadır. Bu topraklar ülkemizde Marmara Bölgesinin güney kesimi ile Ege ve Akdeniz bölgelerinde yaygın olarak görülmektedir.
+Kahverengi Bozkır Toprakları: Bozkır sahalarında, yıllık yağış miktarının 400 mm'nin altında olduğu yerlerde oluşan bu topraklar, organik madde bakımından fazla zengin değildir. Ülkemizin iç kesimlerinde yaygın olan bu topraklarda genellikle tahıl tarımı ve küçükbaş hayvancılık yapılmaktadır.
+Kestane Renkli Bozkır Toprakları: Bozkır alanlarında yıllık yağış miktarının 400-600 mm olduğu yerlerde oluşan bu topraklar, organik madde bakımından zengindir. Ülkemizin iç kesimlerinde görülen bu toprakların bulunduğu alanlarda genellikle tahıl tarımı ve küçükbaş hayvancılık yapılmaktadır.
+Çernezyom (Kara Topraklar): Karasal iklimde çayır bitki örtüsü altında oluşan bu topraklara Erzurum-Kars çevresinde ve Doğu Karadeniz Dağlarında rastlanır. Üzerinde gür otlakların bulunduğu bu alanlarda genellikle büyükbaş hayvancılık yapılmaktadır.
+2.	İntrazonal Topraklar
+Vertisoller: Vertisollerin yüksek tarımsal potansiyel özelliği vardır. Bu topraklarda her ne kadar düşük yağış nedeni ile nem eksikliği görülse de sulama ile vertisoller çok verimli tarım topraklarına dönüşebilir. Örneğin Trakya’da karakepir toprağı olarak tanımlanan vertisoller üzerinde buğday ve ayçiçeği tarımı yapılır. Bu topraklara Anadolu'da ise taş doğuran toprak denir. Kil oranı fazla olan bu toprakların işlenmesi zordur.
+Tuzlu Topraklar: Kapalı havza veya eski göl tabanlarında oluşan topraklardır. Bu topraklarda tuz oranı fazla olduğundan tarım yapılamaz.
+Bu tip topraklara Tuz Gölü çevresinde ve Konya Ovası’nda rastlanmaktadır.
+3.	Azonal Topraklar
+Alüvyal Topraklar: Akarsuların taşıyıp biriktirdiği malzemelerden oluşan alüvyal topraklar; vadi tabanlarındaki düzlüklerde, birikinti ovalarında, delta ovalarında ve eski göl tabanlarında yaygındır.
+ülkemizde alüvyal toprakların görüldüğü başlıca alanlar:
+Karadeniz kıyılarında; Bafra, Çarşamba ve Adapazarı ovaları
+Ege kıyılarında; Bakırçay, Gediz, Küçük ve Büyük Menderes ovaları
+Akdeniz kıyılarında; Çukurova, Amik Ovası, Silifke ve Antalya ovaları
+İç kesimlerde; Erzurum, Erzincan, Muş, Erbaa, Niksar ve Konya ovaları alüvyal toprakların geniş yer kapladığı alanlardır.
+Bu topraklar, taşınan materyalin özelliklerine bağlı olarak killi, kalkerli veya kumlu olabilir.
+Alüvyal toprakların horizonları gelişmemiştir. Toprak yüzeyi, akarsuların taşıyıp getirdiği malzeme ile sürekli yenilenmektedir.
+İşlenmesi kolay olan alüvyal topraklar, mineral ve organik madde bakımından zengin olduklarından verimleri oldukça yüksektir. Bu nedenle alüvyal toprakların bulunduğu yerler ülkemizin önemli tarım alanlarıdır.
+Kolüvyal Topraklar: Kolüvyal toprakların bulunduğu alanlar ağaç tarımının yapıldığı alanlar ile ormanlık sahalar olarak karşımıza çıkar. Su tutma kapasitesi düşük olan bu topraklarda genellikle bağcılık ve bahçe tarımı yapılmaktadır.
+Regosoller: Regosoller kumlu topraklar olduğundan yağış suları kısa zamanda toprağa sızar. Bundan dolayı ayrışma fazla olmadığından topraklar son derece geç gelişir. Ağrı ve Van’da bu topraklara rastlan-maktadır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gürünlü, Eğil</DOCTITLE>
+<TEXT>
+
+Gürünlü, Diyarbakır ilinin Eğil ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nereden geldiği ve geçmişi hakkında bilgi yoktur.Kürtçe ismi 'Birsın'dır.Sekiz defa yıkılıp farklı yerlerde yeniden kurulduğu rivayet edilmektedir.Eğil ilçesinin okuma yazma oranı en yüksek köylerinden biridir.Daha önce Diyarbakır merkeze bağlı olan köy 1987 yılında Eğil'in ilçe olmasıyla Eğil ilçesine bağlandı.Köy halkı gerek ulaşım sorunu ve gerek Eğil'in sapa bir yerde olması nedeniyle ihtiyaçlarını daha çok Ergani ilçesinden karşılamaktadır.
+Kültür.
+Köyün gelenek, görenek ve yemekleri hakkında bilgi yoktur.
+Coğrafya.
+Diyarbakır iline 64 km, Eğil ilçesine 18 km uzaklıktadır.Bir zamanlar ormanlarla kaplı dağlık çevresi yoğun otlatma ve ağaç kesimi nedeniyle ormanlık alan kalmamıştır.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.Çevre köylere göre tarım alanları en geniş yerlerden biridir.Bağcılık gelişmiştir.Halk yaş üzümleri satmamakta daha çok pestil,pekmez,kesmeve helva vb. yaparak ihtiyaç fazlasını çevre yerlere satmaktadır.Bir zamanlar ilçenin en çok keçi ve koyun bulunan Gürünlü Köyü yoğun otlatma ve ağaç kesimi nedeniyle ormanlık alanın yok olması ve buna bağlı olarak otlakların verimsizleşmesiyle hayvancılık gerilemiştir.
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır.Diyarbakır'da yapılan ilk köy okullarından biridir. Güvenlik nedeniyle yedi yıl kapalı kalmıştır.Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi yoktur. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karaçepiş, İvrindi</DOCTITLE>
+<TEXT>
+
+Karaçepiş, Balıkesir ilinin İvrindi ilçesine bağlı bir köydür.
+Tarihçe.
+Köyümüzün kuruluş tarihi tam olarak bilinmemektedir. Köyümüzü Karakeçili aşiretinden gelen ve buraları yurt edinen Yörüklerden oluştuğu bilinmektedir. Köyümüzün 1984 yılında yıkılan eski camii ve bu camiinin yapım tarihide bilinmemekte idi. Yıkılmadan önce caminin üzerinde yazılan yenileme tarihi hicri 1350 yılını göstermesi de caminin ve köyümüzün çok eski bir yaşam yeri olduğunu göstermektedir. Nüfus Müdürlüğü kayıtlarına göre de, ilk kayıta 1830 yıllarında Ümmühan adında ve baba adı Ali anne adı Hatice olan ve daha sonraki kayıtırlar da bu şahısın çocuklarının Çiftçi Soyadını aldığı görülmektedir. Buda köyümüzün ilk kurucularının Çiftçiler sülalesi olduğunu anlaşılmaktadır. Daha sonra 1842 doğumlu Ahmet ve Gılmen Oğlu İBRAHİM isminde ki şahısın çocukları ve yine 1842 itibarı ile kayıtlarına rastlanan Keşkekçi, 1853 yılında taşkınlar (paşalar) ,1863 kavalcı, 1865 taşçılar ve 1867 sarılar 1868 Özdemir, 1877 Gündoğanlar, 1878 yılında da Bakırlılar sülalesi görülmektedir.Ayrıca Kaygısız sülalesi (Ahmetusta) net tarihi bilinmemektedir. Tabi bu günümüze aktarıla bilen kayıtlar. Bide bu kayıtlardan öncesi olduğu düşünülmektedir. Köyümüz yıllar boyu bölgemizde tarım ve hayvancılık merkezi olmuştur. Bunun nedeni ise arazinin ve suyun bol olmasından kaynaklanmaktadır. Arazimizin Cumhuriyet tarihine kadar şuan ki sınırlarına Araplar (Okçular) köyünün de içinde bulunduğu dereden itibaren olduğu ve buralar da köyümüzün üzüm bağlarının olduğu bilinmektedir. Bu da köyümüzün arazilerinin büyüklüğüne bir örnektir. Şimdi her ne kadar Okçular köyü bu arazileri kendilerine yurt verenlerin değerini bilememişlerdir. Kendilerine buraları yurt verenlere de büyük saygısızlıklar yapmışlardır. Eskilerin anlattığı rivayetlere göre köyümüz 1960lı yıllara kadar köyün içine kadar giren ormanlarla çevriliydi. Daha sonraları bu orman örtüsü insan eliyle yok oldu. Tabi bunda o zamanlar yetiştirilen keçi sürülerinin de etki az olmadı. Kurtuluş savaşı yıllarında köyümüzün büyük olması ve çevreye göre her tarafının acık olması, saldırı imkanının zor olmasından Askeri karakol kurulmuştur.Fakat daha sonra Şu anki ilçemiz olan İvrindi ye taşınmıştır. KÖYÜMÜZÜN ADI Köyümüzün ilk adı anlatılanlara göre Yeşiloba köyü olduğu rivayet edilir. Köyümüzde o zamanlar her yerin ağaçlık ve yeşilliktir. Köyümüzün halkının o tarihlerde yerleşik hayata tam ayak uyduramamış, eski işleri olan keçi ve koyun yetiştiriciliğine devam etmektedir.Bu tarihlerde köyün adı yeşiloba olarak anılmaktadır.Daha sonra buradaki keçi sürülerinden birisinin sahibi sürüsünde bulunan oğlaklarını komşu köye satmıştır. Otlak bulamayan oğlaklar (eski adıyla çepiş)(Çepiş=dişi keçi yavrusu) köyümüze sürekli kaçmaları sonucunda, Çepişleri alan şahıs sürekli kaçan çepişlerin peşinden köyümüze gelir olmuş. Nereden geldiğini de soranlara benim Karaçepişlerin köyünden dermişi. Bu zaman çivarda Karaçepişlerin köyü diye anılmaya başlamıştır.Daha sonraları da şimdiki adı olan KARAÇEPİŞ köyü olalarak anılmıştır. NOT:.Köyün adı ile ilgili bu bilgiler yıllar önce Çambaz dedenin anlattıklarıdır.(CAMBAZ DEDEYE SAYGILARIMLA )
+Kültür.
+Köyde Kurban Bayramlarında, Hıdırellez'de, düğünlerde büyük eğlenceler tertiplenmektedir.
+Köyün geleneksel düğün yemekleri­­; çorba, keşkek, bulgur pilavı, makarna, etli patates, nohut, mevsime göre yemek çeşitleridir. Örneğin; karnıyarık ve tatlı( meyhane tatlısı, baklava, hoşmerim ve İrmik helvası).Özel gün ve misafirlere Fırında Oğlak Dolma ve Kuzu,Oğlak Çevirme de yapılmaktadır. 
+Köyün piknik yapılacak yerleri: Gölet çevresi (yaz, kış her mevsim büyük ilgi görmektedir), Ayvaz çeşmeleri, Yeni Kuyu, Bakacak (bayramlarda, düğünlerde köyün gençliği tarafından çok büyük ilgi görmektedir.), Cevriye Nine çeşmeleri, Şeytan Şelalesi, dere kenarları gibi daha birçok yer...
+Coğrafya.
+Marmara Bölgesinin Güney Marmara Bölümünde bulunur.Balıkesir'in batısında ortalama yükseltisi 700 metre olan bir bölgede bulunur.Ayrıca bulunduğu bölgeden Gönen Çayı akar.Verimli arazisi sulak otlakları vardır.Karaçepiş göleti İvrindi'nin sayılı göletlerindendir. Balıkesir iline 43 km, İvrindi ilçesine 6 km. uzaklıktadır.
+İklim.
+Köyün iklimi, Marmara Ilıman iklimi etki alanı içerisindedir.Kışları soğuk ve kar yağışlı, yazları sıcak ve kuraktır.Yağış ise daha çok bahar aylarında alır.İklimin elverişli olması nedeniyle toprak verimlidir.Kısa zaman öncesine kadar etrafı çam ağaçları ile çevrili bir köy olmuştur.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır. Köyde tarım çok gelişmiştir. Gelişimdeki etken ise buraya yapılan Karaçepiş Göletidir. Sulama amaçlı olarak yapılan göletten İvrindi ve diğer köylerde yararlanmaktadır.Yeni yapımına başlanan baraj oldukça büyük olup 5 yıla kadar bitmesi planlanıyor ve bu süreç içerisinde köylüye iş imkanıda sağlıyor.
+Tarım.
+Köyde tarım denince eskiden ilk akla gelen tütüncülük ve bakliyattı. Fakat tütün işi çok zahmetli bir işçilik istediği için ve zamanla gelen kotalar ve gelişen teknoloji nedeni ile tütün üreticiliği bitmek üzeredir. Tabi bunda köye yapılan sulama göletinin payı da çoktur. Daha önceki yıllarda sulama işi Madra çayı önüne köy imecesi ile kurulan bent sayesinde yön değiştirilen suyun arklara alınması ile yapılmakta idi. Fakat gölet yapıldıktan sonra sulama alanının daha da genişlemesi ile tarımda büyük değişiklikler meydana geldi. Gelişen teknolojiyle de artan traktör ve ekipmanları ile kendini geliştiren köy halkı, alternatif ürünlere yöneldi. Böylece köy, ürün çeşitliliğini kazandı. Halen köyde buğday, mısır, kuru fasulye, nohut, bakla, susam, ayçekirdeği gibi ürünlerin üretimi devam etmektedir. Sebze bakımından arazinin ovalık, verimli ve de sulak olmasından, ağırlıklı ürünler olarak salçalık, yemeklik domates ve biber üretilmektedir. Yine köyde son yıllarda, turşuluk kornişon cinsi salatalık ve turşuluk sivri biber üretimi büyük artış göstermektedir. Köye yapılan ağır tonajlı, bilgisayarlı kantar ve rampa sayesinde ürettiklerini pazarlamak için de büyük çaba sarf etmesine gerek kalmamaktadır. Köydeki üretimin bolluğu, ulaşım imkânlarının kolaylığı, kısacası tarımsal ürünler işleyen firmaların ihtiyaçlarına cevap verecek konumda olması sayesinde, firmalar tarafından cazibe merkezi olmaya başlamıştır.
+Sürekli artan imkanlar sayesinde Ceviz, Çam fıstığı gibi fidanlar dikilerek yeni çeşitler ile yeni tarıma yönlenmeside çok olumlu bir gelişmedir yeni yapılmakda olan barajın bitmesiyle dahada gelişip büyümesi beklenmektedir.
+Hayvancılık.
+Köyümüzde Hayvancılık denince akla ilk olarak koyun yetiştiriciliği gelirdi. Bunun sebebi de ekilen tahılgillerin bolluğu ve otlakların çok olmasından kaynaklanmakta idi. Köyde yetiştirilen koyun ırkları ise Merinos'tur. Köyde, yıllardır keçi yetiştirilmemektedir. Koyun yetiştiriciliği eskiden çok cazip ve köy halkının çoğunluğu tarafından yetiştirilmekte idiyse de artık bu durum tamamen değişerek büyükbaş yetiştiriciliğine kaymıştır. Arazilerinin sulanabilirlik oranının artması ile ve silajlık hayvan yem bitkilerinin ekiminin yaygınlaşması ile, büyükbaş hayvan yetiştiriciliğinin daha kolay ve masrafsız bir hal almıştır. Bu durum, koyun yetiştiriciliğini büyük oranda etkilemiştir. Hayvan yetiştiriciliğinin bu yön değiştirmesinde, sadece maddi olgular değil teknik gelişmeler de etkili olmuştur. Köyde süt ırkı büyükbaş hayvan olarak; Hollanda cinsi sığırlar ve son zamanlarda devlet tarafından satılan süt ırkları bulunmaktadır. Ayrıca köylü tarafından süt mandırası da yapılmışsa da çevrede bulunan mandıraların çok olması nedeniyle faaliyete geçirilmemiştir. Yine son yıllarda köyde, tavuk besi çiftlikleri kurulmuş ve tavuk besiciliği de yapılmaya başlanmıştır. Kümes sayısı her gecen gün artmaktadır. Yapılan kümeslerin modern ve büyük olması da köye ekonomik bakımdan katkı sağlamaktadır. Yine köy arazilerinde yetişen çiçek sayısının ve bitki örtüsünün bolluğu sayesinde arıcılık da yapılmaktadır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. 4 kahvehane,4 bakkal,1 berber salonu vardır. Köye merkeze yakınlığından dolayı ebe verilmemektedir.Köyün hem içme suyu şebekesi hem kanalizasyon şebekesi vardır. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi yoktur.(yeri ve yapımı düşünülüyor) Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+Ayrıca son yıllarda gelişmeye hızla devam eden köyde 2 internet kafe 1 playstation salonu bulunmaktadır internet kullanımı artarak ilerlemektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ortaköy, Amasya</DOCTITLE>
+<TEXT>
+
+Ortaköy, Amasya ilinin Merkez ilçesine bağlı bir köydür.
+Tarihçe.
+Köye ORTAKÖY adı;Soma,İlgazi,Yördenik(köylerin eski ismiyle)vb. yerleşkelerin arasında kaldığı için verilmiştir.Bir rivayete göre bir koyunun çıkardığı su sebebiyle köy daha yukarıya taşınarak şimdiki haline ulaşmıştır.
+Kültür.
+Köyün gelenek ve görenekleri tipik Amasya köyleri gelenekleri gibidir.
+Yemeklerden ise keşkek ve toyga çorbası en meşhur olanıdır. Özellikle bayram sabahları,hemen hemen her evde, her sofrada keşkek bulunur. Keşkek iki türlü yapılmaktadır. Birincisi (gerçek lezzetli olanı); fırında pişen keşkektir ki bu asıl olandır ve bayram sabahları herkesin merakla beklediği budur. Ocak keşkeği dedigimiz bir keşkek türü daha vardır ki bu da malzeme olarak aynıdır fakat bu, evde sobada veya ateşte pişmektedir. Bununda lezzeti diğerinden aşağı değildir.
+Coğrafya.
+Amasya merkezine 34 km uzaklıktadır.Ayrıca suluovaya 23, merzifona ise 32 km uzaklıktadır
+İklim.
+Köyümüz geçiş bölgesinde bulunduğu için iklimi sert olmamakla birlikte karasaldır.Yazları sıcak ve kurak.kışları ise soğuk ve karlıdır.ama buna rağmen diğer köy ve kasabalara göre arazisi fazla olup tarım daha gelişmiştir.köye ait bie baraj ve bir de gölet bulunmaktadır.baraj köye yetecek kadar büyük olup balık yönünden zengindir.zaten bu güzel köyümüzün barajındakı balıklar çevre köylerde büyüklük ve lezzetleri ile son derece önemli dikkat çekmektedir.amasya ya çok şey kazandıran bir köydür...:-)
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.köyümüzde buğday,şeker pancarı,soğan,fiğ,ay çekirdeği yetiştirilmektedir. Hayvancılık eskisi kadar yaygın degildir özellikle küçükbaş hayvancılık meraların ve otlakların kaybolmasından dolayı tamamen bitmiş büyükbaş hayvacılık ise ticaretin yapmaktan çok kendine yetecek kadar bir hayvan yetiştirecegi kadar azalmıştır .Tarım gelirierinin azalması ve malıyetın yükselmesi nedeniyle köyümüzde ciddi derece de göç yaşanmaktadır.resmi olmayan bir bilgiye göre köyümüzün ortalama yaşı 55 üzeridir.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre muhtarlar:
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır.Fakat öğrenci yetersizliği ve taşımalı eğiitim sistemi nedeniyle kapalıdır. Köyün hem içme suyu şebekesi hem kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık evi vardır. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır. Köyün bir göleti ve bir de barajı mevcuttur.köy meydanı olan cami önü de ayrıca parke zemindir
+Dış bağlantılar.
+[http://www.facebook.com/groups/191970467505328/]
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kayarcık, Tufanbeyli</DOCTITLE>
+<TEXT>
+
+Kayarcık, Adana ilinin Tufanbeyli ilçesine bağlı bir köydür.
+Tarihçe.
+Kayarcık Köyü. 350-400 yıl kadar önce kurulmuiş bir Türkmen köyüdür. Daha öncelere ait herhengi bilgi ve bulgu yoktur. Bizans döneminde köyün su kaynağından yararlanıldığı sanılmaktadaır. Şöyle ki; Köyün güneyinde bulunan Kazle denen yerde bir Bizans yerleşim yeri varmış yapılan kazılardan anlaşılmaktadır. Köyün suyuda cere borularla buralara götürülmüş ama köyün bugünkü yerleşim yeri boş ormanlık arazi imiş. Kayarcıkta şu an ikamet eden ailelerden Fakıların ataları Kavukluzade Mehmet Hoca ilk sakinlerdendir. Bu durum arazi ve çeşmenin başında olmalarından anlaşılmaktadır. Kavuklu Mehmet Hoca Konar göçer bir Türk Aşiret Mensubudur. Köye yerleştikten sonra hayvancılığın yanında ziraatcılıkta yapmaışlardır.Bugün Mehmet Hoca'nın torunları Fakılar namı ile yaşamaktalar.
+Kayarcık köyünde kültür folklör olarak çok guzel oyun oynanmaktadır.antık bır özelliği yoktur.herkesin lakabı vardır.herkes konar ve göcerdir.
+Kültür.
+Oğuz Türkmen Kültür gelenek ve görenekleri yaşanmaktadır.
+Coğrafya.
+Adana iline 205 km, Tufanbeyli ilçesine 18 km uzaklıktadır. Göksu çayı köyün batısından geçer. Köyün sulanabilir arazileride bu çayın kenarındadır.
+İklim.
+Köyün iklimi, Türkiye'de karasal iklim etki alanı içerisindedir.
+kışları çok sert geçmektedir.gunlerce yollar kapalı kalmaktadır
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır. Küçükbaş hayvancılık zamanla gelişmişse de otlakların azalması ve ormanların yok edilmesine paralel olarak önemini yitirmiştir.
+Altyapı bilgileri.
+Adana ilinin Tufanbeyli ilçesine bağlı Kayarcık köyü, yaklaşık 7. ve 8. yüzyıllarında Toros dağlarının arasında küçük bir platoya kurulmuştur. Bazı söylemlerin olmasına rağmen kimler tarafından kurulduğuna dair kesin bir bilgi yoktur. Göksu çayı köyün batısından geçer. Köyün sulanabilir arazileri de bu çayın kenarındadır. Halkın geçim kaynağı (Buna yaşayabilme kaynağı demek daha doğru olur!), tarım ve hayvancılığa dayalıdır. Küçükbaş hayvancılık zamanla gelişmişse de otlakların azalması ve ormanların yok edilmesine paralel olarak önemini yitirmiştir.
+Kayarcık köyü, kuruluşundan yaklaşık1300 yıl sonra, yine kendi çabaları ile, elektrik, telefon, kanalizasyon ve su problemini çözmüştür ve yolu asfalttır!.. Köyde sağlık ocağı binası olmasına rağmen köyde doktor yoktur ve sağlık hizmetleri şimdilik bir hemşire ile yürütülmektedir. Köy ilkokulunun özelliği Cumhuriyetten önce kurulmuş olmasıdır. Köy halkının okuma yazma oranı oldukça yüksektir. 
+Sözler vardır, çok sade ve yalın. Herkesin söyleyebileceği kadar basittir ama herkesin yapamayacağı, beceremeyeceği kadar çok zor olanı ise sözlerin şiir haline getirilmesidir. Bunu da herkes yapamıyor tabi. Ama Ahmet Kutsi Tecer yapmış; Orda bir köy var uzakta, O köy bizim köyümüzdür, Gezmesek de tozmasak da, O köy bizim köyümüzdür... diye bir şiir yazmiş. Bu sözleri hemen hemen herkes bilir ve dile getirebilir fakat şiir haline getiremez. Şaiirin ve yazarın önemi ve değeri de burada ortaya çıkar.
+Evet; o köy bizim köyümüzdür. Unutulmuşluğuna, ezilmişliğine ve bütün olumsuzluklar ve ağır yaşam koşullarına rağmen o köy bizim köyümüzdür! Gitmesek de gelmesek de, o köy bizim köyümüzdür.../
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Günbalı, Sivrice</DOCTITLE>
+<TEXT>
+
+Günbalı, Elazığ ilinin Sivrice ilçesine bağlı bir köydür.
+Tarihçe.
+Köyümüz Elazığ İli Sivrice İlçesi'ne bağlı GÜNBALI Köyü eski ismi CAFOLAR'dır. 
+Köyümüzün kurucuları Dedelerimizden İki kardeş Hacı Muhammed ve Hacı Halit Karakeçili aşiretine mensup uzun yıllar önce yine Elazığ İli Baskil İlçesi Kömürhan yakınlarında Cafikler adlı bir köyde ikamet ederlerken Cafolar Köy'ünü yazlık olarak kullanırlarmış. Uzun zaman yaz aylarında otlakları kullanma amaçlı göçebe olarak gelip gitmişlerdir. Bir zaman sonra gidip gelmek yerine burayı yurt edinme kararı almışlar ve böylece buraya Cafolar ismini vererek köyü kurmuşlardır.
+Köy İki kardeşin çocukları, torunları, torunlarının torunları ile büyüyüp zamanla dışarıdan göç alarak mahallelere ayrımıştır. (Hemperler, Dağlısu, Huttolar, Currolar, Mamolar, Osikler, Guriyanlar).
+Köy Elazığ Gelenek,Görenek ve Ananelerini birebir yaşayan ender köylerdendir.
+Dedelerimizden çeşitlli savaşlara katılıp şehit düşenler olmuştur. Yemen Harbi'nde (Sadık GÖNÜLTAŞ), 1.Dünya Savaşı'nda Suriye Cephesi'nde(Osman ve Hüseyin ERDOĞAN) şehit düşerek köylerine geri dönememişlerdir.
+Köyde aynı sülaleden olunmalarına rağmen, soyadı kanunu ile birlikte 7 farklı soyisim kullanılmıştır.
+Kültür.
+Köyde asker gönderme dönemlerinde çeşitli eğlenceler düzenlenmektedir. Yine düğünlerde davul-zurna eşliğinde halaylar çekilerek oyunlar oynanmaktadır. Kına geceleri apayrı bir özellik taşımakta. Giyim olarak Elazığla özdeşleşmiş bir durum gözümüze çarpmaktadır. Sekiz köşe şapka, yelek, şalvar ve ceketten oluşan erkek giyimi kendine has bir özellik taşır. Kadınlar ise şalvar, yazma ve çarşaf gibi giysiler kullanmaktadır. Ölümlerde yas tutma geleneği Elazığ iliyle özdeşleşmiştir.Ölen birinin ardından ağıt yakmak yıllardan beri süregelen gelenekler arasında yerini korumaktadır.
+Coğrafya.
+Günbalı Köyü; Kuzeyinde Mollaali Köyü, Güneyinde Dereboynu Köyü, Doğusunda Kavallı Köyü ve Batısında Baskil ilçesi Sarıtosun köyleriyle sınırlıdır.Köy, dağınık bir yerleşmeye sahiptir. Yedi mahalle halinde olan köyün etrafı dağlarla çevrilidir. Oratasından ise büyük bir dere (çay ) geçer. Elazığ iline 38 km, Sivrice ilçesine 35 km uzaklıktadır.GÜNBALI KÖYÜ, genellikle geniş ve düz bir araziye sahiptir. Kış aylarında ulaşım oldukça güçtür. Genelde Kış ayında yollar kapanır.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir. Kışlar soğuk, yazlar sıcak ilkbaharlar ise yağışlı geçer.
+Nüfus.
+Verilen rakamlardan da anlaşılacağı gibi köy nüfusu her yıl azalmaktadır. Bunun en büyük nedeni ise işsizlik ve köy halkı arasında meydana gelen anlaşmazlıklardır. Köy, Molla Hüseyin adlı bir mezrası da bulunan Günbalı Köyü, ilk kurulduğu dönemlerde 118 haneye sahipti. Fakat zamanla yaşanan göçlerden dolayı bu sayıda büyük azalmalar meydana gelmiştir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır. Ayrıca köyün taşımacılık işletmesini köy halkından olan Ayhan Gündem yapmakta ve geçimini bu yolla sağlamaktadır. Tarım ürünleri olarak buğday, arpa, nohut, mısır, çilek ve yer yer karpuz yetiştirilmektedir. Hayvancılık alanında ise genelde koyun, keçi ve az miktarda da inek besiciliği yapılmaktadır. Özellikle son yıllarda arıcılık alanında önemli atılımlar gerçekleştirilmiştir.Ayrıca son yıllarda otlakların büyük bir bölümünü ormanlık alanların kaplamasından dolayı köyde hayvancılık faaliyeti iyiden iyiye gerilemiştir. Arazinin büyük bir bölümünün engebeli olması ve çoraklaşmasından dolayı tarım sektöründe ilkel koşullarda üretimin yapılmasına neden olmuş ve bunun neticesinde tarımsal alanda fazla bir gelişme kaydedilememiştir.Ayrıca tut bahçeleride çok ün kazanmıştır.
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ancak öğretmen yokluğundan ve öğrenci yetersizliğinden dolayı kullanılamamaktadır. Köyün içme suyu şebekesivardır fakat kanalizasyon şebekesi yoktur. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol stepze olup köyde elektrik ve sabit telefon vardır.Köyde bir cami ve bu camiye ait bir lojman mevcuttur.köyün yolu asvalt dağildir gerekli kurumlardan yolların asvalt yaptırılmasını istiyoruz.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ege Bölgesi</DOCTITLE>
+<TEXT>
+
+"
+Ege Bölgesi, Türkiye'nin yedi coğrafi bölgesinden biridir. İsmini kıyısında olduğu Ege Denizi'nden alır. Ege (Asıl Ege, Kıyı Ege) ve İç Batı Anadolu (İç Ege) olmak üzere iki bölüme ayrılır. Kuzeyde Marmara, doğuda İç Anadolu, güneyde Akdeniz bölgeleriyle ve son olarak batıda Ege Deniziyle çevrilidir. Türkiyenin en uzun kıyı şeridine sahip bölgesidir. 
+Coğrafya.
+Sınırlar.
+Bölgenin Sınırları; 
+Kuzey; Kaz Dağı, Madra Dağı, Simav Dağları ve Dominiç Dağıdır. 
+Doğuda; Türkmen Dağı ve Emir Dağlarıdır
+Güneyde; Karakuş Dağı ve Göreli Dağıdır.
+Batıda; Çanakkaleye bağlı Bababurundan başlayarak tüm Edremit Körfezi, İzmir ve Aydın illerinin tüm kıyı şeritleri ve Muğla'da, Köyceğiz hariç olmak üzere, kuzeyden güneye Köyceğiz kıyılarına kadardır.
+Ovalar: Orta Çağ
+Ege Bölümü'nde horstlar arasında kalan grabenler birer alüvyon ovasıdır. Bunlar Bakırçay, Gediz, Büyük ve Küçük Menderes grabenleridir. Bu graben ler fiziksel bir haritada yeşil renk ile gösterilir. Gediz ağzında Menemen Delta ovası, Büyük Menderes ağzında Balat Delta ovasından oluşmuştur.
+Nüfus ve Toplumsal Yapı.
+Kentleşmenin en yoğun yaşandığı bölge konumundadır. Türkiye nüfusunun 1/8 kadarı Ege Bölgesi'nde yaşamaktadır. Bu nüfusun yarıdan fazlası (%62,2) kentlerdedir. Ege Bölgesi'nin ortalama nüfus yoğunluğu ise Türkiye ortalamasının üzerindedir. Nüfus yoğunluğu açısından Marmara Bölgesi'nden sonra ikinci sırada bulunur. Ege Bölümü'ndeki ovalar üzerinde fazla olan nüfus yoğunluğu, İç Batı Anadolu Bölümü'nde ve Menteşe Yöresi'nde azalır.
+Nüfus bakımından Ege Bölgesi'ndeki illerin sırası şöyledir :
+Merkezi nüfus bakımından sıralama şöyledir:
+Ekonomi ve Yerleşim.
+Tarım.
+Ege Bölgesi’nde nüfusun çoğunluğu iklim toprak koşulları ve ulaşım kolaylıklarının da elverişliliğiyle geçimini tarımdan sağlar. Ege bölümünde Akdeniz iklimine uygun bazı bitkiler (zeytin, üzüm vb.) ağır basar. Ege bölümünden, İçbatı Anadolu bölümüne geçildikçe, tarımın niteliği değişir; tahıl ekimi artar ve hayvancılık geçimde daha önemli yer tutar. Tahıl ekiminde buğday başta gelir, onu arpa ve mısır izler. Buğday özellikle Afyon ve Denizli’de üretilir bu illeri İzmir, Aydın ve Muğla izler. Arpa ise Afyon ve Manisa illerinde, mısırın da başlıca ekim alanı Manisa’dır. Pirinç ekimine ovalarda az miktarda yer verilir. Bölgede yaş ve kuru sebze üretimine de önem verilir. İklim koşulları uygun olduğu için, turfanda sebze (domates, fasulye vb.) yetiştirilerek öbür bölgelere yollanır. Soğan ve patates ekimi yaygındır; baklagillerden en çok nohut ekilir. Kavun ve karpuz üretimi de yaygın biçimde yapılmaktadır.
+Bölgede yetiştirilen sanayi bitkileri arasında tütün, pamuk, susam, keten ve şekerpancarı baş sıralarda yer alır. Edremit Körfezi kıyıları yağ zeytini üretimi kesir ağaç sayısı bakımından başta gelir bakımından önemlidir. Üzüm bağlarına da bölgenin her yerinde rastlanır. Üzüm ayrıca şarap ve pekmez yapımında da kullanılır. Kuru üzüm Manisa-İzmir civarında, kış soğuna dayanamayan incir ise kıyı kesimlerde özellikle Aydın'da yetişir. Türkiye'deki incir ağaçlarının yaklaşık olarak %81’i Ege Bölgesi’ndedir. Turunçgiller bölgenin özellikle güney kesiminde yetişir; Bodrum’da mandalina; Aydın ve Nazilli arasında portakal, limon, mandalina ve turunç yetişir.
+Hayvancılık.
+Ege bölgesinde hayvancılık çok gelişmemiştir. Üstelik yakın dönemde otlakların daralması nedeniyle, hayvan sayısında azalma gözlenmektedir. Kıyı kesimde daha çok kıl keçisi, tiftik keçisi ve koyun, iç kesimlerde sığır ve manda besiciliği yaygındır. Balıkçılık ise eski önemini kaybetmiştir. Özellikle İzmir Körfezi’nin sularının pis olmasından dolayıdır. Yine eski önemini yitirmiş olmakla birlikte Bodrum kıyılarında sünger avcılığı yapılmaktadır.Aynı zamanda Ege Bölgesi'nde kümes hayvancılığı ve arıcılık da yapılır.
+Sanayi.
+Sanayi bakımından Marmara Bölgesi'nden sonra ikinci sırada gelir. Bölümler arasında gelişmişlik ve sanayi oranı bakımından büyük farklılık vardır. Asıl Ege Bölümü sanayi bakımından daha gelişmiştir. Zaten bölgenin en büyük ve gelişmiş kenti İzmir de bu bölümde yer alır. İzmir sanayisi, fuarı, ve ihracat limanı ile bölgenin önemli kentidir. İzmir’de Aliağa Petrol Rafinerisi de bulunmaktadır. İzmir'de otomotiv, madeni eşya, kimya, seramik, dokuma, çimento, sigara ve zeytinyağı, Edremit ve Ayvalık'ta zeytinyağı, Aydın ve Manisa'da zeytinyağı, Denizli ve Uşak'ta dokuma, Uşak'ta şeker, seramik, kümes hayvancılığı, altın madenciliği ve deri Afyonkarahisar'da şeker, çimento ve mermer, Uşak, Gördes, Kula, Demirci ve Simav'da halıcılık sektörleri, Aydın da incir işleme fabrikaları vardır.
+Ege Bölgesi'nde üretilen incir, zeytin vb. gibi ürünlerin sanayileri yapılır. İzmir'de toplanmış olan başlıca sanayi kolları arasında dokumacılık da vardır. Dokumacılık ve tekstil Denizli ve Uşak'ın ilçelerinde oldukça fazladır. 
+Turizm.
+Ege Bölgesi turizm potansiyeli olarak Türkiye'de Akdeniz Bölgesinden sonra gelmektedir. Birçok tarihi eser, yapıt, kalıntı Efes, Didim, Pamukkale gibi tarihi yerler ve buna ilave olarak doğa harikası sahilleri Fethiye, Bodrum, Marmaris, Didim, Kuşadası ve Çeşme gibi önemli plajları mavi bayraklı sahilleri ile gözde turizm ve tatil bölgeleri mevcuttur.
+Ulaşım.
+Kara yolu ulaşımı.
+Ege bölgesinde karayolu ulaşımı oldukça gelişmiştir.
+Başlıca ulaşım merkezleri: İzmir ve Afyonkarahisar önemli kavşak yolları üzerindedir.
+Deniz yolu ulaşımı.
+İzmir, Çeşme, Aliağa,Ayvalık, Edremit, Didim, Bodrum, Fethiye, Marmaris.
+Hava yolu ulaşımı.
+İzmir, Dalaman, Bodrum, Denizli,Edremit,Uşak.
+Demiryolu ulaşımı.
+Bölgede demiryolu ulaşımı özellikle yük ve yolcu taşımacılığında kullanılır. Türkiye'nin ilk demiryolu İzmir ve Aydın arasına döşenmiştir.İzmir içinde İZBAN kullanılır.
+Yerleşme Özellikleri, Ticareti ve Turizmi.
+Ege Bölgesi'ndeki kentler, çoğunlukla ana yolların geçtiği oluklar ve verimli ovaların kenarlarında yer alır; kıyı kesiminde ise körfezlerin kenarlarında bulunur. Kırsal yerleşmeler, genellikle ovalardaki akarsu kenarlarında ve vadi içlerinde görülür.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kızılca, Elmalı</DOCTITLE>
+<TEXT>
+
+Kızılca, Antalya ilinin Elmalı ilçesine bağlı bir köydür.
+Tarihçe.
+Köy 1700'lü yıllarda kurulmuştur. teke beyliğine bağlı kızılkeçili aşiretinden bir gurup türkmenin yerleşim yeri olması nedeniyle adı kızılca köyü olarak kalmıştır.
+Kültür.
+Köyün gelenek ve görenekleri; her yıl hıdırellez günü köy halkı çevre il ve ilçelerde ikamet edenlerle birlikte toplanır. imece usulu ile yemek yapılır,yenilir şenlikler düzenlenir yöresel yarışmalar yapılır ve bunun yanı sıra her yıl yörük çadırlarının olduğu çobanların davarlarını otlattıkları otlakların bol olduğu yaylalar ziyaret edilir. (örn. karaya yaylası)
+yemekleri: alaçora, höşmerim, kölle, katmer(gözleme), bazlama,
+Coğrafya.
+Antalya iline 129 km, Elmalı ilçesine 19 km uzaklıktadır.hacımusalar köyüne 3 km, akçay kasabasına 5 km, abdal musanın köyü tekkeye 5 km'dir
+kızılca köyünün yaylaları sırayla:ağlan,alınca,çad dersi ve en büyük yaylası karaya.
+İklim.
+Köyün iklimi, Karasal iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarımdan üretilen ürünler buğday,arpa,anason,kavun son yıllarda elma, ceviz, badem bahçeleri gibi zirai gelirleri sayabiliriz. ve hayvancılık küçük baş hayvancılık yapılmaktadır. bunun yanında kızılca köyü bir emekliler diyarıdır.
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ancak kullanılamamasının yanı sıra taşımalı eğitimden yararlanılmaktadır. Köyün içme suyu şebekesi ve kanalizasyon şebekesi yoktur. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kumral, Vezirköprü</DOCTITLE>
+<TEXT>
+
+Kumral, Samsun ilinin Vezirköprü ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nereden geldiği ve geçmişi hakkında bilgi yoktur.
+Coğrafya.
+Samsun iline 155 km, Vezirköprü ilçesine 40 km uzaklıktadır.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.Hayvancılık son yıllarda mera ve otlakların kısıtlı olması 
+nedeniyle azalmıştır.Bilnen bir gerçek var hayvancılık yapmayacaksın tarım yapmayacaksın ne yapacaksın meyvecilik yapmaya eelverişli topraklar var ama işlenmesi gerekiyor.Ormanın köyün hemen yanında olmasına karşılık hiç bir ekonomik getirisi yok.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. Köyde, içme suyu şebekesi ve kanalizasyon şebekesi yoktur. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi de yoktur. Köye ulaşımı sağlayan yol asfalt değildir. Köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üretim, Dağitim Ve Tüketimi Etkileyen Doğal Faktörler (EBA)</DOCTITLE>
+<TEXT>
+
+üretim, dağıtım ve tüketim etkinlikleri birçok faktörden etkilenir. Bunlar; sanayi tesisleri için yer seçimi, su, iklim ve yer şekilleridir. Ham maddenin bozulabilir olduğu yerlerde tesisler genellikle ham madde kaynağına yakındır veya kolay ulaşabilecek bir yerdedir. Örneğin, konserve tesisleri çoğu kez meyve ve sebze yetiştirilen bölgelerde kurulur. Sanayileşmiş ülkelerde hayvanlar yetiştirildikleri yerlerde kesilip paketlenerek ve büyük ölçüde dondurularak pazarlara yollanır.
+Bazı ham maddelerin işlenmesi sırasında büyük oranda suya ihtiyaç vardır. Bundan dolayı tesislerin yer seçiminde suyun bulunabilirliği göz önünde tutulmaktadır. Kâğıt ve demir-çelik sanayisi ile termik ve nükleer santraller gibi tesislerde de su büyük önem taşır (Fotoğraf 1). Örneğin, bir ton çelik üretimi için 200.000 litre su kullanımı gerekmektedir. Su talebinin artmasına rağmen kaynaklarının azalması suyun sanayideki önemini gittikçe artırmaktadır.
+İklim, bazı sanayi kollarının yer seçiminde dolaylı etkiye sahiptir. Ham madde olarak tarımsal ürünlerin kullanıldığı tesisler, iklim koşullarının bu maddeleri etkilemesi nedeniyle dolaylı yoldan etkilenir. Bazı tesisler üzerinde ise doğrudan etkiye sahiptir, üçak sanayi üzerine etkisi doğrudandır. Örneğin, ABD'de uçak motoru, pervane gibi parçaları imal eden tesisler ülkenin kuzeydoğusunda faaliyette bulunurken gövde imal eden fabrikalar ve birleştirme tesisleri ılıman iklim koşullarının etkili olduğu güneybatıda yer almıştır. Bunun nedeni tecrübe uçuşları yapabilmek ve malzemelerin açık havada ucuza depolanabilmesidir. Milyonlarca m2 yer kaplayan tesislerin ısıtılmasında da maliyet en aza indirilmektedir.
+Gemi tezgâhları da iklimden doğrudan etkilenir. Şiddetli soğuklarda gemi inşa faaliyetlerinin durması, yazın sıcakta demir-çelik akşamının ısınması çalışma koşullarını güçleştirir.
+İklim koşulları çalışanlar üzerinde de etkilidir. Şiddetli sıcaklar, verimi düşürürken şiddetli soğuklar ısıtma sorunu nedeniyle maliyeti artınr.
+Yer şekilleri, ulaşımı etkilediği için dolaylı olarak üretim, dağıtım ve tüketim faaliyetlerini de etkiler. Ham maddenin gerek işleneceği tesise götürülmesi gerekse mamül ürünün tüketiciye sunulabilmesi ulaşımla bağlantılıdır. Kara yolları ve demir yolları güzergâhları yer şekillerinden etkilenir. Fakat dağıtımın sağlanabilmesi için, pahalı olmasına rağmen fiziksel güçlükler aşılarak kara ve demir yolları yapılmıştır. Bunun yanında üretim esnasındaki enerji ihtiyacını karşılamak ve ürünlerin pazarlara ulaştırılmasını sağlamak için karmaşık ulaşım ağları geliştirilmiştir.
+Enerji hatlarının güzergâhları dikkatli seçilmeli veya bu hatlar yer altına gömülmelidir. Bu da yer şekilleri ve iklimle ilgilidir. Hidroelektrik enerji için uygun yer şekilleri ve su potansiyeli gerekmektedir.
+Teknocoğrafya
+Teknik ve coğrafyanın birbirine yaptığı etkiyi araştıran bilim dalı teknocoğrafyadır. İmalatın çevre koşullarına uygun olarak yapılmasını bu bilim dalı ele alır. Çevre koşullarının farklılığı imalat ve üretimde sorunların ortaya çıkmasına sebep olmuştur. Örneğin, İkinci Dünya Savaşı’nda ordulara firmaların verdiği malzemelerin bölgesel koşullara uymadığı ve çeşitli sorunlara neden olduğu görülmüştür. Sanayiciler çevre koşullarının zararlarını en aza indirmek için birçok teknikler geliştirmişlerdir. Paslanmaz çelik, galvenize çelik özellikle de plastik maddeler çeşitli iklim koşullarında hatta ekstrem iklim koşullarında bile başarı ile kullanılmaktadır.
+Yazları serin ve yağışlı geçen yerlerde otlaklar gürleşeceğinden verim artar. Maliyet azalır.
+Bahar ve yaz aylarında hayvanlar meralarda taze otlarla beslendiğinden süt verimi artar. Fabrika yemi tüketimi azalır. Buna bağlı olarak da maliyet düşer.
+Otlakların az olduğu ya da yazın kuruduğu yerlerde üretim düşer.
+Yem tüketimi artacağından maliyet artar.
+Dağlık ve engebeli alanlar, ulaşımda zorluklara sebep olacağından fabrika yapımı için uygun değildir.
+Süt yaz aylarında çabuk bozulacağı için işleme tesisine çabuk ulaşması gerekir. İnek çiftlikleri geniş bir alana yayıldığı için süt toplama tankerleri yüzlerce köy ve kasabayı dolaşır.
+Tankerlerde yazın soğutma sistemi olmalıdır. Bu maliyeti artırır.
+10 C’un altındaki sıcaklıklarda sütün bozulması gecikeceği için araçların soğutma için harcadığı enerji azalır. Maliyet düşer.
+Pastörize süt, CJHT süt gibi ürünlerin yapılma aşamasında belli bir ısı gerekmektedir. Yaz aylarında ısıtma işleminde kullanılan buhar ve sıcak sudaki ısı kaybı az olacağından enerji maliyeti düşer.
+
+</TEXT>
+</DOC>
+

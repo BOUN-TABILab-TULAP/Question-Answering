@@ -1,0 +1,59 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Tükürükte	tükürük+Noun+A3sg+Pnon+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+hangi	hangi	+Adj
+
+enzim	enzim	+Noun+A3sg+Pnon+Nom
+
+nişasta	nişasta+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+glikojen	glikojen	+Noun+A3sg+Pnon+Nom
+
+üzerine	üzer+Noun+A3sg+P2sg+Dat
+üzerine	üzer+Noun+A3sg+P3sg+Dat
+
+etki	etki	+Verb+Pos+Imp+A2sg
+etki	etki	+Noun+A3sg+Pnon+Nom
+
+ederek	et	+Verb+Pos^DB+Adverb+ByDoingSo
+
+karbonhidrat	karbonhidrat	+Noun+A3sg+Pnon+Nom
+
+moleküllerini	molekül+Noun+A3pl+P3sg+Acc
+moleküllerini	molekül+Noun+A3pl+P2sg+Acc
+moleküllerini	molekül+Noun+A3pl+P3pl+Acc
+moleküllerini	molekül+Noun+A3sg+P3pl+Acc
+
+parçalar	parça+Noun+A3pl+Pnon+Nom
+parçalar	parça+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+parçalar	parçala+Verb+Pos+Aor+A3sg
+parçalar	parçala+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

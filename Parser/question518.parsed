@@ -1,0 +1,12 @@
+1	Mantarların	mantar	Noun	Noun	A3pl|Pnon|Gen	2	POSSESSOR	_	_
+2	yapılarında	yapı	Noun	Noun	A3sg|P3pl|Loc	3	LOCATIVE.ADJUNCT	_	_
+3	_	bulun	Verb	Verb	Pos	4	DERIV	_	_
+4	bulunan	_	Adj	APresPart	_	7	MODIFIER	_	_
+5	ince	ince	Adj	Adj	_	7	MODIFIER	_	_
+6	_	iplik	Noun	Noun	A3sg|Pnon|Nom	7	DERIV	_	_
+7	iplikçiklere	_	Noun	Noun	A3pl|Pnon|Dat	10	DATIVE.ADJUNCT	_	_
+8	ne	ne	Adv	Adv	_	10	MODIFIER	_	_
+9	_	de	Verb	Verb	_	10	DERIV	_	_
+10	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

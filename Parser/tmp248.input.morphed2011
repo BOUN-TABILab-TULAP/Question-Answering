@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Güneş	güneş+Noun+A3sg+Pnon+Nom
+Güneş	Güneş+Noun+Prop+A3sg+Pnon+Nom
+
+sabiti	sabit	+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+sabiti	sabit	+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+belirlenir	belirle	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+belirlenir	belirle	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

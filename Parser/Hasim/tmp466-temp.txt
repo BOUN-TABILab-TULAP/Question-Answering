@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Prokaryot Prokaryot+Noun+Prop+A3sg+Pnon+Nom
+hücrelerin hücre+Noun+A3pl+Pnon+Gen hücre+Noun+A3pl+P2sg+Nom
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+büyük büyük+Adj
+özelliği özellik+Noun+A3sg+P3sg+Nom özellik+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

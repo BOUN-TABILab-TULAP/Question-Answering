@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Açık açık+Adverb açık+Adj Açık+Noun+Prop+A3sg+Pnon+Nom
+tohumlu tohum+Noun+A3sg+Pnon+Nom^DB+Adj+With
+bitki bitki+Noun+A3sg+Pnon+Nom
+çiçeklerine çiçek+Noun+A3pl+P3sg+Dat çiçek+Noun+A3pl+P2sg+Dat çiçek+Noun+A3pl+P3pl+Dat çiçek+Noun+A3sg+P3pl+Dat çiçekle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Dat çiçekle+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

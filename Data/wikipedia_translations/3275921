@@ -1,0 +1,99 @@
+Kardiyoloji basınç-hacim döngü analizi
+Hacim karşısında sistemin basınç bir arsa uzun sistemi ve verimlilik tarafından yapılan işi ölçmek için kullanılır olmuştur. Bu analiz, kalp de dahil olmak üzere, ısı motor ve pompa, uygulanabilir. Kalp performansı hakkında bilgi önemli miktarda "Basınç hacim vs." arsa (basınç-hacim diyagramı) belirlenebilir. Yöntem bir dizi deneysel PV-çevrim değerlerinin ölçümü için belirlenmiştir.
+Kardiyak basınç-volüm döngüler.
+Gerçek zamanlı sol ventrikül (LV) basınç-volüm döngüler deney hayvanlarında ve insanlarda kalp mekaniğini anlamak için bir çerçeve sunmaktadır. Bu döngüler, sol ventrikül içindeki basınç ve hacim gerçek zamanlı ölçümü ile elde edilebilir. Vb strok hacmi kalp çıkışı, ejeksiyon fraksiyonu, miyokard kontraktilite, gibi çeşitli fizyolojik olarak uygun hemodinamik parametreler, bu döngüler belirlenebilir.
+Sol ventrikül için bir PV döngü oluşturmak için, LV basınç tek bir kalp döngüsü sırasında birden fazla zaman noktalarında LV birim karşı çizilir.
+Kardiyak terminoloji.
+Artyük.
+Artyük sözleşme için kalbin bir odası tarafından üretilen ortalama gerilimdir. Aynı zamanda kalp karşı kan çıkarmalısınız 'yük' olarak kabul edilebilir. Ardyük isimli nedenle aort büyük damar uyumu, dalga yansıma ve küçük damar direnci (LV afterload'u) veya benzer pulmoner arter parametreleri (RV afterload) bir sonucudur.
+Sol ventrikül afterload çeşitli hastalık koşullarından etkilenir. LV daha çok çalışmak zorunda yükseltilmiş arteriyel periferik direnci aşmak ve uyum azalmış beri Hipertansiyon, afterloadı artırır. Mitral kapak yetmezliği ardyükü azalmaktadır aort darlığı ve yetersizliği gibi Aort kapak hastalıkları da, afterloadı artırır.
+Önyükle.
+Ön-yükleme büzülme ve bu nedenle, sarkomer uzunluğu ile orantılıdır hemen önce tek bir kardiyak miyosit gerilmesi olarak tanımlanmaktadır. Sarkomer uzunluğu sağlam kalbinde tespit edilemez olduğundan, bu tür ventrikül diyastol sonu hacim veya basınç gibi ön yük diğer endeksleri kullanılmıştır.
+Venöz dönüş arttırıldığı zaman, bir örnek olarak, önyükleme arttırır. Ventrikül diyastol sonu basınç ve hacim sarkomer uzanır olan artış olmasıdır.
+Ön-yükleme gibi hesaplanabilir
+nerede
+Basınç-volüm parametreleri.
+İnme hacmi.
+İnme hacmi (SV) tek bir daralma sağ / sol ventrikül tarafından püskürtülen kan hacmi. Bu diyastol sonu hacim (EDV) ve sistol sonu hacmi (ESV) arasındaki farktır.
+Matematiksel olarak, SV EDV = - ESV.
+atım hacmi preload, afterload ve inotropinin (kontraktilite) değişikliklerden etkilenir. Normal kalplerinde, SV kuvvetli, kalpleri başarısız olarak, SV değişiklikleri ardyük için çok hassas ise, afterload'ı etkilenmez.
+İnme çalışması.
+Ventrikül stroke work (GB) sırasıyla, aort veya pulmoner artere inme hacmini çıkarmak için sağ veya sol ventrikül tarafından yapılan çalışma olarak tanımlanır. PV döngü çevrili alan bir sol veya sağ ventrikül düşünüyor olmasına bağlı inme hacminin bir ürün ve ortalama aort veya pulmoner arter basıncı (afterload) 'dir ventrikül stroke çalışması, bir ölçüsüdür.
+Kardiyak output.
+Kardiyak çıktı (CO) birim zamanda ventrikül tarafından pompalanan kan miktarı olarak tanımlanır.
+Matematiksel olarak, CO SV x kalp hızı =.
+CO Kalp vücudun çeşitli hücrelere oksijen, besin ve kimyasal teslim ve hücresel atıkları kaldırmak için kan taşıma işlevini ne kadar iyi performans göstergesidir. CO vücut hücreleri tarafından oksijen talebi ile esas olarak düzenlenir.
+Fizyolojik alaka
+Enfeksiyon ve sepsis, kardiyak çıktıyı arttırmak için bilinen ise, hipertansiyon ve kalp yetmezliği gibi kalp-damar sistemi hastalıkları, sık sık, CO. Kardiyomiyopatili değişiklikler ve kalp yetmezliği, kalp çıkışı bir azalmaya yol ile ilişkilidir. Bu nedenle, doğru CO ölçmek için yeteneği o anormalliklerin gelişmiş tanı sağlar ve yeni tedavi stratejilerinin gelişimine rehberlik için kullanılabilir olarak, fizyoloji önemlidir. Bununla birlikte, CO yükleme koşulları bağlıdır ve PV düzlem tarafından belirlenen hemodinamik parametrelere düşüktür.
+Ejeksiyon fraksiyonu.
+Çıkartma franksiyonlu (EF), her kasılma sırasında ventrikül üzerinden çıkartılır diyastol sonu hacim fraksiyonu olarak tanımlanır.
+Matematiksel olarak, EF, = SV / EDV.
+Sağlıklı ventriküller tipik 0.55 daha fazla ejeksiyon fraksiyonları var. Ancak, EF ayrıca PV uçakla tanımlanan hemodinamik parametrelere yükleme koşullarına bağımlı ve geridedir.
+Fizyolojik alaka
+Miyokard infarktüsü veya kardiyomiyopati nedenle, ejeksiyon fraksiyonu azaltır, kan çıkarmak ve kalbin yeteneğini bozar miyokard, hasara neden olur. Ejeksiyon fraksiyonunda bu azalma kalp yetmezliği olarak kendini gösterir.
+Düşük EF genellikle sistolik disfonksiyon gösterir ve ciddi kalp yetmezliği 0.2 daha düşük EF neden olabilir. EF ayrıca kalbin inotropinin (kontraktilite) bir klinik gösterge olarak kullanılır. Inotropi azalan EF azalır oysa EF artışa yol açar inotropi artırılması.
+dP / dtmin ve dP / dtmax.
+Bunlar minimum ve ventrikül basınç değişim maksimum hızı temsil etmektedir. Tepe dP / dt tarihsel ventriküler performansının bir göstergesi olarak kullanılmaktadır. Ancak, bu PV düzlem tarafından belirlenen hemodinamik parametrelere yüke bağlı ve alt olduğu bilinmektedir.
+Büzülebilirliğinde bir artışa izovolumik kasılma sırasında Dp / dtmax bir artışı ile sonuçlanmaktadır. Ancak, dP / dtmax de artyüke, kalp hızı ve miyokard hipertrofisi etkilenir. Bu nedenle, ventrikül diyastol sonu hacmi ve dP / dt arasındaki ilişki tek başına dP / dt daha kontraktilitenin daha doğru endeksidir.
+Aynı şekilde, diyastolik fonksiyon bir artış ya da gevşeme (lusitropy) artış izovolumik gevşeme sırasında artan dP / dtmin neden olur. Bu nedenle, dP / dtmin izovolümik gevşeme analizinde değerli bir araç olarak kullanılmıştır. Ancak, çalışmalar bu parametre özellikle kontraktilite veya afterload'ı akut değişiklikler sırasında, LV dinlenme oranı geçerli bir ölçü olmayabilir göstermiştir.
+İzovolümik gevşeme sabiti (Τau).
+Tau izovolumik gevşeme sırasında ventriküler basınç üstel çürüme temsil eder. Çeşitli çalışmalar Tau izovolümik gevşeme preload bağımsız tedbir olduğunu göstermiştir.
+Tau doğru tahmini ventriküler basınç ölçümlerinin doğruluğu büyük ölçüde bağlıdır. Böylece, yüksek sadakat basınç dönüştürücüler, gerçek zamanlı anlık ventriküler baskıları elde etmek için gereklidir.
+Tau hesaplanması (Glantz yöntemi)
+P (t) P0e-t/τE + Pα =
+nerede
+PV döngü analizi.
+Önceki parametrelerin yük bağımlılığı nedeniyle, ventriküler fonksiyonunun daha doğru tedbirler PV düzleminde bulunmaktadır.
+Sonu sistolik basınç hacim ilişkisi.
+Sonu sistolik basınç hacim ilişkisi (ESPVR) herhangi bir LV ses seviyesinde ventrikül tarafından geliştirilen edilebilir maksimum basınç açıklanır. Bu PV döngüsü herhangi bir kasılma durumu için ESPVR tanımlayan hattı üzerinden geçemez anlamına gelir.
+ESPVR (Ees) eğimi miyokard kontraktilite indeksi sağlayan sistol sonu elastans temsil eder. ESPVR preload, afterload ve kalp hızındaki değişikliklere nispeten duyarsızdır. Bu ejeksiyon fraksiyonu, kardiyak output ve atım hacminde gibi diğer hemodinamik parametreleri üzerinde sistolik fonksiyonunun geliştirilmiş bir indeks yapar.
+ESPVR dik olur ve sola kaymalar inotropi (kontraktilite) arttıkça. ESPVR düz olur ve inotropi azaldıkça sağa kaydırır.
+Diyastol sonu basınç hacim ilişkisi.
+Diyastol sonu basınç hacim ilişkisi (EDPVR) ventrikül için pasif dolum eğrisi ve miyokard dolayısıyla pasif özelliklerini açıklar. Bu eğri boyunca herhangi bir noktada EDPVR eğim ventriküler uyum (veya ventriküler sertlik) karşılıklı olduğunu.
+Ventriküler uygunluk (örneğin, ventrikül hipertrofisi gibi) azalır, örneğin, ventrikül serttir. Bu herhangi bir diyastol sonu hacim (EDV) daha yüksek ventrikül diyastol sonu basınçları (EDP) ile sonuçlanır. Alternatif olarak, belirli bir EDP için, daha az uyumlu ventrikül nedeniyle bozulmuş dolgu daha küçük bir EDV olurdu.
+(Örneğin, ventrikül duvar kayda değer kalınlaşma oldukça genişlemiş olur dilate kardiyomiyopati gibi) ventriküler uyum artar, EDV çok yüksek olabilir ama ise EDP ölçüde yüksek olmayabilir.
+Basınç-hacim alanı.
+Basınç-hacim alanı (PVA) ventriküler kasılma tarafından üretilen toplam mekanik enerjisini temsil eder. Bu PV döngü içinde kapsanan inme çalışmaları (GB), toplamı ve elastik potansiyel enerji (PE) eşittir.
+Matematiksel olarak, PVA = PE + SW.
+Ayrıca,
+nerede
+Fizyolojik alaka.
+PVA ve ritmi başına kalp oksijen tüketimi arasında oldukça doğrusal bir ilişki vardır. Bu ilişki, yükleme ve kontraktil çeşitli koşullar altında doğrudur. Miyokardiyal oksijen tüketimi Bu tahmini (MVO2) mekanik iş tablası ve diyabet, ventrikül hipertrofisi, ve kalp yetmezliği gibi çeşitli hastalık durumları, kalp enerji gereksinimini incelemek için kullanılır. MVO2 da MVO2 kardiyak strok çalışma oranıdır kardiyak verim hesaplanması kullanılmıştır.
+Askere almalarla inme çalışmaları önceden yükle.
+Istihdam edilebilir strok çalışması önceden yükle (PRSW) diyastol sonu hacmi ile kontur çalışma doğrusal regresyonu ile belirlenir. PRSW ilişki eğimi ön ve son yüklerin karşı duyarsızdır miyokard kontraktilite yüksek ölçüde doğrusal bir indekstir.
+Fizyolojik alaka.
+Kalp yetmezliği sırasında miyokard kontraktilite PRSW ilişki eğimini düştüğü azalır. Son zamanlarda yapılan çalışmalar, aynı zamanda PRSW ilişkisi (değil eğim) hacmi ekseni ile kesişme noktasını, kontraktil fonksiyon bozukluğunun ciddiyeti daha iyi bir göstergesidir olabileceğini göstermektedir.
+Frank-Starling eğrisi.
+"" Kalp aldığı neler pompalayacak "- Starling kanunu kalp"
+Frank-Starling mekanizması venöz dönüş değişikliklere tepki olarak (dolayısıyla ve, atım hacmi) kasılma gücünü değiştirmek için kalbin yeteneğini açıklar. Diğer bir deyişle, diyastol sonu hacmi arttıkça, strok hacmine karşılık gelen bir artış vardır.
+Frank-Starling mekanizması ön yük bazında açıklanabilir. Kalp normalden daha fazla kanla doldurur gibi her miyosit yaşadığı yükündeki artış vardır. Bu kas lifleri içindeki oluşturmak için çapraz-köprü bir daha fazla sayıda yol, Ca2 + iyonlarının, troponin C afinitesi artan kas lifleri uzanır. Bu artan çarpma hacmi ile sonuçlanır, kalp kasının kasılma gücünü daha da arttırır.
+Frank-Starling eğrileri kas kasılmasının (inotropi) bir göstergesi olarak kullanılabilir. Ancak, ventrikül üzerinde çalıştığı tek Frank-Starling eğrisi değil kalbin afterload'ı ve inotropik devlet tarafından belirlenen her biri eğrileri, bir aile var. Afterloadı artırılabilir veya inotropi aşağı ve sağa eğri kaydırır düşmüştür. Ardyükü azalması ve artan inotropi yukarı ve sola eğri kaydırır.
+Arter elastans.
+Arteriyel elastisite (Ea) arteriyel yük ölçer ve strok hacmine ventrikül sistolik basınç basit bir oranı olarak hesaplanır.
+Matematiksel olarak, Resistance FORMULA_1 Ea = ESP / SV = (Nabız) ​​= (HR) R. FORMULA_1
+Basınç ve inme hacmi açısından ventrikül ve arter sistemleri hem karakterize ederek, ventrikülo-arteriyel kavrama (kalp ve atardamar sistemi arasındaki etkileşimi) incelemek mümkündür.
+Çeşitli kardiyak anormallikler için PV döngü değişir.
+Dilate kardiyomiyopati.
+Dilate kardiyomiyopati olarak, ventrikül duvarının kalınlaşması telafi olmaksızın dilate olur. LV organizmanın metabolik ihtiyaçlarını karşılamak için yeterli kan pompalamak için değiştiremiyor.
+sonu sistolik ve diyastolik hacimleri artırmak ve baskılar nispeten değişmeden kalır. ESPVR ve EDPVR eğrileri sağa kaydırılır.
+Sol ventrikül hipertrofisi.
+Sol ventrikül hipertrofisi (SVH) miyokard kalınlığı ve kitlesinde bir artış olduğunu. Bu kardiyovasküler klima (atletik kalp) ya da kronik artan hacim yükü (preload) veya artmış basınç yükü (afterload) bir anormal geri dönüşü olmayan tepki normal bir geri dönüşümlü tepki olabilir. Gösterilen EDV ve SV indirgeyici patolojik hipertrofisi bir diyagramdır.
+azalmış bölme uyumlu ventriküler kas sonuçlarının kalınlaşma. Bunun bir sonucu olarak, sol ventrikül basınçları ESV'nin artar, yükselir ve EDV kardiyak çıktı genel bir azalmaya neden azaltılır.
+Restriktif kardiyomiyopati.
+Restriktif kardiyomiyopati ventrikül duvarları sert (ama mutlaka kalınlaşmış değil) olur ve kalp atışları arasındaki kan normal dolgu karşı hangi kalp hastalıklarında bir grubunu içerir.
+Kalp kası yavaş yavaş sızmış veya anormal maddeler kalp kasının birikir zaman skar dokusu veya yerini olduğunda bu durum ortaya çıkar. ventrikül sistolik basınç diyastolik basınç yükselir ve kardiyak output azalır normal kalır.
+Vana hastalıkları.
+Aort darlığı.
+Aort kapak darlığı aort kapak anormal daralması olduğunu. Bu LV ejeksiyon sırasında aort basınçları çok daha büyük LV baskılara neden olur. basınç eğimi büyüklüğü stenozun şiddeti ve kapaktaki akım hızı tarafından belirlenir.
+Şiddetli aort darlığı sonuçları
+Mitral darlığı.
+Valf açık olduğunda Mitral kapağın bir daralma olduğunu. Diyastol sonu hacim (preload) bir azalma olduğunu, böylece mitral darlığı LV dolum bozar. Bu Frank-Starling mekanizması ile inme hacminde bir azalma ve kalp debisi ve aort basıncında düşüşe yol açar. Afterload'ı bu azalma (özellikle aort diyastolik basınç) diyastol sonu hacminde düşüş üstesinden gelmek için biraz ama yeterli değil azaltmak için sistol sonu hacmi sağlar. Diyastol sonu hacim sistol sonu hacmi azalır daha azalır, çünkü bu nedenle, atım hacmi azalır.
+Aort yetersizliği.
+Aort yetmezliği (AI) aort kapağı geri LV diyastol sırasında kapaktan kanın sızıntısını neden sistolik ejeksiyon sonunda tamamen kapatmak için başarısız olan bir durumdur.
+sızdıran aort kapaktan kanın sürekli geri akış izovolümik gevşeme hiçbir gerçek faz olduğunu ima eder. LV hacmi oldukça gelişmiş ventriküler dolum nedeniyle artar.
+LV basınç sözleşme ve geliştirmeye başladığında, kan hala gerçek izovolümik kasılma olduğunu ima (aort basıncı LV basıncından daha yüksek olduğundan) aortadan LV giriyor. LV basınç aort diyastolik basınç aştığında, LV aort içine kan çıkarmak başlar.
+artan diyastol sonu hacim (artan preload) daralma, sol ventrikül sistolik basıncı ve inme hacminin kuvvetini artırmak için Frank-Starling mekanizması harekete geçirir.
+Mitral yetersizliği.
+Mitral kapak kan ventriküler sistol sırasında sol atriyuma geri akmasına neden tamamen kapatmak için başarısız olduğunda mitral yetersizliği (MY) oluşur.
+sızdıran mitral kapaktan kanın sürekli geri akış izovolümik daralma hiçbir gerçek faz olduğunu ima eder. Ventrikül dayatılan afterload azalır yana, sistol sonu hacmi normalden daha küçük olabilir.
+Bazı LV kan sızdıran mitral kapaktan sol arka atriyuma akar çünkü izovolümik daralma hiçbir gerçek dönemi de bulunmaktadır. Ventrikül diyastolik dolum sırasında, yüksek atriyal basınç LV diyastol sonu hacmi (ve basınç) artar ve böylece dolum sırasında LV iletilir. Bu fırlatma sırasında ardyükü düşme eğilimi (nedeniyle mitral yetersizliği için) azaltılmış çıkış direnci olmasa bu afterload artmasına neden olur. Bu değişikliklerin net etkisi PV döngü genişliği artmış olmasıdır (yani, ventriküler atım hacmi artar). Ancak, aort (ileri akış) içine çıkarma azalır. Bu durumda artan ventriküler atım hacmi hacmi geri sol atrium içine atılır yanı sıra aort içine atılır kan hacmini kapsamaktadır.

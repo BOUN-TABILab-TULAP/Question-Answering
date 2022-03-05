@@ -1,0 +1,16 @@
+1	_	aydınlan	Verb	Verb	Pos	2	DERIV	_	_
+2	Aydınlanma	_	Noun	NInf	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	çemberi	çember	Noun	Noun	A3sg|P3sg|Nom	14	SUBJECT	_	_
+4	yıl	yıl	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT	_	_
+5	boyunca	boyunca	Postp	Postp	PCNom	14	MODIFIER	_	_
+6	neden	neden	Noun	Noun	A3sg|Pnon|Nom	14	SUBJECT	_	_
+7	kutup	kutup	Noun	Noun	A3sg|Pnon|Nom	8	CLASSIFIER	_	_
+8	noktalarıyla	nokta	Noun	Noun	A3pl|P3sg|Ins	14	INSTRUMENTAL.ADJUNCT	_	_
+9	kutup	kutup	Noun	Noun	A3sg|Pnon|Nom	10	CLASSIFIER	_	_
+10	daireleri	daire	Noun	Noun	A3pl|P3sg|Nom	11	OBJECT	_	_
+11	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	14	MODIFIER	_	_
+12	yer	yer	Noun	Noun	A3sg|Pnon|Nom	14	OBJECT	_	_
+13	_	değiş	Verb	Verb	_	14	DERIV	_	_
+14	değiştirir	_	Verb	Verb	Caus|Pos|Aor|A3sg	15	SENTENCE	_	_
+15	.	.	Punc	Punc	_	0	ROOT	_	_
+

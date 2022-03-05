@@ -1,0 +1,17 @@
+1	İki	iki	Num	Card	_	_	_	_	_
+2	Z	z	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	çizgisi	çizgi	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+4	_	ara	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+5	arasındaki	_	Adj	Adj	Rel	_	_	_	_
+6	bölgede	bölge	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+7	_	bulun	Verb	Verb	Pos	_	_	_	_
+8	bulunan	_	Adj	APresPart	_	_	_	_	_
+9	_	kas	Verb	Verb	_	_	_	_	_
+10	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+11	kasılma	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+12	birime	birim	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+13	ne	ne	Adj	Adj	_	_	_	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+15	_	ver	Verb	Verb	_	_	_	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

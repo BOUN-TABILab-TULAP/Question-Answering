@@ -1,0 +1,102 @@
+Alan
+Konum düzlemde, iki boyutlu bir şekil ya da şekle veya düzlemsel lamina ölçüde ifade miktarıdır. Yüzey alanı, üç boyutlu bir nesnenin iki boyutlu bir yüzeye analogudur. Konum tek boya ile yüzeyini kapsayacak şekilde bir şekle sahip bir model ya da gerekli boya miktarını moda gerekli olacaktır, belirli bir kalınlığa sahip malzeme miktarı olarak anlaşılabilir. Bir eğri (tek boyutlu bir kavramı) ya da bir katı (üç boyutlu bir konsept) hacminin uzunlukta iki-boyutlu bir analogudur.
+Şeklin alanı sabit boyutta kareler şekil karşılaştırılarak ölçülebilir. Uluslararası Birimler Sistemi (SI) olarak bölgenin standart birim kenarları bir metre uzunluğunda olan bir kare alanı (m2 olarak yazılmış) metrekare vardır. Üç metrekarelik bir alana sahip bir şekil üç tür kareler aynı alana sahip olacaktır. Matematikte, birim kare alana bir tane olması tanımlanmış ve diğer şekil ya da yüzey alanı boyutsuz bir reel sayı olduğunu.
+Bu tür üçgen, dikdörtgen ve çevrelerinde gibi basit şekillerin alanları için çok iyi bilinen formüller vardır. Bu formülleri kullanarak, herhangi bir çokgenin alan üçgen içine çokgen bölünmesiyle bulunabilir. Kavisli sınır ile şekiller için, hesabı genellikle bölgeyi hesaplamak için gereklidir. Nitekim, düzlem şekillerin alanını belirleme problemi hesabı tarihsel gelişimi için önemli bir motivasyon oldu.
+Katı şekil için bir küre, koni veya silindir gibi, kendisinin sınır yüzey alanı yüzey alanı olarak adlandırılır. Basit şekiller yüzey alanları için formüller eski Yunanlılar tarafından hesaplanan, ancak daha karmaşık bir şeklin yüzey alanını hesaplama genellikle çok değişkenli hesabı gerektirir bulundu.
+Alan, modern matematikte önemli bir rol oynar. Geometri ve hesabı onun bariz öneminin yanı sıra, bölge lineer cebir belirleyicileri tanımına ilişkin olup, diferansiyel geometri yüzeylerin temel özelliğidir. Analizde, uçağın bir alt alanı değil, her alt kümesi ölçülebilir olmasına rağmen, Lebesgue ölçüsü kullanılarak tanımlanır. Genel olarak, daha yüksek bir matematik alan iki boyutlu bölgeler için hacim özel bir durum olarak görülmektedir.
+Alan reel sayılar kümesi belirli düzlem şekillerin bir koleksiyon bir fonksiyonu olarak tanımlayan, aksiyomlar kullanımı yoluyla tanımlanabilir. Böyle bir işlev var olduğunu ispat edilebilir.
+Örgün tanım.
+"Alan" ile kastedilen tanımlayan bir yaklaşım aksiyomları geçer. "Alan" aşağıdaki özellikleri karşılayan reel sayılar kümesine düzlem şekillerin (adlandırılır ölçülebilir kümeler) özel türde bir koleksiyon M bir fonksiyonu olarak tanımlanabilir:
+Böyle bir alan fonksiyonu aslında var olduğunu ispat edilebilir.
+Birimler.
+Uzunluğu her birim alan karşılık gelen bir birim, söz konusu yan uzunluğu olan bir kare yani alanına sahiptir. Böylece alanlar metrekare (m2), santimetrekare (cm2), milimetre kare (mm2), kilometrekare (km2), feet kare (ft2), kare kilometre (yd2), mil kare (mi2) ve böylece ölçülebilir ileri. Matematiksel, bu birimler karşılık gelen uzunluk birimi arasında kareler olarak da düşünülebilir.
+Alan SI birim bir SI türetilmiş birim olarak kabul edilir metrekare vardır.
+Dönüşümler.
+İki kare birimler arasında dönüştürme gelen uzunluk birimleri arasında dönüştürme kare. Örneğin, beri
+feet kare ve kare inç arasındaki ilişki nedir
+burada 144 = 122 = 12 × 12. Benzer:
+Ek olarak,
+Diğer birimler.
+Bölge için birçok ortak birimler vardır. "Are" ile metrik sistemde, alanın özgün birim vardı;
+Are kullanımdan düşmüş olsa da, hektar hala yaygın arazi ölçmek için kullanılır:
+Bölgenin diğer nadir metrik birim tetrad, hectad ve sayısız bulunmaktadır.
+dönümlük da yaygın toprak alanlarının ölçmek için kullanılır, nerede
+Bir dönüm hektar yaklaşık% 40'tır.
+Atomik ölçekte, alanı, bu ahır, birimler ölçülür:
+ahır yaygın Nükleer fizikte etkileşimin kesit alanını tanımlayan kullanılır.
+Hindistan'da,
+Tarihi.
+Çember alanı.
+Beşinci yüzyılda M.Ö., Sakız Hipokrat bir disk (bir daire içine alınmış bölge) alanı Hipokrat lune onun karesel bir parçası olarak, kendi çapının karesi ile orantılı olduğunu göstermek için ilk oldu, ama yaptım orantılılık sabiti tanımlamaz. Knidos Eudoxus, aynı zamanda beşinci yüzyılda M.Ö. yılında, aynı zamanda yarıçapı karesi için dairenin alanı orantılı olduğunu gördük.
+Daha sonra, Öklid '"Elements" Kitabı ben iki boyutlu figürler arasındaki alanların eşitliği ele. matematikçi Arşimet bir daire içindeki alan "kitabında, bir daire ölçümü olan taban çemberin çevresinin uzunluğu vardır ve kimin yüksekliği çemberin yarıçapı eşittir bir dik üçgenin eşit olduğunu göstermek için Öklid geometrisinin kullanılan araçlar ". (Disk için "r" 2 çevresi 2 "r" dir ve bir üçgenin alanı alanını verimli, yükseklik yarım baz katıdır.) Archimedes π değerini (ve dolayısıyla unit- alanı yaklaşmıştır O bir daire düzenli bir üçgen yazılı ve alanını kaydetti hangi onun iki katına yöntemi ile yarıçaplı daire), sonra normal bir altıgen vermek için kenar sayısını iki katına, sonra art arda var daha yakın ve daha yakın Çokgenin alanı olarak kenar sayısını iki katına çemberin buna (ve sınırlı çokgenler ile aynı şeyi yaptı).
+1761 yılında İsviçreli bilim adamı Johann Heinrich Lambert, o π, onun kare yarıçaplı bir çemberin alanının oranı kanıtladı herhangi iki tam sayının sayının eşit değil yani, akıl dışıdır. Fransız matematikçi Adrien-Marie Legendre da irrasyonel π2 olduğunu 1794 yılında kanıtladı. 1882 yılında, Alman matematikçi Ferdinand von Lindemann Legendre ve Euler hem tarafından yapılan bir varsayım teyit (rasyonel katsayılı hiçbir polinom denklemin çözüm değil) π aşkın olduğunu kanıtladı.
+Üçgen alanı.
+Heron (veya Hero) İskenderiye yanlarından açısından bir üçgenin alanı için Heron formülü olarak bilinen buldum ve bir kanıtı 60 CE etrafında yazılmış kitabında, "metrica" ​​bulunabilir. Archimedes iki yüzyıl önce üzerinde formülü biliyordu ve "Metrica" ​​Antik dünyada mevcut matematiksel bilginin bir koleksiyon olduğundan, formülün bu çalışmada verilen referansı öncedir mümkün olduğu ileri sürülmüştür.
+499 Aryabhata olarak, Hintli matematik ve astronomi Hint klasik yaşından itibaren büyük bir matematikçi-astronom, "Aryabhatiya" (bölüm 2.6) bir buçuk katı baz yükseklik olarak bir üçgenin alanı dile getirdi.
+Heron adlı A formülü eşdeğer bağımsız Rumların Çinliler tarafından keşfedildi. Bu Qin Jiushao tarafından yazılmış "Shushu Jiuzhang" ("Dokuz Bölüm Matematiksel Treatise") olarak 1247 yılında yayımlandı.
+Dörtlü alanı.
+600S CE olarak, Brahmagupta yanlarından açısından bir siklik dörtlü (bir daire içinde yer dörtgen) alanı için, hemen Brahmagupta formülü olarak bilinen bir formül geliştirmiştir. 1842 yılında Alman matematikçi Carl Anton Bretschneider ve Karl Georg Christian von Staudt bağımsız herhangi bir dörtgen alanı için Bretschneider formülü olarak bilinen bir formülü, bulundu.
+Genel çokgen alan.
+1600'lerde René Descartes tarafından kartezyen koordinat gelişme 1800'lerde Gauss tarafından bilinen tepe yerleri ile herhangi bir poligonun alanı için haritacılara ait formül geliştirilmesini sağladı.
+Alanlar analizi kullanılarak tespit edilmiştir.
+Geç 1600s integral hesabı gelişimi daha sonra, bir elips alanı ve çeşitli eğri üç boyutlu nesnelerin yüzey alanı gibi daha karmaşık alanlar, işlem için kullanılabilecek aletler sağlamıştır.
+Alan formülleri.
+Poligon formülleri.
+Kimin "n" köşeler bilinen bir non-self-kesişen (basit) poligon için, kartezyen FORMULA_1 koordinatları ("i" 0, 1, ..., "n" -1 =), alan ile verilir surveyor formülü:
+"i" = "n" -1, ardından "i" +1 modülü "n" olarak ifade edilir ve böylece 0'a nerede atıfta zaman.
+Dikdörtgenler.
+En temel alan formülü bir dikdörtgen alan için formülüdür. Uzunluk ve genişliğe sahip olan bir dikdörtgen göz önüne alındığında, alan için formül:
+Yani, dikdörtgenin alanı genişliği ile çarpılır uzunluğudur. Özel bir durum olarak, bir kare durumunda olduğu gibi, yan uzunluğu olan bir kare alanı, aşağıdaki formül ile verilir:
+bir dikdörtgen alanı için, formül alanının temel özellikleri üzerine doğrudan izler, ve bazen de bir tanımlamayla mı yoksa aksiyomu olarak alınır. Geometri aritmetik önce geliştirilmiştir, diğer taraftan, bu formül, gerçek sayılar çarpma tanımlamak için kullanılabilir.
+Diseksiyon, parallelograms ve üçgenler.
+Alan için çoğu diğer basit formüller diseksiyon yöntemi izleyin.
+Bu kimin alanlar orijinal şekline alanına özetlemek gerekir parçalar halinde bir şekil kesme içerir.
+Sola doğru şekilde gösterildiği gibi bir örnek için, her paralel kenar, bir yamuk ve dik üçgenin iki alt gruba ayrılabilir. Üçgen yamuk diğer tarafına taşınmış ise, daha sonra ortaya çıkan rakam bir dikdörtgen. Bu paralel kenarın alanı dikdörtgen alanı ile aynı olduğu aşağıdaki gibidir:
+Sağa doğru, şekil de gösterildiği gibi, aynı paralel kenar da iki uyumlu üçgen bir diyagonal boyunca kesilebilir. Her üçgenin alanı paralelkenarın yarısı alanı olduğunu şöyle:
+Benzer argümanlar alanı trapezoid için formüller hem de daha karmaşıktır çokgenler bulmak için de kullanılabilir.
+Kavisli şekillerin Alanı.
+Daireler.
+bir çember (bir disk daha uygun olarak adlandırılan bölgede) alanı için, formül benzer bir yönteme dayanmaktadır. Yarıçaplı bir daire göz önüne alındığında, sağa doğru, şekil de gösterildiği gibi, sektörlere daire bölümü için mümkündür. Her sektör şeklinde yaklaşık üçgen ve sektörler oluşturacak ve yaklaşık paralelkenar için yeniden düzenlenebilir. Bu paralelkenar yüksekliği ve genişlik çemberin yarısı çevresi, ya da. Böylece, dairenin toplam alanı, ya da:
+Bu formülde kullanılan diseksiyonu sadece yaklaşık olsa çember daha sektörlere bölünür olarak, hata daha küçük olur. Yaklaşık paralelkenarların alanlarının sınırı dairenin alanı olan tam olarak budur.
+Bu argüman aslında hesabın fikirlerin basit bir uygulama. Antik çağda, tükenme yöntemi dairenin alanını bulmak için benzer şekilde kullanıldı ve bu yöntem artık integral hesabı için bir habercisi olarak kabul edilmektedir. Modern yöntemler kullanılarak, bir dairenin alanında belirli integralini kullanılarak hesaplanır:
+Elips.
+Elips alanı için, formül bir dairenin formülü ile ilgili olup; yarı majör ve minör yarı eksenli elips ve formülü için:
+Yüzey alanı.
+Yüzey alanı için en temel formülleri yüzeyleri kesme ve bunları düzleştirilerek elde edilebilir. Bir silindir (veya herhangi bir prizma) yan yüzeyi, uzunlamasına kesilir, örneğin, yüzey, bir dikdörtgen içine düzleştirilmiş edilebilir. Kesik bir koni tarafı boyunca yapılır, benzer şekilde, bir yan yüzey, bir dairenin bir sektör içine düzleştirilmiş ve elde edilen alanı hesaplanır.
+Bir küre için yüzey alanının formülü elde etmek daha zordur: bir küre sıfır olmayan Gauss eğriliğe sahip olduğundan, dümdüz edilemez. Bir kürenin yüzey alanı formülü ilk olarak "Küre ve Silindir Üzerine" adlı eserinde Arşimet tarafından elde edildi. formül:
+nerede kürenin yarıçapı olduğunu. Bir daire alanı için, formül olduğu gibi, bu, formül bir türetme doğal hesap için benzer yöntemler kullanmaktadır.
+Genel formülleri.
+Diferensiyel Alan.
+(Green teoremi bakınız) ya da "z" -bileşeni arasında
+İki ikinci dereceden fonksiyonlar arasında sınırlanan alanı.
+İki ikinci dereceden fonksiyonlar arasındaki sınırlı bölgeyi bulmak için, biz fark yazmak için başka birini çıkarmak
+"f" ("x") kuadratik üst sınır ve "g" ("x") olduğu kuadratik alt sınır olduğunu. "G" ("x") olarak - "f" ("x") olarak diskriminant tanımlayın
+(Yukarıdaki bölümde verildiği gibi) iki fonksiyonların grafikleri arasındaki ayrılmaz formülü basitleştirilmesi ve VIETA formülü kullanarak, elde edebilirsiniz
+sınırlayıcı fonksiyonlardan biri doğrusal kuadratik yerine ise yukarıda geçerli kalır.
+Yüzey alanı genel formül.
+formula_36 ve formula_37 düz sınır ile xy düzleminde bir bölgesi olan türevlenebilir fonksiyonu formula_35 grafiğinin yüzey alanı için, genel formül:
+Formula_41 bir türevlenebilir vektörü fonksiyonudur formula_40 olan vektör formunda formula_39 bir parametre yüzeyin grafik alanı için daha da çok genel bir formül:
+Formül listesi.
+Yukarıdaki hesaplamalar birçok ortak şekillerin alanlarını bulmak için nasıl gösterir.
+Düzensiz çokgen alanlar "Sörveyör formülü" kullanılarak hesaplanabilir.
+Alanın İlişkisi çevresine.
+isoperimetric eşitsizlik devletler, bu "L" uzunluğu kapalı eğri için (yani saran bölge var "L" çevresel) Kapsadığı bölge ve alan için "A",
+ve eğri bir daire sadece eğer ve eşitlik tutar. Böylece daire verilen bir çevreye sahip herhangi bir kapalı figürünün büyük alana sahiptir.
+Diğer uçta, "L" çevre verilen bir rakam keyfi kadarki açıları iki 0 ° ve diğer iki keyfi yakın böylece vardır "uçlu" bir eşkenar dörtgen ile gösterildiği gibi, bir keyfi küçük bir alanda olabilir keyfi 180 ° civarındadır.
+Bir daire için, çevresi (bir dairenin çevre için kullanılan bir terimdir) alanın oranı yarı çapındaki "r" eşittir. Bu 2 "πr" alan formül ve çevresi formülü 2 "πr" görülebilir.
+Düzenli çokgenin alanı (apothem herhangi tarafta en yakın noktasına merkezine uzaklığı) yarısını çevre kez apothem olduğunu.
+Fraktallar.
+Bir poligonun kenar uzunlukları iki katına çıkarılması iki güç (çokgen bulunduğu alanın boyutu) yükseltilmiş iki (eski kenar uzunluğu yeni oranı) ise dört tarafından alanını, çarpar. Ama iki boyutlu olarak çizilen bir fraktal tek boyutlu uzunlukları tüm katına eğer, mutlaka bir tamsayı değil ikisinin bir güç tarafından fraktal ölçeklerde mekansal içeriği. Bu güç fraktal fraktal boyut olarak adlandırılır.
+Alan bisectors.
+Bir üçgenin alanı bisect çizgilerin bir sonsuzluk vardır. Üçü (zıt köşeleri ile yan tarafındaki 'orta noktaları bağlamak) üçgenin ortanca vardır ve bu üçgenin sentroidinden de eşzamanlı olarak; Gerçekten, onlar sentroidinden geçmesi sadece alan bisectors vardır. Üçgenin alanı ve yarısında çevre hem de böler bir üçgenin içinden herhangi bir satır üçgenin incenter (onun incircle merkezi) geçer. Herhangi bir üçgen için ya bir, iki, ya da bu üç bulunmaktadır.
+Bir paralelkenar orta noktasından herhangi bir hat alanını ikiye bölmektedir.
+Bir daire ya da başka bir elips tüm alan bisectors merkezi aracılığıyla gidin ve merkezi aracılığıyla herhangi akorları alanı ikiye bölmek. Bir daire halinde bu çemberin çapı vardır.
+Optimizasyon.
+Kapsayan en az bir alanda ("doldurma"), o minimal yüzey yüzey, tel kontur Verilen. Tanıdık örnekler sabun köpüğü içermektedir.
+Riemann dairenin dolgu alanının soru açık kalır.
+daire, aynı çevreye sahip herhangi bir iki boyutlu nesnenin büyük alana sahiptir.
+Bir halkalı çokgen (bir daire içinde yazılı bir) aynı uzunluklarda iki tarafın belirli bir sayı ile herhangi bir çokgenin en büyük alana sahiptir.
+Üçgenler için isoperimetric eşitsizliğin bir versiyonu verilen çevre ile tüm kişiler arasında en alanının üçgen eşkenar olduğunu belirtmektedir.
+Belirli bir daire içinde yazılı tüm bu büyük alanın üçgen eşkenar olduğu; ve belirli bir daire etrafında sınırlı tüm bu küçük alan üçgen eşkenar olduğunu.
+bir eşkenar üçgen, formula_44 alanına incircle alanının oranı, olmayan eşkenar üçgen daha büyüktür.
+bir eşkenar üçgen çevre karesine alanına oranı, formula_45 başka üçgeni için daha büyüktür.

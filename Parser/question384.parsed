@@ -1,0 +1,13 @@
+1	Mutasyona	mutasyon	Noun	Noun	A3sg|Pnon|Dat	3	DATIVE.ADJUNCT	_	_
+2	sebep	sebep	Noun	Noun	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	_	ol	Verb	Verb	Pos	4	DERIV	_	_
+4	olan	_	Adj	APresPart	_	7	MODIFIER	_	_
+5	_	çeşit	Noun	Noun	A3sg|Pnon|Nom	6	DERIV	_	_
+6	çeşitli	_	Adj	Adj	With	7	MODIFIER	_	_
+7	faktörlere	faktör	Noun	Noun	A3pl|Pnon|Dat	11	DATIVE.ADJUNCT	_	_
+8	ne	ne	Adj	Adj	_	9	MODIFIER	_	_
+9	ad	ad	Noun	Noun	A3sg|Pnon|Nom	11	SUBJECT	_	_
+10	_	ver	Verb	Verb	_	11	DERIV	_	_
+11	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

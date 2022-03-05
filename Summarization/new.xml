@@ -1,0 +1,887 @@
+
+<geography>
+<content id="1">
+<title>taşlar</title>
+<sub>volkanik</sub>
+<sub2> tortul </sub2>
+<sub3> başkalaşmış </sub3>
+</content>
+<content id="2">
+<title>kayaçlar</title>
+<sub>magmatik</sub>
+<sub2>tortul</sub2>
+<sub3>metamorfik</sub3>
+</content>
+<content id="3">
+<title>yer yuvarlağı</title>
+<sub>dağ</sub>
+<sub2>ova</sub2>
+<sub3>plato</sub3>
+</content>
+<content id="4">
+<title>göl</title>
+<sub>tektonik</sub>
+<sub2>volkanik</sub2>
+<sub3>karstik</sub3>
+</content>
+<content id="5">
+<title>akarsu aşındırma</title>
+<sub>menderes</sub>
+<sub2>plato</sub2>
+<sub3>vadi</sub3>
+</content>
+<content id="6">
+<title>buzul aşındırma</title>
+<sub>horgüç</sub>
+<sub2>sirk</sub2>
+<sub3>vadi</sub3>
+</content>
+<content id="7">
+<title>yerin katmanları</title>
+<sub>çekirdek</sub>
+<sub2>manto</sub2>
+<sub3>yer kabuğu</sub3>
+</content>
+<content id="8">
+<title>rüzgar biriktirme</title>
+<sub>lös</sub>
+<sub2>barkan</sub2>
+<sub3>kumul</sub3>
+</content>
+<content id="9">
+<title>coğrafi konum</title>
+<sub>paralel</sub>
+<sub2>meridyen</sub2>
+<sub3>ekvator</sub3>
+</content>
+<content id="10">
+<title>mevsim</title>
+<sub>ekinoks</sub>
+<sub2>solstis</sub2>
+<sub3>eksen eğikliği</sub3>
+</content>
+<content id="11">
+<title>harita</title>
+<sub>projeksiyon</sub>
+<sub2>izohips</sub2>
+<sub3>ölçek</sub3>
+</content>
+<content id="12">
+<title>iklim</title>
+<sub>sıcaklık</sub>
+<sub2>rüzgar</sub2>
+<sub3>yağış</sub3>
+</content>
+<content id="13">
+<title>rüzgar</title>
+<sub>meltem</sub>
+<sub2>muson</sub2>
+<sub3>bora</sub3>
+</content>
+<content id="14">
+<title>bulut</title>
+<sub>stratüs</sub>
+<sub2>kümülüs</sub2>
+<sub3>sirüs</sub3>
+</content>
+<content id="15">
+<title>yoğuşma</title>
+<sub>çiy</sub>
+<sub2>kırağı</sub2>
+<sub3>sis</sub3>
+</content>
+<content id="16">
+<title>yağış türleri</title>
+<sub>yağmur</sub>
+<sub2>kar</sub2>
+<sub3>dolu</sub3>
+</content>
+<content id="17">
+<title>yağış tipleri</title>
+<sub>konveksiyonel</sub>
+<sub2>orografik</sub2>
+<sub3>frontal</sub3>
+</content>
+<content id="18">
+<title>iç kuvvetler</title>
+<sub>orojenez</sub>
+<sub2>epirojenez</sub2>
+<sub3>seizma</sub3>
+</content>
+<content id="19">
+<title>volkanizma</title>
+<sub>kaldera</sub>
+<sub2>lav</sub2>
+<sub3>maar</sub3>
+</content>
+<content id="20">
+<title>levha</title>
+<sub>volkan</sub>
+<sub2>deprem</sub2>
+<sub3>sıcak su</sub3>
+</content>
+<content id="21">
+<title>levha</title>
+<sub>volkan</sub>
+<sub2>deprem</sub2>
+<sub3>sıcak su</sub3>
+</content>
+<content id="22">
+<title>yer üstü suları</title>
+<sub>okyanus</sub>
+<sub2>deniz</sub2>
+<sub3>göl</sub3>
+</content>
+<content id="23">
+<title>toprak</title>
+<sub>zonal</sub>
+<sub2>intrazonal</sub2>
+<sub3>azonal</sub3>
+</content>
+<content id="24">
+<title>toprak</title>
+<sub>zonal</sub>
+<sub2>intrazonal</sub2>
+<sub3>azonal</sub3>
+</content>
+<content id="25">
+<title>nüfus</title>
+<sub>doğal artış</sub>
+<sub2>doğum</sub2>
+<sub3>ölüm</sub3>
+</content>
+<content id="26">
+<title>bitki</title>
+<sub>çayır</sub>
+<sub2>maki</sub2>
+<sub3>orman</sub3>
+</content>
+<content id="27">
+<title>bitki</title>
+<sub>çöl</sub>
+<sub2>bozkır</sub2>
+<sub3>tayga</sub3>
+</content>
+<content id="28">
+<title>bitki</title>
+<sub>iklim</sub>
+<sub2>toprak</sub2>
+<sub3>yağış</sub3>
+</content>
+<content id="29">
+<title>karstik şekil</title>
+<sub>traverten</sub>
+<sub2>obruk</sub2>
+<sub3>mağara</sub3>
+</content>
+<content id="30">
+<title>yağış</title>
+<sub>cephe</sub>
+<sub2>yamaç</sub2>
+<sub3>yükselim</sub3>
+</content>
+<content id="31">
+<title>yağış</title>
+<sub>cephe</sub>
+<sub2>yamaç</sub2>
+<sub3>yükselim</sub3>
+</content>
+<content id="32">
+<title>yerleşme</title>
+<sub>köy</sub>
+<sub2>kent</sub2>
+<sub3>kır</sub3>
+</content>
+<content id="33">
+<title>yerleşme</title>
+<sub>köy</sub>
+<sub2>kent</sub2>
+<sub3>kır</sub3>
+</content>
+<content id="34">
+<title>nüfus</title>
+<sub>yerleşme</sub>
+<sub2>göç</sub2>
+<sub3>ekonomi</sub3>
+</content>
+<content id="35">
+<title>afet</title>
+<sub>sel</sub>
+<sub2>erezyon</sub2>
+<sub3>çığ</sub3>
+</content>
+<content id="36">
+<title>afet</title>
+<sub>sel</sub>
+<sub2>erozyon</sub2>
+<sub3>çığ</sub3>
+</content>
+<content id="37">
+<title>afet</title>
+<sub>deprem</sub>
+<sub2>tsunami</sub2>
+<sub3>volkan</sub3>
+</content>
+<content id="38">
+<title>besin zinciri</title>
+<sub>üretici</sub>
+<sub2>tüketici</sub2>
+<sub3>ayrıştırıcı</sub3>
+</content>
+<content id="39">
+<title>besin zinciri</title>
+<sub>üretici</sub>
+<sub2>tüketici</sub2>
+<sub3>ayrıştırıcı</sub3>
+</content>
+<content id="40">
+<title>karbon döngüsü</title>
+<sub>atmosfer</sub>
+<sub2>litosfer</sub2>
+<sub3>hidrosfer</sub3>
+</content>
+<content id="41">
+<title>oksijen döngüsü</title>
+<sub>klorofil</sub>
+<sub2>ozon</sub2>
+<sub3>fotosentez</sub3>
+</content>
+<content id="42">
+<title>azot döngüsü</title>
+<sub>bakteri</sub>
+<sub2>amonyak</sub2>
+<sub3>yıldırım</sub3>
+</content>
+<content id="43">
+<title>azot döngüsü</title>
+<sub>bakteri</sub>
+<sub2>amonyak</sub2>
+<sub3>yıldırım</sub3>
+</content>
+<content id="44">
+<title>su döngüsü</title>
+<sub>buharlaşma</sub>
+<sub2>yağış</sub2>
+<sub3>yoğuşma</sub3>
+</content>
+<content id="45">
+<title>su döngüsü</title>
+<sub>buharlaşma</sub>
+<sub2>yağış</sub2>
+<sub3>yoğuşma</sub3>
+</content>
+<content id="46">
+<title>beşeri unsur</title>
+<sub>ekonomi</sub>
+<sub2>üretim</sub2>
+<sub3>tüketim</sub3>
+</content>
+<content id="47">
+<title>ekonomi</title>
+<sub>iklim</sub>
+<sub2>nüfus</sub2>
+<sub3>coğrafi konum</sub3>
+</content>
+<content id="48">
+<title>tarım</title>
+<sub>tahıl</sub>
+<sub2>baklagil</sub2>
+<sub3>meyve</sub3>
+</content>
+<content id="49">
+<title>hayvancılık</title>
+<sub>arıcılık</sub>
+<sub2>ipek böcekçiliği</sub2>
+<sub3>balıkçılık</sub3>
+</content>
+<content id="50">
+<title>maden</title>
+<sub>demir</sub>
+<sub2>bor</sub2>
+<sub3>krom</sub3>
+</content>
+<content id="51">
+<title>maden</title>
+<sub>demir</sub>
+<sub2>bor</sub2>
+<sub3>krom</sub3>
+</content>
+<content id="52">
+<title>sanayi</title>
+<sub>ham madde</sub>
+<sub2>pazar</sub2>
+<sub3>enerji</sub3>
+</content>
+<content id="53">
+<title>sanayi</title>
+<sub>ham madde</sub>
+<sub2>pazar</sub2>
+<sub3>enerji</sub3>
+</content>
+<content id="54">
+<title>Türkiye afet</title>
+<sub>yangın</sub>
+<sub2>sel</sub2>
+<sub3>deprem</sub3>
+</content>
+<content id="55">
+<title>Türkiye afet</title>
+<sub>yangın</sub>
+<sub2>sel</sub2>
+<sub3>deprem</sub3>
+</content>
+<content id="56">
+<title>ticaret</title>
+<sub>ham madde</sub>
+<sub2>üretim</sub2>
+<sub3>pazar</sub3>
+</content>
+<content id="57">
+<title>çevre sorunları</title>
+<sub>termik santral</sub>
+<sub2>hidroelektrik santral</sub2>
+<sub3>nükleer santral</sub3>
+</content>
+<content id="58">
+<title>küresel çevre sorunları</title>
+<sub>küresel ısınma</sub>
+<sub2>asit yağmurları</sub2>
+<sub3>ozon seyrelmesi</sub3>
+</content>
+<content id="59">
+<title>nüfus</title>
+<sub>sanayileşme</sub>
+<sub2>göç</sub2>
+<sub3>şehirleşme</sub3>
+</content>
+<content id="60">
+<title>ulaşım</title>
+<sub>iklim</sub>
+<sub2>coğrafi konum</sub2>
+<sub3>yeryüzü şekilleri</sub3>
+</content>
+<content id="61">
+<title>ticaret</title>
+<sub>iç</sub>
+<sub2>dış</sub2>
+<sub3>transit</sub3>
+</content>
+<content id="62">
+<title>ticaret</title>
+<sub>ekonomi</sub>
+<sub2>ithalat</sub2>
+<sub3>ihracat</sub3>
+</content>
+<content id="63">
+<title>turizm</title>
+<sub>kültür</sub>
+<sub2>ekonomi</sub2>
+<sub3>çevre</sub3>
+</content>
+<content id="64">
+<title>bölgesel proje</title>
+<sub>GAP</sub>
+<sub2>DOKAP</sub2>
+<sub3>DAP</sub3>
+</content>
+<content id="65">
+<title>çevresel örgütler</title>
+<sub>Greenpeace</sub>
+<sub2>Avrupa Çevre Ajansı</sub2>
+<sub3>Dünya Doğayı Koruma Derneği</sub3>
+</content>
+<content id="66">
+<title>bilim</title>
+<sub>deney</sub>
+<sub2>teori</sub2>
+<sub3>gözlem</sub3>
+</content>
+<content id="67">
+<title>canlılık</title>
+<sub>metabolizma</sub>
+<sub2>anabolizma</sub2>
+<sub3>katabolizma</sub3>
+</content>
+<content id="68">
+<title>organik bileşik</title>
+<sub>yağ</sub>
+<sub2>karbonhidrat</sub2>
+<sub3>protein</sub3>
+</content>
+<content id="69">
+<title>inorganik bileşik</title>
+<sub>mineral</sub>
+<sub2>su</sub2>
+<sub3>tuz</sub3>
+</content>
+<content id="70">
+<title>karbonhidrat</title>
+<sub>monosakkarit</sub>
+<sub2>disakkarit</sub2>
+<sub3>polisakkarit</sub3>
+</content>
+<content id="71">
+<title>yağ</title>
+<sub>trigleserit</sub>
+<sub2>fosfolipid</sub2>
+<sub3>steroid</sub3>
+</content>
+<content id="72">
+<title>hücre</title>
+<sub>hücre zarı</sub>
+<sub2>sitoplazma</sub2>
+<sub3>çekirdek</sub3>
+</content>
+<content id="73">
+<title>çekirdek</title>
+<sub>kromotin iplik</sub>
+<sub2>çekirdekçik</sub2>
+<sub3>çekirdek zarı</sub3>
+</content>
+<content id="74">
+<title>sınıflandırma</title>
+<sub>takım</sub>
+<sub2>aile</sub2>
+<sub3>cins</sub3>
+</content>
+<content id="75">
+<title>bitki</title>
+<sub>tohumsuz</sub>
+<sub2>açık tohumlu</sub2>
+<sub3>kapalı tohumlu</sub3>
+</content>
+<content id="76">
+<title>virüs</title>
+<sub>kuduz</sub>
+<sub2>grip</sub2>
+<sub3>AIDS</sub3>
+</content>
+<content id="77">
+<title>çevre kirliliği</title>
+<sub>hava kirliliği</sub>
+<sub2>toprak kirliliği</sub2>
+<sub3>radyoaktif kirlilik</sub3>
+</content>
+<content id="78">
+<title>üreme</title>
+<sub>eşeyli</sub>
+<sub2>eşeysiz</sub2>
+<sub3>büyüme ve gelişme</sub3>
+</content>
+<content id="79">
+<title>mitoz</title>
+<sub>partenogenez</sub>
+<sub2>tomurcuklanma</sub2>
+<sub3>vejatatif</sub3>
+</content>
+<content id="80">
+<title>mitoz</title>
+<sub>sporla üreme</sub>
+<sub2>bölünerek üreme</sub2>
+<sub3>rejenerasyon</sub3>
+</content>
+<content id="81">
+<title>mayoz</title>
+<sub>metafaz</sub>
+<sub2>anafaz</sub2>
+<sub3>telofaz</sub3>
+</content>
+<content id="82">
+<title>eşeyli üreme</title>
+<sub>gamategonez</sub>
+<sub2>zigot</sub2>
+<sub3>DNA</sub3>
+</content>
+<content id="83">
+<title>üreme sistemi</title>
+<sub>LTH</sub>
+<sub2>LH</sub2>
+<sub3>FSH</sub3>
+</content>
+<content id="84">
+<title>embriyo gelişimi</title>
+<sub>embriyonik evre</sub>
+<sub2>fetal evre</sub2>
+<sub3>segmentasyon dönemi</sub3>
+</content>
+<content id="85">
+<title>kalıtım</title>
+<sub>Mendel</sub>
+<sub2>çaprazlama</sub2>
+<sub3>bağımsız açılım kuralı</sub3>
+</content>
+<content id="86">
+<title>allel dominant</title>
+<sub>tam baskınlık</sub>
+<sub2>eş baskınlık</sub2>
+<sub3>eksik baskınlık</sub3>
+</content>
+<content id="87">
+<title>genetik çeşitlilik</title>
+<sub>cross-over</sub>
+<sub2>mutasyon</sub2>
+<sub3>kromozomda değişiklik</sub3>
+</content>
+<content id="88">
+<title>ekosistem</title>
+<sub>üretici</sub>
+<sub2>tüketici</sub2>
+<sub3>ayrıştırıcı</sub3>
+</content>
+<content id="89">
+<title>madde döngüsü</title>
+<sub>karbon</sub>
+<sub2>su</sub2>
+<sub3>azot</sub3>
+</content>
+<content id="90">
+<title>sucul biyom</title>
+<sub>akarsu</sub>
+<sub2>okyanus</sub2>
+<sub3>göl</sub3>
+</content>
+<content id="91">
+<title>karasal biyom</title>
+<sub>orman</sub>
+<sub2>tayga</sub2>
+<sub3>tundra</sub3>
+</content>
+<content id="92">
+<title>bitki</title>
+<sub>kök</sub>
+<sub2>gövde</sub2>
+<sub3>yaprak</sub3>
+</content>
+<content id="93">
+<title>bitkisel doku</title>
+<sub>meristem</sub>
+<sub2>temel doku</sub2>
+<sub3>iletim doku</sub3>
+</content>
+<content id="94">
+<title>bitkilerde taşıma</title>
+<sub>kök basıncı</sub>
+<sub2>kılcallık</sub2>
+<sub3>kohezyon</sub3>
+</content>
+<content id="95">
+<title>bitkilerde büyüme</title>
+<sub>su</sub>
+<sub2>ışık</sub2>
+<sub3>sıcaklık</sub3>
+</content>
+<content id="96">
+<title>bitkisel hormonlar</title>
+<sub>oksin</sub>
+<sub2>sitokinin</sub2>
+<sub3>giberellin</sub3>
+</content>
+<content id="97">
+<title>tropizma</title>
+<sub>fototropizma</sub>
+<sub2>geotropizma</sub2>
+<sub3>kemotropizma</sub3>
+</content>
+<content id="98">
+<title>nasti</title>
+<sub>fotonasti</sub>
+<sub2>termonasti</sub2>
+<sub3>sismonasti</sub3>
+</content>
+<content id="99">
+<title>çiçekli bitki</title>
+<sub>tohum</sub>
+<sub2>tozlaşma</sub2>
+<sub3>döllenme</sub3>
+</content>
+<content id="100">
+<title>tohum oluşumu</title>
+<sub>tohum kabuğu</sub>
+<sub2>endosperm</sub2>
+<sub3>embriyo</sub3>
+</content>
+<content id="101">
+<title>çimlenme</title>
+<sub>oksijen</sub>
+<sub2>sıcaklık</sub2>
+<sub3>nem</sub3>
+</content>
+<content id="102">
+<title>Mendel genetiği</title>
+<sub>monohibrit çaprazlama</sub>
+<sub2>dihibrit çaprazlama</sub2>
+<sub3>gen-kromozom teorisi</sub3>
+</content>
+<content id="103">
+<title>kontrol çaprazlaması</title>
+<sub>eş baskınlık</sub>
+<sub2>eksik baskınlık</sub2>
+<sub3>çok alellik</sub3>
+</content>
+<content id="104">
+<title>besin zinciri</title>
+<sub>üretici</sub>
+<sub2>tüketici</sub2>
+<sub3>ayrıştırıcı</sub3>
+</content>
+<content id="105">
+<title>kalıtsal hastalık</title>
+<sub>Down sendromu</sub>
+<sub2>Turner sendromu</sub2>
+<sub3>Klineferter sendromu</sub3>
+</content>
+<content id="106">
+<title>DNA nükleotidi</title>
+<sub>şeker</sub>
+<sub2>organik baz</sub2>
+<sub3>fosfat</sub3>
+</content>
+<content id="107">
+<title>DNA replikasyonu</title>
+<sub>yarı korunumlu eşleşme</sub>
+<sub2>gen mutasyonu</sub2>
+<sub3>hidrojen bağları</sub3>
+</content>
+<content id="108">
+<title>RNA</title>
+<sub>mRNA</sub>
+<sub2>tRNA</sub2>
+<sub3>rRNA</sub3>
+</content>
+<content id="109">
+<title>protein sentezi</title>
+<sub>DNA</sub>
+<sub2>RNA</sub2>
+<sub3>ribozom</sub3>
+</content>
+<content id="110">
+<title>protein sentezi</title>
+<sub>transkripsiyon</sub>
+<sub2>translasyon</sub2>
+<sub3>kodon</sub3>
+</content>
+<content id="111">
+<title>sindirim</title>
+<sub>mekanik</sub>
+<sub2>kimyasal</sub2>
+<sub3>hücre içi sindirim</sub3>
+</content>
+<content id="112">
+<title>insanda sindirim</title>
+<sub>ağız</sub>
+<sub2>yutak</sub2>
+<sub3>yemek borusu</sub3>
+</content>
+<content id="113">
+<title>insanda sindirim</title>
+<sub>ince bağırsak</sub>
+<sub2>mide</sub2>
+<sub3>kalın bağırsak</sub3>
+</content>
+<content id="114">
+<title>karbonhidrat sindirimi</title>
+<sub>sakkaroz</sub>
+<sub2>maltoz</sub2>
+<sub3>laktoz</sub3>
+</content>
+<content id="115">
+<title>protein sindimi</title>
+<sub>pepsinojen</sub>
+<sub2>kazein</sub2>
+<sub3>polipeptit</sub3>
+</content>
+<content id="116">
+<title>yağ sindirimi</title>
+<sub>gliserol</sub>
+<sub2>yağ asidi</sub2>
+<sub3>lipaz</sub3>
+</content>
+<content id="117">
+<title>insanda solunum</title>
+<sub>gırtlak</sub>
+<sub2>soluk borusu</sub2>
+<sub3>akciğer</sub3>
+</content>
+<content id="118">
+<title>akciğer</title>
+<sub>alveol</sub>
+<sub2>bronş</sub2>
+<sub3>akciğer kılcalları</sub3>
+</content>
+<content id="119">
+<title>insanda dolaşım</title>
+<sub>kalp</sub>
+<sub2>damar</sub2>
+<sub3>kan</sub3>
+</content>
+<content id="120">
+<title>kalp</title>
+<sub>endokart</sub>
+<sub2>miyokart</sub2>
+<sub3>perikart</sub3>
+</content>
+<content id="121">
+<title>damar</title>
+<sub>atardamar</sub>
+<sub2>toplardamar</sub2>
+<sub3>kılcal damar</sub3>
+</content>
+<content id="122">
+<title>kan</title>
+<sub>plazma</sub>
+<sub2>kan hücreleri</sub2>
+<sub3>trombositler</sub3>
+</content>
+<content id="123">
+<title>bağışıklık</title>
+<sub>lenfosit</sub>
+<sub2>antikor</sub2>
+<sub3>serum</sub3>
+</content>
+<content id="124">
+<title>insanda boşaltım</title>
+<sub>böbrek</sub>
+<sub2>üretra</sub2>
+<sub3>mesane</sub3>
+</content>
+<content id="125">
+<title>böbrek</title>
+<sub>malpighi cisimciği</sub>
+<sub2>havuzcuk</sub2>
+<sub3>öz</sub3>
+</content>
+<content id="126">
+<title>hemeostosi</title>
+<sub>aldesteron</sub>
+<sub2>ter bezleri</sub2>
+<sub3>karaciğer</sub3>
+</content>
+<content id="127">
+<title>ınsanda iskelet sistemi</title>
+<sub>baş</sub>
+<sub2>gövde</sub2>
+<sub3>üyeler</sub3>
+</content>
+<content id="128">
+<title>iskelet</title>
+<sub>kemik</sub>
+<sub2>eklem</sub2>
+<sub3>kas</sub3>
+</content>
+<content id="129">
+<title>D vitamini eksikliği</title>
+<sub>raşitizm</sub>
+<sub2>osteoporoz</sub2>
+<sub3>osteomalazi</sub3>
+</content>
+<content id="130">
+<title>insanda sinir sistemi</title>
+<sub>beyin</sub>
+<sub2>omurilik</sub2>
+<sub3>duyular</sub3>
+</content>
+<content id="131">
+<title>arka beyin</title>
+<sub>beyincik</sub>
+<sub2>omurilik soğanı</sub2>
+<sub3>pons</sub3>
+</content>
+<content id="132">
+<title>beyin</title>
+<sub>talamus</sub>
+<sub2>hipotalamus</sub2>
+<sub3>Rolando yarığı</sub3>
+</content>
+<content id="133">
+<title>göz</title>
+<sub>damar tabaka</sub>
+<sub2>sert tabaka</sub2>
+<sub3>retina</sub3>
+</content>
+<content id="134">
+<title>kulak</title>
+<sub>salyangoz</sub>
+<sub2>yarım daire kanalları</sub2>
+<sub3>tulumcuk</sub3>
+</content>
+<content id="135">
+<title>dokunma</title>
+<sub>epitel doku</sub>
+<sub2>epidermis</sub2>
+<sub3>dermis</sub3>
+</content>
+<content id="136">
+<title>insanda hormonal sistem</title>
+<sub>epifiz bezi</sub>
+<sub2>tiroit bezi</sub2>
+<sub3>paratrioit bezi</sub3>
+</content>
+<content id="137">
+<title>hipofiz bezi</title>
+<sub>LTH</sub>
+<sub2>FSH</sub2>
+<sub3>MSH</sub3>
+</content>
+<content id="138">
+<title>tiroit bezi</title>
+<sub>tiroksin</sub>
+<sub2>kalsitonin</sub2>
+<sub3>TSH</sub3>
+</content>
+<content id="139">
+<title>böbrek üstü bezi</title>
+<sub>kortizol</sub>
+<sub2>aldesteron</sub2>
+<sub3>adrenalin</sub3>
+</content>
+<content id="140">
+<title>dişi üreme sistemi</title>
+<sub>yumurtalık</sub>
+<sub2>vajina</sub2>
+<sub3>döl yatağı</sub3>
+</content>
+<content id="141">
+<title>erkek üreme sistemi</title>
+<sub>testis</sub>
+<sub2>Cowper bezi</sub2>
+<sub3>prostat bezi</sub3>
+</content>
+<content id="142">
+<title>davranış</title>
+<sub>refleks</sub>
+<sub2>içgüdü</sub2>
+<sub3>öğrenme</sub3>
+</content>
+<content id="143">
+<title>öğrenilmiş davranışlar</title>
+<sub>alışma</sub>
+<sub2>şartlanma</sub2>
+<sub3>izlenim</sub3>
+</content>
+<content id="144">
+<title>hayatın başlangıcı</title>
+<sub>ototrof görüşü</sub>
+<sub2>heteretrof görüşü</sub2>
+<sub3>panspermia görüşü</sub3>
+</content>
+<content id="145">
+<title>hayatın başlangıcı</title>
+<sub>biyogenez görüşü</sub>
+<sub2>abiyogenez görüşü</sub2>
+<sub3>yaratılış görüşü</sub3>
+</content>
+<content id="146">
+<title>evrim</title>
+<sub>Lamarck</sub>
+<sub2>Darwin</sub2>
+<sub3>Haeckel</sub3>
+</content>
+</geography>
+
+
+
+
+
+
+
+

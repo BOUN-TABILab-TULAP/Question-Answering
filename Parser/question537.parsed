@@ -1,0 +1,12 @@
+1	A	a	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	vitamini	vitamin	Noun	Noun	A3sg|P3sg|Nom	10	SUBJECT	_	_
+3	_	eksik	Noun	Noun	A3sg|Pnon|Nom	4	DERIV	_	_
+4	eksikliğinde	_	Noun	Noun	Ness|A3sg|P2sg|Loc	7	MODIFIER	_	_
+5	ortaya	orta	Noun	Noun	A3sg|Pnon|Dat	7	DATIVE.ADJUNCT	_	_
+6	_	çık	Verb	Verb	Pos	7	DERIV	_	_
+7	çıkabilecek	_	Verb	Verb	Able|Fut|A3sg	8	MODIFIER	_	_
+8	hastalıklar	hastalık	Noun	Noun	A3pl|Pnon|Nom	10	SUBJECT	_	_
+9	_	ne	Pron	QuesP	A3pl|Pnon|Nom	10	DERIV	_	_
+10	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	11	SENTENCE	_	_
+11	.	.	Punc	Punc	_	0	ROOT	_	_
+

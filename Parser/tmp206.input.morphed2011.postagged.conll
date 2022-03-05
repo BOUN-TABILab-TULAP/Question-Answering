@@ -1,0 +1,11 @@
+1	Ses	ses	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	kayıt	kayıt	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	makinasının	makina	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+4	icat	icat	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	_	et	Verb	Verb	_	_	_	_	_
+6	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+7	edilme	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+8	tarihi	tarih	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+9	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+10	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

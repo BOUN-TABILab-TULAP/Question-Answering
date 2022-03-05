@@ -1,0 +1,14 @@
+Sıralı renk taklidi
+Sıralı Renk taklidi resim Titreme algoritmasıdır. Genellikle daha az renk derinliği bir ekran üzerinde daha yüksek bir renk, sürekli bir görüntü sağlamak için gereken programlar tarafından kullanılır. Örneğin, Microsoft Windows 16 renkli grafik modlarında kullanır. Bu kolayca fark çapraz tarama desenleri ile ayırt edilir.
+Algoritma, görüntülenen piksel bir eşik haritası uygulayarak piksel bazı mevcut renk girişlerinin ne kadar renk arasında bağlı farklı bir renk olarak işlenecek yol açarak renk taklidi ulaşır.
+Eşik haritaların Farklı boyutlarda mevcuttur:
+Harita döndürülmüş veya algoritma gücünü etkilemeden yansıtılmış olabilir. Bu eşik harita aynı zamanda bir göstergesi matrisi veya Bayer matris olarak da bilinir.
+Keyfi boyut eşik haritaları basit bir kural ile icat edilebilir: Birincisi Ardından haritada iki ardışık sayılar arasındaki ortalama mesafe mümkün olduğunca büyük olması gibi bunları yeniden düzenlemek 1'den başlayarak ardışık tamsayı her yuvayı doldurun sağlanması bu tablo " kenarlarında etrafında "sarar.
+Algoritma normal görüntü vermektedir, ancak her bir piksel için, o eşiği aşarsa pikselin değeri bir adım daha nicelenecek neden eşik haritadan bir değer katıyor.
+(3x3 matrisi kullanılarak eğer 0-9 aralığı içine ölçekli) piksel değeri matrisinin gelen hücrede sayısından daha az ise, örneğin, tek renkli render, beyaz arsa, aksi halde, siyah o piksel arsa .
+Pseudocode:
+<Syntaxhighlight lang = "perl">
+</ Syntaxhighlight>
+Hedef paletinde ayrı renk arasında en az fark olduğu gibi eşik haritası okunan değerleri aynı aralığı içine ölçekli olmalıdır.
+Algoritma tek bir piksel üzerinde çalışır ve hiçbir koşullu ifadeler olduğundan, çok hızlı ve gerçek zamanlı dönüşümler için uygundur. Titreme desen yeri her zaman ekran çerçevesine aynı göreceli kalır çünkü Ayrıca, bu animasyonlar için uygun hale, hata dağıtma yöntemlerinden daha sarsıntıdan daha az eğilimli. Desenler hata difüzyon yöntemi daha tekrarlayan Çünkü sipariş tereddütten bir görüntü daha iyi sıkıştırır. Sıralı renk taklidi daha düz çizgiler ve daha az anomaliler neden olacak gibi çizgi-sanat grafik için daha uygundur.
+Seçilen haritanın boyutu eşit veya renkleri hedef kaynak renklerin oranından daha büyük olmalıdır. 15bpp bir 24bpp görüntü (kanal başına 32 renge kanal başına 256 renk) nicelenmesiyle Örneğin, bir seçsin küçük harita 8 (: 32 256) oranı için, 4x2 olacak. Bu, farklı renk taklidi desenleri ile giriş her farklı sesi ifade veriyor.

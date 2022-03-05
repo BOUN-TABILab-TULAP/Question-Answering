@@ -1,0 +1,163 @@
+Question: Karakter bakımından heterozigot olan bireylere ne ad verilirGenotipi bilinmeyen baskın fenotipli birey arasında yapılan çaprazlama olayına ne denir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2.1.1 Mendel’İn Çalişmalari Ve İlkeleri  (EBA)</DOCTITLE>
+<TEXT>
+
+Gregor Mendel, rahiplik yaptığı manastırın bahçesinde bezelyeler ile yaptığı çalışmalarını 12 yıl kadar sürdürmüştür. 
+Mendel’in bezelyeleri seçme nedenlerinden birincisi, çok çeşit içermesiydi. Örneğin bezelyelerin bir çeşidi; buruşuk tohumluyken başka bir çeşidi yuvarlak tohumludur; ve bir çeşidi mor renkli çiçeklere sahipken diğer çeşidi beyaz çiçeklere sahiptir. 
+Bireyler arasında çeşitlilik gösteren kalıtılabilir özelliklere karakter; karakterin her bir farklı tipine özellik adı verilir. Örneğin çiçek rengi bir karakterdir; ancak çiçeğin beyaz, kırmızı ya da mor renkte olması bir özelliktir. Mendel, bezelyelerle çalışırken seçtiği her bir karakterin iki zıt özelliğini incelemiştir. 
+Mendel’in bezelyelerle çalışılmasındaki başka bir neden ise bezelyelerin kısa zamanda çok fazla sayıda tohum üretebilmesiydi. Dolayısıyla çok sayıda yavru elde edilebiliyordu. Böylece baskın ve çekinik fenotipe sahip bireylerin sayısal oranları daha doğru bulunabiliyordu. 
+Bezelyelerin çiçekleri kendi kendini dölleyebilme özelliğine sahip olması çaprazlamaların yapılmasında bazı kolaylıklar sağlamıştır. Mendel çalışırken, istediği özelliklerden birine sahip bir çiçeğin erkek organlarını kesmiş ve kendi kendisini döllemesini engellemiştir (Resim 2.5). Çaprazlamayı düşündüğü başka bir bireyden aldığı polenlerle bunun yumurtasının döllenmesini sağlayarak sadece istenilen özellikleri çaprazlamış olmaktadır. Mendel bezelyelerde yedi farklı karakter üzerinde çalışmış, bu karakterlerin birbirine zıt iki özelliğini (Resim 2.6) göz önüne alarak çaprazlama yapmıştır. 
+Birbirine zıt özelliğe sahip iki arı döl (Parental=P) çaprazlandığında, ortaya çıkan birinci kuşak (F1) dölünün bireylerinin hepsinin ebeveynlerden birine benzediğini görmüştür. Ancak elde edilen F1 dölü, kendi arasında çaprazlandığında elde edilen ikinci kuşak (F2) dölünün bireyleri içinde diğer ataya benzeyen bireylerin de ortaya çıktığını görmüştür (Resim 2.7). 
+Mendel, F2 dölünde ortaya çıkan diğer ataya ait özelliğe çekinik (resesif), F1 dölünde ortaya çıkan özelliğe baskın (dominant) özellik adını vermiştir. 
+Bir karaktere ait baskın ve çekinik özelliklerin kalıtımından sorumlu faktör, iki harf ile sembolize edilir. 
+Mendel’in faktör olarak ifade ettiği, kalıtsal bilgiyi taşıyan birimlere günümüzde gen adı verilmektedir. 
+Genlerin farklı şekillerine alel denir ve bunlar, özelliklerin kalıtımından sorumludur. 
+Örneğin bezelye bitkisinin çiçek rengi karakterinden sorumlu olan gen, iki alele sahiptir. Bu alellerden birisi, mor çiçek oluşumundan; diğeri ise beyaz çiçek oluşumundan sorumludur. Genellikle bu alellerden birisi baskın, diğeri çekiniktir. 
+Baskın alel, diğer alelin olup olmamasına bağlı olmaksızın etkisini gösterirken, çekinik alel, baskın alel bulunmadığında etkisini gösterebilir (Resim 2.8). Baskın alel büyük harfle (B), çekinik alel küçük harfle (b) gösterilir. Eğer özelliği kontrol eden bir çift alelin her ikisi de aynı alel ise, birey homozigot (BB, bb); biri diğerinden farklıysa (Bb şeklinde), birey heterozigot (melez=hibrit) olarak tanımlanır. 
+Özelliğin ortaya çıkmasından sorumlu aleller, o özellik bakımından organizmanın genotipini belirler. 
+Bir organizmanın kalıtsal özelliğinin dışarıdan görülen ya da ortaya çıkarılabilen şekline fenotip adı verilir. 
+Bezelyede çiçek rengi bakımından bb genotipine sahip bir bitkinin beyaz çiçekli olması onun fenotipidir. 
+Kendileri çaprazlandığında birçok kuşak boyunca hep aynı fenotipe sahip yavrular üreten organizmalara arı döl adı verilir. Arı döllerin genotipi, ilgili özellik bakımından homozigottur. İki farklı arı dölün çaprazlanmasıyla elde edilen döllere heterozigot (hibrit=melez) adı verilir. Bu çaprazlama olayına ise hibritleşme (melezleme) denir. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alel</DOCTITLE>
+<TEXT>
+
+Alel veya alelmorf, belirli bir özelliği belirleyen bir genin değişik (alternatif) hallerinden her biri. Gen ve alel sözcüklerinin her ikisi de, belirli bir özelliğin kalıtsal faktörünü ifade eder. Alel sözcüğü, özellikle bir kromozomun bir lokusundaki iki ya da daha fazla seçenekli gen çeşidini anlatmak için kullanılır. Örneğin bir bezelyenin yuvarlak veya kırışık taneli olmasını belirleyen gen, yuvarlaklık aleli ve kırışıklık alelinden meydana gelir.
+Kromozomlarda bulunan genler, "alel" denilen genlerden oluşmuş çiftler halinde bulunurlar. Her homolog kromozomda her karakter için genin işgal ettiği belli bir yer vardır. Buna lokus denir. Homolog (eş) kromozomların aynı lokuslarında yer alan, iki veya bazen daha çok sayıda alternatif karakterin genleri "alel gen"ler olarak bulunurlar. 
+Genlerde aynı karakteristik özelliği kodlayan fakat farklı kodlar taşıdığı için farklı özelliklerin ortaya çıkmasını sağlayan genlerden her biri "alel"dir. 
+Örneğin göz rengini belirleyen genin ela rengi ortaya çıkaran versiyonu ile kahverengi rengi ortaya çıkaran versiyonundan her biri "alel"dir. A kan grubu aleli ve B kan grubu alelini taşıyan bir birey "AB" kan grubuna sahip olur.
+Eğer atalardan biri zıt özelliklerin birine, diğeri öbürüne sahipse, buna "Alelmorfik özellikler" denir.
+Göz rengi örneğinde olduğu gibi, ela ve kahverengi renk, gözdeki alelmorfik bir renk özelliğidir. Her hücrede göz rengini denetleyen bir çift gen bulunur. 
+Gen çiftlerini benzer aleler şeklinde taşıyan bireylerde "homozigot genotip", gen çiftlerini farklı aleler şeklinde taşıyan bireylerde ise, "heterozigot genotip" bulunur. Buna göre, "AA" ve "aa" genotipi sırayla, homozigot baskın ve homozigot çekinik; "Aa" genotipi ise heterozigottur. Herhangi bir özelliği oluşturan bir çift alelin bir üyesi söz konusu olduğu zaman, yalnızca homozigot genotipte fenotipik olarak kendini gösterilebilen alellere ""çekinik (resesif) alel"" denir. Diğer yandan heterozigot genotipte kendini gösteren alellere de ""baskın (dominant) alel"" adı verilir. Baskın ve çekinik alelleri göstermek için genellikle büyük ve küçük harfler kullanılır. İki benzer aleli taşıyanlar (AA veya gg), ""homozigot""; farklı aleli taşıyanlar, (Aa) ""heterozigot"" olarak isimlendirilir. 
+Örneğin;
+"AA" homozigot baskın, "aa" homozigot çekinik ve "Aa" heterozigotdur.
+Bütün genlerin tek tek toplamı ve bütün kromozom seti o canlının "genomu" şeklinde tarif edilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kontrol Çaprazlaması  (EBA)</DOCTITLE>
+<TEXT>
+
+Bezelye bitkisinde, mor çiçek renginden sorumlu alelin baskın (A); beyaz çiçek renginden sorumlu alelin çekinik (a) olduğu bilindiğinden beyaz çiçekli bitkilerin genotipinin aa olduğunu kolaylıkla söyleyebiliriz. Ancak mor çiçekli bitkilerin genotipi homozigot (AA) ya da heterozigot (Aa) şeklinde olabilir. Bu fenotipe sahip bireylerin genotipinin homozigot mu (AA) yoksa heterozigot mu (Aa) olduğunu belirlemek için mor çiçekli bir bitki ile çekinik fenotipe sahip olan beyaz çiçekli (aa) bir bitki çaprazlanır. Elde edilen yavruların fenotipine göre, mor çiçekli ebeveyn bitkinin genotipini belirlemek mümkündür. Bu tür çaprazlamalarda aşağıdaki iki sonuç elde edilir: 
+1) Eğer atasal bitki baskın homozigot ise AA x aa çaprazlaması yapılmıştır. Elde edilen yavruların tümü Aa genotipinde olacak ve mor çiçekli olacaktır. 
+2) Eğer atasal bitki heterozigot ise bu durumda Aa x aa çaprazlaması yapılmıştır. Elde edilen yavruların yarısı mor çiçekli yarısı beyaz çiçekli olacaktır. Bu çaprazlamada, beyaz çiçekli bitkilerin meydana gelmiş olması, beyaz çiçekli bitkilerdeki çekinik alelin bir tanesinin mor çiçekli bitkiden geldiğini ve mor çiçekli atasal bitkinin heterozigot genotipe (Aa) sahip olduğunu gösterir. 
+Genotipi bilinmeyen bir organizmanın genotipini belirlemek amacıyla, çekinik homozigot bir bireyle çaprazlanmasına kontrol çaprazlaması ya da test çaprazlaması adı verilir (Resim 2.16). 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bağimsiz Açilim Kurali  (EBA)</DOCTITLE>
+<TEXT>
+
+Mendel, ayrılma kuralını ortaya koyarken deneylerinde tek bir karakter ile ilgili çaprazlamalar yapmıştır. Yani bu çaprazlamaları yaparken, bezelyelerde sadece rengini ya da sadece tohum şeklini esas almıştır. 
+İki karakter göz önüne alınarak çaprazlamalar yapılsa, yavru döllerde bu iki karaktere ait özellikler hangi oranlarda temsil edilecektir? 
+Bezelyelerde tohum rengi sarı ya da yeşil; tohum şekli ise yuvarlak ya da buruşuk olabilir. 
+Mendel, yapmış olduğu monohibrit çaprazlamalardan sarı tohum oluşumundan sorumlu alelin baskın (Y) ve yeşil tohum oluşumundan sorumlu alelin ise çekinik (y) olduğunu belirlemişti. 
+Aynı şekilde, yuvarlak tohum oluşumundan sorumlu alelin baskın (R) ve buruşuk tohum oluşumundan sorumlu alelin ise çekinik (r) olduğunu saptamıştı. 
+Mendel, arı döl sarı-düz tohumlu bezelyeler (YYRR) ile arı döl yeşil-buruşuk tohumlu bezelyeleri (yyrr) çaprazlayarak, her iki karakter bakımından heterozigot olan (YyRr) dihibrit F1 dölünü elde etti. 
+Mendel, dihibrit olan F1 dölünü, kendi arasında çaprazlayarak (YyRr x YyRr) F2 dölünü elde etti ve F2 dölündeki bireylerin fenotiplerini belirleyerek bunların toplam içerisindeki oranlarını hesapladı. 
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eş Baskinlik (Kodominantlik)  (EBA)</DOCTITLE>
+<TEXT>
+
+Bir karakterin kalıtımından sorumlu iki alel gen arasında baskınlık ilişkisi bakımından gözlenen bir diğer durum, eşbaskınlıktır (kodominantlık). 
+Eş baskınlık durumunda iki alel bir arada bulunduğu zaman, her biri etkisini fenotipte gösterir. Eş baskın alelleri gösterirken büyük harf kullanılır ve büyük harfin olması bu alellerin heterozigot durumda da kendisini fenotipikte ifade ettiğine işaret eder. 
+Örnek: İnsanda MN kan grubu, kırmızı kan hücrelerin yüzeyine özgül moleküllerin bağlanmasını sağlayan M ve N alelleri sayesinde belirlenir. 
+MM genotipine sahip bireyler, M kan grubuna; NN genotipine sahip bireyler, N kan grubuna sahiptirler. MN genotipine sahip bireyler ise MN kan grubuna sahip olur (Resim 2.18). 
+Bu örnekte görüldüğü gibi, heterozigot bireylerde bulunan iki alel, homozigot bireylerde gösterdiği etkiyi heterozigot durumda da aynen göstermektedir. Bu iki alelin bir arada bulunması, fenotipini etkilememiştir. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Baskınlık (genetik)</DOCTITLE>
+<TEXT>
+
+Baskınlık (veya dominantlık) genetik biliminde bir genin karşılıklı lokuslar üzerinde bulunan alellerinden hangisinin canlının karakterini (fenotipini) belirleyeceğini gösteren ilişkidir. En basit şekliyle, bir genin A ve B olmak üzere iki alelinin olduğunu düşünürsek, canlının genotipini AA, BB ve AB olmak üzere üç farklı şekilde olabilir. Eğer AA ve BB genotiplerinin fenotipleri birbirinden farklıysa ve canlı AB genotipine sahipken fenotipi AA'daki gibi oluyorsa, bu durumda A baskın, B geni ise çekiniktir. Aynı şekilde AB genotipine sahip canlının fenotipi BB'ninki gibi oluyorsa, bu durumda da B geni baskın, A geni çekiniktir.
+Arka plan.
+Diploit / haploit.
+Bilinen birçok hayvan ve bazı bitkiler eşleşmiş kromozomlara sahiptir ve diploid (2n) kromozomlu olarak tanımlanırlar. Kromozom çiftlerinin her parçası biri dişi yumurtasından (n), diğeri erkek sperminden (n) olmak üzere bir ebeveynden gelir ve döllenme sırasında birleşerek 2n kromozomlu hücreyi oluştururlar. Yumurta ve sperm hücreleri ise (n) tane kromozom bulundururlar ve haploid olarak adlandırılırlar. Haploid hücreler mayoz bölünme yoluyla oluşturulur.
+Homozigot, heterozigot.
+Eğer canlı bir genin özdeş alellerini (örn. AA) taşıyorsa homozigot, farklı alellerini taşıyorsa (örn. AB) heterozigot olarak adlandırılır.
+Diğer genetik konseptlerle ilişkiler.
+Baskınlık kavramı, birçok genetik konseptle ilişkilidir.
+Çok alellik.
+Aynı karakteri temsil eden ikiden fazla gen bulunması durumuna çok alellik denir. Örneğin insanlardaki AB0 kan grubu sisteminde, kan grubu karakterini belirleyen A, B ve 0 olmak üzere 3 çeşit gen bulunur. A ve B, 0 genine baskındır. A0 veya AA genotipine sahip canlıların kan grubu fenotipleri aynıdır ve A grubu olarak adlandırılırlar. Aynı şekilde B0 ve BB genotipindeki canlılar da B grubu olarak adlandırılırlar.
+Tam baskınlık.
+Homozogit ve heterozigot genotipindeki canlıların fenotiplerinin birbirinden farksız olması durumudur.
+Eş baskınlık.
+Alel genlerin karaktere etkilerinin eşit olması durumudur. Örneğin A ve B kan grubu genleri eş baskındır. Bu yüzden her iki gene sahip insanlar AB kan grubu olur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dihibrit Çaprazlama  (EBA)</DOCTITLE>
+<TEXT>
+
+Tohum rengi tohum şekli gibi iki özellik bakımından heterozigot olan iki birey arasında yapılan çaprazlama, bir dihibrit çaprazlamadır. 
+Bu çaprazlamanın sonuçlarına göre, tohum rengi ve tohum şekli fenotiplerinin F2 dölünde ortaya çıkma oranları, birbirinden bağımsızdı. F2 dölünde, çekinik fenotip olan yeşil renkli tohuma sahip yavrular, monohibrit çaprazlama sonuçlarında olduğu gibi 1/4 oranında; ve baskın fenotip olan sarı renkli tohuma sahip olan yavrular ¾ oranında ortaya çıkmıştı. 
+Benzer şekilde buruşuk tohuma sahip olan yavrular ¼ oranında; yuvarlak tohuma sahip olan yavrular ¾ oranında temsil edilmekteydi. İki karaktere ait fenotiplerin birlikte ortaya çıkma oranları ise, bu fenotiplerin bağımsız olarak ortaya çıkma oranlarının çarpımına eşitti. Yani F2 dölünde, bir alel çiftinin kontrol ettiği özellik, diğer alel çiftinin kontrol ettiği özellikten bağımsız olarak ortaya çıkmıştı (Resim 2.15). Bu fenotiplerin ortaya çıkma oranları aşağıdaki gibiydi: Sarı-yuvarlak tohumlu fenotipin ortaya çıkma oranı: 3/4 x 3/4 = 9/16 Yeşil-yuvarlak tohumlu fenotipin ortaya çıkma oranı:1/4 x 3/4 = 3/16 Sarı-buruşuk tohumlu fenotipin ortaya çıkma oranı: 3/4 x 1/4 = 3/16 Yeşil-buruşuk tohumlu fenotipin ortaya çıkma oranı: 1/4 x 1/4 = 1/16.
+Bağımsız açılım kuralı, farklı iki karakteri kontrol eden alellerin gamet oluşumu sırasında diğer karakteri kontrol eden alel çiftinden bağımsız olarak ayrıldığını ve döllerde bu alel çiftlerinin kontrol ettiği fenotiplerin birbirinden bağımsız olarak ortaya çıktığını ifade etmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Genler ve aleller</DOCTITLE>
+<TEXT>
+
+Kalıtım olayı doğrudan kromozomların mitoz ve mayoz bölünmeler ve döllenmedeki davranışlarına bağlıdır. Her bir kromozomda sayısız kalıtım birimleri, genler bulunur ve bunların herbiri birbirinden farklı olup ayrı ayrı bir veya birkaç karakteri birden kontrol ederler. Genler kromozomlarda yer alırlar ve bir hücrede her bir kromozomdan iki tane bulunduğundan her bir hücrede genler bir çift olarak bulunur. Mayoz bölünmede kromozomlar birbirlerinden ayrılıp döllenmede tekrar biraraya geldiklerine göre genler de aynı davranışı gösterirler. Her bir kromozom genetiksel olarak linear düzende gen dizilerine sahipmiş gibi davranır ve bu gen düzenlenişleri "homolog kromozomlar"da birbirinin aynısıdır. 
+Bir karekteri kontrol eden gen, belli bir kromozomun belirli bir noktasında bulunur ve bu noktaya "gen lokus"u denir. Kromozomlar mayoz bölünme sırasında sinapsis gösterdiklerinde, homolog kromozomlar nokta nokta yani gen ile gen şeklinde aynı lokuslar karşılıklı gelecek şekilde birleşme gösterirler. Bir karakter kalıtımı ancak birbirlerine zıt iki durum olduğu zaman incelenebilir. Mendel'in çalışmalarında bezelyelerde ele aldığı şekil morfolojisinde düzgün ve buruşuk tohum özellikleri gibidir. Canlı birey böyle zıt durumlardan sadece birini gösterilebilir. Bu nedenle "allel genler"den söz edilir. 
+Homolog kromozomların aynı lokuslarında yer alan, iki veya bazen daha çok sayıda alternatif karekterlerin genlerine "allel genler" denir. Düzgün ve buruşuk tohum morfolojilerini belirleyen genler gibi. 
+Gen çiftlerini benzer alleller şeklinde taşıyan bireyler homozigot genotipli, gen çiftlerini farklı alleller şeklinde taşıyan bireyler ise heterozigot genotipli olarak ayrılırlar. Buna göre "DD" ve "dd" "genotip"li bezelye bitkileri homozigot baskın ve çekinik genotipli, "Dd" genotipli bezelyeler ise heterozigotturlar. Bütün genlerin tek tek toplamı ve bütün kromozom seti o canlının genomu şeklinde tarif edilir. 
+Dış bağlantılar.
+genetik hastalıklar tüp bebek
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mutasyonlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Genler, mutasyon geçirir, mutasyon, genetik maddede nadiren de olsa meydana gelen, kalıtılabilir kararlı değişikliktir. 
+Bir alel, mutasyon geçirerek farklı bir alel haline gelebilir (Resim 2.31). Böylece bir genin birden fazla sayıda aleli oluşabilir. 
+Mutasyonlar sayesinde türün gen havuzunda çok sayıda farklı aleller oluşur; alel çeşitliliği artar. Bu durum canlı türlerinin gen havuzlarında çeşitlilik yaratmak suretiyle türlerin değişen çevre koşullarına uyum güçlerini artırır. 
+Meydana gelen mutant aleller, baskın özellikteyseler etkilerini fenotipte gösterirler ve zararlı etkiye sahipseler doğal seçilimle ortadan kaldırılırlar. Oluşan mutant aleller çekinikse, zararlı olsalar bile, bu aleller heterozigot bireylerde varlığını sürdürerek nesilden nesile aktarılır. Bu nedenle çekinik alellerin, gen havuzunda birikme olasılığı daha fazla olmaktadır. 
+Genlerde meydana gelen mutasyonlar, çeşitli tiplerde olabilir. Bu mutasyonlardan bazıları, genlerdeki bir çift nükelotitin değişmesiyle ortaya çıkar. Bunlara nokta mutasyonları adı verilir. Orak hücre anemisinin ortaya çıkması, böyle bir nokta mutasyonu sayesinde olmuştur (Resim 2.32). 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ayrilma Kurali  (EBA)</DOCTITLE>
+<TEXT>
+
+Ayrılma kuralı, kalıtılan bir özellikten sorumlu iki alelin gamet oluşumu sırasında, birbirinden ayrılıp farklı gametlere gitmesi demektir. Mendel’in hibritler oluşturduktan sonra sabırlı davranarak çaprazlamalara devam etmesi, bugün de kullandığımız ayrılma kuralının ortaya çıkmasını sağlamıştır. Bir özellik bakımından heterozigot (hibrit=melez) olan bireylere monohibrit, iki özellik bakımından hibrit olan bireylere dihibrit adı verilir. İki monohibrit bireyin çaprazlanmasına monohibrit çaprazlama denir. 
+
+</TEXT>
+</DOC>
+

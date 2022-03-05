@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ümit	ümit+Noun+A3sg+Pnon+Nom
+Ümit	Ümit+Noun+Prop+A3sg+Pnon+Nom
+
+burnu	burun	+Noun+A3sg+P3sg+Nom
+burnu	burun	+Noun+A3sg+Pnon+Acc
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+zaman	zaman	+Noun+A3sg+Pnon+Nom
+
+keşfedilmiştir	keşfet+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+keşfedilmiştir	keşfet+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

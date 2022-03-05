@@ -1,0 +1,16 @@
+Bump
+Bump haritalama bir nesnenin yüzeyindeki tümsekler ve kırışıklıkları simüle etmek için bilgisayar grafikleri bir tekniktir. Bu amaç, yüzey normalleri bozucu ve aydınlatma hesaplamalar sırasında tedirgin, normal kullanılarak elde edilir. temel nesne yüzeyi aslında değişmez, ancak sonuç görünüşte engebeli bir yüzey yerine düzgün bir yüzeydir. Bump haritalama 1978 yılında James Blinn tarafından tanıtıldı.
+Normal haritalama kullanılan yumru haritalama en yaygın çeşididir.
+Haritalama temellerini Bump.
+Bump haritalama yüzeyinin küçük yer değiştirmelerin taklit tarafından bir hale yüzey görünüm daha gerçekçi hale getirmek için bilgisayar grafikleri bir tekniktir. Ancak, deplasman haritalama aksine, yüzey geometrisi değiştirilmez. Yüzey yerinden edilmiş "sanki" yerine yalnızca yüzey, normal modifiye edilir. Normal tadil edilmiş yüzey daha sonra bunun yerine düz bir yüzey ayrıntı görüntüsünü verir (kullanarak, örneğin Phong yansıtma modeli) ışık hesaplamalar için kullanılır.
+Bump haritalama çok daha hızlı ve geometri değişmeden kalır, çünkü deplasman haritalama kıyasla aynı detay seviyesi için daha az kaynak tüketir.
+Derinlik duygusunun arttırılması yanı sıra diğer yüzey özelliklerini değiştirmek uzantıları da vardır. Paralaks haritalama böyle bir uzantısıdır.
+yumru haritalama ile birincil sınırlama altta yatan yüzeye kendisini değiştirmeden sadece yüzey normalleri bozan olmasıdır. Siluetler ve gölgeler, bu nedenle büyük simüle yer değiştirmeler için özellikle belirgindir ki, bundan etkilenmeyecektir. Bu sınırlama, tümsekler, aslında bir yüzeye veya bir isosurface kullanılarak uygulanır değiştirme haritalama teknikleri ile aşılabilir.
+Yöntemler.
+Bump gerçekleştirmek için iki temel yöntem vardır. İlk modifiye Normal veren yüzey yer değiştirme simüle etmek için bir yükseklik haritayı kullanır. Bu Blinn tarafından icat bir yöntem olup, belirtilen sürece yumru eşleme olarak adlandırılan, genellikle. aşağıdaki gibi, bu yöntemin aşamaları özetlenmektedir.
+Bir aydınlatma hesaplama nesnenin yüzeyinde her görünür noktasında (veya piksel) için yapılır önce:
+Sonuç, gerçek derinliğe sahip görünen bir yüzeydir. Algoritma da sahnedeki ışıklar etrafında hareket olarak yüzey görünümü değiştirir sağlar.
+Diğer yöntem, doğrudan yüzey üzerinde her nokta için modifiye normaldir içeren normal bir harita belirtmektir. Normal doğrudan belirtilen yerine bir yükseklik haritası türetilmiş olduğundan bu yöntem genellikle daha öngörülebilir sonuçlar doğuruyor. Bu sanatçılar o yumru haritalama en yaygın yöntem, bugün yapma, çalışmak için daha kolay hale getirir.
+Haritalama teknikleri çarpmak gerçek zamanlı.
+Gerçek Zamanlı 3D grafik programcılar genellikle düşük hesaplama maliyetle Bump simüle etmek amacıyla tekniğin varyasyonlarını kullanın.
+Tipik bir yolu, bir neredeyse doğrudan, normal heightmap yüzeyini kullanmanıza olanak sağlar sabit bir geometri, kullanmak olmuştur. Tam ekran etkisi sağlayan yöntem çok basit ve hızlı bir döngü ile uygulanabilir aydınlatma hesaplamaları için bir precomputed arama tablosu ile birlikte. Bump mapping ilk tanıtıldı Bu yöntem yaygın bir görsel efekt oldu.

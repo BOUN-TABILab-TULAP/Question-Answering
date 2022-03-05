@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bulutların	bulut	+Noun+A3pl+Pnon+Gen
+Bulutların	bulut	+Noun+A3pl+P2sg+Nom
+
+şekilleri	şekil+Noun+A3pl+Pnon+Acc
+şekilleri	şekil+Noun+A3pl+P3sg+Nom
+şekilleri	şekil+Noun+A3pl+P3pl+Nom
+şekilleri	şekil+Noun+A3sg+P3pl+Nom
+
+nelere	ne	+Pron+Ques+A3pl+Pnon+Dat
+
+göre	gör+Verb+Pos+Opt+A3sg
+göre	göre+Postp+PCDat
+
+değişir	değiş+Verb+Pos+Aor+A3sg
+değişir	değiş+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

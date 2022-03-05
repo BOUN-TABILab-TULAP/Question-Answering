@@ -1,0 +1,8 @@
+1	Rihter	Rihter	Noun	Prop	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	ölçeği	ölçek	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT	_	_
+3	ne	ne	Adj	Adj	_	4	MODIFIER	_	_
+4	amaçla	amaç	Noun	Noun	A3sg|Pnon|Ins	6	MODIFIER	_	_
+5	_	kullan	Verb	Verb	_	6	DERIV	_	_
+6	kullanılır	_	Verb	Verb	Pass|Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

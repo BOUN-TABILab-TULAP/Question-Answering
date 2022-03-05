@@ -1,0 +1,7 @@
+1	Suyun	su	Noun	Noun	A3sg|Pnon|Gen	5	SUBJECT	_	_
+2	fotolizi	fotolizi	Noun	Prop	A3sg|Pnon|Nom	5	SUBJECT	_	_
+3	nasıl	nasıl	Adv	Adv	_	5	MODIFIER	_	_
+4	_	gerçek	Adj	Adj	_	5	DERIV	_	_
+5	gerçekleşir	_	Verb	Verb	Become|Pos|Aor|A3sg	6	SENTENCE	_	_
+6	.	.	Punc	Punc	_	0	ROOT	_	_
+

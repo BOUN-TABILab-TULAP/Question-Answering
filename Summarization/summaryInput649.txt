@@ -1,0 +1,279 @@
+Question: Madencilikte siyanür kullanımı neden sakıncalıdır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Siyanür</DOCTITLE>
+<TEXT>
+
+Siyanür, siyano grubu (-C≡N ), bir carbon ve ona üç bağlı azot içeren kimyasal bileşiklere verilen addır. Organik ve inorganik çeşitleri bulunmakta yahut endüstriyel prosesler ile üretilmekte ve kullanılmaktadır. Organik bileşikleri nitril grubu altında isimlendirilir ve çoğu zehirli olmaktan uzaktır. Citalopram , fadrozol ve ledrozol gibi ilaçlar bu gruba örnek olarak gösterilebilir. Öte yandan bazı bitkiler ve hayvanlarca da üretilmektedir. Siyanürü doğal olarak üreten birçok bitki, bakteri ve böcek vardır. Kiraz, badem, kayısı, şeftali, erik, fasulye, patates, turp, lahana, şalgam, brokoli ve mısır siyanürlü bileşikleri doğal olarak üretmektedir. Endüstride ise genellikle taşıma ve saklama güvenliği sebebiyle tuzları sodyum siyanür ve potasyum siyanür demir çelik endüstrisi ve maden sanayi gibi çok çeşitli sanayi kollarında kullanılmakla beraber gaz formu hiydrosiyanik asit de 'HCN' akrilik fiber , plastik üretimi ve sentetik kauçuk uygulamalarında sıklık ile kullanılmaktadır. Hidrosiyanik asit 28 santigrat derecede kaynama noktasına ulaşır ve acı badem kokusuna sahiptir.
+Kullanım Alanları.
+Günümüzde muhtelif siyanür çeşitleri farklı endüstri kollarında kullanılmaktadır. Bunlardan en önemlisi kimyasal üretim endüstrisidir. Bunu nylon, polyamid , akrilik ve plastik üretim sanayileri takip eder. Madencilikte de altın ve gümüş liç proseslerinde kullanılmaktadır.
+Madencilikte Siyanür Kullanımı.
+Madencilikte siyanür kullanımı 1880'li yıllara dayanmaktadır. Özellikle altın ve gümüş üretiminde kullanılan siyanürün, kapalı devre sistemler ile kullanımı gerçekleşmektedir. Üretim sonucu oluşan atıklardaki siyanürü uzaklaştırmak INCO prosesi gibi çeşitli prosesler ile mümkündür . Madene uygun planlama , yönetmelikler ve günümüz teknolojisi ile siyanürün taşıdığı riskler ortadan kaldırılmaktadır. 
+Siyanür Liçi.
+Altın ve gümüş gibi kıymetli metallerin üretiminde siyanür liçi prosesi uygulanır. Bunun en temel sebebi, siyanür liçinin yüksek verimliliği ve hızıdır.
+Kıymetli metaller, alkali koşullarda seyreltik siyanür çözeltisinde çözündürülür. Siyanür türleri içinde, bu amaçla kullanımı en uygun olan NaCN'dir. Liç prosesi sırasında, altın siyanürle bileşik yaparak sıvı faza geçer. Bu olay sırasında gerçekleşen temel reaksiyonlar:
+4Au + 8NaCN + O2 + 2H2O → 4NaAu(CN)2 + 4NaOH
+2Ag + 2CN– + O2 + 2H2O → 2Ag(CN)2 + H2O2 + 2OH–
+Ortamın pH'nın asitleşmesi durumunda, NaCN bozunarak HCN'ye dönüşür. Bu durumda siyanür sıvı formdan, gaz formuna dönüşür ve bu halde çevre ve yaşayan canlılar için tehlike oluşturur. Bu sebeple güvenlik sağlanması için, NaCN'nin bulunduğu ortama kireç ilave ederek pH'ı 10-11 civarında tutulur.
+Siyanür Zehirlenmesinin Fizyopatolojisi ve Tedavi.
+Yüksek miktarda siyanür , vücudumuz için tehlike arz etmesine rağmen eser miktarda vücudumuzda ve çeşitli yiyeceklerin içinde bulunur. Vücutta depolanmaz , kanserojen değildir. Günümüzde en çok sigara dumanı ve yangınların dumanının solunması ile maruz kalınmaktadır. Siyanür kanda bulunan methemoglobin'e irreversible (geri dönüşümsüz) bir şekilde bağlanarak etkinlik gösterir.Bu özelliği kanın dokulara oksijen perfüzyonunu sağlayamaması sonucu hipoksi'ye ve sonuçta hipoksik şok ve ölüme neden olur.Oksijen mevcuttur fakat kanda taşınamaz.Vücut adeta oksijen havuzunda boğulur.
+Tedavide amaç zehirli maddenin zehirsiz başka bir metabolite çevrilmesidir.Bunun için öncelikle hastaya Sodyum nitrit verilir.Bu madde methemoglobin'e siyanür ile yarışmalı olarak bağlanır ve siyanür bu sayede methemoglobin'e bağlanamaz.Daha sonra verilen Sodyum tiyosülfat ise siyanür ile reaksiyona girerek Tiyosiyanat oluşturur.Bu madde vücut için toksik değildir ve böbreklerden atılır.
+Kaynaklar.
+http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=71&tid=19
+http://en.wikipedia.org/wiki/Cyanide
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Parasetamol</DOCTITLE>
+<TEXT>
+
+Parasetamol (asetaminofen), ağrı kesici ve ateş düşürücü etkiye sahip bir ilaç etken maddesidir. 
+Parasetamol ağızdan alındığında gastrointestinal sistemde hızla emilir. İlaç alındıktan 30-60 dakika sonra maksimum plazma konsantrasyonlarına ulaşır. Parasetamol bütün dokulara hızla dağılır. Plazma proteinlerine bağlanması zayıftır. Plazma yarı ömrü 1-4 saattir. İdrarla, parasetamol’ün %1-3’ü değişmemiş olarak atılır. %80’i ise biyolojik olarak glukuronid veya sülfat bileşikleri olarak atılır. Analjezik etkisi yeni nesil analjeziklere göre hafif kalmış olsa da gastrointestinal sistemde yan etkisinin hemen hemen olmaması, güvenilirliği ve de gebelerde kullanılabilmesi parasetamolun her zaman ön planda kalmasını ve klasik bir analjezik olmasını sağlar.
+Endikasyonları.
+Baş ağrısı, migren, adet sancıları, diş ağrısı, soğuk algınlığı ve gripal enfeksiyonlara bağlı ağrı, nevralji, nevrit, siyatik, lumbago, kas ve eklem ağrıları, orta kulak ağrıları, sinüzit ve cerrahi operasyonlara veya yaralanmalara bağlı ağrılar ile adet zorluklarından kaynaklanan ağrılarda endikedir. Asetilsalisilik asite duyarlılığı olan hastalarda alternatif ilaç olarak kullanılır.
+Kontrendikasyonları.
+İleri derecede böbrek ve karaciğer rahatsızlığı olan hastalarda kullanılmamalıdır. Parasetamole aşırı duyarlılığı olanlarda ve daha önce anemisi olanlarda kullanılması sakıncalıdır. Parasetemol kedilerde toksik özelliğe sahip olduğundan kullanılmamalıdır.
+Uyarılar.
+Parasetamolün günlük 2 gramdan fazla alınmasında ölümcül risk vardır. Aktif alkolizm, viral hepatit, karaciğer hastalığı ve ağır böbrek fonksiyon bozukluğu olanlarda dikkatle kullanılmalıdır. Kronik alkoliklerde terapötik dozları takiben hepatotoksisite ve karaciğer yetmezliği gelişir. Kronik alkol bağımlılarında güvenli doz saptanamadığından, günde 2 gram veya daha düşük dozlar önerilir. Alışılmış terapötik dozlarda kısa süreli olmak şartıyla gebeliğin tüm dönemlerinde kullanılabilir. Yüksek dozlarda devamlı kullanımı annede anemiye, yeni doğan bebekte ise ölümcül böbrek hastalığına neden olabilir; ama bunun dışında gebelerde güvenle kullanılabilir.
+Yan etkileri.
+Deride püriritik makulopapüler döküntüler, ürtiker, methemoglobinemi ve bazı gastrointestinal belirtiler gibi yan etkiler görülebilir.
+İlaç etkileşimleri.
+Barbitüratlar ve diğer antikonvülzanlar, kloramfenikol, desipramin, doksorubisin, mide boşalma süresini etkileyen ilaçlar ve uzun süreli tedavilerde antikoagülan ilaçlarla etkileşme olasılığı vardır. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yağlar  (EBA)</DOCTITLE>
+<TEXT>
+
+Moleküllerin yapı ve işlevleri öğrenildikçe her birine farklı görevler verildiğini ve yine birinin diğerinin görevini desteklemesiyle canlılığın sürdürülmesinde ortak olarak görev yaptıklarını anlıyoruz. Karbonhidratların, canlıların temel enerji kaynakları ve yapı maddesi olduğunu öğrenmiştiniz. Bu bölümde ise, yağ moleküllerinin canlılığın sürdürülmesindeki rollerini öğreneceksiniz. 
+Hayvanlarda yağ molekülerinin diğer moleküllerden farklı olarak depolandığı yağ doku vardır. Bu nedenle canlıların aldığı farklı organik maddelerin fazlası yağ moleküllerine dönüştürülerek yağ dokuda depolanır. Bu durumun önemi aşağıdaki örneklerde verildiği gibi zor iklim şartlarında yaşamlarını sürdüren canlılarda daha iyi gözlemlenebilir. 
+Bildiğiniz gibi değişik iklimlere sahip bölgelerde değişik canlı grupları yaşar (Resim 49). Örneğin develer, çöllerin çetin şartlarına uyum sağlamış hayvanlardır. Hayvanların fiziksel ve fizyolojik özellikleri çöl ortamına uyum sağlayacak şekilde düzenlenmiştir. Bu hayvanların su ve enerji ihtiyaçları, hörgüçlerinde depoladıkları yağ moleküllerinin hücre solunumu ile parçalanmasıyla günlerce karşılanabilir. Yine göçmen kuşların, uzun mesafeli uçuşları için gerekli enerji ve su, yağ metabolizmasından karşılanır. 
+Yağ moleküllerinin bir diğer özelliği de suda çözünmemeleridir. Bu özelliğinden dolayı hücre zarı gibi birçok yapının temel maddesidir. Eğer yağ molekülleri suda çözünseydi hücreler dağılırdı, bu ise canlılığın sonu anlamına gelirdi. Ancak yağlar alkol, eter, kloroform, benzen ve aseton gibi organik çözücülerde kolaylıkla çözünürler. 
+Yağlar, karbonhidratlara göre iki kat daha fazla enerji sağladıklarından yedek besin olarak depolanır. Hücrede enerji kaynağı olarak öncelikle karbonhidratlar kullanılır. Karbonhidratların fazlası da vücutta yağa çevrilerek saklanır. Bu nedenle unlu besinleri fazla tüketenler daha yağlı bir yapıya sahip olurlar (Etkinlik - 14). Yağ dokusu genellikle derinin altında bulunmak suretiyle bir yalıtım maddesi gibi görev yaparak vücuttan ısı kaybını önlemede etkili olur. Örneğin kış uykusuna yatan Kaya Yediuyurları (Dryomys lanige-Diriyomis lanige) gibi (Resim 50). 
+Bazı işlevlerine değindiğimiz yağ moleküllerini yakından tanıyalım. 
+Yağlar, karbonhidratlar gibi karbon, hidrojen ve oksijen atomlarından yapılmıştır; bazı yağ çeşitlerinde azot ve fosfor atomları da bulunabilir. 
+Yağlar; nötral yağlar (trigliseritler), fosfolipitler ve steroidler şeklinde gruplandırılır. 
+a. Nötral Yağlar (Trigliseritler) 
+Hayvanlarda depo edilen yağ çeşidini oluşturan trigliseritler ya da nötral yağlar, doğada en çok bulunan yağ çeşididir. Yağların oksijenli solunumla yıkımı sonucunda elde edilen enerji karbonhidrat ve proteinlerinkine göre daha fazladır. 
+Nötral yağlar, üç molekül yağ asiti ile bir molekül gliserinin (gliserol) ester bağları ile birleşmesiyle meydana gelir (Resim 51). 
+Trigliseritler, yağ asitlerinin özelliğine göre doymuş ve doymamış yağlar olarak gruplandırılır. 
+Doymuş yağlar oda sıcaklığında katıdır. Hayvansal yağlar genellikle katı hâlde bulunur. Bunlara örnek olarak tereyağı, iç yağı, kuyruk yağını verebiliriz. Doymamış yağlar ise oda sıcaklığında sıvı olup, mısır yağı, fındık yağı, pamuk yağı gibi bitkisel yağlar bu gruptandır (Resim 52). Bitkilerden elde edilen doymamış yağ asitlerine hidrojen katılarak margarinler üretilir. 
+Yağ asidi çeşitlerinden bazıları vücudumuzda sentezlenirken çoğunu besinlerle alırız. Vücutta üretilemeyen ve alınması zorunlu olan yağ asitleri temel (esansiyel) yağ asitleri olarak adlandırılır. Omega yağ asitleri, temel yağ asitlerindendir. 
+Besinlerimizle aldığımız yağlar, bitkisel ve hayvansal kaynaklıdır. Ayçiçeği, soya fasulyesi (Glycine max-Glikine maks), pamuk ve zeytin gibi bitkilerin tohumlarından elde edilen yağları günlük olarak besinlerimizle birlikte almaktayız. 
+Hayvansal yağlar ise özellikle süt, süt ürünleri ve et ürünlerinde bulunur. Günlük yağ ihtiyacımız 50 - 100 gram (4 çorba kaşığı sıvı yağ) kadardır. Hayvansal yağların fazla tüketilmesi kalp ve damar rahatsızlığına neden olabilir. Bu nedenle hayvansal yağlar (doymuş) yerine bitkisel yağlar (doymamış) yağları tüketmeliyiz. 
+Sağlıklı yaşamayı sürdürmek için yağ ihtiyacımızı doğru kaynaklardan sağlamalıyız. Öğünlerimizde özellikle doymamış yağları (zeytinyağı) tercih etmeliyiz. Trans yağlardan uzak durmalıyız; yiyeceklerin içeriklerini kontrol edip ona göre tüketmeliyiz. Omega 3 yağ asitlerini fazla miktarda bulunduran ceviz, balık gibi besinleri belli aralıklarla tüketmeliyiz (Resim 53). Unutmayalım ki bazı yağ asitleri vücudumuzda üretilmez, bu nedenle besinlerle alınmalıdır. 
+Kanımızdaki trigliserit miktarı belli oranda olmalıdır. Miktarın bu oranın üzerinde olması damar daralması, kalp krizi gibi durumlara neden olabilir. Bu nedenle belli aralıklarla kanımızın trigliserit ve kolesterol düzeyini ölçtürmeliyiz. 
+Yağı ihtiyacımız kadar tüketmeliyiz. Yağ ve diğer organik moleküllerin fazlası yağ olarak depolanır. Normalden fazla alınan yağlar, yarar sağlamak yerine zarar verir. Eğer dikkat edilmezse obezite olarak adlandırılan aşırı kilo alma durumu ortaya çıkabilir (Okuma Parçası 6). Çağın hastalığı olarak bilenen bu durum ölümlere neden olmaktadır. Dolayısıyla sağlıklı yaşam için beslenmemize özen göstermeliyiz. 
+Trans Yağ Nedir? 
+Trans yağlar sentetik olarak yapılır; bunlar doğal olarak oluşmaz. Bu tip yağlar, sıvı bitkisel yağları katı yağ yapabilmek için onlara hidrojen eklenme işlemi olan endüstriyel bir süreçle meydana getirilir. Ayrıca sıvı yağların kızartma işlemlerinde defalarca kullanılmasıyla da normal yağlar trans yağa dönüşebilir. Ayrıca bu yağlar kısmen hidrojenlenmiş yağlar olarak da bilinir. 
+Trans yağlar insan hayatı için gerekli değildir ve genellikle sağlığı iyi yönde desteklemez. Trans yağ tüketmek halk arasında kötü olarak bilinen kolesterol (LDL) seviyesini artırır ve iyi olarak bilinen kolesterol (HDL) seviyesini azaltır ve böylece koroner kalp damar hastalıkları riski artar. Bu nedenle dünyada birçok ülkede trans yağ kullanımı durdurulmaya çalışılmaktadır. Gıda firmaları tarafından daha çok trans yağlar tercih edilmektedir. Çünkü kullanımı kolay, üretimi ucuzdur. Ayrıca bu yağlar uzun süre dayanmakta ve yiyeceğe iyi bir tat vermektedir. 
+Margarinler trans yağlar grubu içinde yer alır. Bu nedenle yağ satın alırken paketin üzerini mutlaka okuyun. Üzerinde "hidrojene edilmiş nebati yağ" yazanlar doktorlar tarafından kesinlikle tavsiye edilmemektedir. 
+Bir deney yaparak margarinin plastik gibi sentetik (yapay) bir ürün olduğunu anlayabilirsiniz. Bir paket margarin alın ve margarini gölge bir yere koyun. Birkaç gün içinde, margarinin üzerine fazla bir canlının gelmediğini, kötü kokmadığını ve çürümediğini görürsünüz. Bunun nedeni plastiğe benzer bir molekül olmasıdır. 
+Alınan gıda maddelerinin üzerinde yer alan etiketlerde “Trans yağ yoktur!” ibaresine dikkat edilmelidir. 
+b. Fosfolipitler 
+Fosfolipit moleküllerinin en önemli özelliği, bu moleküllerin hücre zarının yapısına katılmasıdır. Zarın yapısına katılan fosfolipitler çift katlı bir tabaka şeklinde düzenlenmiştir. 
+Fosfolipitler fosfat grubu içeren bir baş ile buraya bağlı iki yağ asidinden meydana gelir. Fosfat grubu suda çözünürken, yağ asitleri suda çözünmez. İki sıra fosfolipitlerin yağ asidi kısımları sırt sırta gelecek şekilde dizildiklerinden suyu geçirmeyen bir tabaka meydana getirilir. Bu sayede, hücrelerde bir ortam diğer ortamdan ayrılarak iç ve dış ortamın özgüllüğü sağlanır. Fosfat grupları ise, suyla temas edecek şekilde zarın iç ve dış yüzeyinde dizilir. 
+c. Steroidler 
+Metabolik faaliyetlerde görev yapan yağlardır. Doğada en sık görülen steroid çeşitleri bazı hormonlar (eşey) ve kolesteroldür. Erkek ve dişi eşey hormonları ve D vitamini steroid yapıdadır. Kolesterol, hücre zarının geçirgenliğini artırır ve dayanıklılığı sağlar, sinirlerde yalıtıcı olarak rol oynar. 
+Kalp ve damar hastalıklarının en önemli nedeni olan kolesterol beyin, böbrek, tavuk derisi ve hayvansal yağlarda fazla bulunduğundan bu yiyeceklerin gereğinden fazla tüketilmesi sakıncalıdır (Resim 54). 
+Kolesterol ve Sağlık İlişkisi Kanda aşırı miktarda bulunan kolesterolün, yavaş yavaş damar duvarında birikmesi sonucu damarda daralma, tıkanma oluşabilir. Kalbi besleyen damarlarda kolesterol birikirse göğüs ağrısı, kalp krizi, kalp yetmezliği sorunları oluşabilir. Beyni besleyen boyun damarlarında birikimi ise felçlere, konuşma bozukluklarına, dengesiz yürümeye, bilinç kaybına yol açabilir. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eritromisin</DOCTITLE>
+<TEXT>
+
+Eritromisin, bir makrolit antibiyotiğidir. Antimikrobik spekturumu pensiline benzediği için, çoğunlukla penisilin alerjisi olan bireylerde kullanılır. Özellikle frengi, belsoğukluğu ve klamidyalar gibi hastalıklar için kullanılan Eritromisin "Saccaropolyspora erythraea" tarafından üretilir. 
+Bakteriyel Protein sentezine müdahale ederek etki eder. Bunu, bakteri ribozomlarının 50s alt-ünitelerine bağlanarak yapar.
+Genellikle bakteriyostatik etkiye sahiptirler (sadece beta-hemolitik streptokok ve streptokok pnömonia'ya karşı bakterisid etkisi vardır). Anaerob bakterilere karşı etkisizdir. Vücuda alınan eritromisin karaciğerde metabolize edilir. Bu nedenle karaciğer yetmezliği olan hastalarda kullanımı sakıncalıdır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aspirin</DOCTITLE>
+<TEXT>
+
+Aspirin ya da asetilsalisilik asit (kısaca ASA), genellikle ufak ağrı ve sızılar için kullanılan ağrıkesici ve ateş düşürücü bir ilaçtır. Ayrıca kan seyreltici etkisi vardır ve kalp krizine karşı koruma sağlaması amacıyla uzun dönem az dozaj kullanılır. Aşırı dozda kullanımı yüzünden her yıl yüzlerce kişi ölümcül etkilere maruz kalsa da, genel olarak aspirinin faydalı bir ilaç olduğu kabul edilir.
+Kullanım biçimleri.
+Günlük doz yetişkinlerde 3 kez 1-2 (500-1000 mg) tablet, yemeklerden sonra çiğnenmeden bir miktar sıvıyla yutulur. Romatizmal hastalıklarda doz günde 4x2 tablete çıkarılabilir. 9-15 yaş grubuna günde 2 veya 3 kez 1 tablet, 7-9 yaş grubuna günde 3 kez ½ tablet verilebilir. 7 yaşından küçük çocuklara 100 mg'lık tablet formundan olmak üzere 1-2 yaş ½ tablet, 2-3 yaş 1 tablet, 4-6 yaş 2 tablet, 7-9 yaş 3 tablet verilir. Bu dozlar gerektiğinde günde 3 kez tekrarlanır.
+Tırnak batması veya nasırda kullanımı.
+100MG lık aspirin suda eritilir. (en fazla 2 cc su)Suyun içme suyu veya saf su olmasına dikkat edin çünkü aspirin bir asittir ve Ph değeri uyumsuz asitler veya bazlarla tepkimeye girip etkisini yitirebilir. Hazırlanan karışımı sorunlu bölgeye bir pamuk yardımıyla iyce yedirerek sürün. Bu işlemi 2 günde bir tekrarlıyabilirsiniz..
+Etkileri.
+Baş ağrısı, diş ağrısı, nevralji, siyatik ve adet sancılarını giderir. Ateşli hastalıklarda, grip ve soğuk algınlığında ateş düşürür. Romatizma ve lumbagoda enflamasyonu azaltır. Boğaz ağrılarını geçirir. Migrenin semptomatik tedavisinde kullanılır. 100 mg dozda Antiagregan(kan sulandırıcı) olarak kalp ve tansiyon hastaları tarafından kullanılır.
+Yan etkileri ve alinmasi gereken önlemler.
+Salisalatlara ve diğer non-steroidal antienflamatuvar ilaçlara karşı aşırı duyarlılığı olanlarda, kanama eğiliminin arttığı patolojik durumlarda, gebeliğin son üç ayında, glukoz-6-fosfat dehidrogenaz eksikliğinde, gastrointestinal kanalda kronik ve aktif ülseri olanlarda kullanılması sakıncalıdır.Kedilerde UDP-Glukroniltransferaz enzimi bulunmadığından bu hayvanlarda Asetil salisilik asit kesinlikle kullanılmamalıdır. Ölümle sonuçlanabilecek toksik reaksiyonlara neden olabilir.
+Uyarılar.
+Astma, nazal polip veya nazal allerjisi olanlarda dikkatle kullanılmalıdır. Uzun süre ve yüksek dozda kullanımında ılımlı bir salisilat intoksikasyonu görülse de, dozun azaltılmasıyla kaybolur. Salisilatlar tiroid fonksiyon testlerini değiştirebilir. Karaciğer harabiyeti olanlarda, ayrıca cerrahi müdahale geçirecek kişilerde dikkatle kullanılmalıdır. Gebelerde kullanım güvenliği kanıtlanmadığından önerilmez. Süt veren annelerde kullanılmamalıdır.
+Yan etkileri.
+Asetilsalisilik asidin en sık görülen yan etkisi sindirim sistemi üzerinedir. Doza bağımlı olarak gastrointestinal hemoraji, ülserasyon, tinnitus, vertigo, geçici işitme kaybı, kanama zamanının uzaması ve nadiren lökopeni, trombositopeni, plazma demir konsantrasyonunda düşme görülebilir. Ayrıca nadir olgularda aşırı duyarlılık reaksiyonları olarak kaşıntı, ürtiker, anjiyonörotik ödem, astma ve anafilaksi görülebilir.
+İlaç etkileşimleri.
+Asetilsalisilik asit plazma protrombin konsantrasyonunu azaltması nedeniyle antikoagülanların etkisini potansiyelize eder. Oral hipoglisemiyanların etkisini potansiyelize eder. Salisilatlar küçük dozlarda probenesid ve sülfinpirazonun ürikozürik etkisini azaltır. Spirinolaktonla oluşan sodyum itrahı, salisilat varlığında azalabilir. Alkolle, kortikosteroidlerle birlikte kullanımı gastrointestinal sistemde kanama olasılığını artırır. Pirazolon türevleriyle birlikte kullanımı gastrointestinal ülserasyon riskini artırır. Üriner alkalileştiriciler salisilatın böbrekten atılım hızını artırarak; fenobarbital enzim indüksiyonuyla, propranolol bazı reseptörlerle kompetitif etki nedeniyle asetilsalisilik asidin etkisini azaltırlar.
+Tarihçesi.
+Aspirinin ortaya çıkması, kimyager Felix Hoffmann'ın 1897’de saf asetilsalisilik asit (ASA) üretmesiyle mümkün olmuştur. ASA, ağrı kesici ve ateş düşürücü olarak kullanılan Aspirinin etken maddesidir. Kaynağı ise dünyanın her yerinde yetişen söğüt ağacıdır. 
+ASAnın kalp krizini, felci, bazı kanser türlerini önleyici etkisi kanıtlanmıştır. Bayer’in kimyagerlerinden Dr. Felix Hoffmann, 10 Ağustos 1897 tarihinde salisilik asidi asetik asit ile sentezleyerek saf asetilsalisilik asidi üretmeyi başardıktan 11 gün sonra aynı yolla diasetilmorfini sentezlemiş ve eroini bulmuştur. Kuru öksürük ve veremin tedavisinde kullanılan eroine büyük ümit bağlanmıştı. Aynı zamanda I. Dünya Savaşı’nda ağır yaralı hastalara ağrı kesici olarak verilmiştir. Morfin bağımlılarını kurtarmak için fayda sağlayabileceği ileri sürülmüştür. Ancak eroinin kendisinin bağımlılık yapan çok ciddi bir uyuşturucu olduğu anlaşılınca, 1930’lu yılların başında adı ilaç listelerinden silinmiştir.
+1900’lü yılların başında Avrupa’daki grip salgınının yok edilmesinde rol oynayan ASA, Aspirin markasıyla özdeşleşmiş durumdadır. ASA ya da Aspirin denince akla daha ziyade kanı sulandırıcı etkisi geliyor. Kalp krizi ve felçteki rolü hatırlanıyor. Hatta bazı kanser türlerindeki önleyiciliği dile getiriliyor. Oysa 1897’den bu yana, Hoffmann’ın formüle ettiği haliyle ilaçlaşan ASA’nın en etkili olduğu rahatsızlıklar ağrı, yüksek ateş ve soğuk algınlığı. 
+Hoffmann, romatizmal ağrılarla baş edemeyen babasını iyileştirebilmek amacıyla salisilik asidi geliştirmeye çalışır. O zamana kadar kullanılmış olan salisilik asit esaslı sodyum salisilat ilacı hem çok kötü bir tada sahiptir hem de uzun süre alındığı için midesi rahatsızlanan kişileri her kullanışlarında hasta etmektedir. 
+1950’lerden sonra bu ilacın kalp krizi ve felç riskini azaltabileceği yönünde fikirler ortaya atılıyordu. 1971’de İngiliz farmakolog Sir John R. Vane’nin, ASA’nın insan metabolizmasındaki ağrıyı nasıl durdurduğunu belirlemesi, Hoffmann’dan sonraki en büyük adımdır. O güne kadar maddenin etkisi biliniyor, yeni etki alanlarına ulaşılıyor ancak bu etkiyi nasıl ve hangi süreçle yaptığı bilinmiyordu. Bu buluşsu Vane’ye 1982 yılında Nobel Tıp Ödülü’nü kazandırdı.
+Kanadalı nöroloji profesörü Henry J. M. Barnett, ASA’nın yüksek dozlarla beyindeki geçici dolaşım rahatsızlıklarını, ikinci felç geçirmeyi ve felç sebebiyle ölüm riskini önemli ölçüde azalttığını kanıtladı. 1985’te Amerikan Gıda ve İlaç Dairesi’nden (FDA) Margaret Heckler, kalp krizi geçiren kişilerin bu ilacı her gün düzenli almaları halinde ikinci kriz ihtimalinin %20 gerilediğini açıkladı. Yine Amerika’da 22,000 sağlıklı doktoru kapsayan kontrollü bir araştırmada, ilaç kullanımının kalp krizi riskini %44 oranında gerilettiği ortaya kondu. Newsweek Dergisi, araştırma sonuçlarını 8 Şubat 1998 tarihli sayısında kapak dosyası yaptı. 1996’da FDA, ilacın akut kalp krizi kuşkusu içindeki kişilerde tercih edilmesini tavsiye etti.
+ASA, çok sayıdaki kadını ilk hamileliklerinde tehdit eden, prematüre ve ölü doğumlara sebep olan ‘preeklempsi’yi önlemede de yardımcı özelliği açıklanan tek ilaçtır. Diyabetin geç dönemlerinde varlığını hissettiren, gözün retina tabakasındaki ve böbreklerdeki kılcal damar tıkanıklıklarında da etkindir. Kalın bağırsak (kolon) kanserini önlemede de etkili olduğu, 1988’de Avustralyalı Epidemiyoloji Profesörü Gabriel A. Kune tarafından yapılan bir araştırmadaki genel nüfus istatistiklerine göre, ilacın düzenli içicilerinde söz konusu kanser riskinin %40’ların altına gerilediğinin fark edilmesiyle kanıtlanmıştır. Amerikan Kanser Derneği’nce yapılan araştırmalarda, Kune’nin bulguları doğrulanmıştır.
+ASA, 80’den fazla ülkede Bayer’in tescilli markası Aspirin ile insanlara ulaştırılıyor. ASA’nın yeni etki alanlarının keşfedilmesi ve nasıl etki ettiğinin daha iyi anlaşılması adına gerçekleştirilen araştırmaları Bayer destekliyor.
+Hammaddesi.
+ASA’nın hammadde sorunu yoktur. Hemen hemen dünyanın her ülkesinde yetişen söğüt ağacından elde edilir. Bu ağacın tedavi edici özelliği 3500 yıldır biliniyor. Yaprak ve kabuklarından tabii olarak üretilen bitkisel ilaçlar eski çağlarda da ağrı kesici ve ateş düşürücü olarak kullanılıyordu. Hipokrat, salisilik asidin farkında olan ilk hekimlerden biridir. Bazı rahatsızlıkların tedavisi için reçetesine söğüt ağacı kabuğundan sağlanan suyu ilaç olarak yazmıştır. Suda bulunan ve ağrıyı hafifleten madde bugün bildiğimiz tanımıyla salisilik asittir. Maddenin adı ile kökeni arasında bir bağ vardır. "Salix" kelimesi Latincede söğüt anlamına gelir.
+Eski Mısırlılar ise ağrıyı gidermede mersin ağacı yapraklarını kullanmıştır. Bu ağacın yapraklarında da salisilik asit bulunduğu ispatlanmıştır. Edward Stone 1763’te, söğüt kabuklarını kurutup toz hâline getirerek ürettiği maddenin ateşli hastalarda faydalı olduğunu belirliyor ve Londra Kraliyet Cemiyeti’ne bildiriyor. Maddeyi su ve çay gibi sıvılarda eriterek hastalara veriyor.
+Ağrı, ateş ve soğuk algınlığı haricinde kalp krizi, felç ve bazı kanser türlerinde fayda sağlanan ASA ya da bildiğimiz klasik Aspirin ilacının elbette kullanılmaması gereken durumlar da söz konusu. Asit özelliği sebebiyle mide rahatsızlığı olanlara kesinlikle önerilmiyor. Bununla birlikte kanama ve kanamanın durdurulamaması riski taşıyan kişilerin de kesinlikle içmemesi gerekiyor. İlacın kanı sulandırıcı etkisi bu rahatsızlıkta negatif tesir yapıyor. Öte yandan ilaç, şüpheli bir sendrom dolayısıyla çocuklar için de önerilmiyor. Burada kesinlikle bir yanılgıya düşmemek gerekiyor. Başka bir ilaç firmasının babyprin ismiyle piyasaya sürdüğü ilaç da çocuklar için üretilmiyor. Bu ilaç, düşük doz kullanması gereken hastaların ihtiyacını karşılıyor.
+Aspirin’in, Plus C ve Forte türleri de var. Plus C’de, ASA ile beraber C vitamini de içeriğe ilave ediliyor. Böylece soğuk algınlığında daha etkili olduğu ifade ediliyor. İngiltere Caridiff Üniversitesi Soğuk Algınlığı Merkezi Direktörü Profesör Ronald Eccless, 272 gönüllü üzerinde yaptığı çalışmada, C vitamini takviyeli ASA’nın soğuk algınlığına bağlı boğaz ağrılarını altı saat süreyle giderdiği; baş ve kas ağrılarında da belirgin iyileşme sağladığı sonucuna ulaşıyor. 1972 yılında piyasaya sunulan Plus C, suda eritilerek vücuda alınıyor. Forte’de ise içeriğe kafein ekleniyor. Buradaki amaç da ağrı kesici etkisini artırmak. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Biyodizel</DOCTITLE>
+<TEXT>
+
+Biyodizel, organik yağların baz ve alkolle karıştırılarak dizel yakıta çevirilmesi sonucu elde edilen ürün.
+Kolza (kanola), ayçiçek, soya, aspir gibi yağlı tohum bitkilerinden elde edilen yağların veya hayvansal yağların bir katalizör eşliğinde kısa zincirli bir alkol ile (metanol veya etanol ) reaksiyonu sonucunda açığa çıkan ve yakıt olarak kullanılan bir üründür. Evsel kızartma yağları ve hayvansal yağlar da biyodizel hammaddesi olarak kullanılabilir. Hatta donmuş yağ ve balık yağı gibi hayvansal yağlar da biyodizel yakıt yapımında kullanılabilir.
+Biyodizel gliserinin yağ veya bitkisel yağdan ayrıldığı transesterleşme adı verilen bir kimyasal süreçle elde edilir. Bu işlem sonucunda geriye iki ürün kalır metil esterler (biyodizelin kimyasal adı) ve gliserin (genellikle sabun ve diğer ürünlerde kullanılmak üzere satılan değerli bir yan ürün).
+Tarihi Gelişimi.
+İlk olarak 1900 lü yıllarda Rudolf Diesel yer fıstığı yağıyla dizel motoru Dünya Fuarında çalıştırmış böylece sebze yağlarının yakıt olarak kullanılabileceğini göstermiştir. Ancak petrolün daha revaçta olması sebeyile ilgi görmemiştir.Ancak 1970lere gelindiğinde petrol sıkıntısı nedeniyle alternatif enerji kaynakları aranmıştır.Biodizel ismi ilkolarak 1992 yılında Amerika Ulusal SoyDiesel Geliştirme Kuruluşu tarafından kullanılmıştır.
+Kullanım alanları.
+Biyodizel, araçlarda, ısınmada, havacılık sanayinde kullanılan bir üründür.
+Britanya'lı işadamı Richard Branson Virgin Voyager isimli treni üretti ve bu dünya'nın ilk biyodizel ile çalışan treni oldu.
+Havacılık sahasındaki ilk biyoyakıtlı uçuş ise 23 Şubat 2008 tarihinde Boeing - Virgin Atlantic Havayolu - General Electric işbirliği tarafından gerçekleştirilmiştir. 4 motorlu Boeing 747-400′ün tek motoruna %20 oranında hindistan cevizi ve babassu bitkisinden elde edilmiş biyoyakıt eklenmiştir. Uçuş başarılı olmuştur.
+Üretimi.
+Almanya,İtalya,Avustralya başta olmak üzere tüm Avrupa ve Amerika'da biyodizel üretim ve tüketimi hızla çoğalmaktadır.2005'de Almanya 2 milyon tona ulaşmıştır.Kyoto protokolüne göre %2 2010'da %10 biyodizel kullanılması mecburi olmuştur.Bir çok ülkede biyodizel yasal olarak vergiden muaftır.
+Biyodizel üretiminde kullanılan en favori ürün soya fasulyesidir.Elde edilen bitkisel veya biyolojik yağlar metanol ile karıştırılıp sodyum hidroksitle tepkime hızlandırılır ve sonuç olarak ester ve gliserin oluşur.Ester yakıt olurken yan ürün gliserin ise diğer sektörlerde kullanılır.
+Biyodizel üretiminde fotosentetik mikroalgler artık söz sahibi olmaya başlamıştır. Bitkisel kaynaklı üretilen biyodizel miktarına oranla üretimi daha fazla olmakta ve fabrikasyon otonomisi sağlanabilmektedir.
+Standartları.
+Biyodizel, dizel ile karışım oranları bazında aşağıdaki gibi adlandırılmaktadır:
+Biyodizel için EN 14214 Avrupa Birliği Standardı ile ASTM D 6751 Amerikan Standardı yürürlüktedir. Türkiye'de EN 14214 Standardı temel alınarak TSE Standardı hazırlanmaktadır.
+Özellikleri.
+Biyodizel orta uzunlukta C16-C18 yağ asidi zincirlerini içeren metil veya etil ester tipi bir yakıttır.Biodizel verim olarak mazota yakın ve motor performansı olarak eşdeğerdir.
+Zehirli atıklar içermez,şeker gibi doğada hızlı çözünür ve nitrojen tutma özelliği sayesinde fertilize ihtiyacını azaltır.
+Ozon tabakasına olan olumsuz etkiler diel yakıta göre %50 azdır.
+Biyobozunabilirlik.
+Biyodizeli oluşturan C16-C18 metil esterleri doğada kolayca ve hızla parçalanarak bozunur, 10,000 mg/l'ye kadar herhangi bir olumsuz mikrobiyolojik etki göstermezler. Suya bırakıldığında biyodizelin 28 günde %95'i, motorinin ise %40'ı bozunabilmektedir. Biyodizelin doğada bozunabilme özelliği dekstroza (şeker) benzemektedir.
+Toksik Etki.
+Biyodizelin olumsuz bir toksik etkisi bulunmamaktadır. Biyodizel için ağızdan alınmada öldürücü doz 17.4 g biyodizel/kg vücut ağırlığı şeklindedir. Sofra tuzu için bu değer 1.75 g tuz/kg vücut ağırlığı olup, tuz biyodizelden 10 kat daha yüksek öldürücü etkiye sahiptir. İnsanlar üzerinde yapılan elle temas testleri biyodizelin ciltte %4'lük sabun çözeltisinden daha az toksik etkisi olduğunu göstermiştir. Biyodizelin toksik olmamasına karşın, biyodizel ve biyodizel-dizel karışımlarının kullanımında; dizel için zorunlu olan standart koşulların (göz koruyucular, havalandırma sistemi v.b.) kullanılması önerilmektedir.
+Depolama.
+Motorin için gerekli depolama yöntem ve kuralları biyodizel için de geçerlidir. Biyodizel temiz, kuru, karanlık bir ortamda depolanmalı, aşırı sıcaktan kaçınılmalıdır. Depo tankı malzemesi olarak yumuşak çelik, paslanmaz çelik, florlanmış polietilen ve florlanmış polipropilen seçilebilir. Depoloma, taşıma ve motor malzemelerinde bazı elastomerlerin, doğal ve butil kauçukların kullanımı sakıncalıdır; çünkü biyodizel bu malzemeleri parçalamaktadır. Bu gibi durumlarda biyodizelle uyumlu Viton B tipi elastomerik malzemelerin kullanımı önerilmektedir.
+Soğukta Akış Özellikleri.
+Biyodizel ve biyodizel-dizel karışımları, dizelden daha yüksek akma ve bulanma noktasına sahiptir; bu durum yakıtların soğukta kullanımında sorun çıkarır. Akma ve bulanma noktaları uygun katkı maddeleri (anti-jel maddeleri) kullanımı ile düşürülebilmektedir. Biyodizel-dizel karışımları 4 °C üzerinde harmanlama ile hazırlanmalıdır. Soğukta harmanlamada biyodizelin dizel üzerine eklenmesi, sıcakta harmanlama da ise karışımda daha fazla olan kısmın az kısım üzerine eklenmesi önerilmektedir. Eğer harmanda soğumaya bağlı olarak kristal yapılar oluşursa, harmanın tekrar normal görünümünü kazanması için bulutlanma noktası üzerine ısıtılması ve karıştırılması gerekmektedir.
+Motor Yakıtı Özellikleri.
+Biyodizel ısıl değeri motorinin ısıl değerine oldukça yakın değerde olup, biyodizelin setan sayısı motorinin setan sayısından r daha yüksektir. Biyodizel kullanımı ile motorine yakın özgül yakıt tüketimi, güç ve moment değerleri elde edilirken, motor daha az vuruntulu çalışmaktadır. Biyodizel motoru güç azaltıcı birikintilerden temizleme ve motorinden çok daha iyi yağlayıcılık özelliklerine sahiptir.
+Emisyonları.
+Aşağıdaki tabloda B100 ve B20 emisyonlarının (Life Cycle Emissions) motorin emisyonları ile karşılaştırılması verilmektedir. Biyodizel ve dizel- biyodizel karışımı kullanımı ile CO, PM, HF, SO x , ve CH 4 emisyonlarında azalma, NO x , HCl ve HC emisyonlarında ise artma görülmektedir. Biyodizel biyolojik karbon döngüsü içinde fotosentez ile karbondioksiti dönüştürür, karbon döngüsünü hızlandırır, ayrıca sera etkisini arttırıcı yönde etkisi yoktur.
+HCl ve HF emisyonları motorin ve biyodizel için oldukça düşük seviyede ve kömür emisyonlarından çok daha düşük değerde olup, çevre için asit tehlikesi oluşturmazlar. Biyodizelin HC emisyonu, motorininkinden yüksektir. Bu değer biyodizel üretim süreç aşamalarından (yağlı tohumun ziraati ve işlenmesi) kaynaklanmaktadır. Ancak biyodizel, motorinden daha düşük HC egzoz gazı emisyonu vermektedir. Egzoz gazı emisyonu yönünden incelendiğinde CO, HC, SO x , PM emisyonlarının motorinden daha az, NO x emisyonlarının ise fazla olduğu görülmektedir. NO x emisyonu katalitik konvertör kullanımı ile azaltılabilir.
+Avantajları.
+Amerika’da, Çevre Koruma Ajansı (EPA) Temiz Hava Kanunları (Clean Air Act) tarafından, çevre ve insan sağlığına diğer yakıtlara kıyasla daha az zarar verdiği kabul edilmiştir.
+Biyomotorin geleneksel ve motoru üzerinde herhangi bir değişime gidilmemiş diesell motorlarda kullanılabilecek bilinen tek alternatif yakıttır. Biyomotorin, motorine benzer koşullarda taşınabilir, kullanılabilir ve depolanabilir. 
+Biyomotorin doğrudan (% 100) veya motorin ile karışımları halinde kullanılabilir. En yaygın kullanılan karışım oranı ( % 20 biyomotorin ve % 80 motorin) şeklindedir.
+Biyomotorin kullanımı ile, motorine kıyasla; CO2 emisyonunda %80, yanmamış hidrokarbon emisyonunda %90, aromatik hidrokarbon emisyonunda ise %75-90 oranlarında azalma saptanmıştır. Biyomotorin kükürt içermediğinden kükürtdioksit emisyonu oluşturmaz. Bu çok önemli bir avantajdır. Bu emisyon özellikleri ile kanser yapıcı etkenler azalmakta ve kanser riski % 90’a varan oranlarda düşmektedir.
+Biyomotorin ağırlıkça % 11 oksijen içerir. Biyomotorin, motorine göre daha iyi bir yağlayıcı olduğundan motor ömrünü uzatır.
+Biyomotorinin biyolojik olarak kolay ve hızlı parçalanabilir Yerli üretim bitkisel yağlardan (ayçiçek yağı, soya yağı, kolza yağı ) kolaylıkla elde edilebilir. Ayrıca kullanılmış ve çevre için zararlı olan kızartma atık yağlarından da biyomotorin üretilebilmektedir.
+Biyomotorin Amerika Birleşik Devletleri’ndeki 10 milyon mil’lik kullanımda ve 20 yıldır Avrupa ülkelerinde olan kullanım ile başarısını ispatlanmış en önemli diesel motor yakıtı alternatifidir.
+Biyomotorin kullanımı ile ham petrole olan bağımlılık ortadan kalkmakta ve ülkelerin dış kaynakların kullanımı zorunluluğu azalarak ekonomileri rahatlamaktadır.
+Biyomotorin kullanımı ile yeni istihdam olanakları yaratılmakta ve ülke ekonomisine küçümsenmeyecek katkılar gerçekleşmektedir.
+Biyomotorinin Çevresel Etkileri Yönüyle Değerlendirilmesi.
+Biyomotorin, Amerikan Çevre Koruma Ajansı (EPA) Temiz Hava Kanunu Bölüm 211 (b) programı çerçevesinde zararlı emisyonlar ve potansiyel sağlık etkileri açısından tam olarak değerlendirilen ve olumlu görüşlerin ortaya çıktığı tek alternatif enerji kaynağı olarak saptanmıştır. Biyomotorin için yapılmış değerlendirme sonuçlarını aşağıdaki gibi sıralayabiliriz:
+ØToplam kirli hava kütlesi oluşturma potansiyeli motorinden % 50 daha azdır.
+ØSO2 emisyonu ve bu emisyona bağlı olarak oluşan asit yağmuru gerçekleşmemektedir.
+ØCO egzoz emisyonu motorinine göre % 50 daha az oranda tespit edilmiştir.
+ØParçacık emisyonu solumanın insan sağlığı açısından zararı bilinmektedir. Biyomotorin, motorinine göre % 30 daha az oranda parçacık emisyonu ortaya çıkarmaktadır.
+ØAzot oksit emisyonu, motor tipine bağlı olarak artmakta veya azalmaktadır. Yapılan testlerde azot oksit emisyonunun % 13 oranında arttığı görülmüştür. Ancak, biyomotorinde kükürt olmamasından ötürü, motorin için kullanılamayan bazı egzoz emisyonu azaltma teknolojileri biyomotorine rahatlıkla uygulanmakta ve azot oksit emisyonlarının kontrol edilmesi mümkün olmaktadır.
+Biyomotorin, motorin kullanımından kaynaklanan ve insan sağlığını tehdit eden birçok çevresel faktörü ortadan kaldırmaktadır. Biyomotorin emisyonlarında, potansiyel kanser nedeni olan polisiklik aromatik hidrokarbon ve türevlerinden (PAH) kaynaklanan emisyonlarda % 80-90 oranlarda azalmalar belirlenmiştir. Bu azalma değeri dikkate alınması gereken bir orandır ve biyomotorinin çevre dostu özelliğini pekiştirmektedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haber</DOCTITLE>
+<TEXT>
+
+Haber, güncel ve ilginç bir olayın olduğunca nesnel ve gerçeğe uygun bir biçimde sunulmasıdır. Haber metninde her türlü taraflı değerlendirmelerden ve söz oyunlarından uzak durulur. Metin kısa, haber dili de yalındır. 
+Bu haber tekniği son derece katı kurallara tabidir. Haberi yazan kişinin, sahip olduğu yaratıcılık alanı sınırlıdır. ""Okurlarımız için yazıyoruz, hakkında yazı yazdıklarımız için değil"" görüşü hakimdir. Nitekim hatır için gazetecilik yapmak sakıncalıdır. Bir kısa ya da karmaşık haber metninde uyulması gereken kurallar şunlardır:
+Haber katıksız gerçekleri iletir. Olası olduğunca 5N 1K kuralına uymalıdır: "Kim? Ne, Ne zaman? Nerede? Nasıl? Neden? - "Nereden" sorusu kaynağa yönelik sorudur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Formaldehit</DOCTITLE>
+<TEXT>
+
+Kimyasal yapısı.
+Aldehitlerin en basit üyesidir. Diğer ismi Metanal'dir. Karbonil grubunun boş olan iki bağına birer hidrojen bağlanmasıyla oluşur.Zehirli bir kimyasaldır.
+Kaynama noktası -15 °C ve erime noktası -21 °C’dir. Formaldehit, genellikle % 37’lik sulu çözeltisi şeklinde taşınır veya depo edilir. Bu çözeltiye formalin denir. Formalinden, düşük basınç altında su buharlaşıp, ayrıldığı zaman, paraformaldehit meydana gelir. Bu bir polimer olup, formülü HO (CH2O)xH olan beyaz katı bir maddedir (x yaklaşık 30’dur). Bu polimer ısıtıldığı zaman, gaz formaldehide dönüşür. Bundan dolayı, gaz formaldehit elde etmek için, uygun bir kaynaktır. Saf formaldehitten, polimer ürünler elde edilebildiği gibi, fenol ve kazein ile de sentetik reçine ve plastikler imal edilmektedir.
+Elde edilişi.
+Ticari olarak, metanol buharının hava oksijeni ile oksitlenmesinden veya tabii gazların uygun oksidasyonu ile elde edilir. Kullanılışı: Formaldehit polimerleştirilirse, polioksimetilen adında katı, beyaz, suda çözünmeyen bir ürün elde edilir. Formaldehit, proteinler ile suda çözünmeyen bileşikler meydana getirdiğinden, zehirlidir. Bu özelliği ve ucuz olması dolayısı ile dezenfektan (mikrop öldürücü) olarak kullanılır. Sudaki çözeltileri anatomik ve mikroskobik preparatları korumakta kullanılır. Formaldehidin amonyak ile reaksiyonundan urotropin adında bir böbrek ilacı elde edilir.
+Kullanım alanı.
+Formaldehit kimya endüstrisinde en yaygın olarak kullanılan ve üretilen maddelerden birisidir. Formik aldehit ve metil aldehit olarak ta bilinmektedir. Renksiz bir gazdır ve sıklıkla en fazla %40 lık olmak üzere sulu çözelti halinde kullanılır (formalin). Formalin çözelitlerinde bir miktar da metil alkol bulunmaktadır. Gerek gaz hali gerekse sıvı çözeltisi kendisine özgü, hoşa gitmeyen bir kokuya sahiptir. Oksitleyen maddelerle hızla tepkimeye girer, yüksek derişimlerinde yanıcı bir sıvıdır. Hidroklorik asitle bis (klorometil) eter buharı oluşturacak şekilde tepkimeye girer, oluşan bu madde ise kanser yapıcı bir maddedir. Tıbbi laboratuvarlarda koruyucu sıvı ve sterilize edici madde olarak kullanılmaktadır. Başlıca reçine imalatında ve kimyasal üretim ara maddesi olarak kullanılmaktadır. Üreformaldehit ve fenolformaldehit reçineler köpük yalıtımı malzemelerinin, yapımında, sunta ve kontraplak imalinde tekstil ürünlerinin işlenmesinde, ve ayrıca, formaldehit üre, fenol ve melamin reçinelerinin yapımında kullanılmaktadır.
+Doğal maddelerle üretilmeyen diş macunlarında ve günlük temizlik ürünlerinde kullanılmaktadır (formaldehitin bu ürünlerin yapımında kullanılması çok sakıncalıdır).
+Formaldehit zehirlenmesi.
+Formaldehit etkilenimi çoğu kez gaz halinde iken solunum yoluyla alınmasına bağlı olarak meydana gelir. Formaldehit soluyan kişilerde yorgunluk, uyuklama, baş ağrısı, baş dönmesi, deri döküntüleri gibi şikayetler görülüyor. Ancak sıvı formaldehit deri yoluyla da emilebilir. İşçiler, üretim sırasında, maddelerin işlenmesinde ve reçine imalatında etkilenebilir. Sağlık elemanları, eğitim görevlileri ve öğrenciler de formaldehit içerisinde saklanan ve hazırlanmasında formaldehit kullanılan materyallere bağlı olarak yüksek etkilenim riski altındadır. Tüketiciler inşaatta kullanılan bazı malzemelerden, kozmetiklerden, ev parkelerinden, ev mobilyalarından ve dokuma ürünlerinden yayılan formaldehitten etkilenebilirler. Ani formaldehit etkilenimi ölüme neden olabilir. Koku eşiği 1 ppm civarındadır. koku duyusu yorgunluğuna bağlı olarak formaldehit kokusunu algılama eşiği zamanla yükselebildiğinden kokunun uyarıcı bir faktör olarak kabul edilmesi çok zordur. Uzun süreli olarak düşük dozlarda formaldehite maruziyet solunum güçlüğü, ekzema ve allerjik reaksiyonlara yol açabilir. Formaldehit insanlarda kanser yapıcı maddeler arasında sayılmaktadır. burun ve akciğer kanseri ile bağlantılı, beyin kanseri ve lösemiyle de ilişkili olduğu düşünülmektedir. Havada 0,1 ppm bulunduğunda, gözlerin sulanmasına, öksürüğe, nefes darlığına, hırıltılı solunuma, deri döküntülerine, allerjik tepkilere, göz, burun ve boğazda yanmaya neden olur. Etkilenime bağlı olarak kusma ve ishale de yol açar. Duyarlığa yol açması nedeniyle daha sonraki etkilenimler aynı derişimde daha şiddetli reaksiyolara yol açabilir. 2 ppm konsantrasyonda gözlerde tahriş yapar, 20 ppm de tek bir etkilenimle bile korneada kalıcı matlaşmaya neden olur. 25 ppm üzerindeki etkilenimler öldürücü akciğer ödemi dahil çok şiddetli tepkilere yol açar.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekşilik böceği</DOCTITLE>
+<TEXT>
+
+Ekşilik böceği ("Carpophilus"), kın kanatlılar (Coleoptera) takımının Nitidulidae familyasından böcek cinsidir.
+Zararı.
+Ekşilik böcekleri, yaş ve kuru meyvelerde bahçe ve depo döneminde zarar yapar. Yaş meyvelerde açtıkları yaralara mantar sporları bulaştırarak ekşime, akma ve bozulmaya neden olurlar. Ayrıca aflatoksine neden olan "Aspergillus flavus" mantarının da taşıyıcısıdırlar. Zararı, incir, kayısı, erik, üzüm, elma, armut, şeftali, Trabzon hurması, portakal, limon, nar, ayva vb. meyvelerin yaş ve kuru dönemlerinde, hububat ve mamullerinde, ceviz, fındık, yer fıstığı, kakao vb. gıda maddelerinde olmaktadır.
+Türkiye'deki durumu.
+Türkiye'de 4 türü bulunur: "C. hemipterus, C. mutilatus., C. bipustulatus" ve "C. obsoletus". Ekşilik böceklerinin erginleri oval, 3-3.5 mm boyunda vücudun genel rengi "C. obsoletus" 'ta siyah, diğerlerinde ("C. hemipterus, C. mutilatus., C. bipustulatus") kahverenklidir.
+Türkiye'de depolanmamış kuru meyveler açısından sadece "Carpophilus hemipterus" türü önem taşımaktadır. Erginler 3-3.5 mm boyundadir. Elitralar (kın kanatlar) üzerinde sarımsı gri renkli bantlar ve noktalar bulunur. Elitralar abdomeni tam olarak örtmüş.Yumurta dar uzun şekilli ve saydam beyaz renklidir. Larva silindirik şekilli, 6–7 mm boydadır. Baş ve son vücut segmenti esmer, diğer renkler beyaz renktedir. Pupa 3–4 mm boyda, parlak beyaz renklidir. Erginler iyi uçarlar ve bu özellikleri ile depolardan bahçelere uçarak olgun meyvelere yumurtalarını bırakırlar. Larva meyve içinde beslenerek gelişir. Uygun koşullarda gelişme süresi 4-5 haftadır. Ergin dişinin 1000 kadar yumurta bırakabildiği tespit edilmiştir. Kışlama dönemi doğada (nemli ortamlarda meyve ve sebze artıkları, yaprak altları, odun kırıntıları arasında veya altında ergin halde) ve depoda meyve içinde ergin veya pupa halde geçer. Mart sonu nisan başında kışlaklardan çıkarak birçok ürünle beslenirler. Ağustos ortasına doğru olgunlaşmakta olan incir meyvelerinin içine yumurta bırakırlar. Larvalar meyveler içinde beslenerek 4-5 haftada gelişirler. Yılda 5-6 döl verir.
+Mücadele yöntemleri.
+İncir bahçeleri taban suyunun yüksek olduğu arazilerde kurulmamalıdır.
+Hasattan hemen sonra yere dökülmüş incirler, budamadan sonra da budama artıkları bahçe içinde bırakılmamalıdır.
+İlkbahar ve sonbahar sürümleri ihmal edilmemelidir.
+İncir bahçeleri içinde veya arasında diğer meyve ağaçları (zeytin hariç) dikilmemeli, varsa yere dökülmüş çürük meyveler toplanıp imha edilmelidir.
+Sezon sonunda depolarda gerekli temizlik işlemleri yapılmalıdır.
+Bu zararlının mücadelesinde cezbedici yem tuzakları etkili olmaktadır. Cezbedici yem tuzakları incir bahçelerinde zararlıları çok miktarda tuzaklayarak popülasyonu önemli ölçüde düşürmektedirler. Bu tuzaklar bir ana gövde, bu gövdenin alt bölümünde bir dayanak (yemin konulduğu bölüm), üst kısımda bir fitil içeren böcek toplama bölümü ve ortasında elek teli bulunan bir kapaktan ibarettir. Cezbedici yem olarak ½ litre su, 1 gr kuru maya ve 220 gr (12 adet) kuru bütün incir kullanılır. Tuzak kabının en altına dayanak yerleştirilir. Dayanağın her bölümüne 3 adet incir konur daha sonra su ve maya eklenir. Bunun üzerine önce elek teli sonra böcek toplama bölümü oturtulur. Pamuk ya da fitile tavsiye edilen insektisit (DDVP etkili maddeli ilaç) emdirilerek kapak kapatılır. Tuzaklar bahçelere mart sonu nisan başında dekara bir adet olacak şekilde asılır. Her 15 günde bir yem yenilenir ve fitile tavsiye edilen insektisit (DDVP etkili maddeli ilaç) damlatılır. Tuzaklar incirlerin olgunlaşma başlangıcına kadar bahçelerde bırakılıp daha sonra toplanırlar. Çünkü olgunlaşma döneminde böcekler incir meyvelerini tercih etmektedir.
+Ekşilik böcekleri polifaj oldukları, çok döl verdikleri, incire olgunlaşma döneminde bulaştıkları ve bu dönemde uzun bir süreyi kapsadığı için, ilaçlı savaşımları zor ve sakıncalıdır. Ancak taze olarak tüketimin yapılmayacağı bahçelerde % 50 DDVP içeren preparatlardan biri ile 150 ml / 100 it su dozunda incirin olgunlaşmaya başladığı dönemden başlamak üzere 6 günde 1 kez olmak üzere 6-7 ilaçlama yapılabilir. Fakat bu ilaçlamalar da % 60 - 70 dolayında bir etki sağlamaktadır. Yine de kullanılacak ilaçlar ve dozları hakkında en yakın il veya ilçe müdürlüklerine başvurulmalıdır.
+Adlandırma.
+Yaş meyvelerde açtıkları yaralara mantar sporları bulaştırarak ekşime yaptıkları için Ekşilik böceği adı verilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İndometazin</DOCTITLE>
+<TEXT>
+
+İndometazin, indol türevi bir non steroidal antienflamatuar ilaç olan paraklorobenzoil-metoksi-metilindol-asetik asidin genellikle kullanılan adı.
+25 mg kapsül formu için
+Kullanım Şekli.
+Akut ve kronik romatoid artrit ve kronik romatoid artritin akut döneminde, osteoartrit ve ankiloze spondilitte başlangıç dozu günde 2-3 defa 1 kapsüldür. İlacın tesiri yetersiz görüldüğünde günlük doz her 7 günde bir kapsül arttırılarak, günde 8 kapsüle kadar çıkabilir. Akut gutta başlangıç dozu günde 3 defa 1-2 kapsüldür. Bu doz gereğinde arttırılarak günde 8 kapsüle kadar verilir. Tedaviye semptomlar kayboluncaya kadar devam edilmelidir.
+Endikasyonları.
+Romatoid artrit, osteoartrit, kalçada dejeneratif eklem hastalığı, ankilozan spondilit, kas iskelet sistemiyle ilgili hastalıklar (bursit, tendinit, sinovit, tenosinovit, omuz kapsüliti, burkulma ve incinmeler), akut gut artriti, bel ağrısı, ortopedik girişimlerin ardından ortaya çıkan enflamasyon, ağrı, çocukta kapanmamais PDA tedavisinde ve şişme hallerinde endikedir.
+Kontrendikasyonları.
+Asetilsalisilik asit veya diğer antienflamatuvar ilaçların, akut astım nöbetleri, ürtiker veya rinite neden olduğu hastalarda ve indometazine aşırı duyarlılığı olanlarda kontrendikedir.
+Uyarılar.
+Hastalar baş dönmesi olabileceği yönünde uyarılmalı ve bu durumda motorlu araç kullanmamaları ve dikkat gerektiren tehlikeli işlerden kaçınmaları bildirilmelidir. İndometazin epilepsili, parkinsonlu veya psikiyatrik bozukluğu olan hastalarda dikkatle uygulanmalıdır. İndometazin tedavisi sırasında özofagus, mide, duodenum, ince veya kalın barsak perforasyon ve kanamaları dahil olmak üzere tek veya çok sayıda ülserasyonlar bildirilmiştir. Nadiren intestinal ülserasyonlar stenoz ve obstrüksiyonla ilişkili olarak görülmüştür ve bazı olgularda fatal sonuçlanmıştır. Gastrointestinal etkiler, ilacın oral formlarının yemeklerden hemen sonra veya süt, antasitlerle beraber verilmesi halinde azalabilmektedir. Bazı hastalarda sıvı retansiyonu ve periferik ödem görülmüştür. Bu nedenle, kardiyak disfonksiyon, hipertansiyon veya sıvı retansiyonuna eğilim yapan diğer durumların görüldüğü hastalarda, indometazin dikkatle uygulanmalıdır. Enfeksiyonu olan hastalarda, enfeksiyon belirti ve semptomlarını örtebileceğinden indometazin dikkatle kullanılmalıdır. Korneada birikinti ve makulaya ait olanlar dahil olmak üzere retina bozukluklarına, uzun süreli indometazin kullanan hastalarda rastlanmıştır. Bu tür değişmelerin görülmesi halinde tedavinin kesilmesi önerilir. Uzun süreli tedavi uygulanan hastalara belli aralıklarla oftalmolojik inceleme yapılmalıdır. İndometazin trombosit agregasyonunu inhibe edebilir, ancak bu etki ilacın kesilmesinden sonra 24 saat içinde ortadan kalkar. Koagülasyon bozukluğu olan hastalarda indometazin dikkatle kullanılmalıdır. Uzun süreli indometazin kullanan hastalar arasında hematüri ve proteinüriyle seyreden akut interstisyel nefrit ve zaman nefrotik sendrom olguları bildirilmiştir. Renal kan akımında azalma olan hastalarda non-steroidal antienflamatuvar bir ilacın uygulanması renal dekompanzasyona yol açabilir. Renal rezervi azalmış bir hastada non-steroidal antienflamatuvar ilaçlar dikkatle kullanılmalı ve renal fonksiyon ölçümleri yapılmalıdır. Non-steroidal antienflamatuvar tedavinin kesilmesinin ardından hastanın genellikle tedavi öncesi duruma döndüğü görülmektedir. Renal forksiyonları normal olan hastalarda hiperkalemi gözlenebilir. İlacın kapsül formları böbrekler yoluyla itrah edildiğinden renal fonksiyonları bozulmuş hastalarda ilaç birikimini önlemek amacıyla daha düşük günlük dozlar uygulanmalıdır. İndometazin insan sütüne geçer. Gebelerde, emziren kadınlarda ve 14 yaşın altındaki çocuklarda kullanılması uygun değildir. Yaşlı hastalarda yan etki olasılığı artabileceğinden dikkatle uygulanmalıdır.
+Yan Etkileri.
+Baş ağrısı, baş dönmesi, sersemlik, depresyon, vertigo, anksiyete, nadiren senkop, koma, epilepsi, periferik nöropeti, kas güçsüzlüğü, psişik bozukluklar görülebilir. Bu etkiler genellikle geçici olup, sıklıkla tedavinin devamı sırasında veya dozajın azaltılmasıyla ortadan kalkmaktadır. Ancak, bazan ağır derecelerde görülmeleri halinde tedavinin kesilmesini gerektirebilir. En sık olarak görülen gastrointestinal reaksiyonlar bulantı, anoreksi, kusma, epigastrik rahatsızlık, karın ağrısı, konstipasyon ve diyaredir.Ortaya çıkması muhtemel diğer reaksiyonlar perforasyon ve kanama olguları dahil olmak üzere, özofagus, mide duodenum veya ince barsakta tek veya çok sayıda ülserasyonlar; bariz ülser formasyonu olmadan ortaya çıkan gastrointestinal kanama ve önceden ülseratif koliti olan hastalarda kullanılması halinde karın ağrısının artmasıdır. Nadiren stenoz ve obstrüksiyona yol açan intestinal ülserasyon kaydedilmiştir. Nadir olarak görülen reaksiyonlar arasında stomatit, gastrit, karında şişkinlik ve sigmoid kolondan kaynaklanan kanama (gizli veya bir divertikül veya karsinomdan gelen) sayılabilir. İndometazine bağlı veya bağlı olmayarak görülebilen diğer gastrointestinal etkiler, ülseratif kolit ve rejyonel ileit dahildir. İndometazin tedavisiyle ilgili olarak bildirilen hepatik reaksiyonlar sarılık ve hepatit olup fatal sonuçlanan bazı olgular kaydedilmiştir. Nadiren görülebilen kardiyovasküler-renal reaksiyonlar arasında ödem, kan basıncının yükselmesi, taşikardi, göğüs ağrısı, aritmi, çarpıntı, hipotansiyon, konjestif kalp yetmezliği, BUN yükselmesi ve hematüri sayılabilir. Nadiren kaşıntı, ürtiker, eritema nodosum, deri döküntüleri, eksfoliyatif dermatit, Stevens-Johnson sendromu, eritema multiforme, toksik epidermal nekroliz, saç dökülmesi, akut solunum yetmezliği, şok benzeri bir durumda seyreden hızlı kan basıncı düşmesi, akut anafilaksi, anjiyonörotik ödem, ani dispne, astım ve pulmoner ödem gibi hipersensitivite reaksiyonları görülebilir. Lökopeni, peteşi veya ekimoz, purpura, aplastik ve hemotolojik anemi, trombositopeni, dissemine ve intravasküler koagülasyon gibi hematolojik reaksiyonlara rastlanmıştır. Nadir olarak agranülositoz ve kemik iliği depresyonu bildirilmiştir, ancak bu olgularla indometazin uygulaması arasında kesin bir ilişki bulunduğu saptanmamıştır. Bazı hastalarda bariz veya gizli gastrointestinal kanamaya sekonder olan anemi kaydedilmiştir. Bu nedenle tedavi sırasında uygun kan incelemelerinin yapılması önerilir. Görme bulanıklığı, diplopi, orbital ve periorbital ağrı nadir olarak görülebilir. Uzun süreli indometazin tedavisi gören romatoid artritli bazı hastalarda korneada birikinti ve makula dahil olmak üzere retina bozuklukları kaydedilmiştir. Gözle ilgili benzer değişmelere, indometazin kullanmayan romatoid artritli bazı hastalarda da rastlanmıştır. Kulak çınlaması, duyma bozuklukları ve nadiren sağırlık olguları bildirilmiştir. Nadiren proteinüri, nefratik sendrom, interstisyel nefrit ve renal yetmezlik bildirilmiştir. İndometazin tedavisiyle ilgili olarak bildirilen diğer çeşitli istenmeyen reaksiyonlar arasında vajinal kanama, hiperglisemi ve glikozüri, hiperkalemi, yüz kızarması ve terleme, epistaksis, ülseratif stomatit, büyüme ve hassasiyet veya jinekomasti dahil olmak üzere göğüslerle ilgili değişmeler bulunmaktadır.
+İlaç Etkileşimleri.
+Asetilsalisilik asit ve diğer salisilatlarla birlikte kullanılması gastrointestinal yan etki insidansını anlamlı derecede artırır. Diflunisal ile birlikte kullanılması sonucu fatal gastrointestinal kanamalar bildirilmiştir. İndometazinin antikoagülanlar tarafından oluşturulan hipoprotrombinemiye etkisi yoktur, ancak birlikte kullanım sırasında protrombin zamanı izlenmelidir. Probenesid plazma indometazin düzeylerinde yükselmeye neden olduğundan birlikte kullanımında indometazin dozu azaltılmalıdır. Metotreksatın tubuler sekresyonunu azaltarak toksik etki göstermesine neden olabilir. İndometazin, lityum kullanan hastalarda plazma lityum düzeylerini yükselttiğinden birlikte kullanımında serum lityum konsantrasyonlarının ölçümleri sıklaştırılmalıdır. Potasyum tutucu tiazid grubu diüretiklerin natriüretik ve antihipertansif etkilerini azaltabilir. İndometazin, furosemid uygulaması, tuz ve volüm azalmasıyla uyarılan Plazma Renin Aktivitesinde (PRA) azalmaya ve hatta bazal PRA'da düşmeye neden olabilir. Triamteren ile birlikte kullanıldığında reversibl akut renal yetmezlik tablosu görüldüğünden birlikte kullanımları sakıncalıdır. Beta-adrenerjik reseptör blokerlerinin antihipertansif etkilerini azaltır.
+
+</TEXT>
+</DOC>
+

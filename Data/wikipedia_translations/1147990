@@ -1,0 +1,44 @@
+Okumura modeli
+Kentsel alanlar için Okumura modeli Tokyo, Japonya kentinde toplanan veriler kullanılarak inşa edilmiş bir radyo yayılım modelidir. Model birçok kentsel yapılar değil, birçok boylu engelleme yapıları ile şehirlerde kullanmak için idealdir. Model Hata Modeli için bir üs olarak görev yaptı.
+Okumura modeli üç modları içine inşa edilmiştir. kentsel banliyö ve açık alanlar için olanlar. Kentsel alanlarda modeli ilk inşa ve diğerleri için üs olarak kullanılmıştır.
+Kapsama.
+Frekans = 150-1920 MHz
+Mobil istasyon anten yüksekliği: 1 m ile 10 m
+Baz istasyonu anten yüksekliği: 30 m ve 1000 m arasında
+Bağlantı mesafesi: 1 km ve 100 km arasında
+Matematiksel bir formülasyon.
+Okumura modeli resmen olarak ifade edilir:
+FORMULA_1
+burada,
+L medyan yol kaybını =. Birim: Desibel (dB)
+LFSL boş alan kaybı =. Birim: desibel (dB)
+AMU Medyan zayıflama =. Birim: desibel (dB)
+HMG = Mobil istasyon anten yüksekliği kazanç faktörü.
+HBG = Baz istasyonu anten yüksekliği kazanç faktörü.
+Kcorrection = Düzeltme faktörü kazancı (örneğin çevre, su yüzeyleri, izole engel vb türü gibi)
+Unutulmaması gereken nokta.
+Okumura modeli kentsel alanlarda sinyal tahmini için en yaygın kullanılan modellerden biridir. (Genellikle 3000 MHz'e kadar çıkılarak olsa da) ve 1-100 km mesafeler bu model yelpazesi 150-1920 MHz frekanslar için geçerlidir. Bu 30-1000 m arasında değişen baz istasyonu anten yükseklikleri için kullanılabilir.
+Okumura 200 m baz istasyonu etkili anten yüksekliği () ve 3 mobil anten yüksekliği (HRE) ile bir yarı-yumuşak arazi üzerinde bir kentsel alanda, boş alan (Amu) medyan zayıflama göreceli veren eğriler bir dizi geliştirdi m. Bu eğriler, baz ve mobil, hem de dikey bir her-yönlü antenler ile kapsamlı ölçümlerinden geliştirilmiştir, ve aralık 100-1920 MHz frekans fonksiyonu olarak ve aralık 1- baz istasyondan mesafesinin bir fonksiyonu olarak çizilir 100 km. Yolunu belirlemek için
+Okumura modelini kullanarak kaybı, ilgi çekici arasında serbest alan yol kaybı, ilk tespit edilir, ve daha sonra Amu (f, d); (eğrileri okunan gibi) düzeltme faktörleri ile birlikte buna ilave edilir değer türü için hesap Arazinin. Model olarak ifade edilebilir
+L50 50. yüzdelik olduğu (yani, medyan) yayılım yol kaybının değeri, LF boşlukta yayılım kaybı, Amu boş alana medyan zayıflama göreceli olduğunu, G () baz istasyonu anten yüksekliği kazanç faktörü, G (HRE olduğunu ) mobil anten yüksekliği kazanç faktörü ve Garea çevre tipine bağlı kazançtır.
+Anten yüksekliği kazançları kesinlikle yükseklikte bir fonksiyonudur ve anten desenleri ile ilgisi var olduğunu unutmayın.
+Geniş bir frekans aralığı için Amu (f, d) ve Garea çizimleri, Şekil 3,23 ve Şekil 3.24 gösterilmiştir. Ayrıca, Okumura G () 20 dB / Dek ile ve bir oranda değişir bulunan G (HRE) 3 m 'den daha az yükseklikleri 10 dB / Dek ile bir oranda değişir.
+G () 20 log (/ 200) 1000 m>> 30 m =
+G (HRE) 10 log (HRE / 3) Hre <= 3 m =
+G (HRE) 20 günlük = (HRE / 3) 10 m> Hre> 3 m
+Diğer düzeltmeler de Okumura modeli tatbik edilebilir. Önemli arazi ile ilgili bazı parametrelerin arazi dalgalanma yüksekliği (A / i), izole sırt yüksekliği, arazi ve karma kara-deniz parametresinin ortalama eğim vardır. Arazi ile ilgili parametreler hesaplanır sonra, gerekli düzeltme
+faktörleri eklenebilir veya gerektiği gibi çıkartılabilir. Tüm bu düzeltme faktörleri
+Ayrıca Okumura eğrileri olarak kullanılabilir.
+Okumura modeli tamamen ölçülen verilere dayanmaktadır ve sağlamaz
+herhangi bir analitik bir açıklama. Birçok durumlar için, bir ekstrapolasyonlar türetilen
+eğriler, ancak, ölçüm aralığının dışında değerleri elde etmek için yapılabilir
+Bu tür değerlendirmelere geçerliliği koşullara ve bağlıdır
+söz konusu eğrinin düzgünlüğü.
+Okumura modeli açısından en basit ve en iyileri arasında kabul edilir
+olgun hücresel ve kara mobil telsiz sistemleri için yol kaybı tahmininde doğruluk
+karmaşık ortamlarda. Çok pratik ve bir standart haline gelmiştir
+Japonya'da modern kara mobil telsiz sistemlerinde sistem planlaması için. büyük
+modeli ile dezavantaj, arazide hızlı değişimlere yavaş tepki
+Bu nedenle model, kentsel ve banliyö alanlarında oldukça iyi, ama iyi değil
+kırsal kesimde. Arasında ortak standart sapma tahmin ve ölçülen
+yol kaybı değerleri yaklaşık 14 dB 10 dB bulunmaktadır.

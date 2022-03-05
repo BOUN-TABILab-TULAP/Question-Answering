@@ -1,0 +1,38 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Alglerin	algler	+Noun+A3sg+Pnon+Gen
+Alglerin	algler	+Noun+A3sg+P2sg+Nom
+
+büyük	büyük+Adj
+
+çoğunluğu	çoğunluk+Noun+A3sg+P3sg+Nom
+çoğunluğu	çoğunluk+Noun+A3sg+Pnon+Acc
+
+nerede	nere	+Pron+Ques+A3sg+Pnon+Loc
+
+yaşar	yaşa+Verb+Pos+Aor+A3sg
+yaşar	yaşa+Verb+Pos^DB+Adj+AorPart
+yaşar	yaşar+Verb+Pos+Imp+A2sg
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

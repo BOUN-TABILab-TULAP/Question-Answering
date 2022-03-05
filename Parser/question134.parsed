@@ -1,0 +1,14 @@
+1	Kış	kış	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	sporları	spor	Noun	Noun	A3pl|P3sg|Nom	12	SUBJECT	_	_
+3	_	amaç	Noun	Noun	A3sg|Pnon|Nom	4	DERIV	_	_
+4	amaçlı	_	Adj	Adj	With	7	MODIFIER	_	_
+5	_	kullan	Verb	Verb	_	6	DERIV	_	_
+6	_	_	Verb	Verb	Pass|Pos	7	DERIV	_	_
+7	kullanılan	_	Adj	APresPart	_	8	MODIFIER	_	_
+8	arazilerin	arazi	Noun	Noun	A3pl|Pnon|Gen	10	POSSESSOR	_	_
+9	ortak	ortak	Noun	Noun	A3sg|Pnon|Nom	10	CLASSIFIER	_	_
+10	özellikleri	özellik	Noun	Noun	A3pl|P3sg|Nom	12	SUBJECT	_	_
+11	_	ne	Pron	QuesP	A3pl|Pnon|Nom	12	DERIV	_	_
+12	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

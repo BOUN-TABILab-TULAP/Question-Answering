@@ -1,0 +1,35 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bitkilerde	bitki	+Noun+A3pl+Pnon+Loc
+
+aktif	aktif	+Adj
+
+taşıma	taş+Noun+A3sg+P1sg+Dat
+taşıma	taşı+Verb+Neg+Imp+A2sg
+taşıma	taşı+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+taşıma	taşım+Noun+A3sg+Pnon+Dat
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

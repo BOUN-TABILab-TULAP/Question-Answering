@@ -1,0 +1,11 @@
+1	Termik	termik	Adj	Adj	_	_	_	_	_
+2	ve	ve	Conj	Conj	_	_	_	_	_
+3	dinamik	dinamik	Adj	Adj	_	_	_	_	_
+4	basınç	basınç	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	merkezleri	merkez	Noun	Noun	A3pl|P3sg|Nom	_	_	_	_
+6	_	ara	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+7	arasındaki	_	Adj	Adj	Rel	_	_	_	_
+8	farklar	fark	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+9	_	ne	Pron	QuesP	A3pl|Pnon|Nom	_	_	_	_
+10	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

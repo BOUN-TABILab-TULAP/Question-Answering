@@ -1,0 +1,284 @@
+Question: aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır  
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Daniel Jones</DOCTITLE>
+<TEXT>
+
+Daniel Jones (d. 22 Temmuz 1973) ünlü bir İngiltere doğumlu, Avustralya yapımcı ve müzisyendir. Sanatçı Savage Garden grubunun da kurucusudur.
+Sanatçı Hakkında.
+1973 Essex doğumlu Jones, daha henüz 1 yaşına basmadan, ailesiyle beraber Brisbane'a taşınmıştır. 3 kardeş arasında en küçük olan Jones, annesi tarafından, okul futbol müsabakalarındaki yazım yanlışı nedeniyle, Caniel olarak çağrılmıştır. 10 yaşında müzik için okulu terk eden Jones, reflü hastası olmasıyla da bilinmektedir.
+Müzik ile geçen çocukluğu ve gençliğinin ardından, 1993'te gazetelere müzik grubu ilanı vermiş ve Darren Hayes ile beraber "Savage Garden" projesine başlamıştır. Sanatçı, grubun müziklerini üstlenmiştir. 2000 yılına kadar kariyerinin zirvesinde kalan Jones, bu tarihlerde grubu dağıtmıştır. Grubun dağılmasından sonra, "Kathleen de Leon" ile evlenen Jones, günümüzde ise "Aneiki" adlı grubu için ve Avustralya'daki sanatçılar için prodüktörlük yapmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Otostopçunun Avrupa Rehberi</DOCTITLE>
+<TEXT>
+
+Otostopçu'nun Avrupa Rehberi (The Hitch-hiker's Guide to Europe)(ISBN 0-8128-1446-0) rehber kitap, 1971 yılında Ken Welsh tarafından İngiltere'de Pan Books şirketince bastırılmıştır. İlk Amerikan versiyonu da 1972 yılında Stein ve Day tarafından New York şehrinde bastırılmıştır.
+Amerikan versiyonunda günde 25 dolarla Avrupa gezisinde nasıl hayatta kalınacağı anlatılmaktadır. Ayrıca 1972 yılına ait ABD doları - Avrupa para birimleri (Frank, Mark, Liret vs) kurları, ölçü birimleri dönüştürme tabloları ve Almanca, İtalyanca, Fransızca ve İspanyolca sayı ve çeşitli cümlelerin kısa bir listesi vardır.
+Daha ayrıntılı bilgiler aşağıdaki şekilde konu başlıklarına ayrılmıştır.
+Ülkelerle ilgili gerçek ayrıntılı bilgiler ise aşağıdaki şekilde başlıklara ayrılmıştır.
+Kitap Türkçe'ye çevrilmemiş olup ikinci el kitapçılarda rastlanabilir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İsim cümlesi</DOCTITLE>
+<TEXT>
+
+İsim cümlesi veya ad cümlesi; yüklemi bir fiil olmayan cümle. İsim cümlelerinde fiil soylu sözcükler bulunabilir ancak yüklem isim görevinde olmak zorundadır. İsim cümlelerinde isim soylu sözcükler, ek-fiiller kullanılarak yükleme dönüştürülürler. Aşağıdaki cümlelerin hepsi isim cümlelerine örnektir:
+Fiilimsiler de adlaştıklarında isim cümlelerinde yüklem olarak kullanılabilirler:
+Olumsuz hâli.
+İsim cümleleri "değil" koşacı kullanılarak olumsuz hale getirilir. Bu özellik bir cümlenin isim cümlesi olup olmadığının tespitinde kullanılabilir zira fiil cümlelerinin olumsuz hâli yükleme -me olumsuzluk ekinin getirilmesi ile oluşturulur:
+Bu durumun tek istisnası adlaşmış durumdaki "var" ve "yok" sıfatları ile oluşturulan cümlelerdir:
+İsim cümlelerindeki ek-fiiller bazen gizli haldedirler:
+İsim cümlelerinde -fiil cümlelerinde de olduğu gibi- yüklem cümle sonunda olmayabilir:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkili arama algoritması</DOCTITLE>
+<TEXT>
+
+Tanım.
+İkili Arama, sıralı bir dizide, belirli değerin bulunmasına yönelik bir algoritmadır. Bu teknikteki her bir adımda, aranan değerin, dizinin orta değerine eşit olup olmadığı kontrol edilir. Eşit olmaması durumunda aranan değerin orta değer tarafından ikiye ayrılan kısımlardan hangisinde olduğu kontrol edilir, aranan değeri içeren kısım bir sonraki adımda arama yapılacak dizi olur ve bu sayede arama yapılan listedeki eleman sayısı her adımda yarıya indirilmiş olur. 
+Bu algoritma ile N elemanlı bir dizide en fazla formula_1 karşılaştırma yaparak aranan değerin yerini bulmak mümkündür.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akıcılık</DOCTITLE>
+<TEXT>
+
+Sözcük ve cümlelerin dile takılmadan kolayca okunabilmesi için, anlatılmak istenen düşüncenin rahatlıkla anlaşılır şekilde anlatılması. Akıcılık, içerikten çok bir üslûp özelliğidir. Âheng-i selâset. 
+Düzyazıda akıcılığın şartları vardır: Bir sansür veya düşünce özgürlüğünü kısıtlayıcı bir yasaya müstenit olarak düşünceler açıkça yazılamazsa, bu, yazıdaki kapalılıktan anlaşılır. Yazıdaki tutuk ifadeler, zor okunurluk, anlamların belirsizliği akıcılığa aykırıdır. Kelimelerin yerli yerine oturması, cümlelerin birbiri ardına gelişindeki nizamın aksamadan sürmesi gerekir. Uzun cümlelerin başı ile sonu arasında uyumsuzluk olmamalıdır. Akıcı üslup kolaycı ve basit anlamına gelmez. Türk yazarları içinde en akıcı üsluba sahip olanlar Falih Rıfkı Atay, Nurullah Ataç, Kemal Tahir, Sait Faik, Orhan Kemal, Necati Cumalı, Ahmet Hamdi Tanpınar
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Uluslararası telif hakları hukuku</DOCTITLE>
+<TEXT>
+
+Uluslararası telif hakları hukuku (İngilizce: "International copyright law)") uluslararası antlaşmalar aracı ile yaratıcı çalışmanın korunmasını bir ortam üzerinde sabitlenmiş olması koşulu ile otomatik olarak sağlar. Buenos Aires ve Bern Konvansiyonları temel iki uluslararası telif hakkı antlaşmasıdır.
+Bern Konvansiyonu.
+Edebi ve sanatsal eserlerin korunmasına dair Bern Konvansiyonu (kısaca Bern Konvansiyonu olarak anılmaktadır) tüm yaratıcı çalışmaların otomatik olarak sabit bir süre korunmasını zorunlu kılar. Bu süre fotoğraf ve sinema eserleri hariç sanatçının ölümünden sonra 50 yıldır. Fotoğraf eserleri için bu süre en az 25 yıldır. Sinema eserleri için ilk gösteriminden sonra 50 yıl, veya yaratılışından sonraki 50 yıl içinde gösterilmemiş ise yaratılışından sonra 50 yıldır. Bern Konvansiyonu 7.8 "ülkenin yasaları farklı bir uygulama sağlamıyorsa, koruma süresi eserin kaynaklandığı ülkede belirlenmiş süreden daha fazla olamaz." maddesi sonucu daha kısalı süreli bir korumaya da izin vermektedir. Ancak bütün ülkeler bu kuralı uygulamamaktadır.
+Buenos Aires Konvansiyonu.
+Buenos Aires Konvansiyonu Kuzey ve Güney Amerika ülkelerinin çoğu tarafından imzalanmış bir antlaşmadır. Tüm yaratıcı çalışmaların, sanatçının esere telif hakkı ile ilgili bir uyarı koyması koşulu ile korunmasına izin vermektedir. Buenos Aires Konvansiyonu ile eserin kaynak ülkesi veya koruyan ülkeden hangisinde daha kısa süreli koruma varsa bu kısa sürenin geçerli koruma süresi olması anlamına gelen kısa dönem kuralı geçerli hale gelmiştir.
+Tüm Buenos Aires ülkeleri şu anda Berne Konvansiyonuna taraftır. Ancak kısa dönem kuralı gibi bazı Buenos Aires kuralları hala kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ahırlı, Kavak</DOCTITLE>
+<TEXT>
+
+Ahırlı, Samsun ilinin Kavak ilçesine bağlı bir köydür.
+Tarihçe.
+Oğuz /Türkmen Oymaklarının Listeleri:
+Bu listelerdeki isimler Türkmen oymaklarının serüvenini daha iyi anlamak için gereklidir. Kayseri bölgesindeki Türkmen oymaklarını anlayabilmek için başta Maraş, Sivas, Yozgat ve Adana olmak üzere civar illerin kayıtlarına bakmak, hatta Doğu Anadolu, İran ve Azerbaycan Türkmenleri ile Hazar ötesi Türkmenleri hakkında da bilgi sahibi olmak şarttır. Türkmen oymaklarının isimlerinin insanı şaşırtan bir şekilde birçok yerleşim yerinde karşımıza defalarca çıkmaktadır. Bu da göstermedir ki, yurdumuzun doğusundan batısına, kuzeyinden güneyine uzanan her bölgede Türkmen oymaklarından parçalar yerleşik hayata geçmekte ve hatta Irak, İran, Azerbaycan, Afganistan, Balkanlar ve Türkmenistan’a kadar büyük bir coğrafyada Türkmen topluluklarının birbirleriyle akraba olduğu gerçeği önümüze çıkmaktadır. Kayseri yöresi Yörük-Türkmenlerin listesinde bulduğunuz ve ilgilendiğiniz bir obayı bu listelerden takip ederek yurdumuzun nerelerine yerleştiğini ve hatta şu an Türkiye dışında olan ülkelerin hangisinde aynı obaların parçalarının bulunduğunu takip edebilirsiniz. 
+CANİK SANCAĞINDA TÜRKMENLER: Samsun vilayeti kavak ilçesi ve türkmen köyleri
+1-Karanto (Kavak)
+2.Ağcakilise (Kavak)
+3.Karacalu (Kavak)
+4.Başkent (Kavak) 204.Ahurlu (Kavak)
+5.Bayındır “
+6.Bey Timür (Kavak)
+7.Bektaşlu “
+8.Çayırlu “
+9.Hacılı “
+10.İdrislü “
+11.Karlu “
+12.Kayı “
+13.Muhsinlü “
+14.Murat Beylü “
+15.Zekeriyalı “
+16.Kara Yusuf (Kavak
+17.Büyük Çukur
+18.Küçük Çukur
+Kültür.
+iç anadolu kültürü
+Coğrafya.
+Samsun iline 57 km, Kavak ilçesine 7 km uzaklıktadır.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Altyapı bilgileri.
+Köyde ilköğretim okulu yoktur. Köyde, içme suyu şebekesi ve kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi de yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Saraycık, Vezirköprü</DOCTITLE>
+<TEXT>
+
+Saraycık, Samsun ilinin Vezirköprü ilçesine bağlı bir köydür.
+Tarihçe.
+CANİK SANCAĞINDA TÜRKMENLER: Samsun
+Oğuz /Türkmen Oymaklarının Listeleri:
+Bu listelerdeki isimler Türkmen oymaklarının serüvenini daha iyi anlamak için gereklidir. Kayseri bölgesindeki Türkmen oymaklarını anlayabilmek için başta Maraş, Sivas, Yozgat ve Adana olmak üzere civar illerin kayıtlarına bakmak, hatta Doğu Anadolu, İran ve Azerbaycan Türkmenleri ile Hazar ötesi Türkmenleri hakkında da bilgi sahibi olmak şarttır. Türkmen oymaklarının isimlerinin insanı şaşırtan bir şekilde birçok yerleşim yerinde karşımıza defalarca çıkmaktadır. Bu da göstermedir ki, yurdumuzun doğusundan batısına, kuzeyinden güneyine uzanan her bölgede Türkmen oymaklarından parçalar yerleşik hayata geçmekte ve hatta Irak, İran, Azerbaycan, Afganistan, Balkanlar ve Türkmenistan’a kadar büyük bir coğrafyada Türkmen topluluklarının birbirleriyle akraba olduğu gerçeği önümüze çıkmaktadır. Kayseri yöresi Yörük-Türkmenlerin listesinde bulduğunuz ve ilgilendiğiniz bir obayı bu listelerden takip ederek yurdumuzun nerelerine yerleştiğini ve hatta şu an Türkiye dışında olan ülkelerin hangisinde aynı obaların parçalarının bulunduğunu takip edebilirsiniz.
+TÜRKMEN KÖYLERİ
+1-Beşlü (Kocakayası ve Vezirköprü)
+2-Etrak-i Saraycık “ “
+3-Kılıç Veled-i Halil (Vezirköprü)
+4-Etrak-i Geçili (Kocakayası ve Vezirköprü)
+5-Dündar Evladı 
+6-Hızır Veled-i Behşayiş 
+7-Mehmed veled-i Pir Ahmet 
+8-Narlu veled-i Pir Ahmet 
+9-Şarkiyan “ “
+10-Türkmen 
+11-Yürük Çal
+12-Sarıalan (Türkmenderesi)—Irak Türkmenleri
+13-Gölköy (Türkmen Mahallesi)-Azerbaycan Türkmenleri
+Kültür.
+Köyün gelenek, görenek ve yemekleri hakkında bilgi yoktur.
+Coğrafya.
+Samsun iline 144 km, Vezirköprü ilçesine 29 km uzaklıktadır.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. Köyde, içme suyu şebekesi ve kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi de vardır.Köye ulaşımı sağlayan yol toprak olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hacılı, Kavak</DOCTITLE>
+<TEXT>
+
+Hacılı, Samsun ilinin Kavak ilçesine bağlı bir köydür.
+Tarihçe.
+Oğuz /Türkmen Oymaklarının Listeleri: Bu listelerdeki isimler Türkmen oymaklarının serüvenini daha iyi anlamak için gereklidir. Kayseri bölgesindeki Türkmen oymaklarını anlayabilmek için başta Maraş, Sivas, Yozgat ve Adana olmak üzere civar illerin kayıtlarına bakmak, hatta Doğu Anadolu, İran ve Azerbaycan Türkmenleri ile Hazar ötesi Türkmenleri hakkında da bilgi sahibi olmak şarttır. Türkmen oymaklarının isimlerinin insanı şaşırtan bir şekilde birçok yerleşim yerinde karşımıza defalarca çıkmaktadır. Bu da göstermedir ki, yurdumuzun doğusundan batısına, kuzeyinden güneyine uzanan her bölgede Türkmen oymaklarından parçalar yerleşik hayata geçmekte ve hatta Irak, İran, Azerbaycan, Afganistan, Balkanlar ve Türkmenistan’a kadar büyük bir coğrafyada Türkmen topluluklarının birbirleriyle akraba olduğu gerçeği önümüze çıkmaktadır. Kayseri yöresi Yörük-Türkmenlerin listesinde bulduğunuz ve ilgilendiğiniz bir obayı bu listelerden takip ederek yurdumuzun nerelerine yerleştiğini ve hatta şu an Türkiye dışında olan ülkelerin hangisinde aynı obaların parçalarının bulunduğunu takip edebilirsiniz.
+CANİK SANCAĞINDA TÜRKMENLER:
+Samsun vilayeti kavak ilçesi ve türkmen köyleri
+1-Karanto (Kavak) 2.Ağcakilise (Kavak) 3. ( Karacalu karacalar )(Kavak) 4.Başkent (Kavak) 204.Ahurlu (Kavak) 5.Bayındır “ 6.Bey Timür (Kavak) 7.Bektaşlu “ 8.Çayırlu “ 9.Hacılı “ 10.İdrislü “ 11.Karlu “ 12.Kayı “ 13.Muhsinlü “ 14.Murat Beylü “ 15.Zekeriyalı “ 16.Kara Yusuf (Kavak 17.Büyük Çukur 18.Küçük Çukur
+Coğrafya.
+Samsun iline 50 km, Kavak ilçesine 3 km uzaklıktadır.
+İklim.
+Köyün iklimi, Karadeniz iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde ilköğretim okulu yoktur. Köyde, içme suyu şebekesi ve kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi de yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bayındır, Kavak</DOCTITLE>
+<TEXT>
+
+Bayındır, Samsun ilinin Kavak ilçesine bağlı bir köydür.
+Tarihçe.
+Köyümüzün adı köye gelen bir yabancı tarafından konulmuştur.Köyümüzün adını veren kişi camiye gelmiş namaz kılmaktadır köy sakinleri ise yabancının ayakkabılarını şaka maksatıyla saklamışlardır.Yabancı dışarı çıkınca ayakkabılarını bulamaz ve bir tekerleme söyler: "Bayındır!! bayındır! adamları hayındır vardır bunda bir iş elimden gelen budur" der ve köyümüzün adını koymuş Tarihçe
+Bayındır köyünün bulunduğu yörede milattan önce de insanlar yaşamış. Bunu kalıntılardan anlıyoruz. Köye en yakın kalıntı yeri bugün Keşüllük adıyla bildiğimiz Kaletepe Höyüğü’dür.
+Milattan sonraki bu yörenin sakinleri daha çok Rumlardır. Bayındır köyüne en yakın mesafede bulunan Rum köyleri -ki bunlar Saralan, Kozansıkı ve Uçuk mıntıkasındaki köylerdir- İstiklal Savaşı yıllarında dağılmışlardır.
+Kitaplar, Anadolu’ya yerleşen Oğuz Türklerinin 24 boyundan bahseder. Bu boy adları, il, ilçe ve köy adı olarak hâlâ yaşamaktadır. Aşağıdaki tablolarda da görüldüğü gibi Bayındır da bu boylardan biri ve bugün Anadolu’da bir ilçe ile yirmi altı köy adı olarak yaşamaktadır.Oğuz /Türkmen Oymaklarının Listeleri: Bu listelerdeki isimler Türkmen oymaklarının serüvenini daha iyi anlamak için gereklidir. Kayseri bölgesindeki Türkmen oymaklarını anlayabilmek için başta Maraş, Sivas, Yozgat ve Adana olmak üzere civar illerin kayıtlarına bakmak, hatta Doğu Anadolu, İran ve Azerbaycan Türkmenleri ile Hazar ötesi Türkmenleri hakkında da bilgi sahibi olmak şarttır. Türkmen oymaklarının isimlerinin insanı şaşırtan bir şekilde birçok yerleşim yerinde karşımıza defalarca çıkmaktadır. Bu da göstermedir ki, yurdumuzun doğusundan batısına, kuzeyinden güneyine uzanan her bölgede Türkmen oymaklarından parçalar yerleşik hayata geçmekte ve hatta Irak, İran, Azerbaycan, Afganistan, Balkanlar ve Türkmenistan’a kadar büyük bir coğrafyada Türkmen topluluklarının birbirleriyle akraba olduğu gerçeği önümüze çıkmaktadır. Kayseri yöresi Yörük-Türkmenlerin listesinde bulduğunuz ve ilgilendiğiniz bir obayı bu listelerden takip ederek yurdumuzun nerelerine yerleştiğini ve hatta şu an Türkiye dışında olan ülkelerin hangisinde aynı obaların parçalarının bulunduğunu takip edebilirsiniz.
+CANİK SANCAĞINDA TÜRKMENLER:
+Samsun vilayeti kavak ilçesi ve türkmen köyleri
+1-Karanto (Kavak) 2.Ağcakilise (Kavak) 3. ( Karacalu karacalar )(Kavak) 4.Başkent (Kavak) 204.Ahurlu (Kavak) 5.Bayındır “ 6.Bey Timür (Kavak) 7.Bektaşlu “ 8.Çayırlu “ 9.Hacılı “ 10.İdrislü “ 11.Karlu “ 12.Kayı “ 13.Muhsinlü “ 14.Murat Beylü “ 15.Zekeriyalı “ 16.Kara Yusuf (Kavak 17.Büyük Çukur 18.Küçük Çukur
+GÜNHAN AYHAN YILDIZHAN GÖKHAN DAĞHAN DENİZHAN 
+KAYI YAZIR AVŞAR BAYINDIR SALUR İĞDİR 
+BAYAT DÖĞER KIZIK PEÇENEK EYMÜR BÜĞDÜZ 
+ALKA-EVLİ DODURGA BEĞDİLİ ÇAVULDUR ALAYUNTLU YIVA 
+KARA-EVLİ YAPARLI KARĞIN ÇEPNİ YÜREĞİR KINI
+BAYINDIR SÖZÜNÜN AD OLDUĞU YERLEŞİM YERLERİ
+1 BAYINDIR MERKEZ TUTAK AĞRI 
+2 BAYINDIR PEÇENEK ÇAMLIDERE ANKARA 
+3 BAYINDIR MERKEZ ÇANKAYA ANKARA 
+4 BAYINDIR MERKEZ ELMALI ANTALYA 
+5 BAYINDIR MERKEZ KAŞ ANTALYA 
+6 BAYINDIR MERKEZ NAZİLLİ AYDIN 
+7 BAYINDIR MERKEZ GÖYNÜK BOLU 
+8 BAYINDIR MERKEZ MERKEZ BURDUR 
+9 BAYINDIR MERKEZ YEŞİLOVA BURDUR 
+10 BAYINDIR MERKEZ İZNİK BURSA 
+11 BAYINDIR BÜYÜKORHAN ORHANELİ BURSA 
+12 BAYINDIR MERKEZ MERKEZ ÇANKIRI 
+13 BAYINDIR MERKEZ ÇERKEŞ ÇANKIRI 
+14 BAYINDIR MERKEZ ESKİPAZAR ÇANKIRI 
+15 BAYINDIR MERKEZ MECİTÖZÜ ÇORUM 
+16 BAYINDIR TEPE BİSMİL DİYARBAKIR 
+17 BAYINDIR MERKEZ KEBAN ELAZIĞ 
+18 BAYINDIR PAZARYOLU İSPİR ERZURUM 
+19 BAYINDIR GÖKOĞLAN TEKMAN ERZURUM 
+20 BAYINDIR KOVANLIK BULANCAK GİRESUN 
+21 BAYINDIR MERKEZ SİLİFKE İÇEL 
+22 BAYINDIR KUZKAYA MERKEZ KASTAMONU 
+23 BAYINDIR MERKEZ KAMAN KIRŞEHİR 
+24 BAYINDIR MERKEZ BEYŞEHİR KONYA 
+25 BAYINDIR MERKEZ KAVAK SAMSUN 
+26 BAYINDIR KAVAK KANGAL SİVAS
+Bu boy adlarının değişik yerleşim merkezlerine ad olması bir rastlantı olmasa gerek. 1071′den sonra Anadolu’ya yerleşmeye başlayan Oğuzların, oluşturdukları köy ve kasabalara, bağlı oldukları boyların adlarını vermiş olabileceklerini, ilgili kaynaklardan hareketle söyleyebiliriz.
+Köyümüzün adı da, yüksek bir olasılıkla, böyle bir anlayışla konmuştur.
+Bu olasılığı doğru kabul ettiğimizde köye ilk yerleşenler (yani köyün kurucuları) Bayındır boyundandır. Bunlar, köyün merkezine yerleşmiş olan (eski isimleriyle) şu ailelerden oluşuyor:
+BUDANOĞLU AİLESİ
+Hatipgil
+Marovgil
+Kel Azizgil (Aziz Bayar’ın oğulları Ankara’ya taşınmıştır.)
+ÖMEROĞLU AİLESİ
+Kâmilegil
+ÇEKİÇOĞLU AİLESİ
+Gövgözgil
+NİZAMOĞLU AİLESİ
+Akerler
+BAKLACIOĞLU AİLESİ
+Baklacılar
+SEBATİOĞLU AİLESİ
+Genç ailesi (Kel Murat)
+Şahin aileleri
+Kara Şaban ailesi
+TOPAÇOĞLU AİLESİ
+Taş ailesi (Hasbi oğlu Hasan Taş Havza’ya taşınmıştır.)
+TATAROĞLU AİLESİ
+Kaya İlhan ailesi
+YAŞAROĞLU AİLESİ
+Şeker Ahmet ailesi (Şeker Ahmet oğlu Adıgüzel (Seyidahmet) Suluovaya taşınmıştır.)
+Yukarıda saydıklarımın dışındakiler Bayındır’a sonradan yerleşmişlerdir. Bunlar da köye yerleşme sırasına göre aşağıya çıkarılmıştır:
+KARANTUAĞASIOĞLU SÜLALESİ: Hacı Hüseyin Ağa Bayındır’a dört oğluyla (Selim Ağa, Topal (Mehmet) Ağa, Ali Ağa, Ahmet Ağa) Kavak’ın Karantu köyünden gelmiştir. 1850′lerde Bayındır’a yerleştikleri sanılmaktadır. Köyün yukarı mahallesini oluşturmuş olan Karantuağasıoğlu sülalesi, bugün köy nüfusunun önemli bir bölümünü oluşturur.
+BAYINDIR AİLESİ: Soyadı kanunundan önce bu aile de Karantuağasıoğlu adını kullanıyormuş.
+KAVASİOĞLU (Yıldırım) AİLESİ: Karantuağasıoğlu sülalesinden sonra Bayındır’a gelip yerleşen aile KAVASİOĞLU ailesidir. Osmanlılarda Kavasioğlu unvanıyla anılan bu aileden imamlık yapan iki kardeş(İbrahim ve Ahmet) tahminen 1880′lerde Bayındır’a gelip yerleşmişlerdir.
+RAŞİT HOCA AİLESİ: 1890′larda Bayındır’a gelen Raşit Hoca, Selim Ağa’nın kızı Dudu Hanım’la evlenir. Salih Özkabadayı ve Abdullah Özkabadayı (İncu) aileleri de böylece oluşur.
+GENÇTEN AİLESİ: Bunlar çocuğu olmayan Sebatioğlu Kara Şaban’ın ocağına I.Dünya Savaşı yıllarında Emirli’den gelerek yerleşen Mevlüde Hanım ve iki oğlu (Ali ve Aziz)’dur.
+ATEŞ AİLESİ: Köyümüzdeki Ateş aileleri, Of kökenlidir ve Bayındır’a üç kardeş olarak gelmişlerdir: Abbas, Halit, Ayşe. Abbas, Şeker Ahmet’in kız kardeşi Fatma Hanım‘la; Halit de Gövgöz’ün Şerif’in kız kardeşi İkbal Hanım‘la evlenmiş. Kızkardeşleri Ayşe Hanım da Yaşar Çavuş’la evlenmiş.
+KAÇMAZ AİLESİ: Kaçmaz ailesinin büyüğü Mustafa Saralan’dan gelerek Bayındır’a yerleşmiştir.
+DEMİRAY AİLESİ: Demiray ailesinin büyüğü Şükrü de Belalan’dan gelerek Bayındır’a yerleşmiştir.
+Kültür.
+Köyün gelenekve görenek'leri hakkında bilgi yoktur. yemekleri hakkında bilgi(en özel yemeğimiz) TİRİTTİR ;KAZ VE YUFKA İLE YAPILAN MÜTHİŞ BİR YEMEKTİR...:D
+Coğrafya.
+Samsun iline 54 km, Kavak ilçesine 4 km uzaklıktadır.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır.ama kullanılmamaktadır Köyde, içme suyu şebekesi ve kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı vardır, sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,45 @@
+Seyrek matris
+Sayısal analizde, seyrek bir matris elemanlarının en sıfır olduğu bir matristir. Elementlerin çoğu sıfırdan farklı ise tersine, daha sonra matris yoğun olarak kabul edilir. bir matris içinde elemanları sıfır (sıfır olmayan elemanları) fraksiyonu sparsity (yoğunluk) olarak adlandırılır.
+Kavramsal olarak, sparsity gevşek olan sistemlere karşılık gelir. Birinden diğerine yaylar bağlı topları bir çizgi düşünün: Sadece komşu topları birleştiğinde bu seyrek bir sistemdir. Topları aynı hat diğer tüm topları her topu bağlayan yaylar olsaydı aksine, sistem yoğun bir matrise karşılık gelir. kıtlık kavramı önemli bir veri ya da bağlantıların düşük yoğunluğa sahip, ağ teori kombinatorik ve uygulama alanları, yararlıdır.
+Kısmi diferansiyel denklemler çözerken büyük seyrek matrisler genellikle bilimsel veya mühendislik uygulamalarında görünür.
+Depolamak ve bir bilgisayara seyrek matrisler manipüle zaman, faydalı ve özel algoritmalar ve veri matrisi seyrek yapısı yararlanmak yapıları kullanmak genellikle gereklidir. Işleme ve hafıza sıfır israf olarak büyük seyrek matrisler uygulandığında standart yoğun matris yapıları ve algoritmalar kullanarak İşlemleri yavaş ve verimsizdir. Seyrek veri doğası gereği daha kolay sıkıştırılır ve böylece önemli ölçüde daha az depolama alanı gerektirir edilir. Bazı çok büyük seyrek matrisler, standart yoğun matris algoritmaları kullanarak işlemek için olurlu vardır.
+Bir seyrek matris saklanması.
+Bir matris, tipik haliyle, bir iki boyutlu dizi olarak depolanır. Dizideki her giriş matrisinin bir elemanı temsil eder ve iki endeksleri ve erişilir. Geleneksel olarak, yukarıdan aşağıya doğru numaralandırılmış satır endeksi ve soldan sağa numaralı sütun indeksi vardır. Bir matrisi için, bu formatta matrisi saklamak için gerekli olan bellek miktarı (matris boyutları da depolanması gerekir gerçeğini göz ardı) doğru orantılıdır.
+Seyrek matris halinde, önemli bellek gereksinimi azalmalar yalnızca sıfır olmayan girdileri depolayarak gerçekleştirilebilir. Sayısı ve sıfır olmayan girişleri dağılımına bağlı olarak, farklı veri yapıları kullanılabilir ve temel yaklaşım ile karşılaştırıldığında bellekte büyük bir tasarruf elde edilir. ihtar tek tek öğeleri erişen daha karmaşık hale gelir ve ek yapılar açıkça orijinal matris kurtarmak mümkün ihtiyaç vardır.
+Formatlar iki gruba ayrılabilir:
+Tuşları Sözlük (DOK).
+DOK elemanlarının değerine çiftlerine eşleştiren bir sözlük içerir. Sözlükten eksik Elemanları sıfır alınır. biçiminde lexicographical sırayla sıfır olmayan değerler üzerinden yineleme için aşamalı rastgele sırayla seyrek matris oluşturmak için iyi, ama kötü. Bir tipik işlem için başka daha etkili bir biçime dönüştürür, sonra bu formatta bir matris oluşturur ve.
+Listeleri (LIL) listesi.
+LIL mağazaları sütun indeksi ve değer içeren her girişle satır başına bir tane liste. Tipik olarak, bu girişler daha hızlı arama için sütun indeksi göre sınıflandırılmaktadır tutulur. Bu artan matris yapımı için başka bir biçim iyidir.
+Listeyi (COO) Koordinat.
+COO dizilerini bir listesini depolar. İdeal olarak, girdileri (satır indeksi, sonra sütun indeksi) rastgele erişim süreleri iyileştirmek için sıralanır. Bu artan matris yapımı için iyidir başka biçimidir.
+Yale.
+Yale seyrek matris biçiminde saklar ilk seyrek matris, üç (tek boyutlu) dizileri kullanarak satır biçiminde. M. sıfır olmayan girişlerin sayısı gösterelim (sıfır tabanlı endeksler burada kullanılacaktır unutmayın.)
+Örneğin, matris
+4 sıfırdan farklı elemanları ile bir matris nedenle, bir
+Yani, dizideki eleman "" sütunu indeksine sahiptir itibaren "" ve "" indeksine sahip ve eleman "" indeksine sahiptir.
+Bu durumda Yale gösterimi sadece 12 orijinal matris içinde karşılaştırıldığında 16 girdileri içerir. Yale formatı hafızasında sadece kaydeder.
+Başka bir örnek, matris
+8 sıfırdan farklı unsurları ile bir matris (24 kayıt) yani, bir
+Bütün 21 girdileri olarak saklanır.
+Bu formatta unutmayın ilk değeri her zaman sıfırdır ve son her zaman, bu nedenle bir anlamda gereksizdir. Ancak, erişim ve programcı için kolay dizi geçme yapmak olabilir.
+Sıkıştırılmış satır Depolama (CRS veya KSS).
+Sütun dizisi normalde önde satır dizini dizi depolanan dışında CSR, Yale Seyrek Matris biçimine etkin bir aynıdır. Yani Bir dizi olduğu KSS olduğu (soldan sağa, sonra yukarıdan alt) matrisi sıfır olmayan değerler; değerlerine karşılık gelen sütun endeksleri ise; ve, her satır başlatır değer endeksleri listesi aşağıdadır. isim satır dizini bilgileri COO formatına göreceli sıkıştırılmış gerçeğine dayanmaktadır. Bir tipik inşaat başka bir biçimde (LIL, DOK, COO) kullanır. Bu biçim aritmetik işlemler, satır dilimleme ve matris vektör ürünler için etkilidir. Scipy.sparse.csr_matrix bakın.
+Sıkıştırılmış seyrek sütun (CSC veya CCS).
+Değerler birinci sütunda tarafından okunan, bir satır indeksi her değer için saklanır ve sütun işaretçileri saklanır dışında CSC KSS benzer. Yani Bir dizi olduğu CSC olduğu (üst-to-alt, sonra sola-sağa) matrisi sıfır olmayan değerler; değerlerine karşılık gelen satır endeksleri ise; ve, her sütun başlar indeksler listesi aşağıdadır. ad sütun indeksi bilgi COO formatına göreceli sıkıştırılmış gerçeğine dayanmaktadır. Bir tipik inşaat başka bir biçimde (LIL, DOK, COO) kullanır. Bu biçim, aritmetik işlemler, kolon dilimleme ve matris vektör ürünleri için etkilidir. Scipy.sparse.csc_matrix bakın.
+Bu (codice_3 fonksiyonu ile) MATLAB seyrek matris belirterek geleneksel biçimidir.
+Özel yapısı.
+Bantlı.
+Seyrek matrisler önemli bir özel tip aşağıdaki gibi tanımlanır, bant matristir. Bir matrisin "düşük bant genişliği" ne zaman girdi kaybolur en küçük sayı şekildedir. Benzer şekilde, "üst bant genişliği" ne zaman böyle küçük sayıdır. Örneğin, bir tridiagonal matris düşük bant genişliği ve üst bant genişliğine sahip. Başka bir örnek olarak, aşağıdaki seyrek matris sıfır netlik için noktalarla temsil edilir 3. Bildirimi eşit hem alt hem de üst bant genişliğine sahip.
+Makul küçük alt ve üst bant genişliği ile Matrisler bant matrisler olarak bilinen ve genellikle genel seyrek matrisler daha basit algoritmalar kendilerini ödünç vardır; ya da bir bazen yoğun matris algoritmaları uygulamak ve sadece endeksleri azaltılmış numarası üzerinden döngü verimliliği elde edebilirsiniz.
+Bir matrisin satır ve sütun yeniden düzenleme ile, bu daha düşük bir bant genişliği ile bir matris elde edilmesi mümkün olabilir. Algoritmaları bir dizi bant genişliği en aza indirilmesi için tasarlanmıştır.
+Çapraz.
+Bant matrisler, köşegen matris aşırı durum için çok verimli bir yapı tek boyutlu bir dizi olarak ana diyagonal sadece kayıt için, bu yüzden bir köşegen matris sadece girdileri gerektirir.
+Simetrik.
+Bir simetrik seyrek matris undirected grafik komşuluk matrisi olarak ortaya çıkar; bir bitişiklik liste olarak etkin bir şekilde depolanır.
+Azaltılması fill-in.
+matris dolum bir algoritma yürütülmesi sırasında sıfır olmayan bir değere bir başlangıç ​​sıfırdan bu kayıtlar bulunmaktadır. Bellek gereksinimlerini ve matris içinde satır ve sütun geçiş yaparak dolgu-in en aza indirmek için yararlıdır bir algoritma sırasında kullanılan aritmetik işlemlerin sayısını azaltmak için. Sembolik Choleskey ayrışma gerçek Cholesky ayrışma yapmadan önce olası en kötü dolgu-in hesaplamak için kullanılabilir.
+Kullanılan Choleskey çözümleme dışındaki yöntemler vardır. En küçük kareler yöntemlerle sorunlarını çözerken (örneğin QR çarpanlara gibi) Ortogonalleştirme yöntemleri, örneğin, yaygındır. Teorik doldurma hala aynı olmakla birlikte, pratik açıdan "yanlış olmayan sıfır" farklı yöntemler için farklı olabilir. Sembolik Cholesky kötü durumda dolgu-in hesaplamak için ve bu algoritmaların sembolik versiyonları aynı şekilde kullanılabilir.
+Seyrek matris denklemleri çözme.
+Hem iteratif ve doğrudan yöntemler seyrek matris çözme için var.
+Iteratif gibi eşlenik gradyan yöntemi olarak yöntemler ve GMRES matris formula_5 seyrek matris vektör ürünleri formula_4, hızlı hesaplamalar kullanmaktadır. preconditioners kullanımı önemli ölçüde bu tür iteratif yöntemler yakınsama hızlandırabilir.

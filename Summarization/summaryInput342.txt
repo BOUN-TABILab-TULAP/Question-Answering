@@ -1,0 +1,206 @@
+Question: Balık pulluluk hangi eşey kromozom ile kalıtılır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>X-Bağli Genlerin Kalitimi  (EBA)</DOCTITLE>
+<TEXT>
+
+Kız çocukları X kromozomu yoluyla aktarılan genleri, hem anneden ve hem de babadan alabilirken erkek çocuklar bu genleri sadece annelerinden alırlar. 
+X kromozomu üzerindeki çekinik bir alel ile kalıtılan bir özelliğin kız çocuklarında ortaya çıkabilmesi için iki ebeveyninden aldığı X kromozomunun her ikisinde de bu alelin bulunması gerekir. 
+Erkek çocuklarda X-bağlı çekinik bir özelliğin ortaya çıkabilmesi için, annesinden aldığı X kromozomunda bu genin çekinik bir alelinin bulunması yeterlidir. 
+Bu nedenle, X-bağlı çekinik özellikler, erkek çocuklarda kız çocuklara oranla daha sık görülmektedir. Dişi bireyler iki tane X kromozomuna sahip olduğu için, bu kromozomlardan sadece bir tanesini çekinik aleli taşıyorsa birey taşıyıcı olur ve çekinik özellik gözlenmez. 
+Örneğin, renk körlüğü X kromozomu üzerindeki çekinik bir alel tarafından kalıtılan hastalıktır. Renk körü bir bayan, renk körü olmayan bir erkek ile evlenecek olursa, bu çiftin erkek çocuklarının tümü renk körü olurken, kız çocukların hiçbiri renk körü olmayacaktır.Bu çaprazlama sonuçlarından da anlaşılacağı üzere, cinsiyete bağlı kalıtımda çocuklarda çekinik özelliklerin ortaya çıkması, bu genleri veren ebeveynin cinsiyeti tarafından etkilenmektedir. 
+Cinsiyete bağlı genlerle kalıtılan özellikleri kontrol eden alelleri göstermek için X kromozomu üzerine bu aleli simgeleyen harf yazılır. Baskın alel büyük harfle; çekinik alel küçük harfle gösterilir. 
+Hemofili, renk körlüğü ve Duchenne (Duşenne) kas distrofisi gibi hastalıklar X-bağlı çekinik genlerle kalıtılan hastalıklardır. 
+Bu hastalıklardan hemofili ölümcül bir hastalıktır. Hemofilide, kanın pıhtılaşması için gerekli proteinlerin bir ya da birkaçının eksik olması, kanamaların uzun süre devam etmesine neden olur. Böylece kan kaybı nedeniyle ölüm olayı meydana gelir. 
+Duchenne kas distrofisi hastalığı da tehlikeli bir kas hastalığıdır. Hastalığın ortaya çıkmasına, kaslarda normal olarak bulunması gereken bir proteinin yokluğu yol açmaktadır. 
+Bu hastalıkta, hasta bireylerin kasları günden güne zayıflar ve hasta yirmili yaşlara gelmeden ölür. 
+Kırmızı-yeşil renk körlüğüne sahip olan hasta bireyler ise kırmızı ve yeşil renkleri birbirinden ayıramaz. Bu kişilerin trafik ışıklarını ayırt edememesi nedeniyle, araba kullanmaları trafik kazalarına neden olabilir. 
+İnsanlarda, kulak kıllılığı ve balık pulluluk hastalığı Y kromozomu üzerindeki genlerle kalıtılır; bu nedenle bunlar sadece erkek bireylerde görülür (Resim 2.24).
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Edinilmiş özelliklerin kalıtımı</DOCTITLE>
+<TEXT>
+
+Edinilmiş özelliklerin kalıtımı bir canlının yaşamı boyunca meydana gelen değişikliklerin (örneğin kullanım sonucu kasların büyümesi gibi) döllerine aktarıldığına dair bir kalıtım teorisidir. Bu fikir eski Yunanlılar zamanından beri mevcut olmakla beraber, genelde Fransız tabiatçısı Jean Baptiste Lamarck'a atfen, Lamarkizm olarak değinilir. 
+Edinilmiş özelliklerin kalıtımı kavramının modern bir tanımı şöyledir: Ortamda meydana gelen ufak bir değişiklik, bu ortamda bulunan bir canlı türünün tüm (veya çoğu) üyelerinde bir değişikliğe neden olur; bu canlılar başlangıçtaki ortama geri konunca bu yeni özellik devam eder. Bu özellik kalıtılır bireylerin yavrularında da aynı görülür. 
+Edinilmiş özelliklerin kalıtımı fikri eski çağlarda Hipokrat ve Aristo tarafından öne sürülmüştü ve Lamarck zamanında yaygın olarak kabul görmekteydi. Comte de Buffon, Lamarck'tan evvel, bu kavramı içeren, evrimle ilgili görüşlerini dile getirmiş ve Charles Darwin bile, Lamarck'tan sonra, edinilmiş özelliklerin kalıtımı hakkında kendi teorisi olan pangenezis teorisini geliştirmiştir. "Lamarkçı genetik" terimi ve Lamarck ile Darwin arasında bir çekişme olduğu fikri, 19. yüzyıl sonlarında, Weismann ve neo-lamarckçılar arasındaki çekişmeden doğmuş birer efsanedir. Edinilmiş özelliklerin kalıtımı kavramının yanlış olduğu nihayet 20. yüzyılın başlarında geniş kabul gördü.
+Eski çağlar.
+Eski Yunan mitolojisina göre Theseus tanrılar tarafında cezalandırılınca oturduğu bir taşa yapışır. Herkül onu kurtarmak için yapışan kısmını keser, böylece Theseus'un butunun bir bölümü taşa yapışık kalır. Efsaneye göre Theseus soyundan gelenler bu yüzden onun bu kusurunu taşırlar ve bu yüzden Atinalılar küçük butludurlar.
+Hipokrat, vücudun her tarafından kaynaklanan bir şeyin bir şekilde menide (bugünkü deyimle eşey hücrelerinde) toplanıp gelecek nesile aktarıldığını iddia etmiştir (yüzyıllar sonra benzer bir görüş savunan Darwin buna "gemmula" adını vermiştir). Aristo bu görüşe karşı çıkmıştır. Aristo, saçına henüz ak düşmemiş bir genç babanın oğluna yaşlılıkta saçının beyaz olma özelliğini aktarabildiğini belirtmiştir. İkincisi, ailelerdeki bazı özelliklerin (saç rengi, göz rengi gibi) birkaç nesil atlayıp tekrar ortaya çıkabilmektektedir. Ayrıca, bir özelliğin sakatlanma yoluyla kaybına rağmen o özelliğin genelde gelecek nesle aktarıldığını belirtmiştir. Dolayısıyla, Aristo, edinilen özelliklerin "mutlaka" kalıtlanmadığı, kalıtlanan şeyin bu özellikleri sergileme "potansiyeli" olduğunu savunmuştur.
+Comte de Buffon.
+Comte de Buffon, canlıların kendileri için uygun olmayan ortamlarda dejenere olduklarını, örneğin eşeğin, atın dejenere bir hali olduğunu öne sürmüştü. Ancak, dejenere hayvanlar kendileri için uygun bir ortama geri getirilirlerse birkaç nesil içinde ideal şekillerine tekrar kavuşabileceklerini öne sürmüştür. Yani dejenerasyon o canlının özünde olan bir şey değildi.
+Lamarck.
+Lamarck canlılarda çeşitlenmeye neden olan iki güç olduğunu öne sürmüştü. Bunlardan "yaşam gücü" diye adlandırdığı birinci güç, canlıları daha karmaşık olmaya itmektedir, öbürü ise çevrenin değiştirici etkisidir. Lamarck, hayvanlarda onları çevreye uyum sağlamaya ve birbirlerinden farklı olmaya iten bir güç olduğunu savunmuştur. Bu adaptif gücün canlı ile çevresi ile etkileşimden, özelliklerin kullanılıp kullanılmamasından gücünü almaktadır. Bir organın sık kullanımı onu zamanla geliştirip güçlendirir, buna karşın bir organın kullanılmaması onu zayıflatır, bozulmasına ve sonunda yok olmasına neden olur. Lamarck'ın görüşüne göre bu özellikler sonra kalıtlanır. Zürafa, yılan, leylek, kuğu gibi hayvanların vücut şekilleri, bu hayvanların uzun dönemler boyunce edinilmiş alışkanlıklarının sonucudur.
+Darwin.
+Darwin, hayvanların evcilleşmesinin onlarda çeşitliliği artırdığı ve kalıtımı etkilediğini iddia etmiştir. Doğal seçilim konusunda yazdıkları evrim teorisinin temelinde yatmasına rağmen, kalıtsal varyasyonlar ile, çevrenin etkisi sonucu meydana gelen değişiklikler arasındaki farklılığın bilincinde değildi. Evrimin mekanizmasının anlaşılması ancak daha sonraki yıllarda, Mendel'in çalışmalarının başka bilim adamlarınca keşfinden sonra mümkün oldu. Darwin'in Lamarck'tan olan farklılığı, adaptasyon konusundaydı: Darwin'e göre adaptasyon seleksiyonun sonucuydu, Lamarck'a göre ise çevreye uyum ihtiyacının sonucuydu. 
+Darwin, "gemmula" adını verdiği, vücudun her özelliğinin ve organının mikroskopik kopyalarının varlığını öne sürmüştü. Bu gemmulalar, vücudun her hücresinde bulunmaktaydı ve bunlar dokulardaki çevresel şartlara bağlı olarak nitelik ve nicelik olarak değişebilmekteydi. Gemmulalar kanla cinsel organlara taşınmakta, orada birbirleriyle birleşip eşey hücrelerini meydana getirmekteydiler. Döllenmenin ardından, gelişim sırasında, bu gemmulalar ait olduklara dokulara yayılıp onların yeniden oluşmasını sağlamaktaydılar.
+Weismann.
+Lamarck'ın görüşlerinin nihayet çürütülmesi August Weismann'ın çalışmalarına atfedilir. Weismann 1500 farenin kuyruklarını 20 nesil boyunca kesmiş ve bunun sonucu olarak hiçbir farenin kuyruksuz doğmadığını bildirmiştir. Bu deneyin Lamarck'ın teorilerini çürütmediği o zaman ve bugün de belirtilmiş olsa günümüz ders kitapları hâlâ Weisman'ın Lamarck'ın hatasını "ispatladığı" yazar. Aslında Lamarck ve diğerlerinin iddiası, zorunluluk (veya gayret veya irade veya çevre) sonucu "edinilmiş" özelliklerin kalıtlandığıydı. Lamarckçılar zarar görme yolu ile kaybedilen özelliklerin kalıtsal olarak da kaybedileceğini iddia etmiyordu.
+Bilimsel yöntemle bir şeyin olmadığının ispatlanması mümkün değildir, sadece bir şeyin olduğu ispatlanabilir. Ancak matematikte, olmayana ergi yoluyla bir olumsuzluk kanıtlanabilir. Edinilmiş özelliklerin kalıtımı fikrinin terkedilmesinin nedeni belli bir deney sonucuna değil, Weismann tarafından öne sürülen "germ-plazma" fikrinin o zamanki bilimsel camiaya daha mantıklı gelmesine atfedilir. Weismann, kalıtsal özelliklerin eşey hücrelerinde bulunduğunu, kalıtsal bilgilerin ancak eşey hücrelerinden somatik hücrelere geçebileceğini, ters yönde bir bilgi aktarımı olamıyacağını savunuyordu (bu fikir "Weismann duvarı" olarak adlandırılmıştır).
+Weismann, eşey hücrelerinde bulunan germ plazmanın devamlılığını öne sürmüştü, ki bu 20. yüzyılda genom'a kaşılık gelecek bir kavramdı. Germ-plazma gibi bir cismin nesilden nesile aktarımı, kasların güçlenmesi gibi fiziksel bir sürecin nesiller arası devamlılığından daha kolay anlaşılabilen bir kavramdı. 
+Lisenko.
+1930'lu yıllarda Sovyetler Birliğinde edinilmiş özelliklerin kalıtımı teorisi, Sovyet Tarım Bilimleri Akademisi başkanı Trofim Lisenko'nun öne sürdüğü teoride merkezi bir yere sahipti. Lisenkoizm, Sovyet tarımının ilerlemesi için öne sürülmüş ama bunun uygulaması acı başarısızlıklarla sonuçlanmıştır. Vernalizasyon (bitki tohumlarının uzun süreli soğuğa maruz kalması) ile kış buğdayının bahar buğdayına dönüştürülebileceği iddiası bunun meşhur örneklerindendir. 7 milyar hektar vernalize olmuş tohum ekildikten sonra 1936'da vernalizasyon aniden ve sessizce terkedilmiştir. 
+Epigenetik.
+Kazanılmış özelliklerin kalıtımının olabilmesi için eşey hücrelerindeki DNA'nın çevreyle etkileşim sonucu değişime uğraması gerekir. Yakın dönemde epigenetik olgusunun keşfi, kazanılmış özelliklerin bazı şartlarda bir sonraki kuşağa aktarılmasını sağlayacak moleküler mekanizmaların olduğunu göstermiştir. Bu keşifler Hipokrat, Lamarck veya Lisenko tarafından savunulan evrensel görüşlerin doğruluğunu kanıtlamamaktadır. Ancak, moleküler genetik konusunda kaydedilen ilerlemeler hücrelerin çalışmasında ne kadar çeşitli mekanizmaların mevcut olduğunu bize göstermektedir. Görülmektedir ki, canlılarda kalıtımda epigenetik ve genetik elele çalışmaktalar.
+Mikroorganizmalarda.
+Edinilmiş özelliklerin kalıtımı kavramı mikroorganizmalarda çeşitli örnekleri gösterilebilir. Mikroorganizmalar eşey hücreleri ile çoğalmadıkları için organizmanın edindiği kalıtsal bir değişiklik onun yavrularına bazen doğrudan aktarılabilir. Epigenetik, DNA dizisinde bulunmayan enformasyonun fenotipe olan etkisidir. Epigenetik bilminin konusu olan bu olgulara örnekler aşağıda verilmiştir:
+Çok hücreli canlılarda.
+DNA ve kromatin modifikasyonu genlerin ifadesine etki etmektedir. Epigenetik mekanizmaların bazıları kazanılmış özelliklerin kalıtımına yol açmaktadır.
+Örneğin, DNA metil transferaz enzimleri, DNA'daki bir iplikçikteki sitozin bazlarında metil grupları bulunduğunda karşı iplikçikteki sitozinlerin de metillenmesini sağlarlar. Bu yolla, DNA ikileşmesinde, DNA'nın metilasyonu muhafaza olup bir sonraki nesile aktarılabilir.
+Çevresel faktörler epigenetik kalıtıma etki eder. Örneğin kedi, tavşan ve kemirgenlerde kürk rengi "Agouti" geni tarafından belirlenir, bunun alellerinin metilasyon şekilleri farklıdır. Folik asit ve kobalamin gibi gıda katkıları Agouti geninin metilasyonuna etki ettiği ve meydana gelen değişiklikler sonraki nesile aktarıldığı gösterilmiştir. Bir deneyde, hamilelik sırasında folik asit yiyen farelerin yavruların çoğu kahverengi kürklü olmuş, folik asit almayan annelerin yavruları ise sarı renkli olmuştur. 
+Dış bağlantılar.
+Lamarck Revisited Edinilmiş özelliklerin kalıtımına yeni bir bakış 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Genetik biliminin tarihçesi</DOCTITLE>
+<TEXT>
+
+Genetik bilimi kökenini Mendel'in 19. yüzyıl ortalarındaki çalışmalarından alıyorsa da, kalıtım hakkında birçok varsayım Mendel'den daha önce ortaya atılmıştır. Bu varsayımlar genellikle, edinilmiş özelliklerin kalıtım yoluyla aktarımını öne sürmüşlerdir; bu varsayımlarda kişiye ebeveyndeki baskın özelliklerin miras kalması inanışı hakimdi. Günümüzde, evrim teorisi genellikle, türlerin birbirlerinden değişerek oluştuklarını ileri sürmüş Jean-Baptiste Lamarck'a dayandırılır. Lamarck kalıtım örneğini türlerdeki çeşitli özelliklerin evrimini açıklamada kullanmıştır (fakat bu değişimler günümüzde, Lamarck’ın düşündüğü tarzda bir kalıtımsal sonuç olarak değil, doğal ayıklanmanın bir sonucu olarak kabul edilmektedir)
+Genetik biliminin temelleri.
+İnsanların gelişim sürecinde ilk olarak, doğan çocuğun kime benzediği sorusu, kalıtımın ilk gözlemleridir. Çocukların akrabalarına benzemesinin bir rastlantı olmadığı çok eski zamanlardan beri bilinmekteydi. Bu yüzden, kimi kültürlerde yakın akrabalar arasındaki evlilikler yasaklanmış, evcilleştirilen hayvanların istenilen özellikteki bireyleri çiftleştirilmiştir. Yaşı 6000 yıldan eski bir Babil yazıtında, beş nesillik bir at şeceresinde, yele başının değişimi gösterilmiştir. Kimi kültürlerde tohum seçiminde en iyi bitkiler seçilmiş, yapay olarak tozlaşmalar yapılmıştır. Bununla beraber, genetiğin bilimsel olarak açıklanması, 19. yüzyılı bulmuştur. Kalıtımla ilgili ilk kurgular Yunan filozoflardan gelmiştir; bugün komik olarak görülen bu ilk fikirlerin, kalıtımın ilk ana fikirleri olması nedeniyle büyük önemi vardır.
+Pisagor.
+Pisagor (MÖ 580 - MÖ 500), çocukların babalarına benzerliklerini şöyle açıklamıştır: Vücudun çeşitli bölgelerinden süzülerek gelen bir tür süptil buharın erkeğin eşeysel organında yoğunlaşmasıyla tohum (sperm) oluşur ve eşeysel çiftleşme sırasında dişi eşey organlarına iletilirr. Bu, vajinada katılaşır ve rahimde büyüyecek bir embriyo oluşturur. Olayda esas teşkil eden tohumun babadan gelmesi nedeniyle bu varsayım “"patrocline"” adıyla bilinir. Bu varsayımda, annenin işlevi embriyoyu kanıyla beslemekten ibarettir. Pisagor'un düşüncesinde, çocuğun anne ile benzerliği, embriyonun anne vücudu içerisindeki gelişimiyle açıklanmıştır.
+Empedokles.
+Empedokles (MÖ 494 - MÖ 434), tohumun ebeveynden (anne ve baba) geldiğine inanmıştır. Ona göre, çiftleşme sırasında hem anneden hem babadan gelen sıvı, tohum şeklinde organlarda toplanmakta, birleşmelerinde ise embriyoyu oluşturmaktaydı. Çocukların ebeveyne benzemelerini ve birbirine benzemeyen kardeşlerin oluşumu ise şöyle açıklamıştır: Vücudun her parçasından gelen tohuma katkı hep aynı oranda olmadığından, her yeni çiftleşme farklı çocukların oluşmasını sağlar. Günümüzde Anadolu'nun bazı yerlerinde erkekteki tohumunun göğüslerinden süzülerek geldiğine hala inanılmaktadır. 
+Aristo.
+Aristo (MÖ 384 – MÖ 322), birçok konuda olduğu gibi, kalıtım üzerine de fikirler ileri sürmüştür. Düşünceleri yüzyıllarca tartışılmadan kabul görmüştür. Erkek tohumunun kandan saflaşarak oluştuğuna ve her organa ulaştığı için kanın organları yeniden yapabilme gücü olduğuna inanmıştır. Kadındaki tohumun aybaşlarında görülen adet kanı olduğunu düşünmüş, ama ondaki kanın erkekteki gibi tam olarak saflaşmamasından dolayı, aybaşlarında bu şekilde geldiğini ileri sürmüştür. Aristo'ya göre, çiftleşme sırasında tohumların ikisi birleşerek embriyo haline gelip, çökelir. Bu fikir, 2000 yıl kadar kabul edilmiştir; günümüzde de kullanılan "asil kanlı", "kan bağı", "bozuk kanlı" vb. deyimlerinin buradan geldiğine inanılır.
+Abiyogenez.
+18. yüzyılın ortalarına kadar pek çok araştırmacı, organizmaların, en azından küçük olanların, kendiliğinden, çürüyen maddelerin çeşitli karışımlarından "kendiliğinden" (spontan) yani abiyogenetik olarak (canlı olmadan) ortaya çıktığına inanmaktaydılar. Sineklerin çer-çöplerden kendiliğinden ortaya çıkışı, Leeuwenhoek'un (1632-1723) görünürde temiz olan saman ve su karışımından meydana gelen küçük canlıları gözlemesi ve bunun gibi diğer gözlemler, ana-babadan doğrudan geçişi olmadan da yaşamın ortaya çıkabileceğini destekler gibi görünmüştü. İki İtalyan bilim insanı Francesco Redi ve Lazzaro Spallanzani bu teoriyi ciddi biçimde eleştirmiş ve bu konu üzerine bazı çalışmalar yapmışlardır. Redi; ergin sineklerin et üzerinde yumurtlamasını önleyince, sinek larvalarının gelişmediğini; Spallazani; organik madde içeren şişenin kapatılıp kaynatıldığında Leeuwenhoek tarafından gözlemlenen küçük canlıların kendiliğinden ortaya çıkmadığını göstermiştir. 
+Özel yaratılış teorisi.
+Sistematik bilimin kurucusu olan Linnaeus'e göre "türlerin değişmezliği" bulunmaktaydı; bir canlı türü sadece o canlı türünü meydana getirebilirdi. Yani hayvan ve bitki grupları yeryüzünde belirdiğinden beri değişmeden kalmışlardı. Dinsel görüşle uyuşan bu inanç, sınıflandırma bilimi ilerledikçe araştırmacılar arasında benimsendi. 
+Biyogenez.
+Kendiliğinden oluş (abiyogenez) ve özel yaratılış teorileri 19. yüzyıla kadar birbirleriyle çatışarak tartışıldı; Louis Pasteur ve John Tyndall yaptıkları çalışmalarla kendiliğinden oluş teorisini sona erdirdiler. Bu araştırmacılar organik maddelerin bozulmasının ancak besin kültürüne başka parçacıkların girmesi durumuna izin verildiğinde gerçekleştiğini gösterdiler. Bu parçacıklara daha sonrasında "mikrop" denildi ve bunların organik maddenin fermantasyonuna yol açtıkları bulundu. Bu bulgular yeni organizmaların doğuşunun ancak hayatın devamlılığı boyunca ortaya çıkacağı görüşünü düşündürttü. Ve Pasteur; ""Omne vivum ex ovo" (Her canlı bir yumurtadan doğar)"" tanımını yaptı.
+VE BÖYLECE GENETİK BİLİMİNDE ARAŞTIRMALAR HIZLANDI. GAMET HÜCRELER BULUNDU
+"Aura seminalis".
+1620 yılında İngiliz fizyolog William Harvey'in yapmış olduğu bazı deneyler bu görüşün uzun yıllar sonrasında sarsılmasını sağladı. Geyikleri çiftleştirdikten sonra öldürerek rahimlerine bakan Harvey, çökelmiş bir embriyo taslağı bulunmadığını görmüştü. Yeni organizmanın, "Aura seminalis" diye adlandırılan erkek menisinin mistik etkisiyle, çiftleşme sırasında oluşan sürtünmeden doğan mıknatıslanmanın embriyo oluşumuna yol açtığını savundu. Mikroskobun icadı sayesinde eşey hücrelerinin keşfi, erkekte sperm, dişide yumurta hücresinin bulunduğunun anlaşılmasını sağladı. Böylece, eşey hücrelerinin birleşmesiyle meydana gelen hücreden yeni bir yaşamın doğduğu anlaşılmış oldu .
+Ön-oluşumculuk.
+17. ve 18. yüzyıllarda yumurta, sperm ve polenlerin bulunmasından sonra birçok araştırmacı; "Homunculus" denilen minyatür bir insan figürünün eşey hücrelerinden birinde bulunduğuna inandılar. Bu görüş ön-oluşumculuk (preformasyonizm) olarak tanındı. Buna göre; önceden yapılmış bu minyatürün ergin duruma gelebilmesi için uygun şekilde beslenmesi gerekmekteydi. Ancak bu hipotezin kabulü için bazı sorular bulunmaktaydı; örneğin bu homunkulus hiç gerçekten görülmemişti. Ön oluşumculuk teorisi, kendiliğinden oluşma teorisine göre önemli derecede ileride olan bir fikirdi. 
+Epigenez.
+Caspar Friedrich Wolff'un ortaya attığı başka bir görüş olan epigenetik görüş; birçok yeni faktörün (doku ve organ gibi) orijinal biçimde var olmadığını, fakat organizma gelişimi sırasında ortaya çıktığını savunur. Wolff, bu organların tamamen anlaşılmayan yaşamsal güçlerle sonradan ortaya çıktığına inanmıştır. Takipçisi Karl Ernst von Baer ise daha çok kabul edilen bir teori olan; organların artarak özelleşen dokuların göreceli değişimiyle oluştuğu görüşünü ileri sürmüştür. 
+Edinilen karakterlerin kalıtımı.
+Edinilmiş özelliklerin kalıtımı kavramının modern bir tanımı şöyledir: ortamda meydana gelen ufak bir değişiklik, bu ortamda bulunan bir canlı türünün tüm (veya çoğu) üyelerinde bir değişikliğe neden olur; bu canlılar başlangıçtaki ortama geri konunca bu yeni özellik devam eder. Bu özellik kalıtılır bireylerin yavrularında da aynı görülür. Edinilmiş özelliklerin kalıtımı fikri eski çağlarda Hipokrat ve Aristo tarafından öne sürülmüştü ve Lamarck zamanında yaygın olarak kabul görmekteydi. Bu fikir eski Yunanlılar zamanından beri mevcut olmakla genelde beraber Fransız tabiatçısı Jean Baptiste Lamarck'a atfen "Lamarkizm" olarak değinilir.
+Pangenez.
+Çoğu insan, bulunan eşey hücrelerine rağmen, hala vücut parçalarının kalıtıma etki ettiğine inanmaktaydı. Lamarck da bu görüşü desteklemiş, kazanılmış özelliklerin aktarıldığı yönünde fikirler ileri sürmüştür. Darwin de ilk zamanlarında bu görüşü desteklemiş ve "pangenezis" denilen varsayımı ileri sürmüştür. Bu varsayımda her vücut hücresinin kana küçük bir "gemmula" ya da "pangenezis" denilen yapılar verdiği ve bunların üreme hücrelerinde toplandığı görüşü sözkonusuydu. Bazı ilkel canlılarda görülen kuyruk kopması vs. gibi olaylarda gemmulaların buralarda toplanarak onarım yaptığı, bazı çocukların büyük aile bireylerine benzemelerinde ise gemmulaların bazen -embriyo oluşumunda görev almadan- doğrudan eşey hücresine geçerek bir sonraki dölde etkisini gösterdiği düşünülüyordu .
+Kromozomların bulunması.
+19. yüzyılın sonlarında birçok önemli bulgu elde edilmişti. Bunlar kalıtımın kaynağı olan materyalin daha net bir şekilde belirlenmesi için bir başlangıç sağladı. Birçok araştırmacının çalışmalarıyla hücrenin yapısı ve bölünmesi artık biliniyordu; hücre çekirdeği Robert Brown tarafından 1833'de tanımlanırken, Oscar Hertwig deniz kestanesinin döllenmesinde sperm ve yumurtanın çekirdeklerinin doğrudan ilgili olduğunu gösterdi, "nukleoplazma" terimini çekirdekteki protoplazmik materyal için, "sitoplazma" terimini de çekirdeği saran hücre yapısındaki materyal için kullandı. Johann Gottlob Schneider koyu boyanan nükleer ipliklere kromatin adını verdi. Walther Flemming bunların bölünme sırasında uzadığını, Edouard Van Beneden eşit parçaların yavru hücrelere geçtiğini söylediler. 
+20. yüzyılın başlarında Theodor Boveri, Hermann Henking ve Montgomery gibi araştırmacıların çalışmalarıyla ışık mikroskobuyla gözlenen hücrenin morfolojik olayları ve bölünmesi sayesinde nükleer kromozomların bölünmesi ve eşit olarak ayrılmaları gösterilmiş ve böylece atasoy ve döl arasındaki kromozomsal bağlar saptanmış oldu.
+Germ-Plazma kuramı.
+19. yüzyılın sonlarına doğru Weismann, pangenezim kuramı üzerine bazı çalışmalar yaparak, tekhücrelilerde protoplazmanın sürekli olmasına değinmiştir. Ortaya attığı germ-plazma teorisiyle edinilmiş özelliklerin kalıtımı varsayımı tümüyle geçerliliğini yitirmiştir. Ona göre; tekhücreliler bölündüklerinde oluşan yavrularda anadakiyle aynı protoplazma bulunuyordu. Böylece, çokhücrelilerde de bu tür bir sürekliliğin olabileceğini düşünerek, Germ-Plazma varsayımını ortaya attı. Bu varsayıma göre, yüksek canlılar, vücudu meydana getiren somatoplazma kısmıyla, üreme hücrelerini oluşturan germ-plazmadan oluşmuştur. Germ-plazma embriyo evrelerinde diğer dokulardan oluşmuş, fakat somatoplazma ile alakası olmamıştır. Germ-plazma, sperm ve yumurta olarak embriyoyu yapar; bazı hücreler embriyoda germ plazmayı oluşturup değişmeden kalırken, diğer hücreler somatoplazma olarak farklılaşırlar. Bu varsayım, nesiller boyunca farelerin kuyruklarının kesilmesine rağmen yeni nesil farelerin halen kuyruklu doğduğunun görülmesi üzerine, kazanılmış özelliklerin kalıtımsal olmadığı gerekçesiyle çürütülmüştür.
+Mutasyon kuramı.
+Hugo De Vries, Darwin'in kuramlarını bazı noktalarda benimsemekle birlikte pangenezisi kabul etmemiş ve türler arasındaki büyük varyasyonların temelini bulmaya eğilmiştir. Laleler ile yaptığı gözlemlerinde aniden ortaya çıkan değişik türlerin nedenini "mutasyon" olarak açıkladı. Daha sonra, yetiştirdiği eşekçiçekleri ile saf varyeteler elde etti. Mendel'in bezelyede aynı şeyleri fark etmiş olduğunu gördü. Buluşunu 1900 yılında Mendel'inkiyle birlikte yayımlamış ve kalıtsal birimlerin değişebileceği hakkındaki görüşünü kabul ettirmiştir . Böylece Mende'in daha önce bulduğu bu gözlemin tekrarlanmasıyla 20. yüzyıl genetiğini akışı değişmiş oldu.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>X inaktivasyonu</DOCTITLE>
+<TEXT>
+
+X inaktivasyonu, dişi memeli hücrelerinde iki adet bulunan X kromozomlarından birinin inaktive edilmesi işlemi. İnaktive edilecek X kromozomu, baskılayıcı heterokromatin ile paketlenerek, bu kromozomun üzerinde bulunan genlerin ifade edilmesi önlenir. Böylece, sadece bir X kromozomuna sahip erkeklerle, iki X kromozomuna sahip dişiler arasındaki X kromozomu dengesi sağlanmış olur. İnsan ve fare gibi gelişmiş memelilerde, inaktive edilecek kromozomun seçimi rasgele yapılır ve inaktive edilmiş X kromozomu, içinde bulunduğu hücrenin yaşamı boyunca inaktif olarak kalır.
+Detaylı açıklama.
+İnsanda dişi bireyler 2 tane X kromozomu taşırlar. Bu durumda her genin iki kopyasını bulundururlar. Erkekte ise bu kromozom 1 adet olduğundan, her genin tek kopyası olacaktır. Bu durumun Y için istisnası mevcuttur:
+X üzerindeki diğer yüzlerce gen düşünüldüğünde, erkek bireyler dezavantajlı mıdır? Hayır. Çünkü dişiler bulundurdukları X'lerden birisini her hücrede inaktif hale getirirler. Bu kromozomlar interfaz evresinde Barr Cisimciği ya da Davul Tokmağı Kromozomu adı verilen yapılar halinde görülürler. Barr cisimciğinin koyu renkli hali, bu yapının inaktif olduğunun işaretidir. İnaktivasyon, erken embriyonik evrede gerçekleşir. Bir hücrede hangi kromozomun inaktif hale geçeceği birçok organizmada tamamen şansa bağlıdır (Kangurularda bu durum istisnaidir ve daima babadan gelen X inaktive olur). Bir hücrede, X kromozomlarından biri inaktive olduğunda, artık bu hücrenin tüm oğul hücrelerinde de aynı X kromozomu inaktive olur. Bu durumda, farklı etkilere sahip gen içeriği taşıyan klonlar oluşacaktır. Bu da mozaik durumuna imkan verecektir. Kedilerde X inaktivasyonuna katılacak kromozom, dokularda farklılık gösterebilir. Bu durumda bireyin kürk renginde mozaik görünüm ortaya çıkabilir. Çünkü kürk rengi, X'e bağlı olarak kalıtılır. Tekir kedilerin tümü bu durumu sergiler. İnsanda embriyonik evrede; hangi hücrede, hangi X'in (babadan ya da anneden gelen) inaktive olacağı tamamen şansa bağlıdır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Metakromatik lökodistrofi</DOCTITLE>
+<TEXT>
+
+Metakromatik lökodistrofi, Aril Sülfataz A enzim eksikliğnden kaynaklanan bir lizozomal depo hastalığıdır.
+Otozomal resesif kalıtılır. İnfantil tip, juvenil tip ve geç tip olmak üzere 3 e ayrılır. Bulguları, yürümede bozukluk, hipotoni, zeka geriliği, gelişme geriliği, tonik nöbetler. Tedavi olarak genellikle enzim replasman tedavisi, kök hücre nakli gibi yöntemler denenmektedir. 
+Tanı.
+MR'da galaktoserebrosid sülfat birikimine bağlı hiperintens alanlar görülür. Ancak kesin tanı lökositlerde veya fibroblastlarda enzim eksikliğinin gösterilmesiyle konur.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Balık pulluluk</DOCTITLE>
+<TEXT>
+
+Balık pulluluk, Y kromozomuyla aktarılan genetik bir hastalıktır. Baba baskın veya çekinik olsa bile, erkek çocukların dış görünüşünde (fenotipinde) etkisini gösterme oranı %100'dür.Bu ilk olarak 1800'lü yıllarda İngitere'de ortaya çıkmıştır.Kadınlarda görülemez.Y kromozomunda taşınan bir gen tarafından meydana getirilir. Bu yüzden sadece erkeklerde görülür. Hasta olan babanın bütün erkek çocukları bu geni taşıyacaklarından hepsi hasta olur. Bu hastalıkta erkeklerin özellikle kol ve bacakları olmak üzere vücutları tıpkı bir balık gibi pullarla kaplıdır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>C++</DOCTITLE>
+<TEXT>
+
+C++ (Türkçe okunuşu: "ce artı artı", İngilizce okunuşu: "si plas plas"), Bell Laboratuvarlarından Bjarne Stroustrup tarafından 1979 yılından itibaren geliştirilmeye başlanmış, C'yi kapsayan ve çok paradigmalı, yaygın olarak kullanılan, genel amaçlı bir programlama dilidir. İlk olarak "C With Classes" (Sınıflarla C) olarak adlandırılmış, 1983 yılında ismi C++ olarak değiştirilmiştir.
+Genel olarak her C programı aynı zamanda bir C++ programıdır, ancak her C++ programı bir C programı değildir. Bu durumun bazı istisnaları mevcuttur. C++'ı C'den ayıran özellikler C++'ın nesne paradigması kullanılarak programlamaya olanak tanıyan özelliklerdir. Sınıflar sayesinde yeni veri türleri yaratılabilir veya varolan türlerden yenileri türetilebilir. Ayrıca çokbiçimlilik sayesinde bir sınıf tanımıyla yazılmış kod, o sınıf türünden türetilmiş yeni sınıflarla da çalışabilir.
+C++ dilini öğrenmek ve daha fazla bilgi edinmek için bu maddenin Kaynaklar kısmına bakabilirsiniz.
+Yordamsal Altyapı.
+İşleçler.
+C++'ın C'den devraldığı ve onu geliştirdiği yapılardan biridir. Kısaca, özel olarak anlamlandırılmış fonksiyonlar kümesidir. Ancak bu fonksiyonlar, alışılageldik şekilde çağırılmaz, dilin semantik yapısı içerisinde özel olarak değerlendirilir. operatörler çoğunlukla iki nesnenin arasına özel bir işaret konulmasıyla çağırılır. Örneğin, iki nesnenin toplanması için iki nesnenin arasına '+' işareti konulması yeterlidir. Bu işaret, derleyiciye '+' operatör fonksiyonunun çağırılacağını ifade eder. C'den farklı olarak, C++'ta operatörlerin çoğunu aşırı yükleme yoluyla özelleştirebilirsiniz.
+Önişlemci.
+C++ Program kaynak kodlarının derlenmesi üç aşamadan oluşur: Önişlemci, kodun dönüştürülmesi ve bağlama. İlk aşama olan önişlemciyi basit bir yorumlayıcı olarak görülebilir. Bu aşamada, bir takım direktifler yardımıyla derlenecek kodlarda basit sözcüksel değişiklikler yapılabilir.
+Önişlemci direktifleri # karakteriyle başlar, bu karakterden sonrası önişlemci tarafından yorumlanır ve bu özel karakterden önce "beyaz boşluk"(tab ve boşluk) dışında bir şey olmaması gerekir. Bu direktifler yardımıyla derlenecek kodlar üzerinde bir takım kurallar belirlenebilir. Ayrıca dosyaya bir başka dosyayı dahil etmek veya işlemciye özel direktifler vermek gibi işlemler içinde kullanılabilir.
+Nesne Paradigması.
+Sınıflar ve Nesneler.
+Kalıtlama.
+Kalıtlama diğer veri türlerinin özelliklerinden bir veri türü elde etmeyi sağlar. Temel sınıftan kalıtım, "public", "protected" ve "private" olarak ilan edilebilir. Bu erişim belirteci ilgili olmayan ve türetilmiş sınıfların kalıtımını "public" ve "protected" üyelerine aktarabilir. Kalıtım ifadesi tek başına kullanılırsa "public" kalıtımı ifade eder. Diğer iki kalıtım türü "public" kalıtımdan daha az kullanılır. Geçiş belirteci ihmal edilirse "class" "private" olarak, "struct" "public" olarak kalıtılır. Temel sınıflar sanal olarak ilan edilebilir, bu sanal kalıtım olarak adlandırılır. Sanal kalıtım çoklu kalıtımın problemlerinden sıyrılarak temel yalnızca bir örneğinin kalıtım grafiğinde olmasını sağlar.
+Örnekler.
+Merhaba Dünya 2.
+Nesne yaklaşımlı merhaba dünya örneği:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşey kromozomları</DOCTITLE>
+<TEXT>
+
+İnsanların somatik hücrelerinde 46 kromozom bulunur. Dişideki 23 çift kromozom, mayoz bölünmede 22A+X şeklinde belirir. Yani her bir yumurta 22 otozom ve bir X kromozomuna yani gonozoma sahiptir. Erkekte ise, 46 kromozom mayoz sırasında 22 çifti birbirlerine benzer kromozomlar ve bir çifti de birbirine eş olmayan büyük bir X kromozomu ile daha küçük bir Y kromozomu şeklinde belirir. Yani meydana gelen spermatozoonlar 22A+X ve 22A+Y genomlarına sahiptir. 
+İşte bu X ve Y kromozomları eşeyi tayin eden, eşey hücrelerinde bulunan kromozomlardır ve bunlara eşey kromozomları ya da gonozomlar denir. 
+Genetikte 1912 yılında Tomas Morgan tarafından yeni bir dönem başlatılmıştır. Morgan, sirke sineği olan "Drosophila melanogaster"'in genetik çalışmalar için çok avantajlı olduğunu belirtmiştir. Küçük olduklarından binlercesini laboratuvarda tutmak mümkündür. Bu sinekler kısa sürede erginliğe ulaştıkları için pek çok dölü birbiri arkası takip edilebilir. Haploid sette 4, diploid sette 8 kromozomlarının bulunuşu da diğer avantajlarından biridir. Bu nedenle 46 kromozomlu insan ve diğer pek çok canlıya tercih edilmektedir. Morgan'ın Drosophila deneylerinde ilk çözmeye başladığı konu eşey tayin mekanizmasının nasıl gerçekleştiğiydi. Döllenmiş yumurtanın erkek ve dişi zigot olarak gelişmesi üzerine de araştırmalar yaptı. Mikroskobik çalışmalar erkek ve dişi hayvanların kromozom setlerinde küçük bir farklılığın olduğunu göstermiş ve X ve Y kromozomları öğrenilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom analizi</DOCTITLE>
+<TEXT>
+
+Kromozom karyotiplemesinde günümüzde beş özellik incelenmekteir. 
+İşte bu karakterlerin esas alınarak ayrılan kromozomların belli bir sisteme göre sınıflandırılmasına Karyotip, karyotipin şekil halinde gösterilmesine İdiogram denir. 
+En büyükten başlayarak insan genomunu oluşturan otozomlar 1'den 22'ye kadar numaralandırılır ve A'dan G'ye kadar gruplara ayrılır. Buna göre;
+13,14,15 ve 21. çiftlerde kısa olan kromozom kolunun ucunda satellit gözlenmiştir. Dişilerde 22. çiftte de satellit vardır. 
+Genom içinde ayrı bir numarası ve grubu olmayan eşey kromozomları da X ve Y kromozomlarıdır. X kromozomu C grubunun büyük kromozomlarına benzemekte, Y kromozomu ise, G grubu kromozomlarına benzemekte ve karyotipteki yeri 22. kromozomdan sonra sıralanmaktadır.
+ğ== Tarihte ==
+1912'de Winiwater, insanda erkek bireylerde 47 kromozom (46 otozom+ X) ve dişi bireylerde 48 kromozom (46 otozom +XX) saptamıştır. Painter 1923'de her ikisinde XX ve XY eşey kromozomları dahil 48 kromozom olduğunu ileri sürmüş ve 1956'ya kadar böylece kabul edilmiştir. Daha sonra kültür denemelerinin artması, tuz solüsyonları kullanarak yayma preparatlarının hazırlanması ile sayının gerçekte 48 değil 46 olduğu görülmüştür. Erkek bireylerde 44 AA+XY, dişilerde ise 44 AA+XX karyotipindedir. Haploid setteki 22 kromozom boylarına ve sentromer konumlarına göre sınıflandırılmış ilk defa 1960 yılında ABD Denver'de yapılan toplantıda 7 gruba ayrılmıştır. Daha sonraki bir dizi toplantıda Denver sistemi geliştirilmiş ve insan kromozomları bir standardizasyona sokularak ortak bir adlandırma sistemi kabul edilmiştir. 
+Paris konferansında kabul edilen şekle göre karyotip belirlenmesinde toplam kromozom sayısı, eşey kromozomları ve fazla veya eksik kromozomları (+), (-) gösterimi sağlanır. Örneğin, 47,XX+21 ifadesi canlının genomunda 47 kromozom bulunduğunu ve 21. kromozomun trizomik (üç tane) olduğunu belirtmektedir. Ayrıca kol uzunluklarındaki artış ve eksilme durumu belirtilmesi 46,XY,1q+ şeklinde gösterilmektedir. Bu genomda 1. kromozomun uzun kolunun fazladan bulunuşu ya da normalden daha uzun olduğu söz konusudur. Fakat 47,XY,+14p+ ifadesinde toplam 47 kromozomlu genomda 14. kromozomun trizomisi ve uzun kol fazlalığı gösterilmiştir. Yapısal mutasyonlarda ise def, dup, r, inv, ve t sembolleri kullanılmaktadır.
+Günümüzde.
+Genetik ve sitolojide kullanılan yeni tekniklerin insanlara da uygulanmasıyla biyoloji ve tıp alanında yeni çalışma alanları açılmıştır. Bu ilerlemeler genellikle kromozom çalışma tekniklerinin geliştirilmesi ile sağlanmış ve insanlarda normal veya anormal karyotip durumları incelenmiştir. En önemli yöntem kan lökositlerinin, kemik iliğinin, fibroblastların ve diğer dokuların kültür şartlaına alınıp in vitro yetiştirilebilmesidir. Gebe bir ana rahminden alınan amnion sıvısı içindeki serbest hücreler veya amnion zarı hücreleri incelenerek doğacak çocuğun kromozomları, genetik yapısı görülebilmektedir. Bu yönteme "amniosentez" denilmekte ve günümüzde çoğu gebeliklerde uygulanmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Otozomlar</DOCTITLE>
+<TEXT>
+
+Otozomlar, eşey kromozomu olmayan kromozom grubudur. Türlerde çift halinde bulunurlar. X ve Y kromozomları otozomal kromozomlardan değillerdir. Genellikle eşey kromozomları, gonozomlar, allozomlar ve heterozomlar aynı anlamda kullanılırlar, bunların zıddı olan otozom kromozomlardır.
+İnsan vücudunda 23 çift kromozom bulunur (22 çift otozom, 1 çift gonozom).
+erertewrweewr32454u5ıo2u3ıoruıoew
+
+</TEXT>
+</DOC>
+

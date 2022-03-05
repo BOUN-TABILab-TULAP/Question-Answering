@@ -1,0 +1,15 @@
+1	Herhangi	herhangi	Adj	Adj	_	3	MODIFIER	_	_
+2	bir	bir	Det	Det	_	3	DETERMINER	_	_
+3	bölgenin	bölge	Noun	Noun	A3sg|Pnon|Gen	7	SUBJECT	_	_
+4	nüfus	nüfus	Noun	Noun	A3sg|Pnon|Nom	5	CLASSIFIER	_	_
+5	piramidine	piramit	Noun	Noun	A3sg|P3sg|Dat	7	SUBJECT	_	_
+6	_	bak	Verb	Verb	_	7	DERIV	_	_
+7	_	_	Verb	Verb	Pass|Pos	8	DERIV	_	_
+8	bakılarak	_	Adv	Adv	ByDoingSo	13	MODIFIER	_	_
+9	hangi	hangi	Adj	Adj	_	10	MODIFIER	_	_
+10	sonuçlara	sonuç	Noun	Noun	A3pl|Pnon|Dat	13	DATIVE.ADJUNCT	_	_
+11	_	ulaş	Verb	Verb	_	12	DERIV	_	_
+12	_	_	Verb	Verb	Pass|Pos	13	DERIV	_	_
+13	ulaşılabilir	_	Verb	Verb	Able|Aor|A3sg	14	SENTENCE	_	_
+14	.	.	Punc	Punc	_	0	ROOT	_	_
+

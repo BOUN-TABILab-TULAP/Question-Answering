@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Türler	tür+Noun+A3pl+Pnon+Nom
+Türler	tür+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+arasında	ara	+Noun+A3sg+P3sg+Loc
+
+zorunlu	zorunlu	+Adj
+
+olmayan	ol	+Verb+Neg^DB+Adj+PresPart
+
+mutualizme	mutualizme	+Noun+Prop+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

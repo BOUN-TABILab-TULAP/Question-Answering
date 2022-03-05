@@ -1,0 +1,55 @@
+Akım yoğunluğu
+Elektromanyetizma olarak, akım yoğunluğu, çapraz kesit birim alanı başına elektrik akımıdır. Bu, büyüklüğü alan belirli bir noktada enine kesit alanı başına elektrik akımı bir vektör (yani, bir vektör bir alandır) olarak tanımlanır. SI birimleri olarak, elektrik akımı yoğunluğu, metre kare başına amper cinsinden ölçülür. Aynı zamanda katı hal fiziği, yoğun madde fiziği, vb ilgili alanlarda uygulamalar vardır
+Tanımı.
+Elektrik akımı yoğunluğu "J" sadece elektrik akımı "I" (SI birimi: A) birim alan başına "A" (SI birimi: m2). Onun büyüklüğü sınırı ile verilir:
+"T", 2 ila zaman süresi "t" 1 üzerinden integral ardından bir vektör, J bir yüzey "S" üzerinden integral yüzeyi gibi bir akım yoğunluğu için (diğer bir deyişle zaman içinde yüzeye geçen şarj miktarını verir "t" 2 - "t" 1):
+akı hesaplanması için gerekli alan, ya bir enine kesit alanında veya bir yüzey olarak, gerçek veya sanal, yassı ya da kavisli. Örneğin, bir elektrik iletkeni geçen yük taşıyıcıları için, alan olarak bölümünde iletken enine kesiti vardır.
+Vektör alanı kütlesi boyunca geçtiği alanın büyüklüğü, "A", ve alan dik bir birim vektör, formula_3 bir kombinasyonudur. ilişki formula_4 olduğunu.
+Akım yoğunluğu J, sonra bölge, normal formula_3 için θ bir açıyla bölgeden geçerse
+Nerede · birim vektörlerin nokta ürünüdür. Bu akım yoğunluğu bileşen alanına teğet geçerken "J" günah θ, ama "hayır" geçerli olduğunu, yüzeyi sayesinde akım yoğunluğu geçen bileşen (buna yani normal), "J" cos θ olduğunu aslında teğet yönde alanı "üzerinden" geçen yoğunluğu. Alan normal geçen akım yoğunluğunun "sadece" bileşeni kosinüs bileşenidir.
+Önemi.
+Akım yoğunluğu, elektrik ve elektronik sistemlerin tasarımı önemlidir.
+Devre performansı tasarlanan mevcut kuvvetle bağlıdır ve akım yoğunluğu daha sonra iletken elemanların boyutları belirlenir. Örneğin, olarak entegre devreler daha da küçük çip alanlarında yüksek cihaz numaralarını elde etmek için yüksek akım yoğunlukları doğru eğilim var, küçük cihazlar tarafından talep düşük akım rağmen, boyutu azalır. Moore yasasını bakın.
+Bir tel iletken bölgenin yüzeyi, sözde cilt etkisi yakınında sınırlı olur, çünkü yüksek frekanslarda, akım yoğunluğu artabilir.
+Yüksek akım yoğunlukları istenmeyen sonuçlar doğurabilir. En çok elektrik iletkenlerinin, sonlu bir pozitif direncine sahip bunları ısı şeklinde güç dağılımı adrestir. akım yoğunluğu yalıtım malzemesi başarısız ya da istenen elektrik özelliklerini değiştirerek, erime veya en fazla yanmasını iletken önlemek için yeteri kadar düşük tutulması gerekmektedir. Yüksek akım yoğunluklarında aslında hareket bağlantıları oluşturan malzeme, bir fenomen "electromigration" denir. Süperiletkenlerde aşırı akım yoğunluğu süperiletken özelliği spontan kaybına neden yeterince güçlü bir manyetik alan oluşturabilir.
+Ayrıca akım yoğunluğunun analizi ve gözlem de sadece metaller dahil olmak üzere katıların doğası, temel fizik, ancak yarı iletkenler ve yalıtkanlar araştırmak için kullanılır. Ayrıntılı bir teorik biçimcilik birçok temel gözlemleri açıklamak için geliştirdi.
+akım yoğunluğu manyetik alana akım yoğunluğunu ilgilidir Amper yasalarını (Maxwell denklemlerinin bir), önemli bir parametredir.
+Özel görelilik teorisinde, şarj ve akım 4 vektör içine birleştirilir.
+Konuda akım yoğunluğu hesaplanması.
+Ücretsiz akımlar.
+Hareket etmek üzere serbest olan yük taşıyıcıları gibi bu bölümde gibi ifadeler ile verilecektir serbest bir akım yoğunluğu, oluşturmaktadır.
+Elektrik akımı tüm tel neler olduğunu anlatan bir kaba, ortalama miktar. Zaman "t" de pozisyon r, akım yoğunluğu ile tanımlanır akan ücretten "dağıtımı" At:
+J (r, "T") akım yoğunluğu vektörü, vd (r, "T") olduğu olduğu partiküllerin ortalama sürüklenme hızı (SI birim: m ∙ s-1) ve
+": hangi" n "(r, s" t ") olarak birim hacim (" sayı yoğunluğu ") (m-3 SI birimi) başına parçacıkların sayısı: yük yoğunluğu (metreküp başına coulomb SI birimi) 'dir q n "(: coulomb SI birimi)" yoğunluk bireysel parçacıkların yükü "dedi.
+Akım yoğunluğu için ortak bir yaklaşım ile ifade edilen akımı, sadece, elektrik alanı ile orantılı olduğunu kabul eder:
+E elektrik alan ve "σ" nerede elektriksel iletkenlik olduğunu.
+İletkenlik "σ" elektrik direnç karşılıklı (ters) ve (S m-1) metre başına siemens SI birimleri vardır, ve E coulomb başına newton SI birimlerini (NC-1) veya eşdeğeri başına volt vardır ölçer (V M-1).
+Akım yoğunluğu hesaplanmasına bir daha temel bir yaklaşım dayanmaktadır:
+Her iki durumda da, örneğin, bir alt mikroskopik analiz ile ilgili ilke olarak hesaplanan, "σ" zaman bağımlılığı ve "σ" uzamsal bağımlılığından alanına yanıtının yerel olmayan doğası gereği yanıt olarak gecikme gösteren yeterince küçük alanlarda, malzeme iletken davranış için doğrusal tepki fonksiyonu. Örnek, Giuliani ya da tokmak için, bkz. İntegral günümüze kadar bütün geçmiş tarihin boyunca uzanır.
+Yukarıdaki iletkenlik ve ilişkili akım yoğunluğu zamanında ve mesafe üzerinden, hem orta yük taşımacılığı altında yatan temel mekanizmaları yansıtır.
+Bir Fourier uzay ve zaman sonra sonuçlanır dönüşümü:
+"σ" (k, "ω") artık karmaşık bir fonksiyonudur.
+Birçok malzeme, örneğin, kristalin malzeme, iletkenlik tensör ve uygulanan akım alanı ile aynı yönde olmak zorunda değildir. Kenara kendilerini maddi özelliklerinden, manyetik alanların uygulama iletken davranışını değiştirebilir.
+Polarizasyon ve mıknatıslanma akımları.
+Yük homojen olmayan bir dağılımı olduğu zaman Akımlar malzemeler ortaya çıkar.
+Dielektrik malzeme olarak, mevcut birim hacmi başına elektrik dipol momentleri net hareketine karşılık gelen yoğunluk, polarizasyon P yani vardır:
+Benzer şekilde, manyetik malzemeler, birim hacim başına manyetik dipol anların dolaşım, hacim mıknatıslanma akımları manyetizasyon M kurşun yani:
+Birlikte, bu terimler (nedeniyle birim hacimdeki elektrik ve manyetik dipol momentleri hareketlerine bileşke akım) malzemede sınır akım yoğunluğu kadar ekleyin oluşturur:
+Malzemelerin toplam akım.
+toplam akım sadece serbest ve bağlı akımların toplamıdır:
+Deplasman akımı.
+Zamanla değişen elektrik deplasman alanı D gelen bir değiştirme akımı da vardır:
+hangi Bu dönemde yokluğu elektromanyetik dalgaların yayılmasına tahmin ya da genel olarak elektrik alanların zaman evrim olmaz çünkü, Amper circuital hukuk, Maxwell denklemlerinin birinde önemli bir terimdir.
+Süreklilik denklemi.
+Şarj korunmuş olduğundan, akım yoğunluğu, bir süreklilik denklemi yerine getirmelidir. İşte ilk prensiplerden bir türevidir.
+(rasgele bir şekle sahip ama hesaplanması için sabit olabilir) bazı ses "V" dışında net akış hacmi içinde düzenlenen görevli net değişim eşit olmalıdır:
+burada "ρ" yük yoğunluğu ve "dA" hacim "V" çevreleyen yüzeyde "S" bir yüzey elemanıdır. Soldaki yüzey integrali hacmi Geçerli "çıkış" ifade ve sağdaki ayrılmaz olumsuz imzalanan hacim hacmi içindeki toplam sorumlu "azalma" ifade ediyor. Sapma teoremi Gönderen:
+Dolayısıyla:
+Bu ilişki ima büyüklüğü veya konumu bağımsız herhangi hacmi, için geçerlidir:
+ve bu ilişki süreklilik denklemi denir.
+Uygulamada.
+Elektrik tesisatı olarak, maksimum akım yoğunluğu serbest hava bir kablo için 6A ∙ mm-2, 4A ∙ mm-2 etrafında bir hava sirkülasyonu ile bir tel için değişebilir. Kablolama listesine farklı koşullarda kablonun her boyutta mevcut izin verilen maksimum bina Yönetmeliği. 2 A mm-2 ∙ gibi SMPS transformatörlerin sargıları kompakt tasarımları için, değer olarak düşük olabilir. Tel yüksek frekans akım taşıyan ise, deri etkisi iletkenin yüzeyindeki mevcut yoğunlaşarak bölüm boyunca geçerli dağılımını etkileyebilir. Litz teli sargıları için kullanıldığında yüksek frekanslar için tasarlanmış transformatörlerde, kaybı azalır. Bu iki kez, bir çap cidar kalınlığı paralel olarak çok sayıda izole edilmiş tellerin yapılır. İzole teller, toplam cilt alanını arttırmak ve bağlı cilt etkileri direncini azaltmak için birlikte bükülür.
+35 A, 35 um bir kalınlığa sahip, bakır mm-2 ∙ gibi baskılı devre kartları için, üst ve alt tabakalar için, maksimum akım yoğunluğu kadar yüksek olabilir. İç katmanlar dış tabakaların kadar ısı dağılımı edemez; devre kartı tasarımcıları, iç katmanlar üzerinde yüksek akım izlerini koyarak kaçının.
+Yarı iletkenler olarak, maksimum akım yoğunluğu üreticisi tarafından verilir. Ortak bir ortalama 180 nm tekniği 25 ° C de 1 mA ∙ um-2'dir. Maksimum akım yoğunluğu şeyden ayrı joule etkisi, electromigration gibi diğer bazı efektler mikrometre ölçeğinde görünür.
+Biyolojik organizmalarda, iyon kanalları bütün hücrelerde zarından (örneğin, sodyum, kalsiyum, potasyum için) iyonlarının akışını düzenler. Akım yoğunluğu pA ∙ pF-1 (picofarad başına picoamperes), yani, kapasitesi tarafından çok parçalı membran alanının fiili ölçü olarak ölçülür.
+Bu tür flafl gaz deşarj lambaları, akım yoğunluğu, çıktı spektrumunda önemli bir rol oynar. Düşük akım yoğunlukları spektral hat emisyonu üretir ve daha uzun dalga boylarını lehine eğilimindedir. Yüksek akım yoğunlukları sürekli emisyon üreten ve kısa dalga boylarını lehine eğilimindedir. Flaş lambaları için düşük akım yoğunlukları genellikle yaklaşık 1000 A cm 2 ∙. Yüksek akım yoğunlukları A cm 2 ∙ 4000 den fazla olabilir.

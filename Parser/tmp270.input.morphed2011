@@ -1,0 +1,47 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Termik	termik	+Adj
+
+ve	ve	+Conj
+
+dinamik	dinamik	+Noun+A3sg+Pnon+Nom
+dinamik	dinamik	+Adj
+
+basınç	basınç+Noun+A3sg+Pnon+Nom
+
+merkezleri	merkez	+Noun+A3pl+Pnon+Acc
+merkezleri	merkez	+Noun+A3pl+P3sg+Nom
+merkezleri	merkez	+Noun+A3pl+P3pl+Nom
+merkezleri	merkez	+Noun+A3sg+P3pl+Nom
+merkezleri	merkezle	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+arasındaki	ara	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+
+farklar	fark	+Noun+A3pl+Pnon+Nom
+farklar	fark	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

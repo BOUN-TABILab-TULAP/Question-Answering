@@ -1,0 +1,11 @@
+1	Günümüzde	gün	Noun	Noun	A3sg|P1pl|Loc	9	LOCATIVE.ADJUNCT	_	_
+2	internetin	internet	Noun	Noun	A3sg|Pnon|Gen	4	POSSESSOR	_	_
+3	ticaret	ticaret	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	üzerinde	üzer	Noun	Noun	A3sg|P3sg|Loc	9	LOCATIVE.ADJUNCT	_	_
+5	nasıl	nasıl	Adj	Adj	_	7	MODIFIER	_	_
+6	bir	bir	Det	Det	_	7	DETERMINER	_	_
+7	etkisi	etki	Noun	Noun	A3sg|P3sg|Nom	9	OBJECT	_	_
+8	_	var	Adj	Adj	_	9	DERIV	_	_
+9	vardır	_	Verb	Zero	Pres|A3sg|Cop	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

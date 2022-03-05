@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Odunsu	odun	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+Odunsu	odunsu	+Adj
+
+bitkilerin	bitki	+Noun+A3pl+Pnon+Gen
+bitkilerin	bitki	+Noun+A3pl+P2sg+Nom
+
+gövde	gövde+Noun+A3sg+Pnon+Nom
+
+yapısı	yapı+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+yapısı	yapı+Noun+A3sg+P3sg+Nom
+
+nasıldır	nasıl+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

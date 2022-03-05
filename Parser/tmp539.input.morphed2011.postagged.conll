@@ -1,0 +1,8 @@
+1	Prokaryot	Prokaryot	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	hücrelerinin	hücre	Noun	Noun	A3pl|P3sg|Gen	_	_	_	_
+3	en	en	Adv	Adv	_	_	_	_	_
+4	belirgin	belirgin	Adj	Adj	_	_	_	_	_
+5	özelliği	özellik	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+6	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+7	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+8	.	.	Punc	Punc	_	_	_	_	_

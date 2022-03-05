@@ -1,0 +1,13 @@
+Örgün kanıtı
+Resmi bir kanıtı veya türetme bir aksiyom veya çıkarımın bir kural ile sırayla önceki cümle izler her biri (resmi dili halinde iyi biçimlendirilmiş formüller denir) cümlelerin sonlu dizisi olduğunu. dizideki son cümle resmi sistemin bir teoremi olduğunu. teoreminin kavramı genel olarak etkili değildir, bu nedenle her zaman belirli bir cümlenin bir kanıtı bulmak ya da hiçbiri var olduğunu belirleyebilir hangi bir yöntem olabilir. Doğal kesinti kavramı ispat kavramının bir genellemedir.
+teoremi ispat onu önceki tüm iyi biçimli formülleri bir sözdizimsel sonucudur. Bir iyi biçimli formül bir kanıtı parçası olarak nitelemek için, kanıt dizisi önceki iyi biçimli formülleri bazı resmi sistemin tümdengelim aparatının bir kural uygulanması sonucu olmalıdır.
+Biçimsel deliller genellikle interaktif teorem ispatlamada bilgisayar yardımıyla inşa edilmektedir. Anlamlı, bu deliller de bilgisayar tarafından otomatik olarak kontrol edilebilir. "Bulgu" delillerle (Otomatik teorem kanıtlama) sorunu kullanımında resmi sisteminize bağlı olarak genellikle hesaplama inatçı ve / veya sadece yarı Karar verilebilen ise resmi deliller Kontrol, genellikle basittir.
+Arkaplan.
+Formal dil.
+Bir "resmi dil" semboller sonlu dizilerin bir kümesidir. Böyle bir dil olan ifadelerin herhangi birinin anlamları değinmeden tanımlanabilir; Herhangi bir yorumlama kendisine atanan önce mevcut olabilir - yani, herhangi bir anlamı vardır önce. Biçimsel deliller bazı resmi dille ifade edilir.
+Formal gramer.
+(Ayrıca "oluşum kuralları" olarak adlandırılır) bir "resmi gramer" resmi dilin iyi biçimli formülleri kesin bir açıklamasıdır. İyi oluşturulmuş formüller oluşturan resmi dili alfabesinin üzerinde dizeleri seti ile eş anlamlıdır. Ancak, (ne demek yani) kendi semantik tarif etmez.
+Biçimsel sistemler.
+(Aynı zamanda bir "mantıksal hesabı" olarak adlandırılan, ya da bir "mantıksal sistem"), Bir "resmi sistem" (aynı zamanda bir "tümdengelim sistemi" olarak adlandırılır) bir tümdengelim aparatı ile birlikte resmi bir dil oluşur. deductive Cihaz (aynı zamanda "kesmesi kuralları" olarak adlandırılır) dönüşümü kurallar kümesi ya da bir dizi aksiyoma oluşur, ya da her ikisi olabilir. Resmi bir sistem, bir veya daha fazla diğer ifadelerden biri ifadesini türetmek için kullanılır.
+Yorumlama.
+Resmi bir sistemin bir "yorumlama" resmi bir sistemin cümlelere sembolleri anlamları ve hakikat-değerlerinin atanmasıdır. yorumların çalışma resmi semantik denir. "Bir yorumunu verilmesi" "modeli inşa ile eş anlamlıdır.

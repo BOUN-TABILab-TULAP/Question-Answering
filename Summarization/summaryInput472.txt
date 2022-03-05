@@ -1,0 +1,256 @@
+Question: Besin kofulları nasıl oluşur?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Koful</DOCTITLE>
+<TEXT>
+
+[[Dosya:biological cell.svg|thumb|350px|Tipik bir hayvan hücresinin yapı taşlarını (Organellerini) gösteren çizimi. : 
+(1) Çekirdekçik 
+(2) Çekirdek 
+(3) Ribozomlar (küçük noktalar) 
+(4) Vezikül 
+(5) Granüllü endoplazmik retikulum (ER) 
+(6) Golgi aygıtı 
+(7) Hücre iskeleti 
+(8) Granülsüz endoplazmik retikulum 
+(9) Mitokondriler 
+(10) Koful 
+(11) Sitoplazma 
+(12) Lizozom 
+(13) Sentrozom içindeki Sentriyoller]]
+Koful, sitoplazmada bulunan içi sıvı dolu boşluklardır. Vakuol de denilen koful, bütün bitkiler ve mantarlar ve bazı protistalar ve hayvanlar ile bazı bakterilerde bulunur.
+Koful zarına tonoplast,koful sıvısına ise tonoplazma denir. Genç bitki hücrelerinde sayıca az ve küçük, yaşlı hücrelerde ise sayıca çok ve büyüktürler.
+3 çeşit koful vardır: besin kofulu, sindirim kofulu ve boşaltım kofulu (kontraktil (vurgan) koful). Besin kofulları sindirim, kontraktil kofulları ise su dengesini sağlamada rol alırlar.
+Koful hayvan hücresinde çok ama küçük, bitki hücresinde az ama büyüktür. Yaşlı bitkilerde koful, hücrede daha çok yer kaplar.
+Kofullar; endoplazmik redikulum, hücre zarı, golgi cisimciği veya lizozomdan oluşabilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre</DOCTITLE>
+<TEXT>
+
+Hücre ya da göze, bir canlının yapısal ve işlevsel özellikler gösterebilen en küçük birimidir. "Hücre", (İng. "Cell"); Latince "küçük odacık" anlamına gelen ""cellula"" kelimesinden Robert Hooke tarafından türetilmiştir.
+Tarihçe.
+Robert Hooke, mikroskopla incelemekte olduğu şişe mantar parçasının yanyana dizili bitişik bölümlerden oluştuğunu görmüş. Etrafları çevrili ve içleri boş olan yapılarına uygun olarak, bu yapı birimlerine "Hücre (""Cellula"") adını vermiş. Bu ismi 1665 yılında yayınladığı kitapta da kullanmıştır .
+Daha sonra 1671 yılında Grew ve 1672 yılında Malpighi, bitkilerde de aynı yapı birimlerinin olduğunu bulmuşlardır. 19. yüzyılın ortalarında "Hücre Kuramı" ortaya atılmıştır. Günümüze dek geliştirilen hücre kuramı (hücrelerin yapısını, özelliklerini, oluşumlarını vb. tanımlayan kuram) biyolojiye büyük ilerlemeler sağlamıştır.
+Yapısı.
+Atomların molekülleri, moleküllerin makromolekülleri, makromoleküllerin makromoleküler kompleksleri oluşturmasıyla, dokuların en küçük yapı taşları olan ve yaşamın tüm özelliklerini sergileyen hücreler oluşmaktadır. Genel olarak tüm hücreler temelde aynı yapıya sahiptirler. Fakat bulundukları dokuya ve dolayısıyla fonksiyonlara bağlı olarak bazı özelleşmeler gösterirler. Bitkisel ve hayvansal her organizma, bu temel yapı taşlarından oluşur.
+Hücreler, çoğunlukla bir zar içerisindeki sitoplazma ve çekirdekden meydana gelir ve ancak mikroskop yardımı ile görülebilirler.
+Hücre çeşitleri.
+Prokaryot hücreler.
+Bakteriler arkeler ve mavi-yeşil alglerdeki hücre tipleri bu gruba girer. Bunların çekirdek zarı ile çevrili çekirdekleri yoktur. Sitoplazmalarında mitokondri gibi zarlı organeller yoktur. Kalıtım maddesi olan DNA sitoplazma içerisine dağılmış durumdadır. Ribozomları vardır. Bu hücrelerin hayati faaliyetleri sitoplazmada ve hücre zarında gerçekleşir.
+<br clear=right>
+Ökaryot hücreler.
+Ökaryotlar (Lat. Eukaryota), "organel zarı" bulunduran organizmaları, dolayısıyla çekirdek materyali hücrenin sitoplazmasına dağılmamış olduğundan da gerçek çekirdeğe sahip organizmaları kapsayan canlı âlemidir. Karyon Latince'de "çekirdek" anlamını verir -eu ön takısı da "gerçek" demektir.
+Kalıtsal materyal, hücre içerisinde belirli bir zarla çevrilmiş çekirdeğin içinde bulunur. Kromozomlar DNA'dan ve proteinden oluşmuş olup, mitozla bölünürler. Ökaryotlar, sitoplazmalarında karmaşık organeller bulundururlar. Ökaryotik hücreler, Prokaryotlara göre çok gelişmişlerdir, hayvanlar, bitkiler, mantarlar ve protistler âlemlerini kapsar.
+Hücre zarı.
+"Plazma zarı" da denir. Hücreyi dış ortamdan ayıran, seçici geçirgen canlı yapıdır. Hücreyi çevreleyen birim zar ortalama olarak 75 Angström (75x10-7 mm) kalınlığındadır. Birim zar içte ve dışta birer protein tabakası ile ortada bir lipid katından yapılmıştır. Elektron mikroskobu çalışmaları, zarların lipoproteinlerden yapılmış mozaik şeklindeki fonksiyonel birimler olarak incelenmesinin daha uygun olacağını göstermektedir. Hücre zarı hücreye şekil vermekle kalmaz, besin maddelerinin ve artık maddelerin hücreye giriş çıkışını da ayarlar. Zar aynı zamanda hücrenin koruyucusudur.
+İlk bilimsel model 1935 yılında Danielli ve Dawson tarafından ortaya atılmıştır. Bu model uzunca bir süre benimsendi ancak bu model hücre zarının işleyişini açıklayamadı. 1972 yılında Singer ve Nicolson'ın akıcı-mozaik zar modeli ortaya kondu. Bu modele göre zarın yapısında %65 protein, %33 lipit, %2 karbonhidrat bulunmaktaydı.
+Hücre zarı, gözenekli ve yarı geçirgen yapıya sahiptir. Esas yapı taşları lipid ve proteinlerdir. Her hücrenin protein, yağ ve karbonhidrat oranları birbirlerinden farklı olduğu için her hücre zarı, o hücreye özgüdür. Hücreye gelen bütün kimyasal maddeler ve elektriksel iletiler hücre zarı ile alınır.Hücre zarının yapısında protein, yağ ve karbonhidrat bulunur. Hücre zarının görevleri;
+Sitoplazma.
+Hücre zarı ile çekirdek zarı arasında kalan hücre bölümünü kaplayan, homojen nitelikte, kolloidal ve devamlı değişim halinde bulunan bir eriyiktir. Sitoplazma inorganik maddeler (çeşitli iyonlar metal tuzları, asit ve bazlar), organik maddeler, (protein, yağ, karbonhidrat, nükleik asitler, hormonlar) ve %60-95 arasında değişen sudan ibarettir. Sitoplazmanın içerisinde çeşitli canlı yapılar (organeller) ve cansız yapılar (inklüzyon cisimcikleri) bulunur. Canlı hücre maddesine “protoplazma” denir. Protoplazma, yapı bakımından sitoplazma ve çekirdekten oluşur.
+Büyük oranda sudan ibaret olduğu halde ne sıvı ne de katı özellik gösterir yani kolloidal yapıdadır. Sitoplazma çözünmüş ve dağılmış tanecikler içerir. Bu çözünen taneciklerin miktarı hücre türüne göre değişiklik gösterir. İçinde bulunan genel organeller şunlardır:
+Çekirdek.
+Hücre çekirdeği yani Nükleus, tanecikli ve lifli bir yapıya sahiptir. Hücreyi yönetir. Çekirdek zarı, nükleoplazma, kromozom ve çekirdekçikten oluşmaktadır. Çekirdek zarı iki tabaka halinde ve çok gözenekli bir yapıya sahiptir. Nükleoplazma ise çekirdeğin özü olup özellikle protein ve tuzlar içerir. İşlevi hücrenin yaşamını sürdürmek ve çalışmasını düzenlemektir. Çekirdek ölecek olursa, hücre de ölür. Çekirdek ayrıca hücre ana maddesi içindeki birçok küçük organelin birbirleriyle uyumlu olarak çalışmasını sağlar. Çekirdeğin hücre bölünmesinde rolü vardır.Rolü görevi hücre bölmesi olduğu için çekirdek çok önemlidir...
+Organeller.
+Vücut için organ ne ise hücre için de organel odur. Organelle sözcüğünden dilimize girmiştir. "-elle" son eki küçültme eki olup Türkçedeki "-cık" ekinin karşılığıdır. Türkçedeki tam karşılığıyla organcık(küçük organ)
+Özellikle karmaşık yapıdaki ökaryot hücrelerde birçok organel çeşidi bulunur. Organeller mikroskobun bulunuşundan sonra gözlemlenmeye ve tanımlanmaya başlanmıştır. Bazı hücrebilimcilerin savlarına göre birçok büyük organelin endosimbiyoz bakterisinden köklendiği öne sürülür.
+Mitokondri.
+2-3 mikron uzunluğunda 0,5 mikron çapında elektron mikroskobuyla kolayca görülebilen elips biçiminde parçalardır. Sosis veya çomak biçimindedir. Mitokondrinin yapısında 2 zar bulunur. Hücrenin enerji meydana getirici üniteleridir. Hücre solunumunun sitrik asit devri (Krebs döngüsü) burada gerçekleşir. Organik moleküllerden kimyasal bağların kopmasıyla açığa çıkan enerji burada ATP şekline çevrilir.
+Lizozomlar.
+Hücrede makromoleküllerin ve maddelerin lizozomal yıkılması yaşam için önemli bir prosestir; sfingomiyelin ve karbonhidrat içeren bazı sfingolipidler hücrede az miktarda bulundukları halde bunları yıkan lizozomal enzimler kalıtsal olarak eksik olursa hücrede birikirler ve lizozomal depo hastalıkları denen çeşitli hastalık tabloları ortaya çıkar. Birçok genetik hastalıkta lizozomal enzimlerin yokluğu gösterilmiştir; etkilenmiş hücrelerde sindirilemeyen materyal hücrenin genişlemesine ve normal hücresel işlevlerin bozulmasına neden olur.
+Golgi cisimciği.
+Golgi cisimciği, aygıtı ya da kompleksi, zarımsı tüp ve keseciklerin biraraya gelmesiyle meydana gelir. Genellikle çekirdeğe yakındır. Bilhassa aktif salgı yapan bez hücrelerinde göze çarpar. Asıl görevinin, hücrenin salgıladığı proteinleri depolamak olduğuna inanılmaktadır. Paketleme ve salgı görevi yapar. Salgı bezlerinin hücrelerinde sayıları daha fazladır. Örnegin; ter bezlerinden ter, bunlar gibi örnekler. Golgi aygıtı büyük çalışmalar sonucu bulunmuştur. Açığa çıkan enerji burada ATP şekline çevrilir. Enerji üretir oksijenli solunum yapar. Enerji üretmekte kullanılır. Hücre dışında salgı yapar.
+Endoplazmik retikulum.
+Sitoplazmada besin dolaşımını, yağ ve hormon sentezini sağlayan, hücre zarı ve çekirdek zarı arasında yer almış bir sıra karışık kanallar sistemidir. Üzerinde ribozom bulunmayanlarına "taneciksiz(granülsüz) endoplazmik retikulum" denir ki, burası steroid hormon salgılayan hücrelerde steroid yapımının, diğer hücrelerde ise zehirsizleştirme olayının gerçekleştiği yerdir.Granüllü E.R üzerinde küçük tanecikli ribozomlar bulunduğu için protein sentezi,granülsüz E.R ise yağ sentezi yapar.Ayrıca besin depo etmez
+Koful (Vakuol).
+Kofullar, içleri kendilerine has bir özsu ile dolu yapılar olup bitki hücrelerinde hayvan hücrelerinden daha fazla bulunur. Genç hücrelerde küçük, yaşlı hücrelerde ise tek tek ve büyüktür. Kofullar plazmoliz ve deplazmoliz olaylarında rol oynarlar. Bir hücreli hayvanlarda, besinlerin sindirildiği besin kofulları ile fazla su ve zararlı maddelerin atıldığı, boşaltım kofullarının hücre canlılığını koruma da önemli rolleri vardır.
+Ribozom.
+Ribozomlar hücre içi protein sentezler. hücre içindeki en küçük organeldir. Hücrenin demirbaş organelidir çünkü hem prokaryot hücrede hem de ökaryot hücrede bulunur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sitoplazma Ve Organeller  (EBA)</DOCTITLE>
+<TEXT>
+
+Okula giderken her gün o makarna fabrikasının yanından geçerim. Biyoloji öğretmenimiz bugün bizi, o fabrikaya geziye götürecekmiş. Nereden çıktı şimdi bu gezi? Kim bilir bizi dönüşte hangi sorular bekliyor? En son hangi konuyu işlemiştik? Evet, hatırladım. Sitoplazma ve organeller! Bakalım ne çıkacak bu gezinin sonunda. 
+Arkadaşlarla beraber servise bindik, makarna fabrikasına doğru hareket ediyoruz. Kısa sürede ulaştık gideceğimiz yere. Bizi öncelikle kapıdaki güvenlik görevlileri karşıladı. Kapılar açıldı ve biz fabrika bahçesine girdik. Aa o da ne! Bahçede kocaman bir tanker fabrikaya yakıt bırakıyor. Önce bize fabrika bahçesindeki buğdayları depoladıkları büyük siloları gösterdiler. Demek ki tarlalardaki buğdaylar buraya geliyor. İçeride ne kadar çok insan çalışıyor. Fabrika çalışanlarından biri bize gezi boyunca eşlik etti. Önce biz buğdayın nasıl irmiğe dönüştüğünü gördük. Buradan gittikçe buğday küçük parçalara ayrılıyor. En sonunda makarna hâline dönüşüyor. Bu makarnaların bu kadar çeşitli olduğunu bilmezdim: burgu, fiyonk, spagetti, ıspanaklısı, domateslisi. Hepsi ayrı bantlardan geçerek, paketlenip tartıldı. Aa o da ne! Standardın altındaki paketler kenara ayrılıyor. Diğerleri depolanmak üzere istifleniyor ve depolara gönderiliyor. 
+Kapısında genel müdür yazan bir odadan bir bey çıkarak bize hoş geldiniz dedi. Bize refakat eden personele “Misafirlerimize ikramlarımız var. Onları yemekhaneye alalım.” dedi. Hep birlikte yemekhaneye ulaştık. Makarnaların enfes kokusunu ciğerlerimize doldurduk. Biraz da midemize çalışalım. Bizim için hazırlanan soslu makarnaları afiyetle yedik. Enerji ile dolarak okula geldik. Sorular başlıyor galiba. 
+Öğretmenimiz “Arkadaşlar bugün gittiğimiz fabrikayı hücrelerimize benzetebilir miyiz?” dedi (Resim 90). 
+Hemen atıldım. “Tabii öğretmenim hatta fabrikanın bahçe duvarlarını hücre zarına, güvenlik görevlilerini hücre zarından giriş çıkışı denetleyen yapılara benzettim.” dedim. “Sitoplazma fabrikanın bahçesi olabilir mi?” Peki, siz yeri geldikçe organelleri fabrikadaki birimlerle özdeşleştirebilir misiniz? Kapıda tanker görmüştük. Fabrikanın yakıtını taşıyordu. Bizim yakıtımız ne olabilir? 
+Sitoplazma hücre zarı ile çekirdek arasını dolduran yumurtanın akına benzer yarı akışkan sıvıdan oluşur. Peki, bu kısımda neler bulunur? Sitoplazmanın büyük bir kısmını su oluşturur. Bunun yanı sıra sitoplazmanın yapısında enzimler, vitaminler, RNA, aminoasit, glikoz gibi organik bileşikler, atık maddeler vb. bulunmaktadır. Organizma için büyük önem taşıyan organeller de sitoplazmada bulunurlar. Şimdi bu organellere bir göz atalım. 
+Ribozom ister prokaryot ister ökaryot olsun, bütün hücreler için ortak olan bir organeldir. 
+Ribozomun görevi protein sentezidir.
+Proteinler, hücrede dolayısıyla organizmada kas hareketinden sindirime, solunum gazlarının taşınmasından vücut sıcaklığının düzenlenmesine kadar pek çok olayda görevlidir. Protein sentezi olmasaydı hücredeki bütün hayatsal faaliyetler dururdu. 
+Sitoplazma içinde serbest veya endoplazmik retikuluma tutunmuş hâlde bulunurlar. Aynı zamanda mitokondri ve kloroplast gibi organellerde de bulunmaktadırlar. Ribozom zarsız organeldir. Bu organel protein ve rRNA’dan oluşur. Sayıları hücreden hücreye değişiklik göstermektedir. Genç ve sentez yapan hücrelerde daha fazladır. Örneğin insanların bazı karaciğer hücrelerinde milyonlarca ribozom bulunmaktadır. 
+Ribozom iki temel alt birimden oluşmaktadır (Resim 91). Protein sentezi sırasında bu birimler bir araya gelir. Protein sentezinin gerçekleşmediği zamanlarda ribozomun alt ve üst birimleri ayrı hâlde bulunurlar. Farklı yapıya sahip hücrelerde ribozomların temel yapıları aynı olmakla beraber boyut ve iç yapıları farklılık gösterir. Peki gezimizdeki fabrikada ribozom neresi olabilir? 
+Endoplazmik retikulum hücre zarından hücre çekirdeğine kadar uzanan kanallar sisteminden oluşmuştur. 
+Görevi madde iletimi ve bazı maddelerin depolanmasıdır. Özellikle üzerinde ribozom bulunduran endoplazmik retikulumlar proteinin taşınmasında görev alır. Tek katlı zar yapısına sahiptir (Resim 92). 
+Endoplazmik retikulum üzerinde ribozom varsa granüllü endoplazmik retikulum yoksa granülsüz endoplazmik retikulum olarak adlandırılır. 
+Granüllü endoplazmik retikulum, ribozomlar tarafından sentezlenen proteini alarak işler ve bunu golgi cisimciğine gönderir. Organizmada protein sentezinin fazla olduğu hücrelerde granüllü endoplazmik retikulumun sayısı da fazladır. 
+Karaciğerin görevinin organizmadaki zararlı molekülleri zararsız hâle dönüştürmek olduğunu biliyoruz. Bu görevi karaciğer hücrelerinde granülsüz endoplazmik retikulumun gerçekleştirdiğini biliyor muydunuz? Granülsüz endoplazmik retikulum yağ ve karbonhidrat sentezi yapan hücrelerde daha çok bulunmaktadır. Aynı zamanda kas hücrelerinde kalsiyum depo ederler. Cinsiyet hormonları ve hücre zarı yapısında bulunan yağların sentezinde de görevlidir. 
+Golgi cisimciği üretim, salgılama, paketleme ve depolama merkezi gibidir. 
+Tek kat zarla çevrili kesecikler sistemidir. Golgi cisimciği sadece ökaryot hücrelerde bulunmaktadır (Resim 93). Salgı yapan hücrelerde ve sinir hücrelerinde Golgi cisimciği iyi gelişmiştir. Kırmızı kan hücreleri ve sperm hücrelerinde bulunmaz. Golgi cisimciği hücre zarının özgüllüğünü saptamada önemli görev alır. 
+Golgi cisimciğinin görevini yapamaması hangi sağlık sorunlarına yol açar? Örneğin tükürük bezinden salgılanan tükürüğün azalması ağız kuruluğuna yol açar. Tükürüğün salgılanmasında da golgi cisimciği etkilidir. Pankreas gibi enzim ve hormon salgılayan yapılarda da golgi cisimciği büyük önem taşımaktadır. Pankreas hücrelerindeki golgi cisimciğinde sentezlenen sindirim enzimleri salgı keseciklerinde depolanır. Sindirim enzimleri, ihtiyaç duyulduğunda ekzositoz ile hücre dışına verilmektedir. 
+Fabrikamızı düşünelim. Golgi cisimciğini hangi birim ile özdeşleştirebiliriz? 
+Lizozom hücre içi sindirimde görevlidir. 
+Lizozom içerisinde sindirim enzimleri bulunur. Hücre içi sindirimde görevlidir. Hücre içerisine endositoz ile alınan besinler lizozom ile birleşerek sindirim kofuluna dönüşmektedir. Sindirilen besinlerin yapı taşları sitoplazmaya geçmektedir. Lizozomlardaki enzimler sayesinde hücre içinde bazen yıpranan organeller yutulmaktadır. Bu sayede hücre yenilenmesi de sağlanır. Lizozom tek kat zarla çevrilidir. Bu zar zarar görürse neler olur? İçerisindeki enzimler hücre içine dağılır. Hücrenin kendi kendini sindirmesine yol açar. Bu olaya otoliz denilmektedir. Embriyonik gelişim sırasında parmak arasındaki perdeleri oluşturan hücrelerde bulunan lizozom içindeki enzimler, kontrollü hücre ölümlerini başlatarak bu perdeleri ortadan kaldırır (Resim 94). İlerleyen yaş ile birlikte aynı enzimin sindirim sonucu oluşan atık maddelerinin tamamı hücre dışına atılamayarak bir kısmı hücre içinde birikmektedir. Bu durum hücrenin yaşlanmasına yol açar. Yaşın ilerlemesiyle insanın ellerinde ve vücudunda yaşlılık lekeleri bu şekilde meydana gelmektedir. 
+Fabrika örneğini düşündüğümüz de lizozomu hangi olay ile özdeşleştirebiliriz (Resim 95). 
+Mitokondriler hücrenin enerji santralleridir ya da başka deyişle ATP üretim merkezidir. 
+Ökaryot hücrelerde enerji çoğunlukla mitokondride, besinlerin yapı taşlarının hücresel solunum yardımıyla yıkılması ile elde edilmektedir (Resim 94). Memelilerde olgun alyuvarlarda mitokondri bulunmaz. 
+Mitokondri çift zarlı bir organeldir. Dıştaki zar düz, içteki zar ise kıvrımlıdır. Krista adı verilen iç zar kıvrımları yüzey alanının genişlemesini sağlamaktadır (Resim 97). Bu sayede oksijenli solunum hızlanmaktadır. Enerji üretimi fazla olan hücrelerde krista sayısı fazladır. 
+Örneğin, kalp kas hücrelerinin krista sayısı, karaciğer hücrelerinin krista sayısından 3 kat fazladır. Mitokondrinin iç kısmı matriks olarak adlandırılan ve içerisinde DNA, RNA, ribozom ve solunum enzimlerinin bulunduğu bir sıvı ile doludur. 
+Mitokondrinin kendine özgü ribozom, RNA ve DNA’sı bulunur. DNA’larındaki bilgi sınırlı olduğundan çekirdek DNA’larının kontrolünde bölünürler (Resim 98). 
+Hatırlarsanız fabrikamızda yakıtı tankerler getiriyordu. Bütün diğer işlerin yapılabilmesi için fabrika gibi bizim de enerjiye ihtiyacımız var. Biz de ihtiyaç duyduğumuz enerjiyi yediğimiz besinlerden karşılıyoruz. 
+Plastidler bitki hücrelerine rengini veren organellerdir. Alglerde de bulunur. Renklerine göre üçe ayrılırlar: kloroplast, kromoplast, lökoplast. Plastidler bulundurdukları renk maddesi ve görevlerine göre birbirlerine dönüşebilir. 
+Kloroplastlar klorofil taşırlar. Yeşil renklidirler. Fotosentezin yapıldığı organellerdir (Resim 99). 
+Bitkilerde yaprak, dallar, otsu gövde ve meyvelerde bulunur. Kendine özgü DNA, RNA ve ribozomu vardır. Çekirdeğin kontrolünde kendini eşleyebilir ve protein üretir. Çift zarlıdır. Yapısındaki klorofiller güneş ışığının soğurulmasını sağlar. Kloroplastın içini dolduran sıvıya stroma denir. Kloroplastlarda ATP de sentezlenebilir. Fakat burada sentezlenen ATP’ler sadece fotosentez tepkimelerinde kullanılır. 
+Kromoplast, bitkilerde yeşil dışındaki diğer renk pigmentlerini taşır (Resim 100). Bitkinin çiçek, meyve ve yaprak gibi kısımlarında bulunur. 
+Kromoplasta kırmızı renk veren likopen, sarı renk veren ksantofil, turuncu renk veren madde ise karoten olarak adlandırılır (Resim 101). 
+Lökoplast renksiz plastittir. Görevi bitkinin kök, toprak altı gövde, tohum gibi organlarında nişasta, protein, yağ gibi besinleri depolamaktadır (Resim 102). Lökoplastlar bazı durumlarda (gün ışığında) renk kazanarak diğer pigmentlere dönüşebilirler. 
+Kofulun temel görevi depolamadır. Bununla birlikte farklı hücre tiplerinde farklı yapı ve görevler üstlenmektedir. Tek kat zarla çevrilidir. Bitki hücrelerindeki merkezi koful hücrenin büyümesi ve korumasında görevlidir. 
+Aynı zamanda depolama ve atıkların uzaklaştırılmasından da sorumludur. Olgun bitki hücrelerinde büyük bir merkezi koful bulunur. Bitki hücrelerindeki kofullar büyük ve az sayıdadır. Hayvan hücrelerinde ise kofullar küçük ve çok sayıdadır. Genç bitki hücrelerindeki kofullar daha küçük, yaşlı bitki hücrelerindekiler ise daha büyüktür. 
+Besin kofulları fagositoz ile oluşmaktadır. Tatlı sularda yaşayan protistler (Protist kelimesinin çoğulu protistadır.) fazla suyu hücre dışına kontraktil koful ile atar (Resim 103). 
+Fabrikamızı düşünelim. Acaba koful fabrikamızın neresi ile özdeşleştirilebilir? 
+Hücre iskeleti, hücreye şekil verir ve destek sağlar. 
+Aynı zamanda hücre içi organizasyondan sorumludur. Biyologlar çok önceleri hücre iskeletinin varlığından habersizdi. Sitoplazma içerisinde organellerin yüzdüğünü düşünüyorlardı. Araştırma ve görüntüleme tekniklerinin gelişmesi (elektron mikroskobu ve çeşitleri) sonucunda, hücrelerin daha kompleks yapılar olduğu ortaya konulmuştur. Bu yapılar sayesinde hücre şekli korunmakta ve hücre hareketi sağlanmaktadır (Resim 104). 
+Sentrozom hücre bölünmesinde görev alır. 
+Sentrozom bir çift sentriolden oluşur. Sentrioller hücre bölünmesi öncesinde eşlenerek iki katına çıkar. Bölünme başladığında birer çift halinde hücrenin zıt kutuplarına geçerek iğ ipliklerini oluşturur. Hücre bölünmesi sırasında kromozomlar iğ ipliklerine tutunarak zıt kutuplara hareket eder. 
+Olgun alyuvar, yumurta ve sinir hücrelerinde sentrozom bulunmaz (Resim 105). Bu hücrelerde bölünme de gerçekleşmez. Yosun, eğrelti ve ginkgo (Ginkgo biloba-Cingi biloba) dışındaki bitki hücrelerinde sentrozom bulunmaz. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Başkalaşım (Metamorfik) Kayaçları Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Metamorfik kayaçlar, bir kayacın sıcaklık ve basıncın etkisi ile bir başka kayaca dönüşmüş hâlidir.
+Metamorfik kayaçlar, tortul ya da püskürük kayaçların değişikliğe uğraması sonucunda meydana gelir. Bu değişiklikler, kayaçların yüksek basınç ve sıcaklık altında kalması sonucunda oluşur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tortul Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Taşınan malzemeler akarsu, göl, deniz ve okyanus tabanları ile çukur alanlarda tabakalar hâlinde biriktirilir. Bu tabakalar zaman içinde sıkışarak tortul kayaçlara dönüşür.
+Yeryüzünü oluşturan kayaçlar dış kuvvetler (akarsular, rüzgârlar, buzullar, dalga ve akıntılar gibi) tarafından ufalanır ve taşınır.
+Tortul kayaçların en önemli özelliği, oluştukları dönemlere ait bitki ve hayvan kalıntıları olan fosillere sahip olmalarıdır.
+Bitki parçaları kalın ve geçirimsiz tortullar arasında veya su içinde kalır. Bu parçacıklar zaman içerisinde bakterilerin de etkisiyle karbon bakımından zenginleşir. Böylece organik tortulların en tipik örneği olan kömür oluşur.
+Karbonlu organik tortulların sıvı olanları ise petrolü oluşturur. Oluşumu kömür ile benzerlik gösteren petrol, jeolojik geçmişte yaşamış bitki ve hayvan kalıntılarının oksijensiz denizel bir ortamda sıcaklık, basınç ve organizmaların etkisi ile değişime uğraması sonucu meydana gelir.
+Kireç taşı mağaraları karstik şekillerden biridir. Bu mağaralar, kalkerli arazi içinde suların eritme ve aşındırması sonucu meydana gelen yer altı boşluklarıdır.
+Kayaköy Polyesi (Fethiye- Muğla) kireç taşının erimesi sonucu gelişmiş bir karstik yüzey şeklidir.
+Yandaki harita, “Coğrafi Bilgi Sistemleri” ile hazırlanmış “Sayısal Yükselti Modeli” olup Kayaköy Polyesi'nin yüzey şekli özelliklerini göstermektedir. Yeşil renk, polye tabanı olup verimli tarım arazilerini; diğer renkler ise yükseltileri belirtmektedir.
+Aşağıdaki harita Kayaköy Polyesi’nin kayaç özelliklerini göstermektedir. Mavi renk; kireç taşını, açık gri renk; alüvyonu temsil etmektedir. Düz ve kesik çizgiler dikliklere işaret etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Püskürük Kayaçlar Nasıl Oluşur? (EBA)</DOCTITLE>
+<TEXT>
+
+Lavlar havayla temas edince hızla soğuduğu için ince kristalli veya camsı bir özellik gösterir.
+Magmanın volkanik faaliyetler sonucu yeryüzüne çıkmasıyla dış püskürük kayaçlar oluşur.
+Soğuma yavaş olduğu için iç püskürük kayaçlar iri unsurlu olur.
+Magmanın; yer kabuğunun farklı derinliklerindeki taş ve tabakaların arasına sokularak yavaş yavaş soğumasıyla “iç püskürük” kayaçlar oluşur.
+Bir iç püskürük taşı olan granit, kendine özgü yüzey şekillerini oluşturması ile diğer kayaç türlerinden ayrılır. Granitin bu özelliği, onu oluşturan elementlerin özellikleri, kayacın çatlaklı olup olmadığı ya da ne derece çatlaklı olduğu ile ilgilidir. Çatlaklı olması granitin ayrışma şiddetini artınr.
+Kütle hâlindeki granitler, fiziksel ve kimyasal ayrışmaya uğradıklarında değişik boyut ve şekillerde bloklara dönüşür. Granitlerin ayrışması sonucu yer yer birbiri üzerinde irili ufaklı ve köşeleri yuvarlaklaştırılmış bloklardan oluşan bir topoğrafya şekli meydana gelir. Buna tor topoğrafyası denir.
+Tor topoğrafya şekillerinde, kayacın özelliklerinin yanı sıra iklim şartları da etkilidir. Sıcak ve nemli iklim bölgelerinde kimyasal ayrışma ve çatlak yoğunluğunun etkilerine bağlı olarak onu oluşturan kuvars, feldspat ve mikaya ayrışır. Bu bölgelerde dik yamaçlarda granit kütleleri dik duvarlar ya da küt-leleşmiş bloklar hâlinde bulunur. Günlük sıcaklık farklarının fazla olduğu, fiziksel parçalanmanın ön plana çıktığı yüksek dağlık sahalarda ise yüzey şekilleri keskin kenarlı, köşeli dikliklerden oluşan sarp bir görünüm alır. Burada oluşan ayrışma ürünleri irili ufaklı granit parçalarıdır.
+Tüfler, volkanlardan çıkan ince boyutlu malzemelerin (özellikle küllerin) oluşturduğu kayaçlardır. Açık renklidir ve çok kolay aşınır. Volkanik tüfler, yurdumuzda Nevşehir-ürgüp-Göreme yöresinde karakteristik yüzey şekillerinin gelişmesine neden olmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Vitiligo</DOCTITLE>
+<TEXT>
+
+Vitiligo dış derinin renk kaybına uğramasıyla oluşan beyaz plaklarla seyreden bir deri hastalığıdır. 
+"Modern Tıp Vitiligo için gereken tedavi uygulandığında geçen iyileşen bir hastalık olarak görmektedir"
+Her beyaz leke vitiligo değildir. Vitiligo olduğu düşünülen rahatsızlık da vitiligo olmayabilir. Özellikle, sıkıntılı stresli bir süreçten geçmek, vitaminsizlik-gerekli gıdanın alınamaması, antibiyotik ilaç tedavileri, ağrılı, ateşli hastalıklar, uyku bozukluğu ve psikolojik bunalım bu hastalığı tetiklemektedir.
+Vitiligo Nasıl Oluşur?
+Vitiligo'da bağışıklık sistemimiz yanlış programlanarak, ciltte bulunan dost melanositleri, yani cilde renk veren hücreleri görevini kısıtlaması ile başlayan bir süreçtir. 
+Problemli olan bölgelerde cilde rengini veren melanositlerin kısıtlanması nedeniyle tüyler ve kıllarda da beyazlık görülür. Beyaz renge dönüşen bölgeler çeşitli büyüklüklerde olabilir. Kimi zaman görünmeyecek kadar küçük olan bu bölgeler, kimi zaman çok daha büyük boyutlara ulaşabilir ve hatta derinin büyük bir bölümünü etkilemiş olabilir. 
+Sıklıkla vücudun yüz, dudak, boyun, göğüs, penis, diz, dirsek ve el ve kol bölgelerinde görülür. 
+Problemli olan bölgeler güneş sonucu oluşan ultraviyole ışınlara karşı diğer bölgelerden daha hassas olurlar. Hastalıklı kişilerde güneş yanıklarından, veya alınabilecek herhangi bir darbelerden sonra yeni vitiligo bölgeleri oluşabilir. Vitiligo hastalığı birçok hastalıkla (tiroid, kansızlık vs.) beraber aynı anda görülebilinir.
+Vitiligo'da hastalıklı bölgeler güneşin etkisiyle çevredeki sağlıklı renk melanosit hücreleri bronzlaşınca ortaya çıkar. 
+Yani güneş vitiligoya neden olmaz sadece belirgin hale gelmesini sağlar.
+Vitiligo Ne Sıklıkla Görülür ?
+Toplumda görülme sıklığı %1 ile %4 arasındadır. Vücutta oluşan her beyaz leke kişinin vitiligo hastalığına yakalandığı anlamına gelmez. Bu ayrımın yapılabilmesi için hastalıkla ilgili bir uzman doktor muayenesi şarttır. Birçok farklı rahatsızlığa bağlı lekeler vitiligo hastalığı sonucu oluşan lekeler ile karışabilir. Bu hastalık, otoimmun kökenli olup hastanın vücudundaki renk oluşumunu sağlayan hücrelere (melanosit) karşı hastanın vücudundaki bağışıklık sistemi hücrelerinin saldırısı ile başlar.
+Vitiligo Kalıtsal (Irsi) bir hastalık mıdır ?
+Hayır değildir ! Özellikle hastalığın veya hastalığı taşıyan bireylerinde ailesinde bu hastalığın bulunması, kişilerde olası, fakat kesin değildir. 
+Vücudun bağışıklık sisteminin çeşitli nedenlerle aktifleştiği anlarda ve farklı hastalık dönemlerinde vitiligonun başlaması ve artması daha olasıdır.
+Modern Tıp Vitiligo için kalıtsal olmayan ve iyileşebilen bir hastalık olarak görüyor. 
+Bu kişiden kişiye değişse bile çevre faktörleri veya kronik başka rahatsızlıkların da tekiklediği pigment kaybı çeşitli ilaçlarla takviye edilmeli ve alanında uzman bir dermatologa görünülmelidir.
+Vitiligoda Tedavi Nasıl Uygulanır ?
+Bazı kişilerde vitiligo teşhisi yanlış konulmaktadır. Kendi alalında uzman kişiler de bazen bu yanılgıya düşmektedir. Çeşitli tahliller yapılmalı ve deride pigment kaybının ne derecede olduğu tespit edilmelidir. Her beyaz leke vitiligo değildir. Belirli bir zamanda sıkıntı veya stresli bir dönem geçiren kişiler de deri döküntüsü yaşayabilir, veya kullanılan çeşitli ilaçların yan etkisiyle de deri döküntüsü meydana gelebilir. Vitaminsizlik, iştah kaybı, uyku bozukluğu da bu hastalığı tetikleyen etmenlerdendir. 
+Bu rahatsızlıtan şikayetçi olan kişiler alanında uzman bir dermatoloğa gitmeli ve tahlil yaptırmalıdır. Özellikle T3 ve T4 Troid hormonlarınına bakılmalıdır; gerekli görüldüğü taktirde beyaz bölgeden biyopsi alınarak bölgedeki pigment kaybına bakılmalıdır. 
+Özellikle B12 ekstra vitamin ihtiyacı tamamlanmalı, kişinin kan seviyesi düzenli olmalı, kansızlığı önleyen iştah açıcı besinler tüketmelidir.
+Uzman doktorlar hastaya göre çeşitli tedavi yöntemleri uygulamaktadır. 
+En sık başvurulan yöntem UVA, UVB ve Darband (Işın tedavisi) yöntemleridir. Işığın deriye nüfuz ederek hücrelerin uyarılması ve pigmentlerin aktifleştirilmesi amaçlanmaktadır.
+Modern tıp her geçen gün ilerlemektedir. Bazı otoriteler gelecek yıllarda insanın, saç rengini değiştirebildiği gibi cilt rengini de sık sık değiştirebileceğini iddia etmektedir.
+Vitiligo Tedavi Olabilen Bir Hastalıktır..
+Vitiligo tedavisi mümkün olan iyileşen bir cilt problemidir. Ancak hasta düzenli olarak tedavi şartlarına uyduğunda gerçekleşebilir. 
+Bazı dermatologlar güneşin en yoğun saatlerinde dışarı çıkmamayı öneriyor. Bazıları ise çeşitli kremlerle vücudun sorunlu olan bölgelerine sürülüp yeterli süreyle güneşe maruz bırakılması gerektiğini öneriyor. Böylelikle güneş renk melanosit hücrelerini tetikleyecek ve pigment oluşumunu sağlayacaktır. Dermatologunuz vitiligo hastalığınızın yaygınlığına ve sürecine göre sizin için uygun tedaviyi planlayacaktır.
+Hastalığın Tedavi Yöntemleri.
+Dünya'da çeşitli dermatolog bilim adamlarının çeşitli başarılı yöntemleri vardır yalnız bunlar henüz deneme aşamasında olduğundan dolayı pek bilinmemektedir yakın bir zaman içersinde bu sıkıntının kalkacağını ve insanların normal kendi derisine sahip olabileceği söylenmektedir.
+Vitiligo'da Toplumsal Farklılıklar.
+Yalnız özellikle asya ülkelerinde koyu tene sahip olan halk cildini beyazlatmak için çeşitli yöntemler denemiştir sebep açık tenli insanların toplumun üst kısmında olduğu ve zenci koyu tene sahip olan insanların daha alt tabakada olduğu ırkçılık ve ayrımcılık yapıldığı inanılırdı .
+Siyahi ırkda 1000 kişide yalnızca 1 görülen vitiligo koyu tene sahip olan asyalılar için tanrının onlara verdiği güzel bir hediye olarak düşünülürdü
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bilinç</DOCTITLE>
+<TEXT>
+
+Bilinç, 
+Tanımlaması daha çok doğrudan olmasından ziyade dolaylı yollardandır (farkındalık gibi) ve birçok farklı şeyi ifade edebildiği için zordur. Çünkü bilinç ağırlıklı olarak kişisel bir deneyimdir. “Canlı maddenin öğretimini denetleyen özel bir öğretmendir, bazen yeterince eğitilmiş olan öğrencisi, öteki görevleriyle uğraşmak için yalnız bırakır” şeklinde basit ve anlamlı tanımlamaları da varsa da, “bir kişinin kendi varlığının/var oluşunun, duyularının, düşüncelerinin, çevresinin farkında olması” olarak da tanımlanır. İç durumumuzu sorgulayarak bir şeylerin farkında oluruz ve bilinçli bir varlık olduğumuzu hissederiz ve bilincin en önemli noktası da budur. Bilinç, çoğu kez "farkında olma, farkındalık" ile aynı anlamda kullanılır. Yani bilinçli kabul edilen varlıkların “nesnel/dışsal gözlem” ve “öznel/içsel gözlem”leri vardır. Öznelci kuramların tuzağına düşmemek elde değildir. Bilincin bütün tanımları temelde hep aynı gibidir. Ama her tanım “eski bir şişede yeni bir şarap gibi” sunulur. Ya da bazıları “görüntüyü kurtarmak” adına öne sürülmüşlerdir. Tanımı yapacak bir doctor universalis (evrensel bilgin) bulmak mümkün değildir. Ya da bekleyeceğimiz ani bilgisizlikten, ani bilgili bir duruma geçme, ani bir kavrayış (anagnoresis) mümkün gözükmemektedir.
+Öznelcilik.
+İçsel, kişiye ait olan öznel bakış açısıyla bakıldığında bilincin bazı özellikleri tamamen başka biri tarafından değerlendirilemez. Her zaman öznel olan “görüyorum, hayal ediyorum, inanıyorum, düşünüyorum” gibi kendi içselliğimize ait ifadeler kullanırız. Bütün bunlar, öznel yapımızla birlikte geçmiş ve geleceği göz önüne alarak, geçmiş deneyimlerimizin sentezinden oluşurlar. Bu zamana bağlı yerleşik durum belleğimizle de yakından ilişkilidir. Bu yönüyle bakıldığında bilinç, diğer bir kişiye içselliğimizi aktarım için öznel dil ile sıkı sıkıya bağlantılıdır.
+Felsefeci Daniel Dennett bilinci, beynin değişik bölgelerinin aynı anda değişik işler yaptığı ve olayları kendine göre yorumladığı yaratıcı kargaşa olarak kabul eder. Ortada tek ve doğru bir yorum yoktur. Bilinci kafalarının içinden dışarıya bakarak anlamaya çalışan bir insan olarak tanımlayan düşünceleri eleştirir. "Belki de, bir tanım bulmaya çalışmamalıyız" der. Bu çeşitlilik göz önüne alındığında tanım yanıltıcı da olabilir. Dolayısıyla kesin bir tanımdan uzak durabiliriz. Çünkü esas problem, bir yirminci yüzyıl sorunu olan bilinci, modası geçmiş on dokuzuncu yüzyıl terimleriyle tartışmamızdan kaynaklanmaktadır.
+Bilinç hakkında bugünkü tartışma David Chalmers tarafından öne sürülen ve ayrımı yapılan bilincin “kolay” ve “zor” problemleridir. Kolay problem, bilinç deneyimi olmaksızın sinir hücresel olayların doğasını anlamadır. Bir dereceye kadar bu soru yanıtlanmıştır. Bunlar arasında, "beyinde paralel bilgi işleme nasıl oluşur?" "Bellek nasıl depolanır ve geri çağrılır?" Seçici dikkatte hangi mekanizmalar devreye girer? gibi sorulara kısmen yanıtlar oluşturulmuştur. Zor soru ise, bilincin genel açıklamasını içerir. Nasıl fiziksel dünyadan bilinç doğar? Niçin bazı sinir hücresel olaylar bilinçli deneyimle sonuçlanırken, diğerleri sonuçlanmaz? Ve en önemlisi de bilinç denilen şey nedir?
+Fizikçi Roger Penrose’a göre bilinç, fiziksel olarak yanına yaklaşılması gereken ve bilimsel bir kavramdır. Tanımlamadan ziyade tarif edilmesinin daha uygun olacağını belirterek, aktif ve pasif olarak iki parçaya ayırır. Renk ve armonilerin algılanmasını farkındalıkla birlikte pasif olarak kabul ederken, bilincin özgür irade ile iş görme yeteneğini de aktif kısmı olarak ele alır. Anlayışı bu ikisi arasına yerleştirir ve farkındalıkla anlayışın ayrılamayacağını, eğer farkındalık olmazsa anlayıştan bahsetmenin anlamsız olduğunu belirtir. Bilincin tanımını da farkındalıkla eşanlamlı olarak kabul eder. Yine zekâyı da anlayışa bağlar.
+Aktif-Pasif.
+Aktif ve pasif bilinç yanında, değişik ayrımlar da vardır. Birincil ve yansıtıcı (reflective) bilinç arasında keskin bir ayrım da bunlardandır. Birincil bilinç daha basittir ve duyusal uyarıların farkındalığı ile birliktedir. Bu tür bilinç, beyinde bazı işlemlerin bilinçli bazılarınınsa bilinçaltı aracılığı ile nasıl yapıldığını anlatır. Yansıtmalı bilinç ise benlik ile ilişkilidir ve “ben” veya “benim, kendim” temsiliyeti ile ilgili bir kavramdır.
+Fenomenal-Psikolojik.
+Bir ayrımda; fenomenal ve psikolojik bilinç arasında yapılır. Fenomenal bilinç “bazı fenomenal kalitenin varlığını ifade eder, yani “birincil kişi” deneyimini yansıtır; hâlbuki psikolojik bilinç; uyanıklık, içgörü, aktarabilirlik, kendi–bilinci, bir şeye dikkat veya bilgisini (farkındalığı) ifade eder. Felsefi bakış açısı ile fenomenal bilinci açıklamak çok zordur. Yani bu Thomas Nagel’in sorduğu “(Yarasa)…gibi olmak nasıl bir şeydir?” sorusunun yanıtını vermek anlamına gelir. Özel olarak hissedilen “ben” bilincin temel kavramıdır.
+Birçok durumda felsefede kullanılan bir terimle ne denmek istendiğini anlamamıza rağmen anlamının duru bir açıklamasını vermeyi ya da onu tam olarak tanımlamayı başaramayabiliriz. “Bilinç-zihin/beyin-beden” ya da kısaca simgesel olan “psi/phi” sorununun geçmişine uzanmak istediğimizde, genellikle beklediğimizden ifadelerden farklı olarak “ruh/beden” ilişkisi hakkında yapılan değerlendirmeler ve adlandırmalar göze çarpar. Çoğu felsefeci hem antikçağda hem de modern felsefenin doğumu sıralarında bedenden farklı olan ve genellikle karşıtında bulunan “bir şey” için farklı tanımlamalar ve adlandırmalar kullanmışlardır: pneuma, öz, töz, tin, can, ruh, nefs, maneviyat, akıl gibi... “Sık sık şaşırır ve genellikle kullanımda olan sözcüklerin duru ve belirli anlamlarını elde etmede güçlüklere düşeriz” der Berkeley. Yanlışa neden olan “şey” ya da “töz” kelimesinden ziyade anlamları üzerine düşünme tutumudur diyerek “sözcüklerin anlamını bir karara bağlamak istiyorum” ifadesi ile çözüm sunmaya çalışır. Berkeley “Terimler bir ölçüde konuşmayı kısaltmak için ortak alışkanlık tarafından yaratılmışlar ve bir ölçüde de öğretim amacıyla düşünülmüşlerdir... Gerçeklik arayışında doğru olarak anlamadığımız terimler tarafından yanlışa düşürülmemeye dikkat etmeliyiz... Neredeyse tüm felsefeciler uyarıda bulunurlar ve çok azı ona dikkat eder” der.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

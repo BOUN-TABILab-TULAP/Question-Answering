@@ -1,0 +1,8 @@
+1	Erkeklerde	erkek	Noun	Noun	A3pl|Pnon|Loc	6	LOCATIVE.ADJUNCT	_	_
+2	_	üre	Verb	Verb	Pos	3	DERIV	_	_
+3	üreme	_	Noun	NInf	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	sistemi	sistem	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT	_	_
+5	nelerden	ne	Pron	QuesP	A3pl|Pnon|Abl	6	MODIFIER	_	_
+6	oluşur	oluş	Verb	Verb	Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

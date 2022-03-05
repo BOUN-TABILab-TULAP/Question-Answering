@@ -1,0 +1,50 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Akarsuların	akarsu	+Noun+A3pl+Pnon+Gen
+Akarsuların	akarsu	+Noun+A3pl+P2sg+Nom
+
+taşıdığı	taşı+Verb+Pos^DB+Adj+PastPart+P3sg
+taşıdığı	taşı+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+su	su	+Noun+A3sg+Pnon+Nom
+
+miktarı	miktar	+Noun+A3sg+P3sg+Nom
+miktarı	miktar	+Noun+A3sg+Pnon+Acc
+
+yıl	yıl+Noun+A3sg+Pnon+Nom
+yıl	yıl+Verb+Pos+Imp+A2sg
+
+içinde	iç+Noun+A3sg+P2sg+Loc
+içinde	iç+Noun+A3sg+P3sg+Loc
+
+nelere	ne	+Pron+Ques+A3pl+Pnon+Dat
+
+bağlı	bağ+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+olarak	ol	+Verb+Pos^DB+Adverb+ByDoingSo
+
+değişir	değiş+Verb+Pos+Aor+A3sg
+değişir	değiş+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

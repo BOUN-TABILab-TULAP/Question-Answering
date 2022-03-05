@@ -1,0 +1,110 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Katı haldeki yer kabuğunun sıvı haldeki manto üzerinde batmadan kalabilmesine ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(10661, {label: "Katı",nodeclass: "type-TK"});
+ g.addNode(10662, {label: "hal",nodeclass: "type-TK"});
+ g.addNode(10663, {label: "haldeki",nodeclass: "type-TK"});
+ g.addNode(10664, {label: "yer",nodeclass: "type-TK"});
+ g.addNode(10665, {label: "kabuğunun",nodeclass: "type-TK"});
+ g.addNode(10666, {label: "sıvı",nodeclass: "type-TK"});
+ g.addNode(10667, {label: "hal",nodeclass: "type-TK"});
+ g.addNode(10668, {label: "haldeki",nodeclass: "type-TK"});
+ g.addNode(10669, {label: "manto",nodeclass: "type-TK"});
+ g.addNode(10670, {label: "üzerinde",nodeclass: "type-TK"});
+ g.addNode(10671, {label: "bat",nodeclass: "type-TK"});
+ g.addNode(10672, {label: "batmadan",nodeclass: "type-TK"});
+ g.addNode(10673, {label: "kal",nodeclass: "type-TK"});
+ g.addNode(10674, {label: "_",nodeclass: "type-TK"});
+ g.addNode(10675, {label: "kalabilmesine",nodeclass: "type-TK"});
+ g.addNode(10676, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(10677, {label: "de",nodeclass: "type-TK"});
+ g.addNode(10678, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(10679, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,10661,10662,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10662,10663,{label: "TÜREME"});
+ g.addEdge(null,10663,10665,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10664,10665,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,10665,10670,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,10666,10667,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10667,10668,{label: "TÜREME"});
+ g.addEdge(null,10668,10670,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10669,10670,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,10670,10671,{label: "DE HALİ"});
+ g.addEdge(null,10671,10672,{label: "TÜREME"});
+ g.addEdge(null,10672,10674,{label: "NESNE"});
+ g.addEdge(null,10673,10674,{label: "TÜREME"});
+ g.addEdge(null,10674,10675,{label: "TÜREME"});
+ g.addEdge(null,10675,10678,{label: "ÖZNE"});
+ g.addEdge(null,10676,10678,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,10677,10678,{label: "TÜREME"});
+ g.addEdge(null,10678,10679,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

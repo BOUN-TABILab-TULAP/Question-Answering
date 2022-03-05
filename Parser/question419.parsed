@@ -1,0 +1,11 @@
+1	Hangi	hangi	Adj	Adj	_	2	MODIFIER	_	_
+2	solunumu	solunum	Noun	Noun	A3sg|Pnon|Acc	3	OBJECT	_	_
+3	_	yap	Verb	Verb	Pos	4	DERIV	_	_
+4	yapan	_	Adj	APresPart	_	5	MODIFIER	_	_
+5	organizmaların	organizma	Noun	Noun	A3pl|Pnon|Gen	6	POSSESSOR	_	_
+6	kanında	kan	Noun	Noun	A3sg|P3sg|Loc	9	LOCATIVE.ADJUNCT	_	_
+7	solunum	solunum	Noun	Noun	A3sg|Pnon|Nom	8	CLASSIFIER	_	_
+8	gazları	gaz	Noun	Noun	A3pl|P3sg|Nom	9	OBJECT	_	_
+9	taşınmaz	taşınmaz	Noun	Noun	A3sg|Pnon|Nom	10	SENTENCE	_	_
+10	.	.	Punc	Punc	_	0	ROOT	_	_
+

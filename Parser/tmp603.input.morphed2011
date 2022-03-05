@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Hamilelikte	hamile	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+Hamilelikte	hamile	+Adj^DB+Noun+Ness+A3sg+Pnon+Loc
+
+bebeğin	bebek	+Noun+A3sg+P2sg+Nom
+bebeğin	bebek	+Noun+A3sg+Pnon+Gen
+
+gelişimini	gelişim+Noun+A3sg+P2sg+Acc
+gelişimini	gelişim+Noun+A3sg+P3sg+Acc
+
+olumsuz	olumsuz	+Adj
+
+etkileyen	etkile	+Verb+Pos^DB+Adj+PresPart
+
+faktörler	faktör+Noun+A3pl+Pnon+Nom
+faktörler	faktör+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

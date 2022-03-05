@@ -1,0 +1,9 @@
+1	Adres	adres	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	sistemi	sistem	Noun	Noun	A3sg|P3sg|Nom	3	OBJECT	_	_
+3	ile	ile	Conj	Conj	_	5	COORDINATION	_	_
+4	coğrafi	coğrafi	Adj	Adj	_	5	MODIFIER	_	_
+5	koordinatlar	koordinat	Noun	Noun	A3pl|Pnon|Nom	7	SUBJECT	_	_
+6	nasıl	nasıl	Adv	Adv	_	7	MODIFIER	_	_
+7	benzeşmektedir	benzeş	Verb	Verb	Pos|Prog2|A3sg|Cop	8	SENTENCE	_	_
+8	.	.	Punc	Punc	_	0	ROOT	_	_
+

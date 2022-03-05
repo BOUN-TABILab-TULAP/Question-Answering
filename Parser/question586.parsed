@@ -1,0 +1,10 @@
+1	Cinsel	cinsel	Adj	Adj	_	2	MODIFIER	_	_
+2	ilişki	ilişki	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	yoluyla	yol	Noun	Noun	A3sg|P3sg|Ins	5	MODIFIER	_	_
+4	_	bulaş	Verb	Verb	Pos	5	DERIV	_	_
+5	bulaşan	_	Adj	APresPart	_	6	MODIFIER	_	_
+6	hastalıklar	hastalık	Noun	Noun	A3pl|Pnon|Nom	8	SUBJECT	_	_
+7	_	ne	Pron	QuesP	A3pl|Pnon|Nom	8	DERIV	_	_
+8	nelerdir	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

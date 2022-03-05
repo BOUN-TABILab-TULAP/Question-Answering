@@ -1,0 +1,49 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Osmanlı	Osman	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With
+Osmanlı	Osmanlı+Noun+Prop+A3sg+Pnon+Nom
+
+devletinde	devlet	+Noun+A3sg+P2sg+Loc
+devletinde	devlet	+Noun+A3sg+P3sg+Loc
+
+ilk	ilk	+Adverb
+ilk	ilk	+Adj
+
+nüfus	nüfus+Noun+A3sg+Pnon+Nom
+
+sayımı	sayı+Noun+A3sg+P1sg+Acc
+sayımı	sayım+Noun+A3sg+P3sg+Nom
+sayımı	sayım+Noun+A3sg+Pnon+Acc
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+zaman	zaman	+Noun+A3sg+Pnon+Nom
+
+yapılmıştır	yap	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+yapılmıştır	yap	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

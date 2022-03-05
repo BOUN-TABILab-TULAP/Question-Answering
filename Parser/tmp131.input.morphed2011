@@ -1,0 +1,49 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Günümüzde	gün+Noun+A3sg+P1pl+Loc
+Günümüzde	günü+Noun+A3sg+P1pl+Loc
+
+internetin	internet	+Noun+A3sg+P2sg+Nom
+internetin	internet	+Noun+A3sg+Pnon+Gen
+
+ticaret	ticaret	+Noun+A3sg+Pnon+Nom
+
+üzerinde	üzer+Noun+A3sg+P2sg+Loc
+üzerinde	üzer+Noun+A3sg+P3sg+Loc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+bir	bir	+Adverb
+bir	bir	+Det
+bir	bir	+Num+Card
+bir	bir	+Adj
+
+etkisi	etki	+Noun+A3sg+P3sg+Nom
+etkisi	etki	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+vardır	var	+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+vardır	var	+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

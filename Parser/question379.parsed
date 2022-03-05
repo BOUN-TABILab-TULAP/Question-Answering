@@ -1,0 +1,19 @@
+1	Genotipi	genotip	Noun	Noun	A3sg|Pnon|Acc	4	OBJECT	_	_
+2	_	bil	Verb	Verb	_	3	DERIV	_	_
+3	_	_	Verb	Verb	Pass|Neg	4	DERIV	_	_
+4	bilinmeyen	_	Adj	APresPart	_	17	MODIFIER	_	_
+5	baskın	baskın	Noun	Noun	A3sg|Pnon|Nom	17	SUBJECT	_	_
+6	_	fenotip	Noun	Noun	A3sg|Pnon|Nom	7	DERIV	_	_
+7	fenotipli	_	Adj	Adj	With	8	MODIFIER	_	_
+8	birey	birey	Noun	Noun	A3sg|Pnon|Nom	9	OBJECT	_	_
+9	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	17	MODIFIER	_	_
+10	_	yap	Verb	Verb	_	11	DERIV	_	_
+11	_	_	Verb	Verb	Pass|Pos	12	DERIV	_	_
+12	yapılan	_	Adj	APresPart	_	14	MODIFIER	_	_
+13	çaprazlama	çaprazlama	Adj	Adj	_	14	MODIFIER	_	_
+14	olayına	olay	Noun	Noun	A3sg|P3sg|Dat	17	DATIVE.ADJUNCT	_	_
+15	ne	ne	Adv	Adv	_	17	MODIFIER	_	_
+16	_	de	Verb	Verb	_	17	DERIV	_	_
+17	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	18	SENTENCE	_	_
+18	.	.	Punc	Punc	_	0	ROOT	_	_
+

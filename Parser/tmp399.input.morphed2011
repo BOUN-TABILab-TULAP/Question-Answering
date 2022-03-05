@@ -1,0 +1,54 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Açık	açık+Adverb
+Açık	açık+Adj
+Açık	Açık+Noun+Prop+A3sg+Pnon+Nom
+
+dolaşım	dolaşım+Noun+A3sg+Pnon+Nom
+
+yapan	yap	+Verb+Pos^DB+Adj+PresPart
+
+omurgasızların	omurga	+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Zero+A3pl+Pnon+Gen
+omurgasızların	omurga	+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Zero+A3pl+P2sg+Nom
+omurgasızların	omurgasızlar+Noun+A3pl+Pnon+Gen
+omurgasızların	omurgasızlar+Noun+A3pl+P2sg+Nom
+
+vücut	vücut+Noun+A3sg+Pnon+Nom
+
+sıvılarına	sıvı+Noun+A3pl+P3sg+Dat
+sıvılarına	sıvı+Noun+A3pl+P2sg+Dat
+sıvılarına	sıvı+Noun+A3pl+P3pl+Dat
+sıvılarına	sıvı+Noun+A3sg+P3pl+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

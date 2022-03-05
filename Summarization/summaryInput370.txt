@@ -1,0 +1,223 @@
+Question: Geviş getiren memeliler, geviş getirme işleminden sonra tekrar yuttukları besinleri midenin hangi bölümüne besinlerdeki suyun büyük kısmının emilmesi için gönderirler
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gevişgetirenler</DOCTITLE>
+<TEXT>
+
+Gevişgetirenler (Ruminantia), çift toynaklılar (Artiodactyla) takımı içinde bir alt takım.
+Bu alt takıma ait otobur hayvanların sahip oldukları çok odalı mideleri mikrobiyolojik bir sindirim yöntemini mümkün kılar. Bu iyi gelişmiş sindirim sistemleri ile, çoğu diğer memelilerin tek bir odadan oluşan mideleri ile sindiremedikleri maddeleri bile (örneğin selüloz) değerlendirebilirler.
+Adlarını veren özellikleri, çoktan yutmuş ve az sindirmiş oldukları maddeleri dinlenirken tekrar ağızlarına getirip tekrar çiğnemelerinden kaynaklanmaktadır. Buna "geviş getirmek" denir. Sonra bu tekrar çiğnenip yutulan maddeler asıl sindirime bırakılır.
+Mide yapısı.
+Geviş getirenlerin mideleri çoğunlukla dört odadan oluşur:
+Bu mideye giden yolda yemek borusunun bölümleri olan:
+Ayrıca işkembenin daha küçük bir ön odası vardır ki bu da ayrı bir mide olarak sayılırsa, midelerin sayısı beşe yükselir. Bazen işkembe'nin ve börkeneğin birbirlerine benzeyen görevlerinden dolayı birlikte tek bir bilimsel ad altında "Reticulorumen" olarak adlandırıldığına da rastlayabiliriz.
+Geviş getiren hayvanlar, otlanma anında bitkisel besinlerini ancak kabaca çiğner ve yutarlar. Bu yuttukları maddeler işkembeye gider. İşkembe ve diğer ön midelerinde çok sayıda bakteriler, protozoonlar ve maya mantarları gibi mikroorganizmalar vardır. Yutulan maddeler bu mikroorganizmalar ile iyice karışır.
+Bu mikroorganizmalar çoğu karbonhidratları işkembe duvarının alabildiği maddelere çevirebilirler. Fermentasyon denilen bu olayda çoğu diğer memelilerin sindiremedikleri bazı maddeler bile sindirilip enerji kaynağı olarak değerlendirilebilir (örneğin selüloz). Bu fermentasyonda meydana gelen gazlar börkeneğin içinde birikir ve ağız yoluyla dışarıya çıkar (geğirmek, garklamak).
+Yutulan maddeler daha çok parçalanmaları ve karışmaları için işkembe ile börkenek arasında ileriye geriye verilir. Bu işlem tamamlandıktan sonra bu hafif sindirilmiş maddeler börkenek ve işkembenin ön odasının kontraksiyonları ve yemek borusunun geriye doğru peristaltik hareketleri ile, küçük porsiyonlar halinde tekrar ağıza doğru taşınır. Ağızda maddeler geviş getirilerek daha çok parçalanır ve tekrar yutulur.
+Börkeneğin küçük ve büyük parçacıkları ayırabilme işlevi vardır; büyük ve kaba parçaları daima geri tutar ve ince parçaları kırkbayıra aktarır. Kırkbayır bu ince parçaları ezerek içindeki sıvıyı çıkarır. Bu şekilde katılaşan maddeler şirdene ulaşır. Şirdenin içinde asidin büyük bir kısmı notralize edilir. Maddede bulunan mikroorganizmaların içindeki proteinler ve yağlar ince bağırsakta çıkarılır.
+Besinler bu kadar uzun süre midede tutulduğu, sürekli karıştırılıp katılaştırıldığı için geviş getirenlerin midelerinde bezoar taşları oluşur. Bu mide taşları, yutulmuş olan kıl ve bitki ipliklerinin zamanla birikip, yapışıp, sertleşmesi ile meydana gelir.
+Sınıflandırma.
+Geviş getirenler iki gruba ayrılabilir:
+Bu takımın dışında benzer bir sindirime sahip olan memeliler.
+Geviş getirenler alt takımından bağımsız bir şekilde, bazı diğer memelilerde de benzeri çok odalı mideler ve sindirim sistemleri gelişmişdir: devegiller, dev kızıl kangurular ve colobinae alt familyasına ait maymunlar.
+Kangurular, colobinae maymunları, atgiller ve tavşanlar da geviş getirenler gibi mikroorganizma yardımı ile selülozu sindirebilirler. Ancak sadece bu canlılar selülozun sindirimi kalın bağırsağın içinde gerçekleşir, ve bu yüzden mikrobiyotik proteinler değerlendirilmeleri için ikinci kez sindirim yolunu kat etmeleri gerekir (Caecotrophie). 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gastrik dilatasyon volvulus</DOCTITLE>
+<TEXT>
+
+Gastrik dilatasyon volvulus ya da GDV. Genellikle iri ve derin göğüslü köpek ırklarında görülen, belirgin derecede midenin gazla gerginliği ve değişik derecelerde mide rotasyonuyla karakterize, acil medikal ve cerrahi müdahaleye ihtiyaç duyan, hayati öneme sahip, öldürücü, akut bir beslenme sendromudur. Bununla birlikte GDV'nin küçük köpek ırklarında (Daschshund, Minyatür Poodle, Scottish Terrier gibi) olduğu kadar kedilerde de görülmesi söz konusudur. Bu sendrom geviş getiren hayvanlardaki timpani ve abomasum torsiyonu'nun bir benzeridir.
+Sebepleri.
+Nedeni tam olarak bilinmemektedir. Çeşitli çevresel ve kalıtımsal faktörler karışımı olduğu düşünülüyor. Buna göre risk faktörleri;
+Irka bağlı risk faktörleri; GDV, herhangi bir köpekte oluşabilmesine karşın iri göğüslü köpek ırkları bu sendroma daha yatkındır.
+Diyete bağlı faktörler; Yemekten hemen sonra fazla miktarda su içilmesi veya aşırı kondisyon gerektiren hareketlerin yapılması, günde tek büyük bir öğün yemek, derin bir kaptan yemek, dolu mide ile aşırı egzersiz (özellikle Golden retriever, Labrador ırkı köpeklere has bir özellik), gıdaları hızlı yutmak.
+Diğer faktörler; allotrofaji, mide boşalma zamanında gecikmesi, hayvanın erkek oluşu, zayıflık, serumda yüksek Gastrin seviyesi, mideye ilişkin motorik ve sensorik bozuklukları.
+Tablo: Köpek ırklarına göre GDV risk sıraları:
+Patofizyoloji.
+Gastrik dilatasyon-volvulusun temel mekanizması ve GDV oluşumuna neden olan sebeplerin sırası tam olarak anlaşılamamıştır. Fakat, neden ne olursa olsun mide önce gaz, sıvı ya da her ikisiyle beraber genişler. Bu genişleme gastrik dilatasyon olarak adlandırılır. Distal özefageal sfinkter'in volvulus'u, yani bükülmesi halinde gaz kolaylıkla erukte edilemediği ve gastrik dilatasyonun kalıcı olduğu belirlenmiştir. Birçok araştırma ve olgu sonucunda gastrik dilatasyonu, volvulus izlemektedir. Mide içi gazın muhtemelen en büyük nedeni aerofaji, yani hava yutmadır. Gastrik lümendeki sıvı, gastrik sekresyonlardan ve venöz tıkanmaya bağlı transudat'tan kaynaklanır. Mide lümeninde genellikle sindirilmemiş gıdalar mevcuttur. Midedeki gerginlik gastroözefageal açının değişmesine ve eruktasyona neden olur. Gergin haldeki midenin rotasyonu mide içeriğinin özefagustan ve duodenumdan çıkışına engel olur. Gergin haldeki mide kaudal vena kava ve vena portaya basınç oluşturarak abdominal visseral organlardan kalbe venöz dönüşü azaltır. Bundan dolayı kalp atımı sayısı azalır.
+Sistemik doku perfüzyonu azalır ve şok gelişir. İskemik dokulardan bakteriyel toksinler salınır ve ilerde hipotansiyona neden olacak endotoksemiyle sonuçlanır. Diyafram rahat hareket edemez ve ventilasyon azalır. Solunum oranı artar ve tidal volüm azalır. Asit-baz ve elektrolit düzensizlikleri, myokardial iskemi ve otonom sinir sistemi dengesizliklerine bağlı olarak kalp aritmileri şekillenir.
+Midenin rotasyonu venöz drenajın azalmasına neden olur. Bu venöz çıkışın tıkanması ve artmış intragastrik basınç gastrik duvarda ödem ve anoksi ile sonuçlanır. Midede, genelde mukozal ülserasyonlar, hemoraji ve nekrozlar görülür.
+Ayrıca kusma ile oluşan sıvı kaybı, su alımının azalması ve gastrik lümende sıvıların birikimi hipovolemiye neden olur. Hipovolemiyle birlikte venöz kan akımının azalması ve angiotensin-2 aktivasyonu sonucu, taşikardi ve periferal vazokonstriksiyon gelişir. Pıhtılaşma faktörlerinin azalması sonucu disseminant intravasküler koagülopati (yaygın damar içi pıhtılaşma, DIC) şekillenir. 
+Dalağın deplasman veya torsiyonu GDV gelişimine yardımcı olabilir. Dalağın torsiyon gastrosplenik ligament üzerindeki gerginliği artırır ve hepatoduodenal ligament ile hepatogastrik ligamentler üzerindeki gerginliği artırabilir. Artan bu gerginlik ligamentleri uzatır ve sonuç olarak midenin hareket yeteneği artabilir, köpek GDV’ye yatkın hale gelebilir.
+Midenin rotasyonu aynı zamanda sol gastroepiploik arterlerde de mekanik basınca neden olur. Luminal gastrik asitle birlikte, mukozal lokal iskemi eroziv gastritise yol açabilir. Hasar midenin tüm tabakalarına yayılabilir ve bunun sonucu perforasyon ve peritonitis gelişir.
+Belirtiler.
+Bir çok araştırmacıya göre GDV 3 fazda klinik belirti göstermekte. Bunlar:
+1. faz: Sallantılı yürüme, huzursuzluk, güç solunum, pityalismus (fazla salya üretimi), kusmaya çalışma ancak başarısızlık, karın bölgesinde dolgunluk ve şişlik.
+2. faz: Artan huzursuzluk, inleme, pityalismus'ta artış, hızlı ve güç solunum, mukozalarda hiperemi, abdominal sertlik ve genişleme daha da fazla artmıştır.
+3. faz: Mukozalara siyanotik veya anemik, ayakta durmada güçlük, karın bölgesindeki gerginlik ve şişlik daha da belirginleşir. Kalp frekansı artmış ancak nabız zayıftır.
+Hastalığın son dönemlerinde hayvanda aşırı derecede durgunluk ve mukoz membranlarda hemoraji vardır. Mide dilatasyonu sonucu, göğüs boşluğunun basınç altında kalması ve venöz kan dolaşımının aksaması nedeniyle, hayvanlarda polipne ve taşikardi meydana gelir. Gıda alımını takiben şekillenen kusma olaylarında, kusmukta gıda kitlelerinin sindirilmemiş olduğu ve nadiren safra bulunduğu görülür. Mide lavajı uygulandığında, mideden boşaltılan içerik ağır kokulu ve kahve rengindedir. İçinde kemik, tüy gibi yabancı cisimler görülebilir. Epigastrik ağrı ve midenin aşırı gergin olması sebebiyle, abdominal palpasyon kolaylıkla yapılamaz.
+Mide torsiyonunun bir de kronik formu vardır. Kronik formda mide mezenterik ekseni üzerinde rotasyona uğrar. Ancak, önemli bir gaz
+birikimi olmaz. Böylece, mide dilatasyonu ve torsiyonunda gözlenen şok tablosu görülmez. Kronik kusma, tekrarlayan dilatasyon, geğirme ve karında gaz birikimi, kronik mide torsiyonunda gözlenen semptom-lardır.
+Tedavi.
+Tedavi operasyondur. Zaman kaybedilmeden laparotomi gerektirir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rumen (anatomi)</DOCTITLE>
+<TEXT>
+
+Rumen veya işkembe, Reticulorumenin büyük kısmıdır. Ruminant (geviş getiren) hayvvanlarda sindirim kanalındaki ilk bölümdür. Sindirilen yiyeceklerin ilk olarak mikrobiyal fermentasyona maruz kaldıkları ilk basamaktır. Reticulorumenin küçük kısmı ise Reticulum dur, rumnenin devamıdır, iç yüzeyinin kaplamasıyla rumöenden ayrılır.
+Anatomisi.
+Reticulorumen kas kese, cranial kese, ventral kese, ventral kör kese, ve reticulumun birleşiminden oluşur.
+Rumen duvarının iç yüzü parmağa benzer, yassı, sığırlarda yaklaşık olarak 5mm uzunluğunda ve 3mm genişliğinde papilla adı verilen çıkıntılarla kaplıdır. Reticulumun iç yüzü altıgen bal peteği görünümlü kabartılarla kaplıdır. çıkıntılar yaklaşık olarak 0.1 - 0.2 mm genişliğinde reticulum duvarından 5 mm yükselen yapılardır. Sığır reticulumunda altıgenler 2–5 cm genişiliğindedir. bu özellikler uçucu yağ asitlerinin emilmesi için reticulorumen duvarının yüzey alanını genişletir. İki kısmın iç yüzlerinin kaplaması dışında bir işlevsel boşluk şeklindedir.
+Sindirilenlerin tabakalaşması ve karıştırılması.
+Rumende sindirim tek yapıda değildir. Tabakalara ayrılır, gaz, sıvı, ve farklı boyutlarda ve yogunlukta ve diğer fiziksel özelliklerdeki parçacıklar. Ek olarak, Sindirilenler basitçe rumene girip çıkmazlar karışık uzun akış yolları vardır. İlk başta buların saçma olduğu düşünülebilir, bu karışık tabakalaşma, karıştırma, ve akış yolları, ruminantlarda(geviş getirenler) anahtar bakış açısıdır.
+Çiğnenmeden sonra, sindirilenler ösefagustan aşağıya iner reticulumun dorsal kısmında depolanır. Reticulorumenin kontraksiyonları ile içerik karıştırılırileri ve ileri dogru itilir ve mat rumene gider. mat sindirilenlerin ince bir katmanıdır, küçük parçalara ayrılmış, uzun lifli maddeler içerir.
+Mat içerisindeki çoğu madde agızdan yeni alınmıştır ve kalanı önemli miktarda fermente olabilir maddedir. Mikrobiyal aktivite mat içinde çabucak gerçekleşir ve birçok gaz açığa çıkar. bir miktar gaz mat içinde hapis olur ve matın yüzmesini sağlar. Fermentasyon işlemi devam ettikçe gaz oluşumu azalır, hapis olan gaz miktarının azalmasına baglı olarak, mat yüzme yeteneğini kaybeder. Mat içindeki sindirilenler bundan dolayı yüzme yeteneğinin artışı fazından azalma fazına dogru geçerler. Eş zamanlı olarak, sindirilenler mikrobiyol fermentasyonla miktarı azaltılırken, sindirilen parçacıkların boyutu göreceli olarak büyüktür ve sonra ruminasyon (geviş getirme) olur. Belirli bir noktada, parçacıkların yogunluğu rumen matından aşağı ventral keseye düşecek kadar küçük olur, veya rumen kontraksiyonları ile sıvı akışı içinde retikuluma akarlar.
+Bir kere ventral kesede, düşük derecede sindilenler fermente olmaya başlayınca, daha fazla yüzme yeteneğini kaybeder ve paçacık boyutu dahada azalır. Sonra bunlar rumen kontraksiyonları ile ventral reticuluma akar.
+Ventral retikulumda, düşük yoğunluklu, büyük sindirilen parçaları retikulum kontraksiyonları ile yukarı ösefagusa ordan agıza itilebilir. Ruminasyon işlemi olarak adlandılan bu işlemde sindirilenler ağızda çiğnenir ve sonra ösefagusa yollanır ve reticulumun doral kesesinde depolanır ve tekrar rumen matına katılır ve karışır. Daha yogun ve küçük parçacıklar retikulum kontraksiyonu sırasında ventral retikulumda kalır ve sonra bir sonraki kontraksiyonda sıvı ile birlikte reticulorumeni reticulo-omasal orificeden terk eder ve rumant hayvanların sindirim sitemindeki bir sonraki odacığa omasuma geçer.
+Rumen Duvarından Glikoz Emilimi.
+Rumen, sığır, koyun, keçi gibi geviş getiren hayvanlarda sindirim sisteminin en büyük bölümünü oluşturmaktadır. Büyük bir fermantasyon ünitesi yapısına sahip olan rumende karbonhidratlar mikrobiyal bir etki sonucu asetik, propiyonik ve bütirik asit adı verilen uçucu yağ asitleri yanında CO2, metan ve H+ gazlarına dönüşmektedirler. Karbonhidratların rumende yüksek düzeyde bir mikrobiyal etkiye maruz kalmaları glikozun fermantasyon esnasında açığa çıkan bir ara ürün olmasına neden olmaktadır. Bu nedenle rumen glikoz konsantrasyonu genellikle düşük bir değere sahip olmaktadır. Bu durum yakın bir geçmişe kadar rumen duvarından glikoz emiliminin önemli düzeyde gerçekleşemeyeceği düşüncesinin bilim adamları arasında hakim olmasına neden olmuştur. Fakat bazı araştırıcılar rumende kolay parçalanabilir karbonhidratlarca zengin bir yemleme durumunda rumen glikoz konsantrasyonunun 12 mM düzeyine kadar yükselebileceğini ve rumen duvarından glikoz emiliminin gerçekleşebileceğini ileri sürmüşlerdir).
+Rumen duvarından glikoz emilimi konusunda yapılan ilk çalışmalarda ele alınan yaklaşımlar temelini ince barsak mukozasından glikoz emiliminde yer alan mekanizmalardan almıştır. Çünkü ince barsak mukozasından glikoz emiliminde yer alan mekanizmaların aydınlatılmasına yönelik geniş kapsamlı çok sayıda araştırmalar birçok araştırmacı tarafından yürütülmüş ve bu konuda önemli düzeyde bir bilgi üretimi gerçekleşmiştir. İnce barsak mukozasından glikoz emilimi iki aşamada gerçekleşmektedir. İlk aşamada, ince barsak lumeninde sindirim sonucunda açığa çıkan glikoz molekülleri lumenden epitel hücre içerisine Sodyum'a Bağlı Glikoz Transporter – SGLT-1 adı verilen bir proteinin rol aldığı mekanizma sayesinde taşınmaktadır. Epitel hücre içerisine alınan glikoz ikinci aşamada GLUT-2 adı verilen bir başka taşıyıcı proteinin işleve sahip olduğu farklı bir mekanizma aracılığı ile hücre içerisinden kana iletilmektedir.Yapılan çalışmalarda intraruminal glikozun yaklaşık %11’inin 30 dakika içerisinde rumen duvarı tarafından emildiği tespit edilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hıdır Geviş</DOCTITLE>
+<TEXT>
+
+Hıdır Geviş, (d. 1968, Kuyulu, Elazığ) gazeteci ve yazar.
+[http://sphotos.ak.fbcdn.net/hphotos-ak-snc1/hs220.snc1/8717_130715333182_573088182_2446559_7334081_n.jpg]]Üniversite eğitimini İstanbul Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik ve Halkla İlişkiler bölümünde tamamladı. Türkiye'de medya sektöründe uzun seneler çalıştıktan sonra, 2001 yılında Amerika Birleşik Devletleri'nin, Boston şehrine yerleşti. 2005 yılında ise Cambridge College'ın Master Of Management bölümüne yüksek lisans öğrencisi olarak kabul edildi. ABD'deki eğitmi sürecinde PBS televizyonunun Boston merkezi olan WGBH'in Uluslararasi Satış ve Pazarlama bölümünde 3 aylık süreyle staj çalışması yaptı. 2006'nın Eylül ayında Birleşmiş Milletler Genel Merkezi'ndeki staj eğitimi için New York şehrine taşındı. Medyatava.com, Haber7.com, showtvnet.com gibi internet sitelerinde ve Taraf gazetesinde "Öteki Amerika" adlı köşesinde köşe yazarlığı görevini yapmaktı.
+Köklü bir gazetecilik geçmişine sahip olan Hıdır Geviş, Amerika’da dijital pazarlama alanında uzmanlaştı. 
+Twitter’den twitter kullanan ünlü isimlerle ilk periyodik röportaj yayıncılığını gerçekleştirrek Türkiye ve dünyada bir ilke imza attı.
+Batı’da geliştirilen Yurttaş gazeteciliği kavramını hem teorik olarak hem de uygulamalı olarak Türkiye’ye taşıyan isim oldu. Twitter’da dünyanın farklı bölgelerinden bulunan Türkiye kökenli vatandaşlarla, bulundukları bölgelerdeki sıcak gelişmelerle ilgili detaylı görüşmeler yaptı. Böylece sıradan insanları bir anlamda muhabir olarak değerlendirdi. Örneğin Libya’daki kargaşa sırasında çölde mahsur kalan bir petrol mühendisiyle, Tsunami felaketi sırasında Tokyo’da durumdan etkilenen bir yapımcıyla, Chicago’da yapılan politik bir konferans sırasında, konferansa katılan bir akademisyenle anında, canlı, hızlı ve diğer Twitter kullanıcılarının interaktif katılımına açık röportajlar yaptı. 
+Bu uygulamalar Cihan haber ajansına ilham verdi ve bu haber ajansı, yurttaş gazeteciliğini değerlendirecek bir sistem geliştirdi. 
+2011 genel seçimlerinin yapıldığı gün, aynı anda hem Twitter hem Facebook hem de bir medya sitesi üzerinden izlenebilecek şekilde canlı ve görüntülü bir seçim değerlendirme programı gerçekleştirerek Türkiye’de ve dünyada bir ilke daha imza attı. Bu etkinlikte, farklı görüşte saygın gazeteci, yönetici, sanatçı,akademisyen ve sıradan twitter kullanıcıları bir otelin kral dairesinde, üzeri yiyecek dolu bir sehpa etrafında bir araya geldi. Bu formatı nedeniyle de Türkiye'deki ilk süper-casual tartışma programı oldu.
+Şehir Üniversitesi, Fatih Üniversitesi, Gediz Üniversitesi ve Marmara Üniversitesi gibi ünüversite ve kurumlarda Sosyal Medya, Dijital Marketing, sosyal medya gazeteciliği üzerine konferans ve dersler veren Hıdır Geviş, a haber’de Nasıl Yani ve Benim Adım Hıdır adlı programların sunucu ve yapımcılığını yaptı.
+Bahçeşehir Üniversitesi'nde 23 Şubat 2013 tarihinde başlayan Dijital Medya iletişimi ve Yurttaş Gazeteciliği programının direktörlüğünü yaptı. Alanında oldukça yenilikçi olan programda, farklı disiplinlerden isimler biraraya getirildi. Geleneksel medya ve internet medyasından gazeteciler, Türkiye ve Amerika'dan iletişim uzmanı akademisyenler, dijital teknoloji pazarına yön veren şirketlerin temsilcileri, dijital pazarlama ve reklamcılığın farklı alanlarında deneyim sahibi isimler, bu programa eğitmen olarak görev aldılar.
+Hıdır Geviş 19 Kasım 2012'de tekrar Taraf gazetesine dönerek pop-up adlı köşesinde haftada 3 gün yazmaya başladı. Cuma günleri siyaset ve uluslarası ilişkiler alanında yazan gazeteci, Çarşamba ve Pazar günleri ise popüler kültür, kültürel karşıtlıklar, toplumsal hayat ve medya alanlarında farklı yaklaşımlar ortaya koyduğu makaleler yazıyor.
+Vikipedi yönetimine eleştirileri.
+Hıdır Geviş, Kaymakam Eyüp Sabri Kartal'ın yıllar evvel Vikipedi yönetimi hakkında getirdiği eleştiyi, köşe yazısında aynen tekrarlayarak vikipedi de gerici kast olduğunu ve yeni yazarların yazılarının silindiğini kanaati: 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mide</DOCTITLE>
+<TEXT>
+
+Mide; kaslardan oluşan, genişleyebilen bir sindirim sistemi organıdır. Yemek borusu ile ince bağırsak arasında bulunur. Omurgalılar, derisidikenliler, haşaratlar ve yumuşakçalarda bulunur. Sindirimin ikinci fazında (çiğnemeyi takiben) görev yapar. Yiyeceklerin geçici olarak büyük miktarda depolandığı organdır. Rahatlıkla 1.5 litre sıvıyı içinde tutabildiği gibi, maksimum 4 litre sıvı tutma kapasitesi vardır.
+Midenin 4 ana bölümü vardır: 
+Mide, içine giren yiyeceklerin kimyasal ve fiziksel olarak parçalandığı bir yerdir. Mide içini örten ve Mukoza denilen örtü dokudan sindirim sıvıları salgılanır. Mide içinde yiyecek varsa, her 20 saniyede bir dalgalar meydana getirerek sıvı ile katıyı birbirine karıştırır (Kimus). Sonuçta krem kıvamında yarı sıvı bir materyel meydana gelir. Meydana gelen karışım ince bağırsaklar tarafından emilecek seviyeye geldiyse, azar azar miktarlarda, pilor kanalını geçerek 12 parmak bağırsağına ("Duodenum") geçer. Sıvıların mideyi terk etmesi katılardan daha hızlıdır ve mideyi boşaltması yaklaşık 20 dakikayı alır. Katı-sıvı karışımı materyelin mideyi terk etmesi ise yaklaşık 1.5 saati bulmaktadır.
+Mide salgı yapan bir organdır. İç duvarlarında bulunan hücre ve bezler birçok önemli salgılar üretir: sindirim enzimleri, hormonlar, hidroklorik asit, intrensek faktör (B12 vitamininin ince bağırsak son kısmından emilmesi için bu faktörün varlığı şarttır). Mide kendi çıkardığı asitten kendini korumak için yapışkan, alkalen-bazik bir mukus da üretir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gastrektomi</DOCTITLE>
+<TEXT>
+
+Gastrektomi midenin kısmen veya tamamen ameliyatla alınmasıdır. İlk başarılı gastrektomi Theodor Billroth tarafından 1881'de kanserli bir mideyi alması ile olmuştur. Gastrektomi kanser, ağır mide asidi hastalıkları ve mide duvarı deliklerinin tedavisinde kullanılır. Bu işlem gittikçe daha az kullanılmaya başlanmıştır, çünkü mide asidi tadavileri artık genellikle Helicobacter pylori için antibiyotiklerle veya endoskopi ile yapılmaktadır.
+Ağır onikiparmak bağırsak rahatsızlıklarında pilor olarak adlandırılan midenin alt kısmının ve onikiparmak bağırsağı olarak adlandırılan incebağırsağın üst kısmının alınması gerekmektedir. Şayet onikiparmak bağırsağının üst kısmının yeterli kısmı duruyorsa Billroth I işlemi uygulanabilir. Billroth I midenin geri kalan kısmının onikiparmak bağırsağına safra kanalı ve pankreas kanalından önce yeniden eklenmesidir. Şayet mide onikiparmak bağırsağına yeniden eklenemiyorsa Billroth II işlemi uygulanır. Billroth II'de onikiparmak bağırsağının kalan kısmı kapatılır, jejunum olarak adlandırılan ince bağırsağın üst yarısının yanına bir delik açılır ve mide bu delikten yeniden eklenir. Pilor yiyeceği öğütme ve yiyeceği ince bağırsağa yavaşça salma işini yaptığı için, pilorun alınması yiyeceğin ince bağırsağa normalden daha hızlı taşınmasına neden olur ve böylece midesel boşaltma sendromu oluşur.
+Eskiden mide asidi hastalığı için gastrektomi uygulaması ile beraber vagotomi uygulanmaktaydı. Vagotomi işleminde vagus siniri midedeki asit üretimini azaltmak için kesilir. Günümüzde bu problemin üstesinden proton pompası inhibitörleri ile gelinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çift toynaklılar</DOCTITLE>
+<TEXT>
+
+Çift toynaklılar (), memelilerin eteneliler (Placentalia) alt sınıfına ait bir takım. Toplam 220 türden oluşan bu takımın, özellikle boynuzlugiller familyasına ait türler olmak üzere, birçok türü insanlar için ticarı açıdan çok önemlidir.
+Özellikler.
+Çift toynaklıların ismi 2 ya da 4 adet, yani daima çift sayıda olan toynaklarından kaynaklanmaktadır. Üçüncü ve dördüncü tırnakları (toynakları) en iyi gelişmiş olanlarıdır. Fosil kalıntıları bulunan akrabalarında baş parmak tırnağıda görülmektedir, ama günümüzde varolan çift toynaklılarda yoktur. İkinci ve beşinci parmakları türden türe farklı derecede gelişmiştir: Su aygırlarında hala büyük ve kullanışlı bir haldedirler, ama çift toynaklıların çoğunda çok küçülmüş, gerilemişlerdir ve hatta yere bile değmezler. Zürafagillerde ve devegillerde hatta artık görülmeyecek kadar gerilemiştir.
+Evrim tarihi.
+Çoğu diğer memeli takımları gibi, çift toynaklılarda 54 milyon yıl evvel Eozän devrinin başlarında ortaya çıkmışlardır. Çift toynaklıların bu ilkel formları, genelde bugünkü türlerden daha küçüktü, bitki parçaları ve yapraklar ile beslenirlerdi. Bugünkü türlerde olduğu gibi kafalarında bulunan boynuz gibi silahları yoktu.
+46 milyon yıl evvel günümüze kadar hala var olan 3 alt takım gelişmiştir;a "gevisgetirmeyenler", topuktabanlılar (Tylopoda) ve gevişgetirenler (Ruminantia).
+Sınıflandırma.
+Çift toynaklıların sınıfladırılmalarında midelerinin anatomisi önemli bir rol oynamaktadır. Su aygırlarının,domuzumsuların, pekarigillerin 2 ya da 3 bölümden oluşan bir mideleri vardır ve geviş getirmeden sindirirler. Bu yüzden "gevişgetirmeyenler" olarak bir grup içinde toplanırlar. Bunların haricinde tüm diğer çift toynaklılar geviş getirme yeteneğine sahiplerdir. Ama geviş getirme şekillerinde de farklar olduğu için devegiller asıl gevişgetirenlere dahil sayılmazlar ve topuktabanlılar olarak ayrı bir alt takıma konulurlar.
+Balinalar da çift toynaklı hayvanlardan türemişlerdir. Çok farklı olan vücut yapılarından dolayı ayrı bir takıma konulsalar da, çift toynaklıların ayrıntılı bir kladiogramı için balinaların da dikkate alınması gerekir. Aşağıda sunulan kladiogramda vucut yapısının evrimsel gelişmesi (filogenetik sınıflandırma) dikkate alınmıştır:
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hıçkırık</DOCTITLE>
+<TEXT>
+
+Hıçkırık, göğüs boşluğu ile karın boşluğunu birbirinden ayıran diyafram kasının birden kasılması sonucunda ses telleri arasındaki açıklığın istem dışı kapanması ile gerçekleşen ani soluk alımı ve bu sırada bir sesin dışarı çıkmasıdır. Frenik sinirin uyarılması ile geliştiği bilinmektedir. 
+Hıçkırık; solunum kasları ve özellikle diyaframdan ortaya çıkar. Tıp dilinde "singultus" denir. Nedenleri çeşitlidir. Basit hıçkırıklar; çoğunlukla mide gazı, sıcak ve baharatlı yemekler, sinir bozukluğundan kaynaklanır. Ayrıca; bazı kalp, karaciğer, bağırsak ve pankreas hastalıkları, zatülcenp veya zatürreede de görülebilir. 2 saatten fazla süren hıçkırıklarda, doktora başvurmak gerekir.
+Hıçkırık, sık görülen ve kendiliğinden sonlanan bir rahatsızlıktır. Nadiren 2 günden fazla bazen de 1 aydan fazla (inatçı hıçkırık) sürebilir. İnatçı hıçkırık erişkin erkeklerde kadınlara göre daha sıktır.
+Kadınlarda hıçkırığın sebebinin yüzde 93'ü psikolojik kökenli iken bu oran erkeklerde yüzde 7 kadardır. Özellikle 2 günden fazla süren sürekli ve 1 aydan fazla süren inatçı hıçkırık altta yatan enfeksiyondan kansere kadar uzanan bir dizi hastalığın ilk belirtisi olabilir. Ayrıca bazen bir hıçkırık atağı bir kalp krizinin tek belirtisi de olabilir. Kısa süreli hıçkırık atakları genellikle yemek, gastrik distansiyon (midenin gazla şişmesi), alkol ve stres ile daha sık ilişkilidir. İnatçı hıçkırığa sebep olacak 100'den fazla sebep bildirilmiştir.
+Hıçkırığın sebepleri.
+Psikolojik nedenler: Heyecan, korku, stres
+Toksik ve metabolik sebepler: Alkol, ilaçlar, diyabet, üremi
+Ameliyat sonrası sebepler: Genel anestezi
+Santral sinir sistemi (beyin)'ne bağlı sebepler: Tümörler, travma, menenjit, damarsal sebepler.
+Diyaframın uyarılması: Mide distansiyonu (şişmesi), mide fıtığı, karaciğer büyümesi, dalak büyümesi
+Ayrıca; çeşitli ilaçlar (steroidler, benzodiazepinler), glokom (göz tansiyonu), kulakta yabancı cisim, kıl, farenjit, guatr, zatürre, perikardit (kalp zarı iltihabı), kalp krizi, astım, tümörler gibi pek çok etken vagal siniri uyararak hıçkırık sebebi olabilir.
+Hıçkırığın sebebi araştırılırken sıklığı, süresi, hastanın kullandığı ilaçlar, alkol ve sigara kullanımı, bilinen bir hastalığın varlığı, geçirilmiş ameliyatları, hıçkırığın uyku ve stresle ilişkisi sorgulanıp ayrıntılı bir fizik muayene ve detaylı bir tetkikle araştırmak gerekir.
+Kısa süreli hıçkırık atakları çoğu zaman kendiliğinden geçmektedir.
+Hıçkırığın tedavisi.
+Hıçkırık tedavisinde çok sayıda geleneksel yöntem, ilaç tedavileri, hipnoz, akupunktur ve cerrahi yöntemler mevcuttur. Bilinen yöntemlerin çoğu kişisel gözlem ve klinik tecrübe ürünü olup kontrollü çalışmalarda denenmemiştir. Basit hıçkırık ataklarının çoğu kendiliğinden sonlanır.
+1- Çeşitli manevralar:
+Şeker emilmesi,
+Torba içine soluma,
+Dilin çekilmesi,
+Buzlu suyla gargara,
+Tiksindirme,
+Korkutma,
+Nefes tutma,
+Gastrik lavaj (mide yıkama),
+Endoskopi,
+2- İlaç tedavisi:
+İlgili hekim tarafından düzenlenmesi uygundur.
+3- Diğer yöntemler:
+Psikoterapi
+Akupunktur
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karaciğer</DOCTITLE>
+<TEXT>
+
+Karaciğer, omurgalı ve bazı diğer hayvanlar için hayati bir organ olma özelliğini taşır. Karaciğerin detoksifikasyon, protein sentezi ve biyokimyasal sindirim için gerekli olan üretim de dahil olmak üzere geniş bir etki alanına sahiptir. Karaciğer yaşam için gerekli olan hayati bir organdır. Karaciğer yokluğunda veya işlev yitiminde, diyalizle kısa bir süre fonksiyonları devam ettirilebilir. Fakat karaciğerin fonksiyonunu, uzun süreli yokluğunda, telafi edebilmein hiçbir yolu yoktur. Karaciğer organ metabolizmasında önemli bir rol oynar. Glikojen depolanması, kırmızı kan hücrelerinin üretimi, plazma ve protein sentezi, hormon üretimi ve detosifikasyon ayrışma sa dahil olmak üzere vücutta daha birçok alanda işlevi vardır. Karaciğer karında, abdominal-pelvik bölgede diyaframın altında bulunmaktadır. Karaciğer ayrıca yağ sindirimine yardımcı alkali bileşik bir sıvı olan safra üretir. Ayrıca çok özel doku sentezi ve birçoğu normal yaşamsal işlevler için gerekli olan küçük ve karmaşık moleküller de dahil olmak üzere yüksek hacimli biyokimyasal reaksiyonları düzenler.
+Tıbbi literatürde çoğunlukla karaciğer anlamına gelen hepar (ἡπαρ) ve Yunanca kelime kökenli hepato terimi kullanılır.
+= Anatomi =
+Karaciğer,insanda eşitsiz büyüklüğü ve şekli olan dört lobu bulunan kırmızımsı kahverengi bir organdır. Bir insan karaciğeri normalde 1,4-1,7 kg (3,1-3,5 lb) ağırlığında ve yumuşak, pembemsi-kahverengi, üçgen bir organdır. Hem en büyük iç organ (en büyük organ genel olarak deri) ve insan vücudunun en büyük bezidir.Karaciğer diyaframın hemen altında ve karın boşluğunun sağ üst kısmında bulunur. Karaciğer Midenin sağ tarafını ve safra kesesi örter. Karaciğere iki büyük damar bağlıdır. Biri hepatik arter ve biri portal ven adı verilen damarlardır. Portal ven kanı tüm gastrointestinal kanaldan sindirilmiş besinleri içerir. Dalak ve pankreas gelenleri taşıyan ise hepatik arterdir ve aorta kan taşır. Bu kan damarları daha sonra bir lobun içinde yollara ayrılır. Her lop temel milyonlarca temel metabolik hücrelerden oluşur.
+Kan akımı.
+Karaciğerde bulunan karaciğer portal ven ve hepatik arterlerin bir çifti kanı alır. Karaciğer vücudun kan arzının yaklaşık %75 teminini sağlar. Hepatik portal ven, kanı; dalak, sindirim kanalından drene venöz ve organlara taşır. Hepatik arterler ise onun kan akımının geri kalanını sağlar ve karaciğerin kan kaynağıdır. Oksijen iki kaynaktan da sağlanır. Karaciğer oksijen ihtiyacının yaklaşık yarısı karaciğer portal ven tarafından karşılanmaktadır ve yarım hepatik arterler tarafından karşılanmaktadır. Kanı sinüzoidlerde boşaltır ve her lop orta damara geçer.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Peptik ülser</DOCTITLE>
+<TEXT>
+
+Ülser, veya peptik ülser, herhangi bir canlının epitel dokusu'nda belirebilen bir tür yara.
+Dil ülseri.
+Dilde görülen; etrafı kırmızı, içi su dolu küçük kabarcıklar, dil ülserinin belirtisi olabilir. Derin ve sert kenarlı dil yaralarında, mutlaka doktora başvurmak gerekir. Diğer dil yaraları ve
+ağrı, hazımsızlık veya gripten kaynaklanabilir.
+Onikiparmak bağırsağı ülseri.
+İncebağırsağın 25 santimetre kadar olan ilk bölümüne onikiparmak bağırsağı denir. C harfi görünümündedir. Onikiparmak bağırsağında meydana gelen ülsere tıp dilinde duodenum ülseri denir. Tedavi edilmeyen gastrit, fazla asit, sinir bozukluğu, düzensiz hayat, gürültü, fazla miktarda sigara, çay, kahve ve alkol kullanmak, safra kesesi veya karaciğer yetersizliği, kalp hastalıkları, hormon dengesizliği, dengeli bir şekilde beslenememe, çok sıcak veya çok soğuk yiyecekler, haddinden fazla et, hamur işleri veya baharatlı yiyecekler ve bazı ilaçlar; onikiparmak bağırsağında ülserin meydana gelmesine yardımcı olur. Hasta, mide ekşimesi ve ağzına ekşi su gelmesinden şikayet eder. 
+Ayrıca dili paslı, rengi solgundur, baş dönmesi ve fazla terleme de görülür. Midesinin üstüne basılınca, ağrı hisseder. Yemeklerden sonra da göğse doğru yayılan bir ağrı belirir. Bu belirtiler, ilkbahar ve sonbahar aylarında daha da artar. Tedavi için yapılacak ilk iş, hastalığı doğuran nedenleri ortadan kaldırmak, yemekleri az, fakat sık sık yemek, istirahat etmek ve üzüntüden uzak yaşamaya gayret etmektir.
+Mide ülseri.
+Midenin iç yüzündeki belirli bir kısmın aşınması sonucu meydana gelen yaraya mide ülseri denir. Sinir bozukluğu, midede asit fazlalığı, zamanında ve iyi tedavi edilmeyen gastrit, mide zafiyeti, karaciğer yetersizliği veya safra azlığı, kalp hastalıkları, sindirilmesi güç yiyeceklerin aşırı derecede kullanılması, haddinden fazla sigara, çay, kahve veya asit yapıcı meşrubat içmek, alkol kullanmak veya bazı ilaçların uzun süre kullanılması mide ülserini doğuran nedenler arasındadır. Hastalığın başlangıcında mide ekşimesi ve ağırlık hissi vardır. Hastanın ağzına, sık sık ekşi su gelir. Tat alma duygusu hafiflemiştir, dil paslıdır, hastanın rengi solmuştur. Karnın üst kısmına bastırılınca, acıma hissedilir. Bu belirtiler ortaya çıktıktan sonra; en kısa zamanda tedaviye geçilmezse; yemeklerden 2-3 saat sonra sırta doğru yayılan şiddetli mide ağrıları başgösterir. Baş dönmesi ve terleme de görülür. Bu devrede, kusma ile bir miktar kan da görülebilir. Bazı kimselerin büyük abdestleri katran gibi olur. Bu işaretler, ülserin ilerlemiş olduğunu gösterir. Mide ülseri, bilhassa ilk bahar ve son bahar aylarında, çok rahatsız edici bir hal alır. Ağrı ve kanamalar artar. Mide ülseri, başlangıcında teşhis edilip de tedaviye başlanılacak olursa, telaşlanmaya ve korkmaya gerek yoktur. Bu durumda yapılacak ilk iş, üzüntüye kapılmamak, aksine bütün üzüntülerden sıyrılmaya gayret sarfetmektir. Sonra tedaviye yardımcı olmak amacıyla aşağıdaki hususlara kesinlikle uymak gerekir. - Tedavi süresince istirahat edin - Yemeklerinizi, her gün belirli saatlerde yiyin - Bağırsaklarınızın düzenli bir şekilde çalışmasını sağlayın - Sigara, çay, kahve ve alkolü bırakın - Diş sağlığına önem verin - Süt ve sütlü yiyecekler, yumurta, kızarmış ekmek, tereyağı, pelte ve haşlanmış balık, sebze püreleri ve patates yemeğini sofranızdan eksik etmeyin.
+Ülseratif kolitis.
+Stres sonucunda ortaya çıkabilen ve kalın bağırsakla rektumu kaplayan kanamalı yaralar.
+Varis ülseri.
+Daha çok, bacağın alt kısmında görülen yuvarlak bir yaradır. Nedeni, varisli yerde meydana gelen herhangi bir yaralanmadır. Hastalık bacağın alt kısmında, bileğe yakın bir yerde yuvarlak bir yara olarak ortaya çıkar. Ayak bileği şişer, deri esmerleşir ve bazen de ağrı hissedilir. Doktor tedavisi şarttır.
+
+</TEXT>
+</DOC>
+

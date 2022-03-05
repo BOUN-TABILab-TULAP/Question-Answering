@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Rusya	Rusya	+Noun+Prop+A3sg+Pnon+Nom
+
+Federasyonu	federasyon	+Noun+A3sg+Pnon+Acc
+Federasyonu	federasyon	+Noun+A3sg+P3sg+Nom
+
+hangi	hangi	+Adj
+
+yıl	yıl+Noun+A3sg+Pnon+Nom
+yıl	yıl+Verb+Pos+Imp+A2sg
+
+kurulmuştur	kur	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+kurulmuştur	kur	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

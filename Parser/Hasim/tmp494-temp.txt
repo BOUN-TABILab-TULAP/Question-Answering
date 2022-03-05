@@ -1,0 +1,23 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Aksonun akson+Noun+A3sg+Pnon+Gen akson+Noun+A3sg+P2sg+Nom
+elektriksel elektrik+Noun+A3sg+Pnon+Nom^DB+Adj+Related elektriksel+Adj
+izolasyonunu izolasyon+Noun+A3sg+P3sg+Acc izolasyon+Noun+A3sg+P2sg+Acc
+sağlayarak sağla+Verb+Pos^DB+Adverb+ByDoingSo
+uyartı uyartı+Noun+A3sg+Pnon+Nom
+iletimini iletim+Noun+A3sg+P2sg+Acc iletim+Noun+A3sg+P3sg+Acc
+hızlandıran hız+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus+Pos^DB+Adj+PresPart
+yapıya yapı+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

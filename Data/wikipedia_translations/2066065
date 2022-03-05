@@ -1,0 +1,54 @@
+Ekran kontrastı
+(: Parlaklık kontrast, hafiflik kontrast, renk kontrastı, eşzamanlı kontrast, ardışık kontrast vs. dolayısıyla) Görsel algı Kontrast aynı anda veya ardışık görülen bir alanın iki veya daha fazla parça görünümünü farktır.
+Fizik Kontrast genellikle aşağıdaki formüle ilişkin bir dizi tarafından tanımlanan algılanan parlaklık kontrastı ile ilişkili amaçlanan bir miktar, örneğin içeren (aşağıda bakınız) Örneğin kabul uyaranların ışıklarının, (Weber tersine olarak da bilinir) parlaklık eşik yakın DL / L, ya da LH / LL çok daha yüksek ışıklarının için.
+Bir kontrast da kolorimetrik özelliklere göre belirlenen kromasitenin farklılıklara bağlı olabilir (örneğin renk farkı AE CIE 1976 UCS).
+Görsel bilgi her zaman görsel kontrast çeşit bulunan, böylece kontrast elektronik görsel ekranlar önemli bir performans özelliğidir.
+Elektronik görsel ekranlar kontrast (yani görüntüleme yönü), ortam aydınlatma ve gözlem yönüne, elektrik sürüş (analog veya dijital giriş sinyali) bağlıdır.
+Parlaklık kontrast.
+"Parlaklık kontrastı" yüksek parlaklık, LH ve alt parlaklık arasındaki orandır, özelliği tanımlayan LL, tespit edilecek. Genellikle kontrast oranı, CR adlandırılan bu oran, (aslında bir parlaklık oranı olmak), genellikle yüksek ışıklarının ve elektronik görsel görüntüleme cihazları kontrast özellikleri için kullanılır. "1" sayının değerine parlaklık kontrastı (oranı), CR, boyutsuz bir sayıdır, çoğunlukla ilave ile gösterilir (örneğin, CR = 900: 1).
+1 ≤ CR ≤ formula_2 ile FORMULA_1
+CR = 1 A "kontrast oranı" hayır kontrast demektir.
+Kontrast da kontrast modülasyonu (veya Michelson aksine) tarafından belirtilebilir, CM, olarak tanımlanır:
+0 ≤ CM ≤ 1 ile formula_3.
+CM = 0 kontrasta demektir.
+Başka bir kontrast tanımı bazen elektronik görüntüler alanında bulunan, K, ise:
+0 ≤ K ≤ 1 ile formula_4.
+K = 0 kontrast demektir, mümkün olan maksimum kontrast, Kmax birini eşittir.
+Renk kontrast.
+Bir görme alanının iki parça eşit parlaklık olabilir, ama onların renk (kromatisite) farklıdır. Böyle bir "renk kontrastı" uygun bir kromatiklik sisteminde bir mesafe ile tanımlanabilir (örneğin CIE 1976 UCS, CIELAB, CIELUV).
+Genellikle elektronik görüntüler alanında kullanılan "renk kontrastı" için Bir metrik renk farkı AE * uv veya AE * ab.
+Tam ekran kontrast.
+, Ekranın aktif alan genellikle tamamen kontrast olduğu optik durumlardan birine ayarlanır kontrast değerlendirilmesi için kullanılan parlaklık değerlerinin ölçüm sırasında belirlenecek, örneğin (R = G = B =% 100) tamamen beyaz ve (R = G = B =% 0) tamamen siyah ve parlaklık diğer (zaman sıralı) ardına ölçülür.
+Davanın bu şekilde görüntü aygıtı testi desen parlaklık testi desen büyüklüğü ile değişen anlamına gelir ki, "yükleme etkiler" sergilemek değil sadece uygundur. Böyle bir yükleme etkileri CRT-görüntüler ve PDPs bulunabilir. Küçük bir test deseni (örneğin% 4 pencere deseni) besleme akımı özel elektronik devreler ile sınırlı olabilir, çünkü gelen tam ekran desen önemli ölçüde daha yüksek parlaklık olabilir bu cihazlarda görüntülenen.
+Tam salıncak kontrast.
+Tamamıyla aynı olmayan herhangi iki test desenleri aralarında kontrast değerlendirmek için de kullanılabilir. bir test deseni tamamen parlak durumunu içermektedir (tam beyaz, R = G = B =% 100) ve diğeri tamamen karanlık devlet (tam siyah, R G = B =% 0 =) elde edilen kontrast denir "Tam swing kontrast". Bu kontrastlı ekran elde edebilirsiniz en yüksek (maksimum) kontrast. Hiçbir test deseni kontrast deyimi ile birlikte veri sayfasında belirtilen ise, büyük bir olasılıkla "tam swing kontrast" isaret edecektir.
+Statik kontrast.
+aşağıdaki gibi kontrast değerlendirilmesi için standart bir prosedür olduğunu:
+1 test altındaki ekranın elektrik arayüzüne ilk test desenini uygulamak ve optik cevap kararlı kararlı duruma yerleşmiş bekleyin,
+Parlaklık ve / veya ilk test deseninin kromasiteyi ölçmek ve sonucu kaydetmek 2,
+3 test edilen ekran elektrik arayüzüne ikinci test desenini uygulamak ve optik cevap kararlı kararlı duruma yerleşmiş bekleyin,
+Parlaklık ve / veya ikinci test deseninin kromasiteyi ölçmek ve sonucu kaydetmek 4,
+5 (CR, CM veya K) Yukarıda listelenen ölçümleri birini kullanarak iki test modelleri için ortaya çıkan "statik kontrast" hesaplamak.
+Optik cevap kararlı kararlı duruma yerleşmiş önce parlaklık ve / veya kromatikliği ölçüldüğü zaman, "geçici kontrast" bir çeşit yerine "statik kontrast" ölçülen edilmiştir.
+Geçici kontrast.
+Görüntü içeriği hızla değişen zaman, örneğin video veya film içeriğinin ekranda sırasında, ekranın optik devlet dolayı yavaş yanıt amaçlanan kararlı kararlı duruma ulaşması olmayabilir ve bu nedenle belirgin kontrast statik kontrast ile karşılaştırıldığında ise azalır.
+Dinamik kontrast.
+Bu LCD ekranların kontrast genişletilmesi için kullanılan bir tekniktir.
+LCD-ekranlar kalıcı ışık yayan bir arka plan ışığı ünitesi ve şiddeti ve kromatikliği açısından ışık iletimini modüle önünde bir LCD paneli içermektedir. Görüntü verileri sayısal azaltılmış arka yoğunluğuna düzeltilir ve adapte ederken görüntülenecek görüntü karanlık olduğunda arka karartılmış (küresel) olabilir LCD ekranların kontrast arttırmak için (yani yüksek yoğunluklu görüntü verilerini içeren değil) . Bu şekilde, karanlık görüntülerde karanlık bölgeler geliştirilebilir ve sonraki çerçeveler arasındaki kontrast esas arttırılabilir. Ayrıca bir çerçeve içinde kontrast görüntü histogramı bağlı kasten genişletilebilir (bir görüntüdeki bazı sporadik golleri kesmek veya bastırılmış olabilir). Insan görme sisteminin hoş bir şekilde "dinamik kontrast kontrol tekniği" uygulanması için gerekli oldukça dijital sinyal işleme vardır (örneğin titreme etkisi kaynaklı olmalıdır).
+arka yerel silik olabilir zaman tek kare içinde kontrast ("eşzamanlı kontrast") artırılabilir. Bu LED'ler diziler gerçekleştirilen arka birimleri ile elde edilebilir. CR> 100.000 aralığında (statik) kontrast değerlerini gerçekleştirmek amacıyla Yüksek dinamik aralık (HDR) LCD'ler bu tekniği kullanıyor.
+Karanlık oda kontrast.
+Hatta küçük artışlarla oranının paydasında (LH + DL) 'de DL beri mümkün olan en yüksek kontrast ölçmek için, test altındaki ekranın karanlık devlet, çevreden ışık tarafından bozulmuş olmamalıdır / (LL + DL) etkisi bu katsayı önemli bir azalma sağlar. Bu reklam amaçlı kullanılan en kontrast oranları karanlık oda koşullarında ölçülür nedenidir (aydınlık EDR ≤ 1 lx).
+Tüm emissive elektronik görüntüler (örneğin CRT'ler, PDPs) teorik siyah devlet ışık yaymaz (R = G = B =% 0) ve böylece, hiçbir ortam ışığı ile karanlık oda koşulları ışık ölçüm cihazı içine ekran yüzeyinden yansıyan altında, Siyah devletin parlaklık sıfır ve böylece kontrast sonsuzluk olur.
+Bu ekran-ekranlar tamamen karanlık bir odada, örneğin dışında kullanıldığı zaman oturma odası (aydınlık yakl. 100 lx) ya da bir ofis durum (aydınlık 300 lx minimum) in, ortam ışığı koyu devletin parlaklığına ekleyerek ve böylece önemli ölçüde kontrast azaltarak, ekran yüzeyinden yansır.
+OLED teknolojisi ile gerçekleştirilen bir çok yeni TV ekran bir "karanlık oda kontrast" oranı ile belirtilen CR = 1.000.000 (bir milyon). 100 lx aydınlık ile gerçekçi bir uygulama durumda kontrast oranı, 300 lx ile bu ~ 120 azalır, ~ 350 iner.
+"Ortam kontrast".
+yaşanan ya da çevre aydınlatma varlığında ölçülebilir kontrast kısaca "çevre kontrast" olarak adlandırılır. "Ortam kontrast" özel bir tür aydınlık (100.000 lx kadar) çok yoğun olabilir dış aydınlatma koşullarında kontrast. bu koşullar altında belirgin bir kontrast "günışığı kontrast" denir.
+Bir ekran her zaman karanlık alanlar yansıyan ışık tarafından bozulmuş olduğundan ekran anti-yansıma ve / veya parlama önleyici kaplamalar ile yansımaları azaltmak için etkin önlemler ile temin edildiğinde, makul "ortam kontrast" değerler sadece korunabilir.
+Eşzamanlı kontrast.
+Bir test deseni farklı parlaklık ve / veya kromatikliği (örneğin bir dama deseni) ile alanları içeren ve bir gözlemci belirgin bir kontrast "eşzamanlı kontrast" denir, aynı anda farklı alanlarda gördüğü görüntülendiğinde (terim "eş zamanlı kontrast" zaten Farklı bir efekt için alınmıştır). İki sonradan görüntülenen tam ekran desen elde edilen kontrast değerleri aynı optik devletlerle bir dama tahtası deseni değerlendirilmiştir değerlerden farklı olabilir. O tutarsızlık nedeniyle / veya bağlı ışık ölçüm cihazında Straylight sorunlara ve ekran ekran ideal olmayan özellikleri (örneğin karışma, halation, vb) olabilir.
+Ardışık kontrast.
+Kontrast birbiri ardına algılandığı veya ölçülen iki optik devlet arasında kurulduğunda, bu karşıtlık "ardışık kontrast" denir. iki tam ekran desen (tam ekran kontrast) arasındaki kontrast her zaman bir "ardışık bir kontrast" dir.
+Ölçüm yöntemleri.
+Projeksiyon ekranının özellikleri ise aydınlık değerlerine (projeksiyon görüntüler) bir katsayı testi (doğrudan görünümü veya projeksiyon) kontrast parlaklık değerleri (doğrudan görünümü) bir bölümü olarak değerlendirilir altında ekranın doğasına ya da bağlı Projektörün bu ayrılır. İkinci durumda, dolu beyaz ve tam siyah dikdörtgenler bir dama deseni yansıtılır ve aydınlık dikdörtgenler merkezinde ölçülür. standart ANSI IT7.215-1992 bunu ancak "ANSI lümen" adlı bir miktar tanımlamak değil, test desenleri ve ölçüm yerleri ve aydınlık ölçümlerinden ışık akısı elde etmek için bir yol tanımlar.
+Projeksiyon ekranı (genellikle yönüne bağlı olarak) yansıtıcı özellikleri ölçümüne dahil ise, parlaklık, bir (set) gözlem belirli tarifini ölçülecek olan dikdörtgenler merkezlerinden yansıtıyordu.
+LCD ekranlar Parlaklık, kontrast ve kromatikliği genellikle (yani yönünü inceleyen) gözlem yönü ile değişmektedir. bakış yönünde elektro-optik özelliklerinin varyasyonu görüntüleme konisinin mekanik tarama ("gonyoskopik" yaklaşımı) ya da conoscopy göre aynı anda ölçümler ile ardışık olarak ölçülebilir.

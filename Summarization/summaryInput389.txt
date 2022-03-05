@@ -1,0 +1,234 @@
+Question: DNA’nın genetik bilgiyi aktardığına dair ilk kanıt ne zaman elde edilmiştir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>DNA mikroçip</DOCTITLE>
+<TEXT>
+
+DNA mikroçip (İngilizce: DNA microarray) 'DNA çip', 'gen çip', 'genom çip', veya gen-dizi olarak da bilinen, genellikle herbiri bir geni temsil eden, ayrı ayrı küçük katı yüzeye kovalent bağlarla sabitlenmiş binlerce DNA parçacıkları toplusudur.
+DNA mikroçipleri diğer biyolojik mikroçiplerden (örneğin protein veya antikor mikroçipi) tek farkı DNA'yı ölçmesi veya algılama sisteminin bir parçasını DNAnın oluşturmasıdır. Nicel veya nitel ölçümler zorlayıcı şartlar (İngilizce: "high-stringency") altında seçici DNA-DNA veya DNA-RNA etkileşimi ve florofor tabanlı algılama esaslarına dayanmaktadır. DNA mikroçip teknolojisi çoğunlukla gen ifadesi profilini çıkarmada, yani aynı anda çok sayıda genin ifade (İngilizce: "expression") düzeyinin gözlemlenmesinde veya karşılaştırmalı genomik hibridizasyon çalışmalarında kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Poisson-Boltzmann denklemi</DOCTITLE>
+<TEXT>
+
+Poisson-Boltzmann denklemi elektrolitler içindeki moleküller arasındaki elektrostatik etkileşimleri açıklayan diferansiyel denklemlere denir. Bu denklem aynı zamanda Gouy-Chapman çift tabaka (arayüzlü)'nın matematiksel temelidir; ilk olarak Gouy tarafından tasarlanmış daha sonra Chapman tarafından 1913te tamamlanmıştır. Bu denklem moleküler dinamikte ve biofizikte önemlidir, zira bu denklem, çözücünün yapılar üzerindeki etkilerine ve farklı iyonik güçlere sahip çözeltilerdeki proteinlerin, DNAnın, RNAnın ve diğer moleküllerin etkileşimlerine yaklaşım yapılmasında ve de zımni çözünmeyi modellemede kullanılmaktadır. Genellikle Poisson-Boltmann denklemini kompleks sistelerde çözmek zordur, fakat birçok bilgisayar programı onu numerik olarak çözmek için geliştirilmiştir.
+Bu denklem cgsde şu şekilde yazılır :
+veya mksde :
+burada formula_3 diverjansa , formula_4 konuma bağlı dielektriğe, formula_5 elektrostatik potansiyelin gradyanına, formula_6 çözünenin yük yoğunluğuna, formula_7 çözeltiden sonsuz uzaklıktaki iyon "i" yoğunluğuna, formula_8 iyonun yüküne, "q" protonun yüküne, formula_9 Boltzmann sabitine "T" sıcaklığa, ve formula_10 çözeltide "r" konumunun iyonlara konuma bağlı erişilebilirliğini belirleyen bir faktöre tekamül etmektedir. Eğerki potansiyel kT'ye kıyasla büyük değilse, denklemin daha verimli çözülebilmesi için doğrusallaştırılabilir, ki bu da Debye-Hückel denklemini ortaya çıkarır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İntron</DOCTITLE>
+<TEXT>
+
+Tanım.
+Protein ve enzimler üretilirken , DNA üzerindeki genlerin harf dizilimi örnek alınarak bu genlere karşılık gelen RNA kopya dizilimleri çıkarılır. Kopyalanan bu RNA' lar (mRNA -haberci RNA) yapılıken, genin harf dizilimi baştan sonra tümüyle okunmaz. Bir kısım dizilim okunup kopyası çıkarıldıktan sonra , uzun bir bölüm okunmadan atlanıp başka bir bölüme geçilir ve ordan devam edilir. 
+DNAnın okunmadan atlanan bu bölümüne intron adı verilir. Intronlar, mRNA ve protein kodlamasına katılmazlar. 
+Genlerin kodlamaya katılmayan bu bölümü, toplam insan genomunun yaklaşık %97'lik bir kısmını oluşturur. Kodlanan kısımlara ise ekson adı verilir.
+Gelişim.
+Daha önceleri bu kısımların , DNA'nın hiçbir işe yaramayan kısımları olarak düşünülüyordu ("junk DNA") .Fakat son birkaç yılın bulgularına göre bu bölümlerin de kodlandığı anlaşıldı. Protein yapımına katılmayan intron (ve DNA'nın genler dışında kalan bölümleri) hücre ve canlı yaşamında çok büyük görev ve fonksiyonlar üstleniyor. Bu bölümler çeşitli RNA kodlar. 
+Yeni yeni bulunmaya başlayan bu RNA'lar, doğrudan protein kodlamasalar da;
+Kısaca canlının biyolojik yaşamının neredeyse tümünü, nasıl düzenleneceğini baştan sona sağlıyor.
+Sonuç.
+Bu durum bizden daha az kompleks canlılarda neden daha fazla ya da eşit sayıda genimizin bulunduğunu da açıklıyor. (insanda 20-25 bin gen, solucanda 19 bin, farede 20-25 bin) . Protein kodlamayan (intron) , protein kodlayan (ekson) dan ne kadar fazlaysa , canlı o kadar kompleksleşiyor. 
+Öyle görünüyorki , neyin nasıl olacağını genler değil, işe yaramaz (junk) kısımlar diye bilinen intronların ürettiği RNA lar belirliyor.
+Kaynak.
+Dr.Kenan Ateş - University College London / Moleküler ve hücre biyolojisi
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Schwarz önsavı</DOCTITLE>
+<TEXT>
+
+Matematiğin bir alt dalı olan karmaşık analizde Schwarz önsavı, karmaşık düzlemdeki birim daire üzerinde tanımlı ve değer kümesi yine aynı birim daire olan holomorf fonksiyonların aldığı değerlerin üzerine kestirimler veren önemli bir sonuçtur. Her ne kadar bilim dizininde önsav olarak isim almışsa da kendi başına önemli bir teoremdir. Bu sonuç, günümüzde herhangi bir karmaşık analiz kitabında ifade edilen şeklinden daha farklı bir şekilde ilk defa Alman matematikçi Hermann Amandus Schwarz tarafından kendi doktora tezinde ifade edilmiştir. Sonucu günışığına çıkarıp günümüzdeki ifadesini yazan ve aynı zamanda bu önsavın tanınmasını sağlayan matematikçi ise Yunan matematikçi Constantin Carathéodory olmuştur. 
+Karmaşık analizin diğer önemli sonuçlarına göre daha kolay bir kanıta sahip olmasına ve bunun yanında basit bir sonuç olmasına rağmen, Schwarz önsavı yine de karmaşık analizin merkezi bir kullanım aracı haline gelmiştir. Bunun nedeni ise, Riemann tasvir teoremi gibi önemli teoremlerin kanıtlanmasında ve yine karmaşık analizin geliştirilmesinde sıkça kullanılan bir sonuç olmasıdır.
+Schwarz önsavı'nın ifadesi.
+formula_1
+karmaşık düzlemdeki birim daire olsun. formula_2 fonksiyonu da formula_3 koşulunu sağlayan holomorf bir fonksiyon olsun. 
+O zaman, her formula_4 için 
+eşitsizlikleri vardır. 
+Ayrıca, 0 'a eşit olmayan bir formula_4 için 
+"veya" 
+varsa, o zaman "f" bir döndürme fonksiyonudur; yani, birim çember üzerindeki bir "a" karmaşık sayısı için formula_10 olarak yazılabilir.
+Kanıt.
+Kanıt aslında karmaşık analizdeki maksimum ilkesini 
+fonksiyonuna uygulamaktadır. formula_3 olduğu için paydadaki "z" değerinin "g" fonksiyonunun holomorfluğunu bozacak bir etkisi yoktur. Bunu daha kesin bir dille anlatmak için Riemann kaldırılabilir tekillik teoremi kullanılabilir. O yüzden, "g" de birim daire üzerinde holomorf bir fonksiyondur. "r" < 1 için
+kapalı dairelerine bakalım. "g", formula_14 'lerin her birinde holomorf olduğu için, "g" 'ye maksimum ilkesini uygulayabiliriz. O zaman, formula_14 'deki her "z" 'den bağımsız olarak formula_14'nin sınırı olan çemberin üzerinde bir formula_17 sayısı vardır öyle ki her formula_18 için formula_19 eşitsizliği sağlanır. Daha açık bir şekilde yazarsak ve varsayımlarımızı da kullanırsak, o zaman
+elde ederiz. Ancak, burada aldığımız formula_14 birim dairenin içinde kalan ve 0 merkezli olan keyfi bir daireydi. Son elde ettiğimiz eşitsizlikte here iki tarafın "r" 1'e soldan giderken limitini alırsak, 
+elde ederiz ki bu da 0'dan farklı her "z" için formula_5 eşitsizliğini verir. Bu eşitsizlik, 0 noktasında "f" 0 değerini aldığı için zaten vardır. O halde, önsavın ifadesinde geçen ilk sonuç elde edilir.
+İkinci sonucu elde etmek içinse, sırasıyla "f" 'nin 0 noktasındaki türevinin tanımını, "g" 'nin tanımını ve son olarak "g" için yukarıda elde edilen eşitsizliği kullanmak yeterli olacaktır:
+Ayrıca, "D" 'de 0'dan farklı bir "z"0 sayısı için "|g"("z"0)| = 1 eşitliği varsa, o zaman "g" 'ye yine maksimum ilkesini uygulayıp "g" 'nin bir sabit fonksiyon olduğunu elde ederiz. "|g|", "z"0 noktasında 1 değerini aldığı içinse, bu sabit fonksiyonun mutlak değerinin 1 olduğu sonucuna varırız. O zaman, birim çember üzerindeki bir "a" karmaşık sayısı için formula_25 ve bu yüzden formula_10 eşitliği vardır.
+Yine, formula_9 eşitliği varsa o zaman yukarıda "f" 'nin 0 noktasındaki türevi için yazdığımız ifadeden "g" 'nin 0'daki değerinin 1 olduğunu çıkarırız. İlk durumdaki tartışmanın aynısı yine istediğimiz sonucu verecektir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşrefoğlu Camii</DOCTITLE>
+<TEXT>
+
+Eşrefoğlu Camii, Anadolu'daki ahşap direkli camilerin en büyüğü ve orijinalidir. Konya'nın Beyşehir ilçesinin kuzeyinde, İçerişehir Mahallesi'nde yer alır. 1296-1299 yılları arasında yapılmıştır.
+Orta Asya'da Semerkant, Buhara gibi eski Türkistan şehirlerinde yer alan ağaç direkli camilerin ülkemizdeki bir örneği olan Eşrefoğlu Camii, 46 ahşap sütun üzerinde yükselir.Sütunlar meşe ağacı odunudur ve inşa edilmeden önce 6 ay suda bekletilmiştir. Yüzyıllar boyu kış aylarında camiinin damındaki kar, çatının ortasındaki boşluktan ortadaki havuza atılmış ve ortamı nemlendirerek yakılan sobalardan ötürü ahşap sütunların çatlayıp kurumasını engellemiştir. 1965 yılında karlığın üstü camla kapatılmış ve işlevini yitirmiştir. 
+6 metre yüksekliğinde, çini mozaik ile kaplı çok görkemli bir mihraba sahiptir. Anıtsal bir taç kapısı vardır. Minberi tamamen ceviz ağacından, oymalı ve çatmalı tutkalsız yapılmıştır. İnanılmaz bir düzgünlük ve incelikte yapılan minber geometrik şekiller ve bitkisel bezemelerle kaplıdır. Caminin tavanı renkli kalem işi süslemelere sahiptir. Özellikle konsollardaki kök boyalı motifler dikkat çekicidir. Eşrefoğlu Camii, Selçuklu Ulu Camiilerinde görülen şu özelliklerin tamamını barındıran tek örnektir: Çoğul ahşap sütunlu, tavanı tamamen ahşap ve kalem işçliği ile süslenmiş, minber tamamen ahşap ve Kündekari tekniği ile yapılmış, mihrabı çinili. 
+Beylikler Devri'nde Eşrefoğlu Beyi Süleyman Bey tarafından yaptırılan bu camii, Eşrefoğlu toplu yapıları içinde yer alır. Cumhuriyet döneminde 1934'ten itibaren zaman zaman tamir edilmiştir. Bu tamiratlar sonucu toprak çatı, önce kiremitle örtülmüş; sonra bakırla kaplanmıştır.
+Emir Seyfettin Süleyman'ın 1301 tarihli türbesi, camiinin doğu duvarına bitişiktir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Din</DOCTITLE>
+<TEXT>
+
+[[Dosya:Pagan religions symbols.png|Çeşitli dini semboller, soldan sağa:1. sıra: Slav, Keltik, Cermenik2. sıra: 
+Helenizm, Vika, Roma</br />3. sıra:
+Tanrıça tapınması, Kemetizm, Semitik|thumb|250px]]
+Din, genellikle doğaüstü, kutsal ve ahlaki öğeler taşıyan, çeşitli ayin, uygulama, değer ve kurumlara sahip inançlar ve ibâdetler bütünü.
+Zaman zaman inanç sözcüğünün yerine kullanıldığı gibi, bazen de inanç sözcüğü din sözcüğünün yerinde kullanılır. Dinler tarihine bakıldığında, farklı kültür, topluluk ve bireylerde din kavramının farklı biçimlere sahip olduğu, dinlerin müntesipleri tarafından her çağda, coğrafya ve kültür değerlerine göre yeniden tasarlandığı görülür. Arapça kökenli bir sözcük olan din sözcüğü, köken itibariyle "yol, hüküm, mükafat" gibi anlamlara sahiptir.
+Tanımlar.
+Din kavramı Encyclopedia.com'da şöyle tanımlanır:
+Türk Dil Kurumu sözlüğünde:
+Farklı din tanımlamaların ortak noktaları birleştirildiğinde, din insanlara bir hayat tarzı sunan, onları belli bir dünya görüşü içinde toplayan kurum, bir değer biçme ve yaşama tarzı; yaratıcıya isteyerek bağlanma, birtakım şeyleri duyma, onlara inanma ve onlara uygun iradi faaliyette bulunma olgusu; üstün varlıkla ona inanan insan arasındaki ilişkiden doğan deneyimin inanan kişinin hayatındaki etkileri olarak tanımlanabilir. 
+Genel olarak din, doğaüstü bir nitelik taşır, mukaddestir, değişmezdir (dogmatik) ve gönülden bağlanmayı yani teslimiyeti gerektirir. Pek tabii ki din tanımı, özellikle dini bir bakış açısından, her farklı dini grup ve dinde çeşitlilik gösterir. Dinin taşıdığı nitelik ve öğeler de farklı dinlerde büyük bir değişiklik ve çeşitlilik göstermektedir.
+Din kavram, anlayış ve türlerinin gelişimi tam olarak bilinemediği gibi tam olarak belirlenememektedir de. Bunun en büyük nedeni, açıkça ayrıştırılabilecek devrelere sahip olmamasıdır. Yine de, özellikle 1800'ler sonrası yapılan arkeolojik kazılar ve dünyanın geri kalanından izole edilmiş kültürlerin antropolojik ve tarihi yapılarına dair elde edilen bilgi ve gözlemler sayesinde, bir kronoloji elde edilememiş olsa da bir tipoloji geliştirilebilmiştir.
+Bugün eldeki bulgular ve var olan kültürel çeşitlilik sayesinde, gerek eski gerek yeni farklı din tipleri, formları ve anlayışları tanımlanmıştır. Bu tanımlamalar akademisyenler arasında çeşitlilik gösterse de belli bir oranda benzeşmektedir.
+Dinle İlgili Bazı Konu ve Anlayışlar.
+Din ve Bilim.
+Dini bilgi, çoğu dindar insana göre, dini önderler, kutsal metinler ve/veya şahsi ilham ile kazanılır. Bazı dinlere göre bu tür bir bilgi sınırsız bir mahiyettedir ve her türlü soru ve soruna cevap niteliği taşır. Bazı dinlere göre ise dini bilgi hayata özellikle dini ve pratik anlamda etki eder ve gözlem ile elde edilen bilgiyi tamamlayıcı niteliğe sahiptir. Bazı dinler ve dindar grup ve bireylere göre ise bahsedilen yollardan elde edilen dini bilgi kesin, şüphesiz ve asla yanılmaz türdendir. Dini bilginin tanımı, idrak ve tahlil ediliş biçimleri çoğu zaman dinden dine, mezhepten mezhebe ve bireyden bireye değişiklik gösterir.
+Bilimsel bilgi ve metod ise, tam tersi biçimde, dünya ile birebir temasa dayanır ve sadece fiziksel evren ile ilgili kozmolojik soru ve sorunlara cevap verebilir - cevap arar. Tüm bilimsel bilgi şüphe ihtimali barındırır ve daha sağlam delillere dayanacak gelişim ve değişime açıktır.
+Din, Felsefe ve Metafizik.
+Dini ve bilimsel doktrinler arasında, metafiziksel kozmolojinin felsefi perspektifi yer almaktadır. Bu yaklaşım, antik çağda evren, insanlık ve Tanrı kavramının doğası üzerine mantıki yargılar çıkarmaya çalışmaktaydı. Din ve Bilim arasındaki anlaşmazlığı çözmek için geliştirilmiş önemli felsefi araçlardan biri de Occam'lı William tarafından dini savunmak için geliştirilmiş, "Occam'ın usturası"dır. Fakat bu argüman sıklıkla bilim felsefesinde bilimi savunmak için kullanılmaktadır.
+Bu hususta not edilmesi gereken bir şey de felsefenin epistemoloji dalıdır. Bu dal, insan bilgisinin doğası ve sınırlarının yanı sıra inançların, doğru veya yanlış olduğunu nasıl anlayacağımızı veya kabul edeceğimizi sorgular.
+Ezoterizm ve Mistisizm.
+Mistisizm, felsefe ve metafiziğin aksine, mantığın yücelme ve aydınlanmanın en önemli yolu olmadığını öne sürer. Daha çok çeşitli fiziksel disiplinlerde odaklanır; yoga, açlık, dönme (örneğin sema), çile ve hatta psikoaktif maddelerin kullanımı gibi.
+Mistisizm, mutlak gerçek, ilahi olan, ruhani hakikat veya Tanrı ile veya onun varlığının bilinci ile birleşmeye çalışmak, bunun için çeşitli yol ve öğretileri takip etmek, buna rasyonel düşünce ile ulaşılamayacağını bildirmektir. Mistikler, deneysel ve entelektüel kavrayışın ötesinde çeşitli gerçekliklerin varlığına inanır ve bunlara kişisel deneyimlerle (tecrübe) ulaşılabileceğini düşünürler.
+Ezoterizm, inanç yerine entelektüel anlayışa dayanmayı, dinden daha sofistike olduğunu ve psiko-spiritüel transformasyon teknikleriyle felsefede çeşitli gelişmelere neden olabilineceğini öne sürer (bknz. ezoterik kozmoloji). Ezoterizm, sadece gelişmiş, imtiyazlı kişilere açık olup kuşaktan kuşağa aktarılan 'gizli' bilginin varlığından bahseder. Bu kamuya açık olan egzoterik bilginin tersidir. Özellikle ruhsal (ruhani) uygulamala ve disiplinlere önem verir ve uygulanır. Antik Yunanistan'ın mistik dinleri ve modern Scientology dini Ezoterizm'in örneklerindendir.
+Çeşitli Dünya Dinleri.
+Dini mezheplerin inananlara göre sıralanmasında ise, Roma Katolik Kilisesi Hristiyanlık'taki en büyük mezhepken, Sünnilik İslam'da ve Vaişnavizm de Hinduizm'deki en büyük mezheplerdir.
+Şinto dini bu dinlerin arasında inananların sayısı hakkında soruna sahip dinlerdendir. Zira kişisel bildirimin yanı sıra tapınaklar da bağlı bulunan inananların sayısını bildirir. 17. yüzyıldan beri, Japonya'da Şinto tapınaklarına kayıt işlemini zorunlu kılan yasalar vardır. Bu işlem yüzünden, Japonların yaklaşık %75-90'ı tapınak kayıtlarında yer almaktadır. Bu da inananların kesin sayısını büyük oranda tahrif eder. Bazı anketler sonuçları Japonların yaklaşık %3.3'ünün kendisini "Şinto" olarak tanımladığını göstermiştir.
+Nüfus Oranları.
+Orta Ölçekli Dinler
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fenerbahçe Feneri</DOCTITLE>
+<TEXT>
+
+Fenerbahçe Feneri, İstanbul'un Asya yakasında Fenerbahçe burnunda bulunan deniz feneridir.
+İstanbul Kadıköy ilçesinde, semte adını veren Fenerbahçe Burnu’ndaki bu fenerin tarihi Bizans dönemine kadar inmektedir. Burada tanrıça Hera’ya atanmış bir tapınak olup, Hera ve İreas diye adlandırılan kayalıklara yakın bir yerde imiş. Bu kayalıkların üzerine ise bir ateş kulesi yapılmış. Osmanlı dönemi kaynaklarında bu “Bağçe-i fener “ adı ile 1570 senelerinde kullanıldığı yazılıdır.Kanuni Sultan Süleyman Recep 969 (Mart 1562) tarihli bir fermanında bu fenerden şöyle bahsedilmektedir:
+“Kalemiç burnu nâm mahalde Müslümanların ve gayrin gemileri gece ile gelüp geçerken fânûs olmamağın, ekser zamanda taşa çalup zarar ve ziyan olmağın mahâll-i mezkûrda bir fânûs yeri bina etmek murad edinmeğin, buyurdum ki.”
+Bu fermandan anlaşıldığına göre, bugün Fenerbahçe Burnu dediğimiz o zamanki (Kalemiç) Burnunda çalışan bir fener olmadığı ve ilk defa Kanuni Sultan Süleyman zamanında inşa edildiği anlaşılmaktadır. Kömürciyan 1661’de yazdığı “İstanbul Tarihi” isimli kitabında buradan, 
+“ …denizin içine atılmış metin bir temel üzerinde yekpare bir heykel gibi yükselen kulenin tepesinde yanan ve gemileri kayalara çarpmaktan korumak için her gece sabaha kadar bir yıldız gibi parlayan” 
+diye bahsetmektedir.
+XVII. yüzyıl Vakanüvistlerinden Râşid 1720-1721’deki tarihinde bu feneri yeni yapılacak fenerlere örnek olarak gösterir. Hüseyin Ayvansarayî de Hadîkatü’l-Cevâmi isimli eserinde:
+diye buradan bahsetmektedir.
+XVIII. yüzyıla ait tarihlerde ise burasının sadrazam ve devlet ricalinden sürgüne gönderildiklerinde kısa bir süre burada tutulduklarını yazar. 1707’de III. Ahmed’in kubbe veziri olan Seyyid Firarî Hasan Paşa Fenerbahçe Feneri’nin fenerci odasında, fenere çıkan kapının dibinde boğdurulmuş ve başı kesilerek vücudu buradan denize atılmıştır. Kesik baş, önce saraya götürülmüş sonra da Sarayburnu’ndan denize atılmıştır.
+Bugünkü Fener binası 1837’de II. Mahmut zamanında yenilenmiş ve daha sonra da zaman zaman tamir edilmiştir. Zeminden 21 m. yükseklikteki yuvarlak kulesinin üzerinde iki ayrı kat halinde etrafı parmaklıklı gezinti yeri bulunmaktadır. Kulenin dibinde ise tek katlı bir bina fenere ait depo ve lojman olarak kullanılmaktadır.ayrıca Mercek yapısı sabit kristal olan fener, ışığın 15 deniz mili uzaktan görülmesini sağlıyor. Fenerbahçe Feneri, idamlar dahil pek çok olaya sahne olmuş, ingiliz işgali siırasında İngiliz askerleri kuleye çıkmak istemişler Fenerci Mediha Hanım ve annesi, içkili askerleri elinde sopayla kovalamış.Cumhuriyet'in 10'uncu yıl kutlamalarında ışıklandırılıp süslenmiş.II. Dünya Savaşı yıllarında fenerin kristali siyah perde ile kapatılarak karartılmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Operet</DOCTITLE>
+<TEXT>
+
+Operet, olayları gülünç ve toplumsal, siyasal yergi öğeleri içererek anlatan müzikal sahne oyunudur. 
+Dünya'da operet.
+Olay ve kişilerin özelliklerinin sınırı çok belirgin olmadığından opera komikle ayrımını çizmek zordur. 
+Fransızca operet.
+Operet, 19. yüzyılın ortasında, gittikçe ciddi konulara eğilmeye başlayan ve temsil zamanları gittikçe uzayan opera comique janrındaki eserlere bir reaksiyon olarak ortaya çıktı. Sıfatları "comique" olmakla beraber bu janr ismi yaniltici olmaya başlamıştı; örneğin Bizet'nin popüler Carmen adlı eseri "opera comique" olarak nitelendirilmekte ise de içeriği bir trajediyi sahnelemekteydi. Operet daha kısa ve daha hafif konuları içeren müziksel eser olarak Fransız seyircisi için Jacques Offenbach tarafından kurulduğu kabul edilmektedir (örnegin (1863)de temsil edilen "Güzel Helen (La Belle Helene)" eseri). Offenbach operetleri Fransa'da İkinci İmparatorluk boyunca Paris'te çok tutulan bir eğlenceydi. 
+"Emmanuel Chabrier" (örneğin "Fisch-Ton-Kan"), "Edmond Audran" (örneğin "La Mascotte"), Hervé (örneğin "Chilpéric"), "Charles Lecocq" (örneğin "Giroflé-Girofla"), "Robert Planquette", "André Messager" (örneğin "Monsieur Beaucaire"), "Louis Varne" ve diğerleri bu operet geleneğini sürdüren diğer Fransiz bestecilerdir.
+Almanca operet.
+Viyana'da 1870'lerde daha duygusal ve sıcak melodik karakterlerde, yeni bir Almanca diliyle söylenen bir operet tipi ortaya çıktı. Bu janrın en tanınmış bestecisi Johann Strauss (oğul) idi. İlk operet eseri 1871de "Indigo und die vierzig Räuber" olup en ünlü ve dünya sahnelerinde en çok oynanmış operet eseri olan üçüncü opereti Yarasa "(Die Fledermaus)"dir. Hayatı boyunca yazdığı valsler, polkalar, marşlar yanında 16 tane de operet yazmış olup Avusturya milli bestecisi olarak kabul edilmektedir. Bu operetlerin sahnelendiği Viyana'daki Theater an der Wien çok büyük seyirci çekmiştir ve bu seyirciler çok melodik hafif parçaları ankor ile tekrar dinlemeleri tiyatro tarihine geçmiştir.
+Strauss'un zamanında yaşayan Franz von Suppé'in operetlerinin Offenbach eserlerinden modellendiği söylenebilir. Bu Viyana tipi operet geleneği Franz Lehár, Oscar Straus, Carl Zeller, Karl Millöcker, Leo Fall, Richard Heuberger, Edmund Eysler, Ralph Benatzky, Robert Stolz, Emmerich Kálmán, Nico Dostal ve Sigmund Romberg ta 20. yüzyıl ortalarına kadar devam etmiştir. Ama giderek yergisel özelliğini yitiren operet, yumuşak müziğiyle müzikal komediye dönüşmüştür.
+İngilizce operet.
+İngiltere'de Fransız ve Alman operet isminden ayrılmak için "comic opera" adı verilen operetler 19. yüzyıl sonlarında liberetto'yu yazan W.S.Gilbert ve müziği besteleyen Arthur Sullivan tarafından çok popüler hale getirilmiştir. Gilbert-ve-Sullivan ikilisi Kraliçe Viktoriya çağında Ingiltere'de, ABD'de ve diğer İngilizce konuşulan ülkelerde hala çok tutulan 14 tane "comic opera" hazırlamışlardır. Bu operetleri sahnelemek için empresaryo "Richard D'Oyly Carte" özel olarak Londra'da Savoy Tiyatrosunu inşa ettirmiştir. Bu nedenle Gilbert-ve-Sullivan operetlerine "Savoy Operası" ismi de kullanılmaktadır. Bunlar arasında "H.M.S. Pinafore", "Penzance Korsanları (The Pirates of Penzance)", "Mikado" v.b uzun yıllar aynı "D'Oyly Carte Kumpanyası" tarafından hiç değişmeden tekrarlanmış ve devamlı seyirci çekmiştir. Aynı zamanda İngiltere'de Gilbert-ve-Sullivan operetleri amatör yerel grupların en çok temsil ettikleri muziksel eğlencelerden olmuşlardır.
+"Comic opera" veya Savoy operasi tipi İngilizce operetler ABD'de de bestelenip sahnelenmiştir (örneğin Victor Herbert). İngilizce operet geleneği 20. yüzyılda da devam etmiştir (örneğin Edward German, Lionel Monckton, Harold Fraser-Simson). Fakat gerek İngiltere'de gerek ABD "operet" ile "müzikal" arasındaki farklar ortadan kalkmış ve özellikle ABD seyircisinin taleplerine uygun olan "müzikal" geleneğine dönüşmüştür. Yine de "müzikal" ismini taşıyan "Brigadoon", "Candide", "Batı Yakası Hikayesi (West Side Story)" gibi eserlerle operetler arasındaki farkları bulmak zor olmaktadır.
+Türkiye'de operet.
+Operet, Türkiye'de 19. yüzyılın ikinci yarısı ve 20. yüzyılın ilk yarısında yaygın bir tür oldu. Operet besteleyen ilk müzikçi Dikran Çuhacıyan Efendi oldu. Özellikle Leblebici Horhor operetiyle yaygın bir ün kazandı. İsmail Hakkı Bey, doğu müziği sistemleri içinde operetler besteledi. Daha sonra Dr. Suphi Ezgi, Hasan Ferit Alnar, Muhlis Sabahattin Ezgi, Cemal Reşit Rey bu türden ürünler verdiler. 1933de bestelenmiş olan Cemal Reşit Rey'in Lüküs Hayat opereti 6 Mart 1985'te İstanbul Şehir Tiyatroları'nda yeniden sahnelenmiş ve zaman zaman tekrar edilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cebirin temel teoremi</DOCTITLE>
+<TEXT>
+
+Matematikte cebirin temel teoremi karmaşık değişkenli polinomların köklerinin varlığıyla ilgili temel bir sonuçtur. D'Alembert-Gauss teoremi olarak da anılmaktadır.
+Teoremin açık bir ifadesi şöyledir:
+Sonuç olarak, katsayıları tamsayı, rasyonel sayı veya gerçel sayı olan ve sabit olmayan her polinomun en az bir karmaşık kökü vardır; çünkü tamsayılar, rasyonel sayılar ve gerçel sayılar da aslında birer karmaşık sayıdır. Bu sonuç elde edildikten sonra, her polinomun karmaşık sayılar cismi olan formula_1 'de çarpanlarına ayrılabileceği görülebilir; yani daha doğru bir şekilde dile getirilirse, her polinom derecesi kadar sayıda doğrusal fonksiyonların çarpımı şeklinde yazılabilir. Bu doğrusal fonksiyonların üniter olması isteniyorsa bu çarpımın başına bir karmaşık sayı eklenir. Polinom bu son anlatılan şekilde çarpanlarına ayrılmaya çalışılırsa, böyle bir ayırma tek bir şekilde yapılabilir. Matematiksel bir dille şu ifade edilmektedir: Eğer formula_2 ise ve
+"n" dereceli bir polinomsa,
+eşitliği yazılabilir ve bu eşitliğin bu şekilde yazılabilmesi sadece tek bir şekilde yapılabilir. Bu şekilde yazıldıktan sonra, polinomun köklerinin formula_5 olacağı açıktır. Burada polinomun köklerinin birbirinden farklı olmak zorunda olmayacağına dikkat edilmelidir.
+Cebirin temel teoremi, her ne kadar cebirin ve teoremin kanıtlanmasından sonra üretilmiş matematiğin büyük bir bölümünün geliştirilmesinde önemli bir yere sahipse de, isminin içerdiği "cebir" kelimesi teoremi dar bir alana sokmamalıdır. Zira, bu teoremin tamamen cebirsel olan bir kanıtı bile yok gibidir. Teoremin bu isimle anılmasının sebebi teoremin kanıtlandığı dönemde cebirin kendini "denklemler kuramı" yani polinomların çözümüyle uğraşan bir kuram olarak tanımlamasıdır. Ancak, kanıtın yapıldığı zamandan bu yana cebirin kapsamına giren fikirler artmışsa da teoremin ismi değişmeden kalmıştır.
+Teorem, kendine matematiğin içinde oldukça geniş bir uygulama bulmuştur. Örneğin, doğrusal cebirde özyapı dönüşümlerinin indirgenmesinde önemli bir yere sahiptir. Yine analizde, rasyonel fonksiyonların ayrışımında ve daha birçok teoremin kanıtında kullanılmaktadır.
+Teoremin dengi ifadeleri.
+Cebirin temel teoreminin birbirine denk olan değişik ifadeleri mevcuttur:
+Örneğin, 1+i karmaşık sayısı formula_6 polinomunun bir köküdür. Bu halde, teorem "P"(X) polinomunun bir kökünün varolduğunu ifade eder; ancak bu kökün nasıl bulunacağını açıklamaz. Köklerin varlığı ilgili bu ifade aslında karmaşık sayılar cisminin bir özelliğini de tanımlamaktadır. Katsayılarını bir "F" cisminden alan, tek değişkenli ve derecesi en az 1 olan her polinomun yine bu "F" cismi içinde bir kökü varsa, "F" cismine cebirsel kapalı cisim adı verilir. . Teorem bu yüzden şu şekilde de ifade edilebilir:
+Bu sonuç, aynı zamanda bir polinomun bölünmesi bağlamında da, yani karmaşık katsayılı çarpanlarının çarpımına eşit olması anlamında da ifade edilebilir:
+Teorem, derecesi n olan ve karmaşık katsayılı "a"n"X"n +... + "a"1"X" + "a"0 şeklindeki polinomların 
+"a"n("X" - α1)...("X" - αn) halinde de yazılabileceğini işaret eder. Burada, 1'den k'ye kadar değişen her αk polinomun bir köküdür. Burada, farklı k'ler için αk'ler eşit olabilir. Bu durumda, αk'ye "katlı kök" adı verilir.
+Cebirin temel teoremi, katsayıları gerçel sayı olan polinomlar ele alındığında şu dengi ifadelere karşılık gelmektedir:
+Teoremin tarihi.
+Peter Rothe (Petrus Roth), 1608'de yayımlanan "Arithmetica Philosophica" adlı kitabında gerçel katsayılara sahip n'yinci dereceden bir polinom denkleminin n tane çözümünün "olabileceğini" yazmıştır. Albert Girard, 1629'da yayımlanan "L'invention nouvelle en l'Algèbre" adlı kitabında n'yinci dereceden bir polinom denkleminin n tane çözümünün olduğunu yazmıştır. Dahası, bu ifadesinin "denklem eksikli olmadıkça" geçerli olduğunu ifade etmiştir. Ancak, ne demek istediğini detaylı bir şekilde açıkladığında, aslında ifade ettiği önermenin her zaman geçerli olduğuna inandığı ortaya çıkmaktadır. Mesela, x4 = 4x − 3 eksikli değildir; ancak yine de 4 kökü vardır:1 (iki kere), −1 + i√2, ve −1 − i√2.
+Yukarıdaki dengi ifadelerde de ifade edildiği gibi cebirin temel teoremini izleyen ifadelerden biri de sabit olmayan ve gerçel katsayılara sahip bir polinomun derecesi bir veya 2 olan, gerçel katsayılı polinomların çarpımı şeklinde yazılabileceğidir. Ancak, 1702'de Leibniz a'nın reel olduğu ve sıfıra eşit olmadığı x4 + a4 türündeki hiçbir polinomun bu şekilde yazılamadığını şöylemiştir. Sonraları, Bernoulli yine aynı ifadeyi bu sefer x4 − 4x3 + 2x2 + 4x + 4 polinomunu kastederek vermiştir. Ancak, 1742'de Euler'den bahsi geçen polinomun
+şeklinde yazılabildiğini belirten bir mektup almıştır (Burada α, 4 + 2√7 sayısının kareköküdür.). Euler, ayrıca
+olduğundan da bahsetmiştir.
+Teoremi ilk kanıtlama girişimi 1746'da d'Alembert tarafından yapılmıştır; ancak kanıtı eksikti. Kanıtın sorunlarından biri de Puiseux teoremi olarak da bilinen bir teoremi varsaymasıdır ki bu teorem bu kanıtın yapılmaya tarihten 100 yıl sonra kanıtlanmıştır. Dahası, bu kanıt da cebirin temel teoremini varsayar. Teoremi kanıtlama girişimi euler tarafından (1749'da), de Foncenex tarafından (1759'da), Lagrange tarafından (1795'de) yapılmıştır. Bu dört girişimin hepsi de Girard'ın ifadesine dayanmaktadır.
+18inci yüzyıl sonunda, köklerin varlığını varsaymayan iki kanıt yayınlandı. Bunlardan biri James Wood tarafından verilmişti ve genel çerçevede cebirsel bir kanıttı; ancak zamanında pek de önemsenmedi. Wood'un verdiği kanıtın aynı zamanda cebirsel bir açığı vardı. Diğer kanıt ise Gauss tarafından 1799'da verilen kanıttı ve genel çerçevede geometrik bir kanıttı; ancak topolojik bir açığı vardı. Bu açık, Alexander Ostrowski tarafından 1920'de kapatılmıştır. Tamamen titizce hazılanmış bir kanıt Argand tarafından 1806'da verilmiştir ve ilk defa burada cebirin temel teoremi gerçel katsayılı polinomlardan değil de karmaşık katsayılı polinomlardan bahsederek ifade edilmiştir. Gauss, daha sonra biri 1816'da ve diğeri de ilk verdiği kanıtın değişik bir hali olmak üzere 1849'da iki kanıt daha yayımlamıştır.
+Teoremi ve kanıtını içeren ilk kitap Cauchy'nin Cours d'analyse de l'École Royale Polytechnique (1821) adlı kitabıdır. Argand'ın kanıtını içermektedir; ancak Argand'a herhangi bir atıf yapılmamıştır.
+Kanıtlar.
+Bu bölümde dahil edilen kanıtların neredeyse hepsi bir şekilde analizden en azından gerçel ve karmaşık fonksiyonların sürekliliğini kullanacak derecede faydalanmaktadır. Bazı kanıtlar türevi ve hatta analitik fonksiyonları kullanmaktadır. Bu yüzden, aslında cebirin temel teoreminin ne temel ne de tamamen cebirsel bir özelliği mevcuttur.
+Teoremin bazı kanıtları sabit olmayan ve gerçel katsayılara sahip polinomların karmaşık bir köke sahip olacağını kanıtlamaktadır. Ancak, bu tür kanıtlar yine de teoremin en genel halini kanıtlamakta yeterlidir; çünkü "p"("z") karmaşık katsayılara sahip sabit olmayan bir polinomsa
+polinomunun sadece gerçel katsayıları olacaktır. Dahası, "z" eğer "q"("z") 'yi sıfır yapan bir sayıysa yani "q"("z") 'nin köküyse, o zaman ya "z" ya da "z" 'nin eşleniği "p"("z") 'nin kökü olacaktır.
+Teoremin cebirsel yöntemleri kullanmayan kanıtlarının büyük bir kısmı "büyüme önsavı" da denilen şu gerçeğe dayanmaktadır: baskın katsayısı 1 olan "n" 'yinci dereceden bir polinom |"z"| yeterince büyükken aslında "zn" gibi davranır. Daha kesin bir ifade ise şöyle verilebilir: öyle bir "R" sayısı vardır ki |"z"| > "R" iken şu eşitsizlik sağlanır:
+Karmaşık analizdeki kanıtlar.
+Kanıt 1: |"z"| ≥ "r" iken |"p"("z")| > |"p"(0)| olacak şekilde orijin merkezli ve "r" yarıçaplı bir kapalı "D" diski alalım. "D" tıkız olduğu için |"p"("z")| fonksiyonunun minimumum "D" üzerinde vardır ve dahası bu minimum "D" 'nin sınır üzerinde değildir. Minimumun var olduğu nokta "z"0 ise, o zaman minimum mutlak değer ilkesi kullanılarak "p"("z"0) = 0 elde edilir. Başka bir deyişle, "z"0 "p"("z") 'nin bir sıfırıdır.
+Kanıt 2: Kanıt 1'in biraz daha değiştirilmiş haliyle teorem yine kanıtlanabilir. Kanıt minimum mutlak değer teoremi kullanmadan yapılabilir (bu tür kanıtların birçoğu Cauchy integral teoremini veya sonuçlarını kullanır); ancak bu kez yapılan şey minimum mutlak değer teoreminin polinomlar için basit adımlarla kanıtlanmasıdır. Daha kesin bir ifadeyle, çelişki yoluyla kanıt yapmaya çalışırsak, formula_14 olsun. O zaman, formula_15 'yi formula_16'ın kuvvetleri halinde açıp şu şekilde yazabiliriz:
+Burada, formula_18'ler formula_19 polinomunun katsayılarıdır ve formula_20 de sabit terimden sonra sıfır olmayan ilk terimin indeksini temsil etmektedir. Ama, formula_21 'a yeteri kadar yakın formula_22'ler için bu polinomun asimptotik olarak formula_23 polinomuna benzer davrandığını gözlemleyebiliriz. Başka bir deyişle, 
+formula_24
+ifadesi formula_21 noktasının belli bir komşuluğunda pozitif bir formula_26 sabiti tarafından sınırlandırılmıştır. Bu yüzden, formula_27 tanımlarsak ve formula_28 alırsak, o zaman yeteri kadar küçük pozitif formula_29 sayısı için üçgen eşitsizliğini de kullanarak
+elde ederiz. "r", 0'a yeteri kadar yakın olduğunda, üstte |"p"("z")| için bulunan bu üst sınır |"a"| 'dan kesinlikle daha küçük olacaktır ve bu da "z"0 'ın tanımıyla çelişmektedir.
+Kanıt 3: Bu bağlamda elde edilen bir başka kanıt ise, "D"'nin dışında|"p"("z")| > |"p"(0)| olduğunu gözlemlenmesine ve bu yüzden |"p"("z")| 'nin karmaşık düzlemdeki minimumunun "z"0 gerçekleşmesine dayanmaktadır. |"p"("z"0)| > 0 ise, o zaman 1/"p" karmaşık düzlemin tümünde sınırlı bir holomorf fonksiyon olur. Karmaşık düzlemin tümünde sınırlı olan holomorf bir fonksiyonun sabit olması gerektiğini belirten Liouville teoremi kullanılarak 1/"p" 'nin sabit olduğu sonucuna ulaşılır. Bu yüzden "p" de sabit olur. Ama bu çelişkidir ve bu yüzden "p"("z"0) = 0 olmalıdır.
+Kanıt 4: Bir diğer kanıt ise arguman ilkesini kullanmaktadır. Pozitif bir "R" gerçel sayısı seçelim öyle ki "p"("z") 'nin köklerinin mutlak değerinin her biri bu "R" sayısından küçük olsun. Böyle bir "R" sayısı vardır; çünkü sabit olmayan ve derecesi "n" olan bir polinomun en fazla "n" tane sıfırı olduğunu biliyoruz. "r" > "R" koşulunu sağlayan her "r" için
+sayısını ele alalım. Burada, "c"("r") 0 merkezli, "r" yarıçaplı ve saatin tersi yöndeki çemberdir. O zaman, arguman ilkesi kullanılarak bu sayının "p"("z") 'nin 0 merkezli ve "r" yarıçaplı açık daire içinde sahip olduğu sıfır sayısı N'ye eşit olduğu elde edilir. "r" > "R" olduğu için bu aynı zamanda "p"("z") 'nin toplam sıfır sayısına eşittir. Diğer taraftan, "n"/"z" 'nin "c"("r") boyunca alınan integralinin 2π"i" 'ye bölünmesiyle "n" sayısı elde edilir. Ama, o zaman bu iki sayı arasındaki fark şöyle olur:
+Sağdaki integralin içinde bulunan rasyonel ifadenin payını derecesi en fazla "n" − 1 iken, paydanın derecesi ise "n" + 1 dir. Bu sebeple, yukarıdaki ifadedeki farkı temsil eden sayı, "r" sonsuza giderken 0'a yaklaşmaktadır. Ancak, bu sayı aynı zamanda "N" − "n" sayısına eşittir. O zaman, "N" = "n" olmalıdır.
+Kanıt 5: Bir başka kanıt ise doğrusal cebir ve Cauchy integral teoreminin birleştirilmesinden elde edilir. Derecesi "n" > 0 olan her karmaşık polinomun bir tane sıfırı olduğunu göstermek için "n"x"n" lik her karmaşık matrisin karmaşık bir özdeğerinin olduğunu göstermek yeterlidir. Çelişki yöntemiyle tartışalım:
+"A", "n"x"n" lik karmaşık bir kare matris olsun ve "In" de "n"x"n" lik birim matris olsun.
+resolvent fonksiyonunu ele alalım. "R(z)" karmaşık düzlemde tanımlı ve matrislerin vektör uzayında değerler olan bir meromorf fonksiyondur. "A" 'nın özdeğerleri, kesinlikle "R(z)" 'nin kutuplarıdır. Varsayımımızdan dolayı "A" 'nın özdeğeri olmadığı için, o zaman "R(z)" tam fonksiyon olur ve Cauchy integral teoremi sayesinde
+elde ederiz. Diğer taraftan, "R(z)" 'yi geometrik seri olarak açarsak
+elde ederiz. Bu formül, yarıçapı ||"A"|| ("A"'nın operatör normu) olan kapalı diskin dışında geçerlidir. Bu halde, "r" > ||"A"|| alalım. O zaman,
+elde edilir. Burada sadece toplamdaki indeksin "k" = 0 olduğu durumda integralin değeri 0 olmaz. Bu bir çelişkidir. O yüzden, "A"'nın özdeğeri vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hammadde</DOCTITLE>
+<TEXT>
+
+Hammadde, endüstride bir ürün ya da yapının elde edilmesinde kullanılan gerekli bileşenlerin işlenip elde edilmesinden önceki durumudur. Bu terim çoğu zaman doğadan elde edilen ve henüz işlenmemiş ya da çok az işlem görmüş maddeleri belirtmek için kullanılır. Demir cevheri, kereste, ham petrol hammadeye örnek olabilecek materyallerdir. 
+Hammaddeler sonsuz değildir ve kendilerini yenileyip yenileyememelerine göre iki başlık altında toplanırlar. Kendilerini yenileme yetisi olmayan hammaddeler genelde doğadan elde edilenlerdir. Uranyum, fosfatlar, demir, bakır, altın gibi madenler ve kömür, petrol, doğalgaz gibi fosil yakıtlar bu gruba girerler. Bunlar, belirli bir zaman dilimi içinde yeryüzünün kendi içinde oluşumuşlardır ve tükendiklerinde tekrar oluşmaları yine uzun zaman alacaktır. 
+Pamuk, keten, hindistancevizi ve deri gibi çok çeşitli kendini yenileyebilen hammaddelerin ise devamlılığının sağlanması için temiz bir çevre gereklidir. Bir ülkenin ekonomisinde hammadde kaynaklarına sahip olmak ya da bu kaynaklara yakın bir noktada olmak en önemli özelliklerdendir. Petrol yatakları üzerinde kurulan ülkeler ve çok çeşitli bitki örtülerinin bulunduğu ekvatoral kuşak ülkeleri bu hammaddeleri pazarlayarak ekonomilerini canlı tutmaktadır.
+
+</TEXT>
+</DOC>
+

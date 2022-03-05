@@ -1,0 +1,15 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+hava hav+Noun+A3sg+Pnon+Dat hava+Noun+A3sg+Pnon+Nom
+kaç kaç+Verb+Pos+Imp+A2sg kaç+Adj
+derece derece+Noun+A3sg+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

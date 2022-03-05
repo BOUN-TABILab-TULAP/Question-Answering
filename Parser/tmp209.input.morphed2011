@@ -1,0 +1,46 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İlk	ilk	+Adverb
+İlk	ilk	+Adj
+İlk	İlk+Noun+Prop+A3sg+Pnon+Nom
+
+kara	kar	+Verb+Pos+Opt+A3sg
+kara	kar	+Noun+A3sg+Pnon+Dat
+kara	kara	+Noun+A3sg+Pnon+Nom
+kara	kara	+Adj
+
+yolu	yol	+Noun+A3sg+P3sg+Nom
+yolu	yol	+Noun+A3sg+Pnon+Acc
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+zaman	zaman	+Noun+A3sg+Pnon+Nom
+
+yapılmıştır	yap	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+yapılmıştır	yap	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

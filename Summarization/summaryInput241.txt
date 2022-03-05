@@ -1,0 +1,255 @@
+Question: Deniz seviyesinden yükseldikçe atmosferin yoğunluğu neden azalır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İşarî hava sürati</DOCTITLE>
+<TEXT>
+
+İşarî hava sürati (IAS), hava taşıtlarındaki ana sürat göstergesinde görülen hız. IAS, İngilizce "indicated airspeed" kavramının kısaltmasıdır. İşarî hava sürati, pito-statik sistemden gelen dinamik ve statik basınç verileri ile hesaplanır. Uçağın performans ve aerodinamik hesaplamalarında kullanılan ana sürattir. Pek çok hava taşıtında sürat knot (deniz mili/saat) cinsinden kullanılır ve sürat saatlerindeki değerler KIAS (knots indicated airspeed) olarak verilir.
+Uçak burnunda veya kanadında pito tüpü denilen ve uçak hareket ettikçe oluşan toplam basıncı ölçen bir alet bulunur. Bu basınç uçağın ileri hareketi sonucu hava kütlelerine çarpmasıyla oluştuğu için darbe veya koçbaşı basıncı olarak da adlandırılır. Aynı zamanda genellikle uçak gövdesinde (yanlarda) bulunan deliklerden gelen verilerle statik (hareketsiz) basınç ölçülür. Toplam ve statik basınç arasındaki fark (dinamik basınç) işarî süratin hesaplanmasında kullanılır. İşarî sürat genellikle KIAS olarak sürat saatinden okunur.
+İşarî hava sürati, uçak deniz seviyesinde ve standart atmosfer basıncında (1013,25 hPA) uçarken gerçek hava süratine (TAS) eşittir. Uçak yükseldikçe havanın yoğunluğu azalır ve pito tüpüne çarpan hava molekülü miktarı azaldığı için IAS TAS'tan daha düşük bir değer gösterir. Uçağın hareket karakteristikleri de hava yoğunluğu ile değişeceğinden IAS pilot için gerçek hava süratinden daha önemli hale gelir. Bu nedenle uçaklardaki ana sürat saati kontrol süratlerini (V1, V2 vs.) işarî hava sürati cinsinden gösterir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Barometre</DOCTITLE>
+<TEXT>
+
+Barometre, atmosfer basıncını ölçmeye yarayan alet. Genellikle civalı (sıvılı) ve aneroid (havalı) olmak üzere yaygın olarak kullanılan iki çeşidi vardır.
+Cıvalı barometre.
+Cıvalı barometre 1643 yılında Evangelista Torricelli tarafından bulunmuştur. Cıvalı barometre, içi cıva dolu dikey bir borudur. Borunun üst ucu kapalıdır. Alt uç ise açık, ancak cıva dolu bir kaba daldırılmış durumdadır. Atmosferin bu kap içindeki cıva yüzeyine yaptığı basınca göre, borunun içindeki cıva sütunu yükselip alçalır. 
+Cıva sütununun yüksekliği barometre basıncını gösterir. Bu basınç deniz düzeyinde, cıva sütunundaki 76 cm yüksekliğe eşittir.
+76 cm-cıva aynı zamanda 1 atmosfer basınca eşittir. Sütundaki cıva düzeyinin alçalıp yükselmesi atmosfer basıncının değiştiğini gösterir ve bu yolla hava durumu tahmin edilebilir.
+Aneroid barometre.
+Aneroid (havalı) barometre atmosfer basıncına bağlı olarak daralan ve genişleyen, daralma-genişleme miktarını da rakamlı bir düzenek sayesinde ölçek üzerinde işaret eden metal bir kutudur. Aneroid sözcüğü "sıvısız" anlamına gelir. 
+Hava taşıtlarında ve dağcılıkta kullanılan altimetreler aneroid barometrenin en yaygın olarak kullanılan örneklerindendir. Atmosfer basıncı deniz seviyesinden yükseldikçe azalır. Altimetre ibresi, gözlemcinin içinde bulunduğu atmosferik basınç düzeyine karşılık gelen yüksekliği gösterir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Neptün</DOCTITLE>
+<TEXT>
+
+Neptün, Güneş Sistemi'nin sekizinci ve Güneş'e en uzak gezegenidir. Adını Roma deniz tanrısı Neptunus'ten alan gezegen, çapına göre en büyük dördüncü, kütlesine göre ise en büyük üçüncü gezegendir. Dünya'nın 17 katı kütlesiyle ikizi sayılabilecek Uranüs'ten çok az büyük ve daha yoğundur. Güneş'e olan uzaklığı ortalama 30 Astronomik birimdir (AU).
+23 Eylül 1846'da keşfedilen Neptün, deneysel gözlemlerden önce matematiksel tahminlerle bulunan ilk ve tek gezegendir. Alexis Bouvard, Uranüs'ün yörüngesindeki beklenmeyen değişikliklere, bilinmeyen bir gezegenin kütleçekimsel etkisinin sebep olduğunu öngördü. Daha sonra Neptün, Johann Gottfried Galle tarafından Urbain Le Verrier'in tahmin ettiği pozisyonun çok yakınında bir bölgede gözlemlendi. Kısa bir süre sonra da en büyük uydusu Triton keşfedildi. Kalan 12 uydusu ise ancak 20.yy'da keşfedilebildi. Neptün şimdiye kadar sadece Voyager 2 tarafından ziyaret edildi.
+Neptün'ün yapısı Uranüs'e çok benzemektedir, bununla beraber bu ikisi, daha büyük gaz devleri olan Jüpiter ve Satürn'ün yapısından biraz farklıdırlar. Neptün'ün atmosferi, Jüpiter ve Satürn'ün atmosferi gibi ağırlıklı olarak hidrojen ve helyum, ve az miktarlarlarda hidrokarbonlar ve azottan oluşmakla beraber, görece yüksek miktarlardaki su, amonyak ve metan buzları ile onlardan ayrılmaktadır. Gök bilimcilerin Uranüs ve Neptün'e bazen buz devleri demesinin nedeni de işte bu farklılığı vurgulamaktır. Neptün'ün iç katmanları, Uranüs'e benzer şekilde ağırlıklı olarak buz ve kayaç malzemelerden oluşmaktadır. Atmosferinin üst katmanlarında bulunan metan, gezegene mavi görüntüsünü vermektedir.
+Uranüs'ün durağan atmosferinin aksine Neptün'ün atmosferi hareketli ve göze çarpan hava olayları ile dikkat çekmektedir. Örneğin, 1989'daki Voyager 2 yakın geçişi sırasında gezegenin güney yarım küresinde Jüpiter'deki Büyük Kırmızı Leke'ye benzer bir Büyük koyu leke vardı. Bu atmosfer olayları, 2100km/s'e varan hızlara sahip Güneş Sistemi'ndeki en güçlü rüzgarlar tarafından gerçekleştirilmektedir. Güneş'e olan uzaklığı nedeniyle, Neptün'ün üst atmosfer katmanları, -218°C'ye kadar düşen sıcaklığıyla Güneş Sistemi'ndeki en soğuk yerlerdendir. Bununla birlikte, gezegenin merkezi yaklaşık 5000 °C kadar sıcaktır. Neptün, 1960'larda farkedilen ve 1989'da Voyager 2 tarafından kesin olarak onaylanan çok ince ve parçalı bir halka sistemine de sahiptir.
+Tarihi.
+Bulunuşu.
+Galileo'nun çizimlerine göre o, Neptün'ü ilk defa 28 Aralık 1612 ve 27 Ocak 1613'te de ikinci kez gözlemlemiş. Ama Galileo iki seferde de Neptün'ü, hareketsiz görüntüsünden dolayı, bir yıldız olarak değerlendirmiştir. Bu sebeple bu gözlemler Neptün'ün keşfi olarak sayılmamaktadır. Tam Galileo'nun ilk gözlemini yaptığı tarihlerde Dünya ve Neptün'ün yörüngedeki hareket yönleri tersine dönmekteydi. Bu kısa zaman aralığı boyunca gezegenler gökyüzünde sabitmiş gibi görünür. Bu da Galileo'nun o zamanki teleskobuyla gezegenin hareketini farketmesini iyice güçleştirmişti. Bununla birlikte, Temmuz 2009'da Melbourne Üniversitesi'nden bir fizikçinin açıklamalarına göre Galileo gözlemlediği bu gök cisminin hareketli olduğunu farketmiş olabilir.
+1821'de Alexis Bouvard, Uranüs yörüngesinin astronomik çizelgelerini yayınladı. Takip eden gözlemler, hazırlanan çizelgelerde kayda değer hataların olduğunu ortaya koydu. Bu da Bouvard'ı, Uranüs ile henüz bilinmeyen bir gök cismi arasında olan kütleçekimsel etkileşimin buna sebep olduğunu düşünmeye itti. John Couch Adams, 1843 yılında elindeki verilerden yararlanarak Uranüs'ün yörüngesi üzerine çalışmaya başladı. Daha sonra George Airy'den yeni veriler edindi ve çalışmalarını 1846 senesine kadar sürdürdü. Yeni bir gezegenin varlığıyla ilgili bazı varsayımlar üretti fakat Airy'nin Uranüs'ün yörüngesiyle ilgili talebine karşılık vermedi.
+Aynı tarihlerde Urbain Le Verrier de Adams'tan bağımsız olarak kendi hesaplamalarını geliştirdi. 1846 Haziran'ında Le Verrier'in yayınladığı bulguları gören Airy, bunların Adams'ınkilerle örtüştüğünü farketti ve Cambridge Gözlemevi müdürü James Challis'i bu öngörülen yeni gezegeni aramaya ikna etti. Challis Ağustos ve Eylül ayları boyunca gökyüzünü taradı fakat bir sonuç çıkmadı.
+Bir taraftan Le Verrier de Berlin Gözlemevi astronomu Johann Gottfried Galle'den gezegeni araştırmasını istedi. Gözlemevindeki öğrencilerden Heinrich d'Arrest, Galle'ye Le Verrier'in tahmin ettiği bölgenin güncel çizelgelerdeki durumuyla o anki gökyüzünün durumunu bir gezegenin sabit bir yıldıza göre yer değiştirmesini de göz önüne alarak karşılaştırmasını önerdi. Le Verrier'in mektubunu aldıkları 23 Eylül 1846 gecesi Neptün, Le Verrier'in tahmin ettiği yerin sadece 1°(Adams'ın tahmininin ise 12° yakınında) uzağında keşfedildi. Challis ise sonradan söz konusu gök cismini Ağustos ayında iki kere gözlemlediğini fakat peşindeki gezegen olduğunu farkedemediğini anladı.
+İsimlendirme.
+Keşfi ertesinde, Neptün, basitçe "Uranüs'ün ötesindeki gezegen" veya "Le Verrier'in gezegeni" biçiminde anılıyordu. İsim konusunda ilk öneri ""Janus"" olarak Galle'den geldi. Daha sonra Challis de "Oceanus" ismini önerdi. Keşfini isimlendirme hakkının kendisinde olduğunu söyleyen Le Verrier Neptün ismini önerdi. Daha sonra Ekim ayında, bu sefer kendi adı Le Verrier'i isim olarak önerdi ve bu öneri kendi ülkesinde destek de buldu. Fakat Fransa dışında kabul görmedi. Fransız almanaklarında Uranüs'ün adı Herschel(gezegenin kaşifi William Herschel'in adından) olarak değiştirildi ve yeni gezegen için de "Leverrier" ismi kullanıldı.
+29 Aralık 1846'da Struve gezegen için Saint Petersburg Bilimler Akademisi'ne Neptün ismini önerdi. Daha sonra da Neptün ismi gezegenin uluslararası kabul görmüş ismi oldu. Roma mitolojisi'nde Neptün, deniz tanrısıdır. Dünya haricindeki tüm gezegenlerin ismi Roma mitolojisindeki tanrılardan geliyordu. Neptün için de bu ismin önerilmesiyle bu isimlendirme geleneği korunmuştur.
+Greko-Romen kültürle doğrudan bir ilişkisi olmayan ülkelerde bile bu ismin değiştirilmiş şekilleri kullanılmaktadır. Örneğin, Çince, Japonca ve Korece'de gezegen için "Deniz Tanrısı'nın Yıldızı" anlamındaki yerel sözcükler kullanılmaktadır.
+Yapısı.
+1.0243 kg'lık kütlesi, Dünya'nın 17 katı fakat Jupiter'in 1/19'udur. Gezegenin yüzey kütleçekimini sadece Jupiter aşar. Güneş Sistemi'nde yüzey kütleçekimi Dünya'dan fazla olanlar, sadece bu iki gaz devidir. 24764km'lik yarıçapı ile de Dünya'nın 4 katı kadardır.
+İç Yapısı.
+Neptün'ün iç yapısı Uranüs'e benzemektedir. Atmosferi toplam kütlesinin %5-%10 kadarını ve dıştan merkeze doğru olan mesafesinin de yaklaşık %10-%20'lik kısmını oluşturur. Atmosfer basıncı 10GPa'yı bulmaktadır. Metan, amonyak ve su oranları atmosferin alt katmanlarında daha yüksektir.
+Bu daha koyu ve sıcak bölge, derinlere gittikçe yavaş yavaş sıcaklığın 5000 °C'yi bulduğu, sıvı bir mantoya dönüşür. Manto, 10-15 Dünya kütlesine denk; su, amonyak ve metanca zengindir. 7000km derinlikten itibaren çekirdeğe kadar ortam koşulları öyle bir hal alır ki metan, elmas kristallerine ayrışır.
+Neptün'ün çekirdeği ağırlıklı olarak demir, nikel ve silikatlardan oluşmaktadır, kütlesi 1.2 Dünya kütlesi kadardır. Basınç, merkezde 7Mbar(700GPa), sıcaklık ise 5400K civarındadır.
+Atmosfer.
+Yüksek kısımlarında, Neptün atmosferi %80 hidrojen, ve %19 helyumdan oluşur. Eser miktarda metan da vardır. Metan, ağırlıklı olarak elektormanyetik tayfın kızıl ve kızılötesi bölgesine denk gelen 600nm ve daha uzun dalga boylu ışınları soğurur. Bu sebeple, tıpkı Uranüs gibi Neptün de mavi görüntüsüne kavuşur. Bununla birlikte, Neptün'ün azur mavisi görünüşüne karşılık Uranüs, hafif turkuvaza çalan bir görünüme sahiptir. Uranüs ve Neptün atmosferindeki metan miktarları çok benzer olduğu için bu farkın nedeninin atmosferlerdeki henüz bilmediğimiz bazı farklı bileşenler olduğu düşünülüyor.
+Neptün atmosferi iki ana katmandan oluşur; içteki troposferde sıcaklık yükseldikçe azalır ve dıştaki stratosferde ise sıcaklık yükseldikçe artar. Bu iki katmanı ayıran tropopoz 0.1bar(10kPa) basınc seviyesindedir. Stratosferden sonra ise, 0.0001microbar ve daha düşük basınçtaki termosfer başlar. Ve son olarak termosferden sonra ekzosfer bulunur.
+Yapılan çalışmalar Neptün troposferinin, yüksekliğe bağlı olarak değişen bileşimlere sahip bulutlar barındırdığını göstermiştir. Yüksek seviylerdeki bulutlar, sıcaklığın metanın yoğunlaşmasına izin verdiği 1 barın altındaki basınçlarda oluşur. 1 - 5 bar arasındaki basınçlarda amonyak ve hidrojen sülfür bulutlarının oluştuğuna inanılıyor. 5 barın üzerindeki basınçlarda ise bulutlar amonyak, amonyum sülfit( (NH4)2S ) ve sudan oluşuyor olabilir. Daha derinlerdeki su buzu bulutları, sıcaklığın 0 °C'ya kadar yükseldiği 50 bar civarındaki basınçlarda meydana geliyor olmalı. Daha da alt kısımlarda amonyak ve hidrojen sülfit bulutları bulunabilir.
+Sebebi henüz bilinmeyen nedenlerden dolayı gezegenin termosferi 1000 °C gibi anormal derecede yüksek bir sıcaklığa sahiptir. Neptün, Güneş'ten morötesi ışınların bu sıcaklığı üretemeyeceği kadar uzaktadır. Atmosferle gezegenin manyetik alanındaki iyonların etkileşimi de olası sebeplerden biridir. Termosfer ayrıca eser miktarlarda karbondioksit ve su da içermektedir, bunun kaynağının da göktaşları ve tozlar olduğu sanılıyor.
+Manyetosfer.
+Neptün manyetosferi de Uranüs'ünkine çok benzemektedir. Manyetik ekseni, dönme eksenine göre 47° eğiktir. Voyager 2, Neptün'e varmadan önce Uranüs manyetosferinin eğikliğinin gezegenin aşırı eğik dönme ekseninin bir sonucu olduğu tahmin ediliyordu. Ama iki gezegenin manyetik alanlarını karşılaştırdıktan sonra, bilim adamları artık bu aşırı eğikliklere, gezegenlerin iç kısımlarındaki akıntıların neden olduğunu düşünüyor.
+Neptün'ün dipol manyetik momenti 2.2 T·m3'tür. Gezegen yarıçapının yaklaşık 35 katı kadar ötesinde, manyetik alanı Güneş rüzgarlarını yavaşlatarak bir şok dalgası oluşturmaktadır. Güneş rüzgarları basıncının dengelendiği manyetopoz ise Neptün'den, kendi yarıçapının yaklaşık 25 katı kadar ileridedir. Manyetik alanın kuyruğu ise gezegen yarıçapının 72 katı kadar geriye uzanmaktadır.
+İklim.
+Neptün, hızları 600m/sn'ye kadar çıkabilen rüzgarlarla, oldukça hareketli fırtına sistemlerine sahiptir. Bulut seviyelerinde ortalama rüzgar hızı, ekvator bölgesinde 400m/sn'den kutuplar civarında 250m/sn'ye kadar düşmektedir. Rüzgarların çoğu Neptün'ün dönüş yönünün tersine esmektedir.
+Atmosferdeki metan, etan ve asetilen yoğunluğu ekvatorda kutuplaradan 10-100 kez daha fazladır. Bu da, ekvatorda yükselme, kutuplarda ise alçalma hareketlerine kanıt olarak yorumlanmaktadır.
+2007'de ortalama −200 °C (70 K) sıcaklığıyla Neptün'ün güney yarıküresinde, troposferin üst katmanlarının Neptün'ün geri kalanından 10 °C daha sıcak olduğu keşfedildi. Bu sıcaklık farkı da atmosferin geri kalanında katı halde bulunan metanın gaz haline geçmesine yetmektedir. Bu "sıcak" bölgenin sebebi ise bu aralar Güneş ışınlarının güney yarıküreye vurması nedeniyle bu yarıkürenin "yaz" mevsimini yaşamasıdır. İleride mevsimlerin değişmesiyle, güney yarıküre kararacak ve kuzey yarıküre ışık almaya başlayacaktır ve böylece metan salınımı da, güneyden kuzey yarıküreye geçecek.
+Mevsimsel değişiklikler yüzünden 1980'lerden bu yana, bulutların gezegenin güney yarımküresinde yoğunlaştığı gözlenmiştir.Bu eğilimin 2020'lere kadar sürmesi bekleniyor. Uzun yörünge periyodu nedeniyle Neptün'de mevsimler 40 yıl sürer.
+Fırtınalar.
+1989 yılında, yaklaşık 86milyon km2 alana sahip antisiklonik bir kasırga olan "Büyük koyu leke" Voyager 2 tarafından keşfedildi. Kasırga, Jupiter'deki Büyük kırmızı lekeyi andırıyordu. Bununla birlikte 5 yıl sonra Hubble Uzay Teleskobuyla yapılan gözlemlerde bu leke gözlenemedi. Bunun yerine büyük koyu lekeye çok benzeyen bir kasırga gezegenin kuzey yarımküresinde görüldü.
+Gene Voyager 2'nin 1989'daki geçişi sırasında büyük koyu lekeye göre daha güneyde kalan ve siklonik bir kasırga olan "Küçük koyu leke" de gözlemlendi.
+İç Isısı.
+Neptün'ün Uranüs'e göre daha değişken hava koşulları, iç ısısının görece yüksekliğine bağlanıyor. Neptün Güneş'e, Uranüs'e oranla 1.5 kat uzak olsa da ve Uranüs'ün aldığı günışığının %40'ını alsa da yüzey sıcaklıklığı aşağı yukarı Uranüs'le aynıdır. Neptün troposferinin üst kısımları −221.4 °C sıcaklığa kadar düşer. Atmosfer basıncının 1 bar olduğu seviyede ise sıcaklık −201.15 °C'dir. Uranüs'te olduğu gibi bu ısının kaynağı bilinmemektedir ama tutarsızlıklar daha fazladır: Uranüs'ün yaydığı enerji, Güneş'ten aldığı enerjiye göre sadece 1.1 kat fazladır bununla birlikte bu oran Neptün'de 2.61'dir. Neptün Güneş'ten en uzak gezegendir ama barındırdığı enerji, Güneş Sistemi'nin en hızlı rüzgarlarını besleyebilmektedir. Olası nedenler arasında gezegen çekirdeğinden gelen radyoaktif bozunum kökenli ısı, yüksek basınç altında metanın hidrojen, karbon(elmas) ve uzun zincirli hidrokarbonlara bozunumu sonucu ortaya çıkabilecek enerji ve alt atmosfer katmanlarındaki konveksiyon sonucu stratosferde oluşan hava dalgalarıdır.
+Yörünge ve Dönme.
+Neptün, Güneş'ten ortalama 4.5 milyar km uzaktadır ve Güneş çevresinde bir turunu 164.79 yılda tamamlamaktadır. 12 Temmuz 2011 tarihinde Neptün, 1846'daki keşfinden sonra henüz ilk turunu tamamladı bununla birlikte, gökyüzünde tam olarak keşfedildiği noktada görünmeyecektir çünkü, dünya kendi yörüngesinde o güne göre farklı bir yerde bulunacaktır.
+Neptün'ün yörünge düzlemi Dünya'nınkiyle 1.77°'lik açı yapmaktadır. 0.011'lik dışmerkezliği dolayısıyla Neptün'ün Güneş'e en yakın olduğu uzaklıkla en uzak olduğu uzaklık arasında 101 milyon km fark vardır.
+Neptün'ün eksen eğikliği 28.32°'dir, bu açı Dünya(23°) ve Mars'ınkine(25°) çok benzerdir. Bunun sonucu olarak bu gezegen de benzer mevsimsel değişiklikler geçirir. Ama çok uzun yörünge periyodu dolayısıyla bir mevsimi 40 Dünya senesi sürer. Kendi ekseni etrafında bir turu ise kabaca 16.11 saat sürer. Neptün katı bir yapıya sahip olmadığı için, atmosferi enleme göre farklı hızlarda döner. Ekvatoral bölgenin bir tam tur dönüşü, 18 saate kadar çıkmaktadır. Kutup bölgelerinde ise bu süre 12 saate kadar düşmektedir. Güneş Sistemi'ndeki gaz devleri arasında, bölgeler arası dönüş farkı en fazla olan gezegendir. Bu büyük farklar da enlem bölgeleri sınırlarında çok güçlü rüzgarlar yaratır.
+Yörüngesel Rezonans.
+Neptün, hemen ardından gelen Kuiper kuşağı üzerinde güçlü bir etkiye sahiptir. Kuiper kuşağı Mars'la Jupiter arasındaki ateroid kuşağına benzer olarak ufak, buzlu gök cisimlerinden oluşan bir halkadır. Güneş'e 30AU uzaktaki Neptün yörüngesinin hemen ardınan başlayıp yaklaşık 55AU uzaklığa kadar devam eder. Nasıl ki, Jupiter'in kütleçekimi asteroit kuşağını şekillendiriyorsa, Neptün kütleçekimi de Kuiper kuşağını şekillendirmektedir. Güneş Sistemi varolduğundan beri, Kuiper kuşağının belli bölgeleri Neptün kütleçekimi tarafından dengesizleştirilmekte, belli bölgelerde boşluklar oluşturulmaktadır. 40. ve 42. AU'lar bunun örnekleridir. Bununla beraber Güneş Sistemi'nin oluşumundan bugüne, bu bölgelerde varlığını sürdüren gök cisimleri de vardır. Varlıklarını ise 1:2 veya 3:4 gibi yörüngesel rezonanslara borçlular. Bu şu anlama gelmektedir: Eğer iki gök cisminden biri, Güneş'etrafında bir turunu tamamladığında diğer gök cismi yörüngesinin tam yarısını katetmişse bu iki gök cismi arasında 1:2'lik rezonans söz konusudur. Neptün'ün her 3 turuna karşılık 2 tur anlamına gelen 2:3'lük rezonans, Kuiper kuşağındaki 200 gök cisminde görülür. Bu, Kuiper kuşağı cisimleriyle Neptün arasındaki en yaygın yörüngesel rezonanstır, Plüton da bu gök cisimlerinden biridir. Eliptik yörüngesi nedeniyle bazen Neptün yörüngesine çok yakın geçmesine rağmen bu rezonans sayesinde Neptün'e hiçbir zaman çarpmayacaktır.
+Oluşumu.
+Neptün ve Uranüs'ün oluşum süreçlerini doğru şekilde açıklamak şu anki bilgilerimizle çok zordur. Günümüzdeki modellere göre ilk zamanlarında Güneş Sistemi'nin dış bölgelerinde bu büyüklükteki yapıların oluşumu için yeterli madde miktarı yoktu. Bu nedenle sürekli etrafındaki kütleyi çekerek büyümeye dayalı geleneksel varsayımların yerine farklı modeller geliştirildi.
+Bu varsayımlardan birine göre bu gezegenler maddenin daha yoğun olduğu Güneş'e yakın bölgelerde oluştular ve yavaş yavaş günümüzde bulundukları yörüngelere kaydılar. Şu anda Kuiper kuşağındaki küçük cisimlerin çokluğunu da açıklayabilen bu varsayım gök bilimciler arasında en çok kabul gören varsayımdır. Göç eden Neptün'ün ve diğer gaz devlerinin Kuiper kuşağı üzerindeki etkilerini araştıran bu hipotez, Nice modeli olarak bilinir.
+Uyduları.
+Neptün'ün bilinen 14 uydusu vardır. Bunların içinde açık farkla en büyüğü; William Lassell tarafından, Neptün'ün keşfinden sadece 17 gün sonra gözlenen, Neptün etrafında dönen toplam kütlenin %99.5'ini oluşturan, ve ayrıca küresel şekle sahip olabilecek kadar kütleye sahip tek gök cismi olan, Triton'dur. İstisnai olarak, Güneş Sistemi'ndeki diğer tüm uydulara göre ters yönde bir yörüngeye sahiptir. Bu özelliği onun olduğu yerde oluşmadığını, Neptün tarafından yakalandığını gösteriyor. Eski bir Kuiper kuşağı cüce gezegeni olabilir. Triton yörüngesinde eş zamanlı olarak döner, yani Neptün'e hep aynı yüzü dönüktür. Gelgit ivmelenmesi nedeniyle de gezegenine git gide yaklaşmakadır, 3.6 milyar yıl sonra Roche limitine ulaştığında da parçalanarak yok olacaktır. 1989'da yaklaşık −235 °C (38 K) sıcaklığıyla Triton. Güneş Sistemi'ndeki en soğuk gök cismiydi.
+Neptün'ün ikinci keşfedilen uydusu, Güneş Sistemi'ndeki en eliptik uydu yörüngesiyle Nereid'tir. 0.7512'lik dışmerkezliğiyle; enöte uzaklığı, enberi uzaklığının 7 katıdır.
+1989'da, Temmuz'dan Eylül'e kadar Voyager 2 altı yeni uydu daha keşfetti. Bunlar gezegenin ikinci büyük uydusu Proteus, en içteki dört uydusu Naiad, Thalassa, Despina ve Galatea ve en uzak uydusu Larissa'dır. Beş yeni, küçük ve düzensiz uydu 2004 yılında duyuruldu. Neptün, adını Roma deniz tanrısından aldığı için uydularına da daha küçük deniz tanrıları ve perilerinin isimleri verilmiştir. Neptün'ün 14. uydusu S/2004 N 1'in keşfi 15 Temmuz 2013'te duyuruldu.
+Gözlem.
+Neptün'ü, Jüpiter'in Galileo uyduları ve cüce gezegen Ceres'den bile düşük olan +7.7 ila +8.0 kadirden arasında değişen parlaklığı sebebiyle çıplak gözle göremeyiz. Bir teleskop veya güçlü bir dürbünle ufak mavi bir disk olarak gözlemlenebilir.
+Dünya'mıza olan uzaklığı sebebiyle görünür boyutları da oldukça küçüktür. Bu da gezegen üzerinde görsel verilere dayalı çalışmaları iyice güçleştirmişti. Hubble Uzay Teleskobu'ndan önce teleskoplardan elde edilen veriler oldukça sınırlıydı..
+Keşif ve Araştırmalar.
+Voyager 2'nin Neptün yakın geçişi, 25 Ağustos 1989 tarihinde gerçekleşti. Daha sonra aynı gün içinde Triton'a da bir yakın geçiş yapıldı. Gezegenin manyetik alanının özellikleri, kendi ekseni etrafında dönüş süresi, hareketli atmosferi, uyduları ve halkaları hakkında birçok bilgi, Voyager 2'nin bu ziyareti sırasında edinildi.
+2003 yılında NASA'nın Neptün'e yollanacak bir uzay aracı önerisi yayınlanmıştı. Uzay aracının 2016 yılında fırlatılması öngörülüyordu ama şu anda projenin geleceği belirsizdir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hava yoğunluğu</DOCTITLE>
+<TEXT>
+
+Hava yoğunluğu, atmosferdeki birim hacimdeki havanın kütlesi. Yunanca ρ (ro) harfi ile sembolize edilir. Hava yoğunluğu başta meteoroloji ve havacılıkta olmak üzere, çeşitli bilimsel hesaplamalarda kullanılır. Uluslararası Standart Atmosfer (ISA) şartlarında (deniz seviyesinde, +15°C sıcaklıkta ve 1013,25 mb atmosfer basıncında) havanın yoğunluğu 1,225 kg/m3 'tür.
+Deniz seviyesinden yükseldikçe hem atmosfer basıncı hem de havanın yoğunluğu azalır. Örneğin deniz seviyesinden 40.000 ft (12 km) yükseklikte bir metreküp havadaki molekül miktarı, deniz seviyesindekinin yaklaşık yarısı kadardır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gölköy</DOCTITLE>
+<TEXT>
+
+Gölköy, Ordu ilinin bir ilçesidir.
+Gölköy Ordu ilinin 3. büyük ilçesi olup merkez nüfusu 27.867'dir (2010 tüik verileri). Yüzölçümü 349 km²'dir. İlçe merkezi Ordu-Sivas karayolu üzerine kurulmuştur ve Ordu merkeze uzaklığı 63 km'dir. 
+İlçe sınırları içerisinde iki doğal göl vardır: Ulugöl ve Gök Gölü. Ulugöl, 30.000 m²'lik alanıyla Ordu İlinin en büyük doğal gölü özelliğini taşır. Ulugöl İlçeye 15 km mesafede bulunurken, Gök Gölü ilçe merkezinde yer almaktadır.
+Tarih.
+İlçenin tarihi Ordu ili ve yöresinin tarihi ile birlikte incelenmelidir. Tarihte Hapsamana bugünki ismi ile Gölköy olarak geçen yerde tarih içerisinde çiftçilikle ve madencilikle uğraştığı belirlenen Tiberanlar, Kahilbler, Mossoinkler adı verilen kavimler yaşamışlardır.
+1204 yılında TrabzonRum devletinin kurulması ile Rumların egemenliğine girmiştir.
+Türklerin boylar halinde bölgeye gelip yerleşmeleri Rum devletinin kurulmasından daha önceki tarihlere rastlamaktadır. Anadolu selçuklu devletinin İlhanlı devleti'nin egemenliğine girmesi ile Anadoluya gelen Türk boyları kendi beyliklerini kurmuşlardır.
+Bunlardan biride Mesudiye Milas beyi Hacı Emiroğlu Bayram beydir. Beyliğin hudutları Fidaverendi Hapsamana, Uluğbeğlü, Bayramlu, Milas ve Reşadiye ilçesinin bir bölümüdür. Trabzon Rum devleti tarihçisine göre bu beyliğin onbin civarında askeri vardır. Sanıldığı gibi Şıhman köyü hiçbir zaman belde ya da nahiye konumunda olmamıştır. Asıl yerleşim alanı olarak gerek Rumlar Gerekse Hacı Emiroğulları Bugünki kale köyü ile Çatak Köyü çevresini merkezi yerleşim alanı olarak kullanmışlardır. 1455 tarihli tahrir defterinde yöre ile ilgili birçok kayıt ve yer isimlerine rastlanmakla beraber Hapsamana kalesinin üst olarak kullanıldığı açıkça belirtilmektedir.
+Bizans döneminde yapılmış ve Osmanlı döneminde de kullanılmış olan Hapsamana Kalesi ve Çatak Köyü'nde bulunan tarihi mezarlar, oyma yapılar, mağaralar ayrıca yine Çatak köyü sınırları içinde bulunan Geyik kayası, evlek tarla,Pennecük tepesi gibi doğa harikası yerler ile tarihi hamam ilçenin ziyarete değer yerlerinin başında gelmektedir. Son zamanlarda Çatak Köyü ve Cihadiye Köyü ve Ulugöl başta olmak üzere ilçenin birçok köyü doğal manzara meraklılarının akınına uğramaktadır.
+Coğrafya.
+Orta Karadeniz'de yer alır.
+Ordu, kuzeyinde Karadeniz, doğusunda Giresun, batısında Samsun, güneyinde Sivas ve Tokat illeri ile çevrilidir. Konumu 40-41 derece kuzey paralelleri, 37-38 derece doğu meridyenleri arasındadır. 
+Orta ve Doğu Karadeniz bölümlerinde toprakları bulunan bir ildir. Yüzölçümü 5963 km² dir.
+İklim.
+Ordu`da tipik bir Karadeniz iklimi hakimdir. Kışlar serin, yazlar ılık geçer. Yılın hemen hemen bütün aylarında yağış vardır. Genelde ılıman bir iklim yapısına sahip olmakla, coğrafi yapısı itibarıyla, deniz ve kara olmak üzere iki farklı iklim karakteri gösterir. Kıyıya paralel bir duvar gibi uzanan dağlarla sahil arasında geçiş iklimi görülür. Ölçümlere göre, ensoğuk ay, ocak-şubat aylarıdır. Bu aylarda en düşük sıcaklık sıfırın altına inmekte, 6-7 derece dolaylarında gerçekleşmektedir. İç bölgelerde ensoğuk ay Ocaktır. Bu ayda en düşük sıcaklık -7 dereceye kadar inmektedir.
+Kıyı bölümünde en sıcak ay Temmuz, Ağustostur. Burada kıştan bahara bilhassa yaza geçiş yavaş bir şekilde meydana gelir. Sonbahar ılık olup kış ortasına kadar sürer. İç kısımlarda sıcaklık düşer. Ocak, Şubat ayları sıcaklıkları, kıyı şeridinde sıfırın altına düşmez. Yükseldikçe ısı azalır: Ulubey`de 1 -2 dereceye, Gölköy ve Mesudiye`de 4 dereceye, Aybastı ve çevresinde -8 dereceye kadar düşer.
+Yağışlara gelince, kıyı şeridi en yağışlı kesimdir.
+Sonbaharda yağışlar daha fazladır. Temmuz ayında yağan yağmurlar, sağanak olduğu için, sel karakteri gösterir. Büyük akarsu yataklarından taşarak sahilde büyük hasara sebep olur.
+Kar yağışı kıyılarda çok azdır ve kısa sürer. Ama iç kesimlerde kar yağışı hem yoğundur, hem de kış mevsimi uzun sürer.
+Ordu`da en hakim rüzgar, güneyden esen lodostur. Meltem rüzgarları,yaz aylarında güney-doğu yönünde denizden karaya doğru, ikindiye kadar devam eder. İkindiden sonra aksi istikamette esmeye başlar ve gece boyunca sürer.
+Bölgede ender de olsa, kıble, lodos, keşişleme isimleri verilen çok bir sıcak hava akımı meydana getiren rüzgarlarda eser. Yaz ortalarında estiklerinde fındık ürünü üzerinde büyük zararlar meydana getirirler.
+Nüfus.
+İlçenin nüfusu 2000 genel nüfus sayımına göre 66.491 idi ancak hızlı bir gerileme ile 2010 yılı sonunda yayınlanan tüik verilerine göre 48.344 gibi bir rakama inmiştir.Bunun 27.867'si ilçe merkezinde, geri kalanı ise kasaba ve köylerde yaşamaktadır.Ancak son yıllarda yaşanan göçlerle beraber nüfusta hızlı bir düşüş gözlenmekte ise de yakında açılacak olan üniversite kampüsü ve 2 adet organize sanayi bölgesi umuduyla şehirden köye gözle görülür bir geri dönüş yaşanmaktadır.
+İlçe bağlısı olarak merkez hariç olmak üzere ilçe merkezine bağlı; 6 belde, 18 köy ve 5 merkez mahalleden oluşmaktadır.
+Ekonomi.
+Ekonomi büyük oranda fındık tarımına dayanmakta olduğundan kırılgandır. Ayrıca gençlerin büyük çoğunluğu liseyi bitirince yüksek öğrenime devam yerine, direk işine gitmekte olduğundan, beyin gücünden çok, yoğun beden gücüne dayalı bir iş durumu ortaya çıkmıştır. Bu durum halkın ekonomik düzeyini olumsuz etkilemiştir.Bunun sonucunda sürekli dış göç yaşanmaktadır. Fındığın yanında hayvancılıkta yapılmaktadır.
+Kültür.
+Gölköy Ordu ilinin iç kesiminde yer alan bir ilçedir. İlçe Karadeniz Bölgesi kültürel özellikleri ile kısmen Tokat ilinin kuzey ilçeleri kültürel özellikleri ile harmanlanmış zengin bir kültüre sahiptir.İlçeye bağlı kimi köylerde kendilerine has horonlar mevcut olup ilçe genelinde Ordu Karşılaması çokca oynanan halk oyunudur. Yöre ağzıda Tokat yöresi ile daha çok örtüşmektedir. Yemek kültürü Ordu ilinin geneliyle benzer özelliktedir. Mutfağı çok zengin olup, kırmızı et ağırlıklıdır. Gölköy'ün aşçıları Bolu Mengen'den sonra Türkiye genelinde oldukça meşhur ve adından söz ettirmekte olup, gerek İstanbul gerekse Akdeniz- Ege Bölgesinin 5 yıldızlı otellerinde tercih edilen personelin başında gelmektedir.
+Yönetim.
+Belediyeler.
+Gölköy'de belediye teşkilatı kurulduğundan bu yana belediye başkanlık seçimleri de düzenli olarak yapılmaktadır.
+Seçildikleri yıllara, aldıkları oylara ve siyasi partilerine göre belediye başkanları;
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nüfus Yoğunluğu (EBA)</DOCTITLE>
+<TEXT>
+
+Nüfus yoğunluğu birim alanda yaşayan kişi sayısı olarak ifade edilir. Genellikle km2 de yaşayan kişi sayısı olarak hesaplanır. Bu hesaplama tüm alan için yapılabileceği gibi tarım yapılan alanlar için de yapılabilir. Bir yerin nüfus yoğunluğuna (aritmetik, tarımsal, fizyolojik) bakılarak nüfus ve arazisi hakkında çıkarımlar yapılabilir.
+Aritmetik Nüfus Yoğunluğu
+Bir ülke veya bölgedeki toplam nüfusun, o ülke veya bölgenin yüzölçümüne bölünmesiyle aritmetik nüfus yoğunluğu elde edilir.
+Aritmetik nüfus = Toplam nüfus yoğunluğu / Yüz ölçümü
+Tarımsal Nüfus Yoğunluğu
+Bir ülkede veya herhangi bir sahada, tarım ve hayvancılıkla geçinen nüfusun, tarımsal alana bölünmesiyle elde edilen nüfus yoğunluğudur.
+Tarımsal nüfus = Kırsal nüfus yoğunluğu / Tarımsal nüfus
+Fizyolojik Nüfus Yoğunluğu
+Toplam nüfusun, ekili - dikili alanlara bölünmesiyle ortaya çıkan nüfus yoğunluğu fizyolojik nüfus yoğunluğunu oluşturur.
+Fizyolojik nüfus = Toplam nüfus yoğunluğu / Tarım alanları
+Yüz ölçümü küçük ve nüfusu fazla olan alanlarda aritmetik nüfus yoğunluğu fazladır. Ancak bu nüfus yoğunluğu ülkelerin gelişmişlik seviyeleri hakkında bilgi vermez.
+Tarımsal nüfus yoğunluğu üzerinde ülkenin gelişmişlik seviyesi, arazinin engebe durumuna göre tarım alanlarının genişliği ile çiftçi sayısı gibi faktörler etkili olmaktadır.
+Tarımsal nüfus yoğunluğu ile fizyolojik nüfus yoğunluğu birbirine yakınsa, o ülkede çalışan nüfusun büyük bir bölümü tarım sektöründe çalışıyordun
+Bir ülkedeki aritmetik ve fizyolojik nüfus yoğunluğu arasındaki farkın fazla olması o ülkede engebenin fazla olduğunu gösterir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Deniz suyu</DOCTITLE>
+<TEXT>
+
+Deniz suyu, denizlerde ve okyanuslarda bulunan su. Dünyadaki bütün okyanuslardaki ortalama tuzluluk yaklaşık %3.5'tur. Bu oran, her bir kilogram (ya da litre) deniz suyuda yaklaşık 35 gram çözünmüş tuz (çoğunluğu sodyum klorür iyonları olan Na+ ve Cl-) içeriğini belirtir. Deniz suyunun ortalama yoğunluğu su yüzeyinde 1.025 g/ml (1025 kg/m3)'dir. İçeriğindeki tuz taneciklerinin kütlesinden dolayı deniz suyunun yoğunluğu tatlı/saf suyun yoğunluğundan fazladır; (4oC sıcaklıkta 1.000 g/ml). Deniz suyunun donma noktası tuzluluktaki artışla orantılı düşer; %3.5 tuzluluk derecesinde yaklaşık -2oC'dir.
+Tuzluluk.
+Deniz sularının büyük bir kısmı %3.1 ilâ %3.8 tuzluluk değerlerine sahip olsa da dünya üzerinde denizlerdeki tuzluluk oranı farklılık göstermektedir. Tuzlu su ile tatlı suyun karıştığı nehir ağızlarında veya buzulların erime bölgelerinde deniz suyu önemli ölçüde daha az tuzludur. En tuzlu açık deniz Kızıldeniz'dir. Aşırı buharlaşma, düşük yağış, denize karışan nehir suyunun azlığı ve kısıtlanmış su dolaşımı bu durumun başlıca sebepleridir. Lut Gölü gibi kapalı havza denizlerde ise tuzluluk kayda değer derecede daha fazladır.
+Deniz yüzeyinde su yoğunluğu, suyun sıcaklığına ve tuzluluğuna bağlı olarak 1,020 - 1,029 kg/m3 arasında değişebilir. Okyanusun derinliklerinde çok yüksek basınç altında deniz suyunun yoğunluğu 1,050 kg/m3 veya daha yüksek değerlere ulaşabilir. Deniz suyunun pH değeri 7.5 ile 8.4 değerleri arasında sınırlıdır. Deniz suyunda ses hızı 1,500 m/s civarında olmakla birlikte sıcaklık, tuzluluk ve basınç ile değişir.
+<br clear=all>
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akım yoğunluğu</DOCTITLE>
+<TEXT>
+
+Akım yoğunluğu elektrik devresinde yoğunluğu bir ölçüsüdür. vektör olarak tanımlanır ve elektrik akımının kesit alana oranıdır. SI'de akım yoğunluğu amper bölü metrekare veya coulomb bölü saniye bölü metrekare'dir.
+Elektrik akımı kabaca, tüm teldeki ortalama akım miktarıdır. Eğer akan yük dağılımını açıklamak istersek akım yoğunluğunu şöyle ifade edebiliriz:
+burada
+Bir S yüzeyi boyunca akan akım söyle hesaplanabilir:
+– burada akım, akım yoğunluk vektörü ile diferansiyel yüzey elemanı formula_8 nın noktasal çarpımının integralidir örn, akım yoğunluğunun net akısı S yüzeyi boyunca uzanan vektör alanıdır.
+Akım yoğunluğu Ampère yasasında önemli bir parametredir (Maxwell denklemlerinden biri). Bu, akım yoğunluğu ile manyetik alan arasındaki ilişkiyi gösterir. 
+Akım yoğunluğunun ıraksayı.
+Iraksay teoreminden,
+yük korunumundan,
+tüm hacim için bu değer,
+Bu süreklilik denklemi olarak ta adlandırılır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Laramie, Wyoming</DOCTITLE>
+<TEXT>
+
+Laramie ABD'nin orta-batisinda Wyoming eyaletindeki Albany County'nin merkez şehridir. Şehir Laramie Nehri üzerine kurulmuştur, Wyoming'in güneydoğusunda Cheynne şehrinin batısında Federal I.80. eyaletler arası otoyol ile U.S. Route 287'nin kesiştiği noktada yer alır. 
+Tarih.
+Şehir adını Jacques La Ramée adındaki Fransız bir avcıdan alır. Avcı 1810larda Laremie Dağı'nda kaybolmuş ve bir daha haber alınamamıştır. La Ramée bölgeyi ziyaret eden ilk Avrupalılardandır ve ismi dağa, tepeye, nehire, kaleye, county ve şehire verilmiştir. 
+İklim ve Coğrafya.
+Laramie şehri (41.312927, −105.587251) koordinatlarında yer alır. ABD Nufus Sayımi Bürosu veri kayıtlarına göre şehrin sinirlari icindeki toplam yuzolcumu 46 km2dir ve bunun 45.95 km2si kara, 0,05 km2 sudur. 
+Laremie şehri iki dağ arasında yüksek düzlüklere sahiptir. Şehir deniz seviyesinden ortalama 2.184 metre yüksekliktedir. Şehir Cheyenne şehrinin 66 km batısında ve Denver Colorado'nun 182 km kuzeyinde yer alır. Şehrin yıllık toplam yağışı 279mm'dir(11 inç). 
+İklim Verileri
+Demografi.
+Laramie'nin nufusu (2010 sayımına göre) 30,815 kisitir.<ref name="Census 2010">
+Laramie'nin nufusunun Nufus Sayimlarina gore gelismesi su tabloda verilmistir:
+2010 Nüfus Sayımı.
+2010 Nüfus Sayımı'na göre Laramie'de 30,816 kişi yaşamakta, 5,843 hane bulunmakta ve 5,843 aile ikamet etmektedir.. şehrin yoğunluğu km2başına 670,7 kişidir ve km2 başına 311,4 ev bulunmaktadır. Nüfusun %89,5 Beyaz, %1.3 Afroamerikan %0.7 Yerliler, %3.2 Asyalılar, %0.1 Pasifik Adalılar, %2,5 diğer ırklardan ve 2.8% melezdir. Hispanik ya da Latin nüfu toplam nüfusun %9,2'ünü oluşturur. 
+2000 Nüfus Sayımı.
+2000 Nüfus Sayımı'na göre Laramie'de 27,204 kişi yaşamakta, 11,336 hane bulunmakta ve 5,611 aile ikamet etmektedir. Sehrin nufus yoğunluğu km2başına 942.9 kişidir ve km2 başına 415.7 ev bulunmaktadır. %90,81 Avrupalı Amarikan, %1.24 Siyahi, %0,89 Yerli Amerikalı, %1.92 Ayalı, %0,06 Pasifik Adalı, %2,89 diğer ırklar ve %2,19 melez. Hispanik ya da Latin nüfus toplam nüfusun %7,94'ünü oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Evanston, Wyoming</DOCTITLE>
+<TEXT>
+
+Evanston Wyoming Eyaleti Uinta County'nin merkez şehridir. 2010 sayımına göre nüfusu 12.359'dur.
+Coğrafya.
+Evanston (41.263302, -110.964616) koordinatlarında yer alır. Şehir deniz seviyesinden 2057 m (6749 fit) yüksekliktedir.
+Amerika Birleşik Devletleri Sayım Bürosu'nun kayıtlarına göre şehrin yüz ölçümü 26.73 km2dir (10.32 mil kare). Bunun 10.27 mil karesi (26.60 km2) kara, 0.05 mil karesi (0.13 km2) sudur.
+Şehir nemli karasal iklime sahiptir. Kışları uzun, soğuk ve kurak; yazları kısa, sıcak ve az yağışlıdır.
+Tarih.
+Evanston ismi, James E. Evans'dan sonra şehre verilmiştir. Şehir kasım 1868'de bölgeye gelen kıtalar arası demir yolu inşaatında kurulmuştur. 
+Yönetim ve Altyapı.
+Wyoming Sağlık Departmanı'na bağlı Wyoming Hastanesi'nin psikiyatr kliniği şehirde bulunmaktadır. Tesis 1990'a kadar Wyoming Vakıflar Kurulu tarafından yönetilmekteydi, 1990'da anayasa değişikliği ile yönetim eyalete bağlanmıştır.
+Evenston Posta Ofisi, United States Postal Service tarafından yönetilir.
+Eğitim.
+Devlet eğitimi Uinta County School District #1 tarafından sağlanır. Bölgede sekiz kampüs bulunur: dört ilkokul(Aspen, Clark, North, and Uinta Meadows), iki ortaokul (Davis ve Evanston) ve bir lise(Evanston) bulunmaktadır
+Nüfus.
+2010 Nüfus Sayımı.
+2010 Nüfus Sayımı'na göre Evanston'da 11,507 kişi yaşamakta, 4,058 hane bulunmakta ve 2,937 aile ikamet etmektedir. şehrin yoğunluğu km2 başına 433,9 kişidir ve km2 başına 175.9 ev bulunmaktadır. Nüfusun %89.8 Beyaz, %0.3 Afroamerikan %1.0 Yerliler, 0.3% Asyalılar, %0.2 Pasifik Adalı, %5.9%diğer ırklardan ve 2.5% melezdir. Hispanik ya da Latin nüfu toplam nüfusun %12,3'ünü oluşturur. 
+2000 Nüfus Sayımı.
+2000 Nüfus Sayımı'na göre Evanston'da 12,359 kişi yaşamakta, 4,540 hane bulunmakta ve 3.135 aile ikamet etmektedir. şehrin yoğunluğu km2başına 464,6 kişidir ve km2 başına 192.2 ev bulunmaktadır. %92.29 Avrupalı Amarikan, %0.16 Siyahi, %1.06 Yerli Amerikalı, %0.40 Ayalı, %0.08 Pasifik Adalı, %4.15 diğer ırklar ve %1.87 melez. Hispanik ya da Latin nüfu toplam nüfusun %7,29'ünü oluşturur. 
+
+</TEXT>
+</DOC>
+

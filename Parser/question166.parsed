@@ -1,0 +1,8 @@
+1	Japonyanın	Japonyanın	Noun	Prop	A3sg|Pnon|Nom	6	SUBJECT	_	_
+2	yüz	yüz	Num	Card	_	3	MODIFIER	_	_
+3	ölçümü	ölçüm	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT	_	_
+4	ne	ne	Adj	Adj	_	5	OBJECT	_	_
+5	_	kadar	Postp	Postp	PCDat	6	DERIV	_	_
+6	kadardır	_	Verb	Zero	Pres|A3sg|Cop	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

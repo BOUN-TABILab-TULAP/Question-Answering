@@ -1,0 +1,18 @@
+1	Kulak	kulak	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	kepçesi	kepçe	Noun	Noun	A3sg|P3sg|Nom	16	SUBJECT	_	_
+3	kulak	kulak	Noun	Noun	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	yolu	yol	Noun	Noun	A3sg|P3sg|Nom	16	SUBJECT	_	_
+5	östaki	östaki	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	borusu	boru	Noun	Noun	A3sg|P3sg|Nom	7	OBJECT	_	_
+7	ve	ve	Conj	Conj	_	16	COORDINATION	_	_
+8	epiglotis	epiglotis	Noun	Prop	A3sg|Pnon|Nom	16	SUBJECT	_	_
+9	_	yapı	Noun	Noun	A3sg|P3sg|Loc	10	DERIV	_	_
+10	yapısındaki	_	Adj	Adj	Rel	11	MODIFIER	_	_
+11	kıkırdak	kıkırdak	Noun	Noun	A3sg|Pnon|Nom	16	SUBJECT	_	_
+12	hangi	hangi	Adj	Adj	_	13	MODIFIER	_	_
+13	kıkırdak	kıkırdak	Noun	Noun	A3sg|Pnon|Nom	14	CLASSIFIER	_	_
+14	türüne	tür	Noun	Noun	A3sg|P3sg|Dat	16	DATIVE.ADJUNCT	_	_
+15	_	örnek	Noun	Noun	A3sg|Pnon|Nom	16	DERIV	_	_
+16	örnektir	_	Verb	Zero	Pres|A3sg|Cop	17	SENTENCE	_	_
+17	.	.	Punc	Punc	_	0	ROOT	_	_
+

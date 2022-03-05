@@ -1,0 +1,20 @@
+Peki testi
+Aynı deney, bir özel su kuyusundan pompalanabilir su miktarını değerlendirmek için gerçekleştirilmektedir. Daha özel olarak ise, iyi olarak test su iyi olarak pompalanır edilebildiği en yüksek oran ve de su seviyesi, belirli bir pompa oranı ve pompalama süresince düşecek mesafenin tahmin sağlar.
+Peki test akiferinin özellikleri (kuyuya su temin jeolojik oluşum ya da birim) ikincisinde sayısal ise kuyunun davranışı, öncelikle eski endişe olmasıyla test akifer farklıdır.
+Suyu kuyudan pompalandığında oyuk su seviyesi düşer. Bu sonbaharda geri çekilme olarak adlandırılır. pompalanabilir su miktarı üretilen çekilme ile sınırlıdır. Tipik olarak, düşüm de pompalama devam zamanın uzunluğu ile artar.
+Akifer kayıpları vs Peki kayıplar.
+iyi ilk Jacob tarafından tarif edildi pompalama bir gözlenen çekilme bileşenleri (1947), ve test, ilgili iki bileşenden oluşan olarak Hantush (1964) ve Bierschenk (1963) tarafından bağımsız rafine edilmiş
+s (uzunluk örneğin, m birimleri) drawdown nerede, pompalama oranı formula_2 olduğunu akifer kayıp katsayısı formula_3 olan (hacim akış hızı örneğin, m³ / gün birimleri) (zamanla artar - Theis çözeltisi ile öngörüldüğü gibi) ve formula_4 (belirli bir akış hızı sabittir) de kayıp katsayısını göstermektedir.
+denkleminin (formula_5) ilk dönem çekilme lineer bileşeni açıklar; yani pompalama hızını iki katına geri çekilme iki katına hangi parçası.
+İkinci dönem (formula_6) genellikle 'iyi kayıplar' olarak adlandırılan açıklar; çekilme doğrusal olmayan bileşeni. Bu ölçmek için birkaç farklı akış hızlarında kuyu pompa için gerekli olan (genellikle "adımlar" olarak adlandırılır). (1953) Rorabaugh (genellikle 1.5 ila 3.5) üs keyfi bir güç yaparak bu analize ekledi.
+Bu denklemi analiz etmek için, her iki tarafın da genel olarak "belirli bir çekilme" olarak adlandırılır, sol tarafında, formula_8 bırakarak, boşaltım oranı (formula_2) bölünür. denklemin sağ taraftaki düz bir çizgi bu olur. Zaman bir miktar sonra belirli geri çekilme komplo (formula_9) pompalama oranı karşı (geri çekilme süresi ile artmaya devam edecek beri) testin her adımın başından beri düz bir çizgi üretmek gerekir.
+Gözlenen verilerde düz bir çizgi takılması, en uygun doğrunun eğimi (kuyu kayıpları) ve (akifer kayıpları) formula_3 olacak formula_12 ile bu hattın kesişim formula_4 edilecektir. Bu süreç gerçek dünya verilerine idealize edilmiş bir model uydurma ve modelde parametrelerin en uygun bunu gerçekliği ne yapmak görmektir. varsayım daha sonra bu donatılmış parametreler iyi (doğru modele girdi varsayımlar verilen) gerçekliği temsil ettiğini yapılır.
+ilişki yukarıda tam kapalı akiferler (bir akifer testinde akifer özelliklerinin belirlenmesi için Theis çözümünde kullanılan aynı varsayımlar) kuyular nüfuz içindir.
+Peki verimlilik.
+Genellikle "iyi verimlilik" testin bu tür belirlenir, bu toplam gözlenen çekilme kısmını gösteren bir yüzdesi iyi ekran üzerinden ve iç akış nedeniyle olmanın aksine (kayıpları Akifere nedeniyle hangi iyi pompalama Kuyu). Mükemmel kuyu ekran ve nerede su% 100 verim olurdu sürtünmesiz bir şekilde de içinde akar ile mükemmel verimli iyi. Bu akifer özelliklerinin de (daha düşük verimlilik verecek bir daha geçirgen akiferdeki göre kuyu kayıpların aynı miktarda) bağlıdır çünkü ne yazık ki iyi verimliliği kuyular arasında karşılaştırmak zordur.
+Belirli kapasitesi.
+Belirli kapasitesi suda iyi bir geri çekilme birim üretebilen bir miktardır. Normal olarak bir basamak çekilme testi elde edilir. Özgül kapasitesi olarak ifade edilir:
+nerede
+Bir kuyu özel kapasitesi de belirlenir pompalama hızının bir fonksiyonudur. Nedeniyle doğrusal olmayan kuyu kayıpları özgü kapasite yüksek pompalama oranları azalacaktır. Bu komplikasyon küçük kullanım belirli kapasitenin mutlak değerini yapar; Bu zaman içinde aynı kuyunun verimliliğini karşılaştırmak için yararlıdır olsa (iyi rehabilitasyon gerektiriyorsa, örneğin, görmek için).
+Kaynaklar.
+Yukarıda tarif edilen bir başka test analiz yöntemleri pompalama ilave referanslar akifer testleri ve hidrojeolojide genel referanslarda bulunabilir (tipik olarak Hantush-Bierschenk yöntemi olarak da adlandırılır).

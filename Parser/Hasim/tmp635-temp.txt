@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Akarsu Akarsu+Noun+Prop+A3sg+Pnon+Nom akarsu+Noun+A3sg+Pnon+Nom
+havzaları havza+Noun+A3pl+Pnon+Acc havza+Noun+A3pl+P3sg+Nom havza+Noun+A3pl+P3pl+Nom havza+Noun+A3sg+P3pl+Nom
+üzerine üzer+Noun+A3sg+P2sg+Dat üzer+Noun+A3sg+P3sg+Dat
+kurulan kur+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart kurula+Verb^DB+Verb+Pass+Pos+Imp+A2sg kurula+Verb^DB+Verb+Reflex+Pos+Imp+A2sg
+sanayi sanayi+Noun+A3sg+Pnon+Nom
+kuruluşları kur+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3pl+Pnon+Acc kur+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3pl+P3sg+Nom kur+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3pl+P3pl+Nom kur+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3sg+P3pl+Nom kuruluş+Noun+A3pl+Pnon+Acc kuruluş+Noun+A3pl+P3sg+Nom kuruluş+Noun+A3pl+P3pl+Nom kuruluş+Noun+A3sg+P3pl+Nom
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+o o+Det o+Noun+A3sg+Pnon+Nom o+Pron+Demons+A3sg+Pnon+Nom o+Pron+Pers+A3sg+Pnon+Nom
+bölgede bölge+Noun+A3sg+Pnon+Loc
+sel sel+Noun+A3sg+Pnon+Nom
+riskini risk+Noun+A3sg+P2sg+Acc risk+Noun+A3sg+P3sg+Acc
+artırır art+Verb^DB+Verb+Caus+Pos+Aor+A3sg art+Verb^DB+Verb+Caus+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

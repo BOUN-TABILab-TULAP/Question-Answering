@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ayrıştırıcı	ayrış+Verb^DB+Verb+Caus+Pos^DB+Noun+Agt+A3sg+Pnon+Nom
+Ayrıştırıcı	ayrış+Verb^DB+Verb+Caus+Pos^DB+Adj+Agt
+
+olan	ol	+Verb+Pos^DB+Adj+PresPart
+
+bakterilerin	bakteri	+Noun+A3pl+Pnon+Gen
+bakterilerin	bakteri	+Noun+A3pl+P2sg+Nom
+
+görevi	görev+Noun+A3sg+Pnon+Acc
+görevi	görev+Noun+A3sg+P3sg+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

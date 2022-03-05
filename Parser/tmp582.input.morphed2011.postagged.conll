@@ -1,0 +1,11 @@
+1	İnsan	insan	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	dişi	dişi	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	_	üre	Verb	Verb	Pos	_	_	_	_
+4	üreme	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+5	_	sistem	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+6	sistemindeki	_	Adj	Adj	Rel	_	_	_	_
+7	rahmin	rahim	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+8	görevi	görev	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+9	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+10	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

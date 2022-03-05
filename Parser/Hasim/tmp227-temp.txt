@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Adres adres+Noun+A3sg+Pnon+Nom
+sistemi sistem+Noun+A3sg+Pnon+Acc sistem+Noun+A3sg+P3sg+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+coğrafi coğrafi+Adj
+koordinatlar koordinat+Noun+A3pl+Pnon+Nom koordinat+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+nasıl nasıl+Adverb nasıl+Adj
+benzeşmektedir benze+Verb^DB+Verb+Recip+Pos+Prog2+A3sg+Cop benze+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop benzeş+Verb+Pos+Prog2+A3sg+Cop benzeş+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

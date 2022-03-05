@@ -1,0 +1,18 @@
+1	Toprağın	toprak	Noun	Noun	A3sg|Pnon|Gen	2	SUBJECT	_	_
+2	_	yağ	Verb	Verb	Pos	3	DERIV	_	_
+3	yağış	_	Noun	NInf	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	suları	su	Noun	Noun	A3pl|P3sg|Nom	5	SUBJECT	_	_
+5	ve	ve	Conj	Conj	_	6	COORDINATION	_	_
+6	rüzgarlar	rüzgar	Noun	Noun	A3pl|Pnon|Nom	7	OBJECT	_	_
+7	tarafından	taraf	Noun	Noun	A3sg|P3sg|Abl	16	MODIFIER	_	_
+8	_	aşın	Verb	Verb	_	9	DERIV	_	_
+9	_	_	Verb	Verb	Caus	10	DERIV	_	_
+10	_	_	Verb	Verb	Pass|Pos	11	DERIV	_	_
+11	aşındırılıp	_	Adv	Adv	AfterDoingSo	12	MODIFIER	_	_
+12	_	taşın	Verb	Verb	Pos	13	DERIV	_	_
+13	taşınmasına	_	Noun	NInf	A3sg|P3sg|Dat	16	DATIVE.ADJUNCT	_	_
+14	ne	ne	Adv	Adv	_	16	MODIFIER	_	_
+15	_	de	Verb	Verb	_	16	DERIV	_	_
+16	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	17	SENTENCE	_	_
+17	.	.	Punc	Punc	_	0	ROOT	_	_
+

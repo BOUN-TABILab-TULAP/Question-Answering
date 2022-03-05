@@ -1,0 +1,60 @@
+hiperfokal mesafe
+Optik ve fotoğrafçılıkta, hiperfokal mesafe, ötesinde tüm nesnelerin "kabul edilebilir" bir odak haline getirilebileceği bir mesafedir. "Hiperfokal mesafe"nin yaygın olarak kullanılan iki tanımı vardır ve bu, değerlerin yalnızca biraz farklı olmasına yol açar:
+"Tanım 1:" Hiperfokal mesafe, nesneleri sonsuzda kabul edilebilir derecede keskin tutarken bir merceğin odaklanabileceği en yakın mesafedir. Objektif bu mesafeye odaklandığında, hiperfokal mesafenin yarısından sonsuza kadar olan mesafelerdeki tüm nesneler kabul edilebilir derecede keskin olacaktır.
+"Tanım 2:" Hiperfokal mesafe, sonsuza odaklanan bir lens için ötesinde tüm nesnelerin kabul edilebilir derecede keskin olduğu mesafedir.
+Neredeyse aynı değerlere sahip oldukları için iki anlam arasındaki ayrım nadiren yapılır. Birinci tanıma göre hesaplanan değer, ikincisine göre sadece bir odak uzaklığı kadar aşıyor.
+Hiperfokal mesafe maksimum alan derinliğini veren odak mesafesi olduğundan, sabit odaklı bir kameranın odağını ayarlamak için en çok istenen mesafedir.
+Kabul edilebilir keskinlik
+Hiperfokal mesafe, tamamen hangi netlik seviyesinin kabul edilebilir olarak değerlendirildiğine bağlıdır. İstenen kabul edilebilir keskinlik için kriter, karışıklık çemberi (CoC) çap sınırı ile belirlenir. Bu kriter, görüntüleme ortamında (film, dijital sensör vb.) sonsuz küçük bir noktanın yayılmasına izin verilen kabul edilebilir en büyük nokta boyutu çapıdır.
+formül.
+İlk tanım için,
+nerede
+Herhangi bir pratik f-sayısı için, eklenen odak uzaklığı karşılaştırıldığında önemsizdir
+ilk terim ile, böylece
+Formül_2 ince bir mercekten veya karmaşık bir merceğin ön ana düzleminden ölçüldüğünde, bu formül ikinci tanım için tamdır; formül_2 ön ana düzlemin önünde bir odak uzaklığı olan bir noktadan ölçüldüğünde de ilk tanım için kesindir. Pratik amaçlar için, birinci ve ikinci tanımlar arasında çok az fark vardır.
+Geometrik optik kullanarak türetme.
+Aşağıdaki türevler ekteki şekillere atıfta bulunur. Açıklık için, açıklığın yarısı ve karışıklık çemberi belirtilmiştir.
+Tanım 1.
+"H" mesafesindeki bir nesne, "x" (mavi çizgi) mesafesinde keskin bir görüntü oluşturur. Burada, sonsuzdaki nesneler, odak noktasından geçen üst kırmızı ışının mavi çizgiyi kestiği kahverengi elips ile gösterilen bir karışıklık çemberine sahip görüntülere sahiptir.
+İlk önce yeşil renkte taranmış benzer üçgenler kullanarak,
+Sonra mor noktalı benzer üçgenler kullanarak,
+Tanım 2.
+Sonsuzdaki nesneler "f" odak uzaklığında (mavi çizgi) keskin görüntüler oluşturur. Burada, "H" noktasındaki bir nesne, keskin görüntüsüne yaklaşan alt kırmızı ışının mavi çizgiyle kesiştiği yerde, kahverengi elips ile gösterilen bir karışıklık çemberi olan bir görüntü oluşturur.
+Sarı gölgeli benzer üçgenler kullanarak,
+Örnek.
+Örnek olarak, tipik olarak 35 mm fotoğrafçılıkta kullanılan bir değer olan 0,03 mm'lik bir karışıklık çemberi kullanan formül_14'teki 50 mm'lik bir lens için, "Tanım 1"e göre hiper odak mesafesi şu şekildedir:
+Objektif 10,5 m'lik bir mesafeye odaklanırsa, bu mesafenin yarısından (5,2 m) sonsuza kadar olan her şey fotoğrafımızda kabul edilebilir derecede net olacaktır. "Tanım 2" formülüyle sonuç 10417 mm, yani %0,5'lik bir farktır.
+Matematiksel fenomen.
+Hiperfokal mesafe ilginç bir özelliktir: "H"ye odaklanan bir mercek "H"/2'den sonsuza kadar bir alan derinliğini tutarken, "H"/2'ye odaklanırsa alan derinliği "H"/3 ila "H"; lens daha sonra "H"/3'e odaklanırsa, alan derinliği "H"/4'ten "H"/2'ye genişleyecektir. Bu, hiperfokal mesafenin tüm ardışık 1/"x" değerleri boyunca devam eder.
+Piper (1901), bu fenomeni "ardışık alan derinlikleri" olarak adlandırır ve fikrin nasıl kolayca test edileceğini gösterir. Bu aynı zamanda "hiperfokal" kelimesini kullanan ilk yayınlardan biridir.
+Sağdaki şekil bu fenomeni göstermektedir.
+Tarih.
+Hiperfokal mesafenin iki tanımının kavramlarının, alan derinliği, odak derinliği, karışıklık çemberi, vb. için terminolojiyle bağlantılı uzun bir geçmişi vardır. İşte konuyla ilgili bazı erken alıntılar ve yorumlar.
+Sutton ve Dawson 1867.
+Thomas Sutton ve George Dawson, şimdi "hiperfokal mesafe" dediğimiz şey için "odak aralığını" tanımlar:
+Odak aralıkları, açıklık çaplarının yaklaşık 1000 katıdır, bu nedenle CoC değeri "f"/1000 olan bir hiperfokal mesafe veya merceğin "normal" bir lens olduğu varsayılırsa, görüntü formatı diyagonal çarpı 1/1000 olarak mantıklıdır. Ancak net olmayan şey, alıntıladıkları odak aralığının hesaplanmış mı yoksa ampirik mi olduğu.
+Abney 1881.
+Sir William de Wivelesley Abney diyor ki:
+Yani, "a", şimdi "f" sayısı dediğimiz sayının karşılığıdır ve cevap açıkça metre cinsindendir. 0,41 açıkça 0,40 olmalıdır. Abney, formüllerine ve formatlar arası karşılaştırmalarda "diyafram oranı"nın sabit tutulması gerektiği fikrine dayanarak şunları söylüyor:
+Taylor 1892.
+John Traill Taylor, bir tür hiperfokal mesafe için bu kelime formülünü hatırlıyor:
+Bu formül, bugün kullandığımızdan daha katı bir CoC kriteri anlamına gelir.
+1895.
+John Hodges alan derinliğini formüller olmadan ancak şu ilişkilerden bazılarıyla tartışır:
+Bu "matematiksel olarak" gözlemlenen ilişki, elinde bir formül ve içinde f-sayısı veya "yoğunluk oranı" olan bir parametreleştirme olduğunu ima eder. Odak uzaklığı ile ters-kare ilişkisi elde etmek için, CoC sınırının sabit olduğunu ve açıklık çapının odak uzunluğu ile ölçeklendiğini ve sabit bir f değeri verdiğini varsaymanız gerekir.
+1901.
+C. Welborne Piper, modern anlamda "Alan Derinliği" ile odak düzleminde "Tanım Derinliği" arasında net bir ayrım yayınlayan ilk kişi olabilir ve "Odak Derinliği" ve "Mesafe Derinliği"nin bazen birincisi için kullanılır (modern kullanımda, "Odak Derinliği" genellikle ikincisi için ayrılmıştır). "H" için "Derinlik Sabiti" terimini kullanır ve onu ön ana odaktan ölçer (yani, daha basit formülü elde etmek için lensten bir odak uzaklığı daha az sayar) ve hatta modern terimi sunar:
+Hangi ayrımı kastettiği belli değil. Ekinde Tablo I'e bitişik olarak şunları not eder:
+Bu noktada, Piper'dan önceki "hiperfokal" terimine veya onun da kullandığı tireli "hiper-odak" terimine dair bir kanıtımız yok, ama açıkçası bu tanımlayıcıyı kendisinin kullandığını iddia etmedi.
+Der 1906.
+Louis Derr, modern zamanlarda kesinlikle doğru olduğu kabul edilen ilk tanımı açıkça belirten ve buna karşılık gelen formülü türeten ilk kişi olabilir. Hiperfokal uzaklık için formül_16'yı, açıklık çapı için formül_6'yı, bir karışıklık dairesinin geçemeyeceği çap için formül_18'i ve odak uzaklığı için formül_3'ü kullanarak şunları türetiyor:
+Açıklık çapı olarak, formül_6 odak uzunluğunun, formül_3'ün sayısal açıklığa oranıdır, formül_4; ve karışıklık çemberinin çapı, formül_24, bu, yukarıdaki ilk tanım için denklemi verir.
+Johnson 1909.
+George Lindsay Johnson, "Alan Derinliği" terimini, Abney'nin "Odak Derinliği" ve modern anlamda (muhtemelen ilk kez) "Odak Derinliği" olarak adlandırdığı şey için odak düzleminde izin verilen mesafe hatası olarak kullanır. Tanımları hiperfokal mesafeyi içerir:
+Çizimi, "e" nin karışıklık çemberinin yarıçapı olduğunu açıkça ortaya koyuyor. Bunu format boyutuna veya büyütmeye bağlama ihtiyacını açıkça öngördü, ancak bunu seçmek için genel bir şema vermedi.
+Johnson'ın "eski" ve "sonuncusu" kullanımı yer değiştirmiş gibi görünüyor; belki de "önceki" burada hemen önceki bölüm başlığı olan "Odak Derinliği"ne ve "sonuncusu", mevcut bölüm başlığı olan "Alan Derinliği"ne atıfta bulunmak anlamına geliyordu. Durdurma çapının CoC yarıçapına oranının kullanılmasındaki bariz bir 2 faktörü hatası dışında, bu tanım Abney'nin hiper odak mesafesi ile aynıdır.
+Diğerleri, yirminci yüzyılın başlarında.
+"Hiperfokal mesafe" terimi, Cassell'in 1911 tarihli "Cyclopaedia"sında, 1913 tarihli "The Sinclair Handbook of Photography" ve Bayley'nin 1914 tarihli "The Complete Photographer"ında da yer alır.
+Kingslake 1951.
+Rudolf Kingslake iki anlam hakkında açıktır:
+Kingslake, yakın ve uzak mesafeler için DOF için en basit formülleri kullanır; bu, iki farklı hiperfokal mesafe tanımının aynı değerler vermesini sağlama etkisine sahiptir.

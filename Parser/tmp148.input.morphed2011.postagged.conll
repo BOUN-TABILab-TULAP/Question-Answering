@@ -1,0 +1,12 @@
+1	Normal	normal	Adj	Adj	_	_	_	_	_
+2	fay	fay	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	ters	ters	Adj	Adj	_	_	_	_	_
+4	fay	fay	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	_	dışı	Adj	Adj	_	_	_	_	_
+6	_	_	Noun	Zero	A3sg|P2sg|Loc	_	_	_	_
+7	dışındaki	_	Adj	Adj	Rel	_	_	_	_
+8	fay	fay	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	çeşidi	çeşit	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+10	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	_	_	_	_
+11	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+12	.	.	Punc	Punc	_	_	_	_	_

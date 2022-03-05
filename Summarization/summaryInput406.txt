@@ -1,0 +1,209 @@
+Question: Kan pıhtılarının oluşumunda görev alan hücre parçalarına ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Trombosit</DOCTITLE>
+<TEXT>
+
+Trombosit veya kan pulcukları kan pıhtılarının oluşumunda görev alan hücre parçalarına verilen isimdir. Platelet olarak da adlandırılır. Düşük trombosit seviyeleri veya fonksiyon anormallikleri (disfonksiyon) kanamayı yatkınlaştırırken, yüksek trombosit seviyeleri -çoğunlukla asemptomatik- tromboz (damarda kanın pıhtılaşması) riskini yükseltir.
+Tanım ve Anatomi.
+Kan pulcukları çok sayıda granül ihtiva eden renksiz hücre parçalarıdır. Çapları 1.5-3.0 μm arasında değişir. İnsanlarda eritrositler (alyuvarlar) gibi, anükleer (çekirdeksiz) ve disk şeklindedirler (diskoid). Hücre zarının sitoplazma içine doğru parmak şeklinde girmesi sonucu oluşan ve yüzeye açılan bir kanal sistemine sahiptirler. Bu kanal sistemine kanaliküler sistem adı verilir. Ayrıca RNA ve birkaç farklı granül tipi içerirler. 
+Kan pulcukları Granülleri.
+Kan pulcukları lizozomları veya Lambda granülleri: asit hidrolazlar içeren, 175-200 nm çapındaki granüller.
+Granüllerin içerdikleri maddeler iltihaplara verilen tepkide ve hemostazda rol alırlar.
+Fizyoloji.
+Kan pulcukları Yapımı.
+Kan pulcukları kemik iliğinin megakaryosit diye adlandırılan büyük ve multinükleer olan hücrelerinin parçalarından oluşur. Megakaryosit parçaları sistemik dolaşıma girince "kan pulcukları" olarak adlandırılırlar. 
+Başlıca karaciğer tarafından üretilen "trombopoietin" hormonu kan pulcukları yapımını uyarır ve çoğalmasını kontrol eder.
+Dolaşım.
+Kan pulcukları dolaşımdaki ömrü 9-10 gündür. Daha sonra dalakta ayrıştırılır. Hiposplenizm (dalağın fonksiyonunda azalma veya yok olma) yüksek kan pulcukları sayımlarına, hiperslepnizm (dalağın aktivitesinde anormal artış) düşük trombosit sayımlarına neden olabilir.
+Görevi.
+Kan pulcukları kollajen ile temas ettiklerinde aktive olurlar. Damarın içindeki endotel bir şekilde hasar gördüğünde altındaki kollajen (bağ dokusu) açığa çıkar, aktive olan kan pulcukları kollajene bağlanır. Hasarlı bölge üzerine kan pulcukları kümelenir ve trombotik tıkaç oluştururlar. Bunun (oluşan tıkacın) sonucu olarak da ihtiva ettikleri granüllerin içeriğini ortama boşaltırlar. Ortama boşaltılan bazı maddeler yüzünden kan pulcukları birbirlerine bağlanırlar, yeni gelen kan pulcukları hasarlı yüzeye bağlanmış kan pulcukları bağlanır. Ayrıca granüllerin içeriği ortama boşaldığında ortaya çıkan serotonin salınımı damar duvarındaki düz kasların kasılmasına neden olarak hasalanmış bölümden kan akımını engeller. Bunun nedeni serotonininin vazokonstrüktör olmasıdır. Ayrıca agregasyon sırasında kan pulcuklarında yüksek oranda bulunan miyozin ve aktin filamentleri kasılarak oluşan tıkacı güçlendirirler. kan pulcukları1 plazmada bulunan fibrinojene ilave olarak fibrinojen salgılar. Bunun sonucu olarak pıhtılaşma sırasında daha çok fibrinojen fibrine dönüşürek, daha çok (trombosit ve diğer) kan hücrelerinin tutunacağı fibröz ağ oluşturur. 
+von Willebrand faktörü hasarlı damar duvarına yapışarak kan pulcuklarının buraya tutunmasını kolaylaştırır. Bu nedenle koagülasyon için önemlidir ve von Willebrand faktörü eksikliği veya bozukluğunda koagülasyon bozuklukları görülür. von Willebrand faktörünün eksikliğinden kaynaklanan hastalığa von Willebrand hastalığı denmektedir.
+Damar duvarı prostasiklin (PGI2) isimli, kuvvetli bir trombosit agregasyon inhibitörü (engelleyici) sentezler. Böylece kan pulcukları tıkacı sadece hasarlı bölgede oluşur, yayılamaz.
+Aktivatörler.
+Bilinen birçok kan pulcukları aktivatörü (etkinleştirici) vardır. Bunlardan bazıları:
+Hastalıklar.
+Sağlıklı bir insandaki trombosit sayımı 250-500 x 109/L kan arasındadır. 
+Trombositopeni (düşük trombosit sayımı) ve trombositoz (yüksek trombosit sayımı) koagülasyon problemlerinin ortaya çıkmasına neden olabilir. Kaba bir anlatımla, düşük trombosit sayımı kanama riskini yükseltirken, yüksek trombosit sayımı tromboz riskini yükseltir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektroporasyon</DOCTITLE>
+<TEXT>
+
+Elektroporasyon ya da Elektropermabilizasyon, hücreleri veya dokuları kısa süreli yüksek güçte bir elektriksel alan uygulayarak, hücre zarında DNA'nın geçebileceği nanometre boyutunda geçici gözenekler açılması mantığına dayanan gen aktarımı işlemi. Elektroporasyon, moleküler biyolojide sıklıkla bakteri, maya ve bitki protoplastlarının genetiğini değiştirmek amacıyla kullanılır. Elektroporasyon işlemi sırasında birçok hücre zarar gördüğü için hücrelerin en kısa sürede zengin besin içerikli ortamlara aktarılması gereklidir. Bu şekilde az da olsa gen aktarımı başarılmış hücreler çoğaltılarak genetiği değiştirilmiş organizma elde edilir. Bu işlem aynı zamanda yüksek doku kültürüne sahip hücrelerde de yabancı genlerin girişini kolaylaştırır. Ökaryotik hücre içine yabancı DNA tanıtılması süreci ise transfeksiyon olarak bilinir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Taraklılar</DOCTITLE>
+<TEXT>
+
+Taraklılar (Ctenophora), çoğu serbest olarak denizlerde yüzen, bazıları sesil (sabit) yaşayan, vücudu ışıldayan ve jelatinimsi yapıda olan canlılar şubesidir. 
+Bir çoğunda besin yakalamada kullanılan yapışkan kolloblast hücrelerini içeren tentaküller bulunur. Vücutlarında ışınsal simetrik olarak dizilmiş 8 adet silli bant bulunur. Tarak dişi gibi dizilmiş sillerin oluşturduğu bu bantların her biri bir kaburga veya plak şeklindedir. Hareket, "yüzme plakları" adı verilen bu yapılar üzerindeki sillerin yardımıyla sağlanır.
+İlkel yapılı olanlarında vücut, küre veya yumurta şeklindedir. Vücudun ön ucunda ağız, diğer ucunda ise, apikal duyu organı bulunur. Besin olarak fitoplanktonları tüketen etobur hayvanlardır. Sindirim sistemleri dallanmış birçok kanaldan oluşur. Yutağın içinden itibaren hücre dışı sindirime uğrayan besinler mide ve kanallara iletilir. Burada hücre içi sindirim olur. Sindirilmemiş besin atıkları ağız veya anal kol yoluyla vücuttan atılır. Sindirim kanalının çeperinde yer alan "hücre rozetleri" denilen yapılar ile vücutta su düzenlenmesi ve boşaltımı yapılır.
+Bu hayvanlarda ağız çevresinde ve tarak sıralarının kaidesinde yoğunlaşan ektodermal sinir ağı radyal sinirleri oluşturur. Duyu hücreleri epidermis tabakasının içinde bulunur. Taraklı hayvanlarda özel bir dolaşım sistemi, solunum organları bulunmaz. Vücutta sölom bulunmaz. Gastrovasküler boşluk dolaşım ve sindirim işlerini birlikte yapar.
+Taraklıların vücudunda bulunan gonadlar, biri ovaryum, biri testis olarak, iki bant şeklindedir. Genellikle yumurta ve spermler porlar ile dışarı atılırlar. Döllenme su içinde olur. Sürtünme hareketi yapan türlerde eşeysiz üreme görülür.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Somatik hipermutasyon</DOCTITLE>
+<TEXT>
+
+Somatik hipermutasyon veya SHM, edinilmiş bağışıklık sisteminin bir parçası olarak, sistemin yabancı cisimlere (örn. mikroplara) karşı durmasında görev alan hücre içi bir mekanizmadır. İlginlik olgunlaşmasının ana bileşenlerinden biridir.
+SHM, bağışıklık sisteminin, yabancı yapıları (antijenleri) tanımakta kullandığı almaç gruplarını çeşitlendirir ve bağışıklık sisteminin canlının yaşamı süresince karşılaştığı yeni tehtidlere karşı uyum sağlamasını sağlar 
+Somatik hipermutasyon immunoglobulin genlerinin çeşitli bölgelerini etkileyen programlanmış bir mutasyon sürecini kapsamaktadır. Mutasyonların diğer çeşitlerinden farklı olarak, SHM sadece yaşayan bağışıklık hücrelerini etkiler ve bu mutasyonlar yavrulara aktarılmaz Yanlış hedeflenmiş somatik hipermutasyon B-hücreleri, lenfomalarının gelişiminden sorumlu mekanizma olabileceği nedeniyle günümüzde araştırılmaktadır. 
+Hedeflenme.
+Bir B hücresi bir antijeni tanıdığında, bölünmek ya da çoğalmak için uyarılmış olur. Çoğalma sırasında, B hücresi reseptörü lokusu son derece yüksek somatik mutasyon oranı gösterir ki; bu genom çapındaki mutasyonların normal oranından en az 105-106 kat daha büyüktür. Meydana gelen mutasyonlar, baçlıca tek baz yerine geçmeler (subsitüsyonlar) şeklindedir, eklemeler (insersiyonlar) ve kayıplar (delesyonlar) daha ender olur. Bu mutasyonlar en çok, çok-değişebilen ("hypervariable") bölgeler olarak da bilinen, DNA'nın "sıcak-noktalar"ında meydana gelirler. Yönlendirilen bu hipermutasyon, özgül bir yabancı antijeni tanıyabilme ve ona bağlanabilme yeteneğine sahip olan immünoglobülin reseptörlerini ifade eden B hücrelerinin seçilimi için olanak sağlar. Bu bölgeler, "tamamlayıcı karar-bölgeleri"ne benzerler, immünoglobulindeki antijen tanıma bölgeleriyle ilişkilidirler. 
+Bu hedeflenmenin kesin doğasının ne yazık ki çok az anlaşılmış olmasına rağmen, bunun, hata-eğilimli ve yüksek-doğruluklu onarımların dengesi ile kontrol edildiği düşünülmektedir. Bu yönlendirilmiş hipermutasyon, özgül bir yabancı antijeni arttırılmış şekilde tanıma ve bağlama yetisine sahip olan immunoglobulin reseptörlerini ifade eden B hücrelerinin seçilimini olanak sağlar.
+İşleyiş.
+Deneysel bulgular, SHM mekanizmasının, DNA'daki sitozinin urasile deaminasyonunu sağlayan aktivasyonu-teşvikleyen (sitidin) deaminaz (İngilizce "Activation-Induced (Cytidine) Deaminase" veya AID) olarak adlandırılan bir enzim tarafından yapıldığı görüşünü desteklemektedir. Bir sitozin-guanin çifti bu yüzden, doğrudan bir urasil-guanin yanlış eşleşmesine değiştirilmiş olur. Urasil kalıntıları normalde DNA'da bulunmaz, bu nedenle genom bütünlüğünü sağlamak için, bu mutasyonların bir çoğu yüksek-doğruluklu DNA yanlış-eşleşim-onarım enzimleriyle düzeltilmelidir. Urasil bazları, onarım enzimi urasil-DNA glikolilaz tarafından çıkarılır. Hata-eğilimli DNA polimerazlar bundan sonra, boşluğu doldurmak ve mutasyonlar yaratmak için seferber edilebilir. 
+Bu yeni DNA sentezi, ya deaminlenmiş sitozininin kendinde ya da bitişiğindeki baz çiftlerinde sıklıkla oluşan mutasyonları ortaya çıkaran, hata eğilimli DNA polimerazları içerir. B hücresi bölünmesi sırasında, DNA'nın immünoglobulin değişebilir bölgesi, okunur ve çevirilir. B hücrelerinin hızla çoğalan popülasyonlarındaki mutasyonların ortaya çıkması, nihai olarak, hafifçe farklılık gösteren reseptörler ve antijen için çeşitlenmiş özgüllüğe sahip olan binlerce B hücresinin üretimine yol açar, bunların arasından antijen için en büyük yatkınlığı gösteren B hücresinden seçilir. En yüksek afiniteyi gösteren B hücreleri, bundan sonra, tekrar bir enfeksiyon durumunda arttırılmış bağışıklık yanıtının verilmesine katkıda bulunan uzun-yaşamlı hafıza B hücrelerine ve antikor üreten plazma hücrelerine farklılaşmak üzere seçilirler.
+Hipermutasyon süreci ayrıca, bir canlının kendi hücrelerinin imzası karşısında "kendini-seçen" hücrelerden yararlanır. Bu oto-seçim sürecindeki hatalarının, bir öz-bağışıklık yanıtının gelişmesine neden olduğu da hipotez olarak ileri sürülmüştür.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bronşektazi</DOCTITLE>
+<TEXT>
+
+Bronşektazi (bronş genişlemesi), bronşların doğuştan ya da sonradan 'geri dönüşsüz' biçimde genişlemesidir. Bronş genişlemesine, çeşitli biçimlerde ve bronş ağacında değişken yaygınlıkta rastlanabilir. Doğumsal olduğu kadar, bronşlara yerleşen enfeksiyon etkenlerinden de kaynaklanabilen geri dönüşümsüz bir bozukluktur. İltihaplanma ilerlediğinde ilk kez iltihaba bağlı yüksek ateş, halsizlik, üşüme gibi belirtilerle enfeksiyon fark edilebilir.
+Kelime yapısı ve anlamı.
+Ektazi, genişleme anlamında bir sonektir. Bronş genişlemesini ifade etmek için Bronşektazi tanımı kullanılır.
+Tanım.
+İlk kez 1819 yılında René Laënnec tarafından tanımlanan Bronşektazi, subsegmental hava yollarının anormal ve kalıcı genişlemesidir. Bronşektaziler olgularını ciddiyetlerine göre hafiften ağıra doğru silindirik, varriköz veya kistik yapıda olabilmektedir. Gelişmekte olan ülkelerde bronşektazilerin oluşumunda rol oynayan etmenlerin başında enfeksiyonlar gelmektedir. Oldukça sık rastlanan kızamık, tüberküloz ve boğmaca dışında, adenovirüsler, herpes virüsler, myocplasma pneumoniae ve aspergillus fumigatus da bronşektaziyle sonlanan alt solunum yolu enfeksiyonlarından sorumlu olabilmektedirler. Enfeksiyonlar dışında, özellikle gelişmiş ülkelerde kistik fibroz, bronşektazinin oluşumunda sık karşılaşılan bir etyolojik faktördür. Ayrıca silyer disgenezi sendromları, yabancı cisim aspirasyonları, sağ orta lob sendromu, immün yetersizlikler ve iyi kontrol edilmemiş astma bronşiale de bronşektaziyle sonlanabilmektedir. Bebekken ortaya çıkan bronş genişlemeleri doğumsaldır. Bronş duvarının esnekliğini ve desteğini sağlayan etkenlerin yetersizliği sonucu, bronşlar doğumdan başlayarak sürekli geniş kalır. Aslında edinilmiş bronşektaziler de aynı yetersizlik sonucu gelişir. Edinilmiş bronşektazilerde birçok bozukluk birlikte görülür. Kronik bronş iltihapları sırasında gelişen olaylar bronşun esnekliğini ve direncini bozarak sağlıklı yapısını kolayca değiştirir. Bir öksürük ya da güçlü soluk verirken karşılaşılan bir engel sonucunda bronş içindeki basıncın artması, bronş duvarının çökmesini kolaylaştırır. Bronş dokularında ya da bağdoku artmasıyla birlikte ilerleyen süreçler bronş duvarını yaygınlaştırıp çekerek bronşun genişlemesine neden olur.
+Bronş genişlemesi, salgı birikimine yol açmaktadır. Bu iltihap üretici mikropların barınmasına uygun bir ortam oluşturur. Böylece bronş genişlemesi iltihaplanmaya ve bronş duvarında direncin azalmasına neden olur.
+Belirtiler.
+Başlıca belirtiler öksürük ve balgamdır. Bunlar genelde hep bir arada görülür. Ayrıca solunum zorluğu da gözlemlenebilir. Ancak çok baskın şekilde görülmemektedir. Yaşam süresince, özellikle bronşektazi üzerine iltihap eklendiğinde balgam da kan görülebilir.
+Hastalık seyri.
+Hastalığın ağır şekilde ve uzun sürmesi durumunda beslenme bozukluğuna ve kansızlığa da bağlı olarak Hipertrofik Pulmoner Osteoartropati denen kemik hastalığı ortaya çıkabilir.
+Bronş genişlemesi, bronşlarda gelişen geriye dönüşsüz özellikte yapı bozukluklarına sebebiyet vermektedir. Düzensiz aralıklarla görülen, bu belirtiler her seferinde biraz daha uzayıp sıklaşırken, genel sağlık durumu giderek bozulur. İtihaplanmanın yayılması, bronş ağacında enfeksiyonun ilerlemesine, her enfeksiyon durumu daha geniş bir akciğer doku bölgesinin yıkımına yol açar. Sonuçta solunum işlevi düzensizleşir ve solunum yetmezliğine sebep olur.
+Hastalıkta kesin tanıyı Bronkoskopi ve Tomografi yöntemi vermektedir. Daha önceki yıllarda bronkografi denen solunum yoluna kontrast madde vererek çekilen akciğer filmiyle teşhis koyulurken, günümüzde hastaya herhengi bir ilaç verilmeden ve müdahelede bulunmadan çekilen akciğer tomografisiyle kesin teşhis koyulmaktadır.
+Bu durumun belli bir alanda sınırlı kaldığı olgular cerrahi müdahale ile tedavi edilebilir. Cerrahi girişimin mümkün olmadığı durumlarda hastalığın ilerleyici özelliği ve komşu dokuları da yıkıma uğratabileceği göz önüne alınarak sürekli ya da müddetli ilaç tedavisi uygulanır, ilaç tedavisinin amacı hastalığın ilerlemesini durdurmak ve sağlıklı dokuları korumaktır. Bu tedavi biçimiyle hastalık belirtilerinde uzun süreli gerilemeler sağlanabilir.
+Cerrahi girişim dışında, salgıların boşaltılması ve enfeksiyon noktalarının antibiyotikle kurutulması yöntemine başvurulur. Dolan bronşları boşaltmak için akciğer filminde hangi bronşların genişlediği saptanır, daha sonra hastaya bu bölgeyi en rahat boşaltacak duruş biçimi verilir. Aynca balgam söktürücü ve balgam yumuşatıcı ilaçlar da kullanılır. İçilerek kullanılanların yanı sıra aerosol biçiminde püskürtülerek ya da bir sonda aracılığıyla doğrudan bronşlara gönderilen antibiyotikler enfeksiyon odaklarına karşı yaygın biçimde kullanılmaktadır.
+Hastalıkla mücadele.
+Kökeni İskandinav ülkelerine dayanan hastalık, genetik bilimine girmektedir. Bazı hastalıklarla etkileşime girerek evrim geçirebilir. Doğuştan kazanılan Bronşektazilerde bu tür etkileşime bağlı yapı değişiklikleri gözlemlenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süt humması</DOCTITLE>
+<TEXT>
+
+Süt humması veya hipokalsemi, kan kalsiyum seviyesini düzenleyen paratiroid hormonunun doğum sonrası işlev gösterememesi sonucunda oluşur. Doğum felci daha çok yüksek süt verimli sığırlarda doğum sonrası görülen metabolik bir hastalıktır. Hayvan doğum yaptıktan sonra sağıldığı için sütle birlikte vücuttan fazla miktarda kalsiyum dışarı verilmektedir. Bu hastalığın en önemli çıkış sebebi kandaki iyonize kalsiyumun doğumdan hemen sonra ilk süt verimiyle beraber azalmasıdır. Genetik yatkınlık, doğum öncesinde hayvanların yanlış beslenmeleri, yüksek süt verimi, kalsiyumca zengin yemlerle fazla beslenme, mera ve rasyonun magnezyum miktarı hastalık oluşumunda önemli etmenlerdir.
+Doğum haricinde hipoprotidemi, renal yetmezlik, hipoparatiroidi, pankreatit, malabsorbsiyon sendromu gibi durumlarda da görülebilir. 
+Doğuma 6-8 hafta kala kuruya çıkarılan hayvanlar bu süre boyunca hiç sağılmadığından kan kalsiyum seviyesi yüksektir ve paratroid hormonunun salıverilmesine vücut tarafından ihtiyaç duyulmamaktadır. Böylece git gide paratroid hormonu tam bir dinlenme dönemine girerek doğum sonrası işlevlerini gösterememektedir.
+Hayvan doğum yaptıktan sonra sağıldığı için sütle birlikte vücuttan fazla miktarda kalsiyum dışarı verilmektedir. Kan kalsiyum seviyesini ayarlamak için o an paratiroid hormonu devreye giremez ve süt humması da dediğimiz doğum felci gerçekleşir. Bu yüzden gebe hayvanlar kalsiyumca fakir fosforca zengin yemlerle beslenmelidir.
+Sağaltım.
+Sağaltım semptomatiktir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kedilerde şeker hastalığı</DOCTITLE>
+<TEXT>
+
+Kedilerde şeker hastalığı, şeker hastalığının (diabetes mellitus), diğer adıyla diyabetin kedilerde de görülen şeklidir.
+Tip-1 ve Tip-2 olarak adlandırılan iki türü bulunan diyabette, kedilerde daha sık rastlanılan ve tedavi sonrasında insulin bağımlılığının ortadan kalkma olasılığı da olan Tip-2 diyabet, pankreas tarafından salgılanan insulin hormonunun, çeşitli nedenlerle yetersiz kalması veya vücut hücrelerinin direnç geliştirmesi sonucu, kandaki şeker oranını ayarlayamamasına bağlı olarak ortaya çıkar. 
+Kandaki şeker.
+Alınan besinlerdeki karbonhidrat, midede parçalanarak şekere dönüşür. Vücut aktiviteleri için gerekli olan enerji için, vücut şekeri kullanır. Şekerin kan yoluyla vücutta dolaşarak, gerekli organlar tarafından alınabilmesi için, kandaki şeker oranı artar. Artan şeker oranının farkına varan pankreas, şeker oranını dengelemek için, insulin hormonunu salgılar. Bir çeşit, hücrelere girecek olan şekere hücre kapısını açan anahtar olarak niteleyebileceğimiz insulin, kandaki fazla şekeri, enerji olarak kullanılmak üzere kas hücrelerine gönderir.Kullanım fazlası olan şeker, gerektiğinde kullanılmak üzere, karaciğer ve kaslarda depolanır. 
+Ancak, insulin yetersizliği nedeniyle, kandaki şeker oranı kontrolsüz bir şekilde artar. Bunun nedeni, pankreasın bazı nedenlerle yeterince insulin üretememesi ya da uretilen insulinin, kandaki şeker düzeyini düzenleyecek nitelikte olmamasıdır. Bu durum, hücrelerin insuline karşı bir direnç geliştirmeleri ve şekerin kandan hücrelere geçememesi sonucu ortaya çıkar. 
+İnsulin direncinin nedeni.
+Bu direncin nedeni genetik faktörlere bağlı olabileceği gibi, yüksek tansiyona, obeziteye ve kandaki yağ miktarının fazla olmasına da bağlı olabilir. Özellikle karın bölgesindeki fazla yağ miktarı, insuline karşı bir direnç geliştirir ya da insulinin etkisini azaltır. 
+Direnç nedeniyle, kadaki şeker miktarı, normalin üzerine çıkar ancak hücreler enerji için gereksinim duydukları şekeri alamazlar ve vücut halsizleşir. Tedbir alınmadığında, hiperglisemi (kan şekerinin aşırı yükselmesi) başlar.
+Belirtiler ve sonuçları.
+Aşırı yorgunluk, sık idrara çıkma, çok su içme, ağız kuruluğu, vücutta enfeksiyon, gözlerde ve böbreklerde sorunlar. 
+Yorgunluk, hücrelerin yeterli şekeri alamaması nedeniyle oluşur. Aşırı idrar yapma isteği, özellikle geceleri görülür. Bunun nedeni, böbreklerin fazla şekeri kandan atmak için aşırı çalışmasıdır. Bunun sonucunda daha fazla sıvının atılmaya çalışılması ise susuzluğa ve ağız kuruluğuna neden olur. Buna bağlı olarak, kronik böbrek sorunları yaşanabilir. 
+Bir başka olumsuz etki de, vücudun savaşacak gücünün kalmaması nedeniyle enfeksiyonların oluşmasıdır. Diyabetli hastalarda en çok görülen enfeksiyonlar, sistit ve matar enfeksiyonlarıdır. Bunlara bağlı olarak, kapanmayan ya da özellikle ayaklarda oluşan yaralar sayılabilir.
+Diabetli kediler, yemek yemelerine rağmen kilo verebilirler. Çünkü hücreleri şekeri verimli şekilde kullanamamaktadır. Hastalığın tedavi edilmeden ilerlemesi sonucu, çeşitli metabolik düzensizlikler, kusma, iştahsızlık, güçsüzlük, su kaybı görülür. 
+Diabet, pek çok kedide çeşitli nedenlere bağlı olarak görülebilmekle birlikte, daha çok ileri yaştaki ve obez kedilerde görülme olasılığı daha fazladır. Bunun nedeni kesin olarak bilinmemekle birlikte kalıtım, obezite, pankreas hastalıkları, hormonal dengesizlikler ve başka bir hastalığın tedavisinde kullanılan ilaçların (özellikle karaciğeri baskılayan), bu hastalığın oluşumunda rol oynadığı düşünülebilir. Düzenli olarak tedavi edilen Tip-2 Diabetli kedilerin, belli bir süre sonra insuline ihtiyaç duymadan, diyetlerine dikkat edilerek, normal hayatlarını sürdürebildikleri de görülür.
+Dikkat edilmesi gereken konular.
+• Kedide yukarıdaki belirtilerden birkaçının görülmesi halinde, derhal kan tahlilleri yapılmalı, diğer değerlerin yanı sıra, kan şekeri düzeyi açlık ve tokluk olmak üzere, günün belirli saatlerinde kontrol edilmelidir. 
+• Kan şekeri ölçümleri, veteriner tarafından kol ya da boyun damarlarıdan alınan kan ile yapılırken, aynı anda kedinin kulağından alınacak kan örneği, bir el glucometer cihazında da ölçülmeli, her iki sonuç arasındaki fark (biri diğerine bölünerek), daha sonra evde yapılacak ölçümlerde referans değeri olarak saklanmalıdır (kulak kan sonucu bu rakam ile çarpılarak, gerçek kan şekeri değeri bulunur).
+• Kusma nedeniyle süratle kilo kaybı meydana geleceğinden, beslenmesine özel olarak dikkat edilmeli, mutlaka zorla da olsa beslenmelidir. 
+• Konuyla ilgili olarak, yurt dışı ve içindeki diyabetik kedi sahipleri tarafından kurulmuş olan siteler, yakından takip edilmeli, diyabetik kedi sahipleri birbirleri ile görüş alışverişinde bulunmalıdır.
+• Tedavi sırasında, veterinerle uyum içinde yapılan işbirliği çok önemlidir. Bu nedenle, kedi sahibi kadar, veteriner de görüş alışverişi ve işbirliğine açık olmalı, konuyla ilgili kaynaklara başvurmaktan çekinmemelidir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Makrofaj</DOCTITLE>
+<TEXT>
+
+Makrofajlar (Yunanca: "büyük-yiyiciler") dokularda bulunan patojenlerin, ölü gözelerin, hücresel kalıntıların ve vücuttaki yabancı maddelerin yutulmasından sorumlu hücrelerdir. Makrofajlar doğuştan bağışıklık sisteminin bir bölümüdürler.
+Köken.
+Makrofajlar monositlerden türer. Monositler kemik iliğinde büyür ve daha sonra kan dolaşımına girerler. Dolaşımdaki monositler enflamasyonun (iltihaplanma) kimyasal aracılarına (medyatörlerine) yanıt verirler. Bu aracılar (medyatörler) tarafından aktive edildiklerinde monositler endotelin içinden geçerler. Endoteli geçtikten sonra, monositlere makrofaj denir. (Bazı monositler özelleşmiş hücrelere farklılaşırlar, dendritik hücreler veya mikrogliya gibi).
+İşlev.
+Göze yutarlığı (fagositoz).
+Makrofajların ana görevi patojenlerin ve ölü dokuların ortadan kaldırılmasıdır. İkincisi, yani nekrotik debrisin ortadan kaldırılması, özellikle süreğen (kronik) yangı durumunda daha önemlidir. Yangının erken evreleri nötrofil granülositlerince kontrol edilir ki yaşlanmış nötrofil granülositler makrofajlarca sindirilir.
+Ayrıca makrofajlar sindirmek için yapılarına aldıkları patojenlerden parçalar (antijen) salarlar. Bu parçalar yardımcı T hücreleri tarafından tanınır ve yardımcı T hücreleri lenfokin salgılarlar ki bu B hücrelerini uyarır. Böylece B hücreleri o belli antijene özgü (ve böylece patojene özgü) antikor üretir ve salarlar. Bu noktada makrofajlar tekrardan rol alırlar, zira makrofajlar özellikle antikorların bağlanmış olduğu hücrelere karşı duyarlıdırlar. 
+Bir makrofaj bir patojeni içine aldığında, patojen bir kofulun içine alırlar daha sonra bu koful bir lizozomla birleşir. Lizozomun için, enzimler ve toksik oksijen bileşikleri ile patojen sindirilir. Fakat, bazı bakteriler, "Mycobacterium tuberculosis" gibi, bu sindirilme metodlarına karşı direnç geliştirmiştirlerdir. 
+Makrofajlarla yakından ilgili kimi hücre türleri:
+Hastalıklardaki önemi.
+Gözeyutarlığındaki rolleri nedeniyle makrofajlar bağışıklık sisteminin birçok hastalığında yer alırlar. Örneğin, granülomların oluşumunda yer alırlar.
+Genellikle nadir olarak etkisiz fagositoz ve makrofaj fonksiyonuna dair bazı bozukluklar tanımlanmıştır.
+Aterosklerozun artan plak lezyonlarının oluşumunda en önemli ve çoğunlukta olan hücreler makrofajlardır. 
+Grip ile savaşırken, makrofajlar boğaza gönderilir. Fakat, grip virüsünü yok edebilecek öldürücü T hücreleri bulunana kadar, makrofajlar yarardan çok zarar sağlar. Grip virüsü bulaşmış boğaz hücrelerini yok etmenin yanı sıra virüs bulamamış komşu hücreleri de yok ederler. 
+Ayrıca makrofajlar İnsan Bağışıklık Yetmezliği Virüsü (HIV - "Human Immunodeficiency Virus") enfeksiyonunda da rol alırlar. T hücreleri gibi, makrofajlara da HIV bulaşabilir ve hatta devam eden virüs replikasyonunun deposu olarak vücutta dolaşabilirler. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Partenogenez  (EBA)</DOCTITLE>
+<TEXT>
+
+Bazı hayvanlarda oogenez sonucunda meydana gelen yumurta hücrelerinden döllenme olmadan da yeni bireyler gelişebilir. Bu olaya partenogenez adı verilir. 
+Döllenme gerçekleşmediğinden bu üreme şekline eşeyli üreme denemez. 
+Sosyal hayat süren böceklerde yani kolonilerinde iş bölümü olan böceklerde sıkça rastlanan partenogenez, supirelerinde, yaprakbitleri gibi bazı böceklerde, bal arılarının erkek bireylerinin oluşumunda, bazı kertenkele türlerinde görülür. 
+En yakınımızda görebileceğimiz partenogenez olayı bal arılarındakidir (Resim 1.29). 
+Bal arılarında kraliçe arının yumurtalarından bir kısmı döllenmeden gelişerek haploit kromozomlu erkek arıları meydana getirir. 
+Yumurtaların döllenip döllenmemesi kraliçe arının isteğine bağlı olarak gerçekleştiği için, erkek arıların oluşumuyla sonuçlanan partenogeneze isteğe bağlı partenogenez adı verilmektedir. 
+Döllenmiş yumurtalar ise diploit kromozomlu dişi arıları meydana getirir. 
+Döllenmiş yumurtalardan çıkan larva, gelişimi sırasında arı sütü ile beslenirse kraliçe arı olur (Resim 1.30). 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İsmail Cem</DOCTITLE>
+<TEXT>
+
+İsmail Cem İpekçi (d. 15 Şubat 1940, İstanbul - ö. 24 Ocak 2007, İstanbul), Türk siyasetçi ve gazeteci. 1997 ile 2002 yılları arasında Türkiye Dışişleri Bakanı.
+Yaşamı.
+Gençliği ve gazetecilik kariyeri.
+1959 yılında Robert Lisesi'nden, 1962 yılında Lozan Üniversitesi Hukuk Fakültesinden mezun oldu. Ertesi yıl "Milliyet"'te gazeteciliğe başladı. 1964'ten 1969'a değin "Cumhuriyet" gazetesinde çeşitli konularda incelemeleri yayımlandı, 1964-66 yılları arasında bu gazetenin yazı işleri müdürlüğünü yaptı. 1971-1974 arasında Türkiye Gazeteciler Sendikası (TGS) İstanbul Şubesi Başkanlığını yürüttü. 
+CHP-MSP koalisyon hükümeti döneminde TRT Genel Müdürlüğü görevinde bulundu (1974-1975). I. Milliyetçi Cephe hükümetince genel müdürlükten alınması ve Danıştay'ın yürütmeyi durdurma kararına karşın görevine iade edilmemesi iktidarla muhalefet arasında uzun süren tartışmalara yol açtı. 1975'te Ercan Arıklı ve Kadri Kayabal ile birlikte "Politika" gazetesini kurdu ve bu gazetenin hem başyazarlığını hem yayın yönetmenliğini yaptı. 1991'de Paris Siyasal Bilgiler Enstitüsü'nde siyaset sosyolojisi dalında yüksek lisans yaptı.
+Siyasi yaşamı.
+1985'te Halkçı Parti (HP) ile Sosyal Demokrasi Partisi'nin (SODEP) birleşmesiyle kurulan Sosyaldemokrat Halkçı Parti'nin (SHP) Merkez Karar ve Yönetim Kurulu'nda görev aldı. Partinin Haziran 1987'de yapılan 3. Olağanüstü Kongresi'nde de Parti Meclisi'ne ve Merkez Yürütme Kurulu üyeliğine seçildi. 1987 genel seçimleri'nde SHP listesinden İstanbul milletvekili seçildi. Parti içinde Deniz Baykal'la birlikte "Yeni Sol" denen grupta yer aldı, bu dönemde yazdıklarıyla Anadolu Solu'nun teorisyeni olarak öne çıkarıldı. 25-26 Haziran 1988'de yapılan SHP II. Kurultayı'nda genel başkanlık yarışına girdiği Erdal İnönü'ye karşı yenildi. 1991 genel seçimleri yine SHP listesinden İstanbul milletvekili seçildi. 
+1992’de Baykal'la birlikte SHP'den ayrılarak Cumhuriyet Halk Partisi’nin (CHP) yeniden oluşumunda önemli rol oynayan Cem, 1993 cumhurbaşkanlığı seçimine CHP adayı olarak katıldı. 7 Temmuz 1995’te 50. Hükümet'te Ercan Karakaş’tan boşalan Kültür Bakanlığı görevini üstlendi. 
+Zamanla Deniz Baykal'ın çekirdek kadrosundan uzaklaşan Cem, yine de beklenmedik bir kararla 1995 genel seçimleri öncesinde CHP'den istifa ederek Demokratik Sol Parti'ye (DSP) geçti; bu partiden Kayseri milletvekili seçildi. DSP TBMM Grup Yönetim Kurulu üyeliğine seçildi (1996). 30 Haziran 1997 tarihinde kurulan 55. Hükümette Dışişleri Bakanlığı görevine atandı, bakanlık görevini 56. ve 57. hükümetlerde de sürdürdü. Bakanlığı döneminde özellikle Avrupa Birliği (AB)-Türkiye ilişkilerine yoğunlaşan Cem, Türkiye'nin Aralık 1999'da AB adayı olmasında ve Yunanistan ile ilişkilerin düzeltilmesinde etkili rol oynadı. 
+11 Temmuz 2002'de, Başbakan ve DSP Genel Başkanı Bülent Ecevit'in bozulan sağlığı ve buna bağlı olarak hem hükümetin hem de hükümetin en büyük ortağı olan DSP'nin kan kaybettiğini düşünerek, hükümet ve Demokratik Sol Parti'nin artık işlevini yitirdiği gerekçesiyle dışişleri bakanlığı görevinden ve DSP'den istifa etti. Kısa süre sonra Yeni Türkiye Partisi'nin (YTP) kuruluşuna katıldı ve bu partinin genel başkanlığına getirildi (22 Temmuz 2002). YTP'nin beklenen ilgiyi görememesi üzerine, Deniz Baykal'ın çağrısıyla 2004 yılının ekim ayında YTP'nin Cumhuriyet Halk Partisi'ne katılma kararı alındı. Bu karar üzerine genel başkanlık görevi de sona eren Cem, CHP’nin 24 Ocak 2005’te yapılan 13. olağanüstü kurultayında Parti Meclisi üyeliğine seçildi. Bu görevi dışında Bilim ve Kültür Platformu Başkanı ve genel başkan başdanışmanı olarak görev yaptı.
+İsmail Cem, Türkiye Cumhuriyeti tarihinin en uzun süre görev yapan 4. dışişleri bakanıdır. 18 ve 19. dönem İstanbul, 20 ve 21. dönem Kayseri milletvekilliği yaptı. Avrupa Konseyi Parlamenterler Meclisi (AKPM) ve Batı Avrupa Birliği (BAB) Asamblesi üyeliklerine seçildi (1987-1996). AKPM Sosyalist Gurubu Başkanvekilliğine seçildi (1989-91), (1993-95). AKPM ve BAB Asamblesi Türk Parlementer Gurubu Başkanlığına seçildi (1996). Avrupa Medya Enstitüsü Danışma Kurulu üyeliği yaptı. 
+Elçin Cem ile evli olan İsmail Cem, İpek ve Kerim adlarında iki çocuk babasıydı.
+Vefatı.
+İsmail Cem, 26 Aralık 2006'da akciğer kanseri tedavisi için yatırıldığı İstanbul Cerrahi Hastanesi'nde 15 Ocak'tan itibaren enfeksiyon nedeniyle yoğun bakıma alınarak antibiyotik tedavisi görmeye başlamıştı. İsmail Cem, 24 Ocak 2007 saat 09:50'de vefat etti. Cenazesine aynı dönem çalıştığı meslektaşı Yunanistan eski Dışişleri Bakanı Yorgo Papandreu da katılmış, Zincirlikuyu Mezarlığı'ndaki kabrine çiçek ve toprak atmıştır. Yorgo Papandreu 9 Ekim 2009 tarihli Türkiye ziyareti kapsamında iki ülke (Türkiye-Yunanıstan) arasında dostluğu başlattığı için İsmail Cem 'in mezarına zeytin dalı getirdi.
+2010 yılında Antalya Büyükşehir Belediyesi ve Antalya Kültür Sanat Vakfı (AKSAV) tarafından İsmail Cem Televizyon Ödülleri düzenlenmeye başlandı.
+
+</TEXT>
+</DOC>
+

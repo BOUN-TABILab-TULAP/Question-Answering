@@ -1,0 +1,112 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Toprak kaymalarını harekete geçiren en önemli faktör nedir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(8679, {label: "Hızla",nodeclass: "type-TK"});
+ g.addNode(8680, {label: "ak",nodeclass: "type-TK"});
+ g.addNode(8681, {label: "akan",nodeclass: "type-TK"});
+ g.addNode(8682, {label: "suyun",nodeclass: "type-TK"});
+ g.addNode(8683, {label: "elektrik",nodeclass: "type-TK"});
+ g.addNode(8684, {label: "üre",nodeclass: "type-TK"});
+ g.addNode(8685, {label: "_",nodeclass: "type-TK"});
+ g.addNode(8686, {label: "üreten",nodeclass: "type-TK"});
+ g.addNode(8687, {label: "türbinleri",nodeclass: "type-TK"});
+ g.addNode(8688, {label: "çalış",nodeclass: "type-TK"});
+ g.addNode(8689, {label: "_",nodeclass: "type-TK"});
+ g.addNode(8690, {label: "çalıştırması",nodeclass: "type-TK"});
+ g.addNode(8691, {label: "ile",nodeclass: "type-TK"});
+ g.addNode(8692, {label: "oluş",nodeclass: "type-TK"});
+ g.addNode(8693, {label: "oluşan",nodeclass: "type-TK"});
+ g.addNode(8694, {label: "enerji",nodeclass: "type-TK"});
+ g.addNode(8695, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(8696, {label: "enerji",nodeclass: "type-TK"});
+ g.addNode(8697, {label: "enerjisidir",nodeclass: "type-TK"});
+ g.addNode(8698, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,8679,8680,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8680,8681,{label: "TÜREME"});
+ g.addEdge(null,8681,8682,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8682,8689,{label: "ÖZNE"});
+ g.addEdge(null,8683,8685,{label: "NESNE"});
+ g.addEdge(null,8684,8685,{label: "TÜREME"});
+ g.addEdge(null,8685,8686,{label: "TÜREME"});
+ g.addEdge(null,8686,8687,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8687,8689,{label: "NESNE"});
+ g.addEdge(null,8688,8689,{label: "TÜREME"});
+ g.addEdge(null,8689,8690,{label: "TÜREME"});
+ g.addEdge(null,8690,8691,{label: "NESNE"});
+ g.addEdge(null,8691,8692,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8692,8693,{label: "TÜREME"});
+ g.addEdge(null,8693,8694,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8694,8697,{label: "ÖZNE"});
+ g.addEdge(null,8695,8697,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8696,8697,{label: "TÜREME"});
+ g.addEdge(null,8697,8698,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

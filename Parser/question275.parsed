@@ -1,0 +1,14 @@
+1	Cephe	cephe	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+2	_	yağ	Verb	Verb	Pos	3	DERIV	_	_
+3	yağışları	_	Noun	NInf	A3pl|P3sg|Nom	4	OBJECT	_	_
+4	ile	ile	Postp	Postp	PCNom	6	MODIFIER	_	_
+5	yükselim	yükselim	Noun	Noun	A3sg|Pnon|Nom	6	OBJECT	_	_
+6	_	yağ	Verb	Verb	Pos	7	DERIV	_	_
+7	yağışları	_	Noun	NInf	A3pl|P3sg|Nom	8	OBJECT	_	_
+8	arasında	ara	Noun	Noun	A3sg|P3sg|Loc	12	MODIFIER	_	_
+9	nasıl	nasıl	Adj	Adj	_	10	MODIFIER	_	_
+10	farklar	fark	Noun	Noun	A3pl|Pnon|Nom	12	SUBJECT	_	_
+11	_	var	Adj	Adj	_	12	DERIV	_	_
+12	vardır	_	Verb	Zero	Pres|A3sg|Cop	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+

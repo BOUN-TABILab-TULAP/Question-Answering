@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Sismoloji	sismoloji	+Noun+A3sg+Pnon+Nom
+
+neyle	ney	+Noun+A3sg+Pnon+Ins
+neyle	ne	+Pron+Ques+A3sg+Pnon+Ins
+
+ilgili	ilgi	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+ilgili	ilgili	+Noun+A3sg+Pnon+Nom
+
+araştırmaları	araştır+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Acc
+araştırmaları	araştır+Verb+Pos^DB+Noun+Inf2+A3pl+P3sg+Nom
+araştırmaları	araştır+Verb+Pos^DB+Noun+Inf2+A3pl+P3pl+Nom
+araştırmaları	araştır+Verb+Pos^DB+Noun+Inf2+A3sg+P3pl+Nom
+
+yapar	yap	+Verb+Pos+Aor+A3sg
+yapar	yap	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

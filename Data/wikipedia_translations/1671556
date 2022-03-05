@@ -1,0 +1,42 @@
+Yeraltı modeli
+Yeraltısuyu modelleri yeraltısuyu akım sistemlerinin bilgisayar modelleri ve Hidrojeologlar tarafından kullanılmaktadır. Yeraltı modelleri taklit ve akifer koşullarını tahmin etmek için kullanılır.
+Özellikler.
+"Yeraltısuyu modeli" nin kesin bir tanımı vermek zor, ama birçok ortak özellikleri vardır.
+Bir yeraltı suyu modeli ölçekli modeli veya yeraltı suyu durum veya akiferin elektrik model olabilir. Yeraltısuyu modelleri ortamda doğal yeraltı suyu akışını temsil etmek için kullanılır. Bazı yeraltı suyu modelleri yeraltı suyunun (kimyasal) kalite yönlerini içermektedir. Böyle bir yeraltı suyu modelleri, doğal, kentsel ya da hipotetik senaryoda kimyasal kaderini ve hareketini tahmin etmeye çalışın.
+Yeraltısuyu modelleri akiferin davranışları üzerindeki (yeraltı suyu soyutlama veya sulama gelişmeler gibi) hidrolojik değişikliklerin etkilerini tahmin etmek için kullanılabilir ve çoğunlukla yeraltı suyu simülasyon modelleri adlandırılır. Ayrıca günümüzde yeraltı suyu modelleri kentsel alanlar için çeşitli su yönetim planları kullanılmaktadır.
+Matematiksel yeraltı suyu modelleri hesaplamaları genellikle sadece sayısal analizi kullanılarak yaklaşık yöntemlerle çözülebilecek diferansiyel denklemler olan yeraltısuyu akım denklemlerinin dayalı olduğundan, bu modeller de "matematiksel, nümerik veya hesaplama yeraltı suyu modelleri" denir.
+matematik veya sayısal modeller genellikle yeraltı suyu akışı takip gerçek fizik dayanmaktadır. Bu matematiksel denklemler gibi MODFLOW, ParFlow, HydroGeoSphere, OpenGeoSys vb sayısal kodlar kullanılarak çözülür
+Sonlu farklar yöntemi ve sonlu elemanlar metodu gibi "sayısal çözümler" Çeşitli türleri "Hidrojeoloji" konulu makalede tartışılmıştır.
+Girişler.
+Hesaplamalar için tek girişleri gibi ihtiyaçları:
+Model su tuzluluk, toprak tuzluluğu ve girişler de gerekli olabilecek su ve toprak, diğer kalite göstergeleri gibi kimyasal bileşenlere sahip olabilir.
+Hidrolojik girdiler.
+hidrolojik girişler şarj belirleyen yağış, bitki su tüketimi ve yüzey akışı gibi hidrolojik verilerin oluşabilir. Bu girdiler, zaman ve mekan hem de değişebilir.
+Operasyonel girdiler.
+Operasyonel girişler bir hidrolojik doğa genellikle kuyuları, tabansuyu kontrol ve saklama veya sızma havzalarının işletilmesi, pompalama, sulama, drenaj gibi "su yönetimi" insan müdahaleleri ile ilgilidir.
+Bu girişler de zaman ve mekan içinde değişebilir.
+Birçok yeraltı suyu modelleri etkilere hidrolik mühendislik önlemleri değerlendirmek amacıyla yapılmıştır.
+Sınır ve başlangıç ​​koşulları.
+"Sınır koşulları" bir yandan modelin sınırları ("baş koşulları"), veya modele sınırları boyunca giriş ve çıkışları yeraltı boyunca su tablasının, artezyen baskılara ve hidrolik kafa düzeyleri ile ilişkili olabilir Öte yandan ("akış koşulları"). Ayrıca tuzluluk gibi suyun kalitesi yönlerini içerebilir.
+"Başlangıç ​​koşulları" artırmak veya model etki "içeriden" zamanla azalabilir elemanların başlangıç ​​değerlerine bakın ve sınır koşulları gibi büyük ölçüde aynı olayları kapsar.
+başlangıç ​​ve sınır koşulları bir yerden bir yere değişebilir. sınır koşulları ya da sabit tutulabilir ya da zaman içinde değişken yapılabilir.
+Parametreler.
+parametreler genellikle modellenmiş olan etki ve daha az ya da sabit zaman olduğu akiferin bu fiziksel özellikleri geometrisini ve mesafeleri ilgilendiren ama uzayda değişken olabilir.
+Önemli parametreler topografya, toprak / kaya katmanları ve bunların yatay / dikey hidrolik iletkenlik (su geçirgenliği), akifer geçirgenliği ve direnç, akifer gözeneklilik ve depolama katsayısı kalınlıkları yanı sıra doymamış bölgenin kılcallığı vardır. Daha fazla ayrıntı için hidrojeoloji makalesine bakın.
+Bazı parametreler su tablası düşer ve / hidrolik basınç düştüğünde azaltabilir bir kir tabakasının kalınlığı gibi, yer altı su durumda değişikliklerden etkilenebilir. Bu olgu çökme denir. kalınlığı bu durumda, zaman içinde değişken olup, bir parametre uygundur.
+Uygulanabilirliği.
+Gerçek bir duruma yeraltısuyu modelinin uygulanabilirliği veri girişi ve parametrelerin doğruluğuna bağlıdır. Bunların belirlenmesi hidrolojik veriler (yağış, bitki su tüketimi, sulama, drenaj) ve pompalama testleri de dahil olmak üzere daha önce de belirtildiği parametrelerin belirlenmesi toplanması gibi önemli bir çalışma gerektirir. Birçok parametreler uzayda oldukça değişkendir, uzman yargı temsilcisi değerlere gelmesi gereklidir.
+modeller de eğer-sonra analiz için kullanılabilir: Bir parametrenin değeri A ise, o zaman sonuç ne olduğunu ve parametresinin değeri B yerine ise, etkisi nedir? Bu analiz yeraltı suyu davranış kaba bir izlenim elde etmek için yeterli olabilir, ama aynı zamanda soruyu cevaplamak için bir "duyarlılık analizi" yapmak için hizmet edebilir: Hangi faktörler büyük bir etkiye sahip olan ve daha az etkiye sahiptir. Böyle bilgiler ile tek etkili faktörler daha soruşturma çabalarını yönlendirebilir.
+Yeterli veri monte edildikten sonra, bu kalibrasyon eksik bazı bilgileri tespit etmek mümkündür. Bu bir belirli parametrenin bilinmeyen ya da şüpheli değeri bir dizi değerleri varsayar ve bir bilinen karşılık gelen verilerle sonuçlarını karşılaştırarak ederken defalarca modeli çalışır anlamına gelir. Yeraltı suyunun tuzluluk figürleri bulunmaktadır ve hidrolik iletkenlik değeri biri iletkenlikleri bir dizi ve seçer varsayar, belirsiz ise, örneğin, gözlemlenen değerlere yakın tuzluluk sonuçlar verir "true" olarak iletkenlik değeri yeraltı suyu anlamına olduğunu tuzluluk şartlarına agreemnent olan hidrolik iletkenlik tarafından yönetilir olarak akar. Bu prosedür, kanal içine bilinen bir tuz konsantrasyonu, damla, çok tuzlu su izin ve alt elde edilen tuz konsantrasyonunun ölçülmesiyle, bir nehir veya kanal içinde akış ölçümü benzer.
+Boyutlar.
+Yer altı suyu modeller, tek boyutlu bir iki boyutlu, üç boyutlu ve yarı-üç-boyutlu olabilir.
+Bu özellik farklı yönlere değişebilir yani iki ve üç boyutlu modeller, hidrolik iletkenlik açısından dikkate akiferinin anizotropiye alabilir.
+Üç boyutlu Yarı.
+Yarı 3 boyutlu modellerde yatay akış 2 boyutlu akış denklemlerinin tarafından açıklanan (yani yatay x ve y yönünde). (Z yönünde) Dikey akımları 1 boyutlu akış denklemi ile (a) tarif veya (b) yatay varsayımı altında dikey akışına yatay giden yeraltı üzerinde gelen fazlalığını dönüştürme yatay akışlarının bir su dengesi türetilen Suyun sıkıştırılamaz olduğunu.
+Yarı 3 boyutlu modellerin iki sınıf vardır:
+Sürekli radyal modeli
+Olmayan bir discretized radyal modeli Een örneği su soyutlanmış edildiği kuyuların ağı derin kuyu bir doğru radyal olarak hareket yeraltısuyu akışının açıklamasıdır. radyal akış yüzeyi de bulunur radyal düzlemler (Şekil 7) kesişme ekseni yönünde azalır olan hidrolik eşit potansiyel temsil eden bir dikey, silindirik bir enine kesite geçer.
+Prismatically discretized modeli
+SahysMod gibi prismatically discretized modeller sadece kara yüzeyi üzerinde bir ızgara var. 2-boyutlu grid ağı üçgenler, kareler, dikdörtgen veya çokgen (Şekil. 7) oluşur. Bu nedenle, akış alanı, dikey blok veya prizma (Şek. 3) bölünür. prizmalar da prizma arasında değişebilir farklı özelliklere sahip "yatay" katmanına bölünmüştür edilebilir. komşu prizma arasındaki yeraltısuyu akım 2 boyutlu yatay yeraltı suyu akış denklemleri kullanılarak hesaplanır. Dikey akışları dikey anlamda tek boyutlu akış denklemlerini uygulayarak bulunan, ya da su dengesinin elde edilebilir: yatay çıkış (ya da tersi) üzerinde yatay girişi aşırı dikey akışına çevrilir, makale Hidroloji gösterildiği gibi (tarım).
+Yarı 3 boyutlu modellerde yatay ve dikey arasındaki ara akış gerçekten 3 boyutlu modeller gibi modellenmiş değil. Oysa, gerçekten 3 boyutlu modeller gibi, bu tür modeller yatay ve dikey yeraltı drenaj sistemlerinin tanıtımını (Şek. 3) izin yok.
+Akiferinin (Akitard) üzerinde uzanan bir yavaş geçirgen bir tabaka ile Semiconfined akiferler içinde ya da Akitard Yukarıdaki tabansuyu seviyesine akifer uygun nispi bir basınç etkisi altında içinden dikey bir akış simüle ederek modele dahil edilebilir.

@@ -1,0 +1,247 @@
+Question: Dayk, batolit ve sill gibi şekiller magmanın nerede katılaşarak oluşturduğu şekillerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kayaç</DOCTITLE>
+<TEXT>
+
+Kayaç, çeşitli minerallerin veya mineral ve taş parçacıklarının bir araya gelmesinden ya da bir mineralin çok sayıda birikmesinden meydana gelen katı birikintilerdir. Kayaç terimi eski Türkçede "sahre", yeni Türkçede "külte" ve yabancı dillerdeki rock, roche, gestein sözcükleri karşılığı kullanılmaktadır.
+"Kayaçlar oluşumları sırasındaki doğal ortamı yansıtan bir çeşit belgelerdir. Yer kabuğunun jeolojik gelişmesinin izleri bu çeşit kayaçlar üzerinde işlenmiştir. Bu nedenle onlar, " Yer tarihinin doğal belgeleri" sayılır." 
+Kayaçlar, mineral yapılarına, kimyasal bileşenlerine, barındırdığı bileşenlerin dokularına ve oluşumuna neden olan etmenlere göre sınıflandırılmaktadır. Bu belirleyiciler yardımıyla yapılan sınıflandırma, üç ana kayaç türünü içerir; bunlar Magmatik kayaçlar, tortul ve başkalaşım kayaçlarıdır. Bu sınıflandırmada daha çok parçacıkların büyüklükleri temel alınmıştır. Bir kayacın başka bir kayaca dönüşümü, kayaç döngüsü adı verilen bir jeolojik modelle gösterilmektedir.
+Kayaçlarla ilgilenen bilim dalına petrografi adı verilir. Petrografi, Jeoloji'nin temel dallarından biridir.
+Magmatik kayaçlar.
+Ergimiş halde bir silikat hamuru durumunda olan magmanın veya akkorun yer kabuğunun derinliklerinde veya yeryüzünde soğuyarak katılaşması sonucu meydana gelen kayaçlardır. Bunlar genel karakterleri ile, kristallerden oluşmuş kütle halinde kayalardır. Magmanın soğuması ve katılaşması derinlerde yavaş yavaş meydana geldiği zaman, tam kristalli "plütonik kayaçlar", soğuma ve katılaşma yeryüzünde veya yeryüzüne yakın derinliklerde hızlı veya çabuk oluştuğu takdirde, volkanik ve damar kayaçları meydana gelmektedir. 
+İç Volkanik (intrüzif) Kayaçlar.
+Yükselen magmanın yeryüzüne erişmeden kabuk içinde herhangi bir derinlikte yerleşmesi ve katılaşması ile oluşan kayalara denir. Derin seviyelerde yerleşen ve katılaşan magmatik kütlelere "derinlik kayaları" da denir. 
+Bunlar genellikle iyi kristalleşmiş minerallerden oluşmuş kayaçlardır. Mineraller kayaç türüne göre bir veya birkaç çeşit olabilirler. 
+Plütonik kayalar yer kabuğu içinde farklı biçimlerde bulunur ve buna göre adlandırılırlar. İç kuvvetlerin niteliği, yer kabuğunu oluşturan malzemenin özellikleri, yükselen magmanın akıcılığı, yoğunluğu ve hacmi bir sahadaki plütonik kütlelerin biçimini ve bulunuş tarzını belirleyen başlıca etkenlerdir. Biçimleri ve bulunuş tarzları farklı olan ve bu nedenle ayrı isimlerle adlandırılan başlıca plütonik kütle türleri "batolit, lakolit, lapolit, filon(dayk), sill(tabaka filonları) ve volkan tıkaçları(nek)"dır. Bunlardan alan ve hacim olarak en büyükleri olan ilk üçü genellikle "plüton" terimi ile açıklanırlar. Plütonların oluşumuna yol açan magmatik olayların tümüne de "plütonizma" denir.
+Dış Volkanik Kayaçlar (Ekstrüzif) Kayaçlar.
+Magmanın yeryüzüne çıkarak, orada soğuması sonucunda meydana gelen katılaşım kayalarına ekstrüzif kayalar veya dar anlamda volkanik kayalar denir. 
+Bunlara "yüzey kayaçları"da denir; bunlar yarı kristalli, porfirik yapılıdır. Kayaç, çoğu kez gözle görülebilen mineral fenokristalleri ve kristal olmayan, camsı bir hamurdan oluşmaktadır. Örneğin; andezit, riyolit, bazalt vb. gibi.
+Sedimanter (Tortul) Kayaçlar.
+Kayaların oluşum bakımından farklı ikinci takımını sedimanter (tortul) kayalar veya öteki adıyla "sedimentitler" meydana getirir. Eskiden var olan kayaların akarsular, buzullar, rüzgarlar, dalgalar gibi dış etkenler tarafından aşındırılarak sürüklenen kırıntılarının ve diğer çözülme ürünlerinin, ya da kimyasal yolla yerinde meydana gelen maddelerin normal basınç ve sıcaklık altında su üstünde veya su altındaki ortamlarda birikmesiyle "sedimentler" (çökeller) oluşur. Sedimentler zamanla çeşitli değişikliklere uğrarlar. Yığılan maddelerin ağırlığı altında sıkışırlar, içerdikleri su dışarı atılır, gözenekleri azalır ve hacimleri küçülür; kendi içlerinde meydana gelen kimyasal olaylarla yeni mineraller oluşabilir; taneler ve kırıntılar arasında bir çimento meydana gelir. Bütün bu süreçlerin sonucunda Sedimentler pekleşerek taşlaşır ve tortul kaya haline dönüşür. Yüzbinlerce, hatta belki milyonlarca yılı kapsayan ve sedimentlerin tortul kaya haline gelmesine yol açan bütün bu süreçlerin tümüne "diajenez" denir. 
+Bu kayaçlar kimyasal, fiziksel (kırıntılı) ve organik tortullar olmak üzere üçe ayrılır gibi . Kimyasal tortullar, suların içindeki eriyik maddelerin çökmesi ile oluşmuş olup kireç taşı, traverten, jips ve kaya tuzu gibi örnekler barındırır. Bu tortullar, Dünya'daki tüm tortulların %65'ini kapsar. Fiziksel tortullar, kayaçların parçalanması ile oluşan kırıntılı malzemelerin oluşturduğu kayaçlar olup, konglomera, kum taşı ve kil taşı gibi örnekleri içinde bulundurur. Bu tortullar, tüm tortulların %20-25'ini kapsar. Son olarak organik tortullar, bitki ve hayvan kalıntılarının birikmesi sonucunda oluşan kayaçlar olup, petrol, kömür gibi örnekler barındırır. Bu tip tortullar, tüm tortullar içinde %10-15 kısmını kapsar. Tüm tortul kayaçlar Dünya'nın yüzeyinde veya yüzeyine yakın tabakalarında oluşur.
+Fiziksel Tortul Kayaçlar.
+Çeşitli büyüklüklerde taş ve mineral parçalarının karalarda ve denizlerdeki tortullaşma havzalarında çökelmeleri ile meydana gelen taneli- parçacıklı kayaçlar dır. Değişik boyuttaki tanelerin bir çimento-maddesi ile birleşmeleri, birbirine kenetlenmeleri sonucu katı ve sıkı halde bulunan "çimentolu tortul kayaçlar" oluşur. örneğin; kumtaşı, konglomera, gibi.
+Taneleri birbirine bağlayacak, birleştirecek bir madde bulunmadığı hallerde, taneler serbest kalır ve "çimentosuz tortul kayaçlar" meydana gelir. Örneğin; kum, çakıl, kil gibi.
+Kırıntılı tortul kayaçların sınıflandırılması ve adlandırılması tanelerin boyutlarına, türlerine, biçimlerine, yuvarlak ve boylanma derecelerine, homojen ve heterojen oluşlarına ve çimento maddesinin bileşimine göre yapılır.
+Organik Tortul Kayaçlar.
+Foraminiferler, radyolaryalar, algler, süngerler ve mercanlar gibi kabuklu organizmaların kalıntılarından voluşan kayaçlar dır. Organizmaların katı kısımları burada taşlaşmış, fosil haline gelmişlerdir. 
+Organik tortul kayaçların sınıflaması ve adlandırılması eskiden beri organizmaların kavkılarını ve iskeletlerini oluşturan başlıca maddelerin kimyasal bileşimlerine göre yapılmaktadır; Örneğin, kireçli, silisli, bitümlü, fosfatlı vb. gibi.
+Kimyasal Tortul Kayaçlar.
+Doygun eriyiklerin çökelmesi ve tuzlu suların buharlaşması sonucu meydana gelen tortulardır. Mağaralardaki dikit ve sarkıtlar, deniz kıyılarındaki kireçli ve demirli olitler, kapalı göl kenarlarındaki tuz birikintileri ve kaynaklar etrafındaki taşlaşmalar (travertenler) kimyasal tortulların başlıca örnekleridir.
+Metamorfik (Başkalaşım) Kayaçlar.
+Tortul veya magmatik diğer kayaçların sıcaklık, basınç, gerilme ve kimyasal aktivitesi olan sıvılar etkisi ile değişmeleri, başkalaşmaları sonucu meydana gelirler. Genelllikle kristallerden oluşmuş, paralel yapılı kayaçlar dır. Bunlara "kristalin şistler" de denir.
+Metamorfizma: Yer kabuğunun derinliklerinde hüküm süren değişik fiziksel ve kimyasal şartların etkisi ile kayaçlardan katı halde meydana gelen mineral değişikliği veya mineral transformasyonu olayıdır.
+Mineraller belirli bir sıcaklık ve basınç altında duraylı durumda bulunurlar. Her mineralin kendine öz bir duraylılık sıcaklığı ve basıncı vardır. Eğer sıcaklık ve basınç değerinde bir artma, bir değişme olursa, mineral de de değişme başlar, mineral aynı kimyasal bileşimde başka bir duraylı minarele dönüşür, böylece bir mineral transformasyonu olur. Metamorfizmanın aslı da budur.
+Metamorfizma olayı büyük ve sıcak bir magma kütlesinin çevresinde meydana geldiği zaman "kontakt veya termal metamorfizmadan"; büyük bir fay veya bindirme düzlemi kenarında oluştuğu takdirde "dislokasyon veya kataklastik metamorfizmadan" söz edilmektedir; jeosenklinallerde (dalma-batma zonlarında) dağ oluşum hareketleri (orojenez) ile birlikte meydana gelen metamorfizmaya "rejiyonal termo- dinamo metamorfizma"; dip kısımlarının yavaş yavaş çökmesi ile on binlerce metre kalınlıkta tortuların (sedimentlerin) biriktiği okyanus havzalarında gelişen metamorfizmaya da "çökme veya gömülme metamorfizması" denilir.
+Metamorfik kayaçların başlıca özelliği, bunların birbirine paralel düzlemler boyunca ve kolaylıkla yaprak yaprak veya dilim dilim ayrılmaları, bölünmeleridir.
+Bu üç ana kayaç türü — magmatik, tortul ve başkalaşım — daha birçok alt dala ayrılır. Yine de bu ilintili kayaçlar arasında sert ve sıkı sınırlar yoktur. Bileşenlerinde yer alan minerallerdeki boyutların artıp azalması, bir kayacı başka bir kayaç hâline getirebilmektedir. Bu nedenle, belli özellikler için hazırlanan dereceler için hazırlanan tanımlamalar sayesinde herhangi bir kayaca isimler verilebilmektedir. Birde bazı kayaçlar elmas yapımında kullanılır
+Toplumdaki etkisi.
+Kayaçlar, insanoğlu için kültürel ve teknolojik anlamda büyük bir etkiye sahiptir. Homo sapiens ve diğer insansılar tarafından iki milyon yıldan beri kullanılan kayaçlar, insanlar için teknolojinin temel ögelerinden biridir. Taşların madenlerden çıkartılarak çeşitli amaçlar için kullanılması, en eski teknolojik ilerlemelerden biridir. Ancak bu süreç çeşitli yerlerde farklı madenlerin ve taşların bulunması nedeniyle farklı zamanlarda ilerleme gösterdi.
+Tarih öncesi devirler arasında Taş çağı, Bronz çağı ve Demir çağı gibi çağlar yer almaktadır. Her ne kadar Taş çağı görünürde tüm dünya medeniyetleri üzerinde sona erdiyse de, birçok kayacın, binaların ve altyapıların inşasında kullanılmasına devam edilmiştir. Kayaçlar bu anlamda kullanıldığında kesme taş adıyla anılır...
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kita Oluşumu (Epirojemez) (EBA)</DOCTITLE>
+<TEXT>
+
+Yer kabuğunda meydana gelen geniş alanlı alçalma ve yükselmeler epirojenez olarak ifade edilir. Yer kabuğunu oluşturan levhalar manto üzerinde dengeli bir biçimde dururlar. Buna izostatik denge denir. Ancak bu denge, yer kabuğu üzerinde meydana gelen çeşitli olaylar sonucunda bozulabilir.
+Karalar üzerinde meydana gelen buzullaşma sonucunda kara kütlesinin ağırlığı artar ve kara kütlesi çöker. Deniz suları karaya doğru ilerler. Buna transgresyon ( deniz ilerlemesi) denir. Aşınma ve buzulların erimesi sonucu karalar hafiflemekte ve yükselmektedir. Bunun sonucunda da regresyon (deniz gerilemesi) ortaya çıkar.
+Epirojenik hareketlere örnek olarak İskandinav Yarımadası ve Kanada verilebilir. Buzul Çağında buralarda 1-2 km kalınlığında bir buzul örtüsü vardı. Sonradan buzullar eriyince karaların üzerindeki yük azaldı ve tekrar yükselmeye başladı. Yükselme, günümüzde de yavaş yavaş devam etmektedir.
+VOLKANİZMA
+Etna Yanardağı’nın ani püskürmesi harika bir manzara olabilir, ancak çevreye büyük zarar vermektedir. Bununla birlikte insanlar, tarih boyu sadece İtalya'da değil, Havvaii’de, İzlanda’da, ABD'de, Meksika'da yani Dünya’nın birçok yerinde volkanlarla iç içe yaşamışlardır.
+Volkanik faaliyetler, meydana geldikleri yere göre adlar alırlar.
+a. Derinlerde meydana gelen magmatik faaliyetler
+Magma yerin zayıf olan dirençsiz noktalarındaki tektonik kırılma alanlarından yüzeye fışkırır. Ancak Volkan	bu olay her zaman	yaşanmayabilir. Yer kabuğunun tabakaları arasına kadar sokulan magma yüzeye çıkmadan çeşitli derinliklerde katılaşarak batolit, dayk, lakolit, sili gibi değişik şekiller oluşturur. Bu şekiller, dış kuvvetlerin üstteki tabakaları aşındırması sonucu yüzeye çıkar.
+b. Yüzeyde meydana gelen magmatik fcicdiyetler
+Yerin içinde bulunan magmanın çatlaklardan yeryüzüne çıkması ile volkanik püskürme meydana gelir. Yeryüzüne çıkan magmaya lav denir. Lavlar'volkan dağının yamaçlarından aşağı doğru akar.
+Kül ve gaz bulutları gökyüzünü kaplar.
+Volkanik faaliyetler deniz altında da devam eder. Üst üste biriken volkanik materyal zamanla deniz yüzeyine çıkarak bir ada hâlini alabilir.
+Volkanlar, etkinliklerine göre aktif ve değişik türde malzemeler çıkarırlar.
+Volkanlardan çıkan malzemelerden, boyutları 1 cm’den küçük olanlara volkan külü, 1 cm’den büyük olanlara lapilli, daha büyük olanlara ise volkan bombası adı verilir.
+Lapilli
+Yanardağın tepe kesimindeki baca çukurluğuna krater denir.
+Volkanın tepe kısmının çökmesi ya da patlayarak parçalanmasıyla oluşan çukurluğa kaldera denir.
+sönmüş volkanlar olarak ikiye ayrılır. Aktif volkanlar katı, sıvı ve gaz gibi
+Volkanik arazilerde yer altında biriken gazların büyük bir basınçla patlama şeklinde yüzeye çıktığı yerlerde oluşan çukurluklara maar adı verilir.
+Volkan küllerinin çimentolaşmasıyla, hafif yumuşak, çok gözenekli volkanik taşlar tüf tabakalarını oluşturur.
+Lavlar aktığı yerlerde çeşitli zararlara sebep olur.
+Volkan Şekilleri
+Yerkürenin derinliklerinde bulunan magma, yer kabuğundaki kırık ve çatlaklardan yüzeye sokulur ya da yeryüzüne çıkarak o alanı şekillendirir. Volkanların püskürttüğü malzemeler ve çıkan lavların akış özelliklerine bağlı olarak çeşitli volkan şekilleri ortaya çıkmıştır
+Kül (Piroklastik) Volkanlar
+Volkanizma sırasında yeryüzüne püskürtülen volkan külü volkan kumu, lapilli, volkan bombası gibi çeşitli boyuttaki, katı maddelerin volkan bacasının çevresine üst üste yığılmaları ile oluşmuş koni biçimli volkanlardır.
+Kalkan Volkanlar
+Akıcı lavların bir bacadan çıkarak birikmesi sonucunda oluşan, geniş alanlı ve kubbem-si bir görünüşe sahip volkanlardır. Güneydoğu Anadolu’daki Karacadağ bu şekilde oluşmuştur.
+Tabakalı Volkanlar
+Magmadan değişik dönemlerde yükselen, fazla akıcı olmayan farklı karakterdeki malzemenin birikmesi ile oluşur. Türkiye’nin en yüksek dağı olan Ağrı Dağı bu şekilde oluşmuştur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dayk</DOCTITLE>
+<TEXT>
+
+Dayk.
+Ortamdaki bir kayacın içerisinde daha önceden var olan ya da sonradan gelişen bir çatlak içerisine ilerleyen kaya tabakasıdır. Eğer çatlak katmanlı bir kaya tabakası içinde gelişiyorsa burada oluşan yapıya “hendek” ya da “eşik” denir.
+Dayklar çevresindeki kayaçları keser konumda bulunan, yüzeyleri hemen hemen birbirine paralel; kalınlık, uzunluk oranları oldukça fazla olan magmatik kayaç kütleleridir. Kalınlıkları birkaç cm ile birkaç km arasında değişir.
+Oluşumu.
+Dayklar daha önce oluşmuş fay ve çatlak sistemlerinde oluşabileceği gibi magma ocağındaki yüksek basınç ve sıcaklik sonucu üstteki kayaç kütlerinin parçalaması ile ortaya çıkan çatlaklarda da oluşabilir. Işınsal, koni ve çember şeklinde gelişen dayklar gözlenir.
+Doğada bilinen en büyük Dayka örnek olarak Rodezya’da kalınlığı 4 km, uzunluğu 450 km olan “Büyük Dayk” verilmektedir.
+Işınsal Dayklar(radyal).
+Magmatik bir kütlenin çevresinde görülen ve kütleye dik olarak kilometrelerce uzanan dayklardır. Magmatik kütle merkez olmak üzere, birkaç yöne farklı açılarla uzana bilirler.
+Çember (ring) ve Koni (cone sheets) Şekilli Dayklar.
+Yükselmekte olan magmanın üst kısmındaki kayaçlara yaptığı basınç sonucu ortaya çıkan çatlakların, magma tarafından doldurulması ile meydana gelirler. Çember dayklarının çapları 6 km civarındadır, ancak çapı birkaç yüz metre veya 20–25 km olanları da mevcuttur.
+*Batolit (Batholith).
+Derinlere doğru giderek genişleyen ve yeryüzünde 100 km2’den daha geniş, yaklaşık elips şeklinde bir
+alan kaplayan, çok büyük magmatik kayaç kütleleridir. Batolitlerin kenarları komşu kayaçların doğrultuları ile uyumlu olabildiği gibi, komşu tabakaları değişik açılarda kestiği de gözlenebilir. Kenar zonlarına doğru kısmen değişik bileşimler de gösterebilirler. Batolite benzeyen, ancak yeryüzünde kapladığı alan 100 km2’den küçük olan magmatik kayaç kütlerine ise “kütük (stock)” adı verilir. Doğada bilenen en büyük batolitler Kuzey Amerika’da Alaska ve İngiliz Kolombiya’sı arasında uzanan “Kıyı Sıradağları Batoliti (Coast Range Batholith)” örnek olarak verilebilir. Bu yaklaşık 1800 km uzunluğunda, 120–200 km genişliğinde ve 180.000 km2’üzerinde bir alan kaplayan batolittir.
+Kaynakça.
+http://en.wikipedia.org/wiki/Dike_(geology)
+http://tr.wikipedia.org/wiki/Batolit
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Granit</DOCTITLE>
+<TEXT>
+
+Granit, sert, kristal yapılı minerallerden meydana gelen taneli görünüşlü magmatik derinlik kültesi. Plüton içindeki taneler çoğunlukla gözle görülebilir büyüklüktedir. Esas mineralleri feldspatın ortoklas cinsi ile az miktarda plajioklas ve kuvarstır. Ayrıca mika, hornblend, piroksen ve ikinci gruba giren turmalin, apatit, zirkon, grena, manyetit gibi mineraller de bulunabilir.
+Granitlerin renkleri, genellikle açık olmakla birlikte, içindeki feldspatların ve diğer minerallerin cins ve miktarına göre gri, pembe,turucu olabilir.
+Granitler, yeryüzünde çok yaygın olarak bulunurlar. Çeşitli yer kabuğu modellerinde görünür. Yeryüzünün temelini teşekkül ettirdiği kabul edilmektedir. Doğada dayk, silis ve batolitler halinde bulunabilir.
+Yollarda parke ve bordür taşı, yapılarda yapı taşı olarak çok eskiden beri bol miktarda kullanılmaktadır. Aşınmaya, basınca, darbeye karşı dayanıklı, güzel renkli ve iyi cila kabul eder. Atmosfer tesirlerine ve ayrışmaya karşı direnci yüksektir. Günümüzde daha çok parke ve bordür taşı ve bazı büyük yapılarda kaplama taşı olarak kullanılmaktadır.
+Granit, yeriçinde 400 santigrat derece civarında bir ısıya sahip olup, soğuması birkaç bin yıl gibi çok uzun bir zamanı kapsar. Bu ısı aynı zamanda jeotermal suların da kaynağıdır. Yeriçine süzülen suların, granitlerin çatlakları arasındaki hareketi, hem granitin yüksek ısısı ile su sıcaklığını arttırır hem de çözünebilir haldeki mineraller suyun bünyesine dahil olur. Jeotermal suların oluşumu bu şekilde gerçekleşir. 
+Bileşimi ve bulunuşu.
+Granitlerde kuvars, genellikle hacmen % 20'nin üzerindedir. Derinlik külteleri arasında hacmen % 40'tan fazla kuvars ihtiva eden türe rastlanmaz. Kuvars ve ağır silikatlar bakımından zengin olan kayaçlar gabro sınıfına girer. Esas bileşeni olan feldspat plajioklas ve ortoklas (alkali feldspat) halinde olması mümkündür. Birinin diğerine oranı genellikle ikiden azdır. Granitlerde bulunan ikinci ana mineraller muskovit, biyotit, amfibol, piroksen veya nadiren fayalit (demirli olivin) olarak sıralanabilir. Genellikle bunlardan iki veya üçü bir arada bulunur.Çeşitli sınıflamalarda koyu renkli minerallerin oranı farklı olmakla birlikte hacmen % 20'den fazla koyu renkli mineral ihtiva eden taşlara genellikle granit adı verilmemektedir.
+Oluşum teorileri.
+Başlıca iki zıt görüş vardır; 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ardanuç</DOCTITLE>
+<TEXT>
+
+Ardanuç, Artvin ilinin bir ilçesi ve bu ilçenin merkez kasabadır. İlçe toprakları 962 km²'lik bir alanı kaplar. İlçe nüfusu 2002 itibariyle 14.477 ve kasaba nüfusu 2002 itibariyle 5.278'dir.
+Tarihçe.
+Ardanuç ve çevresinde yerleşmenin çok eski olduğu görülür. MÖ 2000 yıllarında Hurriler ve Mitanniler Çoruh havzasına egemen olmuşlardır. Ardanuç ve çevresinin ilk defa yazılı tarihe geçmesi Urartular döneminde olmuştur. Tuşpa (Van) Kalesi'ndeki 30 tondan büyük taşlara yazdırılan Urartu devleti yıllığından anlaşıldığına göre: Urartu Kralı II. Şarduri MÖ 753'te Çoruh boyundaki Kulkhi krallığını yenerek itaat altına almıştır. Bugüne kadar Ardanuç ilçesinde Urartu dönemine ait yazılı bir belgeye rastlanılmamıştır. Ancak Ardanuç adının Urartu Güneş Tanrısı adına yapılan tapınaklarla ilgili olabilir.
+MÖ 7. yüzyıl'da Ardanuç ve çevresine İskit (Saka) boyundan Taokların yerleştiği görülmektedir. Tayk ve Dayk adlı eski eyalet adları ile Tavusker gibi coğrafi isimlerin bunlardan kaldığı kesinlikle söylenebilir. Saka yerleşmesinden yaklaşık beş asır sonra Ardanuç ve çevresine Arsaklı Hanedanı hükmetmiştir. Bu hanedanlık, hakimiyet altındaki bu bölgeyi sancaklara bölerek yönetmiştir ki; Tavusker olarak adlandırılan Ardanuç kesiminin bu son sancak idaresinin merkezi olduğu bilinmektedir.
+5. yüzyıl ortalarından itibaren çevreye Hazarlar, Kalaçlar, Barseller, Tukharlar, Bulgarlar gibi Türk boylarının yayıldığı görülür. 575 yılında Bizans İmparatoru II. Justinyen Bagratlı soyundan Guaram'ı Ardanuç ve çevresine İlbeyi olarak tayin etti. Ardanuç Gevhernik Kalesi Bagratlılar Hanedanı döneminde inşa edilmiştir. Bagratlılar, Emevi Halifesi II. Mervan döneminde itaat altına alınmış ve 744 yılında Ardanuç Kalesi'nin kapıları ve burçları yıktırılmıştır.
+Ardanuç Bagratlı Kralı Aşut Bey (786-826) müttefikleri Bizanslılardan aldığı yardım ile Şavşat'ta bozulup yıkılan kaleleri yeniden onarttırdı. Alparslan'ın ölümünden sonra Bizans'tan himaye görüp Selçuklular'a baş kaldıran II. Giorgi (1072-1088) Kafkaslar kuzeyinden inen Şaman ve Hristiyan Kıpçak Türklerinin de yardımıyla Ardanuç ve çevresinde ki hakimiyet alanını genişletti. Sultan Melikşah'ın 1080 yılında gönderildiği Emir Ahmet, Posof üzerinde Bagratlıları yenerek Kür ve Çoruh boylarını fethetti.
+Ardanuç Bagratlı krallığı da balkanlık Apkaz topraklarına atılarak yöre İslamlaşmaya başladı. 1124 yılında çoğu Şamanist ve bir kısmı yeni Hıristiyan olan Kıpçak Türkleri ile ittifak yapan Bagratlı Kralı II. Davit (1089-1125) 40 bin kişilik Kıpçak-Gürcü ordusuyla Çoruh boyunu ele geçirdiği gibi Oltu ve İspir bölgelerine kadar hakimiyet alanını genişletti. Erzurum'da kurulan Saltuklu Beyliği ile Bagratlılar arasında sürekli mücadeleler olmuş, ancak Ardanuç alınamamıştır. Anadolu'nun Moğollar tarafından istilası üzerine Ardanuç ve çevresi de Moğol hakimiyetine girdi.
+Moğol soyundan İlhanlı Hakanı Abaka Han döneminde Gürcistan ve Abkaz Valisi İrencin Noyan tarafından Posof'taki Cak Kalesi beylerinden olan hristiyan kıpçak türkü Sargis Bey (1267-1282) ile oğlu I. Beka Bey'e (1285-1306) Yukarı kür ve Çoruh boylarının büyük bir bölümü ile Acara bölgeleri malikāne olarak verildi. Bu tarihten itibaren vaktiyle Bagratlı hanedanının oturduğu Ardanuç Kalesi'ne Kıpçak Atabekler Sülalesinden bir kol yerleşti ve Osmanlıların 1551'de Ardanuç'u fethetmesine kadar bölgeyi idare ettiler.
+Kanuni Sultan Süleyman döneminde Erzurum Beylerbeyi İskender Paşa,bu Kıpçak sülalesinin Ardanuç Kalesi'nde oturan ve İran'a tābi olan XIV. Atabeki II. Keyhüsrev'den 33 günlük bir kuşatmadan sonra Ardanuç Kalesi'ni fethederek Osmanlı ülkesine katmıştır.(13 Mayıs 1551)
+1877-1878 Osmanlı-Rus savaşına kadar Osmanlı egemenliğinde kalan Ardanuç, bu savaştan sonra imzalanan Berlin Antlaşması'nın 58. maddesine göre Rusya'ya savaş tazminatı olarak verilen Elviye-i Selāse (Üç-Sancak) içinde yer aldı. Yerli halkın "Kırk Yıllık Kara Günler" dediği bu esaret hayatından sonra, Rus Çarlığında patlak veren Bolşevik İhtilāli'nin arkasından yeni Sovyet Hükümeti ile 3 Mart 1918'de Brest-Litovsk Antlaşması imzalandı. Bu antlaşma ile Üç-Sancak'ta halk oylaması yapıldı. Halkın tamamına yakınının isteği üzerine Üç-Sancak tekrar Osmanlı Devleti'ne bağlandı. 30 Ekim 1918 tarihli Mondros Mütarekesi'nden sonra Üç-Sancak İngilizler tarafından işgal edildi. 1920 yılı sonralarında İngilizlerin çekilmesiyle Ardanuç ve çevresi Gürcü kuvvetlerinin işgaline uğradı.
+Doğu Cephesi Kumandanı Kâzım Karabekir Paşa'nın Ermeniler yenmesi ve Gümrü Antlaşması'ndan sonra, Gürcü işgalinde bulunan Batum ve Ardahan'ın dışında bütün Doğu Cephesindeki yerlerimiz ele geçirilmişti.
+TBMM Hükümetinin, Gürcistan Hükümetine verdiği nota ile Gürcüler 23 Şubat 1921 günü işgal altında tuttukları toprakları terkettiler ve Ardanuç, Artvin ve Ardahan topraklarımız en son ve ebedî olarak anavatana katılmıştır. 6 Mart 1921 akşamı Artvin iline ulaşan resmi kuvvetlerimizden bir bölüğün 7 Mart 1921 günü Ardanuç'a girmesi ile kurtuluş ve anavatana katılma fiilen tahakkuk etmiştir.
+13 Şubat 1921'den 1945 yılına kadar Artvin'e bağlı bir nahiye olarak yönetilen Ardanuç 1 Ağustos 1945 tarih ve 4769 sayılı kanunla ilçe olmuştur. İlk ilçe merkezi Tütünlü iken 1948 yılı Kasım ayında ilçe merkezi Adakale'ye,1954 yılında Hükümet binası inşaatının tamamlanmasından sonra da şimdiki meydanlara nakledilmiştir.
+Nüfus.
+İlçenin nüfusu 2000 genel nüfus sayımına göre 14 477'dir.ilçe nüfusunun çoğunluğunu Kıpçak Türkleri oluşturur%90 diğer nüfus poşalar(çingenler)den oluşur. Bunun 5 278'si ilçe merkezinde, 9 199'i ise kasaba ve köylerde yaşamaktadır.
+Şive.
+Ardanuç ilçesinde kullanılan Türk şivesinin Doğu Anadolu ağızları içindeki konumu
+Prof. Dr. Leyla Karahan'ın "Anadolu Ağızlarının Sınıflandırılması" (Türk Dil Kurumu yayınları: 630, Ankara 1996) adlı çalışmasına göre şöyledir:
+Kaynakça.
+Artvin Ve Çevresi Kıpçak Türk Tarihi.
+Kurat ,Akdes Nimet-Türk kavimleri ve Türk Devletleri,s83,84).Kırzıoğlu,kıpçaklar s.148-M.Fahrettin Kırzıoğlu).-- Çoruh boyu kıpçak Türkleri kitabı-M.Fahrettin Kırzıoğlu ,Yukarı kür ve Çoruh boylarında kıpçaklar Ankara 1992.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Batolit</DOCTITLE>
+<TEXT>
+
+Batolit, magmanın derinliklere sokulması ve katılaşmasıyla oluşan büyük boyutlu bir magmatik yerleşimdir(Plüton). 
+Batolit en az 100 km²lik yüzey alanına ve birçoğu çok daha büyük alana sahip sokulum kütleleri olarak tanımlanır. Bir başka ifadeyle batolit aynı bölgede yinelenen, geniş magma sokulumlarıyla ortaya çıkan büyük bir karma kütledir. Yatay kesitleri genellikle daire veya elipse benzeyen batolitler, yerin derin kısımlarına doğru gittikçe genişleyerek, dipsiz bir şekilde devam ederler. Çevre kayalarıyla sınırları, düşey ve çok dik konumlar arasında değişir. Batolitler üzerinde yapılan araştırmalar, bu yapıların üst yüzeylerinin çok düzensiz olduğunu göstermiştir. Batolitin oluşumu sırasında, çevre kayalarda da kıvrımlanma, kırılma ve değme-dokunum(kontakt) başkalaşımı olayları gelişir. Büyük derinliklerde meydana geldiklerinden dolayı tam kristalli kayaçlardan oluşurlar ve kıvrımlı bölgelerde antiklinallerin veya kıvrımlı sıradağların çekirdeklerini teşkil ederek bu dağların eksenleri boyunca uzanırlar. Örneğin Alp Dağları’ndaki Mont Blanc ve Pelvoux granit masifleri ile yurdumuzda Uludağ, Yıldız Dağları(Istıranca) ve Doğu Karadeniz Dağları gibi dağların temelinde yer alan batolitler bu şekildedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tivoli-Neu</DOCTITLE>
+<TEXT>
+
+Tivoli-Neu Avusturya Innsbruck'da çok amaçlı kullanımlı bir stadyumdur. Halihazırada çoğunlukla futbol maçları için kullanılır ve FC Wacker Tirol'un ana sahasıdır. Stadyum 17.400 kişilik olup, 2000 yılında inşa edildi. 2008 Avrupa Futbol Şampiyonası için 30.000 kişiliğe genişletilecek. 
+Tivoli Neu, orijinal Tivoli stadyumundan sonra isimlendirildi ve Sill Nehri'nde farklı bir yere karar verildi. 2004 yılına kadar kapalı idi. Dört yıl sonra Tivoli Neu açıldı. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tommy Franks</DOCTITLE>
+<TEXT>
+
+Tommy Ray Franks (d. 17 Haziran 1945) ABD Silahlı Kuvvetlerinde emekli general. En son yaptığı görev ABD Silahlı Kuvvetleri'nin yurtdışındaki ABD Komuta Merkezi Komutanlığıdır. Bu görevi General Anthony Zinni'den 6 Temmuz 2000 tarihinde devralan Franks 7 Temmuz 2003 günü emekli oluncaya kadar görevini sürdürdü. 11 Eylül Saldırılarının ardından 2001 yılında Afganistan'daki Taliban rejimine karşı düzenlenen işgale katılır. Ayrıca 2003 yılındaki Irak'ın işgali harekâtında da komutandır. Pulitzer Ödüllü gazeteci Thomas Ricks'e göre ABD tarihindeki en başarısız 4. komutandır.
+Gençliği.
+Tommy Ray Bentley adıyla Wynnewood Oklahoma’da dünyaya gelir. Ray ve Lorene Franks tarafından evlatlık edinilir.Teksas Midland’de liseyi bitirir. Austin’deki Teksas Üniversitesine gider. İki yıllık eğitimin sonrasında düşük notlarından dolayı okulu bırakarak orduya yazılır. Daha sonra ordudan aldıladığı bursla Arlington’daki Teksas Üniversitesine devam edecek ve 1971 yılında İşletme dalında lisans eğitimini tamamlayacaktır.Pensilvanya’daki Shippensburg Üniversitesinde Kamu Yönetimi alanında yüksek lisans yapar.
+Askeri hayatı.
+1965 yılında orduya giren Franks temel eğitimini Missouri’deki Fort Leonard Wood’da alır. Massachusetts’deki Fort Devens’de şifre uzmanı olarak eğitim alır. Bu dönemde subay olmayan Franks Oklahoma Fort Sill Topçu ve Füze Subay Okulu sınavlarını kazanır. 1967 yılında asteğmen olarak mezun olur. Gaye eğitimi aldıktan sonra Vietnam Savaşı’da görev yapan 9. Piyade Tümenindeki 4. Topçu Taburuna atanır. 1968 yılında Fort Sill’e döner. Teğmen olarak üniversiteye devam ettikten sonra 1973 yılında yüzbaşı olarak Batı Almanya’daki 2. Zırhlı Birlikler Alayındaki 1. Havan Bölüğüne atanır. Kurmay Okulunu tamamladıktan sonra 1976 yılında Pentagon’da ordu müfettişi olarak görev yapar. 1977 yılında Genelkurmay Başkanlığı bünyesinde çalışır. 1981 yılında yeniden döndüğü Batı Almanya’da 3 yıl görev yaptıktan sonra 1984 yılında ABD’ye döner. Bu dönemde yüksek lisans eğitimini tamamlar ve 1987 yılına kadar görev yapacağı Teksas’daki Fort Hood’a atanır. 
+General olarak ilk cephe görevi Körfez Savaşı sırasındadır. Harekâtın sonrasında Fort Sill Topçu Okulu komutan yardımcılığına atanır. 1994 yılında Güney Kore’ye atanır. 1995-97 yılları arasında bu ülkedeki 2. Piyade Tümen komutanlığı görevindedir. 2000 yılında orgeneralliğe terfi ederek Komuta Merkezi komutanlığına getirilir.
+Irak Savaşı.
+Franks Irak'ın işgalini tamamlayarak askeri açıdan başarılı olmuş olsa da askeri tercihleri ve stratejik planlaması yoğun olarak eleştirilecektir. Eleştirilerden ilki savaştan sonra Irak Direnişinin oluşmasına engel olamamasına yöneliktir. Bu eleştiriye göre Franks sadece başkent Bağdat’ın ele geçirilerek Saddam Hüseyin rejiminin devrilmesine yoğunlaşmış, savaş sonrası direnişin engellenmesi için milis kuvvetlerine dair bir önlem almamıştır. Ayrıca Franks’in ABD Savunma Bakanı Donald Rumsfeld kaynaklı baskılara maruz kaldığı iddia edilecektir. Franks’in 4. Mekanize Piyade Tümeninin ekipmanını taşıyan gemileri denizde bekletmesi ve Kuveyt’e göndermemesi yüzünden zaman kaybedildiği iddia edilir. Franks bunu Irak yönetimini şaşırtmak ve Türkiye üzerinden açılması muhtemel kuzey cephesi tehditini sürdürmek için yaptığını açıklayacaktır. Bu iddia tarihçiler tarafından sorgulanacaktır.
+İşgal sonrasında yoğunlaşanan Irak direnişi ile ilgili olarak sorumlu tutulan Franks’in 11 Eylül Saldırılarından sonra hem Afganistan'ın işgali hem de Irak'ın işgalinde komutanlık yapmış olmasının ona verdiği yıpranma ve yorgunluk yüzünden emekli olmaya karar verdiği ve muharebelerin bitimindne sonraki durumla ilgilenmediği iddia edilir. Irak'taki muharebelerin sona ermesinden sonra komuta kademesinde onun hemen altında olan iki yardımcısı olan Generaller Michael Delong ve John Abizaid arasında rekabet yaşanacak, komutayı Abizaid’in almasının ardından Delong emekliye ayrılarak tasfiye edilecektir. Ayrıca Irak'taki boşalan 5. Kolordu komutanlığına getirilen General Ricardo Sanchez’in yeterli deneyime sahip olmadığı öne sürülecektir.
+Kitle imha silahları.
+Irak’ın işgalinden önce kitle imha silahlarının ABD'ye karşı kullanılması durumunda felaket senaryolarını dillendirerek uygarlığın kurtarılması için demokrasinin askıya alınabileceğini söyleyen Franks, Irak'ta işgale gerekçe olarak dile getirilen kitle imha silahlarının bulunamamasını hayretle karşılayacak, Bush yönetiminin aldığı işgal kararını savunacaktır.
+Ödülleri.
+Franks askerlik hayatı boyunca çok sayıda ödül almıştır:
+Askerlik sonrası hayatı.
+22 Mayıs 2003 tarihinde emekliye ayrılan Franks, Franks & Associates LLC adlı bir danışmanlık firmasında çalışmaya başlar. 2006 yılı Haziran ayında firma Innovative Decon Solutions ile birleşir.Emeklilikten sonra anılarını yazmıştır. 31 Ağustos 2004 tarihinde Cumhuriyetçi Parti toplantısında konuşarak Bush’un yeniden seçilmesine destek vermiştir. 2005 yılı Aralık ayında Bank of America yönetim kuruluna seçilmiş ve 11 Haziran 2009 tarihinde gerekçe bildirilmeden görevden ayrılmıştır. Franks ayrıca OSI Restaurant Partners, National Park Foundation ve Chuck E. Cheese yönetim kurullarında görev yapmaktadır. Franks adına Hobart Oklahoma’da bir müze inşa edilmiştir. Kendisi halen Roosevelt Oklahoma’da yaşamaktadır.
+Yaralı askerlere yardım skandalı.
+2008 yılında ABD ve Army Times gazete haberlerinde Frank’in savaşta yaralanmış ABD askerleri için bağış toplanması için başlatılan "Coalition to Salute America's Heroes" adlı kampanyayı düzenleyenlerden adının kullanılması için 100 bin dolar aldığı yolunda haberler çıkar. Kampanyayı düzenleyenlerin yaşam standarlarındaki gözle görülür artış ve Franks’in yaralı askerler üzerinden para kazanması ABD basınında yoğun olarak eleştirilecektir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Geronimo</DOCTITLE>
+<TEXT>
+
+Geronimo (Meskalero-Çirikavaca Goyaałé «esneyen», d. 16 Haziran 1829 – ö. 17 Şubat 1909). Kızılderili lideri. Beyazlara karşı mücadele veren kahraman ve son kızılderili olarak tanınmıştır. Kendi adı öz dilinde Gokhlayeh (Esneyen adam)) olarak biliniyor.
+Geronimo veya diğer adıyla Goyathlay, günümüzde Yeni Meksika olarak adlandırılan bölgede doğmuştu. Şef Mahko’nun torunu olan Geronimo, bir Bedonkohe Apache yerlisiydi. Meksikalı askerler ona Geronimo, İspanyollar ise Jerome derlerdi. İsmi bu nedenle, sonradan Geronimo olarak bilinecekti. 
+Sonora-Arispe’deki Apache yerlileri için, aslında o bir lider olarak görülüyordu. Geronimo’nun savaş kariyeri bir Chiricahua (Apacheler arasında en çok saygı duyulan apacheler) ve aynı zamanda şefi olan kayınbiraderiyle de bağlantılıydı. Juh adındaki bu şefin, sözcüsü olarak beyazlarla ilişki kurmuştu. Geronimo Amerikan hükümetine karşı savaşan son liderlerden biriydi. Apacheler arasında ise son savaşçıydı. O sıralar Amerikalı yerleşimcilerin yanı sıra İspanyollarda bu bölgeye akın etmeye başlamıştı. Geronimo’nun hayatındaki en kötü anı da bu dönemde gerçekleşti. 1858 yılında bir gün eve döndüğünde, eşi, annesi ve 3 çocuğunu İspanyollar tarafından öldürülmüş olarak buldu. 
+Anlatılanlara göre Geronimo, beyaz olan herkese karşı nefret duymuş ve elinden geldiği kadar beyaz öldürmeye çalışmıştı. Onun bu intikam ateşi Apacheler arasında bir üne sahip olmasını sağlamıştı. Arizona ve New Mexico’da yaşayan beyaz yerleşimcilere suratındaki agresif ifadesi ve vücudundaki Apache kanından dolayı hep korku saçacaktı. Geronimo, aslında bir şef değildi; ama bir şamandı (şaman: tıp adamı – şifacı – büyücü) ve bu yönü diğer özellikleri ile de birleşmiş, sonuçta ruhsal ve entelektüel bir lider olmasını sağlamıştı. 
+Apache şeflerinin hepsi, onun görüşlerine ve gücüne saygı duydu. 1870’de rezervasyon bölgesine (San Carlos) yerleştirilen Geronimo, buradan kaçmaya çalışacak; fakat tutuklanıp bölgeye geri gönderilecekti. Üç kez daha kaçmayı deneyen Geronimo, dördüncü kaçışında başarılı oldu ve yakalanamayınca, 500 izci ve 3000 Meksikalı asker onun peşine düştü. İzciler sonunda onu buldu ve rezervasyon bölgesine geri götürüldü. Ancak özgür ruhlu Geronimo bir yıl sonra 35 savaşçı, 109 kadın, cocuk ve gençle bu bölgeden de kaçmayı başardı. 1885’teki bu kaçışından 1894’ yılına kadar Geronimo bulunamadı.
+Bir keresinde 24 adamı ile 5000 süvariden kaçan Geronimo Dumanlı Dağlar’a sığınmış ve dağları didik, didik arayan süvariler ilginçtir ki Geronimo’nun izine bile rastlayamamıştı. Geronimo’yu yakalayamayan süvariler köylere saldırıp kadın ve çocukları öldürmeye başlamışlardı. Bunu duyan Geronimo sonunda dayanamadı ve halkına zarar gelmemesi için teslim oldu ve Oklahoma’daki Fort Sill’e yerleştirildi. Geronimo teslim olduğunda yanında en son 16 savaşçı 12 kadın ve 6 çocuk kalmıştı. Lawton’daki okul müdürü S.M. Barrett’a yerli bir çevirmen aracılığı ile hayatını kaydettirdi. 
+Geronimo bir savaş suçlusu olduğundan müdür Barrett, dönemin başkanı Theodore Roosevelt’e varıncaya dek, her makama yazarak “Sürgündeki Kızılderili’nin sözlerini kaydetmek için izin istemişti. Geronimo anılarını anlatmaya Apache’lerin yer yüzüne geliş hikâyesinden başlamıştı. İlk söyleşinin sonuna gelip, Barrett bir soru sorduğunda alacağı cevap şu oluyordu, “Ne söylüyorsam onu yaz.” Ölümünden önce son günlerini geçirmek için Arizona’daki evine dönmek istemiş ancak izin verilmemişti. Ve 1909 yılında bir savaş mahkumu olarak Oklahoma’da öldü. Kimilerine göre Geronimo işkence yapılarak öldürülmüştü. Öldükten sonra Geronimo rezervasyon bölgesinin arka tarafına gömülmüştü. Fakat -ilginçtir ki- ertesi gün Geronimo gömüldüğü yerde değildi.
+Geronimo'nun sembolik mezarı Fort Sill – Oklahoma bölgesindedir. Apaçilere göre Geronimo kutsal topraklar olan dumanlı dağlardadır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Northumberland</DOCTITLE>
+<TEXT>
+
+Northumberland kontluğu Kuzey Doğu İngiltere bölgesinde İngiltere-İskoçya sınırlarında bulunan bir törensel kontluk ve 2009 itibaren bir tek-seviyeli yerel idare olarak idare edilen bir yerel idare birimidir. 1981'den itibaren Kontluk merkezi idare binalarının çoğu Kontluğun doğusunda Morpeth'de bulunmaktadır. 
+Avrupa Birliği Eurostat standartlarına göre Northumberland bir NUTS 3 (kod UK21) bölgesi ve NUTS 2 bölgesinde bulunan "Northumberland ve Tyne ve Wear" bölgesini oluşturan 3 ikinci-seviyeli borough veya tek-seviyeli bölge olark tanımlanmıştır.
+Northumberland Ingıltere'deki en az yoğun nüfuslu (2008de 62 kişi/km2) kontluktur. Kontluk arazisinin büyük bir kısmı günümüzde "Milli Park" olarak tanımlanıp belirlenmiş yüksek rakımlı tepelik ağaçsız boş kırlardır. Bu sanayi ve şehirsel gelişmeden men edilmiş doğa arazileri günümüzde çok sayıda turist çekmektedir. Kontluğunun diğer bir turist çekme nedeni de ortaçağlardan beri İngiltere-İskoçya sınırında olması dolayısıyla çok sayıda kaleler bulunmasıdır. Bunlar içinde Alnwick, Bamburgh, Dünstanburgh, Warkworth en önemlileridir.
+Coğrafya.
+Törensel Kent Kontluğu Ingiltere'de Cumbria, Durham Kontlugu ve Tyne ve Wear kontluklari, Iskocya'da Borders yerel idaresi ile komsudur. Uzun (103 km) Kuzey Denizi sahilleri bulunur.
+Northumberland'in fiziksel cografyasi Kontlukda cok degisik araziler bulundugunu gosterir. Dogu'da Kuey Denizi kiyilari alcak rakimli ve duzluk olmakla beraber kuzey batiya gittikce arazi tepelik ve Ingiltere'ye nisbeten daglik olmaktadir. Kontlugun kuzeybatisinda bulunan Cheviot Tepeleri Devon-tipi granit ve andasit-lav olarak magmatik kayaçlar seklindedir. Kontlukta bulanan diger magmatik kayaçlar Hadrian'in duvarinin uzerinde bulundugu "Whin Sill" tepeleridir. Bu tepelik araziler bos ve agacsiz kirlik arazilerdir. "Whin Sill" tepelereinin iki tarafindan kirectasli yarli arazi bulunup bir "karstik arazi sekli gostermektedir. Bu bos araziler birer dogal parak olarak korunmakta ve turist cekmektedir.
+Northumberland'in dogusunda Kuzey Denizi uzerinde yine "dolorit" yapimli "Farne Adalari" bulunmaktadir ve bu adalarin yarlari cok sayida deniz kusunun yerlesip yuvalanmalari ile unludur. 
+Northhumberland'un kuzeydogu sahillerinde itibaren sahillerde guneydoguya Tyne Nehri kuzeyine dogru uzunan komur madenleri bulunmaktadir. Tarihsel olarak bu madenlerlen denizin kopartif sahile yigdigi "deniz komuru" yillardir Ingiltere'nin enerji kaynagi olmustur ve sonradan bu yorelerde bircok ocagi acilmistir. Ama Margaretr Thatcher'in komur madencilerine karsi politikasi yuzunden bu madenler 20.yy'in son ceyreginde kapanmistir. 
+Northumberland 55° enlem ve daha kuzeyinde oldugu icin ve nisbeten cok tepelik arazisi oldugu icin Ingiltere icinde en soguk kontluk olarak bilinir. Kontlugun yillik ortalama isisi 7,1-9,3 °C civarlarinda olup bu Ingiltere'de en soguk ortalama isidir. 1971-2000 kontlukta yillik gunesli hava yill icinde ortalam olarak 1321-1390 saat olarak gozumlenmistir. Kontluk doguda deniz kiyisinda olup batiaya dogru rakimi yukseldigi icin yuksek arazi uzerine ve onlerine yuksek yagis bulunmakta ve yillik ortalama yagis 466-1060 mm civarinda olmaktadir.
+Northumberland'in yuzolcumunun yaklasik bir ceyregi ozellikle 240m rakimdan yuksek arazilerin hemen hepsi "Northumberland Milli Parki" icinde olup sehirsel ve sanayi gelismeye izin verilmemekte ve ya tarim ya da bos kir arazisi olarak korunmaktadir. Bu park Hadrian Duvari'ni icine almakta ve Iskocya sinirlarina kadar erismektedir. Northumberland sahilleri de "Goze Carpar Dogal Guzellik Bolgesi" olarak tanimlanarak diger bir sekil koruma altina alinmistir. Bu sahilde deniz kiyisinda 103km uzunlugunda bir ozel "yaya yuruyus yolu" bulunmaktadir.
+Ekonomi.
+Northumberland'in iktisadi gelismesi diger Ingiltere kontluklari ve tek-seviyeli yerel idarelerine kiyasla zayiftir ve Ingiltere ulkesinde bulunan 63 yerel idarenin ekonomik siralanmasinda alttan 6. sirayi alir. 
+Sanayi Devrimi doneminde onemli bir sanayi bolgesi olan bu kontluk 20. yy.da bu sektorlerini kaybetmistir ve gunumuzde kontlukta en onemli istihdanm alani turizm hizmetleridir. Gunumuzde kontluk yaklasik olarak 1.1 milyon Britanyali ve 50 bin yabanci ulkeli turist cekmektedir ve (2004 itibariyle) turizmin kontluga gettirdigi yillik harcama £162 milyonu gecmektedir. 
+Tek-seviyeli Northumberland Kontluğu'nda cari fiyatlarla gayrisafi toplam katma değer ve önemli sektörlerin gayrisafi katma değerleri şu tabloda gösterilir.
+Resimler.
+Northumberland
+
+</TEXT>
+</DOC>
+

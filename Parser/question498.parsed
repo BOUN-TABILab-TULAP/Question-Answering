@@ -1,0 +1,10 @@
+1	Carolus	Carolus	Noun	Prop	A3sg|Pnon|Nom	8	SUBJECT	_	_
+2	Linneaus	Linneaus	Noun	Prop	A3sg|Pnon|Nom	8	SUBJECT	_	_
+3	_	sistematik	Adj	Adj	_	4	DERIV	_	_
+4	sistematiğin	_	Noun	Zero	A3sg|Pnon|Gen	5	POSSESSOR	_	_
+5	temelini	temel	Noun	Noun	A3sg|P3sg|Acc	8	OBJECT	_	_
+6	hangi	hangi	Adj	Adj	_	7	MODIFIER	_	_
+7	yılda	yıl	Noun	Noun	A3sg|Pnon|Loc	8	MODIFIER	_	_
+8	atmıştır	at	Verb	Verb	Pos|Narr|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

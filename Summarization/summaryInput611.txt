@@ -1,0 +1,350 @@
+Question: Çift çenekli bitkilerin damar yapısı nasıldır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anevrizma</DOCTITLE>
+<TEXT>
+
+Anevrizma, atardamarların duvarında oluşan baloncuk şeklindeki patolojik genişlemeleri tarif eden genel tıbbi tanımlamadır. Beyin atardamarları ve aort damarı, anevrizmaların en sık yerleştiği bölgelerdir. Anevrizmalar, morfolojilerine göre saküler ve fusiform olarak sınıflandırılırlar. Damar duvarının belirli bir noktasından çıkıp, nispeten yuvarlak bir şekle sahip anevrizmalara, saküler anevrizma adı verilir. Damar duvarında “iğ” şeklinde bir genişleme şeklinde olan anevrizmalar, fusiform anevrizmalar olarak tanımlanır. Ayrıca, anevrizmalar, duvar yapılarına göre “gerçek anevrizmalar” ve “yalancı (psödo) anevrizmalar” olarak sınıflandırılırlar. Bir gerçek anevrizmanın duvar yapısı, normal atardamar duvarını oluşturan tüm tabakaları (intima, media ve adventisya) içerir. Yalancı veya psödo anevrizmalar, damar duvarında oluşan yırtılma sonucu oluşur ve yalancı anevrizma duvarında damarsal tabakaların tümü bulunmaz. 
+Beyin atardamarları ve aort damarı, anevrizmaların en sık yerleştiği bölgelerdir. Beyin anevrizmalarının toplumda görülme sıklığı, %2-3’dür . Polikistik böbrek hastalığı tanısı almış hastalarda ve yakınlarında anevrizmaya bağlı subaraknoid kanama hikayesi olanlar kişilerde beyin anevrizma gelişme riski daha yüksektir. 
+Anevrizmalar, normal bir atardamar göre çok daha zayıf duvar yapısına sahip oldukları için, patlayarak hayatı tehdit eden ciddi kanamalara neden olabilirler. Beyin anevrizmalarının patlaması, beyin ile beyin zarı arasındaki boşluk (subaraknoid boşluk) içinde kanamaya neden olur . Bu tip beyin kanamaları ‘’subaraknoid kanama’’ olarak adlandırılır. Ne yazık ki beyin anevrizmaların büyük kısmı patlamadan önce belirti vermezler. Beyin atardamarında anevrizma gelişmiş olan hastaların önemli bir kısmında anevrizma teşhisi, anevrizmaya bağlı olmayan şikayetlerin araştırılması amacıyla yapılan manyetik rezonans görüntüleme (MRG), Bilgisayaralı tomografi (BT) gibi tetkiklerin sonucunda tesadüfü olarak konulur. Bununla birlikte, özellikle büyük boyutlu anevrizmalar, baş ağrısı, göz arkasında ağrı hissi, bulantı-kusma, göz kapağında düşüklük, çift veya bulanık görme gibi şikayet ve bulgular oluşturabilir. Genel olarak daha önce kanamamış bir beyin anevrizmasının yıllık kanama riski % 1-2’ dir. Anevrizmaya bağlı subaraknoid kanama geçiren hastalarda en sık görülen şikayet, ani başlayan şiddetli başağrısıdır. Suabaraknoid kanama geçirmiş olan hastaların büyük kısmı bu ağrıyı "O ana kadar yaşadıkları en şiddetli başağrısı" olarak tarif ederler. Subaraknoid kanama geçiren hastalarda, başağrısının yanında, bulantı-kusma, bilinç bulanıklğı veya bilinç kaybı, diğer sık görülen şikayet ve bulgulardır. 
+Beyin Anevrizmalarının Tedavisi.
+Anevrizma patlaması sonucu beyin kanaması gelişmiş hastalarda, eğer anevrizma tedavi edilmezse (kapatılmazsa), hastaların yaklaşık %35’inde ilk kanamadan sonra, 30 gün içinde anevrizma tekrar patlayarak ikinci bir beyin kanamasına neden olur. Bu nedenle anevrizmaya bağlı beyin kanaması geçiren hastalar, en kısa süre içinde tedavi edilmelidir. Henüz kanamamış bir anevrizma teşhis edilen hastalarda ise tedavi kararı, hastanın yaşı, anevrizmanın oluşturduğu şikayetler, anevrizmanın morfolojisi (yapısı/görünümü), anevrizmanın yerleşim yeri, anevrizmanın boyutları ve hastaya özel diğer tıbbı şartlar göz önüne alınarak verilir. 
+Anevrizma tedavisinin temel prensibi, anevrizma içine kan girişini engelleyerek (tekrar) patlama riskini ortadan kaldırmaktır. Beyin anevrizmalarının tedavisi iki farklı metodla yapılabilir:
+1) Açık cerrahi 
+2) Endovasküler tedavi (kapalı cerrahi)
+Açık cerrahi tedavi, beyin cerrahi uzmanları tarafından gerçekleştirilir . Açık cerrahi yöntemde kafatası açılarak anevrizmanın yerleştiği damar bulunup, damar ile anevrizma boynu arasına metal bir klip konularak anevrizma içine kan girişi engellenir. Endovasküler tedaviler, Nöroradyoloji uzmanları tarafından kafatası açılmadan, damar içinden uygulanan yöntemlerle gerçekleştirilir . Endovasküler anevrizma tedavisi, anjiografi cihazı kullanılarak, işlemin tüm aşamaları X-ışını altında izlenip, yönlendirilirek gerçekleştirilir. Günümüzde, endovasküler yöntemler, anevrizma tedavisinde ilk seçenek haline gelmiştir. Endovasküler anevrizma tedavisinde, anevrizma içine çok ince çaplı kateterlerle ulaşılıp, anevrizma kesesi "Koil" adı verilen platinden yapılmış, çok yumuşak yapıda metal tellerle doldurulur. Bu işleme anevrizmanın ‘’koillenmesi’’ adı verilir . Anevrizma kesesi, koillerle tamamen doldurulup, anevrizma içine kan girişi engellenerek tedavi gerçekleştirilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkiler  (EBA)</DOCTITLE>
+<TEXT>
+
+Bitkiler de tıpkı diğer canlılar gibi oldukça geniş bir çeşitliliğe sahiptir. Etrafınızda gördüğünüz bitkileri düşünün. Metrelerce uzanan ağaçlar, yüzyıllık dev çınarlar, suda yaşayanlar ya da su mercimeği gibi boncuk kadar olanları vardır (Resim 152). 
+Bitkiler gerçek hücre çekirdekleri bulunan (ökaryot) hücre yapısına sahip çok hücreli canlılardır. Bitkiler, fotosentez yoluyla ışık enerjisi, karbondioksit (CO2) ve su kullanarak organik bileşikler (glikoz) üretebilme özellikleri ile hayvanlar ve mantarlar gibi diğer çok hücreli canlılardan ayrılır. Ayrıca bitki hücreleri selüloz içeren hücre duvarına sahiptir. 
+Bugün dünyada 280.000’den fazla bitki türü yaşamaktadır. Farklı bitki türleri de birbirinden farklı yapı ve organizasyona sahiptir. Bununla birlikte bitkilerin birçok benzer özellikleri de mevcuttur. Bitkiler de tıpkı diğer âlemler gibi bu benzer özelliklerine göre sınıflandırılır. Aristo zamanında otlar, çalılar ve ağaçlar olarak sadece dış görünüşlerine bakılarak sınıflandırılan bitkiler günümüzde anatomik ve fizyolojik özelliklerine göre sınıflandırılır. Bu bölümde bitkilerin sınıflandırılmasında kullanılan bu özelliklerden tohum bulundurup bulundurmaması; kök, gövde ve yaprak tip ve dizilimleri, damar bulundurup bulundurmaması gibi bitkilerin sadece birkaç özelliği tanıtılacaktır. 
+Damar yapısı 
+Bitkileri sınıflandırırken kullanılan kriterlerden birisi damar yapısıdır. Damar elbette ki hepimiz için oldukça tanıdık bir kavramdır. Bitkilerde bulunan damarlar bizim damarlarımızla aynı yapıda değildir. Ancak, benzer görevleri vardır. Bitkilerin, sentezledikleri organik besinleri, kökleriyle aldıkları su ve mineralleri hücrelerine taşıması gerekir. Eğrelti otu gibi bazı bitkiler bu görevi yapan damar sistemine sahiptir. Ancak tüm bitkilerde damar bulunmaz. Karayosunu (Bryophyta-Briyofta) gibi damarsız bitkilerde kök, gövde ve yaprak gibi yapılar bulunmaz. Genellikle nemli bölgelerde yaşayan karayosunları sahip oldukları ipliksi yapılar sayesinde su ve mineralleri difüzyon ile alırlar (Resim 153). 
+Bir bitkinin yapısını temel olarak iki kısımda inceleyebiliriz: toprak üstü yapılar ve toprak altı yapılar. Bitkinin toprağın üstünde kalan kısmında yer alan yapılar: yapraklar, gövde ve dallar ve üreme döneminde gözlenen çiçek ve meyvedir. Toprağın altında kalan kısım ise köktür (Resim 154). 
+Gövde ve dallar 
+Bitkileri sınıflandırmada kullanılan bir diğer kriter ise gövde ve dalların yapı ve özellikleridir. Gövde ve dalların temel işlevi yaprakları güneş ışınlarını alabilecek, çiçek ve tohumlarını da üreme ve yayılma için en uygun pozisyonda tutmaktır. Gövde ve dalların diğer önemli bir görevi, maddelerin bitkinin değişik organları arasındaki iletimini sağlamaktır. Bitkilerin çoğunda gövde ve dallar içinde madde aktarımını sağlayan bir taşıma sistemi (iletim demetleri) bulunmaktadır. Köklerden alınan su ve mineralleri yapraklara ve bitkinin diğer dokularına taşıyan iletim borularına ksilem (odun borusu) denir. Ksilem dışında başka bir boru sistemi de üretilen organik maddeleri bitkinin her yanına dağıtır. Bu iletim borularına floem (soymuk borusu) denir. 
+Bu iki iletim sistemi aynı zamanda bitkinin dik durmasına destek sağlar (Resim 155). Yapılarında bu tür iletim boruları bulunduran bitkilere damarlı bitkiler denir. Bazı bitkiler ise bu tür iletim ağına sahip değildir. Böyle bitkilerin birkaç tabaka hücreden oluşan bir yapıları vardır. Su ve diğer maddeler bir hücreden diğerine difüzyon ve osmoz ile geçer. Böyle bitkiler damarsız bitkiler olarak adlandırılır. 
+Yapraklar 
+Bitkiler yaprak ya da yaprak benzeri yapılara sahiptir. Yaprak, bitkilerde gövdeden ya da dallardan çıkan ve çoğu bitkide fotosentezin yapıldığı organdır. Yapraklar şekil ve büyüklük olarak farklılık gösterir (Resim 156). Bu farklılık bitkilerin sınıflandırılmasında kullanılan önemli bir özelliktir. 
+Çoğu kara bitkisinin yaprak ve diğer toprak üstü organlarının yüzeyleri saydam, pürüzsüz ve kaygan bir tabaka ile kaplıdır. Bu tabakayı bir yaprağın veya elmanın yüzeyine dikkatle bakarak ve yüzeyde parmaklarınızı gezdirerek fark edebilirsiniz. Bu tabaka mumsu bir yapıdadır ve suda çözünmez. Çoğu kara bitkisinde rastlanılan bu yapının en önemli işlevi su kaybının önlenmesidir. Bu tabaka aynı zamanda bitkinin zararlı mikroorganizmalardan korunmasında bir bariyer görevi görür. 
+Karada yaşayan bitki yapraklarında görülen bir diğer önemli yapı da stomalardır (Resim 157). Bu yapılar hava ile yaprağın iç kısımları arasında karbondioksit ve oksijen alışverişine izin vererek fotosenteze destek olur. Stomalar aynı zamanda buharlaşma ile suyun yapraklardan çıktığı yerdir. 
+Kökler 
+Bitkilerin sahip olduğu kök yapısı da sınıflandırmada kullanılan diğer önemli bir özelliktir. Çoğu bitki yaşamın devamı için gerekli su ve mineralleri topraktan kökler aracılığı ile alır (Resim 158). Kökler, gerekli su ve su içinde çözünmüş mineralleri topraktan almanın yanında bitkiyi toprağa bağlar. Bazı bitkilerin kökleri bir depolama organı olarak da iş görür. Havuçta olduğu gibi bu tür kökler çeşitli hayvanlar ve insanlar için bir besin kaynağı oluşturur. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Göz</DOCTITLE>
+<TEXT>
+
+Göz, göz çukurunda bulunan, iri bir bilye büyüklüğünde, görmeyi sağlayan küremsi bir organdır.
+Göz, ışığı geçirmeye ve kırmaya elverişli üç tabakanın birleşmesinden oluşmuştur. En dıştaki birinci tabakaya, "sert tabaka" ya da "gözakı" denir; bu tabaka önde tümsekleşerek, saydam tabakayı oluşturur. Beyaz ve telsel yapıda olan sert tabaka, gözü koruyan gerçek bir zardır. Çok damarlı bir bağ dokusu olan damar tabaka, iki yüzündeki boyalı hücre örtüsüyle, gözyuvarını tam bir karanlık oda haline getirir. Bunun ön bölümünde, kirpiksi cisim kasları ile kirpiksi bölge yeralır; kirpiksi bölgenin çok damarlı olan asıcı bağı gergin tutmak için kanla dolan küçük piramitler halindeki çıkıntılara, "kirpiksi uzantı" denir.
+Kirpiksi bölgenin uzantısı olarak, ön bölümde damar tabaka renk değiştirerek ortası delik (gözbebeği) bir diyafram oluşturur (iris). Rengi insandan insana değişen iris, gözbebeğini büyültüp küçültmeye yarayan kas telleri kapsar: Işınsal kas telleri gözbebeğinin genişlemesini, iris büzücü kasının çember telleriyse, gözbebeğinin büzülmesini sağlar.
+Gözün üçüncü ve çok ince tabakası olan ağ tabaka, duyarlı bir tabakadır. Bunun arka bölümünde bulunan ortası çukur, beyazımsı küçük kabarcık (görme sinir diski), görme sinirinin girdiği yerdir ve "kör nokta" diye adlandırılır. Kör noktanın biraz ötesinde, sarı nokta yeralır; burası da dıştan gelen görüntülerin en iyi biçimlendiği görme bölgesidir.
+Gözün arka kutbuna giren görme siniri, damartabakaya doğru birçok sinir teli halinde yayılır ve üç tabaka halinde dizili nöronlarla sona erer. Birinci tabakadaki nöronların (çok kutuplu nöronlar) silindir ekseni, görme sinirinde sürer; ön uzantılarıysa, ikinci tabakanın iki kutuplu nöronlarıyla bağlantı kurar; ikinci tabakanın nöronları da, üçüncü tabakanın görme nöronlarının silindir eksenlerine bitişir. Bu tabakada, bir ucu ağ tabakanın kırmızı bölümüne giren, koni ve çubuk biçimindeki nöronlar yeralır. 
+Koni ve çubukların serbest uçları, damar tabakadan yana yöneliktir: Damar tabakaya gelen ışık ışınları kırılır ve ağtabaka hücrelerinin sinir uçlarını etkiler. 
+Canlılarda göz ve görme.
+Hayvanlarda çok çeşitli göz biçimlerine rastlanır. Yalın canlılarda gözler bedenin önünde, deride yeralan ışığa duyarlı hücrelerden oluşur. Söz konusu organların yapısı yalın ya da böceklerin bileşik gözleri, omurgalıların gözleri gibi daha gelişmiş olabilir. Sineklerin gözleri özellikle hareket ve renk ayırt edecek bir yapıdadır. 
+Avcı kuşlarınkiler, insanda olduğu gibi başın önünde buna karşılık başka kuşlar tarafından avlanan kuşların gözleriyse daha geniş bir görme alanını kaplayacak biçimde başın iki yanında yeralır. 
+İnsan, maymun ve bazı başka gelişmiş canlıların gözleri, özel biçimleri seçip tanıyabilirler. Buna karşılık hayvanların çoğu, renkleri ancak bir ölçüde algılarlar. Bazı hayvanlarsa renk körüdür. 
+Toprak altında ya da denizin derinliklerinde yaşayan bazı canlılarda, gözler işlevlerini bütünüyle yitirmiştir. Memelilerin gözleri kafatasının içindeki boşluklarda (göz çukurları) yerleşmiştir ve kaslar sayesinde her yönde hareket edebilir. 
+Salyangozlar ve solucanlar ancak karanlık ile aydınlığı ayırt edebilirler; yalın gözlü eklembacaklılarsa ışığın yanı sıra, hareketi de belirleyebilirler. 
+Sinekler ve arılar küçük hareketleri, genel biçimi ve rengi algılayabilirler; ayrıca böceklerin bir çoğu, insanların göremedikleri morötesi ışığı da görebilirler. Gözlerinin yapısı omurgalılara benzeyen ahtapot ve mürekkepbalığı, cisimleri net görebildikleri halde, üç boyutlu göremezler.
+Omurgalılardaysa, gelişmiş gözler çok farklı koşullarda ayrıntılı biçimde görmelerine olanak sağlar. Gece dolaşan canlılar, az ışıkta iyi görememekarşılık, gündüz, ışığın şiddeti karşısında körleşirler.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kan</DOCTITLE>
+<TEXT>
+
+Kan, atardamar, toplardamar ve kılcal damarlardan oluşan damar ağının içinde dolaşan; akıcı plazma ve hücrelerden (alyuvar, akyuvar ve kan pulcukları) meydana gelmiş kırmızı renkli hayati bir sıvıdır. Kana latincede hema, kanı inceleyen bilim dalına ise hematoloji denir. Bu sözcükler eski Yunanca'da kan sözcüğünü karşılayan "haima"dan türetilmiştir. Kolloit bir madde olup homojen görünse bile, heterojen bir karışımdır. Normal bir erişkinin vücut ağırlığının ortalama 1/13'ünü oluşturmaktadır. 
+Kanın yapısı.
+Damarlar içinde sürekli hareket hâlinde canlı bir sıvı olan kan, plazma ve şekilli elementlerden (kan hücreleri) oluşur.
+Plazma.
+Toplam kan hacminin %55'ini plazma oluşturur. Kanın, kan hücreleri dışında kalan sıvı kısmına plazma denir. Plazmanın %90- 92'si su, geri kalan bölümü ise organik ve inorganik maddeler olan plazma proteinleri, aminoasitler, karbonhidratlar, yağlar, hormonlar, üre, ürik asit, laktik asit, enzimler, antikorlar, sodyum, potasyum, iyot, demir, bikarbonat vb. elementlerden oluşur. Bu maddeler plazma ile dokuların ilgili yerlerine taşınmaktadır. 
+İçine antikoagülan (kanın pıhtılaşmasını önleyen madde) ilave edilmiş bir tüpe kan alınıp tüp alt üst edilirse, antikoagülan madde kandaki kalsiyumu bağlayarak pıhtılaşmayı önler. Antikoagülanlı kan bir süre bekletilirse kan hücreleri tüpün tabanına çöker, üste sarı renkli bir sıvı ayrılır. Bu sıvıya plazma adı verilir. Sadece kan tüpe alınıp bir süre bekletilirse kan hücreleri tüpün tabanına çöker, üstteki sarı renkli sıvı ise serumdur. Plazma ile serum arasındaki en büyük fark; serumda fibrinojenin bulunmamasıdır. Bu nedenle seruma fibrinojensiz plazma da denir.
+Plazma proteinleri.
+Plazmanın, organik maddelerinin büyük bir bölümünü plazma proteinleri oluşturur. Bu proteinler; albumin, globulin ve fibrinojen'dir. Plazma proteinleri 100 gr.kanda 7- 8 gr. kadardır ve çoğu albumindir. Plazma proteinleri karaciğer tarafından sentezlenir.
+Kan hücreleri (Şekilli elementler).
+Kan hücreleri, kanın plazma dışında kalan kısmıdır. Kan hacminin yaklaşık %45'ini oluşturur. Kan hücrelerinin, sıvı kısım olan plazmaya oranına hematokrit denir. Kan hücreleri eritrosit, lökosit ve trombosit olarak adlandırılır.
+Eritrositler (Alyuvarlar).
+Eritrositler nükleus (çekirdek) içermeyen, oksijen taşıyıcı protein olan hemoglobin ile dolu kan hücreleridir. Normal şartlarda kesinlikle dolaşım sistemi dışına çıkmazlar. Normal bir eritrosit hücresi bikonkav (her iki tarafından basık) disk şeklindedir. Bu şekilde olması eritrositlerin yüzey hacim oranının fazla olmasını sağlayarak gaz alışverişini kolaylaştırır. Eritrositler oldukça esnektir. Bu özelliklerinden dolayı düzensiz şekillere uyum sağlayarak çok küçük çaplı kılcal damarlardan geçebilirler.
+Eritrositlere kırmızı rengini veren taşıdıkları hemoglobindir ve hücre ağırlığının 1/3'ünü oluştururlar. Hemoglobin 4 demir ve bir globin molekülünden oluşur. Normal değeri 100 ml kanda 12- 13 gramdır. Oksijen, hemoglobindeki demire bağlanarak taşınır. Karbondioksit ise hemoglobinin amino grubuna bağlanarak taşınır.
+Eritrositlerin 1mm3 kandaki sayısı erişkin bir erkekte 4,5- 6 milyon, erişkin bir kadında ise 4- 5 milyon arasındadır. Eritrosit sayısının normalden fazla olması durumuna polisitemi (poliglobuli) adı verilir. Eritrosit sayısının veya hemoglobin miktarının normalden düşük olması durumu ise anemi olarak adlandırılır.
+Eritrositlerin yapımı (eritropoezis) ve yıkımı.
+Eritrositler fetal hayatın 3. ayından 5. ayına kadar dalak ve karaciğerde yapılır. Fetal hayatın yarısından sonra alyuvarlar esas kan yapıcı organ olan kemik iliği tarafından yapılmaya başlanır ve hayat boyunca kemik iliği alyuvar yapımına devam eder. Eritrositler en çok sternum, kostalar, pelvis, ekstremite kemiklerinde bulunan kırmızı kemik iliklerinde yapılır. Organizmada eritrosit yapımı böbrekler tarafından sentezlenen eritropoetin denen madde tarafından düzenlenir. Hipoksi (dokularda oksijen yetmezliği) eritropoetin maddesinin yapımını artırır. Bu madde de kemik iliğine daha fazla eritrosit üretilmesi için uyarı gönderir.
+Eritrositlerin yaşam süreleri 120 gündür. Bu süreyi dolduran eritrositler dolaşımdan uzaklaştırılır. Her gün eritrositlerin %1 kadarı yenilenir. Yaşam süresi dolan eritrositler, dalak ve karaciğer tarafından parçalanır. Bu parçalanma sırasında, eritrosit hücresinde bulunan hemoglobin serbest kalır. Sonraki birkaç saat içinde makrofajlar (savunma hücreleri) hemoglobinden demiri ayıklar ve kanda taşıyarak ya yeni alyuvar yapımı için kemik iliğine ya da diğer dokulardaki demir depolarına götürür. Hemoglobin molekülünün geri kalanı ise karaciğerde bilirubine dönüştürülür.
+Trombositler (Kan Pulcukları, Plateletler).
+Kan hücrelerinin en küçüğüdür. Trombositler, eritrositler ve lökositler gibi kemik iliğinde yapılır. Elektronik kan sayacı çıktılarında PLT ya da PLATELETS şeklinde belirtilir. Sayıları 1mm3 kanda 150- 300.000 civarındadır. Kanda trombosit sayısının artması tablosuna trombositoz, azalması tablosuna ise trombositopeni (trombopeni) adı verilir. Trombositopeni durumunda kanamaya eğilim artar, kanama ve pıhtılaşma zamanı uzar. Trombositler yaklaşık olarak 4 günde bir yenilenir. Trombositlerin görevleri ise kan damarlarının duvarı, bütünlüğü bozulan yerde birikir ve damar duvarına yapışarak tıkaç oluşturmaktır. Ayrıca trombositler, pıhtılaşma mekanizmasını başlatan tromboplastin enzimini üretir.
+Lökositler (Akyuvarlar).
+Lökositler vücudun savunma sisteminde rol alan hareketli kan hücreleridir. pigment kapsamadıklarından bunlara beyaz kan hücreleri de denir. Lökositler alyuvarlara göre daha büyük ve çekirdeklidir. Akyuvarlar, damar duvarının aralıklarından çok daha büyük olmalarına rağmen hücrenin pseudopod (yalancı ayak) adı verilen kısmı, kılcal damarın endotel (epitel) hücreleri aralığına sokulur ve diğer kısımları incelerek aralıktan geçer.
+Normal koşullarda lökosit sayısı 1mm3 kanda 4000- 10.000'dir. Ortalama 6000- 7000 olarak kabul edilir. Klinikte sayıları 4000'den az bulunursa lökopeni, 10.000'den fazla bulunursa lökositoz olarak adlandırılan durum meydana gelir.
+Lökositlerin yapımı.
+Lökositler; kemik iliği, lenf bezleri, dalak, timüs, bademcik gibi lenfoid organlar tarafından yapılır. Lökositlerin bir kısmı kemik iliğinde depo edilir ve ihtiyaç olduğunda dolaşıma verilir. Akut enfeksiyonlarında kandaki lökositlerin sayısı hızla artabilir ve normal sayının birkaç katına ulaşabilir. Bu olay kemik iliğinde depo edilmiş lökositlerin dolaşım kanına girmesi ile olmaktadır. Lökositlerin kandaki ömürleri 1-2 saat (granülositler) ile 100-200 gün (lenfositler) arasında değişmektedir. Enfeksiyon durumunda ise 2- 3 saatten birkaç güne kadar olabileceği saptanmıştır.
+Lökositlerin Sınıflandırılması.
+Lökositler sitoplazmalarında granül olup olmamasına göre; granülositler ve agranülositler olarak 2 gruba ayrılırlar.
+Kanın görevleri.
+Kanın taşıma, düzenleme, savunma ve koruma görevleri vardır.
+Kanama (Hemoraji).
+Kanın yaralanma, zedelenme gibi herhangi bir nedenle damar dışına çıkmasına hemoraji denir. Vücuttaki kanın %20'sinden fazlası kaybedildiğinde hayati tehlike ortaya çıkar. Eğer kontrol altına alınmazsa şok ve ölüm gelişebilir. Kanamalar 2 şekilde sınıflandırılır.
+Kanamanın durdurulması (Hemostazis) ve pıhtılaşma mekanizması.
+Kanamanın durdurulmasına hemostasis denir. Bir damar zedelendiği zaman sırasıyla aşağıdaki mekanizmalar gerçekleşerek hemostaz sağlanır.
+Damar spazmı (Vazospazm veya vazokonstriksiyon).
+Damar spazmı, damar yaralanmalarından sonra kanamayı durdurmak için devreye giren ilk mekanizmadır. Yaralanan kan damarının büzülmesinde trombositlerden salgılanan ve çok kuvvetli vazokonstriktör olan serotonin maddesi rol oynar. Vazokonstriksiyonla damar çeperi daralacağından, kan kaybı azaltılmaya çalışılır.
+Trombosit tıkacının oluşması.
+Kan damarları zedelendiği zaman damar endoteli normal kayganlığını kaybeder. Bunun sonucunda dolaşımda dağınık olarak dolaşan trombositler bütünlüğü bozan kısma, üst üste yığılır ve damar çeperinin kollajen liflerine yapışarak (agregasyon) tıkaç oluşturur.
+Trombositlerin bu özelliğini gösterebilmesi için ortamda kalsiyum ve magnezyum iyonları ile fibrinojenin de bulunması gerekir.
+Kanın pıhtılaşması (Koagülasyon).
+Kanamanın durdurulmasında en etkili olay pıhtılaşmadır. Plazma proteini olan ve eriyebilen özellikteki fibrinojenin, trombin tarafından ipliksi proteinlere dönüştürülerek fibrin hâline gelmesine pıhtılaşma denir. Fibrin, kan damarı duvarındaki hasar çok büyük ise 1- 2 dakika, küçük ise 15- 20 saniye içinde oluşur. Pıhtılaşmada sırasıyla gerçekleşen 3 mekanizma etkilidir.
+Sırasıyla gerçekleşen bu 3 mekanizma sonucunda, oluşan fibrin iplikleri, kan hücrelerini ve diğer maddeleri de içine alarak birbirine yapışır. Oluşan bu kitleye pıhtı adı verilir. Kan pıhtısı damarın zedelenen yerini kapatarak kanamayı engeller.
+Trombinin ön maddesi olan protrombin bir plazma proteinidir. Protrombin, K vitamininin yardımı ile karaciğerde yapılır. K vitamini eksikliği protrombin yapımını engelleyerek, protrombin düzeyinin düşmesine ve kanamaya neden olur. Böylece kanama kolaylaşırken kanamanın durması da zorlaşır.
+Kanın pıhtılaşmasında pıhtılaşma faktörleri adı verilen 13 faktör görev alır. Bu faktörlerden birinin eksikliği, kişilerde pıhtılaşma mekanizmasının yetersizliği durumu en ufak travma veya yaralanmalarda aşırı kan kayıplarına neden olmaktadır.
+Fibröz doku oluşması (Kabuklaşma) ve pıhtının erimesi (Fibrinolizis).
+Kanda pıhtı oluştuktan sonra pıhtı içinde bağ dokunun meydana gelmesi ya da pıhtının erimesi şeklinde iki olay gerçekleşir. Damarda hasar sonucu meydana gelen pıhtı küçük ise fibroblastların pıhtının içine girmesi ile fibröz bağ doku oluşur. Fibröz doku ile damarda yaralanma sonucu meydana gelen hasarlar kapatılır. Kan pıhtısı kütlesi büyük ise kandaki heparin aktif hâle gelerek pıhtının damar iç yüzeyine bölümünü eritir. Bu duruma fibrinolizis denir. Eğer pıhtının damar içinde fibrinolizis mekanizması olmasaydı, pıhtı damarı tıkayarak kan dolaşımını engellerdi.
+Kan grupları ve Rh faktörü.
+Kanama neticesinde meydana gelen fazla miktarda kan kaybı ölüme sebep olur. Bu nedenle kan kaybı olan kişiye kan verilir. Kan verme işlemine kan transfüzyonu (kan nakli) denir. Kan transfüzyonu için alıcının ve vericinin kan grubunun Rh faktörü yönünden uygun olmayan kan nakli yapıldığında eritrositlerin hemolizi (parçalanması) sonucu aglütinasyon (çökmesi) denilen olay meydana gelir. Bu nedenle aglutine olan kılcal damarları tıkayarak ölümlere neden olur.
+Kan grupları.
+Eritrositlerin hücre zarlarında bulunan glukoprotein molekülleri, eritrositlere antijenik özellik kazandırır. Kan gruplarının sınıflandırılması eritrositlerin zarlarında bulunan tip A ve tip B olmak üzere iki antijen (aglutinojen) bulundurmalarına göre yapılır. Yapılan bu sınıflandırmaya göre A, B, AB ve 0 olmak üzere 4 esas kan grubu vardır.
+Plazmada, eritrositlerde bulunan A ve B antijenlerine reaksiyon verebilecek maddeler bulunur. Plazmada bulunan bu protein yapısındaki maddelere antikor (aglütinin) denir. Bu antikorlar yabancı antijenlere karşı bağışıklık yanıtının bir parçasıdır. A antijeninin antikoru anti- A veya alfa, B antijeninin antikoru ise anti- B veya betadır. Yenidoğanda, plazmadaki aglütinin miktarı sıfıra yakındır. 2- 8 ay sonra bebek, aglütinin yapmaya başlar.
+Yanlış kan transfüzyonu yapıldığında alıcının plazmasındaki antikorlar, vericinin eritrositlerindeki antijenler ile etkileşir ve sonuçta eritrositler hemoliz olur. Oluşan eritrosit kümeleri kılcal damarları tıkayabilir. Ayrıca hemoliz sonucu artan bilirubin sarılığa neden olabilir. Bu nedenle kan kaybı olan kişiye, mutlaka kendi kan grubundan kan nakli yapılmalıdır.
+Rh faktörü.
+Kan transfüzyonunda diğer önemli bir faktör, Rh faktörüdür. Rh faktörü eritrositlerde bulunan bir antijendir. Bu antijenik yapı ilk defa Rhesus cinsi bir maymunda saptanmıştır. 
+Rh antijenlerinin Rh faktörü olarak adlandırılan ve sık görülen 6 tipi vardır. Bunlar C, D, E, c, d ve e olarak adlandırılır. Bunlardan Tip D antijeni toplumda çok yaygındır ve diğer gruplara göre daha antijeniktir. Bu antijeni taşıyanlar Rh pozitif (+), taşımayanlar Rh negatif (-) olarak değerlendirilir. Beyaz ırkın yaklaşık %85'i Rh (+), %15'i ise Rh (-)'dir.
+Rh (-) bir insan, Rh (+) kanla daha önce temas etmemişse Rh (+) kan transfüzyonu ani reaksiyona yol açmaz. Transfüzyonu izleyen 2- 4 hafta içinde yeterli miktara ulaşan anti- Rh antikorları hâlen kanda dolaşan transfüze eritrositlerin aglütinasyonuna yol açabilir. Bu hücreler daha sonra doku makrofaj sistemi tarafından yıkılır. Bu nedenle gecikmiş hafif bir transfüzyon reaksiyonu görülür.
+Bazı insanların kanında A, B, O, Rh faktörleri dışında birçok antijenik protein bulunmaktadır. Bu faktörler nadiren de olsa kan transfüzyonu sırasında reaksiyonlara neden olmaktadır. Bu faktörler bilimsel araştırmalarda ve hukuksal yönden önemlidir. Bu faktörlerden bazıları Lewis, P, MNS, Kidd, Kell, Duffy, Lutheran, Xg, Sid, Cartright, YK ve Chido Rodgers antijenlerini içerir.
+Rh uyuşmazlığı.
+Rh uyuşmazlığı; Rh (-) anne ile Rh (+) babanın bebeklerinin kanında Rh antijeni (+) olduğunda ortaya çıkan durumdur. 
+İlk gebelikte anne ile bebek arasındaki Rh uyuşmazlığı, bebeğe zarar verecek ölçüde anne kanında anti- Rh antikoru yapılamadığından bir problem oluşturmaz. İkinci Rh (+) bebeklerin %3'ü, üçüncü bebeklerin %10'u eritroblastosis fetalis denilen tablonun bulgularını taşır; izleyen gebeliklerde sıklık giderek artar.
+Annede gelişen anti- Rh antikorları plasenta membranı yoluyla yavaş olarak fetüs kanına difüze olur ve fetüsün kanında aglütinasyon yapar. Aglutine eritrositler daha sonra hemolize uğrar ve hemoglobin serbestleşir. Makrofajlar hemoglobini cildin sararmasına yol açan bilirübine çevirirler. Oluşan antikorlar vücudun diğer hücrelerine saldırıp onlara da zarar verebilir. Sarılık gelişen eritroblastosisli yenidoğan, genelde doğum sırasında anemiktir ve anneden gelen anti- Rh aglutininler bebeğinkanında 1- 2 ay daha dolaşıp daha çok sayıda eritrositin yıkımına yol açar.
+Fetüs vücudunda eritrositlerin yıkımına tepki olarak eritrosit yapımı hızlanır ve olgunlaşmamış eritrositler (eritroblastlar) fetal dolaşıma geçer. Eritroblastların fetal dolaşımda aşırı miktarda bulunması durumuna eritroblastosis fetalis denir. Hastalığın ölüm nedeni anemidir.
+Rh uyuşmazlığına bağlı bu durumu önlemek için anneye ilk doğumdan sonraki ilk 72 saat içinde Rho- Gam (Anti- D gamaglobulin) uygulanırsa plasenta yoluyla anneye geçen antijenleri antikor oluşturmadan dolaşımdan uzaklaştırarak ikinci bebekteki risk önlenmiş olur.
+Kaynakça.
+"Vücut sıvıları, elektrolitleri ve kan modülü".
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Damar, Murgul</DOCTITLE>
+<TEXT>
+
+Damar Artvin'in Murgul ilçesinin bir beldesidir.
+Tarih ve coğrafi yapısı.
+Murgul ilçesinin bir beldesi olan Damar, 1935 yılında ilçe olmuş, 16 Haziran 1969 yılında Damar’da ise belde olduğu için belediyesi kurulmuştur.
+Belde'nin deniz seviyesinden yüksekliği minimum 360, maksimum 1110 metredir.
+Nüfus.
+2000 nüfus sayımıyla tespit edilen rakam 2541'dir.
+İdari durum.
+Belde de 1 belediye başkanlığı, 7 mahalle bulunmaktadır. Bu mahallelerin isimleri şöyledir;
+Mutluca, Güngören, Çayırlar, Çarşı, 72 Evler, Yüzbaşı, Çiftlik.
+Sosyal durum.
+Beldede görev yapan memurların herhangi bir konut sıkıntısı bulunmamaktadır. İstihdam olarak beldede "Eti Bakır A." işletme müdürlüğü bulunmaktadır. İnsanların çoğu bu şirkette çalışmaktadır. Bu şirket bakır konsantresi üretmektedir. Ayrıca beldede NitroMak firması, patlayıcı madde satışı yapmak üzere faaliyet göstermektedir. Bunların haricinde, beldede Göktaş Limited şirketi delme, patlama ve mühendislik hizmetleri vermektedir. Ancak uzun vadede bu tesislerin devletin hizmet veren kurumları tarafından kullanılması sağlanmalıdır, çocuk esirgeme kurumu, fakülte gibi.
+Sağlık Hizmetleri.
+Beldede Türkiye Cumhuriyeti Sağlık Bakanlığı'na bağlı olarak 1 sağlık ocağı bulunmaktadır. Doktor sıkıntısı bulunur. Geçici olarak Artvin Murgul Devlet Hastahanesinden haftada iki gün olmak üzere doktor gelmektedir. Hemşire ve ebe sıkıntısı yoktur. 1 adet Eti Bakır A.Ş işletme müdürlüğünün dispanseri bulunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kolesterol</DOCTITLE>
+<TEXT>
+
+Kolesterol, hayvanların vücut dokularındaki hücre zarlarında bulunan ve kan plazmasında taşınan bir sterol, yani bir steroid ve alkol birleşimidir. Daha düşük miktarlarda bitkilerde de bulunur. İlk defa 1754'te safra taşlarında kolesterol bulunduğu için bu maddenin ismi Yunanca "chole-" (safra) ve "steros" (katı) sözcükleri ile kimyadaki "-ol" ekinden türetilmiştir. 
+Kolesterol, özellikle hayvansal gıdalarda bulunur ama vücuttaki kolesterolun ancak ufak bir kısmı gıda kaynaklıdır; çoğu vücut tarafından sentezlenir. Vücudun her hücresinde bulunmakla beraber, onun sentezlendiği veya hücre zarlarının daha çok olduğu organ ve dokularda, örneğin karaciğer, omurilik ve beyinde, ayrıca ateromlarda, kolesterolun yoğunluğu daha yüksektir. Kolesterol kanda normalden fazla bulunması halinde damarlarda birikerek damar sertleşmesine (ateroskleroz) yol açar. Bazen de safra pigmentleri ile birleşerek safra taşlarının oluşumunda rol oynar.
+Kolesterol pek çok biyokimyasal reaksiyonda yer almasına rağmen özellikle lipoproteinlerin kolesterolü taşıma biçimleri ve kandaki kolesterol düzeyleriyle kalp hastalıkları arasındaki bağlantıdan dolayı bilinir. Vücut, kolesterolü kullanarak hormonlar (kortizol, üreme hormonları), D vitamini ve yağları sindiren safra asitlerini üretir. Bu işlemler için kanda çok az miktarda kolesterol bulunması yeterlidir. 
+Eğer kanda fazla miktarda kolesterol varsa kan damarlarında birikir ve sertleşmeye ve daralmaya (ateroskleroz veya arteriyoskleroz) yol açar. Aterosklerozda damar duvarında biriken tek madde kolesterol değildir; akyuvarlar, kan pıhtısı, kalsiyum gibi maddeler de birikir. Ateroskleroza halk arasında "damar sertliği", "damar kireçlenmesi" de denir. Yüksek kan kolesterolünün zararlarından bahsedilirken söz konusu olan "kötü kolesterol", yani düşük yoğunluklu lipoprotein (İngilizce "low density lipoproteins" LDL) tarafından taşınan kolesterol düzeyidir. Yüksek yoğunluklu lipoprotein (İngilizce "high density lipoproteins" HDL) tarafından taşınan kolesterola "iyi kolesterol" denir.
+Fizyolojisi.
+İşlevi.
+Kolesterol hücre zarlarının (membranlarının) inşası ve bakımı için gereklidir. Kolesterol içeren membranlar daha geniş sıcaklık aralığında akışkanlıklarını korurlar. Kolesterol, yağların sindirimine yarayan safranın sentezlenmesinde kullanılır. Ayrıca aralarında yağda çözünen vitaminlerin (A,D, E ve K vitaminleri gibi) metabolizmasında rolü önemlidir. Aldosteron, testosteron, östrojen ve projesteron gibi steroid hormonlarının ve kortizolun sentezlerinde yer alır. Başka araştırmalar kolesterolün sinir hücreleri arasındaki sinapslarda ve bağışıklık sistemi hücrelerinin işlevlerinde rol oynadığını gösterir. Hücre membranının yapısına etkisi sonucunda hücre sinyal iletimine ve membranlardaki iyon ve proton geçirgenliğine de etki eder.
+Özellikleri.
+Kolesterol suda çok az çözündüğünden kanın sulu kısmında taşınamaz. Kolesterolün kanda taşınması, suda çözünebilen ve kolesterol ve diğer yağ türevlerini taşıyabilen lipoproteinler aracılığıyla olur. Bu lipoproteinlerin yüzeyinde yer alan proteinler, kolesterolün hangi hücrelerden alınıp hangi hücrelere taşınacağını belirler.
+Sentezi ve hücre içine alımı.
+Vücuttaki kolesterolün çoğu vücut tarafından imal edilir. Günlük üretimim %20-25'i karaciğerde gerçekleşir, ayrıca, ince bağırsak, adrenal bezleri ve üreme organlarındaki sentezlenme miktarı diğer dokulara kıyasla daha yüksektir. Yaklaşık 70 kg ağırlığındaki bir kişinin vücudunda toplam 35 g kolesterol vardır. Günlük dahili üretim miktarı 1 g, besin yoluyla alınan miktar ise 200-300 mg'dır. Bağırsaklara (safra ve besin yoluyla) giren 1.200-1.300 mg'ın yarısı kana geçer.
+Kolesterol çoğu hücre ve dokuda HMG-KoA Redüktaz enziminin başlattığı mevalonat yolu adlı reaksiyon zinciri ile sentezlenir (sağdaki şekle bakınız). Konrad Bloch ve Feodor Lynen 1964 Nobel Tıp ve Fizyoloji ödülünü, kolesterol ve yağ asidi metabolizmasının mekanizması ve denetimi ile ilgili çalışmalarıyla kazandılar.
+Vücut içinde taşınması.
+Şilomikronlar kolesterol ve trigliseritleri ince bağırsaktan karaciğere taşır. Bu kolesterolün bir kısmı besin yoluyla edinilmiştir, bir kısmı ise vücudun sentezleyip karaciğerden salgıladığı safradan kaynaklanır. Şilomikronlar taşıdıkları lipitlerin bir kısmını vücuttaki dokulara bırakıp sonra karaciğer tarafından alınırlar. Şilomikronların kalmadığı yemek arası zamanlarda ise kolesterolün başlıca kaynağı karaciğerdir. Karaciğerde üretilen kolesterol ve diğer lipitlerin vücuttaki diğer dokulara ulaştırılması için çok düşük yoğunluklu lipoproteinlerin (VLDL) içinde kana salgılanır. VLDL'de bulunan trigliserit ve kolesterol hücrelere aktarıldıkça VLDL'in yapısı ve yoğunluğu değişir, önce IDL, sonra da LDL'ye dönüşür. Bu sürecin sonunda arta kalan kolesterolü içeren LDL karaciğer tarafından geri alınır. Kandaki LDL miktarının yüksek olması bu lipoproteinlerin arter damarlarının çeperlerinde birikmesine yol açar, bu da aterosklerozun ilk aşamasıdır. Yüksek yoğunluklu lipoproteinler (HDL) ise vücut hücrelerinde sentezlenen kolesterolü vücuttan atılması için karaciğere taşır. (ayrıntılar için lipoprotein maddesine bakınız).
+[[Dosya:Kolesterol trafik tr.png|center|thumb|601px|Kolesterolün vücutta taşınması. Kalın siyah oklar, kolesterol ve diğer lipitleri taşıyan lipoproteinlerin oluşumlarını, dönüşümlerini ve kan dolaşımından çıkışlarını gösteriyor. Kırmızı ince oklar, kolesterol veya kolesterol türevlerinin (kolesteril esterler ve safra asitleri) hareketlerini gösteriyor.
+K, kolesterol; KE, kolesteril ester; LPL, lipoprotein lipaz; LCAT, lesitin kolesterol asiltransferaz; CETP, kolesteril ester transfer proteini.]]
+Hücre içinde kolesterol düzeyinin denetimi.
+Kolesterol biyosentezi, mevcut kolesterol seviyesine bağlıdır, ancak bunu sağlayan homeostatik mekanizma henüz bilinmemektedir. Besin yoluyla gelen girdideki bir artış, dahili üretimin azalmasına yol açar, besinden gelen miktarın azalması da karşıt sonucu doğurur. En önemli düzenleme mekanizması, hücre içinde endoplazmik retikulumdaki kolesterol miktarının SREBP1 ve 2 (İngilizce "Sterol Regulatory Element Binding Protein", sterol düzenleme elemanına bağlanan protein 1 ve 2) tarafından algılanması ile gerçekleşir. Kolesterol bulunduğu zaman 
+SREBP1 2 proteine bağlanır: SCAP ("SREBP-cleavage activating Protein") ve Insig 1. Kolesterol seviyesi azaldığı zaman Insig1, SREBP-SCAP kompleksinden ayrışır, bu kompleks Golgi aygıtına geçer ve orada S1P ve S2P (İngilizce "Site 1 Protease" ve "Site 2 Protease") tarafından kesilir (bu iki proteaz kolesterol seviyesi düştüğü zaman SCAP tarafından aktive olurlar). Kısalıp bir transkripsiyon faktörüne dönüşen SREBP hücre çekirdeğine girer ve orada bir takım genlerin önünde yer alan SRE'ye ("Sterol Regulatory Element") bağlanarak bu genlerın transkripsiyonunu artırır. Bu genler arasında HMG-CoA redüktaz ve LDL reseptörü genleri vardır. HMG-CoA redüktaz hücre içi kolesterol üretiminin artmasına neden olur, LDL reseptörü ise kanda dolaşan LDL'in hücrelere bağlanıp taşımakta olduğu kolesterolü hücrelere vermesini sağlar. 
+Kanda aşırı miktarda kolesterol olması halinde bu kolesterol damarların çeperlerini oluşturan hücrelerde birikir. Bu birikmeyle başlayan ateroskleroz sonucunda damar tıkanabilir ve tıkanan damarın bulunduğu organa bağlı olarak, kalp krizi veya inme meydana gelebilir.
+Yukarıda özetlenen mekanizmanın büyük bölümü Michael Brown ve Joseph L. Goldstein tarafından açığa çıkartıldı. Bu çalışmalarından dolayı Brown ve Goldstein 1985 Nobel Tıp ve Fizyoloji ödülünü kazandılar.
+Vücuttan atımı.
+Kolesterol karaciğerden safra aracılığıyla atılır ve bir kısmı ince bağırsak tarafından geri alınır. Safra kesesi içinde, konsantrasyonunun yüksek olması nedeniyle kristalleşebilir ve bu durumda safra taşı oluşumuna yol açabilir (ancak daha ender olarak lesitin veya bilirübinden oluşmuş safra taşları da görülebilir).
+Aterosklerozdaki rolü.
+Oksitlenmiş kolesterol içeren küçük boyutlu LDL taneciklerinin yüksek düzeyde olduğu hallerde bu LDL damar çeperlerinde aterom denen birikmelere yol açar, bu duruma ateroskleroz denir. Ateromlar hangi organın damarında birikirse o organa ait hastalıklar ortaya çıkar. Örneğin, kalbi besleyen atardamarlarda (koroner arterler) aterom koroner arter hastalığı'na, böbrek damarlarında yüksek tansiyona ve böbrek yetmezliğine, beyin damarlarında ise inmeye yol açabilir. 
+HDL tanecikleri, özellikle büyük boyutlu HDL, ateromalardaki kolesterolü karaciğere geri taşıyabilir. Bu yüzden yüksek HDL ile aterosklerozun yavaşlaması hatta gerilemesi ile ilişkilidir. Aralarında LDL, IDL ve VLDL bulunan diğer lipoprotein türleri ateroskleroza yol açar. Bu lipoproteinlerde bulunan kolesterol miktarı ile aterosklerozun ilerlemesi ilişkili bulunmuştur. Bu yüzden toplam kolesterol seviyesine değil bu kolesterolün ne kadarının hangi tür lipoproteinlerde bulunduğuna bakılmalıdır.
+Amerikan Kardiyoloji Derneği (American Heart Association) kolesterol düzeyleri hakkında aşağıdaki kılavuzu hazırlamıştır:
+Ancak günümüzdeki laboratuvar testleri LDL ve HDL kolesterolünü ayrı ayrı belirleyebildiği için, bu basit kılavuz artık biraz demode kalmıştır. Arzulanan LDL düzeyi 100 mg/dL'dir (2,6 Mol/L), yakın zamanlarda elde edilen yeni bulguların ışığında yüksek riskli kişilerde hedef <70 mg/dL düşünülebilir. Toplam kolesterolün HDL kolesterola oranının 5:1 olması daha da sağlıklı sayılabilir. 
+LDL ölçüm teknikleri aslında LDL'yi doğrudan ölçmez; ekonomik nedenlerden dolayı LDL değeri şu formüle göre hesaplanır: 
+Kolesterol düzeyinin kontrol altında tutulması.
+Kolesterolü azaltmak için kişilerin hayat tarzlarında değişiklik yapmaları gerekir. Amerikan Millî Kolesterol Eğitim Programı'nın bu konuda yaptığı öneriler şöyledir:
+Diyet.
+Kalp hastası olmayan bir kişide yüksek kolesterol bulunduğu zaman doktorlar hastayı genelde Amerikan Kardiyoloji Derneği'nin önerdiği "Birinci Adım" diyetine başlatır. Bu programda hasta günlük kalori gereksiniminin % 8-10'unu doymuş yağlardan, %30'dan azını yağlardan almalı, besin yoluyla günde 300 mg'dan fazla kolesterol almamalı ve sağlıklı bir kiloda kalmasına yetecek kaloriden fazlasını almamalıdır. Eğer bu diyet programı kolesterol düzeylerinin inmesini sağlamazsa doktorlar "İkinci Adım" rejimi uygular; doymuş yağ miktarı toplam kalorinin %7'sinin altına, kolesterol da 200 mg'ın altına indirilir. "İkinci Adım" diyeti kalp hastalarına da uygulanır. Kolesterol düşürücü diyete başladıktan birkaç hafta sonra kolesterol seviyelerinin düşmesi gerekir. Diyet yoluyla zaman içinde toplam kolesterol rakamları 10-50 mg/dL kadar düşebilir.
+Kilo kaybı.
+Yüksek kilolu kişilerin kilolarını azaltmaları, özellikle düşük HDL, yüksek trigliserit veya büyük bel çevresi (erkeklerde 100 cm, bayanlarda 85 cm) gibi yüksek risk faktörleri bulunduruyorlarsa, önemlidir.
+Egzersiz.
+Düzenli fiziksel faaliyet (her gün, veya çoğu gün, 30 dakika) HDL'yi yükseltir, LDL'yi azaltır. Egzersiz özellikle yukarıda belirtilen yüksek risk faktörlerini taşıyanlar için önemlidir.
+İlaç tedavisi.
+Diyet, egzersiz ve kilo kaybının fayda etmediği durumlarda kolesterol düzeylerinin kontrolü için lipit düşürücü ilaç tedavisine baş vurulur. Statin grubundan ilaçlar, safra asidi ayırıcıları, nikotinik asit, fibratlar ve kolesterolün bağırsaklardan emilmesini engelleyen ilaçlar kolesterol kontrolünde kullanılır. Statin grubu ilaçlar özellikle çok etkilidir. Diğer ilaçlar da bazen statinlerle beraber, bazen tek başlarına etkili olur.
+Doğal ürünler.
+Balıklarda bulunan omega-3 yağ asitleri yağları da kolesterol kontrolünde kullanılır. keten tohumunun içerdiği doymamış yağ asitleri de kolesterol kontrolünde kullanılır
+Bitkilerde kolesterol.
+Bazı kaynaklar (ve hatta ders kitapları) bitkilerde kolesterol bulunmadığını iddia etse de, bu doğru değildir. Bu yanılgının kaynağı bitkilerde kolesterolün çok daha az miktarda olmasıdır (kolesterolün toplam lipit miktarına oranı, hayvanlarda 5 g/kg, bitkilerde ise 0.05 g/kg'dır). Bitkilerde kolesterolden çok fitosterol adlı steroller bulunur ama bitkiler hem kolesterolü hem diğer sterolleri hücre membranlarının inşası için kullanırlar. Hayvan bağırsaklarında bitki sterolleri emildikten sonra kolesterol hariç diğerlerinin çoğu bağırsağa geri atılır. 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ateroskleroz</DOCTITLE>
+<TEXT>
+
+Ateroskleroz, atardamarları (arterleri) etkileyen bir hastalık. Yaygın olarak "damar sertleşmesi" olarak adlandırılan arteriosklerozun bir türüdür. Orta boy ve büyük arterlerde görülen "aterom" veya "plak" olarak adlandırılan yapısal bozukluklardan (lezyonlardan) oluşur. Aterom, hangi safhada olduğuna bağlı olarak çeşitli yapılar barındırabilir:
+Aterom, damarın yüzey tabakası kalınlaşmış büyük bir alanının ortasında bulunan, yumru gibi, yumuşak sarımsı bir birikimdir. Arter lümenine yakın noktalarda makrofajlardan oluşur. Bunun altında bazen kolesterol kristalleri ve ilerlemiş lezyonların tabanında kireçlenme (kalsifikasyon), hatta bazen kemikleşme de olabilir. "Ateroskleroz", ateromların, içi yumuşak, dışı sert yapısından dolayı Yunanca "athero-" (lapa) ve "-sclerosis" (sertleşme) sözcüklerinden türetilmiştir.
+Ateroskleroz iki patolojik sorun oluşturur. Birincisi, aterom zaman içinde yırtılabilir ve içinden çıkan parçalar akıntıyla gidip daha dar damarları tıkayabilir (tromboz). İkincisi, aterom yırtılmasa da büyümesi sonucunda damarın daralmasına (stenoz) yol açabilir. Her iki durumda da damar tarafından beslenen organa yetersiz kan gitmiş olur. Hastalığın izleyebileceği alternatif bir yol ise anevrizma olarak adlandırılır; bu durumda ateromun kalınlaşmasının telafisi için damar genişler ama bunun sonucunda damar duvarı zayıflar, en zayıf noktasından balon gibi şişip patlar ve iç kanamaya varır.
+En yaygın görülen süreç, hassas plak olarak adlandırılan yumuşak plakların yırtılmasıdır. Bunun sonucunda oluşan kan pıhtısı, kanı 5 dakika gibi kısa bir sürede yavaşlatır veya durdurur ve ölüme yol açabilir. Bu olaya enfarktüs denir. Bunun en yaygın senaryosu kalp krizidir, yani trombozun bir koroner arterin içinde meydana geldiği miyokardiyal enfarktüstür. İlerlemiş aterosklerozda görülen başka bir yaygın senaryo ise kladikasyon olarak adlandırılır, bu durumda stenoz ve anevrizmanın birleşimi sonucu bacaklara yeterli kan gitmez ve bunun sonucu hasta topallar. Böbrek, bağırsak ve diğer organlardaki arterler de aterosklerozdan etkilenebilir.
+Semptomlar.
+Ateroskleroz genelde erken ergenlik çağında başlar, çoğu büyük arterde bulunur ancak kendini belli etmez ve çoğu tıbbi tanı yöntemiyle de farkedilmez. Kalbi besleyen koroner dolaşıma veya beyni besleyen serebral dolaşıma etki ettiği zaman hastalık ciddi anlamda ortaya çıkar. Kalp krizi, akut inme, kalp yetmezliği ve genel olarak çoğu kalp hastalığının altında yatan neden aterosklerozdur. Kol ve bacak arterlerinde ateromlar yüzünden dolaşım yetmezliğine periferik tıkayıcı arter hastalığı denir.
+ABD 2004 yılı verilerine göre erkeklerin %65'i ve kadınların %47'sinde aterosklerotik kardiyovasküler hastalığın ilk belirtisi bir kalp krizi veya ani kardiyak ölüm (ilk belirtilerden sonraki bir saat içinde ölüm) olmuştur.
+Arterde kan akışını bozan olayların çoğu lümen tıkanmasının %50'den az olduğu yerlerde olur. Bu olaylarda ortalama stenoz oranı %20'dir. Dolaşım sorunlarını test etmek için kullanılan en yaygın test olan Kardiak stres testi ancak %50'den fazla tıkanmayı algılayabilmektedir.
+Aterojenez.
+"Aterojenez", aterom plaklarının gelişme sürecidir. 
+Aterosklerozun mikroskop altında görülebilen ilk aşaması "yağ çizgileri" oluşumudur. Bunlar endotelin altında bulunan, içi lipit dolu hücre topluluklarıdır; yağ çizgileri gelip geçici olabilir. Arter damarlarında hücrelerin (özellikle monosit türevi makrofaj gibi lökositler) ve değişime uğramış lipoprotein birikmesine paralel olarak arter yapısı değişime uğrar. Bunu izleyen yangı (enflamasyon), arterin "intima" tabakasında aterom plaklarının oluşumuna yol açar. İntima, damarda endotel ile media ve adventitia arasındaki kısımdır. Bu plaklar aşırı yağ, hücreler, kollajen ve elastinden oluşur. Lümen diye adlandırılan arter boşluğunda başlangıçta herhangi bir daralma (stenoz) oluşturmazlar.
+Aterosklerozun nasıl başladığına dair iki hipotez vardır. Bu iki hipotezi de destekleyen bulguların varlığına bakılırsa muhtemelen ikisi de en azından kısmen doğrudur.
+Lipit hipotezi.
+Kan plazmasında bulunan LDL endotelin içine sızıp yükseltgendiği (oksitlendiği) zaman kalp hastalığı için risk oluşturur. LDL oksidasyonuna etki eden karmaşık biyokimyasal reaksiyonlar zinciri vardır, bunlar en çok, endotelde bulunan serbest radikallerden kaynaklanır. 
+Damar duvarının hasar görmesi, bir yangı tepkisi doğurur. Bir akyuvar türü olan monositler kandan gelip arter duvarının içine girer, ayrıca trombositler de duvara yapışır. Ardından, monositler değişime uğrayıp makrofaj olur, bunlar da oksitlenmiş LDL'yi içlerine alarak zamanla "köpük hücre"lere dönüşür. Böyle adlandırılmalarının nedeni sitoplazmaların içinde çok sayıda kesecik (vezikül) ve yüksek miktarda lipit birikmesidir. Mikroskop altında lezyon artık bir yağ çizgisi olarak görünür. Köpük hücreler sonunda ölür ve bu yangı sürecini daha da yaygınlaştırır.
+Ateromdaki kolesterolün kaynağı LDL'dir. Dokulardaki kolesterolü karaciğere geri taşıyan HDL miktarı az ise bu LDL birikiminin başlattığı süreç daha da hızlanır. Köpük hücreleri ölünce içlerindeki kolesterol ve diğer lipitler ateromda birikmeye başlar.
+Köpük hücreleri ve trombositler düz kas hücrelerinin hareketini ve çoğalmasını teşvik eder; düz kas hücrelerinin yerine kollajen gelir ve bu hücreler de köpük hücrelerine dönüşür. Lipit birikintileri ile damarın intima tabakası arasında koruyucu bir fibröz örtü oluşur.
+Kronik endotel hasar hipotezi.
+Russell Ross ve John Glomset tarafindan öne sürülen (İngilizce "Response to Injury" olarak adlandırılmış olan) bu hipoteze göre endotel tabakaya hasar veren herhangi bir etmen, trombositlerin endotel altına girip yapışmasına neden olur, ardından monosit ve T lenfositler gelir, bu hücrelerin salgıladığı büyüme faktörleri düz kas hücrelerinin mediadan intimaya geçip orada çoğalmasına, bağ dokusu ve proteoglikan imal etmesine ve fibröz plak oluşturmasına neden olur.
+Bu iki hipotez birbirini dışlamaz. Oksitlenmiş LDL endotel hücrelerine toksik olduğu için bir hasar unsuru sayılabilir. Ayrıca yenilenen endotel hücreler tamamen normal olmaz ve plazmanın LDL'nin endotel tabakada alıkonmasına neden olabilir. Ancak kronik endotel hasar hipotezi lipit kökenli olmayan (örneğin enfeksiyon sonucu) aterom oluşumlarına açıklama getirir.
+Yeniden yapılanma ve kalsifikasyon.
+Yukarda belirtilen süreçte damardaki düz kas tabakasında, özellikle ateromun hemen yanındaki düz kas hücrelerinde, mikroskopik kireçlenmeler (kalsifikasyonlar) başlar. Zaman içinde bu hücreler ölünce kas tabakası ile ateromun dış kısımları arasında kalsiyum birikimleri meydana gelir.
+Bu örtülü yağ birikintileri (bu aşamada artık aterom olarak adlandırılırlar) arterin zaman içinde genişlemesine neden olan enzimler salgılarlar. Arterin genişlemesi ateromun fazladan kalınlığını telafi ettikçe damar boşluğunda bir daralma (stenoz) olmaz. Arterin kesiti yumurta şekilli olarak genişlemeye devam eder. Ancak eğer bu genişleme aterom kalınlığıyla orantısız olursa bir anevrizma meydana gelir .
+Görünür özellikler.
+Mikroskopla bakıldığında iki plak türü ayırt edilebilir:
+Damarın kas tabakası ateromu tutmaya yetecek büyüklükte küçük anevrizmalar oluşturur. Aterom plağının varlığını telafi edecek şekilde yapısını değiştirmesine rağmen kas tabakası genelde dayanıklılığını sürdürür.
+Ancak, damar duvarının içindeki ateromlar yumuşak ve yırtılmaya müsaittir, fazla bir esneklikleri yoktur. Arterler kalp atışlarıyla sürekli genişleyip büzülürler, yani nabız atarlar. Ayrıca ateromun dış kısmıyla kas duvarı arasındaki kireçlenme de, aterom ilerledikçe esneklik kaybına ve damarın sertleşmesine yol açar. 
+Kireç birikimleri yeterince ilerlediğinde bilgisayarlı tomografi (BT) veya elektron demet tomografisi ("electron beam tomography") ile koroner arterlerde görüntülenebilir. Bu yöntemlerle bakıldığında kalsifikasyonlar ateromları çevreleyen yüksek radyografik yoğunluklu halkalar olarak görünür. BT tekniği ile Hounsfield skalasında 130 birimden fazla (bazılarınca 90 birimden fazla) bir radyografik yoğunluk, arterlerde açıkça kalsifikasyon olduğunun bir belirtisi sayılır. Anjiyografi veya intravasküler ultrasonla bakılıp arter lümeninde bir daralma görülmese dahi bu kalsifikasyonlar hastalığın, üstelik ileri bir aşamada olduğunun tartışmasız delili sayılırlar.
+Yırtılma ve stenoz.
+<table>
+Hastalık onlarca yıl yavaşça ilerlemesine rağmen, arterin bir aterom tarafından tıkanmasına kadar farkedilmez. Tipik olarak şöyle meydana gelir: Aterom yırtılması, yırtığın üzerinde pıhtılaşma ve fibröz yapılanma ve bundan kaynaklanan stenoz. Bu süreç bir kere veya tekrar tekrar olabilir. Stenoz yavaş ilerleyebilir, buna karşılık plak yırtılması ani bir olaydır. Yırtılma, ince ve zayıf fibröz örtülü "hassas" ateromlarda olur.
+Lümenin tamamen tıkanmasına neden olmayan ama yinelenen plak yırtılmalarının üzerindeki pıhtı örtüsü ve pıhtıyı sabitleştirici fizyolojik tepki, çoğu stenozu meydana getiren süreçtir. Stenozlu bölgelerde akış hızının yüksek olmasına rağmen bunlar sağlamdır, genelde parçalanmazlar. Kan akışını durduran yırtılma olayları genellikle az daralma yapmış büyük plaklarda meydana gelir.
+Klinik araştırmalarda, yırtıldıktan sonra arterin tamamen tıkanmasına neden olan plaklardaki stenoz miktarının ortalama %20 oranında olduğu bulunmuştur. Yüksek oranda stenoz oluşturmuş plaklar çoğunlukla ciddi sonuçlar doğurmaz. Klinik araştırmalarda, %75'ten fazla oranda daralma olan plakların yalnızca %14'ünün kalp krizine neden olduğu bulunmuştur.
+Eğer yumuşak ateromu kandan ayıran fibröz örtü yırtılırsa, alttaki doku parçaları kanın içine saçılır, kan ateromun içine girer ve bunun sonucunda ateromun hacminde ani bir büyüme meydana gelebilir. Doku parçalarında kollajen ve doku faktörü bulunduğu için trombositleri uyarıp kan pıhtılaşma sistemini harekete geçirirler. Sonuç, ateromu kaplayan ve kan akışını ileri derecede engelleyen bir kan pıhtısı, yani "trombus"dur. Kan akışının engellenmesiyle daralma noktasının ötesindeki dokular oksijen ve gıdadan mahrum kalır. Eğer bu doku kalp kası (miyokardiyum) ise göğüs ağrısı (anjina) veya kalp krizi (miyokardiyal enfarktüs) meydana gelir.
+Plakla ilintili hastalık tanısı.
+Kalp hastalıkları için kullanılan anjiyografi ve kardiak stres testi teknikleri damarlarda ciddi daralma (stenoz) noktalarını belirlemeyi amaçlar. Bu teknikler aterosklerozu doğrudan farketmeye yaramaz. Oysa klinik çalışmalar, ciddi olayların meydana geldiği yerlerin büyük plaklı ama az daralmalı olduğunu göstermiştir. Plak yırtılması saniyelerle dakikalar arasında bir sürede arter lümeninin tıkanmasına ve potansiyel olarak hastanın daimi sakatlanmasına veya ölümüne yol açabilir. Bu yüzden 1990'lardan beri tedavinin hedefi olarak daha ölümcül olan "hassas plak"lara odaklanılmıştır. 
+Vücuttaki her arterde plak oluşabilse de, hayatî organları besleyen arterlerdeki tıkanmalar özellikle farkedilir. Kalp kaslarını besleyen damarların tıkanması kalp krizine, beyni besleyen damarların tıkanması inmeye yol açar. Bu dokular zarar gördüğü zaman sadece %2 oranında yenilendikleri için meydana gelen hasarların sonucu hastayı öldürmese dahi kalıcı bir etki bırakır.
+Risk artırıcı fizyolojik faktörler.
+Aterosklerozla ilişkili çeşitli anatomik, fizyolojik ve davranışsal risk faktörleri bilinmektedir:
+Yukardaki listede '+' işaretli maddeler "metabolik sendrom"un belirtisi sayılır.
+Tedavi.
+Eğer ateroskleroz semptom gösterirse semptomlar (örneğin anjina pektoris) tedavi edilebilir. Önce sigrayı bırakmak veya düzenli egzersiz gibi ilaçsız tedavi yöntemleri denenir. Bu yöntemler fayda etmezse kardiyovasküler hastalıkların tedavisinde ilaç kullanımına geçilir. Yeni ilaçlar keşfedildikçe bu yaklaşım daha etkili olmaktadır. Ancak ilaçlar patent kontrolünde, pahalı ve bazen de yan etkili olmalarından dolayı eleştirilmektedir.
+Klinik araştırmalarda yararlı olduğu bulunan tedavi hedefleri şunlardır: lipoprotein dengesizlikleri, yüksek kan şekeri (yani diyabet), yüksek kan basıncı, homosistein, sigara terki, pıhtı faktörlerini hedefleyen pıhtıönler (antikoagulan) almak, tuzlu su kaynaklı balık eti yiyerek Omega-3 yağlar almak, egzersiz yaparak kilo kaybetmek. Hedef serum kolesterol düzeyi 4 mmol/L'nin altıdır (trigliseritler için de 2 mmol/L'nin altı).
+Statinler olarak adlandırılan ilaç grubu, aterosklerotik hastalıkla ilişkili olayların önüne geçmekte çok başarılı olmuştur. Ancak fizyolojik risk faktörlerinde önemli bir azalma elde etmek için birden fazla ilacı birlikte kullanmak ve gündelik ve süresiz olarak almak gerekmektedir. Karmaşık ve etkili tedavi rejimleri izleyen hastaların fizyolojik özelliklerinin damarlarda yağ çizgilerinin görülmesinden evvelki çocukluk dönemine benzediği gözlemlenmiştir.
+LDL'nin bir kalıtsal çeşidi olan Lipoprotein küçük a'nın azaltılması gündelik yüksek vitamin B3 (niasin) dozları almakla mümkündür. Niasin aynı zamanda LDL taneciklerin daha büyük olmasını ve HDL işlevinin artmasını sağlar. Statinlerle niasin'in, bağırsak kolesterol emilme inhibitörleri ("ezetimibe" ve daha az etkili olan "fibrat"ların) hastanın dislipipidemik özelliklerini iyileştirdiği ve klinik olayların tekrarını azalttığı bulunmuştur. Koruyucu tedavide kolesterol azaltıcı ilaçların ölüm oranlarını azaltmıştır (örneğin AFCAPS/TexCAPS denemesinde). Aynı sonuçlara ulaşmak için beslenme değişikliği yapmak genelde ilaç tedavisinden çok daha az etkili olmuş ve kişilerin sağlıklı bir diyeti sürdürme başarıları düşük olmuştur. 
+Halen aterosklerozu olmayan diyabetli kişilerin aterosklerozlu diyabetsizlere kıyasla uzun vadede aterosklerozdan çok daha kötü etkilendikleri bulunmuştur. Bu yüzden diyabet, ileri ateroskleroz dengi olarak görülmektedir.
+Homosistein seviyelerinin normal düzeye düşürülmesi, özellikle bunun beslenmede Omega-3 yağ kullanımı ile yapılmasının koruyucu etkileri olduğu altı klinik çalışma tarafından gösterilmiştir.
+Aerobik egzersiz, kilo kaybı ve beslenme değişiklikleri de faydalı olmakla birlikte genelde daha az etkilidir ve çoğu kişi için uzun süre devam ettirilmesi sorunludur.
+Tibbi tedaviler genelde semptomlara odaklıdır. Ancak uzun dönemde hastalığın nedeni olan süreçleri düzeltme yönündeki tedavilerin daha etkili olduğu gösterilmiştir.
+Kısa dönemde yararlı olan cerrahi müdaheleler arasında, daralmış damarları genişletmek için anjiyoplasti ve daralmış damarların etrafından yeni bağlantılar oluşturan baypas ameliyatı sayılabilir.
+Antioksidan korumayı artırmak amacıyla yüksek dozlu E veya C vitamini kullanımının bir faydası olduğu çift kör bir klinik çalışmada gösterilememiştir. Ancak bu çalışmalar, etkili olduğu iddia edilenden daha düşük dozlar kullanılarak yapılmıştır. 
+Statin ilaçlarının başarısının arkasında yatan, kullananların ölüm oranlarında gözlemlenen azalmalardır. Bu ilk olarak "4S" olarak adlandırılan, kalp krizi geçirmiş ve ilerlemiş hastalığı olan kişilerde yapılmış olan ilk geniş çaplı, plasebo kontrollü, randomize klinik denemede gösterilmiştir. 4S'de statin kullananların mortalite oranı plasebo alanlara kıyasla %30 daha düşük olmuştur. Bu çalışmaya katılanlar arasında dıyabetli olan bir alt grup için statin ile plasebo arasındaki mortalite farkı %54 olmuştur. 4S'den sonra yapılan diğer klinik denemelerde mortalite oranında daha da büyük düşüşler bulunmuştur. ASTEROID denemesinde (ref. 3) plak hacminde gerileme görülmüştür.
+Özetle, hastalığın en etkili tedavisi için, çok yönlü ve sinsi yönlerini anlayıp bir veya birkaç tedavi yöntemi yerine birçok ve
+farklı tedavi stratejisini birleştirmek etkili olmaktadır. Kan lipitlerinin lipoproteinler tarafından taşınma özelliklerini değiştirmek gibi başarılı olmuş yaklaşımlarda, semptomlardan hem önce hem de hemen sonra saldırgan tedavi kombinezonları kullanmak daha iyi sonuç vermiştir. Aterosklerozla ilişkin risk taşıyan hastalara koruyucu olarak düşük doz aspirin ve bir statin verme uygulaması yaygınlaşmaktadır. Ancak, semptomsuz kişilerin tedavi edilmesi tıp camiasında tartışmalıdır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kardiyoloji</DOCTITLE>
+<TEXT>
+
+Kardiyoloji, kalp ve dolaşım sistemi hastalıklarını inceleyen bilim dalıdır.
+Kardiyoloji önceleri iç hastalıklarının (dahiliye) bir alt dalı iken günümüzde ayrı bir anabilim dalı olarak çalışmaktadır. Yapılan araştırmalar ile biriken bilgi birikimi ve gelişen yeni teknolojiler, diğer araştırmalı ve/veya uygulamalı bilim dallarında olduğu gibi, kardiyoloji alanında da büyük gelişmeler olmasını ve alt bilim dallarının ortaya çıkmasını sağlamıştır. Kardiyoloji son 30-40 yıl içerisinde tahminlerin ötesinde bir gelişme kaydetmiştir ve bu gelişmeler artarak devam etmektedir. Bu gelişmelerle birlikte, kardiyoloji içerisinde oluşmuş kimi alt dallar şunlardır:
+Tabii, alt dalların ortaya çıkması ve bunların üzerinde özelleşen doktorların ve araştırmacıların çalışması da yeni tanı ve tedavi yöntemlerinin geliştirilmesine imkân sağlamaktadır.
+Kardiyoloji biliminin tanı ve sağaltımını (tedavi) sağlamak için çalıştığı hastalıklar arasında, günümüzün en önemli sağlık sorunları arasında yer alan bazı hastalıklar bulunmaktadır. Bu hastalıkların birkaçı şöyle sıralanabilir:
+Nefroloji, endokrinoloji gibi dalların da ilgi alanına giren yüksek tansiyon, çeşitli hastalıklara bağlı olarak gelişen kalp yetmezliği, doğuştan ya da çeşitli hastalıklara bağlı olarak gelişen kalp kapak hastalıkları ve benzeri pek çok hastalık da kardiyolojinin tanı ve sağaltımı için uğraştığı hastalıklardandır.
+Kardiyolijinin kullandığı tanı araçlarından bazıları şunlardır:
+Kardiyolojide, yataklı tedavi verdiği hastaları genel servis ve Koroner yoğun Bakım ünitelerinde(KYBÜ) yatırarak tedavi etmektedir. KYBÜ'ler genel durumu ağır açil müdahale gerekebileçek hayati tehlikesi söz konusu olan(Kalp Krizi geçirenler gibi) hastaların takipedildiği birimlerdir. KYBÜ kabul edilen hastaların Kalp Ritimleri, Tansiyonları, Nabız sayıları, Kan oksijen miktarları tüm hastaların bağlı olduğu merkezi bir monitörle takipedilmekte olup bu monitörler tesitedilen değerlerde bir anormallik olduğunda görevli personeli alarm vererek uyarmaktadır. Genel durumu düzelen hayati tehlikesi ortadan kalkan hastalarda tetkik ve tedavisine devam etmek üzere genel servislere alınarak takip edilmektedir. Günümüzde artan ihtiyaçlar doğrultusunda Kalp Damar Hastalıkları alanında profesyonelleşmiş hastaneler kurulmaktadır. Türkiye'deki bu tip hastanelerden bazıları Türkiye Yüksek İhtisas Hastanesi, Siyami Ersek ve Koşuyolu Kalp Damar Hastalıkları Hastanesidir.
+Anatomi ve fizyoloji.
+Temel Anatomi (Kalbin yapısı)
+Dolaşım sistemi (Vücudun kan desteği)
+Pulmoner dolaşım (Kanın oksijenlenmesi)
+Kalpte uyarı iletimi (Kalbin elektriksel sistemi)
+Temel kalp fizyolojisi
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Keten yağı</DOCTITLE>
+<TEXT>
+
+Keten yağı ("Oleum linii"), ketenden yapılmış bir Bitkisel yağdır.
+Bu bitkisel yağda yüksek oranda tekli ve çoklu doymamış yağ asitleri, çok düşük oranda doymuş yağ asiti, yüksek oranda lifle birlikte bol miktarda potasyum, az miktarlarda ise magnezyum, demir, bakır, çinko ve çeşitli vitaminler içerir. 
+Bitki tohumlarından iki şekilde yağ elde edilir. Birinci yöntem ısı verilmek suretiyle yağ çıkartılmasıdır. Diğer yöntem ise soğuk pres yöntemi ile yağ elde edilir. Bu yağ içinde % 90 doymamış asitler bulunur. Anadolu yağ ketenlerinin tohumlarında, yağ miktarı ortalama % 40'tır. Bu yağ, yanıklardan ileri gelen yaralarda ağrı dindirici olarak kullanılır. Bitki tohumları su veya süt ile kaynatılarak lapa yapılır ve haricen ilaç şeklinde kullanılır. 
+Keten tohumunlarından yağ iki şekilde çıkartılmaktadır. 
+Birincisi tohumlar ısıtılarak diger yöntem ısıtmadan soguk pres tekniği ile yağ çıkartılır.
+Isı ile çıkartılan yağlar sanayi'de ve özellikle boyacılık ve kozmetik sektöründe kullanılır. Ahşap vernik boyaların ve ressamların kullandığı tüm yağlı boyaların ana hammaddesi keten tohumu yağıdır.
+Soğuk pres yöntemi ile üretilen yağlar ise günümüzde bitkisel besin takviyesi olarak sıklıkla kullanılır. Isı ile çıkartılan keten yağının kimyasal yapısı bozulduğu için gıda takviyesi olarak tüketilmez. Soğuk pres yöntemi ile üretilen yağları tüketmek sağlık yönünden oldukça faydalıdır.
+Kalp ve damar sağlığı için omega3 yağ asitleri içeren besinleri tüketmek gerekmektedir. Aynı miktardaki ıspanak, ceviz ve brokoliden 10 kat daha fazla Omega 3(Alfa-linolenik asit cinsinden) yağ asitini bünyesinde barındırır. Bu yüzden bu ürünün yağı, balık yağının (en fazla omega3 yağ asiti soğuk deniz balıklarında bulunmaktadır) en yakın bitkisel muadili olarak gösterilebilir. Düzenli Balık tüketemeyen bireyler omega3 kaynağı olarak soğuk pres keten yağını güvenle tüketebilir.
+Keten yağının içindeki yüksek miktardaki omega3 yağ asitleri(Alfa-linolenik asit cinsinden]] havadaki oksijen ile çok hızlı tepkimeye girip kimyasal yapısı bozulur. Bu sebeple keten yağı taze olarak tüketilmelidir.
+Bu yağın Tespit edilen bazı fayda ve yararları:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kanama</DOCTITLE>
+<TEXT>
+
+Kanama vaya hemoraji, oranı ve süresi ne olursa olsun kanın damar dışına çıkışını ifade eden bir tıp terimidir. 
+Kanama, damar çeper bütünlüğünün travma veya laserasyon'u sonucu bozulması nedeniyle kanın damar dışına çıkması olayıdır.
+Kan damardan çıkıyor fakat vücut içinde bir bolşuğa boşalıyorsa buna "iç kanama", denir.Akciğerlerden kan gelmesi (haemopthysis) veya burun kanaması (epistaksis) bir iç kanama edğildir.Çünkü iç kanamalar dış bakıda görülemez. 
+Kanama, eğer deriden vücut dışına oluyorsa "dış kanama" olarak sınıflandırılır ancak bu tabir sıkça kullanılmaz. Çünkü her ne kadar teknik olarak hemoraj kanın damar-dışı(na) -"extravasküler"- sızışı veya akışı anlamına gelse de, yaygın şekilde özellikle ağır dış kanamaları tanımlarken kullanır. 
+Temelde 2 çeşit kanama vardır.Bunlar "hemorragia per rectia"' ve "hemorragia per diapedesin" 'dir.Hemorragia per rectia tipik olarak damar zedelenmesinden ileri gelen kanamalardır.Hemorragia per diapedesin ise damar permeabilitesinin (geçirgenliğinin) aşırı artmasından dolayı görülen kanama şeklidir.Örneğin Antrax'lı hastalarda doğal deliklerden kan gelmesi bir diapedesin kanamadır.
+Kanama tipleri.
+Temelde 4 çeşit kanama vardır.Bunlar; arteriyel kanama, venöz kanama, kapiller kanama ve parankimatöz kanamadır.
+Arteriyel kanamalar: Kalpten kanın pompalanması etkisinden dolayı arteriyel kanamalar aralıklı fışkırma tarzındadır. Kan daha açık renklidir.
+Venöz kanamalar: Sürekli ve yavaş akıntı şeklindedir. Akan kan arteriyel kanamaya göre daha koyu renktedir.
+Kapiller kanamalar: Sızıntı şeklinde görülürler.
+Parankimatöz kanamalar: Parankimatöz organlarda görülen bu kanama şekli tıpkı bir süngerin sıkılması tarzında görülür. Kanama odağını tespit etmek mümkün değildir.
+Özel kanama tipleri.
+Hemoptizi: Haemapthysis, akciğerlerden ağız veya burun aracılığıyla köpüklü kan gelmesi.
+Hematemez: Haemathemesis, kusma ile kan çıkarılması.
+Hematokezya: Haematochesia, dışkıda kan gelmesi.
+Rektoraji: Rectorrhagie, rektumdan taze kan gelmesi. 
+Epistaksis: Epyhstaxie, burun kanaması.
+Kanamanın durdurulması.
+Genel olarak kanamalar 2 şekilde durdurulur.Bunlar mekanik olarak durdurma ve ilaçlarla durdurma.
+Mekanik olarak durdurmalar başlıca; burma(torsion), garo uygulama, Esmarch yöntemi, yabancı cisimle tıkama vb'dir.
+Vücudumuzda yaklaşık 4-6 litre kan bulunmaktadır. Herhangi bir nedenle kanın damar dışına çıkmasına kanama denir. Kanama acil bir durumdur. Vücuttaki kan kaybı 1-1,5 litreyi geçerse kayıp kolay kolay geri döndürülemez. Hasta için öldürücü sonuçlar oluşabilir.
+Kanın vücut dışına aktığı kanamalara dış kanama denir. Dış kanamalar kanayan damara göre; atardamar, toplardamar ve kılcal damar kanamaları ve parankimatöz kanamalar olarak dörde ayrılır.Arteriyel kanamalar, kan basıncı ve kalp atımı sebebiyle fışkırma tarzında gözlenirken, venöz kanamalar düzgün akıcı bir şekilde olur.Kapiller kanamalar sızma şeklinde, parankimatöz kanamalar ise süngerden sıkılırmışçasına olur. Vücudun iç kısımlarında, boşluklarda olan kanamalara ise iç kanama denir.
+Kanamanın olay yerinde durdurulmaya çalışılması hasta için hayati önem taşır. Acil olarak kanı durdurma, konuyu bilen herkes tarafından yapılabilir. İlk yardım uygulaması yapıldıktan sonra hasta en yakın sağlık kuruluşuna götürülmelidir.
+Acil durumlarda kanı durdurmak için şu yöntemler uygulanabilir:
+
+</TEXT>
+</DOC>
+

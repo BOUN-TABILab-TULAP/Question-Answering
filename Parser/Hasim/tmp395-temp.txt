@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tarımda tarım+Noun+A3sg+Pnon+Loc
+verim veri+Noun+A3sg+P1sg+Nom verim+Noun+A3sg+Pnon+Nom
+artışını art+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Acc art+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Acc
+sağlayan sağla+Verb+Pos^DB+Adj+PresPart
+teknolojinin teknoloji+Noun+A3sg+Pnon+Gen teknoloji+Noun+A3sg+P2sg+Gen
+adı ad+Noun+A3sg+P3sg+Nom ad+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

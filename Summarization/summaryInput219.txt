@@ -1,0 +1,118 @@
+Question: Lejant ne demektir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Lejant</DOCTITLE>
+<TEXT>
+
+Lejant, haritada kullanılan özel işaretlerin ne anlama geldiğini gösteren bölümdür. Her haritanın kullanım amacına göre farklı işaretler kullanılır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Haritalarla Yolculuk (EBA)</DOCTITLE>
+<TEXT>
+
+Haritayı Oluşturan Unsurlar
+Bir çizimin harita olabilmesi için birtakım özelliklere sahip olması gerekir. Bu özellikleri birlikte öğrenelim.
+Ölçek
+Karadeniz’i bir A4 kâğıdı üzerinde nasıl gösterebilirsiniz? Karadeniz’i gerçek büyüklüğüyle göstermeniz mümkün olabilir mi? Aynı büyüklükte kâğıdı bulmanız mümkün olmadığı için Karadeniz’in şeklini küçültmeniz gerekir. İşte bu küçültme oranına ölçek adı verilir. Ölçek, kesir ve çizgi ölçek olarak ikiye ayrılır.
+Kesir ölçek küçültmenin, 1: 5.000, 1: 200.000 gibi kesirlerle ifade edildiği ölçek türüdür.
+Çizgi ölçek, haritanın küçültme oranının bir çizgi üzerinde gösterilmesidir.
+Ölçek Değiştikçe Haritalarda Meler Değişir?
+Ölçek küçüldükçe haritalarda da ayrıntının azaldığı görülmektedir.
+Haritalarda kullanımı kolaylaştırmak amacıyla yön oku kullanılır.
+Haritalarda dağılışı gösterilen olayların tamamının yazı ile ifade edilmesi oldukça güçtür. Bu amaçla haritadaki bilgiler bazı sembollerle gösterilir. Sembollerin yer aldığı bu bölüme harita anahtarı (lejant) adı verilir.
+HARİTALARDA UZUNLUK VE ALAN HESAPLAMALARI
+Ölçeklerden yararlanarak uzunluk, alan ve eğim hesaplamaları yapılır.
+a. Uzunluk Hesaplamaları
+Haritalardan yararlanarak uzunluk hesaplamaları yapılabilir. Bunu aşağıdaki işlemi yaparak görelim.
+Soru: A-B kentleri arasındaki uzunluk 1:200.000 ölçekli bir haritada 6 cm olarak gösterilmiştir. Bu iki kent arasındaki gerçek uzaklık kaç km’dir?
+Çözüm: A-B kentleri arasındaki uzaklık, ölçeğin paydasında görüldüğü gibi 200.000 defa küçültüldüğüne göre gerçek uzaklığı bulmak için A-B kentleri arasındaki harita uzunluğunu ölçeğin paydası ile çarparız.
+Gerçek Uzaklık (GU)= Harita Uzunluğu x Ölçeğin Paydası
+GU= 6 cm x 200.000 cm
+GU= 1.200.000 cm (Soruda, GU hangi birim olarak istenmişse ölçeğin paydası o birime çevrilir. Örneğin yukarıdaki soruda GU km olarak istendiği için ölçeğin paydasından 5 sıfır atılarak sonuç km olarak elde edilir.)
+GU= 1.200.000 cm değil GU= 12 km
+b. Alan Hesaplamaları
+Şekilde kare biçimindeki bir alan 1: 200.000 oranında küçültülerek gösterilmiştir. Bu alanın gerçekte ne kadar olduğunu bulmak için haritadaki alanı, ölçeğin paydasının karesi ile çarparız.
+Gerçek Alan = Harita Alanı x Ölçeğin Paydasının Karesi GA = 16 x (200.000)2 GA = 16x40.000.000.000
+GA = 640.000.000.000 değil (Soruda birim alan km2 olarak istendiği için cm2 olarak elde edilen sonuçtan 10 sıfır atılarak sonuç km2ye çevrilir.)
+GA = 64 km2
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

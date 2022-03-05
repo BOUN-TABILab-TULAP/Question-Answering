@@ -1,0 +1,61 @@
+Örneklem büyüklüğü belirleme
+Örnek büyüklüğü belirleme gözlem sayısını seçme eylemidir veya istatistiksel numunede dahil çoğaltır. örneklem büyüklüğü hedefi örnekten nüfusu hakkında çıkarımlar yapmak olduğu herhangi bir deneysel çalışmanın önemli bir özelliğidir. Uygulamada, bir çalışmada kullanılan örneklem büyüklüğü, veri toplama pahasına, ve yeterli istatistiksel güce sahip ihtiyacına göre belirlenir. Karmaşık çalışmalarda Çalışmaya katılan birkaç farklı örnek büyüklükleri olabilir: Örneğin, tabakalı örnekleme kapsayan bir anket örnekleme her nüfus için farklı numune boyutları olacaktır. Bir nüfus sayımında, veriler dolayısıyla örneklem büyüklüğü nüfus büyüklüğüne eşittir Evren üzerinde toplanır. Bir çalışmada, farklı tedavi grupları ayrılabilir deney tasarımı, içinde, her bir grup için farklı numune büyüklükleri söz konusu olabilir.
+Numune büyüklükleri farklı şekillerde seçilebilir:
+Numuneler örnekleme (istatistik) tartışılan ve araştırma veri toplama, toplanan nasıl.
+Giriş.
+Bilinmeyen parametreleri tahmin edilirken büyük örnek boyutları genellikle artmış hassasiyet yol açar. Biz bir patojen bulaşmış balık belirli türlerinin oranını öğrenmek istiyorsanız biz örneklenmiş ve 100 balık yerine 200 incelendiğinde Örneğin, biz bu oran daha doğru bir tahmin genellikle olurdu. Matematiksel istatistik birkaç temel gerçekler, büyük sayılar kanunu ve merkezi limit teoremi de dahil olmak üzere, bu fenomeni açıklamak.
+Bazı durumlarda, büyük örneklem büyüklükleri için doğruluk artışı minimal, hatta varolmayan. Bu veriler sistematik hatalar varlığında veya bağımlılığa neden olabilir, ya da veri ağır kuyruklu dağıtım izleyin.
+Örnek boyutları ortaya çıkan tahminlere kalitesine göre değerlendirilecektir. Bir kısmı tahmin edilmektedir, örneğin, bir% 95 güven aralığı az 0.06 birim genişliğinde olması isteyebilirler. Alternatif olarak, örneklem büyüklüğü, bir hipotez testinin gücü dayalı değerlendirilebilir. Biz erkekler arasındaki bu aday desteği ile kadınlar arasında belli bir siyasi adaya destek karşılaştırdığınız Örneğin, biz 0.04 birim destek seviyelerinde bir fark tespit% 80 güce sahip isteyebilirsiniz.
+Oranları ve araçları tahmin.
+Nispeten basit bir durum oranının tahmin olduğunu. Örneğin, en az 65 yaşında bir toplumda yaşayanların oranını tahmin etmek isteyebilirsiniz.
+Bir oran tahmincisi "X" 'olumlu' gözlem sayısını ("n" en az 65 yaşında olan örneklenen kişiden halkının sayısı örneğin) 'dir FORMULA_1 vardır. Gözlemler bağımsız olduğunda, bu tahmincisi bir (ölçekli) binom dağılıma sahiptir (ve bir Bernoulli dağılımdan da verilerin örnek ortalamasıdır). Bu dağılım maksimum sapma doğru bir parametre, "p" = 0.5 olduğunda meydana gelir, 0.25 *, "n" dir. "P" bilinmiyor çünkü Uygulamada, maksimum varyans genellikle örneklem büyüklüğü değerlendirmeler için kullanılır.
+Yeterince büyük "n" için, formula_2 dağılımı yakından normal bir dağılım ile tahmin edilecektir. Bu yaklaşımı kullanarak, bu dağıtımın olasılık yaklaşık% 95 ortalamanın 2 standart sapma içinde yatıyor gösterilebilir. Kullanma
+formun bir aralık
+Gerçek oranı için% 95 güven aralığı oluşturacak. Bu aralık "W" birimleri geniş, denklemin daha fazla olması gerekiyorsa
+"n", sonuçta "n" için çözülebilir = 4 / "W" 2 = 1 / "B" "B" ± B kapsamında, yani tahmini genellikle olarak verilir tahmine, üzerinde bağlı hata "2 ". Yani, "B" =% 10 için tek "B" için "B" =% 5 bir ihtiyacı "n" = 400 "n" = 100, gerektirir =% 3 şartı için "n" = 1.000 iken yaklaşır "B" = 1% "n" = 10000 büyüklüğündeki bir numune gereklidir. Bu numaralar kamuoyu yoklamalarında ve diğer örnek araştırmaları haberlere sıklıkla cinsindendir.
+Araçların tahmini.
+Bir kısmı ortalama bir özel bir durumdur. 2 Her veri değeri varyans vardır boyutu "n", bağımsız ve aynı dağıtılmış (iid) numune kullanılarak "σ" demek nüfusu tahmin yaparken, örneğin standart hata demek olduğunu:
+Bu ifade tahmini Örneklem büyüklüğü arttıkça daha hassas hale niceliksel açıklamaktadır. Merkezi limit teoremini kullanarak bir normal dağılım biçiminin yaklaşık% 95 güven aralığı verimleri ile örnek ortalaması yaklaşma haklı
+Biz "W" birimleri genişliğinde bir güven aralığını sahip olmak istiyorsanız, biz çözecek
+"n", örneklem büyüklüğü verimli "n" = 16 "σ2 / W2 için.
+Örneğin, bir ilaç altı adet geniş bir güven aralığı ile bir deneğin kan basıncını düşürür hangi miktarını tahmin ilgilendi ve biz nüfusta kan basıncı standart sapması, sonra gerekli numune 15 olduğunu biliyorsanız boyutu 100 olduğunu.
+Hipotez testleri için gerekli örneklem büyüklükleri.
+Istatistikçiler karşılaştığı yaygın bir sorun, önceden belirlenmiş bir Tip I hata oranı α verilen test için belirli bir güç elde etmek için gerekli örneklem büyüklüğü, hesaplıyor. Aşağıdaki gibi bu kümülatif dağılım fonksiyonu ile daha genel önceden belirlenmiş Mead kaynak denklemi ile belirli değerleri tablolar, veya, ile tahmin edilebilir:
+Tablolar.
+Sağda gösterilen tablo, deneme bireylerin sayısı iki kez, yani diğer bir deyişle, eşit büyüklükte olan bir deney grubu örnek büyüklüğüne ve bir kontrol grubu tahmin etmek için, iki numuneli t testi kullanılabilir numara verilir ve istenilen anlamlılık düzeyi 0.05 olduğunu. kullanılan parametreler şunlardır:
+Mead kaynak denklemi.
+Mead kaynak denklemi genellikle, yanı sıra diğer birçok laboratuvar deneylerinde laboratuvar hayvanlarının örneklem büyüklüğü tahmin etmek için kullanılır. Bu örneklem büyüklüğü tahmin diğer yöntemleri kullanarak kadar doğru olabilir, fakat bu tür beklenen standart sapma ya da gruplar arasındaki değerler beklenen farklılıklar gibi parametreler bilinmeyen veya tahmin etmek çok zor olan uygun örneklem büyüklüğü ne bir ipucu veriyor olabilir.
+Denklemde tüm parametreler, aslında kendi konseptleri sayısı serbestlik derecesi vardır ve bu nedenle, bunların sayısı denkleme sokulmadan önce 1 ile çıkarılır.
+denklemi şöyledir:
+burada:
+Bir çalışmada laboratuvar hayvanları kullanılarak Örneğin, başka tabakalaşma ("B" olmadan, 32 hayvan ("N" = 31) toplam yapım, grup başına sekiz hayvanlarla dört tedavi grubunda ("T" = 3) ile planlanmıştır = 0), ardından "E" biraz büyük olabilir örneklem büyüklüğü belirten 20 kesim üzerinde olan 28 eşit olur ve grup başına altı hayvan daha uygun olabilir.
+Kümülatif dağılım fonksiyonu ile.
+Let "Xi", "i" = 1, 2, ..., "n" bilinmeyen ortalama μ ve bilinen varyans σ2 olan bir normal dağılım alınan bağımsız gözlemler olacak. Bize iki hipotez, bir hipotezini düşünelim:
+ve alternatif bir hipotez:
+Bazı 'küçük anlamlı fark' için *> 0 μ. Bu bir fark gözlemleyerek umurumda olan en küçük değerdir. Biz isterseniz Şimdi, (1), en az 1-β zaman bir olasılık ile "H" 0 reddetmek
+"H" gerçek (yani 1-β bir güç), ve (2) olasılık α ile "H" 0 doğruysa, o zaman şu ihtiyacımız var "H" 0 reddetme:
+Eğer "z" α standart normal dağılımın üst α puanlık sonra ise
+ve bu yüzden
+Bir karar kuralı olan tatmin (2). (Not: Bu bir 1-kuyruklu testtir)
+Şimdi bu bir olasılık en az 1-β ile gerçekleşmesi için dilek
+"H" a doğrudur. Bu durumda, bizim örnek ortalama * ortalaması μ olan bir normal dağılım gelecektir. Bu nedenle ihtiyaç
+Dikkatli manipülasyon yoluyla, bu zaman ne gösterilebilir
+Nerede formula_16 normal kümülatif dağılım fonksiyonudur.
+Tabakalı örneklem büyüklüğü.
+Böyle tabakalı örnekleme gibi daha karmaşık örnekleme teknikleri ile, örnek genellikle alt numunelere ayrılır edilebilir. "H" gibi alt örnekler ("H" farklı katmanlardan) varsa Tipik olarak, o zaman her biri bir örneklem büyüklüğü "nh", "h" = 1, 2, ..., "H" olacaktır. Bu "nh" "n" 1 + "n" 2 + ... + "n" "H" = "n" (yani o toplam örneklem büyüklüğü subfertilitesi toplamı verilir bu kurala uymalıdır örnek boyutu). Bu "nh" seçilmesi optimum (örneğin) Neyman optimum dağılımını kullanarak, çeşitli şekillerde yapılabilir.
+Kısmen tesadüfi olmayan yöntemler kullanmak, ya da ayrı ayrı tabakalar incelemek için, numune tahminlerinin sapmaları azaltmak için: tabakalı örnekleme kullanmak için pek çok neden vardır.
+Yararlı bir, kısmen rastgele olmayan bir yöntem, örneklem kümeleri seyahat masraflarından tasarruf etmek değil, nerede nerede kolayca erişilebilir bireyleri örnek olurdu, ama.
+Genel olarak, "H" tabakası için, bir önemi belirlenmiş numune ortalamasıdır
+ile
+ağırlıklar, formula_19 sık sık, her zaman olmamakla birlikte, oranlarını temsil eder
+tabakaları ve formula_20 nüfus elemanları. Sabit bir örnek için
+boyutu, yani, bir formula_21
+Her tabakadan örnekleme oranı yapılırsa hangi minimum yapılabilir
+formula_23, formula_24 ve formula_25 sürekli şekilde formula_26: her tabakadan standart sapma ile orantılı.
+Bir "Optimum tahsisi" tabakaları içinde zaman örnekleme oranları ulaşıldığında
+tabakalarında içinde standart sapma ile doğru orantılıdır yapılır
+ve öğe başına örnekleme maliyeti kare kökü ile ters orantılı
+tabakaları içinde, formula_27:
+burada formula_29, veya daha genel olarak, zaman sabit bir şekilde formula_26 olduğu
+Örneklem büyüklüğü hesaplamaları Yazılım.
+Güç ve Örneklem Büyüklüğü Hesapları için Yazılımı bakın.

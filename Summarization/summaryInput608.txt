@@ -1,0 +1,237 @@
+Question: Kollenkima hücreleri bitkinin hangi kısımlarında bulunur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Temel doku</DOCTITLE>
+<TEXT>
+
+Temel doku, bitki bünyesinin büyük bir kısmını kaplayan sürekli dokudur. Temel doku, hücre çeperlerinin özelliklerine göre üç gruba ayrılır.
+Parankima.
+Parankima hücreleri ince çepere sahiptir. Bitkinin çevreye uyumunu sağlamak için her türlü değişime uğrayabilirler. Besin maddesi bakımından zengin özsuyu ile dolu kofullar içerirler. Parankima dokusu ihtiyaç durumunda sekonder meristeme dönüşür. Görevlerine göre dört çeşittir:
+Kollenkima.
+Bitkiyi eğilme, bükülme ve çarpmaya karşı koruyan, mekanik destek sağlayan sert hücrelerden oluşan dokudur.
+Kollenkima hücrelerinin parankimadan ayrılan yönü hücre çeperlerinin çok kalın olmasıdır. Bu kalınlaşmanın sebebi çeperde selüloz ve pektin birikimidir.
+Sklerenkima.
+Sklerankima hücreleri bitkiyi dayanıklı ve gerilmeye karşı dirençli hale getirir. Bu dokuyu meydana getiren hücrelerin çeperleri selüloz, lignin gibi maddelerin birikmesiyle kalınlaşmıştır.
+Bu hücreler başlangıçta canlı olmalarına rağmen çeperin kalınlaşması yüzünden ölür. Sklerenkima hücreleri, taş Hücreleri ve lifler olmak üzere iki çeşittir:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Plastit</DOCTITLE>
+<TEXT>
+
+Plastitler alg ve bitki hücrelerinde bulunan çeşitli görevleri olan temel organellerdir. Genç hücrelerde renksiz olan plastitler (lökoplast), hücre ile birlikte gelişerek, hücrenin görevine uygun şekil ve renk kazanır. Bulundurdukları pigment (renk maddesi) ve görevlerine göre birbirine dönüşebilen üç çeşit plastit vardır:
+Kloroplast.
+Kloroplast, fotosentezin gerçekleştiği sitoplazmik organeldir.
+Çift katmanlı zarla çevrilidir. İç katman fotosentez pigmentleri enzimleriyle klorofil içeren yassı keseciklere dönüşmüştür. DNA içeren kloroplastlar, bağımsız işlev gören ve kendi kendine çoğalan bir yapıdır.
+Kloroplastta fotosentezi gerçekleştirmek üzere hazırlanmış tillakoidler, iç zar ve dış zar, stromalar, enzimler, ribozom, DNA gibi oluşumlar bulunur. Bu oluşumlar hem yapısal hem de işlevsel olarak birbirlerine bağlıdırlar ve her birinin kendi bünyesinde gerçekleştirdiği son derece önemli işlemler vardır. Örneğin kloroplastın dış zarı, kloroplasta madde giriş-çıkışını kontrol eder. İç zar sistemi ise "tillakoid" olarak adlandırılan yapıları içermektedir. Disklere benzeyen tillakoid bölümünde pigment (klorofil) molekülleri ve fotosentez için gerekli olan bazı enzimler yer alır. Tillakoidler "grana" adı verilen kümeler meydana getirerek, güneş ışığının en fazla miktarda emilmesini sağlarlar. Bu da bitkinin daha fazla ışık alması ve daha fazla fotosentez yapabilmesi demektir.
+Bunlardan başka kloroplastlarda "stroma" adı verilen ve içinde DNA, RNA, ribozomlar ve fotosentez için gerekli olan enzimleri barındıran bir de sıvı bulunur. Kloroplastlar sahip oldukları bu DNA ve ribozomlarla hem kendilerini çoğaltırlar, hem de bazı proteinlerin üretimini gerçekleştirirler
+Lökoplast.
+Renksizdir.Bitkinin kök,toprak altı gövdesi (rizom) ve tohumları gibi depo organlarında bulunur. Besin depolar. Patates gibi kökte, yumruda ya da bitkinin renksiz kısımlarında lökoplast renksizdir, ama gün ışığına çıkınca bitkinin bulunduğu yerdeki rengini değiştirir.
+Kromoplast.
+Bitkilerin çiçeğine renk verir. Çiçeklerdeki kırmızı, sarı, turuncu, hatta leylak gibi renklerin oluşmasını sağlar. Havuca turuncu renk veren karoten, domatese kırmızı renk veren likopin, limona sarı renk veren ksantofil, bitkiye yeşil rengi veren ise klorofildir. Kısaca kromoplast bitkiye sarı, kırmızı, turuncu gibi renkleri verir. Bitkilerin bazı renkleri ise koful öz suyunun asidik ya da bazik oluşuna göre renk değiştiren "antokyan" tarafından oluşturulur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Lökoplast</DOCTITLE>
+<TEXT>
+
+Lökoplastlar, renksiz plastitlerdir. Bitkilerin ışık görmeyen kısımlarında (kök,yumru vb.) bulunurlar. Nişasta depolarlar. Fotosentez sonucu kloroplasta dönüşür ve üretilen glikoz, iletim sistemi yoluyla depo yeri olan lökoplastlara gelir. Burada glikoz molekülleri birleşerek nişasta molekülleri meydana gelir. Nişastanın sentezi esnasında,su açığa çıkar. "n" sayıda glikoz molekülünün birleşmesi esnasında (n-1) sayıda H2O molekülü açığa çıkar. Nişasta taneciklerinin şekil ve büyüklükleri bitkinin çeşidine göre farklılık gösterir.
+Lökoplastlar genellikle bitkinin ışık görmeyen kısmında görülen ve renksiz olan bu plastidler nişasta içerdiklerinden birçok araştırıcı tarafından "amiloplast" olarak da adlandırılır. Fakat bir kısım lökoplast nişasta içermez. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Patates</DOCTITLE>
+<TEXT>
+
+Patates ("Solanum tuberosum"), patlıcangiller (Solanaceae) familyasından yumruları yenen otsu bitki türü. Boyu 70-80 cm’ye varan, beyazımsı-pembemsi çiçekler açan, yumruları hariç zehirli otsu bir bitkidir. 
+Genel özellikleri.
+Bitkinin toprak altında kalan yumruları “patates” olarak bilinir. Bu yumrular nişasta bakımından zengin olduğundan önemli bir besin maddesidir. Patateste nişastadan başka belli bir oranda protein de bulunur; nişasta %20, protein %2'dir. Besin değeri 90 kaloridir. Bitkinin toprak üst kısımlarında zehirli alkaloidler bulunmasına karşılık yumruları zehirli değildir. Ancak çimlenmiş patateslerde de bu alkoloitler teşekkül ettiğinden zehirlenmelere sebebiyet vermektedir. Patates yumrularında bulunan nişasta taneleri yumurta veya armut şeklinde olup, 70-100 mikron büyüklüğünde tanelerden ibarettir. Patates dış kabuk rengine göre sarı ile kırmızı, etine göre beyaz ve sarı olarak ayrılır. Patates tohumuna milva denir. Özellikle Niğde ilinde yetiştiriciliği yapılır.
+Kullanıldığı yerler.
+Şeker hastalarına faydalıdır. Susuzluğu giderir. Mide ve onikiparmak bağırsağı ülserinde yararlıdır. Karaciğer şişliğini de giderir. Bağırsak solucanlarının düşürülmesine yardımcı olur. Damar şişliğinde faydalıdır. Sert bir şey yutulduğu zaman yabancı maddenin vücuda zarar vermeden çıkartılmasını sağlar. Patates yemek basur memesi, yanık ve çıbanların ağrılarını geçirir. Ana vatanı Amerika'dır.
+Patates türleri.
+Patateslerin değişik türleri bulunmaktadır. Bunlardan bazıları şu şekilde sıralanabilir:
+Granula,Esmeralda, Selma,Elizabeth,Jigglypuff vs. Almanya'da patatesler, market ya da pazarda satışa sunulurken cinsi ve özellikleri etikette belirtilir. Ayrıca en lezzetli olan bu iki tiptir. Bir tanesinin iç kısmı parlaktır ve hoş bir koku ve tada sahiptir, ayrıca, dağılmadan ve çabuk pişer.
+Tarihçe.
+Günümüzde çağdaş botanistler patatesin anavatanının Güney Amerika olduğu konusunda uzlaşmışlardır. Öyle ki patates And dağları'nda yabani türler olarak belirmiş ve buradan Kolombiya ve Venezuela'ya oradan da Şili ve kuzey Arjantin'e gelmiştir. En sonunda tüm türler Peru'da ekilmeye başlamıştır. Patates ekimine dair günümüzdeki tek kanıt yaklaşık 7,000 yıl önce Peru'da gerçekleşmiş olmasıdır.
+Patatesi Avrupa'ya ilk kez İspanya'lı bir fatih olan Pedro Cieza de León getirmiştir. İsmini Quechua dilinden alan patates, aynı yıllarda İspanya'da ekilmeye başlandı.
+Patatesin ekimi 1540'larda Fransa'da başladı. Patatesi 1590'da ilk olarak botanik literatürüne geçiren İsviçreli botanist Gaspard Bauhin'dir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotosentez</DOCTITLE>
+<TEXT>
+
+Fotosentez ya da ışılbileşim klorofil (kromozomlarda) taşıyan canlılarda ışık enerjisi kullanılarak organik bileşiklerin üretilmesi olayıdır. Bu yolla besin üreten canlıların tümüne fotosentetik organizmalar denir ve bunların büyük bir çoğunluğunu bitkiler oluştururlar. 
+Fotosentetik organizmalar, ışık enerjisinden yararlanarak enerjiyi depolarlar ve organik bileşikler üretebilirler. Bitkiler de diğer canlılar gibi yaşamsal etkinlikleri için gerekli enerjiyi organik maddelerin kimyasal enerjisinden sağlarlar. Bunun için de güneş ışığını kullanarak havanın karbondioksitini indirgeyerek organik besinlerini sentez ederler. Bu işlem CO2'in indirgenmesi ve ancak güneş enerjisiyle gerçekleştiriliğinden "fotosentez" olarak anılır. Bu yolla güneşin ışık enerjisi kimyasal enerjiye dönüştürülür ve organik madde sentezi yapılmış olur.
+Yeryüzündeki her canlı, metabolizma etkinlikleri için gerekli olan enerjiyi temelde üç yoldan sağlar. Fotosentez bir özümleme faaliyetidir ve bu yüzden özümleme ya da asimilasyon gibi genel isimlerle de anılır.
+Yapraklar, bitkilerin besin üretim merkezidir. Bitki yapraklarını oluşturan hücrelerin içinde kloroplast denilen, çok küçük yapılar vardır. Bu yapıların içindeki yeşil renkli boyar madde (pigment) olan klorofil maddesinin görevi ışık yakalamaktır. Kloroplastlar güneş ışınlarını bir panel gibi toplayıp, kollektör gibi enerjiye dönüştürerek besin üretirler. Üretilen besin yapraklardan, bitkinin beslenmesi gereken diğer bölümlerine götürülür. 
+Havadaki karbondioksit, güneş enerjisi kullanılarak, nişasta ve diğer yüksek enerjili karbonhidratlara dönüştürülür. Karbon kullanıldıktan sonra ortaya çıkan oksijen ise havaya bırakılır. Bitki daha sonra besine ihtiyaç duyduğunda bu karbonhidratlarda depo
+enerjiyi kullanır. Bu bitkilerle beslenen canlılar da bitkide bulunan karbonhidratlardan enerji ihtiyaçlarını karşılarlar. 
+Fotosentezle her yıl yaklaşık olarak 200-500 milyar ton CO2 dönüşüme uğratılmaktadır. Bu nedenle fotosentezin önemi yalnız kalitatif değil ayrıca kantitafitir. Fotosentezle havanın karbondioksiti ve su, karbonhidratlara dönüştürülür. Karbonhidratlar C elementine ek olarak H ve O2 elementlerini de içeren organik besin taşlarıdır. 
+Fotosentez olayının meydana gelebilmesi için gerekli olan maddeler, ışık, klorofil, karbondioksit, canlı organizmadır.
+Tarihsel süreç.
+Fotosentezin bilim tarihindeki gelişimi şöyledir:
+Aristo, bitkilerin yeşillenmesi için güneş ışığının gerekli olduğunu göstermiştir. 
+Van Helmont 17. yüzyılda, bitkisel materyal sentezi ile ilk araştırmaları yapmıştır. Araştırmacı 2,5 kg. ağırlığındaki bir söğüt fidanını içinde 100 kg. toprak bulunan bir saksıya dikmiş ve bunu 5 yıl süresince sadece yağmur suyuyla sulamıştır. Süre sonunda fidan 85 kg'lık bir ağaç olmuştur. deneme sonunda toprak kuru ağırlığı 99,994 kg. olarak belirlenmiştir. Aradaki 50 gramlık fark deney hatası olarak kabul edilmiş ve bitki ağırlığında oluşan 82,5 kg'lık madde artışının yalnız sudan kaynaklanndığı kanısına varmıştır. 
+İlk kez 1771 yılında Joseph Priestley, bitkiler tarafından dışarı verilen oksijenin hayvanlar tarafından kirletilen havayı temizlediği fikrini ortaya atmıştır.
+1779'da Jan Ingenhousz havanın temizlenmesinin yeşil bitkiler tarafından ışıkta yapıldığını açıklamıştır. Fotosentezde klorofilin önemini vurgulamıştır. 
+1782 yılında Senebier yeşil bitkilerin havaya O2 vermesinin CO2 almalarına ve bitkiler tarafından meydana getirilen O2 miktarının tamamen ortamda varolan CO2 miktarına bağlı olduğunu göstermiştir. 
+1804 yılında De Saussure fotosentez esnasında eşit hacimde CO2 ve O2 alış verişi olduğu, buna benzer eşit hacimde bir gaz alış verişinin solunum esnasında da meydana geldiğini ileri sürmüştür. Bitkilerde biri ışıkta diğeri karanlıkta gelişen iki tip gaz alışverişi olduğunu, ışıkta CO2 alınımı ve O2 açığa çıkmasının ancak bitkinin yeşil kısımlarında olabildiğini göstermiştir. Ayrıca fotosentezde suyun rolüne dikkat çekmiştir. 
+Liebig 1840 yılında, CO2'in bitkiler için C kaynağı olduğunu vurgulamıştır.
+1842 yılında Robert Mayer, ışığın enerji içerdiğini, canlılar tarafından kullanılan enerji kaynağının güneş ışığı olduğunu ve fotosentezde bitkinin yakaladığı güneş enerjisini kimyasal enerjiye dönüştürdüğünü belirtmiştir. 
+Engelman 1880 yılında fotosentezde ortama O2 verilmesinin kloroplastlarca sağlandığını ortaya koymuştur. 
+Blackman 1905'de fotosentezin yalnızca fotokimyasal bir olay değil aynı zamanda biyokimyasal bir olay olduğunu ileri sürerek, olayın ışık gerektirmeyen bir karanlık reaksiyon safhası olduğunu da vurgulamıştır. 
+Willstater ve Stoll 1918 yılında CO2, H2O ve ışık altında meydana gelen ilk ürünün CH2O ve O2 olduğunu ileri sürmüşlerdir. 
+Robert Hill 1937 yılında fotosentezin ışık reaksiyonu üğzerinde çalışarak oratmda ışık, su ve uygun bir hidrojen yakalayıcısı bulunduğunda, izole kloroplastların bile ortamda CO2 olmadan O2 oluşturabildiklerini görmüştür. Ayrıca yapraklarda doğal bir hidrojen yakalayıcısı maddenin bulunduğunu ortaya koymuştur. Bugünkü bilgilere göre bu maddeler Fereodoksin ve NADP+'dır. Hill reaksiyonu adını verdiği bir denklemle olayı açıklamıştır. 
+Reaksiyon, fotosentezde O2'nin ışık reaksiyonlarında oluştuğu ve bunun kökeninin CO2 değilde H2O olduğunu göstermesi yönünden önemlidir. 
+Fotosentezin karanlık reaksiyonları üzerinde çalışan (1954-1961) Calvin ve arkadaşları ise olaydaki C metabolizmasını tüm ayrıntılarıyla açıklamışlardır. Bunun üzerine Calvin'e Nobel Ödülü verilmiştir. 
+1966'da Hatch ve Slack, bazı bitkilerde fotosentezin karanlık reaksiyonlarında oluşan ilk kararlı ürünün 3C değil de 4C olduğunu bulmuşlar ve söz konusu bitkilerin tamamen farklı bir C metabolizması olduğunu göstermişlerdir. 
+Yirminci yüzyılın başlarında tek hücreli yeşil su yosunlarında ("Chlorella vulgaris") fotosentezle ilgili araştırmalar Warburg tarafından yapılmıştır.
+Önemi.
+Fotosentez, ışık enerjisini kimyasal bağ enerjisine dönüştürerek ilk basamaktaki organik madde üretimini sağlayan mekanizmadır. 
+Bitkiler besin zincirinin ilk halkasını oluşturduğundan, diğer tüm canlıların var olabilmesi ve yaşamlarını sürdürebilmeleri için gerekli enerji fotosentez olayı sırasında elde edilir.
+Fotosentezle havanın CO2 ve O2 dengesi korunmaktadır.
+Fotosenteze ilişkin bulgular, her yeşil bitkinin organik madde üreten bir fabrika olduğu, bu süreçte güneş enerjisini kullanan aygıtların kloroplastlar olduğunu göstermiştir. Yeryüzüne ulaşan güneş ışınlarının yalnızca yarısı fotosentezde kullanılmaktadır. Bu konuda yapılan araştırmaların dünya nüfusunun gıda ihtiyaçları yönünden önemli olduğu bilinmektedir.
+Pigmentler.
+Fotosentezde en önemli olgu güneş enerjisini yakalayıp onu kimyasal bağ enerjisine dönüştürebilme yeteneğidir. Bu işlevi bitkilerin kloroplastlarında veya kromatoforlarında bulunan pigmentler yapmaktadır. Bunların başlıcaları şöyledir:
+Tepkimeler.
+Işığa bağımlı tepkimeler.
+Işığa bağımlı tepkimeler, canlının ışıklı ortamda ışığa bağımsız tepkimeler için gereken ATP ve NADPH'yi ürettiği bir dizi tepkime zinciridir. Bu tepkimeler tilakoit zar üzerinde gerçekleşir. Işığı soğuran klorofil molekülünden serbest kalan elektronlar elektron taşıma sistemi (ETS) elemanlarından geçer. Bu sırada ATP ve NADPH çıkışı olur.
+Klorofile sahip canlıların ADP ve inorganik fosfat (Pi) kullanarak ATP üretmesine fotofosforilasyon denir. Bu olay devirli fotofosforilasyon ve devirsiz fotofosforilasyon olmak üzere iki yolla gerçekleşir. Devirsiz fotofosforilasyonda, devirliden farklı olarak su, fotolize uğrar. Tepkime şu şekildedir.
+Bu tepkimeler sonucu oluşan O2'nin bir kısmı mitokondrilere gönderilir, artanı ise atmosfere verilir. Oluşan ATP ve NADPH molekülleri stroma sıvısına girer, artık canlı ışıktan bağımsız tepkimeleri gerçekleştirmeye hazırdır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kaşık otu</DOCTITLE>
+<TEXT>
+
+Kaşık otu ("Cochlearia"), turpgiller (Brassicaceae) familyasından toprak yüzeyinde yatık olarak gelişen, daha çok yol kenarlarında rastlanan bir veya çok yıllık ot türü. Çiçekler küçük olup, beyazımsı-pembemsi renklerde ve 7-10'u bir arada yaprakların koltuğunda yoğun kümeler teşkil ederler. Türkiye'de yabani olarak 7 türü yetişmektedir.
+Kullanımı.
+Bitkinin toprak üstü kısımlarında saponin, herniarin vardır. İdrar söktürücü olarak böbrek taşlarına karşı kullanılır.
+Türler.
+<br clear="all">
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sığırkuyruğu</DOCTITLE>
+<TEXT>
+
+Sığırkuyruğu, sıraca otugiller (Scrophulariaceae) familyasından "Verbascum" cinsini oluşturan iki yıllık bitki türlerine verilen ad.
+Morfolojik özellikleri.
+Haziran-Ağustos aylarında parlak sarı renkli çiçekler açan 20 ile 150 cm boylarında iki yıllık otsu bir bitkilerdir. Daha çok ekilmemiş yerlerde ve yol kenarlarında bulunurlar. Gövdeleri dik bazan dallanmış ve yünümsü tüylerle kaplıdır. Yaprakları gövdenin alt kısımlarında rozet halinde dizilmiş olup, yünümsü tüylüdür. Gövdedeki yapraklar ise sapsızdır. Çiçekler gövdenin ucunda sık veya seyrek, az veya çok uzun bir salkım durumda toplanmışlardır. Çiçeklerin çanak ve taç yaprakları beşer parçalıdır. Meyveler yuvarlakça olup, çok tohumludur.
+Kullanımı.
+Çiçekleri müsilaj, uçucu yağ ve glikozitler taşır. Balgam söktürücü ve göğüs yumuşatıcı olarak kullanılır. Bazı sığır kuyruğu türlerinin tohumları saponin taşıdıklarından dolayı balıklar için zehirli olup, balık avlamada kullanılır. Bitkinin yaprakları da terletici, balgam söktürücü, idrar arttırıcı ve kabız edici olarak kullanılır. Basur için de kullanılır.
+Dağılımı.
+Türkiye, sığırkuyruğu türleri bakımından çok zengin olup, takriben 200 kadar tür bulunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güzelavrat otu</DOCTITLE>
+<TEXT>
+
+Güzelavrat otu ("Atropa belladonna" veya "Atropa bella-donna"), patlıcangiller familyasına ait çok yıllık otsu bir bitkidir. "Atropin" denilen madde bu bitkinin halüsinojenik özellikleri olan oldukça zehirli yemişleri boyunca olan yapraklarından elde edilir. 
+Tür, Avrupa, Kuzey Afrika ve Batı Asya'nın yerlisidir ve Kuzey Amerika'nın bazı kısımlarında da bulunur hale gelmiştir. Yetiştiği alanlar çoğunlukla kireçten zengin topraklı, nemli ve loş yerlerdir. Adı olan "Bella-Donna" İtalyanca'dan köken alır ve ""güzel kadın"" anlamı gelmektedir. Atropin maddesini kadınlar bir zamanlar göz bebeklerini büyütmek için kullanmışlardır.
+Tanım.
+Güzelavrat otu dallanmış, otsu ve çok yıllık bir bitkidir, çoğunlukla etli köke sahip bir yarı çalı olarak görülür. Bitki 1.5 metre, uzun oval yaprakları ise 18 cm uzunluğa kadar erişebilir. Çan şekilli çiçekleri hafif yeşil-soluk mor ve az kokuludur. Meyveleri olgunlaştıkça yeşilden parlak siyaha uzanan ve yaklaşık olarak 1 cm uzunluktaki yemişlerdir. Bu yemişler tatlıdır ve zehirli alkoloidler içermelerine rağmen taşıdıkları tohumlarla yayılmayı da sağlayan hayvanlar tarafından iştahlıca tükeltilirler. "Atropa belladonna "var." lutea" olarak isimlendirilen bir varyetesinin soluk sarı çiçekler ve meyveler bulunmaktadır. 
+"Atropa belladona" nadir olarak bahçelerde kullanılır yetiştirilmesi genellikle gösterişli yemişleri ve dikey geliştiği içindir. Dünyanın diğer bölgelerinde, eldeğmemiş topraklarda yetişen değeri olmayan türlerinin olduğu bilinmektedir. Küçük tohumların çimlenmesi, tohumun uykuda almasını sağlayabilen sert kabuğuyla da ilişkili olarak genellikle zordur. 
+Çimlenme değişen sıcaklık koşulları altından birkaç hafta alabilir fakat giberellik asidin kullanımıyla gelişim hızlandırılabilir. Fideler biryerden bir yere taşınma sırasında çökerten gibi kök zararlarından dolayı steril toprağa gerek duymaktadırlar.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akbayır, Elbistan</DOCTITLE>
+<TEXT>
+
+Akbayır, Kahramanmaraş ilinin Elbistan ilçesine bağlı bir beldedir ve ilçe merkezine uzaklığı 15 km dir.
+Tarihçe.
+Akbayır Elbistan ilçesine bağlı en eski köylerden bir tanesidir.Akbayır til köyünün tarihi MÖ 5000-3000 yıllarına kadar dayanır, köyde Kalkolitik Cağ'a ait iki büyük höyük mevcuttur. Bu höyükler köylüler tarafından büyük ölcüde tahrip edilmiştir. Höyüklerin üzerlerine su depoları, baz istasyonları, televizyon vericileri yerleştirmiştir. Höyüklerin cevresine evler yapılmış, yıllarca toprakları ev yapmak için taşınmış ve kuzey batı kısımlarında gömü arama amaclı tahribat yapılmıştır.
+Coğrafya.
+Kahramanmaraş iline 185 km, Elbistan ilçesine 15 km uzaklıkta bulunmaktadır. Güney tarafı Nurhak dagları, kuzey tarafını Malatya kara yolu cevreler. Elbistan ovasının doğu kesmini oluşturan til ovası üzerine kurulan kasaba geniş tarım arazilerine sahibtir. Nurhak dağlarının kuzey eteklerinden cıkan Kevkirli isimli kaynak suları ile bölge hayat bulmaktaydı, küresel ısınma nedeniyle bu su kaynakları tamamen kuruduğu için tarım alanları eski özelliklerini kaybetmiştir. Bu arazilerin altında zengin linyit yatakları vardır. Akbayır köyü ve cevresinde sığırkuyruğu (yalangı) isimli bitkinin doğal yaşam alanıdır. Bu bitki şifalı bitkiler arasında olup bir cok sağlık sorununun çözümünde kullanılır.
+İklim.
+Köyde karasal iklim hakimdir. yazlar çok sıcak ve kurak,kışlar ise soguk ve karyağışlı gecer.
+Ekonomi.
+Kasaba geçimini tarım ve hayvancılık ile sağlamakta ama son zamanlarda oluşan kuraklık ve su sıkıntısı nedeni ile köylülerin gecen yıllara oranla tarlalarındaki mahsül ve verim oranı her yıl düşmektedir. Ekononik nedenlerle, büyük şehirlere giden genç nüfus sayısı her geçen gün artmaktadır.Bu nedenle, nufus sürekli azalmaktadır. Kasaba geniş tarım arazilerine sahip olmasına rağmen, bu arazilerde susuzluk sebebiyle yeteri kadar tarım yapılamamaktadır. Akbayır köyünün batı yönünde dağların eteklerinde bölgenin en ünlü üzümlerinin yetiştiği geniş üzüm bağları vardır.Son yıllarda Kevgirli Suyunun Çıkmasıyla Kuraklık Azalmıştır
+Altyapı bilgileri [değiştir]
+Köyde, ilköğretim okulu vardır. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sürekli doktor ve diğer sağlık personeli bulunmaktadır, aynı zamanda sağlık ocağı lojmanları da var Köye ayrıca ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+

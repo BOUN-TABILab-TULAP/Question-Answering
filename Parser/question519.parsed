@@ -1,0 +1,7 @@
+1	Alglerin	algler	Noun	Noun	A3sg|Pnon|Gen	3	POSSESSOR	_	_
+2	büyük	büyük	Adj	Adj	_	3	MODIFIER	_	_
+3	çoğunluğu	çoğunluk	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT	_	_
+4	nerede	nere	Pron	QuesP	A3sg|Pnon|Loc	5	LOCATIVE.ADJUNCT	_	_
+5	yaşar	yaşa	Verb	Verb	Pos|Aor|A3sg	6	SENTENCE	_	_
+6	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,25 @@
+1	Biyoloji	biyoloji	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	alanında	alan	Noun	Noun	A3sg|P3sg|Loc	17	LOCATIVE.ADJUNCT	_	_
+3	canlıları	canlı	Noun	Noun	A3pl|P3sg|Nom	17	OBJECT	_	_
+4	belirli	belirli	Adj	Adj	_	6	MODIFIER	_	_
+5	bir	bir	Det	Det	_	6	DETERMINER	_	_
+6	düzene	düzen	Noun	Noun	A3sg|Pnon|Dat	7	OBJECT	_	_
+7	_	sok	Verb	Verb	Pos	8	DERIV	_	_
+8	sokmaya	_	Noun	NInf	A3sg|Pnon|Dat	9	OBJECT	_	_
+9	_	çalış	Verb	Verb	Pos	10	DERIV	_	_
+10	çalışan	_	Adj	APresPart	_	11	MODIFIER	_	_
+11	ve	ve	Conj	Conj	_	15	COORDINATION	_	_
+12	bu	bu	Det	Det	_	13	DETERMINER	_	_
+13	amaca	amaç	Noun	Noun	A3sg|Pnon|Dat	14	OBJECT	_	_
+14	yönelik	yönelik	Postp	Postp	PCDat	15	MODIFIER	_	_
+15	ilkeler	ilke	Noun	Noun	A3pl|Pnon|Nom	17	OBJECT	_	_
+16	_	geliş	Verb	Verb	_	17	DERIV	_	_
+17	_	_	Verb	Verb	Caus|Pos	18	DERIV	_	_
+18	geliştiren	_	Adj	APresPart	_	20	MODIFIER	_	_
+19	bilim	bilim	Noun	Noun	A3sg|Pnon|Nom	20	CLASSIFIER	_	_
+20	dalına	dal	Noun	Noun	A3sg|P3sg|Dat	23	DATIVE.ADJUNCT	_	_
+21	ne	ne	Adv	Adv	_	23	MODIFIER	_	_
+22	_	de	Verb	Verb	_	23	DERIV	_	_
+23	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	24	SENTENCE	_	_
+24	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,45 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kırım	kır+Noun+A3sg+P1sg+Nom
+Kırım	kır+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+Kırım	kırım+Noun+A3sg+Pnon+Nom
+Kırım	Kırım+Noun+Prop+A3sg+Pnon+Nom
+
+Kongo	Kongo	+Noun+Prop+A3sg+Pnon+Nom
+
+kanamalı	kana	+Verb+Pos+Neces+A3sg
+kanamalı	kana	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom^DB+Adj+With
+
+ateşine	ateş+Noun+A3sg+P2sg+Dat
+ateşine	ateş+Noun+A3sg+P3sg+Dat
+
+sebep	sebep	+Noun+A3sg+Pnon+Nom
+
+olan	ol	+Verb+Pos^DB+Adj+PresPart
+
+virüs	virüs+Noun+A3sg+Pnon+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

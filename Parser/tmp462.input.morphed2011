@@ -1,0 +1,38 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Anilin	ani	+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P2sg+Nom
+Anilin	anilin	+Noun+A3sg+Pnon+Nom
+
+morunu	mor	+Adj^DB+Noun+Zero+A3sg+P3sg+Acc
+morunu	mor	+Adj^DB+Noun+Zero+A3sg+P2sg+Acc
+
+ilk	ilk	+Adverb
+ilk	ilk	+Adj
+
+kim	kim	+Pron+Ques+A3sg+Pnon+Nom
+
+sentezlemiştir	sentezle	+Verb+Pos+Narr+A3sg+Cop
+sentezlemiştir	sentezle	+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

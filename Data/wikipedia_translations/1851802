@@ -1,0 +1,31 @@
+Anten kazanç-gürültü-sıcaklık
+Anten kazanç-gürültü-sıcaklık (G / T) G alma frekansta desibel anten kazancı anten performansı karakterizasyonu, liyakat bir rakamdır ve T alıcı sisteminin eşdeğer gürültü sıcaklığı ise Kelvin. T anten gürültü sıcaklığı toplamıdır ve alıcı çıkışına anten terminallerinden RF zinciri gürültü sıcaklığıdır.
+Anten Sıcaklık (TA), bir anten, belirli bir ortamda ürettiği ne kadar gürültü tanımlayan bir parametredir. Bu sıcaklık anten fiziksel sıcaklığı değildir. Dahası, anten kendisiyle ilişkilendirilmiş bir içsel "anten sıcaklığı" yoktur; yerine sıcaklığı yerleştirilmiş olduğu kazanımı deseni ve ısı ortamına bağlıdır. Anten sıcaklığı bazen Anten gürültü sıcaklığı şu şekilde ifade edilir.
+Çevreyi tanımlamak için, bir sıcaklık dağılımı tanıtacağız - Bu uzak küresel koordinatlarda antenden her yöne sıcaklıktır. Örneğin, gece gökyüzünde 4 kabaca Kelvin; Dünya'nın zemin yönünde sıcaklık desen değeri Dünya'nın zemin fiziksel sıcaklıktır. Bu sıcaklık dağılımı TS olarak yazılır (θ, φ). Bu nedenle, bir antenin sıcaklığı yönlü olmasına bağlı olarak değişir ve uzaya ya da güneşe bakarak işaret edecektir.
+G tarafından verilen ışın desenli bir anten için (θ, φ), gürültü sıcaklığı matematiksel olarak tanımlanır:
+TA = 1 / (4π) * ʃ02π ʃ0π G (θ, φ) * Ts (θ, φ) dθ dφ
+Bu anten Çevre sıcaklığı tüm küre üzerinde entegre ve antenin ışıma paterni ile ağırlıklı olduğunu belirtir. Bu nedenle, izotropik anten anten çevresindeki tüm sıcaklıklarının ortalama bir gürültü sıcaklığı olurdu; (kalem ışını ile) mükemmel yönlü anten, anten sıcaklığı sadece anten "seyir" olduğu sıcaklığa bağlıdır.
+sıcaklık ta bir antenden alınan gürültü gücü bant genişliği (B) anteni (ve alıcı) cinsinden ifade edilebilir ve faaliyet:
+PN = K * TA * B (Watt)
+Yukarıda, K Boltzmann sabiti (1.38 x 10 ^ -23 = J / K) 'dir. Alıcı aynı zamanda TE ile ilişkili bir sıcaklığa sahiptir ve toplam sistem sıcaklığı T (anten ayrıca alıcı) ta + TE tarafından verilen bir kombine sıcaklığa sahiptir. Bu sıcaklık sistemin toplam gürültü gücünü bulmak için yukarıdaki denklemden de kullanılabilir. Bu kavramlar çok Elde sistemleri birbirine bağlıdır, çünkü anten mühendisleri, alıcıları ve ilgili elektronik anlamak gerekir nasıl göstermek için başlar.
+Genellikle, belirli ortamlarda faaliyet antenler için Özellikler yaprak karşılaşılan bir parametresi (bir alıcı belirtilmişse veya sistem sıcaklığı) anten sıcaklığı bölünmesiyle antenin kazancı oranıdır. Bu parametre G / T olarak yazılır ve dB / Kelvin [dB / K] birimlerini vardır.
+G / T Hesaplama
+G / T uydu sistemi liyakat rakamdır.
+G anten, kazançtır.
+T sistemi gürültü sıcaklıktır.
+Sistem gürültü sıcaklığı = anten gürültü sıcaklığı + Alıcı gürültü sıcaklığı (LNA)
+Anten gürültü sıcaklığı anten almak çıkışında görülen gürültü güçtür. (LNA için)
+"Biz o zaman bir LNA veya Alıcısı ile ölçüm değilseniz"
+Sistem gürültü sıcaklığı = anten gürültü sıcaklığı.
+Bu G / T anten ve alıcı hem aldığınız performansı ile ilgilidir çünkü G / T hesaplamak için temsili bir değer değil.
+DB dönüştürmek için, T dB 10 log (T kelvin) =
+Sistem Gürültü Sıcaklık - hem sonra G / T = Ant Kazanç dB cinsinden ölçülür edin.
+Anten açıklığı seçimi
+Uydu anteni açıklık yakından yer istasyonu kalite faktörü (G / T değeri) ile ilgilidir. G / T değeri ve uydu güç talebi, yani eşdeğer kira bant genişliği, logaritmik doğrusal bir ilişki göstermektedir. Diğer bir deyişle, eş kira bant genişliği değeri anten açıklığı daralması ile artar. Yer istasyonu diyafram seçerken nedenle, daha iyi, değil küçüktür. Ve yer istasyonu diyafram sistemi, optimum tahsisini sağlamak yapmak için uzay yükü (eşdeğer kira bant genişliği) ve toprak yükü (anten diyafram) arasında bir uzlaşma yapmak gerekir.
+C & Ku Bantları mevcut VSAT anteni (Yükseklik Açısı E = 35 Derece) ile elde G / T
+Çap G / T
+3,8 21,7
+7.5m 25.3
+11m 31.7
+Kaynaklar.
+Startle Bilgi Kütüphanesi

@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gıda gıda+Noun+A3sg+Pnon+Nom
+zehirlenmesi zehirle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+nasıl nasıl+Adverb nasıl+Adj
+olur ol+Verb+Pos+Aor+A3sg ol+Verb+Pos^DB+Adj+AorPart olur+Noun+A3sg+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

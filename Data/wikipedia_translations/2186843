@@ -1,0 +1,144 @@
+Extremal uzunluk
+Konformal ve kvazikonform dönüşümlerin matematiksel teoride, FORMULA_1 bir konformal değişmez eğrileri bir koleksiyon extremal uzunluğu FORMULA_1. Daha özel olarak ise, bu varsayalım
+formula_3 karmaşık düzlemde bir açık küme olduğunu ve FORMULA_1 bir koleksiyon
+formula_3 ve formula_6 yılında yolları bir konformal haritalama olduğunu. Daha sonra FORMULA_1 ekstremal uzunluğu formula_9 altında FORMULA_1 görüntü ekstremal uzunluğuna eşittir. Bu nedenle, ekstremal uzunluğu konformal dönüşümler çalışmada bir araçtır. Olağanüstü uzunluğu, aynı zamanda, iki daha büyük boyutta yararlı olabilir
+ama öncelikle iki boyutlu ayar fiyatlarını takip.
+Olağanüstü uzunluğu tanımı.
+Extremal uzunluğunu tanımlamak için, öncelikle birkaç ilgili miktarlarda tanıtmak gerekir.
+Formula_3 karmaşık düzlemde açık kümesi olsun. Bir FORMULA_1 olduğunu varsayalım
+formula_3 olarak düzeltilebilir eğrileri toplanması. Formula_13 Eğer
+, daha sonra herhangi bir doğrultulabilir eğri için biz Borel-ölçülebilir izin formula_14 olduğunu
+formula_18 ifade etmektedir formula_14, bir formula_16-uzunluğu belirtmek
+Uzunluk Öklid öğesi. (Bu formula_19 mümkündür.)
+Bu gerçekten ne anlama geliyor?
+Bazı aralığı formula_21 içinde formula_20 parametreli ise,
+Daha sonra Borel-ölçülebilir fonksiyonun integrali formula_22 olduğunu
+formula_21 ilgili Borel tedbire göre formula_23
+bunun için, her alt aralık formula_25 ölçü uzunluğudur
+formula_14 kısıtlama formula_27 için. Başka bir deyişle, o
+Lebesgue-Stieltjes integrali
+formula_28,
+formula_29 formula_14 kısıtlama uzunluğu
+formula_31 için.
+Ayrıca set
+formula_16 alanı olarak tanımlanmaktadır
+ve FORMULA_1 ekstremal uzunluğudur
+supremum <math> 0 Tüm Borel-ölçülebilir formula_37 üzerinde olduğu. FORMULA_1 olmayan bazı doğrultulabilir eğrileri içeriyorsa ve
+formula_39 sonra FORMULA_1 içinde doğrultulabilir eğrilerinin setini temsil eder
+formula_41 formula_42 olarak tanımlanır.
+FORMULA_1 terimi modülü formula_44 değinmektedir.
+formula_46 iki set arasında formula_3 içinde extremal mesafesi tek bir set uç nokta ve diğer sette diğer bitiş noktası ile formula_3 eğrilerin toplama extremal uzunluğudur.
+Örnekler.
+Bu bölümde extremal uzunluğu birkaç örnek olarak hesaplanır. Bu örneklerin ilk üç extremal uzunluğunun uygulamalarda gerçekten yararlı olan.
+Dikdörtgenin içinde extremal mesafe.
+Bazı pozitif sayılar formula_48 Fix ve formula_49 dikdörtgen olsun
+formula_50. FORMULA_1 bütün sonlu kümesi olsun
+uzunluk eğrileri sağa sola dikdörtgen çapraz formula_52,
+formula_53 anlamda
+dikdörtgenin sol kenarı formula_54 verildi ve
+formula_55 sağ kenar formula_56 üzerindedir.
+Biz o formula_14 varsayarak çünkü (sınırlar mutlaka var
+sonlu uzunluğa sahiptir.) Şimdi bu durumda ispat edecektir
+İlk olarak, biz formula_49 üzerinde formula_59 alabilir. Bu formula_16
+formula_62 ve formula_63 verir. tanım
+formula_41 bir sup daha sonra formula_65 verir.
+ters eşitsizlik o kadar kolay değildir. Rasgele bir göz önünde
+Borel-ölçülebilir formula_66 şekilde
+formula_67.
+Formula_68 için, formula_69 izin
+(Biz kompleks düzlemde ile formula_70 belirleme nerede).
+Daha sonra formula_71 ve dolayısıyla formula_72.
+İkinci eşitsizlik olarak yazılmış olabilir
+Formula_68 ima üzerinden bu eşitsizliği entegre
+Şimdi değişken formula_76 bir değişim ve Cauchy-Schwarz eşitsizliği bir uygulama vermek
+Bu nedenle, formula_79, gerektiği gibi.
+Kanıt gösterdiği gibi, FORMULA_1 ekstremal uzunluğu extremal aynıdır
+eğrileri formula_81 çok daha küçük toplama uzunluğu.
+Bu eğriler ailesinin extremal uzunluğu olduğuna işaret edilmelidir formula_82
+bu formula_49 tatmin üst kenarına formula_83 alt kenarını bağlamak
+formula_85, aynı argüman tarafından. Bu nedenle, formula_86.
+Bu extremal uzunlukta bir ikilik özelliği ve benzer ikilik özelliği olarak bu başvurmak için doğaldır
+Bir sonraki alt bölümde bağlamında oluşur. Üzerinde bir alt sınır elde gözlemleyin
+alt sınır içerdiğinden formula_41, bir üst sınır elde genellikle daha kolaydır
+oldukça iyi bir formula_16 seçme ve formula_89 tahmin,
+üst sınır olası tüm formula_16 hakkında bir açıklama kanıtlayan neden olmaktadır. Bu nedenle,
+ikiliği genellikle kurulabilir yararlıdır: biz biliyoruz ne zaman formula_86 olduğunu,
+formula_92 bir alt sınır formula_41 bir üst sınır çevirir.
+Halkasında extremal mesafe.
+Formula_94 edelim ve tatmin edici iki yarıçapı olmak formula_95
+formula_96. Olmak formula_97 Let
+halka formula_98 ve izin
+formula_99 ve iki sınır bileşenler formula_100
+formula_97 of: formula_102
+ve formula_103. Extremal mesafeyi düşünün
+formula_99 ile formula_100 arasındaki formula_97 içinde;
+toplanması FORMULA_1 ekstremal uzunluğu hangi
+formula_99 bağlanma formula_108 eğrileri
+ve formula_100.
+Formula_41 üzerinde bir alt sınır elde etmek için,
+Biz formula_112 alır. Daha sonra formula_113 için
+formula_100 için formula_99 arasında yönlendirilmiş
+Diğer yandan,
+Biz sonuçlandırmak
+Biz şimdi bu eşitsizlik gerçekten dikdörtgen için yukarıda verilen birine benzer bir argüman kullanılarak bir eşitlik olduğunu görüyoruz. Formula_67 böyle bir rasgele Borel-ölçülebilir formula_16 düşünün. Formula_121 let için eğri formula_123 göstermek formula_122. Sonra
+Biz formula_125 üzerinde entegre ve elde etmek için, Cauchy-Schwarz eşitsizliği geçerlidir:
+Gönyeleme verir
+Bu üst sınır formula_128 ima eder.
+Alt sınır ile kombine edildiğinde, bu extremal uzunluğu tam değerini verir:
+Bir halka etrafında Olağanüstü uzunluğu.
+Formula_130 edelim ve yukarıdaki gibi formula_97, ama şimdi formula_132 formula_100 itibaren formula_99 ayıran annulus etrafında bir kez rüzgar tüm eğrilerin toplanması, olalım. Yukarıdaki yöntemlerden kullanarak, o göstermek zor değil
+Bu extremal uzunluğu ikiliği başka bir örneğini göstermektedir.
+Projektif düzlemde topolojik gerekli yolların ekstremal uzunluğu.
+Yukarıdaki örneklerde, Azami formula_16 üst düzeye çıkaran bir
+oran formula_89 ve extremal uzunluğu düz bir metrik karşılık verdi. İlgili düzlemsel etki Öklid Riemann metrik formula_16 tarafından ölçekli diğer deyişle, ortaya çıkan metrik düz. Dikdörtgen olması durumunda, bu sadece orijinal mt, ama halka için tespit extremal mt, bir silindirin bir ölçümdür. Bir extremal metrik düz değil nerede şimdi bir örnek tartışmak. küresel ölçüye sahip projektif düzlemi Riemann küresel metrik ile formula_139 birim küre üzerinde antipodal noktaları tespit ederek elde edilir. Diğer bir deyişle, bu harita formula_140 ile kürenin kesridir. FORMULA_1 null homotopik değildir bu yansıtmalı düzlemde kapalı eğriler kümesi gösterelim. (FORMULA_1 her eğri kendi antipoduna bir noktadan küre üzerinde bir eğri yansıtarak elde edilir.) Ardından küresel metrik bu eğri ailesi için ekstremal olduğunu. (Extremal uzunluğu tanımı kolaylıkla Riemannsal yüzeyler için de geçerlidir.) Bu durumda, Azami uzunluğu formula_143 olup.
+Bir nokta içeren yolların Olağanüstü uzunluğu.
+Yolların herhangi bir tahsilat FORMULA_1 ise bütün bunlar olumlu çap ve bir noktaya daha sonra formula_145, formula_146 içeren var. Bu durum, örneğin, alınarak, aşağıda
+bu, her doğrultulabilir formula_113 için formula_148 ve formula_19 karşılar.
+Extremal uzunluğu İlköğretim özellikleri.
+extremal uzunluğu birkaç basit monotonluk özelliklerini karşılar. İlk olarak, daha sonra formula_152, eğer formula_151 açıktır.
+Bir subcurve olarak eğri formula_154 içeren formula_153 her kıvrımı (yani, formula_155 kendi etki bir alt aralığın için formula_156 kısıtlanması ise) Ayrıca eğer aynı sonuca tutar. Başka bazen yararlı eşitsizlik olduğunu
+Formula_158 veya eğer formula_159, sağ tarafı formula_160 olarak yorumlanır durumda bu açıktır. Yani bu durum olmadığını varsayalım ve genellik kaybı olmaksızın formula_161 eğriler tüm doğrultulabilir olduğunu varsayıyorum. Formula_162 formula_164 için formula_163 tatmin olsun. Formula_165 ayarlayın. Eşitsizlik kanıtlar sonra formula_166 ve formula_167.
+Extremal uzunlukta konformal değişmezliği.
+Formula_168 bir konformal homeomorfizma olsun
+Düzlemsel etki alanları arasında (bir bijective holomorfik harita). Varsayalım ki
+FORMULA_1, formula_3 eğrilerin bir koleksiyon
+ve formula_171 göstermek izin
+formula_172 altında görüntü eğrileri. Daha sonra formula_173.
+Bu konformal değişmezliği ilkesi temel nedeni neden kavramı
+ekstremal uzunluk yararlıdır.
+İşte konformal değişmezlik bir kanıtıdır. Formula_39 eğriler kümesi gösterelim
+formula_113 şekilde formula_176 doğrultulabilir ve izin
+doğrultulabilir kümesidir formula_177,
+formula_132 eğriler. Formula_179 Borel-ölçülebilir olduğunu varsayalım. Tanımlamak
+Veren formula_181 değişken bir değişiklik
+Şimdi formula_183 doğrultulabilir olduğunu varsayalım ve formula_184 ayarlayın. Resmen, biz yine değişkenlerin bir değişiklik kullanabilirsiniz:
+Formula_14 bazı aralık formula_21 tanımlanır varsayalım, bu resmi hesaplama haklı çıkarmak için, let
+formula_190 için formula_14 kısıtlanması uzunluğu belirtmek formula_188,
+ve benzer formula_14 yerine formula_192 tanımlanabilir formula_191 sağlar. Daha sonra bu formula_194 görmek kolaydır ve gerektiğinde, bu, formula_195 ifade eder. Yukarıdaki eşitlikler verir,
+Biz FORMULA_1 ve formula_132 her eğri doğrultulabilir olduğunu bilseydim, bu olur
+biz de onun tersi yerini formula_172 yukarıda geçerli olabilir çünkü formula_173 kanıtlamak
+ve formula_132 ile değiştirilebilir FORMULA_1. Bu olmayan doğrultulabilir eğrileri ele kalır.
+Şimdi formula_203 formula_205 olduğu şekilde formula_113 doğrultulabilir eğrilerinin kümesi göstermek
+olmayan doğrultulabilir. Biz formula_206 iddia ediyor.
+Nitekim, formula_207, formula_208 alır.
+Sonra değişken bir değişiklik yukarıdaki gibi veriyor
+Formula_210 ve formula_211 şekilde formula_176
+formula_213 içerdiği, elimizdeki
+Öte yandan, formula_210 formula_205 sınırlandırılmamış olduğu şekilde olduğunu varsayalım.
+Formula_217 ayarlayın. Sonra
+formula_218 en az eğrisi formula_219 uzunluğudur
+(Formula_220 bir aralığından formula_220 kadar). Formula_222 beri
+bu formula_19 izler.
+Bu durumda, gerçekten de, formula_206.
+Bir önceki bölümde sonuçlarını kullanarak, var
+Biz zaten o formula_226 gördük. Bu nedenle, formula_227.
+Ters eşitsizlik simetri ile tutar ve konformal değişmezliği nedenle kurulmuştur.
+Olağanüstü uzunluğu bazı uygulamaları.
+Bir halka ve konformal içinde extremal mesafe hesaplama tarafından
+değişmezliği bu izlediğini annulus formula_228 (formula_229)
+formula_231 Eğer halka formula_230 için konformal homeomorphic değildir.
+Yüksek boyutlardaki ekstremal uzunluğu.
+extremal uzunlukta kavramı özellikle eşlemeleri Kvazikonform ilgili, boyutları 3 ve üzeri çeşitli sorunların çalışmaya adapte olur.
+Ayrık extremal uzunluğu.
+Formula_232 bazı grafik ve FORMULA_1 formula_234 yılında yolları bir koleksiyon olduğunu varsayalım. Bu ortamda extremal uzunlukta iki çeşidi vardır. Başlangıçta RJ Duffin tarafından tanıtılan kenar extremal uzunluğunu tanımlamak için bir işlev formula_235 düşünün. Bir yolun formula_16 uzunlukta çok sayıda sayıldı yolu tüm kenarları üzerinde formula_237 toplamı olarak tanımlanır. "Alan" formula_238 formula_239 olarak tanımlanır. FORMULA_1 ekstremal uzunluğu daha önce olarak tanımlanır. Formula_234 her kenar birimi direncine sahip olan bir direnç ağı olarak yorumlanır, daha sonra veritces iki grup arasında etkin direnci, bir bir set uç ve diğer kümesindeki diğer uç yollarda toplanması kenar extremal uzunluğu tam olarak . Bu nedenle, ayrı ayrı eksteremum uzunlukta ayrı bir potansiyel teori tahminleri için kullanışlıdır.
+Başka bağlamlarda uygun ayrık eksteremum uzunluğu başka bir düşünce, bölge formula_243 olan formula_242 tepe extremal uzunluğu ve bir yol uzunluğu çoğu ile, yol tarafından ziyaret köşe üzerinde formula_244 toplamıdır.

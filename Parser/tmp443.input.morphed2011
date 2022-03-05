@@ -1,0 +1,57 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çizgili	çizgi+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+kaslara	kas	+Noun+A3pl+Pnon+Dat
+
+göre	gör+Verb+Pos+Opt+A3sg
+göre	göre+Postp+PCDat
+
+yavaş	yavaş+Adj
+
+düzenli	düz+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+düzenli	düzen+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+ve	ve	+Conj
+
+uzun	uz	+Noun+A3sg+P2sg+Nom
+uzun	uz	+Noun+A3sg+Pnon+Gen
+uzun	uzun	+Adj
+
+süreli	sür+Verb+Pos^DB+Adverb+SinceDoingSo
+süreli	süre+Noun+A3sg+Pnon+Nom^DB+Adj+With
+süreli	süreli+Adj
+
+çalışan	çalış+Verb+Pos^DB+Adj+PresPart
+çalışan	çalışan+Noun+A3sg+Pnon+Nom
+
+kas	kas	+Noun+A3sg+Pnon+Nom
+kas	kas	+Verb+Pos+Imp+A2sg
+
+türü	tür+Noun+A3sg+P3sg+Nom
+türü	tür+Noun+A3sg+Pnon+Acc
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

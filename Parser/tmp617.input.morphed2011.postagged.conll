@@ -1,0 +1,15 @@
+1	Akşamsafası	Akşamsafası	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	bitkisinin	bitki	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+3	yapraklarının	yaprak	Noun	Noun	A3pl|P3sg|Gen	_	_	_	_
+4	gece	gece	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	_	açık	Adj	Adj	_	_	_	_	_
+6	_	_	Verb	Zero	_	_	_	_	_
+7	açıkken	_	Adv	Adv	While	_	_	_	_
+8	gündüz	gündüz	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	kapalı	kapalı	Adj	Adj	_	_	_	_	_
+10	_	ol	Verb	Verb	Pos	_	_	_	_
+11	olmasının	_	Noun	NInf	A3sg|P3sg|Gen	_	_	_	_
+12	sebebi	sebep	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+13	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+14	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+15	.	.	Punc	Punc	_	_	_	_	_

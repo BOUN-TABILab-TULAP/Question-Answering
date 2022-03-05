@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Parankima	parankima	+Noun+A3sg+Pnon+Nom
+
+hücrelerinin	hücre+Noun+A3pl+P3sg+Gen
+hücrelerinin	hücre+Noun+A3pl+P2sg+Gen
+hücrelerinin	hücre+Noun+A3pl+P3pl+Gen
+hücrelerinin	hücre+Noun+A3sg+P3pl+Gen
+
+özellikleri	özellik+Noun+A3pl+Pnon+Acc
+özellikleri	özellik+Noun+A3pl+P3sg+Nom
+özellikleri	özellik+Noun+A3pl+P3pl+Nom
+özellikleri	özellik+Noun+A3sg+P3pl+Nom
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

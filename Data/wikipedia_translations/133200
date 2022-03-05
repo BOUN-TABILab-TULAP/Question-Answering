@@ -1,0 +1,36 @@
+Minimal yüzey
+Matematikte, minimal yüzey yerel alanını en aza indiren bir yüzeydir. Bu (aşağıda tanımları) sıfır ortalama eğriliğe sahip eşdeğerdir.
+Bu yüzeyler başlangıçta bazı kısıtlama toplam yüzey alanı konuyu minimize yüzeyler olarak ortaya çıkan, çünkü dönem "minimum yüzey" kullanılmıştır. Alanı-minimize minimal yüzeyler fiziksel modeller sınır tel çerçeve olan minimal yüzey bir sabun filmi oluşturan, bir sabun çözeltisi içine tel çerçeve daldırma ile yapılabilir. Dönem daha genel yüzeyler için kullanılan Ancak bu öz-Intersect olabilir veya kısıtlamaları yoktur. Belirli bir kısıt için de farklı alanlarda (örneğin, devrimin en az yüzeyini bakınız) ile çeşitli minimal yüzeyler vardır bulunabilir: standart tanımları sadece yerel optimum değil, küresel bir optimuma ilgilidir.
+Tanımlar.
+Minimal yüzeyler R3 çeşitli eşdeğer şekillerde tanımlanabilir. Onlar eşdeğer olması yüzey teorisi birçok matematiksel disiplinlerin, özellikle diferansiyel geometri, varyasyon hesabı, potansiyel teori, karmaşık analiz ve matematiksel fizik kavşağında yalan nasıl minimal göstermek için hizmet vermektedir.
+Bu özellik, yerel olduğunu unutmayın: aynı küresel sınır daha iyi alan en aza indirmek diğer yüzeyleri orada var olabilir.
+Bu tanım minimal yüzeyler Geodezikler bir 2-boyutlu analog yapar.
+Young-Laplace denklemi tarafından sabun filmin kavisi taraf arasındaki basınç farkı ile orantılı olduğu: sıfır olduğunda, membran sıfır ortalama bir kavise sahiptir. Küresel kabarcıklar bu tanımına uygun olarak "değil" minimal yüzeyler olduğunu unutmayın: onlar dahili birimdeki bir kısıtlama toplam alanı konusunu minimize ederken, onlar pozitif basınç vardır.
+Bu tanımın doğrudan iması yüzeyinde her nokta eşit ve zıt anapara eğriliklerin bir semer noktası olmasıdır.
+Bu tanımı kısmi diferansiyel denklem aslında Lagrange tarafından 1762 yılında bulunan ve Jean Baptiste Meusnier bir ufuk ortalama eğriliği ima olduğunu 1776 yılında keşfedilmiştir.
+Bu tanım harmonik fonksiyonlar ve potansiyel teoriye minimal yüzeyler bağlar.
+Bu tanım ve harmonik fonksiyonlar için maksimum prensip doğrudan iması R3 hiçbir kompakt tam minimal yüzeyler olmasıdır.
+Bu tanım, ortalama eğrilik Gauss dönüşümü türevlerine bağlı olan şekil operatörünün, bir iz olarak yarısı kadar olduğu kullanır. Öngörülen Gauss sonra Cauchy-Riemann denklemleri itaat ederse ya iz kaybolur ya da "M" her noktası bu durumda bir kürenin bir parçası, Umbilik olduğunu.
+en az yerel ve varyasyon tanımları R3 dışındaki Riemann manifoldları minimal yüzeyler uzanan izin verir.
+Tarihi.
+Minimal yüzey teorisi 1762 yılında yüzey "z" = "z" ("x", "y") verilen bir kapalı kontur boyunca gerilmiş en az alanı bulma sorunu varyasyonel düşünen Lagrange ile kaynaklanır. O çözüm için Euler-Lagrange denklemi türetilmiştir
+O uçağa ötesinde herhangi bir çözüm bulmada başarılı olamadı. 1776 yılında Jean Baptiste Marie Meusnier helikoidinin keşfetti ve denklemi tatmin catenoid ve diferansiyel ifadesi yüzeyinin iki ortalama eğrilik, eğrilik ortalama alan-minimize olan sıfır yüzeyler Sözlerime son verirken karşılık gelir.
+Lagrange denklemi genişleterek
+Çözelti yüzeyler için 1795 türetilmiş gösterim formüllerde Gaspard Monge ve Legendre. Bu başarıyla yaptığı yüzeyleri elde etmek 1830 yılında Heinrich Scherk tarafından kullanılan iken, genellikle pratik kullanılamaz olarak kabul edildi. Katalan helicoid sadece hükmetti minimum yüzey olduğu 1842-1843 yılında kanıtladı.
+İlerleme Björling sorun karmaşık yöntemlerle çözüldü yüzyılın ortalarına kadar oldukça yavaş olmuştur. Minimal yüzeyler "ilk altın çağ" başladı. Schwarz 1865 yılında ve karmaşık yöntemlerle (onun periyodik yüzey ailelerin yapımına izin) 1867 yılında genel bir dörtgen için düzenli bir dörtgen için Yaylası sorununun çözüm bulundu. Weierstrass ve Enneper sıkıca karmaşık analiz ve harmonik fonksiyonlar minimal yüzeyler bağlayan, daha kullanışlı temsil formüller geliştirdi. Diğer önemli katkılar Beltrami, Bonnet, Darboux, Lie, Riemann, Serret ve Weingarten geldi.
+1925 ve 1950 canlandı minimal yüzey teorisi arasında şimdi esas parametrik olmayan minimal yüzeyler amaçlanmıştır. Jesse Douglas ve Tibor Rado tarafından Yaylası sorununun eksiksiz çözüm önemli bir dönüm noktası oldu. Bernstein'ın problemi ve sonlu toplam eğrilik tam minimal yüzeyler Robert Osserman çalışmaları da önemlidir.
+Başka bir canlanma 1980'li yıllarda başladı. Bir nedeni uçağı, catenoid ve helicoid sonlu topolojik Çeşidi R3 tek tam gömülü minimal yüzeyler varsayım çürüttü bir yüzeyin Celso Costa 1982 yılında keşif oldu. Bu sadece eski parametrik yöntemlerle yeni çalışmaları teşvik değil, aynı zamanda yüzey yamaları olabilir belirlemek için konjuge yüzey yöntemini kullanırken (çalışılan yüzeyleri ve "dönemi sorununu" çözmek için sayısal yöntemler görselleştirmek için bilgisayar grafikleri önemini gösterdi Daha büyük bir simetrik yüzey içine monte bazı parametreler) sayısal gömülü yüzey elde etmek uyumlu olması gerekir. Başka bir nedeni aslında 1970 yılında Alan Schoen tarafından ampirik tarif triply periyodik minimal yüzeyler aslında var olduğunu, H. Karcher tarafından doğrulanması oldu. Bu kolları ekleyerek veya bunları çarpıtarak yüzey aileleri ve örneğin, eski yeni yüzeylerin kaynaklanan yöntemleri zengin bir hayvanat bahçesi yol açmıştır.
+Şu anda minimal yüzeyler teorisi matematiksel fizik ile ilgili olma, diğer ortam geometriler minimal altmanifold çeşitlenmiştir (örneğin pozitif kitle varsayım, Penrose varsayım) ve üç-manifoldu geometrisi (örneğin Smith varsayım, Poincaré varsayım, Thurston Geometrikleştirme Varsayım).
+Örnekler.
+Minimal yüzeyler klasik örnekleri aşağıdakileri içerir:
+19. yüzyıl altın çağından Yüzeyler şunlardır:
+Modern yüzeyler içerir:
+Genellemelerin ve diğer alanlarda bağlantılar.
+Minimal yüzeyler gibi hiperbolik uzay, yüksek boyutlu uzaylarda veya Riemann manifoldları olarak R3 dışındaki manifoldları, tanımlanabilir.
+minimal yüzeyler tanımı / sabit ortalama-eğrilik yüzeyleri kapsayacak şekilde genişletilmiş jeneralize olabilir: eşit sıfır gerekmez sürekli ortalama eğrilik, yüzeyler.
+Ayrık diferansiyel geometri ayrık minimal yüzeyler incelenmektedir: kendi köşe pozisyonları küçük düzensizliklerin altında kendi alanında en aza indirmek üçgen simpleksel kompleksleri. Böyle bölümlemeleri genellikle hiçbir kapalı form ifadeleri bilinen bile, sayısal minimal yüzeyler yaklaştığı için kullanılır.
+Minimal yüzey üzerinde Brown hareketi minimal yüzeyler üzerinde çeşitli teoremleri olasılıklı deliller yol açar.
+Minimal yüzeyler nedeniyle karmaşık materyallerin öz montaj kendi beklenen uygulamalara, özellikle moleküler mühendislik ve malzeme bilimi alanlarında, yoğun bilimsel bir çalışma alanı haline gelmiştir.
+Minimal yüzeyler genel görelilik bir rol oynamaktadır. belirgin ufuk (marjinal dış tuzak yüzeyi) minimal yüzeyler kara delikler teorisini ve Yayla sorunu bağlayan, minimal hypersurface olduğunu.
+Minimal yüzeyler, modern tasarımcılar tarafından kullanılan üretken tasarım araç parçasıdır. Mimarisinde yakından minimal yüzeyler ilgili çekme yapılar, çok ilgi olmuştur. Meşhur bir örnek sabun yüzeyleri esinlenerek, Frei Otto tarafından Münich Olympiapark olduğunu.
+Sanat dünyasında, minimal yüzeyler yoğun Robert Engman (1927-), Robert Longhurst (1949-), ve diğerleri arasında Charles O. Perry (1929-2011), bir heykel araştırılmıştır.

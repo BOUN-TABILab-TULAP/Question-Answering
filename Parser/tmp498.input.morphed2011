@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Carolus	Carolus	+Noun+Prop+A3sg+Pnon+Nom
+
+Linneaus	Linneaus	+Noun+Prop+A3sg+Pnon+Nom
+
+sistematiğin	sistematik	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+sistematiğin	sistematik	+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+
+temelini	temel	+Noun+A3sg+P2sg+Acc
+temelini	temel	+Noun+A3sg+P3sg+Acc
+
+hangi	hangi	+Adj
+
+yılda	yıl+Noun+A3sg+Pnon+Loc
+
+atmıştır	at	+Verb+Pos+Narr+A3sg+Cop
+atmıştır	at	+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

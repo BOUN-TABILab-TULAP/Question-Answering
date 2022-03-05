@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Fazlası	Fazla	+Noun+Prop+A3sg+P3sg+Nom
+Fazlası	fazla	+Adj^DB+Adj+JustLike
+Fazlası	fazla	+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+Fazlası	fazla	+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+JustLike
+Fazlası	fazla	+Postp+PCAbl^DB+Noun+Zero+A3sg+P3sg+Nom
+
+depolanamayıp	depola	+Verb^DB+Verb+Pass^DB+Verb+Able+Neg^DB+Adverb+AfterDoingSo
+
+idrarla	idrar	+Noun+A3sg+Pnon+Ins
+
+atılan	at	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+vitaminler	vitamin	+Noun+A3pl+Pnon+Nom
+vitaminler	vitamin	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+hangileridir	hangi	+Pron+Ques+A3pl+P3pl+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

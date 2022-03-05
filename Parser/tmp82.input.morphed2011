@@ -1,0 +1,61 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Yeryüzünün	yeryüzü+Noun+A3sg+P2sg+Gen
+Yeryüzünün	yeryüzü+Noun+A3sg+Pnon+Gen
+Yeryüzünün	yeryüzü+Noun+A3sg+P3sg+Gen
+
+altındaki	alt	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+altındaki	alt	+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+altındaki	altın+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+sıcak	sıcak+Adj
+
+suları	su	+Noun+A3pl+Pnon+Acc
+suları	su	+Noun+A3pl+P3sg+Nom
+suları	su	+Noun+A3pl+P3pl+Nom
+suları	su	+Noun+A3sg+P3pl+Nom
+suları	sula	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+enerji	enerji	+Noun+A3sg+Pnon+Nom
+
+kaynağı	kaynak	+Noun+A3sg+P3sg+Nom
+kaynağı	kaynak	+Noun+A3sg+Pnon+Acc
+
+olarak	ol	+Verb+Pos^DB+Adverb+ByDoingSo
+
+kullanan	kullan	+Verb+Pos^DB+Adj+PresPart
+
+sistemlere	sistem	+Noun+A3pl+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

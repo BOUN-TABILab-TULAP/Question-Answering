@@ -1,0 +1,640 @@
+Question: Çöküntü depremleri nasıl meydana gelmektedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Depremler (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlığın varoluşundan bu yana depremler en önemli doğal olaylardan biri olmuştur. İnsanlar ilk önceleri depremlerin oluş nedenlerini değişik şekillerde açıklamaya çalışmışlardır. Örneğin, sık sık deprem olan Japonya'da, Dünya kurulurken toprağın içinde kalan bir balığın dışarı çıkmak için yaptığı çırpınmaların depremleri oluşturduğuna inanılmıştır. Yeni Zelanda’nın ilkel kavimlerinin inançlarına göre deprem, deprem yaratan bir tanrının arzusuna bağlı olarak oluşmaktaydı. Ancak 18. yüzyılın sonlarına doğru bu görüşler etkisini yitirmiş ve depremlerin nedenleri bilimsel yöntemlerle açıklanmaya başlanmıştır.
+Fay Tipleri
+Yer kabuğu hareketleri, yer kabuğunu oluşturan tabakaların üzerinde çok büyük gerilimler oluşturur. Bu gerilimler neticesinde sert olan tabakalar kırılır. Bu kırık alanlar fay hatlarını oluşturur. Fayların geçtiği sahalar çoğu kez yer kabuğunun altında biriken enerjinin kolaylıkla yer yüzüne çıktığı alanlardır. Fay hatlarının geçtiği yerlerde deprem riski de fazladır.
+Normal fay
+Fay hattının iki yanındaki blokların düşey yönde birbirinden uzaklaşmasıyla oluşur.
+Ters fay
+Alçalan bloğun, yükselen blok altına dalmasıyla oluşur.
+Doğrultu atımlı fay
+Kırık boyunca tabakaların yatay yönde yer değiştirmesi ile oluşur.
+Fayların iki tarafında kalan bloklar aşağı ve yukarı doğru hareket edebileceği gibi yatay olarak da hareket edebilir ve bu hareket sonrasında da depremler meydana gelir. Bu tür depremlere tektonik depremler denir. Depremin büyüklüğü açığa çıkan enerji miktarına bağlıdır.
+Dış merkez
+Deprem dalgalarının en kısa yoldan yüzeye ulaştığı noktadır.
+Deprem şiddetinin en fazla hissedildiği yerdir. Deprem dalgaları suya atılan taşın oluşturduğu dalgalar gibi merkezden çevreye doğru yayılır. Merkezden uzaklaştıkça depremin etkisi de azalmaktadır.
+İç merkez
+Deprem sırasında deprem odağından yayılan titreşimler (dalgalar) yer kabuğunda sarsıntılar oluşturur.
+Depremin başladığı yer olarak kabul edilen noktadır.
+Birikmiş enerjinin tümü ilk sarsıntıda boşalmayabilir. Kalan kısım asıl depremi takip eden artçı sarsıntılarla boşalır.
+Deprem Dalgalarının Etkisi
+Deprem sırasında deprem dalgalarının yayıldığını öğrenmiştiniz. Deprem odağından çevreye doğru yayılan dalgaların şiddeti ve etkileri aşağıdaki tabloda gösterilmiştir.
+Boyuna Dalgalar (P)
+Yüzeye ilk ulaşan ve saniyede 8 km yol alan bu dalhalar zemini sıkıştırma ve genişletme özelliğine sahiptir.
+Enine Dalgalar (S)
+Saniyede 4,5 km yol alarak yüzeye ulaşır ve yüzeyi sağa sola, aşağı yukarı sallar.
+Yüzey Dalgalar (L)
+Saniyede 1,5 km yol alan yüzey dalgalar gibi salınım hareketleri meydana getiren yıkıcı etkisi en fazla olandır.
+Deprem Dalgalarını Tespit Etmek
+Deprem, sismoloji biliminin inceleme alanına girmektedir. Deprem titreşimlerini kaydetmek için bilim adamları sismograf denilen cihazı kullanmaktadırlar.
+Depremin şiddetini tespit etmek için bazı ölçekler geliştirilmiştir ve bunlardan en yaygın olarak kullanılanı Richter (Rihter) ölçeğidir.
+Richter (Rihter) ölçeği depremin yaptığı hasara göre değil, deprem odağından çevreye yayılan enerji miktarına göre yapılmıştır. Deprem sırasında açığa çıkan bu enerjiye depremin magnitüdü (büyüklüğü) denir.
+Rihter ölçeği Depremin büyüklüğü (Magnitüd)	Mercalli ölçeği	Depremin şiddeti
+3,5-4,2	1 -3	Hafif
+4,3-4,8	4-5	Orta
+4,9 - 6,1	6-7	Şiddetli
+6,2 - 7,3	8-10	Yıkıcı
+7,4 +11- 12	Afet
+Depremlerin büyüklüğünün sadece magnitüd değeri olarak verilmesi, deprem konusunda yeterli bilgisi olmayan insanların depremin büyüklüğünü tam olarak anlayamamasına sebep olmaktadır. Bundan dolayı, depremlerin magnitüd değerleri dışında şiddetleri de verilmektedir.
+Büyüklük depremin odak noktasından çıkan enerji miktarıdır. Şiddet ise depremin yer yüzünde meydana getirdiği etkidir.
+Tsunami
+Depremler yalnızca karalarda değil, okyanus ve deniz tabanlarında da meydana gelmekte, deniz yüzeyinde dev dalgaların oluşmasına neden olmaktadır. Tsunami adı verilen bu dalgalar kıyıya kadar ilerleyerek alçak alanların sular altında kalmasına, can ve mal kayıplarına neden olmaktadır.
+Deprem Türleri: Depremler oluş nedenlerine göre değişik adlar alırlar.
+Tektonik depremler; Levhaların hareketine bağlı olarak yer kabuğunun derinliklerinde meydana gelen basınçlar, gerilmeler ve kırılmalar sonucunda oluşur.
+Volkanik depremler; Volkanik patlamalar sırasında meydana gelen sarsıntılardır. Özellikle asit karakterli lavların çıkışı esnasında sarsıntılar yaşanır. Depremin şiddeti volkanizmanın büyüklüğüne ve süresine bağlı olarak değişir. Volkanik depremlerin etki alanı dardır.
+Çöküntü depremleri; yer altındaki boşlukların (mağara), kömür ocaklarındaki galerilerin, karstik arazilerde erime sonucu oluşan boşlukların tavan bloklarının çökmesi ile oluşur. Etki alanları dardır. Büyük heyelanlar ve gökten düşen meteorların da küçük sarsıntılara neden olduğu bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Küpeli, Özvatan</DOCTITLE>
+<TEXT>
+
+Küpeli, Kayseri ilinin kuzey doğusunda, Kızılırmak yakınlarında Özvatan ilçesine bağlı bir kasaba. Kayseri şehrinden mesafasi 40 km.
+Küpeli Köyü.
+Küpelinin yapisi.
+Kale Mahalesi , Cumbhurriyet Mahallesi , Yeni Mahallesi (Bucak ve Kuştepesi dahi)
+Genel bilgi.
+Çevrenin en eski ve en büyük köylerinden olan Küpeli tarihten önceki çağlardan beri yerleşim yeri olarak kullanıldığı bilinmektedir. Küpeli'nin batısında bulunan kale denilen mevkide mağara devrinden bu yana insanların yaşadığının izlerine rastlanmaktadır. Kale adı verilen yer tıpkı Ürgüpde ki peri bacaları gibi taştan oyma evlerle doludur. Bu oyma evlerde kaleye tırmanan merdivenler, buğday saklama depoları,taştan oyma ambarlar, çeşitli taş içine oyulmuş odalar, raf şeklinde oyulmuş taş duvarlar mevcuttur. Kalenin üstüde özellikle mezarlık olarak kullanılmıştır. Kale üstündeki taştan oyma mezarlarda birtakım ölene ait eşyalarda bulunmuştur.
+Coğrafyasi ve Tarihi.
+MÖ 1400 yıllarında Hitit Krallığı, MÖ 600 yıllarında Asurlular, MÖ 500 yılında Pers İmaparatorluğu, MÖ 430 yılında Romalılar, (MÖ) 350 yılında Kapadokya krallığı (Büyük İskenderin ölümünden sonra kurulan krallık) M.S. 395 yılından 1077 yılına kadar Doğu Roma (Bizans) İmparatorluğu buralarda hüküm sürmüşlerdir. O zamanlar yerleşim yeri olarak Gavur Öreni, Kersen, Abdal Öreni, Saray Burunu gibi bölgeler kullanılmıştır. Kısa Sürelerle Arapların akınına uğramışsa da 1077 yılında Türk Topraklarına katılmıştır.
+Küpeli ve çevresinde önceleri Danişmendliler (1127) daha sonra Anadolu Selçukluları (1162) hüküm sürmüşlerdir. Küpeli şimdiki yerine 14. yüzyıl ın sonuna doğru kesin bir kanıt olmamakla birlikte Dulkadir Oğulları tarafından kurulduğu tahmin edilmektedir. Yavuz Sultan Selim'in 1515 yılında İran seferi dönüşünde bu bölgeyi Dulkadir Oğullarından almasıyla Küpeli de Osmanlı topraklarına katılmıştır. Kurulduğunda birkaç kabileden oluşan Küpeli zamanla yeni kabilelerin katılmasıyla çevrenin en büyük yerleşim yerlerinden biri durumuna gelmiştir.
+Kuruluşuyla ilgili değişik rivayetler söylenmektedir; bunlardan birisi, üç kardeşten sarışın olanın Sarıoğlan'ı, başı kel olanın Kermelik'i, kulağı küpeli olanın Küpeli'yi kurduğu şeklindedir bir başka rivayete göre de Küp-elli (eli bol cömert) insanlar tarafından kurulduğu rivayet edilmektedir. Küpeli etrafı çok eski yerleşim alanlarıyla doludur. Küpeli köyü ise sonradan bulunduğu yörede kurulmuştur. Küpeliye birçok yöreden insanlar gelerek yerleşmiştir. Osmanlı döneminde kalabalık Boşnak bir grup Gemerek kazasının Sızır yöresine yerleştirilmiştir. Doksan sekiz yaşında ölen dedem bizim aslımız Sızırdan gelme derdi. Halen Sızırda sarışın ve mavi gözlü Boşnakların soyu devam etmektedir. Sızırdan göç ederek Küpeli köyüne yerleşmiş olanların soyundan gelen sarışın ve mavi gözlü Boşnak genetik yapısını koruyan birçok Küpelili insan vardır.Bunların bir kısmı benim akrabalarım. Dedemin bizim aslımız Sızırdan gelme sözünü araştırarak Sızıra gittim. Sızırdan gelen akrabalarımızın sarışın ve mavi gözlü Boşnak kökenli olduklarını öğrendim.
+Kersen adı verilen yerde yerleşim kalıntıları mevcuttur. Buradan birçok tarihi eser ortaya çıkarılmıştır. Kersen bir ören yeri olup halen eski evlerin duvarları topraktan çıkarak kendini göstermektedir. Bulunan tarihi eserler burada büyük bir kent yerleşim yeri olduğunu belli etmektedir. Kersende ki tarihi kalıntılar geniş bir alana yayılmaktadır. Halen bazı yağmurlardan sonra burada metalden yapılmış eşyalar ortaya çıkmaktadır.
+Küpeli özellikle kapodokya kültürü döneminde önemli bir yerleşim yeri olmuştur. Kapodokyalılar mezarlarını oyma kayalara yaparlardı. Seki adı verilen kalenin üstü olan yörede birçok kapodokya krallığına ait mezar bulunmaktadır. Kapodokyalılar ölülerini kullandığı takılarla ve ziynet eşyası ile birlikte gömerlerdi. Küpeler süs eşyaları bilezikler ve bazende para da korlardı. Kapodokyalılar ölülerin yeraltı dünyasında yaşamaya devam ettiğine inanırlardı. Hades kapodokya kırallığında yer altı tanrısına verilen isimdir. Kapodokyalılar ölen insanların ruhlarının yer altı dünyasında yaşamaya devam ettiğine inanırlardı. Yer altı dünyasının dört ayrı çıkış kapısı olduğuna sanılırdı. Rüyada yakınlarına gözüken insanlar bu dört kapıdan birinden çıkarak yaşayan akrabalarını görmeye geldikleri inancı egemendi. Kapodokya kültürü tanrıların bol olduğu bir kültür idi. Yaklaşık otuz bin tanrı dünya ve evreni yönetmekte idi. Özellikle seki adı verilen yörede bol miktarda kapadokya kırallığına ait kaya mezarları bulunmaktadır. 
+Kale adı verilen mağaraların olduğu yöre en eski yerleşim yeridir. Mağara içine oyulmuş odalar bulunmaktadır. Bu mağara evlere taştan oyulmuş merdivenlerle çıkılır. Erzak saklamak için buğday arpa meyve gibi ürünlerin saklandığı taştan oyma erzak depoları mevcuttur. Kale içinde bulunan odalar buraların en az beş altı bin yıldır insanların bu yörede yaşadığını göstermektedir.
+Küpeli yakınında bulunan tuz gölü bölgenin uzun zaman önce denizlerle kaplı olduğunu göstermektedir. Birkaç milyon sene önce deniz çekilirken çukur bir bölgede birikmiş olan tuzlar zamanla denizin çekilmesinden sonra ortaya bir göl çıkarmıştır. Denizin çekilmesiyle deniz suyunun tuzları bu gölde birikerek tuz gölünü oluşturmuştur. Tuz gölü içerdiği mineraller ve karışımlar nedeniyle bazı hastalıklara iyi gelmekte ve tedavi edici özelliği bulunmaktadır. Bu yörede yaşayan Rumlar bu gölün suyunun hangi hastalıklara iyi geldiğini uzun yıllar deneyerek öğrenmişlerdi. Zaman zaman buradan göç etmiş olan Rum asıllı aileden gelme bazı doktorlar bu göle gelerek suyunu tedavi amaçlı olarak ülkesine götürmektedir. Ne yazık ki ilgisizlik yüzünden tuz gölünün bazı hastalıkları tedavi edici özelliği yörede yetişen genç nesiller tarafından adeta unutulmuştur.
+küpeli köyünün dağ yamacında kurulmasından dolayı en güzel manzaralı günü sabah güneş doğarken ortaya çıkmaktadır. bu köyü ziyarete gidenler özellikle sabah güneş doğmasına yakın bir zaman da kalkarak güneşin doğmasını seyrederse son derece romantik bir manzarayla karşı karşıya kalacaktır. çukurda olan köyler henüz güneşi görmezken dağ yamacında kurulmuş olan küpeli de güneşin doğuşu bölgeye ayrı bir güzellik vermektedir. bölgeyi ziyaret edenler bu manzarayı özellikle sabah güneş doğmadan önce seyrederek doğanın o muhteşem unutulmayacak manzarasını fotoğraf makinesiyle resim çekmeyi unutmasınlar.
+Küpeli köyünün üstünde bulunan seki adı verilen düzlük de yörenin eskiden deniz olduğunu göstermektedir. Deniz dalgaları binlerce yıl boyunca kireç taşlarını tıraşlayıp düz bir şekle getirmiştir. Denizin çekilmesiyle birlikte kireç taşları yakıcı güneşin etkisiyle kuruyup sertleşerek mermere dönüşürken ortaya kilometrelerce uzanan düz bir kaya kitlesi üstünde ki ovayı ortaya çıkarmıştır. Doğanın sabırla milyonlarca yılda oluşturduğu bu ovanın adı küpeliler tarafından Seki olarak bilinmektedir. 
+Seki adı verilen bu ova kilometrelerce uzanan düz bir platodur. Rakımın yüksekliğinden dolayı bol rüzgarlıdır. Temmuz ağustos aylarında bile burada gömlekle gezemez üşürsünüz. Seki adı verilen plato yüksekliği sebebiyle çevreyi kuşbakışı seyredebileceğiniz nadir yörelerden biridir.
+seki adı verilen ve kilometrelerce uzanan düz platonun rakımı da oldukça yüksektir. ağustos ayında bile burada bol rüzgar esmektedir. bu bölge türkiyenin iç anadoluda bulunan en çok rüzgar esen bölgelerinin başında gelmektedir. bu bölge rüzgar enerjisinden elektrik üretmek için muazzam bir rüzgar gücüne sahiptir. hatta türkiyenin en rüzgarlı yörelerinden biridir. maalesef bu bölgede ki rüzgar enerji potansiyeli değerlendirilememekte ve değerlendirileceği günü beklemektedir.
+seki adı verilen rakımı yüksek olan bu bölge 20 km kadar uzunluğa sahiptir. kar motorları için dümdüz bir yapıya sahip olan bu yöre harika bir yerdir. kar motorlarının spor alanı olarak kullanılırsa dünyanın en güzel kar motorları spor alanı olmaya aday yörelerden biri olma özelliğini taşımaktadır. maalesef bu potansiyel de değerlendirilememektedir.
+yine bu seki adı verilen yöre de bulunan bol rüzgar ve kuşbakışı yüksekliği yamaç paraşütü sporları için son derece uygundur. özellikle kalenin üzerinden süzülerek atlayacak olan yamaç paraşütü için aşağıya olan eğimi bölgeyi istisnai bir yer haline getirmektedir.
+Küpeli de bulunan Kale adı verilen yüksek taş çıkıntısı ise bölgenin bir deprem fayı üstünde olduğunu göstermektedir. Seki adı verilen düzlük deprem fayı ile kırılarak Kale kayalıkları ortaya çıkarmıştır. Zamanla kırılan bu fay arası açılarak ortaya dik kilometrelerce uzanan kaya uzantısını çıkarmıştır. kızılırmak deprem fayıyla ayrılmış olan bu yarıktan akmak suretiyle dağların arasını oyarak bölgeyi şekillendirmiştir. Dünyanın birçok yerinde gözüken yüksek ve kilometrelerce uzanan kaya çıkıntıları kırılan deprem fayları ile oluşur. Küpeli deki bu kırık fay kayaların yüksekliğine bakıldığında çok eski olmadığını göstermektedir. Daha önce Küpeli de olan artçı bir depremde kırılan bir fay hattı küçükte olsa kilometrelerce uzanan bir yarık ortaya çıkarmıştı. Bu da Küpelinin aktif bir deprem fayı üstünde olduğunu göstermektedir. Deprem fayı ile kırılan ve arası açılarak vadiye dönüşen boşluk Kızılırmak tarafından oyularak yeryüzü şekillendirilmiş bir doğal oluşum yapısı göze çarpmaktadır.
+Küpeli bir dağ köyü olması sebebiyle burada oksijen daha azdır. Oksijen azlığından dolayı bu yörede yaşayan insanların akciğerleri daha fazla hava solumak zorunda kalmaktadır. Bu durum Küpeli de yaşayan insanların akciğerlerinin daha çok gelişmesine yardımcı olmaktadır. Normalde spor yaparak akciğerlerin hava soluma oranını üç misli artırabilirsiniz.Küpeli de ise spor yapmadan bu yörede yaşayarak akciğerlerinizin hava soluma oranı kendiliğinden gelişir. İşte Küpeli bu özelliği ile akciğer rahatsızlığı olan insanlar için adeta tedavi edici bir yöre konumundadır. Köyde birkaç ay yaşadıktan sonra rakımı(yüksekliği) daha az olan yerlere gittiğiniz de bu rahatlamayı bedeninizde hissedersiniz.
+Küpeli yerleşim yeri volkanik bir arazi üzerinde bulunmaktadır. Erciyes eski adı Ark ateş anlamına gelir Geos ise dağ anlamına gelir Arkgeos ateşdağ anlamındadır kelime zamanla değişime uğrayarak Erciyes adını almıştır. Yani Erciyes kelimesi yanmakta olan ateş dağ anlamındadır. Hatta bu yörede bulunan tarihi eski paralarda Erciyesin bir yanardağ olarak sembolü vardır.
+Erciyes dağının külleri yaklaşık 50 kilometre kadar uzağa gitmekte idi. Ürgüp Göreme Nevşehir yöresini Erciyes dağının püskürttüğü lavları şekillendirmiştir. Erciyes dağının püskürttüğü lavlar Küpeli çevresini de şekillendirmiştir. Bilindiği gibi en iyi en verimli tarım arazileri volkanik dağ çevresinde bulunan bölgelerdir. Neden çünkü yerkürede bulunan birçok mineral buradan erimiş olarak dışarı çıkmaktadır. Yanardağdan çıkan bu erimiş mineraller içinde birçok element bulunmaktadır. Bitkilerin iyi yetişebilmeleri için en uygun araziler bu yüzden volkanik dağ kenarlarıdır.
+Kayserilileri zeki yapan zekası ile fıkralara konu olan etken Erciyes dağının püskürttüğü lavlardır. Aynı şey İngiltere için de geçerlidir. İskoçya da bulunan volkanik dağ ve onun püskürttüğü lavlar İskoçyalıları da tıpkı Kayserililer gibi zeki yapmakta İskoçları zekasıyla fıkralara konu yapmaktadır. Küpeli yöresinin en kıymetli varlığı lavlardan oluşmuş volkanik topraklarıdır. İşte bu yüzden Ürgüp Avanos Küpeli gibi yörelerin bağlarından üzüm alıp başka yörelere ekince aynı tadı vermemektedir. Küpeli Ürgüp Avanos tan getirdiğim üzüm fidelerini İstanbul da ektim aynı tadı vermedi. Sebebi ekildiği toprağın volkanik olmasındandır. Maalesef insanlar üzerinde yaşadıkları toprağın altın gibi kıymetli olduğunun bilincinde değiller. Erciyes dağının 50 kilometre kadar etrafında bulunan topraklar Erciyesin püskürttüğü lavlarla dolmuştur. Volkanik topraklardır. Bu topraklarda yetişen bitkiler meyve ve sebzeler hem daha lezzetli hem daha besleyicidir. Hatta insanların fizyolojisine olduğu kadar zekasına da tesir etmektedir. Neden Sakıp Sabancı devamlı Kayseriden Yamula patlıcanı getirtirdi. İstanbulda patlıcan mı yok. Sebebi İstanbulda yetişen patlıcan Yamula patlıcanı ile aynı tadı aynı lezzeti vermez. Patlıcanın lezzetli olması yetiştiği volkanik araziden kaynaklanıyordu.
+Dünyada volkanik dağ etrafında ki topraklar gübre diye satılmaktadır. Bu yolla milyarlarca dolar kazanıyorlar. Peki bizim insanlarımız neden üzerin de yaşadığı toprağın altın kadar kıymetli olduğunu bilmez de iş aramaya yurt dışına gider. Gerçek altın küpelide gerçek altın Erciyes dağının lavlarını püskürttüğü yörelerde. Bu yörede yaşayan insanlara bu volkanik toprağın değeri öğretilmeli. Benim de çocukluğum Küpeli de geçti. Koşuda birincilik madalyaları aldım çünkü benim fizyolojim Küpelide ki yediğim gıdalarla gelişti. Satranç da da birincilik madalyaları aldım çünkü zekam Küpelide yaşarken o yörenin bitkileriyle gelişti. Küpelinin bağlarında yetişen şeker üzümünü başka illerimizde ektim aynı lezzeti aynı tadı vermedi. Küpelinin gül üzümünü diğer illerimiz de ektim yine aynı kokuyu vermedi. Türkiye lezzetli sebze ve meyve yemek isterseniz Erciyes dağına gidin. Erciyesin etrafında ki topraklarda Türkiyenin en lezzetli sebze ve meyveleri yetişir. Türkiyenin en lezzetli patlıcanları Erciyes dağı etrafında ki volkanik küllerin olduğu yörede yetişir bu yerleredn birinin adın Yamuladır. Aksini iddia eden varsa buyursun ispatlasın.
+Bence Küpelide Erciyes dağının etrafında bulunan yörelerde) doğmuş ve orada yaşamış olmak büyük bir şans. Bu şansı içinde yaşadığımız doğa bize vermiş. Doğa Erciyes dağını volkanik bir dağ olarak yaratarak ve Erciyesin lavlarını 50 kilometre uzağa püskürterek adeta bizlere torpil geçmiş. Kayserili olanlar fıkralara bile konu olan bu zekalarını ARKGEOSA yani adı ATEŞDAĞ olan ERCİYESE borçlular.
+Küpeli yöresi ayrıca birkaç maden türünün bulunduğu yöredir. Bulunan madenlerin etkisinden dolayı yer yer toprak rengi değişmektedir. Madenli yörelerde yetişen bitki ve ağaç türleri de cılız bir şekilde gelişebilmektedir.
+küpeli yöresi ayrıca birkaç maden türünün bulunduğu yöredir. Bulunan madenlerin etkisinden dolayı yer yer toprak rengi değişmektedir. Madenli yörelerde yetişen bitki ve ağaç türleri de cılız bir şekilde gelişebilmektedir.
+küpeli yöresinde zaman zaman deprem görülmekte ve fay kırıkları ortaya çıkmaktadır. Kilometrelerce uzanan bu fay kırıkları özellikle hala bölgenin jeolojik olarak hareketli ve değişken bir yapıda olduğunu göstermektedir. Ayrıca Küpeli yöresinde zaman zaman çöküntü depremleri de meydana gelmektedir. Kermelik köyünden Küpeliye doğru giderken kızılırmak nehrinin birkaç yüz metre üstünde oluşmuş olan çöküntü depremi açık bir şekilde kendini göstermektedir.
+Küpeli köyü yöresi genellikle kireç taşı madenleriyle doludur. Kireç taşının zamanla değiştiği sular tarafından oyularak yer altı suyunun oluştuğu yöreler dünya da nadirdir. En tatlı ve en lezzetli içme suları genellikle bu tür yörelerden çıkmaktadır. Küpeli de çıkan sular da tat ve lezzet yönünden Türkiye de çıkan en değerli su kaynaklarından biridir. zaten türkiye tatlı su kaynakları yönünden dünyanın en önde gelen ülkelerinden biridir. küpeli de ki içtiğiniz tatlı suyun lezzetini birçok avrupa ülkesinde ABD bulabilmeniz zordur. bölgede ki orman örtüsünün ortadan kaldırılmasıyla yörede çıkan su kaynakları da zamanla azalmıştır.
+Kurulduğunda çevresi ormanlarla kaplı olduğu eski evlerin üzerindeki Ardıç ağaçlarından; Ardıcın İçi, Karga Sekmez diye adlandırılan mevkilerin isimlerinden de anlaşılmaktadır.Eski nesiller bir zamanlar kalenin çam ve ardıç ağaçlarıyla dolu ormanlık bir yer olduğunu anlatırlardı. Doksan sekiz yaşında ölen dedem biz çocukken kale ormanlık bir yerdi biz korkar bu ormanlık yere giremezdik diye anlatırdı. Günümüzde ise maalesef kalede bir tek çam ağacına bile rastlayamazsınız. Bir zamanlar Küpelinin çevresi hayvancılık ve ziraate uygun suları bol olan bir arazi olduğundan ve birçok yerinde şelaleler fışkıran köy olduğundan dolayı burada yaşayan insanların hali vakti yerinde varlıklı bir hayat sürdükleri anlaşılmakta belki de bu yüzden Küpeli'nin ilk isminin Tok Aslan olduğu eski kayıtlarda belirtilmektedir.
+1831 yılında Kayseri Sancağında yapılan ilk nüfus sayımında Küpeli'nin adı "Karyeyi Tok Arslan (Namı diğer Küpeli)" olarak geçmektedir ayrıca 1834 yılında temettü defterinde (gelir vergisi) Karyeyi Tok Arslan 80 hane olarak belirtilmektedir.
+Küpeli Osmanlılar döneminde imparatorluğa çok sayıda asker vermiş bilhassa Kurtuluş Savaşı sırasında pek çok Küpeli'li şehit olmuştur. Kurulduğu sıralarda İlçe olarak Pınarbaşı (Aziziye) İl olarak da Sivas'a bağlanmış Cumhuriyetle birlikte İlçe olarak İl olarak da Kayseri'ye bağlanmıştır. 1960 yılında Sarıoğlan ilçesine 1984 yılında da Özvatan ilçesine bağlanmıştır. Daha önceleri Küpeli'de oturdukları halde çeşitli nedenlerle Kuştepesi, Abdalören, Bucak mevkilerine yerleşen vatandaşlarımız Küpeli'ye bağlı olarak buralarda hayatlarını sürdürmektedirler. Küpeli tarihinde belirli mevkilere gelmiş ünlü kişiler bulunmamaktadır.
+Büyük Hoca diye bilinen H. Mehmet isimli zat iyi din eğitimi almış herkes tarafından sevilen, saygı duyulan bir kişidir. Şimdi bile Askere ve yurt dışına gidenler onun mezarından toprak alırlar. Küpelinin eteğine kurulduğu Evliya Tepesi ve onun arkasındaki şehitlik mevkii kutsal yerlerdendir. Küpeli mertlik dürüstlük ve misafir perverliğiyle tanınır. Küpeli'ye gelen hiç bir misafir açıkta kalmamıştır.
+Küpelinin kültüründe halen orta Asyadan gelmiş olan Şaman gelenekleri mevcuttur. 
+Ateşe su dökülmez, (ateşe su dökme ocağın söner) derler Şamanizm de güneş ve ateş kutsal bir varlıktır Şaman kültürünün bir uzantısı olan Japonlar bayrak semboli olarak eski bir Şaman geleneği olan ateşi yani güneşi kutsal kabul etmiş ve güneşin simgesini bayrağına koymuştur. Dağlama geleneği Yeni doğan çocuklar belli bir süre geçince karın bölgesine kızarmış iğneler batırılarak yatay ve dikey çizgiler oluşturulur. Küpelide yaşarken çocuk yaşımda bu geleneği banada uyguladılar bu bir şaman gelenegidir. Şaman kültürüne göre dağlama yapılanlar Orta Asyada ki belli bir Şaman soyunun devamı olduğunun izlerini taşır.
+Ağaca bez bağlama geleneği Sekide bulunan ve kutsal kabul edilen ardıç ağacına dilekte bulunarak bez bağlanır.Sekiden geçerken kutsal kabul edilen bu ağaca bakacak olursanız bağlanan bezlerin bir flama gibi dalgalandığını görürsünüz.Eski nesil kadınlarda iki kaş arasına mavi bir nokta oluşturulurdu. Bu göz değmemesi için yapılırdı bu da eski bir şaman geleneğidir. Zamanla şamanizmin gelenekleri unutulmakta izleri silinmektedir. Şamanizm geleneğini taşıyan insanlar doğmatik düşüncelerin dışına çıkarak daha akılcı düşünmekte ve doğayla uyum içinde yaşayan daha naturalist bir kültür barındırmaktadır.
+Küpeli'de ilkokul 1942 yılında iki aşamalı olarak eğitim öğretime başlamıştır. 1978 yılında orta okul açılmış 1991 yılında ilk okulla birleşerek ilk öğretim okulu olmuştur.
+1990 yılında yapılan nüfüs sayımında nüfusunun 2821 çıkmasından sonra Küpeli Belediye olmaya hak kazandı. Bunun üzerinde 1994 yılında 3 Muhtarlık ve belediye kuruldu. Mahalleler: Cumhuriyet Mahallesi, Yeni Mahalle ve Kale Mahallesidir.
+Küpeli Nüfusunun büyük bir kısmı yurt dışında yaşamaktadır bunu sonucu olarak geniş otlaklar ve ziraat alanlarına sahip olmasına rağmen hayvancılık ve ziraatta önemli bir gerileme olmuştur. Son yıllarda ziraate ve pancar üretimine yeniden önem verilmeye başlanmıştır. Hayvancılıktaki gerileme devam etmektedir. Geçmişte 10 000 baş civarında olan büyük ve küçük baş hayvan sayısı 1 000 baştan aşağı düşmüştür.
+Küpeli'den yurt dışına, Sarıoğlan'a ve Kayseri'ye çok sayıda göç olmuştur. Buna rağmen Özvatan İlçesinin en büyük beldesi olup Kayseri'de de adından söz ettiren her geçen gün gelişen modern bir yerleşim yeri durumundadır.
+Osmanlı döneminde Küpeliden kırk kadar aile toplu halde Kayseri ilinin Gesi ilçesine Rumlardan boşalan yerlere yerleşmişlerdir. Gesili bazı eski nesiller bizim dedelerimiz küpeliden gelme derlerdi. Küpeliden Gesiye göç etmiş olanların soyundan gelen Doktor Nihat Demirkan seksen altı yaşında olup halen İstanbulda yaşamaktadır. Nihat bey dedesinden Küpeli hakkında duyduklarını anlattı. Bir zamanlar Küpeli kaynak suların bol olduğu şelaleler dolu bir köymüş. Kersen adı verilen şelaleninin olduğu yerden eskiden camız gövdesi gibi su çıkarmış. Köyde ben çocukken Kersendeki şeşalenin olduğu yerden tavşan gövdesi gibi su çıkardı. Otuz beş yıl sonra Kersene vardığımda ise ancak parmak kalınlığında su akmaktaydı. Bir zamanlar etrafıda bol kaynak sular fışkıran Küpelide maalesef gün geçtikçe su sıkıntısı kendini göstermeye başladı
+Seki adı verilen yörede bol miktarda kaya mezarları mevcuttur. Bu mezarlar daha çok Kapadokya krallığının kültürünü yansıtmaktadır. Kale adı verilen mağaradan oyulmuş yerleşim yerinde ise mağaradan oyma evler bulunmaktadır.Kersen adı verilen yerde eski bir uygarlığın kalıntıları mevcuttur ve bu yöreden birçok tarihi eser ve heykelçikler çıkmıştır.Küpelinin her tarafından tarih fışkırmaktadır.Kızılırmak kenarında sıcak kaynak suyunun çıktığı yerde ise birçok tarihi eser mevcuttur. Bu yörede etrafa yayılmış heykel parçalarını görebilirsiniz. 
+Küpeli eskiden etrafı Rum köyleriyle çevrili olan bir yöredir. Özvatan da ki Rumlar A.B.D. Kanada ve Yunanistana göç etmiştir. Küpeli köyü etrafında ki Rumların boşalttıkları köylere Balkanlardan gelen göçmenler (muhacirler) yerleştirilmiştir. Örneğin Özvatan ilçesi yakınında ki Rumların yaşadığı Kiliseköy ün adı Kiseköy olarak değiştirilmiştir.
+Osmanlı döneminde tanınmış Küpelili Aşık Ömer bir Osmanlı Ozanı ve halk şairidir. Edebiyata geçmiş şiirleriyle ve türküleriyle kültürümüzü zenginleştirmiştir.
+"Küpeli köyünden yurt dışına göç etmiş pek çok insan vardır."
+Küpelilerin göç ettiği ülkeler.
+1-Almanya özellikle Remscheid de 1450 civarında küpelili var
+2-Hollanda
+3-Belçika
+4-İsviçre
+5-Danimarka
+6-Kanada
+7-Avustralya
+8-Fransa
+9-A.B.D.
+10-Suudi Arabistan
+11-İsveç
+12-İngiltere
+13- japonya
+14-italya
+Küpeliye komşu olan köy kasaba ve çeşitli yerleşim yerlerine uzaklığı.
+Küpeli Üzerlik arası 6 km
+Küpeli Özvatan arası 6.2 km
+Küpeli Sarıoğlan arası 16.5 km
+Küpeli Karaözü arası 17.5
+Küpeli Kızılpınar arası 7.7 km
+Küpeli Taşlıkköy arası 8.8 km
+Küpeli Kaleköy arası 11.6 km
+Küpeli Karpınar arası 11.7 km
+Küpeli Meydan Kayseri meydan arası 48 km
+Küpeli Felahiye arası 17.6 km
+Küpeli Bucak arası 6.5 km
+Küpeli Tuz Gölü arası 6.4 km
+Küpeli Yozgat ili sınırı arası 15 km
+Küpeli Sivas ili sınırı arası 21 km
+Küpeli Ankara arası 266 km
+Küpeli İzmir arası 754 km
+küpeli istanbul taksim arası 616 km
+Küpeli Almanya Remscheid arası kuş uçuşu uzaklık 2690 km
+Küpeli Antalya arası 510 km
+Küpeli Newyork ABD (USA) arası 8650 km
+Küpeli Belcika arasi onuda siz tahmin edim km :D"Eğik metin"
+Küpelide bulunan Soyisimler.
+Adıgüzel
+Akkaya
+Aynacı
+Akdemir
+Aktaş
+Alkan
+Akşin
+Babacan
+Bağcı
+Bağbaşı
+Baş
+Büyükodabaşı
+Büyükünlü
+Çadırkaya
+Çayırpınar
+Çetinkaya
+Demir
+Doğan
+Duman
+Ekinci
+Erdoğan
+Erodabaşı
+Günal
+Güngör
+İçer
+Karataş
+Kaya
+Keklik
+Keserci
+Küçükdoğan
+Küçükodabaşı
+Küçükşahin
+Küçükünal
+Küçükünlü
+Mamacı
+Maviş
+Mert
+Odabaşı
+Özdemir
+özsönmez
+Poyraz
+Saraç
+Sarıkaya
+Sönmez
+Sönmezer
+Sönmezçiçek
+Sönmezdağ
+Şahin
+Şahinci
+Şanlıünal
+Taşhan
+Toy
+Turgut
+Ünal
+Ünlü
+Ünsal
+Vural
+Yaralı
+Yeniavcı
+Yeşil
+Yeşilbala
+Yılmaz
+Küpelilerin lehçesinde kullanilan kelimeler.
+aba - anne
+ana - anne
+arapaşı - hamurun kaynatılarak tepsiye dökülmesi ile elde edilen ettli çorba ile yenen yemek
+astap - çamaşır giysi
+ame - hala
+avrat - hanım
+ayeti kürsü duası - hanifi mezhebinden olanların inandığı yazılı olarak eve asınca ve her gün okuyunca cennete gitme duası
+hanifi, şafii, maliki ve hanbeli; her mezhep kendilerine mahsusu olan duanın her gün okunması ve bu duanın eve asılması ile cennete gideceğine inanır.
+hanefi mezhepten olanlar ayeti kürsü duasını evine asar ve her gün bu duayı okursa cennete gidermiş
+şafi mezhebinden olanlar yasin suresi duasını evine asar her gün bu duayı okursa cennete gidermiş
+küpeliler hanifi mezhebinden olduğu için eskiden hemen her evde ayeti kürsü duası asılı idi
+bakla - fasulye
+bakraç - su doldurulan kova
+bıldır- geçen yıl
+bismillahirahmanirahim euzi billa şeytanniracim - türkçesi şeytanı taşlarım Allahın adıyla başlarım demek eski küpeliler bu duayı iki değişik niyetle okurlardı
+1- gece falan korku anında şeytan kaçırma duası olarak
+2-yemeğe başlarken veya bir işi yapmaya başlarken şeytanı lanetleyip Allahın adıyla o işi yapmaya başlamak için
+bulamaç - yöresel bir yemek türü
+buraal - buraya gel
+camuz - manda
+cıranı - yufkadan daha kalın ve daha küçük hazırlanmış ekmek türüne verilen ad.
+çalhana- ayran
+çelik çomak oynamak- konserve tenekesi ve sopalarla oynanan mahalli bir oyuna verilen ad
+çimmek - yıkanmak
+davar - koyun keçi gibi ufakbaş hayvan sürüsü
+deynek veya değnek - odun çubuk
+dıgız- sert
+dinelmek- ayakta durmak
+döşek - yatak
+ebe - babaanne veya anneane
+elinin körü - kızılan insana söylenen söz
+çerçi - eşekle atla dolaşan seyyar satıcı
+çot - çolak
+çömçe - kepçe
+cücük -civciv
+çaput - bez parçası
+çörek - pohçaya benzer şeilde yapılan
+daş - taş
+davar - koyun keçi gibi küçükbaş hayvanlara verilen isim.
+dulda - gölgeli rüzgarsız yer
+essah- doğru gerçek
+emmi -amca
+erinmek- üşenmek
+firik - civcivin büyük hali , tavugun kücük hali
+gadasını almak - sevdiğini belirten bir ifade
+geleni-tarla faresi
+gıdık -çene altı
+gözelağa - kayına verilen isim
+güğüm - su kanan kap
+gümpür - patates
+hasbin Allaı veni vel vekil - kızınca söylenen bir deyim
+hatça - hatice
+hızır reis - hırıstiyanlarda noel baba insanlara mal para ve hediyler dağıtılır müslümanlarda da hızır reis yardıma muhtaçlara arzuladıklarını verir
+irecep - recep
+katık - azık
+kaşağı - büyükbaş hayvanların vucut kıllarını taramak için kullanılan demir tellerden oluşan tarak
+kavurga- kavrulmuş buğday bazen içine çedene de karıştırılır
+kefen - dikenli bitki türü kışın soba yakma da kullanılır
+kenef - tuvalet
+kenef ağızlı -ağzından devamlı kötü söz çıkan insanlara söylenen bir deyim.
+la havle vella kuvvet ella billa -eskiden bazı küpeliler kızınca bu duayı okurlardı anlamı belayı defetme duasıdır. insan bir sorunla başa çıkamayınca bu duayı okuyarak yaradana içini döker ve Alahım bu belayı sana havale ediyorum anlamında bu duayı okurdu.
+lokman hekim - kuranda adı geçen doktorun adı insanlara şifa veren hastalıkları iyileştiren doktor kimilerine göre hipokrat islam kültürüne lokman hekim olarak geçmiştir.
+mal - inek camız gibi büyükbaş hayvanlara verilen ad
+mıh - çivi
+mintan -gömlek
+minever - münevver
+münker ve nekir - islam dininde insanlar ölünce mezar da günah ve sevapları sorgulayacak olan meleklerin isimleri
+muska - din adamlarının kâğıtla yazıp üçgen şekle getirerek bezle diktiği kuran ayetleri yazılı tılsımlı takı
+eskiden bazıları elbiselerine çatal iğne ile tutturulmuş muska ile dolaşırdı hatta bazı küpelilerin iki üç ve dört muska ile dolaştığı bile olurdu din adamlarını yazdığı tılsımlı muskalar genellikle şeytanın şerrinden korunmak göz değmesinden korunmak hastalıktan korunmak gibi maksatlarla kullanılırdı bazı insanlar kurşun geçirmez muskaların bile olduğuna inanırdı kurşun geçirmez muskası takanlara kurşun falan işlemezmiş
+nacak -balta
+nazar boncuğu - eskiden küpelili kadınların göz değmesin diye üzerlerine taktıkları cam şeklinde insan gözüne benzer boncuk
+nodul - eşeği yürütmek için küçük tahta içine gömülmüş çivili sopa avuç içine sığacak kadar küçük
+norüyong - ne yapıyon
+nırıidiyon - nereye gidiyorsun
+omaç - pekmez yufka yoğurt vs karıştırılarak yapılan yöreye mahsus yemek türü adı
+ötace - obür taraf ( diger mahalle anlaminda kulanulır )
+pısırık- çekingen
+pisik - kedi yavrusu
+pürçüklü- havuç
+iramis veya feramis -rasim
+sele - çamaşır sepeti
+siddi - amca/dayı karısı
+sirkenni - kalın yufka arasına konan ıspanak et veya patatesle yapılan yöresel pişmiş yemek türü
+süleman - süleyman
+sokum- yufkadan yapılan dürüm
+sorutmak-gülmeden durmak
+şimşir- parlak
+tiltili - pişmaniyeye benzeyen küpeli yöresine ait yapılan tatlı türü
+ümüğünü sıkmak -hasmını rakibini tuş etmek gibi bir deyim olarak kullanılır
+yil - rüzğar
+yıldızname - din adamlarının baktıkları bir tür fal insanların kaderinin bu falda yazılı olduğuna inanılırdı eskiden birçok küpelili kadın çocuklarının ve kendinin gelecekte başına gelecekleri akıbeti öğrenmek için din adamlarına gider ve para karşılığında yıldızname falına baktırırdı.küpeli de görev yapan birçok din adamı (imam) para karşılığında yıldızname falına bakarak tatlı kazanç elde ederlerdi. 
+din adamlarının en çok kullandıkları yıldızname fal kitabı İbni Sinadan kalanıdır.
+yunmak - yıkanmak
+Küpeli yöresinde sikça kullanilan Atasözler.
+Baş söz ile tartılır
+öküz altında buzağı arama
+Sigara içme parasını el alır kokusunu yel alır zararı sana kalır
+Deli dana akılı buzağı yavrulamaz
+Tırnağın varsa başını kaşı
+Ummadığın taş baş yarar
+Her akıllıdan bir veli her veliden de bir deli doğarmış
+Herkes kendi evinde rahat edermiş o yüzden misafirlikte fazla kalma
+Taşıma su ile değirmen dönmez
+Akıllı evladın var malı neylesin
+Tembele iş buyur sana akıl öğretsin
+Kpeli yöresinde hüküm sürdüren uygarliklar.
+1- HATTİLER HATTİLERE İLİŞKİN PEK YAZILI KAYNAK BULUNMAMAKTADIR HİTİT EL YAZMALARINDA ANADOLUYA HATTİ ÜLKESİ DENDİĞİ ANLATILMAKTADIR HİTİTLERİN BAŞKENTİ HATTUŞAŞ DA HATTİLERİN BAŞKENTİ ANLAMINA GELİR.
+2- HİTİTLER
+3- KAPODAOKYA KRALLIĞI (BÜYÜK İSKENDERİN KURDUĞU KRALLIKTAN SONRA ORTAYA ÇIKAN YENİ DEVLETE VERİLEN AD)
+4-GÜNEY KAPODOKYA KRALLIĞI (KAPODOKYA KRALI DEVLETİ İKİ OĞLU ARASINDA İDARE OLARAK BÖLÜŞTÜRDÜ.
+KUZEY KAPODOKYA KRALLIĞI BAŞKENTİ TRABZON
+GÜNEY KAPODOKYA KRALLIĞI BAŞKENTİ İSE KAYSERİ OLDU.
+KAYSERİ VE TRABZON İSMİ KAPODOKYA KRALLIĞINDAN KALMA BİR İSİMDİR.
+5- ROMA İMPARATORLUĞU
+6- BİZANS İMPARATORLUĞU
+7- SELÇUKLU İMPARATORLUĞU
+8- OSMANLI İMPARATORLUĞU
+9- TÜRKİYE CUMHURİYETİ DEVLETİ.
+ANADOLU KELİMESİ RUMCA DOĞU ANLAMINA GELEN ANATOLE KELİMESİNDEN TÜREMİŞTİR BU SÖZCÜK RUMCA ANATOLLEİN DOĞMAK FİİLİNDEN GELİR DOĞU ÜLKESİ ANLAMINA GELEN ANATOLİA ROMA DÖNEMİNDE 7. YÜZYILDA AFYON ISPARTA KONYA KAYSERİ İÇEL YÖRESİ İÇİN KULLANILMIŞ İDARİ YÖREYE VERİLEN İSİMDİR YANİ BU BÖLGE ADI ANATOLIAN OLAN BİR EYALETTİR. SONRA LATİNLER ANATOLİA YA KAPODOKYALILARIN VERDİĞİ MİCROASİA DEYİMİNİ ASİA MİNOR (KÜÇÜK ASYA) LATİNCE OLARAK DEĞİŞTİREREK KULLANMIŞLARDIR.KAYSERİ İLİ VE KÜPELİ KÖYÜ BU ANATOLIAN EYALETİNİN TAM ORTASINDA YER ALMAKTADIR.
+Küpeli yöresinde konuşulmuş uygarlik diller.
+HATTİCE
+LUWİCE HTİTLERİN AKARABASI OLAN BİR DİL
+HİTİTÇE LİKYA DİLİ DEMİR ÇAĞINDA KONUŞULMUŞ LUWİCENİN SOYUNDAN GELİR
+MİNYAN DİLİ LİKYACANIN BİR LEHÇESİ
+KARYA DİLİ
+HURRİCE DİLİ
+FRİGCE DİLİ
+PSİDYA DİLİ VE SİDE DİLİ PAMFİLYA DEVLETİ DİLİ
+LİDYA DİLİ
+MYSİA DİLİ
+PAFLAGONYA DİLİ (PAFLAGONYA KAPODOKYANIN ÖNCEKİ ADIDIR)
+KAPODOKYA DİLİ (ESKİ YUNANCANIN BİR KOLU)
+LATİNCE DİLİ
+TÜRKÇE DİLİ
+kayseri yöresine yerleştirilmiş çerkes nufus oranı da epeyce yoğundur çerkezce genel olarak kafkas dillerine verilen genel bir isimdir.
+sarıoğlan ilçesine de Balkan göçmenleri getirilmiştir Bulgarlara verilen isimde pomaktır müslümanlığı benimsemiş bazı pomaklar (bulgaristanlılar) Sarıoğlan yöresine yerleştirilmiştir
+bu iki kültürde çerkez kafkas kültürü ve pomak bulgaristan kültürü yöre halkıyla kaynaşmıştır. Küpeli köyünden çerkez ve pomak kökenli göçmenlerle evlenen birçok insan vardır.
+ANADOLUDA HÜKÜM SÜREN DİLLERİN HEPSİDE İZLERİNİ BIRAKMIŞLARDIR.
+Hititçeden günümüze kalan kelimeler.
+adaniya ------- adana
+ip ------ ip
+er --------- er adam
+aga -------- ağa
+anna ------- ana anne
+il kelimesi Türkçeye hattilerin dilinden geçmiştir
+latince morali yunancaya moraliun türkçeye de marul olarak geçmiştir
+Latince brassica pırasa kelimesi prason olarak yunancaya pırasa olarak da türkçeye geçmiştir
+pipper latince biber türkçeye biber olarak geçmiştir
+istavrit, çinokop, levrek, kefal gibi balık isimleri genellikle rumcadır
+akasya, sedef,gibi ağaç isimleri genellikle rumcadır
+anihta rumca açmak fiilidir anahtiri rumca açmaya yarayan alet demektir türkçeye anahtar olarak geçmiştir
+kleo rumca kapamak eyleminden türeyen kleidi türkçeye kilit olarak geçmiştir
+çorak kelimesi ermeniceden türkçeye geçmiştir
+cacık kelimesi ermeniceden geçmedir
+çemen kelimesi ermeniceden geçmedir
+madımak kelemesi ermeniceden geçmedir
+subat,nisan,haziran, eylül gibi ayların isimleri süryanicedir
+Kapadokya kırallığından kalan isimler.
+keseria kayseri
+trapezus trabzon
+prusias bursa
+attalia antalya
+nagdos niğde
+mersini mersin
+selefkia silifke
+sevastia sivas
+ikonıum konya
+kastranmoni kastamu
+adrionupolis edirne
+bütün bu şehir isimleri kapadokya krallığından kalmıştır.
+dünya da ırkların en fazla karıştığı yer Anadoludur burası Asya Avrupa ve Afrikanın kesiştiği yerdir insanlık ırkı en çok bu yörede birbirine karışmıştır. Küpeli de Anadolunun merkezindedir. 
+Burası hem insanların genetik olarak Karıştığı hem de kültürlerin sentezlendiği bir araya geldiği yer olmuştur.bu yöre de birçok uygarlığın izlerini konuşma dilinde bulmak mümkündür.
+İSVEÇÇE --------- TÜRKÇE
+att ---------- ata
+göl ---------- göl
+burg ---------- burç
+spar ---------- siper
+hakan --------- hakan
+kyndil -------- kandil
+mena --------- mana
+namn ---------- nam
+şön ----------- şen
+gas --------- kaz
+arlig -------- erlik
+okse ------- öküz
+külle ---------- kule
+so --------- su
+göm ---------- göm
+halsa ---------hal
+heyda --------- hayda
+köya -------- köy
+HİTİTLER DÖNEMİ TANRILARI tanrıların sayısı 1000 kadar Hititler bin tanrılı ülke olarak da kil tablet yazılarında geçer
+Kibela ------ güzellik tanrıçası Türkçe diline sibel olarak geçmiştir.
+Hititler ana tanrıçaya dua eden anaerkil bir toplumdu. Ana tanrıçaya yönelerek yapılan ibadet zamanla isim değiştirerek
+KIBELA kelimesinin E harfi kısaltılarak KIBLA olmuştur.
+Daha sonra da KIBLA kelimesi değişime uğrayarak KIBLE olmuştur ve bu haliyle de Müslümanlığa geçmiştir
+ayrıca kıbela kelimesi değişime uğrayarak önce kıbel daha sonra da sıbel ve sibel olmuştur Sibel ismi kök olarak hititlerin ana tanrıçası olan KIBELA dan türemiştir ve güzel kadın anlamındadır
+arinna ---- güneş tanrıçası
+siu (sius) ---- tanrıların başkanı tanrılar tanrısı 
+Yunancaya ZEUS olarak geçmiştir tanrıların tanrısı
+Latinceye ise DEUS olarak geçmiştir tanrılar tanrısı
+KAPODOKYA KRALLIĞI DÖNEMİNE AİT TANRILAR tanrıların saysı 30 000 kadar
+zeus—tanrıların başkanı en yetkili ve en büyük tanrı. Tanrılar tanrısı
+dike --- adalet tanrısı
+artemis—ana tanrıça
+eros --- aşk tanrısı
+athena --- zeka tanrısı
+hypnos ---- uyku tanrıs
+pan --- kır tanrısı
+kronos --- zaman tanrısı kronometre ismi buradan gelir
+afrodit aşk ve güzellik tanrısı
+Misir kültüründeki tanri isimleri.
+Ra --- mısır kültüründe tanrı anlamına gelir. O zamanlar kırallar hem kıral hem de tanrı idi. Ra kelimesi ibranice ve arapçaya geçti Rabbim olarak değişti yani Rabbim demek tanrım demek
+Geb --- yeryüzü tanrısı
+osiris --- en büyük tanrılardan
+isis --- en büyük tanrıçalardan
+KÜPELİ (ANADOLU) YÖRESİNDE HÜKÜM SÜREN TANRI SAYISINA GÖRE İMPARATORLUKLAR
+Bin tanrılı imparatorluk ------ Hititler
+Otuz bin tanrılı imparatorluk ------ Antik Yunan (kapadokya krallığı)
+tek tanrılı imparatorluklar -------- Roma imparatorluğu ve Osmanlı imparatorluğu
+KÜPELİ (ANADOLU DA) SİLSİLEYLE DEĞİŞEN TANRILAR TANRISININ İSİMLERİ
+SEUS -------- Hititler de tanrılar tanrısı
+ZEUS -------- Yunanlılar da tanrılar tanrısı
+DEUS -------- Romalılar da tanrılar tanrısı
+KÜPELİ (ANADOLU DA) UYGARLIKLARA GÖRE DEĞİŞEN GÜZELLİK TANRIÇASI İSİMLERİ
+KİBELA ----- Hititler de güzellik tanrıçası ismi
+AFRODİT ----- Yunanlılar da güzellik tanrıçası ismi
+VENÜS ---- Romalılarda güzellik tanrıçası ismi
+Küpelinin nüfus gelişimi.
+1930 --- 1205
+1945 --- 1588
+1950 --- 1715
+1960 --- 1825
+1965 --- 1995
+1970 --- 1929
+1975 --- 1774
+1980 --- 2067
+1985 --- 1648
+1990 --- 2593
+2000 --- 2382
+2004 --- 1646
+2007 --- 717
+2008 --- 689
+2009 --- 678
+2010 --- 614
+2012 --- 385
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dişi organ</DOCTITLE>
+<TEXT>
+
+Dişi organ, Ginekeum olarak da bilinir, Angiosperm çiçeğinin en iç dairesini meydana getiren pistillerin toplamı. Bir pistil ovaryum, stilus (dişicik borusu) ve stigma olmak üzere 3 kısımdan oluşmaktadır.
+Angiospermlerde pistiller karpellerden meydana gelmiştir. Tohum taslakları gymnospermlerdeki gibi açıkta olmayıp karpeller tarafından sarılmıştır.
+Pistillerin stigması polenleri tutacak şekilde papiller yapıdadır, bazen parçalı da olur. Stilus stigma ile ovaryum arasında yer alır. Silindir şeklinde uzun kısımdır, bu kısım bazen eksik, bazen dallanmış da olabilir. Stilus genellikle ovaryumun tepesinden çıkar, bazen de 
+tabanında çıkar (Ballıbabagillerde olduğu gibi), bu taktirde ginobazik adını alır.
+Ovaryum pistilin şişkin olan ve içinde tohum taslaklarının (ovül) bulunduğu kısımdır. Ovaryum karpellerden meydana gelmiştir. Ovaryumu meydana getiren karpeller tek olabildiği gibi, çok sayıda da olabilirler. Ovaryum tek karpelden meydana geldiğinde bu karpelin iki kenarı birbiri ile birleşmiştir. Birden fazla karpelden meydana gelmişse, karpellerin kenarları birbiri ile birleşerek tek pistil oluşturmuşlardır.
+Bir çiçekte ginekeum meydana getiren karpeller serbest veya bileşik olabilir, karpeller serbestse her karpel bir pistil meydana getirir, bileşikse hepsi birlikte bir pistil meydana getirir.
+Ovaryum ile ilgili terimler.
+Karpeller serbestse apokarp ovaryum, bileşikse sinkarp ovaryum olarak adlandırılırlar.
+Ovaryum genellikle sapsızdır, doğrudan doğruya çiçek tablasına (resaptakulum) tutunur. Bazı bitki çiçeklerinde kısa veya uzun bir sapa sahiptir, bu sapa ginofor adı verilir. Bu sapın tepesinde ginekeumla birlikte androkeumda mevcutsa androginofor adını alır. Ovaryumun içinde tohum taslakları yer alır, bunlar karpellerin kenarlarına plasenta adı verilen noktalara bağlanmışlardır. Tohum taslaklarının ovaryum içindeki dağılış tarzına plasentalanma adı verilir. Tohum taslakları, döllenmeden sonra tohumu meydana getiren
+yapılardır. Bunlar funikulus adı verilen bir sapla plasentaya bağlanırlar. Tohum taslağı (ovül), embriyo kesesi ve onu saran nusellus ve nusellusun dışında yer alan 1 veya 2 integumentten oluşur.
+Kapalı Tohumlu Bitkilerde Çift Döllenme.
+Tohum taslakları içinde yer alan embriyo kesesi başlangıçta tek hücreden ibarettir, gymnospermlerdeki makrospora karşılıktır. Embriyo kesesi ana hücresinin (makrospor anahücresi) mayoz bölünmesi ile meydana gelmiştir. Dolayısıyla haploittir. Art arda 3 mitoz bölünme ile 8 nukleus meydana gelir, bunlardan 3’ü mikropil tarafında kalır, 3’ü
+karşı kutupta, kutuplardan gelen 2 nukleus da ortada birleşir ve embriyo kesesi sekonder nukleusunu meydana getirir. Mikropil tarafındaki nukleuslardan ortadaki yumurta nukleusu, diğerleri de sinergit hücrelerinin nukleusunu oluştururlar. Karşı kutuptakilerde antipot
+hücreleridir. Bu şekilde embriyo kesesi döllenmeye hazırdır.
+Pistilin stigması üzerine çeşitli vasıtlarla gelen polenlerin çimlenmesi ve gelişmesi ile oluşan sperma nukleusları döllenmeyi sağlar. Stigma yüzeyinde şeker, protein ve büyüme maddelerinin bir kısmından oluşan salgılar oluşur. Polenler stigma yüzeyine geldiği zaman, bu salgı maddeleri polenlerin çimlenmesini teşvik eder. Polen tanesinin dış zarı şişer ve porlardan polenin vejetatif hücresi dışarı çıkarak stilusdan aşağıya doğru polen tüpünü meydana getirir. Polen tüpü stilusu
+katederek ovaryumdaki ovüllere kadar ulaşır. Genellikle ovüllerin mikropilinden uzanarak nusellusu geçer ve embriyo kesesine ulaşır. Polen tüpü embriyo kesesine ulaştığında embriyo kesesi içine 2 sperma nukleusunu bırakır. Sperma hücrelerinden biri yumurta hücresi ile 
+birleşir zigot meydana gelir, ikinci sperma nukleusu embriyo kesesi sekonder nukleusu ile birleşir ve besidoku (endosperm) meydana gelir.
+Stigma üzerinde çimlenen ve polen tüpünü meydana getiren polenler, önce tek nukleusludurlar, polen tüpü stilusu katederek tohum 
+taslağının mikropilinden içeriye girip embriyo kesesine ulaştığında 2 sperma nukleusuna sahiptir. Polen tüpü embriyo kesesinin sinergitlerinin bulunduğu kısma ulaşır ve içindeki sperma nukleuslarını buradan embriyo kesesine bırakır. Bundan sonra angiospermlerin önemli
+karakteristiği olan çift döllenme vukua gelir. Sperma nukleuslarının biri ile yumurta hücresinin birleşmesi ile meydana gelen zigot embriyoya gelişirken, ikinci sperma nukleusu ile embriyo kesesi sekonder nukleusunun birleşmesinde besidoku (endosperm) meydana gelmiş olur. 
+Ovülleri saran integumentler de tohum kabuğuna dönüşerek tohum gelişmesi tamamlanmış olur. Bu gelişmeye paralel olarak da ovaryumu meydana getiren karpellerde farklılaşarak meyveyi oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gastrulasyon</DOCTITLE>
+<TEXT>
+
+Blastula evresinden sonra, çokhücrelilerin hemen hepsinde görülen evredir.
+Bu evrede, ektoderm ve endoderm oluşur. Ektoderm, vücudu örten yapıları oluştururken, endoderm; bağırsağı ve onunla ilgili yapıları meydana getirir. Blastulanın üzerindeki blastoderm kural olarak ektoderme karşılık gelir. Üçüncü embriyonik tabaka olan mezoderm, ektodermin ve endodermin arasında ve yanlarda meydana gelir. Gastrulanın başlangıcında, izolesital yumurtalardaki vejetatif kutuba denk olan kısımda, bazı blastomerler blastosöl içerisinde animal kutuba doğru çökmeye başlar. Çökmeden dolayı meydana gelen açıklığa Blastopor (ilkin ağız), çöküntünün tüp şeklindeki devamına da Archentron (ilkin bağırsak) denir. Blastoporun yaşam boyunca ağız olarak kalıp kalmamasına göre bilateral simetrili hayvanlar iki gruba ayrılırlar :
+Gastrulasyonun başlamasıyla ve ilkel bağırsağın animal kutuba doğru ilerlemesiyle ilk Bilateral (Bakışımlı) Simetri oluşur. Blastomerlerin içeri doğru çökmesiyle Invagination (İnvaginasyon); meydana gelen ilk bağırsak boşluğuna da Archentron denir. 
+Gastrulada dış örtü, ileride epidermis ve benzerlerini (kıllar,tüyler,bezler...), sinir sistemi, duyu epiteli, sindirim sisteminin bir kısmını oluşturacak ektodermi oluşturur. İlkel bağırsağın orta kısmını meydana getirecek tabakada, ilerde sindirim sistemine bağlı olacak birçok organı, (pankreas, karaciğer...), akciğer ve önceden belirlenmiş notokordun yapısına katılacak olan endodermi oluşturur. Endodermden meydana gelen mezoderm ise, kasları,iskeleti,damar sistemini, boşaltım organlarını ve gonadozomları oluşturur.
+Telosital yumurtalarda,görülen gastrulasyon karışık bir olaydır ki, burada meydana gelen epiblast hücrelerinin, embriyonun orta kısmından ilerye doğru uzayarak, saydam alanın ortasında İlkin İz (Primitif İz), denilen bir kalınlaşmayı oluştururken, bu izin ortasında bir çöküntü oluşarak İlkin Oluku meydana getirir. İlkin izin ön ucunda, hücrelerin yumru şeklinde yığılarak Hensen Düğümünü yaptığı görülür.
+Kaynaklar.
+Yaşamın Temel Kuralları Cilt-I/Kısım-I/Prof.Dr. A. DEMİRSOY<br>Zogame
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çözünebilen Kayaçlarda Oluşan Yer Şekilleri (EBA)</DOCTITLE>
+<TEXT>
+
+Yeryüzünde jips(alçı taşı), kalker(kireç taşı), kaya tuzu gibi suda kolay çözünebilen kayaçların yaygın olduğu bölgelerde suların etkisiyle karstik aşınım ve birikim şekilleri oluşur.
+Suda eriyik halde bulunan kalsiyum karbonatın suyun buharlaşması sonucu çökmesiyle traverten,sarkıt,dikit gibi karstik birikim şekilleri oluşur. Kalker, jips, tuz gibi kayaçların çözünmesi sonucu lapya,dolin,uvala,obruk,mağara gibi karstik aşınım şekilleri oluşur.
+
+Aşağıda karstik aşınım ve birikim şekilleri tanımlanmıştır.
+1) Su damlacıkları içindeki kalsiyum karbonatın mağara tavanında birikmesi ile sarkıt, mağara tabanında birikmesiyle de dikit oluşur.
+2) Sarkıt ve dikitlerin zamanla birleşmesiyle sütun adı verilen birikim şekilleri meydana gelir.
+3) Sular tarafından çö-zünen kalker tabakası üzerinde lapya denilen oluklar oluşur. Lapyaların genişliği 1-2 cm’den 1-2 m’ye kadar ulaşabilir.
+4) Karstik bölgelerdeki sular düden adı verilen çukurluklardan yer altına sızar. Yağışın bol olduğu dönemlerde ise sular düdenlerden yeryüzüne çıkar.
+Aşağıda karstik aşınım ve birikim şekilleri tanımlanmıştır.
+1) Karstik kayaçların çözünmesi sonucunda meydana gelen küçük çukurluklar dolin olarak adlandırılır.
+2) Dolinlerin birleşmesiyle uvalalar meydana gelir.
+3) Birkaç uvalanın birleşmesiyle polyeler meydana gelir. Polyelerin genişliği birkaç km’yi bulabilir.
+4) Karstik arazide yer altına sızan sular burada çatlaklar boyunca kendisine yol bulur ve çözünmeyle bu yolu genişletir. Çatlakların zamanla büyüyüp genişlemesi ile mağaralar meydana gelir. Birden fazla mağaranın birleşmesiyle de galeri adı verilen daha büyük mağaralar oluşur.
+5) Yeryüzüne çıkan suların bünyesindeki kalsiyum karbonatın çökelmesi ile traverten adı verilen yer şekilleri meydana gelir. Travertenler ihtiva ettikleri minerallerin özelliğine bağlı olarak farklı renk alır.
+6) Mağara tavanlarının veya derinliği artan dolinlerin çökmesi ile meydana gelen çukurluklara obruk adı verilir. Obrukların tabanlarında suların birikmesiyle obruk gölleri meydana gelir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tuz (kimya)</DOCTITLE>
+<TEXT>
+
+Tuz, kimyada, bir asitle bir bazın tepkimeye girmesi neticesinde meydana gelen madde. Tuz bazdaki artı yüklü iyonla asitteki eksi yüklü iyondan meydana gelir. Asitle baz arasındaki tepkime nötrleşme tepkimesi olup bu esnada tuz ve su ortaya çıkar. Erimiş tuz veya çözelti halindeki tuzların çoğu eksi ile artı yüklü iyonlarına ayrışır ve elektriği iletir. Tuz adı ayrıca sofra tuzu veya sodyum klorür (NaCl) için de kullanılır.
+Tuzları çeşitli şekilde sınıflandırmak mümkündür. Sınıflandırmanın birisi tuzun bünyesinde OH- veya H+ iyonunun olup olmayışına bağlı olandır. Bu sınıflandırmada tuzlar normal, asidik ve bazik tuzlar şeklinde sınıflandırılır.Normal tuz; tam nötralleşme ürünü olup, meydana getirici asit ve baz kuvvet olarak birbirine denktir. NaCl, NH4Cl, Na2SO4, Na2CO3, Na3PO4 ve Ca3(PO4)2 birer normal tuzdur.
+Bazik tuzlar.
+Bazik tuzlar, bünyelerinde en az bir OH iyonu bulunduran tuzlardır. Suda çözündükleri zaman ortamı bazik yaparlar. Pb(OH)Cl, Sn(OH)Cl ve Al(OH)2Cl'de olduğu gibi. Diğer sınıflandırma metodunda ise, basit, çift ve kompleks tuzlar şeklinde sınıflandırılır. NaCl, NaHCO3 ve Pb (OH)Cl gibi tuzlar basit tuzlardır.Asitlerle bazlar karıştığında asitin H+ iyonu ile bazın OH- iyonu birleşir.Bu birleşim sırasında bir molekül su açığa çıkar ve tuz meydana gelir.
+Çift tuzlar iki basit tuzdan meydana gelen tuzlardır. Bunlar suda çözündükleri zaman kendilerini meydana getiren iyonlara ayrışır. Şaplar da çift tuzlar sınıfına girer. Na Al(SO4)2 ve NH4Cr(SO4)2 birer çift tuzdur. Kompleks tuzlar, asit kökü aynı olan iki basit tuzun kompleks kök vererek meydana getirdiği tuzlardır.
+K4Fe(CN)6, K3Fe(CN)6, birer kompleks tuzdur. Bunlar suda çözündükleri zaman kendini meydana getiren tuzların iyonlarına ayrışmazlar.
+Tuzlar, önce metalin ismi, sonra asidin kökü söylenerek adlandırılır. Na2SO4 = sodyum sülfat, KCl= potasyum klorür, KHCO3 = potasyum hidrojen karbonat (potasyum bikarbonat) gibi.
+Bazı tuzlar, kuvvetli asit ve zayıf bazdan veya kuvvetli baz ve zayıf asitten meydana gelmiştir. Bu tuzlar suda çözündükleri zaman hidrolize uğrarlar ve çözeltiyi asidik veya bazik yaparlar.
+Tuzların elde edilişi.
+Asit ve bazların nötrleşmesinden elde edilirler:
+Metallere asit tesir ettirmekle elde edilirler:
+Bazik bir oksite anhidrit tesir ettirmekle elde edilirler:
+Elementlerinden elde edilebilirler:
+Metallere baz tesir ettirmekle elde edilirler:
+Bazik bir oksite asit tesir ettirmekle elde edilirler:
+Bir metal(6A grubu) ile ametalin (7A grubu) tepkimesiyle elde edilirler:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kiyi Tipleri Ve Oluşum Süreçleri (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya üzerinde farklı kıyı tiplerinin oluşmunda yeryüzü şekilleri ile akarsular, buzullar, gel-git, dalga ve akıntılar etkili olmuştur.
+Dağların kıyı çizgisine dik uzandığı bölgelerde enine kıyılar meydana gelir. Bu tip kıyılar fazla girintili çıkıntılıdır.
+Dağların kıyı çizgisine paralel uzandığı bölgelerde meydana gelen boyuna kıyılar sade bir görünüme sahiptir.
+Buzulların etkisi ile oluşan hörgüç-kaya ve morenlerin sular altında kalması ile meydana gelen kıyılara skayer kıyı adı verilir.
+Kıyı oklarının koy önlerini kapatması ile limanlı kıyılar meydana gelir.
+Denize paralel uzanan dağlar arasındaki vadiler, denizin yükselmesi sonucunda sular altında kalır. Böylece denizin içinde kalan dağ ve tepeler ada görünümü alarak dalmaçya tipi kıyılar oluş turur.
+Deniz kıyılarında akarsu vadilerinin sular altında kalmasıyla ria tipi kıyılar oluşur.
+Buzul vadilerinin sular altında kalmasıyla fiyortlu kıyılar meydana gelir. Fiyort tipi kıyıların bulunduğu bölgelerde çok sayıda koy, körfez ve yarımada meydana gelir.
+Haliç tipi kıyılar gel-git olayının etkili olduğu yerlerde akarsuların ağızlarının genişlemesi ile oluşan kıyılardır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Toksin</DOCTITLE>
+<TEXT>
+
+Toksinler, mikroorganizmaların salgıladıkları bir takım zehirli maddelerdir. Toksinler iki grupta toplanırlar: 
+Daha çok gram (+) mikroorganizmalar tarafından meydana getirilirler. Başlıca "Clostridium tetani" (tetanoz etkeni), "Clostridium" etkeni), "Clostridium perfringens", Gram (-)lerin bir kısmı, "Shigella dysenteria" (dizanteri amili), "Vibrio cholera" (kolera amili) ekzotoksin yapar. Ekzotoksinler mikroorganizma tarafından dışarı salınırlar.
+Toksinler suda erirler. Bu yüzden bulundukları ortamda hızla yayılırlar. Bakteriler dışında birtakım hayvanlar da ekzotoksin yapar. Toksinler oldukça şiddetli zehirlerdir. Sıvı halde ve beklemekle aktivitelerini kısmen kaybederler. "Clostridium botulinum" toksini yeryüzünde bilinen en kuvvetli toksindir.
+Toksinler genellikle polipeptid yapısında maddelerdir. Molekül ağırlıkları 10-90.000 arasında değişmektedir. Isıya ve proteinleri eritici enzimlere karşı dayanıksızdırlar. Antijenik yapıya sahiptirler. Girdikleri organizmada özel bir takım antikorlar meydana getirirler. Difteri, botulinum ve tetanoz toksini sinir sistemini tutarak bir takım felçlere sebep olurlar.
+Ekzotoksinler, genellikle sıcağa dayanıksız olup 60-80 °C sıcaklıkta tahrip olurlar. Ancak bazı stafilokokların meydana getirdiği enterotoksinler ekzotoksin yapısında olduğu halde 100 °C'de 20 dakika dayanıklılık gösterirler. Kolera vibrionları barsaklarda bir enterotoksin meydana getirmektedirler ve kolerada aşırı tuz ve su kaybı meydana gelmesine bu enterotoksin sebep olmaktadır. Streptokoklardan bazıları da ekzotoksin yapısında bir takım maddeler çıkarırlar ki bunlar eritem dediğimiz bir takım döküntülere sebep olurlar. Buna "eritrojenik toksin" denir. Kızıl hastalığı, bu toksinlerden meydana gelir.
+Ekzotoksinlerin iki grubu bulunmaktadır:
+Ekzotoksinin bu iki grubundan birisi yok edildiğinde ötekisi etkinlik kazanır. Misal, formaldehit veya ısıyla toksik grup ortadan kalkar. Sadece haptofor grubu sabit kalır. Böyle bir toksine "anatoksin" denir.
+Anatoksini ilk olarak Ramon isimli araştırıcı 1913'te bulmuştur. Buna Ramon anatoksini de denir. Ramon difteri toksinine % 004'lük formaldehit ilave etmekle toksofor grubunu etkisiz hale getirmiş, haptofor grubunun antijenik kaldığını görmüş ve buna difteri ve tetanoz anatoksinlerinden gerek aşı yapmada ve gerekse tedavi edici bir takım antiserumlar elde etmek için hayvanları immunize etmekte faydalanılmaktadır.
+Endotoksinler.
+Bakterilerin hücre çeperlerinde bulunan dışarıya salgılanmayan, ancak hücrenin parçalanması sonucu meydana çıkan lipopolisakkarit yapısında (yani bakterinin yapı maddelerinden olan) bir takım toksik maddelerdir. Daha çok gram (-) bakteriler tarafından meydana getirilirler. Bunlar da ısıya ve birtakım protein eritici enzimlere karşı dayanıklıdırlar. Bazıları 100 °C sıcaklığa dayanabilir ve Formol'la (harap olmaz) suda erirler. Genellikle şeker-yağ-polipeptit yapısında olan bir O antijeni olarak kabul edilir. Bu yüzden de O antikorlarıyla tahrip olurlar. Molekül ağırlıkları 100-900.000 arasında değişmektedir. Ekzotoksinlere oranla daha az toksinlidirler.
+Endotoksinler bir organizmaya girdikten sonra 1-1,5 saat içinde ateş (vücut) yükselmesine sebep olurlar. Bunu, beyindeki ısı düzenleyici merkezi etkileyerek yaparlar. Organizmada ateşten başka solunum güçlüğü, ishal ve bacaklarda felce sebep olmaktadırlar. Kanda önce akyuvarların azalmasına, sonra çoğalmasına sebep olurlar. Kanın pıhtılaşmasını değiştirirler.
+Endotoksimik şok.
+Kan basıncı düşer, aşırı terleme olur. Bu şokun başlangıcında önce küçük çaplı atardamarlar ve toplardamarlarda bir büzüşme olurken vücudun uç kısımlarındaki damarlarda da genişleme olur ve damar geçirgenliği artar. Damar içi maddeler, damar dışına çıkar. Kalbin atım hacmi azalır. Buna bağlı olarak kan basıncı düşer ve şok tablosu meydana gelir. Bunun sonucunda birtakım hayati organlar (böbrek, kalp, beyin) kansız kalır ve ölüm meydana gelir. Endotoksinlerin yol açtığı bu şok çeşidi, birtakım cinai düşüklerden sonra, bazı cerrahi müdahalelerden sonra ve bazı enfeksiyon hastalıklarının seyri esnasında görülebilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Holosen</DOCTITLE>
+<TEXT>
+
+Holosen,Kuvaterner devri içerisinde yer alan Pleistosen devresinin bitmesinden (11.000- 12.000 yıl önce) günümüze kadar sürmekte olan jeolojik devredir. Adı antik Yunancada “tamamen yenilenmiş” anlamına gelir. Dönem Genç Buzul çağının (Younger Dryas) bitmesiyle başlayan buzul durgun (interstadial) dönemine karşılık gelir. Adını Yunanca kelimeler olan "ὅλος" (Holos, "tamamen") ve "καινός" (kainos, "yeni") sözcüklerinden alır ve ""tamamen yeni"" anlamına gelir.
+Holosen, insan türünün mevcut yerleşik hayata ve yazılı tarihe doğru önemli bir geçiş yaptığı ve dünya çapında kültürel gelişimlerin görüldüğü bir çağ olduğu ve yaşadığımız zamanı tanımladığı için jeolojik devirler arasında önemli bir yer kapsar.
+İklim.
+Holosen döneminin başlangıcı günümüzden 11.000 by önce genç buzul çağının bitmesi olarak kabul edilir.İklim değişikliğine göre pek çok seriye ayrılmaktadır.Genel itibariyle sıcak olan bu dönem içerisinde atmosferik soğuk salınım dönemleri meydana gelmiştir.
+Genç Buzul Çağının bitmesi ile Holosen iklim optimumu (HİO, Holcene Climate Optimum günümüzden 9500-5000 yıl önce) yaşanmıştır. Bu dönem günümüze göre nispeten daha ılımandır.Güney ve kuzet yarımkürede 11-7 by öncesinde buzullar kutuplara doğru çekilmeye başlamıştır.Yakın dönem içerisinde 10 ile 14. yüzyıllarda Ortaçağ Sıcak Dönemi yaşanmıştır.14-ile 19. yüzyıla kadar Küçük Buz Çağı yaşanmıştır.
+Holosen Buzullaşmaları.
+Buzul arası (İnterstadial) bir dönem olan Holosen, aslında küresel anlamda ciddi bir buzullaşmanın meydana gelmediği bir dönemdir. Grönland Buzulu’ndan elde edilen GRIP ve GISP2 sondajlarından elde edilen denizel iztop verileri neticesinde 8 defa soğuk (bond dönemi) dönem yaşandığı belirlenmiştir. Özellikle yüksek dağ kütlelerinde buzulların alanların bazı dönemler genişlemeler olmuştur.
+Geç Holosen içerisinde Küçük Buz Çağı (Little Ice Age:LIA) olarak adlandırılan kısa dönemli bir ara soğuk dönem meydana gelmiştir. 1550- 1850 yılları arasında 300 yıl kadar devam eden bu soğuk dönem içerisinde, kutup bölgelerinde örtü buzulları ilerlemiş, dağlık bölgeler ise vadi buzulları daha alçak bölgelere kadar ilerlemiştir.
+Deniz Seviyesi Değişmeleri.
+Kuvaternerin soğuk buzul dönemlerinde küresel çapta deniz seviyesi alçalmış, nispeten sıcak dönemlerde ise deniz seviyesinde yükselmeler meydana gelmiştir.Son 20 by içerisinde deniz seviyesindeki değişim sabit hıza sahip değildir. Buzulların erime dönemlerinde meydana gelen erime suyu baskınları deniz seviyesinin yükselmesine neden olmuştur.Erken Holosen döneminde deniz seviyesi bugüne kıyasla 55 metre alçakta iken 6500 yıl önce bugünkü düzeyine yükselmiştir. Son 300 yılda ise küresel ölçekte deniz seviyesinde 28 metre yükselme meydana gelmiştir.
+Tektonizma.
+Erken Holosen döneminde döneminde levhalar, günümüzdeki hızlarında hareket ettiklerinden ötürün yerküre gerek levha tektoniği gerekse de paleocoğrafik anlamda kıyı bölgeleri hariç genel görünüm günümüzdeki gibidir. Buzulların erimesi sonucunda öztatik hareketler hız kazanmış ve eski buzul sahalarında yükselmeler meydana gelmekterdir. Buzuk sonrası esneme hareketleri litosferde yükselme meydana getirmektedir. Günümüzde en belirgin yükselme örnekleri Kuzey Kanada ve İskandinavya kütlelerindeki yükselmelerdir.Son buzul sonrası esneme sürecinin, "küresel ölçekte" levhaların yatay hızlarında 1mm/y'lık bir etkiye sahip olduğunu ve tektonik levha mevcudiyetleri ile litosferik kalınlığın yatay yöndeki çeşitliliğine bağlı olduğunu göstermektedir
+Beşeri Gelişmeler.
+Holosen döneminde bitki ve hayvan türlerinde bir takım değişmeler meydana gelmiştir.Hayvanların sayılarında azalma olmuş bunlardan Mamut, Mostadon ve Kılıç Dişli Kaplan gibi pek çok tür varlığını sürdüremeiştir. Bu dönem içerisinde insanoğlu yeryüzünde en etkin varlık olmuştur.
+Mezolitik: Kuzey Avrupa'da buzul dönemi sonrasında ortaya çıkan kültürleri ifade etmek için kullanılan bir deyimdir.M.Ö.10.000-5.000) Bu dönemde iklim koşullarında meydana gelen değişmeler bağlı olarak flora ve fauna dünyasında değişmeler meydana gelmiştir.Bu dönemde insanoğlu avcı toplayıcı türü özelliğe bağlı kalmıştır. Köpek ilk kez bu dönemde evcilleştirilmiştir.
+Neolitik: Yeni ya da Cilalı Taş Çağı olarak bilinir.Bu dönemde insanlar yerleşik hayata geçmiştir.İlk kez mimari ortaya çıkmış ve taş temeller üzerinde kerpiç evler yapılmaya başlamış. Ayrıca sanat ve zanaat faaliyetlerine bağlı ürünler ortaya konulmuş ve ilk ticari faliyetler bu dönemde yapılmıştır
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cycadales</DOCTITLE>
+<TEXT>
+
+Bu ordo (takım) tek familya ihtiva etmektedir. Bu familya Cycadaceae’dir.
+Çikaslar, dioik bitkiler olup, anavatanları Japonya, Madagaskar, Malezya, Güney Asya, Afrika, Kuzeydoğu Avusturalya ve Polinezya’da 15 türü ile temsil edilirler.
+Cycadales üyeleri muhtemelen Paleozoikte ve daha sonra Mezoikte mevcuttur. Bunların mezozoikte çok bol ve geniş yayılışlı oldukları tahmin edilmektedir. Daha sonraları çoğu ortadan kalkmış, zamanımızda az sayıda tür ile tropik ve subtropik bölgelerde yayılış gösterirler. Zamanımızda muhtemelen 130 türü bulunmaktadır. Bu ordo ve aynı adla geçen familyanın en önemli cinsi Cycas’dır (yalancı sago familyası). Çikaslar dekoratif bitkiler olup bunların boyları 10-15 m. kadar yükselir, kalın gövdeli ve tepesinde rozet şeklinde tüysü yaprakları bulunan ağaçlardır. Bu özellikleri ile palmiyeleri andırırlar.
+Erkek çiçek.
+Erkek çiçekler birçok mikrosporofilin sarmal dizilerek meydana getirdiği büyük kozalaklar (strobulus) halindedir. Altyüzlerinde çok sayıda mikrosporang (mikrosporangium) taşıyan mikrosporofiller pul veya kalkan şeklindedir ve mikrosporanglar kısmen gruplar halinde bulunurlar. Bunlar sor’lar halinde birleşen eğrelti sporanglarını andırırlar.
+Dişi çiçek.
+Dişi çiçekler gövdenin tepe kısmında gevşek yapılı bir koni şeklinde bir arada bulunan tüysü makrosporofillerden meydana gelmiştir. Makrosprofiller sarımtırak-esmer renkli tüylerle örtülüdür. Bunların alt kısımlarındaki pinnalardan 2-8 tanesi makrosporang (tohum taslağı, makrosporangium) halinde gelişmiştir. Dişi çiçeğin teşekkülü ile vejetasyon noktasının büyümesi durmaz, bir müddet sonra yeniden yaprak meydana getirir.
+Mikrospor (polen tanesi) bir protal hücresi, bir anterid hücresi ve bir jetatif hücre şeklinde farklılaşır. Polen tanesi rüzgarla dişi çiçek üzerine taşınır ve polen tüpü meydana geldiği esnada anterit hücresi bir sap hücresi ile spermatogen hücreye ayrılır. Spermatogen hücre bölünerek 2 spermatozoit hücre meydana getirir. Bu grupta spermatozoitler oldukça büyük ve salyangoz şeklinde üzeri sarmal dizilişli birçok kirpik ile çevrilidir.
+Çikaslarda tohum taslakları (makrosporang) kalın bir integümentle çevrilidir. Nusellusun üst kısmındaki dokunun erimesi ile mikropilin altına rastlayan kısımda polen odası adı verilen bir çukurluk mevcuttur. Nusellusda 4 makrospor hücresinden biri gelişerek oldukça büyük makroprotalı meydana getirir. Makroprotalın mikropile bakan kısmında birkaç adet arkegon odasını meydana getirir, daha sonra arkegon odası polen odası ile doğrudan doğruya irtibat haline geçer.
+Arkegonlarda büyük bir yumurta hücresi (0,6 mm.) kısa zamanda ortadan kalkan bir karın kanal hücresi, 2 boyun kanal hücresi mevcuttur. Polen tüpünde teşekkül eden spermatozoitler kirpiklerini kaybederek yumurta hücresi ile birleşirler. Bunlarda polen tüpü spermatozoitleri
+ileten bir kanal olmaktan çok tespit edici bir organ işini görmektedir. Meydana gelen zigot gelişerek bir proembriyonun derinliğine iter. Embriyo olgunlaşma esnasında kök kutbu mikropile yöneltilmiş olarak tohumu tamamen doldurur. Aynı zamanda integümentlerin dış kısmı etlenir, iç kısmı ise sertleşir, her ikisi ile birlikte tohum örtüsünü meydana getirir.
+Önemli cinsleri.
+Çikas türleri süs bitkisi olarak kültüre alınmıştır. Memleketimizde de bazı parklarda bazı türleri mevcuttur. Çikaslar 2-3 metre boyunda palmiyeyi andıran ağaçlardır. Bu cinsin Madagaskar, Hindistan ve Çin’de 10-15 türü bulunmaktadır.
+Cycadaceae familyasının Cycas’ın dışında 9 tane daha cinsi bulunmaktadır. Bunlar dünyanın belirli yerlerinde, özellikle sınırlı yerlerde yayılmışlardır.
+
+</TEXT>
+</DOC>
+

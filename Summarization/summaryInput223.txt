@@ -1,0 +1,311 @@
+Question: Depremler ve tsunami arasında nasıl bir ilişki vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Deprem</DOCTITLE>
+<TEXT>
+
+Deprem, yer sarsıntısı veya zelzele, yer kabuğunda beklenmedik bir anda ortaya çıkan enerji sonucunda meydana gelen sismik dalgalanmalar ve bu dalgaların yeryüzünü sarsması olayıdır. Sismik aktivite ile kastedilen meydana geldiği alandaki depremin frekansı, türü ve büyüklüğüdür. Depremler Sismometre ile ölçülür. Bu olayları inceleyen bilim dalına da Sismoloji denir. Depremin şiddeti Moment magnitüd ölçeği (ya da eskiden kullanımda olan Richter ölçeği) ile belirlenir. Bu ölçeğe göre 3 ve altı şiddetteki depremler genelde hissedilmezken 7 ve üstü şiddetteki depremler yıkıcı olabilir. Sarsıntının şiddeti Mercalli şiddet ölçeği ile ölçülür. Depremin meydana geldiği noktanın derinliği de yıkım kuvvetine etkilidir ve yer yüzüne yakın noktada gerçekleşen depremler daha çok hasar vermektedir.
+Dünya yüzeyinde gerçekleşen depremler kendilerini bazen sallantı bazen de yer değiştirme şeklinde göstermektedir. Bazen yeryüzüne yakın bir noktada güçlü bir deprem gerçekleştiğinde tsunamiye sebep olabilir. Bu sarsıntılar ayrıca toprak kayması ve volkanik aktiviteleri de tetikleyebilir.
+Genel olarak "deprem" sözcüğü herhangi bir sismik olayın -Doğal bir fenomen olarak gerçekleşmiş veya insanların sebebiyet verdiği- ürettiği sismik dalgaları adlandırmak için kullanılır. Depremler genellikle kırıkların (fay hatları) çatlamasıyla oluşur. Bunun yanı sıra volkanik faaliyetler, toprak kaymaları, mayın patlamaları veya nükleer testler sonucunda da gerçekleşebilir.
+Doğal depremler.
+Deprem kırık türleri.
+Üç çeşit kırık tipi bulunmaktadır. Bunlar; Eğim atımlı ters kırık, eğim atımlı normal kırık ve doğrultu atımlı kırıklardır.
+Yeryüzünde pek çok deprem eğim atımlı ve doğrultu atımlı faylardaki kırıklar sonucunda meydana gelmektedir.
+Artçı depremler.
+Ana depremden sonra meydana gelen sarsıntılara artçı sarsıntı denmektedir. Artçı sarsıntılar ana depremin hissedildiği merkezde gerçekleşir ancak şiddet olarak ondan daha küçüktür. Eğer artçı sarsıntı ana depremden daha şiddetli gerçekleşirse bilinmelidir ki 
+artçıdan önce meydana gelen deprem ana deprem değil öncü sarsıntıdır ve artçı sarsıntı adı verilen sarsıntı aslında ana depremdir.
+Deprem fırtınası.
+Belirli bir bölgede meydana gelen depremler dizisidir. Artçı sarsıntılardan farkı tek bir depreme bağlı olmayışlarıdır. Esas depremden sonra ondan daha yüksek şiddette artçılar meydana gelmezken deprem fırtınalarında bu mümkündür. Deprem fırtınasına örnek olarak 2004 yılında Yellowstone Ulusal Parkında meydana gelen sismik aktiviteleri verebiliriz.
+Büyüklüğü ve gerçekleşme sıklığı.
+Dünyada her yıl yaklaşık 500.000 deprem meydana gelmekte ve bunların 100.000 kadarı hissedilmektedir.
+Büyük şiddette depremler az sıklıkla gerçekleşir. Örneğin; Kabaca günde 10 kez gerçekleşen depremlerin çoğunun 4 şiddetinde olması 5 şiddetine göre daha olasıdır. Yine örneğin; İngilterede her yıl 3.7-4.6 şiddeti arası depremler, 10 yıl içinde 4.7-5.5 şiddetinde depremler görülürken 5.6 ve üstü şiddetteki depremler 100 yılda bir görülebilmektedir. Buna Gutenberg-.richter kuralı denilmiştir.
+Yine USGS'ye göre 1900 yılından bu yana yılda ortalama 18 adet 7.0-7.9 şiddetleri arasında deprem meydana gelirken 8.0 ve üstü bir deprem yılda ortalama yalnızca bir kez gerçekleşmektedir.
+Yakın tarihte ise 7.0 ve üstü şiddetteki depremlerin sıklığının azaldığı görülmektedir.
+Yapay depremler.
+Depremlerin büyük çoğunluğu Dünyadaki tektonik tabakaların hareketi sonucu meydana gelir. Bunun yanı sıra insanlar da deprem oluşumuna neden olabilir. Büyük barajlar ve köprüler inşa ederken, toprağı delerken, kömür madeni kazarken veya petrol kuyuları açarken insanlar yapay depremler yaratabilir. En bilinen örneklerden biri 2008 yılında Çin'in Sichuan kentindeki Zipingu Barajının çökmesi sonucu oluşan ve 69,227 kişinin ölümüne sebep olan yapay depremdir.
+Ölçümü ve yerlerinin belirlenmesi.
+Depremler sismometrelerle uzun mesafeler boyunca ölçülür çünkü sismik dalgalar Dünyanın iç kısmı boyunca hareket halindedirler.
+Depremin kesin şiddeti Moment magnitüd ölçeği numaralandırması (ya da eskiden kullanımda olan Richter ölçeği) ile tespit edilir. Buna göre 7 ve üstü depremler yıkıcı türlerdendir. Hissedilen şiddet ise Mercalli şiddet ölçeği ile ölçülür. (2-12 şiddeti)
+Her yer sarsıntısı değişik tipteki sismik dalgaların farklı hızlardaki hareketini meydana getirir: Boylamsal (P-dalgaları), Enlemsel (S-dalgaları) ve bir takım yüzey dalgaları. Sismik dalgaların yayılma hızı ortamın yoğunluğu ve esnekliğine göre 3 km/s ile 13 km/s arasında değişebilir. Yeryüzünde S-dalgalarına oranla P-dalgaları çok daha hızlı ilerler. Rasathaneler ile depremin merkez üssü arası uzaklık farkı ölçülmekle birlikte deprem odağının derinliği de kabaca ölçülür.
+Depremler sadece şiddetlerine göre kategorilendirilmez. Bunun yanı sıra nerede meydana geldikleri de önemlidir. Dünya sismik aktivitelerle birlikte coğrafi ve politik olarak 754 Flinn-Engdahl bölgeleri (F-E bölgeleri)'ne ayrılmıştır. Daha aktif alanlar daha küçük alanlara bölünmüştür. Pek aktif olmayan kuşaklar ise geniş F-E bölgeleri oluşturur.
+Sonuçları.
+Sallantı ve yeryüzünün çatlaması.
+Sallantı ve yeryüzü çatlamasına bağlı olarak binaların ve dikili yapıların zarar görmesi depremlerin en temel sonuçlarından biridir. Sonucun ciddiyeti; depremin Richter ölçeğine göre şiddeti, merkez üsse olan uzaklığı ve yerel jeolojik, jeomorfolojik durumlarına bağlı olarak dalga yayılımı arttıran yahut azaltan karmaşık bir birleşimdir.
+Yer sarsıntısı zemin hızlanması ile ölçülür.
+Bölgeye özgü jeolojik, jeomorfolojik ve yapısal özellikler düşük şiddetli depremlerde bile güçlü şiddette bir sallantıya sebep olabilir. Buna amplifikasyon etkisi denmektedir.
+Yer çatlakları baraj, köprü, nükleer tesis gibi büyük ve geniş yapılar için büyük tehlike oluşturmaktadır.
+Heyelan ve çığlar.
+Depremler ardından gelen pek çok ve sürekli artçı sarsıntı, volkanik dağların aktif hale geçmesi, kıyıya vuran güçlü dalgalar ve orman yangınları sonucu heyelanlar meydana gelebilmektedir. Heyelanlar deprem sonrası yardım için orada bulunan personel için de önemli bir tehlikedir.
+Yangınlar.
+Deprem ardından elektrik hatları ile gaz borularının zarar görmesi sonucu yangınlar çıkabilir. Yine depreme bağlı olarak su borularının da zarar görmesi durumunda depremlere zamanında müdahale etmek zorlaşabilmektedir. Örneğin; 1906 San Francisco depreminde ölümlerin çoğu durdurulamayan yangın sonucunda gerçekleşmiştir.
+Zemin sıvılaşması.
+Zemin sıvılaşması sallantı sonrası suya doymuş tanecikli materyallerin sıkılığını kaybetmesi ve katı halden sıvı hale geçmesi şeklinde görülebilir. Bu durumda binalar ve köprüler çökebilir ya da bulunduğu noktaya batabilir. Örneğin; 1964 Alaska Depreminde pek çok yapı toprağın sıvılaşması sonucu çökmüştür.
+Tsunami.
+Tsunamiler okyanus ya da denizlerin tabanında oluşan depreme bağlı taban çökmesi, zemin kaymaları gibi meydana gelen tektonik olaylar sebebiyle denizde açığa çıkan enerji sonucunda meydana gelen uzun periyotlu deniz dalgasını temsil eder.
+Tsunamiden sonra oluşan dalganın diğer deniz dalgalarından farkı, su zerreciklerinin sürüklenmesi sonucu hareket kazanmasıdır. Derin denizde varlığı hissedilmezken, sığ sulara geldiğinde dik yamaçlı kıyılarda ya da V tipi daralan körfez ve koylarda bazen 30 metreye kadar tırmanarak çok şiddetli akıntılar yaratabilen bu dalga; insanlar için deprem, tayfun, çığ, yangın ya da sel gibi bir doğal afet haline gelebilmektedir.
+7.5 ve üstü şiddetteki depremler tsunami oluşturmaya daha müsaittir.
+Seller.
+Seller de deprem sonrası oluşabilen tehlikelerden biridir. Sellere nehir ve göllerin kapasitelerinden fazla su taşımaları sonucunda taşmalarının yanı sıra deprem sırasında barajların yıkılması veya hasar görmesi de sebep olabilir.
+Gelgit kuvveti.
+Depremlerin gelgit kuvvetlerini oluşturduklarını da tespit edilmiştir.
+İnsana Etkileri.
+Depremler hastalık, temel ihtiyaç eksikliği, yaşam kaybı, yüksek sigorta primleri, genel mülke zarar, yollarda ve köprülerde hasar ile binalarda çatlak ve yıkılmaya sebep verebilir. Volkanik faaliyetleri harekete geçirerek var olan hasardan çok daha fazlasına sebep olabilir.
+Başlıca depremler.
+Yeryüzünde ölçülmüş en büyük deprem, 22 Mayıs 1960 tarihinde Şili'nin Cañete kentinde meydana gelen 9.5 büyüklüğündeki depremdir. Enerji boşalımı olarak bakıldığında ise bir sonraki en büyük deprem 9.2 ile 27 Mart 1964 tarihinde Alaska'da gerçekleşmiştir.
+Yeryüzünde ölçülmüş en büyük 10 depremin tamamı 8.5 ve üstü büyüklükteyken buna paralel olarak en çok can kaybına sebebiyet vermiş depremlerden biri de bunlar dışında 2004 yılında Hint Okyanusunda meydana gelen depremdir.
+Depremlerin en önemli sonucu insanların hayatını kaybetmesidir. Güçlü bir deprem gerçekleştiğinde okyanus kıyısında bulunan ve pek çok insanın yaşadığı bölgeler önemli risk oluşturmaktadır. Bu depreme bağlı olarak tsunami meydana gelebilmekte ve binlerce kilometre uzaklıktaki bölgeleri bile etkileyebilmektedir. Tehlike altındaki diğer insanlar depremlerin nadir ancak kuvvetli görüldüğü yerlerde, depreme önem vermeyen fakir bölgelerde ve kontrolsüz inşa edilmiş yapılarda yaşayan insanlardır.
+Tarihi.
+Orta Çağ öncesinde.
+Yunan filozof Anaxagoras'ın yaşadığı 5.yüzyıldan 14.yüzyıla kadar depremler "Dünyanın oyuklarındaki hava boşlukları"na bağlandı.
+Milattan önce 625-547 yıllarında yaşayan Thales ise depremlere yeryüzü ve su arasındaki gerilimin sebep olduğunu ileri sürmüştür. Miletli Anaksimenes'e göre ise eğimli arazilerin kurak yahut yaş olma durumu depremlerin temel sebebiydi. Bir diğer filozof Demokritos'ta depreme sebep olarak suyu göstermişti. Gaius Plinius Secundus depremleri yeraltı fırtınaları olarak tanımlıyordu.
+Kültür ve depremler.
+Mitoloji ve deprem.
+İskandinav mitolojisinde, depremlerin sebebi olarak Tanrı Lokri gösterilir.
+Yunan Mitolojisinde, Poseidon depremlerin sebebi ve tanrısı olarak görülüyordu. Ne zaman kötü hissetse 3 dişli çatalını yere saplar, deprem ve benzeri felaketlere yol açardı. Bunların dışında o depremi insanları korkutmak ve onlardan öç almak için de kullanmıştır.
+Japon Mitolojisinde, Namazu (鯰) adı verilen dev kedi balığının depremlere sebep olduğuna inanılmıştır. Namazu yeryüzü çamurunun altında yaşar ve Tanrı Kashima tarafından oraya hapsedilmiştir. Kashima onu serbest bıraktığında Namazu çırpınmaya başlar ve büyük depremlere yol açar.
+Eski Türk mitolojisine göre, Türkler yeryüzünü bir dikdörtgen biçiminde tasavvur etmişlerdi. Yeryüzü dört yöne bölünmüştü. Altaylı Türkler, ‘dünyanın önce daire, sonra kare seklinde’ olduğuna inanırlar (Çoruhlu 2002: 89). Altayların kuzeyindeki Teleüt Türklerine göre, Dünya, dört gök öküzün üzerinde duruyordu: “Dört gök öküz, tabağa benzeyen dünyayı, altına girerek değil; kenarlarına kosulmus olarak tutuyorlardı. Öküzlerin kıpırdamalarından, deprem oluyordu.
+Popüler kültür.
+Modern dünyada depremler pek çok roman, tiyatro, sinema eserine ilham vermiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Depremler (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlığın varoluşundan bu yana depremler en önemli doğal olaylardan biri olmuştur. İnsanlar ilk önceleri depremlerin oluş nedenlerini değişik şekillerde açıklamaya çalışmışlardır. Örneğin, sık sık deprem olan Japonya'da, Dünya kurulurken toprağın içinde kalan bir balığın dışarı çıkmak için yaptığı çırpınmaların depremleri oluşturduğuna inanılmıştır. Yeni Zelanda’nın ilkel kavimlerinin inançlarına göre deprem, deprem yaratan bir tanrının arzusuna bağlı olarak oluşmaktaydı. Ancak 18. yüzyılın sonlarına doğru bu görüşler etkisini yitirmiş ve depremlerin nedenleri bilimsel yöntemlerle açıklanmaya başlanmıştır.
+Fay Tipleri
+Yer kabuğu hareketleri, yer kabuğunu oluşturan tabakaların üzerinde çok büyük gerilimler oluşturur. Bu gerilimler neticesinde sert olan tabakalar kırılır. Bu kırık alanlar fay hatlarını oluşturur. Fayların geçtiği sahalar çoğu kez yer kabuğunun altında biriken enerjinin kolaylıkla yer yüzüne çıktığı alanlardır. Fay hatlarının geçtiği yerlerde deprem riski de fazladır.
+Normal fay
+Fay hattının iki yanındaki blokların düşey yönde birbirinden uzaklaşmasıyla oluşur.
+Ters fay
+Alçalan bloğun, yükselen blok altına dalmasıyla oluşur.
+Doğrultu atımlı fay
+Kırık boyunca tabakaların yatay yönde yer değiştirmesi ile oluşur.
+Fayların iki tarafında kalan bloklar aşağı ve yukarı doğru hareket edebileceği gibi yatay olarak da hareket edebilir ve bu hareket sonrasında da depremler meydana gelir. Bu tür depremlere tektonik depremler denir. Depremin büyüklüğü açığa çıkan enerji miktarına bağlıdır.
+Dış merkez
+Deprem dalgalarının en kısa yoldan yüzeye ulaştığı noktadır.
+Deprem şiddetinin en fazla hissedildiği yerdir. Deprem dalgaları suya atılan taşın oluşturduğu dalgalar gibi merkezden çevreye doğru yayılır. Merkezden uzaklaştıkça depremin etkisi de azalmaktadır.
+İç merkez
+Deprem sırasında deprem odağından yayılan titreşimler (dalgalar) yer kabuğunda sarsıntılar oluşturur.
+Depremin başladığı yer olarak kabul edilen noktadır.
+Birikmiş enerjinin tümü ilk sarsıntıda boşalmayabilir. Kalan kısım asıl depremi takip eden artçı sarsıntılarla boşalır.
+Deprem Dalgalarının Etkisi
+Deprem sırasında deprem dalgalarının yayıldığını öğrenmiştiniz. Deprem odağından çevreye doğru yayılan dalgaların şiddeti ve etkileri aşağıdaki tabloda gösterilmiştir.
+Boyuna Dalgalar (P)
+Yüzeye ilk ulaşan ve saniyede 8 km yol alan bu dalhalar zemini sıkıştırma ve genişletme özelliğine sahiptir.
+Enine Dalgalar (S)
+Saniyede 4,5 km yol alarak yüzeye ulaşır ve yüzeyi sağa sola, aşağı yukarı sallar.
+Yüzey Dalgalar (L)
+Saniyede 1,5 km yol alan yüzey dalgalar gibi salınım hareketleri meydana getiren yıkıcı etkisi en fazla olandır.
+Deprem Dalgalarını Tespit Etmek
+Deprem, sismoloji biliminin inceleme alanına girmektedir. Deprem titreşimlerini kaydetmek için bilim adamları sismograf denilen cihazı kullanmaktadırlar.
+Depremin şiddetini tespit etmek için bazı ölçekler geliştirilmiştir ve bunlardan en yaygın olarak kullanılanı Richter (Rihter) ölçeğidir.
+Richter (Rihter) ölçeği depremin yaptığı hasara göre değil, deprem odağından çevreye yayılan enerji miktarına göre yapılmıştır. Deprem sırasında açığa çıkan bu enerjiye depremin magnitüdü (büyüklüğü) denir.
+Rihter ölçeği Depremin büyüklüğü (Magnitüd)	Mercalli ölçeği	Depremin şiddeti
+3,5-4,2	1 -3	Hafif
+4,3-4,8	4-5	Orta
+4,9 - 6,1	6-7	Şiddetli
+6,2 - 7,3	8-10	Yıkıcı
+7,4 +11- 12	Afet
+Depremlerin büyüklüğünün sadece magnitüd değeri olarak verilmesi, deprem konusunda yeterli bilgisi olmayan insanların depremin büyüklüğünü tam olarak anlayamamasına sebep olmaktadır. Bundan dolayı, depremlerin magnitüd değerleri dışında şiddetleri de verilmektedir.
+Büyüklük depremin odak noktasından çıkan enerji miktarıdır. Şiddet ise depremin yer yüzünde meydana getirdiği etkidir.
+Tsunami
+Depremler yalnızca karalarda değil, okyanus ve deniz tabanlarında da meydana gelmekte, deniz yüzeyinde dev dalgaların oluşmasına neden olmaktadır. Tsunami adı verilen bu dalgalar kıyıya kadar ilerleyerek alçak alanların sular altında kalmasına, can ve mal kayıplarına neden olmaktadır.
+Deprem Türleri: Depremler oluş nedenlerine göre değişik adlar alırlar.
+Tektonik depremler; Levhaların hareketine bağlı olarak yer kabuğunun derinliklerinde meydana gelen basınçlar, gerilmeler ve kırılmalar sonucunda oluşur.
+Volkanik depremler; Volkanik patlamalar sırasında meydana gelen sarsıntılardır. Özellikle asit karakterli lavların çıkışı esnasında sarsıntılar yaşanır. Depremin şiddeti volkanizmanın büyüklüğüne ve süresine bağlı olarak değişir. Volkanik depremlerin etki alanı dardır.
+Çöküntü depremleri; yer altındaki boşlukların (mağara), kömür ocaklarındaki galerilerin, karstik arazilerde erime sonucu oluşan boşlukların tavan bloklarının çökmesi ile oluşur. Etki alanları dardır. Büyük heyelanlar ve gökten düşen meteorların da küçük sarsıntılara neden olduğu bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>1509 Büyük İstanbul Depremi</DOCTITLE>
+<TEXT>
+
+1509 Büyük İstanbul Depremi, Marmara Denizi'nde Adalar yakınlarında 10 Eylül 1509'da olmuş bir depremdir. Depremin büyüklüğü ve yarattığı ağır hasar sebebiyle halk arasında Küçük Kıyamet (Kıyamet-i Suğra) olarak adlandırılmıştır.
+Depremde 160.000 nüfusa ve 35.000 yerleşim birimine sahip olan İstanbul'da, aralarında Osmanlı hanedanınından bazı kişilerin de bulunduğu 13000 kişi ölmüş, 1070 ev tamamen yıkılmıştır.
+Depremde; Şehrin Surları, Edirnekapı, Silivrikapı, Yedikule, İshak Paşa Kapısı, Topkapı Sarayı, Fatih Camisi, Anadolu Hisarı, Yoros Kalesi, Boğaziçi, Heybeliada, Burgazada, Silivri, Rumeli Hisarı, Kızkulesi, Haliç, Galata ve Pera ağır hasar görmüştür. Birçok kervansaray, hamam, mescid yıkılmıştır.
+İstanbul ve Pera'nın bazı bölgelerinde, yerde yarılmalar, su ve kum fışkırmaları oluşmuştur. Deprem, tsunami'ye neden olmuştur. Tsunami, şehrin surlarını, Galata ve İstanbul'daki birçok duvarı aşmış ve ağır hasara neden olmuştur. Bu duvarlara yakın olan bazı evlerin denize battığı görülmüştür.
+Deprem, Edirne, Gelibolu, İznik'te de önemli hasarlar meydana getirmiştir. Yunanistan'dan Nil Deltası'na (Mısır) kadar geniş bir bölgede hissedilmiştir.
+Artçı depremler aylarca sürmüş ve birçoğu çok geniş alanlarda hissedilmiştir. 10 Eylül 1509 depreminden sonra II. Bayezid, imparatorluğun her bölgesinden toplattığı 66.000 işçi, 3000 ustabaşı ve 11.000 asistanı görevlendirerek, imar işlerini başlatmıştır. Ayrıca, halktan deprem için özel bir vergi toplatmış, ve Mart-Haziran 1510 tarihleri arasında hasarlar tamir edilmiştir.
+İstanbul'u ve çevresini etkileyen 10 Eylül 1509 depremi ve takip eden artçı depremler şunlardır;
+Karakteristikler.
+Deprem.
+Sallama şiddeti ve alandan, bir 70 km (43 mil) fay yarığı tahmin edilir.-->
+Tsunami.
+Bazı kaynaklarda 6 m (20 ft)'nin üzerinde bir tsunamiden bahsedilir. Çınarcık havzasında bir jeolojik formasyon onaylanır ki, onun çöküntüsü depremin tarihiyle uyuşur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dalga (su)</DOCTITLE>
+<TEXT>
+
+Dalga, deniz dalgaları çeşitli etkenler sonucu meydana gelir. Öncelikle rüzgar dalgaların oluşmasında başlıca bir faktördür. Rüzgarlar deniz yüzeyinde enerji ile bir itki meydana getirirler ve bunun sonucunda dalgalar oluşur. Ayrıca depremler sonucunda tsunami denen büyük dalgalar meydana gelebilir.
+Tsunamiler.
+Tsunami (okunuşu: "Sunami".Japonca'da liman dalgası anlamına gelen tsunami sözcüğünden) okyanus ya da denizlerin tabanında oluşan deprem, volkan patlaması ve bunlara bağlı taban çökmesi, zemin kaymaları gibi tektonik olaylar sonucu denize geçen enerji nedeniyle oluşan uzun periyotlu deniz dalgasını temsil eder.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tsunami (EBA)</DOCTITLE>
+<TEXT>
+
+Tsunami, büyük çapta bir su kitlesinin aniden yer değiştirmesi nedeniyle bir dizi dalganın okyanusta harekete geçmesidir. Bu yer değiştirme, deniz altında oluşan depremler, toprak kaymaları, volkanik patlamalar nedeniyle meydana gelebilir.
+Japonya, Büyük Okyanus (Pasifik) deprem kuşağı üzerinde yer alır. Bu kuşak depremlere neden olan enerjinin çok yüksek olduğu yerlerdendir.
+Japonya’da 11.03.2011 tarihinde 9 şiddetinde meydana gelen şiddetli deprem ve sonrasında oluşan tsuna-mi ülkede büyük maddi hasara yol açtı. Çok sayıda ev dev dalgaların neden olduğu çamura gömüldü. Araçlar ve binalardan kopan parçalar, depremin merkez üssüne yakın kırsal alanlara sürüklendi. Başkent Tokyo’nun İşiyara bölgesinde bulunan bir petrol rafinerisinde yangın çıktı. Tsunami ile taşan okyanus suları ülkenin bir bölümünü sular altında bıraktı. Sele dönüşen sular önüne ne gelirse sürükleyerek götürdü. Binlerce kişinin sular altında kalmasına ve kaybolmasına sebep oldu. Japonya hükümet sözcüsü, Japonya'nın maruz kaldığı felaketin boyutlarının çok üst seviyelerde olduğunun, ölü sayısının artmasından endişe ettiklerinin altını çizdi.
+Ülkelerinin çoğunda erken uyarı sisteminin bulunmaması, olanlarda ise gerekli uyarıların zamanında yapılamaması ya da uyarıların dikkate alınmaması can kaybının büyük olmasına neden olmaktadır. Tsunami riski yüksek olan alanlara erken uyarı sisteminin kurulması, kurulu sistemlerin etkin çalışması ve halkın bilinçlendirilmesi can kaybının azaltılmasında etkili olacaktır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Deprem (EBA)</DOCTITLE>
+<TEXT>
+
+Yerkabuğu içindeki kınlmalar nedeniyle ani olarak ortaya çıkan depremler önemli can ve mal kaybına neden olan afetlerdendir. Depremin yol açtığı afetin boyutu , o bölgedeki nüfus yoğunluğuna, binaların dayanaklılığına, altyapı hizmetlerine, zeminin özelliği ile depremin yangın, heyelan, tsunami vb. diğer afetlere yol açıp açmaması gibi faktörlere bağlıdır.
+Haiti son iki yüzyılın en büyük depremlerinden birini yaşadı. Haiti'de 7.0 büyüklüğündeki deprem sonucu başkentin büyük bölümü yerle bir oldu. Depremde binlerce kişi öldü. En az üç milyon kişi depremden etkilendi. Yüzlerce ev depremin etkisiyle harabeyle döndü. Depremin ardından halk yaralıları kurtarmak için seferber oldu.
+Depremlerde meydana gelebilecek yıkım ve hasarı azaltmak için özellikle fay hatlarının geçtiği zeminler üzerinde depreme dayanıklı yapılar inşa etmek ve insanları depreme karşı bilinçli hale getirmek gerekmektedir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yanardağ</DOCTITLE>
+<TEXT>
+
+Yanardağ ya da volkan, magmanın (dünyanın iç tabakalarında bulunan, yüksek basınç ve yüksek sıcaklıkla erimiş kayalar) yeryuvarlağının yüzeyinden dışarı püskürerek çıktığı coğrafi yer şekilleridir. Güneş sisteminde bulunan kayalık gezegen ve uydularda (bazıları çok aktif olan) birçok yanardağ olmasına rağmen, bu olgu, en azından dünyada, genellikle tektonik plaka sınırlarında görülür. Ne var ki, sıcak nokta yanardağlarında önemli istisnalar vardır.Yanardağların araştırıldığı bilim dalına "volkanoloji (yanardağbilimi)" denir.
+Öte yandan, eğer magma düşük oranlarda (%52'den az) silika içerirse, lava "mafik" adı verilir ve püskürürken çok akışkan hale gelir. Uzun mesafelerce akabilir. Mafik lav akışının iyi bir örneği, İzlanda'nın neredeyse coğrafî merkezindeki bir püskürme yarığının aşağı yukarı 8.000 yıl önce oluşturduğu Büyük Thjórsárhraun akıntısıdır. Bu lav akıntısı, 130 km ötedeki denize varıncaya kadar akmaya devam etmiş ve 800 km²'lik bir alanı kaplamıştır. Felsik ve mafik terimleri yerine bazen daha eski olan "asidik" ve "bazik" terimlerinin kullanıldığı görülür; ancak bu terimler artık daha az kullanılır olmuşlardır.
+Yanardağlar genellikle ya tektonik plaka sınırlarında ya da sıcak noktalarda yer alırlar. Yanardağlar uyuyan (etkin olmayan) ya da faal (aktif -neredeyse sürekli çıkış ve kesikli püskürmeler) olabilirler, önceden tahmin edilemeden halâ değiştirebilirler.
+Karadaki yanardağlar genellikle, çıkışların yıllar içinde sürekli birikmesiyle koni ya da kül konisi şeklini alırlar. Suyun altında ise, yanardağlar genellikle fazlasıyla dik sütunlar oluşturur ve yıllar içinde okyanus yüzeyine çıkarak yeni adacıklar haline gelirler.
+Yanardağ etkinlikleri genellikle depremler, sıcak su kaynakları, çamur kazanları ve kaynaçlar gibi yer etkinlikleriyle beraber görülürler. Püskürmelerden önce genellikle düşük şiddette depremler görülür.
+Şaşırtıcı olsa da, volkanbilimciler, etkin (aktif) yanardağların sınıflandırılmasında fikir birliğine varmamışlardır. Bir yanardağın yaşam süresi, birkaç aydan birkaç milyon yıla kadar değişebilir. Bu tür bir sınıflandırma yapmak, insanların, hatta bazen uygarlıkların bile varlık süreleri göz önüne alındığında anlamsız görünebilir. Örneğin, yeryüzündeki yanardağların birçoğu, geçen birkaç binyılda birçok kez püskürmüşlerdir, ama günümüzde herhangi bir etkinlik göstermemektedirler. Bu tür yanardağların uzun ömürleri göz önüne alındığında çok etkin oldukları söylenebilir. Ancak, bizim ömürlerimiz düşünülürse, etkin değildirler. Bu tanımı daha da karmaşıklaştıran ise, harekete geçen ama püskürmeyen yanardağlardır. Bu yanardağlar etkin midir?
+Bilim insanları genellikle, püsküren ya da yeni gaz çıkışları veya beklenmedik deprem etkinliği gibi hareketlilikler gösteren yanardağları etkin olarak kabul ederler. Birçok bilim insanı, yazılı tarihte püskürdüğü bilinen yanardağların da etkin olduğunu kabul ederler. Yazılı tarihin bölgeden bölgeye farklılıklar gösterdiğini, örneğin Akdeniz'de 3.000 yıl geriye, ABD'nin Büyük Okyanus kıyısında 300 yıl, Havai'de ise 200 yıl geriye kadar gittiğini göz önünde bulundurmak gerekir.
+Uyuyan yanardağlar, şu an (yukarıdaki tanıma göre) etkin olmayan, ama her an hareketlenmesi ya da patlaması muhtemel yanardağlardır.
+Sönmüş yanardağlar ise, bilim insanlarının bir daha püskürmelerini olası görmedikleri yanardağlardır. Bir yanardağın gerçekten sönmüş olup olmadığının belirlenmesi zordur. Örneğin, çanakların milyonlarca yıllık ömürleri olduğu bilindiğinden, on binlerce yıl püskürmemiş bir çanağın sönmüş değil uyuyan olarak tanımlanması gerekir. Yellowstone Ulusal Parkı'nda bulunan Yellowstone Çanağı, en az 2 milyon yaşındadır ve 70 bin yıldan beri hiç püskürmemiştir, fakat bilim insanları tarafından sönmüş olarak tanımlanmaz. Doğrusu, çanak sık sık depremler yarattığı, etkin bir jeotermal sistemi bulunduğu ve yüzeyi hızlı değiştiği için, birçok bilim insanı tarafından çok etkin bir yanardağ olarak kabul edilir.
+Teoride yanardağlar.
+Oluşum.
+Yeryuvarlağının iç kesimlerinin çoğu gibi, magmanın hareketleri ve dinamikleri de fazla iyi anlaşılamamıştır. Ancak, bir püskürmenin, yanardağın altında bulunan katı bir tabakaya (dünyanın kabuğuna) doğru magmanın hareket ederek bir "magma odacığı"nı işgal etmesinin ardından geldiği bilinmektedir. Sonunda, odacıktaki magma yukarı doğru itilir ve gezegenin yüzeyine lav olarak yayılır ya da yükselen magma civardaki yer şekillerinde bulunan suyu ısıtır ve patlamalı buhar çıkışlarına neden olur. Bu çıkışlar ya da magmadan kaçan gazlar, kaya, kül, volkanik cam ve/veya volkanik külün kuvvetli bir şekilde fırlatılmasına yol açar. Püskürmeler daima kuvvetli olmasa da, akıntı veya büyük patlamalar şeklinde olabilirler.
+Karada bulunan çoğu yanardağ yokedici plaka marjlarında oluşurlar, yani okyanus kabuğu, daha yoğun olduğu için kıta kabuğunun altına itilir. Hareketli bu plakaların arasındaki sürtünme okyanus kabuğunun erimesine neden olur ve düşen yoğunluk yeni oluşan magmanın yükselmesine yol açar. Magma yükseldikçe kıta kabuğundaki zayıf alanlardan geçer ve bir veya daha çok yanardağ olarak püskürür. Örneğin, St Helens Yanardağı, okyanus plakası olan Juan de Fuca Plakası ve kıta plakası olan Kuzey Amerika Plakası arasındaki marjdan içeride, karadadır.
+Duman olarak düşünülen, su buharı ve çoklukla kükürt buharlarıyla karışmış çok büyük miktarlarda ince tozdur. Ateş gibi görünen ise püsküren maddelerin parlamasıdır. Parlamanın nedeni, yüksek sıcaklıktır ve bu parlama toz ve buhar bulutlarından yansır ve bu yansıma da ateşe benzer.
+Bir yanardağın en şüpheli bölümü, genellikle kabaca dairesel olan ve içindeki menfez(ler)den (yarıklardan) gaz, lav ve püskürtü şeklinde magma çıkan krateridir. Bir kraterin boyutları büyük olabilir ve bazen derinliği de çok fazla olabilir. Bu tarzda çok büyük şekillere genellikle kaldera denir. Bazı yanardağlar yalnızca kraterlerden oluşurlar ve dağları neredeyse hiç yoktur, fakat çoğu kez krater, inanılmaz yüksekliklere ulaşabilen dağın tepesindedir. Ana bir kraterle sonlanan yanardağlara genelde konik denir.
+Yanardağ konileri genelde daha küçük boyutlarda, arada püskürmelerle havaya fırlatılan (püskürtü) kaya kütlelerinin de bulunduğu seyrek külden oluşmuş yapılardır. Yanardağın kraterinde içinden sürekli buhar çıkışı ve kül ve kaya püskürmesi olan birden fazla koni bulunabilir. Bazı yanardağlarda bu koniler dağın derinliklerindeki yarıklarda yer alabilir.
+Püskürmeleri tahmin etmek.
+Bilim, henüz yanardağ püskürmelerinin tam olarak ne zaman meydana geleceğini tahmin edememektedir, ancak geçmişte püskürme olasılığını tahmin etmekte ilerlemeler kaydedilmiştir.
+Volkanbilimciler, püskürmeleri tahmin etmek için aşağıdaki belirtileri kullanırlar:
+"Sismisite".
+Yanardağlar uyanırlarken ve püskürmeye hazırlanırlarken her zaman sismik hareket (küçük depremler ve sarsıntılar) gösterirler. Bazı yanardağlar sürekli düşük düzeyde sismik faaliyet gösterirler ama bu faaliyetteki bir artış, patlamaya işaret edebilir. Ortaya çıkan depremlerin türleri, nerede başlayıp bittikleri de önemli sinyallerdir. Volkanik sismisite üç ana biçimde görülür: kısa dönemli depremler, uzun dönemli depremler ve dalgalı sarsıntı.
+Kısa dönemli depremler fay depremleri gibidirler. Bunlar, magma yukarı doğru çıkarken gevrek kayanın kırılmasından ortaya çıkarlar. Bu kısa dönemli depremler magmanın yüzeye yakın bir yerde büyüdüğünü işaret eder.
+Uzun dönemli depremlerin, bir yanardağın "tesisat sistemindeki" gaz basıncının artışına işaret ettiği düşünülür. Bu depremler, ev tesisatlarında bazen duyulan tangırtıları andırır. Bu salınımlar, yanardağ kubbesinin altındaki magma odacıkları düşünülürse, bir bölmedeki akustik titreşimlere eşdeğerdir.
+Dalgalı sarsıntı, yüzey altında sürekli bir magma hareketi olduğu zaman ortaya çıkar.
+Sismik örüntüler, karmaşık ve yorumlanması zor olgulardır. Ancak, artan faaliyet, özellikle de uzun dönemler baskın olmaya başlayınca ve dalgalı sarsıntılar ortaya çıkınca korku yaratırlar.
+Aralık 2000'de, Meksika'daki Ulusal Felaket Önleme Merkezi'ndeki bilim insanları, Meksika Kenti dışındaki Popocatépetl Yanardağı'nın püskürmesini iki gün öncesinden tahmin ettiler. Tahmin, İsviçreli bir volkanbilimci olan M. Chouet tarafından yapılan ve uzun dönemli salınımların artışı üzerine sürdürülen araştırmalar sonucunda yapıldı. Hükümet 10 binlerce kişiyi şehirden uzaklaştırdı . 48 saat sonra, yanardağ püskürdü. Bu püskürme, Popocatépetl Yanardağı'nın bin yıl boyunca karşılaşılan en büyük püskürmesiydi.
+"Yeryüzü Şeklinin Bozulması".
+Yanardağın şişmesi, yüzeye yakın bir yerde magma biriktiğini gösterir. Etkin bir yanardağı gözlemleyen bilim insanları genellikle dağın eteklerindeki eğimi ölçer ve şişmedeki değişim oranını gözlerler. Artan bir şişme oranı, özellikle de kükürtdioksit çıkışlarında ve dalgalı sarsıntılarda bir artış varsa, kısa bir süre içinde gerçekleşebilecek bir püskürme ya da patlamayı işaret eder.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekonomik Mucizenin Ülkesi: Modern Japonya (EBA)</DOCTITLE>
+<TEXT>
+
+JAPONYA’NIN GENEL ÖZELLİKLERİ
+1.	Coğrafi Konumu
+Japonya, Asya’nın doğu kenarı boyunca bir yay oluşturacak şekilde kuzeydoğudan güneybatıya uzanan dağlık bir takımada grubu üzerinde yer almaktadır. Bu takımadalar en kuzey ucunda Soya Burnu’ndan en batıdaki Yonaguni Adası’na kadar yaklaşık 2250 km boyunca uzanır. Dört büyük ada Japonya’nın % 97’sini kaplar. Geriye kalan % 3’lük bölümü ise yaklaşık 3900 tane küçük adadan oluşur.
+ülke doğu ve güneyden Büyük Okyanus, kuzeyden Ohotsk Denizi, batıdan Japon Denizi ile çevrilidir. ülkeyi çevreleyen denizler, Japonya’nın “izole ve kendi uygarlığını geliştirebilmiş bir adalar ülkesi” olarak tanınmasında etkili olmuştur.
+a.	Yüzey Şekilleri
+Dağlar
+Japonya oldukça dağlık bir ülkedir. Toplam arazisinin yaklaşık olarak %70’ini dağlar kaplar. Japon adaları da aslında Güneydoğu Asya’dan Alaska’ya kadar uzanan dağ sıralarının bir bölümünü oluşturur. Bu dağların en yüksek zirveleri ve en dağlık arazi Honşu Adası’nda yer alır. Japonya’nın çatısı olarak bilinen bu bölgedeki bazı zirvelerin yükseltisi 3000 m’nin üzerine çıkar. Örneğin, Fuji Dağı 3776 m‘dir (Fotoğraf 1).
+Japonya’da çok sayıda volkan da bulunur. Tarihî devirler içinde Japonya’da birçok volkanik patlama olmuştur. Günümüzde hâlâ 200’ün üzerinde aktif volkanik dağ vardır. Dünyadaki aktif volkanların 1/7’sine yakını dünya karalannın yalnızca 1/400’ünü kaplayan Japonya’da yer alır.
+Japon Adaları yalnızca önemli volkanik faaliyetlere sahne olmakla kalmaz, aynı zamanda dünyanın sismik açıdan en aktif bölgelerinden birisi üzerinde yer alır. Volkanik patlamalar ve tayfunlar gibi doğal felaketler Japonların günlük yaşamın bir parçasıdır. En büyük potansiyel tehlikeyi oluşturan depremler sık ve yaygındır. Çoğu küçük alanları etkilese de yılda ortalama 1500 deprem kaydedilir. Ortalama her üç yılda bir yıkıcı depremler meydana gelir.
+Japonya’da 1923 yılında meydana gelen depremde yaklaşık 143.000 kişi ölmüş ve şehirdeki binaların 2/3'ünden fazlası çökmüştür. 1995 yılında meydana gelen Kobe Depremi’nde ise 5500 kişi yaşamını yitirmiştir. Japonya'da 2011 yılında meydana gelen 8,9 büyüklüğündeki deprem ve tsunami sonrası 10 binden fazla kişi ölmüş, 18 bine yakın kişi de kaybolmuştur.
+Akarsular ve Göller
+Jeomorfolojik özelliklere bağlı olarak Japonya’daki akarsuların boyu kısa, akışı hızlı ve hidroelektrik potansiyeli yüksektir. Akarsuların debileri nisan ve eylül aylarında en yüksek seviyeye ulaşır. Başlıca akarsuları Tone ve Shinano’dur.
+Japonya’da sayıları 600’ü bulan doğal göllerin büyük bir kısmını volkanik göller oluşturur, ülkenin en büyük gölü olan Biwa Gölü yaklaşık 673 km2dir.
+Ovalar
+ülkenin yaklaşık % 21’ini kaplayan ovalar kıyı kesimlerinde yoğunlaşmıştır. Bu ovaların başlıcaları Tokyo Koyu çevresindeki Kanto Ovası ile Sendai, İşikari ve Toyama ovalarıdır.
+Japonya ada ülkesi olduğu için kıyı uzunluğu fazladır (27.350 km). Kıyı çizgisini tektonik hareketler belirlemiştir.
+b.İklim ve Bitki Örtüsü
+Japonya’da muson iklimi egemendir (Harita 1). Ancak enleme ve yüksekliğe bağlı olarak sıcaklık ve yağış şartlarında önemli farklılıklar ortaya çıkar. Kuzeydeki Hokkaido Adası ile Honşu Adası’nın kuzey kesimlerinde, Oya Şivo soğuk su akıntısı ve İç Asya’dan gelen soğuk hava kütlelerine bağlı olarak kışlar çok soğuk ve karlıdır. Güneye doğru gidildikçe kışlar ılımanlaşır, yüksek yerler dışında kar yağışı görülmez. Yazlar sıcaktır ve yaz musonları sayesinde bol yağışlı geçer. Sıcaklık ve yağış miktarlarında kuzeye doğru azalmalar olur, ülkenin içlerinde şiddetli rüzgâr, tayfun ve sağanak yağışlar görülür.
+Japonya ılıman ve bol yağışlı iklimi sayesinde çok zengin bir bitki örtüsüne sahiptir, ülkenin kuzey güney doğrultusunda genişliğinin fazla olması bitki çeşitliliğinin de fazla olmasını sağlamıştır. Kuzeydeki kışları soğuk geçen ılıman iklim bölgesinde (Hokkaido’da ve Honşu'nun kuzeyi) kozalaklı ağaçlardan oluşan ormanlar, kışları daha ılık olan orta kesimde karma ormanlar, yazları nemli olan güneyde tropikal ormanlar bulunur. Ormanlar ülke topraklarının % 65'ini kaplar, ülkedeki toplam orman alanının % 40’a yakını ağaçlandırmayla oluşturulmuştur.
+Ormanların ve ormancılığın Japonya'da tarihî bir önemi vardır. VIII. yüzyıldan bu yana başta Kyoto olmak üzere çeşitli kentlerde inşa edilen sarayların ve tapınakların vazgeçilmez ana maddesi ağaç olmuştur. Bununla beraber, günümüzde ağaca sadece inşaat için değil, kâğıt, mobilya gibi çeşitli sektörlerde de büyük gereksinim vardır. Bu nedenle Japonya kereste ihtiyacının % 76'sını ithal eder.
+2.	Beşerî ve Ekonomik Özellikler
+a. Nüfus
+Japonya, hem kapladığı alanın nisbeten küçük olmasına hem de nüfusunun kalabalık olmasına rağmen, görülmemiş türdeş yapısı ile ayrı bir bölge olarak kabul edilmektedir. Yüzyıllar boyunca süren izolasyon devresine devletin bu durumunu destekleyen politikalarının da eşlik etmesi ile Japonya, dünyada bu ölçüdeki en türdeş nüfuslu ülke olmuştur.
+ülkede etnik birlik ile yakından bağlantılı olan kültürel türdeşlik, coğrafi kimliği belirlemektedir (Fotoğraf 3). ülke bir uçtan diğer uca tüm yüzeyini kaplayan şaşırtıcı bir benzerlik sergiler. Bu benzerliği sağlayan tarihî ve geleneksel bağlar yanında yine geçmişten miras kalan “kontrollü davranış tarzı”dır.
+ülke nüfusunun yaklaşık % 79’u şehirsel nüfustan oluşmaktadır. Eski başkent Kyoto hariç milyonluk şehirlerinin hepsi kıyıda, özellikle güneyde koylar çevresinde yer alır. Bunlar Tokyo, Kavasaki, Yokohoma, Osaka, Kobe ve Nagoya’dır (Fotoğraf 2, 3). Japonya’nın diğer önemli şehirleri arasında Sapparo, Fukuoka, Hiroşima, Kita Küşü, Niigata ve Kagosima sayılabilir.
+Japonya km2 başına 338 kişiyi bulan nüfus yoğunluğuyla dünyanın en yoğun nüfuslu ülkeleri arasında yer alır. Ancak topraklarının %70’ten fazlasının yerleşime elverişli olmayan dağlık alanlardan oluşması nüfusun ova, alçak düzlükler ve kıyılarda toplanmasına yol açmıştır.
+Japonya’nın nüfus özellikleri sosyal ve ekonomik içerikleri açısından büyük önem taşımaktadır (Japonya’nın nüfus yapısı "Nüfus Fblitikaları” konusunda işlenmiştir, bk.). Japonya’nın nüfus yapısındaki değişimlerle birlikte ortalama ömür süresinde dikkate değer bir artış olmuştur; 1960’ta kadınlar için 67 ve erkekler için 63 olan bu değer, günümüzde kadınlar için 84’e ve erkekler için 77’e çıkmıştır. Japonya dünyada yaşam süresinin en uzun olduğu ülkelerden biridir. Bu; gelişmiş sağlık hizmetlerine, taze sebzelerin, balığın ağırlıkta olduğu beslenme tarzına ve yaşam koşullarına bağlıdır (Fotoğraf 4).
+b.	Tarım
+Japonya topraklarının yaklaşık %13'ü tarıma uygundur. Bu nedenle Japonya tarımda dışa bağımlıdır. Dünyanın en çok tarımsal ürün ithal eden ülkelerinden biridir. Tarım alanlarının büyük bölümü, kıyı ovalarında ve dağlar arasındaki vadilerde toplanmıştır. Tarım alanlarının darlığı, modern yöntemlerle tarımın yapılmasını zorunlu kılmıştır (Fotoğraf 5).
+Tarım makineleri, ekim yöntemleri (yoğun ekim gibi) ve gübreler sayesinde, dar alanda ülkenin toplam meyve ve sebze ihtiyacının yarısı üretilir. Özellikle yeni teknolojilerin bu başarıdaki rolü çok büyüktür. Japonya'da bazı tarım ürünleri, toprak olmaksızın, su içinde,
+(hidrofonik yöntem) üretilmektedir. En önemli tarım ürünü pirinçtir.
+Japonların beslenmesinde deniz ve deniz ürünleri vazgeçilmezdir. Balıksız bir beslenme Japonya’da düşünülemez. Bu da balıkçılığı Japonya'da önemli bir sanayi dalı hâline getirmeye yetmiştir. Son derece modern yöntemlerle yapılan açık deniz balıkçılığı sayesinde ülke, avlanan balık miktarı açısından dünyada ön sıralarda yer alır. Balıkların toplam beslenme içindeki yeri 1/4’tür. Balık tüketimi çok yüksek olduğundan balık ithal edilmektedir.
+Teknolojinin Tarıma Yansıması
+Genetik mühendisliği ürünün daha az zahmet ve masrafla daha sağlıklı olması yolunda önemli adımlar attı (Fotoğraf 6). O kadar ki taşımada kolaylık sağlayacak küp biçimli karpuzlar, tüysüz ama dayanıklı tavuk gibi hayal gücünü zorlayan projeler üzerindeki çalışmalar yarış hâlinde sürmektedir. CJzmanlar yakın gelecekte üretilecek mavi renkli biberlerin, kahverengi salatalıkların, pembe marulların sofraları süsleyeceğini söylüyorlar.
+c.	Sanayi
+Japonya İkinci Dünya Savaşı sonunda nüfus ve iş gücü kaybına uğrarken ekonomik bakımdan da büyük bir darbe almıştır. Nüfusu yorgun düşmüş, ülkede her dört evden biri yok olmuş, Hiroşima ve Nagazaki şehirleri atom bombasının etkisiyle çorak ve boş arazilere dönüşmüş, sanayi tesisleri, elektrik santralleri, tersaneler ve ulaşım ağları tümüyle tahrip edilmişti.
+Japonya 40 yıl gibi kısa bir sürede tüm kayıplarını telafi ettiği gibi yeni ve güçlü bir ekonomik yapı kurmayı başararak dünyadaki en ileri teknolojiye sahip ülkelerden biri oldu.
+Japonya, birçok sanayileşmiş ülkeden farklı olarak sanayinin gelişmesini destekleyecek ve onun ihtiyaçlarını karşılayacak enerji ve maden kaynaklarından yoksundur. Bu nedenle de ithal ham maddelere bağımlılığı yüksektir. Günümüzde, kömür, petrol, doğal gaz ve demir cevheri (aynı zaman da buğday, pamuk ve kereste) gibi temel ham maddelerin % 90’dan fazlasını ithal etmektedir (Harita 2). Bu yüzden temel ham maddeler için dünya pazarlarında rekabet etmek zorunda kalmakta ve uluslararası ticarette meydana gelen bir karışıklık ya da kopukluktan kolaylıkla etkilenebilmektedir. Ham madde kaynakları açısından bu derece dışa bağımlı bir ülke olan Japonya, ham madde ithal ettiği ülkelerle ekonomik ve politik açıdan sıkı bir ilişkiler ağı kurmuştur.
+Japonya’da çeşitli maden yatakları bulunmakla çoğunun rezervi sınırlıdır. Madenler ülke ihtiyacının yalnızca küçük bir bölümünü karşılar. Kömür, bakır, cıva, nikel, tungsten, gümüş, altın ve kükürt en önemli madenler arasında yer alır.
+1955'e kadar Japonya'nın en önemli enerji kaynağı kömürdü ve kömür ülkenin enerji ihtiyacının yarısından fazlasını karşılıyordu, ülke, enerjisinin büyük bir kısmını petrolden elde etmekte, çok az bir kısmını yerel olarak üretebilmektedir. Japonya’da Merkezî Honşu'dan kuzeye Hokkaido'ya uzanan batı kıyıları boyunca küçük yataklar olmasına rağmen petrol ve petrol ürünlerinin tamamına yakını Endonezya ve Suudi Arabistan'dan ithal edilmektedir. Japonya, enerji kaynaklarına olan denizaşırı bağımlılığını azaltabilmek amacıyla bazı siyasi girişimlerde bulunmaktadır.
+Günümüzde Japonya elektrik, elektronik, optik alet ve makine üretiminde birinci; demir-çelik sanayisinde ikinci sırada yer alır. Tekstil sanayisinde ise ucuz işçilikte diğer Güneydoğu Asya ülkeleri ile rekabet edemediği için fazla gelişme gösterememiştir. Japonya’da, otomotiv sanayisi çok ileri olup yılda yaklaşık 10 milyon otomobil ve 3,5 milyonun üzerinde çeşitli ticari taşıt aracı üretilir.
+Japonyada sanayi tesislerinin büyük çoğunluğu dar kıyı şeritlerinde toplanmıştır. Bunun nedeni kolaylıkla ham madde aliminin sağlanması ve üretilen malların dünya pazarlarına gönderilmesidir.
+Japonya, ABD ve Almanya’dan sonra dünyanın üçüncü büyük ticaret ülkesidir. Dünyanın her yanına ihracat yapan Japonya’nın en büyük müşterisi ABD’dir. İthalat malları arasında ağırlığı ham madde, gıda maddeleri ve petrol oluşturur.
+ülkenin yılda yaklaşık 100 milyar dolar ticaret fazlası vardır. Japonya ile Türkiye arasıdaki kültürel ve ticari ilişkiler oldukça iyi düzeydedir. İki ülke arasındaki dış ticaret hacmi 2009’da üç milyar dolann üzerindedir. Japon ve Türk ortak yapımı bazı sanayi tesisleri kurulmuştur. Japonya’dan başta çeşitli makineler olmak üzere otomobil, gemi, televizyon, video, fotoğraf makinesi ve kimyasal maddeler satın almaktayız. Bu ülkeye tütün, çimento, fındık, balık, hazır giyim ürünleri, halı ve çeşitli gıda maddeleri satmaktayız.
+d.	Ulaşım
+Japonya demir yolu ulaşımı başta olmak üzere dünyada en gelişmiş ulaşım ağlarından birine sahiptir. Gelişen teknoloji ile birlikte saatteki hızı 300 km’ye kadar ulaşabilen hızlı trenler ülkede seferler yapmaktadır (Fotoğraf 7). Japonya’daki kara yollannın toplam uzunluğu bir milyon 100 bin km’yi aşmıştır. Bu değer, Fransa ve İngiltere'dekinin iki katı, ABD'dekinin 4,5 katıdır. Kara yolları yalnızca uzunluk bakımından değil, alt ve üstyapılanyla da üstün niteliktedir.
+Japonya'da çok sayıda uluslararası hava alanı bulunmaktadır. Japonya'nın bir ada devleti olduğu hatırlandığında havaalanlarının, ülkeyi dış dünyaya bağlamak bakımından ne kadar önemli olduğu daha iyi anlaşılmaktadır.
+Deniz yolu da ulaşımın önemli araçlarından biridir. İrili ufaklı yüzlerce adayı birbirine bağlamakta deniz ulaşımının önemini tarih boyunca çok iyi anlayan Japonya, teknolojinin son ürünlerini bu alanda da kullanmaktan geri kalmamıştır.
+e.	Turizm
+Japonya, doğal güzellikleri ve ilginç kültürel yapısıyla görülmeye değer bir ülkedir. Jeolojik yapısına bağlı olarak kaplıcaların ve volkanik dağların fazla olması Japonya’yı turizm açısından çekici hâle getirmektedir.
+Kyoto, Şato, Şinto, Budist tapınakları, Buda heykelleri başlıca turistik değerler arasında yer alır (Fotoğraf 8).
+Japonya’da her yıl iki milyona yakın insanın ziyaret ettiği Hokkaido Sappora Kar Festivali en önemli turizm faaliyetlerinden biridir (Fotoğraf 9).
+Önemli miktarda bütçe fazlalığına sahip olan Japonya, dengeyi sağlamak için ülke dışına turizm seyahatlerini teşvik etmektir. Japonlar telkin ve teşviklerle kendi ülkeleri içinde olduğu kadar yurt dışına seyahat yapmaya da ikna edilmişlerdir. Günümüzde dünya turizmine en çok katılan uluslardan birisi Japonlardır. Özellikle önem verdikleri tek uzun (ortalama sekiz gün) tatil olan "balayı tatilini” tatilcilerin yaklaşık % 93’ü ülke dışında geçirir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Oblivion (film, 2013)</DOCTITLE>
+<TEXT>
+
+Oblivion, Joseph Kosinski'nin aynı adı taşıyan Radikal Comics için yaptığı ancak yayınlanmamış kıyamet sonrası bilim kurgu türünde grafik roman'ın sinema için uyarlanmış 2013 yapımı filmidir. Film Kosinski ile birlikte ortak yazılmış ve onu tarafından yönetilmiştir. Filmin başrolünde Tom Cruise oynamaktadır. Film 19 Nisan 2013 tarihinde ABD sinemalarında vizyona girmiştir. Kosinski'ye göre, "Oblivion" 1970'li yılların bilim kurgu filmlerine saygı borçludur.
+Konusu.
+2077 yılında görünürde; teknisyen ve asker Jack Harper dünya üzerinde konuşlu küçük merkezlerde görevli tamircilerden birisidir. 49 numaralı merkez kulededirler. Yanında iletişim subayı Vica "(Victoria)" ile birlikte çalışmaktadır ve aynı zamanda aşk yaşamaktadırlar. Jack, Dünya'nın 60 yıl önce Sıkeyv "(Scavengers-Scavs)" adı verilen uzaylı istilacılar ile yapılan savaş sırasında yıkıldığını bilmektedir. Sıkeyvler ile yapılan savaş esnasında kullanılan nükleer silahlar nedeniyle uzaylılar yenilmiş ama Dünya harap olmuş, radyasyonlu bölgeler oluşmuştur. Sıkeyvler Ay'ı vurup parçalamış, bunun sonucunda oluşan deprem ile tsunamilerden dolayı Dünya yaşanılmaz bir yer haline gelmiştir. Dünyada kalan son insanlar Saturn'un uydusu Titan'a yerleşmiştir. Dünya yörüngesine yerleştirilmiş Tet adlı merkez ise Titan'a gönderilmeden önceki son duraktır ve Dünya'daki İHA'ları (İnsansız Hava Aracı) ve Jack'in de bulunduğu küçük merkezleri yönetmektedir. Okyanus üzerine yerleştirilen dev türbinler okyanus suyunu Titan'da yaşayanlara enerji kaynağı olarak iletmek üzere çekmektedir. İHA'lar bu türbinleri korumakta ve sayıları azalmış Sıkeyvleri avlamaktadır. Tet ile her gün Sally adlı görevlinin aracılığıyla bağlantı kurarlar. 
+Jack ve Vica'nın hafızaları güvenlik amacıyla silinmiştir. Geçmişe dair hatırladıkları hiçbir şey yoktur. Ancak Jack sürekli garip rüyalar görmektedir. Bu rüyalarda eski Dünya'da - New York'ta yaşadığını ve anılarında bir kadının olduğunu görmektedir. Diğer taraftan, Jack, savaşı kazanmalarına rağmen Dünya'yı Sıkeyvlere terkedip Titan'a gitmelerine anlam verememektedir. Dünya'da yaşanılabilir yerler keşfetmiş hatta bir dere kenarında bir ev inşa etmiştir. Enkazlardan kitap ve plaklar toplamakta, gizlice kitaplar okumaktadır.
+Ancak bu yaptıklarını partneri Vica'dan saklamaktadır, çükü Vica'nın Dünya'nın yaşanabilirliğini duymaya bile tahammülüğ yoktur. Tek istediği görevlerini tamamlayıp hemen Tet'e oradan da Titan'a gitmektir. Jack'in kendisiyle küçük kulelerinden aşağıya-Dünya'ya inmesini istemesine bile kızmaktadır.
+Bozulan İHA'lara helikopter benzeri bir araçla ulaşan Jack onları tekrar uçar hale getirmektedir. Bir gün Sıkeyvler ona tuzak kurarlar ve yakalamaya çalışırlar. Jack'i bir İHA kurtarır. Ancak Jack Sıkeyvlerin kendisini neden öldürmeyip de canlı yakalamaya çalıştıklarına anlam veremez. Vica'dan gizli olarak inşa ettiği eve gider. Plaklar dinler, kitaplar okur. Bu esanada uzaydan Dünya'ya düşen bir araç görür. Tet komuta merkezinin ikazlarına rağmen olay yerine gider ve NASA'nın 60 yıl önceki teknolojisine ait bir uzay mekiğinin enkazı ile karşılaşır. Uyku kapsülleri içindeki insanlar etrafa saçılmıştır. Bunlardan birisinin rüyalarına giren kadın "(Julia Rusakova)" olduğunu görererk şaşırır. Bu arada Tet'in gönderdiği İHA'lar uyku kapsüllerine ateş açar ve Jack'in canı pahasına koruduğu kadın dışındaki insanlar ölür. Jack, kadını Tet'e haber vermeden kendi küçük kulelerine götürür. Vica kadını içeri sokmaz istemez ama Jack'e karşı koyamaz. Kadın sadece adının Julia olduğunu söyler, mekiğin kara kutusunu dinlemeden birşey söylemeyeceğini söyler.
+Jack, Vica'nın karşı koymasına rağmen Julia'yı enkazın olduğu yere götürür, mekiğin kara kutusunu buldukları sırada Sıkeyvler onları yakalar. Jack'i Sıkeyvlerin lideri Malcolm Beech sorgular. Jack onların uzaylı olmadığını insan olduklarını öğrenir. İHA'lara yakalanmamak için maskeler takmaktadırlar. Beech onlara gereçeklere anlatır. Gerçekte; 60 yıl önce Tet adı verilen devasa makine Dünya'ya yaklaşmış ve Ay'ı parçalamıştır. Tet, gezegenleri dolaşıp enerjilerini kurutan akıllı bir makinedir. Ay'ın parçalanmasıyla meydana gelen tsunami ve depremler insanları mahvetmiştir. Daha sonra Tet'ten gönderilen birçok uzay gemisinin içinden binlerce Jack Harper kopyası çıkmıştır. Hepsi öldürmeye programlanmış klonlardır. İnsanlar savaşı kaybederek yeraltına çekilir. Tet daha sonra türbinleri göndermiş, İHA'lar ve Jack'in teknisyen kopyaları ile onları korumaya almıştır. İnsanlar ise çaresizdir. Akıllarına gelen son mücadele ise, yakaladıkları İHA'ların nükleer bomba gücündeki yakıt çekirdeğini yörüngede dönen Tet'e göndererek patlatıp Tet'i yoketmektir. Ama İHA'ların elektronik beyinlerine girecek teknolojileri yoktur, bunu Jack'e yaptırmak istemektedirler. Çavuş Sykes başta olmak üzere Julia'yı öldürmekle tehdit ederler ama Jack yine de bunu yapmaz. Bu arada Vica, Tet'le birlikte Jack'i aramaktadır. Jack ise Julia ile Empire State binasının enkazına gider, orada Julia'nın aslında karısı olduğunu, rüyalarında gördüğü anın karısına evlenme teklif ettiği an olduğunu hatırlar. Kendisi ve karısı NASA'nın astronotlarıdır. Ama yine de Tet'in kendilerini nasıl kopyaladığını anlayamaz. Vica'nın gönderdiği araç Jack'i bulduğunda Julia ile samimi görünce Vica buna kızar. Kuleye geldiklerinde Jack'i ve Julia'yı içeri almak istemez. Ama Tet, Jack'in artık birçok şeyi bildiğinin farkındadır ve bir İHA ile saldırı düzenler. Vica ölür, Jack'i Julia kurtarır. Tet, Jack'e Julia'yı kendisine getirirse birşey yapmayacağını söyler. Jack bunu kabul etmez, tekrar Malcolm'a gitmek ister ama İHA'lar onları düşürür. İHA'yı tamir etmeye gelen 52 numaralı kuleden gelen başka bir Jack Harper klonunu görür. Onu etkisiz hale getirir ve onun aracıyla Julia'yı kurtarır.
+Jack, Malcolm'un yakaladığı İHA'ya bombaları yerleştirir ve onu programlar. Bunu Tet'e gönderecekleri sırada İHA'lar insanların saklandıkları sığınağı bulur. Çatışmada Malcolm ağır yaralanır. Programlanmış bombalı İHA kullanılamaz hale gelir. Bunun üzerine Julia kendisini Tet'e götürmesini söyler, çünkü zaten Tet, Julia'yı istemiştir. Jack Mecburen kabul eder. Uyku kapsülüne Julia'yı yatırır ve küçük araçla yörüngedeki Tet'e doğru havalanır. Yolda NASA'nın uzay mekiğinin kara kutusunu da dinler. "(Kara kutuya göre 60 yıl önce kumandan Jack Harper ve yardımcısı Victoria Olsen birer NASA astronotudur. Bir uzay mekiğiyle Dünya'ya yaklaşan cisme keşif uçuşu yapmaktadırlar. Bu cisim Tet'tir. Julia uyku kapsüllerindeki astronotlardan biridir. Tet'in ne olduğunu anlayamazlar ve Tet onları içine doğru çeker. Bu esnada Jack, delta uykusunda uyuyan diğer astronotları mekikten ayırarak, Dünya yörüngesine gönderir. Bu arada Victoria'nın Jack'e olan özel ilgisi ortaya çıkar, Victoria ve Jack, mekikler beraber Tet tarafından içine alınır.)" Tet, yanında bir uyku kapsülü ile gelen Jack'e güvenmez, asıl amacını sorar ve cevaplardan tatmin olmaz. Ancak Jack'in insan türünün devam etmesi için Tet'in Julia'yı yaşatması gerektiğini söyleyince, Tet küçük aracı içeri alır. Jack, nihayet Tet'in beynine girmiştir. Binlerce Vica ve Jack klonunu görür. Uyku kapsülüne Julia yerine Malcolm girmiştir. Malcolm zaten 60 yıldır Tet'i görebilmek için canını bile vermeye hazırdır. Aldatıldığını gören Tet öfkelenir. Ancak Jack, nükleer bomba düzeneğini hemen aktif hale getirir. İHA'lar müdahalae etmek istese de artık çok geçtir. Jack ve Malcolm bombayı patlatırlar. Canları pahasına Tet'i yokederler.
+Patlamadan üç yıl sonra, Jack'in dere kenarında inşa ettiği evde Julia ve Jack'ten olma 2 yaşlarındaki kızıyla yaşamaktadır. Bir sabah aniden Çavuş Sykes ve eşi ile sığınaktaki diğer insanlar ortaya çıkar. Tet'in yokolmasıyla maskeler takmaksızın rahatça dış dünyaya çıkabilmişlerdir. Ancak aslında onları bu yaşanabilir yere getiren, 49 numaralı Jack'in etkisiz hale getirip bıraktığı 52 numaralı Jack Harper'dır. Diğer bir klon olmasına rağmen herşeyi hissetmektedir. Onun da Julia ile ilgili anıları kalmıştır. Julia'yı ve evi bulmak için 3 yıl dolaşmış ve sonunda kendisine göre kızını ve karısını tekrar bulmuştur. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Wadati-Benioff Bölgesi</DOCTITLE>
+<TEXT>
+
+Wadati-Benioff bölgesi veya zonu, dalma-batma bölgesinin derinliklerinde depremsel olarak faal bölge. Japonya Meteoroloji Ajansı'ndan Japon sismolog Profesör Kiyoo Wadati (1902-1995) ile Kaliforniya Teknoloji Enstitüsü'nden Amerikalı sismolog Profesör Hugo Benioff'a (1899-1968) atfen bu isim verilmiştir.
+Dalma-batma sürecinde ateş küre içine dalan soğuk ve sert litosfer levhası, 600-700 km kadar derinlere kadar inebilmekte ve bu derinliklerde depremler oluşmasına neden olabilmektedir. Ateş kürede ergirken okyanusal levhada gerilimler oluşmakta ve bunun sonucu derin odaklı depremler olmaktadır. Bu depremler volkanik ada yaylarında veya dalma batma bölgesinin kıtalar üzerindeki yerlerinde etkisini gösterir.
+
+</TEXT>
+</DOC>
+

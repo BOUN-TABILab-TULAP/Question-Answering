@@ -1,0 +1,35 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+NATOnun	NATOnun	+Noun+Prop+A3sg+Pnon+Nom
+
+kuruluş	kur	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+kuruluş	kuruluş+Noun+A3sg+Pnon+Nom
+
+amacı	ama	+Adj^DB+Noun+Agt+A3sg+Pnon+Nom
+amacı	amaç+Noun+A3sg+P3sg+Nom
+amacı	amaç+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,17 @@
+1	Aksonun	akson	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+2	elektriksel	elektriksel	Adj	Adj	_	_	_	_	_
+3	izolasyonunu	izolasyon	Noun	Noun	A3sg|P3sg|Acc	_	_	_	_
+4	_	sağla	Verb	Verb	Pos	_	_	_	_
+5	sağlayarak	_	Adv	Adv	ByDoingSo	_	_	_	_
+6	uyartı	uyartı	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+7	iletimini	iletim	Noun	Noun	A3sg|P3sg|Acc	_	_	_	_
+8	_	hız	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	_	_	Verb	Verb	Acquire	_	_	_	_
+10	_	_	Verb	Verb	Caus|Pos	_	_	_	_
+11	hızlandıran	_	Adj	APresPart	_	_	_	_	_
+12	yapıya	yapı	Noun	Noun	A3sg|Pnon|Dat	_	_	_	_
+13	ne	ne	Adj	Adj	_	_	_	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+15	_	ver	Verb	Verb	_	_	_	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

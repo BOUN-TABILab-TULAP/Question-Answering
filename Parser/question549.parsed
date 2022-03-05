@@ -1,0 +1,10 @@
+1	Canlıları	canlı	Noun	Noun	A3pl|Pnon|Acc	4	OBJECT	_	_
+2	_	sınıf	Noun	Noun	A3sg|Pnon|Nom	3	DERIV	_	_
+3	_	_	Verb	Verb	Acquire	4	DERIV	_	_
+4	_	_	Verb	Verb	Caus|Pos	5	DERIV	_	_
+5	sınıflandırmanın	_	Noun	NInf	A3sg|Pnon|Gen	6	POSSESSOR	_	_
+6	amacı	amaç	Noun	Noun	A3sg|P3sg|Nom	7	SUBJECT	_	_
+7	_	ne	Pron	QuesP	A3sg|Pnon|Nom	8	DERIV	_	_
+8	nedir	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,8 @@
+1	İnsani	insani	Adj	Adj	_	2	MODIFIER	_	_
+2	gelişim	gelişim	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	endeksini	endeks	Noun	Noun	A3sg|P3sg|Acc	6	OBJECT	_	_
+4	hangi	hangi	Adj	Adj	_	5	MODIFIER	_	_
+5	topluluk	topluluk	Noun	Noun	A3sg|Pnon|Nom	6	OBJECT	_	_
+6	hazırlar	hazırla	Verb	Verb	Pos|Aor|A3sg	7	SENTENCE	_	_
+7	.	.	Punc	Punc	_	0	ROOT	_	_
+

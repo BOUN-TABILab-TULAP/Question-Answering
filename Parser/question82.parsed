@@ -1,0 +1,18 @@
+1	Yeryüzünün	yeryüzü	Noun	Noun	A3sg|Pnon|Gen	2	POSSESSOR	_	_
+2	_	alt	Noun	Noun	A3sg|P3sg|Loc	3	DERIV	_	_
+3	altındaki	_	Adj	Adj	Rel	5	MODIFIER	_	_
+4	sıcak	sıcak	Adj	Adj	_	5	MODIFIER	_	_
+5	suları	su	Noun	Noun	A3pl|Pnon|Acc	8	OBJECT	_	_
+6	enerji	enerji	Noun	Noun	A3sg|Pnon|Nom	7	CLASSIFIER	_	_
+7	kaynağı	kaynak	Noun	Noun	A3sg|P3sg|Nom	8	OBJECT	_	_
+8	_	ol	Verb	Verb	Pos	9	DERIV	_	_
+9	olarak	_	Adv	Adv	ByDoingSo	10	MODIFIER	_	_
+10	_	kullan	Verb	Verb	Pos	11	DERIV	_	_
+11	kullanan	_	Adj	APresPart	_	12	MODIFIER	_	_
+12	sistemlere	sistem	Noun	Noun	A3pl|Pnon|Dat	16	DATIVE.ADJUNCT	_	_
+13	ne	ne	Adj	Adj	_	14	MODIFIER	_	_
+14	ad	ad	Noun	Noun	A3sg|Pnon|Nom	16	SUBJECT	_	_
+15	_	ver	Verb	Verb	_	16	DERIV	_	_
+16	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	17	SENTENCE	_	_
+17	.	.	Punc	Punc	_	0	ROOT	_	_
+

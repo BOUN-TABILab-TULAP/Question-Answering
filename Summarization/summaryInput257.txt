@@ -1,0 +1,260 @@
+Question: Konik projeksiyon ile düzlem projeksiyon arasında nasıl farklar vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Projeksiyon Tipleri (EBA)</DOCTITLE>
+<TEXT>
+
+Yerküreye ait özellikler, bilgiler belli bir ölçek dahilinde küre üzerine aktarılarak model küre elde edilir. Ancak düzlem üzerine aktarılırken yerin şeklinden kaynaklanan bozulmalar ortaya çıkacaktır. Çünkü yuvarlak olan bir cismi, bozulma olmadan veya özelliklerini yitirmeden düzlem üzerine aktarmak oldukça güçtür. Bu nedenle haritalar oluşturulurken bozulmaların en aza indirilmesi için çeşitli yöntemler geliştirilmiştir. Bunlar projeksiyon (iz düşüm) olarak adlandırılır.
+Konik Projeksiyon
+Kürenin çevresine koni şeklinde bir kâğıt sarılmasıyla oluşturulur. Bu yöntemle çizilmiş haritalarda şekiller bozulur ama alanlar korunur. Konik projeksiyon orta enlemler ve çevresindeki bölgelerin çi-zimine kullanılır.
+Düzlem Projeksiyon
+Bir düzlemin kutup noktasına teğet olarak geçirilmesiyle oluşturulan bu çizimde kenar uzunlukları korunur. Bu yöntem daha çok dar alanların ve büyük ölçekli haritaların çizi-minde kullanılır.
+Silindirik Projeksiyon
+Bir kürenin çevresine silindir şeklinde bir kâğıt sarılmasıyla oluşturulur. Ekvator’dan kutuplara gidildikçe alan bozulmalan görülür ve şekiller büyür. Bu yöntem daha çok deniz ve hava ulaşımında yararlanılan haritaların hazırlanmasında kullanılır.
+Coğrafi Bilgi Sistemi (CBS) Nedir?
+Coğrafi Bilgi Sistemi, yeryüzündeki fiziki ve beşerî unsurlara ait verilerin toplanması, depolanması ve analiz edilmesidir. Toplanan bilgiler bilgisayar ortamında sayısal veri olarak kaydedilip görsel verilere dönüştürülür. Bu sistem, günümüzde birçok fiziki ve beşerî problemin ortaya konulmasında ve çözümünde etkili bir araç olarak kullanılmaktadır. Mekâna ait modellemelere imkân sunan sistem sayesinde geleceğe yönelik planlamalar kolaylıkla yapılabilmektedir.
+CBS Ne Gibi Kolaylıklar Sağlar?
+CBS ile toplanan veriler sürekli güncellenebilmektedir. Sistemin temel amacı olan farklı verilerin aynı tabanda birleştirilmesi ile oluşan görsel verilere kullanıcılar kolaylıkla ulaşabilirler. Veriler üzerinde analiz yapılabilme imkânı, sistemin sağladığı önemli avantajlar arasında yer alır.
+Haritacılık, çevre, savunma, arazi kullanımı ve belediyecilik hizmetleri alanında CBS yaygın olarak kullanılmaktadır. Coğrafi Bilgi Sistemi’nin uygulanabilmesi için bilgisayar donanımına, yazılıma, kullanacağımız doğal ve beşerî unsurlarla ilgili verilere ve bu alanda yetişmiş uzman elemanlara ihtiyaç vardır.
+Uzaktan Algılama Teknolojisi
+CJzaktan algılama, görüntülerin uydular, uçaklar veya gökyüzüııdeki çeşitli araçlarla elde edilmesidir. Hava fotoğrafları çok geniş alanlara ait görüntüleri tek fotoğrafta verebilmekte ve bu sayede mekâna ait analizler yapılabilmektedir. Hava fotoğrafları incelenerek bir bölgenin yeryüzü şekilleri, bitki örtüsü, arazi kullanımı, yerleşim alanlarının dağılımı gibi konularda çeşitli bilgiler elde edilebilir. Uzaktan algılama teknolojisi günümüzde coğrafya, meteoroloji, tarım, şehir planlaması, askerî sahalar, madencilik, jeoloji gibi alanlarda kullanılmaktadır.
+PIRI REİS
+1465-1470 arasında Gelibolu'da doğduğu tahmin edilmektedir. Asıl adı Muhiddin Pirîdir. 1480'li yıllarda kaptan olan amcasının yanında denize açıldı. 1487'de onunla birlikte İspanyadaki Müslümanların yardımına gitti. 1491-1493 arasında Sicilya, Sardunya, Korsika Adalanna ue Güney Fran-sa kıyılarına yapılan akınlara katıldı. Amcasıyla birlikte Osmanlı Devletinin hizmetine girerek 1499-1502 Osmanlı Venedik Savaşında bir savaş gemisinde kaptanlık yaptı. 151 l'de amcasının ölümü üzerine Gelibolu'ya çekilerek Kitab ı Bahriye (Denizcilik Kitabı) üzerinde çalıştı ue 1513'te bir Dünya haritası çizdi.
+1517'de ilk çizdiği haritayı Yavuz Sultan Selim Han'a sundu. 1521'de Kitab-ı Bahriye'yi tamamladıktan sonra 1522'de Rodos Seferime katıldı.
+Büyük bir denizci olduğu kadar büyük bir haritacı olan Piıi Reis, korsanlık günlerinden başlayarak gezip gördüğü yerleri yabancı kaynaklardan da yararlanarak tarihî ve coğrafi özellikleriyle birlikte kitabında anlatmış ve haritalarını çizmiştir. Kitab-ı Bahriye'nin nazımla yazılan ve denizcilikle ilgili tüm bilgilerin toplandığı başlangıç bölümünde, genel açıklamalardan sonra Ege ve Akdeniz adaları tanıtılarak denizle ilgili gözlem ve deneyimin önemi vurgulanır. Fırtına, rüzgâr çeşitleri, pusula ve haritanın tanımından sonra Dünyayı kaplayan denizler ve karaların oranı belirtilir. Portekizlilerin denizcilikteki ilerlemeleri ve keşifleri, Çin Denizi, Hint Okyanusu, Akdeniz ve Ege Denizindeki rüzgârlar, Basra Körfezi, Atlas Okyanusu ayrıntılı biçimde anlatılır.
+Düz yazı ile anlatımın başladığı haritalı bölüm asıl metni oluşturur. Bu bölümde Çanakkale Boğazı'ndan başlayarak Ege Denizi kıyı ve adaları, Adriyatik Denizi kıyıları. Batı İtalya, Güney Fransa, Doğu İspanya kıyılarıyla çevresindeki adalara ilişkin tarihî, coğrafi bilgiler verilerek Kuzey Afrika kıyıları, Filistin, Suriye, Kıbrıs ve Anadolu kıyıları izlenerek Marmaris'te tüm Akdeniz'in havzası noktalanır.
+1513'te çizdiği ilk haritasında Christoph Columbus (Kıistof Kolomb)'un 1498'de çizdiği Amerika hantasmdan, Portekiz ve Arap haritalarından yararlandığını belidir. Elde kalan parçası Avrupa ve Afrika'nın batı kıyılarıyla Atlas Okyanusunu, Antil Adalarını, Orta ve Güney Amerika'yı gösterir. 1528'de çizdiği ikinci haritasından günümüze kalan parça, büyük bir Dünya haritasının kuzeybatı köşesi olup Atlas Okyanusu'nun kuzeyini. Kuzey ve Orta Amerika'nın yeni keşfedilmiş kıyılarını ve Grönland'dan Floıida'ya uzanan kıyı şeridini içerir Adalar ve kıyılar son keşiflere dayalı olarak daha doğru çizilmiştir. Keşfedilmeyen yerler ise beyaz bırakılarak, bilinmediği için bu yerlerin çizilmediği belirtilmiştir İlk haritadan daha büyük ölçekli ve gelişkin olan İkincisi, teknik olarak döneminin en ileri örneğidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Harita projeksiyonu</DOCTITLE>
+<TEXT>
+
+Harita projeksiyonu, 3 boyutlu yeryüzünün (küre ya da elipsoid) matematiksel transformasyon ile iki boyutlu düzlemde (harita düzlemi) temsil edilmesi işlemine denir. Harita projeksiyonunun yeryüzünün şeklini nasıl değiştirdiğini anlamanın kolay bir yolu merkezinde bir ışık kaynağı bulunduğu varsayılan yeryüzünün projeksiyon yüzeyi denen bir yüzeye iz düşürülmesidir.
+Üzerine eşit aralıklı meridyen ve paralellerin çizilmiş olduğu yeryüzünün saydam olduğunu farzederek temiz bir kağıdı ekvatordan teğet olacak bir silindir şekilde saralım ve dünyanın ortasında da bir ışığın yandığını düşünelim. Bu ışık yeryüzündeki şekillerin gölgesini kağıdın üzerine düşürecektir. Bu aşamadan sonra kağıdımızı tekrar açarak düzlem haline getirelim. Kâğıt üzerinde meridyen ve paralellerin şeklinin farklı olduğu ve önemli ölçüde bozulma olduğu görülecektir. Bu bozulmalar alan, uzunluk ve şekil bozulmaları olarak sınıflandırılabilir. Diğer bir deyişle yeryüzü üzerindeki objelerin düzleme aktarılmaları sonucunda, alanları, uzunlukları ve şekilleri değişir. 
+Harita projeksiyonlarında yeryüzü ya doğrudan düzleme ya da düzleme açılabilen yüzeylere (siindir ve koni) izdüşürülür. Bu bağlamda düzlem, silindir ve koni, projeksiyon yüzeyleri olarak adlandılırlar. Harita projeksiyonları projeksiyon yüzeyine göre üçe ayrılır:
+Projeksiyon yüzeyinin yeryüzünün dönme eksenine göre konumu açısından ise üç durum söz konusudur:
+Projeksiyon yüzeyleri (düzlem, silindir ve koni) yerküreye herhangi bir konumda teğet oldukları gibi yerküreyi kesiyor da olabilirler. Bu bağlamda teğet projeksiyonlar ve kesen projeksiyonlardan söz edilir. Bazı projeksiyon türlerinde gerçek anlamda tanımlı bir projeksiyon yüzeyi olmayıp, yalnızca coğrafi koordinatlar ile düzlem koordnatlar arasındaki ilişkiler tanımlıdır. Bu tür projeksiyonlara gerçek anlamda olmayan (pseudo) projeksiyonlar denir ve bu açıdan harita projeksiyonları,
+olarak ikiye ayrılır. 
+Harita projeksiyonu coğrafi koordinatları düzlem koordinatlarla (iki boyutlu Kartezyen koordinatlar) ilişkilendirmek için matematiksel ve geometrik ilişkilerden yararlanır. Bu bağlamda bir harita projeksiyonu düzlem koordinatlar ile coğrafi koordinatlar arasında iki fonksiyon ile tanımlanır.
+formula_1
+formula_2
+Harita projeksiyonları, alanları, belli yönde uzunlukları, diferansiyel anlamda açıları koruyacak şekilde tasarlanabilirler. Bu bağlamda alan koruyan, uzunluk koruyan ve konform projeksiyonlardan söz edilir. Diferansiyel anlamda açı koruma özelliğine sahip projeksiyonlarda şekillerin değişimi minimum olup, bazen açı koruyan projeksiyonlar olarak da adlandırılırlar. Ancak buradaki açı koruma kavramının diferansiyel anlamda olduğu, sonlu büyüklükteki açıların korunamayacağı unutulmamalıdır.
+Teorik olarak sonsuz sayıda harita projeksiyonu tanımlamak mümkündür. Literatürde 400 civarında yayınlanmış projeksiyon vardır. Bunların içinde en az bir harita yapmak için kullanılmış olanları oldukça azdır. Pek azı ise standart harita üretiminde kullanılırlar. 
+Projeksiyon seçimi
+bağlı olarak yapılır.
+Aşağıda genel olarak yeryüzünün tamamının gösterimine yönelik kullanılan bazı projeksiyon türleri hakkında kısaca bilgi verilmiştir. 
+İngilizce kaynaklarda genel olarak Transverse Mercator olarak adlandırılır. Deformasyonları kontrol altında tutmak amacıyla yeryüzü 6°lik boylam farkları ile 60 dilime ayrılarak uygulanışı ise Universal Transverse Mercator olarak bilinir. 1960larda United States Army Corps of Engineers tarafından geliştirilmiştir. Her dilimde x ekseni orta meridyenin, y ekseni ise ekvatorun izdüşümlerine çakışık olmak üzere bir düzlem kartezyen koordinat sistemi tanımlanmıştır. Deformasyonları kontrol altında tutmak amacıyla düzlem koordinatlar (x,y) küçültme ya da ölçek faktörü olarak adlandırılan bir katsayı ile (0.9996) çarpılırlar. Koordinatların küçültme faktörü ile çarpılmasının geometrik anlamı, projeksiyon yüzeyinin (silindir) yerküreyi kesiyor olmasıdır.
+Koordinatlarda negatif değerlerden kaçınmak için y değerleri 500 000m ile toplanır. Güney yarımkürede ise x değerleri 10 000 000m ile toplanır. İngilizcedeki "Easting" ve "Northing" kavramlarını karşılamak üzere y koordinatı "Sağa", x koordinatı ise "Yukarı" olarak da isimlendirilir. Ülkemizdeki kullanımdan farklı olarak İngilizce kaynaklarda x koordinatı "Sağa" (Easting), y koordinatı ise "Yukarı" (Northng) olarak kullanılır. Başka bir deyişle x ekseni Ekvatorun izdüşümü ile, y ekseni ise orta meridyenin izdüşümü ile çakışık alınır. Çoğu CBS yazılımında da koordinat sistemi bu şekildedir.
+Türkiye 1:25 000, 1:50 000, 1:100 000 ve 1: 250 000 ölçekli standart topoğrafik harita takımları bu projeksiyon sistemi temel alınarak üretilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Harita</DOCTITLE>
+<TEXT>
+
+Harita, yeryüzünün tümünün ya da bir parçasının belirli oranlarda küçültülüp işaretleştirilerek bir düzlem üzerinde gösterimidir. Yeryüzü düzleme açılamayan kapalı bir şekil olduğundan küçültme ile birlikte harita projeksiyonları kullanılarak düzleme izdüşüm işlemi de yapılır. 
+Haritanın temel işlevi, bölgenin topografyası ya da ilişkili diğer konularda, jeolojisi, jeomorfolojisi, iklimi, trafiği, yeraltı kaynakları, değişik bakış açılarından ekonomisi vb. hakkında bilgi vermektir. Bu haliyle harita, insandan (haritayı üreten kartograf) insana (harita kullanıcısı) yer referanslı bilgi aktaran, genel olarak basılı bir iletişim aracıdır. 
+Haritaların, ülkenin değişik amaçlı kalkınmasında ve taşınmaz mal hukukunda kullanılmak üzere üretilmesi genellikle devletin temel görevlerinden biridir. Bu nedenle ülkemizde de büyük ölçekli topografik içerikli haritalar devlet eliyle üretilir ya da ihale yoluyla özel firmaların üretmesi sağlanır. 1: 5.000 ölçeğine kadar taşınmaz mal hukukunda hizmet verecek haritalar orijinal yer ölçümleri ya da Fotogrametrik yöntemlerle Başbakanlığa bağlı "Tapu ve Kadastro Genel Müdürlüğü" sorumluluğunda; 1:25.000 ve daha küçük ölçekli haritalar ise,Milli Savunma Bakanlığına bağlı "Harita Genel Komutanlığı" [http://www.hgk.mil.tr yetki ve sorumluluğunda üretilir ve güncellenir. Belediye hizmeti verilen yerleşim merkezlerinde özellikle teknik alt yapı tesislerinin projelendirilmesinde kullanılan haritalar ise yerel yönetimler tarafından, yine özel firmalara ihale yöntemiyle ürettirilir.
+Haritalar, Basılı Haritalar ve Sayısal Haritalar üzere iki gruba ayrılabilir. Sayısal Harita (Vektör Harita, Raster Harita, Matris Harita) niteliğindeki coğrafi veriler, Ulusal Coğrafi Veri Altyapısının temel altlık verilerini oluşturur.
+Harita Bilgileri.
+Pafta İndeksi.
+Pafta indeksi, haritanın, haritası olduğu bölgenin kullanıcı tarafından konumunun algılanabilmesi için genel bir harita üzerinde bir çerçeve ile, bazen diğer harita paftaları ile komşuluklarını da göstererek haritanın kapsadığı alan ve nerenin haritası olduğu hakkında bilgi veren bir küçük haritadır.
+Türkiye Pafta İndeksi
+Uzunluk Ölçeği (çizgisel ölçek) ve eğim ölçeği.
+Uzunluk ölçeği, çizgisel ölçek olarak da tanımlanır. Harita üzerinde temsil ettiği mesafenin arazide gerçekte hangi uzunluğa karşılık geldiğini gösterir. Çizgisel ölçek üzerindeki rakamların hangi ölçü biriminde olduğu (km, m, mil vb). Ülkemizdeki haritalarda çizgisel ölçek birimi genelde m ve km biriminde verilir. Bazı ülkelerde mil kullanılmaktadır. Bu tür haritalarda genelde iki birim için iki ayrı ölçek çizgisi kullanılarak farklı birimlerle çalışmaya alışmış olan kullanıcıları için kolaylık sağlanır. Eğim ölçeği ise yükseklik gösterimlerinin ölçeğini ifade eder, ancak çoğu topografik haritada kullanılmamaktadır.
+Harita Çerçevesi.
+Harita çerçevesi üzerinde haritanın bulunan koordinat bilgileri, koordinat ağı ile kesiştiği yerde rakam olarak yazılmıştır. Büyük ölçekli haritalarda sadece çizgisel dakika, küçük ölçekli haritalarda çizgisel derece ve 30 dakika aralığında verilir. Koordinat bilgileri özellikle günümüzde GPS ve haritayı birlikte kullanan ya da haritadan koordinat okuması yapan kullanıcılar için çok önemlidir. Bunun için koordinat çizgileri arasında kalan noktaların hassas koordinat hesabının yapılabilmesi için aşağıdaki cetvel kullanılır.
+Sapma Açısı (Deklinasyon)hesabı.
+Topografik haritaların üzerindeki koordinat ağı (grid) daima kuzeyi gösterir. Koordinat ağının yönü grid kuzeyi olarak adlandırılır ve coğrafi kuzeyden bir miktar sapar. Coğrafi kuzey gerçek kuzey olarak da adlandırılır. Haritayı araziyle çakıştırmak için kullanılan pusula ise magnetik kuzeyi gösterir. Magnetik kuzey kutbu ile coğrafi kuzey kutbu arasında büyük bir mesafe vardır ve bu fark haritalarda göz ardı edilirse hatalara sebep olur. Magnetik kuzey her yıl belli bir miktar hareket etmektedir. Aşağıdaki şekilde 1600 – 2000 yılları arasında magnetik kuzeyin yer değiştirme miktarı görülmektedir.
+Haritalar yapıldıkları anda güncelliklerini yitirdikleri ve magnetik kuzey de her yıl belli bir miktarda yer değiştirdiği için, magnetik kuzey, grid kuzeyi ve coğrafi kuzey arasındaki farklar mutlaka harita kenar bilgileri içinde belirtilir. Yıllık deklinasyon (sapma) farkı da kullanıcının haritanın üretim yılı ile haritanın kullanıldığı anda içinde bulunulan yıl arasındaki fark oranında eklenerek ya da çıkarılarak güncel deklinasyonun elde etmesine olanak verir.
+Jeodezik Esaslar.
+Genelde ulusal harita çalışmalarında kullanılırlar. Mühendislik çalışmalarında altlık olarak hazırlanan özel amaçlı haritalarda bu tür özel bilgiler hesap hassasiyeti açısından önemlidir. Nirengi / Nivelman çıkış noktaları, fotogrametrik belgeleme yöntemleri, hava fotoğraflarına ait bilgiler, hata aralığı diğer kartografik kaynaklar vb. bu bilgiler arasında sayılabilir.
+Elipsoid, Projeksiyon ve Datum bilgisi.
+Datum, herhangi bir noktanın yatay ve dikey konumunu
+tanımlamak için başlangıç alınan referans yüzeyidir.
+Datum, Yer’in şeklini ve boyutunu tanımlayan bir referans
+sistemidir.
+Yatay datum: Koordinatlar için referans alınan başlangıç
+yüzeyi
+Dikey datum: Yükseklikler için referans alınan başlangıç
+yüzeyi
+Bir datum; elipsoidi, enlem-boylam oryantasyonu ve fiziksel
+bir orijin ile tanımlanır.
+Örn: Lambert Kesen Konik
+ Datum: WGS 84
+ Güney Paralel Dairesi:….
+ Kuzey Paralel Dairesi:…..
+ Orta Paralel Dairesi:…….
+ Dilim Orta Meridyeni:…..
+Haritalardaki bozulmanın etkisini azaltmak için çeşitli çizim yüzeyleri geliştirilmiştir.Bu çizim yüzeylerine projeksiyon denir. Bazı projeksiyonlar açılardaki bozulmaları önlemeyi amaçlarken, bazı projeksiyonlar uzunluklardaki bozulmaları önlemeyi amaçlar.
+Bu yöntemlerden bir kaçı şöyledir:
+Bilgi Ağı.
+Haritalar içerisinde aranan bir bilgiye kullanıcının kolay ulaşmasını sağlayan konumları harfler ve rakamlara karşılık gelen (Nazar Tepe D 4 gibi) karelerden oluşan bir sistemdir. Bu sistem bir liste ile birlikte kullanılır. Haritanın yanında, arkasında ya da birlikte kullanıldığı bir kitapçık içerisinde özel noktaların bir listesi harita içerisinde bu sistem yardımı ile bulunur. Özellikle turistik amaçlı hazırlanmış olan haritalarda yaygın olarak kullanılırlar. Bu ağ bazen harita koordinat ağı dışında ikinci bir ağ olarak çizilebilirken, koordinat ağı da aralara numara ve harfler verilerek bu amaçla kullanılmaktadır.
+Diğer.
+Haritalar içerisinde ayrıca kullanıcı için faydalı olabilecek olan bilgiler de verilir. Özellikle turistik cep haritalarında harita dışında kalan veya haritanın arka sayfasında rehber bilgiler verilir. Bazı ülkeler tarafından hazırlanmış olan askeri amaçlı haritalarda da aynı amaçla harita etrafında kullanıcıya ayrıntılı bilgiler verildiği bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Konik projeksiyon</DOCTITLE>
+<TEXT>
+
+Konik projeksiyon, kürenin koni şeklindeki bir kağıda sarılmasıyla oluşturulan bir harita hazırlama yöntemidir. Bu yöntemle çizilmiş haritalarda şekil bozulur fakat alanlar korunur. Orta enlemler ve çevresindeki bölgelerin gösterilmesinde daha doğru sonuçlar verir. 
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bileşik</DOCTITLE>
+<TEXT>
+
+Bileşik, iki ya da daha fazla cinste atomun bir araya gelerek oluşturduğu saf maddelere denir. Bileşiklerin en küçük yapı taşı moleküllerdir.
+Bileşiklerin genel özellikleri.
+Bileşikler belirli sayıda element atomunun kimyasal bir bağ ile bağlanmasıyla oluşur. Ancak karışımın belirli bir formülü yoktur.Bileşikleri oluşturan elementler bir araya gelerek kendi özelliklerini kaybederler fakat karışımları oluşturan maddeler kendi özelliklerini kaybetmezler.
+Karışımlar ile arasındaki farklar.
+[[fa:تر
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kamu malı</DOCTITLE>
+<TEXT>
+
+Kamu malı (İngilizce: "Public Domain") kavramının herkes tarafından kabul edilmiş veya hukuksal olarak garanti altına alınmış bir tanımı olmamasına rağmen, bu kavramın yaygın kullanım biçimi hukuksal hakları belirli bir kişiye veya kuruma ait olmayan ve bu yüzden kamuya ait olduğuna inanılan, fikir ve sanat eserlerini ifade eder.
+Günlük hayatta genellikle bilgisayar programları için kullanılan kamu malı deyiminin içeriği hızlı bir biçimde yazı, haber, şiir, fotoğraf, resim, müzik gibi alanları da içine alacak şekilde genişlemektedir.
+Bir fikir veya sanat eserinin kamu malı olması:
+Kavramların görece yeni ve hukuksal olarak tam tanımlanmamış olması Kamu Malı, Freeware, Adware, Shareware, Özgür yazılım (Free Software), Açık kaynak (Open Source), Creative Commons ve benzeri tanımlamaların çoğu zaman yanlış olarak birbirlerinin yerine ya da sanki içerik olarak aynı şeyi ifade ediyorlarmışcasına kullanılmasına yol açsa da bu kavramlar arasında ciddi hukuki, etik, sosyolojik ve ücretlendirme ile ilgili farklar bulunmaktadır ve bu yüzden dikkatle kullanılmalıdırlar.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kubuntu</DOCTITLE>
+<TEXT>
+
+Kubuntu, Debian dağıtımını temel alan Ubuntu dağıtımının GNOME masaüstü ortamı yerine KDE masaüstü ortamını kullanan türüdür.
+Ubuntu projesinin bir parçasıdır ve aynı temeli kullanır. Kubuntu ve Ubuntu, ubuntu-desktop ve kubuntu-desktop paketlerinin yüklenmesiyle beraber çalışabilirler.
+Kubuntu da Ubuntu ile eşzamanlı olarak altı ayda bir yeni sürüm çıkartır. Çevrimiçi olarak kendi sitelerinden ücretsiz indirilebilir.
+Kubuntu'nun diğer GNU/Linux dağıtımlarından farkı her zaman en son yazılımı en kısa sürede sunması ve geniş topluluğudur.
+İsmi.
+Kubuntu kelimesi aslen "Ubuntu"nun başına KDE'yi simgeleyen bir "K" harfi getirilmesiyle oluşturulmuştur. Ayrıca kubuntu Bemba dilinde "insanlığa doğru" anlamına gelir ve (kuu-BUN-tuu) şeklinde telaffuz edilir [http://www.kubuntu.org/faq.php#kubuntumeaning].
+Kubuntu, aynı zamanda Mizo dilinde "arkadaşlık ruhu", Kirundi dilinde ise özgür anlamına gelir [http://en.wikipedia.org/wiki/Kubuntu#Name].
+Özellikleri.
+"Bakınız: Ubuntu'nun Özellikleri"
+Kurulumun Ubuntu'dan farkı bulunmamaktadır.
+Güncel sürüm, 13.10 KDE 4.11.2 ve canlı (çalışan) DVD'den kullanılan bir yükleme sistemiyle gelmektedir.
+Ubuntu ile arasındaki farklar.
+Paket Yöneticisi.
+Kubuntu Muon Yazılım Merkezini kullanmaktadır. Ancak depolardan Ubuntu'nun paket yöneticisi Synaptic de yüklenebilir. Synaptic paket yöneticisi kullanım açısından Kubuntu'nun eski paket yöneticisi olan Adept paket yöneticisine göre daha basit bir yapıya sahiptir.
+(K)ubuntu .deb uzantılı Debian paket sistemini kullanmaktadır. Bu nedenle hemen hemen tüm .deb uzantılı paketler Kubuntu'ya yüklenebilir. Bu sayede aradığınız bir yazılımın paketini kolayca bulabilirsiniz. Kubuntu'da kullanılabilecek yazılım sayısı 60000'in üzerindedir.
+Program yazanların büyük bir kısmı programlarını .deb uzantısı ile de paketlemektedir. Örnek olarak açık kaynak kodlu Jabbin isimli anında iletişim yazılımının .deb uzantılı paketi Kubuntu depolarında yer almazken, üretici sitesinde yer almaktadır.
+Uygulamalar.
+Ubuntu, Gnome ile birlikte geldiği için Gnome'nin araçlarına sahiptir; aynı şekilde Kubuntu da KDE ile birlikte gelen yazılımları içermektedir.
+Öte yandan bu yazılımlar sonradan rahatlıkla diğerine yüklenebilmektedir.
+Bazı uygulama karşılaştırmaları aşağıdaki tabloda verilmiştir:
+Temin Etme Yolları.
+Kubuntu'nun tüm sürümleri (LTS - Uzun Süreli Destekli veya Latest Release (en son sürüm)) Get Kubuntu sayfasından indirilebilmektedir. İndirilen ISO dosyası yaklaşık 1 GB'dır.
+Ayrıca Kubuntu Türkiye Forumları üzerinden Kubuntu CD paylaşımı yapılmaktadır. Dileyen kullanıcılar bu alan vasıtası ile birbirleri arasında "ücret talep etmeden" CD paylaşımı yapabilmektedirler.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>NexentaOS</DOCTITLE>
+<TEXT>
+
+Nexenta OS OpenSolaris projesi ile Oracle firmasının Solaris'in kaynak kodlarını açmasından sonra ortaya çıkan OpenSolaris dağıtımıdır. Nexenta OS, Solaris (SunOS) çekirdeğine sahiptir.
+Nexenta OS Ubuntu dağıtımını temel alır. Projenin asıl amacı Ubuntu Linux dağıtımının Solaris çekirdeğine sahip bir sürümünün çıkartılmasına yönelikti. Bu amaç ile çıkılan yol başarılı oldu ve ortaya Nexenta OS çıktı.
+Nexenta OS'un diğer adı Ubuntu Solaris'dir. Bunun sebebi Ubuntu ile aynı olması ve tek farkın çekirdekten gelmesidir. Varsayılan masaüstü ortamı Gnome olmasına karşın KDE ve XFCE masaüstü ortamları da depodan kurulabilir.
+Sürüm 1.0, 11 Şubat 2008 tarihinde çıkmıştır.
+Ubuntu ile arasındaki farklar.
+Artılar ve eksiler.
+Ubuntu bir GNU/Linux dağıtımı olup, Linux çekirdeği ile gelmektedir. Nexenta OS ise Solaris çekirdeği ile gelmektedir. Aradaki fark çekirdek farkıdır. Linux ve Solaris çekirdekleri Açık kaynak kodlu olan ve özgürce dağıtılan 2 ayrı unix temelli çekirdektir. Son kullanıcı açısından arada bir fark görünmese bile çekirdek ile işiniz olduğunda komutların farklı olduğunu göreceksiniz.
+Solaris çekirdeği tıpkı Linux ve BSD çekirdekleri gibi Unix mimarisine sahip ancak Linux ve BSD komutları, Solaris çekirdeğini kullanan bir dağıtımda geçerli değil. Örneğin programları kaynak koddan derlemek için ./configure / make / make install yolu işlemiyor.
+Solaris çekirdeğinin büyük kısmı Java programlama dili temel alınarak yazılmıştır. Özellikle java uygulamalarını çalıştırmada çok daha kararlıdır.
+Solaris çekirdeği, Linux çekirdeğinden daha eski bir çekirdek ancak yıllarca kaynak kodu kapalı olduğu için Sun Microsystems firmasının tekelinde kaldı, bu nedenle Linux kadar yaygınlaşamadı. Şu an hemen hemen tüm masaüstü ortamlarını kullanabileceğiniz Solaris dağıtımları mevcuttur.
+Donanım tanıma konusunda da Linux kadar yetenekli değil ancak Linux için yazılmış sürücülerin çekirdeğe entegre edilmesiyle birlikte bu sorunda çözülmeye başlandı.
+Özellikleri.
+Kurulum.
+Kurulumu oldukça kolay olan Nexenta OS; kurulum kolaylığında Windows Vista, SuSe, Mandriva, Fedora Core ve Ubuntu gibi kolay kurulum ile ün yapmış işletim sistemleriyle rekabet etmektedir. Kurulum için CD versiyonunda önce işletim sisteminin canlı cd olarak açılması gerekir. Bundan sonra kurulum sadece "install" simgesine tıklayıp birkaç ileri düğmesine basmaktan ibarettir. Kurulum sırasında işletim sistemi üzerinde istediğiniz her şeyi yapabilirsiniz, ancak değişiklikler yeni kurduğunuz sisteme aktarılmamaktadır.
+Kullanım.
+Kullanışlılık üzerine odaklanılmış bir dağıtım olan Nexenta OS da çok sayıda değişik kullanım özelliği bulunmaktadır.
+Paketler.
+Debian'ın APT (Advanced Package Tool) paket sistemini kullanan Nexenta OS, kaynak listenizi (sources list) de genişletmeniz halinde 23 binden fazla paketi internetten indirip kurmaya hazırdır. Apt programının görsel arayüzü olan Synaptic ile Nexenta OS depolarından istediğiniz paketi arayıp kurabilirsiniz. İstediğiniz bir paketi seçtiğiniz zaman onun çalışması için gerekli tüm diğer paketleri/bağımlılıkları kendiliğinden seçilip yüklenecektir. Nexenta OS paket deposunda yaklaşık 12.000 paket bulunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>GOS</DOCTITLE>
+<TEXT>
+
+gOS, Debian dağıtımını temel alan Ubuntu dağıtımının, GNOME masaüstü ortamı yerine Enlightenment masaüstü ortamını kullanan bir sürümüdür. gOS aynı zamanda GNU/Linux dağıtımıdır. Ubuntu projesinin bir parçası sayılabilir ve aynı temeli kullanır.
+gOS, Resmi bir Google işletim sistemi (Google OS) değildir. Proje, Google'ın bilgisi dahilinde Enlightenment masaüstü ortamı geliştiricileri tarafından yürütülmektedir. (Bu kısım Google bu dağıtıma resmi olarak destek verdiğini açıkladığı an geçerliliğini yitirecektir)
+İsmi.
+gOS Good OS isminin kısaltmasıdır. İsim olarak Google Uygulamalarını barındırdığı ve Google'ın bilgisi dahilinde geliştirildiği için Google OS ismi ile de anılmaktadır.
+İçerik.
+gOS ile Firefox, Google Mail, Google News, Google Calendar, Google Maps, Google Docs and Spreadsheets, Google Product Search, Blogger, YouTube, Facebook, Faqly, Meebo, Rythmbox, Skype, Wikipedia, Xine uygulamaları ön tanımlı olarak gelmektedir.
+Özellikleri.
+"Ayrıca Bakınız:Ubuntu#Özellikleri"
+Hemen hemen tüm Google uygulamaları (Google Labs) gOS ile kurulu gelmektedir. Masaüstü arama özelliği bulunmaktadır.
+Kurulum.
+Kurulumun Ubuntu'dan farkı bulunmamaktadır. İlk çıktığında DVD iso dosyası ile dağıtılan gOS şuanda CD iso dosyası ile dağıtılmaktadır. Güncel versiyon, canlı (çalışan) CD'den kullanılan bir yükleme sistemiyle gelmektedir. Kurulum için: çalışan CD ile bilgisayarınızı başlatmak, ardından çalışan gOS CD'si ile açılan masaüstünde Install (Kurulum) simgesin tıklayarak kurulum programını açmak yeterlidir. 
+iso dosyasını CD'ye yazmak için Windows altında Nero veya Ashampoo Burning Studio 'yu kullanabilirsiniz. Linux işletim sistemi dağıtımlarında ise K3B cd/dvd yazma programını kullanabilirsiniz.
+gOS %75 Türkçe dil desteği ile gelmektedir. Kurulum aracıda da Türkçe dil desteğine sahiptir. gOS'nun kurulumu diğer linux dağıtımlarına kıyasla oldukça kolaydır.
+Güvenlik.
+gOS ilk kurulduğunda güvenlik yönünden bazı açıklarla gelmektedir. İlk kurulumda root (yetkili kullanıcı) şifresi bulunmamaktadır. Root şifresinin sonradan oluşturulması tavsiye edilmektedir.
+Ubuntu ile arasındaki farklar.
+Paket Yöneticisi.
+gOS Adept paket yöneticisini kullanmaktadır. Ancak depolardan Ubuntu'nun paket yöneticisi Synaptic yüklenebilir. Synaptic paket yöneticisi kullanım açısından Adept paket yöneticisine göre daha basit bir yapıya sahiptir.
+gOS .deb uzantılı Debian paket sistemini kullanmaktadır. Bu nedenle hemen hemen tüm .deb uzantılı paketler gOS'a yüklenebilir. Bu sayede aradığınız bir yazılımın paketini kolayca bulabilirsiniz. Program yazanların büyük bir kısmı programlarını .deb uzantısı ile de paketlemektedir. Örnek olarak açık kaynak kodlu Jabbin isimli anında iletişim yazılımının .deb uzantılı paketi Kubuntu depolarında yer almazken, üretici sitesinde yer almaktadır.
+Uygulamalar.
+gOS, Enlightenment ile birlikte geldiği için Enlightenment'ın araçlarına sahiptir, Kubuntu KDE kullandığı için KDE yazılımlarına, Ubuntu Gnome kullandığı için Gnome yazılımlarına sahiptir. Ancak gOS depolarından KDE ve Gnome uygulamaları kolayca yüklenebilir.
+Temin Etme Yolları.
+Resmi sitesinde bulunan Torrent dosyası vasıtası ile herhangi bir Torrent yazılımı kullanılarak indirilebilir. Bunun dışında 1 tane yansı adresi bulunmaktadır. Bu yansı üzerinde direk olarak indirebilirsiniz.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Projeksiyon</DOCTITLE>
+<TEXT>
+
+Video projektör, LCD teknolojisi ile birlikte gelişen
+transparan LCD üzerinde oluşan görüntünün kuvvetli bir projektör ışığı ile merceklere yansıtılarak istenilen mesafedeki bir perde üzerinde görüntünün odaklaştırılarak görsellik elde etme tekniğine verilen genel addır.
+Projeksiyon cihazları geçmişten günümüze sinemavizyon cihazlarının yerini alan kompakt cihazlardır. Çalışma prensibi LCD VE DLP teknolojilerine göre farklılık göstermektedir. Projeksiyon cihazlarının gerçek kullanım alanları özellikle okullarda, toplantı salonları ve seminer salonları gibi kalabalık bir topluluğa hitap ederken herkesin rahatlıkla görebileceği gibi bir ortam sunmaktır. Projeksiyon cihazı üreten şirketler zamanla teknolojilerini yükseltmiş ve artık yüksek çözünürlükte hatta üç boyutlu film bulunmaktadır.
+Çalışma prensibi.
+Projeksiyon cihazları kaynaktan verilen video sinyalini alır(cvbs ,hdmi,vga,s-video) ve objektif sistemini kullanarak gelen video sinyalini yansıtarak perdeye aktarır. Bu aktarım esnasında yüksek güçte ışık kullanımı gerekir. Burada projeksiyon cihazının verdiği ışığın kalitesi çok önemlidir. Bu işlem için projeksiyon lambası devrededir ve aktarım işini projeksiyon lambası gerçekleştirir. Aktarım esnasında gerekli ayarlar projeksiyon cihazının objektif olarak kabul edilen kısmından manuel olarak ince ayar ile sağlanır.Eğrilik, bulanıklık ve tutarsızlıklar böylelikle düzeltile bilinir.
+Ayrıca dijital projektör olarak bilinen video projektör, geleneksel bir yansıtıcı projeksiyon perdesine proje olabilir, ya da tek bir birleşik görüntü aygıtı oluşturmak için yarı saydam bir arka projeksiyon ekranı olan bir kabin içine yerleştirilmiş olabilir.
+Video projektör, LCD teknolojisi ile birlikte gelişen transparan LCD üzerinde oluşan görüntünün kuvvetli bir projektör ışığı ile merceklere yansıtılarak istenilen mesafedeki bir perde üzerinde görüntünün odaklaştırılarak görsellik elde etme tekniğine verilen genel addır.
+Projeksiyon cihazları geçmişten günümüze sinemavizyon cihazlarının yerini alan kompakt cihazlardır. Çalışma prensibi LCD VE DLP teknolojilerine göre farklılık göstermektedir. Projeksiyon cihazlarının gerçek kullanım alanları özellikle okullarda, toplantı salonları ve seminer salonları gibi kalabalık bir topluluğa hitap ederken herkesin rahatlıkla görebileceği gibi bir ortam sunmaktır. Projeksiyon cihazı üreten şirketler zamanla teknolojilerini yükseltmiş ve artık yüksek çözünürlükte hatta üç boyutlu film bulunmaktadır.
+Çalışma prensibi[değiştir]
+Projeksiyon cihazları kaynaktan verilen video sinyalini alır(cvbs ,hdmi,vga,s-video) ve objektif sistemini kullanarak gelen video sinyalini yansıtarak perdeye aktarır. Bu aktarım esnasında yüksek güçte ışık kullanımı gerekir. Burada projeksiyon cihazının verdiği ışığın kalitesi çok önemlidir. Bu işlem için projeksiyon lambası devrededir ve aktarım işini projeksiyon lambası gerçekleştirir. Aktarım esnasında gerekli ayarlar projeksiyon cihazının objektif olarak kabul edilen kısmından manuel olarak ince ayar ile sağlanır.Eğrilik, bulanıklık ve tutarsızlıklar böylelikle düzeltile bilinir. Ayrıca dijital projektör olarak bilinen video projektör, geleneksel bir yansıtıcı projeksiyon perdesine proje olabilir, ya da tek bir birleşik görüntü aygıtı oluşturmak için yarı saydam bir arka projeksiyon ekranı olan bir kabin içine yerleştirilmiş olabilir.
+Ekran çözünürlükleri[değiştir]
+Modern taşınabilir cihazlar için ortak ekran çözünürlükleri aşağıda verilmiştir:
+SVGA (800 × 600 piksel),
+XGA (1024 × 768 piksel),
+720p (1280 × 720 piksel),
+1080p (1920 × 1080 piksel)
+Ancak bir projeksiyon cihazının kalitesini tayin eden en önemli etken çözünürlüğü değil, ışık akısıdır. Işık akısı lm ile gösterilir ve birimi Lümen'dir. Işık akısı değer ne kadar büyük ise projeksiyon cihazı o kadar büyük bir ekrana ve parlaklığa sahip demektir. Örneğin, küçük perdeli bir ortam için 1500-2500 ANSI ışık akısı yeterlidir. Yaklaşık 2500 ile 4000 lm ise orta ölçekli bir toplantı salonuna yetmekteyken, 4000 lm çok büyük ekranlı mekanlar ve konferans salonları için yeterli gelmektedir.
+
+</TEXT>
+</DOC>
+

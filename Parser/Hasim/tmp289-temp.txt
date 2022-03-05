@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İlk ilk+Adverb ilk+Adj İlk+Noun+Prop+A3sg+Pnon+Nom
+yerleşmelerin yerleş+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Gen yerleş+Verb+Pos^DB+Noun+Inf2+A3pl+P2sg+Nom
+tarımla tarım+Noun+A3sg+Pnon+Ins
+başlamasının başla+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+sebepleri sebep+Noun+A3pl+Pnon+Acc sebep+Noun+A3pl+P3sg+Nom sebep+Noun+A3pl+P3pl+Nom sebep+Noun+A3sg+P3pl+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,30 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Biyoloji biyoloji+Noun+A3sg+Pnon+Nom
+alanında al+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+P2sg+Loc al+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+P3sg+Loc alan+Noun+A3sg+P3sg+Loc alan+Noun+A3sg+P2sg+Loc
+canlıları can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3pl+Nom can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Acc can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P3sg+Nom can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P3pl+Nom canlı+Noun+A3pl+Pnon+Acc canlı+Noun+A3pl+P3sg+Nom canlı+Noun+A3pl+P3pl+Nom canlı+Noun+A3sg+P3pl+Nom
+belirli belirli+Adj
+bir bir+Adverb bir+Det bir+Num+Card bir+Adj
+düzene düz+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Dat düze+Verb^DB+Verb+Pass+Pos+Opt+A3sg düzen+Noun+A3sg+Pnon+Dat
+sokmaya sok+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat sok+Verb+Neg+Opt+A3sg
+çalışan çalış+Verb+Pos^DB+Adj+PresPart çalışan+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+bu bu+Det bu+Pron+Demons+A3sg+Pnon+Nom
+amaca ama+Noun+A3sg+Pnon+Equ ama+Adj^DB+Adverb+Ly ama+Adj^DB+Adj+AsIf amaç+Noun+A3sg+Pnon+Dat
+yönelik yönelik+Postp+PCDat
+ilkeler ilke+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl ilke+Noun+A3pl+Pnon+Nom
+geliştiren geliş+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+bilim bilim+Noun+A3sg+Pnon+Nom
+dalına dal+Noun+A3sg+P3sg+Dat dal+Noun+A3sg+P2sg+Dat dal+Verb^DB+Verb+Pass+Pos+Opt+A3sg
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

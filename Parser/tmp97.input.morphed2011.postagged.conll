@@ -1,0 +1,12 @@
+1	Çin	Çin	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	hangi	hangi	Adj	Adj	_	_	_	_	_
+3	yıldan	yıl	Noun	Noun	A3sg|Pnon|Abl	_	_	_	_
+4	itibaren	itibaren	Postp	Postp	PCAbl	_	_	_	_
+5	sosyalist	sosyalist	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	bir	bir	Det	Det	_	_	_	_	_
+7	idare	idare	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+8	tarzı	tarz	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+9	ile	ile	Postp	Postp	PCNom	_	_	_	_
+10	_	yönet	Verb	Verb	_	_	_	_	_
+11	yönetilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	_	_	_	_
+12	.	.	Punc	Punc	_	_	_	_	_

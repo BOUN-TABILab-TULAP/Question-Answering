@@ -1,0 +1,35 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+İzohips	izohips	+Noun+A3sg+Pnon+Nom
+
+yöntemi	yöntem+Noun+A3sg+Pnon+Acc
+yöntemi	yöntem+Noun+A3sg+P3sg+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+uygulanır	uygula	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+uygulanır	uygula	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

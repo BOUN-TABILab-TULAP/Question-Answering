@@ -1,0 +1,17 @@
+1	Çift	çift	Adj	Adj	_	_	_	_	_
+2	_	zincir	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+3	zincirli	_	Adj	Adj	With	_	_	_	_
+4	yapıda	yapı	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+5	_	ol	Verb	Verb	Pos	_	_	_	_
+6	olan	_	Adj	APresPart	_	_	_	_	_
+7	DNAnın	dna	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+8	Adenin	adenin	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+9	nükleotidinin	nükleotidinin	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+10	_	karşı	Adj	Adj	_	_	_	_	_
+11	karşısına	_	Noun	Zero	A3sg|P3sg|Dat	_	_	_	_
+12	_	gel	Verb	Verb	Pos	_	_	_	_
+13	gelen	_	Adj	APresPart	_	_	_	_	_
+14	nükleotid	nükleotid	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+15	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+16	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

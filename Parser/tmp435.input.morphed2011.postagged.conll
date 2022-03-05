@@ -1,0 +1,17 @@
+1	_	çizgi	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	Çizgili	_	Adj	Adj	With	_	_	_	_
+3	kaslara	kas	Noun	Noun	A3pl|Pnon|Dat	_	_	_	_
+4	göre	göre	Postp	Postp	PCDat	_	_	_	_
+5	yavaş	yavaş	Adj	Adj	_	_	_	_	_
+6	_	düzen	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+7	düzenli	_	Adj	Adj	With	_	_	_	_
+8	ve	ve	Conj	Conj	_	_	_	_	_
+9	uzun	uzun	Adj	Adj	_	_	_	_	_
+10	süreli	süreli	Adj	Adj	_	_	_	_	_
+11	_	çalış	Verb	Verb	Pos	_	_	_	_
+12	çalışan	_	Adj	APresPart	_	_	_	_	_
+13	kas	kas	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+14	türü	tür	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+15	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	_	_	_	_
+16	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+17	.	.	Punc	Punc	_	_	_	_	_

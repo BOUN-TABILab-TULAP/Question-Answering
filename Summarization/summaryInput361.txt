@@ -1,0 +1,210 @@
+Question: Fotosentezin yoğun olarak gerçekleştiği, gaz alış verişinin yapıldığı, yaprağın yassılaşmış, ince ve yeşil kısmına ne ad verilmektedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yaprak</DOCTITLE>
+<TEXT>
+
+Yaprak, bitkilerde fotosentez, transpirasyon ve solunumun gerçekleştiği temel organlardır. Gövde ve yan dalların üzerindeki boğumlardan çıkan ve büyümesi sınırlı olan yapılardır.
+Yaprak türleri.
+Genel olarak yaprak geniş, yassı, yeşildir. Aya, sap, taban'dan oluşan 3 kısımdır. Aya, yüzeydir ve iğne, ipliksi, eliptik, yumurtamsı, böbreksi şekillerde olur, kenarları düz, kenarlı, dişli, testereli, loplu, dalgalıdır. Ortasında bir anadamar ve buna bağlı yandamarlar vardır. Çıplak veya tüylüdür. Sap, ayayı sürgüne bağlar. Kısa, ince, kalın, uzun, tüylü, kaşeli olur. Sapsız yaprak da vardır. Taban, ayanın sapa bağlandığı yerdir. Simetrik veya asimetriktir. Yaprak tepesi sivri, küt, yuvarlak olur. Basit yaprak, bir sap üzerinde tek olandır. Bileşik yaprakta ise aya parçalıdır, ayrı bölümlere ayrılmıştır. Yapraklar, sürgüne bağlanma şekline göre, her noktada bir çift olarak karşılıklı, üç ve daha fazla ise çevrel, her noktada iki sıra boyunca tek olursa almaşlı denir.
+Aya sayısı.
+Tek bir ayası bulunanlara "basit yaprak", iki ya da daha çok ayadan, başka bir deyişle yaprakçıklardan oluşanlara ise "bileşik yaprak" denir. Yaprak ayalarının kenarı düz, dişli oymalı ya da dalgalı yapıda olabilir.
+Yaprak dizilişi.
+En yaygın diziliş biçimi olarak almaşık, sarmal, karşılıklı, karşılıklı çapraz ya da çevrel dizilişe rastlanır.
+Yaprağın anatomik yapısı.
+Yapraklar tipik olarak üç ana dokudan oluşur: Üstderi (epidermis), mezofil ve iletimdoku
+Yaprağın hem alt hem de üst yüzeyini kaplayan üstderi (epidermis) tek sıralı bir hücre katmanı halindeki koruyucu bir dokudur. Üstderi hücrelerin dış çeperleri kütikula denen ince, mumsu bir maddeyle örtülüdür. Mumsu kütikula su geçirmezdir, böylece yaprak yüzeyinden olacak su kaybını minimum seviyeye indirir. Kütikula, yaprağın üst yüzeyinde genelde daha kalındır, bu nedenle oranla daha parlak gözükür. Üstderi hücreleri arasında yaprağın atmosferle gaz alışverişini sağlayan gözenekler bulunur. Bu gözeneklere "stoma" adı verilir. Karbondioksit ile oksijen'in bitkiye girişini sağlarken, su buharının da dışarı atılmasını sağlar. Her stoma bir çift kilit hücreyle çevrilmiştir ki bunlar bitkideki su basıncına göre stomanın (aralığın-gözeneğin) büyüklüğünü ayarlarlar. Güneş ışığına daha çok maruz kalan üst yüzeyden su kaybının önlenmesi için yaprağın üst yüzeyinde alt yüzeyine oranla çok daha az stoma (gözenek) bulunur.
+Yaprağın iç katmanı olan mezofil bölümü klorofilce zengin, sık hücre dizileri halindeki palizat özekdokusu ile hücreleri arasında geniş boşluklar bulunan sünger özekdokusunu kapsar. Üst yüzeye, böylece de ışığa, daha yakında bulunan palizat özekdoku hücreleri bulundurdukları yoğun klorofil oranı ile fotosentezin en yoğun yer aldığı hücrelerdir. Sünger özekdoku ise bulundurduğu geniş boşluklar ile gaz alış verişinde büyük bir rol oynar. Aralarında bulunan bu hava boşlukları mezofil katmanı ile yaprağın alt yüzeyindeki gözenekler (stomata) arasında gaz alış verişinin verimli olması için bir bağlantı oluşturur.
+İletim dokularda (vasküler sistem, vasküler doku) damarları oluşturur. Bitki içindeki madde alış verişinde görev alan doku çeşididir. Ksilem (odun borusu) ve floem (soymuk borusu) diye ikiye ayrılır. Ksilem inorganik maddelerin (su ve mineraller gibi) iletimini sağlarken, floem organik maddelerin (fotosentez sonucu oluşan besin maddeleri gibi) iletimini sağlar. Ksilem cansız hücrelerden oluşurken, floem canlı hücrelerden oluşur.
+Damarlar.
+Bu doku su ve mineralleri sağlar, üretilen besini yapraktan dışarı taşır. Çoğu yaprakta bir orta damar ve bunun etrafında dallanan damarlar vardır.
+Sünger tabaka.
+Bu tabakada düzensiz şekilli sünger hücreleri ve gazların dolaştığı hava boşlukları vardır. Sünger ve palizat, mezofil tabakayı oluşturur.
+Palizat tabaka.
+Çok sayıda kloroplast içeren palizat hücrelerinin olduğu tabakadır.
+Stoma.
+Su ve gaz değişiminin gerçekleştiği küçük gözeneklerdir. Genelde alt yüzeyde bulunur.
+Bekçi hücreler.
+Stomanın iki yanında bulunan, hilal şekilli bu hücreler su ve gaz değişimini kontrol eder.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotosentez</DOCTITLE>
+<TEXT>
+
+Fotosentez ya da ışılbileşim klorofil (kromozomlarda) taşıyan canlılarda ışık enerjisi kullanılarak organik bileşiklerin üretilmesi olayıdır. Bu yolla besin üreten canlıların tümüne fotosentetik organizmalar denir ve bunların büyük bir çoğunluğunu bitkiler oluştururlar. 
+Fotosentetik organizmalar, ışık enerjisinden yararlanarak enerjiyi depolarlar ve organik bileşikler üretebilirler. Bitkiler de diğer canlılar gibi yaşamsal etkinlikleri için gerekli enerjiyi organik maddelerin kimyasal enerjisinden sağlarlar. Bunun için de güneş ışığını kullanarak havanın karbondioksitini indirgeyerek organik besinlerini sentez ederler. Bu işlem CO2'in indirgenmesi ve ancak güneş enerjisiyle gerçekleştiriliğinden "fotosentez" olarak anılır. Bu yolla güneşin ışık enerjisi kimyasal enerjiye dönüştürülür ve organik madde sentezi yapılmış olur.
+Yeryüzündeki her canlı, metabolizma etkinlikleri için gerekli olan enerjiyi temelde üç yoldan sağlar. Fotosentez bir özümleme faaliyetidir ve bu yüzden özümleme ya da asimilasyon gibi genel isimlerle de anılır.
+Yapraklar, bitkilerin besin üretim merkezidir. Bitki yapraklarını oluşturan hücrelerin içinde kloroplast denilen, çok küçük yapılar vardır. Bu yapıların içindeki yeşil renkli boyar madde (pigment) olan klorofil maddesinin görevi ışık yakalamaktır. Kloroplastlar güneş ışınlarını bir panel gibi toplayıp, kollektör gibi enerjiye dönüştürerek besin üretirler. Üretilen besin yapraklardan, bitkinin beslenmesi gereken diğer bölümlerine götürülür. 
+Havadaki karbondioksit, güneş enerjisi kullanılarak, nişasta ve diğer yüksek enerjili karbonhidratlara dönüştürülür. Karbon kullanıldıktan sonra ortaya çıkan oksijen ise havaya bırakılır. Bitki daha sonra besine ihtiyaç duyduğunda bu karbonhidratlarda depo
+enerjiyi kullanır. Bu bitkilerle beslenen canlılar da bitkide bulunan karbonhidratlardan enerji ihtiyaçlarını karşılarlar. 
+Fotosentezle her yıl yaklaşık olarak 200-500 milyar ton CO2 dönüşüme uğratılmaktadır. Bu nedenle fotosentezin önemi yalnız kalitatif değil ayrıca kantitafitir. Fotosentezle havanın karbondioksiti ve su, karbonhidratlara dönüştürülür. Karbonhidratlar C elementine ek olarak H ve O2 elementlerini de içeren organik besin taşlarıdır. 
+Fotosentez olayının meydana gelebilmesi için gerekli olan maddeler, ışık, klorofil, karbondioksit, canlı organizmadır.
+Tarihsel süreç.
+Fotosentezin bilim tarihindeki gelişimi şöyledir:
+Aristo, bitkilerin yeşillenmesi için güneş ışığının gerekli olduğunu göstermiştir. 
+Van Helmont 17. yüzyılda, bitkisel materyal sentezi ile ilk araştırmaları yapmıştır. Araştırmacı 2,5 kg. ağırlığındaki bir söğüt fidanını içinde 100 kg. toprak bulunan bir saksıya dikmiş ve bunu 5 yıl süresince sadece yağmur suyuyla sulamıştır. Süre sonunda fidan 85 kg'lık bir ağaç olmuştur. deneme sonunda toprak kuru ağırlığı 99,994 kg. olarak belirlenmiştir. Aradaki 50 gramlık fark deney hatası olarak kabul edilmiş ve bitki ağırlığında oluşan 82,5 kg'lık madde artışının yalnız sudan kaynaklanndığı kanısına varmıştır. 
+İlk kez 1771 yılında Joseph Priestley, bitkiler tarafından dışarı verilen oksijenin hayvanlar tarafından kirletilen havayı temizlediği fikrini ortaya atmıştır.
+1779'da Jan Ingenhousz havanın temizlenmesinin yeşil bitkiler tarafından ışıkta yapıldığını açıklamıştır. Fotosentezde klorofilin önemini vurgulamıştır. 
+1782 yılında Senebier yeşil bitkilerin havaya O2 vermesinin CO2 almalarına ve bitkiler tarafından meydana getirilen O2 miktarının tamamen ortamda varolan CO2 miktarına bağlı olduğunu göstermiştir. 
+1804 yılında De Saussure fotosentez esnasında eşit hacimde CO2 ve O2 alış verişi olduğu, buna benzer eşit hacimde bir gaz alış verişinin solunum esnasında da meydana geldiğini ileri sürmüştür. Bitkilerde biri ışıkta diğeri karanlıkta gelişen iki tip gaz alışverişi olduğunu, ışıkta CO2 alınımı ve O2 açığa çıkmasının ancak bitkinin yeşil kısımlarında olabildiğini göstermiştir. Ayrıca fotosentezde suyun rolüne dikkat çekmiştir. 
+Liebig 1840 yılında, CO2'in bitkiler için C kaynağı olduğunu vurgulamıştır.
+1842 yılında Robert Mayer, ışığın enerji içerdiğini, canlılar tarafından kullanılan enerji kaynağının güneş ışığı olduğunu ve fotosentezde bitkinin yakaladığı güneş enerjisini kimyasal enerjiye dönüştürdüğünü belirtmiştir. 
+Engelman 1880 yılında fotosentezde ortama O2 verilmesinin kloroplastlarca sağlandığını ortaya koymuştur. 
+Blackman 1905'de fotosentezin yalnızca fotokimyasal bir olay değil aynı zamanda biyokimyasal bir olay olduğunu ileri sürerek, olayın ışık gerektirmeyen bir karanlık reaksiyon safhası olduğunu da vurgulamıştır. 
+Willstater ve Stoll 1918 yılında CO2, H2O ve ışık altında meydana gelen ilk ürünün CH2O ve O2 olduğunu ileri sürmüşlerdir. 
+Robert Hill 1937 yılında fotosentezin ışık reaksiyonu üğzerinde çalışarak oratmda ışık, su ve uygun bir hidrojen yakalayıcısı bulunduğunda, izole kloroplastların bile ortamda CO2 olmadan O2 oluşturabildiklerini görmüştür. Ayrıca yapraklarda doğal bir hidrojen yakalayıcısı maddenin bulunduğunu ortaya koymuştur. Bugünkü bilgilere göre bu maddeler Fereodoksin ve NADP+'dır. Hill reaksiyonu adını verdiği bir denklemle olayı açıklamıştır. 
+Reaksiyon, fotosentezde O2'nin ışık reaksiyonlarında oluştuğu ve bunun kökeninin CO2 değilde H2O olduğunu göstermesi yönünden önemlidir. 
+Fotosentezin karanlık reaksiyonları üzerinde çalışan (1954-1961) Calvin ve arkadaşları ise olaydaki C metabolizmasını tüm ayrıntılarıyla açıklamışlardır. Bunun üzerine Calvin'e Nobel Ödülü verilmiştir. 
+1966'da Hatch ve Slack, bazı bitkilerde fotosentezin karanlık reaksiyonlarında oluşan ilk kararlı ürünün 3C değil de 4C olduğunu bulmuşlar ve söz konusu bitkilerin tamamen farklı bir C metabolizması olduğunu göstermişlerdir. 
+Yirminci yüzyılın başlarında tek hücreli yeşil su yosunlarında ("Chlorella vulgaris") fotosentezle ilgili araştırmalar Warburg tarafından yapılmıştır.
+Önemi.
+Fotosentez, ışık enerjisini kimyasal bağ enerjisine dönüştürerek ilk basamaktaki organik madde üretimini sağlayan mekanizmadır. 
+Bitkiler besin zincirinin ilk halkasını oluşturduğundan, diğer tüm canlıların var olabilmesi ve yaşamlarını sürdürebilmeleri için gerekli enerji fotosentez olayı sırasında elde edilir.
+Fotosentezle havanın CO2 ve O2 dengesi korunmaktadır.
+Fotosenteze ilişkin bulgular, her yeşil bitkinin organik madde üreten bir fabrika olduğu, bu süreçte güneş enerjisini kullanan aygıtların kloroplastlar olduğunu göstermiştir. Yeryüzüne ulaşan güneş ışınlarının yalnızca yarısı fotosentezde kullanılmaktadır. Bu konuda yapılan araştırmaların dünya nüfusunun gıda ihtiyaçları yönünden önemli olduğu bilinmektedir.
+Pigmentler.
+Fotosentezde en önemli olgu güneş enerjisini yakalayıp onu kimyasal bağ enerjisine dönüştürebilme yeteneğidir. Bu işlevi bitkilerin kloroplastlarında veya kromatoforlarında bulunan pigmentler yapmaktadır. Bunların başlıcaları şöyledir:
+Tepkimeler.
+Işığa bağımlı tepkimeler.
+Işığa bağımlı tepkimeler, canlının ışıklı ortamda ışığa bağımsız tepkimeler için gereken ATP ve NADPH'yi ürettiği bir dizi tepkime zinciridir. Bu tepkimeler tilakoit zar üzerinde gerçekleşir. Işığı soğuran klorofil molekülünden serbest kalan elektronlar elektron taşıma sistemi (ETS) elemanlarından geçer. Bu sırada ATP ve NADPH çıkışı olur.
+Klorofile sahip canlıların ADP ve inorganik fosfat (Pi) kullanarak ATP üretmesine fotofosforilasyon denir. Bu olay devirli fotofosforilasyon ve devirsiz fotofosforilasyon olmak üzere iki yolla gerçekleşir. Devirsiz fotofosforilasyonda, devirliden farklı olarak su, fotolize uğrar. Tepkime şu şekildedir.
+Bu tepkimeler sonucu oluşan O2'nin bir kısmı mitokondrilere gönderilir, artanı ise atmosfere verilir. Oluşan ATP ve NADPH molekülleri stroma sıvısına girer, artık canlı ışıktan bağımsız tepkimeleri gerçekleştirmeye hazırdır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kloroplast</DOCTITLE>
+<TEXT>
+
+Kloroplast, fotosentezin gerçekleştiği sitoplazmik organeldir.
+Çift katmanlı zarla çevrilidir. İç katman fotosentez pigmentleri enzimleriyle klorofil içeren yassı keseciklere dönüşmüştür. DNA içeren kloroplastlar, bağımsız işlev gören ve kendi kendine çoğalan bir yapıdır.
+Kloroplastta fotosentezi gerçekleştirmek üzere hazırlanmış tillakoidler, iç zar ve dış zar, stromalar, enzimler, ribozom, DNA gibi oluşumlar bulunur. Bu oluşumlar hem yapısal hem de işlevsel olarak birbirlerine bağlıdırlar ve her birinin kendi bünyesinde gerçekleştirdiği son derece önemli işlemler vardır. Örneğin kloroplastın dış zarı, kloroplasta madde giriş-çıkışını kontrol eder. İç zar sistemi ise "tillakoid" olarak adlandırılan yapıları içermektedir. Disklere benzeyen tillakoid bölümünde pigment (klorofil) molekülleri ve fotosentez için gerekli olan bazı enzimler yer alır. Tillakoidler (granalar) "granum" adı verilen kümeler meydana getirerek, güneş ışığının en fazla miktarda emilmesini sağlarlar. Bu da bitkinin daha fazla ışık alması ve daha fazla fotosentez yapabilmesi demektir.
+Bunlardan başka kloroplastlarda "stroma" adı verilen ve içinde DNA, RNA, ribozomlar ve fotosentez için gerekli olan enzimleri barındıran bir de sıvı bulunur. Kloroplastlar sahip oldukları bu DNA ve ribozomlarla hem kendilerini çoğaltırlar, hem de bazı proteinlerin üretimini gerçekleştirirler
+Yapısı.
+Klorofil ve diğer pigmentler bu iç membran sistemine yerleşmiş olarak bulunurlar. Fotosentezin ışık reaksiyonları ile buna bağlı elektron taşınım reaksiyonları granada gerçekleşir. Stromada ise fotosentetik karbon çemberi (Calvin çemberi) enzimleri, ribozomlar ve kloroplasta ait DNA yerleşmiştir. Bundan başka yine stromada çeşitli granüller, lipid damlacıkları, primer nişasta taneleri ve veziküller de bulunabilir.
+Görevi.
+Işık enerjisinin emilimini CO2 alınımı CO2'den karbonhidrat oluşumu ve O2 oluşumu olayları hep kloroplastta gerçekleşir. 
+Işıktan faydalanarak Adenozin trifosfat'nin fosfat bağlarındaki enerjiyi, hücrede kullanılabilecek enerjiye çevirir. Adenozin trifosfat'ı kullanarak karbonun hücre için gerekli organik maddelere dönüştürülmesini sağlar.
+Bitkiye yeşil rengi verir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Plastit</DOCTITLE>
+<TEXT>
+
+Plastitler alg ve bitki hücrelerinde bulunan çeşitli görevleri olan temel organellerdir. Genç hücrelerde renksiz olan plastitler (lökoplast), hücre ile birlikte gelişerek, hücrenin görevine uygun şekil ve renk kazanır. Bulundurdukları pigment (renk maddesi) ve görevlerine göre birbirine dönüşebilen üç çeşit plastit vardır:
+Kloroplast.
+Kloroplast, fotosentezin gerçekleştiği sitoplazmik organeldir.
+Çift katmanlı zarla çevrilidir. İç katman fotosentez pigmentleri enzimleriyle klorofil içeren yassı keseciklere dönüşmüştür. DNA içeren kloroplastlar, bağımsız işlev gören ve kendi kendine çoğalan bir yapıdır.
+Kloroplastta fotosentezi gerçekleştirmek üzere hazırlanmış tillakoidler, iç zar ve dış zar, stromalar, enzimler, ribozom, DNA gibi oluşumlar bulunur. Bu oluşumlar hem yapısal hem de işlevsel olarak birbirlerine bağlıdırlar ve her birinin kendi bünyesinde gerçekleştirdiği son derece önemli işlemler vardır. Örneğin kloroplastın dış zarı, kloroplasta madde giriş-çıkışını kontrol eder. İç zar sistemi ise "tillakoid" olarak adlandırılan yapıları içermektedir. Disklere benzeyen tillakoid bölümünde pigment (klorofil) molekülleri ve fotosentez için gerekli olan bazı enzimler yer alır. Tillakoidler "grana" adı verilen kümeler meydana getirerek, güneş ışığının en fazla miktarda emilmesini sağlarlar. Bu da bitkinin daha fazla ışık alması ve daha fazla fotosentez yapabilmesi demektir.
+Bunlardan başka kloroplastlarda "stroma" adı verilen ve içinde DNA, RNA, ribozomlar ve fotosentez için gerekli olan enzimleri barındıran bir de sıvı bulunur. Kloroplastlar sahip oldukları bu DNA ve ribozomlarla hem kendilerini çoğaltırlar, hem de bazı proteinlerin üretimini gerçekleştirirler
+Lökoplast.
+Renksizdir.Bitkinin kök,toprak altı gövdesi (rizom) ve tohumları gibi depo organlarında bulunur. Besin depolar. Patates gibi kökte, yumruda ya da bitkinin renksiz kısımlarında lökoplast renksizdir, ama gün ışığına çıkınca bitkinin bulunduğu yerdeki rengini değiştirir.
+Kromoplast.
+Bitkilerin çiçeğine renk verir. Çiçeklerdeki kırmızı, sarı, turuncu, hatta leylak gibi renklerin oluşmasını sağlar. Havuca turuncu renk veren karoten, domatese kırmızı renk veren likopin, limona sarı renk veren ksantofil, bitkiye yeşil rengi veren ise klorofildir. Kısaca kromoplast bitkiye sarı, kırmızı, turuncu gibi renkleri verir. Bitkilerin bazı renkleri ise koful öz suyunun asidik ya da bazik oluşuna göre renk değiştiren "antokyan" tarafından oluşturulur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitkiler  (EBA)</DOCTITLE>
+<TEXT>
+
+Bitkiler de tıpkı diğer canlılar gibi oldukça geniş bir çeşitliliğe sahiptir. Etrafınızda gördüğünüz bitkileri düşünün. Metrelerce uzanan ağaçlar, yüzyıllık dev çınarlar, suda yaşayanlar ya da su mercimeği gibi boncuk kadar olanları vardır (Resim 152). 
+Bitkiler gerçek hücre çekirdekleri bulunan (ökaryot) hücre yapısına sahip çok hücreli canlılardır. Bitkiler, fotosentez yoluyla ışık enerjisi, karbondioksit (CO2) ve su kullanarak organik bileşikler (glikoz) üretebilme özellikleri ile hayvanlar ve mantarlar gibi diğer çok hücreli canlılardan ayrılır. Ayrıca bitki hücreleri selüloz içeren hücre duvarına sahiptir. 
+Bugün dünyada 280.000’den fazla bitki türü yaşamaktadır. Farklı bitki türleri de birbirinden farklı yapı ve organizasyona sahiptir. Bununla birlikte bitkilerin birçok benzer özellikleri de mevcuttur. Bitkiler de tıpkı diğer âlemler gibi bu benzer özelliklerine göre sınıflandırılır. Aristo zamanında otlar, çalılar ve ağaçlar olarak sadece dış görünüşlerine bakılarak sınıflandırılan bitkiler günümüzde anatomik ve fizyolojik özelliklerine göre sınıflandırılır. Bu bölümde bitkilerin sınıflandırılmasında kullanılan bu özelliklerden tohum bulundurup bulundurmaması; kök, gövde ve yaprak tip ve dizilimleri, damar bulundurup bulundurmaması gibi bitkilerin sadece birkaç özelliği tanıtılacaktır. 
+Damar yapısı 
+Bitkileri sınıflandırırken kullanılan kriterlerden birisi damar yapısıdır. Damar elbette ki hepimiz için oldukça tanıdık bir kavramdır. Bitkilerde bulunan damarlar bizim damarlarımızla aynı yapıda değildir. Ancak, benzer görevleri vardır. Bitkilerin, sentezledikleri organik besinleri, kökleriyle aldıkları su ve mineralleri hücrelerine taşıması gerekir. Eğrelti otu gibi bazı bitkiler bu görevi yapan damar sistemine sahiptir. Ancak tüm bitkilerde damar bulunmaz. Karayosunu (Bryophyta-Briyofta) gibi damarsız bitkilerde kök, gövde ve yaprak gibi yapılar bulunmaz. Genellikle nemli bölgelerde yaşayan karayosunları sahip oldukları ipliksi yapılar sayesinde su ve mineralleri difüzyon ile alırlar (Resim 153). 
+Bir bitkinin yapısını temel olarak iki kısımda inceleyebiliriz: toprak üstü yapılar ve toprak altı yapılar. Bitkinin toprağın üstünde kalan kısmında yer alan yapılar: yapraklar, gövde ve dallar ve üreme döneminde gözlenen çiçek ve meyvedir. Toprağın altında kalan kısım ise köktür (Resim 154). 
+Gövde ve dallar 
+Bitkileri sınıflandırmada kullanılan bir diğer kriter ise gövde ve dalların yapı ve özellikleridir. Gövde ve dalların temel işlevi yaprakları güneş ışınlarını alabilecek, çiçek ve tohumlarını da üreme ve yayılma için en uygun pozisyonda tutmaktır. Gövde ve dalların diğer önemli bir görevi, maddelerin bitkinin değişik organları arasındaki iletimini sağlamaktır. Bitkilerin çoğunda gövde ve dallar içinde madde aktarımını sağlayan bir taşıma sistemi (iletim demetleri) bulunmaktadır. Köklerden alınan su ve mineralleri yapraklara ve bitkinin diğer dokularına taşıyan iletim borularına ksilem (odun borusu) denir. Ksilem dışında başka bir boru sistemi de üretilen organik maddeleri bitkinin her yanına dağıtır. Bu iletim borularına floem (soymuk borusu) denir. 
+Bu iki iletim sistemi aynı zamanda bitkinin dik durmasına destek sağlar (Resim 155). Yapılarında bu tür iletim boruları bulunduran bitkilere damarlı bitkiler denir. Bazı bitkiler ise bu tür iletim ağına sahip değildir. Böyle bitkilerin birkaç tabaka hücreden oluşan bir yapıları vardır. Su ve diğer maddeler bir hücreden diğerine difüzyon ve osmoz ile geçer. Böyle bitkiler damarsız bitkiler olarak adlandırılır. 
+Yapraklar 
+Bitkiler yaprak ya da yaprak benzeri yapılara sahiptir. Yaprak, bitkilerde gövdeden ya da dallardan çıkan ve çoğu bitkide fotosentezin yapıldığı organdır. Yapraklar şekil ve büyüklük olarak farklılık gösterir (Resim 156). Bu farklılık bitkilerin sınıflandırılmasında kullanılan önemli bir özelliktir. 
+Çoğu kara bitkisinin yaprak ve diğer toprak üstü organlarının yüzeyleri saydam, pürüzsüz ve kaygan bir tabaka ile kaplıdır. Bu tabakayı bir yaprağın veya elmanın yüzeyine dikkatle bakarak ve yüzeyde parmaklarınızı gezdirerek fark edebilirsiniz. Bu tabaka mumsu bir yapıdadır ve suda çözünmez. Çoğu kara bitkisinde rastlanılan bu yapının en önemli işlevi su kaybının önlenmesidir. Bu tabaka aynı zamanda bitkinin zararlı mikroorganizmalardan korunmasında bir bariyer görevi görür. 
+Karada yaşayan bitki yapraklarında görülen bir diğer önemli yapı da stomalardır (Resim 157). Bu yapılar hava ile yaprağın iç kısımları arasında karbondioksit ve oksijen alışverişine izin vererek fotosenteze destek olur. Stomalar aynı zamanda buharlaşma ile suyun yapraklardan çıktığı yerdir. 
+Kökler 
+Bitkilerin sahip olduğu kök yapısı da sınıflandırmada kullanılan diğer önemli bir özelliktir. Çoğu bitki yaşamın devamı için gerekli su ve mineralleri topraktan kökler aracılığı ile alır (Resim 158). Kökler, gerekli su ve su içinde çözünmüş mineralleri topraktan almanın yanında bitkiyi toprağa bağlar. Bazı bitkilerin kökleri bir depolama organı olarak da iş görür. Havuçta olduğu gibi bu tür kökler çeşitli hayvanlar ve insanlar için bir besin kaynağı oluşturur. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nikotinamid adenin dinükleotit fosfat</DOCTITLE>
+<TEXT>
+
+Nikotinamid adenin dinükleotit fosfat (NADP), hücrelerde anabolik tepkimelerde , örneğin yağ asidi ve nükleik asit sentezinde, bir indirgeyici olarak kullanılır.
+NADP NADP+'nın indirgenmesiyle elde edilir, NADP+ de NADPH'nin yükseltgenmiş halidir.
+Bitkilerde.
+Kloroplastlarda NADP fotosentezin ilk tepkimelerinde bir indirgeyici (elektron verici) olarak rol oynar. Fotosentezde ortaya çıkan NADPH'nin indirgeyici gücü, fotosentezin Kalvin döngüsündeki biyosentetik tepkimelerde kullanılır.
+Hayvanlarda.
+Pentoz fosfat döngüsünün yükseltgenme evresi, hücrelerde NADPH'nin başlıca kaynağıdır.
+NADPH biyosentetik tepkimelerde ve reaktif oksijen türlerine karşı korunmada gereken indirgeme potansiyelini sağlar.
+NADPH ayrıca anabolik yollarda, örneğin yağ asidi sentezi, kolesterol sentezi ve yağ asidi uzamasında kullanılır.
+Aromatik bileşikler, steroidler, alkoller ve bazı ilaçların Sitokrom P450 tarafından hidroksile edilmesi için gereken indirgeme potansiyeli de NADPH tarafından sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Devresel fotofosforilasyon</DOCTITLE>
+<TEXT>
+
+Devresel fotofosforilasyon, fotofosforilasyonda görülen aşamalardan biridir.
+680 nm'den daha uzun dalga boyları ile ışıklandırlan kloroplastlar yalnızca PSI etkin duruma geçer ve sudan elektron sağlamaz. Bu durumda fotosentezin ışık reaksiyonları sırasında O2 oluşmamaktadır. H2O'dan ferrodoksine elektron akımı durumnda devresel olmayan fosforilasyon da durur ve karanlık reaksiyon evresinde CO2 asimilasyonu engellenir. PSI'in 680 nm uzun dalga boylu ışık kuantumu ile uyarılmasıyla elektronlar P700'den ferrodoksine geçemeden sitokromb6f ğzerinden plastokinona dönerler. Buarada sitokromf ve plastokinon aracığıyla elektron yeniden P700'e geri döner. P700'den koparılarak tekrar P700 geri dönen bu devresel elektron taşınmı sırasında ATP sentesiz yapılması ise devresel fosforilasyon olarak adlandırılır. Devreel elektron taşınımı sırasında ATP sentez edilebilecek iki bölge vardır. Bunlardan biri P430 ile sitokromb6 arasında diğeri ise plastokinon ile sitokromf arasında fotosentezin ışık reaksiyonları evresinde ATP ve NADH+ oluşumu ile bitki artık CO2'i karbonhidrat biçimine indirgemeye hazır duruma gelmiştir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Robert Huber</DOCTITLE>
+<TEXT>
+
+Robert Huber (d. 20 Şubat 1937, Münih), Alman biyokimyacı. 1988 yılında, Johann Deisenhofer ve Hartmut Michel ile birlikte, Nobel Kimya Ödülü'nü kazanmıştır.
+1947 ile 1956 yılları arasında Humanistisches Karls-Gymnasium Okulu'nda okudu. Ardından Münih Teknik Üniversitesi'nde kimya dalında eğitim gören Huber, 1960'da diplomasını aldı. Üniversitede kaldı ve araştırmalarında organik bileşiklerin yapısını aydınlatmak için kristalografi yöntemini kullandı. 1971 yılında, proteinlerin kristalografisi için yöntemler geliştiren takımının bulunduğu Max Planck Biyokimya Enstitüsü'nde direktör oldu. 
+1988'de Johann Deisenhofer ve Hartmut Michel ile birlikte, Nobel Kimya Ödülü'nü kazandı. Üçlü, mor bakterilerde fotosentezde önemli bir intramembran proteinini ilk kez kristalleştirmeleri ve daha sonra proteinlerin yapısını aydınlatmak için X-ray kristalografisi uygulamaları ile tanınmaktaydı. Bu bilgi, fotosentezin integral fonksiyonunu gerçekleştiren yapısal yapıtaşlarını ilk kez kavramamızı sağlamıştır. Bu anlayış siyanobakterilerde fotosentezin, daha kompleks bir benzerini anlamamızı sağlamıştır, ki siyanobakterilerde gerçekleşen fotosentez ile bitkilerin kloroplastlarında gerçekleşen fotosentez ile büyük oranda benzerdir.
+Evli ve dört çocuk babasıdır. Yakın dönemde Cardiff Üniversitesi'nde bir göreve atanmış ve yarı zamanlı olarak üniversitedeki "Yapısal Biyoloji"nin geliştirilmesine öncülük yapmıştır. 2005'ten beri Duisburg-Essen Üniversitesi'ndeki "Tıbbi biyoteknoloji merkezi"nde araştırmalarına devam etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kara yosunları</DOCTITLE>
+<TEXT>
+
+Kara yosunları (Bryophyta), ciğer otları, boynuz otları ve yapraklı kara yosunlarını kapsayan bitkiler bölümü.
+"Bryopsida" tek sınıfını kapsar. Sistematikdeki yeri değişkenlik gösteren bir gruptur.
+Çok hücreli, fotosentetik bitkilerdir. Kara yosunlarının iletim sistemleri ve gerçek kök, yaprak ve gövdeleri yoktur. Çoğu yapraklı olan küçük yapılı türler içerirler. Kök yerine bir ya da çok hücreden oluşan rizoidler (köksü yapılar) bulunur. 
+Kara yosunlarında "sporofit" ve "gametofit" evre olmak üzere 2 farklı yaşam evresi vardır. 
+Gametofit evrede bitki tamamen ince ve yumuşak yapraksı formda ve bir sapa bağlı olup, birkaç hücre kalınlığında olan yapraklar orta ana damar genellikle içermez. Döl almaşıyla eşeyli ürerler. Fotosentezin büyük bir kısmını gametofit nesil gerçekleştirir. Fotosentez sonucu oluşan besinlerini depolayan bitkilerdendirler. Yaklaşık 16.000 türü bilinmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotoliz</DOCTITLE>
+<TEXT>
+
+Fotoliz, fotosentezin ışık tepkimelerinde ATP ve NADPH2 üretimi için gerek duyulan hidrojen ve elektronları elde etmek için suyu parçalamasına denir.
+2·H2O → 4·H+ + 2·e- + O2
+Fotosentezle oluşan oksijen de bu esnada açığa çıkar.
+
+</TEXT>
+</DOC>
+

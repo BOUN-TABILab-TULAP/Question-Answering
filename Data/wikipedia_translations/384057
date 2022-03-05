@@ -1,0 +1,104 @@
+UVC bazlı koruma
+UVC-tabanlı koruma, bir teknik düzeyde dijital korumayı sağlamak için uygun bir stratejidir.
+Bir Evrensel Sanal Bilgisayar (UVC) gibi hem kütüphaneler, arşivler ve kurumlar tarafından tutulan özel olarak dijital nesnelerin korunması için tasarlanmış bir sanal makine (VM) 'dir. yöntem öykünme dayanmaktadır, ancak donanım veya tam öykünme gerektirmez. Bunun yerine kavram benzersiz öykünme ve göç birleştirir. Bu orijinal veri formatı benzeyen amaçlamaktadır anlamda öykünme sunuyor. Ayrıca XML benzer bir evrensel teknoloji bağımsız biçime verilerin özgün biçimini çözme yeteneğine sahip bir çeviri dönüşüm programı tarafından yapılan yol, dönüştürme olduğunu.
+Bir UVC yaklaşımının gelişmesine Geçmişi.
+Dijital koruma sorunu.
+Dijital kaynaklarının korunması mevduat kütüphaneleri, araştırma kütüphaneleri, arşivleri, devlet kurumları ve aslında çoğu organizasyonlar için büyük önem taşımaktadır. dijital koruma baskın yaklaşım göçtür. Göç kendi ana biçimleri olarak yeni mantıksal biçimleri içine Arşivlenen bilgilerin periyodik dönüşümleri yapma gerektirir, ya da bağlı olduğu yazılım veya donanım geçersiz olur. göç önemli tehlike veri kaybı ve orijinal işlevsellik veya olası zarar 'görünüm ve his' orijinal biçimi olduğunu. Kopyalama prosesi gerekli yeni ortama bit akımları dönüştürülür ek olarak, her bir belgenin biçimini dönüştürme gerektirir Bundan başka, dijital göçler zaman alıcı ve masraflıdır.
+Emülasyon teorisi.
+Jeff Rothenberg ilgili 1999 yılında yaptığı raporu ile dijital koruma sorumlu organizasyonlarda karıştırın biraz neden oldu: "Teknolojik bataklık kaçınmak: dijital koruma için uygun bir teknik temel bulma". O dijital bilgi, gelecekte okunabilir olmasını sağlamak için hiçbir geçerli çözüm olduğunu belirtiyor. standartlar ve göçler dayanarak önerilen çözümler zaman alıcı ve orijinal haliyle dijital belgeleri korunması sonuçta aciz işaretlenmiştir. O önerir:
+"İdeal bir yaklaşım belgeleri ve tüm medya her türlü senkronize (örneğin, her gelecekte yenileme döngüsünde) otomatik olarak, bir kez ve herkes için tasarlanmış ve eşit uygulanabilir bir tek, genişletilebilir, uzun vadeli bir çözüm sağlamak ve olmalıdır minimal insan müdahalesi ile. "
+O yukarıdaki kriterleri karşılamak için en iyi yol Emülasyon tarafından önermektedir; bilinmeyen gelecek bilgisayarlarda çalışacak bir emülatör geliştirilmesi; teknikleri geliştirmek bulmak, erişim ve belgeyi yeniden gerekli meta yakalamak için; encapsulating belgeler, onların görevli metadata, yazılım ve emülatör spesifikasyonları için teknikler geliştirilmesi.
+2000 yılında emülatörü şartname programları gibi ifade ve bir öykünme sanal makine için yazılmış bir emülatör şartname tercüman programı tarafından yorumlanır edildiği bir öykünme tabanlı koruma yaklaşımını uygulayan önerir.
+Rothenberg yaklaşımı (ampirik kanıt desteği olmadan) şüphecilik ile bir araya geldi ve çok pahalı ve çok zaman alıcı ve bu nedenle bir ekonomik risk, çok teknik olarak zor kabul edildi. (Daha fazla okuma bölümüne bakınız)
+UVC konsept geliştirme.
+IBM Rolü.
+Raymond A. Lorie, IBM Araştırma Merkezi Almaden yaptığı istihdam sırasında, uzun vadeli dijital koruma için UVC-tabanlı bir çözüm geliştirilmesini başlattı. O Universal 'olarak yaklaşımını açıklar tanımı fiziksel inşa edilecek zorunda kalmayacaksınız ve onun işlevselliği bir' bilgisayar ', çünkü bu, sonsuza dek' Sanal 'tahammül böylece temel nedeni.
+IBM (NL), UVC varlık sahibi, GEZEGENLER proje kapsamında UVC konseptini geliştirmeye devam etmektedir. Raymond van Diessen daha karmaşık nesneleri korumak için UVC kavramının uygulanmasını uzanan sorumludur.
+Hollanda Milli Kütüphanesi Rolü.
+Hollanda Milli Kütüphanesi (Koninklijke Bibliothee, KB) uzun vadeli dijital koruma için uygun bir seçenek UVC kavramına dayalı olduğu öykünme olduğunu gösteren önemli bir rol oynamıştır.
+2000 yılında, öykünme savunucusu, Jeff Rothenberg test etmek ve uzun vadeli korunması stratejisi olarak öykünme kullanarak fizibilitesini değerlendirmek KB ile çalışmaya katıldı. Onun yöntemi, böylece içeriği, davranış yeniden, uzak bir gelecekte dijital belgenin orijinal yazılım çalıştırmanın bir yolunu sunan yeni platformlarda eski bilgisayar platformları davranışı yeniden yazılım öykünme kullanın ve 'görünüm ve orijinal belgenin oldu . Rothenberg, eski donanım platformları davranışını taklit etmek düşündüren ve onunla ilişkili orijinal yazılım programı sayesinde orijinal verilere erişmek için işletim sistemleri ile yanlış bir şey korumaya çalıştıkları için eleştirildi. Raymond A. Lorie gelecekteki platformda bir 'gerçek' makine taklit etmek için bir program oluşturmak için çalışıyoruz zorluklar tanınan ve bu yaklaşım dijital nesneleri korumak amacıyla overkill olduğunu fark etti. Onun yerine bir 'Evrensel Sanal Bilgisayar' kullanarak veri / program arşivleme yeni bir yaklaşım getirdi. UVC-tabanlı koruma stratejisi kavramı KB tarafından yürütülen ve KB / IBM'in 'Uzun Vadeli Koruma' (LTP) çalışmanın bir parçası olarak PDF dosyaları üzerinde test edildi. PDF belgeleri için UVC oluşturma daha karmaşık. Yerine KB ayrıca PDF belgeleri kapsayacak bu yaklaşım (PDF dosyası kolayca görüntülerin bir dizi dönüştürülebilir) Çünkü görüntüler için UVC geliştirmeye karar verdi. UVC-bazlı yaklaşım KB e-Depot Korunması Subsystem içinde JPEG / GIF87 görüntüler için sürekli erişim araçlarından biri olarak UVC sonuçlandı.
+UVC başarılı bir şekilde uygulanması sonrasında, KB 'tam' veya donanım öykünmesi odaklanarak uzun vadeli dijital koruma için kendi öykünme stratejisi geliştirmek için devam etti. Dioscuri, dijital koruma için ilk modüler emülatörü: Bu yaklaşım dayanıklı x86 bileşen tabanlı bir bilgisayar emülatörü teslim.
+Korunması UVC tabanlı.
+Evrensel Sanal Bilgisayar UVC tabanlı koruma yöntemi denir daha geniş bir kavram, bir parçasıdır. Bu yöntem, gelecekte her zaman orijinal görünümünü yeniden inşa edilecek (metin belgeleri, elektronik tablolar, resimler, ses dalgaları, vb), dijital nesneleri tanır. yöntemleri Evrensel Sanal Bilgisayar (UVC) makine dilinde yazılmış programlardır. UVC, çalışan bilgisayarın mimarisinin tamamen bağımsızdır.
+UVC kendisi talimatları yerine fiziksel bilgisayarın bir dizi içeren bir programdır.
+Bu gelecekteki platformda bir yazılım uygulaması olarak çalışacaktır. Biz donanım gelecekte mevcut şu anda bilmiyorum, çünkü UVC biz deposundan belirli bir dokümana erişmek istediğiniz anda yaratılmış olması gerekir. Bu UVC sonra programları özellikle geçmişte bu tür UVC için yazılmış çalıştırmak hangi platformu oluşturmaktadır. Gelecekte UVC için bir öykünme programı oluşturma 'gerçek' bir makine taklit çalışırken daha çok daha kolaydır.
+Uygulama açıklaması.
+Bir UVC tabanlı koruma stratejisi yöntemi tam emülasyonu gerektirmeyen veri arşivleme ve yok programı arşivleme birbirinden ayırır. Arşivleme verileri için UVC saklanan veri akımının yorumlama arşiv yöntem için kullanılır. yöntemleri Evrensel Sanal Bilgisayar (UVC) makine dilinde yazılmış programlardır. UVC program üzerinde çalıştığı bilgisayarın mimarisinin tamamen bağımsızdır.
+Veri arşivleme.
+Veri arşivleme, orijinal biçimi 'bakmak ve hissetmek' orijinal dosyanın ama işlevselliğini yeniden yapılandırır. Belgenin elektronik formu tek yolu kompakt depolama için veya eğer kullanılıyorsa belge, insan gözünün tüm var olduğu görünüyor, o zaman görüntü olarak belgeyi arşiv yeterlidir. Ek işlevsellik gibi metin arama gibi ihtiyaç duyuluyorsa, yalnızca görüntüyü saklamak yeterli değildir. Bu durumda, bir metin ayrıca belgenin görüntü ile birlikte arşiv gerekmektedir.
+Bir görüntü olarak bir dosyanın orijinal görünümünü restore ederek gelecek bir kullanıcı orijinal dosya vb kendisi ASCII formatında, yani ihraç gerekiyor ve bir dizi olarak kaydedilebilir metin sayfa düzeni, stili, yazı gibi göründüğünü görebilirsiniz sayfa görüntüsü Sayfanın tam görünüm gösterir, çünkü homojen elementler (vb yazı tipi, boyut, gibi tüm sunum özellikleri tüm karakterler için aynıdır). Bu durumda veri UVC programı iki bölümden, tek metni deşifre etmek ve bir görüntü çözmek için vardır.
+Bit akımı içinde ihtiva edilen veriler, belirli bir veri modelinin belli bir şema itaat mantıksal veri elemanlarının veri akışından ekstre, bir iç gösterimi ile depolanır. Bir şifre çözme algoritması (yöntem) İç gösteriminden çeşitli veri öğeleri ayıklar ve onları şemaya göre etiketlendi döner. Şemanın bilgileri içeren bir ek şema (şema şemalar okumak için) benzer şemalar okumak için şema çözmek için bir yöntem ile birlikte veri ile saklanır.
+Mantıksal Veri Görünümü.
+Mantıksal bir veri modeli verileri birlikte bilgi miktarını en aza indirmek için ve veri yapısı anlama zorluk azaltmak amacıyla, basit tutulmaktadır. UVC-tabanlı koruma yöntemi için seçilen veri modeli bir XML benzeri yaklaşım kullanılarak düzenlenen etiketli öğelerin bir hiyerarşi içine veri öğelerini doğrusallaştırır.
+etiketli veri elemanları, dijital dosyasının veri akımı elde edilir. Bir etiket veri elemanı veri yapısında oynadığı rolü belirtir. eleman etiketleri teknoloji bağımsız bir şekilde veri içeriği hakkında özel bilgiler tutun. Ayrıca, veri elemanları Mantıksal Veri Görünümü (LDV) istemciye döndürülen şemaya göre etiketlendi
+Mantıksal Veri View Örneği
+şema (biçim decoder).
+Her eleman ne anlama geldiğini insanca amacıyla daha fazla bilgi Birlikte semantik bazı bilgiler, bu tür hiyerarşi içinde etiketlerin yerine, (sayısal, karakter) veri türü olarak, çeşitli veri unsurları hakkında bilgi gerekli verileri. Örneğin, görüntü piksel izleyin genişlik kez yükseklik gösteren iki genişlik özelliklerini ve yükseklikleri vardır; ancak bu pikseller sütuna göre hat veya sütun satır saklanır? Ya da, renkli resimler için, ne kadar doğru renk yaratmak üzere RGB değerlerini yorumlamak? Bu ekstra bilgiler de meta olarak adlandırılır. belirli bir bilgi türü bir parçası olarak etiketlerin yapısını ve anlamını açıklar gibi şema açıkça uygulamaya bağlıdır.
+Şema şemalar (Mantıksal Veri Şeması (LDS)) okumak için.
+Gelecekte bir kullanıcı isim levhası veri elemanları alırsa, o / o genellikle mantıksal yapısı hakkında ek bilgiye ihtiyacınız olacak veri ve bunların gelecekteki kullanıcı arasındaki ilişkilerin anlamını anlamak olmaz. Başka bir deyişle, meta şema okumak için bir şema gereklidir. UVC yaklaşım kabul basit bir çözüm verileri için yönteme benzer bir şema için bir yöntemdir: Şema bilgileri bir iç temsil saklanır ve kodunu çözmek için bir yöntem ile eşlik eder.
+Bu noktada ne arşivine dahil edilecektir: Veri kendisi, meta verileri çözmek için bir UVC programı ve UVC programı meta çözmek için.
+Program arşivleme.
+Veri arşivleme için UVC yöntemi programı arşivleme için uzatılabilir. Program arşivleme bir programın davranış ve işlevselliği arşivlenmesi içerir ve aynı zamanda işletim sistemi arşivleme içerebilir.
+Program, işletim sisteminin yerel talimatların sadece bir dizi olduğunda işletim sistemi arşivleme gerekli olmayabilir.
+Dijital nesne Giriş / Çıkış etkileşimler ile tam teşekküllü bir sistem Ancak, işletim sistemi arşivlenmiş gerekir.
+Hiçbir Giriş / Çıkış etkileşimleri gerekiyorsa işletim sisteminin programı arşiv yeterlidir.
+Yukarıda tarif edildiği gibi, bu durumda, şu ihtiyaçlarını benzer bir yöntem kullanarak arşivleme zamanda depolanacak:
+"Gelecekte" - UVC orijinal işletim sistemi üzerinde çalışan orijinal program aynı sonucu verecektir UVC kodu yorumlar.
+Giriş / Çıkış etkileşimleri olduğunda ilgili şeyler arşivlenmiş gereken Input / Output cihaz işlemcisi işleyişini taklit ek UVC programı olarak daha karmaşık hale gelir. Bu UVC program Girdi / Çıktı veri yapısını üretecek.
+"Gelecekte" - veri yapısının bir eşleme gerçek cihaza yazılı gerekiyor.
+UVC yöntemi UVC yöntemine tek bir standarda göre standartların çok sayıda (her biçim için bir tane) ihtiyacını değiştirir. Kapsamalıdır standart: UVC fonksiyonel özellikler, yöntemleri çağırmak için arayüzü, şema ve şemalar okumak için şema modeli
+Özellikler.
+UVC-tabanlı koruma ana fikri bir arşivde muhafaza dijital nesneler, o nesnenin anlamını kaybetmeden gelecekte her zaman yeniden inşa edilebilir olmasıdır.
+UVC mimarisi, gerçek bir mevcut bilgisayar olarak özelliklerine etkilenir. Bir hafıza, kayıtları ve düşük seviyeli bir dizi talimat içerir. mimari fiziksel uygulanacak vardır asla bir 'gerçek' bilgisayardan farklıdır. Sonuç olarak hiçbir gerçek fiziksel maliyeti vardır.
+UVC temel unsuru olan segment bazlı bellektir. Bu verilerin farklı kısımlarını depolamak için bellek bölümleri kullanır. Bu segment tabanlı tasarım onun bellek alanını paylaşan değil gibi yanlışlıkla diğer uygulamalar tarafından üzerine tahsis bellek engeller.
+Kavramsal model.
+Birlikte, orijinal veri ile her bir dijital nesnenin anlamı yeniden oluşturmak mümkündür. UVC sisteminin kalbi olarak görülebilir. Java Virtual Machine ve Common Language Runtime gibi, UVC aslında bir program gerekli genellikle eskimiş, donanım sanal örneklerini çalıştırmak için, teknoloji gelişmeye devam ettikçe gerekli donanım taklit etmeye devam edecektir sağlayan bir emülatör. Biz donanım gelecekte mevcut şu anda bilmiyorum, çünkü UVC biz deposundan belirli bir dokümana erişmek istediğiniz anda yaratılmış olması gerekir. UVC özellikle UVC için yazılmış programlar çalıştırabilirsiniz hangi platformu oluşturmaktadır.
+Ne yapılması gerekiyor.
+Farklı adımlar arşivleme (şimdiki) zaman ve alma zaman (gelecek) alınmalıdır.
+Arşivleme anda.
+"Adım 1" - Belirli bir uygulama için uygun mantıksal şema tanımlama
+"Adım 2" - bir iç temsil seçin ve veri ile UVC programı P ilişkilendirmek. Bu uygulama normal tasarımının bir parçasıdır
+"Adım 3" - veri yorumlama için UVC programı yazın
+"Adım 4" - Arşiv Bir UVC programı Q ile birlikte bit akışında şema bilgilerinin bir iç temsil depolayarak şema bilgileri bunu çözmek için. Şema yapısı tüm uygulamalar için aynı olduğundan, schemata okumak için bir şema kez ve herkes için seçilir.
+Alma anda.
+"Adım 1" - Güncel platformda bir emülatör oluşturun. Çünkü UVC kavramının basitliği, o zaman belirli bir platform için UVC emülatörü oluşturmak için yetenekli yazılım geliştiriciler için oldukça kolaydır
+"Adım 2" - (verileri geri yüklemek için bir geri yükleme programı) bir Mantıksal Veri Görüntüleyici geliştirin. Bu UVC nesne kodunu ve bit akışı okur ve program UVC ve ona arasındaki tüm giriş / çıkış etkileşimini kontrol yani UVC programı yürütmek için emülatör çağırır bir uygulama programı
+"Adım 3" - şema geri yüklemek için geri yükleme programı yazın. Şema bilgileri için mantıksal görünümü sabit olduğundan, tek bir geri yükleme programı aslında tüm uygulamaları destekleyebilir. Gelecekteki istemci zaten belgeler için mantıksal görünümü restore ediliyor biliyorsa o şema mutlaka almak ihtiyacı yoktur. Ayrıca, şema, sadece aynı tip belgelerin bir koleksiyon için bir kez istenen gerekiyor
+UVC kongre.
+UVC kongre bugün arşivlenen ve gelecekte dijital objelerin alınmasını sağlamak için süresiz muhafaza edilmesi gereken bilgi öğelerini içerir.
+Sözleşmede dahildir;
+Kongre 'taşa yazılmış' olmalıdır. Bu kağıt üzerinde ve / veya mikrografik medyada, dijital kaydedilebilir.
+Koruma Sistemi.
+Bileşenleri.
+UVC-tabanlı koruma yönteminin merkez fikir olarak UVC tabanlı koruma dört farklı bileşenlere dayanmaktadır. Bunlar:
+İncir. 2 UVC ve bileşenleri
+Yöntemin Tanımı.
+UVC programı dijital nesne dosya formatını çözer. Bu biçim dekoder programı gelecekteki donanım ve yazılım değişiklikleri bağımsız platform bağımsız tabaka olan UVC, üzerinde çalışır. Biçim dekoder yürütülmesi eleman etiketleri sunar. Bu unsurlar XML oldukça benzer verilerin Mantıksal Veri Görünümü (LDV) inşa. LDV, belirli bir bilgi türü bir parçası olarak etiketlerin yapısını ve anlamını açıklayan LDS bir örnekleme olduğunu.
+Bütün bu bileşenler bir Mantıksal Veri Görüntüleyici basitçe denilen izleyici tarafından kontrol edilir. Yeniden inşası için, izleyici UVC başlar ve UVC üstünde çalışan bir biçim dekoder dijital nesne verileri ile besler. Karşılığında bir LDV alır ve orijinal nesnenin anlamı belirli bir temsilini yeniden yapılandırır.
+Performans.
+genellikle yürütme performansını artırmak için tanıttı ikincil özellikleri olmayan bellek, kayıtlar ve temel talimatlar: mimari bilgisayar çağının başlangıcından beri var kavramlara dayanır. UVC programları verileri geri yüklemek ve onlarla çalışmak için çoğunlukla çalıştırılır performans ikincil endişe kaynağıdır.
+Hız gerçek bir endişe değil ya gelecek makineler çok daha hızlı olacak ve gelecekteki makinede UVC bir öykünme dolayısıyla çok daha hızlı çalışacak şekilde. Ayrıca, UVC esnekliği yürütme hızı daha önemlidir. Buna rağmen, her zaman hala performansı geliştirilebilir.
+Uygulama.
+Statik dosyaların arşivlenmesi, yani arşivleme veri UVC, operasyonel bir dijital arşivleme ortamında çalışmak için kanıtlanmış. UVC KB de görüntüler için sürekli erişim araçlarından biridir.
+Görüntüler için UVC.
+UVC başarıyla orijinal haliyle dijital nesneleri geri kanıtlanmıştır. görüntüleri ile hiçbir işlevselliği gerekli olduğundan uygulama basittir. yaklaşım çoğu biçimleri bu formata dönüştürülebilir JPEG görüntüler için UVC haklı geliştirmektir. Örneğin, bir PDF belgesi dolayısıyla istinat JPEG görüntüleri bir dizi olarak görüntülenebilir 'görünüm ve his' orijinal dijital nesnenin ancak işlevsellik ödün. Ayrıca, JPEG görüntüler için uygulama kolayca Mantıksal Veri şema küçük bir ayarlama yaparak TIFF görüntüleri taklit etmek kabul edilebilir.
+yaklaşım aynı zamanda davranışsal yönlerini içermeyen diğer tüm nesnelere uygulanabilir.
+Örneğin, tercümanlar Excel, Lotus 1-2-3 ve PDF için (kısmen) yazılmıştır. Ancak, bu uygulamalar yalnızca biçimleri statik özellikleri anlaştım.
+Öykünme UVC tabanlı.
+UVC-tabanlı öykünme bir platform bağımsız emülatör inşa edilebileceği üzerinde evrensel bir platform olarak UVC kullanır. UVC (yazılım programı) basit genel amaçlı bilgisayar yeniden ve kolayca şimdi ve gelecekte herhangi bir bilgisayar platformu üzerinde uygulanabilir. Bu strateji ile gelecek kullanıcıların her zaman erişebilir ve orijinal nesneyi görüntülemek mümkün olmalıdır. Resmi UVC şartname koruma anda korunmalıdır. Ayrıca her bir özel dosya biçimi için geliştirilmiş olmalıdır dekoderi ve bir LSD görüntü, ses, hesap tablosu, metin, vb Ve orijinal nesneler de korunması gereken dersin nesne türlerini tanımlayan dijital nesnenin her tür için gereklidir.
+Karmaşık nesneler / dinamik içerik.
+Daha önce belirtildiği gibi, UVC-tabanlı yaklaşım sadece etkin statik dosyalar için uygulamaya konmuştur.
+Teknoloji UVC programı ve gelecekteki uygulama arasındaki iletişim tesisi istismar ederek dinamik nesneleri dahil etmek Raymond van Diessen (IBM) tarafından geliştirilen olmaya devam ediyor.
+Alternatif öykünme yaklaşımları.
+Diğer öykünme yaklaşımları öykünme, göç öykünme ve Emülasyon Virtual Machine (VM) dizilir.
+"Yığın öykünme"
+Yığılmış öykünme zamanla birbirlerine üstünde çalışan birden öykünücüsünü tarihi bir platform yeniden gerektirir platform bağımlı öykünme olduğunu. Bu daha iyi performans ve işlevsellik getiriyor ama platformlar arasında uyumluluk yoksundur. Bu yaklaşım özellikle oyun sektöründe bulunabilir.
+"Göç öykünme"
+Göç öykünme sonraki yeni hosts (adapte) göç gereken bir platform bağımlı emülatör oluşturma içerir. Emülatör oluşturulduğu özellikle işletim sistemi eski haline geldiğinde, emülatör yeni akım platformda çalıştırmak için çevrilmiştir. Bu yaklaşım, yüksek risklerle bir strateji
+"Emülasyon Virtual Machine (EVM)"
+EVM 1999 Jeff Rothenberg tarafından sunuldu ve ana platform ve emülatörü arasında ek bir tabakanın katılmasıyla içerir ve platform ve zaman bağımsız olduğu söylenir.
+Bu yaklaşım bir sanal makine ve bir emülatör şartname yorumlayıcısı kullanır. Bu platformu ve zamandan bağımsız olduğu söyleniyor.
+Bir öykünme şartname orijinal yazılım üzerinde çalıştığı bilgisayar platformu için yazılması gereken gibi oldukça karmaşıktır. şartname ardından eski platformu için bir emülatör yaratan bir öykünme şartname tercüman tarafından yorumlanır. Tercüman ve EVM üzerinde oluşturulan emülatör çalıştırmak de.
+Telif hakkı sorunları.
+Bu yaklaşım için telif hakkı sorunları başka yaklaşım daha farklı olması beklenmemektedir.
+Fikri mülkiyet hakları biçimi için varsa, bu sorun biçimi sahipleri ile alınmalıdır. Benzer şekilde, 'UVC etkinleştirmek "uygulamalara kaynak kodu sahibinden geliştirici ve dolayısıyla izni gereklidir. Son olarak, donanım öykünmesi için, sistem üzerinde çalışan yazılımların ilgili tüm lisanslar gereklidir.

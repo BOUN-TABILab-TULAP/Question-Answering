@@ -1,0 +1,84 @@
+Otto çevrimi
+Bir Otto çevrimi tipik bir kıvılcım ateşlemeli pistonlu motorlu işleyişini açıklayan bir idealize termodinamik döngüdür. En yaygın otomobil motorlarında bulundu termodinamik döngüdür.
+[[Dosya: Otto2.png | thumb | right | left | 300px | Sıcaklık Entropi diyagramı <br>
+Dört zamanlı Otto çevriminin idealize şemaları
+Her iki diyagramlar: <br>
+Emme (A), inme, bir adyabatik, ardından izobarik genleşme gerçekleştirilir
+sıkıştırma (B) inme. Yakıtın yanması yoluyla ısı adiyabatik genişleme sürecinin gücü ile ve ardından bir sabit bir hacmi (izokorik işlemi) işleminde eklenen (C)
+inme. döngüsü izokorik soğutma ve izentropik sıkıştırma işlemleri ile karakterize edilen egzoz (D) felç, tarafından kapatılır.]]
+Otto çevrimi bu basınç, sıcaklık, hacim ısı ilavesi ve ısı çıkarılması değişikliklere tabi olarak bir gaz kütlesi ne bir açıklamasıdır. bu değişikliklere tabi gazın kütle sistemi olarak adlandırılır. Sistem bu durumda, silindir içindeki sıvı (gaz) olarak tanımlanır. Sistemi içinde yer alması değişimleri anlatarak, aynı zamanda, ters çevreye sistemin etkisini anlatacağız. Otto çevrimi durumunda, etkisi bir otomobil ve çevre işgalcileri itmek şekilde sistemden yeterince net iş üretmek olacaktır.
+Otto çevrimi inşa edilmiştir:
+sıkıştırma veya genişleme izantropik süreci hiçbir verimsizlik (mekanik enerji kaybı) olacaktır ve bu işlem sırasında içine veya sistemin dışında ısı hiçbir transfer olması anlamına gelir. Dolayısıyla silindir ve piston bu süre içinde ısı geçirmez varsayılır. Isı sol basınç sürecinde Otto döngüsü içine akar ve bir kısmı sağ boşaltılarak sürecinde geri akar ve ısının eklenmiş ve ısı arasındaki fark edilen net mekanik işe eşittir.
+işlemler tarif edilmektedir:
+Otto çevrimi izantropik sıkıştırma, sabit hacimde, izantropik genişleme ve sabit hacimde ısı reddi ısı ilave oluşur. Dört zamanlı Otto çevrimi halinde, teknik olarak iki ek işlemler bulunmaktadır: sabit bir basınçta (izobarik) atık ısı ve yanma ürünlerinin dışarı atılabilmesi için bir ve sabit bir basınçta da serin, oksijen açısından zengin bir havanın içeri alınması için bir ; ancak, bu, genellikle basit bir analizde ihmal edilmiştir. Bu iki işlem, ısı transferi ve yanma kimya bilgilerini termodinamik döngünün basitleştirilmiş analiz için, bu atık ısı her olduğunu varsaymak için daha uygun olan, ilgili olup, burada gerçek bir motorun işleyişi için kritik olsa da Tek bir hacim değişikliği sırasında kaldırıldı.
+Otto devrinde bir PV animasyonu sürecin analizinde yararlıdır.
+Tarihi.
+dört zamanlı motor, ilk iki İtalyanlar (Eugenio Barsanti ve Felice Matteucci) çok benzer olduğu söylentisi yayıldı bir motor icat yaklaşık 1854-1857 yılında, önce 1861 yılında Alphonse Beau de Rochas tarafından patentli, ancak patent kayboldu.
+İlk kişi çalışan dört zamanlı motor, yakıt kömür gazı-hava karışımı (bir gaz motoru) kullanarak sabit bir motor inşa etmek, Alman mühendis Nikolaus Otto idi. Dört zamanlı prensibi bugün yaygın kıvılcım genellikle denir Otto motorları fişler kullanarak Otto çevrimi ve dört zamanlı motorlar olarak bilinir nedeni budur.
+Süreçler.
+Sistem pistona bastırarak genişlemesine izin ilave yakıt kıvılcım ateşlemeli tarafından ısıtılan piston tarafından sıkıştırılmış silindire atmosferden çekilen hava kütlesi,, için tanımlandığı gibidir, ve son olarak da geri boşaltılır atmosfer. hava kütlesi, çeşitli termodinamik adımları sırasında hacmi, basınç ve sıcaklık değişimi gibi takip edilir. Piston silindiri, silindirin pozisyonu ile hava değişimi hacmi boyunca hareket edebilen gibi. tersinir hiçbir yararlı iş türbülans veya sürtünme yoluyla kayıp olduğunu yani olarak piston hareketiyle gaza uyarılan sıkıştırma ve genişleme süreçleri idealize edilir ve hiçbir ısı ya da gazdan aktarılır. Enerji yakıtın yanması ile havaya ilave edilir. Yararlı çalışma silindirinde gaz genleşmesi ile ekstraksiyon işlemine tabi tutulmaktadır. Genleşme silindirinin içinde tamamlandıktan sonra, geriye kalan ısı ekstre edilir ve son olarak gaz ortamına boşaltılır. Faydalı mekanik iş genişleme sürecinde kazanılan ve bazı sonraki döngü hava kütlesini sıkıştırmak için kullanılan. Bir sonraki sıkıştırma işlemi için gerekli kullanışlı mekanik iş elde eksi net çalışmalarını ve tahrik için veya diğer makineleri sürüş için kullanılabilir. Alternatif kazanılan yararlı işler katma ısı ve ısının arasındaki farktır.
+0-1 alımı inme (yeşil ok) işleyin.
+Egzoz valfi, bu işlem sırasında kapalı iken hava (çalışma sıvısı) içinde bir kütle, açık bir emme valfı üzerinden, atmosferik basınç altında (sabit basınç), 0-1, silindir içine çekilir. emme valfi 1 noktasında kapatır.
+Süreç 1-2 sıkıştırma inme (şemalar B).
+Başlangıç ​​durumuna 1 ile çalışan gaz olarak silindir kafası sonuna kadar krank sonunda (BDC, alt ölü merkez ve maksimum ses) piston hamle (TDC, üst ölü merkez ve minimum hacim) sıkıştırma oranı FORMULA_1 yoluyla, devlet noktasına 2 izentropik sıkıştırılır. Mekanik bu da sıkıştırma inme olarak da bilinen silindir içindeki hava / yakıt karışımının izantropik sıkıştırma vardır. Bu izentropik işlemi herhangi bir mekanik enerji sürtünmeden dolayı kaybolur ve ısı dolayısıyla proses tersinirdir, ya da gaz aktarılır vardır varsayar. Sıkıştırma işlemi mekanik iş çalışma gazına ilave edilmesini gerektirir. 1 (V1: V2) Tipik bir motor için genellikle sıkıştırma oranı yaklaşık 9-10 olduğunu.
+2-3 ateşleme fazı (şemalar C) işleyin.
+Piston TDC istirahatte an olduğunu. Ateşleme aşaması olarak bilinen bu anda sırasında, hava / yakıt karışımı sıkıştırma strokunun üst kısmında küçük bir hacim içinde kalır. Isıtma esas olarak sabit tutulan hacim, enjekte edilen yakıt yanması ile çalışma sıvısı ilave edilir. basıncı yükselir ve oran formula_2 "patlama oranı" denir.
+3-4 genişletme inme (şemalar D) işleyin.
+artan yüksek basınçlı piston üzerine bir kuvvet uygular ve BDC doğru iter. Işleme sıvısının genleşmesi, izentropik meydana gelır ve iş pistonu sistem tarafından yapılır. hacim oranı formula_3 "izentropik genleşme oranı" olarak adlandırılır. (Otto çevrimi için sıkıştırma oranı formula_4 aynıdır). Mekanik bu genişleme (güç) inme olarak bilinen silindir sıcak gaz karışımının genişlemesidir.
+4-1 idealize ısı atımı (şemalar A) işleyin.
+Piston BDC istirahatte an olduğunu. çalışma gazı basınç ısı silindir kafası ile temas haline getirilir, idealize dış lavabo kaldırılır bir sabit hacimli işlemi sırasında anında noktası 1'e alanına 4 düşer. Gaz 1 durumuna döndü.
+1-0 egzoz inme işleyin.
+Egzoz supabı açılır egzoz valfi ile TDC (nokta 0) için BDC (point 1) piston geçerken noktasında 1. açılır, gaz karışımı atmosfere havalandırmalı ve süreç yeniden başlar.
+Döngüsü analizi.
+Süreçlerde 1-2 piston sırasıyla bu izentropik sıkıştırma ve genişleme süreçlerinde gaz ve süreç 3-4 gaz piston üzerinde çalışır içinde çalışır. 2-3 Süreçler ve 4-1 izokorik süreçler; ısı transferi gerçekleşir, ancak herhangi bir çalışma sistemi üzerinde yapılan veya sistemde ekstre edilir. Hiçbir iş bir izokorik (sabit hacim) sürecinde yapılan ek veya bu sistemin sınırları hareketini gerektirir bir sistemden çalışma çıkarılması nedeniyle; silindir hacmi değişmez olarak, dolayısıyla, bir şaft işi ilave veya sistemden çıkarılır.
+Dört farklı denklemler bu dört süreçleri tanımlamak için kullanılır. Bir sadeleştirme ile karakterize gibi durumunu değiştirir olarak gaz kütlesine termodinamiğin (enerji tasarrufu) ilk kanunu uygulamak, sonra ihmal edilebilir sistemin (gaz kütlesi) yer alan kinetik ve potansiyel enerjinin değişiklikler varsayarak tarafından yapılır gazın sıcaklık, basınç ve hacim olarak.
+Tam bir döngüsü sırasında, gaz sıcaklığı, basınç ve hacim, sistem (gaz) dolayısıyla net iç enerji değişimi sıfır ve orijinal durumuna geri döner. Sonuç olarak, enerji (ısı veya iş) sistemini terk enerji (ısı veya iş) tarafından ofset gereken sisteme ekledi. ısı veya iş olarak sisteme enerji hareketi negatif olacaktır.
+Denklem 1a:
+sistemi (gaz kütlesi) o döngüsünün başında olduğu özgün termodinamik durumuna döner yukarıdaki devletler.
+Nerede 1-2-3 sisteme ilave enerji formula_6is ve formula_7 enerjisi 3-4-1 kaldırılır olmasıdır. Iş ve ısı açısından sisteme eklenen
+Denklem 1b:
+Denklemin Her dönem iç enerji işleminde her noktada gaz cinsinden ifade edilebilir:
+enerji dengesi Denklem 1b olur
+İç enerjiler (bu değerler keyfi ancak rasyonel gösterim uğruna seçilen) noktaları 1,2,3 ve 1,5,9 4, ve sırasıyla 4 değerlerini atanmışsa, iş ve ısı koşulları hesaplanabilir .
+1-2 sıkıştırma sırasında iş olarak sisteme eklenen enerji
+3 noktadan 2 ısı olarak sisteme ilave enerji
+3-4 genleşme sırasında iş olarak sistemden çıkarılır enerjidir
+1 alanına 4 ısı olarak sistemden çıkarılır enerjidir
+Enerji dengesi
+Sisteme eklenen enerji negatif ve sistemi terk enerji pozitif ve beklendiği gibi toplamının sıfır olduğunu unutmayın.
+Enerji sistemi üzerinden net iş dengelemek:
+Sistemin net ısı dışarı:
+Enerji sistemine eklenen sistem ısı bir birim kazandı sanki üstünde görünür gelen negatiftir. Ama biz sistem orijinal durumuna geri döndü biliyorum dolayısıyla sisteme eklenen ısı enerjisi toplam sistemin dışına net çalışmalarına dönüştürülür ısı enerjisi ve bu sistemin dışına çalışmalarının hesaplanan değeri ile eşleşir.
+Termal verim sistemine ısı ilave net işin bölüm olduğunu. Not: verimlilik negatif değerler anlamsız olarak pozitif bir değer atanır katma ısı.
+Denklem 2:
+Alternatif olarak, termal verimlilik katı, ısı ilave edildi ve ısı reddedilmesi ile elde edilebilir.
+Hayali değerlerin temini
+formula_24
+Otto çevrimi olarak, süreç 1-2 ve izentropik süreçler olarak 3-4 sırasında ısı transferi yoktur. Isı sabit hacim 2-3, işler ve ısı sabit hacim 4-1 işler yalnızca sırasında reddedilen yalnızca sırasında verilir.
+Yukarıdaki değerler, örneğin, joule birimleri ve belirli boyutlara sahip, belirli bir motor için yararlı olacaktır (birim MKS sistemi varsayılarak kullanılacak olan) sahip olabilir mutlak değerlerdir. Termodinamik sistemlerin çalışmada örneğin (sıcaklık ve basınç, yoğun miktarda sureler) enerji, hacim ya da entropi olarak geniş bir miktarlar birim kütle bazında yer vardır ve bu yüzden de, bu hesaplamalar daha genel olarak ve bu nedenle de daha genel hale vardır kullanın. Dolayısıyla, kapsamlı bir miktar içeren her dönem / kg (spesifik enerji), meters3 / kg (özgül hacim) veya jul / (kelvin-kg) (özgül entropi, ısı kapasitesi terimlerini joule birimlerini vererek, kütle bölü olacağını vb) ve küçük harfler kullanılarak temsil olacaktır.
+Denklem 1 hemen sabit bir hacmi için belirli bir ısı denklemi ile ilgili olabilir. Belirli ısıtır ideal gaz modeli içeren termodinamik hesaplamalar için özellikle yararlıdır.
+Verimleri yeniden düzenleme:
+Isıl verim denklemi içine özgül ısı denklemini takma (Denklem 2) verimleri.
+Yeniden düzenlenmesi üzerine:
+Sonraki, diyagramlar formula_29 gelen belirterek, dolayısıyla bu iki atlanabilir (ideal gaz için izentropik ilişkiler bakınız). Denklemi ardından azaltır:
+Denklem 2:
+Otto çevrimi sıkıştırma (2 işlem 1) ve genişleme (4 işlem 2) İdeal gazların izantropik denklemler ve sabit basınç sırasında izentropik süreçleri kullandığı yana / hacim ilişkileri denklemler 3 & 4 elde etmek için de kullanılabilir.
+Denklem 3:
+Denklem 4:
+Daha fazla formula_40 sıkıştırma oranı FORMULA_1 olan Denklem 4, basitleştirilmesi:
+Denklem 5:
+Denklem 4 tersine çevrilmesi ve Denklem 2 nihai termal verimlilik takarak itibaren şekilde ifade edilebilir:
+Denklem 6:
+Denklemi 6 analiz itibaren Otto çevrimi verimliliği sıkıştırma oranı formula_40 üzerine doğrudan bağlı olduğu açıktır. Hava formula_45 1.4 olduğu, formula_40 bir artış formula_47 bir artış üretecektir. Ancak, yakıt / hava karışımının yanma ürünlerinin formula_48 genellikle yaklaşık 1.3 alınır.
+Yukarıdaki tartışma bu yüksek sıkıştırma oranına sahip olacak şekilde daha etkili olduğunu gösterir. 1, tipik Otomobil: Standart oranı yaklaşık 10'dur. Genellikle bu, çünkü kendiliğinden yanma olasılığı çok geliştirmek ya da sıkıştırma oranı için bir üst limit belirlemekte olan "knock" değildir. Sıkıştırma işlemi sıcaklığı yükselir 1-2 boyunca, sıkıştırma oranı bu nedenle de bir artış sıcaklıkta bir artışa neden olur. O alev ön tarafından ateşlenir önce yakıt / hava karışımının sıcaklığı çok yüksek olduğunda Kendiliğinden tutuşma meydana gelir. Kompresyon darbeli alev karışımını ateşler önce ürünleri sıkıştırmak için tasarlanmıştır. Sıkıştırma oranı artarsa ​​sıkıştırma inme "vurma motoru" lider, tamamlanmadan önce, karışım otomatik tutuşabilir. Bu motor parçalarına zarar verebilir ve motorun fren beygir azalacaktır.
+Güç.
+Otto devrinde üretilen elektrik zaman birimi başına geliştirilmiş enerjidir. Otto motorlar dört zamanlı motorlar denir.
+Emme stoke ve sıkıştırma stoke motor krank milinin her bir dönüşünü gerektirir. Güç inme ve egzoz inme başka rotasyon gerektirir. İki rotasyonlar için tek eser üreten inme vardır.
+Yukarıdaki döngüsü analizi sistemin dışında net bir işti:
+Kullanılan birimler MKS olsaydı çevrim çalışmalarının şeklinde enerjinin bir joule üretilen olurdu. Bir belirli bir yer değiştirme motor, örneğin bir litrelik, sistemin gaz kütlesi için motor, standart sıcaklıkta (20 ° C) ve basınçta (1 atm) operasyon varsayılarak hesaplanabilir. Evrensel Gaz Tevrat gazının bir litre kütlesini kullanarak oda sıcaklığı ve deniz seviyesi basıncı altındadır:
+2000 RPM motor hızında / saniye 1000 iş konturları / dakika ya da 16.7 iş vuruşları vardır.
+Güç 16.7 kat olduğunu 16.7 çalışma vuruş olmadığından / saniye
+Motor çok silindirli ise, sonuç bu faktör ile çarpılır olacaktır. Her silindir farklı bir litre deplasman ise, sonuç da o faktör ile çarpılır olacaktır. Bu sonuçlar sonunda sistemin dört eyalette dört vuruş (iki dönmeler) her varsayılmıştır iç enerji değerlerinin ürünüdür. Onlar sadece gösterim uğruna seçilmiş ve tabii ki düşük değere sahip bulundu. Gerçek bir motor gerçek değerlerin Değişiklik motoru o sonuçları yakın üretecektir. Yetersizliklere ardı analizde yapılan birçok basitleştirici varsayımlar olarak orada kimin sonuçlar gerçek motora göre daha yüksek olacaktır. Bu sonuçlar güç çıkışı abartma olur.
+Güç ve verimliliğinin arttırılması.
+Egzoz ve emme basınç ve sıcaklık arasındaki fark verimliliği miktar artış egzoz akışı kalan enerjinin bir kısmını kaldırma ve emme basıncı artırmak için emme akışına o aktararak elde edilebileceğini göstermektedir. Bir gaz türbin egzoz akımından yararlı iş enerji elde edilebilir ve daha sonra emme hava basınçlı hale getirmek için kullanılabilir. bunlar gaz türbini boyunca genleşip gibi, basınç ve yorucu gazların sıcaklığı azalacak ve bu çalışma daha sonra basınç ve sıcaklığının arttırılması, emme gaz akımı uygulanır. bir verimlilik artışı enerji miktarları transferi ve motor ortaya çıkan güç yoğunluğu da artar. İnme başına üretilen iş silindirin içine alınan kütle miktarının doğrudan bir fonksiyonu olarak hacmini azaltmak amacıyla emilen hava genellikle soğutulur; yoğun hava çevrimi başına daha fazla iş üretecek. Pratik emme hava kütlesi sıcaklığı konuşan bir benzin erken ateşlemeyi önlemek için azaltılmış motoru yakıt olmalıdır; Bu nedenle, arası bir soğutucu ısı gibi enerjisini ortadan kaldırmak ve bu emme sıcaklığını düşürmek için kullanılır. Böyle bir program, hem motor verimliliği ve güç yoğunluğunu arttırır.
+krank mili tarafından tahrik edilen bir supercharger uygulaması güç çıkışını (güç yoğunluğu) artış yok ama alımı havayı sıkıştırmak için motor tarafından üretilen net bazı iş kullanır ve ilişkili aksi boşa enerji elde etmek için başarısız olarak verimliliği artırmak değil yüksek bir sıcaklıkta egzoz akışı ve çevre sıcaklığında bir basınç.

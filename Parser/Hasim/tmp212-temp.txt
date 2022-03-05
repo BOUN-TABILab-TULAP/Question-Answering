@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yazı yaz+Noun+A3sg+P3sg+Nom yaz+Noun+A3sg+Pnon+Acc Yaz+Noun+Prop+A3sg+P3sg+Nom yazı+Noun+A3sg+Pnon+Nom Yazı+Noun+Prop+A3sg+Pnon+Nom
+ilk ilk+Adverb ilk+Adj
+defa defa+Noun+A3sg+Pnon+Nom
+hangi hangi+Adj
+uygarlık uygar+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
+tarafından taraf+Noun+A3sg+P3sg+Abl taraf+Noun+A3sg+P2sg+Abl
+bulunmuştur bul+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop bul+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop bulun+Verb+Pos+Narr+A3sg+Cop bulun+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

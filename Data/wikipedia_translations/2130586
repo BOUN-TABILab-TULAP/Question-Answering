@@ -1,0 +1,94 @@
+Meridian ark
+Jeodezisinde, meridyen ark ölçümleri aynı boylam örneğin, bir meridyen eğri veya uzunluğunun bir kısmı ile iki nokta arasındaki mesafedir. Farklı konumlarda iki veya daha fazla bu tür saptamaları daha sonra en iyi jeoidin şeklini yaklaşık olarak bir referans elipsin şeklini belirler. Bu süreç Dünya'nın Şekil belirlenmesi denir. küresel Dünya'nın büyüklüğü ilk tespitler, tek bir yay gerekli. son tespitler referans elipsoitler belirlemek için astro-jeodezik ölçümler ve uydu jeodezi yöntemlerini kullanın.
+WGS84 elipsoid için meridyen yayı doğru ifadeler isteyenler sayısal ifadeler başlıklı alt bölümü başvurmalısınız.
+Bir küre olarak Toprak.
+Dünya'nın yarıçapının Erken tahminler 240 M.Ö. Mısır'dan kaydedilir ve 9. yüzyılda Bağdat halifeleri gelen, ama ilk çevresinin yarıçapı için oldukça iyi bir değer yaklaşık hesaplanan İskenderiye bilim adamı Eratosthenes oldu edilir. O yerel öğle saatlerinde yaz gündönümü güneş Syene (Assuan) antik Mısır kenti başucu geçer biliyordu. O da İskenderiye memleketi aynı anda, zenit uzaklığı tam bir daire (7.2 °) 1/50 idi, kendi ölçümlerden biliyordu.
+İskenderiye Syene nedeniyle kuzey olduğunu varsayarsak, Eratosthenes İskenderiye ve Syene arasındaki mesafe Dünya'nın çevresinin 1/50 olması gerektiği sonucuna vardık. Karavan seyahatler verilerini kullanarak, o mesafe 252.000 stadia bir çevresi anlamına -ki 5000 stadyum (yaklaşık 500 deniz mili) olarak tahmin. Çatı stadion (185 m) bu 46.620 km veya% 16 çok büyük tekabül varsayarsak. Eratosthenes Mısır stadion (157.5 m) kullanılan Ancak, onun ölçümü 39.690 km, sadece% 1 hata olduğu ortaya çıkıyor. Syene doğrudan güneyinde İskenderiye tam Yengeç Dönencesi'nin üzerinde değil, değil. Güneş 0.5 ° 'lik bir disk gibi görünür ve Nil boyunca veya çölde yolculuk karayolu mesafesinin tahmini yaklaşık% 10 daha doğru olamazdı.
+Dünya'nın büyüklüğü Eratosthenes 'tahmin yaklaşık iki bin yıldır kabul edildi. Benzer bir yöntem, yaklaşık 150 yıl sonra Posidonius tarafından kullanılan ve biraz daha iyi sonuçlar Halife el-Ma'mun bölgesinin "Gradmessung" tarafından MS 827 hesaplandı.
+Bir elips olarak Toprak.
+Yorum: Erken edebiyat "kutuplarda ezilmiş" bir küre tanımlamak için terim yassı sfero kullanır. Modern edebiyat "devrimin" eleme kelimeleri genellikle düştü rağmen dönem "devrimin elipsoid" kullanır. Devrimin bir elips olmayan bir elips bir üç eksenli elips denir. Sfero ve elipsoid bu makalede birbirinin yerine kullanılmaktadır.
+Onsekizinci yüzyıl.
+1687 yılında Newton Principia toprak (1/230 eşit düzleştirme) bir yassı sfero bir kanıtı yayınlamıştı. Bu bazıları tarafından tartışmalı, ama hepsi değil, Fransız bilim adamları oldu. Picard bir meridyen yayı dönemi 1684-1718 üzerinden Cassini (JD) daha uzun bir yay kadar uzatıldı. Ark en az üç enlem tespitler ile ölçüldü, bu yüzden genel şekli bir kararlılık sağlayan yay kuzey ve güney yarım ortalama eğrilikleri anlamak başardık. Sonuçlar toprak (daha az polar yarıçapından daha ekvatoryal yarıçapı), bir "yayvan" küremsi olduğunu göstermiştir. (1600-1880 meridyen yayı tarihi tam olarak Alexander Ross Clarke tarafından "Jeodezi" nin ilk bölümünde kaplıdır.).
+Sorunu çözmek için, Fransız Bilimler Akademisi (1735) Peru seferler önerdi ve Laponlar (Maupertuis, Clairaut, Camus, Le Monnier, Abbe Outhier, Celsius (Bouguer, Louis Godin, La Condamine, Antonio de Ulloa, Jorge Juan de) ). (Peru sefer sayfası Fransız Geodesic Misyon açıklanmıştır ve Lappland bu sayfada Torne Vadisi açıklanmıştır.) Ekvatoral ve kutupsal enlemlerde ölçümlerde dünya en iyi Newton destekleyen Sferoit modellenmiştir olduğunu doğruladı.
+Yüzyılın sonunda Fransız ark düzeltilmiş olmuştu ve Akdeniz'e Dunkirk'ten uzatıldı. (Delambre Göre). Bu enlem, dört ara tayinleri beş parçaya bölündü.
+Peru ark olanlar ile ölçümleri birlikte birleştirerek,
+(Paris standart toise çubuk ile belirtildiği gibi) elipsoid şekil parametreleri belirlendi ve Paris Meridian boyunca ekvator ve kutup arasındaki mesafe 5130762 toise olarak hesaplanmıştır. Tam 10,000,000 m 0,5130762 toise gibi yeni bir standart metrelik çubuğun yapımına yol açan bu mesafeyi tanımlanması.
+(Clarke, pp18-22 bakınız).
+Ondokuzuncu ve yirminci yüzyıllarda.
+19. yüzyılda, birçok astronomlar ve jeodezi farklı meridyen yaylar boyunca Dünya'nın kavis detaylı çalışmalar meşgul edildi. analizler ellipsoids kapsamlı bir listesi elips Dünya'nın altında verilen böyle Plessis 1817, Airy 1830, Bessel 1830, Everest 1830 ve Clarke 1866 olarak pek çok model, ellipsoids sonuçlandı.
+Elipsoidde meridyen mesafe.
+meridyen mesafenin belirlenmesi, bu Elipsoidde enlem FORMULA_1 bir noktaya ekvatordan uzaklık harita projeksiyonları, özellikle Merkatörü projeksiyon teorisinde önemli bir problemdir olduğunu. Elipsoitler, normal olarak, yukarıda tanımlanan parametreler açısından, formula_2, formula_3, formula_4 belirtilen ama teorik çalışmalarında ekstra parametreleri, özellikle de eksantriklik, formula_5 ve üçüncü düzleştirme formula_6 tanımlamak için yararlıdır. Sadece bu parametrelerin iki bağımsız ve bunların arasında birçok ilişki vardır:
+eğrilik yarıçapı meridyen eşit olacak şekilde eşit olarak gösterilebilir
+meridyen bir sonsuz elemanın yay uzunluğu FORMULA_1 ile (formula_9 böylece
+radyan). Bu nedenle ekvatordan meridyen mesafe FORMULA_1 olduğunu enlem
+açısından yazılı zaman mesafe formülü basittir
+parametrik enlem,
+nerede formula_14 ve formula_15.
+direğe ekvatordan uzaklığı, çeyrek meridyen vardır
+Enlem normalde aralık sınırlı olsa da
+formula_17, tüm formüller burada uygulamak verilen
+tam meridyen elips etrafında mesafeyi ölçmek için (dahil
+), anti-meridyen. Böylece FORMULA_1 aralıkları
+formula_19 ve doğrultucu enlem formula_20 vardır
+sınırsız.
+Eliptik integral İlişkisi.
+yukarıdaki integral üçüncü tür bir eksik eliptik integral özel bir durum ile ilgilidir. Online NIST El kitabının gösterimle (Bölüm 19.2 (ii)),
+Aynı zamanda ikinci tür eksik eliptik integral açısından yazılmış olabilir (NIST el kitabı Bkz Bölüm 19.6 (iv)),
+Çeyrek meridyen yönünden ifade edilebilir
+İkinci tür eliptik integralini tamamlamak
+eliptik integral ve yaklaşımlar (keyfi hassas) hesaplanması da NIST el kitabında tartışılmaktadır. Bu işlevler aynı zamanda Mathematica ve Maxima gibi bilgisayar cebir programları uygulanmaktadır.
+Seri açılımları.
+yukarıdaki integral, Taylor seri ˙Integrali alınan genişletme terimi ile elde edilen integraller terimi performans ve trigonometrik bir dizi olarak bir sonuç ifade ederek sonsuz kesildi dizisi olarak ifade edilebilir. 1755 yılında
+Euler
+karesi üçüncü dışmerkezlik bir genişleme türetilmiştir.
+Eksantrisite ("e") olarak Açılımları.
+Dışmerkezlik kareli üzerinde Delambre 1799 yılında, yaygın olarak kullanılan genişleme türetilmiş
+nerede
+Rapp detaylı verir
+Bu sonucun türetme.
+Üçüncü düzleşme ("n") olarak Açılımları.
+Oldukça hızlı yakınsama ile Serisi üçüncü düzleşme açısından genişletilmesi ile elde edilebilir, yerine eksantrisite formula_6. Onlar tarafından ilgili
+1837 yılında, Bessel, Helmert tarafından basit bir forma girmiştir böyle bir dizi, elde
+ile
+Formula_6 değişiklikler imzalamak Çünkü zaman formula_2 ve
+formula_3 yerdeğiştirimiş ve olan ilk faktör nedeniyle,
+formula_33, yarım, bu kavşak altında sabittir
+formula_34 açılımları terimler kaybolur.
+dizi, örneğin, formula_37 yazma ve formula_6 bir dizi olarak bir sonuç genişleterek, ilk faktör olarak formula_2 ya formula_3 da ifade edilebilir. Bu daha yavaş birleşen seri sonuçlanır olsa da, bu tür dizi Ulusal Coğrafi İstihbarat Teşkilatı ve Büyük Britanya Ordnance Survey tarafından enine Mercator projeksiyonu için şartname kullanılmaktadır.
+Parametrik enlem bakımından Serisi.
+Bessel
+parametrik açısından meridyen mesafenin bir genişleme türetilmiş
+konusundaki çalışmaları ile bağlantılı olarak formula_19 enlem
+geodezikler,
+ile
+Bu seri, ikinci türden eliptik integrali için bir genişleme sağlar, çünkü coğrafi enlem olarak yönünden yay uzunluğunu yazmak için kullanılabilir
+Genelleştirilmiş serisi.
+Yukarıdaki serisi, üçüncü düzleşme eksantirisite veya dördüncü dereceden sekizinci sırasına, milimetre doğruluğu sağlar. Sembolik cebir sistemlerinin yardımıyla, kolayca karasal uygulamalar için tam çift hassasiyetli doğruluğu sağlar, üçüncü düzleşme altıncı sırasına uzatılabilir.
+Delambre ve Bessel hem onları keyfi için genellenemez sağlayan bir biçimde kendi serisini yazdı. Bessel serisinin katsayıları, özellikle basit ifade edebilir
+nerede
+formula_46 ve formula_47: ve formula_45 yineleme ilişkisi aracılığıyla negatif değerler uzatıldı çift faktörlü vardır.
+Helmert serisinde katsayıları benzer genel olarak ifade edilebilir
+Bu sonuç Helmert tarafından conjected ve Kawase'nin tarafından kanıtlandı.
+yoksul yakınlaşma faktörün formula_49 sonuçları
+açısından serisi birine göre FORMULA_1
+formula_19.
+çeyrek meridyen verilir
+İlk elde edilen bir sonucu
+Fildişi.
+Sayısal ifadeler.
+Yukarıda verilen trigonometrik seri elverişli Clenshaw toplamını kullanarak değerlendirilebilir. Bu yöntem, trigonometrik fonksiyonların en hesaplama önler ve seri hızlı ve doğru bir şekilde özetlenebilir sağlar. Bu teknik aynı zamanda yüksek bağıl doğruluk korurken farkı formula_53 değerlendirmek için de kullanılabilir.
+WGS84 elipsoidinin yarı-büyük eksen ve dışmerkezlik değerleri ikame
+verir
+WGS84 için çeyrek meridyen olduğu elips
+Bir meridyen elips çevre formula_56 olduğunu. Bu nedenle çevresi meridyen elips çevresi ile aynı çemberin yarıçapı formula_57 olup. Bu formula_58 olarak ortalama Dünya çapındaki tanımlar.
+Elipsoidde formula_59 ve formula_60 de paralellikler arasında kesin bir mesafe formula_61 olduğunu. WGS84 için enlem FORMULA_1 çemberin bir derece yarısı iki paraleller arasındaki mesafe formula_62 için yaklaşık bir ifade ile verilir
+elipsoid için ters meridyen sorunu.
+Bazı sorunlar, biz ters sorunu çözmek gerekiyor: formula_65 verilen FORMULA_1 belirler. Bu yineleme, Newton yöntemi ile çözülebilir
+yakınsama kadar. Uygun bir başlangıç ​​tahmin formula_68 nerede verilir
+düzeltici enlem olduğunu. Bunun yerine kullanılabilir formula_71 eğrilik yarıçapı meridyen formül beri formula_70 için seri ayırt etmek için gerek olduğunu not edin.
+Alternatif olarak, meridyen mesafe için Helmert serisi vermek için döndürüldü edilebilir
+nerede
+Benzer şekilde, formula_19 açısından formula_65 için Bessel serisi vermek için döndürüldü edilebilir
+nerede
+Legendre
+Bir sfero bir jeodezik boyunca olan mesafesidir, bir elips çevresi boyunca mesafe ile aynı olduğunu göstermiştir. Bu nedenle, formula_65 ile oyun üstünde jeodezik sorunun çözümünde önemli bir rol verilmiş formula_19 açısından ve ters şekilde formula_65 için ifade formula_81 yerini yardımcı küre üzerinde formula_83 yay uzunluğu ile değiştirilir jeodezik ve formula_19 boyunca mesafe . Altıncı sipariş uzatıldı gerekli serisi karney, Denklem tarafından verilmektedir. Formula_20 rolü oynayan formula_6 ve formula_86 rolü oynayan formula_84 (17) ve (21),.

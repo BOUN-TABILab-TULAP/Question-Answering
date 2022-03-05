@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+ABD Abd+Noun+Prop+A3sg+Pnon+Nom
+kaç kaç+Verb+Pos+Imp+A2sg kaç+Adj
+eyaletten eyalet+Noun+A3sg+Pnon+Abl
+oluşmaktadır oluş+Verb+Pos+Prog2+A3sg+Cop oluş+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

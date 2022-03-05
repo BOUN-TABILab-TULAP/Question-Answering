@@ -1,0 +1,230 @@
+Question: Buhar makinasının ekonomik faaliyetlere nasıl etkisi olmuştur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Buhar makinesi</DOCTITLE>
+<TEXT>
+
+Buhar makinesi, buharın içinde var olan ısı enerjisini, mekanik enerjiye dönüştüren bir dıştan yanmalı motordur. Buhar makineleri, lokomotifler, buharlı gemiler, pompalar, buharlı traktörler ve endüstriyel devreler olabilir.
+Bir buhar makinesi basınç altında buhar üretmek için suyu kaynatacak bir kazana ihtiyaç duyar. Herhangi bir ısı kaynağı kullanılabilir, fakat genelde odun, kömür veya petrol türevi yakıtların yakılmasından elde edilen ateş kullanılır.
+Çalışma prensibi olarak, ısı enerjisini alan su buharlaşarak genişler ve bir odacığa alınır, odacık soğutulduğunda sıvı hale geçen buhar vakum yaratır böylece mekanizmaların hareket alması ile mekanik enerjiye yani işe dönüşür.
+İlk örnek.
+Bilinen ilk buhar makinesi diyebileceğimiz örnek Mısırlı mühendis Heron'nun birinci yüzyılda 50 yıllarına doğru Mısır İskenderiye'de uçları birbirlerine göre zıt yönleri gösteren iki eğik tüpün yerleştirildiği oyuk bir küreden yaptığı türbin’dir. Kürede su kaynatıldığında buhar borulardan dışarı çıkmakta günümüzde etki tepki kanunu dediğimiz şeyin sonucunda kürenin dönmesine yol açmakta idi. Hero buharlı bir türbin ya da motor icat etmesine rağmen toplumda bir etki yaratmadığından bunu motor aygıtının icadı olarak görülmemektedir
+Buhar gücünün ilk faydalı uygulaması.
+Buhar gücünün Heron tarafından uygulamasından sonra 1679 yılında ilk faydalı uygulama Fransız fizikçi Denis Papin ‘den (1647-1712) geldi. İçinde suyun kaynadığı ve biriken buharın suyun kaynama noktasını yükselttiği sıkıca kapanan bir kapağı olan düdüklü tencere icat edilmişti. Papin’in dikkat ettiği şey daha yüksek ısıda kemikler yumuşuyor ve et daha çabuk pişiyordu. Tencereye buhar basıncının çok yükselmesine karşın bir de güvenlik vanası eklenmişti.
+Buhar makineleri.
+Savery makinesi.
+1698 yılında, İngiliz mühendis Thomas Savery (1650-1715), ilk ticari olarak satılan buhar makinesini yapmıştır. Bu makine maden ocağından suyu dışarı atmak amacıyla kullanılmıştır. Madencinin Arkadaşı olarak tanınmaktaydı.
+Çalışma prensibi ise şöyledir:
+Buhar kazanından gelen buhar odacığa dolar. Odacık buhar ile doluyken üzerine soğuk su döküldüğünde suya dönüşen buhar vakum yaratır; böylece odacıktaki su seviyesi yükselir. Vana yardımıyla odaya buhar dolduğunda iş yapılmış olur yani madenden su çekilmiş olur. Bu makinede vanalar insan gücüyle sırayla kapatılıp açılması gerekmektedir.
+Yüksek basınçla çalıştığından o günün teknolojisine göre bu tip bir buharı güvenli biçimde kullanacak düzeyde değildi. Ayrıca gerekli buharı oluşturmak için suyu ısıtmada çok fazla yakıt gerekliydi. Bu tip makinaların öncülü olan Savery’nin makinası verimi düşük olduğundan fazla kullanılmadı fakat kendinden sonra gelen makinalar için temel teşkil etti.Makinenin çalışma şeması
+Newcomen makinesi.
+1712 ‘de İngiliz mühendis Thomas Newcomen (1663-1729) yeni bir tür buhar makinesi geliştirdi. Bu makinenin Savery Makinesinden en büyük avantajı pistonun bir zincir yardımıyla tahterevalli benzeri bir tür kaldıraca tutturulmuş olmasıydı. Bu kaldıracın diğer ucu ise bir tür tulumbaya bağlanmıştı. Piston silindirin en üst noktasında iken silindirin içine gönderilen soğuk su buharı yoğunlaştırıyordu. Böylece atmosferik basınç pistona aşağıya doğru kuvvet uyguladığı anda su madenden yükseliyordu. Buhar pistona dolunca bu çevrim tekrar ediyordu.
+Ayrıca daha az tehlikeliydi. Yine de makine istenilen verime ulaşamamış ve yakıt tüketimi azalmamıştı.
+Watt makinesi.
+1764 yılında bozulan Newcomen makinalarından biri onarılması için İskoçyalı mühendis James Watt'a verildi. Makinayı onaran watt aynı zamanda randımanı düşük bu makineyi geliştirmek de istedi. Arkadaşı İskoç kimyacı Joseph Black'tan gizli ısıyı öğrenmiş olan Watt aynı odayı sürekli ısıtıp soğutmanın ne kadar israflı bir şey olduğunu anladı ve aklına iki oda yapmak fikri geldi. Biri sürekli sıcak, diğeri de sürekli soğuk tutulacaktı. Buhar işini yaparken sıcak odada bulunacaktı ve su haline getirilmesi gerektiğinde supaplar sistemiyle soğuk odaya alınacaktı.
+Watt 1781 yılına gelindiğinde makinasını iyice geliştirmiş ve pistonun ileri geri hareketini ustalıkla bir tekerleğin dönme hareketine çeviren mekanik aletleride icat etmişti. Watt'ın makine tarihi ve makine mühendisliğine katkıları çok büyük önem taşır.
+Buhar türbinleri.
+1884 yılında İngiliz mühendis Charles Algernon Parsons (1854-1931) ilk başarılı buhar türbinini yapmıştır. Bu sayede yüksek hızlı gemi yapımı kolaylaşmış. Jeneratörlerin de kullanılması kolaylaşmıştır.
+Buhar makinasının verimi.
+James Watt’ın geliştirmesine rağmen buhar makinalarının verimi halen %7 civarında idi kalan %93 boşa giden ısı olarak kayboluyordu.
+Buhar makinasının verimini inceleyen ilk kişi Fransız fizikçi Nicolas Leonard Sadi Carnot’tur (1796-1832) 1824 yılında yayımladığı Ateşin Tahrik Kuvveti Üzerine isimli kitabında buhar makinasının maksimum veriminin en sıcak halindeki buhar ile en soğuk halindeki suyun sıcaklığı arasındaki farka bağlı olduğunu gösterdi. Carnot ısı ve işin birbirlerine dönüşmesi yolunu ilk olarak ele alan kişi olduğundan Termodinamik biliminin kurucusu kabul edilmektedir.
+Buharlı ulaşım araçları.
+Buharlı gemiler.
+1787 yılına kadar buharlı motorlar sadece su pompalarını ve tekstil makinalarını çalıştırmak için kullanılmıştı. 22 Ağustos 1787 yılında ise Amerikalı mucit John Fitch (1743-1798) ilk vapuru Delaware Nehri’ne indirmiştir. Bir süre Philaderphia ile Trenton arasında düzenli vapur yolculuğu yapılmasını sağlamıştır.Fakat Fitch ticari anlamda başarı kazanamamıştır. 1807 yılına gelindiğinde ise yine Amerikalı mucit olan Robert Fulton saatte 8 km hızla giden adını Clermont koyduğu kırk metre uzunluğundaki vapurları Hudson Nehri’nde işletmeye başladı. Bu sefer Fitch’in tersine ticari başarı kazanıldığından Fulton vapuların mucidi kabul edilmektedir. 1809 yılında ise Moses Rogers komutası altındaki Phoenix okyonusa açılan ilk buharlı vapur oldu.1811 yılında Mississippi Nehri üzerinde işleyen ilk gemi New Orleans faaliyete geçti.
+Okyanusu aşan ilk gemi ise 1819 yılında Georgia Savannah’tan İngiltere’deki Liverpool’a beşbuçuk haftada ulaşan Savannah isimli gemi oldu. Yolculuğun büyük kısmı yelkenlerin açılması ile bitirildiğinden aslında buharlı gemi sayılmazdı.
+1827 yılında Türbinlerin ve gemi pervanesinin keşfedilmesi sonucu , pervanenin yan çarktan daha etkili olduğu anlaşıldı ve gemi teknolojisi hızla gelişti 
+Buharlı Lokomotifler.
+İlk buharlı motorların gemilerde kullanılmasından sonra 1804 yılında Richard Trevithick bir vagonun şasesi üzerine sabit bir buhar motoru yerleştirerek dünyanın ilk buharlı lokomotifini üretti. Yaptığı özel yolda lokomotifini hareket ettirerek gösteri düzenlemiş fakat bundan ticari bir kazanç elde edememiştir.
+1825 yılına gelindiğinde ise İngiliz mucit George Stephenson geliştirilmiş buharlı motorlardan faydalanarak ilk buharlı lokomotif denebilecek ve adına Rocket dediği aracı yaptı.
+Buharlı otomobil.
+Bilinen ilk örnek Fransız mühendis Nicolas Joseph Cugnot tarafından yapılan Fardier’dir. Nicholas Joseph Cugnot küçük ölçekte yaptığı iki kazanlı Newcomen makinesini üç tekerlekli bir arabaya yükleyerek 1769 yılında deneme yapmıştır. Fakat buharlaşma yoluyla azalan kazan suyunu yenileyecek bir sistem olmadığından araç 15 dakikada bir durmak ve su ikmali yapıp suyun kaynamasını beklemek gerekmekteydi.
+Buhar makinesi tipleri.
+Buhar makineleri iki ana başlıkta sınıflandırılabilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karbondioksitin jeolojik depolanması</DOCTITLE>
+<TEXT>
+
+İklim değişikliğine etkisi olan sera gazlarından CO2’nin atmosferdeki derişimi, antropojenik etki ile her geçen gün artmaktadır. Bu etki ilk buhar makinasının kullanımı ile 200 ü aşkın yıldır devam etmektedir. 1958 yılından günümüze kadar, dünyadaki en uzun süreli atmosferik CO2 ölçümlerinin gerçekleştirildiği Amerika Birleşik Devletleri, Hawai’de bulunan Mauna Loa Gözlem İstasyonu’nun verisine göre 1958 yılında mevsimsel olarak düzeltilmiş şekilde hacimce yaklaşık 315 ppm olan CO2 derişimi, yıllar geçtikçe sürekli bir artış göstererek 2012 yılı Kasım ayında mevsimsel olarak düzeltilmiş şekilde hacimce yaklaşık 395 ppm değerine ulaşmıştırIPCC (Intergovernmental Panel on Climate Change) tarafından yürütülen ve farklı ekonomik büyüme, nüfus artışı ve teknolojik ilerleme senaryoları ve 2 farklı karbon döngü modeli kullanılarak yapılan CO2 emisyon tahmin çalışmaları, CO2 emisyonunun gelecek yıllarda da artmaya devam edeceğini göstermektedir[4Bu duruma bağlı olarak, küresel sıcaklık değerlerinde ve deniz suyu seviyelerinde de artış olacağı öngörülmektedir[5. 
+CO2 emisyonunun temel kaynakları arasında fosil yakıt kullanılan termik santraller, demir-çelik, şeker ve çimento fabrikaları ve rafineriler gibi endüstriyel tesisler yer almaktadır. Atmosferdeki CO2 miktarını azaltmak için; enerji tasarrufu ve enerji verimliliğinin sağlanması, yenilenebilir enerji kaynaklarının kullanımının teşvik edilmesi, alternatif enerji teknolojilerinin ve enerji üretiminde sıfır CO2 emisyonu için metodların geliştirilmesi ve CO2’nin yeraltında jeolojik depolanması gibi seçenekler bir arada uygulanmalıdır. IEA Enerji Teknolojileri Perpektifleri- ETP 2010 Mavi Harita (Blue Map) Senaryosu’nun 2050 yılında küresel enerji temelli CO2 emisyonlarını 2005 yılı değerlerine göre yarıya düşürme planı çerçevesinde, karbon yakalama ve depolama seçeneğinin % 19 oranında etkili olabileceğini öngörülmektedir. Dünyadaki doğal CO2 rezervuarlarının varlığı, yeraltında CO2’nin güvenli bir şekilde uzun süre depolanabileceğinin kanıtıdır. 
+Türkiye’ de CO2 için jeolojik depolama sahaları var mıdır ?
+Petrol üretimini arttırıcı bir metod olarak, Türkiye’deki en büyük doğal CO2 sahası olan Dodan Sahası’ndan 1985 yılından beri CO2 boru hattı ile taşınmakta ve Batı Raman Sahası’na CO2 enjeksiyonu sürdürülmektedirTürkiye’de CO2 depolanması için uygun jeolojik ortamların belirlenmesi ve 500 MW üzerinde kurulu gücü olan termik santral, çimento, demir çelik ve şeker fabrikalarından ve rafinerilerden açığa çıkan CO2 emisyonlarının hesaplanması, seçilecek jeolojik yapılardaki depolama kapasitesinin belirlenmesi ve seçilen bir sahada CO2’nin yeraltına depolanmasının detaylarının jeolojik ve sayısal model ile incelenerek ekonomik analizinin yapılması amacıyla bir proje yürtülmüştür[8. Bu çalışmada, doğal CO2 sahası olan Dodan sahası ile petrol üretim sahaları öncelikle düşünülmesi gereken yerler olarak görülmüştür. Derin akiferler mevcut olmakla beraber verilerin azlığı bu yapılarda detay inceleme yapmadan CO2 depolamanın yapılamıyacağı sonucuna varılmıştır. 
+Emisyonlardan kaynaklanan CO2’nin yeraltında jeolojik depolanması için emisyon kaynaklarından CO2’nin yakalanması ve diğer emisyon gazlarından ayrıştırılması gerekmektedir. Ayrıştırılan CO2 yeraltında depolanacağı yerlere tankerlerle veya boru hattı ile taşınmaktadır.
+CO2’nin Jeolojik Depolanması.
+CO2’nin jeolojik depolanması karbon yakalama ve depolama teknolojisinin temel aşamalarından biridir.
+Büyük ölçekli CO2 depolama için en uygun olarak değerlendirilen iki temel seçenek;
+Kömür ve bazalt yatakları gibi halen araştırılmakta olan diğer seçenekler gelecekte daha fazla depolama olanağı sağlayabilecektir.
+CO2, enjeksiyon kuyuları aracılığı ile gözenekleri ve/veya çatlakları bulunan derin formasyonlara basılır. CO2, önceden gözeneklerde bulunan akışkanın (doğal gaz, su veya petrol) yerini almış veya bu akışkanı sıkıştırmış olur. Yüksek gözeneklilik ve geçirgenliğe sahip kayaçlar uygun depolama formasyonlarıdır. Bu formasyonlar, genellikle sedimanter havzalarda bulunmakta ve sedimanların jeolojik zamanlarda istiflenmesinden meydana gelmektedir. Aynı havza içinde yer alan ince taneli geçirimsiz sedimanlar geçirimli ve depolamaya uygun formasyonlar arasında bariyerler oluşturmaktadır. Mevcut petrol, doğal gaz ve hatta saf CO2 rezervuarları, akışkanları milyonlarca yıl boyunca kaçak olmadan tutma potansiyellerini kanıtlamaktadır.
+Yeraltı katmanları, rezervuarlar ve örtü kayaçlar heterojen, düzensiz dağılım gösteren kırıkları olan karmaşık yapılardır. Bu nedenle, uzun vadeli CO2 depolama amacıyla önerilen yeraltı yapısının uygunluğunu belirlemek için saha hakkında kapsamlı bilgi ve yer bilimi deneyimi gerekmektedir.
+Olası CO2 depolama rezervuarları, pek çok kriteri sağlamak zorundadır. Başlıca kriterler; 
+Depolama potansiyelinin örnekleri.
+Yukarıda belirtilen kriterleri sağlayan bir alana örnek, İngiltere’den Polonya’ya kadar uzanan Güney Permiyen Havzası’dır. Kumlar, jeolojik zamanlarda değişik dönemlerde çökelmişlerdir. Sedimanlar , bazı gözenek boşluklarını tuzlu su veya doğal gaz ile dolu olarak bırakan kayaç oluşum aşamalarından etkilenmektedir. Ara katmanlarda olan kil, jeolojik etmenlerle sıkışmakta, geçirimsiz tabakalara dönüşmekte ve akışkanın yükselmesini engellemektedir. Kumtaşlarının çoğu CO2’nin yoğun fazda depolanması için yeterli basınca sahip 1 ila 4 km arasındaki derinliklerde yer almaktadır. Bu derinlik aralığında, formasyon sularındaki tuz içeriği yaklaşık 100 g/l’den 400 g/l’ye kadar artmaktadır (başka bir ifadeyle; deniz suyundan çok daha tuzludur). Tuz hareketleri ile formasyonların yukarı doğru kubbe şeklinde yükselmesi ile bu havzada yüzlerce yapı meydana gelmiş ve bunlar doğal gaz için kapan oluşturmuştur. Bu kapanlar, uygun CO2 depolama sahalarının aranması ve pilot projeler için hedeftir.
+Depolama Kapasitesi.
+CO2 depolama kapasitesi tahminleri büyük ölçüde yaklaşık olup potansiyel olarak uygun formasyonların dağılımına bağlıdır. Depolama kapasitesi; sahaya özgü heterojenite ve gerçek jeolojik yapıların karmaşıklığı da göz önüne alınarak, kaba tahminler için ulusal ölçekten, artan hassasiyete sahip hesaplamalar için ise, havza ve rezervuar ölçeklerine kadar uzanan farklı ölçeklerle değerlendirilebilir. 
+Depolama kapasitesinin çeşitli seviyeleri genellikle şu şekilde ayırdedilir:
+Sonuç olarak, CO2 depolama için Avrupa’daki kapasitenin yüksek, aynı zamanda derin tuzlu akiferler için belirsizliklerin de çok olduğunu söyleyebiliriz. Akiferler büyük tesisler için onlarca yılın üzerindeki sürelerde depolama kapasitesi sunabileceklerdir. Şimdiye kadar yapılan ve güncellenecek olan Avrupa’daki depolama kapasitelerinin haritalandırılması çalışması , üye devletlerde yapılan bağımsız araştırmalar ile Avrupa için geniş çapta sürdürülen AB CO2STOP projesi araştırmalarına bağlıdır.
+Kaynaklar.
+1. ^ Trends in Atmospheric Carbon Dioxide - Mauna Loa. National Oceanic & Atmospheric Administration.
+2. ^ Globally averaged marine surface monthly mean data. National Oceanic & Atmospheric Administration.
+3. http://en.wikipedia.org/wiki/Keeling_Curve
+4. Carbon Dioxide: Projected emissions and concentrations. IPCC- Intergovernmental Panel on Climate Change.
+5. IPCC AR4 SYR (2007), Core Writing Team; Pachauri, R.K; and Reisinger, A., ed., Climate Change 2007: Synthesis Report, Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, IPCC, ISBN 92-9169-122-4.
+6. International Energy Agency (IEA) (2010) (PDF). Energy Technologies Perspectives (Executive Summary). Retrieved Dec 12, 2012.
+http://www.iea.org/techno/etp/etp10/English.pdf
+7. Sahin, Secaeddin et al. (2012). “A Quarter Century of Progress in the Application of CO2 immiscible EOR Project in Bati Raman Heavy Oil Field in Turkey”. SPE 157865-MS. 
+8. Okandan, Ender et al. (2009). “Assessment of CO2 emissions from industrial sites, potential for underground storage in Turkey and modelling of storage in an oil field”. TÜBİTAK, KAMAG Project 106G110.
+Bakınız.
+http://en.wikipedia.org/wiki/Carbon_capture_and_storage
+http://en.wikipedia.org/wiki/Carbon_capture_and_storage_(timeline)
+http://en.wikipedia.org/wiki/Carbon_sequestration
+Dış bağlantılar.
+http://www.co2geonet.com - CO2’nin Jeolojik Depolanması üzerine Avrupa Mükemmeliyet Ağı 
+http://www.cgseurope.net – CO2’nin Jeolojik Depolanması üzerine Ortak Avrupa Koordinasyon Çalışması
+http://co2depolama.labkar.org.tr//home.html
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tāʾ marbūṭa</DOCTITLE>
+<TEXT>
+
+Sesbilim değeri ve Çeviri yazı.
+"Te" kelimelerin sonunda olduğu zaman şeklinde yazılabilir ve "kapalı t" anlamına gelen ""tāʾ marbūṭa"" olarak adlandırılır. Genellikle dişilik işaretlerinden birisidir, geçiş ve duraklarda "t" ve "h" seslerini alabilir. Arapça harflerin alan adı olarak kullanılması ve karakter kodlarının tespitinde karşılaşılan sorunlardan biri de "tāʾ marbūṭa " gibi karakterlerin nasıl yazılacağı olmuştur. El yazısında, farklı karakterler arasına karışır (örneğin, "Heh" ve "Teh-Marbuta" gibi) ve bu tembellikten ya da yazım zayıflığından kaynaklanmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekonomik Faaliyetlerin Siniflandirilmasi (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlar hayatlarını sürdürmek ve ihtiyaçlarını karşılamak amacıyla çeşitli ekonomik faaliyetler gerçekleştirir. Geçmişten günümüze insan gereksinimlerinde meydana gelen değişmelere bağlı olarak ekonomik faaliyetler de çeşitlenmiştir. İlk insanlar avcılık, toplayacılık, tarım gibi ekonomik faaliyetlerde bulunurken günümüzde ise sanayi, tarım, ticaret, bankacılık, güvenlik, iletişim, ulaşım vb. çok sayıda ekonomik sektör ortaya çıkmıştır. Bu sektörler birincil, ikincil, üçüncül, dördüncül ve beşindi olarak gruplandırılır.
+Birincil Ekonomik Faaliyetler:
+Birincil ekonomik etkinlikler doğrudan doğa üzerinde yürütülür. Tarım, hayvancılık, madencilik, balıkçılık ve ormancılık gibi ekonomik faaliyetler bu gruptadır. Bu faaliyetlerden elde edilen ürünler genellikle sanayide hammadde olarak kullanılır. Günümüzde bu sektörde çalışan nüfus oranı giderek azalmaktadır.
+İkincil Ekonomik Faaliyetler:
+Hammaddenin işlenip insanların kullanabileceği ürünlere dönüştürüldüğü faaliyetlerdir. Sanayi faaliyetleri ikincil ekonomik faaliyetler grubundadır. İkincil ekonomik faaliyetler; kimya sanayisi, tarıma dayalı sanayi, metalürji, makine sanayi, orman ürünleri sanayi, taşa - toprağa dayalı sanayi, inşaat ve bayındırlık, enerji üretimi vb faaliyetlerdir.
+Üçüncül Ekonomik Faaliyetler:
+Ürünün doğrudan doğadan elde edilmediği ve atölye ya da fabrikaya dayalı üretim süreci gerektirmeyen tüm faaliyetler üçüncül ekonomik faaliyetler olarak ifade edilir. Eğitim, sağlık, yargı, ulaşım, ticaret, turizm, bankacılık, sigortacılık, pazarlama, muhasebe, basın - yayın, güvenlik gibi insanlara hizmet sunan sektörler üçüncül ekonomik faaliyetler grubunda yer alır. Günümüzde en fazla gelişme gösteren ekonomik sektördür. Ülkelerin gelişme düzeyi arttıkça üçüncül ekonomik faaliyetlerin ülke ekonomisindeki oranı da artmaktadır. Günümüzde ekonomik faaliyetlerde meydana gelen değişime bağlı olarak üçünçül ekonomik faaliyetler içerisinde dör-düncül ve beşindi ekonomik faaliyet alanları ortaya çıkmıştır.
+Dördüncül ekonomik faaliyetlere: Donanım-yazılım hizmetleri, online hizmetler, reklam yayıncılığı, grafik-tasarım hizmetleri, ağ işletmenliği vb. örnek olarak gösterilebilir. Üniversiteler, bilişim teknolojileri ve araştırma merkezleri bu faaliyetler kapsamında değerlendirilebilir Beşindi faaliyetler ise dördüncül ekonomik faaliyetlerden elde edilen bilginin temeline dayanan karar verme faaliyetleri olarak tanımlanabilir. Kamu - özel sektör yöneticiliği ve icra kurulu başkanlığı(CEO) bu faaliyet grubunu oluşturur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aktif Nüfusun Ekonomik Faaliyet Gruplarına Göre Dağılımı (EBA)</DOCTITLE>
+<TEXT>
+
+Ekonomik faaliyetler ve bu faaliyetlerde çalışan insanların sayısı, ülkeden ülkeye ve zamana göre değişir. Çalışan nüfusun ekonomik faaliyetlere göre dağılım oranları bir ülkenin kalkınma düzeyini gösterir. Örneğin ABD, İngiltere, Norveç, Japonya ve İtalya gibi ülkelerle; Mali, Nijerya, Somali, Çin, Bangladeş gibi ülkelerde çalışan nüfusun ekonomik faaliyetlere dağılımı birbirinden farklıdır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekonomik entegrasyon</DOCTITLE>
+<TEXT>
+
+Uluslararası ticareti serbestleştirme çabalarını bir bölümünü oluşturan uluslararası birleşme ya da diğer ifadesiyle uluslararası ekonomik entegrasyonların tanımı entegrasyon kavramı çerçevesinde yapılabilir. Ekonomik birleşme,birleşmeye giden ekonomilerde mal ve hizmet akımlarına serbesti sağlayıp, ticarete engel olan kısıtlamaları kaldırarak, bir ortak Pazar yaratmak şeklinde tanımlamaktadır Bugün için Dünya’daki Bölgesel Ekonomik Entegrasyonlara verilebilecek en önemli örnek; temelleri 1957 yılında atılan Avrupa Ekonomik Topluluğu (AET)’dir. 
+Bir diğer önemli Bölgesel Ekonomik Entegrasyon hareketi, üye ülkelerin arasındaki ticareti yeniden düzenleyerek yeni avantajlar elde etmek amacıyla A.B.D. ve Kanada arasında 1992 yılında başlamış, 1994 yılında Meksika’yı da içine alarak “Kuzey Amerika Serbest Ticaret Anlaşması” (NAFTA) adı altında faaliyete geçmiştir. Üçüncü bir ekonomik grup da Japonya ve çevresindeki Güney Doğu Asya Ülkelerinin oluşturdukları ekonomik entegrasyon hareketidir. Söz konusu bu üç kutup, Dünya’daki bölgeselleşme eğiliminin de odakları haline gelmiştir 
+Ekonomik Entegrasyonların Oluşma Sebepleri.
+Ülkeler ekonomik bakımdan üretim kapasitelerini genişleterek verimliliği arttırmak ve bunun neticesinde de toplumsal refah düzeyini yükseltmek amacıyla ekonomik entegrasyonlara girerler. Böylece ekonomik ve siyasal egemenliklerinden kısmî olarak vazgeçmeleri karşısında toplumsal refahı arttırıcı garantiler alabilirler. Ülkelerin bölge dışı bloklara karşı daha büyük bir rekabet gücüne sahip olarak, politik alanda daha etkili olmak istemeleri yani politik potansiyelin yükseltilmek istenmesidir. Ekonomik entegrasyonun bir diğer nedeni ise, bölgesel olarak bir arada yaşamak durumunda olan komşu ülkelerin birbirleri ile çatışmaları yerine güçlerini bir araya getirerek çıkar çatışmalarını önlemektir.
+Ekonomik Entegrasyonların Etkileri.
+Durağan Etkiler.
+Ekonomik yapı ve teknolojinin değişmediği varsayımında, üretim faktörlerinin yeniden dağılımından doğacak etkilerle ilgilidir. Statik etkiler, ticaret yaratıcı ve ticaret saptırıcı olarak iki şekilde ortaya çıkar.
+Ekonomik Entegrasyonun Aşamaları.
+Serbest ticaret bölgesi.
+İki ya da daha çok ülke arasında malların ve hizmetlerin serbest dolaşımındaki engeller olan gümrük tarifeleri ve miktar kısıtlamalarını kaldırmaktadırlar. Ancak bu aşamada anlaşmaya üye olmayan ülkelere karşı her ülke bağımsız tarifelerini uygulamaya devam etmektedir. Dolayısıyla ekonomik entegrasyonun bu türünde uyulması zorunlu tek bir dış tarife sistemi bulunmamaktadır. Serbest ticaret bölgesi aşamasında ülkelerin diğer ülkelere ortak gümrük tarifesi uygulamaması, ulaştırma masrafları aradaki fakı bertaraf etmemesi koşuluyla ithalatçıların tarifenin düşük olduğu ülkeden ithalat yapıp, başka ülkeye satmalarına yol açar. Yani kar elde etmeye çalışır. Bunun kontrolü için , serbest ticaret bölgesinde mallar bir taraftan bir tarafa giderken, menşei şahadetnamesi gerekir.Serbest ticaret bölgesine en iyi örneği Avrupa Serbest Ticaret Bölgesi (EFTA) oluşturmaktadır.
+Gümrük Birliği.
+Gümrük birliği serbest ticaret bölgesinin ileri safhasını ifade eder. Üye ülkeler kendi aralarında gümrük tarifelerini ve miktar kısıtlamalarını kaldırmanın yanı sıra üye ülkeler dışında kalanlara ortak dış tarife ya da diğer ifadesiyle ortak gümrük tarifesi (OGT) uygularlar. Birbirlerinden gümrük almama esasına dayanan bölgesel bir birlik olan Gümrük Birliği, serbest ticaret bölgesindeki koşullara ek olarak birliğe üye ülkelerin serbet dış ticaret politika izlemelerini sınırlandırmış olduğundan daha ileri bir aşamayı ifade etmektedir. Üretim , faktörlerinin hareket serbestisi yoktur ama, özellikle sanayi mallarında ortak gümrük tarifesinin uygulanması ve her türlü kısıtlamanın kaldırılması söz konusudur. Kısaca; Gümrük 'Birliği'nde sanayi mallari ticaretinde bütünleşme söz konusudur. Mal, kişi, hizmet ve sermaye dolaşım serbestisinden sadece bir tanesi konu dahilindedir: Mal. Ama, tarım ürünleri kapsam dışında olduğundan tam olarak malların serbest dolaşımı da denemez. Gümrük Birliği'nde aynı zamanda üçüncü ülkelere ortak bir ticaret politikası zorunlu olarak uygulanır ve kaçınılmaz olarak mevzuat uyumu sağlanır.Bu açıklama bütünleşme kavramı ile gümrük sistemlerinin birlikte düşünüldüğünü göstermektedir. Türkiye ile AB arasında 01.01.1996 tarihinden itibaren bu çalışmanın konusunu oluşturan bir gümrük birliği kurulmuştur. Gümrük Birliği ile üye ülkelere katma değeri arttırma (trade creation) ve ticaret saptıran etki (trade diversion) ortaya çıkarabilmektedir. Bu da refah azaltıcı bir sonuç ortaya koymaktadır. Böylece, Gümrük birliği bütünleşme sürecinin ilk aşamasıdır ve bütünleşmenin statik etkileri ile ilgilenmektedir" denebilir.Gerçekten de gümrük birlikleri "... gümrük indirimi ve üçüncü ülkelere ortak gümrük tarifesi uygulamakla yetindikleri taktirde, birlik bir süre sonra verimsizleşerek dağılma tehlikesi ile karşı karşıya kalır. Faydanın sürekli olabilmelesi için birliğin "ekonomik bütünleşme" yolunda gelişmesi gerekecektir. Bu da,bütünleşme sürecinin dinamik etkiler doğurduğu sürece varlığını sürdürebileceği sonucunu ortaya çıkartmaktadır..
+Ortak Pazar.
+Ekonomik entegrasyonlarda gümrük birliğinden sonraki aşama ortak pazardır. Ortak Pazar anlaşması üye ülkeler arasında iç ticarette tüm tarifeleri ve diğer kısıtlamaları kaldırırken, ortak dış tarifeler koyar ve üye ülkeler arasına emek ve sermaye ve bilgiyi içeren üretim faktörlerinin bölge içinde serbest dolaşımına olanak sağlar. Üretim faktörlerinin serbest dolaşımı bu bütünleşme şeklini öncekilerden ayırmaktadır. Avrupa ekonomik topluluğu bu aşamaya da örnek olarak gösterilebilir. Yukarıdaki tartışmalar göstermektedir ki, bütünleşmenin dinamik etkisi; gümrük birliği oluşturmuş ülkeleri bu birlik kurallarına uymak için ek bazı faaliyetlere zorlamaktadır. Birliğe üye ülkeler aralarındaki emek, sermaye, girişimci gibi üretim faktörlerinin serbest hareketliliğini sağlayarak sınır engellerini kaldırır ve aralarındaki gümrük birliği ülkelerini de korurlar ise, ortak pazar oluşturmuş olurlar. 
+Ortak pazar, her bir üye ülkenin iç pazarından oluşmuş "genişletilmiş bir iç pazar"dır. İç pazarın temel prensipleri: Vergi harmonizasyonu, iktisat politikalarının göreli harmonizasyonu, üretim faktörleri hareketliliğini sağlayarak sınır engellerinin kalkmasıdır. Sınırların kalkması ise üç anlamda ele alınmaktadır:
+hareketleri, hizmet dolaşımı),
+İktisadi Birlik.
+Bu aşama iktisadi birleşme hareketlerinin en ileri aşamasıdır. Entegrasyon iç tarife engellerinin kaldırılması, ortak dış engellerin konması ve faktörlerin serbest dolaşımının yanı sıra birlik içinde ekonomik ve sosyal politikaların koordine edilip, uyumlaştırılması söz konusudur. Ekonomik birlik aşamasında politikaların belirlenmesinde, üye ülke temsilcilerinden oluşan bir kurul karar organı durumundadır. Ancak uygulamayı her bir ulusal devlet kendisi yürütmektedir.Ekonomik birlik içerisinde uyumlaştırılacak politikalar: Mal ve faktör piyasalarında sağlanacak bütünleşme sadece gümrük engellerinin kaldırılması ya da sermaye ve emek dolaşımının serbestleştirilmesiyle gerçekleşmez. Üye ülkelerin ellerinde standartlardan vergilemeye, çeşitli teşviklere kadar uzanan, bu akımları engelleyici politika araçları kalmaktadır. Bu nedenle söz konusu alanlarda bir uyuma gidilmesi,etkileri uluslararası düzeyde görülen çevre sorunları gibi konularda ortak politikaların izlenmesi, tek bir ülkenin çözemeyeceği büyük ölçekli teknoloji, bilimsel araştırmalar ve kaynakların harekete geçirilmesini gerektiren alanlarda ortak projelerde olduğu gibi uluslararası politikaların izlenmesi ve topluluk içinde rekabetçi yapıları bozan ve tekelleşmeyi ortaya çıkaran uygulamaları önlemeye dönük politikalarda işbirliğine gidilmesi olarak sıralanabilir. Bu aşamaya verilebilecek örnek 1 ocak 1993 yılında ismini maastrich anlaşmasına uygun olarak "Avrupa Birliği" olarak değiştiren Avrupa ekonomik topluluğudur. 
+Siyasi Birlik.
+Ülkelerin para ve maliye politikalarını uyumlaştırmaları, ekonomik olarak tek elden idare edilmelerine yol açacaktır. Ekonomik konularda birlikte hareket eden birlik, güvenlik ve savunma gibi konularda da birlikte hareket edecektir. Bu aşamayı bir önceki aşamadan ayıran yön, bu aşamada ulusal ekonomik bağımsızlığın büyük ölçüde kaldırılması ve bunun yerini bir uluslar üstü otoritenin almasıdır. Yukarıda açıklanan entegrasyon aşamalarını birbirlerinden kesin çizgilerle ayırmanın mümkün olmadığı; özellikle siyasi birlik aşaması ile iktisadi birlik aşaması arasındaki ayrımın zorlama olduğu iddia edilmektedir. Birçok araştırmacı da siyasi birlik aşamasına değinmemeyi yeğlemekte; son aşamayı iktisadi birlik olarak belirtmektedir. 
+Bir bütünleşme sürecinin siyasal birlik aşamasına ulaşabilmesi için, ekonomik birlikte olduğu gibi bazı elverişli koşulların bulunması gerekmektedir. 
+Bunlar, şu biçimde özetlenebilir: 
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Beşerî Faktörler (EBA)</DOCTITLE>
+<TEXT>
+
+üretim, dağıtım ve tüketim üzerinde ekili olan faktörlerden biri de beşerî faktörlerdir. Beşerî faktörler doğal fakörler ile sıkı bir ilişki içindedir.
+Bölgeler arasındaki farklı ekonomik etkinliklere bağlı olarak üretim, dağıtım ve tüketim gelişir. Örneğin, ülkemizdeki petrol rafinerilerine ham petrol getirilerek işlenmektedir. İşlenen petrolden elde edilen ürünler ülkenin her tarafına taşınmakta ve tüketicilere ulaştırılmaktadır. Bu faaliyetlere bağlı olarak ülkemiz içerisinde farklı alanlar arasında ticari ilişkiler gelişmektedir (Harita 1).
+Bilim ve teknoloji, üretim, dağıtım ve tüketimde birinci derece rol oynar.
+Beşerî unsurlar ekonomik faaliyetler üzerinde etkili olur. Bu unsurlar kendi içlerinde de etkileşim hâlindedir.
+Üretim, tüketim ve dağıtımda etkili olan beşerî faaliyetlerden biri de tarımsal faaliyetlerdir. Sermaye birikiminin artmasıyla birlikte tarımsal faaliyetlere yatırım artmış ve tarım ürünleri çeşitlenmiştir. Tarımdan elde edilen ürünler tüketiciye modern ulaşım yollarıyla ulaştınlmaya çalışılmıştır. Yerleşmelerin büyük ve nüfusunun fazla olması ürünlere olan talebi artırmıştır. Ürün pazarlanmasında yapılan tanıtım faaliyetleri de tüketici üzerinde etkili olmuştur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Filantropizm</DOCTITLE>
+<TEXT>
+
+Filantropizm veya insanseverlik; başkalarının tıbbî, ekonomik ve sosyal standartlarını yükseltmek ve mutluluklarını artırmak için organize faaliyetler düzenlemek. Daha kapsamlı olan hayırseverlik kavramının bir alt kategorisidir ve İslamî vakıflar, kilise yardım grupları, antik Yunanistan'da Platon'un Akademi'si gibi oluşumlar filantropik faaliyetlere örnek olarak gösterilebilir.
+Türkçede hayırseverlik, çoğunlukla tarihi gelişimi sebebiyle bireylerin dini, vicdani ve/ya duygusal güdülerinden hareketle yaptıkları yardım faaliyetlerini çağrıştırmaktadır. Ancak uluslararası düzeyde filantropizm terimi bu çağrışımlardan ziyade birey ve kurumların içinde bulundukları toplumların refah seviyesini yükseltmek amacıyla (çoğunlukla sivil toplum kuruluşları tarafından ve stratejik bir planla) bağışta bulunmaları şeklinde tanımlanmaktadır.
+Etimoloji.
+Türkçeye Fransızcadan geçmiştir. Kavramın kökeni Yunanca "philo-" (sevmek) ve "anthropos" (insan) sözcükleridir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İşleğen, Yozgat</DOCTITLE>
+<TEXT>
+
+İşleğen, Yozgat ilinin Merkez ilçesine bağlı bir köydür.
+Tarihçe.
+Klasik Osmanlı köylerindendir. 
+Kültür.
+Kültürel anlamda bir çok kültüre beşiklik yapmış olan Anadolunun mevcut coğrafyası kültürünüde etkilemiştir. Anadoluda yaşamış olan kültürlerin etkisi bölge kültürünede katkıda bulunmuştur. Dügünleri , oyunları, yemekleri ve hoş oda sohbetleriyle Anadolu kültürünün en güzel örneklerini verir. Yörede en önemli faaliyet köy düğünleridir. Düğünlerde çekilen ağırlama halayı yöreye has bir halaydır. Yine bölgede sürdürülen ata oyunları, kına yakma merasimi vb faaliyetler örf ve adetleri yansıtır. Yörede tanınmış yemekler ise : Arabaşı, Testi Kebabı, Madımak Yemeği, Cılbır, Yogurt Çorbasıyöreyi tanıtan yemeklerdendir. Bunun Yanı sıra Yörede yapılan Tandır Ekmeğide mutlaka tadılması gereken lezzetlerdendir.
+Coğrafya.
+Yozgat merkezine 23 km uzaklıkta olan İşleğen köyü, yerşekilleri bakımında engebeli arazi yapısına sahiptir. Köyün yerleşim yeri küçük dağ eteklerine kuruludur. Mevcut arazi yapısı ulaşım ve diğer faaliyetlere enğel teşkil etmemektedir. Köyün yerleşim yeri arkası ve çevresinde yükseklikleri fazla olmaya dağlar mevcuttur.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.(SEFA HAMURCU)
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.((doktor)AHMET GÜLSEÇEN)
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy m uhtarlık seçimleri de yapılmaktadır 
+seçildikleri yıllara ait muhtar isimleri (ekleyen arif aslanselçuk):(2010cemalettindoğan) 2004 - nazir DUYGU aza 1 nci YUSUF İBİŞ
+1999 - nazir DUYGU
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır.ama kullanılmıyo. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi yoktur. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı ve sağlık evi vardır ancak görevli hemşiresi ya da ebesi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+AMA İNTERNET YOKTUR...
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Deniz hukuku</DOCTITLE>
+<TEXT>
+
+Deniz hukuku; Deniz ve Okyanus sularının kullanımı konusunda ortaya çıkan sorunlar ile hukuksal açıdan ilgilenen Uluslararası hukukun bir alt dalıdır.
+Deniz ve okyanuslar sadece ulaşım amaçlı değil, ekonomik amaçlı da kullanılırlar. Balıkçılık, madenler vb. kullanımlarda olduğu gibi.
+Devletlerinin karasuyu, kıta sahanlığı ve münhasır egemenlik hakkına sahip olduğu su alanlarının tanımlanmasında ve belirlenmesindeki kuralları belirten ve devletlerin bu kurallar dahilinde uluslararası statü kazanmış denizlerden yararlanmalarını belirli bir çerçeveye oturtan bir disiplindir. Özellikle uluslararası deniz hukukunun uygulanması diğer uluslararası belgelerde olduğu gibi taraf devletleri kapsar. Fakat günümüz dünya konjonktüründe hemen hemen bütün devletlerin bu kurallara riayet ettiği görülmektedir.
+Ayrıca deniz ve okyanusların devletler arasında paylaşımı, buralardaki tüm faaliyetler ve işlenen suçlar da deniz hukukunun kapsamında ele alınır.
+Deniz hukuku; Deniz Kamu Hukuku ile Deniz Özel Hukuku olmak üzere ikiye ayrılarak incelenebilir. Deniz özel hukuku ise kendi içerisinde birçok dala ayrılır. Denzi Özel Hukukunun bir alt dalı olarak Deniz üzerinden gerçekleştirilen ticari faaliyetlere ilişkin düzenlemelerse Deniz Ticareti Hukukunun konusunu oluşturmaktadır.
+deniz hukuku nu okumak biraz zordur ve hemen hemen herkes bu işi yapamaz.
+
+</TEXT>
+</DOC>
+

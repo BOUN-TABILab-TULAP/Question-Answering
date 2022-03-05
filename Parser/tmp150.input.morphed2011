@@ -1,0 +1,40 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Debi	debi	+Noun+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+cinsinden	cins	+Noun+A3sg+P2sg+Abl
+cinsinden	cins	+Noun+A3sg+P3sg+Abl
+cinsinden	cinsi	+Adj^DB+Noun+Zero+A3sg+P2sg+Abl
+
+ifade	ifade	+Noun+A3sg+Pnon+Nom
+
+edilir	et	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+edilir	et	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyada dünya+Noun+A3sg+Pnon+Loc
+ortalama ortala+Verb+Neg+Imp+A2sg ortala+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ortalama+Noun+A3sg+Pnon+Nom ortalama+Adj
+kaç kaç+Verb+Pos+Imp+A2sg kaç+Adj
+farklı fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+bitki bitki+Noun+A3sg+Pnon+Nom
+türü tür+Noun+A3sg+P3sg+Nom tür+Noun+A3sg+Pnon+Acc
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

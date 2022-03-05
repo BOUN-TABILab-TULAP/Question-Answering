@@ -1,0 +1,164 @@
+Question: Termik ve dinamik basınç merkezleri arasındaki farklar nelerdir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rüya yorumu</DOCTITLE>
+<TEXT>
+
+Rüya yorumu, rüya türlerinden yalnızca “amaçlı rüyalar” ya da diğer adıyla “haberci rüyalar” grubuna giren, bir mesaj taşıyan rüyalardaki sembolizmi çözme çalışmasına verilen addır. Metapsişik araştırmalar ve rüya laboratuvarlarında sürdürülen araştırmalar, rüyaların bir kısmının psikofizyolojik nedenlerden kaynaklandığını ortaya koymuştur ki, “alelade rüyalar” da denilen bu rüyalar hiçbir mesaj taşımadıklarından yorumlanmayı da gerektirmez. Dolayısıyla, metapsişik araştırmacılara göre, rüyasındaki sembolizmi çözmek isteyen kişinin öncelikle o rüyasının haberci (amaçlı) bir rüya mı olduğunu, yoksa psikofizyolojik kaynaklı bir rüya mı olduğunu çözmesi gerekmektedir. Bu da her iki rüya grubunun arasındaki temel farklar hakkında bilgilenmekle ve deneyimle olanaklıdır.
+Haberci rüyalar ile alelade rüyalar arasındaki farklar.
+Haberci rüyalar ile alelade (psikofizyolojik kaynaklı) rüyalar arasındaki temel farklar şöyle açıklanır: 
+Haberci rüya türleri.
+Amaçlı veya haberci rüyalar da sembolizm içerip içermemelerine göre, kendi içlerinde iki gruba ayrılırlar: 
+Haberci rüyalardaki sembolizmin nedenleri.
+Sembolizmin haberci rüyalardaki ve vizyonlardaki nedeni şöyle açıklanır: İnsanın imajinasyon yeteneğinin sembolleştirici bir özelliği vardır. Zihne “anlamlar” halinde gelen “tesirler” insan zihninde, ister istemez fiziksel alemin bir özelliği olan imajlara bürünmek zorunda kalırlar ki, bürünecekleri imajları da “tesir”i alan insanın şuuraltı dağarcığından elde ederler. Tesir ne kadar yüksek ya da süptil bir kaynaktan gelirse gelsin, alıcı kişinin kapasitesi, şuuraltı imajları, şuuraltı dağarcığı tesirin özgün halini kaybetme derecesi ve kısıtlanması açısından çok önemli bir rol oynar. Kaynağından “anlam” olarak inmeye başlayan tesir onu alan insanın zihninde imaj olarak belirene kadar bir sürü değişim ve dönüşüm geçirir.Metapsişikçiler şuuraltının bu dönüştürücü etkisine “renkli cam etkisi” adını verirler. Kısaca tesirler, insan zihninde yer ederken, ister istemez o insanın şuuraltı dağarcığındaki imajlara dönüşürler ve bu dönüşüm sırasında birtakım sembollere bürünmüş olurlar. Bu haberci rüyaların büyük çoğunluğunda rastlanılan doğal ve zorunlu bir zaman dilimidir .
+Rüya sembollerinin değerlerinin bireyselliği.
+Dolayısıyla, haberci rüyalardaki semboller, bireyseldir. Mesaj, rüyayı görene verilmek istendiğinden veya rüyayı görenin şuuraltının sembollerine bürünmüş olduğundan, rüyayı gören kişinin manevi yapısına uygun sembollere bürünerek gelir. Böylece, birinin gördüğü haberci rüyadaki sembolün anlamı, bir başka kişinin gördüğü haberci rüyadaki sembolün anlamıyla genellikle aynı olamaz. Çünkü her insanın o sembole verdiği anlam ve değer aynı değildir. Örneğin arslan, bir kimse için korku verici, tehlikeli bir hayvandır, bir diğer kimse için güçlülüğün, kudretin sembolüdür. Arslan, haberci rüya yoluyla bu iki kimseye verilen mesajlardan birinde bir tehlikeyi simgelemek üzere bulunabilir, ötekisinde ise arslan, kudret ile ilgili bir bilgiyi simgeleyebilir. Örneğin tarih öğretmeni olan kimseye kudret ile ilgili bir mesaj verilmek istenseydi, o öğretmenin şuuraltı dağarcığında güçlülüğün sembolü “arslan” değil de “imparator” olduğundan, tesir, rüyasında arslan yerine bir imparator biçimine bürünecek ve onun rüyasında bir imparator bulunacaktı; aynı şekilde, ikinci kimseye de tehlike ile ilgili bir mesaj verilmek istenseydi, onun rüyasında da bu defa belki bir akrep ya da yılan bulunacaktı. 
+Rüya sembolizminin çözümünün kişiselliği.
+Bu verilere dayanan metapsişikçilere göre, her ne kadar bazı semboller evrenselse de ve her ne kadar insanlar arasında az çok ortak bir sembolizm dili bulunsa da, rüya yorumları için hazırlanmış bir kitap pek bir işe yaramaz, çünkü haberci rüyadaki her sembol, rüyayı gören kimsenin duygularına, düşüncelerine, bilgilerine, değer yargılarına, korkularına, kısaca iç dünyasına göre oluşur ya da oluşturulur. Kısaca, kişi gördüğü rüyanın sembollerini en iyi kendisi çözebilir ve kendisi çözmelidir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>TCP/IP Protokol Yapısı</DOCTITLE>
+<TEXT>
+
+TCP/IP.
+karşı tarafta bu paketlerin yeniden düzgün bir şekilde birleştirilmesini sağlar.
+kontrol eder.
+olarak geliştirilmiştir.
+edilmesine neden oldu.
+birlikte,TCP/IP OSI üzerinde bir üstünlük kurmuş oldu.
+TCP/IP ile OSI arasındaki Farklar.
+için belirli servisler sunar ve diğer alt görevin servislerini kullanır. OSI modeli de aynı kavramı kullanır ,ancak OSI modelinde
+her bir katmandaki protokollerin özellikleri ve birbiri ile ilişkileri kesin bir dille tanımlanmıştır. Bu özellik OSI modeli ile
+çalışmayı daha verimli kılar.
+TCP/IP ise böyle bir kısıtlama getirmediğinden,gerektiğinde yeni bir protokol mevcut katmanlar arasına rahatlıkla yerleştirilebilir.
+TCP/IP protokollere örnek olarak, dosya alma/gönderme protokolü (FTP, File Transfer Protocol), Elektronik posta iletişim protokolü (SMTP Simple Mail Transfer Protocol), TELNET protokolü (Internet üzerindeki başka bir bilgisayarda etkileşimli çalışma için geliştirilen *login* protokolü) verilebilir. Adını sıkça duyduğumuz WWW ortamında birbirine link objelerin iletilmesini sağlayan protokol ise Hyper Text Transfer Protocol (HTTP) olarak adlandırılmaktadır. TCP/IP protokolü aynı zamanda, diğer iletişim ağlarında da kullanilabilir. Özellikle pek çok farklı tipte bilgisayarı veya iş istasyonlarını birbirine bağlayan yerel ağlarda (LAN) kullanımı yaygındır. 
+Donanım Katmanındaki Protokoller.
+ARP (Adres Çözümleme Protokolü), bir IP adresinin hangi ağ kartına (yani MAC adresine) ait olduğunu bulmaya yarar. TCP/IP’de veri gönderiminde gönderilecek bilgisayarın hangisi olduğunu bulmak için kullanılır. Ayrıca IP adresini yeni almış olan bir makine, o IP adresinin sadece kendisinde olduğunu ARP kullanarak teyid eder.
+RARP(Ters ARP), protokolü ARP’ın tersi işlemi yapar, yani hangi MAC adresinin hangi IP adresini kullandığını bulur. Bir TCP/IP ağında RARP’ın çalışacağı garanti değildir, zira RARP bir RARP sunucusuna ihtiyaç duyar.
+IP Katmanındaki Protokoller.
+ICMP (Internet Yönetim Mesajlaşması Protokolü), hata ve türlü bilgi mesajlarını ileten protokoldür. Örneğin, ping programı ICMP’yi kullanır.
+RIP (Router Bilgi Protokolü), router’ların yönlendirme tablolarını otomatik olarak üretebilmesi için yaratılmıştır.
+OSPF (İlk Açık Yöne Öncelik), aynı RIP gibi router’ların yönlendirme tablolarını otomatik olarak üretebilmesine yarar. OSPF, RIP’ten daha gelişmiş bir protokoldür.
+IGMP (Internet Grup Mesajlaşma Protokolü), bir sistemin internet yayınlarına (multicast) abone olmasına ve aboneliği durdurmasına yarar. Bu yayınlar, UDP üzerinden yapılır ve genelde çoklu ortam (radyo veya video) içerikli olurlar.
+DHCP (Dinamik Cihaz Ayar Protokolü), bir TCP/IP ağına bağlanan bir cihaza otomatik olarak IP adresi, ağ maskesi, ağ geçidi ve DNS sunucusu atanmasına yarar.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ortalama deniz seviyesinden yükseklik</DOCTITLE>
+<TEXT>
+
+Ortalama deniz seviyesinden yükseklik veya ortalama deniz seviyesine göre yükseklik (AMSL); dağ, ova, yapı gibi coğrafi unsurların, meteorolojik olayların veya hava taşıtlarının yüksekliğini belirtmekte kullanılan bir kavram. Bunun için ortalama deniz seviyesi referans alınır. AMSL kısaltması, İngilizce "above mean sea level" kavramının akronimidir.
+Deniz seviyesi kıyılarda da med-cezir veya yüzeysel akıntılar olmadığı halde bile çoğunlukla bir metreden daha fazla değişkendir, ancak sabit bir su seviyesi saptama aletiyle yıllar boyunca yapılan ölçümlerle ortalama değeri oldukça kesin olarak belirlenebilmektedir.
+Yükseklik referansı olarak deniz seviyesinin kullanımı.
+Modern jeodezi'de mümkünse milimetrelerle ifade edilecek kesinlikle tanımlı olması gereken referans yüzeyinin tespit edilmesi için, ülkeler ve kullanım amacına göre değişen hesaplama yöntemleri ve referans noktaları kullanılır. Dolayısıyla bunlar aslında sadece bölgesel olarak doğru sayılabilir, ancak çoğunlukla 18. ve 19. yüzyılda ulusal olarak bir ülkenin tüm toprakları için genel geçerli olarak kabul edilmiştir.
+Ulusal bazda kullanılan sistemler için, referans sıfır noktası olarak çoğunlukla en yakın kıyı şeridinde bulunan bir ölçüm noktasının ortalama deniz seviyesi kullanılır. Buradan tüm ülkeye ağ halinde dağılmış belirli noktaların rakımı nivelman ile belirlenir. Avrupa'daki bu tür önemli referans noktaların örnekleri olarak, Amsterdam ölçeği (Kuzey Denizi), Kaliningrad (Rusya) ve Kronstadt ölçekleri (ikisi Doğu Denizi) ile Akdenizde Trieste, Cenova ve Marsilya sayılabilir.
+Bazı ülkelerin kullandığı resmi yükseklik sistemleri.
+Yükseklik sistemlerinin arasındaki farklar genellikle birkaç santimetre ile birkaç desimetre arasındadır, ancak aşırı durumlarda birkaç metre de olabilir. Düzeltme değeri yükseklik sistemindeki konumundan ve farklı yükseklik tanımlarında ayrıca yüksekliğe bağlı olduğu için sabit bir değerle değişik sistemlerin arasında dönüşümler ancak düşük bir kesinlikle (>1 dm) mümkündür. Farklı yükseklik tanımları söz konusu olduğunda, dönüştürme hesaplarındaki kesinlik özellikle yüksek dağlık bölgelerinde düşer.
+UELN sistemi ile (eski: " (REUN)"), Avrupa çapında Amsterdam ölçeğine dayanan ortak bir sistem meydana getirildi.
+Haritalarda rakım verileri.
+Arazi rakımı topografik haritalarda, rakım noktaları kotlar, rakım çizgileri ya da renkli rakım katmanları ile betimlenir. Yerleşimlere ait rakım veriler belirtildiğinde, çoğunlukla söz konusu yerleşimin merkezinde temsili bir noktanın rakımı seçilir. Bu örneğin bir meydan, belediye binası, istasyon veya mabet olabilir. Sulaklarda ise ortalama su seviyesinin yüksekliği belirtilir. Rakım noktaları için çoğunlukla yol kavşakları veya kıvrımları, trigonometrik nirengi noktaları veya zirve kesişmesi gibi belirgin, bulunması kolay yerler seçilir. Ancak örneğin bir nirengi noktası ya da zirve kesişmesi en yüksek noktada değilse, en yüksek ya da alçak noktalar her zaman gösterilmiyor olabilir. Haritada kullanılan yükseklik verilerinin dayandığı yükseklik sistemi genel kural olarak haritanın kenarında yazılı olmalıdır.
+Denizcilikte rakım verileri.
+Denizcilikte ve deniz haritalarında, gelgit olgusu bulunan karasularında en düşük astronomik gelgit seviyesi ve gelgit olgusu bulunmayan karasularında ortalama deniz seviyesine göre hesaplanan referans çizgisi seviyesi esas alınır. Denizin dibindeki yüksekliklikler, referans çizgisi seviyesine göre negatif yükseklik olarak belirtilir. Kıyının deniz tarafında kalan yükseklikler de aynı şekilde referans çizgisi seviyesine göre pozitif yükseklikler olarak belirtilir. Karadaki yükseklikler ise, ortalama deniz seviyesine göre belirtilir.
+Havacılıkta irtifa verileri.
+Havacılıkta, hava aracının irtifası veya uçuş engellerinin yüksekliği -genellikle- ortalama deniz seviyesinden yükseklik olarak ifade edilir. Ancak bu durumun istisnaları vardır. Örneğin uçuş seviyeleri standart basınç hattından (1013,25 hektopaskal) yükseklik olarak verilir. Ortalama deniz seviyesinden yükseklik QNH değeri kullanılarak hesaplanır.
+Referanslar.
+Bu seviyede atmosfer basıncı 1000-1013 milibar düzeyindedir. Ölçülmesi çok karışık hesaplamalar gerektirir. Şu sıralar genellikle küresel ısınma ve deniz seviyesi yükselmesi ile birlikte anılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sismik HR diyagramı</DOCTITLE>
+<TEXT>
+
+Sismik HR diyagramı belirli modlardaki küçük ayrılmalar olarak nitelendirilen frekanslar arasındaki küçük farklar ve büyük farkların evrimle nasıl değiştiğini gösteren diyagramdır. Elde edilen grafikten yıldızın merkezinde kalan H miktarı hakkında bilgi elde edilir ki bu da yıldızın yaşı hakkında önemli bir bilgi sunmaktadır. İki Güneş kütlesinden daha büyük yıldızlar için kullanılmamaktadır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bileşik</DOCTITLE>
+<TEXT>
+
+Bileşik, iki ya da daha fazla cinste atomun bir araya gelerek oluşturduğu saf maddelere denir. Bileşiklerin en küçük yapı taşı moleküllerdir.
+Bileşiklerin genel özellikleri.
+Bileşikler belirli sayıda element atomunun kimyasal bir bağ ile bağlanmasıyla oluşur. Ancak karışımın belirli bir formülü yoktur.Bileşikleri oluşturan elementler bir araya gelerek kendi özelliklerini kaybederler fakat karışımları oluşturan maddeler kendi özelliklerini kaybetmezler.
+Karışımlar ile arasındaki farklar.
+[[fa:تر
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Cartoon Network (Pakistan)</DOCTITLE>
+<TEXT>
+
+Cartoon Network (Pakistan), Cartoon Network'ün uydu ve Kablo TV üzerinden Pakistan, Bangladeş ve Afganistan'a yayın yapan kanalıdır. Kanal, 2 Nisan 2004 tarihinde kurulmuştur. Kanal zamanlamaları, Pakistan'da GMT+5, Bangladeş'de ise GMT+6'dır. Kanalın birkaç programı dışında Cartoon Network (Hindistan) ile programları aynıdır. Kanal Cartoon Network (Hindistan)'ın bir sürümü gibidir. İki kanal arasındaki farklar sadece zamanlamaları, reklamları ve yarışma adresleridir. Dili İngilizce ve Urduca'dır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mutatis mutandis</DOCTITLE>
+<TEXT>
+
+Mutadis mutandis, "bütün değişkenler cari iken" anlamına gelen Latince bir söz öbeğidir. Felsefe, hukuk, iktisat gibi alanlara ilişkin metinlerde görülür.
+Açıklama.
+Bir yerden yasa ithal edildiğinde o yasada değişiklikler yapmak gerekebilir. Bu değişiklikler iki ülke arasındaki kültürel farklar ya da başka nedenler dolayısıyla kaçınılmaz olabilir. Bir yasa için mutatis mutandis uygulanabilir deniliyorsa o yasanın olduğu gibi uygulanamayacağı, ancak ve ancak uyum sağlamaya yönelik değişiklikler yapıldıktan sonra uygulanabileceği, yaşama geçirilebileceği anlatılmak istenir.
+Ayrıca bakınız.
+Ceteris paribus
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İmparator</DOCTITLE>
+<TEXT>
+
+İmparator, bir imparatorluğun erkek hükümdarıdır. Latince "imperator" (askeri kumandan) kelimesinden gelir. Rütbe ve mevkii olarak kraldan üstündür. İmparatorun eşine veya imparatorluğun kadın hükümdarına imparatoriçe denir. 
+İmparator ile diğer monarşi hükümdarları arasındaki farklar.
+Monarşi ile yönetilen devletlerin hükümdarları değişik ünvanlarla anılırlar. En yaygın olarak kullanılanları kral ve imparatordur. Net bir ayrım olmamakla beraber, tarihçilerin yaptığı tercüme ve yorumlara bakılarak farklılıklar şu şekilde listelenebilirler:
+Bununla beraber bu ayrımlar daha çok kral ve imparator için geçerlidir. Dünya üzerindeki değişik monarşilerin hükümdarları padişah, halife, han, kağan, hakan, şah gibi isimlerle anıldığı gibi birbirinden farklı yetki ve özelliklere de sahip olabilirler.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pandemi</DOCTITLE>
+<TEXT>
+
+Pandemiler veya pandemik hastalıklar, bir kıta, hatta tüm dünya yüzeyi gibi çok geniş bir alanda yayılan ve etkisini gösteren salgın hastalıklara (epidemi) verilen genel addır.
+Etimoloji.
+Pandemi, eski Yunanca'dan παν tüm anlamına gelen"pan" ile insanlar anlamına gelen"demos"'dan türetilmiştir.
+Yaygın ölümcül hastalıklar ve pandemikler arasındaki farklar.
+WHO (Dünya Sağlık Örgütü) tanımlamasına göre bir pandemik ancak aşağıdaki Üç koşulu sağladığında başlamış sayılır:
+Bir hastalık veya tıbbi durum sadece yaygın olması ve çok sayıda insanın ölümüne yol açması nedeniyle pandemi olarak nitelendirilemez, aynı zamanda bulaşıcı olması gereklidir. Örneğin, kanser, insanlarda çok sayıda ölüme sebep olan bir hastalık olmasına rağmen bulaşıcı olmadığı için pandemi olarak adlandırılmamaktadır (Bazı kanser türlerinin bulaşıcı etmenler tarafından ortaya çıkabildiği unutulmamalıdır).
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Erkekler Mars'tan, Kadınlar Venüs'ten</DOCTITLE>
+<TEXT>
+
+Erkekler Mars'tan, Kadınlar Venüs'ten, Amerikan ilişki danışmanı John Gray tarafından yazılmış kitaptır. Kitap 50 milyondan fazla kopya sattı ve CNN'e göre bu 90'ların kurgusal olmayan en yüksek sıralamadaki kitabı oldu. Çok satanlar listesinde 121 hafta geçirdi. Kitap ve merkezi metaforu popüler kültürün bir parçası haline gelmiştir ve yazarın sonraki kitapları, kayıtları, seminerleri, tema tatilleri, tek kişilik Broadway şovu ve TV sitcomları için temeli olmuştur.
+Kitap erkekler ve kadınların arasındaki ortak ilişki sorunlarının çoğunun, cinsiyetlerin arasındaki temel farklar sonucu olduğunu kitabın adını taşıyan şu metaforu ile iddia etmiştir: Erkekler ve kadınlar farklı gezegenlerden gelmişlerdir - Erkekler Mars'tan, Kadınlar Venüs'ten- ve her cinsiyet kendi toplumu ve geleneklerine uyum sağlar ancak diğerlerine uyum sağlayamaz.
+
+</TEXT>
+</DOC>
+

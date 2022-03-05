@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Fuji	Fuji	+Noun+Prop+A3sg+Pnon+Nom
+
+dağının	dağ+Noun+A3sg+P3sg+Gen
+dağının	dağ+Noun+A3sg+P2sg+Gen
+
+yüksekliği	yüksek+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
+yüksekliği	yüksek+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+kadardır	kadar	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+kadardır	kadar	+Postp+PCNom^DB+Verb+Zero+Pres+A3sg+Cop
+kadardır	kadar	+Postp+PCGen^DB+Verb+Zero+Pres+A3sg+Cop
+kadardır	kadar	+Postp+PCDat^DB+Verb+Zero+Pres+A3sg+Cop
+kadardır	kadar	+Postp+PCDat^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

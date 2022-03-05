@@ -1,0 +1,54 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+DNAnın	dna	+Noun+A3sg+Pnon+Gen
+DNAnın	dna	+Noun+A3sg+P2sg+Gen
+
+genetik	genetik	+Noun+A3sg+Pnon+Nom
+
+bilgiyi	bilgi	+Noun+A3sg+Pnon+Acc
+
+aktardığına	aktar	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Dat
+aktardığına	aktar	+Verb+Pos^DB+Noun+PastPart+A3sg+P2sg+Dat
+
+dair	dair	+Postp+PCDat
+
+ilk	ilk	+Adverb
+ilk	ilk	+Adj
+
+kanıt	kanıt+Noun+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+zaman	zaman	+Noun+A3sg+Pnon+Nom
+
+elde	el	+Noun+A3sg+Pnon+Loc
+elde	elde	+Noun+A3sg+Pnon+Nom
+
+edilmiştir	et	+Verb^DB+Verb+Pass+Pos+Narr+A3sg+Cop
+edilmiştir	et	+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

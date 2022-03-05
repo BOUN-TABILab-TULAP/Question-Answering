@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<featuremodels>
+
+   <featuremodel name="nivrestandard">
+
+       <feature>InputColumn(POSTAG, Stack[0])</feature>
+
+       <feature>InputColumn(POSTAG, Input[0])</feature>
+
+       <feature>Split(InputColumn(FEATS, Stack[0]),\|)</feature>
+
+       <feature>Split(InputColumn(FEATS, Input[0]),\|)</feature>
+
+       <feature>OutputColumn(DEPREL, Stack[0])</feature>
+
+       <feature>OutputColumn(DEPREL, rdep(Stack[0]))</feature>
+
+       <feature>OutputColumn(DEPREL, ldep(Stack[0]))</feature>
+
+       <feature>OutputColumn(DEPREL, ldep(Input[0]))</feature>
+
+       <feature>InputColumn(POSTAG, Stack[1])</feature>
+
+       <feature>InputColumn(POSTAG, succ(Stack[0]))</feature>
+
+       <feature>InputColumn(POSTAG, Input[1])</feature>
+
+       <feature>InputColumn(LEMMA, Stack[0])</feature>
+
+       <feature>InputColumn(LEMMA, Input[0])</feature>
+
+       <feature>InputColumn(LEMMA, Input[1])</feature>
+
+   </featuremodel>
+
+</featuremodels>

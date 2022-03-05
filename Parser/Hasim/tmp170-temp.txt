@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Başlangıç başlangıç+Noun+A3sg+Pnon+Nom Başlangıç+Noun+Prop+A3sg+Pnon+Nom
+meridyeni meridyen+Noun+A3sg+Pnon+Acc meridyen+Noun+A3sg+P3sg+Nom
+hangi hangi+Adj
+şehirdedir şehir+Noun+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

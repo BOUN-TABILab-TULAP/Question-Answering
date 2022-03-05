@@ -1,0 +1,279 @@
+Question: Besin ağı ile besin zinciri arasındaki farklılık nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Madde Ve Enerji Akişi  (EBA)</DOCTITLE>
+<TEXT>
+
+Ekosistemlerde canlılar özellikle beslenme açısından birbirlerine bağımlıdırlar. Bu durum doğadaki maddelerin canlılar arasında döngüsel olarak dolaşımını sağlar (Resim 3.21). Bu döngünün devamlılığının sağlanması için kaybedilen maddelerin yerine konması ve sistemdeki canlıların kullanımına sunulması gereklidir. Yeryüzündeki ana enerji kaynağımız güneştir. 
+Üreticiler güneş enerjisini kullanarak madde sentezlerler. 
+Üreticilerin üretmiş oldukları maddeleri birincil tüketiciler kullanarak gerekli enerjiyi ve maddeleri alırlar. 
+İkincil tüketiciler ise enerji ve besin maddeleri eldesi için birincil tüketicileri kullanırlar. 
+İkincil tüketicileri de üçüncül tüketiciler kullanır. Böyle bir döngüde yer alan tüm canların atıklarını ve kalıntılarını ayrıştırıcı mikroorganizmalar ayrıştırarak tekrar döngüye kazandırır. 
+Besinlerdeki enerjinin üreticilerden otçullara ve onlardan etçillere kadar olan iletimi, besin zinciri olarak tanımlanır (Resim 3.22). Besin zincirindeki canlıların tümü, öldüklerinde ayrıştırıcılar tarafından ayrıştırılır. 
+Ekosistemlerdeki besin zincirleri birbirlerinden tamamıyla ayrılmış durumda değildir. 
+Besin zincirleri, birbirleriyle çeşitli şekillerde bağlantı kurup besin ağlarını oluşturur (Resim 3.23). Komünitelerdeki bu tür beslenme ilişkileri, kimin kimi yediğini gösteren bağlantılı oklarla gösterildiğinde besin ağı şekillenmiş olur. Besin ağlarına bir örnek vermek gerekirse; fitoplanktonlar ile beslenen balık ve zooplanktonlar, mürekkepbalığı tarafından ya da ayıbalığı veya penguenler tarafından tüketilebilir. Besin ağı içindeki besin zincirleri genellikle birkaç basamak halindedir. Kutup bölgeleri gibi zor çevre koşullarının hüküm sürdüğü alanlarda besin zincirleri daha kısa olabilir. Besin zincirinde beslenme basamakları arasında enerji ve madde iletimi olurken enerjinin bir kısmı ısı olarak kaybedilir. Kural olarak bir beslenme basamağından bir üst basamağa enerjinin sadece %10’luk bir kısmı iletilebilmektedir (Resim 3.24). Aktarılamayan enerji ya atık olarak doğaya döndürülür ya da solunum sırasında ısı olarak kaybedilir. Bu nedenle üretim piramidinin üst basamaklarına doğru çıkıldıkça canlıların toplam kütle miktarı azalır. Kural olarak biyokütlenin en çok olduğu düzey, üreticilerin bulunduğu trofik düzeydir. 
+Bu durum, ekosistemlerdeki beslenme basamaklarının sayısını sınırlamaktadır. 
+Beslenme basamakları arasında enerji akışı sırasında bir miktar enerji kaybı olur. Bu durumdan insanlar önemli sonuçlar çıkarabilir. 
+Örneğin, protein içeriği yüksek olan soya fasulyesi gibi üretici basamağındaki bitkileri doğrudan tüketmek yerine, bunlarla sığırları besleyip onların etini tüketmek verimli bir yol değildir. 
+Et tüketimi, fotosentezle üretilen besinlerin vücuda alınmasının oransal olarak verimsiz bir yoludur. 
+Et yerine soya fasulyesi ile beslenildiğinde beslenme basamakları arasında enerji kaybı daha az olacaktır. İnsanlar, bu durumu göz önünde bulundurup daha verimli beslendikleri taktirde daha az tarım alanına gereksinim duyulur ve daha fazla sayıda insan beslenebilir. 
+Canlıların yedikleri besinlerle birlikte alınan bazı zehirli maddeler, vücuttan boşaltım ya da sindirim yoluyla dışarıya atılabilir. Bazı maddeler vücutta parçalanmaz ve değişik dokular içerisinde biriktirilir. 
+Alt trofik basamaklarda biriken bu zehirli maddeler, besin zinciri yoluyla üst basamaklara aktarılır. Zehirli maddeler üst trofik basamaklarda daha yoğun hale gelir. Bu olaya biyolojik birikim denir. 
+Dolayısıyla bir zehirli maddenin biyolojik birikiminin en fazla ve en yoğun olduğu basamak, besin zincirinin en üst basamağıdır. Küçük bir dereye karışan ağır metallerden en az etkilenen fitoplanktonlar, en çok etkilenen ise küçük balıkları yiyen büyük balıklar ve sonrasında da büyük balıklarla beslenen hayvanlar ve insanlar olmaktadır. 
+Aynı şekilde tarım arazilerine atılan zirai ilaçlar bitkilerin üzerinden otçullara oradan da insanlara geçer (Resim 3.25). 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Besin Zinciri (EBA)</DOCTITLE>
+<TEXT>
+
+Dünyadaki bütün canlılar yaşamlarını sürdürebilmek için enerjiye ihtiyaç duyar.
+Dünyada besin üretmek için gerekli olan her türlü madde (su, oksijen, azot vb.) bulunur. Bu maddelerin canlılar tarafından kulanılabilmesi için organik besinlere (karbonhidratlar, proteinler, yağlar) dönüştürülmesi gerekir. Bitkiler, algler ve bazı bakteriler fotosentez yoluyla inorganik maddeleri organik besinlere dönüştürebilen canlılardır. Bu dönüşümün gerçekleşmesi için güneş enerjisine ihtiyaç duyulur (Şekil 1).
+Bitkilerin besin üretimini nasıl gerçekleştirdiğini Şekil 1 ve Şekil 2’yi inceleyerek görelim. Bitkiler, karbondioksit ve suyu kullanarak güneş enerjisi yardımıyla glikoz ve oksijen üretir.
+Güneşten gelen enerji, fotosentez yapan canlıların ürettikleri besinlerde depolanır. Besin maddeleri canlılar tarafından tüketildiğinde enerji, bu canlılara geçer. Böylece enerji, beslenme yoluyla bir canlıdan diğerine aktarılmış olur.
+Bitkilerde besin olarak depolanan enerji, bir besin zinciri biçiminde tüm canlılara dağılır.
+Ekosistemde besin zincirindeki aşamalar
+Ayrıştırıcılar (mantarlar, bakteriler vb.) - Ayrıştırıcılar ölü hayvan ve bitkileri ayrıştırarak minerallere ve humusa dönüştürür.
+üreticiler - Güneş enerjisini kullanarak besin üreten bitkiler
+Birincil Tüketiciler - Bitkiler ile beslenen otçullar
+İkindi Tüketiciler - Otçullar ile beslenen etçiller
+Üçüncül Tüketiciler - Etçillerle beslenen etçiller
+Besin zincirinde enerjinin bir gruptan diğerine aktarıldığı her halka bir beslenme seviyesini oluşturur. Besin zinciri boyunca aktarılan enerjinin büyük bir kısmı o canlının yaşam gereksinimleri için kullanılırken geriye kalanı zincirin bir sonraki halkasına aktarılır. Besin zincirindeki bu enerji aktarımı piramit şeklinde bir model ile ifade edilir (Resim 1, Şekil 4).
+Bitkiler
+1. Beslenme seviyesini oluşturur.
+Bitkilerle beslenenler
+2. Beslenme seviyesini oluşturur: geyik, tavşan vb.
+Otçullarla beslenenler
+3.	Beslenme seviyesini oluşturur: aslan, leopar vb.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Besin</DOCTITLE>
+<TEXT>
+
+Besin, yaşamı sürdürmek için gereksinim duyulan inorganik ve organik kimyasal maddeleri topluca belirten terim. 
+Besin maddelerini oluşturan temel bileşenler, besin zinciri çevriminin birer parçasıdırlar. 
+Bitkileri besleyen mineral tuzlar ikiye ayrılır: 
+Bkz. Vücut için Gerekli Besinler
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Besin zinciri</DOCTITLE>
+<TEXT>
+
+Besin zinciri, canlılar topluluğundaki organizmaların beslenme alışkanlıklarını yansıtan kavramdır.
+Bitkilerin ve öbür kendi beslek organizmaların besine dönüştürdükleri enerjinin organizmadan organizmaya geçişini dile getiren besin zinciri, en yalın biçimiyle bir bitki, bir otçul hayvan ve bir etçil hayvandan oluşan bir dizi olarak düşünülebilir. Zincirin her öğesi bir halkayı simgeler ve üretken bitkiler ya da tüketici hayvanlar sınıflarına ayrılır. Bitkilerle beslenen otçullar "birincil tüketici", bunları yiyerek beslenen etçillerse "ikincil tüketici" diye adlandırılır.
+Tüm canlılar yaşamsal faaliyetlerini sürdürebilmek için enerjiye ihtiyaç duyarlar. Günlük yaşamda yapılan her şey için insanlar enerji kullanır. Her canlı gereksinimi olan enerjiyi besinlerden sağlarlar. Bu nedenle bütün canlılar beslenmek zorundadır.At,keçi,koyun,inek gibi hayvanlar ot yiyerek beslenir. Bu canlılara ot yiyenler otoburlar denir. Aslan,kaplan,tilki,atmaca gibi hayvanlar diğer hayvanları yiyerek beslenir. Bunlara da et yiyenler etoburlar denir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çiğ et diyeti</DOCTITLE>
+<TEXT>
+
+Çiğ et diyeti evcil köpek ve kedileri pişmemiş et, yenilebilir kemik ve organlarla beslemeyi esas alan bir diyet çeşididir. 
+Çiğ et diyetini destekleyenler, vahşi doğada milyonlarca yıllık evrim testinden geçerek oluşan bu doğal beslenme modelinin hayvanlar için en uygunu olduğuna inanmaktadırlar. Dengeli bir çiğ et diyetinin evcil hayvanları daha sağlıklı tüyler ve daha temiz dişlere kavuşturduğuna, ağız kokusunu önlediğine, hayvanın dışkısının miktar ve kokusunda azalma sağladığına inanan çiğ beslenme taraftarları, evcil hayvanlarını doğa kanunları doğrultusunda beslemekte, hayvanın sağlığına zarar verdiğini düşündükleri ticari mamalara karşı çıkmaktadırlar. 
+Çiğ et rejimini destekleyici deneylerin sayısı fazla değildir. Çiğ et yanlıları, bu durumun ticari mama üreticileri ve bu sektörden kazanç sağlayan veterinerlerin isteksizliğinden kaynaklandığını düşünmektedirler.
+Temel Bilgi.
+Doğal Diyet.
+Çiğ Beslenme taraftarı Dr. Ian Billinghurst (“Barf Rejimi” ve Global Barf Dağıtım Ağı'nın sahibi) kitabında, köpeklerin milyonlarca yıl boyunca çiğ etle beslendiğini, evrimlerinin bu yönde gerçekleştiğini ve çiğ etin onlar için en uygun besin olduğunu öne sürer. İşlem görmüş yiyeceklerin, uzun evrimleşme süresi boyunca köpeğin yemeye programlandığı besinlerden olmadığını açıklar ve köpeğin vahşi atalarının yediği yiyeceklerin, köpeğin doğasına biyolojik açıdan daha uygun olduğu sonucuna varır.
+Çiğ diyet savunucuları, günümüz hayvanat bahçelerinin bazılarında uygulanan, etobur hayvanları çiğ et ve kemik ve hatta bütün bir hayvan ölüsüyle besleme metoduna da dikkat çekerler. Folsom Hayvanat Bahçesi'nin yöneticisi “Sağduyumuz bize, bir etobura vereceğimiz en yararlı besinin, doğal avları olan hayvanın ölüsü olduğunu söylüyor” açıklamasında bulunmuştur. 
+Ticari Mama Karşıtlığı.
+Ticari hayvan maması üretiminde kullanılan son derece yüksek ısı, vitaminler, mineraller ve enzimler gibi besleyici pek çok maddeyi yok etmektedir. Fareler üzerinde yapılan testler, kedi mamasındaki amino asitlerin sindirilebilme oranının, ısıtma işlemi yüzünden gözle görülür oranda değiştiğini kanıtlamıştır. Mama üreticileri ısı işleminden sonra besin değeri azalan maddeleri desteklemek adına eklemeler yapmak zorundadırlar. Çiğ beslenmeyi destekleyenler, bu ek besin maddelerinin, hayvanların organizmalarına çiğ ete kıyasla gereken katkıyı yapmadığını ve çiğ ette bulunan besin değerlerinin bu eklemelerle elde edilemeyeceğini belirtirler. Aynı mantıkla evde pişirilmiş besinlere de karşı çıkarlar.
+Ticari hayvan besinleri ve özellikle kuru mamaların çoğu zaman büyük miktarda hububat içermesi, çiğ et taraftarlarının bu yiyeceklerin kedi ve köpekler için uygun olmadığını düşünmelerine yol açmaktadır. Özellikle kedilerin tamamen etobur olduğu gerçeğini göz önünde bulunduran çiğ beslenme yanlıları, çiğ et bazlı bir diyetin, kedilerin köpeklere oranla hububat sindirimine daha da az yatkın bünyeleri açısından son derece faydalı olduğuna inanmaktadır. Kuru kedi mamasındaki proteinleri konu alan araştırmalar, et bazlı proteinlerin mısır bazlı proteinlere oranla sindirilebilirliğinin daha yüksek olduğunu kanıtlamıştır.
+Çiğ beslenmeyi destekleyen veteriner Dr. Tom Lonsdale, konserveler ve kuru mamalardaki kaba öğütülmüş hububatın hayvanların dişlerine yapışarak bakteri üremesine, diş eti ağrısına, ağız kokusuna ve vücudun tamamını etkileyen bakteryel zehirlerin oluşmasına yol açtığını açıklamıştır. Lonsdale ayrıca köpeklerin hububat ve bitkisel maddelerin sindirimi için gereken enzimlerden yoksun olduğunu belirtmiş, yüksek ısıda pişirilmiş hububatın nişasta, protein ve yağları doğal hallerinden uzaklaştırarak, değişken seviyelerde zehirli ya da denatüre hale getirebileceği konusunda uyarıda bulunmuştur. Lonsdale yeterince sindirilememiş hububatın alt bağırsakta toksin üreten bakteri oluşumunu desteklediğini, bunun sonucunda da toksik maddelerin bağırsak duvarından geçmek suretiyle kana karışarak diğer organlara zarar verdiğini söyler.
+Çiğ Et Diyeti Çeşitleri.
+Çiğ rejim çeşitleri konusunda farklı önermeler bulunmaktadır. Köpeklerin etobur mu yoksa her besini yiyebilen bir canlı mı olduğu sorusu üzerinde fikir birliği sağlanamamıştır. Ayrıca kedi ve köpeklerin bitki kaynaklı besinlere ihtiyaç duyup duymadığı, eğer ihtiyaç duyuyorlarsa bu maddelerin diyet içerisinde hangi oranlarda bulunması gerektiği, evcil hayvanlara bütün kemik yedirmenin güvenli olup olmadığı gibi konular da çiğ beslenme taraftarları tarafından masaya yatırılmıştır. Önerilen beslenme şekilleri, sebze ve tahıl da içeren diyetlerden sadece et ve sakatat ihtiva eden ya da Michelle T. Bernard tarafından önerilen "Et ve Kemik rejimi" gibi daha minimalist yaklaşımlara kadar uzanan geniş bir yelpazeye yayılmaktadır. .
+Barf.
+"BARF" rejimi, İngilizce "Biologically Appropriate Raw Food" (Biyolojik açıdan uygun çiğ besin) ya da "Bones And Raw Food" (Kemik ve çiğ Besin) terimlerinin kısaltması olup Billinghurst tarafından tasarlanmıştır. Tipik bir BARF diyeti %60-80 oranında çiğ et ve kemikten oluşmakta, (kemiklerin etrafında %50 oranında et bulunması koşuluyla, örneğin tavuk boynu, sırtı, kanadı) geri kalan %20-40 ise sebze, meyve, diğer etler, sakatat, yumurta ve süt ürünleriyle tamamlanmaktadır. Bu kısaltma, diyeti kendi köpekleri üzerinde deneyen ve Dr. Billinghurst'le evcil hayvanların beslenme şekli konusunda aynı fikri paylaşan Debra Tripp tarafından önerilmiştir. 
+Av Modeli.
+"Av modeli" rejimi bir hayvanın beslenmesinde, o hayvanın doğadaki avının boyutlarını esas alır. Bu rejimde sakatat, baş, deri, kas, kan, kemik, mide ve içerdikleri, hatta az miktarda tüy, kürk veya balık pulu bulunur. Genellikle bu rejim, %80 et (ve yürek gibi yüksek miktarda et içeren organlar) %10 kemik ve yarısı ciğer olmak üzere %10 organ oranlarını uygun görür. Av modeli savunucuları köpeğin her türlü besini yiyebilen bir canlı, kedinin ise %100 etobur olduğuna inanır ve bu sebeple bu hayvanların diyetlerinde et, kemik ve organlar dışında herhangi bir ek besine ihtiyaç olmadığını öne sürerler. Av modelini takip edenler hayvanlarını beslemede farklı kaynaklardan elde edilen etler kullanırlar.
+Genellikle av modelinde ek besine rastlanmaz ama bu modelin takipçilerinden bazıları ticari amaçla yetiştirilen ve tahılla beslenen çiftlik hayvanlarında görülen omega-3 yağ asidi eksikliğini tamamlamak adına diyete balık yağı eklerler.
+Besinsel Denge.
+Çiğ etle besleme, besin oranları özenle hesaplanmış modellerden sadece et ve kasap artıkları içeren diyetlere kadar geniş bir alanı kapsadığı için, bir çiğ diyetin besinsel değeri takip edilen modele bağlı olarak değişebilir.
+Çiğ etle besleme taraftarları, her öğünün tamamen dengeli olması gerektiğini düşünmemekte, besinsel dengenin tavuk, hindi, kuzu, büyükbaş hayvanlar, domuz, balık, tavşan hatta av hayvanları gibi pek çok farklı canlıdan elde edilen çeşitli et, yağ, kemik ve organlarla zaman içerisinde kolaylıkla elde edilebileceğine inanmaktadırlar. Çiğ rejimleri uygulayanlar, hayvanların insanlardan daha karmaşık besinsel ihtiyaçları olmadığını ve belirli bir süreç boyunca çeşitli bileşenlerle beslenen hayvanların, bünyelerine uygun dengeli bir beslenme rutinine kavuşacaklarını öne sürmektedirler. 
+Diş ve Kemik Sağlığı.
+Çiğ et diyeti taraftarları çiğ kemikle beslenen hayvanların ağız sağlığında gözle görülür bir ilerleme olduğunu, çiğneme esnasında hayvanın dişi ile yediği kemik arasında oluşan aşınmanın diş plağını temizlediğini, kıkırdak, lifler ve tendonların doğal bir diş macunu görevi üstlendiğini belirtmektedirler. Çiğneme ve parçalama işlemi aynı zamanda çeneyi, boynu ve omuz kaslarını güçlendirmekte, sindirim sıvısının aktif halde kalmasını sağlamakta ve nörolojik sistem ve bağışıklık sistemini kuvvetlendirmektedir. Öğütülmüş kemik yanlıları, kas çiğnenmesinin dişleri temiz tutmak için yeterli olduğunu öne sürmektedirler. 
+Bakteri, Virüs ve Parazitler.
+Çiğ et rejiminin savunucuları bakteri riskinin abartıldığını ve kedi ve köpeklerdeki mide enzimleri ve kısa bağırsak yapısının zararlı bakterilerle baş etmede yeterli olduğunu düşünmektedirler.  Örneğin, bozuk ticari köpek mamasından bulaşan bir salmonella salgını sırasında 62 insanda enfeksiyona rastlanırken bozuk mamayı yiyen hayvanlarda hiçbir belirti saptanmamıştır. 
+Güvenilir kaynaklardan kaliteli et elde etme ve eti buzlukta saklayıp dışarıda fazla bekletmeme bakteri azalmasına yardımcı olabilir. 
+Çiğ ette yararlı parazitler de bulunmaktadır ve ticari mamaların yapım aşamasında bu yararlı parazitler de bakterilerle birlikte yok olmaktadırlar. Kimi çiğ diyet rejimleri, etleri dondurmayı ve bu sayede parazit oluşum potansiyelinin büyük miktarda önüne geçmeyi önerir. 
+Veterinerlerin görüşü.
+American Veterinary Medical Association, British Veterinary Association ve Canadian Veterinary Medical Association gibi veteriner birlikleri bu konuda bilimsel veriler olmadığı için hayvanlara çiğ et verilmesinden doğabilecek hayvan ve halk sağlığı riskleri konusunda hayvan sahiplerini uyarmaktadırlar.
+Fikir ayrılıkları.
+Çiğ et savunucuları, veterinerlerin, mama üreten şirketlerden gelen finansal kaynaklar sayesinde yaşamını sürdüren meslek birlikleri ve üniversite fakülteleri tarafından etki altında bırakıldığına inanmaktadırlar. Örneğin, Science Diet markasının yaratıcısı ve reçeteyle dağıtılan diğer pek çok yiyeceğin baş üreticisi Hill's Pet Nutrition, Amerikan Veterinerler Birliği'nin en büyük sponsorudur. Başka bir önerme ise veterinerlerin genel olarak beslenme ve özellikle de çiğ et diyeti konusunda yeterince bilgiye sahip olmadığıdır. Veterinerlik eğitimi alan öğrenciler sık sık, sponsorluğu ticari mama üreticileri tarafından yapılan besin eğitimlerine tabi tutulurlar. The Wall Street Journal, Hill's şirketinin Amerika Birleşik Devletleri'nde eğitim veren 27 Veterinerlik Bölümünün her birinde besin konusunda yapılan araştırmalara ve özel eğitimlere yüz binlerce dolar harcadığını ve veterinerlerin Science Diet ve muayenehanelerinden satılan diğer ticari mamalardan %40'a varan oranda komisyon aldıklarını yazmıştır. Çiğ et taraftarları sözü geçen çıkar çatışmasından ötürü veterinerlerin sattıkları ticari mamaları savunmada öne sürdükleri argümanlara şüpheyle yaklaşmaktadırlar.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karşılaştırmalı üstünlükler</DOCTITLE>
+<TEXT>
+
+İktisat biliminde karşılaştırmalı üstünlükler teorisi bir grubun bir malı göreceli olarak daha az maliyetle üretebildiği bir durumda ticaretin ticaret yapan iki taraf için de nasıl faydalı olacağını anlatır. Önemli olan üretimdeki mutlak maliyetler değil fakat fırsat maliyetidir. Karşılaştırmalı üstünlükler modern uluslararası ticaret teorisinin anlaşılabilmesi için önemlidir.
+Mutlak üstünlük'te bir ülke diğer bir ülkeyle kıyaslandığında birim girdi başına daha fazla çıktı üretir. Karşılaştırmalı üstünlüklerin mevcut olduğu durumda, eğer bir ülke her türlü çıktı üretiminde mutlak (dez)avantaja sahipse, diğer ülke bazı malların üretiminde uzmanlaşarak bu malları ihraç edebilir.
+Örnekler.
+Aşağıdaki örnekler teorinin mantığını kavramada yardımcı olabilir.
+Örnek 1.
+İki adam bir adada tek başlarına olsunlar. Hayatta kalmak için su taşıma, balık avlama, yemek pişirme ve ev inşa etme gibi bazı ekonomik aktiviteleri gerçekleştirmek zorundadırlar. Birinci adamın genç, güçlü ve eğitimli olduğunu, aynı zamanda her türlü işte daha hızlı, daha iyi ve daha üretken olduğunu varsayalım. Bu adam her türlü aktivitede mutlak üstünlüğe sahiptir. İkinci adamın yaşlı, güçsüz ve eğitimsiz olduğunu kabul edelim. Bu adam ise her türlü ekonomik aktivitede mutlak dezavantaja sahiptir. Bazı aktivitelerde iki adam arasındaki farkın çok büyük bazılarında ise küçük olduğunu varsayalım.
+Birbirlerinden ayrı ayrı çalışmaları faydalarına olur mu? Hayır. Uzmanlaşma ve takas (ticaret) her ikisinin de faydasına olacaktır.
+O zaman çalışmalarını nasıl bölüşeceklerdir? Karşılaştırmalı üstünlükler teorisine göre (mutlak üstünlük değil), genç adam hangi işlerde daha iyiyse o işlere daha fazla zaman ayıracak, yaşlı adam ise genç adama göre biraz daha kötü olduğu işler üzerinde yoğunlaşacaktır. Bu tarz bir düzenleme toplam üretimi artıracak ve/veya toplam işgücünü azaltacaktır. Ticaret, ikisini de daha zengin yapacaktır.
+Örnek 2.
+A 100 P1 ve 100 P2 İhtiyaç duyuyor
+B 100 P1 ve 100 P2 İhtiyaç duyuyor
+A: Ticaret Yok
+B: Ticaret Yok
+A Ticaret İle: 56 P2 için 100 P1
+B Ticaret İle: 100 P1 için 56 P2 
+Bu sayede A 120 birim maliyet veya 4% ve B 100 birim maliyet veya 2.5% tasarruf etti.
+Açıkça görüldüğü üzere A ticaretten daha kazançlı çıktı fakat iki taraf da büyüdü. Eğer B P1 üreticilerini korumak için vergi koymaya kalkarsa ticaretten daha fazla pay elde edebilir fakat tasarrufları azalır. 
+Örnek 3.
+Eşit büyüklükte iki ülke olduğunu varsayalım, Kuzeyistan ve Güneyistan. Her ikisi de iki mal üretsin ve tüketsin, Besin ve Kumaş. Eğer her iki ülke de tüm üretken kapasitelerini ve kaynaklarını Besin üretimi için kullanırlarsa çıktı miktarları aşağıdaki gibi olur:
+Tersine her iki ülke de tüm kaynaklarını Kumaş üretiminde kullanırlarsa çıktı miktarı şöyle olur:
+Her iki ülkenin de iki mal arasında sabit fırsat maliyetlerine sahip olduğunu ve her iki ülkenin de tam istihdam durumunda olduğunu varsaymamaız gerekir.Aynı zamanda üretim faktörlerinin ülke içinde sektörler arası akışkanlığının tam, ülkeler arasında bu akışkanlığın sıfır olduğunu da varsaymamız gerekir. Son olarak fiyatların tam rekabet koşullarında belirlendiği varsayılmalıdır. 
+Güneyistan Besin üretiminde mutlak üstünlüğe sahiptir ve ülkeler Kumaş üretiminde eşit derecede üretkendirler. Sezgisel olarak ticaretin iki ülke için karşılıklı yarar sağlamayacağı düşünülebilir. Fakat fırsat maliyetlerinin incelenmesi farklı bir sonucu gözler önüne serer. Kuzeyistan için 1 ton Besin üretmenin fırsat maliyeti 1 ton Kumaştır. Fakat Güneyistan için bu maliyeti 0,5 tondur (1 ton Kumaş üretmenin fırsat maliyeti ise 2 ton Besindir.).
+Bu şekilde ele alındığında Güneyistan, Kuzeyistan'a göre daha düşük olan fırsat maliyeti nedeniyle Besin üretiminde karşılaştırmalı üstünlüğe sahiptir. Kuzeyistan ise Kumaş üretiminde karşılaştırmalı üstünlüğe sahip olacaktır.
+Farklı fırsat maliyetleri ülkelerin uzmanlaşıp ticaret yaptıkları durumda çift taraflı fayda kazançlarına yol açacaktır. Aşağıdaki başlangıç durumunu ele alalım. İki ülke de sadece yerel olarak üretim ve tüketim yapsın. Bu durumda üretim ve tüketim hacimleri şöyle olacaktır:
+Şimdi iki ülke arasındaki ticaretin sonuçlarını inceleyelim. Bu örnekte Besin ve Kumaşın uluslararası döviz kurunu belirleyen tüketici tercihlerinin herhangi bir formülasyonu yoktur. Fakat verili üretim olanakları altında ticaretin yaralı olabilmesi için Kuzeyistan 1 ton Besin karşılığında en az 1 ton Kumaş, Güneyistan ise 1 ton Kumaş karşılığında en az 2 ton Besin gibi bir fiyat isteyecektir. Buradan da şu sonuç çıkar, döviz kuru bu iki değer arasında gerçekleşecektir. Bu noktadan sonra uluslararası ticaret fiyatının 1 ton Besin için 2/3 ton Kumaş olduğu varsayılacaktır.
+Eğer her iki ülke de karşılaştırmalı üstünlüğe sahip oldukları malların üretiminde tam olarak uzmanlaşırlarsa çıktı miktarları şöyle olacaktır:
+Dünya Besin üretiminin arttığına, Kumaş üretiminin ise sabit kaldığına dikkat edin. 1 ton Besin için 2/3 ton Kumaş döviz kurunu kullanarak Kuzeyistan ve Güneyistan aşağıdaki tüketim imkânına ulaşmak için ticaret yaparlar:
+Kuzeyistan 75 ton Besin için 50 ton Kumaş ticareti yapmıştır. Her iki ülke de kazançlı çıkmıştır. Bu sayede ülkeler kendi üretim olanakları eğrilerinin dışındaki bir noktada tüketim yaparlar.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Besin Kirliliği  (EBA)</DOCTITLE>
+<TEXT>
+
+İnsan faaliyetleri sonucu oluşan ve çevre kirlenmesine neden olan zararlı maddeler canlılara iki farklı şekilde etki eder. Bunlardan ilki, canlıların yaşam ortamının zararlı maddelerle kirlenmesi ve doğrudan zararlı madde ile temas edilmesi, ikincisi ise zararlı maddelerle etkileşime girerek kirlenen besinlerin tüketilmesidir. 
+Güvenli (sağlıklı) gıda, besleyici değerini kaybetmemiş, fiziksel, kimyasal ve biyolojik açıdan temiz, bozulmamış besinlerdir. Sağlığa zarar verecek ortamlardan korunmak için yapılacak uygulamalar ve alınan temizlik önlemlerinin tümü hijyen olarak tanımlanır. 
+Besinlerin bozulması genellikle insan tüketimine elverişli olmaktan çıkması anlamına gelir. Besinlerin bu hâli insan sağlığı açısından tehlikeli durumlara neden olabilir. Güvenilir besinin elde edilebilmesi için üretimden tüketime kadar geçen her aşamada besinin çeşitli kaynaklardan kirlenmesinin önlenmesi gerekir. Besin kirlenmesine neden olan faktörlerin listesini yapmak oldukça zordur çünkü sofralarımıza gelene kadar geçen süreçte besinin doğal yapısını bozan her şey kirletici olarak isimlendiriliyor. 
+Besinler nasıl kirleniyor? 
+Sayamayacağımız birçok farklı etkenle kirlenen besinler kirlenme şekillerine göre fiziksel, kimyasal ve biyolojik olarak sınıflandırılır. 
+a. Fiziksel Kirlenme 
+Fiziksel kirlenmeye besin olmayan yabancı maddeler, cam, metal parçaları, saç, tırnak, böcek ve sinek benzeri canlılar neden olur (Resim 252). 
+b. Kimyasal Kirlenme 
+Besinlere çeşitli kaynaklardan geçen ya da bilinçli bir şekilde dışarıdan eklenen kimyasal maddelerin tamamı kimyasal kirlenmeye neden olur. Besinin içinde saklandığı kaptan çözünme sonucu geçen metaller, tarım ilaçları, iyi durulanmayan kaplardan geçen deterjanlar, besin ambalajında kullanılan renkli plastikler, önerilen miktarların üzerinde kullanılan gıda katkı maddeleri kimyasal kirleticiler arasında yer alır (Resim 253). 
+Gıda Terörü 
+Hepimiz haberlerde “gıda terörü” terimi ile karşılaşmışızdır. İlgi çekici olan bu terim, daha ucuz besin üretimiyle daha fazla para kazanmak için gıdanın içine insan sağlığına da zarar verecek nitelikteki maddelerin katılması ya da yiyeceklerin kimyasal işleme tabi tutulması anlamına geliyor. 
+Türkiye’de gıda terörüne neden olan sahte gıda piyasası olukça gelişmiş durumda. Bu durumdan korunmanın ilk yolu, besin tüketimi konusunda bilinçli olmaktan geçiyor. Alışveriş yaparken aldığımız gıdalara bir de bu gözle bakmakta fayda var (Resim 254). 
+Yediğimiz kaşar peynir, tarihi geçmiş, küflenmiş peynirden yapılmış olabilir mi? Salam, sucuk ve sosisler aslında hayvan derisi ve sakatattan yapılmış olabilir mi? Yemeğimize lezzet veren baharatların içinde ot ve saman olabilir mi? Tavuk döner mi yoksa deri, bağırsak ve sakatattan yapılan sahte döner mi? Bu soruların cevabına besinlere bakarak cevap vermemiz kolay görünmüyor. Ancak tükettiğimiz besinlerin Gıda, Tarım ve Hayvancılık Bakanlığı tarafından denetleniyor olmasına dikkat etmemiz gerekiyor. 
+c. Biyolojik Kirlenme 
+Besinlerin doğal olarak ürettiği zehirli maddelerin (toksin) ve mikroorganizmaların neden olduğu besin kirliliğidir. Besinin bileşiminde doğal olarak bulunan zehirli maddeler (yeşillenmiş ve filizlenmiş patates, zehirli bal, bazı mantar türleri vb.), hijyenik koşulların yeterince sağlanamaması nedeniyle hızla üreyen mikroorganizmalar (küfler, parazitler, bakteriler) biyolojik kirlenmeye neden olan etmenlerdir (Resim 255, Resim 256). Mikroorganizmalar içerisinde besin güvenliğini tehdit eden ve besin zehirlenmelerine en fazla yol açan etmenler bakterilerdir. 
+Besinlerinizin bozulmaması için saklama süreleri ve sıcaklık değerleri önemlidir. Tablo 6’da görüldüğü gibi her besinin kendine özgü saklama değerleri vardır. Bu sürelerin ve sıcaklıkların dışında saklanan besinler insan sağlığına zarar verebilir. 
+Besin Kirleticilerinin Canlılar Üzerindeki Etkisi: Gıda Zehirlenmesi 
+Genellikle gıdalarda doğal olarak bulunan ve sayıca az olan bakteriler, üreme için kendilerine uygun ortam bulduklarında çok hızlı bir şekilde çoğalabilirler. Örneğin tek bir bakteriden uygun koşullarda, 7 saat içinde 2 milyondan daha fazla bakteri üreyebilir. Sayısı artan bu bakteriler toksik (zararlı) madde de salgılayabilir. Besinlerin yapısındaki bu değişiklik “gıda zehirlenmesi” olarak adlandırılan enfeksiyon hastalıklarına neden olur. Gıda zehirlenmesi genellikle hafif geçirilmekle birlikte ölümcül de olabilen yaygın bir hastalıktır. 
+Gıda zehirlenmesi genellikle 1-3 gün sürer ancak bakterinin türüne, enfeksiyonun şiddetine ve genel sağlık durumuna bağlı olarak bir haftaya kadar devam edebilir (Resim 257). Pek çok insan bir hafta içinde tamamen iyileşir. En yaygın görülen belirtiler kusma, karın ağrısı ve ishaldir. Bazı durumlarda ateş ve üşüme, kanlı dışkılama, kas ağrıları, hâlsizlik ve bitkinlik de görülebilir. Tablo 7’de gıda zehirlenmelerine neden olan bazı bakteri türleri ve sebep oldukları zehirlenme belirtileri verilmiştir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Antioksidan</DOCTITLE>
+<TEXT>
+
+Antioksidan veya yükseltgeme önleyici, yağların otoksidasyonunu yavaşlatan madde. Canlılarda, kimyasal süreçler (prosesler), özellikle oksitlenme, serbest radikallerin oluşmasına neden olur. Yüksek derecede reaktif olan serbest radikaller farklı moleküller ile kolayca reaksiyona girebilir ve böylece hücrelere, canlıya zarar verebilir. Antioksidanlar serbest radikallerle reaksiyona girerek (onlarla bağ kurarak) hücrelere zarar vermelerini önler. Bu özellikleriyle hücrelerin anormalleşme ve sonuç olarak tümör oluşturma risklerini azalttıkları gibi, hücre yıkımını da azalttıkları için, daha sağlıklı ve yaşlılık etkilerinin minimum olduğu bir hayat yaşama şansını yükseltir.
+Antioksidanların tarihi.
+Sentetik antioksidanların gıdalardaki kullanımı 1940'lı yıllarda BHA ve gallik asidin esterlerinin oksidasyonu önlediklerinin anlaşılmasıyla başlamıştır. Demir ve bakır gibi geçiş metallerinin zararlı etkileri sitrik asit (CA), etilendiamintetraasetikasit (EDTA) veya onların türevlerine metal deaktivatör veya şelat ajanı olarak etki ettikleri ondan sonra bulunmuştur. 1954'te ABD'de BHT'nin gıdalarda kullanılmasına müsaade edilmiştir. Tersiyer bütil hidrokinon (TBHQ) 1972'de ticari ölçüde kullanılmaya başlamıştır. Sentetik antioksidanların muhtemel karsinojenik etkileri büyüyen bir tepkiye neden olmaktadır. Böylece Japonya ve çok sayıdaki diğer ülke BHA'nın gıdalarda kullanılmasına izin vermemektedir. TBHQ'nun da Kanada, Japonya ve Avrupa ülkelerinde kullanımına izin verilmemektedir. Bu yüzden sentetik antioksidanların yerine doğal antioksidanların kullanımı için genel bir istek mevcuttur.
+Antioksidan türleri.
+Antioksidan özelliği keşfedilen birçok farklı madde vardır. Bu maddelerin bir kısmını diyetimizde (özellikle bitkilerden) alırken, bir kısmını vücut kendisi, serbest radikallere karşı bir savunma sistemi olarak üretir. Vücudun serbest radikallere karşı savunma olarak ürettiği antioksidanlar; katalaz, glutatyon peroksidaz, ve SOD (superoksit dismutaz) gibi enzimlerdir.
+Vücuda doğal besinlerden alınan antioksidanların dışında, son yıllarda bir antioksidan ihtiva eden çok diyet takviye ürünü ve krem çıkmıştır. Her ne kadar şu ana kadar ciddi yan etkiler, olumsuz sonuçlar veya toksisiteler görülmemiş olsa da uzun dönemde bu tür diyet takviye ürünleri ve kremlerin nasıl sonuçlar veya yan etkiler doğurabileceği kesin değildir. Şu da unutulmamalıdır ki, antioksidanlar kanser ve yaşlılık etkilerinin risklerini azaltmakta önemli de olsalar, "sihirli iksir" değildirler.
+Antioksidan, oksit giderici her türlü kimyasal maddeye verilen addır, sadece biyolojik sistemlerde kullanılmazlar. Kimyasal işlemlerde ve endüstride kullanılan birçok farklı antioksidan vardır.
+Antioksidanların gıdalardaki fonksiyonu.
+Belirli bir bileşik, bileşiklerin karışımı veya böyle bileşikleri içeren doğal kaynaklı antioksidanların aktivitesi serbest radikalleri tutabilme, onları bozundurabilme veya singlet oksijeni yakalayabilme kabiliyetlerine veya öteki bileşikleri sinerjist veya metal şelatlar olarak etkilemelerine bağlıdır. Doğal kaynaklı antioksidanlar çok defa çok sayıdaki bileşiğin kombinasyonu olarak bir arada bulunur. Böylece doğal kaynaklı antioksidanların elde edildiği kaynağa bağlı olarak etki şekilleri değişik olabilir ve çok sayıda mekanizma iştirak edebilir.
+Gıda katkısı olarak antioksidanlar.
+Birçok gıdada ürünü oluşturan bileşikler ile havanın oksijenleri arasında kendiliğinden ortaya çıkan ve otoksidasyon adı verilen tepkimeler oluşur. Her zaman az ya da çok hissedilebilir kalite düşmelerine neden olan bu tür tepkimeler gıda endüstrisi açısından istenmeyen olaylardır. Burada sözü edilen kalite düşmesi renk, koku ve tatta meydana gelen değişmeler ile bazı besin öğelerindeki parçalanmalar ve hatta toksik bileşik oluşturması biçiminde ortaya çıkmaktadır. Yağ ve yağlı gıdalardaki otoksidasyon olayı, hem beslenme fizyolojisi açısından hem de teknolojik-ekonomik açıdan büyük önem taşımaktadır. Otoksidasyonun fiziksel ve teknolojik yöntemlerle önlenemediği durumlarda antioksidan ve sinerjistler kullanılmaktadır. Sinerjistler antioksidan etkisini arttıran maddelerdir.
+Antioksidan grubu katkı maddeleri, sanayide bitkisel ve hayvansal yağ içeren maddelerin üretimi, depolanması, taşınması ve pazarlanması sırasında meydana gelecek otoksidasyondan kaynaklanan zararları önlemede en önemli katkı maddeleridir. Antioksidanlar gıdalarda meydana gelebilecek bozulma ve acımayı da engeller. Bunların önemli özellikleri, ortamda pek az miktarda, binde ve hatta on binde bir oranında bile bulunsalar etkin olmalarıdır. Yağlarda doğal olarak bazı antioksidanlar bulunduğu gibi, yapay olarak elde edilen belirli maddeler de bu işi görür. Doğal antioksidanların en fazla dağılmış ve en iyi bilinenleri tokoferollerdir. En çok kullanılan yapay antioksidanlar ise fenollü olanlardır.
+Antioksidanlar, diğer stabilizatörler gibi düşük kaliteli gıda maddesinin kalitesini arttırmaz ve gıdalara herhangi bir yabancı tat ve koku vermez. Ancak bu maddeler, iyi kalitede ham madde, uygun bir imalat tekniği, elverişli ambalajlama ve depolama yöntemleri ile birlikte kullanıldığı ürünün kalitesini korur. Bu maddeler ayrıca, gıdalardaki oksidasyon sorunlarını da ortadan kaldırır. Yağların acılaşmasının bir süre önüne geçen antioksidanlardan başka, yağ bulunmayan besin maddelerinde renk ve kokuları koruyan maddeler de bilinmektedir. Buna karşılık antioksidan özelliği yüksek fakat zehirleyici oluşlarından besin maddelerinde kullanılmayan antioksidanlar da vardır. Bir antioksidanın, besin maddelerinde kullanılmadan önce, sağlığa zararı olmadığı kesin olarak saptanmış olmalıdır. Ayrıca kullanılan antioksidanın adı ve miktarı besin maddesinin etiketinde yazılı olmalıdır.
+İyi bir antioksidan aşağıdaki özellikleri taşımalıdır:
+Gıdalardaki oksidasyonu inhibe eden doğal olarak oluşan maddelerin orjinleri bitki esaslı ingredientlerdir. Belki de kimyasal değişmeler sonucunda üretilir (örneğin Maillard reaksiyonunun ürünleridir) veya gıda olmayan ingredientlerden ekstrakte edilir. Tavuk gibi hayvanların kaslarında kelat ve serbest radikalleri tutma özelliğine sahip olan bir dipeptit olan carnosine gibi doğal antioksidanları ihmal etmemek gerekir.
+En aktif antioksidanlar fenolik ve polifenolik bileşiklerdir. Gıdalarda bulunan fenolik bileşikler fenilpropanoid sınıfı bileşiklerine aittir ve sinnamik asitten türer. Bu bileşikler fenilalanin ve daha az oranda (bazı bitkilerde) tirosinden fenilalanin liaz ve tirosin liazın etkisiyle oluşur. C6-C3 bileşiklerinin malonil koenzim A ile etkileşmesi chalconların oluşmasına götürür ki akabinde asidik ortamda halka meydana gelmesi ile flavonoidler ve isoflavonoidler meydana gelir.
+Tokoferoller, karotenoidler ve vitamin C de bitkilerde olduğu kadar hayvansal dokularda geniş çapta bulunan öteki grup bileşiklerdir. Gıdalardaki antioksidanların rolleri oksidasyonu geciktirmek veya kontrol etmektir. Oksidasyon prosesi ve gıdalarda acılaşmanın gelişmesi serbest radikal zinciri mekanizmasına göre başlangıç, tetikleme ve sonlanma adımlarından müteşekkildir. Başlangıç adımında radikaller üretilir ve tetikleme adımında doymamış yağ asitlerinden en az enerji isteyen yerlerden allilik veya diallilik durumdaki hidrojeni çekerek reaksiyona girer. Tetikleme safhasındaki reaksiyonlar zincirleme şeklinde sonlanma reaksiyonlarına kadar devam eder.
+Otoksidasyona ilaveten gıdalardaki lipitlerin kalitesi fotooksidatif şartlar altında, lipoksijenazın kolaylaştırdığı prosesler sayesinde veya termal şartlarda (besinlerin kızartılmaları esnasında) zarara uğrar (bozunur). Gıdaların oksidasyonu sonucu oluşan besinlerin çoğu oluşma şartlarına bağlı olmaksızın tabiatıyla birbirine benzerdir. Bu yüzden bütün oksidasyon prosesleri gıda lipitlerinin bozunmaması ve istenmeyen tat ve kokunun oluşmaması için kontrol edilmelidir.
+Antioksidanların sistem ve hidrofobiyete bağımlılığı.
+Farklı antioksidanların değişik oksidasyon şartları altında değişik lipid sistemlerindeki aktiviteleri üzerinde çok sayıda araştırma yapılmıştır. Porter, yüzeyi miktarına göre düşük (kütle yağ) gıda sistemlerinde PG, TBHQ ve Trolox C gibi yüksek hidrofilik-lipofilik balanslı (HLB) polar antioksidanların BHA, BHT ve tokoferoller gibi lipofilik antioksidanlardan daha etkili olduklarını ileri sürmüştür. Aksine yüzey alanının hacme oranı yüksek gıdalarda (yağın sudaki emülsiyonları gib) düşük HLB'li lipofilik antioksidanlar yüksek etkilidir. Trolox C (6-hidroksi-2,5,7,8-tetrametilkroman-2-karboksilikasid)'nin antioksidan aktivitesi α-tokoferole göre kütle halindeki yağlar için daha iyiyken, yağ-su sistemlerinde bu ikincisi daha iyidir.
+Gıdalardaki doğal antioksidanlar.
+Hem epidemiolojik hem de klinik çalışmalar tahıl, meyve ve sebzelerdeki fenolik antioksidanların soya fasulyesi gibi belirli gıdalarca zengin diyetlerle beslenenlerde görüldüğü gibi dejeneratif ve kronik hastalıkların şiddetini azalttıklarına dair deliller bulmuştur. Birçok gıdalarda bulunan doğal antioksidanlar komposite gıdalarda stabilizatör olarak kullanılabildikleri gibi ekstakte edilerek diğer gıdalara da katılabilir. Örneğin yulaf ve amaranth yağı tokoferoller ve squalen gibi antioksidanları yüksek miktarlarda içerir. Bu yağlar belirli öteki yağlara ilave edilerek onları stabilize eder. Çay, rosemary ve adaçayı çeşitli gıdalarda oksidasyonu kontrol etmek amacı ile kullanılabilir. Karışık tokoferoller kadar tokoferollerin lesitin ve askorbik asit ile kombinasyonları büyük miktarlardaki yağların, emülsiyonların ve öteki ürünlerin oksidasyonlarını geciktirmek amacıyla kullanılabilir.
+Baharat ve otlar.
+Baharat ve otlar, çok eski zamanlardan beri lezzet artırıcı maddeler olarak kullanılmasına rağmen antioksidan aktiviteleri ilk defa 1943'te Dubois ve Tressler tarafından açıklanmıştır.
+Çay ve çay ekstraktları.
+Çay, polifenolleri yüksek miktarda içeren ender maddelerden biridir. Yeşil çay yaprakları kuru bazda %36 oranında polifenolleri içermektedir. Kateşin ve epigallokateşin yeşil çayda çok bulunan polifenollerdir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekosistem</DOCTITLE>
+<TEXT>
+
+Ekosistem, belirli bir alanda bulunan canlılar ile bunları saran cansız çevrelerinin karşılıklı ilişkileri ile meydana gelen ve süreklilik arz eden ekolojik sistemlere ekosistem denir. Ekosistem aynı zamanda bir besin ağı ile şekillenmektedir. Ekosistem, küresel ölçekte bir düzeni ifade etmekle beraber yerel ve korunaklı bir sistemin varlığına da atıfta bulunabilir. Örneğin eğer söz konusu ekosistem bir tarım alanı içinde gelişiyorsa buna agroekosistem adı verilir. 
+Karşılıklı olarak madde alışverişi yapacak biçimde birbirlerine etki yapan organizmalarla (biyotik), bitki ve hayvanların birbirine eklemlendiği ve ayrıca kaya, toprak gibi fiziksel çevre faktörlerinin (abiyotik) bir arada bulunduğu herhangi bir doğa parçası bir ekosistemdir. 
+Ekosistem yaklaşımı, bireysel organizmalar ya da topluluklardan çok tüm alanın işlevlerinin nasıl olduğuyla ilgilenir. Bir alandaki organizmalar ve cansız çevreleriyle olan ilişkilerine bakar. Bir ekosistem, temel olarak abiyotik maddeler, üreticiler, tüketiciler ve ayrıştırıcılardan oluşur. Ekosistemlerde yaşam, enerji akışı ve besin döngüleriyle sürer. Açık bir sistem olan ekosistemde, enerji ve besin giriş-çıkışı süreklidir. Sistem kuramı, ekolojik bakış açısının sosyolojik boyutunu ele almaktadır. Ayrıca sibernetik disiplini, canlılarda kontrol ve iletişim boyutuyla kaynağını yine ekosistemde bulmaktadır. 
+Bir ekosistemin dört temel bileşeni vardır. Üreticiler ototroflar, tüketiciler (heterotroflar), ayrıştırıcılar (saprofitler) ve doğal çevre. İlk üç bileşen, dördüncü bileşenin oluşturduğu cansız doğa içinde varlıklarını sürdüren canlı yaşamı kapsar. Cansız doğal çevre ile bu çevre içinde yaşamlarını sürdüren canlılar arasındaki ilişkileri ve etkileşimleri inceleyen bilim dalına ekoloji adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>D.	Madde Döngüleri (EBA)</DOCTITLE>
+<TEXT>
+
+Güneş, ekosistemlere enerji sağlar, ancak yaşam için ihtiyaç duyulan su ve diğer kimyasal maddelerin kaynağı dünyamızdır. Bundan dolayı yaşamın sürdürülebilmesi bu maddelerin atmosfer, hidrosfer, litosfer ve biyosfer arasında bir döngü oluşturacak şekilde dolaşımına bağlıdır. Madde döngülerinin biyolojik, kimyasal ve jeolojik etkileri vardır. Ancak insanların olumsuz etkileri sonucunda döngülerin bozulması, canlı öğelerin yaşamını tehlikeye sokar.
+Ekosistemlerde yaşam, enerji akışı ve madde döngüleriyle devamlılık kazanır. Bir ekosistemin doğal dengesini koruyabilmesi ve varlığını sürdürebilmesi için madde ve enerji döngüsü ile tüketilen maddelerin yeniden üretim için ekosisteme geri dönmesi şarttır.
+Madde döngüsü, inorganik maddelerin, sürekli olarak cansız ortamdan alınıp canlı unsurlar arasında aktarıldıktan sonra cansız ortama tekrar verilmesi şeklinde çalışır.
+Ekosistemlerde madde varlığı sınırlıdır ve yerine konmadığı takdirde tükenmeye mahkûmdur. Madde döngüsünün enerji akışından farkı, ekosistemin içinde sürekli devir yapmasıdır.
+1.	Karbon Döngüsü
+Karbon atomları, canlı dokularını meydana getiren birleşikleri oluşturması nedeniyle tüm yaşamın temel taşıdır.
+Aşağıdaki şemada görüldüğü gibi canlıların temel yapısını oluşturan karbon; atmosferde karbondioksit (C02), suda karbondioksit ve bikarbonat hâlinde bulunur. Karalarda ise karbon, kömür, doğal gaz, petrol, kireç taşı içerisinde yer alır.
+DOĞADA KARBONÜN DÖRT BÜYÜK KAYNAĞI - Kara (Litosfer), Atmosfer, Su (Hidrosfer), Canlılar (Biyosfer)
+Karbonun büyük bir kısmı karbondioksit şeklinde bulunur. Karbondioksitten çıkan karbon, fotosentez için çok önemlidir. Karbondioksit günlük ve mevsimlik sıcaklıkların aşırı yükselmesi ve düşmesine engel olur.
+Denizler ile atmosfer arasındaki karbon alışverişi çok yavaştır. Bu daha çok deniz yüzeyinin ilk 100 metresinde meydana gelir. Karalardan erozyon yolu ile taşınan organik ve inorganik maddeler vasıtasıyla da denizlere karbon gelir. Karalardan erozyon yolu ile gelen ve kabuklu deniz hayvanlarından oluşan organik karbon, karbonat ve bikarbonatlarla birlikte deniz tabanlarındaki tortullarda birikir. Bu karbonat belki binlerce yıl döngüye katılmaz. Bu nedenle okyanuslar ve denizler karbonun depolandığı yerlerdir. Denizler atmosfere oranla 50 kat fazla karbon içerdiklerinden, karbon akışını düzenleyen en önemli kaynaklardandır.
+Karbon döngüsü atmofer, litosfer, biyosfer ve hidrosfer arasında gerçekleşir. Döngü bozulmadığı sürece karbon oranında önemli değişiklikler meydana gelmez. Aşağıdaki şekilde karbon döngüsü gösterilmiştir (Şekil 7).
+Şekil 7: Karbon döngüsü
+Karbondioksit Tüketimi:
+Kara ve deniz bitkileri tarafından fotosentezde kullanılır.
+Deniz hayvanlarının kabuk oluşumunda kullanılır.
+Deniz hayvanlarının ve bitkilerinin ölümü ile dibe çöker ve karbonatlı kayaçlar hâlinde depo edilmesi ile tüketilir.
+Ölen canlıların bünyesindeki karbon zamanla basıncın etkisiyle petrol ve kömür gibi fosil yakıtlara dönüşür.
+Karbondioksitin Açığa Çıkması:
+Canlıların solunumları ile doğaya döner.
+Ölen canlıların çürümesi ve orman yangınları sonucu doğaya döner.
+Karbonatlı kayaçların, fiziksel ve kimyasal yollarla ayrışması sonucunda havaya yayılır.
+Suyun hava ile temas yaptığı yüzeyde karbon alışverişi gerçekleşir. Burada COz akışı, su yüzeyinden atmosfere ve atmosferden suya doğru iki yönde gerçekleşir.
+Atmosferdeki C02 miktarı bellidir. Tüketilen miktarda C02 sürekli olarak atmosfere dönmemiş olsaydı fotosentez giderek azalacak ve neticede bitkilerin organik madde üretmelerine imkân kalmayacaktı. Bunun sonucunda besin zinciri yaklaşık 35 yıl gibi kısa bir süre sonunda duracak ve yeryüzünde hayat sona erecekti.
+2.	Oksijen Döngüsü
+Canlıların aldıkları besinleri enerjiye dönüştürebilmeleri için oksijen gereklidir. Atmosfer % 21 oranında oksijen içerir. Sularda da oksijen çözünmüş olarak bulunmaktadır. Oksijen atmosferde, atomik oksijen (O), moleküler oksijen (Os) ve ozon (Os) olmak üzere üç şekilde bulunur. Moleküler oksijen solunum için gereklidir. Moleküler oksijen litosferdeki en yaygın elementtir. Çok reaktif bir gaz olduğu için hidrojen, sülfür, karbon, fosfor gibi birçok elementle birleşir. Ozon, biyosferi ultraviyole ışınlarının zararından korur.
+Atmosfere oksijen sağlayan en önemli kaynaklardan biri klorofilli canlıların fotosentez süreci sırasında meydana getirdiği oksijendir. Diğer bir oksijen kaynağı da, yerden belli bir yükseklikteki atmosferde bulunan sudur. Bu suyun fotolizi (suyun ışık yardımıyla oksijen ve hidrojene ayrışması) ile oksijen açığa çıkmaktadır (Şekil 8).
+Oksijen, solunum sırasında; kömür, gaz, petrol gibi maddelerin yanmasında ve organik maddelerin oksidasyonunda (besin maddelerinin yakılmasında) tüketilir.
+Atmosferin içerdiği oksijen miktarında bugüne kadar ölçülebilir bir değişiklik olmamıştır. Buna göre tüketilene eşit miktarda oksijen atmosfere iade edildiği, bu suretle oksijen döngüsünün denk kapandığı söylenebilir.
+3. Azot (Nitrojen) Döngüsü
+Canlılar için önemli bir madde olan azot, protein ve DNA’ nın bileşenlerindendir. Azot, topraktaki verimi büyük ölçüde etkiler.
+Azotun esas kaynağı atmosferdir. Atmofer % 78 oranında azot (N2) içerir. Fakat atmosferde serbest bulunan azot organizmalar tarafından doğrudan kullanılmaz. Azotun bitkiler tarafından kullanılabilmesi için bazı süreçlerden geçerek nitrit ve nitratlara dönüştürülmesi yani bağlanması gereklidir. Aşağıdaki şekilde azot döngüsü gösterilmiştir (Şekil 9).
+Doğada Azotun Dolaşımı
+Atmosferde yıldırım ve volkanik faaliyetler sırasında ortaya çıkan elektrik deşarjları sonucunda azot, oksijen ile birleşerek nitrit ve nitratlara dönüşür. Nitratlar, yağışlarla toprağa girerek bitkiler tarafından kullanılır.
+Azotun bağlanması topraktaki bazı bakteriler tarafından gerçekleştirilir. Bu bakteriler ölmüş canlıların yapılarındaki organik maddeleri parçalayarak bunları nitrata çevirir.
+Toprakta ve bazı bitkilerin köklerinde bulunan azot bağlayıcı bakteriler sayesinde bitkiler nitratları alır ve yapılarına katar.
+Azot, besin zinciri ile bitkilerden otçullara otçullardan da etçillere geçer.
+Ölen bitki ve hayvanlar, ayrıştırıcılar tarafından parçalanır. Mikroorganizmalar azotu nitrit ve nitrata dönüştürür ve böylece azot döngüye katılmış olur.
+
+</TEXT>
+</DOC>
+

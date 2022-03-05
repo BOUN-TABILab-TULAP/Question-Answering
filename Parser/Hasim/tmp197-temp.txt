@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnsani insani+Adj
+gelişim gel+Verb+Pos^DB+Noun+Inf3+A3sg+P1sg+Nom gel+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg gelişim+Noun+A3sg+Pnon+Nom
+endeksini endeks+Noun+A3sg+P2sg+Acc endeks+Noun+A3sg+P3sg+Acc
+hangi hangi+Adj
+topluluk topluluk+Noun+A3sg+Pnon+Nom
+hazırlar hazır+Adj^DB+Verb+Zero+Pres+A3pl hazır+Adj^DB+Noun+Zero+A3pl+Pnon+Nom hazırla+Verb+Pos+Aor+A3sg hazırla+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

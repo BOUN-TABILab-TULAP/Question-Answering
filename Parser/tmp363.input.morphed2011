@@ -1,0 +1,56 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Birim	bir	+Num+Card^DB+Verb+Zero+Pres+A1sg
+Birim	bir	+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+Birim	bir	+Num+Card^DB+Noun+Zero+A3sg+P1sg+Nom
+Birim	bir	+Adj^DB+Verb+Zero+Pres+A1sg
+Birim	bir	+Adj^DB+Noun+Zero+A3sg+P1sg+Nom
+Birim	birim	+Noun+A3sg+Pnon+Nom
+Birim	Birim	+Noun+Prop+A3sg+Pnon+Nom
+
+alan	al	+Verb+Pos^DB+Adj+PresPart
+alan	ala	+Noun+A3sg+P2sg+Nom
+alan	ala	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+alan	alan	+Noun+A3sg+Pnon+Nom
+
+ya	ya	+Conj
+ya	ya	+Interj
+
+da	da	+Conj
+
+hacimdeki	hacim	+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+birey	birey	+Noun+A3sg+Pnon+Nom
+
+sayısına	sayı+Noun+A3sg+P3sg+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

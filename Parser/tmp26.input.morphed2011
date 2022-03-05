@@ -1,0 +1,39 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Amerikanın	amerikan	+Noun+A3sg+P2sg+Nom
+Amerikanın	amerikan	+Noun+A3sg+Pnon+Gen
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+büyük	büyük+Adj
+
+ovası	ov	+Verb+Pos^DB+Adj+FeelLike
+ovası	ov	+Verb+Pos^DB+Noun+FeelLike+A3sg+Pnon+Nom
+ovası	ova	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+ovası	ova	+Noun+A3sg+P3sg+Nom
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

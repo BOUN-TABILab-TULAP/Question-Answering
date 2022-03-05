@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bitkilerde bitki+Noun+A3pl+Pnon+Loc
+birden bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Abl bir+Adj^DB+Noun+Zero+A3sg+Pnon+Abl birden+Adverb
+fazla faz+Noun+A3sg+Pnon+Ins fazla+Adverb fazla+Adj fazla+Postp+PCAbl
+üreme üre+Noun+A3sg+P1sg+Dat üre+Verb+Neg+Imp+A2sg üre+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom ürem+Noun+A3sg+Pnon+Dat
+şekli şekil+Noun+A3sg+P3sg+Nom şekil+Noun+A3sg+Pnon+Acc
+gerçekleşir gerçek+Adj^DB+Verb+Become+Pos+Aor+A3sg gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+AorPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Aor+A3sg gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+AorPart
+mi mi+Noun+A3sg+Pnon+Nom mi+Ques+Pres+A3sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,178 @@
+Question: CBS, coğrafya bilimine nasıl katkı sağlamaktadır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Arkeolojide CBS</DOCTITLE>
+<TEXT>
+
+CBS veya Coğrafi Bilgi Sistemleri , son 10 yılda arkeoloji için önemli bir araç haline gelmiştir. CBS ve arkeoloji kombinasyonu mükemmel bir ikili oluşturmaktadır ve arkeoloji zaman içinde insan davranışının mekansal boyutu çalışmasını gerektirir.
+Arkeoloji tarihsel olayların açılımına coğrafya, zaman ve kültür üzerinden bakmaktadır, arkeolojik çalışmaların sonuçları mekansal bilgi açısından zengindir. CBS geniş hacimli verileri coğrafi referanslama konusunda uzmandır. Bu hızlı, doğru ve mali açıdan etkin bir araç olmasını sağlamaktadır. CBS nin sahip olduğu araçlar veri toplama, depolama ve çağırma konularında kullanıcıya daha anlaşılır bir görsel sunmaktadır. CBS arkeolojide önemli olabilir, ancak CBS arkeolojide harita üretiminden çok, farklı veri türlerini birleştirip ve analiz etme ve yeni bilgiler oluşturma tabanlı kullanılmalıdır. CBS nin arkeolojide kullanımı, arkeologların sadece veri toplama ve görselleştirmelerini değil, mekanla ilgili düşünme yollarını da değiştirmiştir.
+Araştırmada CBS Kullanımı.
+Araştırma ve dökümanların korunması arkeoloji için önemlidir ve bu araştırmalar ve saha çalışmaları verimli ve hassas bir şekilde CBS ile yapılmaktadır. CBS yeteneklerinin kullanıldığı arkeolojik sitelerde ve çalışmalarda, CBS bir karar verme aracı olarak kullanılabilir.
+Arkeolojik kazıda CBS kullanıldığında haritalama ve kayıt yeteneği doğrudan gelişmektedir. Bu da kazı alanındaki bulguların analizinde, görselleştirilmesinde ve verilere anında erişim açısından fayda sağlamaktadır.
+Arkeolojik çalışmalarda CBS nin farklı süreçleri ve işlevleri kullanılmaktadır. Site içi mekansal analiz veya dağılım analizi, site içindeki değişim sürecinin oluşumunu anlamada ve belgelenmesinde yardımcı olur. Bunun için kullanılan eski yöntemler geniş alan üzerinden sadece küçük bir bakış açısı sunmaktadır. Akıllı modelleme arkeolojik verinin daha iyi analiz edilmesi için hidrografi ve histografide olduğu gibi veri toplama yolunu kullanır. CBS de nokta verisi, ilgili yere odaklanmak ve veri setlerindeki dağınık noktaları analiz etmek için kullanılır. Yoğunluk haritası, nokta verinin interpole edilerek bir sitedeki kullanım düzeylerini bulmak için kullanılır.
+Analizlerde CBS Kullanımı.
+CBS de alan ile ilgili birçok veri setini depolama, işleme, birleştirme ve karmaşık analizleri yapmak mümkündür. Görünürlük analizi site üzerinden çevresinde görünebilir olan yerleri belirlemek için kullanılmaktadır. Bu site alanının çevresi ile olan sosyal ilişkiyi yorumlamak için kullanılır. Simülasyon gerçeğin basitleştirilmiş bir temsilidir, olayın temel değişkenlerini ve onların etkileşimlerini belirleyerek çalışır. Bu varsayımsal tahmin hem test için hem de veri üretmek için kullanılır.
+Arkeolojik Bilgi Bilimi, arkeolojide mekansal ve zamansal desenleri keşfetmek ve ortaya çıkarmak için çalışmaktadır. Araştırmalar arkeolojik problemleri çözmek ve anlamak için sayısal yöntemler ve bilgisayar yazılımları üretmeye yönelmiştir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Coğrafi bilgi sistemi</DOCTITLE>
+<TEXT>
+
+Coğrafi Bilgi Sistemi (CBS) : Dünya üzerindeki karmaşık sosyal, ekonomik, çevresel vb. sorunların çözümüne yönelik mekana/konuma dayalı karar verme süreçlerinde kullanıcılara yardımcı olmak üzere, büyük hacimli coğrafi verilerin; toplanması, depolanması, işlenmesi, yönetimi, mekansal analizi, sorgulaması ve sunulması fonksiyonlarını yerine getiren donanım, yazılım, personel, coğrafi veri ve yöntem bütünüdür. 
+CBS, genel bir kavram olup; çeşitli kullanım alanlarına ve tematik konulara yönelik olarak geliştirilen CBS uygulamaları vardır. Bu CBS uygulamaları, Kent Bilgi Sistemi, Orman Bilgi Sistemi, Karayolları Bilgi Sistemi, Arazi Bilgi Sistemi, Tapu ve Kadastro Bilgi Sistemi, Lojistik Bilgi Sistemi, İç Güvenlik Bilgi Sistemi, Araç İzleme Bilgi Sistemi, Trafik Bilgi Sistemi, Kampüs Bilgi Sistemi, Deprem Bilgi Sistemi, Harita Bilgi Sistemi, vb. şekilde adlandırılırlar. 
+CBS, kavramsal bir sınıflamada hiyerarşik olarak öncelikle Sistem, sonra Bilgi Sistemi kategorisi altında yer alır. İşlevsel bir sınıflamada ise CBS, öncelikle Teknoloji, sonra Bilgi Teknolojisi altında yer alır.
+Coğrafi Bilgi Sistemi, coğrafya, haritacılık ve bilgisayar bilimleri ile ilgili bir teknoloji olup Coğrafi Veri Altyapısı bileşenlerinden Bilgi Teknolojileri kapsamında yer alır.
+Coğrafi Bilgi Sistemleri (CBS), İngilizce Geographical Information Systems (GIS) ifadesinin Türkçeye çevrilmiş hali olup, kullanıcıların çok farklı disiplinlerden olması nedeniyle, bu kavram da değişik şekillerde tanımlanmaktadır. Özellikle CBS'nin dünyada konumsal bilgi ile ilgilenen kişi, kurum ve kuruluşlar arasında geniş bir merak uyandırması, gelişmelerdeki hızlı değişiklikler, özellikle ticari beklentiler, farklı uygulama ve fikirler, CBS'nin standart bir tanımının yapılmasına henüz izin vermemiştir. CBS, bazı araştırmacılara göre konumsal bilgi sistemlerin tümünü içeren ve coğrafi bilgiyi irdeleyen bir bilimsel kavram, bazılarına göre; konumsal bilgileri dijital yapıya kavuşturan bilgisayar tabanlı bir araç, bazılarına göre de; organizasyona yardımcı olan bir veri tabanı yönetim sistemi olarak nitelendirilmektedir. Buna göre en genel haliyle CBS'tanımı aşağıdaki şekildedir;
+"Coğrafi Bilgi Sistemleri; konuma dayalı gözlemlerle elde edilen grafik ve grafik-olmayan bilgilerin toplanması, saklanması, işlenmesi ve kullanıcıya sunulması işlevlerini bütünlük içerisinde gerçekleştiren bir bilgi sistemidir.
+Zamansal Coğrafi Bilgi Sistemi (ZCBS) Coğrafi varlıkların gerek grafik gerekse grafik olmayan konumsal bilgilerinde zamanla meydana gelen değişimleri izleyebilen ve analiz edebilen coğrafi bilgi sistemidir.
+Kullanım Alanları.
+CBS teknolojisi bilimsel araştırmalar, kaynak yönetimi, varlık yönetimi,alt yapılar (doğalgaz, elektrik, su), arkeoloji, çevresel etki değerlendirmesi, peyzaj mimarlığı, kentsel planlama, kartografya, kriminoloji, coğrafi tarih, pazarlama, lojistik, maden haritalama, haritacılık, tarım ekili tarım alanlarının tespiti ve toplam mahsülün hesaplanması, askeri uygulamalar, hava, deniz ve kara trafiği izleme araç takip sistemleri, meteoroloji,arama kurtarma ve diğer amaçlar için kullanılabilir. Örneğin, CBS doğal afetlerde acil müdaheleleri kolaylaştırmak için hesaplamalar yapmaya olanak tanır. CBS yeni sulak alanların bulunmasında ve bu alanların korunmasında kullanılabilir. CBS bazı şirketler tarafından avantaj sağlaması amacıyla yeni pazar alanları bulmak için kullanılabilir.
+Daha genel manada CBS, analizler yapma imkanı sunan ve bu analiz sonuçlarına göre doğru kararlar vermeyi kolaylaştıran bir sistemdir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>CBS</DOCTITLE>
+<TEXT>
+
+CBS Broadcasting Inc. (CBS) ABD'li bir televizyon ve radyo kuruluşudur. Adı, Columbia Broadcasting Systemın baş harflerinden gelmektedir.
+CBS daha önceleri United Independent Broadcasters Inc. adı altında hizmet vermekteydi. 16 radyo istasyonuna sahip olan bu yayın ağı daha sonra William S. Paley tarafından 1928 yılında satın alındı ve adı Columbia Broadcasting System olarak değiştirildi. Paley'nin yönetiminde, CBS önce ABD'deki en büyük radyo ağı haline geldi ve daha sonra ABD'nin en büyük üç televizyon yayın şirketi arasına girdi. 1974'de, Columbia Broadcasting System adını CBS Inc. olarak kısalttı. 2000'de, Viacom'un yönetimine girdi. Last.fm'i satın almıştır. Eskiden ABD dışına da yayın yapan CBS Radio artık bu yayınını kesmiştir.
+Türkiye'de de yayınlanan bazı CBS programları:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Coğrafi Bilgi Sistemlerinin (Cbs) Coğrafi Problemlerin Çözümündeki Etkisi (EBA)</DOCTITLE>
+<TEXT>
+
+Afetin meydana gelmesinden sonra yapılacak kurtarma faaliyetleri her ne kadar önemli olsa da sosyal etkileri ve ekonomik kayıpları önlemek oldukça güçtür. Bu nedenle, afet öncesi potansiyel risk taşıyan bölgelerin belirlenmesi ve buna göre tedbirlerin önceden alınması ve hazırlıkların buna göre yapılması gerekmektedir. Özellikle yerleşim yerleri afet riski altında olmayan alanlar dikkate alınarak belirlenmelidir.
+Günümüzde, afet yönetimi ve planlama çalışmalarında, verilerin analizinde, en çok kullanılan CBS ve CJzaktan Algılama teknikleri olmuştur. Afet öncesi planlama çalışmalarının yapılabilmesi için bölgenin afet tipine göre risk durumunun öncelikle belirlenmesi gerekir ülkemizde, il yönetimleri en büyük idari yapıyı oluşturduğundan afet yönetimi için kurulacak CBS destekli veri tabanlarının il bazında kurulmasının önemini ortaya çıkarmaktadır. Böylece ülke genelinde, temel afet yönetimi ve planlama çalışmalarına yön vermek, bu yönde gerçekçi politikalar üretmek ve kurumlar arası organizasyon görevlerini yerine getirmek çok daha rasyonel olacaktır.
+Trabzon ili topoğrafik ve iklim koşulları nedeniyle sürekli afet tehlikesi ile karşı karşıyadır. İldeki en önemli afetler heyelan ve su baskınları neticesinde meydana gelmekte, mal ve can kayıplarına neden olmaktadır. Trabzon ilinde heyelan afetinin önlenmesi için heyelan risk haritaları hazırlanmıştır. Bu haritaların hazırlanmasında CBS tabanlı konumsal modeller kullanılmıştır. Trabzon ili yüz ölçümünün %62.4’ü heyelana duyarlılık haritasının orta risk veya daha riskli grup içinde olduğu belirlenmiştir. İl topraklarının ancak %21.7’sinde heyelan riski bulunmamaktadır. Çalışmalar sonucunda potansiyel heyelan alanları belirlendikten sonra, kentsel yerleşime uygun bölgeler belirlenmiştir.
+Dünya SOS Veriyor; Dünya ülkeleri Afetleri Azaltmak İçin Birleşiyor
+“Doğal afetler bütünüyle önlenemez; fakat, hasarları azaltılabilir." diyen bilim adamları, ülkeleri, uluslararası "afetleri azaltma platformu"nda toplanmaya çağırıyor.
+Felaket senaryoları gerçek mi olacak?
+“Dünya son yıllarda ardı ardına gelen felaketlerle sarsılıyor. Türkiye bunun en dehşetli örneğini 17 Ağustos 1999'da yaşadı. Bu depremde binlerce insanımızı kaybettik. Yine on binlerce insanın yaşamını yitirdiği Endonezya, Pakistan depremleri, Katrina Kasırgası hafızalarda tazeliğini koruyor. Filipinlerde meydana gelen heyelan yüzünden çok sayıda insan hayatını kaybetti. Bütün bu afetlerin yarattığı felaketler herkesin aklına şu soruyu getiriyor: Dünyaya neler oluyor?
+Gerçekten de Dünya’nın doğal dengesi bozuluyor mu? Büyük depremler, kasırgalar, mega tsunamiler, patlamaya hazır volkanlar, küresel ısınma, buzulların erimesi, hastalık yayan virüsler bunun işaretleri mi? Doğal afetlerde son yıllarda artış mı var? Teknolojik gelişmeler, insanlık için önemli bir tehdit oluşturacak mı? "Yarından Sonra" (The Day After) gibi bilimkurgu filmlerinde seyrettiğimiz senaryolar, gelecekte gerçekleşecek mi?
+Bilim adamları, bu yıl da doğal felaketlere hazırlıklı olunması gerektiğini vurguluyor. Doğal afetlerin en çok etkilediği yerler, hiç kuşkusuz milyonlarca insanın yaşadığı büyük şehirler, yani mega kentlerdir. Nüfusun yoğun olduğu, ekonominin kalbinin attığı mega kentlerde yaşanan doğal afetler, salgın hastalıklara, paniğe ve krizlere daha fazla yol açıyor. Gelişmekte olan ülkelerde tablo daha da vahim bir hâl alıyor. Dünya son iki yıldır, benzeri görülmemiş yoğunlukta doğal afete sahne oldu. Birbirini izleyen depremler, kasırgalar, su baskınları, seller ve tsunamilerde 336.400 kişi yaşamını kaybetti; 307 milyon kişi evsiz barksız kaldı ve zarar gördü.
+Maddi hasar toplamıysa 252 milyar ABD dolarıyla rekor seviyeye ulaştı ve Amerikan sigorta şirketlerini zora soktu. Bu maddi hasarın en büyük bölümünü ise 125 milyar ABD dolarıyla Katrina kasırgası oluşturdu.”
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>CBS Reality (Europe)</DOCTITLE>
+<TEXT>
+
+CBS Reality (önceden Reality TV ve Zone Reality) bir Avrupa reality televizyon kanalı.
+CBS Reality Analog ve digital olmak üzere Avrupa, Ortadoğu, Afrika ve Latin Amerika'da yayın yapmaktadır.
+Ayrıca kanalı 120 milyon kişi izlemektedir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Projeksiyon Tipleri (EBA)</DOCTITLE>
+<TEXT>
+
+Yerküreye ait özellikler, bilgiler belli bir ölçek dahilinde küre üzerine aktarılarak model küre elde edilir. Ancak düzlem üzerine aktarılırken yerin şeklinden kaynaklanan bozulmalar ortaya çıkacaktır. Çünkü yuvarlak olan bir cismi, bozulma olmadan veya özelliklerini yitirmeden düzlem üzerine aktarmak oldukça güçtür. Bu nedenle haritalar oluşturulurken bozulmaların en aza indirilmesi için çeşitli yöntemler geliştirilmiştir. Bunlar projeksiyon (iz düşüm) olarak adlandırılır.
+Konik Projeksiyon
+Kürenin çevresine koni şeklinde bir kâğıt sarılmasıyla oluşturulur. Bu yöntemle çizilmiş haritalarda şekiller bozulur ama alanlar korunur. Konik projeksiyon orta enlemler ve çevresindeki bölgelerin çi-zimine kullanılır.
+Düzlem Projeksiyon
+Bir düzlemin kutup noktasına teğet olarak geçirilmesiyle oluşturulan bu çizimde kenar uzunlukları korunur. Bu yöntem daha çok dar alanların ve büyük ölçekli haritaların çizi-minde kullanılır.
+Silindirik Projeksiyon
+Bir kürenin çevresine silindir şeklinde bir kâğıt sarılmasıyla oluşturulur. Ekvator’dan kutuplara gidildikçe alan bozulmalan görülür ve şekiller büyür. Bu yöntem daha çok deniz ve hava ulaşımında yararlanılan haritaların hazırlanmasında kullanılır.
+Coğrafi Bilgi Sistemi (CBS) Nedir?
+Coğrafi Bilgi Sistemi, yeryüzündeki fiziki ve beşerî unsurlara ait verilerin toplanması, depolanması ve analiz edilmesidir. Toplanan bilgiler bilgisayar ortamında sayısal veri olarak kaydedilip görsel verilere dönüştürülür. Bu sistem, günümüzde birçok fiziki ve beşerî problemin ortaya konulmasında ve çözümünde etkili bir araç olarak kullanılmaktadır. Mekâna ait modellemelere imkân sunan sistem sayesinde geleceğe yönelik planlamalar kolaylıkla yapılabilmektedir.
+CBS Ne Gibi Kolaylıklar Sağlar?
+CBS ile toplanan veriler sürekli güncellenebilmektedir. Sistemin temel amacı olan farklı verilerin aynı tabanda birleştirilmesi ile oluşan görsel verilere kullanıcılar kolaylıkla ulaşabilirler. Veriler üzerinde analiz yapılabilme imkânı, sistemin sağladığı önemli avantajlar arasında yer alır.
+Haritacılık, çevre, savunma, arazi kullanımı ve belediyecilik hizmetleri alanında CBS yaygın olarak kullanılmaktadır. Coğrafi Bilgi Sistemi’nin uygulanabilmesi için bilgisayar donanımına, yazılıma, kullanacağımız doğal ve beşerî unsurlarla ilgili verilere ve bu alanda yetişmiş uzman elemanlara ihtiyaç vardır.
+Uzaktan Algılama Teknolojisi
+CJzaktan algılama, görüntülerin uydular, uçaklar veya gökyüzüııdeki çeşitli araçlarla elde edilmesidir. Hava fotoğrafları çok geniş alanlara ait görüntüleri tek fotoğrafta verebilmekte ve bu sayede mekâna ait analizler yapılabilmektedir. Hava fotoğrafları incelenerek bir bölgenin yeryüzü şekilleri, bitki örtüsü, arazi kullanımı, yerleşim alanlarının dağılımı gibi konularda çeşitli bilgiler elde edilebilir. Uzaktan algılama teknolojisi günümüzde coğrafya, meteoroloji, tarım, şehir planlaması, askerî sahalar, madencilik, jeoloji gibi alanlarda kullanılmaktadır.
+PIRI REİS
+1465-1470 arasında Gelibolu'da doğduğu tahmin edilmektedir. Asıl adı Muhiddin Pirîdir. 1480'li yıllarda kaptan olan amcasının yanında denize açıldı. 1487'de onunla birlikte İspanyadaki Müslümanların yardımına gitti. 1491-1493 arasında Sicilya, Sardunya, Korsika Adalanna ue Güney Fran-sa kıyılarına yapılan akınlara katıldı. Amcasıyla birlikte Osmanlı Devletinin hizmetine girerek 1499-1502 Osmanlı Venedik Savaşında bir savaş gemisinde kaptanlık yaptı. 151 l'de amcasının ölümü üzerine Gelibolu'ya çekilerek Kitab ı Bahriye (Denizcilik Kitabı) üzerinde çalıştı ue 1513'te bir Dünya haritası çizdi.
+1517'de ilk çizdiği haritayı Yavuz Sultan Selim Han'a sundu. 1521'de Kitab-ı Bahriye'yi tamamladıktan sonra 1522'de Rodos Seferime katıldı.
+Büyük bir denizci olduğu kadar büyük bir haritacı olan Piıi Reis, korsanlık günlerinden başlayarak gezip gördüğü yerleri yabancı kaynaklardan da yararlanarak tarihî ve coğrafi özellikleriyle birlikte kitabında anlatmış ve haritalarını çizmiştir. Kitab-ı Bahriye'nin nazımla yazılan ve denizcilikle ilgili tüm bilgilerin toplandığı başlangıç bölümünde, genel açıklamalardan sonra Ege ve Akdeniz adaları tanıtılarak denizle ilgili gözlem ve deneyimin önemi vurgulanır. Fırtına, rüzgâr çeşitleri, pusula ve haritanın tanımından sonra Dünyayı kaplayan denizler ve karaların oranı belirtilir. Portekizlilerin denizcilikteki ilerlemeleri ve keşifleri, Çin Denizi, Hint Okyanusu, Akdeniz ve Ege Denizindeki rüzgârlar, Basra Körfezi, Atlas Okyanusu ayrıntılı biçimde anlatılır.
+Düz yazı ile anlatımın başladığı haritalı bölüm asıl metni oluşturur. Bu bölümde Çanakkale Boğazı'ndan başlayarak Ege Denizi kıyı ve adaları, Adriyatik Denizi kıyıları. Batı İtalya, Güney Fransa, Doğu İspanya kıyılarıyla çevresindeki adalara ilişkin tarihî, coğrafi bilgiler verilerek Kuzey Afrika kıyıları, Filistin, Suriye, Kıbrıs ve Anadolu kıyıları izlenerek Marmaris'te tüm Akdeniz'in havzası noktalanır.
+1513'te çizdiği ilk haritasında Christoph Columbus (Kıistof Kolomb)'un 1498'de çizdiği Amerika hantasmdan, Portekiz ve Arap haritalarından yararlandığını belidir. Elde kalan parçası Avrupa ve Afrika'nın batı kıyılarıyla Atlas Okyanusunu, Antil Adalarını, Orta ve Güney Amerika'yı gösterir. 1528'de çizdiği ikinci haritasından günümüze kalan parça, büyük bir Dünya haritasının kuzeybatı köşesi olup Atlas Okyanusu'nun kuzeyini. Kuzey ve Orta Amerika'nın yeni keşfedilmiş kıyılarını ve Grönland'dan Floıida'ya uzanan kıyı şeridini içerir Adalar ve kıyılar son keşiflere dayalı olarak daha doğru çizilmiştir. Keşfedilmeyen yerler ise beyaz bırakılarak, bilinmediği için bu yerlerin çizilmediği belirtilmiştir İlk haritadan daha büyük ölçekli ve gelişkin olan İkincisi, teknik olarak döneminin en ileri örneğidir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>WCBS-TV</DOCTITLE>
+<TEXT>
+
+WCBS-TV veya Channel 2 CBS televizyonunun ana yayın istasyonudur. New York City’de yer almakta olup, sahibi CBS Corporation firmasıdır. Stüdyoları Manhattan’ın Midtown bölgesinde, radyo/tv verici anteni de Empire State Binası’nın tepesinde yer almaktadır.
+ABD’nin hemen her yanından abonelik veya ücret ödenmeden seyredebilinen bu televizyon kanalı ülkenin birtek doğu bölgesindeki çok az yerde anten ile seyredilememektedir. Seyredilemeyen bu bölgelerde ve Latin Amerika’da bu kanal DirecTV kablolu yayını ile seyredilebilmektedir.
+Bu televizyon kanalının kurulması 1931 yılına kadar dayanmaktadır. CBS’in açtığı ilk deneme kanallarından birisi olan W2XA 31 Temmuz 1931 yılında hizmete girmiştir. Birçok teknik ve hukuki değişiklikten sonra W2XAB olarak değişen bu kanal WCBW adı altında yayın lisansını 24 Haziran 1941 tarihinde almıştır. 1 Temmuz 1941 yılında saat 14:30’de ilk yayını başlatmış ve bu vesile ile ABD’da yayın lisansını almış ikinci özel televizyon kanalı olmuştur. 1 Kasım 1946 tarihinde kanalın ismi WCBS-TV olarak değişmiştir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bill Moyers</DOCTITLE>
+<TEXT>
+
+Bill Moyers (d. 5 Haziran 1934) ABD'li gazeteci ve halkla ilişkiler danışmanı. 1965-67 yıllarında Lyndon B. Johnson Hükümeti'nde Beyaz Saray Basın Sekreteri olarak görev yaptı. Ayrıca televizyonda haber yorumcusu olarak çalıştı.
+Hayatı ve kariyeri.
+Erken yılları ve eğitimi.
+Babası John Henry Moyers ve annesi Ruby Moyers'ın ("kızlık soyadıyla" Johnson) oğlu olarak Hugo, Oklahoma'da doğdu ve Teksas'ta büyüdü.
+Denton, Teksas'taki North Texas State College'de gazetecilik okudu. 1954'te ABD Senatörü Lyndon B. Johnson tarafından yaz intörnü olarak işe alındı. Bir süre sonra, Moyers, Austin, Teksas'taki Teksas Üniversitesi, Austin'e nakil oldu. Burada "The Daily Texan" gazetesi için yazdı. 1956'da gazetecilik lisansını tamamladı. Austin'deyken, o zamanlar Senatör Johnson'ın eşi olan Lady Bird Johnson'un sahibi olduğu KTBC radyo ve televizyon istasyonlarında, haber editör asistanı olarak çalıştı. 1956-57 akademik yıllarında, Edinburgh, İskoçya'daki Edinburgh Üniversitesi'nde kilise ve devlet ilişkisini inceledi. 1959 yılında, Fort Worth, Teksas'taki Southwestern Baptist Theological Seminary'de ilahiyat dalında masterını tamamladı.
+Teksas Üniversitesi'nde bir felsefe doktorası programına girmeyi planladı. Bu sırada Senatör Johnson'un kazanamadığı 1960 Demokrat Parti ABD başkan aday adaylığında Moyers, Johnson'un üst düzey yardımcılarından biri olarak çalıştı. Bunun ardından, genel seçimlerde Demokratik başkan yardımcılığı adayı Johnson ve başkan adayı Demokratik ABD Senatörü John F. Kennedy arasındaki bir irtibat noktası olarak rol oynadı.
+Kennedy ve Johnson Hükümetleri.
+Kennedy Hükümeti sırasında Moyers, yeni kurulan Peace Corps'ta halkla ilişkiler müdür muavini olarak 1961 yılında işe alındı. 1962-63 yıllarında müdür vekili olarak çalıştı. Kennedy suikasti sonrasında Lyndon B. Johnson görevi devraldığında Moyers, Johnson'un özel asistanı oldu ve 1963-67 yıllarında bu görevi devam ettirdi. Temmuz 1965'ten Şubat 1967'ye Beyaz Saray basın sekreteri olarak görev yaptı.
+Gazetecilik.
+Moyers, 1967 ile 1970 yılları arasında, günlük gazete "Newsday"'in yayımcısı olarak görev yaptı ve bu sırada gazetede bazı değişiklikler yaptı. Pete Hamill, Daniel Patrick Moynihan ve Saul Bellow gibi baş yazarlarla anlaştı, ayrıca yeni özellikler ile daha fazla araştırmacı rapor ve analiz ekledi. Tiraj arttı ve yayın, iki Pulitzer Ödülü de dahil olmak üzere, 33 gazetecilik ödülü kazandı.
+1971'de, Public Broadcasting System (PBS) için çalışmaya başladı. Burada "Bill Moyers Journal" adlı bir haber programı sundu. Bu program 1976-1977 yılları arasında başladı ve 1981'e kadar sürdü.
+1976'da CBC'ye geçti ve 1980'e kadar "CBS Reports"'ta editör ve baş muhabir olarak çalıştı. Daha sonra, 1981 yılından 1986'ya kadar "CBS Evening News with Dan Rather" ("Dan Rather ile CBS Akşam Haberleri") programında kıdemli haber analisti ve yorumcusu olarak çalıştı. Moyers, bu yayın ağındaki, son düzenli yorumcuydu.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bill O'Reilly</DOCTITLE>
+<TEXT>
+
+William James "Bill" O'Reilly, Jr. (d. 10 Eylül 1949) Amerikalı televizyon programcısı, yazar, köşe yazarı ve siyaset yorumcusudur.Fox News Channel'da hazırlayıp sunduğu The O'Reilly Factor adlı siyaset programı Amerikan kablolu televizyonlarının en çok izlenen programıdır. 1970 ve 80'li yıllarda birçok Amerikan televizyon kanalında muhabir ve haber sunucusu olarak çalıştı. Daha sonraları CBS News ve ABC News kanallarında da çalıştı. 1991-1995 yılları arasında eğlence ağırlıklı Inside Edition adlı haber programının da sunuculuğunu yaptı.
+O'Reilly muhafazakar bir yorumcu olarak bilinir. Fakat bazı konularda muhafazakar ortodokslardan ayrılır (idam cezasına karşı olması gibi). O'Reilly kendisini gelenekçi olarak tanımlar. Şu ana kadar yazmış olduğu sekiz kitabı vardır. Ayrıca 2009 yılı başlarına kadar The Radio Factor adlı programı sunmuştur.
+İlk yılları ve eğitimi.
+O'Reilly 10 Eylül 1949 tarihinde Manhattan'da doğdu. Mineola'da özel katolik lisesinde eğitim gördü. 1967 yılında liseden mezun olduktan sonra babasının isteği üzerine Marist kolejine yazıldı. Daha sonra University of London'da üniversite eğitimi gördü. 1971 yılında sanat tarihi alanında lisans yaptı. Üniversite dönemi boyunca yarı-profesyonel bir şekilde basketbol oynadı. 21 yaşında Florida'ya yerleşti ve orada bir yandan ingilizce, tarih öğretip bir yandan da yerel gazetelerde yazılar yazmaya başladı. O'Reilly ayrıca Harvard Üniversitesi'nde de bir süre eğitim gördü.
+Yayıncılık kariyeri.
+O'Reilly televizyon kariyerine ilk olarak Pennsylvania Scranton'da WNEP-TV kanalında haberleri ve hava durumunu sunarak başladı. Dallas'ta WFAA-TV kanalında araştırmacı haberciliğinden dolayı ödül kazandı. Daha sonra Denver'a yerleşip burada KMGH-TV için çalışmaya başlaya. Uçak kaçırmayla ilgili yaptığı bir haberden dolayı yerel ödül kazandı. O'Reilly bunun dışında Oregon, Connecticut ve Boston'daki televizyon kanallarında da çalıştı.
+1980 yılında O'Reilly New York'ta WCBS-TV kanalında kendi programını sunmaya başladı. Burada rüşvet ile ilgili yaptığı bir araştırmadan dolayı ikinci bir ödül kazandı. 1982 yılında CBS kanalına terfi ettirildi ve bir süre burada çalıştı. Daha sonra CBS'ten ayrıldı.
+O'Reilly 1986 yılında ABC News'te çalışmaya başladı. Bir helikopter kazasında ölen muhabir arkadaşının cenaze töreninde bir konuşma yaptı. ABC News'in sahibi Roone Arledge cenaze töreninde O'Reilly'nin konuşmasını duyduktan sonra onu işe almaya karar verdi. ABC News'te günlük haber programları sunmaya başladı.
+Inside Edition.
+1991 yılında O'Reilly A Current Affair programına rakip olarak, daha çok dedikodu haberler yapan Inside Edition programında çalışmaya başladı. David Frost'un görevine son verilmesinin ardından programın sunucusu oldu. 1994 yılında O'Reilly'nin programı bırakmayı istediğini açıklamasından sonra 1995 yılında yerine eski NBS ve CBS programcısı Deborah Norville getirildi.
+O'Reilly'nin daha sonraları youtube'da meşhur olan "We'll Do it Live" adlı videosu bu program esnasında çekildi.
+The O'Reilly Factor.
+Harvard'tan mezun olduktan sonra Fox News Channel'da The O'Reilly Report programını sunmaya başladı. Programın adı daha sonra The O'Reilly Factor olarak değiştirildi. Program ABD'nin en yüksek reytingli haber programlarından biridir.
+O'Reilly 2009 yılının başlarına kadar 400'den fazla radyo istasyonunda yayınlanan ve 3 milyondan fazla dinleyicisi olan bir radyo programı sundu. Muhafazakar internet haber sitesi NewsMax O'Reilly'i ikinci en etkili radyo programcısı seçti.
+O'Reilly medya izleyicisi birkaç kuruluş tarafından bilgileri çarpttırdığı ve hatalı istatistiki veriler kullandığı gerekçesiyle eleştirildi.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Lara Logan</DOCTITLE>
+<TEXT>
+
+Lara Logan, Güney Afrikalı gazeteci ve savaş muhabiri.Logan, CBS News'in Dış işleri muhabirliğinin şefidir. Ayrıca CBS akşam haberlerinde, 60 dakika adlı programın muhabirliğini yapmaktadır. Lara Logan Şubat 2011'de Mısır'ın Tahrir Meydanı'nda Hüsnü Mübarek'e karşı protesto gösterileri düzenleyen isyancıların haberini yaparken cinsel saldırıya uğramış ve hastaneye kaldırılmıştır.
+
+</TEXT>
+</DOC>
+

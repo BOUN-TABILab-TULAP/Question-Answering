@@ -1,0 +1,25 @@
+Yates analizi
+Istatistiklerinde, bir Yates analizi faktöryel tasarım kullanılan bir dizayn deney, elde edilen verileri analiz etmek bir yaklaşımdır.
+Tam ve kesirli faktörlü tasarımlar mühendislik ve bilimsel uygulamalar için tasarlanmış deneylerde yaygındır. Bu tasarımlarda, her faktör iki düzeyde atanır. Bunlar, tipik olarak, düşük ve yüksek düzeyde olarak adlandırılır. Düşük seviyeli -1 değeri atanır ve yüksek düzeyde +1 değeri atanır, böylece hesaplama amaçlar için, faktörler ölçeklenir. "-" Bu, aynı zamanda yaygın olarak ifade edilir ve "+".
+Bir tam faktöryel tasarım, tüm faktörler için yüksek / düşük seviyelerde tüm olası kombinasyonları içerir. Bir faktöriyel tasarım, bu kombinasyonların bir özenle seçilmiş alt kümesini içerir. altkümelerini seçtiğiniz için kriter fraksiyonel faktöriyel tasarımlar yazıda ayrıntılı olarak ele alınmıştır.
+Frank Yates tarafından resmiyet, bir Yates analizi tüm faktörler ve ilgili tüm etkileşimleri için faktör etkileri için en küçük kareler tahmin oluşturmak için bu tasarımların özel yapısını patlatır. Yates analizi aşağıdaki sorulara cevap için kullanılabilir:
+Yates analizinin matematiksel ayrıntıları Box, Hunter ve Hunter (1978) Bölüm 10 verilmiştir.
+Yates analizi tipik olarak dex ortalama arsa ve ("dex" "deney tasarımı" anlamına gelmektedir) dex kontur arsa gibi grafiksel teknikler sayısına göre tamamlanmaktadır.
+Yates Sipariş.
+Bir Yates analizini yapmadan önce, veri "Yates düzen" in düzenlenmelidir. Yani, verilen "k" faktörler, inci sütun 2 oluşan "k" olduğu ("k" - 1) eksi işaretler (yani faktör düşük seviye) 2 ve ardından ("k" - 1) artı işaretleri ( örneğin, faktör yüksek düzeyde). Örneğin, üç faktöre ile tam faktöryel tasarım, tasarım matrisi
+Fraksiyonel faktöriyel tasarımlar için Yates sırasını belirleme fraksiyonel faktöriyel tasarım karıştırıcı yapısının bilinmesini gerektirir.
+Çıktı.
+Bir Yates analizi aşağıdaki çıktıyı üretir.
+burada "e" tahmini faktör etkisi ve "se" tahmini faktör etkisi standart sapması olduğunu.
+burada "Xi" "i" inci faktörü veya etkileşim etkisi tahminidir.
+Bu artık standart sapma bir monoton azalan dizi oluşur (model artar terimlerin sayısı gibi iyi bir uyum gösteren). İlk birikimli kalan standart sapma modeli için
+nerede sabit yanıt değişkeni genel ortalamasıdır. son toplu artık standart sapma modeli için
+Bu son model, sıfır kalıntı standart sapması olacaktır.
+Terimler olarak Parametre tahminleri eklenir.
+Uydurma en küçük kareler Çoğu durumda, önceden eklenmiş terimler model katsayıları ardına eklenmiş ne bağlı olarak değişir. Örneğin, "X", 1 katsayısı "X" 2 dönem modele dahil edildi olup olmadığına bağlı olarak değişebilir. 23 tam faktöryel tasarım gibi tasarım, ortogonal olduğunda bu durum böyle değil. Dik tasarımlar için önceden bulunan terimler için tahminler ek koşullar eklendikçe değişmez. Bu etki tahminlerinin sıralanmış liste aynı zamanda giderek daha karmaşık modelleri için en küçük kareler katsayı tahminleri olarak hizmet vermektedir demektir.
+Model seçimi ve doğrulama.
+Yukarıdaki Yates çıkışından bir Yates analizi potansiyel modellerini tanımlayabilirsiniz. Bir Yates analizinin önemli bir bileşeni mevcut potansiyel modellerden en iyi modeli seçmektir. Yukarıdaki adım, tüm potansiyel modellerini listeler. Bu listeden, biz en uygun modeli seçmek istiyorum. Bu aşağıdaki iki gol dengeleme gerektirir.
+Kısacası, bizim modeli, tüm önemli faktörler ve etkileşimleri dahil etmek ve önemsiz faktörler ve etkileşimleri ihmal etmek istiyorum. Artık standart sapma yalnız her zaman ek faktörlerin de eklenmesiyle azalmış olacak gibi en uygun modeli belirlemek için yetersiz olduğunu unutmayın. Bunun yerine, yedi kriter önemli faktörleri tanımlamak için kullanılmaktadır. Bu yedi kriter hepsi eşit derecede önemli değildir, ne de bir uzlaşma alt kümesi veya bir ağırlıklı konsensüs alt küme çıkarılması gerekir bu durumda aynı alt kümelerini, verecektir. Uygulamada, bu kriterlerin bazıları tüm durumlarda geçerli olmayabilir ve bazı analistler ek kriterleri olabilir. Bu kriterler kullanışlı rehber olarak verilmiştir. Mosts analistler onlar en yararlı buluyorum bu kriterler üzerinde durulacak.
+İlk dört kriter üç sayısal kriterler ve tek grafik kriter ile efekt boyutlarına odaklanmak. Beşinci kriter ortalamalara üzerinde duruluyor. Son iki kriter modelin artık standart sapma odaklanmak. Geçici bir model seçildikten sonra, hata terimi bir tek değişkenli ölçüm işlemi için varsayımlar takip etmelidir. Bu model artıkları analiz ederek valide edilmelidir olduğunu.
+Grafik sunumu.
+Bazı analistler Yates sonuçlarının daha fazla grafik sunumunu tercih edebilir. Özellikle, aşağıdaki çizimleri yararlı olabilir:

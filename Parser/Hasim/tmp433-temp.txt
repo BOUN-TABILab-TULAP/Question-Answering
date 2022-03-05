@@ -1,0 +1,24 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Glomerulusun Glomerulusun+Noun+Prop+A3sg+Pnon+Nom
+etrafını etraf+Noun+A3sg+P3sg+Acc etraf+Noun+A3sg+P2sg+Acc
+tamamen tamamen+Adverb
+saran sar+Verb+Pos^DB+Adj+PresPart sara+Noun+A3sg+P2sg+Nom
+nefron nefron+Noun+Prop+A3sg+Pnon+Nom
+kanalcığınıın kanalcığınıın+Noun+Prop+A3sg+Pnon+Nom
+genişlemiş genişle+Verb+Pos+Narr+A3sg genişle+Verb+Pos^DB+Adj+NarrPart
+başlangıç başlangıç+Noun+A3sg+Pnon+Nom
+kısmına kısım+Noun+A3sg+P3sg+Dat kısım+Noun+A3sg+P2sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

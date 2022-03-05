@@ -1,0 +1,15 @@
+1	İdrar	idrar	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	kesesinin	kese	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+3	dolması	dolma	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+4	durumunda	durum	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+5	idrarın	idrar	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+6	dışarı	dışarı	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+7	_	at	Verb	Verb	_	_	_	_	_
+8	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+9	atılması	_	Noun	NInf	A3sg|P3sg|Nom	_	_	_	_
+10	hangi	hangi	Adj	Adj	_	_	_	_	_
+11	üreter	üreter	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+12	sistemiyle	sistem	Noun	Noun	A3sg|P3sg|Ins	_	_	_	_
+13	_	gerçek	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+14	gerçekleşir	_	Verb	Verb	Become|Pos|Aor|A3sg	_	_	_	_
+15	.	.	Punc	Punc	_	_	_	_	_

@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bit bit+Noun+A3sg+Pnon+Nom bit+Verb+Pos+Imp+A2sg
+pire pir+Noun+A3sg+Pnon+Dat pire+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+kene kene+Noun+A3sg+Pnon+Nom
+hangi hangi+Adj
+hayvansal hayvan+Noun+A3sg+Pnon+Nom^DB+Adj+Related hayvansal+Adj
+parazitlere parazit+Noun+A3pl+Pnon+Dat
+örnektir örnek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

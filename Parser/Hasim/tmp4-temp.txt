@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+dünyanın dünya+Noun+A3sg+Pnon+Gen dünya+Noun+A3sg+P2sg+Gen
+çevresi çevre+Noun+A3sg+P3sg+Nom çevre+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+kadar kadar+Noun+A3sg+Pnon+Nom kadar+Postp+PCNom kadar+Postp+PCGen kadar+Postp+PCDat
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

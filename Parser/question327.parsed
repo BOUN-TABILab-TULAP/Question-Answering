@@ -1,0 +1,23 @@
+1	Bitkilerin	bitki	Noun	Noun	A3pl|Pnon|Gen	4	POSSESSOR	_	_
+2	_	büyü	Verb	Verb	Pos	3	DERIV	_	_
+3	büyüme	_	Noun	NInf	A3sg|Pnon|Nom	4	CLASSIFIER	_	_
+4	bölgelerinde	bölge	Noun	Noun	A3pl|P3sg|Loc	5	LOCATIVE.ADJUNCT	_	_
+5	_	bulun	Verb	Verb	Pos	6	DERIV	_	_
+6	bulunan	_	Adj	APresPart	_	7	MODIFIER	_	_
+7	ve	ve	Conj	Conj	_	17	COORDINATION	_	_
+8	sürekli	sürekli	Adv	Adv	_	11	MODIFIER	_	_
+9	_	böl	Verb	Verb	_	10	DERIV	_	_
+10	_	_	Verb	Verb	Pass|Pos	11	DERIV	_	_
+11	_	_	Verb	Verb	Able	12	DERIV	_	_
+12	bölünebilme	_	Noun	NInf	A3sg|Pnon|Nom	13	CLASSIFIER	_	_
+13	yeteneğine	yetenek	Noun	Noun	A3sg|P3sg|Dat	16	DATIVE.ADJUNCT	_	_
+14	sahip	sahip	Noun	Noun	A3sg|Pnon|Nom	15	CLASSIFIER	_	_
+15	hücrelerden	hücre	Noun	Noun	A3pl|Pnon|Abl	16	OBJECT	_	_
+16	_	oluş	Verb	Verb	Pos	17	DERIV	_	_
+17	oluşan	_	Adj	APresPart	_	19	MODIFIER	_	_
+18	bitkisel	bitkisel	Adj	Adj	_	19	MODIFIER	_	_
+19	doku	doku	Noun	Noun	A3sg|Pnon|Nom	21	SUBJECT	_	_
+20	_	ne	Pron	QuesP	A3sg|Pnon|Nom	21	DERIV	_	_
+21	nedir	_	Verb	Zero	Pres|A3sg|Cop	22	SENTENCE	_	_
+22	.	.	Punc	Punc	_	0	ROOT	_	_
+

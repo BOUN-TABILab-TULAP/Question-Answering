@@ -1,0 +1,26 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kavak kavak+Noun+A3sg+Pnon+Nom Kavak+Noun+Prop+A3sg+Pnon+Nom
+ceviz ceviz+Noun+A3sg+Pnon+Nom
+gibi gibi+Postp+PCGen gibi+Postp+PCNom
+ağaçlarda ağaç+Noun+A3pl+Pnon+Loc
+su su+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+minerallerin mineral+Noun+A3pl+Pnon+Gen mineral+Noun+A3pl+P2sg+Nom
+kökten kök+Noun+A3sg+Pnon+Abl kökten+Adj
+yapraklara yaprak+Noun+A3pl+Pnon+Dat
+kadar kadar+Noun+A3sg+Pnon+Nom kadar+Postp+PCNom kadar+Postp+PCGen kadar+Postp+PCDat
+taşınması taşı+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom taşın+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+hangi hangi+Adj
+yollarla yol+Noun+A3pl+Pnon+Ins
+gerçekleşir gerçek+Adj^DB+Verb+Become+Pos+Aor+A3sg gerçek+Adj^DB+Verb+Become+Pos^DB+Adj+AorPart gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Aor+A3sg gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

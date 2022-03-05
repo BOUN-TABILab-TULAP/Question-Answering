@@ -1,0 +1,284 @@
+Question: İkili adlandırma kaç yılında bulunmuştur?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkili adlandırma</DOCTITLE>
+<TEXT>
+
+İkili adlandırma ya da binomial nomenklatür, tür adlarının iki kelimeden oluşacak biçimde gösterilmesi sistemi. Carl Linne'nin (1707-1778) bitki ve hayvanların isimlendirilmesi için ikili adlandırma (binomial nomenklatür) yani, 2 sözcükten oluşan (Cins adı+Epitet adı=Tür adı) bir sistem geliştirmiştir. Bu sistem bugün bazı değişikliklere uğramış ise de, prensipler hala binomial nomenklatür kuralları çerçevesinde halen geçerliliğini korumaktadır.
+Tarihçe.
+1707-1778 yılları arasında yaşamış İsveçli bilim adamı Carl Linnaeus, tabii sınıflandırmayı Systema Naturae adlı eserinde en iyi ifade etmiştir. Bu eserin 1. baskısında (1753) bitkiler ilk defa ikili isimlendirme sistemine göre binominal sistematiğinin bilimsel olarak başlangıcını oluşturur.
+Kurallar.
+Sistematikte her canlının bilimsel bir ismi vardır. Bunlar latince veya latinceleştirilmiş kelimelerdir. Bilimsel bir ismin en az iki harflik bir kelimeden oluşması gerekir. Bilimsel isimler tek (uninominal), iki (binominal) veya üç (trinominal) kelimeden oluşur. Şube/bölüm, sınıf, takım, familya ve cins isimleri uninominal olmak zorundadır. Tür isimleri binominal, alt tür isimleri ise trinominal olarak yazılır. Uninominal isimler daima büyük harfle başlar. Binominal isimde birinci kelime cins adı, ikinci ise tür (epitet) adıdır. Cinsin ismi daima büyük, türün ismi ise daima küçük harfle başlar. Bir tür ismi, daima önce cins ismi belirtilerek yazılır, hiçbir zaman tek kelime olarak yazılmaz. 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kırmızı-siyah ağaç</DOCTITLE>
+<TEXT>
+
+Kırmızı-siyah ağaç bilgisayar biliminde bir çeşit kendini-dengeleyen ikili arama ağacı veri yapısıdır. Orijinali ilk olarak 1972 yılında yapıyı "simetrik ikili B-ağaçları" olarak adlandıran Rudolf Bayer tarafından bulunmuştur. Bugünkü ismini 1978 yılında Leo J. Guibas ve Robert Sedgewick tarafından yayımlanan bir makaleyle almıştır. Karmaşık ancak çalışma süresi en kötü durumda bile iyi ve pratikte verimlidir: O(log "n") ("n" ağaçtaki eleman sayısını gösterir) zamanda arama, ekleme ve çıkarma işlemleri yapabilir.
+Teknik Terimler.
+Bir kırmızı-siyah ağaç, bilgisayar biliminde karşılaştırılabilir veri parçalarını (sayılar gibi) organize etmek için kullanılabilen özel bir ikili ağaç türüdür.
+Özellikleri.
+Kırmızı-siyah ağaçlar, her düğümün, değeri "kırmızı" veya "siyah" olabilen bir "renk" niteliğine sahip olduğu ikili arama ağacıdır. İkili arama ağaçlarının sahip oldukları gereksinimlerin yanında, şu aşağıdaki ek özelliklere de sahiptirler:
+Bu kısıtlar kırmızı-siyah ağaçların önemli bir özelliğini zorlar: kökten herhangi bir yaprak düğüme giden en uzun yol, herhangi başka bir yaprağa giden en kısa yolun iki katıdan fazla olamaz. Bunun sonucu olarak ağaç kabaca dengeli olur. Ekleme, silme ve değerleri bulma operasyonlarının en-kötü durum zamanları ağacın boyuyla orantılı olduğundan, boya getirilen bu teorik üst sınır, kırmızı-siyah ağaçların en kötü durumda bile verimli işlemler yapmalarını sağlar. Bu durum ikili arama ağaçlarında geçerli değildir.
+Yukarda sayılan özelliklerin kırmızı-siyah ağaçlara bu önemli özelliği kazandırmasının nedenini görmek için, 4. özellikten dolayı herhangi bir yolda iki ardışık kırmızı düğüm olamayacağını görmek yeterlidir. En kısa yol, sadece siyah düğümlerden oluşan bir yoldur, ve en uzun muhtemel yol da kırmızı ve siyah düğümlerin sırasıyla geldiği yoldur. 5. özellikten dolayı tüm uzun (kökten, yapraklara kadar olan) yollar aynı sayıda siyah düğüm içerdiğinden, herhangi bir yolun, bir başka yoldan iki katından daha uzun olamayacağı açıktır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Değişen yıldız belirtmesi</DOCTITLE>
+<TEXT>
+
+17. yüzyılda Bayer (1572'den 1625'e kadar) tüm parlak yıldızları kataloglarken, takımyıldız adlarının kısaltmaları önüne eski yunan alfabesinin harflerini koyarak bir adlandırma yoluna gitmiştir. Yunan alfabesinin harfleri yeterli olmayınca bu adlandırmaya Latin alfabesinin küçük harfleri ve daha sonra da büyük harfleri ile devam etmiştir. Fotoğraf filminin astronomide kullanılmaya başlaması ile gözlenen yıldız sayısındaki hızlı artış sonucu, Hevelius ve Flamsteed, harflerle yapılan adlandırmanın yeterli olmayacağını düşünerek, bir takımyıldızdaki üyeleri sağ açıklık sırasına dizmişler ve takımyıldız adının önüne (1 den başlayarak) sayıları koyarak yıldızları adlandırmayı tercih etmişlerdir. Argelander, 19. yüzyıl ortasında "Bonner Durchmunsterung (1855)" kataloğu ve haritalarını oluştururken, çok sayıda ışık değişimi gösteren yıldızın var olduğunu görmüş ve bunların düzenli bir şekilde adlandırılması gerektiğini düşünmüştür. Argelander değişen yıldızların adlandırılması için arayış içinde iken Latin alfabesinin küçük harfleri tükenmiş, büyük harflerin ise bir kısmı kullanılmış durumdaydı. Alfabenin sonuna yakın harfler hiçbir takımyıldız üyesi için kullanılmamıştı. Argelander öncelikle, bir takımyıldızda 9 dan fazla değişen keşfedilemeyeceği düşüncesi ile Latin alfabesinin R, S, T, U, V, W, X, Y, Z harflerini takımyıldız isminin "in" halinin önüne koyarak adlandırmaya başlamıştır. Ancak yeterli olmadığını görünce, aynı harflerin ikili kombinasyonlarını kullanmıştır:
+Burada dikkat edilmesi gereken kural, ikili kombinasyonların harflerinin yer değiştirmiş şekillerinin kullanılmaması gerektiğidir (tabloda açık mavi olarak gölgelenmiş olanlar). Bu
+kombinasyonlar da yeterli olmayınca Latin alfabesinin ilk harfinden başlayarak kalanlar için
+yine ikili kombinasyonlardan isim türetilmiştir:
+Burada dikkat edilmesi gereken kural ise J harfine ait kombinasyonların tamamının kullanılmamış olmasıdır. Bu şekilde tek ve ikili harf kombinasyonlarından oluşma adlandırma sisteminde her takımyıldız için 334 olasılık ortaya çıkmıştır. Zaman geçtikçe Hollanda'lı astronom Nijland harflerin tükenmekte olduğunu görüp, değişen yıldızların adlandırılmasında da sayılara dayalı bir sisteme geçilmesinin uygun olacağını teklif etmiştir. Önerisine göre her takımyıldızdaki değişen yıldızlar;
+şeklindeki bir formata uyacak biçimde adlandırılacaktı. Buna göre R Aquilae, V1 Aquilae olacaktı. Ancak Nijland'ın öneride bulunduğu zamana kadar birçok değişen yıldızın harflerden oluşma adları yaygın olarak kullanılmıştı, hatta bunlardan bazıları ortak özellikler gösteren değişenleri bir sınıf olarak ifade etmek için prototip ismi olarak da kullanılmıştı (W UMa yıldızları, δ Scuti değişenleri gibi). Bunun üzerine Nijland'ın önerisi şu şekilde kabul gördü: Her takımyıldız için 334 adet harf kombinasyonları tükenince adlandırmaya V335, V336, ... şeklinde sayı sistemi ile devam edilecekti. Bu adlandırma şekli bugün de halen kullanılmaktadır.
+Takımyıldız sınırları bu adlandırmalarda önemli rol oynamaktadır, dolayısıyla sınırların belirgin bir şekilde ortaya konması gerekmektedir. Buna göre, mevcut adlandırmayı da bozmayacak şekilde, 1930 yılında, IAU’nun gözetiminde, DELPORTE yaptığı bir çalışma ile takımyıldızların sınırlarını ekvatoryal koordinat sisteminde (α,δ), 1875.0 epoğuna göre belirledi. Kabul edilen son hali ile adlandırma işlemi, IAU'nun 27. komisyonunun bir alt çalışma grubu (GCVS'yi hazırlayan Rus grup) tarafından sürdürülmektedir. Bu nedenle "GCVS belirtmesi" olarak da bilinmektedir. Aday değişenlerin, değişim türü belirlendikten sonra adları verilmekte ve listeler halinde IBVS'de ilan edilmektedir. Bu listelere CDS'den elektronik olarak da ulaşabilmek mümkündür.
+Diğer belirtmeler.
+Bu arada çeşitli kuruluş ve organizasyonlar değişen yıldızlar için, yakın tarihe kadar kendi isimlendirme yöntemlerini de kullanmışlardır. II. Dünya Savaşı başına kadar "Astronomischen Nachrichten" editörleri, olası değişenleri geçici olarak bir sıra numarası ve araya nokta koyarak keşif yılı ile adlandırmışlardır (173.1937, 46.1925 gibi). Bunun yanında sistematik gökyüzü tarama gözlemleri yapan çok sayıda gözlemevi de değişen yıldızlar için kendi isimlendirmelerini tercih etmişlerdir. Bir örnek olarak, en çok değişen yıldız keşfinin gerçekleştiği Harvard Üniversitesi Gözlemevi'nde, takımyıldız adı kullanılmaksızın sadece Harvard kelimesinin baş harfi H veya "Harvard Variable"in baş harfleri HV ile başlayan ve devamında sıra numarasından oluşan bir sistem tercih edilmiştir (H#### veya HV####). Nova ve Süpernovalar ise bu konuda bir ayrıcalığa sahip olup, verilmekte olan GCVS adlarına rağmen, klasikleşmiş bir adlandırma ile anılırlar. Buna göre;
+Novalar.
+Nova kelimesinin baş harfi, görüldüğü takımyıldız isminin kısaltması ve bunları takip eden keşif yılından oluşma bir formatla adlandırılırlar. Bu adlandırma halen, GCVS ismi verilene kadar novaların geçici adlandırılması için kullanılmaktadır. Örnek:
+Süpernovalar.
+Novalara benzer bir isimlendirme kullanılmaktadır ancak, keşif yılı ile takımyıldız isminin kısaltması yer değiştirmiştir. Ayrıca süpernova kelimesini simgeleyen SN harflerini takip eden keşif yılı ve hemen peşine o yıl içinde keşfedilen sayıyı simgelemek üzere sıralı harflerden oluşan bir adlandırma şekli de yaygın olarak kullanılmaktadır. Örnek:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>OutKast</DOCTITLE>
+<TEXT>
+
+OutKast, Georgia çıkışlı Amerikalı bir hip hop ikilisi. "Hey Ya!" gibi başarılı şarkılar, grubun tanınmasında önemli rol oynamıştır.
+Grup hakkında.
+Liseyi Atlanta'da aynı okulda okuyan André Benjamin (André 3000, eski adıyla Dre) ve Antwan Patton (Big Boi), 1991'de OutKast'i kurdu ve Organized Noize Productions ile anlaşma yaptı.
+"Southernplaylisticadillacmuzik" dönemi.
+Liseden sonra LaFace Records'a geçen ikili, 1994'te ilk albümleri olan "Southernplaylisticadillacmuzik"i yayınladı. Albümden çıkan ilk single "Player's Ball" ile rap listelerinde 1 numaraya yükselen OutKast, bu single’ın 6 hafta boyunca 1 numarada kalmasıyla ilk altın plağını aldı. Albüm ise ilk 20'ye girdi ve yılın sonunda gruba platin plak kazandırdı. Dre ve Big Boi, 1995 yılında Source Ödülleri’nden "En İyi Yeni Rap Grubu" ödülünü alırken, ikili "Higher Learner" filminin soundtrack'ine de "Phobia" isimli şarkıyı ekleyerek bir kez daha kendilerini gösterme fırsatını yakalamış oldu.
+"ATLiens" ve "Aquemini" dönemi.
+İki yıl aradan sonra 1996'da yeni albümleri "ATLiens" ile geri dönen OutKast, "Elevators (Me & You)" single'larıyla Top 40 listesinde ve Billboard Hot Rap Singers Chart'ta zirveye yerleşti. Bu single ile Hot R&B Singles Sales Chart'ta 4 hafta boyunca birinciliği kaybetmeyen ikili, 1998'de "Aquemini" 'isimli 3. albümlerini piyasaya sürdü. Bu albümleriyle de platin plak kazanan grup, 1999 yılında Grammy Ödülleri'ne En İyi Rap Performansı dalında aday gösterildi.
+"Stankonia" dönemi.
+Yeni albümlerinden önce verdikleri düzenli "iki yıl ara" alışkanlıklarını bozmayan Outkast, 2000 yılında "Stankonia" adlı albümü piyasaya sürdü. Bu albümden ilk çıkan single B.O.B. "Bombs Over Baghdad" olurken, albüm gruba iki kez platin plak kazandırdı ve albümden çıkan "Ms.Jackson single"ı ile ikili, haftalarca birçok listenin 1 numarasında kalarak grubu inanılmaz büyük bir başarıya ulaştırdı. Bu dönemde André sahne ismini Dre’den André 3000’e çevirdi ve 2001 yılında aynı single’la Top 40 listesininde zirvesinde yine OutKast görünüyordu. "Speedballin" şarkılarıyla Tomb Raider filminin soundtrack’inde yer alan grup, "Ms.Jackson" şarkısının klibiyle de MTV Müzik Ödülleri’nden "En İyi Hip-Hop Videosu" ödülünü kazandı.
+Kazandıkları ödüllerin ardından hit şarkılarının toplandığı "Big Boi & Dre Present Outkast" albümünü çıkaran Outkast, 2002 yılında iki tane Grammy Ödülü kazandı. BET Awards'tan da "En İyi Grup" ödülüne sahip olan ikili, 2003 yılında Amerikan Müzik Ödüllerinden "En İyi İkili R&B Hip-Hop Grubu" ve Grammy'den de "En İyi Rap Performansı" ödüllerine layık görüldü.
+"Speakerboxxxx: The Love Below" dönemi.
+2003 yılında "Speakerboxxxx: The Love Below" isimli 4. albümlerini piyasaya süren Outkast, Hey Ya şarkısıyla Top 40'a hızlı bir giriş yaptı ve bu parçayla Top 10'de 7 hafta boyunca 1 numarada kaldı. 2004 yılında albümlerinin çıkmasının üzerinden henüz bir yıl geçmişken, albüm, satışlarıyla 8 kez platin plak almıştı. Bu albümleriyle de üç tane Grammy Ödülü kazanan ikili, Mart ayında Rolling Stone dergisinin kapağında gözüktü. "Hey Ya" şarkılarıyla MTV Video Müzik Ödülleri’nden 4, Amerikan Müzik Ödülleri’nden de 3 ödül kazanan Outkast üyeleri, 2005 ve 2006 senelerinde sinema sanatıyla ilgilenmeye başladı.
+André 3000, 2005 senesinde John Singleton filmi Four Brothers'da rol alırken, Big Boi "ATL" adlı filmde ufak bir rol üstlendi. Bu projeler sonrasında "Idlewild" adlı filmde birlikte oynayan ikili, 2006 Ağustos ayında bu filmin soundtrack’ini piyasaya sürdü. Albümden çıkan ilk single "The Mighty ‘O’" olurken, grup bu albümle Amerika listelerinde 2 numara oldu. Big Boi, Kasım ayında oluşturduğu "Purple Ribbon All-Star" adlı projesiyle "Got Purp? Vol. 2" adlı albüme imza atarken, medyada bu albüm sonrasında OutKast’in dağılacağına dair haberler yayınlanmaya başladı. Bu haberleri yalanlayan ikili, şu günlerde yeni albümleri üzerinde çalıştıklarını belirtti.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Acrocanthosaurus</DOCTITLE>
+<TEXT>
+
+Acrocanthosaurus (amlamı Yunanca yüksek dikenli kertenkele) Kuzey Amerika kıtasında 115-105 milyon yıl önce Kretase dönemimde yaşamış yaklaşık 5,280 pound (2.6 ton) ağırlığında, 1.4 metre uzunluğunda büyük bir kafaya sahip, 12 metre uzunluğundaki etobur bir theropoda dinozordur. 
+Adı ve türü.
+Acrocanthosaurus, "yüksek dikenli kertenkele" ismini 1950 yılında paleontologlar “J. Willis Stovall” ve “Wann Langstonn” tarafından kalçası ve kuyruk omurgası boyunca sırtı son derece uzun dikenlerle kaplı olduğu için verilmiştir.
+Türü, “atokensis”, ise dinozorun ilk fosillerinin bulunduğu Atoka County, Oklahoma'dan gelmektedir. Genellikle kısaca "Acro" diye anılmaktadır. Doğal Bilimler Müzesi, fosile bir takma ad vermiştir: "Güney Terörü."
+Morfolojisi.
+Acro'nun ilk kalıntıları, birkaç büyük kemik parçası, 1940 yılı baharında Alt Kretase Antlers Oluşumu, Atoka County, Oklahoma, Arnold Çiftliği'nde bulunmuştur. 1941 yılında da aynı çevreden birkaç kemik daha bulunmuştur, fakat yardımcı yazarın İkinci Dünya Savaşı donanmasına katılması nedeniyle araştırmalar dönüşüyle 1945 yılında deva ettirilmiştir. M.U.O. 8-0-S8 protip ve “"OMNH 1014"” holotip sirkülerine göre iki sırt omurga, dört omurga dikeni, sağ ve sol kasık kemiği, iki kaval kemiği parçası bulunmuştur. Ve yazarlar, Stovall ve Langston, "Acrocanthosaurus Atokensis" ikili adıyla, kertenkele benzeri kalça yapısına sahip Saurischia takımı, iki ayağı üzerinde hareket eden theropoda alt takımı, Carnosauria ara takımının Antrodemidae ailesinden geldiğini 1950 yılında tanımlamışlardır.
+1990 yılında Weatherford, Texas, " Twin Dağ Oluşumu"nda “"SMU 7464"” sirkülerine göre bir iskeletin %70'ini kapsayan iskelet parçaları bulunmuştur. İki arka boyun, bir sırt ve birkaç kemiğin daha bulunduğu “"OMNH 10168"” sirkülerinin içeriğinde belirtilmiştir. Pek çok kemik ve iskelet parçası içeren en fazla örnek ise “Cephis Hall” ve “Sid Love” tarafından Antler Oluşumu, McCurtain County, Oklahoma'dan 1996 yılında çıkarılmıştır. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doksorubisin</DOCTITLE>
+<TEXT>
+
+Doksorubisin ya da hidroksidaunorubisin (ticarî adıyla Adriamisin) kanser kemoterapisinde kullanılan bir ilaçtır. Bir antrasiklin türevi antibiyotiktir, doğal bir ürün olan daunomisin ile yakından ilişkilidir, ve diğer tüm antrasiklinler gibi DNA içine enterkalasyon yapar. Çeşitli kanserlerin tedavisinde kullanılır, bunların arasında hematolojik kanserler, çeşitli karsinoma tipleri ve yumuşak doku sarkomaları sayılabilir.
+İlaç hidroklorür tuzu şeklinde damardan verilir. Marka ismi olarak Adriamycin PFS, Adriamycin RDF veya Rubex olarak satılabilir. Işığa duyarlıdır ve ışık tarafından etkilenmemek için genelde alüminyum torba içinde saklanır.
+Tarih.
+Doksorubisin'in tarihi 1950'lerde, Farmitalia adlı bir İtalyan araştırma şirketinin toprak mikroplarından üretilen antikanser bileşikleri bulma girişimine dayanır. 13. yüzyıldan kalma bir kale olan Castel del Monte civarından elde edilen bir toprak numunesinde yeni bir "Streptomyces peucetius" suşu izole edilmiş ve bu bakterinin ürettiği kırmızı renkli bir antibiyotiğin fare tümörleri üzerinde iyi bir etkinliğe sahip olduğu bulunmuştur. Yaklaşık aynı zamanda bir grup Fransız araştırmacı da aynı bileşiği keşfettiği için bu iki araştırma ekibi ona daunorubisin adını verdiler. Bu ad, İtalya'da bu maddenin keşfedildiği bölgede yaşamış olan Roma-öncesi bir kabile olan "Dauni" ile, bu kimyasalın yakut renginin Fransızca kaşılığı olan "rubis" sözcüğünün birleştirilmesi ile türetilmiştir. 1960'larda klinik deneylere başlanmış ve ilacın akut lösemi ve lenfoma tedavisinde başarılı olmuştur. Ancak 1967'de daunorubisin'in olümcül kardiyak toksisisteye neden olduğu bulunuştur.
+Framitalia'daki araştırmacılar bu bileşiğin kimyasal yapısında modifikasyonlar yaparak biyolojik etkinlikte değişiklikler elde edilebildiğini keşfettiler. Başka bir "Streptomyces" suşu mutasyona uğratılmış ve bu yeni suş farklı bir kırmızı renkli antibiyotik üretmiştir. Bu yeni bileşik (Adriyatik denizine atfen) Adriamycin olarak adlandırılmış, daha sonra adlandırma konvasiyonlarına uyumlu olmak için bu ad doksorubisin olarak değiştirilmiştir. Doksorubisin fare tümörlerinde, özellikle katı tümörlerde, daunorubisin'den daha iyi etki göstermiştir. Ayrıca daha yüksek bir terapötik indeks göstermiş ama kardiyotoksisitesi kalmıştır.
+Doksorubisin ve daunorubisin birlikte antrasiklinler için prototip bileşikler olarak düşünülebilir. İzleyen araştırmalar ile pek çok başka antrasiklin antibiyotikleri keşfedilmiştir, günümüzde doksorubisin'in 2000'den çok analogu olduğu kestirilmektedir. 1991'de bunlardan 553'ü ABD Milli Kanser Ensititüsünün (National Cancer Institute) bir tarama programında değerlendirilmiştir. 
+Biyosentez.
+Doksorubisin (DXR)'in biyosentetik yolağının son adımında onun öncülü (prekürsörü) olan daunorubisin'in 14 numaralı karbonu hidroksile edilir. Daunorubisin bir doğal ürün olarak daha bol miktarda bulunur çünkü "streptomyces" cinsinin çeşitli yaban tipi ("wild type") suşları tarafından üretilir. Buna karşın tek bir yaban tipi olmayan tür, "streptomyces peucetius" alt türü olan "cesius" ATCC 27952'nin, tıpta daha yaygın kullanılan doksorubisin'i ürettiği bulunmuştur. Bu suş, daunorubisin üreten ama DXR üretmeyen bir suşun mutasyonu ile elde edilmiştir. Bunun ardından özel şartlarda, veya mutasyon yoluyla, diğer "streptomyces" suşlarının da doksorubisin ürettiği gösterilmiştir. DXR üretimi için gerekli olan çoğu gen klonlanmıştır. 1996'da daunorubisin'i DXR'ye dönüştüren dox A geni keşfedilmiş ve karakterize edilmişir. Bu genin ürünü, bir sitokrom P450 oksidaz olan Dox A'dır. Dox A proteini 1999'da rekombinant biçimi üretilmiş ve DXR biyosentezinin birden çok adımını (daunorubisin'i oluşturan son adım da dahil olmak üzere) katalizlediği bulunmuştur. Bu önemli bir keşifti çünkü daunorbisin üreten suşların hepsinde DXR üretmek için gerekli olan genlere sahip olduğu bulunmuştur. Tıbben daha önemli olan DXR'nin eldesini iyileştirmek için çeşitli çalışmalar yapılmış, bakterinin içine DoxA kodlayan plazmitler sokulmuş, ayrıca DXR prekürsörlerini faydasız bileşiklere (örneğin baumycin-benzeri glikositlere) dönüştüren enzimler mutasyon yoluyla inaktive edilmiştir. Dox A'yı aşırı derecede ifade eden bazı üçlü mutantlar DXR eldesini iki katına çıkarabilmiştir. O tarihlerde DXR'nin fiyatı $1.37 million/kg'di ve 1999'da yıllık üretim 225 kg idi. Daha verimli üretim teknikleri sayesinde lipozomal olmayan formülasyon için fiyatı $1.1 milyon/kg'a düşürmüştür. DXR yarı sentetik olarak daunorubisinden de üretilebilir ama bu süreç elektrofilik brominasyon ve çok sayıda reaksiyon içerir, bu yüzden reaksiyon eldesi düşüktür. Daunorubisin fermantasyon ile üretildiği için bakterilerin DXR'yi daha etkili şekilde sentezleyebilmesi ideal olacaktır.
+Etki mekanizması.
+Doksorubisin'in tam etki mekanizması karmaşık ve hâlâ tamamen anlaşılmamış olmakla beraber enterkalasyon yoluyla DNA ile etkileştiği düşünülmektedir. Doksorubisin enterkalasyon yoluyla ekileşip onun biyosentezini engellediği bilinmektedir. transkripsiyon sırasında DNA'nın açılmasını sağlayan Topoizomeraz II enziminin ilerlemesi engellenir. Doksorubisin DNA ikileşmesi sırasında topoizomerazın DNA'yı kesmesinin ardından meydana gelen topoizomeraz-DNA kompleksini stabilize ederek DNA ikili sarmalının tekrar birleşmesini engeller ve böylece DNA ikileşmesini durdurur.
+Kristal yapılarının analizinde görüldüğü üzere, molekülün düzlemsel kromofor kısmı DNA'daki iki baz çifti arasına enterkale olur, onun altı-üyeli daunosamin şekeri DNA'nın küçük oyuğuna yerleşir ve enterkalasyon yerinin iki tarafındaki baz çiftleri ile etkileşir.
+Klinik kullanım.
+Doksorubisin bazı lösemileri, Hodgkin lenfoma, yumuşak doku sarkoması, mültipl miyelom ayrıca mesane, göğüs, mide, akciğer, over, tiroit ve diğer kanseleri tedavi etmek için kullanılır. Yaygın kullanılan doksorubisin içeren rejimler arasında AC (Adriamycin, cyclophosphamide), TAC (Taxotere, CA), ABVD (Adriamycin, Bleomycin, Vinblastine, Dacarbazine), BEACOPP, CHOP (Cyclophosphamide, Adriamycin, Vincristine, Prednisone) and FAC (5-Fluorouracil, Adriamycin, Cyclophosphamide) sayılabilir. Doxil, AIDS-ilişkili Kaposi sarkom tedavisinde, ayrıca over kanseri tedavisinde kullanılır, hastalık platin-tabanlı kemoterapiden sonra ilerler veya nüksederse.
+Deneysel tedavi.
+Sirolimus (rapamycin) ve doksorubisin ile yapılan kombine tedavi deneyleri farelerde Akt-pozitif lenfomaların iyileştirilmesinde ümit verici olmuştur.
+Doksorubisin'in bir fare monoklonal antikoruna bağlanmasıyla elde edilen immünobileşik farelerde HIV-1 enfeksiyonunu yok edebilmiştir. antiretroviral tedavi (ART) hâlâ konak canlıda bir miktar HIV bırakmaktadır. Antijen ifade etmeye devam eden T hücrelerini yok etmek için doksorubisinli immünobileşiğin, ART'yi tamamlayıcı bir tedavi olma potansiyeli vardır.
+Liposomal formülasyonlar.
+Doxil peglenmiş (polietilen glikol kaplı) lipozom içine kapsüllenmiş bir doksorubisin biçimidir, ABD'de Johnson & Johnson için Ben Venue Laboratories tarafından imal edilir. Bu ilaç Kaposi sarkomunu tedavi etmek için geliştirilmiştir (AIDS'le ilişkili olan bu hastalıkta oluşan lezyonlar deri, ağızın içi, burun, boğaz ve diğer organlarda büyür). Polietilen glikol kaplama Doxil'in deride konsantre olmasını sağlar. Ancak, bunun bir yan etkisi, el-ayak sendromu olarak da bilinen "palmar plantar erythrodysesthesia" (PPE)'dir. Doxil verilmesinin ardından bu ilacın ufak bir bölümü el ayası ve ayak tabanındaki kapiler damarlardan sızabilir. Bu sızmanın sonucu deride rahatsız edici hatta acı verici derecede bir kızarıklık, hassasiyet ve soyulmadır. Klinik denemelerde hastalara 4 hafta boyunca 50mg/m2 dozajda Doxil verilince hastaların yaklaşık yarısında el-ayak sendromu oluşmuştur. Bu yan etkinin sıklığı, aynı tedavi rejiminde doksorubisin yerine Doxil verilmesine kısıtlama getirir. Bu yan etki olmasa Doxil substitusyonu tercihlidir, çünkü lipozom enkapsüle doksorubisin, enkapsüle edilmemiş doksorubisinden daha az kardiotoksiktir. Doxil ayrıca over kanseri ve mültipl miyelom tedavisi için ABD'de FDA tarafından onaylıdır. ABD dışında Doxil, Caelyx olarak bilinir ve Schering-Plough tarafından pazarlanır.
+Myocet, peglenmemiş bir lipozomal doksorubisin formülasyonudur, Enzon Pharmaceuticals tarafından 
+Avrupa'da Cephalon için, ABD ve Kanada'da Sopherion Therapeutics için imal edilir. Myocet,cyclophosphamide ile birlikte, Avrupa ve Kanada'da metastatik göğüs kanseri tedavisinde kullanılır, ama ABD'de bu tedavi hâlâ FDA onayı beklemektedir. Doxil'den farklı olarak Myocet lipozomunda polietilen glikol olmadığı için el-ayak sendromuna neden olmaz. Bu yan etkinin bertaraf edilmesi bu ilacın doksorubisin ile birebir değiştirilmesine olanak verir. Doxil gibi Myocet'de de kardiotoksisite olmadığı için diğer kardiotoksik kemoterapi ilaçları (Herceptin gibi) ile birlikte kombine tedaviler için kullanılabilir.
+Yan etkiler.
+Doksorubisin'in akut yan etkileri arasında mide bulanması, kusma ve kalp düzensizliği sayılabilir. Ayrıca nötropenia (akyuvarlarda azalma) ve kellik de olabilir. Kümülatif doksorubisin dozu 550 mg/m²'ye ulaşınca kardiyak yan etkiler (kalp yetmezliği, kardiyomiyopati ve ölüm) dramatik şekilde artar. Doksorubisin kardiotoksisitesi mitokondrilerdeki oksidatif fosforilasyonda dozla orantılı bir azalma ile karakterizedir. Doksorubisin ve demir etkileşiminden kaynaklanan Reaktif oksijen türleri miyositlere (kalp hücrelerine) zarar verebilir, miyofibrilar kayıp ve sitoplazmada vakuol oluşmasına neden olabilmektedir. Ayrıca, bazı hastalarda el-ayak sendromu ("palmar plantar erythrodysesthesia") meydana gelebilmektedir.
+Bu yan etkiler ve kırmızı rengi nedeniyle doksorubisin "kırmızı şeytan" veya "kırmızı ölüm" takma adları ile anılır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bahane Remix (albüm)</DOCTITLE>
+<TEXT>
+
+"Bahane Remix", Sezen Aksu'nun 2005'de yayınlanan stüdyo albümü. Albüm Bahane albümünün remiksidir.
+Şarkıların hikâyesi.
+Bahane albümü, tek CD olarak ilk yayınlandığında 30.000 civarında bir satış rakamına ulaşmıştı, daha sonra aynı albüm "Bahane Remixes" ismiyle içine yeni remixler eklenerek çift CD formatında yayınlanarak çok büyük bir satış başarı yakaladı ve yılın en çok satan albümü olarak MÜYAP Platinium ödülünü kazandı. Aynı yıl Altın Kelebek ödüllerinde "İkili Delilik" yılın şarkısı seçildi.
+Bu albümünde yapılan bir kartonet hatası sebebiyle albümün belki de en popüler remixlerinden biri olarak öne çıkan ve klasikleşen "İkili Delilik" in Kıvanch K ve Cem Oyal tarafından yapıldığı sanılmaktadır.
+Oysa ki bu parça Can Bener ve Cem Oyal tarafından Unkapanı'ndaki Yonca Müzik stüdyolarında yapılmıştır.
+"İkili Delilik" Remix Yapım Hikayesi:
+2005 yılında Can Bener, o dönem Yonca Müzik (DMC'nin yani Sezen Aksu'nun plak şirketinin türkiye distributörlüğünü yapan plak şirketi)'in yönetici ortağıdır. Bahane albümü basılıp Yonca Müzik depolarına girdiği anda daha yayınlanmadan ilk dinleyişte İkili Delilik şarkısı dikkatini çeker. Orijinal albümde bossa-nova bir slow parça olan "İkili Delilik"'in remixi yapıldığında çok büyük bir club hiti olabileceğini farkeder. 
+Bu sırada Can Bener'in liseden arkadaşı olan Cem Oyal, Kıvanch K. ile "Bahane" Albümüne Remix yapmak için görüşür. Şarkının orijinal kanallarını alır ve Can Bener'in Unkapanındaki stüdyosuna getirir.
+İkili Delilik isimli şarkının remixinin yapımı için Can Bener ve Cem Oyal tam 3 ay uğraşır. İlk 2 ay sayısız version deneyip hiç birinden tatmin olmayan ikili, bir gece "Kosheen - Hide U" isimli parçanın riff'ini keyboard da çalarken, aslında bunun tam da "İkili Delilik"'e uyacağını farkeder. Şarkının geçiş kısmında'da "Chicane - Don't Give Up" parçasının riff'inden esinlenirler. Bundan sonra şarkının prodüksyonu çok büyük bir hızla tamamlanır. İkili şarkıyı bitirdiğinde, yayınlandığı anda bunun Türkiye'ye mal olacak bir club hiti olacağını farkındadır.
+Bu şarkıyla beraber "Perişanım" ve "Eskidendi, Çok Eskiden" parçalarına da remix yaparlar. Can Bener yaptıkları çalışmanın final halini tüm kanallarıyla CD'ye aktarıp Cem Oyal'a Kıvanch K.'ya mixing (ses teknisyenliği) yapması için iletmesi için teslim eder.
+Prodüksyonu tamamlanarak ODEON CD fabrikasında basılan "Bahane Remixes" albümü Unkapanı İMÇ'de dağıtılmak üzere Yonca Müzik depolarına girer. Bu sırada Yonca Müzik şirketinin yöneticisi ve ortağı olan Can Bener, albümün kartonetinde kendi isminin geçmediğini, yerine Kıvanch K. isminin yazıldığını görür. Albüm çok yüksek miktarda basıldığı ve satış anlaşmaları önceden yapıldığı için albümün kartoneti değiştirilmez.
+Sezen Aksu'ya, Kıvanch K.'ya ve şirketine iletilen bu hata, Sezen Aksu'nun talimatı ile, eserlerinin telif haklarını koruyan MSG "(Musiki Eseri Sahipleri Grubu Meslek Birliği)" tarafından düzeltilir. MSG kayıtlarında İkili Delilik Remix parçasının telif hakları Can Bener, Cem Oyal ve Kıvanch K. üstünde görünmektedir.
+Aslında tüm prodüksyon'u ve düzenlemesi Can Bener ve Cem Oyal 'a ait olan bu İkili Delilik, Perişanım ve Eskidendi Çok Eskiden isimli parçalar yukardaki sebeplerden ötürü Kıvanch K remix olarak bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İkinin tümleyeni</DOCTITLE>
+<TEXT>
+
+Bir ikili sayının ikiye tümleyeninin alınması, yani ikiye tümlenmesi, kendisinden büyük ve 2'nin tamsayı üssü olan en küçük tamsayıdan çıkarılması ile gerçekleştirilir. Elde edilen sayının ikili sayı aritmetiğinde orijinal sayının eksi işaretlisi olarak davranması nedeniyle, tamsayı değerleri bilgisayarda temsil etmek için kullanılan ikinin tümleyeni gösterimi bu işlemi temel almıştır. -1 ile çarpmanın (veya toplamsal tersin bulunmasının) ikinin tümleyeni kullanılarak gerçekleştirildiği bu gösterime göre oluşturulmuş sayıların değerleri aşağıdaki formül kullanılarak hesaplanabilir.
+Buna göre, "n" ikillik bir bölgede temsil edilebilecek en küçük sayı 2-n-1—işaret ikili 1, diğer ikiller 0—olurken, en büyük sayı 2n-1-1—işaret ikili 0, diğer ikiller 1—olacaktır. Temsil edilebilir eksi değerlerin artı değerlerden sayıca bir fazla olmasının sebebi, tüm basamakların 0 olması ile temsil edilen sıfırın artı değerler ile aynı işaret ikiline sahip olmasıdır. Bu, birin tümleyeni ve işaretli büyüklük gibi diğer gösterimlerin aksine, ikinin tümleyeninde sıfır için tek gösterim olduğu anlamına gelir.
+Açıklama.
+"n" basamaklı bir N sayısının ikinin tümleyeni N≠0 için 2n-N ve N=0 için 0 olarak tanımlanır. Sayının ikillerinin 1'e tümlenmesi ile yapılan birin tümleyeni düşünüldüğünde, bir sayının ikiye tümlenmesinin aynı sayının birin tümleyenine 1 ekleyerek yapılabileceği görülür. Daha basit bir yöntem önermek gerekirse, bir sayının ikiye tümlenmesi şöyle gerçekleştirilebilir: söz konusu sayının sağ tarafında yer alan 0'ları ilk 1'e kadar değiştirilmeden bırakılıp, bu 1'den sonraki basamaklardaki 0'lar 1, 1'ler de 0 ile değiştirilir.
+İkininTümleyeni(011010010) → 100101110
+İkininTümleyeni(110011011) → 001100101
+Bugünkü modern bilgisayarlarda ikinin tümleyeni gösteriminin tercih edilmesinin birçok nedeni vardır.
+Eksi sayıların gösterimi.
+İşaretli büyüklük gösterimi.
+Eksi sayıların gösteriminde donanımdaki sınırlamalardan dolayı, ikil adı verilen ikili sayılardan yararlanılır. İşaretli ya da işaretsiz bütün ikili sayılar bilgisayarda ikillerle ifade edilir. Sayının işaretli olup olmadığı önceden belirlenir. Eğer ikili tabanda bir sayı işaretli olarak belirlenmişse en soldaki ikil sayının işaretini, geri kalan ikiller ise sayının mutlak değerini ifade eder. Eğer sayı işaretsiz olarak belirlenmişse en soldaki ikil sayının en anlamlı ikili olur. Burada, işaret ikili olarak artı sayılar için 0, eksi sayılar için ise 1 kullanılır. Örneğin; 0110 işaretsiz ikili sayısı olarak onlu tabanda 6, işaretli olaraksa +6 anlamına gelir. 1110 ise işaretsiz olarak onlu tabanda 14 iken işaretli olarak -6'ya eşdeğerdir.
+İşaretli tümleyen gösterimi.
+Eksi bir sayı mutlak değerinin tümleyeni alınarak da ifade edilebilir. Bir sayının ters işaretlisinin sadece işaret ikilinin değiştirilmesiyle elde edildiği işaretli büyüklük gösteriminden farklı olarak, tümleyenle gösterimde işaret değiştirmek için sayının tümleyeni alınır. Bu, işaret ikili dışındaki ikillerin de değişebileceği anlamını taşır.
+Artı sayılar her zaman için en solunda 0 ile başlayacağından, bu sayıların tümleyenlari de, yani eksi sayılar, 1 ile başlayacaktır. Diğer ikillerin yeni değerleri, ne çeşit bir tümleme yapılmasına bağlı olarak değişir. Birin tümleyeni alınması durumunda, diğer ikiller de tersi alınarak değişirken, ikinin tümleyininde sonuç işaretsiz gösterimdeki her ikilin tersinin alınıp bulunan sonuca 1 eklenmesiyle ifade edilir.
+Örnek.
+12 sayısının sekiz ikille gösterildiği durumu inceleyelim. +12'nin gösterimi en soldaki 0 değerli işaret ikilinin ardından mutlak değerin ikili tabanda ifade edilmesiyle elde edilir. Dolayısıyla, +12 00001100 olarak temsil edilecektir. Buna göre, -12 sayısını üç şekilde ifade edebiliriz:
+İşaretliBüyüklükG(-12) /* İşaret ikili değiştirilir */ → 10001100
+BirinTümleyeniG(-12) /* Tüm ikiller değiştirilir */ → 11110011
+İkininTümleyeniG(-12) /* BirinTümleyeniG(-12) + 1 */ → 11110100
+Dikkat edecek olursanız, +12 ve -12'nin ikinin tümleyeni gösterimlerinin toplamı 00001100 + 11110100 = 100000000'dır. Bu dokuz ikillik işaretsiz bir sayıdır ve bu sayı da 28 = 256'dır. Ancak biz sonucu sekiz ikillik ikinin tümleyeni gösterimli bir sayı olarak ele alırsak 1'i sekiz ikillik hesaplamada oluşan bir taşma olarak düşünür ve atarız. Dolayısıyla, sonuç olarak 00000000 = 0'ı elde ederiz. Bu da +12 ve -12'nin toplamından bekleyeceğimiz bir sonuçtur.
+Aritmetik İşlemler.
+Aritmetik Toplama.
+2'nin tümleyeni ile ifade edilen farklı işarete sahip iki sayıyı topluyorsak herhangi özel bir işleme gerek yoktur. Çünkü bu durumlarda taşma oluşmaz. 2'nin tümleyeni kullanılarak temsil edilen iki eksi sayının toplamı, işaret ikilleri de dahil olmak üzere iki sayının toplanmasıyla bulunur. İşaret ikillerinin toplanmasıyla oluşan elde atılır. Oluşan sonuç eğer eksiyse bu 2'nin tümleyeni biçimindedir.
+Buradaki mantık onluk tabanda kullandığımız toplama mantığı ile aynıdır. En düşük değerli basamaktan başlayarak toplama işlemleri yapılır, çıkan eldeler bir sonraki basamağa aktarılarak toplama işlemi tamamlanır. Eğer iki artı sayının toplamından eksi bir sonuç, iki eksi sayının toplamından artı bir sayı çıkıyorsa burada bir taşma söz konusudur.
+Genel anlamda n ikillik iki sayı ile başlamışsak ve toplamanın sonucu n+1 ikilden oluşuyorsa bir taşma var demektir. n ikillik bir sayının başına artı sayılar için 0, eksi sayılar için 1 getirerek ikil sayısını (n + 1)'e çıkarırız ve toplamı işlemini böyle gerçekleştiririz.
+Taşmanın oluştuğu bir durum için +6 ve +13 sayılarnı 5 ikille ifade edip toplayalım.
+Aritmetik çıkarma.
+İkili tabandaki çıkarma işleminin mantığı onlu tabandaki ile aynıdır: çıkan sayının basamağı diğer sayının aynı basamağından küçükse, çıkan sayının bir sonraki basamağından ödünç 1 alınır... Ancak, çıkarma işlemini ikinin tümleyeni kullanarak yapmak çok daha verimli olacaktır. Yapılması gereken, çıkarılan sayının ikinin tümleyeni alınıp diğer sayıya eklenerek sonucun bulunmasından ibarettir. +7'den +6'yı çıkaralım:
+İşaret ikili dahil olmak üzere çıkarılanın ikinin tümleyeni alınarak diğer sayıya eklenir. İşaret ikillerinin toplanması sonucu oluşacak elde atılır.
+Çıkarma işleminde iki sayının da işareti aynıysa bir taşma oluşmaz. Aksi takdirde, sayıların değerine göre taşma söz konusu olabilir.
+Donanım ile çarpma işlemi.
+İki bitlik iki sayının çarpımı
+Yazılım ile çarpma işlemi.
+Aşağıda işaretsiz çarpma işlemi için yazılım algoritması verilmiştir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üç sarmallı DNA</DOCTITLE>
+<TEXT>
+
+Üç iplikli DNA veya üç sarmallı DNA, üç oligonükleotitin birbiri etrafına sarılarak üçlü sarmal oluşturduğu bir DNA yapısıdır. Bu yapıda ipliklerden biri, B-biçimli DNA ile Hoogsteen veya ters Hoogsteen hidrojen bağları kurar. Bu bağ, ikili sarmalın büyük oluğunda oluşur.
+Örneğin, bir T nükleobazı, Watson-Crick baz eşleşmesi ile oluşmuş bir A-T baz çiftindeki A ile Hoogsteen hidrojen bağları kurarak bir AxT çifti oluşturur (x bir Hoogsteen baz çiftine karşılık gelir). N-3 pozisyonunda protonlaşmış bir sitozin (C+ olarak temsil edilir) bir G-C çiftindeki G ile bağ kurarak bir GxC+ çifti oluşturur. Bu Hoogsteen eşleşmeleri ile oluşan DNA üçlü sarmalları iki homopirimidin ve bir homopürin iplikten oluşur, homopirimdin olan üçüncü sarmal, homopürin olan iplikle aynı doğrultudadır. (Homopürin ve homopirimidin, sadece pürin veya pirimidinlerden oluşan DNA iplikleri demektir.)
+Homopürin olan bir üçüncü iplik ayrıca homopürin-homopirimidin ikiliye ters Hoogsteen bağlarıyla da bağlanabilir. Bu yapıda olan üçlülerde, A bazı bir T-A çiftine, G'da bir C-G çiftine bağlanır. Üçüncü iplikteki bazlar ters dönmek zorunda oldukları için, homopürin olan üçüncü iplik, orijinal ikili sarmaldaki homopürin ipliğin tersi doğrultusundadır (yani antiparaleldir). 
+Üç iplikcikli DNA ilk defa 1957'de betimlenmiştir. O zaman "E. coli" rekombinaz enzimi RecA'nın bir reaksiyon ara ürünü olduğu görülmüştü. Üçlü DNA'nın bu süreçteki rolü bilinmemektedir.
+DNA ikili sarmallarına bağlanarak üçlü yapılar oluşturacak oligonükleotitler kullanmanın laboratuvarda mutasyonlara ve rekombinmasyona neden olduğu, ayrıca transkripsiyonu engelleyebildiği bulunmuştur. Bu yöntemin biyoteknoloji ve tedavide kullanılması beklenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eskimo halkları</DOCTITLE>
+<TEXT>
+
+Eskimolar ya da İnuit ve Yupikler, Arktik bölgedeki dört ülkeye dağılmış olarak, Doğu Sibirya, Alaska, Kanada ve Grönland'da yaşayan ve Eskimo - Aleut dillerini konuşan Eskimo - Aleut halklarının en büyük grubunu oluşturan avcı ve toplayıcı halk. 
+Yupik ve İnuit olmak üzere iki ana gruba ayrılırlar. Sirenik Yupiklerinin dilleri diğer Yupik dillerinden belirgin biçimde farklıdır ve bu farklılığa dayanarak Menovşçikov ("Меновщиков") gibi kimi uzmanlar Sirenik Yupikçesini Yupik dilleri dışında tutarak Sirenik Eskimocası adı altında Eskimo dillerinin üçüncü ana kolu olarak sınıflandırır. 
+Adlandırma.
+Eskiden komşu halklar tarafından Eskimolara verilen adlar : 
+Eskimolaraın komşularınca şimdiki adları :
+Ova Kricesinde iglu anlamındaki askîmêw (eskimow) ᐊᐢᑮᒣᐤ kelimesi de vardır. 
+"Eskimo" adının kökeni.
+Batı dillerindeki “Eskimo” kelimesinin etimolojilerinden en yaygın olarak kabul göreni Smithsonian Institution'dan Ives Goddard'ın ileri sürdüğü Algonkin dillerinden İnnuca ("Montagnais") “snowshoe-netter” («kar ayakkabısı gibi ören») anlamına gelen kelimedir. İnnucada "assime·w" kelimesi «she laces a snowshoe» anlamına gelir. 
+Yerel folklorda "Eskimo" sözcüğünün ""çiğ et yiyen kişi"" anlamına geldiğine inanıldığı için bu kelimenin kendilerini tanımlamak amacıyla kullanılmasını hakaret kabul ederler. Bununla birlikte "Eskimo" sözcüğü diğer dillerde hakaret ya da küçümseme anlamı taşımaz ve antropoloji ve arkeolojide yaygın olarak kullanılır. "İnuit" ve "İnuk" sözcükleri Kanada'da resmi olarak Eskimo yerine kullanılmaktadır. 
+"Eskimo" sözcüğünün kökeni tam bilinmemekle birlikte, Kızılderili lisanı Algonkian'dan geldiğine ve "farklı dilde konuşan kişi" demek olduğuna inanılır . "Eskimo" sözcüğünün Cree dilinde "çiğ et yiyen kişi" anlamına geldiği savının doğruluğuna dair bir kanıt bulunamamıştır.
+Ojibwa Kızılderili dillerinde "kar ayakkabısının ağlarını örmek" anlamına geldiğine inanılır. 
+"Eskimo" adının kullanımı.
+Kanada Eskimoları "Eskimo" adını küçültücü bulup kendileri için kullanılmasını yasal olarak engellerken, Alaska Eskimoları kendilerine yasal olarak "Eskimo" denilmesinden rahatsızlık duymazlar. "Eskimo" adı Kanada'da geçerli olmasa da Alaska'da geçerlidir. .
+Kanada ve Grönland'da yalnızca İnuit kolundan Eskimolar bulunur. Buradaki halklar için "Eskimo" adının kullanılmaması karışıklık yaratmaz. Yupikleri de içine alan bütünleyici adlandırma olarak "Eskimo" adından kaçınılarak Inuit-Yupik ya da Inuit/Yupik biçiminde bir ikili adlandırma tercih edilir.
+Rusya Federasyonunda yalnızca Yupik kolundan Eskimolar bulunur. Buradaki halklar için "Eskimo" adının kullanılmaması karışıklık yaratabilir. Sirenik Yupikleri kimi uzmanlarca Eskimoların üçüncü ana kolu olarak kabul edilmektedir ve bunlara "Sirenik Eskimoları" denerek Yupik olmadıkları belirtilmek istenmektedir.
+Amerika Birleşik Devletlerine bağlı Alaska'da Eskimoların İnuit ve Yupik her iki kolu da bulunur. Buradaki halklar için "Eskimo" adının kullanılmaması kesinlikle karışıklık yaratır.
+Tarih.
+Asya ile Amerika birbirine bağlı kara parçaları iken, son Buzul Çağı'nın bitimine doğru (günümüzden yaklaşık 12000 yıl önce), Sibirya'dan Alaska'ya geçen avcıların torunlarıdır. Bununla birlikte bazı iddialara göre de MÖ 3000 yıllarında Bering Boğazı üzerinden Amerika'ya geçmişlerdir .
+Dil verileri ve arkeolojik kalıntılar Eskimo halklarının Bering Boğazı'nın buzlarla kaplanıp kara köprüsü olduğu zamanlarda günümüzden 10.000 yıl önce iki ayrı etnik grup (Eskimo ve Aleut) olarak Alaska'dan Kamçatka'ya kadar olan bölgede bulunduklarını göstermektedir. Eskimo ve Aleutların denizde avlanma tekniklerinin geliştirilmesinden önce bölündüklerini gösteren dil verileri arasında ok ve yay için ortak kelimelerin bulunması, bunun yanında deniz avcılığı terimlerinin Eskimo ve Aleutlarda farklı olması gösterilebilir. Eskimo ve Aleutlar deniz avcılığını birbirlerinden bağımsız olarak geliştirmişlerdir. 
+Rusya'nın Çukotka kıyılarındaki antik uygarlıklar erken Proto-Eskimo kültürüne ait üç dönem olarak ele alınır:
+Eskimoların Yaşamı.
+Ataları çeşitli bölgelere yerleştikleri için farklı kültür özellikleri geliştirmişlerdir; ama bu çok çeşitli toplulukların günümüzde de yaşayan ortak özellikleri vardır. İnuitler, günümüzde çoğunlukla Grönland'ın, Kanada'nın, ABD'nin ve Rusya'nın yasal sınırlarının iki yanında yaşamaktadırlar.
+Alaska'da çamur sıvalı dikdörtgen evlerde, Grönland'da taş, toprak ve balina kemiğinden yapılmış kubbeli evlerde, Kanada'da ise iglo denilen buzdan yapılmış kubbeli evlerde yaşarlar. Bununla birlikte modern evlerde yaşayan İnuitler de vardır. Kara ulaşımını köpeklerin çektiği kızaklarla, deniz ulaşımını "kayak" adı verilen kayıklarla ve bayanların kullandığı umiak adlı ağaç ve deriden yapılmış botlarla sağlarlar. Ancak günümüzde motorlu taşıtlar, motorlu kızaklar, ateşli silahlar ve modern kamp aletlerini de kullanmaktadırlar.
+İnuitlerin yaşadıkları geniş tundra bölgesi, yılda sekiz - dokuz ay süren dondurucu kuzey kışından ötürü tarıma elverişli olmayan topraklarla kaplıdır. Bu yüzden Eskimo ekonomisi avcılık ve balıkçılığa (özellikle balina avcılığı) dayanmaktadır. Temel yiyecekleri balık, ren geyiği ve sığındır.
+Sosyal yaşam.
+Aile.
+Bebek katli.
+Geçmişte Eskimolarda bebek katli ("infanticide") görülürdü. 
+Yukon'daki Yupikler gibi Malimiut İnyupikleri de yenidoğan kız çocuğunun ağzına önce ot doldurur sonra da ölüme terk ederlerdi 
+Kanada İnuitleri bebekleri buz üzerine bırakarak ölüme terk ederlerdi.
+Kuzey Grönland İnuitleri erkek çocukları tecih eder, buna rağmen kız çocukları keyfi infanticide yapılmaz, çoğu kez açlık zamanlarında uygulanırdı. Kutup Eskimolarının çocukları yere fırlatarak ya da deniz atarak öldürdükleri de kaydedilmiştir
+Eskimolar kız çocuklarının doğar doğmaz katledilmesi geleneği Batı kültürleriyle tanıştıktan sonra 1930 lu ve 1940 lı yıllarda terkedilmiştir.
+Köy odası.
+Eskimo köy odası (İngilizce "community house, traditional community house, communal men's house, men’s community house, men's house, ceremonial house, council house, dance house, communal gathering place") : Alaska'da İnyupikler ile Yupiklerde ve Sibirya'da ise yalnızca Naukan Yupiklerinde görülen geleneksel yapı ve yapılanmadır. Yalnızca erkeklerce kullanılan, genelde yarı yarıya toprağa gömülü tek odalı geniş ve büyük evdir. 
+Köy odası yapılanmasının görüldüğü Eskimo halkları ve bu yapılanma için kullandıkları adlar:
+Müzik.
+Keman.
+Eskimo kültürüne yabancı olan telli çalgılar Batılıların çalgılarına öykünmeyle ortaya çıktığı sanılıyor. Kanada İnuitlerinin Ernest William Hawkes tarafından 1916 yılında tanımlanan kanun benzeri müzik aleti tautirut )Eskimo kemanı) ile Alaska Yupiklerinin 1971 yılında Ronald Walcott tarafından kaydedilen lavta ya da keman benzeri çalgısı Kelutviaq (ya da Qelutviaq) bilinen iki Batı kaynaklı taklit çalgılardır ve fazla yayılmamış lokal ya da bireysel örnekler olarak kalmıştır. 
+Avcılık ve toplayıcılık.
+Eskimolarda av erkeklerce ya da kadınlarla birlikte yapılır ve avlanan büyük avlar erkeklerce yüzülür ve parçalanır. Fakat avın aile ve akrabalar ile ihtiyacı olan yabancılar arasında paylaşımı yalnızca kadınlarca yapılır.
+Din.
+Şamanizm.
+Eskimoların çoğu Şaman ya da Hıristiyan inançlarına sahiptirler. Hıristiyan Eskimolar "Grönland Evanjelik Lutherci Kilisesi ile Moravian ve Anglikan kiliselerine mensupturlar.
+Geleneksel eskimo inanışı ise şaman denilen din adamları etrafında organize olmuş, karmaşık ve sözlü olarak nesilden nesile nakledilen bir inanç sistemidir. Destanlar ve şarkılı şiirli atışmalar kültürlerinde önemli bir yer tutar.
+İskandinav Arktiğindeki Laponların şamanizmiyle Eskimo şamanizmi arasında benzer yönler bulunur. 
+Şamanın yardımcı ruhu (İng. "shaman's helping spirit"; Sibirya Yupikçesi "tughneghaq", Alaska Yupikçesi "tuunraq", İnyupikçe "tuunġaq", Doğu Kanada İnuitçesi "tuurngaq", Batı Grönland İnuitçesi "toornaq"): Şamanlara yardımcı olan ruhlardır. Günümüz Eskimo dillerinde bu anlamdaki kelimeler artık Hristiyanlığın etkisinde "devil" olarak kullanılmaktadır.
+Maske.
+Eskimo maskeleri, hem Yupik hem de İnuit kolundan Eskimoların dans ya da şamanistik törenlerde kullandıkları maskelerdir. Malzeme olarak kuru odun, deri, kemik, boynuz, tüy, saç gibi şeyler kullanılır ve genelde parlak boyayla boyanır. Erken Paleo-Eskimo ve erken Dorset kültüründen kalan morsun fildişinden yapılma minyatür maskeler bulunmuştur. Günümüzde Eskimo maskeleri arasında özellikle Yupik maskeleri öne çıkar.
+Hristiyanlık.
+Alaska.
+Alaska Yupikleri : Ortodoks hegemonyası 1885 yılında Kuskokwim Irmağı kıyısındaki Bethel'de "Moravian" misyonunun kurulması ile başlar. 
+Sibirya Yupikleri (Alaska): St. Lawrence Adasındaki ilk Hıristiyan misyonerler 1887 yılında Anglikan "Reformed Episcopal Church" adına faaliyet gösterdiler. Bunların ilk misyonerlik binası da 1890 larda iki direkli gemiyle getirilen malzemeyle yapılmıştır. 
+İnyupikler (Alaska) : Rus Alaskası döneminde Rusların bile yerleşemediği Arktik bölgede Kuzey Alaska İnyupikleri, Batılıların kültürüyle, diliyle ve diniyle en geç tanışan Eskimolardır. 1890 yılında Kuzey Alaska'ya Batılılar geldiğinde İnyupikler arasında tek bir Hıristiyan yoktu. Yirmi yıl gibi kısa bir süre içerisinde dramatik gelişme yaşandı ve misyonerlik faaliyetleriyle eski dinleri şamanizm büyük ölçüde yıkıldı. 1910 yılına gelindiğinde ise Hıristiyanlık İnyupikler için de evrensel olmuştu. Wales'de Protestan olan "Congregational" misyonu ve okulu 1890 yılında açıldı. Point Hope'de Anglikan olan "Episcopal" misyonu 1890 yılında açıldı. Barrow'da Protestan olan "Presbyterian" misyonu 1890 yılında açıldı. Kotzebue'de Anglikan olan "Friends" misyonu 1897 - 1902 yıllarında faaliyet gösterdi. 
+Nunivak Çupikleri (Alaska) : Hıristiyanlıkla tanışmaları 1936 yılında Mekoryuk ("Mikuryarmiut") kasabasında "Evangelical Covenant Church" Kilisesinin kurulmasıyla olmuştur. Mekoryuk'un ilk "ordained minister" i olan Jacob Kenizk'in adaya gelmesiyle Eskimo usulü dans etme ve şarkı söyleme ve maske yapımı ile birlikte bütün şamanistik törenler yasaklanmıştır.
+Giyim Kuşam.
+Takı ve beden süslemesi.
+Dövme.
+Kolsuz bacaksız insan biçimli üzeri dövme desenli fildişi oyma bebeklerin Arktik'teki tarihi 3.500 yıl öncesine uzanıyor. Bering Boğazı ve Grönland'da dövmeli mumyalara rastlanmıştır. 3.500 yıl öncesi Dorset kültürüne ait yüz maskesinde dövme izleri görülmektedir. 
+Dövme bütün Eskimo halklarında yaygın bir gelenek olup daha çok kadınlarda görülür. Eskimolardaki ilk dövme kaydını 1576 yılında Kanada'da Sir Martin Frobisher (1535 ya da 1539 - 1594) daha sonra kendi adıyla anılacak olan koyda Eskimolardan yapmıştır. 
+Günümüzdeki durumu ve geleceği.
+Inuit Circumpolar Council tarafından sıklıkla dile getirilen küresel ısınma ve buna bağlı iklim değişiklikleri bütün Eskimo halkları gibi İnyupiklerin de geleneksel yaşam tarzlarını tehdit eden en önemli etkendir. Eskimolar iklim değişikliğinden etkilenen halkların başında gelir ve Arktika için iklim değişikliği artık teori değil gerçektir. Buzlanmanın gecikmesi ve olanların da ince olması deniz buzu üzerindeki fok avcılığını olanaksız kılacak kadar zorlaştırabilmektedir.
+Asya Eskimoları.
+Asya Eskimoları, Rusya Federasyonuna bağlı Çukotka Özerk Okrugunda bulunan Çukçi Yarımadasında yaşayan Eskimo halklarının hepsi de Yupik kolundandır: Sibirya Yupikleri (Çaplino Yupikleri), Naukan Yupikleri ve Sirenik Yupikleri. 
+Yarımadanın kuzeydoğusunda Naukan adlı tek bir köyde yaşayan Naukan Yupikleri Soğuk Savaş döneminde köylerinin olası bir ABD saldırısına karşı 1958 yılında tahliyesi yapılmış ve diğer Eskimo köylerine yerleştirilmişlerdi. Bu tehcir, Naukan Yupiklerinin kültürlerinin yok olması sürecini hızlandırmıştır. Naukan Yupikçesinin konuşanların sayısı 2005 yılında 50 kişi idi.
+Yarımadanın güney ve güneybatı kıyılarında birkaç noktada yaşayan Sirenik Yupikleri, Yupik dilleri içinde en farklı dile sahip olduğu için kimileri Eskimoların Yupik ve İnuit dışında üçüncü kolu olarak sınıflandırır. Anadilini konuşan son kişi 1997 yılında ölmüştür. Bugün çoğu Sibirya Yupikçesi ("Ungazik şivesi") konuşur ya da Rusça ile birlikte ikidillidir. 
+Yarımadanın doğu kıyılarında yoğunlaşan ve nüfuslarıyla Asya Eskimolarının baskın unsuru olan Sibirya Yupikleri, diğer iki gruba göre anadillerini konuşan kişi sayısı fazladır. 
+Yıllarca Çukçilerin kültürel asimilasyonu altında kalarak çoğu Çukçileşmişlerdir. Kıyı Çukçilerinin de Çukçileşmiş Yupik oldukları tahmin ediliyor. UNESCO tarafından 1990 yılında yayımlanan "Arctic Languages, An Awakening" adlı çok yazarlı toplama çalışmada Asya Eskimolarının toplam sayısı 1.500 olarak verilirken, bunların ancak 917 si anadillerini konuştuğu kaydedilmiştir. En yoğun Eskimo nüfusunun görüldüğü yerleşimler Novoye Çaplino, Sireniki ve Uelkal köyleridir. Günümüzde yaşlı kuşak yalnızca anadillerini konuşurken, orta yaşlılar ikinci bir dil de konuşmaktadır. Geçmişte Eskimoca ve Çukçice ikidillilik yaygınken, bugün bu ikidillilikte Çukçicenin yerini daha çok Rusça almış bulunmaktadır. Gençlerde ise Rusçaya eğilim fazladır. Kültürel yozlaşma ile birlikte işsizlik, alkol ve buna bağlı yüksek suç oranları Asya Eskimolarının bugünkü toplumsal sorunlarıdır. 
+Alaska Eskimoları.
+Alaska yerlileri beş ana kültür grubuna ayrılır ve bunların ilk üçü Eskimo-Aleut halklarıdır: 1. Aleutlar (Unangan) ve Supikler (Alutiiq); 2. Alaska Yupikleri; 3. Sibirya Yupikleri ve İnyupikler. Alaska'da hem İnuit (İnyupikler) hem de Yupik (Yupikler, Nunivak Çupikleri, Sibirya Yupikleri, Supikler) kolundan Eskimolar bulunur. Bunların ekonomik durumları 1971 yılından sonra yükselişe geçtiği gibi anadillerinde eğitim olanağını da elde etmişlerdir. Rus Amerikası döneminde ABD'nin Ruslarla birlikte idare ettiği Alaska'yı 1867 yılında Rus İmparatorluğundan satın almasından bu yana 100 yıldır çözülemeyen yerlilerinin (Eskimo ve Kızılderililerin) toprak taleplerini çözmek üzere ABD Kongresinde 18 Aralık 1971 tarihinde başkan Richard Nixon tarafından imzalanarak yürülüğe giren ve ABD tarihinin en büyük toprak talebini karşılayan yasa olan Alaska Yerli Talepleri Çözümleme Yasası (ANCSA , "Alaska Native Claims Settlement Act") gereğince kurulan 13 yerli bölge şirketinden 8 tanesi İnyupiklere aittir ve bu bölge şirketleri de yerli köy şirketlerine ayrılır. Köy şirketleri topraklarının yüzey hakkına sahiptir, fakat bölge şirketleri hem köy şirketlerinin hakkına hem de toprakların yeraltı hakkına sahiptir. Alaska Eskimolarını tehdit eden sorunlar arasında alkolizm ve işsizlik başta gelir.
+Kanada Eskimoları.
+Mackenzie Deltası, Banks Adası, Merkezi Kanada İnuitleri ve Labrador İnuitleri gibi kültür gruplarına ayrılan Kanada Eskimoları (ya da Kanada'da yaygın adlarıyla İnuitler) Kuzeybatı Topraklarında Batı Kanada İnuitleri ile Nunavut, Nunavik ve Nunatsiavut'ta Doğu Kanada İnuitleri olmak üzere dil temelinde iki ana gruba ayrılırlar. Kanada'da Yupik kolundan Eskimo bulunmaz, hepsi İnuit kolundandır.
+Grönland Eskimoları.
+Danimarka'ya bağlı özerk Grönland'da Yupik kolundan Eskimo bulunmaz, hepsi İnuit kolundandır.
+
+</TEXT>
+</DOC>
+

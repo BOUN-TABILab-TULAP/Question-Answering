@@ -1,0 +1,32 @@
+AGROVOC
+AGROVOC - Tarım ve Vocabulary bir porte-manteau kelime - Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), gıda, beslenme, tarım, balıkçılık, ormancılık, çevre vb gibi ilgi tüm alanlarını kapsayan çok dilli kontrollü kelime olduğunu , Arapça, Çince, Çekçe, İngilizce, Fransızca, Almanca, Hintçe, Macarca, İtalyanca, Japonca, Korece, Lao, Farsça, Lehçe, Portekizce, Rusça, Slovakça: kelime 20 dilde 40.000 koşulları ile 32.000 üzerinde kavramların oluşur İspanyolca, Tayca, Türkçe. Bu ortak çaba, uzmanlardan oluşan bir topluluk tarafından düzenlenmiş ve FAO tarafından koordine olduğunu.
+AGROVOC RDF / SKOS-XL konsept şeması olarak FAO hazır ve 13 diğer sözlükler hizalanmış bir bağlantılı veri seti olarak yayınlanmaktadır.
+Tarihi.
+AGROVOC ilk İngilizce FAO tarafından 1980'lerin başında yayımlanan, İspanyolca ve Fransızca başta Agris için, tarımsal bilim ve teknoloji endeksi yayınlara kontrollü kelime olarak hizmet vermektedir.
+1990'larda, AGROVOC kağıt baskı terk ve bir ilişkisel veritabanı tarafından ele veri depolama dijital gitti. 2004 yılında, Web Ontoloji Dili (OWL) içine AGROVOC ifade ile ön deneyler gerçekleştirildi. Bir web tabanlı düzenleme aracı geliştirildi Aynı zamanda, daha sonra VocBench günümüzde, tezgah çağırdı. 2009 yılında AGROVOC bir SKOS kaynak haline geldi.
+Bugün AGROVOC bir SKOS-XL konsept düzeni olarak 20 dilde ve tarımla ilgili 13 diğer veri setleri hizalanmış Bağlantılı Açık Veri (LOD) set olarak yayınlanan olduğunu.
+Kullanıcılar.
+AGROVOC almak ve tarımsal bilgi sistemleri ve web sayfalarında verileri organize, indeksleme için araştırmacılar, kütüphaneciler ve bilgi yöneticileri tarafından kullanılır. Semantik Web kapsamında ayrıca yeni kullanıcılar yazılım geliştiricileri ve ontoloji inşaatçılar gibi, ortaya çıkmakta.
+Erişim.
+AGROVOC çeşitli şekillerde ulaşılabilir:
+Bakım.
+FAO Genel Müdürlük bulunan AGROVOC ekibi, AGROVOC korunmasına ilişkin editoryal faaliyetleri koordine eder. Gerçek bakım 20 dil sürümleri her biri için editör ve kurumların bir topluluk tarafından yürütülür.
+AGROVOC düzenlemek ve korumak için toplum tarafından kullanılan alet Semantik Web gereksinimlerini ve bağlantılı veri ortamlarını karşılamak üzere tasarlanmış Vocbench vardır. VocBench işbirlikçi düzenleme ve çok dilli terminoloji hem kolaylaştıran araçlar ve işlevleri sağlar. Ayrıca bakım, doğrulama ve kalite güvencesi için esnek roller izin yönetim ve grup yönetim özelliklerini içerir.
+FAO ayrıca LOD kaynak olarak yayımı dahil AGROVOC teknik bakımını kolaylaştırır. Teknik destek VocBench teknik gelişimini açar Tor Vergata Üniversitesi (Roma, İtalya) tarafından sağlanır. AGROVOC online yayın için teknik altyapı Mimos Berhad (Kuala Lumpur, Malezya) tarafından barındırılmaktadır.
+Yapısı.
+AGROVOC hazine tamamı 32,000+ kavramları hiyerarşik 25 üst kavramların altında düzenlenmektedir. AGROVOC üst kavramlar, "organizmalar", "yerleri", "ürünler", vb "organizma" Daha fazla kavramların toplam sayısının yarısından "faaliyetler" gibi çok genel ve üst düzey kavramları vardır (20.000) üst altında düşüş AGROVOC ölçüde tarım sektöründe yönelik nasıl teyit kavram "organizma".
+AGROVOC ayrılır kavramsal ve terminolojik düzeyi anlamına gelen bir RDF / SKOS-XL konsept düzeni vardır. Böyle bir kavram şeması için temel kavramlar şunlardır: kavramlar, bunların etiketler ve ilişkiler.
+Kavramlar biz temsil veya etki alanında "hakkında konuşmak" istediğiniz bir şey vardır. Kavramlar terimlerle ifade edilir. Bir kavram da çeşitli dillerde bunu ifade etmek için kullanılan tüm terimlerin kümesi olarak düşünülebilir.
+Kavram, dereferenceable Urı'ler (= URL) tarafından tespit: SKOS yılında kavramlar SKOS olarak resmiyet vardır. Örneğin, URI http://aims.fao.org/aos/agrovoc/c_12332 ile AGROVOC konsepti "mısır" için olduğunu.
+Şartlar bir kavram isim kullanılan gerçek terimlerdir. Örnek "mısır" için "maïs", "玉米", "ข้าวโพด" sırasıyla İngilizce, Fransızca, Çince ve Hintçe aynı konseptte başvurmak için kullanılan tüm terimlerdir.
+AGROVOC koşulları etiketler için SKOS uzantısı SKOS-XL ile ifade edilmiştir. kullanılan yüklemler şunlardır:
+skosxl: Tercih terimler (hazine terminolojisinde "tanımlayıcılar") için kullanılan prefLabel, ve
+skosxl: olmayan Tercih terimler kullanılır altLabel.
+Geniş, SKOS: dar SKOS yılında kavramlar arasındaki hiyerarşik ilişkiler yüklemler SKOS tarafından ifade edilmektedir. Onlar klasik eş anlamlılar ilişkileri geniş / dar (BT / NT) karşılık gelmektedir.
+Sigara hiyerarşik ilişkiler kavramları arasındaki "ilişkililik" kavramını ifade eder. AGROVOC SKOS ilişkisi SKOS kullanır: ilgili ve Agrontology adı ilişkilerin belirli bir kelime (klasik eşanlamlılar sözlüğü RT tekabül eder).
+AGROVOC ayrıca SKOS için SKOS-XL uzantısı etiketleri arasındaki ilişkiler (yani terimleri), sayesinde tanır.
+Bağlantılı verileri.
+AGROVOC bağlantılı veri seti olarak mevcuttur ve tarım (aşağı aşağıdaki tabloya bakınız) bağlı 13 sözlükler ile uyumlu (bağlantılı) olduğunu. AGROVOC bağlantılı veri versiyonu bir içerik müzakere mekanizması yoluyla, RDF ve HTML olarak maruz kalmaktadır. Aynı zamanda, bir SPARQL uç noktası üzerinden maruz kalmaktadır.
+LOD olarak yayınlanmış AGROVOC gibi eşanlamlılar sözlüğü sahip olmanın avantajı Kavramlar Dizini bağlandıktan sonra, kaynaklar da göstergesi da bağlantılı olmasıdır. Buna iyi bir örnek AGRIS, ilgili web kaynaklarına (AGROVOC ile endeksli) AGRIS bibliyografik depo bağlayan bir mash-up web uygulaması (AGROVOC bağlantılı sözlükler endeksli).
+Telif hakkı ve lisans.
+İngilizce AGROVOC hazine içerik için telif hakkı, Fransızca, Rusça ve İspanyolca FAO ile kalır ve bir Creative Commons Attribution-ShareAlike 3.0 Unported Lisansı altındadır. Başka bir dilde için, telif hakkı üretimi için sorumlu kurum aittir.

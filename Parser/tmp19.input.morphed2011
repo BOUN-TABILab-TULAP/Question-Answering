@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Sakarya	Sakarya	+Noun+Prop+A3sg+Pnon+Nom
+
+nehri	nehir	+Noun+A3sg+P3sg+Nom
+nehri	nehir	+Noun+A3sg+Pnon+Acc
+
+hangi	hangi	+Adj
+
+denize	deniz	+Noun+A3sg+Pnon+Dat
+
+dökülür	dök+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+dökülür	dök+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

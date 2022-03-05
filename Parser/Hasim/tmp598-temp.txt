@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Besin besi+Noun+A3sg+P2sg+Nom besin+Noun+A3sg+Pnon+Nom Besin+Noun+Prop+A3sg+Pnon+Nom
+piramidinde piramit+Noun+A3sg+P2sg+Loc piramit+Noun+A3sg+P3sg+Loc
+tepeden tepe+Noun+A3sg+Pnon+Abl
+tabana taba+Noun+A3sg+P2sg+Dat taba+Adj^DB+Noun+Zero+A3sg+P2sg+Dat taban+Noun+A3sg+Pnon+Dat taban+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+biyokütle biyokütle+Noun+Prop+A3sg+Pnon+Nom
+nasıl nasıl+Adverb nasıl+Adj
+değişir değiş+Verb+Pos+Aor+A3sg değiş+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

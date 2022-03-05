@@ -1,0 +1,149 @@
+IBM System / 34
+IBM System / 34 Şubat ayında pazarlama çekildi 1977 yılında tanıtılan bir IBM orta seviye bilgisayar oldu 1984. Bu tek kullanıcı System / 32 çok kullanıcılı, multi-tasking halefi oldu. En önemlisi, bu eski Sistemi / 3 dayanan iki çok farklı işlemci, bir System / 32 esas ve ikinci dahildir. Sistem / 32 ve System / 3, Sistem gibi / 34 öncelikle RPG II dilde programlandı. Makine yüklemek ve sıralı olmayan biçimde çıkarmak olabilir 8-inçlik disket kutuları - Makinenin ilginç özelliklerinden biri "dergileri" kullanılan bir off-line depolama mekanizması oldu. Böyle programlanabilir iş kuyrukları ve öncelik seviyeleri gibi borçlanma anabilgisayar özellikleri, Sistem / 34 bellek 64 K koştu.
+Fiziksel görünüm ve şartlar.
+Sistem / 34 5340 Sistem Birimi görünüşte büyük bir yıkama-kurutma andıran ve nedeniyle iç soğutma fanlar, gürültülü oldu. Bu her iki tarafta birden fazla erişim kapıları vardı. İçeride, devre kartları ve hafıza kartları monte edildi swing-out meclisleri vardı. 700 £ ağırlığında ve standart ev 220V güç kullandı. Sistem dolar maliyeti 100.000 artı.
+IBM kısaltmalar.
+IPL - İlk program yükleme
+Başlatma veya sistemin yeniden başlatılmasını. Bu kısaltma göz pee-ell telaffuz edildi ve benzeri ("biz IPLing iken") bir geçmiş zaman ile fiil ("IPL sistemi" () "o zaman biz IPLed") ve şimdiki zaman olarak kullanıldı ve - yanı sıra ("Bir sonraki IPL sonra.") bir isim
+Program Analiz Raporu APAR-Yetkili
+Bir APAR IBM sürecine her yeni sistem / 34 böcek girişini duyurdu. Bu gerçek bir sorun olsaydı, ayrıntıları (sistem sorunları için) ya da Menlo Park / Rayners Lane (MMAS, CMAS veya DMA uygulama sorunları için) Rochester çözümlemesi için gönderilecek. Sonunda APAR karşılık gelen bir PTF sabit olabilir (aşağıya bakınız).
+PTF - Program Geçici Fix
+IBM PTF disketler denilen disketlerde hata düzeltmeleri dağıtmak istiyorum. PTF'lerin uygulayarak, kullanıcı yazılım sorunları çözmek olabilir. Sonraki sürümü yayımlandığında, kullanıcı alınan Disket eski PTF'lerin sürüm güncelleme dahil edilmiştir (S / 34 en son sürüm 1981 yılında Release 9 idi) ve eski disket yararsız oldu. PTF'lerin onlar adını kullanarak, SSP sonraki sürümleri yerini edildi anlamında sadece geçici vardı çünkü "PTF" garip olarak kabul edildi.
+F1, I1, S1-S3 ve M1.01 - M2.10.
+Bu sistem ekipmana verilen isimler bulunmaktadır.
+F1 Sabit Disk olduğunu (sabit disk).
+I1 Disket Sürücü olduğunu.
+(Bir dergi sürücü bağlıysa.) S1, S2, S3 ve üç adet tek Disket Yuvaları vardır
+M1.01-M1.10 Dergisi 1 ile 10 disket yuvaları: 1 bulunmaktadır.
+M2.01-M2.10 Dergisi 2 ile 10 disket yuvaları: 1 bulunmaktadır.
+kelimenin tam anlamıyla, -123 metinde "12L" eşittir F1F2D3 olur.
+Yazılım.
+SSP, Sistem / 34 İşletim Sistemi.
+SSP ("Sistem Destek Programı") S / 34 tek işletim sistemi oldu. O yaklaşık 5 MB idi multiprogramming, çoklu işlemciler, 36 cihazların, iş kuyrukları, yazıcı kuyrukları, güvenlik, endeksli dosya desteği için destek içeren ve tamamen yüklü.
+Dil derleyiciler.
+S / 34 vardı, beş: RPG II, COBOL, BASIC, FORTRAN ve Assembler. RPG, ucuz, kompakt boyutları kod yarattı ve best-seller oldu. Cobol iş dünyasında popüler oldu. Fortran veri işleme amaçlı çok pratik değildir ve Temel güzeldi iken, etkileşimli 40K oturum olarak uygulanmıştır. Assembly dili etkili, ancak yanlışlıkla System / 34 işlemci denetimi oluşturmak için biraz fazla kolay.
+S / 34 bir özelliği Temel ve Fortran özel idi. Ne tam tersi, Basic çalıştırırken Bir sistem üzerinde bir Fortran programı çalıştırmak olamazdı. Kimse bu mikrokod seviye sorunu akademik sadece can sıkıcı varsayalım bu yüzden Fortran, kesinlikle popüler bir dil değildi.
+S / 34 tarihinde Basic uygulama Sistemi / 36, Sistem / 23, Sistem / 38 ve bu çok yakın olan AS / 400 (iSeries.) Sistemi RPG II uygulama / 34 olduğunu RPG II benzeri System / 36, System / 370 ve System / 390 üzerinde kullanılan, ancak RPG III ve iSeries müteakip RPG derleyicileri gibi değil.
+SDA - Ekran Tasarımı Yardımları.
+Bu uygulama operatörü çevrimiçi ekran biçimlerini veya menüleri oluşturmanıza olanak verir. Ekran formatları çok neyi Visual Basic ve Erişim çağrısı gibi "formlar". Komut tuşları / devre dışı etkin olabilir. Giriş alanları, çıkış alanları ve sabitler oluşturulur ve klimalı edilebilir. Koşullar benzeri alanlar, değişim renkleri kaybolmasına neden olabilir (RPG, bu "göstergeler" olarak adlandırılır), ve.
+SIRALAMA - Sistem sıralama programı.
+SAYI herhangi bir geçerli kayıt uzunluğu olabilir 1-8 giriş dosyaları alır. Bu 8 milyon artı kayıtlarına sıfırdan içerebilir herhangi belirtilen uzunlukta, bir çıkış dosyası vardır.
+Bir çeşit tüm kayıtları veya ilişkili dosya kayıtlarına işaret sadece 3-byte adreslerini içerebilir. Bu bir adres-out dosya veya ADDROUT çağrıldı. Bir Addrout kullanırken, program, bu 3-bayt adresleri okumak ve ardından ana dosyadan ilişkili kayıtları alınmadı.
+Bir ELİNDE-S mizaç ile Addrout kullanacağınız bir sistem / 38-tarzı mantıksal dosyanın faydalarını istediği bir programcı:
+codice_1
+Program tamamlandıktan sonra, Addrout dosyası artık yok. Bu, "çizik" ya da otomatik olarak siler sistemi, yani-S SAKLAMAK kurulmuştur.
+SEU - Kaynak Giriş Programı.
+Bu DOS dönemi metin editörü gibi görünüyor. SEU satır-satır dayanarak veri girişine izin verir. Özel formlar RPG programları veya form tabanlı dillerin diğer türleri (WSU, Sıralama, SDA, vb) anahtarlama operatöre yardımcı olmak için kullanılmaktadır
+WSU- - İş İstasyonu Programı.
+Bu, S / 34 koştu bir RPG benzeri bir dil oldu. Bu veri girişi türü programlar üzerinde duruldu. WSU ücretsiz, ama çok sınırlı olduğundan özellikle iyi alınan değildi.
+Terminaller, görüntüler, ekranlar, iş istasyonları ve monitörleri.
+Monitör küçüktü dışında bir operatör, belli belirsiz bugünün PC benzer bir cihazın önünde oturdu, (2000 $ ABD) pahalı, düşük çözünürlüklü (24x80) ve mevcut renkler yeşil ve parlak yeşil idi. Renkli ekranlar (7 renk) sonra geldi.
+Kart yumruklar bir halefi olarak, veri giriş disketler hazırlamak için, iki 12x80 görüntüler içine yatay olarak monte edilmiş ekran bölmek için ayna sistemi kullanılan bir "çift ekran" (3742) adlı özel bir iş istasyonu vardı. İki kullanıcıları iki klavye ve iki disket sürücüleri ile bunun iki tarafında oturdu.
+IBM renkler.
+1984 öncesinde, 5251 monitör hakim - bu ABD $ 2000 ve ne IBM "çift renk" (yeşil ve parlak yeşil) çağırdı. Ancak, 1984 yılında, IBM 3180 Terminal IBM Renk çağında usher yardım - yedi renk (., Pembe, kırmızı, mavi, sarı, yeşil, beyaz ve turkuaz) 1984 yılında, 3180 terminalleri fiyatı ABD altında 2000 $ oldu olsa bir grafik özellikli terminali oldu. 1986 itibariyle, "renkli" monitörün başka tür yoktu - yeşil yerine, görüntülenen karakterler (IBM dilinde "kehribar") sarı idi.
+Programlama IBM renkler.
+Uygulama donanım düzeyinde tamamen çünkü Programlama renkler, yeni bir ekran programlama dili gerek yoktu. Bir protokol IBM 5250 Data Stream gibi yanıp sönen, sigara ekran, yüksek yoğunluk, altı çizili, görüntüyü ters ve sütun ayırıcı olarak saha özelliklerini yorumlanır ve renkleri oluşturmak için birlikte kullanılan çağırdı. Normal metin 3180 renk terminali yeşil olarak sunuldu, fakat yüksek yoğunluklu beyaz oldu. Sütun ayırıcılar sarı oldu. Yanıp sönen kırmızı oldu. Altı çizili metin mavi olarak sunuldu. Yanıp sönen Yüksek yoğunluklu pembe oldu. Yüksek yoğunluklu sütun ayırıcılar turkuaz oldu.
+Beş ışıklar.
+Bir 5251 tipi terminalde, izlemek için beş ışık vardı:
+(1) Sistem Mevcut ışık. Lit Eğer bu terminal S / 34 bağlanır ve ondan bilgi alıyor.
+(2) İleti ışığı bekliyorum. Diğer kullanıcılar ve sistem kendisi iş istasyonlarına mesaj gönderebilirsiniz. Yaktı Eğer henüz görülmemiştir en az 1 mesaj var. Bir program bittiğinde mesaj (lar), kullanıcı işaretleri gösterilir veya.
+(3) takın. Ekle tuşuna basıldığında edilmiştir. Vardiya sağ iken imleç sonra Karakterler metin anahtarlı zaman. Basın takın tekrar takın Modu durdurma.
+(4) Kilit ışığı Caps. Caps Lock tuşuna basıldığında edilmiştir. Basıldığında tüm tuşlar büyük harf olacak. Basın Caps kilidini açmak için tekrar kilitleyin.
+(5) Klavye Shift ışığı. Shift tuşuna basılı ediliyor. Aynı anda basıldığında anahtar büyük harf olacak.
+Klavye.
+5251 ve 5291 terminalleri 5150. Daha sonra 5250-uyumlu terminaller 122-anahtar veya 102/103 tuşlu klavye kullanılan IBM PC benzer anahtar düzenleme ile 83 tuşlu klavye kullanılır. Katakana için özel bir terminali ve klavye, Japon Dili bir hece oldu
+Aygıtların yapılandırılması.
+DIP switch'leri.
+Yazıcılar ve iş istasyonları yapılandırma için "DIP switch'leri" olarak bilinen ikili anahtarlarının bir dizi vardı. İkili KAPALI ayarları, sıfır ("0") ve bir ("1") ileri ve geri dahili geçiş yapmak için kullanıldı. ABD İngilizce ve İngiltere İngilizce, İngiliz sterlini ("TL") kullanın ve Amerikalılar dolar ("$") kullanın. Bir anahtar sıfır konumda İngiliz değer görüntülemek veya baskı olacağını yazıcılar ve monitörler üzerinde kurulabilir. Bir pozisyonda Amerikalı değer görüntülemek veya baskı olacaktır. .
+Adresinin ayarlanması.
+Maksimum 32 cihaz, 0 ila 3 numaralı dört satır bir çizgi IN ve OUT portları ile cihazlara bağlı twinaxial kabloların bir dizi olarak tanımlandı kullanarak, System / 34 yapılandırılmış olabilir. Sekiz cihazlar hat başına yapılandırılmış olabilir; Bu ile 7 0 numaralı bulundu.
+Her cihazda Üç ikili anahtarları Bazen anahtarlar 2, 1 numaralı edildi (. Belirli bir hat üzerinde belirli bir terminalin fiziksel atama) terminalin adresi için kullanılan ve 4. bir adres ayarlamak için vardı, basit bir ek kullanılmıştır :
+Sıfır tüm ayarları kapalı.
+Bir ayarı 1'dir.
+İki ayarı 2 'dir.
+Üç 2 ve 1 ayarlarıdır.
+Dört ayarını 4'tür.
+Beş 4 ve 1 ayarlarıdır.
+Altı 4 ve 2 ayar olduğunu.
+Yedi tüm ayarlar olduğunu.
+İki cihaz tek bir satırda aynı adrese sahip olamaz. Adresleri belirlendi sonra, sistem bunları kullanmak üzere yapılandırılmış olabilir.
+CNFIGSSP kullanarak yapılandırma.
+CNFIGSSP prosedürü cihazlar dahil, sistemi yapılandırmak için kullanılmıştır. Her cihaz iki karakter kimliği atanır. ilk harfi alfabetik olmalıdır; İkinci ALPHAMERIC olmalı. Sistem aynı zamanda belli kimlikleri aittir; Cihaz, örneğin I1 veya F1 denilen olamaz. I1 Disket sürücüsü adıdır; F1 sistemi sabit sürücüyü dediği (o bir çıkarılabilir disk paketi değil çünkü ", sabit disk" anlamına gelir.)
+Çizgi / adres harita üzerinde cihazları yerleştirmek için CNFIGSSP kullanın; Özellikle IBM yazıcıyı veya terminal modelini belirlemek; Böyle konsolda, alternatif konsolda, subconsole gibi özelliklere atamak; ve yazıcının subconsole isim.
+CNFIGSSP uygulamak için, sistem adanmış olmalıdır (diğer kullanıcılar oturum veya programlar çalıştıran.) Sistem IPL bittiğinde (yeniden başlatılması.), Yeni cihazlar durum ekranda görünür IPLed gerekir.
+İşlemciler.
+S / 34s iki işlemci, Denetim Depolama İşlemcisi (CSP) ve Ana Depolama İşlemcisi (MSP) vardı. MSP Sistemi / 3 mimarisine dayanan, beygir vardı; Bu bilgisayar programları talimatları uygulandı. CSP Sistemi / 32 mimarisine dayanan vali, farklı yarı-RISC komut seti ile farklı bir işlemci, vardı; arka planda sistem işlevlerini gerçekleştirdi. Özel yardımcı programlar belirli işlevleri gerçekleştirmek için CSP doğrudan görüşme yapmak başardık; Bu genellikle bilgisayar sistemi yapılandırmak için kullanılan $ CNFIG gibi sistem programlarıdır. Bu iki işlemci tandem çalıştı.
+Bir Sistem içindeki CPU saat hızı / 34 MSP için 1 MHz ve CSP 4 MHz'de tespit edildi. Bugünün PC tabanlı dünyada, S / 34 16 80386 MHz Intel 20 mikroişlemcinin hesaplama eşdeğer oldu.
+Bellek ve disk.
+En küçük S / 34 RAM 48K ve 8.6 MB sabit sürücü vardı. büyük yapılandırılan S / 34 disk alanı RAM ve 256 MB 256 K destekleyebilir. ABD üzerinden bu maliyet 1980'lerin 200.000 $ geri. Sürücüde kötü noktalar tespit edildi ve bu dinamik yüzden teknik sistem 256MB fazla tanımadı ise ... ekstra silindir üzerinde iyi noktalara eşlenen böylece S / 34 sabit diskler, "ekstra silindir" olarak adlandırılan bir özellik içeriyordu Bu biraz daha fazla boşluk var.
+Yazıcılar.
+Tipik Sistemi / 34 teklifleri şunlardır:
+Sistem güvenliği.
+Neredeyse hiç kimse satın rozeti okuyucu, bu nedenle burada ele değildir;: Orada Sisteminin Üç tip / 34 güvenlik vardır şifre güvenliği; ve kaynak güvenliği.
+Şifre güvenliği bir bilgisayar terminalinde bir oturum başlatmak için kullanıldı. Güvenlik inaktif olduğu sürece, doğru bir şifre başlamak için girilmelidir.
+Sistem / 34 işareti bu gibi görünüyordu:
+PROF ("Profil") prosedürü Kullanıcı kimlikleri ve şifreleri ile çalışmak için kullanılmıştır. Kullanıcı profili 1-to-8 karakterli alfanumerik Kullanıcı kimliği, 4 karakter alfanümerik şifre kullanıcının güvenlik değerlendirmesi-M (Master Güvenlik Görevlisi), S (Güvenlik Görevlisi), O (Sistem İşletmecisi), C için bir kod (içeriyor Subconsole Operatörü), veya D () İstasyon Operatörü Ekran - ve diğer varsayılan ayarlar bir dizi.
+PRSRCID ("Kullanıcı Kimliği By Kaynak Güvenliği Profil") prosedürü dosyası ve kütüphane nesneler için güvenlik derecelendirme kurmak için kullanıldı. O (sahibi), G (Değişim), R (Oku) E (Yürüt) veya N (Yok) erişim düzeyleri belirli bir kaynak için bir kullanıcı için verilmiş olabilir.
+basılı disk katalog (VTOC, Cilt İçindekiler) güvence altına kadar gösterimde 3 tüm güvenli nesneler görüntülenir.
+Dosyalar ve kütüphaneler.
+SSP dosyaları ve kütüphaneler olmak üzere iki farklı veri nesneleri sağlar. Dosyalar sabit kayıt uzunluğu ile hemen hemen her zaman, kayıtları içerir. Kütüphaneler başvuru ve bu dosyaları erişebilirsiniz programları içerir. SSP fazla 60 farklı operatörler oluşturmak, silmek için izin komutları, kopyalama, düzenleme / değiştirme ve güvenli dosya ve kütüphaneleri içeriyordu.
+Disk alanı ölçümleri.
+Sistemi Disk alanı / 34 tarafından düzenlenen "bloklar". Bir blok = 2560 bayt. Bir high-end sistemi mevcuttur disk alanı yaklaşık 90,000 blokları ile gemi olacaktır. Sistem nesneleri bloklar ya da kayıtlarda tahsis edilebilir, ama içten hep engeller oldu.
+Program boyutları.
+S yana / 34 "16-bit" programları, derlenmiş ve koşmak 64K idi olabilir büyük bir program koştu. Çoğu neredeyse o büyük değildi. Bellek adresleri 16 bit bekletildi beri, bir 64K programı genellikle kod 3.000 hatları, beş ya da altı dosyaları ve kırk küsur dizi / table girişleri ile dev bir canavar RPG ekran programı oldu.
+Caching.
+«" Dikkatli bu bölümü okuyunuz; 48K RAM S / 34 sunulmuştu çok daha fazla, işlem overlaying denilen daha küçük bir yürütülebilir boyutu bir program sıkmak için. "»
+RAM sadece 48K önbelleğe adı verilen bir işlem kullanarak kullanılabilir olduğunda bir 64K bilgisayar programı S / 34 üzerinde çalışabilir. Sistem şu anda çalışan programları bölümlerini içeren sabit disk üzerinde bir önbellek veya çalışma alanını kullanır. Ve depolama dışarı parça parça taşımadan sonra önbellek alanına tüm program yükleme ve CSP tarafından gerçekleştirilen bir sistem işlev oldu. MSP bilgisayar programı talimatları uygulandı. Yetersiz bellek, disk hızı PC sürücüleri gibi 1980'lerde sadece iyi oldu çünkü bugün ve modern "patlama modu" oranları duyulmamış, sistem çalıştırmak yavaş yapar.
+Biriktirme.
+SPOOL On Line Eşzamanlı Çevresel Operasyon için kullanılan bir kısaltmadır.
+biriktirme ihtiyacı.
+Bilgisayar yazıcıları yavaş. S / 34, bilgisayar programları yazdırabilirsiniz yazıcıdan çok daha hızlı yazıcıya veri yazabilirsiniz ve aynı zamanda bir yazıcıya yazma birden fazla program var olabilir.
+Nasıl biriktirme çalışır.
+Sistem sorunu yönetmek için izin vermek için, "yazarlar" ve "biriktirme dosyaları" olarak adlandırılan sistem bileşenleri geliştirilmiştir. Bir yazar, makara dosyasını okur hazır-baskı makara nesne ile belirli bir yazıcıyı eşleşir ve yazıcıya talimatları göndermeye başlar küçük bir sistem programıdır. Bu iki yönlü bir işlemdir; daha fazla iş için hazır olduğunda, yazıcı sisteme geri bir sinyal gönderir. Iki makara dosyalarından veri karıştırma önlemek için, ilk rapor bitirmek ve yakın geleneksel ilk yazdırılır.
+Açılmaya.
+Bazen operatör adanmış canlı yazıcı gerektirir - gerçek zamanlı olarak müşterileri için makbuzları yazdırırken, örneğin, biriktirme kullanmayın. Sembolik yazdırma işini bildirmek için YAZICI OCL deyimini kullanın (MAKARA-NO.) Unspooled edilecek
+Formlar numaralar.
+Ne zaman operatör baskılar maaş çeki, bu maaş bilgileri kontrol formları üzerinde yazılı değil düz kağıt üzerine önemlidir; aynı şekilde, düzenli bir çıktısı pahalı onay formları yazdırmak asla. Bu nedenle, form numaraları oluşturulmuştur. Bir form sayı programları ve operatörlerin kullanmak bire-dört karakter ALPHAMERIC alandır. Aşağıdaki gibi Programcılar YAZICI OCL deyimini kullanın:
+// YAZICI ADI-Hesaplaşma, FORMLAR-BUXX, CİHAZ-P1
+Makara yazar kontrolleri makara girişi işlemeye hazır olduğunda, bu mesaj subconsole görünür:
+Formları değişen SONRA bu mesaja 1 yanıtlayarak, operatör standart stok başka hiçbir rapor çeklerde yazdıracak emin olabilir.
+Formlar hizalama.
+Pahalı çek formları mükemmel hizada olmalıdır ya da sayıların tüm küçük kutularda sığmaz. Bu nedenle, bir hizalama YAZICI OCL ifadesi kullanılarak yapılabilir:
+// YAZICI ADI-Hesaplaşma, FORMLAR-BUXX, CİHAZ-P1, ALIGN-VAR
+Hazır çek yazdırmak için zaman subconsole şimdi bu mesajı alırsınız:
+Formları hizalayarak SONRA bu mesajı yanıtlayarak, operatör formları düzgün hizalanmış edilene kadar onay bilgisi yazdırmak vermedi emin olabilir.
+Iş, kuyruklar.
+S / 34 dilinde, bir iş bilgisayarı yapmak için istendi herhangi görevdir. Bir iş, bir program için Workstation ID artı SSDDSS formatında zamanı bir iş numarası vardır. Bir çıktının için "SP" ve 1 artırılır dört basamaklı bir eki olan bir makara iş var.
+Kullanıcıların geciktirmek şekilde değil Bazen gerekli rapor arka planda çalışan edilmelidir. Raporun parametreleri tanımlanır, bu kullanıcının zaman işgal veya CRT o değerli bir alanı işgal etmemelidir. Bu nedenle, iş sıra icat edilmiştir. Bilgisayar işlemci kullanmak için bekleyen doğrultusunda ayakta programı düşünün. Bir iş kuyruğu bir boyut (satır olabilir işlerin sayısı) ve eşzamanlılık için bir değere sahiptir (orada kaç satır, ya da daha doğru, aynı anda çalıştırabilirsiniz iş kuyruğu işler.)
+JOBQ OCL
+JOBQ OCL deyimi iş kuyruğu iş başlatıldı neden olur, ama bir sanatçısını varsa hemen başlamaz. Bu sistem bazı kaynaklar daha fazla kontrol verir.
+OCL uyandırmak
+EVOKE OCL Açıklamada ayrıca arka planda çalışmasına işi neden olur, ancak denilen modül uyarılmış yordamı çalıştırmak devam ederken EVOKE adlandırılan modül yeni bir iş olarak hemen başlayabilirsiniz neden olur. JOBQ çağrıldığında orada olabilir gibi gecikme yok.
+Program niteliklerini - MRT, SRTS, NRTs ve NEP.
+MRT = Çoklu Talep Terminali programı. SSP seferde bir programa 7 terminallerine kadar eklemek olabilir. Onlar aynı programı seçildiğinde herhangi bir operatör daha sonra diğer operatörlerin terminalleri bağlı olacağını onların terminalinde programını başlatmak olabilir. hizmet verilecek terminallerin sayısı programcı tarafından kontrol oldu.
+SRT = Tek Talep Terminali programı. Değil bir MRT.
+NRT Hayır Talep Terminali programı =. Bir terminalde başlatılan NRT talebinde terminali bültenleri ve devam ediyor. Bu bir MS-DOS TSR (bitirmek ve Stay Resident) programına benzer. Tanım olarak, uyarılmış veya JOBQ sunuldu herhangi bir program, bir NRT oldu.
+NEP = Asla Programı Bitiş. Bu genellikle başlatma havai kaçınarak, bazı uç yeniden kadar kesilmiş tüm terminallerin sonra bekleyecekti interaktif MRT programı oldu. Bu genellikle büyük programlar diğer terminalleri ve / veya müteakip işlemler için işleme devam etmek için hazır kalırken diğerine terminalleri geçeceği küçük programlar zinciri olarak uygulanacak sağlamak için kullanılmıştır. Döngü yazılı ve yapılması gereken işler olduğunu gösteren bazı koşul için beklemek durumunda NRT programları da lif düğümlerinin olabilir. Bazı özel sonlandırmak durumunu tanımak için yazılı olmadıkça NEP programlar normalde, sistem kapatma kadar sona ermedi.
+Diğer nesne türleri.
+Cobol, Fortran ve RPG oluşturulan nesne kodu (tip O). Temel sadece yorumlandı; Bir derleme programı denilen TEMEL altyordam kodu (R tipi) oluşturuldu. Temel programlar diğer bilgisayarlarla uyumluluk için kaynak olarak kaydedilmiş olabilir, ancak projenin metin alt yordam korundu (programcı özel tutmak için KİLİT parametresi kullanılır edilmiştir.)
+Programları başlatmak ve bunlara kaynak atamak için OCL kullanmak Prosedürler, tip P.
+Tüm nesneler için kaynak üyelerinin belirtilen yukarıda temel hariç olmak üzere, S tipi vardır.
+DFU programları altprogram (R) kodu oluşturdu. Yani WSU programları yaptı.
+Ekran formatları nesne kodu oluşturulur.
+Menüler nesne kodunu oluşturdu. Bir menü sadece ilgili sayı seçildi zaman alınacak eylemi içeren 2 £ işaretleri ("##") ile ekli bir arkadaşı mesajı üyesi ile çok özel bir ekran biçimidir. Sistem / 34 menüler sistem gereksinimleri titiz uymayan özel bir menü çağıran, dikkatli System / 34 tarihinde, 1 ve 24 arası sayıları seçmek için operatör, bir akıllı programcı ekran format dilini kullanarak bir menü özelleştirmek izin verilir, ancak can Bir program hatası neden olur.
+Mesaj üyeleri ÜYE OCL deyimini kullanarak bir program tarafından denilebilir nesne kodu oluşturulur:
+// ÜYE USER1-PROGMSG
+Assembler rutin bir dört basamaklı kodu Passing ilişkili metin döndü. Ayrıca programın alanı dışında 10.000 74-bayt sabitleri kadar itmek bilgisayar programcısı için akıllı bir yoluydu.
+Sigara programcılar bilgisayarın kullanımı.
+olmayan programcı dosyası ve giriş özelliklerinin kısa bir dizi oluşturmak ve bir kaynak üyesi olarak saklayın olabilir. Bir bileşen olarak adlandırılan Veri Dosyası Programı sonra dosya ve yazıcı raporları oluşturmak ve düzenlemek için ekrandaki görüntüler oluşturmak için kullanılan olabilir. Bu Access 2007, diyelim ki oldukça eşit değildi, ama yirmi dakika bir dosya ve bir rapor oluşturma Otomatik Rapor komutunu kullanarak, veri dosyalarını tanımlamak ve sistem basit bir rapor programı oluşturmak zorunda, Alternatif dizayn edilebilir.
+Popüler Sistemi / 34 uygulamaları.
+CMAS ve DMAS II, tüm Menlo Park IBM'in ofislerinde geliştirdiği gibi MAPICS, Üretim ve Planlama Entegre Kumanda Sistemi, popüler bir S / 34 uygulama oldu.
+Sistem / 34 Text Editor gelecek Sistemi / 36 IBM Office programlarına habercisi idi (DisplayWrite, IDDU, Query, ve benzeri.)
+Bir Sistem / 34 koştu POP bir versiyonu (Programcı / Operatör Verimlilik) oldu. POP nedeniyle kütüphaneler ve dosyalar ve kolay nokta-ve-çek arayüzü için göz ve arama işlevleri Sistemi / 36 derece popüler oldu.
+Star Trek, Futbol, ​​Hangman, Kahve, Grand Prix gibi oyunlar içeren bir oyun kütüphanesi olarak adlandırılan FUNLIB ve grafiksel şu anda çalışan programları görüntülenen STDEMO denilen bir durum demo programı vardı.
+Britz Kelime İşleme Sistemi mailmerge, etiket ve temel dosya düzenleme yetenekleri vardı genel amaçlı metin editörü oldu.
+Sistem / 34 dergi.
+Programcılar DataNetwork ve Haber 34/38 gibi aylık dergilerde System / 34 okudum. (ABD kopya başına $ 8-US $ 12 civarında) ama çoğu Bilgi İşlem departmanları bir abonelik vardı Abonelik fiyatları yüksekti. Sorunlar çok programlama ipuçları için programcılar arasında ödüllü bulundu.
+System / 36 Geçiş.
+1984'den 1990'ların kadar, işletmeler S / 34s kapatılıyor ve iki-as-güçlü Sistemi / 36s taşınma süreci başladı. iki makine nesne kodu değildi uyumlu; ancak Sistemi kaynak kodu / 34 derleme ve System / 36 giderdim.
+Bazı Sistemi / 34 donanım Sistemi / 36 ile uyumsuz oldu. Bir örnek S / 36 yapılandırılmış olamazdı 5252 Çift Ekran İstasyonu olduğunu

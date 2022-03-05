@@ -1,0 +1,192 @@
+Question: Normal fay, ters fay dışındaki fay çeşidi hangisidir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fay</DOCTITLE>
+<TEXT>
+
+Kırık, Fay olarak da bilinir, kıvrılmalar sonucu oluşan kırılmalarda gözde fark edilebilecek ölçüde bir kayma bir yer değiştirme meydana gelmesi sonucu oluşur. Kırıkların uzunlukları boyunca jeolojik tabakalar iki ayrı blok halinde yer değiştirir. Bir kırığın fay olabilmesi için fay aynası, tavan ve taban blokları ve atım'a gerek vardır.
+Çatlaklar.
+Çatlaklarda ise kırılma yüzeyleri boyunca bir yer değiştirme, bir kayma olmaz.
+Kırıklarda kayma hareketi bir düzlem boyunca oluşmaktadır. Bu düzleme kırık düzlemi (= kırık aynası) adı verilir. Bu düzlem üzerinde sürtünme sebebiyle kayma çizikleri (kırık çizikleri) bulunur. Bu kırık çizikleri bize kaymanın doğrultusunu bulmamıza yardımcı olur.
+Kırıklar da tabakalar gibi birer düzlemsel yapı elemanıdırlar. Dolayısıyla kırıkların da doğrultuları ve eğimleri vardır. Kırık düzlemleri iki bloğu birbirinden ayırır. Bu iki blok, kırık düzlemi üzerinde birbirine nazaran hareket ederler. Bu bloklardan kırık düzleminin üzerinde bulunan bloğa tavan bloğu, kırık düzleminin altında bulunan bloğa ise taban bloğu adı verilir.
+Fay tipleri.
+Faylar; eğim atımlı, doğrultu atımlı ve oblik faylar olmak üzere üçe ayrılırlar.
+Eğim atımlı faylar.
+Tavan blogu ve taban blogu birbirlerine gore asagi ya da yukari hareket ederler.
+Normal fay.
+Tavan bloğu taban bloğuna nazaran, kırık düzlemi boyunca asagi kayar böylece tavan bloku taban blokuna nazaran asagi iner bu tip kırıklar yer kabuğunun yan basınçlarının etkisindedir.
+Ters fay.
+Tavan bloğu taban bloğuna nazaran, kırık düzlemi boyunca yukarı kayar böylece tavan bloku taban blokuna nazaran yukarı çıkar bu tip kırıklar yer kabuğunun yanal basınçlarının etkisindedir.Bu tip faylarda yer kabuğunda düşeyde kalınlaşma ve yatayda daralmalar gözlenir.
+Doğrultu atımlı fay.
+Kırılan bloklar yatay olarak hareket ederler. Bu tip kırıklarda hareket kırık düzlemi doğrultusunda olduğundan bu tip kırıklara doğrultu atımlı kırıklarda denir. En etkili depremleri oluşturur. İki çeşidi vardır. Sağ yönlü ve sol yönlüdür. Kuzey Anadolu Fayı sağ yönlü doğrultu atımlı bir kırıkdır.
+Oblik fay.
+Bloklar kırık düzlemi ml yatay ve dikey yönde hareket ediyorsa bu tip kırıklarda hem düşey hem de yatay yönde atılım oluşur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Depremler (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlığın varoluşundan bu yana depremler en önemli doğal olaylardan biri olmuştur. İnsanlar ilk önceleri depremlerin oluş nedenlerini değişik şekillerde açıklamaya çalışmışlardır. Örneğin, sık sık deprem olan Japonya'da, Dünya kurulurken toprağın içinde kalan bir balığın dışarı çıkmak için yaptığı çırpınmaların depremleri oluşturduğuna inanılmıştır. Yeni Zelanda’nın ilkel kavimlerinin inançlarına göre deprem, deprem yaratan bir tanrının arzusuna bağlı olarak oluşmaktaydı. Ancak 18. yüzyılın sonlarına doğru bu görüşler etkisini yitirmiş ve depremlerin nedenleri bilimsel yöntemlerle açıklanmaya başlanmıştır.
+Fay Tipleri
+Yer kabuğu hareketleri, yer kabuğunu oluşturan tabakaların üzerinde çok büyük gerilimler oluşturur. Bu gerilimler neticesinde sert olan tabakalar kırılır. Bu kırık alanlar fay hatlarını oluşturur. Fayların geçtiği sahalar çoğu kez yer kabuğunun altında biriken enerjinin kolaylıkla yer yüzüne çıktığı alanlardır. Fay hatlarının geçtiği yerlerde deprem riski de fazladır.
+Normal fay
+Fay hattının iki yanındaki blokların düşey yönde birbirinden uzaklaşmasıyla oluşur.
+Ters fay
+Alçalan bloğun, yükselen blok altına dalmasıyla oluşur.
+Doğrultu atımlı fay
+Kırık boyunca tabakaların yatay yönde yer değiştirmesi ile oluşur.
+Fayların iki tarafında kalan bloklar aşağı ve yukarı doğru hareket edebileceği gibi yatay olarak da hareket edebilir ve bu hareket sonrasında da depremler meydana gelir. Bu tür depremlere tektonik depremler denir. Depremin büyüklüğü açığa çıkan enerji miktarına bağlıdır.
+Dış merkez
+Deprem dalgalarının en kısa yoldan yüzeye ulaştığı noktadır.
+Deprem şiddetinin en fazla hissedildiği yerdir. Deprem dalgaları suya atılan taşın oluşturduğu dalgalar gibi merkezden çevreye doğru yayılır. Merkezden uzaklaştıkça depremin etkisi de azalmaktadır.
+İç merkez
+Deprem sırasında deprem odağından yayılan titreşimler (dalgalar) yer kabuğunda sarsıntılar oluşturur.
+Depremin başladığı yer olarak kabul edilen noktadır.
+Birikmiş enerjinin tümü ilk sarsıntıda boşalmayabilir. Kalan kısım asıl depremi takip eden artçı sarsıntılarla boşalır.
+Deprem Dalgalarının Etkisi
+Deprem sırasında deprem dalgalarının yayıldığını öğrenmiştiniz. Deprem odağından çevreye doğru yayılan dalgaların şiddeti ve etkileri aşağıdaki tabloda gösterilmiştir.
+Boyuna Dalgalar (P)
+Yüzeye ilk ulaşan ve saniyede 8 km yol alan bu dalhalar zemini sıkıştırma ve genişletme özelliğine sahiptir.
+Enine Dalgalar (S)
+Saniyede 4,5 km yol alarak yüzeye ulaşır ve yüzeyi sağa sola, aşağı yukarı sallar.
+Yüzey Dalgalar (L)
+Saniyede 1,5 km yol alan yüzey dalgalar gibi salınım hareketleri meydana getiren yıkıcı etkisi en fazla olandır.
+Deprem Dalgalarını Tespit Etmek
+Deprem, sismoloji biliminin inceleme alanına girmektedir. Deprem titreşimlerini kaydetmek için bilim adamları sismograf denilen cihazı kullanmaktadırlar.
+Depremin şiddetini tespit etmek için bazı ölçekler geliştirilmiştir ve bunlardan en yaygın olarak kullanılanı Richter (Rihter) ölçeğidir.
+Richter (Rihter) ölçeği depremin yaptığı hasara göre değil, deprem odağından çevreye yayılan enerji miktarına göre yapılmıştır. Deprem sırasında açığa çıkan bu enerjiye depremin magnitüdü (büyüklüğü) denir.
+Rihter ölçeği Depremin büyüklüğü (Magnitüd)	Mercalli ölçeği	Depremin şiddeti
+3,5-4,2	1 -3	Hafif
+4,3-4,8	4-5	Orta
+4,9 - 6,1	6-7	Şiddetli
+6,2 - 7,3	8-10	Yıkıcı
+7,4 +11- 12	Afet
+Depremlerin büyüklüğünün sadece magnitüd değeri olarak verilmesi, deprem konusunda yeterli bilgisi olmayan insanların depremin büyüklüğünü tam olarak anlayamamasına sebep olmaktadır. Bundan dolayı, depremlerin magnitüd değerleri dışında şiddetleri de verilmektedir.
+Büyüklük depremin odak noktasından çıkan enerji miktarıdır. Şiddet ise depremin yer yüzünde meydana getirdiği etkidir.
+Tsunami
+Depremler yalnızca karalarda değil, okyanus ve deniz tabanlarında da meydana gelmekte, deniz yüzeyinde dev dalgaların oluşmasına neden olmaktadır. Tsunami adı verilen bu dalgalar kıyıya kadar ilerleyerek alçak alanların sular altında kalmasına, can ve mal kayıplarına neden olmaktadır.
+Deprem Türleri: Depremler oluş nedenlerine göre değişik adlar alırlar.
+Tektonik depremler; Levhaların hareketine bağlı olarak yer kabuğunun derinliklerinde meydana gelen basınçlar, gerilmeler ve kırılmalar sonucunda oluşur.
+Volkanik depremler; Volkanik patlamalar sırasında meydana gelen sarsıntılardır. Özellikle asit karakterli lavların çıkışı esnasında sarsıntılar yaşanır. Depremin şiddeti volkanizmanın büyüklüğüne ve süresine bağlı olarak değişir. Volkanik depremlerin etki alanı dardır.
+Çöküntü depremleri; yer altındaki boşlukların (mağara), kömür ocaklarındaki galerilerin, karstik arazilerde erime sonucu oluşan boşlukların tavan bloklarının çökmesi ile oluşur. Etki alanları dardır. Büyük heyelanlar ve gökten düşen meteorların da küçük sarsıntılara neden olduğu bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2011 Tōhoku depremi ve tsunamisi</DOCTITLE>
+<TEXT>
+
+2011 Tōhoku depremi ve tsunamisi "(Japonca: 東北地方太平洋沖地震 Tōhoku Chihō Taiheiyō-oki Jishin)", 11 Mart 2011'de, Japonya'nın Tōhoku bölgesinde 9,0 Mw büyüklüğünde gerçekleşen depremdir. Merkez üssü Tōhoku bölgesinin doğu kıyısında, yerin 24,4 km derinliğinde olan deprem; yerel saate göre 14:46'da gerçekleşti. ABD Jeolojik Araştırma Kurumu tarafından ilk etapta 7.9 olarak belirlenen depremin şiddeti sonradan yapılan açıklamayla 8.8, daha sonrasında ise 8.9 olarak belirtildi, son olarak ise Japonya büyüklüğü 9.0'a yükseltti. 9.0 büyüklüğünde olan deprem Japonya'da yaşanan en büyük deprem olduğu; dünyada ise en büyük ilk beş depremin arasında olduğu açıklandı. Japon hükümeti, felaketi resmi olarak "Büyük Doğu Japonya depremi" (東日本大震災, "Higaşi Nihon Daişinsai") olarak adlandırdı. Deprem sonrasında bölgede yüksekliği 37.9 metreye varan tsunami dalgaları meydana geldi.
+Tsunami ülkede çok büyük zarara yol açtı. Depremde kişi hayatını kaybetti ve kişi hâlen kayıp olarak belirtiliyor. Kara ve demiryolları ağır hasar gördü, çeşitli yerlerde yangınlar çıktı ve bir baraj yıkılarak bölgeyi su basmasına neden oldu. Kuzeydoğu Japonya'da 4.4 milyon ev elektriksiz, 1.5 milyon ev ise susuz kaldı, deprem sonucu gıda sıkıntısı da meydana geldi. Deprem sonucu Fukuşima Nükleer Elektrik Santralinde tsunami sonucu kazalar meydana geldi.
+Deprem sonrasında doğan tsunamilerde, dalgalar saatte 500 km hızla Hawaii'ye ulaştı.
+Deprem.
+9.0 MW büyüklüğündeki bir denizaltı ters fay depremi olan deprem, 11 Mart 2011 tarihinde Japonya saati ile (JSİ) saat 14:46'da (05:46 UTC) batı Pasifik Okyanusu'nda ve nispeten sığ olan 32 km'lik bir derinlikte meydana geldi. Merkezi Japonya'nın Tōhoku bölgesindeki Oşika Yarımadası'nın 72 km doğusunda olan deprem, yaklaşk altı dakika sürdü. Depreme en yakın büyük şehir, Honşu adasındaki 130 km uzaklıkta bulunan Sendai'ydi. Deprem Tokyo'dan 373 km uzaklıkta meydana geldi. Depremden önce büyük sayıda öncü deprem ve depremden sonra yüzlerce artçı deprem meydana geldi. İlk öncü deprem 9 Mart günü 7.2 MW büyüklüğünde, ana depremin meydana geldiği yerden 40 km uzakta meydana geldi, 6.0 büyüklüğünü geçen üç öncü deprem daha 11 Mart günü oldu. Depremden sonra saat JSİ saat 15:06'da 7.0 MW, JSİ 15:15'te 7.4 ve JSİ 15:26'da 7.2 büyüklüğünde artçı şoklar meydana geldi. Ana depremden beridir büyülüğü 4.5'in üzerinde olan 800'den fazla artçı şok meydana geldi. ABD Jeolojik Araştırmalar Kurumu (USGS) müdürü Marcia McNutt, artçı şokların Omori kanununu izlediğini ve yıllarca devam edip zaman içinde durulacaklarını belirtti. Depremden bir dakika önce Japonya çapında binden fazla sismometre içeren Deprem Erken Uyarı Sistemi milyonlarca kişiyi şiddetli bir deprem olacağı yönünde uyardı. Japonya Meteoroloji Ajansı, bu erken uyarının pek çok hayat kurtardığına inandığını açıkladı.
+En başta USGS tarafından 7.9 MW olarak duyurulan depremin büyüklüğü, kısa bir süre sonra 8.8'e, daha sonra 8.9'a ve en sonunda 9.0'a yükseltildi. Pasifik Tsunami Uyarı Merkezi'nden Gerard Fryer depremden hemen sonra büyüklüğü 9.1 olarak tahmin etse de, bu görüş geniş bir katılım bulmamış, özellikle USGS tarafından kabul edilmemiştir.
+Jeoloji.
+Deprem Pasifik levhasının Honşu'nun altındaki tartışma konusu olan bir levhanın altına battığı yerde meydana geldi. Yılda 8-9 santimetrelik bir hızla hareket eden Pasifik levhası, Honşu'nun altındaki levhanın altına inmekte ve büyük miktarda enerji üretmektedir. Bu hareket bir sismik olaya yol açacak kadar bir gerginlik birikene kadar üstteki levhayı da aşağıya doğru iter. Deprem deniz tabanının birkaç metre yükselmesine neden oldu. Bu büyüklükteki bir deprem genelde 480 km'den büyük bir kırık uzunluğuna sahiptir, bu da uzun ve nispeten düz bir fay yüzeyi gerektirir. Bu bölgedeki levha sınırı ve batma bölgesi pek düz olmadığından depremin büyüklüğünün 8.5'ten büyük olması alışılmışın dışındadır, bu nedenle depremin büyüklüğü bazı sismologları şaşırtmıştır. Depremin merkezi Iwate ili açıklarından Ibaraki ili açıklarına kadar uzanıyordu. Japonya Meteoroloji Ajansı depremin Iwate'den Ibaraki'ye kadar 500 km uzunluğunda ve 200 km genişliğinde bir fay bölgesini kırmış olabileceğini belirtti. Yapılan analizler depremin üç olaydan oluştuğunu gösterdi. Depremin büyük bir tsunami yaratan bir başka deprem olan ve 8.6 büyüklüğünde yüzey dalgası magnitüdü olan 896 Sanriku depremi ve tsunamisi ile aynı işleyiş biçimine sahip olabileceği belirtiliyor.
+Enerji.
+Deprem 1.9±0.5×1017 julluk yüzey enerjisi açığa çıkardı, bu enerji sallantı ve tsunami şeklinde harcandı; açığa çıkan enerji miktarının 9.1 büyüklüğündeki 2004 Hint Okyanusu depremi ve tsunamisinin neredeyse iki katı olduğu belirtildi. McNutt, bir röportajda, "Eğer bu depremden ortaya çıkan yüzey enerjisini kontrol edebilseydik, Los Angeles büyüklüğündeki bir şehre bir yıl boyunca enerji sağlayabilirdik" dedi. Depremde açığa çıkan toplam enerji miktarı yüzey enerjisinin 200 bin katıydı ve USGS tarafından 3.9×1022 olarak hesaplandı, bu da 2004'tekinden biraz daha azdır. Bu 9320 gigaton TNT'ye ve Hiroşima'ya atılan atom bombasından açığa çıkan enerjinin yaklaşık 600 milyon katına eşdeğerdir.
+Jeofiziksel etkileri.
+Tōhoku depremi ile Dünya’nın ekseninin 15 santim kaydığı, eksendeki bu kayma sonucu 24 saatlik bir günün 1.8 mikrosaniye (bir saniyenin milyonda biri) azaldığı jeoloji uzmanları tarafından belirtildi. Keza 2004 yılı Sumatra depremi ve 2010 yılı Şili depremleri için de, Dünya eksenini kaydırdığı bilim insanlarınca söylenmişti.
+Ayrıca Japonya adasının, kuzeydoğu yönünde 2,4 metre Tōhoku depreminin merkezine doğru kaydığı açıklandı.
+Tokyo civarındaki, özellikle Chiba'daki deniz doldurularak elde edilen bölgelerde toprak sıvılaşması belirgin bir biçimde gözlemlendi. Bu nedenle yaklaşık 30 bina yıkıldı, 1046 bina çeşitli derecelerde hasar gördü.
+Kyushu'daki Shinmoedake yanardağı depremden iki gün sonra patladı. Yanardağ daha önce Ocak 2011'de patlamıştı, martta meydana gelen patlamanın depremle ilişkili olup olmadığı bilinmiyor. Antarktika'da sismik dalgaların Whillans Buz Akıntısı'nın 0.5 metre kadar kaymasına yol açtığı da bildirildi.
+NASA'da çalışan bir araştırma ekibinin başkanı olan Dr. Richard Gross, ekibi için 1.8 mikrosaniyelik bir kaymanın bile önemli olduğunu, bunun Mars'a giden bir uzay aracının yönlendirilme biçimini etkilediğini belirtti. Gross, değişiklikleri hesaba katmamanın görevin başarısızlıkla sonuçlanması anlamına gelebileceğini söyledi.
+Tsunami.
+Deprem, Japonya'nın tüm Pasifik kıyısı boyunca çok büyük bir zarara yol açmış olan büyük bir tsunamiyi tetikledi. Dalgaların yüksekliği Tarō'da ise 37.9 m, Ōfunato'da ise 23 metre olarak kaydedildi. Tsunami tüm Pasifik'e yayıldı, Güney ve Kuzey Amerika'da, Alaska'dan Şili'ye kadar olan bölgede tsunami uyarıları verildi, bu bölgelerde tsunami görülmesine karşın etkileri küçüktü. Şili'nin Pasifik kıyısı 17,000 kilometrelik uzaklıkla en uzak yerlerden biriydi, buna rağmen ülkede yüksekliği iki metreye varan dalgalar görüldü.
+Japonya.
+Japonya Meteoroloji Ajansı tarafından verilen tsunami uyarısı en yüksek seviyeydi, en az 3 m yüksekliğindeki bir "büyük tsunami" olarak nitelendirilmişti. Gerçek yüksekliğine ilişkin tahminler değişmekteydi, en yüksek tahmin 10 m ile Miyagi'deydi. Tsunami ülkede yaklaşık 470 kilometrekarelik bir alanı sular altında bıraktı.
+Deprem, Japonya saati ile (JSİ) 14:46'da, Japonya'nın en yakın kıyısının 67 kilmoetre açığında meydana geldi ve dalgaların ilk ulaşacağı bölgeye 10 ile 30 dakika içinde ulaşacağı, sonra da daha kuzeyde ve güneydeki bölgeleri etkileyeceği bildirildi. Depremin üzerinden bir saat geçmesinden hemen sonra, Japonya saati ile saat 15:55'te, Miyagi ilinin kıyısına yakın olan Sendai Havalimanı'nı dalgaların vurduğu gözlemlendi. Dalgalar uçak ve arabaları sürükledi, ilerlerken pek çok binayı bastı ve yıktı. Tsunaminin Sendai Havalimanı'nın içinde ve çevresinde yol açtığı zarar bir NHK Haber helikopteri tarafından görüntülendi, görüntülerde yaklaşan dalgalardan kaçmaya çalışan ve dalgaların içine alınan araçlar görülebilmektedir. 4 metrelik bir tsunami Iwate ilini vurdu. Sendai'deki Wakabayashi-ku da ciddi bir şekilde dalgalar tarafından vuruldu.
+2004 Hint Okyanusu depremi ve tsunamisinde olduğu gibi, Japonya'da da 2004 tsunamisinden çok daha yerel olsa bile tsunami, depremden çok daha fazla zarara yol açtı. Tsunaminin "bütün olarak kasabaları süpürdüğü"ne ilişkin haberler vardı, bunlardan biri 9500 kişinin kaybolduğu Minamisanriku'ydu. 14 Mart tarihine kadar kasabada toplam bin ceset bulunmuştu.
+Tsunamiden ölenlerin sayısının bu denli fazla olmasınının bir sebebi de, dalgaların beklenmedik derecede yüksek olan boyutlarıydı. Tsunaminin vurduğu pek çok şehirdeki tsunami setleri dalgaların yüksekliğinden daha küçüktü. Ayrıca dalgalara yakalanan pek çok kişi dalgalardan kaçabilmek için yeterince yüksekte olduklarını düşünümüştü.
+Kuji ve Ōfunato "tamamen yıkılmış ve orada bir kasaba olduğunu dair hiçbir işaret kalmamıştı". Gelen haberlere göre dalgaların üç katlı bir bina yüksekliğinde olduğu Rikuzentakata kasabası da yıkılmıştı. Gelen haberlere göre tsunamide zarar gören kasabaların arasında Kamaishi, Miyako, Ōtsuchi, ve Yamada (Iwate ilinde), Namie, Sōma ve Minamisōma (Fukuşima ilinde) ve Higashimatsushima, Onagawa, Natori, Ishinomaki, and Kesennuma (Miyagi ilinde) vardır. Tsunaminin en ciddi etkileri kuzeyde Erimo'dan güneyde Ōarai'ye kadar olan 670 kilometrelik bir kıyı şeridinde hissedildi ve bölgedeki zararın çoğu depremi izleyen saat içerisinde meydana geldi. Ōarai yakınlarında tsunamiden kaynaklanan dev bir anafor görüntülendi. Tsunami Miyagi'ye bağlı Miyatojima adasına olan köprüyü tamamen önüne katarak götürdü ve 900 ada sakini mahsur kaldı. İki metre yüksekliğindeki bir tsunami depremden iki saat sonra Chiba ilini vurdu ve Asahi gibi şehirlerde hasara yol açtı.
+13 Mart 2011'de, Japonya Meteoroloji Ajansı (JMA) Japonya kıyılarındaki tsunami gözlemlerini yayımladı. Tsunami dalgaları, aşağıdaki yerlerde 3 metrenin üzerine ulaşmıştı:
+Bu veriler, JMA'nın Japonya kıyısı boyunca bulunan kayıt istasyonlarından elde edildi. Pek çok bölge ayrıca 1 ila 3 metre uzunluğunda olan tsunami dalgalarından etkilendi ve JMA raporu "Bazı yerlerde dalgaların yüksekliği bu verilerden daha yüksek olabilir" diye bir not içermekteydi. İlk kaydedilen tsunami dalgası verilerinin zamanları 15:12 ila 15:21 arasında değişmekteydi, bu da depremden 26 ila 35 dakika sonraydı. Rapor ayrıca tsunami gözlem detaylarını ve dalgalardan etkilenen kıyıların ayrıntılı haritalarını içermekteydi.
+23 Mart 2011'de, Liman ve Havalimanları Araştırma Enstitüsü, telemetri ile aşağıdaki verileri elde etti:
+Yokohama Ulusal Üniversitesi ve Tokyo Üniversitesi'nden ortaklaşa bir araştırma ekibi, Ōfunato'daki Ryōri Körfezi'ndeki tsunaminin 29.6 m yüksekliğinde olduğunu bildirdi. Ekip, körfezin üzerindeki yüksek kayalıklarda dağılmış balıkçılık ekipmanları buldu. Tarō, Iwate'deki ölçümlerde, Tokyo Üniversitesi'nden bir araştırmacı kıyıdan 200 m uzaktaki bir tepede 37.9 metre yüksekliğindeki dalgalar tespit etti. Bu, Japonya tarihinde 1896 Meiji-Sanriku depremindeki 38.2 metrelik tsunamiden sonra en yüksek ikinci tsunami olmuştur.
+Pasifik'teki diğer bölgeler.
+Depremden kısa bir süre sonra Hawaii'deki Pasifik Tsunami Uyarı Sistemi (PTWC) Pasifik Okyanusu'ndaki bazı bölgeler için tsunami uyarısı yaptı. Saat 07:30'da (UTC), tüm Pasifik'i kapsayan geniş kapsamlı bir tsunami uyarısı yaptı. Rusya, Kuril Adaları'nda kıyıya yakın bölgelerde yaşayan 11 bin vatandaşını tahliye etti. ABD Batı Kıyısı ve Alaska Tsunami Uyarı Sistemi, Kaliforniya'nın büyük kısmındaki kıyı bölgeleri, Oregon'un tamamı ve Alaska'nın batısı için bir tsunami uyarısında bulundu ve Alaska'nın Pasifik Kıyısı, Vaşington eyaleti ve Kanada'daki Britanya Kolumbiyası'nı kapsayan bir tsunami önlem tavsiyesi yayınladı.. Kaliforniya ve Oregon'da bazı bölgeleri 2.4 metreye kadar varan dalgalar vurdu, bunlar limanlar ve iskelelere zarar verip 10 milyon dolarlık zarara yol açtı. Kanada'daki Vancouver Adası'nı bir metrelik dalgalar vurdu; bu kıyıdaki bazı bölgelerin boşaltılmasına ve deniz ulaşımının 12 saatliğine yasaklanmasına yol açtı, bu da ada sakinlerinin işlerine gidememelerine neden oldu.
+Filipinler'de 0.5 metreye kadar ulaşan dalgalar ülkenin doğusunu vurdu. Endonezya'daki Jayapura'da bazı evler hasar gördü. Papua Yeni Gine'nin Doğu Sepik ilindeki Wewak kasabasındaki Boram Hastanesi tsunamiden zarar gördü, 4 milyon dolarlık zarara uğrayan hastanedeki yüz hasta dalgalar ulaşmadan önce tahliye edildi. Hawaii'de sadece altyapı 3 milyon dolarlık zarar gördü, oteller gibi özel mülklere gelen zararlarla birlikte toplam zararın on milyonlarca dolara ulaştığı tahmin edildi. Midway Atolü'ndeki bazı adacıkları tamamen sular altına gömen 1.5 metre yüksekliğindeki bir tsunami adacıklarda kuluçkaya yatmış olan 110 bin su kuşunu öldürdü. Güney Pasifik'teki Tonga, Yeni Zelanda gibi ülkeler ve Amerikan Samoası ile Guam gibi bazı adalarda beklenenden büyük dalgalar gözlemlendi; fakat bunlar büyük bir zarara yol açmadı. Buna rağmen Guam'da bazı yollar kapatıldı ve düşük rakımlı bölgeler tahliye edildi.
+Zarar ve etkiler.
+Çoğunluğu tsunamiden dolayı meydana gelen zarar çok büyük boyutlardaydı. En kötü biçimde etkilenen kasabaların görüntülerinde neredeyse sadece enkaz yığınları görülebilmekteydi. İlk günlerdeki tahminler sadece depremden kaynaklanan zararın 14.5 ila 34.6 milyar Amerikan doları olduğunu ortaya koydu. İlerleyen günlerde zararın 300 milyar doları bulabileceği ve bunun felaketi dünya tarihindeki en fazla mali zarara yol açan felaket yapacağı tahmin edildi.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Graben</DOCTITLE>
+<TEXT>
+
+Graben, Jeoloji graben kavramını paralel faylar ile çevrili depresif bloklar olarak tanımlamaktadır. Graben kelimesinin Almanca’daki karşılığı hendek veya siper anlamına gelir.
+Graben,her iki tarafında uçurum bulunan,bir vadiden alçalmış bloğun sonucunda oluşan bir arazi yapısıdır.Burada grabenin her iki yanında normal faylar bulunur. Grabenlerin hemen yanında normal fay basamakları biçiminde yükselmiş yerkabuğu bloklarına horst denilir. Horst ve Grabenler genellikle yan yana bulunurlar. Horst ve graben yapıları gerilme kuvvetleri ve gerilen yerkabuğunun göstergesidir. Bazı grabenlerin kenarlarında ters faylar da bulunabilir. Bu faylar sıkışırıcı yan basınçların etkisi altında oluşmuşlardır.
+Tek veya birden fazla graben bir çatlak vadi üretebilir. Japonya’nın güneyinde bulunan 1000 metreden fazla derinliği bulunan Unzen Dağı'nın yanında bulunan graben dünyanın en derin grabenidir.
+Yarım Graben.
+Çok sayıda çatlak içerisinde,graben sınırları boyunca tek büyük arızası bulunan asimetrik yapılar yarım graben olarak bilinir.Çatlak uzunluğu boyunca genellikle ana faylar ve polaritesini etkiler. Yarım graben asimetrisi şiddetle sintektonik birikimi etkiler.Drenaj sistemlerindeki taban yükselme etkileri nedeniyle küçük bir sediman ana sınırlayıcı fayın arasına girer.Bu olayın oluşabilmesi için bir röle rampa önemli bir sediman giriş noktası sağlayabilir.
+Batı Anadolu Gerilim Sistemi.
+Batı Anadolu Graben Sistemi: Batı Anadolu’nun, Ege kıyılarında, Marmara denizi içinde, Saros, Edremit ve İzmit körfezlerinde, Gediz, Büyük ve Küçük Menderes vadileri kenarlarında, Amik ovası grabeninde ve bu grabenin kuzeydoğu istikametindeki uzantısına kadar devam etmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

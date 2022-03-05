@@ -1,0 +1,15 @@
+Hiyerarşik internetworking modeli
+Hiyerarşik internetworking modeli, ya da "üç katmanlı modeli", ilk olarak Cisco tarafından önerilen bir ağ tasarımı modelidir.
+çekirdek, dağıtım ve erişim katmanı: Üç katmanlı modeli kurumsal üç katmanları içine ağları böler. Her katman farklı sağlar
+hizmetler ve sunucuları-istasyonları sonuna kadar.
+Erişim katmanı.
+Uç istasyon ve sunucuları "erişim katmanı" de kurumsal bağlanın. Erişim katmanı cihazlar genellikle emtia anahtarlama vardır
+platformlar ve veya katman 3 anahtarlama hizmeti olmayabilir. erişim katmanı geleneksel odak minimize edilir
+"Başına maliyet port": şirketlerden sağlanan Ethernet portu için yapmalıdır yatırım tutarı.
+Dağıtım katmanı.
+dağıtım tabakası üç tabakalı modelinde "akıllı" tabakadır. Yönlendirme, filtreleme, ve QoS ilkeleri yönetilir
+dağıtım tabakası. Dağıtım katmanı cihazlar da genellikle bireysel şube ofis WAN bağlantılarını yönetmek.
+Çekirdek tabakası.
+çekirdek ağ dağıtım katmanı cihazlar arasında paketleri taşımak için yüksek hızlı, yüksek gereksiz yönlendirme hizmetleri vermektedir
+ağın farklı bölgeleri. Çekirdek anahtarlar ve yönlendiriciler de, ham yönlendirme gücü açısından, genellikle en güçlü
+kurumsal; çekirdek ağ aygıtları gibi 10 Gigabit Ethernet en yüksek hız bağlantıları yönetmek.

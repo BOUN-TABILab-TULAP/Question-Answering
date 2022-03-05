@@ -1,0 +1,22 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Toprağın toprak+Noun+A3sg+Pnon+Gen toprak+Noun+A3sg+P2sg+Nom Toprağın+Noun+Prop+A3sg+Pnon+Nom
+yağış yağ+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+suları su+Noun+A3pl+Pnon+Acc su+Noun+A3pl+P3sg+Nom su+Noun+A3pl+P3pl+Nom su+Noun+A3sg+P3pl+Nom sula+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+ve ve+Conj
+rüzgarlar rüzgar+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl rüzgar+Noun+A3pl+Pnon+Nom
+tarafından taraf+Noun+A3sg+P3sg+Abl taraf+Noun+A3sg+P2sg+Abl
+aşındırılıp aşın+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Adverb+AfterDoingSo
+taşınmasına taşı+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Dat taşın+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+denir de+Verb^DB+Verb+Pass+Pos+Aor+A3sg de+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Deniz deniz+Noun+A3sg+Pnon+Nom Deniz+Noun+Prop+A3sg+Pnon+Nom
+seviyesinden seviye+Noun+A3sg+P3sg+Abl
+yükseldikçe yüksel+Verb+Pos^DB+Adverb+AsLongAs
+atmosferin atmosfer+Noun+A3sg+Pnon+Gen atmosfer+Noun+A3sg+P2sg+Nom
+yoğunluğu yoğun+Adj^DB+Noun+Ness+A3sg+P3sg+Nom yoğun+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+azalır azal+Verb+Pos+Aor+A3sg azal+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

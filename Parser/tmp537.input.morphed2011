@@ -1,0 +1,49 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+A	a	+Interj
+A	a	+Noun+A3sg+Pnon+Nom
+
+vitamini	vitamin	+Noun+A3sg+Pnon+Acc
+vitamini	vitamin	+Noun+A3sg+P3sg+Nom
+
+eksikliğinde	eksik	+Adj^DB+Noun+Ness+A3sg+P2sg+Loc
+eksikliğinde	eksik	+Adj^DB+Noun+Ness+A3sg+P3sg+Loc
+eksikliğinde	eksik	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Loc
+eksikliğinde	eksik	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Loc
+
+ortaya	orta	+Noun+A3sg+Pnon+Dat
+ortaya	ortay	+Noun+A3sg+Pnon+Dat
+
+çıkabilecek	çık+Verb+Pos^DB+Verb+Able+Fut+A3sg
+çıkabilecek	çık+Verb+Pos^DB+Verb+Able^DB+Adj+FutPart+Pnon
+
+hastalıklar	hasta	+Adj^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+hastalıklar	hasta	+Adj^DB+Noun+Ness+A3pl+Pnon+Nom
+hastalıklar	hastalık+Noun+A3pl+Pnon+Nom
+hastalıklar	hastalık+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+nelerdir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop
+nelerdir	ne	+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

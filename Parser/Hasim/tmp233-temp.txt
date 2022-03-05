@@ -1,0 +1,22 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Aynı Aynı+Noun+Prop+A3sg+Pnon+Nom aynı+Adj
+anda an+Noun+A3sg+Pnon+Loc ant+Noun+A3sg+Pnon+Dat
+iki iki+Num+Card
+yarım yar+Noun+A3sg+P1sg+Nom yar+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg yarı+Noun+A3sg+P1sg+Nom yarım+Adj yarım+Num+Card
+kürede küre+Noun+A3sg+Pnon+Loc
+farklı fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+mevsimler mevsim+Noun+A3pl+Pnon+Nom mevsim+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+yaşanmasının yaşa+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+sonuçları sonuç+Noun+A3pl+Pnon+Acc sonuç+Noun+A3pl+P3sg+Nom sonuç+Noun+A3pl+P3pl+Nom sonuç+Noun+A3sg+P3pl+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

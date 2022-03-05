@@ -1,0 +1,18 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnsanda insan+Noun+A3sg+Pnon+Loc
+meydana meydan+Noun+A3sg+Pnon+Dat
+gelen gel+Verb+Pos^DB+Adj+PresPart gele+Noun+A3sg+P2sg+Nom
+mantar mantar+Noun+A3sg+Pnon+Nom
+hastalıkları hasta+Adj^DB+Noun+Ness+A3pl+Pnon+Acc hasta+Adj^DB+Noun+Ness+A3pl+P3sg+Nom hasta+Adj^DB+Noun+Ness+A3pl+P3pl+Nom hasta+Adj^DB+Noun+Ness+A3sg+P3pl+Nom hastalık+Noun+A3pl+Pnon+Acc hastalık+Noun+A3pl+P3sg+Nom hastalık+Noun+A3pl+P3pl+Nom hastalık+Noun+A3sg+P3pl+Nom
+nelerdir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl+Cop ne+Pron+Ques+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

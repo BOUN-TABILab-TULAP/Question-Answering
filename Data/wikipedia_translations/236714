@@ -1,0 +1,106 @@
+Piphilology
+Piphilology comprises the creation and use of mnemonic techniques to remember a span of digits of the mathematical constant pi. The word is a play on the word "pi" itself and of the linguistic field of philology. 
+There are many ways to memorize π, including the use of "piems" (a portmanteau, formed by combining pi and poem), which are poems that represent π in a way such that the length of each word (in letters) represents a digit. Here is an example of a piem: "How I need a drink, alcoholic in nature after the heavy lectures involving quantum mechanics." Notice how the first word has three letters, the second word has one, the third has four, the fourth has one, the fifth has five, and so on. In longer examples, 10-letter words are used to represent the digit zero, and this rule is extended to handle repeated digits in so-called Pilish writing. The Cadaeic Cadenza records the first 3834 digits of π in this manner, and a 10,000-word novel, Not A Wake, has now been written accordingly.
+However, piems prove to be inefficient for large memorizations of pi. Other methods include remembering patterns in the numbers (for instance, the year 1971 appears in the first fifty digits of pi) and the method of loci (which has been used to memorize π to 67,890 digits).
+History.
+Until the 20th century, the number of digits of pi which mathematicians have had the stamina to calculate by hand remained in the hundreds, so that memorization of "all" known digits at the time was possible. In 1949 a computer was used to calculate π to 2000 places, presenting one of the earliest opportunities for a more difficult challenge.
+Later computers calculated pi to extraordinary numbers of digits (2.7 trillion as of August 2010)
+, and people began memorizing more and more of the output. The world record for the number of digits memorized has exploded since the mid-1990s, and it stood at 100,000 as of October 2006. The previous record (83,431) was set by the same person (Akira Haraguchi) on July 2, 2005, and the record previous to that (42,195) was held by Hiroyuki Goto.
+An institution from Germany provides the details of the “Pi World Ranking”; see the website at http://www.pi-world-ranking-list.com.
+Examples in English.
+The most common mnemonic technique is to memorize a so-called "piem" (a wordplay on "pi" and "poem") in which the number of letters in each word is equal to the corresponding digit of π. This famous example has several variations, including:
+Short mnemonics such as these, of course, do not take one very far down π's infinite road. Instead, they are intended more as amusing doggerel. If even less accuracy suffices, the following examples can be used:
+This second one gives the value of π as 3.1415926535, while the first only brings it to the second five. Indeed, many published poems use truncation instead of one of the several roundings, thereby producing a less-accurate result when the first omitted digit is greater than or equal to five. It is advantageous to use truncation in memorizing if the individual intends to study more places later on, otherwise one will be remembering erroneous digits.
+Another mnemonic is:
+In this mnemonic the word "point" represents the decimal point itself.
+Yet another example is:
+In this example, the spelling of Archimedes is normalised to nine. (Although 'Archimedes' is, today, a more correct spelling of the ancient Greek mathematician's name in English, Archimede is also often seen when this mnemonic is given, since Archimède is the more correct spelling in many languages, such a French.)
+Longer mnemonics employ the same concept. This example created by Peter M. Brigham incorporates twenty decimal digits:
+In the children's book, 'Somewhen' (David Saul and Danielle Mathieson, ISBN 9780473218584) a poem is presented as a riddle. Here, the words describe the ratio and as laid out, the riddle forms a circle. To side-step the zero at decimal position 32, the word 'nothing' is used.
+Poems.
+Some mnemonics, such as this poem which gives the three and the first 20 decimal digits, use the separation of the poem's title and main body to represent the decimal point:
+Another, more poetic version is:
+Extensions to 30 or 31 decimals of the same proceed as follows:
+There are minor variations on the above rhyme, which still allow pi to be worked out correctly. However, one variation replaces the word "lexicon's" with "lesson's" and in doing so, incorrectly indicates that the 18th digit is seven.
+The logologist Dmitri Borgmann gives the following 30-word poem in his book, "": 
+The following sonnet is a mnemonic for pi to 75 decimal places in iambic pentameter:
+Note that in this example, 10-letter words are used to represent the digit zero.
+Other poems use sound as a mnemonic technique, as in the following poem which rhymes with the first 140 decimal places of pi using a blend of assonance, slant rhyme, and perfect rhyme:
+Note that "dreams number us like pi" corresponds to "314159," and so on. Sound-based mnemonic techniques, unlike pilish, do not require that the letters in each word be counted in order to recall the digits of pi. However, where sound-based mnemonics use assonance, extra care must be taken to distinguish "nine" and "five," which contain the same vowel sound. In this example, the author assumes the convention that zero is often called "O."
+Piku.
+The piku follows the rules of conventional haiku (three lines of 5, 7 and 5 syllables), but with the added mnemonic trick that each word contains the same number of letters as the numerals of pi, i.e. 
+e.g.
+Songs.
+In 2004, Andrew Huang wrote a song that was a mnemonic for the first fifty digits of pi, titled "I am the first 50 digits of pi". The first line is:
+In 2013, Huang extended the song to include the first 100 digits of pi, and changed the title to "Pi Mnemonic Song".
+Lengthier works.
+There are piphilologists who have written texts that encode hundreds or thousands of digits. This is an example of constrained writing, known as "Pilish". For example, "Poe, E.: Near a Raven" represents 740 digits, "Cadaeic Cadenza" encodes 3835, and "Not A Wake" extends to 10,000 digits.
+Sound-based mnemonics.
+It is also possible to use the rhythm and sound of the spoken digits themselves as a memorization device. The mathematician John Horton Conway composed the following arrangement for the first 100 digits,
+where the accents indicate various kinds of repetition.
+Another mnemonic system used commonly in the memorization of pi is the Mnemonic major system, where single numbers are translated into basic sounds. A combination of these sounds creates a word, which can then be translated back into numbers. When combined with the Method of loci, this becomes a very powerful memorization tool.
+Examples in other languages.
+Persian.
+Translation:
+Note: By counting the number of each letter in each word you are able to memorize pi to the 10th decimal point. ex: خرد (kherad) = 3, و (va) = 1, دانش (daanesh) = 4, و (va) = 1, آگاهی (aagaahi) = 5, ...
+Hungarian.
+Translation:
+An interesting (not math themed) alternative:
+Translation:
+Another alternative:
+German.
+This statement yields π to twenty-two decimal places:
+English translation that doesn't encode pi:
+Looser English translation that encodes pi:
+French.
+The following poem composed of alexandrines consists of words each with a number of letters that yields π to 126 decimal places:
+Translation:
+An alternative beginning:
+Katharevousa (archaizing) Greek.
+Yielding π to 22 decimal places:
+Translation:
+Spanish.
+The following piem, giving π to 31 decimal places, is well known in Argentina:
+Translation:
+Another. This piem gives π (correctly rounded) to 10 decimal places. (If you prefer to not round π, then replace "cosmos" with "cielo".)
+Translation:
+Irish.
+"Níl i mata, a shaoi, eolaíocht nó feidhm." (7 decimal places) — "Wise one, mathematics has neither science nor use."
+Romanian.
+One of the Romanian versions of Pi poems is:
+There is another phrase known in Romanian that will help to memorize the number by eight decimal places:
+"Aşa e bine a scrie renumitul şi utilul număr." — "This is the way to write the renowned and useful number."
+Russian.
+In the Russian language, there is a well-known phrase in the reform of 1917 orthography of old tradition: "Кто и шутя, и скоро пожелаетъ «Пи» узнать число — ужѣ знаетъ." (The one who would wish to know the number pi easily and quickly already knows it.)
+A more modern rhyme is:
+A short approximation is: "Что я знаю о кругах?" (What do I know about circles?)
+Buna ek olarak, "olduğu gibi" sadece pi rakamını kafiye birkaç nonfolklore ayetler vardır; örnekler için, bu makalenin Rus halini görmek.
+Lehçe.
+Lehçe matematikçi Witold Rybczynski ayeti altında:
+Lehçe matematikçi Kazimierz Cwojdziński ayeti altında:
+Altında Mundial Arjantin ve lehçe futbol takımı ile ilgili zaman zaman ayettir.
+Portekizli.
+Ya da Brezilya Portekizce:
+Bir daha şiirsel bir şekilde yazılmış bir Piem:
+Çeviri:
+Japon.
+Japon piphilology numaraları ile kelimeleri cinaslı dayanan sayısız anımsatıcılarını vardır. Her rakamı telaffuz iki ya da üç yolu vardır, çünkü bu Japonca, özellikle kolay ve dil ile başlayan görece az sayıda sesbirimleri vardır. Örneğin, 31 ondalık basamağa:
+Bu varlık ungrammatical saçmalık yakın, ancak gevşek bir çeviri kelime sırası verimleri öncelik:
+Japon çocuklar da çarpım tablosunu ezberlemek için bu prensip üzerine inşa şarkıları kullanın.
+Çince.
+Bu π 22 ondalık kapsayan bilinen aşağıdaki örnekte olduğu gibi, sıfır dokuzuncu sestek veya sayı civarındaki-sestek kullanılarak Çince piphilogical şiir oluşturmak mümkündür. Bu örnekte karakteri "dağ" (山 "Shan") anlamına sayısını temsil etmek için kullanılır "üç" (三 "San"), karakter "" Ben "(吾" Wu ") sayısını temsil etmek için kullanılır anlam Beş "(五" wǔ "), ve anlam karakterler" tapınak "(寺" sì ") ve" die "(死" sǐ ") dört sayısını temsil etmek için kullanılır" "(四" sì "). Bu şiirde kullanılan anımsatıcı bazı karakterler, örneğin "öldürmek" (殺 "SHA") için "üç" (三 "San"), "sürahi" (壺 gelen "Hu") "beş" (五 "wǔ" için ), "mutluluk" için) (樂 "lè") "altı" (六 "Liu" için) ve 吃 ("chi" "yemek" "yedi" (七 "Qi"), Mandarin fonetik çok yakın değil / Putonghua.
+Bu şekilde tercüme edilebilir:
+Türk.
+"Sen, o alan o Çevre ve bölününce ziyaretinde sonsuz rakam ile çıkan Değişken dizilimli sayısın." - "Sen çevresi ve alan bölündüğünde bulunursa değişen sırayla, sonsuz hane ile sayısıdır."
+Çek.
+"Sam u sebe v hlavě magického pí číslic deset mám." (Dokuz ondalık basamak) - "Ben kafamın içinde büyülü pi on basamak var."
+"Bir Kapr u hráze prohlídli si rybáře, udici Mel novou, jikrnáči neuplovou Lin." (12 ondalık basamak) - "baraj kadife ve sazan balıkçı izledim Yeni bir çubuk vardır, balık kaçış olmaz.".
+"Dej Boze O, A číslo Ludolfovo já navždy pomnu pro větší naplnění moudrosti početní." (13 ondalık basamak) - "Tanrım, bana matematik becerileri artırmak için, sonsuza dek pi hatırlamak için izin verin."
+"Mám ó Bože ó velký pamatovat si Takový Cifer rad, Velký slovutný Arşimet, pomáhej trápenému, dej mu moc, nazpaměť nechť odříká ty slavné seyis, Ludolfovy číslice ale tak protivné nám, ach!" (30 ondalık basamak) - "Ben, Allah oh Yüce, ünlü olabilir numaraları gibi uzun bir dize, büyük ve ünlü Arşimet, kalp, tüm hane tarafından ezbere, bana güç ver, benim careworn varlık yardımcı hatırlıyorum Shall ama aynı zamanda bazı bize, Ludolph van Ceulen ve hane tarafından nefret ediyordum. "
+Sırp.
+"CAK i Grci i Stari Vavilonci su Kazali: obime kad Delis krugovim prečnikom dobijaš neophodan nam pi." (16 ondalık basamak) - "Hatta Yunanlılar ve Eski Babilliler söylediler: çemberin çapı çevrelerine bölünmesi zaman vazgeçilmez pi edinin."
+İtalyan.
+"Non è dato a tutti ricordare il numero Aureo del Sommo Filosofo Archimede. Certuni sostengon che si può ricordare masal numero, ma questi poi non recitano che un centone insensato." (29 ondalık basamak) - "Değil herkes büyük filozof Arşimet altın sayısını koruyabilirsiniz kim var bu numarayı hatırlamak mümkün olduğunu iddia, ama sonra onlar sadece anlamsız Cento okusun" dedi.
+Ezberleme Rekortmenleri.
+Bilgisayarlar ezberlemeye, π hesaplanan bile önce hane rekor sayıda bazı insanlar için bir saplantı haline geldi. π hatırlanır basamak için geçerli Guinness tanınan kayıt Lu Chao, Çin 24 yaşındaki yüksek lisans öğrencisi tarafından tutulan 67.890 hane vardır. Bir hata olmadan π ve 67890 ondalık yere ezbere ona 24 saat ve 4 dakika sürdü. 3 Ekim 2006 tarihinde, Akira Haraguchi bildirildi π ilk 100.000 ondalık basamak okunduğu ..
+David Fiore pi ezberleme için erken rekortmeni oldu. Fiore rekor bir Amerikan Rekortmeni için uzun süre kalır 27 yıldan fazla bir Amerikan rekor olarak duruyordu. O 10.000 haneli sınırını aşan ilk kişi oldu

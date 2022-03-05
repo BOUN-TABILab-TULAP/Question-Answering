@@ -1,0 +1,45 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Süper	süper+Noun+A3sg+Pnon+Nom
+Süper	süper+Adj
+
+dişi	diş+Noun+A3sg+P3sg+Nom
+dişi	diş+Noun+A3sg+Pnon+Acc
+dişi	dişi+Noun+A3sg+Pnon+Nom
+dişi	dişi+Adj
+
+sendromuna	sendrom	+Noun+A3sg+P3sg+Dat
+sendromuna	sendrom	+Noun+A3sg+P2sg+Dat
+
+sahip	sahip	+Noun+A3sg+Pnon+Nom
+
+bireylerin	birey	+Noun+A3pl+Pnon+Gen
+bireylerin	birey	+Noun+A3pl+P2sg+Nom
+
+genotipi	genotip	+Noun+A3sg+P3sg+Nom
+genotipi	genotip	+Noun+A3sg+Pnon+Acc
+
+nasıldır	nasıl+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Herhangi	herhangi	+Adj
+
+bir	bir	+Adverb
+bir	bir	+Det
+bir	bir	+Num+Card
+bir	bir	+Adj
+
+bölgenin	bölge+Noun+A3sg+Pnon+Gen
+bölgenin	bölge+Noun+A3sg+P2sg+Gen
+
+nüfus	nüfus+Noun+A3sg+Pnon+Nom
+
+piramidine	piramit	+Noun+A3sg+P2sg+Dat
+piramidine	piramit	+Noun+A3sg+P3sg+Dat
+
+bakılarak	bak	+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+hangi	hangi	+Adj
+
+sonuçlara	sonuç+Noun+A3pl+Pnon+Dat
+
+ulaşılabilir	ulaş+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg
+ulaşılabilir	ulaş+Verb^DB+Verb+Pass+Pos^DB+Verb+Able^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

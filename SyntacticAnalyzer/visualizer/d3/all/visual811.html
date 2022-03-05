@@ -1,0 +1,118 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Türkiyenin Yunanistan ile olan sınırının uzunluğu kaç kilometredir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(8945, {label: "eğim",nodeclass: "type-TK"});
+ g.addNode(8946, {label: "Eğimli",nodeclass: "type-TK"});
+ g.addNode(8947, {label: "yamaçlarda",nodeclass: "type-TK"});
+ g.addNode(8948, {label: "fazla",nodeclass: "type-TK"});
+ g.addNode(8949, {label: "yağ",nodeclass: "type-TK"});
+ g.addNode(8950, {label: "yağışlarla",nodeclass: "type-TK"});
+ g.addNode(8951, {label: "doygun",nodeclass: "type-TK"});
+ g.addNode(8952, {label: "hale",nodeclass: "type-TK"});
+ g.addNode(8953, {label: "gel",nodeclass: "type-TK"});
+ g.addNode(8954, {label: "gelen",nodeclass: "type-TK"});
+ g.addNode(8955, {label: "toprağın",nodeclass: "type-TK"});
+ g.addNode(8956, {label: "adeta",nodeclass: "type-TK"});
+ g.addNode(8957, {label: "bir",nodeclass: "type-TK"});
+ g.addNode(8958, {label: "hamur",nodeclass: "type-TK"});
+ g.addNode(8959, {label: "gibi",nodeclass: "type-TK"});
+ g.addNode(8960, {label: "yamaç",nodeclass: "type-TK"});
+ g.addNode(8961, {label: "boyunca",nodeclass: "type-TK"});
+ g.addNode(8962, {label: "kay",nodeclass: "type-TK"});
+ g.addNode(8963, {label: "kaymasına",nodeclass: "type-TK"});
+ g.addNode(8964, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(8965, {label: "de",nodeclass: "type-TK"});
+ g.addNode(8966, {label: "denir",nodeclass: "type-TK"});
+ g.addNode(8967, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,8945,8946,{label: "TÜREME"});
+ g.addEdge(null,8946,8947,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8947,8953,{label: "DE HALİ"});
+ g.addEdge(null,8948,8950,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8949,8950,{label: "TÜREME"});
+ g.addEdge(null,8950,8953,{label: "INSTRUMENTAL.ADJUNCT"});
+ g.addEdge(null,8951,8952,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8952,8953,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,8953,8954,{label: "TÜREME"});
+ g.addEdge(null,8954,8955,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8955,8962,{label: "ÖZNE"});
+ g.addEdge(null,8956,8958,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8957,8958,{label: "BELİRTEÇ"});
+ g.addEdge(null,8958,8959,{label: "NESNE"});
+ g.addEdge(null,8959,8962,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8960,8961,{label: "NESNE"});
+ g.addEdge(null,8961,8962,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8962,8963,{label: "TÜREME"});
+ g.addEdge(null,8963,8966,{label: "ÖZNE"});
+ g.addEdge(null,8964,8966,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,8965,8966,{label: "TÜREME"});
+ g.addEdge(null,8966,8967,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

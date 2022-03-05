@@ -1,0 +1,382 @@
+Question: Atmosferdeki nem sıcaklığı nasıl etkiler
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklimin Temel Elemani: Sicaklik (EBA)</DOCTITLE>
+<TEXT>
+
+Sıra Kentler Sıcaklıklar (°C) 
+	Ocak ortalaması	Temmuz ortalaması	Yıllık Ortalama
+1	İstanbul	5	22	13,5
+2	Erzurum	-10	16	3
+3	Kaşgar (Çin)	-5	18	6,5
+4	Yakutsk (Rusya Federasyonu)	-30	10	-10
+5	Tokyo (Japonya)	6	19	12,5
+6	Sydney (Avustralya)	20	4	12
+7	Kisumu (Kenya)	30	25	27,5
+Isı ve Sıcaklık Aynı mıdır?
+Yeryüzünde ve atmosferde oluşan birçok doğal olayın, özellikle de atmosfer olaylarının temel nedeni ısı ve sıcaklıktır. İklimin diğer elemanları olan basınç, rüzgâr, nem ve yağış da sıcaklıklığa bağlı olarak oluşur.
+Sıcaklık konusu işlenirken ısı kavramı karşımıza çıkar. Isı ile sıcaklık, çoğu zaman aynı anlamda kullanılan ancak birbirinden farklı olan kavramlardır.
+Isı, bütün cisimlerde mevcut olan potansiyel enerjiyi ifade eder. Sıcaklık ise bu enerjinin dışa yansımasıdır. Sıcaklık, termometreyle ölçülür ve derece celcius (derece selsius: °C) olarak ifade edilir. Dünya ve güneş sistemindeki diğer gök cisimlerinin sıcaklık ve ışık kaynağı Güneş’tir. Dünya, Güneş’ten aldığı enerjiyle ısınır, fakat bu enerjinin tamamını kullanmaz; alınan enerjinin önemli bir kısmı kaybolur. Yerküre’nin şekline ve yerel şartlara bağlı olarak sıcaklık her yerde aynı değildir. Bu nedenle farklı sıcaklık değerleri ve sıcaklık kuşakları oluşur.
+Güneş’ten gelen enerjinin ne kadarının Dünya’yı ısıttığı:
+Yeryüzüne gelen güneş enerjisinin dağılımı
+Dağılmaya (difüzyona) uğrayan % 25
+Bulutlar ve atmosferin etkisi ile uzaya yansıyan % 25
+Yeryüzüne çarparak uzaya yansıyan % 8
+Atmosfer tarafından emilen % 15
+Yeryüzünde Sıcaklık Dağılışını Etkileyen Faktörler
+Yeryüzünün her yerinde farklı sıcaklık değerlerinin oluşmasının nedenlerini hiç düşündünüz mü? Kutuplar neden çok soğukken Ekvator bölgesi çok sıcaktır? Her olayın bir veya birden çok nedeni olduğu gibi yeryüzünde farklı sıcaklık değerlerinin oluşmasının da nedenleri vardır. Şimdi bunları görelim.
+1. Güneş İşınlanma Geliş Açısı: Daha önceki konularda öğrendiğiniz gibi yeryüzünde sıcaklığın temel kaynağı Güneş’tir. Güneş ışınları bir yere ne kadar dik açıyla düşerse sıcaklık o kadar yüksek, ne kadar dar açıyla düşerse sıcaklık o kadar düşük olur.
+Güneş ışınlarının yere düşme açısı, çeşitli faktörlere bağlı olarak değişir. Bu faktörler; Yerküre’nin şekli, eksen eğikliği, Dünya’nın günlük ve yıllık hareketi ile eğim ve bakıdır.
+a.	Yerküre’nin Şekli: Yerküre’nin şekli, yeryüzünün her noktasının aynı miktarda ısınmasına engel olur. Ekvator’dan kutuplara doğru, güneş ışınlarının yere düşme açısı küçülür.
+Yerküre’nin şekli küresel olduğu için, güneş ışınları, Ekvator ve çevresine daha dik açıyla gelir. Buna enlem etkisi de denir.
+b.	Yerin Eksen Eğikliği oe Yıllık Hareketi (Mevsimler)
+Dünya Güneş etrafında dönerken sıcaklık değerlerinde nasıl bir değişim olur?
+Önceki konularda anlatıldığı gibi Dünya, Güneş etrafında dönerken eksen eğikliği nedeniyle güneş ışınlarının yere düşme açısı yıl içerisinde değişir. Bu durum sıcaklığın yıl içerisinde farklılık göstermesine neden olur.
+Eksen eğikliği Kuzey ve Güney Yarım kürelerde, aynı anda farklı sıcaklık değerlerinin oluşmasına ve farklı mevsimlerin yaşanmasına yol açar.
+c.	Dünya’nın Günlük Hareketi
+Dünya’nın günlük hareketine bağlı olarak güneş ışınlarının bir yere düşme açısı gün içerisinde değişir. Buna bağlı olarak gün içindeki sıcaklık değerleri değişmektedir.
+d.	Bakı ve Eğim
+Herhangi bir yerin Güneş’e göre konumuna bakı denir. Bakının sıcaklık üzerinde önemli bir etkisi vardır. Güneş’e dönük yerler, güneş ışınlarını daha büyük açıyla alır.
+Bakı etkisi, dağların yamaçlarının Güneş’e göre durumlarına bağlı olarak ortaya çıkar. Dönenceler dışında Kuzey Yarımküre’deki dağların güney yamaçları, Güney Yarımküre’deki dağların ise kuzey yamaçları güneş ışınlarını daha büyük açıyla alır ve genel olarak daha sıcak olur. Dönenceler arasındaki dağların ise yıl içinde her iki yamacı da güneş ışınlarını daha büyük açıyla alabilmektedir.
+2.	Güneşlenme Süresi
+Güneşlenme süresi, bir yerin gün içinde Güneş’i gördüğü süreyi ifade eder. Atmosfer de enerji birikimine neden olduğundan sıcaklık üzerinde önemli bir etkiye sahiptir. Güneşlenme süresi uzadıkça atmosferde ısı birikimi olacağından sıcaklık değerleri yükselir.
+3.	Yükselti
+Yeryüzünde yükseltiye bağlı olarak farklı sıcaklık değerleri görülür.
+4.	Kara ve Denizlerin Dağılışı
+Gece
+Denizler yavaş ısınır ve yavaş soğur.
+Hava soğuyarak aşağı iner.
+Yükselen sıcak hava
+Hareket eden soğuk hava
+Kara çabuk ısınır, çabuk soğur.
+Yandaki şekle bakarak aşağıdaki soruları cevaplayınız.
+Gündüz
+Karalar daha çabuk ısındığından üzerindeki havanın da ısınıp yükselmesine neden olur.
+Isınan hava yükseldikçe soğur ve yoğunlaşarak aşağı iner.
+Denizin üzerindeki soğuk hava hareket ederek sıcak havanın yerini alır.
+5. Nem
+Atmosferdeki nem, sıcaklığı dengeleyici bir özelliğe sahiptir; aşın ısınma ve soğumayı önler, günlük ve yıllık sıcaklık farkını azaltır. Güneş ışınlarının dik veya dike yakın açılarla düştüğü Ekvator ve çevresinin Dünya’nın en sıcak yeri olması gerekir. Ancak nem miktarının fazla olması bu durumu engellemiştir. Dünya’da sıcaklığın en yüksek değerlere ulaştığı yerler, nem miktarının oldukça düşük olduğu dönenceler civarındaki çöllerdir.
+6. Okyanus Akıntıları
+Yeryüzünde sıcaklığın dağılışı üzerinde okyanus akıntılannın önemli bir etkisi vardır. Okyanus akıntıları, denizlerde sıcaklığın Ekvator’dan kutuplara doğru düzenli bir biçimde azalmasını engeller. İngiltere 50° - 57° kuzey enlemleri üzerinde bulunduğundan çok soğuk olması gerekirken kıyısından geçen Gulf Stream (golfstrim) sıcak su akıntısı nedeniyle çevresine göre sıcak ve nemli bir iklime sahiptir. İngiltere ile aynı enlemlerde olan Kanada'nın doğu kıyılarının ise Labrador soğuk su akıntısı nedeniyle soğuk bir iklimi vardır.
+7. Rüzgârlar:
+Rüzgârlar yeryüzünde sıcaklık dağılışı üzerinde doğrudan etkilidir. Geldikleri bölgelerin sıcaklık, nem vb. özelliklerini estikleri bölgelere taşırlar.
+8. Bitki Örtüsü
+Bitki örtüsünün sıcaklık üzerinde dengeleyici etkisi vardır. Bitki örtüsü, geceleri aşırı soğumayı, gündüzleri de aşırı ısınmayı önler. Bu nedenle gece ve gündüz arasındaki sıcaklık farkı ormanlık alanlarda az iken bitki örtüsünden yoksun olan alanlarda fazladır.
+Dünya’da Sıcaklığın Coğrafi Dağılışı
+Yeryüzünde sıcaklığın farklı bir dağılış gösterdiğini öğrendiniz. Bu dağılış eş sıcaklık eğrileriyle (izoterm) oluşturulan haritalarla gösterilebilir.
+İzoterm haritaları, gerçek izoterm haritaları ve indirgenmiş izoterm haritaları olmak üzere ikiye ayrılır.
+Yeryüzünde ölçülen sıcaklık değerleri ile hazırlanan haritalara gerçek izoterm haritaları denir. Her yerin deniz seviyesinde olduğu kabul edilerek oluşturulan sıcaklık haritalarına ise indirgenmiş izoterm haritası denir. İndirgenmiş sıcaklık şu şekilde hesaplanır: Deniz seviyesinden 1000 m yüksekte olan bir merkezin sıcaklığı 5 °C ölçülmüştür. Buna göre indirgenmiş sıcaklık;
+1000x0.5/100=5, 5 + 5 = 10 °C.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nem Ve Yağiş (EBA)</DOCTITLE>
+<TEXT>
+
+Su, canlı yaşamı için çok önemli bir doğal unsurdur. Doğadaki su, sıcaklık şartlarına göre katı, sıvı ya da gaz halinde bulunmaktadır. Su belirli sıcaklıkta buharlaşarak gaz haline geçmekte, sıcaklığın düşmesiyle de yoğunlaşarak, yağmur ya da kar ve dolu şeklinde tekrar yeryüzüne düşmektedir. Yağışlarla yeryüzüne düşen su bir süre sonra yeniden buharlaşarak atmosfere karışmaktadır. Atmosferdeki su buharı nem olarak da ifade edilir. Atmosferdeki nemin kaynağı okyanus, deniz, göl, akarsu ve bitkilerdir. Atmosferdeki nem oranı her yerde aynı değildir. Okyanus ve deniz kıyıları nem bakımından zengin, çöller, karaların iç kesimleri ve yüksek bölgeler ise nem yönünden fakir alanlardır.
+Atmosferdeki nem şu terimlerle ifade edilir.
+a. Mutlak Nem (var olan nem): 1 m3 havanın içinde o an var olan nem miktarının gram olarak ifadesidir. Nemin kaynağı; okyanuslar, denizler, göller, akarsular, kaynaklar, kar örtüsü, buzullar, nemli toprak ve canlılardır.
+Maksimum Nem : Havanın belli bir sıcaklıkta bulundurabileceği en yüksek nem miktarıdır. Sıcaklıkla maksimum nem arasında doğru orantı vardır. Bir bardağın belli miktarda su taşıma kapasitesi vardır. Fazlasını koyduğumuzda bardak taşar. Hava da bu şekildedir. Bulundurabileceğinden fazla nem yüklendiği zaman havanın fazlası yoğuşur ve yağış olarak yeryüzüne düşer.
+b. Bağıl (nispi, oransal) Nem: Bağıl nem ile sıcaklık arasında ters orantı vardır. Sıcaklık arttıkça bağıl nem oranı azalır ve havadaki nem açığı artar. Bu durumda hava doyma noktasından uzaklaşır ve yağış ihtimali azalır. Bağıl nem aşağıdaki formülle bulunur:
+Bağıl nem %= (Mutlak nem / Maksimum nem) X 100
+Yoğuşma ve ürünleri
+Hava, bulundurabileceğinden fazla nem içerirse bu miktar katı ve sıvı tanecikler şeklinde yoğuşur. Böylece gözle görülmeyen ve buhar hâlinde bulunan nem, bulutları oluşturarak görülür hâle gelir.
+Bulut
+Yerden yükselen havanın içindeki nemin yoğuşması ile oluşan bulutlar, özelliklerine göre çeşitli şekillerde gruplandırılır. Örneğin yüksekliklerine göre bulutlar 3 gruba ayrılır:
+13 Bazı bulut türleri
+Alçak Bulutlar (Stratus): Yerden itibaren 3000 m yükseklikte oluşan kalın, yoğun ve koyu renkli bulutlardır. Yoğuşma, hızlı ve kısa sürede olursa küme şekilli, yoğun yağış bırakan bulutlar oluşur. Eğer yoğuşma yavaş ve uzun sürede olursa tabaka şekilli ve uzun süren çisenti şeklinde yağış bırakan bulutlar oluşur.
+Orta Bulutlar (Kümülüs): 3000 - 6000 m arasındaki yükseltilerde yoğuşmalara bağlı olarak oluşan bulutlardır. Genellikle beyaz renktedirler.
+Yüksek Bulutlar (Sirüsler): 6000 m'nin üstündeki hava katmanlarında su buharının buz şeklinde yoğuşması ile oluşan bulutlardır. Bu seviyelerdeki su buharı azlığına bağlı olarak bulutların görünüşleri tüy şeklindedir. Bunlara genel olarak sirüs adı verilir.
+Sis
+Kara ve deniz yüzeylerine yakın yerlerde oluşan bulutlara sis denir. Sis;
+Bulutsuz gecelerde sıcaklığını büyük ölçüde kaybeden yer yüzeyine nemli havanın temas etmesiyle,
+Farklı sıcaklıktaki iki hava kütlesinin temasında sıcak havanın daha soğuk bir yüzey üzerinde akmasıyla ya da soğuk havanın sıcak bir hava kütlesinin altına girmesi ile yer yüzeyine doğru meydana gelen sıcaklık kaybıyla,
+Eğimli bir arazi üzerinde yükselen nemli havanın sıcaklığının düşmesiyle, 
+Soğuk hava kütlesinin daha sıcak olan su yüzeyinden geçmesiyle oluşur.
+Çiy
+İlkbahar veya yaz mevsiminde sabahları cisimlerin üzerinde, bahçedeki bitkilerin yapraklarında su damlacıkları oluşur. Bu damlacıklar yağmur damlası değildir, geceleri havanın soğumasıyla havada bulunan su buharının yoğuşarak oluşturduğu damlacıklardır.
+Kırağı
+Soğumanın çok şiddetli olduğu yerlerde, havanın temas ettiği yüzeylerde buz kristalleri şeklinde oluşan yoğuş-ma ürünüdür. Ülkemizde bu olay kış mevsiminin başlarında görülür.
+Kırç
+Zeminin aşırı soğumasıyla havadaki su buharının soğuyan zeminler, özellikle elektrik telleri, direkler ve ağaçların dalları üzerinde yoğunlaşarak buz hâlini almasıdır. Kırağıdan farkı buz kristallerinin tabakalar oluşturmasıdır.
+Yağış Türleri
+Bulut oluşumu atmosferdeki yoğuşmanın ilk aşamasıdır. Yoğuşmanın ilerlemesi ile daha da büyüyen katı ve sıvı tanecikler havada askıda kakmayarak yer çekiminin etkisiyle yeryüzüne düşer. Bu olaya yağış denir.
+Yağmur
+Buluttaki su tanecikleri ilk aşamada çok küçük boyutlardadır. Havanın soğumasıyla bu tanecikler birleşir, boyutları büyür ve ağırlaşırlar. Ardından yer çekiminin etkisiyle yere düşerek yağmuru oluştururlar.
+Kar
+Havadaki su buharının O °C'un altında yoğuşmasıyla ince taneli kristaller oluşur. Bu kristallerin birleşmesiyle de kar taneleri meydana gelir. Kar taneleri altıgen şeklinde harika bir görünüme sahiptir. Bu taneler birbirine temas etmeden yeryüzüne iner.
+Dolu
+Dikey yönlü hava hareketlerinin çok güçlü olduğu bulutlardaki su damlacıklarının 0 °C’un altında aniden donmasıyla oluşan iri buz taneleridir. Daha çok ilkbahar ve yaz aylarında görülür.
+Ölü Toprağı Canlandıran Yağmurlar
+Yağmurun canlılar için vazgeçilmez bir ihtiyaç olan suyu yeryüzüne bırakmasının yanında, bir de gübreleme özelliği vardır. Denizlerden buharlaşarak bulutları oluşturan ve yeryüzüne yağmur damlaları olarak düşen su, ölü toprağı canlandıracak bazı maddeler içerir. Yağmur damlaları içinde mikroskobik alglerin ve zooplanktonların bozulmasından meydana gelen pek çok organik artık vardır. Bu artıkların bazıları; deniz suyunda çok az bulunan fosfor, magnezyum, potasyum gibi elementleri ve ayrıca bakır, çinko, kobalt, kurşun gibi ağır metalleri seçip ayırarak kendi içlerinde toplar.
+Yeryüzündeki tohum ve bitkiler, yetişmeleri için gereksinim duydukları madensel tuzları ve elementleri işte bu yağmur damlalarında bulur. Yağışlarla toprağa inen bu tuzlar, verimi artırmak için kullanılan geleneksel gübrelerin bazılarının (kalsiyum, magnezyum, potasyum vb.) küçük örnekleridir. Bu tür aerosellerde bulunan ağır metaller ise bitkilerin gelişiminde ve üretiminde verimlilik artırıcı elementleri oluşturur. Kısacası, yağmur önemli bir gübredir. Fakir bir toprak, yalnızca yağmur aracılığıyla gelen bu gübrelerle bile yüz yıllık bir süre içinde bitkiler için gereken tüm elementleri kazanabilir. Ormanlar da yine bu deniz kökenli aeroseller yardımıyla gelişir ve beslenir.
+Karalar üzerine yağışlarla her yıl yaklaşık 150 milyon ton gübre düşmektedir. Bu doğal gübreleme işleyişi olmasaydı. Dünya üzerinde çok daha az bitki olacak, hayat dengesi bozulacaktı.
+Hava Kütleleri ve Cepheler
+Hava Kütlesi
+Atmosferin sıcaklık ve nem bakımından aynı özelliği gösteren geniş parçalarıdır. Örneğin; Ekvator’dan kutuplara doğru giden hava kütleleri sıcak ve nemli iken kutuplardan Ekvator’a doğru giden hava kütleleri soğuk ve kurudur.
+Cephe
+Sıcak ve soğuk karakterli hava kütleleri genel atmosfer dolaşımı içinde zaman zaman karşı karşıya gelirler. Böyle alanlara cephe adı verilir.
+Karşılaşma alanları (cepheler) bol yağışlı alanlardır. Yeryüzündeki yağışların önemli bir bölümünü cephe yağışları oluşturur.
+Oluşumlarına Göre Yağış Tipleri
+1. Yükselim (Konueksiyonel) Yağışları
+Isınarak yükselen havanın soğuması ile oluşan yağışlardır.
+Ekvator çevresinde yıl boyunca orta enlemlerde ilkbahar ve yaz aylarında bu tip yağışlar görülür.
+2. Yamaç (Orografik) Yağışları
+Nemli hava parsellerinin bir dağ yamacı boyunca yükselmesi sonucunda oluşan yağışlardır.
+Orografik yağışlar en çok kıyıya paralel uzanan dağların denize dönük yamaçlarında görülür.
+3. Cephe (Frontal) Yağışları
+Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında oluşan yağışlardır.
+Batı ve Orta Avrupa ile okyanusal iklim bölgelerinde her mevsim, Akdeniz iklim bölgelerinde ise kış ve bahar aylarında cephesel yağışlar görülür.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Göçler, Yerleşim Alanlarını Nasıl Etkiler? (EBA)</DOCTITLE>
+<TEXT>
+
+Hızla artan nüfusla birlikte trafik sorunları ortaya çıkmıştır.
+Yerleşmeye uygun olmayan alanlara konutlar yapılmış, yağmur sonrası oluşan sellerde maddi zarar meydana gelmiştir.
+Kentleri çepeçevre kuşatan gece-kondu semtleri hızla büyümüş ve bazıları modem semtler arasına sıkışmış kalmıştır.
+Göç alan yerleşim alanlarında iş imkânlan artmış ve çeşitlenmiştir.
+Hızlı göç, ormanlık alanların tahrip edilmesine ve buralarda yapılaşmaya yol açmıştır.
+Fabrikalar, göçten önce yerleşim alanları dışındayken göçle birlikte yerleşim alanları arasında kalmıştır.
+Göçler, göç edilen yerlerde kültürel çeşitliliğe de neden olmaktadır.
+Şehirlerde taşıt sayısının hızla artması, ısınmak için kömür gibi yakıtların kullanılması hava kirliliği sorununu ortaya çıkarmıştır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’De İklim Çeşitleri (EBA)</DOCTITLE>
+<TEXT>
+
+Devlet Meteoroloji İşleri Genel Müdürlüğünün, “www.meteor.gov.tr” adlı sitesinden derlenen bilgilere göre Türkiye’de son yüzyılda kaydedilen en yüksek ve en düşük sıcaklık değerleri ile yağış miktarı ve kar kalınlıkları şöyledir: Van’da 9 Ocak 1990 tarihinde ölçülen sıcaklık, -46,4 °C ile bugüne kadar Türkiye’de ölçülen en düşük sıcaklık olarak gerçekleşti. Buna karşılık en yüksek sıcaklık ise 48,8 °C ile Mardin Kızıltepe’de 14 Ağustos 1993’te ölçüldü. Türkiye’de en düşük ortalama sıcaklık 1,8 °C ile 1972 yılında Kars-Sarıka-mış’ta, en yüksek ortalama sıcaklık ise 21,3 derece ile 1962 yılında İskenderun’da belirlendi. Türkiye’nin en fazla yağış alan illerinin başında gelen Rize’de, 1931 yılında 4045,3 mm ile yıllık en yüksek toplam yağış, 114,5 mm ile de 1970 yılın da İğdır’da en düşük toplam yağış gerçekleşti. Bitlis’te 1954 yılının şubat ayında 525 cm ile en yüksek kar kalınlığı ölçülürken günlük en yüksek yağış miktarı da 11 Aralık 1971’de 469,9 mm ile Antalya-Kemer’de görüldü.
+Türkiye'de yağış rejimleri
+Dünya’nın diğer bölgelerinde olduğu gibi Türkiye’de de yağış miktarları yere ve zamana göre değişiklik gösterir. Yıl içinde yağışın mevsimlere göre gösterdiği bu değişikliğe (azalıp çoğalmaya) yağış rejimi denir.
+Türkiye’nin coğrafi özelliklerine bağlı olarak farklı yağış rejimleri görülür. Aşağıdaki tabloda ülkemizdeki yağış rejimleri, türleri ve bunların mevsimlere göre dağılışı verilmiştir.
+Yağış rejimleri	En fazla yağış	En az yağış	Yağış türü ve tipi	Düzenli / düzensiz
+Karadeniz yağış rejimi	Sonbahar	İlkbahar	Yağmur - yamaç yağışları	Düzenli
+Akdeniz yağış rejimi	Kış	Yaz	Yağmur - cephe yağışları	Düzensiz
+Karasal yağış rejimi (Orta Anadolu)	İlkbahar	Yaz	Yükselim yağış	Düzensiz
+Marmara yağış rejimi	Kış - İlkbahar	Yaz	Kar-yağmur-yamaç ve cephe yağışları	Kısmen düzenli
+Karasal yağış rejimi (Kuzeydoğu Anadolu)	Yaz	Kış	Kar-yükselim yağış	Düzensiz
+Türkiye’de Donma Olayı
+Ülkemizde donma, özellikle sonbahar, kış ve ilkbahar aylarında görülen bir iklim olayıdır. Ancak tarım sektöründeki etkileri nedeniyle sonbaharda ve özellikle bitki gelişiminin hızlandığı ilkbahar döneminde görülen donma oldukça zararlıdır.
+Daha önce de öğrendiğiniz gibi sis önemli bir hava olayıdır. Özellikle ulaşımı etkilemesi bakımından önem taşır.
+Türkiye'de sis olayı
+Türkiye’de sis olayları en fazla hangi mevsimlerde görülür? Yaşadığınız yerde sis olayı hayatınızı nasıl etkiler?
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ekonomi (bilim dalı)</DOCTITLE>
+<TEXT>
+
+Ekonomi veya iktisat, üretim, dağıtım, tüketim, ticaret, değişim ve bölüşüm ile ilgili etkinliklerin bütünü ile bu etkinlikleri inceleyen bir bilim dalıdır.
+Mevcut kaynakların sınırlı, insan ihtiyaçlarının ise sınırsız olması, iktisat biliminin ortaya çıkma nedenidir. İktisat bilimi kaynakların kıt olması nedeniyle insanların yaptıkları tercihler ve bu tercihler nedeniyle aralarındaki ilişkiyi inceleyen bir bilimdir.
+Bir etkinlikler bütününü olarak iktisat ya da ekonominin yapısı, uygarlık tarihi ve toplumsal yapılanmalar ile yakından ilişkilidir.
+Daha genel olarak iktisat toplumların nasıl zenginleşeceği ve refah seviyelerinin artacağı sorusuna cevap arar. Bu süreçte izlenecek politikalar, işsizlik, enflasyon, üretim düzeyi gibi kavramlar iktisatın inceleme alanına girer.
+Kelime Etimolojisi.
+"Ekonomi" kelimesi, "ev", ve "dağıtım (daha çok, yönetim anlamında)" kelimelerinden gelen , "bir evi yöneten kimse" kelimesine kadar takip edilebilir."ekonomi" kelimesi "bir aile veya hane ile ilgili" anlamına gelse de aynı zamanda "tutumluluk", "yönetme", "idare", "düzenleme" ve "bir devletin kamu yararı"nı da ifade etmektedir.
+Ekonominin Dalları.
+Bir bilim dalı olarak iktisat ya da ekonomi, yeryüzündeki kaynakların sınırlı, insan ihtiyaçlarının sınırsız olması yüzünden, kaynakların daha verimli bir şekilde kullanılabilmesini sağlamak amacıyla kurulmuştur. İktisat, incelediği konulara ve kapsamlara göre dallara ayrılır:
+Normatif Ekonomi - Bir durumu hedef olarak gören, ekonomik düzenin nasıl olmasına dair fikirler üreten iktisat dalıdır. Normatif iktisat belirlenen hedefler için neler yapılması gerektiğini araştırır. Sosyal adalet, üst düzey refah için neler yapılması gerektiğini araştırır.
+Pozitif Ekonomi - Sadece ekonomik düzeni sebep-sonuç ilişkisi içinde inceleyen, ekonomi içinde sürekli geçerli kanunları saptamaya çalışan iktisat dalıdır. "Talep artışı enflasyonu nasıl etkiler?" gibi sorulara cevap arar. "Enflasyon hangi düzeyde tutulmalı?" sorusu normatif ikstisatın inceleyeceği bir konudur.
+Mikroekonomi - Tüketicilerin ve firmaların ekonomik davranışlarını; ihtiyaç, fayda, değer, fiyat kavramları ile araştıran iktisat dalıdır. Piyasa türlerini, piyasaların işleyiş mekanizmasını ve farklı piyasa koşullarında firma dengesinin nasıl oluştuğunu da araştırır. Daha basit bir ifadeyle bir şirketin veya tüketicinin kendi iş işleyişi ve dış ekonomik ilişkilerini bireysel olarak inceleyen iktisat dalıdır.
+Makroekonomi - Ülke ekonomisini ve dünya ekonomisini ilgilendiren konu başlıklarını inceleyen bir iktisat dalıdır. İstihdam, enflasyon, kamu dengesi gibi konuları inceler.
+Terimler.
+Kıtlık, Faydacılık, Ceteris Paribus, Mukataa, Bilgi yetersizliği, Esham
+merkantilizm, Görünmez el, monetarizm, Monopol, Oligopol, Üretim faktörleri, sermaye, Say Kanunu, monetizasyon, Monopson
+Toprak, İşgücü, Girişimci, Elastikiyet, arz, talep, Sosyalizm, Kamu, İhracat, İthalat, sübvansiyon, Milli gelir, Ödemeler dengesi, Vergi, Kamu harcamaları, enflasyon, deflasyon, deflatör, Sabit kur, döviz, Esnek kur, durgunluk, düopson, düopol, Ordinal Fayda, Taban fiyat , Oyun Teorisi, Pareto optimalite, optimal, Kardinal Fayda, Rant, Tüketici rantı, Üretici rantı, Tavan Fiyat, Barter, Tüketim, Bütçe, Fiyat, Kısa Dönem, Uzun Dönem, Tam İstihdam, Teşvik, Yatırım, Kaynak Dağılımı, Gelir Dağılımı, İstikrar, Kamunun Fonksiyonları, Dışsal Ekonomiler, coase Teoremi, dezenflasyon, Kalitatif Araçlar, Kantitatif Araçlar, Açık Piyasa İşlemleri, Reeskont Politikası, Zorunlu Karşılıklar, Küreselleşme, Performans Yönetimi,Pareto Eğrisi,İstihdam
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üretim, Dağitim Ve Tüketim Sektörlerinin Etkileşimi (EBA)</DOCTITLE>
+<TEXT>
+
+Yeryüzünün farklı bölgelerindeki farklı ekonomik faaliyetler üretim, dağıtım ve tüketim bakımından etkileşime neden olmuştur. Örneğin, tarım faaliyeti sonucu elde edilen bir ürün sanayi faaliyetinin ham maddesi olur. Sanayide işlenerek mamül maddeye dönüşür ve ulaşım ağları vasıtasıyla taşınarak tüketiciye ulaşır. Bunun sonucunda farklı sektörlerin arasında karşılıklı etkileşim gerçekleşir (Şekil 1).
+1.	Tarım ve Hayvancılıkta Üretim, Dağıtım ve Tüketim Etkileşimi
+Yol ağının kırsal alanlara ulaşmadığı ya da yetersiz kaldığı dönemlerde çiftçiler ihtiyaçları kadar üretim yapmaktaydılar. Tarımdaki gelişmeler ile birim alandan elde edilen verim artmış ve kırsal kesimde ihtiyaç fazlası ürünler elde edilmiştir. Zamanla taşımacılığın gelişmesine bağlı olarak da bu ürünler tüketim alanlarına ulaştırılmıştır. Günümüzde ulaşım çok gelişmiştir ve kıtalar arası ürün dağıtımı kolaylıkla yapılabilmektedir.
+Tarım ürünlerinin pazarlara taşınması ve satılması, tarımın gelişmesi ve devamlılığı açısından önemlidir. Bilhassa sebze ve meyve gibi çabuk bozulan ürünlerin kısa süre içinde tüketiciye ulaştırılması zorunluluğu vardır. Bu zorunluluk pazarlama ve modern ulaşımın önemini artırmıştır, ürünlerin sağlıklı bir şekilde pazarlara ulaştırılması için özel teknoloji ile donatılmış ulaşım araçları geliştirilmiştir. Böylece ürünler bozulmadan pazarlara, oradan da tüketiciye ulaştırılmaktadır.
+İzmir ve çevresinde yetiştirilen üzüm, incir gibi tarım ürünleri geçmişten günümüze giderek artan bir üretim oranına sahiptir. Bunun nedeni bölgedeki ürünlerin deniz ve kara ulaşımı ile daha geniş bir tüketici kitlesine kolaylıkla ulaştırılabilmesidir.
+Hayvancılıkta da tarıma benzer bir durum söz konusudur. Daha önce yerel tüketime yönelik üretim yapılırken artan nüfus beraberinde ticari amaçlı hayvancılığın gelişmesini sağlamıştır. Hayvancılık sektöründe dağıtım oldukça önemlidir. Et ve süt gibi ürünler çok çabuk bozulduğu için yakın sanayi tesislerinde işlenir ve frigorifik (soğutuculu) taşımacılık ile tüketiciye ulaştırılır.
+2.	Tüketimin Üretimi Etkilemesi
+Tarım ve hayvan ürünlerine olan tüketim talebi herhangi bir sebeple azalırsa üretim de azalır. Hatta üretim durma noktasına bile gelebilir veya yön değiştirebilir. Yani üretici başka alanlara yönelebilir.
+3.	Tüketimin Fazla Olması üretimi Nasıl Etkiler?
+Buğday eskiden beri önemini koruyan ana besin maddelerinden biridir (Fotoğraf 2). Her bitkinin kendine has sıcaklık ve nem ihtiyacı vardır. İnsanın ihtiyaç duyduğu her tarım ürünü her yerde yetişmez. Buğday daha çok orta enlemlerde karalann iç kesimlerinde üretilir. Buğdaydan ekmek, pasta, makarna, bulgur gibi yiyecek maddeleri elde edilir. Tüketim alanın geniş olması ve uzun müddet saklanabilmesi buğdayı dünya çapında çok üretilen bir ürün hâline getirmiştir.
+Tüketimi fazla olan bir diğer ürün de kahvedir. Kahveye olan talebin artması onun ana vatanı dışında Yemen,
+Hindistan, Doğu Hint Adalan, Kolombiya, Meksika, Ekvador ve diğer Orta Amerika ülkelerinde yetiştirilmesine neden olmuştur. Bugün en çok kahve üreten ülke Brezilya’dır.
+4.	üretim, Tüketim ve Dağıtımın Yeni Sektörlerin Ortaya Çıkmasına Etkisi
+Asırlardan beri insan, yiyeceklerinin bir bölümünü akarsu, göl ve denizlerden balık tutarak temin etmiştir. Zamanla bu ürünlerin fazlasını pazarlamış ve böylece bir iş kolu ortaya çıkmıştır. Deniz ürünleri çok çabuk bozulduğu için başlangıçta yakın pazarlara ulaştırılmıştır. Teknoloji ile birlikte balık işleme, ambalaj, soğutuculu taşımacılık vb. sanayi kolları da gelişmiştir.
+Buna bağlı olarak üretim, dağıtım ve tüketim sektörleri hem birbirini etkilemekte, hem yeni sektörlerin gelişmesini sağlamaktadır.
+Bugün Danimarka, Norveç, Japonya gibi balıkçılıkta ileri ülkelerin balıkçı gemileri aylarca denizde kalabilecek şekilde donatılmıştır (Fotoğraf 3). Gemilerin tutulan balıkları muhafaza edecek soğutucuları, şoklayıcıları bulunmaktadır. Hatta bazılarında balık hemen işlenmektedir.
+Tüm bu gelişmeler üretimi arttırmıştır. Çünkü elde edilen ürün bozulmadan işlenmekte ve uzak pazarlara kolayca ulaştınlabilmektedir.
+5.	Tükenebilir Enerji Kaynaklarında Üretim, Dağıtım, Tüketim İlişkisi
+Tükenebilir enerji kaynaklarından kömürün üretim ve kullanım alanlarının büyük ölçüde aynı alanda toplandığı görülür. Taş kömürü havzalan, farklı sanayi kollarını da kendine yakın alanlara çekmiştir. Metal sanayinin kömür havzalarının yakınında gelişmesinin nedeni budun Metal sanayinin gelişmesi dağıtım ve ticaret gibi diğer ekonomik faaliyet kollarının da gelişmesine neden olmuştur (Harita 2). Günümüzde gelişen dağıtım ağı ile birlikte metal sanayisinin kömür havzalarının çevresinde toplanma zorunluluğu ortadan kalkmıştır. Limanların çevresinde de metal sanayisinin geliştiğini görürüz.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Protistler  (EBA)</DOCTITLE>
+<TEXT>
+
+Mikroorganizma dünyasında tespit edilen her yeni canlı, bilim dünyasında bu canlıların nasıl sınıflandırılacağı ile ilgili yeni soruları beraberinde getirmiştir. 1860 yılında protistleri ilk gözlemleyen kişi olan John Hogg, bu canlılara Protoctista adını vermiştir. Hogg, bu canlıları ne bitkiler ne de hayvanlar altında gruplayabilmiştir. Protistlerin bazıları bitki özelliklerine sahipken, bazıları hayvanlara benzer özellikler göstermektedir. 19. yüzyılda protistler, bitkiler ve hayvanlar dışında farklı bir âlem olarak sınıflandırılmıştır. 
+Protistler çok farklı özelliklere sahip canlıları içeren oldukça geniş bir âlemdir. Bu gruptaki canlılar bir hücreli, çok hücreli, mikroskobik, makroskobik, ototrof ya da heterotrof olabilir. Kısacası protista âleminin bütün özelliklerini barındıran tipik bir canlı örneği yoktur. Ancak öglena protista âlemine örnek olarak verebileceğimiz canlılardan sadece biridir (Resim 140). 
+Protista grubu üyeleri yaşamsal faaliyetlerinin çoğunu sitoplazmadaki organellerde gerçekleştirir. Ökaryot kavramı, bakterilerden farklı olarak canlının metabolik işlemlerinin zarla çevrili organellerin içinde gerçekleştiğini ifade etmektedir. 
+Fosil kalıntıları protistanın 2 milyar yıldır dünyada olduğunu göstermektedir. 
+Bu tek hücreli mikroskobik canlıların bazıları hayvanları anımsatan özelliklere sahiptir. Amip ve paramesyum (Resim 142) gibi protistalar, bakteriler ve diğer küçük canlıları yiyerek beslenir. Ancak hayvanlardan farklı olarak bunlar bir hücrelidir. Bu grubun bazıları ise bitkiler gibi fotosentez yaparak kendi besinini kendisi üretir. Ancak bitkiler gibi kök, gövde ve yaprakları yoktur. Bilinen en önemli fotosentetik protista, öglenadır. Bazıları ise ölü organizmaları ayrıştırdıklarından mantarlara benzer özellikler gösterir (Resim 141). Ancak mantarlarda görülen hücre duvarındaki kitin maddesi bu canlılarda yoktur ve bu canlılar aktif bir şekilde hareket eder. 
+Peki, bu geniş âlemin üyeleri olan canlılar, insanları ve diğer organizmaların hayatlarını nasıl etkiler? Her yıl dünyada milyonlarca insanın ölümüne yol açan sıtma ve uyku hastalığına protistler neden olmaktadır. Tek hücreli, fotosentez yapabilen algler önemli miktarda oksijen üreterek bu oksijeni atmosfere bırakır. Cıvık mantarlar ise önemli miktarda organik maddeyi ayrıştırarak diğer organizmaların kullanabileceği besinler hâline getirir. 
+Protozoon (Protoszoa-Protozoa), Latincede ilk anlamına gelen “protos” ve hayvan anlamına gelen “zoa” kelimelerinden türetilmiştir. 
+Bazı protistler tüketici olmaları ile hayvanlara benzer özellikler gösterir. Bu protistler protozoon olarak isimlendirilir. Tüm protozoonlar tek hücreli canlı organizmalar ya da ölü organik materyaller ile beslenir (Resim 142). 
+Protozoonların insanlar açısından oldukça tehlikeli olan türleri vardır. Bilinen protozoon hastalıklarının çoğu öldürücü etkiye sahiptir. Afrika uyku hastalığı ve sıtma bunlardan bazılarıdır. Sıtma, hastalık yapıcı protozoonlardan biri olan plazmodyumların (Plasmodium-Plazmodyum), dişi anofel sivrisinekleriyle insanlara bulaşmasıyla yayılan ateşli bir hastalıktır (Resim 143). Sıtma, sivrisineklerle bulaştığı gibi hastalıklı kan nakilleriyle de taşınabilir. 
+Afrika uyku hastalığı olarak bilinen hastalık özellikle Uganda, Tanzanya, Kenya, Etiyopya gibi ülkelerde yaygın olan bir parazit hastalığıdır (Resim 144). Trypanosoma gambiense (Tripanozoma gambiyenze) veya Trypanosoma rhodesiense (Tripanozoma rodeziense) türü parazit insanlara çeçe sinekleri (Glossina palpalis-Glosina palpalis) ile bulaşır. Bu parazit hastalık ilerlediğinde kan yolu ile beyne ulaşır ve bu bölgede iltihaplanmaya yol açar. Bu durumda kişide uykuya eğilim, felç, yürüyememe ve konuşmada bozukluk, bayılma gibi belirtiler görülür. 
+Prtozoonların (Prtoszoa-Protozoa) aksine bazı protistler ise üretici olmaları sebebi ile bitkilere benzer özellikler gösterir. Bu protistler algler olarak isimlendirilir. Algler bir hücreli ya da çok hücreli olabilen fotosentetik protistadır. Algler yeşil dışında içerdikleri diğer renk pigmentleri sayesinde farklı renklerde (mor, kırmızı, kahverengi, sarı) görülebilir, hatta alglerin bu renkleri sınıflandırmalarında da kullanılır. Alglerin büyük bir çoğunluğu suda yaşamakta ve güneş enerjisini kullanarak organik besin üretmektedir. Tek hücreli, suda yaşayan fitoplanktonlar, hem diğer organizmalar için hem de doğal döngü için oldukça önemli canlılardır (Resim 145). Suyun yüzeyinde akıntıya bağlı hareket eden bu canlılar sudaki diğer canlılar için besin sağlarken aynı zamanda dünyadaki oksijenin önemli bir miktarını üretir. 
+Yakamoz, mikroskobik bir deniz canlısının çıkardığı ışık sonucu oluşur (Resim 146). Genelde Ay’ın deniz yüzeyinde yansıması olduğu sanılır. Oysa bu “mehtap”tır. Yakamozu oluşturan bu küçük canlıların sayısı ne kadar fazla olursa yakamoz o kadar fazla görülür. Yakamozun gözlemlenebilmesi için diğer ışık kaynaklarının (güneş, ay ve şehir ışıkları) yakamoz ışıklarını bastırmaması gerekir. 
+Çevremizde algler ve protozoonların dışında organik bileşiklerin ve suyun ayrıştırılmasında görev alan farklı protistler de bulunmaktadır. Organik materyalleri ayrıştıran, tüketici organizmalar olarak tanımlanan mantar benzeri protista genellikle nemli topraklarda, suda ve ağaç diplerinde yaşar. Bazıları ölü organik materyalleri sindirirken, bazıları ise bakteri ve mayalarla beslenir. 
+Günümüzde kirli sular sağlığımızı tehdit etmektedir. Son dönemde kirli suların temizlenmesinde kullanılan bir yöntem de protistadır. Protista suda kirliğe yol açan kimyasal maddeleri parçalayarak ve kirlilik sonucu oluşan bakterileri tüketerek suyun temizlenmesine yardımcı olmaktadır. 
+Plankton; suda bulunan, aktif hareket etme yeteneği olmayan, akıntı yönüne bağımlı olarak hareket edebilen canlılara verilen genel isimdir. Bu canlıları bitki, hayvan ya da bakteriler olarak sınıflandırmamız zordur. Çünkü fotosentez yapan planktonlar fitoplankton; diğer planktonları yiyerek beslenen tüketiciler zooplankton ve ayrıştırıcı olanlar bakteri planktonları olarak isimlendirilir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Reasonable Doubt</DOCTITLE>
+<TEXT>
+
+Reasonable Doubt, ABD'li rapçi Jay-Z'nin ilk stüdyo albümü. 25 Haziran 1996'da Amerika Birleşik Devletleri'nde Roc-A-Fella Records etiketiyle ve Birleşik Krallık'ta Northwestside Records etiketiyle yayımlandı. DJ Premier, Ski, Knobody ve Clark Kent'in yapımcılığını üstlendiği albümde; Memphis Bleek, Sauce Money ve The Notorious B.I.G. konuk vokalist olarak yer aldı. "Billboard" 200 listesinde yirmi üç numaraya ulaşan albüm; 2002 yılında RIAA tarafından platin plak ile ödüllendirildi ve 2006 yılı itibarıyla 1,4 milyon adet kopya sattı. Albümden dört tekli yayımlandı ve "Ain't No Nigga" ile "Can't Knock the Hustle" parçaları büyük popülerlik kazandı. Her ikisi de Birleşik Krallık'ta ilk kırka girmeyi başarırken; "Billboard" Hot 100 listesinde ilki elli ve ikincisi yetmiş üç numaraya ulaştı. 
+"Reasonable Doubt", Jay-Z'nin "parlak başarılarının" habercisi niteliğindeydi ve "tartışmasız bir klasik"ti. "Reasonable Doubt" albümü, "The Source" dergisinden "4 Mic" ve Allmusic'ten beş yıldız aldı. "The Source" dergisi, albümü tüm zamanların en iyi 100 albümü arasında değerlendirdi. Ayrıca, "Blender" dergisi albümü tüm zamanların en iyi 500 albümü arasında değerlendirirken; "Rolling Stone" dergisi, hazırladığı tüm zamanların en büyük 500 albümü listesinde albüme 248. sırada yer verdi. "Reasonable Doubt" ve ondan bir yıl önce yayımlanan Raekwon'un "Only Built 4 Cuban Linx..." albümleri, Mafioso rap'in niteliğini tanımlayan kayıtlar olarak kabul edilmektedir.
+Fikir.
+Genel.
+Shawn Carter, Brooklyn'de Marcy Evleri'nde büyüdü. Shawn'ın babası, Shawn on bir yaşındayken aileyi terk etti ve Shawn, daha sonra rap yazmaya başladı. Çevresinde "Jazzy" olarak bilinen Carter, daha sonra bu adı "Jay-Z" olarak değiştirdi ve onun sahne adı olarak kaldı. Bu lakap, onun müzikal akıl hocası Jaz-O'ya ve Marcy Avenue'ya kadar devam eden J/Z metro hattına hürmetinin ifadesiydi. Jay-Z, 1990 yılında Jaz-O'nun iki parçasında yer aldı. Daha sonra EMI şirketinden ayrılan rapçi, uyuşturucu satıcılığına başladı. Rap kariyerinin peşinden gitmeye devam etti, Original Flavor'ın 1993 çıkışlı "Beyond Flavor" albümündeki iki şarkısında yer aldı. Jay-Z, daha sonra Big Daddy Kane'e ulaştı ve onunla turneye çıktı. Kane'in 1994 çıkışlı "Show & Prove" parçasında Wu-Tang Clan'a bağlı isimlerle iş birliği yaptı. 
+Kane'in onu ortaya çıkarmasına rağmen, Jay-Z'nin hâlâ bir plak şirketiyle anlaşması yoktu. Arkadaşı Damon Dash'in yardımlarıyla arabasında kasetlerini satmaya başladı. Sokak satışlarının başarısı sonunda Payday Records ile anlaşan Jay-Z, B yüzünde "I Can't Get wid Dat" parçasıyla ilk solo teklisi "In My Lifetime"i piyasaya çıkardı. Sıradışı bir hareketle, Jay-Z uzun zamandır aradığı kayıt anlaşmasını yapmayı reddetti ve Damon Dash ve Kareem "Biggs" Burke ile birlikte kendisine ait Roc-A-Fella Records şirketini açtı. Jay-Z daha sonra, kendisine ait şirketle pazarlama yapmanın daha iyi bir iş olduğunu düşündüğünü açıkladı:
+Jay-Z, Roc-A-Fella Records için "dünyanın en meşgul şehrinin en kasvetli kısımlarından biri" olan John Street'te küçük ve ucuz bir büro kiraladı. 1995'te ve 1996 yılı başlarında Big L ve Mic Geronimo'nun kayıtlarında yer aldı. Bu noktada, Jay-Z hâlâ bir yer altı rapçi olarak "new jack" tarzıyla anılıyordu.
+Kayıt dönemi.
+"Reasonable Doubt" albümü Bronx'taki D&D Stüdyoları'nda kaydedildi ve miksajı Platinum Island'da yapıldı. Ancak altyapılar başka yerlerde oluşturuldu. "Can't Knock the Hustle" parçası, 1994'te Knobody yapımcılığında Jay-Z'nin annesinin evinde kaydedildi. "Feelin' It" ve "Politics as Usual" parçaları Ski yapımcılığında hazırlandı. Kayıt dönemi çoğunlukla rekabetlere sahne oldu. Ski ve Clark Kent, "Politics as Usual" parçası için benzer altyapılar hazırlamışlardı, ama Ski kendi hazırladığının albüme konulmasını sağladı. "Brooklyn's Finest", Jay-Z ve The Notorious B.I.G. arasında arkadaşça bir savaş gibiydi. Biggie, Jay-Z'nin rhyme'larını önemsiz bulduğundan onları bertaraf etmeye çalışırken; Jay-Z, Biggie'nin çapında olduğunu kanıtlama çabası içine girdi. "Brooklyn's Finest"ın kayıtları iki ay sürdü ve D&D Stüdyoları'ndan Giant Stüdyoları'na taşındı. Burada kayıtları tamamlandı ve nakaratı Clark Kent seslendirdi. Stüdyo kayıtları Jay-Z'yi zihinsel olarak da etkilemişti. "Rolling Stone" dergisine şunu söylemişti: "Stüdyo benim için bir psikiyatristin kanepesi gibiydi."
+Müzik.
+Sözler ve içerik.
+"Reasonable Doubt", genellikle Jay-Z'nin sözlerinde hâkim olan suç gibi konular nedeniyle Mafioso rap olarak sınıflandırıldı. "Stylus" dergisinden David Drake, sözlerin "cesur bir gerçekçiliği" tanımladığı fikrindeydi. "22 Two's" parçasındaki sözlerin dışında, "Ain't No Nigga"daki işlenen ilişkilerde aldatma konusu ve "Brooklyn's Finest"taki sözler; albümün ana konusunu ve Jay-Z'nin geçmişteki suçlu yaşantısını ortaya koymaktadır. Allmusic'ten Steve Huey, Jay-Z için "bildiği şeyler hakkında rap yapan ve bunu yapmakta çok, çok iyi olan bir sokak dolandırıcısı...sokaklardaki deneyimlerinin detaylarını, kendini sevdiren dürüstlüğüyle ayrıntılı şekilde anlatmakta" dedi. "Can't Knock the Hustle", Jay-Z'nin dolandırıcılık yeteneğinden; "Cashmere Thoughts" ve "Dead Presidents II", onun malî hedeflerinden ve "D'evils" ve "Regrets" gibi parçalar dolandırıcılığın onun zihninde nasıl etkiler bıraktığından bahsetmektedir.
+Yapım.
+"Reasonable Doubt" albümündeki altyapılar; DJ Premier, Clark Kent, Knobody ve Ski gibi Doğu Yakası yapımcıları tarafından oluşturuldu. Yapımda Isaac Hayes, the Ohio Players ve Ahmad Jamal gibi sanatçıların soul, funk ve caz türlerindeki şarkılarından örnekler kullanıldı. Birkaç şarkının nakaratında Nas, Fat Joe ve Snoop Dogg gibi rapçilerin vokalleri kullanıldı.
+"Can't Knock the Hustle", "ipeksi pürüzsüz" atmosferde bir ritm ile sert programlanmış bateri ve ksilofon döngüsü içermektedir. "Politics as Usual", R&B sound'una sahiptir ve The Stylistics'in "Hurry Up This Way Again" parçasından bateri örnekleri bulundurmaktadır. "Brooklyn's Finest", albümün ilk iki parçasından farklı olarak; vurgusuz honky tonk piyano döngüsü ve Ohio Players'ın "Ecstasy" şarkısından alınmış bateriler içermektedir. "Dead Presidents", düşük tempolu üç farklı örnek içerir: A Tribe Called Quest'in "Oh My God (remix)" parçasından bateriler, Lonnie Liston Smith'in "A Garden of Peace" parçasından melodi ve piyano döngüsü ve Nas'ın "The World Is Yours" parçasından vokaller. "D'evils", Allen Toussaint'in "Go Back Home" parçasından piyano döngüsü, LL Cool J'in "I Shot Ya (remix)" ve Snoop Dogg'un "Murder Was the Case" parçalarından vokal örnekleri içermektedir. "22 Two's", yaylı enstürmanlarıyla göze çarpan "kederli caza meyilli bir groove"dur. 
+"Can I Live", Isaac Hayes'ın "The Look of Love" düzenlemesinden örneklendi ve perküsyon, üflemeli ve yaylıların karışımıyla yavaş bir ritm elde edildi. "Ain't No Nigga", The Whole Darn Family'nin "Seven Minutes of Funk" şarkısından melodi ve bateri örnekleri içermektedir ve hızlı bir ritme sahiptir. "Friend or Foe", daha yavaş bir ritme sahiptir ve ağırlıklı olarak üflemeliler ile programlanmış bateri döngüsü içermektedir. "Coming of Age", Eddie Henderson'ın "Inside You" şarkısından melodi ve bateri örnekleri içermektedir. "Cashmere Thoughts", Hamilton Bohannon'un "Save Their Souls" şarkısından gitar döngüsü örnekleri içermektedir. "Bring It On", yaylı enstrümanlar ve programlanmış bateri içeren düşük tempolu bir şarkıdır. "Regrets", Earl Klugh ve Hubert Laws'ın "It's So Easy Loving You" şarkısından caz örneği ve akustik gitar döngüsü içermektedir.
+Tekliler.
+Albümden dört tekli—"Dead Presidents", "Ain't No Nigga", "Can't Knock the Hustle" ve "Feelin' It"—yayımlandı. "Dead Presidents", bir Ski yapımıdır ve yasadışı para kazanma hakkındadır. Nakaratı Nas'ın "The World Is Yours" şarkısından örneklendi. Şarkı sözlerinin tezini tanımlamakta ve Nas ile Jay-Z arasındaki kavgadan bahsetmektedir. "Dead Presidents", albümün listelere giriş yapamayan tek teklisiydi, ancak RIAA tarafından altın plak ile ödüllendirildi. "Dead Presidents II", "Reasonable Doubt" albümüne konulurken; orijinali de tekli olarak yayımlandı ve Abdul Malik Abbott yönetiminde bir video klip çekildi. "Dead Presidents II", orijinaliyle aynı altyapıya ve nakarata sahiptir, ancak sözleri farklıdır. 
+İkinci tekli "Ain't No Nigga", kadın rapçi Foxy Brown ile düetti. Şarkı, Jay-Z ile maddî Foxy Brown arasındaki aşk ilişkisini anlatmaktadır. Nakaratı The Four Tops'ın "Ain't No Woman (Like the One I've Got)" parçasınınkiyle değiştirildi. Big Jaz yapımı olan bu şarkının altyapısı EPMD'nin "It's My Thing" şarkısıyla benzerlik göstermektedir. Bunun nedeni, her iki şarkıda da The Whole Darn Family'nin "Seven Minutes of Funk" şarkısının örneklenmesidir. "Ain't No Nigga", "Billboard" Hot 100 listesinde elli ve Hot Dance Music/Maxi-Singles Sales listesinde bir numara olarak albümün en başarılı teklisi hâline geldi. Şarkının Abdul Malik Abbot yönetmenliğinde çekilmiş bir de video klibi bulunmaktadır. 
+"Can't Knock the Hustle", albümün üçüncü teklisi olarak seçildi ve vokallerde Mary J. Blige da yer aldı. Şarkıda Jay-Z, kendi yaşam biçimiyle övünmektedir. Knobody yapımı olan şarkı, Marcus Miller'ın "Much Too Much" ve Meli'sa Morgan'ın "Fool's Paradise" şarkılarından örneklendi. "Billboard" Hot 100 listesinde yetmiş üç numaraya ulaştı ve albümün en başarılı ikinci teklisi oldu. Ayrıca, İngiltere listesinde otuz numaraya yükseldi ve İngiltere'deki en başarılı teklisi oldu. Şarkı için Hype Williams yönetmenliğinde yüksek bütçeli bir video klip çekildi. 
+Albümün dördüncü ve son teklisi "Feelin' It" idi. Mecca'nın nakaratını seslendirdiği şarkıda Jay-Z, kendi yaşam biçiminden bahsetmektedir. Ski yapımcılığında kaydedilen şarkının piyano odaklı bir altyapısı bulunmaktadır ve caz müzisyeni Ahmad Jamal'ın "Pastures" şarkısından örneklenmiştir. Şarkı, "Billboard" Hot 100 listesinde yetmiş dokuz numaraya yükselebildi. Şarkı için Alan Ferguson yönetmenliğinde düşük bütçeli bir video klip çekildi.
+Yayımlanma ve tepkiler.
+"Reasonable Doubt", 25 Haziran 1996'da Amerika Birleşik Devletleri'nde Roc-A-Fella Records etiketiyle ve Birleşik Krallık'ta Northwestside Records etiketiyle yayımlandı. Albüm, "Billboard" 200, listesinde yirmi üç numaraya ulaştı ve Jay-Z'nin sonraki albümlerinin elde ettiği başarılardan daha düşük bir performans gösterdi. 7 Şubat 2002'de "Reasonable Doubt", RIAA tarafından platin plak ile ödüllendirildi. Albüm, eleştirmenlerden genellikle olumlu eleştiriler aldı. Allmusic albüme beş üzerinden beş yıldız verirken; "Entertainment Weekly" B+ verdi. "The Source" dergisi albüme beş üzerinden dört "mic" verdi. Fakat daha sonra klasik beş "mic" olarak değiştirildi. 1998'de albüm, "The Source" dergisinin hazırladığı "En iyi 100 rap albümü" listesinde yer aldı. "Reasonable Doubt", 2003'te "Rolling Stone" dergisinin hazırladığı tüm zamanların en büyük 500 albümü listesinde yer buldu. Aynı yıl, "Blender" dergisinin "Ölmeden önce sahip olmanız gereken 500 CD" listesinin içindeydi. Ayrıca, 2004 yılında "Vibe" dergisinin "Bir nesli, bir sound'u ve bir akımı temsil eden 51 albüm" listesinde ve 2006 yılında "Hip Hop Connection" dergisinin "En büyük 100 rap albümü 1995-2005" listelerinde de boy gösterdi. 
+Etki.
+Mafioso rap ve hip hop müzik.
+"Reasonable Doubt" albümünün yayımlanmasından iki yıl önce, üç popüler Mafioso rap albümü piyasaya sürüldü: Raekwon'ın "Only Built 4 Cuban Linx...", AZ'nin "Doe or Die" ve Nas'ın "It Was Written". Jay-Z, ilk albümüyle patlama yaptı ve "Cristal" içmesi, Lexus marka otomobil kullanmasıyla popülerleşti. "Stylus" dergisi yazarı Evan McGarvey, The Clipse grubunun 2006 çıkışlı "We Got It for Cheap" şarkısında Jay-Z'nin "Reasonable Doubt" albümünün sound'una benzemeye çalıştığını iddia etti. 
+Jay-Z'nin etkileri hip hop müzikte de görüldü. The Game, 2005 çıkışlı "The Documentary" albümünde, "Reasonable Doubt" albümünden bir klasik olarak bahsetti. Jean Grae, 2004 çıkışlı "Not like Me" şarkısında "Reasonable Doubt" ile Nas'ın "Illmatic" albümlerinden hangisinin daha iyi olduğunu tartıştı. Albümün vokalleri birçok kez farklı şarkılar için kullanıldı. Chubb Rock'ın "Survive", Termanology'nin "Watch How It Go Down", Apathy'nin "9 to 5" ve Mary J. Blige'ın "Round and Round" şarkıları "D'evils" parçasından ve De La Soul'un "Shopping Bags (She Got from You)" şarkısı "Brooklyn's Finest" şarkısından örneklendi. Pitchfork Media'dan Ryan Schreiber'a göre albüm, "hip hop'ta dönüm noktası albümlerden biri olarak" kabul edilmektedir. Albüm, The Notorious B.I.G.'nin "Ready to Die" ve Nas'ın "Illmatic" albümleriyle karşılaştırılmaktadır.
+Jay-Z'nin sonraki çalışmaları.
+Bu albüm, Jay-Z'nin albümleri arasında en düşük başarıyı gösteren olsa da, onun en iyi albümü olarak kabul edilmektedir. Pop-crossover şarkıların ve liste başı olmuş hitlerin eksikliği nedeniyle, Jay-Z'nin diğer albümlerinden farklıdır. Ayrıca sonraki albümlerinde Jay-Z, çoğunlukla The Hitmen, Timbaland ve Swizz Beatz ile çalıştı. MTV'den Shaheem Reid şunları söyledi: ""Reasonable Doubt" albümü radyo hitleri ve kulüp şarkıları içermeyebilir, ancak Jay'e göre onun en lirik—ve kesinlikle en dürüst albümü." Jay-Z, bu albümdeki meselelere sonraki albümlerinde de devam etti. İkinci albümü "In My Lifetime, Vol. 1", "Friend or Foe"nun devamı niteliğinde "Friend or Foe '98" adlı bir şarkı içermektedir. Üçüncü albümü "Vol. 2... Hard Knock Life", "Coming of Age"in devamı niteliğinde "Coming of Age (Da Sequel)" adlı bir şarkı içermektedir. Jay-Z, bu albümü yapmanın çok zor olduğunu belirtti, çünkü o albümü yazdığı zamanlarda tamamen farklı bir yaşam tarzı vardı.
+Onuncu yıldönümü konseri.
+2006'da Jay-Z, Radio City Music Hall'de "Reasonable Doubt" albümünün parçalarını seslendirdiği bir onuncu yıldönümü kutlaması düzenledi. The Roots grubunun bateristi Questlove, the Illadelphonics, elli kişilik The Hustla's Symphony orkestra ve DJ performansıyla Just Blaze de konserde yer aldı. Konserde Mary J. Blige, The Notorious B.I.G. ve Jaz-O'nun da vokallerinin hazır bulunması bekleniyordu. "Can't Knock the Hustle" şarkısı için Mary J. Blige yerine Beyoncé Knowles getirildi, "Brooklyn's Finest"ta B.I.G.'nin verse'ünü Jay-Z seslendirdi ve "Bring It On" parçasından Jaz-O'nun verse'ü çıkarıldı. Bunun nedenleri Mary J. Blige'ın Breakthrough Turnesi'yle ilgilenmesi, The Notorious B.I.G.'nin konserden altı yıl önce ölmesi ve Jaz-O'nun Jay-Z ile kavgalı olmasıydı. Alicia Keys, Young Jeezy, Jadakiss, Chris Tucker, LeBron James ve Carmelo Anthony gibi ünlüler de konsere katıldı. Roc-A-Fella Records'un internet sitesine göre, üç bin bilet satışa sunuldu ve tamamı iki dakika içerisinde tükendi.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yedi kalite aracı</DOCTITLE>
+<TEXT>
+
+Yedi kalite aracı, toplam kalite yönetiminde sorun çözme tekniğine temel oluşturan yedi temel araç. Kalite yönetim araçları kişilere ve gruplara, kalite kontrol süreçlerini uygulamak, uygulanan bu süreçleri görüntülemek ve herhangi bir süreçten kaynaklanan bir problemi çözmek için destek sağlar. Yedi kalite aracı, iş problemleri analizlerine ve çözümlerine yapısal yaklaşım dolayısıyla da analizler ve çözümlerde gelişmeyi sağlar. Bu araçlar imalat süreçlerinde olduğu gibi hizmet odaklı süreçlerde de uygulanabilir. Yedi kalite aracı, takım veya gruplar tarafından uygulandığında en fazla getiri elde edilir. Böylece en kullanışlı, yani yönetim için tasarlanmış bilgiler ortaya çıkar. Bu araçlar, ürün geliştirmeden, pazarlamaya ve müşteri ilişkilerine kadar bütün üretim süreçlerinde süreç geliştirme ve müşteri memnuniyetini artırmak için uygulanabilir. Bir işletmenin ya da bir sürecin performansını geliştirmek amacıyla atılacak adımların, verilecek kararların verilere dayanması gerekir. 'Gerçeklere Dayalı Yönetim' ve 'Sürekli Gelişme' ancak; doğru, anlaşılabilir ve güvenilir veriler ile gerçekleştirilebilir.
+1995 yılında Kolarik tarafından önerildiği üzere geçen 30 yıllık süreçte Japonlar "Toplam Kalite Kontrolü" kavramı üzerinde çalıştılar ve bu kavramı geliştirdiler. Japonların kalite kontrole yaklaşımlarının en önemli özelliklerinden biri fabrika düzeyindeki nicel metotlara odaklanmış olmasıdır. Yedi kalite aracı da bu çalışmaların bir ürünü olarak ortaya çıkmıştır. Japon endüstriyel devriminin gerçekleştirilmesinde karşılaşılan sorunların %95'i yedi temel kalite aracı ile çözülebilmektedir. Kaoru Ishikawa'ya göre bir fabrikadaki kaliteyle ilişkili problemlerin yüzde 95'i yedi kalite aracı ile çözülebilmektedir ve Ishikawa bu kalite araçlarının anlaşılmasını ve kullanımını kolaylaştırmak için bir eğitim rehberi hazırlamıştır. Yedi kalite aracının sistematik bir biçimde uygulanması başarılı bir kalite geliştirme sürecine ön ayak olacaktır.
+Yedi kalite aracı.
+Yedi kalite aracı aşağıdaki gibidir:
+Balık kılçığı diyagramı.
+Balık kılçığı diyagramı, 1943 yılında Dr. Kaoru Ishikawa tarafından Tokyo Üniversitesi'nde geliştirilmiş olan ve şekil itibariyle balık kılçığını andıran neden sonuç diyagramıdır. Balık kılçığı diyagramı aynı zamanda "Ishikawa Diyagramı" olarak da bilinmektedir ve problem çözmede kullanılan temel tekniklerden biridir. Balık kılçığı diyagramına verilen bir başka isim ise Fishikawa'dır. Balık kılçığı diyagramı, bir problemin olası tüm sebeplerini ve aralarındaki ilişkiyi net bir şekilde belirlemek için kullanılır. Problem belirlendikten sonra oluşturulan ve kullanıcıların problem için genel bir bakış açısı geliştirmesini sağlayan bir tekniktir.
+3 temel neden-sonuç diyagramı vardır: 
+Kullanımı.
+Öncelikle geliştirilmek istenen kalite karakteristiği belirlenir. Daha sonra bu kalite özelliği ile ilgili ana sorun veya sonuç belirlenir. Balığın omurgası ok şeklinde çizilerek ucuna kutu çizilir ve kutunun içine ana problem yazılır.
+İkinci işlem olarak bu probleme neden olabilecek ana sebep dallarının ne olabileceği tartışılır ve bulunan dallar diyagrama kategoriler olarak eklenir. Kategoriler omurgaya kılçık şeklinde oklarla bağlanır.
+Son olarak probleme neden olabilecek sebepler tüm ana kategoriler altında ayrıntılandırılır. Ayrıntılandırma yapılırken her kategori için “"bu neden oluştu"” sorusu sorularak hareket edilir. Sonuç olarak farklı seviyelerde nedenler belirlenerek birbirleriyle ilişkilendirilir ve probleme neden olan temel etkenler bulunabilir. Bu temel etkenler genel olarak insan, makine, metot, malzeme ve çevre olarak sınıflandırılabilir.
+İşlevi.
+Balık kılçığı sayesinde iyileştirilecek kalite problemini doğuran faktörler net bir şekilde belirlenebilir ve sorunun kaynağına inilebilir. Bu sayede önemli sebepler üzerinde durulabilir; böylece kalite sorunları ortaya çıkmadan önce engellenebilecektir. Balık kılçığı diyagramının bir başka avantajı, gösteriminin kolay ve anlaşılır olmasıdır. Diyagramı oluşturan takım üyeleri sebepler arasındaki ilişkiyi kolayca görebilir, artan motivasyon sayesinde sorunun nedeni belirlemede fikir oluşturmaya daha açık olabileceklerdir. Ayrıca balık kılçığı diyagramı hazırlama ve yorumlama işlemleri problem ve sebeplerine bir süreç olarak bakmayı sağlayarak süreç inceleme ve geliştirme işlemlerine olanak sağlar. Bu yöntemin en değerli özelliklerinden biri de beyin fırtınası yapmaya olanak sağlaması ve katılımcılara konu üzerine odaklanmalarına ve düşünceleri kullanışlı kategorilere ayırmalarına imkan tanımasıdır.
+Balık kılçığı diyagramı güçlü, çok yönlü ve nitelikli bir araçtır. Balık kılçığı yönteminin 3 temel faydası olduğu söylenebilir:
+Şekilde hatalı ürün oluşumu probleminin olası nedenlerini bulmak için bir balık kılçığı diyagramı oluşturulmuştur. Ana kategoriler, ölçümler, malzeme, çalışanlar, çevre, metot ve makinedir. Ölçümler kategorisinde kalibrasyon, mikroskoplar ve kontrolü yapan kişilerin probleme neden olabileceği düşünülmektedir. Malzeme kategorisinde alaşım, yağlama malzemesi ve tedarikçiler üzerinde durulmuştur. Çalışanlar kategorisinde vardiya, eğitim ve operatörün soruna neden olduğu belirtilmiştir. Çevre kategorisinde nem ve sıcaklık birer etken olarak görülmüştür. Metot kategorisinde açı ve fren sorun olarak ele alınmıştır. Son olarak makine kategorisinde ise hız ve takım aşınmasının hatalı ürünlere sebep olabileceği üzerinde durulmuştur. Bu şekilde probleme neden olabilecek etkenler belirlenmiştir.
+Kontrol çizelgeleri.
+Kontrol çizelgeleri veri toplamayı kolaylaştıran ve verileri saklamada kullanılan kalite araçlarındandır. Kontrol çizelgeleri maddeler şeklinde düzenlenir ve her bir maddenin ne sıklıkta görüldüğü bu çizelgeler üzerine kaydedilir. Bazı kontrol çizelgesi türleri şöyle sıralanabilir:
+Kontrol çizelgeleri hazırlanırken, verilerin toplanmasının amacının karar vermek olduğu unutulmamalıdır. Toplanan veriler işlenmemiş ve koordine edilmemiş unsurlardır, böyle olunca da fazla işe yaramazlar. Bunun yanında bir grup içinde düzenlenmiş veriler karar vermede kullanılabilir,sonuç olarak veriler kullanışlı bilgiler haline dönüştürülebilir. Kontrol Çizelgeleri, verinin kaydedilmesinin kolaylığını sağlarken hem de bir bakışta görülebilecek organize edilmiş bilgilerden oluşmalıdır. 
+Şekildeki kontrol çizelgesinde bir motor montajında oluşan hatalar haftalık olarak belirlenmiştir. Kontrol edilen haftada paslanan parçaların sayısı 20, yanlış bağlantı yapılmış kaynakların sayısı 5, yanlış kesilen parçaların sayısı 3, dökümdeki hataların sayısı 6, yanlış ölçülerin sayısı 2, yetersiz maskeleme sayısı 1 ve sprey hatası sayısı 5'tir. Uygun olmaya kontrollere, parça üzerinde tabakalaşmaya ve yapıştırıcı hatalarına ise rastlanılmamıştır.
+Kullanımı.
+Kontrol çizelgeleri, içine veriler yazılacak kadar büyük bölmeleri olan bir tablo kurulmasıyla oluşturulur. Tablodaki satır ve sütunlar ilgilenilen verileri sınıflandırmak amacıyla doldurulur. Form tasarlanmadan önce incenilen sürece aşağıdaki gibi olay odaklı sorular sorulmalıdır:
+Bu kontrol çizelgesi tasarım aşamaları herhangi bir işe uygulanabilir.
+Kontrol çizelgeleri için veri toplanırken bazı noktalara dikkat edilmelidir. Toplanılan veriler basit ve kolay anlaşılabilir olmalıdır (KISS ilkesi)--> (Keep It Simple Stupid)KISS principle - Wikipedia, the free encyclopedia . Verilerin açıklanmasında sözel ifadeler az kullanılmalı, kullanılan sayısal veri ve yapılan kontroller maksimuma çıkarılmalıdır. Veriler minimum açıklamaya sahip olmalıdır ve veri toplama işlemi tamamen profosyonel bir biçimde yapılmalıdır.
+İşlevi.
+Kontrol çizelgelerinde veriler gruplanarak dağınık verilerin organize edilir ve bir düzene koyulur. Böylece verilerin anlaşılır bilgiler haline gelmesi sağlanır. Kontrol çizelgelerinin basit ve kolay anlaşılması sayesinde elde edilen bilgilerle daha çabuk karar verilir.
+Kontrol diyagramları.
+Kontrol diyagramı bir süreçteki değişimi inceleyerek normal olmayan değişiklikleri belirlemeye ve önlemeye yarayan, ilk defa 1924 yılında Walter A. Shewhart tarafından geliştirilen grafik araçlardır.
+İncelenecek kalite karakteristiği için alınan örnek sayısal olarak ifade edilebiliyorsa kullanılabilecek kontrol diyagramı çeşitleri x ̅ , R ve s grafikleridir. Eğer veriler ölçülemiyor ancak hissedilebiliyorsa p, np, c ve u çizelgeleri kullanılır.
+Şekildeki kontrol diyagramında ölçülen kalite karakteristiğinin farklı örnek hacimlerindeki değişimi görülmektedir. Alt sınır 9,256 üst sınır 10,860 ve orta değer 10,058'dir. Ölçülen kalite karakteristiği değerleri bu alt ve üst limit arasında değişmektedir.
+Kullanımı.
+Kontrol diyagramı oluşturmak için öncelikle iyileştirilecek kalite karakteristiği hakkında verilere sahip olunması gerekir. Bu veriler tekrar eden işlemlerin sürekli olarak ölçülmesiyle olacaktır. Alınan verilerin standart sapmasının ve aritmetik ortalamasının bulunması ikinci adımdır. Bundan sonraki işlem standart sapma ve ortalama kullanılarak üst ve alt kontrol limitlerinin bulunmasıdır. Üst ve alt kontrol limitleri ortalama ± 3 σ formülünden bulunur. Sıradaki işlem bulunan değerlerin grafiğe aktarılmasıdır. Grafikte 3 çizgi vardır. Orta çizgi kalite karakteristiğin hedeflenen değeri ile ilgili olup ortalamanın yazıldığı çizgidir. Üst ve alt kontrol limitleri ise grafikte orta çizgiden 3σ uzaklıkta olan çizgilerde gösterilir. Grafik çizildikten sonra sıradaki adım grafiğin yorumlanması olacaktır. Aşağıdaki durumlarda özel bir nedenin varlığı söz konusudur ve derhal düzeltilmesi gerekir.
+İşlevi.
+Kontrol diyagramları incelenen sürecin ne derece kontrol edilebilir olduğunu göstermek için ve sapmalardaki genel sebepleri özel sebeplerden ayırmak için kullanılır. Çünkü kontrol diyagramları ile belirlenen üst ve alt kontrol limitleri arasındaki alan, alınan örnekteki değişkenliğin genel bir sebepten olduğunu gösterir. Genel sebepler kontrol altında tutulmasına olanak olmayan ve sürecin kendiliğinden kaynaklanan nedenler olup sürece olan etkisi büyük değildir. Özel sebepler ise düzeltilmesiyle değişkenliğin azalacağı ve sürecin kontrol altında tutulabileceği sebeplerdir. Ayrıca kontrol diyagramları sayesinde üst ve alt kontrol limitleri dışında kalan noktaların özel nedenlerden kaynaklandığı bilinir ve bu özel nedenler için gerekli önlemler zamanında alınarak çıkacak kalite problemleri önlenmiş olur. Bunun dışında, kontrol diyagramları ile noktaların limitler arasında kalması sağlandığından kontrol edilecek parça sayısı dolayısıyla kalite maliyeti azalır.<refname="ertiryaki/"> Kontrol diyagramları ile müşteri istekleri karşılaştırılabilir ve süreç müşteriye göre iyileştirilebilir.
+Histogramlar.
+Histogram'ın kelime olarak kökeninin nereden geldiği tam olarak bilinememektedir. Ancak Yunanca "Histos" deyimi "Yukarı doğru kurulmuş şey" (gemi direği, kale bayrağı ve histogram çubukları vs.)ile "Gramma" "çizme, kaydetme, yazma" deyimlerinden oluştuğu iddia edilmektedir. Ayrıca bu tanımı ilk kullanan Karl Pearson tarafından "Historical Diagram(Tarihi Diagram)" kavramından türetildiği söylenmektedir.
+Pratik anlamında ise histogram, veri değerlerinin dağılımlarını göstererek dağılımın daha iyi anlaşılması ve tanınmasına yardımcı olan araçtır. Bir sistemin istatistiki olarak takip edilmesi sonucu elde edilmiş veri yığınlarını anlamlı bir şekilde gruplandırarak gösterir, böylelikle bu verilerle yürütülecek çalışmalar için sistem, sayı grupları ile daha düzenli bir şekilde gösterilmiş olur. Resimdeki örnekte ağaçların boylarına ilişkin ölçümler yapılmış, veri seti oluşturulmuş ve histogram sayesinde bu veriler anlamlı bir şekilde gösterilmiştir.
+Kullanımı.
+Öncelikle problemle ilgili ölçüm yapılır ve sayısal veriler toplanır. Veri sayısı belirlenir, bu verilerin en büyük ve en küçüğü arasındaki fark bulunarak dağılım genişliği hesaplanır. Sonraki adımda sınıf sayısı ve genişliği hesaplanmalıdır. Sınıf sayısı için "En iyi" denilebilecek bir değer bulunmamaktadır. Bazı teoristler optimal sınıf sayısı belirleyebilmek için çabalamışlardır fakat geliştirdikleri metotlar dağılım hakkında yanlış önermelere yol açmıştır. Mevcut veri dağılımı ve analizin amacına bağlı olarak farklı sınıf sayısı ve genişlikleri geçerli olabilir. Buna bağlı olarak farklı sınıf sayısı formülleri bulunmaktadır.
+Sturges formülü :
+En sık kullanılan formül ise Karekök formülüdür;
+Buradaki "n" değeri toplam veri sayısını belirtmektedir. Formüller ile bulunan sonuç alt veya üst tam sayı değerine yuvarlanarak sınıf sayısı bulunur.
+formülü ile her bir sınıfın genişliğinin ne olacağı belirlenir. max x-min x değeri veri setindeki en büyük ve en küçük sayıların farkını, yani dağılım genişliğini belirtir. h ise sınıf genişliğidir.
+Sınıf genişliği bulunduktan sonra sınıfların hangi aralıktaki değerleri kapsayacağı belirlenir ve veriler ilgili sınıflarda toplanır. Oluşan sınıflar x ekseninde veri değerleri, y ekseninde sınıftaki veri sayısını gösteren sınıf frekansları olmak üzere grafik üzerine aktarılır. Böylelikle histogram oluşturulmuş olur
+Pareto diyagramı.
+Pareto diyagramı [http://en.wikipedia.org/wiki/Pareto_chart] ilk kez 19. Yy da İtalyan ekonomist Vilfredo Pareto tarafından tanımlanmıştır. Pareto, yaşadığı dönemde yaptığı bir çalışmada ekonomik refahın nüfus içindeki dağılımına ilişkin olarak, nüfustaki azınlığın ekonomik refahın büyük bir bölümüne sahip oldukları neticesine varmıştır.
+Daha sonra toplam kalite anlayışınında öncülerinden olan Joseph Juran 1940-1950 yıllarında Pareto'nun bu çalışmasının birçok alanda kullanılabileceğini gözlemlemiştir. Juran tarafından ilk kez pareto prensipleri tanımlanmıştır.
+Pareto diyagramı özel bir çubuk grafiği olarak da belirtilebilir. Çubukların yükseklikleri frekans veya maliyet(para veya zaman) belirtir ve solda en uzun çubuk olacak şekilde sıralanırlar. Bundan dolayı, görsel olarak problem veya durumların göreceli önemlerini sıralar denilebilir. Sınırlı sayıdaki görevin yerine getirilmesi ile genel sistem performansında en büyük etkinin sağlanabileceğini gösteren istatistiksel bir tekniktir.
+Pareto etkisi aynı zamanda kalite geliştirme sınırları dahilinde de etkinlik gösterir. Pareto etkisinin belirttiği "sistemdeki problemlerin %80'sebeplerin %20'si tarafından oluşmaktadır" ilkesi kalite geliştirme işlemleri dahilinde de geçerlidir.
+Kullanımı.
+Pareto diyagramı oluşturmak için aşağıdaki adımlar geçerlidir:
+İşlevi.
+Belli bir problemin çözümü için ilk kullanılacak yöntem sorunların kaynağını bulmaktır. Sorunların nedenleri bulunduğu zaman, gerekli kaynaklar kullanılarak sorunun sebepleri ortadan kaldırılmaya çalışılır. Bu yüzden nedenlerin ağırlıklı olarak soruna sebep olanlarını saptamak ve kaynakları bunları ortadan kaldırmak için kullanmak sorunun çözümü için en ekonomik ve verimli yöntem olacaktır. Toplam Kalite Maliyetleri'ni oluşturan unsurların önem sıralarının belirlenmesi, bu maliyetleri kontrol etmede son derece önemlidir. Ayrıca, "Beyin Fırtınası Yöntemi'nde" ortaya atılan fikirlerin önem sırası da bu yöntemle oluşturulur.
+Yani pareto analizinin temel prensibi Juran'ın bahsettiği “%20 oranında hayati azınlık” ve “%80 önemsiz çoğunluk” verilerinin belirlenmesidir. Günümüzde '80/20' kuralı olarak anılır.
+Pareto diyagramı da bu noktada devreye girmektedir. Kalite kontrol ve 6 sigma uygulamalarında kullanılan kilit araçlardan birisi de pareto diyagramıdır. Sorunlar saptandıktan sonra bunlardan hangilerinin öncelikli oldukları üzerinde fikir birliğine varmak kolay olmayacaktır. Pareto diyagramı sayesinde kritik faktörlerin öne çıkarılması ve üzerlerine yoğunlaşılması sağlanır. Karar verme aşamasında çok çeşitli kullanımları görülür; 
+Şekildeki Pareto diyagramında işe geç kalma nedenlerinin meydana gelme sayısı ve bunların yüzdeleri verilmiştir. Trafik, çocuk bakımı, toplu taşıma araçlarının kullanımı, hava, uyuyakalma ve acil durumlardan kaynaklanan geç işe geç kalmaların oranları ve meydana gelme sayıları gösterilmiştir. Kümülatif bir artış söz konusudur.
+Serpilme diyagramı.
+Serpilme diyagramı, iki veri arasındaki ilişkinin görülmesini sağlayan diyagramlardır. Diyagramın oluşturulmasından önce sorulan genel soru “Ne, neyi, nasıl etkiler?” sorusudur.
+Kullanımı.
+Serpilme diyagramı, birbiri ile ilişkisi olduğu düşünülen iki değişken için hazırlanır. Değişkenlerden biir yatay eksende diğeri dikey eksende yer alır. Diyagram şu adımlar takip edilerek hazırlanır:
+İşaretlenmiş tüm noktalar bir doğru üzerinde gözüküyorsa, incelenen veriler arasında tam bir ilişki var denebilir. Fakat, ölçüm ve deneylerden alınan verilerde hata olma olasılığı nedeniyle bahsedilen tam ilişkiye rastlanması nadiren görülmektedir. Şekildeki örnek serpilme diyagramında kalite karakteristiğinin proses girdileri sayısı ile nasıl değiştiği gösterilmektedir.
+İşlevi.
+Kalite analizlerinde ve kalite geliştirme süreçlerinde birbiri ile ilişkisi olduğu düşünülen süreçler, iş elemanları v.b. kavramlar arasındaki ilişkiyi analiz etmek ve neden-sonuç ilişkilerini kurmak önemli bir aşamadır. Çünkü birbiri ile ilişkisi olan işlerden bir tanesinin iç veya dış faktörlerden olumlu ya da olumsuz olarak etkilenmesi, ilişkisi olan diğer işe de aralarındaki ilişki türüne göre olumlu ya da olumsuz olarak yansımaktadır. Dolayısıyla, kalite çalışmalarında, üzerinde çalışılan faktörler arasındaki ilişkinin nasıl olduğunun bilinmesi çalışmanın daha sağlıklı bir sonuç vermesini sağlayacaktır.
+Serpilme diyagramının kullanılması aşağıdakileri sağlamaktadır:
+Akış diyagramı.
+"Akış diyagramı" ya da "iş akış şeması" (İngilizce:"flow diagram") "bir süreçteki adımları grafik sembollerle gösteren büyük bir süreçte çeşitli basamakların tanımlandığı ve işin anlaşılmasına yönelik olarak hazırlanan şemalardır”.
+Kullanımı.
+Akış diyagramlarının, akışı çıkartılacak işi yapan kişiler tarafından hazırlanması en doğru sonuca ulaşılmasında olumlu etkiye sahiptir. Öncelikle akışı oluşturacak grup tarafından süreci oluşturan işler belirlenir. Daha sonra bu işler yapılış sırasına göre sıralanır ve çeşitli semboller kullanılarak akış diyagramı haline getirilir. Sayfa sonuna gelindiğinde akışı diğer sayfaya bağlamak için ilk sayfanın sonuna bir bağlama sembolü eklenir. İkinci sayfaya da bu sembol ile başlanır. Böylece önceki sayfadaki akışın devamı olduğu belirtilmiş olur. Akış diyagramlarının çiziminde kullanılan sembollerin her biri kendine özel bir süreci ifade eder. Kullanılan sembollerin bazıları ve açıklamaları şu şekildedir:
+İşlevi.
+Akış diyagramlarının oluşturulması kalite çalışmalarında ve kalite geliştirme süreçlerinde önemli bir etkiye sahiptir. İncelenen sürecin üzerinde çalışmayı ve analiz yapmayı kolaylaştıran bu diyagramlar sayesinde, daha kısa sürede doğru ve etkili sonuçlara ulaşılabilmektedir. Akış diyagramlarının çizilmesinin sağladığı yararlar aşağıdaki gibidir:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

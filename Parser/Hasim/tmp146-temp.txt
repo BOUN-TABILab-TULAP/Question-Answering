@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+En en+Adverb en+Noun+A3sg+Pnon+Nom
+fazla faz+Noun+A3sg+Pnon+Ins fazla+Adverb fazla+Adj fazla+Postp+PCAbl
+hasara hasar+Noun+A3sg+Pnon+Dat
+neden ne+Pron+Ques+A3sg+Pnon+Abl neden+Adverb neden+Noun+A3sg+Pnon+Nom
+olan ol+Verb+Pos^DB+Adj+PresPart
+dalgalar dalga+Noun+A3pl+Pnon+Nom dalga+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+hangileridir hangi+Pron+Ques+A3pl+P3pl+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

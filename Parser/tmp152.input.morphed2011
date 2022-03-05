@@ -1,0 +1,42 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Mezralar	mezra	+Noun+A3pl+Pnon+Nom
+Mezralar	mezra	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+daha	daha	+Adverb
+daha	daha	+Noun+A3sg+Pnon+Nom
+
+çok	çok+Adverb
+çok	çok+Det
+çok	çok+Adj
+çok	çok+Postp+PCAbl
+
+hangi	hangi	+Adj
+
+bölgemizde	bölge+Noun+A3sg+P1pl+Loc
+
+görülür	gör+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+görülür	gör+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

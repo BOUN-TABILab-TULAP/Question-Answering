@@ -1,0 +1,116 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Ekonomik, sosyal, doğal ya da siyasi nedenlerle birey veya toplulukların yer değiştirmesine ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(6470, {label: "Gölgelendirme",nodeclass: "type-TK"});
+ g.addNode(6471, {label: "yöntemi",nodeclass: "type-TK"});
+ g.addNode(6472, {label: "ile",nodeclass: "type-TK"});
+ g.addNode(6473, {label: "çizim",nodeclass: "type-TK"});
+ g.addNode(6474, {label: "yap",nodeclass: "type-TK"});
+ g.addNode(6475, {label: "_",nodeclass: "type-TK"});
+ g.addNode(6476, {label: "yapılırken",nodeclass: "type-TK"});
+ g.addNode(6477, {label: "haritanın",nodeclass: "type-TK"});
+ g.addNode(6478, {label: "sağ",nodeclass: "type-TK"});
+ g.addNode(6479, {label: "üst",nodeclass: "type-TK"});
+ g.addNode(6480, {label: "köşesinden",nodeclass: "type-TK"});
+ g.addNode(6481, {label: "kaç",nodeclass: "type-TK"});
+ g.addNode(6482, {label: "derece",nodeclass: "type-TK"});
+ g.addNode(6483, {label: "derecelik",nodeclass: "type-TK"});
+ g.addNode(6484, {label: "bir",nodeclass: "type-TK"});
+ g.addNode(6485, {label: "açıyla",nodeclass: "type-TK"});
+ g.addNode(6486, {label: "ışık",nodeclass: "type-TK"});
+ g.addNode(6487, {label: "gel",nodeclass: "type-TK"});
+ g.addNode(6488, {label: "geldiği",nodeclass: "type-TK"});
+ g.addNode(6489, {label: "varsay",nodeclass: "type-TK"});
+ g.addNode(6490, {label: "varsayılır",nodeclass: "type-TK"});
+ g.addNode(6491, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,6470,6471,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,6471,6472,{label: "NESNE"});
+ g.addEdge(null,6472,6475,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6473,6475,{label: "ÖZNE"});
+ g.addEdge(null,6474,6475,{label: "TÜREME"});
+ g.addEdge(null,6475,6476,{label: "TÜREME"});
+ g.addEdge(null,6476,6490,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6477,6480,{label: "B.Lİ İSİM TAM."});
+ g.addEdge(null,6478,6479,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6479,6480,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,6480,6490,{label: "DEN HALİ"});
+ g.addEdge(null,6481,6482,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6482,6483,{label: "TÜREME"});
+ g.addEdge(null,6483,6485,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6484,6485,{label: "BELİRTEÇ"});
+ g.addEdge(null,6485,6488,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,6486,6488,{label: "NESNE"});
+ g.addEdge(null,6487,6488,{label: "TÜREME"});
+ g.addEdge(null,6488,6490,{label: "ÖZNE"});
+ g.addEdge(null,6489,6490,{label: "TÜREME"});
+ g.addEdge(null,6490,6491,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

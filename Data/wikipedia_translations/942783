@@ -1,0 +1,81 @@
+Tz veritabanı
+tz veritabanı olarak da adlandırılan tzdata, zoneinfo veritabanı veya IANA Saat Dilimi Veritabanı, öncelikle bilgisayar programları ve işletim sistemleri ile kullanılmak üzere tasarlanmıştır dünyanın zaman dilimleri, hakkında bilgi işbirlikçi derlenmiştir. Bazen kurucu katkıda Arthur David Olson atıfta bulunarak, Olson veritabanı olarak adlandırılır. Paul Eggert onun editörü ve sürdürme olduğunu.
+Onun en tanınabilir bir özellik gibi zaman dilimleri, Paul Eggert tarafından tasarlanan üniforma adlandırma kuralı, ve (tz veritabanı saat dilimleri listesine bakınız). Veritabanı 1970, Unix zaman çağında beri tarihsel zaman dilimleri ve tüm sivil değişiklikleri kaydetmek için çalışır. Aynı zamanda bu tür gün ışığından yararlanma saati olarak geçişler içerir ve hatta kayıtlar saniye sıçrama.
+Tarihi.
+Projenin kökeni 1986 veya daha önceki gidin. veritabanı yanı sıra bazı referans kaynak kodu, kamu malıdır. Veritabanı ve kod Yeni sürümleri değişiklikler emri, yılda genellikle birkaç kez olarak yayınlanmaktadır.
+2011 dava.
+30 Eylül 2011 tarihinde, bir dava, "Astrolabe, Inc. v. Olson ve ark.", Veritabanındaki ilgili telif hakkı açılmıştı.
+Sonuç olarak, 6 Ekim 2011 tarihinde, veritabanının bakım (posta listesi) ve yayma (FTP site) operasyon kapatıldı.
+dava Thomas G. Shanks ve Rique Pottenger tarafından Thomas G. Shanks tarafından "Amerikan Atlası", ve "Uluslararası Atlası", veritabanı Bakımcılarının kullanımına etrafında dönüyordu. Özellikle dilimi posta listesi arşivinde ve veritabanı muhafaza ile bazı yardımcı bağlantı koleksiyonlarında atlas verilerin yetkisiz üreme şikayet, ama aslında veritabanının kendisi de işaret vermedi. şikayet sadece tarihsel dilimi verileri derleme ile ilgili ve güncel tzdata Dünya dilimi tabloları kapağı yoktu.
+tz veritabanı açıkça verilerin kullanımı yaygınlığı değerlendirilecek izin yorumlarda atlas, dahil olmak üzere kaynaklar, başvuruyor.
+Bu dava 22 Şubat 2012 tarihinde çözüldü, Astrolabe gönüllü hiç sahip Electronic Frontier Foundation katılımı sonrasında, sanıkların görev ve gelecekte de dava değil, bir antlaşmanın kabul etmeden dava görevden taşındı.
+ICANN taşıyın.
+ICANN 14 Ekim 2011 tarihinde veritabanı bakım sorumluluğunu aldı.
+Tam veritabanı ve bakım için mevcut ve gelecekteki planları bir açıklama IANA'da çevrimiçi olarak mevcuttur.
+Veri yapısı.
+Dosya formatları.
+tz veritabanı okunabilir formatta kuralları ve bölge geçişleri listesi metin dosyaları bir dizi olarak yayınlandı. Kullanım için, bu metin dosyaları zaman dilimi başına platform bağımsız ikili dosyaları bir arada bir dizi içine derlenmektedir. Referans kaynak kodu bu dosyaları okumak ve böyle codice_1 ve codice_2 gibi standart API'leri bunları kullanmak için böyle bir zic (bölge bilgileri derleyici) olarak adlandırılan derleyici yanı sıra kod içerir.
+Bir saat dilimi tanımı.
+Tz veritabanı içinde bir "zaman dilimi" Yerel saatler, tüm tutarlı yerel saatler vardı coğrafi bölgelerde ilk 1970 yılından beri bu tanım endişeleri kendisini kabul etmiş herhangi bir ulusal bölgedir. Bu meridyen tutarlı uzaklıklar kendilerini ilgilendiren diğer tanımları farklıdır. Bu nedenle, tz veritabanı tarafından belirlenen zaman dilimleri her tipik standart saat ve gün ışığından yararlanma saati de dahil olmak UTC birden fazla uzaklıklar belgelemek olabilir.
+Zaman dilimi metin dosyaları, her zaman dilimi zaman dilimi metin dosyalarının birinde bir veya daha fazla "bölge hatları" vardır. Bir saat dilimi için ilk bölge çizgisi saat dilimi adını verir; o zaman dilimi için herhangi bir sonraki bölge hatları önceki çizgisiyle aynı bölgeye uygulanır belirten boş adını bırakın. Bir bölge için her bölge hattı tarih ve zaman aralığında belirtir, standart süre UTC offset, gün ışığından yararlanma saati yöneten kurallar kümesi adını (veya standart zaman her zaman geçerli olmadığını tire), biçim için Zaman dilimi kısaltmalar ve herkes için ama geçen bölge hattı, tarih ve bu çizginin tarafından yönetilir tarih ve saat aralığı sona erdiği zaman.
+Yaz saati (DST) kurallarını tasarruf.
+gün ışığından yararlanma saati için kurallar adlandırılmış kural kümeleri belirtilir. Her kural seti saat dilimi metin dosyaları bir veya daha fazla kural hatları vardır. Bir kural hattı set kuralın adını içerir ait olduğu, kuralın uygulandığı ilk yıl, kuralın (uygulandığı geçen yıl ya da "sadece" o sadece bir yıl ya da "max" geçerlidir eğer o ise Şu anda yürürlükte olan kural), kuralın (uygulandığı yılın türüdür "-" hemen hemen her zaman olduğu belirtilen aralıkta, tüm yıl için geçerli olmadığını, bir komut dosyası için bir argüman olarak kullanılan aksi bir isim olduğunu yıl) belirtilen türde kural yürürlüğe girdiği ayı olup olmadığını gösterir, gün hangi kuralın belirli bir gün ya da "ayın son Pazar") gibi bir belirtim olabilir ya etkisi (alır kural zamanı, miktarı yürürlüğe girdiği günün saati kuralı etkin olduğunda UTC offset eklemek ve harf veya harfler (saat dilimi kısaltma kullanmak örneğin, "S", eğer kural, standart zaman ve gün ışığından zamanı yönetir eğer "D") yönetir.
+Zaman dilimleri isimleri.
+zaman dilimleri "Alan" / "Location" "örneğin" şeklinde benzersiz adlara sahip Bir girişim "America / New_York", onları daha kolay layperson tarafından anlaşılması yapmak. Bir seçim de İngilizce adları veya eşdeğerleri kullanmak ve noktalama ve ortak ekleri atlamak için yapıldı. çizgi karakteri boşluk yerine kullanılır. Onlar bir yerde adına görünen yerlerde tire kullanılır.
+Alan.
+"Alan" bir kıta, bir okyanus ya da "vb" nin adıdır. Kıtalar ve okyanuslar şunlardır: Afrika, Amerika, Antarktika, Arctic, Asya, Atlantik, Avustralya, Avrupa, Indian ve Pasifik.
+Bazı adalar belli bir kıtaya bağlamak zor çünkü okyanuslar dahil edilmiştir. Bazıları coğrafi başka bir kıtaya ve siyasi bağlanır. Ayrıca iki kıta arasında Sınırları bakın.
+"vb" özel alan özellikle Eşgüdümlü Evrensel Zaman temsil eden "Etc / UTC" için, bazı idari bölgeler için kullanılır. POSIX tarzı ile uygunluk sağlanması amacıyla, "Etc / GMT" ile başlayan bu bölge adları işareti çoğu insan beklediğinizden tersine var. Bu tarzda, batı GMT bölgeleri olumlu bir işaret var ve bu doğu kendi adlarına bir eksi işareti var (örneğin "Etc / GMT-14" Önümüzdeki / doğusunda GMT 14 saattir.)
+Konum.
+Genellikle şehir ya da küçük ada - "Konum" alanı içinde belirli bir konuma adıdır.
+Ülke isimleri yüzünden sık sık siyasi ve sınır değişiklikleri sağlam olmaz çünkü öncelikle, bu şemada kullanılmaz. Büyük kentlerin isimleri daha kalıcı olma eğilimindedir. Ancak, veritabanı tutucular bu yararlanmak en az biri her ISO 3166-1 alpha-2 ülke kodu için dilimini ve veritabanı kullanıcı arabirimleri numaranızı eklemeyi deneyin. Ayrıca herhangi bir gelecek zaman dilimi değişiklikleri farklı zaman dilimleri halinde yerleri bölmek yok ki coğrafi konumları kompakt tutmak için bir arzusu var.
+Onlar daha geniş bir az belirsiz isim neden bilinen veya eğer diğer şehirler seçilebilir, ancak genellikle bölgenin en kalabalık şehri, tüm zaman dilimini temsil etmek için seçilir. Durumunda bir şehir değişiklikleri adı, kongre, eski ve yeni isimleri aynı veritabanı girişine bakın, böylece gelecekteki sürümlerinde bir diğer ad oluşturmak olduğunu.
+Bazı durumlarda "Location" kendisi, örneğin zaman dilimi "Amerika / Indiana / Indianapolis", bir bileşik isim olarak temsil edilir. Sadece üç seviyeli isimleri "Amerika / Arjantin / ...", "Amerika / Kentucky / ...", "Amerika / Indiana / ...", ve "Amerika / North_Dakota / ..." başlığı altında olanlar yer alır.
+Seçilen yeri tüm alanı için temsilcisidir.
+2010/05/01 Arthur David Olson Bahia de Banderas adına olduğu gibi "de" bırakarak ve tanımlayıcı Amerika / Bahia_Banderas için sadece "Bahia_Banderas" seçeneğini kullanarak haklı, 14 karakter sınırı bahseder.
+Örnek zon ve kural hatları.
+Bunlar, bazı yıllarda (o bölgeyi temsil eden şehir New York City gibi "NYC" denir) ABD Doğu Saati Bölgesinde yürürlükte zaman kuralları ışığından yararlanma kural hatları standart Amerika Birleşik Devletleri gün ışığından yararlanma saati kuralları için kural hatları ve zaman dilimi veritabanının yayın sürümü "tzdata2011n" olarak America / New_York saat dilimi için bölge hatları. Bölge ve kural hatları ABD'de DST tarihini yansıtır.
+<Syntaxhighlight lang = "text">
+Mar lastSun 02:00 01:00 D - ABD 1918 1919 Kural
+Ekim lastSun 02:00 0 S - ABD 1918 1919 Kural
+9 Şubat 02:00 01:00 W # Savaşı - sadece 1942 ABD Kural
+01:00 P # Barış 00u: 14 Ağustos 23 - sadece 1945 ABD Kural
+30 Eylül 02:00 0 S - sadece 1945 ABD Kural
+Ekim lastSun 02:00 0 S - ABD 1967 2006 Kural
+Nisan lastSun 02:00 01:00 D - ABD 1967 1973 Kural
+6 Ocak 02:00 01:00 D - Sadece ABD 1974 Kural
+02:00 01:00 D 23 Şubat - sadece 1975 ABD Kural
+Nisan lastSun 02:00 01:00 D - ABD 1976 1986 Kural
+Nisan Pazar> = 1 02:00 01:00 D - ABD 1987 2006 Kural
+ABD 2007 max Kural - Mar Sun> = 8 02:00 01:00 D
+ABD 2007 max Kural - Kasım Pazar> = 1 02:00 0 S
+Mar lastSun 02:00 01:00 D - 1920 sadece NYC Kural
+Ekim lastSun 02:00 0 S - NYC 1920 sadece Kural
+Nisan lastSun 02:00 01:00 D - 1921 1966 NYC Kural
+Eylül lastSun 02:00 0 S - 1954 NYC 1921 Kural
+Ekim lastSun 02:00 0 S - NYC 1955 1966 Kural
+Bölge America / New_York -4: 56: 02 - LMT 1883 18 Kasım 00:03:58
+</ Syntaxhighlight>
+Her bölge için saklanan veriler.
+(Genellikle nedeniyle gün ışığından süresi) Birden fazla uzaklıklar olan her zaman dilimi için, tz veritabanı geçiş anı kaydeder. biçimi de geçişler tarihleri ​​değişiklikleri ve saatleri ağırlayacak. Bölgeleri (yukarıdaki örnekte gösterildiği gibi) onlarca yıl geriye gidiyor tarihsel kural değişiklikleri olabilir.
+Zone.tab.
+Dosya zone.tab kamu malı ve bölgeleri listeler. Aşağıdaki gibi Sütunlar ve satır sıralama, dosyanın yorumlarına açıklanmıştır:
+1970 öncesinde veriler.
+1970 öncesinde Veri bölgesini tanımlayan şehir için doğru olmayı hedeflemektedir, ama ille de tüm bölge için doğru değildir. 1970 yılından bu yana saatler ayırmak için gerekli olan yeni bölgeler sadece oluşturulan olmasıdır.
+Örneğin, Brezilya'da 1963/10/23 ila 1963/12/09 Minas Gerais, Espirito Santo, Rio de Janeiro ve São Paulo, sadece devletlerin yaz saati vardı. Ancak, Amerika / Sao_Paulo bir talep bölünmüş 1970 yılından beri, saatler, tüm bölgede aynı idi, akıl ile 2010 yılında reddedildi.
+Europe / Berlin tarafından temsil edilmektedir Almanya'da Zaman Trizone Berlin daha zaman tasarrufu kuralları farklı gün ışığından kullanıldığında yılı 1945 için doğru değil.
+Kapsama.
+Birden sonrası 1970 ülkeyi kapsayan Bölgeleri.
+Veritabanı olan selefi ISO 3166-1, ISO 3166 uyarınca ülkelerin tanımları aşağıda 1970 sonrasında iki ülke tarafından kaplıydı bir alanı kapsayacak iki bölge vardır, ilk kez 1974 yılında yayımlandı.
+Bakım.
+tz referans kodu ve veritabanı bir grup gönüllü tarafından yapılmaktadır. Arthur David Olson veritabanına kod değişiklikleri çoğu ve Paul Eggert yapar. Önerilen değişiklikler comp.time.tz Usenet haber grubuna ağ geçidinden bir tz posta listesine, gönderilir. Kaynak dosyalar IANA FTP sunucusu aracılığıyla dağıtılmaktadır. Genelde, bu dosyalar Debian gibi bir yazılım dağıtıcısı tarafından alınır, derlenmiş ve daha sonra kaynak ve ikili o dağıtımının bir parçası olarak paketlenir. Son kullanıcılar, bazı gecikme gerektirebilir ki, kendi yazılım dağıtımın güncelleme işlemleri güveniyor, ya da doğrudan kaynak elde etmek ve ikili dosyaları kendilerini inşa ya. Benzer ilkelere dayanan bir gelecek bakım planı IETF ile hazırlanmıştır.
+Unix benzeri sistemler.
+Zaman dilimi veritabanının standart yol / usr / share / zoneinfo / Linux dağıtımlarında da dahil olmak üzere pek çok Unix benzeri sistemleri üzerinde.
+Kullanım ve uzantıları.
+Zaman dilimleri Sınırları.
+Koordinat kümeleri şeklinde Coğrafi sınırları tz veritabanı parçası değildir, ancak sınırları vektör çokgen şeklinde Eric Muller tarafından yayınlanmaktadır. Bu vektör çokgenler kullanarak, tek bir dünya üzerinde her yerde, belirleyebilir, tz veritabanı bölgesi içinde hangi o yer almaktadır.
+Diğer standartlar kullanın.
+Unicode Ortak Yerel Veri Deposu (CLDR) bölgeleri tanımlamak için BM / LOCODEs kullanır. Bu, tüm tanımlayıcılar bir ülke, tz veritabanı yaratıcıları önlemek istedim bir şey başvuran demektir.
+Yazılım sistemleri kullanın.
+tz veritabanı birçok bilgisayar yazılım sistemleri de dahil olmak üzere saat dilimi işleme ve dönüşümler için kullanılır:
+Olson timezone kimlikleri de Unicode (YBÜ) Unicode Ortak Yerel Veri Deposu (CLDR) ve Uluslararası Bileşenleri tarafından kullanılmaktadır. Örneğin, CLDR Windows Tzid tablo standart Olson adları Microsoft Windows Saat dilimi kimlikleri eşler.

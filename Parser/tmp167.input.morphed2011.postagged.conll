@@ -1,0 +1,8 @@
+1	Fuji	Fuji	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	dağının	dağ	Noun	Noun	A3sg|P3sg|Gen	_	_	_	_
+3	_	yüksek	Adj	Adj	_	_	_	_	_
+4	yüksekliği	_	Noun	Noun	Ness|A3sg|P3sg|Nom	_	_	_	_
+5	ne	ne	Adj	Adj	_	_	_	_	_
+6	_	kadar	Postp	Postp	PCDat	_	_	_	_
+7	kadardır	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+8	.	.	Punc	Punc	_	_	_	_	_

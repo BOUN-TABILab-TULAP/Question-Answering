@@ -1,0 +1,262 @@
+Question: Ekvatordan kutuplara doğru gidildikçe güneş ışınlarının düşme açısı neden küçülmektedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Enlem-sıcaklık ilişkisi</DOCTITLE>
+<TEXT>
+
+Enlem-sıcaklık ilişkisi, enlem ile sıcaklık dağılışı arasındaki sıkı ilişkiyi ifade eden kavram. Ekvatordan uzaklaşıldıkça Dünya'nın geoit şeklinin bir sonucu olarak; güneş ışınlarının yere düşme açısı küçülür, yani ışınlar yere daha eğik açıyla gelirler. Eğik gelen güneş ışınlarının ısıtma gücü dik gelen ışınlara nispeten daha düşüktür. Çünkü;
+Bu ısıtma gücünün azalmasıyla birlikte ekvatordan kutuplara doğru sıcaklık azalışN1 gösterir. Enlem-sıcaklık ilişkisi Dünya üzerindeki sıcaklığın dağılışında en önemli etkenlerden biridir. Buna bağlı olarak;
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yağmur ormanı</DOCTITLE>
+<TEXT>
+
+Yağmur ormanları, yıllık en az 1750-2000 mm yağışa dayalı, yüksek yağış miktarı ile karakterize ormanlardır.
+Ekvator'dan itibaren kutuplara doğru 23°kuzey 27° güney enlemleri arasında yer alan tropikal yağmur ormanları, bütün seneyi kapsayan daimi sıcaklık ve nemlilik ile, devamlı surette büyüyen geniş yapraklı ağaçlar karakterize eder. Ağaçlar bütün sene yapraklarını bir taraftan dökerlerken, diğer taraftan yenilerini sürdükleri için, "daimi yeşil ormanlar" da denilir.
+Yağmur ormanları; ilk görünüşte çok kesif bir bitki örtüsüne sahip olup, liyan ve epifit bitkiler bakımından son derece zengindir. Bu gür flora içinden güneş ışınlarının toprağa ulaşması çoğu yerde mümkün değildir. Bitki örtüsü yoğunluğundan dolayı ağaçların üst kısımlarına düşen güneş ışığının yalnızca % l'i ormanın alt kısımlarına ulaşabilir. Ormanların daha gevşek olduğu yerlerde ise orman altı ancak öğle vakti biraz aydınlanabilir. Ormanların içleri çok yerde zifiri karanlık ve muazzam bir sessizlik içindedir.
+Hakiki yağmur ormanlarında birbirinden farklı üç kat göze çarpar. En üst kat pek devamlı değildir. Bu katı teşkil eden ağaçlar 40-50 m. yüksekliğinde olup, gövdeleri çok geniştir. Bu ağaçlar muazzam taçları ile ayrılırlar. Bu katı 25-35 m yüksekliğinde, fakat devamlılık gösteren bir orta kat takip eder. Asıl hacmin 2/3'ünü oluşturur. Buradaki ağaçlar birbirlerine girift bir şekilde karışmış haldedir. Ağaçlara uzaktan bakıldığı vakit kenetlenmiş tek bir satıh halinde görünür. Bu sıklık içinde ağaçların gövdelerini görmeye imkân yoktur. Üçüncü ve en alt kat, daha ufak ağaçlarla yüksek çalılardan meydana gelmiştir. Daha öncede bahsettiğimiz gibi birinci ve ikinci kat ağaçların çok sık yapraklan nedeni ile ışık zemine kafi derecede nüfuz edemez. Ağaçların gövdeleri hayli geniş olup umumiyetle 80 cm çapında olsalar da 23 metre çapında olan ağaçlar da bulunur.
+Tropikal yağmur ormanlarını iklimi bütün sene devam eden yüksek ve muntazam bir sıcaklık, yine bütün yıla dağılmış bol bir yağış ve buna ilâveten de, pek kısa süren kurakça bir devre takip eder. Tropikal yağmur ormanlarındaki en sıcak ay ile en soğuk ay arasındaki sıcaklık farkı 2,5 ile 3°'yi pek geçmez. Tropikal yağmur ormanlarını iklim tipinin en karakteristik özelliği ise mevsimlerin arasında yağış rejimleri bakımından bir farkın olmamasıdır. Güneşin ışıldadığı ve ormanların bu ışık huzmeleri altında kaldığı, kuşlar ile diğer canlıların dallardan dallara atladıkları bir sırada aniden güneşin bir bulut tarafından örtüldüğü ve ormanın gölgelendiği görülür. Güneş ışınlarının kesilmesiyle kuşların sustuğu, böceklerin seslerini kestikleri duyulur. Kısa süren bu sessizliği şiddetlibir yağmur sesi bozar. Yağmur ağaçların dalları ve yapraklan üzerinde damla olarak düşer, damlalar sızıntılar halinde aşağılara doğru akar, alttaki dalların ve yaprakların üzerine bu sızıntılar bir çağlayan gibi dökülür; yaprak ile ince dal gibi parçalan kırar ve yere sürükler. Yağmurun başlamasından pek kısa bir zaman sonra arazi üzerinde taşkın sulardan meydana gelmiş dereler teşekkül eder; toprak su istilasına uğramış olur
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hayali Rehberler: Paralel Ve Meridyenler (EBA)</DOCTITLE>
+<TEXT>
+
+Nasıl ki şehirdeki bir evi bulabilmek için mahalle, cadde, sokak ve ev numarası gibi unsurlara ihtiyaç varsa Yerküre üzerindeki herhangi bir yeri bulabilmek için de hayalî çizgilere (koordinat sistemine) ihtiyaç vardır. Bu nedenle Yerküre’yi enine ve boyuna kestiği varsayılan paralel ve meridyenler tespit edilmiştir.
+Paraleller
+Ekvatordan kutuplara doğru birer derecelik açı aralıklarıyla çizildiği varsayılan çemberlere paralel, yer küre üzerindeki herhangi bir noktadan ekvator düzleminin merkezine doğru çizilen doğru ile ekvator düzlemi arasındaki açıya ise enlem denir.
+Paralellerin Özellikleri:
+- En büyük paralel dairesi Ekvator’dur.
+- Ekvator’ dan Kutuplara gidildikçe çapları ve çevreleri kısalır; enlem dereceleri büyür.
+- Ardışık iki paralel arası uzaklık 111 km’dir.	
+- 90° paralelleri birer nokta halindedir.	
+- Bazı paralellerin özel isimleri vardır.	
+- Paraleller 90 tane Kuzey ve 90 tane Güney Yarım Küre'de olmak üzere toplam 180 tanedir.
+Enlemin Etkileri:
+Enlem; iklimi, güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tanm faaliyetlerinin sınınnı, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını vb. özellikleri etkiler.
+Meridyenler
+Kutup noktalarını birleştiren ve paralelleri dik kestiği varsayılan yarım çemberlere meridyen , herhangi bir meridyen düzlemi Başlangıç Meridyeni düzlemi arasındaki açıya ise boylam denir.
+Meridyenlerin Özellikleri:
+- Başlangıç meridyeni, Londra’nın Greenwich kasabasından geçer.
+- Bütün meridyenlerin uzunlukları eşittir.
+- Aralarındaki mesafe yalnızca Ekvator’da 111 km olup kutuplara gidildikçe azalır.
+- Meridyenlerin uzaklıkları aynı paralel üzerinde birbirine eşittir.
+- Aralarında 4 dakikalık zaman farkı vardır.
+- 180’i Batı, 180’i Doğu Yarım Küre’de olmak üzere toplam 360 meridyen vardır.
+- Aynı meridyen üzerinde tüm noktaların yerel saatleri aynıdır.
+Aynı boylam üzerindeki noktalarda;
+Yerel saat, saat dilimleri, Başlangıç Meridyeni ile aralarındaki zaman farkı, güneşin en tepe noktasına geldiği an, ekinoks tarihlerinde Güneş’in doğuş ve batış saatleri aynıdır.
+Ancak Başlangıç Meridyeni ile olan mesafe ile ekinoks tarihleri dışında güneşin doğuş ve batış saatleri farklıdır.
+Her Noktada Ayrı Bir Saat: Yerel Saat
+Güneş, herhangi bir yerde tam tepe noktaya geldiğinde saat 12.00 olarak kabul edilir. Buna göre hesaplanan saate yerel saat denir. O hâlde her noktanın kendine has bir saati vardır.
+Yerel Saat Hesaplamaları
+Meridyenlerden faydalanarak yerel saat hesaplamaları yapılabilir.
+Ulusal (Ortak) Saat
+Ülkeler kendi sınırları içinde ticaret, ulaşım, haberleşme gibi hizmetlerin yürütülmesinde karışıklık çıkmaması için ülke içinden geçen bir meridyenin yerel saatini ortak saat olarak seçerler. Örneğin Türkiye, ortak saat için 30° doğu meridyenini esas alır.
+Doğu - batı doğrultusundaki uzunluğu fazla olmayan Türkiye’de bir tek ulusal saat kullanılır. Doğu-batı doğrultusundaki uzunluğu fazla olan ülkeler birden fazla ulusal saat kullanır.
+30° doğu boylamında gün içinde Güneş tam tepe noktaya geldiğinde yerel saat 12.00 dir. 45° doğu boylamında ise yerel saat 13.00 tür. Kış döneminde Türkiye 30° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat geri alınır. Yaz döneminde ise Türkiye 45° doğu boylamının yerel saatini ortak saat olarak kullandığından saatler bir saat ileri alınır.
+İlk defa Birinci Dünya Savaşı sırasında Almanlar gün ışığından daha fazla yararlanmak amacıyla ileri saat uygulamasını başlattılar. Almanya’yı örnek alan diğer ülkeler de benzer uygulamalara gittiler. Türkiye’de de, 1978 yılında bu uygulamaya geçildi.
+Uluslararası Saat Dilimleri
+İletişim hizmetlerinin gelişmesi ile beraber uluslararası ilişkilerin sağlıklı yürütülebilmesi için uluslararası saat dilimleri belirlenmiştir. Bunun için başlangıç meridyeninin 7°30‘ batısı ve 7°30‘ doğusu 0. saat dilimi olarak kabul edilmiştir. 7° 30' doğu meridyeninden 15'er meridyen doğuya doğru gidildikçe bir sonraki ortak saat dilimine geçilmiş olur. Yani 7° 30’ doğu meridyeni ile 22° 30' doğu meridyenleri arası 1. saat dilimini oluştururken, 22° 30' doğu ile 37° 30' doğu meridyenleri arası 2. saat dilimini oluşturur. Bu şekilde her 15 meridyen bir saat dilimi kabul edilip sürekli doğuya doğru devam edildiğinde 22° 30' batı ile 7° 30' batı meridyenleri arasında 23. saat dilimine ulaşılmış olur. 0. saat dilimi, 24. saat dilimidir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jüpiter'in atmosferi</DOCTITLE>
+<TEXT>
+
+Jüpiter'in kalın ve karmaşık bir atmosfer tabakası bulunmaktadır. Bu atmosferi oluşturan gazların bileşim açısından Güneş Sistemi'nin kökenini oluşturan Güneş Bulutsusu'nun varsayılan yapısına yakın olduğu, ve aynı şekilde güneş sisteminin ilkel bulutsudan en az farklılaşmış gezegeni olduğu tahmin edilen Jüpiter'in iç yapısını da kabaca yansıttığı düşünülür. Atmosferin iki temel bileşeni moleküler hidrojen (H2) ve helyum (He)'dur. Bu gazların moleküler dağılımı %88 - %12 civarındadır. Bunları %0.1 oranla su buharı (H2O) ve metan (CH4) ve %0.02 oranla amonyak (NH3) izler. Azot, hidrojen, karbon, oksijen, kükürt, fosfor ve diğer elementleri içeren çeşitli bileşiklere milyonda bir düzeyini geçmeyen oranlarda rastlanmıştır.
+Aslında gaz devlerinin belirli bir yüzeyi olduğu söylenemez, gezegenden atmosfer olarak adlandırılabilecek en dış gaz tabakasına doğru kesintisiz, yumuşak bir geçiş sözkonusudur. Atmosferin değişik katmanları arasında da çok keskin sınırlar bulunmaz. Atmosferin incelerek gezegenlerarası ortamdan ayırdedilemez hale geldiği üst sınırı gibi, basınç ve ısının çok yükseldiği, ideal gaz ortamından uzaklaşılarak gezegenin moleküler hidrojen tabakasındaki sıvı yapıya doğru geçildiği alt sınırı da belirsizdir.
+Troposfer.
+Yer atmosferinde olduğu gibi, yoğun konvektif atmosfer akımlarının ve meteorolojik olayların yer aldığı ve atmosfer kütlesinin büyük kısmını barındıran en alt katman troposfer olarak adlandırılır. Tropopoz adı verilen ve 100 K civarındaki sıcaklığıyla atmosferin en soğuk kısmını oluşturan yüzey, troposfer tabakasını atmosferin daha üst katmanlarından ayırır. Basıncın 0,1 bar (Yer atmosferinde deniz seviyesindeki basıncın onda biri) civarında olduğu bu düzey '0' derinlik olarak alınır. Troposferin en üst bölgelerindeki en yüksek bulutlar amonyak buzundan oluşmuştur ve tropopozun yaklaşık 10 km. altında, sıcaklığın 130 K , basıncın 0,7 bar olduğu düzeyde yer alır. Yeryüzünden bakıldığında Jüpiter yüzeyinde izlenebilen en dış oluşumlar bu bulutlardır. 
+Troposferin derinliklerine doğru inildiğinde, basınç ve sıcaklığın artmasına paralel olarak çeşitli kimyasal bileşiklerin yoğuşmasına bağlı çok sayıda bulut tabakası ile karşılaşılır. 25-35 km. derinlikte, sıcaklığın 200-225 K arasında olduğu alanda amonyum sülfid buzu, 40-70 km. arasında ise katı halde sudan oluşmuş bulutlar yer alır. Bu tabakanın hemen altında su içinde erimiş amonyak damlacıklarından oluşan sıvı nitelikte bir bulut tabakası bulunur. Bunu 100 km. nin altında amonyum halid'lerin, daha derinlerde ise potasyum sülfid, rubidyum sülfid, sodyum oksitin yoğuşmasından meydana gelen bulutlar izler. Sıcaklık ve basıncın devasa boyutlara vardığı 1000 km. altında çeşitli silikat bileşikleri 'kaya bulutları'nı oluşturur. 2500-2700 K sıcaklık ve onbinlerce bar basınçla demir ve diğer ağır metal bileşiklerin yoğuştuğu aralık olan 1400-1700 km. derinlik aşıldığında, tüm bileşenlerin eriyik halinde bulunduğu berrak bir sıvı ortam görünümü ağır basar. 2000 km. derinlikte sıcaklık 3000 K, basınç 50.000 bar, 4000 km. de ise sıcaklık 5000 K, basınç 300.000 bar kadardır. 20.000 km. derinliğe gelindiğinde sıcaklık 10.000 K, basınç 3 milyon bar düzeyine ulaşır. Bu koşullar hidrojenin Van der Vaals tarafından tanımlanan metalik yapıyı aldığı alanı belirler. Atmosferin alt sınırı olarak hangi değerin kabul edileceği bilimsel gerekliliklerden çok, kişisel tercihlere bağlı görünmektedir.
+Atmosfer akımları.
+Jüpiter'i kaplayan bulutların renk açısından büyük farklılıklar gösteren ve ekvatora paralel biçimde dizilmiş çok sayıda kuşaklar oluşturduğu gözlenir. Koyu renkli 'kuşaklar' ile açık renkli 'bölgeler'in sırayla birbirini izlediği, iki komşu alanda egemen olan hava akımlarının birbirine zıt yönde ilerlediği, ve hızı zaman zaman 600 km./saat düzeyine ulaşan rüzgarların, kuşak ve bölgelerin sınırlarında büyük türbülanslara neden olduğu görülür. Bu alanlarda değişik boyut ve renklerde ve değişen sürelerle dairesel yapılar izlenir. Büyük Kırmızı Leke bunların en iyi bilineni ve en azından Jüpiter'in teleskoplarla izlenebildiği üçyüz yılı aşkın sürede varlığını sürdürerek en uzun ömürlü olanıdır. Büyük Kırmızı Leke'nin ve kuşakların renkleri ve kontrastları zaman içerisinde önemli değişiklikler gösterebilmektedir. Ekvatordan kutuplara doğru atmosfer hareketliliği giderek azalır ve kutuplara yakın enlemlerde kuşak yapısı tümüyle kaybolarak yerini daha türdeş bir bulutluluğa bırakır.
+Bu hareketliliğin nedeninin Jüpiter tarafından üretilen büyük miktardaki ısı enerjisi olduğu düşünülür. Atmosferin derinliklerinde, gezegen içinden aldığı ısı ile genleşerek yükselmeye başlayan gazlar, yüzeye doğru yaklaştıkca soğur ve yoğuşma derecelerine göre sıra ile sıvı hale dönüşerek değişik yükseltilerdeki bulutları ve yağışları oluştururlar. Bu yolla tropopoza ulaştığında 'kuru' ve soğuk hale gelen gazlar ağırlaşarak yeniden alçalırlar. Dönüş yolunda ısınma ile birlikte değişik düzeylerdeki yoğuşmuş bileşikleri yeniden içine alarak zenginleşirler. Bu döngü binlerce kilometre uzunluğunda dikey bir yolculuğu gerektirir ve tipik olarak yıllar sürebilir. Jupiter'in ağırlık merkezinden uzaklaşarak yükselen gaz kütleleri sahip oldukları açısal momentumu koruyarak gezegenin dönüş hızının gerisinde kalırken, alçalan kütleler hızlanırlar. Coriolis etkisi adı verilen bu durum art arda gelen kuşaklarda sıra ile doğu-batı ve batı-doğu yönünde zıt akımların oluşmasına yol açar. Yükselen sıcak gaz kütlelerinin oluşturduğu antisiklon 'bölge'lerinde bulutların yüksekliği, alçalan soğuk ve kuru gazlardan oluşan siklon 'kuşak'larına göre çok daha fazladır. Nemli bölgeler gezegenin yüksek yansıtıcılığa sahip açık renkli alanlarını oluşturur. Kuru gazlar ise atmosferin çok daha derinlerine kadar inen bir görüş alanına izin verir ve koyu renkli kuşakları meydana getirir. 15o Kuzey ve 15o Güney enlemleri arasını kaplayan Ekvator Kuşakları'ndaki 380 km./saat hızında batı-doğu yönünde sürekli hava akıntısı, Jüpiter'in ekvatorda kutuplara oranla daha hızlı döndüğü izlenimi verir ve bu nedenle gezegen için 9 saat 50 dakika 30 saniye süren Sistem I ve 9 saat 55 dakika 41 saniye süren Sistem II olmak üzere iki ayrı dönüş süresi tanımlanmıştır. Radyo dalgalarının ölçümü ile belirlenen Sistem III ise gezegenin manyetik iç yapılarının dönüş hızını gösterir ve hemen hemen Sistem II ile yani kutuplardaki atmosferin dönüş hızı ile eşdeğerdir.
+Kutupların yakınında bölge ve kuşakların görülmemesi, Coriolis kuvvetlerinin bu enlemlerde önemini yitirmesi ile ilişkilidir. Yükselen ve alçalan gaz sütunlarının bu bölgelerde de varlığı, benek ya da halkalar şeklinde gözlenen farklı renklere sahip atmosfer yapıları ile doğrulanmaktadır. Ayrıca ekvator ve kutuplar arasında hemen hemen hiç sıcaklık farkı gözlenmemesi, atmosfer içindeki ısı aktarımının tüm enlemlerde etkin bir biçimde sürdürüldüğünü düşündürmektedir.
+Çok yeni veriler, koyu renkli kuşaklarda da yükselen gaz hücrelerinin oluşturduğu küçük açık renkli alanların bulunduğunu ve net gaz hareketinin yükselme yönünde olabileceğini düşündürmektedir. Bu çelişkili bulgular henüz tam olarak aydınlatılabilmiş değildir. 
+Stratosfer.
+Tropopoz düzeyinin üzerinde hem dikey, hem de yatay hava akımlarının çok az olduğu, yoğunlaşma ve bulutların bulunmadığı stratosfer tabakası yer alır. Bu katmanda fotokimyasal etkinlik ön plandadır ve atmosfer bileşimini ve özelliklerini etkileyen en önemli mekanizmadır. Güneş‘ten kaynaklanan morötesi ışınımların etkisi altında gerçekleşen bu tepkimelerin sonucunda bazı kimyasal bileşikler parçalanarak eksilirken, bazı yeni bileşiklerin oluşması ve atmosferin daha alt tabakalarına 'yağması' ile Jüpiter‘in kimyasal bileşimi yavaş ama sürekli biçimde değişmektedir. Soğurulan güneş ışınlarının bıraktığı enerji nedeniyle stratosferde sıcaklık troposferdekinden daha fazladır ve yükselti ile birlikte artmaya devam eder. En yüksek sıcaklığın olduğu düzey stratosferi mezosferden ayıran 'stratopoz'u belirler. 
+Mezosfer.
+Tropopoz düzeyinden yaklaşık 150 km. yükseklikte başlayan mezosfer, 300 km. yüksekliğe dek devam eder. Burada daha da seyrelmiş olan atmosferde, stratosferdekine benzer fotokimyasal etkinlik devam eder. Sıcaklık bu katman boyunca 180K civarında sabittir. 
+Termosfer.
+Mezosferin üst sınırını belirleyen türbopoz düzeyinin üzerinde Güneş kaynaklı morötesi ve X ışınlarının etkisi ile 750K sıcaklığa ulaşan termosfer tabakası bulunur. Bu katmanın üst kısımları yüksek enerjili ışınların etkisi ile iyonize duruma geçmiş atomlar ve serbest elektronlardan zengindir, bu nedenle iyonosfer olarak da adlandırılır. 
+Egzosfer.
+Jüpiter atmosferinin en üst tabakalarında, yavaşca yerini güneş rüzgarı ve gezegenlerarası ortama bırakan çok seyrelmiş hidrojen atomlarını içeren geniş bir alan bulunur. Bu alanın ısı dengeleri incelendiğinde, gezegenin kütleçekim gücünün dış kaynaklı ışınımların etkilerine açık farkla baskın çıktığı ve Venüs, Yer, ve Mars gibi küçük gezegenlerin aksine Jüpiter atmosferinden hafif gazların kaçışının olanaklı olmadığı görülür. Bu nedenle Güneş sistemi'nde bugün varolan koşullar devam ettiği sürece Jüpiter ve sisteminin yapısının korunacağı sonucuna varılabilir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklimin Temel Elemani: Sicaklik (EBA)</DOCTITLE>
+<TEXT>
+
+Sıra Kentler Sıcaklıklar (°C) 
+	Ocak ortalaması	Temmuz ortalaması	Yıllık Ortalama
+1	İstanbul	5	22	13,5
+2	Erzurum	-10	16	3
+3	Kaşgar (Çin)	-5	18	6,5
+4	Yakutsk (Rusya Federasyonu)	-30	10	-10
+5	Tokyo (Japonya)	6	19	12,5
+6	Sydney (Avustralya)	20	4	12
+7	Kisumu (Kenya)	30	25	27,5
+Isı ve Sıcaklık Aynı mıdır?
+Yeryüzünde ve atmosferde oluşan birçok doğal olayın, özellikle de atmosfer olaylarının temel nedeni ısı ve sıcaklıktır. İklimin diğer elemanları olan basınç, rüzgâr, nem ve yağış da sıcaklıklığa bağlı olarak oluşur.
+Sıcaklık konusu işlenirken ısı kavramı karşımıza çıkar. Isı ile sıcaklık, çoğu zaman aynı anlamda kullanılan ancak birbirinden farklı olan kavramlardır.
+Isı, bütün cisimlerde mevcut olan potansiyel enerjiyi ifade eder. Sıcaklık ise bu enerjinin dışa yansımasıdır. Sıcaklık, termometreyle ölçülür ve derece celcius (derece selsius: °C) olarak ifade edilir. Dünya ve güneş sistemindeki diğer gök cisimlerinin sıcaklık ve ışık kaynağı Güneş’tir. Dünya, Güneş’ten aldığı enerjiyle ısınır, fakat bu enerjinin tamamını kullanmaz; alınan enerjinin önemli bir kısmı kaybolur. Yerküre’nin şekline ve yerel şartlara bağlı olarak sıcaklık her yerde aynı değildir. Bu nedenle farklı sıcaklık değerleri ve sıcaklık kuşakları oluşur.
+Güneş’ten gelen enerjinin ne kadarının Dünya’yı ısıttığı:
+Yeryüzüne gelen güneş enerjisinin dağılımı
+Dağılmaya (difüzyona) uğrayan % 25
+Bulutlar ve atmosferin etkisi ile uzaya yansıyan % 25
+Yeryüzüne çarparak uzaya yansıyan % 8
+Atmosfer tarafından emilen % 15
+Yeryüzünde Sıcaklık Dağılışını Etkileyen Faktörler
+Yeryüzünün her yerinde farklı sıcaklık değerlerinin oluşmasının nedenlerini hiç düşündünüz mü? Kutuplar neden çok soğukken Ekvator bölgesi çok sıcaktır? Her olayın bir veya birden çok nedeni olduğu gibi yeryüzünde farklı sıcaklık değerlerinin oluşmasının da nedenleri vardır. Şimdi bunları görelim.
+1. Güneş İşınlanma Geliş Açısı: Daha önceki konularda öğrendiğiniz gibi yeryüzünde sıcaklığın temel kaynağı Güneş’tir. Güneş ışınları bir yere ne kadar dik açıyla düşerse sıcaklık o kadar yüksek, ne kadar dar açıyla düşerse sıcaklık o kadar düşük olur.
+Güneş ışınlarının yere düşme açısı, çeşitli faktörlere bağlı olarak değişir. Bu faktörler; Yerküre’nin şekli, eksen eğikliği, Dünya’nın günlük ve yıllık hareketi ile eğim ve bakıdır.
+a.	Yerküre’nin Şekli: Yerküre’nin şekli, yeryüzünün her noktasının aynı miktarda ısınmasına engel olur. Ekvator’dan kutuplara doğru, güneş ışınlarının yere düşme açısı küçülür.
+Yerküre’nin şekli küresel olduğu için, güneş ışınları, Ekvator ve çevresine daha dik açıyla gelir. Buna enlem etkisi de denir.
+b.	Yerin Eksen Eğikliği oe Yıllık Hareketi (Mevsimler)
+Dünya Güneş etrafında dönerken sıcaklık değerlerinde nasıl bir değişim olur?
+Önceki konularda anlatıldığı gibi Dünya, Güneş etrafında dönerken eksen eğikliği nedeniyle güneş ışınlarının yere düşme açısı yıl içerisinde değişir. Bu durum sıcaklığın yıl içerisinde farklılık göstermesine neden olur.
+Eksen eğikliği Kuzey ve Güney Yarım kürelerde, aynı anda farklı sıcaklık değerlerinin oluşmasına ve farklı mevsimlerin yaşanmasına yol açar.
+c.	Dünya’nın Günlük Hareketi
+Dünya’nın günlük hareketine bağlı olarak güneş ışınlarının bir yere düşme açısı gün içerisinde değişir. Buna bağlı olarak gün içindeki sıcaklık değerleri değişmektedir.
+d.	Bakı ve Eğim
+Herhangi bir yerin Güneş’e göre konumuna bakı denir. Bakının sıcaklık üzerinde önemli bir etkisi vardır. Güneş’e dönük yerler, güneş ışınlarını daha büyük açıyla alır.
+Bakı etkisi, dağların yamaçlarının Güneş’e göre durumlarına bağlı olarak ortaya çıkar. Dönenceler dışında Kuzey Yarımküre’deki dağların güney yamaçları, Güney Yarımküre’deki dağların ise kuzey yamaçları güneş ışınlarını daha büyük açıyla alır ve genel olarak daha sıcak olur. Dönenceler arasındaki dağların ise yıl içinde her iki yamacı da güneş ışınlarını daha büyük açıyla alabilmektedir.
+2.	Güneşlenme Süresi
+Güneşlenme süresi, bir yerin gün içinde Güneş’i gördüğü süreyi ifade eder. Atmosfer de enerji birikimine neden olduğundan sıcaklık üzerinde önemli bir etkiye sahiptir. Güneşlenme süresi uzadıkça atmosferde ısı birikimi olacağından sıcaklık değerleri yükselir.
+3.	Yükselti
+Yeryüzünde yükseltiye bağlı olarak farklı sıcaklık değerleri görülür.
+4.	Kara ve Denizlerin Dağılışı
+Gece
+Denizler yavaş ısınır ve yavaş soğur.
+Hava soğuyarak aşağı iner.
+Yükselen sıcak hava
+Hareket eden soğuk hava
+Kara çabuk ısınır, çabuk soğur.
+Yandaki şekle bakarak aşağıdaki soruları cevaplayınız.
+Gündüz
+Karalar daha çabuk ısındığından üzerindeki havanın da ısınıp yükselmesine neden olur.
+Isınan hava yükseldikçe soğur ve yoğunlaşarak aşağı iner.
+Denizin üzerindeki soğuk hava hareket ederek sıcak havanın yerini alır.
+5. Nem
+Atmosferdeki nem, sıcaklığı dengeleyici bir özelliğe sahiptir; aşın ısınma ve soğumayı önler, günlük ve yıllık sıcaklık farkını azaltır. Güneş ışınlarının dik veya dike yakın açılarla düştüğü Ekvator ve çevresinin Dünya’nın en sıcak yeri olması gerekir. Ancak nem miktarının fazla olması bu durumu engellemiştir. Dünya’da sıcaklığın en yüksek değerlere ulaştığı yerler, nem miktarının oldukça düşük olduğu dönenceler civarındaki çöllerdir.
+6. Okyanus Akıntıları
+Yeryüzünde sıcaklığın dağılışı üzerinde okyanus akıntılannın önemli bir etkisi vardır. Okyanus akıntıları, denizlerde sıcaklığın Ekvator’dan kutuplara doğru düzenli bir biçimde azalmasını engeller. İngiltere 50° - 57° kuzey enlemleri üzerinde bulunduğundan çok soğuk olması gerekirken kıyısından geçen Gulf Stream (golfstrim) sıcak su akıntısı nedeniyle çevresine göre sıcak ve nemli bir iklime sahiptir. İngiltere ile aynı enlemlerde olan Kanada'nın doğu kıyılarının ise Labrador soğuk su akıntısı nedeniyle soğuk bir iklimi vardır.
+7. Rüzgârlar:
+Rüzgârlar yeryüzünde sıcaklık dağılışı üzerinde doğrudan etkilidir. Geldikleri bölgelerin sıcaklık, nem vb. özelliklerini estikleri bölgelere taşırlar.
+8. Bitki Örtüsü
+Bitki örtüsünün sıcaklık üzerinde dengeleyici etkisi vardır. Bitki örtüsü, geceleri aşırı soğumayı, gündüzleri de aşırı ısınmayı önler. Bu nedenle gece ve gündüz arasındaki sıcaklık farkı ormanlık alanlarda az iken bitki örtüsünden yoksun olan alanlarda fazladır.
+Dünya’da Sıcaklığın Coğrafi Dağılışı
+Yeryüzünde sıcaklığın farklı bir dağılış gösterdiğini öğrendiniz. Bu dağılış eş sıcaklık eğrileriyle (izoterm) oluşturulan haritalarla gösterilebilir.
+İzoterm haritaları, gerçek izoterm haritaları ve indirgenmiş izoterm haritaları olmak üzere ikiye ayrılır.
+Yeryüzünde ölçülen sıcaklık değerleri ile hazırlanan haritalara gerçek izoterm haritaları denir. Her yerin deniz seviyesinde olduğu kabul edilerek oluşturulan sıcaklık haritalarına ise indirgenmiş izoterm haritası denir. İndirgenmiş sıcaklık şu şekilde hesaplanır: Deniz seviyesinden 1000 m yüksekte olan bir merkezin sıcaklığı 5 °C ölçülmüştür. Buna göre indirgenmiş sıcaklık;
+1000x0.5/100=5, 5 + 5 = 10 °C.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerkürenin Şekli (EBA)</DOCTITLE>
+<TEXT>
+
+Yerkürenin, kutuplardan basık Ekvator’dan şişkince kendine has bir şekli vardır, buna geoit adı verilir. Dünya, geoit şeklini ekseni etrafında dönüşü sırasında oluşan merkezkaç kuvvetiyle 6357 km savrulması sonucu almıştır.
+Dünya’nın kutuplardan basık, Ekvator’dan ° Km şişkince olan şekline bağlı olarak;
+•	Ekvator’un uzunluğu tam bir meridyen dairesinin uzunluğundan fazladır.
+•	Ekvator’un yarıçapı, kutuplardan geçen çemberin yarıçapından 21 km daha uzundur.
+•	Kutuplar, Dünya’nın merkezine (Ekvator’a göre) daha yakındır. Bunun sonucu olarak, yerçekimi Ekvator’da az, kutuplarda daha fazladır. (Şekil 1)
+•	Güneş ışınlarının düşme açısı Ekvator’dan kutuplara doğru küçülür.
+•	Ekvator’dan kutuplara gidildikçe paralel boyları ve meridyenler arası mesafe azalır.
+•	Dünya’nın kendi ekseni etrafındaki dönüş hızı Ekvator’dan kutuplara gidildikçe azalır.
+•	Harita çizimlerinde hatalar meydana gelir.
+•	Dünyanın yarısı aydınlık iken diğer yarısı karanlıkta kalır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bakı</DOCTITLE>
+<TEXT>
+
+Bakı, bir bölgedeki dağların Güneş ışınlarını alış yönü veya Güneş'e "bakı"ş kısmı olarak açıklanabilmektedir. Bakı enlem etkisi dolayısıyla matematik konum sonucunda oluşur (1). Ayrıca özel konumun sonucu olduğu da söylenebilmektedir (2). Ancak 2. savın kanıtlanabilirliği tartışmaya açıktır.
+Bakı; kalıcı kar sınırı, ağaç üst sınırı ve tarım üst sınırı üzerinde etkilidir. Bakı tarafında güneşlenme süresi uzun, güneş ışınlarının geliş açısı fazla, güneş ışınlarının tutulma oranı daha az ve yerleşme daha fazladır.
+Örneğin Türkiye'deki dağların bakısı sürekli güney yönlüdür. Bunun sebebi Türkiye'nin 36° — 42° kuzey enlemleri arasında olması ve dolayısıyla Güneş ışınlarını güneyden almasıdır. Bu durumu matematik konum ile açıklamak mümkündür.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dönence</DOCTITLE>
+<TEXT>
+
+Dönence veya Tropika, yeryüzü üzerinde, güneş ışınlarının yılda iki kez dik açı ile geldiği, sıcak kuşağın kuzey ve güney sınırlarını oluşturan ve Ekvator'un (eşlek) 23° 27' kuzey ve güneyinden geçtiği varsayılan iki enlemden her biri. Bu iki enlem arasındaki bölgeye tropikal kuşak denir.
+Bu enlemlerden yeryüzününün kuzey yarısında olanına Yengeç Dönencesi, güney yarısındakine de Oğlak Dönencesi adı verilir. 21 Haziran’da güneş ışınları Yengeç Dönencesi’ne dik gelir. Bu gün, yeryüzününün kuzey yarısında yazın, güney yarısında da kışın başlangıcı olarak sayılır. Bugünden sonra yeryüzünün kuzeyinde günler kısalmaya, güneyinde ise uzamaya başlar ve buna Yaz Gündönümü adı verilir. Benzeri biçimde, güneş ışınlarının Oğlak Dönencesine dik geldiği 21 Aralık, kuzey yarıyuvarlakta kışın, güney yarıyuvarlakta da yazın başlangıcıdır.
+Dönenceler matematik iklim kuşağı olan Tropikal kuşağın kuzey ve güney sınırlarını oluştururlar. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Işık Basıncı</DOCTITLE>
+<TEXT>
+
+Kabın duvarına çarpan küçük gaz moleküllerinin veya derimize çarpan hava moleküllerinin verdiği itmeler gaz basıncını meydana getirir.Işığın tanecik teorisine göre bir aynaya çarpan ışık tanecikleri,aynı şekilde bir ışık basınının doğmasına sebep olur.Ne yazık ki şimdiye kadar geliştirilen tanecik modeli ,belli bir ışık tanecikleri selinin ne kadar basınç yaratacağını söylememize yetecek kadar gelişmiş değildir.Örneğin;her saniye 1 metre kareden geçmekte olan 1 mol'lük ışık taneciğinin ne şiddette bir basınç yaratacağını söyleyemeyiz.
+Bir ışık demetinin şayet yaratırsa,yaratacağı basıncın çok küçük olması gerektiği tahmin edilebilir.Bir elektrik düğmesini çevirip parlak bir lambayı yakmakla bir tüyü bile yerinden oynatamayız.
+Yirminci yüzyıl başına kadar,yapılan deneyler bile ışık basıncının varlığını gösteremedi.Rusya'da Peter Lebedev ve Amerika Birleşik Devletlerinde Nichds ve Hull bu basıncın varlığını gösterip değerini ölçmeyi başarmışlardır.
+Bu bilginler deneyle buldukları sonuçlardan,parlak güneşli bir öğle zamanı güneş ışınlarının yarattığı basıncın,tek bir molekül tabaksı halinde yatay bir yüzeye yayılmış olan zeytinyağının basıncı kadar olduğunu belirtmişlerdir.Bu çok küçük bir basınçtır;ama ışık basıncı her zaman bu kadar küçük değildir.
+Tanecik teorisinden,bu basıncın aydınlanma şiddetiyle artacağı tahmin edilmiş ve tahmin de deneylerle doğrulanmıştır.Örneğin;ışık basıncı güneşin yüzünde güneş ışınlarının yeryüzündeki basıncından yüzlerce defa daha büyüktür.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yerküre’Nin Hareketleri (EBA)</DOCTITLE>
+<TEXT>
+
+1.	Günlük Hareket
+Dünya, kendi ekseni çevresinde batıdan doğuya doğru dönüşünü 24 saatte tamamlar. Buna “1 gün”, harekete ise “günlük hareket” denir. Dünyanın ekseni etrafındaki dönüşüne bağlı olarak;
+•	Gece-gündüz birbirini izler
+•	Gün içerisinde güneş ışınlarının geliş açısı değişir.
+•	Cisimlerin gölge boyları ve yönü günün saatine göre değişir.
+•	Günlük sıcaklık farkları meydana gelir, bunun sonucunda meltem rüzgârları ve mekanik (fiziksel) çözülme meydana gelir.
+•	Yerel saat farkları oluşur, doğu ve batı yönleri oluşur.
+•	Her iki yarım kürede 30° ve 60° enlemlerinde dinamik basınç alanları oluşur.
+•	Sürekli rüzgarlar (Alize, Batı, Kutup) ile okyanus akıntılarının yönlerinde sapmalar oluşur.
+2.	Yıllık Hareket
+Dünya, Güneş çevresindeki dönüşünü elips biçiminde olan yörüngeyi takip ederek 365 gün 6 saatte tamamlar. Buna “1 yıl ”, harekete ise “yıllık hareket” denir. Dünya’nın güneş çevresinde elips şeklindeki yörüngeyi takip ederek dönmesine bağlı olarak;
+•	Dünya’ nın yörüngedeki hızı değişir.
+•	Şubat ayı iki gün kısa sürer.
+•	Yarım kürelerde mevsim süreleri farklı olur.
+•	Eylül ekinoksu iki gün gecikerek 23 Eylül’de gerçekleşir.
+•	Dünya, Güneş’e yaklaşıp uzaklaşır.
+Dünya, Güneş çevresinde elips biçiminde bir yörüngede hareket eder. Bu yörüngenin oluşturduğu düzleme yörünge düzlemi (ekliptik) denir.
+Buna göre yer ekseni yörünge düzlemi arasında 66° 33’lık bir açı bulunur. Bu durum nedeniyle ekvator düzlemi yörünge düzlemi arasında da 23° 27’lık bir açı oluşur. Bu açı “eksen eğikliği” olarak ifade edilir.
+Eksen eğikliği ve yıllık harekete bağlı olarak;
+•	Güneş ışınlarının bir noktaya geliş açısı yıl içinde değişir.
+•	Güneşin doğuş ve batış saatleri ile gece-gündüz süreleri yıl içinde değişir.
+•	Aydınlanma çizgisi kutup daireleri ve noktaları arasında yer değiştirir.
+•	Mevsimler arasında basınç farkları ve buna bağlı olarak muson rüzgârları oluşur.
+•	Aynı anda farklı yanm kürelerde farklı mevsimler görülür.
+•	Matematik iklim kuşakları oluşur.
+
+</TEXT>
+</DOC>
+

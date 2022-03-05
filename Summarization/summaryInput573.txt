@@ -1,0 +1,330 @@
+Question: Mitoz bölünme nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz Ve Eşeysiz Üreme  (EBA)</DOCTITLE>
+<TEXT>
+
+Yeni doğmuş bir bebek nasıl olur da yirmi yılda yetişkin bir insan haline gelecek kadar büyüyebilir? Küçücük bir yavru fil, nasıl olurda tonlarca ağırlığa ulaşabilir? Küçük bir tohum nasıl olur da kocaman bir ağaca dönüşebilir? 
+Hasar görmüş olan bir doku, kendisini nasıl yeniler? 
+Bütün canlılar hücre ya da hücrelerden meydana gelmiştir. Her hücre, daha önceki bir hücrenin bölünmesiyle oluşur. 
+Çok hücreli canlılarda çoğalan hücreler farklılaşarak dokuları; dokular organları; organlar sistemleri ve sistemler de organizmayı meydana getirir. 
+Bir hücreli canlılarda hücrenin bölünmesi, organizmanın çoğalmasını sağlar. 
+Çok hücreli canlıların kendilerine benzer bireyler meydana getirebilmeleri için genellikle büyüme ve olgunlaşma aşamalarını geçirmeleri gerekir. Bölünen hücreler çoğaldıkça organizma büyümekte; gelişim süreci içerisinde hücreler farklılaşmakta ve organizma olgunlaşmaktadır (Resim 1.1). 
+Prokaryotik hücreler basitçe ikiye bölünerek çoğalırken (Resim 1.2), ökaryotik hücreler mitoz adı verilen hücre bölünmesi ile çoğalırlar. 
+Bir hücrenin mitoz bölünme yapabilmesi için yeterince büyümesi gereklidir. Bu büyüme hücrenin özelliğine, tipine ve işlevine göre değişebilir. 
+Genel olarak hücre bölünmesi için gerekli şartlar aynıdır. 
+Bölünme gerçekleşmeden önce hücredeki sitoplazma miktarı artar; hücrenin hacmi ve yüzey alanı büyür. 
+Bu aşamadan sonra çekirdekten bölünme emri verilir ve hücre bölünür. 
+Cisimlerin yüzey alanının, boyutun karesiyle (r2) hacmin, boyutun küpüyle (r3) arttıgı düsünülürse; hücre büyüdükçe yüzey alanının hacime oranı azalacaktır (r2/r3). Böylece hücre yüzey alanı, hücre hacmi için yetersiz kalmaya baslayacak ve hücre zarından yapılacak olan madde alısverisi hücre için yeterli olmayacaktır. Onun için hücrenin bölünmesi gerekecektir. 
+Bölünme yeteneğine sahip olan hücreler, organizmanın yaşamı boyunca büyüme ve bölünme aşamalarını sürekli tekrarlarlar. Böyle bir vücut hücresi önce büyür, sonra bölünür, sonra tekrar büyür ve bölünür. Örneğin kemik iliği hücreleri bölünüp sürekli olarak kan hücresi üretmektedir. 
+Hücre Döngüsü 
+Bir ökaryotik ana hücrenin ikiye bölününceye kadar gerçekleşen ve birbirini izleyen olayların tümü, hücre döngüsünü oluşturur. 
+Hücre döngüsü, interfaz, mitoz ve sitokinez evrelerinden oluşur (Resim 1.3). 
+İnterfaz evresinde hücre büyür, bölünme sürecinde gerekli olan proteinler sentezlenir ve kromozomlar kopyalanır. 
+Hücrenin bölünmesi, interfaza göre daha kısa süren mitoz evresinde gerçekleşir. 
+Hücre döngüsünün, belirli bazı kontrol noktaları ve kontrol sistemi vardır. Bu sistem, hücrede döngüsel olarak işlev gören siklinler ve siklin bağımlı kinazlar (Cdk) gibi molekül gruplarından oluşmuş olup hem hücre döngüsündeki kritik olayları harekete geçirmekte hem de döngüdeki olayları eşgüdümlü hale getirmektedir. 
+Hücre döngüsündeki bir kontrol noktası, dur ya da devam et sinyallerinin döngüyü düzenleyebileceği bir noktadır. Hücre döngüsü iç ve dış sinyallere göre kontrol noktalarında denetlenmektedir. Ancak G1, S, G2 ve M aşamalarından geçen bir hücre bölünmeyi tamamlayabilir (Resim 1.4). 
+İnsan vücudunda yer alan hücrelerin bölünme özelliği farklılık göstermektedir. Örneğin sinir hücreleri, kas hücreleri ve alyuvarlar gibi özelleşmiş bazı hücreler, bölünme yeteneğini kaybetmiştir. 
+Derimizdeki epitel hücreleri, kemik iliğindeki hücreler, karaciğer hücreleri ve sindirim kanalını döşeyen epitel hücreleri ise bölünme yeteneklerini korurlar. 
+Hücre bölünmesi, kontrol altındadır. Çeşitli nedenlerle bu kontrol ortadan kalkarsa hücreler kontrolsüz olarak bölünüp çoğalmaya başlar, tümör oluşumu ve kanser hastalığı ortaya çıkar (Resim 1.5). 
+Mitoz sonucunda bir ana hücreden, bu hücreyle aynı özellikleri taşıyan iki yavru hücre meydana gelir. Bu bölünme sonunda hücrenin kromozom sayısı aynı kalır ve mutasyon 
+olmadığı sürece hücrelerdeki genetik materyalin farklı olması söz konusu olmaz. 
+Mitoz, ökaryotik canlılarda büyüme, yenileme ve onarım olaylarında işlev görür. 
+Bakterilerde görülen ikiye bölünme olayı, bir mitoz bölünme değildir; çünkü bu olay gerçekleşirken iğ ipliklerinin oluşumu gözlenmez (Resim 1.6). İğ ipliği oluşumu mitoz bölünmenin en önemli olayıdır. 
+Hücreler, ikiye bölünme ile sayılarını geometrik dizi şeklinde artırırlar (Resim 1.7) 
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre bölünmesi</DOCTITLE>
+<TEXT>
+
+Hücre bölünmesi, tek hücreli canlıların çoğalması, çok hücreli canlıların büyümesi, erkek ve dişi eşey hücrelerinin meydana gelmesi için gerekli biyolojik olaydır. Bir hücrenin bölünebilmesi için belirli bir büyüklüğe ulaşması ve nükleik asitlere sahip olması gerekmektedir. Canlılar dünyasında,
+olmak üzere üç farklı tip bölünme vardır. Tek hücreli canlılarda bölünme genellikle amitoz, çok hücrelilerde ise mitoz ve mayoz ile görülür.
+Amitoz.
+Genellikle tek hücrelilerde görülen bu bölünmeyle o türe ait birey sayısı artar. Amitoz bölünme yapan hücrelerin önce çekirdeği uzar, çekirdeğin uzamasıyla çekirdekçik de uzayıp boğumlanarak ikiye ayrılır. Bunu sitoplazma bölünmesi takip ederek, bir hücreden iki yeni yavru oluşacak şekilde bölünme gerçekleşir. Amitozda çekirdek zarı kaybolmaz, kromozomlar belirmez, sentriyoller ve iğ iplikleri oluşmaz. 
+Tek hücreliler dışında bazı özel hallerde yüksek yapılı organizma hücrelerinde de amitoz görülebilir. Bu durumda çoğu kez hücreler ölüme mahkum olur, çünkü tekrar mitoz bölünme yapamazlar. Amitoz bölünme bu organizmalarda bazen açlık nedeniyle dejenere olan hücrelerde, bazı yaşlı kıkırdak hücrelerinde, ayrıca hızla çoğalan kuş embriyosunun blastoderm hücrelerinde görülebilir. Gametlerde genellikle amitoz bölünme görülmez.
+Mitoz.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar çoğu soma hücresinde (ör sinir hücrelerinde bölünme yoktur) ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir.Yavru hücrelerin 23 tanesi anneden 23 tanesi babadan gelir.Bu kromozomların 44 tanesi vücut özelliklerini diğer ikisi cinsiyeti gösterir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.Ökaryot bir hücrede çoğalma(üreme),mitoz hücre bölünmesi ile sağlanır
+Mayoz.
+Eşeyli olarak çoğalan canlılarda zigotu oluşturacak gamet hücrelerinin yapılması (gametogenez) mayoz ile gerçekleşir.Üreme ana hücrelerinde kromozom sayısının yarıya inmesi olayı "mayoz" ile gerçekleşir.Sonuçta oluşan hücrelere üreme hücresi (gamet) denir. Mayoz bölünme I. ve II. mayoz bölünme şeklinde olup, bunların her biri aslında birbirini izleyen iki bölünmeden ibarettir. I.mayoz bölünme diploid kromozomlu ana hücreden kromozom sayıları yarı yarıya, yani haploid duruma inmiş (redüksiyon) iki yavru hücre meydana gelir. Fakat I. mayoz sonunda henüz kromozomdaki kromatidler tam olarak ayrılmamıştır. II. mayozda kromozomlar tam olarak uzunlamasına bölünür ve kromatidler ayrılarak yavru hücreler gider, böylece bölünme tamamlanmış olur. Mayoz bölünmedeki "interfaz" evresi (G1,S,G2) I.mayozun başında geçer, II. mayozda tekrarlanmaz. I. mayoz; "profaz I", "metafaz I", "anafaz I", "telofaz I" evrelerinden sonra sitoplazma bölünmesi (sitokinez)gerçekleşir; II. mayoz; "profaz II", "metafaz II", "anafaz II", "telofaz II" evrelerinden oluşur.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz</DOCTITLE>
+<TEXT>
+
+Mitoz ya da mitosis,ana hücre'nin bölünerek iki yeni hücre oluşturmasına denir.
+Genellikle ardından sitoplazma ve hücre zarının bölünmesi olan, sitokinez gelir. Bunun sonucu olarak, organelleri ve diğer hücre elemanları eş olan iki kardeş hücre oluşur. Mitoz ve sitokinez hücre döngüsünde M harfiyle gösterilen mitozu tanımlar. Mitoz yalnızca ökaryotik hücrelerde görülür. Çokhücrelilerde somatik hücrelerin oluşumu mitozla olurken, eşey hücrelerinin oluşumu mayoz denilen bölünme çeşidiyle olur. Çekirdeği olmayan prokaryotlarda hücreler, "fission" denilen bölünme yöntemiyle bölünürler.
+Zigot oluştuktan sonra başlayan mitoz bölünme, organizma belli bir büyüklüğe erişinceye kadar tüm soma hücrelerinde ve bazı hücrelerde (kemik iliği vb.) hayat boyu devam eder. Mitozda her hücrenin çekirdeğinde kromozomlar kendini eşler. Eşler, ana hücrenin bölünmesiyle oluşan iki yavru hücreye verilir. Böylece ana hücreye benzeyen, diploid sayıda (2n) kromozomlu iki yavru hücre meydana gelir. Mitoz da çekirdek bölünmesi "karyokinez", sitoplazma bölünmesi "sitokinez" olarak tanımlanır. Karyokinez başlangıçta "interfaz" ve sonrasında gerçek bölünme evreleri olan "profaz", "metafaz", "anafaz" ve "telofaz" olarak görülür.
+Hücre döngüsü ile mitoz arasındaki ilişki.
+Mitoz, hücre döngüsünün bir parçasıdır. Hücre döngüsü oldukça uzun olan interfaz evresi ile kısa bir bölünme evresinden oluşur. Mitotik evre (M) evresi çekirdek bölünmesi ve sitoplazma bölünmesinden meydana gelir.
+İnterfaz.
+"mitoz bölünme"
+Mitoz evresi hücre döngüsünün görece çok kısa bir parçasıdır. Döngünün büyük kısmını oluşturan evre, hücrenin kendisini bölünmeye hazırladığı interfaz evresidir.
+İnterfaz G1, S ve G2 olmak üzere üç evreye ayrılır. G1 evresinde ATP sentezi, organel sayısı ve protein sentezi artar. S evresinde DNA eşlenmesi tamamlanır. G2 evresinde hücre, bölünme hazırlığını tamamlar.
+Hızlı çoğalan bir insan hücresinde hücre döngüsü 24 saatte tamamlanırken embriyo hücresinde 30 dakikadan az, maya hücresinde 90 dakika, bakteri hücresinde 20 dakika gibi kısa sürede tamamlabilir.
+Mitoz evreleri.
+Profaz.
+İnterfazda eşlenmiş durumdaki kromatinler kısalıp kalınlaşarak kromozoma dönüşürler. Çekirdek zarı, çekirdekçik ve organeller eriyerek tamamen kaybolur. Kromozomlar ekvatoral bölgeye hareket etmeye başlarlar.
+Metafaz.
+Kardeş kromotitler ekvatoral düzlemde bir çember gibi, bazen de karışık olarak ekvatoral düzlem üzerinde dizilirler ve sentrozomlar interfazda oluşturmuş olduğu iğ ipliklerini kromozomlara doğru göndermeye başlar. Hücrenin ortasında hafif boğumlanma olur. İğ iplikleri kardeş kromatitlere tutunur. Kromozomların en net görüldüğü safhadır.
+Anafaz.
+Kromozomlardaki sentromerlerin aynı anda ikiye bölünmesiyle kardeş kromatitler tam olarak birbirinden ayrılır. Kardeş kromatitler sentromerleriyle iğ ipliklerine tutunarak zıt kutuplara doğru harekete geçer. Anafaz evresi kardeş kromatitlerin zıt kutuplara ulaşmasıyla tamamlanır...
+Telofaz.
+Profaz evresinde eriyen çekirdek zarı, çekirdekçik ve organeller yeniden oluşmaya başlar.Kutuplara çekilen kromatitler çekirdek zarının içine girerler.Kısaca bu evrede Profazda olan her şeyin tam tersi olur.Bu evreden sonra sitoplazma bölünmesi gerçekleşir.
+Sitoplazma bölünmesi.
+Çekirdek bölünmesi gerçekleştikten sonra hayvan hücreleri ortadan boğumlanarak, bitki ve diğer çeperli ökaryotik hücreler ise orta lamel (ara lamel) ile bölünerek iki yeni hücre oluşturur.
+Hayvan hücresindeki sitoplazma bölünmesi: Hücrenin ekvator bölgesinde dıştan içe doğru meydana gelen bir boğumlanma ile başlar. Bu boğumlanma sitoplazmayı ikiye ayırıncaya kadar devam eder. Yeni hücreler eşit veya eşit olmayan büyüklüktedir. Fakat genetik materyal bakımından her iki hücre de aynı genetik yapıya sahip, kromozom sayıları eşittir.
+Bitki hücresindeki sitoplazma bölünmesi: Bitki hücresinde hücre çeperi bulunduğundan boğumlanma görülmez. Hücrenin ortasında orta lamel (ara lamel) denilen ara plak oluşumu başlar. Orta lamel hücrenin çeperine ulaşıncaya kadar büyür ve
+kalınlaşır. Böylece sitoplazma içindeki yapılar hemen hemen eşit olacak şekilde ikiye ayrılır. Zamanla orta lamel iki yavru hücrenin faaliyeti sonunda normal hücre çeperi halini alır. Sitoplazmanın da bölünmesiyle aynı genetik bilgiye sahip iki yavru hücre oluşur.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mayoz bölünme</DOCTITLE>
+<TEXT>
+
+Mayoz Bölünme bir diploit ökaryotik hücrenin bölünerek genelde gamet olarak adlandırılan haploit hücrelere bölündüğü hücresel bir süreçtir. Gamet hücresinde kromozom sayısının azalmasıyla sonuçlanan "mayoz", Yunanca'da "Daha da küçültmek" anlamına gelen Meioun kelimesinden gelmektedir.
+Mitoz bölünme ile alakası yoktur.
+Mayoz Bölünme eşeyli üreme için gereklidir ve bu yüzden eşeyli üreyen tek hücreli organizmalar da dâhil tüm ökaryot hücrelerde görülür. Özellikle Bdelloid rotiferlerin içinde bulunduğu birkaç ökaryot mayoz yeteneklerini kaybedip partenogenezle ürerler. Mayoz eşeysiz mitotik bölünmeyle üreyen arkealarda ya da prokaryotlarda meydana gelmez
+Mayoz sırasında kromozom içinde paketlenmiş olan uzun DNA segmentlerinden oluşan diploit üreme hücresinin genomu DNA replikasyonundan sonra iki bölünme geçirerek gamet olarak adlandırılan haploit hücreleri oluştururlar. Her gamet kromozomların bir setini ya da orijinal hücrenin genetik içeriğinin yarısını içerir. Oluşan bu haploit hücreler diğer cinsin haploit hücreleriyle ya da döllenme sırasında yeni bir hücre olan zigotu oluşturmak için birleşebilirler. Bu yüzden mayozun bölünme mekanizması döllenme sırasında birleşen iki genom ile eşteş bir olaydır çünkü her ebeveynden gelen kromozomlar mayoz sırasında genetik rekombinasyona uğrarlar. Dolayısıyla her gamet ve sonuç olarak her zigot kendi DNA'sında kendine özgü bir "İz/Tasarım" taşıyacaktır. Diğer bir değişle, mayoz ve eşeyli üreme genetik varyasyonu oluşturur.
+Mayoz, kromozomların yeniden dağılımını gerçekleştirmek için mitoz sırasında gerçekleşen aynı biyokimyasal mekanizmaları kullanır. Mayoza özgü birçok özellik bulunmaktadır. Bunlardan en önemlisi homolog kromozomlar arasında meydana gelen eşleşme ve genetik rekombinasyondur.
+Mayozda da mitozda olduğu gibi profaz, metafaz, anafaz ve telofaz olarak adlandırılan dört evre vardır. Bu evreler arada interfaz olmaksızın peş peşe iki kez gerçekleşir ve sonuçta genetik özellikler bakımından 2 çeşit dört yavru hücre meydana gelir. Mayoz bölünme ile mitoz bölünme arasındaki en büyük farka profazda rastlanır.
+Mayoz bölünme iki aşamada gerçekleşir. Bu aşamalar, Mayoz-1 ve Mayoz-2 olarak adlandırılır.
+Profaz I
+DNA ipliklerinin kısalıp kalınlaşmaya başlaması ile başlar. Bu evre sınırları kesin olmayan 5 evreye ayrılıp incelenir. Bu evreler;
+Leptoten: Kromozomların mikroskopla seçilebildikleri andan itibaren başlar. İki eş kromatit birbirine sarılı halde bulunur. Ayrıca kromatinler üzerinde kromomer denilen ve koyu boyanan bölgeler fark edilir.
+Zigoten: Biri anneden diğeri babadan gelen ve birbirlerine benzeyen homolog kromozomlar yan yana gelerek eşleşmeye başlarlar Bu eşleşme bir uçtan diğer uca doğru devam eder. Bu evrede her biri iki kromatit taşıyan iki kromozomun yan yana durmasıyla sanki canlı n sayıda kromozom taşıyormuş gibi görülür. Görülen bu yapıya tetrat denir.
+Pakiten: Homolog kromozomların eşleşmesi tamamlanır ancak kromozomlar kısalmaya devam eder. Ayrıca bu evrede mitozdan farklı olarak tetratlar arasında genetik madde alışverişi olur. Buna krossing-over denir. Bu olay homolog kromozomların birbiri üzerine çakışan (kiyazma "chiasma") kısmında gerçekleşir.
+Diploten: Kromozomların sentromerleri ayrılmamıştır. Dört kromatit için iki sentromer vardır. Tetrat'taki homolog kromozomlar birbirinden ayrılmaya başlar. Ancak kiyazma bölgelerinde ayrılma olmaz ve kiyazmalar uca doğru kaymaya başlar.
+Diakinez:Kromozomlar son halini alır. Çekirdekçik kaybolur. Çekirdek zarı parçalanır.
+Metafaz I.
+Homolog kromozomlar ekvatoral plak üzerinde karşılıklı dizilir.
+Her kromozom sentromeri ile iğ ipliklerine tutunur.
+Anafaz I.
+Homolog kromozomlar birbirinden ayrılarak zıt kutuplara ilerler.
+Telofaz I.
+Hücrenin iki kutbunda bulunan kromozomlar uzayıp incelmeye başlar. Etraflarında çekirdek zarı oluşur. Sitoplazmanın boğumlanmasıyla da haploid sayıda kromozoma sahip iki yavru hücre oluşur.
+Hayvansal hücrelerde: Çekirdek bölünmesi tamamlandıktan sonra sitoplazma ortadan boğumlanarak ikiye bölünür ve iki ayrı hücre oluşmuş olur.
+Bitkisel hücrelerde: Oluşmuş olan iki çekirdekli hücrenin ortasında bir orta lamel (ara lamel) oluşur ve hücre duvarına kadar ulaşır. Dolayısıyla birbirine bitişik iki hücre oluşur.
+Hücrenin iki kutbunda bulunan kromozomlar uzayıp incelmeye başlar. Etraflarında çekirdek zarı oluşur. Sitoplazmanın boğumlanmasıyla da haploid sayıda kromozoma sahip iki yavru hücre oluşur.
+Buraya kadar geçen olaylar mayoz-I olarak adlandırılır. Bundan sonra mitozdakinin aksine arada interfaz evresi olmaksızın profaz-II'nin başlamasıyla mayoz-II başlar. Mayoz-II mitoz bölünmenin hemen hemen aynısıdır. Hücrelerdeki haploid kromozom sayısı korunarak profaz-II, metafaz-II, anafaz-II ve telofaz-II gerçekleşerek mayoz bölünmenin sonunda n kromozom sayısına sahip 4 yavru hücre meydana gelir.
+Mayoz 2.
+Profaz II.
+Birinci bölünmenin telofazı ile ikinci bölünme arasında bir dinlenme devresi olmadan çekirdek zarı parçalanır. Birinci iğ iplikçiklerinin doğrultusuna dik yeni iğ iplikçikleri oluşur.
+Metafaz II.
+Her yavru hücrenin haploid (n) kromozomu ekvatoral düzlem üzerinde dizilir.
+Anafaz II.
+Mayoz bölünmenin 2. bölümü olan Mayoz 2'nin 3. evresidir. Ara evre olarak da adlandırılır. Bu evre mitozdaki anafaz evresine benzer. Ancak, mitozdaki anafazda kardeş kromatitler düzenli bulunurken bu evrede düzensiz bulunurlar. Bu da Mayoz bölünmede genetik çeşitliliği sağlar.
+Telofaz II.
+Kromozomların helezonları açılır, dolayısıyla görünmez olurlar. Çekirdek zarları oluşur sitoplazma bölünür. Böylece bir hücreden 4 tane haploid hücre meydana gelir.
+'Sitoplazma bölünmesi'
+Hayvansal hücrelerde: Çekirdek bölünmesi tamamlandıktan sonra sitoplazma ortadan boğumlanarak ikiye bölünür ve iki ayrı hücre oluşmuş olur.
+Bitkisel hücrelerde: Oluşmuş olan iki çekirdekli hücrenin ortasında bir orta lamel (ara lamel) oluşur ve hücre duvarına kadar ulaşır. Dolayısıyla birbirine bitişik iki hücre oluşur.
+Mayoz bölünme sonucunda n kromozomlu 4 hücre (gamet)oluşur.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Eşeyli üreme</DOCTITLE>
+<TEXT>
+
+Eşeyli üreme, iki canlı organizma arasında genetik malzemelerin birleştirilmesi suretiyle yeni bir canlının oluşması olayıdır. Burada iki ana süreç vardır: kromozom sayısını yarıya indiren mayoz bölünme ile iki gametin birleştiği ve eski kromozom sayılarına ulaştığı döllenmedir. Mayoz bölünme sırasında, her bir çiftin kromozomları, homolog rekombinasyon elde etmek için krosover yoluyla parça değişimi yaparlar. 
+Eşeyli üremenin evrimi büyük bir yap boz bilmecesidir. Eşeyli üreyen organizmaların ilk fosilleşmiş kanıtları, 1 ile 1,2 milyar yıl öncesi Stenyan dönemindeki ökaryotlara aittir. Eşeyli üreme, hemen hemen tüm hayvanlar ve bitkiler de dahil olmak üzere, iri ölçekli makroskopik organizmaların büyük çoğunluğu için başlıca üreme metodudur. Hücre teması yoluyla iki bakteri arasında genetik malzeme (DNA) aktarımı olan bakteriyel konjugasyon, benzer mekaniğe sahip olduğu için sık sık yanlışlıkla eşeyli üreme ile karıştırılır. 
+Önemli bir soru, eşeyli üremenin, döllenmesiz bir üreme biçimi olan partenogeneze rağmen neden vazgeçilmez olduğu ve bazı yönlerden üstün bir üreme biçimi teşkil ettiğidir. Çağdaş evrim düşüncesi, bu konuda bazı açıklamalar önermektedir. Bir neden, aynı soy dalı üzerinde var olan seçilim baskısı sebebiyle olabilir. Bir popülasyonun, değişen çevre şartlarına karşı vereceği tepkiden daha hızlı yayılabilmesi yeteneği, eşeyli rekombinasyonla partogenezde olduğundan daha çok sağlanır. Alternatif olarak, eşeyli üreme, sınırlı kaynaklar için birbirleriyle rekabet eden aynı soy dalındaki türlerden daha çok evrimsel hız sağlayabilir. 
+Bitkiler.
+Hayvanlar, tipik olarak mayoz bölünmenin hemen ardından, mayoz bölünme tarafından oluşturulan sperm denilen erkek gametler ile yumurta veya ovum denilen dişi gametler üretirler. Öte yandan bitkiler, mitoz bölünme sonucu oluşan sporlara sahiptirler. Sporlar, gametofit içinde sporlanarak gelişirler. Çeşitli bitki türlerin gametofitleri, büyüklük olarak birbirlerinden ayrılır: kapalı tohumlu bitkiler (Angiospermler), polenlerinde sadece üç adet hücre bulundururlarken yosunlar ile ilkel olarak adlandırılan bitkiler ise birkaç milyon hücreye sahip olabilirler. Bitkilerde, çiçeksiz ve sporlu bir evre olan sporofit evresinin gametofit evreyi izlediği 2 farklı yaşam evresi olup nesil değişimi görülür. Sporofit evre, mayoz sporangium kesesi içinde spor üretimine yol açar. 
+Çiçekli bitkiler.
+Çiçekli bitkiler, karalara egemen olan bitki formu olup eşeyli ve eşeysiz üreyerek çoğalırlar. Genel olarak sahip oldukları en ayırt edici özellikleri, çoğu zaman çiçek olarak adlandırılan cinsel organlara sahip olmalarıdır. Stamen ya da anter olarak bilinen çiçeğin erkek üreme organı, eril gametofitler meydana getirir ve bu eril gamatofitler, dişi gametofitlerin yumurta içinde bulunduğu, stigma olarak da bilinen ve karpel üstünde yer alan tepeçiğe eklenerek polen taneleri içinde sperm üretirler. Polen tüpü, karpal biçimde geliştikten sonra üreme hücresinin çekirdeği, dişi yumurta hücresini döllemek için polen taneleriden ovüllere (yumurta) doğru hareket eder ve çift dölleme denilen bir süreçte endosperm çekirdeği, dişi gametofitin içine yerleşir. Triploid endosperm (tek bir sperm hücresi ve iki dişi hücresi) ve dişi ovul dokuları, gelişmekte olan tohumun çevrelenmesine neden olurken ortaya çıkan zigot, embriyo olarak gelişmeye başlar. Bundan sonra, dişi gametofitleri oluşturan yumurtalık meyveye dönüşürek tohum çevresinde büyümeye başlar. Bitkiler kendi kendilerini tozlayabildikleri (Kendi kendini tozlama) gibi birbirlerini de tozlayabilirler (Tozlaşma). Eğrelti otları, yosun ve ciğer otları gibi çiçeksiz bitkiler ise, eşeyli üremenin başka şekillerini kullanırlar.
+Eğrelti otları.
+Eğrelti otları, çoğunlukla rizom, kök ve yapraklara sahip büyük diploit sporofitler meydana getirirler ve sporangium denilen küçücük yuvarlak kesecikler halindeki spor keseleri üzerinde ise sporlar oluşur. Bu keseler yırtılınca, sporlar toz halinde serbest bırakılır ve bunlar çimlenerek genellikle yeşil renkli ve kalp şeklindeki, küçük, kısa ve de ince gametofitler oluştururlar. Gametofitler veya tallus, hem anterozoitte (bitkilerde erkek üreme hücresi) hareketli spermler, hem de ayrı olarak arkegonda (eğrelti otlarındaki dişilik organı) yumurta hücreleri oluştururlar. Yağmur yağdıktan veya çiğ taneleri, bunların üstünde ıslak bir şerit oluşturduktan sonra, hareketli spermler, normalde tallusun üzerinde üretilen anterozoitten dışarı doğru püskürürler ve yağmur suyu veya çiğ örtüsündeki sıvı içinde yüzerek yumurtaları dölledikleri arkegona ulaşırlar. Bu geçişi ve karşılıklı döllenmeyi desteklemek için, spermlerin yumurtalar henüz döllenmeye hazır olmadan önce serbest bırakılması, spermlerin yumurtaları farklı talluslar içinde döllemelerini daha olası hale getirir. Döllenme sonrası bir zigot oluşur ve bu zigot, yeni bir sporofit bitkiye dönüşür. Bitkilerin sporofit ve gametofite ayrılması durumuna nesil değişimi denir. Benzer üreme yöntemlerine sahip diğer bitkiler, Psilotum (Lycopodiales takımından psilotaceae familyasının örnek tipi), Kurtayağı adı ile anılan Lycopodium, yosundan daha gelişmiş ama eğrelti otundan daha ilkel olan Selaginella ve
+Atkuyruğu (Equisetum)'dur.
+Kara yosunları.
+Ciğer otları, Boynuz otları ve Yapraklı Bryophyta türlerini kapsayan kara yosunları, hem eşeyli hem de vejatitif olarak ürerler. Kara yosunları, nemli yerlerde, eğrelti otları gibi büyüyen küçük bitkiler olup flagella kamçısı olan spermlere sahiptirler ve eşeyli üremeyi kolaylaştırmak için suya ihtiyaç duyarlar. Bu bitkiler, fotosentez yapan yaprak benzeri yapılara sahip, çok hücreli haploid bir vücut olan ve hakim bir forma dönüşen haploid bir spor olarak başlangıç yaparlar. Haploid gametler, mayoz bölünme tarafından anterozoit ve arkegon içinde üretilirler. Anterozoit'ten püsküren sperm, olgunlaşmış arkegon tarafından salgılanan kimyasallara yanıt vererek sıvı su şeridi içinde onlara doğru yüzerler ve böylece zigot oluşturan yumurta hücrelerini döllerler. Zigotlar mitoz bölünme ile bölünürler ve diploit olan bir sporofite dönüşürler. Çok hücreli diploit sporofitler, arkegona Setae kılları ile bağlanan ve spor kapsülleri denilen yapılar üretirler. Spor kapsülleri, mayoz bölünme ile sporlar oluşturur ve bu kapsüller olgunlaşıp yırtıldıklarında sporlar da serbest bırakılır. Kara yosunları, üreme yapılarında önemli farklılıklar gösterirler ve yukarıdakiler buna dair temel bir taslak oluşturur. Bunun yanında , bazı türlerde her bitki tek bir cinsiyete sahipken, diğer türlerde bir bitki her iki cinsiyete de sahip olabilir.
+Mantarlar.
+Mantarlar, işlem yaptıkları eşeyli üreme yöntemlerine göre sınıflandırılırlar. Eşeyli üreme sonucu, zor zamanlarda hayatta kalmaya ve yayılmaya yarayan dayanıklı sporlar oluşur. Mantarların eşeyli üremesinde genellikle üç evre gözlemlenir: plazmogami, karyogami ve mayoz bölünme.
+Böcekler.
+Böcek türleri, günümüze kadar gelen tüm hayvan türlerinin üçte ikisinden fazlasını oluştururlar ve bazı türleri seçmeli olarak partenogenez ile çoğaldıkları halde çoğu böcek türleri eşeyli olarak ürerler. Birçok böcek türü seksüel dimorfizm özellikleri gösterirken, diğer türlerde cinsiyetler neredeyse özdeş görünüme sahiptir. Tipik olarak, böcekler spermatozoa (sperm) üreten erkek ve ovül (yumurta) üreten dişi olmak üzere iki cinsiyete sahiptirler. Ovül, iç döllenme öncesi oluşan ve koryon tabakası ile kaplanan yumurtalara dönüşür. Böcekler, çoğu kez erkeğin spermatoforunu (sperm kapsülü) dişinin içinde depoladığı ve yumurtaların döllenmeye hazır olmasına kadar dişinin bu spermleri sakladığı, çok farklı çiftleşme biçimlerine ve üreme stratejilerine sahiptir. Dölleme sonrası ve zigot oluşumu ile gelişim aşamalarının çeşitlenmesinin ardından, birçok türlerde dişi yumurtaları dışarıda saklar ya da bazı türlerde yumurtalar dişi böceğin içinde gelişir ve yavruları canlı doğururlar.
+Memeliler.
+Memelilerin günümüze kadar ulaşan ve hepsinin de iç döllenme özelliğine sahip olduğu üç türü bulunmaktadır: Tek delikliler, Eteneliler ve Keseliler. Anne ve cenine ait iki dolaşım sistemini birbirinden ayıran plasenta organına sahip memelilerde döller, henüz üreme yeteneği olmayan fakat cinsel organlara sahip eksiksiz bir yavru olarak doğarlar. Birkaç ay veya yıl sonra, cinsel organlar ergenliğe kadar gelişmeye devam eder ve canlı hayvan cinsel olgunluğa ulaşır. Memelilerde dişilerin çoğu, sadece belirli zamanlarda, östrus döneminde [[Doğurganlık|doğurgan] olup bu noktada çiftleşmeye hazır hale gelirler. Erkek ve dişi memeli bireyler karşılaştıklarında kopülasyon yaparak cinsel birleşme gerçekleştirirler. Birçok dişi ve erkek memeli, hayatları boyunca yetişken olarak birçok eş değiştirirler. 
+Erkek.
+"Daha çok bilgi için: Erkek üreme sistemi (insan)"
+Erkek üreme sistemi, Penis ve spermlerin üretildiği testisler olmak üzere iki ana bölümden oluşur. İnsanlarda, bu iki organ karın boşluğu dışında bulunur, ancak diğer hayvan türlerinde öncelikli olarak karın bölgesi içinde yer alabilir (örneğin, köpeklerde penis, çiftleşme sırasında hariç, genelde karın içi bölgede bulunur). Testislerin karın dışında bulunması, belirli sıcaklıklarda hayatta kalabilen spermlerin ısı düzenlemesinin en iyi şekilde ayarlanmasında kolaylık sağlar. Spermler, farklı iki cins gametten küçük olanı olup genelde çok kısa yaşam ömrüne sahip olduklarından erkek bireylerin, cinsel olgunluktan ölümlerine durmaksızın sperm üretmelerini gerektirir. Boşalmadan önce üretilen spermler, epididimis er bezinde biriktirilir. Sperm hücreli hareketli olup yumurta hücresine yüzerek ulaşmak için kamçı benzeri bir flagella kullanırlar. Spermler, yumurtayı bulmak için sıcaklık değişimlerinden (termotaksi) ve kimyasal seviye değişimlerinden (kemotaksi veya kimya göçümü) yararlanırlar.
+Dişi.
+"Daha çok bilgi için: Dişi üreme sistemi (insan)"
+Aynı şekilde dişi üreme sistemi de, vajina ile spermleri kabul eden ve yumurtalıklarda yumurtaların oluştuğu rahim olmak üzere iki ana bölümden oluşur. Bu bölümlerin tümü iç kısımlarda yer alır. Vajina, rahim boynu ("serviks") aracılığıyla rahime bağlanmış bir durumdayken rahim de fallop tüpleri ile yumurtalıklara bağlıdır. Belli aralıklarla, yumurtalık, bir yumurta bırakır ve bu yumurta da daha sonra fallop tüpünden rahime geçer. 
+Eğer bu geçiş sırasında yumurta, herhangi bir şekilde spermlerle karşılaşırsa, birleşmek için bu spermlerden birisini seçer ve bu olaya döllenme denir. Yumurtalar, genellikle yumurta kanalında ("ovidükt") döllenebilecekleri gibi bu döllenme, rahimde de gerçekleşebilir. Oluşan zigot, daha sonra implantasyon yoluyla rahim duvarına yerleşir ve burada embriyonik gelişim ile morfogenez süreçleri başlar. Eğer bu gelişim, yavrunun rahim dışında hayatta kalabileceği bir seviyeye ulaşmışsa, rahim boyu açılıp genişler ve rahimdeki kasılmalar, cenini ("fetus") doğum kanalının içinden vajinaya dışarıya doğru itmeye başlar.
+Dişi üreme hücresi olan yumurta, spermden çok daha büyük olup normalde doğumdan önce ceninin yumurtalıkları içinde oluşmaya başlar. Yumurtalar, rahime geçiş yapmadan önce, genelde yumurtalıklar içinde tutulur ve daha sonra oluşacak olan zigot ve embriyo için besin içerirler. Düzenli aralıklar içinde, hormonal uyarımlara tepki vererek, yumurta oluşumu sürecinde ("oogenez") bir yumurta olgunlaşmaya başlar ve daha sonra bu yumurta fallop tüpü içine serbest bırakılır. Yumurta döllenmediği takdirde, bu yumurtalar insanlarda ve yüksek primatlarda regl veya adet denilen olayla vücuttan dışarı atılır. Diğer memelilerde ise bu yumurtalar, dişilerin kızgınlaşma döneminde tekrar emilerek vücutta absorbe edilirler.
+Gebelik.
+"Daha çok bilgi için: Gebelik (memeliler) ve Gebelik"
+Gebelik veya hamilelik, erkekten gelen sperm ile kadının yumurtalıklarından atılmış olan yumurtanın döllenmesi ile oluşan ceninin, doğuma kadar geliştiği ve dişi içinde mitoz bölünme yoluyla bölünüp oluşmaya başladığı zaman bölümüdür. Bu süre boyunca, fetusun ihtiyacı olduğu beslenim ve oksijen, kanın, ceninin karnına göbek bağı ile bağlanmış olan plasenta içinde besinlerin filtre edilmesi yoluyla anne tarafından karşılanır. Besin maddelerinin embriyoya aktarılması, daha çok kalori gerektirdiğinden dişi için yorucu bir durum oluşturabilir. Buna ek olarak, gebelikte bazı vitaminler ve besinlere, normalden daha büyük miktarlarda gereksinim duyulduğundan, olağan dışı yemek alışkanlıklarına neden olabilirler. Gestasyon periyodu da denilen gebelik süresi, türden tür büyük ölçüde farklılık gösterir: insanlarda 40 hafta, zürafalarda 56 ile 60 hafta ve çırlak sıçanı olarak da bilinen hamsterlerde ise 16 gündür.
+Doğum.
+Fetus yeteri kadar geliştikten sonra, rahimin kasılması ve rahim kanalının genişlemesiyle birlikte başlayan kimyasal uyarılar, doğum sürecini başlatırlar. Fetus, daha sonra rahim boyuna iner ve burada vajina içine doğru ve sonra da nihayet anne dışına itilir. İnsanlarda bebek denilen yeni doğmuş yavru, genellikle doğumdan kısa bir süre sonra kendi başına solunum yapmaya başlar. Kısa bir süre sonra, plasenta da dışarı atılır. Çoğu memeliler, yavruların bakımı için plasanta, iyi bir protein kaynağı olduğu ve diğer hayati önem taşıyan besinleri de içerdiği için dışarı atılan bu plasentayı yerler. Son olarak, yavrunun karnına bağlı olan göbek bağı da, bir süre sonra kendiliğinden düşer.
+Tek delikliler.
+Avustralya ve Yeni Gine'de sadece beş türü olan Tek delikliler diğer memelilerden farklı olarak yavru doğurmayıp yumurtlayan ve bu yumurtaları dışarı bırakan canlılardır. Tek deliklilerin cinsel organları, idrar yolu ve bağırsakları, kloak adı verilen tek bir delikte ve birleşik bir durumda bulunur. Kloak, Tek deliklilerde, son bağırsağın dışarıya açıldığı, dışkının ve idrarın belli bir süre tutulabildiği ve eşeysel üretimin akıtıldığı ortak ve tek olan vücut açıklığıdır. Tek delikliler, yumurtalarını birkaç hafta boyunca besin sağlamak için içeride tuttuktan sonra, yumurtladıkları bu yumurtaların üstüne kuşlar gibi yatarak örterler. En az iki hafta sonra, yavrular yumurtadan çıkar ve çoğu keselilerde olduğu gibi, annelerinin keselerine girerek burada birkaç hafta için, yetişene kadar sütle emzirilirler.
+Keseliler.
+Keselilerin üreme sistemleri, belirgin şekilde plasentalı memelilerden farklıdır. Keseli dişiler, bir ağızla dışarıya açık olan ama rahim içinde farklı bölmelere yönlendiren iki vajinaya sahiptirler. Bu anlamda dişilerde iki adet rahim ve iki adet döl yolu vardır. Erkek keseliler ise, dişilerdeki çift vajinaya karşılık gelen çatallaşmış ve iki yönlü bir penis yapısına sahiptirler. Penis, sadece dişilere spermleri boşaltmak için kullanılır ve idrar yolundan ayrıdır. Keselilerde kloak, 
+Keselilerde gebelik süresi, genellikle 4 ile 5 hafta gibi çok kısa bir zamanı kapsar. Embriyo, gelişimin çok erken bir döneminde doğar ve doğduğunda genellikle 5 cm'den daha küçük bir boyuta sahiptir. Kısa gebelik döneminin, annenin bağışıklık sisteminin embriyoya saldırması riskini azaltmak için gerekli olduğu öne sürülür. 
+Yeni doğan keseli memeliler, anne karnındaki bir kesede yer alan meme ucuna tırmanarak ulaşmak için nispeten güçlü ön ayaklarını el gibi kullanırlar. Anne keseli, yavrunun emmek için ancak çok zayıf olduğu bir durumda, meme bezi üzerinde yer alan kasları kasarak yavruyu besler. Yeni doğan keseli yavruların, meme ucuna tırmanmak için ön ayaklara ihtiyaç duymaları, keselilerde ön ayakların yüzgece veya kanatlara evrilmesini engellemiş olup birkaç uçabilen planör keseli olmasına rağmen keseli canlıların, tam anlamıyla suda yaşayan ya da gerçekten uçan keseli görünümü almalarına mani olmuştur.
+Balıklar.
+Balık türlerinin büyük çoğunluğu, daha sonra dışarıda erkek tarafından döllenen yumurta bırakırlar, Bazı balık türleri, kayaların altına veya bitkilerin üzerine yumurta bırakırlarken diğer balık türleri yumurtalarını basitçe suya bırakırlar ve bu yumurtalar, su akımlarıyla sürüklenirken veya su içinde aşağıya doğru batarken döllenirler. Bazı balık türleri ise, önce iç döllenme gerçekleştirir ve daha sonra gelişmekte olan yumurtaları serbest bıraktıkları gibi bazı türler ise canlı doğum yaparlar. Canlı doğum yapan balık türleri, Lepistes ile Molly balıkları ya da diğer adıyla Poecilia'dır. Canlı doğum yapan balıklar, yumurtaları dişinin vücudu içinde gelişen, döllenen ve yine dişi içinde yumurtadan çıkan oovivipar hayvanlardır ya da denizatında olduğu gibi, bir kese içinde gelişmekte olan yavruları erkekler taşır ve canlı doğum da, erkekler tarafından yapılır. Bunun yanında balıklar, memelilerde olduğu gibi, dişilerin içeride büyüyen yavrulara besin temin ettiği vivipar bir gebelik şekline de sahip olabilir. Bazı balıklar hermafrodit ("çift cinsiyetli") olup bir birey, hem dişi hem de eril olarak aynı anda yumurta ve sperm üretebilir. Çift cinsiyetli balıklarda, bazıları aynı anda erkek ve dişi, her ikisi birden olabilecekleri gibi, bazı balıklarda ise, bir cinsiyetle başlayıp diğer cinsiyete geçme suretiyle eril ve dişi durumu değişmeli olarak da görülebilir. En azından, hermafrodit bir tür, yumurta ve sperm birlikte serbest bırakıldığında, kendi kendilerini dölleyebilirler. Kendi kendini içten dölleme bazı diğer türlerde de oluşabilir. Eşeyli üremeyen ama yavru üretmek için yine de cinsel birleşme yolundan yararlanan bir balık türü Poecilia formosa olup "uniseks" olarak tek tip bir cinsiyete sahiptir ve döllenmemiş yumurtaların embriyo olarak gelişip dişi yavrular oluşturduğu, bir partenogenez türü olan ve ginogenez denilen bir üreme şeklini kullanır. Bu döllenme şeklinde, Poecilia formosa, iç döllenme ile üreyen bir erkek veya başka balık türleriyle çiftleşir, ancak bu birleşmede yumurtalar döllenmez, sadece embriyo olacak yumurtaların büyümesi için uyarılma sağlanır. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mitoz  (EBA)</DOCTITLE>
+<TEXT>
+
+Bölünme yeteneğine sahip olan bir vücut hücresi, art arda birçok mitoz geçirebilir. Mitoz geçirecek olan hücrenin büyüyüp bölünmeye hazırlandığı evreye interfaz denir. İnterfazda hücre, sitoplazmasını ve içeriğini artırarak ve metabolizmasını hızlandırarak bölünmeye hazırlanır. Bu sırada DNA replikasyonu ile genetik materyal iki katına çıkarılır. Böylece kalıtsal madde, oluşacak iki yeni hücre için yeterli duruma getirilir. 
+İnterfazda her kromozom kendisini kopyaladığı için, bu evrenin sonunda her kromozom ikizi olan diğer kromotitle birlikte iki kardeş kromatitten oluşur; kromozomdaki iki kromatit, sentromer kısımlarından birbirine tutunmuştur (Resim 1.8). Bu evrede, hücre sitoplazmasındaki diğer organellerin sayısı da artmıştır. 
+İnterfaz tamamlandıktan sonra mitotik evre başlar. Mitotik evre; hem mitozu hem de sitoplazma bölünmesini (sitokinez) kapsar. Mitoz; profaz, metafaz, anafaz ve telofaz aşamalarından oluşur.
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üreme</DOCTITLE>
+<TEXT>
+
+Üreme, çoğalma olarak da bilinir, bir canlının neslini devam ettirmesi olayı. Büyüme ve gelişmesini tamamlayan her canlı çoğalma yeteğine sahip olur. Çoğalma yeteneğine sahip canlılar kendilerine benzer bireyler oluştururlar ve bu sayede nesillerini devam ettirmiş olurlar.
+Biyolojinin temel ilkelerinden biri "tüm canlılar kendinden önce bulunan canlılardan meydana gelir" sözüdür. Gerçekten de yaşamın temel yapısı bireylerin çoğalmasıyla gelecek döllerin oluşturulması ve genetik bilginin aktarılmasından geçer. Üremenin birimi ve taşıyıcısı hücre, türlere özgünlüğün aktarılmasını sağlayan ise kalıtım materyalidir. özellikle arılarda partenogenez diye adlandırılan üreme biçimi iki tip arı tarafından gerçekleştirilir. Kraliçe arı (2n) ve erkek arı (n) bölünmeye uğrayarak yumurta ve spermlerini birleştirir. Bunlardan birkaç yumurta erkek arıyı, birkaç yumurta kraliçe arıyı (bunlar arı sütü ile beslenir.), diğerler yumurtalar ise işçi arıları (kısır_bunlarda arı ekmeği ile beslenir.) meydana getirir. 
+Eskiden, insanlar canlı varlıkların cansız maddelerden oluştuğuna inanırlardı, örneğin, sineklerin çamurdan ya da etten, kurbağaların çamurdan oluştuğu gibi. 
+Mikroskobun bulunuşu ve mikroorganizmaların saptanması sonucu bunların kökeni ile ilgili görüşlerden biri; "abiyogenez" ("kendiliğinden oluş", Spontan Generasyon); diğeri ise "biyogenez" ("kendinden önceki bir canlıdan oluş") dur. Sonraları bir fizikçi olan Francesco Redi'nin ünlü kavanoz çalışması, açık kaptaki ette sinek kurtçuklarının oluşumu ve eti steril ettikten sonra kapalı ortamda ette hiçbir canlının kendiliğinden oluşmadığının gözlemlenmesiyle, burada gerçekleşenin abiyogenez olmadığı ortaya çıktı.
+Bir hücreli canlılarda çoğalma, vejetatif bölünmeyle birleşmiş ve bu sebeble normal vejetatif bölünme aynı zamanda yeni döller meydana getirilmesini de sağlamaktadır. Çok hücrelilerde ise; çoğalma, germinatif hücreler denen özelleşmiş dokuya indirgenmiştir. Somatik /vejetatif hücreler canlıda yapının oluşmasını, gelişmesini sağlayan ve bireyle birlikte ölen hücrelerdir.
+Canlılarda eşeyli ve eşeysiz çoğalma olmak üzere "iki" çeşit çoğalma vardır.
+Eşeysiz üreme.
+Bir canlıdan ayrılan hücre veya hücre grubundan yeni bireylerin oluşturulmasına "eşeysiz üreme" denir. Eşeysiz üremede döllenme olayı olmadığından eşeysiz üreyen canlı oluştuğu canlıya kalıtsal olarak tıpa tıp benzer. Çünkü eşeysiz üreme mitoz bölünme ile gerçekleşir. Ancak mitoz bölünmede olabilecek bir ayrılmama ve mutasyon çeşitlilik sebebidir.
+Eşeysiz üremeye canlıların büyüme bölgelerinden ayrılan hücre veya hücre grupları neden olduğu için aynı zamanda "vejatatif üreme" de denmektedir.
+Tek hücrelilerde bölünerek çoğalma.
+Tek hücreliler bölünerek ürerler. Hücre hacim olarak belirli bir büyüklüğe ulaştıktan sonra bölünerek yeni hücreler oluşturur. Bu yeni hücreler genotip bakımından ana hücrenin aynısıdır. Temeli mitoz bölünmeye dayanan en basit üreme şeklidir. Tek hücreliler ve bazı ökaryotlar bölünerek ürerler.
+Rejenerasyonla (yenilenme) çoğalma.
+Omurgasızlarda mezoderm ve mezoglea tabakası bulunur. Bu tabaka içerisinde embriyonik hücreler vardır. Bu tabakayı taşıyan canlılardan ayrılan bir parça eksik kısımları tamamlayabilmektedir. Örneğin; deniz yıldızından kopan bir kol ana gövdedeki hücreler tarafından tamamlandığı gibi ayrılan kolun içerisindeki hücrelerde koldan yeni bir gövde oluştururlar.
+Bu durum yassı solucanlarda da "(Planarya)" görülür.
+"Rejenerasyon" normalde bir çoğalma tipi değildir. Tahrip sonucu canlıdan ayrılan parçadan yeni birey oluşturulur.
+"Rejenerasyon", kelime anlamıyla yenileme demektir. Canlılardan herhangi bir nedenle ayrılan parçalardan yeni canlılar oluşabilir. Dolayısıyla rejenerasyon bu canlılar için üreme kabul edilir. Omurgalılardaki rejenerasyona bir yaranın iyileşmesi veya kertenkelenin kopan kuyruğunun yenilenmesi örnek olarak verilir. Çünkü kopan deriden yeni bir organizma, kopan kuyruktan da yeni bir kertenkele oluşmamaktadır.
+Tomurcuklanarak çoğalma.
+Bazı canlılarda tomurcuk benzeri çıkıntılar gelişir. Bu kısımlar ayrılarak yeni canlıyı oluşturur.
+"Örneğin; Hidra da bira mayasında ve süngerlerde eşeysiz üremenin bu karakteristik özelliği görülür."
+Vejatatif çoğalma.
+Bazı bitkilerden koparılan bir dal parçası, toprağa dikildiğinde yeni bitki oluşturabilir. Buna çeliklenme ile çoğalma denir. Ayrılan dal parçasının meristem tabakası yeniden kök oluşturduğundan bu parça ayrı bir fert olarak yaşayabilir. Özellikle tarımda verimliliği arttırmak, az zamanda daha çok ve daha kaliteli bitkiler yetiştirmek için kullanılan üretim metodudur.sonucu olarak yeni bir bitki meydana gelir.
+"Örneğin; kavak, çınar, meyve ağaçları, asma; ... gibi bitkiler çelikleme ile üretilir. Özellikle melez olan ve eşeyli üremeyen bitkiler bu şekilde üretilir. 
+Örneğin; Çekirdeksiz üzüm, Washington portakalı, satsuma mandalini gibi."
+Vejatatif üremeye: Soğanların rizomla (küçük kök) üremesi, çileklerin sürüncü gövde ile çoğalması ciğer otunun yapraklarından yeni ciğer otlarının oluşmasnı örnek olarak gösterebiliriz.
+Sporla çoğalma.
+Bazı canlılarda "spor" adı verilen üreme hücresinden yeni bireyler oluşturulur. Buna "sporogoni" veya "sporla üreme" denir.
+Mantarlarda sporla üreme karakteristiktir.
+Bunlara bir örnekte mikroskobik canlılardır.
+Eşeyli üreme.
+Farklı cins iki gametin birleşmesiyle yeni canlının meydana getirilmesine "eşeyli üreme" denir. "Gamet", eşey hücresi olarak tanımlanır. Bir gamet ya dişi eşey hücresidir ("yumurta") ya da erkek eşey hücresidir (polen veya sperm).
+Eşeyli üreyen canlılarda bir çift kromozom takımı bulunur. Bu takımın yarısı anneden yarısı babadan gelir. Bu takım kromozoma "haploid" veya monoploid (n) denir. (n) haploid kromozom takımı gamette bulunur.
+Bir çift kromozom takımına 2n "diploid" denir. Örneğin; insanda 2n=46 sayıda kromozom bulunur. Somatik hücreler (vücut hücreleri) 2n sayıda kromozom taşır.
+Eşeyli üreme sonucunda birbirinden farklı bireyler oluşur. Bu da populasyonlarda varyasyonu (çeşitliliği) arttırır.
+Çeşitliliğin açığa çıkmasını sağlayan faktörler;
+"Eşeyli üreme çeşitleri ;"
+"olayları sağlar. Mutasyonlar ve ayrılmama sık sık gerçekleşen olaylar değildir.
+Eşeyli üreme sonucunda fertlerin ortama uyum özelliği adaptasyon kabiliyetleri ile artar. Örneğin; Paramesyum hücreleri direnç artırmak amacıyla eşeyli üremektedirler."
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Amitoz</DOCTITLE>
+<TEXT>
+
+Sitoplazma ve çekirdek içerisinde herhangi bir değişiklik olmadan hücrenin doğrudan doğruya bölünmesine amitoz bölünme denir.
+Bakteri, amip, öglena ve kanser hücrelerinde görülür. Amip ve kanser hücrelerinde çekirdek zarı erimeden bölünme gerçekleşir. Çekirdek boğumlanarak bölünür. Amaç kısa sürede bölünmenin gerçekleşmesidir.
+Bakteride mayoz ve mitoz hücre bölünmeleri olmaz. Sadece amitoz bölünme gerçekleşir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Doku</DOCTITLE>
+<TEXT>
+
+Doku, bitki, hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu. İlkel canlılar bütün hayatları boyunca bir tek hücre olarak kaldıkları halde yüksek organizmalar çok sayıda hücrelerin biraraya gelmesi ile meydana gelmiştir. Bitkisel organizmaları meydana getiren çok sayıdaki hücrelerin protoplastları birbirinden cansız hücre çeperleriyle ayrılmış olmakla beraber aralarında sıkı bir ilişki göstermektedir. Böyle hücre çeperi içinde bulunan, birbiriyle sıkı ilişki gösteren, aynı kökenden gelmiş protoplast topluluklarına doku, dokuların özelliklerini konu eden morfoloji biliminin dalına da histoloji (doku bilimi) denir.
+Dokuyu meydana getiren hücreler genellikle aynı ödevi görmekteyseler de doku tarifinde ön görülen temel düşünce fizyolojik olmaktan çok morfolojikseldir. Eğer fizyolojiksel bakımdan dokunun tarifi yapılacak olursa, kökenleri ayrı olsa bile aynı ödevi gören hücre toplulukları olarak yapılabilir ki, böyle daha geniş anlamda hücre topluluklarına doku sistemi denilmektedir.
+Doku hücre bölünmesi sonucu meydana gelir. Tek hücreli organizmalarda bölünen hücreler birbirinden ayrılarak yeni birer birey vücuda getirdikleri halde, çok hücreli organizmalarda bölünen hücrelerden meydana gelen hücrelerin birbirinden ayrılmaması, geçit ve plasmodesma (plasmatik köprüler) gibi madde ve uyartı iletimini kolaylaştıran yapılar ile proplastları arasında sıkı ilişki kurulan hücre toplulukları bireyi meydana getirmektedir. Bazı tek hücreliler bölündükten sonra çevrelerinde meydana getirdikleri müsilaj bir kın ile bir arada tutulan hücre grupları ve bazı mantarlardaki zengin dallanma gösteren ipliksi hücrelerin bir örgü meydana getirmek üzere sık sık kümeler halinde olmaları, dış görünüş bakımından dokuyu andırsalar bile gerçek doku değil, yalancı dokulardır. 
+Dokular bitkisel ve hayvansal dokular olmak üzere ikiye ayrılarak incelenmektedir.
+Bitkisel dokular.
+Bitkilerin yapısını meydana getiren dokulara bitkisel dokular denir. İleri bitkilerin hücrelerinde dokular halinde organize olarak farklılaşmışlardır. İki temel grup halinde toplanabilirler:
+Meristem doku (Bölünür,sürekli,sürgen,değişken doku).
+Meristem hücreleri, çekirdekleri büyük hücre arası boşlukları olmayan, genellikle çok küçük ve çok sayıda vakuole malik hücrelerden yapılmıştır. Bu hücrelerin esas özelliği sık sık bölünerek(mitoz bölünmeyle) yeni hücreler meydana getirmesidir. Meydana gelen hücreler farklılaşarak sürekli doku hücreleri halini alır. Meristemler bulundukları yerlere göre isim alırlar. Kök, gövde veya bunların yan organlarının uçlarında bulunan meristem dokuları apiteal meristem adını alır. Kök veya gövdenin uzanmasını sağlarlar. İnterkalar meristemler ise sürekli dokular arasında kalan meristemlerdir. İnterkalar meristemin de görevi organın boyuna büyümesini sağlamaktır. Çevreye paralel bölünmelerle organın enine büyümesini sağlayan meristematik doku ve kambiyumdaki meristem lateral meristemdir. Herhangi bir bitkide meristem bölgesi kesilirse yerine ara meristemler görev alır.Meristemlerin salgıladığı madde olan oksin hormonu karanlık ortamda çalışarak bitkinin uzayıp gelişmesini sağlar.
+a)Primer Meristem (birincil).
+Bitkinin tüm yaşamı süresince bölünme yeteneğini devam ettiren meristemlerdir. Bunlar kök ve gövde uçları ile yanal organlarının uç kısımlarında bulunmaktadır. Bu meristemin bulunduğu bölgelere "büyüme noktaları" veya "vegetasyon bölgeleri" adı verilmektedir. Kök ve gövde de büyüme noktalarında dıştan içe doğru üç bölge ayırt edilmektedir. Bu bölgeler ise sürekli dokulardan epidermisi oluşturan "dermatogen", korteksi oluşturan "periblem", merkezi silindiri verecek olan "pleurom"dur.
+b)Sekonder Meristem (ikincil).
+Sürekli doku haline dönüşmüş hücrelerin yeniden bölünme yeteneği kazanması ile sekonder meristemler oluşur. Bunların etkenliği ile de yeni hücre ve dokular meydana gelir. Örneğin ağaç gövdelerini örten mantar kambiyumu bu tip meristemlerden birisidir. 
+Bitkilerde bulunuş yerlerine göre 3 çeşit meristem gözlenir.
+Apikal Meristemler: Bunlar kök ve gövde ile bunların yanal organlarının uç kısımlarında bulunan meristemlerdir. Apikal meristemlerin bulunduğu bölgelere "büyüme noktaları" adı verilmektedir.
+İnterkalar Meristemler: Sürekli dokular arasında kalan ve bu dokuların arasında bölünme gösteren hücrelerin oluşturduğu meristemlerdir. Bu meristemler tipik olarak at kuyrukları ve buğdaygillerin yapraklarının çıktığı bölgelerde bulunurlar.
+NOT: Apikal ve interkalar meristemler bulundukları organın boyca uzamalarını sağlarlar.
+Lateral Meristemler: bu meristemler yalnızca çevreye paralel bölünme gösterdiklerinden bulundukları organın çapça artışını
+( kalınlaşmasını ) sağlamaktadır.
+Sürekli doku (Yetkin doku).
+Bölünme özelliği göstermeyen sürekli doku hücreleri meristem hücrelerinden geniş vakuollere malik olup, daha az protoplazma taşımaları, hatta bazen büsbütün protoplastlarını kaybedip ölü hale getirmeleriyle ayrılırlar. Çeperleri kalın olup, farklı dokularda kalınlıkları ve kimyasal yapıları farklıdır. Sürekli doku, morfolojik ve fizyolojik özellikleri göz önüne alınarak sınıflandırılırsa beş kısımda incelenebilir.
+Koruyucu doku(Hücrenin Orta Bölümü yani co(eng)de bulunur mu?
+Organların dışında bulunan ve iç kısımdaki dokuları her bakımdan, mesela; kuraklığa, çok fazla su kaybına, dış tesirlere karşı koruyan dokudur. Bu dokuyu teşkil eden hücreler genellikle tabakalar halinde organların üstünü kaplamaktadır. Yapraklardaki epiderma, kök ve gövdelerin mantar tabakaları koruyucu dokuya misal olarak gösterilir. Yapraklardaki epiderma üzerinde kütin denilen mumsu bir tabaka vardır. Yaprak yüzeyinden su kaybını azaltır, ayrıca dış ortamdaki gazlar ile epiderma altındaki hücre arası boşluklarında bitkinin fizyolojik faaliyeti sonucu toplanan bazı gaz ve su buharının alış verişini sağlamak gayesiyle epidermada stoma adı verilen gözenekler bulunur. Yine epiderma üzerinde epidermanın dışa doğru meydana getirdiği tüy, kabartı gibi çıkıntılar bulunur.
+Parankima (Temel doku).
+Asıl dokular olup, bitki bünyesinin büyük bir kısmını kaplayan, ince çeperli canlı hücrelerdir. Besin maddesi bakımından zengin özsuyu ile dolu vakuoller ihtiva ederler.Bitkinin tüm bölümlerinde bulunduğu için bu ismi almıştır. Vazifelerine göre farklı isimler alırlar:
+Bataklık bitkilerinde bulunur.
+Destek doku.
+Bitkiler hem kendi ağırlıklarına, hem de dış tesirlere karşı özelliklerini koruyabilmek, dayanıklı olabilmek için bazı doku elementlerini gerekli bölgelere koyarak direnç, destek ve esneklik sağlarlar. Çeperleri fazla kalınlaşmış böyle dayanıklı hücrelerden meydana gelmiş dokuya destek doku denir. Sklerankima ve kollenkima olmak üzere iki kısımda incelenir. Sklerankimayı meydana getiren hücreler olgunlukta hücre çeperleri hem kalın hem de çoğunluk odunlaşmıştır. Protoplastlarını kaybetmiş ölü hücrelerdir. Uzaması sona ermiş organlarda bulunur. Kollenkima ise çeperleri selülozdan yapılmış olduğundan esnek, canlı hücrelerden ibaret olduğu için uzamakta olan organlarda, özellikle genç gövdelerde, yaprakların orta damarlarında, çiçek ve yaprak saplarında bulunur. Köşe kollenkiması, levha kollenkiması gibi çeşitleri vardır...
+İletim doku.
+Kara hayatına uymuş yüksek bitkilerde topraktaki su ve suda erimiş maddelerin topraktan uzak bulunan organlara asimileme (özümleme) organlarında meydana gelen organik maddelerin de kullanılmaya veya depo edilmek üzere organik madde yapma yeteneğinde olmayan, organlara iletimini sağlayan dokudur. Bitkilerde birbirinden farklı yapı ve vazifede iki tip iletken doku vardır. Bu iki dokudan biri topraktan aldığı su ve suda erimiş inorganik maddeleri topraktan uzak organlara ileten hücrelere sahip ksilem'dir. Diğeri özümleme organlarında meydana gelen organik bileşikleri harcanacakları ve saklanacakları organlara ileten hücrelerin bulunduğu floem'dir. Ksilem aşağıdan yukarı, floem yukarıdan aşağı doğru iletimin vukua geldiği dokulardır. Ksilem su ileten borular, ksilem (lif) leri ve ksilem parankimasından yapılmıştır. Floem, kalburlu borular, arkadaş hücreleri, floem sklerankiması ve floem parankiması olmak üzere farklı doku elementlerinden meydana gelir.
+Salgı doku.
+Bitkilerde metabolizma sonunda meydana gelip tekrar metabolizmaya girmeyen maddeler salgı maddeleridir. Salgı maddeleri sıvı veya katı haldedir. Salgı maddeleri arasında su, ferment, alkaloit, glikozit, balözü, müsilaj, lateks, reçine, eterik yağ ve kristaller sayılabilir. Bu maddeler her ne kadar metabolizma artığı iseler de, bitki için değişik yönlerde fayda sağlamakta rol oynarlar. Salgı maddeleri ya hücre içinde depo edilir. Böyle salgıya hücre içi salgı denir. Ya da hücreden dışarı atılır. Böyle salgı ise hücre dışı salgıyı teşkil eder. Salgı hücreleri ve bu hücrelerin bir araya gelerek meydana getirdikleri salgı bezlerinin belli bir kökeni yoktur. Bitkinin herhangi bir organında, herhangi bir doku içinde bulunabilirler.
+Hayvansal dokular.
+Hayvansal dokular beş grupta sınıflandırılarak incelenebilir:
+Epitel doku.
+Vücut yüzeyini örten ve vücut içindeki boşlukları sınırlayan devamlı bir tabaka ve örtüyü yapan hücrelerden meydana gelir. Koruma, emme, salgı ve duyu gibi ödevleri görürler. Vücudun epitel tabakası, alttaki hücreleri mekanik zarardan, zararlı kimyasal maddelerden, bakterilerden ve kurumadan korurlar. Diğer epiteller artık ürünler olarak çok çeşitli maddeler salgılarlar veya bu salgılar vücudun diğer bir yerinde kullanılır.
+Epitel dokular biçim ve fonksiyonlarına göre alt sınıflara ayrılır:
+Bağ doku.
+Mezenşimal kökenli bir doku olan bağ dokusu, tüm dokuları birbirine bağlar. Beslenmelerini, korunmalarını, dokular arası alanların dolumunu, yağın depolanmasını, kan hücrelerinin üretimini, enfeksiyonlara karşı korunmayı ve doku onarımını sağlar. Bağ dokusu zemin maddesi, hücreler ve fibrillerden oluşur. Alt sınıflara ayrılarak incelenir.
+Kan doku.
+Kan kırmızı ve beyaz kan hücrelerini ve kanın hücresel olmayan sıvı kısmını içine alır. Bu sıvıya plazma denir. Bazen bu doku bağ doku içinde de sınıflandırılır çünkü benzer hücrelerden köken alır.Kan atardamar toplardamar ve kılcal damardan oluşan damar agının içende dolaşan akıcı plazma ve hücrelerden meydana gelmiş kırmızı renkli bir hayati sıvıdır.plazmadaki fibrinojen çıkarıldığında serum kalır.Kanı santifrüjlediğimizde en altta alyuvar sonra akyuvar en üctte biraz kan pulcukları kalır ve sonra plazma kalır.Kan ile ilgili tıbbi terimler genellikle hemo ve hemoto sözcükleri ile başlar.Bu sözcükler eski Yunanca'da kan sözcügünü karşılıyan haimoden türetilmiştir.
+Sinir dokusu.
+Nöron denen hücrelerden yapılmıştır. Bunlar, elektrokimyasal sinir impulslarını iletmek için özelleşmişlerdir. Her hücre çekirdeği ihtiva eden genişlemiş bir hücre gövdesine ve hücreden uzanan saça benzer bir veya daha çok ince sinir liflerine sahiptir. Sinir lifleri stoplazma (hücre plazması)dan yapılmış ve plazma zarıyla örtülmüştür. Bu zarın kalınlığı 30-40 mikron, uzunluğu ise 1-2 milimetreden 1 metreye kadar uzunluklarda değişebilir. İnsanda omurilikten kola veya bacağa uzananlar 1 metre veya daha uzun olabilirler.
+İki tip sinir lifi vardır: "Akson" ve " Dendritler". Bunlar sinir impulsunu normal olarak ilettikleri yöne dayanılarak ayırt edilir. Aksonlar sinir impulslarını hücre vücudundan uzağa, dendritler hücre vücuduna doğru iletirler. Bir nöronun aksonu ile ötekinin dendritinin kesiştiği yere sinaps denilir. Sinaps impulsün geriye akışını önleyen bir valf olarak hizmet görür.sinir hücrelerinin gövdeleri MSS de gri cevher ve çekirdeklerde PSS de ganglionlarda yerleşiktir.Sinir hücrelerinin uzantıları ise ak cevheri oluşturur...
+Üreme dokusu.
+Dişilerde yumurta hücreleri ve erkeklerde spermleri üretmek üzere değişime uğramış hücrelerden meydana gelen dokuya denir. Yumurta hücreleri çoğunluk yuvarlak veya oval ve hareketsizdirler. Sperm hücreleri yumurta hücrelerinden daha küçüktür. Stoplazmalarının çoğunu kaybetmiş olup bir kuyruk geliştirmişlerdir ki bununla hareket sağlanır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Embriyonik gelişim</DOCTITLE>
+<TEXT>
+
+Embriyonik gelişim, eşeyli üreyen canlılarda görülen ve canlının, döllenme ile doğumu ya da yumurta veya kozadan çıkmasına kadar geçen süredeki gelişimi. Embriyonik gelişimin safhaları ve yeri canlıdan canlıya farklılık göstermekle birlikte, bu süreç genelde annenin veya annenin ürettiği bir yapı koruyuculuğunda geçer.
+Hayvanlardaki embriyonik gelişimde 4 aşama görülür:
+Döllenme.
+Bu aşamada alışılmışın dışında bir büyüklüğe sahip zigot, kendi genomunun aynısını taşıyan daha kücük hücreler üretmek amacıyla üstüste mitoz hücre bölünmelerini gerçekleştirir. Ancak ilk anda zigotun kendi genleri aktif durumda değildir (bkz: yazılım (biyoloji)). Bölünme, halen annenin daha önceden zigota döllenmemiş yumurta aracılığıyla verdiği proteinler ve haberci RNAlar (mRNA) aracılığıyla yine annenin genomunun kontrolündedir. Bölünme dönemi, blastosöl oluşumu ile sona erer. 
+Biçim.
+Bu aşamada, önceden bölünmüş hücreler mekansal değişimlerle kendilerini hücre kümeleri ve tabakaları haline getirir. Bu olaya gastrulasyon denir. Şekillenme sonrası hayvanlarda 4 düzlem meydana gelir:
+Bu aşamada hücre katmanlarında değişim (differentiation) görülmezken, proteinlerin ve mRNAların hücreler arasında eşitsiz dağılımı sonucunda, ileride hangi hücrenin hangi hücre tipi olacağı belli olur. Bu olaya "kader belirlenmesi" (fate determination) denir. 
+Gastrulasyon, 3 eşey zarını oluşturur (germ layer). Bunlar;
+Gastrula aşamasında, zigot artık kendi genlerini aktif hale getirir. Bu etkinliğe "orta-blastosöl geçişi" (mid-blastula transition) denir.
+Küçülme.
+Zamanla embriyodaki hücreler, yetişkin canlıdaki hücre tiplerini oluştururlar. Bu olaya değişim (differentiation) denir. Bu hücre tiplerinden bazıları; sinir hücreleri, kan hücreleri ve kas hücreleridir. Bu hücreler tabakalar halinde dokuları, dokular organları, organlar da sistemleri oluştururlar.ektodermden duyu organları ,diş minesi ,saç,tırnak ve sinir sistemi oluşur.
+Değişmeme.
+Tüm sistemler oluştuktan sonra, hayvanların büyük bir kısmı gelişim safhasına girer. Gelişim, yeni hücrelerin ve hücreler arası sıvıların oluşmasıyla gerçekleşir.
+
+</TEXT>
+</DOC>
+

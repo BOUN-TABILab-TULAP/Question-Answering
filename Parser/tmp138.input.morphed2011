@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kuzey	Kuzey	+Noun+Prop+A3sg+Pnon+Nom
+Kuzey	kuzey	+Noun+A3sg+Pnon+Nom
+Kuzey	kuzey	+Adj
+
+Anadolu	Anadol	+Noun+Prop+A3sg+P3sg+Nom
+Anadolu	Anadolu	+Noun+Prop+A3sg+Pnon+Nom
+
+fay	fay	+Noun+A3sg+Pnon+Nom
+
+kuşağının	kuşak+Noun+A3sg+P3sg+Gen
+kuşağının	kuşak+Noun+A3sg+P2sg+Gen
+
+yapısı	yapı+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+yapısı	yapı+Noun+A3sg+P3sg+Nom
+
+nasıldır	nasıl+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

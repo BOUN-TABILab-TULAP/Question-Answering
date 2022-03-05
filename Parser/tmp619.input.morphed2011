@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bitkilerde	bitki	+Noun+A3pl+Pnon+Loc
+
+görülen	gör+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+travmatropizma	travmatropizma	+Noun+Prop+A3sg+Pnon+Nom
+
+hareketi	hareket	+Noun+A3sg+P3sg+Nom
+hareketi	hareket	+Noun+A3sg+Pnon+Acc
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+gerçekleşmektedir	gerçek+Adj^DB+Verb+Become+Pos+Prog2+A3sg+Cop
+gerçekleşmektedir	gerçek+Adj^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+gerçekleşmektedir	gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Prog2+A3sg+Cop
+gerçekleşmektedir	gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

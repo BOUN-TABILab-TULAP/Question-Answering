@@ -1,0 +1,10 @@
+1	Antik	antik	Adj	Adj	_	2	MODIFIER	_	_
+2	çağın	çağ	Noun	Noun	A3sg|Pnon|Gen	8	POSSESSOR	_	_
+3	en	en	Adv	Adv	_	4	MODIFIER	_	_
+4	ünlü	ünlü	Noun	Noun	A3sg|Pnon|Nom	8	MODIFIER	_	_
+5	deniz	deniz	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	feneri	fener	Noun	Noun	A3sg|P3sg|Nom	8	SUBJECT	_	_
+7	_	hangi	Pron	QuesP	A3sg|P3sg|Nom	8	DERIV	_	_
+8	hangisidir	_	Verb	Zero	Pres|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

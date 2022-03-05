@@ -1,0 +1,45 @@
+Hata difüzyon
+Hata Düzeltme nicemleme bakiye henüz işlenmemiş olan, komşu piksellere dağıtıldığı tonlama türüdür. Diğer uygulamalara sahip olsa da ana kullanım, ikili görüntü içine bir çoklu-seviye görüntü dönüştürülmesidir.
+Algoritma, bir yeri etkiler de ne diğer yerlerde de ne çünkü diğer birçok yarı tonlama yöntemlerinin aksine, hata difüzyon, alan çalışması olarak sınıflandırılır. Bu tamponlama gereklidir anlamına gelir ve paralel işleme zorlaştırmaktadır. Böyle sipariş taklidi olarak nokta operasyonları, bu komplikasyonlar yok.
+Hata difüzyon görüntüdeki kenarları geliştirmek için eğilimi vardır. Bu, diğer yarı tonlama teknikleri daha görüntülerdeki metin daha okunabilir yapabilirsiniz.
+Erken tarih.
+Richard Howland Ranger kendi icadı, Amerika Birleşik Devletleri patent 1790723 aldı "Faks sistemi." 1931 yılında yayınlanan patent, telefon ya da telgraf hatları üzerinden, ya da radyo görüntüleri iletmek için bir sistemi açıklamaktadır. Ranger'ın buluş sürekli tonlu fotoğraflar siyah ve beyaz, daha sonra bir kağıt parçası üzerinde hareket eden bir kalem vardı uzak yerlerde, iletilen içine ilk dönüştürülebilir izin. Siyah kılmak için, kalem kağıda düşürülmüştür; beyaz üretmek, kalem yükseltildi. Gri tonları aralıklı yükseltilmesi ve düşürülmesi kalem, istenen gri parlaklığına bağlı tarafından verilen bulundu.
+Ranger'ın Buluş ücretleri depolamak için kapasitörler kullanılır ve vakum tüp karşılaştırıcı mevcut parlaklık artı birikmiş hata bir eşiğin üzerinde iken (kalem yükseltilmiş olması neden) veya altında (kalem indirdi neden) belirlemek için. Bu anlamda, hata difüzyon analog versiyonu oldu.
+Dijital çağ girin.
+Floyd ve Steinberg, basit bir çekirdeği üzerine dayalı dijital görüntülerde hata difüzyon gerçekleştirmek için bir sistem tarif:
+"formula_2" zaten işlendikten geçerli satırda bir pikseli ifade etmektedir (dolayısıyla anlamsız olacağını hatayı difüzyon) ve "#" piksel şu anda işleniyor gösterir.
+Neredeyse aynı anda, JF Jarvis, CN Judice ve Bell Labs WH Ninke daha büyük bir çekirdek kullanıyor ", ortalama hata minimize" Onlar olarak adlandırılan benzer bir yöntem ifşa:
+Algoritma açıklaması.
+Hata difüzyon monokrom veya renkli görüntü alır ve niceleme seviyelerinin sayısını azaltır. Hata difüzyon popüler bir uygulama kanal başına sadece iki niceleme devletlerin sayısını azaltarak içerir. Bu tür siyah-beyaz lazer yazıcılar gibi ikili yazıcılarda baskı için görüntü uygun hale getirir.
+Takıp eden tartışmada, aksi belirtilmediği sürece bir hata dağınık görüntüde nicemleme durumlarının sayısı, kanal başına iki olduğu varsayılmıştır.
+Tek boyutlu bir hata difüzyon.
+algoritma basit şekli Görüntüyü bir defada bir satır ve bir defada bir piksel tarar.
+Mevcut piksel yarım gri değeri ile karşılaştırılır. Bu değerin üstünde ise bir beyaz piksel çıkan görüntü oluşturulur.
+Piksel yarım parlaklığı altında ise, siyah bir piksel oluşturulur.
+oluşturulan piksel ya tam parlak veya siyah dolu, bu nedenle görüntüde bir hata var.
+Hata daha sonra görüntünün bir sonraki piksel ve işlem tekrarlanır ilave edilir.
+İki boyutlu bir hata difüzyon.
+Tek boyutlu bir hata difüzyon farklı olarak dikey çizgiler sırıtmak şiddetli görüntü eserler sahip olma eğilimindedir.
+İki boyutlu bir hata difüzyon görsel eserler azaltır.
+Yarım hata sonraki piksel eklenir dışında basit algoritma, tam bir boyutlu hata difüzyon gibi, ve hata dörtte biri aşağıda sonraki satırda piksel eklenir ve hata dörtte biri piksel eklenir Bir sonraki altındaki satırda ve ileri bir piksel üzerinde.
+Çekirdek ise:
+"#" pikseli ifade etmektedir şu anda işleniyor.
+Daha fazla arıtma "dijital çağ gir" yukarıda verilen matris içinde olduğu gibi, daha uzağa geçerli pikselden hatayı dağıtarak bulunabilmektedir. Bu yazıya başlangıcında örnek görüntü, iki boyutlu bir hata difüzyon bir örnektir.
+Renk hata difüzyon.
+Aynı algoritmalar, kırmızı, yeşil ve mavi her birine tatbik edilebilir (ya da mavi kırmızı, sarı, siyah) renkli görüntünün kanalları gibi sadece tek renk değerlerini yazdırabilirsiniz renkli lazer yazıcılar gibi yazıcılarda bir renk efekti elde etmek için .
+Ancak, daha iyi görsel sonuçlar ilk hata difüzyon için daha yüksek bir ağırlık hafiflik kanala verilecek ve böylece renk kanalına göre, hafiflik, ton ve doygunluk kanallarını ayıracak bir algı renk modeline renk kanalları dönüştürerek elde edilebilir . Bu dönüşüm için motivasyon daha iyi insan görme küçük aynı bölgede tonu benzer farklılıklar daha küçük yerel alanlarda hafiflik farklılıklarını, ve aynı alanda doygunluk daha benzer daha farkları algılıyor olması.
+Temsil edilemez yeşil kanal küçük bir hata, aynı durumda kırmızı kanalda başka bir küçük hata varsa Örneğin, bu iki hataların düzgün ağırlıklı toplamı olduğunu, bir algılanabilir hafiflik hatası ayarlamak için kullanılıyor olabilir yeşil kanal dönüştürürken bu tonu için büyük bir hata üretir bile (hafifliği kendi istatistiki katkısı göre) her üç renk kanalları arasında dengeli bir şekilde temsil edilebilir. Bu hata komşu piksel yayılmış olacaktır.
+Insan vizyonu ile doğrusal ölçeklendirme yoksa o hata difüzyon nihai renk kanalları hesaplamadan önce, bu gama-düzeltilmiş lineer kanallara doğrusal birikmiş olabilir Buna ek olarak, gama düzeltme, bu algısal kanalların her biri üzerinde gerekli olabilir Yeni kalıntı hata bilgisayarlı ve tekrar dönüştürülür yerli olmayan gama-düzeltilmiş görüntü formatına ve hangi ters dönüşüm kullanarak yuvarlak piksel renkleri, sonraki piksel dağıtılmak üzere.
+Ayrıca, bağlı renk modelleri arasında sayısal dönüşüm (Bu dönüşüm doğrusal değildir ya da olmayan bir tamsayı ağırlıkları kullanır özellikle eğer varsa), ek bir yuvarlama hatalar meydana gelebilir sırasında hassas sınırlamalarına hata payı içinde dikkate alınması gerektiği not edilmelidir.
+Birkaç gri seviyeleri ile hata difüzyon.
+Hata Düzeltme, aynı zamanda (renkli görüntüler durumunda, kanal başına) ikiden fazla seviyeleri ile çıkış görüntüleri üretmek için kullanılabilir. Bu, kompakt mobil telefonlar elektrostatik yazıcılar ve görüntüler her görüntü düzleminde 4, 8, ya da 16 seviyeleri de üretebilir görüntüler ve yazıcılar uygulama vardır. Dijital çıktı üretmek için tek bir eşik kullanmak yerine, en yakın izin seviyesi belirlenir ve yukarıda tarif edildiği gibi bir hata varsa, yayılır.
+Yazıcı hususlar.
+Ve hafiflik (birim alan başına nokta) nokta frekansa tam bire bir ilişki yoktur bu yüzden çoğu yazıcılar biraz siyah noktalar örtüşüyor. Ton ölçekli doğrusallaştırma doğru bakmak için yazdırılan görüntüyü elde etmek için kaynak görüntüye uygulanabilir.
+Hafiflik korunması karşısında Kenar geliştirme.
+Bir görüntü ışıktan karanlık bir geçiş olduğunda hata difüzyon algoritması eğilimi
+Bir sonraki üretilen piksel siyah yapmak. Işık geçişler Dark yanındaki yol eğilimindedir
+oluşturulan piksel beyaz olmak. Bu gri seviye pahasına bir kenar geliştirme etkiye neden
+üreme doğruluğu. Bu daha yüksek görünür çözünürlüğe sahip hata difüzyon ile sonuçlanır
+yarım ton yöntemleri. Bu tür tipik faks olarak onları metin ile görüntüleri ile özellikle yararlıdır.
+Bu etki, bu makalenin üstündeki resimde oldukça iyi gösterir. Çim detay ve işareti metin de, korunur
+ve gökyüzünde hafiflik, küçük ayrıntılar içeren. Aynı çözünürlükte bir küme nokta yarım ton görüntü çok daha az keskin olurdu.

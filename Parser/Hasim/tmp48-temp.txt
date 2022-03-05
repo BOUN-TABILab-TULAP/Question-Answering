@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bitkilerin bitki+Noun+A3pl+Pnon+Gen bitki+Noun+A3pl+P2sg+Nom
+toprak toprak+Noun+A3sg+Pnon+Nom
+üstü üs+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg üst+Noun+A3sg+P3sg+Nom üst+Noun+A3sg+Pnon+Acc
+organ organ+Noun+A3sg+Pnon+Nom
+sistemine sistem+Noun+A3sg+P2sg+Dat sistem+Noun+A3sg+P3sg+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilmektedir ver+Verb^DB+Verb+Pass+Pos+Prog2+A3sg+Cop ver+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

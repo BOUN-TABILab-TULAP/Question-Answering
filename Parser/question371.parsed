@@ -1,0 +1,15 @@
+1	Bir	bir	Det	Det	_	2	DETERMINER	_	_
+2	karakter	karakter	Noun	Noun	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	için	için	Postp	Postp	PCNom	13	MODIFIER	_	_
+4	aynı	aynı	Adj	Adj	_	5	MODIFIER	_	_
+5	alel	alel	Noun	Noun	A3sg|Pnon|Nom	6	CLASSIFIER	_	_
+6	genleri	gen	Noun	Noun	A3pl|P3sg|Nom	8	OBJECT	_	_
+7	_	taşı	Verb	Verb	Pos	8	DERIV	_	_
+8	taşıyan	_	Adj	APresPart	_	9	MODIFIER	_	_
+9	bireylere	birey	Noun	Noun	A3pl|Pnon|Dat	13	DATIVE.ADJUNCT	_	_
+10	ne	ne	Adj	Adj	_	11	MODIFIER	_	_
+11	ad	ad	Noun	Noun	A3sg|Pnon|Nom	13	SUBJECT	_	_
+12	_	ver	Verb	Verb	_	13	DERIV	_	_
+13	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	14	SENTENCE	_	_
+14	.	.	Punc	Punc	_	0	ROOT	_	_
+

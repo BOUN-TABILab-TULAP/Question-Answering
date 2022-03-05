@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Türkiyenin	Türkiyenin	+Noun+Prop+A3sg+Pnon+Nom
+
+en	en	+Adverb
+en	en	+Noun+A3sg+Pnon+Nom
+
+geniş	geniş+Adj
+
+ili	il	+Noun+A3sg+Pnon+Acc
+ili	il	+Noun+A3sg+P3sg+Nom
+
+neresi	nere	+Pron+Ques+A3sg+P3sg+Nom
+neresi	nere	+Pron+Ques+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

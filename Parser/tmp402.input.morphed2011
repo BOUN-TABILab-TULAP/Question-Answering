@@ -1,0 +1,84 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Bitki	bitki	+Noun+A3sg+Pnon+Nom
+
+ve	ve	+Conj
+
+hayvan	hayvan	+Noun+A3sg+Pnon+Nom
+hayvan	hayvan	+Adj
+
+türlerinin	tür+Noun+A3pl+P3sg+Gen
+türlerinin	tür+Noun+A3pl+P2sg+Gen
+türlerinin	tür+Noun+A3pl+P3pl+Gen
+türlerinin	tür+Noun+A3sg+P3pl+Gen
+
+geçmişte	geç+Verb+Pos^DB+Adj+NarrPart^DB+Noun+Zero+A3sg+Pnon+Loc
+geçmişte	geçmiş+Noun+A3sg+Pnon+Loc
+
+ve	ve	+Conj
+
+günümüzdeki	gün+Noun+A3sg+P1pl+Loc^DB+Adj+Rel
+günümüzdeki	günü+Noun+A3sg+P1pl+Loc^DB+Adj+Rel
+
+dağılışını	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Acc
+dağılışını	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Acc
+
+inceleyen	incele	+Verb+Pos^DB+Adj+PresPart
+
+organizmaların	organizma	+Noun+A3pl+Pnon+Gen
+organizmaların	organizma	+Noun+A3pl+P2sg+Nom
+
+coğrafik	coğrafik	+Noun+Prop+A3sg+Pnon+Nom
+
+dağılışını	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Acc
+dağılışını	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Acc
+
+bu	bu	+Det
+bu	bu	+Pron+Demons+A3sg+Pnon+Nom
+
+dağılışın	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Nom
+dağılışın	dağıl+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Gen
+dağılışın	dağıl+Verb^DB+Verb+Recip+Pos+Imp+A2pl
+
+hangi	hangi	+Adj
+
+faktörler	faktör+Noun+A3pl+Pnon+Nom
+faktörler	faktör+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+tarafından	taraf	+Noun+A3sg+P3sg+Abl
+tarafından	taraf	+Noun+A3sg+P2sg+Abl
+
+sınırlandırıldığını	sınır+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Acc
+sınırlandırıldığını	sınır+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P2sg+Acc
+
+inceleyen	incele	+Verb+Pos^DB+Adj+PresPart
+
+bilim	bilim	+Noun+A3sg+Pnon+Nom
+
+dalı	dal	+Noun+A3sg+P3sg+Nom
+dalı	dal	+Noun+A3sg+Pnon+Acc
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

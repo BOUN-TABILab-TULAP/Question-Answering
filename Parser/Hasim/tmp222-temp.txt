@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kıyıya kıyı+Noun+A3sg+Pnon+Dat
+paralel paralel+Adj
+uzanan uza+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart uzan+Verb+Pos^DB+Adj+PresPart
+dağlar dağ+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl dağ+Noun+A3pl+Pnon+Nom dağla+Verb+Pos+Aor+A3sg dağla+Verb+Pos^DB+Adj+AorPart
+o o+Det o+Noun+A3sg+Pnon+Nom o+Pron+Demons+A3sg+Pnon+Nom o+Pron+Pers+A3sg+Pnon+Nom
+yörede yöre+Noun+A3sg+Pnon+Loc
+iklimi iklim+Noun+A3sg+Pnon+Acc iklim+Noun+A3sg+P3sg+Nom
+nasıl nasıl+Adverb nasıl+Adj
+etkiler etki+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl etki+Noun+A3pl+Pnon+Nom etkile+Verb+Pos+Aor+A3sg etkile+Verb+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

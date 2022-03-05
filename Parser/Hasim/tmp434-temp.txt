@@ -1,0 +1,26 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kulak Kulak+Noun+Prop+A3sg+Pnon+Nom kulak+Noun+A3sg+Pnon+Nom
+kepçesi kepçe+Noun+A3sg+P3sg+Nom kepçe+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+kulak kulak+Noun+A3sg+Pnon+Nom
+yolu yol+Noun+A3sg+P3sg+Nom yol+Noun+A3sg+Pnon+Acc
+östaki östaki+Noun+A3sg+Pnon+Nom
+borusu boru+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike boru+Noun+A3sg+P3sg+Nom
+ve ve+Conj
+epiglotis epiglotis+Noun+Prop+A3sg+Pnon+Nom
+yapısındaki yapı+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+kıkırdak kıkırdak+Noun+A3sg+Pnon+Nom
+hangi hangi+Adj
+kıkırdak kıkırdak+Noun+A3sg+Pnon+Nom
+türüne tür+Noun+A3sg+P3sg+Dat tür+Noun+A3sg+P2sg+Dat
+örnektir örnek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

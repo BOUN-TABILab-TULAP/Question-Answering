@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gerçek gerçek+Adj gerçek+Noun+A3sg+Pnon+Nom Gerçek+Noun+Prop+A3sg+Pnon+Nom
+sıcaklık sıcak+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+indirgenmiş indirge+Verb^DB+Verb+Pass+Pos+Narr+A3sg indirge+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart indirgen+Adj^DB+Verb+Zero+Narr+A3sg
+sıcaklık sıcak+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
+arasında ara+Noun+A3sg+P3sg+Loc
+nasıl nasıl+Adverb nasıl+Adj
+farklar fark+Noun+A3pl+Pnon+Nom fark+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+vardır var+Adj^DB+Verb+Zero+Pres+A3sg+Cop var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

@@ -1,0 +1,102 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Ülkemizin yüzde kaçı ormanlarla kaplıdır</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(7710, {label: "Yıllık",nodeclass: "type-TK"});
+ g.addNode(7711, {label: "yağ",nodeclass: "type-TK"});
+ g.addNode(7712, {label: "yağış",nodeclass: "type-TK"});
+ g.addNode(7713, {label: "miktarının",nodeclass: "type-TK"});
+ g.addNode(7714, {label: "az",nodeclass: "type-TK"});
+ g.addNode(7715, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(7716, {label: "olduğu",nodeclass: "type-TK"});
+ g.addNode(7717, {label: "kireç",nodeclass: "type-TK"});
+ g.addNode(7718, {label: "kireçli",nodeclass: "type-TK"});
+ g.addNode(7719, {label: "topraklara",nodeclass: "type-TK"});
+ g.addNode(7720, {label: "ne",nodeclass: "type-TK"});
+ g.addNode(7721, {label: "ad",nodeclass: "type-TK"});
+ g.addNode(7722, {label: "ver",nodeclass: "type-TK"});
+ g.addNode(7723, {label: "verilir",nodeclass: "type-TK"});
+ g.addNode(7724, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,7710,7711,{label: "NESNE"});
+ g.addEdge(null,7711,7712,{label: "TÜREME"});
+ g.addEdge(null,7712,7713,{label: "B.SİZ İSİM TAM."});
+ g.addEdge(null,7713,7715,{label: "ÖZNE"});
+ g.addEdge(null,7714,7715,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7715,7716,{label: "TÜREME"});
+ g.addEdge(null,7716,7719,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7717,7718,{label: "TÜREME"});
+ g.addEdge(null,7718,7719,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7719,7723,{label: "E HALİ YÖNELME"});
+ g.addEdge(null,7720,7721,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7721,7723,{label: "ÖZNE"});
+ g.addEdge(null,7722,7723,{label: "TÜREME"});
+ g.addEdge(null,7723,7724,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

@@ -1,0 +1,20 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Nüfus nüfus+Noun+A3sg+Pnon+Nom
+artış art+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+hızı hız+Noun+A3sg+P3sg+Nom hız+Noun+A3sg+Pnon+Acc
+en en+Adverb en+Noun+A3sg+Pnon+Nom
+fazla faz+Noun+A3sg+Pnon+Ins fazla+Adverb fazla+Adj fazla+Postp+PCAbl
+olan ol+Verb+Pos^DB+Adj+PresPart
+kıta kıt+Noun+A3sg+Pnon+Dat kıta+Noun+A3sg+Pnon+Nom
+hangisidir hangi+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

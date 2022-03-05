@@ -1,0 +1,80 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Memelilerin	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom
+Memelilerin	meme	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen
+Memelilerin	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen
+Memelilerin	Meme	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom
+Memelilerin	memeli	+Adj^DB+Noun+Zero+A3pl+P2sg+Nom
+Memelilerin	memeli	+Adj^DB+Noun+Zero+A3pl+Pnon+Gen
+Memelilerin	memeliler	+Noun+A3pl+Pnon+Gen
+Memelilerin	memeliler	+Noun+A3pl+P2sg+Nom
+
+akciğerlerinin	akciğer+Noun+A3pl+P3sg+Gen
+akciğerlerinin	akciğer+Noun+A3pl+P2sg+Gen
+akciğerlerinin	akciğer+Noun+A3pl+P3pl+Gen
+akciğerlerinin	akciğer+Noun+A3sg+P3pl+Gen
+
+içinde	iç+Noun+A3sg+P2sg+Loc
+içinde	iç+Noun+A3sg+P3sg+Loc
+
+bulunan	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+bulunan	bulun	+Verb+Pos^DB+Adj+PresPart
+
+kılcal	kılcal+Adj
+
+damarlardaki	damar	+Noun+A3pl+Pnon+Loc^DB+Adj+Rel
+
+karbon	karbon	+Noun+A3sg+Pnon+Nom
+
+dioksidi	dioksidi	+Noun+Prop+A3sg+Pnon+Nom
+
+alıp	al	+Verb+Pos^DB+Adverb+AfterDoingSo
+
+oksijeni	oksijen	+Noun+A3sg+Pnon+Acc
+oksijeni	oksijen	+Noun+A3sg+P3sg+Nom
+
+vererek	ver	+Verb+Pos^DB+Adverb+ByDoingSo
+
+gaz	gaz	+Noun+A3sg+Pnon+Nom
+
+alış	al	+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+alış	alış+Verb+Pos+Imp+A2sg
+
+verişini	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Acc
+verişini	ver	+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Acc
+
+gerçekleştiren	gerçek+Adj^DB+Verb+Become^DB+Verb+Caus+Pos^DB+Adj+PresPart
+gerçekleştiren	gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become^DB+Verb+Caus+Pos^DB+Adj+PresPart
+
+yapıya	yapı+Noun+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+denir	de	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+denir	de	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,179 @@
+Question: Aktin ve miyozin iplikçiklerin bulunduğu, koyu renkli görünen banda ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miyofibril</DOCTITLE>
+<TEXT>
+
+Miyofibriller kas dokuda bulunan ve kas dokunun en önemli özelliği olan kasıp gevşemeyi sağlayan protein iplikçiklerdir. Çizgili (iskelet) kası ve kalp kasında düzgün diziliminden dolayı bu kaslar mikroskop altında çizgili görünürler.
+Yapısı.
+Miyofibrillerin filamentleri, yani miyoflamentler, iki tipten oluşur: kalın ve ince.
+Aktin ve miyozinden oluşan protein kompleksine zaman zaman "aktomiyozin" de denir.
+Çizgili kasta aktin ve miyozin filamentlerinin her biri belirli ve sabit, birkaç mikrometrelik bir uzunluğa sahiptir ki bu uzatılmış bir kas hücresinin uzunluğundan (örneğin insan iskelet kası hücrelerinde birkaç milimetrelik) çok daha küçüktür. Filamentler tekrar eden alt-birimler şeklinde miyofibril boyunca yer alırlar. Bu alt-birimlere sarkomer denir. Kas hücresi, hücrenin uzun ekseninde birbirine paralel olarak giden miyofibrillerle -neredeyse- doludur. Bir miyofibril sarkomerik alt-birimleri, bir sonraki miyofibrilinkilerle neredeyse mükemmel bir şekilde hizalanmıştır. Bu hizalanma hücrenin çizgili görünmesine yol açan belirli optik özelliklere neden olur. Düz kas hücrelerinde bu hizalanma yer almaz; böylece de çizgili bir görü.
+Sarkomerin çeşitli alt-bölgelerinin isimleri bu bölgelerin ışık mikroskopu altındaki birbirine oranla daha açık veya daha koyu görünümlerinden gelir. Her sarkomer iki çok koyu renkli bantlarla (çizgilerle) ile sınırlandırılmıştır; bunlara Z diski veya Z bandı denir. İsim Almanca "arasında" anlamına gelen "zwischen" sözcüğünden gelmektedir. Z diskleri yoğun protein diskleridir ve ışığı kolayca geçirmezler. Bu Z disklerinin arasındaki alan da ayrıca her ucundan iki daha açık renkli banda bölünür ve bunlara da I bandı denir. Ayrıca ortada bulunan ve daha koyu, grimsi renkte olan banda da A bandı adı verilir. 
+Sarkormerin I bandlarının bulunduğu bölümü başlıca ince aktin filamentlerini içerir ve bunların küçük çapları da aralarından ışığın geçmesine olanak tanır; bu sebeple I bandları daha açık renkli gözükmektedir. Oysa A bandı başlıca miyozin filamentlerini içerir ve bunların büyük çapları ışığın geçmesini kısıtlar. Bu iki band isimlerini ışıkla ilgili özelliklerinden almıştırlar: A bandı "anizotrop" , I bandı ise "izotrop"tur.
+A bandının I bandlarına dayanan kısımları hem aktin hem de miyozin filamentlerini barındırır. Yine A bandında yer alan, nispeten daha parlak orta bölgeye H bandı (veya H bölgesi) denmektedir. İsmini Almanca "parlak" anlamına gelen "helle" sözcüğünden alan bu bandda, kasın gevşemede olduğu durumda, aktin-miyozin çakışması bulunmaz. Son olarak A bandı ortadan ikiye koyu, merkezi bir çizgi ile bölünür ve bu çizgiye M bandı (veya M hattı) denir ki bu band da ismini Almanca "orta" anlamına gelen "mittel" sözcüğünden almaktadır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aktin</DOCTITLE>
+<TEXT>
+
+Aktin, yuvarlak şekilli, yapısal bir protein. Heliks şeklinde polimerize olarak mikrofilament olarak da bilinen aktin filamentlerini oluşturur. Aktin filamentleri "hücresel iskeleti" oluşturur- ökaryotik hücrelerde, üç boyutlu, hücreyi boydan boya saran ağ. Aktin filamentleri hücreye mekanik destek sağlar, hücrenin şeklini belirler, hücrenin hareket etmesine olanak sağlar (aktinden oluşan lamellipodia, filopodia ve pseudopodia gibi yapılar aracılığıyla); bazı tip hücrelerarası bariyerlerin oluşumunda, sitoplazma akıntısında ve hücre bölünmesi sırasında hücrenin ekvatorunda boğum oluşmasında rol alırlar. Kas hücrelerinde, myosin adlı proteinle birlikte, kasılma eyleminin gerçekleştirilmesinde asli bir rol alırlar. 
+Hücre sitoplazmasinda aktin genellikle ATP'ye bağlı olarak bulunur, ama ADP'ye bağlanması da mümkündür. ATP-aktin kompleksleri aktin filamenti oluşumunda daha hızlı polimerize olurken daha yavaş depolimerize olurlar. ADP-aktin kompleksleri için durum tam tersidir. 
+Aktin ökaryotik hücrelerdeki en yaygın olarak bulunan proteinlerden biridir ve hücre içi konsantrasyonu genelde 100 µM'dan fazladır. Aktin, evrimsel olarak, türler arasında en iyi korunmuş proteinlerden biridir. Alg ve insan hücresindeki aktin proteinler aminoasit içeriği ve dizilimi açısından birbirlerinden %5'ten daha az farklılık göstermektedirler.
+Tarihçe.
+Aktin ilk kez 1887 yılında W.D. Halliburton tarafından deneysel olarak incelenmiştir. Halliburton kastan miyozin preparatlarını pıhtılaştıran bir protein izole etmiş, buna "miyozin-fermenti" adını vermiştir. Bununla birlikte Halliburton bulgularını daha ileri bir şekilde tanımlayamamış, bu sebeple de aktinin keşfi genellikle onun yerine Macaristan'nın Szeged Üniversitesi'ndeki Albert Szent-Györgyi'nin laboratuvarında çalışan genç biyokimyacı Brúnó F. Straub'a ithaf edilmiştir. 
+1942'de Straub kas proteini çıkarmak için yeni bir teknik geliştirmiş ve bu teknik onun önemli miktarda nispeten saf aktin çıkarabilmesine olanak sağlamıştır. Straub'un kullandığı metod temelde bugün laboratuvarlarda kullanılan metodla aynıdır. Szent-Gyorgyi daha önceden yavaş kas ekstraksiyonları tarafından üretilen miyozinin daha viskoz formunu 'aktifleştirilmiş' miyozin olarak tanımlamıştı ve Straub'un proteini bu aktifleştirici etkinin kaynağı olduğu için 'aktin' olarak anılmıştı. II. Dünya Savaşı sebebiyle Szent-Gyorgyi ve Straub'un çalışmalarını Batılı bilimsel jurnallerde yayımlamaları mümkün değildi ve husus Batıda ancak 1945 yılında, "Acta Physiologica Scandinavica"'ya ek olarak basıldığında tanındı.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çizgili kas</DOCTITLE>
+<TEXT>
+
+Çizgili kas hücresi, kırmızı kas hücresi olarak da bilinir. Miyozin ve aktin proteinleri içerir. Kasılma, bu moleküllerin bir biri üzerinde kaymasıyla gerçekleşir. İsteğe bağlı olarak hareket etmemizi sağlar. 
+ Kas Hücresi SARKOLEMMA adı verilen hücre zarı ile çevrilidir. Her kas hücresi ayrıca ENDOMİSYUM denen konnektif doku ile sarılıdır. Lif demetleri (kas demetleri) bir araya gelerek lif demetlerini (Fasiculus) oluştururlar. Bu demetleri saran konnektif doku PERMİSYUM dur. Lif demetlerinin bir araya gelmesiyle de iskelet kası oluşur. Bunu EPİMİSYUM adı verilen konnektif doku sarar. Ayrıca bununda üzerinde tüm vücut kaslarını saran FACİA adı verilen bir konnektif duku vardır.
+ Kas hücrelerinde sarkoplazma vardır. Bu sarkoplazma içerisinde asılı halde bulunan yüzlerce MYOFİBRİL vardır. Miyofibriller protein yapısındaki ince ve kalın myofilamentlerden oluşmuştur. Bunlardan ince olanı ağırlıklı olarak AKTİ N olmak üzere TROPONIN ve TROPMYOZİN moleküllerinden, kalın olan ise MYOZİN moleküllerinden oluşmuştur. Bu nedenle ince ve kalın flamentler sırasıyla aktin ve myozin flamentleri olarak da tanımlanırlar. Myozin flamentleri orta bölgeleri dışında, çapraz köprüler içerirler. Çapraz köprülerin başlarında myozin ATP’az enzimi yer alır. Bu enzim ATP’yi parçalayarak ADP+P+ENERJİ oluştururlar. 
+ İskelet kaslarına çizgili görünümü veren aktin ve miyozin filamentlerinin dizilişidir. Sarkomer üzerinde, yalnızca aktin filamentlerin bulunduğu bölge I bandı adını alır ve ışık mikroskobunda açık renk görüntü verir. Öte yandan aktin ve miyozin flamentlerinin birlikte yer aldığı kısımlar daha koyu renk görülürler. Bu bölgeler A BANDI olarak isimlendirilirler. A bandının ortasında aktinin ulaşamadığı ve yalnızca miyozinden oluşan bir alan vardır. H BÖLGESİ olarak adlandırılan bu bölge I bandından daha koyu, A bandından ise daha açık renkte görülecektir. I bandı ortasında dikey olarak uzanan Z ÇİZGİSİbulunur. Böylece, dinlenim durumundaki, iki Z çizgisi arasında H bölgesini saymazsak sırasıyla I-A-I bantları yer almış olur. Z çizgileri bir bir myofibrilden diğerine doğru uzanarak kas lifinin içindeki myofibrilleri birbirine bağlarlar. İki Z çizgisi arasında kalan bu bölgeyeSARKOMER adı verilir. Sarkomer kas kasılmasında kısalma ve uzamanın gerçekleştiği bölümdür.
+Çizgili kaslar, uçlarındaki kirişlerle kemiklere tutunur. Kemiklerin hareketi böylece sağlanır. 
+Bu kaslar:
+Çizgili kasların özellikleri ise şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Destek ve hareket sistemi</DOCTITLE>
+<TEXT>
+
+Destek ve Hareket Sistemi.
+Vücuda destek olup koruyan, kaslarla bağlanarak hareketi sağlayan yapıya iskelet denir. İskeletin görevleri şunlardır;
+İskeletimizi oluşturan kemikler, dış görünüşleri bakımından;
+olmak üzere üç çeşittir.
+Tüm kemiklerde;
+olmak üzere iki çeşit doku vardır.
+Kemiğin yapısı
+"→ Ayrıntılı bilgi için: Kemik"
+Yapısında organik ve inorganik maddeler bulundurur. Organik maddeler sinirler ve kan damarlarıdır. İnorganik maddeler ise kalsiyum, potasyum, ve sodyum tuzlarıdır. Bu maddeler kemiğe sertlik vermektedir.
+Kemiğin dış kısmında kalınlaşmasını ve onarılmasını sağlayan kemik zarı (Periost) bulunur. Gövde kısmı ile kemik uçlarının dış kısmı sıkı kemiktir. Kemik uçlarının içi süngerimsi kemiktir. Süngerimsi kemik dokusunda kırmızı ilik bulunur. Kemik gövdesinin ortasındaki kanalda sarı kemik iliği bulunur.
+İskeletin Kısımları:
+İnsan iskeleti yaklaşık 207-214 kemikten oluşmuştur.
+iskeleti olmak üzere üç grupta incelenir.
+1. Baş İskeleti
+Beyin ve iç kulağı örten kafatası iskeleti ve çene, burun, gözde bulunan yüz iskeleti olmak üzere ikiye ayrılır. Kafatası iskeletinde bulunan kemikler birbirine oynamaz eklemlerle bağlanarak, beyini tamamen kapatarak korurlar. Yalnız omurilik ve sinirlerin giriş-çıkışını sağlayan delikler vardır. Baş iskeletinde yalnızca alt çene kemiği hareketli eklemlerle şakak kemiğine bağlı olarak hareket edebilir. Kemik zarı altında ince bir tabaka halinde sıkı kemik dokusu bulunur. Sarı kemik iliği ve diğer kananllar bulunmaz. Ortası süngerimsi kemik dokudur.
+2. Gövde İskeleti
+Omurga, kaburga, göğüs, omuz ve kalça kemiklerinden oluşmuştur.
+"Omurga"; boyundan başlayıp kuyruk sokumuna kadar devam eder. Hafif "S" şeklindedir. Üst üste gelen 33 omurdan oluşmuştur. Boyun (7 omur), sırt (12 omur), bel (5 omur), sağrı (5 omur), kuyruk sokumu (4 omur) olmak üzere beş bölgeye ayrılır. Omurların omur delikleri birleşerek omurga kanalını oluştururlar. Omurga kanalında omurilik bulunur.
+"Göğüs kemiği"; vücudun göğüs bölgesinde yer alan yassı bir kemiktir. 12 çift olan kaburgaların ilk yedi çifti kıkırdak uçları ile göğüs kemiğine bağlanırlar. 8., 9. ve 10. kaburgalar ise önce birbirlerine sonra 7. çift kaburgaya bağlanırlar. 11. ve 12. kaburga kemiklerinin uçları boştadır. Bunlara "yüzücü kaburgalar" denir.
+"Omuz kemeri"; iki köprücük kemiği ve iki kürek kemiğinden oluşmuştur.
+"Kalça kemiği"; kalça, oturga ve çatı kemiklerinden oluşur. Kalça kemikleri omurganın sağrı bölgesindeki omurlarla bireşerek "leğen" denilen yapıyı oluştururlar.
+3. Üyeler İskeleti
+Kol ve bacaklardaki kemiklerin tümüne "üyeler iskeleti" denir.
+Kollarda yukarıdan aşağıya doğru;
+olmak üzere toplam 30 adet kemik bulunur.
+Eklemler.
+İskelet sistemini oluşturan kemikler uc uca ya da yan yana gelerek, eklem denilen yapılarla birbirlerine bağlanırlar. Eklemler, oynamaz, az oynar, ve oynar olmak üzere üç grupta incelenir.
+1. Oynamaz Eklem: Bu tip eklemlerin aralarında boşluk bırakmazsızın testere dişi gibi dişlerle birbirine sıkıca bağlanmış kemikler arasında görülür. Kafatası kemiklerinde görülür.
+2. Yarı Oynar Eklem: Vücudumuzun dik durmasını sağlayan omurgadaki, omurlar bu tip eklemlerle bağlanmışlardır. Kıkırdak disklerinden oluşur.
+3. Oynar Eklem: Kol ve bacaklardaki kemikler arasında görülen, tam hareketli eklemlerdir.
+Kaslar.
+Kaslar insanın vücut ağırlığının %40-50'sini oluştururlar. Vücut şeklinin korunmasını, desteklenmesini, sindirim, dolaşım, boşaltım sistemlerinin çalışması faaliyetleri bu organları oluşturan kaslar sayesinde gerçekleştirilir.
+Kaslar, kas hücrelerinden oluşur. Kas hücreleri birleşerek kas liflerini, kas lifleri de kasları oluştururlar. Aralarında bol miktarda kan damarları ve sinirleri yer alır.
+İnsanda yapı ve çalışma bakımından üç çeşit kas bulunur:
+Çizgili kas hücrelerinin sitoplazmalarındaki miyofibriller düz kaslardan farklı olarak açık ve koyu renkli bantlar şeklinde dizilmişlerdir. Bunlar aktin ve miyozin ipliklerinin oluşturdukları bantlardır. Miyofibrillerin oluşturdukları kas telleri birbrlerine bağlanarak kas demetlerini meydana getirirler.
+Çizgili kas kasıldığında;
+İskelet kaslarının çoğu çiftler halinde ve birbirlerine zıt olarak çalışırlar. Bu tür kaslara antagonist kaslar denir. Antagonist kaslarda biri kasılırken diğeri gevşer. Bacağın, kolun, omuzun hareketleri antagonist kaslarla sağlanır. Sırt ve karın kasları aynı yönde kasılır ve gevşer.
+3. Kalp Kası: İsteğimiz dışında çalışan çizgili kastırç İskelet kaslarından farklı olarak kalp kası hücreleri tek çekirdeklidir. İskelet kaslarından daha yavaş kasılır. Ritmik kasılır, yorulmaz.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikrofilament</DOCTITLE>
+<TEXT>
+
+Mikrofilamentler (veya aktin filamentleri) tüm ökaryotik hücrelerin sitoplazmasında bulunan hücre iskeletinin en ince filamentidir. Aktinin alt birimleri olan bu çizgisel polimerler esnek ve güçlüdür. Mikrofilamentler çok yönlüdür; hücre kasılmalarında, amipsi harekette ve hücre şeklindeki değişimlerde görev yapar. Tahminen miyozin 2 moleküler motorları tarafından gerçekleştirilen hücre motilitesi esnasında aktin filamentinin bir ucu belirli bir doğrultuda uzanırken diğer ucu kasılır. Ayrıca; miyozinlerin ATP bağımlı kas kasılmasında işlevi bulunan "ince filament"lerde aktomiyozin güdümlü kontraktil moleküler motorların bir parçası olarak da görev yapar.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kas sistemi</DOCTITLE>
+<TEXT>
+
+Kas sistemi canlıya hareket yeteneği sağlayan sistemdir. Kas sistemi omurgalılarda sinir sisteminin kontrolü altında omasına rağmen bazı kaslar (örneğin kalp kası) tamamen otonom çalışabilir.
+Kaslar.
+Vücudumuzda üç çeşit kas bulunmaktadır. Bunlar; Çizgili kas (ya da iskelet kası), düz kas, Kalp kasıdır.
+Çizgili kas (iskelet kası).
+İskelet kası, liflerden oluşmuş, hücre çekirdekleri hücre zarının hemen altında konumlanmış çok çekirdekli hücrelere sahiptir. Hücrelerinin içinde miyofibril adlı telcikler bulunur. Bu telcikler hücrenin içinde boydan boya uzanır. Her bir kas hücresinin içinde bulunan en küçük kasılma birimine sarkomer denir. Her bir sarkomer birbiri ardı sıra dizilmiş kalın miyozin ve ince aktin protein telciklerini içerir. Bu proteinler birbiri üzerinde kayarak kasılmayı gerçekleştirirler.
+Bir iskelet kası aksiyon potansiyel üzerinde bir uyaran ile uyarıldığında her bir sarkomer koordineli olarak kasılmaya başlar. 
+Kas hücreleri de enerjilerini tıpkı diğer hücreler gibi ATPden elde ederler. Kas Hücreleri çok az ATP depolayabilir. Bu yüzden ADP dönüştürülerek harcanan her molekül, çabucak ATP'ye geri dönüştürülür. Kaslar aynı zamanda ek enerji desteği sağlayan kreatin fosfat adlı bir molekül depolarlar. Kreatin fosfat molekülünün yapısında bulunan fosfat, ADP'nin ATP'ye dönüştürülmesinde kullanılır.
+Kas kasılmasında aynı zamanda Kalsiyum iyonları da gereklidir. Kalsiyum iyonları, kas hücresi kasılma uyarısı aldığında sarkoplazmik retikulumdan sarkomere salınır. Kalsiyum iyonları aktin proteininin miyozine bağlanarak kayması için gereklidir. Kasılma uyarısı bittiğinde kalsiyum iyonları sarkomerden sarkoplazmik retikuluma geri pompalanır.
+İnsan vücudunda yaklaşık 639 iskelet kası bulunmaktadır.
+Kalp kası.
+Kalp kası yapı bakımından çizigili kaslara benzese de kas liflerinin konumu itibari ile bazı farklılıklar gösterir. Ayrıca tıpkı düz kaslar gibi bizim kontrolümüz altında değildir. 
+Düz kas.
+Düz kaslar Otonom sinir sistemi tarafından kontrol edilir. İstemsiz yapılan hareketlerin gerçekleşmesini sağlar. Bağırsak, mide, atardamar, toplardamar gibi organların yapısında bulunur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Miyozin</DOCTITLE>
+<TEXT>
+
+Miyozinler, 16 kadar üyesi tanımlanmış ATP-bağımlı bir motor protein ailesidir. Kas hücrelerinde "miyozin II" bulunur ve toplam kas protein kütlesinin % 55'ini oluşturur. Aktin ile birlikte aktomiyozin oluşturarak kaslardaki kasılma ve gevşeme hareketlerini düzenler. Ağır ve hafif zincirlerden oluşur. Molekül ağırlığı yaklaşık 500-540 KDa olup birbirine dolanmış iki sarmaldan oluşan fibröz bir kuyruğu vardır. Sarmalların ucunda birer globüler baş kısmı bulunur.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rigor mortis</DOCTITLE>
+<TEXT>
+
+Rigor mortis veya ölüm sertliği, kaslardaki biyokimyasal bir değişiklikten kaynaklanan ve ölünün uzuvlarını katılaştıran bir ölüm belirtisidir. Bu olgu, oda sıcaklığındaki bir insanda ölümden 3-4 saat sonra görülmeye başlar, 12 saat sonra doruk noktasına ulaşır ve 36 saat sonra ortadan kalkar. (Belirtilen süreler sıcaklığa bağlı olarak değişkenlik gösterebilir.)
+Rigor mortis'in biyokimyasal nedeni, kas dokusundaki temel enerji kaynağı ATP'nin tükenmesi ve kas fibrillerinin gevşeme için gerekli olan enerjilerini temin edememeleridir. Miyozin adlı motor proteinlerin baş kısımları, kasılma esnasında bağlandıkları aktin adlı ipliksi proteinlerden ayrılabilmek için ATP'ye ihtiyaç duyarlar. Ölümden 3-4 saat sonra dış solunumun durmasıyla kas dokusunun miyoglobinlerindeki oksijen ve dolayısıyla da hücrelerin ATP stoğu tükendiği için, miyozinler aktomiyozin kompleksinde kenetli kalır. Bu nedenle, kasılmış durumdaki kaslar gevşeyemez ve belirli bir süre bu şekilde (kasılı) kalırlar. 
+Oksijenden yoksun kas hücrelerinde (fermentasyon ürünü) laktik asit ve (karbondioksit moleküllerinin su molekülleriyle birleşmesi sonucu oluşan) karbonik asit birikmeye başlar. Zamanla bu asitlerin etkisiyle hücre pH'ı 5,5'lere kadar düşünce lizozomlardaki hidrolitik enzimler hücre sitosolüne salınır ve kas proteinlerini parçalarlar. Sonuç olarak, aktomiyozin kompleksi yıkılır ve kaslar gevşer (doku tekrardan yumuşar). Bu olaya da "Rigor gevşemesi" adı verilir. 
+Etlerin tüketimi ve saklanması.
+Rigor mortis hayvanlarda da görülür. Bu nedenle de kesilen hayvanların etleri 15 °C'nin altındaki sıcaklıklarda saklanacaksa, dolaba konmadan evvel (dana eti için) 6-12 saat bekletilerek etlerin Rigor Mortis'i (sertleşme safhasını) tamamlamaları sağlanmalıdır. Aksi takdirde, etler dolaptan çıkarıldığında Rigor mortis'e devam edecek, iyice sertleşerek aşırı katı bir hal alacaktır.
+Öte yandan, etlerin sıcaklığı 15 °C'nin altına düşürülmeden etler tüketilecekse, rigor gevşemesi yani etlerin yeniden yumuşaması için yenmeden önce 24-36 saat bekletilmeleri gerekmektedır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kas kasılması</DOCTITLE>
+<TEXT>
+
+Kaslar aktin ve miyozin arasındaki çapraz köprüleri kullanarak bir gerginlik yaratırlar.Bu gerginlik durumunda,kas uzama,kısalma gösterdiği gibi boyutu değişmeyebilir.İsteğe bağlı kasılma merkezi sinir sistemi tarafından kontrol edilir.Beyinde oluşturulan aksiyon potansiyeli birçok kas fiberi ile bağlantı kurmuş motor nöron ile kasa aktarılır.Bazı refleks durumlarında ise kasılma sinyali omirilikten gelebilir.İstemsiz kasılmalar,kalp kası veya düz kasgibi,kasın kendi kendini uyarması ile meydana gelir.Kayan filament modeline göre çizgili kas kasılması:
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikrotübül</DOCTITLE>
+<TEXT>
+
+Mikrotübüller, hücre iskeletini oluşturan yapılardan olup, reseptörleri tutarlar veya serbest bırakırlar. Protein yapıda olup, uzun, içi boş silindirik yapılardır.
+Ökaryot kamçısı (flagella) içerisinde mikrotübüller bulunduğu halde prokaryot kamçısında bulunmaz. Bu ökaryotların prokaryot kamçısı arasındaki farklardan biridir. Bir diğeri ise hareket mekanizmalarından kaynaklanır. Kamçının sitoplazma içerisinde kalan kısmı etrafında enerji gereksinimi fazla olması nedeniyle mitokondri (prokaryot hücrelerde mezozom) bulunur.
+Mikrotübüllerin belli başlı görevleri ise sentriyollerin, sillerin ve kamçıların yapısal unsurlarını oluşturmaları şeklinde sıralanabilir. Bunlardan başka kan pulcukları (trombosit) ile daha birçok hücrede iskelet sistemini oluştururlar. Sinir hücrelerinde ise madde iletiminde iş görürler.
+Mikrofilamentler ise mikrotübüllerin aksine ağsı bir yapı gösterirler ve kalınlıkları da 7 nm kadardır. Yani mikrotübüllerin üçte biri kadar kalınlıktadır. Mikrofilamentler hücrenin hareketi ve hücre kasılmasında rol oynayan fonksiyonel yapılardır. Mikrofilamentler hücre içerisinde sayıca az olmasına karşın kas hücrelerinde oldukça gelişmiş bir yapıya sahiplerdir. Kas hücrelerinde iki proteini içeren iki çeşit mikroflament vardır.
+Birinci mikrofilament aktin adı verilen bir çeşit protein taşır. İkinci mikrofilament ise miyozin adı verilen diğer bir çeşit proteini içerir. İçerdikleri proteinlerle birbirinden farklılaşmış bu mikrofilamentler, mekanik ve kimyasal etkileşimlerle birbirleri üzerinde kayarak içinde bulundukları kas hücresinin hareketini sağlarlar.
+Mikrofilamentler aynı zamanda hücre zarının endositoz ve ekzositoz hareketlerini sağlayarak kese oluşturma yöntemiyle hücre içerisine büyük moleküllerin alınmasını sağlarlar.Ayrıca bitki hücrelerinde hücre duvarının yapısındaki selüloz liflerin düzenlenmesinde de rol oynar.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,15 @@
+1	Bir	bir	Det	Det	_	_	_	_	_
+2	yörede	yöre	Noun	Noun	A3sg|Pnon|Loc	_	_	_	_
+3	turizmin	turizm	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+4	_	etkin	Adj	Adj	_	_	_	_	_
+5	etkinliğinin	_	Noun	Noun	Ness|A3sg|P2sg|Gen	_	_	_	_
+6	fazla	fazla	Postp	Postp	PCAbl	_	_	_	_
+7	_	ol	Verb	Verb	Pos	_	_	_	_
+8	olması	_	Noun	NInf	A3sg|P3sg|Nom	_	_	_	_
+9	o	o	Det	Det	_	_	_	_	_
+10	yörenin	yöre	Noun	Noun	A3sg|Pnon|Gen	_	_	_	_
+11	ticari	ticari	Adj	Adj	_	_	_	_	_
+12	gelişimini	gelişim	Noun	Noun	A3sg|P3sg|Acc	_	_	_	_
+13	nasıl	nasıl	Adj	Adj	_	_	_	_	_
+14	etkiler	etki	Noun	Noun	A3pl|Pnon|Nom	_	_	_	_
+15	.	.	Punc	Punc	_	_	_	_	_

@@ -1,0 +1,56 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+47	47	+Num+Card
+
+kromozomlu	kromozom	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+XXY	XXY	+Noun+Prop+A3sg+Pnon+Nom
+
+eşey	eşey+Noun+A3sg+Pnon+Nom
+
+kromozomuna	kromozom	+Noun+A3sg+P3sg+Dat
+kromozomuna	kromozom	+Noun+A3sg+P2sg+Dat
+
+sahip	sahip	+Noun+A3sg+Pnon+Nom
+
+erkek	erkek	+Adj
+erkek	erkek	+Noun+A3sg+Pnon+Nom
+
+bireylerde	birey	+Noun+A3pl+Pnon+Loc
+
+görülen	gör+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+anormalliğe	anormal	+Adj^DB+Noun+Ness+A3sg+Pnon+Dat
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ad	ad	+Noun+A3sg+Pnon+Nom
+
+verilir	ver	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+verilir	ver	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

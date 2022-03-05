@@ -1,0 +1,223 @@
+Question: Küstüm otuna dokununca yapraklarını kapatması hangi nasti hareketine örnektir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Davranış</DOCTITLE>
+<TEXT>
+
+Davranış, psikolojik anlamda canlıların dış dünyaya karşı gösterdikleri her türlü bilişsel, duyuşsal ve psikomotor (bedensel-fiziksel) tepkilerin genel adıdır. Cansızlar için davranış söz konusu değildir. Bitkilerin tepkilerine davranış denilip denilmeyeceği tartışmalıdır. Bazı filozoflar bir hareketin davranış sayılabilmesi için canlının bu davranışta etkin- istemli rolünün olmasını ileri sürmüşlerdir., yalnız canlılardaki bazı otamatik tepkiler bunu dışında tutulmuştur. Davranış merkezi gelişmiş canlılarda beyin'dir. 
+Etoloji hayvan davranışlarının bilimdir ve zooloji ve psikolojinin ortak çalışma konularına sahiptir.
+Öte yandan davranış canlının çevreyle etkileşim ve uyum mekanizmalarının toplamını da içerir. Ve çevreye en iyi uyum sağlayan canlı evrimsel düzeyde hayatta kalma olasılığı daha yüksektir.
+Davranış, felsefi anlamda kompleks bir problemdir. Davranışın bileşenleri psikoloji, nöroloji, antropoloji, sosyolojinin konusu olduğu gibi felsefe açısından sayısız problemi-soruyu da beraberinde getirir.
+Gelişmiş olan hayvanların iç ve dıştan gelen uyarılara karşı geliştirdikleri tepkiler sinir ve hormon sistemi tarafından kontrol edilir. İç dengeyi de sağlayan bu tepki homeostazidir.
+Davranışı alt kategorilere ayırmak gerekirse;
+Tek hücrelilerde davranış.
+Tek hücrelilerde davranış kalıtsaldır. Ve davranış uyaran karşısında taksi, yani göçüm şeklindedir. Uyarana yaklaşıyorsa pozitif taksi, uyarandan uzaklaşıyorsa, negatif taksidir.
+Öte yandan tepki uyaranın çeşidine göre de farklılık taşır. 
+Çok hücrelilerde davranış.
+Bitki.
+Bitkilerdeki davranışlar çiçek açma, bölünme, çimlenme, yaprak dökme, tropizma ve nasti davranışlardır.
+Nasti.
+İrkilme davranışı bitkilerin uyaranın yönüne bağlı olmaksızın hızla tepki vermesidir. Bu hareketler turgor basıncındaki değişmeler yoluyla kontrol edilir. Öte yandan tepkiler uyaranın cinsine göre adlandırılır.
+Tropizma.
+Yönelim bitkinin asimetrik durum karşısında belli bir yere yaptığı yönelim veya eğilimdir.
+Pozitif ve ya negatif şekilde gerçekleşebilir.
+Doğal davranışlar.
+İçgüdüsel davranış.
+Organizmayı türe özgü bir davranışa sürükleyen amaçlardır İçgüdü. Karmaşık bir yapıya sahiptir ve seri davranışlar bütünüdür. İçgüdüsel davranışlar türe özgüdür. Hayvanların göç etmesi, üreme, çocuklarını besleme gibi…
+Refleks.
+Canlılarda etkiye karşı oluşan ani ve değişmez tepkilere refleks denir. Sinir sistemi olan tüm canlılarda refleksler oluşur. Bu davranış tpinde uyarı beyne iletilmeden tepki oluşur.
+Bir etkileşim sonunda hayvanın yeni davranış biçimleri edinmesidir.
+Topluluk halinde yaşan canlılarda grup davranışları vardır ve bu sosyal bir davranıştır. Bu davranış grup içinde dayanışmayı arttırır ve türün evrim sürecinde baki kalmasında avantajlar sağlar. İşbirliği, yarışma, oyun, savunma, iletişim meydana getirir ve bir hiyerarşi oluşturur.
+Otorite seviyelerine göre bireylerin organizasyonuna sosyal hiyerarşi denir. Hiyerarşi bir ast-üst ilişkisi getirdiği gibi belirli bir özdenetim de sağlar.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Canlılarda davranış</DOCTITLE>
+<TEXT>
+
+Canlıların çevreden gelen uyartıları değerlendirdikten sonra gösterdikleri tepkilere davranış denir.
+Bitkilerde davranışlar.
+Uyartıya karşı pozitif veya negatif yönelmeye tropizma denir. Yönelmeyi oksin hormonu sağlar. Oksin hormonu arttıkça hücre bölünmesi artar. Az ışıklı yerlerde oksin hormonu daha fazla salgılanır. Uzun süreli tepkilerdir.
+NOT: Etkiye karşı verilen yönsüz tepkiye nasti denir. Turgor basıncıyla oluşur. Kısa sürede verilen tepkilerdir.
+Hayvanlarda davranışlar.
+Kalıtsal (doğal) davranışlar: Doğuştan gelen davranışlardır. Örn: İnsanın doğumundan hemen sonra akciğerlerinin çalışması. Kazların V şeklinde uçması. İpek böceği tırtılının kozasını ergin olunca yapması.
+Refleks ve İçgüdüsel Davranışlar: Canlılarda etkiye karşı oluşan ani ve değişmez tepkilere refleks denir. Sinir sistemi olan tüm canlılarda refleksler oluşur. Örn: Parmağına iğne batan birinin elini çekmesi, emme refleksi, araba kullanma
+NOT: Uyarıya karşı verilen kalıtsal, karmaşık davranışlar içgüdüsel davranışlardır.
+Örnek: 
+Biyolojik saat.
+"Ana madde: Biyolojik Saat"<br>
+Fizyolojik ve davranışsal tepkilerin 24 saatlik zaman aralıklarında tekrarlanmasına günlük döngü denir. Günlük döngünün çok düzenli olması vücut içinde bir biyolojik saatle kontrol edildiğini gösterir.Bununla birlikte biyolojik saat günlük döngüye göre biraz hızlı ya da yavaş çalışır. biyolojik saat, gün ışığı gibi dış(çevresel) bir uyarı tarafından sürekli ayarlanmış olmalıdır. Örneğin bir böceğin biyolojik saatinin 25 saatte bir tamamlandığını kabul edelim. Böceğin biyolojik saatinin normal gece-gündüz döngüsüyle aynı fazda kalması için her gün bir saatlik ayarlama yapılabilir. Fakat böcek uzunca bir süre ışıkta tutulursa, biyolojik saatin günlük ayarlaması yapılamayacaktır. Böylece böceğin biyolojik saati gerçek gece-gündüz döngüsüyle aynı fazda olmaktan gittikçe çıkacaktır. Eğer böcek gün ışığında sürekli 10 gün tutulursa 10. günde biyolojik saatin günlük normal döngüden 10 saat farklılaşmış olduğu görülecektir.
+Sosyal davranışlar.
+Canlılar; üreme, beslenme, barınma, korunma gibi sebeplerden dolayı sosyal davranışlar sergilerler. Örn: Arıların Dansı, böceklerin feromon salgılaması
+Topluluk halinde yaşan canlılarda grup davranışları vardır ve bu sosyal bir davranıştır. Bu davranış grup içinde dayanışmayı arttırır ve türün evrim sürecinde baki kalmasında avantajlar sağlar. İşbirliği, yarışma, oyun, savunma, iletişim meydana getirir ve bir hiyerarşi oluşturur.
+Otorite seviyelerine göre bireylerin organizasyonuna sosyal hiyerarşi denir. Hiyerarşi bir ast-üst ilişkisi getirdiği gibi belirli bir özdenetim de sağlar.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Selim Sesler</DOCTITLE>
+<TEXT>
+
+Selim Sesler (d. 1957), Çingene kökenli Türk müzisyen ve klarnet virtüözü. Edirne ilinin Keşan ilçesinde doğdu. 
+Dramalı (Yunanistan) profesyonel bir zurnacı ailesinden gelmektedir. 1923'te mübadele sonucu Keşan'ın İbriktepe Köyü'ne yerleştiler, daha sonra Keşan'ın Yeni Mescit Mahallesi'ne taşındılar. Selim önce zurna çalmayı öğrendi, ancak 60'larda davul-zurnacı ailelerden gelen birçok genç, ince çalgı enstrümanlarını öğrenmeye başladığı sırada, o da klarnete geçti. On dört yaşındayken köy düğünlerinde ve panayırlarda çalmaya başladı. 80'lerde, daha büyük merkezlerde çalmaya giden Roman müzisyenlerine katılarak, müzik yeteneğini geliştirmek üzere İstanbul'a gitti. İstanbul'da, restoranlarda fasıl heyetlerinde, Ferhan Şensoy tiyatrosunun müzikallerinde, Romanlar'ın ve Roman olmayanların düğünlerinde çaldı ve birçok kayıt yaptı. 
+1998'de Brenna MacCrimmon ile birlikte Kanada turnesine katılarak Türk Romanları'nı ve kendi Rumeli kökenlerini temsil etti. Zengin müzikal deneyimleri sonunda, bölgeye ait zengin bir repertuar ve çalma tarzı edinerek, canlı bir arşiv niteliği kazandı. Gerek Romanlar gerek Roman olmayanlar arasında, doğaçlamalardaki ustalığı ile hem düğün havalarının, hem de günün dans ezgilerinin baş yorumcusu olarak ünlendi.
+Fatih Akın'ın "Duvara Karşı" ve "İstanbul Hatırası" filmlerinde muzikleri yer almaktadır.
+Keşan'a Giden Yollar 
+Albümdeki Enstrümanlar 
+"Gırnata (Klarnet):" Klarnet saray bandosuna 19. yüzyılın ilk yarısında girdi. 19. yüzyılın sonlarından başlayarak da, bütün Balkan bölgesindeki ince çalgı topluluklarının yöresel versiyonlarına uyarlandı. G (sol) klarnet Trakya, Marmara ve Ege bölgesinin kentlerinde ve kasabalarında çalınır. Trakya'da, G klarnet ince çalgı topluluklarının ayrılmaz bir öğesidir. Öyle ki, düğünde çalınan müziğin kalitesi solo klarnetçinin yeteneğiyle ölçülür. Klarnet, delikleri ve akordu fabrikada ayarlanmış bir çalgı olsa da, klarnetçiler delikleri Türk makam sistemine uydurmak için epeyce zaman harcar. Ayrıca, çeşitli dudak pozisyonları, üfleme teknikleri ve farklı parmak pozisyonları kullanırlar. Çoğu klarnetçi, zurnacı ailelerinden gelir ve eski klarnetçilerin tarzı, zurnacıların süsleme tekniklerini ve "sound"unu hatırlatır. 
+"Keman:" 
+Batılı bir çalgı olan keman, 18. yüzyılın ortalarında klasik Osmanlı müziği topluluklarından önce kent topluluklarına girmişti. Kent ve kasabalardaki popülerliğini hiç kaybetmediyse de, klasik Türk müziği topluluklarına yeniden girmesi 20. yüzyılda oldu. Bununla birlikte, 19. yüzyıldan itibaren keman, Balkanlar ve Anadolu'da, kent ve kasaba düğünlerinin ve şenliklerinin önemli bir çalgısı olarak görürüz. 
+"Kanun:" 
+Mızrapla çalınan bir tür "zither" olan kanun, klasik Osmanlı müziğine 16. yüzyıldan önce girmiş, ancak bugünkü biçimini 1760'larda almıştır. Daha sonra da, Anadolu ve Balkanlar'daki kentlerde Osmanlı klasik müziği topluluklarına uyarlanmıştır. 20. yüzyılın son dönemi boyunca, klasik Osmanlı, Türk sanat ve fasıl müziğinde varlığını sürdürürken, arabesk ve fantezi müzik gibi daha yeni kent müziği türlerine de girmiştir. Türkiye'nin Trakya bölgesindeki kasabalarda, zengin düğünlerinin yanı sıra, erkeklerin içki masalarında, meyhanelerde ve pavyonlarda çalınır. 
+"Cümbüş:" 
+Luta benzer, parmakla çalınan bir sazdır ve 1927'de Zeynel Abidin Bey tarafından, ud tarzında metal gövdeli bir saz olarak geliştirilmiş, 1930'da da patenti alınmıştır. Arap ülkelerinde, Anadolu'da ve Balkanlar'da udun daha pratik bir türü olarak kabul edilir. Dayanıklı metal gövdesiyle açıkhava düğünlerine ve şenliklerine daha uygun olduğundan, Anadolu ve Balkanlar'da ince sazın kent ve kasaba versiyonlarında udun yerini almıştır. Meyhanelerde, gazinolarda, düğünlerde çalan ince saz topluluklarının klasik ve folk versiyonlarında udun yerine kullanılır, ancak sesi uda göre biraz daha keskindir ve daha çok bir vurmalı gibi tınlar. Trakya'nın ince çalgı topluluklarında, Romanlar cümbüşle klasik Türk müziği şarkılarını, arabesk ve fantezi şarkıları, yöresel türküleri ve oturak havalarını çalarlar. Bunun yanı sıra, daha hızlı ve canlı oyun havalarında, cümbüşte, darbukayla senkop oluşturacak şekilde ritmik akorlarla dem tutulur ve buna "dempo" adı verilir. 
+"Darbuka:" Elle çalınan kadeh biçiminde bir vurmalı olan bu çalgı, Anadolu ve Balkanlar'da çeşitli adlarla tanınır. Türkiye'nin Trakya bölgesindeki Roman müzisyenler, ince bir çubukla hafif vuruşlara dayalı ve daha tiz bir ses çıkaran, karmaşık bir çalma tekniği geliştirmişlerdir. Trakyalı müzisyenler çalma tekniğini çaldıkları türe göre değiştirirler: İçki masasında çalınan fasıl, arabesk, fantezi müzik, yöresel halk şarkıları için ellerini; dans müziği içinse, pes sesli el vuruşlarıyla birlikte çubuklarını kullanırlar (#8, 10). 
+"Daire:" 
+Geleneksel olarak, bu geniş kasnaklı çalgı erkek ya da kadın, profesyonel Roman müzisyenlerce çalındığı gibi, amatör Gacal ve Pomak müzisyenlerin şarkılarına da eşlik ederdi. Bir elek kasnağına gerili deri ve kasnağa takılı el yapımı zillerden oluşur. 90'lara kadar çengi denen profesyonel Roman kadın şarkıcılar tarafından kasaba ve köy düğünlerinin erkeklere kapalı kadın kadına eğlencelerinde (özellikle Malkara tarafında) ve ayrıca ince çalgı topluluklarının ilk biçimlerinde erkekler tarafından çalınırdı. 
+"Davul:" 
+Pes sesli, çift taraflı bir vurmalıdır ve eskiden beri Anadolu ve Balkanlar'daki zurnayla birlikte çalınır. Öyle ki, doğu ve orta Yunanistan'da olduğu gibi, Türkiye'nin Trakya bölgesinde de "davul" denince davul zurna ekibi kastedilir. Dans müziklerinde, davulun bir tarafı için kalın (tokmak), diğer tarafı için ince değnek (çubuk) kullanan davulcular, aynı zamanda icranın türüne göre, davulu oturup dizlerine yaslayarak ve ince tarafına elle vurarak ya da yöresel darbuka tekniğinde olduğu gibi hem çubuk hem de ellerini kullanarak çalarlar. Elle çalma tekniği daha çok kapalı mekanlarda ve erkeklerin içki masalarında kullanılır.
+Kayıttaki Derlemeler
+Bu müzikal derleme, Keşan bölgesinde tören ve eğlencelere eşlik eden müzikler üzerine sesli bir araştırma niteliğindedir. ilk üç parça, düğünlerde çalınan başlıca üç tür müziği (dans müziği, tören müziği, içki masası müziği) temsil ederken, bir düğünün seyrini izlemektedir. Başlangıçta yer alan 9/8'lik karşılama türü, bu bölgenin tüm kent ve köy düğünlerindeki danslarda çalınan son dönem repertuarı yansıtır. Neşeli kutlamalardan sonra müzik, gelinin ellerine ve ayaklarına kına yakılması gibi törenlere eşlik eder. Gece ilerledikçe, içki masalarında oturanlar için oturak havaları çalınır
+Yapim: Hasan Saltik
+Mastering: Selçuk Yalçin
+Mastering: Kemal Cankaya
+Mastering: Ercan Akbay
+Yönetmen: Selim Sesler
+Yönetmen: Sonia Tamer Seeman
+Proje Sorumlusu: Sonia Tamer Seeman
+Arastirma: Sonia Tamer Seeman
+Ön Kapak Resim: Jon Stinger
+Türkçe Çeviri: Sumru Agiryürüyen
+Stüdyo Kayit ve Mix: Erman Pekbilen
+Stüdyo Kayit ve Mix: Murat Arslan
+Stüdyo Kayit ve Mix: Sitki Acim
+Stüdyo Kayit ve Mix: Ari Yapim
+Mastering: Stüdyo Audeon
+Grafik Tasarim: Gramen Reklamcilik
+Baski: FRS Matbacilik
+Yapim: Kalan Müzik
+Enstrumanlar:
+Girnata: Selim Sesler
+Keman: Nusret Sute
+Kanun: Bülent Sesler
+Cümbüs: Turan Gümüs
+Darbuka: Selahattin Koçan
+Daire: Ramadan Borazan
+Davul: Ramadan Borazan
+Kasetteki (CD) parçalar
+1- Kiremit Bacalari / Nasti Usava 
+2-Dügün Havalari: Kina Havasi / Gelin Alma Havasi 
+3- Bir Sari Yilan 
+4- Ali Pasa 
+5- Biber Yedim 
+6- Aci Meleke 
+7- Babo 
+8- Köy Potpurisi: Istifalka / Gelserek / Arzu ile Kamber 
+9- Tulum 
+10- Patrona- Samiotisa 
+11- Hanim Ayse 
+12- Sari Gülüm Var Benim / Mahmutköy Karsilamasi 
+13- Nikriz Sirto 
+14- Alay Bey 
+15- Kampana Mori Mitro
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Molehiya</DOCTITLE>
+<TEXT>
+
+Molehiya () Ortadoğu , Kuzey Afrika mutfağında ve Kuzey Kıbrıs Türk Cumhuriyeti'nde de yapılan bir yemektir. Kıbrıs Türk mutfağında, özel olarak yetiştirilen molehiya bitkisinin (Jüt bitkisi - Corchorus olitorius) yaprakları ile yapılan bir yemek çeşididir. Yazın kurutulup bir müddet saklandıktan sonra sonra kuzu eti veya tavuk etiyle pişirilen molehiya, servisi çukur tabakta pilav ve turşuyla yapılan lezzetli bir yemektir. Molehiya otunun kurutulmuş haldeki kokusu kına otuna benzemektedir.
+Molehiya Kuzey Kıbrıs'ın meşhur yemeklerinden biri olarak bilinse de Arap kökenli bir yemektir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fizyolojik kuraklık</DOCTITLE>
+<TEXT>
+
+Fizyolojik kuraklık, ortamda yeterli su bulunmasına karşılık bitkinin bu sudan faydalanamaması ve susuzluk çekmesi. Düşük sıcaklık nedeniyle donan toprak suyunun bitki tarafından kulanılamaması buna örnektir. Fizyolojik kuraklıkla karşı karşıya kalan bitkiler genelde yapraklarını dökerek su kaybını önlemeye çalışırlar. Türkiye fizyolojik kuraklığa oldukça yakındır, hatta bazı bilimadamları 22. yüzyılın kuraklığın yüzyılı olacağını savunmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Aleka Papariga</DOCTITLE>
+<TEXT>
+
+Alexandra "Aleka" Papariga ("Yunanca: Αλέκα Παπαρήγα") (d. 5 Kasım 1945) Yunanistanlı komünist siyasetçi, 1991-2013 yılları arasında Yunanistan Komünist Partisinin genel sekreteri görevini yerine getirmiştir.
+Gençliği.
+Papariga 1945 yılında Atina’da doğdu. Ailesi Yunanistan Komünist Partisi üyesi olan direniş savaşçılarıydı. Atina Üniversitesi Felsefe Fakültesi Tarihi Arkeoloji Bölümünü bitirdi. Okulu bitirdikten sonra sekiz yıl boyunca çeşitli kuruluşlarda çalıştı. Aynı zamanda özel öğretmenlik de yapıyordu. 1976 yılından itibaren tüm zamanını partiye ve sosyal faaliyetlere ayırdı.
+Siyasi hayatı.
+Papariga 1961 yılında barış hareketine aktivist olarak katıldı, kısa süre sonra "Birleşik Demokratik Sol" EDA örgütünün gençlik faaliyetlerine dahil oldu. 1967 Darbesine kadar çeşitli öğrenci hareketlerine dahil oldu. Bu süre boyunca EDA gençlik örgütünün yönetimindeydi. 
+Askeri diktatörlük dönemi.
+1968 yılında darbe döneminde yasadışı koşullarda varolan Yunanistan Komünist Partisine KKE katıldı. Mahkum aileleri hareketine katıldı.
+Cumhuriyet dönemi.
+Diktatörlüğün alaşağı olmasından sonra Atina Parti Örgütünün il komitesindeydi. Kadın hareketinden de sorumluydu. 1981 yılına kadar kadın hareketinde kaldı. 1991 yılına kadar da Atina örgütünde kaldı. Kadın hareketine dair birçok uluslararası toplantıya katıldı ülkesini ve partisini temsil etti.
+Papariga 10. Kongre ile beraber (Mayıs 1978) KKE Merkez komitesi üyesiydi. 1986 yılında itibaren ise Politbüro üyesiydi. 27 Şubat 1991 günü yapılan 13.Kongrede KKE Genel Sekreteri seçildi. 26 Mayıs 1996 günü yapılan 15. Kongrede ve Şubat 2009’da yapılan 18. Kongrede bu göreve yeniden seçilmiştir. 2013 yılında görevi Dimitris Koutsubas'a bırakmıştır.
+KKE Atina milletvekili adayı olan Papariga Yunan Parlamentosunun 1993 seçimlerinden beri sürekli üyesidir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Küstüm Çiçeği</DOCTITLE>
+<TEXT>
+
+Küstüm Çiçeği, 2010 yılında başrolünü Salih Kalyon ve Füsun Demirel 'nun paylaştığı tv dizisidir, TRT1 de yayınlanmıştır.
+Konu.
+Yıllar önce 1000 türlü engeli aşarak, birbirlerinin hasmı ailelerinin sözünü dinlemeden kaçıp evlenen Asuman ve İsmail; İstanbul'da evlenir, 3 çocuk büyütür, Kilis yemekleri yaptıkları lokantalarının ününü herkese duyurmayı başarırlar!
+Gel gör ki, gün gelir bu aile saadeti büyük bir sarsıntıyla ağır hasar alır.
+Asuman ve İsmail'in boşanması; devamında başta çocukları, torunları, damatları, gelin ve damat adayları; akrabaları, yakın ahbap ve komşuları olmak üzere herkeste bir domino etkisi gösterecektir.
+O güne kadar güllük gülistanlık gidiyor zannedilen hayatlar birden allak bullak olacak, ak ile kara birbirinden ayrılacak, aklı başında görünenler bile yollarını şaşıracaktır!
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Tırtıl</DOCTITLE>
+<TEXT>
+
+Tırtıl gündüz ve gece kelebeklerinin larvasıdır. Göğüs bölümlerinde üç çift bacakları vardır. Tırtıl büyüdüğünde kelebek olacağını gösteren hiçbir ipucu vermediğinden, larvaya iyi bir örnektir. Çoğu tırtılın uzun gövdesi 13 bölümden oluşur. Başın ardındaki ilk üç bölüm, kelebeğin kanatlarının ve bacakların bağlandığı göğüs bölümüne dönüşecektir. Bu bölümlerdeki bacaklar sert ve parlaktır. Etli, yumuşak ve küt uçları yüzeylere tutunmayı sağlayan küçük kancalarla donanmış öbür bacaklar, tırtıl kelebek olduğunda kaybolur. Tırtılların kancalı bacakları beş çiftten az olabilir ama hiçbirinde beş çifti aşmaz.
+Tırtıllar annelerinin yumurtladığı ağacın yapraklarını yiyerek beslenirler. Tırtıllar kelebek olma zamanlarında pupa adı verilen bir kozaya girerler.Bu kozada birkaç gün kaldıktan sonra ıslak kanatları olan bir kelebeğe döneşeceklerdir,1-2 saat sonra tamamen kuru kanatları olmasıyla birlikte bir kelebek olurlar.Yapraklarla beslenirler.
+küçücük tırtıldan dünyanın en güzel şeyi kelebek oluşur...
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ivan Ribar</DOCTITLE>
+<TEXT>
+
+İvan Ribar, (d. 1881, Vukmanić, Karlovac - ö. 1968, Zagrep, Yugoslavya) Hırvat asıllı Yugoslav siyaset adamı. 
+Avusturya-Macaristan İmparatorluğu'ndaki Hırvatlar'la Sırplar'ın yakınlaşması taraftarıydı. İmparatorluk Yugoslavları'nın Sırbistan'la birleşmesini kararlaştıran Ulusal Konsey'in üyesi (1918), sonra da Sırp, Hırvat ve Sloven Krallığı meclis başkanı (1920-1922) oldu. 1942 yılında Komünist Parti'ye girdi, Partizan hareketine katıldı ve ulusal kurtuluş mücadelesi antifaşist konseyi yürütme komitesi başkanı (1942), Geçici Halk Meclisi Prezidyumu başkanı (1944), Kurucu Meclis başkanı, daha sonra da Halk Meclisi başkanı (1946-1953) oldu.
+Oğlu Ivan Lola (d. 1916, Zagrep - ö. 1943, Glamočko polje), Yugoslav Komünist Partisi merkez komitesi üyesi oldu (1940), Direniş hareketine aktif biçimde katıldı. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Daughters of Bilitis</DOCTITLE>
+<TEXT>
+
+Daughters of Bilitis ("Bilitis'ın kız evlatları"; DOB), ABD'deki ilk lezbiyen hakları örgütü idi. 1955 yılında San Francisco kentinde kuruldu. 1950'li yıllarda lezbiyen barlar kuşku uyandıran meşruiyete sahip oldukları ve bu nedenle polis usandırmalarına maruz kaldıkları için DOB, lezbiyen barlarına bir alternatif sağlamak için kuruldu. Daughters of Bilitis'in kurucuları, kuruluş döneminde Mattachine Society gibi eşcinsel gruplarından haberdar olmadıklarını iddia ederler, zira lezbiyen ve gey hareketinin her iki tarafı arasında henüz irtibat yok idi.
+DOB, 1950'ler ve 1960'larda ABD'deki en nüfuzlu lezbiyen örgütü idi, ancak 1970'lerde örgüt, daha çok lezbiyen ve gey hareketine mi feminist hareketine mi katılacağı sorunu ile karşılaştı. Örgüt artık feshedilmiş sayılır, ancak 1992'de Cambridge, Massachusetts kentinde hâlen DOB'nin yerel bir branşı ile ilgili raporlar var idi.
+
+</TEXT>
+</DOC>
+

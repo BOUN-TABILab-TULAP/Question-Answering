@@ -1,0 +1,17 @@
+Akustik akışı
+Akustik taşma, yüksek amplitüdlü ses salınımlarının emme tarafından tahrik edilen bir sıvı içinde kararlı bir akımdır. Bu durum, ses vericiler yakın gözlenen, ya da Kundt en tüp içinde duran dalga olabilir.
+Bu, bir akış ile ses üretimi daha az bilinen tersidir.
+Ses yayılma ortamı içinde emilir iki durum vardır:
+Menşei: sıvısında akustik emilim nedeniyle bir vücut kuvveti.
+Akustik taşma, lineer olmayan bir etkisi vardır.
+Bir titreşim parçası ve istikrarlı bir kısmı formula_5 hız alanını ayrıştırmak.
+istikrarlı bir parçası akustik akış hızı (ortalama hız) iken titreşim kısmı formula_6, ses kaynaklanmaktadır.
+Navier-Stokes denklemleri, akustik akış hızı için gelir:
+sürekli akış sağ tarafta görünen istikrarlı bir vücut kuvveti formula_8 kaynaklanır. Bu kuvvet Reynolds türbülans formula_9 vurguladığı olarak bilinen bir fonksiyonudur. Reynolds gerilme ses titreşimlerinin genliği bağlıdır ve vücut kuvveti bu ses genlik diminutions yansıtmaktadır.
+Biz bu stres hız genliği doğrusal olmayan (karesel) olduğunu görüyoruz. Bu hız genliği değişir ancak nerede kaybolan non.
+Sıvının hızı nedeniyle formula_10 olarak ses salınım halinde, kuadratik doğrusal olmayan orantılı sürekli güç üretir
+formula_11.
+Akustik akış hızlarının büyüklüğü Sipariş.
+Viskozite akustik akış sorumlu olsa bile, viskozite değeri yakın sınır akustik buğulaması durumunda ortaya çıkan akış hızlarının kaybolur.
+Akış hızlarının büyüklüğü sırası vardır:
+duvar sınırı boyunca formula_13 ses titreşim hızı ve formula_14 ile. Akış ses titreşimlerini (titreşim düğümleri) azalan yöneliktir.

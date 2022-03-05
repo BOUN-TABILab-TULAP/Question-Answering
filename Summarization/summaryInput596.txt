@@ -1,0 +1,206 @@
+Question: Sera etkisi ne zaman oluşur
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sera gazları</DOCTITLE>
+<TEXT>
+
+Sera gazları, Sera etkisini destekleyen, atmosferde bulunan ve en çok ısı tutma özelliğine sahip olan bileşikler. 
+Dünya atmosferi çeşitli gazlardan oluşur. Ayrıca küçük miktarlarda bazı asal gazlar bulunmaktadır. Güneşten gelen ışınlar (ısı ışınları/kısa dalgalı ışınlar), atmosferi geçerek yeryüzünü ısıtır. Atmosferdeki gazlar, yeryüzündeki ısının bir kısmını tutar ve yeryüzünün ısı kaybına engel olurlar. Atmosferin, ışığı geçirme ve ısıyı tutma özelliği vardır. Atmosferin ısıyı tutma yeteneği sayesinde suların sıcaklığı dengede kalır. Böylece nehirlerin ve okyanusların donması engellenmiş olur. Bu şekilde oluşan, atmosferin ısıtma ve yalıtma etkisine "Sera etkisi" denir.
+Dünya'da başlıca sera etkisine neden olan gazlar %36-70 Su buharı, %9-26 Karbon dioksit, %4-9 Metan ve %3-7 ile Ozon'dur. Sera gazlarının bir kısmı kendi kendine oluşurken, bir kısmı da insanlar tarafından üretilir. Doğal yollarla oluşan sera gazları su buharı, karbondioksit, metan, nitroz oksit ve ozon içerir. İnsan etkinlikleri sonucunda da bu gaz seviyelerine eklemeler olur ve bunun sonucunda da sera etkisi görülür.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dizel motor</DOCTITLE>
+<TEXT>
+
+Diesel Motoru, içten yanmalı bir motor tipidir. Daha özel bir tanımla, diesel motor oksijen içeren bir gazın (genellikle bu atmosferik havadır) sıkıştırılarak yüksek basınç ve sıcaklığa ulaşması ve silindir içine püskürtülen yakıtın bu sayede alev alması ve patlaması prensibi ile çalışan bir motordur. Bu yüzden benzinli motorlardan farklı olarak ateşleme için bujiye ve yakıt oksijen karışımını oluşturmak için karbüratöre ihtiyaç yoktur. 
+1892'de Alman Mühendis Rudolf Diesel tarafından bulunmuş ve daha sonra 23 Şubat 1893'te patenti alınmış bu süreç "diesel çevrimi" olarak bilinir. Motorun mucidi, geniş kömür yataklarına sahip olan Almanya'nın petrole bağımlılığını azaltmak için kömürle çalışan bir motor yapmayı hedeflemiştir. Ancak kömür tozunun yanmasından dolayı ortaya çıkan kül büyük sorunlar doğurmuş, daha sonraları ise motorda farklı yakıtların kullanılması tasarlanmıştır. Nitekim Rudolf Diesel, motorun sunumunu 1900’deki Dünya Fuarı'nda, yakıt olarak yer fıstığı yağı (Biodizel) kullanarak yapmıştır. 
+Çalışma prensipleri.
+Gaz sıkıştırıldığında, sıcaklığı yükselir, "diesel motoru"nda, gazın bu özelliğinden dolayı yakıt,kendiliğinden ateşlenir. Hava, dizel motorunun silindiri içine çekilir ve bir piston tarafından, kıvılcım ateşlemeli (benzinli) motorlardakinden çok daha yüksek (25 katı bulabilir) bir oranda sıkıştırılır. Hava sıcaklığı 500-700 °C'a ulaşır. Piston hareketinin en tepe noktasında, dizel yakıt yüksek basınçla atomizer memeden geçerek yanma odasının içine püskürtülür, burada sıcak ve yüksek basınçlı hava ile karışır. Bu karışım hızla tutuşur ve yanar. Hızlı sıcaklık artışı ile yanma odası içindeki gaz genleşir, artan basınç, pistonu aşağı doğru hareket ettirir. Biyel (piston) kolu vasıtasıyla oluşan bu itme krank miline iletilip,krank milinden de dönme momenti elde edilir.
+Motorun süpürmesinde, egzoz gazını silindirin dışına atma ve taze hava çekme işlemi, kapakçıklar (valf) veya giriş ve çıkış kanalları aracılığıyla yapılır. Diesel motorun kapasitesinin tam olarak kullanılabimesi için içeriye alınan havayı sıkıştırabilecek turboşarjer kullanılması gerekir; turboşarjer ile havanın sıkıştırılmasından sonra bir ara soğutucu ile içeri alınan havanın soğutulması ayrıca verimi arttırılır. 
+Çok soğuk havalarda, dizel yakıt koyulaşır, viskozitesi artar, balmumu kristalleri oluşur veya jel haline dönüşür. Yakıt enjektörü, yakıtı silindirin içine etkili bir şekilde itemez ve bu yüzden soğuk havalarda motorun çalıştırılmasını zorlaştırabilir. Dizel teknolojisinde bu zorluğu yenmek için çeşitli önlemler geliştirilmiştir. Sıkça kullanılan bir uygulama, yakıt hattı ve yakıt filtresini elektrikle ısıtmaktır. Bazı motorlarda silindir içinde bulunan kızdırma bujileri denen küçük elektrikli ısıtıcılar, çalıştırmak için silindirleri önceden ısıtırlar. Az sayıda motorda kullanılan başka bir teknolojide ise, manifold içindeki rezistans telli ısıtıcılar, motor çalışma sıcaklığına gelinceye dek giriş havasını ısıtır. Soğuk havalarda, motor uzun süreli (1 saatten daha fazla) kapatıldığında kullanılan ve şehir cereyanı ile çalışan motor blok ısıtıcıları, aşınma ve çalıştırma zamanını azaltmak için sıklıkla kullanılır. 
+Eski dizel motor sisteminin en önemli parçası hız kontrol ünitesidir; bu ünite yakıtın gelme hızını kontrol ederek motorun hızını sınırlar. Benzin motorlarından farklı olarak dizel motorlarında hava emme sübabı yoktur(burada kastedilen benzinli motorlardaki karbüratörün içindeki kapış diyaframı ve hava emiş kelebeğidir), bu yüzden hız kontrol ünitesi olmazsa motor fazla hızlanır. Eski tip hız kontrol üniteleri motordan bir vites sistemi ile yönlendirilir ve böylece sadece motor hızıyla doğru ilişkili olarak yakıt sağlanırdı. 
+Modern elektronik kontrollü dizel motorları benzin motorlarındakine benzer bir kontrol mekanizmasını "(ECM) Elektronik Kontrol Modülü" veya "Elektronik Kontrol Ünitesi (ECU)" yoluyla uygularlar. Motor "bilgisayarı" ECM/ECU içinde motorun çalışmasıyla ilgili algoritmalar ve kalibrasyon tabloları kaydedilmiştir. "ECM/ECU" bir sensörden motor hızına dair sinyal alınca gereken bilgi işlemlerini yapar, elektronik ve hidrolik valfler aracılığıyla yakıt miktarını ve yanma zamanlamasını kontrol ederek motor hızını sabit tutar. 
+Yakıtın pistonların içine enjeksiyonunun başlama zamanının kontrolu, emisyonların azaltılması ve motor veriminin (yakıt ekonomisi) artırılması için en önemli unsurdur. Silindir içine yakıt enjeksiyonu başlama zamanlaması, günümüz modern motorlarında elektronik olarak kontrol edilmektedir. Zamanlama, genellikle "üst ölü noktanın (TDC/Top Dead Center)" önündeki pistonun krank ünitesi açısı ile ölçülür. Örneğin, piston üst ölü noktadan 10 derece önde olduğu zaman eğer "ECM/ECU" yakıt enjeksiyonuna başlarsa, "enjeksiyon başlama veya zamanlama 10 derece öndedir" denir. Optimal zamanlama, motorun hızı ve yükü kadar tasarımına da bağlıdır.
+Enjeksiyon tipleri.
+Dizel motorlarda yakıt enjeksiyonu, "endirekt" ve "direkt" olarak iki tiptir.
+"Endirekt enjeksiyonda" yakıt, dizel motorda yanma odası dışında, "ön oda" olarak adlandırılan yere verilir. Yanma başladığında yanma odasının içine yayılır. Bu tipte motordaki aşırı gürültü ve titreşim düşürülür, fakat ısı kaybı artar ve motor verimi düşük olur.
+"Direkt enjeksiyon" ise modern dizel motorlarda kullanılır. Burada motordaki yanma odasına yakıt doğrudan püskürtülür.
+Emisyon Kontrolü.
+Dizel motorlarının en büyük sorunlarından biri, yanma veriminin düşük olmasıdır. Bir başka deyişle; yanma odasına giren yakıt homojenize bir şekilde yanmaz. Bunun sonucunda ortama çok fazla sera etkisi yapacak gazlar verilir. Bunun kontrolü son yıllarda Dizel motoru üreticilerinin en büyük sorunlarından birisi haline gelmiştir. Avrupa Birliğinin almış olduğu karara göre Kasım 2008'de Euro V standartları Avrupa'da devreye girmiştir. 
+Emisyon değerlerini düşürmek için ise araştırmalar hâlâ devam etmekte. "NADI" konsepti diye tabir edilen bir uygulama ile emisyon değerleri düşürülürken performans artışı da kayda değer bir şekilde artmaktadır. Bu uygulama ile enjeksiyon açıları düşürülerek küresel ısınmaya etkisi olacak gazların oluşumu bir nebze olsun azaltılmaktadır...
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sera etkisi</DOCTITLE>
+<TEXT>
+
+Dünya, üzerine düşen güneş ışınlarından çok, dünyadan yansıyan güneş ışınlarıyla ısınır. Bu yansıyan ışınlar başta karbondioksit, metan ve su buharı olmak üzere atmosferde bulunan gazlar tarafından tutulur, böylece dünya ısınır. Işınların bu gazlar tarafından tutulmasına sera etkisi denir. Atmosferde bu gazların miktarının artması Yerküre'de ısınmayı büyük oranda artırır.
+Günümüzdeki tehlike, karbondioksit ve diğer sera gazlarının miktarındaki artışın bu doğal sera etkisini şiddetlendirmesinde yatmaktadır. Binlerce yıldır dünyamızdaki karbon kaynakları kararlı kalırken, şimdi modern insanoğlu aktiviteleri, fosil yakıtlarin kullanımı, ormanların yok oluşu, aşırı tarım yapılması, atmosfere büyük miktarlarda karbondioksit ve diğer sera gazlarının salınmasına sebep olmaktadır. 
+Küresel ısınma, sera etkisiyle atmosferin periyodik olarak sıcaklığının artarak ısınması olup, doğal bir süreçtir. İnsanların aktiviteleri sonucunda atmosfere, özellikle gazların girdileri arttığından etki giderek fazlalaşmaktadır. 16.02.2001 tarihinde Cenevre’de açıklanan BM Çevre Raporu'na göre 21. Yüzyılda, ortalama hava sıcaklığının 1.4 °C ile 5.3 °C arasında artacağı, buzulların erimesiyle denizlerin 8–88 cm kadar yükseleceği, uzun vadede dünyanın fiziksel yapısında geri dönüşümü olmayan değişiklikler ortaya çıkacağı, Afrika kıtasında, tarım rekoltesinin düşeceği, ortalama yıllık yağış miktarının azalacağı, su sıkıntısı görüleceği, Asya kıtasında, kurak ve tropik bölgelerde yüksek sıcaklıklar, seller ve toprak bozulması, kuzey bölgelerinde ise tarım rekoltesinde artış görüleceği, tropik kasırgaların artacağı, Avrupa kıtasında, güney bölgelerinin kuraklığa eğilimli hale geleceği, Alp Dağları buzullarının yarısının 21. Yüzyılın sonunda yok olacağı ve tarım rekoltesinin azalacağı, Kuzey Avrupa’da ise tarım rekoltesinin artacağı, Lâtin Amerika’da kuraklık olacağı, sellerin çok sık tekrarlanacağı, tarım rekoltesinin azalacağı, sıtma ve koleranın artacağı, Kuzey Amerika’da tarım rekoltesinin artacağı, özellikle Florida ve Atlantik kıyılarında deniz seviyesinin yükseleceği, büyük dalgaların oluşacağı ve sellerin görülebileceği, sıtma ve ateşli humma gibi hastalıkların artacağı, sıcaklık ve nem artışıyla ölüm oranının artacağı, Polar bölgelerde buzulların eriyeceği, bitki ve hayvan türlerinin sayısının ve dağılımının etkileneceği, buzulların erimesiyle bağlantılı olarak deniz seviyesi her yıl 0.5 cm kadar yükseleceğinden, gelecek 100 yıl içerisinde mercan kayalıklarının zarar göreceği, çok sayıda küçük ada ve kıyı kentlerinin sulara gömüleceği gibi öngörülere yer verilmekte ve dünyanın bilinmezlerle dolu bir geleceğe doğru yol aldığı ortaya konmaktadır. Küresel ısınma üzerinde en etkili gaz olan karbondioksit emisyonlarını % 5 oranında azaltmak için bütün ülkelerin doğayı etkilemeyen yeni endüstri politikalarını devreye sokmak zorunda olduğu belirtilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Ahşap</DOCTITLE>
+<TEXT>
+
+Ahşap, tarih öncesi çağlardan beri insanların yapı yapmakta kullandığı en eski ve en yaygın yapı malzemelerindendir.
+Günümüzde Lamine ahşap teknolojisi olarak adlandırılan yeni bir yöntem, kimi çevrelerde şimdiden ahşabın önümüzdeki yüzyıl için en akla yatkın yapı malzemesi olduğu düşüncesini yaratmıştır.
+Ahşap, taşıdığı yüke kıyasla hafif bir yapı malzemesi olup deprem yüklerine karşı sünek davranabilmektedir. 
+Bu yapı malzemesinin asıl değeri, -insan metabolizmasına uygunluğunun ötesinde- , küresel ısınmaya ve sera etkisine karşı mücadelede taşıdığı önem incelendiğinde daha iyi anlaşılacaktır. Bir yaklaşım, ağaçların düzenli biçimde kesilerek kereste üretilmesi durumunda sera etkisinin azalacağı yönündedir.
+Küresel ısınma (sera etkisi).
+Küresel ısınma, sera etkisiyle atmosferin periyodik olarak sıcaklığının artarak ısınması olup, doğal bir süreçtir. İnsanların aktiviteleri sonucunda atmosfere, özellikle gazların girdileri arttığından etki giderek fazlalaşmaktadır. Küresel ısınma üzerinde en etkili gaz olan karbondioksit emisyonlarını % 5 oranında azaltmak için bütün ülkelerin doğayı etkilemeyen yeni endüstri politikalarını devreye sokmak zorunda olduğu belirtilmektedir. 
+Bu çerçevede, yapı malzemeleri seçiminde ağaç malzemenin önemi bir kez daha öne çıkmaktadır. Çünkü ağaçlar aktif büyüme periyotları süresince fotosentez işleminin bir parçası olarak havadan CO2 emerek, karbonu odunsu dokuya bağlarlar.
+Örneğin; tam kuru yoğunluğu 0,50 g/cm³ olan bir m³ odun hammaddesi 250 kg karbon, 0.935 ton karbondioksit depolamaktadır. Odunsu dokuda depolanan karbonun doğaya dönmesini engellediğimiz sürece, yani ağaç malzemenin yanmasına ya da çürümesine izin vermediğimiz sürece, doğadaki sera etkisi azalacaktır. Karbon depolama, ekosistemde sürekli devam edebilir. Ancak, dikkatlerden kaçan bir konu, yaşlanan ağaçların CO2 soluyup, C depolama kabiliyetlerinin giderek azalmasıdır.
+Ahşap kullanımının ülke ekonomilerine etkisi.
+Ahşap endüstrisinin geliştiği Kanada, Amerika Birleşik Devletleri, İskandinav ülkelerinde çok önemli bir ekonomi koludur. Ve orman endüstrisi gelişen bu ülkelerde orman alanları artmakta, orman endüstrisinin gelişmediği ülkelerde ise tersine bir gelişme olarak orman alanları azalmaktadır. 
+Ahşap yüzlerce materyalin hammaddesidir:
+Radon gazı ve ahşap.
+Genelde insanlar zamanlarının hemen hemen %90'ını kapalı mekanlarda geçirdikleri için radona maruz kalmaları önemli bir problem olarak ortaya çıkmaktadır. Çünkü, akciğer kanserlerinin %15 inin radon gazından, %30 unun ise sigaradan kaynaklandığı bilimsel olarak kanıtlanmıştır.
+Radon konsantrasyon limitleri.
+Kapalı ortamlarda radon gazı konsantrasyonunun kontrolu amacıyla gerek ülkeler gerekse uluslararası kuruluşlar tarafından limit değerler belirlenmiştir. Söz konusu limit değerlerin aşılması halinde, radon konsantrasyonunu düşürücü tedbirlerin alınması tavsiye edilmektedir. Uluslararası Atom Enerjisi Kurumu Temel Güvenlik Standartları (IAEA-BSS) çerçevesinde, radon için tavsiye edilen düzeyler 200-600 Bq/m³ olarak belirlenmiştir. Türkiye'de müsaade edilebilir radon konsantrasyonu ise 400 Bq/m³'tür. 
+Ahşap yapılarda ise radon gazı konsantrasyonu maksimum değerlerin neredeyse onda biri kadardır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Prokaryot Hücre  (EBA)</DOCTITLE>
+<TEXT>
+
+1980’li yıllar ve öncesinde günümüzde kullandığımız, kullanılıp atılan enjektörler yoktu (Resim 74). Ya da kullanımı bu kadar yaygın değildi. O zaman sağlık personeli iğneleri kaynatıp kullanırdı. Peki, bu iğneler neden kaynatılıyordu? 
+O günkü koşullarda, iğnenin ucundaki canlıların neden olduğu hastalık etkenleri iğnenin kaynatılması yolu ile yok edilmeye çalışılıyordu. Sizce bunlar hangi canlılardı? Bu yöntem ne kadar yeterli idi? Bu canlılar sadece hastalık etkeni midir? 
+Prokaryot, Latince “önce-ilkel” anlamına gelen “pro” ve “çekirdek” anlamına gelen “karyon” kelimelerinden oluşmuştur. 
+Gül, tavşan, bakteri ve protista üyelerinin hangilerinin prokaryot olduğu sorusuna, birçok insan bakteri ve protista üyeleri bir hücreden meydana geldiği için prokaryotik hücre yapısına sahiptir, cevabını verebilir. 
+Oysa ki prokaryot hücrelerin en belirgin özelliği bir hücreli olmaları değil, zarla çevrili bir çekirdek yapılarının olmamasıdır. Bu hücre tipinde zarlı organeller de bulunmaz. Kalıtım materyalleri ise sitoplazma içerisinde dağınık olarak bulunur. Bu canlılardaki bütün metabolizma olayları, sitoplazma ve hücre zarındaki yapılarda gerçekleşir (Resim 76). Bu bağlamda sorumuzun cevabı, verilen canlılardan sadece bakteriler prokaryotik hücre yapısına sahip iken diğerleri ökaryotik hücre yapısına sahiptir, şeklinde olmalıdır. 
+Prokaryotik canlılara bakteriler dışında arkebakteriler de örnektir. Arkebakteriler de bakteriler gibi sitoplazmalarında zarla çevrili çekirdekleri ve organelleri bulunmayan prokaryot hücre yapısına sahip ayrı bir canlı grubudur. 
+Arkebakteriler arasında yer alan metanojenik arkebakteriler, çiftliklerde hayvan gübresinden ve büyük şehirlerde çöplerden biyogaz yani metan gazı üretmektedir (Resim 77). Metanojenik arkebakteriler sayesinde üretilen gaz enerji ihtiyacını karşılamakta aynı zaman da kirlilik engellenmekte ve atmosferde sera gazı etkisi yapan metan gazı atmosfere salınmamaktadır. 
+Arkebakteriler hakkında daha ayrıntılı bilgileri sınıflandırma kısmında daha ayrıntılı olarak göreceğiz. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Gliese 581 d</DOCTITLE>
+<TEXT>
+
+Gliese 581 d, Dünya'dan yaklaşık olarak 20 ışık yılı uzaklıktaki Gliese 581 yıldızının etrafında dönen bir güneş dışı gezegendir. Sisteminde keşfedilmiş olan üçüncü ve yıldızından olan uzaklığına göre beşinci gezegendir. Dünya'dan en az 5.6 kat büyük kütlesi nedeniyle bir dev dünya olarak sınıflandırılmaktadır. Nisan 2009'da özgün eşif ekibi gezegenin sıvı su bulunmasına elverişli olan yaşanabilir bölgenin sınırlarında olduğuna karar verdi. Daha sonra üç boyutlu bir simülasyon gezegenin bir atmosfere ve yüzeyinde sıvı suya sahip olmasının olası olduğunu gösterdi.
+Gliese 581 d yıldızından Dünya'ya gelen güneş ışığının ortalama %30'u kadar ışık alır. Mars'ta bile bu oran %40'tır. Bu gezegenin sıvı su ve yaşam barındırmasının imkânsız olduğu yönünde şüpheler ortaya çıkarsa da, atmosferdeki bir sera etkisi sıcaklıkları önemli ölçüde arttırabilir. Bu nedenle gezegenin atmosferi yeterice büyük bir sera etkisine yol açıyor ve gezegenin jeofiziği karbondioksit varlığını sabitliyorsa gezegende sıvı su ve bir su döngüsüne izin verecek düzeyde sıcaklıklar mevcut olabilir.
+Gezegenin büyüklüğü nedeniyle sadece kayalık maddeden oluşmamasının daha olası olduğu öne sürülse de, yıldızına zaman içinde yakınlaşmış buzlu bir gezegen olduğu da öne sürülmektedir.
+Ekim 2008'de sosyal paylaşım sitesi Bebo, Gliese 581 d'ye doğru "A Message From Earth" adı verilen yüksek güçlü bir radyo yayını yaptı. Yayın gezegene 2029'da ulaşacak, ve olası bir cevap Dünya'ya 2049 yılında geri dönecek. 2009'da da Avustralya'dan Cosmos Magazine gezegene "Hello From Earth" adlı İngilizce bir mesaj gönderdi.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>AGROVOC</DOCTITLE>
+<TEXT>
+
+Çok dilli bir tesarus olan AGROVOC tarım, ormancılık, balıkçılık, gıda güvenliği alanlarını ve bunlarla ilişkili diğer alanları (Sürdürülebilir Kalkınma, Beslenme vb.) kapsamaktadır.Değişik dillerde kelime ve deyimleri (terimleri) içerir ve bunların ilişkilerinin (ör. "üst grup", "alt grup" ve "ilişkili grup" gösterildiği bir yapıdadır. Kaynak belirlemede ve arama-tarama yapmada kullanılır. Daha basit ve etkili arama tarama yapmayı mümkün kılmak ve kullanıcıların en fazla ilgili kaynağa ulaşmasını sağlamaya yönelik standart bir indeksleme yapılmasında büyük rol oynar. 
+AGROVOC Tesarus 1980’li yılların başlarında Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) ve Avrupa Topluluğu Komisyonu tarafından geliştirilmiştir. FAO tarafından her 3 ayda bir güncellenmektedir. Kullanıcılar spesifik değişiklikleri AGROVOC Web Sitesinden takip edebilirler: [http://www.fao.org/aims/ag_intro.htm] 
+AGROVOC İngilizce, Fransızca, İspanyolca, Çince ve Arapça olmak üzere FAO’nun kullandığı 5 resmi dilde mevcuttur. Aynı zamanda Çek, Alman, Japon, Portekiz, Slovak ve Tai dillerine de çevrilmiştir. Hindu, Macar, İtalyan, Kore, Fars dili gibi diğer dillerde de çeviri veya kontrol işlemleri devam etmektedir.
+AGROVOC’un Yapısı.
+AGROVOC, daima bir veya aynı kavramı temsil eden bir veya daha fazla kelimeden oluşmuş terimlerden oluşmaktadır. Her bir terim için diğer terimlerle hiyerarşik ve hiyerarşik olmayan ilişkilerin gösterildiği bir kelime bloku yer almaktadır: BT (üst terim, dahil olduğu üst grubu temsil eden terim), NT (alt terim, içerdiği alt grubu temsil eden terim), RT (ilgili terim), UF (tanımlayıcı olmayan sözcük).
+Bu ilişkiler AGROVOC Tesarusun yapısını ve kapsamını oluşturur. Örneğin, "Hava Kirliliği" terimi için dahil olduğu bir üst grubu temsil eden terim olan "Kirlenme" ve ilişkili olduğu terimler olan "Atmosfer" ve "Sera Etkisi" terimlerinin bilinmesi bu terimlerin ifade ettiği bilginin kapsamını tanımlar. İlaveten, AGROVOC’ta kullanılan açıklayıcı notlar gerekli olduğunda terimlerin durumlarını ve anlamlarını açıklığa kavuşturmada yardımcı olur. Taksonomik ve coğrafi terimlerTaksonomik ve Coğrafi terimlerin açıklayıcı notla belirtilmesi arama-tarama, filtreleme ve yükleme işlemlerinde kolaylık sağlar.
+Formatlar.
+AGROVOC ticari olmayan kullanımlar için internetten indirilebilir. MySQL, Microsoft Access, Tag Text, ISO2709, XML, SKOS ve OWL formatlarında mevcuttur.
+AGROVOC Web Hizmetleri.
+AGROVOC Web Hizmetleri veritabanının yerel nüshasının kullanımı yerine, Web servisleri yoluyla AGROVOC’un ortak kullanımını sağlamaya yönelik, Tarımsal Enformasyon Yönetim Sistemlerinin geliştirilmesini destekleyen girişimin bir bölümü olarak son zamanlarda online yürütülmektedir. Web hizmetleri ile tesarusun güncellenmesi çabucak yapılabilmekte böylece ortak yararlanmada en son edisyonun kullanılabilmesi için düzenli olarak yapılması gerekli yüklemeler için daha az zaman ve emek harcanır. 
+Son zamanlarda tesarusa online erişim için 7 web servisi bulunmaktadır:
+AGROVOC Web Hizmetleri, SOAP ve WSDL gibi hali hazırdaki standart açık kaynak teknolojilerine dayanmaktadır.
+Tesarustan Ontolojilere.
+AGROVOC Tarımsal Ontoloji Geliştirme (AOS) projesinin dayanağını oluşturmaktadır. AGROVOC gibi sözlük sistemleri ve tesarusların içerdiği bilgiler kullanılmasıyla, AOS, web ortamında enformasyon yönetimini daha iyi destekleyecek belli bir alanda uzmanlaşmış-spesifik terminoloji ve kavramların geliştirilmesini mümkün kılabilecektır. 
+Ana amaçlardan biri, kavramlar arasındaki ilişkilerin daha da spesifikleştirilerek genişletilmesi yoluyla tesarusa daha fazla semantik eklenmesidir.
+Örneğin, şu anda "kirleticiler", "kirlilik" teriminin altında ilişkili olduğu terimler arasında yer almaktadır. Pratikte, birliktelik tipi tanımlandığı zaman açık bir şekilde "kirleticiler" in "kirlilik" nedeni olduğunu gösterebileceğiz, böylece ilişkiye, basit "ilişkili terim (RT)" ibaresinden daha fazla anlam yüklemiş olacağız.
+Kullanıcılar "kirlilik" terimi hakkında bilgi sahibi olmak istediklerinde, arama sonuçlarını sınırlamalarını sağlaması amacıyla belli başlı ilişki türleri kendilerine sunulacak ve bunlar arasından uygun olanı seçmeleri istenecektir. Örneğin, "Kirliliğin bütün nedenlerini görmek istermisiniz?" Bu açıklama, aramada daha fazla ilgili kaynağa ulaşmayı önemli ölçüde artıracaktır.
+İlişkilerin gösterildiği genişletilmiş tablo, kullanıcılara daha çok maddeli ve daha tutarlı indeksleme yapmayı ve daha etkin arama ve tarama olanağını sağlamaktadır. AOS bu doğrultuda bir adım önde olmayı hedeflemektedir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karbon Döngüsü  (EBA)</DOCTITLE>
+<TEXT>
+
+Fosil yakıtlar, sucul ekosistemlerdeki sedimentler, okyanuslardaki çözünmüş karbon bileşikleri, kireç taşları ve canlıların biyokütleleri doğadaki karbon kaynaklarıdır. 
+Yanma, hücre solunumu ve ayrıştırma olayları sonucunda atmosfere CO2 verilmektedir (Resim 3.26). 
+Doğadaki kömür, petrol gibi fosil yakıtlar ile odun yakıldığında, atmosfere fazladan CO2 salınımı olur. Kireç taşlarının suda çözünmesiyle ortaya çıkan ve oksijenli hücre solunumu sırasında oluşan ve atmosfere verilen CO2 , ototrof organizmalar tarafından organik bileşiklerin yapımında kullanır. 
+Ototrof organizmaların kullandığı CO2 miktarına neredeyse eşit miktarda CO2, bu organizmaların solunumuyla tekrar havaya verildiğinden denge sağlanmış olur. 
+Petrol ve kömür gibi fosil yakıtların tüketilmesi, atmosferdeki CO2 miktarını arttırarak küresel ısınmaya yol açmaktadır. Çünkü atmosferde CO2 miktarının artması, yeryüzünden geriye yansıyan ısının tutulmasına yol açarak sera etkisi yaratmakta ve küresel olarak sıcaklığın artmasına neden olmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çevre Sorunlarinin Siniflandirilmasi (EBA)</DOCTITLE>
+<TEXT>
+
+Çevre sorunlarının ortaya çıkması, genellikle insan kaynaklı etkinliklere dayanmaktadır. İnsan etkisiyle doğada meydana gelen değişimler çeşitli çevre sorunlarına neden olmakta ve doğanın dengesini bozmaktadır. Çevre sorunları günümüzde önemli boyutlara ulaşmış ve hızla artmaktadır. Sanayileşme, tanm ve tıp alanlanndaki yenilikler büyük nüfus artışını ve beraberinde de çevre sorunlarını gündeme getirmiştir. Nüfusun hızla artması, denetimsiz kentleşme, küresel ısınma, doğal yaşamın bozulmaya yüz tutması, ozon tabakasının seyrelmesi, sera etkisi, katı atıklardaki artış, nükleer kirlenmeler, yeşil alanların azalması, bitki ve hayvan türlerinin yok olmaya başlaması bugün söz konusu olan başlıca çevre sorunlarıdır.
+- Hızlı Nüfus Artışı		
+- Su Kaynaklarının Azalması		
+- Toprak Kaynaklarının Tahribi		
+- Küresel Isınma ve İklim Değişimi		
+- Doğa Bitki Örtüsü Tahribi		
+- Çevre Kirliliği
+- Biyoçeşitliliğin azalması
+- Su ürünlerinin azalması
+- Ozon tabakasının tahribi
+- Kişi Başına Düşen Tarım Alanlarının Azalması
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Emeğil, Pınarbaşı</DOCTITLE>
+<TEXT>
+
+Emeğil Kayseri ilinin Pınarbaşı ilçesine bağlı köy. 
+Tarihçe.
+Emeğil köyünün web sitesi:
+http://emegil.forumprofi.de/
+Facebook adresi:
+https://www.facebook.com/emegil
+Twitter adresi:
+https://twitter.com/emegilkayseri
+Emeğil köyü,kayseri ili pınarbaşı ilçesinin çok şirin bir köyüdür.
+Emeğil köyü yeşilliğin bol olduğu, havasıyla, suyuyla mükemmel bir manzaralı görünüme sahiptir...
+Oğuzların Avşar boyundandır. 
+Eski köy yeri Bahçelik Barajı'nın yapımıyla su altında kaldı. 
+Yeni köy iskan edilip eski arazilerin ve devlet arazilerinin üzerine inşa edildi.
+Kültür.
+Emeğil´de Avşar boyunun gelenek ve görenekleri yaşanmaktadır ve gelenek ve göreneklerine çok bağlıdırlar...
+Yemekleri; İçli köfte, Avşar Pilavı, patatesli mantı, tutmaç, tarhana çorbası geleneksel yemekleridir...
+Coğrafya.
+Kayseri iline 80 km, Pınarbaşı ilçesine 9 km uzaklıktadır.
+İklim.
+Köyün İklimi
+Emeğil Köyü'ne yapılan baraj sebebiyle iklimde değişiklik meydana gelmiştir.Yaz aylarında havanın nemli olması sebebiyle toprağa çiğ düşmektedir.Kış aylarında ise yağan karlar hemen erimekte ve aynı zamanda çimler yeşil olarak kalmaktadır.Ayrıca bazı bitki türleri daha geç solmaktadır.Baraj sularının geç ısınıp geç soğuması sebebiyle sera etkisi yapmaktadır.Daha önceleri yazları sıcak ve kurak,kışları ise soğuk ve sert geçerdi.Şimdi ise yaz mevsiminde havalar sıcak ve nemli ,kış mevsiminde ise ılık ve yumuşak olarak geçmektedir.Yıllara bağlı olarak hava sürekli nem depolayarak rutubet oranını yükselterek bölgedeki bitki örtüsünü canlandırmaktadır.Baraj sularının yaz aylarında güneşden gelen ısıyı depolaması, kış aylarının ılık ve yumuşak geçmesini sağlamıştır.
+Ekonomi.
+Köyün başlıca geçim kaynakları balıkcılık ve madencilikdir.
+Köyün Geçim Kaynakları
+Emeğil Köyü baraj sularında doğal ortamda Aynalı Sazan,Yayın,Turna,ve Alabalık türleri yaşamaktadır. Balık üretme çiftliklerinde sadece Alabalık üretilmektedir...
+Köyün genel olarak geçim kaynağı madencilik ve balıkcılıkdır.Bahçelik barajında alabalık çiftlikleri mevcuttur.Emeğil köyü civarında Torun Tepe ve Savalan mevkisinde krom madeni ocakları vardır.Ayrıca bir adet de Krom Madeni zengilleştirme fabrikası kurulmuştur.Türkiye krom madeni üretimde dünyada ikinci sıradadır...
+Muhtarımız.
+Hacı Çetin
+Altyapı bilgileri.
+Emeğil köyünün içme suyu şebekesi vardır,emeğile ulaşımı sağlayan yol D 300 köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,27 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tuğla tuğ+Noun+A3sg+Pnon+Ins Tuğla+Noun+Prop+A3sg+Pnon+Nom tuğla+Noun+A3sg+Pnon+Nom tuğla+Adj tuğla+Verb+Pos+Imp+A2sg
+briket briket+Noun+A3sg+Pnon+Nom
+çimento çimento+Noun+A3sg+Pnon+Nom
+ve ve+Conj
+gaz gaz+Noun+A3sg+Pnon+Nom
+beton beton+Noun+A3sg+Pnon+Nom beton+Adj
+gibi gibi+Postp+PCGen gibi+Postp+PCNom
+çeşitli çeşit+Noun+A3sg+Pnon+Nom^DB+Adj+With
+yapı yapı+Noun+A3sg+Pnon+Nom
+malzemelerinin malzeme+Noun+A3pl+P3sg+Gen malzeme+Noun+A3pl+P2sg+Gen malzeme+Noun+A3pl+P3pl+Gen malzeme+Noun+A3sg+P3pl+Gen
+kullanıldığı kullan+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg kullan+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+yapılara yapı+Noun+A3pl+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

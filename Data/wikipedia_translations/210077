@@ -1,0 +1,45 @@
+Radon ölçümü
+Matematik (özellikle ölçü teorisi) olarak Johann Radon adını bir Radon ölçümü, Borel σ-cebir üzerinde bir ölçü lokal sonlu ve düzenli iç bir Haussdorf topolojik uzay "X" setleri olduğunu.
+Motivasyon.
+Yaygın bir sorun bir anlamda topoloji ile uyumlu bir topolojik uzay üzerinde bir tedbir iyi bir fikrini bulmaktır. Bunu yapmanın bir yolu, topolojik uzayın Borel kümeleri üzerinde bir tedbir tanımlamaktır. Genel olarak, bu konuda birtakım problemler bulunmaktadır: örneğin, böyle bir tedbir iyi tanımlanmış bir destek olabilir. Teorisi ölçmek için diğer bir yaklaşım (bazı yazarlar Radon ölçüm tanımı olarak kullanmak) yerel kompakt Haussdorf alanlarda kısıtlamak ve sadece kompakt desteği ile sürekli fonksiyonların uzayında pozitif lineer fonksiyonellerin karşılık önlemler düşünmektir. Bu patolojik problemleri ile iyi bir teori üretir, ancak yerel kompakt olmayan alanlarda için geçerli değildir. Izin verilen negatif olmayan önlemler ve karmaşık önlemlere herhangi bir kısıtlama yoksa, o zaman Radon önlemler kompakt desteği ile sürekli fonksiyonlar uzayında sürekli dual alanı olarak tanımlanabilir. Böyle bir Radon tedbir sonra gerçek ise bu iki pozitif tedbirlerin farkı ayrılacak olabilir. Ayrıca, keyfi bir Radon ölçümü fonksiyonel gerçek ve sanal kısımları her iki pozitif Radon tedbirlerinin farklar dört pozitif Radon tedbirler, ayrılacak olabilir.
+Radon önlemlerin teorisi yerel kompakt uzaylar için olağan teorisi iyi özelliklerinin çoğu vardır, ancak tüm Hausdorff topolojik uzaylar için de geçerlidir. Bir Radon önlemin tanımı fikri olumlu fonksiyoneller tekabül yerel kompakt uzaylar üzerinde önlemleri karakterize bazı özelliklerini bulmak ve keyfi bir Hausdorff uzay üzerinde Radon ölçüm tanımı olarak bu özellikleri kullanmaktır.
+Tanımlar.
+"M" a Haussdorf topolojik uzay "X" setleri Borel σ-cebir üzerinde bir ölçü olsun.
+tedbir "m" herhangi Borel için "B", "m" ("B") set, eğer düzenli veya sıkı iç denir tüm kompakt alt "K" over "m" ("K") olarak supremum "dir B ".
+eğer tedbir "m" herhangi Borel için "B", "m" ("B") set, dış normal denir "U" "B" içeren tüm açık kümeler üzerinde "m" ("U") olarak infimum olduğunu .
+tedbir "m" "X" her noktası "m" ("U") sonlu olduğu bir mahalle "U" varsa lokal sonlu denir. ("M" lokal sonlu ise, o zaman m kompakt kümeler üzerinde sonlu olduğunu izler.)
+Bu iç düzenli ve lokal sonlu ise tedbir "m" a Radon ölçümü olarak adlandırılır.
+Yerel kompakt uzaylar üzerinde radon ölçer.
+Altta yatan tedbir alan bir yerel kompakt topolojik uzay olduğunda, bir Radon ölçü tanımı kompakt desteği ile sürekli fonksiyonların uzayında sürekli lineer fonksiyonellerin cinsinden ifade edilebilir. Bu sayede fonksiyonel analiz, alınan bir yaklaşım ve diğer yazarların bir dizi bakımından tedbir ve entegrasyonu geliştirmek için yapar.
+Önlemler.
+Aşağıda ise "X" yerel kompakt topolojik uzay gösterir. "X" kompakt desteği ile sürekli gerçek değerli fonksiyonlar doğal lokal konveks topoloji verilebilir bir vektör uzayı FORMULA_1 oluşturur. Nitekim, formula_2 "K" kompakt setler bulunan desteğiyle sürekli fonksiyonların formula_3 mekanların birliğidir. Doğal bir Banach uzaya yapar düzgün yakınsaklık, topolojisine taşıyan formula_3 alanlarda her. Topolojik uzayların bir sendika topolojik uzaylarda doğrudan sınırı özel bir durumdur Ama, uzay formula_2 boşluklar formula_3 tarafından uyarılan doğrudan sınır topoloji ile donatılmış olabilir.
+"M" formula_7 bir Radon ölçümü daha sonra eşleme ise
+R. Pozitifliği için formula_2 bir "sürekli" pozitif doğrusal harita anlamına olduğunu "I" ("f") ≥ 0 "f" negatif olmayan bir fonksiyon olduğunda. Yukarıda tanımlanan doğrudan sınır topoloji ile ilgili Süreklilik aşağıdaki koşullarda eşdeğerdir: "X" her kompakt alt kümesi "K" için sürekli "M" "K bulunduğunu" Böyle, her sürekli gerçek değerli işlev için "f K içerdiği desteğiyle "ile" X "" açık ",
+Tersine, Riesz-Markov teoremi, formula_2 her "olumlu" doğrusal formu Radon tedbir açısından entegrasyonu gibi doğar ve böylece formula_2 bir "sürekli" pozitif doğrusal şeklidir.
+Bir gerçek değerli Radon tedbir formula_2 üzerinde "herhangi bir" sürekli lineer formu olarak tanımlanır; onlar tam iki Radon önlemler farklılıklar bulunmaktadır. Bu lokal konveks uzay formula_2 ikili alan gerçek değerli Radon önlemlerin belirlenmesini sağlar. Bunlar gerçek değerli Radon önlemler önlemler imzalanmış olması gerekmez. Örneğin, sin ("x") d "x" gerçek değerli Radon ölçüsüdür, ancak sonlu en az biri iki önlemlerin farkı olarak yazılır olamaz bile uzun bir imzalı tedbir değildir.
+Bazı yazarlar formula_2 pozitif lineer formları olarak (pozitif) Radon önlemleri tanımlamak için yukarıdaki yaklaşımı kullanmak; bakın, ya da. Bu set-up yukarıdaki anlamda Radon tedbirler yukarıdaki gibi (reel) tedbirler denir "olumlu" önlemleri ve gerçek değerli Radon önlemler denir olduğu bir terminoloji kullanımı yaygındır.
+Entegrasyon.
+Fonksiyonel-analitik bakış açısıyla yerel kompakt uzaylar için ölçü teorisi oluşumunu tamamlamak için, kompakt desteklenen sürekli fonksiyonlar gelen ölçüsü (ayrılmaz) genişletmek için gereklidir. Aşağıdaki gibi birkaç adımda gerçek veya kompleks değerli fonksiyonlar için yapılabilir:
+Bu adımlar "X" her Borel kümesi için bir sayı atar bir fonksiyonu olarak tanımlanan bir Radon tedbir başlar biriyle özdeş bir teori üretmek olduğunu doğrulamak mümkündür.
+R Lebesgue ölçümü bu fonksiyonel-analitik set-up birkaç yollarla sokulabilir. Birincisi, güvenmek olasılıkla bir bu integrallerin tüm ilköğretim tanımları için integrallenebilir olarak, örneğin Daniell ayrılmaz veya kompakt desteği ile sürekli fonksiyonların integralleri için Riemann integrali ayrılmaz "ilköğretim". ilköğretim entegrasyonu ile tanımlanan (anlamda yukarıda tanımlandığı olarak) ölçüsü tam Lebesgue ölçüsüdür. Biri Riemann veya Daniell integrali veya benzeri teorilerin bağımlılığı önlemek istiyorsa İkincisi, ilk Haar önlemlerin genel teorisini geliştirmek ve Haar ölçüsü normalleşme koşulunu sağlayan R λ "λ" olarak Lebesgue ölçümünü tanımlamak mümkündür ([0,1]) = 1.
+Örnekler.
+Radon tedbirlerinin bütün örnekleri şunlardır:
+Aşağıdaki Radon Bu araçlar arasında değildir:
+Temel özellikleri.
+Moderatör Radon önlemleri.
+Bir boşluk "X" bir Radon tedbir "m" göz önüne alındığında, biz başka bir ölçü tanımlayabilirsiniz
+Koyarak "M" (Borel setleri üzerine)
+tedbir "M" normal dış ve lokal sonlu ve açık kümeler için düzenli olarak iç olduğunu. Bu kompakt kümeler üzerinde "M" ile aynıdır benzersiz iç düzenli bir önlem olarak "M" den yeniden olabilir kompakt ve açık setlerinde "m" ve "m" ile çakışır. "M" σ-sonlu ise tedbir "m" moderator denir; Bu durumda tedbirler "m" ve "M" aynıdır. ("M" ise σ-sonlu bu "M", yani yönetilir olan σ-sonlu σ-sonlu olmaktan daha güçlü olduğu anlamına gelmez.)
+Güçlü bir Lindelöf alan her Radon önlem moderator.
+Σ-sonlu ama denetlenmez ölçer "M" nin bir örneği, aşağıdaki gibi verilir. noktaları (1 / "n", "m" / "n ile birlikte" y "noktaları -Axis (0," y ") tarafından verilen gerçek uçağın alt kümesi set altta olduğu gibi topolojik uzay" X "var "2) ile" m "," n "pozitif tamsayılar. aşağıdaki gibi topoloji verilir. Tek noktaları (1 / "n", "m" / "n" 2) Tüm açık setleri vardır. Noktanın mahallelerde bir baz (0, "y") formun "X" tüm noktalarından oluşan takozlar verilir ("u", "v") ile | "v" - "y" | ≤ | "u" | bir pozitif tamsayı "n" için ≤1 / "n". Bu boşluk "X" yerel kompakt. tedbir "m" "y" izin verilir var ("m" / "n" 2, 1 / "n") ölçü 0 ve nokta icar var -Axis tedbir 1 / "n" 3. Bu tedbir, iç düzenli ve lokal sonlu, ama "y" -Axis tedbir sonsuzluk vardır içeren herhangi bir açık set olarak düzenli dış değildir. "Y" -Axis var "m" sayılmış 0 ama "M" sayılmış sonsuz Özellikle.
+Radon uzaylar.
+Her sonlu Borel ölçüsü Radon ölçüsüdür ve güçlü Radon her lokal sonlu Borel ölçüsü Radon ölçüsüdür eğer bir boşluk, bir Radon uzay denir. Herhangi Suslin alan kuvvetle Radon ve dahası her Radon önlem moderator.
+Dualite.
+Bir yerel kompakt Hausdorff uzay, Radon önlemler kompakt desteği ile sürekli fonksiyonların uzayında pozitif lineer fonksiyonellerin karşılık gelmektedir. Bu özellik Radon tedbirin tanımı için temel motivasyon olduğu gibi bu şaşırtıcı değildir.
+Metrik uzay yapısı.
+formula_22 tüm (pozitif) Radon tedbirlerinin sivri koni formula_21 olmak için iki ölçü arasındaki formula_23 Radon mesafeyi tanımlayarak tam metrik uzayın yapısını verilebilir
+Bu metrik bazı sınırlamalar vardır. Örneğin, formula_22 üzerinde Radon olasılık önlemlerinin uzayı,
+Radon metrik açısından kompakt sırayla değil: "yani", bu olasılık önlemleri herhangi dizisi bazı uygulamalarda zorluklar metrik Radon, ile ilgili yakınsak bir dizi olması olacağı garanti edilmez. Öte yandan, formula_22 daha sonradan kompakt bir ölçüm alanı ise,
+Wasserstein metrik kompakt metrik uzaya formula_28 döner.
+Radon metrik Yakınsama önlemlerinin zayıf yakınsama ima:
+ancak tersi ima genel yanlıştır. Zayıf yakınsama ile tezat olarak Radon metrik tedbirlerin Yakınsama bazen güçlü yakınsama olarak bilinir.

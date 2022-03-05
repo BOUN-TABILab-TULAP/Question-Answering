@@ -1,0 +1,13 @@
+1	Norveç	Norveç	Noun	Prop	A3sg|Pnon|Nom	11	SUBJECT	_	_
+2	İsveç	İsveç	Noun	Prop	A3sg|Pnon|Nom	3	OBJECT	_	_
+3	gibi	gibi	Postp	Postp	PCNom	4	MODIFIER	_	_
+4	ülkelerde	ülke	Noun	Noun	A3pl|Pnon|Loc	11	LOCATIVE.ADJUNCT	_	_
+5	en	en	Adv	Adv	_	7	MODIFIER	_	_
+6	_	önem	Noun	Noun	A3sg|Pnon|Nom	7	DERIV	_	_
+7	önemli	_	Adj	Adj	With	8	MODIFIER	_	_
+8	geçim	geçim	Noun	Noun	A3sg|Pnon|Nom	9	CLASSIFIER	_	_
+9	kaynağı	kaynak	Noun	Noun	A3sg|P3sg|Nom	11	SUBJECT	_	_
+10	_	ne	Pron	QuesP	A3sg|Pnon|Nom	11	DERIV	_	_
+11	nedir	_	Verb	Zero	Pres|A3sg|Cop	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

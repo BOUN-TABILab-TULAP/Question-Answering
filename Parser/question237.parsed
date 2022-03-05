@@ -1,0 +1,15 @@
+1	Türkiyenin	Türkiyenin	Noun	Prop	A3sg|Pnon|Nom	13	SUBJECT	_	_
+2	ılıman	ılıman	Adj	Adj	_	3	MODIFIER	_	_
+3	kuşakta	kuşak	Noun	Noun	A3sg|Pnon|Loc	6	LOCATIVE.ADJUNCT	_	_
+4	yer	yer	Noun	Noun	A3sg|Pnon|Nom	6	OBJECT	_	_
+5	_	al	Verb	Verb	Pos	6	DERIV	_	_
+6	almasının	_	Noun	NInf	A3sg|P3sg|Gen	13	OBJECT	_	_
+7	sosyal	sosyal	Adj	Adj	_	8	MODIFIER	_	_
+8	ve	ve	Conj	Conj	_	9	COORDINATION	_	_
+9	ekonomik	ekonomik	Adj	Adj	_	10	MODIFIER	_	_
+10	alanda	alan	Noun	Noun	A3sg|Pnon|Loc	13	LOCATIVE.ADJUNCT	_	_
+11	etkileri	etki	Noun	Noun	A3pl|P3sg|Nom	13	SUBJECT	_	_
+12	_	nasıl	Adj	Adj	_	13	DERIV	_	_
+13	nasıldır	_	Verb	Zero	Pres|A3sg|Cop	14	SENTENCE	_	_
+14	.	.	Punc	Punc	_	0	ROOT	_	_
+

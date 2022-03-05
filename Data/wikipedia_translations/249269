@@ -1,0 +1,29 @@
+Asit-baz titrasyonu
+Bir asit-baz titrasyonu tam olarak bir asit ya da bilinen konsantrasyonda bir baz ile asit veya baz nötralize ederek, bir asit veya bazın konsantrasyonu belirlenmesidir. Bu, bilinmeyen bir asit ya da baz çözeltisinin konsantrasyonunun kantitatif analizi sağlar. Bu asitler ve bazlar arasındaki meydana Nötrleştirme tepkimesi kullanır.
+Asit-baz titrasyonları da kimyasal yüzde saflığını bulmak için kullanılabilir.
+Alkalimetri ve Asidimetri.
+Alkalimetri ve Asidimetri temel reaksiyon nötralize reaction.Alkalimetry bir bazik (ayn alkalin) maddenin konsantrasyonunu belirlemek için asit-baz titrasyonu uzman analitik kullanımı olan hacim analiz türüdür. Asidimetri, bazen yazıldığından acidometry, uzman analitik asit-baz titrasyonu aynı kavram, ancak asidik madde için.
+Ekipman.
+Bir titrasyonda kullanılan anahtar ekipman şunlardır:
+Yöntem.
+Titrasyon, uygun bir pH göstergesi başlamadan önce seçilmelidir. Reaksiyonun, eş değerlik noktası reaktanlann eşdeğer miktarlarda tepki noktası, kullanılan asidin ve bazın göreli kuvvetlerine bağımlı bir pH değerine sahip olacaktır. eşdeğerlik noktası pH aşağıdaki kuralları kullanarak tahmin edilebilir:
+Zayıf bir asit, zayıf bir baz ile reaksiyona girer zaman baz asit güçlü ise, daha güçlü ve asidik ise, eş değerlik noktası, solüsyonu bazik olacaktır. Her iki eşit güçte ise, o denklik pH nötr olacak. Gözlemci renk değişikliği görmek için göstergeli gösterilen renk değişikliği genellikle hızlı, ve bu nedenle çok zor olduğundan Ancak, zayıf asitler genellikle zayıf üslerine karşı titre değildir.
+Gösterge rengi değişir bu noktada bitiş noktası denir. Uygun bir göstergesi, tepkime eşdeğerlilik noktasına yakın bir renk değişimi (bir uç noktası) karşılaşacaklardır tercihen bir seçilmelidir.
+İlk olarak, büret standart solüsyon, bilinmeyen bir çözelti pipetle ve damıtılmış su ile erlene durulanmalıdır.
+İkinci olarak, bilinmeyen bir konsantrasyonu, çözeltinin bilinen bir hacmi pipet ile alınması ve seçilen gösterge küçük bir miktarı ile birlikte, konik şişe içine yerleştirilir.
+Bilinen çözelti daha sonra erlene, büret dışarı izin verilmelidir. Bu aşamada biz bilinmeyen bir çözüm nötralize etmek için aldı bu çözümün miktarının kaba bir tahmin istiyorum. Gösterge rengi değişir ve büret üzerine değer kaydedilmelidir kadar çözüm burette dışarı izin alınmalıdır. Bu ilk (veya kaba) titre ve herhangi hesaplamalar dışında tutulmalıdır.
+En az üç titrasyonları bitiş noktası oluşacaktır kabaca dikkate alarak, daha doğru, bu kez yapılmalıdır. büret başlangıç ​​ve son okuma (önceki titrasyonu başlangıç ​​ve bitiş noktasında, sırasıyla) kayıt altına alınmalıdır. Nihai hacim gelen ilk hacmi çıkarılarak uç noktasına ulaşmak için kullanılan titrant miktarı verecektir. Gösterge sadece kalıcı renk değiştirir zaman bitiş noktası ulaşılır. Bu en iyi, genellikle sadece bir büret kapalı çözeltisi damlama elde edilebilir olandan hacim olarak küçük olan bir damla elde etmek için doğru titrasyon sonunda şişeye büret ucundan damlası yıkanmasıyla elde edilir.
+Güçlü baz titrasyonu, zayıf bir asidin bir fenolftalein göstergesi - - güçlü baz reaksiyonları ve güçlü bir asit ile, bir metil turuncu gösterge - zayıf baz reaksiyonları güçlü bir asit olması durumunda asit-baz titrasyonu bir bromthymol mavi indikatörü ile gerçekleştirilir. Baz örneğin,> 13.5 arasında bir pH ölçeği, kapalı ve asit bir pH değeri> 5.5 olan, daha sonra bir Alizarine sarı gösterge kullanılabilir. Asit ölçekli kapalı ise, Diğer taraftan, 0.5 <bir pH'a, yani, baz daha sonra bir Timol Mavi gösterge kullanılabilen bir pH <8.5, yer alır.
+Zayıf asit titrasyonu.
+Zayıf bir asit çözeltisinin pH'ı güçlü bir baz çözeltisi ile titre edilen yol boyunca farklı noktalarda bulunabilir. Bu noktalar dört kategoriden birine girer:
+1. başlangıç ​​pH denklemi kullanılarak su içinde zayıf bir asit çözeltisi için yaklaşılır
+Ka ayrışma sabitidir ve F asit konsantrasyonu, burada.
+2. eşdeğerlik noktasından önce pH kalan zayıf bir asit miktarı ile oluşan konjügat baz miktarına bağlıdır. pH (Henderson-Hasselbalch denkleminin bir varyasyonu) aşağıdaki formül ile hesaplanabilir:
+burada:
+Günlük terimin pay payda (formula_3) eşit olduğunda, daha sonra oranı 1 gider ve günlük dönem sıfıra gider. Böylece pH denklik noktasına yarı yolda meydana pKa eşit olacaktır.
+Eşdeğerlik noktada 3. zayıf asit tüketilen ve konjuge baz haline dönüştürülür. pH değeri 7'den daha büyük olacak ve aşağıdaki ilişkileri türetilmiş bir denklemden hesaplanabilir:
+Önceki 3 ilişkiler aşağıdaki denklik noktası pH formülü üretmek için kullanılır:
+Bir asit, bir baz nötralize olduğunda pH veya nötr (pH = 7) olabilir ya da olmayabilir unutmayın. pH asit ve baz güçlü bağlıdır.
+Asitin birleşik tabanı olan ve titrant güçlü bir baz: 4. eşdeğerlik noktadan sonra, çözelti, iki baz içerecektir. Bununla birlikte, titran taban asitin birleşik tabanı olan daha güçlüdür. Bu nedenle, bu bölgede pH değeri güçlü bir baz ile kontrol edilir. Bu nedenle pH, aşağıdakileri kullanarak bulunabilir:
+Tek formül. Daha doğrusu, baştan sona kuvvetli bir baz ile zayıf bir asidin titrasyonu tarif tek bir formül, aşağıda verilmiştir:
+Bu formül biraz hantal, ancak tek bir denklem olarak titrasyon eğrisini tanımlamak yok.

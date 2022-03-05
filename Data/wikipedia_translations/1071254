@@ -1,0 +1,13 @@
+Ziraat için optimum su muhtevası
+toprak işleme (OPT) için optimum su muhtevası ziraat küçük agrega en büyük sayı üreten hangi toprağın nem içeriği olarak tanımlanır.
+Genel Bakış.
+Toprağın Optimum Su İçeriği maksimum kuru birim hacim ağırlığı, belirli bir sıkıştırma çabası sonrasında elde edilebilecek su içeriğidir. Sıfır boşlukların toprakta olduğunda A max kuru birim ağırlığı olacaktır. Eğer daha yoğun hale getirmek için zor bir kuru toprak sıkıştırmak için çalışıyor olsaydı, bunu ıslak almak isteyebilirsiniz. OPT size en çok sıkıştırmak hangi toprağın su içeriğidir. Çok fazla su varsa daha fazla herhangi bir kompakt sıkıştırma sırasında çok fazla gözenek suyu basıncı olurdu. Çok az su varsa toprak, doğal kesme mukavemeti / sürtünme / efektif gerilme yoluyla sıkıştırma karşı olacaktır. OPT belirlenmesi ziraat pek çok sorun, büyük çamur halde üretimi ile zemin yapısal hasarı dahil olmak üzere neden olabilir OPT daha nemli veya kuru alanların üzerinde gerçekleştirilmektedir, çünkü eğer önemlidir ve hali hazırda dağılabilen içeriğinde bir artış Toprak stabilite göstermektedir kil.
+OPT toprak (PL) alt Plastik Sınırı hacimsel su içeriği ile ilgili olarak belirlenebilir.
+Önerilen OPT bazı örnekler:
+Optimum nem muhtevasının tespitine alt plastik limit kullanımı ile sınırlamaları vardır, ancak çok sayıda topraklar için tercih eşit 0.9 PL bulunmuştur. Öncelikle bir bir kalıp toprağın mülkiyet ve alanda ve ikinci bir örselenmemiş, birçok kumlu topraklarda plastik değildir ve daha düşük bir plastik sınırı yoktur.
+Tarla kapasitesi (FC) ve Plastik Sınırı (PL) su içeriği arasındaki ilişkiler.
+Toprak hiçbir aşırı yapısal hasar ziraat ortaya çıkar hangi bir su içeriğine boşaltacaktır.
+Toprak işleme için bir su muhtevası ideale tahliye asla
+Birçok killi topraklarda çok yavaş drenaj, ve bunun sonucu olarak onlar bitki alımı su ekstraksiyonu ile kurutulur sürece PL genellikle daha nemli bulunmaktadır.
+Toprak ufalanabilirlik.
+Toprak gevreklik uygulanan kuvvetin etkisi altında çökmeye bir toprak kütlesinin eğilimidir. Bu toprak PL maksimum olduğu tespit edilmiştir.

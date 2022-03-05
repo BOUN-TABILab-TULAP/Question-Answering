@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+En	en	+Adverb
+En	en	+Noun+A3sg+Pnon+Nom
+
+büyük	büyük+Adj
+
+paralel	paralel	+Adj
+
+dairesi	daire	+Noun+A3sg+P3sg+Nom
+dairesi	daire	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+hangisidir	hangi	+Pron+Ques+A3sg+P3sg+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

@@ -1,0 +1,41 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Buhar	buhar	+Noun+A3sg+Pnon+Nom
+
+makinasının	makina	+Noun+A3sg+P3sg+Gen
+
+ekonomik	ekonomik	+Adj
+
+faaliyetlere	faaliyet	+Noun+A3pl+Pnon+Dat
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+etkisi	etki	+Noun+A3sg+P3sg+Nom
+etkisi	etki	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+olmuştur	ol	+Verb+Pos+Narr+A3sg+Cop
+olmuştur	ol	+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

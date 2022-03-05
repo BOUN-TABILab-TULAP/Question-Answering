@@ -1,0 +1,50 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kalıcı	kal	+Verb+Pos^DB+Noun+Agt+A3sg+Pnon+Nom
+Kalıcı	kal	+Verb+Pos^DB+Adj+Agt
+
+kar	kar	+Verb+Pos+Imp+A2sg
+kar	kar	+Noun+A3sg+Pnon+Nom
+
+sınırı	sınır+Noun+A3sg+P3sg+Nom
+sınırı	sınır+Noun+A3sg+Pnon+Acc
+
+neden	ne	+Pron+Ques+A3sg+Pnon+Abl
+neden	neden	+Adverb
+neden	neden	+Noun+A3sg+Pnon+Nom
+
+ekvatordan	ekvator	+Noun+A3sg+Pnon+Abl
+
+kutuplara	kutup	+Noun+A3pl+Pnon+Dat
+
+gidildikçe	git	+Verb^DB+Verb+Pass+Pos^DB+Adverb+AsLongAs
+
+deniz	deniz	+Noun+A3sg+Pnon+Nom
+
+seviyesine	seviye	+Noun+A3sg+P3sg+Dat
+
+yaklaşır	yaklaş+Verb+Pos+Aor+A3sg
+yaklaşır	yaklaş+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

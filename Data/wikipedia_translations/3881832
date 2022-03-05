@@ -1,0 +1,66 @@
+Güneş Pozisyonu
+gökyüzünde Güneş'in konumu zaman ve Dünya'nın yüzeyinde gözlemci coğrafi koordinatlar hem bir fonksiyonudur. Dünya yıl içinde Güneş'in etrafında hareket ettikçe, Güneş "ekliptik" olarak adlandırılan bir yol boyunca, gök küre üzerindeki sabit yıldızlara göre hareket görünüyor. Kendi ekseni etrafında Dünya'nın dönme gözlemcinin coğrafi enlem bağlıdır şekilde gökyüzünde hareket sabit yıldız neden olur. Belirli bir sabit yıldız gözlemcinin meridyeni haçlar zamanlı coğrafi boylam bağlıdır. Belirli bir zamanda, belirli bir gözlemci için Sun'ın konumunu bulmak için, bir nedenle üç adımda devam edebilir:
+Bu hesaplama astronomi, navigasyon, ölçme, meteoroloji, klimatoloji, güneş enerjisi yararlıdır ve güneş saatleri tasarımı için.
+Yaklaşık konumu.
+Ekliptik koordinatlar.
+Bu denklemler, "Astronomik Almanak" dan,
+1950 ve 2050 tarihleri ​​arasında, yaklaşık 0 ° .01 (36 "), bir hassasiyet, Güneş'in görünen koordinatlarını hesaplamak ekinoks ve tarih ekliptiği anlamında kullanılır.
+"N", 1 Ocak 2000 (J2000.0) Greenwich öğlen, Karasal Zaman beri (pozitif veya negatif) gün sayısını, hesaplayarak başlayın. Eğer istediğiniz zaman Jülyen tarihi biliyorsanız
+FORMULA_1
+Işığın sapması için düzeltilmiş Sun, ortalama boylam gibidir:
+formula_2
+Ortalama Güneş'in anomalidir (Güneş etrafındaki yörüngesinde Dünya'nın aslında, ama Güneş Dünya'yı yörünge taklit uygun):
+formula_3
+Gerektiği gibi 360 ° katları ekleyerek veya çıkarılarak aralığında 360 ° 0 ° formula_4 ve formula_5 koyun.
+Nihayet, Güneş'in ekliptik boylam:
+formula_6
+Güneş'in ekliptik enlem neredeyse geçerli:
+formula_7,
+Güneş'in ekliptik enlem asla 0,00033 ° aştığı olarak,
+ve Dünya'dan Güneş'in uzaklığı, astronomik birimlerde şudur:
+formula_8.
+Ekvator koordine eder.
+formula_9, formula_10 ve ekliptik koordinat sistemi Güneş'in tam bir pozisyon oluşturmak formula_11. Bu ekliptik, formula_12 eğimini hesaplanması ve devam ederek ekvator koordinat sistemine dönüştürülebilir:
+Yükseklik,
+formula_13, formula_14 formula_9 aynı kadranda olduğu,
+ve sapma,
+formula_16.
+Dikdörtgen ekvatoral koordinatları.
+(Sağ elini dikdörtgen ekvatoral koordinatları formula_17 eksen ilkbahar noktası yönünde olduğunu ve formula_18 eksen göksel ekvator düzleminde, doğu 90 ° ve formula_19 eksen gök kuzey yöneliktir nerede kutup
+) Astronomik birimlerinde:
+formula_20
+formula_21
+formula_22
+Tutulumun meyil.
+Ekliptik meyil yerde elde değil durumlarda, yaklaşık olarak hesaplanabilir:
+formula_23
+Yukarıdaki denklem ile kullanım için.
+Güneşin meyli Dünya'dan görüldüğü gibi.
+Genel Bakış.
+Güneş kuzey bahar aylarında kuzeye hareket gibi görünüyor. Onun sapma, daha sonra Haziran gündönümü üzerinde Dünya'nın eksenel tilt (23.44 derece) açısına maksimum eşit ulaşır değeri karşısında (-1 kez) eksenel eğim olduğunda Aralık gündönümü kadar azalır. Bu varyasyon mevsim üretir.
+Bir yıl boyunca güneş sapma grafiği 23.44 derecelik bir genlik bir sinüs dalgası gibi görünüyor, ama "sinüs dalgası" bir lob diğer farklılıklar arasında, diğerinden daha birkaç gün daha uzundur.
+Dünya Güneş'in etrafında dairesel bir yörüngede, küresel olduğu ve eksen kendisi yörünge düzlemi böylece ekseni, 90 derece eğik olduğunu düşünün. Yılın bir tarihte Güneş dikey havai Kuzey Kutbu, bu yüzden onun meyli +90 derecedir. Güneş sapma zamanla "doğrusal" azaltır, böylece önümüzdeki birkaç ay için, alt Güneş nokta, sabit bir oranda enlem çizgilerini kesen, sabit hızda Güney Kutbu'na doğru hareket eder. Sonunda Güneş -90 derecelik bir sapma ile, Güney Kutbu'na bitti. Daha sonra sabit bir hızda kuzeye hareket etmeye başlar. Yani, güneşin meyli grafiği, bu son derece eğik Dünya'dan görüldüğü gibi, bir sinüs dalgası benzer olmaz - bu maximum ve minimum arasındaki doğrusal kesimleri ile-zig zagging artı ve eksi 90 derece arasında, bir testere dişi olurdu.
+Şimdi eksenel eğim azaldığını varsayalım. Sapma azalma mutlak maksimum ve minimum değerler, eksenel eğim eşit. Ayrıca, grafikte maksimum ve minimum şekilleri bir sinüs dalgası maksimum ve minimum benzemeye kavisli şekilde ("sivri") daha az akut hale gelir. Ancak, eksenel eğim, gerçek Dünya'nın, maksimum ve minimum hala bir sinüs dalgası göre daha şiddetli olduğunu eşit olduğunda.
+Gerçek Dünya'nın yörüngesi elips olduğunu. Dünya Temmuz ayı başlarında, günöteleri yakın daha Ocak ayı başlarında, günberi yakınında Güneş'in etrafında daha hızlı hareket eder. Bu güneş meyl değişim gibi işlemleri Temmuz daha Ocak ayında hızlı olmasını sağlıyor. Grafikte, bu maxima daha akut minimum hale getirir. Perihelion ve aphelion solstices tam olarak aynı tarihlerde olmaz çünkü Ayrıca, maksimum ve minimum biraz asimetriktir. öncesi ve sonrası değişim oranları oldukça eşit değildir.
+belirgin güneş meyl grafiği bir sinüs dalgası gelen çeşitli yollarla bu nedenle farklıdır. Aşağıda gösterildiği gibi doğru bir şekilde hesaplanması, bazı karmaşıklığı içerir.
+Hesaplamalar.
+Güneşin meyli, δ, Güneş'in ışınları ve Dünya'nın ekvator düzlemi arasındaki açıdır. (Astronomlar tarafından "ekliptik meyil" olarak adlandırılır) Dünya'nın eksen eğim Dünya'nın ekseni ve Dünya'nın yörüngesine dik bir çizgi arasındaki açıdır. Yavaş yavaş binlerce yıldır Dünya'nın dönme ekseninin eğikliği değişir ama ε = 23 ° 26 'ile ilgili bugünkü değeri yaklaşık sabittir, yani bir yıl boyunca güneş sapma değişim önümüzdeki yıl boyunca hemen hemen aynı olduğunu.
+Gündönümlerinde, Güneş'in ışınları ve Dünya'nın ekvator düzlemi arasındaki açı 23 ° 26 've maksimum değerine ulaşır. Dolayısıyla δ = + güney yaz gündönümü 'kuzey yaz gündönümü ve δ = -23 26 °' ° 26 23.
+Her ekinoks Şu anda, güneşin merkezi göksel ekvator geçmesine görünür ve δ 0 ° 'dir.
+Her an güneşin meyli hesaplanır:
+EL ekliptik boylam (kendi yörüngesinde esasen, Dünya'nın pozisyon) olduğu. Dünya'nın yörünge basıklık küçük olduğundan, kendi yörüngesinde 1 hata dereceye kadar neden bir daire olarak yaklaşık olarak hesaplanabilir. daire yaklaşımı o sin (EL) sin (90 + NDS) = NDS sayısı cos (NDS) olarak yazılabilir, böylece EL öncesinde (ekinoks at) Dünya'nın yörüngesinde solstices 90 derece olacak anlamına gelir Aralık gündönümü gün sonra. Ayrıca arcsin yaklaşım [sin (d) * cos (NDS)] d * Cos (NDS) yakın kullanarak, aşağıdaki sık kullanılan formül elde edilir:
+N 1 Ocak başlar eşgüdümlü evrensel saat gece yarısı N = 0 ile başlayan yılın günü (ordinal tarih -1 yani günleri parçası) olduğu. 10 numara, (N + 10) 'de, bu denklem kadar 1,5 derece ile Eylül ekinoksu yakın sapma overestimates Ocak 1. Aralık gündönümü gün sonra yaklaşık sayısıdır. kendisi tarafından sinüs fonksiyon yaklaşımı kadar 0.26 derecelik bir hata neden olur ve güneş enerjisi uygulamalarında kullanılmak üzere cesareti olmuştur. (Bir Fourier serisine dayanan) 1971 Spencer formülü da yukarı 0.28 derecelik bir hata olması için önerilmez. O günün başlangıcı için Eşgüdümlü Evrensel Zaman gece yarısından sonra bir süre ayarlamak için N seçerken ondalık yer kullanarak değilse kadar 0,5 derecelik bir ek hata ekinoks çevresindeki tüm denklemlerde oluşabilir. Yani yukarıdaki denklem hatası kadar 2,0 derece olabilir, yaklaşık 4 kat Sun'ın açısal genişliği, bu nasıl kullanıldığına bağlı olarak.
+sapma daha doğru değil daha doğru EL tahmin etmek Dünya'nın yörüngesinin parametreleri kullanarak, iki yakın yaparak hesaplanabilir:
+sabitleri değerlendirilerek basitleştirilmiş olabilir hangi:
+Gece yarısı 1 Ocak başlar eşgüdümlü evrensel saat (ordinal tarihi gün parçası yani -1) ve daha sonra ya da önceki gün yerel kez ayarlamak için ondalık içerebilir beri N gün sayısıdır. (N-2) 2 numaralı, Dünya günberi için Ocak 1 gün sonra yaklaşık sayısıdır. sayı 0,0167 Dünya'nın yörüngesinin merkezcillik geçerli değeridir. eksantrikliği zaman çok yavaş değişir, fakat günümüze kadar oldukça yakın tarihlerde, bu sabit olduğu kabul edilebilir. Bu denklemde en büyük hatalar daha az +/- 0.2 derece, ama 10 numara tarafından belirlenen fraksiyonel gün aşağı yukarı ayarlanabilir ya da eğer belirli bir yıl için daha az +/- 0.03 derece ne kadar uzakta önceki yılın Aralık gündönümü Bu doğruluk 0,01 derece içinde doğru 1999 Jean Meeus algoritmasına dayanan NOAA gelişmiş hesaplamalar karşılaştırıldığında 22 Aralık'ta önce veya öğleden sonra meydana geldi.
+Daha karmaşık algoritmalar yukarıda 1. dereceden dışmerkezlik düzeltme ek terimleri kullanarak ekliptik boylam değişiklikleri düzeltmek. Onlar da zamanla çok hafif değişir 23.44 derecelik eğimini düzeltin. Düzeltmeler de Güneş'in etrafında paritenin yörüngesinin merkezinde Dünya'nın pozisyonunu dengelemek ayın etkilerini içerebilir Dünya'nın merkezine sapma göreli alındıktan sonra, paralaks için bir başka düzeltme Dünya'nın merkezine uzak gözlemcinin uzaklığa bağlıdır, hangi uygulanır. Bu düzeltme, 0.0025 derece daha azdır. Güneşin merkezinin konumunu hesaplamada hata az 0.00015 dereceden olabilir. Karşılaştırma için, Sun'ın genişliği yaklaşık 0.5 derecedir.
+Atmosferik kırılma.
+Yukarıda tarif edilen sapma hesaplamaları yükseklik gerçek açı daha yüksek olması bir gözlemci tarafından görüldüğü gibi özellikle düşük güneş yüksekliklerde, Güneş'in yüksekliği belirgin açısını neden atmosferde ışığın kırılma, etkisini içermemektedir. Güneş 10 derece yükseklikte olduğu zaman, örneğin, bu 10,1 derece olduğu görülmektedir. Güneşin meyli olan azimut hesaplanması ve aynı zamanda daha sonra kırılma için düzeltilebilir gerçek yükseklik, onun belirgin konumunu vermek, onun sağ yükseliş ile birlikte kullanılabilir.
+Zaman denklemi.
+Yukarıda tarif edilen kendi meyl değişimine karşılık gelen güneşin görünen konumundan yıllık kuzey-güney salınım, ek olarak, doğu-batı yönünde küçük ancak daha karmaşık salınım da var. Bu Dünya'nın ekseninin eğim ile ve aynı zamanda yörüngesinin elips şeklinde üretilen Güneş etrafındaki yörünge hareketi hızı değişiklikleri nedeniyle oluşur. Bu doğu-batı salınım başlıca etkileri, gündoğumu ve günbatımı olarak ve yerel ortalama süreyi gösteren bir saat ile karşılaştırıldığında bir güneş saati okuma olayların zamanlaması farklılıklar vardır. Grafikte görüldüğü gibi, bir güneş saati bir saat ile karşılaştırıldığında hızlı veya yavaş yaklaşık 16 dakika kadar olabilir. Dünya Güneş'e göre bir derece her dört dakikada bir ortalama hızda dönen beri, bu 16 dakikalık deplasman onun ortalama pozisyon ile karşılaştırıldığında, doğuya ya da batıya Güneş'in görünen konumunda yaklaşık dört derecelik bir kayma karşılık gelir. Bir batıya kayması güneş saati öncesinde saatin neden olur.
+Bu salınım endişeleri zaman ana etkisi olduğundan, biraz arkaik anlamda anlam "düzeltme" sözcüğü "denklemi" seçeneğini kullanarak, zaman denklemi denir. osilasyon bir güneş öncesinde bir saat olacaktır miktarına karşılık gelen, zaman, dakika ve saniye cinsinden ölçülür. zaman denklemi pozitif veya negatif olabilir. Daha fazla bilgi için ana makalesine bakın.
+Analemma.
+analemma yeryüzünde sabit bir yerden görüldüğü gibi, onun ortalama pozisyonuna göre Güneş'in gök küre üzerindeki konumu yıllık değişimini gösterir bir şema olduğunu. (Kelime "analemma" başka bağlamlarda kullanılan, bazen, ama nadiren de.) Bir yıl boyunca Güneş'in görünen hareketine bir görüntü olarak kabul edilebilir. Birkaç gün arayla bir yıl boyunca günün aynı saatinde, alınan resimler atma tarafından fotoğraflandı edilebilir. analemma de genellikle, zaman denklemi karşı, dikey çizilen yatay çizilen, güneşin meyli bir grafik olarak kabul edilebilir. Diyagram üzerinde eşit mesafeler gök küre üzerinde her iki yönde de eşit açıları temsil böylece Genellikle, ölçekler seçilir. Dünya bir derece ortalama hızda Güneş'e göre her dört dakikada bir, döner beri zaman Böylece dört dakika zaman denklemde, meyl bir derece ile aynı mesafe ile temsil edilir
+yukarı doğru bakan bir gözlemci tarafından gökyüzünde görülen gibi analemma çizilir. Kuzey üst kısmında gösterilir ise, "batı" "doğru" etmektir. Bu genellikle analemma vb kıtalar, sola batı ile gösterilmiş olduğu bir coğrafi küre üzerinde işaretlenir bile yapılır.
+Bazı analemmas yıl boyunca çeşitli tarihlerde grafikte Güneş'in pozisyonunu dışında birkaç gün, göstermek için işaretlenir. Bu analemma gibi gündoğumu ve günbatımı saatleri ve azimutlarını olarak miktarların basit analog hesaplamaları yapmak için kullanılan sağlar. Tarih işaretleri olmadan Analemmas güneş saati gibi şeyler süslemeleri olarak kullanılır. Onlar biraz pratik yararı var.
+Daha fazla bilgi için ana makalesine bakın.

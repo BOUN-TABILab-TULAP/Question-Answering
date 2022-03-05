@@ -1,0 +1,57 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Türkiyenin	Türkiyenin	+Noun+Prop+A3sg+Pnon+Nom
+
+ılıman	ılı+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+ılıman	ılıman+Adj
+
+kuşakta	kuşak+Noun+A3sg+Pnon+Loc
+
+yer	ye	+Verb+Pos+Aor+A3sg
+yer	ye	+Verb+Pos^DB+Adj+AorPart
+yer	yer	+Verb+Pos+Imp+A2sg
+yer	yer	+Noun+A3sg+Pnon+Nom
+
+almasının	al	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Gen
+
+sosyal	sosyal	+Adj
+
+ve	ve	+Conj
+
+ekonomik	ekonomik	+Adj
+
+alanda	al	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Loc
+alanda	ala	+Noun+A3sg+P2sg+Loc
+alanda	ala	+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+alanda	alan	+Noun+A3sg+Pnon+Loc
+
+etkileri	etki	+Noun+A3pl+Pnon+Acc
+etkileri	etki	+Noun+A3pl+P3sg+Nom
+etkileri	etki	+Noun+A3pl+P3pl+Nom
+etkileri	etki	+Noun+A3sg+P3pl+Nom
+etkileri	etkile	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+nasıldır	nasıl+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

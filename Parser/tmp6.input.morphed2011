@@ -1,0 +1,49 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Sıcak	Sıcak+Noun+Prop+A3sg+Pnon+Nom
+Sıcak	sıcak+Adj
+
+su	su	+Noun+A3sg+Pnon+Nom
+
+kaynaklarından	kaynak	+Noun+A3pl+P3sg+Abl
+kaynaklarından	kaynak	+Noun+A3pl+P2sg+Abl
+kaynaklarından	kaynak	+Noun+A3pl+P3pl+Abl
+kaynaklarından	kaynak	+Noun+A3sg+P3pl+Abl
+kaynaklarından	kaynakla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Abl
+kaynaklarından	kaynakla	+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P2sg+Abl
+
+yararlanılarak	yarar	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+elektrik	elektrik	+Noun+A3sg+Pnon+Nom
+
+enerjisi	enerji	+Noun+A3sg+P3sg+Nom
+enerjisi	enerji	+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+üreten	üre+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+
+santrallere	santral	+Noun+A3pl+Pnon+Dat
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

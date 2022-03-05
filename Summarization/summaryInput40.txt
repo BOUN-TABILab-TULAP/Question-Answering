@@ -1,0 +1,209 @@
+Question: kromozom nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Translokasyon</DOCTITLE>
+<TEXT>
+
+Translokasyon, bir kromozomun kaybolan parçasının ya da kopan bir parçasının başka bir kromozoma yapışması şeklinde görülen kromozom anomalilerindendir.
+Translokasyonlar, her zaman homolog olmayan parça değişimleridir. Gen sayısının ve niteliğinin aynı kaldığı translokasyonlara "Dengeli Translokasyon"lar denir. Gen sayısının ve niteliğin değiştiği, çoğunlukla anomalilere neden olan translokasyonlara "Dengesiz translokasyon"lar denir. 
+Resiprokal translokasyonlar.
+Eğer homolog olmayan kromozomlar arasında karşılıkı parça değişimleri oluyorsa buna Resiprokal Translokasyon denir. Resiprokal translokasyonlar genellikle dengeli translokasyonlardır. Translokasyonlar homolog çiftin iki kromozomunun parçaları arasında oluyorsa "homozigot translokasyon"lar meydana gelir. Eğer homolog çiftten sadece bir kromozom üzerinde translokasyon oluyorsa buna "heterozigot translokasyon" denir. 
+Genellikle homolog olmayan kromzomlarda ve 600 canlı doğumda bir oranında görülen translokasyonlardır. Bu tip translokasyonlar genellikle gebeliklerde yapılan amiyosentezlerde karşılaşabilinen, "zararsız" translokasyonlardır. Fakat, dengeli translokasyon taşıyan gametler de düşük sebebi ya da anomalili çocuk doğum riskini kapsar. Böyle translokasyon tesbit edilen ailelere genetik danışma verilir ve ebeveynlere kromozom analizi yapılır.
+Robertsonian translokasyonlar.
+Eğer her iki kromozom sentromere yakın olarak kopmuşlarsa Robertsonian translokasyon denir. Sentrik birleşme ile yeni bir kromozom meydana gelir. Bu birleşmede V şeklinde iki kolu olan metasentrik bir kromozom ile küçük bir parça meydana gelir.Bu küçük parça kaybolacaktır. Gen sayısında meydana gelen azalmadan dolayı genellikle düşükle ya da sakat doğumla sonuçlanırlar. 
+Homolog olmayan kromozomların belirli noktalarından rastgele çaprazlanmaları, bu noktalardan kopma ve yeniden farklı şekillerde birleşmeleri ile görülür. Bu tür translokasyon sonucu kolları farklı uzunluklarda olan iki yeni kromozom oluşur. Örneğin, ABCDE genlerini taşıyan bir kromozom FGHIJ genlerini taşıyan bir başka kromozom ile rastgele kiazma yaparsa, translokasyon sonucunda ABJ ve FGHICDE kromozomları oluşabilir. Bunlar normal homologları ile eşleşirken dört kromozom birlikte bulunur. Anafaz I safhasında da kutuplara çekilme sırasında farklı şekiller oluştururlar.
+Bu tip translokasyonda iki akrosentrik kromozomun gen kaybı bulunan kısa kollarının sentromere yakın olarak kaynaşması görülür. Bunun sonucu olarak, karyotipte 45 kromozom görülür ve iki kromozom birleşmiştir. Robertsonian translokasyonlar, bütün akrosentik kromozomlarda görülmüştür. Özellikle 13. ve 14. kromozomlarının birbirleriyle olan translokasyon 1300 kişiden birinde görülür. Diğer translokasyonlarda olduğu gibi, düşük ve anomalili bebek doğurma risklerini taşır. Örneğin, 21. kromozomunda translokasyon olan kişinin Down sendromlu çocuğu olma olasılığı daha yüksektir.
+Robertsonian tipi translokasyonlar, birçok türün filogenisinde görülür ve kromozom sayısında azalmaya yol açar. Çeşitli türlerin evolüsyonunda bu mekanizma rol almıştır. 
+Örneğin insanlarda en çok görülen translokasyonlardan olan 21. kromozomdan kopan bir parçanın 14. kromozoma yapışmasıyla Down sendromu görülür. 
+Mayoz bölünmede oluşan bazı gametlerde normal bir 21. kromozomun yanında normal boyutundan daha büyük bir 14. kromozom geçirilmiş ise, böyle bir gametin normal bir gametle döllenmesi ile oluşan zigotta 21. kromozomun o parçası diploid kromzom seti içinde üç defa içerilmektedir. Fakat bazı genom içinde kısa bir 21. kromozom ile uzun bir 14. kromozom yer alırki, fenotipik bir farklılaşma söz konusu değildir. Burada dengeli trasnlokasyondan söz edilir.
+Translokasyon olayı, yeni gen kombinasyonları ve hücrelerde DNA miktarlarında değişikliklere neden olduğu için evrim açısından oldukça önemlidir. Heterozigotik translokasyonların bitkilere gamet sterilitesine (kısırlık) neden oldukları belirlenmiş, hayvanlarda bu yönde bir kanıt bulunamamış, fakat genlerin taşındığı bölgelerdeki "Konum Etkileşmeleri" nedeniyle mozaik fenotiplerin oluşumu görülmüştür. Örneğin B.Judd4/w genotipli "Drosophila" gözünde kırmızı/beyaz lekelerin oluşumunu, bir X kromozomunun distal parçasının 4. kromozoma translokasyonu ile dominant allelin belirgenlik derecesinin yeni konumda değişimine bağlanmıştır. 
+"Drosophila", çekirgeler, sürüngenler, kuşlar, memeliler ve birçok türün filogenisine sentrik füzyonlar meydana gelmiştir. Bu yol ile yeni bir tip kromozom meydana gelir ve türün somatik kromozom sayısı azalır.
+Kromozomlara göre translokasyonlar.
+t(A;B)(p1;q2) ; iki kromozom arasındaki translokasyonu göstermek için kullanılan simgedir. İkinci parentezdeki bilgi, A'nın p kolundan B'nin q koluna olan translokasyonu gösterir. Bantlar ve altbantlar boyama sonrası mikroskop altında belirlenir. Translokasyonların yol açtığı bazı hastalıklar şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom 22 (insan)</DOCTITLE>
+<TEXT>
+
+Kromozom 22, insan genomunda toplamda 23, otozom olaraksa 22 adet bulunan kromozom çiftlerinden biridir. Normal insan genomundaki tüm otozomlar için geçerli olduğu gibi, kromozom 22 de iki kopya halinde bulunur. İkinci en küçük insan kromozomu olan kromozom 22, yaklaşık 49 milyon baz çiftiyle, toplam hücre DNA'sının %1,5 - 2'sini kapsar.
+İnsan Genomu Projesi'nde çalışan araştırmacılar, bu kromozomu oluşturan baz çiftlerinin dizisini belirlediklerini 1999'da açıklamışlardır. Bu haliyle kromozom 22, dizi çözümlemesi tamamen yapılan ilk insan kromozomu olmuştur.
+Kromozomlar üzerindeki genlerin tanımlanması, genetik araştırmaların etkin bir alanıdır ve aratırmacıların farklı farklı yöntemler kullanabiliyor olması nedeniyle, öne sürülen gen sayıları değişkenlik göstermektedir. Kromozom 22, olasılıkla 500 - 800 kadar gen içermektedir.
+Genler.
+Kromozom 22 üzerinde bulunan genlerden bazıları şunlardır:
+Hastalıklar.
+Kromozom 22 üzerinde bulunan genlerle ilgili olan hastalıkların bazıları:
+Düzensizlikleri.
+İnsanlarda myelositik löseminin 22. kromozom delesyonuna bağlı olduğu Nowell ve Hungerford tarafından bulunmuştur. Bu kromozom Philadelphia Kromozomu "(Ph)" olarak bilinir. Bu hastalığa 22. kromozomun uzun kolunun özellikle 9.kromozomla olan translokasyonuna bağlı bir delesyonun neden olduğu bilinmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom</DOCTITLE>
+<TEXT>
+
+Kromozom, (Yunanca, "chromos" (renk), "soma" (vücut); DNA'nın "histon" proteinleri etrafına sarılmasıyla, yoğunlaşarak oluşturduğu, canlılarda kalıtımı sağlayan genetik birimlerdir. Mikronla ölçülüp ancak elektron mikroskobuyla görülebilirler.
+Hücre, bitkisel ya da hayvansal her türlü yaşam biçiminin en küçük birimidir. Her hücre bir sitoplazma ve çekirdekten meydana gelir. Kromozomlar hücre çekirdeği içinde bulunurlar ve ipliksi yapıdadırlar. Kromozomlar, molekül yapıları çok iyi bilinen DNA (deoksiribo nükleik asit) zinciri ile "histon" denilen protein zincirinden oluşur. DNA zincirleri de özgül proteinleri sentezlemekle görevli gen adı verilen birimlerden oluşur.
+Oluşum.
+Karyokine bölümü sırasında mitoz bölünmenin interfaz evresinde kromatin ağı şeklinde bulunan DNA, profaz evresinde kısalıp kalınlaşmaya başlar ve metafaz evresinde en kısa duruma gelir. Yaklaşık 10.000 kat kısalmış haliyle ışık mikroskobunda 100'lük objektifte incelenebilir. Kromozomlar, İ, V, J harfleri gibi biçimlerde görünür ve boyutları mikronla ölçülür. Kromozomların sayısı canlı türlerinde değişiklik gösterir. Örneğin sirke sineğinde 8, kurbağada 26, farede 42, köpekte 78 kromozom vardır. İnsanın kromozom sayısı ise 46'dır. 22'si çift otozom kromozomdur. İnsan hücresinde 1 çift de eşeysel kromozom bulunur ve toplam sayı 46 eder. Eşey kromozomları kadınlarda XX, erkeklerde XY dir. 
+Döllenme sırasında annenin yumurtasındaki 23 kromozom, babanın spermindeki 23 kromozomla birleşir. İşte bu 46 kromozom insanın yaşamında belirleyici rol oynar. Kromozomlarda yer alan ve sayıları 25 bin ile 30 bin arasında olduğu tahmin edilen genlerin oluşturduğu zincir, kişinin göz renginden boyuna, yaşam süresinden yakalanacağı hastalıklara kadar pek çok şeyi programlar. Bu genetik programlar, nükleotit denen (A, T, C, G) yapıların farklı dizilimleriyle şifrelenir. 
+Kromozomların mikroskop altında incelendiği bilim dalına "Sitogenetik" adı verilir. Bu şekilde kromozom sayısında (ör. Down sendromunda 47, Turner sendromunda 45) veya yapısındaki (delesyon veya translokasyon vb.) değişiklikler bu şekilde saptanabilir. Ancak kromozomlardaki bir değişikliğin mikroskopta görülebilmesi için en az 3 milyon nükleotitlik bir kısmın değişmesi gerekir, daha küçük değişiklikler ancak moleküler genetik yöntemlerle incelenebilir.
+İnsan Kromozomları.
+Hücrede bölünme zamanının dışındaki dönemlerde DNA uzun ve ipliksi şekil alır. Bu şekle "kromatin ağ" denir. Bölünme esnasında kromatin ağ kısalır ve kalınlaşır. Böylece kromozomu oluşturur. Kromozomun yapısında DNA ve protein vardır. Kromozomların şekli, büyüklüğü ve sayısı her tür için farklı ve sabittir. Aynı kromozom sayısına sahip olma iki canlının birbirine benzemesini gerektirmez. Canlıların benzerliği farklılık ve gelişmişlik kromozom sayısına değil DNA'daki bazı dizilişlere bağlıdır. 
+İnsanda 46 adet kromozom bulunur. Bunların içerdiği baz sayıları şöyledir:
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Anöplodi</DOCTITLE>
+<TEXT>
+
+Anöploidi bir kesinti için kromozomların bir organizmanın normal numarasını gösterir. Kromozomlar DNA, yaşamın önemli bir bileşeni deposu olarak çok ciddi doğum kusurları ve konjenital koşulları anöploidi için bağlantılıdır. tamamen, geliştirilen öncesi ve diğerleri organizma zor bir zaman doğumdan sonra hayatta kalan olabilir Çoğu durumda, anöploidi ile fetüs kendiliğinden iptal edilecek. Diğer durumlarda, anöploidi, ama bir handikap temsil organizma meydan rağmen mutlu ve sağlıklı bir yaşam yapabiliyor.
+İnsanlar genellikle anöploidi için rutin doğum öncesi test test içerir. bir anöploidi tespit edilirse, velilerin çocuklarının karşılaşabileceği sorunlar hakkında forewarned vardır. Bazı durumlarda, anne hamilelik anöploidi bebeğin ömrü kısa ve hoş olmayan yapacak şiddetli, sakatlayıcı doğum kusurları ile ilişkili olup olmadığını sonlandırmak için seçin.
+Anöploidi nedenleri tam olarak anlaşılamamıştır değil, mekanik vardır. Anöploidi mayoz bir hatasıdır, hücre bölünmesi gamet oluşturmak için. Bir gamet normal kromozom bir haploit ayarlanmış bir hücre, o ana organizmanın genetik bilginin% 50 içerir anlamına gelir. Bir gamet başka bir organizmanın, kromozom komple set bir gamet ile birleştiğini oluşturulur ve bu tamamen yeni bir organizma haline geliştirir.
+Mayoz ilk adımı iki tam kopyalarını içine bir hücrenin tekrarını içerir. Her kopya sonra iki, orijinal ana hücreden dört hücre yaratma böler. bir hücrede kromozomlar tamamen kızı hücre fazladan bir kromozom bir başka set haploid içinde sonu olabilir bölmek için başarısız zaman. Zaman gamet başka bir gamet ile birleştiğini, ortaya çıkan durum trizomi, bu bir kromozom çiftleri bir üçlü dönüşmüştür anlamına gelir.
+Diğer taraftan, bir kromozom silinmiş olur veya hasarlı, durum monozomi olarak bilinir. Monozomi gerçeği bir kromozom bir başka diploid kümesinde eşleşmemiş olduğunu ifade eder. İnsanlarda, bu bebek sadece normal 46 yerine 45 kromozom vardır ya da bir çift kromozom tahrip olduğu anlamına gelecektir.
+Bu kromozom bozuklukları kolaylıkla prenatal test sırasında, kromozomlar kolayca boyanabilir ve sayılır beri kabul edilebilir. Genetik koşullar kromozom bağlıdır; trizomi 21, örneğin, 21 kromozomun fazladan bir kopyalama, Down Sendromu neden ifade eder.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom analizi</DOCTITLE>
+<TEXT>
+
+Kromozom karyotiplemesinde günümüzde beş özellik incelenmekteir. 
+İşte bu karakterlerin esas alınarak ayrılan kromozomların belli bir sisteme göre sınıflandırılmasına Karyotip, karyotipin şekil halinde gösterilmesine İdiogram denir. 
+En büyükten başlayarak insan genomunu oluşturan otozomlar 1'den 22'ye kadar numaralandırılır ve A'dan G'ye kadar gruplara ayrılır. Buna göre;
+13,14,15 ve 21. çiftlerde kısa olan kromozom kolunun ucunda satellit gözlenmiştir. Dişilerde 22. çiftte de satellit vardır. 
+Genom içinde ayrı bir numarası ve grubu olmayan eşey kromozomları da X ve Y kromozomlarıdır. X kromozomu C grubunun büyük kromozomlarına benzemekte, Y kromozomu ise, G grubu kromozomlarına benzemekte ve karyotipteki yeri 22. kromozomdan sonra sıralanmaktadır.
+ğ== Tarihte ==
+1912'de Winiwater, insanda erkek bireylerde 47 kromozom (46 otozom+ X) ve dişi bireylerde 48 kromozom (46 otozom +XX) saptamıştır. Painter 1923'de her ikisinde XX ve XY eşey kromozomları dahil 48 kromozom olduğunu ileri sürmüş ve 1956'ya kadar böylece kabul edilmiştir. Daha sonra kültür denemelerinin artması, tuz solüsyonları kullanarak yayma preparatlarının hazırlanması ile sayının gerçekte 48 değil 46 olduğu görülmüştür. Erkek bireylerde 44 AA+XY, dişilerde ise 44 AA+XX karyotipindedir. Haploid setteki 22 kromozom boylarına ve sentromer konumlarına göre sınıflandırılmış ilk defa 1960 yılında ABD Denver'de yapılan toplantıda 7 gruba ayrılmıştır. Daha sonraki bir dizi toplantıda Denver sistemi geliştirilmiş ve insan kromozomları bir standardizasyona sokularak ortak bir adlandırma sistemi kabul edilmiştir. 
+Paris konferansında kabul edilen şekle göre karyotip belirlenmesinde toplam kromozom sayısı, eşey kromozomları ve fazla veya eksik kromozomları (+), (-) gösterimi sağlanır. Örneğin, 47,XX+21 ifadesi canlının genomunda 47 kromozom bulunduğunu ve 21. kromozomun trizomik (üç tane) olduğunu belirtmektedir. Ayrıca kol uzunluklarındaki artış ve eksilme durumu belirtilmesi 46,XY,1q+ şeklinde gösterilmektedir. Bu genomda 1. kromozomun uzun kolunun fazladan bulunuşu ya da normalden daha uzun olduğu söz konusudur. Fakat 47,XY,+14p+ ifadesinde toplam 47 kromozomlu genomda 14. kromozomun trizomisi ve uzun kol fazlalığı gösterilmiştir. Yapısal mutasyonlarda ise def, dup, r, inv, ve t sembolleri kullanılmaktadır.
+Günümüzde.
+Genetik ve sitolojide kullanılan yeni tekniklerin insanlara da uygulanmasıyla biyoloji ve tıp alanında yeni çalışma alanları açılmıştır. Bu ilerlemeler genellikle kromozom çalışma tekniklerinin geliştirilmesi ile sağlanmış ve insanlarda normal veya anormal karyotip durumları incelenmiştir. En önemli yöntem kan lökositlerinin, kemik iliğinin, fibroblastların ve diğer dokuların kültür şartlaına alınıp in vitro yetiştirilebilmesidir. Gebe bir ana rahminden alınan amnion sıvısı içindeki serbest hücreler veya amnion zarı hücreleri incelenerek doğacak çocuğun kromozomları, genetik yapısı görülebilmektedir. Bu yönteme "amniosentez" denilmekte ve günümüzde çoğu gebeliklerde uygulanmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Down sendromu</DOCTITLE>
+<TEXT>
+
+Down sendromu, trizomi 21; genetik düzensizlik sonucu insanın 21. kromozom çiftinde fazladan bir kromozom bulunması durumu ve bunun sonucu olarak ortaya çıkan hastalığa verilen isimdir. 
+Down sendromu vücutta yapısal ve fonksiyonel değişiklikler ile karakterize edilir. Vücuttaki küçük ve büyük farklılıkların kombinasyonu yapısal olarak sergilenir. 
+Down sendromu sık sık zihinsel kavramadaki bozukluklar ve fiziksel gelişimin tipik yüz görünümü gibi farklı olmasıyla ilişkilendirilir. Çoğunlukla hafif veya orta seviyeli öğrenme güçlüğü gibi sorunlar taşır. 
+Down sendromu gebelik sırasında ya da doğumda tanımlanabilen bir rahatsızlıktır. Down sendromuna her 800 ile 1000 doğumda 1 oranında rastlanır; istatistikler anne yaşının artışıyla bu oranın yükseldiğini göstermiştir, diğer etkenlerin payı küçüktür.
+Down sendromunun tipik yüz siması, normal kromozom sayısında sahip olan bazı insanlar da görülebilir. Ancak Down sendromunda buna ek olarak; el ayasında çift yerine tek derin olarak bulunan avuç içi çizgisi, epikantik katlanmanın neden olduğu badem biçimli göz, palebral yarık, düşük kas tonusu, ayak baş parmağıyla ikinci parmak arası daha büyük bir boşluk ve sarkık dil morfolojisi görülebilir. Bu semptomların hepsi görülecek diye bir kural yoktur, bazıları olup bazıları olmayabilir. Down sendromunun sağlığa getirdiği sorunların başında ise konjenital kalp yetmezliği riskleri, gastroözafagal reflü hastalığı, tekrarlayan kulak enfeksiyonları, obstürktüf uyku apnesi ve tiroid bozuklukları riskleri sayılabilir. 
+Çocukluğun erken dönemlerinde sağlanacak olan aile ve tıp desteği ile erken müdahale sayesinde Down sendromlu insanlar destekle toplumla bütünleşik bir hayat kurabilirler.
+Hastalığın tanımlanışı.
+Down Sendromu ilk kez İngiliz hekim John Langdon Down tarafından 1866'da sistematik bir şekilde sınıflandırılmış ve sendrom olarak tanılanmıştır. Sendrom, doktorun ismi olan "Down sendromu" olarak söylenmeye başlamıştır. 1959'da Jérôme Lejeune tarafından 21. kromozomun trizomisi olduğu tanımlanmıştır.
+Görünümleri.
+Bu bebekler doğduklarında farklı bir yüz görünümleri vardır. Başları ufak, artkafa yassı, ense kısa ve geniştir. Burun kökü yassı, kulaklar kafada normalden düşük bir seviyede durur ve gözler birbirinden ayrık ve çekik görünür. (Bu görünüm moğol ırkına benzetilerek mongolizm olarak ta ifade edilir.) Dil, normal konuşmayı önleyecek kadar genişlemiştir. Ensede genellikle boğumlar vardır. Bu bebeklerin tonusları (vücut gerginliği) düşüktür. Geniş el, kısa ve tombul parmak ve sıklıkla avuç içlerinden birinde ya da ikisinde "Simian çizgisi" denilen tek bir çizgi vardır. Ellerin serçe parmakları genellikle içe doğru kıvrımlıdır. Vücut kısa ve tıknazdır. Çocukluk dönemlerinde solunum hastalıkları, kalp bozukluklarına rastlanabilir. Yaşam süreleri geçmiş yüzyılda düşük seyretmişken günümüzde gelişen tıp ve iyi bakım sonucunda bu yaş ortalama DS'lu kişi ömrü 50 yaş civarında seyretmektedir. 
+Down sendromunun getirilerinden biri de hafif ila orta düzey arasında değişebilen zeka geriliğidir; bu oran Mozaik Down sendromunda (açıklaması aşağıda) 10-30 oranında yukarıdadır.
+Gelişimleri.
+Down sendromlu çocuklar genelde boy ve kilo açısından daha yavaş büyürler, daha yavaş öğrenirler, problem çözmede ve karar vermede diğer çocuklardan daha çok zorlanırlar. Zeka seviyeleri normalden düşük olarak kalır. Ancak iyi ve erken başlanan eğitimle zeka seviyelerinde anlamlı yükselmeye rastlanır. 
+Down Sendromlu çocuklar iyi bir eğitimle normal birey şeklinde hayatlarını sürdürebilirler. İmkan tanındığında meslek edinebilirler. Kendi yaşamlarını idame ettirebilecek seviyeye ulaşabilirler. Fizik tedavi, özel eğitim ve dil terapisine ihtiyaç duyulur.
+Bunlar için planlı ve programlı bir şekilde profesyonel yardım almak gerekir. 
+Özel Eğitim.
+Down Sendromlu çocuklar kendi aralarında farklılıklar gösterebilirler, bu yüzden çocuğun ihtiyaçlarına uygun bir programla özel eğitim, beraberinde sosyal ve duygusal gelişimi, bilişsel gelişimi ve motor gelişimini desteklenir. 
+Fizik Tedavi.
+Fizik tedaviye Down sendromlu bebeklerde iki aylıkken başlanmalıdır.Egzersizler Fizyoterapist bakımında yapılmalı ve günlük programlarla evde aile tarafından uygulanmalıdır.Düzenli kontrollerle duruma göre tedavi desteklenir. Çocuklarda yüz kasları gevşektir. Fizik tedavi süresince kas gücü ve motor becerilerinin yanı sıra, algılama becerisi de programa dahil edilerek desteklenmelidir.
+Dil terapisi.
+Down Sendromlu çocuklarda konuşma geç gelişir. Erken dönemde başlanan dil terapisi ile ortalama 2-3 yaşında konuşma başlayabilir. Nadir rastlansa da bazıları çok geç konuşurlar.Hiç konuşamayan sayısı ise oldukça azdır.
+Hastalığın nedenleri.
+Sağlıklı bir insanın vücudundaki her hücrede 46 tane kromozom vardır. Oysa Down sendromlu bebeklerin hücrelerinde toplam 47 kromozom bulunur. Karyotipleri 47, XX+21 (dişi) ya da 47, XY+ 21 (erkek) şeklinde gösterilir. Yani fazladan bulunan kromozom vücut kromozomlarının yanında bulunur. Bu kromozom fazlalığının neden kaynaklandığı tam olarak bilinmese de, 35 yaşından sonra doğum yapan kadınların çocuklarında görülme olasılığı yüksektir. Bunun nedeni kromozom ayrılmalarının ileri yaşlarda daha düzensiz olmasından kaynaklanmaktadır. Bununla beraber, hücre bölünmesi sırasında meydana gelen ayrılmamalar da bu hastalığın sebeplerinden olabilir. 
+Down sendromunun epidemiyolojisi her canlı 800-1000 doğumda 1 Down sendromlu doğum oran olduğunu göstermiştir.
+Down sendromu tipleri.
+down sendromu trizomi\21
+Trizomi 21 (47, XX,+21); mayoz bölünme sırasında meydana gelen ayrılmama durumuyla ortaya çıkan fazla 21. kromozomun sebep olduğu Down sendromu tipidir. Yumurta ya da spermde bulunan fazla 21 ile bir gametde toplam 24 kromozom bulunur. Down sendromunun yaklaşık %95'ini kapsayan en çok görülen tipidir.
+Mozaisim.
+Trizomi 21'in vücut hücrelerinin bazılarında görülmesi, bazılarında ise görülmemesi durumudur. Karyotip (46,XX/47,XX,+21) şeklinde gösterilip, hastalık "Mozaik Down Sendromu" olarak adlandırılır. Hastalık, mozaismin yoğunluğuna göre farklı seyredebilir. Trizomi 21 oranı ne kadar çok ise, çocuk Down sendromu özelliklerini o kadar çok gösterir. Mozaik Down sendromu, %1-2 oranında bir yere sahiptir. 
+Robertsonian tip translokasyon.
+Down sendromunda fazla 21. kromozom bazen Robetrsonian tip translokasyon ile görülür. 
+Burada genellikle 21. kromozomun uzun kolu başka bir kromzoma bağlanır. Bu durumda karyotip 45, XX,t(14;21) şeklinde gösterilmekte fakat 14. kromozomda transloke olmuş bir 21. kromozom bulunmaktadır. Ya da izokromozom olarak da iki 21. kromozomun translokasyonu ile de Down sendromu 45, XX,t(21q;21q) şeklinde meydana gelebilir. Robertsonian tip translokasyon ile olan Down sendromları, toplam Down sendromunda %2-3'lük bir paya sahiptir. 
+21. kromozomun çift olması.
+Nadir olarak, 21. kromozomun duplikasyonu (kendini eşlemesi) ile de Down sendromu görülebilir. Burada 21. kromozom tam olarak bütün genleri taşımasa da, parça şeklinde görülür ve hastalığı tanımlar. Karyotip,(46, XX,dup(21q))şeklindedir!
+Doğum öncesi tanı.
+Down sendromu gebelikte tanınabilen bir genetik farklılıktır. İkili tarama testi, üçlü tarama testi, ultrasonografi ve diğer bazı tanı yöntemleri ile Down sendromundan şüphelenilen gebeliklerde ileri tetkikler yapılır. CVS veya amniyosentez ile kesin tanı konur. Down sendromu saptanmışsa aileye ayrıntılı genetik danışmanlık verilir. Günümüzde geçerli olan uygulamada anne-babanın aile bütünlüğüne ve kişisel kararlara saygı çerçevesinde, bu tanıyı ileten hekimin gebeliğin devamı veya sonlandırılması konusunda yorumda bulunmaması gereklidir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Duplikasyon</DOCTITLE>
+<TEXT>
+
+Duplikasyon, bir kromozomun bir parçasının o kromozom üzerinde iki veya daha fazla sayıda tekrarla görülmesi şeklindeki kromozom anomalisidir. Yani kromzomun bir kısmının kendi kendini eşlemesi olarak da tanımlanabilir.
+Duplikasyonlu bir parça sentromerli serbest bir parça veya tamamlayıcı bir kromozom parçası olabilir. Eğer sentromere sahip, yani sentrik bir kromozom parçası ise, bu parça küçük, ekstra bir kromozom olarak kabul edilir. 
+Bir kromozom parça değişimi sırasında karşısındakine belirli genleri vermez, sadece alırsa o gen bakımından diploid olur. Bu, çoğunlukla düzenli işlemeyen bir krossingoverde meydana gelir. Normal olarak mayozun ilk evrelerinde eş genler sinapsis yapar. Ayrılırken normal bir bölünme olmazsa, kromatidlerden biri, o gen bakımından diploid olur, diğeri ise o genlerden yoksun kalır. 
+Homolog kromozomlar ilk mayoz sırasında sinapsis sonrası ayrılırken farlık noktalarından çaprazlandıklarında koma ve değişik düzeylerde kaynaşma olursa iki tip kromozom ortaya çıkar. örneğin ABCDE kromozomunun BC lokusları ile homoloğunun DE lokusları arasında bir kiazma noktası oluşursa, kırılma ve parça değişimi sonunda biri ABE, diğeri de ABCDCDE genlerini içeren kromozomlar oluşur. Buradaki parça değişimi nokta nokta karşılıklı gelme şeklinde olan krossingoverden farklıdır. Duplikasyon yani iki tane normal homoloğu ile karşılıklı geldiğinde bu fazla parça kısmı dışarıya doğru bir halka yapısı gösterir. Dolayısıyla Profaz I sırasında gözlenen ilmek veya halka yapıları delesyon veya duplikasyon olaylarına işaret eder. 
+Birbirini takip eden ikilenmelere en iyi örnek Drosophila sineğinde "Bar Duplikasyonu" diye bilinen durumdur. Drosophila'larda bulunan Bar mutant geni petek gözün küçülmesine sebep olmaktadır. de Marinis adlı bir araştırmacı Drosophila X kromozomununda bir parçanın iki defa bulunduğunu göstermiştir. 16 A diye adlandırılan bu parça, düzensiz bir krossingover sonucu bir kromatidde tek diğerinde ise üç tane bulunabilmektedir. Özel markalama yöntemleri ile bu durum gösterilebilmiştir. 
+Her bir çekirdekte 16 A segmentinin sayısı aynı olsa da 16 A'nın kromzomlardaki yerleşim durumları da önemlidir. Örneğin bir çekirdek içinde bir kromozomda üç, onun homoloğunda bir tane 16 A segmenti taşıyan hayvanlardaki petek gözü oluşturan kafes sayısı, çekirdeklerin de herbirinde ikişer tane 16 A segmentli kromozom çifti taşıyan sineklerin petek göz kafes sayılarından ile sembolize edildiğinde, normal durumlarda ABCDEFGH, bar özelliğinde ABCDEFGBCDEFGH, ultrabar özelliğinde ise, ABCDEFGEBCDEFGBCDEFGH gen içeriği vardır. 
+Genellikle ikilenmeler şeklindeki gen sayısı atışları, parça delesyonlarına nazaran daha az zaralıdır. Çünkü hücrede orijinal gen kombinasyonunu bozmadan DNA ilavesi mutasyonun oluşmasını sağlar.
+Duplikasyon, evrim bakımından önemlidir. Çünkü hücreye ek DNA girmesini ve böylece orijinal gen kompleksini bozmadan mutasyonların meydana gelmesini sağlar. Genellikle zararlı bir etkisi yoktur fakat bazen gen dengesini bozduğu için zararlı sonuçlar doğurabilir. Örneğin, Drosophila'da gözlerin küçük kalmasını sağlayan "Bar Duplikasyonu" buna tipik örnektir. Bitkilerde devleşme meydana getirebilir. Genellikle kararlı olmayan değişimlerdir, zamanla normal durumuna dönüşebilir.
+Bloom ve Rett sendromu kromozomal duplikasyon sonucu meydana gelen genetik hastalıklardandır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom 5 (insan)</DOCTITLE>
+<TEXT>
+
+Kromozom 5, 22 çift otozomal insan kromozomlarından 5. olanıdır. İnsanlarda normalde bir çift halinde bulunur. 181 milyon baz çiftine ve toplam hücre DNA'sının %6'sına sahiptir. Kromozom 5 muhtemelen 900 ile 1,300 arasında gen içermektedir.
+Genler.
+Kromozom 5'de bulunan genlerden bazıları şunlardır;
+Hastalıklar.
+Kromozom 5 üzerinde bulunan genlerin yol açtığı hastalıklardan bazıları şöyledir;
+Düzensizlikleri.
+Bu kromozom düzensizliklerinin en çok bilineni ve üzerinde en çok durulanı 5p monozomisidir. ilk defa 1963 yılında Lejeune ve arkadaşları tarafından tanımlanmış olan 5p delesyonu ile ortaya çıkan ve Cri du Chat denilen bir sendromda en tipik bulgu kedi miyavlamasını andıran ağlamadır. Larinksin küçük ve yumuşak oluşu, ses bantlarının hatalı gelişmesinden kaynaklanır. Mikrosefali ve ileri derecede zeka geriliği karakteristiktir. Cri du chat hastalar bebek yaşta öldükleri için bu hastalığı yeni döllere aktaramazlar. Bazen 5p parçası başka bir kromozoma resiprokal transloke olursa kişi normal gelişebilir, fakat taşıyıcıdır. Heterozigotik translokasyonda ise sendrom ortaya çıkar. 
+5p trizomisinde ise, kromozom kolu 12,13 veya 15. kromozomlara transloke olduğu zaman kısmi trizomi ortaya çıkabilmektedir. Mental gerilik, renal ve ürogenital bozukluklar, postnatal büyüme geriliği, konjenital kalp hastalıklarına rastlanır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom 6 (insan)</DOCTITLE>
+<TEXT>
+
+Kromozom 6, 22 çift otozomal insan kromozomlarından 6. olanıdır. İnsanlarda normalde bir çift halinde bulunur. Yaklaşık olarak 170 milyon baz çifti ve toplam hücre DNA'sının %5,5 ya da %6'sına sahiptir. Kromozom 6, muhtemelen 1,100 ile 1,600 arasında gen içermektedir.
+Genler.
+Kromozom 6'da bulunan genlerden bazıları şunlardır;
+Hastalıklar.
+Kromozom 6 üzerinde bulunan genlerin yol açtığı hastalıklardan bazıları şöyledir;
+Düzensizlikleri.
+Bu kromozomun halka (ring kromozom) biçimini alması şeklindeki anomalisi sık görülür. Atrial septum defektiyle birlikte görülmektedir. 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kromozom 13 (insan)</DOCTITLE>
+<TEXT>
+
+Kromozom 13, toplamda 22 çift olan otozomal insan kromozomlarından onüçüncüsüdür. İnsanlarda normalde bir çift halinde bulunur. 113 milyon baz çiftine ve toplam hücre DNA'sının %3,5 ya da %4'üne sahiptir. Kromozom 13, muhtemelen 300 ile 700 arasında gen içermektedir.
+Genler.
+Kromozom 13 üzerinde bulunan genlerden bazıları:
+Hastalıklar.
+Kromozom 13 üzerinde bulunan genlerle ilgili olan hastalıkların bazıları:
+Düzensizlikleri.
+Bilinen en eski kromozom hastalıklarından biridir. İlk defa Patau ve arkadaşları bu kromozoma ait trizomi gözlediği için "Patau sendromu" olarak bilinir. En belirgin bulguları, yarı dudak veya yarık damak, mikroftalmi ve polidaktili, mental gerilik, sağırlık ve erken ölümdür. 5000 canlı doğumda bir görülür. Patau sendromluların %65'i üç aya kadar, %95'i de üç yaşına kadar ölür. 3q delesyonun embriyonik retinoblastoma tümörü oluşumuna neden olduğu belirlenmiştir. 
+
+</TEXT>
+</DOC>
+

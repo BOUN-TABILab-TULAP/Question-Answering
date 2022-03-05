@@ -1,0 +1,11 @@
+1	Yapay	yapay	Adj	Adj	_	_	_	_	_
+2	_	dölle	Verb	Verb	_	_	_	_	_
+3	_	_	Verb	Verb	Pass|Pos	_	_	_	_
+4	döllenmenin	_	Noun	NInf	A3sg|Pnon|Gen	_	_	_	_
+5	hayvan	hayvan	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	_	ıslah	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+7	ıslahındaki	_	Adj	Adj	Rel	_	_	_	_
+8	önemi	önem	Noun	Noun	A3sg|Pnon|Acc	_	_	_	_
+9	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+10	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+11	.	.	Punc	Punc	_	_	_	_	_

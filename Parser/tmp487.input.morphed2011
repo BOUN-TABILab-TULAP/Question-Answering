@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Dünya	dünya+Noun+A3sg+Pnon+Nom
+Dünya	Dünya+Noun+Prop+A3sg+Pnon+Nom
+
+su	su	+Noun+A3sg+Pnon+Nom
+
+günü	gün+Noun+A3sg+P3sg+Nom
+günü	gün+Noun+A3sg+Pnon+Acc
+günü	günü+Noun+A3sg+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+zaman	zaman	+Noun+A3sg+Pnon+Nom
+
+kutlanır	kutla	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+kutlanır	kutla	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

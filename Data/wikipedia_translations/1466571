@@ -1,0 +1,280 @@
+nitel varyasyon
+Nitel varyasyon (IQV) bir göstergesi, nominal dağılımlar istatistik dağılım bir ölçüsüdür. İşte bu çeşitli, ama nispeten istatistik literatüründe az çalışılmıştır. Daha karmaşık endeksleri bilgi entropi dahil ederken basit, varyasyon oranıdır.
+Özellikleri.
+Endeksin Orada çeşitli türleri, nominal verilerin analizi için kullandı. aralık, standart sapma, varyans sapma, varyasyon katsayısı, medyan mutlak sapma, interkartil aralığı ve çeyrek sapma, - Standart yerde kullanılan istatistik Çeşitli bulunmaktadır.
+Bu birkaç istatistiklerinin yanı sıra akılda nominal verilerle geliştirilmiştir. Bir dizi özetlenmiş ve Wilcox tarafından geliştirilen edilmiştir, memnun olmak için aşağıdaki standardizasyon özellikleri gerektirir Kimden:
+Özel olarak, bu standart endeks değeri kategorileri veya numune sayısı sayısına bağlı değildir.
+herhangi bir dizin, üniforma dağıtımı yakın, büyük varyans ve daha küçük, kategoride frekanslarda farklılıklar büyük varyans için.
+Nitel değişim endeksleri tüm durumlarda tek bir kategoriye ait zaman minimize ve tekdüze dağılım içinde maksimize bilgi entropi, sonra benzerdir. Gerçekten de, bilgi entropi niteliksel varyasyon bir göstergesi olarak da kullanılabilir.
+Nitel değişim (IQV) belirli bir dizinin bir karakterizasyonu fazla farklılıklar gözlenen farklılıklar arasında bir oranda olduğu gibi.
+Wilcox'un indeksler.
+Wilcox o "Mode Sapma" için DM atar QV, ilk, çeşitli endeksler için formüller bir dizi verir, varyasyon oranı standart şeklidir ve ortalamadan sapma olarak Varyans benzer.
+ModVR.
+aşağıdaki gibi modu ( "ModVR") etrafında değişimi için formül elde edilir:
+"F" m kalıcı frekans olduğu, "K" kategori sayısı ve "f" i "i" inci grubun frekansı olmasıdır.
+Bu basitleştirilmiş olabilir
+burada "N" örneğin toplam boyutudur.
+Freeman'ın indeksi (veya varyasyon oranı) olduğunu
+Bu, aşağıdaki şekilde "M" ile ilgilidir:
+"ModVR" olarak tanımlanmaktadır
+nerede "v" Freeman'ın endeksidir.
+"ModVR" Düşük değerler varyasyon daha büyük miktarda varyasyon ve yüksek değerlerin az miktarda karşılık gelmektedir.
+"K" büyük olduğunda, "ModVR" Freeman göstergesi "v" yaklaşık olarak eşittir.
+RanVR.
+Bu modda etrafında aralığına dayanmaktadır. Bu olarak tanımlanmıştır
+burada "f" m modal frekansı ve "f" l en düşük frekans.
+AvDev.
+Bu ortalama sapma analog olduğunu. Bunun anlamı, her bir değerin mutlak farkların aritmetik ortalaması olarak tanımlanmaktadır.
+MNDif.
+ne olursa olsun işareti alınan değişkenli değerlerinin tüm olası çiftleri, farklarının ortalama - Bu ortalama farkı analog olduğunu. o kendi aralarında ve bazı merkez değerden sapmalar üzerinde değişkenli değerlerinin yayılması bağlıdır çünkü ortalama fark, ortalama ve standart sapma farklıdır.
+burada "f" i ve "f" j sırasıyla "i" inci ve frekansları inci "j" dir.
+MNDif nitel verilere uygulanan Gini katsayısı olduğunu.
+VarNC.
+Bu varyansın bir analogudur.
+Bu Nitel Varyasyon ve Gibbs 'M2 endeksi Mueller ve Schüßler en Index aynı endeksidir.
+1 serbestlik derecesi - Bu "K" ile ki-kare değişken olarak dağıtılmaktadır.
+StDev.
+Wilson, bu istatistiğin iki versiyonu önerdi.
+İlk AvDev dayanmaktadır.
+İkinci MNDif dayanır
+HRel.
+Bu indeks ilk comnmunication kanalların özellikleri belirten kullanılmak için Claude Shannon tarafından geliştirilmiştir.
+burada "p" i = "f" i / "N".
+Gibb adlı endeksleri ve ilgili formüller.
+Gibbs "vd" altı endeksleri önerdi.
+M1.
+unstandardized endeksi ( "M1") 'dir
+burada "K" kategori ve formula_14 sayısı belirli bir kategori "i" düşmek gözlemler oranı olmasıdır.
+"M1" one eksi örneklerin rastgele çifti aynı kategoriye ait olacağı olasılığı olarak yorumlanabilir, böylece IQV için bu formül aynı kategorideki düşen rastgele çiftinin bir standart olasılığıdır. Bu endeks de farklılaşma endeksi, rızık farklılaşma indeksi ve kullanılmakta olan içeriğe bağlı olarak coğrafi farklılaşma endeksi olarak anılır olmuştur.
+M2.
+İkinci endeksi "M2" dir:
+burada "K" kategori ve formula_14 sayısı belirli bir kategori "i" düşmek gözlemler oranı olmasıdır. formula_17 faktör standardizasyonu içindir.
+"M1" ve "M2" multinomial dağılımı varyans açısından yorumlanabilir (bir "genişletilmiş binom modeli" Orada da adlandırılır). "M1" multinomial dağılımının varyansı ve "M2" bir binom dağılımının varyans multinomial dağıtım varyans oranıdır.
+M4.
+"M4" endeksi
+burada "m" ortalamasıdır.
+M6.
+"M6" formülü
+burada "K" kategori sayısı ise, "X" i ||, "i" inci kategorisinde veri noktalarının sayısı, "N" veri noktaları toplam sayıdır mutlak değer (modül) ve
+Bu formül basitleştirilebilir
+burada "s" i "i" inci kategorisinde numunenin oranıdır.
+Uygulamada "M1" ve "M6" in onların kullanılan kombine aleyhinde olan son derece ilişkili olma eğilimindedir.
+İlgili endeksler.
+Toplam
+Ayrıca uygulama alanı bulmuştur. Bu ekoloji ve Herfindahl endeksi veya ekonomi Herfindahl-Hirschman endeksi (HHI) olarak Simpson indeksi olarak da bilinir. Bu bir varyant mikrobiyoloji Hunter-Gaston indeksi olarak bilinen
+dilbilim ve kriptanalizinde bu miktar tekrar oranı olarak bilinir. tesadüf ( "IC") insidansı, bu istatistik bir yansız tahmin olduğunu
+burada "f" i ve "n" metinde grafemler toplam sayısı metinde "i" inci sesletim sayısıdır.
+yukarıda tanımlanan "M1" istatistiği çeşitli isimler altında farklı ayarları, bir dizi çok kez önerilmiştir. Bunlar mutability ve Gini endeksi, çeşitlilik Simpson ölçü dahil, dilsel homojenlik Bachi endeksi, nitel değişim Mueller ve Schuessler endeksi, sanayi çeşitlendirme, Lieberson en endeksi Gibbs ve Martin indeksi. sosyoloji, psikoloji ve yönetim çalışmalarında ve Blau endeksi. Tüm bu endekslerin formülasyonu aynıdır.
+Simpson, "D" olarak tanımlanmaktadır
+"N" toplam örnek boyutu olduğu ve "n" i i kategorisinde öğe sayısıdır.
+Büyük için "n" Elimizdeki
+önerilmiştir başka bir istatistik olarak 0 ve 1 arasında değişmektedir unalikeability katsayısıdır.
+"X" ve "y", aksi takdirde benzer ve 0 ise burada "n" örneklem büyüklüğü ve "c" (x, y) = 1'dir.
+Büyük için "n" Elimizdeki
+burada "K" kategorilerinde sayısıdır.
+dilsel çeşitliliğin Greenberg'in dilli olmayan ağırlıklı endeks yukarıda tanımlanan "M2" istatistik olur.
+Başka bir index - "M7" - Gibbs "M4" index "ve ark" dayalı oluşturuldu.
+nerede
+ve
+burada "K" kategori sayısı ise, "L" alt tiplerinin sayısı "," i "inci kategorisinde n," O "ij ve" E "ij numarası gözlenen ve sırasıyla alt tipi" j "nin beklenen olduğu i "inci kategori ve" s tam numunede j "j alt tipi oranı olan" "" i sayıdır ".
+Bu indeks iş yerinde kadınların katılımını ölçmek için tasarlanmıştır: Not: onun için geliştirilen iki alt tipi erkek ve dişi idi.
+Diğer tek örnek endeksleri.
+Bu endeksler numune içinde varyasyon özet istatistikleri bulunmaktadır.
+Berger-Parker indeksi.
+Berger-Parker indeksi veri kümesi maksimum formula_31 değeri, en bol Çeşidi yani oransal bolluk eşittir. "Q" sonsuza yaklaşır ve böylece sipariş sonsuza (1 / ∞ "D") gerçek çeşitliliğin tersini eşit olduğunda bu formula_31 değerlerinin ağırlıklı genel ortalamaya karşılık gelir.
+çeşitliliğin Brillouin indeksi.
+Bu indeks sadece tüm nüfus ziyade sonlu numuneler kesinlikle uygulanabilir. Bu gibi tanımlanmıştır
+burada "N" popülasyondaki birey sayısı ise, "n" i birey sayısı "i" inci kategori ve "A"! "A" faktöryel olduğunu.
+düzgünlüğü Brillouin endeksi olarak tanımlanır
+nerede "Ben" B (max) "Ben" B maksimum değeridir.
+Hill'in çeşitlilik numaraları.
+Tepesi çeşitlilik numaralarının bir aile önerdi
+diğer endekslerin bir kaç verilen değerleri için hesaplanabilir
+Tepesi de düzgünlük önlemlerin bir aile önerdi
+burada "a"> "b".
+Hill'in E4 olduğunu
+formula_37
+Hill'in E5 olduğunu
+formula_38
+Margalef dizin.
+formula_39
+"S", numune ve "N" veri tiplerinin sayısı olduğu örneğin toplam boyutudur.
+Menhinick dizin.
+"S", numune ve "N" veri tiplerinin sayısı olduğu örneğin toplam boyutudur.
+dilbilim bu endeks "S" muayene olmak ayrı bir deyişle (tipleri) ve metinde "N" toplam kelime sayısı (belirteçleri) sayısıdır Kuraszkiewicz indeksi (Guiard indeksi) ile aynıdır. Bu endeks Genelleştirilmiş Torquist fonksiyonu özel bir durum olarak elde edilebilir.
+Q istatistik.
+Bu Kempton ve Taylor tarafından icat bir istatistiktir. ve örnek çeyrekleri içerir. Bu gibi tanımlanmıştır
+Ri sayısıdır "R" 1 ve "R" 1% 25 ve% 75 j kategorisinde inci "j" türlerin sayısı, kümülatif tür eğri üzerinde sırasıyla quartiles "n", "n" "R" i düşer sınıfında türleri ( "i" = 1 veya 2).
+Shannon-Wiener indeksi.
+Bu bilgiler, teoride alınır
+"N" numune ve "p" toplam sayıdır i "i" inci kategorisinde oranıdır.
+nadiren 4.0 aşıyor 1.5 ile 3.5 ve bu endeks yaygın olarak kullanılır ekoloji, "H" genellikle yatıyor.
+"H" standart sapma ( "SD") için yaklaşık bir formül
+formula_43
+burada "s" i "i" inci kategori ve "N" tarafından yapılan oranıdır numunedeki toplamıdır.
+"H" ( "var" (H)) varyansının daha kesin bir yaklaşık değer verilir
+burada "N" örneklem büyüklüğü ve "K" kategori sayısı olmasıdır.
+Bununla ilgili bir endeks olarak tanımlanan Pielou "J" dir
+Bu indeks ortaya çıkan bir güçlük, "S", sonlu bir numune için bilinmemektedir olmasıdır. Uygulamada "S", genellikle numunede herhangi bir kategoride maksimum günümüze kadar ayarlanır.
+Rényi entropi.
+Rényi entropi birlik daha "q", diğer değerlere Shannon entropi bir genellemedir. Bu şekilde ifade edilebilir:
+hangi eşittir
+formula_48
+bu denklemler "x" in ij ve "x" kj veri türü inci kaç kez "j", sırasıyla numune inci "i" inci ya da "k" görünür vardır.
+Seyreltme indeksi.
+Bir düşük yoğunluktaki numunede rastgele alt örnek "n" toplam "N" öğeleri seçilen. Bu örnekte bazı gruplar bu alt örnek itibaren mutlaka eksik olabilir. formula_49, "n" öğeleri alt örnek olarak hala mevcut gruplarının sayısı olsun. formula_49 "K" en az bir grup bu alt örnek eksik her kategori sayısı daha azdır.
+seyreltme eğrisi formula_51 şekilde tanımlanır:
+formula_52
+Unutmayın 0 "f" (n) ≤ "K" ≤.
+ayrıca
+formula_53.
+n ayrık değerler tanımlanan olmasına rağmen, bu eğriler en sık sürekli fonksiyonlar olarak görüntülenir.
+Bu endeks seyrelme (ekoloji) daha tartışılmıştır.
+Caswell en V.
+Bu Shannon entropi dayalı z tipi istatistik olur.
+burada "H" Shannon entropi, "E" (H) dağıtım ve "SD" (H) nötr modeli için beklenen Shannon entropi entropi standart sapması olduğu olmasıdır. standart sapma Pielou türetilen formül ile ilgili olduğu tahmin edilmektedir
+formula_43
+burada "s" i "i" inci kategori ve "N" tarafından yapılan oranıdır numunedeki toplamıdır.
+Lloyd & Ghelardi dizin.
+Bu
+formula_56
+burada "K" kategori sayısı ve "K" dir 'gözlemlenen çeşitlenmesini oluşturan MacArthur'un kırık sopa modeline göre kategorilere sayısıdır.
+Ortalama taksonomik çeşitlilik indeksi.
+Bu indeks dan ve parazitler arasındaki ilişkiyi karşılaştırmak için kullanılır. Bu konak türler arasında filogenetik ilişki hakkında bilgi içermektedir.
+formula_57
+"S" bir parazitin ve "ω" ij tarafından kullanılan konak türlerin sayısı olduğu "i" ve "j" ana türler arasında taksonomik çeşitlilik olduğunu.
+Tek bir numune içinde iki veya daha fazla veri tiplerinin karşılaştırılması için Endeksleri.
+Bu endekslerin birkaç farklı ilgi veri tipleri bir coğrafi alan içinde bir arada kalabileceği derecesini belgelemek için geliştirilmiştir.
+benzeşmezlik indeksi.
+"A" ve "B" veri ürünün iki tip olsun. Sonra benzeşmezlik endeksi
+nerede
+"A" i örnek yerinde veri türü "A" sayısı "i", "B" i örnek yerinde veri türü "B" sayısı "i", "K" örneklenmiş sitelerin sayısı ve || mutlak bir değerdir.
+Bu indeks muhtemelen daha iyi benzemezlik ( "D") endeksi olarak da bilinir. Yakından gini dizin ile ilgilidir.
+Bir tekdüze dağılım altında beklenti> 0 olduğu gibi bu indeks taraflıdır.
+Bu indeks bir modifikasyonu, Gorard ve Taylor tarafından önerilmiştir. Onların indeksi (GT) 'dir
+ayrımı Endeksi.
+segregasyon endeksi ( "IS") 'dir
+nerede
+ve "K" birimleri sayısını, "A" ı ve "t" ı birimi "i" veri "A" tipi sayısı ve "I" birimi tüm veri türlerinin toplam sayısıdır.
+Hutchen karekökü indeksi.
+Bu indeks ( "H") gibi tanımlanmıştır
+burada "p" i "i" inci değişkenin oluşan numunenin oranıdır.
+Lieberson en izolasyon indeksi.
+Bu indeks ( "L" xy) 1981 yılında Lieberson tarafından icat edilmiştir.
+"X" i ve "Y" i "i" inci yerinde ilgi değişkenler, "K" sitelerin sayısı incelenmiş ve "X" tot tipi "X" değişkenin toplam sayısıdır olduğu ders çalışma.
+Bell'in indeksi.
+Bu indeks olarak tanımlanır
+burada "p" x tipi "X" değişkenlerin oluşan numunenin oranıdır ve
+"N" x çalışmasında tip "X" değişkenlerin toplam sayısı olduğu, "K" çalışmada örnek sayısı ve "x" i ve "s" i değişkenlerin sayısı ve oranı vardır sırasıyla "i" inci örnekteki türü "X" değişkenler.
+izolasyon Endeksi.
+izolasyon endeksi
+"K" çalışmada birimlerinin sayısı olduğu, "A" ı ve "t" I tipi "A" ve "i" inci numunedeki tüm birimlerin sayısı birimlerinin sayısıdır.
+izolasyon değiştirilmiş bir göstergesi de önerilmiştir
+"MII", 0 ve 1 arasında değişmektedir.
+segregasyon Gorard dizin.
+Bu indeks (GS) gibi tanımlanmıştır
+nerede
+ve "A" i ve "t" i tip "A" veri öğelerinin sayısı ve "i" inci numunedeki öğelerin toplam sayısıdır.
+maruz kalma indeksi.
+Bu indeks olarak tanımlanır
+nerede
+ve "A" i ve "B" i "i" inci kategorisinde türleri "A" ve "B" sayısı ve "t" olan i "i" inci kategorisinde veri noktalarının toplam sayısıdır.
+İki veya daha fazla numuneleri arasındaki karşılaştırma için endeksler.
+Czekanowski en kantitatif indeksi.
+Bu aynı zamanda afinite veya oransal benzerlik Bray-Curtis endeksi, schoener dizinine, en küçük ortak yüzdesi indeksi, indeks olarak bilinir. Bu Sørensen benzerlik endeksi ile ilgilidir.
+"X" nereye i ve "x" j sitelerinde türlerin sayısı olan "i" ve sırasıyla "j" ve en az iki site arasında ortak tür sayısı üzerinden alınır.
+Canberra metrik.
+Canberra mesafe metrik "L" 1 ağırlıklı sürümüdür. 1966 yılında tanıtılan ve G. N. Lance W. T. Williams tarafından 1967 yılında rafine tarafından o tanıtıldı. Burada her sitenin içinde "K" kategorilerinde iki siteleri - İki vektörleri bwteen tanımlanan bir mesafe için kullanılır.
+Bir "K" boyutlu gerçek vektör uzayda vektörler p ve q arasında Canberra "d" mesafesi olan
+burada "s" i ve "q" i iki vektörün "i" inci kategorinin değerleridir.
+toplumun Sorensen katsayısı.
+Bu topluluklar arasındaki benzerlikleri ölçmek için kullanılır.
+burada "s" 1 ve "s" 2 topluma 1 ve 2 "c" türlerin sayısı iki alanda ortak türlerin sayısı vardır.
+JACCARD dizin.
+Bu iki örnek arasındaki benzerliğin bir ölçüsüdür:
+"A", iki numune ve "B" ve "C" arasında paylaşılan veri noktalarının sayısı olduğu, sadece, sırasıyla birinci ve ikinci örneklerde bulunan veri noktaları bulunmaktadır.
+Zar dizin.
+Bu iki örnek arasındaki benzerliğin bir ölçüsüdür:
+"A", iki numune ve "B" ve "C" arasında paylaşılan veri noktalarının sayısı olduğu, sadece, sırasıyla birinci ve ikinci örneklerde bulunan veri noktaları bulunmaktadır.
+Maç katsayısı.
+Bu iki örnek arasındaki benzerliğin bir ölçüsüdür:
+"N", iki örnek veri noktalarının sayısı ve "B" ve "C" burada sadece birinci ve ikinci örneklerde bulunan veri noktaları bulunmaktadır.
+Morisita dizin.
+dağılım Morisita endeksi ( "Ben" "m") tüm nüfustan rastgele seçilen iki nokta aynı örnek olduklarını ölçekli olasılığıdır. Daha yüksek değerler daha topaklaşan dağılımı göstermektedir.
+Alternatif bir formülasyondur
+"N" toplam örneklem büyüklüğü olduğu, "m" örnek "x" tüm örneklem ele toplamı ile bireysel değerleri ortalama ve olduğunu.
+Ayrıca eşittir
+burada "IMC" çapraşıklık Lloyd'un endeksidir.
+Bu indeks nüfus yoğunluğu nispeten bağımsız olan, ancak numune sayısı etkilenir.
+Morisita istatistik gösterdi
+1 serbestlik derecesi - Bir chi "n" ile değişken kare olarak dağıtılmaktadır.
+Bu dizin için bir alternatif anlamlılık testi büyük numuneler için özel olarak geliştirilmiştir.
+"M" genel örnek demek olduğu, "n" örnek birimlerinin sayısı ve "z" normal dağılım apsis olmasıdır. Önemi normal dağılım değerlerine karşı "z" değerini karşılaştırarak test edilir.
+Standartlaştırılmış Morisita dizin.
+Smith-Gill, hem örnek büyüklüğü ve nüfus yoğunluğu bağımsız ve -1 ve +1 ile sınırlı olan Morisita en endeksine dayalı bir istatistik geliştirdi. aşağıdaki gibi istatistik hesaplanır
+İlk zamanki moda Morisita dizinini ( "Ben", "d") belirler. Sonra nüfus örnek alınmıştır birimlerinin sayısını "k" olalım. iki kritik değerlerini hesaplamak
+güven% 97.5 ve% 2.5 seviyelerinde 1 serbestlik derecesi - χ2 "n" için ki kare değeridir.
+standart indeksi ( "I", "p") daha sonra aşağıdaki formüllerden birine hesaplanır
+Ne zaman Kimliği ≥ Mc> 1
+Ne zaman Mc> Kimliği ≥ 1
+Ne zaman 1> Kimliği ≥ Mu
+Ne zaman 1> Mu> Kimliği
+"Ben", "p" ± 0.5 95 ile 1 arasında -1% güven aralıkları değişmektedir. model, rasgele ise "I", "p", 0 değerine sahiptir; desen üniforma, "Ben", "p ise 0" <ı "" p "0 ve desen toplama gösterir eğer">.
+Peet'ın düzgünlük endeksleri.
+Bu endeksler örnekler arasındaki düzgünlüğü bir ölçüsüdür.
+nerede "Ben" bir çeşitlilik indeksi, "Ben" max ve "Ben" min maksimum ve "Ben" örnekler arasında karşılaştırılan minimum değerler olmasıdır.
+Sıra verileri.
+kategoriler daha sonra en azından sıralı ise diğer endekslerin bir dizi bilgisayarlı olabilir.
+Leik en D.
+dağılım ( "D") olarak Leik en ölçüsü böyle bir endeks. "K" kategorilerinde orada olalım ve "s" i "i" inci kategorisinde sayısı ve kategoriler küçükten büyüğe sıralandığında izin "f", "f" i / "N" olalım. let
+burada "a" ≤ "K". "C" a ≤ 0,5 aksi - "d" a = "c" a ise "c" a ≤ 0.5 ve 1 olsun. Sonra
+Normalleştirilmiş Herfindahl ölçüsü.
+1 "N" örnek boyutu - Bu "N" bölü varyasyon katsayısının kare.
+"M" demek ve "s" olduğu standart sapmadır.
+Çatışma Endeksi için potansiyel.
+Con fl ict Endeksi (PCI) için potansiyel bir derecelendirme ölçeğin orta noktasının her iki tarafında puanlama oranını açıklar. En az sıralı verilere Bu endeks gerektirir. Bu oran genellikle bir baloncuk grafik olarak gösterilebilir edilir.
+PCI değerlendirme noktalarının tek sayı ile bir sıra ölçeği kullanmaktadır (- "n" + "n" kadar) aşağıdaki gibi 0 merkezli Bu hesaplanır
+burada "Z" = 2 "n", || mutlak değer (modülü), "r" + ölçekte pozitif tarafında yanıtların sayısı olduğunu, "r" - ölçek olumsuz tarafı yanıtların sayısı "X" + tepkileri vardır, bir ölçek, "X" olumlu yan - ölçek negatif tarafında tepkiler ve
+Teorik zorluklar PCI mevcut olduğu bilinmektedir. PCI sadece nötr merkez noktası ve bunun iki tarafında yanıt seçenekleri eşit sayıda ölçekler için hesaplanabilir. Ayrıca yanıtların muntazam bir dağılımı, her zaman PKG istatistiğinin orta noktası verim değildir ancak oldukça ölçekte olası yanıtlar veya değerlerin sayısı değişir. Örneğin, fi venöz için tepkilerin bir tekdüze dağılım ile yedi ve dokuz maddelik ölçekler sırasıyla 0,60, .57 ve .50 PKG verir.
+yanıtın bir çift sayı ile en sıralı ölçekler olası yanıtların bir tek sayı vermek tek bir değer tarafından genişletilmiş (veya azaltılmış) edilebilir bu sorunların ilk nispeten küçük olduğunu. gerekli olması halinde Ölçek, genellikle recentred edilebilir. İkinci sorun çözmek için daha zordur ve PCI en uygulanabilirliğini sınırlayabilir.
+PCI uzatıldı
+burada "K" kategori sayısı i "i" inci kategorisinde sayıdır "k",, "d" ij "i" inci ve "i" inci kategoriler arasındaki mesafedir, ve "δ" dır sayısına çarpımına ölçekte maksimum mesafe o numune içinde oluşabilir. veri noktaları eşit sayıda bir örnek için
+ve veri noktaları tek sayıda örnek için
+burada "N" örnek ve "d" max veri noktalarının sayısı ölçekte noktaları arasındaki maksimum mesafe olmasıdır.
+Vaske "vd" Bu indeks ile kullanım için olası mesafe önlemleri bir dizi öneririz.
+işaretleri (+ veya -) ise "r" i ve "r" j farklıdır. işaretler aynı "D" ij = 0 ise.
+burada "p" keyfi bir gerçek sayı> 0'dır.
+işaretler aynı sonra "D" ij = 0 "m" ise işareti ( "r" i) ≠ işareti ( "r" i) ve "p" bir gerçek sayı> 0 ise, "D" 1 "D" 2 veya "D" 3.
+1 ve "D" 2 "D" arasındaki fark ikinci yapar iken birinci mesafe nötr içermez olmasıdır. örnek katılımcıların puanlama -2 ve 1 "D" altında 1 ve 3 "D" adı altında 2 mesafe olurdu 2.
+mesafelerinde bir güç ( "p") kullanımı aşırı tepkilerin yeniden ölçekleme için izin verir. Bu farklılıklar "p"> 1 ile vurgulanmış veya "p" <1 ile azaltılabilir.
+tekdüze dağılımdan çekilmiş değişkenlerin ile simülasyonları PCI2 simetrik unimodal dağılıma sahiptir. dağılımının kuyrukları bir normal dağılım daha büyüktür.
+Vaske "vd" PKG yaklaşık normal dağılıma durumunda numuneler arasındaki PCI değerlerini karşılaştırmak için bir t testi kullanımını önermektedir.
+van der Eijk en A.
+Bu önlem anlaşması derecesi frekans dağılımı ağırlıklı ortalamasıdır. "A" 1 (mükemmel unimodality) -1 (mükemmel bimodalite) arasında değişir. Bu gibi tanımlanmıştır
+burada "U" dağıtım, "S" sıfırdan farklı frekanslara sahip ve "K" kategorilerinde toplam sayısı kategorilerinin sayısı unimodality olduğunu.
+U değeri dağılımı üç Aşağıdaki özelliklerden herhangi varsa 1:
+Bunların dışındaki dağılımlar veri 'katmanları' bölünmüş olması gerekir. bir katman içinde tepkileri eşit ya da sıfır ya vardır. kategoriler bitişik olması gerekmez. Her bir katman için "A" için bir değer ( "A" I) hesaplanır ve dağıtım için bir ağırlıklı ortalama belirlenir. Her bir katman için ağırlıklar ( "W" ı) bu katmandaki yanıtların sayısı vardır. sembolleri
+Bir üniforma dağıtımı "A" = 0 vardır: tüm yanıtları bir kategori "A" = +1 içine düştüğümde.
+Bu indeks Tek teorik sorun aralıkları eşit aralıklı olduğunu varsayar olmasıdır. Bu uygulanabilirliğini sınırlayabilir.
+İlgili istatistikler.
+Doğum Günü sorunu.
+Orada numunede "n" birimlerdir ve rastgele "k" kategoriler halinde ( "n" ≤ "k") dağıtılır, bu doğum günü sorunun bir varyantı considerer olabilir. Sadece bir üniteye sahip tüm kategoriler olasılığı ( "p") 'dir
+"C" "n" iyi bir yaklaşım daha sonra "c" 2/3 ile karşılaştırıldığında küçük ve büyük ise
+aşağıdaki gibi bu yaklaşım tam formül aşağıdaki gibidir:
+"P" = 0.5 ve "p", sırasıyla aşağıdaki tahminleri = 0.05 için "n" yararlı olabilir
+formula_112
+formula_113
+Bu analiz, birden çok kategoriye uzatılabilir. "P" 0.5 ve "p" 0.05 = için sırasıyla var
+formula_114
+formula_115
+nerede "c" i "i" inci kategorisinde boyutudur. Bu analiz kategorileri bağımsız olduğunu varsayar.
+Veri en az bir olay 0.5 ya da 0.05 olasılık daha birbirlerini "j" kategoriler içinde yatan iki kategoride gerçekleşen daha sonra bazı moda sipariş edilirse sırasıyla bir örneklem büyüklüğü ( "n") gerektirir
+nerede "c" kategorilerinde sayısıdır.
+Doğum-ölüm günü problemi.
+doğum günü ve ölüm günleri arasında bir ilişki aşağıdaki istatistik ile incelenmiştir var olup olmadığı
+burada "d" doğum ve ölüm günü arasında yılın gün sayısıdır.
+endeksleri değerlendirilmesi.
+Farklı endeksleri varyasyon farklı değerler verir, ve farklı amaçlar için kullanılabilir: Kullanılan ve özellikle sosyoloji literatüründe critiqued birkaç.
+biri sadece numuneler arasındaki sıra karşılaştırmalar yapmak isteyen (bir örnek daha az ya da çok çeşitlidir başka daha) ise, IQV seçimi genellikle aynı sipariş verecek şekilde, nispeten daha az önem taşımaktadır.
+Veri sıra olduğunda karşılaştırırken örneklerde yararlı olabilir bir yöntem ORDANOVA olup.
+Bazı durumlarda, ne olursa olsun kategorilere veya numune sayısı, 0'dan 1'e çalıştırmak için bir dizin standardize değil yararlıdır, ancak bir genel yüzden standart hale getirmektedir.

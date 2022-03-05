@@ -1,0 +1,19 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Balık balık+Noun+A3sg+Pnon+Nom balık+Adj Balık+Noun+Prop+A3sg+Pnon+Nom
+pulluluk pul+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+Pnon+Nom
+hangi hangi+Adj
+eşey eşey+Noun+A3sg+Pnon+Nom
+kromozom kromozom+Noun+A3sg+Pnon+Nom
+ile il+Noun+A3sg+Pnon+Dat ile+Conj ile+Postp+PCNom
+kalıtılır kalıtılır+Noun+Prop+A3sg+Pnon+Nom
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

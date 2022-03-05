@@ -1,0 +1,183 @@
+Question: Heparin ve histamin salgılayan granüllü akyuvarlara ne ad verilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fibroblast</DOCTITLE>
+<TEXT>
+
+Fibroblast, bağ dokusunun ana hücreleri de denebilir.
+Yassı uzun ya da ovalimsidirler. Gövde kısımlarından sitoplazmik uzantılar çıkar, çekirdekleri oval olan hücrelerdir. 
+Bağ dokunun ana maddesi olan ve yaraların iyileşmesinde işlevi olan kollajen adlı proteinin yapımından sorumlu hücrelerdendirler. Fibroblastlar, farklı hücre çeşitlerinin öncüllerine (osteoblastlar) dönüşebilirler. Fibrobast lifleri oluşturur. Mast hücresi, heparin ve histamin üretir. Heparin kanın damar içinde pıhtılaşmasını önler.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bazofil</DOCTITLE>
+<TEXT>
+
+Kaynak Bazofil Nedir
+Bazofil bir tür lökosit (akyuvar) hücresi. "Bazofilik lökosit" olarak da adlandırılırlar. 
+Lökositlerin bir grubu olan granülositlerden olan bazofil, (sitoplazmik) granülleri bazik boyaları tuttuğu için böyle adlandırılmıştır. Fagositiktir, yani fagositoz yapabilir. Lökositlerin içinde en az miktarda bulunan tiptir, kandaki lökositlerin %0.5-3'ünü oluştururlar. 
+Bazofiller histamin ve heparin ihtiva eder, salıverebilirler. 
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mast hücresi</DOCTITLE>
+<TEXT>
+
+Mast hücresi veya mastosit,(mikroskobik görüntü) bazik boyalarla boyanan, histamin ve heparin açısından zengin granüllere sahip bir hücredir. Bağışıklık sisteminde önemli bir rolü vardır, özellikle alerji ve anafilaksideki yeriyle tanınır. 
+Mast hücreleri kemik iliğinde köken alır ve dolaşıma öncü hücreler olarak girerler. Daha sonra değişik dokulara yerleşip, farklı olgun mastosit tiplerine farklılaşırlar (değişirler). Vücuttaki dokularda, özellikle kan damarları ve sinirlere yakınında bulunurlar. Dışarısıyla direkt temasın olduğu solunum ve sindirim sistemi ve deri gibi yüzeylerin altında büyük sayılarda bulunurlar. Mast hücreleri çeşitli kimyasal, fiziksel veya biyolojik uyarılarla aktive olurlar. Aktive olduklarında sentezlemiş oldukları mediatörleri salgılarlar. 
+Mast hücreleri genellikle alerjik reaksiyonlarda oynadıkları rol ile tanınmakla beraber; kazanılmış bağışıklık (immünite), doku tamiri, pıhtılaşma, fibrinoliz ve anjiogenez gibi durumlarda da rol almaktadır. Ayrıca mast hücreleri paraziter enfeksiyonlarda da önemli bir rol alırlar.
+Tarihçe.
+Mast hücreleri ilk kez 1878 yılında Paul Ehrlich tarafından tanımlanmıştır. Mast hücrelerinin sahip olduğu büyük granüller yüzünden Paul Ehrlich bu hücrelerin yakınında bulundukları doku hücrelerini besleyip, desteklediği kanısına varmıştı. Bu yanlış kanısından yola çıkarak bu hücrelere ""mastzellen"" yani ""besleyen-hücreler"" ismini vermiştir. Bugün mast hücrelerinin bağışıklık sisteminin bir parçasını oluşturduğu bilinmektedir. 
+Aslında Paul Ehrlich'den önce, 1863 yılında von Recklinghausen tarafından yapılmış bir çalışmada kurbağa mezenterine ait boyanmamış kesitlerde damarlara yakın yerleşimli granüllü hücreler tanımlanmıştır.
+Özellikleri.
+Mast hücreleri genellikle yuvarlak veya oval şekilde, 10-30 μm çapındadırlar. Sahip oldukları salgı granülleri 0.3-2.0 μm çapındadır.
+Mast hücreleri yine bağışıklık sisteminde yer alan ve kanda bulunan bazofil granülositlerine benzerler. Benzerlikleri dolayısıyla mast hücrelerinin "yerleşmiş" bazofil hücreleri olduğu varsayımı ortaya atılmıştır. Fakat daha sonraki bulgular mast hücrelerinin kemik iliğinden köken aldığını göstermiştir. Bazofil hücreleri kemik iliğinden olgunlaşmış olarak ayrılırken mast hücreleri olgunlaşmamış (immatür) olarak ayrılırlar. Dokuların yanına yerleşince olgunlaşır, farklı olgun mast hücrelerine farklılaşırlar. 
+İki tip mast hücresi tanımlanmıştır; bağ dokularında bulunan mast hücreleri ve mukozal mast hücreleri. Mukozal mast hücrelerinin aktiviteleri T hücrelerine bağımlıdır. Bağ dokularında bulunan mast hücreleri çok sayıda bazofilik granüller içerir. 
+Mast hücreleri fagositoz yapar, antijen işler, sitokin üretir, vazoaktif madde salgılarlar. Fagositoz yaparak bakterileri öldürebildiği bilinse de bu etkisi fagositlerden daha azdır. 
+Fizyoloji.
+Mast hücreleri membranlarında Immünoglobulin E (IgE) reseptörlerinin yanı sıra, Immünoglobulin G (IgG) ve kompleman reseptörleri bulunur. 
+Mast hücrelerinin membranında bulunan FcεRI isimli yüksek afiniteli IgE reseptör bulunur. Yüksek afinitesi yüzünden IgE molekülleri bir kez bağlandıktan sonra ayrılamazlar, bunun sonucunda da mast hücreleri IgE ile kaplanır. IgE antikorları B hücreleri tarafından üretilir. 
+Alerjik reaksiyonlarda, mast hücreleri bir allerjen, zaten hücreye bağlanmış olan, bir IgE'ye bağlanana kadar inaktif kalırlar. Allerjenler genellikle protein veya polisakkarittirler. Allerjen mast hücresinin yüzeyindeki IgE'ye moleküllerinin "Fab" kısmına bağlanır. Bulgulara göre iki veya daha fazla IgE molekülüne antijenlerin bağlanması (yani çapraz bağların oluşması) sonucu mast hücresi aktive olur (etkinleştirilir). 
+Aktive olduktan sonra mast hücreleri hızlıca granüllerini ve çeşitli hormonal mediatörleri interstitiuma salarlar. Farklı formlardaki (IgE dışındaki, kompleman sistemi gibi) aktivasyon süreçleri de mümkündür, tanımlanmıştır. 
+Aktivasyon sonucu hücrelerarası (interselüler) ortama salınan moleküllerden bazıları:
+Ayrıca, tümör nekrozis faktör alfa (TNF-α) mast hücrelerinde hem önceden sentezlenip depolanmakta, hem de aktive olan hücrelerde sentezlenmektedir.
+Hastalıklardaki rolü.
+Alerjik hastalıklar.
+Mast hücreleri birçok kütanöz ve mukozal alerjide, astım, egzama (ekzema), alerjik rinit ve alerjik konjunktivitte rol alırlar. Ayrıca kullanılan antihistamin ilaçları histaminin sinir uçlarındaki etkisini bloke ederek (engelleyerek) çalışır. 
+Anafilaksi.
+Aşırı duyarlılık yaratan bir antijenin vücuda girişi ile oluşan bir tür şiddetli antijen-antikor reaksiyonu olan anafilakside, vücudun her yanındaki mast hücreleri degranülasyona uğrar ve bunun sonucunda vazodilasyon (damar genişlemesi) gerçekleşir. 
+Mast hücresi tümörleri.
+Mast hücrelerinin hızla üremeleri ve birikmeleri durumuna "mastositoz" adı verilir.Kütanöz ve sistemik formlarda görülür. Kütanöz sadece deri ile ilgiliyken, sistemik formu birçok organı içerebilir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Heparin</DOCTITLE>
+<TEXT>
+
+Heparin (C12H19NO20S3), mast hücreleri tarafından üretilen bir çeşit proteoglikan. Kanın damar içinde pıhtılaşmasını önleyerek doğal bir antikoagülan görevi görmektedir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Varfarin</DOCTITLE>
+<TEXT>
+
+Varfarin (Coumadin®, Jantoven®, Marevan®, ve Waran® marka adlarıyla da bilinir), kalp ve damar sisteminde pıhtılaşmaya karşı kullanılan bir ilaçtır. Antiagregan (kanı sulandırıcı) etkisi vardır. Aynı etkiyi gösteren ilaçların en eski kuşağındandır ve çok ekonomiktir.
+İşlevi.
+Varfarin, K vitamininin olağan yapım yıkımını bozmaktadır. K vitamini, pıhtılaşma etmenlerinin amino-ucunda yer alan özgül glutamik asit rezidüelerine bir karboksil grubu ekleyen karaciğerin bir enzimi olan gama karboksilazın yardımcı etkenidir. Fosfolipitlerin zarlara bağlanabilmeleri için, bu etmenlerin gama karboksilasyonu gereklidir. Varfarin, gama karboksilaz için gerekli bir yardımcı etken olan K vitamininin indirgenmiş biçimini oluşturmaktan sorumlu bir enzim olan K vitamini epoksit indirgeyiciyi engellemektedir. Varfarin varlığında, pıhtılaşma etmenleri üretilmekte; ancak gama karboksilaz ile işlevsel biçimlerine dönüşmeleri engellenmekte; bu da pıhtılaşmayı engelleyici bir etki oluşturmaktadır.
+Varfarin'in başlatılması ve izlenmesi.
+Varfarin, kullanılmaya başlandığında o anda dolaşımda var olan pıhtılaşma etmenlerini baskılamadığından, genellikle yeterli bir pıhtı önleyici etkiye ulaşması 4 ile 5 günü bulmaktadır. Üstelik, hastada Varfarin ilk başlatıldığında, yaklaşık ilk 10 saat boyunca hastanın kanı pıhtılaşmaya daha da eğilimli olmaktadır. Bu ters etkinin nedeni, pıhtılaşmayı engelleyen Protein C ve S'nin de tıpkı diğer pıhtılaşma etmenleri gibi K vitamininin yardımcı etkenliği yoluyla karboksillenmesi gerekmesidir. 
+Bundan dolayı, Varfarin sağaltımının ilk günlerinde hastada pıhtılaşmanın engellenmesi için heparin kullanılmalıdır. Genellikle, hastalar varfarine başladıktan sonra en az dört gün heparin almalıdırlar; pek çok uzman sağaltımsal Varfarine bağlı pıhtı engelleyici etkiye ulaşıldıktan sonra 1 ila 2 gün daha heparinin sürdürülmesini önermektedirler. Varfarinin yükleme dozlarından sakınılmalıdır; çünkü kanamayla sonuçlanabilmektedir. Varfarinin tipik başlama dozu; yetişkinler için günde 5 mg'dır. Çok yaşlı bireylerde günde 2.5 mg kullanılmalıdır. Çok yaşlı bireylerde, Varfarin'i gizillediği bilinen ilaç alanlarda (örneğin Amiodarone) ve K vitamini alımı azalmış hastalarda doz azaltılmalıdır. 
+Varfarin sağaltımı özenli bir şekilde izlenmelidir; çünkü pıhtı-engelleyici etkisi bireyden bireye değişebilmektedir. Varfarini'in takibinde kullanılan laboratuvar incelemesi protrombin zamanıdır (PT). Varfarin terapisi PT'yi uzatmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alerjik konjonktivit</DOCTITLE>
+<TEXT>
+
+Alerjik konjonktivit aslında bir grup hastalığı tanımlayan genel bir terimdir. Temelde tip I aşırı duyarlılık reaksiyonu ile birlikte görülmekte birlikte, süreğen -kronik- tiplerinde hücresel bağışık yanıt da -tip IV reaksiyon- rol oynamaktadır.
+Alerjik konjonktivit.
+Mevsimsel.
+En sık rastlanan alerjik göz hastalığıdır, genellikle çocuklukta başlar, aile öyküsü vardır, astım gibi benzer alerjik şikayetler bulunabilir. Yatkın bireylerin, konjonktivasına temas eden havadaki allerjen maddeler, konjonktivada, tip I alerji reaksiyonu oluşturur. Konjonktivada yer alan bazofil ve mast hücrelerinin IgE antikorları için reseptörleri vardır. Hücre içerisindeki salgısal taneciklerden, histamin proteoglikan (heparin), proteazlar (triptaz), gibi etken maddeler de salgılanır. Bu etken maddeler, damar duvar geçirgenliğinde artış, akciğer bronşlarında daralma, yangı hücrelerinin ortama çekilmesi gibi etkilere sahiptir. Konjonktivada bu açığa çıkan maddelere bağlı olarak; gözlerde kaşınma, kızarma ve sulanma görülür. Göz kapakları hafif şişmiş olabilir, kornea çoğunlukla salimdir ve kişinin görmesi etkilenmemiştir. Aynı zamanda, burun akıntısı, hapşırma, burunda tıkanıklık ve kaşıntı gibi, alerjik rinit bulguları da olabilir.
+Tedavisinde, soğuk kompresler, etkenden kaçınması, antihistaminik ilaçlar, nonsteroidal anti inflamatuar (NSAİ) ilaçlar, kortikosteroidli damlalar kullanılabilir.
+"Not: Kortikosteroidli damlaların ciddi yan etkileri bulunur."
+Pereniyal (Sürekli).
+Pereniyal, kelime anlamı olarak yıl boyunca süren demektir. Pereniyal alerjik konjonktivit, aslında mevsimsel alerjik konjonktivitin türevidir, belirtileri ve bulguları bir miktar daha hafif olmakla birlikte mevsimsel alerjik konjonktivitte olduğu gibidir. Bu hastalıkta mast hücreleri sürekli aktiftir ve etken maddeleri sürekli bir şekilde salgılarlar. Zaman zaman alevlenmeler ve, eşlik eden alerjik rinit bulguları da olabilir. Bu hastalıktan genellikle, mevsimsel özellik göstermeyen allerjenler sorumludur, bunlar, akarlar, mantarlar, ev tozu, kuş tüyleri gibi daha çok organik kökenli moleküllerdir. Tedavisi, mevsimsel alerjik konjonktivitte olduğu gibidir, ilaçların sürekli kullanılması gerekebilir.
+Akut anaflaksi.
+Allerjene maruz kalma ile ani olarak ağır kapak ödemi, konjonktivada kızarıklık, ve ödem gelişebilir. Allerjen etken olarak topikal ilaçlar, polenler, mantarlar ve böcek ısırmaları sayılabilir. Aynı zamanda alerjinin diğer belirtileri olan rinit ve ürtiker de görülebilir. İleri olgularda anaflaksi bulguları (anjioödem, bronkospazm ve hipotansiyon) bulunabilir. Tedavisinde soğuk kompresler, sistemik ve topikal antihistaminikler, damar büzücü (vazokonstriktör) ilaçlar genellikle yeterli olur. Ağır olgular ölüm riski içerir, anaflakside olduğu gibi tedavi edilmelidir.
+Dev papiller konjonktivit.
+Bu tip, konjonktivada ve korneada daha şiddetli bir tutulum yapar. Dev papiller alerjik konjonktivit oluşumunda Tip I aşırı duyarlılık yanı sıra hücresel bağışıklık da sorumludur. 
+Vernal konjonktivit.
+Vernal konjonktivit, tipik olarak çocukluk çağlarında, 10 yaş öncesinde başlar ve 20’li ve 30’lu yaşlarda sıklığı azalır. Ergenlikten önce erkeklerde kızlara göre 2-3 kat daha fazla görülür ancak 20 yaşından sonra cinsiyetler arasında bu görülme sıklığı farkı ortadan kalkar. Limbal ve palpebral olmak üzere iki formu vardır. Palpebral formda, özellikle üst göz kapak konjonktivasında, limbal formda ise kornea ve sklera bileşke bölgesindeki konjonktivada tutulum vardır. Erken evrelerde küçük ve sayıca az olan papillalar, zamanla sayıca ve hacim açısından artış gösterirler, ve konjonktivada kaldırım taşı manzarasında dev papillalara dönüşürler. Konjonktiva ödemli ve kalınlaşmış olarak izlenir. 
+Her iki formda da ağır olgularda kornea tutulumu olabilir. Bir önceki konuda sözü geçen genel tedavi önlemleri bu hastalık için de geçerlidir. Tedavinin temel bileşeni mast hücre membran stabilazörü ilaçlardır. İlaçların yıl boyunca kullanılması gerekebilir. Ağır olgularda kısa süreli kortikosteroidli damlalar kullanılabilir. 
+Atopik keratokonjonktivit.
+Genellikle ailesel veya kişisel olarak, atopik dermatit, astım, alerjik rinit, ürtiker veya besin alerjisi gibi atopik hastalığı olan kişilerde görülür. Atopik keratokonjonktivit olan hastalarda en sık rastlanan atopik hastalıklar, astım ve atopik dermatitdir. Atopik dermatiti olanların yaklaşık %25’inde atopik keratokonjonktivit vardır. Çocuklukta başlayabilse de vernal konjonktivitden farklı olarak daha geç olarak 20’li yaşlar civarında başlar. Göz kapakları sıklıkla tutulmuştur, göz kapaklarının cildi kızarık ve pul pul olmuştur. Konjonktiva tutulumu genellikle alt kapaktadır, papillalar vardır ancak bunlar vernalde olduğu kadar belirgin değildir, daha çok skatrizan -yara yeri iyileşme dokusu- bir görünüm vardır. Kornea tutulumu vardır. Tedavisi vernal olduğu gibidir, kirpik diplerinin temizliği ve hijyeni önemlidir. Cilt tutulumu için sistemik ilaç tedavisi gerekebilir.
+Etkene bağlı dev papiller konjonktivit.
+Kontakt lenslere, göz küresine uygulanmış bazı protez veya eksplantlara veya göz ve çevre dokularında kullanılan dikiş malzemesine bağlı olarak gelişir. Oluşmasında mekanik irritasyonunun önemli bir yeri vardır. Tedavisinde yol açan etkenin ortadan kaldırılması ve antialerjik ilaçların kullanılması gerekebilir.?
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Antikoagülan</DOCTITLE>
+<TEXT>
+
+Antikoagülan, kanın pıhtılaşmasını önleyen maddeler. Heparin doğal bir antikoagülan olduğu gibi klinik amaçla en çok Sodyum ve Potasyum sitrat, EDTA (Etilen di Amin Tetra Asetikasit), kumadin kullanılmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Subkutan enjeksiyon</DOCTITLE>
+<TEXT>
+
+Parenteral yol ilaç uygulama metotlarından olan subkütan enjeksiyon (SC), dermis tabakası altındaki gevşek bağ dokusu (adipoz doku) içine ilaç verme yöntemidir. Subkütan doku, dermis ve kas tabakası arasında yer alır. Deri altı dokusu kan damarlarından zengin değildir. İlaç emilimi kapiller yolla olmaktadır. Bu nedenle bu bölgeye uygulanan ilacın emilimi, intra müsküler enjeksiyondan daha yavaş, intra dermal ve oral yoldan daha hızlıdır. Bununla birlikte, doku dolaşımı ile ilgili bir problem yoksa ilacın emilimi doz kaybı olmadan tamdır. Yavaş ve düzenli emilimi istenen az miktardaki ilaçlar, bu yolla uygulanır. Örnek: bazı aşılar, narkotikler, insülin, heparin, premedikasyonda kullanılan ilaçlar, epinefrin ve growth hormonu gibi. Subkütan enjeksiyonda dokunun özelliğine bağlı olarak bazı noktaların göz önünde bulundurulması gerekir. Bu özellikler şunlardır:
+Subkütan Enjeksiyon Uygulanan Bölgeler.
+Subkütan doku, vücudun her tarafını sardığı için birçok bölgeden bu enjeksiyon yapılabilir. En çok uygulanan bölgeler şunlardır:
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Osteoporoz</DOCTITLE>
+<TEXT>
+
+Osteoporoz veya Kemik erimesi, kemik metabolizmasındaki bir bozukluk sonucunda kemikteki protein örgüsünün seyrelmesiyle iskelette ortaya çıkan ve kemiklerin çok kolay kırılabilmesine sebep olan bir hastalıktır.
+Kemiğin birim hacimdeki mineral yoğunluğu azalmıştır. Bu nedenle kemikler daha kolay kırılır hale gelir. En çok omurlarda, kalça ve bilek kemiklerinde görülse de vücuttaki bütün kemikler bu durumdan etkilenir. Her iki cinste de görülebilmekle beraber hastaların %80'i kadındır.
+Osteoporozun başlıca etkileri.
+Bazı kalıtsal özellikler taşımak (kemikleri kırılgan olan ve ailede eski benzerleri bulunan beyaz ırktan veya Asya kökenli, sarışın ve mavi gözlü, narin yapılı küçük kadın) veya erken menopozdan yahut yumurtalıkların alınmasından sonra hormon değişikliklerine
+(östorojenlerin ani azalması) uğramak osteoporozun en önemli nedenleridir. Ama, sürekli oturma, uzun süre haraketsiz kalma gibi yaşama tarzı; uzun süre tütün, alkol, kortizon, heparin, antiepileptikler gibi toksik (zehirleyici) maddelerin kullanılmasına veya zayıflama rejimleri ve kötü beslenme yüzünden kalsiyumun eksikliğine yol açan beslenme alışkanlıklarına dayanan bazı dış etkenler de, osteoporozun tehlikesini önemli ölçüde artırır. Bunların yanı sıra, omurların veya kol-bacak kemiklerinin kırılma tehlikesi artar.
+Menapozla beraber görünen osteoporozda daha çok omurga kemikleri kırılırken, yaşlılıkla beraber ortaya çıkan senil osteoporozda femur denilen bacak kemiği kırılmaktadır.
+Ortaya çıkışı.
+Gözenekli bir kemik dokusuna dönüşen kemiğin erimesi şeklinde ortaya çıkar; yani kemik daha az yoğun, daha az dirençli hale gelmiş, protein ağı kötülemiştir. Kemik lamellerinin azalmasıyla ortaya çıkan bu hastalık menapozla beraber artma eğilimindedir.
+Kaynak.
+Prof.Dr.Cem Fıçıcıoğlu
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karbonhidrat</DOCTITLE>
+<TEXT>
+
+Karbonhidrat, canlının yapısına katılmayan uzun süreli dozaj etkisi yaratan bir maddedir.
+Aktif aldehit veya keton grubuna sahip polihidroksi alkoller veya hidroliz edildiklerinde bu maddeleri veren bileşikler olarak tanımlanabilir.
+Bütün canlı hücrelerde bulunur. Doğada genellikle büyük moleküller halindedir. Vücuda alınan bu büyük moleküllerin hücrelere iletilmesi için canlı tarafından sindirilmesi ve uygun molekül büyüklüğüne kadar parçalanması gerekir. 
+Karbonhidratlar.
+Karbonhidratlar birinci dereceden enerji verici olarak kullanılırlar. Karbonhidratlar en çok Ekmek, makarna, fasulye, patates, kepek, pirinç,tahıl ve hububat içinde bulunurlar. Karbonhidratlar > yağlar > proteinlerdir. Karbonhidratlar vucütta en çok bulunan üçüncü besin maddesidir. Açlık anında ilk tüketilen besin maddesidir. Yapıtaşları glikozdur. Depo şekli hayvanlarda glikojen bitkilerde ise nişasta şeklindedir. Kimyasal sindirimi ağızda başlar. DNA, RNA ve ATP'nin yapısına katılır.
+Disakkaritler.
+Disakkaritler çift şekerlerdir. Bir disakkarit iki molekül monosakkaritin glikozit bağı ile bağlanmasıyla oluşur. Bu bağlanma sırasında bağ sayısı kadar su ortaya çıkar. Buna dehidrasyon sentezi denir. İnsan ve hayvanların yedikleri disakkaritler, sindirim sisteminde monosakkaritlerine ayrılarak kullanılır. Canlılarda en çok bulunan disakkaritler; maltoz (arpa şekeri), sakkaroz diğer adı sükroz (çay şekeri), laktoz (süt şekeri)dir
+Oligosakkaritler.
+Üç ile altı arasında monosakkaritin birleşerek dehidrasyonu (su açığa çıkması) ile meydana gelirler. Bazı bitkilerde serbest olarak bulundukları gibi, karbonhidrat olmayan çeşitli maddelerin yapısına da katılırlar. Üç monosakkaritten ibaret olanlara trisakkarit, dörtlü olanlara tetrasakkarit denir.
+Raffinoz, heksozlardan türeyen önemli bir trisakkarittir. Fruktoz, glukoz ve sakkaroz moleküllerinden meydana gelmiştir. Şeker kamışında, okaliptüs türü ağaçlarda, pamuk tohumunda bulunur. Şeker üretimi esnasında melasta toplanır. Enerji vermenin yanı sıra yapı maddesi olarakta kullanılırlar.
+Polisakkaritler.
+Çok sayıda monosakkaritin dehidrasyonu ile oluşmuş büyük moleküllü karbonhidratlardır. Temel yapı birimi glikoz molekülüdür. Kolloid yapıda olan bir bileşiktir. Bitkilerde, ozmotik basıncı yükselteceğinden dolayı şekerler monosakkarit halde depolanamaz, bu nedenle polisakkaritlere çevrilerek saklanırlar.
+n (Monosakkarit) → Polisakkarit + (n-1) Su
+Karbonhidratların çoğu canlılar için temel besin maddeleridir. Yeşil bitkilerde fotosentez sonucu meydana gelirler. Otçul hayvanlar bu ihtiyaçlarını bitkilerden, etçil hayvanlar da otçullardan tedarik ederler. Vücutta 1 gr karbonhidratın yanması sonucunda ortalama 4 kalori açığa çıkar.
+Önemli Polisakkaritler.
+Polisakkaritler suda çözünmeyen büyük moleküllerdir. Belirtilmemiş olarak nişasta da bir glikoz polimeridir, depo polisakkaritidir. Ayrıca patojenik bakteriler de polisakkarit sentezleyebilirler. Polisakkaritler 4'e ayrılır. Bunlar;
+Heteropolisakkaritler.
+Yapılarında monsakkaritlere ek olarak başka maddeler de içeren karbohidratlardır. Ek gruplar kükürtlü veya azotlu olabilir. Çoğunlukla bağ dokuda yapı elemanı olarak kullanılır. Hiyalüronik asit, heparin, kertan sulfat, kondrotin sulfat başlıca örnekleridir.
+
+</TEXT>
+</DOC>
+

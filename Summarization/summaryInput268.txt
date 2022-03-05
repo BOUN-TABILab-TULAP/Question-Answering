@@ -1,0 +1,246 @@
+Question:  Fotosentez nasıl gerçekleşir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Krassulasean asit metabolizması</DOCTITLE>
+<TEXT>
+
+CAM veya Crassulaceae asit metabolizması bitkileri ya da CAM fotosentezi, bazı fotosentetik bitkilerde görülen karbon fiksasyonu yoludur.
+Bu bitkiler genellikle sukkulent yapıdadırlar. Tuzcul ortamlarda yaşayan halofit bitkiler ile epifit bitkilerin CAM tipi fotosentez yaptıkları bilinir. Böyle bitkiler karanlıkta ve özellikle geceleri açılan stomalardan içeri CO2'i alırlar. Karbondioksitin indirgenmesi sonucu oluşan ilk kararlı maddenin malik asit olduğu belirlenmiştir. Nitekim karanlıkta bu reaksiyonlu katalize eden enzimin PEP karboksilaz olduğu ve bu enzimin karanlıkta yüksek etkinlik gösterdiği saptanmıştır. Bu reaskiyon sonucu oluşan malik asit vakuolde birikim gösterir. Stomaların genellikle kapalı olduğu ışıkta ise malik asit dekarboksilasyona uğrayarak pürivik aside dönüştürülür. Malik asidin pürivik aside dönüşümü sırasında açığa çıkan CO2 ise RudiP karboksilaz enzimi etkinliği ile 2 mol fosfogliserik asidi (PGA) oluşturur. Daha sonra PGA'dan PGAL oluşur. Bu bitkilerin yaprak anatomilerine bakıldığında, yüzeylerinde çok kalın bir kutikula tabakası bulunur. Palizat parankiması iyi gelişmemiştir, sünger parankimasıyla fotosentez yaparlar. Az sitoplazmalı çok geniş vakuollüdür, çoğu ama her sukkulent yapılı bitki CAM değildir. İletim demetlerinin etrafında demet kını hücreleri vardır, stomalar gündüz kapalı, geceleri açıktır.
+CAM (Crassulacean Asit Metabolizması) Bitkileri 
+Bazı bitkilerde CO2 özümlemesi, Crassulacean asit metabolizması yoluyla gerçekleşmekte olup, bu nedenle bu bitkilere CAM (Crassulacean Asit Metabolizması) bitkileri adı verilmektedir. Bu şekilde CO2 özümlemesi ilk olarak Crassulaceae familyasına ait bitkilerde tespit edildiği için bu isim verilmiş olup, daha sonraları bazı diğer familyalardaki bitkilerde de aynı metabolik yolun izlendiği saptanmıştır. Bugün, Cactaceae, Orcihidaceae, Bromeliaceae, Liliaceae, ve Euphorbiaceae gibi 26 farklı Angiosperm familyasında ve Eğreltilerde bu metabolizmanın var olduğu bilinmektedir. Bu bitkiler tipik olarak suyu kıt olan bölgelerde ya da su temini güç olan koşullarda (tuzlu bataklıklar) yetişir. Çölde hüküm süren aşırı sıcak günler, aşırı serin geceler, çok yüksek ışık şiddeti ve kuraklık gibi ekstrem iklim koşulları genellikle CAM bitkilerinin gelişmesine neden olur. CAM bitkilerinin yaprak yüzeyinde kütikula tabakası çok kalın, palizat parankiması (mesofil) genellikle iyi gelişmemiş olup, sünger parankima hücreleriyle fotosentez yapar. Bu hücreler az stoplazmalı, çok geniş vakuollüdür. CAM bitkilerinin pek çoğunda sukkulent (etli) yapı bulunur; fakat bu tip bitkilerin hepsi de CAM bitkisi değildir. CAM bitkilerinin iletim demetlerinin etrafında da demet kını hücreleri vardır, ancak C4 bitkilerindeki gibi iyi gelişmemiştir. Bunlar yapısal olarak daha çok mesofil hücrelerine benzerler. Bu bitkilerin en önemli özelliği stomaların gündüzleri kapalı, geceleri açık olmasıdır. Bu sayede, stomalar yoluyla gündüz buhar halinde su kaybı minimum düzeydedir. Stomalar gece açıldığında ise stomatal transpirasyonla su kaybı absorbe edilen CO2’ye oranla yine çok düşüktür. Yapılan çalışmalara göre bağlanan her 1 g CO2 için ,CAM bitkilerinde ortalama 50-100 g,C4 bitkilerinde 500 g ,C3 bitkilerinde ise 1000 g buhar halinde su kaybı olmaktadır.
+CAM bitkilerinin CO2 fiksasyonu gece ve gündüz olmak üzere iki kez yapılır. Gece yapılan karboksilasyonda PEP-karboksilaz enzimi görev aldığı halde, gündüz yapılan fiksasyonda RuBP-karboksilaz enzimi işlev yapar. 
+C3 ve C4 bitkileri arasındaki başlıca farklılıklar: 
+C4 bitkileri yaprak anatomilerindeki bu farklılıklar nedeniyle C3 bitkilerine göre 2 kat daha fazla fotosentez yaparlar. Düşük CO2 konsantrasyonu, yüksek sıcaklık, yüksek ışık şiddeti, kuraklık ve yüksek O2 konsantrasyonu gibi koşullarda C4 bitkileri fotosentetik aktivite bakımından C3 bitkilerine göre daha avantajlı durumdadır. C4 bitkilerinde çok yüksek bir aktiviteye sahip olan PEP-karboksilaz enzimi CO2’ye çok duyarlıdır. Bu nedenle bu enzim düşük CO2 konsantrasyonlarında bile yüksek reaksiyon yeteneklerini koruyabilirler. Buna bağlı olarak, C4 bitkileri çok düşük CO2 konsantrasyonlarında bile (<5 ppm) fotosentez yapabilmektedirler. C4 bitkilerinde 25 °C’nin altındaki sıcaklık derecelerinde fotosentez pek etkin biçimde yapılamaz. Çünkü PEP-karboksilaz enzimi sıcaklığa çok duyarlıdır. Nitekim düşük sıcaklığa sahip bölgelerde yetişen mısır bitkisinde görülen bazı gelişme bozuklukları ve yaprak sararmaları PEP-karboksilaz enziminin işlevini tam olarak yapamamasıyla açıklanabilir. C4 bitkileri yüksek ışık şiddeti alan yörelerde, C3 bitkilerine göre çok iyi bir gelişim göstermekte ve etkin fotofosforilasyon sonucundan daha fazla ATP sentezleyebilmektedirler. C4 bitkileri su kıtlığına karşı, C3 bitkilerine göre daha dayanıklıdır. Bu bitkiler düşük CO2 konsantrasyonlarında bile etkin fotosentez yapabildikleri için stomalarını çoğu zaman kapalı durumda tutarlar. Bu nedenle bu bitkilerde stomatal transpirasyon çoğu zaman minimum düzeydedir. Bu da C4 bitkilerin suyu daha etkin kullanmalarını sağlar. C4 bitkileri, ortamdaki yüksek O2 konsantrasyonlarında bile oldukça etkin bir fotosentez hızı gösterir. Örneğin mısır bitkisi, ortamdaki O2 konsantrasyonu %65’e çıkıncaya kadar oldukça yüksek bir fotosentez hızına sahip olduğu halde, C3 bitkisi olan fasulyede fotosentez hızı O2 konsantrasyonu %10’dan itibaren arttıkça giderek düşme eğilimindedir (atmosferdeki O2 oranı %21’dir). C4 bitkileri daha çok tropik veya yarı tropik bölgelerde yetişirler. Ancak ülkemizde olduğu gibi ılıman iklim bölgelerinde yetişen türler de bulunmaktadır. 
+C4 ve C3 Bitkileri Hakkında Ansiklopedik -Özet- Bilgi
+Su ihtiyacını karşılaması için adapte CAM bitkiler gibi, farklı bir karboksil grubuna dahildirler. Adaptasyon sürecinde B.A.T. (Big Asian Tits) adındaki kapalı stomaları, akşamları açılır ve güneş yokken stomalar harekete geçer ve O2 solunumu başlamış olur.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Fotosentez</DOCTITLE>
+<TEXT>
+
+Fotosentez ya da ışılbileşim klorofil (kromozomlarda) taşıyan canlılarda ışık enerjisi kullanılarak organik bileşiklerin üretilmesi olayıdır. Bu yolla besin üreten canlıların tümüne fotosentetik organizmalar denir ve bunların büyük bir çoğunluğunu bitkiler oluştururlar. 
+Fotosentetik organizmalar, ışık enerjisinden yararlanarak enerjiyi depolarlar ve organik bileşikler üretebilirler. Bitkiler de diğer canlılar gibi yaşamsal etkinlikleri için gerekli enerjiyi organik maddelerin kimyasal enerjisinden sağlarlar. Bunun için de güneş ışığını kullanarak havanın karbondioksitini indirgeyerek organik besinlerini sentez ederler. Bu işlem CO2'in indirgenmesi ve ancak güneş enerjisiyle gerçekleştiriliğinden "fotosentez" olarak anılır. Bu yolla güneşin ışık enerjisi kimyasal enerjiye dönüştürülür ve organik madde sentezi yapılmış olur.
+Yeryüzündeki her canlı, metabolizma etkinlikleri için gerekli olan enerjiyi temelde üç yoldan sağlar. Fotosentez bir özümleme faaliyetidir ve bu yüzden özümleme ya da asimilasyon gibi genel isimlerle de anılır.
+Yapraklar, bitkilerin besin üretim merkezidir. Bitki yapraklarını oluşturan hücrelerin içinde kloroplast denilen, çok küçük yapılar vardır. Bu yapıların içindeki yeşil renkli boyar madde (pigment) olan klorofil maddesinin görevi ışık yakalamaktır. Kloroplastlar güneş ışınlarını bir panel gibi toplayıp, kollektör gibi enerjiye dönüştürerek besin üretirler. Üretilen besin yapraklardan, bitkinin beslenmesi gereken diğer bölümlerine götürülür. 
+Havadaki karbondioksit, güneş enerjisi kullanılarak, nişasta ve diğer yüksek enerjili karbonhidratlara dönüştürülür. Karbon kullanıldıktan sonra ortaya çıkan oksijen ise havaya bırakılır. Bitki daha sonra besine ihtiyaç duyduğunda bu karbonhidratlarda depo
+enerjiyi kullanır. Bu bitkilerle beslenen canlılar da bitkide bulunan karbonhidratlardan enerji ihtiyaçlarını karşılarlar. 
+Fotosentezle her yıl yaklaşık olarak 200-500 milyar ton CO2 dönüşüme uğratılmaktadır. Bu nedenle fotosentezin önemi yalnız kalitatif değil ayrıca kantitafitir. Fotosentezle havanın karbondioksiti ve su, karbonhidratlara dönüştürülür. Karbonhidratlar C elementine ek olarak H ve O2 elementlerini de içeren organik besin taşlarıdır. 
+Fotosentez olayının meydana gelebilmesi için gerekli olan maddeler, ışık, klorofil, karbondioksit, canlı organizmadır.
+Tarihsel süreç.
+Fotosentezin bilim tarihindeki gelişimi şöyledir:
+Aristo, bitkilerin yeşillenmesi için güneş ışığının gerekli olduğunu göstermiştir. 
+Van Helmont 17. yüzyılda, bitkisel materyal sentezi ile ilk araştırmaları yapmıştır. Araştırmacı 2,5 kg. ağırlığındaki bir söğüt fidanını içinde 100 kg. toprak bulunan bir saksıya dikmiş ve bunu 5 yıl süresince sadece yağmur suyuyla sulamıştır. Süre sonunda fidan 85 kg'lık bir ağaç olmuştur. deneme sonunda toprak kuru ağırlığı 99,994 kg. olarak belirlenmiştir. Aradaki 50 gramlık fark deney hatası olarak kabul edilmiş ve bitki ağırlığında oluşan 82,5 kg'lık madde artışının yalnız sudan kaynaklanndığı kanısına varmıştır. 
+İlk kez 1771 yılında Joseph Priestley, bitkiler tarafından dışarı verilen oksijenin hayvanlar tarafından kirletilen havayı temizlediği fikrini ortaya atmıştır.
+1779'da Jan Ingenhousz havanın temizlenmesinin yeşil bitkiler tarafından ışıkta yapıldığını açıklamıştır. Fotosentezde klorofilin önemini vurgulamıştır. 
+1782 yılında Senebier yeşil bitkilerin havaya O2 vermesinin CO2 almalarına ve bitkiler tarafından meydana getirilen O2 miktarının tamamen ortamda varolan CO2 miktarına bağlı olduğunu göstermiştir. 
+1804 yılında De Saussure fotosentez esnasında eşit hacimde CO2 ve O2 alış verişi olduğu, buna benzer eşit hacimde bir gaz alış verişinin solunum esnasında da meydana geldiğini ileri sürmüştür. Bitkilerde biri ışıkta diğeri karanlıkta gelişen iki tip gaz alışverişi olduğunu, ışıkta CO2 alınımı ve O2 açığa çıkmasının ancak bitkinin yeşil kısımlarında olabildiğini göstermiştir. Ayrıca fotosentezde suyun rolüne dikkat çekmiştir. 
+Liebig 1840 yılında, CO2'in bitkiler için C kaynağı olduğunu vurgulamıştır.
+1842 yılında Robert Mayer, ışığın enerji içerdiğini, canlılar tarafından kullanılan enerji kaynağının güneş ışığı olduğunu ve fotosentezde bitkinin yakaladığı güneş enerjisini kimyasal enerjiye dönüştürdüğünü belirtmiştir. 
+Engelman 1880 yılında fotosentezde ortama O2 verilmesinin kloroplastlarca sağlandığını ortaya koymuştur. 
+Blackman 1905'de fotosentezin yalnızca fotokimyasal bir olay değil aynı zamanda biyokimyasal bir olay olduğunu ileri sürerek, olayın ışık gerektirmeyen bir karanlık reaksiyon safhası olduğunu da vurgulamıştır. 
+Willstater ve Stoll 1918 yılında CO2, H2O ve ışık altında meydana gelen ilk ürünün CH2O ve O2 olduğunu ileri sürmüşlerdir. 
+Robert Hill 1937 yılında fotosentezin ışık reaksiyonu üğzerinde çalışarak oratmda ışık, su ve uygun bir hidrojen yakalayıcısı bulunduğunda, izole kloroplastların bile ortamda CO2 olmadan O2 oluşturabildiklerini görmüştür. Ayrıca yapraklarda doğal bir hidrojen yakalayıcısı maddenin bulunduğunu ortaya koymuştur. Bugünkü bilgilere göre bu maddeler Fereodoksin ve NADP+'dır. Hill reaksiyonu adını verdiği bir denklemle olayı açıklamıştır. 
+Reaksiyon, fotosentezde O2'nin ışık reaksiyonlarında oluştuğu ve bunun kökeninin CO2 değilde H2O olduğunu göstermesi yönünden önemlidir. 
+Fotosentezin karanlık reaksiyonları üzerinde çalışan (1954-1961) Calvin ve arkadaşları ise olaydaki C metabolizmasını tüm ayrıntılarıyla açıklamışlardır. Bunun üzerine Calvin'e Nobel Ödülü verilmiştir. 
+1966'da Hatch ve Slack, bazı bitkilerde fotosentezin karanlık reaksiyonlarında oluşan ilk kararlı ürünün 3C değil de 4C olduğunu bulmuşlar ve söz konusu bitkilerin tamamen farklı bir C metabolizması olduğunu göstermişlerdir. 
+Yirminci yüzyılın başlarında tek hücreli yeşil su yosunlarında ("Chlorella vulgaris") fotosentezle ilgili araştırmalar Warburg tarafından yapılmıştır.
+Önemi.
+Fotosentez, ışık enerjisini kimyasal bağ enerjisine dönüştürerek ilk basamaktaki organik madde üretimini sağlayan mekanizmadır. 
+Bitkiler besin zincirinin ilk halkasını oluşturduğundan, diğer tüm canlıların var olabilmesi ve yaşamlarını sürdürebilmeleri için gerekli enerji fotosentez olayı sırasında elde edilir.
+Fotosentezle havanın CO2 ve O2 dengesi korunmaktadır.
+Fotosenteze ilişkin bulgular, her yeşil bitkinin organik madde üreten bir fabrika olduğu, bu süreçte güneş enerjisini kullanan aygıtların kloroplastlar olduğunu göstermiştir. Yeryüzüne ulaşan güneş ışınlarının yalnızca yarısı fotosentezde kullanılmaktadır. Bu konuda yapılan araştırmaların dünya nüfusunun gıda ihtiyaçları yönünden önemli olduğu bilinmektedir.
+Pigmentler.
+Fotosentezde en önemli olgu güneş enerjisini yakalayıp onu kimyasal bağ enerjisine dönüştürebilme yeteneğidir. Bu işlevi bitkilerin kloroplastlarında veya kromatoforlarında bulunan pigmentler yapmaktadır. Bunların başlıcaları şöyledir:
+Tepkimeler.
+Işığa bağımlı tepkimeler.
+Işığa bağımlı tepkimeler, canlının ışıklı ortamda ışığa bağımsız tepkimeler için gereken ATP ve NADPH'yi ürettiği bir dizi tepkime zinciridir. Bu tepkimeler tilakoit zar üzerinde gerçekleşir. Işığı soğuran klorofil molekülünden serbest kalan elektronlar elektron taşıma sistemi (ETS) elemanlarından geçer. Bu sırada ATP ve NADPH çıkışı olur.
+Klorofile sahip canlıların ADP ve inorganik fosfat (Pi) kullanarak ATP üretmesine fotofosforilasyon denir. Bu olay devirli fotofosforilasyon ve devirsiz fotofosforilasyon olmak üzere iki yolla gerçekleşir. Devirsiz fotofosforilasyonda, devirliden farklı olarak su, fotolize uğrar. Tepkime şu şekildedir.
+Bu tepkimeler sonucu oluşan O2'nin bir kısmı mitokondrilere gönderilir, artanı ise atmosfere verilir. Oluşan ATP ve NADPH molekülleri stroma sıvısına girer, artık canlı ışıktan bağımsız tepkimeleri gerçekleştirmeye hazırdır.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Emerson etkisi</DOCTITLE>
+<TEXT>
+
+Emerson etkisi, 680 nm'den küçük ve büyük dalga boylu ışınların birlikte verilmesiyle meydana gelen fotosentetik verim artışına denir. 
+Doğrudan klorofil pigmentince soğurulan ışığın yardımcı pigmentlerce soğurularak klorofile aktarılan ışığa göre daha az fotosentetik etkinliği olduğu bildirilmiştir. Emerson adlı araştırıcı beyaz ışık spektrumunun değişik dalga boylu monokromatik ışıklarını kullanarak bu dalga boyundaki fotosentez kuantumunun verilerini ölçmüş ve klorofil a'nın uzun dalga boylu ışık verildiğinde fotosentez veriminde büyük bir azalma olmuştur. Emerson bu fotosentetik verim azalmasının "kırmızı düşüş" olarak adlandırmıştır. Araştırmacı 680 nm'den uzun dalga boylarında fotosentetik etkinliği görülen bu azalmayı aynı anda 680 nm daha kısa dalga boyunda ışığın verilmesiyle ortadan kalktığını ve uzun dalga boyunda ışığın birlikte verilmesiyle sağlanan fotosentez veriminin, bu dalga boylarının ayrı ayrı verilmesi durumunda elde edilen verimden daha fazla olduğunu saptamıştır. 680 nm'den kısa ve uzun dalga boylu ışınların birlikte verilmesi ile bitkide fotosentez verimi üzerinde görülen bu etkiye "Emerson etkisi" denmiştir.
+Emerson etkisi ışık reaksiyonu evresinin iki farklı fotokimyasal reaksiyonla oluştuğunun ortaya çıkarılması açısından önemlidir. Bu reaksiyonların her ikiside 680 nm'den kısa dalga boylarındaki ışık tarafından etkilenmesine karşın, 680 nm'den daha uzun dalga boylarındaki ışıkların bu fotokimyasal ışıklardan yalnızca birini kullandığı saptanmıştır. 
+Kloroplastlardaki klorofil a'nın büyük bölümünü iki formda bulunmaktadır. Bunlardan biri 673 nm'de maksimum soğurma yapan klorofil a673, diğeri de 683 nm'de maksimum soğurma yapan klorofil a683'dür. Ayrıca Bessal-Kok (1961) adlı araştırmacı 700 nm'de absorbiyon yapabilen bir klorofil tipi bulmuş ve buna P700 (pigment700) adını vermiştir. P700'ün proteinler ile kompleks oluşturan bir klorofil a türü olduğu ortaya konumuştur. Bu pigment miktarı çok az olup, tüm klorofil moleküllerinin çok az bir kısmını kapsar.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kloroplast</DOCTITLE>
+<TEXT>
+
+Kloroplast, fotosentezin gerçekleştiği sitoplazmik organeldir.
+Çift katmanlı zarla çevrilidir. İç katman fotosentez pigmentleri enzimleriyle klorofil içeren yassı keseciklere dönüşmüştür. DNA içeren kloroplastlar, bağımsız işlev gören ve kendi kendine çoğalan bir yapıdır.
+Kloroplastta fotosentezi gerçekleştirmek üzere hazırlanmış tillakoidler, iç zar ve dış zar, stromalar, enzimler, ribozom, DNA gibi oluşumlar bulunur. Bu oluşumlar hem yapısal hem de işlevsel olarak birbirlerine bağlıdırlar ve her birinin kendi bünyesinde gerçekleştirdiği son derece önemli işlemler vardır. Örneğin kloroplastın dış zarı, kloroplasta madde giriş-çıkışını kontrol eder. İç zar sistemi ise "tillakoid" olarak adlandırılan yapıları içermektedir. Disklere benzeyen tillakoid bölümünde pigment (klorofil) molekülleri ve fotosentez için gerekli olan bazı enzimler yer alır. Tillakoidler (granalar) "granum" adı verilen kümeler meydana getirerek, güneş ışığının en fazla miktarda emilmesini sağlarlar. Bu da bitkinin daha fazla ışık alması ve daha fazla fotosentez yapabilmesi demektir.
+Bunlardan başka kloroplastlarda "stroma" adı verilen ve içinde DNA, RNA, ribozomlar ve fotosentez için gerekli olan enzimleri barındıran bir de sıvı bulunur. Kloroplastlar sahip oldukları bu DNA ve ribozomlarla hem kendilerini çoğaltırlar, hem de bazı proteinlerin üretimini gerçekleştirirler
+Yapısı.
+Klorofil ve diğer pigmentler bu iç membran sistemine yerleşmiş olarak bulunurlar. Fotosentezin ışık reaksiyonları ile buna bağlı elektron taşınım reaksiyonları granada gerçekleşir. Stromada ise fotosentetik karbon çemberi (Calvin çemberi) enzimleri, ribozomlar ve kloroplasta ait DNA yerleşmiştir. Bundan başka yine stromada çeşitli granüller, lipid damlacıkları, primer nişasta taneleri ve veziküller de bulunabilir.
+Görevi.
+Işık enerjisinin emilimini CO2 alınımı CO2'den karbonhidrat oluşumu ve O2 oluşumu olayları hep kloroplastta gerçekleşir. 
+Işıktan faydalanarak Adenozin trifosfat'nin fosfat bağlarındaki enerjiyi, hücrede kullanılabilecek enerjiye çevirir. Adenozin trifosfat'ı kullanarak karbonun hücre için gerekli organik maddelere dönüştürülmesini sağlar.
+Bitkiye yeşil rengi verir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>C4 karbon tutulumu mekanizması</DOCTITLE>
+<TEXT>
+
+C4 karbon tutulumu mekanizması ya da C4 bitkileri kara bitkilerinin fotosentezinde karbondioksiti bağlayan ve şeker oluşturan C3 karbon tutulumu mekanizması ve CAM bitkileri mekanizmaları gibi işleyen biyokimyasal mekanizmalardan biridir.
+CAM fotosenteziyle birlikte C4 fiksasyonun, bitkilerin çoğunda görülen ve daha basit olan C3 mekanizmasından farklı olduğu anlaşılmıştır. Her iki mekanizmada (Kalvin döngüsünde oluşan ilk enzim) olan RuBisCO'nun fotorespirasyonu veya karbon bileşiklerinden CO2'in oksijen kullanılarak kırılması oluşan enerjiyi harcamak içindir. 
+2.--> 
+Yine de C4 fiksasyonu ATP formundaki enerji girişine C3'den daha çok ihtiyaç duyar. C4 bitkilerinde, rubisco mezofil hücrelerinde karbonu bağlayarak, oksaloasetatı ve malatı kullanarak atmosferik oksijenden ayırılır, bağlanmış karbonu rubiscoya taşınır ve Kalvin döngüsü enzimleri demet kını hücrelerinde izole edilir. Orta seviyeli bileşiklerin her ikiside 4 karbon atomu içerir, bu yüzden de C4 olarak isimlendirilirler.
+İşleyiş.
+C4 mekanizmasının işleyişi iki Avusturalyalı araştırmacı M. D. Hatch ve C. R. Slack tarafından 1966'da bulunmuştur, mekanizma bu yüzden bazen Hatch-Slack yolu olarak adlandırılır. 
+C3 bitkilerinde fotosentezin karanlık devre reaksiyonları sırasında ilk adım olarak RuBisCo enzimiyle 3-fosfogliserat içinde CO2 fiksasyonu yapılır. RuBisCo'nun karboksilaz / oksigenaz aktivitesiyle substrat miktarı enerji yok olması ve substrat ziyanıyla sonuçlanan ve fotorespirasyon olarak bilinen yola, karboksillenme oksitlenmeye tercih edilir. Fotorespirasyonu atlayan yolla C4 bitkileri CO2'i RuBisCo enzimine etkileyici şekilde dağıtma yolunu geliştirmişlerdir. 
+C4 bitkilerinde iki fotosentez yolu birlikte çallıştığı için bu bitkilerin fotosentez kapasitesi fazladır. Oldukça düşük CO2 yoğunluklarında ve stomaların kapalı olduğu durumlarda bile iyi fotosentez yapabilirler. C4 bitkilerinde CO2'i yakalayan iki enzim bulunur. Metabolik yolunda; 
+C4 bitkilerinde çok yüksek aktiviteye sahip olarak bulunan PEP karboksilaz enzimi CO2'e çok duyarlıdır. Bu enzim substat olarak bikarbonat kullanır. PEP-karboksilazın bikarbonatla ilgisi RuBisCo enziminin CO2'e olan ilgisinden çok fazladır. Bu yüzden bu enzim düşük CO2 konsantrasyonlarında bile yüksek reaksiyon yapar. İşte bu yüzden C4 bitkilerinde çok düşük CO2 derişimlerinde bile fotosentez hızı yüksektir. 
+Bu tür bitkilere örnek olarak; mısır, şeker kamışı, semiz otu, "Sorghum" ve "Cyperus" gösterilebilir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Plastit</DOCTITLE>
+<TEXT>
+
+Plastitler alg ve bitki hücrelerinde bulunan çeşitli görevleri olan temel organellerdir. Genç hücrelerde renksiz olan plastitler (lökoplast), hücre ile birlikte gelişerek, hücrenin görevine uygun şekil ve renk kazanır. Bulundurdukları pigment (renk maddesi) ve görevlerine göre birbirine dönüşebilen üç çeşit plastit vardır:
+Kloroplast.
+Kloroplast, fotosentezin gerçekleştiği sitoplazmik organeldir.
+Çift katmanlı zarla çevrilidir. İç katman fotosentez pigmentleri enzimleriyle klorofil içeren yassı keseciklere dönüşmüştür. DNA içeren kloroplastlar, bağımsız işlev gören ve kendi kendine çoğalan bir yapıdır.
+Kloroplastta fotosentezi gerçekleştirmek üzere hazırlanmış tillakoidler, iç zar ve dış zar, stromalar, enzimler, ribozom, DNA gibi oluşumlar bulunur. Bu oluşumlar hem yapısal hem de işlevsel olarak birbirlerine bağlıdırlar ve her birinin kendi bünyesinde gerçekleştirdiği son derece önemli işlemler vardır. Örneğin kloroplastın dış zarı, kloroplasta madde giriş-çıkışını kontrol eder. İç zar sistemi ise "tillakoid" olarak adlandırılan yapıları içermektedir. Disklere benzeyen tillakoid bölümünde pigment (klorofil) molekülleri ve fotosentez için gerekli olan bazı enzimler yer alır. Tillakoidler "grana" adı verilen kümeler meydana getirerek, güneş ışığının en fazla miktarda emilmesini sağlarlar. Bu da bitkinin daha fazla ışık alması ve daha fazla fotosentez yapabilmesi demektir.
+Bunlardan başka kloroplastlarda "stroma" adı verilen ve içinde DNA, RNA, ribozomlar ve fotosentez için gerekli olan enzimleri barındıran bir de sıvı bulunur. Kloroplastlar sahip oldukları bu DNA ve ribozomlarla hem kendilerini çoğaltırlar, hem de bazı proteinlerin üretimini gerçekleştirirler
+Lökoplast.
+Renksizdir.Bitkinin kök,toprak altı gövdesi (rizom) ve tohumları gibi depo organlarında bulunur. Besin depolar. Patates gibi kökte, yumruda ya da bitkinin renksiz kısımlarında lökoplast renksizdir, ama gün ışığına çıkınca bitkinin bulunduğu yerdeki rengini değiştirir.
+Kromoplast.
+Bitkilerin çiçeğine renk verir. Çiçeklerdeki kırmızı, sarı, turuncu, hatta leylak gibi renklerin oluşmasını sağlar. Havuca turuncu renk veren karoten, domatese kırmızı renk veren likopin, limona sarı renk veren ksantofil, bitkiye yeşil rengi veren ise klorofildir. Kısaca kromoplast bitkiye sarı, kırmızı, turuncu gibi renkleri verir. Bitkilerin bazı renkleri ise koful öz suyunun asidik ya da bazik oluşuna göre renk değiştiren "antokyan" tarafından oluşturulur.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Likenler</DOCTITLE>
+<TEXT>
+
+Likenler ya da Lichenes; başlı başına birer organizma değildirler. Mantarlar ve fotosentetik alglerden meydana gelen simbiyotik birlikteliklerdir.
+Şekil ve yaşayış bakımından kendilerini oluşturan alg ve mantarlardan tamamen ayrı bir yapı gösterirler. Renksiz bir mantar hifinden oluşan tallusun yapısına katılan fotosentetik canlı (fotobiyont), genellikle yeşil alg ya da bir siyanobakteridir; fakat bazı sarı-yeşil alglerden ve kahverengi alglerden de oluştukları bilinir. En çok Cyanophyta ve Chlorophyta'ya ait cinsler ve Xanthophyta ve Phaeophyta'dan bazı alg türleri görülür. Mantarlarda ise genellikle Ascomycetes ve az olarak Basidiomycetes'e ait cinsler görülür. 
+Alg ve mantarın birbirleri ile birleşmeleri farklı şekillerde olabilir. Eğer alg ve mantar dağılımı homojen tek bir tabaka şekildeyse bu likenler; "Homeomerik liken", heterojen bir dağılım ve farklı tabakalar varsa "Heteromerik liken" olarak isimlendirilirler.
+Homeomerik likenlerde, alg ve mantar ayrı bir katman oluşturmadan birleşir, tallus jelatini andıran müsilajımsı yapıdadır.
+Heteromerik likenlerde, üst kabuk katmanı (korteks) ile orta kısım arasında algler bulunur, diğer kısımlar sıkı ya da gevşek dizilmiş mantar hiflerinden oluşur. Çoğu liken bu grupta yer alır. 
+Likenler, birçok yerde bulunabilen organizmalardır. Morfolojilerine veya dış görünüşlerine göre göre;
+Üremeleri.
+Likenler eşeysiz ve eşeyli olarak çoğalabilen bir canlı grubudur.
+Eşeysiz üreme.
+Bu çoğalma tipi "Sored" denilen mantar hifleri ile çevrili birkaç alg hücresinden oluşan tallus parçacıkları ile gerçekleştirilir. Soredler tallusun korteksinin parçalanması ile serbeste hale geçerek toz gibi çevreye dağılırlar, ulaştıkları yerlerde tutunarak, yeni bireyleri oluştururlar.
+Eşeyli üreme.
+Likenlerin yalnızca mantarlarında görülür. Alg bu yapının içinde vejetatif olarak çoğalır. Mantarların meydana getirdiği fruktifikasyonlar serbest yaşayan mantarlarınkinden oldukça farklıdır. Liken yapısındaki mantarın cinsine göre oluşturulan fruktifikasyonlar farklılık gösterir.
+Metabolizma.
+Likenleri oluşturan alg ve mantarlar arasında bazı fizyolojik iş bölümleri vardır. Simbiyotik organizmalardan alg, klorofil taşıdığından fotosentez yapar ve birliğin karbonhidrat gereksinimini karşılar. Mantar ise su ve madensel maddelerin alınmasında görev alır. 
+Likenlerde metabolik aktivite su, ısı ve ışıkla değişkenlik gösterir. Su içeriği %65-90 arasında olduğunda fotosentez oranı artar, 15-200C fotosentez için en uygun sıcaklıktır. Depo maddesi olarak nişasta bulunur. Likenlerin metabolizmaları sonucu ekonomik öneme sahip bazı maddeler oluşur. Bunlar tıpta, boya sanayinde ve besin olarak kullanlan maddelerdir. 
+Tıpta; öksürük ve göğüs hastalıklarında, diabette, nefrit, nezle de ve iştah açıcı olarak kullanım alanları mevcuttur. İnsanlarca "Lecanora esculenta" ve Ren geyiklerince "Cladonia rangiferina" besin olarak kullanılır. 
+Ekoloji.
+Dünyada geniş bir yayılım alanına sahip ve denizlerden yüksek dağlara, sıcak bölgelerden kutuplara kadar yerleşim yerlerinde ve zor koşullarda bulunurlar. Tallus yavaş gelişir, ağaç, toprak ve kayalar üzerinde bulunurlar.üzerinde bulunduğu kayaları parçalayarak toprak oluşumuna katkı sağlarlar. Bununla birlikte çevresel faktörlerden özellikle de hava kirliliğinden olumsuz etkilenirler. Kalabalık şehir merkezlerinde atmosferik kirleticilere bağlı olarak bazı likenler ortadan kaybolurlar. Böyle ortamlara "Liken Çölü" denir.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Protistler  (EBA)</DOCTITLE>
+<TEXT>
+
+Mikroorganizma dünyasında tespit edilen her yeni canlı, bilim dünyasında bu canlıların nasıl sınıflandırılacağı ile ilgili yeni soruları beraberinde getirmiştir. 1860 yılında protistleri ilk gözlemleyen kişi olan John Hogg, bu canlılara Protoctista adını vermiştir. Hogg, bu canlıları ne bitkiler ne de hayvanlar altında gruplayabilmiştir. Protistlerin bazıları bitki özelliklerine sahipken, bazıları hayvanlara benzer özellikler göstermektedir. 19. yüzyılda protistler, bitkiler ve hayvanlar dışında farklı bir âlem olarak sınıflandırılmıştır. 
+Protistler çok farklı özelliklere sahip canlıları içeren oldukça geniş bir âlemdir. Bu gruptaki canlılar bir hücreli, çok hücreli, mikroskobik, makroskobik, ototrof ya da heterotrof olabilir. Kısacası protista âleminin bütün özelliklerini barındıran tipik bir canlı örneği yoktur. Ancak öglena protista âlemine örnek olarak verebileceğimiz canlılardan sadece biridir (Resim 140). 
+Protista grubu üyeleri yaşamsal faaliyetlerinin çoğunu sitoplazmadaki organellerde gerçekleştirir. Ökaryot kavramı, bakterilerden farklı olarak canlının metabolik işlemlerinin zarla çevrili organellerin içinde gerçekleştiğini ifade etmektedir. 
+Fosil kalıntıları protistanın 2 milyar yıldır dünyada olduğunu göstermektedir. 
+Bu tek hücreli mikroskobik canlıların bazıları hayvanları anımsatan özelliklere sahiptir. Amip ve paramesyum (Resim 142) gibi protistalar, bakteriler ve diğer küçük canlıları yiyerek beslenir. Ancak hayvanlardan farklı olarak bunlar bir hücrelidir. Bu grubun bazıları ise bitkiler gibi fotosentez yaparak kendi besinini kendisi üretir. Ancak bitkiler gibi kök, gövde ve yaprakları yoktur. Bilinen en önemli fotosentetik protista, öglenadır. Bazıları ise ölü organizmaları ayrıştırdıklarından mantarlara benzer özellikler gösterir (Resim 141). Ancak mantarlarda görülen hücre duvarındaki kitin maddesi bu canlılarda yoktur ve bu canlılar aktif bir şekilde hareket eder. 
+Peki, bu geniş âlemin üyeleri olan canlılar, insanları ve diğer organizmaların hayatlarını nasıl etkiler? Her yıl dünyada milyonlarca insanın ölümüne yol açan sıtma ve uyku hastalığına protistler neden olmaktadır. Tek hücreli, fotosentez yapabilen algler önemli miktarda oksijen üreterek bu oksijeni atmosfere bırakır. Cıvık mantarlar ise önemli miktarda organik maddeyi ayrıştırarak diğer organizmaların kullanabileceği besinler hâline getirir. 
+Protozoon (Protoszoa-Protozoa), Latincede ilk anlamına gelen “protos” ve hayvan anlamına gelen “zoa” kelimelerinden türetilmiştir. 
+Bazı protistler tüketici olmaları ile hayvanlara benzer özellikler gösterir. Bu protistler protozoon olarak isimlendirilir. Tüm protozoonlar tek hücreli canlı organizmalar ya da ölü organik materyaller ile beslenir (Resim 142). 
+Protozoonların insanlar açısından oldukça tehlikeli olan türleri vardır. Bilinen protozoon hastalıklarının çoğu öldürücü etkiye sahiptir. Afrika uyku hastalığı ve sıtma bunlardan bazılarıdır. Sıtma, hastalık yapıcı protozoonlardan biri olan plazmodyumların (Plasmodium-Plazmodyum), dişi anofel sivrisinekleriyle insanlara bulaşmasıyla yayılan ateşli bir hastalıktır (Resim 143). Sıtma, sivrisineklerle bulaştığı gibi hastalıklı kan nakilleriyle de taşınabilir. 
+Afrika uyku hastalığı olarak bilinen hastalık özellikle Uganda, Tanzanya, Kenya, Etiyopya gibi ülkelerde yaygın olan bir parazit hastalığıdır (Resim 144). Trypanosoma gambiense (Tripanozoma gambiyenze) veya Trypanosoma rhodesiense (Tripanozoma rodeziense) türü parazit insanlara çeçe sinekleri (Glossina palpalis-Glosina palpalis) ile bulaşır. Bu parazit hastalık ilerlediğinde kan yolu ile beyne ulaşır ve bu bölgede iltihaplanmaya yol açar. Bu durumda kişide uykuya eğilim, felç, yürüyememe ve konuşmada bozukluk, bayılma gibi belirtiler görülür. 
+Prtozoonların (Prtoszoa-Protozoa) aksine bazı protistler ise üretici olmaları sebebi ile bitkilere benzer özellikler gösterir. Bu protistler algler olarak isimlendirilir. Algler bir hücreli ya da çok hücreli olabilen fotosentetik protistadır. Algler yeşil dışında içerdikleri diğer renk pigmentleri sayesinde farklı renklerde (mor, kırmızı, kahverengi, sarı) görülebilir, hatta alglerin bu renkleri sınıflandırmalarında da kullanılır. Alglerin büyük bir çoğunluğu suda yaşamakta ve güneş enerjisini kullanarak organik besin üretmektedir. Tek hücreli, suda yaşayan fitoplanktonlar, hem diğer organizmalar için hem de doğal döngü için oldukça önemli canlılardır (Resim 145). Suyun yüzeyinde akıntıya bağlı hareket eden bu canlılar sudaki diğer canlılar için besin sağlarken aynı zamanda dünyadaki oksijenin önemli bir miktarını üretir. 
+Yakamoz, mikroskobik bir deniz canlısının çıkardığı ışık sonucu oluşur (Resim 146). Genelde Ay’ın deniz yüzeyinde yansıması olduğu sanılır. Oysa bu “mehtap”tır. Yakamozu oluşturan bu küçük canlıların sayısı ne kadar fazla olursa yakamoz o kadar fazla görülür. Yakamozun gözlemlenebilmesi için diğer ışık kaynaklarının (güneş, ay ve şehir ışıkları) yakamoz ışıklarını bastırmaması gerekir. 
+Çevremizde algler ve protozoonların dışında organik bileşiklerin ve suyun ayrıştırılmasında görev alan farklı protistler de bulunmaktadır. Organik materyalleri ayrıştıran, tüketici organizmalar olarak tanımlanan mantar benzeri protista genellikle nemli topraklarda, suda ve ağaç diplerinde yaşar. Bazıları ölü organik materyalleri sindirirken, bazıları ise bakteri ve mayalarla beslenir. 
+Günümüzde kirli sular sağlığımızı tehdit etmektedir. Son dönemde kirli suların temizlenmesinde kullanılan bir yöntem de protistadır. Protista suda kirliğe yol açan kimyasal maddeleri parçalayarak ve kirlilik sonucu oluşan bakterileri tüketerek suyun temizlenmesine yardımcı olmaktadır. 
+Plankton; suda bulunan, aktif hareket etme yeteneği olmayan, akıntı yönüne bağımlı olarak hareket edebilen canlılara verilen genel isimdir. Bu canlıları bitki, hayvan ya da bakteriler olarak sınıflandırmamız zordur. Çünkü fotosentez yapan planktonlar fitoplankton; diğer planktonları yiyerek beslenen tüketiciler zooplankton ve ayrıştırıcı olanlar bakteri planktonları olarak isimlendirilir. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>D.	Madde Döngüleri (EBA)</DOCTITLE>
+<TEXT>
+
+Güneş, ekosistemlere enerji sağlar, ancak yaşam için ihtiyaç duyulan su ve diğer kimyasal maddelerin kaynağı dünyamızdır. Bundan dolayı yaşamın sürdürülebilmesi bu maddelerin atmosfer, hidrosfer, litosfer ve biyosfer arasında bir döngü oluşturacak şekilde dolaşımına bağlıdır. Madde döngülerinin biyolojik, kimyasal ve jeolojik etkileri vardır. Ancak insanların olumsuz etkileri sonucunda döngülerin bozulması, canlı öğelerin yaşamını tehlikeye sokar.
+Ekosistemlerde yaşam, enerji akışı ve madde döngüleriyle devamlılık kazanır. Bir ekosistemin doğal dengesini koruyabilmesi ve varlığını sürdürebilmesi için madde ve enerji döngüsü ile tüketilen maddelerin yeniden üretim için ekosisteme geri dönmesi şarttır.
+Madde döngüsü, inorganik maddelerin, sürekli olarak cansız ortamdan alınıp canlı unsurlar arasında aktarıldıktan sonra cansız ortama tekrar verilmesi şeklinde çalışır.
+Ekosistemlerde madde varlığı sınırlıdır ve yerine konmadığı takdirde tükenmeye mahkûmdur. Madde döngüsünün enerji akışından farkı, ekosistemin içinde sürekli devir yapmasıdır.
+1.	Karbon Döngüsü
+Karbon atomları, canlı dokularını meydana getiren birleşikleri oluşturması nedeniyle tüm yaşamın temel taşıdır.
+Aşağıdaki şemada görüldüğü gibi canlıların temel yapısını oluşturan karbon; atmosferde karbondioksit (C02), suda karbondioksit ve bikarbonat hâlinde bulunur. Karalarda ise karbon, kömür, doğal gaz, petrol, kireç taşı içerisinde yer alır.
+DOĞADA KARBONÜN DÖRT BÜYÜK KAYNAĞI - Kara (Litosfer), Atmosfer, Su (Hidrosfer), Canlılar (Biyosfer)
+Karbonun büyük bir kısmı karbondioksit şeklinde bulunur. Karbondioksitten çıkan karbon, fotosentez için çok önemlidir. Karbondioksit günlük ve mevsimlik sıcaklıkların aşırı yükselmesi ve düşmesine engel olur.
+Denizler ile atmosfer arasındaki karbon alışverişi çok yavaştır. Bu daha çok deniz yüzeyinin ilk 100 metresinde meydana gelir. Karalardan erozyon yolu ile taşınan organik ve inorganik maddeler vasıtasıyla da denizlere karbon gelir. Karalardan erozyon yolu ile gelen ve kabuklu deniz hayvanlarından oluşan organik karbon, karbonat ve bikarbonatlarla birlikte deniz tabanlarındaki tortullarda birikir. Bu karbonat belki binlerce yıl döngüye katılmaz. Bu nedenle okyanuslar ve denizler karbonun depolandığı yerlerdir. Denizler atmosfere oranla 50 kat fazla karbon içerdiklerinden, karbon akışını düzenleyen en önemli kaynaklardandır.
+Karbon döngüsü atmofer, litosfer, biyosfer ve hidrosfer arasında gerçekleşir. Döngü bozulmadığı sürece karbon oranında önemli değişiklikler meydana gelmez. Aşağıdaki şekilde karbon döngüsü gösterilmiştir (Şekil 7).
+Şekil 7: Karbon döngüsü
+Karbondioksit Tüketimi:
+Kara ve deniz bitkileri tarafından fotosentezde kullanılır.
+Deniz hayvanlarının kabuk oluşumunda kullanılır.
+Deniz hayvanlarının ve bitkilerinin ölümü ile dibe çöker ve karbonatlı kayaçlar hâlinde depo edilmesi ile tüketilir.
+Ölen canlıların bünyesindeki karbon zamanla basıncın etkisiyle petrol ve kömür gibi fosil yakıtlara dönüşür.
+Karbondioksitin Açığa Çıkması:
+Canlıların solunumları ile doğaya döner.
+Ölen canlıların çürümesi ve orman yangınları sonucu doğaya döner.
+Karbonatlı kayaçların, fiziksel ve kimyasal yollarla ayrışması sonucunda havaya yayılır.
+Suyun hava ile temas yaptığı yüzeyde karbon alışverişi gerçekleşir. Burada COz akışı, su yüzeyinden atmosfere ve atmosferden suya doğru iki yönde gerçekleşir.
+Atmosferdeki C02 miktarı bellidir. Tüketilen miktarda C02 sürekli olarak atmosfere dönmemiş olsaydı fotosentez giderek azalacak ve neticede bitkilerin organik madde üretmelerine imkân kalmayacaktı. Bunun sonucunda besin zinciri yaklaşık 35 yıl gibi kısa bir süre sonunda duracak ve yeryüzünde hayat sona erecekti.
+2.	Oksijen Döngüsü
+Canlıların aldıkları besinleri enerjiye dönüştürebilmeleri için oksijen gereklidir. Atmosfer % 21 oranında oksijen içerir. Sularda da oksijen çözünmüş olarak bulunmaktadır. Oksijen atmosferde, atomik oksijen (O), moleküler oksijen (Os) ve ozon (Os) olmak üzere üç şekilde bulunur. Moleküler oksijen solunum için gereklidir. Moleküler oksijen litosferdeki en yaygın elementtir. Çok reaktif bir gaz olduğu için hidrojen, sülfür, karbon, fosfor gibi birçok elementle birleşir. Ozon, biyosferi ultraviyole ışınlarının zararından korur.
+Atmosfere oksijen sağlayan en önemli kaynaklardan biri klorofilli canlıların fotosentez süreci sırasında meydana getirdiği oksijendir. Diğer bir oksijen kaynağı da, yerden belli bir yükseklikteki atmosferde bulunan sudur. Bu suyun fotolizi (suyun ışık yardımıyla oksijen ve hidrojene ayrışması) ile oksijen açığa çıkmaktadır (Şekil 8).
+Oksijen, solunum sırasında; kömür, gaz, petrol gibi maddelerin yanmasında ve organik maddelerin oksidasyonunda (besin maddelerinin yakılmasında) tüketilir.
+Atmosferin içerdiği oksijen miktarında bugüne kadar ölçülebilir bir değişiklik olmamıştır. Buna göre tüketilene eşit miktarda oksijen atmosfere iade edildiği, bu suretle oksijen döngüsünün denk kapandığı söylenebilir.
+3. Azot (Nitrojen) Döngüsü
+Canlılar için önemli bir madde olan azot, protein ve DNA’ nın bileşenlerindendir. Azot, topraktaki verimi büyük ölçüde etkiler.
+Azotun esas kaynağı atmosferdir. Atmofer % 78 oranında azot (N2) içerir. Fakat atmosferde serbest bulunan azot organizmalar tarafından doğrudan kullanılmaz. Azotun bitkiler tarafından kullanılabilmesi için bazı süreçlerden geçerek nitrit ve nitratlara dönüştürülmesi yani bağlanması gereklidir. Aşağıdaki şekilde azot döngüsü gösterilmiştir (Şekil 9).
+Doğada Azotun Dolaşımı
+Atmosferde yıldırım ve volkanik faaliyetler sırasında ortaya çıkan elektrik deşarjları sonucunda azot, oksijen ile birleşerek nitrit ve nitratlara dönüşür. Nitratlar, yağışlarla toprağa girerek bitkiler tarafından kullanılır.
+Azotun bağlanması topraktaki bazı bakteriler tarafından gerçekleştirilir. Bu bakteriler ölmüş canlıların yapılarındaki organik maddeleri parçalayarak bunları nitrata çevirir.
+Toprakta ve bazı bitkilerin köklerinde bulunan azot bağlayıcı bakteriler sayesinde bitkiler nitratları alır ve yapılarına katar.
+Azot, besin zinciri ile bitkilerden otçullara otçullardan da etçillere geçer.
+Ölen bitki ve hayvanlar, ayrıştırıcılar tarafından parçalanır. Mikroorganizmalar azotu nitrit ve nitrata dönüştürür ve böylece azot döngüye katılmış olur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Üreticiler  (EBA)</DOCTITLE>
+<TEXT>
+
+Ototrof organizmalardan oluşan bu grubun büyük çoğunluğunu fotosentetik olan organizmalar oluşturur. 
+Bitkiler ve algler, fotosentez yaparak inorganik maddelerden organik madde üreten organizmalardır (Resim 3.13). Ekosistemlerde üretici durumunda olan bu canlıların toplam biyokütleleri, diğer gruplarınkinden daha fazladır. 
+Üreticiler, ekosistemde tüketici durumunda yer alan diğer canlıları doğrudan ya da dolaylı olarak besledikleri için çok önemli bir gruptur. Fotosentez yapan bu canlılar, ayrıca, ortama oksijen vermeleri bakımından da oldukça önemlidirler. 
+
+</TEXT>
+</DOC>
+

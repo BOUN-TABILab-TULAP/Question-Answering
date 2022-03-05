@@ -1,0 +1,23 @@
+İzotropik koordinatlar
+Lorentz Manifoldlar teorisi, küresel simetrik uzayzamanları "iç içe yuvarlak küre" nin bir aile itiraf. İç içe kürelerin bu aileye "uyarlanmış" olan grafik koordinat birkaç farklı türü vardır; En iyi bilinen Schwarzschild grafik, ancak izotropik grafik de sıklıkla yararlıdır.
+izotropik grafiğin belirleyici özelliği onun radyal hafif koni "yuvarlak" görünecek şekilde tanımlanmıştır (radyal bir Schwarschild grafik koordinatı farklı olan) koordinat olmasıdır. Bu (lokal düz manifoldu önemsiz durumu hariç), açısal izotropik koordinatlar sadakatle iç içe küreler içinde mesafeleri temsil anlamına gelir, ne de radyal sadakatle koordinat radyal mesafeler temsil yok. Öte yandan, sabit zaman hyperslices açıları, bozulma olmadan grafiğin dolayısıyla adını temsil edilmektedir.
+İzotropik çizelgeleri en sık bu tür genel görelilik olarak yerçekimi metrik teorileri statik küresel simetrik uzay zamanlar uygulanır, ama onlar da, örneğin, bir küresel titreşimli akışkan topu modelleme kullanılabilir. Einstein alan denkleminin izole küresel simetrik çözümler için, geniş mesafelerde, izotropik ve Schwarzschild çizelgeleri Minkowski uzay her zamanki polar küresel grafiğe giderek benzer hale gelir.
+Tanımı.
+Izotropik grafikte (statik Küresel simetrik uzay üzerine), satır öğesi halini alır
+Bağlamda bağlı olarak, radyal belirsiz fonksiyonları koordinat olarak (Einstein alan denkleminin tam bir statik küresel simetrik çözüm kaynaklanan, örneğin) f, g kabul etmek uygun olabilir. Alternatif olarak, izotropik, belirli bir Lorentz uzay üzerindeki grafik koordinat elde etmek için (belki bazı parametrelere bağlı olarak) özel fonksiyonlar takabilirsiniz.
+Vektör alanları Killing.
+Bir küresel simetrik statik uzay vektör alanlarını Killing Lie cebiri Schwarzschild grafikte olduğu gibi izotropik grafikte aynı şeklini alır. Yani, bu cebir timelike tarafından oluşturulan "irrotasyonel" Killing vektör alanı
+ve üç spacelike Killing vektör alanları
+İşte o formula_5 irrotasyonel olduğunu söyleyerek karşılık gelen timelike bağdaşım girdap tensör kaybolur demektir; Böylece, bu Öldüren vektör alanı hypersurface diktir. uzay vektör alanını Killing bir çevrintisiz timelike itiraf gerçeği aslında statik uzay-zamanın belirleyici özelliğidir. Dolaysız bir sonucu "zaman sabiti yüzeyleri koordinat" (izometrik) "mekansal hyperslices" (spacelike hiperyüzeyleri) bir aile oluşturmak formula_6 olmasıdır.
+Schwarzschild grafik aksine, izotropik grafik de bu hyperslices katıştırma diyagramlar oluşturmak için uygun değildir.
+Statik iç içe küreler bir aile.
+(biz kutup küresel moda lokus arsa iken) yuvarlak küre şeklinde görünür ve çizgi elemanı biçiminden, bu yüzeylerin herhangi bir metrik sınırlı olduğunu görüyoruz formula_7 yüzeyler
+Yani bu geometrik küreleri temsil aslında yapmak "küreler koordine iç içe", ama formula_9 yerine formula_10 görünümü radyal sıradan Öklid uzayında küre için aynı şekilde bölgeye uyuşmuyor koordinat gösteriyor, olduğunu. Radyal iç içe küreler açısından doğal yorumunu var koordinat nerede Schwarschild, koordinatları karşılaştırın.
+Tekillikleri Koordinat.
+izotropik grafik sınırlarını işaretlemek formula_11 lokusların ve sadece Schwarschild grafikte olduğu gibi, biz zımnen bizim varsayılan yuvarlak küreler gerçekten topolojik küreler böylece bu iki lokus tespit varsayalım.
+Sadece Schwarschild grafik gibi, radyal aralığı metrik ise sınırlı olabilir koordinat veya ters koordinat onun bazı değer (ler) için havaya uçuruyor.
+Bir metrik Ansatz.
+izotropik belirsiz fonksiyonları r koordinatı olarak kabul f, g, yukarıda verilen hat elemanı, genellikle genel görelilik (veya yerçekimi diğer metrik teorileri) statik küresel simetrik çözümler kaynaklanan bir metrik Ansatz olarak kullanılmaktadır.
+Bir örnek olarak, biz Cartan dış hesabı yöntemini kullanarak bağlantısı ve eğrilik hesaplamak nasıl eskiz olacaktır. İlk olarak, biz satır öğesi bir coframe alan okunan,
+nerede r belirlenemeyen düzgün fonksiyonları gibi f, g görüyoruz. (Bizim uzay bu özel trigonometrik biçime sahip bir çerçeve kabul olması statik, küresel simetrik Lorentz manifoldu bir izotropik grafik kavramının başka bir eşdeğer ifadesi henüz). Dış türevleri alınması ve ilk Cartan yapısal denklem kullanılarak, biz nonvanishing "bağlantı tek formlar" bulmak
+Yine dış türevleri alarak ve ikinci Cartan yapısal denklemi içine takıp, biz "kavisli iki formları" buluyorum.

@@ -1,0 +1,15 @@
+Bir uçak için bir noktadan Uzaklık
+Öklid uzayında, bu FORMULA_1 bir düzlem üzerinde nokta kökenli en yakın sahiptir Kartezyen formula_2, koordinatları
+Bundan düzleme kökenli mesafe bulunabilir. Ne arzu edilir bir düzlemde en yakın noktasına kökenli bir noktadan mesafe ise, bu verilen noktaya denk kökeni taşır değişken bir değişiklik bulunabilir.
+Mesafe-den-kökenli sorununa genel bir sorun dönüştürme.
+Biz noktası, uçak "+ cZ = D bY ax +" verilir (0 "X" 0, "Y") bir uçağa en yakın noktayı bulmak istediğiniz varsayalım. 0, "y = Y - Y" 0 "z = Z - Z" 0 ve "d = D - ax" 0 - 0 "bY" - "CZ" 0 için - Biz "X x = X" define dönüştürülmüş değişkenler açısından ifade düzlemde olarak "+ cz = d ax +" edinin. Şimdi sorunun kökeni bu uçakta en yakın noktayı bulma biri haline ve menşe uzaklığı vardır. Orijinal koordinatlar cinsinden uçağa noktası "y" ve ve "z" ile "Y" ve "Z" arasında, "x" ve "X" ile yukarıdaki ilişkileri kullanarak bu noktadan bulunabilir; orijinal koordinatlar cinsinden mesafe revize koordinatlar cinsinden mesafe ile aynıdır.
+Lineer cebir kullanarak Düzeltilmesi.
+kökenli en yakın noktasının formülü lineer cebir gösterimi kullanılarak daha özlü ifade edilebilir. Bir uçağın tanımında ifade formula_4, bir nokta ürün formula_5 olduğunu
+ve çözüm görünen formula_6 ifade kare norm formula_7 olduğunu. Bu nedenle, formula_8 belirli bir vektör olup olmadığını,
+formula_10 ve bu düzlemde en yakın nokta vektör olduğu düzlem formula_9 vektörler grubu olarak tanımlanabilir
+Neden bu yakın noktadır.
+Ya koordine veya vektör formülasyonları, bir verilen nokta düzleminin denklemi içine tıkanma noktası tarafından verilen düzlemde yatıyor doğrulamak olabilir.
+Bu uçakta kökeni en yakın nokta olduğunu görmek için, o formula_12 uçağı tanımlayan vektör formula_13 bir skaler katıdır ve bu nedenle düzleme dik olduğunu gözlemleyin.
+Formula_12 dışındaki düzlemde kendisini herhangi bir nokta formula_14 ise Böylece, daha sonra kökenli çizgi parçaları formula_12 ve formula_12 bir dik üçgenin oluşturur formula_14 için ve Pisagor teoremi ile formula_19 menşe mesafedir
+Formula_21 pozitif bir sayı olmalıdır beri, bu mesafe formula_22 büyüktür, kökeni mesafe formula_12 için.
+Alternatif olarak, bu formula_12 yakın noktası olması bir hale geldiği daha sonra (bu iki vektörler birbirine skaler katları çünkü) formula_13 orijinal nokta ürünün yerine formula_12 ile nokta ürünlerini kullanarak düzlemin denklemi yeniden mümkündür Cauchy-Schwarz eşitsizliği derhal sonucu.

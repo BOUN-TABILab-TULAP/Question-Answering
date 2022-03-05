@@ -1,0 +1,13 @@
+1	Kırım	kırım	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+2	Kongo	Kongo	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+3	_	kana	Verb	Verb	Pos	_	_	_	_
+4	_	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+5	kanamalı	_	Adj	Adj	With	_	_	_	_
+6	ateşine	ateş	Noun	Noun	A3sg|P3sg|Dat	_	_	_	_
+7	sebep	sebep	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+8	_	ol	Verb	Verb	Pos	_	_	_	_
+9	olan	_	Adj	APresPart	_	_	_	_	_
+10	virüs	virüs	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+11	_	ne	Pron	QuesP	A3sg|Pnon|Nom	_	_	_	_
+12	nedir	_	Verb	Zero	Pres|A3sg|Cop	_	_	_	_
+13	.	.	Punc	Punc	_	_	_	_	_

@@ -1,0 +1,108 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../resources/dagre-d3.min.js"></script>
+
+<style>
+.type-TK > .label > rect {
+  fill: #00ffd0;
+}
+
+svg {
+  align:center
+  border: 1px solid #999;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node rect {
+  stroke-width: 1px;
+  stroke: #999;
+  fill: none;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+</head>
+<body>
+
+<p>Türkiyenin iç kesimlerinde ormanların tahrip edilmesiyle oluşan ve doğal olmayan bozkır alanlarına ne denir</p>
+
+<hr>
+
+<div id="attach">
+  <svg id="svg-canvas" width=800 height=600>
+    <g transform="translate(20, 20)"/>
+  </svg>
+</div>
+
+<script>                                                             
+                     var g = new dagreD3.Digraph();
+ g.addNode(7894, {label: "Maki",nodeclass: "type-TK"});
+ g.addNode(7895, {label: "ve",nodeclass: "type-TK"});
+ g.addNode(7896, {label: "çalı",nodeclass: "type-TK"});
+ g.addNode(7897, {label: "çalılıkların",nodeclass: "type-TK"});
+ g.addNode(7898, {label: "yaygın",nodeclass: "type-TK"});
+ g.addNode(7899, {label: "ol",nodeclass: "type-TK"});
+ g.addNode(7900, {label: "olduğu",nodeclass: "type-TK"});
+ g.addNode(7901, {label: "bölgelerde",nodeclass: "type-TK"});
+ g.addNode(7902, {label: "yap",nodeclass: "type-TK"});
+ g.addNode(7903, {label: "_",nodeclass: "type-TK"});
+ g.addNode(7904, {label: "yapılan",nodeclass: "type-TK"});
+ g.addNode(7905, {label: "hayvancılıkta",nodeclass: "type-TK"});
+ g.addNode(7906, {label: "hangi",nodeclass: "type-TK"});
+ g.addNode(7907, {label: "hayvan",nodeclass: "type-TK"});
+ g.addNode(7908, {label: "daha",nodeclass: "type-TK"});
+ g.addNode(7909, {label: "yaygın",nodeclass: "type-TK"});
+ g.addNode(7910, {label: "yaygındır",nodeclass: "type-TK"});
+ g.addNode(7911, {label: ".",nodeclass: "type-TK"});
+ g.addEdge(null,7894,7895,{label: "NESNE"});
+ g.addEdge(null,7895,7897,{label: "BAĞLANTI"});
+ g.addEdge(null,7896,7897,{label: "TÜREME"});
+ g.addEdge(null,7897,7899,{label: "ÖZNE"});
+ g.addEdge(null,7898,7899,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7899,7900,{label: "TÜREME"});
+ g.addEdge(null,7900,7901,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7901,7903,{label: "DE HALİ"});
+ g.addEdge(null,7902,7903,{label: "TÜREME"});
+ g.addEdge(null,7903,7904,{label: "TÜREME"});
+ g.addEdge(null,7904,7905,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7905,7910,{label: "DE HALİ"});
+ g.addEdge(null,7906,7907,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7907,7910,{label: "ÖZNE"});
+ g.addEdge(null,7908,7909,{label: "SIFAT/ZARF TAM."});
+ g.addEdge(null,7909,7910,{label: "TÜREME"});
+ g.addEdge(null,7910,7911,{label: "YÜKLEM"});
+  var renderer = new dagreD3.Renderer();
+  var oldDrawNode = renderer.drawNode();
+  renderer.drawNode(function(graph, u, svg) {
+    oldDrawNode(graph, u, svg);
+    svg.classed(graph.node(u).nodeclass, true);
+  });
+  var layout = renderer.run(g, d3.select("svg g"));
+  d3.select("svg")
+    .attr("width", layout.graph().width + 40)
+    .attr("height", layout.graph().height + 40);
+
+  d3.select("svg").call(d3.behavior.zoom().on("zoom", function() {
+        var svg = d3.select("svg");
+        var ev = d3.event;
+        svg.select("g")
+          .attr("transform", "translate(" + ev.translate + ") scale(" + ev.scale + ")");
+      }));
+</script>

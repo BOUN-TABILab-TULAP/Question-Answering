@@ -1,0 +1,348 @@
+Question: Toprak evlerin en yaygın tipi nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karabıyık, Aşkale</DOCTITLE>
+<TEXT>
+
+Karabıyık, Erzurum ilinin Aşkale ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün adının nereden geldiği ve geçmişi hakkında bilgi yoktur.
+Kültür.
+Köyün gelenek, görenek ve yemekleri hakkında bilgi yoktur.
+Coğrafya.
+Erzurum iline 30, Aşkale ilçesine 17 km uzaklıktadır.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ancak kullanılamamakta, taşımalı eğitimden yararlanılmaktadır. Köyün hem içme suyu şebekesi hem kanalizasyon şebekesi vardır. PTT şubesi yoktur ancak PTT acentesi vardır. Sağlık ocağı yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+Özellikle deprem sonrası toprak evlerin yerini beton evler almıştır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kocabaş yılan</DOCTITLE>
+<TEXT>
+
+Kocabaş yılan ("Coluber ravergieri"), Colubridae familyasından Orta Doğu veOrta Asya'da görülen zehirsiz bir yılan türü. 
+Özellikleri.
+Sinirli ve çok çabuk ısıran bir yilan türüdür, ancak zehirli değildir. Vücüt boyu 130cm kadar veya daha fazla olabilen bu yilan türünün başı iridir. Gözbebeği yuvarlak, sırt pulları karinalıdır. Sırt tarafı sarımsı veya kahverengi gri olup esmer lekelidir. Sırt lekeleri gövde üstünde kısmen birleşerek zikzak bir bant teşkil eder, ayrı olan lekeler de tam yuvarlak değildir. Başın üstü ile yanlarında koyu lekeler vardır. Gövde yanlarında bir sıra leke bulunur. Sırt ve gövde yanlarındaki leker, kuyrukta birer çizgi oluşturur. Alt tarafı sarımsı beyaz, bu zemin üzerinde siyahımsı lekeler bulunur.
+Yaşam alanları.
+Seyrek bitkili taşlık bölgelerde yaşar. Daha çok dağlik bölgeleri tercih eder. Deniz seviyesinden 2400 m yükseklikte görülebilir.
+Üreme.
+Bir dişi 5-10 yumurta bırakır.
+Avlanma ve beslenme.
+Kertenkele türleri, küçük memeli, kuş ve yavrularıyla beslenir. Toprak damlı evlerin tavanlarında keler türlerini yakalar.
+Türkiye'de yayılışı.
+Türkiye`de Doğu Anadolu ile Güneydoğu Anadolu Bölgesi`nin kısımlarında yayılmıştır. 
+<br clear="all">
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Loğ taşı</DOCTITLE>
+<TEXT>
+
+Loğ taşı (Yuvarlak taş), toprak damlarda, yollarda toprağı ezmek için kullanılan taş silindir. Anadolu köylerinde, toprak damlı evlerin çatısı üzerindeki toprağın sıkılaştırılmasında kullanılan bir tür baskı aracıdır. Loğtaşı ile sıkılaştırma sonucu damdan içeri yağmur suyu geçmez. 
+Türk akademisyen Prof. Dr. Ali Berat ALPTEKİN, kaleme aldığı "YUVAK / LOĞ" başlığı altındaki yazısında: ifadelerine yer vermiştir. 
+Anadolu'da, hayvancılığın yaygın olduğu ve kış şartlarının ağır geçtiği bölgelerde yakacak olarak büyükbaş hayvan dışkısından (hayvan gübresinden) elde edilen ve ""tezek"" diye adlandırılan yakıt kullanılmaktadır. Özellikle fazla sayıda büyükbaş besi hayvanının dışkısı (mayıs diye de adlandırılır), kış boyunca köylerde açık alanlara öbek öbek biriktirilir. Bahar aylarında bu öbekler belirli kalınlıkta düzleştirilir. Bir müddet sonra iyice kurumaya yüz tutmuş olan dışkı üzerinde "loğ taşı" ile düzleştirme ve baskıya dayalı sertleştirme işlemi yapılır. Çünkü baskı tezekte sıkılık sağlamak suretiyle, onun sobada dayanıklığını artıracak, uzun süre yanmasını sağlayacaktır. Yaz aylarında ise baskıya alınmış ve tamamına yakını kurumuş durumda olan dışkı, bel küreği ile kare şeklinde kesilir. Kesilme esnasında tezekler kenarları üzerine birbirlerine destekle güneşte kurumaya terk edilir. Kışın ısınma maksatlı olarak yakılan tezek'in yapılmasında da küçük çaplı "loğ taşı"'nın kullanımı tezeğin yoğunluğunu artırmaktadır. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Arslanköy, Mersin</DOCTITLE>
+<TEXT>
+
+Arslanköy, Mersin ilinin merkez ilçesi olan Toroslar'a bağlı bir beldedir..Denize olan yüksekliği ise 1475 metredir.Arslanköy, 14. yüzyıldan sonra Çukurova ve Karaman bölgesi halkı tarafından yayla olarak kullanılmaya başlanmıştır. Aslanköy, Türk halk edebiyatımızda büyük yerleri olan Karacaoğlan ve Dadaloğlu gibi halk ozanlarının yaşadığı bölgelerden biri olması dolayısıyla da Mersin'in kültür merkezi sayılır. Burada, 1897 tarihinde ilk bucak ve belediye teşkilatı kurulmuş fakat 1923 yılında bu teşkilat kaldırılarak, köy muhtarlık idaresine dönüştürülmüştür. 1954 yılına kadar muhtarlık idaresinde olan Arslanköy, 1954 yılında yeniden belediyelik olmuştur.
+Kurtuluş savaşında Arslanköy insanı bir destan yaratmıştır. Bu mücadeleden sonra eski adı Efrenk olan kasaba Arslanköy adını almıştır. 1919 yılının Kasım ayında başlayan işgaller sırasında Arslanköyü işgal etmeye gelen ve aralarında aslen buralı olan birkaç Ermeni gönüllünün de bulunduğu Fransız birliği Yavca köyünde imha edilmiştir. Bundan sonra Fransız işgal kuvveti tarafından Efrenk'e atanan karakol komutanı yakalanarak bir dipsiz mağaraya atmıştır.
+Yerli halk, adı bilinmeyen bu komutanın Ermeni asıllı olduğuna inanır.
+1 Mart 1920 sabahı Arslanköy'e gelen Kuva-yi Milliye birliği Arslanköylülerin sevgi gösterileriyle karşılandı.
+Yapılaşma.
+Arslanköy'de evler genelde kuzey-güney doğrultulu olarak inşaa olunmuştur. Yapılar genelde ahşaptır. Eski yapılarda çoğunlukla sedir ağacı kullanılmış ancak sedir ağacının kıymetli olması sebebiyle daha sonra onun yerine ardıç, çam vs. gib diğer tür ağaçlar kullanılmaya başlanılmıştır. Daha sonraları evlerin duvar kısımları genel olarak taş ve kerpiçten yapılmaya başlanmış fakat kerpiç evlerin yapımı ve bakımı zor olduğu için duvarlarda taş kullanılmış ve üstüne de çinkodan çatı kaplanmıştır. Toprak evlerin damlarına kar birikmesi halinde yuvaklama denen işlem uygulanır. Yuvaklama, taş bir silindirin damdaki toprak üzerinde yuvarlandırılarak toprağın sıkıştırılması demektir.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karabey, Çat</DOCTITLE>
+<TEXT>
+
+Karabey, Erzurum ilinin Çat ilçesine bağlı bir köydür.
+Tarihçe.
+Erzurum İli Çat ilçesine bağlı bir köydür. Küçük bir köy olmasına rağmen ismi bilinen ve siyasi tarihi dolu dizgin geçmiştir. Karabey köyü son yıllarda üniversitelere cok sayıda öğrençi göndererek zor şartlarda öğrenim gören bu geclerin sayısı her gecen gün artmaktadır. Çeşitli aşiretlerden oluşan köy HOŞGÖRÜLÜLÜĞÜN BİR GÖSTERGESİDİR. Köyün ceşitli sıkıntıları olmasına rağmen özelikle yazın nüfüsündaki artışın daha önce bu köyde yaşayan insanların köye gelmesiyle ilgilidir. Geniş ovası ve tarimi yetersiz olmasına rağmen köylü oldukca zengindir. Genelde Erzurum ilinden alışveriş yapılır ve Bingöl iliylede sıkı alışveriş içerisindedir bu köy.
+Kültür.
+Köy sosyal ve kültürel yönüyle çağdaşlaşmaya açık ve çevresindeki olumlu gelişmelere ve değişimlere ayak uydurabilmektedir. Kõy Halki Zaza ve Kürtlerden oluşun.
+Coğrafya.
+Erzurum iline 92 km, Çat ilçesine 39 km uzaklıktadır. köyün büyük ve aynı zamanda cok düz bir yaylası var çevre köyler arasında ençok beğenildiği araştırmalarla ortaya çıkmıştır
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır. Hayvancılığa elverişli olan Karabey'de, son zamanlarda arıcılık faaliyetleri gelişmektedir. Arıcılık yavaş yavaş köy halkının geçim kaynağı olma yolunda ilerlemektedir.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Altyapı bilgileri.
+Köyde, ilköğretim okulu vardır ve kullanılmaktadır. Köyün içme suyu şebekesi vardır ve kullanılmaktadır. Kanalizasyon şebekesi yoktur ancak köy sakinleri kendi evlerinin kanalizasyon sistemlerni oluşturmuşlardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı var sağlık personeli yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır. Son yıllardaki gelişmelerle toprak evlerin yerini modern çatı sistemiyle yapılan evler almıştır(ama köyde yıkılmak üzere olan toprak evlerde oturanlar var) . Deprem konutlarının köyün belli alanlarına inşa edilmesiyle birlikte köye yeni bir görünüm kazandırmıştır.Köyün üstünde kurulduğu küçük ovasıyla çevre köyler arasında belirgin bir özellik kazandırmıştır.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Çiğli, Kahramanmaraş</DOCTITLE>
+<TEXT>
+
+Çiğli, Kahramanmaraş ilinin Merkez ilçesine bağlı bir köydür.
+Tarihçe.
+Çiğli Köyü ilimiz Kahramanmaraş’ın 15 km mesafede olup, Kahramanmaraş - Gaziantep karayolu üzerinde kurulmuş; yaklaşık olarak 320 haneli,850 nüfuslu(yurt dışındakiler haric onlarda 2000-2500 arası) bir Anadolu köyüdür.Köyümüzün rakımı ilimizle aynıdır.İçinden geçmekte olan küçük bir derenin iki yakasında kurulmuş olup,iki mahalleden oluşmuştur.
+Çiğli eski bir köy olup, edindiğimiz bilgilere göre kurulduğu yerde 5-6 adet tek katlı evin olduğu , daha sonraları Horasan yöresinden Elbistan’a gelen göçebelerin buraya yerleşmesiyle, burası bir köy görümüne bürünmüştür.Daha sonra da ailelerin bölünmesiyle bugünkü görümünü almıştır.
+Daha önceleri hayvancılık en önemli gelir kaynakları iken, Pazarcık ilçesi yanında kurulan barajın etkisi ile Çiğli köyüne ait arazide tamamen sulu tarıma elverişli hale getirmesi, hayvancılığı terk etmesine neden olmuştur.Çiftçi aileleri pamuk ,biber ve pancar olmak üzere diğer tarla ve bahçe ziraatıyla kazançlarını temin etmektedir.Bunun yanında,son 15 yılda köyün ekonomisi ,yurt dışında çalışan köylülerin etkisiyle önemli ölçüde artmıştır.
+Köyde yaşayanlardan arazisi olmayanlar (çok ender), tarım işçiliği ve arıcılıkla uğraşmaktadırlar.Köyün yerleşim yerinin bilhassa koyun yetiştiriciliğine elverişli olması ve hayvansal gıdaların gün geçtikçe değer kazanması nedeniyle, Çiğli Köyü’nde koyun yetiştiriciliği önem kazanmıştı
+Koyun:150-200
+Keçi:50-100
+Sığır:10-15
+Köyde modern tarım aletlerinden hemen hepsi mevcut olup, tarım bu aletlerle yapılarak daha da verimli olmaktadır.Yine köyde modern tarım aletlerine rağbet olup, sayıları gün geçtikçe artmaktadır.
+Ulaşım bakımından köyün il merkezine ve diğer merkezlere olan bağlantısı iyidir.Köy halkından 2 kişi bakkaliye, 1 kişi de kahvehane,1 kişi kebabçı ve 1 internet cafe çalıştırarak geçimlerini sağlamaktadırlar.
+Köy halkının 2000-2500 kişiye yakını yurt dışında yaşamaktadırlar. Yaşayışları şehir hayatını anımsatmaktadır.Halk gelenek ve göreneklerine çok bağlıdırlar.Düğün şenlikleri ala bildiğine şatafatlı olup,halk iyi ve kötü günde dayanışmanın en büyük örneğini sergilemektedir. Köy halkının günlük hayatına lüks tüketim malları girmiş olup bu olanaklardan gerekli şekilde yararlanmaktadırlar.Yumuşak bir iklime sahip köyde, ısınmada yakıt olarak odun ve kömür kullanılmaktadır.
+Köyümüz sinemilli aşiretindendir. daha cok bilgi için www.ciglikoyu.com adresinde bilgi alabilirsiniz.Köyümüz bir Kürt alevi köyüdür.
+Çiğli Köyü, eski kayıtlarda “AVANUŞAĞI” olarak tanınmakta olup, daha sonra isim değişikliği nedeniyle yeni ismi “ÇİĞLİ” olmuştur.
+Köy evleri,köyün ilk kurulduğunda toprak olup,zamanla bu toprak evlerin yerine beton örme ve iki katlı evler bırakmış,toprak ev sayısı yok denecek kadar azalmıştır.şu an köyümüzde güzel evler mevcuttur.
+Köydeki ailelerin durumları genel olarak iyidir.Bunun sebebi de dış ülkelerde çalışan emekçi sayısının fazla olmasıdır.
+Köyün ekonomisi tarım ve |hayvancılığa]] dayalıdır.Köydeki ailelerin durumları genel olarak iyidir.Bunun sebebi de dış ülkelerde çalışan emekçi sayısının fazla olmasıdır.
+Halkın sosyal değişime meyli ileri düzeydedir.Moda takibi ve modaya uyma hız kazanmıştır.Köyden şehre göç Kahramanmaraş olaylarından sonra zaman, zaman azalmışsa da son yıllarda Mersin ve Gaziantep’e giden aileler mevcuttur.Köyde kan davası gibi üzücü olaylara rastlanmaz.Köylü birlik ve bütünlük içerisindedir.Evlilikler genelde köy dışından olup, evlenenler 1-2 yıl aile büyükleriyle kaldıktan sonra ayrılıp yeni aileler oluşturmaktadırlar.
+Köyde komşuluk ilişkileri,gece misafirlikleri,sohbetleri ve birbirlerine yapılan ikramlar ileri safhadadır.Köyde dayanışmanın en güzel örneği asker uğurlamaları ve karşılamalarında,düğün ve cenazelerde görülür.Köy halkından askere gidecek olanlar aileler tarafından maddi ve manevi bir destek görür.
+Alevi ve Kürt kimliğine sahip olan köylünün insana bakışıda bu kültür doğrultusunda,klasik bir Kürt kizilbas köydür.Sinemilli aşiretindendir.
+Altyapı bilgileri.
+Köyde kanalizasyon vardır.İçme suyu şebeke sistemi ile dağıtılır.Telefon ve elektirik vardır.Köyde Ptt şubesi yoktur ama acentası vardır.İnternet yaygındır ayrıca internet kafesi vardır.
+Dış bağlantılar.
+www.ciglikoyu.com
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yuvaklı, Tekman</DOCTITLE>
+<TEXT>
+
+koyun tamama yakını sevkari aşiretıne mensuptur
+Yuvaklı, Erzurum ilinin Tekman ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün eski adı "Hasansevi"dir. Şimdiki adının (Yuvaklı) nereden geldiği tam bilinmemektedir. Toprak damlı evlerin üstü ağır ve silindir şeklinde bir taşla düzlenir. Buna yuvalamak denmektedir. Yuvaklı isminin bu sözden geldiği söylenmektedir. Ayrıca köyde Yuva soyisimli vatandaşların yaşadığı bilinmektedir. Köyün tarihine baktığımızda seksenli yıllar öncesi kalabalık bir köy olan Yuvaklı, köyde yaşayanlar arasında çıkan anlaşmazlıklar sonucu göç vermiştir. Köy, göçün büyük bir bölümünü kendi mezrası olan "Yemişli"ye vermiştir. Yemişli ise, Yuvaklı'nın 4 km kuzeydoğusunda büyük bir mezradır. Yemişli'nin eski adının "Gırsorik" olduğu bilinmektedir.
+Kültür ve Sosyal Durum.
+Köy ve mezrasında yaşayan halk çoğunlukla geniş aile kültürü içerisinde hayatlarını sürdürmekte, dışa kapalı ve öğrenme güçlüğü içinde olduklarından kendi kültürlerini korumaktadırlar. Geniş ailelerde üç neslin bir arada yaşadıkları görülmektedir. Akrabalık bağları sıkı olup gelenek ve göreneklerine bağlıdırlar. Birbirleri ile yardımlaşmaya açık ve misafirperver bir tutum sergilemektedirler. Yuvaklı’da evler; civardan toplanan taşlardan ve çamurdan, tek katlı yapılmakta ve evlerin üzeri toprakla kapatılmaktadır. Köyde çatılı ev sayısı azdır. Evler genellikle 2 oda ve bir salondan ibarettir. Evlerde genelde tuvalet bulunmamaktadır. Az odalı olan bu evlerde geniş ailelerin ikamet ettiği görülmektedir. 1960 yılında meydana gelen depremde birçok ev hasar görmüştür. Köye deprem konutları için yer tespitinin de yapılmasına karşılık hiçbir çalışma yapılmamıştır. Bazı hanelerin evleri çok eski olup, yıkılma tehlikesine karşın halk içinde oturmaktadır. Köyde konuk evi veya halkın sohbet edebileceği bir mekân bulunmamaktadır. Halk genelde evlerde toplanarak sohbet, satranç vb. etkinlikler yaparak boş zamanlarını değerlendirmektedir.
+adem yuva selamlar
+Coğrafya.
+Erzurum iline 207 km, Tekman ilçesine 56 km uzaklıktadır. Köy, ortasından dere geçen bir vadide kurulmuştur. Etrafı Dağlarla çevrilidir. Yemişli ise Tekman ilçesinin güneybatısında 2250m. yükseklikte Şakşak ve Karlıova Dağları arasında bir plato üzerine kurulmuştur. Yuvaklı'nın; Hamzanlar Köyü, Çimenözü Köyü, Yiğitler Köyü, Doğruyol Mezrası ve Karlıova ilçesine bağlı köylerle sınır komşuluğu vardır. Yuvaklı ile Yemişli arası 4 km. olduğu bilinmektedir.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir. Kışları uzun geçmekte ve donlu gün sayısı fazladır.
+Ulaşım.
+Köyün ilçe merkezine uzaklığı yaklaşık olarak 60 km olduğundan ve yoğun kış şartlarından ötürü ulaşımda bazı problemler gözlenmektedir. Yolu toprak olan köye ; kışın kar baharda ise eriyen karlardan oluşan çamur nedeniyle ulaşım güçlükle sağlanmaktadır. Yuvaklı’nın, ilçe merkezi ile ulaşımını sağlayan bir araç bulunmamasına karşın, mezrası Yemişli’nin biri kendisine ait diğeri ise Gökoğlan köyü ile ortak çalışan iki adet aracı bulunmaktadır.
+Nüfus.
+Yuvaklı köyünde hane sayısı 20'dir. Her hanede aşağı yukarı 10 kişi yaşamaktadır. Mezrası olan Yemişli'de ise hane sayısı 54'tür.
+Ekonomi.
+Yuvaklı’da; köylü geçimini, büyük ve küçükbaş hayvancılıktan sağlamaktadır. Tarımsal faaliyetin köy ekonomisine katkısı yok denecek kadar azdır. Son birkaç yıl içinde devletin yaptığı nakdi yardımlar sonucunda tarımsal faaliyetlerde, diğer senelere oranla bir artış olmuştur. Köydeki genç nüfusun büyük çoğunluğu İstanbul ve İzmir gibi Büyükşehirlerde çalışarak ailelerine katkıda bulunmaktadırlar.
+Muhtarlık.
+Yerleşim yerinin köy tüzel kişiliği alması ile birlikte köyün tüzel kişiliğini temsil etmesi için köy muhtarlık seçimleri de yapılmaktadır.
+Seçildikleri yıllara göre köy muhtarları:
+Altyapı bilgileri.
+Yuvaklı'da 5 Yıllık İlköğretim Okulu (Yuvaklı İlköğretim Okulu) bulunmakta ve faal durumdadır. Yemişli'de ise 8 Yıllık İlköğretim Okulu (Y. Yemiş İlköğretim Okulu) bulunmaktadır. Bu okul da faal durumdadır ve her iki okulun lojmanı vardır. Köyün içme suyu şebekesi ve kanalizasyon şebekesi vardır. Yemişli de ise su köyde bulunan 3 çeşmeden sağlanmakta iken 2008 yılında köye su şebekesi yapılmıştır. kanalizasyon şebekesi vardır. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol, elektrik ve sabit telefon vardır. Köyde ilk GSM hattı varken, Yemişli de ilk iki GSM hattı çekmektedir. Köyün Erzurum'a sefer yapan arabası varken Tekman'a ulaşım Yemişli'nin iki arabasıyla sağlanmaktadır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İmirli, Delice</DOCTITLE>
+<TEXT>
+
+İmirli, Kırıkkale ilinin Delice ilçesine bağlı bir köydür.
+Tarihçe.
+Köyümüzün adının nerden geldiği ve ilk yerleşimin hangi tarihte olduğu ile ilgili yazılı veya sözlü günümüze kadar ulaşmış kesin bir bilgi yoktur. İlçemiz ve çevre köylerin yazılı tarihlerine bakıldığında 1760- 1780 yıllarında Osmanlı İmparatorluğu döneminde Türkmen ve Yörük boylarının mecburi iskana tabi tutulması sonucu bölgemizde yerleşik köyler kurulduğunu görüyoruz. İşte Bu köylerden biriside tahminen bizim köyümüzdür. Köyümüzde bu tarihten öncede yerleşik yaşam olduğunun belirtileri Kızıl Deli ya da Düğün Ağacı adıyla anılan ağacın etrafında eski mezar kalıntılarından anlaşılmaktadır. Köyümüz bildiğimiz kadarıyla, önceleri Kırşehir sancağına, 1891 de Keskin’in ilçe olmasıyla Keskin e bağlı olarak, 1928 yılında Delice’nin Bucak olmasıyla Ankara İli Keskin İlçesi Delice Bucağına bağlı olarak 1944 yılında Kırıkkale n in ilçe olmasıyla Ankara ili Kırıkkale ilçesi Delice Bucağına bağlı olarak ve 1960 yılında Delice’nin ilçe olmasıyla Ankara ili Delice ilçesi’ne bağlı olarak, 17.08.1989 yılından itibaren Kırıkkale’nin İl olmasıyla Kırıkkale İli Delice İlçesi’ne bağlı olarak yönetilmektedir.
+Tuncay ÇUKURTARLA
+İmirli Köyü Sosyal Yardımlaşma ve Dayanışma Derneği dan araştırabilirsiniz
+Kültür.
+DÜĞÜNLERİMİZ http://www.imirli.com/dugun.html
+FOLKLORUMUZ http://www.imirli.com/folklor.html
+KÖY MUTFAĞI http://www.imirli.com/mutfak.html
+Köyümüzdeki ilk okul 1960 yılında açılmıştır. Ancak son yıllarda öğrenci yokluğundan kapalıdır. Köyümüzde bulunan 4 adet öğrenci taşımalı sistemle Büyük Avşar İlköğretim okuluna gitmektedir.
+Köylülerimizden şehirlerde yaşayanların içinde erkeklerde ilk üniversite mezunu 1982 yılında kızlarda 1991 yılında olmuştur.
+Son yıllarda gençlerimizde yüksek öğretime ilgi artmıştır. Köylülerimiz arasında Mühendis, Müfettiş,Kamu Yöneticisi, Bilgisayar öğretmeni,Bilgisayar mühendisi ,Avukat, Kadostracı ,İngilizce öğretmeni,Halkla ilişkiler,İktisatçı,Maliyeci,İşletmeci Yüksek Hemşire, Polis ve Astsubay olanlar ve eğitimine devam edenler vardır.
+KÖY ODALARI VE KÖY ODASI TOPLANTILARI
+Geçmiş yıllarda Ahraz Oğlunun Oda, Kaanın Evinin Oda, Salih in Oda, Seyit Ahmet in Oda, Celal Çavuşun Oda Adı ile anılan köy odalarında akşamları köy erkekleri toplanır. Sohbetler edilir. Askerlik anıları anlatılır. Komşu köylerden gelenler odalarda misafir olur yatılı kalabilirdi.Başka köylerden gelen misafirler yolda gördüğü duyduğu haberleri olayları anlatırdı.Böylece haberleşme sağlanırdı. Perşembe akşamları köy kadınlarının evlerde hazırladığı Hedik, Kavurga, Çörek ve benzeri yiyecekler odaya gönderilir sohbet sırasında yenilir. Yenildikten sonrada dua okunurdu. Son yıllarda bu köy odalarından Kaanın Evinin Oda işlevini devam ettirmektedir. Diğerleri zamanla kapanmıştır.
+KÖYÜMÜZÜN SOSYAL DURUMU
+Köyde genç nüfus fazla yoktur. Bu nedenle sosyal faaliyet yok denecek kadar azdır. 1960lı yıllardan başlayarak, 1970li ve 1980’li yıllarda genç ve faal nüfus önce Ankara ve Kırıkkale gibi yakın illere yoğun olarak göç etmiştir. Daha sonraları diğer illere göçen köylülerimiz olmuştur.
+Yurt dışına (Almanya,Hollanda ) işçi olarak gidip yaşayan yaklaşık on aile vardır.
+Köyümüzün alt yapısı yoktur. Evlerde su vardır ancak yaz mevsiminde yeterli olmamaktadır. Elektrik ve telefon vardır.
+Köyümüzde toprak damlı evlerin yanında modern yapılı evleri de görmek mümkündür.
+Köyde alışveriş için Büyük Avşar pazarı, Çerikli pazarı , Sungurlu ve Kırıkkale ye gidilir.
+Tuncay ÇUKURTARLA
+Coğrafya.
+Köyümüz; Kırıkkale İli’nin kuzey doğusunda Delice İlçesi’nin kuzey batısında Ankara-Samsun kara yolunun kuzeyinde Karagüney Dağları, Koçubaba Dağı ve Tokuş Dağı Arasında kalan engebeli arazi içindedir.
+Köyümüz, Delice ilçesine 18 km, Kırıkkale iline 66 km Ankara iline 135 km uzaklıktadır
+Komşu Köyler :
+Büyük Avşar, Küçük Avşar, Dağobası, Koçubaba 
+Meşe Yayla, Bozköy
+Bitki örtüsü :
+Ormanlık yerlerde palamut ağaçları yoğunluktadır.
+Su kaynakları olarak akarsu yoktur. Yeraltı su kaynaklarından (Kuyulardan) alınan sular köye kadar taşınarak faydalanılmaktadır.
+Dereler : 
+Köprünün Dere, Düve Deresi, Küp Deresi, İğdeli Kuyu Deresi, Kör Kuyunun Dere, Katıranlık Deresi ve Akarca Katıranlık Çayı. Bu dereler yağmur ve kar suları ile akar, yazın kurudur.
+Kuyular : Uzun Kuyu (suyu özlenerek içilen kuyu), İğdeli Kuyu (genelde çamaşır yıkamaya gidilen kuyu), Yeni Kuyu, Kör Kuyu, Acı Kuyu, Acer kuyu
+Çeşmeler :
+Büyük Çeşme, Acı Çeşme, Küçük Çeşme, Hülüsin Çeşme, Çatalın Çeşme, Apılın Çeşme, Mahmut un Çeşme,
+Köyümüzde adı geçen yöresel bölgeler :
+Köyün önü, Arpalık, Bağlıca,Çukurtarla, Sık Ağaç, Golün Önü, Ören, Katıranlık, Harman Yeri, Ağacın İçi, Kazan Harmanı, Yastı Ören, Adanın Dibi, Sarı Kız-Adanın Başı, Bozun Başı, Bozun Dibi, Kiremitlik, Mehmet Dede, Acı Özü, Değirmi Seki; Aralık, Kızıl, Kaklık, Çoraklık, Karakuş Tepesi, Kara Ağaç, Alan, Dadanın Purçak Yeri, Sarı Yaprak, Kızıl İniş, Arabın Ağıl Yeri, Sivri Burun, Körce, Tatar Gölü,
+Tuncay ÇUKURTARLA
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Nüfus.
+Köyümüzün kuruluşundan itibaren dönemsel nüfus yoğunluğu hakkında doğru bilgilere ulaşamadık. Ancak köyümüzde yıkılmış yapıları göz ününe aldığımızda yaşayan nüfusun kalabalık olduğu dönemlerde yaklaşık 80 hanelik (evlik) bir köy olduğu görülmektedir. 2000 yılı nüfus sayımı kayıtlarına göre ise 78 kişilik bir nüfusa sahiptir.
+Bu gün bu sayı daha da azalmış görülmektedir. Yazın oturan nüfus artmaktadır. Kışın toplam 13 hane de oturulmaktadır.
+Köylülerimizin yaşadığı illerin başlıca bilinenleri;
+Ankara,Kırıkkale,Sungurlu,Tokat,İstanbul,Muğla, Mersin,Tekirdağ,Samsun
+Ekonomi.
+Köyümüzde tarla tarımı yapılmaktadır. Tarlalar bir yıl ekilir bir yıl nadasa bırakılır. Kurak iklim tarımı geçerlidir. Sulu arazi yok denecek kadar azdır. Genellikle buğday ekimi yapılır. Geçmiş yıllarda tarla işleme işleri kara sapan, biçme işleri tırpan ve orakla, buğdayı saptan ayrıştırma işleri düvenle yapılırdı . Kara sapan ve düven büyük baş hayvan ve eşek ile çekilirdi. Sonra pulluk ve düven at ve katır ile çektirildi.Tarla ekme biçme ve harman kaldırma işlerinde işini erken bitirenler gecikenlere yardım ederdi.Tarla biçme ve harman yeri çalışmaları çalışanlar arasında karşılıklı muhabbet içinde olurdu.
+Tarlada tırpanla biçilen saplı buğday biçenin arkasından toplanır. Biçenler erkek kavrama kavrayarak biçilen buğdayı toplayanlar genelde kadınlardır. Çocuklar arkadan kalanları tırmıklarla toplar.Biçilen buğday tarlanın belli yerlerinde anadut ve dirgen denilen aletlerle belli büyüklüklerde toplanır. Bu buğday topluluklarının her birine yığın denilirdi.Yığınlar kağnılara, at arabalarına ya da traktörlere yüklenerek harman yerine taşınır.. Harman yerinde yuvarlak büyük bir bilezik oluşturularak yığılır. Bileziğin ortasına saplı buğday genişçe serilir üstünde hayvanların ya da traktörün çektiği dövenle gezilerek sürülür.Belli bir sürme işleminden sonra sürülen saman ve buğday ortaya göbeğe toplanır. Bileziğin tamamı bu şekilde sürüldükten sonra toplanan saman ve buğday birbirinden ayrılması için yaba ile rüzgarda savrulur. Saman bir yerde tane buğday bir yerde toplanır.Toplanan buğday yığınına “çeç” denir.Harmanlarda geceleri de çalışılır ve beklemek için her evden bir kişi kendi harmanında yatardı. Traktörler in köyümüze girmesinden kısa bir süre sonra “Patoz” denilen traktörün kuyruk milinden kasnak kayış sistemiyle hareket alan aletler alınmış ve harman sürme işleri tarihe karışmıştır.Patozun haznesine saplı buğday bilezik ya da yığından direk anadut ile bir kişi tarafından atılır.Patozun içinde saplar ve başaklar kırılarak samanlı buğday yığını (tınazı) oluşturulur. Sonra yine savurma işleri yapılır.1971 yılında köyde ilk traktör alınmış , toplam traktör sayısı 10 adet kadar olmuştur.Traktörün yanında kiralık Biçer Döverler kullanılmaktadır.
+Son yıllarda , tırpanla tarla biçmek, düven veya patoz ile harman sürmek tarihe karışmıştıbağları ön plana çıkmaktadır. Ancak son yıllarda bölgede bağların bakımsızlık ve hastalık nedeniyle önemli ölçüde azaldığı görülmektedir. Kayısı,Zerdali, Armut,Elma,Badem, Kara Erik, Dağ Eriği, Çördük ,İğde evlere yetecek kadar yetiştirilmektedir.
+Hayvancılık; genel olarak geçmiş yıllarda kara sığır tipi büyük baş hayvan(İnek,dana, manda) yanında koyun ve keçi hayvancılığı yapılmıştır. Son yıllarda birkaç evde koyun besiciliği ve evlere yetecek kadar kırma tip denilen süt ineği beslenmektedir. Kümes hayvanı olarak tavuk, horoz , kaz, hindi yetiştirilmektedir. Modern hayvancılık ve tavukçuluktan hiç söz edilemez. At, eşek gibi binek hayvanları da geçmiş yıllarda beslenmiştir, ama günümüzde yok denecek kadar azdır.
+Muhtarlık.
+1 AZİZ DİNÇDEMİR
+2 SÜLEYMAN ÇUKURTARLA
+3 SALİH KADAKOĞLU
+4 MUSTAFA KARAÇAY
+5 MEHMET DİNÇDEMİR ( 22.12.1963 - 25.06.1968 )
+6 SATILMIŞ KADAKOĞLU ( 25.06.1968 - 15.01.1971 )
+7 MEMDUH DİNÇDEMİR ( 15.01.1971 - 01.06.1972 )
+8 SÜLEYMAN KARAÇAY ( 09.12.1973 - 17.12.1977 )
+9 ABDULLAH SULUKAYA ( 01.06.1972 - 09.12.1973 )
+10 KAZIM ÇARDAKKAYA ( 17.12.1977 - 03.03.1984 )
+11 MEHMET DİNÇDEMİR ( 03.03.1984 - 26.03.1989 )
+12 HAYDAR SİVRİKAYA ( 27.03.1989 - 03.07.1997 )
+13 ALİ ÇARDAKKAYA ( 03.07.1997 - 07.06.1998 )
+14 ÇELEBİ DİNÇDEMİR ( 07.06.1998 - 29.03.2009 )
+15 METİN KARAÇAY ( 29.03.2009 - Devam Ediyor )
+Altyapı bilgileri.
+Köyde, ilköğretim okulu yoktur fakat taşımalı eğitimden yararlanılmaktadır. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi yoktur. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi yoktur. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Balışeyh</DOCTITLE>
+<TEXT>
+
+Balışeyh, Kırıkkale'nin bir ilçesidir.
+Tarihçe.
+İlçe adını Oğuz Kayı Beyi Ertuğrul Gazi’nin yakın arkadaşı Şeyh Edebali’ nin diğer adı olan Balı-Şeyh’ten almıştır. Yerleşim tarihi 1230 - 1258 yılları arasındadır. İlçede 13.yy. Selçuklu dönemine ait caminin bulunması bu tarihi doğrulamaktadır.
+Coğrafya.
+İlçe kuzeyde Sulakyurt İlçesiyle 24 km., güneyde Keskin İlçesiyle 12 km., doğuda Delice İlçesiyle 35 km. ve batıda Kırıkkale Merkez İlçesiyle 47 km. mülki sınırları ile çevrilmiş olup, toplam 136 km. mülki sınırlara ve 615 km2 yüzölçümüne sahiptir.
+İlçeden geçen E-88 Devlet Karayolunun Ankara’yı Karadeniz ve Doğu İllerine bağlayan önemli yollardan biri olması ayrıca Devlet Karayolları'na paralel olarak D.D.Y’ nun geçmesi İlçenin önemini arttırmaktadır.
+İlçede genellikle karasal iklim sürmekte olup, yazları sıcak ve kurak, kışları genellikle soğuk ve kısmen kar yağışlıdır. Bölge tipik karasal iklimin hava şartlarına sahip olmakla beraber birkaç km. aralıkla değişik hava şartlarıyla karşılaşmak mümkündür. Kış ve ilkbahar mevsimlerinde vadi ve yüksek yamaçlarda sis olur. Bölgedeki hakim rüzgar yıldız ve poyrazdır.
+Bölgenin en yüksek kesimi güneyde bulunan Denek Dağı ile kuzeydoğuda bulunan Koçubaba Seydim tepesidir. Bu iki bölümde E-88 Devlet Karayoluna gelindikçe alçalan bir arazi kesimi mevcuttur. E-88 Devlet Karayolunun bulunduğu kısım düz ve ova görünümündedir. Bölge arazisinin hemen hemen tamamı tarım alanıdır. İlçe dahilinde en yüksek rakım 1740 m., en düşük rakım ise 872 m., ortalama rakım ise 1000 m.dir. Bölgede dağ olarak adlandırabileceğimiz Keskin İlçesi hududunu teşkil eden Denek Dağı 1140 m. dir. Bölgede Kenanbeyobası Köyünün Azgın Yaylası mevcut olup, yaylanın elektriği ve yolu mevcuttur.
+İlçenin Koçubaba - Ulaklı ve Selamlı Köyleri alanı meşe ormanları ile kaplıdır. Denek Dağı eteklerinde cılız fundalıklar ve meşelikler mevcuttur.
+Alt Yapı.
+Ulaşım.
+1. Karayolu: İlçe içerisinden geçen 25 km lik Devlet Karayolu 19 km.lik İl yolu ile 224 km. lik köy yolu bulunmaktadır.
+2006 KÖYDES Projesi kapsamında 52 Km. II. kat asfalt ile 3 Km stabilize yol yapımı gerçekleştirilmiştir. Ayrıca 2007 KÖYDES Projesi kapsamında, İzzettin – Kenanbeyobası arasındaki 9 Km yolun stabilize işi ihale edilerek tamamlanmıştır. Kırlangıç – Kenanbeyobası ve Mehmetbeyobası Köyleri arasındaki 15 Km yol ile Hüseyinbeyobası ve Kılevli Köyleri arasındaki 4 Km yolun I.Kat sathi kaplama asfalt yapım işi de tamamlanmıştır. Yine 2007 yılı içerisinde malzemesi kaymakamlığımızca karşılanmak kaydıyla İl Özel İdaresince Ulaklı, Beşbıçak, Yenili Köyleri arasındaki yolların birinci kat asfalt yapım işi tamamlanmıştır. 2007 KÖYDES ödeneklerinden artırılarak malzemesi alınan Kargın - Karalı yollarının yapım işi de bitirilmiştir. Yine ayrıca 2007 KÖYDES kapsamında I.Kat Asfaltı yapılan Kırlangıç-Kenanbeyobası ve Mehmetbeyobası Köyleri arsındaki yolun, 2007 KÖYDES artan ödeneklerden Kırlangıç-Kenanbeyobası ve Mehmetbeyobası arasındaki yolun II.Kat asfalt yapımı programa alınmış olup, iş bitirilmiştir. 2008 KÖYDES Projesi kapsamında programa alınan Devlet Yolu Eldelek Köyü arasındaki yol ile Aydınşeyh – Hıdırşeyh Köyü arasındaki yol içinde ihalesi yapılmış olup, yolların yapımı tamamlanmıştır. 2009 KÖYDES Projesi kapsamında ise Beşbıçak-Aşağıkarakısık-Yukarıkarakısık köyleri arasındaki bir km yolun asfalt yapımı işi planlanmışken KÖYDES Projelerinden artırılan ödenekle 2 km yol yapımı gerçekleştirilmiştir.
+2. Demiryolu: İlçeden geçen 21 km.lik demiryolu hattı bulunmaktadır. İlçe sınırları içerisinde Balışeyh ve İzzettin istasyonu vardır. İzettin'de herhangi bir anahat veya bölgesel tren durmamaktadır. Gayrifaal durumdadır. Balışeyh'de günde iki anahat treni durmaktadır.
+Sağlık.
+Balışeyh Sağlık Grup Başkanlığı'na bağlı Balışeyh Toplum Sağlığı Merkezi ve bunun bünyesinde 2 adet Aile Hekimliği Birimi bulunmaktadır. Koçubaba ve Kulaksız kasabalarında bulunan Sağlık Ocakları Sağlık Evine dönüştürülmüştür. Ayrıca İzzettin, Battalobası, Beşbıçak, Hıdırşeyh ve Hüseyinbeyobası köylerinde Sağlık Evi bulunmaktadır. Sağlık Grup başkanlığına bağlı 112 Acil Yardım ve Kurtarma İstasyonu da Toplum Sağlığı Merkezinde hizmetlerini vermektedir.
+İlçede Sağlık Hizmeti Veren Binalar
+İlçede Sağlık Personeli
+Poliklinik Çalışmaları
+Bölgede bulunan 26 köyün tamamı periyodik olarak hizmet amacıyla gidilerek gerek bebeklerin gerekse okul çağındaki çocukların aşıları yapılmaktadır.
+Hedef bebek nüfusunun %100'üne yakını aşılanmış, aynı zamanda mevcut bebek aşılanarak neonatol tetenos çalışmalarına önem verilmiştir.
+Sağlık Bakanlığı ve Verem Savaş Dispanserlerinin uyarıları göz önüne alınarak BCG aşıları tam olarak yapılmıştır.
+Yeşil Kart Durumu
+İlçede, 31/12/2009 tarihi itibariyle 2.118 kişiye Yeşil Kart verilmiştir.
+Nüfus.
+İlçenin Merkez nüfusu 1935 yılı nüfus sayımına göre 372, 1960 nüfus sayımına göre 1.070, 1970 yılı nüfus sayımına göre 2.375, 1975 yılı nüfus sayımına 2.542, 1980 nüfus sayımına göre 2.154, 1985 yılı nüfus sayımına göre 2.463, 1990 nüfus sayımına göre nüfusu 2.078 dir.1997 yılı nüfus sayımına göre Merkez nüfusu 2.419, Koçubaba Kasabası nüfusu 811, Kulaksız Kasabası nüfusu 1.435 olup, köyler nüfusu toplamı 5.925, Belediyeler nüfus toplamı 4.665 dür. İlçenin toplam nüfusu 10.590 dır. 2000 yılı nüfus sayımına göre Merkez nüfusu 3.344, Koçubaba beldesi 1.450 ve Kulaksız beldesi 2.115’ dır. Köylerin nüfus toplamı ise 7.011 olup, toplam nüfus 13.920’dür. En son yapılan 2008 Yılı Adrese Dayalı Nüfus Kayıt Sistemine göre ise İlçemiz Merkez Nüfusu 2.547, Kulaksız Kasabası 616, Koçubaba Kasabası 590, Köyler Nüfus toplamı ise 5.098 olup, toplam nüfusumuz 8.851 kişi olarak tespit edilmiştir.
+Ekonomik ve Mali Durum.
+1. Zirai Yönden: İlçem ekonomik yapısı genel olarak tarım ve hayvancılığa dayanmaktadır. Bu durum vergi mükellef grupları arasında da göze çarpmaktadır. Şöyle ki;
+Muafiyet sınırları içerisinde kalan zirai gelir sahipleri olduğunu da düşünecek olursak bu rakam oldukça yüksektir.
+Ancak bu zirai gelir sahiplerinin kazançları kendi geçimlerini idame ettirmeye dahi yeterli değildir.
+2. Ticari Yönden: İlçede ticaret gelişmemiştir. Hali hazırda ticari faaliyetler birkaç şirket dışında küçük esnaf tarafından yürütülmektedir.
+İlçede Bankacılık hizmeti bir adet banka şubesi tarafından yürütülmektedir. İlçe ekonomisine katkı yönünden şirketleşme faaliyeti çok düşüktür. İlçede kurulu şirketlerin adedi ile faaliyet alanları aşağıdaki gibidir.
+Bu Şirketlerin faaliyetleri hali hazırda yurtiçi ticareti ile sınırlıdır.(İthalat ve ihracat yapılmamaktadır.)
+İmalat Sanayi: İlçede İmalat Sanayi küçük çaplı un değirmenleri dışında hiç gelişmemiştir. İmalathane türü adedi, faaliyet alanları aşağıdaki gibidir.
+İlçede vergi, Saymanlık ve Milli Emlak Hizmetleri Mal Müdürlüğü tarafından yürütülmektedir.
+Tarım.
+İlçenin ekonomik yapısında en önemli yeri tarım ve hayvancılık işgal etmektedir. Tarım içinde hububat tarımı ağırlıklıdır. İlçede daha ziyade kuru tarım hâkimdir. Sulanabilir arazilerde şeker pancarı yapılmaktadır.
+Hububatta buğday, arpa, mercimek, nohut ve ayçiçeği sıralanmaktadır. Eskiden büyük bağ sahalarına sahip olan İlçe floksera hastalığı nedeniyle bu sahaları kaybetmiş olup, valiliğin katkılarıyla yeni Amerikan asmalarıyla bağ tesisleri kurulmaya başlanmıştır.
+İlçede meyve ve sebze üretimi aile işletmeciliği şeklindedir. Ticari bir potansiyele sahip değildir. Hayvancılık büyükbaş hayvan besiciliği ağırlıklı olup, son yıllarda süt sığırcılığı gelişme arz etmektedir.
+İlçedeki Tarımsal Amaçlı Tesisler:
+2008 yılı itibariyle İlçede önemli bazı tarımsal ürün miktarları:
+Hayvancılık.
+İlçede hayvancılık büyükbaş ağırlıklı olup, aşağıdaki tabloda yörenin hayvancılık durumu gösterilmektedir.
+Ormancılık.
+İlçede orman ile ilgili bir kurum bulunmamaktadır. Ağaçlandırma faaliyetleri hali hazırda Orman Bakanlığınca Denek Dağı Ağaçlandırma sahasında sürdürülmektedir.
+2000 yılı Bahar Dönemi içerisinde Valiliğin sağladığı 85.000 adet çeşitli ağaç türleri merkez, kasaba ve köylerde dağıtımı yapılarak dikimi gerçekleştirilmiştir.
+Kültür ve Yaşam.
+Sosyal Durum.
+İlçede Türk ailesine özgü gelenek ve görenekler sıcaklığını korumaktadır. Özellikle dini ve milli günlerde halkı birbirlerine daha da yaklaşmaktadır.
+İlçede Koçubaba Kasabası ile Yukarı karakısık Köyleri alevi kökenlidir. İlçem merkezinde ise son yıllarda doğudan göç edenler ile ilçede Alevi, Sunni nüfus bulunmaktadır. İlçe halkının yerlileri hem kendi gelenek ve göreneklerini, giyim tarzlarını sürdürmek istemişler hem yurt içinde ve de yurt dışında çalışan yakınlarının etkisi ile modernleşmeye yönelmişler. Günün gereklerine uygun araçları kullanmaya başlayarak yeni bir toplum hayatının kurallarını benimsemişlerdir. Fakat genelde geleneksel Anadolu yaşayışı ve aile düzeni hâkimdir. Erkeğin aile içindeki yeri önem taşır. Kadın daha çok ailenin düzenleyicisi, erkeğin yardımcısıdır. Genel olarak ekonomi tarıma bağlı bulunduğundan İlçemizde kadın da tarım alanında çalışarak aileye ekonomik yönden katkıda bulunmaktadır.
+İlçe konut yönünden yetersiz olup, yeni yeni yapılaşmaya yönelmiş durumdadır. İlçede eskiden kalma hala kullanılan az sayıda toprak damlı evlerin dışında konutlar betonarme ve üstü çatı örtülüdür. Ancak 2005 yılında ile belediye başkanlığının girişimi ile TOKİ tarafından 144 konutluk daireler yapılmış olup, tamamı satılarak vatandaşların kullanımına sunulmuştur.
+Önemli Kültürel Mekanlar.
+Balışeyh ilçesinde gidilebilecek başlıca önemli mekanlar şunlardır:
+Koçubaba Türbesi: Alevi Şeyhi Koçu Baba’ya aittir. XV.yüzyılda yapılan türbe birçok kez onarım geçirmiştir. Türbe sekizgen planlı kesme taştan yapılmış olup, üzeri taştan piramidal bir külah ile örtülmüştür.
+Ballıbaba Camii: Balışeyh ilçe merkezinin Ballı Mahallesi'nde yer alan camanin 1121 yılında Selçuklular tarafından yapıldığı tahmin edilmektedir. 1120’li yıllarda buraya yerleşen Müslüman Türkler tarafından yapıldığı sanılmaktadır. Bazı kaynakların 13.yüzyıl ve 14.yüzyılda yapıldığı belirtiliyorsa da kesin değildir. Türkiye’de Vakıf Abideleri ve Eserler (1972, Ank., sayfa 495-496) adlı kitapta Ballıbaba Camii ile ilgili şu bilgiler verilmektedir: “ Boyuna dikdörtgen planda yapılmışolan caminin beden duvarları yontma ve moloz taşlardan meydana gelmiş taşduvarlar arası yatay düzende üçer sıralı tuğla hatıllarla takviye edildiği gibi düşey düzende taşlar arasına dik olarak konulmuş tuğlalarla kasetlenmiştir.bütünüyle tam bir dikdörtgen teşkil eden caminin düz toprak damla örtülmüştür. Kuzeybatı köşesindeki kare kalden ve tuğla gövdeden minare orijinal olarak günümüze gelmişse de şrifeden üst kısmı restore görmüştür. Caminin beden duvarları üzerindeki pencereleri dikdörtgen olup üzerlerinde sivri kemerli alınlıklar bulunmaktadır. İç mekanda cami kıbleye dikey neflere eyrılmakta ve nefleri ayıran ağaç direkler üzerinde ağaç kirişleme tavanı oldukça güzel ve orijinaldir. İbadet mekanını iki sıra halinde üç nefe ayıran direklerden başka doğu ve batı kenarlarındaki beden duvarlarına bitişik olarak üst örtüyü takviye maksadı ile konulmuş direklerle birlkte dört sıra halinde bulunan ağaç direkler her sırada üç adet olmak üzere kavisli yontulmuş parçalarla kemerli hale getirilmiş bulunmaktadır. Caminin kuzey kısmında yer alan ahşap mahfil bugün kullanılmamaktadır. Mahfilin alt kısmında üst direkler arası ahşap Bursa kemerli, üst kısmında ise direkler arasına kemerli olarak yapılmıştır. Mihrap yenilenmiş olup alçılıdır.” Camii Vakıflar Genel Müdürlüğü tarafından restore edilmiş olup ibadete açıktır.
+Bunlar dışında Ballıbaba Türbesi'de ziyaret edilebilecek mekanların başında gelmektedir.
+Eğitim.
+a. Örgün Eğitim: İlçe genelinde 7 İlköğretim ve 1 lise bulunmaktadır. 3 Köy İlköğretim Okulunda 69 Öğrenciye 3 Öğretmen tarafından birleştirilmiş sınıf eğitimi verilmektedir. 7 İlköğretim Okulunda toplam 945 Öğrenciye 51 Sınıf ve Branş Öğretmeni tarafından eğitim verilmektedir.
+İlçede okuma yazma oranı %95 tir.
+b. Yaygın Eğitim: 2009-2010 Eğitim-Öğretim yılında Halk Eğitim Merkez Müdürlüğüne bağlı olarak yürütülen çalışmalar aşağıya çıkarılmıştır.
+'"HALK EĞİTİMİNCE AÇILAN KURSLAR
+(2009-2010 Öğretim Yılı)"'
+Kaynakça.
+Balışeyh Kaymakamlığı Web Sitesi
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Makineli tüfek</DOCTITLE>
+<TEXT>
+
+Makineli tüfek, tam otomatik ve/veya portatif silahtır, genellikle şarjör, mermi kayışı veya büyük kapasiteli magazinlerden mermi alarak ve yine genellikle dakikada birkaç yüz mermi atma oranıyla tasarlanmışlardır. İlk makineli tüfekler bir el kolunun çevrilmesi gibi, manuel olarak kullanılıyordu. Birleşik Devletler kanunlarında terim olarak, özellik kullanılmamak suretiyle tam otomatik silahları tanımlar, örneğin medya haberlerinde veya yasal kodlarda.
+Kalibreler.
+Bir makineli tüfeğin kalibresinin üst limitini belirtmek için iki farklı tanımlama kullanılır:
+Diğer bir etken silah konvansiyonel patlayıcı toplarıdır. Yüksek kalibreli patlayıcı mermi kullanan otomatik silahlar, otomatik toplar veya otomatik bombaatarlardır. Makineli tüfekler yüksek bir kalibreye namlu uzunluğu oranına eğilimlidirler (uzun namluya küçük kalibre).
+İki makineli tüfek devri vardır: Manuel makineli tüfekler devri ve otomatik makineli tüfekler devri. Teknolojik gelişme bir dizi otomatik özelliklerin gelişimini sağladı (zincirleme cephane gibi). Manuel çok atımlı araçların zamanı yüzlerce yıl öncesine dayanır; fakat manuel ve otomatik makineli tüfekler 1800'lerin son yarısına denk gelir. Manuel makineli tüfekler kolla kullanılan krank mekanizması ile çalıştırılırlardı ve kol döndürüldükçe ateşleme ve yeniden yükleme gerçekleşirdi, karşılık olarak otomatik makineli tüfeklerde basit bir tetik mekanizması mevcuttur. Daha birçok önemli fark bulunmasına rağmen en önemli gelişim daha yüksek ateş oranına izin vermesidir. 
+Manuel makinalı tüfekler, manuel yaylım ateşi yapan silahlar gibi ilk kez Amerikan İç Savaşı'nda kullanıldı. Mitralyöz ve "coffee gun" manuel ateşlemeli ve doldurma hunisinden mermiler ile beslenen otomatik doldurmalı olarak kullanıldı. Mitralyöz - manuel çalışan dönen makinalı tüfek- 19. yüz yıl sonlarında bir numaralı silah olacaktı, bununla birlikte birçok farklı model değişik kullanım açılarıyla üreetildi (Nordenfelt makinalı tüfeği). İlk otomatik makineli tüfek kayış cephaneli tek namlulu ve otomatik dolumlu geri tepme kullanımlı Maxim tüfeğidir. Bu mermi enerjisi kullanımı ayrıca neredeyse diğer tüm 20. yüzyılın yarı ve tam otomatik silahlarında gelişim yarattı.
+Modern otomatik makineli tüfeklerin başlıca iki işleme sistemi gaz işleyişli (yanan barutun gazını hareket çevrimine dönüştürür) ve geri tepme işleyişlidir (mermiyi boşaltımını geri tepme olarak çevrim hareketine dönüştürür). İlk gaz işleyişli makineli tüfek M1985 Colt-Browning makineli tüfeğidir. Diğer (daha küçük) tip dıştan çalıştırılan makineli tüfektir. İnsan gücü veya mermi enerjisinden ziyade, üçüncü bir kaynak (elektrik motoru gibi) kullanılır; bu tipler artık daha özel isimlerle anılmaktadır (minigun, Chaingun). Modern makineli tüfeklerin en yaygın tipi otomatik, geri tepme işleyişli ve kayış beslemeli tiptir. Elektrikli ve mitralyöz tipi makineli tüfekler savaş uçaklarında ve diğer araçlarda yaygındır.
+Modern Makineli Tüfekler.
+Her mermi için bir kez tetiğe basılan yarı otomatik silahların aksine, "makineli tüfek", tetiğe basılı tutulduğu sürece ve mermi ile beslendiği sürece ateş etmek üzere tasarlanmıştır. Siviller tarafından genellikle tüm tam otomatik silahları tanımlamak üzere kullanılan "makineli tüfek" terimi, askeri dilde, elle ateşlenen göreceli olarak ağır silahlarla sınırlandırılmış, sürekli veya sık atışlı olarak cephanenin izin verdiği kadar otomatik ateşlenen silahlar için kullanılır. Makineli tüfekler savunmasız veya az savunmalı kişilere veya önleme ateşini desteklemek için kullanılması normaldir.
+Bazı makineli tüfekler saatlerce sürecek önleme ateşi için denenmiştir, diğer otomatik silahlar bir süre kullanıldıktan (bazen bir dakika bile olmadan) sonra aşırı ısınabilir. Bütün makineli tüfekler atışlar arasında namludan hava soğutmasına izin veren açık mandaldan atış yaparlar. Ayrıca namlu soğutma sistemlerine de veya ısınan namlunun değiştirilmesine izin veren çıkartılabilir namlulara sahiptir.
+Hafif makineli tüfek, Orta makineli tüfek ağır makineli tüfek veya genel amaçlı makineli tüfek olarak alt dallara ayrılmasına rağmen, en hafif makineli tüfek bile daha büyük ve daha ağır olma eğilimindedir. Manga otomatik silahları (SAW), hafif makineli tüfeklerin bir versiyonudur ve sadece bir kullanıcı (bazen bir de cephane taşıyıcı gerektirir. Orta ve ağır makineli tüfekler üç ayak ya da bir aracın üzerine monte edilebilir; insan taşıdığı zaman, makineli tüfek ve radımcı ilaveler (üç yaka, cephane, yedek namlular vs.) ek olarak insan gerektirebilir.
+Başlıca makineli tüfekler şerit beslemelidir, buna rağmen bazı hafif makineli tüfekler silindir veya kutu magazinlerden beslenebilir ve bazı araca bağlı makineli tüfekler besleme hunisinden mermi alabilir.
+Diğer otomatik silahlar mermi boyuna ve merminin olumlu kilit kapalı mandal veya olumlu olmayan açık mandaldan ateşlenmesi gibi birkaç kategoriye bölünmüştür. Tabanca kalibreli cephane kullanan tam otomatik silahlar, makineli tabanca (genellikle boyut kapsamında) olarak adlanırılabilirler; tam güçlü tüfek mermisini kapalı mandaldan ateşleyen seçici ateş tüfekleri, otomatik tüfekler olarak adlandırılır, bunlardan geri dönüşü güç ile tüfek mermisi kullananlar saldırı tüfeği olarak adlandırılırlar.
+Makineli tüfeğin yer savaşında birincil rolü düşman üzerine, saklanmaları ve etkili olmamalarını sağlayan önleme - destek ateşi yapmaktır. Bu hem düşman saldırısını durdurur hem de dost kuvvetlere düşmana saldırma sırasından daha az risk sunar.
+Hafif makineli tüfekler basit demir nişangâhlara sahiptir. Yaygın bir nişan alma sistemi katı (yuvarlak) turlar ve izli mermi turlarıyla takip edilir (genellikle dört yuvarlak mermi ardından bir izli mermi şeklindedir), böylece nişancı mermi yolunu görebilir ve hedefe doğru hareket ettirebilir, ayrıca diğer askerlerinde ateşine yön verebilir.
+Piyade tüfekleri tabanca kalibreli hafif makineli tüfek ile geleneksel tam güçlü kartuş ateşli tüfek karışımıdır, tek atış, tek basışla birkaç atış ve tam otomatik atışa izin vermektedir(seçilebilir atış). 
+50 kalibrelik Browning M2 gibi birçok ağır makineli tüfek hedefleri uzak mesafelerden vurabilecek hassasiyettedir. Vietnam Savaşı sırasında, Carloss Hathchock 50 kalibrelik, dürbünlü görüşile donatılmış ağır makineli tüfeği ile 2250 metreden hedefini vurarak rekor oluşturdu. Bu olay Barrett M82 gibi 50 kalibrelik anti-materyal sniper tüfeklerinin tanıtımına öncülük etti.
+Bileşenleri.
+Bütün makineli tüfekler şu bileşenlere sahiptir:
+Bu bileşenler tahrik edilmesi gereken bir mekanizmayı oluşturur. Eğer kartuşun geri tepmesiyle tahrik ediliyorsa geritepme işleyişli olarak, ateşlenen kartuşun oluşturduğu gaz ile tahrik ediliyorsa gaz işleyişli olarak adlandırılır. Motor gibi bir dış etkenle tahrik ediliyorsa genellikle chain gun olarak adlandırılır.
+İşleyişi.
+Bütün makineli tüfekler şu çevrimi takip eder: 
+Bir mekanizma ateşleme pininin kartuşu ateşlemesini sağlar boşaltma ve doldurma adımlarını etkinleştirir. Çevrim tekrarlanır. Bütün bu çevrim saniyenin küçük bir parçası kadar sürer böylece birsaniye içinde birçok atış sağlanır. İşleyiş bu meanizmalarının etkinleşmesi ne olursa olsun, basitçe aynıdır. Örneğin:
+Ağır makineli tüfekler genellikle su / hava soğutmalı veya değiştirilebilir namluludurlar. Değiştirilebilir namlular, namlunun aşırı ısınmasını engellemek için periyodik olarak değiştirilmelidir. Uzun süreli sürekli atışlarda namlu sıklıkla değiştirililerek soğuması sağlanmalıdır. Bu değişimi azaltmak için çoğu hava soğutmalı silahlarda sadece darbeli atışlar ya da kısa süreli sürekli atışlar yapılır. 
+Makineli tüfeklerin tamamı ilk atak saldırısı için kullanılmaz. Geri tepmeli makineli tüfekler çoğu zaman yerde kullanılır. Atış hâlindeki bir silahın mil dirseği tarafından ateşleme pini döndürülür. Bazı otomatik tüfeklerin ilk ateşlenmesi elektrik ile olmaktadır.
+Merminin namluya sürülmesi ve ateşlenmesi aynı zamanda gerçekleşen silahlarda,merminin namluya sürülmeden ateşlenmesini önlemek için, atıcının güvenliğini sağlamak amacıyla,mekanik zamanlama gereklidir.Bu ,özellikle 40mm bombatar gibi yüksek patlayıcılı mühümmatların ateşlendiği silahlarda çok daha önemlidir.
+Makineli tüfekler bir ya da daha fazla mekanik emniyet tetiği tarafından kontrol edilir. Bir emniyet tetiği sürgüyü durdurarak merminin aynı noktaya düşmesini engeller. Bazı emniyet tetikleri ise geriye kilitlendiklerinde dururlar. Diğer emniyet tetikleri mermi fişek yatağına girdiği zaman kilitlenir ve ateşleme pinini durdurur.
+Hemen hemen tüm silahların tetiği basitçe ateş etmekten alıkoyan bir emniyet tetiği vardır.
+
+</TEXT>
+</DOC>
+

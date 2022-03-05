@@ -1,0 +1,35 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Ekinoks	ekinoks	+Noun+A3sg+Pnon+Nom
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+meydana	meydan	+Noun+A3sg+Pnon+Dat
+
+gelir	gel	+Verb+Pos+Aor+A3sg
+gelir	gel	+Verb+Pos^DB+Adj+AorPart
+gelir	gelir	+Noun+A3sg+Pnon+Nom
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

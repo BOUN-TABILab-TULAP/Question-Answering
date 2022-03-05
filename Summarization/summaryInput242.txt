@@ -1,0 +1,394 @@
+Question: Troposferin kutuplarda daha ince olmasının sebebi nedir?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Troposfer</DOCTITLE>
+<TEXT>
+
+Troposfer, atmosferin yere temas eden en alt katıdır. Gazların en yoğun olduğu kattır. Kalınlığı kutuplarda 6, ekvatorda 16 km. civarındadır ve mevsimlere göre değişiklik gösterir.
+Güçlü yatay ve dikey hava hareketleri görülür. Ekvator üzerindeki kalınlığı 16–17 km.,45° enlemlerinde 12 km, kutuplardaki kalınlığı ise 9–10 kmdir. Bunun nedeni ekvatorda ısınan havanın hafifleyerek yükselmesi kutuplarda ise soğuyan havanın ağırlaşarak çökmesidir. Yani ekvatorla kutuplar arasındaki sıcaklık farkıdır. İçinde değişken sıcaklığın yatay ve dikey değişimlerini etkilediği gibi, hava akımları, bulutluluk, nem, yağışlar, basınç değişiklikleri gibi meteorolojik olaylar, kaotik bir sistem içinde troposferin dünya ölçeğinde karmaşık davranış biçimini ortaya koyar ve uzun vadede iklimleri belirler.Mevsimleri de ayarlar.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Neptün</DOCTITLE>
+<TEXT>
+
+Neptün, Güneş Sistemi'nin sekizinci ve Güneş'e en uzak gezegenidir. Adını Roma deniz tanrısı Neptunus'ten alan gezegen, çapına göre en büyük dördüncü, kütlesine göre ise en büyük üçüncü gezegendir. Dünya'nın 17 katı kütlesiyle ikizi sayılabilecek Uranüs'ten çok az büyük ve daha yoğundur. Güneş'e olan uzaklığı ortalama 30 Astronomik birimdir (AU).
+23 Eylül 1846'da keşfedilen Neptün, deneysel gözlemlerden önce matematiksel tahminlerle bulunan ilk ve tek gezegendir. Alexis Bouvard, Uranüs'ün yörüngesindeki beklenmeyen değişikliklere, bilinmeyen bir gezegenin kütleçekimsel etkisinin sebep olduğunu öngördü. Daha sonra Neptün, Johann Gottfried Galle tarafından Urbain Le Verrier'in tahmin ettiği pozisyonun çok yakınında bir bölgede gözlemlendi. Kısa bir süre sonra da en büyük uydusu Triton keşfedildi. Kalan 12 uydusu ise ancak 20.yy'da keşfedilebildi. Neptün şimdiye kadar sadece Voyager 2 tarafından ziyaret edildi.
+Neptün'ün yapısı Uranüs'e çok benzemektedir, bununla beraber bu ikisi, daha büyük gaz devleri olan Jüpiter ve Satürn'ün yapısından biraz farklıdırlar. Neptün'ün atmosferi, Jüpiter ve Satürn'ün atmosferi gibi ağırlıklı olarak hidrojen ve helyum, ve az miktarlarlarda hidrokarbonlar ve azottan oluşmakla beraber, görece yüksek miktarlardaki su, amonyak ve metan buzları ile onlardan ayrılmaktadır. Gök bilimcilerin Uranüs ve Neptün'e bazen buz devleri demesinin nedeni de işte bu farklılığı vurgulamaktır. Neptün'ün iç katmanları, Uranüs'e benzer şekilde ağırlıklı olarak buz ve kayaç malzemelerden oluşmaktadır. Atmosferinin üst katmanlarında bulunan metan, gezegene mavi görüntüsünü vermektedir.
+Uranüs'ün durağan atmosferinin aksine Neptün'ün atmosferi hareketli ve göze çarpan hava olayları ile dikkat çekmektedir. Örneğin, 1989'daki Voyager 2 yakın geçişi sırasında gezegenin güney yarım küresinde Jüpiter'deki Büyük Kırmızı Leke'ye benzer bir Büyük koyu leke vardı. Bu atmosfer olayları, 2100km/s'e varan hızlara sahip Güneş Sistemi'ndeki en güçlü rüzgarlar tarafından gerçekleştirilmektedir. Güneş'e olan uzaklığı nedeniyle, Neptün'ün üst atmosfer katmanları, -218°C'ye kadar düşen sıcaklığıyla Güneş Sistemi'ndeki en soğuk yerlerdendir. Bununla birlikte, gezegenin merkezi yaklaşık 5000 °C kadar sıcaktır. Neptün, 1960'larda farkedilen ve 1989'da Voyager 2 tarafından kesin olarak onaylanan çok ince ve parçalı bir halka sistemine de sahiptir.
+Tarihi.
+Bulunuşu.
+Galileo'nun çizimlerine göre o, Neptün'ü ilk defa 28 Aralık 1612 ve 27 Ocak 1613'te de ikinci kez gözlemlemiş. Ama Galileo iki seferde de Neptün'ü, hareketsiz görüntüsünden dolayı, bir yıldız olarak değerlendirmiştir. Bu sebeple bu gözlemler Neptün'ün keşfi olarak sayılmamaktadır. Tam Galileo'nun ilk gözlemini yaptığı tarihlerde Dünya ve Neptün'ün yörüngedeki hareket yönleri tersine dönmekteydi. Bu kısa zaman aralığı boyunca gezegenler gökyüzünde sabitmiş gibi görünür. Bu da Galileo'nun o zamanki teleskobuyla gezegenin hareketini farketmesini iyice güçleştirmişti. Bununla birlikte, Temmuz 2009'da Melbourne Üniversitesi'nden bir fizikçinin açıklamalarına göre Galileo gözlemlediği bu gök cisminin hareketli olduğunu farketmiş olabilir.
+1821'de Alexis Bouvard, Uranüs yörüngesinin astronomik çizelgelerini yayınladı. Takip eden gözlemler, hazırlanan çizelgelerde kayda değer hataların olduğunu ortaya koydu. Bu da Bouvard'ı, Uranüs ile henüz bilinmeyen bir gök cismi arasında olan kütleçekimsel etkileşimin buna sebep olduğunu düşünmeye itti. John Couch Adams, 1843 yılında elindeki verilerden yararlanarak Uranüs'ün yörüngesi üzerine çalışmaya başladı. Daha sonra George Airy'den yeni veriler edindi ve çalışmalarını 1846 senesine kadar sürdürdü. Yeni bir gezegenin varlığıyla ilgili bazı varsayımlar üretti fakat Airy'nin Uranüs'ün yörüngesiyle ilgili talebine karşılık vermedi.
+Aynı tarihlerde Urbain Le Verrier de Adams'tan bağımsız olarak kendi hesaplamalarını geliştirdi. 1846 Haziran'ında Le Verrier'in yayınladığı bulguları gören Airy, bunların Adams'ınkilerle örtüştüğünü farketti ve Cambridge Gözlemevi müdürü James Challis'i bu öngörülen yeni gezegeni aramaya ikna etti. Challis Ağustos ve Eylül ayları boyunca gökyüzünü taradı fakat bir sonuç çıkmadı.
+Bir taraftan Le Verrier de Berlin Gözlemevi astronomu Johann Gottfried Galle'den gezegeni araştırmasını istedi. Gözlemevindeki öğrencilerden Heinrich d'Arrest, Galle'ye Le Verrier'in tahmin ettiği bölgenin güncel çizelgelerdeki durumuyla o anki gökyüzünün durumunu bir gezegenin sabit bir yıldıza göre yer değiştirmesini de göz önüne alarak karşılaştırmasını önerdi. Le Verrier'in mektubunu aldıkları 23 Eylül 1846 gecesi Neptün, Le Verrier'in tahmin ettiği yerin sadece 1°(Adams'ın tahmininin ise 12° yakınında) uzağında keşfedildi. Challis ise sonradan söz konusu gök cismini Ağustos ayında iki kere gözlemlediğini fakat peşindeki gezegen olduğunu farkedemediğini anladı.
+İsimlendirme.
+Keşfi ertesinde, Neptün, basitçe "Uranüs'ün ötesindeki gezegen" veya "Le Verrier'in gezegeni" biçiminde anılıyordu. İsim konusunda ilk öneri ""Janus"" olarak Galle'den geldi. Daha sonra Challis de "Oceanus" ismini önerdi. Keşfini isimlendirme hakkının kendisinde olduğunu söyleyen Le Verrier Neptün ismini önerdi. Daha sonra Ekim ayında, bu sefer kendi adı Le Verrier'i isim olarak önerdi ve bu öneri kendi ülkesinde destek de buldu. Fakat Fransa dışında kabul görmedi. Fransız almanaklarında Uranüs'ün adı Herschel(gezegenin kaşifi William Herschel'in adından) olarak değiştirildi ve yeni gezegen için de "Leverrier" ismi kullanıldı.
+29 Aralık 1846'da Struve gezegen için Saint Petersburg Bilimler Akademisi'ne Neptün ismini önerdi. Daha sonra da Neptün ismi gezegenin uluslararası kabul görmüş ismi oldu. Roma mitolojisi'nde Neptün, deniz tanrısıdır. Dünya haricindeki tüm gezegenlerin ismi Roma mitolojisindeki tanrılardan geliyordu. Neptün için de bu ismin önerilmesiyle bu isimlendirme geleneği korunmuştur.
+Greko-Romen kültürle doğrudan bir ilişkisi olmayan ülkelerde bile bu ismin değiştirilmiş şekilleri kullanılmaktadır. Örneğin, Çince, Japonca ve Korece'de gezegen için "Deniz Tanrısı'nın Yıldızı" anlamındaki yerel sözcükler kullanılmaktadır.
+Yapısı.
+1.0243 kg'lık kütlesi, Dünya'nın 17 katı fakat Jupiter'in 1/19'udur. Gezegenin yüzey kütleçekimini sadece Jupiter aşar. Güneş Sistemi'nde yüzey kütleçekimi Dünya'dan fazla olanlar, sadece bu iki gaz devidir. 24764km'lik yarıçapı ile de Dünya'nın 4 katı kadardır.
+İç Yapısı.
+Neptün'ün iç yapısı Uranüs'e benzemektedir. Atmosferi toplam kütlesinin %5-%10 kadarını ve dıştan merkeze doğru olan mesafesinin de yaklaşık %10-%20'lik kısmını oluşturur. Atmosfer basıncı 10GPa'yı bulmaktadır. Metan, amonyak ve su oranları atmosferin alt katmanlarında daha yüksektir.
+Bu daha koyu ve sıcak bölge, derinlere gittikçe yavaş yavaş sıcaklığın 5000 °C'yi bulduğu, sıvı bir mantoya dönüşür. Manto, 10-15 Dünya kütlesine denk; su, amonyak ve metanca zengindir. 7000km derinlikten itibaren çekirdeğe kadar ortam koşulları öyle bir hal alır ki metan, elmas kristallerine ayrışır.
+Neptün'ün çekirdeği ağırlıklı olarak demir, nikel ve silikatlardan oluşmaktadır, kütlesi 1.2 Dünya kütlesi kadardır. Basınç, merkezde 7Mbar(700GPa), sıcaklık ise 5400K civarındadır.
+Atmosfer.
+Yüksek kısımlarında, Neptün atmosferi %80 hidrojen, ve %19 helyumdan oluşur. Eser miktarda metan da vardır. Metan, ağırlıklı olarak elektormanyetik tayfın kızıl ve kızılötesi bölgesine denk gelen 600nm ve daha uzun dalga boylu ışınları soğurur. Bu sebeple, tıpkı Uranüs gibi Neptün de mavi görüntüsüne kavuşur. Bununla birlikte, Neptün'ün azur mavisi görünüşüne karşılık Uranüs, hafif turkuvaza çalan bir görünüme sahiptir. Uranüs ve Neptün atmosferindeki metan miktarları çok benzer olduğu için bu farkın nedeninin atmosferlerdeki henüz bilmediğimiz bazı farklı bileşenler olduğu düşünülüyor.
+Neptün atmosferi iki ana katmandan oluşur; içteki troposferde sıcaklık yükseldikçe azalır ve dıştaki stratosferde ise sıcaklık yükseldikçe artar. Bu iki katmanı ayıran tropopoz 0.1bar(10kPa) basınc seviyesindedir. Stratosferden sonra ise, 0.0001microbar ve daha düşük basınçtaki termosfer başlar. Ve son olarak termosferden sonra ekzosfer bulunur.
+Yapılan çalışmalar Neptün troposferinin, yüksekliğe bağlı olarak değişen bileşimlere sahip bulutlar barındırdığını göstermiştir. Yüksek seviylerdeki bulutlar, sıcaklığın metanın yoğunlaşmasına izin verdiği 1 barın altındaki basınçlarda oluşur. 1 - 5 bar arasındaki basınçlarda amonyak ve hidrojen sülfür bulutlarının oluştuğuna inanılıyor. 5 barın üzerindeki basınçlarda ise bulutlar amonyak, amonyum sülfit( (NH4)2S ) ve sudan oluşuyor olabilir. Daha derinlerdeki su buzu bulutları, sıcaklığın 0 °C'ya kadar yükseldiği 50 bar civarındaki basınçlarda meydana geliyor olmalı. Daha da alt kısımlarda amonyak ve hidrojen sülfit bulutları bulunabilir.
+Sebebi henüz bilinmeyen nedenlerden dolayı gezegenin termosferi 1000 °C gibi anormal derecede yüksek bir sıcaklığa sahiptir. Neptün, Güneş'ten morötesi ışınların bu sıcaklığı üretemeyeceği kadar uzaktadır. Atmosferle gezegenin manyetik alanındaki iyonların etkileşimi de olası sebeplerden biridir. Termosfer ayrıca eser miktarlarda karbondioksit ve su da içermektedir, bunun kaynağının da göktaşları ve tozlar olduğu sanılıyor.
+Manyetosfer.
+Neptün manyetosferi de Uranüs'ünkine çok benzemektedir. Manyetik ekseni, dönme eksenine göre 47° eğiktir. Voyager 2, Neptün'e varmadan önce Uranüs manyetosferinin eğikliğinin gezegenin aşırı eğik dönme ekseninin bir sonucu olduğu tahmin ediliyordu. Ama iki gezegenin manyetik alanlarını karşılaştırdıktan sonra, bilim adamları artık bu aşırı eğikliklere, gezegenlerin iç kısımlarındaki akıntıların neden olduğunu düşünüyor.
+Neptün'ün dipol manyetik momenti 2.2 T·m3'tür. Gezegen yarıçapının yaklaşık 35 katı kadar ötesinde, manyetik alanı Güneş rüzgarlarını yavaşlatarak bir şok dalgası oluşturmaktadır. Güneş rüzgarları basıncının dengelendiği manyetopoz ise Neptün'den, kendi yarıçapının yaklaşık 25 katı kadar ileridedir. Manyetik alanın kuyruğu ise gezegen yarıçapının 72 katı kadar geriye uzanmaktadır.
+İklim.
+Neptün, hızları 600m/sn'ye kadar çıkabilen rüzgarlarla, oldukça hareketli fırtına sistemlerine sahiptir. Bulut seviyelerinde ortalama rüzgar hızı, ekvator bölgesinde 400m/sn'den kutuplar civarında 250m/sn'ye kadar düşmektedir. Rüzgarların çoğu Neptün'ün dönüş yönünün tersine esmektedir.
+Atmosferdeki metan, etan ve asetilen yoğunluğu ekvatorda kutuplaradan 10-100 kez daha fazladır. Bu da, ekvatorda yükselme, kutuplarda ise alçalma hareketlerine kanıt olarak yorumlanmaktadır.
+2007'de ortalama −200 °C (70 K) sıcaklığıyla Neptün'ün güney yarıküresinde, troposferin üst katmanlarının Neptün'ün geri kalanından 10 °C daha sıcak olduğu keşfedildi. Bu sıcaklık farkı da atmosferin geri kalanında katı halde bulunan metanın gaz haline geçmesine yetmektedir. Bu "sıcak" bölgenin sebebi ise bu aralar Güneş ışınlarının güney yarıküreye vurması nedeniyle bu yarıkürenin "yaz" mevsimini yaşamasıdır. İleride mevsimlerin değişmesiyle, güney yarıküre kararacak ve kuzey yarıküre ışık almaya başlayacaktır ve böylece metan salınımı da, güneyden kuzey yarıküreye geçecek.
+Mevsimsel değişiklikler yüzünden 1980'lerden bu yana, bulutların gezegenin güney yarımküresinde yoğunlaştığı gözlenmiştir.Bu eğilimin 2020'lere kadar sürmesi bekleniyor. Uzun yörünge periyodu nedeniyle Neptün'de mevsimler 40 yıl sürer.
+Fırtınalar.
+1989 yılında, yaklaşık 86milyon km2 alana sahip antisiklonik bir kasırga olan "Büyük koyu leke" Voyager 2 tarafından keşfedildi. Kasırga, Jupiter'deki Büyük kırmızı lekeyi andırıyordu. Bununla birlikte 5 yıl sonra Hubble Uzay Teleskobuyla yapılan gözlemlerde bu leke gözlenemedi. Bunun yerine büyük koyu lekeye çok benzeyen bir kasırga gezegenin kuzey yarımküresinde görüldü.
+Gene Voyager 2'nin 1989'daki geçişi sırasında büyük koyu lekeye göre daha güneyde kalan ve siklonik bir kasırga olan "Küçük koyu leke" de gözlemlendi.
+İç Isısı.
+Neptün'ün Uranüs'e göre daha değişken hava koşulları, iç ısısının görece yüksekliğine bağlanıyor. Neptün Güneş'e, Uranüs'e oranla 1.5 kat uzak olsa da ve Uranüs'ün aldığı günışığının %40'ını alsa da yüzey sıcaklıklığı aşağı yukarı Uranüs'le aynıdır. Neptün troposferinin üst kısımları −221.4 °C sıcaklığa kadar düşer. Atmosfer basıncının 1 bar olduğu seviyede ise sıcaklık −201.15 °C'dir. Uranüs'te olduğu gibi bu ısının kaynağı bilinmemektedir ama tutarsızlıklar daha fazladır: Uranüs'ün yaydığı enerji, Güneş'ten aldığı enerjiye göre sadece 1.1 kat fazladır bununla birlikte bu oran Neptün'de 2.61'dir. Neptün Güneş'ten en uzak gezegendir ama barındırdığı enerji, Güneş Sistemi'nin en hızlı rüzgarlarını besleyebilmektedir. Olası nedenler arasında gezegen çekirdeğinden gelen radyoaktif bozunum kökenli ısı, yüksek basınç altında metanın hidrojen, karbon(elmas) ve uzun zincirli hidrokarbonlara bozunumu sonucu ortaya çıkabilecek enerji ve alt atmosfer katmanlarındaki konveksiyon sonucu stratosferde oluşan hava dalgalarıdır.
+Yörünge ve Dönme.
+Neptün, Güneş'ten ortalama 4.5 milyar km uzaktadır ve Güneş çevresinde bir turunu 164.79 yılda tamamlamaktadır. 12 Temmuz 2011 tarihinde Neptün, 1846'daki keşfinden sonra henüz ilk turunu tamamladı bununla birlikte, gökyüzünde tam olarak keşfedildiği noktada görünmeyecektir çünkü, dünya kendi yörüngesinde o güne göre farklı bir yerde bulunacaktır.
+Neptün'ün yörünge düzlemi Dünya'nınkiyle 1.77°'lik açı yapmaktadır. 0.011'lik dışmerkezliği dolayısıyla Neptün'ün Güneş'e en yakın olduğu uzaklıkla en uzak olduğu uzaklık arasında 101 milyon km fark vardır.
+Neptün'ün eksen eğikliği 28.32°'dir, bu açı Dünya(23°) ve Mars'ınkine(25°) çok benzerdir. Bunun sonucu olarak bu gezegen de benzer mevsimsel değişiklikler geçirir. Ama çok uzun yörünge periyodu dolayısıyla bir mevsimi 40 Dünya senesi sürer. Kendi ekseni etrafında bir turu ise kabaca 16.11 saat sürer. Neptün katı bir yapıya sahip olmadığı için, atmosferi enleme göre farklı hızlarda döner. Ekvatoral bölgenin bir tam tur dönüşü, 18 saate kadar çıkmaktadır. Kutup bölgelerinde ise bu süre 12 saate kadar düşmektedir. Güneş Sistemi'ndeki gaz devleri arasında, bölgeler arası dönüş farkı en fazla olan gezegendir. Bu büyük farklar da enlem bölgeleri sınırlarında çok güçlü rüzgarlar yaratır.
+Yörüngesel Rezonans.
+Neptün, hemen ardından gelen Kuiper kuşağı üzerinde güçlü bir etkiye sahiptir. Kuiper kuşağı Mars'la Jupiter arasındaki ateroid kuşağına benzer olarak ufak, buzlu gök cisimlerinden oluşan bir halkadır. Güneş'e 30AU uzaktaki Neptün yörüngesinin hemen ardınan başlayıp yaklaşık 55AU uzaklığa kadar devam eder. Nasıl ki, Jupiter'in kütleçekimi asteroit kuşağını şekillendiriyorsa, Neptün kütleçekimi de Kuiper kuşağını şekillendirmektedir. Güneş Sistemi varolduğundan beri, Kuiper kuşağının belli bölgeleri Neptün kütleçekimi tarafından dengesizleştirilmekte, belli bölgelerde boşluklar oluşturulmaktadır. 40. ve 42. AU'lar bunun örnekleridir. Bununla beraber Güneş Sistemi'nin oluşumundan bugüne, bu bölgelerde varlığını sürdüren gök cisimleri de vardır. Varlıklarını ise 1:2 veya 3:4 gibi yörüngesel rezonanslara borçlular. Bu şu anlama gelmektedir: Eğer iki gök cisminden biri, Güneş'etrafında bir turunu tamamladığında diğer gök cismi yörüngesinin tam yarısını katetmişse bu iki gök cismi arasında 1:2'lik rezonans söz konusudur. Neptün'ün her 3 turuna karşılık 2 tur anlamına gelen 2:3'lük rezonans, Kuiper kuşağındaki 200 gök cisminde görülür. Bu, Kuiper kuşağı cisimleriyle Neptün arasındaki en yaygın yörüngesel rezonanstır, Plüton da bu gök cisimlerinden biridir. Eliptik yörüngesi nedeniyle bazen Neptün yörüngesine çok yakın geçmesine rağmen bu rezonans sayesinde Neptün'e hiçbir zaman çarpmayacaktır.
+Oluşumu.
+Neptün ve Uranüs'ün oluşum süreçlerini doğru şekilde açıklamak şu anki bilgilerimizle çok zordur. Günümüzdeki modellere göre ilk zamanlarında Güneş Sistemi'nin dış bölgelerinde bu büyüklükteki yapıların oluşumu için yeterli madde miktarı yoktu. Bu nedenle sürekli etrafındaki kütleyi çekerek büyümeye dayalı geleneksel varsayımların yerine farklı modeller geliştirildi.
+Bu varsayımlardan birine göre bu gezegenler maddenin daha yoğun olduğu Güneş'e yakın bölgelerde oluştular ve yavaş yavaş günümüzde bulundukları yörüngelere kaydılar. Şu anda Kuiper kuşağındaki küçük cisimlerin çokluğunu da açıklayabilen bu varsayım gök bilimciler arasında en çok kabul gören varsayımdır. Göç eden Neptün'ün ve diğer gaz devlerinin Kuiper kuşağı üzerindeki etkilerini araştıran bu hipotez, Nice modeli olarak bilinir.
+Uyduları.
+Neptün'ün bilinen 14 uydusu vardır. Bunların içinde açık farkla en büyüğü; William Lassell tarafından, Neptün'ün keşfinden sadece 17 gün sonra gözlenen, Neptün etrafında dönen toplam kütlenin %99.5'ini oluşturan, ve ayrıca küresel şekle sahip olabilecek kadar kütleye sahip tek gök cismi olan, Triton'dur. İstisnai olarak, Güneş Sistemi'ndeki diğer tüm uydulara göre ters yönde bir yörüngeye sahiptir. Bu özelliği onun olduğu yerde oluşmadığını, Neptün tarafından yakalandığını gösteriyor. Eski bir Kuiper kuşağı cüce gezegeni olabilir. Triton yörüngesinde eş zamanlı olarak döner, yani Neptün'e hep aynı yüzü dönüktür. Gelgit ivmelenmesi nedeniyle de gezegenine git gide yaklaşmakadır, 3.6 milyar yıl sonra Roche limitine ulaştığında da parçalanarak yok olacaktır. 1989'da yaklaşık −235 °C (38 K) sıcaklığıyla Triton. Güneş Sistemi'ndeki en soğuk gök cismiydi.
+Neptün'ün ikinci keşfedilen uydusu, Güneş Sistemi'ndeki en eliptik uydu yörüngesiyle Nereid'tir. 0.7512'lik dışmerkezliğiyle; enöte uzaklığı, enberi uzaklığının 7 katıdır.
+1989'da, Temmuz'dan Eylül'e kadar Voyager 2 altı yeni uydu daha keşfetti. Bunlar gezegenin ikinci büyük uydusu Proteus, en içteki dört uydusu Naiad, Thalassa, Despina ve Galatea ve en uzak uydusu Larissa'dır. Beş yeni, küçük ve düzensiz uydu 2004 yılında duyuruldu. Neptün, adını Roma deniz tanrısından aldığı için uydularına da daha küçük deniz tanrıları ve perilerinin isimleri verilmiştir. Neptün'ün 14. uydusu S/2004 N 1'in keşfi 15 Temmuz 2013'te duyuruldu.
+Gözlem.
+Neptün'ü, Jüpiter'in Galileo uyduları ve cüce gezegen Ceres'den bile düşük olan +7.7 ila +8.0 kadirden arasında değişen parlaklığı sebebiyle çıplak gözle göremeyiz. Bir teleskop veya güçlü bir dürbünle ufak mavi bir disk olarak gözlemlenebilir.
+Dünya'mıza olan uzaklığı sebebiyle görünür boyutları da oldukça küçüktür. Bu da gezegen üzerinde görsel verilere dayalı çalışmaları iyice güçleştirmişti. Hubble Uzay Teleskobu'ndan önce teleskoplardan elde edilen veriler oldukça sınırlıydı..
+Keşif ve Araştırmalar.
+Voyager 2'nin Neptün yakın geçişi, 25 Ağustos 1989 tarihinde gerçekleşti. Daha sonra aynı gün içinde Triton'a da bir yakın geçiş yapıldı. Gezegenin manyetik alanının özellikleri, kendi ekseni etrafında dönüş süresi, hareketli atmosferi, uyduları ve halkaları hakkında birçok bilgi, Voyager 2'nin bu ziyareti sırasında edinildi.
+2003 yılında NASA'nın Neptün'e yollanacak bir uzay aracı önerisi yayınlanmıştı. Uzay aracının 2016 yılında fırlatılması öngörülüyordu ama şu anda projenin geleceği belirsizdir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sirrüs</DOCTITLE>
+<TEXT>
+
+Sirrüs ("cirrus"; Ci), yüksek seviyede (5-13 km) stratiform (katman) bir buluttur. 10 temel bulut tipi arasında en yüksek olanıdır. İpliksi, beyaz; yamalar halinde veya ince şeritler halindedir. Lifli ve ipeksi bir görünüme sahiptir.
+Yapısı.
+Tümüyle buz kristallerinden meydana gelir. Çoğunlukla beyaz ve bazen açık gri renkteki sirrüs bulutu ince yapısı nedeniyle güneş ışığını kolaylıkla geçirir, gölge bırakmaz. Çoğu zaman yaklaşmakta olan bir cephe sisteminin veya tropikal siklonunun işareti olarak kabul edilir. Fakat, kümülonimbüs bulutlarının örs kısmında da oluşabilir. İpliksi ve tül biçimde gökyüzüne dağılan sirrüs bulutları, jet akımlarının yönü akımının yönüne göre gökyüzünde dağılırlar. Troposferin üst seviyelerinde rüzgarın saatteki hızı 150 ile 200 km hızda estiğinden ve sirrüsler de böylesi fırtınalar içinde oluştuklarından aynı yerde çok uzun süre kalmaz.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Şeffaf Küre: Atmosfer (EBA)</DOCTITLE>
+<TEXT>
+
+Ay'da, Dünya’da görülmeyen olaylar gözlenir. Her gün yüzlerce gök taşı (meteor), Ay yüzeyini âdeta bombalamaktadır. İrili ufaklı olan bu taşlar hızla Ay yüzeyine çarpmakta ve derin çukurlar oluşturmaktadır. Ay yüzeyinden bakıldığında gökyüzü simsiyah görünür. Ay’da bulut, sis, yağmur, kar, rüzgâr gibi hiçbir hava olayı oluşmaz. Güneş’ten gelen mor ötesi (ultraviyole) gibi zararlı ışınlar hiçbir tutulmaya uğramadan Ay yüzeyine kadar ulaşır. Ay'da sıcaklık gündüz 130 C iken gece -173 C’e kadar düşer. Bu büyük sıcaklık farkından dolayı taşlar parçalanmış ve Ay yüzeyi kumlarla kaplanmıştır. Gölge yerler tam karanlık ve soğuktur. Hiçbir ses duyulmaz. Bütün bu sebeplerden dolayı Ay’da canlı yaşayamaz.
+Şeffaf bir küre içinde yaşıyoruz. Bu küre gazlardan oluşmaktadır. Yerküre’yi çepeçevre saran bu gazlar yer çekiminden dolayı uzaya kaçmaz.
+Aldığımız her nefesle ciğerlerimize giren ve bize hayat veren gazlardan oluşan bu şeffaf küreye “atmosfer” diyoruz. Atmosfer olmasaydı kuşlar uçamaz, yağmur yağmazdı. Güneş enerjisi ile buharlaşan yeryüzündeki sular uzaya kaçar ve Dünya’da su kalmazdı. Kendi sesimizi bile duyamazdık. Atmosfer buna benzer sayısız olay üzerinde etkilidir.
+TERMOSFER
+Kütle olarak atmosferin az bir kısmını oluşturur. Gazlar burada hidrojen ve oksijen iyonlarına ayrılır. Kısa dalga boyuna sahip enerjinin absorbe edilmesinden dolayı sıcaklık burada artar.
+MEZOSFER
+Yıldız kayması olarak bildiğiniz gök taşlarının (meteor) atmosferde yanması ve parçalanması olayı bu katmanda meydana gelir.
+STRATOSFER
+Stratosferde gazların yoğunluğu azalmış ve sıcaklık stratosferin üst katlarına doğru artmıştır. Bu katmanda bulunan Ozon tabakası Güneş’ten gelen mor ötesi (ultraviyole) gibi zararlı ışınları tutar.
+TROPOSFER
+İçinde yaşadığımız atmosfer katmanıdır. Atmosferde bulunan gazların % 75'i bu katmandadır. Su buharı sadece bu katta bulunur. Bu yüzden her türlü hava olayı troposferde meydana gelir. Bu katmanda yükseldikçe sıcaklık, her 200 m’de 1 °C azalır. Troposferin kalınlığı Ekvator üzerinde 16 km iken, kutuplar üzerinde 9 km'ye kadar düşer. Troposferin üst sınırını sıcaklık şartları belirler.
+Renksiz, keskin kokulu bir gaz olan ozon (03), yüksek enerjiye sahip güneş ışınlarının normal oksijen moleküllerine (02) çarpmasıyla ortaya çıkan oksijen atomlarının (O) diğer oksijen molekülleriyle (02) birleşmesi sonucunda meydana gelir.
+Ozon tabakası yaklaşık %90'ı stratosfer ile mezosfer arasında bulunmaktadır. Yaklaşık 20 km kalınlığındaki bu tabakaya ozon tabakası adı verilir. Ozon tabakası dünya çevresinde eşit olarak dağılmamıştır. Dünya yüzeyi üzerinde herhangi bir yerdeki ozon miktarı; doğal olarak enlemle, mevsimlerle ve günden güne değişim gösterir. Genelde normal şartlar altında ozon tabakası kutuplar üzerinde en kalın ve ekvator etrafında en incedir.
+Stratosferdeki ozon ve oksijen, ultraviyole ışınların çoğunu yutarak dünya yüzeyindeki yaşamı korur. Eğer aksi sözkonusu olsaydı tüm bu zararlı ışınlar dünya yüzeyine erişebileceklerdi.
+Ozon tükenmesi, stratosferik ozonun üretilmesi ve tahribi arasındaki doğal dengenin tahriplerden yana eğilim göstermesiyle meydana gelir. Bunun sonucunda da dünyanın koruyucu stratosferik ozon tabakasında ciddi bir incelme gözlemlenir.
+Tedbirler alınırsa, ozon tabakasını tehdit eden tehlikeler ortadan kalkabilir. Eğer ozona zarar veren maddeler atmosfere bırakılmazsa bu gazların tamamının ışık yardımı ile ayrışması bile yüz yıl sürebilir.
+Günümüzde insanlığın geleceği için zorunlu olan ozonun yok olma tehlikesi, gitgide artıyor. Güneş’ten gelen mor ötesi ışınları süzerek canlılara zarar vermesini önleyen ozon seyrelmesinin önlenmesi tüm insanlığın sorumluluğundadır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kırkikindi yağışları</DOCTITLE>
+<TEXT>
+
+Kırkikindi, Anadolu'da kış ve yaz başlarında genelde öğleden sonra, ikindi saatlerinde görülen konveksiyonel yağışlara halk arasında verilen isimdir. Bu yağışlara, genelde ikindi vakti başladığı ve 40 gün yağdığına inanıldığı için kırk gün, ikindi vakti yağan yağışlar anlamında Kırkikindi yağışları denmiştir. Lakin, 40 gün sürmelerinin bilimsel bir dayanağı yoktur. Bu konveksiyonel yağışların dönem aralıkları sinoptik koşullara göre yıldan yıla fark edebilmektedir.
+Isı kapasitesi, albedo gibi özellikleri açısından farklı karakteristiklerdeki araziler, güneş ışınlarından farklı dozlarda etkilenirler ve atmosferik sınır tabakanın ısınması da alttaki yüzeye göre farklılık gösterir. Bu farklılık, yere yakın tabakada bir heterojenlik oluşturur ve meydana gelen yoğunluk farkı, daha düşük yoğunluktaki (genellikle fazla ısınan) hava parselinin yükselmesini tetikler. Gerçekleşen konveksiyon yeterince güçlü ise gökgürültülü fırtına meydana gelir. Tabii bunda düşey rüzgar kayması ve troposferin üst seviyelerindeki soğuk hava da etkilidir. Kırkikindi yağışları da diğer konvektif yağışlarda olduğu gibi kısa süreli ve ani bastıran sağanaklar şeklinde görülür. Çoğunlukla birkaç saati aşmaz ancak önemli bir miktar bırakır. Koşullar uygun ise dolu da vuku bulabilir.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Jüpiter'in atmosferi</DOCTITLE>
+<TEXT>
+
+Jüpiter'in kalın ve karmaşık bir atmosfer tabakası bulunmaktadır. Bu atmosferi oluşturan gazların bileşim açısından Güneş Sistemi'nin kökenini oluşturan Güneş Bulutsusu'nun varsayılan yapısına yakın olduğu, ve aynı şekilde güneş sisteminin ilkel bulutsudan en az farklılaşmış gezegeni olduğu tahmin edilen Jüpiter'in iç yapısını da kabaca yansıttığı düşünülür. Atmosferin iki temel bileşeni moleküler hidrojen (H2) ve helyum (He)'dur. Bu gazların moleküler dağılımı %88 - %12 civarındadır. Bunları %0.1 oranla su buharı (H2O) ve metan (CH4) ve %0.02 oranla amonyak (NH3) izler. Azot, hidrojen, karbon, oksijen, kükürt, fosfor ve diğer elementleri içeren çeşitli bileşiklere milyonda bir düzeyini geçmeyen oranlarda rastlanmıştır.
+Aslında gaz devlerinin belirli bir yüzeyi olduğu söylenemez, gezegenden atmosfer olarak adlandırılabilecek en dış gaz tabakasına doğru kesintisiz, yumuşak bir geçiş sözkonusudur. Atmosferin değişik katmanları arasında da çok keskin sınırlar bulunmaz. Atmosferin incelerek gezegenlerarası ortamdan ayırdedilemez hale geldiği üst sınırı gibi, basınç ve ısının çok yükseldiği, ideal gaz ortamından uzaklaşılarak gezegenin moleküler hidrojen tabakasındaki sıvı yapıya doğru geçildiği alt sınırı da belirsizdir.
+Troposfer.
+Yer atmosferinde olduğu gibi, yoğun konvektif atmosfer akımlarının ve meteorolojik olayların yer aldığı ve atmosfer kütlesinin büyük kısmını barındıran en alt katman troposfer olarak adlandırılır. Tropopoz adı verilen ve 100 K civarındaki sıcaklığıyla atmosferin en soğuk kısmını oluşturan yüzey, troposfer tabakasını atmosferin daha üst katmanlarından ayırır. Basıncın 0,1 bar (Yer atmosferinde deniz seviyesindeki basıncın onda biri) civarında olduğu bu düzey '0' derinlik olarak alınır. Troposferin en üst bölgelerindeki en yüksek bulutlar amonyak buzundan oluşmuştur ve tropopozun yaklaşık 10 km. altında, sıcaklığın 130 K , basıncın 0,7 bar olduğu düzeyde yer alır. Yeryüzünden bakıldığında Jüpiter yüzeyinde izlenebilen en dış oluşumlar bu bulutlardır. 
+Troposferin derinliklerine doğru inildiğinde, basınç ve sıcaklığın artmasına paralel olarak çeşitli kimyasal bileşiklerin yoğuşmasına bağlı çok sayıda bulut tabakası ile karşılaşılır. 25-35 km. derinlikte, sıcaklığın 200-225 K arasında olduğu alanda amonyum sülfid buzu, 40-70 km. arasında ise katı halde sudan oluşmuş bulutlar yer alır. Bu tabakanın hemen altında su içinde erimiş amonyak damlacıklarından oluşan sıvı nitelikte bir bulut tabakası bulunur. Bunu 100 km. nin altında amonyum halid'lerin, daha derinlerde ise potasyum sülfid, rubidyum sülfid, sodyum oksitin yoğuşmasından meydana gelen bulutlar izler. Sıcaklık ve basıncın devasa boyutlara vardığı 1000 km. altında çeşitli silikat bileşikleri 'kaya bulutları'nı oluşturur. 2500-2700 K sıcaklık ve onbinlerce bar basınçla demir ve diğer ağır metal bileşiklerin yoğuştuğu aralık olan 1400-1700 km. derinlik aşıldığında, tüm bileşenlerin eriyik halinde bulunduğu berrak bir sıvı ortam görünümü ağır basar. 2000 km. derinlikte sıcaklık 3000 K, basınç 50.000 bar, 4000 km. de ise sıcaklık 5000 K, basınç 300.000 bar kadardır. 20.000 km. derinliğe gelindiğinde sıcaklık 10.000 K, basınç 3 milyon bar düzeyine ulaşır. Bu koşullar hidrojenin Van der Vaals tarafından tanımlanan metalik yapıyı aldığı alanı belirler. Atmosferin alt sınırı olarak hangi değerin kabul edileceği bilimsel gerekliliklerden çok, kişisel tercihlere bağlı görünmektedir.
+Atmosfer akımları.
+Jüpiter'i kaplayan bulutların renk açısından büyük farklılıklar gösteren ve ekvatora paralel biçimde dizilmiş çok sayıda kuşaklar oluşturduğu gözlenir. Koyu renkli 'kuşaklar' ile açık renkli 'bölgeler'in sırayla birbirini izlediği, iki komşu alanda egemen olan hava akımlarının birbirine zıt yönde ilerlediği, ve hızı zaman zaman 600 km./saat düzeyine ulaşan rüzgarların, kuşak ve bölgelerin sınırlarında büyük türbülanslara neden olduğu görülür. Bu alanlarda değişik boyut ve renklerde ve değişen sürelerle dairesel yapılar izlenir. Büyük Kırmızı Leke bunların en iyi bilineni ve en azından Jüpiter'in teleskoplarla izlenebildiği üçyüz yılı aşkın sürede varlığını sürdürerek en uzun ömürlü olanıdır. Büyük Kırmızı Leke'nin ve kuşakların renkleri ve kontrastları zaman içerisinde önemli değişiklikler gösterebilmektedir. Ekvatordan kutuplara doğru atmosfer hareketliliği giderek azalır ve kutuplara yakın enlemlerde kuşak yapısı tümüyle kaybolarak yerini daha türdeş bir bulutluluğa bırakır.
+Bu hareketliliğin nedeninin Jüpiter tarafından üretilen büyük miktardaki ısı enerjisi olduğu düşünülür. Atmosferin derinliklerinde, gezegen içinden aldığı ısı ile genleşerek yükselmeye başlayan gazlar, yüzeye doğru yaklaştıkca soğur ve yoğuşma derecelerine göre sıra ile sıvı hale dönüşerek değişik yükseltilerdeki bulutları ve yağışları oluştururlar. Bu yolla tropopoza ulaştığında 'kuru' ve soğuk hale gelen gazlar ağırlaşarak yeniden alçalırlar. Dönüş yolunda ısınma ile birlikte değişik düzeylerdeki yoğuşmuş bileşikleri yeniden içine alarak zenginleşirler. Bu döngü binlerce kilometre uzunluğunda dikey bir yolculuğu gerektirir ve tipik olarak yıllar sürebilir. Jupiter'in ağırlık merkezinden uzaklaşarak yükselen gaz kütleleri sahip oldukları açısal momentumu koruyarak gezegenin dönüş hızının gerisinde kalırken, alçalan kütleler hızlanırlar. Coriolis etkisi adı verilen bu durum art arda gelen kuşaklarda sıra ile doğu-batı ve batı-doğu yönünde zıt akımların oluşmasına yol açar. Yükselen sıcak gaz kütlelerinin oluşturduğu antisiklon 'bölge'lerinde bulutların yüksekliği, alçalan soğuk ve kuru gazlardan oluşan siklon 'kuşak'larına göre çok daha fazladır. Nemli bölgeler gezegenin yüksek yansıtıcılığa sahip açık renkli alanlarını oluşturur. Kuru gazlar ise atmosferin çok daha derinlerine kadar inen bir görüş alanına izin verir ve koyu renkli kuşakları meydana getirir. 15o Kuzey ve 15o Güney enlemleri arasını kaplayan Ekvator Kuşakları'ndaki 380 km./saat hızında batı-doğu yönünde sürekli hava akıntısı, Jüpiter'in ekvatorda kutuplara oranla daha hızlı döndüğü izlenimi verir ve bu nedenle gezegen için 9 saat 50 dakika 30 saniye süren Sistem I ve 9 saat 55 dakika 41 saniye süren Sistem II olmak üzere iki ayrı dönüş süresi tanımlanmıştır. Radyo dalgalarının ölçümü ile belirlenen Sistem III ise gezegenin manyetik iç yapılarının dönüş hızını gösterir ve hemen hemen Sistem II ile yani kutuplardaki atmosferin dönüş hızı ile eşdeğerdir.
+Kutupların yakınında bölge ve kuşakların görülmemesi, Coriolis kuvvetlerinin bu enlemlerde önemini yitirmesi ile ilişkilidir. Yükselen ve alçalan gaz sütunlarının bu bölgelerde de varlığı, benek ya da halkalar şeklinde gözlenen farklı renklere sahip atmosfer yapıları ile doğrulanmaktadır. Ayrıca ekvator ve kutuplar arasında hemen hemen hiç sıcaklık farkı gözlenmemesi, atmosfer içindeki ısı aktarımının tüm enlemlerde etkin bir biçimde sürdürüldüğünü düşündürmektedir.
+Çok yeni veriler, koyu renkli kuşaklarda da yükselen gaz hücrelerinin oluşturduğu küçük açık renkli alanların bulunduğunu ve net gaz hareketinin yükselme yönünde olabileceğini düşündürmektedir. Bu çelişkili bulgular henüz tam olarak aydınlatılabilmiş değildir. 
+Stratosfer.
+Tropopoz düzeyinin üzerinde hem dikey, hem de yatay hava akımlarının çok az olduğu, yoğunlaşma ve bulutların bulunmadığı stratosfer tabakası yer alır. Bu katmanda fotokimyasal etkinlik ön plandadır ve atmosfer bileşimini ve özelliklerini etkileyen en önemli mekanizmadır. Güneş‘ten kaynaklanan morötesi ışınımların etkisi altında gerçekleşen bu tepkimelerin sonucunda bazı kimyasal bileşikler parçalanarak eksilirken, bazı yeni bileşiklerin oluşması ve atmosferin daha alt tabakalarına 'yağması' ile Jüpiter‘in kimyasal bileşimi yavaş ama sürekli biçimde değişmektedir. Soğurulan güneş ışınlarının bıraktığı enerji nedeniyle stratosferde sıcaklık troposferdekinden daha fazladır ve yükselti ile birlikte artmaya devam eder. En yüksek sıcaklığın olduğu düzey stratosferi mezosferden ayıran 'stratopoz'u belirler. 
+Mezosfer.
+Tropopoz düzeyinden yaklaşık 150 km. yükseklikte başlayan mezosfer, 300 km. yüksekliğe dek devam eder. Burada daha da seyrelmiş olan atmosferde, stratosferdekine benzer fotokimyasal etkinlik devam eder. Sıcaklık bu katman boyunca 180K civarında sabittir. 
+Termosfer.
+Mezosferin üst sınırını belirleyen türbopoz düzeyinin üzerinde Güneş kaynaklı morötesi ve X ışınlarının etkisi ile 750K sıcaklığa ulaşan termosfer tabakası bulunur. Bu katmanın üst kısımları yüksek enerjili ışınların etkisi ile iyonize duruma geçmiş atomlar ve serbest elektronlardan zengindir, bu nedenle iyonosfer olarak da adlandırılır. 
+Egzosfer.
+Jüpiter atmosferinin en üst tabakalarında, yavaşca yerini güneş rüzgarı ve gezegenlerarası ortama bırakan çok seyrelmiş hidrojen atomlarını içeren geniş bir alan bulunur. Bu alanın ısı dengeleri incelendiğinde, gezegenin kütleçekim gücünün dış kaynaklı ışınımların etkilerine açık farkla baskın çıktığı ve Venüs, Yer, ve Mars gibi küçük gezegenlerin aksine Jüpiter atmosferinden hafif gazların kaçışının olanaklı olmadığı görülür. Bu nedenle Güneş sistemi'nde bugün varolan koşullar devam ettiği sürece Jüpiter ve sisteminin yapısının korunacağı sonucuna varılabilir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Everest Dağı</DOCTITLE>
+<TEXT>
+
+Everest Dağı, (Tibetçe: Çomolungma, Nepali: Çonnolugma Sagramata), dünyanın en yüksek dağı. Himalayalarda, yaklaşık 28 derece kuzey enlemi ile 87 derece doğu boylamında, Çin–Nepal sınırı üzerinde yer alır. Çıplak Güneydoğu, Kuzeydoğu ve Batı sırtları en yüksek noktalara Everest (8.848 m) ile Güney doruğunda (8.748 m) ulaşır. Everest Dağı Kuzeydoğudaki Tibet platosundan (yaklaşık 5.000 m) tam olarak görülebilir. Eteklerinden yükselen Çangtse, Khumbutse, Nuptse ve Lhotse gibi doruklar Nepal'den görülmesine engel olur.
+İsim.
+İngiltere'nin Hindistan sömürge yönetiminin kadastro genel müdürü George Everest'ten sonra yerine göreve gelen Andrew Waugh, dağa isim olarak selefi Everest'in adını öneren bir teklifi Londra Kraliyet Coğrafya Cemiyeti'ne sundu. Teklif kabul edildi. 1865'te, daha önce yapılan itirazlara rağmen dünyanın en yüksek dağının adı Everest olarak belirlendi. Dönemin en güçlü imparatorluğunun kültürel nüfuzuyla bütün dünyada bu dağ için Everest adı yaygınlık kazandı.
+Türkçe'de dağa Everest denmeden önce dağın Tibetçe yerel adı Çomolunma'nın Osmanlı Türkçesine uyarlanmış versiyonu kullanılmaktaydı. Bu ismin kullanıldığına İslam alimlerinden Said Nursi'nin 1911 (H. 1327) senesinde basılan "Muhákemat" adlı eserinde rastlanmaktadır. Müellif, Kaf Dağı'na değindiği bir yerde Everest'ten şöyle bahsetmektedir:
+Kaf Dağı, ekser şarkı ihata eden ve eski zamanda bedevi ve medenilerin aralarında fasıl olan ve azam-ı cibal-i dünya olan Çamularının annesi olan Himalaya silsilesidir. Bu silsilenin ırkından cibâl-i dünyanın ekserisi teşâub eyledikleri denilir. Bu hâl öyle gösteriyor ki, "Kaf"ın dünyaya meşhur olan ihatanın fikir ve hayali bu asl-ı teşâubdan neşet etmiş olmak gerektir. 
+Oluşumu.
+Büyük Himalayaların oluşumu, Miyosen Bölümde (yaklaşık 26-27 milyon yıl önce) Hindistan yarımadasıyla Tibet yaylasının birbirine yaklaşmasının yol açtığı, jeolojik tortul havzalardaki sıkışmayla başladı. Bunu izleyen evrelerde Katmandu ve Khumbu napları (kırık ve devrik yamaç kıvrımları), sıkışıp yukarı doğru çıkarak birbirlerinin üzerine kıvrıldılar ve ilkel bir dağ sırası oluşturdular. Kuzeydeki arazi kütlesinin toptan yükselmesi, bölgenin yüksekliğini arttırdı. Napların yeniden kıvrılmasıyla bölgenin tümü yeni bir tabakayla örtüldü ve Pleyistosen Bölümün (yaklaşık 2,5 milyon yıl önce) Mahabarat Evresinde Everest Dağı ortaya çıktı. Karbonifer Dönemin (yaklaşık 345-280 milyon yıl önce) sonu ile Permiyen Dönemin (280-225 milyon yıl önce) başından kalan ve başka yarı-kristalleşmiş tortullarla ayrılmış olan kireçtaşı katmanları, senklinal katmanlaşma yoluyla biçimlendi. Günümüzde de süren bu biçimlenmenin yol açtığı sürekli yükselme aşınımla dengelenmektedir.
+İklimi.
+Everest Dağı, troposferin üçte ikisini geçerek oksijenin az olduğu üst katmanlara ulaşır. Oksijen eksikliği, hızı saatte 100 km ye varan sert rüzgarlar ve zaman zaman -70 dereceye kadar düşen aşırı soğuklar yukarı yamaçlarda herhangi bir hayvan ya da bitkinin yaşamasına olanak vermez. Yaz musonları sırasında yağan kar rüzgarla ufalanarak yığılır. Bu kar yığıntıları buharlaşma çizgisinin üzerinde olduğundan genellikle buzulları besleyen büyük buzkar çanakları oluşmaz. Bu nedenle Everest’in buzulları yalnızca sık sık düşen çığlarla beslenir. Ana sırtlarla birbirinden ayrılan dağ yamaçlarındaki buz katmanları dağın eteklerine kadar bütün yamacı kaplamakla birlikte, zaman içinde iklimin değişmesiyle ağır ağır çekilmektedir. Kış aylarında kuzey batıdan gelen güçlü rüzgarlar karları süpürerek doruğun daha çıplak bir görünüm kazanmasına yol açar.
+Buzullar.
+Everest Dağındaki başlıca buzullar Kangşang Buzulu (doğu), Doğu ve Batı Rongbuk Buzulları (kuzey ve kuzeybatı), Pumori Buzulu (kuzeybatı), Khumbu Buzulu (batı ve güney) ve Everest ile Lhotse-Nuptse sırtı arasında kapalı bir buz vadisi olan Batı Buzyalağıdır.
+Akarsular.
+Dağdan çıkan sular birbirinden ayrılan kollarla güneybatı, kuzey ve doğu yönünde akar. Khumbu Buzulu eriyerek Nepal’de Lobucya Khola Irmağı'na karışır. İmca Khola adını alarak güneye doğru akan bu ırmak Dudh Kosi Irmağıyla birleşir. Çin’deki Rong Çu Irmağı Everest’in yamaçlarında Pumori ve Rongbuk buzullarından Karma Çu Irmağı ile Kangsang Buzullarından doğar.
+Tırmanış Girişimlerinin Tarihi.
+İlk denemeler
+Everest´i feth etme girisimlerinin tarihi 1904 senesine dayanir. Ancak ilk deneme tarihi olarak her ne kadar zirveye varma amaci olmamasina, sadece jeolojik ölcüm ve olasi zirve yolunun tespitine dayali olamasina ragmen 1921 senesi olarak alinabilir. Zamanin Ingiltere Kralligi adina görevlendirilen George Mallory ve Lhakpa La yaklasik 31 bin kilometrekarelik bir alanin Jeolojik ve Topografik analizlerini yapmislar ve olasi zirve tirmanisi icin kuzey yamaci rotasini tespit etmislerdir. 1922 ile 1924 seneleri arasinda zirve tirmanisi bir cok deneme olmasina ragmen hepsi basarisizlik ile sonuclanmisdir. 1930 ile 1950 yillari arasinda kayda deger bir zirve tirmanis denemesi olmamistir. Buradaki etken sebeb ise 2. Dünya savasi ve bölgenin siyasi yapilanmasi olarak adlandirilabilir..
+İlk başarı
+1953 senesinde Ingiliz Kraliyet Cografya Dernegi destegi ile John Hunt liderliginde iki ekip olusturulmustur. Ilk ekip Tom Bourdillon ve Charles Evans den olusmustur kapali oksijen sistemi kullanan bu ekip 26 Mayisda güney zirvesine ulasmalarina ragmen Bourdillon´un babasi tarafindan gelistirilmis olan kapali oksijen sisteminin donmasi sebebi ile tirmanisin son asamasini gerceklestiremeden geri dönmek zorunda kalmislardir. Ikinci ekip ise Edmund Hillary, Tenzing Norgay ve Ang Nyima dan olusmustur. Acik oksijen sistemi kullanan bu ekipden Edmund Hillary ve Tenzing Norgay 29 Mayis saat 11:30 da Everest zirvesine ulasmislardir. ( Ang Nyima 8510 metrede tirmanisi birakip tekrar inise gecmistir.) Everest tirmanisinin en zorlu etaplarindan bir tanesi günümüzde Edmund Hillary anisina Hillary Step olarak anilmaktadir.
+Türk Dağcılar.
+Everest'e tırmanan ilk Türk dağcı 1995 yılında Nasuh Mahruki oldu. Eylem Elif Maviş ise 2006'da Everest'e tırmanan ilk Türk kadın oldu. Aynı tırmanış, Türklerden oluşan bir ekibin ilk Everest zirve çıkışıydı. Ekibin hedeflerinden olan ilk Türk oksijensiz tırmanışını ekip lideri Serhan Poçan ve Bora Maviş gerçekleştirmeyi denemekle birlikte, zirveye oksijenle çıkacaklardır. 2007 yılında Fenerbahçe Spor Kulübü'nün 100. kuruluş yılı etkinlikleri kapsamında Tunç Fındık ve Mustafa Kalaycı beraber zirve yaptılar. 2010 yılında Nasuh Mahruki ve Yılmaz Sevgül güney rotası üzerinden tırmanış gerçekleştirmişler ve 23 Mayıs 2010 günü zirveye ulaşmışlardır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hiroşima'ya atom bombası saldırısı</DOCTITLE>
+<TEXT>
+
+Hiroşima'ya atom bombası saldırısı, II. Dünya Savaşı'nın son aşamasında 6 Ağustos 1945 Pazartesi saat 08:15'te Amerika Birleşik Devletleri'nin Uranyum-235 tipi atom bombası "Little Boy" (Küçük Oğlan) ile gerçekleştirdiği saldırı. Nagasaki'ye düzenlenen atom bombası saldırısı ile birlikte askerî tarihinde gerçekleştirilen yegane nükleer saldırısıdır. 1945 yılının sonuna kadar Hiroşima'da atom bombası saldırısından dolayı yaklaşık 140.000 kişi hayatını kaybetti. 
+Amerika Birleşik Devletleri önceden Japonların hayat ve hareket tarzlarını araştırarak onların en çok dışarıda oldukları saatini saptamış ve saldırı saatini sabah 08:15 olarak kararlaştırmıştı.
+Japonya 10 Temmuz 1945'te Yüksek Savaş Yönetimi Kongresinde Sovyetler Birliği aracılığıyla müzareke yolunu aramak üzere Fumimaro Konoe'yi özel elçi olarak yollamayı kararlaştırarak Sovyetlere teklif ettiyse, 17 Temmuz 1945'te Almanya'nın Potsdam kentinde Müttefikler liderleri Harry S. Truman, Winston Churchill ve Josef Stalin'in katılımıyla Potsdam Konferansı açıldı ve ertesi gün Sovyetler Birliği Japon özel elçinin yollanmasını reddetti.
+26 Temmuz 1945'de Müttefikler "Potsdam Demeci" ile Japonya'yı teslim olmaya çağırdı. Ancak ilanın taslağında varolan İmparatorluk sisteminin korunmasına dair madde kaldırıldığı için Japon Başbakanı Kantarō Suzuki Potsdam Demecini kabul edemedi. Böylece Japonya'nın teslim isteği geri çevrilmiş oldu. Amerika Birleşik Devletleri Hiroşima'daki saldırısından sadece 3 gün sonra 9 Ağustos 1945 saat 11:02'de Nagasaki'de Plütonyum-239 tipi atom bombası "Fat Man" (Şişko Adam) ile ikinci saldırı gerçekleştirdi.
+Hedefleri.
+12 Nisan 1945'te Franklin Delano Roosevelt öldü ve yerine Devlet Başkanlığı'na getirilen Truman, atom bombası saldırılarının zaman ve mekânını seçme işlemlerini başlattı. 27 Nisan 1945'te düzenlenen Hedef Tetkik Komitesi'nin ilk toplantısında 17 bölge incelemeye alınmak üzere seçildi.
+Hedef Adayların Kriterleri.
+Aynı gün aday seçilen 17 kent: (Daha önceki saldırılarıyla imha edilen kentler hariç etme şartı konulmuştu.)
+'Patlama rüzgârının etkisi ölçlenebilecek coğrafiye sahip olması şartı ilave edildikten sonra 11 Mayıs 1945'te düzenlenen Hedef Tetkik Komitesi'nin ikinci toplantısında hedefin Kyoto, Hiroşima, Yokohama ve Kokura kentleri oldu. Daha sonra Kyoto'nun yerine Niigata seçildi.
+28 Mayıs 1945'te atılacak olan Atom bombası'nın etkisini ölçebilmesi maksadıyla seçilen dört kente herhangi hava saldırı yasaklandı. Bunun yan etkisi olarak 'Oraya hava saldırı yok.' söylentileri yaratıldı ve milletin oralara yapılan yoğun göcün sebebi oldu.
+1 Haziran 1945 tarihli toplantısında Hedefin imajı olarak 'Etrefında işçi evlerinin bulunduğu Askerî Sanai Bölgesi'nden bahsedildi ve atom bombasını atmadan önce herhangi ikazın edilmeyeceği kararlaştırıldı
+14 Haziran 1945'te Kyoto ve Yokohama hedef adaylarından düşürülerek yerine Nagasaki seçildi.
+25 Temmuz 1945'te Truman son emrini verdi. Ona göre 'Özel Bomba' 3 Ağustos 1945 tarihten sonra gözle görerek atması mümkün olduğu günü seçerek Hiroşima, Kokura, Nagasaki ve Niigata'dan birine karşı atılacaktı. 
+2 Ağustos 1945 tarihli '13. Stratejik Emri' ile Niigata hedeften çıkarıldı ve birinci Hedefi: 'Hiroşima ve onun sanai bölgesi', ikinci hedefi: 'Kokura Silâhanesi ve onun şehir merkezi', Yedekte üçüncü Hedefi 'Nagasaki'nin şehir merkezi' olarak kararlaştırıldı.
+Hazırlıklar.
+509. Mürettep Grubu.
+Aralık 1944'te Franklin Delano Roosevelt'in emriyle Kara, Deniz ve Hava kuvvetlerinden toplanan 1767 personeli ve Albay Paul W. Tibetts'in komutanlığında 509. Mürettep Grubu kuruldu. Önce Utah eyaletinde çöl içindeki üste tatbikata başlayarak Mayıs 1945'te Tinian Adası'na taşındı. 'Gümüş Tabak'(Silverplate) kod adılı ve Atom bombası saldırıları için özel donanımlı B-29 tipi Bombardıman Uçakları 393. Bombardıman Filosu'ndan Tinian Adası'na nakledildi. 15 Silverplate şunlardır:
+Balkabağı bombası (Pumpkin bombs) Tatbikatı.
+20 Temmuz 1945'ten sorna 509. Mürettep Grubu, şeklen 'Fat Man'ın tıpkısına 2.858 kiloluk TNT'yi doldurulan Balkabağı bombası (ağırlık: 4.774 kilo) ile bombardıman tatbikatı gerçekleştirdi. Tinian Adasından 24, 26, 29 Temmuz ve 8, 14 Ağustos tarihlerinde toplam 49 kez olmak üzere 30 şehire attılar.
+Atom bombasının Nakliyesi.
+Atom bombasının parçalarının nakliye görevi Portland sınıf Ağır Kruvazör "USS Indianapolis (CA-35)" üstlendi. 16 Temmuz 1945'te San Francisco limanından hareket ederek 26 Temmuz 1945'te Tinian Adasına ulaştı. Kara Kuvvetleri Hava Birliğine bağlı C-54 Nakliye Uçağı Uranyum-235'nın nişangâh parçasını nakletti ve Atom bombası Tinian Adasında gizlice monte edildi.
+Görevini tamamlayan "Indianapolis" 28 Temmuz 1945’te Guam Adası'na uğrayıp Leyte Adasına doğru yola çıktı. Ve 30 Temmuz 1945’te Filipinler Denizinde Deniz Yrb. Mochitsura Hashimoto komutasındaki Japon Denizaltı I-58 tarafından batıldı. Geminin ekibi 1.199 kişi arasında yaklaşık 300 kişi denizaltının hücumuyla öldü ve geri kalan yaklaşık 900 kişi ise 5 gün denizde kaldı. Açlık ve köpekbalıklarının hücumlarıyla sadece 316 kişi hayatta kalabildi. Jaws filminde Robert Shaw, "Indianapolis" ekibi olup hayata kalan Quint rolünü oynuyor.
+Harekât.
+Harekât Emri.
+2 Ağustos'ta Guam Adasında bulunan 20.Hava Birlikleri karargâhı Tinian Adasında konuşlandırılan 509. Mürettep Grubuna 'çok gizli' emir verdi.
+Harekât Emri (Field Order No.13) Tarih: 2 Ağustos 1945
+Saldırı Günü: 6 Ağustos 
+Saldırının Hedefi: Hiroşima şehir merkezi ve sanaî bölgesi 
+Yedekte ikinci hedefi: Kokura Silahanesi ve şehir merkezi 
+Yedekte üçüncü hedefi: Nagasaki şehir merkezi 
+Özel direktif: Bomba gözle görerek atılacaktır
+Hazırlıkları.
+4 Ağustos'ta B-29 tipi bombardıman uçaklarından "Enola Gay" son tatbikatını bitirip Maliana Adalarına Tinian Adası Kuzey Havaalanına döndü. 
+5 Ağustos'ta 509.Mürettep Grubuna bağlı B-29 uçağı Hiroşima üzerinde keşif uçuşu yaparak 'Yarın Hiroşima'nın havası güzel olacak' diye Tinian Adasına bildirdi. "Enola Gay" komutanı Albay Paul Tibetts (23 Şubat 1915 - 2 Kasım 2007) 'Bu geceki harekâtımız tarihîdir' diyerek takmına hareket emrini bildirdi.
+Kalkışları.
+6 Ağustos gece yarısı 0:37 hava ölçme cihazlarla donatılmış 3 B-29 tipi bombardıman uçağı havaya kalktı. "Straight Flush" (komutanı: Binbaşı Claude Robert Eatherly) Hiroşima'ya, "Jabit III" (komutanı: Binbaşı John A. Wilson) Kokura'ya ve "Full House" (komutanı: Ralph R. Taylor) Nagasaki'ye uçtu. 
+0:51 yedek olan "Top Secret" (komutanı: Yüzbaşı Charles F. McKnight) Iwo Jima adasına uçtu. 
+1:27 Atom bombasını taşıyan "Enola Gay"ın piste girişine izin verildi. 
+1:45 pist A'dan havalandı. 
+1:47 Atom bombasının gücünü ölçmekle görevlendirilen "Great Artist" (komutanı: Yüzbaşı Charles D. Albury) kalktı. 
+1:49 Fotoğraf çekmekle görevlendirilen "Nesesarry Evil" (komutanı: Yüzbaşı Norman W. Ray) kalktı. 
+Tinian adasından Hiroşima'ya kadar 7 saatle varılır.
+Şikoku üzerinde.
+Sabah 6:30 Little Boy'un detonatorundan yeşil bujiyi kaldırarak yerine kırmızı bujiyi koydu. 
+Tibbets 'Arkadaşlar bizim taşıdığımız silah dünyanın ilk atom bombasıdır' diyeyek ekibine ilk defa açıkladı. Ardından "Enola Gay"in radarı'nda parlak nokta göründü. "Enola Gay" kaçış ve irtifa dalış hareketine geçerek 2000 metreden 8700 metreye yükseldi.
+Şikoku üzerini geçerken Japon Ordusu'nun radar tarafından yakalandı ve 1.geçişinde Japon avcı uçağı ateş ettiyse zarar veremedi. Japon uçağı yarım tur hareketiyle 2.geçişinde ateş etmeyi denediyse de ateş pozisyonu işgal edemedi.
+Hiroşima üzerinde.
+Saat 7'de "Enola Gay"den önce kalkmış olan "Straight Flush" Hiroşima üzerine ulaştı. Komutanı Binbaşı Claude Robert Eatherly, "Enola Gay"e 'Hava açık tarihî bombardman harekâtımıza engel yok. Görüş uzaklığı 10 mil, irtifa 15.000 feette bulut kalınlığı 12'de 1' diye bildirdi. Hedefi Hiroşima olarak kararlaştırıldı. 
+07:09 Japon Ordusu "Straight Flush"u buldu ve hava akın ikaz duyuruldu. 
+07:31 "Straight Flush"un Hiroşima'yı terketmesiyle hava akın ikaz iptal edildi. 
+08:09 "Enola Gay" Hiroşima şehir merkezini gözle gördü. 
+08:10 Japon Ordusu Hiroşima İline girdiği 3 B-29 uçağını yakalanıyordu ve birkaç dakika sonra Hiroşima'da Chūgoku mıntıkası komutanlığı hava akın ikaz duyurmaya hazırladı. 
+"Enola Gay" artık Hiroşima'nın üzeriyde irtifa 31600 feet (9632 metre)'teydi. Önce hava basıncını ölçmek amacıyla birer radiosonde'yi taşıyan 3 paraşütü attı. 
+08:12 "Enola Gay"in navigatörü İşaret Noktası'(Initial Point)na girdiğini Tibetts'e bildirdi ve uçak otopilot uçuşuna geçti. Bombacı Norden Bombardıman Nişahgâhı (Norden bombsight)'na irtifa, yer hızı, sıcaklık, nemlilik ve sair data verildi. Hedef Noktası (Aiming Point)'nı Aioi köprüsüne kilitledi. 
+08:13 Hiroşima'da tekrar hava akını ikaz duyuruldu: "Chūugoku mıntıkası komutanlığı bildirisi: Düşmanın 3 büyük uçağı Saijō üzerinden batıya ilerlemektedir. Ciddî tedbirleri lazımdır." 
+08:15 "Enola Gay" Little Boy'i attı. 
+Atom bombası 43 saniye düşmeye devam etti ve saat 08.16'da yaklaşık 600 metre yüksekliğinde patladı.
+Dönüşü.
+"Enola Gay" Atom bombasını attıktan hemen 155 derece keskin dönüşle uzaklaştı. Ancak bombasının yarattığı rüzgarı "Enola Gay"i de şiddetle salladı. Albay Paul Tibbets Japon uçaksavarının atışı zannederek ‘Uçaksavar!' diye bağırdı. Saat 14:58'de "Enola Gay" Tinian Adasının kuzey meydanına döndü. Stratejik Hava Kuvvetleri Genelkomutanı Geçici Orgeneral Carl Spaatz, Paul Tibbets'e Uçuş Temayüz Madalyası ve diğerlere Uçuş Madalyasını taktı.
+Etkileri.
+1) Ani Etkiler (Patlamadan sonra ilk 1 dakika içerisinde meydana gelir)
+-Işık, 
+-Isı,
+-Ani Nükleer Radyasyon 
+-Basınç (Blast)
+-Elektromanyetik Pals
+2) Kalıntı Etkiler (Radyoaktif Serpinti)
+Radyoaktif serpinti bomba patladıktan 30-60 dakika sonra başlar. Nükleer infilakın bütün etkilerini 100 kabul edersek, bu etkilerden:
+-%35'i Isı (Işık ile birlikte gelmektedir).
+-%5i Ani Nükleer Radyasyon
+-%45'i Basınç (Blast) 
+-%15'i Kalıntı Etki (Radyoaktif Serpinti) 
+olarak karşımıza çıkmaktadır.
+ANİ ETKİLER
+1. Işık
+Nükleer şimşek adı da verilen bu ışık güneşten birkaç defa parlak olduğu için pırıl pırıl güneşli bir günde bile bir nükleer infilakı rahatça haber verebilecek niteliktedir. Ancak, muayyen-mesafeler için çıplak göze, direk ulaştığı takdirde 15-45 dakika süren geçici bir körlüğe sebep olmaktadır. Nükleer şimşekten korunmak için saydam olmayan her çeşit ekrandan istifade edebiliriz. Bu ekran, ince bir kağıt bile olabilir. (Işığın öldürme gücü olmadığından % hesabında ayrıca yer verilmemiştir).
+2. Isı 
+Nükleer ısı radyasyonları, nükleer şimşeğin beraberinde gelmektedir. Bu sebeple belirli bir uzaklıkta ve açıkta bulunan şahıslar için çok tehlikeli olurlar. 
+Isı radyasyonlarının özellikleri:
+-Devamlıdır, 
+-Çok süratlidir, 
+-Çevre, ısısını ani olarak yükselttiğinden geniş çapta yangınlara sebep olur,
+-Mesafe ile azalır,
+-Nüfus hassası yoktur şeklinde özetlenebilir.
+Bu özelliklere göre ısı radyasyonları incelenirse görülür ki ışık hızındadırlar ve silahın kudreti ile değişen bir devamlılıkları vardır. Ancak infilak yerinden uzaklaştıkça şiddetini kaybetmekte ve saydam olmayan bir hail (ekran) tarafından hailin tutuşma ve yanma kabiliyeti ile ters orantılı olarak durdurulabilmekte ya da şiddeti azaltılabilmektedir. Yine bu yüzden belirli çevrelerde çok şiddetli (yanma kabiliyetinde olan her şeyin tutuştuğu) ve yine belirli çevrelerde çabuk tutuşan maddelerin çıkardığı yangınlar görülmektedir.
+3. Ani Nükleer Radyasyon 
+Öldürme kudretinde olan bir etki de ani nükleer radyasyondur. Bu etkilerden söz edilince hemen akla gelen en önemli tehlikeler; alfa ve beta partikülleri ile nötronlar ve gama ışınlarıdır. Bunlardan:
+a) Alfa Zerreleri 
+2 nötron, 2 protonu olan pozitif elektrik yüklü partiküllerdir. Menzilleri birkaç santimetre içinde olup nüfuz hassasları yoktur.
+b) Beta Zerreleri 
+Negatif elektrik yüklü ve çok küçük kitlesi olan bir iyondur. Menzili 4-5 metre kadar olup nüfuz kabiliyeti bulunmamaktadır.
+c) Nötronlar 
+Elektrik yükü olmayan fakat atom çekirdeklerinden fırladıklarında radyoaktif olmaya müsait cisimlerin atomlarını parçalayıp onları suni olarak radyoaktif hale getiren zerrelerdir. Büyük tehlike yaratacak kabiliyettedirler fakat menzilleri 100 metreden biraz fazladır.
+d) Gama Işınları ve Gama Işınlarının Özellikleri
+Yüksek frekanslı elektromanyetik dalgalar halinde intişar eden bu etkinin hem uzun menzilli ve kitlesiz oluşu, hem de engel tanımayan bir nüfuz kabiliyeti bulunuşu tehlikeyi çoğaltmaktadır. Bu sebeple Ani Nükleer Radyasyon denince hemen "Gama Işınları" akla gelir.
+Gama Işınlarının Özellikleri 
+-Devamlıdır,
+-Çok süratlidir, 
+-Hissedilmez, 
+-Büyük bir nüfuz hassası vardır,
+-Kısa bir süre için tesirlidir,
+-Öldürücüdür,
+-Cansızlara etkisi yoktur.
+Şu halde gama ışınları bir dakika ya da biraz fazla devamlılığı olan, ışık hızında intişar eden, duyu organları ile varlığını anlamak mümkün olmayan ve hücreleri iyonize ederek insanı hasta edip öldürebilen bir tehlikedir. Bunlardan daha önemlisi bu ışınları hiçbir engelin tamamen durdurma imkanı sağlayamamasıdır.
+Önemli özelliği kısa bir süre için etkili oluşudur ve cansızlara etkisi olmadığından herhangi bir yan etkisi söz konusu değildir. Örneğin: Gama ışını etkisinde kalmış gerek su, gerek çiğ ve pişmiş gıda maddelerinin içilip yenilmesinden bir zarar doğmayacağı gibi maden, taş ve toprak gibi diğer maddeler de ayrıca bir tehlike teşkil etmezler.
+Burada korunma yönünden en çok üzerinde durulması gereken, özellikle gama ışınlarının nüfuz kabiliyetidir Hailler (engeller), yoğunluklarına göre gama ışınlarını durdurma yeteneğine sahiptir. Yoğunluğu en çok olan madde, en fazla yarı kalınlık veren maddedir. Bildiğimiz maddelerin yoğunluklarına göre hangi kalınlıkların yarı kalınlık sayılabileceğini şöyle sıralayabiliriz.
+4. Basınç (Blast) 
+Ateş topundan yayılan yoğun ısının genişleyerek havayı itmesi sureti ile meydana gelen basınç etkisi, infilak yerindeki boşluğu dışarıdan soğuk havanın hücum etmesi yüzünden iki yönlü olarak görülür. İlk tesir sırasında tamamen yıkılmayan binaların, emme safhası da denilen ikinci safhada yıkılmaları bu sebeptendir.
+Genel etki tablosunda %45 olarak gösterilen basınç etkisinin özellikleri: 
+-Devamlıdır, 
+-Yavaş seyreder (Ses hızından), 
+-Endirekt yangınlar çıkarır,
+-Bina ve köprüleri yıkar.
+Bu özellikleri biraz açarsak korunma bakımından bazı faydalı sonuçlar elde etmek mümkün olur. Silahların kudretine göre devamlılık süresi değişen etki, diğer etkiler gibi ışık hızında değil, ses hızında etrafa yayılmaktadır (340 m/s). Bu yavaş gidiş, bilhassa açıkta bulunanların diğer tesirlerinden zarar görmemeleri halinde basınçtan korunma için zaman kazanmalarını mümkün kılar. Nükleer şimşek kendileri için bir ikaz vazifesi görecek ve bu şahıslar korunacak bir yer tedarik edebileceklerdir. Bina ve köprüleri yıkar diye kısaca ifade edilmesinin sebebi büyük bir yıkma ve parçalama gücünün varlığını anlatmaktır. O kadar ki 20 KT.luk bombanın killi toprak sathında infilakı halinde 90 metre yarıçapında ve 12 metre derinliğinde bir kuyu (krater) açabildiği söylenirse basınç gücünün azameti kolayca anlaşılacaktır. Hele bu silah 10 MT.luk ise bu kraterin derinliği 51, yarıçapı 660 metre olacaktır.
+Böyle bir basıncın harap edeceği binalarda birçok elektrik kontağı, havagazı patlaması ve daha çok mevcut ateşin dağılması sonucunda sayısız yangın başlangıçları da görülecektir. Bu yangınlar endirekt yangınlar diye adlandırılmışlardır.
+5. Elektromanyetik Pals
+Elektromanyetik pals, elektronik devreler kullanan modern cihazları bozmak, istenmeyen sinyal çıkarmasına neden olmak suretiyle malzeme hasarına neden olur.
+KALINTI ETKİLERİ (Radyoaktif Serpinti)
+Gelecekteki savaşların tehlikelerinden belki en büyüğü olan nükleer silahların, yurt ölçüsünde karış karış, taş taş korunulması gereken tek etkisi müteakip tehlikedir. Bu tehlike "Kalıntı Etkileri" veya "Radyoaktif Serpinti" diye de adlandırılabilir. Bu tehlikenin meydana gelebilmesi için nükleer bombanın yere veya yere yakın infilak ettirilmesi şarttır. Örneğin; İkinci Dünya Savaşı sırasında Japonya'nın Hiroşima ve Nagazaki şehirleri üzerine atılan 20'şer kilotonluk atom bombaları 305 metre (1000 feet) yükseklikte patladıkları için havada infilak sayılır. Zira 20 kilotonluk bomba için serpinti hasıl edebilecek en fazla yükseklik 180 metredir. 
+Verilen örnekten çıkarılan sonuç şudur; 
+Nükleer silahlar kudretlerine (ateş topu yarıçaplarına) göre değişen belirli bir yüksekliğin üzerinde infilak ederse radyoaktif serpinti tehlikesi meydana getirmezler. İşte her silah için başka olan bu yüksekliğe Kritik Yükseklik denir. Bu yükseklikten başlamak üzere daha aşağıya inildikçe serpinti tehlikesi artacak ve satıhtaki infilakta en çok olacaktır. Bunun sebebi satıh infilaklarında arz sathında bulunan taş, toprak, sıva, tuğla gibi maddelerle kalay, nikel, demir, bakır, alüminyum ve daha akla gelebilecek her çeşit maddelerin veya toprak içindeki filizlerin en fazla parçalanabilmesi ve en fazla nötron etkisine maruz kalarak en fazla radyoaktif hale gelebilmesidir. Radyoaktif hale gelen bu parça ve zerreler kısmen ateş topu içinde eriyerek hatta buharlaşarak atomik bulutu teşkil edecekler ve atmosfer dahilinde (mümkün olursa troposferin bittiği yere yani 30000 metreye kadar) yükseleceklerdir. İşte ateş topu ile birlikte yükselen bu parça ve zerrelerin yerçekimine uyarak yeniden arz sathına dökülmesi olayına Radyoaktif Serpinti=Fall-Out diyoruz.
+Kalıntı tehlike, yersıfır noktası ve dolayları için elbette yalnız radyoaktif serpintiden ibaret değildir. İnfilak yerinde meydana gelen çukur (krater) ve çukurun etrafında radyoaktif hale gelmiş, fakat ağırlıkları ya da yerden kopmamaları yüzünden yükselememiş o kadar çok şey vardır ki sadece bunların varlığı bile o bölgeyi yaşanmaz durumda saymak için kafidir, yükselenlerin de en ağır olanları yine yersıfır dolaylarına serpilecek, üstelik burada alfa ve beta tehlikesi ile fisyona iştirak etmeyen ya da fisyon artığı sayılacak kritik maddelerin tehlikesi de en yüksek düzeyde bulunacaktır (Niga bölgesi).
+Daha hafif olan radyoaktif toz ve zerreler, atomik bulutun çıkabildiği yükseklikte rüzgarların şiddeti ve yönüne göre bir taraftan sürüklenecek, bir taraftan da dökülmeye devam edeceklerdir. Bu sürükleniş ve dökülüş sebebiyle arz sathında teşekkül edecek serpinti sathının şekli yaklaşık olarak kenarları çok girintili çıkıntılı basık bir elipse veya puro sigarasına benzeyecektir. Bu sahanın 10 megatonluk bir hidrojen bombasına göre teorik eni, boyu hakkında fikir edinmek gerekirse; Yüksekte esen rüzgarların müsait olması halinde eni 80, boyu 1600 kilometreye, müsait olmaması halinde eni 160 ve boyu 800 kilometreye ulaşacaktır denebilir.
+Böyle bir saha içinde birçok şehir ve kasaba bulunacağı gibi sayısız köy, çiftlik, mandıra, sınai ya da iktisadi tesis, bağ, bahçe, tarla bulunacak ve işte bizim asıl problemimiz buralarda oturan ve çalışanların korunması olacaktır. 
+Rüzgar.
+büyük bir kentin ortasına düşen 1 megatonluk bir atom bombası hemen hemen bütün şehri yok edecektir.saatte 750 km/s hızla esen bir rüzgar, bombanın düştüğü yerden 3 km kadar uzaklıkta olan bütün binaları ve köprüleri yerle bir edecek, bu alandaki bütün canlı varlıkları öldürecektir. patlama merkezinden 3–5 km rüzgarın hızı 470 km/s olacaktır. bu alandaki bütün evler ve köprüler hasar görecektir, bu alandaki insanlar derileri kavrulup yanarak ölecektir. merkezden 5–7 km ötede rüzgarın hızı saatte 260 km olacak, elbiseler tutuşacak radyasyon seviyesi öldürücü düzeye çıkacaktır. merkezden 7–12 km uzakta rüzgarın hızı 50–55 km/s olacak; telefon telleri kopacak, insan vücutlarında ikinci derece yanıklar oluşacak, insanlar patlamanın ve radyo aktif serpintinin etkisiyle kör olacaktır.
+2 = (1/2)ρSV3</ref>。すなわち、原子爆弾の爆風は、エネルギー比では台風の暴風エネルギーの1,000倍の爆風であった。
+また爆心地における爆風圧は350万パスカルに達した（1平方メートルあたりの加重が35トンとなる）。半径1キロメートル圏でも100万パスカルである。耐震設計の鉄筋コンクリート建築以外の建造物は、爆風圧に耐え切れずに全壊した。半径2キロメートル圏で30万パスカルとなり、この圏内の木造家屋は全壊した。--->
+Isı.
+. Ardından gelen 300.000 °C’lik ısı etkisi ise yaklaşık 3 km çapındaki her şeyin yanmasını sağladı. Daha sonra ise patlamanın etkisiyle başlayan ve saatte 1800 km ile esen alev rüzgarı çevredeki her yükseltiyi dümdüz etti. Ama asıl kalıcı etkiyi patlamadan birkaç dakika sonra başlayan bir yagmur gerçekleştirdi. Yağmur ile tüm radyoaktif serpinti bölgeye inmiş oldu. Saniyelerle ölçülebilecek bir zaman dilimi içerisinde Hiroşimayi yok eden bu korkunç bombanın bilançosu yaklaşık 80.000 ölü ve 100.000 yaralı olarak belirlendi.
+Radyasyonun Etkileri.
+Hiroşima'ya atılan atom bombasından sonra, yayılan radyasyondan dolayı birçok çocuk hasta 
+olmuş ve ölmüştür. Radyasyon, üreme hücrelerini etkilediği için çoğu bebek genetik bozukluklarla beraber doğmuştur.
+Hibakusha.
+Patlamalardan kurtulanlara hibakusha(被爆者) ismi verilir. Türkçe karşılığı "patlamadan etkilenmiş insanlar"dır. Bombalamanın Japonya'da sebep olduğu acı, ülkeyi nükleer silahsız bir dünya amacıyla hareket etmeye sürüklemiştir. Bu amaç ülkenin en iyi nükleer silahsızlanma politikasına sahip olmasını sağlamıştır. Japon hükûmeti 31 Mart 2008 itibariyle çoğu Japonya'da yaşayan 243,692 tane hibakusha'yı resmen tanımıştır. Bunların %1'inin radyasyondan kaynaklanan hastalıkları olduğu kabul edilmiştir. Hiroşima ve Nagazaki'deki anıtlarda daha sonra ölen hibakusha'ların isimleri yazılıdır. Her yıl dönümünde bu isimler güncellenir ve Ağustos 2008 itibariyle sayıları 400,000'e -258,310'u Hiroşima'da 145,984'ü Nagazaki'de- yükselmiştir.
+Koreli Kazazedeler.
+Savaş sırasında Japonya, Kore'den pek çok acemi askeri zorunlu işçi olarak Hiroşima ve Nagazaki'ye çalışmaya getirmiştir. Yeni çalışmalarda ulaşılan rakamlara göre Hiroşima'da 20,000, Nagazaki'de 2000 Koreli ölmüştür. Hiroşima'da ölenlerin 7'de birinin Kore asıllı olduğu öngörülmektedir. Uzun yıllar boyu Koreliler atom bombası kazazedeleri olarak tanınma uğraşı vermişler ve fakat sağlıktan faydalanma istekleri hep reddedilmiştir. Ancak son yıllarda bu çabalar mahkemelere dava olarak taşınmıştır.
+Çift Kazazede.
+24 Mart 2009'da Japon hükûmeti Tsutomu Yamaguchi'yi çift hibakusha olarak tanımıştır. Yamaguchi'nin bir iş gezisi sırasında gerçekleşen Hiroşima'daki patlamanın merkezüssünden 3 kilometre uzakta olduğu teyit edilmiştir. Sol tarafında ciddi yanıklar oluşan adam, geceyi Hiroşima'da geçirmiştir. İkinci bomba patlamadan 1 gün önce, yani 8 Ağustos'ta Nagazaki'deki evine dönmüştür. Burada akrabalarını ararken gerçekleşen ikinci patlamada çok ciddi radyasyona maruz kalmıştır. Böyle bir durumun ilk temsilcisidir.
+Hiroşima'da ölen Amerikalı esirler.
+Liste.
+<noinclude>
+Türkiye'de ilgili şiirler ve şarkılar.
+Nâzım Hikmet Ran
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Karaalikaçağı, Akdağmadeni</DOCTITLE>
+<TEXT>
+
+Karaalikaçağı, Yozgat ilinin Akdağmadeni ilçesine bağlı bir köydür.
+Tarihçe.
+Köyün bilinen tarihçesi, duyumlardan ve süregelen halk hikayelerinden ibaret olup, gerçek tarihçe devlet kayıtlarından araştırılmamıştır. Karaalikaçağı Köyü Osmanlı Devleti’nin son zamanlarında göçerler devamlı zorunlu ikamete tabi tutulmuşlardır. Bu zaman dilimi, padişahın fermanları ile göçer ailelerin yerleşik düzene geçilmesi istenmiştir (1700-1800 tarihleri civarı). Padişah fermanı Celali İsyanlarını bastırmak, iç işlerinde asayişi sağlamak için göçerlerin yerleşik ikamete geçmesi zorunlu olmuştur.
+Köyün Karaali olmasının tahminen sebebi, tahminen, Kara Ali’nin ilk yerleşen göçerlerin büyüklerinden biri olmasıdır. Seferberlik zamanında da söz sahibi olarak bilinen söz sahibi olarak bilinen Köy, güney ve güneydoğudan Akdağlar’ın, kuzey ve kuzeydoğudan da Develi Dağları’nın uzantılarında, 1300 metre rakımda kurulmuştur.
+Köy halkı, soyadı kanunu çıktığı zaman 19 hanedir. Daha sonralari 3 aile daha köye yerlesmistir.
+Köyün büyük çoğunluğu, bu gün Yozgat’ın Çekerek ilçesinin Elemin köyünden gelmişlerdir. Bundan 30-40 yıl öncesine kadar bu köydeki akrabalıklar devam ediyordu. Bugünkü nesillerden bunları bilen pek kalmamıştır.
+Köy halkının büyük çoğunluğu Türk Boyları’na ait olup, Alamaşlı İnce Türkmenler’dir
+Köy halkının çevre ve komşu köylerde çok büyük saygınlığı vardır. Ayrıca çevre ve komşu köylerle çok yakın akrabalıkları süregelmektedir.
+Akrabalıkları bulunulan köyler:
+- Çekerek Elemin Köyü: Buradan ilk gelenlerden biri Lütfü Efendi'dir.
+- Örenkale
+- Emerek (Çaypınar)
+- Babu (Umutlu)
+- Yünalan
+- Timurşeyh
+- Akçakoyunlu
+- Kırlar
+- Hacıfakılı
+- Karayakup
+- Yakacık
+- Örencik
+- Kamberli
+- Kabıt (Bulgurlu)
+- Dedefakılı
+- Çiçekli Höyüğü
+- İzibüyük köyleri ile halen devam eden akrabalıkları bulunmaktadır.
+Köye ilk gelen dedeleri bugünkü Çaypınar (Emerek) köyüne yerleşmişlerdir. Sivrisineklerin develerini rahatsız etmesi nedeniyle yaşamakta oldukları yere göçmüşlerdir. Çorak Deresi (Arek Tepesi)çok eski bir yerleşim yeri olup, Aşağı Harman ve İzzet’in Kaçakları'da eski birer yerleşim yeridir.
+Kültür.
+İnce Türkmenler kültür gelenek ve görenekleri yaşanmaktadır.
+Coğrafya.
+Yozgat iline 84 km, Akdağmadeni ilçesine 38 km uzaklıktadır.
+İklim.
+Köyün iklimi, karasal iklimi etki alanı içerisindedir.
+Ekonomi.
+Köyün ekonomisi tarım ve hayvancılığa dayalıdır.
+Altyapı bilgileri.
+Köyde ilköğretim okulu vardır. Köyün içme suyu şebekesi vardır ancak kanalizasyon şebekesi yoktur. PTT şubesi ve PTT acentesi yoktur. Sağlık ocağı ve sağlık evi vardır. Köye ulaşımı sağlayan yol asfalt olup köyde elektrik ve sabit telefon vardır.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kapıkargın, Dalaman</DOCTITLE>
+<TEXT>
+
+Kapıkırgın (Kapıkırgın ve Kapukargın olarak da söylenir), Dalaman merkezine 6 km uzaklıkta bir köydür.
+Dalaman Havalimanı idari olarak Kapıgargın sınırları içerisindedir. Köy ortasından geçen ve Sarsala koyuna kadar süren asfalt yolun kenarına ince uzun olarak yerleşmiştir. Ağırlıklı olarak narenciye üretimi, zeytincilik,arıcılık, tarım ve hayvancılık geçim kaynağıdır. Köy sınırları içerisine havalimanının yapılmasından sonra popülaritesi artmış ve tanınmış olmasına rağmen nüfusu artmamıştır.Köy nüfusunun artmamış olmasının sebebi olarakta dalaman esnafının, ve siyasetçilerinin kapıkargın köyünden olmaları ve bu kişilerin Dalaman'a yerleşmeleri birçok kamu kurum ve kuruluşlarında çalışmaları bu kişileri şehre çekmektedir.Önemli bir noktada köyde yaz aylarında vatandaşlar rahatça evlerinin balkonlarında sivrisinek nedeniyle oturamamaktadır.Buna benzer sebeblerden dolayı nüfus stabil kalmaktadır.Bugün Göcek koyları diye bilinen fakat, gerçekte Kapıkargın köyü sınırları içerisinde bulunan kille,bedirrahmi, sıralıbük,sarsala,göbün,kurşunlu,domuzadası ve kapıdağ yarımadasıda bulunan koylar Kapıkargın koylarıdır. 1500 kişilik nüfusu ile dalamanın en buyuk koylerınden bırtanesidir
+
+</TEXT>
+</DOC>
+

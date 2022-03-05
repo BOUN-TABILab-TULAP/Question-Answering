@@ -1,0 +1,236 @@
+Question: Meridyenler arası uzaklık neden kutuplara doğru gittikçe azalır
+Answer: dumm ans
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kerte hattı</DOCTITLE>
+<TEXT>
+
+Navigasyon olarak, bir kerte hattı (veya kerte hattı) aynı açı, "yani" nde bütün meridyenleri geçen bir yay Gerçek veya manyetik kuzeye ölçülen göreli olarak sabit rulman ile bir yol.
+Giriş.
+Bir dünya yüzeyinde bir kerte hattı seyir izleyen etkisi ilk 1590s Thomas Harriot tarafından daha fazla matematiksel gelişme ile, onun "Deniz Şeması Savunma Treatise" in, 1537 yılında Portekizli matematikçi Pedro Nunes tarafından tartışıldı.
+Bir kerte hattı bir kürenin yüzeyinde iki nokta arasındaki en kısa mesafe yoludur büyük bir daire ile tezat olabilir. Büyük bir daire üzerinde, hedef noktaya taşıyan sabit kalmaz. Eğer büyük bir çember boyunca bir araba olsaydı direksiyon sabit tutmak istiyorum, ama direkleri yaklaştı olarak daha keskin çevirerek, sen direksiyonu çevirmek zorunda kalacak bir kerte hattı takip etmek. Bir kerte hattı sıfır olmayan jeodezik eğrilik var ise başka deyişle, bir büyük daire, sıfır jeodezik eğrilik ile yerel "düz" dir.
+Boylam meridyenler ve enlem paralellikler kesiştiği kendi açıları sırasıyla 0 ° ve 90 ° olan kerte hattı, özel durumları sağlamak. Bu ekvator boyunca Doğu-Batı geçit üzerinde yaptığı gibi Kuzey-Güney geçişi üzerinde kerte hattı kursu, büyük bir daire ile çakışmaktadır.
+Bir Mercator projeksiyonu Harita üzerinde, bir kerte hattı düz bir çizgidir; Bir kerte hattı haritasının kenarından girmeden Dünyadaki herhangi iki nokta arasında böyle bir harita üzerinde çizilebilir. Ama teorik olarak kerte hattı daha sonra (harita boylam tam 360 derece kapsadığını varsayarsak) aynı eğim ile sol kenarında devam haritanın sağ kenarında ötesine geçebilir.
+Eğik açılarda meridyen kesti Kerte hatları kutuplara doğru spiral kerte hattında seyre ait eğriler vardır. Bir Mercator projeksiyonu üzerine Kuzey ve Güney kutupları sonsuza meydana ve bu nedenle gösterilen asla. Ancak sonsuz yüksek haritasında tam kerte hattı, iki kenarı arasındaki sonsuz sayıda çizgi parçaları oluşacak. Bir Sterografik projeksiyon Harita üzerinde, bir kerte hattı olan merkezi Kuzey (veya Güney) Kutbu bir eşit açılı sarmal olduğunu.
+Tüm loxodromes bir kutuptan diğerine spiral. Kutuplara yakın, onlar (aşağıya bakınız, tam olarak bir stereografik projeksiyon üzerinde) logaritmik spiral olmak yakın, bu yüzden her bir kutbun etrafında kez sonsuz sayıda rüzgar ama sonlu bir mesafe kutup ulaşır. Bir kerte hattı kutup-to-kutuplu uzunluk uzakta gerçek kuzeyden yatak kosinüs bölünmesiyle meridyen uzunluğunu (mükemmel küresi varsayarak) olduğunu. Loxodromes kutuplarda tanımlanmamıştır.
+Etimoloji ve tarihsel açıklama.
+Eğik + "dromos": ("dramein" den: çalıştırmak için) çalışan kelime "kerte hattı" "loxos" Yunan geliyor. Kelime "kerte" İspanyolca / Portekizce "rumbo / Rumo" (Tabii ki, yönü) ve Yunan "ῥόμβος" gelebilir.
+"Evrensel Bilgi Globe Ansiklopedisi" nin 1878 baskısı kerte hattı çizgileri olarak anlatılmaktadır:
+Matematiksel tanım.
+Β kerte hattı gerçek kuzeyden sabit yatak olmalı ve kerte hattı ekvatoru geçer boylam olmak FORMULA_1 olsun. Formula_2 kerte hattı üzerindeki bir nokta boylam olsun. Mercator projeksiyonu altında kerte hattı düz bir çizgi olacak
+yamaç formula_5 ile. Mercator projeksiyonu pozisyon formula_2 enlem ve boylam formula_6 bir nokta için olarak ifade edilebilir
+Miktar formula_10 genellikle formula_11 ile gösterilen izometrik enlem vardır.
+Sonra nokta enlem olacak
+veya Gudermannian işlev açısından "gd" formula_13
+Kartezyen koordinatlarda bu basitleştirilmiş olabilir
+Verilen iki nokta arasındaki loxodromes bulma Mercator harita üzerinde grafiksel yapılabilir veya tan iki bilinmeyenli ("α") olarak iki denklem doğrusal olmayan bir sistem çözerek ve "λ0" olabilir. Sonsuz sayıda çözüm vardır; kısa biri, yani ekstra devrimler yapmaz gerçek boylam farkı kapsar ve "etrafında yanlış bir şekilde" gitmez hangi olmasıdır.
+Bir kerte hattı boyunca ölçülen iki nokta arasındaki mesafe, sadece yatak (azimut) ve sekant mutlak değeri kat (mesafe sonsuz hale geldiği için enlem çevrelerinde hariç) kuzey-güney mesafe.
+Uygulama.
+Navigasyon Kullanımı doğrudan tarzı, ya da bazı seyir haritaları "projeksiyon" ile bağlantılıdır. Bir kerte hattı Mercator projeksiyonu harita üzerinde düz bir çizgi olarak görünür.
+Isim İspanyolca sırasıyla Eski Fransızca veya türetilmiştir: "" rumb "" veya "Rumbo", aynı açıda tüm meridyenleri kesişen grafik üzerinde bir çizgi. Bir uçak Yüzeyde bu iki nokta arasındaki en kısa mesafe olacaktır. Düşük enlemlerde veya kısa mesafelerde yeryüzü üzerinde bir araç, uçak veya gemi seyrini komplo için kullanılabilir. Uzun mesafelerde ve / veya yüksek enlemlerde büyük daire rota aynı iki nokta arasındaki kerte hattı önemli ölçüde daha kısadır. Ancak büyük bir daire rota seyahat ederken sürekli yatakları değiştirmek zorunda rahatsızlık belirli durumlarda çekici "kerte hattı navigasyon" yapar.
+Nokta büyük daire ve kerte hattı mesafeleri aynı oldukları ekvator boyunca boylam 90 derece üzerinde bir Doğu-Batı geçit ile açıklanabilir. Kerte hattı mesafesi yaklaşık 1 ½ oranında daha, ise 20 derece North büyük daire mesafesidir. Kerte hattı, 8½ yüzde fark ise ancak 60 derece Kuzey büyük daire mesafesidir. Bir daha aşırı durum New York ve Hong Kong arasındaki hava yolu, kerte hattı yolu olduğu içindir. Kuzey Kutbu üzerinde büyük daire rota veya tipik seyir hızında 5½ saat daha az uçuş zamanı.
+Mercator projeksiyonu bazı eski haritalar enlem ve boylam çizgileri oluşan ızgaraları var ama aynı zamanda kuzeyden dik açıyla, kuzeye doğru doğrudan yönlendirilmiş hatları kerte göstermek veya kuzeyden bazı açıda bazı basit rasyonel kesir olan bir dik açı. Bu noktaların her biri yakınsama istiyorum her yöne gidiş hatları: Onlar haritanın belli noktalarda kesişen böylece bu kerte hatları çizilmiş olacaktır. Pusula gül bakın. Bu tür haritalar mutlaka Mercator projeksiyonu olurdu bu nedenle tüm eski haritalar kerte hattı işaretleri gösteren yetenekli olurdu değil.
+Bir pusula gül radyal hatları da "rhumbs" denir. Ifadesi "" Bir rhumb yelken "" Belirli bir pusula başlığı belirtmek için 16-19. yüzyıllarda kullanılmıştır.
+Geminin enlem Güneşin görüldüğüne veya yıldızlar tarafından doğru kurulmuş ancak boylam belirlemek için kesin yolu yoktu olabilir çünkü uzun okyanus geçişleri kerte hattı dersleri kullanılan deniz kronometre icadından önce zaman erken navigasyon. Hedef enlem kadar Kuzey ya da Güney yelken gemi ulaşıldı ve gemi daha sonra sabit bir enlem koruyarak, (aslında kerte hattı özel bir durumdur paralel) kerte hattı boyunca Doğu veya Batı yelken ve Arazinin kanıtlar görüşlü kadar mesafe kayıt düzenli tahminler kalkmıştı.
+Genelleştirmeler.
+Riemann küresinin.
+Dünya yüzeyinin kompleks düzlemine kürenin bir izdüşümü olarak, bir Riemann küre, matematiksel olarak anlaşılabilir. Bu durumda, loxodromes Möbius dönüşümlerinin belirli çeşit olarak anlaşılabilir.
+Sfero.
+Formülasyon, yukarıda kolayca sfero uzatılabilir. Kerte hattı ders elipsoidal izometrik enlem kullanarak sadece bulunur. Aynı mesafeler semt sekant tarafından elipsoidal meridyen yay uzunluğunu çarpılması suretiyle bulunur.
+Dış bağlantılar.
+"Not: Bu makale Evrensel Bilgi, kamusal alanda bir çalışma Küre Ansiklopedisi'nin 1878 baskısında metni birleştirir"
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Enlem Çember</DOCTITLE>
+<TEXT>
+
+Yeryüzünde enlem bir daire verilen bir enlem sahip (hesap yükseklik dikkate alarak değil) tüm konumları bağlayan hayali bir doğu-batı dairedir. Enlem bir daire boyunca bir yerleşimin konumu, boylam tarafından verilir.
+Yani herhangi iki paralellikler her yerde ayrı aynı mesafe vardır - onlar birbirlerine paralel olduğundan enlem Çemberleri genellikle paralellikler denir. (Dünya 10 dereceye ekvatordan mesafeyi küresel olmadığından kuzey. Bazı harita projeksiyonları üzerinde Equirectangular projeksiyon gibi, onlar eşit çizilir kuzey 10 ile 20 derece arasında mesafe biraz daha az olduğunu.)
+Enlem Çemberleri küçük uzak onlar ekvatordan ve yakın onlar kutuplara olan olur. Enlem bir daire tüm meridyenler diktir ve dolayısıyla kerte hattı özel bir durumdur.
+dairenin enlem Dünya'nın merkezinde açılı en tepe ile ekvator ve çember arasındaki (kabaca) açısıdır. Ekvator 0 ° ise, Kuzey ve Güney Kutbu güney sırasıyla 90 ° kuzey ve 90 ° altındadır. Orada Ekvator ve her yarımkürede Polonyalılar arasındaki enlem 89 integral (tam derece) çevreler, ancak bu enlem daha hassas ölçümler ayrılabilir, ve genellikle bir ondalık derecesi (örneğin 34,637 ° K) veya dakika temsil edilir ve saniye (örneğin 22 ° 14'26 "S). ölçülebilir nasıl tam enlem sınırı yoktur ve böylece Dünya'daki enlem çevrelerin sonsuz sayıda vardır.
+Birçok haritalar düz çizgiler olarak enlem çevrelerin gösteriyor, ancak enlem daire (Ekvator hariç) Yeryüzünde iki nokta arasındaki en kısa mesafe değil. Başka bir deyişle, (Equator hariç) enlem çevrelerinde büyük bir çevreleri (aynı zamanda büyük daire mesafesi bakınız) değil, kerte çizgilerdir. Yani bir uçak aynı enlem örneğin Grönland üzerinde, daha kuzeyde uçacak paylaşan Avrupa ve Kuzey Amerika şehir arasındaki uçan.
+Enlem çevrelerin arklar bazen ayırt edici doğal sınırlar (örneğin çöller gibi) eksik veya Kore'de olduğu gibi yapay bir sınır, bir "harita üzerinde çizgi" olarak çizildiğinde ülkeler veya bölgeler arasındaki sınırları olarak kullanılır.
+Enlem Binbaşı çevreler.
+Kuzeyden güneye, aşağıda listelenen enlem beş ana çevreler vardır. Ekvator konumu ancak diğer çevrelerin enlemleri (Dünya'nın dönme eksenine 90 derece) Dünya'nın yörüngesinin düzlemine bu eksende eğimine bağlı olarak sabittir ve bu yüzden mükemmel sabit değildir. Aşağıdaki değerler 2011 içindir .:
+Ekvator hariç enlem Bu çevreler, beş ana coğrafi bölgeleri arasında bölünmeler işaretleyin.
+Ekvator.
+ekvator Kuzey Kutbu ve Güney Kutbu eşit mesafededir daire olduğunu.
+Bu Kuzey Yarımküre'de ve Güney Yarımküre içine Dünya'yı böler.
+Paralellikler veya enlem çevrelerin, bu uzun ve sadece 'büyük daire "(dünyanın merkezine merkezli yeryüzünde bir daire,)' dir. Tüm diğer paralellik küçüktür ve sadece dünyanın ekseni üzerinde ortaladı.
+Polar Çemberleri.
+Arctic Circle güneş (Haziran, Aralık gündönümü sırasıyla) 24 saat boyunca ufkun üstünde ya da altında sürekli olarak kalabilir hangi Kuzey Yarımküre'de güney enlem olduğunu. Benzer şekilde, Antarktika Çember güneş (sırasıyla Aralık ve Haziran Gündönümlerine at) üstünde veya 24 saat boyunca ufukta sürekli kalabilir hangi Güney Yarımküre kuzeydeki enlem işaretler.
+Tropikal Çemberleri.
+Oğlak Yengeç Dönencesi ve Tropic güneş (sırasıyla Haziran gündönümü ve Aralık gündönümü) doğrudan havai görülebilir hangi kuzey ve güney enlemleri işaretleyin.
+Tropikal çevrelerin enlem Dünya'nın eksenel eğim eşittir.
+Tropik ve Polar çevrelerin Hareketi.
+Tanım olarak, Oğlak, Arctic Circle ve Antarktika Circle Yengeç Dönencesi'nin, Tropic pozisyonları güneşin ("ekliptik meyil") etrafında yörünge düzlemine Dünya'nın ekseni göreli tilt bağlıdır. Kutuplarda güneş ufukta boyunca daire her zaman olur ve ekvatorda güneş hep artacağını: Toprak hayır Arctic, Antarktika, veya Tropik olacağını (yörünge düzlemine dik açıda kendi ekseni) "dik" olsaydı doğu nedeniyle, doğrudan havai geçmek ve batıya ayarlayın.
+Karmaşık bir hareket çok uzun kısa süreler ile birçok farklı döngüleri üst üste tarafından belirlenen - yavaşça eksenel eğim değişiklikleri nedeniyle Tropik ve Polar çevrelerin konumları sabit değildir. 2000 yılında tilt ortalama değeri yaklaşık 23 ° 26 '21 "idi.
+Ana uzun vadeli döngüsü eksenel eğim 41.000 yıllık bir süre ile yaklaşık 22.1 ° 24.5 ° arasında dalgalanmaya neden olur. Şu anda, tilt "ortalama" değer yılda "yaklaşık 0,47 ile azalıyor. Sonuç olarak (yaklaşık ve ortalama) Tropik Circles ekvator (ve kutuplara doğru Polar Circles) yılda 15 metre sürüklenen doğru olup, Tropik alanı yılda 1100 kilometrekarelik ile azalmaktadır.
+Dünya'nın dönme ekseninin eğikliği nedeniyle 18.7 yıllık bir süre ile ana terim, (neredeyse 300 metre kuzey ve güneye doğru gelen) 21 "9 bir genlik sahip olduğu nutasyon, ek kısa vadeli varyasyonları vardır. Birçok küçük terim vardır herhangi bir yönde bir metre günlük değişimler çeşitli ile sonuçlanır.
+Son olarak, Dünya'nın dönme ekseninin tam Tropik ve kutup çevreleri ve ayrıca Ekvator üzerine küçük bir etkiye sahip kutupsal hareket denir, (15 metre sipariş üzerine), küçük dalgalanmaları Earth sabit, ancak uğrar değildir.
+Birkaç gün boyunca kısa vadeli dalgalanmalar doğrudan güneş doğrudan havai görünebilir hangi aşırı enlemlerde yerini etkilemez veya hangi 24 saatlik gündüz veya gece onlar aslında anda meydana dışında, mümkün gündönümü. Bunun yerine, verilen eksen eğim yıl boyunca muhafaza edildi, ortaya çıkabilecek paralel teorik kaymasını neden olur.
+Diğer önemli paralellikler.
+Alt ulusal ve uluslararası sınırlar bir dizi ile tanımlanır amaçlanmıştır veya paralellikler tarafından yaklaştırılır. Astronomik enlem kabaca Kuzey Yıldızı nişan ile (metre birkaç onlarca dahilinde) ölçülebilir çünkü Parallels kuzey yarımkürede elverişli sınırları yapmak.
+Rakım.
+Yükseklik enlem bir daire tarafından oluşturulan düzleme bir yerin konumundaki üzerinde bir etkiye sahiptir. Irtifa yeryüzü normal belirlenir yana, konumları aynı enlem ama paylaşımı farklı yükselmeleri sahip (örneğin, bu normaldir boyunca yalan) bu düzlemi içinde -hayır daha uzun bir yalan. Aksine, tüm noktaları aynı enlem paylaşımı ve değişen yükseklik Dünya'nın ekseni etrafında bu normal dönme ile oluşan bir koni işgal.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mercator projeksiyonu</DOCTITLE>
+<TEXT>
+
+Mercator projeksiyonu düz kesimleri gibi çünkü kerte hatları veya loxodromes olarak bilinen sabit elbette, çizgilerini temsil kabiliyetini deniz amaçlar için standart harita projeksiyonu oldu 1569. Flaman coğrafyacı ve haritacı Gerardus Mercator tarafından sunulan silindirik harita projeksiyonu olduğunu hangi meridyenleri ile açıları korumak. Doğrusal ölçek herhangi bir nokta etrafında her yöne, böylece (projeksiyon konformal kılan) açıları ve küçük nesnelerin şekillerini koruyarak eşit iken, Mercator projeksiyonu Ekvator'a gelen ölçek arttıkça, boyut ve büyük nesnelerin şeklini bozan kutuplara, sonsuz hale geldiği.
+Özellikleri ve tarihsel ayrıntıları.
+Mercator'un 1569 baskısı onsekiz ayrı levhalar halinde basılmış 202 124 tarafından cm, ölçme büyük bir planisphere oldu. Tüm silindirik projeksiyonlar gibi, paraleller ve meridyenler düz ve birbirine dik olan. Bu gerçekleştirirken, ekvator artar uzak mesafe olarak artar haritası, gerilmesi kaçınılmaz doğu-batı, germe karşılık gelen kuzey-güney ile Mercator projeksiyonda eşlik ettiği her noktada yerde, doğu-batı ölçeğinde yani projeksiyon konformal yapma, kuzey-güney ölçeği aynıdır. Doğrusal ölçek kutuplarda sonsuz yükselirse beri bir Mercator haritası tamamen kutup bölgeleri göstermek asla. Bir konformal projeksiyon olmak, açılar tüm konumlarda etrafında korunur. Ancak ölçek coğrafi nesnelerin boyutunu bozan ve gezegenin genel geometrisinin çarpık bir fikir taşıma, yer yer değişir. 70 ° kuzey veya güney daha fazla enlemlerde, Mercator projeksiyonu pratik kullanılamaz.
+Sabit yatak (rhumbs veya loxodromes-bu meridyenler ile sürekli açıları yapma) Bütün satırları Mercator harita üzerinde düz kesimleri tarafından temsil edilmektedir. iki özellik, konformluk ve düz kerte hatları, deniz navigasyon için çok uygun bu projeksiyonu yapmak: kurslar ve yatakları, rüzgar gülleri veya protractors kullanılarak ölçülür ve ilgili yön kolayca yardımıyla, harita üzerinde, noktadan noktaya transfer edilir Paralel cetvel ya da seyir iletki üçgen bir çift.
+onun dünya haritasına Mercator tarafından verilen isimdir ve Açıklamalar (: "Dünya'nın yeni ve genişletilmiş açıklama denizcilerin kullanımı için düzeltilmiş") bunu açıkça deniz navigasyon kullanımı için tasarlanmış olduğunu göstermektedir. Yapım metodu yazarı tarafından açıklanmıştır olmamasına rağmen, Mercator muhtemelen aynı hale önceden kare gratikül bir dünya üzerinde çizilen bazı kerte hatları transfer ve bu çizgiler düz oldu böylece o paralellikler arasındaki boşluğu ayarlama, grafik yöntem kullanılır dünya gibi meridyenleri ile açı.
+Mercator projeksiyonu gelişimi 16. yüzyılın deniz haritacılık büyük bir atılım temsil etti. Eski seyir ve ölçme teknikleri navigasyon kullanımı ile uyumlu değildi çünkü Ancak, çok ötesinde zaman oldu. Yeterli doğruluk ve manyetik yön yerine coğrafi yönlere, navigasyon kullanılmıştır gerçeği ile denizde boylam belirleme imkansızlığını: İki ana sorun onun hemen uygulamasını engelledi. Sadece 18. yüzyılın ortasında, deniz kronometre icat edildi ve manyetik sapma mekansal dağılımı bilinen sonra, Mercator projeksiyonu tamamen denizcileri tarafından kabul edilebilir.
+Bazı yazarlar Mercator projeksiyonu gelişimi ile ilişkilidir:
+Kullanır.
+Tüm harita projeksiyonları gibi, şekil ya da boyutları yeryüzünün gerçek düzeni bozulmalar vardır. Mercator projeksiyonu çok ekvatordan alanları abartır. Örneğin:
+Mercator projeksiyonu nedeniyle hala eşsiz özelliklerinden, navigasyon için yaygın olarak kullanılmasına rağmen, haritacı nedeniyle arazi onun bozulma genel referans dünyasına haritalar uygun olmadığını kabul edersiniz. Mercator kendisi göreli alanları göstermek için eşit alan sinüs projeksiyon kullanılır. Bu eleştirilerin bir sonucu olarak modern atlaslar artık diğer silindirik projeksiyonlar, ya da eşit alan projeksiyon formlarını tercih dünya haritaları için veya ekvatordan uzak alanlar için Mercator projeksiyonu kullanın. Distorsiyon minimum olduğu Mercator projeksiyonu hala yaygın, ancak, ekvatora yakın bölgelerde kullanılır.
+O şimdi genellikle Mercator "" alternatif olarak Gall-Engin projeksiyon denir önerdi zaman Arno Peters tartışmalara yol açtı. O terfi projeksiyon silindirik eşit alan projeksiyonu belirli bir parameterization olduğunu. Buna karşılık, yedi Kuzey Amerika coğrafi gruplar tarafından 1989 çözünürlük Mercator ve Gall-Peters, hem içerir genel amaçlı dünya haritaları için silindirik projeksiyonlar kullanımını önerilmemektedir.
+Birçok büyük online sokak harita hizmetleri (Bing Maps, OpenStreetMap, Google Maps, MapQuest, Yahoo Maps ve diğerleri) Web Mercator veya Google Web Mercator denilen kendi harita görüntüleri için Mercator projeksiyonu bir varyantını kullanın. Küçük ölçeklerde Bariz ölçek değişimi rağmen, projeksiyon nedeniyle varyant Projeksiyon en yakın konformluk nispeten küçük bir bozulma var büyük ölçekli (yerel) haritalar sorunsuz uzaklaştırdınız olabilir interaktif bir dünya haritası, hem de uygundur.
+büyük online sokak haritalama hizmetleri fayans sistemleri "φ" max enlemlerde kesme tarafından kutup bölgeleri hariç, tek bir kare görüntü olarak en yakınlaştırma düzeyinde dünyanın en gösterilecek = 85,05113 ° ±. (Aşağıya bakınız.) Bu aralığın dışında Latitude değerler "φ" = ± 90 ° sapmak değil, farklı bir ilişki kullanılarak eşleştirilir.
+Mercator projeksiyon Matematik.
+küresel modeli.
+Dünya'nın yüzeyi en iyi şekilde devrimin bir yassı elipsoid ile modellenmiş olsa küçük ölçekli haritalar için, elipsoid yarıçapı "a" bir küre yaklaşılır. Birçok farklı yollar "a" hesaplamak için var. En basit, (a) bir elipsoid ekvatoral çapındaki, (b) aritmetik veya elipsoid yarı ekseni geometrik ortalamasını, (c) elipsin aynı hacme sahip bir kürenin çapındaki içerir. Bütün olası seçeneklerin aralığı yaklaşık 35 km olduğunu, ancak küçük ölçekli (büyük bölge) varyasyon göz ardı edilebilir uygulamalar ve 6371 km ve 40.030 km ortalama değerleri için yarıçapı için alınan ve sırasıyla çevresi olabilir. Bunlar sonraki bölümlerde sayısal örnekler için kullanılan değerlerdir. Büyük ölçekli haritalarda sadece yüksek doğruluk haritacılık bir elips modeli gerektirir.
+Silindirik projeksiyonlar.
+yarıçaplı Dünya'nın küresel yaklaşım "a" bu bölümdeki "küre" olarak adlandırılan yarıçaplı bir küre küçük "R" ile modellenebilir. dünya haritanın ölçeğini belirler. Çeşitli silindirik projeksiyonlar coğrafi ayrıntı ekvatorda ona teğet bir silindire dünyanın transfer nasıl belirtin. Silindir sonra düzlemsel haritayı vermek için unrolled edilir. kesir "R / a" temsilcisi kısmını (RF) veya projeksiyon asıl ölçeği olarak adlandırılır. Örneğin, bir kitap basılmış bir Mercator harita 2.13 cm küre yarıçapına karşılık gelen 13.4 cm ekvator genişlik ve yaklaşık 1 / 300M (M bir RF yazılı 1,000,000 için bir kısaltma olarak kullanılır), oysa Mercator adlı bir RF olabilir Orijinal 1569 harita 31.5 sm bir küre yarıçapının yaklaşık 1 / 20M bir RF tekabül eden 198 cm arasında bir genişliğe sahiptir.
+Silindirik harita projeksiyonu ekvator üzerinde kökeni ve "x" ekvator boyunca -Axis ile harita üzerinde Kartezyen koordinatlara enlem ve boylam φ λ coğrafi koordinatlarını bağlayan Formülleri belirtilir. Inşaat tarafından, (ekvatordan ölçülen) jeneratör boyunca sabit "x" değeri, ancak uzaktan "y" de silindirin aynı "jeneratörü" Aynı meridyen üzerindeki tüm noktalar yalan enlem keyfi bir fonksiyonudur, "y" (φ). Genel olarak bu fonksiyon sadece kavramsal bir silindirik harita proje yolları sınırsız sayıda biridir silindir, için dünyanın merkezinden (bir ekrana ışık ışınlarının gibi) geometrik projeksiyon tarif etmez.
+Silindir ekvatorda dünya teğet olduğundan, dünya ve silindir arasındaki ölçek faktörü ekvatordan ama hiçbir yerde üzerinde birliğidir. Bir paralel veya enlem dairenin yarıçapı yana Özellikle, haritada karşılık gelen paralel bir faktör ile gerilmiş olması gerekir "R", çünkü φ vardır. Paralel Bu ölçek faktörü geleneksel "k" ve meridyen üzerinde ilgili ölçek faktörü "h" ile başlar ile gösterilir.
+Küçük eleman geometrisi.
+"y" (φ) ve açıları dönüşüm ve ölçek varyasyon olarak projeksiyon özellikleri, ilişkileri, dünya ve harita üzerinde "küçük" unsurları karşılık gelen geometriden izleyin. Aşağıdaki şekil dünyanın enlem ve φ + δφ ve boylam λ + δλ yakındaki bir nokta Q enlem ve boylam φ λ bir nokta P gösterir. Dikey çizgiler PK ve MQ uzunluğu "R" δφ meridyenleri ile arklar vardır. yatay çizgiler PM ve KQ δλ (φ cos) uzunluğu "R" nin paralellikler arklar vardır. projeksiyonda gelen noktalar genişlik ve yükseklik Ax δy bir dikdörtgen tanımlar.
+Küçük elemanlar için, açı PKQ yaklaşık nedenle dik açı ve bir
+silindire dünyanın daha önce sözü edilen ölçekleme faktörleri tarafından verilmektedir
+Meridyenler sabit hatları eşlenen bu yana, "x = R (λ-λ0)" ve "Ax = Rδλ" (radyan cinsinden λ) olması gerekir "x". Bu nedenle infinitesimally küçük elemanların limitinde
+Mercator projeksiyonu türetilmesi.
+Mercator projeksiyonu için (φ) "y" fonksiyonu seçimi projeksiyon, iki eşdeğer şekilde tanımlanabilir bir durum konformal olması talep tarafından belirlenir:
+Denklemi entegre
+"y" (0) ayrılmaz tablolar veya elementer yöntemler kullanarak, = 0 ile (φ) y verir. Bu nedenle
+İlk denklem λ0 Greenwich, ama her zaman değil, genelde keyfi bir merkez meridyen boylam (yani, sıfır). Fark (λ-λ0) radyan olduğunu.
+fonksiyonu "y" (φ) durumda "R" = 1 için φ yanında çizilmiştir: bu kutuplarda sonsuza eğilimindedir. doğrusal "y" değerler genellikle baskılı haritalarda gösterilmeyen -Axis; yerine bazı haritalar sağdaki enlem değerlerinin doğrusal olmayan ölçek göstermektedir. Daha sık haritaları seçilmiş meridyenler ve paralellikler sadece gratikül göstermek
+Ters dönüşümler.
+İkinci denklemin sağındaki ifade Gudermannian işlevi tanımlar; yani φ = gd ("y / R"): Doğrudan denklem nedenle "y = R" .gd-1 (φ) olarak yazılabilir.
+Alternatif ifadeler.
+Y (φ) için birçok alternatif ifadeler, ilköğretim manipülasyonlar tarafından türetilen tüm vardır.
+Sorumlu tersidir:
+Açıları için derece olarak ifade edilmiştir:
+Yukarıdaki formüller dünya yarıçapı "R" cinsinden yazılır. Bu harita genişliği "W" = 2π "R" ile doğrudan çalışmak için genellikle uygundur. Örneğin temel dönüşüm denklemleri haline
+Kesme ve boy oranı.
+Mercator koordine "y" kutuplarda sonsuz olur ve harita doksan dereceden az, bazı enlemde kesilebilir olmalıdır. Bu simetrik yapılması gerekli değildir. Mercator'un orijinal harita 80 ° N ve Avrupa ülkeleri haritanın merkezine doğru taşındı bunun sonucunda 66 ° S kesildi. Onun haritanın en boy oranı 198/120 = 1.65 olduğunu. Hatta daha aşırı kesilmeleri kullanılmıştır: Finlandiyalı okul atlas yaklaşık 76 ° N ve 56 ° S, 1.97 boy oranında kesildi.
+Çok web tabanlı haritalama birlik boy oranıyla Mercator projeksiyonu bir zoomable sürümünü kullanır. Bu durumda elde maksimum enlem "y / R" = π eşdeğeri "/ 2'ye W" için "y" = ± karşılık, veya olmalıdır. Ters dönüşüm formüllerden herhangi uygun enlem hesaplamak için kullanılabilir:
+Ölçek faktörü.
+dünya ve projeksiyonda sonsuz elemanlar karşılaştırarak rakam α = β üçgenler PQM ve P'Q'M 'benzer olduğunda keyfi bir yönde ölçek faktörü paralel ve meridyen ölçek faktörleri aynı şekilde olduğunu göstermektedir:
+Nokta ölçek faktörünün izotropi tanımı: Bu sonuç keyfi yönü için de geçerlidir. Grafik enlem ölçek faktörü değişimini göstermektedir. Bazı sayısal değerler aşağıda listelenmiştir.
+Öngörülen haritadan çalışma (harita açık bir enlem ölçeği ile sağlanmadığı sürece) "y" Mercator ordinat açısından ölçek faktörünü gerektirir. Cetvel ölçümleri harita ordinat vermek beri "y" ve harita ardından "y / R" nin de genişliği "W" = 2π "y / W" ve ölçek faktörü biçimleri için alternatif formların birini kullanarak tespit edilir ters dönüşüm:
+Fin okul atlas üzerine, örneğin, aşağıda gösterildiği gibi enlem ile varyasyon bazen birden çubuk ölçekler ile gösterilir. Böyle çubuk ölçekler yorumlanması olmayan saçmadır. Aşağıdaki mesafe formüller üzerinde tartışma bakın.
+Alan ölçeği.
+Alan ölçek faktörü paralel ve meridyen ölçekler ürünüdür. Grönland için medyan enlem, "hk" = 11,7 olarak 73 ° alarak. Avustralya, medyan enlem, "hk" = 1.2 olarak 25 ° alarak. Büyük Britanya için bir medyan enlem, "hk" = 3.04 olarak 55 ° alarak.
+Çarpıtma.
+bir çıkıntı içerdiği bozulma gösteren klasik bir şekilde TISSOT en indikatriks kullanmaktır. Nicolas Tissot numaralar "h" ve "k" ile belirtilen ölçek faktörleri noktada silindirik projeksiyonlar için, projeksiyon bu noktada bir elips tanımlamak olduğunu kaydetti. elips eksenleri meridyenler ve paralellikler hizalanır. Mercator projeksiyonu, "h" = "k", yani elips o enlem için ölçek faktörü değeri ile orantılı yarıçaplı çevrelerinde dönüşmesine. Bu çevreler ama sonra doğru nispi boyutları (çünkü ölçekte aşırı varyasyon) keyfi bir genel ölçek ile öngörülen harita üzerine yerleştirilir.
+Doğruluk.
+Bir haritanın doğruluk bir ölçüsü harita ve dünya üzerindeki karşılık gelen hat elemanlarının uzunluğunun bir karşılaştırma. Bu nedenle, inşaat tarafından, Mercator projeksiyonu "k" = 1, ekvator boyunca ve başka hiçbir yerde mükemmel doğrudur. Sn φ değerinin ° ± 25 bir enlemde yaklaşık 1.1 ve bu nedenle projeksiyon ekvatora merkezli genişliği 50 ° 'lik bir şerit% 10 içinde doğru kabul edilebilir olduğunu. Dar şeritler daha iyi: sn 8 ° = 1.01, (ekvator merkezli) genişlik, 16 ° kadar bir şerit, sn 2.56 ° = 1.001% 1 veya Benzer 100 1 parçası içinde genişliği 5.12 ° kadar bir şerit doğru (ekvator merkezli)% 0.1 ya da 1,000 1 parçası içinde doğru olduğunu. Bu nedenle, Mercator projeksiyonu ekvatora yakın haritalama ülkeler için yeterlidir.
+Sekant projeksiyon.
+Mercator projeksiyonu (kesim anlamında) bir sekant içinde dünya φ1 ± enlem iki paralellikler de küreyi kesen bir silindire tahmin edilmektedir. Bu enlemleri arasında paralellikler projeksiyon ile sözleşmeli ve bunların ölçek faktörü birden az olmalıdır oysa ölçek artık bu enlemlerde doğrudur. Sonuç birlik ölçek "sapma" enlemlerde daha geniş bir aşkın azalır olmasıdır.
+Böyle bir çıkıntı örneğidir
+ekvator üzerinde ölçek 0.99 olduğu; ölçek "k" = 1 yaklaşık ± 8 ° (φ1 değeri) bir enlemde olduğu; Ölçek yaklaşık ± 11.4 ° 'lik bir enlemde "k" = 1.01 olduğunu. Bu nedenle, projeksiyon, normal (teğet) projeksiyonu 16 ° ile karşılaştırıldığında 22 ° daha geniş bir şerit üzerinde,% 1 doğruluğa sahiptir. Bu harita projeksiyonu, belirli bir doğruluk sahip olduğu bölgeyi uzanan bir standart tekniktir.
+Elipsoide Genelleme.
+Dünya (devrimin) bir elips tarafından modellenmiştir zaman konformal kalması ise Mercator projeksiyonu değiştirilmesi gerekir. olmayan sekant versiyonu için dönüşüm denklemleri ve ölçek faktörü vardır
+Silindir ekvatorda Elipsoidin teğet olduğundan olması gerektiği gibi ölçek faktörü, ekvator üzerinde birliğidir. ölçek faktörünün elipsoidal düzeltme enlem ile artar ama "e" 2,% 1'den daha az bir düzeltme daha büyük olmadı. ("E" 2 değeri yaklaşık 0.006 bütün referans ellipsoids içindir.) Bu ekvatora çok yakın dışında ölçek yanlışlık çok daha küçüktür. Sadece ekvatora yakın bölgelerde doğru Mercator projeksiyonları elipsoidal düzeltmeler gerektirecektir.
+Mesafe için Formül.
+Küre üzerinde gerçek (büyük daire) mesafe içine Mercator harita üzerinde cetvel mesafe dönüştürme ekvator ama başka hiçbir yerde boyunca basittir. Bir sorun enlem ölçek varyasyonu ve başka meridyenler veya ekvator dışındaki harita (kerte hatları), düz çizgiler, büyük çevrelere karşılık kalmamasıdır.
+kerte (yelken) mesafe ve büyük daire (true) mesafe arasındaki ayrım açıkça Mercator tarafından anlaşılmıştır. (1569 Haritada Legend 12 Bkz.) O kerte hattı mesafesi özellikle alt enlemlerde kısa veya orta mesafe dersleri için de geçerlidir büyük daire mesafe için kabul edilebilir bir yaklaşım olduğunu vurguladı. Hatta ifadesini rakamlarla: "ekvator civarında ölçülmelidir edilecek büyük daire mesafeler kuzey bölgelerinde büyük bir dairenin 20 derece ya da İspanya ve Fransa'da, veya 8 yakınındaki 15 derece ve hatta 10 derece aşmamaktadır zaman o "kerte hattı mesafeleri kullanmak daha uygun olur.
+Ölçek faktörü "k" = secφ = 1 / φ cos olan enlem φ de orta noktası, bir "kısa" hattının bir cetvel ölçümü için:
+Yarıçapı ve 6371 km ve 40.030 km'ye eşit büyük daire çevresi ile sırasıyla 1 / 300M, bir RF hangi "R" = 2.12 cm ve "W" = 13.34 cm için, ima 3 mm'lik bir cetvel ölçümü söyledi. ekvator üzerindeki bir noktadan herhangi bir yönde yaklaşık 900 km'ye tekabül etmektedir. enlemleri 20 °, karşılık gelen mesafeler 40 °, 60 ° ve 80 ° 846 km, 689 km, 450 km ve sırasıyla 156 km uzaklıktadır.
+Daha uzun mesafeler çeşitli yaklaşımları gerektirir.
+Ekvator üzerinde.
+Ölçek (non-sekant projeksiyon için) ekvatora üzerinde birliğidir. Bu nedenle, ekvator üzerinde cetvel ölçümleri yorumlamak basittir:
+RF = 1 / 300M ile yukarıdaki model için, 1 cm 3.000 km'ye tekabül etmektedir.
+Diğer paralellik günü.
+Başka paralel üzerindeki ölçek faktörü böylece sn φ olduğunu
+Yukarıdaki model için 1 cm 60 ° 'lik bir enlemde 1500 km'ye tekabül etmektedir.
+Paralel bir büyük daire olmadığı için bu paralel seçilen uç noktalar arasındaki en kısa mesafe değil. Fark λ, boyuna ayırma, arttıkça kısa mesafelerde ancak artışlar için küçük. Paralel boyunca mesafe büyük daire mesafesi yaklaşık olarak 0,5 km büyüktür ° iki nokta, A ve B için 60 ° C'de paralel boylam 10 ° ayrılmış. (Paralel boyunca olan mesafesidir AB ("a" cosj) λ olup. AB 2 kirişin uzunluğu ("a" cosj) sin (λ / 2). Bu kiriş 2arcsin eşit merkezine (cosj bir açıya karşılık uzunlamasına ayırma 180 °, paralel boyunca mesafe olduğu sin (λ / 2)) ve A ve B arasındaki büyük daire mesafe aşırı durumda 2 "a" arcsin (cosj sin (λ / 2)).) 'dir Bu paralel çevresinin bir yarısı olduğu; yani 10,007.5 km. Öte yandan, bu noktalar arasında jeodezik merkezinde 60 ° 'lik bir açı subtending kutup ile büyük bir daire yay: Bu yay uzunluğu büyük daire çevresi altıda biri, yaklaşık 6672 km uzaklıktadır. haritadan ölçülen cetvel mesafeden bile ölçek faktörü enlem değişimi için düzeltme yapıldıktan sonra oldukça yanıltıcı böylece fark 3,338 km uzaklıktadır.
+Bir meridyen üzerinde.
+Haritanın bir meridyen dünya üzerinde büyük bir dairedir ama sürekli ölçek varyasyon meridyen üzerindeki uzak noktaları arasındaki mesafeyi gerçek verim olamaz yalnız cetvel ölçüm demektir. Ancak, harita enlem okunabilir hangi doğru ve ince aralıklı enlem ölçeği ile işaretlenmiş ise, doğrudan olarak Mercator 1569 dünya haritası için durum (yaprak 3, 9, 15) ve daha sonraki tüm deniz olduğu çizelgeleri-meridyen iki enlem φ1 ve φ2 arasındaki mesafe basitçe
+Uç noktaları enlemleri güvenle tespit edilemiyorsa o zaman onun yerine cetvel mesafesi hesaplama ile bulunabilir. Ekvatordan ölçülen Haritada meridyen üzerindeki uç noktaları cetvel mesafeleri çağrılması 1 "y" ve "y" 2, küre üzerinde bu noktalar arasındaki gerçek mesafe ters Mercator Formüller birini kullanarak verilir:
+burada "R", "R = W / 2π" haritanın "W" ile genişliği hesaplanabilir. Örneğin, "R" = 1 "Y" nin değeri = 0, 1, 2, φ arasında enlemlerde 3 tekabül bir haritada = 0 °, 1 50 °, 75 °, 84 ° ve bu nedenle takip eden aralıklar Harita üzerinde cm 50 ° dünya üzerinde 5560 km'lik 25 °, 9 ° ve mesafeleri, 2,780 km ve Dünya'da 1000 km aralıklarını enlem karşılık gelmektedir.
+Bir rhumb üzerinde.
+Meridyenler açısı α de Mercator harita üzerinde düz bir çizgi, bir kerte hattı olduğunu. Tüm α = π / 2 veya 3π / 2 kerte paralel birine tekabül eder; tek, ekvator, büyük bir daire olduğunu. Ne zaman α = 0 veya (Dünya'nın etrafında devam ederse) o meridyen büyük bir çember karşılık π. Diğer tüm değerler için aynı açıyla tüm meridyenler kesişen dünya üzerinde kutuptan kutuba bir sarmal olduğunu ve bu nedenle büyük bir daire değildir. Bu bölüm sadece bu gibi durumlarda son tartışıyor.
+Α ise ne 0 ne π sonra sonsuz elementlerin yukarıdaki rakam gösteriyor ki enlemleri arasında φ küre üzerinde bir sonsuz kerte hattı uzunluğu; ve φ + δφ "a" secα δφ olup. Α rhumb üzerinde sabit olduğundan, bu ifade Dünya'da sonlu kerte hattı için, vermek üzere entegre edilebilir:
+Δφ harita üzerinde doğru bir enlem ölçeği doğrudan okunabilir, eğer bir kez daha, sonra enlemlerde φ1 ve φ2 ile harita noktaları arasındaki mesafe kerte yukarıdaki verilir. "Y" böyle bir "y" ölçek bitiş noktaları ile ekvator arasındaki sonra cetvel mesafeleri, 1 ve 2 varsa, ters formül aracılığı ile sonuç verir:
+Bu Formüller kimin belirlenmesi daha sofistike hesaplamalar gerektiren gerçek mesafelerden büyük farklılıklar olabilir küre üzerinde kerte mesafeleri verir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE></DOCTITLE>
+<TEXT>
+
+
+</TEXT>
+</DOC>
+

@@ -1,0 +1,36 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Paraleller	paralel	+Adj^DB+Verb+Zero+Pres+A3pl
+Paraleller	paralel	+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+
+hangi	hangi	+Adj
+
+doğrultuda	doğrultu+Noun+A3sg+Pnon+Loc
+
+uzanır	uza	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+uzanır	uza	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+uzanır	uzan	+Verb+Pos+Aor+A3sg
+uzanır	uzan	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

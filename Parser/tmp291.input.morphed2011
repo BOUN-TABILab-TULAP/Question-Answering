@@ -1,0 +1,37 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Tuz	tuz	+Noun+A3sg+Pnon+Nom
+Tuz	Tuz	+Noun+Prop+A3sg+Pnon+Nom
+
+gölünün	göl+Noun+A3sg+P3sg+Gen
+gölünün	göl+Noun+A3sg+P2sg+Gen
+
+ticari	ticari	+Adj
+
+önemi	önem+Noun+A3sg+Pnon+Acc
+önemi	önem+Noun+A3sg+P3sg+Nom
+
+nedir	ne	+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

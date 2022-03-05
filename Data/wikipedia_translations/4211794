@@ -1,0 +1,40 @@
+Göl Deşarj Sorunu
+Ortak bir açık kanal akış problemi dikdörtgen kanala bir gölden akıntı belirliyor.
+Giriş.
+Bir göl, belirli bir genişliğe, hidrolik pürüzlülüğü ve eğime sahip bir dikdörtgen kanala boşalır. Göl çıkışında Deşarj göl ve kanal özelliklerine hesaplanan göre değişir. Kanal pürüzlülüğü (aynı zamanda Manning, "n" olarak adlandırılır) Gauckler-Manning katsayısı ile tarif edilen bir özelliğidir. Kanal pürüzlülük bitki örtüsü ve yatak sediment büyüklüğü açısından kanalını açıklar Manning'in Pürüzlülük Katsayıları kullanılarak tespit edilebilir. Kanal eğim kanalı boyunca yükseklik değişiklikleri belirlemek için topografik haritalar kullanılarak bulunabilir. çıkışının üzerinde göl ("y") seviyesi boşaltma belirlemek için kullanılır ve bir kanal tabanına göre lake seviyesini ölçmek suretiyle belirlenebilir. Normal derinlik üniform akış şartlarında suyun derinliği. Şekil 1 bir göl çıkışında deşarj belirlemek için yukarıda açıklanan adımları görsel temsilini sağlar.
+Dik ulaşamayacağı için deşarj belirlenmesi.
+Çıkışında eğim, pürüzlülük katsayısı, kanal genişliği ve derinliği göz önüne alındığında göl, kanal deşarj hesaplanabilir. Ulaşmak varsayarsak dik kanal dikdörtgen şeklindedir, göl çıkışındaki akış kritik ve çıkış invert yükselmesine göl göreli yükseklik göl çıkışındaki kritik enerjiye eşittir.
+FORMULA_1 "(Denklem 1)"
+Nerede:
+Kritik derinliği Belirli akıntı, "q", dikdörtgen bir kanaldaki birim genişlik başına deşarj belirlemek için kullanılabilir. Belirli deşarj genişliği ile çarpılır, (b) akıntı, "Q" belirlemek için. Denklem 2 formülünü gösterir.
+formula_4 "(Denklem 2)"
+formula_5 "(Denklem 3)"
+Nerede:
+Normal derinlik üniform akım koşulları altında bir kanalda akış derinliği. Yerçekimi itici güç sadece kanal tarafı ve alt kısmı boyunca sürükleyin sürtünme kuvveti ile dengelenir normal derinlik oluşur. Normal derinliği boşaltma çözmek için gereklidir. Bunu yapmak için, Denklem 4'te aşağıda tarif edilen hız için Manning formülü kullanılabilir. daha sonra boşaltma kanalının enine kesit alanı, bu hız çarpılmasıyla saptanabilir.
+formula_11 "(Denklem 4)"
+Nerede:
+Normal derinlik kanal geometrisi, pürüzlülük "n", yamaç ve akıntı bir fonksiyonudur. Bu nedenle, iteratif bir metot dikdörtgen kanal normal bir derinliğe çözmek için gereklidir. Ulaşmak dik olup olmadığını belirlemek için, Froude sayısı ve kritik derinlik ve normal derinliğinin bir karşılaştırma halinde kullanılabilir. Froude sayısı şu denklemle belirlenebilir:
+formula_16 "(Denklem 5)"
+Nerede:
+Froude sayısı 1 den büyük olduğu takdirde, akış süperkritik ve ulaşmak diktir. deşarj göl tanımlanmış bir dizi ile bir dik erişim için aynı kalır ve özelliklerini ulaşır. Bu nedenle, Denklem 1 ilk varsayım geçerlidir ve çözelti bulunmuştur. ulaşmak kritik derinliği, normal derinliğinden daha büyük olduğu gibi dik olarak sınıflandırılabilir.
+Hafif ulaşamayacağı için deşarj belirlenmesi.
+Kanal özelliklerden herhangi birini değiştirme ulaşmak dik ya da hafif olup olmadığını etkileyebilir. Akış subkritik olduğunda, az 1'den bir Froude sayısı ile tanımlanan, ulaşmak hafif. Hafif ulaşamayacağı bir dik ulaşamayacağı çapraz akış kritik durumlarda geçmelidir. Froude sayısı birine eşit olduğunda kritik koşullar ortaya çıkar.
+Birçok durumda, hafif bir eğimle deşarj ve normal derinlik başlangıçta bilinen olmayacaktır. deşarj yinelemeli süreçte hesaplanabilir. İlk olarak, bir boşaltma normal derinlik hesaplanabilir şekilde kabul edilmelidir. Aşağıdaki denklem, hız ve alan bakımından boşaltılması için çözer. Normal derinliği her iki hız ve alan bir fonksiyonudur ve bu nedenle bu denklem kullanılarak çözülebilir.
+formula_21 "(Denklem 6)"
+Nerede
+Normal derinlik tekrarlanan süreç akışı özelliklerine karşılık, normal derinlik bulmak için kullanılan Denklem 6'da içine hız için Manning formülü ("Denklem 4") ekleyerek hesaplanabilir. Bu, normal derinliği hesaplanmasında kullanılan değişkenler Tablo 1 'de listelenmiştir ve "(normal bir derinliğe (" y0'), dikdörtgen bir kanal ("A"), enine kesit alanı, ıslatılmış çevre ("P"), hidrolik yarıçap içerir R "), hız (" v "), ve deşarj (" Q "). Derinlik ve boşaltma enerji aşağı gölün enerjisine eşit olduğu gibi bulunabilir gerekir bu yüzden enerjinin korunumu, tutmak gerekir. Özgül enerji olarak verilir:
+formula_25 "(Denklem 7)"
+Nerede
+bir göl hız dolayısıyla Denklem 7 ilk dönem sıfır, ihmal edilebilir düzeydedir. bir göl enerji göl yüzeyinin yükselmesi göl invert yüksekliği su derinliği eşittir. Aşağıdaki örnekte göl enerji 2,00 metreye eşittir. Göl çıkışındaki enerji Tablo 1'de birinci tekrarda gösterilen normal bir derinlik iteratif işlem sırasında hesaplanan hızı, bu enerji akım deşarj çıkışından geçmesine izin vermek için gerekli enerjiden daha büyük olan kullanılarak hesaplanır.
+Tekrarlanan bir süreç enerji ihtiyacını karşılayacak, normal derinliği hesaplamak için kullanılır. Normal derinliği azalan deşarj azalır ve bunun sonucu olarak, göl çıkışında enerji azalır kadar, aşağıda Tablo 1 göstermektedir. Normal bir derinlik enerji dengesini tatmin olduğu bulunana kadar yineleme yapılır.
+Tablo 1. Normal derinlik tekrarlamalar 0.004 bir yamaç için enerji dengesi
+Bu iteratif süreç böyle kanal genişliği veya sertlik olarak değişen diğer kanal özellikleri, dere normal derinlik ve enerji nasıl etkilediğini değerlendirmek için de kullanılabilir.
+Akıntı ve kanal hafifliği arasındaki ilişki.
+Erişemeyeceği eğimi dik iken, Froude sayısının anlamı erişemeyeceği deşarj aynı kalır, biri eşit veya daha büyük olduğunu. Reach az olandan daha Froude sayısı ile, alt kritik koşulları yaklaşımları sonra akıntı yavaş yavaş azalır. Reach hafif hale geldikçe, deşarj sıfıra doğru yönelir. Tablo 2 0.02 eşit 10 feet eşit ve Manning adlı pürüzlülüğü "n", "b" genişliğinde bir dikdörtgen kanal için yamaçları ve bunlara tekabül eden deşarjların bir listesini sağlar. Bu tablodaki deşarj pistleri her biri için yinelemeli bir yaklaşım kullanılarak hesaplanmıştır.
+Tablo 2. Eğim ve deşarj ilişkisi
+Şekil 4 kanal özellikleri verilen kümesi için eğim değişiklikleri gibi ne olur bir görselleştirme verir. Şekil 4 yamaçlar kullanarak ve bu koşullar için 1. Herhangi bir eğim fazla 0.0072 daha büyük dik bir yamaç ve bu nedenle, 87.4 ft3 / s deşarj sahip tablodan bir Froude sayısı 0.0072 sonuç daha fazla 3. Yamaç deşarjları tekabül oluşturuldu .
+Su yüzeyi profilleri.
+su yüzeyi profili kritik derinlik ve normal derinliği arasında bir mesafe üzerinden nasıl akış derinliği değişiklikleri gösterir. Dik ulaşamayacağı için, gölün mansap su yüzeyi profili bir S2 eğrisi denir. Bir göl hafif ulaşamayacağı için tahliye olduğunda profil yoktur. ulaşmak akımı normal derinlikte hemen olduğunu. Göl dik ulaşamayacağı kadar deşarj, normal derinlikte göl çıkışından bir S2 profili var. Eğim azaldıkça, S2 eğri uzunluğu artar. Şekil 5 ne zaman Fr Yukarıda verilen kanal profili için S2 eğrisini göstermektedir = 1.18. Standart Adım Yöntemi su yüzeyi profilleri hesaplamak için kullanıldı.
+Kaynaklar.
+Moglen, G.E. (2013) Ders CEE 4324/5384 notları: Açık Kanal Akış, Virginia Tech <http://filebox.vt.edu/users/moglen/ocf/index.html>
+http://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-090-special-topics-an-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/lecture-notes/ch5.pdf

@@ -1,0 +1,51 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+IMF	Imf	+Noun+Prop+A3sg+Pnon+Nom
+
+ödeme	öde+Verb+Neg+Imp+A2sg
+ödeme	öde+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+ödeme	ödem+Noun+A3sg+Pnon+Dat
+ödeme	ödeme+Noun+A3sg+Pnon+Nom
+
+güçlüğü	güç+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+güçlüğü	güç+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+güçlüğü	güç+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
+güçlüğü	güç+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+güçlüğü	güçlük+Noun+A3sg+P3sg+Nom
+güçlüğü	güçlük+Noun+A3sg+Pnon+Acc
+
+çeken	çek+Verb+Pos^DB+Adj+PresPart
+
+ülkelere	ülke+Noun+A3pl+Pnon+Dat
+
+nasıl	nasıl+Adverb
+nasıl	nasıl+Adj
+
+yardımcı	yardımcı+Noun+A3sg+Pnon+Nom
+
+olur	ol	+Verb+Pos+Aor+A3sg
+olur	ol	+Verb+Pos^DB+Adj+AorPart
+olur	olur	+Noun+A3sg+Pnon+Nom
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

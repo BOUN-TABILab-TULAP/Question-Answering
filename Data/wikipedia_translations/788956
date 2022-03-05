@@ -1,0 +1,14 @@
+HP Integrated Lights-Out
+Integrated Lights-Out, ya da iLO, out-of-band yönetim olanakları Hewlett-Packard tarafından tescilli gömülü sunucu yönetim teknolojisidir. fiziksel bağlantı 300 ve serinin üstünde en Proliant sunucularında bulunabilir bir Ethernet portu olduğunu.
+iLO, diğer satıcılar tarafından sunulan yönetimi (LOM) teknolojisi Işıklar benzer işlevselliğe sahiptir örnek Sun / Oracle ILOM, Dell DRAC, IBM Remote Supervisor Adapter ve Cisco CIMC için.
+Özellikler.
+iLO mümkün uzak bir yerden bir HP sunucu üzerinde faaliyetlerini gerçekleştirmek için yapar. iLO kartı tek HTTPS üzerinden bağlanabilirsiniz ayrı bir ağ bağlantısı (ve kendi IP adresi) sahiptir. Olası seçenekler şunlardır:
+iLO sanal ortamda (CD, disket), sanal güç ve uzak konsolu gibi diğer bazı araçlar sağlar. iLO bir PCI kartı olarak sistem kartındaki gömülü veya mevcut ya olduğunu.
+Kullanılabilirlik.
+iLO bazı HP ProLiant ve Integrity sunucuları üzerinde gömülü veya mevcuttur.
+ILO önce Compaq yönetimi ürünleri diğer bazı ışıkları yarattı. özgün Uzaktan bir EISA veya PCI genişleme kartı gibi kullanılabilir Insight Kurulu (GES). RIB PCI için sadece mevcut RiLOE (Uzaktan Insight Işık Çıkışı Edition), ile değiştirildi. Orijinal RiLOE RiLOE II ile değiştirildi. HP RiLOE için 2.53 (A) tarihli 9 Mart 2004 ise 2006 yılında son firmware sürümü RiLOE II imalat durdu ve 5 Temmuz 2006 tarihli 1.21 RiLOE II.
+Bazı ProLiant 100 serisi sunucular için daha sınırlı bir işlevselliğe sahiptir seçeneği, "100 Lights Out" var. LO100 geleneksel IPMI BMC ve iLO ile donanım veya firmware paylaşmaz.
+Sürümleri.
+ILO, bir tek basamaklı sayı ("iLO 2") tarafından belirtildiği her nesil çoklu nesiller olmuştur. ILO bazı nesiller özellikleri lisanslı ne dayalı farklı sürümleri içine segmentlere ayrılırlar. iLO HP, periyodik olarak yeni sürümlerini bültenleri hangi güncellenebilir firmware içerir.
+Programlama arabirimleri.
+Birkaç API'ler HP iLO ile etkileşim için var:

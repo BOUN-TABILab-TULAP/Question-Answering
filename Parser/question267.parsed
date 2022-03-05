@@ -1,0 +1,13 @@
+1	Akarsu	akarsu	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	üzerinde	üzer	Noun	Noun	A3sg|P3sg|Loc	6	LOCATIVE.ADJUNCT	_	_
+3	hidroelektrik	hidroelektrik	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+4	santral	santral	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT	_	_
+5	_	kur	Verb	Verb	_	6	DERIV	_	_
+6	_	_	Verb	Verb	Pass|Pos|Aor	7	DERIV	_	_
+7	kurulurken	_	Adv	Adv	While	11	MODIFIER	_	_
+8	nelere	ne	Pron	QuesP	A3pl|Pnon|Dat	11	DATIVE.ADJUNCT	_	_
+9	dikkat	dikkat	Noun	Noun	A3sg|Pnon|Nom	11	SUBJECT	_	_
+10	_	et	Verb	Verb	_	11	DERIV	_	_
+11	edilmelidir	_	Verb	Verb	Pass|Pos|Neces|A3sg|Cop	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

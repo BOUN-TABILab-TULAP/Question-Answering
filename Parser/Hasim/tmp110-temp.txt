@@ -1,0 +1,21 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dünyada dünya+Noun+A3sg+Pnon+Loc
+hava hav+Noun+A3sg+Pnon+Dat hava+Noun+A3sg+Pnon+Nom
+ulaşımının ulaşım+Noun+A3sg+P3sg+Gen ulaşım+Noun+A3sg+P2sg+Gen
+kaçta kaç+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+kaçı kaç+Adj^DB+Noun+Zero+A3sg+P3sg+Nom kaç+Adj^DB+Noun+Zero+A3sg+Pnon+Acc kaç+Pron+Ques+A3pl+P3pl+Nom
+ABD Abd+Noun+Prop+A3sg+Pnon+Nom
+sınırları sınır+Noun+A3pl+Pnon+Acc sınır+Noun+A3pl+P3sg+Nom sınır+Noun+A3pl+P3pl+Nom sınır+Noun+A3sg+P3pl+Nom sınırla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+içinden iç+Noun+A3sg+P2sg+Abl iç+Noun+A3sg+P3sg+Abl
+gerçekleşmektedir gerçek+Adj^DB+Verb+Become+Pos+Prog2+A3sg+Cop gerçek+Adj^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Prog2+A3sg+Cop gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf1+A3sg+Pnon+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

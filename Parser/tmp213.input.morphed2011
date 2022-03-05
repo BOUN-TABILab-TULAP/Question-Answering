@@ -1,0 +1,46 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Babülmendep	Babülmendep	+Noun+Prop+A3sg+Pnon+Nom
+
+Kanalı	kan	+Verb+Pos^DB+Adverb+SinceDoingSo
+Kanalı	kana	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+Kanalı	Kana	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With
+Kanalı	kanal	+Noun+A3sg+P3sg+Nom
+Kanalı	kanal	+Noun+A3sg+Pnon+Acc
+Kanalı	Kanal	+Noun+Prop+A3sg+P3sg+Nom
+
+hangi	hangi	+Adj
+
+ülkelerin	ülke+Noun+A3pl+Pnon+Gen
+ülkelerin	ülke+Noun+A3pl+P2sg+Nom
+
+kıyıları	kıyı+Noun+A3pl+Pnon+Acc
+kıyıları	kıyı+Noun+A3pl+P3sg+Nom
+kıyıları	kıyı+Noun+A3pl+P3pl+Nom
+kıyıları	kıyı+Noun+A3sg+P3pl+Nom
+kıyıları	kıyıla+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3sg+P3sg+Nom
+
+arasındadır	ara	+Noun+A3sg+P3sg+Loc^DB+Verb+Zero+Pres+A3sg+Cop
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

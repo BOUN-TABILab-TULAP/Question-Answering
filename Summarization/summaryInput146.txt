@@ -1,0 +1,290 @@
+Question: En fazla hasara neden olan dalgalar hangileridir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Depremler (EBA)</DOCTITLE>
+<TEXT>
+
+İnsanlığın varoluşundan bu yana depremler en önemli doğal olaylardan biri olmuştur. İnsanlar ilk önceleri depremlerin oluş nedenlerini değişik şekillerde açıklamaya çalışmışlardır. Örneğin, sık sık deprem olan Japonya'da, Dünya kurulurken toprağın içinde kalan bir balığın dışarı çıkmak için yaptığı çırpınmaların depremleri oluşturduğuna inanılmıştır. Yeni Zelanda’nın ilkel kavimlerinin inançlarına göre deprem, deprem yaratan bir tanrının arzusuna bağlı olarak oluşmaktaydı. Ancak 18. yüzyılın sonlarına doğru bu görüşler etkisini yitirmiş ve depremlerin nedenleri bilimsel yöntemlerle açıklanmaya başlanmıştır.
+Fay Tipleri
+Yer kabuğu hareketleri, yer kabuğunu oluşturan tabakaların üzerinde çok büyük gerilimler oluşturur. Bu gerilimler neticesinde sert olan tabakalar kırılır. Bu kırık alanlar fay hatlarını oluşturur. Fayların geçtiği sahalar çoğu kez yer kabuğunun altında biriken enerjinin kolaylıkla yer yüzüne çıktığı alanlardır. Fay hatlarının geçtiği yerlerde deprem riski de fazladır.
+Normal fay
+Fay hattının iki yanındaki blokların düşey yönde birbirinden uzaklaşmasıyla oluşur.
+Ters fay
+Alçalan bloğun, yükselen blok altına dalmasıyla oluşur.
+Doğrultu atımlı fay
+Kırık boyunca tabakaların yatay yönde yer değiştirmesi ile oluşur.
+Fayların iki tarafında kalan bloklar aşağı ve yukarı doğru hareket edebileceği gibi yatay olarak da hareket edebilir ve bu hareket sonrasında da depremler meydana gelir. Bu tür depremlere tektonik depremler denir. Depremin büyüklüğü açığa çıkan enerji miktarına bağlıdır.
+Dış merkez
+Deprem dalgalarının en kısa yoldan yüzeye ulaştığı noktadır.
+Deprem şiddetinin en fazla hissedildiği yerdir. Deprem dalgaları suya atılan taşın oluşturduğu dalgalar gibi merkezden çevreye doğru yayılır. Merkezden uzaklaştıkça depremin etkisi de azalmaktadır.
+İç merkez
+Deprem sırasında deprem odağından yayılan titreşimler (dalgalar) yer kabuğunda sarsıntılar oluşturur.
+Depremin başladığı yer olarak kabul edilen noktadır.
+Birikmiş enerjinin tümü ilk sarsıntıda boşalmayabilir. Kalan kısım asıl depremi takip eden artçı sarsıntılarla boşalır.
+Deprem Dalgalarının Etkisi
+Deprem sırasında deprem dalgalarının yayıldığını öğrenmiştiniz. Deprem odağından çevreye doğru yayılan dalgaların şiddeti ve etkileri aşağıdaki tabloda gösterilmiştir.
+Boyuna Dalgalar (P)
+Yüzeye ilk ulaşan ve saniyede 8 km yol alan bu dalhalar zemini sıkıştırma ve genişletme özelliğine sahiptir.
+Enine Dalgalar (S)
+Saniyede 4,5 km yol alarak yüzeye ulaşır ve yüzeyi sağa sola, aşağı yukarı sallar.
+Yüzey Dalgalar (L)
+Saniyede 1,5 km yol alan yüzey dalgalar gibi salınım hareketleri meydana getiren yıkıcı etkisi en fazla olandır.
+Deprem Dalgalarını Tespit Etmek
+Deprem, sismoloji biliminin inceleme alanına girmektedir. Deprem titreşimlerini kaydetmek için bilim adamları sismograf denilen cihazı kullanmaktadırlar.
+Depremin şiddetini tespit etmek için bazı ölçekler geliştirilmiştir ve bunlardan en yaygın olarak kullanılanı Richter (Rihter) ölçeğidir.
+Richter (Rihter) ölçeği depremin yaptığı hasara göre değil, deprem odağından çevreye yayılan enerji miktarına göre yapılmıştır. Deprem sırasında açığa çıkan bu enerjiye depremin magnitüdü (büyüklüğü) denir.
+Rihter ölçeği Depremin büyüklüğü (Magnitüd)	Mercalli ölçeği	Depremin şiddeti
+3,5-4,2	1 -3	Hafif
+4,3-4,8	4-5	Orta
+4,9 - 6,1	6-7	Şiddetli
+6,2 - 7,3	8-10	Yıkıcı
+7,4 +11- 12	Afet
+Depremlerin büyüklüğünün sadece magnitüd değeri olarak verilmesi, deprem konusunda yeterli bilgisi olmayan insanların depremin büyüklüğünü tam olarak anlayamamasına sebep olmaktadır. Bundan dolayı, depremlerin magnitüd değerleri dışında şiddetleri de verilmektedir.
+Büyüklük depremin odak noktasından çıkan enerji miktarıdır. Şiddet ise depremin yer yüzünde meydana getirdiği etkidir.
+Tsunami
+Depremler yalnızca karalarda değil, okyanus ve deniz tabanlarında da meydana gelmekte, deniz yüzeyinde dev dalgaların oluşmasına neden olmaktadır. Tsunami adı verilen bu dalgalar kıyıya kadar ilerleyerek alçak alanların sular altında kalmasına, can ve mal kayıplarına neden olmaktadır.
+Deprem Türleri: Depremler oluş nedenlerine göre değişik adlar alırlar.
+Tektonik depremler; Levhaların hareketine bağlı olarak yer kabuğunun derinliklerinde meydana gelen basınçlar, gerilmeler ve kırılmalar sonucunda oluşur.
+Volkanik depremler; Volkanik patlamalar sırasında meydana gelen sarsıntılardır. Özellikle asit karakterli lavların çıkışı esnasında sarsıntılar yaşanır. Depremin şiddeti volkanizmanın büyüklüğüne ve süresine bağlı olarak değişir. Volkanik depremlerin etki alanı dardır.
+Çöküntü depremleri; yer altındaki boşlukların (mağara), kömür ocaklarındaki galerilerin, karstik arazilerde erime sonucu oluşan boşlukların tavan bloklarının çökmesi ile oluşur. Etki alanları dardır. Büyük heyelanlar ve gökten düşen meteorların da küçük sarsıntılara neden olduğu bilinmektedir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2011 Tōhoku depremi ve tsunamisi</DOCTITLE>
+<TEXT>
+
+2011 Tōhoku depremi ve tsunamisi "(Japonca: 東北地方太平洋沖地震 Tōhoku Chihō Taiheiyō-oki Jishin)", 11 Mart 2011'de, Japonya'nın Tōhoku bölgesinde 9,0 Mw büyüklüğünde gerçekleşen depremdir. Merkez üssü Tōhoku bölgesinin doğu kıyısında, yerin 24,4 km derinliğinde olan deprem; yerel saate göre 14:46'da gerçekleşti. ABD Jeolojik Araştırma Kurumu tarafından ilk etapta 7.9 olarak belirlenen depremin şiddeti sonradan yapılan açıklamayla 8.8, daha sonrasında ise 8.9 olarak belirtildi, son olarak ise Japonya büyüklüğü 9.0'a yükseltti. 9.0 büyüklüğünde olan deprem Japonya'da yaşanan en büyük deprem olduğu; dünyada ise en büyük ilk beş depremin arasında olduğu açıklandı. Japon hükümeti, felaketi resmi olarak "Büyük Doğu Japonya depremi" (東日本大震災, "Higaşi Nihon Daişinsai") olarak adlandırdı. Deprem sonrasında bölgede yüksekliği 37.9 metreye varan tsunami dalgaları meydana geldi.
+Tsunami ülkede çok büyük zarara yol açtı. Depremde kişi hayatını kaybetti ve kişi hâlen kayıp olarak belirtiliyor. Kara ve demiryolları ağır hasar gördü, çeşitli yerlerde yangınlar çıktı ve bir baraj yıkılarak bölgeyi su basmasına neden oldu. Kuzeydoğu Japonya'da 4.4 milyon ev elektriksiz, 1.5 milyon ev ise susuz kaldı, deprem sonucu gıda sıkıntısı da meydana geldi. Deprem sonucu Fukuşima Nükleer Elektrik Santralinde tsunami sonucu kazalar meydana geldi.
+Deprem sonrasında doğan tsunamilerde, dalgalar saatte 500 km hızla Hawaii'ye ulaştı.
+Deprem.
+9.0 MW büyüklüğündeki bir denizaltı ters fay depremi olan deprem, 11 Mart 2011 tarihinde Japonya saati ile (JSİ) saat 14:46'da (05:46 UTC) batı Pasifik Okyanusu'nda ve nispeten sığ olan 32 km'lik bir derinlikte meydana geldi. Merkezi Japonya'nın Tōhoku bölgesindeki Oşika Yarımadası'nın 72 km doğusunda olan deprem, yaklaşk altı dakika sürdü. Depreme en yakın büyük şehir, Honşu adasındaki 130 km uzaklıkta bulunan Sendai'ydi. Deprem Tokyo'dan 373 km uzaklıkta meydana geldi. Depremden önce büyük sayıda öncü deprem ve depremden sonra yüzlerce artçı deprem meydana geldi. İlk öncü deprem 9 Mart günü 7.2 MW büyüklüğünde, ana depremin meydana geldiği yerden 40 km uzakta meydana geldi, 6.0 büyüklüğünü geçen üç öncü deprem daha 11 Mart günü oldu. Depremden sonra saat JSİ saat 15:06'da 7.0 MW, JSİ 15:15'te 7.4 ve JSİ 15:26'da 7.2 büyüklüğünde artçı şoklar meydana geldi. Ana depremden beridir büyülüğü 4.5'in üzerinde olan 800'den fazla artçı şok meydana geldi. ABD Jeolojik Araştırmalar Kurumu (USGS) müdürü Marcia McNutt, artçı şokların Omori kanununu izlediğini ve yıllarca devam edip zaman içinde durulacaklarını belirtti. Depremden bir dakika önce Japonya çapında binden fazla sismometre içeren Deprem Erken Uyarı Sistemi milyonlarca kişiyi şiddetli bir deprem olacağı yönünde uyardı. Japonya Meteoroloji Ajansı, bu erken uyarının pek çok hayat kurtardığına inandığını açıkladı.
+En başta USGS tarafından 7.9 MW olarak duyurulan depremin büyüklüğü, kısa bir süre sonra 8.8'e, daha sonra 8.9'a ve en sonunda 9.0'a yükseltildi. Pasifik Tsunami Uyarı Merkezi'nden Gerard Fryer depremden hemen sonra büyüklüğü 9.1 olarak tahmin etse de, bu görüş geniş bir katılım bulmamış, özellikle USGS tarafından kabul edilmemiştir.
+Jeoloji.
+Deprem Pasifik levhasının Honşu'nun altındaki tartışma konusu olan bir levhanın altına battığı yerde meydana geldi. Yılda 8-9 santimetrelik bir hızla hareket eden Pasifik levhası, Honşu'nun altındaki levhanın altına inmekte ve büyük miktarda enerji üretmektedir. Bu hareket bir sismik olaya yol açacak kadar bir gerginlik birikene kadar üstteki levhayı da aşağıya doğru iter. Deprem deniz tabanının birkaç metre yükselmesine neden oldu. Bu büyüklükteki bir deprem genelde 480 km'den büyük bir kırık uzunluğuna sahiptir, bu da uzun ve nispeten düz bir fay yüzeyi gerektirir. Bu bölgedeki levha sınırı ve batma bölgesi pek düz olmadığından depremin büyüklüğünün 8.5'ten büyük olması alışılmışın dışındadır, bu nedenle depremin büyüklüğü bazı sismologları şaşırtmıştır. Depremin merkezi Iwate ili açıklarından Ibaraki ili açıklarına kadar uzanıyordu. Japonya Meteoroloji Ajansı depremin Iwate'den Ibaraki'ye kadar 500 km uzunluğunda ve 200 km genişliğinde bir fay bölgesini kırmış olabileceğini belirtti. Yapılan analizler depremin üç olaydan oluştuğunu gösterdi. Depremin büyük bir tsunami yaratan bir başka deprem olan ve 8.6 büyüklüğünde yüzey dalgası magnitüdü olan 896 Sanriku depremi ve tsunamisi ile aynı işleyiş biçimine sahip olabileceği belirtiliyor.
+Enerji.
+Deprem 1.9±0.5×1017 julluk yüzey enerjisi açığa çıkardı, bu enerji sallantı ve tsunami şeklinde harcandı; açığa çıkan enerji miktarının 9.1 büyüklüğündeki 2004 Hint Okyanusu depremi ve tsunamisinin neredeyse iki katı olduğu belirtildi. McNutt, bir röportajda, "Eğer bu depremden ortaya çıkan yüzey enerjisini kontrol edebilseydik, Los Angeles büyüklüğündeki bir şehre bir yıl boyunca enerji sağlayabilirdik" dedi. Depremde açığa çıkan toplam enerji miktarı yüzey enerjisinin 200 bin katıydı ve USGS tarafından 3.9×1022 olarak hesaplandı, bu da 2004'tekinden biraz daha azdır. Bu 9320 gigaton TNT'ye ve Hiroşima'ya atılan atom bombasından açığa çıkan enerjinin yaklaşık 600 milyon katına eşdeğerdir.
+Jeofiziksel etkileri.
+Tōhoku depremi ile Dünya’nın ekseninin 15 santim kaydığı, eksendeki bu kayma sonucu 24 saatlik bir günün 1.8 mikrosaniye (bir saniyenin milyonda biri) azaldığı jeoloji uzmanları tarafından belirtildi. Keza 2004 yılı Sumatra depremi ve 2010 yılı Şili depremleri için de, Dünya eksenini kaydırdığı bilim insanlarınca söylenmişti.
+Ayrıca Japonya adasının, kuzeydoğu yönünde 2,4 metre Tōhoku depreminin merkezine doğru kaydığı açıklandı.
+Tokyo civarındaki, özellikle Chiba'daki deniz doldurularak elde edilen bölgelerde toprak sıvılaşması belirgin bir biçimde gözlemlendi. Bu nedenle yaklaşık 30 bina yıkıldı, 1046 bina çeşitli derecelerde hasar gördü.
+Kyushu'daki Shinmoedake yanardağı depremden iki gün sonra patladı. Yanardağ daha önce Ocak 2011'de patlamıştı, martta meydana gelen patlamanın depremle ilişkili olup olmadığı bilinmiyor. Antarktika'da sismik dalgaların Whillans Buz Akıntısı'nın 0.5 metre kadar kaymasına yol açtığı da bildirildi.
+NASA'da çalışan bir araştırma ekibinin başkanı olan Dr. Richard Gross, ekibi için 1.8 mikrosaniyelik bir kaymanın bile önemli olduğunu, bunun Mars'a giden bir uzay aracının yönlendirilme biçimini etkilediğini belirtti. Gross, değişiklikleri hesaba katmamanın görevin başarısızlıkla sonuçlanması anlamına gelebileceğini söyledi.
+Tsunami.
+Deprem, Japonya'nın tüm Pasifik kıyısı boyunca çok büyük bir zarara yol açmış olan büyük bir tsunamiyi tetikledi. Dalgaların yüksekliği Tarō'da ise 37.9 m, Ōfunato'da ise 23 metre olarak kaydedildi. Tsunami tüm Pasifik'e yayıldı, Güney ve Kuzey Amerika'da, Alaska'dan Şili'ye kadar olan bölgede tsunami uyarıları verildi, bu bölgelerde tsunami görülmesine karşın etkileri küçüktü. Şili'nin Pasifik kıyısı 17,000 kilometrelik uzaklıkla en uzak yerlerden biriydi, buna rağmen ülkede yüksekliği iki metreye varan dalgalar görüldü.
+Japonya.
+Japonya Meteoroloji Ajansı tarafından verilen tsunami uyarısı en yüksek seviyeydi, en az 3 m yüksekliğindeki bir "büyük tsunami" olarak nitelendirilmişti. Gerçek yüksekliğine ilişkin tahminler değişmekteydi, en yüksek tahmin 10 m ile Miyagi'deydi. Tsunami ülkede yaklaşık 470 kilometrekarelik bir alanı sular altında bıraktı.
+Deprem, Japonya saati ile (JSİ) 14:46'da, Japonya'nın en yakın kıyısının 67 kilmoetre açığında meydana geldi ve dalgaların ilk ulaşacağı bölgeye 10 ile 30 dakika içinde ulaşacağı, sonra da daha kuzeyde ve güneydeki bölgeleri etkileyeceği bildirildi. Depremin üzerinden bir saat geçmesinden hemen sonra, Japonya saati ile saat 15:55'te, Miyagi ilinin kıyısına yakın olan Sendai Havalimanı'nı dalgaların vurduğu gözlemlendi. Dalgalar uçak ve arabaları sürükledi, ilerlerken pek çok binayı bastı ve yıktı. Tsunaminin Sendai Havalimanı'nın içinde ve çevresinde yol açtığı zarar bir NHK Haber helikopteri tarafından görüntülendi, görüntülerde yaklaşan dalgalardan kaçmaya çalışan ve dalgaların içine alınan araçlar görülebilmektedir. 4 metrelik bir tsunami Iwate ilini vurdu. Sendai'deki Wakabayashi-ku da ciddi bir şekilde dalgalar tarafından vuruldu.
+2004 Hint Okyanusu depremi ve tsunamisinde olduğu gibi, Japonya'da da 2004 tsunamisinden çok daha yerel olsa bile tsunami, depremden çok daha fazla zarara yol açtı. Tsunaminin "bütün olarak kasabaları süpürdüğü"ne ilişkin haberler vardı, bunlardan biri 9500 kişinin kaybolduğu Minamisanriku'ydu. 14 Mart tarihine kadar kasabada toplam bin ceset bulunmuştu.
+Tsunamiden ölenlerin sayısının bu denli fazla olmasınının bir sebebi de, dalgaların beklenmedik derecede yüksek olan boyutlarıydı. Tsunaminin vurduğu pek çok şehirdeki tsunami setleri dalgaların yüksekliğinden daha küçüktü. Ayrıca dalgalara yakalanan pek çok kişi dalgalardan kaçabilmek için yeterince yüksekte olduklarını düşünümüştü.
+Kuji ve Ōfunato "tamamen yıkılmış ve orada bir kasaba olduğunu dair hiçbir işaret kalmamıştı". Gelen haberlere göre dalgaların üç katlı bir bina yüksekliğinde olduğu Rikuzentakata kasabası da yıkılmıştı. Gelen haberlere göre tsunamide zarar gören kasabaların arasında Kamaishi, Miyako, Ōtsuchi, ve Yamada (Iwate ilinde), Namie, Sōma ve Minamisōma (Fukuşima ilinde) ve Higashimatsushima, Onagawa, Natori, Ishinomaki, and Kesennuma (Miyagi ilinde) vardır. Tsunaminin en ciddi etkileri kuzeyde Erimo'dan güneyde Ōarai'ye kadar olan 670 kilometrelik bir kıyı şeridinde hissedildi ve bölgedeki zararın çoğu depremi izleyen saat içerisinde meydana geldi. Ōarai yakınlarında tsunamiden kaynaklanan dev bir anafor görüntülendi. Tsunami Miyagi'ye bağlı Miyatojima adasına olan köprüyü tamamen önüne katarak götürdü ve 900 ada sakini mahsur kaldı. İki metre yüksekliğindeki bir tsunami depremden iki saat sonra Chiba ilini vurdu ve Asahi gibi şehirlerde hasara yol açtı.
+13 Mart 2011'de, Japonya Meteoroloji Ajansı (JMA) Japonya kıyılarındaki tsunami gözlemlerini yayımladı. Tsunami dalgaları, aşağıdaki yerlerde 3 metrenin üzerine ulaşmıştı:
+Bu veriler, JMA'nın Japonya kıyısı boyunca bulunan kayıt istasyonlarından elde edildi. Pek çok bölge ayrıca 1 ila 3 metre uzunluğunda olan tsunami dalgalarından etkilendi ve JMA raporu "Bazı yerlerde dalgaların yüksekliği bu verilerden daha yüksek olabilir" diye bir not içermekteydi. İlk kaydedilen tsunami dalgası verilerinin zamanları 15:12 ila 15:21 arasında değişmekteydi, bu da depremden 26 ila 35 dakika sonraydı. Rapor ayrıca tsunami gözlem detaylarını ve dalgalardan etkilenen kıyıların ayrıntılı haritalarını içermekteydi.
+23 Mart 2011'de, Liman ve Havalimanları Araştırma Enstitüsü, telemetri ile aşağıdaki verileri elde etti:
+Yokohama Ulusal Üniversitesi ve Tokyo Üniversitesi'nden ortaklaşa bir araştırma ekibi, Ōfunato'daki Ryōri Körfezi'ndeki tsunaminin 29.6 m yüksekliğinde olduğunu bildirdi. Ekip, körfezin üzerindeki yüksek kayalıklarda dağılmış balıkçılık ekipmanları buldu. Tarō, Iwate'deki ölçümlerde, Tokyo Üniversitesi'nden bir araştırmacı kıyıdan 200 m uzaktaki bir tepede 37.9 metre yüksekliğindeki dalgalar tespit etti. Bu, Japonya tarihinde 1896 Meiji-Sanriku depremindeki 38.2 metrelik tsunamiden sonra en yüksek ikinci tsunami olmuştur.
+Pasifik'teki diğer bölgeler.
+Depremden kısa bir süre sonra Hawaii'deki Pasifik Tsunami Uyarı Sistemi (PTWC) Pasifik Okyanusu'ndaki bazı bölgeler için tsunami uyarısı yaptı. Saat 07:30'da (UTC), tüm Pasifik'i kapsayan geniş kapsamlı bir tsunami uyarısı yaptı. Rusya, Kuril Adaları'nda kıyıya yakın bölgelerde yaşayan 11 bin vatandaşını tahliye etti. ABD Batı Kıyısı ve Alaska Tsunami Uyarı Sistemi, Kaliforniya'nın büyük kısmındaki kıyı bölgeleri, Oregon'un tamamı ve Alaska'nın batısı için bir tsunami uyarısında bulundu ve Alaska'nın Pasifik Kıyısı, Vaşington eyaleti ve Kanada'daki Britanya Kolumbiyası'nı kapsayan bir tsunami önlem tavsiyesi yayınladı.. Kaliforniya ve Oregon'da bazı bölgeleri 2.4 metreye kadar varan dalgalar vurdu, bunlar limanlar ve iskelelere zarar verip 10 milyon dolarlık zarara yol açtı. Kanada'daki Vancouver Adası'nı bir metrelik dalgalar vurdu; bu kıyıdaki bazı bölgelerin boşaltılmasına ve deniz ulaşımının 12 saatliğine yasaklanmasına yol açtı, bu da ada sakinlerinin işlerine gidememelerine neden oldu.
+Filipinler'de 0.5 metreye kadar ulaşan dalgalar ülkenin doğusunu vurdu. Endonezya'daki Jayapura'da bazı evler hasar gördü. Papua Yeni Gine'nin Doğu Sepik ilindeki Wewak kasabasındaki Boram Hastanesi tsunamiden zarar gördü, 4 milyon dolarlık zarara uğrayan hastanedeki yüz hasta dalgalar ulaşmadan önce tahliye edildi. Hawaii'de sadece altyapı 3 milyon dolarlık zarar gördü, oteller gibi özel mülklere gelen zararlarla birlikte toplam zararın on milyonlarca dolara ulaştığı tahmin edildi. Midway Atolü'ndeki bazı adacıkları tamamen sular altına gömen 1.5 metre yüksekliğindeki bir tsunami adacıklarda kuluçkaya yatmış olan 110 bin su kuşunu öldürdü. Güney Pasifik'teki Tonga, Yeni Zelanda gibi ülkeler ve Amerikan Samoası ile Guam gibi bazı adalarda beklenenden büyük dalgalar gözlemlendi; fakat bunlar büyük bir zarara yol açmadı. Buna rağmen Guam'da bazı yollar kapatıldı ve düşük rakımlı bölgeler tahliye edildi.
+Zarar ve etkiler.
+Çoğunluğu tsunamiden dolayı meydana gelen zarar çok büyük boyutlardaydı. En kötü biçimde etkilenen kasabaların görüntülerinde neredeyse sadece enkaz yığınları görülebilmekteydi. İlk günlerdeki tahminler sadece depremden kaynaklanan zararın 14.5 ila 34.6 milyar Amerikan doları olduğunu ortaya koydu. İlerleyen günlerde zararın 300 milyar doları bulabileceği ve bunun felaketi dünya tarihindeki en fazla mali zarara yol açan felaket yapacağı tahmin edildi.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kare dalga</DOCTITLE>
+<TEXT>
+
+Kare dalga, genliğin sabit bir frekansla, iki değer, maksimum ve minumum, arasında eşit süreler kalarak değiştiği, sinüsoidal olmayan periyodik dalgadır. İdeal kare dalgada genliğin iki seviye arasında geçişi anlıktır; bu sırada herhangi bir gecikme yaşanmaz. Ancak bu durum fiziksel sistemlerde gerçeklenebilir değildir. Kare dalgalar elektronikte ve sinyal işlemede sıkça kullanılır. Kare dalga, genlik seviyelerinde kalma süresi farklı olabilen dikdörtgen dalganın özel halidir.
+Kullanımı.
+Kare dalgalar iki seviyeli lojik yapılar ile üretilir ve sayısal anahtarlama devrelerinde kullanılır. Yükselme ve düşme süreleri çok kısa olabilen kare dalgalar, senkron sayısal devrelerde tetikleyici olarak kullanılmaya elverişlidir; bu yüzden kare dalgalardan sıkça devrelerin zaman referansı, saat işareti, olarak yararlanılır. Frekans domeni grafiğinde görülebileceği üzere, kare dalgalar çok sayıda harmonik bileşen barındırır. Bu durum elektromanyetik radyasyona, dolayısıyla gürültüye ve hatalara sebep olabilir. Analog-dijital çeviriciler gibi yüksek hassasiyet gerektiren devrelerde, olumsuz etkilerin önlenmesi amacıyla, zaman referansı olarak kare dalgalar yerine sinüs dalgaları tercih edilir.
+Frekans analizi.
+İdeal bir kare dalga, zamanında döngü frekansıyla, Fourier açılımı kullanarak aşağıdaki şekilde bir sonsuz seri ile ifade edilebilir
+İdeal kare dalga sadece tek harmonik frekanslarında () bileşene sahiptir. Testere dişi dalgalar ve gerçek dünyadaki sinyaller ise tek ve çift tüm harmonikleri içerir.
+Kare dalganın Fourier serisi gösteriminin yakınsaklığı incelendiğinde, Gibbs fenomenine ulaşılır.
+İdeal matematiksel kare dalga, alçak ve yüksek seviyeler arasında sonsuz hızda geçiş yapar. Ancak fiziksel sistemlerin sınırları sebebiyle, sonsuz bant genişliği gerektiren bu davranışın gerçeklenmesi imkansızdır.
+Herhangi bir dikdörtgen dalgada, 1 (yüksek) seviyesinde geçen sürenin, 0 (alçak) seviyesinde geçen süreye oranı, doluluk oranı adını alır. Kare dalga ise %50 doluluk oranına sahiptir.
+İdeal olmayan kare dalga.
+Yukarıda da belirtildiği gibi, ideal kare dalga alçak ve yüksek seviyeler arasında sonsuz hızda, anlık olarak, geçiş yapar. Ancak fiziksel sistemlerin sınırları sebebiyle, bu davranışın gerçeklenmesi mümkün değildir. Sinyalin alçak seviyeden yükseğe geçişi ile daha sonra tekrar alçak seviyeye dönüşünde geçen süreler, sırasıyla yükselme süresi ve düşme süresi olarak adlandırılır.
+Eğer dalga üreteci sistem aşırı sönümlü ise, dalga şekli hiçbir zaman beklenen teorik seviyelere ulaşamayabilir. Diğer taraftan sistem az sönümlü ise, yerleşmeden önce alçak ve yüksek seviyeler arasında osilasyon görülebilir. Bu durumlarda yükselme ve düşme süreleri, beklenen sinyal seviyelerinin %5'i ile %95'i ya da %10'u ile %90'ına ulaşma anları arasındaki fark alınarak hesaplanır.
+Diğer tanımları.
+Matematikte kare dalga birçok farklı şekilde tanımlanır. Bu tanımlar süreksizlik noktaları dışında birbirine denktir.
+Tanım olarak bir sinüzoidin işaret fonksiyonu kullanılabilir:
+Fonksiyon, sinüzoidin pozitif değerlerinde 1, negatif değerlerinde -1 ve geçiş noktalarında 0 değerini alır. Kare dalga Heaviside basamak fonksiyonu "u"("t") veya dikdörtgen fonksiyona ⊓("t") bağlı olarak da tanımlanabilir:
+"T"nin 2 olması durumunda %50 doluluk oranı elde edilir. Bir diğer yol da parçalı tanımlamadır:
+burada
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dalga</DOCTITLE>
+<TEXT>
+
+Dalga, bir fizik terimi olarak, uzay veya uzayzamanda yayılan ve sıklıkla enerjinin taşınmasına yol açan titreşime verilen isimdir. Bununla birlikte günlük dilde farklı anlamlarda kullanılmaktadır. Ayrıca denizlerde oluşan bir su vuruntusudur.Dalgalar bir yerden başka bir yere uzanırlar. Titreşimleri, periyodik (bir kemandaki nota sesi gibi) olabileceği gibi , periyodik olmayadabilir (bir patlama sesi gibi.) Bütün dalgalar şu özelliklere sahiptirler: 
+Dalgalar bir materyalde belirlenmiş bir hızda gittiklerinden, dalga frekansını arttırdığımızda, dalga boyu azalır. Matematiksel olarak, dalga hızı = frekans x dalga boyu, yani sabit dalga hızı için, frekans ve dalga boyu ters orantılıdır. 
+Dalgaların en ilginç özelliklerinden birisi, iki dalganın birbirinin içinden geçerken etkilerinin birleşmesidir. Bu olaya girişim denir. 
+Dalga Boyu:Lamda sembolüyle ifade edilir.İki dalga tepesi veya dalga çukuru arasındaki mesafedir.
+Periyot:Dalganın bir dalga boyu kadar yol alması için geçen süreye denir.
+Frekans:Dalganın 1 sn. de aldığı yola denir.
+Harmonik Dalgalar.
+Dalgaları matematiksel olarak belirtmek istersek bir harmonik dalga fonksiyonuna ulaşırız. Bir sicim de harmonik dalga varsa sicim her an sinüs fonksiyonu şeklindedir. A genliği herhangi bir sicimin denge konumundan itibaren yer değiştirmesidir. Dalga boyu dalganın kendini tekrarlama uzaklığıdır. Örneğin; arka arkaya iki dalga tepesi ya da çukuru arasında ki mesafe gibi. T periyodu, bir sicim elemanının belli bir süre titreşim yapması için geçen süredir. Aynı zamanda bir dalganın yer değiştirmesinin bir dalga boyu ilerlemesi için geçen zamanda denilebilir. Belli bir dalganın T zamanda bir dalga boyu kadar ilerlediği anlamına gelir. Bir harmonik dalga x ekseni üzrinde her iki yöne de gittiği için yani sonsuza uzandığı için bir başka ifadeyle bir başlangıç ve bitişi olmadığı için gerçek bir dalga olarak kabul edilemez. Gerçek bir dalga uzayda belli bir yerde başlayıp bitmelidir.
+Madde - Enerji - Dalga İlişkisi.
+Doğadaki her şey bir maddedir. Madde ise enerjiden oluşmuştur. Her madde dalgalar ile sürtünerek enerji ortaya çıkarır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Serbest yüzey</DOCTITLE>
+<TEXT>
+
+Serbest yüzey, bir akışkanın yüzeyinde normal gerilmenin sabit ve kayma gerilmesinin sıfır olduğu yüzey bölgesine denir. İki ayrı homojen akışkanın temas sınırı örnek olarak verilebilir: sıvı su ile atmosferdeki hava arasında. Sıvıların aksine, gazlar serbest yüzey oluşturamazlar. Bunun sebebi, gazların (molekülleri arasındaki bağların zayıf olmasından ötürü) bulundukları ortamı, ne kadar büyük olursa olsun, genleşerek doldurmak istemeleridir. 
+Bir akışkan bir yerçekimi alanında serbest bir yüzey oluşturur. Mekanik denge oluşmuş ise, bu serbest yüzey akışkana etki eden bileşke kuvvetin yönüne dik olması zorundadır. Eğer dik değil ise, yüzey boyunca bir başka kuvvet bulunmaktadır ve akışkan kuvvet yönünde akar. Bu sebeple, dünya üzerindeki tüm serbest yüzeyler yataydır (yalnızca yüzey gerilmelerinin hilalsi bir yüzey yapısına yol açtığı su içine batırılmış katı cisim yüzeylerinin temas noktalarında). 
+Yerçekimi kuvveti gibi dış kuvvetlerin etkimediği serbest bir akışkan paketçiğinde, yalnızca iç kuvvetler etkilidir (ör. Van der Waals kuvvetleri, hidrojen bağları). Bu unsurun serbest yüzeyinin, unsurun hacminin alabileceği en düşük yüzey alanına tekabül eden şekli alacağı varsayılır: mükemmel bir küre. Bu, bir alkol-su karışımına yağ damlatıldığında gözlemlenebilir. Damlatılan yağ, karışım yüzeyinin hemen altında küresel bir şekilde durur çünkü alkol-su karışımı içindeki yağa etkiyen yerçekimi kuvveti ve kaldırma kuvveti birbirini dengeler. 
+Dalgalar.
+Eğer bir akışkanın serbest yüzeyi rahatsız edilirse, yüzeyde dalgalar oluşur. Bu dalgalar ise, 'elastik dalgalar' değildir. Bunlar, rahatsız edilen akışkanın yatay konumuna geri dönmesini sağlamaya çalışan yer çekimi kuvvetinin etkisinde oluşan dalgalardır. 
+Yüzey dalgalarının hızı, eğer akışkan derin ise, dalga boyunun kareköküyle orantılıdır. Dolayısıyla, denizdeki uzun dalgalar kısa dalgalardan daha süratlidir. 
+Rotasyon.
+Eğer silindir bir kap bir akışkanla doldurulmuşsa ve bu kap, silindir ekseni ile kesişen dik bir eksen etrafında döndürülüyorsa, serbest yüzeyin parabolik dönel bir yüzey şeklinde (paraboloid) oluştuğu varsayılır. Serbest yüzeyin her noktası, üzerine etkiyen kuvvete diktir. Bu kuvvet ise her bir noktanın hareketine bağlı olarak oluşan, yer çekimi ve santrifüj kuvvetlerinin bileşkesidir. Bu prensip, sıvı aynalı teleskopların üretilmesinde kullanılır. 
+Eğer serbest bir akışkan paketi bir eksen etrafında dönüyorsa, serbest yüzey kutupları basık sferoit şeklini alır: bu, Dünya'nın yaklaşık şeklidir. 
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Elektromanyetik radyasyon</DOCTITLE>
+<TEXT>
+
+Elektromanyetik ışınım, elektromanyetik dalga ya da elektromıknatıssal ışın (genellikle EM radyasyon veya EMI olarak kısaltılır) bir vakum veya maddede kendi kendine yayılan dalgalar formunu alan bir olgudur. Elektromanyetik dalgalar, yüklü bir parçacığın ivmeli hareketi sonucu oluşan, birbirine dik elektrik ve manyetik alan bileşeni bulunan ve bu iki alanın oluşturduğu düzleme dik doğrultuda yayılan, yayılmaları için ortam gerekmeyen, boşlukta c ışık hızı ile yayılan enine dalgalardır. Elektromanyetik dalgalar, frekansına göre değişik tiplerde sınıflandırılmıştır. Bu tipler sırasıyla (artan frekansa ve azalan dalga boyuna göre)
+Çeşitli organizmaların gözleri bu ışınların sadece küçük bir frekans aralığındaki ışınları algılayabilir. Buna “ışık” ya da “görülebilir tayf” denir.
+Fizik.
+Teori.
+Elektromanyetik dalga kavramı ilk olarak James Clerk Maxwell tarafından ortaya atılmış ardından Heinrich Hertz tarafından doğrulanmıştır. Maxwell elektrik ve manyetik alanların dalga benzeri yapılarını ve simetrilerini açığa çıkaran alan dalga formu denklemleri elde etmiştir. Maxwell, ışığın ölçülen hızının, dalga denklemlerinden çıkan EM dalgaları hızları ile çakışık olmasından dolayı ışığı da bir elektromanyetik dalga olarak kabul etmiştir. Maxwell’in denklemlerine göre, hareketsiz bir elektrik yükü etrafında bir elektrik alan oluşturur. İvmeli hareket eden bir elektrik yüküyse oluşturduğu elektrik alana ek olarak manyetik alan oluşturur. Bu alanlar birbirlerine dik olarak salınırla ve EMI oluşur..
+Özellikler.
+EMI fiziğinin adı elektrodinamiktir. Elektromanyetizma, elektrodinamik teorisi ile ilişkili bir fiziksel olaydır. Elektrik ve manyetik alanlar süperpozisyon ilkesine uygun olduklarından, herhangi bir parçacık ya da zamana bağlı elektrik veya manyetik alan aynı yerdeki mevcut alanlara vektör alan oldukları için vektörel olarak toplanırlar. Örneğin bir atom yapısı üzerinde seyahat halindeki bir EM dalgası yapının atomları içinde salınım indükler, böylece kendi EM dalgalarını yaymalarına sebep olur. Bu özellikler kırılma ve kırınım gibi çeşitli olaylara neden olur. Kırılma, bir dalganın bir ortamdan yoğunluğu farklı başka bir ortama geçerken hızını ve yönünü değiştirmesidir. Ortamın kırılma indisi kırılma derecesini belirler ve Snell yasası ile özetlenmiştir.
+Işık da bir salınım olduğundan, vakum gibi doğrusal ortamda statik elektrik ya da manyetik alan boyunca seyahat etmekten etkilenmez. Ancak bazı kristaller gibi doğrusal olmayan ortamlarda ışık ve statik elektrik ve manyetik alanlar arasında Faraday etkisi ve Kerr etkisi gibi etkileşimler görülebilir.
+Elektromanyetik ışımaların ortak özellikleri şunlardır;
+Dalga parçacık ikililiği.
+EMI hem dalga hem de parçacık özellikleri taşır . Her iki karakteristik çok sayıda deney ile onaylanmıştır. EM ışınım nispeten geniş zaman ölçeklerinde ve büyük mesafelerde incelendiğinde dalga karakteristiği daha belirgin, küçük zaman ölçeklerinde ve mesafelerde parçacık karakteristiği daha belirgindir. Örneğin EMI madde tarafından emildiğinde ve ilgili dalga boyunun küpü başına 1 den az foton düştüğünde parçacık benzeri özellikler daha açıktır. Işık emilimi durumunda düzensiz enerji birikimini deneysel gözlemlemek zor değildir. Açıkçası bu gözlemler tek başına ışığın parçacık davranışına kanıt değildir, o maddenin kuantum niteliğini yansıtır.
+Tek fotonun kendi kendine parazitlenmesi gibi, aynı deneyde elektromanyetik dalgaların hem dalga hem de parçacık niteliklerinin ortaya çıktığı durumlar vardır. Gerçek tekil-foton deneyleri (kuantum optik duyarlılıkta) bugün lisans düzeyinde yapılabilmektedir. Bir tek foton girişimölçer üzerinden gönderildiğinde, her iki patikayı da izleyerek, dalgalar gibi kendisi ile etkileşir, karışır ancak ışıl çoğaltıcı ile ya da benzer hassas algılayıcılar ile ancak bir kez tespit edilebilir.
+Dalga modeli.
+Işığın doğasının önemli bir yönü frekansıdır. Bir dalganın frekansı salınım hızıdır ve Hertz birimi ile ölçülendirilir. Bir Hertz saniyede bir salınıma eşittir. Işık genelde, toplamı bileşke dalgayı veren frekanslar tayfına sahiptir. Farklı frekanslar farklı kırılma açılarına maruz kalır.
+Bir dalga peşi sıra tepelerden ve çukurlardan oluşur. İki çukur ya da tepe noktası arası mesafe dalga boyunu verir. Elektromanyetik tayf dalgaları boylarına göre sınıflandırılır, bina büyüklüğündeki radyo dalgalarından atom çekirdeği büyüklüğünde gamma ışınlarına kadar. Frekans şu denkleme göre dalga boyuna ters orantılıdır:
+Denkleme göre, “v” dalga hızı (vakum ortamda hız “c” olur), “f” frekans, “λ” ise dalga boyudur. Dalgalar değişik ortamlar arasından geçerken hızları değişir ama frekansları aynı kalır.
+Girişim, iki ya da daha fazla dalganın çakışması sonucu yeni bir dalga şekli oluşmasıdır. Eğer alanlar aynı yönde bileşenler içeriyorsa yapıcı girişim, ayrı yönlerde ise yıkıcı girişim]] yaparlar.
+Elektromanyetik dalga enerjisi bazen “ışıyan enerji” olarak adlandırılır.
+Parçacık Modeli.
+Elektromanyetik ışınımın foton denen farklı enerji paketleri (kuanta) olarak parçacık benzeri özellikleri vardır. Dalganın frekansı dalganın enerjisi ile doğru orantılıdır. Çünkü fotonlar enerji taşıyıcıları olarak davranırlar, yüklü parçacıklar tarafından yayılır ve soğurulurlar. Foton başına enerji Planck-Einstein denklemi ile hesaplanır:
+Burada “E” enerjiyi, “h” Planck sabitini, “f” ise frekansı temsil eder. Bu foton-enerji ifadesi ortalama enerjisi Planck yayılım yasasını elde etmek için kullanılan daha genel bir elektromanyetik osilatörün enerji seviyelerinin özel bir durumudur. Bu enerji seviyesinin düşük sıcaklıkta eşdağılım prensibi ile tahmin edilenden kesin bir farkla ayrıldığı gösterilebilir. Bu eşdağılım hatası düşük sıcaklıklardaki kuantum etkisinden dolayıdır.
+Bir foton bir atom tarafından soğurulduğunda bir elektronunu uyararak onu daha yüksek onu daha yüksek bir enerji seviyesine çıkartır. Eğer enerji yeterince yüksekse yüksek enerji seviyesine zıplayan elektron çekirdeğin pozitif çekiminden kurtulup atomdan kurtulabilir, buna fotoelektrik etki denir. Tersine bir elektron daha düşük enerji seviyesine indiğinde enerji farkı kadar foton yayar. Her element, atomların içindeki elektronların enerji seviyeleri ayrı olduğundan, kendi frekansında yayar ve soğurur.
+Bütün bu etkiler birlikte yayılım ve soğurma tayfını açıklar. Soğurma tayfında koyu bantlar karışık ortamdaki atomların değişik frekanstaki ışığı soğurmasından kaynaklanmaktadır. Işığın geçtiği ortamın bileşimi soğurma tayfının yapısını belirler. Örneğin uzak bir yıldızın yaydığı ışıktaki koyu bantlar yıldızın atmosferindeki atomlardan kaynaklanır. Bu bantlar atom içinde izin verilen enerji seviyelerine karşılık gelir. Benzer bir durum yayım için de oluşur. Elektronlar daha düşük enerji seviyelerine indiklerinde bu düşüşü temsil eden bir tayf yayılır. Bu durum, bulutsu yayılım tayfında kendini gösterir. Bugün bilim adamları bu durumu yıldızların hangi elementlerden oluştuklarını bulmak için kullanmaktadırlar. Ayrıca aynı durum tayfın kırmızıya kayma (redshift) yönteminde kullanılarak yıldızların uzaklıklarını hesaplamada kullanılır.
+Yayılma Hızı.
+İvmelenen herhangi bir elektrik yükü ya da herhangi bir değişen manyetik alan EMI üretir. Herhangi bir kablo (ya da anten gibi herhangi bir iletken) alternatif akım ilettiğinde, elektromanyetik ışınım akımla aynı frekansta yayılır. Kuantum seviyesinde ise elektromanyetik ışınım yüklü parçacığın dalga paketi dalgalandığında ya da ivmelendiğinde oluşur. Durağan haldeki yüklü parçacıklar hareket etmez ama bu hallerin birbirleriyle çakışması (süper pozisyonu) yüklü parçacığın kuantum halleri arasında ışınımsal geçiş (radiative transition) durumuna sebep olur.
+Elektro manyetik ışınım koşullara bağlı olarak dalga ya da parçacık davranışı gösterir. Dalga durumunda ışınım hızı (ışık hızı), dalga boyu ve frekansı ile karakterize edilir. Parçacık olarak ele alındığında (foton), her parçacığın dalganın frekansı ile ilişkili enerjisi vardır. Bu enerji Planck’ın "E=hf" ilişkisinden bulunur. Burada “E” fotonun enerjisi, h=6.626 x 10-34 Js ise Planck sabitidir, “f” ise dalganın frekansını simgeler.
+Bir kurala koşullar ne olursa olsun uyulur: vakum içindeki EM ışınım gözlemciye göre, gözlemcinin hızı ne olursa olsun, her zaman ışık hızında yol alır. (Bu gözlem Albert Einstein’ın özel görelilik kuramını geliştirmesini sağlamıştır.)
+Bir ortamda (vakum dışında), hız faktörü ve kırılma indisi frekansa ve uygulamaya bağlı olarak dikkate alınır. Her ikisi de vakumda hızlanan bir ortamın hız oranıdır.
+Elektromanyetik tayf.
+EM dalgalar dalga boylarına göre radyo dalgaları, mikrodalga, kızılötesi, görünür ışık, morötesi, X-ray ve Gama ışını olarak ayrılırlar.
+EMI nın maddeyle etkileşimi.
+EMI nın maddeyle etkileşimi üç şekilde olur: yansıma, soğurma ve maddeyi geçebilme (aktarma) . Bu etkileşimi EMI nın dalga boyları belirler. Radyo dalgaları, radyo antenleriyle alınabilir. Mikrodalgalar bazı maddeleri ısıtabilmektedir. Görülebilir ışık, görme hücrelerini (çubuk ve koni) etkileyecek boyuttadır. Morötesi ışın ve X ışını ise atom ve atom altı parçacıklarla etkileşir.
+Görülebilir ışık fotonu maddeye çarptığında madde uyarılır ve foton, maddenin moleküler yapısına göre değişen diğer bir ışık fotonu şeklinde yansıtılır. Bir madde, günışığında eğer kırmızı görülüyorsa, bu madde gün ışığındaki kırmızı dışında tüm görülebilir ışık fotonlarını soğurur, yalnınca uzun dalga boylu olan kırmızı ışığı yansıtır.
+Görülebilir ışığı geçiren maddeler saydam (transparent), yarı geçirgen maddeler translusent, geçirmeyen maddeler ise opak olarak adlandırılır. Radyolojide kullanılan tanısal amaçlı X-ışınını fazla geçiren vücut yapıları (akciğerler, yağ dokusu gibi) radyolusent, az geçiren vücut yapıları (kemik, kalsifikasyon gibi) ise radyoopaktır.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Virginia Woolf</DOCTITLE>
+<TEXT>
+
+Virginia Woolf (25 Ocak 1882 – 28 Mart 1941) İngiliz feminist, yazar, romancı ve eleştirmen. 
+Hayatı.
+İlk gençliği ve çocukluğu.
+1882'de Londra'da dünyaya gelen Virginia Woolf, Victoria devri'nin tanınmış yazarlarından Sir Leslie Stephen'ın kızıydı. Annesi ve babası daha önce başkalarıyla evlenmişler, dul kaldıktan sonra ise bir araya gelmişlerdi. Her ikisinin de ilk eşlerinden çocukları vardı. Sir Leslie Stephen'ın ilk eşi, ünlü romancı William Makepeace Thackeray'nın kızıydı. Thackeray'nın eşi akıl hastası olduğundan, Leslie Stephen'ın bu kadından olan kızı Laura, anneannesine çekmiş, yirmi yaşında bir akıl hastahanesine kapatılmıştı. Virginia'nın annesi Julia Duckworth ile Leslie Stephen'ın beş çocukları oldu. Yaş sırasıyla Vanessa, Julian, Thoby, Virginia ve Adrian. Virginia on üç yaşındayken annesi ansızın ölmüştür. Woolf, o yıllarda kadınların ikinci planda kalması nedeni ile okula gönderilememiş fakat babası yardımı ile kendini geliştirmiştir.
+Kızkardeşi Vanessa Bell daha küçük bir yaşta iken bir ressam olmaya, Virginia Woolf ise bir yazar olmaya karar verir. Kendisini babasının kütüphanesinde geliştiren Virginia Woolf, 1895'de bir gazetede kısa hikâyelerini yayınlatır.
+Özellikle, Viktorya tarzı yaşamaya karşı olan Virginia Woolf, yazılarında da bundan bahseder.
+Bloomsbury Grubu.
+1904'te babasının ölümünden sonra kardeşleriyle Bloomsbury'ye taşınması ise hayatında ciddi bir dönüm noktası olmuştur. Bloomsbury grubu içinde birçok ünlü edebiyatçıyı barındıran ve cinsel konulardaki özgürlükçü tavırlarıyla tanınan bir grup entelektüelden oluşuyordu. Grupta bulunan birçok kişi eşcinsel ya da biseksüeldi. İnsanlar onları etik bir grup olarak görüyorlardı. Grupta John Maynard Keynes, E. M. Forster, Roger Fry, Duncan Grant ve Lytton Strachey gibi ünlü kişiler vardı. Woolf, 1909'da bir süreliğine Lytton Strachey ile nişanlanmıştır.
+Evliliği.
+Virginia Woolf 1912 yılında Leonard Woolf ile evlenmiştir. Evlilikleri cinsel açıdan yeterli olmasa da, Virginia Woolf için çok önemli olmuştur. Leonard Woolf eşi için bir basımevi kurmuştu ve bu da Virginia Woolf'un yazdığı kitapları yayımlatması için bir fırsat olmuştu.
+Ölümü.
+"Perde Arası" romanını yazdığı sıralarda artık kendini yeterince yetenekli hissetmiyor, yeteneğini kaybettiğini düşünüyordu. Her gün savaş korkusu ve yeteneğini kaybetmenin vermiş olduğu stres, dehşet ve korku sonucu ruhsal bunalıma girmiş, 28 Mart 1941’de içinde bulunduğu duruma daha fazla dayanamayıp evlerinin yakınlarında bulunan Ouse nehrine ceplerine taşlar doldurarak atlayıp intihar etmiştir. Virginia Woolf, geride iki intihar mektubu bırakmıştır. Birisi kardeşi Vanessa Bell'e diğeri ise kocası Leonard Woolf'a.
+"Leonard Woolf'a, 18 Mart 1941
+"Sevgilim, yine çıldırmak üzere olduğumu hissediyorum. O korkunç yeniden yaşayamayacağımı hissediyorum. Ve ben bu kez iyileşemeyeceğim. Sesler duymaya başladım. Odaklanamıyorum. Bu yüzden yapılacak en iyi şey olarak gördüğüm şeyi yapıyorum. Sen bana olabilecek en büyük mutluluğu verdin. Benim için her şey oldun. Bu korkunç hastalık beni bulmadan önce birlikte bizim kadar mutlu olabilecek iki insan daha düşünemezdim. Artık savaşacak gücüm kalmadı. Hayatını mahvettiğimin farkındayım ve ben olmazsam, rahatça çalışabileceğini de biliyorum. Bunu sen de göreceksin. Görüyorsun ya, bunu düzgün yazmayı bile beceremiyorum. Söylemek istediğim şey şu ki, yaşadığım tüm mutluluğu sana borçluyum. Bana karşı daima sabırlı ve çok iyiydin. Demek istediğim, bunları herkes biliyor. Eğer biri beni kurtarabilseydi, o kişi sen olurdun. Artık benim için her şey bitti. Sadece sana bir iyilik yapabilirim. Hayatını daha fazla mahvedemem. Bizim kadar mutlu olabilecek iki insan daha düşünemiyorum.""
+Yazarlığı.
+Bir profesyonel olarak 1905'lerde yazmaya başlayan Virginia Woolf'un ilk kitabı olan "The Voyage Out (Dışa Yolculuk)" 1915'te yayınlanmıştır. Bu kitabın yazımı çok uzun sürmüş, bir yıl içinde üç kez tekrar yazılmıştır. Özelllikle annesinin ölümünü yenmesi ile ilgili olan bu kitap ilginç olduğu kadar etkileyicidir.
+"Gece ve Gündüz", Virginia Woolf'un ikinci romanıdır. Woolf'un "bilinç akışı" tekniğini kullandığı daha sonraki modern deneysel romanlarından farklı olarak klasik gerçekçi üslûpla kaleme aldığı bu eser, olay örgüsü, gerçek mekân tasvirleri ve titizlikle betimlenmiş karakterleri, dönemin atmosferini yansıtan özellikleriyle dikkat çekiyor.
+1920'de yayımlanan roman, daha sonraki eserlerinin habercisi olarak, nesnel gerçekliğin ve tarihselliğin insan bilincindeki yansımalarını birbirinden oldukça farklı karakterlerde ustalıkla canlandırıyor. 
+Roman, I. Dünya Savaşı öncesi Londra'sında geçer. Woolf, dönemin entelijansiyasını, fikir ve ruh dünyasını mizahî ancak sıcak, insanî bir dille anlatır. Kadın hakları, sınıfsal farklılık, aşk, evlilik ve özgürlük gibi meseleleri, karakterlerinin yaşamları, mücadeleleri, umutları, acıları ekseninde tartışıyor. Gece ve Gündüz, Katharine, Mary ve Ralph'in hakikat arayışlarında tanık olduğumuz modern insanın yazgısı, bir başkasını anlama çabası üzerine duygulu ve derin bir metin.
+"Virginia Woolf, 1931’de yayımladığı "Dalgalar"’ı yazarken ise, bu kitapla o güne değin hiçbir başka romancının göze alamayacağı değişik şeyleri yapmak istediğini, bu romanın o güne değin yazılan hiçbir başka romana benzemeyeceğini biliyordu. (...) Çünkü Dalgalar, ‘hem düzyazıyla kaleme alınacak, hem de şiir olacaktı; hem roman olacaktı, hem de tiyatro oyunu.
+Virginia Woolf, Dalgalar’da dış dünyayı yok eder. Üç erkek ve üç kadının çocukluklarından yaşlılık dönemlerine kadar tüm hayatlarının anlatıldığı kitapta dış dünya nesnel olarak değil, ancak kişilerin iç dünyalarına yansıdığı kadarıyla verilir. “Bir olay örgüsüne uyarak değil, bir ritme uyarak” yazılan kitap, “şiir olmayan herhangi bir şey edebiyata neden girsin ki” diyen Woolf tarafından iki yıl içinde üç kez yazılır ve dalgaların sesine uydurularak, şiir gibi yüksek sesle okunarak düzeltilir... Gerçekçi roman geleneğinden tam bir kopuşu temsil eden Dalgalar, bilinç akışı tekniğiyle yazılan romanların en önemlilerinden biridir." (İletişim Yayınlarından çıkan baskısının arka kapak yazısından)
+Mrs. Dalloway'se ünlü yazarın adıyla anılacak ‘bilinç akışı’ tekniğinin en başarılı örneklerinden biridir.
+Eşcinsel olan Virginia Woolf'un eserlerinde eşcinsel yakınlıklarına bol bol rastlanır. Yazarın öteki romanlarına benzemeyen, tümüyle özgün bir düşünce ürünü olan "Orlando" isimli romanı bir aşk mektubuyla beraber o dönemdeki sevgilisi Vita Sackville-West'e adanmıştır. 
+1929 tarihli "Kendine Ait Bir Oda" feminist hareketin klasik bir kitabı olarak kabul edilir.
+Kadın hareketinin elden düşürmediği önemli kitaplardan biri olan "Kendine Ait Bir Oda", Virginia Woolf’un belki de en kolay okunan kitabıdır. Çünkü konu çok somuttur: “Kadın ve Edebiyat.”
+Erkeklerin kadınlara bıkıp usanmadan tekrarladıkları ‘ezeli’ ve de ‘ezici’ bir soru vardır: “Bizler kadar düşünme yeteneğiniz olduğunu ileri sürüyorsunuz. Madem öyle, neden Shakespeare gibi bir deha çıkaramadınız?” İşte Virginia Woolf bu ‘yakıcı’ soruya, tarihsel ilişkilerin kökenine inip kütüphane raflarında şöyle bir gezindikten ve de kısa bir kadın edebiyatı tarihçesi çıkardıktan sonra esaslı bir yanıt getiriyor. Ve şöyle sesleniyor kadınlara: “Para kazanın, kendinize ait ayrı bir oda ve boş zaman yaratın. Ve yazın, erkekler ne der diye düşünmeden yazın!..”
+Daha sonralarda Virginia Woolf tarafından kaleme alınan Flush'ta bir köpeğin bakış açısı fark edilir.
+"...güçlü kuvvetli, enerji dolu, yaşama sevinci içinde genç Robert Browning bir bomba gibi patlamıştı Elizabeth Barrett’in sessiz hasta odasında. İngiliz edebiyatının en ünlü aşk öyküsüdür onların aşkı. Tiyatro oyunları yazılmış, filmler yapılmıştır bu konuda. Nasıl mektuplaştıklarıı, Robert Browning’in Wimpole Sokağı’ndaki bir evde divanda yatan Elizabeth’i nasıl görmeye geldiğini, bu ziyaretten sonra üç ay içinde Elizabeth’in mucize kabilinden nasıl yürümeye başladığını, gizlice evlenip Floransa’ya kaçtıklarını herkes bilir. Hatta Virginia Woolf’un The Common Reader’da dediği gibi, İngiliz şiirinin en önemli adları arasında olan bu iki şairden tek dize okumamış olanlar bile! Virginia Woolf’un Flush’ı bu konuda son derece sevimli bir kitaptır. Elizabeth Barrett Browning’in çok sevdiği İtalya’ya kaçarken beraberinde götürdüğü köpeğin yaşamöyküsünü anlatan Flush’da bu aşk öyküsünü bir de o köpeğin açısından görürüz."
+Kitaplarının kapaklarında kardeşi Vanessa Bell'in resimleri bulunmaktadır.
+Yazar, modernist hareketin en önemli kişilerinden biri olarak tarihe geçmiştir ve roman türünün gelişimine büyük katkıda bulunmuştur.
+Kitapları elliden fazla dile çevrilen Viginia Woolf'un bu eserlerinden bir kısmı, Jorge Louis Borges ve Marguerite Yourcenar gibi tanınmış yazarlarca çevrilmiştir. 
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>EMF kalkanlama</DOCTITLE>
+<TEXT>
+
+EMF kalkanlama, manyetik ve elektronik dalgaların zayıflatılması olayı.
+Çevremizdeki düşük frekans ve yüksek frekans kaynaklar etrafa dalgalar saçmaktadırlar. Düşük frekansta her türlü elektrikli ev aletleri (mikrodalga, saç kurutma makinası, elektrikli battaniye, dizüstü bilgisayar vb.), yüksek gerilim hatları etraflarına güçlü elektrik ve manyetik alanlar yaymaktadırlar. Düşük frekanstaki dalgalar bağımsız olarak incelenebildiğinden elektromanyetik terimi yerine elektrik ve manyetik olarak sınıflandırılır. EMF kalkanlama bu tip dalgaların soğutularak veya yansıtılarak zayıflatılması ve hedef bölgedeki alan şiddetinin düşürülmesidir.
+Düşük frekans elektrik ve manyetik alanların sağlık üzerinde ciddi etkileri olduğu düşünülmektedir. En bariz etkilerinden biri hücre çeperinde kalsiyum CA++ iyon geçişini tersine etkilemesi ve kalp atışlarını azaltması söylenebilir. Uluslararası Çalışma Örgütü sektörel araştırmalar içerisinde elektrik dağıtım firmaları çalışanlarının kalp ve kanser gibi rahatsızlıklara kontrol gruplarına göre en az on kat daha fazla yakalandığını tespit etmiştir. Özellikle kan kanseri bunların başında gelmektedir. Diğer taraftan yüksek gerilim hatlarının özellikle çocuklar üzerinde de kan kanseri riskini ciddi olarak arttırdığı istatistiksel olarak kanıtlanmıştır. Burada üzerinde 100 K Volt gerilim olan bir hattan en az 500 metre uzakta yaşama alanı kurulması önerilir. Bu mesafe hattan geçen akımın çok yüksek olması durumunda daha da arttırılmalıdır.
+Yüksek frekanstaki dalgalar ise genel olarak elektromanyetik terimi altında incelenebilir. Buradaki önemli kaynaklar kablosuz internet modemleri, DECT/kablosuz telefonlar, baz istasyonu, radyo ve televizyon vericileri, radarlardır. Araştırmalar bu tip mikrodalgaların kan içerisindeki antioksidanları azalttığı, melatonin salgısını düşürdüğünü göstermiştir. Melatonin salgısının azalmasının kanser riskini arttırdığı ve antioksidanların azalmasının da yaşlanmayı hızlandırdığı ispatlanmıştır.
+EMF kalkanlamada temel prensip Faraday kafesidir. 1800'lerin ikinci yarısında Michael Faraday tarafından bulunan bu özellik bir iletken kafesin elektrik yüküyle yüklendiğinde elektronların aynı yük etkileşimi ile birbirlerine en uzak konumda, dış kısımda toplanması olayıdır. Bu prensibin tersten uygulanmasında ise bir kafese gelen elektromanyetik dalgaların özellikle kafes iletken ve toprakmışsa yansıma ve soğurmalar sebebiyle kafes içerisine oldukça zayıflayarak girmesi gözlemlenir. Bu sebeplerden dolayı etkin bir kalkanlama için etkin bir iletken kullanılmalıdır. Burada ilk akla gelen iyi iletkenler metaller ve metallerden de gümüş, altın, bakır, nikeldir. Bazı formlarında karbon da çok iyi bir iletken olarak metal dışı elementlerden örnek olarak verilebilir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dalga Ve Akintilarin Oluşturduğu Yer Şekilleri (EBA)</DOCTITLE>
+<TEXT>
+
+Deniz yüzeyinde rüzgârların etkisi ile meydana gelen salınmalara dalga adı verilir. Dalgalarm oluşmasında, rüzgârlarla birlikte gelgit ve deniz tabanlarında meydana gelen deprem, heyelan ve volkanizma gibi olaylar da etkili olur.
+Dalgalar, çarptıkları kıyıları aşındırarak şekillendirir. Aşınan malzeme kıyı boyunca biriktirilir. Böylece dalga aşınım ve birikim şekilleri oluşur.
+1. Dalgalar, çarptıkları yüksek kıyıları alttan aşındırır.
+2. Alttan oyulan kıyıların üst kısımları zamanla çöker. Böylece falez adı verilen dik kıy^ şekilleri meydana gelir.
+3. Dalgaların taşıdığı malzemeleri deniz içinde veya kıyıya paralel bir şekilde biriktirmesiyle kıyı oku oluşur.
+Denizdeki bir adanın kıyı okları ile karaya bağlanması sonucu oluşan şekillere tombolo adı verilir.
+Koy ve körfez önlerinin kıyı okları ile kapanması sonucu lagünler meydana gelir.
+Dalgaların, kum ve çakılları sığ kıyılarda biriktirmesi sonucu oluşan kumsallara plaj adı verilir.
+Denize dik uzanan kara parçalarının dalgalar tarafından alttan aşındırıl-ması ile doğal köprüler oluşur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Burun (coğrafya)</DOCTITLE>
+<TEXT>
+
+Burun, deniz ya da gölde bulunan dışa çıkıntılı karanın son kısımı olup, 3 tarafı su ile çevrilmiş kara anlamına gelir. Çoğunlukla fener bulunur. Eğer büyükse yarımada denir. Körfez veya koyun karşıtıdır. Burun oluşumunda dirençli kayaçlar (granit, kireçtaşı) etkilidir.
+Burunlar yüksek enerjili dalgalar,kayalık kıyılar,yoğun erozyon ve sarp kayalıklarla karakterizedir.
+Plaj İstikrarı.
+Plajların ilerleme gerileme gibi jeolojik dinamik özellikleri vardır.Plajı dalgalar , gel-git , rüzgar ve akıntılar etkiler.Plaj istikrarını insanda etkiler.(baraj,sıvı çekilmesi)
+Burun ve Koy plaj sedimantosyonu 3 şekilede sınıflandırılır:
+Dalgalar genellikle burundan etrafa ve sahile doğru yayılır.Dinamik denge oluştuğunda plaj sedimanları eşit oranda yaylır veya aşınır.Plajlara yakın nehirler tortu sağlar(plajlara).Eğer nehir yoksa plaja yakın aşınmaya uğrar.Kararsız plajlar genellikle insan etkisi (dalga kıran)nin bir sonucudur.Kararsız plajlarda sürekli erozyon ya da biriktirme devam eder, plaj dengeye ulaşana kadar bu aşınım ve birim devam edecektir.
+
+</TEXT>
+</DOC>
+

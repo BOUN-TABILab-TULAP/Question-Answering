@@ -1,0 +1,252 @@
+Question: Akarsuların taşıdığı su miktarı yıl içinde nelere bağlı olarak değişir?
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsular Ve Oluşturduğu Şekiller (EBA)</DOCTITLE>
+<TEXT>
+
+Akarsu, belli bir yatak içinde ve eğim boyunca akar. Akışı sırasında yüzeydeki malzemeyi aşındırarak taşır ve hızının azaldığı yerde bu malzemeyi biriktirir. Aşınım ve birikim faaliyeti; akarsuyun hızı, yağış, bitki örtüsü ve eğime bağlı olarak değişir.
+Akarsuyun doğduğu yere kaynak, denize veya göle ulaştığı yere ise ağız adı verilir. Akarsu, özellikle dik yamaçlarda yatağını derine doğru aşındırır. Ağız kısmından kaynak kısmına doğru yaptığı aşındırma geriye doğru aşındırma olarak adlandırılır. Aşınmanın ilerlemesi ile yatak eğimi azalır. Buna bağlı olarak geriye doğru aşındırma yavaşlar ve yana doğru aşındırma etkili olur. Akarsuyun yatağını derine doğru aşındırabileceği en son seviyeye kaide seviyesi adı verilir. Kaide seviyesi genellikle deniz seviyesidir. Buna mutlak kaide seviyesi de denir. Bazen bir göl ya da kapalı bir çukurluk da bir akarsu için kaide seviyesi olabilir. Bunlar da yerel kaide seviyesidir. Akarsuyun yatağı üzerindeki eğim kırıklıklarının olduğu yerde yüksekten akmasıyla çağlayanlar meydana gelir.
+Akarsu, çeşitli şekillerde aşındırarak yatağının eğimini giderek azaltır. En sonunda akarsu yatağı deniz seviyesine yakın ve çok az eğimli bir profil kazanır ki buna denge profili denir.
+Bir akarsuyun belli bir kesitinde bir saniyede geçen su miktanna akım (debi) adı verilir ve m3/sn olarak ölçülür. Akımın fazla olması aşınım faaliyetini de hızlandırır. Akarsuların kolları ile birlikte sularını topladığı alana akarsu havzası adı verilir.
+Sularını deniz ve okyanuslara ulaştıran havzalara açık havza (Şekil 35), ulaştıramayan havzalara ise kapalı havza adı verilir.
+Bir akarsuyun taşıdığı su miktarı; iklim, bitki örtüsü, buharlaşma, yağış türü ve miktarına bağlı olarak yıl içinde değişir. Bu değişiklik akarsu rejimi olarak adlandırılır. Yıl içinde su seviyesinde belirgin bir değişiklik görülen akarsulara düzensiz rejimli akarsular, bu seviyenin çok fazla değişmediği akarsulara ise düzenli rejimli akarsular adı verilir.
+Eğimin fazla olduğu yerlerde akarsu aşındırması hız kazanır.
+Akarsu havzalarını, birbirinden ayıran sınıra su bölümü çizgisi adı verilir.
+Eğimin az olduğu yerlerde aşınma yavaşlar, birikme hız kazanır.
+Akarsu Aşınım ve Birikim Şekilleri
+1 Yatay tortul tabakaların bulunduğu yerlerde akarsular, yataklarını derine doğru aşındırarak kanyon vadi adı verilen şekiller meydana getirir.
+2 Çağlayanlarda yüksekten düşen suların çarptığı yerde yapmış olduğu aşındırmalarla oluşan çukurluklara dev kazanı oluşur.
+3 Akarsu tarafından taşınan malzemeler yatak eğiminin azalması sonucu akarsu yatağında birikerek ada görünümü alır. Bu adacıklara ırmak adası adı verilir.
+4 Volkanik bölgelerde bulunan tüflerin sel suları tarafından aşındırılmasıyla peri bacaları meydana gelir. Bazı peri bacalarının üzerinde sert kayaçlardan oluşan şapka görünümlü kısımlar bulunur.
+5 Yumuşak ve geçirimsiz kayaçların bulunduğu yerlerde yüzeysel akış ve sellenmenin etkisiyle oluşan engebeli yarıntılara kırgıbayır (badlans) adı verilir.
+6 Akarsular vadinin dirençli kesimlerini az, dirençsiz kesimlerini çok aşındırarak asimetrik vadiler oluşturur.
+7 Akarsular tarafından derin vadilerle parçalanan geniş düzlükler plato olarak adlandırılır.
+8 Akarsular, dik yamaçlarda hızlı akarak derine doğru aşındırmalar sonucu çentik vadileri (V şekilli vadileri) meydana getirir.
+9 Akarsuların, taşıdıkları sedimentleri dağ eteklerinde eğimin azaldığı yerlerde birikmesiyle birikinti konileri ve konilerin birleşmesi ile de birikinti yelpazeleri meydana gelir.
+10 Akarsular, taşıdıkları malzemeyi denize veya göle ulaştıkları yerde biriktirir ve denizin sığ yerlerinde deltaları meydana getirir.
+11 Akarsular,dirençli ve sert kayaçları enine keserek boğaz vadileri meydana getirir.
+12 Akarsular tarafından taşınan malzemelerin dağlık bölgelerdeki çukur alanlarda birikmesi ile dağ içi ovaları meydana gelir.
+13 Akarsular, eğimin azaldığı yerde yatağını yana doğru aşındırarak geniş tabanlı vadileri meydana getirir.
+14 Eğimin azaldığı ve düzleştiği yerlerde akış hızının azalmasına ve farklı yapıdaki kayaçların varlığına bağlı olarak akarsuların kıvrımlar yaparak oluşturduğu şekillere menderes adı verilir.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Rusya coğrafyası</DOCTITLE>
+<TEXT>
+
+Rusya, Avrupa'nın doğusunda ve Asya'nın kuzeyinde çok geniş bir alana yayılan ülke. 17.075.200 km²'lik yüzölçümüyle dünyanın en büyük ülkesidir. Rusya batıda Norveç, Finlandiya, Baltık Denizi, Estonya, Letonya, Litvanya, Polonya, Belarus ve Ukrayna, güneyde Karadeniz, Gürcistan, Azerbaycan, Kazakistan, Moğolistan, Çin ve Kuzey Kore ile çevrilidir. Kuzeyinde Kuzey Buz Denizi, doğusunda ise Büyük Okyanus bulunur. Bering Boğazı ile Kuzey Amerika'dan ayrılır.
+Yüzey Şekilleri.
+Rusya jeolojik yapı ve yüzey şekilleri bakımından doğu ve batı olmak üzere iki ana kuşağa ayrılır. Bu iki kuşak arasındaki sınırı kabaca Yenisey Nehri çizer. Ülke topraklarının yaklaşık yüzde 40'ını kaplayan batıdaki kuşak görece alçak ovalardan ve platolardan oluşur. Doğudaki kuşak ise dağlıktır. Rusya coğrafi bakımdan bu iki ana kuşağın dışında altı alt bölgeye ayrılabilir: Kola-Karelya bölgesi, Rusya (Doğu Avrupa) Ovası, Ural Dağları, Batı Sibirya Ovası, Orta Sibirya Platosu, güneydeki ve doğudaki dağ kuşağı.
+Ülkedeki coğrafi bölgelerin en küçüğü Kola-Karelya, Rusya'nın Avrupa'da kalan kesiminin kuzeybatısında, Finlandiya sınırı ile Beyaz Deniz arasında yer alır. Karelya alçak tepeler, bataklıklar ve göllerle kaplı alçak bir platodan oluşur. Benzer yüzey şekillerine sahip olan Kola Yarımadası da Hibini Dağları dışında oldukça alçaktır.
+Dünyadaki en geniş düzlüklerden biri olan Rusya Ovası Ural Dağlarının batısından doğuya doğru yaklaşık 1.600 km, Kuzey Buz Denizinden Kafkaslar'a ve Hazar Denizine doğru da yaklaşık 2.400 km boyunca uzanır. Ortalama yüksekliği 170 m dolayındadır. Ovanın Moskova'nın kuzeyinde kalan kesimi buzul çökelleriyle kaplı düzlüklerden ve buzultaşı tepelerden oluşur. Moskova'nın güneyinde kalan kesiminde ise engebeli platolar ve geniş düzlükler uzanır.
+Rusya Ovasının doğu sınırında başlayan Ural Dağları Kuzey Buz Denizi kıyılarından Kazakistan sınırına değin yaklaşık 2.000 km boyunca uzanır; Kuzey Buz Denizindeki Novaya Zemlya Takımadalarını kaplayan dağlar da Uralların uzantısıdır. Ural dağları en yüksek noktasına Narodnaya Dağında (1.894 m) ulaşır. Dağlarda ayrıca yüksekliği 900-1.500 m arasında değişen bir dizi dıruk vardır.
+Urallar'ın batısında, ülkedeki en geniş coğrafi bölgeyi oluşturan Batı Sibirya Ovası uzanır. Aynı zamanda dünyanın en geniş kesintisiz düzlüklerinden biri olan Batı Sibirya Ovası Obi, İrtiş ve Yenisey ırmakları sular. Ovanın ortalama yüksekliği 100 m dolayındadır.
+Yenisey ve Lena nehirleri arasında uzanan Orta Sibirya Platosunun ortalama yüksekliği 500-700 m arasında değişir. Platonun güney sınırını Baykal Gölü çevresindeki dağlar, kuzey sınırını da Batı Sibirya Ovasının bir uzantısı olan Kuzey Sibirya Ovası çizer.
+Ülkenin güney ve doğusunda jeolojik açıdan birbirinden farklılıklar gösteren bir dizi dağ sistemi yükselir. Kazakistan ve Moğolistan sınırı boyunca uzanan Altay Dağlarının en yüksek noktası 4.506 m'dir. Altay Dağlarının doğusunda Tuva Havzasını çevreleyen Batı ve Doğu Sayan (sırasıyla 3.072 ve 2.990 m) dağları uzanır. Baykal Gölünün her iki yanında yer alan plato ve yükseltiler doğuda yerlerini Yablonovo ve Stanovoy sıradağlarına bırakır. Doğudaki Büyük Okyanus kıyılarına doğru 640 km boyunca uzanan Stanovoy Sıradağları Amur ve Lena ırmak sistemleri arasında su bölümü çizgisi oluşturur. Stanovoy Sıradağlarının doğu ucundan başlayan Cugcur Dağları kıyı boyunca kuzeye doğru uzanır. Sibirya'nın kuzeydoğu kesimini Çerski Sıradağlarıyla Verhoyansk ve Kolıma dağları engebelendirir. Bu dağların uzantıları Çukçi Yarımadasına kadar sokulur. Kamçatka Yarımadasını kaplayan Sredinni Sıradağlarında, başta Klyuçevskaya Yanardağı (4.750 m) olmak üzere bir dizi volkanik doruk yükselir. Sibirya'nın güneydoğusundaki dağların başlıcaları Badhalski Sıradağları (2.640 m) ve Sihote-Alin'dir (2.045 m). Sibirya anakarasından Tatar Boğazıyla ayrılan Sahalin Adasının kuzeyinde bir ova, güneyinde ise birbirine koşut uzanan iki dağ sırası yer alır.
+İklim.
+Rusya'nın iklimi yüzey şekillerine göre değişmekle birlikte, ülke genelinde özellikle kışların çok soğuk geçtiği bir kara iklimi hüküm sürer. Bu iklimin en belirgin özelliği ilkbahar ve sonbaharın çok kısa sürmesi, yaz ve kış ayları arasındaki sıcaklık farkının çok yüksek olmasıdır. Güney ve doğudaki yüksek dağ sıraları Hint Okyanusundan ve Büyük Okyanustan gelen hava kütlelerinin ülkenin içlerine girmesini engeller. Buna karşılık ülkenin kuzey ve batı kesimleri Kuzey Buz Denizinin ve Atlas Okyanusunun etkilerine açıktır. Ocak ayı ortalama sıcaklığı batıdan doğuya sırasıyla Petersburg'da -8°C, Turuhansk'ta -27°C, Yakutsk'ta -43°C, ülkenin doğu ucundaki Verhoyansk'ta da -50°C'dir. Yaz aylarında ise sıcaklık enlemlere bağlı olarak değişir. Temmuz ayı ortalama sıcaklığı Kuzey Buz Denizindeki adalarda 4°C iken, ülkenin güney sınırında 20°C'ye yükselir. Bununla birlikte bu ortalamalardan büyük farklılıklar gösteren sıcaklıklara da rastlanır. Örneğin Antarktika dışında saptanmış en düşük sıcaklığın (-70°C) görüldüğü Verhoyansk'ta sıcaklık temmuz aynında zaman zaman 38°C'nin üzerine çıkar. Yaz ve kış ayları arasındaki sıcaklık farkı iç kesimlere doğru gidildikçe artar; temmuz ve ocak ayları arasındaki sıcaklık farkı Moskova'da 29°C iken, Yakutsk'ta 64°C'ye yükselir. 
+Ülkenin batısında 200-300 mm'yi bulan ortalama yıllık yağış miktarı doğuya doğru azalarak Sibirya'nın doğusunda 406 mm'nin altına düşer; muson rüzgarlarının etkisi altındaki Büyük Okyanus kıyılarında yeniden yükselir (Vladivostok'ta 610 mm). Kış aylarında yağışların büyük bölümü kar olarak düşer. Rusya Ovasında kar 40-200 gün yerde kalırken, bu süre Sibirya'da 120-250 güne çıkar. 
+Akarsular, Göller ve Bataklıklar.
+Dünyanın en uzun nehirlerinden bazıları Rusya'dadır. Bunlardan dördünün (Obi, Yenisey, Lena ve Amur) uzunluğu 4 bin km'yi geçer. En uzun ve su toplama alanı en büyük akarsu, başlıca kolu İrtiş'le birlikte Obi Nehridir. Buna karşılık su miktarı en fazla ırmak Yenisey'dir.
+Ülkedeki nehirlerin çoğu, özellikle de Sibirya'dakiler kışın buzlarla kaplanır. Ülkedeki nehirlerin büyük bölümü Kuzey Buz Denizine dökülür. Bunların başlıacaları Obi, Yenisey, Lena, Kuzey Dvina, Peçora, İndigirka ve Kolıma'dır. Büyük Okyanusa dökülen akarsuların en büyüğü ülkenin Çin ile olan sınırını çizen Amur Nehridir. Don Nehri Karadeniz'in bir girintisi olan Azak Denizine dökülür. Karadeniz'e dökülen Dinyeper'in yalnızca yukarı çığırı Rusya sınırları içindedir. Avrupa kesimindeki nehirlerin en büyüğü Volga'dır. Moskova'nın kuzeybatısındaki Valday Tepelerinden doğan Volga yaklaşık 3.500 km'lik bir çığırdan sonra Hazar Denizine dökülür. Rusya'nın suyolu taşımacılığının yaklaşık üçte ikisi Volga ve kolları aracılığıyla gerçekleştirilir.
+Rusya'da çok sayıda göl vardır. Bunlardan Baykal Gölü (31.500 km²) Rusya'nın en büyük tatlı su kütlesi ve dünyanın en derin gölüdür. Öteki önemli göller kuzeybatıdaki Ladoga (17.610 km²) ve Onega (9.682 km²) ile Estonya sınırındaki Peipus'tur (3.534 km²). Ayrıca Don, Volga, Kama ve Yenisey nehirleri üzerinde bir dizi baraj gölü ve gölet vardır. Yenisey'in kollarından Angara Nehri üzerinde yer alan Bratsk dünyadaki en büyük ikinci baraj gölüdür. Bir başka önemli baraj gölü Moskova yakınlarında, Volga Nehri üzerinde yer alan Rıbinsk Baraj Gölüdür.
+Rusya'da geniş bataklık alanlara da rastlanır. Bunların en önemlisi Obi ve İrtiş nehirlerinin birleştiği yerde bulunan ve yaklaşık 49.000 km²'lik bir alana yayılan Vasyugane Bataklığı'dır.
+Toprak Dokusu.
+Kuzey Buz Denizi adaları verimsiz kutup topraklarıyla kaplıdır. Kuzey Kutup Denizi kıyılarında ve Rusya Ovasının kuzey ucunda verimsiz tundra toprakları görülür. Daha güneyde orman kuşağına özgü topraklar başlar. Bu topraklar arasında podzol, donmuş tayga, turbalı podzol ve yapışkan killi podzol gibi türler sayılabilir. Hepsi de geçirimli olan bu toprak türlerinin humus içeriği düşüktür. Orman kuşağının güneybatı ve güneydoğu ucunda kahverengi orman toprakları öne çıkar. Podzol ve bataklık topraklarının güneyinde humus katmanı belirgin gri orman topraklarının oluşturduğu dar bir şerit uzanır. Bozkırların tipik toprak türü çernozemdir.
+Bitki Örtüsü.
+Rusya iklim ve toprak dokusuna bağlı olarak kuzeyden güneye doğru bir dizi bitki örtüsü kuşağına ayrılır. Kuzey Buz Denizi kıyılarının gerisinde başlayan tundra kuşağı yalnızca yosun, liken ve çeşitli ot türleriyle kaplıdır. Tundra kuşağı Rusya Ovasının kuzey ucundaki dar bir kıyı şeridi ile Sibirya'nın kuzeyindeki biraz daha geniş bir kıyı şeridinden oluşur. Tundra kuşağının hemen güneyinde başlayan tayga kuşağı, Rusya ve Batı Sibirya ovalarının 56° kuzey enleminin kuzeyinde kalan kesimini ve Yenisey Nehrinin doğusunda kalan bölgenin büyük bölümünü kapsar. Bu bölgedeki en yaygın ağaç türleri huşağacı, kızılağaç ve söğüttür. Batı Sibirya tayga ormanlarında bataklıklar ve çayırlar geniş yer tutar. Daha güneyde geniş yapraklı ve karışık orman kuşağı başlar. Bu bölgeye özgü başlıca ağaç türleri meşe ve ladindir; ama dişbudak, kavak, huşağacı, akçaağaç, karaağaç ve çama da rastlanır. Rusya ve Batı Sibirya ovaları boyunca dar bir şerit oluşturan bozkır ve orman-bozkır kuşağında, otlarla örtülü alanlar arasında küçük meşe, huşağacı ve titrek kavak koruluklarına rastlanır.
+Hayvan Varlığı.
+Rusya'nın zengin ve değişken hayvan varlığı da birkaç kuşak altında toplanabilir. Kuzey Buz Denizi adaları ve kıyılarında kutup ayısı, fok, mors, pufla ördeği, martı ve dalgıçkuşu yaşar. Tundra kuşağının hayvan varlığı kutup tilkisi, ren geyiği, lemming, kar tavuğu ve kar baykuşu gibi türleri kapsar. Tayga kuşağının kara hayvanları arasında samur, sincap, sansar, tilki, ermin, sığın, misk sıçanı ve kurt sayılabilir. Başlıca kuş türlerini ise çaprazgaga, karga, baykuş ve ağaçkakan oluşturur. Genişyapraklı ormanların başlıca hayvanları karaca, kurt, tilki ve sincaptır; en tipik kuşlar ise kocabaş, sarıasma, baykuş ve bülbüldür. Bozkır-orman kuşağında daha çok marmot, araptavşanı ve keseğen gibi kemiriciler bulunur. Ayrıca tilki, kurt ve antilopa rastlanır. Başlıca bozkır kuşları kerkenez, kartal ve toygardır.
+Yüzey ve Sınırlar.
+Alan:
+Kara sınırları:
+Ülkenin batısında yer alan Kaliningrad Oblastının Rusya'nın geri kalanıyla bağlantısı yoktur. 
+Sınır ülkeleri:
+Kıyılar: 37,653 km
+Yükseltiler:
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Su Ekosistemlerinin Doğal Sistemlerin İşleyişine Etkisi (EBA)</DOCTITLE>
+<TEXT>
+
+SU EKOSİSTEMLERİ
+Karasal - Göl ekosistemleri, Nehir ekosistemleri, Bataklık ekosistemleri
+Denizel - Okyanus ekosistemleri, Deniz ekosistemleri
+Su, bütün canlı varlıklarda yüksek oranda bulunan önemli bir maddedir. Örneğin, insan vücudunun % 65'i, bitkilerin ağırlığının % 60-85'i sudan oluşmaktadır. Suyun canlılar üzerinde olduğu kadar başka canlılar ve cansız çevre üzerinde de çeşitli etkileri vardır.
+Okyanusların ortalama derinliği 3700 m olmakla birlikte bazı yerlerde çok daha derin çukurlar bulunur. Bura-da yaşayabilen çok az sayıda canlı, ışıksız ortama uyum sağlayacak biçimde gelişmiştir. Okyanuslardaki bitki ve hayvan türlerinin çoğu ise güneş ışınlarının erişebildiği ilk 100 m’lik derinlikte yaşar.
+Okyanuslarda geniş kumluk alanlar, yüksek dağlar, bitki ve hayvan toplulukları barındıran bölgeler bulunur. Okyanus eko-sistemi içinde her birinin kendi çevresi ve çeşitli yaşam biçimleri bulunan çok sayıda farklı boyutlarda ekosistemler yer alır.
+Bu ekosistemler içerisinde farklı türlerde canlılar yaşamaktadır (Fotoğraf 2).
+Okyanuslar iklim üzerinde önemli rol oynar. Okyanuslar, atmosferle sürekli ısı alışverişinde olduğundan ekvatordaki ısı enerjisinin dağılmasına katkıda bulunur. Yerkürenin ısı bilançosu, ısının yalnız yarısının hava ile taşındığını göstermektedir. Kalanı ise okyanus akıntılarıyla taşınmaktadır. Örneğin, Gulf Stream (Golf Sitrim) sıcak su akıntısı, Meksika Körfezi’nden başlayıp Atlas Okyanusu’nu geçerek İngiltere'ye ulaşır. Bu akıntı günde 97 km hızla dünyadaki bütün nehir sularının yaklaşık 100 katı civarında bir su kütlesini hareket ettirir.
+Mercanlar; dünya ekosisteminin en karmaşık, en zengin beslenme damarlarındandır. Tuzlu sularda yaşayan balıkların yaklaşık üçte biri, mercan artıklarıyla beslenir. Mercanlar bulundukları denizlerdeki diğer canlı türleri için birer barınma ve besin kaynağıdır. Bu nedenle mercanların oluşturduğu resifler, denizlerdeki canlı çeşidi ve miktarı bakımından en verimli bölgeleridir. Denizlerde mercanların kapladığı alanlar geniş değildir.
+Fotoğraf 3’te de görüldüğü gibi okyanusların yüzeyinde dalgaların etkisiyle her an sayısız küçük hava kabarcığı patlamaktadır. Böylece
+deniz tuzlarınca zengin, pek çok su damlacığı atmosfere fırlatılmaktadır. Bu süreç, aslında biyosfer dengesi için son derece önemlidir.
+Okyanuslardan atmosfere taşınan toplam tuz miktarının yıllık 10 milyon ton olduğu hesaplanmıştır. Havada asılı durumdaki küçük tuz kristallerinin yoğuşma olayında önemli etkileri vardır.
+Aerosol denen bu küçük parçacıklar, bulutların oluşumunu sağlar. Aerosoller olmasaydı iklim- Fotoğraf 3: Su yüzeyinde patlayan mirtik hava kabarcıkları ler çok daha kurak olurdu.
+Yağmur damlaları yere düşerken havada bulunan aerosolleri yakalayarak toprağa indirir. Yağışlarla toprağa inen bu tozlar, tarlaların verimini arttırmak için kullanılan geleneksel gübrelerin bazılarının küçük örnekleridir (kalsiyum, magnezyum, potasyum vb. metallerin fosfatları ve sülfatları). Her yıl yağmurlarla kara parçalarının yüzeyine 150 milyon ton gübre düştüğü tahmin edilmektedir.
+Akarsular, ekosistemlerin önemli bir parçasını meydana getirir (Fotoğraf 4). Akarsuyun yer altına sızan kısmı akiferleri, yüzeysel akışa geçen kısmı da deniz ve okyanusları besler.
+Akarsular birçok bitki ve hayvan türü için yaşam alanı oluşturur.
+Akarsuların hızı, fiziksel ve kimyasal özellikleri akarsuyun barındırdığı hayvan türü ve sayısı üzerinde etkili olan faktörlerin başında gelir.
+Bir akarsuda eğim kesintileri ve çağlayanlar varsa biyolojiik üretim ve çeşitlilik az olur. Yatak eğiminin fazla olduğu yerlerde bol miktarda alüvyal malzeme Fotoğraf 4: Akarsu ekosisteminden görünüm	taşınıyorsa	akarsu	bulanık	bir	görünüm	arz	eder.	Suyun
+bulanık olması birçok canlı için olumsuz sonuçlar doğurur.
+Genellikle akarsuların yukarı çığırında topoğrafya daha engebeli, eğim fazla olduğu için akış hızlıdır. Burada genellikle bazı böcek türleri ile alabalıklar yaşar. Orta çığırda eğim biraz azalır ve vadi genişlemeye başlar. Bu kesimde balık türleri artar. Eğimin azaldığı ve akışın yavaşladığı aşağı çığırda planktonlar artar. Akarsu denize ulaşıyorsa ağız kesimlerinde tatlı su ve tuzlu su birbirine karışır. Bu bölgeler bitki ve hayvan türleri bakımından zengindir. Akarsuların taşıdığı elementler ve besin maddeleri buralardaki biyolojik çeşitliliği artırır. Akarsu ağızları mikroorganizmalardan kuşlara kadar birçok canlının barındığı yerlerdir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsu Ve Nehirler  (EBA)</DOCTITLE>
+<TEXT>
+
+Akıntılı sulara sahip biyomlardır. Büyük su miktarı bulunduan akarsular nehirlerdir (ırmak). 
+Nehirlerin daha küçük olan su kütleleri ise çay ya da dere olarak isimlendirilir. 
+Bunlar yer altı ve yer üstü sularından beslenmenin yanında, buzulllardan eriyen sular da bunlara büyük su kaynağıdır. 
+Nehirlerin çoğu bir denize, göle ya da başka bir akarsuya ulaşır. Ancak ulaşamayıp kuruyanları da vardır. Ayrıca baraj yapımlarında, barajın dışında kalan kısım kuruyabilmektedir.Dünyada içilebilir su kaynagının sadece %0,5’i nehirlerden karsılanmaktadır. 1/3’ü kara buzullarında çogu ise yer altı sularında bulunur. 
+Akarsuların, başlangıç yerine kaynak bitiş yerine ise ağız denir. 
+Akarsuların kaynak kısmında akıntı hızı yüksek, çalkantı fazla ve oksijen miktarı yüksektir. Bu bölgede alabalık gibi balık türleri yaşar. Besin maddesi ve tuz içeriği, kaynaktan, nehrin döküldüğü kısma doğru artış gösterir. 
+Akarsuların akış hızı farklı olduğu için, oksijen ve sıcaklık da değişecektir (Resim 3.56). Dolayısıyla akarsuyun kaynağından ağıza kadar farklı bölgeler görülebilir. Canlı çeşitliliğinde de farklılıklar görülebilir. 
+Nehirler, fitoplankton ve köklü sucul bitkiler açısından zengindirler. 
+Çok çeşitli balık ve omurgasız hayvan bulunur. Kıyılarında ise çok sayıda ikiyaşamlı ve sürüngen türleri görülebilir. 
+İnsan müdahalesi nehirlerin kirlenmesine ve kurumasına yol açabilmektedir. Fabrika atıklarının dere ve nehirlere boşaltılması nehirleri kirletmekte, canlı çeşitliliğini de azaltmaktadır. Bu müdahalelerden birisi de yol veya başka inşaatlar için akarsuyun yatağını değiştirmektir. Bu durumda akarsuyun akış sistemi bozulmakta, içindeki canlı çeşitliliği de zarar görmektedir.
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Akarsu terası</DOCTITLE>
+<TEXT>
+
+Akarsu terası veya taraça akarsuların veya akarsu vadilerinin yamaçlarında görülen; sahanlığa benzer teraslara verilen isimdir. Çoğu akarsuyun bitişiğinde ırmaklar daha yüksek bir düzeyde aktığında oluşmuş olan taşkın düzlüklerinin aşınmalı kalıntıları vardır. Bu akarsu terasları, oldukça düz bir üst yüzeye ve aşağıdaki günümüz taşkın düzlüğüne doğru alçalan dik bir eğime sahiptir. Bazı durumlarda bir ırmağın güncel taşkın düzlüğü üzerinde pek çok seki görülebilir, bu da geçmişte ırmak teraslarının birkaç kez oluşmuş olduğunu gösterir.
+Bütün ırmak teraslarının aşındırma kökenli olduğu halde önceden bir taşkın düzlüğü oluşumu ile çökel birikim evresi geçirirler. Ardından gelen aşınma akarsuyun bir kez daha yeniden derecelenmiş ırmak haline gelinceye kadar aşağı doğru kazımasına neden olur (Şekil 2). Akarsu tekrar derecelendiğinde bu kez yanal aşındırmaya ve daha aşağı bir düzeyde yeni bir taşkın düzlüğü oluşturmaya başlar. Bazı akarsuların yanında görülen pek çok teras bu süreçlerin birkaç kez yenilenmesi ile gelişirler..
+Aşınmanın yenilenmesi ve ırmak terasların oluşumu genellikle taban düzeyinde meydana gelen bir değişime bağlanır. Irmağın üzerinde aktığı kara parçasının yükselmesi ya da deniz yüzeyinin alçalması eğimi dikleşmesine ve akış hızının artmasına yol açar ve böylece aşağı doğru bir kazınma evresi başlar. Irmak derecelenmenin yeniden oluştuğu düzeye ulaştığında ise aşağı doğru kazınma biter. Şüphesiz taban düzeyinde ki değişiklikler pek çok akarsu taraçası oluşunun açıklanmasına karşın ırmağın akaçlama havzasında daha büyük yüzeysel akış olması da teras oluşmasına neden olabilir. Bazı vadi tabanlarında yerli kaya yüzeye daha yakındır ve bunun üzerinde, nisbeten ince bir alüvyon tabakası mevcuttur. Bunun sonucunda bazı vadi tabanlarında alüvyon dolgu çok kalın, yerli kaya çok derinlerde olabilir. Bu durum, bu farklı özellikteki vadi tabanlarının sonradan teraslar haline dönüşmeleri halinde terasların yapısını belirler. Yerli kayanın yüzeye yakın olduğu ve ancak ince bir alüvyon alüviyon tabakası ile örtülü bulunduğu bir vadi tabanı yarıldığı zaman, meydana gelecek olan teras, esas itibari ile yerli kayadan oluşur ve bunun üzerinde ancak ince bir alüvyon örtüsü bulunur. Bu özelliği gösteren teraslara yerli kaya terası adı verilir. Buna mukabil, kalın bir alüvyon tabakası ile doldurulmuş bir vadi tabanı yarıldığında oluşan teraslara tamamıyla alüvyonlardan meydana gelir. Kum, çakıl, mil gibi nehir depolarından oluşan bu çeşit teraslara da, alüviyal teras ya da dolgu teraslar denir...
+Teras Tipleri.
+Teraslar dönemli ve dönemsiz olmak üzere ikiye ayrılırlar.
+Dönemli (Paired) Teraslar.
+Aynı yükseklikte karşılıklı kenarları olan teraslara dönemli teraslar denir. Akarsuyun derine aşındırmasından kaynaklı akarsu yatağının her iki tarafında da eş yükseklikler oluşur. Dönemli teraslar nehir gençleşmesinden kaynaklanır.
+Dönemsiz (Unpaired) Teraslar.
+Bu tip teraslarda akarsu, havzanın bir tarafının yanal ve derine aşınması, diğer tarafının aşınmaya olan dirençli olması ile oluşur, geriye aşınmaya dayanıklı olan teras kalır. Akarsuyun yönünün değişmesiyle dönemsiz teraslar oluşur.
+Teras Oluşumunu Kontrol Eden Faktörler.
+İklim.
+Akarsuların yatak tiplerindeki değişin her bir iklim döneminde tek tip olduğu kabulünü ortadan kaldırmıştır. Dolayısıyla iklime bağlı patern değişimi, her akarsuda farklı gerçekleşir. İklim değişiminin tetiklediği flüvyal yarılmaların ardından, kazılan kanalların hızla dolmasını kapsayan bu kısa sürelerin belirlenmesi, iklim değişimine karşı doğrusal olmayan flüvyal tepki teorisinin temelini oluşturur.
+Tektonik.
+Tektonik, yer kabuğunu deforme eden iç güçleri ifade eder. Bu güçler, büyük ölçekli kabuk yükselmesi, yerel alçalma, eğim kazanma ve faylanma oluşturur. Akarsu vadilerini etkileyen tektoniğin kaydı, sekilerde ve güncel vadi tabanı dolgularında tutulur. Bölgesel veya yerel yükselmelerin olduğu yerlerde kanal eğimi artacağı için akarsuyun enerjisi ve sediman miktarı artar. Dolayısıyla faylanma ve yerel yükselme tarafından bozulan vadi eğimleri patertini etkileyebilir. Diğer taraftan, vadi tabanının yanal olarak eğim kazınması da kanal göçünü ve vadi sedimantasyonun paternini etkiler.
+Kaide Seviyesinin Değişimi.
+Flüvyal sistemler için deniz seviyesi, aşındırmanın sona erdiği genel kaide seviyesini oluşturur. Bazı akarsular için kara içlerindeki göl ve bataklıklar, yerel kaide seviyesini oluşturur. Eger deniz seviyesi karaya göre alçalırsa, akım ve sediman hareketi için daha fazla enerji ortaya çıkar ve akarsu yatağında yarılma olur. Tersine kaide seviyesi yükselirse, enerji azalır ve kanalın aşağı kesiminde depolanma olur.(örn. Charlton, 2008)
+İnsan Etkisi.
+Artan nüfus, tarımsal faaliyetler ve bitki örtüsü tahribine bağlı olarak akarsu havzalarında artan sediman üretimi flüvyal sistemlerde etkili olmuştur. 20 yy’ın ikinci yarısından itibaren akarsu üzerinde çok sayıda baraj yapılmıştır. Baraj yapımı nedeniyle, akarsuyun taşıdığı sediman miktarı çevrenin tahrip edilmesi nedeniyle artmaktadır. Akarsu yataklarından kum alınması, akarsuyun yatağının yeniden düzenlemesine neden olmaktadır.
+Teraslar; seki taraça diye de adlandırılmaktadırlar...
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Birikinti ovası</DOCTITLE>
+<TEXT>
+
+Birikinti ovası Birikinti ovaları genel olarak alüvyon materyalin birikmesiyle oluşmuşlardır. Temel oluşturucu süreç akarsu aşındırması erozyon ve akarsu biriktirme süreçleridir.Ancak dalgalar ve buzulların aşındırma, biriktirme süreçleriylede oluşabilir. Örneğin: Kuzey Almanya ovası buzulların yığdırdığı lösler ile kaplı polderler ve geest adı verilen alçak platoda hafifçe engebelendirilmiş tekdüze büyük bir ovadır. Ülkenin hemen hemen en verimli toprakları bu bölgededir.
+Çeşitleri.
+Delta ovası , Çöküntü ovası , taşkın ovası , Dağ içi ovası
+Delta ovası.
+Akarsular tarafından taşınan alüvyonların ;kil kum çakılları deniz veya göl kenarında biriktirmesiyle oluşmuş ovalara delta ovası denir. Bu ovalar bir delta harfine yani hemen hemen bir üçgene benzer. Ancak şüphesiz bir kural değildir, girintili- çıkıntılı olabilirler. Delta ovaları deltası sürekli denize doğru büyüyen ovalar durumunda olurlar. Örneğin ; Po ovası her yıl yaklaşık 70-80 ha Adriyatik Denizine doğru, Mezopotamya ovaları 50-60 ha Basra Körfezine doğru ve Nil deltası ovası ise Akdeniz'e doğru 40-50 ha kadar büyümekte olan ovalardır. Delta ovaları akarsuyun taşıma gücünün iyice azaldığı akarsu ağız kesimlerine doğru düşük eğim gösteren alanlarda oluşur. Akarsu akış doğrultusunun tersi yönde giderek eğim artar ve akarsuyun taşıma gücü de artar. Bu kesimlerde daha çok malzemeden oluşmuş birikinti konileri oluşmuştur. Bunların birbirine eklendiği ova düzlüğüne yakın alanlarda ise birikinti yelpazeleri oluşmuştur.
+Delta oluşumunu hazırlayan başlıca jeomorfolojik faktörler, şunlardır:
+1. Akarsular tarafından, yeterince lığ(kil, kum, toprak,çamur...) taşınması gerekir.
+2. Kıyı açıklarının sığ(-200m. Ve daha az)olması gerekir.
+3. Delta oluşum kıyılarında, güçlü gel-git hareketleri cereyan etmemelidir.
+4. Kıyılar boyunca, güçlü akıntılar olmamalıdır.
+Çöküntü ovaları.
+Bunlara, tektonik ovalar veya çöküntü hendeği(graben) ovaları da denir. Depresyonların tabanlarında, ya da havzaların tabanlarında oluşmuş ovalardır. Örneğin, Erzurum ovası(825 km-kare), Erzincan ovası(560 km-kare), Muş ovası(1500 km-kare)... Gibi). Dağ eteği ovaları: dağların eteklerinde yer alan, kısmen de bu dağlar arasına doğru sokulmuş olan ovalardır. Bunlara, piedmont ovaları( dağ eteği düzlüğü) de denir. 
+Dağ eteği ovalarının, piedmont adıyla en tipikleri, ABD'nin Appalaş Dağları güneybatı bölümleri ile Kıyı ovaları(Güney Carolina ve Georgia eyaletleri) arasında yer alan, Piedmont bölgesinde görülür. Bu tip ovalar, oluşan birikinti konilerinin giderek birbirine eklenip büyüyerek, genişlemeleri sonucu oluşurlar. 
+Dağ ıçi ovalarının eğimleri, kıyı ovaları ya da alçak ovalara göre daha belirgin ve fazladır. Dağlık kütleye doğru çıkıldıkça da artar ve arazi, ova niteliğini yitirerek, bir plato görünümü kazanır. Türkiye'de en tipik piedmont ovası, Bursa ovasının Uludağ volkanik kütlesine doğru en fazla sokulduğu( ovanın güney kesimi) bölümüdür.
+Dağ içi ovaları.
+Oluşum süreci bakımından, bunlar da dağ eteği(piedmont) ovalarına benzerler. Dağlık ya da yüksek plato bölgelerini aşan akarsular, yer yer dik yamaçlı boğazlar açarak akışlarına devam ederler. Bu boğaz çıkış kesimlerinde (akarsuyun boğazları geçtiği yerler); eğim değerleri daha az akarsuların(vadilerin), ana akarsuya(ana vadiye) eklendiği yan kollar vardır. Eğimin azalmasına bağlı olarak, akarsuyun taşıma gücü de giderek azalır ve yan kolların ana akarsuya karıştığı kesimlerin yüksek bölümlerinde birikinti konileri, bunların birbirlerine eklenmeleriyle oluşan birikinti yelpazeleri ve ana akarsuya(vadiye) daha yakın olan eğimi iyice azalmış kesimlerde ise, ovalar oluşur. Bu ovalara dağ içi ovaları denir.
+Taşkın ovaları.
+Daha önce de ifade edildiği üzere, akarsuların normal akış düzeylerinden fazla su geçirmeleri durumu, kabarık devre diye tanımlanır. Özellikle yağışlı bölgelerde ilkbahar ve sonbahar, yarı kurak bölgelerde ise kışları, akarsuların kabarık devreleridir. Akarsuların normal akış yataklarından çıkarak, sularının çevreye doğru yayması, taşkın veya su basması diye tanımlanır. Geçmişte sıkça taşkınlara maruz kalmış, ya da bugün taşkın sularının yayıldığı ovalara, taşkın ovası denir.
+Taşkınlar daha çok menderesli ovalar ile diğer kıyı ovalarında etkili olurlar. Çünkü buralarda, hem ırmakların taşıdığı akarsu hacmi çoğalır, hemde eğimin azalmasına paralel olarak, akarsuyun taşıma gücü ve akış hızı büsbütün zayıflar. Bu taşma-çekilmeler süreci boyunca akarsular, ova yüzeylerinde bol lığ, yani alüvyal maddeler bırakır. Bu maddeler, tarımsal faaliyetler için çok uygun bir toprak örtüsü meydana getirir. Drenaj kanalları açılmak suretiyle topraklarda tuzlanma-çoraklaşma ile ve akarsu yatağı düzenlenerek taşkınlar önlenirse, bu tip taşkın ovalarında, verimli bir tarım faaliyeti sürdürülebilir.
+Kaynaklar.
+1. Prof. Dr. Doğanay Hayati-Coğrafyaya giriş 1 genel ve fiziki coğrafya- 8. Basım Erzurum 2013 Aktif yayınevi
+2. Prof. Dr. Erinç Sırrı-Jeomorfoloji 1 2.baskı istanbul 2005
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Kocaeli</DOCTITLE>
+<TEXT>
+
+Kocaeli, Türkiye Cumhuriyeti'nin Marmara Bölgesi'nin Anadolu yakasında yer alan bir ildir. Adını, 1320 senesinde İzmit ve havalisini fetheden Akça Koca'dan alır. 1.600.016 olan nüfusuyla Türkiye'nin 6. ,İstanbul ve Bursa'dan sonra Marmara Bölgesi'nin 3. büyük kentidir.
+Coğrafya.
+Coğrafi konum.
+Kocaeli ili, Marmara Bölgesi'nin Çatalca-Kocaeli Bölümü'nde, 29° 22'—30° 21' doğu boylamı, 40° 31'—41° 13' kuzey enlemi arasında yer alır. Doğu ve güneydoğusunda Sakarya, güneyinde Bursa illeri, batısında Yalova ili, İzmit Körfezi, Marmara Denizi ve İstanbul ili, kuzeyde de Karadeniz'le çevrilidir. İl merkezi İzmit'in doğusundan geçen 30° doğu boylamı Türkiye saati için esas kabul edilir. Kocaeli ilinin yüzölçümü 3.505 km2'dir. Asya ile Avrupa'yı birleştiren önemli bir yol kavşağında bulunmakta­dır. Doğal bir liman olan İzmit Körfezi işlek bir deniz yoludur. İlin kuzeybatı yüzündeki İstanbul il sınırı, Gebze ile İstanbul arasında akan Kemiklidere'nin doğusundan geçer. Güneybatıda İstanbul-Kocaeli sınırı İzmit Körfezi'nin karşı kıyısında Yalova topraklarıyla son bulur. Bursa sınırını Samanlı Dağları'nın tepelerinden geçen hat oluşturur.
+Ovalar ve platolar.
+İlde çok sayıda küçük dere vadisi vardır. Ovalar genellikle akarsuların yığıntılarıyla oluşmuş küçük alüvyal düzlükler niteliğindedir. Karadeniz'e dökülen akarsuların oluşturduğu vadiler, Kocaeli Yarımadası'nın yeni bir biçim almasına yol açan tektonik hareketlerin öncesinde ortaya çıkmış, buna karşılık Marmara Denizi'ne dökülen akarsu vadileri bu hareketlerin sonrasındadır. 
+Kocaeli Yarımadası'nın bugünkü biçimi, İzmit Körfezi ve Sapanca Gölü gibi tektonik çöküntüler, Karadeniz gibi çanaklaşmalar ve deniz yüzeyindeki değişmelerle belirlenmiş yarımadanın kıyı kesimlerinde denize taraçalar oluşmuştur. Bu arada akarsuların aşağı çığırlarında da genişleyen alüvyal dolgu tabakalar ve kıyı birikim kuşakları oluşmuştur. Daha önce de belirtildiği gibi yarımadadaki su bölümü çizgisi, İzmit Körfezi'ne çok yakın bir kesimden geçmektedir.
+Coğrafi yapı.
+İl topraklarından kaynaklanan suların bir bölümü Ka­radeniz'e, bir bölümü de Marmara Denizi'ne ulaşır. Kocaeli Yarımadasında uzanan dağların sırtı İzmit Körfezi ve Mar­mara'ya daha yakın olduğundan Karadeniz'e dökülen akar­sular daha uzundur. Gebze'nin Tepecik köyü yakınlarından doğan 71 km uzunluğundaki Riva (Çayağzı) Deresi İstanbul Boğazı giri­şinin doğusunda Karadeniz'e dökülür. Ağva Deresi de denen Göksu Deresi Karayakuplu köyü yakınlarından çıkar ve Ağva'da Karadeniz'e ulaşır. Yine Karadeniz'e dökülen Yulaflı Deresi'nin uzunluğu 43 km'dir. Üzerinde İstanbul kentine su sağlayan Darlık Barajı bulunan Darlık Deresi de il toprak larından doğar. Denizli köyünden doğup Karadeniz'e dö­külen Kocadere'nin uzunluğu 50 km'dir. İl topraklarından doğup, il sınırları içinde Karadeniz'e dökülen başlıca akarsu Kandıra ilçesindeki Sansu'dur. Sakarya Nehri'ne Karadeniz'e dökülmeden önce katılan son akarsu olan Kaynarca Deresi de Kandıra ilçesinden doğar. Samanlı Dağları'ndan doğan Kirazdere İzmit kentinde körfeze dökülür. Bu dere üzerindeki Kirazdere Barajı'nın yapımı 1997'de tamamlanmıştır. Gebze ilçesindeki Dilovası Deresi'nin uzunluğu 12 km'dir. Pelitli kö­yünün güneyinden ve Tavşanlı köyünün kuzeyinden geçerek İzmit Körfezi'ne dökülür. 542 km burhan dereside vardır. İlimizin en büyük ve en güzel köyü ise 2.000'i aşkın nüfusuyla Karaağaç'tır. Ayrıca burası ilimizin en doğusunda Kandıra ilçesine bağlıdır.
+Göller.
+Batı bölümündeki 7 km'si Kocaeli sınırları içerisinde kalan Sapanca Gölü'nün yüzölçümü 47 km²'dir. Uzuntarla, Maşukiye ve Eşme Beldelerine sınırdır. İzmit kentine su sağlayan Kirazdere Barajı'nın ardında yer alan yapay göl ise 1,74 km²'lik bir alanı kaplar. Bir başka yapay göl de Kocaeli Büyükşehir Belediyesi tarafından kentin su ihtiyacını karşıla­mak için yaptırılan barajın ardında su toplanması sonucu oluşan Yuvacık Baraj Gölü'dür.
+İklim.
+Körfez kıyılarıyla Karadeniz kıyısında ılıman, dağlık kesimlerde daha sert bir iklim hüküm sürer. Kocaeli ikliminin, Akdeniz iklimi ile Karadeniz iklimi arasında bir geçiş oluştur­duğu söylenebilir. İl merkezinde yazlar sıcak ve az yağışlı, kışlar yağışlı, zaman zaman karlı ve soğuk geçer.Karlı günler sayısı ortalama 12 gündür. Kocaeli'nin Karadeniz'e bakan kıyıları ile İzmit Körfezi'ne bakan kıyılarının iklimi arasında bazı farklılıklar göze çarpar. Yazın körfez kıyılarında bazen bunaltıcı sıcaklar yaşanırken Karadeniz kıyıları daha serindir- İl merkezinde ölçülen en yüksek hava sıcaklığı 44,1 °C (13 Temmuz 2000), en düşük hava sıcaklığı -8,3 °C (23 Şubat 1985), yıllık ortalama sıcaklık ise 14,8 °C'dir. Karadeniz kıyısında yıllık ortalama yağış miktarı 1.000 mm'yi aşar. Bu miktarı güneye doğru gidildikçe azalır, İzmit'te 800 mm'nin de altına düşer (784,6 mm). Samanlı Dağlan'nın kör­feze bakan yamaçlarında iklim Karadeniz kıyılarına benzer. Yağış miktarı da bu kesimde farklıdır. Rüzgârlar kışın kuzey ve kuzeydoğudan, yazları ise kuzeydoğudan eser.
+Eğitim.
+İlde her türden fen lisesi mevcut olmasının yanı sıra Kocaeli Üniversitesi ve Gebze Yüksek Teknoloji Enstitüsü'ne de ev sahiplği yapmaktadır.
+Bitki örtüsü.
+Kocaeli'nde bitki örtüsü, genelde Marmara Bölgesinin özelliğini taşımakla birlikte, kıyısıyla dağlık alanlar arasında önemli farklılıklar görülür. Ayrıca kuzeyden güneye doğru gidildikçe Karadeniz kıyısına özgü bitki topluluklarının yerini Akdeniz bitkileri almaya başlar. Samanlı Dağları ile Karadeniz kıyısı ardındaki alanlar sık ve nemcil ormanlarla kaplıdır. Bu ormanlar daha çok kayından oluşur; bazı kesimlerde kayına gürgen, kestane ve meşe de karışır. Samanlı Dağlan'nın yüksek kesimleri iğneyapraklılarla örtülüdür. İzmit Körfezi'nin kuzey ve doğu­sunda Akdeniz iklimine özgü makilere rastlanır. Eskiden kör­fezin kuzey kıyılarında yaygın olan zeytinlikler kent ve sanayi alanı elde edilmesi amacıyla yok edilmiş durumdadır. Tahrip edilen ormanlık alanlar step bitkileri ve yalancı makilerle kaplıdır.
+İdari yapı.
+2010 TUIK verilerine göre ilde 12 ilçe ve 243 köy vardır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Romanya coğrafyası</DOCTITLE>
+<TEXT>
+
+Romanya, Güneydoğu Avrupa'da, Balkan Yarımadası'nın doğu kesiminde yer alır. 238.391 km²'lik bir alanı kaplayan Romanya, kuzeyde Ukrayna, doğuda Moldova, batıda Macaristan, güneybatıda Sırbistan, güneyde Bulgaristan, doğuda Karadeniz'le çevrilidir. Kuzeyden güneye 480 km, batıdan doğuya 670 km boyunca uzanır. Sınırlarının toplam uzunluğu 3.153 km'yi bulur. 
+Yüzey Şekilleri.
+Romanya fiziksel coğrafya bakımından altı bölgeye ayrılır: Karpat Dağları, Dış Karpatlar, platolar, ovalar, Tuna Deltası ve Karadeniz kıyısı. Batıya dönük bir yay çizerek ülkenin ortasındaki Transilvanya Platosunu kuşatan Karpat Dağları dört bölüm olarak ele alınabilir. Ukrayna sınırından Prahova Nehri vadisine kadar uzanan ve Rodna Dağlarında 2.303 m'ye ulaşan Doğu Karpatlar, kuzey-güney doğrultulu bir dizi koşut sırttan oluşur. Sırtlar arasındaki kristalin kayaçlı sarp yüzey dar boğazlarla parçalanmıştır. Batı kenarda volkanik kökenli Oaşului ve Harghita dağları yer alır. Kireçtaşı ve konglomera oluşumlu ana sıradağlar ise Gurghiu ve Ciuc gibi çöküntülerle birbirinden ayrılır. Transilvanya Alpleri olarak da biline Güney Karpatlar, Prahova Nehri vadisinden batıdaki Timiş ve Cerna nehir vadilerine kadar uzanır. Sert kristalin ve volkanik yapısından dolayı masif bir görünümü vardır. Făgăraș Dağlarında ülkenin en yüksek dorukları olan Moldoveanu (2,543 m) ve Negoiu (2.535 m) yükselir. Eski erozyon platformlarını, yüksek geçitleri ve buzul göllerini barındıran sistemin güney yamaçları derin ırmak vadileriyle oyulmuştur. Tuna ve Someş nehirleri arasındaki birbirinden kopuk kütlelerin oluşturduğu Batı Karpatlar, tarihsel olarak "kapı" işlevini gören yapısal çöküntülerle ayırt edilir. Kuzeydeki Apuseni Dağları üzerinde parmak görünümülü bir dizi yükselti yer alır. Doğudaki Bihor Dağları karstik oluşumların bulunduğu bir platoyla birleşir. Batıda birbirine koşut olan Zărand, Codru-Moma ve Pădurea Craiului dağları uzanır. Güneyde Mureş, Irmağını izleyen Metaliferi ve Trașcă dağları yer alır.
+Karpat Dağları boyunca ikinci bir dar kuşak oluşturan Dış Karpatlar'ın yüksekliği 400-1.000 m arasında değişir. Bölgenin hafif dalgalı yüzeyi, yer yer geniş ve verimli vadilere dönüşür.
+Karpat Dağlarına bir dizi geçitle bağlanan Transilvanya Platosu, gelişmiş ulaşım ağıyla kalabalık bir nüfusu barındırır. Doğuda Dış Karpatlar ile Prut Nehri arasında uzanan Moldova Platosunun ortalama yüksekliği 480-600 m'yi bulur. Aşınmış bir kütle olan güneydoğudaki Dobruca Platosu, Pricopan Tepelerinde 467 m'ye ulaşır.
+Karpat Dağlarının güney ve batısına doğru yayılan ovalar ülke topraklarının yaklaşık üçte birini kaplar. Güneydeki Aşağı Tuna Havzası, Olt Nehri sınır olmak üzere Romanya Ovası (doğu) ve Olteni Platosu (batı) biçiminde ikiye ayrılır. Ovalık bölge verimli lös katmanlarıyla kaplıdır. Tuna Nehri kıyıları taşkın ovası özellikleri gösterir.
+Dobruca Platosunun kuzeyine düşen Tuna Deltası, eski bir körfezin denizden kopmasıyla ortaya çıkmış bataklık bir alandan oluşur. Bölgenin büyük bölümü doğa koruma alanı ilan edilmiştir.
+Karadeniz kıyı şeridindeki güzel kumsalların gerisinde irili ufaklı göller sıralanır. Bu göllerin bir bölümünde kaplıcalar bulunur.
+İklim.
+Romanya'nın iklimi ılıman ve karasal iklim kuşakları arasında bir geçiş özelliği gösterir. Orta ve batı kesimlerde nemli Atlas iklimi ağır basar. Güneydoğuda karasal etki kendini duyurur; kıyılara doğru yarı Akdeniz iklimi koşulları ortaya çıkar. Ülke genelinde yükseklik farkı iklimi belirleyen önemli bir etkendir. Yıllık ortalama sıcaklık güneyde 11°C, kuzeyde ise 7°C'dir. Dobruca bölgesinde 400 mm olan yıllık yağış miktarı, Karpat Dağlarında 1.400 mm'ye kadar çıkar. Ortalama yıllık yağış miktarı 660 mm'dir.
+Akarsular.
+Romanya'daki akarsuların hemen hepsi güney sınırının büyük bölümünü çizen Tuna Nehrine karışır. Tuna'nın Karadeniz'e taşıdığı su miktarının yaklaşık yüzde 40'ını Romanya'daki kollar sağlar. Bu kolların başlıcaları Prut, Mureş, Olt, Siret, Ialomița ve Someş'tir. Mevsimlik su düzeyi farklılıkları yüksek olan ırmakların hidroelektrik enerji potansiyelinden çok az yararlanılmaktadır. Ülkedeki göllerin sayısı 2.500'ü geçer.
+Bitki Örtüsü ve Hayvan Varlığı.
+Ormanlar ülke topraklarının dörtte birini kaplar. Dağlık yörelerde 800 m'ye kadar meşe, 1.400 m'ye kadar kayın, 1.800 m'ye kadar iğne yapraklı ağaçlar ağır basar. Daha yukarıda Alp ve Alp altı çayırlar başlar. Karpatlar'ın yüksek kesimlerinde dağ keçileri yaşar. Başlıca orman hayvanları arasında boz ayı, kızıl geyik, kurt, tilki, yaban domuzu, vaşak, sansar ve çeşitli ötücü kuşlar sayılabilir. Tuna'nın aşağı çığırı ve özellikle delta bölgesi kuş ve balık varlığı bakımından son derece zengindir. 
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Delta (coğrafya)</DOCTITLE>
+<TEXT>
+
+Delta, bir ırmağın çatallanarak denize döküldüğü yerdir. Eski Yunanlı tüccarların Nil Nehri'nin denize ulaşan kısmında üçgen biçiminde kara parçaları olduğunu gördüler. Oluşan şekiller Yunan alfabesinin dördüncü harfi "Δ (delta)" yla aynı olduğu için tüccarlar buraya delta adını verdiler.
+Hızlı akan suların içerisindeki alüvyon hız sebebiyle dibe çökme fırsatı bulamaz. Ancak akarsuların denize döküldüğü yerlerde akış hızı düşer. Böylece akarsunun yol boyunca içinde taşıdığı alüvyon dibe çökme fırsatı bulur. Bu çöküntü birikerek yükselir. alüvyon su bitkileri tarafından sıkıca bir arada tutulur. Bir süre sonra verimli toprakların birikmesiyle delta ovası oluşur.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sander düzlükleri</DOCTITLE>
+<TEXT>
+
+Sander düzlükleri ya da Sander ovaları buzulların eridiği yerde ortaya çıkan akarsuların taşıdığı malzemeleri biriktirmesi ile oluşan düzlüklerdir.
+
+</TEXT>
+</DOC>
+

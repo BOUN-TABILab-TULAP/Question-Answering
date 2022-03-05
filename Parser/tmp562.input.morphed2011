@@ -1,0 +1,43 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Halkalı	halka	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+Halkalı	Halka	+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With
+Halkalı	Halkalı+Noun+Prop+A3sg+Pnon+Nom
+
+solucanlar	solucan	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+solucanlar	solucan	+Noun+A3pl+Pnon+Nom
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+beslenir	besle	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+beslenir	besle	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

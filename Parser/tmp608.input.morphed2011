@@ -1,0 +1,48 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Kollenkima	Kollenkima	+Noun+Prop+A3sg+Pnon+Nom
+
+hücreleri	hücre+Noun+A3pl+Pnon+Acc
+hücreleri	hücre+Noun+A3pl+P3sg+Nom
+hücreleri	hücre+Noun+A3pl+P3pl+Nom
+hücreleri	hücre+Noun+A3sg+P3pl+Nom
+
+bitkinin	bitki	+Noun+A3sg+Pnon+Gen
+bitkinin	bitki	+Noun+A3sg+P2sg+Gen
+bitkinin	bitkin	+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+bitkinin	bitkin	+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+
+hangi	hangi	+Adj
+
+kısımlarında	kısım+Noun+A3pl+P3sg+Loc
+kısımlarında	kısım+Noun+A3pl+P2sg+Loc
+kısımlarında	kısım+Noun+A3pl+P3pl+Loc
+kısımlarında	kısım+Noun+A3sg+P3pl+Loc
+
+bulunur	bul	+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+bulunur	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+bulunur	bulun	+Verb+Pos+Aor+A3sg
+bulunur	bulun	+Verb+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

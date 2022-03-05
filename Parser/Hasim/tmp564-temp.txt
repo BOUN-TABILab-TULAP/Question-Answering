@@ -1,0 +1,16 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Hava hav+Noun+A3sg+Pnon+Dat hava+Noun+A3sg+Pnon+Nom Hava+Noun+Prop+A3sg+Pnon+Nom
+kalite kalite+Noun+A3sg+Pnon+Nom kalite+Adj
+indeksi indeks+Noun+A3sg+P3sg+Nom indeks+Noun+A3sg+Pnon+Acc
+nedir ne+Pron+Ques+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

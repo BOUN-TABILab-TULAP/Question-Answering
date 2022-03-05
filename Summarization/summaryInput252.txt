@@ -1,0 +1,273 @@
+Question: Herhangi bir bölgenin nüfus piramidine bakılarak hangi sonuçlara ulaşılabilir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bitki</DOCTITLE>
+<TEXT>
+
+Bitkiler (Latince: "Plantae"), fotosentez yapan, ökaryotik, ağaçlar, çiçekler, otlar, eğreltiotları, yosunlar ve benzeri organizmaları içinde bulunduran çok büyük bir canlılar alemidir.Fotosentezi sadece bitkilerle beraber bazı tek hücreli canlılar yapar.
+Bitkiler, topluluk halinde yaşarlar. Bitkilerin bir bölgede oluşturdukları örtüye bitki örtüsü denir. Flora, bir bölgede yetişen bütün bitki türlerinin hepsine denir. Herhangi bir bölgenin yaşam koşullarında gelişen, benzer ekolojik yapı içeren bitki topluluğuna vejetasyon denir. Bunlar 4 sınıftır: Ormanlar (her zaman yeşil tropikal yağmur, subtropikal, orta kuşak, sert yapraklı, iğne yapraklı, kışın yaprak dökenler, muson ormanları, tropikal kuru, mangrov, galeri, bataklık), Çalılar (maki, garig, psödomaki), otlar (savan, step, çöl), tundra. Bitkilerin yetişmesini etkileyen birçok faktör vardır. Bunlar; ekvatora uzaklık, denizden yükseklik(rakım), arazi eğimi, ışık, sıcaklık, nem, yıllık yağış miktarı, toprak içeriği, canlı faktörler (insan, hayvan, diğer bitkiler, mikroorganizmalar)'dir
+Bitkiler, fotosentezle ekolojik dengeyi sağlamada temel rol oynadıklarından, canlılar dünyasında çok önemli yere sahiptirler. 
+Bitkiler aleminin 350.000'e yakın türü mevcuttur. 2004 itibariyle 287.655 bitki türü tanımlanmıştır. Bunlardan 258.650'si çiçekli bitkilerden, 15,000'i de yosunlardan olarak tanımlanmıştır. Bitkiler genelde ototrof (özbeslek) organizmalardır ve enerjilerini güneş ışığından alırlar. Birçok bitki kloroplastları sayesinde fotosentez ile organik bileşiklerini üretir. Bitki hücreleri genellikle kareye benzer şekildedir. 
+Bitkiler, tohumsuz bitkiler (Cryptogamae) ve tohumlu bitkiler (Spermatophyta) olmak üzere iki büyük gruba ayrılır:
+Tohumsuz/Çiçeksiz bitkiler.
+Tohumsuz bitkiler sporla çoğalırlar. Bu bitkilerin çoğu kök, gövde, yaprak ve çiçek gibi organ farklılaşmalarını belirgin olarak göstermezler. Bitkinin tümü aynı yapıda, yapraksı ya da şeritsidir ve bu yapıya "tallus" denir. Talluslu bitkilere "Thallophyta" denilmektedir. Daha gelişmiş olan ve organ farklılaşmaları gösteren bitkilere ise "Kormophyta", bu tip yapıya da "kormus" denir.
+Suyosunları (algler), karayosunları (Bryophyta), ciğerotları, boynuzotları, yapraklı karayosunları ve vasküler bitkileri (fosil türler ve eğreltiotları gibi) içeren takımdır.
+Tohumlu/Çiçekli Bitkiler.
+Tohumlu bitkiler bulundurdukları "tohum"la tohumsuz bitkilerden ayrılırlar. Üreme ve yayılma organı olan tohum, iki şekilde oluşturulabilir ve tohumlu bitkiler buna göre iki büyük bölüme ayrılır:
+Açık tohumlu bitkileri genellikle ağaçlar ya da ağaççık formundaki odunsu bitkiler oluşturur. Genellikle herdem yeşil olup, yaprakları çoğunlukla iğnemsi şekildedir. Bu yüzden de, kuraklığa dayanıklıdırlar. 
+Kapalı tohumlular, açık tohumlulara göre daha gelişmişlerdir. Genellikle otsu, odunsu ve çalı formunda olurlar. Çoğunun kültürü yapılır ve ekonomik önemleri vardır. Kapalı tohumlular, iki çenekliler (Magnoliopsida, Dicotyledoneae) ve bir çenekliler (Liliopsida, Monocotyledoneae) olmak üzere 2 sınıfa ayrılır.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Mikroorganizma</DOCTITLE>
+<TEXT>
+
+Bir mikroorganizma (Yunanca "mikrós"; "küçük" ve "ὀργανισμός", "organismós"; "canlı" "organizma"'dan gelmektedir.) veya mikrop (genellikle çıplak gözle görülemeyecek kadar küçük anlamında) mikroskobik bir organizmadır. Mikroorganizmaları inceleyen, Anton van Leeuwenhoek'un kendi tasarımı olan bir mikroskop kullanarak 1675'de mikroorganizmaları keşfetmesi ile başlayan bilim dalına mikrobiyoloji denir.
+Mikroorganizmalar çok çeşitlidir. Bu tanımlama bakterileri, mantarları, arkeaları, protistleri, mikroskobik bitkileri (Yeşil algler denen); ve plankton, planarya ve Amoeba gibi mikro hayvanları da içine almaktadır. Bazıları virüsleri mikroorganizmaların içine dahil etse de, bunlar canlı olmayan olarak da kabul edilmektedir. Mikrorganizmaların büyük kısmı tek hücreli olsa da, bu hepsine genellenemez çünkü bazı çok hücreli organizmalar mikroskobik olurken bazı tek hücreli protistler ve bakteriler, "Thiomargarita namibiensis" gibi makroskobiktir (çıplak gözle görülebilmektedir).Mikroorganizmalar, biyosfer'in akar su olan her yerinde, aynı zamanda okyanus tabanındaki sıcak su kaynaklarında, atmosferin üst tabakalarında ve yerkabuğunun iç kısımlarındaki kayaların derinliklerinde yaşamaktadır.Mikroorganizmalar, saprotrof olarak iş gördükleri için ekosistemlerin besin çemberinde çok önemlidirler. Bazı mikroorganizmalar azot tutabildikleri için, azot döngüsünün en değerli parçalarıdır ve son çalışmalar havadaki mikroorganizmaların yağış ve havanın oluşumunda etkili olabileceğini göstermektedir.
+Mikroplardan aynı zamanda biyoteknoloji ile hem geleneksel besin ve yiyecek hazırlama yöntemlerinde hem de genetik mühendisliğine dayalı modern teknolojilerde yararlanılmaktadır. Ancak patojenik mikroorganizmalar zararlıdır çünkü onlar milyonlarca insan, hayvan ve bitkinin ölümüne neden olacak şekilde diğer organizmalara girer onların içinde çoğalırlar.
+Tarihçesi.
+Tek hücreli mikroorganizmalar, yeryüzünde yaklaşık olarak 3-4 milyar yıl önce oluşmuş ilk canlı biçimleridir. Daha sonraki evrim süreci yavaştı ve yaklaşık olarak 3 milyar yıl boyunca Kambriyen öncesi devirde tüm canlılar mikroskobikti. Yani, dünya tarihinin büyük bir kısmında tek canlı biçimi mikroorganizmalardı. Trias döneminden beri mikroorganizmaların morfolojilerinin çok az değiştiğini gösterececek şekilde 220 milyon yıllık bir kehribarın içinde bakteri, algler ve mantarlar bulunmuştur.
+Bir çok mikroorganizma, hızlıca yenilenebilir ve bakteriler gibi mikroplar, çok farklı türler arasında, konjugasyon,Transformasyon ve Transdüksiyon ile serbestçe gen transferi yapabilir.
+Yüksek bir mutasyon oranı ve gen çeşitlemesinin birçok başka yoluyla bitiştirilmiş olan bu yatay gen transferi, mikroorganizmaların hızla, yeni ortamlarda yaşayabilmelerine ve ortam baskılarına karşı direnmelerine (doğal seçilim yoluyla) evrim ile olanak sağlamaktadır. Bu hızlı evrim tıp açısından önemlidir, çünkü bu özellik mikroorganizmalarda antibiyotik direnci -modern antibiyotiklere karşı direnç geliştiren patojenik bakteriler geliştirmektedir.
+Mikrobiyoloji Öncesi.
+17. yüzyılda keşfedilmeden çok yüzyıllar öncesinde mikroorganizmaların varolabilme olasılığı insanlar tarafından tartışılmıştı. Mikroorganizmalar hakkında ilk fikirler Romalı akademisyen Marcus Terentius Varro'nun MÖ 1. yüzyılda yayınlanan ve içinde çiftlikleri bataklık yanında kurulmaması ikazı barındıran "Tarım Üzerine" adlı kitabında yer almaktadır: 
+Bu ifade, eski zamanlarda insanların, hastalıkların gözle görülemeyen canlılar tarafından bulaştırılabilme olasılığının farkında olduklarını göstermektedir.
+İbn-i Sina, El-Kanun fi't-Tıb (1020) isimli eserinde vücut salgılarının enfekte olmadan önce vücut dışından kirli organizmalar tarafından kirletildiğini ifade etmiştir. Aynı zamanda tüberküloz ve diğer hastalıkların bulaşıcı olabileceğini savundu, bunların enfeksiyöz hastalık olduğunu söyledi ve yayılmalarını engellemek için karantina uygulattı.
+Büyük Veba Salgını14. yüzyıl'da Endülüs'e ulaşınca Ibn Khatima, bulaşıcı hastalıkların insan vücuduna giren küçük canlılar tarafından yayıldığını yazdı. Daha sonra 1546'da, Girolamo Fracastoro salgın hastalıkların, enfeksiyonu doğrudan veya dolaylı temas veya bazen çok uzun mesafelerde temas olmaksızın ileten taşınabilir tohum benzeri yapılar ile meydana getirildiğini ileri sürdü.
+Mikroorganizmaların varlığına dair tüm bu erken döneme ait iddialar doğal olarak tartışmaya açıktı ve veriye veya bilimsel araştırmaya dayanmıyordu. Mikroorganizmaların varlığı kanıtlanamamış, gözlemlenememiş ve 17.yüzyılın sonuna kadar doğru ve açık bir biçimde tanımlanamamıştı. Bunun nedeni şuydu tüm bu erken dönem iddialarını kanıtlamak için gerekeli olan mikrobiyoloji ve bakteriyoloji için en önemli aracından yoksundular: Mikroskop.
+Mikroorganizmaların keşfinin tarihi.
+Anton van Leeuwenhoek kendi tasarımı olan bir mikroskop kullanarak, bu onu aynı zamanda ilk mikrobiyolog yapmıştır, gözlemleyen ilk kişidir. Bunu yaparak Leeuwenhoek biyolojiye en önemli katkılardan birini yyapmış ve mikrobiyoloji ve bakteriyoloji sahalarını açmıştır. (Bu arada, Robert Hooke canlı organizmaları gözlemlemek için mikroskobu ilk kullanan kişidir; 1665 tarihli "Micrographia" isimli kitabı bitki hücreleri tanımlamalarını içermektedir.)
+Leeuwenhoek'un 1675'de mikroorganizmaları keşfinden önce, üzümlerin nasıl şarap olduğu, sütün nasıl peynir olduğu ve besinlerin neden çürüdüğü bir gizemdi. Leeuwenhoek, bu süreçler ve mikroorganizmalar arasındaki ilişkiyi tespit etmedi ancak mikroskobu kullanarak, çıplak gözle görülemeyecek yaşam biçimleri olduğunu kanıtladı. Leeuwenhoek'un keşfi, Lazzaro Spallanzani ve Louis Pasteur'ün gözlemleri ile beraber uzun süredir egemen olan canlı olmayan maddelerin çürümesi sırasında yaşamın kendiliğinden oluştuğu inancını yıktı.
+Lazzaro Spallanzani mikroorganizmaların sadece hava ile teması olan etsuyunda çoğaldığını keşfetti. 
+Aynı zamanda etsuyunu kaynatmanın onu mikroplardan temizlediğini de ve mikropları öldürdüğünü de keşfetti. Louis Pasteur, Spallanzani'nin bulgularını kaynatılmış et sularının havayla temasını sağlayarak geliştirdi; bir kısım etsuyunun havayla temasını sağlayan borularda dışardan küçük parçaların gelmesini engelleyecek bir filtre vardı ve bir kısım etsuyunun havayla temasını sağlayan borularda ise dışardan gelecek parçacıkların temasına engel olacak filtre yoktu. Etsuyunu önceden kaynatarak Pasteur deneyinin başında etsuyu içinde hiç mikroorganizma kalmadığını ortaya koymuştu. Pasteur'ün deneyinde filtre takılı olan etsularında herhangi bir canlı üremedi. Bu şu anlama geliyordu içinde mikroorganizma üreyen et sularına bu canlılar dışarıdan mesela toz üzerindeki sporlardan meydana geliyordu. Böylece Pasteur kendiliğinden oluş teorisini yıktı ve mikrop teorisini ortaya koydu.
+1876'da Robert Koch mikropların hastalık yapabileceğini ortaya koydu. Bunu şarbon hastalığına yakalanmış sığırların kanında çok miktarda "Bacillus anthracis"i tespit etmesiyle bulguladı. Koch aynı zamanda hastalık bulaşmış hayvandan aldığı küçük bir miktar kanı sağlıklı hayvana vererek şarbonun sağlıklı hayvanın hastalanmasını sağladığını gösterdi. Aynı zamanda bir besiyerinde bakteri üretebileceğini, bunu sağlıklı bir hayvana verebileceğini ve onun hastalanmasını sağlayabileceğini kanıtladı. deneylerine dayanarak, bir mikrop ve hastalık arasında mantıksal bir bağ kuran bugün Koch postülatları olarak bildiğimiz ilişki sürecini geliştirdi Bu postülalar her vaka için geçerli olmasa da bilimsel gelişmenin tarihinde önemli bir yer tutmaktadır ve bugün hala kullanılabilmektedir.
+Sınıflandırma ve yapı.
+Mikroorganizmalar gezegenimiz üzerindeki yaşamın taksonomisine ait herhangi bir yerde bulunabilir. Çoğu protistleri, bazı mantarları, aynı zamanda bazı mikro hayvanları ve bitkileri da içine alan belli sayıda ökaryotlar mikroskobik iken, bakteri ve arkeaların çoğunluğu mikroskobiktir. Virüsler, mikrobiyolojinin çalışma alanında olmasına rağmen, genellikle cansız sayılır ve dolayısıyla mikroorganizma olarak kabul edilmez.
+Prokaryotlar.
+Prokaryotlar ya da Prokaryota; bakteriler, mavi-yeşil algler, riketsiyalar, aktinomisetler, ve mikoplazmaların gruplarının dahil olduğu; gerçek çekirdek zarları ve membrana bağlı organelleri olmayan, fosfolipid barındıran hücre duvarı ve tek helezonlu DNA molekülü hücre içinde serbest halde bulunan mikroorganizmaları kapsayan canlılar üstalemdir.
+Halk arasında mikrop diye adlandırılan mikroorganizmalar, hücresel yapılı olanlar ve hücresel yapıda olmayanlar olmak üzere ikiye ayrılır. Hücresel yapıda olanlar Bakteriler, mantarlar, protistlerdir. Hücresel yapıda olmayanlar ise Virüsler, viroidler, prionlardır. Canlıların bilimsel sınıflandırması içinde çok çeşitli grupları içerdiği için genel geçer özellikler belirtmek zordur.
+Bakteriler.
+Bakteriler tek hücreli mikroorganizma grubudur. Tipik olarak birkaç mikrometre uzunluğunda olan bakterilerin çeşitli şekilleri vardır, kimi küresel, kimi spiral şekilli, kimi çubuksu olabilir. Yeryüzündeki her ortamda bakteriler mevcuttur. Toprakta, deniz suyunda, okyanusun derinliklerinde, yer kabuğunda, deride, hayvanların bağırsaklarında, asitli sıcak su kaynaklarında, radyoaktif atıklarda büyüyebilen tipleri vardır. Tipik olarak bir gram toprakta bulunan bakteri hücrelerinin sayısı 40 milyon, bir mililitre tatlı suda ise bir milyondur; toplu olarak dünyada beş nonilyon (5×1030) bakteri bulunmaktadır, bunlar dünyadan biyokütlenin çoğunu oluşturur. Bakteriler gıdaların geri dönüşümü için hayati bir öneme sahiptirler ve gıda döngülerindeki çoğu önemli adım, atmosferden azot fiksasyonu gibi, bakterilere bağlıdır. Ancak bu bakterilerin çoğu henüz tanımlanmamıştır ve bakteri şubelerinin sadece yaklaşık yarısı laboratuvarda kültürlenebilen türlere sahiptir. Bakterilerin araştırıldığı bilim bakteriyolojidir, bu, mikrobiyolojinin bir dalıdır.
+Arkea.
+Arkeler, Arkea (Yunanca αρχαία, "eskiler" 'den türetme; tekil olarak Arkaeum, Arkaean, veya Arkaeon), veya Arkebakteriler, canlı organizmaların bir ana bölümüdür.
+Yabancı literatürde bu gruptaki canlılar Archaea veya Archaebacteria, grubun tek bir üyesi ise tekil olarak Archaeum, Archaean, veya Archaeon olarak adlandırılır
+Arkeler, Ökaryotlar ve Bakteriler, üç-saha sisteminin (İngilizce "three domain system") temel gruplarıdır. Bakteriler gibi arkaeler de çekirdeği olmayan tek hücreli canlılardır, yani prokaryotlardır (prokaryotlar altı-alemli sınıflandırmada Monera olarak adlandırılırlar). İlk tanımlanan arkaeler aşırı ortamlarda bulunmuş olmalarına rağmen sonradan hemen her habitatta raslanmışlardır.
+Bu üst krallığa ait tek bir organizma "arkeli" (Arkea'ye ait anlamında; İngilizce "archaean") olarak adlandırılır, bu sözcük sıfat olarak da kullanılır.
+Ökaryotlar.
+Ökaryotlar (Latince: Eukaryota), hücrelerinin yapısından dolayı beraber gruplandırılmış bir canlılar grubudur. Bilimsel sınıflandırmada Ökaryotlar, Bakteriler ve Arkeler, tüm canlıları kapsayan üç ana gruptur.
+Ökaryotların tanımlayıcı özelliği genetik malzemelerinin zarla çevrili bir (veya birkaç) çekirdek içinde yer almasıdır. Bu nedenle kelime, Eski Yunanca "eu", gerçek ve "karyon", çekirdek sözcüklerinden türetilmiştir. Sıfat hali ökaryotiktir. Bakteri ve arkeler çekirdeksiz olduklarından beraberce prokaryot olarak adlandırılırlar (Eski Yunanca "pro-", evvel ve "karyon" çekirdek sözcüklerinden). Çekirdeğin yanı sıra, ökaryotların mitokondri veya kloroplast gibi zarla çevrili çeşitli organelleri vardır, bu tür hücre içi karmaşık yapılar da prokaryotlarda bulunmaz.
+Ökaryotların ortak bir atası olduğu için bir üst alem ("domain") olarak tanımlanmışlardır. Üst alem sisteminde ökaryotların, prokaryotlara kıyasla, arkelerle daha çok ortak özellikleri vardır ve bu yüzden arkelerle beraber Neomura kladı içinde gruplandırılırlar.
+Protistler.
+Protistler (Protista, bazen Protoctista), ayrışık (heterojen) bir canlı grubudur ve hayvan, bitki ya da mantar olarak değerlendirilemeyen ökaryot canlılardan oluşur. Protistler bilimsel sınıflandırma açısından âlem olarak değerlendirilse de tek soylu "(monophyletic)" değil, kısmi soylu "(paraphyletic)" bir gruptur. Protistler içinde değerlendirilen canlıların da görece basit yapılı (tek hücreli ya da ileri düzeyde özelleşmiş dokuları olmayan çok hücreli) olmak dışında ortak özellikleri pek yoktur.
+Beslenmeleri fotosentez, absorbsiyon ya da fagositoz ile, çoğalmaları ise eşeyli ya da eşeysiz üreme ile gerçekleşen protistlerin hareketsiz olanları olabildiği gibi, kamçı, siller ya da yalancı ayaklarla hareket ederleri de bulunur. Yaklaşık olarak 60.000 yaşayan, 60.000 kadar da soyu tükenmiş fosil türü bilinmektedir.
+Protistalar canlılar dünyasının ökaryot hücreli en ilkel organizma grubudur. Çoğunlukla tek hücre halinde yaşamakla birlikte koloni halinde yaşayanları da vardır. Protistalar kamçılılar, silliler, kökayaklılar, sporlular, cıvık mantarlar ve algler olmak üzere gruplara ayrılırlar.
+Mantar.
+Mantarlar (Fungi), çok hücreli ve tek hücreli olabilen ökaryotik canlıları kapsayan bir canlılar alemi ve şapkalı mantarların tümüne halk arasında verilen genel addır.
+Halk arasında küf, pas, rastık, maya, mildiyö, şapkalı mantar, kav mantarı, puf mantarı gibi çeşitli isimlerle anılan bütün mantarlar, mantarlar (Fungi) alemi içerisinde incelenirler. Latince "Fungi" mantarlar, "Fungus" ise mantar anlamındadır.
+Dünyanın heryerinde bulunurlar. Fazla nemli yerlerde daha çokturlar. Yeryüzünde 1,5 milyon kadar mantar türü olduğu düşünülmekte ise de günümüzde sadece 69.000 kadar türü tanımlanmıştır. Çoğu insan, mantarların bitki olduğunu düşünmektedir, ancak mantarlar bitki değildir. Çünkü, mantarlar kendi besinlerini üretemezler.
+Bitkiler.
+Bitkiler (Plantae), fotosentez yapan, ökaryotik, ağaçlar, çiçekler, otlar, eğreltiotları, yosunlar ve benzeri organizmaları içinde bulunduran çok büyük bir canlılar alemidir.
+Bitkiler, topluluk halinde yaşarlar. Bitkilerin bir bölgede oluşturdukları örtüye bitki örtüsü denir. Flora, bir bölgede yetişen bütün bitki türlerinin hepsine denir. Herhangi bir bölgenin yaşam koşullarında gelişen, benzer ekolojik yapı içeren bitki topluluğuna vejetasyon denir. Bunlar 4 sınıftır: Ormanlar (her zaman yeşil tropikal yağmur, subtropikal, orta kuşak, sert yapraklı, iğne yapraklı, kışın yaprak dökenler, muson ormanları, tropikal kuru, mangrov, galeri, bataklık), Çalılar (maki, garig, psödomaki), otlar (savan, step, çöl), tundra. Bitkilerin yetişmesini etkileyen birçok faktör vardır. Bunlar; ekvatora uzaklık, denizden yükseklik(rakım), arazi eğimi, ışık, sıcaklık, nem, yıllık yağış miktarı, toprak içeriği, canlı faktörler(insan, hayvan, diğer bitkiler, mikroorganizmalar)'dir
+Bitkiler, fotosentezle ekolojik dengeyi sağlamada temel rol oynadıklarından, canlılar dünyasında çok önemli yere sahiptirler.
+Bitkiler aleminin 350.000'e yakın türü mevcuttur. 2004 itibariyle 287.655 bitki türü tanımlanmıştır. Bunlardan 258.650'si çiçekli bitkilerden, 15,000'i de yosunlardan olarak tanımlanmıştır. Bitkiler genelde ototrof (özbeslek) organizmalardır ve enerjilerini güneş ışığından alırlar. Birçok bitki kloroplastları sayesinde fotosentez ile organik bileşiklerini üretir. Bitki hücreleri genellikle kareye benzer şekildedir. (Bknz. Hücre)
+Habitat ve Ekoloji.
+Habitat, bir organizmanın yaşadığı ve geliştiği yer. Bu yer, fiziksel bir bölge, yeryüzünün özel bir parçası, hava, toprak ya da su olabilir. Habitat, bir okyanus ya da bir çayırlık kadar büyük olabileceği gibi, çürümüş bir ağaç kütüğünün altı ya da bir böceğin bağırsağı kadar küçük de olabilir. Bununla beraber, her zaman tanımlanabilen ve fiziksel olarak sınırlı bir bölgedir. Birden fazla hayvan ya da bitki özel bir habitatta yaşayabilir.
+Ekoloji, canlıların birbirleri ve çevreleriyle ilişkilerini inceleyen bilimdir. Ekosistem ise canlı ve cansız çevrenin tamamıdır. Ekosistemi de abiotik faktörler (toprak, su, hava, iklim gibi cansız faktörler) ve biyotik (üreticiler, tüketiciler ve ayrıştırıcılar) faktörler olmak üzere iki faktör oluşturur.
+Ekstremofil.
+Ekstremofiller çoğunlukla tek hücreli olup ekstrem koşullarda yaşama gereksinim duyan ve bu koşullarda optimum olarak gelişen organizmalara denir. Ekstremofiller karasal mezofilik organizmaların büyümeleri ve üremeleri için gerekli optimal koşullardan çok farklı olan ekstrem çevrelerde gelişirler.Çoğu ekstremofiller(ekstrem koşulları seven) mikroorganizmalardır.Archaea domaini ekstremofillerin geniş dağılımlı olduğu bir domain olarak bilinmesine karşın, ekstremofiller hem bakterilerin hem de archaeaların içinde sayısız ve farklı genetik hatlarda yer almaktadır.Archaea ve ekstremofil terimleri ara sıra kendi içerisinde yer değiştirmesine karşın, pek çok mezofilik archaeaların ve pek çok ekstremofilik bakterilerin olduğu bilinmektedir. Yine, tüm ekstremofiller tek hücreli değildir.Çok hücrelilere örnek olarak ekstremofilik metazoalardan "Pompeii kurdu" ,"psikrofilik"(soğukta yaşamı seven) "Grylloblattodea"("böcek"), artartik kabuklular("crustacea")ve "Tardigrade"(mikroskobik canlı) verilebilir.
+Mikrop terimi, bilim dünyasına ilk defa 1878'de Fransız cerrahı Charles Sédillot tarafından getirilmiştir. Sédillot, mikropların kendilerine has apayrı bir dünyası olduğunu savunmuştur. Mikrobiyoloji ilim dalı beş ana kısma ayrılmıştır: Viroloji, bakteriyoloji, protozooloji, algoloji ve mikoloji. Bunlara ilaveten moleküler ve hücresel biyoloji, biyokimya, fizyoloji, ekoloji, botanik ve zoolojiyle de yakından ilgilidir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nüfus Piramitleri Ve Özellikleri (EBA)</DOCTITLE>
+<TEXT>
+
+Herhangi bir yerin nüfus özelliklerini göstermede temel yöntemlerden biri de nüfusun yaş ve cinsiyet yapısını gösteren piramitlerdir. Ayrıca bir ülkenin veya bir bölgenin nüfus piramitlerine bakılarak o alandaki nüfus hareketleri, nüfus özellikleri, yaş grupları, cinsiyet durumu ve ekonomik alanın özellikleri hakkında bilgi sahibi olunabilir.
+Ülkelerin nüfusları, nüfus özelliklerine ve piramidin şekline bağlı olarak; gelişen, durağan, gerileyen ve orta tip olmak üzere dörde ayrılmaktadır. Bu piramitler sayesinde zamana ve ülkelere göre nüfus hareketleri ve özelliklerinin değişimi gözlenebilmektedir.
+Aşağıdaki nüfus piramitlerini inceleyerek farklı gelişmişlik düzeylerine sahip ülkelerin nüfus özelliklerini birlikte öğrenelim.
+Düzgün bir üçgene benzeyen bu piramit, yüksek doğum ve ölüm oranlarına sahip ülkelere aittir. Sanayi Devrimi öncesi toplumların çoğu bu piramit örneğini yaşamıştır. İngiltere'nin 1881, Hindistan'ın ise 1961’deki piramitleri bu şekildedir.
+Günümüzde ise yüksek doğum ve ölüm oranlarının yaşandığı ülkelerde görülmektedir.
+Bu piramit, düzgün üçgen piramidine göre kenarlan içe çökük bir özellik gösterir. 0-5 yaş grubundaki ölüm oranlarının azalmaya başladığı; ancak doğum oranlarının yüksek olduğu ülkelerin piramididir. Bu	tür	piramitler,
+gelişmekte olan ülkelerde görülmektedir.
+Bu piramit; an kovanı şeklindedir. Düşük doğum ve ölüm oranlarının görüldüğü ülkelerin nüfus piramididir. Düşük doğum oranları nedeniyle piramidin tabanı dardır. Gelişmiş ülkeler buna örnektir.
+Çan şeklindeki bu piramit, uzun bir zaman sürecinde düşük doğum ve ölüm oranlarından sonra doğum oranlarının arttığını göstermektedir.
+Bu piramit, doğum oranında hızlı bir düşüş görüldüğü, ölüm oranının da düşük olduğu piramit tipidir. Büyük nüfus problemi yaşandıktan sonra hızla gelişen ülkelere özgü bir piramittir.
+Nüfus, bir ülkenin kalkınmasında en önemli etmenlerden biridir. Ancak ülkelerin kalkınmasında nüfus miktarından çok nüfusun eğitim durumu, iş kollarına göre dağılımı, şehir ve kır nüfus oranları, yaş grupları ve üretici nüfus oranı gibi özellikler daha önemlidir, ülkeler, planlı kalkınmalarını gerçekleştirebilmek ve kaynaklarını doğru kullanabilmek için bu tür nüfus bilgilerine ihtiyaç duyarlar.
+Nüfus piramitlerinden faydalanılarak elde edilen bilgilerden biri de nüfusun yaş gruplarına göre dağılımıdır.
+Nüfus piramitlerinde yaş grupları genel olarak 0-14 yaş arası çocuk, 15-64 yaş arası yetişkin (çalışan veya üretici), 65 yaş ve daha yukarısı ise yaşlı nüfus olarak kabul edilmektedir.
+Nüfusun yaş gruplarına göre sayısının bilinmesi, insanların ihtiyaçlarını ve sosyal durumlarını belirlemek bakımından önemlidir. Çünkü nüfus, yaş itibariyle çalışan ve çalışmayanlardan (bağımlı) oluşur. Çalışan nüfus, hem kendi hem de çalışmayanların ihtiyaçlarını karşılamak ve onlara bakmakla yükümlüdür.
+Doğum oranı yüksek olan ülkelerde çocuk ve genç nüfus oranı fazla, yaşlı nüfus oranı ise azdır. Bu durumda; bağımlı nüfus oranı da yüksek olmaktadır. 15-64 yaş arasındaki nüfus, çocuk ve yaşlı nüfusa bakmak zorundadır. Bu durum, genellikle az gelişmiş veya ekonomik kalkınmasını henüz gerçekleştirememiş ülkelerde görülmektedir.
+Çocuk yaştaki nüfusun fazlalığı, hem aile geçimi hem de ülke kalkınmasında olumsuz bir etkiye sahiptir. Çocuk nüfusu fazla olan ülkeler, kaynaklarının önemli bir kısmını eğitim faaliyetlerine ayırmak zorunda kalır. Okul çağında olan bu nüfus, tüketici durumunda olup üretici nüfusa önemli bir yük oluşturmaktadır.
+Doğum oranının az olduğu ülkelerde çocuk nüfus oranı çok düşük, orta yaş ve yaşlı nüfus oranı oldukça yüksektir. Bu tür ülkelerde üretici, yani çalışan nüfus oranı fazla olduğu için bağımlı nüfus oranı düşüktür. Nüfusun yaş yapısını belirleyen en önemli etmen doğum oranıdır. Bunun dışında göçler, savaşlar ve salgın hastalıkların da bir ülkenin yaş yapısı üzerinde etkisi bulunmaktadır.
+Nüfus piramitlerine göre belirlenen nüfusun bir diğer özelliği de cinsiyet durumudur. Cinsiyet oranları, ülkeden ülkeye değişiklik gösterdiği gibi ülke içinde de farklı olabilmektedir. Dünya genelinde kadın ve erkek oranlarına bakıldığında, kadın nüfus oranının erkek nüfus oranından fazla olduğu görülür. Geri kalmış ve gelişmekte olan ülkelerde ise erkek nüfus oranı kadın nüfus oranından daha fazladır.
+Herhangi bir yerdeki kadın ve erkek nüfus oranını doğal süreç belirler. Bunun dışında iç ve dış göçler de etkili olmaktadır. Göç veren ülkelerde veya bölgelerde kadın nüfusun, göç alan ülke veya bölgelerde ise erkek nüfusun fazla olduğu görülür. Ayrıca savaşlar da nüfusun cinsiyet yapısı üzerinde etkili olabilmektedir.
+Nüfus piramitlerinden çıkarılan sonuçlardan biri de ülkelerin gelişmişlik düzeyidir. Genel olarak gelişmekte olan veya az gelişmiş ülkelerde nüfus artışı hızlı ve doğum oranı yüksektir. Ekonomik kalkınma henüz tam olarak gerçekleştirilememiştir. Gelişmiş ülkelerde nüfus artışı yavaş, doğum oranı düşük ve çocuk yaştaki nüfus oranı da çok azdır.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>FIVB Dünya Sıralaması</DOCTITLE>
+<TEXT>
+
+FIVB dünya sıralaması, FIVB’ye üye ülke voleybol takımlarının FIVB’nin ve kıta konfederasyonlarının düzenledikleri turnuvalarda aldıkları sonuçlara göre kazandıkları puana bakılarak erkekler, bayanlar, yıldız-genç erkekler ve yıldız-genç kızlar kategorilerinde yapılan sıralamadır.
+Dünya sıralaması için puan kazanılan turnuvalar, dünya şampiyonası, olimpiyat oyunları, dünya kupası, world grand prix, dünya ligi, kıta şampiyonaları ve kıta elemeleridir. Ülkeler bu turnuvalarda aldıkları dereceye göre sıralanarak puan alırlar. Ayrıca her turnuvanın ağırlığı ve dolayısıyla da kazandırdığı puan farklıdır. Bundan başka en yeni tarihli turnuvanın puanı da eski (en fazla dört yıl) tarihlilerden daha yüksektir. Örneğin dünya şampiyonalarında ve olimpiyatlarda alınan dereceler dört yıl boyunca değerlendirmeye alınır ve her yıl % 25 oranında ağırlığı azalır. Dünya kupası ve kıta şampiyonalarında alınan dereceler iki yıl boyunca değerlendirmeye alınır ve her yıl % 50 oranında ağırlığı azalır. World grand prix ve dünya liginde alınan dereceler sadece bir yıl için değerlendirmeye alınır. 
+Dünya sıralaması, uluslararası turnuvalara çağrılacak ülkelerin saptanmasında ve turnuvalarda yapılacak eşleştirmelerde esas alınır.
+¹Bayanlar Turnuvasıdır.
+²Erkekler Turnuvasıdır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Astrokimya</DOCTITLE>
+<TEXT>
+
+Astrokimya, dünya dışında bulunan kimyasal elementleri, kimyasal maddeleri ve bu maddelerin birbirine etkisini tahribatını genellikle Güneş Sistemi'nden daha geniş alanlarda özellikle moleküler gaz bulutlarında inceleyen bir bilim. Bu nedenle astrokimya, astronomi ve kimya bilimlerinin birleşmesidir. Güneş sistemi genişliğindeki incelemelere ""kozmokimya"" denmektedir.
+Astrokimya, çoğunlukla farklı güçlükte teleskoplar kullanarak, çok uzaktaki cisimlerin çeşitli özelliklerini ölçer, örneğin: sıcaklık veya bileşim. Kimya laboratuvarlarında, uzaydaki maddeler üzerinde yapılan spektroskopik inceleme sonucu, kimyasal sonuçlara varılabilir. Maddelerin sahip olduğu birçok özelliğe her madde için farklı olan tayf özelliklerinden ulaşılabilir. Buna rağmen elektromanyetik karışma yüzünden bu ölçümde de kısıtlamalar olabilir. Örneğin bazı moleküllerin (H2, hidrojen gazı gibi) dipol momenti yoktur, bu nedenle radyo teleskobu tarafından fark edilemezler. Bu tür teleskoplarla inceleme yapmanın en kolay yolu CO (karbonmonoksit) gibi dipol momenti yüksek maddeler ile çalışmaktır. Şimdiye kadar uzayda alkol, asit, aldehitler ve keton gibi birçok organik molekül bulundu.
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Müteşâbih</DOCTITLE>
+<TEXT>
+
+Müteşâbih (Arapça: متشابه); ""Muhkem" (Mânası açık)" olmayan Kur'ân âyetleri ve bazı benzer şekildeki hadisler; Kur'ân-ı Kerîm âyetleri ve hadislerin mecazî mânalara gelen ifadeleri hep ""Müteşabihât"" olarak adlandırılmaktadırlar. Arapça bir sıfat olan (""Müteşâbih"," Arapça: متشابه) kelimesi ""benzeşen"" demektir. Çoğulu olan (""Müteşâbihât"," Arapça: متشابهات) ise ""benzeşenler"" mânâsına gelmektedir.
+Kur'ân-ı Kerîm’de müteşâbihât kavramı.
+""Müteşâbihât kavramı"" Kur'an’ın açıklanmasında ve anlaşılmasında anahtar bir kavramdır. En’âm Suresi'nin 141. âyetinde iki defa olmak üzere, Kur'ân-ı Kerîm’de toplam altı kez yer alır. Benzeşenler "(Müteşâbihat)" dil biliminde (Arapça: Sarf ilmi) birbirine morfolojik olarak benzeyen sözcükler için kullanılır. Benzeşenler "(Müteşabihât)" eş değer olmakla birlikte eş anlamlı olmayan kelimelerdir. Bu nedenle bir kavramın müterâdif "(eş anlamlı)" olması ile ""Müteşâbih" (benzeşen)" olması birbirinden farklıdır. Farklı işaretlerle birbiriyle benzeşen "müteşâbih" kelimelerin anlam farklılıkları Arapça'da ""Meâni" (semantik)" ilminin konusudur. 
+Müteşâbih âyetlerin yani benzeşenlerin, Kur'ân-ı Kerîm verilerinin açıklanmasında ve anlaşılmasında önemli yeri vardır. Kur'ân-ı Kerîm bir çok âyetinde "(Maide Suresi’nin 15inci ve Hicr Suresi’nin birinci âyetlerinde olduğu gibi)" açık ve anlaşılır fakat aynı zamanda kendi kendini açıklayan "(mübîn)" bir kitap olduğunu vurgular. Bu bakımdan müteşabih âyetler mecazî mânalar ihtivâ etmekle birlikte aynı zamanda da gayet açıklayıcıdırlar. Pek çok Kur'an âyetlerinde ifâde edildiği gibi, Kur'ân-ı Kerîm’de bu açıklama ve yorumlar bizzat Allâh’ûr-Râhman’ûr-Râhîym tarafından yapılmaktadır. Kur'an’a göre Allâh’û-Celle-Celâle’hû kendi kitabının anlaşılmasında bizzat kendisi insanlara rehberlik etmektedir. 
+Kur'an kendi kendini açıklarken ve kendi hüküm ve kavramlarına izahât getiriken aynı kelimelerin müteşâbihlerini yani benzeşenlerini kullanır. Bu bakımdan müteşâbihler yani benzeşen kelimeler veya âyetler bir araya getirilerek Kur'an’da yer alan herhangi bir konu ile ilgili detaylı sonuçlara ulaşılabilir. 
+Örneğin "Ramazan Orucu" hakkında Kur'ân-ı Kerîm'den detaylı bilgi edinmek isteyen, Kur'an’ın kendi metninde yer alan "Oruç" ve "Ramazan" kelimelerinin yer aldığı âyetleri ve bu âyetlerin müteşâbihlerini yani benzeşenlerinin bir bütün halinde inceleyerek, "Ramazan Orucu" hakkında Kur'an’ın bizzat kendisinden konuyla ilgili en geniş ve dataylı bilgilere ulaşabilir. 
+Âl-i İmrân Sûresi’nin yedinci âyeti.
+Kur'ân’daki âyetlerin bir kısmı anlamı açık, hüküm ihtivâ eden muhkem âyetler olmakla beraber, müteşâbih adı verilen bazı âyetler ise yoruma açık âyetlerdir. Bu durum Kur'ân-ı Kerîm’in Âl-i İmrân Sûresi’nin yedinci âyetinde şöyle belirtilmektedir:
+Kur'an’da Müteşâbih âyetler.
+Aşağıda sıralandığı gibi bazen sadece () ""Mûkattâ'at"" adı verilen harflerin bileşimlerinden oluşan bu âyetler, ikinci ya da üçüncü âyetler öncesinde zikredilmekte, bazen de birinci âyetin içerisinde yer alan harflerden oluşmaktadırlar. Gerçek mânâları bilinmeyen bu harfler, bâtınî anlamlar ihtivâ eden ilâhî âyetler olarak kabul edilmektedirler.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Su korunumu</DOCTITLE>
+<TEXT>
+
+Her hangi bir amaç ile kullanılan suyun miktarını azaltarak elde edilen başarımın artırılmasını amaçlayan çalışmaların tümüne su korunumu denir. Diğer bir ifade ile harcanan birim su miktarına göre verimin arttırılmasıdır. Su korunumunun en önemli ayaklarından bir tanesi tarımsal amaçlı sulamaların başarımının arttırılmasıdır. Bunun dışında kent yaşamında kullanılan suların verimli kullanılması ve sanayide suyun verimide su korunumu açısından önemli diğer konulardır.
+Su korunumunun önemi.
+Dünyanın %70'inin (1,4 milyar km3) sularla kaplı olmasına rağmen toplam suyun %2,5'i (35 milyon km3) kullanılabilir nitelikteki tatlı sulardır. Bunlardan ise sadece Yüzey ve Atmosferde bulunan suları kullanabilmekteyiz. Artan dünya nüfusu suyun önemini bu noktada daha da arttırmaktadır. Günümüzde 2 milyar kişinin temiz suya erişimi hali hazırda bulunmamaktadır. Önümüzdeki 30 yılın içinde su sıkıntısı olan ülkelerin sayısı 6 kat artacaktır. Yaşam için vazgeçilmez olan suyun temini için 120 ülkede 11 bin tesis tuzlu sudan içilebilir nitelikteki tatlı suya çevirim yapmaktadır. Tuzlu sudan tatlı su elde etmek bir çözüm gibi görünsede gerek maliyet gerekse bunun yeni sorunlara yol açacağı varsayımı nedeniyle mevcut suyun korunumu daha önemli bir hal almaktadır.
+Ülkelerin su zenginlikleri ya da fakirlikleri, geleneksel yönteme göre kişi başına düşen su miktarına bakılarak ölçülmektedir. Bu bağlamda yılda 10 bin m3 ün üzerinde olan ülkeler su zengini, 3 bin ile 10 bin m3 arasındaki ülkeler yeterli suya sahip olan ülkeler, bin ile 3 bin m3 arsındaki ülkeler su sıkıntısı olan ülkeler, bin m3 altındaki ülkeler ise su fakiri sayılmaktadır. Ancak 3. Dünya su Forumu'nda geleneksel yöntemin doğruluğu tartışılmış ve alternatif olarak Su Fakirliği İndisi yöntemi önerilmiştir. Mevcut suyun kullanılabilirliği gibi birçok ayrıntıya dayanan bu yeni yöntem günümüzde daha kabul gören bir yöntemdir. Buna göre suyun varlığı kadar kullanımı ve mevcut suyun korunumuda ülkelerin su zenginlikleri üzerinde önemli bir etkendir.
+Su Fakirliği İndisi'ne göre ülkelerin su zenginliği.
+Tablo dikkatli incelendiğinde su kaynakları yönünden oldukça zengin olan Kongo Cumhuriyeti, kendisine göre 2 kat daha az su kaynağına sahip Almanya'ya oranla su yönünden daha fakir durumdadır. Yine su kaynağı bakımından bir birine yakın değerlere sahip iki ülke olan İngiltere ile Türkiye kıyaslandığında, su kaynağının oranındaki dez avantajına rağmen İngilterenin diğer etmenler nedeniyle Türkiye'ye oranla su konusunda daha zengin olduğu görülmektedir. Tüm bunların dışında dünya nüfusundaki artış göz önünde bulundurulduğunda mevcut kaynakların öneminin artacağıda bir başka önemli husustur.
+Su korunumu alanları.
+Su kullanım alanlarına göre bakıldığında tarım, kent yaşamı ve sanayi olmak üzere 3 temel alanda yoğun olarak kullanılmaktadır. Bu kullanım alanlarının suya gereksinimleri, suyu kullanımları, geri dönüşümü ve yöntemleri farklılık gösterdiği için her alandaki su korunumu faklı olarak incelenmelidir.
+Tarımda su kullanımı ve korunumu.
+Tarımda birincil olarak üretilmek istenen ürünün en fazla verim vermesi amaçlanmaktadır. Bunun için bitkilerin su ihtiyaçlarını karşılayabilmek amacıyla toprakta eksik bulunan ve yağışlar aracılığıyla karşılanamayan su, suni yollarla toprağa ilave edilmektedir. Bitkiler toprakta bulunan suların belirli bir kısmını kullanamazlar. Topraktaki su seviyesinin bitkiler tarafından kullanamadığı su seviyesine Devamlı solma noktası denilmektedir. Devamlı solma noktasına gelmiş bir toprakta bitkiler, geri dönüşü olmayan solma ile karşılaşırlar. Topraktaki su miktarı tarla kapasitesinden, devamlı solma noktasına yaklaştıkça bitkilerin suyu kullanabilmeleri için harcadıkları enerjide artmaktadır. Bu yüzden üretici toprakta bulunan su miktarını belirli düzeyde tutarak verimi maksimuma ulaştırmaya çalışır. Bu uğraşıların tümü tarımdaki su kullanımının da temel amaç ve hedeflerini belirler.
+Tarımda suyun korunumu, suyun kaynağından iletileceği toprağa uygulanılmasına kadar her aşamada önemlidir. Su kaynağından uygulanacağı araziye kadar açık kanallar aracılığıyla taşınması halinde, buharlaşma ve açık kanalda gerçekleşecek sızma ve infiltrasyonlar sonucunda su kayıpları ilk aşamada başlayacaktır. Tarımsal arazi üzerinde suyun bitkilere taşınmasının da açık kanallar ile olması aynı sonuçlara neden olur. Suların kapalı borular ile taşınılması buharlaşma sızma ve infiltrasyon aracılığıyla gerçekleşen su kaybını önler. Tarımsal sulama sitemleri ise suyun sadece bitki kullanımı açısından etkili alanda depolanmasını sağlar. Ancak doğru sulama sistemlerinin doğru arazide kullanılmaması su korunumunun başarımı açısından kritik bir öneme sahiptir. Doğru şekilde planlanmış bir damla sulama sistemi su verimliliği açısından %90 - 95 oranında başarı sağlayabilmektedir. Açık sistemlerde ise bu başarım %50 yi geçememektedir. Diğer bir ifadeyle açık sulama yöntemleri ile sulanan arazilerdeki suyun yarısı boşa gitmektedir. Tarımda su korunumu erozyon ile mücadelede de önemli faydalar sağlayabilmektedir.
+Kent yaşamında su kullanımı ve korunumu.
+Günlük yaşam içerisinde insanlar duş almak, temizlik, hijyen, su içmek ve benzeri ihtiyaçlarını gidermek için suyu tüketmektedirler. Bu günlük yaşamın bir parçası haline gelmiş olmasına rağmen gerçekte kullanılmayan büyük miktarda suyunda nedenidir. Örneğin, traş olurken akıtılan suyun büyük bir bölümü, kullanılmadan verimsiz bir şekilde kullanılmış sudur. Bulaşıkların yıkanlımasında makinaların kullanılması durumunda su tüketiminin azaldığına yönelik bazı bilimsel araştırmalarda mevcuttur. Tüm bu kullanılan suların birim miktarına düşen verimin arttırılması su korunumu için önemli bir adımdır.
+Sanayide suyun kullanımı ve korunumu.
+Sanayide kimi kimyasal reaksyonların içerisinde veya üretilen ürünün üretim teknikleri gereği su kullanımı olabilmektedir. Burada suyun korunumu için önemli olan şey kullanılan suyun dikkatli kullanılması ve niteliğidir. Dünyada kıt olarak bulunan içilebilir suları kullanmak yerine niteliği daha düşük suların bu aşamalarda kullanımı su korunumu için önemli bir yer tutmaktadır.
+Dış bağlantılar.
+TEMA su kaynakları
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Alec Jeffreys</DOCTITLE>
+<TEXT>
+
+Sir Alec John Jeffreys, (d. 9 Ocak 1950 – Oxford, Oxfordshire, İngiltere) İngiliz genetikçi. Özellikle DNA profillemesi çalışmalarıyla bilinen Jeffreys, günümüzde bu çalışmasıyla adli tıp tarihinin en önemli vakalarından birine imza atmıştır. Jeffreys bu yöntemiyle ayrıca babalık ve göç gibi tartışmalı durumları açığa kavuşturmuştur. Jeffreys, Leicester Üniversitesi'nde profesör olup, 26 Kasım 1992'den beri Leicester kentinin onursal hemşehrisidir. 1994 yılında bilime ve teknolojiye olan katkıları nedeniyle İngiliz Kraliyeti tarafından "sir" ünvanını aldı.
+Hayatı.
+Jeffreys, orta gelirli bir ailede doğdu. Bir erkek, bir kız kardeşi olan Jeffreys, altı yaşına kadar Oxford kentinde kaldı. 1956 yılında ailesiyle beraber Luton kentine taşındı. Çocukluğunde oldukça meraklı ve üretkendi. Sekiz yaşındayken, babası ona sonraki yıllarda onun sürekli uğraşacağı büyük bir kimya seti aldı. Bu süreçte küçük patlamalar yapmayı seven Jeffreys, kaza sonucu çenesine sıçrayan sülfürik asit nedeniyle kalıcı bir yaraya neden oldu. Dokuz yaşındayken yine babası ona Victoria devrinden kalan bir mikroskop getirdi. Yaklaşık on iki yaşındayken içinde düzleştirilmiş iğneden elde edilen bir bistüri de barındıran küçük bir ayrıştırma kiti yaptı. Bu kit ile yaban arılarını parçalayıp inceleyen Jeffreys, bir gün evine getirdiği ölü bir kediyi inceledi. 
+Jeffreys, Luton Dilbilgisi Okulu'nda bir öğrenciydi. Daha sonra da Luton Sixth Form Koleji'ne geçti. Gençliğinde mod bir yaşam tarzı süren Jeffreys, bir Vespa 150 ve parka mont satın aldı. Ancak sonra da rock tarzı giyinmeyi seçti.
+Kariyeri.
+Jeffreys, Merton Koleji'nin biyokimya bölümünden mezun oldu. Okulun laboratuvar tezgahını çok seviyordu. Sonrasında hazırladığı doktora tezi, memeli hayvanlardaki mitokondri araştırmaları üzerineydi. Tezin bitişinden sonra Amsterdam Üniversitesi'ne geçti. Burada, memeli genleri üzerine araştırmalar yaptı. 1977 yılında Leicester Üniversitesi'ne geçen Jeffreys, burada çalışması için gereken uygun ortamı buldu. Burada DNA'da görülebilen çeşitli değişikleri gözlemleyerek parmak izi yöntemini geliştirdi.
+Genetik parmak izi yöntemi.
+Jeffreys, 10 Eylül 1984 tarihinde Leicester Üniversitesi'ndeki laboratuvarında DNA ile ilgili bir deney yaparken bir şey keşfetti. Deney sırasında laboratuvar teknisyeninin kendi ailesiyle olan benzerliklerin ve farklılıkların olduğunu ve bunun neden olduğunu merak etti. Yaklaşık yarım saat sonra ise genetik kodlara bakılarak olası bir genetik parmak izi yönteminin mantığını kavradı. Bu yöntem kısa sürede adli tıp alanında kullanılan en önemli yöntemlerden biri haline geldi. Daha sonra ise yöntemin insan dışındaki birçok diğer canlıda da uygulanabileceği keşfedildi. Jeffreys'in 1987 yılında deneyi açıklamasına kadar bu parmak izi uygulamasının yapıldığı tek yer Jeffreys'in laboratuvarı olarak kaldı. Bu dönemde Jeffreys sürekli olarak bilgi almak isteyen insanlar yüzünden meşgul edildi.
+"DNA parmak izi" olarak anılan bu DNA yöntemi ilk kez bir İngiliz çocuğun kökeninini Afrika'da bir ülke olan Gana olduğu hakkındaki tartışmalara son noktayı koymak için uygulandı. Sonuçlara göre bu çocuğun ailedeki diğer üyelerle genetik olarak yakın olduğu sonucu ortaya çıktı. Yine aynı yöntem, adli tıp alanında ilk kez 1983 ve 1986 yıllarında art arda öldürülen ve Narborough, Leicestershire'da yaşayan Lynda Mann ve Dawn Ashworth adlı kızların katillerini bulmak için kullanıldı. Çalışmalar sonunda, kızların üzerinde bulunan meni izleriyle Colin Pitchfork adlı kişinin meni örneklerinin birbiriyle benzerlik gösterdiği anlaşıldı. Ancak İngiliz otoriteler Richard Buckland'ın asıl suçlu olduğunu düşünüyordu. Buna rağmen sonuç olarak, suçlunun Pitchfork olduğu anlaşıldı. 1992 yılında Jeffrey'in yöntemi, 1979'da ölen Nazi Dr. Josef Mengele'nin davacıları için kullanıldı. Doktorun mezardan çıkarılan cesedinin kalça kemiğinden alınan örnekler, Mengele'in oğluyla benzerlik gösteriyordu. Bu sayede mezardaki kişinin Mengele olduğu anlaşıldı.
+DNA profilleme yöntemi.
+DNA profilleme yöntemi, insan genomlarındaki değişken yapıtaşlarının (mikrosatelit) bir modelini oluşturmak için Jeffreys ve ekibi tarafından 1985 yılında geliştirilen bir yöntemdir. Bu son derecede değişken mikrosatelitlerin sadece birkaçına odaklanmak yoluyla DNA profilleme yöntemi, bu sistemi daha duyarlı, daha tekrarlanabilir, ve bilgisayar veritabanı için daha uygun hale getirdi, ve yakında dünya çapında kriminal vakalar ve babalık testi konularında kullanılan standart adli tıp DNA sistemi haline geldi.
+Polimeraz zincir tepkimesi (PCR) ile DNA amplifikasyon alanındaki gelişmeler sayesinde adli tıp DNA testi için yeni yaklaşımlar açıldı, otomasyona imkân doğdu, duyarlılık büyük oranda arttı ve alternatif marker sistemleri için bir ilerleme sağlandı. Günümüzde en sık kullanılan markerlar değişken mikrosatelitlerdir, aynı zamanda Kısa Tekrar Dizisi ("Short Tandem Repeats", "STRs") olarak da bilinen bu yöntem Jeffreys tarafından ilk kez 1990 yılında Joseph Mengele vakasında kullanılmıştır. 1900'larda Adlitıp Bilim Servisi'nde ("Forensic Science Service") Peter Gill'in liderliğini yaptığı bir grup biliminsanı tarafından, STR profilleme yöntemi biraz daha geliştirildi. 1995'te Birleşik Krallık Ulusal DNA veritabanı'nın ("UK National DNA Database", NDNAD) kurulmasına izin verildi. Son derece otomatik ve gelişmiş donanımları ile, günümüz DNA profilleme yöntemi her gün yüzlerce numuneyi işlemden geçirebilir. Bir milyar üzerinden birini seçme gücü veren, NDNAD için geliştirilen mevcut sistem ile on mikrosatelit ve ek olarak cinsiyet tayini için bir marker kullanılır. Şimdi yaklaşık beş milyon insanın DNA bilgisini ihtiva eden veritabanında yer alan kişilerin DNA profillerine sahip her kimse tutuklanır (suçu kanıtlansın kanıtlanmasın). Jeffreys, hükümetin veritabanındaki bilgilere erişebildiği DNA profillemenin günümüzdeki kullanımına karşıdır, ve bağımsız bir üçüncü grup kişi tarafından erişim kontrolü olacak şekilde tüm insanların DNA'larının olacağı bir veritabanını önermektedir.
+Mutasyonlar.
+Jeffreys ve takımı günümüzde, Çernobil'deki nükleer reaktör kazası sonrası olduğu gibi kronik radyasyona maruz kalmanın etkileri üzerinde çalışmaktadır. Diğer ilgilendikleri alanlar, tek gamet ve transgenik yaklaşımlar yoluyla insan genom instabilitesinin ve rekombinasyon sürecinin analizini içermektedir. Ayrıca, germline mutasyonlarda iyonize radyasyonun etkilerini araştırmaktadır.
+Kişisel hayatı.
+Jeffreys eşi Sue ile 1971 yılında evlendi.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>C4 Engine</DOCTITLE>
+<TEXT>
+
+Terathon Software tarafından Microsoft Windows XP/Vista/7, Apple Mac OS X (10.5, 10.6, 10.7), Linux ve Sony PlayStation 3 platformları için üç boyutlu oyun, simülasyon ve interaktif uygulamalar üretmek üzere geliştirilmiş, tescilli bir oyun motorudur.
+Geliştirme Tarihçesi.
+C4 Engine, bilgisayar grafikleri hakkında kitaplar yazmış, Sierra Entertainment dahil birçok yazılım şirketinde grafik programcısı olarak çalışmış Eric Lengyel liderliğindeki Terathon Software tarafından geliştirlen bir oyun motorudur. İlk kurumsal sürümü 2005 Mayıs'ında piyasaya sürülmüş ve o zamandan bu yana sık aralıklarla güncellenmiştir. 2011 yılı sonu itibariyle toplam 60 yükseltme sürümü çıkarılmıştır. Bu ortalama sene başına dokuz yükseltme sürümü demektir.
+Temel Yetenekler.
+C4 Engine, katmanlı yazılım bileşenlerinden oluşur. Motor, en düşük katmanda bilgisayar donanımı ve işletim sistemiyle ilgili işleri yürütürken, en yüksek katmanda platform bağımsız çalışabilmesini sağlayan işlevleri yerine getirir. Oyun motorunun çok önemli bir kısmı üç boyutlu grafik işleri için geliştirilmiş olmakla birlikte, gerçek bir oyun motoru işlevselliği kazanmak amacıyla gelişmiş ses, ağ, fizik, giriş aygıtı ve scripting desteğini de sağlamaktadır.
+Motorun API belgelerine ve Wiki sayfasına kendi sitesindeki bağlantılardan çevrimiçi olarak ulaşılabilir.
+Grafik.
+C4 Engine, OpenGL grafik kütüphanesini kullanır ve bu sayede Windows, Mac OS ve Linux üzerinde çalışabilir. Render modeli olarak "one-pass-per-light forward rendering" kullanmaktadır. Farklı türde ışık kaynaklarını ve gölgeleme yöntemlerini desteklemektedir. Birincil yöntem olarak dinamik gölgeleme kullanmakla birlikte, büyük dış mekan sahneleri için gölge haritalama yapabilmektedir.
+Farklı shader türlerini kombine olarak destekler ve bunları iki yöntemle kullanmaya izin verir. Her iki yöntem de, kullanıcının temel grafik kütüphanesi kullanmasını gerektirmeyecek şekilde tasarlanmıştır. Birinci yöntem de kod yazılır, diğerinde motorda tümleşik olarak bulunan gelişmiş Shader Düzenleyici kullanılır.
+Motor, doku haritalarından - texture map - bilgi almak suretiyle basit shader etkileri üretebilir. Bu yöntemle "normal map", "parallax map", "horizon map" ve tümsekli yansıma ve kırılma etkileri elde edilebilir. Daha karmaşık shader etkileri üretilmek istendiğinde motora entegre edilmiş grafiksel shader düzenleyici yazılım kullanılabilir.
+C4 Engine arazi yetenekleri voxel teknolojisini temel almaktadır. Bu sayede "height map" tabanlı arazi üretim yönteminde üretimi mümkün olmayan kemerler, çıkıntılar ve dik uçurumlar gibi arazi yüzey modelleri üretilebilmektedir. Voxel verileri kullanılarak üretilen üçgen kafes - triangle mesh - arazi modelleri, farklı ve çok çözünürlüklü olsalar bile Transvoxel Teknolojisi ile sorunsuz bir şekilde birleştirilebilir.
+C4 Engine, çok çeşitli özel efektleri (parçaçık sistemi, ateş, elektrik, hacimli sis, hava olayları) gerçekleştirebilir. Bununla birlikte tüm sahne hareket bulanıklığı - motion blur - desteği de bulunmaktadır. Motor özelleştirilmiş post-processing efektlerinin tasarlanması için destek vermez.
+Ses.
+Motor WAV biçiminde kaydedilmiş, 16-bit mono ya da stereo sesleri çalabilir. Ses verilerini bellekten ya da diskten çalabilir. Sesleri çalarken özelleştirilmiş karıştırıcı ile "doppler", "reverberation", "atmospheric absorption" gibi frekans kayması efektleri üretilebilir.
+Ağ.
+C4 Engine, çok oyunculu oyun geliştirme desteği sağlamaktadır. Bunun için UDP protokolü üzerine tasarlanmış çift katmanlı mesajlaşma sistemini kullanmaktadır.
+Araçlar.
+C4 Engine, oyun geliştirmek için gerekli birçok araçla birlikte gelir. Her araç motordan bağımsız ve ayrı bir eklenti modülü şeklinde paketlenmiştir. Çoğu araç kapsamlı olmasının yanı sıra motorun kendi arabirimi ile kullanıcıya sunulur. Bu sayede tüm araçlar platform bağımsız olarak her yerde çalışabilir.
+Dünya düzenleyici (World Editor).
+Bu araç, C4 Engine için üç boyutlu içeriğin yaratılması amacıyla kullanılmaktadır. Motor tarafından görüntülenecek tüm sahne bu araç sayesinde oluşturulabilir. Çalışma zamanında ışık, ses, tetikleyici ve özel efektler oluşturabilmenize olanak sağlar. Araç, üç boyutlu tasarım yazılımlardan COLLADA biçiminde ihraç edilmiş modelleri ve sahneleri ithal edip kullanmayı da kolay hale getirir.
+Grafiksel Betik düzenleyici (Script Editor).
+Betik düzenleyici, dünya düzenleyici içerisinden erişilebilen bir araçtır. Sanatçı ya da programcıların, eylem/olay tasarlamasını kolaylaştıran ve grafiksel olarak düzenlenebilen, anlaşılır yöntemler sağlar. Tekrarlı eylemleri, koşullu eylemler destekler ve bunların graf yapısında sembolize edilerek oluşturulmasını sağlar. Motorla birlikte birden çok hazır basit betik gelmektedir. Örneğin: Işık aç/kapa ya da daha matematiksel ifadelerin işletilmesi gibi karmaşık betikler.
+Panel düzenleyici.
+Panel düzenleyici, üç boyutlu sahne içerisinde iki boyutlu panel oluşturulmak üzere, dünya düzenleyici içerisinden erişilebilen bir alt araçtır. İçerisinde düğme, metin kutusu, resim gibi birçok GUI bileşeni bulunur ve sahnenin diğer parçaları gibi render edilir. Oyun karakteri oluşturulan iki boyutlu panellerle etkileşime girebilir, scroll kaydırabilir, döndürme, renk değiştirme gibi işlemler yapabilir. Etkileşime girilecek panellerdeki eylemler için özel betikler yazılarak oldukça karmaşık sonuçlara ulaşılabilir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Hücre kültürü</DOCTITLE>
+<TEXT>
+
+Hücre kültürü, hücrelerin kontrollü şartlar altında yetiştirilmesi sürecidir. Pratikte hücre kültürü terimi, çok hücreli ökaryotlardan özellikle hayvan hücrelerinden kaynaklanan hücrelerin kültürlenmesi için kullanılmaktadır. Hücre kültürleriyle yapılan çalışmalar günümüzde popüler araştırma konularında önemli bir kısmı oluşturmaktadır. Örneğin, kanser gibi çeşitli patolojik durumlarda belli bir maddenin etkilerini ya da bir hücre veya dokuda üretilen belli bir maddenin işlevlerini belirlemek amacıyla hücre kültürleri yapılabilmektedir. Hücre kültüründe belirli bir hücre hattından çoğaltılan hücrelerde çeşitli çalışmalar yapılarak canlı ortamında ("in vivo") yapılamayan denemeler yapılabilir ve burdan yola çıkılarak sonuçlara ulaşılabilir. 
+Tarihçe.
+Hücre kültürü çalışmalarının gelişimi ve yöntemleri, organ ve doku kültürü çalışmalarıyla yakından ilişkilidir ve onlarla benzer nitelikler taşımaktadır. Doku ve hücre kültürü çalışmaları yüz yılı aşkın bir süredir yapılmaktadır. 
+Hayvansal hücre kültürü teknikleri 1900'lerin ortalarında laboratuvarda rutin olarak uygulanmaya başlanmış fakat asıl doku kaynaklarından ayrılan sürdürülebilir yaşayan hücre hatları kavramı 19. yüzyılda ortaya konmuştur.
+19. yüzyılda İngiliz fizyolog Sydney Ringer sodyum, potasyum, kalsiyum ve magnezyumlu klorürler içeren tuz çözeltilerinin, vücut dışında yaşayan bir hayvan kalbinin atışını sürdürebilmesi için uygun olduğunu deneysel olarak göstermiştir. 
+1885'de Wilhelm Roux bir tavuk embriyosu nöral plağının bir kısmını ayırmış ve ılık bir tuzlu su çözeltisinde dokuyu birkaç gün yaşatarak doku kültürünün temellerini de atmıştır. 
+Ross Granville Harrison, 1907 ve 1910 yıllarında yaptığı deneyleri doku kültürünün metodolojisini de belirleyerek yayımlamıştır.
+1913’te Carrel aseptik (steril) koşullar altında düzenli olarak beslenmeleriyle hücrelerin kültür ortamında uzun süre hayatta kalıp çoğalabildiklerini göstermiştir. 
+Earle ve arkadaşları ise, 1948’de L hücre hattından saflaştırdıkları hücrelerin kültüre alındıklarında koloniler oluşturduklarını göstemişlerdir. Hücre kültürü teknikleri 1940 ve 50'lerde viroloji araştırmalarıda desteklemek amacıyla önemli ölçüde geliştirilmiştir. 
+1952’de de Gey ve arkadaşları günümüzde oldukça bilinen HeLa hücre hattını, bir insan servikal karsinomasından türeyen hücrelerin sürekli serisi şeklinde gözlemlemişlerdir.
+1986’da Martin ve Evans ile arkadaşları, fareden pluripotent embryonik kök hücrelerini saflaştırarak kültürünü yapmışlardır. 1998’de Thomson ve Gearhart ile yardımcıları ise, insan embryonik kök hücrelerini izole etmeyi başarmışlardır.
+Hücre kültüründe virüslerin gelişmesi saflaştırılmış virüs aşılarının hazırlanıp üretilmesine olanak sağlamıştır. Örneğin, Polio aşısı hücre kültürü teknikleri kullanılarak yapılan ilk ürünlerden biridir. Bu aşı, maymun böbreği hücre kültüründe virüsü yetiştirmek için bir yöntem bulan ve bundan dolayı Nobel Ödülü alan John Franklin Enders, Thomas Huckle Weller ve Frederick Chapman Robbins'in araştırmalarıyla mümkün kılınmıştır. 
+Memeli hücre kültürlerinde kavramlar.
+Hücrelerin saflaştırılması (izolasyonu).
+Hücreler dokulardan "ex vivo" olarak birkaç günde saflaştırılabilir, ayrıştırılabilir. Hücreler kandan kolayca elde edilebilir; ancak sadece beyaz kan hücreleri kültürde üreme yeteneğine sahiplerdir. 
+Tek çekirdekli hücreler, hücredışı maddeyi bozan kollajenaz, tripsin ya da pronaz gibi enzimatik sindirim yapan enzimler tarafından yumuşak dokulardan salınabilirler. 
+Farklı olarak, doku parçaları büyüme ortamına ("besiyeri" ya da "medyum") konulabilir ve hücreler bu şekilde "kültüre edilmiş" olur. Hücreler, "birincil kültür" olarak adlandırılan yöntemle doğrudan kültüre edilebilmektedir. Tümörlerden kaynaklanan bazı istisnalar hariç, çoğu birincil hücre kültürünün sınırlı yaşam süresi vardır. 
+Çoğalan hücrelerin önemli bir miktarı (özellikle kanser kökenli olmayanlar), kültürün ilerleyen zamanlarında yaşlanma ve bölünmenin durması gibi süreçlere girer; bu hücreyi canlılıktan alıkoyar. Belirlenmiş ya da ölümsüzleştirilmiş bir hücre hattı, rasgele bir mutasyonla ya da telomeraz geninin yapay ifadesi gibi bilinçli değişimlerle süresiz çoğalma yeteneğine kavuşabilir.
+Özel hücre tiplerinin iyi belirlenmiş hücre hattı örnekleri oldukça çeşitlidir. 
+Kültürde süren hücreler.
+Hücreler uygun bir sıcaklık ve gaz karışımıyla (hayvan hücreleri için 37°C ve %5 CO2 içeren) inkübatörde geliştirilebilir ve sürdürülebilir. 
+
+</TEXT>
+</DOC>
+

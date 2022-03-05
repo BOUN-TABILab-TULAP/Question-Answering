@@ -1,0 +1,13 @@
+1	Dünyada	dünya	Noun	Noun	A3sg|Pnon|Loc	11	LOCATIVE.ADJUNCT	_	_
+2	hava	hava	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	ulaşımının	ulaşım	Noun	Noun	A3sg|P3sg|Gen	11	SUBJECT	_	_
+4	_	kaç	Adj	Adj	_	5	DERIV	_	_
+5	kaçta	_	Noun	Zero	A3sg|Pnon|Loc	11	MODIFIER	_	_
+6	kaçı	kaç	Pron	QuesP	A3pl|P3pl|Nom	11	SUBJECT	_	_
+7	ABD	Abd	Noun	Prop	A3sg|Pnon|Nom	8	CLASSIFIER	_	_
+8	sınırları	sınır	Noun	Noun	A3pl|P3sg|Nom	9	OBJECT	_	_
+9	içinden	iç	Noun	Noun	A3sg|P3sg|Abl	11	MODIFIER	_	_
+10	_	gerçek	Noun	Noun	A3sg|Pnon|Nom	11	DERIV	_	_
+11	gerçekleşmektedir	_	Verb	Verb	Become|Pos|Prog2|A3sg|Cop	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

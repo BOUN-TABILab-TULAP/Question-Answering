@@ -1,0 +1,51 @@
+<DOC>	<DOC>+BDTag
+
+<TITLE>	<TITLE>+BTTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+Çin	Çin+Noun+Prop+A3sg+Pnon+Nom
+
+hangi	hangi	+Adj
+
+yıldan	yıl+Noun+A3sg+Pnon+Abl
+
+itibaren	itibaren	+Postp+PCAbl
+
+sosyalist	sosyalist	+Noun+A3sg+Pnon+Nom
+
+bir	bir	+Adverb
+bir	bir	+Det
+bir	bir	+Num+Card
+bir	bir	+Adj
+
+idare	idare	+Noun+A3sg+Pnon+Nom
+
+tarzı	tarz	+Noun+A3sg+P3sg+Nom
+tarzı	tarz	+Noun+A3sg+Pnon+Acc
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+yönetilir	yönet+Verb^DB+Verb+Pass+Pos+Aor+A3sg
+yönetilir	yönet+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+
+.	.	+Punc
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+<S>	<S>+BSTag
+
+</S>	</S>+ESTag
+
+</DOC>	</DOC>+EDTag
+

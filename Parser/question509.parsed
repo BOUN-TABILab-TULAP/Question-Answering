@@ -1,0 +1,13 @@
+1	Hücre	hücre	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	zarından	zar	Noun	Noun	A3sg|P3sg|Abl	5	ABLATIVE.ADJUNCT	_	_
+3	belirli	belirli	Adj	Adj	_	4	MODIFIER	_	_
+4	moleküllerin	molekül	Noun	Noun	A3pl|Pnon|Gen	5	SUBJECT	_	_
+5	_	geç	Verb	Verb	Pos	6	DERIV	_	_
+6	_	_	Verb	Verb	Able	7	DERIV	_	_
+7	geçebilmesi	_	Noun	NInf	A3sg|P3sg|Nom	8	CLASSIFIER	_	_
+8	özelliğine	özellik	Noun	Noun	A3sg|P3sg|Dat	11	DATIVE.ADJUNCT	_	_
+9	ne	ne	Adv	Adv	_	11	MODIFIER	_	_
+10	_	de	Verb	Verb	_	11	DERIV	_	_
+11	denir	_	Verb	Verb	Pass|Pos|Aor|A3sg	12	SENTENCE	_	_
+12	.	.	Punc	Punc	_	0	ROOT	_	_
+

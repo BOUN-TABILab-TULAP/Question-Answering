@@ -1,0 +1,222 @@
+Question: Transdüksiyon nedir
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Sinyal transdüksiyonu</DOCTITLE>
+<TEXT>
+
+Biyolojide sinyal transdüksiyonu bir hücrenin bir cins sinyal veya uyarıyı başka birine dönüştürme sürecidir. Çoğu zaman bu, hücre içinde enzimlerin yürüttüğü biyokimyasal reaksiyonlarla gerçekleşir, bunlar birbirine ikincil habercilerle bağlanıp bir "ikincil haberci yolu" oluştururlar. Bu süreçler genelde hızlı olur, iyon akıları durumunda milisaniyeler mertebesinde, protein ve lipit aracılıklı kinaz çağlayanı ("cascade") durumunda dakikalar mertebesinde sürer. Çoğu sinyal transdüksiyonu işleminde sinyal ilk uyarandan ileri doğru yayıldıkça bu olaylara katılan protein ve diğer moleküllerin sayısı da artar ve böylece küçük bir sinyal büyük bir tepki doğurabilir; buna "sinyal kaskadı" denir. Bakteri ve diğer tek hücreli organizmalarda, hücrenin sahip olduğu sinyal trasndüksiyon süreçleri onun çevresine nasıl tepki vereceğini belirler. Çok hücreli organizmalarda organizmanın bir bütün olarak çalışmasını sağlamak için bireysel hücrelerin davranışlarını koordine eden pek çok sinyal transdüksiyon süreci gerekmektedir. Tahmin edileceği üzere, bir organizma ne kadar karmaşıksa organizmanın sahip olduğu sinyal transdüksiyon süreçlerinin repertuvarı da o derece karmaşık olmak durumundadır. Dolasıyla hücresel seviyede hem iç hem de dış çevrenin duyumu sinyal transdüksiyonuna dayalıdır. Çoğu hastalık, örneğin diyabet, ateroskleroz, özbağışıklık (otoimmünite), kanser, sinyal transdüksiyon yollarındaki bozukluklardan kaynaklanır. Bu durum, sinyal transdüksiyonunun biyoloji kadar tıpta da olan önemini ortaya koyar.
+Genel Bakış.
+Uyaran.
+Sinyal transdüksiyon olaylarını uyaran çoğu molekül hücre dışından kaynaklanır ve hücre zarı içine yerleşmiş proteinlerle etkileşirler. Çok hücreli organizmalarda ikincil haberci sinyal kaskadlarını uyarıp hücrenin biyolojik etkinliğini organizmanın bütünü ile koordine etemeye yarayan pek çok küçük molekül ve peptit vardır. Bu moleküller işlevsel olarak hormonlar (örneğin melatonin), büyüme faktörleri (ör. epidermal büyüme faktörü), hücre dışı matriks bileşenleri (ör. fibronektin), sitokinler (ör. interferon gama), kemokinler (ör. RANTES), nörotransmiterler (ör. asetilkolin) ve nörotrofinler (ör. sinir büyüme faktörü) olarak sınıflandırılmışlardır. Bu sınıflandırmaların çoğu o sınıftaki moleküllerin moleküler yapısını göz önüne almaz. Örneğin, bir sınıf olarak nörotransmiterler endorfin gibi nöropeptitler ve serotonin ve dopamin gibi küçük moleküllerden oluşur. Hormonlar sinyal transdüksiyonunu başlatan jenerik bir molekül sınıfıdır, aralarında insülin (bir polipeptit), testosteron (bir steroit) ve epinefrin (bir küçük organik molekül) bulunur.
+Yukarıda sıralanmış uyaranlara ek olarak çevresel uyaranlar da sinyal transdüksiyon kaskadlarını uyarabilir. Retinaya düşen ışık, burun epitelinde bulunan koku reseptörlerine bağlanan kokular, tat tomurcuklarındaki tat reseptörlerini uyaran tatlar iyi bilinen örneklerdir. Tek hücreli organimalar da sinyal transdüksiyon yollarıyla birbirleriyle haberleşirler. Örneğin cıvık mantarlar aç kaldıkları zaman siklik AMP salgılarlar, bu da civarlarındaki hücreleri öbekleşmeleri için uyarır. Maya hücreleri eşeyli üremede birbirlerinin eşey tipini anlamak için üreme faktörleri kullanır.
+Tüm sinyal transdüksiyon uyaranlarının ortak özelliği, belli proteinlerin (hücre zarında veya hücre içinde) etkinliğini değiştirebilmeleri, ve bunun sonucunda hücrenin biolojik davranışının bir şekilde değişmesine yol açmalarıdır.
+Tepkiler.
+Genlerin etkinleşmesi, metabolizmada değişimler, hücrenin çoğalması veya hayatta kalmaya devam etmesi, hücre hareketinin uyarılması veya bastırılması, sinyal üretimi sonucu hücrenin verdiği tepkilerden bazılarıdır. Gen etkinleşmesi sonucunda başka hücresel değişimler de olur, çünkü tepki veren genlerin protein ürünleri arasında enzimler ve transkripsiyon faktörleri de bulunur. Sinyal iletim kaskadı sonucu üretilen transkripsiyon faktörleri sonra başka genleri de etkinleştirebilirler. Dolayısıyla bir ilk uyaran, bir sürü başka genin ifadesini tetikleyebilir, bu da çeşitli sayıda karmaşık fizyolojik olayı harekete geçirebilir. Bu olaylara örnek olarak insülin uyarısı sonucu kandan glikoz alımı, ve bakteri ürünlerinin uyarısı sonucu nötrofillerin bir enfeksiyon bölgesine göç etmeleri sayılabilir. Bir uyaranın etkisiyle etkinleşen genler grubuna ve bunların etkinleşme sırasına "genetik program" denir.
+Çoğu memeli hücresi hem bölünmek için hem de hayatta kalabilmek için uyarılmaya gerek duyar. Büyüme faktörü uyarısı olmayınca programlı hücre ölümü meydana gelir. Bu tür hücre dışı uyarımlar, hem çok hücreli hem de tek hücreli canlılarda hücre davranışının kontrolü için gereklidir. Sinyal transdüksiyon yolları biyolojik süreçler için o kadar merkezî bir role sahiptir ki onların bozulması pek çok hastalığa yol açar.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Transdüksiyon (genetik)</DOCTITLE>
+<TEXT>
+
+Transdüksiyon, genetik terim olarak; bir bakteride çeşitli rekombinasyonların gerçekleşmesini sağlayan olaylardan biridir. Bakterilerde gerçekleşen rekombinasyonlar, onların çevreye daha kolay uyum sağlamalarına yardım ettiği için, bakteriyel yaşamda önemli bir yere sahiptir. Transdüksiyonun önemli iki çeşidi bulunmaktadır: normal ve özelleşmiş transdüksiyon. Yandaki şekilde görülen normal transdüksiyonda, bir virüs bakteriyi (konakçı hücre) enfekte eder ve genetik materyalini bakteriye sokar. Ardından bakteriye ait genetik kod hidroliz edilir; virüs genomunun kopyalanması ve protein olarak ifade edilmesi için konakçı hücrenin enzimleri ve çeşitli organelleri kullanılmaya başlanır. Ancak konakçı hücrenin genetik kodundaki bir (veya daha fazla) gen de konakçı hücreye ürettirilen yeni virüslerin genetik koduna girerse, virüsün genomunda bir değişiklik meydana gelir. Gerçekleşmekte olan litik döngü sonucu, konakçı hücre genelde parçalanarak yeni virüsler dışarı çıkar ve genomu değiştirilmiş olan virüs, bir başka bakteriyi (konakçı hücreyi) enfekte ederse; virüsün genomunda bulunan ve öbür bakteriye ait olan gen açığa çıkar ve enfekte edilen bakterinin genomuna katılır. Bu şekilde bir aracı kullanılarak, bir bakteriden diğerine genetik madde aktarılmış olur. Kısaca virüsün aracılık ettiği rekombinasyon olayına transdüksiyon denir. Özelleşmiş transdüksiyonda ise lizojenik döngü görülür.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Reseptör (biyokimya)</DOCTITLE>
+<TEXT>
+
+Biyokimyada reseptör veya almaç, birbiriyle kısmen örtüşen iki anlama karşılık gelir. Birinci anlamıyla reseptör, sinyal transdüksiyonunda yer alan bir proteindir, hücre dışındaki bir sinyali hücre içine taşır. Sinyalin bir biçimden başka bir biçime dönüşmesini sağlayan protein hücre dışında olabileceği gibi hücre içinde de olabilir. Reseptöre bağlanan moleküle ligand denir, bu bir peptit (örneğin bir nörotransmitter), bir hormon, bir ilaç, veya bir toksin olabilir, bu bağlanma olunca reseptör biçimini değiştirir ve hücresel bir tepki meydana gelir. Ancak, bazı ligandlar herhangi bir değişikliğe neden olmadan sadece reseptörleri bloke ederler, bunlara agonist denir. Ligand etkisiyle reseptörde meydan gelen değişiklikler sonucu fizyolojik tepkiler meydana gelir, bunlar liganda atfedilen biyolojik aktiviteyi oluşturur.
+İkinci anlamıyla reseptör, hücre dışındaki bir protein veya taneciğin hücre içine girmek için hücre zarında bağlandığı bir moleküldür. Hücreye bağlanan şey, bir protein (örneğin kolera toksini), bir virüs (örneğin HIV) veya bir lipoprotein taneciği olabilir (örneğin LDL). Bu ikinci anlamıyla reseptör, genelde protein olmakla beraber bir karbonhidrat veya lipit de olabilir (örneğin, kolera toksini, GM1 adlı bir gangliozite bağlanır). 
+Bu iki tanım kısmen örtüşürler. Virüs veya toksinlerin bağlandığı reseptörlerin bazıları (örneğin, HIV'in bağlanma reseptörü CD34) yukarıda verilen birinci anlamıyla bir sinyal reseptörüdür. Patojen organizma, bu reseptörü kendi amacına göre kullanacak şekilde evrimleşmiştir. Buna karşın sinyal reseptörlerinin hepsi hücre zarında değildir. Örneğin nükleer reseptörler, hücre çekirdeğinde bulunurlar ve aslında transkripsiyon faktörleridir. Bu reseptörlerin ligandları, hücre zarından kolaylıkla geçebilen steroid hormonlardır, bunlar reseptörlerine bağlanınca onların belli genleri aktive etmesine neden olurlar. Bazı bağlanma reseptörlerinin ise sinyal transdüksiyonu ile ilgileri yoktur. Örneğin, endositik reseptörler, bazı besinlerin (örneğin LDL taneciklerinde bulunan kolesterol ve trigliseritlerin, veya transferin tarafından taşınan demirin) endositoz yoluyla hücre içine alınmasını sağlar. Bazı sinyal transdüksiyon reseptörlerinin hücre içine aktardığı sinyal mutlaka bir molekülün bağlanması değildir; ışık veya ses titreşimlerinin neden olduğu reseptördeki şekilsel deformasyon da sinyal olabilir.
+Genel bakış.
+Reseptörlerin şekil ve etkileri X-ışını kristalografisi ve bilgisayar modellemesi ile araştırılır, bu yöntemler sayesinde reseptörlerin bağlanma bölgelerinde ilaçların etkilerin anlaşılmasında büyük ilerleme katedilmiştir..
+İşlevlerine ve ligandlarına bağlı olarak, birkaç farklı tip sinyal transdüksiyon reseptörü tanımlanabilir:
+Bağlanma ve aktivasyon.
+Ligand bağlanması bir denge sürecidir. Ligandlar, kütle etki kanununa uygun olarak reseptörlere bağlanır ve onlardan ayrışır.
+formula_1
+Bir molekülün bir reseptöre ne derece iyi uyduğunun ölçüsü olan bağlanma afinitesi (bağlanma eğilimi), onun ayrışma katsayısı (Kd) ile ters orantılıdır. Kuvvetli bir bağlanma, yüksek afinite ve düşük Kd'ye karşılık gelir. Nihai biyolojik tepki (örneğin ikincil mesajcı kaskadı veya kas kasılması), önemli sayıda reseptörün aktivasyonu ardından olur.
+Eğer reseptörün iki hali varsa ve onun ligandı her iki haldeki reseptöre de bağlanabiliyorsa, ligandın mevcudiyetinde iki hal arasındaki denge değişebilir. Bir agonistin bağlanması, reseptörün birbiriyle dengede olan iki halinden birini stabilize ederse, bu durumda normal ligandının reseptöre bağlanma dengesi etkilenebilir.
+Endositik reseptörler, farklı ortamlarda ligandlarına bağlanma afinitelerinin farklı olması esasına göre çalışırlar. Genelde bu tür reseptörlerin ligandlarına bağlanma afinitesi asit ortamda çok daha azdır, bu yüzden hücre yüzeyinde oluşan reseptör-ligand kompleksleri, düşük pH'li endozomlara taşınınca orada ayrışırlar. Reseptör hücre yüzeyine geri gider, ligand ise ilgili enzimler tarafından işleme tabi tutulur. 
+Yapısal etkinlik.
+Bir liganda bağlı olmadan biyolojik aktivitesini gösteren bir reseptör "yapısal etkinlik" gösterir ( "constitutive activity.") Reseptörlerin yapısal aktivitesi bir ters agonistin bağlanması ile bloke olabilir. Yapısal etkinliğin artmasına neden olan mutasyonlar bazı kalıtsal hastalıkların nedenidirler, örneğin erken püberte (lüteinleştirici hormon reseptöründe mutasyonlar nedeniyle) ve hipertiroidizm (tiroid uyarıcı hormon reseptörlerinde mutasyonlar nedeniyle). Uyarıcılar dopamin reseptörlerine ters agonist olarak etki eder.
+Agonist ve antagonistler.
+Bir sinyal transdüksiyon reseptörüne bağlanan her ligand onu aktive etmez. Bunlar genel olarak agonist ve antagonist olarak sınıflandırılırlar. Aşağıdaki ligand sınıfları mevcuttur:
+Kalıtsal bozukluklarda rolü.
+Çoğu genetik bozukluk reseptör genlerinde kalıtsal bozukluklarla ilişkilidir. Genelde hormon mu düşük düzeyde üretiliyor yoksa reseptör mü çalışmıyor anlamak zordur; bunlar endokrin hastalıkların "psödo-hipo" grubunu meydana getirir.
+Reseptör regülasyonu.
+Bir hormona veya nörotransmitter'e duyarlı reseptörlerin sayısını artırarak veya azaltarak hücreler bu moleküle olan duyarlılıklarını ayarlayabilirler. Bu bir geri besleme mekanizmasıdır.
+Bir uyarıya uzun süreli veya tekrarlı maruz kalmak çoğu zaman bir reseptörün o uyarana düşük tepki vermesine yol açar, buna reseptör duyarsızlaşması denir. Reseptör duyarsızlaşması (desensitizasyonu) liganda olan afinitenin azalmasına yol açar. Ligand-bağlı reseptörlerin duyarsızlaşması (desensitizasyonu) ilk kez nikotinik asetilkolin reseptörlerinde gösterildi.
+Duyarsızlaşma aşağıdaki şekillerde olabilir:
+Bağışıklık sisteminde.
+Bağışıklık sistemindeki ana reseptörler örüntü tanıma reseptörleri (İng. "pattern recognition receptors", PRR), Toll-benzeri reseptörler (İng. "Toll-like reseptors", TLR), Öldürücü etkinleştirilmiş reseptörü ve öldürücü inhibitör reseptörleri, kompleman reseptörleri, Fc receptorleri, B hücresi reseptörleri ve T hücresi reseptörleridir. 
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Viral vektör</DOCTITLE>
+<TEXT>
+
+Viral vektör moleküler biyologlar tarafından kullanılan, hücre içine genetik malzeme ulaştırmak için kullanılan bir araçtır. Bu işlem canlı organizmanın içinde ("in vivo") veya hücre kültüründe ("in vitro") yapılabilir. Virüsler, enfekte ettikleri hücrelerin içine genomlarını verimli şekilde taşımak için özelleşmiş moleküler mekanizmalar evrimleştirmiştir. Bir virüs tarafından genlerin aktarımı transdüksiyon olarak adlandırılır, bu yolla enfekte olmuş hücrelerin de transdüklenmiş olduğu söylenir. Moleküler biyologlar bu mekanizmayı ilk defa 1970'lerde kontrol altına almayı becermiştir. Paul Berg bakteriyofaj lambda DNA'sı içeren değiştirilmiş bir SV40 virüsü kullanarak kültürlenmiş maymun böbrek hücrelerini enfekte etmiştir.
+Bir viral vektörün esas özellikleri.
+Viral vektörler kendi spesifik uygulamaları için tasarlanmış olurlar ama genelde bazı esas ortak özelliklere sahiptirler. 
+Uygulamalar.
+Temel araştırma.
+Viral vektörler ilk olarak moleküler genetik deneylerinde çıplak DNA ile transfeksiyona alternatif olarak geliştirildiler. Kalsiyum fosfat çökelmesi gibi geleneksel yöntemlere kıyasla, transdüksiyon, hücre yaşayabilirliğini (viabilitesini) etkilemeden hücrelerin neredeyse tamamının enfekte olmasını mümkün kılar.
+Buna ilaveten, bazı virüsler hücre genomuna entegre olup kararlı gen ifadesini sağlarlar. Ancak, viral bir vektörün inşası çok daha emek-yoğun bir süreç olduğu için çoğu uygulamada transfeksiyon hâlâ tercih edilmektedir. 
+Protein kodlayan genler viral vektörler kullanılarak ifade edilebilir, genelde belli bir proteinin işlevini çalışmak için. Belirteç ("marker") genleri (yeşil floresan protein gibi) kararlı şekilde ifade eden viral vektörler, özellikle retrovirüsler, hücreleri kalıcı şekilde işaretlemek için kullanılır. Bu şekilde işaretlenmiş hücreler kullanılarak, "in vitro" enfekte edilmiş hücrelerin bir konak hayvana transfer edildiği ksenotransplantasyon deneylerinde hücreler ve onları yavrularını takip etmek mümkün olur. 
+Gen ensersiyonu gen nakavtından daha ucuzdur. Ama gen susturması bazen non-spesifiktir ve başka genler üzerinde hedef dışı etkiler gösterebilir, bu yüzden daha az güvenilir sonuçlar verir. Hayvan konak vektörleri de bazen önemli rol oynarlar.
+Gen terapisi.
+Gelecekte genetik bozuklukları tedavi etmenin bir yolu gen terapisi olabilir. Ciddi Kombine İmmün Yetmezlik, kistik fibrozis ve hatta hemofili A gibi hastalıklar belli genlerin DNA dizisinde mutasyonlardan meydana geldiği için, gen terapi denemelerinde hastanın vücudundaki hücrelerin içine mutasyonsuz gen kopyalarından götürmek amacıyla virüsler kullanılmıştır. Gen terapisi kullanılarak labortuvarda çok sayıda başarılar elde edilmiştir. Ancak, viral gen terapinin yaygın kullanılması için bazı önemli problemlerin çözülmesi gerekmektedir. Virüslere gösterilen bağışıklık tepkisi hedef hücrelere gen ulaştırılmasını engellemekle kalmaz, hasta için ciddi komplikasyonlara yol açar. 1999'da, ilk gen terapi denemlerinden birinde, adenoviral bir vektör ile tedavi edilmekte olan Jesse Gelsinger bu yüzden ölmüştür. 
+Bazı viral vektörler, örneğin lentivirüsler, konak kromozomlardan birinde genomlarını rastgele konumlara sokarlar, bu durum hücresel genlerin işlevlerini bozup kansere yol açabilir. 2002'de yapılan, Ciddi Kombine İmmün Yetmezlik için retroviral gen terapi denemesinde, hastalardan ikisi tedavinin sonu olarak lösemi geliştirdiler. Adeno-ilişkili virüs-temelli vektörler bu bakımdan çok daha güvenilirdirler çünkü insan genomunda hep aynı konumda entegre olurlar.
+Aşılar.
+DNA aşılamasının mantığından hareketle, patojen protein ifade eden virüsler hâlen bu patojenlere karşı aşı olarak geliştirilmekteler. T-lenfositler hücre-içi parazitleri tanımak için hücre içinde üretilen yabancı proteinleri kullanırlar. T hücresi bağışıklığı viral enfeksiyonlar ve malarya gibi hastalıklardan korunmak için çok önemlidir. Viral bir aşı, patojen proteinlerin konak hücre içinde ifadesini indükler, Sabin Polio aşısı ve diğer zayıflatılmış aşılar gibi. Ancak, viral açılar patojen genlerin sadece ufak bir bölümünü içerdiği için, çok daha güvenlidirler ve aşı yapmakta kullanılan patojen tarafından bir enfeksiyon mümkün değildir. Adenovirüs türü viral aşıların geliştirilmesi aktif bir araştırma konusudur. 
+Viral vektör tipleri.
+Retrovirüsler.
+Retrovirüsler gen terapisi uygulamalarının ana konularından biridir. Moloney mürin lösemi virüsü gibi rekombinant retrovirüsler, konak genomun içine stabil şekilde entegre olabilirler. Taşıdıkları ters transkriptaz bu virüslerin konak genom ile bütünleşmesini sağlar. 
+Retroviral vektörler ikileşim-yeterli veya ikileşim-kusurlu olabilirler. İkileşim kusurlu vektörler deneysel çalışmalar için en yaygın seçenektir çünkü viral ikileşme ve paketleme için gerekli genler çıkarılmış veya başka genlerle değiştirilmiştir. Bu virüsler hedef hücrelerini enfekte edebilir ve taşıkdıkları yükü teslim edebilirler ama hücrenin parçalanması ve ölümü ile sonuçlanacak tipik bir litik bir yolak takip etmekten acizdirler.
+Benzer şekilde, replikasyon-yetkin viral vektörler virion sentezi için gerekli tüm genlere sahiptirler ve enfeksiyon başlayınca kendilerini çoğaltmaya devam edebilirler. Bu vektörlerdeki viral geno0mlar çok daha uzun olduğu için, hücre içine ulaştırılmak istenen DNA ensersiyonun uzunluğu sınırlıdır, replikasyon kusurlu viral vektörlerdekine kıyasla. Viral vektöre bağlı olarak, maksimum DNA parça uzunluğu genelde 8-10 kB kadardır.. Bu durum çoğu genomik dizinin kullamını kısıtlasa da, cDNA dizileri rahatlıkla sığar.
+Moloney retrovirüs gibi retrovirüslerin başlıca sakıncası, transdüksiyon olabilmesi için hücrelerin aktif olarak bölünüyor olma gereksinimidir. Bunun sonucu olarak, nöron gibi hücreler retrovirüs enfeksiyonu ve transdüksiyonuna çok dirençlidir. Ayrıca, ensersiyon mutagenezi
+bir endişe konusudur, çünkü konak genomunun içine entegrasyon kansere yol açabilir.
+Lentivirüsler.
+Lentivirüsler retrovirülerin bir alt grubudur. Bölünmeyen hücrelerin genomlarına entegre olma özellikleri onları diğer retrovirüslerden farklı kılar. Virüs hücre içine girdikten sonra, RNA'dan oluşan viral genom ters transkripsiyona uğrayıp DNA üretir, bu da viral bir entegraz enzimi sayesinde genom içinde rastgele bir yere girer. Bu aşamada provirüs olarak adlandırılan vektör genom içinde kalır ve hücre bölününce yavru hücrelere aktarılır. Entegrasyon yeri öngörülemez olması sorun yaratabilir. Provirüs, hücresel genlerin işlevini bozabilir ve kanser gelişimine yol açan onkogenlerin aktivasyonuna yol açabilir, bu yüzden lentivirüslerin gen terapisi için uygulanmalarına çekince getirebilir. Ancak, lentivirüslerin kansere yol açabilecek yerlere entegre olma eğilimlerinin daha düşük olduğu bulunmuştur, gama-retroviral vektörlere kıyasla. Kansere eğilimli bir fare suşu üzerinde yapılan bir çalışmada lentiviral vektörlerin tümör insidansının artmasına veya tümörlerin daha erken belirmesine neden olmadığı bulunmuştur.. Üstelik, klinik denemelerde, HIV tedavisi için lentiviral vektörle gen terapisi yapıldığında mutagenik veya onkolojik olaylara rastlanmamıştır.
+Güvenlik nedenleriyle de lentiviral vektörler çoğalmaları için gerekli olan genler taşımazlar. Bir lentivirüs üretmek için bir "paketleme hücre suşu" (genelde HEK 293) içine birkaç plazmidin transfeksiyonu yapılır. Paketleme plazmidi olarak adlandırılan bir veya birkaç plazmit, gerekli virion proteinlerini (kapsit ve ters transkriptaz gibi) kodlar. Başka bir plazmit, vektör içine dahi edilmesi gereken genetik malzemeyi taşır. Bu genin transkripsiyonu yapılınca tek iplikli RNA viral genom üretilir ve ψ (psi) dizisini içerir. Bu dizi genomun virion içine paketlenmesini sağlar.
+Adenovirüsler.
+Lentivirüslerden farklı olarak adenoviral DNA genoma içine entegre olmaz ve hücre bölünmesi sırasında ikileşmez. Bu özellik onların temel araştırmada kullanılmasını sınırlar ama adenoviral vektörler bazen "in vitro" deneylerde kullanılırlar. Bunların başlıca uygulaması gen terapisi ve aşılamadır. Adenovirüsler solunum yolu, sindirim yolu ve göz enfeksiyonlarına yol açar. İnsanlar genelde adenovirüslerle sık sık karşılaştıkları için bu virüsler hızla immün tepkilere yol açar, bunun da potansiyel olarak tehlikeli sonuçları olabilir. Bu problemin üstesinden gelmek için bilim insanları hâlen insanların bağışıklığı olmayan adenovirüsler üzerinde araştırmalarını sürdürmektedir. 
+Adeno ilişkili virüsler.
+Adeno-ilişkili virüs (AİV) insan ve bazı primat türlerini enfekte edebilen küçük bir virüstür. AİV'nin bir hastalığa neden olduğuna dair bir bilgi yoktur ve dolayısıyla çok mülayim bir immün tepkiye neden olur. AİV hem bölünebilen hem de bölünmeyen hücreleri enfekte edebilir ve genomunu konak hücre içine entegre edebilir. Bu özellikler AİV'yi gen terapisinde kullanılacak viral vektör üretimi için cazip bir aday kılmaktadır.
+Nanotasarlanmış özdekler.
+Ormosil gibi viral olmayan özdekler (substanslar) da DNA vektörü olarak kullanılmıştır ve DNA kargolarını canlı hayvanlarda spesifik olarak hedeflenmiş hücrelere ulaştırabilir. ("Ormosil", organik modifiye edilmiş silikat veya silika anlamına gelir.)
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Transdüksiyon</DOCTITLE>
+<TEXT>
+
+Transdüksiyon aşağıdaki anlamlarda kullanılır:
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Monera</DOCTITLE>
+<TEXT>
+
+Monera (Daha önce prokaryot hücreye sahip olan canlılar monera alemi olarak kabul edilmekteydi. Prokaryotae), diğer alemlerden ayrılarak, Prokaryot (Prokaryotae) denilen bir üst alemde toplanmıştır. Monera alemi olarak isimlendirildiği dönemde Siyanobakteriler ( Mavi - Yeşil algler) ve bakteriler olmak üzere iki alt alemi içermekteydi. Bu dönemde Arkeler Monera içinde ayrı bir yere yerleştirilmemiştir. Halen Türkiye'de bazı özel dershanelerde bu eski taksonomik yaklaşım devam etmektedir. Zarla çevrili bir çekirdeği ve organelleri olan gelişmiş tekhücreliler üst alemine Eukaryot denilmiştir. Prokayotlar, genellikle bir hücrelidir, ancak bazen dış görünüşleri bakımından çok hücreliymiş gibi görünenleri de bulunmaktadır. Emilim (absorbisyon) ile ardıbeslek; fotosentez ile kendibeslek ve kemosentetik beslenen grupları içerirler. Çoğalmaları bölünme ya da tomurcuklanma ile eşeysiz olarak gerçekleşir. Kalıtsal materyallerini konjugasyon, transformasyon, transdüksiyon ve plazmit değişimi ile değiştirebilirler. Hareketleri, kamçılarla, süzülme ya da yavaş kayma şeklinde olur. Binlerce türü bilinmekte olup, sınıflandırılmaları tam olarak yapılamayan bir gruptur, üç domain (saha) canlı grubu kabul görmektedir. 1- Eubacteria 2- Archea 3- Eucaryota. Daha önceki yıllarda ise Monera aleminin alt alemleri; 
+Eubacteria; kükürt (S) kullanan ya da kullanmayan yeşil bakterileri, mor bakterileri, spiroketleri, cyanobakterileri ve gram pozitif bakterileri kapsar.
+Archaebacteria; metanojen, termoasidofil ve halofil bakterileri kapsar.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Bakteriyel konjugasyon</DOCTITLE>
+<TEXT>
+
+Bakteriyel konjugasyon hücre teması yoluyla bakteriler arasında genetik malzeme aktarımıdır. Transformasyon ve transdüksiyon gibi bu da bir yatay gen transferi mekanizmasıdır.
+Bakteriyel konjügasyona, çoğu zaman hatalı olarak cinsel birleşmenin veya üremenin bir benzeri olarak değinilir. Oysa bu süreç cinsel değildir, çünkü eşey hücrelerinin birleşip bir zigot oluşturmasıyla ilişkisi yoktur. Olay verici bir hücreden alıcı bir hücreye genetik malzeme aktarımından ibarettir. Konjugasyon olabilmesi için verici bakterinin konjugatif, yani hareket ettirilebilir bir genetik unsura sahip olması gerekir, bu çoğu zaman bir konjugatif plazmittir. Çoğu konjugatif plazmid, alıcı hücrede benzer bir plazmidin olmadığını ağlayacak bir sisteme sahiptir.
+Aktarılan genetik bilgi alıcı hücreye bir yarar sağlayabilir, örneğin ona antibiyotik direnci verebilir veya ortamda bulunan bir besin maddesini daha iyi sindirmesini sağlayacak bir enzim sentezlenmesini sağlayabilir. Ancak, bu genetik elemanlar bakterinin genetik parazitleri olarak, konjugasyon da bu elemanların kendini yeni konaklara aktarmak için evrimleştirmiş olduğu bir mekanizma olarak da görülebilirler.
+Mekanizma.
+Konjugatif plazmidlerin prototipi F-plazmididir, F-faktörü olarak da bilinir. F-plazmidi 100 kilo baz çifti uzunluğunda bir epizomdur, yani bakteri kromozomuna entegre olabilen bir plazmittir. Kendi ikileşme merkezine (İng. "origin of replication") sahiptir, bunun adı "oriT" 'dir. Bir bakterinin entegre olmuş veya serbest tek bir F plazmidi olabilir, bu durumda bakteriye F-pozitif denir. Başka genetik bilgilerin yanı sıra F-plazmidi "tra" ve "trb" adlı konumlarına ("locus") sahiptir. Bunlar toplam 33 kilo baz çifti uzunluğundadır ve 40 genden oluşurlar. "Tra" konumu pilin geni ve denetleyici genlerden oluşur, bunlar sayesinde F-negatif bakterilere bağlanabilen piluslar oluşur. Mekanizmanin ayrıntıları hâlâ tartışilmakla beraber, DNA'nın pilu içinden geçmediği, "tra" ve "trb" konumlarında kodlanan başka proteinlerin hücreler arasında bir kanal açtığı zannedilmektedir.
+Konjugasyon başladığında relaksozom adı verilen bir protein kompleksi, transfer merkezi olan "oriT" 'de DNA'ya bir çentik atar. F-plazmid sisteminde relaksozom TraI, TraY, TraM ve konak faktörü IHF'den oluşur. Transfer olan 
+"T sarmalı" cift sarmaldan ayrışıp alıcı bakteriye 5' ucundan 3' ucuna doğru aktarılır. Kalan sarmal ikileşir, ya konjugasyondan bağımsız olarak (vejetatif ikileşme, "oriV" 'den başlar) ya da konjugasyonla birlikte (konjugatif ikileşme, lambda fajın döner çember ("rolling circle") ikileşmesine benzer şekilde).
+Eğer F-plazmid konak genome entegre olursa vericinin kromozom DNA'sı plazmid DNA'sı ile beraber aktarılabilir. Kromozomla DNA'nın ne kadarını aktarıldığı iki bakterinin ne süreyle temas halinde kaldıklarını bağlıdır. "E. coli" 'nin laboratuvarda çalışılan suşları için bütün bakteri kromozomunun transferi yaklaşık 100 dakika tutar. Aktarılan DNA rekombinasyon yoluyla alıcı genoma entegre olabilir.
+Entegre olmamış F plazmidli bir hücre kültüründe genelde birkaç hücrede plazmid kromozoma entegre olmuştur, bunlar bu tür kültürlerde seyrek olarak gözlemlenen kromozomal gen transferlerinden sorumludur. Entegre F-plazmidi olan bakteri suşları izole edilip saf kültür olarak çoğaltılabilirler. Bu suşlar kromozomal genleri çok verimli bir şekilde aktarabildikleri için Hfr (İngilizce " high frequency of recombination", yüksek rekombinasyon frekansı) olarak adlandırılırlar. "E. coli" genomunun haritalanması için ilk kullanılan yöntem "durdurulmuş çiftleşme" ("interrupted mating") deneyleri olmuş, bunlarda konjugasyon yapmakta olan çeşitli Hfr hücreleri 100 dakika tamamlanmadan evvel alıcı hücrelerden kopartılmış, sonra da hangi genlerin aktarıldığına bakılmıştı.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Transformasyon</DOCTITLE>
+<TEXT>
+
+Moleküler biyolojide transformasyon, bir hücrenin içine yabancı bir DNA'nın girmesi, bu DNA'nın genomunun parçası haline gelmesi ve DNA'daki genlerin ifade olması sonucu, o hücrenin değişime uğramasıdır. Belli tip transformasyonlar için daha özel terimler kullanılır: DNA'nın hücre içine girmesi bir virüs aracılığıyla olursa buna transdüksiyon denir; DNA bakteri hücrelerinin birbiriyle teması sonucu birinden öbürüne aktarılmışsa buna konjugasyon denir; doku kültüründeki hücrelerin transformasyonuna transfeksiyon denir. Sıfat hali olarak, yani "transformasyona uğramış" anlamında, 'transforme' kullanılır.
+Benzer yöntemlerle hücre içine RNA da sokulabilir ve hücrenin özelliklerini geçici olarak değiştirebilir ama bunun sonucunda hücrede kalıtsal bir değişiklik meydana gelmediği için bu gerçek transformasyon değildir.
+Tarihçe.
+Transformasyon ilk defa 1927'de, bakteriyel pnömoniye karşı bir aşı bulmaya çalışan bir İngiliz bakteriyolog, Frederick Griffith tarafından keşfedilmiştir. Griffith "Streptococcus pneumoniae" 'nın virülan bir suşunun ısıtılarak öldürülmesinin ardından bunun aynı bakterinin virülan olmayan bir suş ile karıştırılması halinde, zararsız bakterinin virülan hale dönüştüğünü gösterdi. 1944'te bu dönüştürücü faktörün DNA olduğu Oswald Avery, Colin MacLeod, and Maclyn McCarty tarafından gösterildi. Bu araştırmacılar DNA'nın bakterilerin içine alınması onunla bütünleşmesine "transformasyon" adını verdiler.
+Mekanizmalar.
+Bakteriler.
+Bakterilerde transformasyon, çıplak (yani hücre veya proteinlerle beraber olmayan) DNA'nın alınması sonucu meydana gelen istikrarlı kalıtsal değişiklik olarak ifade edilebilir. Bakterinin ortamdan yabancı DNA'yı içine alabilme özelliğine yetkinlik (İng. "competence") adı verilir. Yetkinliğin iki tipini ayırdetmek gerekir: doğal ve yapay.
+Doğal yetkinlik.
+Bazı bakteriler (tüm bakteri türlerinin %1'i) laboratuvar şartlarında DNA'yı içlerine alma yeteneğine sahiptir; doğal ortamlarında çok daha fazlası bu yeteneğe sahip olabilir. Bu türler, DNA'nın hücre zar(lar)ı içinden içeri taşınmasını sağlayan mekanizmalar için gereken genlere sahiptir.
+Yapay yetkinlik.
+Yapay yetkinlik için gerekli proteinler hücrenin genleri tarafında kodlanmaz. Laboratuvar işlemleri ile, yani doğada normalde rastlanmayan şartlar altında, hücre zarı'nın DNA'ya geçirgen olması sağlanır.
+Hücrelerin Ca2+ gibi ikideğerlikli (bivalent) katyonlar varlığında soğutulmasıyla, hücre zarının plazmid DNA'sı için geçirgen olması sağlanabilir. Hücrelerin buz üstünde bekletildikten sonra kısa bir süre için ısı şokuna (örneğin 30–120 saniye boyunca 42 °C'de) tâbi tutulması DNA'nın hücrenin içine girmesine neden olur. Bu yöntem dairesel plazmid DNA'lar için oldukça etkili bir şekilde çalışır.
+Bu yöntem, muhtemelen hücredeki eksonükleaz enzimlerinin doğrusal DNA'yı çabucak sindirmelerinden dolayı, kromozomal DNA parçası gibi doğrusal moleküller için iyi çalışmaz. Ancak, doğal yetkin hücreler plazmidlere kıyasla doğrusal DNA molekülleriyle de daha verimli olarak transforme olurlar.
+Elektroporasyon bakterilerde (ve diğer hücre tiplerinde) delik açmanın bir diğer yoludur, burda hücreler kısa süreli bir elektrik alanı (10-20kV/cm) içinde şok edilirler. Plazmit DNA'sı bu deliklerden hücre içine girer. Doğal membran tamir mekanizmaları şokun ardından bu delikleri kısa sürede onarırlar.
+Plasmid transformasyonu.
+Hücrenin içinde varlığını sürdürebilmek için bir plazmit DNA 'sında bir ikileşme merkezi (replikasyon orijini) bulunması gerekir, bu bölge sayesinde plazmit, kromozomdan bağımsız olarak ikilenir. Laboratuvarda transformasyon işlemi sonucunda genelde çok sayıda transforme olmamış hücre arasında az sayıda transforme olmuş hücre bulunduğundan, plazmiti taşıyan hücrelerin tanınması için bir yöntem gerekir. Transformasyon deneylerinde kullanılan plazmitlerde genellikle bir antibiyotik direnç geni bulunur, plazmiti taşımayan bakteriler bu antibiyotiğe duyarlıdır. Dolayısıyla, transformasyonda kullanılan plazmite özgü bu antibiyotiği içeren seçici bir besiyerinde çoğalabilen hücrelerin bu plazmit ile transformasyona uğradıkları söylenir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Lizofosfatidilkolin</DOCTITLE>
+<TEXT>
+
+Lizofosfatidilkolin (lizoPC) veya lizolesitin, fosfatidilkolin'in sn-2 konumunda hidrolizi sonucu meydan gelen lipittir. İngilizce "lysophosphatidylcholine" 'in kısaltması lysoPC veya LPC olarak da bilinir. "Lizo-" öneki, Yunanca λύσις, "lysis" sözcüğünden, o da "lyein" = "ayrılmak"tan türemedir. Fosfolipaz aktivitesine sahip enzimler veya lesitin kolesteril asil transferaz (LCAT) gibi asiltransferaz mekanizmalı bazı enzimler bu lipiti oluşturabilir. Lizofosfatidilkolin oluşumu çeşitli sinyal transdüksiyon yollarının adımlarından biridir. 
+Sindirim sisteminde oluşan lizofosfatidilkolin duodenumda, pankreatik fosfolipaz A2'nin etkisiyle meydana gelir. Kanda oluşan lizofosfatidilkolin ise, LCAT enziminin etkisiyle HDL tanecikleri üzerinde bulunan fosfatidilkolin molekülünün sn-2 konumundaki yağ asil grubunun kolesterola aktarılması (transasilaz aktivitesi) ile meydana gelir. Hücre içinde, lizozomda bulunan lizozomal fosfolipaz A2 (LYPLA3) hem PLA2 aktivitesi hem de trans-asilaz aktivitesine sahiptir.
+Biyolojik etkileri.
+Lizofosfatidilkolinin çeşitli biyolojik etkileri mevcuttur. Hem lizofosfatidilkolin hem de lizofosfatidik asit, fagositozu artırır. Araşidonik asit seçici Fosfolipaz A2 (PLA2) enziminin bu moleküllerin her ikisinin de oluşmasına neden olduğu için, bu enzimin enflamasyona iki yönlü etki ettiği önerilmiştir: PLA2 hem araşidonik asit salgılanmasına neden olmakta, hem de membran ve hücre iskeletinde değişikliklere neden olarak fagositoz ve kemotaksiye yol açar. Lizofosfatitidik asit adhezyon molekülleri ve büyüme faktörlerine, makrofaj ve monositlere etki eder. Nitekim, bakteryel sepsis durumunda lizofosfatidilkolin verilmesinin deneysel hayvanlarda ölümü engellediği bulunmuştur. Bunun mekanizması bakterileri fagositoz eden nötrofillerde hidrojen peroksit (H2O2) üretiminin artması olduğu bulunuştur.
+Lizofosfatidilkolin, okside olmuş LDL (Ox-LDL) taneciklerinde bulunur, ve Ox-LDL taneciklerinin aterosklerozu teşvik eden etkinliğinin bağlıca unsurudur. Lipoprotein-ilişkili fosfolipaz A2 (Lp-PLA2) tarafından üretilir. Bu enzimin inhibisyonu ateroskleroz gelişimini yavaşlatır. Bu LDL kaynaklı lizofosfatidilkolinin monosit ve T lenfositleri için kemoatraktan etkisi vardır. Ayrıca lizoPC'nin damar duvarlarındaki düz kas hücrelerinin çoğalmasına da neden olduğu gösterilmiştir. Bu bulguların ışığında, LDL taneciklerinde bulunan LizoPC, ateriosklerotik plakların oluşumunda rol oynadığı öne sürülmüştür. LizoPC birkaç pekçok mesajcıyı aktive eder: protein kinaz C, hücre dışı sinyaller tarafından düzenlenen kinazları ve kalsiyumu.
+Apoptoz sırasında LizoPC üretimi, makrofajların seferber olması için bir kemotaktik sinyaldir. Lizofosfatidilkolin'in makrofajlar ve lenfositler tarafından algılanması, G2A reseptörü aracılığıyla olur. G2A, bir G-protein eşilikli bir reseptördür. Lizofosfatidilkolin bağlanması sonucu kalsiyum akısı, immün hücrelerde kemotaksi, ERK protein kinaz aktivasyonu ve G2A reseptörlerinin içealımı indüklenir. Bu reseptörün ligandı ile etkileşimi immün hücrelerin çoğalmasını engellemektedir.
+Fosfolipitler endoplazmik retikulumda sentezlenip hücredeki diğer membranlara taşınır. Bu taşıma mekanizmaları arasında salgılama yolu üzerindeki veziküller ve membranlar arasında fosfolipit atlaması vardır. Bitki hücrelerinde gözlemlenmiş bir mekanizmada ise fosfolipitlerin mitokondrilere ve bitkilerde kloroplastlara aktarılmasınının, hidrofilik olması nedeniyle, lizofosfatidilkolin aracılığıyla gerçekleştiği gösterilmiştir. Endoplazmik retikulumdaki fosfatidilkolin, lizofosfatidilkoline dönüştükten sonra hedef organele taşınır, orada asillenerek tekrar fosfatidilkoline dönüşür. 
+Üretim yolları.
+LizoPC, ya fosfatidilkolindeki bir yağ asil grubunun ya hidroliz ya da transasilasyon yoluyla ayrılması sonucu meydana gelir. Fosfatidilkolinden hidroliz yoluyla oluşum, fosfolipaz A1, fosfolipaz A2, veya fosfolipaz B enzimleri tarafından katalizlenebilir. Bu enzimler fosfatidilkolini, sırasıyla sn-1, sn-2, veya hem sn-1 hem sn-2 konumlarından hidroliz ederler:
+Trans-asilasyon reaksiyonları.
+LizoPC, HDL taneciklerinin oluşumundan rol oynayan LCAT enziminin katalizlediği kolesterol esterleşme reaksiyonunun bir yan ürünüdür: 
+LizoPC, retinadaki pigment epitelinde 11-cis retinal oluşumunun ilk adımı olan reaksiyonunun bir yan ürünüdür: 
+LizoPC'nin bir diğer oluşumu, RLP1 enzimi tarafından fosfatidiletanolamin ile fosfatidilkolin arasında trans-asilasyon olması yoluyladır.
+Reaksiyonları.
+LizoPC, fosfolipaz B aracılığıyla sn-1 konumundan hidroliz olur:
+LizoPC lizofosfolipaz D enzimi tarafından fosfat grubu ile kolin grubu arasından hidroliz olur:
+Türleri.
+LizoPC, fosfatidil kolinin iki asil grubundan hangi birinin hidrolizi veya transasilasyonu sonucu meydana geldiğine bağlı olarak iki farklı moleküle karşılık gelir. LizoPC terimi, 1-asil-gliserol 3-fosfokolin ve 2-asil-gliserol 3-fosfokolin için kullanılan, kimyasal olarak muğlak bir terimdir. Farklı spesifitelere sahip olan enzimler bu iki molekülden biri veya öbürünü üretirler.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Protein fosforilasyonu</DOCTITLE>
+<TEXT>
+
+Protein fosforilasyonu, bir proteine bir fosfat grubu (PO4) eklenmesidir. Protein fosforilasyonu pek çok hücresel süreçte önemli bir rol oynar.
+Tarihçe.
+1906'da Rockefeller Tıp Araştırma Enstitüsü'nde Phoebus A. Levene, vitellin adlı proteininde fosfat olduğunu buldu ve 1933'te, Fritz Lipmann'la ortak çalışması ile, kazeinde fosfoserin bulunduğunu keşfetti. Ancak, Eugene P. Kennedy tarafından enzimatik protein fosforilasyonunun keşfedilmesine kadar yirmi yıl geçmesi gerekti.
+İşlev.
+Proteinlerin tersinir fosforilasyonu prokaryot ve ökaryotlarda görülen önemli bir düzenleyici mekanizmadır. Protein kinaz ve fosfataz denen enzimler bu düzenleme sürecinin fosforilasyon ve defosforilasyon kısımlarında rol oynarlar. Fosforilasyon ve defosforilasyon sonucu çoğu enzim ve reseptörün yapısında bir biçim (konformasyon) değişimi olur, bunun sonucu bunlar ya aktifleşir veya inaktifleşir. Ökaryotik proteinlerde fosforilasyonu genelde serin, treonin ve tirozin kalıntılarında olur. Prokaryotlarda bazik amino asitler olan histidin, lizin ve arjininde de fosforilasyon olur. Apolar bir amino asit kalıntısına bir PO4 grubunun eklenmesi, proteinin hidrofobik bir kısmının çok hidrofilik bir hâl almasına neden olabilir. Proteinin bu bölgesinin diğer hidrofobik ve hidrofilik bölgeleriyle etkileşimi değişir ve böylece protein yapısında biçimsel bir değişiklik meydana gelir. 
+Fosforilasyonun düzenleyici rolüne bir örnek, p53 tümör baskılayıcı proteinidir. p53 proteinin etkinliği çeşitli mekanizmalarla düzenlenir ve 18 farklı fosforilasyon konumu vardır. p53'ün etkinleşmesi hücre döngüsünü durdurur. Hücre hasar gördüğü veya hücrenin normal fizyolojisi bozulduğunda bu etkinleşme olur ve bunun sonucunda apoptozis meydana gelir. Etkinsizleşme sinyalinin ardından protein defosforile olur ve çalışması durur. Bu mekanizma çoğu sinyal transdüksiyonu yolunda görülür. Örneğin retinadaki ışığa duyarlı hücrelere gelen ışığa hücrenin tepki vermesinde de bu süreç vardır. 
+Fosforilasyonun düzenleyici rolleri arasında aşağıdakiler bulunmaktadır:
+Sinyalizasyon şebekeleri.
+Sinyalizasyon yolu fosforilasyon olaylarını açığa kavuşturmak zor olabilir. Hücresel sinyal iletiminde, A proteini B proteini fosforile edebilir ve B de C'yi fosforile edebilir. Ama başka bir sinyalizasyon yolunda, protein D, protein A'yı veya protein C'yi fosforile eder. Fosforile olmuş proteinlerin araştırılması olan Fosfoproteomiks, proteomiks'in bir alt sahasıdır. Fosfoproteomiks gibi global yaklaşımlar ve kütle spektrometri yöntemleri kullanılarak fosforile proteinlerdeki zaman bağlı değişiklikler tespit edilip nicellenmektedir. Karmaşık fosforilasyon şebekelerinin anlaşılması için bu teknikler giderek daha fazla önem kazanmaktadır.
+Protein fosforilasyon konumları.
+Bir hücre içinde binlerce fosforilasyon yeri bulunmaktadır.Çünkü:
+Belli bir proteinin belli bir konumunun fosforilasyonu onun işlevini veya lokalizasyonu değiştirebildiği için, hücrenin "hal"inın anlaşılması hücredeki proteinlerin fosforilasyon durumunun bilinmesini gerektirir. Örneğin, AKT proteinin serin-473 ("S473") amino asidinin fosforile olmuşsa, AKT genelde bir kinaz olarak etkinleştirilmiş demektir. S473 fosforile olmamışsa AKT inaktif bir kinazdır.
+Fosforilasyon tipleri.
+"Farklı fosforilasyon tipleri için ayrıca kinaz maddesine bakınız."
+Bir proteinde fosforilasyon birkaç farklı amino asitte meydana gelebilir. Serin fosforilasyonu en sık görülür, bunu treonin fosforilasyonu izler. Tirozin forforilasyonu nispeten daha enderdir. Ancak, tirozin fosforile proteinlerin antikorlarla saflaştırılması göreli daha kolay olduğu için, tirozin fosforilasyon konumları daha iyi bilinmektedir. Histidin ve aspartat fosforilasyonu prokaryotlarda iki bileşen sinyalizasyonunda ve ökaryotlarda bazı sinyal transdüksiyon yollarında görülür.
+Tespit ve karakterizasyon.
+Antikorlar bir proteinin belli bir konumda fosforile olup olmadığını tespit etmek için kullanılan etkili gereçlerdir. Antikorlar proteinin fosforile olmaktan kaynaklanan değişik biçimlerine (konformasyonlarına) bağlanabilirler ve böylece bunların varlığını tespitte kullanılabilirler. Böylesi antikorlar fosfo-spesifik antikor olarak adlandırılır; bu tür yüzlerce antikor mevcuttur. Temel araştırmada ve klinik tanı koyma amaçlı testlerde bunlar vazgeçilmez ayıraçlardır.
+Son yıllarda kütle spektrometrisi ile yapılan büyük çaplı analizler ile protein fosforilasyon konumları belirlenmektedir. Bu yöntemle daha evvelden bilinmeyen binlerce fosforilasyon yeri tespit edilmiştir. Kütle spektrometrisi bu tür analizler için idealdir çünkü bir fosfat grubunun eklenmesi proteinin kütlesi artırır. Ancak, bu tür çalışmalar için kütle ölçümlerindeki hata oranının çok düşük olması gerekmektedir, bu yüzden bu teknoloji ancak yüksek kaliteli kütle spektrometresine sahip laboratuvarlarda yapılabilmektedir.
+Fosforilasyon konumlarının ayrıntılı bir karakterizasyonu çok zordur ve protein fosforilasyonunun nicelenmesi için dahili izotopik standartlar kullanmak gerekir. Göreceli bir niceleme için çeşitli diferansiyel izotop işaretleme yöntemleri kullanıllabilir. 
+
+</TEXT>
+</DOC>
+

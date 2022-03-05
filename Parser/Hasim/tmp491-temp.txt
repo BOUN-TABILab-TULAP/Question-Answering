@@ -1,0 +1,23 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sölenterler Sölenterler+Noun+Prop+A3sg+Pnon+Nom
+grubunda grup+Noun+A3sg+P3sg+Loc grup+Noun+A3sg+P2sg+Loc
+olan ol+Verb+Pos^DB+Adj+PresPart
+hidrada hidra+Noun+A3sg+Pnon+Loc
+görülen gör+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+sinir sinir+Noun+A3sg+Pnon+Nom
+sistemi sistem+Noun+A3sg+Pnon+Acc sistem+Noun+A3sg+P3sg+Nom
+hangi hangi+Adj
+sinir sinir+Noun+A3sg+Pnon+Nom
+sistemine sistem+Noun+A3sg+P2sg+Dat sistem+Noun+A3sg+P3sg+Dat
+örnektir örnek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

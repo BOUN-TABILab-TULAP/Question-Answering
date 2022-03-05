@@ -1,0 +1,476 @@
+Question: Sıcaklığın bitki örtüsü üzerinde nasıl bir etkisi vardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklimin Temel Elemani: Sicaklik (EBA)</DOCTITLE>
+<TEXT>
+
+Sıra Kentler Sıcaklıklar (°C) 
+	Ocak ortalaması	Temmuz ortalaması	Yıllık Ortalama
+1	İstanbul	5	22	13,5
+2	Erzurum	-10	16	3
+3	Kaşgar (Çin)	-5	18	6,5
+4	Yakutsk (Rusya Federasyonu)	-30	10	-10
+5	Tokyo (Japonya)	6	19	12,5
+6	Sydney (Avustralya)	20	4	12
+7	Kisumu (Kenya)	30	25	27,5
+Isı ve Sıcaklık Aynı mıdır?
+Yeryüzünde ve atmosferde oluşan birçok doğal olayın, özellikle de atmosfer olaylarının temel nedeni ısı ve sıcaklıktır. İklimin diğer elemanları olan basınç, rüzgâr, nem ve yağış da sıcaklıklığa bağlı olarak oluşur.
+Sıcaklık konusu işlenirken ısı kavramı karşımıza çıkar. Isı ile sıcaklık, çoğu zaman aynı anlamda kullanılan ancak birbirinden farklı olan kavramlardır.
+Isı, bütün cisimlerde mevcut olan potansiyel enerjiyi ifade eder. Sıcaklık ise bu enerjinin dışa yansımasıdır. Sıcaklık, termometreyle ölçülür ve derece celcius (derece selsius: °C) olarak ifade edilir. Dünya ve güneş sistemindeki diğer gök cisimlerinin sıcaklık ve ışık kaynağı Güneş’tir. Dünya, Güneş’ten aldığı enerjiyle ısınır, fakat bu enerjinin tamamını kullanmaz; alınan enerjinin önemli bir kısmı kaybolur. Yerküre’nin şekline ve yerel şartlara bağlı olarak sıcaklık her yerde aynı değildir. Bu nedenle farklı sıcaklık değerleri ve sıcaklık kuşakları oluşur.
+Güneş’ten gelen enerjinin ne kadarının Dünya’yı ısıttığı:
+Yeryüzüne gelen güneş enerjisinin dağılımı
+Dağılmaya (difüzyona) uğrayan % 25
+Bulutlar ve atmosferin etkisi ile uzaya yansıyan % 25
+Yeryüzüne çarparak uzaya yansıyan % 8
+Atmosfer tarafından emilen % 15
+Yeryüzünde Sıcaklık Dağılışını Etkileyen Faktörler
+Yeryüzünün her yerinde farklı sıcaklık değerlerinin oluşmasının nedenlerini hiç düşündünüz mü? Kutuplar neden çok soğukken Ekvator bölgesi çok sıcaktır? Her olayın bir veya birden çok nedeni olduğu gibi yeryüzünde farklı sıcaklık değerlerinin oluşmasının da nedenleri vardır. Şimdi bunları görelim.
+1. Güneş İşınlanma Geliş Açısı: Daha önceki konularda öğrendiğiniz gibi yeryüzünde sıcaklığın temel kaynağı Güneş’tir. Güneş ışınları bir yere ne kadar dik açıyla düşerse sıcaklık o kadar yüksek, ne kadar dar açıyla düşerse sıcaklık o kadar düşük olur.
+Güneş ışınlarının yere düşme açısı, çeşitli faktörlere bağlı olarak değişir. Bu faktörler; Yerküre’nin şekli, eksen eğikliği, Dünya’nın günlük ve yıllık hareketi ile eğim ve bakıdır.
+a.	Yerküre’nin Şekli: Yerküre’nin şekli, yeryüzünün her noktasının aynı miktarda ısınmasına engel olur. Ekvator’dan kutuplara doğru, güneş ışınlarının yere düşme açısı küçülür.
+Yerküre’nin şekli küresel olduğu için, güneş ışınları, Ekvator ve çevresine daha dik açıyla gelir. Buna enlem etkisi de denir.
+b.	Yerin Eksen Eğikliği oe Yıllık Hareketi (Mevsimler)
+Dünya Güneş etrafında dönerken sıcaklık değerlerinde nasıl bir değişim olur?
+Önceki konularda anlatıldığı gibi Dünya, Güneş etrafında dönerken eksen eğikliği nedeniyle güneş ışınlarının yere düşme açısı yıl içerisinde değişir. Bu durum sıcaklığın yıl içerisinde farklılık göstermesine neden olur.
+Eksen eğikliği Kuzey ve Güney Yarım kürelerde, aynı anda farklı sıcaklık değerlerinin oluşmasına ve farklı mevsimlerin yaşanmasına yol açar.
+c.	Dünya’nın Günlük Hareketi
+Dünya’nın günlük hareketine bağlı olarak güneş ışınlarının bir yere düşme açısı gün içerisinde değişir. Buna bağlı olarak gün içindeki sıcaklık değerleri değişmektedir.
+d.	Bakı ve Eğim
+Herhangi bir yerin Güneş’e göre konumuna bakı denir. Bakının sıcaklık üzerinde önemli bir etkisi vardır. Güneş’e dönük yerler, güneş ışınlarını daha büyük açıyla alır.
+Bakı etkisi, dağların yamaçlarının Güneş’e göre durumlarına bağlı olarak ortaya çıkar. Dönenceler dışında Kuzey Yarımküre’deki dağların güney yamaçları, Güney Yarımküre’deki dağların ise kuzey yamaçları güneş ışınlarını daha büyük açıyla alır ve genel olarak daha sıcak olur. Dönenceler arasındaki dağların ise yıl içinde her iki yamacı da güneş ışınlarını daha büyük açıyla alabilmektedir.
+2.	Güneşlenme Süresi
+Güneşlenme süresi, bir yerin gün içinde Güneş’i gördüğü süreyi ifade eder. Atmosfer de enerji birikimine neden olduğundan sıcaklık üzerinde önemli bir etkiye sahiptir. Güneşlenme süresi uzadıkça atmosferde ısı birikimi olacağından sıcaklık değerleri yükselir.
+3.	Yükselti
+Yeryüzünde yükseltiye bağlı olarak farklı sıcaklık değerleri görülür.
+4.	Kara ve Denizlerin Dağılışı
+Gece
+Denizler yavaş ısınır ve yavaş soğur.
+Hava soğuyarak aşağı iner.
+Yükselen sıcak hava
+Hareket eden soğuk hava
+Kara çabuk ısınır, çabuk soğur.
+Yandaki şekle bakarak aşağıdaki soruları cevaplayınız.
+Gündüz
+Karalar daha çabuk ısındığından üzerindeki havanın da ısınıp yükselmesine neden olur.
+Isınan hava yükseldikçe soğur ve yoğunlaşarak aşağı iner.
+Denizin üzerindeki soğuk hava hareket ederek sıcak havanın yerini alır.
+5. Nem
+Atmosferdeki nem, sıcaklığı dengeleyici bir özelliğe sahiptir; aşın ısınma ve soğumayı önler, günlük ve yıllık sıcaklık farkını azaltır. Güneş ışınlarının dik veya dike yakın açılarla düştüğü Ekvator ve çevresinin Dünya’nın en sıcak yeri olması gerekir. Ancak nem miktarının fazla olması bu durumu engellemiştir. Dünya’da sıcaklığın en yüksek değerlere ulaştığı yerler, nem miktarının oldukça düşük olduğu dönenceler civarındaki çöllerdir.
+6. Okyanus Akıntıları
+Yeryüzünde sıcaklığın dağılışı üzerinde okyanus akıntılannın önemli bir etkisi vardır. Okyanus akıntıları, denizlerde sıcaklığın Ekvator’dan kutuplara doğru düzenli bir biçimde azalmasını engeller. İngiltere 50° - 57° kuzey enlemleri üzerinde bulunduğundan çok soğuk olması gerekirken kıyısından geçen Gulf Stream (golfstrim) sıcak su akıntısı nedeniyle çevresine göre sıcak ve nemli bir iklime sahiptir. İngiltere ile aynı enlemlerde olan Kanada'nın doğu kıyılarının ise Labrador soğuk su akıntısı nedeniyle soğuk bir iklimi vardır.
+7. Rüzgârlar:
+Rüzgârlar yeryüzünde sıcaklık dağılışı üzerinde doğrudan etkilidir. Geldikleri bölgelerin sıcaklık, nem vb. özelliklerini estikleri bölgelere taşırlar.
+8. Bitki Örtüsü
+Bitki örtüsünün sıcaklık üzerinde dengeleyici etkisi vardır. Bitki örtüsü, geceleri aşırı soğumayı, gündüzleri de aşırı ısınmayı önler. Bu nedenle gece ve gündüz arasındaki sıcaklık farkı ormanlık alanlarda az iken bitki örtüsünden yoksun olan alanlarda fazladır.
+Dünya’da Sıcaklığın Coğrafi Dağılışı
+Yeryüzünde sıcaklığın farklı bir dağılış gösterdiğini öğrendiniz. Bu dağılış eş sıcaklık eğrileriyle (izoterm) oluşturulan haritalarla gösterilebilir.
+İzoterm haritaları, gerçek izoterm haritaları ve indirgenmiş izoterm haritaları olmak üzere ikiye ayrılır.
+Yeryüzünde ölçülen sıcaklık değerleri ile hazırlanan haritalara gerçek izoterm haritaları denir. Her yerin deniz seviyesinde olduğu kabul edilerek oluşturulan sıcaklık haritalarına ise indirgenmiş izoterm haritası denir. İndirgenmiş sıcaklık şu şekilde hesaplanır: Deniz seviyesinden 1000 m yüksekte olan bir merkezin sıcaklığı 5 °C ölçülmüştür. Buna göre indirgenmiş sıcaklık;
+1000x0.5/100=5, 5 + 5 = 10 °C.
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Erozyon</DOCTITLE>
+<TEXT>
+
+Erozyon, diğer adıyla aşınım, yer kabuğunu oluşturan kayaçların, başta akarsular olmak üzere türlü dış etkenlerle yıpratılıp yerinden koparılarak eritilmesi veya bir yerden başka bir yere taşınması olayıdır. 
+Tarımda kullanılan alanların %70'i özelliklerini kaybederek dünya genelinde toplam kara üzerinde %30 civarında çölleşmeye sebep olmuştur. Dünyada erozyon sebebiyle çölleşme tehlikesi bulunan 110 ülke bulunmaktadır. Bu çerçevede Birleşmiş Milletler Çevre Programı tarafından yapılan hesaplamalarla, dünyada çölleşme ve erozyonun önüne geçebilmek için yılda 42 milyar dolar harcanması gerektiği bulunmuştur. 
+Türkiye topraklarının ise, %90'ı su erozyonu, %1'i de rüzgâr erozyonuna maruz kalmaktadır. Tarım topraklarında bu oran su erozyonu için %75 civarındadır. Türkiye'deki erozyon sonucunda yılda 500 milyon ton verimli toprak kaybedilmektedir. 
+Doğal şartlarda gerçekleştiğinde kaybedilen verimli topraklar, doğal döngü çerçevesinde telafi edilebilmektedir... Erozyon bilinçsizlik ve insan etkisiyle telafi edilemez boyutlara ulaşabilmektedir. Erozyonun etkisi sebebiyle kaybedilen verimli topraklar tarımsal üretim kapasitesinin düşmesine sebep olmaktadır. Erozyonun oluşması doğal faktörler ile gerçekleşmekte ancak erozyonun telafi edilemez zararlara sebep olması, insanların bu faktörleri hızlandırmasıyla gerçekleşmektedir.
+Erozyon çeşitlerinden olan su erozyonu en etkili erozyondur. Bu erozyonda yağmur damlalarının aşındırmasının yanında yüzey akışa geçen sularında önemli bir etkisi bulunmaktadır. Diğer bir erozyon çeşidi olan rüzgar erozyonu ise rüzgarın etkisiyle gerçekleşen aşınım ve taşınım olayıdır. 
+Erozyonun verimli toprakların kaybına yol açmasının yanında peri bacalarının oluşumuna yol açması, doğal bir güzelliğin meydana gelerek turizm bölgeleri oluşturmasına ve bir tezat oluşturmasına neden olmaktadır. Uzun yıllar sonunda özel erozyon çeşitlerinden olan korunmuş sütun erozyonu bu oluşumlara sebep vermektedir.
+Nedenleri.
+Erozyon oluşumunun nedenleri bazı doğal unsurlardır. Diğer bir söylemle erozyon tabiatın kuruluşundan bu güne kadar gerçekleşen ve tabii bir olaydır. Doğal yolla gerçekleşen bu erozyon tabiat tarafından toprak oluşumu ile dengelenebilmektedir. Ancak doğal yolla gerçekleşen erozyon insanların etkisiyle tabiatın karşılayamayacağı oranda artabilmektedir. Bu şekildeki erozyona "hızlandırılmış erozyon" denilir. Erozyonun tanımından da anlaşılacağı gibi erozyonun en önemli nedeni, toprağın aşınıp taşınmasına etki edebilecek faktörlerin etkisinin arttırılmasıdır. Bitki örtüsü yönünden zayıf toprakların taşınımı oldukça kolaydır. Rüzgâr,yüzey akışa geçmiş yağış ve sulama suları, yerçekiminin eğim ile birleşerek toprağı taşıyabilmesi bitki örtüsünün varlığı ile yakından ilgilidir. Bitki örtüsü topraktaki eğime rağmen toprak parçalarının önünde set oluşturarak taşınımını engelleyebilir. Rüzgârın ve yağmur damlalarının etkisini azaltarak aşınımı ve taşınımı yavaşlatabilir. Erozyonun en önemli sebeplerinden bir taneside bilgisizliktir. Özellikle tarım yapılan arazilerde, bilinçli olunmadan erozyonun artması sağlanmaktadır. Tarımsal arazilerde anızların yakılması kısa vadeli ürün artışına sebep olur. Bunun sonucunda yeterli bilgi sahibi olmayan çiftçi anızları yakarak toprak yapısı ve toprakta yaşayan canlılara zarar vererek dolaylı yollarla erozyona sebep olabileceği gibi. Eğim yönünde tarlasını sürerek toprağın yerçekimi, su veya rüzgarın etkisiyle taşınımına sebep olabilir. Orman yangınlarıda doğal bitki örtüsü ve yaşayan organizmaların yok olması ile erozyonun artışına sebep olmaktadır. Özellikle dağlık alanlardaki ormanların yanarak yok olması erozyonu daha fazla etkiler. Erozyon yağışın dışında mevcut akarsu, dere veya göller ilede gerçekleşebilir. Örneğin akarsular, suyun aşındırma gücü sayesinde toprağı aşındırarak bir başka yere taşıyabilirler. Yoğun yağışlar sonrasında taşkınların olması ile de toprak taşınabilir. Suyun aşındırma gücü oldukça fazladır. Örnek olarak deniz tabanındaki taşların büyük bir kısmı yuvarlak şekillidir. Bunun sebebi taşların yeterince sert olmaması değil, suyun aşındırma gücünün oldukça yüksek olmasıdır. Toprağın bünyesi de erozyonun başlıca nedeni olabilmektedir. Kumsallarda rahatlıkla görebildiğimiz kum bünyeli topraklar erozyona dayanıksızlıkları nedeniyle erozyona neden olabilirler.
+Toprak oluşumu ve erozyona etkileri.
+Erozyonun gerçekleşmesinde toprak özelliklerinin de önemli bir etkisi vardır. Toprak oluşumuna etki eden faktörler, toprak özelliklerini de etkileyerek, erozyon gerçekleşme olasılığını artırır. Toprak oluşumunun erozyona etkileri 5 farklı şekilde olur.
+Zaman, Toprak oluşumunda etkili olan faktörlerden birtanesi zamandır. Her bir toprağın oluşması için aynı miktarda zamana ihtiyaç duyulmaz. Bazı topraklar daha uzun zamanda oluşurken bazıları için daha kısa zaman yeterli olur. Örnek olarak yumuşak ana materyalden daha kısa sürede toprak oluşur. Erozyona uğrayan topraklarda toprak derinliği azaldıkça oluşum hızı artar. Böyle topraklardan toprağın derinliğinin artması, aşınım hızı ve oluşum hızı arasındaki dengeye bağlıdır. Buna göre;
+Topografya ve drenaj, İklim etkisi dışında topografya ve drenajın da önemli etkisi bulunmaktadır.
+Topraktaki eğim, yükselti v.b. tüm faktörler, gerek yağışların, gerekse yer çekiminin etkisiyle o bölgenin topraklarının taşınımı üzerinde etkili faktörlerdir. Bu taşınım toprağın alt katmanlarının aşınması ve toprak oluşumunu etkileyeceği gibi toprağın derinliği ve erozyona uğramasını da doğrudan etkileyecektir. Tüm bu etmenler topografya ve drenajın erozyona etkisini göstermektedir.
+Canlılar, Doğada toprağın oluşumu, aşınımı ve erozyona etkisi olan önemli faktörlerden birtaneside canlılardır. Mikro ve makro organizmalar toprak oluşumunda, salgıları veya hareketleri ile toprak oluşumunu hızlandırırlar. Toprak oluşumunun hızlanması ile toprak derinliği artar. Bu çerçevede toprak oluşumu ve erozyona dolaylı olarak etkisi bulunan canlıların varlıkları erozyon ile mücadelede önemli bir yer tutar. Örnek olarak tarımda anızların yakılarak yokedilmesi, toprakta yaşayan mikroorganizmaların ölmesine neden olarak toprak oluşumuna engel olur. Aynı zamanda bu canlıların sayılarının azalması ile topraktaki bitki besin elementlerinin bitkilerce kullanılabilir forma dönüştürülmesininde imkânı kalmaz. Sonuç olarak bitkiler besin maddelerinden yararlanamayarak ölürler. Toprakların çoraklaşarak erozyonun önü açılır.
+Ana mataryal, Toprağın oluştuğu bölgedeki ana materyal, toprağın çeşidini ve erozyona dayanımını etkileyen bir diğer önemli faktördür..
+Diğer bir değişle ana materyal, oluşacak olan toprağın özelliklerini oldukça önemli bir şekilde etkiler. Örneğin yumuşak kalkerlerden rendzina topraklar, sert kalkerlerden ise terra rosa toprakları oluşur. Rendzina topraklar erozyona karşı daha duyarlı, terra-rosa topraklar ise daha dirençlidir.
+Çeşitleri.
+Su erozyonu.
+En yoğun görülen erozyon çeşididir. 
+Suyun toprağı aşındırıp taşıma şekli açısından bakıldığında ise;
+olarak 5'e ayrılabilir.
+Damla erozyonu, Damla erozyonu, yağış esnasında damlanın düştüğü sırada toprağı aşındırması ve mevcut enerjisi ile toprağı sıçratarak taşıması sonucu oluşan erozyondur. Bu sıçramalar 60 cm yukarıya 100 – 150 cm uzağa kadar olabilmektedir. Bu erozyon çeşidi en ciddi aşınım ve taşınım yaratan erozyondur. Toprakların bitki örtüsü ile kaplı olması bu erozyonu önlemenin en önemli etmenlerindendir.
+Damla erozyonuna etki eden unsurlar ise aşağıdaki gibidir.
+Eğer yüzeyde birikmiş su tabakası varsa sıçrama açısı küçülür ve yaklaşık 85 - 90 derece civarında bir açı oluşur. Bu erozyon çeşidi yağmurun ilk başladığı sırada etkili olan bir erozyon olmasına karşın akan suya oranla daha etkilidir. Damlanın çapı da verdiği zarar ile doğru orantılıdır. Bir örnek ile anlatmak gerekirse 2 mm çapındaki bir yağmur damlası limit hızda yere çarptığında yaklaşık olarak 40 g ağırlığındaki bir toprağı 1 cm kadar havalandırabilir.. 
+Bu erozyonda yağışın etkisi ile toprak sıkıştırılarak yüzeyde geçirimsiz olan bir tabaka oluşumunada neden olur. 
+Yüzey akış erozyonu, İnfiltre olmayan suyun, yüzey akışa geçerek toprak yüzeyinde bulunan tanecikler ve parçalanmış agregatlar ile karışıp yaratmış olduğu erozyon çeşididir.
+Yüzey akış erozyonu her zaman gözlemlenemez özellikle toprak renginin koyu olması gözlemlemeyi oldukça zorlaştırır.
+Oluk erozyonu, 
+Yüzey akışın devam etmesi ile aşınım artar ve belirli bir aşamadan sonra oluklar oluşur.
+Oluşan oluklar aracılığı ile erozyon hızlanarak devam eder. Bu şekildeki erozyona "Oluk erozyonu" denilmektedir.
+Yarıntı erozyonu (Gully), Oluk erozyonunun ilerleyen aşamasından sonra artık oluklar daha geniş ve derin bir hal almaya başlarlar. Oluklara göre daha büyük olarak yarıntılar oluşur ve bu erozyona yarıntı erozyonu denir..
+Yarıntı erozyonu şekillerine göre 3 şekilde incelenir.
+Akarsu yataklarının yarattığı erozyon, Akarsular aktıkları yatakları derinlemesine ve genişlemesine aşındırırlar bu şekildeki erozyona "Akarsu Yataklarının Yarattığı Erozyon" denir.
+Aşındırma akarsuyun debisine göre değişir. Bu tip erozyonda materyalin taşınımı üç şekilde gerçekleşir. 
+Rüzgâr erozyonu.
+Rüzgâr erozyonu sonucu verimli toprakların kaybı, buharlaşmanın hızlanmasıyla toprak emliliğinin azalması, bitki büyümesinin yavaşlaması, ulaşımın aksaması ve verimin düşmesi olumsuzluklarını ortaya çıkarmaktadır. Taşınan kum ve verimsiz toprak, üretken tarım topraklarını kaplayarak, tarım yapılamaz hale getirmektedir. Rüzgâr erozyonu en şiddetli olarak; bitki örtüsünün fakir, iklimin kurak olduğu İç ve Doğu Anadolu'da görülür. Rüzgâr erozyonu bitki örtüsünün fazla olmadığı yerlerde çok etkilidir. Rüzgâr erozyonu üç farklı şekilde meydana gelmektedir. Bunlar,
+Hava akımı ile uçma, Hava akımının etkisiyle çapları 0,1 mm den daha küçük olan toprak parçaları yüzeyden yükselerek rüzgarın etkisiyle harekete geçerler. Bu şekilde yüzeyden yükselen toprak parçaları bulundukları yerlerden daha farklı bölgelere kadar uçarak toprağın taşınımına sebep olurlar. Bu yolla taşınan toprak parçaları yüzlerce kilometre taşınabilirler. Bu şekilde taşınımın önüne geçilebilmesindeki en önemli faktör bitki örtüsüdür. Bitki örtüsü rüzgarın etkisini azaltacağı gibi toprak parçalarının çarparak uzaklaşmasınıda engeller..
+Yüzeyde sürüklenme, Rüzgârın etkisi ile harekete geçmiş ancak boyutları sebebiyle yüzeyden fazla yükselemeyen toprak parçacıkları yüzeyde sürüklenerek taşınırlar. Bu şekilde taşınan toprakların çapları 0,5 mm ile 1mm arasındadır. Sıçrama ile taşınan toprakların çarpması bu toprak parçalarının hızlarını arttırmasına neden olur. Aynı zamanda çarpışan parçaların çapları küçülerek taşınımları kolaylaşır. 
+Sıçrama,Toprağın bazı parçaları rüzgar etkisi ile yükselip rüzgâr doğrultusunda yükselmeye başlar. Bu toprak parçaları hava akımıyla uçan parçalar kadar küçük değilse belirli bir yükseklikten sonra rüzgarın da etkisini yitirmesi ile yere doğru düşerler. Bu şekilde sürekli sıçramalar ile toprak taşınımı olması durumunda buna sıçrama ile taşıma denilir. Bu tipteki rüzgar erozyonuna maruz kalan toprak çapları 0,1 mm ile 0,5 mm arasındadır.
+Özel erozyon çeşitleri.
+Su, rüzgar ve benzeri aşındırıcı etmenlerin etkisinin yanı sıra özel koşullarda gerçekleşen erozyonlardır.
+Bu erozyonların gerçekleşebilmesi için birden fazla koşulun mevcut olması beklenir.
+Bu aşınım sonrasında üst kısımdaki sıkışmış toprağın durumunu korumasına karşılık toprağın altında tüneli andıran boşluk oluşur. Bu şekilde oluşmuş erozyonlara tünel erozyonu adı verilir.
+Bu erozyon tipinde rüzgarın etkisi önemlidir. Rüzgâr etkisi ile tepelerde aşınım gerçekleşir. Bu aşınım sonucunda sivrilmiş tepeler meydana gelir. Tepelerin sivri görünümde olmasının temel sebebi tepeyi oluşturan kayaçtır. 
+Erozyona etki eden faktörler.
+Erozyona etki eden faktörleri 5 grup altında toplayabiliriz. 
+Bunlar,İklim, Topografya, Toprak Özellikleri, Bitki Örtüsü ve İnsan Faktörü dür. İnsan faktörü dışındaki diğer dört faktör doğal erozyon faktörleri olarak tanımlanır. 
+İklim.
+Yağış, rüzgâr ve sıcaklık olarak etki eder.. 
+Yağışın kinetik enerjisi aşındırmada en önemli etkendir. Yağışın şekli yağmur, kar ve dolu olarak farklı etkiler yapar. Bunlar içindeki en önemli etkisi olan yağmurdur. İklimin erozyona etkisi 4 şekilde incelenebilir. Bunlar;
+tır.
+Yağış yoğunluğu, Yağışlarda yoğunluk erozyona önemli ölçüde etkilidir.
+Bu bağlamda yağış yoğunluğu birim zamanda düşen yağış miktarıdır. Yağış yoğunluğu arttıkça toprağa düşen su miktarı artar ve toprağın infiltrasyon hızı daha çabuk azalır. Toprakların infiltrasyon değerleri, toprağın işlenmiş veya işlenmemiş olmasına göre değişir. İşlenmiş topraklarda doğal bitki örtüsü yok edilmiş olduğu için toprağın infiltrasyon gücü daha çabuk aşılır. Eğer toprak yüzeyi korunmuşsa infiltrasyon uzun sürer. Yağış yoğunluğunun etkisinin anlaşılması bir başka örenkede anlatılabilir. Örneğin bir süngere suyun yavaşça boşaltılması durumunda sünger suyu kolaylıkla emebilecektir. Böylelikle su dışarı sızamayacaktır. Ancak aynı miktarda suyun süngerin üzerine birden dökülmesi halinde suyun bir kızmı sünger tarafından emilemeyecek ve akışa geçecektir. Toprağın suyu içine geçirme kabiliyeti süngere göre deha yavaş olduğu hesap edilecek olursa yağış yoğunluğunun erozyona etkisi daha net anlaşılabilecektir.
+Yağış süresi ve dağılımı, Yağışın yoğunluğu kadar süresi ve dağılımıda erozyon için önemli bir etkendir.
+Aynı yoğunlukta yağan iki yağıştan uzun süreli olan daha fala erozyon oluşumuna sebep olur. Yağışın dağılımıda erozyon açısından önem taşır. Yağış dağılımı bir yağış içinde olabildiği gibi mevsimlik ve yıllık dağılımlar şeklinde de erozyonu etkiler. Bir yağış içerisinde dört faklı yağış dağılımı olabilir. Bunlar Tüm yağış boyunca aynı yoğunlukta devam eden yağışlar (Düzgün yağış dağılımı), şiddetli başlayıp şiddetini kaybeden yağışlar(ileri yağış dağılımı), düşük şiddette başlayıp şiddetini arttıran ve sonra tekrar şiddeti düşen yağışlar (Orta yağış dağılımı), düşük şiddetle başlayıp şiddetini sonuna kadar arttıran yağışlar (Gecikmiş yağış dağılımı)dır. Bunlardan en etkili olanı İleri yağış dağılımıdır. Bir yıl içerisindeki yağış dağılımı ise, 
+olarak üçe ayrılır.
+Rüzgârın etkisi, Yağmur damlalarının toprak yüzeyine düşme hızı ve çarpma açısını etkiler. Rüzgârlı havalarda meydana gelen yüzey akışlar üzerinde de etkisi vardır. Örneğin havza çıkışına ters yönde esen rüzgar, yüzey akışın daha geç terk etmesini sağlar. Tüm bunlar sonucunda aşınımı ve taşınımı arttırarak erozyonu etkiler. Rüzgârın su erozyonuna etkisi kadar tek başınada erozyona etkisi vardır.
+Sıcaklık, Bitki örtüsünün ayrışma ve parçalanması olaylarına etki eder.
+Sıcaklığın yüksek olduğu yerlerde organik maddeler hızla parçalanır. Buna bağlı olarak agregatlaşma azalır. Bitki örtüsü seyrelir. Bunlar erozyonu arttıran faktörlerdir. Sıcaklık yağış olmayan bölgelerde ise kuraklığa ve dolayısıyla rüzgar erozyonunun etkilerini arttırmasına neden olur. Bu yüzden sıcaklık diğer faktörler ile etkileşim halinde bulunan bir etmendir.
+Topografya.
+Topografya erozyon üzerinde etkili olan faktörlerden birtanesidir. Topografya su erozyonunu 6 şekilde etkiler. Bunlar;
+dir.
+Eğim dikliği, yüzey akış sularının hızının artmasına sebep olarak aşınımı arttırır. Yüzey akışının akışının miktarının fazla olması aşınan toprak miktarınıda arttırır. 
+Eğim uzunluğu, genel olarak eğim uzunluğu arttıkça aşınma ve taşınan toprak miktarıda artar. fakat bazı durumlarda yağış yoğunluğu ve toprak geçirgenliğine bağlı olarak farklılıklar görülebilir. Düşük yoğunluklu yağışlarda ve geçirgenliği fazla olan topraklarda eğim uzunluğunun artması erozyonun azalmasına neden olabilir.
+Mikro-relief (Pürüzlülük), toprak yüzeyinin pürüzlü olması, su depolamasına neden olarak erozyon etkisini azaltır
+Eğim şekli, yeryüzünde dört farklı şekilde eğim şekli vardır bunlar düz,dış bükey,iç bükey ve dalgalı eğim şekilleridir. Bu yüzey şekillerinden en fazla erozyona etki edeni ise dış bükey şekilleridir. 
+Havza büyüklüğü ve şekli, benzer iki özellikli iki havzaden büyük olanında daha fazla erozyon ortaya çıkar. Havza büyüklüğünün yanında havza şeklide erozyon açısından önemlidir. Büyüklükleri aynı fakat şekilleri, havza çıkış yerleri farklı olan iki havzadan birisinde yüzey akış suları daha kolay terkedebilecekken diğerinde terk edemeyebilir. Daha geç terkedenin erozyon etkisi daha az olur.
+Yöney, arazinin yönü dolaylı olarak sıcaklığı etkiler. Kuzey yarım kürede kuzeye bakan yamaçlarda bitki örtüsü daha yoğun, organik madde birikimi daha fazladır. Toprağın nem düzeyi yüksektir. Güney yamaçlarda ise Güneş ışınları daha dik geldiği için bunun tersi bir durum otaya çıkar.
+Toprak özellikleri.
+Toprak özellikleri fizikse özellikler ve kimyasal özellikleri olarak ikiye ayrılır.
+Fiziksel özelliklerin etkisi
+Kimyasal özelliklerin etkisi
+Bitki örtüsü.
+Organik maddede olduğu gibi toprak yüzeyindeki bitkide yağmur damlalarının çarpma etkisini azaltır. Toprak yüzeyindeki kaymak tabakasının oluşumunu engeller. Toprak içine daha çok su infiltre olur. Yüzeydeki bitki örtüsünün çeşidi de toprak aşınımı üzerine etki eder. Toprakları en fazla koruyan bitki örtüsünden en az koruyana doğru aşağıdaki gibi sıralanabilir;
+Bu sıralamada çapa bitkilerinin toprağı en az koruduğu görülmektedir. Bu nedenle eğimli arazilerde çapa bitkisi tarımı yapılırken toprak ve su korunumu önlemlerine çok dikkat edilmesi gerekmektedir.
+İnsan faktörü.
+İnsan faktörü erozyonu etkileyen en önemli faktörlerdendir. Çünkü insan faktörü, sadece erozyona sebep olmakla kalmayıp diğer etkili faktörlerinde değişmesine neden olarak dengenin bozularak erozyonun artmasına neden olabilir. İnsan faktörü,
+gibi çeşitli nedenlerle erozyona etki etmektedir.
+Erozyonu yavaşlatıcı önlemler.
+Erozyonun miktarını azaltıp kabul edilebilir sınırlara çekebilmek, alınacak önlemlere bağlı olarak gerçekleştirilebilir. Bunun için erozyonun cinsine göre önlemler alınmalıdır.
+Meyilli arazilerde teraslama.
+Erozyonun yavaşlatılması kapsamında meyilli arazilerde teras yapımı da önemli bir önlemdir. Kanal terasları, sırt terasları ve seki terasları olmak üzere üçe ayrılan teraslar, suların beraberinde toprak parçalarını götrümesini engellemektedir. Kanal terasları %4' ekadar eğim olan alanlarda başarı ile uygulanabilirken sırt terasları %2 dolayındaki alanlarda uygulanıldığında başarıya ulaşmıştır. Sırt terasları ile kanal terasları arasındaki en önemli fark ise, sırt teraslarında su kaynklarının az olduğu bölgelerde toprak korunumunun yanı sıra su korunumunu da gerçekleştirebilmesidir. Seki terasları ise meyil olarak %12'den fazla meyilli topraklarda kullanılmaktadır. Bu teras tipi, yapılacak tarımsal faliyetlerde mekanizasyon kullanımına elverişli değildir. Terasların işlevlerini sürdürebilmeleri için yoğun yağışlar sonucu hasar göremeleri engellenmelidir. Bu nedenle teraslamadan sonra bu alanları çimlendirmek terasların yapılaını koruyabilmeleri açısından önemlidir. Eğer teraslama yapılmış bölgede tarımsal bir faaliyet yapılıyorsa sürümler ya tahtavari yapılmalı ya da düz sürümde teras sırtlarına parelel sürüm tercih edilmelidir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Yeryüzünde Bitki Örtüsünün Dağilişini Etkileyen Faktörler (EBA)</DOCTITLE>
+<TEXT>
+
+Yer yüzünde bitkilerin dağılışında farklılıklar görülmektedir. (Haritax) Bu dağılış üzerinde yer şekilleri, iklim, toprak özellikleri ve beşeri faktörler etkili olmaktadır.
+YER ŞEKİLLERİNİN ETKİSİ
+*	Bitki tür ve toplulukları üzerinde yeryüzü şekillerinden dağ sıraları, bunların uzanışı, bakı, eğim ve yükselti etkilidir.
+*	Yükseltinin değişimine bağlı olarak bitki örtüsü de değişmektedir.
+*	Nemli rüzgârlara karşı olan yamaçlar fazla yağış alır.
+*	Eğime bağlı olarak yamaçlardaki bitki örtüsü diğer alanlara oranla daha gür ve çeşitlidir.
+İKLİMİN ETKİSİ
+*	Yağışlı bölgelerde gür bitki toplulukları görülürken kurak bölgelerde bitki örtüsü seyrekleşir.
+*	Çöllerde ise çok kurakçıl ve seyrek bazı otlara ve çalılara rastlanır.
+*	Bitkilerin gelişebilmesi için yağışın yanında belli bir sıcaklığa da ihtiyaç vardır. Soğuk kutup bölgelerine ve dağların yüksek kesimelerine doğru gidildikçe bitkiler cılızlaşır ve nihayet ortadan kalkar. Oysa sıcak ve orta kuşakta yağışın yeterli olduğu yerlerde bitki örtüsü büyük bir gelişme gösterir.
+TOPRAK FAKTÖRÜ
+*	Bitkinin kökleriyle tutunduğu ve beslendiği yer topraktır.
+*	Bitkiler besinlerini topraktaki sudan alır.
+*	Toprak dokusu (sık veya gevşek oluşu) ve toprak yapısı (kalkerli, killi, kumlu oluşu) bitki hayatı bakımından önemlidir
+BEŞERÎ FAKTÖRLER
+Tarih boyunca insanlar savaşlar,tarım alanları, açma,yakacak,ihtiyacı,orman yangınları,hayvan otlatma,orman alanlarını imar ve iskâna açma, yol yapımı, sanayileşme gibi nedenlerle bitki örtüsünü tahrip etmişlerdir:
+Ekvatoral Yağmur Ormanları		
+Ekvatoral iklim bölgesinin doğal bitki örtüsüdür. Çok sık oldukları için balta girmemiş ormanlar olarak da adlandırılır. Bu ormanların görüldüğü yerler her mevsim yağışlı olup yıllık yağış miktarı 2000 mm'nin üzerindedir. Bitkiler, yıl boyunca yeşil kalır. Bitki türleri bakımından çok zengin olan ormanda ağaçların boyu 50-60 metreyi bulmaktadır.	Amazon Havzası, Afrika’da Senegal’den Gine Körfezi’ne kadar olan saha ile Kongo Havzası, Güneydoğu Asya adaları
+Muson Ormanları
+Muson iklim bölgesinde görülür. Bu ormanların görüldüğü yerlerde yıllık yağış miktarı 2000 mm civarındadır. Yağışların % 85'i yazın görüldüğünden yaz aylarında yeşillenen bu ormanlar, kışın yapraklarını döken ağaçlardan oluşur. Çok sık ve gür oluşları bakımından ekvatoral yağmur ormanlarına benzerlik gösterir. Buna karşılık türce fakir olmalarıyla onlardan ayrılır. Muson ormanlarının tipik ağacı teak	
+Orta Kuşağın Karışık Ormanları		
+Orta kuşağın okyanusal iklim bölgelerinde görülen bu ormanlar, geniş yapraklı ve iğne yapraklı ağaçlardan meydana gelir. Bu ormanların görüldüğü yerler her mevsim yağışlı olup yıllık yağış miktarı 1000 mm'nin üzerindedir. Bu ormanları oluşturan ağaçlar türce çok zengin olmadıkları gibi boyları da ekvatoral yağmur veya muson orman ağaçları kadar fazla değildir.	
+Tayga Ormanları
+Sert karasal iklimin nemli alanlarında (60 enlemi çevresinde) görülen bu ormanlar, sıcaklığın düşük olmasından dolayı iğne yapraklı ağaçlardan oluşur. Bu ormanların görüldüğü yerlere en fazla yağış yazın, en az yağış kışın düşmektedir. Yıllık yağış miktarı 500 mm civarındadır.	
+Maki
+Bodur ağaçlardan ve çalılardan (yabani zeytin, defne, kocayemiş, mersin, keçiboynuzu, zakkum, süpürge çalısı, kermes meşesi) oluşan makiler Akdeniz ikliminin bitki örtüsüdür. Daima yeşil yapraklı olan makiler kuraklığa dayanıklı oldukları hâlde soğuğa karşı fazla dayanıklı değildir.	
+Savan
+Tropikal iklim bölgelerinde görülen uzun boylu ot topluluklarıdır. Geniş alan kaplayan savanlar içerisinde kurakçıl nitelikte tek tek ağaçlara veya ağaç kümelerine de rastlanır. Savanların görüldüğü yerlerde yazlar yağışlı, kışlar kurak geçmektedir. Ortalama yıllık yağış miktarı 1500 mm civarındadır. Yaz yağışlarına bağlı olarak yeşeren bu otlar, kış mevsiminin kurak geçmesinden dolayı sararır.	
+Bozkır (Step)
+Orta kuşağın yarı kurak iklim bölgelerinde görülen seyrek ve cılız ot topluluklarıdır. Steplerin görüldüğü yerlerde yıllık yağış miktarı 250-400 mm arasındadır. İlkbahar yağışlarına bağlı olarak yeşeren bu otlar yaz kuraklığından dolayı sararır. Step bölgesinin esas bitkisini; kökleri derine inmiş kurakçıl otlar oluşturmaktadır. Bunların başlıcaları yavşan otu, üzerlik otu, geven, yumak, çoban yastığı, kekik, adaçayı ve sığır kuyruğudur.	
+Çayır
+Orta kuşak karasal ikliminin yarı nemli sahalarında veya yüksek dağlarda görülen ve yaz boyu yeşil kalan, bozkırlardan daha gür ot topluluklarıdır. Yazların serin ve yağışlı geçmesi, çayırların yeşil kalmasını sağlamaktadır. Orman üst sınırından sonra yetişen çayırlara, dağ çayırları (alpin çayırları) da denilmektedir.	
+Tundra
+Tundra iklim bölgesinde görülen soğuğa dayanıklı otsu bitki topluluklarıdır. Bunlar kısa ve serin geçen yaz döneminde yeşerirler. Tundra alanlarında yıllık yağış miktarı 200-250 mm dolayındadır. Sıcaklık yetersiz olduğundan ağaçlara rastlanmamaktadır.	
+Çöl Bitkileri
+Geniş kum örtüleri veya kayalıklardan oluşan bu bölgelerde yıllık yağış miktarı 200 mm'nin altındadır. Çok seyrek olarak dağılmış bulunan kurakçıl otlar, çalılar ve kaktüsler en yaygın bitki türleridir. Ayrıca yer yer hurma ve palmiye ağaçlarından oluşan vahalar da yer almaktadır.	
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya’Nin İklim Zenginliği (EBA)</DOCTITLE>
+<TEXT>
+
+Yeryüzünde sıcaklık, basınç, nem ve yağışın dağılışında farklılıklar vardır. Buna bağlı olarak farklı iklim tipleri görülür.
+Ekvatoral İklim
+Ekvator çevresinde 0°-10° enlemleri arasmda görülür. Ekvatoral iklim, Amazon ve Kongo Havzalarının büyük bir kesiminde, Gine Körfezi kıyılarına yakın bölgelerde, Endonezya ve Malezya'nın büyük bir bölümünde etkilidir.
+Yıllık sıcaklık ortalaması 25 °C’un üstündedir. Yıllık ve günlük sıcaklık farkı en az olan iklimdir. Yağış rejimi düzenlidir. Yağışlar konveksiyonel kökenlidir. Yıllık yağış miktarı 2000 mm’nin üstündedir. Bitki örtüsü bütün yıl yeşil kalan sık ve uzun boylu ağaçlardan oluşan yağmur ormanlarıdır.
+Savarı (Subtropikal) İklimi
+Savan iklimi Sudan, Çad, Nijerya, Mali, Moritanya, Brezilya, Venezuela, Kolombiya, Peru ve Bolivya gibi ülkelerde etkilidir.
+Sıcaklık ortalaması 20 °C’un üzerindedir. Güneş ışınlarının daha dik geldiği sıcak dönemi yağışlı, yılın geri kalanı kuraktır. Yıllık yağış miktarı 1000-1200 mm arasındadır. Bitki örtüsü yüksek boylu ot topluluklarından oluşan savandır.
+Muson İklimi
+Güney Hindistan, Güney Çin, Güneydoğu Asya, Japonya ve Mançurya’da görülür. Bu bölgeler, muson rüzgârlarının etkisi altındadır.
+Yıllık ortalama sıcaklık 15-20°C’tur. Alçak enlemlerde sıcaklık yüksektir. Kuzeye doğru kışlar daha sert geçer. Muson rüzgârlarının esme yönüne paralel olarak yazlar yağışlı, kışlar kuraktır. Yıllık yağış miktarı 1500 - 2000 mm civarındadır. Kıyı bölgeleri ile dağların denize bakan yamaçlarında yağış miktarı artar. Örneğin Hindistan'ın kuzeydoğusunda yer alan Çerapunçi 12.000 mm yağış ile Dünya’nın en fazla yağış alan yeridir. Kıyı kesimlerinde kışın yaprağını döken ormanlar, kuzeye doğru ise savanlar görülür.
+Akdeniz İklimi
+Akdeniz'e kıyısı olan ülkeler, Avustralya'nın güneybatısı, Güney Afrika Cumhuriyeti'nde Kap Bölgesi, Şili'nin orta kesimleri ve Kuzey Amerika'da Kaliforniya çevresinde etkilidir.
+Yıllık sıcaklık ortalaması 15-20 °C'tur. Yıllık yağış miktarı yükseltiye göre değişir. Ortalama 600 - 1000 mm arasındadır. Yaz ayları kurak, kış ayları yağışlıdır. Karakteristik bitki örtüsü kızılçamlar ve bunların tahrip edilmesiyle ortaya çıkan makilerdir.
+Okyanusal İklim
+Genellikle 30°- 60° enlemleri arasında kıtaların batı kıyılarında görülür. Okyanusal iklim Batı Avrupa, Batı Kanada ve Güney Alaska kıyılarında, Güney Şili, Avustralya'nın kuzeydoğusu ve Yeni Zelanda'da etkili olmaktadır.
+Ortalama sıcaklık, 15 °C'tur. Yıllık sıcaklık farkı 10°C'u geçmez. Her mevsim yağışlıdır. Yıllık yağış miktarı 1500 mm civarındadır. Bitki örtüsü kışın yaprağını döken, yayvan yapraklı ormanlardır.
+Step iklimi
+Ilıman ve sıcak kuşaklarda karalann iç kısımlarında görülür. Orta Avrupa'da, Asya'nın iç kısımları ve Kuzey Amerika'nın orta kısımlarında etkilidir. Yıllık sıcak farkı 15-30 °C’tur. Yıllık yağış miktarı 300 - 500 mm’dir.
+Yağışların büyük bölümü ilkbaharda düşer, yazlar kurak geçer. Kışın kar yağışları görülür. Doğal bitki örtüsü bozkırdır.
+Karasal İklim
+Genel olarak 30°-65° enlemleri arasında, karaların deniz etkisinden uzak iç kısımlarında görülmektedir. Karasal iklim; Sibirya, Kanada ve Doğu Avrupa'da geniş bir yayılış alanına sahiptir. En belirgin özelliği yıllık ve günlük sıcaklık farkının fazla olmasıdır.
+Yıllık sıcaklık ortalaması 0 C°-10 °C’tur. Kışlar çok soğuk geçer ve uzun sürer. Yazlar ise kısa ve sıcaktır. Yıllık yağış miktarı 500-600 mm civarındadır. Kış yağışları daha çok kar şeklindedir. Doğal bitki örtüsü iğne yapraklı ormanlardır. Yağışın azaldığı yerlerde bozkırlar görülür.
+Çöl İklimi
+Dönenceler civarında, kıta içlerinde etrafı dağlarla çevrili alanlarda görülür. Afrika'da Büyük Sahra, Orta Doğu'da Necef, Asya'da Gobi, Taklamakan, Avustralya'da Gobon ve Gibson, Güney Afrika'da Kalahari ve Namib, Güney Amerika'da Patagonya, Atacama ve Peru başlıca çöl alanlarıdır.
+Yıllık ortalama sıcaklık 40°C civarındadır. Yıllık ve günlük sıcaklık farkları fazladır. Konveksiyonel kökenli sağanak yağışlar görülür. Yıllık yağış miktarı genellikle 100 mm’den azdır. Çölde bitkiler cılız ve seyrektir. Doğal bitki örtüsü bazı kurakçıl otlar ve kaktüstür.
+Kutup İklimi
+Kuzey Kutbu çevresinde Grönland Adası’nın iç kısımlarında ve Antarktika'da etkilidir.
+Sıcaklık ortalaması bütün yıl boyunca 0 °C'un altındadır. Yağışlar son derece az ve her zaman kar şeklindedir. Ortalama yıllık yağış 200 mm civarındadır. Toprak buzlarla kaplı olduğu için bitki örtüsü yoktur.
+Tundra İklimi
+Kutup daireleri çevresindeki kara içlerinde tundra iklimi etkilidir. İskandinavya Yarımadası'yla Kana-da'nın kuzeyinde, Sibirya'nın kuzey kesimlerinde ve Grönland Adası’nın kıyı kesimle-rinde de görülür.
+En sıcak ay ortalaması 10 °C'u geçmez. Kışın sıcaklık -30, -40 °C'a kadar iner. Yıllık yağış miktarı 200 -250 mm civarındadır. Bitki örtüsü, yosun, ot ve cılız çalılıklardır.
+KUTUP İKLİMİ
+Kutup bölgelerinde görülür. Sıcaklık ortalaması yıl boyunca 0 °C'un altındadır. Ortalama yağış 200 mm civarındadır. Bitki örtüsüne rastlanmaz.
+Sıcaklığın çok düşük olduğu bir iklim tipidir. Yağışlar ortalama 200 - 250 mm kadardır. En fazla yağış yaz aylarında görülür. Tabii bitki örtüsü çalı, yosun ve yazın yeşeren kurakçıl ortlardan oluşan tundralardır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Süperiletken</DOCTITLE>
+<TEXT>
+
+Süperiletken (Üstüniletken), elektriksel iletkenlikleri sonsuza ulaşan maddelere denir. Bazı element ve alaşımlar belirli bir sıcaklık (Kritik sıcaklık:Tc) seviyesine veya o kritik sıcaklığın altına doğru soğutulduklarında süperiletkenlik özelliği kazanırlar. Elektrik akımı, dirençle karşılaşmadan süperiletken maddelerin üzerinden geçebilir. Başka bir özellikleri de içlerindeki manyetik akıyı mükemmel bir diyamanyetiklik özelliği göstererek dışarı itmeleridir. Bu diyamanyetik özellik göstermeleri Meissner etkisi olarak tanımlanır. Süperiletken maddeler 'den yüksek akıımlar geçebilir.
+Tarihi Gelişme Süreci.
+Hollandalı fizikçi Heike Kamerlingh Onnes 1908 yılında Helyum’u sıvı hale dönüştürmeyi başardı. Bu başarı 4,2 K’e kadar olan düşük sıcaklıklarda fiziksel özelliklerin araştırılmasını mümkün hale getirdi. Metallerin elektriksel dirençlerinin bu düşük 
+sıcaklık bölgelerindeki değişimi yine ilk defa Onnes tarafından incelendi. Sıvı Helyum’un keşfinden 3 yıl sonra Heike Kamerlingh Onnes, civa metalinde DC elektriksel direncin kritik sıcaklık(Tc) diye adlandırdığı sıcaklık ve altındaki sıcaklıklarda ölçülemeyecek kadar küçük bir değere düştüğünü gözlemledi. Ancak ölçülemeyecek kadar düşük değere düşmüyordu. Daha sonra yapılan ölçümlerle sıfır olduğu anlaşılmıştır. Bu heyecan verici gözlem süperiletkenliğin keşfi olarak bilinmektedir. 
+Bu çalışmadan dolayı Kamerling Onnes 1913 yılında Nobel Fizik ödülünü kazandı. Daha sonraki yıllarda yapılan 
+çalışmalarda başka elementlerin ve bileşiklerinde (1913 yılında kursunun (Pb) 7,2 K’de (Onnes, 1911), 
+1930 yılında Niyobyum'un 9,2 K’de (Chapnik, 1930) süperiletken olduğu anlaşıldı. Süperiletkenliğin H. K. Onnes tarafından 1911 yılında kesfinden 1933 yılına kadar süperiletkenin bir ideal iletken olduğu yani sadece sıfır dirence sahip olduğu düsünülüyordu.
+Kusursuz diyamanyetizma özelliği keşiften yaklaşık 22 yıl sonra W. Meissner ve R. Ochsenfeld tarafından gözlendi. Diyamanyetiklik, manyetik ters yönelmesi olarak ifade edilebilir. Manyetik alan yayılım frekansına göre moleküler çapta ters yönlenme eğilimi gösterirler. Bir mıknatısa yaklaştırıldığında kuzey kutbu gören maddenin yakın tarafı kuzey kutbu olarak yönelecektir. Su, bu yapıya sahip maddelerden biridir. Diyamanyetizma özelliği, keşfedilen süperiletkenler için ortak bir özellik oluşturmaktadır. Bu özellik Meissner Etkisi olarak bilinmekte olup, kritik sıcaklığın altındaki süperiletken bir malzemeye yüksek olmayan bir alan uygulandığında malzemenin bu manyetik alanı dışarlaması prensibidir .
+Meissner Etkisi.
+W. Meissner ve R. Ochsenfeld tarafından 1933 yılında gözlemlenen bu
+etkide, manyetik alan içindeki bir süperiletken kritik geçiş sıcaklığına(Tc) kadar
+soğutulduğunda manyetik alan çizgileri süperiletkenin dışına itilir. Manyetik alanın bu şekilde dışarlanması Meissner etkisi olarak bilinir ve bu etki, bir süperiletkenin içinde B=0 olacak şekilde davrandığını gösterir. Manyetik alanın dışlanması, perdeleme akımları (shielding currents) olarak bilinen ve uygulanan manyetik alana eşit ve zıt yönde alan oluşturacak yönde süperiletken yüzeyinde akan elektrik akımından dolayı meydana gelir. Meissner etkisinin en iyi gösterimi levitasyon durumundaki kalıcı mıknatıs deneyidir.
+Süper iletkenler sıfır elektriksel dirence sahiptirler. Bunun yanında manyetik alanı itme gibi bir özellikleri daha vardır (diamanyetik). Yüklü bir parçacık bir eksen etrafında döndüğünde bir manyetik alan oluşturur. Bu manyetik alanın yönünü parçacığın dönme yönü belirler. Atomlarda manyetik alan oluşturan tanecik elektrondur. Proton ve nötronun etkisi çok küçük olduğundan ihmal edilir. Bir atomun veya molekülün elektron dizilişi yazıldığında bazılarının eşleşmiş bazılarının ise eşleşmemiş olduğu görülür. Eşleşmiş elektronların dönme yönleri birbirine ters olduğundan oluşturdukları manyetik alanlar birbirlerini sıfırlayacaklardır. Elektron dizilişi yazılan maddenin bütün elektronları eşleşmiş ise net bir manyetik alan oluşmayacağından bu tür maddeler manyetik alandan etkilenmezler ve diamanyetik olarak isimlendirilirler. Bu olaya Meissner etkisi (akı dışarlanması) adı verilir.
+Cooper Çifti.
+Cooper çiftleri Negatif elektrik yüklü elektron atom örgüsün içinden geçerken pozitif yüklü iyonlarla elektromanyetik etkileşime geçerse Cooper çifti oluşup atom örgüsünün şekli bozulur.Cooper çiftleri süperiletkendeki akımın taşıyıcılarıdır fonon alışverişi ile bağlı kalırlar.Fonon kristal titreşim kuantumudur.Parçalayıcısı düzen parametresiyken adını Leon Neil Cooper'dan alır.
+Öncelikle, Cooper çiftlerini oluşturan elektronlar tek bir atoma bağlı değil. Bunlar, aynen metallerdeki gibi malzeme içinde serbestçe dolaşan elektronlardan oluşuyor. Bazı atomların (metal atomları) en dış kabuklarındaki elektronlar atomlara diğerlerinden çok daha zayıf bağlanmıştır. Atomları bir araya koyarak malzemeyi oluşturduğunuzda, bu elektronlar bir atomdan diğerine rahatça geçerek, malzeme içinde serbestçe dolaşmaya başlarlar. Küçük bazı farklar dışında bu hareket parçacıkların boş uzaydaki hareketine oldukça benziyor. Biz bu tip malzemelere “metal” diyoruz. Süperiletkenlik de metallerde, bu serbest elektronların birbirleriyle “bir şekilde” etkileşerek Cooper çiftleri oluşturmasıyla oluşuyor. Etkileşme BCS tipi dediğimiz süperiletkenlerde, atomların titreşmesi aracılığıyla gerçekleşiyor. Yani, bir elektron çevresindeki atomların titreşmesine neden oluyor, bu titreşimler uzağa yayılıyor ve başka bir elektronun hareketini etkiliyor. Fakat elektronların etkileşmesi için bu tek bir olası mekanizma değil. Özellikle seramik süperiletkenlerde başka etkileşme mekanizmalarının olduğu düşünülüyor.
+Önemli olan bir nokta bu etkileşmenin çok zayıf olması. Bunun bir sonucu, elektronların birbirlerine bağlanması için sıcaklığın çok düşürülmesi gerekiyor. Bu da, belli bir kritik sıcaklığın altında gerçekleşiyor. Kritik sıcaklık her malzeme için farklı. O malzemedeki elektronların ne kadar büyük titreşim yaratabildiklerine (BCS mekanizması için), elektron yoğunluğuna vb. birçok faktöre bağlı. Birçok malzeme için bu 1 Kelvinin bile altında, kurşun için 7K, magnezyum diborid için 39K, seramikler için daha yüksek . Şu andaki dünya rekoruna 138K ile bir seramik sahip. Ama, bütün malzemeler süperiletken olamıyor. Bunun nedeni bu malzemelerde Cooper çifti oluşturacak derecede yeterince güçlü bir etkileşmenin olmaması olabilir ya da deneysel olarak yeterince düşük sıcaklıkları henüz elde edemediğimizden de olabilir. Bazı metallerse, normal basınç altında hiç bir zaman süperiletken olamadığı halde, yüksek basınç altında ve uygun sıcaklık altında süperiletken olabiliyor (örneğin demir). Şu anda, hangi malzemenin hangi sıcaklık (ve basınç) altında süperiletken olacağını güvenilir bir şekilde söyleyebilen bir kuram yok. Süperiletkenlik alanındaki en büyük sorun, kuramların bu anlamdaki yetersizliği. Gelecekte oda sıcaklığında süperiletken olan malzemeler bulunacağı umuluyor. Ama o zamana kadar, bilim adamları güçlü soğutucularla çalışmak zorunda. Kritik sıcaklığın üzerinde bir süperiletkenin metale dönüşmesi, bu malzemelerin normalde metal olmasından kaynaklanıyor, başka bir şey değil.
+Elektronlar arasındaki etkileşmenin zayıf olmasının ikinci bir sonucu, bu elektronlar bağlanıp bir Cooper çifti oluşturduklarında aralarındaki uzaklığın oldukça büyük olması. (Zayıf etkileşme ==> büyük uzaklık, düşük kritik sıcaklık). Diğer bir takım nedenlerden dolayı bu uzaklığa “uyum uzaklığı” deniyor ve değeri 1000 Angstrom ile bazı seramiklerde 30 Angstrom arasında değişiyor. Atomların çapının birkaç Angstrom olduğunu hatırlarsanız, bir Cooper çiftindeki iki elektron arasında yüzlerce başka elektron olduğunu görebilirsiniz. Bunun bir anlamı, bir çiftteki elektronlardan birinin rahatlıkla bağdan kurtulup başka bir çifte bağlanabilmesi olasılığı. Yani, malzeme içinde bir kere birbirlerine bağlandı mı artık ayrılmayan çiftler yerine çok daha karmaşık bir durum söz konusu. Bu nedenle süperiletkenlerin kuramsal tasviri oldukça karmaşık ve yine bu nedenle süperiletkenlikle Bose-Einstein yoğuşması arasında bire bir ilişki kuramıyoruz. (Halbuki iki olay birbirine çok benziyor). Bir çifti oluşturan elektronların enerjileri aynı da olabilir, farklı da. Bağlanmayı sağlayan etkileşme çok zayıf olduğundan, çiftin bağlanma enerjisi çok düşük. Bu nedenle elektronların enerjileri de aşağı yukarı aynı olmalı; enerjileri arasında çok büyük farklar olmamalı. Elbette bu elektronlar birbirleri arasında momentum ve enerji değişimi gerçekleştiriyorlar, ama söz konusu enerjiler bağlanma enerjisine göre çok düşük. Çiftin dağılarak iki bağımsız elektrona dönüşmemesi için bunlar zorunlu.
+Cooper çiftlerinin oluşmasının neden sıfır dirence yol açtığı sorusununsa basit bir cevabı yok. Standart, Bose-Einstein yoğuşması cinsinden açıklaması şöyle: Kuantum kuramına göre elektron bir fermiyondur; yani aynı kuantum durumunda bulunamayan, Pauli dışlama ilkesine uyan parçacıklar. Buna karşın çift sayıda fermiyon içeren bir sistemse bir bozondur. Bozonlar da, fermiyonların aksine aynı kuantum durumunda bulunmaya çalışır. Örneğin helyum atomu, 2 proton, 2 nötron ve 2 elektrondan, dolayısıyla 6 fermiyondan oluşan bir bozondur. Bose-Einstein yoğuşması olayında, bozonların büyük çoğunluğu aynı kuantum durumuna girer. Bu durumda, eğer bir takım bozonlar bir yöne doğru sabit hızla hareket ediyorsa, bütün diğer bozonlar da aynı yöne doğru aynı hızla gitmek isteyecektir. Belli bir sıcaklığın altında sıvı helyumda gördüğümüz “süper akışkanlık” bu kuantum olgusundan kaynaklanıyor. Süperiletkenlerde de Cooper çiftleri bir bozon gibi davranıyor (ama, bir Cooper çiftini, değişmez bir parçacık olarak düşünmek pek doğru değil). Dolayısıyla, akım taşıyan bir durumda, bütün Cooper çiftleri aynı yönde, aynı hızla hareket etme eğiliminde. Dolayısıyla, bu akımdan bir Cooper çiftini çıkarmak (yavaşlatmak) enerji isteyen bir olay, normal dirençli metallerdeki gibi dışarıya enerji veren bir olay değil.
+BCS Kuramı.
+Bir metalde atom örgüsünü oluşturan atomların birlikte hareket ettiği biliniyordu.Bu yapı belli enrji ve frekanslarda titreşiyordu.Titreşimin artması fonona bağlıydı frekans ise atom kütlesine bağlıydı.Civa için kritik sıcaklığın civa izotopuna göre değişiyordu buda süperiletkenliği fononla ilgisi olduğunu kanıtlıyordu.Negatif atom örgüsünün içinden pozitif yüklü iyonlarla elektromanyetik etkileşim yapmasının sonucu elektronları birlikte hareket ettirmeye çalışıyordu ve bu çiftlere Cooper çifti denildi.
+Süperiletkenliği anlamaya yönelik geniş çapta kabul edilmiş ilk teori 1957 yılında John Bardeen, Leon Cooper ve John Schrieffer adındaki Amerikalı fizikçilerden geldi ve onlara 1972'de Nobel ödülünü kazandırdı. Bu teori BCS teorisi olarak bilinmekte olup, adı bilimadamlarının soyisimlerinin başharflerinden derlenmiştir.
+BCS teorisi, süperiletkenliği mutlak sıfıra yakın değerlerde olan elementleri ve basit alaşımları (1. tip süperiletkenler) açıklamakla birlikte yüksek sıcaklık süperiletkenlerini açıklamakta yetersiz kalmaktadır.
+BCS teorisine göre elektronlar kristal bir örgünün içinden geçerken, örgü içeri doğru bükülme gösterir ve fonon denen ses paketleri oluşturur . Bu fononlar deforme olmuş alanda pozitif bir yük yatağı oluşturarak arkadan gelen elektronların aynı bölgeden geçmesine olanak sağlarlar. Elektronların çiftler halinde geçmesine sebep olan bu olaya 'phonon-mediated coupling' (fonon yardımıyla eşleşme) denir ve süperiletkenliğe olanak sağlar. Bu çift COOPER ÇİFTİ olarak adlandırılır.
+Kalıcı Mıknatıs Deneyi.
+Kritik sıcaklığın altına kadar soğutulmuş bir süperiletken maddeye üstten küçük, hafif fakat oldukça kuvvetli bir mıknatıs yaklaştırıldığında, mıknatısın süperiletken madde üzerinde kaldığı gözlenir.Mıknatıs süperiletkene yaklaştırıldığı zaman süperiletken madde üzerinde bir süperiletken akım meydana getirecektir. Manyetik alanın etkisiyle oluşan bu süperiletken akım dışarıdan uygulanan alana eşit fakat zıt yönde bir manyetik alan oluşturur.Süperiletken madde içerisinde oluşan bu manyetik alan da dışarıdan uygulanan manyetik alanın süperiletken madde içerisine girmesini engelleyecektir. Bu engelleme sonucu da süperiletken mıknatıs üzerinde havada kalacaktır.Bu olay madde süperiletken fazında kaldığı sürece devam edecektir.
+BSC TEORİSİ:Süperiletkenligi anlamaya yönelik genis çapta kabul edilmis ilk teori 1957 yilinda John Bardeen, Leon Cooper ve John Schrieffer adindaki Amerikali fizikçilerden geldi ve onlara 1972'de Nobel ödülünü kazandirdi. �
+Süperiletkenliğin teknolojik uygulaması
+Manyetik Güç Depolama
+Maglev Trenleri
+Maglev Rüzgar Türbinleri
+SQUIDs
+Süperiletken Bolometreler
+Süperiletken Kablolar
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Radyoaktivite</DOCTITLE>
+<TEXT>
+
+Radyoaktivite (Radyoaktiflik / Işınetkinlik) , atom çekirdeğinin, tanecikler veya elektromanyetik ışımalar yayarak kendiliğinden parçalanmasıdır, bir enerji türüdür. Çekirdek tepkimesi sırasında ortaya çıkar. İnsan vücudunun da, birçok nesnenin de içinden geçebilir. Yalnızca toprağın, kayaların ve özellikle kurşunun içinden rahatça geçemez. Radyasyon yayan nesneler, radyoaktif olarak adlandırılır.
+Çevremizde her zaman için bir miktar radyasyon bulunur, fakat radyasyonun fazlası insan sağlığını tehdit ettiği gibi, daha ileri safhalarda ölüme yol açabilir.
+Doğal radyasyon uranyum gibi bazı kimyasal elementler ile uzay boşluğundaki yıldızlar ve bazı nesneler tarafından üretilir. Bazı nesneler bir saniyeden çok daha az süreyle radyoaktif kalabilirler, bazıları ise binlerce yıl radyoaktif özelliğini koruyabilir.
+Radyasyon özel makineler sayesinde de üretilebilir, bu makinelere Siklotron (ivme makinesi), doğrusal hızlandırıcı veya parçacık hızlandırıcı adı verilir. Bazı bilim insanları bu makineleri üzerinde çalışabilecekleri radyasyonu üretebilmek için kullanırlar. Röntgen cihazları az miktarda üretilen (X ışınları) sayesinde insan vucudunun iç kısımlarının görüntülenmesini sağlar.
+Nükleer silahlar (atom bombaları, yapıları tahrip etmek ve insanları öldürmek amacıyla çok hızlı bir şekilde çok yüksek miktarda radyasyon ortaya çıkarırlar. Bu konuda en büyük ve insanlığın hafızasına kazınmış en acı deneyim, Amerikan ordusunun II. Dünya Savaşı’nın sonunda (1945) Hiroşima ve Nagazaki’ye attığı bombalardır. Öte yandan nükleer silahlar, II. Dünya Savaşı’ndan seksenli yılların sonuna kadar Amerika Birleşik Devletleri ve Sovyetler Birliği başta olmak üzere, kapitalist ve sosyalist bloklar arasında meydana gelen Soğuk Savaş’ın temelini oluşturmuştur. Uzun yıllar boyunca devam eden karşılıklı nükleer tehditler, insanlık için korkutucu bir deneyim meydana getirmiştir.
+Nükleer reaktörler elektrik üretmek için kullanılmaktadırlar. Bunlar da çok miktarda radyasyon meydana çıkarırlar, bu nedenle radyasyonun reaktörden dışarı sızmasını önleyecek şekilde dikkatlice inşa edilirler. Fakat birçok insan, reaktörlerde bir sorun oluşması durumunda radyasyonun çevreye yayılabileceğinden ve insanlara ve diğer canlılara zarar verebileceğinden endişe duymaktadır. 26 Nisan 1986’da Ukrayna’nın Çernobil şehrinde meydana gelen ve kanserojen etkileri Sovyetler Birliği, Avrupa ülkeleri ve Türkiye’yi de içine alan geniş bir alanda bugün dahi hissedilen büyük felaket, bu korkunun başlıca temelidir. Öte yandan, nükleer reaktörlerin parçaları ve atıkları büyük sorun oluşturmaktadır. Kimi parçalar, yüzlerce, hatta binlerce yıl boyunca radyoaktif kalabilmekte ve çevreye zarar verebilmektedir. Bu nedenle, bunların güvenli bir şekilde nasıl saklanması gerektiğine ilişkin tartışmalar, günümüzde bile canlılığından bir şey kaybetmiş değildir.
+Tarih.
+Bu olayı ilk kez 1 Mart 1896 yılında Fransız fizikçi Henri Becquerel uranyum üzerinde ortaya çıkarmıştır. Becquerel, buluşunu 1898 yılına kadar Becquerel ışınları olarak adlandırmış, daha sonra ise bu buluşuna, radyoaktivite ismini vermiştir.
+Özellikleri.
+Doğada kendiliğinden radyoaktif olan bazı elementler vardır, bunlar dört grupta ele alınır:
+Radyoaktifliğin tipleri.
+Bu serilerde radyoaktifliğin çeşitli tipleri ile karşılaşılır:
+1 nötron; 1 protona dönüşürken 1 elektron ve 1 antielektron nütrinosu fırlatır. Buna Beta ışıması denir.Proton sayısı 1 artar. Nötron sayısı 1 azalır. Kütle numarası değişmez.
+1 proton; 1 nötrona dönüşürken 1 pozitron ve 1 elektron nütrionusu fırlatır. Buna Pozitron ışıması denir. Proton sayısı 1 azalırken, nötron sayısı 1 artar. Kütle numarası değişmez.
+Radyoaktif dönüşümler az veya çok hızlı olurlar. Göz önüne alınan element çekirdeğin yarısının parçalanması için gerekli süreye Periyot (radyoaktiflik) veya yarılanma süresi denir. Çekirdeğin yapısı, en önemli unsurdur. Bir saniyenin milyarda birinin binde biri ( 10-12 ) kadar süren periyotlar olduğu gibi 1017 yıla ulaşan periyotlar olduğu bilinmektedir. Nükleer tepkimelerde, doğada bulunmayan radyoaktif çekirdekler elde edilebilir. Bu olaya suni radyoaktiflik denir.
+Yapay Çekirdek Reaksiyonları.
+Çekirdeği kararsız, radyoaktif bir atomun hiçbir dış etkiye bağlı kalmaksızın, kendiliğinden ışımalar yaparak başka çekirdeklere dönüşmesi olayına doğal radyoaktiflik denir.
+Doğal radyoaktif çekirdek tepkimeleri;
+şeklindedir.Tepkimedeki X, doğal radyoaktif atomu, Y ise oluşan yeni atomu göstermektedir.
+Radyoaktif olmayan bir atom çekirdeğinin, temel taneciklerle(alfa,nötron,proton...) bombardıman edilerek kararsız çekirdek haline dönüştürülmesi olayına yapay radyoaktiflik denir.
+Yapay radyoaktif çekirdek tepkimeleri,
+şeklindedir.Tepkimedeki X kararlı çekirdeği, a ise bombardıman taneciğini gösterir.X, bombardıman edilerek Y kararsız taneciğine dönüşürken bir de ışıma yapmaktadır.Oluşan Y çekirdeği, doğal radyoaktif bozunmaya uğrayarak başka çekirdeklere dönüşür.
+Bombardıman etme işlemlerinde kullanılan en uygun tanecik nötrondur.Çünkü nötron yüksüz olduğu için çekirdek tarafından itilmez ve böylelikle kolayca etkileşime girilebilir.
+Fisyon(Bölünme).
+Büyük atom çekirdeklerinin nötronlarla bombardıman edilerek daha küçük atom çekirdeklerine dönüştürülmesine fisyon denir.
+Atom ağırlığı büyük olan kararsız çekirdekler kendiliğinden parçalanarak kararlı çekirdeklere dönüşebilirler.Bu olaya doğal fisyondenmektedir.
+Füzyon(Kaynaşma).
+Küçük atom çekirdeklerinin kaynaşması ile daha büyük ve kararlı çekirdekler haline geçmesine füzyon denir.
+Radyoaktifliğe Etki Eden faktörler.
+Bir maddenin radyoaktifliğine etki eden en önemli faktör, maddenin atomlarının çekirdekleri ile ilgilidir. Nötron proton dengesizliği radyoaktiviteye neden olur.
+Bunun dışında sıcaklık da radyoaktiviteye etkiler. Sıcaklık arttıkça radyoaktif bozunma hızı azalır. Bunu veren formül de şu şekildedir ;
+formula_1
+Bu ifadede;
+Lambda , bozunma hızını
+k , Boltzmann sabitini
+T , sıcaklığı
+m , kütleyi
+c , ışık hızını temsil eder.
+Buna göre , maddenin sıcaklığı arttıkça bozunma hızı azalır. Ancak bu formülle ilgili bir ayrıntı vardır. Formülün payda kısmındaki formula_2 ifadesi açılırsa ; paydada kalan ifadede , sıcaklığın bağlı olduğu formula_3 değerinin , formula_4 ifadesi yanında hesaplamaya değer bir seviyeye ulaşabilmesi için sıcaklık çok fazla olmalıdır. Oda sıcaklığında maddenin kinetik enerjisi 0,05 eV kadarken , ancak 11.000°K sıcaklıkta kinetik enerji 1 eV lik enerjiye ulaşır. Sıcaklığın , radyoaktiviteye gözle görülür bir etki yapması içinse kinetik enerji 1 GeV olmalıdır. Bu da milyarlarca kelvin dereceye eşittir. Güneşin çekirdeği bile ancak 13,600,000°K sıcaklığıa sahiptir. Yani sıcaklığın radyoaktiviteye etkisi , güneşin çekirdeğinde bile gözlemlenemeyecek kadar azdır. Gözlemleme ve deney yapma olanaksızlığı yüzünden çoğu yerde sıcaklığın radyoaktiviteye etkisi yok kabul edilse de , sıcaklık radyoaktiviteye etki eden bir unsurdur. Özellikle de dev yıldızlarda.
+Radyoaktifliğin uygulamaları.
+Radyoaktiflik hemen hemen bütün bilimsel ve teknik alanlarda geniş bir uygulama alanı bulur. Radyoaktif izotopların nükleer tepkimelerinden tekniğin birçok dalında kontrol aracı olarak faydalanılır. Bu kontrolde özellikle radyoaktif bir elementin radyoaktif olmayan bütün izotoplarıyla aynı özellikleri göstermesinden yararlanılır. Radyoaktif uygulamalardan bazı bilim dallarında şu şekilde yararlanılmıştır:
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Güneydoğu Anadolu Bölgesi</DOCTITLE>
+<TEXT>
+
+Güneydoğu Anadolu Bölgesi, Türkiye'nin yedi coğrafi bölgesinden biridir. Güneydoğu Torosların güneyinden Suriye sınırına kadar olan yerleri kaplar. Bölge doğu ve kuzeyden Doğu Anadolu Bölgesi, batıdan Akdeniz Bölgesi, güneyden Suriye ve kısa bir sınırla da Irak ile çevrilidir.
+Güneydoğu Anadolu Bölgesi, Türkiye'nin en düzlük bölgelerinden biri olup, bu düzlükler Arap Yarımadası'nın güneyindeki Hint Okyanusu'na kadar gider. Bölge etli ve baharatlı yiyeceklere sahip olan zengin bir mutfak kültürüne sahiptir.
+Coğrafya.
+Arazi Yapısı.
+Bölgenin kuzey kesiminde Toros dağ sırasının güney yamaçları ile birlikte ikinci bir kıvrımlı dağ kuşağı uzanır. Bölgenin ortasında 1938 m yükseltiye sahip sönmüş Karacadağ Volkanı yer alır. Bölgenin batısında ise Gaziantep Platosu üzerinde yükselen Kartal Dağları önemli yükseklik yapar. İç kesimlere gidildikçe iklim karasallaşır.
+Karadağ’ın batısında Harran, Suruç, Ceylanpınar ve Birecik ovaları yer alır. Dicle nehri ve kollarının toplandığı Diyarbakır Havzası geniş olmayan ancak çok verimli bir ovaya sahiptir.
+Karacadağ’ın batısındaki Şanlıurfa, Gaziantep, Adıyaman platoları Fırat ve kolları tarafından derin bir şekilde yarılmıştır. Karacadağ’ın doğusu ise daha engebeli bir yapı gösterir. Bu bölümün güneyinde Mardin-Midyat Eşiği yer alır.
+Bölgenin iki önemli akarsuyundan biri olan Fırat, kaynağını Doğu Anadolu Bölgesi’nden alır. Bölgede ise Toroslar’dan gelen Kahta ve Karadağ’dan gelen küçük akarsularla beslenir. Güneydoğu Toroslar’ın güneye bakan yamaçlarından birçok kol halinde çıkan Dicle Nehri ise bölgenin diğer önemli akarsuyudur. Her iki akarsu da Basra Körfezi’ne sularını boşaltırlar.
+Bölgede doğal oluşumlu göl yoktur. Ancak Fırat ve Dicle üzerinde kurulmuş baraj gölleri bulunmaktadır. Bölgenin ve ülkenin 2. en büyük baraj gölü olan Atatürk Barajı bu bölge sınırları içinde yer alır.
+İklim.
+Orta Fırat Bölümü.
+Bu bölümde Akdeniz iklimi görülür. Bölgenin içlerine doğru iklim karasallaşır. Kış sıcaklık ortalaması, Dicle Bölümü'ne göre daha yüksektir. Bölümün kış sıcaklık ortalaması 0 °C'nin altına pek düşmez. Yağış en fazla kış mevsiminde görülür. Yıllık yağış tutarı 700 mm dir. Yaz aylarında yağışların azalması ve sıcaklığın yüksek olması kuraklığı arttırmıştır. İç kesimlerde karasal iklim görülür.
+Dicle Bölümü.
+Dicle Bölümü'nde karasal iklim etkilidir. Bölümde yazlar çok sıcak ve kurak, kışlar ise soğuktur. Bölümün yüksek kesimlerinde kar yağışları görülür. Kış mevsiminde sıcaklık 0 °C nin altına düşer. Bölümdeki yıllık yağış miktarı 500–600 mm'dir. Son zamanlarda özellikle Diyarbakır çevrelerinde ekonomik anlamda büyük ilerlemeler kaydedilmiştir.
+Bitki örtüsü.
+Bölgenin doğal bitki örtüsü bozkırdır. İç Anadolu bozkırlarına göre çok fakirdir. Bölgede antropojen bozkırlarda geniş yer kaplamaktadır. Ormanların en az olarak kapladığı bölge olan Güneydoğu Anadolu`da mevcut ormanların büyük bölümü de tahrip edilmiştir.
+Ekonomi.
+Coğrafi yönden GAP'ın (Güneydoğu Anadolu Projesi) giriş kapısı, sanayisi ve ticari hacmi ile de GAP kalkınmasında temel teşkil eden Gaziantep ekonomik yönden çevresindeki 17 ili etkisi altında tutmaktadır.
+Tarım ve hayvancılık.
+Bölge ekonomisi Gaziantep dışında tarım ve hayvancılığa dayanır. Geniş düzlüklerin olması bölgede tarım için büyük bir avantaj iken, yaz kuraklığının şiddetli olması üretimi olumsuz etki en çok ihtiyaç duyan bölge lös adı verilen çok verimli topraklar bulunur. Bölgenin Dünyada en bilinen tarım ürünü antepfıstığıdır. Türkiye'de en çok yetişir. Ayrıca buğday, pamuk, keten, susam, nohut, zeytin, incir, karpuz, kırmızı mercimekte yetiştirilir. Bölgede ağırlıklı olarak küçükbaş hayvancılık yapılır. Çok az miktarda sığır da vardır.Ayrıca hayvancılığa dayalı olarak Diyarbakır'da Türkiye'de bir ilk olan Organize Hayvancılık Bölgesi kurulmaktadır.
+Yeraltı zenginlikleri.
+Bölge yeraltı kaynakları bakımından oldukça zengin sayılabilir. Fosfat ve linyitin yanında bölgede petrol de çıkarılır. Batman, Diyarbakır ve Kahta'da Türkiye'nin önemli petrol yatakları bulunur ve Batman rafinerisinin işlediği petrol bölgeden sağlanır.
+İller.
+Güneydoğu Anadolu Bölgesi'nin 9 ili vardır:
+İllerin Merkezi Nüfusları (2011 sayımı)
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Manisa</DOCTITLE>
+<TEXT>
+
+Manisa, Türkiye'nin Ege Bölgesi'nde bir şehir ve Manisa ilinin merkezidir. "Şehzadeler Şehri" olarak da bilinir. Şifalı Mesir Macunu ve Sultaniye Üzümü ile tanınır. Antik çağda "Magnesia", Roma İmparatorluğu döneminde tam ismiyle "Magnesia ad Sipylum" olarak anılmıştır. Dünya dillerindeki mıknatıs ve magnezyum kelimelerinin kökeni Manisa'nın ismidir.
+İzmir'e yakınlığının da sağladığı avantajlarla hızla gelişen bir merkezdir. Türkiye'nin en gelişmiş ve en büyük organize sanayi bölgelerinden birisine sahiptir. Manisa ili üzümü, kavunu, mesir macunu ile ünlüdür. Vestel grubu, Indesit, Bosch, Schneider, ECA, Eczacıbaşı, Ülker gibi birçok marka ve firma, üretim üssü olarak Manisa'yı tercih etmektedir. Bölgenin İzmir'den sonra ikinci büyük sanayi ve ticaret merkezidir. Kent merkezi olarak Türkiye'nin en yoğun göç alan şehirlerinden birisidir. 6 Aralık 2012'de Resmi Gazete'de yayımlanan 6360 No'lu kanun ile Manisa Büyükşehir Belediyesi'ne dönüştürülmüştür.
+İl ve İklim.
+Ege bölgesinin batı kesiminde geniş bir alanı kaplayan Manisa ilinde, batı kesimlerinde ve Gediz Nehri havzası boyunca karasal nitelikli Ege-Akdeniz iklimi hakim olmakla, özellikle doğu ve dağlık bölgelerinde İç Anadolu'nun karasal ikliminin etkileri de görülür. İlin batısından doğusuna gidildikçe, toprak, iklim ve topografya gibi çevre koşulları aşamalı olarak değişmeye başlar. Bu değişime bağlı olarak, bitki örtüsü de değişir. Bitki örtüsü batıdan doğuya doğru sırayla, ova bitkileri, makiler, ormanlar ve alpin bitkilerinden oluşur. Ancak bunların aşamaları birbirlerini düzenli bir biçimde izlemez. Dağlarda egemen bitki örtüsü ormanlar ve makilerdir. 
+İl'de ortalama sıcaklık 16.8 °C'dir. En sıcak aylar, ortalama sıcaklığın 30 °C'nin üzerine çıktığı Haziran, Temmuz ve Ağustos aylarıdır. Yıllık sıcaklık ortalaması kışın (Ocak Ayı) 6 °C'nin altına düşmez. Yılda ortalama 25 gün don(lu) geçer. Yılda ortalama 107.5 gün sıcaklık 30 °C'nin üzerindedir. Ortalama olarak yılın 91 günü yağışlı geçmektedir. Yıllık ortalama yağış miktarı m² ye 750.3 kg'dır. En fazla yağış Aralık, Ocak ve Şubat aylarında görülür. Genel bitki örtüsü makidir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>İklim</DOCTITLE>
+<TEXT>
+
+İklim, bir yerde uzun bir süre boyunca gözlemlenen sıcaklık, nem, hava basıncı, rüzgar, yağış, yağış şekli gibi meteorolojik olayların ortalamasına verilen addır. Hava durumundan farklı olarak iklim, bir yerin meteorolojik olaylarını uzun süreler içinde gözlemler. Bir yerin iklimi o yerin enlemine, yükseltisine, yer şekillerine, kalıcı kar durumuna ve denizlere olan uzaklığına bağlıdır. İklimi inceleyen bilim dalına klimatoloji adı verilir. İklim türleri, sıcaklık ve yağış rejimi gibi durumlara bakılarak sınıflandırılabilir. Ancak günümüzde en çok kullanılan sınıflandırma sistemi, aslen Wladimir Köppen tarafından geliştirilmiş olan Köppen iklim sınıflandırmasıdır. 
+Paleoklimatoloji ise, göl yataklarında ve buzullarda bulunan tortular gibi biyolojik olmayan; yine ağaç halkaları, mercanlar gibi biyolojik kaynaklarla antik iklimleri inceleyen bilim dalıdır. Bu yöntem eski dönemlerde bir yerdeki sıcaklık ve yağış rejimlerini göstermek ve inceleme yapmak için kullanılır. Bu tür çalışmaların sonunda ortaya matematiksel iklim modelleri çıkarılır ve gelecekte iklimin ne derece değişebileceği konusunda tahminler yürütülür. 
+Tanım.
+İklim sözcüğünün kökeni Arapçadan gelmiş olup yeryüzünün herhangi bir yerinde hava olaylarına bağlı olarak gerçekleşen etkilerin uzun yılların ortalamasına dayanan durumu olarak tanımlanır. Bu ortalama süre yaklaşık olarak 30-35 yıldır. Ancak yine de bu süreler duruma göre değişebilmektedir. Bunun yanında iklimin ortalama değerleri hesaplama işlevinin yanında değerlerin günlük, yıllık değişken istatistikleri de hesaba katılıp incelenmektedir.
+hava ile hava durumu arasındaki fark ise "iklim beklenendir hava durumu elde edilendir" şeklinde açıklanmaktadır. Tarihsel süreçte iklime etki eden etmenler enleme, yükseltiye, yer şekillerine, kalıcı kar durumuna ve denizlere olan uzaklığa bağlıdır. Ancak bazı dinamik etmenler de iklime etki etmektedir. Bu etmenlerden olan okyanus akıntıları nedeniyle Atlantik Okyanusu'nun iki kuzey yakasından batıda olan Kanada kıyılarında hava olması gerekenden daha soğukken, doğu yakasındaki Avrupa kıyıları olması gerekenden yaklaşık 5 °C (9 °F) daha sıcaktır. Yine bir yerdeki bitki örtüsünün sıklığı, o bölgedeki yer katmanının daha serin olmasına neden olur. Bitki örtüsünün yoğun olması bölgesel olarak yağışı arttırır. Bunun dışında sera gazlarında görülen değişiklikler dünyadaki sıcaklığı değiştirerek Küresel Isınma veya Küresel Soğuma gibi iklimsel değişiklikleri ortaya çıkarır. Bu bağlamda iklime etki eden tüm durumlar tam olarak açıklanamayan karmaşık bir sistemin parçalarıdır.
+İklim sınıflandırması.
+İklimi aynı rejimlerin olduğu alanlarda sınıflandırmanın birçok yolu vardır. Aslında iklimlerin sınıflandırılışı ilk kez Antik Yunanistan'da bir yerin enlemine göre kabaca yapılmıştı. Ancak çağdaş iklim sınıflandırma yöntemleri kabaca iki şekilde ayrılabilir. Bunlar "kalıtımsal" ve "yapay" yöntemler olmak üzere iki kısma ayrılır. Genetik sınıflandırmalar, farklı hava kütlelerinin arasındaki ilişkilerin sıklığı ve durumu aynı yönden ele alan bozukluklar temeli üzerine kurulu yöntemleri içerir. Yapay sınıflandırmalar ise iklim kuşaklarını, bitki örtüsü sıklığıyla ele alır. Yapay sınıflandırmanın içerikleri ile Köppen iklim sınıflandırması arasında bir ilişki bulunur. Bu sınıflandırmada gözlemlenen en önemli kusur, aşamalı olarak gösterilmesi uygun olan iklim kuşaklarında açtığı farklı sınırlardır. 
+Bergeron ve Boyutsal Sinoptik.
+En genel sınıflandırma şekli, hava kütleleri etmeninin hesaba katılarak yapılanıdır. Bergeron sınıflandırması bu şekilde yapılan en kullanışlı sınıflandırmadır. Hava kütlesine dayalı sınıflandırma üç ana kolu içerir. Bunlarda ilki nem değerleri olup "c" (kıtasal hava kütlesi) ve "m" (denizsel hava kütlesi) harfleri ile gösterimi yapılmaktadır. İkinci kol ısıl içerikli olup "T" (tropikal), "P" (kutupsal), "A" (arktik), "M" (muson), "E" (ekvatoral) ve "S" (yüksek) harfleri kullanılarak gösterimi yapılır. Üçüncü ve son kol ise atmosfer durağanlığını konu almaktadır. Bu son kola göre, eğer bir hava kütlesi altındaki kara kütlesinden soğuksa "k" harfiyle gösterilir. Yine eğer bir hava kütlesi, altındaki kara kütlesinden daha sıcaksa "w" harfiyle gösterilir. 1950'lerde hava durumu tahmininde kullanılan hava kütlesi sınıflandırması, 1973 yılından sonra iklim bilimciler tarafından aynı nitelikteki klimatoloji kanıtlarında kullanılmaya başlandı.
+Bergeron sınıflandırması şemasına (SSC) göre, altı kategori bulunmaktadır. Bunlar Kuru Kutup, Kuru Orta, Kuru Tropik, Nemli Kutup, Nemli Orta ve Nemli Tropik şeklindedir.
+Köppen.
+Köppen iklim sınıflandırması aylık ve yıllık sıcaklıklar, yıllık yağış miktarı, yağışın yıl içindeki dağılışı ve yağış ile sıcaklığın doğal bitki örtüsü ile olan ilişkilerine dayanan bir sistemdir. Bu nedenden dolayı Köppen'in sınıflandırması, bitki örtüsüne dayalı iklim sınıflandırmasına kabataslak biçimde uymaktadır. Köppen sınıflandırmasına 
+göre iklimler beş ana kuşakta, yirmi dört farklı tipte toplanmıştır. Ana kuşaklar A, B, C, D ve E harfleri ile belirtilirken, iklim tipleri de bu harflere eklenen ikinci, üçüncü ve kimi zaman da bir dördüncü harfle belirtilmiştir. İkinci harfler bölgedeki yağış rejimini, üçüncü harfler sıcaklık karakterini, dördüncü harfler de özel durumları gösterir.
+A grubundaki iklimlerde en soğuk aydaki ortalama sıcaklık 18 °C üzerindedir. Öyle ki bütün mevsimler sıcaktır ve kış mevsimi yoktur. Bu gruptaki iklimlerde, yıllık yağış 750 mm üzerindedir. Bu gruptaki iklimler aşağıdaki gibidir:
+B grubundaki iklimler kurak iklimlerdir. Özellikle step ve çöl sahalarında görülür. Buralarda buharlaşma yağıştan fazladır. Step alanlarda yıllık yağış miktarı 100 ilâ 700 mm arasında, çöllerde ise 50 ilâ 350 mm arasındadır. Bu gruptaki iklimler aşağıdaki gibidir:
+C grubundaki iklimler ılıman iklimlerdir. Bu iklimlerde en soğuk ayın ortalama sıcaklığı -3 °C ile 18 °C arasındadır. Aynı şekilde en sıcak ayın ortalama sıcaklığı 10 °C'nin üzerindedir. Kışlar genelde kısadır ancak yine de birkaç ay boyunca toprak karla örtülü olabilir veya donabilir. Bu grupta yer alan iklimler aşağıdaki gibidir:
+D grubundaki iklimler, soğuk orman iklimleridir. Kışların şiddetli olduğu bu iklim grubundaki en soğuk ayın ortalama sıcaklığı -3 °C'nin altında, en sıcak ayın ortalaması 10 °C'nin üzerindedir. Bu kuşaktaki iklimlerde aylar boyunca toprağın karla örtülü kalır. Aşağıdaki iklimler bu gruptadır:
+E grubundaki iklimler ise kutup iklimleridir. Bu kuşaktaki iklimlerde en sıcak aydaki ortalama sıcaklık 10 °C'nin altındadır. Aşağıda bu gruptaki iklimler yer almaktadır: 
+Thornthwaite.
+Bu iklim sınıflandırma yönteminde, terleme ve buharlaşma değerleri kullanılarak toprak ve su yığınlarını görüntülenir. Bu yöntemde, belli bir alan üzerindeki bitki örtüsünü besleyen toplam yağış payı aktarılır. Burada nem veya kuraklık gibi endeksler kullanılarak bir bölgenin ortalama sıcaklık, yağış ve bitki örtüsü türüne bağlı olan nem rejimi gösterilir. Nemli bölgeler, her yıl terleme-buharlaşma miktarından daha çok yağış alır. Bunun yanında kurak bölgeler, yıllık bazda büyük oranda terleme ve buharlaşma oranına sahne olur. Dünyadaki karaların yüzde otuz üçü kadarı, kurak veya yarı-kurak olarak kabul edilir. Bu kurak veya yarı-kurak bölgelerin arasında Kuzey Amerika'nın güneybatısı, Güney Amerika'nın güneybatısı, Afrika'nın kuzey bölümü ile güney bölümünün bir kısmı, Asya'nın güneybatısı, Avustralya'nın önemli bir kısmı yer alır. Yapılan çalışmalara göre, yağış etkinliği (PE) ile Thornthwaite nem endeksi, yazları olduğundan fazla gösterilmekte ve kışları olduğundan az gösterilmektedir. Bu endeks, etkin bir şekilde bir bölgedeki otçul ve memeli türlerinin sayısını belirlemede kullanılabilmektedir. Bu endeks ayrıca iklim değişikliği çalışmalarında da kullanılmaktadır.
+Thornthwaite şemasında sıcaklığa bağlı sınıflandırmalar arasında mikrotermal, mezotermal ve megatermal rejimler yer almaktadır. Mikrotermal iklimde yıllık olarak düşük sıcaklıklar görülür. Öyle ki bu tür iklim bölgelerinde ortalama yıllık sıcaklık 0 ilâ 14 °C arasında değişir. Kısa yazların görüldüğü bu bölgelerde potansiyel buharlaşma da 14 ilâ 43 cm arasında değişir. Mezotermal iklimde uzun süren sıcaklar veya uzun süren soğuklar yoktur. Bu iklim bölgelerinde potansiyel buharlaşma oranı 57 ve 114 cm arasındadır. Megatermal iklimde ise yüksek ve kalıcı sıcaklık ve bol yağış hakimdir. Bu bölgelerdeki potansiyel buharlaşma 114 cm üzerindedir.
+Kayıtlar.
+Çağdaş.
+Çağdaş iklim kayıtları, termometreler, barometreler ve anemometreler tarafından yapılan uzun süreli ölçümlerle belirlenir. Elde edilen veriler, çağdaş zaman çizelgesi üzerindeki farklı hava şartlarını göstermek, hataları belirlemek ve çevre koşullarındaki değişiklikleri açıklamak üzere kullanılır.
+Paleoklimatoloji.
+Paleoklimatoloji, Dünya tarihinin en eski dönemlerindeki iklim koşullarının araştırılmasını sağlayan bir bilim dalıdır. Bu bilimdalında, buz katmanlarından, ağaç halkalarından, kayaç tortullarından, mercanlardan ve kayaçlardan örnekler alınarak eski dönemlerdeki iklim koşulları araştırılır. Bu sayede hangi dönemlerde iklimin sabit, hangi dönemlerde değişken olduğu ortaya konularak, arada yaşanmış olabilecek çeşitli olaylar hakkında veriler toplanabilir.
+İklim değişikliği.
+İklim değişikliği, tüm dünyanın veya belli bir bölgenin ikliminin tarih boyunca değişikliğe uğraması demektir. Bir yerin birkaç yıl ilâ milyon yıl arasında belli sebeplerden dolayı atmosfer ile ilgili niceliklerinin değişmesi iklim değişikliği ile ilgilidir. Bu değişikliklerin nedeni, Dünya'nın kendisine ait olabileceği gibi, Güneş ışığı veya son zamanlarda insan gibi dış etkenlerden dolayı da olabilir.
+Son yıllarda özellikle çevre politiklarındaki kullanıma göre, iklim değişikliği kavramı sadece çağdaş dönemdeki değişiklikleri konu almaktadır. Özellikle küresel ısınma ile iklim değişikliği kavramları birbiriyle ilintilidir. Bazı durumlara göre kavram, sadece beşeri etmenlerle için de kullanılabilmektedir. Bunun en önemli örneği Amerika Birleşik Devletleri'nde iklim üzerine bir kuruluş olan UNFCCC'dir. Bu kuruluş, insanlardan dolayı kaynaklanmayan iklim değişiklikleri için "iklim değişkenliği" terimini kullanmaktadır.
+Dünya, geçmişte birçok iklimsel dalgalanmaya sahne olmuştur. Bu dalgalanmalar için en bilinen örnek buz devridir. Bu buzul dönemleri, buzularası dönemlerle birbirinden ayrılmış durumdadır. Kar ve buz yığınlarının artması, yansıtabilirlik değerini yükselttiğinden, Güneş ışınlarının bir kısmı buzullar tarafından geri yansıtılmaktaydı. Bu de atmosfer sıcaklığında yükselmeye neden olmaktaydı. Volkanik etkinlikler gibi doğal etmenler sonucunda sera gazlarındaki artış da küresel bir ısınmaya neden olduğu gibi, buzularası bir dönemi de beraberinde getirebilir. Buz devirlerinin yaşanmasındaki tahmin edilen nedenler arasında kıtaların o zamanki durumları, Dünya'nın yörüngesindeki farklılıklar, Güneş ışınlarının yayılımındaki değişiklikler ve volkanizma yer almaktadır.
+İklim modelleri.
+İklim modelleri, atmosfer, okyanus, kara kütleleri ve buzulların etkileşimlerini gösteren modellerdir. Bu modeller gelecekteki iklim durumlarını belirlemek için ve iklim konusunda ortaya konan çalışmaları açıklamak üzere hazırlanır. Tüm iklim modellerinde, dünyaya giren kısa dalga elektromanyetik ışınımı ile, dünyadan çıkan uzun dalga (kızılötesi) ışınları dengede veya hemen hemen dengede gösterilir. Herhangi bir dengesizlik, dünyadaki ortalama sıcaklığın belirlenmesinde farklı sonuçlar ortaya çıkarır.
+Son yıllarda en çok üzerinde durulan modeller, atmosferdeki başta karbon dioksit olmak üzere belli başlı sera gazlarındaki artış hesaba katılarak hazırlananlardır. Bu modeller, dünyanın gelecekteki ortalama sıcaklık konusunda gösterdiği eğilimi tahmin etmekte kullanılır. Modeller çok basit olarak hazırlanabileceği gibi, çok karmaşık da olabilir.
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Seferihisar</DOCTITLE>
+<TEXT>
+
+Seferihisar, İzmir'in güneybatısında ve Ege Bölgesi'nde yer almaktadır. Seferihisar, Cumhuriyet öncesinde 1884 yılında ilçe olmuştur. Günümüzde İzmir'in 30 ilçesinden birisidir. 
+Seferihisar'ın Beyler, Çamtepe, Düzce, Gödence, Gölcük, İhsaniye, Kavakdere, Orhanlı ve Turgut olmak üzere toplam 9 köyü ve Doğanbey ile Ürkmez beldeleri bulunmaktadır. Çamtepe Güzelbahçe ilçesinden 2001 yılında Seferihisar'a bağlanmıştır. Beyler, Orhanlı, Gödence, Çamtepe ve İhsaniye köyleri orman köyleridir. Kavakdere köyü ise dağınık yerleşme yapısına sahiptir. Orhanlı köyü 1979 tarihinden itibaren yeni yerleşim alanına kurulmuş, eski köyün yerinde bir mahalle kalmıştır. Evliya Çelebi'nin de dediği gibi zeytin ve üzüm ilçenin temel geçim kaynakları arasındadır.
+Seferihisar ilçe merkezi 6 mahalleye sahiptir. Bunlar, Turabiye, Cami Kebir, Hıdırlık, Tepecik, Çolak İbrahim Bey, Sığacık ve Ulamış mahalleleridir.
+Tarih.
+Seferihisar ilçesi topraklarında en eski yerleşim yeri Teos olup, burasının MÖ 1000 yıllarında Akalar'dan kaçan Giritliler tarafından kurulduğu ve İonialıların bir kenti olduğu bilinmektedir. Böylece yörenin 3000 yıllık bir yerleşim yeri olduğu söylenebilir.
+Coğrafi konum.
+İl merkezine uzaklığı 45 km’dir. Kuzeyde Urla ve Güzelbahçe, Doğuda Menderes ile çevrilidir. İlçenin batısının ve güneyinin Ege Denizi’ne kıyısı olmakla birlikte ilçe merkezi denizden 5 km içeride bulunmaktadır. İlçenin yüzölçümü 386 km²’dir. Seferihisar’ın matematiksel konumu ise 26°45'00" doğu; 27°01'30" doğu boylamları ile 38°17'00" kuzey ve 38°02'00" kuzey enlemleridir.
+İlçe topraklarından demiryolu hattı geçmemekte, en yakın istasyon İzmir kent merkezinde (45 km) ve Adnan Menderes Havalimanı’nda (40 km) hizmet vermektedir.
+İlçenin deniz kıyısında yolcu ve yük taşımacılığına ait bir limanı bulunmazken, Sığacık’ta bir balıkçı barınağı ve 400 yat kapasiteli yat limanı bulunmaktadır.
+İlçe merkezinin kuruluş yeri deniz seviyesinden 18 m yüksektedir. Kent, kuzey-güney yönünde uzanan Kızıldağlar’ın (1080m) batısında, denize inen yamaçlar ve Kocaçay vadisinin düzlükleri üzerine kurulmuştur.
+Seferihisar ilçe merkezinin yakın çevresindeki yerleşmelere uzaklığı şöyledir:
+Coğrafi yapı.
+Yer şekilleri.
+Seferihisar, Urla Yarımadası'nın alçak depresyonlarından biri üzerinde yer almaktadır. Güzelbahçe'den Seferihisar'a doğru uzanan bu geniş depresyon alanı yer yer akarsularla parçalanmış olduğundan arızalı bir görünüm sunar. Bu alan, daha sonra Ulamış, Düzce ve Turgut köylerinin bulunduğu geniş depresyonla birleşerek güneybatı yönünde düz ve düze yakın eğimlerle Azmak Ovası'na ulaşır, oradan da denizle son bulur.
+Seferihisar morfolojik bakımdan bazı birimlere ayrılabilir. İlk ayırt edilen birim aşınım yüzeyleridir. Akarsu vadileriyle yarılan aşınım yüzeylerinin eteklerindeki yamaçlar ise ayrı bir morfolojik birim oluşturur.
+Seferihisar yöresinin yer şekillerinde akarsu aşındırması sonucu meydana gelen biriktirmenin rolü büyüktür. Nitekim Azmak Dere, Yassı Çay ve kollarının biriktirme şekillerinden alüvyal ova düzlükleri oluşmuştur. Azmak Dere ve kollarının oluşturduğu taban ovasına Azmak Ovası denilmekte, bir başka ova tabanı ilçe merkezinden başlayıp, Teos ören yerine kadar devam etmektedir.
+Seferihisar'da diğer bir morfolojik birim kıyılardır. Kıyılar, Urla Yarımadası'nın diğer kıyıları gibi girintili çıkıntılıdır. Bu kıyıların girintili çıkıntılı olmasının nedeni; dördüncü zaman (kuaterner) glasyel dönemi sonunda deniz seviyesinin yükselmesi ve bu arada tektonik hareketler sonucu meydana gelen kırılmalara bağlanabilir.
+Sığacık ovası ve güneyindeki kıyılar düz ve girintisizdir. Bu alanlar dereler tarafından getirilen alüvyonla dolmuş ve bugünkü şeklini almıştır.
+İlçe arazisinde en fazla yükselti 680 metre ile Çakmaktepe'dedir.
+İklim.
+İklim şartlarının belirlenmesinde planeter faktörlerden başka yükselti, rölyef, bakı, kıyı konumu, denizden uzaklık, kıyı akıntıları gibi fiziki coğrafya koşulları da etkili olmaktadır. Seferihisar'da ise morfolojik bakımdan yüksek alanlar az olduğu için rölyefin ve yükseltinin pek etkisi yoktur. Yörenin ikliminde en büyük etki denize aittir. Denize yakınlık ve denizin ılıman etkisiyle sıcaklık kış aylarında pek düşmez.
+Seferihisar'da ortalama yıllık sıcaklık, meteoroloji istasyonunun 1929-1995 yılları arası kayıtlarına göre; 16.4 C°, aylık ortalama maksimum sıcaklık Temmuz ayında 35.2 C°, aylık ortalama minimum sıcaklık 4.2 C° dir.
+Seferihisar ve çevresinde yüksek yaz sıcaklıkları yaşanırken kışlar ılık geçmektedir. Bu duruma göre Seferihisar'ın Akdeniz termik rejim bölgesi içinde olduğu söylenebilir. Çünkü yılın 4 ayında (Haziran-Temmuz-Ağustos-Eylül) sıcaklıklar 20 C° nin üstündedir.
+Seferihisar'da yıllık ortalama rüzgar hızı, yaklaşık olarak 3,5 m/sn civarındadır. Ocak, Şubat, Mart aylarında rüzgar hızında nisbi bir artış gözlenirken Mart ayından Haziran ayına kadar bir azalma daha sonra tekrar yükselme gözlenmekte ise de bunlar önemli bir değer değildir. Diğer yandan kışın ve geçiş mevsimlerinde rüzgarın hızı zaman zaman oldukça artmaktadır.
+Seferihisar'da yıllık ortalama bağıl nem % 64 olup, aylara göre değişmektedir. Sonbahar'dan itibaren bağıl nem oranı ilkbahar sonuna kadar yıllık ortalamadan fazla, Mayıs ayından itibaren yıllık ortalamanın altındadır. Minimum nem durumuna bakıldığında; hiçbir ayda atmosfer neminin % 10'un altına düşmediği anlaşılır. Batı sektörlü rüzgarların etkin olduğu, sıcaklığın azaldığı, bulutluluğun arttığı kış aylarında bağıl nem oranı artmakta, kuzey sektörlü rüzgarların görüldüğü ve bulutluluğun azaldığı yaz aylarında ise azalmaktadır. Kısaca söylenebilir ki deniz etkisinde olan yörede bağıl nem değerleri her ay yüksektir.
+Seferihisar'da yıllık ortalama yağış miktarı 588.1 mm dir. En yağışlı mevsim kış mevsimi ve ne yağışlı ay Aralık ayıdır (142mm). En az yağış ise yaz aylarında görülür (Temmuz ayında 1 mm). Seferihisar yarı nemli, mezotermal, su noksanı yaz aylarında çok kuvvetli, deniz etkisi alan bir özelliğe sahiptir. Mayıs-Eylül ayları arasında topraktaki su yetersizliği yörede tarım faaliyetlerini olumsuz etkilemektedir. Kasım ayından Nisan ayına kadar olan dönemde ise buharlaşma az olduğu ve yağış miktarları da yeterli olduğu için toprakta su bulunmaktadır.
+Bitki örtüsü.
+Seferihisar ekolojik ve fizyonomik bakımından ortak özellikler gösteren bitki topluluklarına sahiptir. Bitki toplulukları iki ana formasyonda görülür. Bunlar; maki topluluğu ve orman topluluğudur. Maki olarak ayırt edilen ve baskın türlerini, delice, menengiç, zakkum, katırtırnağı ve yer yer fundaların oluşturduğu formasyonda maki - garip şeklinde topluluklar da vardır. Ayrıca küçük topluluklar halinde kızılçam ormanları ile yüksek yapılı, kalın gövdeli, tek ağaç şeklinde meşeler yayılış gösterir. Doğal bitki örtüsü arasında kültür bitkilerinden zeytin ve narenciye ağaçları dikkati çeker.
+Ekonomi.
+Seferihisar ilçesi genelinde ekonomik faaliyetlerin temelini tarım ve onun içerisinde de zeytincilik oluşturmakta iken, narenciye ve enginar yetiştiriciliği ile süs bitkileri ağırlıklı seracılık, hayvancılık son yıllarda önemli gelir kaynağı olmaya başlamıştır. Öte yandan balıkçılık devam ederken, turizm; günümüzde ilçe ekonomisine katkı veren en önemli sektörlerdenbiri haline gelmiştir. Nüfusun % 80'i tarımla uğraşmaktadır.
+İlçenin sanayi ve ticaret hayatında çeşitli alanlarda faaliyet gösteren işletme, fabrika, atölye ve imalathaneler bulunmaktadır. Bunları saymak gerekirse; İlçe merkezinde tanzim et satış mağazası ve otobüs işletmesi olmak üzere 2 adet belediye iktisadi teşekkülü, 11 adet un fabrikası, 9 adet mandıra, 8 adet zeytinyağı fabrikası, 11 adet yaş meyve-sebze paketleme işletmesi, 2 adet beşer tonluk süt toplama merkezi, 50 adet marangoz imalathanesi, 10 adet soğuk demir atölyesi, 6 adet alüminyum ve 4 adet plastik imalathanesi bulunmaktadır. Narenciye paketleme tesislerinde işlenen ürünler ihraç edilmekte, diğer imalathane ve atölyeler ise ancak ilçe ihtiyaçlarını karşılamaktadır.
+
+</TEXT>
+</DOC>
+

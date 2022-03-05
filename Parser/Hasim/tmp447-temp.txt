@@ -1,0 +1,31 @@
+<DOC> <DOC>+BDTag
+<TITLE> <TITLE>+BTTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+Vücut vücut+Noun+A3sg+Pnon+Nom
+bütünlüğünü bütün+Adj^DB+Noun+Ness+A3sg+P3sg+Acc bütün+Adj^DB+Noun+Ness+A3sg+P2sg+Acc
+koruyan koru+Verb+Pos^DB+Adj+PresPart
+iç iç+Noun+A3sg+Pnon+Nom iç+Verb+Pos+Imp+A2sg iç+Adj
+ve ve+Conj
+dış dış+Noun+A3sg+Pnon+Nom dış+Adj
+ortamlarda ortam+Noun+A3pl+Pnon+Loc
+meydana meydan+Noun+A3sg+Pnon+Dat
+gelen gel+Verb+Pos^DB+Adj+PresPart gele+Noun+A3sg+P2sg+Nom
+değişikliklere değişik+Adj^DB+Noun+Ness+A3pl+Pnon+Dat
+karşı karşı+Adverb karşı+Adj karşı+Noun+A3sg+Pnon+Dat karşı+Noun+A3sg+Pnon+Nom karşı+Postp+PCDat
+iç iç+Noun+A3sg+Pnon+Nom iç+Verb+Pos+Imp+A2sg iç+Adj
+dengenin denge+Noun+A3sg+Pnon+Gen denge+Noun+A3sg+P2sg+Gen
+korunmasını koru+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Acc
+sağlayan sağla+Verb+Pos^DB+Adj+PresPart
+duruma duru+Adj^DB+Noun+Zero+A3sg+P1sg+Dat durum+Noun+A3sg+Pnon+Dat
+ne ne+Adverb ne+Conj ne+Adj ne+Pron+Ques+A3sg+Pnon+Nom
+ad ad+Noun+A3sg+Pnon+Nom
+verilir ver+Verb^DB+Verb+Pass+Pos+Aor+A3sg ver+Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+. .+Punc
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+<S> <S>+BSTag
+</S> </S>+ESTag
+</DOC> </DOC>+EDTag

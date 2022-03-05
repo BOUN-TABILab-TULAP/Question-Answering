@@ -1,0 +1,168 @@
+Question: Miladi takvimin başlangıcı olan 0 yılında tahmini dünya nüfusu ne kadardır
+Answer: WRONG ANSWER
+Doc1:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya nüfusu</DOCTITLE>
+<TEXT>
+
+Bu terim, dünya üzerinde yaşayan insan sayısını belirtmek amacıyla kullanılır. 
+En güncel tahminlere göre dünya nüfusu 7 milyara ulaşmıştır. 
+Birleşmiş Milletler Nüfus Fonu'nun belirlediği tarihe göre 12 Ekim 1999'da dünya nüfusu 6 milyara ulaşmıştır. 7 milyara ise Ekim 2011'de ulaşmıştır. 
+Şimdiye kadar yaklaşık 110.000.000.000 (110 Milyar) insan doğmuştur.
+20. yüzyılın son 70 senesinde dünya nüfusu tarihte en fazla yükselişini göstermiştir.
+Yukarıdaki rakamlara göre, son 50 yılda dünya nüfusu ikiye katlanmıştır.
+Birleşmiş Milletler tarafından 2002 yılında yayınlanan tahminlere göre:
+
+</TEXT>
+</DOC>
+
+Doc2:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünya Nüfusunun Tarihsel Artişi Ve Değişimi (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya Nüfusu Sürekli Artacak mı?
+Saniyede 2-3 kişi dünya nüfusuna katılıyor.
+Dakikada yaklaşık bir uçak (140 kişi) dolusu insan dünya nüfusuna katılıyor.
+Günde yaklaşık 100 bin kişilik iki stadın kapasitesi kadar insan dünya nüfusuna katılıyor.
+Her ay yaklaşık (6 milyon) kadar insan dünya nüfusuna katılıyor.
+Her	yıl	yaklaşık	Türkiye	nüfusu (73	milyon)	kadar	insan	dünya	nüfusuna	katılıyor.
+Geçmiş çağlardan günümüze dünya nüfusu genel olarak bir artma eğilimi göstermiştir. Nüfus bilim uzmanları, insanlık tarihi boyunca 3 büyük sıçrama döneminin yaşandığını düşünmektedir.
+Bu sıçramalardan birincisi insanların alet yapımını keşfetmesiyle yaşanmıştır. Bu dönemde, yetersiz beslenme azalmış ve vahşi hayvanlara karşı mücadelede önemli ilerlemeler gösterilmiştir.
+Dünya nüfusundaki ikinci sıçrama yaklaşık 10.000 yıl önce yaşanmıştır. İnsanların yerleşik hayata geçerek hayvanları evcilleştirmeleri ve tarımla uğraşmaları dünya nüfusunun 150-300 milyona yükselmesine neden olmuştur. Milattan sonraki 1000 yıl boyunca da bu sayı yavaş yavaş 350 milyona yükselmiştir.
+Sanayi Devrimi’ne kadar, bazı küçük alanlar yoğun bir nüfusa sahip olmasına rağmen dünyanın büyük bir bölümü seyrek nüfusluydu ya da tamamen boş hâlde bulunmaktaydı.
+Dünya nüfusundaki üçüncü sıçrama Sanayi Devrimi ile gerçekleşmiştir. Bu dönemde Avrupa’da yaşam düzeyi yükseldi. Tıp alanında ilerlemeler oldu. Beslenme ve sağlık koşulları düzeldi. İletişim ve taşımacılıkta önemli gelişmeler yaşandı. Bütün bu gelişmeler ölüm hızında düşüşü sağladı (Ölüm hızındaki düşüşe karşın doğum hızında herhangi bir değişiklik olmayınca dünya nüfusu 1800’lerin ortasında 1 milyara ulaştı).
+Özellikle 1750-1850 yılları arasında gerçekleşen Sanayi Devrimi, nüfus artışı kadar nüfusun dağılışını ve demografik özeliklerini de değiştirdi. Sanayi Devrimi’yle birlikte en önemli nüfus artışı ve değişimi Avrupa Kıtası’nda yaşandı.
+Avrupa ve Kuzey Amerika’da 1800’lerde başlayan ölüm hızındaki düşüş, gelişmekte olan ülkelerde ancak bu yüzyılda olmuş ve şaşırtıcı bir hızla gerçekleşmiştir. Örneğin Mısır’da 1940-1960 arasında ölüm hızındaki düşüş ortalama ömür beklentisini 20 yıl artırmıştır.
+1950-2000 yılları arasında dünyada önemli bir nüfus artışı meydana gelmiş, âdeta nüfus patlaması yaşanmıştır. Fakat dünya nüfusu artmasına rağmen artış hızı, 1970 yılından günümüze kadar giderek azalmaya başlamıştır. Hızlı nüfus artışı, genellikle az gelişmiş veya gelişmekte olan ülkelerde gerçekleşmiştir. Gelişmiş ülkelerde nüfus artış hızı oldukça düşüktür. Bunun en önemli nedeni ekonomik kalkınmanın gerçekleştirilmesi, şehirleşme oranlarının yüksek olması, nüfus planlamasının yapılması ve kadınların çalışma hayatına girmesidir.
+Sanayi Devrimi’nden bu güne dünya nüfusu 8,5 kat artarak 800 milyondan 7 milyara yaklaşmıştır. Birleşmiş Milletler Nüfus Vakfı (CINEPA)na göre 2050’de dünya nüfusu 8,9 milyara ulaşacaktır.
+Nüfus artışı nereye kadar sürecek; dünya nüfusu sürekli artacak mı, yoksa bu artış bir gün duracak mı? Hatta durduktan bir süre sonra azalmaya başlayacak mı? Bu konuda birçok ülkede yapılan araştırmaların uzlaştığı nokta, nüfus artışının 50-100 yıl kadar süreceği sonra duracağı yolundadır. Dünya nüfusunun 10-15 milyara ulaştığında sabitleneceği tahmin edilmektedir.
+
+</TEXT>
+</DOC>
+
+Doc3:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nüfus</DOCTITLE>
+<TEXT>
+
+Nüfus, belirli bir zamanda sınırları tanımlı bir bölgede yaşayan insan sayısıdır. Sözcük çoğunlukla insan sayısını belirleyen bir kavram olarak kullanılır. Nüfus bir ülkede, bir bölgede,bir evde belirli bir anda yaşayanların oluşturduğu toplam sayıdır.
+Nüfus, sayımlar yoluyla belirlenir. Nüfus sayımları seçmenlerin belirlenmesinin yanı sıra başka pek çok amaç için de yapılmaktadır. İlk nüfus sayımlarının temel amacı askeri gücü belirlemek, vergilendirme için kolaylık sağlamaktı ve yalnızca erkekler dikkate alınıyor, kadınlar ve çocuklar göz ardı ediliyordu. Nüfus sayımlarındaki diğer amaçlar da şunlardır: Erkek-kadın nüfusu belirlemek, kırsal-kentsel nüfusu belirlemek, nüfus yerleşim yerlerine göre dağılımını belirlemek, okuma-yazma oranını belirlemek, eğitim durumunu belirlemek, nüfusu belirlemek, nüfusun yaşlara göre dağılımını belirlemek ve daha birçok amaçtan dolayı yapılır.
+Düzenli sayımlar yakın tarihlidir. 14. yüzyılda İskandinav ülkelerinin uygulamaları ile başlamıştır. Nüfus sayımları yoluyla bir yerleşim birimindeki insan grubunun demografik özellikleri ortaya konur. Yaş ve vücut yapısı, ekonomik ve sosyal durum gibi. Düzenli sayımlar, nüfusun artış hızı, ölümler, doğumlar ve göçler gibi demografik göstergelerin gidişatını belirlenmesine olanak tanır ancak tüm dünyada, her ülkenin farklı nüfus sayım uygulamaları (yineleme süresi, güvenirlik vb.) nedeniyle tüm dünya nüfusu hakkında sağlıklı verilere ulaşmak güçtür.
+Dünya nüfusu 7 milyarı geçmiştir ve önemli toplanma alanları Çin'in doğusu ve Japonya; Hindistan, Kuzey Amerika'nın doğusu ve Batı Avrupa'dır. Dünya Nüfusu, Birleşmiş Milletler tarafından nüfus saati ile izlenmektedir.
+
+</TEXT>
+</DOC>
+
+Doc4:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünyada Nüfus Artişi (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya nüfusu sürekli bir hareketlilik ve değişim içindedir. Bu değişim; hem sayı ve artış hızı hem de alansal olarak farklılık göstermektedir. Dünya nüfusundaki bu değişiminde bir çok faktör etkili olmaktadır.
+Nüfustaki değişimleri daha çok doğum ve ölüm oranları arasındaki fark belirler. Göçler, çok sayıda insan ölümüne neden olan salgın hastalıklar ve doğal afetler ile ülke sınırlarının değişmesi de nüfusun değişiminde etkin rol oynamaktadır.
+NUFUS NASIL DEĞİŞİR?
+Doğumlar, ölümlerden fazla ise nüfus artar. Buna doğal artış denir.
+Doğum ve ölüm oranları aynı ise nüfus artışı sabittir.
+Ölümler, doğumlardan çok ise nüfus azalır.
+Günümüzde nüfusun en az artış gösterdiği ülkeler, gelişmiş ülkelerdir. Bu ülkelerde nüfus artış hızı % 0-1 arasındadır. Genç nüfusun çok az olduğu bu ülkelerde yaşlı nüfus önemli bir sorun oluşturmaktadır. Gelişmiş ülkelerde 65 yaş ve üzerindeki nüfus yaklaşık 150 milyon civarındadır. Bu miktar önümüzdeki dönemlerde giderek artacaktır. Gelecekte ortalama yaşam süresinin uzaması nedeniyle gelişmekte olan ülkelerde de yaşlı nüfus sorunu ortaya çıkacaktır.
+
+</TEXT>
+</DOC>
+
+Doc5:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Türkiye’De Nüfus Sayımları (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya nüfusu gibi Türkiye nüfusu da sürekli bir değişim ve artış içindedir. Bu değişim ve artış, hızını kaybetmekle beraber günümüzde de sürmektedir. Nüfustaki artış ve değişim belirli aralıklarla yapılan genel nüfus sayımlarıyla belirlenir.
+Osmanlı Devleti’nde ilk nüfus sayımı II. Mahmut döneminde gerçekleştirilmiştir. Cumhuriyet Döneminde ilk kapsamlı nüfus sayımı 1927 yılında yapılmıştır. 1935'teki nüfus sayımından sonra 1990'a kadar sayımların sonu “0” ve “5” ile biten yıllarda, 1990'dan sonra ise 10 yılda bir yapılmasına karar verilmiştir. Ancak 1997 yılında genel nüfus tespiti ve seçmen kütüklerinin güncelleştirilmesi amacıyla bir sayım daha yapılmıştır. 2007 yılından sonra adrese dayalı nüfus sayım sistemine geçilerek her yılın son günü nüfus tespiti yapılmaktadır.
+(II. Mahmut dönemi): 1831 yılında asker ve vergi yükümlülerini belirlemeye yönelik olarak yapılan nüfus sayımında Anadolu'nun nüfusu 7-7,5 milyon olarak sayılmıştır.
+(Abdülmecit dönemi ): 1844 yılında nüfus belgesi verilecek nüfusu tespit etmek amacıyla yapılan nüfus sayımında Anadolu’nun nüfusu 10-10,5 milyon olarak sayılmıştır.
+Türkiye nüfusunun yıllara göre artışı
+Adrese dayalı nüfus sayım sistemine göre (TÜ1K, 2011)
+Sayım Tarihleri	Nüfus	Yıllık Nüfus Artış Hızı %
+28.10.1927	13.648.270	-
+20.10.1935	16.158.018	21,10
+20.10.1940	17.820.950	19,59
+21.10.1945	18.790.174	10,59
+22.10.1950	20.947.188	21,73
+23.10.1955	24.064.763	27,75
+23.10.1960	27.754.820	28,53
+24.10.1965	31.391.421	24,63
+25.10.1970	35.605.176	25,19
+26.10.1975	40.347.719	25,01
+12.10.1980	44.736.957	20,65
+20.10.1985	50.664.458	24,88
+21.10.1990	56.473.035	21,71
+22.10.2000	67.853.315	18,35
+31.12.2010*	73.722.988	15,88
+
+</TEXT>
+</DOC>
+
+Doc6:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Dünyada Nüfusun Alansal Dagilişi (EBA)</DOCTITLE>
+<TEXT>
+
+Dünya nüfusunda geçmişten bugüne kadar sürekli değişim yaşanmıştır. Bu değişimlerden biri de nüfusun alansal dağılışıdır.
+Dünya nüfusu yeryüzüne eşit ve dengeli dağılmamış, kıtalara ve ülkelere göre farklılık göstermiştir. Kıta nüfusları, dünya nüfus artışına bağlı olarak geçmişten günümüze sürekli artmış ve değişmiştir. Ancak kıta nüfusları, tarihsel süreçte her zaman aynı oranda artış göstermemiştir.
+
+</TEXT>
+</DOC>
+
+Doc7:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nüfuslarına göre büyük şehirler listesi</DOCTITLE>
+<TEXT>
+
+Bilindiği üzere dünya nüfusu her geçen yıl hızla artmakta ve bu artış da çoğunlukla büyük şehirlerde gerçekleşmektedir. Bu bilginin ışığında dünyadaki en kalabalık büyükşehirlerin yer aldığı bu liste aşağıda verilmiştir. Bu şehirler aslında "metropolitan" olarak da adlandırılabilirler. Bir şehrin metropolitan sayılabilmesi için şehrin ekonomik, sosyolojik ve refah seviyesi ve daha birçok faktör etkili olabilmektedir.
+Kaynakça.
+Diğer demografik listeler
+Tarihi listeler
+Galeri.
+Yukarıda resimleri yer almayan şehirler kıtalarına göre aşağıda yer almaktadır.
+Not: Şehirler alfabetik olarak sıralanmıştır.
+
+</TEXT>
+</DOC>
+
+Doc8:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Pakistan-Türkiye ilişkileri</DOCTITLE>
+<TEXT>
+
+Pakistan-Türkiye ilişkileri, Pakistan ve Türkiye arasında 1947'den beri süren uluslararası politikaları içerir.
+İki ülkede yaşayan halkların birbirleri ile ilişkileri ülkelerin kuruluşlarından öncesine dayanmaktadır. 1920'lerde, Hindistan sınırlarında yaşayan Pakistan müslümanları Türk Kurtuluş Savaşı'nda Anadolu halkına hem maddi hem de manevi yönden yardımlarda bulundu. 1947'de Pakistan'ın bağımsızlığından sonra ikili ilişkiler resmî olarak başladı. Günümüze kadar iki ülke arasında askerî ve ekonomik alanda birçok anlaşma imzalandı. İki ülke de Dünya'da nüfusu 60 milyondan fazla olan 8 müslüman ülkenin üyesi olduğu ortak pazar birliği olan D-8 (Developing Eight) üyesidir.
+
+</TEXT>
+</DOC>
+
+Doc9:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>Nüfus Saati</DOCTITLE>
+<TEXT>
+
+Nüfus Saati, Birleşik Devletler Nüfus Sayım Bürosu tarafından devamlı bir şekilde Birleşik Devletler ve Dünya toplam nüfusunun yaklaşık olarak tahmin edilmesi yötemidir. Nüfus toplamları son nüfus sayım bilgileri ve ulusal nüfus tahminlerine dayanır.Bu bilgiler iki saati çalıştıran algoritmalarda kullanılır (Ulusal nüfus ve Dünya toplam nüfusu). 
+Hesaplamalar yaklaşık nüfusu tahmin etmede kullanılır:
+Birim zamanda bir doğum- birim zamanda bir ölüm + birim zamanda bir uluslararası göçmen = kapsamlı artış ( birim zamanda bir kişi). 
+Örnek, her 1 dakika ve 56 saniyede bir doğum - her 3 dakika ve 59 saniyede bir ölüm+ her 3 dakika ve 11 saniyede bir uluslararası göçmen= her 1 dakika ve 44 saniyede bir kişi 
+
+</TEXT>
+</DOC>
+
+Doc10:0:<DOC>
+<DOCNO></DOCNO>
+<DOCTITLE>2004 XP14</DOCTITLE>
+<TEXT>
+
+, asteroit; dünyaya yakın göktaşı ve potansiyel olarak tehlikeli nesne..
+Keşfi.
+İlk olarak LINEAR projesi tarafından tespit edildi.
+Tahmini boyutu, Dünya yörüngesine yakınlığı nedeniyle, bu nesne Massachusetts Minor Planet Center tarafından "Tehlikeli Asteroid" (PHA) olarak sınıflandırılmıştır. büyüklüğü tam olarak bilinmemektedir. Optik ölçümleri dayanarak, nesnenin çapı 300 ila 900 metre civarındadır.
+2006 yılında dünyanın 432.308 km yakınından geçti.
+
+</TEXT>
+</DOC>
+

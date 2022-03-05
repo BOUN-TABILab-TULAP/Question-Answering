@@ -1,0 +1,12 @@
+1	ABD	Abd	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+2	Ulusal	Ulusal	Noun	Prop	A3sg|Pnon|Nom	_	_	_	_
+3	parkı	park	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+4	hangi	hangi	Adj	Adj	_	_	_	_	_
+5	birlik	birlik	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+6	tarafından	taraf	Noun	Noun	A3sg|P3sg|Abl	_	_	_	_
+7	_	koru	Verb	Verb	Pos	_	_	_	_
+8	koruma	_	Noun	NInf	A3sg|Pnon|Nom	_	_	_	_
+9	altına	alt	Noun	Noun	A3sg|P3sg|Dat	_	_	_	_
+10	_	al	Verb	Verb	_	_	_	_	_
+11	alınmıştır	_	Verb	Verb	Pass|Pos|Narr|A3sg|Cop	_	_	_	_
+12	.	.	Punc	Punc	_	_	_	_	_

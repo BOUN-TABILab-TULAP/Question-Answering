@@ -1,0 +1,14 @@
+1	Akarsuların	akarsu	Noun	Noun	A3pl|Pnon|Gen	_	_	_	_
+2	_	taşı	Verb	Verb	Pos	_	_	_	_
+3	taşıdığı	_	Adj	APastPart	P3sg	_	_	_	_
+4	su	su	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+5	miktarı	miktar	Noun	Noun	A3sg|P3sg|Nom	_	_	_	_
+6	yıl	yıl	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+7	içinde	iç	Noun	Noun	A3sg|P3sg|Loc	_	_	_	_
+8	nelere	ne	Pron	QuesP	A3pl|Pnon|Dat	_	_	_	_
+9	_	bağ	Noun	Noun	A3sg|Pnon|Nom	_	_	_	_
+10	bağlı	_	Adj	Adj	With	_	_	_	_
+11	_	ol	Verb	Verb	Pos	_	_	_	_
+12	olarak	_	Adv	Adv	ByDoingSo	_	_	_	_
+13	değişir	değiş	Verb	Verb	Pos|Aor|A3sg	_	_	_	_
+14	.	.	Punc	Punc	_	_	_	_	_

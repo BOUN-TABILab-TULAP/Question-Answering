@@ -1,0 +1,26 @@
+Aort kapak alanı hesaplaması
+Aort kapak alanı hesaplaması aort kapak alanı belirleme dolaylı bir yöntemdir. Hesaplanan aort kapak orifis alanı şu anda aort darlığı şiddetini değerlendirmek için önlemlerden biridir. En az 0.8 cm² bir kapak alanı şiddetli aort darlığı olarak kabul edilir.
+Aort darlığı valf alanı hesaplamak için birçok yol vardır. En sık kullanılan yöntemler ekokardiyografi sırasında çekilen ölçümleri içerir. Bu değerlerin yorumlanması için, bölge, genel olarak, hastanın uygun aort kapak açıklığı alanına ulaşmak için, vücut yüzey alanı ile bölünür.
+Planimetri.
+Planimetri vanası açık olması gerekiyordu ventriküler sistol sırasında ekokardiyografik edinimi sırasında elde edilen hareketsiz görüntüde aort kapağının açılması dışında izleme olduğunu. Bu yöntem, doğrudan kapak alanı ölçer, görüntü nedeniyle ekokardiyografi sırasında eserler elde etmek zor olabilir, ve ölçümler el açık aort kapağının çevresini izlemek için vardır teknisyen bağlıdır. Bu nedenlerden dolayı, aort kapağının planimetri rutin değildir.
+süreklilik denklemi.
+süreklilik denklemi iki alan arasında herhangi bir şant varsa bir alanda akışı ikinci bölgede akışını eşit gerektiğini belirtmektedir. Pratik açıdan bakıldığında, sol ventrikül çıkış yolu (SVÇY) akış aort kapak düzeyinde akışına karşılaştırılır. Ekokardiyografi aort kapak alanı en doğru yöntem ve tercih edilen hız süresi integrali (VTI) kullanılarak hesaplanır. LVOT'den geçen akış, ya da LV Kriz hacmi (sm3 ya da cc), LVOT'den (cm2) enine kesit alanı verir 0,78540 değerini çarparak, bu değeri karesi, SVÇY çapı (cm) bir ölçüm ve çarpılarak hesaplanabilir Darbeli dalga Doppler kullanılarak spektral Doppler ekranda ölçülen LVOT VTI (cm) değeri. Bunlardan, sadece sürekli dalga Doppler kullanılarak spektral Doppler ekranda ölçülen AV VTI (cm) tarafından LV Vuruş Hacmi (cm3) bölünmesi ile aort kapağının alanı (cm2) hesaplamak kolaydır.
+SV = 0.785 Diameter2 VTI x x (SVÇY)
+CSA (SVÇY) cm2 = 0.785 x SVÇY Çapı
+SV = Vuruş Hacmi
+CSA = Kesit Alanı
+FORMULA_1
+Bu SVÇY boyut karesi içerir çünkü bu hesaplamanın en zayıf yönü, SVÇY alanının ölçümünde değişkenlik olduğunu. Sonograf uzmanı SVÇY çapı ölçümü büyük özen için Bu nedenle, çok önemlidir.
+ekokardiyogramda sırasında varsayıldığı gibi, tek tip bir çap olmadığından ekokardiyografi kullanarak ölçüm, Aort darlığının subvalvüler durumlarda yanlış olabilir. ekokardiyogramda bakış açısı bazı hastalarda LVOT'den gerçek çapını bozabilir. Elde edilen kapak alanı doğrulama amaçlı elde kapak alanı aralığında ise özellikle cerrahi gerektiren ve kardiyak output düşük, ekokardiyografi ve Doppler önlemlerini kullanmak için, gerçek hemodinami için sol kalp kateterizasyonu Altın standardı Gorlin kullanarak doğrulama için elde edilmelidir Formül, bu yüzden sabırlı gereksiz cerrahi için gitmez.
+Gorlin denklemi.
+Gorlin denklemi aort kapak alanı sabit bir valf kez arasında sistolik basınç farkı bölü ventriküler sistol sırasında aort kapaktan akışına eşit olduğunu belirtir. aort kapakçığının karşısında akışı (litre / dakika olarak ölçülür) kardiyak output alarak ve kalp hızı ile bölünerek hesaplanır (ve daha sonra ritmi başına saniye cinsinden ölçülen sistolik ejeksiyon dönemi bölünerek (kardiyak döngü başına çıkış vermek) ) ventriküler kasılma başına akışını vermek.
+formula_2
+Gorlin denklemi valf boyunca akmasına ilgilidir. Kapaktaki akım düşükse Bu nedenle, kapak alanı hatalı stenotik olarak hesaplanabilir (örneğin, kalp çıkışı düşük ise). Gerçek gradyan ölçümü geçici dobutamin gibi pozitif inotropik ajanlar, infüzyon yoluyla kalp çıkışını arttırarak gerçekleştirilir.
+Hakkı denklemi.
+Hakkı denklemi gözleme dayanarak, Gorlin denkleminin bir basitleştirme olan, çoğu durumda, sayısal değeri
+formula_3. Elde edilen basitleştirilmiş formül:
+formula_4
+Gerçek zamanlı üç boyutlu ekokardiyografi.
+Http://circ.ahajournals.org/content/112/7/992 Bkz
+Ayrıca bakınız.
+https://www.google.com/search?q=Real-time+three-dimensional+echocardiography&sourceid=ie7&rls=com.microsoft:en-us:IE-SearchBox&ie=&oe=

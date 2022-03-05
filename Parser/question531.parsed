@@ -1,0 +1,10 @@
+1	Türkiye	Türkiye	Noun	Prop	A3sg|Pnon|Nom	8	SUBJECT	_	_
+2	elektrik	elektrik	Noun	Noun	A3sg|Pnon|Nom	3	CLASSIFIER	_	_
+3	üretiminin	üretim	Noun	Noun	A3sg|P3sg|Gen	6	POSSESSOR	_	_
+4	ne	ne	Adj	Adj	_	5	OBJECT	_	_
+5	_	kadar	Postp	Postp	PCDat	6	DERIV	_	_
+6	kadarını	_	Noun	Zero	A3sg|P3sg|Acc	8	OBJECT	_	_
+7	HESten	HESten	Noun	Prop	A3sg|Pnon|Nom	8	SUBJECT	_	_
+8	karşılamaktadır	karşıla	Verb	Verb	Pos|Prog2|A3sg|Cop	9	SENTENCE	_	_
+9	.	.	Punc	Punc	_	0	ROOT	_	_
+

@@ -1,0 +1,14 @@
+1	Kan	kan	Noun	Noun	A3sg|Pnon|Nom	2	CLASSIFIER	_	_
+2	pıhtılarının	pıhtı	Noun	Noun	A3pl|P3sg|Gen	3	POSSESSOR	_	_
+3	oluşumunda	oluşum	Noun	Noun	A3sg|P3sg|Loc	5	LOCATIVE.ADJUNCT	_	_
+4	görev	görev	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT	_	_
+5	_	al	Verb	Verb	Pos	6	DERIV	_	_
+6	alan	_	Adj	APresPart	_	7	MODIFIER	_	_
+7	hücre	hücre	Noun	Noun	A3sg|Pnon|Nom	8	CLASSIFIER	_	_
+8	parçalarına	parça	Noun	Noun	A3pl|P3sg|Dat	12	DATIVE.ADJUNCT	_	_
+9	ne	ne	Adj	Adj	_	10	MODIFIER	_	_
+10	ad	ad	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT	_	_
+11	_	ver	Verb	Verb	_	12	DERIV	_	_
+12	verilir	_	Verb	Verb	Pass|Pos|Aor|A3sg	13	SENTENCE	_	_
+13	.	.	Punc	Punc	_	0	ROOT	_	_
+
