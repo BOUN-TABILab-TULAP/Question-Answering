@@ -265,8 +265,8 @@ def pilot_question():
 		'qText': qText,
 		'qRelated_doc_titles': titles,
 		'summaries': summaries,
-		'transTitles': transTitles,
-		'transSummaries': transSummaries,
+# 		'transTitles': transTitles,
+# 		'transSummaries': transSummaries,
 		'done': True
 		}
 
