@@ -7,7 +7,7 @@ WORKDIR /app
 COPY . .
 RUN  pip install -r requirements.txt
 EXPOSE 3030
-RUN wget -q http://nlp.cmpe.boun.edu.tr/staticFiles/hazircevap-ir.tar.gz
+RUN wget -q https://tulap.cmpe.boun.edu.tr/staticFiles/hazircevap-ir.tar.gz
 RUN mkdir IR && tar -xzf hazircevap-ir.tar.gz -C IR/ --strip-components=1
 WORKDIR /app/Main
 ENTRYPOINT ["python"]
